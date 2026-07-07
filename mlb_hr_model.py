@@ -228,12 +228,22 @@ def _github_upload(local_path: str, repo_path: str) -> bool:
 
 def _upload_to_github(excel_path: str) -> None:
     """
-    Upload the daily Excel output and the model Python file to GitHub.
+    Upload fixed-name CSV tab exports and the model Python file to GitHub.
+    CSVs overwrite the previous day's files — local Excel backups are kept separately.
     Called at the end of main() after export_excel() completes.
     """
     print("\n── GitHub Auto-Upload ─────────────────────────────────────────────")
-    # Upload today's Excel output
-    _github_upload(excel_path, f"outputs/{Path(excel_path).name}")
+    parent = Path(excel_path).parent
+    # Upload fixed-name CSVs (overwrite previous day), delete locally after success
+    for name in ("current_rankings", "current_detailed", "current_hitprops",
+                 "current_conditions", "current_sharp"):
+        csv_path = parent / f"{name}.csv"
+        if _github_upload(str(csv_path), f"outputs/{name}.csv"):
+            try:
+                csv_path.unlink()
+                print(f"  🗑️  Deleted local: {name}.csv")
+            except Exception as _e:
+                print(f"  ⚠️  Could not delete local {name}.csv: {_e}")
     # Upload the model source file itself
     _github_upload(__file__, "mlb_hr_model.py")
     print("──────────────────────────────────────────────────────────────────\n")
@@ -25178,6 +25188,31 @@ def export_excel(scores, games, top_n, filepath):
     _sheet_methodology(wb)
     wb.save(str(out_path))
     print(f"  ✅ Saved: {out_path}")
+
+    # ── Auto-export CSVs for GitHub (fixed filenames, overwritten daily) ──────
+    try:
+        import csv as _csv
+        _csv_tabs = {
+            "current_rankings":   "🏆 Rankings",
+            "current_detailed":   "📊 Detailed",
+            "current_hitprops":   "🎯 Hit Props",
+            "current_conditions": "🌤️ Game Conditions",
+            "current_sharp":      "🎯 Sharp Picks",
+        }
+        for _suffix, _sheet_name in _csv_tabs.items():
+            try:
+                _ws = wb[_sheet_name]
+                _csv_path = out_path.parent / f"{_suffix}.csv"
+                with open(_csv_path, "w", newline="", encoding="utf-8-sig") as _f:
+                    _writer = _csv.writer(_f)
+                    for _row in _ws.iter_rows(values_only=True):
+                        _writer.writerow([str(v) if v is not None else "" for v in _row])
+                print(f"  ✅ CSV exported: {_csv_path.name}")
+            except Exception as _e:
+                print(f"  ⚠️  CSV export failed for {_sheet_name}: {_e}")
+    except Exception as _e:
+        print(f"  ⚠️  CSV export block failed: {_e}")
+
     return str(out_path)
 
 
