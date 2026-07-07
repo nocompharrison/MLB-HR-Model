@@ -126,7 +126,21 @@ import os
 
 # ── CONFIGURE THESE TWO VALUES ───────────────────────────────────────────────
 _GH_REPO  = "nocompharrison/MLB-HR-Model"   # e.g. "hlee145/mlb-model-files"
-_GH_TOKEN = os.environ.get("GITHUB_TOKEN", "")        # set via Windows env variable
+def _load_gh_token() -> str:
+    # 1. Try environment variable (works in terminal)
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if token:
+        return token
+    # 2. Fall back to .env file next to this script (works when called from Excel)
+    env_file = Path(__file__).parent / "github_token.env"
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            line = line.strip()
+            if line.startswith("GITHUB_TOKEN="):
+                return line.split("=", 1)[1].strip()
+    return ""
+
+_GH_TOKEN = _load_gh_token()
 # ─────────────────────────────────────────────────────────────────────────────
 
 def _github_upload(local_path: str, repo_path: str) -> bool:
