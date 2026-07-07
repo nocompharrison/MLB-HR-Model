@@ -1,0 +1,60 @@
+﻿"⚾  MLB HOME RUN MODEL  —  Tuesday, July 07, 2026",,,,,,,,,,,,,,,,,,
+"Top 50 HR Picks  |  10,000 Monte Carlo Sims  |  Power + Matchup + Bullpen + Vegas + PropLine Odds",,,,,,,,,,,,,,,,,,
+Rank,Batter,Status,Game Time,Team,Opp,Pitcher,HR Odds,HR Prob,"Score
+/100",Power,Vuln,"Pitch
+Match",Park,Env,Est PA,"Edge
+vs Mkt","Hit
+Score","Sig
+Score"
+🥇,Bryce Harper,✅ Conf,7:10 PM ET,PHI,CIN,Andrew Abbott,+310,0.2186,69.6,82.7,52.1,1.047,1.2,1.197,4.5,+2.1%,~29,10
+🥈,Kyle Schwarber,✅ Conf,7:10 PM ET,PHI,CIN,Andrew Abbott,+190,0.2105,69.5,88.0,52.1,1.095,1.2,1.197,4.6,+9.1%,~24,7
+🥉,Matt Olson,✅ Conf,6:40 PM ET,ATL,PIT,Paul Skenes,+300,0.1963,68.0,87.8,34.5,1.073,0.96,1.02,4.4,+18.8%,39.4★,9
+4,Luis García Jr.,✅ Conf,6:45 PM ET,WSH,HOU,Tatsuya Imai,+400,0.1887,68.0,85.5,41.5,1.062,0.92,0.89,4.6,+6.2%,48.4~,9
+5,Miguel Vargas,✅ Conf,7:40 PM ET,CWS,BOS,Payton Tolle,+340,0.1862,68.0,88.0,44.3,1.075,0.93,0.937,4.6,+4.6%,40.5~,7
+6,Riley Greene,✅ Conf,6:40 PM ET,DET,ATH,J.T. Ginn,+330,0.1857,68.0,85.6,46.6,1.055,0.98,0.977,4.6,-3.5%,43.2~,9
+7,Nick Kurtz,✅ Conf,6:40 PM ET,ATH,DET,Tarik Skubal,+390,0.1791,68.0,88.0,35.2,1.07,0.98,0.977,4.5,-2.7%,44.1~,9
+8,Colson Montgomery,✅ Conf,7:40 PM ET,CWS,BOS,Payton Tolle,+300,0.1782,68.0,88.0,44.3,1.047,0.97,0.977,4.5,+8.7%,35.0★,12
+9,CJ Abrams,✅ Conf,6:45 PM ET,WSH,HOU,Tatsuya Imai,+420,0.1743,68.0,83.4,41.5,1.05,0.92,0.89,4.5,+12.7%,50.2,14
+10,Jazz Chisholm Jr.,✅ Conf,6:40 PM ET,NYY,TB,Ian Seymour,+480,0.1589,68.0,80.3,35.9,1.003,0.95,0.95,4.0,+10.8%,32.7,9
+11,Alec Burleson,✅ Conf,2:15 PM ET,STL,MIL,Jacob Misiorowski,+560,0.1509,68.0,83.7,28.0,1.059,0.97,0.947,4.4,+10.6%,1.0,9
+12,Hunter Goodman,✅ Conf,10:10 PM ET,COL,LAD,Justin Wrobleski,+235,0.1851,67.4,88.0,44.8,1.086,1.0,1.052,4.4,+15.2%,38.3★,9
+13,Paul Goldschmidt,✅ Conf,6:40 PM ET,NYY,TB,Ian Seymour,+430,0.1712,67.3,82.2,35.9,1.072,0.91,0.91,4.5,+23.0%,66.8,9
+14,Michael Harris II,✅ Conf,6:40 PM ET,ATL,PIT,Paul Skenes,+400,0.1981,67.2,86.9,34.5,1.088,0.96,1.02,4.6,+5.9%,50.3,9
+15,Junior Caminero,✅ Conf,6:40 PM ET,TB,NYY,Will Warren,+300,0.1897,67.2,88.0,46.0,1.088,0.91,0.91,4.4,+2.5%,52.7,6
+16,Shea Langeliers,✅ Conf,6:40 PM ET,ATH,DET,Tarik Skubal,+330,0.155,67.2,88.0,35.2,1.088,0.94,0.938,4.4,+7.3%,1.0,4
+17,Willson Contreras,✅ Conf,7:40 PM ET,BOS,CWS,Noah Schultz,+330,0.1775,67.1,87.6,51.5,1.088,0.93,0.937,4.4,+9.1%,33.4,9
+18,Ben Rice,✅ Conf,6:40 PM ET,NYY,TB,Ian Seymour,+400,0.1871,66.7,83.2,35.9,1.093,0.95,0.95,4.4,+15.8%,44.7~,9
+19,Drake Baldwin,✅ Conf,6:40 PM ET,ATL,PIT,Paul Skenes,+470,0.1871,66.3,85.3,34.5,1.059,0.96,1.02,4.3,+2.0%,43.0~,13
+20,Sal Stewart,✅ Conf,7:10 PM ET,CIN,PHI,Zack Wheeler,+350,0.1715,65.9,83.0,34.8,1.069,1.16,1.157,4.6,-2.7%,39.2★,8
+21,Jackson Chourio,✅ Conf,2:15 PM ET,MIL,STL,Matt Svanson,+520,0.1608,65.2,86.4,46.5,1.067,0.93,0.908,4.5,+15.6%,13.2,3
+22,James Wood,✅ Conf,6:45 PM ET,WSH,HOU,Tatsuya Imai,+250,0.2107,65.1,88.0,41.5,1.109,0.92,0.89,4.7,+19.5%,59.2,9
+23,Carter Jensen,✅ Conf,7:10 PM ET,KC,NYM,Cionel Pérez,+480,0.1682,64.8,81.1,50.4,0.999,0.98,0.92,4.6,+17.5%,64.0,11
+24,Randal Grichuk,✅ Conf,7:40 PM ET,CWS,BOS,Payton Tolle,+400,0.179,64.2,87.5,44.3,1.047,0.93,0.937,4.6,-5.6%,23.9,12
+25,Jake Burger,✅ Conf,8:05 PM ET,TEX,LAA,José Soriano,+560,0.1878,63.9,84.1,45.2,1.012,1.08,1.101,4.5,+11.7%,63.1,6
+26,Max Muncy,✅ Conf,6:40 PM ET,ATH,DET,Tarik Skubal,+290,0.148,63.5,81.3,35.2,1.023,0.94,0.938,3.9,+11.2%,21.6,9
+27,Elly De La Cruz,✅ Conf,7:10 PM ET,CIN,PHI,Zack Wheeler,+330,0.1698,63.0,84.1,34.8,1.042,1.16,1.157,4.6,+7.5%,~21,14
+28,Edmundo Sosa,✅ Conf,7:10 PM ET,PHI,CIN,Andrew Abbott,+480,0.1837,62.9,80.5,52.1,1.043,1.16,1.157,4.3,+18.8%,1.5,7
+29,Jarren Duran,✅ Conf,7:40 PM ET,BOS,CWS,Noah Schultz,+560,0.1433,62.7,79.9,51.5,0.909,0.97,0.977,4.0,+17.0%,36.4★,4
+30,Pete Crow-Armstrong,✅ Conf,6:35 PM ET,CHC,BAL,Shane Baz,+285,0.1656,62.4,83.9,49.1,1.048,1.1,1.075,4.7,+3.4%,3.4,11
+31,Jac Caglianone,✅ Conf,7:10 PM ET,KC,NYM,Cionel Pérez,+470,0.1664,62.3,87.7,50.4,1.062,0.98,0.92,4.2,-4.8%,48.9~,9
+32,Zach Neto,✅ Conf,8:05 PM ET,LAA,TEX,Jacob deGrom,+400,0.1246,62.2,78.9,31.9,1.034,1.08,1.101,4.5,+7.5%,33.6,6
+33,Otto Lopez,✅ Conf,6:40 PM ET,MIA,SEA,Bryan Woo,+750,0.1565,61.9,79.0,43.0,1.045,0.91,0.91,4.5,+17.4%,2.4,6
+34,Juan Soto,✅ Conf,7:10 PM ET,NYM,KC,Seth Lugo,+260,0.2132,61.8,87.8,55.2,1.1,0.98,0.92,4.6,-6.5%,~54,4
+35,Spencer Steer,✅ Conf,7:10 PM ET,CIN,PHI,Zack Wheeler,+560,0.142,61.8,79.2,34.8,1.021,1.16,1.157,4.1,+1.6%,1.0,0
+36,JJ Wetherholt,✅ Conf,2:15 PM ET,STL,MIL,Jacob Misiorowski,+750,0.1516,61.4,79.9,28.0,1.01,0.97,0.947,4.6,+11.2%,17.2,0
+37,Bobby Witt Jr.,✅ Conf,7:10 PM ET,KC,NYM,Cionel Pérez,+420,0.1656,61.0,84.4,50.4,1.058,0.94,0.882,4.5,+4.6%,18.2,10
+38,Pete Alonso,✅ Conf,6:35 PM ET,BAL,CHC,Matthew Boyd,+340,0.1972,60.8,83.6,42.4,1.028,1.06,1.036,4.4,-2.0%,53.0,4
+39,Mickey Moniak,✅ Conf,10:10 PM ET,COL,LAD,Justin Wrobleski,+420,0.1847,60.7,82.6,44.8,1.034,1.0,1.052,3.9,-0.8%,3.0,4
+40,Wilyer Abreu,✅ Conf,7:40 PM ET,BOS,CWS,Noah Schultz,+480,0.1866,60.1,82.1,51.5,1.035,0.97,0.977,4.5,+5.8%,40.4~,9
+41,Randy Arozarena,✅ Conf,6:40 PM ET,SEA,MIA,Max Meyer,+600,0.1597,59.7,78.2,41.5,1.032,0.91,0.91,4.5,+17.7%,~30,2
+42,Yordan Alvarez,✅ Conf,6:45 PM ET,HOU,WSH,Andrew Alvarez,+290,0.1864,59.6,88.0,45.5,1.133,0.92,0.89,4.6,+15.9%,41.6~,9
+43,Jake Bauers,✅ Conf,7:45 PM ET,MIL,STL,Hunter Dobbins,+470,0.1671,58.5,87.4,47.6,1.05,0.97,0.947,4.3,-0.8%,~31,12
+44,Cam Smith,✅ Conf,6:45 PM ET,HOU,WSH,Andrew Alvarez,+680,0.1757,58.2,83.7,45.5,1.286,0.88,0.851,4.3,+10.4%,47.6~,9
+45,Dillon Dingler,✅ Conf,6:40 PM ET,DET,ATH,J.T. Ginn,+520,0.1625,58.2,82.6,46.6,1.062,0.94,0.938,4.5,+26.0%,30.6,9
+46,Brandon Nimmo,✅ Conf,8:05 PM ET,TEX,LAA,José Soriano,+500,0.2086,57.2,82.0,45.2,1.042,1.12,1.142,4.4,+7.9%,52.7,13
+47,Cole Carrigg,✅ Conf,10:10 PM ET,COL,LAD,Justin Wrobleski,+500,0.1843,57.1,81.5,44.8,1.009,1.0,1.052,4.3,+1.8%,30.4,7
+48,Seiya Suzuki,✅ Conf,6:35 PM ET,CHC,BAL,Shane Baz,+400,0.1463,57.1,80.6,49.1,1.02,1.06,1.036,4.4,+9.5%,46.8~,11
+49,Josh Bell,✅ Conf,7:40 PM ET,MIN,CLE,Joey Cantillo,+500,0.1725,56.1,79.9,44.7,1.02,0.95,0.973,4.5,-2.1%,65.6,2
+50,Kyle Stowers,✅ Conf,6:40 PM ET,MIA,SEA,Bryan Woo,+320,0.1645,49.6,86.5,43.0,1.031,0.85,0.85,4.6,+11.3%,36.8★,0
+,,,,,,,,,,,,,,,,,,
+COLOUR SCALE:  HR NAME CELL (6-signal): Sharp(all5)+BothElite+SharpLineMvt+PM1.04+Pwr63+PM1.04+Vuln47-52+HotTemp  |  HIT SCORE: Cold+PM≥1.03=66.2%(🔥 57-sl) · HS35-40+Sig1-5=82.3%(🔥 57-sl) · HS40-47+Sig1-5=69.5%(57-sl) · SWEET★(35-39)=64% · HS47+=below base  |  SIG SCORE(0-20): ≥12=🟩Elite · ≥8=🟢Strong · ≥5=🟡Amber · ≥1=pale · 0=grey · Vuln48-52=sweet · Vuln42-44=always↓grade · Vuln45-48=↓grade(Sc60+only) · Vuln44-45=positive · EliteArm=no edge  |  🎯DP SHARP=PM≥1.04+DPedge+V48-52+Pwr78+Sc40+Park≥0.93(May21:1/1 100%) · 🎯HR=5-signal(Mkt+PM+V48-52+Pwr78+vsOpp55%+Sc≥40) | 🎯HIT=WHR≥70%+Cons≥60% | SigScore=HR-only (Sig=0 can still be top hit pick — check Hit Props tab)  ||  ❄️ drops hit tier -2  · ~NN = stats-based HS (no market data)  · [FD/Con] = odds source tag,,,,,,,,,,,,,,,,,,
