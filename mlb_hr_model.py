@@ -130,14 +130,33 @@ def _load_gh_token() -> str:
     # 1. Try environment variable (works in terminal)
     token = os.environ.get("GITHUB_TOKEN", "")
     if token:
+        print(f"  🔑 GitHub token loaded from environment variable")
         return token
-    # 2. Fall back to .env file next to this script (works when called from Excel)
-    env_file = Path(__file__).parent / "github_token.env"
-    if env_file.exists():
-        for line in env_file.read_text().splitlines():
-            line = line.strip()
-            if line.startswith("GITHUB_TOKEN="):
-                return line.split("=", 1)[1].strip()
+    # 2. Fall back to .env file — check multiple locations robustly
+    # __file__ can be a relative or temp path when called from Excel, so resolve all candidates
+    candidates = []
+    try:
+        candidates.append(Path(__file__).resolve().parent / "github_token.env")
+    except Exception:
+        pass
+    try:
+        candidates.append(Path(os.path.abspath(__file__)).parent / "github_token.env")
+    except Exception:
+        pass
+    # Also check current working directory (Excel may set cwd to script folder)
+    candidates.append(Path(os.getcwd()) / "github_token.env")
+
+    for env_file in candidates:
+        print(f"  🔍 Looking for token at: {env_file}")
+        if env_file.exists():
+            for line in env_file.read_text().splitlines():
+                line = line.strip()
+                if line.startswith("GITHUB_TOKEN="):
+                    token = line.split("=", 1)[1].strip()
+                    if token:
+                        print(f"  🔑 GitHub token loaded from: {env_file}")
+                        return token
+    print(f"  ⚠️  github_token.env not found in any of: {[str(c) for c in candidates]}")
     return ""
 
 _GH_TOKEN = _load_gh_token()
