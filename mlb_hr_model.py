@@ -14346,7 +14346,9 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         getattr(context, "home_team", ""))
     if _carry_note:
         _pre_notes.append(_carry_note)
-    _new_sig_bonus += _carry_pts
+    # CARRY retired as conv contributor Jul 2026 (0.95x baseline, below floor).
+    # Keep note for informational context but zero pts.
+    # _new_sig_bonus += _carry_pts  ← RETIRED
 
     # 1a-ter. Cheatsheet 3-of-5 power-profile rule (YouTube creator's headline
     # strategy). Components already scored individually; this rewards the CLUSTER
@@ -14934,31 +14936,16 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Best stacked combo: Edge≥10% + Odds +150-349 = 29.4% HR (1.71x, p=0.001, n=119).
     _hr_odds_val = getattr(batter, 'hr_over_price', 0.0) or 0.0
     if _hr_odds_val != 0.0:
-        if 0 < _hr_odds_val <= 199:
-            _ranking_score *= 1.20   # +20%: mkt prob ≥33% — very short, market very confident
+        # ODDS BOOST positive multipliers RETIRED Jul 2026 (1.01x baseline — noise).
+        # Odds ≥ +250 is already a hard gate in the HP/BGS framework.
+        # Adding a separate ranking boost was double-counting the odds signal.
+        # Keep as informational notes for context. ODDS FADE remains — validated (0.54-0.50x).
+        if 0 < _hr_odds_val <= 349:
             _pre_notes.append(
-                f"💰 ODDS BOOST +20%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 46.2% HR 2.69x, p=0.015, 47-sl)"
+                f"💰 ODDS: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"(above +250 gate — informational, boost retired Jul 2026)"
             )
-        elif _hr_odds_val <= 249:
-            _ranking_score *= 1.15   # +15%: mkt prob 29-33%
-            _pre_notes.append(
-                f"💰 ODDS BOOST +15%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 27.9% HR 1.63x, p=0.018)"
-            )
-        elif _hr_odds_val <= 299:
-            _ranking_score *= 1.10   # +10%: mkt prob 25-29%
-            _pre_notes.append(
-                f"💰 ODDS BOOST +10%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 24.2% HR 1.41x, p=0.024)"
-            )
-        elif _hr_odds_val <= 349:
-            _ranking_score *= 1.06   # +6%: mkt prob 22-25%
-            _pre_notes.append(
-                f"💰 ODDS BOOST +6%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 23.5% HR 1.37x, p=0.010)"
-            )
-        # +350-499: no adjustment (baseline zone, p=0.23-0.52)
+        # +350-499: neutral zone, no note needed
         elif _hr_odds_val >= 600 and _hr_odds_val < 800:
             _ranking_score *= 0.85   # -15%: market fading — 9.3% HR (0.54x)
             _pre_notes.append(
@@ -18321,21 +18308,21 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         hr_combo = (f"📈 MARKET CAUGHT UP: was SWEET PM at earlier odds — market shortened on PM {pm:.3f}+Prob {_hr_prob_sc:.1%}+Vuln {vuln:.0f}. Model edge confirmed.")
         hr_pts = 12
     elif pm >= 1.035 and VULN_SWEET and POWER_60 and SCORE_40_45:
-        hr_combo = f"📊 SIGNAL COMBO: PM+VulnSweet+Pwr≥78+Sc40 → {_grade_rate('signal_combo_hr','22%  est')} AT"; hr_pts = 12
+        hr_combo = f"📋 TRACKING: PM+VulnSweet+Pwr≥78+Sc40 (signal combo — informational, retired from conv scoring Jul 2026: 0.97-1.03x baseline)"; hr_pts = 0
     elif STRONG_PM and VULN_SWEET and SCORE_40_45:
-        hr_combo = f"📊 SIGNAL COMBO: PM+VulnSweet+Sc40 → {_grade_rate('signal_combo_hr','~22%  est')} AT"; hr_pts = 10
+        hr_combo = f"📋 TRACKING: PM+VulnSweet+Sc40 (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and POWER_63 and SCORE_40_45:
-        hr_combo = f"📊 SIGNAL COMBO: PM+Pwr63+Sc40 → {_grade_rate('signal_combo_hr','~20%  est')} AT"; hr_pts = 9
+        hr_combo = f"📋 TRACKING: PM+Pwr63+Sc40 (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and SCORE_40_45:
-        hr_combo = f"📊 SIGNAL COMBO: PM+Sc40 → {_grade_rate('signal_combo_hr','~20%  est')} AT"; hr_pts = 8
+        hr_combo = f"📋 TRACKING: PM+Sc40 (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and POWER_63 and VULN_SWEET and 45.0 <= score < 60.0:
-        hr_combo = f"📊 SIGNAL COMBO: PM+Pwr63+VulnSweet+Sc{score:.0f} → {_grade_rate('signal_combo_hr','~20%  est')} AT (score 45-60)"; hr_pts = 9
+        hr_combo = f"📋 TRACKING: PM+Pwr63+VulnSweet+Sc{score:.0f} (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and POWER_63 and 45.0 <= score < 60.0:
-        hr_combo = f"📊 SIGNAL COMBO: PM+Pwr63+Sc{score:.0f} → {_grade_rate('signal_combo_hr','~20%  est')} AT (score 45-60)"; hr_pts = 8
+        hr_combo = f"📋 TRACKING: PM+Pwr63+Sc{score:.0f} (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and VULN_SWEET and 45.0 <= score < 60.0:
-        hr_combo = f"📊 SIGNAL COMBO: PM+VulnSweet+Sc{score:.0f} → {_grade_rate('signal_combo_hr','~20%  est')} AT (score 45-60)"; hr_pts = 8
+        hr_combo = f"📋 TRACKING: PM+VulnSweet+Sc{score:.0f} (signal combo — informational)"; hr_pts = 0
     elif STRONG_PM and SCORE_HIGH:
-        hr_combo = f"📊 SIGNAL COMBO: PM+ScHigh → {_grade_rate('signal_combo_hr','24.5%  est')} AT"; hr_pts = 8
+        hr_combo = f"📋 TRACKING: PM+ScHigh (signal combo — informational)"; hr_pts = 0
     # REMOVED: EliteArm+Pwr63 and PM+EliteArm combos
     # 23-slate: Vuln<44 = 1.01x HR (baseline). Stale rates were fabricated.
 
@@ -18747,6 +18734,74 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # Carve-out active: Z-Contact + Suppressing L5 = contact pitcher, not elite arm.
         # Hit suppression does NOT apply. Surface informational note only.
         flags.append(f"ℹ️ Vuln {vuln:.0f} but Z-Contact≥88% + Suppressing L5 — hit NOT suppressed (contact pitcher pattern, 82% hit rate in data)")
+
+    # ── Hit pick negative flags (Jul 2026 backtests) ──────────────────────────
+    # Applied as informational flags in hit pick selection — don't alter hit_pts
+    # (hit model is separate) but surface structural concerns for pick deprioritization.
+    _hs_val_wk = getattr(sc, 'hit_score', 0.0) or 0.0
+    _env_val_wk = getattr(sc, 'env_factor', 0.0) or 0.0
+    _pm_wk      = pm  # already in scope
+    _sig_wk     = _sig_val  # already in scope
+
+    # 1. ELITE-HS LOW-VULN (Goldschmidt pattern):
+    # HS>=60 + Vuln<40 = 42.9% hit rate vs 61.4% when Vuln>=40
+    if _hs_val_wk >= 60.0 and vuln < 40.0:
+        flags.append(
+            f"⚠️ ELITE-HS LOW-VULN: HS={_hs_val_wk:.0f}≥60 + Vuln={vuln:.0f}<40 — "
+            f"backtest: 42.9% hit rate (vs 61.4% when Vuln≥40). Hard exclude from top-5 hit picks."
+        )
+
+    # 2. EXTREME SHORT-START hit suppressor:
+    # Env<0.88 = 39.1% hit rate (0.60x) — severe; Env 0.88-0.90 = 60.0% (0.92x) — moderate
+    # Env 0.90+ recovers to baseline. Hard flag only at Env<0.88.
+    if _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.88:
+        flags.append(
+            f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.88 + HS={_hs_val_wk:.0f} — "
+            f"backtest: 39.1% hit rate / 0.60x (23 picks, 72 slates). Hard exclude from top-5 hit picks."
+        )
+    elif _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.90:
+        flags.append(
+            f"⚠️ SHORT-START HIT: Env={_env_val_wk:.2f} (0.88-0.90) + HS={_hs_val_wk:.0f} — "
+            f"backtest: 60.0% hit rate (moderate suppression, deprioritize)."
+        )
+
+    # 3. PM 1.06-1.11 + Sig<4 hit demotion:
+    # HS>=50 + PM 1.06-1.11 + Sig<4 = 55.1% hit rate (0.85x) — below baseline
+    # PM dead zone for hits is different from HR (1.06-1.11 for hits vs 1.06-1.08+1.11+ for HR)
+    # Combined with no named grades (Sig<4) = structural weakness
+    _pm_hit_dead = (1.06 <= _pm_wk < 1.11)
+    if _hs_val_wk >= 50.0 and _pm_hit_dead and _sig_wk < 4:
+        flags.append(
+            f"⚠️ HIT PM WEAK ZONE: PM={_pm_wk:.3f} (1.06-1.11) + Sig={_sig_wk:.0f}<4 + HS={_hs_val_wk:.0f} — "
+            f"backtest: 55.1% hit rate / 0.85x. Deprioritize in hit pick selection."
+        )
+
+    # 4. REGRESSION RISK — extreme HS tier:
+    # HS 65-70 = 44.4% hit rate (0.68x) — severe regression zone
+    # Typically 100% L5 driving HS this high; season rate trails far behind
+    if _hs_val_wk >= 65.0 and _hs_val_wk < 70.0:
+        flags.append(
+            f"⚠️ HIT REGRESSION RISK: HS={_hs_val_wk:.0f} in 65-70 zone — "
+            f"backtest: 44.4% hit rate / 0.68x (18 picks). L5 likely unsustainably hot. Deprioritize."
+        )
+
+    # 5. SHARP HIT booster — positive signal:
+    # HS>=50 + PM 0.90-1.06 + Vuln 38-44 = 77.9% hit rate (1.20x) — best hit combo in backtest
+    # HS>=50 + PM 0.90-1.06 + Env>=0.95 = 69.3% (1.06x)
+    _pm_hit_sweet = (0.90 <= _pm_wk < 1.06)
+    _vuln_hit_sweet = (38.0 <= vuln < 44.0)
+    if (_hs_val_wk >= 50.0 and _pm_hit_sweet and _vuln_hit_sweet
+            and _env_val_wk >= 0.95):
+        flags.append(
+            f"🎯 HIT SWEET SPOT: HS={_hs_val_wk:.0f}≥50 + PM={_pm_wk:.3f} contact zone (0.90-1.06) + "
+            f"Vuln={vuln:.0f} (38-44 sweet) + Env={_env_val_wk:.2f}≥0.95 — "
+            f"backtest: 77.9% hit rate / 1.20x (68 picks, 72 slates). Top hit pick tier."
+        )
+    elif _hs_val_wk >= 50.0 and _pm_hit_sweet and _env_val_wk >= 0.95:
+        flags.append(
+            f"🎯 HIT SOLID: HS={_hs_val_wk:.0f}≥50 + PM={_pm_wk:.3f} contact zone + "
+            f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
+        )
 
     # ── PITCH-RELIANT HR (NEW Jun 2026 — pitcher-level HR-clustering grade) ────
     # The Jun 8 edge was "which pitcher gets tagged," not "which batter." 41-slate
@@ -19858,6 +19913,121 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _lbl = f"🎯 BZM+Sc{_ql_sc:.0f}(<50)+Vu{_ql_vuln:.0f}(≥52) → 100% HR (3/3, RARE, 57-sl CSV)"
         if not any("BZM+Sc" in f for f in flags): flags.append(_lbl)
 
+    # ── PRIME LOCK & ELITE LOCK (Jul 2026 — highest validated HR tiers) ─────────
+    # Backtest across 72 slates:
+    # PRIME LOCK (Vuln≥52 + PM≥1.04 + Pwr≥84): 40.4% HR / 2.29x (52 player-slates)
+    # ELITE LOCK (Vuln≥54 + PM≥1.04 + Pwr≥84): 53.8% HR / 3.05x (26 player-slates)
+    # ELITE LOCK + Odds≥+250: 60.0% HR / 3.40x (20 player-slates) — highest in model
+    # These supersede CONVICTION/GOOD PLAY when they fire.
+    #
+    # PRIME LOCK refinement (Jul 2026 backtest):
+    # Vuln 52-54 without qualitative uplift = 26.9% HR (1.53x) — modest.
+    # Vuln 52-54 WITH EXTREME L2 or PITCHER CASCADE or Score>66 = 50.0% HR (2.84x).
+    # PRIME LOCK therefore requires one of: EXTREME L2, PITCHER CASCADE, or Score>66.
+    # Without any of these, PRIME LOCK does not fire (BGS tier handles it instead).
+    #
+    # ELITE LOCK PM note (Jul 2026 backtest):
+    # PM 1.04-1.08 within ELITE LOCK = 66.7% HR (3.78x) — market sweet spot.
+    # PM>=1.08 within ELITE LOCK = 42.9% HR (2.43x) — market has priced it in.
+    #
+    # HS<40 within PRIME+ LOCK = hard negative (0.0% HR, 0/4 — cold bat kills it).
+    _odds_val_pl  = abs(getattr(sc, 'hr_over_price', 0.0) or 0.0)
+    _prime_lock_q = (vuln >= 52.0 and pm >= 1.04 and power >= 84.0)
+    _elite_lock   = (vuln >= 54.0 and pm >= 1.04 and power >= 84.0)
+    _pl_odds_ok   = (_odds_val_pl >= 250.0 or _odds_val_pl == 0.0)
+
+    # Qualitative uplift check for PRIME LOCK (Vuln 52-54 zone)
+    _pl_notes_text = " ".join(str(n) for n in (sc.notes or []))
+    _pl_has_extreme_l2 = any(x in _pl_notes_text for x in
+                              ["EXTREME L2", "STANDALONE EXTREME L2"])
+    _pl_has_cascade    = "PITCHER CASCADE" in _pl_notes_text
+    _pl_has_uplift     = _pl_has_extreme_l2 or _pl_has_cascade or score > 66.0
+
+    # PM dead zones within PRIME LOCK (Jul 2026 backtest — elite numbers only):
+    # Valid zones:   PM 1.04-1.06 = 80.0% HR / 4.54x  ✅
+    #                PM 1.08-1.11 = 52.9% HR / 3.00x  ✅
+    # Dead zones:    PM 1.06-1.08 = 14.3% HR / 0.81x  ❌ BELOW BASELINE
+    #                PM 1.11-1.20 = 22.2% HR / 1.26x  ❌ below threshold
+    _pm_valid_zone = ((1.04 <= pm < 1.06) or (1.08 <= pm < 1.11))
+    _pm_dead_zone  = ((1.06 <= pm < 1.08) or (pm >= 1.11))
+
+    # Park gate: Park >= 0.93 required for PRIME LOCK
+    # PRIME+ + Park<0.93 = 33.3% HR (1.89x) vs Park>=0.93 = 43.2% (2.45x)
+    # EXTREME L2 override: acute pitcher blowup overrides suppressive park
+    # Rationale: EXTREME L2 (5+ HR/9 last 2 starts) is a recency signal so strong
+    # that structural park suppression is secondary — the pitcher is actively collapsing.
+    _pl_park_ok = (park >= 0.93) or _pl_has_extreme_l2
+
+    # PRIME LOCK fires only when PM in valid zone AND park not suppressive
+    _prime_lock = (_prime_lock_q and not _elite_lock and _pl_has_uplift
+                   and _pm_valid_zone and _pl_park_ok)
+
+    # HS<40 cold bat flag — kills PRIME+ pick even with all 3 quantitative gates
+    _hs_val_pl = getattr(sc, 'hit_score', 0.0) or 0.0
+    _pl_cold_bat = _hs_val_pl > 0 and _hs_val_pl < 40.0  # 0.0 = no data, don't penalize
+
+    if _elite_lock:
+        # PM sweet spot note
+        _pm_note = ""
+        if 1.04 <= pm < 1.08:
+            _pm_note = f" · PM {pm:.3f} in 1.04-1.08 sweet spot (66.7% HR / 3.78x — market not fully pricing)"
+        elif pm >= 1.08:
+            _pm_note = f" · PM {pm:.3f}≥1.08 (market priced: 42.9% HR / 2.43x)"
+        if _pl_cold_bat:
+            flags.append(
+                f"🏆🏆 ELITE LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
+                f"backtest cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). "
+                f"Pitcher edge real but batter form kills conversion.{_pm_note}"
+            )
+        elif _pl_odds_ok:
+            flags.append(
+                f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 + Odds≥+250 — "
+                f"60.0% HR / 3.40x (72-slate backtest, 20 player-slates){_pm_note}"
+            )
+        else:
+            flags.append(
+                f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
+                f"53.8% HR / 3.05x (72-slate backtest, 26 player-slates){_pm_note}"
+            )
+    elif _prime_lock:
+        _pl_uplift_src = ("EXTREME L2" if _pl_has_extreme_l2
+                          else "PITCHER CASCADE" if _pl_has_cascade
+                          else f"Score {score:.0f}>66")
+        # PM range note — show which valid zone fired and its validated rate
+        if 1.04 <= pm < 1.06:
+            _pl_pm_note = f"PM {pm:.3f} in sweet zone 1.04-1.06 (80.0% HR / 4.54x)"
+        else:  # 1.08-1.11
+            _pl_pm_note = f"PM {pm:.3f} in valid zone 1.08-1.11 (52.9% HR / 3.00x)"
+        if _pl_cold_bat:
+            flags.append(
+                f"🏆 PRIME LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 "
+                f"[{_pl_uplift_src}] · {_pl_pm_note} — "
+                f"cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). Pitcher edge real but form kills conversion."
+            )
+        else:
+            flags.append(
+                f"🏆 PRIME LOCK [{_pl_uplift_src}]: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 · "
+                f"{_pl_pm_note} · Park {park:.2f}≥0.93 — "
+                f"50.0% HR / 2.84x with uplift + valid PM + park (72-slate backtest)"
+            )
+    elif _prime_lock_q and not _elite_lock:
+        # Quantitative gates pass but failed uplift, PM dead zone, or park gate
+        _pl_track_reason = []
+        if not _pl_has_uplift:
+            _pl_track_reason.append("no EXTREME L2/CASCADE/Score>66")
+        if _pm_dead_zone:
+            if 1.06 <= pm < 1.08:
+                _pl_track_reason.append(f"PM {pm:.3f} in dead zone 1.06-1.08 (14.3% HR / 0.81x — below baseline)")
+            elif pm >= 1.11:
+                _pl_track_reason.append(f"PM {pm:.3f} in dead zone 1.11-1.20 (22.2% HR / 1.26x)")
+        if not _pl_park_ok:
+            _pl_track_reason.append(f"park {park:.2f}<0.93 suppressive (33.3% HR / 1.89x vs 43.2% when ≥0.93; EXTREME L2 overrides)")
+        _pl_track_str = " · ".join(_pl_track_reason) if _pl_track_reason else "unknown"
+        flags.append(
+            f"📋 PRIME LOCK TRACKING: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
+            f"demoted: {_pl_track_str}. BGS tier applies instead."
+        )
+
     # ── BGS Conviction Tier (Jul 2026 pick-selection framework) ──────────────
     # Batter Grade Score — combines quantitative floor, qualitative named grades,
     # and negative flag penalties into a single pick-quality signal.
@@ -19900,10 +20070,36 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_has_named = bool(_bgs_nuclear or _bgs_prime or _bgs_t3 or _bgs_confirmed or _bgs_cross or _bgs_psbm)
 
     # Hard negative flags
+    # FULLY PRICED removed Jul 2026 — HR/Hit conversion focus, not value (odds gate exists at HP level)
+    # Short-start + cold bat added Jul 2026: Env<0.95 + HS<35 within CONVICTION = 5.0% HR / 0.28x (20/72sl)
+    _bgs_env       = getattr(sc, 'env_factor', 0.0) or 0.0
+    _bgs_hs        = getattr(sc, 'hit_score', 0.0) or 0.0
+    _bgs_short_cold = (_bgs_env > 0 and _bgs_env < 0.95 and _bgs_hs > 0 and _bgs_hs < 35)
+
+    # Vuln 44-48 trap + short-start: CONVICTION + Vuln44-48 + Env<0.95 = 8.3% HR / 0.47x (24/72sl)
+    # Even without short-start, Vuln 44-48 within CONVICTION = 20.6% (1.17x) — below CONVICTION base.
+    # Hard block when compounded with low Env; soft demotion otherwise handled by BGS score.
+    _bgs_trap_short = (44.0 <= vuln < 48.0 and _bgs_env > 0 and _bgs_env < 0.95)
+
+    # PM dead zone within CONVICTION: 1.06-1.08 = 20.7% (1.17x), 1.11+ = similar
+    # Weaker than in PRIME LOCK but still below optimal. Block from top-tier CONVICTION.
+    _bgs_pm_dead = ((1.06 <= pm < 1.08) or (pm >= 1.11))
+
+    # Cross-pitch-only with low target-pitch vuln:
+    # When the only named HR grade is CROSS-PITCH (no PRIME/T3 match on target pitch)
+    # AND the pitcher's target pitch vulnerability is low (ptm_conv_bonus=0 means no target match)
+    # Caglianone pattern: 3 HR on FF (non-primary) but pitcher SI pitch vuln=32 (strong on primary)
+    # Backtest proxy: Sig<4 within CONVICTION = 16.7% / 0.95x — below baseline
+    _bgs_ptm_cb    = getattr(sc, 'ptm_conv_bonus', 0.0) or 0.0
+    _bgs_cross_only = (_bgs_cross > 0 and _bgs_ptm_cb == 0 and not _bgs_confirmed
+                       and not _bgs_nuclear and not _bgs_prime and not _bgs_t3)
+
     _bgs_hard_neg = (
         _bgs_shortst < 0                          # ShortStart+Vuln blocked grades
-        or _odds_abs_eff <= 230                    # FULLY PRICED
         or not _bgs_has_named                      # no named HR grade
+        or _bgs_short_cold                         # short-start + cold bat (5.0% HR / 0.28x)
+        or _bgs_trap_short                         # Vuln 44-48 + Env<0.95 (8.3% HR / 0.47x)
+        or (_bgs_pm_dead and _bgs_cross_only)      # PM dead zone + cross-pitch-only (weakest combo)
     )
 
     _bgs_tier = ""
@@ -19937,6 +20133,28 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     if _bgs_tier:
         flags.append(_bgs_tier)
+    elif _bgs_hp_ok and _bgs_has_named and _bgs_model_eligible and not _bgs_tier:
+        # Surface which specific negative gate blocked CONVICTION
+        _block_reasons = []
+        if _bgs_short_cold:
+            _block_reasons.append(
+                f"short-start+cold (Env={_bgs_env:.2f}<0.95 + HS={_bgs_hs:.0f}<35) — 5.0% HR / 0.28x"
+            )
+        if _bgs_trap_short:
+            _block_reasons.append(
+                f"Vuln {vuln:.0f} trap (44-48) + Env={_bgs_env:.2f}<0.95 — 8.3% HR / 0.47x"
+            )
+        if _bgs_pm_dead and _bgs_cross_only:
+            dz = "1.06-1.08 (14.3%/0.81x)" if 1.06 <= pm < 1.08 else "1.11-1.20 (22.2%/1.26x)"
+            _block_reasons.append(
+                f"PM {pm:.3f} dead zone {dz} + cross-pitch-only (no PRIME match on target pitch)"
+            )
+        if _bgs_shortst < 0:
+            _block_reasons.append("ShortStart+Vuln hard flag")
+        if _block_reasons:
+            flags.append(
+                f"📋 CONVICTION BLOCKED: {' · '.join(_block_reasons)}. BGS grade suppressed."
+            )
 
     return {"hr_pts": hr_pts, "hr_grade": hr_grade, "hr_combo": hr_combo,
             "hr_pts_raw": _hr_pts_for_grade,   # pre-gating signal strength for sorting
@@ -23620,19 +23838,41 @@ def _sheet_sharp_picks(wb, scores, top_n):
         else:
             _grade_display = g
         _rationale = _hr_play_tag(sc, sh, _conv) + _hr_rationale(sh, sc, _rationale_ctx)
-        # BGS conviction tier — replaces ✅ PLAY or 🟡 LEAN prefix when it fires.
+        # PRIME/ELITE LOCK and BGS conviction tier — replace ✅ PLAY or 🟡 LEAN prefix.
         # ⛔ PASS picks are left unchanged.
-        _bgs_tier_label = sh.get("bgs_tier", "")
-        if _bgs_tier_label and not _rationale.startswith("⛔"):
-            import re as _re_bgs
-            # Strip PLAY or LEAN prefix and replace with BGS tier label
+        # Priority: ELITE LOCK > PRIME LOCK > CONVICTION > GOOD PLAY
+        import re as _re_bgs
+        _flags_str = " ".join(str(f) for f in sh.get("flags", []))
+        _has_elite_lock  = "🏆🏆 ELITE LOCK" in _flags_str
+        _has_prime_lock  = "🏆 PRIME LOCK" in _flags_str and "TRACKING" not in _flags_str
+        _has_cold_bat_pl = "COLD BAT" in _flags_str and ("🏆🏆 ELITE LOCK" in _flags_str or "🏆 PRIME LOCK" in _flags_str)
+        _bgs_tier_label  = sh.get("bgs_tier", "")
+
+        _prefix_label = ""
+        if _has_elite_lock and not _rationale.startswith("⛔"):
+            _el_odds = abs(getattr(sc, 'hr_over_price', 0.0) or 0.0)
+            if _has_cold_bat_pl:
+                _prefix_label = "🏆🏆 ELITE LOCK ⚠️ COLD BAT"
+            elif _el_odds >= 250.0 or _el_odds == 0.0:
+                _prefix_label = "🏆🏆 ELITE LOCK (60.0% HR / 3.40x)"
+            else:
+                _prefix_label = "🏆🏆 ELITE LOCK (53.8% HR / 3.05x)"
+        elif _has_prime_lock and not _rationale.startswith("⛔"):
+            if _has_cold_bat_pl:
+                _prefix_label = "🏆 PRIME LOCK ⚠️ COLD BAT"
+            else:
+                _prefix_label = "🏆 PRIME LOCK (50.0% HR / 2.84x with uplift)"
+        elif _bgs_tier_label and not _rationale.startswith("⛔"):
+            _prefix_label = _bgs_tier_label
+
+        if _prefix_label:
             _rationale = _re_bgs.sub(
                 r'^[✅🟡][^\—]*?(?:PLAY|LEAN)\s*\(HR\)[^—]*—\s*',
                 '',
                 _rationale,
                 count=1
             )
-            _rationale = f"{_bgs_tier_label}  —  " + _rationale.lstrip()
+            _rationale = f"{_prefix_label}  —  " + _rationale.lstrip()
 
         # ── Jun 23 2026 Backtest Combo Note injection (CSV-validated + qualitative) ──
         _hr_bt_note = ""
@@ -24710,6 +24950,8 @@ def _sheet_sharp_picks(wb, scores, top_n):
             and not f.startswith("🎯 Hit grade:")   # duplicates Grade column
             and not f.startswith("🎯 CONVICTION")   # HR pick-selection grade only
             and not f.startswith("📊 GOOD PLAY")    # HR pick-selection grade only
+            and not f.startswith("🏆🏆 ELITE LOCK") # HR pick-selection grade only
+            and not f.startswith("🏆 PRIME LOCK")   # HR pick-selection grade only
             and f != "✅ Clean"                       # placeholder, not a real flag
         ]
         _c(ws,row,1,_rank_disp_h,       bg=h_bg,align="center",bold=True)
@@ -27263,14 +27505,16 @@ def main():
     _multi_bbe_pitchers = {pn for pn, cnt in _pitcher_t3_counts.items() if cnt >= 2}
     if _multi_bbe_pitchers:
         _mb_count = len(_multi_bbe_pitchers)
-        print(f"  🔥 Multi-BBE pitcher confirmation: {_mb_count} pitcher(s) with ≥2 T3+ BBE batters — +3.0 score to all batters facing them")
+        print(f"  🎯 Multi-BBE pitcher confirmation: {_mb_count} pitcher(s) with ≥2 T3+ BBE batters — informational note only (retired +3.0 score boost Jul 2026: redundant with Vuln gate)")
         for _sc_g in all_scores:
             if (_sc_g.pitcher_name or "") in _multi_bbe_pitchers:
                 _n_bbe = _pitcher_t3_counts.get(_sc_g.pitcher_name or "", 0)
-                _sc_g.score = min(_sc_g.score + 3.0, 99.0)
+                # MULTI-BBE score boost RETIRED Jul 2026 — redundant with Vuln>=44 gate
+                # (high Vuln arms already have multiple T3+ BBE by definition)
+                # _sc_g.score = min(_sc_g.score + 3.0, 99.0)  ← RETIRED
                 _sc_g.notes = list(_sc_g.notes or []) + [
-                    f"🎯 MULTI-BBE PITCHER: {_n_bbe} batters have T3+ BBE matches vs "
-                    f"{_sc_g.pitcher_name} — pitcher structurally vulnerable TODAY (+3.0 score, pitcher-first)"
+                    f"📋 MULTI-BBE PITCHER: {_n_bbe} batters have T3+ BBE matches vs "
+                    f"{_sc_g.pitcher_name} — pitcher structurally vulnerable (informational, no score boost)"
                 ]
 
     # ── 7. Console rankings ───────────────────────────────────
