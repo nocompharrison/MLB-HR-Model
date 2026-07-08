@@ -2,17 +2,17 @@
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
 MIL @ STL,Busch Stadium,72°F,5mph,In/X,0.95,465ft,Open,7.699999999999999,3.1,4.6,-1.2%,N/A,FantasyLabs,0.994x,FL
 MIL @ STL,Busch Stadium,72°F,5mph,In/X,0.95,465ft,Open,7.699999999999999,3.1,4.6,-1.2%,N/A,FantasyLabs,0.994x,FL
-CHC @ BAL,Oriole Park,79°F,5mph,In/X,1.08,20ft,Open,9.7,4.8,4.9,+0.5%,N/A,FantasyLabs,1.012x,FL
-ATH @ DET,Comerica Park,81°F,5mph,In/X,0.96,585ft,Open,8.7,5.2,3.5,-1.6%,N/A,FantasyLabs,1.006x,FL
-ATL @ PIT,PNC Park,78°F,3mph,Out,0.94,730ft,Open,8.7,4.7,4.0,+5.6%,N/A,FantasyLabs,0.952x,FL
+CHC @ BAL,Oriole Park,76°F,7mph,In/X,1.08,20ft,Open,9.7,4.8,4.9,-1.5%,N/A,FantasyLabs,1.012x,FL
+ATH @ DET,Comerica Park,81°F,5mph,In/X,0.96,585ft,Open,8.7,5.2,3.5,-1.2%,N/A,FantasyLabs,1.006x,FL
+ATL @ PIT,PNC Park,77°F,2mph,Out,0.94,730ft,Open,8.7,4.7,4.0,+5.2%,N/A,FantasyLabs,0.952x,FL
 SEA @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,8.2,4.3,3.9,N/A,N/A,dome,0.976x,FL
 NYY @ TB,Tropicana Field,72°F,0mph,In/X,0.93,15ft,Dome,7.7,3.7,4.0,N/A,N/A,dome,0.994x,FL
-HOU @ WSH,Nationals Park,80°F,6mph,In/X,0.9,25ft,Open,9.8,5.0,4.8,-0.6%,N/A,FantasyLabs,0.982x,FL
-KC @ NYM,Citi Field,70°F,7mph,In/X,0.96,15ft,Open,8.7,4.7,4.0,-2.3%,N/A,FantasyLabs,0.982x,FL
-PHI @ CIN,Great American Park,80°F,5mph,In/X,1.18,550ft,Open,9.3,4.1,5.2,-0.5%,N/A,FantasyLabs,1.000x,FL
-CLE @ MIN,Target Field,84°F,3mph,In/X,0.97,815ft,Open,8.8,4.4,4.4,+0.5%,N/A,FantasyLabs,1.018x,FL
-BOS @ CWS,Guaranteed Rate Field,77°F,3mph,In/X,0.95,595ft,Open,8.7,4.2,4.5,-0.4%,N/A,FantasyLabs,0.976x,FL
+HOU @ WSH,Nationals Park,80°F,6mph,In/X,0.9,25ft,Open,9.8,5.0,4.8,-0.5%,N/A,FantasyLabs,0.982x,FL
+KC @ NYM,Citi Field,68°F,7mph,In/X,0.96,15ft,Open,8.7,4.7,4.0,-2.2%,N/A,FantasyLabs,0.982x,FL
+PHI @ CIN,Great American Park,79°F,4mph,Out,1.18,550ft,Open,9.3,4.1,5.2,+6.3%,N/A,FantasyLabs,1.000x,FL
+CLE @ MIN,Target Field,81°F,4mph,In/X,0.97,815ft,Open,8.8,4.4,4.4,+0.5%,N/A,FantasyLabs,1.018x,FL
+BOS @ CWS,Guaranteed Rate Field,75°F,3mph,In/X,0.95,595ft,Open,8.7,4.2,4.5,+0.6%,N/A,FantasyLabs,0.976x,FL
 LAA @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,7.2,4.0,3.2,N/A,N/A,dome,0.970x,FL
 ARI @ SD,Petco Park,70°F,6mph,In/X,0.88,17ft,Open,9.2,4.7,4.5,-1.7%,N/A,FantasyLabs,0.988x,FL
-TOR @ SF,Oracle Park,58°F,12mph,Out,0.82,10ft,Open,8.2,4.0,4.2,+11.6%,-0.4%,FantasyLabs,1.012x,FL
-COL @ LAD,Dodger Stadium,72°F,4mph,Out,1.0,515ft,Open,9.8,6.2,3.6,+5.3%,N/A,FantasyLabs,1.000x,FL
+TOR @ SF,Oracle Park,58°F,15mph,Out,0.82,10ft,Open,8.2,4.0,4.2,+13.6%,-0.4%,FantasyLabs,1.012x,FL
+COL @ LAD,Dodger Stadium,72°F,4mph,Out,1.0,515ft,Open,9.8,6.2,3.6,+5.4%,N/A,FantasyLabs,1.000x,FL
