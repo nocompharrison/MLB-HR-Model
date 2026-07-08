@@ -16052,15 +16052,15 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
 
     # Gate evaluations — all must clear their threshold for full pass
     _pf9_gates = {
-        "ISO>0.2":     (_pf9_iso    > 0.20,  f"💪 ISO:{_pf9_iso:.3f}>.200"),
-        "Barrel%>15":  (_pf9_barrel > 15.0,  f"🎯 Barrel%:{_pf9_barrel:.1f}>15%"),
-        "HH%>40":      (_pf9_hh     > 40.0,  f"💪 HH%:{_pf9_hh:.0f}%>40%"),
-        "Air%>50":     (_pf9_air    > 50.0,  f"🌤️ Air%:{_pf9_air:.0f}%>50%"),
-        "GB%<40":      (0 < _pf9_gb < 40.0,  f"🔻 GB%:{_pf9_gb:.0f}%<40%"),
-        "PullBrl%>10": (_pf9_pullbrl >= 3.5, f"🎯 PullBrl%:{_pf9_pullbrl * 2.86:.1f} >10"),
-        "FB%>35":      (_pf9_fb     > 35.0,  f"🌤️ FB%:{_pf9_fb:.0f}%>35%"),
-        "Blast%>15":   (_pf9_blast  > 15.0,  f"💥 Blast%:{_pf9_blast:.1f}%>15%"),
-        "Pull%>30":    (_pf9_pull   > 30.0,  f"↙ Pull%:{_pf9_pull:.0f}%>30%"),
+        "ISO>0.2":     (_pf9_iso    >= 0.20,  f"💪 ISO:{_pf9_iso:.3f}>.200"),
+        "Barrel%>15":  (_pf9_barrel >= 15.0,  f"🎯 Barrel%:{_pf9_barrel:.1f}>15%"),
+        "HH%>40":      (_pf9_hh     >= 40.0,  f"💪 HH%:{_pf9_hh:.0f}%>40%"),
+        "Air%>50":     (_pf9_air    >= 50.0,  f"🌤️ Air%:{_pf9_air:.0f}%>50%"),
+        "GB%<40":      (_pf9_gb     <= 40.0,  f"🔻 GB%:{_pf9_gb:.0f}%<40%"),
+        "PullBrl%>10": (_pf9_pullbrl >= 3.5,  f"🎯 PullBrl%:{_pf9_pullbrl * 2.86:.1f} >10"),
+        "FB%>35":      (_pf9_fb     >= 35.0,  f"🌤️ FB%:{_pf9_fb:.0f}%>35%"),
+        "Blast%>15":   (_pf9_blast  >= 15.0,  f"💥 Blast%:{_pf9_blast:.1f}%>15%"),
+        "Pull%>30":    (_pf9_pull   >= 30.0,  f"↙ Pull%:{_pf9_pull:.0f}%>30%"),
     }
     _pf9_pass_count = sum(1 for v, _ in _pf9_gates.values() if v)
     _result.pf9_gate_count = _pf9_pass_count  # stored for injection logic
