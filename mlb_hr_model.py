@@ -15209,22 +15209,31 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             )
         # +350-499: neutral zone, no note needed
         elif _hr_odds_val >= 600 and _hr_odds_val < 800:
-            _ranking_score *= 0.85   # -15%: market fading — 9.3% HR (0.54x)
+            # PRIME MATCH exemption (Jul 9 2026 backtest, n=87): PRIME + long odds = 14.9% (1.01x)
+            # = baseline. Market fade is overcorrecting when PRIME BBE data confirms the edge.
+            # Non-PRIME picks still suppressed (long odds without grade = valid fade).
+            _ptm_is_prime = _ptm_conv_bonus >= 12.0
+            if not _ptm_is_prime:
+                _ranking_score *= 0.85   # -15%: market fading — 9.3% HR (0.54x)
             _pre_notes.append(
-                f"⚠️ ODDS FADE -15%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 9.3% HR 0.54x — market sees something model misses)"
+                f"⚠️ ODDS FADE{' (PRIME EXEMPT)' if _ptm_is_prime else ' -15%'}: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"{'PRIME grade overrides: 14.9% HR (1.01x, n=87) vs fade 9.3% (0.54x)' if _ptm_is_prime else '(backtest: 9.3% HR 0.54x — market sees something model misses)'}"
             )
         elif _hr_odds_val >= 800 and _hr_odds_val < 1000:
-            _ranking_score *= 0.78   # -22%: deep fade — 8.6% HR (0.50x)
+            _ptm_is_prime = _ptm_conv_bonus >= 12.0
+            if not _ptm_is_prime:
+                _ranking_score *= 0.78   # -22%: deep fade — 8.6% HR (0.50x)
             _pre_notes.append(
-                f"⚠️ ODDS FADE -22%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 8.6% HR 0.50x — market correct, model grade likely stale)"
+                f"⚠️ ODDS FADE{' (PRIME EXEMPT)' if _ptm_is_prime else ' -22%'}: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"{'PRIME grade overrides long-odds fade: 14.9% HR (1.01x, n=87, Jul9 backtest)' if _ptm_is_prime else '(backtest: 8.6% HR 0.50x — market correct, model grade likely stale)'}"
             )
         elif _hr_odds_val >= 1000:
-            _ranking_score *= 0.70   # -30%: longshot dead zone — 9.9% HR (0.58x)
+            _ptm_is_prime = _ptm_conv_bonus >= 12.0
+            if not _ptm_is_prime:
+                _ranking_score *= 0.70   # -30%: longshot dead zone — 9.9% HR (0.58x)
             _pre_notes.append(
-                f"🚫 ODDS DEAD ZONE -30%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"(backtest: 9.9% HR 0.58x — grade fires but market has hard passed)"
+                f"{'⚠️ ODDS FADE (PRIME EXEMPT)' if _ptm_is_prime else '🚫 ODDS DEAD ZONE -30%'}: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"{'PRIME grade overrides: 14.9% HR (1.01x) vs 9.9% without grade' if _ptm_is_prime else '(backtest: 9.9% HR 0.58x — grade fires but market has hard passed)'}"
             )
     # ── PITCHER-FIRST TARGET MATCH ranking boost (Jun 17 2026) ──────────────────
     # ── PITCHER-FIRST TARGET MATCH ranking boost (Jun 17 2026 overhaul) ─────────
@@ -15365,11 +15374,22 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         # T4 + Odds +350-599: no warning (normal range, model still has edge)
         # T4 + Odds +600+: market is significantly fading what the model rates highly → warn
         if _hr_odds_val >= 600:
-            _pre_notes.append(
-                f"⚠️ T4 BBE vs LONG ODDS ({'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)}): "
-                f"market fading despite BBE match — likely Suppressing L5 or recent pitcher domination. "
-                f"Market may have live recency data model's BBE window misses. Treat as LEAN not PLAY."
-            )
+            # PRIME MATCH override (Jul 9 2026): PRIME + long odds = 14.9% (1.01x) = baseline.
+            # The T4 BBE long-odds warning was designed for T3/T4 picks without PRIME recency trigger.
+            # When PRIME fires (>=2 HR in L10 BBE + recency), the market may be stale rather than correct.
+            _ptm_is_prime_t4 = _ptm_conv_bonus >= 12.0
+            if _ptm_is_prime_t4:
+                _pre_notes.append(
+                    f"ℹ️ PRIME + LONG ODDS ({'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)}): "
+                    f"PRIME grade overrides standard long-odds fade — backtest 14.9% HR (1.01x, n=87, 74-sl). "
+                    f"Market pricing may be stale vs confirmed BBE recency signal. Treat as LEAN."
+                )
+            else:
+                _pre_notes.append(
+                    f"⚠️ T4 BBE vs LONG ODDS ({'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)}): "
+                    f"market fading despite BBE match — likely Suppressing L5 or recent pitcher domination. "
+                    f"Market may have live recency data model's BBE window misses. Treat as LEAN not PLAY."
+                )
 
     # ── CHANGE 3 (Jun 14 2026): Ranking floor for hot-streak PITCH-RELIANT picks ──
     # Burleson case: had PITCH-RELIANT conditions + 3 HRs in L7 on exact pitcher pitch
@@ -15438,7 +15458,14 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _suppressive_park = park < 0.91
     _elite_arm_context = _vuln_val < 44.0
     _park_arm_capped = False
-    if _suppressive_park and _elite_arm_context and score > 54.0:
+    # PRIME MATCH exemption (Jul 9 2026 backtest):
+    # PRIME + Vuln<38: 20.7% HR (1.39x, n=58) — ABOVE baseline despite elite arm.
+    # PRIME BBE data overrides the arm-level Vuln score: when a batter has 2-3 HRs in L10 BBE
+    # against this specific pitcher's primary pitch, the aggregate Vuln is irrelevant — the
+    # batter has demonstrated real recent power against this exact arsenal.
+    # Cap applies only to picks WITHOUT a PRIME/CONFIRMED grade.
+    _park_arm_prime_exempt = (_ptm_conv_bonus >= 12.0)  # PRIME/CONFIRMED: _has_confirmed_pitch_corr not yet set here; ptm_conv_bonus>=12 covers PRIME; CONFIRMED adds its own boost later
+    if _suppressive_park and _elite_arm_context and score > 54.0 and not _park_arm_prime_exempt:
         score = 54.0
         _park_arm_capped = True
 
