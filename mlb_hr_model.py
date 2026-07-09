@@ -23790,11 +23790,16 @@ def _sheet_sharp_picks(wb, scores, top_n):
         _odds_is_long   = (_hr_odds_raw > 499 and _hr_odds_raw != 0.0)
         _odds_is_dead   = (_hr_odds_raw > 599 and _hr_odds_raw != 0.0)
         # Exception grades that override the odds gate
+        # Jul 9 2026 backtest (n=87, 74-sl): PRIME + long odds = 14.9% HR (1.01x) = baseline.
+        # PRIME alone (without Extreme L2) overrides the PASS gate — market fade is overcorrecting
+        # when confirmed BBE recency data (2-3 HR in L10 on pitcher's primary pitch) is present.
+        # PRIME + long odds is NOT a fade zone; it's exactly baseline. Downgrade PASS → LEAN.
         _has_prime_l2   = ("PRIME PITCHER TARGET MATCH HR" in g
                            and ("EXTREME L2" in _ns or "L2 blowup" in _ns.lower()))
+        _has_prime_any  = ("PRIME PITCHER TARGET MATCH HR" in g)  # Jul 9 2026: PRIME alone = baseline at long odds
         _has_conf_match = ("CONFIRMED MATCH" in g)
         _has_ext_pwr    = (v >= 52.0 and pw >= 83.0) or (42.0 <= v < 44.0 and pw >= 81.0 and pm >= 1.10)
-        _odds_exception = _has_prime_l2 or _has_conf_match or _has_ext_pwr
+        _odds_exception = _has_prime_l2 or _has_prime_any or _has_conf_match or _has_ext_pwr
         if _odds_is_dead and not _odds_exception:
             # +600+: hard PASS regardless of grade — 0.54x backtest, market has information
             return (f"⛔ PASS (HR) — odds {'+' if _hr_odds_raw>0 else ''}{int(_hr_odds_raw)} "
