@@ -16616,6 +16616,34 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"— ranking boosted +{10 if pm >= 1.04 else 6}%"
         ]
 
+    # ── Jul 9 2026: ENV-ANCHORED PITCH MATCH conv boost ──────────────────────────
+    # CSV 74-slate backtest: PRIME/CONFIRMED + Vuln 42-52 + Env>=1.05/Park>=1.10 + Pwr>=80
+    # → 26.1% HR (1.76x, n=69). PCA July 8: 2 HR (only pick passing all gates that slate).
+    # Pwr>86 sub-bucket: 47.1% HR (3.17x, n=17) — tracking toward standalone sub-grade.
+    # Conv boost: +8 pts. Pwr>86 sub-bucket gets +12 pts total.
+    # Does NOT fire when PWR_VULN_ENV_HR already covers this pick.
+    # Note: use score_player-scope variables — _ptm_conv_bonus>=12 = PRIME, _has_confirmed_pitch_corr = CONFIRMED MATCH.
+    # (sc/_is_prime_confirmed_grade are _score_sharp variables; not in scope here.)
+    _eapm_prime_check = (
+        _ptm_conv_bonus >= 12.0          # PRIME = T4 + recency trigger (track_has_prime equivalent)
+        or _has_confirmed_pitch_corr     # CONFIRMED MATCH = two-sided pitch correlation fired
+    )
+    _eapm_fires = (
+        _eapm_prime_check
+        and 42.0 <= _vuln_val <= 52.0
+        and (env >= 1.05 or park >= 1.10)
+        and _pve_power >= 80.0
+        and not _pve_fires
+    )
+    if _eapm_fires:
+        _eapm_boost = 12.0 if _pve_power > 86.0 else 8.0
+        _result.conv_score = min(50.0, _result.conv_score + _eapm_boost)
+        _pwr_tier_note = f" [Pwr>86 elite sub-bucket: 47.1%/3.17x, n=17]" if _pve_power > 86.0 else ""
+        _result.notes = list(_result.notes or []) + [
+            f"🌡️ ENV-ANCHORED PITCH MATCH: PRIME/CONF+Vuln{_vuln_val:.0f}+Env{env:.3f}/Park{park:.2f}+Pwr{_pve_power:.0f} "
+            f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9) — conv +{_eapm_boost:.0f}{_pwr_tier_note}"
+        ]
+
     # ── Jul 3 2026: COLD-ARM-MATCH tracking note ─────────────────────────────────
     # Jul 3 2026 post-mortem (Jul 2 slate): 5 of 8 HR getters fit this profile:
     # HS<25 (cold bat) + Vuln 42-52 (soft but not trap arm) + PM≥1.04 + Score<50.
@@ -18435,6 +18463,41 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         and not PWR_VULN_ENV_HR   # avoid double-counting with the more specific grade
     )
 
+    # 🌡️ ENV-ANCHORED PITCH MATCH (PRIME/CONFIRMED) — Jul 9 2026 (CSV 74-slate backtest)
+    # Discovery: July 8 post-mortem showed PCA (Pwr 83.9, Vuln 45.9, Env 1.058) as the only
+    # pick passing all four gates, and he hit 2 HRs. Validated against full historical CSV.
+    # CSV backtest (n=3012, base 14.8%):
+    #   PRIME/CONFIRMED + Vuln 42-52 + Env>=1.05/Park>=1.10 + Pwr>=80 → 26.1% HR (1.76x, n=69)
+    #   Pwr>86 sub-bucket: 47.1% HR (3.17x, n=17) — tracking toward standalone grade
+    # Gate logic:
+    #   (1) PRIME or CONFIRMED MATCH grade active (BBE confirmation on primary pitch)
+    #   (2) Vuln 42-52 — mid-vulnerability window where env amplification works best
+    #   (3) Env>=1.05 OR Park>=1.10 — game/park environment is independently favorable
+    #   (4) Pwr>=80 — contact quality floor (Pwr 78-79.9 went 1/7=14.3% inside combo, below baseline)
+    # Mechanism: PRIME/CONFIRMED confirms the batter-side edge via recent BBE history.
+    # Mid-Vuln arm (not a quality arm) provides pitcher-side gap. Elevated environment
+    # amplifies HR equity in a way that Score/Power alone cannot capture. All three must
+    # align — the env gate WITHOUT pitch grade runs at only 1.07x.
+    # Key finding: Pwr gate does the heavy lifting (not Env). Env/park gate selects
+    # high-noise conditions where elite contact is required to convert.
+    # DOES NOT fire when PWR_VULN_ENV_HR already covers the pick (different mechanism —
+    # PWR_VULN_ENV requires Vuln>=50; this grade targets Vuln 42-52 specifically).
+    # Conv boost: +8 pts when all gates fire. Pwr>86 sub-bucket gets additional +4 pts.
+    # Promote Pwr>86 sub-bucket to standalone sub-grade at n>=20 with consistent rate.
+    _is_prime_confirmed_grade = (
+        getattr(sc, 'track_has_prime', False)
+        or "CONFIRMED MATCH" in " ".join(str(n) for n in (sc.notes or []))
+        or "PRIME PITCHER TARGET MATCH" in " ".join(str(n) for n in (sc.notes or []))
+        or "PITCHER-FIRST PRIME MATCH" in " ".join(str(n) for n in (sc.notes or []))
+    )
+    ENV_ANCHORED_PITCH_MATCH = (
+        _is_prime_confirmed_grade
+        and 42.0 <= vuln <= 52.0
+        and (_env_val >= 1.05 or park >= 1.10)
+        and power >= 80.0
+        and not PWR_VULN_ENV_HR   # avoid double-labeling (PWR_VULN_ENV covers Vuln>=50 + env)
+    )
+
     # 🎯 SUPP-PARK SWEET-PM HR — Jun 25 2026 (post-Jun 24 post-mortem + pkl backtest)
     # Discovery: exhaustive search for zero-FP combos on Jun 24 slate revealed that
     # ALL players passing this gate hit HRs; zero false positives on that slate.
@@ -19258,6 +19321,18 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _firing_grades.append(
             f"🌡️ SC58-66+ENV BOOST (TRACKING): Sc{score:.0f}+Env{_env_val:.3f} "
             f"→ 28.1% HR (1.64x, p=0.001, n=146, 47-sl CSV Jun26)"
+        )
+    # 🌡️ ENV-ANCHORED PITCH MATCH (Jul 9 2026): PRIME/CONFIRMED + Vuln 42-52 + Env/Park + Pwr>=80
+    # CSV 74-slate backtest: 26.1% HR (1.76x, n=69). Fires as supplemental grade note.
+    # Pwr>86 sub-bucket tracking: 47.1% HR (3.17x, n=17) — flagged separately.
+    if ENV_ANCHORED_PITCH_MATCH:
+        _env_anchor_pwr_tier = ""
+        if power > 86.0:
+            _env_anchor_pwr_tier = f" [Pwr>{86:.0f} sub-bucket: 47.1%/3.17x, n=17 — tracking]"
+        _firing_grades.append(
+            f"🌡️ ENV-ANCHORED PITCH MATCH (PRIME/CONF): "
+            f"Pwr{power:.0f}+Vuln{vuln:.0f}+Env{_env_val:.3f}/Park{park:.2f} "
+            f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9){_env_anchor_pwr_tier}"
         )
     if SIG_PM_GRADE and score >= 40.0 and not any(g in _firing_grades for g in ["🎯 SHARP PM HR","🎯 PITCH DOMINANCE HR","🎯 MID-SCORE HR"]):
         _firing_grades.append("🔥 SIG+PM HR")   # new: Sig≥5 + PM≥1.04, 18.1% HR + 57.5% hit
@@ -20364,6 +20439,23 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_hs        = getattr(sc, 'hit_score', 0.0) or 0.0
     _bgs_short_cold = (_bgs_env > 0 and _bgs_env < 0.95 and _bgs_hs > 0 and _bgs_hs < 35)
 
+    # ENV DEMOTION — Jul 9 2026 (CSV 74-slate backtest, n=709):
+    # Picks with Env<1.00 + no active PRIME/CONFIRMED grade = 10.7% HR (0.72x) vs 14.8% baseline.
+    # The suppression is flat from Env 0.87 all the way to 1.00 — anything sub-neutral without
+    # a pitch-match grade is the same bucket. PRIME/CONFIRMED grade completely rescues cold envs
+    # (runs at 19.7% / 1.33x with the grade vs 10.7% without). Effect is NOT rescued by
+    # high Score or high Power alone (Score>=62+Pwr>=84 bucket was Brandon Lowe noise, n=14).
+    # Vuln 48-52 sub-bucket is worst within cold+no-prime: 8.6% HR (0.58x).
+    # SOFT DEMOTION: does not block the pick, but prevents top-3 CONVICTION placement
+    # and surfaces a warning note. Picks in this bucket should rank behind any pick
+    # with an active pitch-match grade in the same BGS tier.
+    _bgs_has_prime_confirmed = bool(_bgs_prime or _bgs_confirmed)
+    _bgs_env_demotion = (
+        _bgs_env > 0               # env data present
+        and _bgs_env < 1.00        # sub-neutral environment
+        and not _bgs_has_prime_confirmed   # no PRIME or CONFIRMED MATCH grade active
+    )
+
     # Vuln 44-48 trap + short-start: CONVICTION + Vuln44-48 + Env<0.95 = 8.3% HR / 0.47x (24/72sl)
     # Even without short-start, Vuln 44-48 within CONVICTION = 20.6% (1.17x) — below CONVICTION base.
     # Hard block when compounded with low Env; soft demotion otherwise handled by BGS score.
@@ -20432,6 +20524,17 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     if _bgs_tier:
         flags.append(_bgs_tier)
+        # ENV DEMOTION note appended even when BGS tier fires — warns pick ranks below
+        # any same-tier pick with active pitch-match grade (Env<1.00 + no PRIME/CONFIRMED).
+        if _bgs_env_demotion:
+            _vuln_demotion_note = ""
+            if 48.0 <= vuln <= 52.0:
+                _vuln_demotion_note = f" Vuln {vuln:.0f} sub-bucket worst: 8.6% HR / 0.58x."
+            flags.append(
+                f"⚠️ ENV DEMOTION: No pitch-match grade + Env{_bgs_env:.2f}<1.00 "
+                f"→ 10.7% HR / 0.72x (n=709, 74-sl CSV Jul9).{_vuln_demotion_note} "
+                f"BGS deprioritized vs same-tier picks with active PRIME/CONFIRMED grade."
+            )
     elif _bgs_hp_ok and _bgs_has_named and _bgs_model_eligible and not _bgs_tier:
         # Surface which specific negative gate blocked CONVICTION
         _block_reasons = []
@@ -22399,6 +22502,21 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "HIGH-PRECISION, LOW-RECALL: fires ~1-2 picks per slate. "
          "Supplemental grade only — fires alongside existing grades, never standalone. Conv boost: +12.",
          _spspm_l5, _spspm_all),
+        ("🌡️ ENV-ANCHORED PITCH MATCH (PRIME/CONF)",
+         "Jul 9 2026 (CSV 74-slate backtest, n=3012, base 14.8%): "
+         "PRIME/CONFIRMED MATCH grade + Vuln 42-52 + (Env>=1.05 OR Park>=1.10) + Pwr>=80. "
+         "CSV result: 26.1% HR (1.76x, n=69, 74-sl). "
+         "Pwr>86 sub-bucket: 47.1% HR (3.17x, n=17) — tracking toward standalone sub-grade. "
+         "Discovery: July 8 post-mortem — PCA (only pick passing all gates) hit 2 HRs. "
+         "Gate logic: (1) PRIME/CONFIRMED confirms batter-side BBE edge on primary pitch; "
+         "(2) Vuln 42-52 = mid-vulnerability arm where env amplification is strongest; "
+         "(3) Env/Park gate selects high-noise conditions where Pwr>=80 is required to convert. "
+         "Key finding: Pwr gate is load-bearing (not Env alone). Env gate without pitch grade = 1.07x only. "
+         "Conv boost: +8 (Pwr>86 sub-bucket: +12). "
+         "Does NOT fire when PWR_VULN_ENV_HR covers the pick (PWR_VULN_ENV requires Vuln>=50). "
+         "ENV DEMOTION (separate rule): picks with Env<1.00 + no PRIME/CONFIRMED = 10.7% HR / 0.72x (n=709). "
+         "PRIME/CONFIRMED grade rescues cold envs (19.7% / 1.33x with grade vs 10.7% without).",
+         "Tracking", "26.1%  19/76"),
         ("🎯 T4_BBE + Park≥1.1 + Pw≥82",
          "Jun 23 2026 QUALITATIVE+QUANT COMBO (57-slate CSV): "
          "T4 BBE grade (≥2 HR in L10 BBEs on pitcher's weak pitch) + park factor ≥1.10 + Power≥82 → 50% HR (4/8, 3.1x). "
