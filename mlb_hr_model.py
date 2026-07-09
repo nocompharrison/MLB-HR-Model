@@ -105,10 +105,24 @@ import pandas as pd
 warnings.filterwarnings("ignore")
 
 # Enable pybaseball disk cache — prevents Savant rate-limiting when fetching
-# L10 BBE data for 150+ batters. Cache stores results in ~/.pybaseball/cache/
+# L10 BBE data for 150+ batters. Cache stores results in a known absolute path
 # so subsequent same-day runs skip the Savant fetch entirely.
+# IMPORTANT: We set the cache dir explicitly rather than using ~/.pybaseball/cache/
+# because when launched from Excel (xlwings/RunPython/subprocess), os.path.expanduser('~')
+# may resolve to C:\Windows\System32 or a network profile path instead of
+# C:\Users\hlee145, causing pybaseball's cache lock to hang indefinitely.
 try:
     import pybaseball as _pybb
+    import os as _os_pybb
+    # Use the same .stat_cache dir the model already manages — guaranteed writable
+    # and correctly resolved since OUTPUT_DIR is an absolute path constant.
+    _pybb_cache_dir = str(OUTPUT_DIR / ".stat_cache" / "pybaseball")
+    _os_pybb.makedirs(_pybb_cache_dir, exist_ok=True)
+    try:
+        # pybaseball ≥ 2.2.0 supports cache.configure(cache_directory=...)
+        _pybb.cache.configure(cache_directory=_pybb_cache_dir)
+    except (AttributeError, TypeError):
+        pass  # older pybaseball — will use default location, still enable
     _pybb.cache.enable()
 except Exception:
     pass  # pybaseball not installed — L10 BBE will fall back to season stats
@@ -548,6 +562,9 @@ def compute_signal_score(sc):
 # Output folder — all Excel files saved here
 OUTPUT_DIR = Path(r"C:\Users\hlee145\Documents\FanDuel Spreadsheets\HR Models")
 HISTORY_PKL = OUTPUT_DIR / "full_picks.pkl"   # maintained by update script; used for dynamic grade stats
+# Intraday run-delta snapshot: written each run, compared next run to surface significant movement
+# Stored in .stat_cache so it's date-scoped and doesn't clutter the output directory
+_RUN_SNAPSHOT_NAME = "run_snapshot_{date}.pkl"  # resolved at runtime with today's date
 
 # ── Rec #4: Upset profile loader ──────────────────────────────────────────────
 # The upset builder (mlb_hr_upset_builder.py) writes a JSON file with per-player
@@ -5808,6 +5825,71 @@ def _save_cache(year: int, stat_type: str, data: dict):
         with open(_cache_path(year, stat_type), "wb") as f:
             _pickle.dump(payload, f)
     except Exception as e:
+        print(f"  ⚠️  Cache write failed ({year} {stat_type}): {e}")
+
+
+def _run_snapshot_path() -> "Path":
+    """Path for today's intraday run snapshot."""
+    from datetime import date as _dt
+    return _CACHE_DIR / _RUN_SNAPSHOT_NAME.format(date=_dt.today().isoformat())
+
+
+def _load_run_snapshot() -> tuple:
+    """
+    Load the previous run's snapshot for today.
+    Returns (data_dict, run_time_str) where data_dict is {batter_name → metrics} or {}.
+    """
+    path = _run_snapshot_path()
+    if not path.exists():
+        return {}, ""
+    try:
+        with open(path, "rb") as f:
+            snap = _pickle.load(f)
+        if isinstance(snap, dict) and snap.get("_snap_version") == 1:
+            _rt = snap.get("run_time", "?")
+            _data = snap.get("data", {})
+            print(f"  💾 Run snapshot loaded: {len(_data)} batters from prior run "
+                  f"({_rt}) — delta detection active")
+            return _data, _rt
+        return {}, ""
+    except Exception:
+        return {}, ""
+
+
+def _save_run_snapshot(all_scores: list):
+    """
+    Write a slim snapshot of this run's key batter metrics.
+    Called after all_scores is finalized. Overwrites any prior snapshot for today.
+    Fields: vuln, score, conv, pm, env, sig (SigScore)
+    """
+    try:
+        from datetime import datetime as _datetime
+        _CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        data = {}
+        for sc in all_scores:
+            if not sc.batter_name:
+                continue
+            # Retrieve conv and sig from the sharp_picks sidecar if available
+            _conv = getattr(sc, 'conv_score', 0.0) or 0.0
+            _sig  = getattr(sc, 'sig_score',  0.0) or 0.0
+            data[sc.batter_name] = {
+                "vuln":  round(getattr(sc, 'pitcher_vuln', 0.0) or 0.0, 2),
+                "score": round(sc.score or 0.0, 2),
+                "conv":  round(_conv, 1),
+                "pm":    round(getattr(sc, 'pitch_matchup_score', 0.0) or 0.0, 3),
+                "env":   round(getattr(sc, 'env_factor', 0.0) or 0.0, 3),
+                "sig":   round(_sig, 1),
+            }
+        payload = {
+            "_snap_version": 1,
+            "run_time": _datetime.now().strftime("%H:%M"),
+            "data": data,
+        }
+        with open(_run_snapshot_path(), "wb") as f:
+            _pickle.dump(payload, f)
+        print(f"  💾 Run snapshot saved: {len(data)} batters → {_run_snapshot_path().name}")
+    except Exception as e:
+        print(f"  ⚠️  Run snapshot save failed: {e}")
         print(f"  ⚠️  Cache write failed: {e}")
 
 
@@ -6538,14 +6620,167 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
             print(f"  ⚠️  L10 BBE cache was empty/invalid — re-fetching via pybaseball")
             # Fall through to pybaseball fetch
 
-    # ── Try pybaseball first ───────────────────────────────────────────────
+    # ── Bulk Savant CSV fetch — single HTTP call, works from Excel and terminal ──
+    # Replaces 535 sequential pybaseball/per-batter Savant calls.
+    # One request fetches ALL batted ball events for the lookback window across
+    # all batters, then we group by batter client-side to get L10 BBE per batter.
+    # This is the same endpoint pybaseball wraps — just called once in bulk.
+    # Fields needed: batter, game_date, type, stand, hc_x, hit_location,
+    #   launch_speed_angle, bb_type, launch_speed, hit_distance_sc,
+    #   events, iso_value, bat_speed, launch_angle
+    try:
+        import pandas as _pd_bulk, io as _io_bulk, urllib.request as _ur_bulk
+        import socket as _sock_bulk
+        _HH_THRESHOLD = 95.0
+
+        _end_str   = _td.strftime("%Y-%m-%d")
+        _start_str = (_td - timedelta(days=lookback_days)).strftime("%Y-%m-%d")
+
+        _bulk_url = (
+            f"https://baseballsavant.mlb.com/statcast_search/csv"
+            f"?all=true&hfPT=&hfAB=&hfBBT=&hfPR=&hfZ=&stadium=&hfBBL="
+            f"&hfNewZones=&hfGT=R%7C&hfSea={_td.year}%7C&hfSit="
+            f"&player_type=batter&hfOuts=&opponent=&pitcher_throws="
+            f"&batter_stands=&hfSA=&game_date_gt={_start_str}"
+            f"&game_date_lt={_end_str}"
+            f"&hfInfield=&team=&position=&hfOutfield=&hfRO=&home_road="
+            f"&hfFlag=&hfPull=&metric_1=&hfInn=&min_pitches=0&min_results=0"
+            f"&group_by=name&sort_col=pitches&player_event_sort=h_launch_speed"
+            f"&sort_order=desc&min_abs=0&type=details&"
+        )
+
+        print(f"  📡 L10 BBE: bulk Savant fetch ({_start_str} → {_end_str})...")
+        _orig_timeout = _sock_bulk.getdefaulttimeout()
+        _sock_bulk.setdefaulttimeout(120.0)  # 2 min for bulk download
+        try:
+            req = _ur_bulk.Request(_bulk_url, headers={"User-Agent": "Mozilla/5.0"})
+            with _ur_bulk.urlopen(req, timeout=120) as _resp:
+                _raw_bulk = _resp.read().decode("utf-8", errors="replace")
+        finally:
+            _sock_bulk.setdefaulttimeout(_orig_timeout)
+
+        if not _raw_bulk or len(_raw_bulk) < 500 or "game_date" not in _raw_bulk:
+            raise ValueError(f"Bulk response too short or missing columns ({len(_raw_bulk)} chars)")
+
+        _df_bulk = _pd_bulk.read_csv(_io_bulk.StringIO(_raw_bulk), low_memory=False)
+        print(f"  📡 L10 BBE bulk: {len(_df_bulk)} rows, {_df_bulk['batter'].nunique() if 'batter' in _df_bulk else 0} batters")
+
+        # Filter to batted ball events only
+        if "type" in _df_bulk.columns:
+            _df_bulk = _df_bulk[_df_bulk["type"] == "X"].copy()
+
+        # Build reverse map: mlbam_id → batter_name for grouping
+        _id_to_name = {int(v): k for k, v in batter_id_map.items() if v}
+
+        result: dict = {}
+        if "batter" not in _df_bulk.columns:
+            raise ValueError("'batter' column missing from bulk response")
+
+        _df_bulk["game_date"] = _pd_bulk.to_datetime(_df_bulk["game_date"], errors="coerce")
+        _df_bulk = _df_bulk.sort_values("game_date")
+
+        for _batter_id, _grp in _df_bulk.groupby("batter"):
+            _bname = _id_to_name.get(int(_batter_id))
+            if not _bname:
+                continue
+            _bbe = _grp.tail(n_bbe)
+            if len(_bbe) < 3:
+                continue
+
+            _stand = str(_bbe["stand"].iloc[0]) if "stand" in _bbe.columns else "R"
+
+            # Pull direction: hc_x primary, hit_location fallback
+            if "hc_x" in _bbe.columns:
+                _hc       = _pd_bulk.to_numeric(_bbe["hc_x"], errors="coerce")
+                _hcx_null = _hc.isna()
+                _pulled_hcx = (_hc < 126) if _stand == "R" else (_hc > 126)
+                if _hcx_null.any() and "hit_location" in _bbe.columns:
+                    _hloc = _pd_bulk.to_numeric(_bbe["hit_location"], errors="coerce")
+                    _pulled_loc = (
+                        _hloc.isin([5, 6, 7]) if _stand == "R"
+                        else _hloc.isin([3, 4, 9])
+                    )
+                    _is_pulled = _pulled_hcx.where(~_hcx_null, _pulled_loc)
+                else:
+                    _is_pulled = _pulled_hcx
+            elif "hit_location" in _bbe.columns:
+                _hloc = _pd_bulk.to_numeric(_bbe["hit_location"], errors="coerce")
+                _is_pulled = (
+                    _hloc.isin([5, 6, 7]) if _stand == "R"
+                    else _hloc.isin([3, 4, 9])
+                )
+            else:
+                _is_pulled = _pd_bulk.Series([False] * len(_bbe))
+
+            _is_barrel = (_bbe["launch_speed_angle"] == 6) if "launch_speed_angle" in _bbe.columns \
+                         else _pd_bulk.Series([False] * len(_bbe))
+            _bb_type   = _bbe["bb_type"] if "bb_type" in _bbe.columns \
+                         else _pd_bulk.Series([""] * len(_bbe))
+            _ev        = _bbe["launch_speed"].fillna(0) if "launch_speed" in _bbe.columns \
+                         else _pd_bulk.Series([0.0] * len(_bbe))
+            _dist      = _bbe["hit_distance_sc"].fillna(0) if "hit_distance_sc" in _bbe.columns \
+                         else _pd_bulk.Series([0.0] * len(_bbe))
+            _events    = _bbe["events"].fillna("") if "events" in _bbe.columns \
+                         else _pd_bulk.Series([""] * len(_bbe))
+            _iso_vals  = _bbe["iso_value"].fillna(0) if "iso_value" in _bbe.columns \
+                         else _pd_bulk.Series([0.0] * len(_bbe))
+
+            if "bat_speed" in _bbe.columns and _bbe["bat_speed"].notna().any():
+                _bat_spd = _bbe["bat_speed"].fillna(0)
+                _la      = _bbe["launch_angle"].fillna(-90) if "launch_angle" in _bbe.columns \
+                           else _pd_bulk.Series([-90.0] * len(_bbe))
+                _is_blast = (_bat_spd >= 75) & (_la >= 8) & (_la <= 32)
+            else:
+                _is_blast = _is_barrel & _bb_type.isin(["fly_ball", "line_drive"])
+
+            n = len(_bbe)
+            result[_bname] = {
+                "l10_bbe_count":   n,
+                "l10_iso":         float(_iso_vals.mean()) if _iso_vals.any() else 0.145,
+                "l10_barrel_pct":  float(_is_barrel.mean() * 100),
+                "l10_hh_pct":      float((_ev >= _HH_THRESHOLD).mean() * 100),
+                "l10_air_pct":     float(_bb_type.isin(["fly_ball", "line_drive"]).mean() * 100),
+                "l10_gb_pct":      float((_bb_type == "ground_ball").mean() * 100),
+                "l10_fb_pct":      float((_bb_type == "fly_ball").mean() * 100),
+                "l10_pull_pct":    float(_is_pulled.mean() * 100),
+                "l10_pullbrl_pct": (
+                    -1.0
+                    if not _is_pulled.any() and (
+                        ("hc_x" not in _bbe.columns or _pd_bulk.to_numeric(_bbe["hc_x"], errors="coerce").isna().all())
+                        and ("hit_location" not in _bbe.columns or _pd_bulk.to_numeric(_bbe["hit_location"], errors="coerce").isna().all())
+                    )
+                    else float((_is_pulled & _is_barrel).mean() * 100)
+                ),
+                "l10_blast_pct":   float(_is_blast.mean() * 100),
+                "l10_avg_ev":      float(_ev[_ev > 0].mean()) if (_ev > 0).any() else 87.5,
+                "l10_avg_dist":    float(_dist[_dist > 0].mean()) if (_dist > 0).any() else 0.0,
+                "l10_hr_count":    int(_events.str.lower().str.contains("home_run").sum()),
+                "l10_pitch_types": {},
+            }
+
+        fetched = len(result)
+        print(f"  ✅ L10 BBE (bulk Savant): {fetched} batters processed")
+        if fetched > 50:
+            _save_cache(_td.year, _cache_key, result)
+            return result
+        else:
+            print(f"  ⚠️  L10 BBE bulk: only {fetched} batters — response may be truncated, falling through")
+
+    except Exception as _bulk_err:
+        print(f"  ⚠️  L10 BBE bulk fetch failed: {_bulk_err} — falling through to per-batter fallback")
+
+    # ── Per-batter fallback (terminal only) ──────────────────────────────────
+    # Only reached if bulk Savant fetch failed or returned too few batters.
     try:
         from pybaseball import statcast_batter as _sc_batter
         import pandas as _pd
         import sys as _sys, io as _io_sup
-        _HH_THRESHOLD = 95.0   # mph — Statcast definition of hard hit
+        import socket as _socket
+        _HH_THRESHOLD = 95.0
         _end_str   = _td.strftime("%Y-%m-%d")
         _start_str = (_td - timedelta(days=lookback_days)).strftime("%Y-%m-%d")
+        _orig_timeout = _socket.getdefaulttimeout()
+        _socket.setdefaulttimeout(30.0)
 
         result: dict = {}
         fetched = 0
@@ -6555,13 +6790,32 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
             if not pid:
                 continue
             try:
-                # Suppress pybaseball's "Gathering Player Data" per-batter stdout
-                _old_stdout = _sys.stdout
-                _sys.stdout = _io_sup.StringIO()
+                # ── Excel / COM environment guard ──────────────────────────────
+                # When launched from Excel (xlwings/RunPython/subprocess), sys.stdout
+                # may be a COM object, null pipe, or non-standard stream. Redirecting
+                # it to StringIO then restoring it is safe in terminal but can leave
+                # stdout in a broken state if the pybaseball call raises mid-redirect
+                # under Excel's STA threading model.
+                # Guard: only redirect if stdout is a real writable file-like object
+                # with a valid fileno() (i.e. a real TTY/pipe, not a COM wrapper).
+                _is_real_tty = False
                 try:
+                    _is_real_tty = hasattr(_sys.stdout, 'fileno') and _sys.stdout.fileno() >= 0
+                except Exception:
+                    _is_real_tty = False
+
+                if _is_real_tty:
+                    _old_stdout = _sys.stdout
+                    _sys.stdout = _io_sup.StringIO()
+                    try:
+                        _df = _sc_batter(_start_str, _end_str, player_id=int(pid))
+                    finally:
+                        _sys.stdout = _old_stdout
+                else:
+                    # Excel context: don't redirect stdout — just call directly.
+                    # pybaseball's "Gathering Player Data" prints are lost but
+                    # that's fine; avoiding the redirect prevents COM/STA deadlock.
                     _df = _sc_batter(_start_str, _end_str, player_id=int(pid))
-                finally:
-                    _sys.stdout = _old_stdout
                 if _df is None or _df.empty or "type" not in _df.columns:
                     failed += 1
                     continue
@@ -6658,6 +6912,9 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
                 failed += 1
                 continue
 
+        # Restore original socket timeout regardless of outcome
+        _socket.setdefaulttimeout(_orig_timeout)
+
         if fetched > 0:
             print(f"  ✅ L10 BBE (pybaseball): {fetched} batters, {failed} skipped")
             _save_cache(_td.year, _cache_key, result)
@@ -6668,6 +6925,11 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
     except ImportError:
         print("  ⚠️  L10 BBE: pybaseball not installed — skipping")
     except Exception as _e:
+        # Restore timeout on any exception path too
+        try:
+            import socket as _sock_r; _sock_r.setdefaulttimeout(None)
+        except Exception:
+            pass
         print(f"  ⚠️  L10 BBE fetch failed: {_e}")
 
     # ── Savant statcast_search CSV fallback (direct HTTP, no pybaseball) ──
@@ -17416,6 +17678,28 @@ def _sheet_methodology(wb):
             "Wind: each mph out = +0.8% HR boost. Wind in = −0.8%/mph. Capped at 25mph.",
             "Park: FanGraphs 3-year HR park factors by LHB/RHB. See table in STADIUMS dict.",
         ]),
+        ("PRIME LOCK & ELITE LOCK GRADES (Jul 2026 — highest validated HR tiers)", [
+            "🏆🏆 ELITE LOCK: Vuln≥54 + PM≥1.04 + Power≥84 — 53.8% HR / 3.05x (72-slate backtest, 26 player-slates).",
+            "  With Odds≥+250: 60.0% HR / 3.40x (20 player-slates) — highest validated rate in the entire model.",
+            "  PM sweet spot (1.04-1.08): 66.7% HR / 3.78x — market hasn't fully priced the pitcher edge.",
+            "  PM≥1.08: 42.9% HR / 2.43x — market has absorbed the edge (still positive, but lower ceiling).",
+            "  Cold bat (HS<40) override: 0.0% HR (0/4) — pitcher edge is real but form kills conversion.",
+            "  ELITE LOCK OVERRIDES the PLAY/LEAN/PASS label in the rationale — treat as highest priority pick.",
+            "",
+            "🏆 PRIME LOCK: Vuln≥52 + PM≥1.04 + Power≥84 + qualitative uplift + PM valid zone + Park≥0.93.",
+            "  Requires one of: EXTREME L2 blowup, PITCHER CASCADE, or Score>66 (uplift gate).",
+            "  Without uplift: fires as 📋 PRIME LOCK TRACKING (informational, 26.9% HR / 1.53x — near baseline).",
+            "  PM dead zones EXCLUDED: 1.06-1.08 (14.3% HR / 0.81x — BELOW BASELINE) and 1.11-1.20 (22.2%).",
+            "  PM valid zones: 1.04-1.06 (80.0% HR / 4.54x — sweet spot) and 1.08-1.11 (52.9% / 3.00x).",
+            "  Park<0.93 excluded unless EXTREME L2 fires (acute blowup overrides suppressive park gate).",
+            "  Cold bat (HS<40): 0.0% HR (0/4) — flagged as COLD BAT, deprioritize despite pitcher edge.",
+            "  With all gates (50.0% HR / 2.84x, 72 slates) — PRIME LOCK OVERRIDES PLAY/LEAN/PASS label.",
+            "",
+            "PICK SELECTION PRIORITY: ELITE LOCK > PRIME LOCK > BGS CONVICTION > BGS GOOD PLAY > standard PLAY.",
+            "📋 PRIME LOCK TRACKING: all 3 quantitative gates pass but missing uplift, PM dead zone, or park<0.93.",
+            "  TRACKING means the structural setup is close but not fully validated — BGS tier applies instead.",
+            "  Reason for demotion is always shown: e.g. 'PM 1.062 dead zone (14.3%/0.81x)' or 'park 0.91<0.93'.",
+        ]),
         ("ACCURACY FEATURES (v14 — elite tier)", [
             "✅ PITCH DAMAGE MODEL: wOBA/SLG(15%) + EV by pitch type(50%) + HR/PA by pitch(35%).",
             "✅ PITCH LOCATION: pitcher heart-zone% from plate_x/plate_z → batter zone-damage interaction.",
@@ -18752,17 +19036,14 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         )
 
     # 2. EXTREME SHORT-START hit suppressor:
-    # Env<0.88 = 39.1% hit rate (0.60x) — severe; Env 0.88-0.90 = 60.0% (0.92x) — moderate
-    # Env 0.90+ recovers to baseline. Hard flag only at Env<0.88.
-    if _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.88:
+    # Updated Jul 2026 (73 slates): Env<0.90 = 52.2% hit rate (0.80x) across HS≥50 picks.
+    # Previously gated at Env<0.88 — backtest shows Env 0.88-0.90 (60.0% / 0.92x) also
+    # below baseline enough to warrant hard exclude. Env≥0.90 recovers to 1.02-1.05x.
+    if _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.90:
         flags.append(
-            f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.88 + HS={_hs_val_wk:.0f} — "
-            f"backtest: 39.1% hit rate / 0.60x (23 picks, 72 slates). Hard exclude from top-5 hit picks."
-        )
-    elif _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.90:
-        flags.append(
-            f"⚠️ SHORT-START HIT: Env={_env_val_wk:.2f} (0.88-0.90) + HS={_hs_val_wk:.0f} — "
-            f"backtest: 60.0% hit rate (moderate suppression, deprioritize)."
+            f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.90 + HS={_hs_val_wk:.0f} — "
+            f"backtest: 52.2% hit rate / 0.80x (HS≥50, 73 slates). Hard exclude from top-10 hit picks. "
+            f"Env≥0.90 needed for hit picks."
         )
 
     # 3. PM 1.06-1.11 + Sig<4 hit demotion:
@@ -19974,21 +20255,25 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         elif pm >= 1.08:
             _pm_note = f" · PM {pm:.3f}≥1.08 (market priced: 42.9% HR / 2.43x)"
         if _pl_cold_bat:
-            flags.append(
+            _lock_flag = (
                 f"🏆🏆 ELITE LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
                 f"backtest cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). "
                 f"Pitcher edge real but batter form kills conversion.{_pm_note}"
             )
         elif _pl_odds_ok:
-            flags.append(
+            _lock_flag = (
                 f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 + Odds≥+250 — "
                 f"60.0% HR / 3.40x (72-slate backtest, 20 player-slates){_pm_note}"
             )
         else:
-            flags.append(
+            _lock_flag = (
                 f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
                 f"53.8% HR / 3.05x (72-slate backtest, 26 player-slates){_pm_note}"
             )
+        flags.append(_lock_flag)
+        # Inject into sc.notes so it surfaces in Rankings + Detailed CSV (not just Sharp Picks)
+        # This replaces any existing PLAY/LEAN prefix text the user sees in rankings rationale.
+        sc.notes = list(sc.notes or []) + [f"\n🏆🏆 ELITE LOCK — OVERRIDES PLAY/LEAN GRADE: {_lock_flag}"]
     elif _prime_lock:
         _pl_uplift_src = ("EXTREME L2" if _pl_has_extreme_l2
                           else "PITCHER CASCADE" if _pl_has_cascade
@@ -19999,17 +20284,20 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         else:  # 1.08-1.11
             _pl_pm_note = f"PM {pm:.3f} in valid zone 1.08-1.11 (52.9% HR / 3.00x)"
         if _pl_cold_bat:
-            flags.append(
+            _lock_flag = (
                 f"🏆 PRIME LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 "
                 f"[{_pl_uplift_src}] · {_pl_pm_note} — "
                 f"cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). Pitcher edge real but form kills conversion."
             )
         else:
-            flags.append(
+            _lock_flag = (
                 f"🏆 PRIME LOCK [{_pl_uplift_src}]: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 · "
                 f"{_pl_pm_note} · Park {park:.2f}≥0.93 — "
                 f"50.0% HR / 2.84x with uplift + valid PM + park (72-slate backtest)"
             )
+        flags.append(_lock_flag)
+        # Inject into sc.notes so it surfaces in Rankings + Detailed CSV (not just Sharp Picks)
+        sc.notes = list(sc.notes or []) + [f"\n🏆 PRIME LOCK — OVERRIDES PLAY/LEAN GRADE: {_lock_flag}"]
     elif _prime_lock_q and not _elite_lock:
         # Quantitative gates pass but failed uplift, PM dead zone, or park gate
         _pl_track_reason = []
@@ -20094,12 +20382,23 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_cross_only = (_bgs_cross > 0 and _bgs_ptm_cb == 0 and not _bgs_confirmed
                        and not _bgs_nuclear and not _bgs_prime and not _bgs_t3)
 
+    # Sig≥15 CONVICTION hard block (Jul 2026 — 73 slates):
+    # CONVICTION + Sig≥15 = 0.0% HR (0/9) — zero HR in 9 picks.
+    # Market has fully priced the pitch-specific edge when Sig is this high
+    # within a marginal pitcher matchup (Vuln 44-50). Structurally different
+    # from PRIME LOCK where Sig 7-11 = 66.7% — high Sig helps when pitcher
+    # IS vulnerable, hurts when pitcher is NOT.
+    # Note: Sig≥15 within PRIME LOCK is NOT blocked — gate only applies to CONVICTION.
+    _bgs_sig_val   = getattr(sc, 'sig_score', 0.0) or 0.0
+    _bgs_sig_block = (_bgs_sig_val >= 15.0)
+
     _bgs_hard_neg = (
         _bgs_shortst < 0                          # ShortStart+Vuln blocked grades
         or not _bgs_has_named                      # no named HR grade
         or _bgs_short_cold                         # short-start + cold bat (5.0% HR / 0.28x)
         or _bgs_trap_short                         # Vuln 44-48 + Env<0.95 (8.3% HR / 0.47x)
         or (_bgs_pm_dead and _bgs_cross_only)      # PM dead zone + cross-pitch-only (weakest combo)
+        or _bgs_sig_block                          # Sig≥15 CONVICTION = 0.0% HR / 0.00x (73 slates)
     )
 
     _bgs_tier = ""
@@ -20149,8 +20448,12 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             _block_reasons.append(
                 f"PM {pm:.3f} dead zone {dz} + cross-pitch-only (no PRIME match on target pitch)"
             )
-        if _bgs_shortst < 0:
-            _block_reasons.append("ShortStart+Vuln hard flag")
+        if _bgs_sig_block:
+            _block_reasons.append(
+                f"Sig={_bgs_sig_val:.0f}≥15 within CONVICTION — 0.0% HR (0/9, 73 slates). "
+                f"Market fully prices pitch edge in marginal pitcher matchup (Vuln 44-50). "
+                f"Note: Sig≥15 HELPS in PRIME LOCK (Sig 7-11 = 66.7% / 3.78x) but HURTS in CONVICTION."
+            )
         if _block_reasons:
             flags.append(
                 f"📋 CONVICTION BLOCKED: {' · '.join(_block_reasons)}. BGS grade suppressed."
@@ -26323,6 +26626,9 @@ def main():
 
         # ── 6. Score ──────────────────────────────────────────────
     print("\n-- Scoring --")
+    # Load prior run snapshot for intraday delta detection.
+    # Fires a flag on any batter where Vuln shifted ≥3 pts, Score ≥4 pts, or Conv ≥5 pts.
+    _prior_snap, _prior_run_time = _load_run_snapshot()
     ctx_by_id     = {c.game_id: c for c in game_contexts}
     pitcher_cache = {}
     all_scores    = []
@@ -27373,6 +27679,81 @@ def main():
         print()
         sys.exit(1)
 
+    # ── Intraday run-delta detection ──────────────────────────────────────────
+    # Compare this run's key metrics against the prior run snapshot.
+    # Significant movement thresholds (tuned to what actually changes pick selection):
+    #   Vuln:  ≥3.0 pts  → can flip tier membership (e.g. 51.5 → 54.5 = PRIME→ELITE)
+    #   Score: ≥4.0 pts  → can change BGS gate eligibility (Score 62→66 = in/out of CONVICTION)
+    #   Conv:  ≥5 pts    → meaningful conviction change
+    #   PM:    ≥0.03     → shifts between PM dead zone / valid zone boundaries
+    #   Env:   ≥0.05     → crosses park gate thresholds (0.92→0.97 passes PRIME LOCK park)
+    _DELTA_VULN  = 3.0
+    _DELTA_SCORE = 4.0
+    _DELTA_CONV  = 5.0
+    _DELTA_PM    = 0.030
+    _DELTA_ENV   = 0.050
+    _delta_count = 0
+    if _prior_snap:
+        for _sc in all_scores:
+            _prev = _prior_snap.get(_sc.batter_name)
+            if not _prev:
+                continue
+            _cur_vuln  = round(getattr(_sc, 'pitcher_vuln', 0.0) or 0.0, 2)
+            _cur_score = round(_sc.score or 0.0, 2)
+            _cur_conv  = round(getattr(_sc, 'conv_score',  0.0) or 0.0, 1)
+            _cur_pm    = round(getattr(_sc, 'pitch_matchup_score', 0.0) or 0.0, 3)
+            _cur_env   = round(getattr(_sc, 'env_factor',  0.0) or 0.0, 3)
+
+            _dv = _cur_vuln  - _prev.get("vuln",  _cur_vuln)
+            _ds = _cur_score - _prev.get("score", _cur_score)
+            _dc = _cur_conv  - _prev.get("conv",  _cur_conv)
+            _dp = _cur_pm    - _prev.get("pm",    _cur_pm)
+            _de = _cur_env   - _prev.get("env",   _cur_env)
+
+            _moves = []
+            if abs(_dv) >= _DELTA_VULN:
+                _dir = "↑" if _dv > 0 else "↓"
+                _moves.append(f"Vuln {_prev['vuln']:.1f}→{_cur_vuln:.1f} ({_dir}{abs(_dv):.1f} pts)")
+            if abs(_ds) >= _DELTA_SCORE:
+                _dir = "↑" if _ds > 0 else "↓"
+                _moves.append(f"Score {_prev['score']:.1f}→{_cur_score:.1f} ({_dir}{abs(_ds):.1f})")
+            if abs(_dc) >= _DELTA_CONV:
+                _dir = "↑" if _dc > 0 else "↓"
+                _moves.append(f"Conv {_prev['conv']:.0f}→{_cur_conv:.0f} ({_dir}{abs(_dc):.0f})")
+            if abs(_dp) >= _DELTA_PM:
+                # Check if this crosses a PM gate boundary
+                _p_prev_pm = _prev.get("pm", _cur_pm)
+                def _pm_zone(p):
+                    if (1.04 <= p < 1.06) or (1.08 <= p < 1.11): return "valid"
+                    if (1.06 <= p < 1.08) or (p >= 1.11):         return "dead"
+                    return "below"
+                _z_prev = _pm_zone(_p_prev_pm); _z_cur = _pm_zone(_cur_pm)
+                _pm_note = f"PM {_p_prev_pm:.3f}→{_cur_pm:.3f}"
+                if _z_prev != _z_cur:
+                    _pm_note += f" (zone {_z_prev}→{_z_cur} ⚠️ gate crossed)"
+                _moves.append(_pm_note)
+            if abs(_de) >= _DELTA_ENV:
+                _p_prev_env = _prev.get("env", _cur_env)
+                _env_note = f"Env {_p_prev_env:.3f}→{_cur_env:.3f}"
+                # Flag park gate crossings
+                if (_p_prev_env < 0.93) != (_cur_env < 0.93):
+                    _env_note += " (park gate 0.93 crossed ⚠️)"
+                elif (_p_prev_env < 0.88) != (_cur_env < 0.88):
+                    _env_note += " (hit short-start gate 0.90 crossed ⚠️)"
+                _moves.append(_env_note)
+
+            if _moves:
+                _delta_count += 1
+                _sc.notes = list(_sc.notes or []) + [
+                    f"🔄 RUN DELTA vs prior run ({_prior_run_time}): "  # noqa: F821
+                    + " · ".join(_moves)
+                ]
+
+        if _delta_count:
+            print(f"  🔄 Run delta: {_delta_count} batters had significant metric movement vs prior run ({_prior_run_time})")
+        else:
+            print(f"  ✅ Run delta: no significant changes from prior run ({_prior_run_time}, {len(_prior_snap)} batters compared)")
+
     # ── Batch-prefetch batter-vs-pitcher K rates ─────────────────────────────
     # Must run AFTER all_scores is built (batter/pitcher objects are now set)
     # and BEFORE scoring output — populates k_vs_opp on batter objects.
@@ -27813,6 +28194,12 @@ def main():
 
     print(f"\nDone! {len(all_scores)} players scored across {len(game_contexts)} games.")
     print(f"Results saved to: {saved_path}\n")
+
+    # ── Save intraday run snapshot (for next run's delta detection) ────────────
+    # Written after export so the snapshot reflects the final scored state.
+    # Overwrites any prior snapshot for today — only the last run's state is kept.
+    if not is_historical:
+        _save_run_snapshot(all_scores)
 
     # ── 10. GitHub Auto-Upload ─────────────────────────────────
     if not is_historical:
