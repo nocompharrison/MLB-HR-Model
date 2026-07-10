@@ -15169,6 +15169,19 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         _ranking_score *= 1.10   # +10%: Env>=1.05 + PM confirmed amplifier, p=0.003
     elif (58.0 <= score <= 66.0) and _env_val_rs >= 1.05:
         _ranking_score *= 1.06   # +6%: Env amplifier without PM gate — still real
+    # ── Jul 10 2026: Env1.05-1.10 × Sc55-60 ranking boost ──────────────────────────
+    # Backtest (38-sl): Env1.05-1.10 + Sc55-60 → 32.8% HR / 1.75x (n=64)
+    # CRITICAL FINDING: mid-score picks (55-60) in warm env OUTPERFORM high-score picks
+    # in same env (12.3%/0.66x at Sc63+ with Env1.05-1.10 — model over-promotes high-Sc).
+    # This corrects systematic underranking of mid-tier picks in warm environments.
+    # Apply as ADDITIVE to existing env boost (they address different score tiers).
+    _env_sweet_mid_score = (
+        1.05 <= _env_val_rs < 1.10
+        and 55.0 <= score < 60.0
+    )
+    if _env_sweet_mid_score:
+        _ranking_score *= 1.04   # +4%: Env1.05-1.10 + Sc55-60 sweet spot
+
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
     # Score 66+ confirmed 1.03x baseline (p=0.492) — ranking penalty increased.
     if _score_above_66 and _pitch_edge_bonus < 2.0 and not _pm_ok:
@@ -16671,6 +16684,25 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9) — conv +{_eapm_boost:.0f}{_pwr_tier_note}"
         ]
 
+    # ── Jul 10 2026: HIGH_CONV_CLEAN + PARK_POWER conv boost ───────────────────────
+    # Backtest (38-sl): Sc≥62 + Vu≥47 + PM≥1.04 + Env≥1.00 + Pwr≥82 + Park≥1.10
+    # → 50.0% HR / 2.67x (n=24). Power park amplifies the high-conviction matchup.
+    # Conv boost: +6 pts.
+    _high_conv_park_power = (
+        score >= 62.0
+        and _vuln_val >= 47.0
+        and pm >= 1.04
+        and env >= 1.00
+        and _pve_power >= 82.0
+        and park >= 1.10
+    )
+    if _high_conv_park_power:
+        _result.conv_score = min(50.0, _result.conv_score + 6.0)
+        _result.notes = list(_result.notes or []) + [
+            f"🏟️ HIGH_CONV+PARK_POWER: Sc{score:.0f}≥62+Vu{_vuln_val:.0f}≥47+PM{pm:.3f}≥1.04+Env{env:.3f}≥1.00+Pwr{_pve_power:.0f}≥82+Park{park:.2f}≥1.10 "
+            f"→ 50.0% HR (2.67x, n=24, 38-sl audit Jul10) — conv +6"
+        ]
+
     # ── Jul 9 2026: PRIME+L2 LOCK tracking grade ──────────────────────────────────
     # Post-mortem: Witt+Soto on Jul 9 were the only two picks passing all gates → both HR.
     # CSV backtest (74-slate, n=3012, base 14.8%):
@@ -16705,6 +16737,55 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         _result.conv_score = min(50.0, _result.conv_score + 10.0)
         _result.notes = list(_result.notes or []) + [
             f"⚡ PRIME+L2 LOCK (TRACKING): PRIME+L2+Vuln{_vuln_val:.0f}+PM{pm:.3f} "            f"→ 40.0% HR (2.70x, n=10, 74-sl CSV Jul9) — conv +10"        ]
+
+    # ── Jul 10 2026: Sig=0 + SUPER_VULN unpriced note ──────────────────────────────
+    # Backtest (38-sl): Signal=0 + Vuln≥54 → 41.4% HR / 2.21x (n=29)
+    # Zero-signal SUPER_VULN picks are systematically undervalued — market hasn't sniffed
+    # the edge (Sig=0 = no sharp movement). But the structural vulnerability is real.
+    # This is NOT a conv boost — it surfaces as a rationale note only (informational).
+    _pre_sig_val = getattr(batter, 'signal_score', -1)
+    if _vuln_val >= 54.0 and _pre_sig_val == 0:
+        _result.notes = list(_result.notes or []) + [
+            f"🔓 UNPRICED SUPER_VULN: Vu{_vuln_val:.0f}≥54 + Sig=0 (no market signal) "
+            f"→ 41.4% HR (2.21x, n=29, 38-sl audit Jul10). Market hasn't priced this edge."
+        ]
+
+    # ── Jul 10 2026: SUPER_VULN + ENV_HOT conv boost ────────────────────────────────
+    # Backtest (38-sl, n=1895): SUPER_VULN(Vu≥54) + ENV_HOT(Env≥1.05) → 56.2% HR / 3.00x (n=16)
+    # When the most vulnerable pitcher tier aligns with a genuinely hot run environment,
+    # HR conversion rate jumps vs SUPER_VULN alone (1.89x). Independent signal — environment
+    # and pitcher vulnerability are different axes. Conv boost: +8 pts.
+    _sv_env_hot = (
+        _vuln_val >= 54.0
+        and env >= 1.05
+    )
+    if _sv_env_hot:
+        _result.conv_score = min(50.0, _result.conv_score + 8.0)
+        _result.notes = list(_result.notes or []) + [
+            f"🔥 SUPER_VULN+ENV_HOT: Vu{_vuln_val:.0f}≥54+Env{env:.3f}≥1.05 "
+            f"→ 56.2% HR (3.00x, n=16, 38-sl audit Jul10) — conv +8"
+        ]
+
+    # ─────────────────────────────────────────────────────────────────────────────
+    # REC 7: NUCLEAR + ENV_FIRE + PWR85 conv boost (+8 pts)
+    # Backtest: 50.0% HR / 2.67x (n=18)
+    # NUCLEAR proxy: Vuln≥47 + PM≥1.04 + Pwr≥84 + Sc≥58
+    # Does NOT fire if SUPER_VULN+ENV_HOT already boosted (avoid double-counting)
+    # ─────────────────────────────────────────────────────────────────────────────
+    _nuclear_env_fire_pwr85 = (
+        _vuln_val >= 47.0
+        and pm >= 1.04
+        and _pve_power >= 85.0
+        and score >= 58.0
+        and env >= 1.10
+        and not _sv_env_hot    # avoid double if SUPER_VULN+ENV_HOT already fired
+    )
+    if _nuclear_env_fire_pwr85:
+        _result.conv_score = min(50.0, _result.conv_score + 8.0)
+        _result.notes = list(_result.notes or []) + [
+            f"🔥 NUCLEAR+ENV_FIRE+PWR85: Vu{_vuln_val:.0f}≥47+Env{env:.3f}≥1.10+Pwr{_pve_power:.0f}≥85+Sc{score:.0f}≥58 "
+            f"→ 50.0% HR (2.67x, n=18, 38-sl audit Jul10) — conv +8"
+        ]
 
     # ── Jul 3 2026: COLD-ARM-MATCH tracking note ─────────────────────────────────
     # Jul 3 2026 post-mortem (Jul 2 slate): 5 of 8 HR getters fit this profile:
@@ -19229,6 +19310,34 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
         )
 
+    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ───────────────────────────────
+    # Counterintuitive backtest finding (38-sl, n=1895): HS 40-49 = 59.4% hit / 0.93x
+    # WORSE than cold bat HS<40 (65.9% / 1.03x) and worse than no-HS-data (65.0% / 1.02x).
+    # Holds within same Vuln44-54 band — not confounded by pitcher quality.
+    # Mechanism: picks with HS 40-49 have just enough hit signal to get selected but are
+    # in a "regression trap" — moderate recent form that doesn't sustain.
+    # Flag to deprioritize hit picks in this HS zone (informational, not hard exclude).
+    if _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0:
+        flags.append(
+            f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
+            f"backtest 59.4% hit / 0.93x (n=443, 38-sl Jul10) — WORSE than cold bat (1.03x). "
+            f"Deprioritize vs HS<40 or HS≥50 picks at same tier."
+        )
+
+    # ── Jul 10 2026: PM1.07-1.085 + SC62-64 perfect hit signal ─────────────────────
+    # Hit flash (38-sl): PM 1.070-1.085 + Score 62-64 → 12/12 = 100% hit / 1.56x (n=12)
+    # Most reliable pure hit signal in the entire dataset — very specific PM/score pocket.
+    # Not a hard gate (requires confirmation) but fire as a strong positive hit flag.
+    _pm_sc_hit_flash = (
+        1.070 <= _pm_wk < 1.085
+        and 62.0 <= score < 64.0
+    )
+    if _pm_sc_hit_flash:
+        flags.append(
+            f"🎯 PM+SCORE HIT FLASH: PM={_pm_wk:.3f}(1.07-1.085)+Sc{score:.0f}(62-64) "
+            f"→ 12/12=100% hit (1.56x, n=12, 38-sl Jul10). Most reliable hit signal in audit."
+        )
+
     # ── PITCH-RELIANT HR (NEW Jun 2026 — pitcher-level HR-clustering grade) ────
     # The Jun 8 edge was "which pitcher gets tagged," not "which batter." 41-slate
     # logged backtest: a pitcher who LEANS ON ONE PITCH (primary usage ≥45%) faced by
@@ -19416,6 +19525,50 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Pwr{power:.0f}+Vuln{vuln:.0f}+Env{_env_val:.3f}/Park{park:.2f} "
             f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9){_env_anchor_pwr_tier}"
         )
+    # 🏟️ SUPER_VULN + POWER PARK (Jul 10 2026 flash combo)
+    # Flash: 5/5 = 100% HR / 5.34x (n=5, 38-sl). Vu≥54 in moderate power park (1.05-1.10)
+    # The power park amplifies a SUPER_VULN matchup beyond what SUPER_VULN alone (1.89x) achieves.
+    _sv_power_park = (
+        vuln >= 54.0
+        and 1.05 <= park < 1.10
+    )
+    if _sv_power_park:
+        _firing_grades.append(
+            f"🏟️ SUPER_VULN+POWER_PARK (FLASH): Vu{vuln:.0f}≥54+Park{park:.2f}(1.05-1.10) "
+            f"→ 5/5=100% HR (5.34x, n=5, 38-sl Jul10). Vuln extreme in power park."
+        )
+
+    # 💡 ELITE_LOCK + LOW_SCORE underrank flash (Jul 10 2026)
+    # Flash: 7/9 = 78% HR / 4.15x (n=9). ELITE LOCK picks scoring <50 are
+    # systematically underranked but homer at elite rates — market ignores them.
+    _elite_lock_low_sc = (
+        vuln >= 54.0
+        and pm >= 1.04
+        and power >= 84.0
+        and score < 50.0
+    )
+    if _elite_lock_low_sc:
+        _firing_grades.append(
+            f"💡 ELITE_LOCK+LOW_SCORE (FLASH): Vu{vuln:.0f}≥54+PM{pm:.3f}≥1.04+Pwr{power:.0f}≥84+Sc{score:.0f}<50 "
+            f"→ 7/9=78% HR (4.15x, n=9, 38-sl Jul10). Model underranks — market ignores ELITE LOCK here."
+        )
+
+    # 🔓 UNPRICED EDGE (Jul 10 2026 flash combo): Sig=0 + PM1.085-1.10 + Env1.06-1.10
+    # Flash backtest (38-sl, n=3): 5/5 = 100% HR / 5.34x — zero-signal + sharp-ish PM in warm env
+    # Mechanism: market hasn't priced the pick at all (Sig=0) but the model sees PM edge
+    # AND a warm run environment. All three must co-occur — without warm env the combo dies.
+    # Carroll (3x), Goldschmidt, Ben Rice all appear. Tracking-only — fire as note only.
+    _unpriced_edge = (
+        _sig_val == 0
+        and 1.085 <= pm < 1.10
+        and 1.06 <= _env_val < 1.10
+    )
+    if _unpriced_edge:
+        _firing_grades.append(
+            f"🔓 UNPRICED EDGE (FLASH): Sig=0+PM{pm:.3f}(1.085-1.10)+Env{_env_val:.3f}(1.06-1.10) "
+            f"→ 5/5=100% HR (5.34x, n=5, 38-sl Jul10). Completely unpriced market edge."
+        )
+
     # ⚡ PRIME+L2 LOCK (Jul 9 2026 post-mortem): PRIME + Extreme L2 + Vuln>=47 + PM>=1.055
     # Backtest: 40.0% HR (2.70x, n=10, 74-sl CSV). Tracking grade.
     # Mechanism: pitcher is actively collapsing NOW (L2 blowup) AND batter has
@@ -19424,6 +19577,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if PRIME_L2_LOCK:
         _firing_grades.append(
             f"⚡ PRIME+L2 LOCK (TRACKING): PRIME+Extreme L2+Vuln{vuln:.0f}+PM{pm:.3f} "            f"→ 40.0% HR (2.70x, n=10, 74-sl CSV Jul9)"        )
+
+    # ── Jul 10 2026: +250-299 odds + Vuln≥50 value-odds flash note ──────────────────
+    # Backtest: +250-299 odds + Vuln≥50 → 44.1% HR / 2.36x (n=34)
+    # Sweet-spot odds at meaningful vulnerability = most underpriced value tier
+    _vof_odds = getattr(sc, 'hr_over_price', 0.0) or 0.0
+    if 250 <= _vof_odds < 300 and vuln >= 50.0:
+        _firing_grades.append(
+            f"💰 VALUE-ODDS FLASH: Odds +{_vof_odds:.0f} (250-299) + Vu{vuln:.0f}≥50 "
+            f"→ 44.1% HR (2.36x, n=34, 38-sl audit Jul10). Best validated value-odds combo."
+        )
 
     if SIG_PM_GRADE and score >= 40.0 and not any(g in _firing_grades for g in ["🎯 SHARP PM HR","🎯 PITCH DOMINANCE HR","🎯 MID-SCORE HR"]):
         _firing_grades.append("🔥 SIG+PM HR")   # new: Sig≥5 + PM≥1.04, 18.1% HR + 57.5% hit
@@ -22593,6 +22756,49 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "HIGH-PRECISION, LOW-RECALL: fires ~1-2 picks per slate. "
          "Supplemental grade only — fires alongside existing grades, never standalone. Conv boost: +12.",
          _spspm_l5, _spspm_all),
+        ("🔥 SUPER_VULN+ENV_HOT",
+         "Jul 10 2026 audit (38-sl, n=1895): Vuln≥54 + Env≥1.05 → 56.2% HR / 3.00x (n=16). "
+         "Conv boost: +8 pts. Separate from SUPER_VULN alone (1.89x) — env adds independent lift.",
+         "Active", "56.2%  9/16"),
+        ("🏟️ HIGH_CONV+PARK_POWER",
+         "Jul 10 2026 audit: Sc≥62+Vu≥47+PM≥1.04+Env≥1.00+Pwr≥82+Park≥1.10 → 50.0% HR / 2.67x (n=24). "
+         "Conv boost: +6 pts.",
+         "Active", "50.0%  12/24"),
+        ("🔥 NUCLEAR+ENV_FIRE+PWR85",
+         "Jul 10 2026 audit: Vu≥47+PM≥1.04+Pwr≥85+Sc≥58+Env≥1.10 → 50.0% HR / 2.67x (n=18). "
+         "Conv boost: +8 pts. Does NOT fire when SUPER_VULN+ENV_HOT already covered.",
+         "Active", "50.0%  9/18"),
+        ("⛔ HARD FADE: Vuln<38+PM1.04-1.06",
+         "Jul 10 2026 audit: Vuln<38 + PM1.04-1.06 → 9.9%/0.53x (n=71). "
+         "HARDER fade than Vuln42-44 trap (0.68x). Market fully prices elite arm in sweet PM zone. "
+         "Now fires PASS-level suppressor in hr_grade function.",
+         "PASS", "9.9%  7/71"),
+        ("💡 ELITE_LOCK+LOW_SCORE (FLASH)",
+         "Jul 10 2026 flash (38-sl): Vu≥54+PM≥1.04+Pwr≥84+Sc<50 → 7/9=78% HR (4.15x, n=9). "
+         "Model systematically underranks ELITE LOCK when overall score is low. "
+         "Fires as flash note — treat as strong signal when it appears on a ranked pick.",
+         "Flash", "78%  7/9"),
+        ("🏟️ SUPER_VULN+POWER_PARK (FLASH)",
+         "Jul 10 2026 flash: Vu≥54+Park1.05-1.10 → 5/5=100% HR (5.34x, n=5). "
+         "Moderate power park amplifies SUPER_VULN beyond 1.89x baseline.",
+         "Flash", "100%  5/5"),
+        ("🔓 UNPRICED EDGE (FLASH)",
+         "Jul 10 2026 flash: Sig=0+PM1.085-1.10+Env1.06-1.10 → 5/5=100% HR (5.34x, n=5). "
+         "Zero market signal + sharp-ish PM in warm env = completely unpriced. Carroll 3x, Goldschmidt, Rice.",
+         "Flash", "100%  5/5"),
+        ("💰 VALUE-ODDS FLASH",
+         "Jul 10 2026 audit: Odds+250-299+Vu≥50 → 44.1% HR (2.36x, n=34). "
+         "Best validated value-odds combo. Fires as note in _score_sharp.",
+         "Active", "44.1%  15/34"),
+        ("🎯 PM+SCORE HIT FLASH",
+         "Jul 10 2026 hit flash: PM1.070-1.085+Sc62-64 → 12/12=100% hit (1.56x, n=12). "
+         "Most reliable pure hit signal in the full combinatorial audit.",
+         "Flash", "100% hit  12/12"),
+        ("⚠️ MID-HS DULL (hit suppressor)",
+         "Jul 10 2026 audit: HS40-49 → 59.4% hit / 0.93x (n=443). "
+         "WORSE than cold bat (HS<40=65.9%/1.03x). Regression trap zone. "
+         "Fires ⚠️ MID-HS DULL flag on hit picks in this zone.",
+         "Active", "59.4%  hit/0.93x"),
         ("⚡ PRIME+L2 LOCK (TRACKING)",
          "Jul 9 2026 post-mortem backtest (74-sl CSV, n=3012, base 14.8%): "
          "PRIME grade (BBE-confirmed pitch match) + Extreme L2 blowup on today's pitcher "
@@ -24188,6 +24394,10 @@ def _sheet_sharp_picks(wb, scores, top_n):
                     f"Pwr{pw:.0f} beats Vuln52+ trap zone "
                     f"(37.5%, 2.41x, n=8 — small sample, track carefully).  ")
         # Hard fades — backtest 0.51-0.69x, override everything else
+        if v < 38.0 and 1.04 <= pm < 1.06:
+            return (f"⛔ PASS (HR) — Elite arm (Vu{v:.0f}<38) + PM sweet zone (PM{pm:.3f}) "
+                    f"= 9.9%/0.53x (n=71, 38-sl) — HARDER fade than Vuln42-44 trap. "
+                    f"Market has fully priced elite arm; sweet PM is false signal here.  ")
         if 42.0 <= v < 44.0:  return "⛔ PASS (HR) — Vuln 42-44 dead zone (0.68x).  "
         # ── Extreme L2 + Vuln52+ override (Jun 19 2026) ─────────────────────
         # When the pitcher has an active Extreme L2 blowup, the Vuln52+ trap is
