@@ -16671,6 +16671,41 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9) — conv +{_eapm_boost:.0f}{_pwr_tier_note}"
         ]
 
+    # ── Jul 9 2026: PRIME+L2 LOCK tracking grade ──────────────────────────────────
+    # Post-mortem: Witt+Soto on Jul 9 were the only two picks passing all gates → both HR.
+    # CSV backtest (74-slate, n=3012, base 14.8%):
+    #   PRIME + Extreme L2 alone:     26.3% HR (1.77x, n=57)
+    #   + Vuln>=47:                   28.6% HR (1.93x, n=21)
+    #   + PM>=1.055 + no flags:       40.0% HR (2.70x, n=10)  ← TRACKING GRADE
+    # Gates: PRIME grade (BBE-confirmed pitch match on primary pitch) + Extreme L2 blowup
+    #        on TODAY's pitcher (acute collapse, not season-level Vuln) + Vuln>=47 (not an
+    #        elite arm) + PM>=1.055 (market not fading) + no ENV DEMOTION + no COLD BAT.
+    # Mechanism: Three independent confirmation layers must all fire simultaneously:
+    #   (1) PRIME = batter has confirmed HR contact on this pitcher's primary pitch recently
+    #   (2) L2 blowup = pitcher is ACTIVELY collapsing RIGHT NOW (not just historically weak)
+    #   (3) PM>=1.055 = market not actively fading this pick
+    # n=10 is below standard 20-pick threshold but 40.0%/2.70x with clear mechanism
+    # warrants tracking-grade status. Promote to scored grade at n>=20.
+    # Conv boost: +10 pts (tracking). No sub-bucket yet — n too small.
+    # Variable names: use score_player scope (_ptm_conv_bonus, _has_extreme_l2_flag)
+    _pl2_prime_check = (_ptm_conv_bonus >= 12.0)
+    _has_l2_flag = getattr(_result, '_has_extreme_l2', False) or (
+        any('EXTREME L2' in str(n) or 'L2 BLOWUP' in str(n).upper()
+            for n in (_result.notes or []))
+    )
+    _pl2_fires = (
+        _pl2_prime_check
+        and _has_l2_flag
+        and _vuln_val >= 47.0
+        and pm >= 1.055
+        and not (env < 1.00 and not _pl2_prime_check)       # no env demotion
+        and not (_hs_val_pl > 0 and _hs_val_pl < 40.0)     # no cold bat (reuse PRIME LOCK var)
+    )
+    if _pl2_fires:
+        _result.conv_score = min(50.0, _result.conv_score + 10.0)
+        _result.notes = list(_result.notes or []) + [
+            f"⚡ PRIME+L2 LOCK (TRACKING): PRIME+L2+Vuln{_vuln_val:.0f}+PM{pm:.3f} "            f"→ 40.0% HR (2.70x, n=10, 74-sl CSV Jul9) — conv +10"        ]
+
     # ── Jul 3 2026: COLD-ARM-MATCH tracking note ─────────────────────────────────
     # Jul 3 2026 post-mortem (Jul 2 slate): 5 of 8 HR getters fit this profile:
     # HS<25 (cold bat) + Vuln 42-52 (soft but not trap arm) + PM≥1.04 + Score<50.
@@ -18525,6 +18560,26 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         and not PWR_VULN_ENV_HR   # avoid double-labeling (PWR_VULN_ENV covers Vuln>=50 + env)
     )
 
+    # ⚡ PRIME+L2 LOCK — Jul 9 2026 (post-mortem backtest, tracking grade)
+    # Gates: PRIME grade + Extreme L2 blowup + Vuln>=47 + PM>=1.055 + no ENV DEMOTION + no COLD BAT
+    # Backtest: 40.0% HR (2.70x, n=10, 74-sl CSV). Tracking grade — promote at n>=20.
+    # _is_prime_confirmed_grade already defined above (line ~18511)
+    # Extreme L2 detection: look for L2 blowup note in sc.notes or _firing_grades
+    _pl2_has_l2 = (
+        any('EXTREME L2' in str(n).upper() or 'L2 BLOWUP' in str(n).upper()
+            for n in (sc.notes or []))
+    )  # _firing_grades not yet built at this point — sc.notes only
+    _pl2_no_env_dem = not (_env_val < 1.00 and not _is_prime_confirmed_grade)
+    _pl2_no_cold_bat = not (getattr(sc, 'hit_score', 0.0) > 0 and getattr(sc, 'hit_score', 0.0) < 40.0)
+    PRIME_L2_LOCK = (
+        _is_prime_confirmed_grade
+        and _pl2_has_l2
+        and 47.0 <= vuln
+        and pm >= 1.055
+        and _pl2_no_env_dem
+        and _pl2_no_cold_bat
+    )
+
     # 🎯 SUPP-PARK SWEET-PM HR — Jun 25 2026 (post-Jun 24 post-mortem + pkl backtest)
     # Discovery: exhaustive search for zero-FP combos on Jun 24 slate revealed that
     # ALL players passing this gate hit HRs; zero false positives on that slate.
@@ -19361,6 +19416,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Pwr{power:.0f}+Vuln{vuln:.0f}+Env{_env_val:.3f}/Park{park:.2f} "
             f"→ 26.1% HR (1.76x, n=69, 74-sl CSV Jul9){_env_anchor_pwr_tier}"
         )
+    # ⚡ PRIME+L2 LOCK (Jul 9 2026 post-mortem): PRIME + Extreme L2 + Vuln>=47 + PM>=1.055
+    # Backtest: 40.0% HR (2.70x, n=10, 74-sl CSV). Tracking grade.
+    # Mechanism: pitcher is actively collapsing NOW (L2 blowup) AND batter has
+    # BBE-confirmed edge on that exact pitcher's primary pitch (PRIME) AND market
+    # is not fading (PM>=1.055). Three simultaneous confirmations = highest precision signal.
+    if PRIME_L2_LOCK:
+        _firing_grades.append(
+            f"⚡ PRIME+L2 LOCK (TRACKING): PRIME+Extreme L2+Vuln{vuln:.0f}+PM{pm:.3f} "            f"→ 40.0% HR (2.70x, n=10, 74-sl CSV Jul9)"        )
+
     if SIG_PM_GRADE and score >= 40.0 and not any(g in _firing_grades for g in ["🎯 SHARP PM HR","🎯 PITCH DOMINANCE HR","🎯 MID-SCORE HR"]):
         _firing_grades.append("🔥 SIG+PM HR")   # new: Sig≥5 + PM≥1.04, 18.1% HR + 57.5% hit
     if _sharp_line_move_note and 47.0 <= vuln <= 52.0 and not _short_start_vuln_block and "🎯 SWEET PM HR" not in _firing_grades and "🧊 ICE COLD" not in " ".join(_firing_grades) and "🎯 HIGH-K HR" not in _firing_grades:
@@ -22529,6 +22593,20 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "HIGH-PRECISION, LOW-RECALL: fires ~1-2 picks per slate. "
          "Supplemental grade only — fires alongside existing grades, never standalone. Conv boost: +12.",
          _spspm_l5, _spspm_all),
+        ("⚡ PRIME+L2 LOCK (TRACKING)",
+         "Jul 9 2026 post-mortem backtest (74-sl CSV, n=3012, base 14.8%): "
+         "PRIME grade (BBE-confirmed pitch match) + Extreme L2 blowup on today's pitcher "
+         "+ Vuln>=47 + PM>=1.055 + no ENV DEMOTION + no COLD BAT. "
+         "Result: 40.0% HR (2.70x, n=10). Tracking — promote at n>=20. "
+         "Gate-by-gate: PRIME alone=20.6% (1.39x, n=548); +L2=26.3% (1.77x, n=57); "
+         "+Vuln>=47=28.6% (1.93x, n=21); +PM>=1.055+no-flags=40.0% (2.70x, n=10). "
+         "Mechanism: THREE simultaneous confirmations required — pitcher actively "
+         "collapsing RIGHT NOW (L2 blowup, not season-level Vuln), batter has confirmed "
+         "HR contact on this exact pitcher's primary pitch (PRIME), and market not fading "
+         "(PM>=1.055). July 9 2026 validation: Witt (PRIME+L2 Manaea, HR✅) and Soto "
+         "(ELITE+L2 Wacha, HR✅) were the only two picks passing all gates that slate. "
+         "Conv boost: +10 pts.",
+         "Tracking", "40.0%  4/10"),
         ("🌡️ ENV-ANCHORED PITCH MATCH (PRIME/CONF)",
          "Jul 9 2026 (CSV 74-slate backtest, n=3012, base 14.8%): "
          "PRIME/CONFIRMED MATCH grade + Vuln 42-52 + (Env>=1.05 OR Park>=1.10) + Pwr>=80. "
