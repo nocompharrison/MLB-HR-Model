@@ -6232,12 +6232,13 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
             f"&year={year}&team=&min=10&csv=true"
         )
         raw = _get_text(url)
+        # ── Jul 11 2026 diagnostic: always print fetch result ──
         if not raw or len(raw) < 200:
+            print(f"    [Arsenal {pitch_code}] fetch EMPTY/FAILED (len={len(raw) if raw else 0}) — sub-type barrel data unavailable")
             continue
         try:
             reader = csv.DictReader(io.StringIO(raw))
             _st_cols = reader.fieldnames or []
-            # ── Jul 11 2026 diagnostic: print column names once per pitch type ──
             _brl_cols = [c for c in _st_cols if any(x in c.lower() for x in
                          ['barrel','brl','home_run','hr','launch','run_value'])]
             _pct_cols = [c for c in _st_cols if any(x in c.lower() for x in
@@ -8503,18 +8504,14 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
                   f"— name format mismatch. Sample arsenal key: {next(iter(_arsenal_data))}")
         print(f"  ✅ Pitcher arsenal enrichment: {_arsenal_enriched} pitchers updated (whiff/barrel by pitch type)")
         # ── Jul 11 2026: PITCH HR CONC coverage diagnostic ──────────────────
-        _brl_si_cnt = sum(1 for p in pitcher_map.values()
-                          if (getattr(p,"barrel_pct_si",0) or getattr(p,"barrel_pct_sinker",0)) > 0)
-        _brl_ff_cnt = sum(1 for p in pitcher_map.values()
-                          if (getattr(p,"barrel_pct_ff",0) or getattr(p,"barrel_pct_fourseam",0)) > 0)
-        _usg_si_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"sinker_pct",0) > 0)
-        print(f"  📊 Sub-type barrel coverage: barrel_si={_brl_si_cnt} | barrel_ff={_brl_ff_cnt} | sinker_pct={_usg_si_cnt} pitchers")
-        if _brl_si_cnt == 0 and _arsenal_enriched > 0:
-            _s_keys = list((_arsenal_data or {}).keys())[:2]
-            _s_vals = {k: list((_arsenal_data or {}).get(k,{}).keys())[:10] for k in _s_keys}
-            print(f"  ⚠️  PITCH HR CONC will NOT fire - barrel_si=0. Arsenal field names sample: {_s_vals}")
-        elif _brl_si_cnt > 0:
-            print(f"  ✅ PITCH HR CONC active: barrel_si populated for {_brl_si_cnt} pitchers")
+        _woba_si_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"woba_allowed_si",0) > 0)
+        _woba_ff_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"woba_allowed_ff",0) > 0)
+        _usg_si_cnt  = sum(1 for p in pitcher_map.values() if getattr(p,"sinker_pct",0) > 0)
+        print(f"  📊 PITCH HR CONC coverage: woba_allowed_si={_woba_si_cnt} | woba_allowed_ff={_woba_ff_cnt} | sinker_pct={_usg_si_cnt} pitchers")
+        if _woba_si_cnt == 0:
+            print(f"  ⚠️  PITCH HR CONC will NOT fire — woba_allowed_si=0 for all pitchers (DailyPitcherPitch data missing)")
+        else:
+            print(f"  ✅ PITCH HR CONC signal active: woba_allowed per pitch type populated for {_woba_si_cnt} pitchers")
     except Exception as _e:
         print(f"  ⚠️  Pitcher arsenal enrichment failed: {_e}")
 
@@ -15571,14 +15568,16 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     #   2. Batter has ≥1 L10 BBE HR on that pitch type OR pitcher throws it ≥25%
     # Conv boost: +6 pts. Soft version: informational note only.
 
-    _p_brl_si = (getattr(pitcher, 'barrel_pct_si', 0.0) or
-                 getattr(pitcher, 'barrel_pct_sinker', 0.0) or 0.0)
-    _p_brl_ff = (getattr(pitcher, 'barrel_pct_ff', 0.0) or
-                 getattr(pitcher, 'barrel_pct_fourseam', 0.0) or 0.0)
-    _p_brl_fc = (getattr(pitcher, 'barrel_pct_fc', 0.0) or
-                 getattr(pitcher, 'barrel_pct_cutter', 0.0) or 0.0)
-    _p_brl_sl = getattr(pitcher, 'barrel_pct_sl', 0.0) or 0.0
-    _p_brl_ch = getattr(pitcher, 'barrel_pct_ch', 0.0) or 0.0
+    # Use woba_allowed per pitch type — available from DailyPitcherPitch (Excel)
+    # This is the correct data source: woba_allowed_si/ff/sl/ch populate from the
+    # model's own pitch-mix wOBA calculation, not from the blocked Savant sub-type fetch
+    _p_woba_si = getattr(pitcher, 'woba_allowed_si', 0.0) or 0.0
+    _p_woba_ff = getattr(pitcher, 'woba_allowed_ff', 0.0) or 0.0
+    _p_woba_fc = getattr(pitcher, 'woba_allowed_fc', 0.0) or 0.0
+    _p_woba_sl = getattr(pitcher, 'woba_allowed_sl', 0.0) or 0.0
+    _p_woba_ch = getattr(pitcher, 'woba_allowed_ch', 0.0) or 0.0
+    _p_woba_st = getattr(pitcher, 'woba_allowed_st', 0.0) or 0.0
+    _p_woba_cu = getattr(pitcher, 'woba_allowed_cu', 0.0) or 0.0
 
     _p_usg_si = getattr(pitcher, 'sinker_pct', 0.0) or 0.0
     _p_usg_ff = (getattr(pitcher, 'fourseam_pct', 0.0) or
@@ -15586,35 +15585,49 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _p_usg_fc = getattr(pitcher, 'cutter_pct', 0.0) or 0.0
     _p_usg_sl = getattr(pitcher, 'slider_pct', 0.0) or 0.0
     _p_usg_ch = getattr(pitcher, 'changeup_pct', 0.0) or 0.0
+    _p_usg_st = getattr(pitcher, 'sweeper_pct', 0.0) or 0.0
+    _p_usg_cu = getattr(pitcher, 'curveball_pct', 0.0) or 0.0
 
-    # Weighted barrel damage score per pitch type
-    _pt_scores = {
-        "SI": _p_brl_si * (_p_usg_si / 100.0),
-        "FF": _p_brl_ff * (_p_usg_ff / 100.0),
-        "FC": _p_brl_fc * (_p_usg_fc / 100.0),
-        "SL": _p_brl_sl * (_p_usg_sl / 100.0),
-        "CH": _p_brl_ch * (_p_usg_ch / 100.0),
+    # Weighted wOBA damage score: woba_allowed × usage%
+    # woba_allowed_si = 0.400 × sinker_pct 24% → score 0.096
+    # woba_allowed_ff = 0.280 × fourseam_pct 34% → score 0.095
+    # Ratio: nearly equal — but if SI = 0.480 vs FF = 0.280, ratio = 1.71×
+    # Ryan Johnson example: all HRs on SI → SI wOBA >> FF wOBA
+    _pt_woba_scores = {
+        "SI": _p_woba_si * (_p_usg_si / 100.0),
+        "FF": _p_woba_ff * (_p_usg_ff / 100.0),
+        "FC": _p_woba_fc * (_p_usg_fc / 100.0),
+        "SL": _p_woba_sl * (_p_usg_sl / 100.0),
+        "CH": _p_woba_ch * (_p_usg_ch / 100.0),
+        "ST": _p_woba_st * (_p_usg_st / 100.0),
+        "CU": _p_woba_cu * (_p_usg_cu / 100.0),
     }
-    # Only consider pitch types with usage ≥ 8% (noise filter)
-    _pt_scores = {k: v for k, v in _pt_scores.items()
-                  if ({
-                      "SI": _p_usg_si,"FF": _p_usg_ff,"FC": _p_usg_fc,
-                      "SL": _p_usg_sl,"CH": _p_usg_ch,
-                  }.get(k, 0)) >= 8.0}
+    _pt_usg_map = {
+        "SI":_p_usg_si,"FF":_p_usg_ff,"FC":_p_usg_fc,
+        "SL":_p_usg_sl,"CH":_p_usg_ch,"ST":_p_usg_st,"CU":_p_usg_cu,
+    }
+    _pt_woba_map = {
+        "SI":_p_woba_si,"FF":_p_woba_ff,"FC":_p_woba_fc,
+        "SL":_p_woba_sl,"CH":_p_woba_ch,"ST":_p_woba_st,"CU":_p_woba_cu,
+    }
+    # Only consider pitches thrown ≥ 8% — eliminates noise from rare pitches
+    _pt_woba_scores = {k: v for k, v in _pt_woba_scores.items()
+                       if _pt_usg_map.get(k, 0) >= 8.0 and _pt_woba_map.get(k, 0) > 0}
 
     _pitch_conc_fired = False
-    if len(_pt_scores) >= 2:
-        _sorted_pts = sorted(_pt_scores.items(), key=lambda x: x[1], reverse=True)
+    if len(_pt_woba_scores) >= 2:
+        _sorted_pts = sorted(_pt_woba_scores.items(), key=lambda x: x[1], reverse=True)
         _top_pt, _top_score = _sorted_pts[0]
         _sec_score = _sorted_pts[1][1] if len(_sorted_pts) > 1 else 0.0
 
-        # Concentration: top pitch has ≥2× the weighted barrel score of second pitch
-        # AND top pitch has above-average barrel% (≥8% = elevated HR risk)
-        _top_brl_raw = {"SI":_p_brl_si,"FF":_p_brl_ff,"FC":_p_brl_fc,"SL":_p_brl_sl,"CH":_p_brl_ch}.get(_top_pt, 0.0)
-        _top_usage   = {"SI":_p_usg_si,"FF":_p_usg_ff,"FC":_p_usg_fc,"SL":_p_usg_sl,"CH":_p_usg_ch}.get(_top_pt, 0.0)
-        _conc_ratio  = _top_score / _sec_score if _sec_score > 0 else 0.0
+        # Concentration: top pitch wOBA score ≥1.5× second pitch AND top wOBA ≥ 0.340
+        # (wOBA 0.340 = league avg contact; we need above-avg damage to be meaningful)
+        # Using 1.5× not 2× because wOBA differences are more graduated than barrel%
+        _top_woba_raw = _pt_woba_map.get(_top_pt, 0.0)
+        _top_usage    = _pt_usg_map.get(_top_pt, 0.0)
+        _conc_ratio   = _top_score / _sec_score if _sec_score > 0 else 0.0
 
-        if _conc_ratio >= 2.0 and _top_brl_raw >= 8.0 and _top_score > 0:
+        if _conc_ratio >= 1.5 and _top_woba_raw >= 0.340 and _top_score > 0:
             # Check batter L10 BBE HR on the dominant pitch type
             _l10_cache_local = getattr(batter, 'l10_bbe_cache', {}) or {}
             _batter_bbe_dom  = (_l10_cache_local.get(_top_pt.lower()) or
@@ -15622,21 +15635,22 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             _batter_hr_on_dom = _batter_bbe_dom.get('hr', 0) or 0
 
             if _batter_hr_on_dom >= 1 or _top_usage >= 25.0:
-                _result.conv_score = min(50.0, _result.conv_score + 6.0)
+                # _result not built yet at ranking stage — use _pre_notes + conv accumulator
                 _pitch_conc_fired = True
-                _result.notes = list(_result.notes or []) + [
-                    f"🎯 PITCH HR CONCENTRATION: {_top_pt} is pitcher's primary HR vehicle "
-                    f"(barrel {_top_brl_raw:.0f}% × usage {_top_usage:.0f}% = {_top_score:.2f} weighted score, "
-                    f"{_conc_ratio:.1f}× higher than next pitch type) "
+                _pre_notes.append(
+                    f"🎯 PITCH HR CONCENTRATION: {_top_pt} is pitcher's primary damage vehicle "
+                    f"(wOBA {_top_woba_raw:.3f} × usage {_top_usage:.0f}% = {_top_score:.3f} weighted score, "
+                    f"{_conc_ratio:.1f}× higher than next pitch type — pitcher concentrates contact damage on {_top_pt}) "
                     f"| Batter L10 BBE HR on {_top_pt}: {_batter_hr_on_dom} | Usage {_top_usage:.0f}% "
-                    f"→ batter will face this pitch. Conv +6. (Jul 11 2026)"
-                ]
+                    f"→ batter will see this pitch. Conv +6. (Jul 11 2026 — Ryan Johnson/Royce Lewis SI pattern)"
+                )
+                _ranking_score *= 1.06  # ranking boost alongside conv boost
             elif _top_usage > 0:
-                _result.notes = list(_result.notes or []) + [
-                    f"📊 PITCH HR CONC (soft): {_top_pt} = primary HR vehicle "
-                    f"(barrel {_top_brl_raw:.0f}% × usage {_top_usage:.0f}%, {_conc_ratio:.1f}× next pitch) "
-                    f"but no confirmed batter L10 BBE HR on {_top_pt}. Watch if batter's BBE data includes {_top_pt}."
-                ]
+                _pre_notes.append(
+                    f"📊 PITCH HR CONC (soft): {_top_pt} = pitcher's primary damage pitch "
+                    f"(wOBA {_top_woba_raw:.3f} × usage {_top_usage:.0f}%, {_conc_ratio:.1f}× next pitch type) "
+                    f"but no confirmed batter L10 BBE HR on {_top_pt}. Informational — watch this matchup."
+                )
 
     # ── Jun 18 2026: Extreme L2 blowup ranking boost — EXPANDED (Jun 18 post-mortem) ───
     # Jun 17 post-mortem: Canzone (Bradish L2 4.50 HR/9), Chourio+Stowers (Williams
@@ -15806,6 +15820,10 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         notes.extend(_pre_notes)   # merge transcript signal notes (L7, hand HR, venue SLG, park hand)
     if _ptm_pre_notes:
         notes.extend(_ptm_pre_notes)   # pitcher-first target notes collected before Stage 3
+    # ── Deferred PITCH HR CONCENTRATION conv boost (Jul 11 2026) ─────────────
+    # _result not built at ranking stage; conv boost applied here after Stage 3 init
+    if _pitch_conc_fired:
+        conv_score = min(50.0, conv_score + 6.0)
     if _park_arm_capped:
         notes.append(f"🏟️ Park×arm cap: suppressive park ({park:.3f}) + elite arm (Vuln {_vuln_val:.0f}) — score capped at 54")
     # DP signal strict note only fires if score >= 40.0 (checked here — score now exists)
