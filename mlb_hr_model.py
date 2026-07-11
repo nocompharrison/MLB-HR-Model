@@ -1182,6 +1182,21 @@ class PitcherProfile:
     barrel_pct_si:    float = 0.0   # barrel% on sinker
     barrel_pct_sl:    float = 0.0   # barrel% on slider
     barrel_pct_ch:    float = 0.0   # barrel% on changeup
+    # ── Per-pitch-type HR allowed (for concentration signal) ─────────────────
+    # How many HRs has this pitcher allowed on each pitch type (season).
+    # Used to detect when a pitcher's HRs are concentrated on one pitch type —
+    # the PropFinder "Johnson only gives up HRs on sinkers" signal.
+    hr_allowed_si:  float = 0.0   # HRs allowed on sinker
+    hr_allowed_ff:  float = 0.0   # HRs allowed on four-seam
+    hr_allowed_fc:  float = 0.0   # HRs allowed on cutter
+    hr_allowed_sl:  float = 0.0   # HRs allowed on slider
+    hr_allowed_st:  float = 0.0   # HRs allowed on sweeper
+    hr_allowed_ch:  float = 0.0   # HRs allowed on changeup
+    hr_allowed_cu:  float = 0.0   # HRs allowed on curveball
+    bbe_si:  float = 0.0   # BBE on sinker (denominator for HR/BBE rate)
+    bbe_ff:  float = 0.0
+    bbe_fc:  float = 0.0
+
     # PitchMix wOBA: batter wOBA weighted by THIS pitcher's actual pitch distribution
     # This is the "Barrel Boyz" core signal: a single number representing
     # how well this batter matches up against this pitcher's specific mix.
@@ -6250,6 +6265,13 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
                     combined[name][f"whiff_{pt_key}"] = whiff
                 if barrel > 0:
                     combined[name][f"barrel_{pt_key}"] = barrel
+                # HR count per pitch type — key for concentration signal
+                hr_raw = _sf(row.get("home_run") or row.get("hr") or row.get("home_runs"))
+                bbe_raw = _sf(row.get("bbe") or row.get("batted_ball_events") or row.get("batted_balls"))
+                if hr_raw > 0:
+                    combined[name][f"hr_allowed_{pt_key}"] = hr_raw
+                if bbe_raw > 0:
+                    combined[name][f"bbe_{pt_key}"] = bbe_raw
         except Exception:
             continue
 
@@ -8452,6 +8474,13 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             if "whiff_si"     in _ad: _pm_obj.whiff_pct_sinker    = _ad["whiff_si"]
             if "whiff_fc"     in _ad: _pm_obj.whiff_pct_cutter    = _ad["whiff_fc"]
             if "whiff_st"     in _ad: _pm_obj.whiff_pct_sweeper   = _ad["whiff_st"]
+            # HR-by-pitch-type concentration data (Jul 11 2026)
+            if "hr_allowed_si" in _ad: _pm_obj.hr_allowed_si = _ad["hr_allowed_si"]
+            if "hr_allowed_ff" in _ad: _pm_obj.hr_allowed_ff = _ad["hr_allowed_ff"]
+            if "hr_allowed_fc" in _ad: _pm_obj.hr_allowed_fc = _ad["hr_allowed_fc"]
+            if "bbe_si"        in _ad: _pm_obj.bbe_si         = _ad["bbe_si"]
+            if "bbe_ff"        in _ad: _pm_obj.bbe_ff         = _ad["bbe_ff"]
+            if "bbe_fc"        in _ad: _pm_obj.bbe_fc         = _ad["bbe_fc"]
             _arsenal_enriched += 1
         if _arsenal_data and _arsenal_enriched == 0:
             print(f"  ⚠️  Arsenal data has {len(_arsenal_data)} pitchers but 0 matched pitcher_map "
@@ -15496,6 +15525,77 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"→ 27.8% HR / 1.58x (n=36, 61-sl Jul11). "
             f"Elite PM + power in positive env at long odds = unpriced edge. Ranking +7%."
         )
+
+    # ── Jul 11 2026: PITCH-TYPE HR CONCENTRATION signal ─────────────────────────────
+    # Motivation: Royce Lewis HR at +450 — Ryan Johnson gives up HRs ONLY on sinkers.
+    # PropFinder caught it; our model didn't have pitcher-side HR-by-pitch-type.
+    # Signal: when a pitcher's HRs are concentrated (≥60%) on one pitch type AND
+    # the batter has confirmed L10 BBE HR contact on that exact pitch type,
+    # that intersection is a structural edge the market consistently underprices.
+    # Data: pitcher.hr_allowed_si/ff/fc + batter's L10 BBE HR on matching pitch type.
+    #
+    # Implementation: compute total pitcher HRs across tracked pitch types, find
+    # which pitch type dominates, check if batter's primary BBE match is on that pitch.
+    # Only fires when pitcher has ≥3 HRs total (sample gate) and concentration ≥60%.
+    # Conv boost: +6 pts. Fires note: 🎯 PITCH HR CONCENTRATION.
+
+    _p_hr_si = getattr(pitcher, 'hr_allowed_si', 0.0) or 0.0
+    _p_hr_ff = getattr(pitcher, 'hr_allowed_ff', 0.0) or 0.0
+    _p_hr_fc = getattr(pitcher, 'hr_allowed_fc', 0.0) or 0.0
+    _p_hr_total = _p_hr_si + _p_hr_ff + _p_hr_fc
+
+    _pitch_conc_fired = False
+    if _p_hr_total >= 3.0:
+        # Find the dominant HR pitch type
+        _dominant_hr_pt = None
+        _dominant_hr_n  = 0.0
+        for _pt_code, _pt_hr in [("SI", _p_hr_si), ("FF", _p_hr_ff), ("FC", _p_hr_fc)]:
+            if _pt_hr > _dominant_hr_n:
+                _dominant_hr_n = _pt_hr
+                _dominant_hr_pt = _pt_code
+        _concentration = _dominant_hr_n / _p_hr_total if _p_hr_total > 0 else 0.0
+
+        if _concentration >= 0.60 and _dominant_hr_pt:
+            # Check if batter has confirmed L10 BBE HR on this pitch type
+            # Use existing _ptm_batter_bbe or pre_notes data from PITCHER-FIRST MATCH
+            # Fallback: check if the pitcher's dominant HR pitch is also the pitcher's
+            # primary pitch (usage ≥ 25%) — if so, batter WILL see it
+            _dom_usage = 0.0
+            if _dominant_hr_pt == "SI":
+                _dom_usage = getattr(pitcher, 'sinker_pct', 0.0) or 0.0
+            elif _dominant_hr_pt == "FF":
+                _dom_usage = getattr(pitcher, 'fourseam_pct', getattr(pitcher, 'fastball_pct', 0.0)) or 0.0
+            elif _dominant_hr_pt == "FC":
+                _dom_usage = getattr(pitcher, 'cutter_pct', 0.0) or 0.0
+
+            # Check batter's L10 BBE HR on the dominant pitch type
+            _batter_hr_on_dom = 0
+            _l10_cache_local = getattr(batter, 'l10_bbe_cache', {}) or {}
+            _dom_pt_lower = _dominant_hr_pt.lower()
+            _batter_bbe_dom = (_l10_cache_local.get(_dom_pt_lower)
+                               or _l10_cache_local.get(_dominant_hr_pt)
+                               or {})
+            _batter_hr_on_dom = _batter_bbe_dom.get('hr', 0) or 0
+
+            # Gate: either batter has ≥1 L10 BBE HR on dominant pitch,
+            # or dominant pitch usage ≥ 30% (batter will see it frequently)
+            if _batter_hr_on_dom >= 1 or _dom_usage >= 30.0:
+                _result.conv_score = min(50.0, _result.conv_score + 6.0)
+                _pitch_conc_fired = True
+                _result.notes = list(_result.notes or []) + [
+                    f"🎯 PITCH HR CONCENTRATION: {_dominant_hr_pt} = {_dominant_hr_n:.0f}/{_p_hr_total:.0f} HRs "
+                    f"({_concentration*100:.0f}% of pitcher's HRs on {_dominant_hr_pt}) "
+                    f"| Batter L10 BBE HR on {_dominant_hr_pt}: {_batter_hr_on_dom} "
+                    f"| Usage: {_dom_usage:.0f}% — pitcher vulnerable on exact pitch batter attacks. "
+                    f"Conv +6. (Jul 11 2026 — Royce Lewis/Ryan Johnson SI pattern)"
+                ]
+            elif _dom_usage > 0:
+                # Softer version: concentration fires but no BBE confirmation
+                _result.notes = list(_result.notes or []) + [
+                    f"📊 PITCH HR CONC (soft): {_dominant_hr_pt} = {_dominant_hr_n:.0f}/{_p_hr_total:.0f} HRs "
+                    f"({_concentration*100:.0f}%) but no batter L10 BBE HR confirmed on {_dominant_hr_pt}. "
+                    f"Watch — if batter sees {_dominant_hr_pt} frequently ({_dom_usage:.0f}% usage) risk is real."
+                ]
 
     # ── Jun 18 2026: Extreme L2 blowup ranking boost — EXPANDED (Jun 18 post-mortem) ───
     # Jun 17 post-mortem: Canzone (Bradish L2 4.50 HR/9), Chourio+Stowers (Williams
@@ -23048,6 +23148,12 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Jul 10 2026 hit flash: PM1.070-1.085+Sc62-64 → 12/12=100% hit (1.56x, n=12). "
          "Most reliable pure hit signal in the full combinatorial audit.",
          "Flash", "100% hit  12/12"),
+        ("🎯 PITCH HR CONCENTRATION",
+         "Jul 11 2026 (Royce Lewis/Ryan Johnson SI pattern): Fires when pitcher's HRs are "
+         "concentrated ≥60%% on one pitch type (SI/FF/FC, n≥3 HRs) AND batter has ≥1 L10 BBE HR "
+         "on that pitch OR pitcher throws it ≥30%% (batter will see it). Conv +6. "
+         "Fires 🎯 PITCH HR CONCENTRATION note. Soft version fires as 📊 PITCH HR CONC (soft).",
+         "Active", "Conv +6 | new Jul11 2026"),
         ("💎 DIAMOND: LOW-SCORE SUPER VUL",
          "Jul 11 2026 audit (61-sl): Sc<55+Vu≥54+Pwr≥84+PM≥1.04 → 66.7%% HR / 3.79x (n=12). "
          "SUPER VUL makes score irrelevant: Vu54+×Sc<50=1.68x vs Vu44-50×Sc<50=0.65x (fade). "
