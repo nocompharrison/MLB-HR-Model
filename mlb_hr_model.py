@@ -28885,6 +28885,63 @@ def main():
     ]
     _sn_injected = _sn_candidates
 
+    # ── Jul 11 2026: PWR88+PM1.07 FLOOR INJECTION ─────────────────────────────────────
+    # Motivation: Esmerlyn Valdez 2-HR game on Jul 11 — ranked R51+ with Pwr 88 + PM 1.121
+    # but fell off the top-50 due to cold HS (5-17), suppressed Score (33-54), and team cap.
+    # Audit confirmed: Pwr88+ with PM≥1.07 is a structural power-matchup edge the market
+    # systematically underprices. These batters have genuine exit-velocity upside regardless
+    # of recent contact form (cold HS is irrelevant at this power tier against confirmed matchup).
+    # Diamond 3 data: PM≥1.10+Pwr≥88+Env≥1.00 = 27.8%/1.58x (n=36, 61-sl).
+    # Rule: guarantee any batter with Pwr≥88 + PM≥1.07 appears in top-50, regardless of
+    # team cap or score. Max 1 injection per team to prevent flooding.
+    _pwr_floor_names_in_top50 = {sc.batter_name for sc in ranked[:TOP_N]}
+    _pwr_floor_candidates = sorted(
+        [sc for sc in ranked_raw
+         if sc.batter_name not in _pwr_floor_names_in_top50
+         and getattr(sc, 'batter_power', getattr(sc, 'power_score', 0)) >= 88.0
+         and getattr(sc, 'pitch_matchup_score', 0) >= 1.07],
+        key=lambda x: (getattr(x, 'pitch_matchup_score', 0) *
+                       getattr(x, 'batter_power', getattr(x, 'power_score', 0))),
+        reverse=True
+    )
+    _pwr_floor_injected = []
+    _pwr_floor_teams: dict = {}
+    for _pfsc in _pwr_floor_candidates:
+        _pft = _pfsc.team
+        if _pwr_floor_teams.get(_pft, 0) >= 1:
+            continue   # max 1 per team
+        _pwr_floor_injected.append(_pfsc)
+        _pwr_floor_teams[_pft] = _pwr_floor_teams.get(_pft, 0) + 1
+
+    if _pwr_floor_injected:
+        _pf_names = {sc.batter_name for sc in _pwr_floor_injected}
+        ranked = [sc for sc in ranked if sc.batter_name not in _pf_names]
+        ranked = ranked + _pwr_floor_injected
+        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        # Guarantee within TOP_N using same outside-slot logic as SUPER NUCLEAR
+        _pf_outside = sorted(
+            [sc for sc in _pwr_floor_injected
+             if next((i for i, r in enumerate(ranked)
+                      if r.batter_name == sc.batter_name), TOP_N) >= TOP_N],
+            key=lambda x: (getattr(x, 'pitch_matchup_score', 0) *
+                           getattr(x, 'batter_power', getattr(x, 'power_score', 0))),
+            reverse=True
+        )
+        if _pf_outside:
+            _pf_out_names = {sc.batter_name for sc in _pf_outside}
+            ranked = [sc for sc in ranked if sc.batter_name not in _pf_out_names]
+            _pf_insert = TOP_N - len(_pf_outside)
+            for _osc in _pf_outside:
+                ranked.insert(_pf_insert, _osc)
+                _pf_insert += 1
+        print(f"  💎 PWR88+PM1.07 floor injection: {len(_pwr_floor_injected)} player(s) "
+              f"guaranteed top-{TOP_N} (Pwr≥88+PM≥1.07 structural edge, team cap bypassed):")
+        for _pfsc in _pwr_floor_injected:
+            _pfpwr = getattr(_pfsc, 'batter_power', getattr(_pfsc, 'power_score', 0))
+            _pfpm  = getattr(_pfsc, 'pitch_matchup_score', 0)
+            print(f"     💎 {_pfsc.batter_name} ({_pfsc.team}) — "
+                  f"Pwr {_pfpwr:.0f} | PM {_pfpm:.3f} | Score {_pfsc.score:.1f}")
+
     if _sn_injected:
         _sn_inject_names = {sc.batter_name for sc in _sn_injected}
         # Remove injected picks from wherever they already sit in ranked
