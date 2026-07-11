@@ -15528,73 +15528,85 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
 
     # ── Jul 11 2026: PITCH-TYPE HR CONCENTRATION signal ─────────────────────────────
     # Motivation: Royce Lewis HR at +450 — Ryan Johnson gives up HRs ONLY on sinkers.
-    # PropFinder caught it; our model didn't have pitcher-side HR-by-pitch-type.
-    # Signal: when a pitcher's HRs are concentrated (≥60%) on one pitch type AND
-    # the batter has confirmed L10 BBE HR contact on that exact pitch type,
-    # that intersection is a structural edge the market consistently underprices.
-    # Data: pitcher.hr_allowed_si/ff/fc + batter's L10 BBE HR on matching pitch type.
+    # PropFinder caught it; our model now detects this using existing per-pitch-type data.
     #
-    # Implementation: compute total pitcher HRs across tracked pitch types, find
-    # which pitch type dominates, check if batter's primary BBE match is on that pitch.
-    # Only fires when pitcher has ≥3 HRs total (sample gate) and concentration ≥60%.
-    # Conv boost: +6 pts. Fires note: 🎯 PITCH HR CONCENTRATION.
+    # PROXY APPROACH (Savant blocks direct HR-by-pitch-type fetch):
+    # Derive concentration from barrel% × usage per pitch type — already in PitcherProfile.
+    # A pitch with barrel_pct_si=15% + sinker_pct=24% has far higher expected HR exposure
+    # than barrel_pct_ff=6% + fourseam_pct=50%. The weighted barrel damage score
+    # (barrel_pct × usage) identifies which pitch type is the primary HR vehicle.
+    #
+    # Signal fires when:
+    #   1. One pitch type has weighted barrel score ≥2× the next highest pitch type
+    #      (concentration) AND pitcher has above-average barrel% on that pitch (≥8%)
+    #   2. Batter has ≥1 L10 BBE HR on that pitch type OR pitcher throws it ≥25%
+    # Conv boost: +6 pts. Soft version: informational note only.
 
-    _p_hr_si = getattr(pitcher, 'hr_allowed_si', 0.0) or 0.0
-    _p_hr_ff = getattr(pitcher, 'hr_allowed_ff', 0.0) or 0.0
-    _p_hr_fc = getattr(pitcher, 'hr_allowed_fc', 0.0) or 0.0
-    _p_hr_total = _p_hr_si + _p_hr_ff + _p_hr_fc
+    _p_brl_si = (getattr(pitcher, 'barrel_pct_si', 0.0) or
+                 getattr(pitcher, 'barrel_pct_sinker', 0.0) or 0.0)
+    _p_brl_ff = (getattr(pitcher, 'barrel_pct_ff', 0.0) or
+                 getattr(pitcher, 'barrel_pct_fourseam', 0.0) or 0.0)
+    _p_brl_fc = (getattr(pitcher, 'barrel_pct_fc', 0.0) or
+                 getattr(pitcher, 'barrel_pct_cutter', 0.0) or 0.0)
+    _p_brl_sl = getattr(pitcher, 'barrel_pct_sl', 0.0) or 0.0
+    _p_brl_ch = getattr(pitcher, 'barrel_pct_ch', 0.0) or 0.0
+
+    _p_usg_si = getattr(pitcher, 'sinker_pct', 0.0) or 0.0
+    _p_usg_ff = (getattr(pitcher, 'fourseam_pct', 0.0) or
+                 getattr(pitcher, 'fastball_pct', 0.0) or 0.0)
+    _p_usg_fc = getattr(pitcher, 'cutter_pct', 0.0) or 0.0
+    _p_usg_sl = getattr(pitcher, 'slider_pct', 0.0) or 0.0
+    _p_usg_ch = getattr(pitcher, 'changeup_pct', 0.0) or 0.0
+
+    # Weighted barrel damage score per pitch type
+    _pt_scores = {
+        "SI": _p_brl_si * (_p_usg_si / 100.0),
+        "FF": _p_brl_ff * (_p_usg_ff / 100.0),
+        "FC": _p_brl_fc * (_p_usg_fc / 100.0),
+        "SL": _p_brl_sl * (_p_usg_sl / 100.0),
+        "CH": _p_brl_ch * (_p_usg_ch / 100.0),
+    }
+    # Only consider pitch types with usage ≥ 8% (noise filter)
+    _pt_scores = {k: v for k, v in _pt_scores.items()
+                  if ({
+                      "SI": _p_usg_si,"FF": _p_usg_ff,"FC": _p_usg_fc,
+                      "SL": _p_usg_sl,"CH": _p_usg_ch,
+                  }.get(k, 0)) >= 8.0}
 
     _pitch_conc_fired = False
-    if _p_hr_total >= 3.0:
-        # Find the dominant HR pitch type
-        _dominant_hr_pt = None
-        _dominant_hr_n  = 0.0
-        for _pt_code, _pt_hr in [("SI", _p_hr_si), ("FF", _p_hr_ff), ("FC", _p_hr_fc)]:
-            if _pt_hr > _dominant_hr_n:
-                _dominant_hr_n = _pt_hr
-                _dominant_hr_pt = _pt_code
-        _concentration = _dominant_hr_n / _p_hr_total if _p_hr_total > 0 else 0.0
+    if len(_pt_scores) >= 2:
+        _sorted_pts = sorted(_pt_scores.items(), key=lambda x: x[1], reverse=True)
+        _top_pt, _top_score = _sorted_pts[0]
+        _sec_score = _sorted_pts[1][1] if len(_sorted_pts) > 1 else 0.0
 
-        if _concentration >= 0.60 and _dominant_hr_pt:
-            # Check if batter has confirmed L10 BBE HR on this pitch type
-            # Use existing _ptm_batter_bbe or pre_notes data from PITCHER-FIRST MATCH
-            # Fallback: check if the pitcher's dominant HR pitch is also the pitcher's
-            # primary pitch (usage ≥ 25%) — if so, batter WILL see it
-            _dom_usage = 0.0
-            if _dominant_hr_pt == "SI":
-                _dom_usage = getattr(pitcher, 'sinker_pct', 0.0) or 0.0
-            elif _dominant_hr_pt == "FF":
-                _dom_usage = getattr(pitcher, 'fourseam_pct', getattr(pitcher, 'fastball_pct', 0.0)) or 0.0
-            elif _dominant_hr_pt == "FC":
-                _dom_usage = getattr(pitcher, 'cutter_pct', 0.0) or 0.0
+        # Concentration: top pitch has ≥2× the weighted barrel score of second pitch
+        # AND top pitch has above-average barrel% (≥8% = elevated HR risk)
+        _top_brl_raw = {"SI":_p_brl_si,"FF":_p_brl_ff,"FC":_p_brl_fc,"SL":_p_brl_sl,"CH":_p_brl_ch}.get(_top_pt, 0.0)
+        _top_usage   = {"SI":_p_usg_si,"FF":_p_usg_ff,"FC":_p_usg_fc,"SL":_p_usg_sl,"CH":_p_usg_ch}.get(_top_pt, 0.0)
+        _conc_ratio  = _top_score / _sec_score if _sec_score > 0 else 0.0
 
-            # Check batter's L10 BBE HR on the dominant pitch type
-            _batter_hr_on_dom = 0
+        if _conc_ratio >= 2.0 and _top_brl_raw >= 8.0 and _top_score > 0:
+            # Check batter L10 BBE HR on the dominant pitch type
             _l10_cache_local = getattr(batter, 'l10_bbe_cache', {}) or {}
-            _dom_pt_lower = _dominant_hr_pt.lower()
-            _batter_bbe_dom = (_l10_cache_local.get(_dom_pt_lower)
-                               or _l10_cache_local.get(_dominant_hr_pt)
-                               or {})
+            _batter_bbe_dom  = (_l10_cache_local.get(_top_pt.lower()) or
+                                _l10_cache_local.get(_top_pt) or {})
             _batter_hr_on_dom = _batter_bbe_dom.get('hr', 0) or 0
 
-            # Gate: either batter has ≥1 L10 BBE HR on dominant pitch,
-            # or dominant pitch usage ≥ 30% (batter will see it frequently)
-            if _batter_hr_on_dom >= 1 or _dom_usage >= 30.0:
+            if _batter_hr_on_dom >= 1 or _top_usage >= 25.0:
                 _result.conv_score = min(50.0, _result.conv_score + 6.0)
                 _pitch_conc_fired = True
                 _result.notes = list(_result.notes or []) + [
-                    f"🎯 PITCH HR CONCENTRATION: {_dominant_hr_pt} = {_dominant_hr_n:.0f}/{_p_hr_total:.0f} HRs "
-                    f"({_concentration*100:.0f}% of pitcher's HRs on {_dominant_hr_pt}) "
-                    f"| Batter L10 BBE HR on {_dominant_hr_pt}: {_batter_hr_on_dom} "
-                    f"| Usage: {_dom_usage:.0f}% — pitcher vulnerable on exact pitch batter attacks. "
-                    f"Conv +6. (Jul 11 2026 — Royce Lewis/Ryan Johnson SI pattern)"
+                    f"🎯 PITCH HR CONCENTRATION: {_top_pt} is pitcher's primary HR vehicle "
+                    f"(barrel {_top_brl_raw:.0f}% × usage {_top_usage:.0f}% = {_top_score:.2f} weighted score, "
+                    f"{_conc_ratio:.1f}× higher than next pitch type) "
+                    f"| Batter L10 BBE HR on {_top_pt}: {_batter_hr_on_dom} | Usage {_top_usage:.0f}% "
+                    f"→ batter will face this pitch. Conv +6. (Jul 11 2026)"
                 ]
-            elif _dom_usage > 0:
-                # Softer version: concentration fires but no BBE confirmation
+            elif _top_usage > 0:
                 _result.notes = list(_result.notes or []) + [
-                    f"📊 PITCH HR CONC (soft): {_dominant_hr_pt} = {_dominant_hr_n:.0f}/{_p_hr_total:.0f} HRs "
-                    f"({_concentration*100:.0f}%) but no batter L10 BBE HR confirmed on {_dominant_hr_pt}. "
-                    f"Watch — if batter sees {_dominant_hr_pt} frequently ({_dom_usage:.0f}% usage) risk is real."
+                    f"📊 PITCH HR CONC (soft): {_top_pt} = primary HR vehicle "
+                    f"(barrel {_top_brl_raw:.0f}% × usage {_top_usage:.0f}%, {_conc_ratio:.1f}× next pitch) "
+                    f"but no confirmed batter L10 BBE HR on {_top_pt}. Watch if batter's BBE data includes {_top_pt}."
                 ]
 
     # ── Jun 18 2026: Extreme L2 blowup ranking boost — EXPANDED (Jun 18 post-mortem) ───
