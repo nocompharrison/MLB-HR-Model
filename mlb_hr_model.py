@@ -15420,6 +15420,83 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"→ 36.0% HR (2.05x, n=50, 61-sl Jul11). Ranking +7%. Unpriced edge: market at value odds, model sees sharp PM."
         )
 
+    # ── Jul 11 2026: DIAMOND FINDER — low-score / long-odds physical edge signals ───────
+    # Audit (61-sl, n=2888): Low composite score OR high odds can hide genuine diamonds
+    # when physical conditions (pitcher Vuln, batter Power, Environment) are elite.
+    # Three diamond patterns identified — each fires an explicit 💎 flag + ranking boost.
+    #
+    # DIAMOND 1: SUPER VUL IGNORE-SCORE
+    # Sc<55 + Vu≥54 + Pwr≥84 + PM≥1.04 → 66.7%/3.79x (n=12, 61-sl)
+    # Score is irrelevant when SUPER VUL is present: Vu54+ × Sc<50 = 1.68x vs
+    # Vu44-50 × Sc<50 = 0.65x (fade). The model suppresses these picks via low Score;
+    # this diamond flag surfaces them explicitly. Ranking boost: +12%.
+    _diamond_super_vul_low_sc = (
+        score < 55.0
+        and _vuln_val >= 54.0
+        and _early_pwr >= 84.0
+        and pm >= 1.04
+        and not _super_vul_underranked   # already boosted — add incremental only
+    )
+    if _diamond_super_vul_low_sc:
+        _ranking_score *= 1.12
+        _pre_notes.append(
+            f"💎 DIAMOND: LOW-SCORE SUPER VUL: Sc{score:.0f}<55+Vu{_vuln_val:.0f}≥54+Pwr{_early_pwr:.0f}≥84+PM{pm:.3f}≥1.04 "
+            f"→ 66.7% HR / 3.79x (n=12, 61-sl Jul11). Score misleadingly low — "
+            f"SUPER VUL makes score irrelevant. Ranking +12%. SCREAMING undervalued pick."
+        )
+    elif score < 55.0 and _vuln_val >= 54.0 and not _super_vul_underranked:
+        # Softer version: SUPER VUL + low score even without PM/Pwr gates
+        # Sc<50 + Vu≥54 = 27.7%/1.57x (n=47) — still worth flagging
+        _pre_notes.append(
+            f"💎 DIAMOND (soft): LOW-SCORE SUPER VUL: Sc{score:.0f}<55+Vu{_vuln_val:.0f}≥54 "
+            f"→ 27.7-34.3% HR / 1.57-1.95x (n=35-47, 61-sl Jul11). "
+            f"Score suppressing a SUPER VUL pick — check physical conditions carefully."
+        )
+
+    # DIAMOND 2: POWER LONGSHOT
+    # Odds+450-600 + Pwr≥88 + (Env≥1.00 OR Vu≥44) → 33.3-37.5%/1.90-2.13x (n=8-16)
+    # Market sets long odds based on name/score — misses elite exit-velocity profiles.
+    # Pwr≥88 at +450-600 is structurally undervalued: 1.90x vs Pwr82-85 same odds = 0.68x.
+    # Ranking boost: +10%.
+    _vo_odds_raw = getattr(batter, 'hr_over_price', 0.0) or 0.0
+    _diamond_power_longshot = (
+        450.0 <= _vo_odds_raw < 600.0
+        and _early_pwr >= 88.0
+        and (env >= 1.00 or _vuln_val >= 44.0)
+        and not _super_vul_underranked
+        and not _diamond_super_vul_low_sc
+    )
+    if _diamond_power_longshot:
+        _ranking_score *= 1.10
+        _pre_notes.append(
+            f"💎 DIAMOND: POWER LONGSHOT: Odds+{_vo_odds_raw:.0f}(450-600)+Pwr{_early_pwr:.0f}≥88+"
+            f"{'Env'+str(round(env,3))+'≥1.00' if env>=1.00 else 'Vu'+str(round(_vuln_val,0))+'≥44'} "
+            f"→ 33.3-37.5% HR / 1.90-2.13x (n=8-16, 61-sl Jul11). "
+            f"Market underprices elite power at long odds. Ranking +10%."
+        )
+
+    # DIAMOND 3: SHARP PM LONGSHOT
+    # PM≥1.10 + Pwr≥88 + Env≥1.00 → 27.8%/1.58x (n=36)
+    # High PM at long odds means the matchup edge is real but market hasn't priced it.
+    # Best version of VALUE_ODDS+SHARP_PM for true longshots (Odds≥400).
+    # Ranking boost: +7% (additive with existing VALUE_ODDS boost if applicable).
+    _diamond_pm_longshot = (
+        pm >= 1.10
+        and _early_pwr >= 88.0
+        and env >= 1.00
+        and not _super_vul_underranked
+        and not _diamond_super_vul_low_sc
+        and not _diamond_power_longshot
+        and not _vo_odds_raw < 350.0  # only for genuinely long odds
+    )
+    if _diamond_pm_longshot:
+        _ranking_score *= 1.07
+        _pre_notes.append(
+            f"💎 DIAMOND: SHARP PM LONGSHOT: PM{pm:.3f}≥1.10+Pwr{_early_pwr:.0f}≥88+Env{env:.3f}≥1.00 "
+            f"→ 27.8% HR / 1.58x (n=36, 61-sl Jul11). "
+            f"Elite PM + power in positive env at long odds = unpriced edge. Ranking +7%."
+        )
+
     # ── Jun 18 2026: Extreme L2 blowup ranking boost — EXPANDED (Jun 18 post-mortem) ───
     # Jun 17 post-mortem: Canzone (Bradish L2 4.50 HR/9), Chourio+Stowers (Williams
     # L2 3.49, Painter HR-prone L5) all HRed. Jun 18: Witt Jr. + Caglianone both HRed.
@@ -22971,6 +23048,20 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Jul 10 2026 hit flash: PM1.070-1.085+Sc62-64 → 12/12=100% hit (1.56x, n=12). "
          "Most reliable pure hit signal in the full combinatorial audit.",
          "Flash", "100% hit  12/12"),
+        ("💎 DIAMOND: LOW-SCORE SUPER VUL",
+         "Jul 11 2026 audit (61-sl): Sc<55+Vu≥54+Pwr≥84+PM≥1.04 → 66.7%% HR / 3.79x (n=12). "
+         "SUPER VUL makes score irrelevant: Vu54+×Sc<50=1.68x vs Vu44-50×Sc<50=0.65x (fade). "
+         "Ranking +12%%. Fires 💎 DIAMOND: LOW-SCORE SUPER VUL.",
+         "Active", "66.7%%  HR/3.79x  n=12"),
+        ("💎 DIAMOND: POWER LONGSHOT",
+         "Jul 11 2026 audit (61-sl): Odds+450-600+Pwr≥88+(Env≥1.00 OR Vu≥44) → 37.5%% HR / 2.13x (n=8). "
+         "Market underprices elite power at long odds. Pwr88+ at +450-600 vs Pwr82-85 = 0.68x (huge gap). "
+         "Ranking +10%%.",
+         "Active", "37.5%%  HR/2.13x  n=8"),
+        ("💎 DIAMOND: SHARP PM LONGSHOT",
+         "Jul 11 2026 audit (61-sl): PM≥1.10+Pwr≥88+Env≥1.00 → 27.8%% HR / 1.58x (n=36). "
+         "Elite PM + power in positive env at long odds = unpriced edge. Ranking +7%%.",
+         "Active", "27.8%%  HR/1.58x  n=36"),
         ("🔥 ENV_FIRE+ELITE_PWR (ranking)",
          "Jul 11 2026 underranked audit (61-sl, n=22): Env≥1.10+Pwr≥86+Vu≥44 at R6-50 → 45.5%% HR / 2.58x. "
          "Ranking +8%%. Picks with very hot env + elite power ranked below top-5 due to suppressed composite Score.",
