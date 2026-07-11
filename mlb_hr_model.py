@@ -6236,6 +6236,13 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
             continue
         try:
             reader = csv.DictReader(io.StringIO(raw))
+            _st_cols = reader.fieldnames or []
+            # ── Jul 11 2026 diagnostic: print column names once per pitch type ──
+            _brl_cols = [c for c in _st_cols if any(x in c.lower() for x in
+                         ['barrel','brl','home_run','hr','launch','run_value'])]
+            _pct_cols = [c for c in _st_cols if any(x in c.lower() for x in
+                         ['percent','pitch_usage','pitch_pct','usage'])]
+            print(f"    [Arsenal {pitch_code}] cols={len(_st_cols)} | barrel-related: {_brl_cols} | pct-related: {_pct_cols}")
             for row in reader:
                 raw_name = row.get("last_name, first_name") or row.get("player_name", "")
                 if ", " in raw_name:
@@ -6251,9 +6258,18 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
                 if name not in combined:
                     combined[name] = {}
                 # pitch_percent = % of pitches this type
-                pct = _sf(row.get("pitch_percent") or row.get("pitch_pct") or row.get("percent"))
-                whiff = _sf(row.get("whiff_percent") or row.get("whiff_pct"))
-                barrel = _sf(row.get("barrel_batted_rate") or row.get("brl_percent"))
+                # Try all known column name variants from Savant
+                pct = _sf(row.get("pitch_percent") or row.get("pitch_pct")
+                          or row.get("percent") or row.get("pitch_usage") or row.get("usage_percent"))
+                whiff = _sf(row.get("whiff_percent") or row.get("whiff_pct") or row.get("whiff"))
+                # Barrel column: Savant uses 'brl_percent' on arsenal leaderboard
+                barrel = _sf(row.get("brl_percent") or row.get("barrel_batted_rate")
+                             or row.get("barrel_pct") or row.get("brl%") or row.get("barrel%"))
+                # HR column: Savant may call it 'home_run', 'hr', 'home_runs', 'hrs'
+                hr_raw = _sf(row.get("home_run") or row.get("hr") or row.get("home_runs")
+                             or row.get("hrs") or row.get("HR"))
+                bbe_raw = _sf(row.get("bbe") or row.get("batted_ball_events")
+                              or row.get("batted_balls") or row.get("BBE"))
                 if pct > 0:
                     combined[name][f"{pt_key}_pct"]     = pct
                     combined[name][f"{pt_key}_pct_key"]  = f"{pitch_code.lower()}_pct"
@@ -8486,6 +8502,19 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             print(f"  ⚠️  Arsenal data has {len(_arsenal_data)} pitchers but 0 matched pitcher_map "
                   f"— name format mismatch. Sample arsenal key: {next(iter(_arsenal_data))}")
         print(f"  ✅ Pitcher arsenal enrichment: {_arsenal_enriched} pitchers updated (whiff/barrel by pitch type)")
+        # ── Jul 11 2026: PITCH HR CONC coverage diagnostic ──────────────────
+        _brl_si_cnt = sum(1 for p in pitcher_map.values()
+                          if (getattr(p,"barrel_pct_si",0) or getattr(p,"barrel_pct_sinker",0)) > 0)
+        _brl_ff_cnt = sum(1 for p in pitcher_map.values()
+                          if (getattr(p,"barrel_pct_ff",0) or getattr(p,"barrel_pct_fourseam",0)) > 0)
+        _usg_si_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"sinker_pct",0) > 0)
+        print(f"  📊 Sub-type barrel coverage: barrel_si={_brl_si_cnt} | barrel_ff={_brl_ff_cnt} | sinker_pct={_usg_si_cnt} pitchers")
+        if _brl_si_cnt == 0 and _arsenal_enriched > 0:
+            _s_keys = list((_arsenal_data or {}).keys())[:2]
+            _s_vals = {k: list((_arsenal_data or {}).get(k,{}).keys())[:10] for k in _s_keys}
+            print(f"  ⚠️  PITCH HR CONC will NOT fire - barrel_si=0. Arsenal field names sample: {_s_vals}")
+        elif _brl_si_cnt > 0:
+            print(f"  ✅ PITCH HR CONC active: barrel_si populated for {_brl_si_cnt} pitchers")
     except Exception as _e:
         print(f"  ⚠️  Pitcher arsenal enrichment failed: {_e}")
 
