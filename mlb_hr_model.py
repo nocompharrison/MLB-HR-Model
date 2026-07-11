@@ -15319,6 +15319,107 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         elif _ptm_flag_count < 3.0:  _ranking_score *= 0.82  # 2.5 flags
         else:                        _ranking_score *= 0.78  # 3+ flags — heavy
 
+    # ── Jul 11 2026 underranked-HR audit: 5 new ranking boosts ────────────────────────
+    # Pre-compute power and vuln for ranking boosts (these are computed again later
+    # in score_player proper; we need them here for ranking multipliers only).
+    _early_pwr  = batter_power_score(batter)
+    _early_vuln = _vuln_val  # already computed above in ranking score section
+    # Full audit of 61 slates (n=2888): identified picks ranked R6-50 that homered at
+    # significantly above-baseline rates but were systematically pushed below the top-5.
+    # Root causes: low composite score despite elite physical conditions, SUPER VUL at
+    # mid-score, high PM not fully rewarded. These multipliers correct that.
+
+    # SIGNAL 1: ENV FIRE + ELITE PWR + VULN (Jul 11 2026)
+    # Env≥1.10 + Pwr≥86 + Vuln≥44 at R6-50 → 45.5% HR / 2.58x (n=22, 61-sl)
+    # Picks with very hot run env + elite power + non-elite arm convert at near-SUPER_VUL
+    # rates but rank low because composite Score doesn't fully weight env×power axis.
+    # Carroll (Sc:38, R26), Burger (Sc:47, R38), Alonso (Sc:40, R45) all homered here.
+    _env_fire_elite_pwr = (
+        _env_val_rs >= 1.10
+        and _early_pwr >= 86.0
+        and _vuln_val >= 44.0
+    )
+    if _env_fire_elite_pwr:
+        _ranking_score *= 1.08   # +8%: 2.58x historical at R6-50 (n=22)
+        _pre_notes.append(
+            f"🔥 ENV_FIRE+ELITE_PWR: Env{_env_val_rs:.3f}≥1.10+Pwr{_early_pwr:.0f}≥86+Vu{_vuln_val:.0f}≥44 "
+            f"→ 45.5% HR (2.58x, n=22, 61-sl Jul11 audit). Ranking +8%. Systematically underranked by Score."
+        )
+
+    # SIGNAL 2: SUPER VUL UNDERRANKED — ranking boost (Jul 11 2026)
+    # Vuln≥54 + PM≥1.04 + Pwr≥82 at R6-50 → 45.2% HR / 2.57x (n=42, 61-sl)
+    # SUPER VUL picks at mid-rank already have conv boosts (SUPER_VULN+ENV_HOT etc.)
+    # but their RANKING POSITION still suffers when Score is suppressed.
+    # This ranking multiplier pushes them UP the table so they appear in the top-5.
+    # Distinct from conv boost — affects table position, not conviction label.
+    _super_vul_underranked = (
+        _vuln_val >= 54.0
+        and pm >= 1.04
+        and _early_pwr >= 82.0
+    )
+    if _super_vul_underranked:
+        _ranking_score *= 1.10   # +10%: 2.57x (n=42) — largest reliable underranked signal
+        _pre_notes.append(
+            f"📈 SUPER_VUL_UNDERRANKED: Vu{_vuln_val:.0f}≥54+PM{pm:.3f}≥1.04+Pwr{_early_pwr:.0f}≥82 "
+            f"→ 45.2% HR (2.57x, n=42, 61-sl Jul11). Ranking +10%. Model under-promotes SUPER VUL when Score mid-range."
+        )
+
+    # SIGNAL 3: SHARP PM + SCORE + PWR ranking boost (Jul 11 2026)
+    # PM≥1.085 + Sc≥58 + Pwr≥84 at R6-50 → 28.4% HR / 1.62x (n=88, 61-sl)
+    # Largest-n finding: high PM in the upper-sharp zone with solid score and elite power
+    # converts at 1.62x at R6-50 but these picks are not making the top-5 because PM
+    # alone doesn't dominate the ranking formula when pitch-edge bonus is modest.
+    _sharp_pm_score_pwr = (
+        pm >= 1.085
+        and score >= 58.0
+        and _early_pwr >= 84.0
+        and not _super_vul_underranked  # avoid double-boosting SUPER VUL picks
+    )
+    if _sharp_pm_score_pwr:
+        _ranking_score *= 1.06   # +6%: 1.62x (n=88) — moderate boost, large sample
+        _pre_notes.append(
+            f"📈 SHARP_PM+SC+PWR: PM{pm:.3f}≥1.085+Sc{score:.0f}≥58+Pwr{_early_pwr:.0f}≥84 "
+            f"→ 28.4% HR (1.62x, n=88, 61-sl Jul11). Ranking +6%. High PM underweighted when pitch-edge modest."
+        )
+
+    # SIGNAL 4: SIG+PWR+ENV underranked (Jul 11 2026)
+    # Sig≥10 + Pwr≥84 + Env≥1.00 at R6-50 → 32.5% HR / 1.85x (n=80, 61-sl)
+    # Market-confirmed (Sig≥10) elite power picks in positive environments.
+    # These rank below top-5 when Vuln/Score are mid-range despite strong signal stack.
+    _ranking_sig_val = getattr(batter, 'signal_score', 0) or 0
+    _sig_pwr_env = (
+        _ranking_sig_val >= 10
+        and _early_pwr >= 84.0
+        and env >= 1.00
+        and not _super_vul_underranked  # SUPER VUL already boosted
+        and not _env_fire_elite_pwr     # ENV_FIRE already boosted
+    )
+    if _sig_pwr_env:
+        _ranking_score *= 1.07   # +7%: 1.85x (n=80) — significant, reliable sample
+        _pre_notes.append(
+            f"📈 SIG+PWR+ENV: Sig{_ranking_sig_val}≥10+Pwr{_early_pwr:.0f}≥84+Env{env:.3f}≥1.00 "
+            f"→ 32.5% HR (1.85x, n=80, 61-sl Jul11). Ranking +7%. Market-confirmed power in positive env underranked."
+        )
+
+    # SIGNAL 5: VALUE ODDS + SHARP PM ranking boost (Jul 11 2026)
+    # Odds+250-400 + PM≥1.10 + Sc≥55 at R6-50 → 36.0% HR / 2.05x (n=50, 61-sl)
+    # The clearest "unpriced edge" pattern: market prices pick at value odds, model
+    # identifies very high PM (≥1.10 = upper-sharp zone), solid score. Converts at 2.05x
+    # but ranks low because odds + mid-score don't dominate the ranking formula.
+    _vo_odds_val = getattr(batter, 'hr_over_price', 0.0) or 0.0
+    _value_odds_sharp_pm = (
+        250.0 <= _vo_odds_val < 400.0   # positive plus-money value range (hr_over_price is positive for plus odds)
+        and pm >= 1.10
+        and score >= 55.0
+        and not _super_vul_underranked
+    )
+    if _value_odds_sharp_pm:
+        _ranking_score *= 1.07   # +7%: 2.05x (n=50) — strong, good sample
+        _pre_notes.append(
+            f"💰 VALUE_ODDS+SHARP_PM: Odds+{_vo_odds_val:.0f}(250-400)+PM{pm:.3f}≥1.10+Sc{score:.0f}≥55 "
+            f"→ 36.0% HR (2.05x, n=50, 61-sl Jul11). Ranking +7%. Unpriced edge: market at value odds, model sees sharp PM."
+        )
+
     # ── Jun 18 2026: Extreme L2 blowup ranking boost — EXPANDED (Jun 18 post-mortem) ───
     # Jun 17 post-mortem: Canzone (Bradish L2 4.50 HR/9), Chourio+Stowers (Williams
     # L2 3.49, Painter HR-prone L5) all HRed. Jun 18: Witt Jr. + Caglianone both HRed.
@@ -16731,14 +16832,46 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         and _vuln_val >= 47.0
         and pm >= 1.055
         and not (env < 1.00 and not _pl2_prime_check)       # no env demotion
-        and not (_hs_val_pl > 0 and _hs_val_pl < 40.0)     # no cold bat (reuse PRIME LOCK var)
+        and not (_hit_score > 0 and _hit_score < 40.0)      # no cold bat (hit_score available here)
     )
     if _pl2_fires:
         _result.conv_score = min(50.0, _result.conv_score + 10.0)
         _result.notes = list(_result.notes or []) + [
             f"⚡ PRIME+L2 LOCK (TRACKING): PRIME+L2+Vuln{_vuln_val:.0f}+PM{pm:.3f} "            f"→ 40.0% HR (2.70x, n=10, 74-sl CSV Jul9) — conv +10"        ]
 
-    # ── Jul 10 2026: Sig=0 + SUPER_VULN unpriced note ──────────────────────────────
+    # ── Jul 10 2026 post-mortem: HS≥40 + Pwr≥82 + PM≥1.04 conviction boost ─────────
+    # Backtest (38-sl, n=186): HS≥40 + Vuln≥44 + PM≥1.04 + Pwr≥82 → 25.3%/1.35x
+    # vs HS<40 same bucket = 15.2%/0.81x — 10.1pp separation, 1.66x relative gap
+    # Jul 10 slate: HS was the single strongest single-gate discriminator (2.38x lift)
+    # HS20-39 is the real fade zone (0.80-0.93x) — NOT cold bat (HS<20 = 1.13x)
+    # Conv boost: +3 pts when HS≥40 + Pwr≥82 + PM≥1.04 all fire together.
+    _hs_pwr_pm_boost = (
+        _hit_score >= 40.0
+        and _pve_power >= 82.0
+        and pm >= 1.04
+    )
+    if _hs_pwr_pm_boost:
+        _result.conv_score = min(50.0, _result.conv_score + 3.0)
+        _result.notes = list(_result.notes or []) + [
+            f"📈 HS+PWR+PM BOOST: HS{_hit_score:.0f}≥40+Pwr{_pve_power:.0f}≥82+PM{pm:.3f}≥1.04 "
+            f"→ 25.3%/1.35x (n=186, 38-sl Jul10 post-mortem). Active contact + power + matchup aligned. Conv +3."
+        ]
+
+    # HS20-39 fade zone for HRs (distinct from cold bat HS<20 which is 1.13x)
+    # Backtest: HS20-39 = 17.3%/0.93x (n=467) — not a hard block but soft demotion signal
+    _hs_dull_hr = (
+        20.0 <= _hit_score < 40.0
+        and pm >= 1.04
+        and _pve_power >= 82.0
+    )
+    if _hs_dull_hr:
+        _result.notes = list(_result.notes or []) + [
+            f"⚠️ HS DULL HR ZONE: HS{_hit_score:.0f}(20-39) — 17.3%/0.93x (n=467, 38-sl). "
+            f"HS20-39 underperforms both cold bat (HS<20=1.13x) AND hot bat (HS40+=1.17x). "
+            f"Not a block — deprioritize vs same-tier picks with HS≥40 or HS<20."
+        ]
+
+    # ── Jul 10 2026 post-mortem: Sig=0 + SUPER_VULN unpriced note ─────────────────
     # Backtest (38-sl): Signal=0 + Vuln≥54 → 41.4% HR / 2.21x (n=29)
     # Zero-signal SUPER_VULN picks are systematically undervalued — market hasn't sniffed
     # the edge (Sig=0 = no sharp movement). But the structural vulnerability is real.
@@ -18954,6 +19087,18 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # explicitly and applies a star-rating penalty in the output table.
     _supp_park    = park < 0.93
     _is_short_start = _short_start   # already computed above
+    # ── Jul 10 2026 post-mortem: Park<0.80 HARD fade ────────────────────────────
+    # Backtest (38-sl): Park<0.80 = 10.8% HR / 0.58x (n=37) — as bad as +600+ odds fade
+    # Park0.85-0.93 = 15.4%/0.82x (n=337) — mild suppressor (existing PARK_SUPP handles)
+    # Park<0.80 deserves its own hard-fade note, separate from general park suppression.
+    # Oracle Park (0.80) is the primary trigger — Gordon batters all lived here today.
+    if park < 0.80:
+        flags.append(
+            f"⛔ HARD PARK FADE: Park{park:.2f}<0.80 → 10.8% HR / 0.58x (n=37, 38-sl Jul10). "
+            f"Comparable to +600+ odds fade. Park<0.80 is the hardest environmental suppressor "
+            f"in the model. HR picks here require EXTREME L2 or PRIME grade to justify."
+        )
+
     if _supp_park and _is_short_start:
         flags.append("⚠️ Supp.Park+ShortStart")   # compound HR suppressor
     if _short_start and (47.0 <= vuln <= 52.0):
@@ -22826,6 +22971,43 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Jul 10 2026 hit flash: PM1.070-1.085+Sc62-64 → 12/12=100% hit (1.56x, n=12). "
          "Most reliable pure hit signal in the full combinatorial audit.",
          "Flash", "100% hit  12/12"),
+        ("🔥 ENV_FIRE+ELITE_PWR (ranking)",
+         "Jul 11 2026 underranked audit (61-sl, n=22): Env≥1.10+Pwr≥86+Vu≥44 at R6-50 → 45.5%% HR / 2.58x. "
+         "Ranking +8%%. Picks with very hot env + elite power ranked below top-5 due to suppressed composite Score.",
+         "Active", "45.5%%  HR/2.58x  n=22"),
+        ("📈 SUPER_VUL_UNDERRANKED (ranking)",
+         "Jul 11 2026 audit (61-sl, n=42): Vu≥54+PM≥1.04+Pwr≥82 at R6-50 → 45.2%% HR / 2.57x. "
+         "Ranking +10%%. SUPER VUL picks at mid-score pushed below top-5. Largest-impact ranking fix.",
+         "Active", "45.2%%  HR/2.57x  n=42"),
+        ("📈 SHARP_PM+SC+PWR (ranking)",
+         "Jul 11 2026 audit (61-sl, n=88): PM≥1.085+Sc≥58+Pwr≥84 at R6-50 → 28.4%% HR / 1.62x. "
+         "Ranking +6%%. Largest-sample underranked finding — high PM not fully rewarded when pitch-edge modest.",
+         "Active", "28.4%%  HR/1.62x  n=88"),
+        ("📈 SIG+PWR+ENV (ranking)",
+         "Jul 11 2026 audit (61-sl, n=80): Sig≥10+Pwr≥84+Env≥1.00 at R6-50 → 32.5%% HR / 1.85x. "
+         "Ranking +7%%. Market-confirmed elite power in positive env underranked when Vuln/Score mid-range.",
+         "Active", "32.5%%  HR/1.85x  n=80"),
+        ("💰 VALUE_ODDS+SHARP_PM (ranking)",
+         "Jul 11 2026 audit (61-sl, n=50): Odds+250-400+PM≥1.10+Sc≥55 at R6-50 → 36.0%% HR / 2.05x. "
+         "Ranking +7%%. Unpriced edge: market at value odds, model sees very high PM not yet priced in.",
+         "Active", "36.0%%  HR/2.05x  n=50"),
+        ("📈 HS+PWR+PM BOOST",
+         "Jul 10 2026 post-mortem (38-sl, n=186): HS≥40+Vu≥44+PM≥1.04+Pwr≥82 → 25.3%/1.35x. "
+         "vs HS<40 same bucket = 15.2%/0.81x — 10.1pp gap. Conv boost: +3 pts.",
+         "Active", "25.3%%  HR/1.35x  n=186"),
+        ("⚠️ HS DULL HR ZONE (20-39)",
+         "Jul 10 2026 post-mortem (38-sl, n=467): HS20-39 = 17.3%/0.93x. "
+         "Worse than cold bat (HS<20=1.13x) AND hot bat (HS40+=1.17x). Deprioritize. "
+         "Informational note only.",
+         "Active", "17.3%%  HR/0.93x  n=467"),
+        ("⛔ HARD PARK FADE (Park<0.80)",
+         "Jul 10 2026 post-mortem (38-sl, n=37): Park<0.80 → 10.8%% HR / 0.58x. "
+         "As severe as +600+ fade. Oracle Park is primary trigger. Fires ⛔ HARD PARK FADE.",
+         "Active", "10.8%%  HR/0.58x  n=37"),
+        ("⛔ SHORT-START CAP",
+         "Jul 10 2026 post-mortem: max 1 short-start pick allowed in top-5 HR display. "
+         "Avila+Quantrill both exited early, suppressing #1 and #5 picks. Cap enforced in pick sorter.",
+         "Active", "Rule — miss-rate amplifier"),
         ("📈 PM+SCORE HIT BUCKET B",
          "Jul 10 2026 backtest (38-sl, n=28): PM 1.070-1.085 + Score 60-62 → 85.7% hit / 1.34x. "
          "Upper PM zone with mid score. SC62-64 within same zone = 100%% flash (SIG-D). "
@@ -24558,6 +24740,48 @@ def _sheet_sharp_picks(wb, scores, top_n):
     hr_picks = sorted(
         [(sc,sh) for sc,sh in scored if _is_sharp(sh)],
         key=_grade_sort_key_v2)
+
+    # ── Jul 10 2026 post-mortem: SHORT-START CAP ─────────────────────────────
+    # Backtest finding: Avila (4.4 IP) and Quantrill (4.5 IP) both exited before
+    # giving enough AB to HR picks — suppressing conversion on our #1 and #5 picks.
+    # Short-start arms fire the miss-rate amplifier flag consistently across slates.
+    # Rule: max 1 confirmed short-start pick in the displayed top-5.
+    # If 2+ short-start picks would appear in positions 1-5, demote the lower-ranked
+    # one(s) to the back of the list so at most 1 short-start pick is in top-5.
+    # Does NOT remove the pick from the full list — it still ranks and displays; 
+    # it just won't occupy one of the 5 recommendation slots.
+    def _is_short_start_pick(sh):
+        _flags_str = ' '.join(str(f) for f in sh.get('flags', []))
+        _notes_str = ' '.join(str(n) for n in sh.get('notes', []) if n)
+        return (
+            'ShortStart' in _flags_str
+            or 'short start' in _flags_str.lower()
+            or 'short-start' in _flags_str.lower()
+            or 'Supp.Park+ShortStart' in _flags_str
+        )
+
+    _top5_capped = []
+    _overflow = []
+    _ss_count_top5 = 0
+    for _cp_sc, _cp_sh in hr_picks:
+        if len(_top5_capped) < 5:
+            if _is_short_start_pick(_cp_sh):
+                if _ss_count_top5 < 1:
+                    _top5_capped.append((_cp_sc, _cp_sh))
+                    _ss_count_top5 += 1
+                else:
+                    _overflow.append((_cp_sc, _cp_sh))
+            else:
+                _top5_capped.append((_cp_sc, _cp_sh))
+        else:
+            _overflow.append((_cp_sc, _cp_sh))
+
+    # Fill remaining slots from overflow if cap freed up positions
+    while len(_top5_capped) < 5 and _overflow:
+        _top5_capped.append(_overflow.pop(0))
+
+    # Rebuild full list: capped top-5 + overflow (preserves original order beyond 5)
+    hr_picks = _top5_capped + _overflow
 
     # Build slate-wide context once so rationale can compare across picks
     _rationale_ctx = _build_rationale_ctx(hr_picks)
