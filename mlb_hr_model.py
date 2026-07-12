@@ -9576,10 +9576,12 @@ def batter_power_score(b: BatterProfile) -> float:
     # When available (non-default), blend with barrel% to improve power score.
     _squp_boost  = (b.squp_pct  - 27.5) * 0.4 if b.squp_pct  != 27.5 else 0.0
     _blast_boost = (b.blast_pct - 11.0)  * 1.2 if b.blast_pct != 11.0 else 0.0
-    # Near HR rate: hard-hit fly balls that nearly left the park (Ramirez: 4 in 23 PA = 17%)
-    # High near-HR rate = power at contact, unlucky; good HR predictor
-    _near_hr_rate = b.near_hr_count / b.near_hr_pa if b.near_hr_pa > 0 else 0.0
-    _near_hr_boost = (_near_hr_rate - 0.08) * 40 if _near_hr_rate > 0 else 0.0  # league avg ~8%
+    # Near-HR rate: hard-hit fly balls ≥300ft that didn't leave the yard.
+    # Jul 2026 backtest (39 slates, n=1771): near-HR ALONE is a weak signal (NearHR≥2 = 1.17x,
+    # NearHR≥4 actually inverts to 0.72x below base rate). Standalone rate boost removed.
+    # Signal only fires meaningfully in combo with Vuln + Env/Odds — see DIAMOND 4 below.
+    _near_hr_rate  = b.near_hr_count / b.near_hr_pa if b.near_hr_pa > 0 else 0.0
+    _near_hr_boost = 0.0  # intentionally zeroed — standalone boost not supported by backtest data
     # GB%: high ground ball rate suppresses HR power (inverse of FB%)
     _gb_penalty = (b.gb_pct - 44.0) * 0.5 if b.gb_pct != 44.0 else 0.0  # >44% GB = penalty
 
@@ -14996,10 +14998,23 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         _pf_notes.append(f"💥 Blast%:{_b_blast:.1f}%≥15% (nuclear)")
     elif _b_blast >= 12.0:
         _pf_notes.append(f"💥 Blast%:{_b_blast:.1f}%≥12% (must-have)")
-    if _b_near_hr >= 3:
-        _pf_notes.append(f"🔴 NearHR:{_b_near_hr}≥3 (nuclear — power at contact, unlucky)")
+    # Near-HR display: backtest shows signal only meaningful in combo (see DIAMOND 4).
+    # NearHR≥4 actually inverts (0.72x) — flag as informational only, not a boost.
+    if _b_near_hr >= 4:
+        _pf_notes.append(
+            f"📊 NearHR:{_b_near_hr}≥4 (informational — backtest shows 0.72x at this tier; "
+            f"value only when stacked with Vuln≥48+Env≥1.05 or Vuln≥52+Odds250-400)"
+        )
+    elif _b_near_hr >= 3:
+        _pf_notes.append(
+            f"🔴 NearHR:{_b_near_hr}≥3 (power at contact — fires DIAMOND 4 when Vuln≥48+Env≥1.05 "
+            f"or Vuln≥52+Odds250-400; standalone = 1.17x only)"
+        )
     elif _b_near_hr >= 2:
-        _pf_notes.append(f"🔶 NearHR:{_b_near_hr} (approaching nuclear)")
+        _pf_notes.append(
+            f"🔶 NearHR:{_b_near_hr}≥2 (near-HR signal — meaningful only with Vuln≥48+Env≥1.05 "
+            f"combo; standalone = 1.17x)"
+        )
     if _pull_brl_proxy >= 5.0:
         _pf_notes.append(f"🎯 PullBrl proxy:{_pull_brl_proxy:.1f} (pull-air {_b_pull_air:.0f}%×barrel {_b_barrel:.1f}%) ≥5.0 nuclear")
     elif _pull_brl_proxy >= 3.5:
@@ -15581,6 +15596,98 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"💎 DIAMOND: SHARP PM LONGSHOT: PM{pm:.3f}≥1.10+Pwr{_early_pwr:.0f}≥88+Env{env:.3f}≥1.00 "
             f"→ 27.8% HR / 1.58x (n=36, 61-sl Jul11). "
             f"Elite PM + power in positive env at long odds = unpriced edge. Ranking +7%."
+        )
+
+    # DIAMOND 4: NEAR-HR POWER CONTACT
+    # Jul 2026 backtest (39 slates, n=1771, base HR 17.45%):
+    #   NearHR≥2 + Vuln≥52 + Odds250-400:        48.3% / 2.77x  n=29  ← primary gate
+    #   NearHR≥2 + Vuln≥48 + Pwr≥84 + Env≥1.05:  43.8% / 2.51x  n=16
+    #   NearHR≥2 + Vuln≥48 + Pwr≥84 + Env≥1.0:   39.1% / 2.24x  n=23
+    #   NearHR≥3 + Vuln≥52 + Env≥1.0:             57.1% / 3.28x  n=7
+    #   NearHR≥3 + Vuln≥52 + Odds250-400:          55.6% / 3.18x  n=9
+    #   NearHR≥3 + Vuln≥48 + Env≥1.05:             46.2% / 2.65x  n=13
+    #   NearHR≥3 + Park≥1.05 + Vuln≥48:            50.0% / 2.87x  n=10
+    #   NearHR≥3 + Pwr≥84 + Env≥1.05:              42.9% / 2.46x  n=14
+    #
+    # Key finding: NearHR alone is noise (1.17x at ≥2). Signal requires pitcher
+    # vulnerability + environment/odds confirmation. NearHR≥4 actually inverts (0.72x).
+    # Ranking boost: +8% (tier A: NearHR≥3 or NearHR≥2+Vuln≥52+Odds)
+    #                +5% (tier B: NearHR≥2 + Vuln≥48 + Env/Park)
+    _nhr_ct   = _b_near_hr                                  # already defined above
+    _nhr_odds = _vo_odds_raw                                 # +XXX integer
+    _nhr_vu   = _vuln_val
+    _nhr_pwr  = _early_pwr
+    _nhr_env  = env
+    _nhr_park = park if park else 0.0
+
+    # Tier A: strongest combos — NearHR≥3+Vuln≥52+Env/Odds OR NearHR≥2+Vuln≥52+Odds250-400
+    _diamond_nhr_tier_a = (
+        _nhr_ct >= 2
+        and not _diamond_super_vul_low_sc
+        and not _diamond_power_longshot
+        and not _diamond_pm_longshot
+        and (
+            # NearHR≥3 + Vuln≥52 + Env≥1.0  (57.1%/3.28x n=7)
+            (_nhr_ct >= 3 and _nhr_vu >= 52.0 and _nhr_env >= 1.0)
+            # NearHR≥3 + Vuln≥52 + Odds250-400  (55.6%/3.18x n=9)
+            or (_nhr_ct >= 3 and _nhr_vu >= 52.0 and 250 <= _nhr_odds <= 400)
+            # NearHR≥3 + Park≥1.05 + Vuln≥48  (50.0%/2.87x n=10)
+            or (_nhr_ct >= 3 and _nhr_park >= 1.05 and _nhr_vu >= 48.0)
+            # NearHR≥2 + Vuln≥52 + Odds250-400  (48.3%/2.77x n=29) ← most data
+            or (_nhr_ct >= 2 and _nhr_vu >= 52.0 and 250 <= _nhr_odds <= 400)
+        )
+    )
+
+    # Tier B: solid secondary combos
+    _diamond_nhr_tier_b = (
+        _nhr_ct >= 2
+        and not _diamond_nhr_tier_a
+        and not _diamond_super_vul_low_sc
+        and not _diamond_power_longshot
+        and not _diamond_pm_longshot
+        and (
+            # NearHR≥3 + Vuln≥48 + Env≥1.05  (46.2%/2.65x n=13)
+            (_nhr_ct >= 3 and _nhr_vu >= 48.0 and _nhr_env >= 1.05)
+            # NearHR≥3 + Pwr≥84 + Env≥1.05  (42.9%/2.46x n=14)
+            or (_nhr_ct >= 3 and _nhr_pwr >= 84.0 and _nhr_env >= 1.05)
+            # NearHR≥2 + Vuln≥48 + Pwr≥84 + Env≥1.05  (43.8%/2.51x n=16)
+            or (_nhr_ct >= 2 and _nhr_vu >= 48.0 and _nhr_pwr >= 84.0 and _nhr_env >= 1.05)
+            # NearHR≥2 + Vuln≥48 + Pwr≥84 + Env≥1.0  (39.1%/2.24x n=23)
+            or (_nhr_ct >= 2 and _nhr_vu >= 48.0 and _nhr_pwr >= 84.0 and _nhr_env >= 1.0)
+        )
+    )
+
+    if _diamond_nhr_tier_a:
+        _ranking_score *= 1.08
+        # Pick the best-fitting label for display
+        if _nhr_ct >= 3 and _nhr_vu >= 52.0 and _nhr_env >= 1.0:
+            _nhr_combo = f"NearHR{_nhr_ct}≥3+Vu{_nhr_vu:.0f}≥52+Env{_nhr_env:.3f}≥1.0 → 57.1%/3.28x n=7"
+        elif _nhr_ct >= 3 and _nhr_vu >= 52.0 and 250 <= _nhr_odds <= 400:
+            _nhr_combo = f"NearHR{_nhr_ct}≥3+Vu{_nhr_vu:.0f}≥52+Odds+{_nhr_odds:.0f}(250-400) → 55.6%/3.18x n=9"
+        elif _nhr_ct >= 3 and _nhr_park >= 1.05 and _nhr_vu >= 48.0:
+            _nhr_combo = f"NearHR{_nhr_ct}≥3+Park{_nhr_park:.2f}≥1.05+Vu{_nhr_vu:.0f}≥48 → 50.0%/2.87x n=10"
+        else:
+            _nhr_combo = f"NearHR{_nhr_ct}≥2+Vu{_nhr_vu:.0f}≥52+Odds+{_nhr_odds:.0f}(250-400) → 48.3%/2.77x n=29"
+        _pre_notes.append(
+            f"💎 DIAMOND: NEAR-HR POWER CONTACT (Tier A): {_nhr_combo}. "
+            f"Batter generating elite exit-velocity fly balls that aren't leaving due to luck/park — "
+            f"power is real. Near-HR alone is noise (1.17x); this combo is validated. Ranking +8%."
+        )
+
+    elif _diamond_nhr_tier_b:
+        _ranking_score *= 1.05
+        if _nhr_ct >= 3 and _nhr_vu >= 48.0 and _nhr_env >= 1.05:
+            _nhr_combo = f"NearHR{_nhr_ct}≥3+Vu{_nhr_vu:.0f}≥48+Env{_nhr_env:.3f}≥1.05 → 46.2%/2.65x n=13"
+        elif _nhr_ct >= 3 and _nhr_pwr >= 84.0 and _nhr_env >= 1.05:
+            _nhr_combo = f"NearHR{_nhr_ct}≥3+Pwr{_nhr_pwr:.0f}≥84+Env{_nhr_env:.3f}≥1.05 → 42.9%/2.46x n=14"
+        elif _nhr_ct >= 2 and _nhr_vu >= 48.0 and _nhr_pwr >= 84.0 and _nhr_env >= 1.05:
+            _nhr_combo = f"NearHR{_nhr_ct}≥2+Vu{_nhr_vu:.0f}≥48+Pwr{_nhr_pwr:.0f}≥84+Env{_nhr_env:.3f}≥1.05 → 43.8%/2.51x n=16"
+        else:
+            _nhr_combo = f"NearHR{_nhr_ct}≥2+Vu{_nhr_vu:.0f}≥48+Pwr{_nhr_pwr:.0f}≥84+Env{_nhr_env:.3f}≥1.0 → 39.1%/2.24x n=23"
+        _pre_notes.append(
+            f"💎 DIAMOND: NEAR-HR POWER CONTACT (Tier B): {_nhr_combo}. "
+            f"Validated near-HR combo — power contact quality confirmed by multiple gates. "
+            f"Ranking +5%."
         )
 
     # ── Jul 11 2026: PITCH-TYPE HR CONCENTRATION signal ─────────────────────────────
