@@ -11421,6 +11421,19 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
                 else:
                     avg_d = 0.0
 
+                # ── Near-HR count: hard-hit air ball ≥300ft that wasn't a HR ────
+                # PropFinder calls this the primary signal for "bomb incoming" picks.
+                # Requires: LA≥15°, EV≥95mph, distance≥300ft, event≠home_run.
+                _ev_s_near  = pd.to_numeric(last10.get("launch_speed", pd.Series(dtype=float)), errors="coerce").fillna(0)
+                _ev_ev_near = last10.get("events", pd.Series(dtype=str)).fillna("").astype(str).str.lower()
+                _near_hr_mask = (
+                    (last10["_la"]  >= 15)
+                    & (_ev_s_near    >= 95.0)
+                    & (last10["_dist"].fillna(0) >= 300)
+                    & (_ev_ev_near  != "home_run")
+                )
+                near_hr_ct = int(_near_hr_mask.sum())
+
                 _pname_key = _bbe_norm_name(pname)
                 if _pname_key not in l10_bbe_by_pitch:
                     l10_bbe_by_pitch[_pname_key] = {}
@@ -11452,7 +11465,9 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
                     "barrel_pct": round(brl, 1),      "l10_barrel_pct":  round(brl, 1),
                     "pull_pct": round(pull_pct, 1),   "l10_pull_pct":    round(pull_pct, 1),
                     "pullbrl_pct": round(pullbrl_pct, 1), "l10_pullbrl_pct": round(pullbrl_pct, 1),
-                    "l10_hr_count": hr_ct,
+                    "l10_hr_count":      hr_ct,
+                    "l10_near_hr_count": near_hr_ct,  # near-HR signal (new Jul 2026)
+                    "l10_near_hr_pa":    n,            # denominator for near-HR rate
                     "l10_air_pct":  round(fb, 1),   # fb_pct here = fly balls (LA≥15), proxy for air%
                     "l10_gb_pct":   0.0,             # not tracked per-pitch; 0 is safe fallback
                     "l10_blast_pct": 0.0,            # blast not tracked per-pitch
@@ -11703,19 +11718,33 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
                             + (_ev_ev_sb == "home_run").astype(float) * 3.0
                         ).mean())
 
+                        # ── Near-HR: hard-hit fly ball ≥300ft that didn't leave the yard ──
+                        _dist_sb  = pd.to_numeric(_bbe_sb.get("hit_distance_sc", pd.Series(dtype=float)), errors="coerce").fillna(0)
+                        _la_sb2   = pd.to_numeric(_bbe_sb.get("launch_angle",    pd.Series(dtype=float)), errors="coerce").fillna(-90)
+                        _is_hr_sb = (_ev_ev_sb == "home_run")
+                        _near_hr_mask_sb = (
+                            (_la_sb2 >= 15)          # air ball
+                            & (_ev_sb  >= 95.0)       # hard hit
+                            & (_dist_sb >= 300)        # reached deep outfield
+                            & (~_is_hr_sb)             # did NOT leave the yard
+                        )
+                        _near_hr_ct_sb = int(_near_hr_mask_sb.sum())
+
                         _fresh_stats = {
-                            "l10_bbe_count":   _n_sb,
-                            "l10_iso":         _iso_sb,
-                            "l10_barrel_pct":  float(_brl_sb.mean() * 100),
-                            "l10_hh_pct":      float(_hh_sb.mean() * 100),
-                            "l10_air_pct":     float(_air_sb.mean() * 100),
-                            "l10_gb_pct":      float(_gb_sb.mean() * 100),
-                            "l10_fb_pct":      float(_fb_sb.mean() * 100),
-                            "l10_pull_pct":    float(_pulled_sb.mean() * 100),
-                            "l10_pullbrl_pct": float((_pulled_sb & _brl_sb).mean() * 100),
-                            "l10_blast_pct":   float(_blast_sb.mean() * 100),
-                            "l10_avg_ev":      float(_ev_sb[_ev_sb > 0].mean()) if (_ev_sb > 0).any() else 87.5,
-                            "l10_hr_count":    int((_ev_ev_sb == "home_run").sum()),
+                            "l10_bbe_count":     _n_sb,
+                            "l10_iso":           _iso_sb,
+                            "l10_barrel_pct":    float(_brl_sb.mean() * 100),
+                            "l10_hh_pct":        float(_hh_sb.mean() * 100),
+                            "l10_air_pct":       float(_air_sb.mean() * 100),
+                            "l10_gb_pct":        float(_gb_sb.mean() * 100),
+                            "l10_fb_pct":        float(_fb_sb.mean() * 100),
+                            "l10_pull_pct":      float(_pulled_sb.mean() * 100),
+                            "l10_pullbrl_pct":   float((_pulled_sb & _brl_sb).mean() * 100),
+                            "l10_blast_pct":     float(_blast_sb.mean() * 100),
+                            "l10_avg_ev":        float(_ev_sb[_ev_sb > 0].mean()) if (_ev_sb > 0).any() else 87.5,
+                            "l10_hr_count":      int(_is_hr_sb.sum()),
+                            "l10_near_hr_count": _near_hr_ct_sb,   # near-HR signal (new)
+                            "l10_near_hr_pa":    _n_sb,             # denominator = BBE window size
                         }
                         _fresh_gates = sum([
                             _fresh_stats["l10_iso"] > 0.2,
@@ -11782,16 +11811,18 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
                 _agg = _bdata.get("_PF9_AGG") if isinstance(_bdata, dict) else None
                 if _agg and isinstance(_agg, dict) and _agg.get("l10_bbe_count", 0) >= 3:
                     _json_cache[_bk] = {
-                        "l10_bbe_count":   _agg.get("l10_bbe_count", 0),
-                        "l10_iso":         _agg.get("l10_iso", 0.0),
-                        "l10_barrel_pct":  _agg.get("l10_barrel_pct", 0.0),
-                        "l10_hh_pct":      _agg.get("l10_hh_pct", 0.0),
-                        "l10_air_pct":     _agg.get("l10_air_pct", 0.0),
-                        "l10_gb_pct":      _agg.get("l10_gb_pct", 0.0),
-                        "l10_fb_pct":      _agg.get("l10_fb_pct", 0.0),
-                        "l10_pull_pct":    _agg.get("l10_pull_pct", 0.0),
-                        "l10_pullbrl_pct": _agg.get("l10_pullbrl_pct", 0.0),
-                        "l10_blast_pct":   _agg.get("l10_blast_pct", 0.0),
+                        "l10_bbe_count":     _agg.get("l10_bbe_count", 0),
+                        "l10_iso":           _agg.get("l10_iso", 0.0),
+                        "l10_barrel_pct":    _agg.get("l10_barrel_pct", 0.0),
+                        "l10_hh_pct":        _agg.get("l10_hh_pct", 0.0),
+                        "l10_air_pct":       _agg.get("l10_air_pct", 0.0),
+                        "l10_gb_pct":        _agg.get("l10_gb_pct", 0.0),
+                        "l10_fb_pct":        _agg.get("l10_fb_pct", 0.0),
+                        "l10_pull_pct":      _agg.get("l10_pull_pct", 0.0),
+                        "l10_pullbrl_pct":   _agg.get("l10_pullbrl_pct", 0.0),
+                        "l10_blast_pct":     _agg.get("l10_blast_pct", 0.0),
+                        "l10_near_hr_count": _agg.get("l10_near_hr_count", 0),   # new Jul 2026
+                        "l10_near_hr_pa":    _agg.get("l10_near_hr_pa",    0),   # new Jul 2026
                     }
             _json_path = _CACHE_DIR / f"l10_bbe_{_td.isoformat()}.json"
             with open(_json_path, "w") as _jf:
@@ -28209,6 +28240,12 @@ def main():
                         setattr(b, "pf9_l10_pullbrl_pct", float(_pf9_agg_found.get("l10_pullbrl_pct", _bsm_get("l10_pullbrl_pct", 0.0))))
                         setattr(b, "pf9_l10_blast_pct",   float(_pf9_agg_found.get("l10_blast_pct",   _bsm_get("l10_blast_pct", b.blast_pct))))
                         setattr(b, "pf9_l10_avg_ev",      float(_pf9_agg_found.get("l10_avg_ev",      _bsm_get("l10_avg_ev", b.avg_ev))))
+                        # ── Near-HR: wire into BatterProfile.near_hr_count / near_hr_pa ──
+                        _nhr = int(_pf9_agg_found.get("l10_near_hr_count", 0))
+                        _npa = int(_pf9_agg_found.get("l10_near_hr_pa",    _pf9_cnt))
+                        if _nhr > 0 or _npa > 0:
+                            b.near_hr_count = _nhr
+                            b.near_hr_pa    = _npa
 
                 # ── Fallback: synthesize cross-pitch aggregate from per-pitch BBE dicts ──
                 # If _PF9_AGG lookup failed (e.g. rookie with sparse Statcast data),
