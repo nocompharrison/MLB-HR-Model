@@ -13303,8 +13303,53 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                 )
                 _ptm_usage_label = f"{_ptd_pct:.0f}% vs {'LHB' if _bhand == 'L' else 'RHB'}"
 
+                # ── Jul 12 2026 post-mortem: 3 quality gates on PRIME MATCH ─────────
+                # Alonso vs Lugo: PRIME fired at full +12 conv but model missed:
+                #   Gate 1 — xHR Factor: 0.914 < 0.95 → already outperforming contact quality
+                #   Gate 2 — L10 avg air-ball EV: 86.9 below season norm → weak contact behind HRs
+                #   Gate 3 — Bimodal profile: 2 HR + 5 weak-contact BBEs → variance-driven, not surge
+                # Implementation:
+                #   _ptm_xhr_caution:     luck_regression < 0.95 (batter outperforming xHR)
+                #   _ptm_dist_caution:    _bbb_dist < 320ft avg (fly balls not carrying well)
+                #   _ptm_hh_caution:      _bbb_hh < 40% (weak contact rate in L10 BBE window)
+                #   _ptm_bimodal_caution: _bbb_hr >= 2 but _bbb_hh < 38% (HRs are outliers)
+                # Effect:
+                #   0 caution flags → full +12 conv (clean PRIME)
+                #   1 caution flag  → +9 conv + informational warning
+                #   2+ caution flags → +6 conv + PRIME CAUTION label (meaningful downgrade)
+                # These flags never suppress the PRIME grade entirely — just calibrate confidence.
+                _ptm_xhr_caution     = batter.luck_regression < 0.95
+                _ptm_dist_caution    = 0 < _bbb_dist < 320.0   # 0 = no dist data → skip
+                _ptm_hh_caution      = 0 < _bbb_hh < 40.0      # 0 = no HH data → skip
+                _ptm_bimodal_caution = (_bbb_hr >= 2 and 0 < _bbb_hh < 38.0)
+                _ptm_caution_flags   = sum([
+                    _ptm_xhr_caution,
+                    _ptm_dist_caution,
+                    _ptm_hh_caution or _ptm_bimodal_caution,  # count HH/bimodal as one gate
+                ])
+                _ptm_caution_notes = []
+                if _ptm_xhr_caution:
+                    _ptm_caution_notes.append(
+                        f"⚠️ xHR caution: luck_regression={batter.luck_regression:.3f}<0.95 "
+                        f"(batter outperforming contact quality — HR regression risk)"
+                    )
+                if _ptm_dist_caution:
+                    _ptm_caution_notes.append(
+                        f"⚠️ Dist caution: avg fly-ball dist {_bbb_dist:.0f}ft<320 "
+                        f"(fly balls not carrying — HRs may be outliers)"
+                    )
+                if _ptm_bimodal_caution:
+                    _ptm_caution_notes.append(
+                        f"⚠️ Bimodal caution: {_bbb_hr} HR but HH%={_bbb_hh:.0f}%<38% "
+                        f"(HRs from outlier swings, surrounding contact is weak)"
+                    )
+                elif _ptm_hh_caution:
+                    _ptm_caution_notes.append(
+                        f"⚠️ Contact caution: HH%={_bbb_hh:.0f}%<40% in L10 BBE window"
+                    )
+
                 if _bbb_hr >= 2 and _strong_vuln and _ptm_has_recency:
-                    # Base: PRIME (T4 BBE + recency)
+                    # Base: PRIME (T4 BBE + recency) — apply caution tiers
                     if _ptm_usage_tier in ("low", "verylow"):
                         # PRIME requires meaningful exposure — demote to T4 on low-usage pitch
                         _ptm_conv_bonus = 8.0
@@ -13316,25 +13361,61 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                             f"<3× per game, limiting exposure (+8 conv)"
                         )
                     elif _ptm_usage_tier == "mid":
-                        # Standard PRIME — pitcher throws it enough but not dominant
-                        _ptm_conv_bonus = 12.0
-                        _ptm_pre_notes.append(
-                            f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
-                            f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
-                            f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
-                            f"Jun 17 validated combo: 3/4 HR (75%), fires ~1-2x/slate (+12 conv)"
-                        )
+                        # Standard PRIME — apply quality gates
+                        if _ptm_caution_flags >= 2:
+                            _ptm_conv_bonus = 6.0
+                            _ptm_pre_notes.append(
+                                f"🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}) ⚠️ CAUTION: "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"Jun 17 validated (75%) BUT {_ptm_caution_flags} quality flags reduce "
+                                f"confidence: {' | '.join(_ptm_caution_notes)} (+6 conv, downgraded)"
+                            )
+                        elif _ptm_caution_flags == 1:
+                            _ptm_conv_bonus = 9.0
+                            _ptm_pre_notes.append(
+                                f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"Jun 17 validated (75%) | Note: {' | '.join(_ptm_caution_notes)} (+9 conv)"
+                            )
+                        else:
+                            _ptm_conv_bonus = 12.0
+                            _ptm_pre_notes.append(
+                                f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"Jun 17 validated combo: 3/4 HR (75%), fires ~1-2x/slate (+12 conv)"
+                            )
                     else:
-                        # HIGH-USAGE PRIME: pitcher leans on this pitch AND batter owns it
-                        # The batter sees it 2-3× per game — maximizes the edge opportunity
-                        _ptm_conv_bonus = 12.0  # keep at 12; PRIME already has recency premium
-                        _ptm_pre_notes.append(
-                            f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
-                            f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
-                            f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
-                            f"⚡ HIGH-USAGE MATCH ({_ptm_usage_label}): batter sees this pitch "
-                            f"repeatedly — Jun 17 validated combo: 3/4 HR (75%) (+12 conv)"
-                        )
+                        # HIGH-USAGE PRIME — apply quality gates
+                        if _ptm_caution_flags >= 2:
+                            _ptm_conv_bonus = 6.0
+                            _ptm_pre_notes.append(
+                                f"🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}) ⚠️ CAUTION: "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"⚡ HIGH-USAGE ({_ptm_usage_label}) BUT {_ptm_caution_flags} quality flags: "
+                                f"{' | '.join(_ptm_caution_notes)} (+6 conv, downgraded)"
+                            )
+                        elif _ptm_caution_flags == 1:
+                            _ptm_conv_bonus = 9.0
+                            _ptm_pre_notes.append(
+                                f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"⚡ HIGH-USAGE MATCH ({_ptm_usage_label}) | Note: "
+                                f"{' | '.join(_ptm_caution_notes)} (+9 conv)"
+                            )
+                        else:
+                            _ptm_conv_bonus = 12.0  # clean PRIME + high-usage
+                            _ptm_pre_notes.append(
+                                f"🎯🎯 PRIME PITCHER TARGET MATCH ({_pitcher_target_pt}): "
+                                f"{_bbb_hr} HR in last {_bbb_n} BBEs vs pitcher's most vulnerable pitch "
+                                f"(vuln {_pitcher_target_score:.0f}) + {_ptm_recency_label} — "
+                                f"⚡ HIGH-USAGE MATCH ({_ptm_usage_label}): batter sees this pitch "
+                                f"repeatedly — Jun 17 validated combo: 3/4 HR (75%) (+12 conv)"
+                            )
                 elif _bbb_hr >= 2 and _strong_vuln:
                     # Base: T4 (≥2 HR BBE, no recency signal)
                     if _ptm_usage_tier in ("low", "verylow"):
@@ -15014,6 +15095,32 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         _pf_notes.append(
             f"🔶 NearHR:{_b_near_hr}≥2 (near-HR signal — meaningful only with Vuln≥48+Env≥1.05 "
             f"combo; standalone = 1.17x)"
+        )
+
+    # ── Jul 12 2026: Bimodal contact flag ────────────────────────────────────────
+    # Post-mortem on Alonso miss: 2 HR in L10 BBEs but avg air-ball EV only 86.9
+    # (below his season norm) and 5 of 10 BBEs were weak contact.
+    # Flag when HR count looks impressive but surrounding contact quality is poor.
+    # Uses _b_hh (L10 HH%), _b_air_dist (avg fly-ball distance), batter.avg_ev (season norm).
+    _ptm_season_ev_norm = batter.avg_ev if batter.avg_ev and batter.avg_ev > 80 else 87.5
+    _ptm_l10_ev_below_norm = (_b_ev > 0 and _b_ev < _ptm_season_ev_norm - 1.5)
+    if (_b_hh > 0 and _b_hh < 38.0 and _b_air_dist > 0 and _b_air_dist < 320.0
+            and batter.luck_regression < 0.96):
+        _pf_notes.append(
+            f"⚠️ BIMODAL CONTACT FLAG: HH%={_b_hh:.0f}%<38% + AvgDist={_b_air_dist:.0f}ft<320 "
+            f"+ xHR={batter.luck_regression:.3f}<0.96 — recent HRs may be outlier swings; "
+            f"surrounding contact quality is weak. Reduces PRIME MATCH confidence."
+        )
+    elif batter.luck_regression < 0.95 and _b_hh > 0 and _b_hh < 42.0:
+        _pf_notes.append(
+            f"⚠️ xHR CAUTION: luck_regression={batter.luck_regression:.3f}<0.95 + "
+            f"HH%={_b_hh:.0f}%<42% — batter outperforming expected HR rate; "
+            f"contact quality may not support continuation."
+        )
+    elif _ptm_l10_ev_below_norm and _b_air_dist > 0 and _b_air_dist < 325.0:
+        _pf_notes.append(
+            f"⚠️ L10 EV BELOW NORM: L10 avg EV={_b_ev:.1f} < season norm {_ptm_season_ev_norm:.1f} "
+            f"+ AvgDist={_b_air_dist:.0f}ft<325 — recent contact quality below season standard."
         )
     if _pull_brl_proxy >= 5.0:
         _pf_notes.append(f"🎯 PullBrl proxy:{_pull_brl_proxy:.1f} (pull-air {_b_pull_air:.0f}%×barrel {_b_barrel:.1f}%) ≥5.0 nuclear")
