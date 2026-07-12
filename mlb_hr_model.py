@@ -17107,6 +17107,50 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"Not a block — deprioritize vs same-tier picks with HS≥40 or HS<20."
         ]
 
+    # ── Jul 11 2026 post-mortem: ENV-ANCHORED SHARP PM + COLD BAT boost ──────────────
+    # Backtest (38-sl, n=59): PM≥1.085 + Env≥1.00 + HS<40 → 33.9%/1.81x
+    # Cold bat (HS<40) picks with sharp PM in positive env are undervalued —
+    # market fades recent contact form but the structural pitch-match + env edge is real.
+    # Alvarez (HS45→HR, Env1.142) and Wood (HS51→HR, Env0.909) both fit the spirit.
+    # Best sub-bucket: PM1.085-1.10+Env≥1.00+HS<40 = 41.2%/2.20x (n=17, 38-sl).
+    # Conv boost: +5 pts. Fires 🌡️ ENV-ANCHORED SHARP PM note.
+    _env_sharp_pm_cold = (
+        pm >= 1.085
+        and env >= 1.00
+        and 0 < _hit_score < 40.0     # cold bat but not zero (data missing)
+        and not _bgs_env_demotion      # ENV DEMOTION already covers cold env picks
+    )
+    if _env_sharp_pm_cold:
+        _result.conv_score = min(50.0, _result.conv_score + 5.0)
+        _result.notes = list(_result.notes or []) + [
+            f"🌡️ ENV-ANCHORED SHARP PM: PM{pm:.3f}≥1.085+Env{env:.3f}≥1.00+HS{_hit_score:.0f}<40 "
+            f"→ 33.9%/1.81x (n=59, 38-sl Jul11 post-mortem). "
+            f"Cold bat faded by market; PM+env structural edge is real. Conv +5."
+        ]
+
+    # ── Jul 11 2026 post-mortem: PWR88+PM1.085+HS45 elite contact boost ─────────────
+    # Backtest (38-sl, n=32): PM≥1.085 + Pwr≥88 + HS≥45 → 28.1% HR / 1.50x
+    # Wood (PM1.115, Pwr88, HS51 → HR) and Alvarez (PM1.135, Pwr88, HS45 → HR) both
+    # cleared this today; Schwarber (HS27 missed) and Rice (Pwr84 missed) did not HR.
+    # The three gates perfectly isolated the two HR hitters from the two non-HRs.
+    # CRITICAL: Do NOT add Env gate — PM≥1.085+Pwr≥88+HS≥45+Env≥1.00 = 0.67x (HURTS)
+    # because hot-env picks in this bucket are already market-priced. The unpriced
+    # version is the signal: elite power + sharp PM + hot contact in any environment.
+    # Conv boost: +6 pts. Fires 🔥 ELITE_PWR+SHARP_PM+HOT_CONTACT note.
+    _elite_pwr_sharp_pm_hot = (
+        pm >= 1.085
+        and _pve_power >= 88.0
+        and _hit_score >= 45.0
+        and not _env_sharp_pm_cold   # non-overlapping with cold-bat signal
+    )
+    if _elite_pwr_sharp_pm_hot:
+        _result.conv_score = min(50.0, _result.conv_score + 6.0)
+        _result.notes = list(_result.notes or []) + [
+            f"🔥 ELITE_PWR+SHARP_PM+HOT_CONTACT: PM{pm:.3f}≥1.085+Pwr{_pve_power:.0f}≥88+HS{_hit_score:.0f}≥45 "
+            f"→ 28.1% HR (1.50x, n=32, 38-sl Jul11). Wood+Alvarez profile today. "
+            f"NOTE: Env gate NOT added — hot env in this bucket = 0.67x (overpriced). Conv +6."
+        ]
+
     # ── Jul 10 2026 post-mortem: Sig=0 + SUPER_VULN unpriced note ─────────────────
     # Backtest (38-sl): Signal=0 + Vuln≥54 → 41.4% HR / 2.21x (n=29)
     # Zero-signal SUPER_VULN picks are systematically undervalued — market hasn't sniffed
@@ -23260,6 +23304,25 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Jul 10 2026 post-mortem (38-sl, n=37): Park<0.80 → 10.8%% HR / 0.58x. "
          "As severe as +600+ fade. Oracle Park is primary trigger. Fires ⛔ HARD PARK FADE.",
          "Active", "10.8%%  HR/0.58x  n=37"),
+        ("🔥 ELITE_PWR+SHARP_PM+HOT_CONTACT",
+         "Jul 11 2026 post-mortem (38-sl, n=32): PM≥1.085+Pwr≥88+HS≥45 → 28.1%% HR / 1.50x. "
+         "Wood+Alvarez profile: both cleared all 3 gates today and homered. "
+         "Schwarber (HS27<45) and Rice (Pwr84<88) missed both gates and did not HR. "
+         "CRITICAL: Env gate NOT added — PM≥1.085+Pwr≥88+HS≥45+Env≥1.00 = 0.67x (hurts). "
+         "Conv +6. Fires 🔥 ELITE_PWR+SHARP_PM+HOT_CONTACT.",
+         "Active", "28.1%%  HR/1.50x  n=32"),
+        ("🌡️ ENV-ANCHORED SHARP PM (cold bat)",
+         "Jul 11 2026 post-mortem (38-sl, n=59): PM≥1.085+Env≥1.00+HS<40 → 33.9%% HR / 1.81x. "
+         "Cold bat picks with sharp PM in positive env are undervalued — market fades "
+         "recent contact form but structural pitch-match + env edge is real. "
+         "Best sub-bucket PM1.085-1.10: 41.2%%/2.20x (n=17). Conv +5.",
+         "Active", "33.9%%  HR/1.81x  n=59"),
+        ("📈 PRIME CONCENTRATION OVERRIDE",
+         "Jul 11 2026 post-mortem (38-sl, n=41): PRIME proxy at R25-40 → 26.8%%/1.43x. "
+         "Coby Mayo (PRIME PITCHER MATCH) blocked by max-2 cap; homered at +390. "
+         "Rule: 3rd batter vs same pitcher with PRIME grade bypasses concentration cap. "
+         "Cap: 2 picks/pitcher normally; 3 picks/pitcher when PRIME fires on 3rd.",
+         "Active", "26.8%%  HR/1.43x  n=41"),
         ("⛔ SHORT-START CAP",
          "Jul 10 2026 post-mortem: max 1 short-start pick allowed in top-5 HR display. "
          "Avila+Quantrill both exited early, suppressing #1 and #5 picks. Cap enforced in pick sorter.",
@@ -24997,6 +25060,18 @@ def _sheet_sharp_picks(wb, scores, top_n):
         [(sc,sh) for sc,sh in scored if _is_sharp(sh)],
         key=_grade_sort_key_v2)
 
+    # ── Jul 11 2026 post-mortem: PRIME GRADE cap extension helper ─────────────────
+    # Backtest (38-sl, n=41): PRIME proxy at R25-40 → 26.8%/1.43x
+    # Coby Mayo (PRIME PITCHER MATCH, 2 HR in L10 BBE) was blocked by max-2 pitcher
+    # concentration cap and missed the HR card. He homered (R30, +390).
+    # Rule: a 3rd batter vs the same pitcher with PRIME PITCHER MATCH grade can bypass
+    # the concentration cap and appear in top-5 as a PRIME OVERRIDE exception.
+    def _has_prime_grade(sh):
+        _notes_str = ' '.join(str(n) for n in (sh.get('notes') or []))
+        return ('PRIME PITCHER TARGET MATCH' in _notes_str or
+                'PRIME PITCHER' in _notes_str or
+                'PITCHER-FIRST MATCH' in _notes_str)
+
     # ── Jul 10 2026 post-mortem: SHORT-START CAP ─────────────────────────────
     # Backtest finding: Avila (4.4 IP) and Quantrill (4.5 IP) both exited before
     # giving enough AB to HR picks — suppressing conversion on our #1 and #5 picks.
@@ -25019,16 +25094,28 @@ def _sheet_sharp_picks(wb, scores, top_n):
     _top5_capped = []
     _overflow = []
     _ss_count_top5 = 0
+    _pitcher_count_t5: dict = {}
     for _cp_sc, _cp_sh in hr_picks:
+        _cp_pitcher = _cp_sh.get('pitcher', '') or ''
+        _cp_pitcher_cnt = _pitcher_count_t5.get(_cp_pitcher, 0)
+        _cp_prime = _has_prime_grade(_cp_sh)
+        # PRIME OVERRIDE: allow 3rd pick from same pitcher if PRIME grade fires
+        # Backtest Jul11: PRIME proxy at R25-40 = 26.8%/1.43x (n=41) — justified
+        _cp_cap = 3 if _cp_prime else 2
         if len(_top5_capped) < 5:
             if _is_short_start_pick(_cp_sh):
                 if _ss_count_top5 < 1:
                     _top5_capped.append((_cp_sc, _cp_sh))
                     _ss_count_top5 += 1
+                    _pitcher_count_t5[_cp_pitcher] = _cp_pitcher_cnt + 1
                 else:
                     _overflow.append((_cp_sc, _cp_sh))
+            elif _cp_pitcher and _cp_pitcher_cnt >= _cp_cap:
+                # Over pitcher concentration cap — overflow unless PRIME override
+                _overflow.append((_cp_sc, _cp_sh))
             else:
                 _top5_capped.append((_cp_sc, _cp_sh))
+                _pitcher_count_t5[_cp_pitcher] = _cp_pitcher_cnt + 1
         else:
             _overflow.append((_cp_sc, _cp_sh))
 
