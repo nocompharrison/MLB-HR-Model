@@ -19947,10 +19947,38 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # PM dead zone for hits is different from HR (1.06-1.11 for hits vs 1.06-1.08+1.11+ for HR)
     # Combined with no named grades (Sig<4) = structural weakness
     _pm_hit_dead = (1.06 <= _pm_wk < 1.11)
-    if _hs_val_wk >= 50.0 and _pm_hit_dead and _sig_wk < 4:
+    _pm_weak_zone_fires = _hs_val_wk >= 50.0 and _pm_hit_dead and _sig_wk < 4
+    if _pm_weak_zone_fires:
         flags.append(
             f"⚠️ HIT PM WEAK ZONE: PM={_pm_wk:.3f} (1.06-1.11) + Sig={_sig_wk:.0f}<4 + HS={_hs_val_wk:.0f} — "
             f"backtest: 55.1% hit rate / 0.85x. Deprioritize in hit pick selection."
+        )
+
+    # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
+    # Hit picks 3/10 (30%) vs 46% base rate. Systematic miss pattern:
+    # Alvarez: MID-HS DULL (HS44.6) + PM above sweet zone (PM1.126>1.12) → no hit
+    # When MID-HS DULL fires AND PM_WEAK_ZONE fires simultaneously, the model is
+    # giving two independent structural warnings on the same pick. Including it anyway
+    # (because WHR/L5 looked good) produced consistent misses.
+    # Rule: MID-HS DULL + PM WEAK ZONE stacked = hard deprioritize, not soft caution.
+    # In practice: exclude from top-7 hit picks; only include if no better options exist.
+    # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
+    _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
+    _stacked_hit_flags = (
+        _mid_hs_dull_fires
+        and (_pm_weak_zone_fires or _pm_above_sweet)
+    )
+    if _stacked_hit_flags:
+        _pm_zone_desc = (
+            f"PM={_pm_wk:.3f}>1.12 (above hit sweet zone — market priced)"
+            if _pm_above_sweet and not _pm_weak_zone_fires
+            else f"PM={_pm_wk:.3f} (1.06-1.11 weak zone)"
+        )
+        flags.append(
+            f"⛔ STACKED HIT SUPPRESS: MID-HS DULL (HS={_hs_val_wk:.0f}, 40-49 zone, 0.93x) "
+            f"+ {_pm_zone_desc} — Jul 12 post-mortem: both flags together = systematic miss "
+            f"(Alvarez 0.126>1.12 + HS44 → no hit despite 89% WHR). "
+            f"Hard deprioritize: exclude from top-7 hit picks unless no alternatives exist."
         )
 
     # 4. REGRESSION RISK — extreme HS tier:
@@ -19987,7 +20015,8 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Mechanism: picks with HS 40-49 have just enough hit signal to get selected but are
     # in a "regression trap" — moderate recent form that doesn't sustain.
     # Flag to deprioritize hit picks in this HS zone (informational, not hard exclude).
-    if _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0:
+    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0
+    if _mid_hs_dull_fires:
         flags.append(
             f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
             f"backtest 59.4% hit / 0.93x (n=443, 38-sl Jul10) — WORSE than cold bat (1.03x). "
@@ -21406,10 +21435,23 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # and surfaces a warning note. Picks in this bucket should rank behind any pick
     # with an active pitch-match grade in the same BGS tier.
     _bgs_has_prime_confirmed = bool(_bgs_prime or _bgs_confirmed)
+    # Jul 12 2026 post-mortem: James Wood HR validated that PM≥1.10 overrides Env suppression.
+    # Wood: PM1.118, Vu52.8, Env0.877 → HR at +290. PRIME MATCH on FF fired cleanly (no caution flags).
+    # ENV DEMOTION was suppressing his BGS tier despite the strongest PM on the slate.
+    # Rule: when PM≥1.10 AND PRIME MATCH fires (ptm_conv_bonus≥12), treat as equivalent to
+    # PRIME/CONFIRMED grade for ENV DEMOTION bypass purposes. This is a narrow carve-out —
+    # PM 1.10+ is rare (~1-2 per slate) and requires an active PRIME grade to trigger.
+    _bgs_pm_val         = getattr(sc, 'pitch_matchup_score', 0.0) or pm or 0.0
+    _bgs_ptm_bonus      = getattr(sc, 'ptm_conv_bonus', 0.0) or 0.0
+    _bgs_prime_pm_override = (
+        _bgs_pm_val >= 1.10          # PM at PRIME-level (rare — ~1-2 picks/slate)
+        and _bgs_ptm_bonus >= 9.0    # PRIME MATCH firing (≥9 conv = clean or 1-flag PRIME)
+    )
     _bgs_env_demotion = (
         _bgs_env > 0               # env data present
         and _bgs_env < 1.00        # sub-neutral environment
         and not _bgs_has_prime_confirmed   # no PRIME or CONFIRMED MATCH grade active
+        and not _bgs_prime_pm_override     # PM≥1.10 + PRIME MATCH = env bypass (Jul 12)
     )
 
     # Vuln 44-48 trap + short-start: CONVICTION + Vuln44-48 + Env<0.95 = 8.3% HR / 0.47x (24/72sl)
