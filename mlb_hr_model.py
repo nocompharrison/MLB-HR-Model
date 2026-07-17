@@ -25230,7 +25230,21 @@ def _sheet_sharp_picks(wb, scores, top_n):
             return (f"⛔ PASS (HR) — Elite arm (Vu{v:.0f}<38) + PM sweet zone (PM{pm:.3f}) "
                     f"= 9.9%/0.53x (n=71, 38-sl) — HARDER fade than Vuln42-44 trap. "
                     f"Market has fully priced elite arm; sweet PM is false signal here.  ")
-        if 42.0 <= v < 44.0:  return "⛔ PASS (HR) — Vuln 42-44 dead zone (0.68x).  "
+        # ── Flash bypass for Vuln 42-44 dead zone ────────────────────────────────
+        # SIG0+PM1.085-1.10+Env1.06-1.10 (100%/5.81x n=5) has NO Vuln gate —
+        # it fires on any Vuln when Sig=0, PM is in the sharp zone, and Env is warm.
+        # A batter with Vu42-44 could fire this 100% flash but get blocked here.
+        _sig_val_v4244  = getattr(sc, 'sig_score', -1) or -1
+        _pm_val_v4244   = getattr(sc, 'pitch_matchup_score', 0.0) or pm or 0.0
+        _env_val_v4244  = getattr(sc, 'env_multiplier', 1.0) or 1.0
+        _sig0_flash_v4244 = (
+            _sig_val_v4244 == 0
+            and 1.085 <= _pm_val_v4244 < 1.10
+            and 1.06 <= _env_val_v4244 < 1.10
+        )
+        if 42.0 <= v < 44.0 and not _sig0_flash_v4244:
+            return "⛔ PASS (HR) — Vuln 42-44 dead zone (0.68x).  "
+        # SIG0 flash fires on Vu42-44 — fall through to grade processing
         # ── Extreme L2 + Vuln52+ override (Jun 19 2026) ─────────────────────
         # When the pitcher has an active Extreme L2 blowup, the Vuln52+ trap is
         # CONFIRMING vulnerability, not masking it. Bypass the PASS gate.
@@ -25238,12 +25252,69 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # had Extreme L2 blowup — the PASS gate wrongly blocked the signal.
         _ns_v52 = " ".join(sc.notes or [])
         _l2_override_v52 = ("EXTREME L2" in _ns_v52 and v >= 52.0)
-        if v >= 52.0 and not _l2_override_v52:
+        # ── Flash combo bypass for Vuln52+ PASS gate (Jul 17 2026) ──────────────────
+        # The Vuln52+ trap (0.69x) is backtested across the FULL Vuln52+ population.
+        # But certain three-gate combos that INCLUDE Vuln52+ have been backtested
+        # independently at much higher rates — they are a validated SUBSET of the population.
+        # When those combos fire, the broad trap classification is wrong: the pick has already
+        # been confirmed as exceptional by the subset backtest.
+        #
+        # Validated flash combos that override the Vuln52+ PASS gate (Jun 1+ audit, 39 slates):
+        #   VULN54+ENV1.05+Odds250-300:     100%/5.81x n=5  ← highest-priority override
+        #   VULN54+Park1.05+Odds250-300:     71.4%/4.15x n=7 (was 100%, degraded Jul 12)
+        #   SUPER_VULN+ENV1.10:              66.7%/3.87x n=12
+        #   SUPER_VULN+ENV_HOT(≥1.05):      57.9%/3.36x n=19
+        #   VULN54+PWR84+ENV1.05:           80.0%/4.64x n=10 (tracking)
+        #
+        # Implementation: check the same conditions the flash combo check uses,
+        # using already-available local variables (v, pm, env, park, odds, pw).
+        # Matches the existing L2 override pattern — fall through to grade processing.
+        #
+        # NOTE: This bypass only applies when Vuln≥54 (SUPER VUL confirmed) — the
+        # Vuln52-54 range does NOT have independently validated flash combos at this tier.
+        _odds_raw_v52 = getattr(sc, 'hr_over_price', 0) or 0
+        _env_v52      = getattr(sc, 'env_multiplier', 1.0) or 1.0
+        _park_v52     = getattr(sc, 'park_hr_factor', 1.0) or 1.0
+        _flash_override_v52 = (
+            v >= 54.0   # must be SUPER VUL (not just Vuln52+)
+            and (
+                # 100% flash: VULN54+ENV1.05+Odds250-300
+                (_env_v52 >= 1.05 and 250 <= _odds_raw_v52 <= 300)
+                # Near-flash: VULN54+Park1.05+Odds250-300 (71.4%/4.15x n=7)
+                or (1.05 <= _park_v52 < 1.105 and 250 <= _odds_raw_v52 <= 300)
+                # Strong env combos: SUPER_VULN+ENV1.10 (66.7%/3.87x n=12)
+                or (_env_v52 >= 1.10)
+                # Tracking: VULN54+PWR84+ENV1.05 (80.0%/4.64x n=10)
+                or (pw >= 84.0 and _env_v52 >= 1.05)
+            )
+        )
+        if v >= 52.0 and not _l2_override_v52 and not _flash_override_v52:
             return "⛔ PASS (HR) — Vuln 52+ trap (0.69x).  "
-        # When L2 override fires, fall through to grade processing below.
-        # The grade table picks up ⚡ EXTREME L2 BLOWUP HR and rates it appropriately.
+        # When flash override fires, fall through to grade processing.
+        # The grade table picks up the flash combo and rates it appropriately.
+        if _flash_override_v52 and v >= 54.0:
+            # Inject a note so the grade block can identify this as a flash-override pick
+            if sc.notes is None:
+                sc.notes = []
+            if not any("FLASH OVERRIDE" in str(n) for n in sc.notes):
+                sc.notes = list(sc.notes) + [
+                    f"⚡ VULN52+ PASS GATE BYPASSED: Flash combo active "
+                    f"(Vu{v:.0f}≥54 + ENV{_env_v52:.3f}/Park{_park_v52:.2f}/Odds+{_odds_raw_v52}) — "
+                    f"broad Vuln52+ trap (0.69x) is OVERRIDDEN by validated flash subset. "
+                    f"See VULN54+ENV1.05+Odds250-300 (100%/5.81x n=5) or ENV1.10 (66.7%/3.87x n=12)."
+                ]
         if prob < 0.11:       return "⛔ PASS (HR) — longshot, HR prob <11% (0.51x).  "
-        if pw < 55.0:         return "⛔ PASS (HR) — power <55 (0.69x).  "
+        # ── Flash bypass for power < 55 gate ─────────────────────────────────────
+        # SIG0+PM1.085-1.10+Env1.06-1.10 (100%/5.81x) has no power requirement.
+        # After the Pwr>=72 pool floor, Pwr55-71 batters can't reach here, but
+        # explicitly guard the gate so no 100% flash combo is ever blocked by it.
+        _sig0_flash_pw = (
+            _sig_val_v4244 == 0           # reuse var from G3 block above
+            and 1.085 <= _pm_val_v4244 < 1.10
+            and 1.06 <= _env_val_v4244 < 1.10
+        )
+        if pw < 55.0 and not _sig0_flash_pw:
+            return "⛔ PASS (HR) — power <55 (0.69x).  "
         # ── Shared signal parsing ─────────────────────────────────────────────────
         _pw_matches = _re.findall(
             r'(?:Crushes|primary pitch plays)[^:]*:\s*(?:fastball wOBA |wOBA )(0\.\d+)', _ns)
@@ -25334,6 +25405,34 @@ def _sheet_sharp_picks(wb, scores, top_n):
             return _nuclear_prefix + _tag
         if conv >= 24:        return _nuclear_prefix + f"🟡 LEAN (HR) — Conv {conv} but PM <1.04 (0.86x).  "
         if conv >= 10:        return _nuclear_prefix + "🟡 LEAN (HR) — moderate edge, no top driver.  "
+        # ── Flash combo bypass for below-conviction PASS gate ────────────────────
+        # Conv<10 normally means PASS — but if a 100%/near-100% flash combo fires,
+        # the structural edge overrides the Conv floor entirely.
+        # Flash combos are backtested independently and don't require high Conv to be valid.
+        # Low Conv + flash combo = the model's signal system didn't score the pick highly
+        # but the structural three-gate pattern has been independently confirmed.
+        # Relevant cases: LOW-SCORE SUPER VUL diamond (Sc<50 + Vu54+) often has low Conv
+        # but fires multiple flash combos (ELITE_LOCK+SC<50, SUPER_VULN+ENV_HOT, etc).
+        _flash_conv_override = (
+            v >= 54.0 and (
+                # 100% flash: VULN54+ENV1.05+Odds250-300
+                (_env_v52 >= 1.05 and 250 <= _odds_raw_v52 <= 300)
+                # SIG0+PM1.085-1.10+Env1.06-1.10 (100%)
+                or (_sig_val_v4244 == 0 and 1.085 <= _pm_val_v4244 < 1.10 and 1.06 <= _env_val_v4244 < 1.10)
+                # SUPER_VULN+Park1.05-1.10 (83.3%) or SUPER_VULN+ENV1.10 (66.7%)
+                or (1.05 <= _park_v52 < 1.105 and 250 <= _odds_raw_v52 <= 300)
+                or _env_v52 >= 1.10
+                # ELITE_LOCK+SC<50 (77.8%) — Vu54+PM1.04+Pwr84+Sc<50
+                or (pm >= 1.04 and pw >= 84.0 and scr < 50.0)
+                # HIGH_CONV+PARK_POWER (53.8%) — even at low conv, structural gates validated
+                or (scr >= 62.0 and v >= 47.0 and pm >= 1.04 and _env_v52 >= 1.00 and pw >= 82.0 and _park_v52 >= 1.10)
+            )
+        )
+        if _flash_conv_override:
+            return (_nuclear_prefix +
+                    f"🟡 LEAN (HR) — ⚡ FLASH COMBO OVERRIDE: Conv {conv} below floor but "
+                    f"validated flash combo fires (Vu{v:.0f}≥54 + ENV/Park/Odds gates). "
+                    f"Structural edge confirmed by independent backtest — not blocked by Conv floor.  ")
         return "⛔ PASS (HR) — below conviction floor.  "
 
     # Precompute conviction score (sort + Conv column) and success rate (rationale).
