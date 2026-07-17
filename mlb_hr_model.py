@@ -17363,7 +17363,8 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         pm >= 1.085
         and env >= 1.00
         and 0 < _hit_score < 40.0     # cold bat but not zero (data missing)
-        and not _bgs_env_demotion      # ENV DEMOTION already covers cold env picks
+        # Note: env>=1.00 gate above already excludes the suppressive-env picks that
+        # _bgs_env_demotion would catch — no forward reference needed here.
     )
     if _env_sharp_pm_cold:
         _result.conv_score = min(50.0, _result.conv_score + 5.0)
@@ -19954,33 +19955,6 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"backtest: 55.1% hit rate / 0.85x. Deprioritize in hit pick selection."
         )
 
-    # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
-    # Hit picks 3/10 (30%) vs 46% base rate. Systematic miss pattern:
-    # Alvarez: MID-HS DULL (HS44.6) + PM above sweet zone (PM1.126>1.12) → no hit
-    # When MID-HS DULL fires AND PM_WEAK_ZONE fires simultaneously, the model is
-    # giving two independent structural warnings on the same pick. Including it anyway
-    # (because WHR/L5 looked good) produced consistent misses.
-    # Rule: MID-HS DULL + PM WEAK ZONE stacked = hard deprioritize, not soft caution.
-    # In practice: exclude from top-7 hit picks; only include if no better options exist.
-    # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
-    _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
-    _stacked_hit_flags = (
-        _mid_hs_dull_fires
-        and (_pm_weak_zone_fires or _pm_above_sweet)
-    )
-    if _stacked_hit_flags:
-        _pm_zone_desc = (
-            f"PM={_pm_wk:.3f}>1.12 (above hit sweet zone — market priced)"
-            if _pm_above_sweet and not _pm_weak_zone_fires
-            else f"PM={_pm_wk:.3f} (1.06-1.11 weak zone)"
-        )
-        flags.append(
-            f"⛔ STACKED HIT SUPPRESS: MID-HS DULL (HS={_hs_val_wk:.0f}, 40-49 zone, 0.93x) "
-            f"+ {_pm_zone_desc} — Jul 12 post-mortem: both flags together = systematic miss "
-            f"(Alvarez 0.126>1.12 + HS44 → no hit despite 89% WHR). "
-            f"Hard deprioritize: exclude from top-7 hit picks unless no alternatives exist."
-        )
-
     # 4. REGRESSION RISK — extreme HS tier:
     # HS 65-70 = 44.4% hit rate (0.68x) — severe regression zone
     # Typically 100% L5 driving HS this high; season rate trails far behind
@@ -20021,6 +19995,33 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
             f"backtest 59.4% hit / 0.93x (n=443, 38-sl Jul10) — WORSE than cold bat (1.03x). "
             f"Deprioritize vs HS<40 or HS≥50 picks at same tier."
+        )
+
+    # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
+    # Hit picks 3/10 (30%) vs 46% base rate. Systematic miss pattern:
+    # Alvarez: MID-HS DULL (HS44.6) + PM above sweet zone (PM1.126>1.12) → no hit
+    # When MID-HS DULL fires AND PM_WEAK_ZONE fires simultaneously, the model is
+    # giving two independent structural warnings on the same pick. Including it anyway
+    # (because WHR/L5 looked good) produced consistent misses.
+    # Rule: MID-HS DULL + PM WEAK ZONE stacked = hard deprioritize, not soft caution.
+    # In practice: exclude from top-7 hit picks; only include if no better alternatives.
+    # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
+    _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
+    _stacked_hit_flags = (
+        _mid_hs_dull_fires
+        and (_pm_weak_zone_fires or _pm_above_sweet)
+    )
+    if _stacked_hit_flags:
+        _pm_zone_desc = (
+            f"PM={_pm_wk:.3f}>1.12 (above hit sweet zone — market priced)"
+            if _pm_above_sweet and not _pm_weak_zone_fires
+            else f"PM={_pm_wk:.3f} (1.06-1.11 weak zone)"
+        )
+        flags.append(
+            f"⛔ STACKED HIT SUPPRESS: MID-HS DULL (HS={_hs_val_wk:.0f}, 40-49 zone, 0.93x) "
+            f"+ {_pm_zone_desc} — Jul 12 post-mortem: both flags together = systematic miss "
+            f"(Alvarez PM1.126>1.12 + HS44 → no hit despite 89% WHR). "
+            f"Hard deprioritize: exclude from top-7 hit picks unless no alternatives exist."
         )
 
     # ── Jul 10 2026: PM1.07-1.085 + SC60-64 hit bucket ─────────────────────────────
