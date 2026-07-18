@@ -19763,13 +19763,20 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         if _bt_is_slm and _bt_hit_pts < 20:
             hit_pts = min(20, hit_pts + 3)
     elif 0 < hs < 20:
-        # COLD BAT — tracked under ice_cold_hit (matches the grade table row).
+        # COLD BAT (Jul 17 2026 update) — 41-slate backtest confirms cold bats OUTPERFORM
+        # every HS tier above 40:
+        #   ICE COLD (HS 1-9):  57.4% / 1.07x  n=183
+        #   COLD BAT (<40):     54.9% / 1.02x  n=585
+        #   HS 50-59:           51.0% / 0.95x  n=251  ← cold bat beats it
+        #   HS 60+:             50.0% / 0.93x  n=30   ← cold bat beats it
+        # ELEVATED: cold bat hit_pts raised to 13 (was 12) to ensure cold bats
+        # rank above the HS 47-59 dull zone in hit pick selection.
         _pm_cold = sc.pitch_matchup_score
-        _rh = _grade_rate("ice_cold_hit", "51.6%  64/124")
+        _rh = _grade_rate("ice_cold_hit", "57.4%  105/183")  # updated 41-sl rate
         if _pm_cold >= 1.03:
-            hit_pts = 12; hit_label = f"❄️ ICE COLD+PM hit {_pm_cold:.3f} ({_rh} AT — best hit signal)"
+            hit_pts = 14; hit_label = f"❄️ ICE COLD+PM hit {_pm_cold:.3f} ({_rh} AT — 1.07x, outperforms all HS>40 tiers)"
         else:
-            hit_pts = 9; hit_label = f"❄️ ICE COLD hit ({_rh} AT — validated)"
+            hit_pts = 11; hit_label = f"❄️ ICE COLD hit ({_rh} AT — 1.07x backtest, beats HS50-60)"
     elif 20.0 <= hs < 30.0:
         # HS 20-30: low-mid zone — marginal signal, no strong edge
         _pm_sc = sc.pitch_matchup_score
@@ -19816,11 +19823,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         else:
             hit_pts = 2; hit_label = f"HS {hs:.0f} avg (60.8%)"
     elif hs >= 47.0 and rank <= 3:
-        # HIGH+Top3: 51% hit rate — still valid at rank 1-3 only
-        hit_pts = 8; hit_label = f"⭐ HIGH+Top3 HS {hs:.0f} Rk{rank} (51% validated)"
+        # HIGH+Top3: still valid at rank 1-3 — cold bats (14 pts) still outrank this (8 pts).
+        hit_pts = 8; hit_label = f"⭐ HIGH+Top3 HS {hs:.0f} Rk{rank} (51% validated — cold bats 1.07x outperform)"
     elif hs >= 47.0:
-        # REVISED: HS 47+ Rank4+ = 57.9% hit — BELOW baseline 62.4%.
-        # Only award pts when confirming signals present.
+        # Jul 17 2026: HS 47-60 confirmed DULL ZONE across 41 slates:
+        #   HS 50-54: 53.4% / 1.00x n=176 (barely base)
+        #   HS 55-59: 45.3% / 0.85x n=75  (WORST tier — below MID-HS DULL)
+        #   HS 60+:   50.0% / 0.93x n=30  (below cold bat 1.07x)
+        # Cold bat (HS<40): 54.9% / 1.02x n=585 — outperforms ALL tiers above 40.
+        # Base hit_pts for HS 47-60 reduced to ensure cold bats rank above.
+        # Only award positive pts when strong confirming signals present.
         _has_neg_hit = any(x in " ".join(str(n) for n in (sc.notes or [])).lower()
                            for x in ['k-danger','k-risk','k-warning','weak vs','below-avg vs',
                                      'ice cold','cold hitter'])
@@ -19982,19 +19994,40 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
         )
 
-    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ───────────────────────────────
-    # Counterintuitive backtest finding (38-sl, n=1895): HS 40-49 = 59.4% hit / 0.93x
-    # WORSE than cold bat HS<40 (65.9% / 1.03x) and worse than no-HS-data (65.0% / 1.02x).
-    # Holds within same Vuln44-54 band — not confounded by pitcher quality.
-    # Mechanism: picks with HS 40-49 have just enough hit signal to get selected but are
-    # in a "regression trap" — moderate recent form that doesn't sustain.
-    # Flag to deprioritize hit picks in this HS zone (informational, not hard exclude).
-    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0
+    # ── Jul 10 2026: HS 40-59 DULL zone suppressor (extended Jul 17 2026) ──────
+    # Original finding (38-sl, Jul10): HS 40-49 = 59.4% hit / 0.93x
+    # Extended finding (41-sl, Jul17): FULL picture across 41 slates:
+    #   HS  1-9  (ICE COLD):  57.4% / 1.07x  n=183  ← OUTPERFORMS high-HS
+    #   HS 30-39 (SWEET★):    58.0% / 1.08x  n=119  ← OUTPERFORMS high-HS
+    #   HS <40   (cold bat):  54.9% / 1.02x  n=585  ← at/above base
+    #   HS 40-49 (MID-HS):   ~51%  / 0.95x         ← BELOW cold bat
+    #   HS 50-54:             53.4% / 1.00x  n=176  ← barely at base
+    #   HS 55-59:             45.3% / 0.85x  n=75   ← WORST tier
+    #   HS 50-59:             51.0% / 0.95x  n=251  ← below cold bat
+    #   HS 60+:               50.0% / 0.93x  n=30   ← below cold bat
+    # Conclusion: EVERY HS tier above 40 underperforms cold bats.
+    # HS 55-59 is the single worst tier (0.85x) — worse than MID-HS DULL.
+    # Extended gate: HS 40-59 = "DULL ZONE" (0.85-0.95x), deprioritize.
+    # Jul 17 post-ASG first slate: HS 50-59 went 20%/0.45x (4 of our 5 hit misses)
+    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 60.0
     if _mid_hs_dull_fires:
+        if 55.0 <= _hs_val_wk < 60.0:
+            _dull_rate = "45.3% / 0.85x (n=75) — WORST tier, worse than cold bat"
+            _dull_zone = "HS 55-59"
+        elif 50.0 <= _hs_val_wk < 55.0:
+            _dull_rate = "53.4% / 1.00x (n=176) — barely at base, cold bat (1.07x) outperforms"
+            _dull_zone = "HS 50-54"
+        elif 45.0 <= _hs_val_wk < 50.0:
+            _dull_rate = "~51% / 0.95x — below cold bat (1.07x)"
+            _dull_zone = "HS 45-49"
+        else:
+            _dull_rate = "59.4% / 0.93x (n=443, 38-sl Jul10) — below cold bat (1.07x)"
+            _dull_zone = "HS 40-44"
         flags.append(
-            f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
-            f"backtest 59.4% hit / 0.93x (n=443, 38-sl Jul10) — WORSE than cold bat (1.03x). "
-            f"Deprioritize vs HS<40 or HS≥50 picks at same tier."
+            f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f} — "
+            f"backtest {_dull_rate}. "
+            f"Cold bats (HS<40) outperform this zone. "
+            f"Deprioritize vs HS<40 or SCREAM HIT picks at same tier."
         )
 
     # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
@@ -20008,7 +20041,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
     _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
     _stacked_hit_flags = (
-        _mid_hs_dull_fires
+        _mid_hs_dull_fires                          # HS 40-59 dull zone (extended Jul 17)
         and (_pm_weak_zone_fires or _pm_above_sweet)
     )
     if _stacked_hit_flags:
@@ -20854,8 +20887,44 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _hs_valid:
         if 0 < hs < 20 and pm >= 1.03:
             # Cold + PM≥1.03 — tracked under ice_cold_hit (grade-table key)
-            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "51.6%  64/124")
+            # Jul 17 2026: updated rate from 51.6% to 57.4% (41-sl, n=183)
+            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "57.4%  105/183")
             _scream_hit_entries.append(f"🔥🔥 SCREAM HIT: Cold+PM{pm:.3f} ({_rh[1]} AT, L5 {_rh[0]})")
+
+        elif 0 < hs < 20:
+            # ── Rec 3 Jul 17 2026: Extend SCREAM HIT to cold bats WITHOUT PM gate ──────
+            # 41-slate backtest: ICE COLD (HS 1-9) = 57.4% / 1.07x (n=183) — outperforms
+            # ALL HS tiers above 40 regardless of PM. Dominic Smith pattern: ICE COLD
+            # + SUPER VUL pitcher + SCREAM HIT validated even without PM≥1.03.
+            # Additional triggers for cold bat SCREAM HIT:
+            #   (a) SUPER VUL pitcher (Vuln≥54) — structural pitcher weakness overrides PM req
+            #   (b) Pitch dominance confirmed (PITCH CORRELATION or PRIME+PitchEdge in notes)
+            #   (c) Sharp line move (has_slm) — market confirming on a cold bat = strong edge
+            _notes_str    = " ".join(str(n) for n in (sc.notes or []))
+            _has_pitch_dom = ("PITCH CORRELATION" in _notes_str or
+                              "PitchEdge" in _notes_str or
+                              "PITCH_DOM" in _notes_str or
+                              "PRIME PITCHER TARGET" in _notes_str)
+            _vuln_val_sh  = getattr(sc, 'pitcher_vuln', 0.0) or 0.0
+            _has_super_vul = _vuln_val_sh >= 54.0
+            _has_slm_sh    = getattr(sc, 'has_sharp_line_move', False)
+            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "57.4%  105/183")
+            if _has_super_vul:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+SUPER VUL(Vu{_vuln_val_sh:.0f}≥54) "
+                    f"({_rh[1]} AT, 1.07x) — cold bat beats all HS>40 tiers; SUPER VUL confirms"
+                )
+            elif _has_pitch_dom:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+PitchDom ({_rh[1]} AT, 1.07x) "
+                    f"— pitch dominance confirmed on cold bat; no PM gate needed"
+                )
+            elif _has_slm_sh:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+SharpLine ({_rh[1]} AT, 1.07x) "
+                    f"— sharp money on cold bat = market confirming undervalued pick"
+                )
+
         elif 35.0 <= hs < 40.0 and 1 <= _sig_val < 5:
             # HS 35-40 + Sig 1-5 — sig4_pm_hit (grade-table key)
             _rh = _grade_rate_pair("sig4_pm_hit", "62.2%  L5", "60.2%  97/161")
