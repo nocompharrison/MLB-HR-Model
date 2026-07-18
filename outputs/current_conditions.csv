@@ -1,16 +1,18 @@
 ﻿"Game Conditions — July 18, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
-TB @ BOS,Fenway Park,72°F,0mph,In/X,1.06,20ft,Open,8.8,4.5,4.3,N/A,N/A,FantasyLabs,1.000x,FL
-TB @ BOS,Fenway Park,72°F,0mph,In/X,1.06,20ft,Open,8.8,4.5,4.3,N/A,N/A,FantasyLabs,1.000x,FL
-LAD @ NYY,Yankee Stadium,80°F,5mph,Out,1.12,55ft,Open,9.3,4.6,4.7,+5.0%,N/A,FantasyLabs,1.012x,FL
-TEX @ ATL,Truist Park,81°F,5mph,Out,0.98,1050ft,Open,8.2,4.8,3.4,+7.4%,N/A,FantasyLabs,1.006x,FL
-CWS @ TOR,Rogers Centre,72°F,0mph,In/X,1.04,287ft,Dome,8.7,4.6,4.1,N/A,N/A,dome,0.982x,FL
-MIA @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,8.2,4.5,3.7,N/A,N/A,dome,1.018x,FL
+PIT @ CLE,Progressive Field,76°F,24mph,In/X,0.97,653ft,Open,9.0,4.5,4.5,-16.3%,-4.5%,open-meteo,1.000x,PropLine
+PIT @ CLE,Progressive Field,76°F,24mph,In/X,0.97,653ft,Open,9.0,4.5,4.5,-16.3%,-4.5%,open-meteo,1.000x,PropLine
 MIN @ CHC,Wrigley Field,81°F,7mph,In/X,1.03,595ft,Open,11.3,6.1,5.2,-1.3%,N/A,FantasyLabs,1.018x,FL
+CWS @ TOR,Rogers Centre,72°F,0mph,In/X,1.04,287ft,Dome,8.7,4.6,4.1,N/A,N/A,dome,0.982x,FL
+CIN @ COL,Coors Field,85°F,8mph,In/X,1.38,5280ft,Open,12.3,6.2,6.1,-4.0%,+0.0%,FantasyLabs,1.006x,FL
+NYM @ PHI,Citizens Bank Park,88°F,9mph,In/X,1.14,40ft,Open,9.0,4.5,4.5,-4.8%,N/A,open-meteo,1.000x,PropLine
 BAL @ HOU,Minute Maid Park,72°F,0mph,In/X,0.99,43ft,Dome,8.8,4.5,4.3,N/A,N/A,dome,0.976x,FL
 SD @ KC,Kauffman Stadium,82°F,7mph,Out,0.91,750ft,Open,10.8,5.2,5.6,+8.6%,N/A,FantasyLabs,1.024x,FL
-CIN @ COL,Coors Field,85°F,8mph,In/X,1.38,5280ft,Open,12.3,6.2,6.1,-4.0%,+0.0%,FantasyLabs,1.006x,FL
-DET @ LAA,Angel Stadium,73°F,6mph,In/X,1.04,160ft,Open,8.7,4.3,4.4,-1.6%,N/A,FantasyLabs,0.988x,FL
-WSH @ ATH,Sutter Health Park,74°F,10mph,In/X,0.97,25ft,Open,10.2,4.8,5.4,-7.0%,N/A,FantasyLabs,1.018x,FL
 STL @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,9.3,4.7,4.6,N/A,N/A,dome,0.970x,FL
+TB @ BOS,Fenway Park,72°F,0mph,In/X,1.06,20ft,Open,8.8,4.5,4.3,N/A,N/A,FantasyLabs,1.000x,FL
+TEX @ ATL,Truist Park,81°F,5mph,Out,0.98,1050ft,Open,8.2,4.8,3.4,+7.4%,N/A,FantasyLabs,1.006x,FL
+MIA @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,8.2,4.5,3.7,N/A,N/A,dome,1.018x,FL
 SF @ SEA,T-Mobile Park,68°F,4mph,Out,0.92,20ft,Open,7.199999999999999,4.1,3.1,+4.1%,N/A,FantasyLabs,1.000x,FL
+LAD @ NYY,Yankee Stadium,80°F,5mph,Out,1.12,55ft,Open,9.3,4.6,4.7,+5.0%,N/A,FantasyLabs,1.012x,FL
+WSH @ ATH,Sutter Health Park,74°F,10mph,In/X,0.97,25ft,Open,10.2,4.8,5.4,-7.0%,N/A,FantasyLabs,1.018x,FL
+DET @ LAA,Angel Stadium,73°F,6mph,In/X,1.04,160ft,Open,8.7,4.3,4.4,-1.6%,N/A,FantasyLabs,0.988x,FL
