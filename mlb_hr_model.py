@@ -601,6 +601,7 @@ def load_upset_profiles() -> dict:
 
 # Module‑level snapshot info string (populated by load_actionnetwork_hr_odds)
 PROPLINE_BASE    = "https://api.prop-line.com/v1"
+PROPLINE_API_KEY = ""
 
 # ── Shared player-name key for ActionNetwork odds matching ────────────────────
 # Builds "{lastname}_{first3offirst}". Must be used IDENTICALLY when building the
@@ -1671,7 +1672,7 @@ def format_game_time(utc_str: str) -> str:
 # ── SECTION: FANTASYLABS XLSX READER (primary data source) ───
 # ============================================================
 
-FANTASYLABS_FILE = r"C:\Users\hlee145\Documents\FanDuel Spreadsheets\HR Models\FantasyLabsMLB.xlsm"
+FANTASYLABS_FILE = "/home/mlbapp/mlb-webapp/backend/data/FantasyLabsMLB.xlsm"
 
 def _fl_wind_out(wind_dir_str: str) -> bool:
     """Convert FantasyLabs wind direction string to wind_out bool."""
