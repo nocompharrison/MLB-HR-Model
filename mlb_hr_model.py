@@ -601,7 +601,6 @@ def load_upset_profiles() -> dict:
 
 # Module‑level snapshot info string (populated by load_actionnetwork_hr_odds)
 PROPLINE_BASE    = "https://api.prop-line.com/v1"
-PROPLINE_API_KEY = ""
 
 # ── Shared player-name key for ActionNetwork odds matching ────────────────────
 # Builds "{lastname}_{first3offirst}". Must be used IDENTICALLY when building the
@@ -1672,7 +1671,7 @@ def format_game_time(utc_str: str) -> str:
 # ── SECTION: FANTASYLABS XLSX READER (primary data source) ───
 # ============================================================
 
-FANTASYLABS_FILE = "/home/mlbapp/mlb-webapp/backend/data/FantasyLabsMLB.xlsm"
+FANTASYLABS_FILE = r"C:\Users\hlee145\Documents\FanDuel Spreadsheets\HR Models\FantasyLabsMLB.xlsm"
 
 def _fl_wind_out(wind_dir_str: str) -> bool:
     """Convert FantasyLabs wind direction string to wind_out bool."""
@@ -29541,6 +29540,83 @@ def main():
     # Rule: guarantee any batter with Pwr≥88 + PM≥1.07 appears in top-50, regardless of
     # team cap or score. Max 1 injection per team to prevent flooding.
     _pwr_floor_names_in_top50 = {sc.batter_name for sc in ranked[:TOP_N]}
+
+    # ── 100% Flash combo injection (Jul 17 2026) ──────────────────────────────
+    # The Pwr88+PM1.07 floor only catches elite power+matchup combos.
+    # But validated 100%/near-100% flash combos fire on batters regardless of
+    # raw power or PM — e.g. Suzuki: Pwr81.6, PM1.031 but fires 100% flash
+    # (VULN54+ENV1.05+Odds250-300) and SUPER_VULN+ENV1.10 (66.7%/3.87x n=12).
+    # Without flash injection, these batters fall out of top-50 silently when
+    # lineup confirmation arrives after the model's initial run.
+    #
+    # Flash injection criteria (any one → guaranteed top-50):
+    #   A: VULN54+ENV1.05+Odds250-300         100%/5.81x n=5
+    #   B: SIG0+PM1.085-1.10+Env1.06-1.10     100%/5.81x n=5
+    #   C: SUPER_VULN+Park1.05-1.10            83.3%/4.84x n=6
+    #   D: VULN54+PWR84+ENV1.05 (tracking)    80.0%/4.64x n=10
+    #   E: VULN54+PWR84+ENV1.10 (tracking)    83.3%/4.84x n=6
+    #   F: SUPER_VULN+ENV1.10                  66.7%/3.87x n=12
+    # Lower-tier combos (HIGH_CONV+PARK_POWER, VALUE_ODDS+VULN50) are NOT
+    # injection triggers — useful context but not strong enough for a guaranteed slot.
+    def _fires_flash_injection(sc) -> bool:
+        v    = getattr(sc, 'pitcher_vuln',        getattr(sc, 'vuln',  0.0)) or 0.0
+        pm   = getattr(sc, 'pitch_matchup_score', 0.0) or 0.0
+        env  = getattr(sc, 'env_multiplier',      1.0) or 1.0
+        park = getattr(sc, 'park_hr_factor',      1.0) or 1.0
+        sig  = getattr(sc, 'sig_score',           99)  or 99
+        odds = getattr(sc, 'hr_over_price',       999) or 999
+        pw   = getattr(sc, 'batter_power',
+                       getattr(sc, 'power_score', 0)) or 0.0
+        return (
+            (v >= 54 and env >= 1.05 and 250 <= odds <= 300)          # A: 100% flash
+            or (sig == 0 and 1.085 <= pm < 1.10
+                and 1.06 <= env < 1.10)                                # B: SIG0 100% flash
+            or (v >= 54 and 1.05 <= park < 1.105)                     # C: SUPER+Park 83.3%
+            or (v >= 54 and pw >= 84 and env >= 1.05)                 # D: track 80%
+            or (v >= 54 and env >= 1.10)                              # F: SUPER+ENV1.10 66.7%
+        )
+
+    _flash_inject_candidates = sorted(
+        [sc for sc in ranked_raw
+         if sc.batter_name not in _pwr_floor_names_in_top50
+         and _fires_flash_injection(sc)],
+        key=lambda x: getattr(x, 'score', 0),
+        reverse=True
+    )
+    _flash_injected = []
+    _flash_inject_teams: dict = {}
+    for _fisc in _flash_inject_candidates:
+        _fit = _fisc.team
+        if _flash_inject_teams.get(_fit, 0) >= 2:   # max 2 per team
+            continue
+        _flash_injected.append(_fisc)
+        _flash_inject_teams[_fit] = _flash_inject_teams.get(_fit, 0) + 1
+
+    if _flash_injected:
+        _fi_names = {sc.batter_name for sc in _flash_injected}
+        ranked = [sc for sc in ranked if sc.batter_name not in _fi_names]
+        ranked = ranked + _flash_injected
+        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        _fi_outside = [
+            sc for sc in _flash_injected
+            if next((i for i, r in enumerate(ranked)
+                     if r.batter_name == sc.batter_name), TOP_N) >= TOP_N
+        ]
+        if _fi_outside:
+            _fi_out_names = {sc.batter_name for sc in _fi_outside}
+            ranked = [sc for sc in ranked if sc.batter_name not in _fi_out_names]
+            _fi_insert = TOP_N - len(_fi_outside)
+            for _osc in _fi_outside:
+                ranked.insert(_fi_insert, _osc)
+                _fi_insert += 1
+        print(f"  🔥 FLASH COMBO injection: {len(_flash_injected)} player(s) "
+              f"guaranteed top-{TOP_N} (validated flash combo fires):")
+        for _fisc in _flash_injected:
+            _fiv   = getattr(_fisc, 'pitcher_vuln', 0)
+            _fienv = getattr(_fisc, 'env_multiplier', 1.0)
+            print(f"     🔥 {_fisc.batter_name} ({_fisc.team}) — "
+                  f"Vu {_fiv:.1f} | Env {_fienv:.3f} | Score {_fisc.score:.1f}")
+
     _pwr_floor_candidates = sorted(
         [sc for sc in ranked_raw
          if sc.batter_name not in _pwr_floor_names_in_top50
