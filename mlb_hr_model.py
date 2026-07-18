@@ -27368,7 +27368,7 @@ BUILT-IN DATA SOURCES:
         # Before 6am: yesterday's slate is still the relevant one. DFS slates
         # lock during the day; if you're running at midnight or 1am you're almost
         # certainly still working the previous day's games, not tomorrow's.
-        if _now.hour < 9:
+        if _now.hour < 8:
             from datetime import timedelta as _td
             target = date.today() - _td(days=1)
             _pre6am_shift = True
