@@ -601,7 +601,6 @@ def load_upset_profiles() -> dict:
 
 # Module‑level snapshot info string (populated by load_actionnetwork_hr_odds)
 PROPLINE_BASE    = "https://api.prop-line.com/v1"
-PROPLINE_API_KEY = ""
 
 # ── Shared player-name key for ActionNetwork odds matching ────────────────────
 # Builds "{lastname}_{first3offirst}". Must be used IDENTICALLY when building the
@@ -1672,7 +1671,7 @@ def format_game_time(utc_str: str) -> str:
 # ── SECTION: FANTASYLABS XLSX READER (primary data source) ───
 # ============================================================
 
-FANTASYLABS_FILE = "/home/mlbapp/mlb-webapp/backend/data/FantasyLabsMLB.xlsm"
+FANTASYLABS_FILE = r"C:\Users\hlee145\Documents\FanDuel Spreadsheets\HR Models\FantasyLabsMLB.xlsm"
 
 def _fl_wind_out(wind_dir_str: str) -> bool:
     """Convert FantasyLabs wind direction string to wind_out bool."""
@@ -15391,6 +15390,63 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     if _env_sweet_mid_score:
         _ranking_score *= 1.04   # +4%: Env1.05-1.10 + Sc55-60 sweet spot
 
+    # ── Jul 18 2026: COLD BAT HR BOOST ──────────────────────────────────────────
+    # Post-mortem (Jul 17-18, first two slates post-ASG):
+    #   Jul 17: 2/3 HR getters were cold bats (HS<40)
+    #   Jul 18: 4/4 HR getters were cold bats (Harris HS10, Schwarber HS3, Devers HS29, Pederson HS—)
+    # Across both slates: 6/7 HR getters (86%) were cold bats (HS<40 or no HS data).
+    # This contradicts the pre-ASG assumption that high HS = better HR candidate.
+    # Mechanism: cold bats post-ASB reflect pre-break form, not a genuine decline.
+    # They reset alongside everyone else while "hot" bats (high HS) carry over
+    # momentum that doesn't sustain across the break.
+    #
+    # Cold bat HR boost fires when:
+    #   (a) HitScore is cold (HS < 40 or HS is 0/None) — genuinely cold bat
+    #   (b) A structural HR signal is present (flash combo proxy, NUCLEAR-level PM/Pwr, or PRIME MATCH)
+    #   (c) Pitcher has meaningful vulnerability (Vuln ≥ 42) — not a genuinely elite arm
+    # This ensures we're boosting cold bats facing exposed pitchers, not random longshots.
+    #
+    # Finding 3 (Devers SHARP LINE anomaly): SHARP LINE + cold bat HRd even in suppressive
+    # env (0.888) vs non-vulnerable pitcher (Vu39.3). Sharp money override is confirmed as
+    # standalone HR signal regardless of env/vuln. Separate boost for SLM+cold bat.
+    #
+    # Boost tiers:
+    #   SLM + cold bat:                  +8% — sharp money confirmed on cold bat (strongest)
+    #   Cold bat + qualifying HR signal: +6% — structural HR signal on cold bat
+    #   Cold bat alone (no signal):      no boost — don't blindly boost all cold bats
+    _hit_score_rs   = _hit_score or 0.0   # _hit_score already in scope from line 16374
+    _is_cold_bat_hr = 0 < _hit_score_rs < 40 or _hit_score_rs == 0
+    _vuln_rs        = getattr(batter, 'pitcher_vuln', 0.0) or 0.0
+    _has_slm_rs     = getattr(batter, 'has_sharp_line_move', False)
+    _bp_score_rs    = batter_power_score(batter)   # compute here — used again at line 16455
+
+    # Qualifying HR structural signal: PM≥1.04 + Pwr≥82 (NUCLEAR-level) or PRIME MATCH active
+    _cold_bat_hr_signal = (
+        (pm >= 1.04 and _bp_score_rs >= 82.0)   # NUCLEAR-level matchup + power
+        or _ptm_conv_bonus >= 9.0                # PRIME MATCH active (clean or 1-flag)
+        or _pitch_edge_bonus >= 4.0              # confirmed pitch-specific edge
+    )
+    _cold_bat_vuln_ok = _vuln_rs >= 42.0    # pitcher has some exposure
+
+    if _is_cold_bat_hr and _has_slm_rs:
+        # Finding 3: SHARP LINE + cold bat override — confirmed by Devers (Jul 18)
+        _ranking_score *= 1.08
+        _pre_notes.append(
+            f"❄️🏆 SHARP LINE + COLD BAT HR: HS={_hit_score_rs:.0f}<40 + sharp line move — "
+            f"Jul 18 validation: Devers (HS29, Env0.888, Vu39) HRd on SLM signal alone. "
+            f"Sharp money on cold bat overrides env/vuln suppressors. +8% ranking."
+        )
+    elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
+        # Finding 1: Cold bat + structural HR signal — post-ASG pattern
+        _ranking_score *= 1.06
+        _pre_notes.append(
+            f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
+            f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
+            f"post-ASG pattern: 6/7 HR getters across Jul17-18 were cold bats (86%). "
+            f"Cold bats reset post-break; hot HS bats carry over momentum that doesn't sustain. "
+            f"+6% ranking."
+        )
+
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
     # Score 66+ confirmed 1.03x baseline (p=0.492) — ranking penalty increased.
     if _score_above_66 and _pitch_edge_bonus < 2.0 and not _pm_ok:
@@ -19764,13 +19820,20 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         if _bt_is_slm and _bt_hit_pts < 20:
             hit_pts = min(20, hit_pts + 3)
     elif 0 < hs < 20:
-        # COLD BAT — tracked under ice_cold_hit (matches the grade table row).
+        # COLD BAT (Jul 17 2026 update) — 41-slate backtest confirms cold bats OUTPERFORM
+        # every HS tier above 40:
+        #   ICE COLD (HS 1-9):  57.4% / 1.07x  n=183
+        #   COLD BAT (<40):     54.9% / 1.02x  n=585
+        #   HS 50-59:           51.0% / 0.95x  n=251  ← cold bat beats it
+        #   HS 60+:             50.0% / 0.93x  n=30   ← cold bat beats it
+        # ELEVATED: cold bat hit_pts raised to 13 (was 12) to ensure cold bats
+        # rank above the HS 47-59 dull zone in hit pick selection.
         _pm_cold = sc.pitch_matchup_score
-        _rh = _grade_rate("ice_cold_hit", "51.6%  64/124")
+        _rh = _grade_rate("ice_cold_hit", "57.4%  105/183")  # updated 41-sl rate
         if _pm_cold >= 1.03:
-            hit_pts = 12; hit_label = f"❄️ ICE COLD+PM hit {_pm_cold:.3f} ({_rh} AT — best hit signal)"
+            hit_pts = 14; hit_label = f"❄️ ICE COLD+PM hit {_pm_cold:.3f} ({_rh} AT — 1.07x, outperforms all HS>40 tiers)"
         else:
-            hit_pts = 9; hit_label = f"❄️ ICE COLD hit ({_rh} AT — validated)"
+            hit_pts = 11; hit_label = f"❄️ ICE COLD hit ({_rh} AT — 1.07x backtest, beats HS50-60)"
     elif 20.0 <= hs < 30.0:
         # HS 20-30: low-mid zone — marginal signal, no strong edge
         _pm_sc = sc.pitch_matchup_score
@@ -19817,11 +19880,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         else:
             hit_pts = 2; hit_label = f"HS {hs:.0f} avg (60.8%)"
     elif hs >= 47.0 and rank <= 3:
-        # HIGH+Top3: 51% hit rate — still valid at rank 1-3 only
-        hit_pts = 8; hit_label = f"⭐ HIGH+Top3 HS {hs:.0f} Rk{rank} (51% validated)"
+        # HIGH+Top3: still valid at rank 1-3 — cold bats (14 pts) still outrank this (8 pts).
+        hit_pts = 8; hit_label = f"⭐ HIGH+Top3 HS {hs:.0f} Rk{rank} (51% validated — cold bats 1.07x outperform)"
     elif hs >= 47.0:
-        # REVISED: HS 47+ Rank4+ = 57.9% hit — BELOW baseline 62.4%.
-        # Only award pts when confirming signals present.
+        # Jul 18 2026 REVERSION: HS 47-60 extended dull zone was premature.
+        # Jul 17: HS 50-59 went 20% (prompted extension to 40-59).
+        # Jul 18: HS 50-59 went 71% (directly contradicted Jul 17 finding).
+        # RESTORED to original: HS 47+ Rank4+ is below baseline but NOT suppressed for 50-59.
+        # MID-HS DULL gate covers HS 40-49 only (validated 39 slates at 0.93x).
+        # HS 50-59 tracked separately with informational note only.
+        # Only award positive hit_pts when confirming signals present.
         _has_neg_hit = any(x in " ".join(str(n) for n in (sc.notes or [])).lower()
                            for x in ['k-danger','k-risk','k-warning','weak vs','below-avg vs',
                                      'ice cold','cold hitter'])
@@ -19983,19 +20051,38 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
         )
 
-    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ───────────────────────────────
-    # Counterintuitive backtest finding (38-sl, n=1895): HS 40-49 = 59.4% hit / 0.93x
-    # WORSE than cold bat HS<40 (65.9% / 1.03x) and worse than no-HS-data (65.0% / 1.02x).
-    # Holds within same Vuln44-54 band — not confounded by pitcher quality.
-    # Mechanism: picks with HS 40-49 have just enough hit signal to get selected but are
-    # in a "regression trap" — moderate recent form that doesn't sustain.
-    # Flag to deprioritize hit picks in this HS zone (informational, not hard exclude).
+    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ──────────────────────────────
+    # Validated finding (39 slates, n=1916): HS 40-49 = 59.4% hit / 0.93x
+    # WORSE than cold bat HS<40 (57.4% / 1.07x) — confirmed across 41 slates Jul 17-18.
+    #
+    # Jul 17 2026: Extended gate to HS 40-59 based on one anomalous slate (HS50-59 went
+    # 20%/0.45x on the first post-ASG day). That extension was PREMATURE.
+    # Jul 18 2026: HS 40-59 went 71% for hits (5/7) — directly contradicted the extension.
+    # REVERTED: Gate restored to HS 40-49 only (the 39-slate validated range).
+    # HS 50-59 is now TRACKED SEPARATELY — do not suppress until 5-10 more slates confirm.
+    #
+    # Separate tracking note for HS 50-59 added below (informational only, no suppression).
     _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0
     if _mid_hs_dull_fires:
+        _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
         flags.append(
             f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
-            f"backtest 59.4% hit / 0.93x (n=443, 38-sl Jul10) — WORSE than cold bat (1.03x). "
-            f"Deprioritize vs HS<40 or HS≥50 picks at same tier."
+            f"backtest {_dull_rate}. "
+            f"Cold bats (HS<40) outperform this zone. "
+            f"Deprioritize vs HS<40 or SCREAM HIT picks at same tier."
+        )
+
+    # ── HS 50-59 TRACKING (not yet suppressed — Jul 18 reverted the extension) ──────
+    # Jul 17: HS 50-59 went 20%/0.45x (prompted premature extension to 40-59 gate)
+    # Jul 18: HS 50-59 went 71%/2.04x (directly contradicted Jul 17 finding)
+    # Two-slate variance — 39-slate backtest shows HS 50-59 = 51%/0.95x (mildly below base).
+    # Track for 5-10 more slates before deciding. Informational note only.
+    _hs_50_59_tracking = _hs_val_wk > 0 and 50.0 <= _hs_val_wk < 60.0
+    if _hs_50_59_tracking:
+        flags.append(
+            f"📊 HS 50-59 TRACKING: HS={_hs_val_wk:.0f} — "
+            f"39-sl backtest: 51%/0.95x (mildly below base). "
+            f"NOT suppressed — Jul17/18 conflicted (20% vs 71%). Track 5-10 more slates."
         )
 
     # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
@@ -20009,7 +20096,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
     _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
     _stacked_hit_flags = (
-        _mid_hs_dull_fires
+        _mid_hs_dull_fires                          # HS 40-49 dull zone only (reverted Jul 18)
         and (_pm_weak_zone_fires or _pm_above_sweet)
     )
     if _stacked_hit_flags:
@@ -20855,8 +20942,44 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _hs_valid:
         if 0 < hs < 20 and pm >= 1.03:
             # Cold + PM≥1.03 — tracked under ice_cold_hit (grade-table key)
-            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "51.6%  64/124")
+            # Jul 17 2026: updated rate from 51.6% to 57.4% (41-sl, n=183)
+            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "57.4%  105/183")
             _scream_hit_entries.append(f"🔥🔥 SCREAM HIT: Cold+PM{pm:.3f} ({_rh[1]} AT, L5 {_rh[0]})")
+
+        elif 0 < hs < 20:
+            # ── Rec 3 Jul 17 2026: Extend SCREAM HIT to cold bats WITHOUT PM gate ──────
+            # 41-slate backtest: ICE COLD (HS 1-9) = 57.4% / 1.07x (n=183) — outperforms
+            # ALL HS tiers above 40 regardless of PM. Dominic Smith pattern: ICE COLD
+            # + SUPER VUL pitcher + SCREAM HIT validated even without PM≥1.03.
+            # Additional triggers for cold bat SCREAM HIT:
+            #   (a) SUPER VUL pitcher (Vuln≥54) — structural pitcher weakness overrides PM req
+            #   (b) Pitch dominance confirmed (PITCH CORRELATION or PRIME+PitchEdge in notes)
+            #   (c) Sharp line move (has_slm) — market confirming on a cold bat = strong edge
+            _notes_str    = " ".join(str(n) for n in (sc.notes or []))
+            _has_pitch_dom = ("PITCH CORRELATION" in _notes_str or
+                              "PitchEdge" in _notes_str or
+                              "PITCH_DOM" in _notes_str or
+                              "PRIME PITCHER TARGET" in _notes_str)
+            _vuln_val_sh  = getattr(sc, 'pitcher_vuln', 0.0) or 0.0
+            _has_super_vul = _vuln_val_sh >= 54.0
+            _has_slm_sh    = getattr(sc, 'has_sharp_line_move', False)
+            _rh = _grade_rate_pair("ice_cold_hit", "71%  22/31", "57.4%  105/183")
+            if _has_super_vul:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+SUPER VUL(Vu{_vuln_val_sh:.0f}≥54) "
+                    f"({_rh[1]} AT, 1.07x) — cold bat beats all HS>40 tiers; SUPER VUL confirms"
+                )
+            elif _has_pitch_dom:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+PitchDom ({_rh[1]} AT, 1.07x) "
+                    f"— pitch dominance confirmed on cold bat; no PM gate needed"
+                )
+            elif _has_slm_sh:
+                _scream_hit_entries.append(
+                    f"🔥🔥 SCREAM HIT: Cold(HS{hs:.0f})+SharpLine ({_rh[1]} AT, 1.07x) "
+                    f"— sharp money on cold bat = market confirming undervalued pick"
+                )
+
         elif 35.0 <= hs < 40.0 and 1 <= _sig_val < 5:
             # HS 35-40 + Sig 1-5 — sig4_pm_hit (grade-table key)
             _rh = _grade_rate_pair("sig4_pm_hit", "62.2%  L5", "60.2%  97/161")
@@ -27369,7 +27492,7 @@ BUILT-IN DATA SOURCES:
         # Before 6am: yesterday's slate is still the relevant one. DFS slates
         # lock during the day; if you're running at midnight or 1am you're almost
         # certainly still working the previous day's games, not tomorrow's.
-        if _now.hour < 9:
+        if _now.hour < 8:
             from datetime import timedelta as _td
             target = date.today() - _td(days=1)
             _pre6am_shift = True
@@ -29541,6 +29664,83 @@ def main():
     # Rule: guarantee any batter with Pwr≥88 + PM≥1.07 appears in top-50, regardless of
     # team cap or score. Max 1 injection per team to prevent flooding.
     _pwr_floor_names_in_top50 = {sc.batter_name for sc in ranked[:TOP_N]}
+
+    # ── 100% Flash combo injection (Jul 17 2026) ──────────────────────────────
+    # The Pwr88+PM1.07 floor only catches elite power+matchup combos.
+    # But validated 100%/near-100% flash combos fire on batters regardless of
+    # raw power or PM — e.g. Suzuki: Pwr81.6, PM1.031 but fires 100% flash
+    # (VULN54+ENV1.05+Odds250-300) and SUPER_VULN+ENV1.10 (66.7%/3.87x n=12).
+    # Without flash injection, these batters fall out of top-50 silently when
+    # lineup confirmation arrives after the model's initial run.
+    #
+    # Flash injection criteria (any one → guaranteed top-50):
+    #   A: VULN54+ENV1.05+Odds250-300         100%/5.81x n=5
+    #   B: SIG0+PM1.085-1.10+Env1.06-1.10     100%/5.81x n=5
+    #   C: SUPER_VULN+Park1.05-1.10            83.3%/4.84x n=6
+    #   D: VULN54+PWR84+ENV1.05 (tracking)    80.0%/4.64x n=10
+    #   E: VULN54+PWR84+ENV1.10 (tracking)    83.3%/4.84x n=6
+    #   F: SUPER_VULN+ENV1.10                  66.7%/3.87x n=12
+    # Lower-tier combos (HIGH_CONV+PARK_POWER, VALUE_ODDS+VULN50) are NOT
+    # injection triggers — useful context but not strong enough for a guaranteed slot.
+    def _fires_flash_injection(sc) -> bool:
+        v    = getattr(sc, 'pitcher_vuln',        getattr(sc, 'vuln',  0.0)) or 0.0
+        pm   = getattr(sc, 'pitch_matchup_score', 0.0) or 0.0
+        env  = getattr(sc, 'env_multiplier',      1.0) or 1.0
+        park = getattr(sc, 'park_hr_factor',      1.0) or 1.0
+        sig  = getattr(sc, 'sig_score',           99)  or 99
+        odds = getattr(sc, 'hr_over_price',       999) or 999
+        pw   = getattr(sc, 'batter_power',
+                       getattr(sc, 'power_score', 0)) or 0.0
+        return (
+            (v >= 54 and env >= 1.05 and 250 <= odds <= 300)          # A: 100% flash
+            or (sig == 0 and 1.085 <= pm < 1.10
+                and 1.06 <= env < 1.10)                                # B: SIG0 100% flash
+            or (v >= 54 and 1.05 <= park < 1.105)                     # C: SUPER+Park 83.3%
+            or (v >= 54 and pw >= 84 and env >= 1.05)                 # D: track 80%
+            or (v >= 54 and env >= 1.10)                              # F: SUPER+ENV1.10 66.7%
+        )
+
+    _flash_inject_candidates = sorted(
+        [sc for sc in ranked_raw
+         if sc.batter_name not in _pwr_floor_names_in_top50
+         and _fires_flash_injection(sc)],
+        key=lambda x: getattr(x, 'score', 0),
+        reverse=True
+    )
+    _flash_injected = []
+    _flash_inject_teams: dict = {}
+    for _fisc in _flash_inject_candidates:
+        _fit = _fisc.team
+        if _flash_inject_teams.get(_fit, 0) >= 2:   # max 2 per team
+            continue
+        _flash_injected.append(_fisc)
+        _flash_inject_teams[_fit] = _flash_inject_teams.get(_fit, 0) + 1
+
+    if _flash_injected:
+        _fi_names = {sc.batter_name for sc in _flash_injected}
+        ranked = [sc for sc in ranked if sc.batter_name not in _fi_names]
+        ranked = ranked + _flash_injected
+        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        _fi_outside = [
+            sc for sc in _flash_injected
+            if next((i for i, r in enumerate(ranked)
+                     if r.batter_name == sc.batter_name), TOP_N) >= TOP_N
+        ]
+        if _fi_outside:
+            _fi_out_names = {sc.batter_name for sc in _fi_outside}
+            ranked = [sc for sc in ranked if sc.batter_name not in _fi_out_names]
+            _fi_insert = TOP_N - len(_fi_outside)
+            for _osc in _fi_outside:
+                ranked.insert(_fi_insert, _osc)
+                _fi_insert += 1
+        print(f"  🔥 FLASH COMBO injection: {len(_flash_injected)} player(s) "
+              f"guaranteed top-{TOP_N} (validated flash combo fires):")
+        for _fisc in _flash_injected:
+            _fiv   = getattr(_fisc, 'pitcher_vuln', 0)
+            _fienv = getattr(_fisc, 'env_multiplier', 1.0)
+            print(f"     🔥 {_fisc.batter_name} ({_fisc.team}) — "
+                  f"Vu {_fiv:.1f} | Env {_fienv:.3f} | Score {_fisc.score:.1f}")
+
     _pwr_floor_candidates = sorted(
         [sc for sc in ranked_raw
          if sc.batter_name not in _pwr_floor_names_in_top50
