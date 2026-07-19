@@ -5,13 +5,13 @@ LAD @ NYY,Yankee Stadium,84°F,12mph,In/X,1.12,55ft,Open,9.0,4.5,4.5,-7.3%,N/A,o
 LAD @ NYY,Yankee Stadium,84°F,12mph,In/X,1.12,55ft,Open,9.0,4.5,4.5,-7.3%,N/A,open-meteo,1.000x,PropLine
 TB @ BOS,Fenway Park,79°F,12mph,In/X,1.06,20ft,Open,8.2,4.3,3.9,-7.5%,N/A,FantasyLabs,1.000x,FL
 NYM @ PHI,Citizens Bank Park,82°F,7mph,In/X,1.14,40ft,Open,8.7,4.1,4.6,-4.1%,N/A,FantasyLabs,1.000x,FL
-TEX @ ATL,Truist Park,90°F,5mph,In/X,0.98,1050ft,Open,8.8,4.3,4.5,-0.8%,N/A,FantasyLabs,1.000x,FL
-PIT @ CLE,Progressive Field,76°F,8mph,In/X,0.97,653ft,Open,7.2,3.5,3.7,-5.1%,N/A,FantasyLabs,1.000x,FL
-BAL @ HOU,Minute Maid Park,72°F,0mph,In/X,0.99,43ft,Dome,8.7,4.5,4.2,N/A,N/A,dome,1.000x,FL
+TEX @ ATL,Truist Park,90°F,5mph,In/X,0.98,1050ft,Open,8.7,4.2,4.5,-0.8%,N/A,FantasyLabs,1.000x,FL
+PIT @ CLE,Progressive Field,76°F,8mph,In/X,0.97,653ft,Open,7.2,3.6,3.6,-5.1%,N/A,FantasyLabs,1.000x,FL
+BAL @ HOU,Minute Maid Park,72°F,0mph,In/X,0.99,43ft,Dome,8.8,4.5,4.3,N/A,N/A,dome,1.000x,FL
 SD @ KC,Kauffman Stadium,91°F,3mph,In/X,0.91,750ft,Open,10.3,5.4,4.9,+0.9%,N/A,FantasyLabs,1.000x,FL
 MIA @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,8.2,4.3,3.9,N/A,N/A,dome,1.000x,FL
 MIN @ CHC,Wrigley Field,78°F,8mph,In/X,1.03,595ft,Open,7.699999999999999,4.3,3.4,-4.5%,N/A,FantasyLabs,1.000x,FL
-CIN @ COL,Coors Field,96°F,6mph,In/X,1.38,5280ft,Open,11.2,5.1,6.1,-1.5%,+2.3%,FantasyLabs,1.000x,FL
+CIN @ COL,Coors Field,96°F,6mph,In/X,1.38,5280ft,Open,11.3,5.0,6.3,-1.5%,+2.3%,FantasyLabs,1.000x,FL
 WSH @ ATH,Sutter Health Park,78°F,10mph,In/X,0.97,25ft,Open,9.0,4.5,4.5,-6.0%,N/A,open-meteo,1.000x,PropLine
 DET @ LAA,Angel Stadium,72°F,6mph,In/X,1.04,160ft,Open,9.0,4.5,4.5,-4.5%,N/A,open-meteo,1.000x,PropLine
 SF @ SEA,T-Mobile Park,69°F,7mph,Out,0.92,20ft,Open,9.0,4.5,4.5,+5.1%,N/A,open-meteo,1.000x,PropLine
