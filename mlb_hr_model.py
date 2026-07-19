@@ -15390,6 +15390,63 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     if _env_sweet_mid_score:
         _ranking_score *= 1.04   # +4%: Env1.05-1.10 + Sc55-60 sweet spot
 
+    # ── Jul 18 2026: COLD BAT HR BOOST ──────────────────────────────────────────
+    # Post-mortem (Jul 17-18, first two slates post-ASG):
+    #   Jul 17: 2/3 HR getters were cold bats (HS<40)
+    #   Jul 18: 4/4 HR getters were cold bats (Harris HS10, Schwarber HS3, Devers HS29, Pederson HS—)
+    # Across both slates: 6/7 HR getters (86%) were cold bats (HS<40 or no HS data).
+    # This contradicts the pre-ASG assumption that high HS = better HR candidate.
+    # Mechanism: cold bats post-ASB reflect pre-break form, not a genuine decline.
+    # They reset alongside everyone else while "hot" bats (high HS) carry over
+    # momentum that doesn't sustain across the break.
+    #
+    # Cold bat HR boost fires when:
+    #   (a) HitScore is cold (HS < 40 or HS is 0/None) — genuinely cold bat
+    #   (b) A structural HR signal is present (flash combo proxy, NUCLEAR-level PM/Pwr, or PRIME MATCH)
+    #   (c) Pitcher has meaningful vulnerability (Vuln ≥ 42) — not a genuinely elite arm
+    # This ensures we're boosting cold bats facing exposed pitchers, not random longshots.
+    #
+    # Finding 3 (Devers SHARP LINE anomaly): SHARP LINE + cold bat HRd even in suppressive
+    # env (0.888) vs non-vulnerable pitcher (Vu39.3). Sharp money override is confirmed as
+    # standalone HR signal regardless of env/vuln. Separate boost for SLM+cold bat.
+    #
+    # Boost tiers:
+    #   SLM + cold bat:                  +8% — sharp money confirmed on cold bat (strongest)
+    #   Cold bat + qualifying HR signal: +6% — structural HR signal on cold bat
+    #   Cold bat alone (no signal):      no boost — don't blindly boost all cold bats
+    _hit_score_rs   = _hit_score or 0.0   # _hit_score already in scope from line 16374
+    _is_cold_bat_hr = 0 < _hit_score_rs < 40 or _hit_score_rs == 0
+    _vuln_rs        = getattr(batter, 'pitcher_vuln', 0.0) or 0.0
+    _has_slm_rs     = getattr(batter, 'has_sharp_line_move', False)
+    _bp_score_rs    = batter_power_score(batter)   # compute here — used again at line 16455
+
+    # Qualifying HR structural signal: PM≥1.04 + Pwr≥82 (NUCLEAR-level) or PRIME MATCH active
+    _cold_bat_hr_signal = (
+        (pm >= 1.04 and _bp_score_rs >= 82.0)   # NUCLEAR-level matchup + power
+        or _ptm_conv_bonus >= 9.0                # PRIME MATCH active (clean or 1-flag)
+        or _pitch_edge_bonus >= 4.0              # confirmed pitch-specific edge
+    )
+    _cold_bat_vuln_ok = _vuln_rs >= 42.0    # pitcher has some exposure
+
+    if _is_cold_bat_hr and _has_slm_rs:
+        # Finding 3: SHARP LINE + cold bat override — confirmed by Devers (Jul 18)
+        _ranking_score *= 1.08
+        _pre_notes.append(
+            f"❄️🏆 SHARP LINE + COLD BAT HR: HS={_hit_score_rs:.0f}<40 + sharp line move — "
+            f"Jul 18 validation: Devers (HS29, Env0.888, Vu39) HRd on SLM signal alone. "
+            f"Sharp money on cold bat overrides env/vuln suppressors. +8% ranking."
+        )
+    elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
+        # Finding 1: Cold bat + structural HR signal — post-ASG pattern
+        _ranking_score *= 1.06
+        _pre_notes.append(
+            f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
+            f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
+            f"post-ASG pattern: 6/7 HR getters across Jul17-18 were cold bats (86%). "
+            f"Cold bats reset post-break; hot HS bats carry over momentum that doesn't sustain. "
+            f"+6% ranking."
+        )
+
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
     # Score 66+ confirmed 1.03x baseline (p=0.492) — ranking penalty increased.
     if _score_above_66 and _pitch_edge_bonus < 2.0 and not _pm_ok:
@@ -19826,13 +19883,13 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # HIGH+Top3: still valid at rank 1-3 — cold bats (14 pts) still outrank this (8 pts).
         hit_pts = 8; hit_label = f"⭐ HIGH+Top3 HS {hs:.0f} Rk{rank} (51% validated — cold bats 1.07x outperform)"
     elif hs >= 47.0:
-        # Jul 17 2026: HS 47-60 confirmed DULL ZONE across 41 slates:
-        #   HS 50-54: 53.4% / 1.00x n=176 (barely base)
-        #   HS 55-59: 45.3% / 0.85x n=75  (WORST tier — below MID-HS DULL)
-        #   HS 60+:   50.0% / 0.93x n=30  (below cold bat 1.07x)
-        # Cold bat (HS<40): 54.9% / 1.02x n=585 — outperforms ALL tiers above 40.
-        # Base hit_pts for HS 47-60 reduced to ensure cold bats rank above.
-        # Only award positive pts when strong confirming signals present.
+        # Jul 18 2026 REVERSION: HS 47-60 extended dull zone was premature.
+        # Jul 17: HS 50-59 went 20% (prompted extension to 40-59).
+        # Jul 18: HS 50-59 went 71% (directly contradicted Jul 17 finding).
+        # RESTORED to original: HS 47+ Rank4+ is below baseline but NOT suppressed for 50-59.
+        # MID-HS DULL gate covers HS 40-49 only (validated 39 slates at 0.93x).
+        # HS 50-59 tracked separately with informational note only.
+        # Only award positive hit_pts when confirming signals present.
         _has_neg_hit = any(x in " ".join(str(n) for n in (sc.notes or [])).lower()
                            for x in ['k-danger','k-risk','k-warning','weak vs','below-avg vs',
                                      'ice cold','cold hitter'])
@@ -19994,40 +20051,38 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
         )
 
-    # ── Jul 10 2026: HS 40-59 DULL zone suppressor (extended Jul 17 2026) ──────
-    # Original finding (38-sl, Jul10): HS 40-49 = 59.4% hit / 0.93x
-    # Extended finding (41-sl, Jul17): FULL picture across 41 slates:
-    #   HS  1-9  (ICE COLD):  57.4% / 1.07x  n=183  ← OUTPERFORMS high-HS
-    #   HS 30-39 (SWEET★):    58.0% / 1.08x  n=119  ← OUTPERFORMS high-HS
-    #   HS <40   (cold bat):  54.9% / 1.02x  n=585  ← at/above base
-    #   HS 40-49 (MID-HS):   ~51%  / 0.95x         ← BELOW cold bat
-    #   HS 50-54:             53.4% / 1.00x  n=176  ← barely at base
-    #   HS 55-59:             45.3% / 0.85x  n=75   ← WORST tier
-    #   HS 50-59:             51.0% / 0.95x  n=251  ← below cold bat
-    #   HS 60+:               50.0% / 0.93x  n=30   ← below cold bat
-    # Conclusion: EVERY HS tier above 40 underperforms cold bats.
-    # HS 55-59 is the single worst tier (0.85x) — worse than MID-HS DULL.
-    # Extended gate: HS 40-59 = "DULL ZONE" (0.85-0.95x), deprioritize.
-    # Jul 17 post-ASG first slate: HS 50-59 went 20%/0.45x (4 of our 5 hit misses)
-    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 60.0
+    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ──────────────────────────────
+    # Validated finding (39 slates, n=1916): HS 40-49 = 59.4% hit / 0.93x
+    # WORSE than cold bat HS<40 (57.4% / 1.07x) — confirmed across 41 slates Jul 17-18.
+    #
+    # Jul 17 2026: Extended gate to HS 40-59 based on one anomalous slate (HS50-59 went
+    # 20%/0.45x on the first post-ASG day). That extension was PREMATURE.
+    # Jul 18 2026: HS 40-59 went 71% for hits (5/7) — directly contradicted the extension.
+    # REVERTED: Gate restored to HS 40-49 only (the 39-slate validated range).
+    # HS 50-59 is now TRACKED SEPARATELY — do not suppress until 5-10 more slates confirm.
+    #
+    # Separate tracking note for HS 50-59 added below (informational only, no suppression).
+    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0
     if _mid_hs_dull_fires:
-        if 55.0 <= _hs_val_wk < 60.0:
-            _dull_rate = "45.3% / 0.85x (n=75) — WORST tier, worse than cold bat"
-            _dull_zone = "HS 55-59"
-        elif 50.0 <= _hs_val_wk < 55.0:
-            _dull_rate = "53.4% / 1.00x (n=176) — barely at base, cold bat (1.07x) outperforms"
-            _dull_zone = "HS 50-54"
-        elif 45.0 <= _hs_val_wk < 50.0:
-            _dull_rate = "~51% / 0.95x — below cold bat (1.07x)"
-            _dull_zone = "HS 45-49"
-        else:
-            _dull_rate = "59.4% / 0.93x (n=443, 38-sl Jul10) — below cold bat (1.07x)"
-            _dull_zone = "HS 40-44"
+        _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
         flags.append(
-            f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f} — "
+            f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
             f"backtest {_dull_rate}. "
             f"Cold bats (HS<40) outperform this zone. "
             f"Deprioritize vs HS<40 or SCREAM HIT picks at same tier."
+        )
+
+    # ── HS 50-59 TRACKING (not yet suppressed — Jul 18 reverted the extension) ──────
+    # Jul 17: HS 50-59 went 20%/0.45x (prompted premature extension to 40-59 gate)
+    # Jul 18: HS 50-59 went 71%/2.04x (directly contradicted Jul 17 finding)
+    # Two-slate variance — 39-slate backtest shows HS 50-59 = 51%/0.95x (mildly below base).
+    # Track for 5-10 more slates before deciding. Informational note only.
+    _hs_50_59_tracking = _hs_val_wk > 0 and 50.0 <= _hs_val_wk < 60.0
+    if _hs_50_59_tracking:
+        flags.append(
+            f"📊 HS 50-59 TRACKING: HS={_hs_val_wk:.0f} — "
+            f"39-sl backtest: 51%/0.95x (mildly below base). "
+            f"NOT suppressed — Jul17/18 conflicted (20% vs 71%). Track 5-10 more slates."
         )
 
     # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
@@ -20041,7 +20096,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
     _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
     _stacked_hit_flags = (
-        _mid_hs_dull_fires                          # HS 40-59 dull zone (extended Jul 17)
+        _mid_hs_dull_fires                          # HS 40-49 dull zone only (reverted Jul 18)
         and (_pm_weak_zone_fires or _pm_above_sweet)
     )
     if _stacked_hit_flags:
