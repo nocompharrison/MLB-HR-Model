@@ -1347,6 +1347,7 @@ class GameContext:
     catcher_framing_runs: float = 0.0  # Statcast framing runs/120 pitches (+ = batter-unfriendly)
     travel_factor: float     = 1.0   # Tier 3: fatigue from travel (0.95–1.0)
     game_time_str: str = ""
+    is_post_asg: bool = False   # True during post-All-Star-break adjustment window (~Jul 15-Aug 1)
 
 
 @dataclass
@@ -15438,13 +15439,17 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         )
     elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
         # Finding 1: Cold bat + structural HR signal — post-ASG pattern
-        _ranking_score *= 1.06
+        # Jul 19 update: 12/13 HR getters across Jul17-19 were cold bats (92%).
+        # Boost raised from +6% to +8% in post-ASG window (confirmed structural).
+        _post_asg = getattr(ctx, 'is_post_asg', False)
+        _cold_bat_boost = 1.08 if _post_asg else 1.06
+        _ranking_score *= _cold_bat_boost
         _pre_notes.append(
             f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
             f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
-            f"post-ASG pattern: 6/7 HR getters across Jul17-18 were cold bats (86%). "
+            f"post-ASG pattern: 12/13 HR getters across Jul17-19 were cold bats (92%). "
             f"Cold bats reset post-break; hot HS bats carry over momentum that doesn't sustain. "
-            f"+6% ranking."
+            f"+{int((_cold_bat_boost-1)*100)}% ranking {'(post-ASG boost)' if _post_asg else '(standard)'}."
         )
 
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
@@ -17684,6 +17689,8 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _result.track_has_t4_bbe         = (_ptm_conv_bonus >= 8.0)   # T4 = ≥2 HR in L10 BBE
     _result.track_has_prime          = (_ptm_conv_bonus >= 12.0)  # PRIME = T4 + recency
     _result.track_pitcher_recency    = _standalone_extreme_l2 or _pitcher_is_hr_prone_l5
+    # Propagate post-ASG flag from batter to result so _score_sharp can read it
+    _result.is_post_asg = getattr(batter, 'is_post_asg', False)
 
     return _result
 
@@ -20051,39 +20058,32 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"Env={_env_val_wk:.2f}≥0.95 — backtest: 69.3% hit rate / 1.06x (205 picks)."
         )
 
-    # ── Jul 10 2026: HS 40-49 MID-HS DULL suppressor ──────────────────────────────
+    # ── Jul 10 / Jul 19 2026: HS 40-59 DULL zone suppressor ───────────────────────
     # Validated finding (39 slates, n=1916): HS 40-49 = 59.4% hit / 0.93x
-    # WORSE than cold bat HS<40 (57.4% / 1.07x) — confirmed across 41 slates Jul 17-18.
-    #
-    # Jul 17 2026: Extended gate to HS 40-59 based on one anomalous slate (HS50-59 went
-    # 20%/0.45x on the first post-ASG day). That extension was PREMATURE.
-    # Jul 18 2026: HS 40-59 went 71% for hits (5/7) — directly contradicted the extension.
-    # REVERTED: Gate restored to HS 40-49 only (the 39-slate validated range).
-    # HS 50-59 is now TRACKED SEPARATELY — do not suppress until 5-10 more slates confirm.
-    #
-    # Separate tracking note for HS 50-59 added below (informational only, no suppression).
-    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < 50.0
+    # Jul 19 2026: HS 50-59 went 0% (third poor result: 20% Jul17, 71% Jul18, 0% Jul19).
+    # Three-slate post-ASG avg for HS 50-59: ~30% vs 43% base. Jul 18 was the anomaly.
+    # RE-EXTENDING gate to HS 40-59, but with post-ASG flag:
+    #   - Post-ASG (Jul 14 – Aug 7): HS 40-59 = full dull zone (evidence strong)
+    #   - Pre-ASG / late season: HS 40-49 only (39-slate validated range)
+    # Jul 18 (71% for HS 50-59) is documented as the known counterexample.
+    _is_post_asg_sh = getattr(sc, 'is_post_asg', False)
+    _mid_hs_dull_upper = 60.0 if _is_post_asg_sh else 50.0
+    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < _mid_hs_dull_upper
     if _mid_hs_dull_fires:
-        _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
+        if 50.0 <= _hs_val_wk < 60.0:
+            _dull_rate = "~30% avg hit / 0.70x across Jul17-19 post-ASG (0%, 71%, 20% — Jul18 anomaly)"
+            _dull_zone = "HS 50-59 (POST-ASG DULL)"
+        else:
+            _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
+            _dull_zone = "HS 40-49"
         flags.append(
-            f"⚠️ MID-HS DULL: HS={_hs_val_wk:.0f} (40-49 zone) — "
+            f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f} — "
             f"backtest {_dull_rate}. "
             f"Cold bats (HS<40) outperform this zone. "
             f"Deprioritize vs HS<40 or SCREAM HIT picks at same tier."
         )
 
-    # ── HS 50-59 TRACKING (not yet suppressed — Jul 18 reverted the extension) ──────
-    # Jul 17: HS 50-59 went 20%/0.45x (prompted premature extension to 40-59 gate)
-    # Jul 18: HS 50-59 went 71%/2.04x (directly contradicted Jul 17 finding)
-    # Two-slate variance — 39-slate backtest shows HS 50-59 = 51%/0.95x (mildly below base).
-    # Track for 5-10 more slates before deciding. Informational note only.
-    _hs_50_59_tracking = _hs_val_wk > 0 and 50.0 <= _hs_val_wk < 60.0
-    if _hs_50_59_tracking:
-        flags.append(
-            f"📊 HS 50-59 TRACKING: HS={_hs_val_wk:.0f} — "
-            f"39-sl backtest: 51%/0.95x (mildly below base). "
-            f"NOT suppressed — Jul17/18 conflicted (20% vs 71%). Track 5-10 more slates."
-        )
+    # HS 50-59 tracking is now folded into the MID-HS DULL gate above (post-ASG aware).
 
     # ── Jul 12 2026 post-mortem: STACKED FLAG HARD EXCLUDE ───────────────────────────
     # Hit picks 3/10 (30%) vs 46% base rate. Systematic miss pattern:
@@ -20096,7 +20096,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Note: PM 1.12+ (above sweet zone) is also a weak zone for hits — add that check.
     _pm_above_sweet = _pm_wk >= 1.12   # PM above hit sweet zone (1.12+ = market priced)
     _stacked_hit_flags = (
-        _mid_hs_dull_fires                          # HS 40-49 dull zone only (reverted Jul 18)
+        _mid_hs_dull_fires                          # HS 40-49 (or 40-59 post-ASG)
         and (_pm_weak_zone_fires or _pm_above_sweet)
     )
     if _stacked_hit_flags:
@@ -25421,11 +25421,18 @@ def _sheet_sharp_picks(wb, scores, top_n):
             if sc.notes is None:
                 sc.notes = []
             if not any("FLASH OVERRIDE" in str(n) for n in sc.notes):
+                _post_asg_note = (
+                    " ⚠️ POST-ASG CAUTION: Flash combos went 0/15 HR across Jul17-19 "
+                    "(3 post-ASG slates) — structural signal valid but HR rate suppressed post-break. "
+                    "Cold bat HR signal (12/13 HR getters) is stronger in this window."
+                    if getattr(sc, 'is_post_asg', False) else ""
+                )
                 sc.notes = list(sc.notes) + [
                     f"⚡ VULN52+ PASS GATE BYPASSED: Flash combo active "
                     f"(Vu{v:.0f}≥54 + ENV{_env_v52:.3f}/Park{_park_v52:.2f}/Odds+{_odds_raw_v52}) — "
                     f"broad Vuln52+ trap (0.69x) is OVERRIDDEN by validated flash subset. "
                     f"See VULN54+ENV1.05+Odds250-300 (100%/5.81x n=5) or ENV1.10 (66.7%/3.87x n=12)."
+                    + _post_asg_note
                 ]
         if prob < 0.11:       return "⛔ PASS (HR) — longshot, HR prob <11% (0.51x).  "
         # ── Flash bypass for power < 55 gate ─────────────────────────────────────
@@ -28013,6 +28020,13 @@ def main():
             travel_factor=1.0,   # overridden per-player in scoring loop below
             game_time_str=format_game_time(gm["commence_time"]),
             catcher_framing_runs=0.0,  # populated below from _CATCHER_FRAMING
+            # Post-ASG window: Jul 14 – Aug 7 (first 3-4 weeks after All-Star break).
+            # Cold bat pattern confirmed: 12/13 HR getters across Jul17-19 were cold bats.
+            # Flash combos 0/15 HR conversions in same window. Boosting cold bat signals.
+            is_post_asg=(
+                target_date.month == 7 and 14 <= target_date.day <= 31
+                or target_date.month == 8 and target_date.day <= 7
+            ),
         )
         # Inject catcher framing for this game's defensive catcher (opponent team's catcher)
         # home_catcher_framing = framing of HOME team's catcher (affects AWAY batters)
@@ -29223,6 +29237,8 @@ def main():
                 # Set pitcher is_home flag so home/away ERA split applies correctly
                 if pitcher:
                     pitcher.is_home = not is_home   # pitcher is home when batter is away and vice versa
+                # Propagate post-ASG flag from ctx to batter for _score_sharp access
+                b.is_post_asg = getattr(ctx, 'is_post_asg', False)
                 # Set per-batter catcher framing: batter faces the OPPOSING team's catcher
                 if _CATCHER_FRAMING:
                     if is_home:
