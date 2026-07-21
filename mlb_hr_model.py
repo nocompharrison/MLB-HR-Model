@@ -15439,17 +15439,18 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         )
     elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
         # Finding 1: Cold bat + structural HR signal — post-ASG pattern
-        # Jul 19 update: 12/13 HR getters across Jul17-19 were cold bats (92%).
-        # Boost raised from +6% to +8% in post-ASG window (confirmed structural).
+        # Jul 20 2026: Reduce post-ASG cold bat boost from +8% back to +6%.
+        # +8% was implemented after Jul 18-19 showed 100% cold bat HR rate.
+        # Jul 20: cold bats 63% of HR getters (vs 100% prior two slates) — dominance fading.
+        # HR rate returned to base (16.3%). +6% is the historically validated level (57.4%/1.07x).
         _post_asg = getattr(ctx, 'is_post_asg', False)
-        _cold_bat_boost = 1.08 if _post_asg else 1.06
+        _cold_bat_boost = 1.06   # unified at +6% — post-ASG +8% premium removed Jul 20
         _ranking_score *= _cold_bat_boost
         _pre_notes.append(
             f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
             f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
-            f"post-ASG pattern: 12/13 HR getters across Jul17-19 were cold bats (92%). "
-            f"Cold bats reset post-break; hot HS bats carry over momentum that doesn't sustain. "
-            f"+{int((_cold_bat_boost-1)*100)}% ranking {'(post-ASG boost)' if _post_asg else '(standard)'}."
+            f"post-ASG pattern: cold bats produced 86% of HR getters Jul17-19; "
+            f"Jul20 normalizing (63%) — boost unified at +6% (post-ASG premium removed)."
         )
 
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
@@ -20060,22 +20061,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     # ── Jul 10 / Jul 19 2026: HS 40-59 DULL zone suppressor ───────────────────────
     # Validated finding (39 slates, n=1916): HS 40-49 = 59.4% hit / 0.93x
-    # Jul 19 2026: HS 50-59 went 0% (third poor result: 20% Jul17, 71% Jul18, 0% Jul19).
-    # Three-slate post-ASG avg for HS 50-59: ~30% vs 43% base. Jul 18 was the anomaly.
-    # RE-EXTENDING gate to HS 40-59, but with post-ASG flag:
-    #   - Post-ASG (Jul 14 – Aug 7): HS 40-59 = full dull zone (evidence strong)
-    #   - Pre-ASG / late season: HS 40-49 only (39-slate validated range)
-    # Jul 18 (71% for HS 50-59) is documented as the known counterexample.
+    # Jul 20 2026: Revert post-ASG MID-HS DULL extension back to HS 40-49 only.
+    # HS 50-59 four-slate post-ASG record: 20% (Jul17), 71% (Jul18), 0% (Jul19), 100% (Jul20).
+    # That's pure noise — not a suppressible signal. Extension caused active harm on good days.
+    # 39-slate pre-ASG backtest (51%/0.95x) remains the ground truth for HS 50-59.
     _is_post_asg_sh = getattr(sc, 'is_post_asg', False)
-    _mid_hs_dull_upper = 60.0 if _is_post_asg_sh else 50.0
+    _mid_hs_dull_upper = 50.0   # post-ASG extension removed Jul 20 — HS 40-49 only
     _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < _mid_hs_dull_upper
     if _mid_hs_dull_fires:
-        if 50.0 <= _hs_val_wk < 60.0:
-            _dull_rate = "~30% avg hit / 0.70x across Jul17-19 post-ASG (0%, 71%, 20% — Jul18 anomaly)"
-            _dull_zone = "HS 50-59 (POST-ASG DULL)"
-        else:
-            _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
-            _dull_zone = "HS 40-49"
+        _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
+        _dull_zone = "HS 40-49"
         flags.append(
             f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f} — "
             f"backtest {_dull_rate}. "
