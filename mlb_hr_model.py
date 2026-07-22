@@ -1632,6 +1632,45 @@ def inject_fl_lineups(mlb_games: list, fl_players: list, fl_lookup: dict) -> lis
                 if away_proj:
                     gm["away_lineup"] = away_proj
                     print(f"  📋 Partial: {away} projected ({len(away_proj)} players) — {home} confirmed")
+            # ── Jul 22 2026: Gap-fill confirmed lineups from FL ─────────────────
+            # MLB API sometimes returns partial confirmed lineups (e.g. 8/9 players)
+            # leaving players who ARE in FL with valid batting orders invisible to the model.
+            # Fix: after tagging confirmed entries, check FL for any batter with a valid
+            # batting order whose name doesn't appear in the confirmed lineup, and append
+            # them as "projected" so they still get scored. This surfaces players like Ramos
+            # who are confirmed in the FanDuel pool (batting 3rd in FL) but missing from
+            # the MLB API lineup response.
+            pitcher_pos = {"SP", "RP", "P"}
+            for lu_key, team in (("home_lineup", home), ("away_lineup", away)):
+                existing_lu = gm.get(lu_key, [])
+                if not existing_lu:
+                    continue  # fully empty → already handled above
+                # Build normalised name set of who's already in the lineup
+                _existing_norm = {
+                    _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(e[0]))
+                            .encode("ascii", "ignore").decode().lower().strip())
+                    for e in existing_lu
+                }
+                # Find FL players for this team with a valid batting order not in lineup
+                _gap_players = []
+                for p in fl_players:
+                    if p.get("team") != team:
+                        continue
+                    order = p.get("lineup_spot", 0)
+                    if not order or order < 1 or order > 9:
+                        continue
+                    raw_pos = str(p.get("pos", "")).split("\n")[0].strip()
+                    if raw_pos in pitcher_pos:
+                        continue
+                    pname_norm = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(p["name"]))
+                                         .encode("ascii", "ignore").decode().lower().strip())
+                    if pname_norm not in _existing_norm:
+                        _gap_players.append((p["name"], raw_pos, order, p.get("hand", "R"), "projected"))
+                if _gap_players:
+                    gm[lu_key] = existing_lu + _gap_players
+                    _names = [g[0] for g in _gap_players]
+                    print(f"  📋 FL gap-fill ({team}): {len(_gap_players)} player(s) in FL but missing "
+                          f"from MLB API confirmed lineup → added as projected: {_names}")
         else:
             # Inject FL projected lineups for both sides
             home_proj = build_fl_projected_lineup(fl_players, home, away)
