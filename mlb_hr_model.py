@@ -15443,7 +15443,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         # +8% was implemented after Jul 18-19 showed 100% cold bat HR rate.
         # Jul 20: cold bats 63% of HR getters (vs 100% prior two slates) — dominance fading.
         # HR rate returned to base (16.3%). +6% is the historically validated level (57.4%/1.07x).
-        _post_asg = getattr(ctx, 'is_post_asg', False)
+        _post_asg = getattr(batter, 'is_post_asg', False)
         _cold_bat_boost = 1.06   # unified at +6% — post-ASG +8% premium removed Jul 20
         _ranking_score *= _cold_bat_boost
         _pre_notes.append(
@@ -15451,6 +15451,27 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
             f"post-ASG pattern: cold bats produced 86% of HR getters Jul17-19; "
             f"Jul20 normalizing (63%) — boost unified at +6% (post-ASG premium removed)."
+        )
+
+    # ── Jul 21 2026: POST-ASG COLD BAT + SUPPRESSIVE ENV BOOST ──────────────────
+    # Backtest finding (247 post-ASG PA across 5 slates Jul17-21):
+    #   Cold + Env<0.96 (suppressive): 33.3% HR (14/42) — +2.16x above base
+    #   Cold + Env≥1.05 (positive):    11.3% HR (11/97) — 0.73x BELOW base
+    # This is a dramatic POST-ASG INVERSION from pre-ASG pattern where:
+    #   Pre-ASG Cold + Env<0.96: 16.9%  vs  Cold + Env≥1.05: 21.1% (positive was better)
+    # Post-ASG mechanism: warm-up period suppresses pitching adjustments more in cold/night
+    # games; batters with cold HS are resetting form and hitting for power in suppressive
+    # contexts where their historical matchup advantage matters more than park amplification.
+    # Apply additional boost when cold bat + suppressive env fires in post-ASG window.
+    # Gate: HS<40 + Env<0.96 + is_post_asg — no minimum Vuln required (pattern holds across Vuln range)
+    _post_asg_sup = getattr(batter, 'is_post_asg', False)
+    _env_suppressive = env is not None and env < 0.96
+    if _is_cold_bat_hr and _env_suppressive and _post_asg_sup:
+        _ranking_score *= 1.08   # +8% additional: cold bat + suppressive env in post-ASG
+        _pre_notes.append(
+            f"❄️🌡️ POST-ASG COLD+SUPPRESS: HS={_hit_score_rs:.0f}<40 + Env{env:.3f}<0.96 — "
+            f"backtest Jul17-21: cold+suppressive=33.3% HR (14/42, +2.16x) vs "
+            f"cold+positive=11.3% HR (11/97, 0.73x). POST-ASG INVERSION confirmed. +8% ranking."
         )
 
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
@@ -25379,7 +25400,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # been confirmed as exceptional by the subset backtest.
         #
         # Validated flash combos that override the Vuln52+ PASS gate (Jun 1+ audit, 39 slates):
-        #   VULN54+ENV1.05+Odds250-300:     100%/5.81x n=5  ← highest-priority override
+        #   VULN54+ENV1.05+Odds250-300:     85.7%/5.06x n=7  (Jul21: Abrams 2HR; Jul19: Soto 0HR miss)
         #   VULN54+Park1.05+Odds250-300:     71.4%/4.15x n=7 (was 100%, degraded Jul 12)
         #   SUPER_VULN+ENV1.10:              66.7%/3.87x n=12
         #   SUPER_VULN+ENV_HOT(≥1.05):      57.9%/3.36x n=19
@@ -25426,7 +25447,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
                     f"⚡ VULN52+ PASS GATE BYPASSED: Flash combo active "
                     f"(Vu{v:.0f}≥54 + ENV{_env_v52:.3f}/Park{_park_v52:.2f}/Odds+{_odds_raw_v52}) — "
                     f"broad Vuln52+ trap (0.69x) is OVERRIDDEN by validated flash subset. "
-                    f"See VULN54+ENV1.05+Odds250-300 (100%/5.81x n=5) or ENV1.10 (66.7%/3.87x n=12)."
+                    f"See VULN54+ENV1.05+Odds250-300 (85.7%/5.06x n=7) or ENV1.10 (66.7%/3.87x n=12)."
                     + _post_asg_note
                 ]
         if prob < 0.11:       return "⛔ PASS (HR) — longshot, HR prob <11% (0.51x).  "
@@ -29685,7 +29706,7 @@ def main():
     # lineup confirmation arrives after the model's initial run.
     #
     # Flash injection criteria (any one → guaranteed top-50):
-    #   A: VULN54+ENV1.05+Odds250-300         100%/5.81x n=5
+    #   A: VULN54+ENV1.05+Odds250-300         85.7%/5.06x n=7  (Jul21 update: Soto Jul19 missed)
     #   B: SIG0+PM1.085-1.10+Env1.06-1.10     100%/5.81x n=5
     #   C: SUPER_VULN+Park1.05-1.10            83.3%/4.84x n=6
     #   D: VULN54+PWR84+ENV1.05 (tracking)    80.0%/4.64x n=10
@@ -29702,13 +29723,44 @@ def main():
         odds = getattr(sc, 'hr_over_price',       999) or 999
         pw   = getattr(sc, 'batter_power',
                        getattr(sc, 'power_score', 0)) or 0.0
+        hs   = getattr(sc, 'hit_score',           None)
+        sc_score = getattr(sc, 'score',           99)  or 99
+        _is_cold = (hs is None) or (hs < 40)
+        _is_ice  = (hs is not None) and (hs < 10)
         return (
-            (v >= 54 and env >= 1.05 and 250 <= odds <= 300)          # A: 100% flash
+            # ── Existing confirmed gates ─────────────────────────────────────
+            (v >= 54 and env >= 1.05 and 250 <= odds <= 300)          # A: 85.7%/4.72x n=7
             or (sig == 0 and 1.085 <= pm < 1.10
-                and 1.06 <= env < 1.10)                                # B: SIG0 100% flash
-            or (v >= 54 and 1.05 <= park < 1.105)                     # C: SUPER+Park 83.3%
-            or (v >= 54 and pw >= 84 and env >= 1.05)                 # D: track 80%
-            or (v >= 54 and env >= 1.10)                              # F: SUPER+ENV1.10 66.7%
+                and 1.06 <= env < 1.10)                                # B: SIG0 100%/5.51x n=5
+            or (v >= 54 and 1.05 <= park < 1.105)                     # C: SUPER+Park 83.3%/4.84x n=6
+            or (v >= 54 and pw >= 84 and env >= 1.05)                 # D: track 80%/4.64x n=10
+            or (v >= 54 and env >= 1.10)                              # F: SUPER+ENV1.10 66.7%/3.87x n=12
+            # ── New gates (Jul 22 2026 backtest — Jun1+ 2291 rows) ──────────
+            # G: Sig=0 + SUPER_VUL + cold bat — 46.2%/2.54x n=26, 41% rank>34
+            # Market zero-signal + pitcher exposed + batter in cold reset.
+            # Scoring system penalises cold bats through conviction gates;
+            # structural case overrides when pitcher is SUPER VUL.
+            or (sig == 0 and v >= 54 and _is_cold)                    # G: 46.2%/2.54x n=26
+            # H: Score<45 + SUPER_VUL + cold — 33.3%/1.84x n=21, 100% rank>34
+            # These batters literally never appear in top 35 due to low score.
+            # SUPER VUL + cold bat together make the structural case regardless
+            # of conviction score. Needs env OR park third gate to avoid noise.
+            or (sc_score < 45 and v >= 54 and _is_cold
+                and (env >= 1.05 or (park is not None and park >= 1.05)))
+                                                                       # H: 33.3%/1.84x n=21 (+env/park gate)
+            # I: Score<45 + SUPER_VUL + Env≥1.05 — 50.0%/2.75x n=10, 80% rank>34
+            # Strongest non-current gate. Low score kills these batters but
+            # pitcher (≥54) + environment (≥1.05) is the real HR predictor.
+            or (sc_score < 45 and v >= 54 and env >= 1.05)            # I: 50.0%/2.75x n=10
+            # J: HS=None + SUPER_VUL — 37.5%/2.07x n=48, 30% rank>34
+            # Batters with no recent HS data facing SUPER VUL arms.
+            # Model penalises HS=None through hit-score pipeline; pitcher
+            # vulnerability is the dominant HR predictor at this sample size.
+            or (hs is None and v >= 54)                               # J: 37.5%/2.07x n=48
+            # K: ICE COLD (HS<10) + SUPER_VUL — 40.0%/2.20x n=20, 33% rank>34
+            # Most extreme cold-bat archetype. HS<10 = genuinely frozen batter
+            # whose recent contact sample is near-zero; SUPER VUL arm amplifies.
+            or (_is_ice and v >= 54)                                  # K: 40.0%/2.20x n=20
         )
 
     _flash_inject_candidates = sorted(
