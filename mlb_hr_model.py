@@ -29813,7 +29813,7 @@ def main():
     _flash_inject_teams: dict = {}
     for _fisc in _flash_inject_candidates:
         _fit = _fisc.team
-        if _flash_inject_teams.get(_fit, 0) >= 2:   # max 2 per team
+        if _flash_inject_teams.get(_fit, 0) >= 3:   # max 3 per team (raised Jul 22: SUPER VUL games can have 3+ valid flash picks)
             continue
         _flash_injected.append(_fisc)
         _flash_inject_teams[_fit] = _flash_inject_teams.get(_fit, 0) + 1
@@ -29928,13 +29928,38 @@ def main():
     fl_tag = f" | {fl_count} players from FantasyLabs" if fl_count else ""
     # ── Startup version confirmation ───────────────────────────────────────
     print(f"  🔧 Model v{CACHE_VERSION}  |  Cap {MAX_TEAM_EXPOSURE}/team  |  Savant min=1  |  ERA fallback: ON")
+    # ── Jul 22 2026: Auto-resize output window to include ALL injected players ──
+    # Problem: four sequential injection systems (Marsh, Flash, PWR88, SUPER NUCLEAR)
+    # all insert into the same TOP_N=50 slots using ranked.insert(TOP_N-n, ...).
+    # Later injections displace earlier ones past position 50, silently losing them.
+    # Fix: compute effective window as the furthest position any injected player
+    # actually landed, so the output slice always includes every promised injection.
+    _all_injected_names = set()
+    for _inj_list in [
+        _marsh_injected,
+        _flash_injected    if '_flash_injected'    in locals() else [],
+        _pwr_floor_injected if '_pwr_floor_injected' in locals() else [],
+        _sn_injected       if '_sn_injected'       in locals() else [],
+    ]:
+        for _sc in _inj_list:
+            _all_injected_names.add(_sc.batter_name)
+    # Find furthest rank any injected player landed in the full ranked list
+    _max_inj_rank = TOP_N
+    for _idx, _sc in enumerate(ranked):
+        if _sc.batter_name in _all_injected_names:
+            _max_inj_rank = max(_max_inj_rank, _idx + 1)
+    EFFECTIVE_TOP_N = _max_inj_rank
+    if EFFECTIVE_TOP_N > TOP_N:
+        print(f"  📐 Output window auto-expanded: TOP_{TOP_N} → TOP_{EFFECTIVE_TOP_N} "
+              f"to include all injected players ({len(_all_injected_names)} unique injections)")
+
     sep2 = "=" * 68
     print(f"\n{sep2}")
-    print(f"  TOP {TOP_N} HR PICKS -- {date_str}{hist_note}")
+    print(f"  TOP {EFFECTIVE_TOP_N} HR PICKS -- {date_str}{hist_note}")
     print(sep2)
     print(f"  {'':4} {'Batter':<22} {'vs Pitcher':<20} {'Odds':>6} {'HR%':>7} {'Score':>7}")
     print("  " + "-" * 65)
-    for i, sc in enumerate(ranked[:TOP_N], 1):
+    for i, sc in enumerate(ranked[:EFFECTIVE_TOP_N], 1):
         medal = {1: "1st", 2: "2nd", 3: "3rd"}.get(i, f"  {i:2d}")
         odds  = sc.hr_odds_display if sc.hr_odds_display else "  N/A"
         status_tag = "📋" if sc.lineup_status == "projected" else "  "
