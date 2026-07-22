@@ -2,12 +2,12 @@
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
 PIT @ NYY,Yankee Stadium,84°F,11mph,Out,1.12,55ft,Open,9.8,5.6,4.2,+10.2%,N/A,FantasyLabs,1.012x,FL
 PIT @ NYY,Yankee Stadium,84°F,11mph,Out,1.12,55ft,Open,9.8,5.6,4.2,+10.2%,N/A,FantasyLabs,1.012x,FL
-BAL @ BOS,Fenway Park,72°F,7mph,Out,1.06,20ft,Open,9.8,5.4,4.4,+7.0%,N/A,FantasyLabs,1.012x,FL
-BAL @ BOS,Fenway Park,72°F,7mph,Out,1.06,20ft,Open,9.8,5.4,4.4,+7.0%,N/A,FantasyLabs,1.012x,FL
-SF @ KC,Kauffman Stadium,82°F,9mph,In/X,0.91,750ft,Open,8.8,4.2,4.6,-5.5%,N/A,FantasyLabs,1.000x,FL
-NYM @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,7.699999999999999,4.1,3.6,N/A,N/A,dome,1.006x,FL
+BAL @ BOS,Fenway Park,72°F,7mph,Out,1.06,20ft,Open,9.7,5.4,4.3,+7.0%,N/A,FantasyLabs,1.012x,FL
+BAL @ BOS,Fenway Park,72°F,7mph,Out,1.06,20ft,Open,9.7,5.4,4.3,+7.0%,N/A,FantasyLabs,1.012x,FL
+SF @ KC,Kauffman Stadium,82°F,9mph,In/X,0.91,750ft,Open,8.7,4.1,4.6,-5.5%,N/A,FantasyLabs,1.000x,FL
+NYM @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,7.7,4.2,3.5,N/A,N/A,dome,1.006x,FL
 WSH @ COL,Coors Field,94°F,7mph,In/X,1.38,5280ft,Open,11.8,5.5,6.3,-3.0%,+1.8%,FantasyLabs,1.000x,FL
-ATH @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,9.2,4.8,4.4,N/A,N/A,dome,1.000x,FL
+ATH @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,8.7,4.6,4.1,N/A,N/A,dome,1.000x,FL
 CIN @ SEA,T-Mobile Park,90°F,8mph,In/X,0.92,20ft,Open,8.2,4.5,3.7,-3.9%,N/A,FantasyLabs,1.000x,FL
 STL @ LAA,Angel Stadium,84°F,8mph,Out,1.04,160ft,Open,8.7,4.6,4.1,+8.5%,N/A,FantasyLabs,1.000x,FL
 MIN @ CLE,Progressive Field,68°F,5mph,In/X,0.97,653ft,Open,8.2,4.3,3.9,-3.2%,N/A,FantasyLabs,1.000x,FL
