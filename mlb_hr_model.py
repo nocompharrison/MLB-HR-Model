@@ -29943,9 +29943,13 @@ def main():
     ]:
         for _sc in _inj_list:
             _all_injected_names.add(_sc.batter_name)
-    # Find furthest rank any injected player landed in the full ranked list
+    # Find furthest rank any injected player landed — scan only the window that
+    # matters: TOP_N + number of injections (max possible displacement).
+    # Scanning all of ranked would include every scored batter and massively
+    # over-expand the window if a common name appears far down the list.
+    _scan_limit = TOP_N + len(_all_injected_names) + 5   # +5 buffer for safety
     _max_inj_rank = TOP_N
-    for _idx, _sc in enumerate(ranked):
+    for _idx, _sc in enumerate(ranked[:_scan_limit]):
         if _sc.batter_name in _all_injected_names:
             _max_inj_rank = max(_max_inj_rank, _idx + 1)
     EFFECTIVE_TOP_N = _max_inj_rank
@@ -30016,7 +30020,7 @@ def main():
         print("=" * 68 + "\n")
 
     # ── 9. Export ─────────────────────────────────────────────
-    saved_path  = export_excel(ranked, game_contexts, TOP_N, EXPORT_FILE)
+    saved_path  = export_excel(ranked, game_contexts, EFFECTIVE_TOP_N, EXPORT_FILE)
 
     print(f"\nDone! {len(all_scores)} players scored across {len(game_contexts)} games.")
     print(f"Results saved to: {saved_path}\n")
