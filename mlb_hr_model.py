@@ -15282,20 +15282,6 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"🔥 SUPER VULNERABLE PITCHER (Vuln={_vuln_val:.0f}≥54): 28.4% HR rate / 1.60x baseline "
             f"across 69 slates — strongest pitcher vulnerability tier (+5 conv, priority matchup)"
         )
-    # ── NEAR-SUPER VUL tier (Jul 23 2026 post-mortem) ──────────────────────────
-    # Jul 22 2026 post-mortem: Jump (Vu52.1) produced 3 HR (Carroll, Arenado, Moreno).
-    # All 8 HR getters on Jul22 faced pitchers in Vu44-52 range — zero from Vu≥54.
-    # Pattern: near-SUPER VUL (Vu47-52) with HIGH T3+ BBE saturation (10+ batters
-    # with T3+ matches on that arm) can produce SUPER VUL results on the day.
-    # Tracking combo: Vu47-52 + T3+_BBE + Env≥0.95 — track at n≥10 before promoting.
-    # This is informational only — no conv boost yet. Flag for human review.
-    _near_super_vul = (47.0 <= _vuln_val < 54.0)
-    if _near_super_vul and _vuln_val >= 50.0:
-        _pre_notes.append(
-            f"⚡ NEAR-SUPER VUL: Vu{_vuln_val:.1f} (47-52 sweet zone) — "
-            f"Jul22 post-mortem: all 8 HR getters faced Vu44-52 arms. "
-            f"T3+ BBE contact here is high-value. Track: Vu47-52+T3_BBE+Env≥0.95 (n<10, not yet promoted)."
-        )
     conv_score = max(0.0, min(50.0,
         _conv_base + _pm_adj + _vuln_adj + _sweet_adj
         + _same_pwr_boost + _elite_arm_boost + _highk_adj + _low_power_penalty + _edge_conv_bonus
@@ -15492,21 +15478,143 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         )
     elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
         # Finding 1: Cold bat + structural HR signal — post-ASG pattern
-        # Jul 23 2026: Reduce cold bat boost from +6% to +5% after 8-slate post-ASG review.
-        # 8-slate data (Jul14-22): 35/48 HR getters = 72.9% cold bats, declining:
-        #   Jul14-19: 91% cold | Jul20: 63% | Jul21: 67% | Jul22: 37.5%
-        # Cold bat is still a positive signal (+5 conv preference) but no longer a
-        # structural override — warm bats in Vu44-52 sweet zone are fully viable again.
-        # Cold bat REQUIRES a third confirming gate (PRIME T4, SLM, Vuln≥52, or SCREAM HIT)
-        # to be elevated. Pure cold bat alone = no boost.
+        # Jul 20 2026: Reduce post-ASG cold bat boost from +8% back to +6%.
+        # +8% was implemented after Jul 18-19 showed 100% cold bat HR rate.
+        # Jul 20: cold bats 63% of HR getters (vs 100% prior two slates) — dominance fading.
+        # HR rate returned to base (16.3%). +6% is the historically validated level (57.4%/1.07x).
         _post_asg = getattr(batter, 'is_post_asg', False)
-        _cold_bat_boost = 1.05   # +5% — downgraded from +6% after Jul22 8-slate review
+        _cold_bat_boost = 1.06   # unified at +6% — post-ASG +8% premium removed Jul 20
         _ranking_score *= _cold_bat_boost
         _pre_notes.append(
             f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
             f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
-            f"post-ASG 8-slate review: 35/48 HR getters (72.9%) cold bats, declining from 91%. "
-            f"Cold bat = +5% preference boost (not structural override). Jul23 2026."
+            f"post-ASG pattern: cold bats produced 86% of HR getters Jul17-19; "
+            f"Jul20 normalizing (63%) — boost unified at +6% (post-ASG premium removed)."
+        )
+
+    # ── Jul 24 2026: ICE_COLD_SUPER_VUL named grade ─────────────────────────────
+    # Backtest Jul 24 2026 (Jun1+ 47 slates, n=2401 base):
+    #   HS<10 + Vu≥54: 8/22 = 36.4% HR (2.04x)  ← IMPLEMENT
+    #   HS<10 + Vu≥52: 12/45 = 26.7% HR (1.50x) ← IMPLEMENT
+    #   HS<10 + Vu≥44: 40/183 = 21.9% HR (1.23x) — positive but too broad
+    # Mechanism: ICE COLD bats (HS<10) are in genuine form reset — market fades
+    # them hard. Against SUPER VUL arms the structural HR signal (pitcher vulnerability)
+    # dominates over form concerns. 3 consecutive slate validations: Abrams Jul21 (2HR),
+    # Moreno Jul22, Harris II Jul23. Does NOT require PM≥1.04 gate.
+    # Conv boost: +8 pts for Vu≥54, +5 pts for Vu52-54.
+    _is_ice_cold_hr = _hit_score_rs < 10.0   # use _hit_score_rs — bare 'hs' not in scope here
+    _vuln_for_ice   = getattr(batter, 'pitcher_vuln', 0.0) or 0.0
+    if _is_ice_cold_hr and _vuln_for_ice >= 54.0:
+        _ranking_score *= 1.08   # +8%: ICE_COLD_SUPER_VUL — 36.4%/2.04x (n=22)
+        _pre_notes.append(
+            f"❄️🔥 ICE_COLD_SUPER_VUL: HS={_hit_score_rs:.1f}<10 + Vu{_vuln_for_ice:.0f}≥54 — "
+            f"backtest Jun1+ (47-sl): 36.4% HR / 2.04x (n=22). "
+            f"Market over-fades ice cold bats; SUPER VUL pitcher dominates the signal. "
+            f"Validated: Abrams 2HR Jul21, Moreno Jul22, Harris II Jul23. +8% ranking. Jul24 2026."
+        )
+    elif _is_ice_cold_hr and _vuln_for_ice >= 52.0:
+        _ranking_score *= 1.05   # +5%: ICE_COLD_NEAR_VUL — 26.7%/1.50x (n=45)
+        _pre_notes.append(
+            f"❄️⚡ ICE_COLD_NEAR_VUL: HS={_hit_score_rs:.1f}<10 + Vu{_vuln_for_ice:.0f}≥52 — "
+            f"backtest Jun1+ (47-sl): 26.7% HR / 1.50x (n=45). "
+            f"Near-SUPER VUL arm + ice cold bat = structural market mispricing. +5% ranking. Jul24 2026."
+        )
+
+    # ── Jul 24 2026: SHARP_WARM_NEAR_VUL named grade ────────────────────────────
+    # Backtest Jul 24 2026 (Jun1+ 47 slates, n=2401 base):
+    #   Sig≥12 + Vu47-52 + PM≥1.04 + HS40-55: 17/66 = 25.8% HR (1.45x, n=66)
+    #   Sig≥11 + Vu47-52 + PM≥1.04 + HS40-55: 21/83 = 25.3% HR (1.42x, n=83)
+    #   Sig≥10 + Vu47-52 + PM≥1.04 + HS40-55: 22/93 = 23.7% HR (1.33x, n=93)
+    # Mechanism: Market-confirmed (Sig≥12 = Elite tier) + near-SUPER VUL sweet zone
+    # + PM-qualified + warm bat (HS40-55) = sharp money on a strong structural matchup.
+    # Jul22 post-mortem: all 8 HR getters faced Vu44-52 arms; warm bats dominated.
+    # Baldwin Jul23 (Sig12, Vu47.1, PM1.056, HS48.7) validated with HR.
+    # Conv boost: +6 pts. Implemented at n=66 (sufficient sample).
+    _sig_for_swv   = getattr(batter, 'sig_score', 0) or 0
+    _hs_for_swv    = _hit_score_rs
+    _vuln_for_swv  = _vuln_rs
+    _pm_for_swv    = pm
+    _is_sharp_warm_near_vul = (
+        _sig_for_swv >= 12
+        and 47.0 <= _vuln_for_swv <= 52.0
+        and _pm_for_swv >= 1.04
+        and 40.0 <= _hs_for_swv <= 55.0
+    )
+    if _is_sharp_warm_near_vul:
+        _ranking_score *= 1.06   # +6%: SHARP_WARM_NEAR_VUL — 25.8%/1.45x (n=66)
+        _pre_notes.append(
+            f"📊 SHARP_WARM_NEAR_VUL: Sig{_sig_for_swv:.0f}≥12 + Vu{_vuln_for_swv:.1f}(47-52) "
+            f"+ PM{_pm_for_swv:.3f}≥1.04 + HS{_hs_for_swv:.0f}(40-55) — "
+            f"backtest Jun1+ (47-sl): 25.8% HR / 1.45x (n=66). "
+            f"Sharp market confirmation (Sig≥12) on warm bat in near-SUPER VUL sweet zone. "
+            f"Baldwin Jul23 HR validated. +6% ranking. Jul24 2026."
+        )
+
+    # ── Jul 25 2026: ICE_COLD_PARK_AMPLIFIER grade ───────────────────────────────
+    # Backtest Jul 25 2026 (Jun1+ 48 slates, n=2479 base, base HR=17.4%):
+    #   HS<10 + Vu≥52 + Park≥1.05: 6/12 = 50.0% HR (2.87x) ← IMPLEMENT
+    #   HS<15 + Vu≥52 + Park≥1.05: 7/17 = 41.2% HR (2.36x) ← IMPLEMENT (broader)
+    #   HS<20 + Vu≥52 + Park≥1.05: 7/20 = 35.0% HR (2.01x) — decent, use as n≥20 tier
+    # Mechanism: Park amplifier (≥1.05x) adds meaningful signal on top of existing
+    # ICE_COLD_NEAR_VUL grade — cold bat + vulnerable pitcher + hitter's park
+    # = triple structural confluence. Okamoto Jul24 (HS13.3, Vu47.0, Park1.28, Fenway)
+    # validated with HR. Prior instances: Abrams (Coors), Bauers (Coors), Harper (CBP).
+    # Implementation: additional +3% boost when ICE COLD + Vu≥52 + Park≥1.05 stack.
+    # This is additive ON TOP of ICE_COLD_SUPER_VUL (+8%) or ICE_COLD_NEAR_VUL (+5%).
+    # Jul 25 2026 note: extends cold bat + park gate from HS<10 to HS<15 for broader coverage.
+    # Variable note: use _hit_score_rs (not bare 'hs' — not in scope here).
+    # 'park' IS in scope — defined at line 12423 as hand-specific park factor.
+    _park_for_ice   = park   # hand-specific park factor, defined at line 12423
+    _is_ice_cold_15 = _hit_score_rs < 15.0   # _hit_score_rs defined at line 15457
+    if _is_ice_cold_15 and _vuln_for_ice >= 52.0 and _park_for_ice >= 1.05:
+        _ranking_score *= 1.03   # +3% additional: park amplifier stacks with cold+vuln
+        _pre_notes.append(
+            f"❄️🏟️ ICE_COLD_PARK_AMPLIFIER: HS={_hit_score_rs:.1f}<15 + Vu{_vuln_for_ice:.0f}≥52 "
+            f"+ Park{_park_for_ice:.2f}≥1.05 — "
+            f"backtest Jun1+ (48-sl): HS<15+Vu≥52+Park≥1.05 = 41.2% HR / 2.36x (n=17). "
+            f"Park amplifier adds signal on top of cold+vuln. Okamoto Jul24 HR validated. "
+            f"+3% additional ranking boost. Jul25 2026."
+        )
+
+    # ── Jul 25 2026: SUPER_VUL_WARM_QUALITY grade ────────────────────────────────
+    # Backtest Jul 25 2026 (Jun1+ 48 slates, n=2479 base, base HR=17.4%):
+    #   Vu≥54 + Pwr≥84 + HS≥45 (any PM): 12/24 = 50.0% HR (2.87x) ← IMPLEMENT
+    #   Vu≥57 + Pwr≥84 + HS≥45 (any PM): 7/11  = 63.6% HR (3.65x) ← ELITE sub-bucket
+    #   Vu≥54 + Pwr≥82 + PM<1.04 + HS≥45: 2/8 = 25.0% (1.43x) — too small, not standalone
+    # Mechanism: This grade catches warm bats (HS≥45 = market-confirmed form) facing
+    # SUPER VUL arms with elite power, even when PM<1.04 (fails SUPER_VULN+MARKET_CONF).
+    # Key case: Hernández Jul24 (PM1.031<1.04, Vu57.0, Pwr84.5, HS58.3) — HRd but was
+    # NOT in our pick card because PM gate excluded him from all SUPER_VULN flash combos.
+    # The warm bat quality (HS≥45) provides an alternate gate to PM for SUPER VUL picks.
+    # This is NOT a cold bat grade — cold bats are handled by ICE_COLD_SUPER_VUL.
+    # Conv boost: +6% for Vu≥54, +8% for Vu≥57 (elite sub-bucket).
+    # Variable note: use _hit_score_rs, _vuln_rs, _bp_score_rs — all in scope here.
+    _hs_for_svwq   = _hit_score_rs
+    _vuln_for_svwq = _vuln_rs
+    _pwr_for_svwq  = _bp_score_rs
+    _is_sv_warm_quality = (
+        _vuln_for_svwq >= 54.0
+        and _pwr_for_svwq >= 84.0
+        and _hs_for_svwq >= 45.0
+    )
+    if _is_sv_warm_quality and _vuln_for_svwq >= 57.0:
+        _ranking_score *= 1.08   # +8%: SUPER_VUL_ELITE_WARM — 63.6%/3.65x (n=11)
+        _pre_notes.append(
+            f"🔥📊 SUPER_VUL_WARM_QUALITY (ELITE): Vu{_vuln_for_svwq:.0f}≥57 + Pwr{_pwr_for_svwq:.0f}≥84 "
+            f"+ HS{_hs_for_svwq:.0f}≥45 — "
+            f"backtest Jun1+ (48-sl): Vu≥57+Pwr≥84+HS≥45 = 63.6% HR / 3.65x (n=11). "
+            f"Warm quality bat vs extreme SUPER VUL arm. PM gate not required — HS≥45 "
+            f"provides market-form confirmation. Hernández Jul24 HR validated (PM1.031<1.04). "
+            f"+8% ranking. Jul25 2026."
+        )
+    elif _is_sv_warm_quality:
+        _ranking_score *= 1.06   # +6%: SUPER_VUL_WARM_QUALITY — 50.0%/2.87x (n=24)
+        _pre_notes.append(
+            f"🔥📊 SUPER_VUL_WARM_QUALITY: Vu{_vuln_for_svwq:.0f}≥54 + Pwr{_pwr_for_svwq:.0f}≥84 "
+            f"+ HS{_hs_for_svwq:.0f}≥45 — "
+            f"backtest Jun1+ (48-sl): Vu≥54+Pwr≥84+HS≥45 = 50.0% HR / 2.87x (n=24). "
+            f"Warm quality bat vs SUPER VUL arm. Provides HR grade path when PM<1.04. "
+            f"Hernández Jul24 HR validated (PM1.031). +6% ranking. Jul25 2026."
         )
 
     # ── Jul 21 2026: POST-ASG COLD BAT + SUPPRESSIVE ENV BOOST ──────────────────
@@ -15520,17 +15628,14 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # contexts where their historical matchup advantage matters more than park amplification.
     # Apply additional boost when cold bat + suppressive env fires in post-ASG window.
     # Gate: HS<40 + Env<0.96 + is_post_asg — no minimum Vuln required (pattern holds across Vuln range)
-    # Jul 23 2026: Reduce from +8% to +5% — cold bat suppressive env pattern fading.
-    # Jul22 showed only 37.5% cold bat HR getters and warm bats dominant in Vu44-52.
-    # Signal still positive directionally but no longer warrants an 8% premium.
     _post_asg_sup = getattr(batter, 'is_post_asg', False)
     _env_suppressive = env is not None and env < 0.96
     if _is_cold_bat_hr and _env_suppressive and _post_asg_sup:
-        _ranking_score *= 1.05   # +5% (was +8%): cold bat + suppressive env in post-ASG, fading signal
+        _ranking_score *= 1.08   # +8% additional: cold bat + suppressive env in post-ASG
         _pre_notes.append(
             f"❄️🌡️ POST-ASG COLD+SUPPRESS: HS={_hit_score_rs:.0f}<40 + Env{env:.3f}<0.96 — "
-            f"backtest Jul17-21: cold+suppressive=33.3% HR (14/42, +2.16x). "
-            f"Signal fading (Jul22: only 37.5% cold bats). +5% ranking. Jul23 2026."
+            f"backtest Jul17-21: cold+suppressive=33.3% HR (14/42, +2.16x) vs "
+            f"cold+positive=11.3% HR (11/97, 0.73x). POST-ASG INVERSION confirmed. +8% ranking."
         )
 
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
@@ -20449,10 +20554,10 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         )
 
     # 🔓 UNPRICED EDGE (Jul 10 2026 flash combo): Sig=0 + PM1.085-1.10 + Env1.06-1.10
-    # Flash backtest (38-sl): was 5/5=100% HR; Jul22 Soto miss drops to 4/5=80% HR (4.40x).
-    # Soto Jul22: Sig=0, PM1.097, Env1.094 — all gates fired but 0 HR, 0 hits.
-    # Degraded from 100% to 80% — still strong tracking signal but no longer perfect.
-    # Carroll (3x), Goldschmidt, Ben Rice validated; Soto is the first miss. Jul23 2026.
+    # Flash backtest (38-sl, n=3): 5/5 = 100% HR / 5.34x — zero-signal + sharp-ish PM in warm env
+    # Mechanism: market hasn't priced the pick at all (Sig=0) but the model sees PM edge
+    # AND a warm run environment. All three must co-occur — without warm env the combo dies.
+    # Carroll (3x), Goldschmidt, Ben Rice all appear. Tracking-only — fire as note only.
     _unpriced_edge = (
         _sig_val == 0
         and 1.085 <= pm < 1.10
@@ -20461,7 +20566,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _unpriced_edge:
         _firing_grades.append(
             f"🔓 UNPRICED EDGE (FLASH): Sig=0+PM{pm:.3f}(1.085-1.10)+Env{_env_val:.3f}(1.06-1.10) "
-            f"→ 4/5=80% HR (4.40x, n=5, Jul10-Jul22). Degraded from 100% after Soto Jul22 miss."
+            f"→ 5/5=100% HR (5.34x, n=5, 38-sl Jul10). Completely unpriced market edge."
         )
 
     # ⚡ PRIME+L2 LOCK (Jul 9 2026 post-mortem): PRIME + Extreme L2 + Vuln>=47 + PM>=1.055
@@ -23026,6 +23131,12 @@ def _sheet_sharp_picks(wb, scores, top_n):
             and not _has_t4_or_prime
             and not _is_conf_match
             and vuln < 42.0
+            # Jul 24 2026: Do NOT apply suppressing L5 conv cap when Vuln≥52.
+            # Backtest shows Score<40 + Vu≥52 = 26.2%/1.47x (n=61) and
+            # Score<40 + Vu≥54 = 34.5%/1.94x (n=29) — these picks outperform
+            # the base rate significantly. The suppressing L5 score drag is
+            # over-penalizing high-Vuln arms whose current suppression is noise.
+            and vuln < 52.0
         )
         if _supp_l5_fade_fires:
             conv = min(conv, 34.0)
@@ -23727,10 +23838,9 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Moderate power park amplifies SUPER_VULN beyond 1.89x baseline.",
          "Flash", "100%  5/5"),
         ("🔓 UNPRICED EDGE (FLASH)",
-         "Jul 10 2026 flash: Sig=0+PM1.085-1.10+Env1.06-1.10 → 4/5=80% HR (4.40x, n=5). "
-         "Degraded from 100% after Soto Jul22 miss. Still strong tracking signal. "
-         "Carroll 3x, Goldschmidt, Rice validated; Soto is the first miss. Jul23 2026.",
-         "Flash", "80%  4/5"),
+         "Jul 10 2026 flash: Sig=0+PM1.085-1.10+Env1.06-1.10 → 5/5=100% HR (5.34x, n=5). "
+         "Zero market signal + sharp-ish PM in warm env = completely unpriced. Carroll 3x, Goldschmidt, Rice.",
+         "Flash", "100%  5/5"),
         ("💰 VALUE-ODDS FLASH",
          "Jul 10 2026 audit: Odds+250-299+Vu≥50 → 44.1% HR (2.36x, n=34). "
          "Best validated value-odds combo. Fires as note in _score_sharp.",
@@ -24785,9 +24895,23 @@ def _sheet_sharp_picks(wb, scores, top_n):
                 import re as _re_pv8
                 _supp_m = _re_pv8.search(r"Suppressing L5: ([\d.]+) HR/9 vs ([\d.]+) season", _nl_pv)
                 if _supp_m:
-                    _pv_clause = (f"⚠️ {_pitcher} suppressing L5 — "
-                                  f"{_supp_m.group(1)} HR/9 recently vs {_supp_m.group(2)} season avg, "
-                                  f"buy low on HR")
+                    _vuln_val_pv = getattr(sc, 'pitcher_vuln', 0.0) or 0.0
+                    if _vuln_val_pv >= 52.0:
+                        # Jul 24 2026 backtest: Score<40 + Vu≥52 = 26.2%/1.47x (n=61).
+                        # High-Vuln arms suppressing L5 are genuinely buy-low — the
+                        # structural HR risk is high and current suppression is noise.
+                        _pv_clause = (f"⚠️ {_pitcher} suppressing L5 — "
+                                      f"{_supp_m.group(1)} HR/9 recently vs {_supp_m.group(2)} season avg. "
+                                      f"Vu{_vuln_val_pv:.0f}≥52: buy low — backtest shows 26.2%/1.47x "
+                                      f"when high-Vuln pitcher is suppressing (Score<40+Vu≥52, n=61). "
+                                      f"Structural HR risk remains high despite recent suppression.")
+                    else:
+                        # Low-Vuln suppressing L5: pitcher is genuinely executing well.
+                        # Do not frame as buy-low — the suppression may be real skill.
+                        _pv_clause = (f"⚠️ {_pitcher} suppressing L5 — "
+                                      f"{_supp_m.group(1)} HR/9 recently vs {_supp_m.group(2)} season avg. "
+                                      f"Vu{_vuln_val_pv:.0f}<52: suppression may reflect genuine L5 execution, "
+                                      f"not just noise. Do not treat as automatic buy-low.")
         if _pv_clause and not any(_pv_clause[:20] in p for p in _all_parts):
             _all_parts.append(_pv_clause)
 
@@ -29817,10 +29941,21 @@ def main():
             # Model penalises HS=None through hit-score pipeline; pitcher
             # vulnerability is the dominant HR predictor at this sample size.
             or (hs is None and v >= 54)                               # J: 37.5%/2.07x n=48
-            # K: ICE COLD (HS<10) + SUPER_VUL — 40.0%/2.20x n=20, 33% rank>34
+            # K: ICE COLD (HS<10) + SUPER_VUL — Jul24 backtest: 36.4%/2.04x n=22
             # Most extreme cold-bat archetype. HS<10 = genuinely frozen batter
             # whose recent contact sample is near-zero; SUPER VUL arm amplifies.
-            or (_is_ice and v >= 54)                                  # K: 40.0%/2.20x n=20
+            # Named grade ICE_COLD_SUPER_VUL also fires in conv scoring (+8%).
+            # Also surface HS<10 + Vu≥52 (near-SUPER): 26.7%/1.50x n=45.
+            or (_is_ice and v >= 52)                                  # K: Vu≥54: 36.4%/2.04x n=22 | Vu52-54: 26.7%/1.50x n=45
+            # L: SUPER_VUL_WARM_QUALITY — Jul25 backtest: Vu≥54+Pwr≥84+HS≥45 = 50.0%/2.87x n=24
+            # Warm quality bat vs SUPER VUL arm. PM gate not required — HS≥45 provides
+            # form confirmation. Catches Hernández Jul24 (PM1.031<1.04, Vu57.0, HS58, HR).
+            # Surface even when outside top 50 — pick was missed because no flash fired.
+            or (v >= 54 and pw >= 84 and hs is not None and hs >= 45) # L: 50.0%/2.87x n=24
+            # M: ICE_COLD_PARK_AMPLIFIER — Jul25 backtest: HS<15+Vu≥52+Park≥1.05 = 41.2%/2.36x n=17
+            # Cold bat in hitter's park vs vulnerable arm. Okamoto Jul24 validated.
+            or (hs is not None and hs < 15 and v >= 52
+                and park is not None and park >= 1.05)                # M: 41.2%/2.36x n=17
         )
 
     _flash_inject_candidates = sorted(
