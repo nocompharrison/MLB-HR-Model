@@ -2,16 +2,16 @@
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
 CLE @ TB,Tropicana Field,72°F,0mph,In/X,0.93,15ft,Dome,7.2,3.7,3.5,N/A,N/A,dome,0.994x,FL
 ARI @ WSH,Nationals Park,85°F,3mph,Out,0.9,25ft,Open,10.3,5.1,5.2,+4.2%,N/A,FantasyLabs,1.012x,FL
-CHC @ PIT,PNC Park,81°F,5mph,Out,0.94,730ft,Open,9.2,4.8,4.4,+5.5%,N/A,FantasyLabs,1.000x,FL
+CHC @ PIT,PNC Park,81°F,5mph,Out,0.94,730ft,Open,9.2,4.8,4.4,+5.5%,N/A,FantasyLabs,1.006x,FL
 TOR @ BOS,Fenway Park,74°F,9mph,In/X,1.06,20ft,Open,7.699999999999999,4.1,3.6,-5.9%,N/A,FantasyLabs,1.012x,FL
 ATL @ BAL,Oriole Park,83°F,5mph,In/X,1.08,20ft,Open,8.8,4.4,4.4,-2.1%,N/A,FantasyLabs,1.018x,FL
 KC @ DET,Comerica Park,83°F,5mph,In/X,0.96,585ft,Open,9.2,5.3,3.9,-1.1%,N/A,FantasyLabs,0.976x,FL
 LAD @ NYM,Citi Field,83°F,6mph,In/X,0.96,15ft,Open,8.7,4.0,4.7,-2.7%,N/A,FantasyLabs,1.000x,FL
 SD @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,8.7,4.5,4.2,N/A,N/A,dome,0.988x,FL
 ATH @ MIN,Target Field,96°F,9mph,In/X,0.97,815ft,Open,10.3,5.7,4.6,-3.7%,N/A,FantasyLabs,0.970x,FL
-HOU @ CWS,Guaranteed Rate Field,88°F,5mph,In/X,0.95,595ft,Open,9.2,4.6,4.6,-0.6%,N/A,FantasyLabs,1.000x,FL
-COL @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,7.7,5.0,2.7,N/A,N/A,dome,1.024x,FL
+HOU @ CWS,Guaranteed Rate Field,88°F,5mph,In/X,0.95,595ft,Open,9.3,4.7,4.6,-0.6%,N/A,FantasyLabs,1.000x,FL
+COL @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,8.3,5.4,2.9,N/A,N/A,dome,1.024x,FL
 CIN @ STL,Busch Stadium,93°F,4mph,Out,0.95,465ft,Open,8.7,4.6,4.1,+6.9%,N/A,FantasyLabs,0.994x,FL
-SEA @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,7.2,3.6,3.6,N/A,N/A,dome,1.000x,FL
-LAA @ SF,Oracle Park,68°F,13mph,Out,0.82,10ft,Open,8.7,4.3,4.4,+12.2%,N/A,FantasyLabs,1.000x,FL
+SEA @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,7.2,3.6,3.6,N/A,N/A,dome,1.018x,FL
+LAA @ SF,Oracle Park,68°F,13mph,Out,0.82,10ft,Open,8.7,4.3,4.4,+12.2%,N/A,FantasyLabs,0.952x,FL
 NYY @ PHI,Citizens Bank Park,77°F,5mph,Out,1.14,40ft,Open,8.2,4.7,3.5,+5.8%,N/A,FantasyLabs,1.000x,FL
