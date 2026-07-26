@@ -15413,10 +15413,30 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # + PM 1.04-1.08: 30.0% HR (1.75x, p=0.003, n=80) — most stat-sig combo found.
     # Environment is a genuine HR amplifier in the sweet score zone. Additive with
     # T4/PRIME/pitch edge boosts — env structure and matchup structure are independent.
-    if (58.0 <= score <= 66.0) and _env_val_rs >= 1.05 and _pm_ok:
-        _ranking_score *= 1.10   # +10%: Env>=1.05 + PM confirmed amplifier, p=0.003
-    elif (58.0 <= score <= 66.0) and _env_val_rs >= 1.05:
-        _ranking_score *= 1.06   # +6%: Env amplifier without PM gate — still real
+    # ❌ RETIRED Jul 26 2026 (archetype audit): the 1.64x / p=0.001 result at n=146
+    # did not replicate on the 72-slate merged CSV (14.5% HR / 0.88x at n=200; 0.81x
+    # post-ASG). Ranking multipliers zeroed out. Do NOT restore without a fresh
+    # backtest showing >=1.3x over 10+ slates.
+    if False and (58.0 <= score <= 66.0) and _env_val_rs >= 1.05 and _pm_ok:
+        _ranking_score *= 1.10
+    elif False and (58.0 <= score <= 66.0) and _env_val_rs >= 1.05:
+        _ranking_score *= 1.06
+    # ══ 🧬 ARCHETYPE RANKING BOOST (Jul 26 2026) ═══════════════════════
+    # Replaces the retired SC58-66+ENV multiplier above. Tier-A archetypes carry a
+    # ranking multiplier proportional to validated lift; confluence dominates.
+    #   3+ Tier-A HR archetypes → 100.0% HR (6.08x, n=8)   → ×1.35
+    #   2  Tier-A HR archetypes →  78.1% HR (4.75x, n=32)  → ×1.25
+    #   1  Tier-A HR archetype  →  52.0% HR (3.16x, n=125) → ×1.12
+    # Read from the grade string so ranking and conviction never disagree.
+    _arch_rank_g = str(locals().get("_rank_grade_str", "") or "")
+    _arch_rank_n = sum(1 for _aid in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08")
+                       if _aid in _arch_rank_g)
+    if _arch_rank_n >= 3:
+        _ranking_score *= 1.35
+    elif _arch_rank_n == 2:
+        _ranking_score *= 1.25
+    elif _arch_rank_n == 1:
+        _ranking_score *= 1.12
     # ── Jul 10 2026: Env1.05-1.10 × Sc55-60 ranking boost ──────────────────────────
     # Backtest (38-sl): Env1.05-1.10 + Sc55-60 → 32.8% HR / 1.75x (n=64)
     # CRITICAL FINDING: mid-score picks (55-60) in warm env OUTPERFORM high-score picks
@@ -17479,11 +17499,15 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         and env >= 1.05
         and not _pve_fires   # don't double-label if PWR_VULN_ENV_HR already firing
     )
+    # ❌ SC58-66+ENV BOOST — RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV).
+    # The 28.1% HR / 1.64x (p=0.001, n=146) figure did NOT survive a wider window:
+    # re-audit at n=200 gives 14.5% HR / 0.88x, and 8.6% / 0.81x post-ASG.
+    # Note suppressed and the ranking boost below is disabled. The score+env family
+    # is now covered properly by archetypes HR04/HR07 (Vuln-gated, 3.47-3.65x).
     if _sc58_env_fires:
         _result.notes = list(_result.notes or []) + [
-            f"🌡️ SC58-66+ENV BOOST (TRACKING): Sc{score:.0f}+Env{env:.3f} "
-            f"→ 28.1% HR (1.64x, p=0.001, n=146, 47-sl CSV Jun26) "
-            f"— ranking boosted +{10 if pm >= 1.04 else 6}%"
+            f"🌡️ SC58-66+ENV legacy match (Sc{score:.0f}+Env{env:.3f}) "
+            f"[RETIRED — 0.88x on n=200, 72-sl CSV Jul26; no ranking or conv credit]"
         ]
 
     # ── Jul 9 2026: ENV-ANCHORED PITCH MATCH conv boost ──────────────────────────
@@ -19020,10 +19044,14 @@ def _sheet_methodology(wb):
     hr_pos_rows = [
         ("+4 ea (≤+12)", "Grade stacking count",                 "min(grades,3)×4 — rewards independent signals firing together"),
         ("+2 / +8",      "2-grade / 3+ grade stacking bonus",    "Jun 16 2026: gc=2 = 1.18x (barely above gc=1 at 1.28x) — modest +2. gc=3+ = 1.54x — large +8 bonus"),
-        ("+8",           "🚨 SCREAM HR",                          "Top physical-matchup screamer (Power-Vuln / High-PM / Sig-PM)"),
+        ("+20 / +18 / +16 / +14", "🧬 ARCHETYPE TIER A (HR01–HR08)", "Stacked quant+qual archetypes, Jul 26 2026 mining. HR01 +20 (4.05x) · HR02/HR03 +18 · HR04 +16 · HR05–HR08 +14. Capped at 30 total."),
+        ("+10 / +6 / +3", "🧬 ARCHETYPE CONFLUENCE",             "hr_pts: 3+ Tier-A archetypes = +10 (100%% HR, n=8) · 2 = +6 (78.1%%, n=32) · 1 = +3. Auto MUST-PLAY at 2+."),
         ("+6",           "🎯 PITCH DOM ELITE HR",                 "High-rate pitch-dominance grade (1.73x)"),
         ("+10",          "🎯 CONFIRMED MATCH HR",                 "Two-sided pitch correlation — strongest validated signal (1.46x, 30-slate)"),
-        ("+5",           "🎯 SHARP PM HR",                        "PM 1.08–1.10 sweet band"),
+        ("❌ 0",          "🚨 SCREAM HR family",                   "RETIRED Jul 26 2026 — 0.88x on n=117 (Power-Vuln / High-PM / Sig-PM / 5-Signal)"),
+        ("❌ 0",          "🎯 SHARP PM HR",                        "SUSPENDED Jul 26 2026 — 1/55 post-ASG (0.17x)"),
+        ("❌ 0",          "🎯 SWEET PM HR",                        "RETIRED as HR grade Jul 26 2026 — 0.76x. Hit-card only (1.15x hit)"),
+        ("❌ 0",          "📊 ERA Understated HR",                 "RETIRED Jul 26 2026 — 0.92x all-time, 0.69x post-ASG"),
         ("+4",           "🎯 PITCH DOMINANCE HR",                 "Crushes the pitcher's primary pitch type"),
         ("+4",           "📈 SHARP LINE + VULN",                  "Sharp money move + Vuln 47–52"),
         ("+3 ea",        "MID-SCORE / SIG+PM / ELITE SIGNAL / ICE COLD+SIGNAL", "Each validated grade present adds +3"),
@@ -19112,6 +19140,491 @@ def _sheet_methodology(wb):
         c2.alignment = Alignment(horizontal="left", indent=2)
         ws.row_dimensions[row].height = 16
         row += 1
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# 🧬 STACKED ARCHETYPE ENGINE  (Jul 26 2026)
+# ═══════════════════════════════════════════════════════════════════════════════
+# Mined from FantasyLabsMLB.csv master history by exhaustive combinatorial beam
+# search over 366 binary predicates (quantitative bands + qualitative text
+# markers extracted from Grade / Rationale / Flags), depth 1-10.
+#
+#   Population : 3,446 graded batter-slate rows / 72 slates (2026-05-09 → 07-25)
+#   Baselines  : HR 16.45%   |   HIT 62.51%
+#
+# Every archetype below cleared FOUR independent gates:
+#   (a) Fisher exact p < 0.01 vs pool baseline
+#   (b) slate-level bootstrap (500 resamples), 5th-pct lift ≥ 1.6x HR / 1.12x HIT
+#   (c) split-half temporal stability — BOTH halves of its own firing window
+#       beat baseline (this is what killed most of the 1,257 raw survivors)
+#   (d) Jaccard overlap < 0.35 vs every other retained archetype
+#
+# HEADLINE VALIDATION (engine replay over the same 3,446 rows):
+#   HR  Tier A (8 archetypes): 125 picks (3.6% of pool)  52.0% HR  3.16x  52 slates
+#   HR  Tier A+B (16):         202 picks (5.9%)          46.5% HR  2.83x  59 slates
+#   HIT Tier A (8):            181 picks (5.3%)          92.3% hit 1.48x  49 slates
+#   HIT Tier A+B (16):         328 picks (9.5%)          90.9% hit 1.45x  56 slates
+#
+# ⭐ CONFLUENCE IS THE REAL SIGNAL — stacking beats any single archetype:
+#   2+ Tier-A HR archetypes firing together →  78.1% HR (4.75x, n=32)
+#   3+ Tier-A HR archetypes firing together → 100.0% HR (6.08x, n=8)
+#   2+ Tier-A HIT archetypes firing together→ 100.0% hit (1.60x, n=39)
+#
+# TIERS
+#   "A" = PROMOTE — applies conviction boost, elevates the pick, prints on card
+#   "B" = TRACK   — prints with [TRACKING] tag, no conviction credit until n≥40
+#
+# ⚠️ POST-ASG CONTEXT: the slate-level HR baseline collapsed from 16.45% to
+# 10.64% after the All-Star break. Tier-A HR archetypes held 2.17-2.75x through
+# it but absolute rates fell to 25-30%. Do not expect 52% on a suppressed slate.
+#
+# ⚠️ PROPFINDER DEPENDENCY: pf_* values only exist in the audit CSV from
+# 2026-07-02 (20 slates). HR16 / HT02 / HT04 / HT05 / HT14 / HT15 rest on that
+# shorter window and carry more overfit risk. HR16 has ALREADY broken (77%→25%
+# split-half) and is pinned at conv_boost 0.
+# ═══════════════════════════════════════════════════════════════════════════════
+
+ARCHETYPE_BASELINES = {"HR": 16.45, "HIT": 62.51}
+
+# Qualitative markers the archetypes consume, and the note/flag text that fires them.
+ARCHETYPE_QUAL_PATTERNS = {
+    "Q_ZCONTACT":        r"Z-CONTACT BOOST",
+    "Q_VULN52PLUS":      r"Vuln52\+|⚠️ Vuln52",
+    "Q_EXTREME_L2":      r"EXTREME L2|Extreme L2 blowup|L2 blowup",
+    "Q_PITCH_CORR":      r"PITCH CORRELATION|Pitch corr",
+    "Q_PITCH_DOM_ELITE": r"PITCH DOM ELITE HR",
+    "Q_PITCH_RELIANT":   r"PITCH-RELIANT HR",
+    "Q_ICE_COLD":        r"ICE COLD|❄️ Cold",
+    "Q_SCREAM_HIT":      r"SCREAM HIT",
+    "Q_SIG_PM":          r"SIG\+PM HR|Sig\+PM",
+    "Q_BACKTEST_NOTE":   r"BACKTEST:",
+    "Q_SHORT_START":     r"short start",
+}
+
+# Numerics that live only inside the rationale text, not in the quant columns.
+# ⚠️ If mlb_hr_model changes how it writes the L10 BBE line or the PropFinder
+# block, these patterns MUST be updated or the archetypes silently stop firing.
+ARCHETYPE_NUM_PATTERNS = {
+    "l10_dist":    r"(\d+)ft avg dist",
+    "pitch_vuln":  r"\(vuln (\d+)\)",
+    "pitch_usage": r"on (\d+)% vs [LR]HB",
+    "whr":         r"WHR (\d+)%|(\d+)% weighted hit rate",
+    "pf_gates":    r"\((\d)/9 PropFinder gates\)",
+    "pf_iso":      r"ISO:([\d.]+)>0\.2",
+    "pf_hh":       r"HH%:([\d.]+)%>40%",
+    "pf_pull":     r"Pull%:([\d.]+)%>30%",
+    "pf_barrel":   r"Barrel%:([\d.]+)%>15%",
+}
+
+
+def _arch_ge(f, k, v):     return f.get(k) is not None and f[k] >= v
+def _arch_lt(f, k, v):     return f.get(k) is not None and f[k] <  v
+def _arch_bt(f, k, a, b):  return f.get(k) is not None and a <= f[k] < b
+def _arch_on(f, k):        return bool(f.get(k))
+
+
+# ── HR ARCHETYPES ────────────────────────────────────────────────────────────
+HR_ARCHETYPES = [
+ dict(id="HR01", name="Loft-Band Power Anchor", tier="A", conv_boost=20,
+      vars="6-Variable: 5 Quant + 1 Quant-from-Text",
+      stack="L10dist 330-350ft + Odds<+400 + Park<1.05 + PM≥1.03 + Pwr≥84 + Vuln≥44",
+      rate=66.7, lift=4.05, n=21, hits=14, slates=17, p=3.5e-7, ci=(2.88, 4.97),
+      half1=72.7, half2=60.0, asg="50.0% (3/6)", window="06-17→07-25",
+      why=("330-350ft is a BAND, not a floor — 330-340 runs 1.68x while 350+ collapses to "
+           "0.68x. Above ~350 the batter already fully lifts that pitch and the market has "
+           "paid for it. Odds<+400 and Park<1.05 confirm nobody has."),
+      test=lambda f: (_arch_bt(f,"l10_dist",330,350) and _arch_lt(f,"odds",400)
+                      and _arch_lt(f,"park",1.05) and _arch_ge(f,"pm",1.03)
+                      and _arch_ge(f,"power",84) and _arch_ge(f,"vuln",44))),
+
+ dict(id="HR02", name="Zone-Contact Loft Confirmer", tier="A", conv_boost=18,
+      vars="4-Variable: 2 Quant + 1 Qual + 1 Quant-from-Text",
+      stack="L10dist 330-350ft + Z-CONTACT BOOST + Sig≥3 + WHR≥68%",
+      rate=65.0, lift=3.95, n=20, hits=13, slates=13, p=1.4e-6, ci=(2.83, 4.97),
+      half1=66.7, half2=63.6, asg="66.7% (2/3)", window="06-17→07-22",
+      why=("Same loft band, different confirmation path — zone-contact ability plus a hot "
+           "weighted hit rate instead of raw power. 'He will put it in play and it carries', "
+           "not 'he will crush it'."),
+      test=lambda f: (_arch_bt(f,"l10_dist",330,350) and _arch_on(f,"Q_ZCONTACT")
+                      and _arch_ge(f,"sig",3) and _arch_ge(f,"whr",68))),
+
+ dict(id="HR03", name="Overpriced-Favorite Paradox", tier="A", conv_boost=18,
+      vars="4-Variable: 4 Quant",
+      stack="Edge<0 + Odds<+250 + Pwr≥68 + Sig<8",
+      rate=61.9, lift=3.76, n=21, hits=13, slates=20, p=3.2e-6, ci=(2.89, 4.70),
+      half1=63.6, half2=60.0, asg="33.3% (1/3)", window="05-10→07-20",
+      why=("⚠️ ADVERSARIAL TO THE MODEL'S OWN EDGE TERM. Median edge in this bucket is "
+           "-11.7% and it still converts 61.9%. Odds are the strongest single variable in "
+           "the file (≤+300 = 1.51x; >+680 = 0.53x). At the very short end, stop applying "
+           "the edge penalty — the market is right and the model is wrong. Sig<8 removes "
+           "picks the model has already loaded up on."),
+      test=lambda f: (_arch_lt(f,"edge",0.0) and _arch_lt(f,"odds",250)
+                      and _arch_ge(f,"power",68) and _arch_lt(f,"sig",8))),
+
+ dict(id="HR04", name="Warm-Bat L2 Blowup Stack", tier="A", conv_boost=16,
+      vars="5-Variable: 4 Quant + 1 Qual",
+      stack="HS≥40 (NOT cold) + EXTREME L2 blowup + Score≥60 + Sig≥3 + Vuln≥47",
+      rate=60.0, lift=3.65, n=20, hits=12, slates=13, p=1.2e-5, ci=(2.66, 4.63),
+      half1=54.5, half2=66.7, asg="50.0% (1/2)", window="06-24→07-21",
+      why=("Formal replacement for the PRIME+L2 LOCK tracking combo. Confirms warm bats are "
+           "fully viable in the Vu≥47 band post-ASG — the HS≥40 gate does real work and is "
+           "not being carried by the cold-bat pattern. Median Env is 0.93 (suppressive) and "
+           "it converts anyway."),
+      test=lambda f: (_arch_ge(f,"hs",40) and _arch_on(f,"Q_EXTREME_L2")
+                      and _arch_ge(f,"score",60) and _arch_ge(f,"sig",3)
+                      and _arch_ge(f,"vuln",47))),
+
+ dict(id="HR05", name="Suppressed-Air Extreme-PM Override", tier="A", conv_boost=14,
+      vars="4-Variable: 4 Quant",
+      stack="Env 0.93-0.97 (suppressive) + PM≥1.10 (extreme) + Sig 3-7",
+      rate=57.1, lift=3.47, n=21, hits=12, slates=19, p=2.5e-5, ci=(2.32, 4.48),
+      half1=66.7, half2=50.0, asg="0/1 (negligible)", window="05-12→07-25",
+      why=("Mirror of SUPP-PARK SWEET-PM but with a far more aggressive PM floor. Extreme "
+           "pitch-match edge overrides a suppressive environment. The mid-Sig band is the "
+           "filter — Sig≥8 means the model already stacked signals and the market moved."),
+      test=lambda f: (_arch_bt(f,"env",0.93,0.97) and _arch_ge(f,"pm",1.10)
+                      and _arch_bt(f,"sig",3,8))),
+
+ dict(id="HR06", name="Value-Odds Conviction Lock", tier="A", conv_boost=14,
+      vars="4-Variable: 2 Quant + 2 Quant-from-Text",
+      stack="Conv≥60 + Odds +250-299 + starter primary-pitch usage<50% + WHR≥68%",
+      rate=57.1, lift=3.47, n=21, hits=12, slates=15, p=2.5e-5, ci=(2.56, 4.34),
+      half1=66.7, half2=50.0, asg="28.6% (2/7)", window="06-20→07-24",
+      why=("Direct upgrade of VALUE-ODDS FLASH (Odds 250-299 + Vu≥50 → 44.1%). Swapping the "
+           "Vuln gate for Conv≥60 + usage<50% + WHR≥68 lifts 44.1% → 57.1%. The usage gate "
+           "is counter-intuitive: a DIVERSIFIED starter mix beats a one-pitch starter here, "
+           "because the pitch-reliance grades already harvest the one-pitch arms — this is "
+           "clean, un-double-counted signal."),
+      test=lambda f: (_arch_ge(f,"conv",60) and _arch_bt(f,"odds",250,300)
+                      and _arch_lt(f,"pitch_usage",50) and _arch_ge(f,"whr",68))),
+
+ dict(id="HR07", name="Quiet Super-Vuln Elite", tier="A", conv_boost=14,
+      vars="5-Variable: 4 Quant + 1 Qual",
+      stack="Odds<+400 + Vuln52+ flag + Score≥60 + Sig<8 (market NOT excited) + Vuln≥54",
+      rate=57.1, lift=3.47, n=21, hits=12, slates=14, p=2.5e-5, ci=(2.43, 4.42),
+      half1=63.6, half2=50.0, asg="42.9% (3/7) — BEST post-ASG hold", window="06-24→07-21",
+      why=("⭐ The IMAI 'right game, wrong batter' solution. Sig<8 is the innovation: it "
+           "selects SUPER VUL spots the model has NOT loaded up on. When the model piles "
+           "signals onto one bat in a SUPER VUL game, that bat is the trap; the quieter bat "
+           "in the same game is the converter."),
+      test=lambda f: (_arch_lt(f,"odds",400) and _arch_on(f,"Q_VULN52PLUS")
+                      and _arch_ge(f,"score",60) and _arch_lt(f,"sig",8)
+                      and _arch_ge(f,"vuln",54))),
+
+ dict(id="HR08", name="Priced Super-Vuln Value Band", tier="A", conv_boost=14,
+      vars="3-Variable: 3 Quant",
+      stack="Edge≥0 + Odds +250-299 + Vuln≥52",
+      rate=56.5, lift=3.44, n=23, hits=13, slates=18, p=1.3e-5, ci=(2.49, 4.38),
+      half1=60.0, half2=53.8, asg="40.0% (2/5)", window="05-14→07-22",
+      why=("Three gates, 3.44x, stable across 18 slates and 2.5 months, zero text "
+           "dependency. Should be the default screen every slate. Supersedes VALUE-ODDS "
+           "FLASH's Vu≥50 threshold with Vu≥52 plus a non-negative edge requirement."),
+      test=lambda f: (_arch_ge(f,"edge",0.0) and _arch_bt(f,"odds",250,300)
+                      and _arch_ge(f,"vuln",52))),
+
+ # ── TRACKING TIER ───────────────────────────────────────────────────────────
+ dict(id="HR09", name="Pitcher-Vuln Twin Confirmation", tier="B", conv_boost=0,
+      vars="4-Variable: 2 Quant + 1 Qual + 1 Quant-from-Text",
+      stack="target-pitch vuln 50-60 + Vuln52+ flag + Score≥60 + Sig 3-7",
+      rate=56.5, lift=3.44, n=23, hits=13, slates=16, p=1.3e-5, ci=(2.31, 4.49),
+      half1=53.8, half2=60.0, asg="57.1% (4/7) — BEST post-ASG in library",
+      window="06-17→07-21",
+      why="Both vulnerability layers agree. Strongest post-ASG hold of anything mined — promote at n≥40.",
+      test=lambda f: (_arch_bt(f,"pitch_vuln",50,60) and _arch_on(f,"Q_VULN52PLUS")
+                      and _arch_ge(f,"score",60) and _arch_bt(f,"sig",3,8))),
+
+ dict(id="HR10", name="Mid-Score Value-Odds Signal Stack", tier="B", conv_boost=0,
+      vars="5-Variable: 5 Quant",
+      stack="Edge≥0 + Odds +250-299 + Score<60 + Sig≥5 + Vuln≥44",
+      rate=56.5, lift=3.44, n=23, hits=13, slates=18, p=1.3e-5, ci=(2.38, 4.49),
+      half1=54.5, half2=58.3, asg="33.3% (1/3)", window="05-14→07-22",
+      why="The lower-score sibling of HR08 — proves the value-odds band is not score-dependent.",
+      test=lambda f: (_arch_ge(f,"edge",0.0) and _arch_bt(f,"odds",250,300)
+                      and _arch_lt(f,"score",60) and _arch_ge(f,"sig",5)
+                      and _arch_ge(f,"vuln",44))),
+
+ dict(id="HR11", name="Two-Gate Conviction Super-Vuln", tier="B", conv_boost=0,
+      vars="2-Variable: 2 Quant",
+      stack="Conv≥60 + Vuln≥54",
+      rate=55.0, lift=3.34, n=20, hits=11, slates=16, p=8.8e-5, ci=(2.15, 4.34),
+      half1=70.0, half2=40.0, asg="28.6% (2/7)", window="06-07→07-24",
+      why="Only two gates so recall is high, but split-half is decaying 70→40. Watch closely.",
+      test=lambda f: (_arch_ge(f,"conv",60) and _arch_ge(f,"vuln",54))),
+
+ dict(id="HR12", name="Narrow-Score Vuln52 Window", tier="B", conv_boost=0,
+      vars="3-Variable: 2 Quant + 1 Qual",
+      stack="Vuln52+ flag + Score 60-63 + Sig≥3",
+      rate=55.0, lift=3.34, n=20, hits=11, slates=14, p=8.8e-5, ci=(2.38, 4.34),
+      half1=60.0, half2=50.0, asg="50.0% (3/6)", window="06-16→07-24",
+      why="The narrow 60-63 score window on a Vuln52+ arm. Holding post-ASG.",
+      test=lambda f: (_arch_on(f,"Q_VULN52PLUS") and _arch_bt(f,"score",60,63)
+                      and _arch_ge(f,"sig",3))),
+
+ dict(id="HR13", name="Neutral-Park Pitch-Correlation Elite Arm", tier="B", conv_boost=0,
+      vars="3-Variable: 2 Quant + 1 Qual",
+      stack="Park 1.00-1.05 + PITCH CORRELATION note + Vuln<47 (good arm)",
+      rate=55.0, lift=3.34, n=20, hits=11, slates=11, p=8.8e-5, ci=(2.15, 4.29),
+      half1=40.0, half2=70.0, asg="0 fires post-ASG", window="06-17→07-12",
+      why="Vuln<47 is unusual for an HR archetype — the pitch correlation carries it. Zero post-ASG fires; unvalidated in the current regime.",
+      test=lambda f: (_arch_bt(f,"park",1.00,1.05) and _arch_on(f,"Q_PITCH_CORR")
+                      and _arch_lt(f,"vuln",47))),
+
+ dict(id="HR14", name="Distance-Confirmed Value Bat", tier="B", conv_boost=0,
+      vars="3-Variable: 1 Quant + 2 Quant-from-Text",
+      stack="L10dist≥310ft + Odds +250-299 + WHR≥72%",
+      rate=55.0, lift=3.34, n=20, hits=11, slates=16, p=8.8e-5, ci=(2.15, 4.42),
+      half1=70.0, half2=40.0, asg="20.0% (1/5)", window="06-17→07-24",
+      why="Open-ended distance floor rather than HR01's band — weaker, and decaying post-ASG.",
+      test=lambda f: (_arch_ge(f,"l10_dist",310) and _arch_bt(f,"odds",250,300)
+                      and _arch_ge(f,"whr",72))),
+
+ dict(id="HR15", name="Dominant-Pitch Vuln Confirmer", tier="B", conv_boost=0,
+      vars="4-Variable: 1 Quant + 1 Qual + 2 Quant-from-Text",
+      stack="target-pitch vuln 50-60 + PITCH DOM ELITE + Vuln≥44 + WHR≥72%",
+      rate=55.0, lift=3.34, n=20, hits=11, slates=15, p=8.8e-5, ci=(2.21, 4.39),
+      half1=60.0, half2=50.0, asg="50.0% (1/2)", window="06-17→07-22",
+      why="Rehabilitates PITCH DOM ELITE (1.09x standalone) by demanding the target-pitch vuln band and a hot bat.",
+      test=lambda f: (_arch_bt(f,"pitch_vuln",50,60) and _arch_on(f,"Q_PITCH_DOM_ELITE")
+                      and _arch_ge(f,"vuln",44) and _arch_ge(f,"whr",72))),
+
+ dict(id="HR16", name="PropFinder Max-Gate Elite  ⚠️DEGRADING", tier="B", conv_boost=0,
+      vars="5-Variable: 2 Quant + 3 Quant-from-Text",
+      stack="HRprob≥20% + PF-Barrel%≥20 + PF-gates≥7/9 + PF-ISO≥0.300 + Score≥60",
+      rate=57.1, lift=3.47, n=21, hits=12, slates=10, p=2.5e-5, ci=(1.66, 4.78),
+      half1=76.9, half2=25.0, asg="16.7% (1/6)", window="07-03→07-20",
+      why=("❌ DO NOT PROMOTE. Textbook overfit: split-half collapse 77%→25%, post-ASG "
+           "16.7%, and all 10 firing slates are post-Jul-3 (the only window where "
+           "PropFinder values exist in the audit CSV). Logged for the record only."),
+      test=lambda f: (_arch_ge(f,"hr_prob",0.20) and _arch_ge(f,"pf_barrel",20)
+                      and _arch_ge(f,"pf_gates",7) and _arch_ge(f,"pf_iso",0.30)
+                      and _arch_ge(f,"score",60))),
+]
+
+
+# ── HIT ARCHETYPES ───────────────────────────────────────────────────────────
+# DOMINANT PATTERN: ice-cold bat + deep lineup slot. HT01/HT03/HT06 are three
+# independent expressions of the same mechanism — HS<15 with EstPA≥4.6 runs 96%+.
+# The market prices the cold streak; the model prices plate appearances. Four to
+# five guaranteed cuts against a vulnerable arm beats recent form, every time.
+HIT_ARCHETYPES = [
+ dict(id="HT01", name="Deep-Lineup Ice-Cold Contact Bat", tier="A", conv_boost=15,
+      vars="4-Variable: 4 Quant",
+      stack="EstPA≥4.6 + HS<15 (ice cold) + Score<45 + Sig<1",
+      rate=96.4, lift=1.54, n=28, hits=27, slates=21, p=3.3e-5, ci=(1.44, 1.60),
+      half1=100.0, half2=92.9, asg="100% (3/3)", window="05-12→07-23",
+      why=("Sig<1 + Score<45 is the tell: these are bats the HR model has entirely written "
+           "off. The market prices the cold streak, the model prices plate appearances."),
+      test=lambda f: (_arch_ge(f,"est_pa",4.6) and _arch_lt(f,"hs",15)
+                      and _arch_lt(f,"score",45) and _arch_lt(f,"sig",1))),
+
+ dict(id="HT02", name="Hot-Bat Hard-Contact Confirmer", tier="A", conv_boost=15,
+      vars="4-Variable: 2 Quant + 2 Quant-from-Text",
+      stack="HS≥47 + PF-HH% 50-60 + PM≥1.04 + WHR≥72%",
+      rate=96.3, lift=1.54, n=27, hits=26, slates=15, p=5.1e-5, ci=(1.42, 1.60),
+      half1=100.0, half2=90.9, asg="90.9% (10/11)", window="07-03→07-25",
+      why="The warm-bat counterpart to HT01. HH% 50-60 is a band — above 60 the profile turns into HR risk, not hit reliability.",
+      test=lambda f: (_arch_ge(f,"hs",47) and _arch_bt(f,"pf_hh",50,60)
+                      and _arch_ge(f,"pm",1.04) and _arch_ge(f,"whr",72))),
+
+ dict(id="HT03", name="Long-Odds Cold Power Bat", tier="A", conv_boost=15,
+      vars="4-Variable: 4 Quant",
+      stack="EstPA≥4.6 + HS<15 + Odds≥+350 + Pwr≥84",
+      rate=96.2, lift=1.54, n=26, hits=25, slates=17, p=7.8e-5, ci=(1.42, 1.60),
+      half1=92.3, half2=100.0, asg="100% (10/10)", window="06-17→07-25",
+      why="Long HR odds + ice-cold + top-of-order = the market has fully written the bat off while the PA volume is untouched. Perfect 10/10 post-ASG.",
+      test=lambda f: (_arch_ge(f,"est_pa",4.6) and _arch_lt(f,"hs",15)
+                      and _arch_ge(f,"odds",350) and _arch_ge(f,"power",84))),
+
+ dict(id="HT04", name="Validated Signal-PM Hard-Contact Stack", tier="A", conv_boost=15,
+      vars="5-Variable: 2 Quant + 2 Qual + 1 Quant-from-Text",
+      stack="EstPA 4.4-4.6 + PF-HH% 50-60 + BACKTEST note + SIG+PM grade + Score≥60",
+      rate=96.2, lift=1.54, n=26, hits=25, slates=16, p=7.8e-5, ci=(1.42, 1.60),
+      half1=100.0, half2=92.9, asg="92.9% (13/14)", window="07-03→07-24",
+      why="The only archetype requiring two qualitative grades simultaneously. High fire rate post-ASG (14 fires) with 92.9% conversion.",
+      test=lambda f: (_arch_bt(f,"est_pa",4.4,4.6) and _arch_bt(f,"pf_hh",50,60)
+                      and _arch_on(f,"Q_BACKTEST_NOTE") and _arch_on(f,"Q_SIG_PM")
+                      and _arch_ge(f,"score",60))),
+
+ dict(id="HT05", name="Broad-Gate Contact Profile", tier="A", conv_boost=14,
+      vars="4-Variable: 4 Quant-from-Text",
+      stack="PF-gates 6-7/9 + PF-HH% 50-60 + PF-ISO<0.500 + target-pitch vuln≥30",
+      rate=96.0, lift=1.54, n=25, hits=24, slates=12, p=1.2e-4, ci=(1.43, 1.60),
+      half1=100.0, half2=90.9, asg="90.9% (10/11)", window="07-04→07-25",
+      why=("ISO<0.500 is the load-bearing gate — this is a CONTACT profile, not a slug "
+           "profile. 6-7 gates beats 8-9 gates for hits. Note: PropFinder-dependent, only "
+           "12 firing slates."),
+      test=lambda f: (_arch_bt(f,"pf_gates",6,8) and _arch_bt(f,"pf_hh",50,60)
+                      and _arch_lt(f,"pf_iso",0.50) and _arch_ge(f,"pitch_vuln",30))),
+
+ dict(id="HT06", name="Scream-Hit Cold Power Lock", tier="A", conv_boost=15,
+      vars="6-Variable: 5 Quant + 1 Qual",
+      stack="EstPA≥4.6 + HS<15 + Park<1.05 + Pwr≥84 + SCREAM HIT grade + Sig 3-7",
+      rate=96.0, lift=1.54, n=25, hits=24, slates=18, p=1.2e-4, ci=(1.41, 1.60),
+      half1=90.9, half2=100.0, asg="100% (13/13)", window="06-13→07-25",
+      why="Third expression of the cold-bat mechanism, this one gated on the existing SCREAM HIT grade. 13/13 post-ASG.",
+      test=lambda f: (_arch_ge(f,"est_pa",4.6) and _arch_lt(f,"hs",15)
+                      and _arch_lt(f,"park",1.05) and _arch_ge(f,"power",84)
+                      and _arch_on(f,"Q_SCREAM_HIT") and _arch_bt(f,"sig",3,8))),
+
+ dict(id="HT07", name="Ice-Cold Zone-Contact Vuln Play", tier="A", conv_boost=13,
+      vars="4-Variable: 2 Quant + 2 Qual",
+      stack="ICE COLD + Z-CONTACT BOOST + Sig 5-7 + Vuln≥47",
+      rate=93.3, lift=1.49, n=30, hits=28, slates=20, p=1.3e-4, ci=(1.38, 1.60),
+      half1=93.8, half2=92.9, asg="100% (8/8)", window="06-16→07-25",
+      why="Largest n of the Tier-A hit set and the flattest split-half (93.8 / 92.9). Two qualitative grades doing the work.",
+      test=lambda f: (_arch_on(f,"Q_ICE_COLD") and _arch_on(f,"Q_ZCONTACT")
+                      and _arch_bt(f,"sig",5,8) and _arch_ge(f,"vuln",47))),
+
+ dict(id="HT08", name="Neutral-Env High-Score Contact Anchor", tier="A", conv_boost=13,
+      vars="3-Variable: 2 Quant + 1 Qual",
+      stack="Env 1.00-1.03 (neutral) + Z-CONTACT BOOST + Score≥60",
+      rate=92.9, lift=1.49, n=28, hits=26, slates=16, p=2.8e-4, ci=(1.34, 1.60),
+      half1=94.4, half2=90.0, asg="80.0% (4/5)", window="06-16→07-24",
+      why="Neutral env is the point — not a hitter's park, not suppressive. Removes both the HR-chasing and the wind-killed extremes.",
+      test=lambda f: (_arch_bt(f,"env",1.00,1.03) and _arch_on(f,"Q_ZCONTACT")
+                      and _arch_ge(f,"score",60))),
+
+ # ── TRACKING TIER ───────────────────────────────────────────────────────────
+ dict(id="HT09", name="Bullpen-Exposure Low-PM Contact Play", tier="B", conv_boost=0,
+      vars="4-Variable: 3 Quant + 1 Qual",
+      stack="PM<1.02 + short start flagged + Score<60 + Sig<8",
+      rate=92.9, lift=1.49, n=28, hits=26, slates=19, p=2.8e-4, ci=(1.35, 1.60),
+      half1=87.5, half2=100.0, asg="100% (9/9)", window="06-04→07-25",
+      why="Short start is a HIT signal, not an HR signal — more pitchers seen, more contact chances. 9/9 post-ASG. Promote at n≥40.",
+      test=lambda f: (_arch_lt(f,"pm",1.02) and _arch_on(f,"Q_SHORT_START")
+                      and _arch_lt(f,"score",60) and _arch_lt(f,"sig",8))),
+
+ dict(id="HT10", name="Cold-Bat Mid-Odds Vuln Play", tier="B", conv_boost=0,
+      vars="4-Variable: 4 Quant",
+      stack="HS<15 + Odds +350-399 + Score<60 + Vuln≥44",
+      rate=92.9, lift=1.49, n=28, hits=26, slates=21, p=2.8e-4, ci=(1.34, 1.60),
+      half1=88.2, half2=100.0, asg="100% (4/4)", window="05-16→07-25",
+      why="The cold-bat mechanism without the EstPA gate. Slightly weaker, still 1.49x.",
+      test=lambda f: (_arch_lt(f,"hs",15) and _arch_bt(f,"odds",350,400)
+                      and _arch_lt(f,"score",60) and _arch_ge(f,"vuln",44))),
+
+ dict(id="HT11", name="Sweet-PM Super-Vuln Contact Band", tier="B", conv_boost=0,
+      vars="2-Variable: 2 Quant",
+      stack="PM 1.050-1.059 + Vuln≥54",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=20, p=4.3e-4, ci=(1.35, 1.60),
+      half1=90.9, half2=93.8, asg="90.9% (10/11)", window="05-19→07-25",
+      why="Only two gates and the flattest split-half in the tracking tier. Cheapest hit screen available.",
+      test=lambda f: (_arch_bt(f,"pm",1.05,1.06) and _arch_ge(f,"vuln",54))),
+
+ dict(id="HT12", name="Neutral-Env Pitch-Reliant Contact Play", tier="B", conv_boost=0,
+      vars="3-Variable: 2 Quant + 1 Qual",
+      stack="Env 1.00-1.03 + PITCH-RELIANT grade + Score≥55",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=15, p=4.3e-4, ci=(1.33, 1.60),
+      half1=88.9, half2=94.4, asg="100% (7/7)", window="06-16→07-24",
+      why="PITCH-RELIANT's hit expression — a one-pitch starter is easier to square up even when the HR does not come.",
+      test=lambda f: (_arch_bt(f,"env",1.00,1.03) and _arch_on(f,"Q_PITCH_RELIANT")
+                      and _arch_ge(f,"score",55))),
+
+ dict(id="HT13", name="Conviction Sweet-PM Vuln Play", tier="B", conv_boost=0,
+      vars="3-Variable: 3 Quant",
+      stack="Conv≥60 + PM 1.050-1.059 + Vuln≥47",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=20, p=4.3e-4, ci=(1.34, 1.60),
+      half1=100.0, half2=84.6, asg="80.0% (8/10)", window="06-07→07-25",
+      why="Looser Vuln floor than HT11 but adds a conviction gate. Split-half is decaying 100→84.6 — watch.",
+      test=lambda f: (_arch_ge(f,"conv",60) and _arch_bt(f,"pm",1.05,1.06)
+                      and _arch_ge(f,"vuln",47))),
+
+ dict(id="HT14", name="Validated Zone-Contact Hard-Hit Stack", tier="B", conv_boost=0,
+      vars="4-Variable: 1 Quant + 2 Qual + 1 Quant-from-Text",
+      stack="PF-HH% 50-60 + BACKTEST note + Z-CONTACT BOOST + Vuln≥47",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=14, p=4.3e-4, ci=(1.32, 1.60),
+      half1=91.7, half2=93.3, asg="93.3% (14/15)", window="07-03→07-25",
+      why="Highest post-ASG fire count of any hit archetype (15). PropFinder-dependent.",
+      test=lambda f: (_arch_bt(f,"pf_hh",50,60) and _arch_on(f,"Q_BACKTEST_NOTE")
+                      and _arch_on(f,"Q_ZCONTACT") and _arch_ge(f,"vuln",47))),
+
+ dict(id="HT15", name="Big-Edge Spray Contact Profile", tier="B", conv_boost=0,
+      vars="4-Variable: 2 Quant + 2 Quant-from-Text",
+      stack="Edge≥+15% + PF-Pull%<70 (not pull-locked) + PM≥1.03 + target-pitch vuln<60",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=15, p=4.3e-4, ci=(1.33, 1.60),
+      half1=90.9, half2=93.8, asg="92.3% (12/13)", window="06-17→07-25",
+      why="Pull%<70 is the key — a spray profile converts to hits where a pull-locked profile converts to outs into the shift.",
+      test=lambda f: (_arch_ge(f,"edge",15.0) and _arch_lt(f,"pf_pull",70)
+                      and _arch_ge(f,"pm",1.03) and _arch_lt(f,"pitch_vuln",60))),
+
+ dict(id="HT16", name="Underpriced Power Park Contact Play", tier="B", conv_boost=0,
+      vars="4-Variable: 4 Quant",
+      stack="Edge≥+20% + Park≥1.00 + Pwr≥68 + Score≥55",
+      rate=92.6, lift=1.48, n=27, hits=25, slates=19, p=4.3e-4, ci=(1.32, 1.60),
+      half1=92.3, half2=92.9, asg="100% (7/7)", window="05-21→07-25",
+      why="Large model edge in a non-suppressive park. Flat split-half, 7/7 post-ASG.",
+      test=lambda f: (_arch_ge(f,"edge",20.0) and _arch_ge(f,"park",1.00)
+                      and _arch_ge(f,"power",68) and _arch_ge(f,"score",55))),
+]
+
+ARCHETYPES = {"HR": HR_ARCHETYPES, "HIT": HIT_ARCHETYPES}
+ARCHETYPE_BY_ID = {a["id"]: a for a in (HR_ARCHETYPES + HIT_ARCHETYPES)}
+
+# Conviction cap so a confluence of archetypes cannot dominate the whole score.
+ARCHETYPE_CONV_CAP = 30.0
+
+
+def build_archetype_features(sc, notes_iterable=None, **quant):
+    """Assemble the flat feature dict the archetype predicates consume.
+
+    `quant` supplies the quantitative locals already computed by _score_sharp
+    (score/power/vuln/pm/park/env/hs/sig/odds/edge/hr_prob/est_pa/conv).
+    Qualitative markers and text-embedded numerics are regexed out of the notes
+    blob using the SAME patterns the historical mining used — this is what keeps
+    the live gate identical to the backtested gate.
+    """
+    import re as _re_arch
+    f = dict(quant)
+    _notes = notes_iterable
+    if _notes is None:
+        _notes = list(getattr(sc, "notes", None) or []) + list(getattr(sc, "hit_notes", None) or [])
+    txt = " ".join(str(n) for n in _notes)
+    for k, pat in ARCHETYPE_QUAL_PATTERNS.items():
+        f[k] = bool(_re_arch.search(pat, txt))
+    for k, pat in ARCHETYPE_NUM_PATTERNS.items():
+        m = _re_arch.search(pat, txt)
+        if m:
+            try:
+                f[k] = float(next(gv for gv in m.groups() if gv is not None))
+            except (StopIteration, ValueError, TypeError):
+                f[k] = None
+        else:
+            f[k] = None
+    return f
+
+
+def evaluate_archetypes(f, target="HR", tiers=("A", "B")):
+    """Return every archetype fully satisfied by feature dict `f`, best lift first."""
+    out = []
+    for a in ARCHETYPES.get(target, []):
+        if a["tier"] not in tiers:
+            continue
+        try:
+            fired = a["test"](f)
+        except Exception:
+            fired = False
+        if fired:
+            out.append(a)
+    out.sort(key=lambda x: (-x["lift"], -x["n"]))
+    return out
+
+
+def archetype_conv_boost(f, target="HR", cap=ARCHETYPE_CONV_CAP):
+    """Total conviction boost from PROMOTE-tier archetypes only, capped."""
+    return min(cap, sum(a["conv_boost"] for a in evaluate_archetypes(f, target, tiers=("A",))))
+
+
+def archetype_labels(f, target="HR"):
+    """Display strings for the pick card / flash table."""
+    icon = "🧬" if target == "HR" else "🎯"
+    kind = "HR" if target == "HR" else "Hit"
+    return [
+        f'{icon} {a["id"]} {a["name"]} → {a["rate"]:.0f}% {kind} '
+        f'({a["lift"]:.2f}x, n={a["n"]}, {a["slates"]}sl)'
+        + ("  [TRACKING]" if a["tier"] == "B" else "")
+        for a in evaluate_archetypes(f, target)
+    ]
+
 
 
 def _score_sharp(sc, rank: int = 99) -> dict:
@@ -20461,7 +20974,13 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if IC_SIGNAL_HR:              _firing_grades.append("🧊 ICE COLD+SIGNAL HR")
     elif SHARP_COMBO_ICE_COLD_HR: _firing_grades.append("🧊 ICE COLD HR")   # legacy: no PM gate
     if SHARP_COMBO_HIGH_K_HR:     _firing_grades.append("🎯 HIGH-K HR")
-    if SHARP_COMBO_SWEET:         _firing_grades.append("🎯 SWEET PM HR")
+    # ❌ SWEET PM HR — RETIRED as an HR grade (Jul 26 2026 archetype audit).
+    # 72-slate CSV, n=160: 12.5% HR / 0.76x — BELOW BASELINE across every window.
+    # Hit side is the real edge: 71.9% hit / 1.15x. Demoted to a hit-card-only note.
+    # Conviction credit removed; replaced in the HR conviction slots by HR01–HR08.
+    if SHARP_COMBO_SWEET:
+        flags.append("🎯 SWEET PM (hit-only): 71.9% hit / 1.15x — HR edge RETIRED "
+                     "(12.5% HR / 0.76x, n=160, 72-sl CSV Jul26)")
     if SHARP_COMBO_PITCH_DOM_HR:  _firing_grades.append("🎯 PITCH DOMINANCE HR")
     if PITCH_DOM_ELITE_HR:        _firing_grades.append("🎯 PITCH DOM ELITE HR")  # rebuild: PD EDGE + (PMix≥.40 OR Sig≥5), 1.73x
     if PITCH_RELIANT_HR:
@@ -20469,7 +20988,11 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                       if _pr_is_hs else "overall")
         _firing_grades.append(f"🎯 PITCH-RELIANT HR ({_pr_code} {_pr_usage}% {_pr_hs_tag})")  # single-pitch-reliant pitcher + power bat crushes it: ~35% HR (2.18x)
     if SHARP_PM_HR and "🎯 PITCH DOMINANCE HR" not in _firing_grades:
-        _firing_grades.append("🎯 SHARP PM HR")   # new: PM≥1.08 + Score 40-70, 21.1% HR
+        # ⚠️ SHARP PM HR — SUSPENDED (Jul 26 2026 archetype audit).
+        # All-time 17.5% HR / 1.06x (n=229) is barely above baseline, but post-ASG it is
+        # 1.8% / 0.17x — ONE HR in 55 fires. Kept as a tracking note with zero conviction
+        # credit pending review; re-enable only if it clears 1.3x over 10+ fresh slates.
+        _firing_grades.append("⚠️ SHARP PM HR [SUSPENDED — 1/55 post-ASG, 0.17x; no conv credit]")
     if PITCH_EDGE_HR and "🎯 PITCH DOMINANCE HR" not in _firing_grades:
         _firing_grades.append("🎯 PITCH EDGE HR")  # near-PITCH DOM blocked by short-start/gate
     if MID_SCORE_HR and "🎯 SHARP PM HR" not in _firing_grades and "🎯 PITCH DOMINANCE HR" not in _firing_grades:
@@ -20506,13 +21029,12 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                 f"🔥 PWR-VULN-ENV HR: Pwr{power:.0f}+Vuln{vuln:.0f}+Env{_env_val:.2f}+PM{pm:.3f} "
                 f"→ 40.0% HR (2.30x, n=35, pkl Jun24)"
             )
+    # ❌ SC58-66+ENV BOOST — RETIRED (Jul 26 2026 archetype audit).
+    # Grade claimed 28.1% HR / 1.64x (p=0.001, n=146). Re-audited on the full 72-slate
+    # merged CSV at n=200: 14.5% HR / 0.88x, and 8.6% / 0.81x post-ASG. The original
+    # figure did not survive a wider window. No longer fires; no conviction credit.
     elif SC58_66_ENV_BOOST_HR:
-        # Tracking grade — fires when PWR_VULN_ENV_HR not already covering this pick.
-        # No conv boost yet; ranking boost applied in ranking engine. Note only.
-        _firing_grades.append(
-            f"🌡️ SC58-66+ENV BOOST (TRACKING): Sc{score:.0f}+Env{_env_val:.3f} "
-            f"→ 28.1% HR (1.64x, p=0.001, n=146, 47-sl CSV Jun26)"
-        )
+        pass
     # 🌡️ ENV-ANCHORED PITCH MATCH (Jul 9 2026): PRIME/CONFIRMED + Vuln 42-52 + Env/Park + Pwr>=80
     # CSV 74-slate backtest: 26.1% HR (1.76x, n=69). Fires as supplemental grade note.
     # Pwr>86 sub-bucket tracking: 47.1% HR (3.17x, n=17) — flagged separately.
@@ -20630,7 +21152,11 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Fire standalone if gap ≥ 1.25 OR supplemental if already have a primary grade
     if ERA_UNDERSTATED_HR and "📊 ERA Understated" not in " ".join(_firing_grades):
         if _firing_grades or _era_gap_sc >= 1.25:
-            _firing_grades.append("📊 ERA Understated HR")
+            # ❌ ERA UNDERSTATED HR — RETIRED (Jul 26 2026 archetype audit).
+            # 15.2% HR / 0.92x (n=125) all-time; 7.3% / 0.69x post-ASG — the worst
+            # post-ASG decay of any supplemental. Retained as a context note only.
+            flags.append("📊 ERA understated (context only — grade RETIRED: "
+                         "15.2% HR / 0.92x, n=125, 72-sl CSV Jul26)")
     # 🏟️ POWER PARK HR: extreme hand-specific park + solid bat/matchup — TRACKING (Jun 15 2026)
     # Contreras archetype: 2 HR at +390, RHB park 1.280x — model gave Conv 17 (no named grade fired)
     # Fires as supplemental to surface the park edge when no primary grade catches it.
@@ -20641,6 +21167,90 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     #              + pitcher weakness + PitchMix wOBA ≥ 0.400. Historical: not yet backtest-able.
     if BZM_COMBO_HR:
         _firing_grades.append("🎯 BZM COMBO HR")
+
+    # ══════════════════════════════════════════════════════════════════════════
+    # 🧬 STACKED ARCHETYPE ENGINE — evaluate (Jul 26 2026)
+    # ══════════════════════════════════════════════════════════════════════════
+    # Fires AFTER every named grade is built, because six archetypes gate on
+    # qualitative markers that live in _firing_grades / flags rather than notes.
+    # Tier A applies conviction; Tier B prints [TRACKING] with zero credit.
+    #
+    # Tier A HR: 52.0% HR (3.16x, n=125, 52 slates) · Tier A HIT: 92.3% (1.48x, n=181)
+    # Confluence: 2+ Tier-A HR = 78.1% (4.75x, n=32) · 3+ = 100% (n=8)
+    _arch_odds_val = None
+    try:
+        _arch_raw_odds = str(getattr(sc, "hr_odds_display", "") or "").strip()
+        if _arch_raw_odds.startswith("+"):
+            _arch_odds_val = float(_arch_raw_odds[1:].replace(",", ""))
+        elif _arch_raw_odds.startswith("-"):
+            _arch_odds_val = 0.0        # negative American price = shorter than any + line
+    except (ValueError, AttributeError):
+        _arch_odds_val = None
+
+    # Text blob: notes + every fired grade + flags. Grades must be included or
+    # Q_VULN52PLUS / Q_PITCH_DOM_ELITE / Q_PITCH_RELIANT / Q_SIG_PM never fire.
+    _arch_text_src = (list(_all_sc_notes)
+                      + [str(_g_) for _g_ in _firing_grades]
+                      + [str(_f_) for _f_ in flags])
+
+    _arch_feats = build_archetype_features(
+        sc, _arch_text_src,
+        score=float(score), power=float(power), vuln=float(vuln), pm=float(pm),
+        park=float(park), env=float(_env_val), hs=float(hs or 0.0),
+        sig=float(_sig_val), odds=_arch_odds_val,
+        edge=float(_edge_sc) * 100.0,          # stored as fraction; archetypes use %
+        hr_prob=float(_hr_prob_sc), est_pa=float(_est_pa_sc), conv=float(_conv_sc),
+    )
+    # Prefer the structured target-pitch score over the regexed "(vuln NN)" when present.
+    if _pitcher_target_score:
+        _arch_feats["pitch_vuln"] = float(_pitcher_target_score)
+    if _pr_usage:
+        _arch_feats["pitch_usage"] = float(_pr_usage)
+
+    _arch_hr_fired  = evaluate_archetypes(_arch_feats, "HR")
+    _arch_hit_fired = evaluate_archetypes(_arch_feats, "HIT")
+    _arch_hr_A      = [a for a in _arch_hr_fired  if a["tier"] == "A"]
+    _arch_hit_A     = [a for a in _arch_hit_fired if a["tier"] == "A"]
+    _arch_conv_hr   = archetype_conv_boost(_arch_feats, "HR")
+    _arch_conv_hit  = archetype_conv_boost(_arch_feats, "HIT")
+
+    for _a in _arch_hr_fired:
+        _firing_grades.append(
+            f'🧬 {_a["id"]} {_a["name"]}: {_a["stack"]} → {_a["rate"]:.1f}% HR '
+            f'({_a["lift"]:.2f}x, n={_a["n"]}, {_a["slates"]}sl, p={_a["p"]:.0e})'
+            + ("  [TRACKING — no conv credit]" if _a["tier"] == "B" else "")
+        )
+    for _a in _arch_hit_fired:
+        flags.append(
+            f'🎯 {_a["id"]} {_a["name"]}: {_a["stack"]} → {_a["rate"]:.1f}% Hit '
+            f'({_a["lift"]:.2f}x, n={_a["n"]}, {_a["slates"]}sl)'
+            + ("  [TRACKING]" if _a["tier"] == "B" else "")
+        )
+
+    # ── CONFLUENCE TIER — the strongest signal in the whole library ───────────
+    # 2+ Tier-A HR archetypes = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8, 6.08x).
+    # 2+ Tier-A HIT archetypes = 100% hit (1.60x, n=39).
+    _arch_hr_confluence  = len(_arch_hr_A)
+    _arch_hit_confluence = len(_arch_hit_A)
+    if _arch_hr_confluence >= 3:
+        _firing_grades.append(
+            "🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE — 3+ Tier-A HR archetypes stacking "
+            "→ 100.0% HR (6.08x, n=8, 72-sl CSV Jul26). AUTO MUST-PLAY."
+        )
+        hr_pts += 10
+    elif _arch_hr_confluence == 2:
+        _firing_grades.append(
+            "🧬🧬 ARCHETYPE DOUBLE CONFLUENCE — 2 Tier-A HR archetypes stacking "
+            "→ 78.1% HR (4.75x, n=32, 72-sl CSV Jul26). AUTO MUST-PLAY."
+        )
+        hr_pts += 6
+    elif _arch_hr_confluence == 1:
+        hr_pts += 3
+    if _arch_hit_confluence >= 2:
+        flags.append(
+            "🎯🎯 ARCHETYPE HIT CONFLUENCE — 2+ Tier-A hit archetypes stacking "
+            "→ 100.0% Hit (1.60x, n=39, 72-sl CSV Jul26). AUTO MUST-PLAY (hit card)."
+        )
 
     # ── PITCHER WEAK SPOT / PRIME WEAK SPOT (Jun 26 2026) ─────────────────
     # Supplemental grade: batter's confirmed lineup_spot falls in a position where
@@ -20969,16 +21579,24 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # so display == tracking; no orphan branches, no mismatched 29/30% rates. A pick
     # can satisfy more than one (Power-Vuln + Sig-PM overlap when sig 1-5) — all that
     # fire are shown, matching the trackers, which credit each key independently.
+    # ❌ SCREAM HR FAMILY — FULLY RETIRED (Jul 26 2026 archetype audit).
+    #   Power-Vuln : already suppressed Jun 23 (0.93x)
+    #   High-PM    : claimed 25.6% / 1.59x — re-audit 72-sl n=117: 14.5% HR / 0.88x,
+    #                7.7% / 0.72x post-ASG
+    #   Sig-PM     : claimed 24.3% / 1.50x — folded into the same n=117 population
+    #   5-Signal   : demoted Jun 23 to 17.1% / 1.08x, never recovered
+    # The whole family sits BELOW baseline. Labels no longer emitted; the conviction
+    # slots they occupied are now held by archetypes HR01–HR08 (52.0% HR / 3.16x).
+    # Detector conditions retained below purely so the historical registry keys keep
+    # populating for post-mortem comparison — they no longer produce a label.
     _scream_labels = []
+    _scream_retired_hits = []
     if 40.0 <= score < 60.0 and 1.04 <= pm < 1.07 and power >= 78.0 and 44.0 <= vuln < 52.0:
-        pass  # SCREAM HR Power-Vuln label SUPPRESSED (CSV audit Jun 23 2026: 0.93x baseline)
+        _scream_retired_hits.append("Power-Vuln")
     if 55.0 <= score < 60.0 and 1.07 <= pm < 1.10:
-        _scream_labels.append(f"🚨 SCREAM HR (High-PM): Sc{score:.0f}+PM{pm:.3f} → {_grade_rate('scream_highpm_hr', '25.6%  10/39')} AT")
+        _scream_retired_hits.append("High-PM")
     if 1 <= _sig_val < 5 and 1.04 <= pm < 1.07:
-        _scream_labels.append(f"🚨 SCREAM HR+HIT (Sig-PM): Sig{_sig_val:.0f}+PM{pm:.3f} → {_grade_rate('scream_sigpm_hr', '24.3%  9/37')} HR + ~73% Hit")
-    # ── 5-Signal SCREAM HR (Jun 23 2026) ──────────────────────────────────────
-    # Score<68 + Power≥73 + T2+BBE (ptm_conv_bonus≥3) + Sig≥1 + PM 1.04-1.10
-    # Backtest: 36.4% HR (8/22, 2.25x) on complete slates (Jun21+22). T3 bucket 69.2%.
+        _scream_retired_hits.append("Sig-PM")
     _ptm_cb_for_scream = getattr(sc, "ptm_conv_bonus", 0.0) if sc else _ptm_conv_bonus
     _five_sig_fires = (
         score < 68.0
@@ -20988,11 +21606,10 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         and _ptm_cb_for_scream >= 3.0
     )
     if _five_sig_fires:
-        _5s_rate = _grade_rate("scream_five_signal_hr", "36.4%  8/22 (Jun21+22)")
-        _scream_labels.append(
-            f"🚨 SCREAM HR (5-Signal): Sc{score:.0f}+Pwr{power:.0f}+Sig{_sig_val:.0f}"
-            f"+PM{pm:.3f}+T2+BBE → {_5s_rate} (Jun21+22 complete data) ⚠️ HIGH VARIANCE"
-        )
+        _scream_retired_hits.append("5-Signal")
+    if _scream_retired_hits:
+        flags.append("🚨 SCREAM legacy match (" + "/".join(_scream_retired_hits) +
+                     ") [RETIRED family — 0.88x, no conv credit]")
     for _sl in _scream_labels:
         hr_grade = hr_grade + "  ·  " + _sl
         flags.append(_sl)
@@ -21401,7 +22018,10 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     )
     if _gate_override:
         flags = [f for f in flags if f != "⚠️ Gated"]
-        flags.append("🔓 Gate Override")
+        # ❌ GATE OVERRIDE — RETIRED as a positive signal (Jul 26 2026 archetype audit).
+        # 13.8% HR / 0.84x (n=130) all-time and 0-for-11 post-ASG. Kept as a neutral
+        # provenance note so the override is still auditable, but it earns no credit.
+        flags.append("🔓 Gate Override [RETIRED signal — 0.84x, 0/11 post-ASG]")
         hr_grade = hr_grade.replace(" ⚠️Gated", " 🔓Override")
 
     # ── New standout flags (surface key transcript signals in pick tables) ────
@@ -22453,6 +23073,28 @@ def _load_grade_stats() -> dict:
         ("live_confirmed_match_hr", lambda p: "LIVE CONFIRMED MATCH" in (p.get("hr_grade") or "")), # CHANGE 2C: LIVE version with L7 recency
         ("era_understated_hr",  lambda p: "ERA Understated HR" in (_g(p,"hr_grade") or "")),  # new June 2026
         ("pitch_reliant_hr",    lambda p: "PITCH-RELIANT" in (_g(p,"hr_grade") or "")),  # new June 2026 — single-pitch-reliant pitcher + power
+        # ══ 🧬 ARCHETYPE REGISTRY (Jul 26 2026) — live rate accrual per archetype ══
+        # Keys are archetype_<id>. HR ids match on hr_grade (they are appended there);
+        # HIT ids match on flags (hit archetypes are written to the flags column).
+    ] + [
+        (f"archetype_{_aid.lower()}",
+         (lambda _a: (lambda p: _a in str(_g(p, "hr_grade") or "")))(_aid))
+        for _aid in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08",
+                     "HR09","HR10","HR11","HR12","HR13","HR14","HR15","HR16")
+    ] + [
+        (f"archetype_{_aid.lower()}",
+         (lambda _a: (lambda p: _a in str(_g(p, "flags") or "")))(_aid))
+        for _aid in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08",
+                     "HT09","HT10","HT11","HT12","HT13","HT14","HT15","HT16")
+    ] + [
+        ("archetype_hr_tierA",   lambda p: any(_a in str(_g(p,"hr_grade") or "")
+                                    for _a in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08"))),
+        ("archetype_hr_confluence2", lambda p: sum(1 for _a in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08")
+                                    if _a in str(_g(p,"hr_grade") or "")) >= 2),
+        ("archetype_hr_confluence3", lambda p: sum(1 for _a in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08")
+                                    if _a in str(_g(p,"hr_grade") or "")) >= 3),
+        ("archetype_hit_tierA",  lambda p: any(_a in str(_g(p,"flags") or "")
+                                    for _a in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08"))),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last5), _fmt_hr(subset, all_set))
@@ -22624,7 +23266,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
 
     # ── DECISION GUIDE (top of sheet) ─────────────────────────────────────
     ws.merge_cells(f"A{row}:F{row}")
-    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  Grades are INDEPENDENT signals. A batter firing 2+ grades simultaneously is your screaming pick (shown in gold). The 🚨 SCREAM HR combos are now tracked as their own named grades in the grade table below (with live HR rates) — look for the 🚨 rows. SCREAM HIT: Cold+PM≥1.03=66.2% (CSV 57-sl) · HS35-40+Sig1-5=82.3% (CSV) · HS40-47+Sig1-5=69.5% (CSV).",
+    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  Grades are INDEPENDENT signals. A batter firing 2+ grades simultaneously is your screaming pick (shown in gold).  🧬 ARCHETYPES (Jul 26 2026) are the new top tier — look for the 🧬 HR01–HR16 / 🎯 HT01–HT16 rows. Tier A HR archetypes run 52.0% HR (3.16x, n=125); Tier A HIT run 92.3% (1.48x, n=181). ⭐ CONFLUENCE IS THE MUST-PLAY TRIGGER: 2+ Tier-A HR archetypes on one batter = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8); 2+ Tier-A HIT = 100% hit (n=39).  ❌ RETIRED Jul 26 2026: SCREAM HR family (0.88x), SWEET PM HR as an HR grade (0.76x — hit card only), ERA Understated HR (0.92x), SC58-66+ENV BOOST (0.88x), Gate Override (0.84x); SHARP PM HR SUSPENDED (1/55 post-ASG).  SCREAM HIT: Cold+PM≥1.03=66.2% (CSV 57-sl) · HS35-40+Sig1-5=82.3% (CSV) · HS40-47+Sig1-5=69.5% (CSV).",
        bg="1F3864", fc="FFFFFF", size=9, bold=True)
     ws[f"A{row}"].alignment = Alignment(horizontal="left", vertical="center", wrap_text=True, indent=1)
     ws.row_dimensions[row].height = 28; row += 1
@@ -22964,22 +23606,30 @@ def _sheet_sharp_picks(wb, scores, top_n):
                 try: _era_gap_p2 = float(_era_m2.group(1)) - float(_era_m2.group(2))
                 except: pass
                 break
-        if "ERA Understated HR" in g:
-            # Jul 1 2026: ERA understated is supplemental (stacks with T4/PITCH-RELIANT for HR edge).
-            # Standalone ERA understated is weak HR signal (20% HR, 1.28x, n=15) — not enough to
-            # inflate conviction meaningfully. Keep small supplemental credit only.
-            if _era_gap_p2 >= 1.25:  _p2 = max(_p2,  8.0)   # meaningful skill deception (was 14.0)
-            else:                     _p2 = max(_p2,  4.0)   # supplemental confirmation (was 7.0)
+        # ❌ ERA Understated HR — conviction credit REMOVED Jul 26 2026.
+        # 15.2% HR / 0.92x (n=125); 0.69x post-ASG. Grade retired to a context flag.
 
         if "PITCH DOMINANCE HR" in g:    _p2 = max(_p2, 6.0)
         if "BZM COMBO HR" in g:          _p2 = max(_p2, 5.0)
-        if "SCREAM HR (High-PM)" in g:   _p2 = max(_p2, 5.0)  # 27% AT validated
-        if "ICE COLD" in g:              _p2 = max(_p2, 4.0)
+        if "ICE COLD" in g:              _p2 = max(_p2, 4.0)   # 18.7% / 1.14x — holds
         if "POWER PARK HR" in g:         _p2 = max(_p2, 3.0)
-        if "SCREAM HR (Power-Vuln)" in g: _p2 = max(_p2, 3.0)  # baseline 16% — minimal credit
-        if "SHARP PM HR" in g:           _p2 = max(_p2, 3.0)
         if "SIG+PM" in g or "ELITE SIGNAL" in g: _p2 = max(_p2, 3.0)
         if "SHARP LINE + VULN" in g:     _p2 = max(_p2, 4.0)
+        # ❌ SCREAM HR family (Power-Vuln / High-PM / Sig-PM / 5-Signal): credit REMOVED
+        #    Jul 26 2026 — whole family runs 0.88x on n=117.
+        # ⚠️ SHARP PM HR: credit REMOVED (suspended — 1/55 post-ASG, 0.17x).
+        # ❌ SWEET PM HR: credit REMOVED (0.76x HR; demoted to hit-card note).
+
+        # 🧬 ARCHETYPE CONVICTION (Jul 26 2026) — replaces the retired slots.
+        # Tier A only. HR01 +20 / HR02 +18 / HR03 +18 / HR04 +16 / HR05–HR08 +14.
+        # Capped at ARCHETYPE_CONV_CAP (30) so a confluence cannot swamp the score.
+        _arch_p2 = 0.0
+        for _aid, _aboost in (("HR01", 20.0), ("HR02", 18.0), ("HR03", 18.0), ("HR04", 16.0),
+                              ("HR05", 14.0), ("HR06", 14.0), ("HR07", 14.0), ("HR08", 14.0)):
+            if _aid in g:
+                _arch_p2 += _aboost
+        if _arch_p2:
+            _p2 = max(_p2, min(_arch_p2, 30.0))
 
         # Grade count stacking — only adds when genuinely independent (not pitch-family repeats)
         _pitch_grades = sum(1 for t in ("CONFIRMED MATCH", "PITCH DOM ELITE",
@@ -23739,7 +24389,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                                                                                                         _cm_l5,  _cm_all),
         ("🎯 PITCH-RELIANT HR",    "Jun 2026, TOP-TIER conviction: starter leans on ONE pitch (primary usage ≥45%, ex-sinker/splitter) AND power bat (Pwr≥78) crushes it (wOBA edge ≥0.045). CSV audit (57 slates): 22.1% HR (15/68, 1.38x). Original 35.3% claim was from old Pwr≥60 gate (now Pwr≥78 required). Rate update: 22.1% (1.38x) confirmed. Load-bearing gates: (1) Pwr≥78; (2) NOT sinker/splitter (GB pitches → 12-14% HR, below base). CSV audit (57 slates): 22.1% HR (15/68, 1.38x). Original 35.3% claim overstated (from old Pwr≥60 gate). Real edge at Pwr≥78: 22.1% (1.38x). Stacking with Sig≥10 gives 41.2% (2.6x, n=17). Generalizes across FF/FC/SL/ST/CH/CU — pitch RELIANCE drives the edge. Label shows pitch code + starter usage.",  _ff_l5,   _ff_all),
         ("🧊 ICE COLD+SIGNAL HR",  "Cold WHR + PM≥1.04 + Score≥40 (or Score≥35 with PITCH DOM EDGE ≥+5 — cold bat HR exception) — upgraded from ICE COLD. 41-slate: 57-sl CSV: 20.5% HR (32/156, 1.29x); hit 64.2% (1.10x). Was overstated at 25.3% (1.57x).",  _ic_l5,   _ic_all),
-        ("🎯 SWEET PM HR",         "PM 1.03-1.07 + Prob≥14% + Vuln 44-55 + Edge<0 + Sc<65. "
+        ("🎯 SWEET PM HR",         "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). 12.5%% HR / 0.76x (n=160) — BELOW BASELINE in every window. HIT side is the real edge: 71.9%% / 1.15x, so this is now a HIT-CARD-ONLY note with zero HR conviction credit. Replaced in the HR conviction slots by archetypes HR01–HR08 (52.0%% / 3.16x). Legacy gate: PM 1.03-1.07 + Prob≥14%% + Vuln 44-55 + Edge<0 + Sc<65. "
                                    "Jun 16 2026 backtest fix: PM<1.03 = 15.4% HR (0.99x, no edge) — floor raised 1.00 → 1.03. "
                                    "PM 1.03-1.05 = 19.4% (1.24x); PM 1.05-1.07 = 23.5% (1.51x). 33-slate: 19.7% HR (1.26x).",       _sp_l5,   _sp_all),
         ("🎯 PITCH DOMINANCE HR",  "Jun 10 2026 rebuild + Jun 16 2026 PM floor fix: aggregate PITCH DOMINANCE EDGE note (pitch-edge bonus ≥5) + PM 1.06-1.08 + Pwr≥74. "
@@ -23751,20 +24401,20 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                    "Data is stale — the Pwr<78 population is no longer eligible. "
                                    "Track going forward with Pwr≥78 gate before drawing conclusions on performance.",  _pde_l5,  _pde_all),
         ("🎯 PITCH-RELIANT HR",    "Jun 2026, TOP-TIER conviction: starter leans on ONE pitch (primary usage ≥45%, ex-sinker/splitter) AND power bat (Pwr≥78) crushes it (wOBA edge ≥0.045). Backtest logged at old Pwr≥60 gate: 35.3% HR (2.18x, n=34). Power gate recalibrated Jun 14 2026: Pwr<78 = lower-confidence tier. Load-bearing gates: (1) Pwr≥78; (2) NOT sinker/splitter (GB pitches → 12-14% HR, below base). Generalizes across FF/FC/SL/ST/CH/CU — pitch RELIANCE drives the edge, not fastball specifically. Pitch-edge family, de-duped in conviction. Label shows pitch code + starter usage.",  _ff_l5,   _ff_all),
-        ("🎯 SHARP PM HR",         "REVISED Jun 25 2026 (pkl backtest n=3102): PM 1.08-1.15 + Score 40-70. Cap raised 1.10→1.15. PM 1.09-1.10 = 31.8% HR (4.20x) — PEAK bin; PM 1.10-1.12 = 18.9% (2.49x) still strong. TRUE kill zone = PM≥1.15 (12.5% HR, ~baseline). PM≥1.15 = strong HIT (87.5%, 1.63x) but no HR edge. CSV audit (57 slates): 18.4% HR (21/114, 1.16x) at old gate.",           _spm_l5,  _spm_all),
+        ("🎯 SHARP PM HR",         "⚠️ SUSPENDED Jul 26 2026 (archetype audit): all-time 17.5%% HR / 1.06x (n=229) is baseline noise, and POST-ASG it is 1.8%% / 0.17x — ONE HR in 55 fires. Zero conviction credit pending review; re-enable only after clearing 1.3x over 10+ fresh slates. Legacy: PM 1.08-1.15 + Score 40-70. Cap raised 1.10→1.15. PM 1.09-1.10 = 31.8% HR (4.20x) — PEAK bin; PM 1.10-1.12 = 18.9% (2.49x) still strong. TRUE kill zone = PM≥1.15 (12.5% HR, ~baseline). PM≥1.15 = strong HIT (87.5%, 1.63x) but no HR edge. CSV audit (57 slates): 18.4% HR (21/114, 1.16x) at old gate.",           _spm_l5,  _spm_all),
         ("🎯 MID-SCORE HR",        "Score 50-60 + PM 1.04+ + Vuln 44-53. 33-slate: 14.0% HR (0.90x, n=43) standalone — BELOW baseline. "
                                    "No conviction credit awarded when firing alone. "
                                    "Value is as a stacking component: PITCH EDGE HR requires it as primary; Power-PM+MID-SCORE stack = 27.3% HR (1.69x). "
                                    "CSV audit (57 slates): MID-SCORE standalone = 19.1% (1.20x, n=272) — modest positive edge. Old 0.90x standalone claim was wrong. The grade has a real but small edge; stacking with T4_BBE or pitch edge significantly amplifies it.",               _ms_l5,   _ms_all),
         ("🔥 SIG+PM HR",           "Sig≥5 + PM≥1.04 + Score≥40. 41-slate: 18.6% HR (1.15x, n=311); hit 62.7% (~baseline) — treat as HR-primary.",    _sigpm_l5,_sigpm_all),
-        ("🚨 SCREAM HR (Power-Vuln)", "Score 40-60 + PM 1.04-1.07 + Pwr≥78 (recalibrated Jun 14 2026; was Pwr≥60) + Vuln 44-52. "
+        ("🚨 SCREAM HR (Power-Vuln)", "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). Whole SCREAM family runs 0.88x on n=117. Label no longer emitted; detector kept only so the registry key keeps populating for post-mortems. Legacy gate: Score 40-60 + PM 1.04-1.07 + Pwr≥78 + Vuln 44-52. "
                                     "Jun 16 2026 backtest note: only 6 picks (new Jun 2026 grade). PM 1.04-1.05 = 2/3 (66.7%); PM 1.05-1.07 = 0/3 (0%) — narrow window, too small to act on. "
                                     "Vuln dead zone (V<44) = 0/4; sweet zone (V47-50) = 2/6. "
                                     "Old data at Pwr 60-78 gate: 4/20 (20%). Track going forward with Pwr≥78 gate.", _scrpv_l5, _scrpv_all),
-        ("🚨 SCREAM HR (High-PM)",    "Score 55-60 + PM 1.07-1.10 — extreme-but-not-yet-priced PM band. 41-slate: 25.6% HR (10/39, 1.59x).", _scrpm_l5, _scrpm_all),
-        ("🚨 SCREAM HR+HIT (Sig-PM)", "Sig 1-5 + PM 1.04-1.07 — dual screamer. 41-slate: 24.3% HR (9/37, 1.50x) AND ~73% hit. Market-underpriced edge in the sweet PM band.", _scrsg_l5, _scrsg_all),
+        ("🚨 SCREAM HR (High-PM)",    "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). Claimed 25.6%% / 1.59x on 41 slates; re-audit on 72 slates gives 14.5%% HR / 0.88x (n=117) and 7.7%% / 0.72x post-ASG. Legacy gate: Score 55-60 + PM 1.07-1.10.", _scrpm_l5, _scrpm_all),
+        ("🚨 SCREAM HR+HIT (Sig-PM)", "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). Folded into the same failing SCREAM population (0.88x, n=117). Hit side (~73%%) was never the claim under test. Legacy gate: Sig 1-5 + PM 1.04-1.07.", _scrsg_l5, _scrsg_all),
         ("🚨 SCREAM HR (5-Signal)",
-            "Jun 23 2026 NEW GRADE: Score<68 + Power≥73 + T2+BBE (conviction≥3) + Sig≥1 + PM 1.04-1.10. "
+            "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). Demoted Jun 23 to 17.1%% / 1.08x and never recovered; retired with the rest of the SCREAM family. Legacy gate: Score<68 + Power≥73 + T2+BBE (conv≥3) + Sig≥1 + PM 1.04-1.10. "
             "CSV audit (57 slates, broader condition): 17.1% HR (36/210, 1.08x) — barely above baseline. Original 36.4% claim was from 2 slates only. DEMOTED from SCREAM tier. "
             "T3 sub-grade fires at 69.2% (9/13) — the strongest validated sub-bucket. "
             "Jun21 alone: 7/13 = 53.8%; Jun22 alone: 1/9 = 11.1% (HIGH slate variance — need 5+ more slates). "
@@ -24012,7 +24662,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("📈 SHARP LINE + VULN",   "Sharp money line move + Vuln 47-52 sweet zone + NO short start. CSV audit (57 slates): 13.8% HR (4/29, 0.87x baseline) — BELOW BASELINE for HRs. HIT rate: 74.5% (1.28x) — SLM is a STRONG HIT signal, NOT an HR signal. SHARP LINE MOVE should only appear in the hit picks table. HR edge claim RETIRED.", _slv_l5,  _slv_all),
         ("📈 MKT CAUGHT UP",       "Was SWEET PM at morning odds; market shortened ≥8% confirming the model. 41-slate: 27.3% HR (3/11, 1.69x) — small sample, directional; no short start required.",
                               *_gs_hr("mkt_caught_up_hr", "Emerging", "Emerging")),
-        ("📊 ERA Understated HR",  "ERA composite (FIP+xFIP+SIERA) > ERA by ≥0.75 + PM≥1.03 + Pwr≥74 + Score≥38 + park<1.10. "
+        ("📊 ERA Understated HR",  "❌ RETIRED Jul 26 2026 (archetype audit, 72-sl merged CSV n=3446, base 16.45%). 15.2%% HR / 0.92x (n=125); 7.3%% / 0.69x post-ASG — the worst post-ASG decay of any supplemental. Now a context flag with zero conviction credit. Legacy: ERA composite (FIP+xFIP+SIERA) > ERA by ≥0.75 + PM≥1.03 + Pwr≥74 + Score≥38 + park<1.10. "
                                    "Short-start gate REMOVED Jun 15 2026: Pederson (ERA comp +1.26, 2.6 IP start) hit 2 hits + HR, proving the skill gap fires in even one trip through the lineup. "
                                    "33-slate backtest: 20.0% HR (1.28x, n=15). Park<1.10 gate retained: power parks already price in pitcher vulnerability (0/3 HR in power park sub-range). "
                                    "Supplemental stack only — fires alongside an existing primary grade.",
@@ -24034,6 +24684,109 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🥇 SLM + VULN + IC+SIG", "Sharp Line + Vuln 47-52 + ICE COLD+SIGNAL — rare combo; live-tracked (see L5/AT), too few logged to rate",              _svic_l5, _svic_all),
         ("🥇 Any 2+ grades",       "Batter fires 2 or more independent grade signals",                                               _a2g_l5,  _a2g_all),
         ("📊 Any 1 grade",         "Single grade fires",                                                                              _ag_l5,   _ag_all),
+        # ═══ 🧬 STACKED ARCHETYPE LIBRARY (Jul 26 2026) ═══
+        ("🧬 ARCHETYPE ENGINE — HOW IT WORKS",
+         "Mined from the 72-slate merged CSV (n=3,446; base HR 16.45%%, base HIT 62.51%%) by beam search over 366 predicates stacking QUANTITATIVE bands on QUALITATIVE note/flag markers, depth 1-10. Four survival gates: Fisher p<0.01; slate-level bootstrap 5th-pct lift ≥1.6x HR / ≥1.12x HIT; split-half stability (BOTH halves of its own window beat base); Jaccard<0.35 vs every other keeper. TIER A = promote (conviction credit). TIER B = track (zero credit, promote at n≥40). ⚠️ Post-ASG the slate HR base fell 16.45%%→10.64%% — Tier A held 2.17-2.75x but absolute rates fell to 25-30%%.",
+         "Tier A HR: 52.0%%/3.16x n=125", "Tier A HIT: 92.3%%/1.48x n=181"),
+        ("🧬🧬 ARCHETYPE CONFLUENCE (MUST-PLAY)",
+         "⭐ THE STRONGEST SIGNAL IN THE LIBRARY. Confluence beats any single archetype rate. 2+ Tier-A HR archetypes firing on the same batter → 78.1%% HR (4.75x, n=32). 3+ Tier-A HR → 100.0%% HR (6.08x, n=8). 2+ Tier-A HIT → 100.0%% Hit (1.60x, n=39). Auto MUST-PLAY (🟢) at 2+. hr_pts +6 at double, +10 at triple, +3 at single.",
+         "2+: 78.1%%  25/32", "3+: 100%%  8/8"),
+        ("🧬 HR01 Loft-Band Power Anchor",
+         "TIER A — PROMOTE (conv +20). 6-Variable: 5 Quant + 1 Quant-from-Text. STACK: L10dist 330-350ft + Odds<+400 + Park<1.05 + PM≥1.03 + Pwr≥84 + Vuln≥44. Window 06-17→07-25. Split-half 72.7%% → 60.0%%. Post-ASG 50.0%% (3/6). Bootstrap 90%% CI lift [2.88x, 4.97x], p=3e-07. WHY: 330-350ft is a BAND, not a floor — 330-340 runs 1.68x while 350+ collapses to 0.68x. Above ~350 the batter already fully lifts that pitch and the market has paid for it. Odds<+400 and Park<1.05 confirm nobody has.",
+         "n=21 over 17 slates", "66.7%%  14/21  (4.05x)"),
+        ("🧬 HR02 Zone-Contact Loft Confirmer",
+         "TIER A — PROMOTE (conv +18). 4-Variable: 2 Quant + 1 Qual + 1 Quant-from-Text. STACK: L10dist 330-350ft + Z-CONTACT BOOST + Sig≥3 + WHR≥68%%. Window 06-17→07-22. Split-half 66.7%% → 63.6%%. Post-ASG 66.7%% (2/3). Bootstrap 90%% CI lift [2.83x, 4.97x], p=1e-06. WHY: Same loft band, different confirmation path — zone-contact ability plus a hot weighted hit rate instead of raw power. 'He will put it in play and it carries', not 'he will crush it'.",
+         "n=20 over 13 slates", "65.0%%  13/20  (3.95x)"),
+        ("🧬 HR03 Overpriced-Favorite Paradox",
+         "TIER A — PROMOTE (conv +18). 4-Variable: 4 Quant. STACK: Edge<0 + Odds<+250 + Pwr≥68 + Sig<8. Window 05-10→07-20. Split-half 63.6%% → 60.0%%. Post-ASG 33.3%% (1/3). Bootstrap 90%% CI lift [2.89x, 4.70x], p=3e-06. WHY: ⚠️ ADVERSARIAL TO THE MODEL'S OWN EDGE TERM. Median edge in this bucket is -11.7%% and it still converts 61.9%%. Odds are the strongest single variable in the file (≤+300 = 1.51x; >+680 = 0.53x). At the very short end, stop applying the edge penalty — the market is right and the model is wrong. Sig<8 removes picks the model has already loaded up on.",
+         "n=21 over 20 slates", "61.9%%  13/21  (3.76x)"),
+        ("🧬 HR04 Warm-Bat L2 Blowup Stack",
+         "TIER A — PROMOTE (conv +16). 5-Variable: 4 Quant + 1 Qual. STACK: HS≥40 (NOT cold) + EXTREME L2 blowup + Score≥60 + Sig≥3 + Vuln≥47. Window 06-24→07-21. Split-half 54.5%% → 66.7%%. Post-ASG 50.0%% (1/2). Bootstrap 90%% CI lift [2.66x, 4.63x], p=1e-05. WHY: Formal replacement for the PRIME+L2 LOCK tracking combo. Confirms warm bats are fully viable in the Vu≥47 band post-ASG — the HS≥40 gate does real work and is not being carried by the cold-bat pattern. Median Env is 0.93 (suppressive) and it converts anyway.",
+         "n=20 over 13 slates", "60.0%%  12/20  (3.65x)"),
+        ("🧬 HR05 Suppressed-Air Extreme-PM Override",
+         "TIER A — PROMOTE (conv +14). 4-Variable: 4 Quant. STACK: Env 0.93-0.97 (suppressive) + PM≥1.10 (extreme) + Sig 3-7. Window 05-12→07-25. Split-half 66.7%% → 50.0%%. Post-ASG 0/1 (negligible). Bootstrap 90%% CI lift [2.32x, 4.48x], p=3e-05. WHY: Mirror of SUPP-PARK SWEET-PM but with a far more aggressive PM floor. Extreme pitch-match edge overrides a suppressive environment. The mid-Sig band is the filter — Sig≥8 means the model already stacked signals and the market moved.",
+         "n=21 over 19 slates", "57.1%%  12/21  (3.47x)"),
+        ("🧬 HR06 Value-Odds Conviction Lock",
+         "TIER A — PROMOTE (conv +14). 4-Variable: 2 Quant + 2 Quant-from-Text. STACK: Conv≥60 + Odds +250-299 + starter primary-pitch usage<50%% + WHR≥68%%. Window 06-20→07-24. Split-half 66.7%% → 50.0%%. Post-ASG 28.6%% (2/7). Bootstrap 90%% CI lift [2.56x, 4.34x], p=3e-05. WHY: Direct upgrade of VALUE-ODDS FLASH (Odds 250-299 + Vu≥50 → 44.1%%). Swapping the Vuln gate for Conv≥60 + usage<50%% + WHR≥68 lifts 44.1%% → 57.1%%. The usage gate is counter-intuitive: a DIVERSIFIED starter mix beats a one-pitch starter here, because the pitch-reliance grades already harvest the one-pitch arms — this is clean, un-double-counted signal.",
+         "n=21 over 15 slates", "57.1%%  12/21  (3.47x)"),
+        ("🧬 HR07 Quiet Super-Vuln Elite",
+         "TIER A — PROMOTE (conv +14). 5-Variable: 4 Quant + 1 Qual. STACK: Odds<+400 + Vuln52+ flag + Score≥60 + Sig<8 (market NOT excited) + Vuln≥54. Window 06-24→07-21. Split-half 63.6%% → 50.0%%. Post-ASG 42.9%% (3/7) — BEST post-ASG hold. Bootstrap 90%% CI lift [2.43x, 4.42x], p=3e-05. WHY: ⭐ The IMAI 'right game, wrong batter' solution. Sig<8 is the innovation: it selects SUPER VUL spots the model has NOT loaded up on. When the model piles signals onto one bat in a SUPER VUL game, that bat is the trap; the quieter bat in the same game is the converter.",
+         "n=21 over 14 slates", "57.1%%  12/21  (3.47x)"),
+        ("🧬 HR08 Priced Super-Vuln Value Band",
+         "TIER A — PROMOTE (conv +14). 3-Variable: 3 Quant. STACK: Edge≥0 + Odds +250-299 + Vuln≥52. Window 05-14→07-22. Split-half 60.0%% → 53.8%%. Post-ASG 40.0%% (2/5). Bootstrap 90%% CI lift [2.49x, 4.38x], p=1e-05. WHY: Three gates, 3.44x, stable across 18 slates and 2.5 months, zero text dependency. Should be the default screen every slate. Supersedes VALUE-ODDS FLASH's Vu≥50 threshold with Vu≥52 plus a non-negative edge requirement.",
+         "n=23 over 18 slates", "56.5%%  13/23  (3.44x)"),
+        ("🧬 HR09 Pitcher-Vuln Twin Confirmation",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 2 Quant + 1 Qual + 1 Quant-from-Text. STACK: target-pitch vuln 50-60 + Vuln52+ flag + Score≥60 + Sig 3-7. Window 06-17→07-21. Split-half 53.8%% → 60.0%%. Post-ASG 57.1%% (4/7) — BEST post-ASG in library. Bootstrap 90%% CI lift [2.31x, 4.49x], p=1e-05. WHY: Both vulnerability layers agree. Strongest post-ASG hold of anything mined — promote at n≥40.",
+         "n=23 over 16 slates", "56.5%%  13/23  (3.44x)"),
+        ("🧬 HR10 Mid-Score Value-Odds Signal Stack",
+         "TIER B — TRACKING (no conv credit). 5-Variable: 5 Quant. STACK: Edge≥0 + Odds +250-299 + Score<60 + Sig≥5 + Vuln≥44. Window 05-14→07-22. Split-half 54.5%% → 58.3%%. Post-ASG 33.3%% (1/3). Bootstrap 90%% CI lift [2.38x, 4.49x], p=1e-05. WHY: The lower-score sibling of HR08 — proves the value-odds band is not score-dependent.",
+         "n=23 over 18 slates", "56.5%%  13/23  (3.44x)"),
+        ("🧬 HR11 Two-Gate Conviction Super-Vuln",
+         "TIER B — TRACKING (no conv credit). 2-Variable: 2 Quant. STACK: Conv≥60 + Vuln≥54. Window 06-07→07-24. Split-half 70.0%% → 40.0%%. Post-ASG 28.6%% (2/7). Bootstrap 90%% CI lift [2.15x, 4.34x], p=9e-05. WHY: Only two gates so recall is high, but split-half is decaying 70→40. Watch closely.",
+         "n=20 over 16 slates", "55.0%%  11/20  (3.34x)"),
+        ("🧬 HR12 Narrow-Score Vuln52 Window",
+         "TIER B — TRACKING (no conv credit). 3-Variable: 2 Quant + 1 Qual. STACK: Vuln52+ flag + Score 60-63 + Sig≥3. Window 06-16→07-24. Split-half 60.0%% → 50.0%%. Post-ASG 50.0%% (3/6). Bootstrap 90%% CI lift [2.38x, 4.34x], p=9e-05. WHY: The narrow 60-63 score window on a Vuln52+ arm. Holding post-ASG.",
+         "n=20 over 14 slates", "55.0%%  11/20  (3.34x)"),
+        ("🧬 HR13 Neutral-Park Pitch-Correlation Elite Arm",
+         "TIER B — TRACKING (no conv credit). 3-Variable: 2 Quant + 1 Qual. STACK: Park 1.00-1.05 + PITCH CORRELATION note + Vuln<47 (good arm). Window 06-17→07-12. Split-half 40.0%% → 70.0%%. Post-ASG 0 fires post-ASG. Bootstrap 90%% CI lift [2.15x, 4.29x], p=9e-05. WHY: Vuln<47 is unusual for an HR archetype — the pitch correlation carries it. Zero post-ASG fires; unvalidated in the current regime.",
+         "n=20 over 11 slates", "55.0%%  11/20  (3.34x)"),
+        ("🧬 HR14 Distance-Confirmed Value Bat",
+         "TIER B — TRACKING (no conv credit). 3-Variable: 1 Quant + 2 Quant-from-Text. STACK: L10dist≥310ft + Odds +250-299 + WHR≥72%%. Window 06-17→07-24. Split-half 70.0%% → 40.0%%. Post-ASG 20.0%% (1/5). Bootstrap 90%% CI lift [2.15x, 4.42x], p=9e-05. WHY: Open-ended distance floor rather than HR01's band — weaker, and decaying post-ASG.",
+         "n=20 over 16 slates", "55.0%%  11/20  (3.34x)"),
+        ("🧬 HR15 Dominant-Pitch Vuln Confirmer",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 1 Quant + 1 Qual + 2 Quant-from-Text. STACK: target-pitch vuln 50-60 + PITCH DOM ELITE + Vuln≥44 + WHR≥72%%. Window 06-17→07-22. Split-half 60.0%% → 50.0%%. Post-ASG 50.0%% (1/2). Bootstrap 90%% CI lift [2.21x, 4.39x], p=9e-05. WHY: Rehabilitates PITCH DOM ELITE (1.09x standalone) by demanding the target-pitch vuln band and a hot bat.",
+         "n=20 over 15 slates", "55.0%%  11/20  (3.34x)"),
+        ("🧬 HR16 PropFinder Max-Gate Elite  ⚠️DEGRADING",
+         "TIER B — TRACKING (no conv credit). 5-Variable: 2 Quant + 3 Quant-from-Text. STACK: HRprob≥20%% + PF-Barrel%%≥20 + PF-gates≥7/9 + PF-ISO≥0.300 + Score≥60. Window 07-03→07-20. Split-half 76.9%% → 25.0%%. Post-ASG 16.7%% (1/6). Bootstrap 90%% CI lift [1.66x, 4.78x], p=3e-05. WHY: ❌ DO NOT PROMOTE. Textbook overfit: split-half collapse 77%%→25%%, post-ASG 16.7%%, and all 10 firing slates are post-Jul-3 (the only window where PropFinder values exist in the audit CSV). Logged for the record only.",
+         "n=21 over 10 slates", "57.1%%  12/21  (3.47x)"),
+        ("🎯 HT01 Deep-Lineup Ice-Cold Contact Bat",
+         "TIER A — PROMOTE (conv +15). 4-Variable: 4 Quant. STACK: EstPA≥4.6 + HS<15 (ice cold) + Score<45 + Sig<1. Window 05-12→07-23. Split-half 100.0%% → 92.9%%. Post-ASG 100%% (3/3). Bootstrap 90%% CI lift [1.44x, 1.60x], p=3e-05. WHY: Sig<1 + Score<45 is the tell: these are bats the HR model has entirely written off. The market prices the cold streak, the model prices plate appearances.",
+         "n=28 over 21 slates", "96.4%%  27/28  (1.54x)"),
+        ("🎯 HT02 Hot-Bat Hard-Contact Confirmer",
+         "TIER A — PROMOTE (conv +15). 4-Variable: 2 Quant + 2 Quant-from-Text. STACK: HS≥47 + PF-HH%% 50-60 + PM≥1.04 + WHR≥72%%. Window 07-03→07-25. Split-half 100.0%% → 90.9%%. Post-ASG 90.9%% (10/11). Bootstrap 90%% CI lift [1.42x, 1.60x], p=5e-05. WHY: The warm-bat counterpart to HT01. HH%% 50-60 is a band — above 60 the profile turns into HR risk, not hit reliability.",
+         "n=27 over 15 slates", "96.3%%  26/27  (1.54x)"),
+        ("🎯 HT03 Long-Odds Cold Power Bat",
+         "TIER A — PROMOTE (conv +15). 4-Variable: 4 Quant. STACK: EstPA≥4.6 + HS<15 + Odds≥+350 + Pwr≥84. Window 06-17→07-25. Split-half 92.3%% → 100.0%%. Post-ASG 100%% (10/10). Bootstrap 90%% CI lift [1.42x, 1.60x], p=8e-05. WHY: Long HR odds + ice-cold + top-of-order = the market has fully written the bat off while the PA volume is untouched. Perfect 10/10 post-ASG.",
+         "n=26 over 17 slates", "96.2%%  25/26  (1.54x)"),
+        ("🎯 HT04 Validated Signal-PM Hard-Contact Stack",
+         "TIER A — PROMOTE (conv +15). 5-Variable: 2 Quant + 2 Qual + 1 Quant-from-Text. STACK: EstPA 4.4-4.6 + PF-HH%% 50-60 + BACKTEST note + SIG+PM grade + Score≥60. Window 07-03→07-24. Split-half 100.0%% → 92.9%%. Post-ASG 92.9%% (13/14). Bootstrap 90%% CI lift [1.42x, 1.60x], p=8e-05. WHY: The only archetype requiring two qualitative grades simultaneously. High fire rate post-ASG (14 fires) with 92.9%% conversion.",
+         "n=26 over 16 slates", "96.2%%  25/26  (1.54x)"),
+        ("🎯 HT05 Broad-Gate Contact Profile",
+         "TIER A — PROMOTE (conv +14). 4-Variable: 4 Quant-from-Text. STACK: PF-gates 6-7/9 + PF-HH%% 50-60 + PF-ISO<0.500 + target-pitch vuln≥30. Window 07-04→07-25. Split-half 100.0%% → 90.9%%. Post-ASG 90.9%% (10/11). Bootstrap 90%% CI lift [1.43x, 1.60x], p=1e-04. WHY: ISO<0.500 is the load-bearing gate — this is a CONTACT profile, not a slug profile. 6-7 gates beats 8-9 gates for hits. Note: PropFinder-dependent, only 12 firing slates.",
+         "n=25 over 12 slates", "96.0%%  24/25  (1.54x)"),
+        ("🎯 HT06 Scream-Hit Cold Power Lock",
+         "TIER A — PROMOTE (conv +15). 6-Variable: 5 Quant + 1 Qual. STACK: EstPA≥4.6 + HS<15 + Park<1.05 + Pwr≥84 + SCREAM HIT grade + Sig 3-7. Window 06-13→07-25. Split-half 90.9%% → 100.0%%. Post-ASG 100%% (13/13). Bootstrap 90%% CI lift [1.41x, 1.60x], p=1e-04. WHY: Third expression of the cold-bat mechanism, this one gated on the existing SCREAM HIT grade. 13/13 post-ASG.",
+         "n=25 over 18 slates", "96.0%%  24/25  (1.54x)"),
+        ("🎯 HT07 Ice-Cold Zone-Contact Vuln Play",
+         "TIER A — PROMOTE (conv +13). 4-Variable: 2 Quant + 2 Qual. STACK: ICE COLD + Z-CONTACT BOOST + Sig 5-7 + Vuln≥47. Window 06-16→07-25. Split-half 93.8%% → 92.9%%. Post-ASG 100%% (8/8). Bootstrap 90%% CI lift [1.38x, 1.60x], p=1e-04. WHY: Largest n of the Tier-A hit set and the flattest split-half (93.8 / 92.9). Two qualitative grades doing the work.",
+         "n=30 over 20 slates", "93.3%%  28/30  (1.49x)"),
+        ("🎯 HT08 Neutral-Env High-Score Contact Anchor",
+         "TIER A — PROMOTE (conv +13). 3-Variable: 2 Quant + 1 Qual. STACK: Env 1.00-1.03 (neutral) + Z-CONTACT BOOST + Score≥60. Window 06-16→07-24. Split-half 94.4%% → 90.0%%. Post-ASG 80.0%% (4/5). Bootstrap 90%% CI lift [1.34x, 1.60x], p=3e-04. WHY: Neutral env is the point — not a hitter's park, not suppressive. Removes both the HR-chasing and the wind-killed extremes.",
+         "n=28 over 16 slates", "92.9%%  26/28  (1.49x)"),
+        ("🎯 HT09 Bullpen-Exposure Low-PM Contact Play",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 3 Quant + 1 Qual. STACK: PM<1.02 + short start flagged + Score<60 + Sig<8. Window 06-04→07-25. Split-half 87.5%% → 100.0%%. Post-ASG 100%% (9/9). Bootstrap 90%% CI lift [1.35x, 1.60x], p=3e-04. WHY: Short start is a HIT signal, not an HR signal — more pitchers seen, more contact chances. 9/9 post-ASG. Promote at n≥40.",
+         "n=28 over 19 slates", "92.9%%  26/28  (1.49x)"),
+        ("🎯 HT10 Cold-Bat Mid-Odds Vuln Play",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 4 Quant. STACK: HS<15 + Odds +350-399 + Score<60 + Vuln≥44. Window 05-16→07-25. Split-half 88.2%% → 100.0%%. Post-ASG 100%% (4/4). Bootstrap 90%% CI lift [1.34x, 1.60x], p=3e-04. WHY: The cold-bat mechanism without the EstPA gate. Slightly weaker, still 1.49x.",
+         "n=28 over 21 slates", "92.9%%  26/28  (1.49x)"),
+        ("🎯 HT11 Sweet-PM Super-Vuln Contact Band",
+         "TIER B — TRACKING (no conv credit). 2-Variable: 2 Quant. STACK: PM 1.050-1.059 + Vuln≥54. Window 05-19→07-25. Split-half 90.9%% → 93.8%%. Post-ASG 90.9%% (10/11). Bootstrap 90%% CI lift [1.35x, 1.60x], p=4e-04. WHY: Only two gates and the flattest split-half in the tracking tier. Cheapest hit screen available.",
+         "n=27 over 20 slates", "92.6%%  25/27  (1.48x)"),
+        ("🎯 HT12 Neutral-Env Pitch-Reliant Contact Play",
+         "TIER B — TRACKING (no conv credit). 3-Variable: 2 Quant + 1 Qual. STACK: Env 1.00-1.03 + PITCH-RELIANT grade + Score≥55. Window 06-16→07-24. Split-half 88.9%% → 94.4%%. Post-ASG 100%% (7/7). Bootstrap 90%% CI lift [1.33x, 1.60x], p=4e-04. WHY: PITCH-RELIANT's hit expression — a one-pitch starter is easier to square up even when the HR does not come.",
+         "n=27 over 15 slates", "92.6%%  25/27  (1.48x)"),
+        ("🎯 HT13 Conviction Sweet-PM Vuln Play",
+         "TIER B — TRACKING (no conv credit). 3-Variable: 3 Quant. STACK: Conv≥60 + PM 1.050-1.059 + Vuln≥47. Window 06-07→07-25. Split-half 100.0%% → 84.6%%. Post-ASG 80.0%% (8/10). Bootstrap 90%% CI lift [1.34x, 1.60x], p=4e-04. WHY: Looser Vuln floor than HT11 but adds a conviction gate. Split-half is decaying 100→84.6 — watch.",
+         "n=27 over 20 slates", "92.6%%  25/27  (1.48x)"),
+        ("🎯 HT14 Validated Zone-Contact Hard-Hit Stack",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 1 Quant + 2 Qual + 1 Quant-from-Text. STACK: PF-HH%% 50-60 + BACKTEST note + Z-CONTACT BOOST + Vuln≥47. Window 07-03→07-25. Split-half 91.7%% → 93.3%%. Post-ASG 93.3%% (14/15). Bootstrap 90%% CI lift [1.32x, 1.60x], p=4e-04. WHY: Highest post-ASG fire count of any hit archetype (15). PropFinder-dependent.",
+         "n=27 over 14 slates", "92.6%%  25/27  (1.48x)"),
+        ("🎯 HT15 Big-Edge Spray Contact Profile",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 2 Quant + 2 Quant-from-Text. STACK: Edge≥+15%% + PF-Pull%%<70 (not pull-locked) + PM≥1.03 + target-pitch vuln<60. Window 06-17→07-25. Split-half 90.9%% → 93.8%%. Post-ASG 92.3%% (12/13). Bootstrap 90%% CI lift [1.33x, 1.60x], p=4e-04. WHY: Pull%%<70 is the key — a spray profile converts to hits where a pull-locked profile converts to outs into the shift.",
+         "n=27 over 15 slates", "92.6%%  25/27  (1.48x)"),
+        ("🎯 HT16 Underpriced Power Park Contact Play",
+         "TIER B — TRACKING (no conv credit). 4-Variable: 4 Quant. STACK: Edge≥+20%% + Park≥1.00 + Pwr≥68 + Score≥55. Window 05-21→07-25. Split-half 92.3%% → 92.9%%. Post-ASG 100%% (7/7). Bootstrap 90%% CI lift [1.32x, 1.60x], p=4e-04. WHY: Large model edge in a non-suppressive park. Flat split-half, 7/7 post-ASG.",
+         "n=27 over 19 slates", "92.6%%  25/27  (1.48x)"),
         ("⚪ No grade (baseline)", "Pts-based only — Score/PM but no validated signal combo",                                         _ng_l5,   _ng_all),
     ]
     # Guide table: col1=Grade, B:D merged=Trigger, col5=Last 5 slate HR%, col6=All slates HR%
@@ -24053,25 +24806,42 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🎯 CONFIRMED MATCH HR",    "elite"),   # 1.93x (n=10) + always PLAY override
         ("🎯 PITCH-RELIANT HR",      "elite"),   # 2.52x
         ("🎯 PITCH DOMINANCE HR",    "elite"),   # 2.40x
-        ("🚨 SCREAM HR (Power-Vuln)","elite"),   # 1.81x — always PLAY override
         ("📈 SHARP LINE + VULN",     "elite"),   # 1.74x
         ("🎯 PITCH DOM ELITE HR",    "elite"),   # 1.73x
         ("📈 MKT CAUGHT UP",         "good"),    # 1.69x (n=11)
-        ("📊 ERA Understated HR",    "good"),    # 1.40-1.69x (n=22/11)
-        ("🚨 SCREAM HR (High-PM)",   "good"),    # 1.59x
         ("🧊 ICE COLD+SIGNAL HR",    "good"),    # 1.57x
-        ("🚨 SCREAM HR+HIT (Sig-PM)","good"),    # 1.50x
-        ("🚨 SCREAM HR (5-Signal)",  "good"),    # 2.25x (n=22 complete data — HIGH VARIANCE, track)
         ("🔶 STRONG HR COMBO",       "good"),    # 1.34x
         ("📊 SIGNAL COMBO",          "good"),    # 1.34x
-        ("🎯 SWEET PM HR",           "good"),    # 1.32x
         ("🎯 MID-SCORE HR",          "mid"),     # 1.26x
-        ("🎯 SHARP PM HR",           "mid"),     # 1.24x
         ("🎯 ELITE SIGNAL HR",       "mid"),     # 1.18x
         ("🔥 SWEET★ EDGE SPIKE HR",  "elite"),   # 5.0x (38%, validated in 2 datasets)
         ("⚡ POWER TRAP OUTLIER",     "elite"),   # 100% tracking (n=2 — rare)
         ("🔥 PWR-VULN-ENV HR",       "elite"),   # 2.87x primary (50%, n=16, pkl Jun24)
         ("🎯 SUPP-PARK SWEET-PM HR","elite"),   # 4.40x (33.3%, n=18, pkl Jun25)
+        # ══ 🧬 ARCHETYPES (Jul 26 2026) — Tier A all "elite"; every one ≥3.4x ══
+        ("🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE", "elite"),   # 6.08x (100%, n=8)
+        ("🧬🧬 ARCHETYPE DOUBLE CONFLUENCE",  "elite"),   # 4.75x (78.1%, n=32)
+        ("🧬 HR01",                  "elite"),   # 4.05x (66.7%, n=21)
+        ("🧬 HR02",                  "elite"),   # 3.95x (65.0%, n=20)
+        ("🧬 HR03",                  "elite"),   # 3.76x (61.9%, n=21)
+        ("🧬 HR04",                  "elite"),   # 3.65x (60.0%, n=20)
+        ("🧬 HR05",                  "elite"),   # 3.47x (57.1%, n=21)
+        ("🧬 HR06",                  "elite"),   # 3.47x (57.1%, n=21)
+        ("🧬 HR07",                  "elite"),   # 3.47x (57.1%, n=21) — best post-ASG hold
+        ("🧬 HR08",                  "elite"),   # 3.44x (56.5%, n=23)
+        ("🧬 HR09",                  "good"),    # 3.44x TRACKING
+        ("🧬 HR10",                  "good"),    # 3.44x TRACKING
+        ("🧬 HR11",                  "good"),    # 3.34x TRACKING
+        ("🧬 HR12",                  "good"),    # 3.34x TRACKING
+        ("🧬 HR13",                  "good"),    # 3.34x TRACKING
+        ("🧬 HR14",                  "good"),    # 3.34x TRACKING
+        ("🧬 HR15",                  "good"),    # 3.34x TRACKING
+        ("🧬 HR16",                  "mid"),     # ⚠️ DEGRADING — 77%→25% split-half
+        # ❌ RETIRED Jul 26 2026 — removed from the tier map entirely so they can no
+        #    longer colour a pick or win a tie: SCREAM HR (Power-Vuln / High-PM /
+        #    Sig-PM / 5-Signal) 0.88x · SWEET PM HR 0.76x · ERA Understated HR 0.92x
+        #    · SHARP PM HR suspended (0.17x post-ASG) · SC58-66+ENV BOOST 0.88x
+        #    · Gate Override 0.84x.
         ("🔥 SIG+PM HR",             "mid"),     # 1.15x
         ("🟠 Strong HR (no grade)",  "situational"),
         ("🟠 Strong HR ⚠️Gated",     "situational"),
