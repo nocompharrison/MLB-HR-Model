@@ -15384,14 +15384,20 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         )
         if _pf_note_worthy:
             _pf_result_note = (
-                f"🔵 PropFinder [{_pf_must_have_count}/10 must-have | {_pf_nuclear_count}/13 nuclear | DTP {len(_dtp_passed)}/7]: "
+                # RENAMED 2026-07-27 — this is NOT PropFinder. PropFinder is the canonical
+                # 9-gate block (_pf9_gates). This scorer uses different stats at
+                # different thresholds (Blast%>=12 not >15, HH%>=50 not >40, a PullBrl
+                # *proxy*, plus EV / AvgDist / PullAir% / SLG which are not PropFinder
+                # gates at all). Sharing the label caused its 6/10 and 8/10 scores to be
+                # read and reported as PropFinder results.
+                f"🟣 Quality Metrics [{_pf_must_have_count}/10 core | {_pf_nuclear_count}/13 elite | DTP {len(_dtp_passed)}/7]: "
                 + " · ".join(_pf_notes)
             )
         else:
             _pf_result_note = ""  # single-metric fires suppressed — already in power notes
     elif _pf_must_have_count >= 3:
         _pf_result_note = (
-            f"📊 PropFinder profile: {_pf_must_have_count}/10 must-have "
+            f"📊 Quality Metrics profile: {_pf_must_have_count}/10 core "
             f"(Barrel:{_b_barrel:.0f}% HH:{_b_hh:.0f}% EV:{_b_ev:.0f}mph ISO:{_b_iso:.3f} FB:{_b_fb:.0f}%)"
         )
     else:
@@ -17399,7 +17405,36 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         "Pull%>30":    (_pf9_pull   >= 30.0,  f"↙ Pull%:{_pf9_pull:.0f}%>30%"),
     }
     _pf9_pass_count = sum(1 for v, _ in _pf9_gates.values() if v)
-    _result.pf9_gate_count = _pf9_pass_count  # stored for injection logic
+
+    # ── SAMPLE-SIZE GATE (2026-07-27) ─────────────────────────────────────
+    # On 10 batted balls every rate quantises to multiples of 10%, so
+    # Barrel%>15 is effectively unclearable (observed 0.0% for 14 of 16
+    # batters inspected) and GB%<40 is a coin flip. A "9/9 SUPER NUCLEAR"
+    # off n=10 is noise — that is how batters at Score 13 were being
+    # force-injected into the top 50 past the team cap. Below PF9_MIN_BBE
+    # the score still DISPLAYS but cannot drive injection.
+    # THRESHOLD NOTE: the L10 window tops out at 10 BBE, so any value above 10
+    # disables PropFinder injection outright — at 25 it suppressed 66 of 67
+    # batters on the 2026-07-27 slate, including three legitimate 9/9 scores.
+    # Set to 10 so season-fallback rows ([SZN], typically 100+ BBE) inject
+    # normally while genuinely thin rows (<10 BBE) do not. The deeper issue is
+    # NOT fixed by a threshold: at n=10 every rate quantises to multiples of
+    # 10%, so Barrel%>15 is nearly unclearable and GB%<40 is a coin flip. The
+    # real fix is widening the BBE window or preferring [SZN] when L10 is thin.
+    PF9_MIN_BBE = 10
+    _pf9_n = 0
+    try:
+        import re as _re_pf9n
+        _m_n = _re_pf9n.search(r"n=(\d+)", str(_l10_source_tag))
+        if _m_n:
+            _pf9_n = int(_m_n.group(1))
+    except Exception:
+        _pf9_n = 0
+    _pf9_low_sample = (0 < _pf9_n < PF9_MIN_BBE)
+    _result.pf9_low_sample = _pf9_low_sample
+    _result.pf9_bbe_n = _pf9_n
+    _result.pf9_gate_count_raw = _pf9_pass_count           # display, unsuppressed
+    _result.pf9_gate_count = 0 if _pf9_low_sample else _pf9_pass_count
 
     # Elite Contact Profile fires independently of pass count —
     # PullBrl%>10 and FB%>35 are the two highest-priority HR-profile gates.
