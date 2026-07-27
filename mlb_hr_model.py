@@ -24335,12 +24335,59 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # ❌ ERA Understated HR — conviction credit REMOVED Jul 26 2026.
         # 15.2% HR / 0.92x (n=125); 0.69x post-ASG. Grade retired to a context flag.
 
+        # ══ FULL CONVICTION AUDIT (2026-07-27) ════════════════════════════
+        # Every conviction-granting HR grade re-tested on the merged CSV
+        # (n=3,752, base HR 16.45%) with TWO independent tests:
+        #   (a) multivariate logistic — grade term alongside vuln, env, park,
+        #       est_pa and log(odds); reports adjusted odds ratio + p_multi
+        #   (b) slate-stratified permutation null (400 shuffles) — p_perm
+        #
+        #   grade                conv    n    rate   lift  adjOR  p_multi  p_perm
+        #   VULN52+                 0   239  25.1%  1.53x   1.73   0.0022  0.0000  ✅ ONLY grade clearing BOTH
+        #   CONFIRMED MATCH        18    82  22.0%  1.33x   1.43   0.1879  0.1325  ⏳ real effect, thin n
+        #   EXTREME L2              0    71  21.1%  1.28x   1.27   0.4293  0.1850  ⏳
+        #   PWR-VULN-ENV            0    48  20.8%  1.27x   1.11   0.7761  0.2600  ⏳
+        #   PITCH-RELIANT HR       14   295  19.7%  1.19x   1.30   0.0955  0.0750  ⏳ closest to sig
+        #   ICE COLD                4   201  19.4%  1.18x   1.21   0.2987  0.1350  ⏳
+        #   PITCH DOMINANCE HR      6   147  18.4%  1.12x   1.08   0.7357  0.2925  ⏳
+        #   PITCH DOM ELITE         6   257  17.9%  1.09x   1.03   0.8748  0.3825  ⏳
+        #   PITCHER TARGET T4       0   170  17.1%  1.04x   1.05   0.8318  0.3250  ⚠️ see T-tier note
+        #   NUCLEAR                 0   139  16.5%  1.01x   0.92   0.7154  0.3500
+        #   PITCHER TARGET T2       0   418  16.3%  0.99x   0.98   0.8825  0.5475  ⚠️
+        #   PITCHER TARGET T3       0   397  15.4%  0.93x   0.92   0.5804  0.6600  ⚠️
+        #   SHARP LINE + VULN       4    75  13.3%  0.81x   0.75   0.4072  0.8925  ❌ credit removed
+        #   BZM COMBO HR            5    30  10.0%  0.61x   0.53   0.2998  0.9050  ❌ credit removed
+        #
+        # ⚠️ T-TIER INVERSION — NOT patched here, needs its own investigation.
+        # T4 (1.04x) > T2 (0.99x) > T3 (0.93x). "≥2 HR in L10 BBE vs the target
+        # pitch" should be the strongest contact confirmation in the file and it
+        # runs at baseline. This undercuts the locked rule that L10 BBE tier
+        # outranks a higher-scored batter. Likely the same n=10 quantisation
+        # problem that broke the PropFinder 9-gate: tiers assigned off ten
+        # batted balls cannot be reliably ordered. Do not act on tier ordering
+        # until the BBE window is widened or the tiers are re-derived.
+        #
+        # NOTE ON WHAT SURVIVED: only VULN52+ clears both tests. Grades marked
+        # ⏳ show real effect sizes on samples too thin to confirm — they keep
+        # their credit deliberately. Cutting them on p>0.05 alone would repeat
+        # the archetype mistake in reverse (killing signal for lack of power).
+
+        # ✅ VULN52+ — conviction ADDED 2026-07-27. Best-performing grade in the
+        # entire file (1.53x, adj OR 1.73, p_multi=0.0022, p_perm<0.0001 on
+        # n=239) and it was earning ZERO. Set to +8: above ICE COLD (1.18x) and
+        # PITCH DOMINANCE (1.12x), below CONFIRMED MATCH, which posts a larger
+        # raw lift on a much thinner sample.
+        if "Vuln52+" in g or "VULN52+" in g:  _p2 = max(_p2, 8.0)
+
         if "PITCH DOMINANCE HR" in g:    _p2 = max(_p2, 6.0)
-        if "BZM COMBO HR" in g:          _p2 = max(_p2, 5.0)
-        if "ICE COLD" in g:              _p2 = max(_p2, 4.0)   # 18.7% / 1.14x — holds
+        if "ICE COLD" in g:              _p2 = max(_p2, 4.0)   # 19.4% / 1.18x, OR 1.21 — holds
         if "POWER PARK HR" in g:         _p2 = max(_p2, 3.0)
         if "SIG+PM" in g or "ELITE SIGNAL" in g: _p2 = max(_p2, 3.0)
-        if "SHARP LINE + VULN" in g:     _p2 = max(_p2, 4.0)
+        # ❌ BZM COMBO HR — credit REMOVED (was +5). 10.0% HR / 0.61x on n=30,
+        #    adjusted OR 0.53. Worst-performing conviction grant in the file.
+        # ❌ SHARP LINE + VULN — credit REMOVED (was +4). 13.3% HR / 0.81x on
+        #    n=75, adjusted OR 0.75. Note: this is the VULN-gated variant only;
+        #    the standalone SHARP LINE override is untouched.
         # ❌ SCREAM HR family (Power-Vuln / High-PM / Sig-PM / 5-Signal): credit REMOVED
         #    Jul 26 2026 — whole family runs 0.88x on n=117.
         # ⚠️ SHARP PM HR: credit REMOVED (suspended — 1/55 post-ASG, 0.17x).
