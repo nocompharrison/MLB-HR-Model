@@ -21305,10 +21305,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     # 1. ELITE-HS LOW-VULN (Goldschmidt pattern):
     # HS>=60 + Vuln<40 = 42.9% hit rate vs 61.4% when Vuln>=40
+    # ❌ RETIRED 2026-07-27 (the "Goldschmidt pattern"). Claimed 42.9% hit vs
+    # 61.4% when Vuln>=40. Re-audit on the 85-slate merged CSV: 60.0% hit / 1.02x
+    # on n=15 — ABOVE baseline, i.e. the opposite direction to the claim. A hard
+    # exclude from the top-5 hit picks was resting on 15 observations that do not
+    # support it; it looks fitted to a memorable individual case. Neutral note only.
     if _hs_val_wk >= 60.0 and vuln < 40.0:
         flags.append(
-            f"⚠️ ELITE-HS LOW-VULN: HS={_hs_val_wk:.0f}≥60 + Vuln={vuln:.0f}<40 — "
-            f"backtest: 42.9% hit rate (vs 61.4% when Vuln≥40). Hard exclude from top-5 hit picks."
+            f"ℹ️ HS={_hs_val_wk:.0f}≥60 with Vuln={vuln:.0f}<40 "
+            f"[ELITE-HS LOW-VULN RETIRED — 60.0% hit / 1.02x, n=15, 85-sl CSV Jul27; "
+            f"no exclusion applied]"
         )
 
     # 2. EXTREME SHORT-START hit suppressor — VULN-CONDITIONED (rev. 2026-07-27)
@@ -21361,10 +21367,17 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # Combined with no named grades (Sig<4) = structural weakness
     _pm_hit_dead = (1.06 <= _pm_wk < 1.11)
     _pm_weak_zone_fires = _hs_val_wk >= 50.0 and _pm_hit_dead and _sig_wk < 4
+    # ❌ RETIRED 2026-07-27. Claimed 55.1% hit / 0.85x. Re-audit on the 85-slate
+    # merged CSV (n=3,752, base 58.96%): 58.2% hit / 0.99x on n=55 — that is
+    # BASELINE. No vuln confound either (Vuln<47 1.02x vs Vuln>=47 0.93x,
+    # perm p=0.7413) because there is no effect to confound. The rule was
+    # deprioritising batters for nothing. Kept as a neutral context note so the
+    # registry key keeps populating.
     if _pm_weak_zone_fires:
         flags.append(
-            f"⚠️ HIT PM WEAK ZONE: PM={_pm_wk:.3f} (1.06-1.11) + Sig={_sig_wk:.0f}<4 + HS={_hs_val_wk:.0f} — "
-            f"backtest: 55.1% hit rate / 0.85x. Deprioritize in hit pick selection."
+            f"ℹ️ PM {_pm_wk:.3f} in the 1.06-1.11 band, Sig={_sig_wk:.0f}<4 "
+            f"[HIT PM WEAK ZONE RETIRED — 58.2% hit / 0.99x, n=55, 85-sl CSV Jul27; "
+            f"no deprioritization applied]"
         )
 
     # 4. REGRESSION RISK — extreme HS tier:
@@ -21402,15 +21415,40 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # 39-slate pre-ASG backtest (51%/0.95x) remains the ground truth for HS 50-59.
     _is_post_asg_sh = getattr(sc, 'is_post_asg', False)
     _mid_hs_dull_upper = 50.0   # post-ASG extension removed Jul 20 — HS 40-49 only
-    _mid_hs_dull_fires = _hs_val_wk > 0 and 40.0 <= _hs_val_wk < _mid_hs_dull_upper
+    # VULN-CONDITIONED (rev. 2026-07-27) — same confound found in EXTREME SHORT-START.
+    # Re-audit on the 85-slate merged CSV (n=3,752, base HIT 58.96%):
+    #     HS 40-49 overall     : n=967  57.6% hit  0.98x   <- barely below baseline
+    #     HS 40-49 + Vuln <47  : n=498  54.8% hit  0.93x   <- the real penalty
+    #     HS 40-49 + Vuln>=47  : n=469  60.6% hit  1.03x   <- ABOVE baseline
+    #     gap +5.7 pts | slate-stratified permutation null (1,500 shuffles):
+    #     null mean -1.4 pts, 95th pct +3.3  ->  p_empirical = 0.0073   CONFOUNDED
+    #
+    # On 967 observations this is the strongest evidence of any hit rule in the
+    # file. The HS 40-49 penalty is a PITCHER-QUALITY effect, not a hitter-form
+    # one: against a vulnerable arm the zone runs ABOVE baseline. The old blanket
+    # rule deprioritised ~469 batters per season who were performing fine.
+    #
+    # NOTE this sits alongside the Jul 26 audit finding that the true hit dull
+    # zone is HS 31-40.6 (0.79x) — LOWER than this 40-49 band. The band itself
+    # may be misplaced; conditioning on Vuln is the change with evidence behind
+    # it today, moving the band is not.
+    _mid_hs_dull_fires = (_hs_val_wk > 0 and 40.0 <= _hs_val_wk < _mid_hs_dull_upper
+                          and vuln < 47.0)
     if _mid_hs_dull_fires:
-        _dull_rate = "59.4% hit / 0.93x (n=443, 39-sl) — WORSE than cold bat (57.4%/1.07x)"
-        _dull_zone = "HS 40-49"
+        _dull_rate = "54.8% hit / 0.93x (n=498, 85-sl CSV Jul27, perm p=0.007)"
+        _dull_zone = "HS 40-49 + Vuln<47"
         flags.append(
-            f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f} — "
+            f"⚠️ MID-HS DULL ({_dull_zone}): HS={_hs_val_wk:.0f}, Vuln={vuln:.0f} — "
             f"backtest {_dull_rate}. "
             f"Cold bats (HS<40) outperform this zone. "
             f"Deprioritize vs HS<40 or SCREAM HIT picks at same tier."
+        )
+    elif _hs_val_wk > 0 and 40.0 <= _hs_val_wk < _mid_hs_dull_upper:
+        # Vuln>=47 — NOT deprioritized. 60.6% / 1.03x on n=469.
+        flags.append(
+            f"ℹ️ HS {_hs_val_wk:.0f} in the 40-49 band but Vuln={vuln:.0f}≥47 — "
+            f"NOT deprioritized: 60.6% hit / 1.03x (n=469, 85-sl CSV Jul27). "
+            f"The MID-HS DULL penalty is a pitcher-quality effect."
         )
 
     # HS 50-59 tracking is now folded into the MID-HS DULL gate above (post-ASG aware).
