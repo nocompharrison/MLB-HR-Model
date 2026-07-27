@@ -19922,6 +19922,86 @@ V3_CAL_MIN_ROWS  = 300            # below this the isotonic fit is not trustwort
 V3_CAL_MIN_V3_SLATES = 20         # v3-era slates needed before dropping v2-era rows
 
 
+def _v3_parse_history_csv(url_or_path, quiet=False):
+    """Parse the master history CSV into a flat frame with _p / _y / _d.
+
+    WHY THIS EXISTS: the master CSV is NOT a flat table. It is ~88 concatenated
+    daily Excel-export blocks, each shaped:
+
+        row 0   "\u26be  MLB HOME RUN MODEL  \u2014  Sunday, July 26, 2026"
+        row 1   "Top 89 HR Picks  |  10,000 Monte Carlo Sims  |  ..."
+        row 2   Rank,Batter,Status,Game Time,...,HR Prob,...,Hits,Home Runs
+        rows..  the batters
+        (then two further sections: the graded HR table and the hit table)
+
+    A plain pd.read_csv() takes row 0 as the header, so every real column name
+    is invisible \u2014 which is exactly why the first refit reported
+    "no prob/outcome column in history CSV". This walks the blocks, locates each
+    section-A header by its ('Rank' + 'Status' + 'Pitcher') signature, and reads
+    the batter rows beneath it, carrying the slate date from the title row.
+    """
+    import csv as _csv, io as _io, re as _re, pandas as pd
+    try:
+        if str(url_or_path).startswith("http"):
+            import urllib.request as _u
+            raw = _u.urlopen(url_or_path, timeout=90).read().decode("utf-8-sig", "replace")
+        else:
+            raw = open(url_or_path, encoding="utf-8-sig").read()
+    except Exception as e:
+        if not quiet:
+            print(f"  \u26a0\ufe0f  calibrator: could not fetch history \u2014 {e}")
+        return None
+
+    rows = list(_csv.reader(_io.StringIO(raw)))
+    recs, cur_date = [], None
+    i, N = 0, len(rows)
+    while i < N:
+        r = rows[i]
+        c0 = str(r[0]).strip() if r else ""
+        if "MLB HOME RUN MODEL" in c0:
+            m = _re.search(r"\u2014\s*(.+)$", c0)
+            if m:
+                try:
+                    cur_date = pd.to_datetime(m.group(1).split(",", 1)[1].strip())
+                except Exception:
+                    cur_date = None
+            i += 1; continue
+        hdr = [str(c).replace("\n", " ").strip() for c in r] if r else []
+        if c0 == "Rank" and "Status" in hdr and "Pitcher" in hdr:
+            try:
+                ip, ih = hdr.index("HR Prob"), hdr.index("Home Runs")
+            except ValueError:
+                i += 1; continue
+            i += 1
+            while i < N:
+                d = rows[i]
+                if not d or len(d) <= max(ip, ih):
+                    break
+                b = str(d[1]).strip() if len(d) > 1 else ""
+                if not b or b == "Rank" or len(b) > 60:
+                    break
+                try:
+                    pv = float(str(d[ip]).replace("%", "").strip())
+                    hv = float(str(d[ih]).strip())
+                    recs.append((pv, 1.0 if hv > 0 else 0.0, cur_date))
+                except (ValueError, TypeError):
+                    pass
+                i += 1
+            continue
+        i += 1
+
+    if not recs:
+        if not quiet:
+            print("  \u26a0\ufe0f  calibrator: parsed 0 usable rows from history CSV")
+        return None
+    df = pd.DataFrame(recs, columns=["_p", "_y", "_d"]).dropna(subset=["_p", "_y"])
+    df = df[(df["_p"] > 0) & (df["_p"] < 1)]
+    if not quiet:
+        _sl = df["_d"].dt.date.nunique() if df["_d"].notna().any() else 0
+        print(f"  \U0001f4d6 history parsed: {len(df)} batter-slates across {_sl} slates")
+    return df
+
+
 def v3_fit_calibrator_from_history(csv_url=None, out="hr_calibrator.json",
                                    force=False, quiet=False):
     """Refit the isotonic calibrator from the master audit CSV.
@@ -19948,35 +20028,21 @@ def v3_fit_calibrator_from_history(csv_url=None, out="hr_calibrator.json",
     import pandas as pd
     url = csv_url or ("https://raw.githubusercontent.com/nocompharrison/"
                       "MLB-HR-Model/main/FantasyLabsMLB.csv")
-    try:
-        df = pd.read_csv(url, low_memory=False)
-    except Exception as e:
-        if not quiet:
-            print(f"  \u26a0\ufe0f  calibrator refit failed to fetch history: {e}")
+    df = _v3_parse_history_csv(url, quiet=quiet)
+    if df is None or len(df) == 0:
         return None
 
-    pcol = next((c for c in ("HR Prob", "HR_Prob", "hr_prob") if c in df.columns), None)
-    ocol = next((c for c in ("Home Runs", "HR", "home_runs") if c in df.columns), None)
-    if pcol is None or ocol is None:
-        if not quiet:
-            print(f"  \u26a0\ufe0f  calibrator refit: no prob/outcome column in history CSV")
-        return None
-
-    df["_p"] = pd.to_numeric(df[pcol], errors="coerce")
-    df["_y"] = (pd.to_numeric(df[ocol], errors="coerce") > 0).astype(float)
-    dcol = next((c for c in ("Slate Date", "Date", "Game Time") if c in df.columns), None)
-    df["_d"] = pd.to_datetime(df[dcol], errors="coerce") if dcol else pd.NaT
-    df = df.dropna(subset=["_p", "_y"])
-
-    era = "v2-era (changeover — calibration approximate)"
+    era = "v2-era (changeover \u2014 calibration approximate)"
     if df["_d"].notna().any():
         v3rows = df[df["_d"] >= pd.Timestamp(V3_DEPLOY_DATE)]
         if v3rows["_d"].dt.date.nunique() >= V3_CAL_MIN_V3_SLATES and len(v3rows) >= V3_CAL_MIN_ROWS:
-            df, era = v3rows, "v3-era only ✅"
+            df, era = v3rows, "v3-era only \u2705"
         else:
-            df = df[df["_d"] < pd.Timestamp(V3_DEPLOY_DATE)]
-            era = (f"v2-era ({v3rows['_d'].dt.date.nunique() if len(v3rows) else 0}"
-                   f"/{V3_CAL_MIN_V3_SLATES} v3 slates banked — approximate)")
+            _v2 = df[df["_d"] < pd.Timestamp(V3_DEPLOY_DATE)]
+            _banked = v3rows["_d"].dt.date.nunique() if len(v3rows) else 0
+            if len(_v2) >= V3_CAL_MIN_ROWS:
+                df = _v2
+            era = f"v2-era ({_banked}/{V3_CAL_MIN_V3_SLATES} v3 slates banked \u2014 approximate)"
 
     if len(df) < V3_CAL_MIN_ROWS:
         if not quiet:
