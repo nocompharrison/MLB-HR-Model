@@ -20089,7 +20089,11 @@ def _v3_ensure_calibrator(force=False, path="hr_calibrator.json"):
                 meta = _json.load(f)
             fitted = meta.get("fitted_on")
             ver    = meta.get("version", "")
-            age = ((datetime.date.today() - datetime.date.fromisoformat(fitted)).days
+            # NOTE: this module does `from datetime import date, datetime` (line 161),
+            # so `datetime` is the CLASS. datetime.date.fromisoformat() raises
+            # AttributeError, which the except below swallowed as "unreadable" —
+            # causing a full 18MB history re-download on EVERY run. Use `date`.
+            age = ((date.today() - date.fromisoformat(fitted)).days
                    if fitted else 999)
             if age <= V3_CAL_MAX_AGE_D and ver.split(".")[0] == MODEL_VERSION.split(".")[0]:
                 print(f"  \U0001f4d0 calibrator: cached, fitted {fitted} "
