@@ -1,0 +1,472 @@
+player_name,player_id,game_date,game_id,team_name,team_side,opponent_team,position,batting_order,is_substitute,is_starter,at_bats,avg,batters_faced,batting_order_raw,doubles,earned_runs,era,games_started,hits,hits_allowed,home_runs,home_runs_allowed,innings_pitched,losses,plate_appearances,rbi,runs,saves,strikeouts,total_bases,triples,walks,wins
+Chase DeLauter,800050,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,2,
+Austin Hedges,595978,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Travis Bazzana,683953,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Brayan Rocchio,677587,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Petey Halpin,690984,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+David Fry,681807,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+José Ramírez,608070,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Steven Kwan,680757,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,0,,0,2,0,0,
+Angel Martínez,682657,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Kyle Manzardo,700932,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,2,0,0,0,
+Rhys Hoskins,656555,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Colin Holderman,670059,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,pitching,,,0,,,1,,,0,,0,,0,,0,0.1,0,,,,0,0,,,0,0
+Parker Messick,800048,2026-07-26,822950,Cleveland Guardians,away,Tampa Bay Rays,pitching,,,1,,,29,,,1,,1,,6,,0,7.2,1,,,,0,6,,,0,0
+Taylor Walls,670764,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Richie Palacios,680700,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+Ryan Vilade,668723,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,2,1,0,0,
+Chandler Simpson,802415,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,3,,,,0,,,,2,,0,,,,3,0,1,,0,2,0,0,
+Jonny DeLuca,676356,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,0,0,0,0,
+Nick Fortes,663743,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,3,,,,1,,,,1,,0,,,,3,0,0,,1,2,0,0,
+Yandy Díaz,650490,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Ben Williamson,810938,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,3,,,,0,,,,1,,0,,,,3,0,0,,0,1,0,0,
+Junior Caminero,691406,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Cedric Mullins,656775,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,batting,,0,,3,,,,0,,,,1,,0,,,,3,1,0,,1,1,0,0,
+Garrett Cleavinger,664076,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,1,,,0,0
+Bryan Baker,641329,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,1,1,,,1,0
+Drew Rasmussen,656876,2026-07-26,822950,Tampa Bay Rays,home,Cleveland Guardians,pitching,,,1,,,24,,,0,,1,,1,,0,7.0,0,,,,0,9,,,1,1
+Tim Tawa,694374,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Adrian Del Castillo,680728,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,3,,,,0,,,,1,,0,,,,3,0,0,,0,1,0,0,
+Nolan Arenado,571448,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,4,,,,0,,,,0,,0,,,,5,1,0,,0,0,0,1,
+Tyler Locklear,682988,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,3,,,,0,,,,0,,0,,,,5,1,0,,0,0,0,0,
+Ryan Waldschmidt,814439,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,2,,,,1,,,,2,,0,,,,2,1,1,,0,3,0,0,
+Ketel Marte,606466,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,5,,,,0,,,,1,,1,,,,5,1,1,,1,4,0,0,
+Ildemaro Vargas,545121,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,1,,,,0,,,,1,,0,,,,2,0,0,,0,1,0,1,
+Geraldo Perdomo,672695,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,2,,,,0,,,,1,,1,,,,5,1,2,,0,4,0,3,
+Gabriel Moreno,672515,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,3,,,,2,,,,2,,0,,,,5,2,1,,0,4,0,1,
+Corbin Carroll,682998,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,4,,,,1,,,,1,,0,,,,5,0,2,,0,2,0,1,
+Max Kepler,596146,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Jorge Barrosa,678489,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Kevin Ginkel,656464,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,pitching,,,0,,,6,,,1,,0,,3,,1,1.1,0,,,,0,0,,,0,0
+Jonathan Loáisiga,642528,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,pitching,,,0,,,5,,,2,,0,,2,,1,1.0,1,,,,0,1,,,0,0
+Kohl Drake,684442,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,pitching,,,1,,,19,,,4,,1,,5,,2,4.0,0,,,,0,1,,,2,0
+Ryan Thompson,657044,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,pitching,,,0,,,4,,,0,,0,,1,,0,0.2,0,,,,0,0,,,1,0
+Brandyn Garcia,805299,2026-07-26,822706,Arizona Diamondbacks,away,Washington Nationals,pitching,,,0,,,7,,,2,,0,,4,,0,1.0,0,,,,0,2,,,0,0
+Brady House,691781,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,5,,,,2,,,,2,,0,,,,5,1,2,,1,4,0,0,
+CJ Abrams,682928,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,5,,,,0,,,,3,,2,,,,5,3,2,,1,9,0,0,
+Nasim Nuñez,683083,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,1,,0,0,0,1,
+Andrés Chaparro,665953,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+Dylan Crews,686611,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,5,,,,1,,,,3,,0,,,,5,0,1,,0,4,0,0,
+Daylen Lile,695734,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,3,,,,0,,,,1,,0,,,,3,0,1,,0,1,0,0,
+James Wood,695578,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,4,,,,0,,,,2,,2,,,,5,3,2,,1,8,0,1,
+Harry Ford,695670,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,1,
+Jacob Young,696285,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,4,,,,1,,,,2,,0,,,,4,2,1,,0,3,0,0,
+Luis García Jr.,671277,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,batting,,0,,4,,,,1,,,,2,,0,,,,4,0,0,,0,3,0,0,
+Riley Cornelio,683000,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,0,,,9,,,1,,0,,1,,0,2.0,0,,,,0,0,,,2,1
+Matt Krook,640454,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,0,,,3,,,2,,0,,0,,0,0.0,0,,,,0,0,,,3,0
+Miles Mikolas,571945,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,1,,,18,,,3,,1,,4,,2,4.0,0,,,,0,1,,,1,0
+Max Kranick,668820,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,1,,,0,0
+Clayton Beeter,690925,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,0,,,5,,,0,,0,,1,,0,1.0,0,,,,1,0,,,1,0
+Tom Cosgrove,676680,2026-07-26,822706,Washington Nationals,home,Arizona Diamondbacks,pitching,,,0,,,5,,,1,,0,,2,,0,1.0,0,,,,0,0,,,0,0
+Michael Conforto,624424,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,3,,,,1,,,,1,,0,,,,4,0,2,,0,2,0,1,
+Ian Happ,664023,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,5,,,,0,,,,1,,0,,,,5,0,0,,2,1,0,0,
+Pedro Ramírez,699393,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,4,,,,0,,,,2,,0,,,,4,1,1,,0,2,0,0,
+Michael Busch,683737,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,4,,,,1,,,,2,,0,,,,5,0,1,,0,3,0,1,
+Carson Kelly,608348,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,4,,,,0,,,,0,,0,,,,4,1,0,,3,0,0,0,
+Pete Crow-Armstrong,691718,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,5,,,,0,,,,1,,0,,,,5,1,0,,2,3,1,0,
+Seiya Suzuki,673548,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,5,,,,0,,,,1,,1,,,,5,2,1,,2,4,0,0,
+Dansby Swanson,621020,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,4,,,,0,,,,2,,0,,,,4,1,1,,0,2,0,0,
+Nico Hoerner,663538,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,batting,,0,,4,,,,0,,,,2,,0,,,,4,1,1,,0,2,0,0,
+Jameson Taillon,592791,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,pitching,,,1,,,19,,,7,,1,,6,,3,4.0,1,,,,0,3,,,2,0
+Aaron Civale,650644,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,pitching,,,0,,,7,,,0,,0,,1,,0,2.0,0,,,,0,3,,,0,0
+Ryan Rolison,669020,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,pitching,,,0,,,6,,,1,,0,,3,,0,1.0,0,,,,0,0,,,1,0
+Trent Thornton,663423,2026-07-26,823354,Chicago Cubs,away,Pittsburgh Pirates,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,2,,,0,0
+Jacob Gonzalez,694378,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Brandon Lowe,664040,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,1,,,,3,,0,,,,4,0,2,,0,4,0,0,
+Bryan Reynolds,668804,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,1,,1,2,0,0,
+Esmerlyn Valdez,699013,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,3,,,,0,,,,2,,1,,,,4,2,2,,1,5,0,1,
+Jared Triolo,669707,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Jake Mangum,663968,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,2,1,0,0,
+Billy Cook,695257,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Tyler Callihan,682997,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Shawn Ross,676566,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,0,,,,1,,1,,,,4,2,1,,2,4,0,0,
+Ryan O'Hearn,656811,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,2,,,,0,,,,1,,1,,,,4,4,2,,0,4,0,2,
+Nick Gonzales,693304,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,0,2,0,0,
+Mason Montgomery,682254,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,pitching,,,0,,,5,,,2,,0,,2,,1,1.0,0,,,,1,2,,,0,0
+Carmen Mlodzinski,669387,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,pitching,,,0,,,9,,,1,,0,,3,,0,2.0,0,,,,0,2,,,0,0
+Braxton Ashcraft,677952,2026-07-26,823354,Pittsburgh Pirates,home,Chicago Cubs,pitching,,,1,,,26,,,4,,1,,7,,0,6.0,0,,,,0,5,,,2,1
+Ernie Clement,676391,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,0,,1,2,0,0,
+Daulton Varsho,662139,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,1,,0,1,0,1,
+Andrés Giménez,665926,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,1,,,,3,,0,,,,4,1,0,,0,4,0,0,
+Davis Schneider,676914,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Nathan Lukes,664770,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+George Springer,543807,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,0,2,0,0,
+Yohendrick Piñango,682818,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Vladimir Guerrero Jr.,665489,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Alejandro Kirk,672386,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,0,2,0,0,
+Kazuma Okamoto,672960,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Adam Macko,671936,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,pitching,,,0,,,4,,,0,,0,,2,,0,1.0,0,,,,0,0,,,0,0
+Brendon Little,663893,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,pitching,,,0,,,4,,,1,,0,,2,,0,0.2,0,,,,0,1,,,0,0
+Kevin Gausman,592332,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,pitching,,,1,,,24,,,3,,1,,5,,0,6.0,1,,,,0,6,,,1,0
+Braydon Fisher,680755,2026-07-26,824730,Toronto Blue Jays,away,Boston Red Sox,pitching,,,0,,,3,,,2,,0,,1,,0,0.1,0,,,,0,0,,,1,0
+Willson Contreras,575929,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,1,,1,0,0,1,
+Romy Gonzalez,663853,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Jahmai Jones,663330,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,1,,,,1,,,,1,,0,,,,1,2,1,,0,2,0,0,
+Wilyer Abreu,677800,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,4,,,,1,,,,1,,0,,,,4,1,0,,2,2,0,0,
+Andruw Monasterio,655316,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,2,,0,1,0,1,
+Caleb Durbin,702332,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,1,,1,2,0,0,
+Carlos Narváez,665966,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,1,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Jarren Duran,680776,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,4,,,,0,,,,3,,0,,,,4,2,1,,0,3,0,0,
+Ceddanne Rafaela,678882,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,4,,,,0,,,,1,,0,,,,4,1,0,,1,1,0,0,
+Masataka Yoshida,807799,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,0,0,0,0,
+Tyron Guerrero,594027,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,pitching,,,0,,,5,,,0,,0,,1,,0,1.0,0,,,,0,0,,,1,0
+Greg Weissert,669711,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,1,,,0,1
+Justin Slaten,686580,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,1,,,0,0
+Ranger Suarez,624133,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,pitching,,,1,,,15,,,0,,1,,4,,0,4.0,0,,,,0,6,,,0,0
+Ryan Watson,670245,2026-07-26,824730,Boston Red Sox,home,Toronto Blue Jays,pitching,,,0,,,9,,,1,,0,,3,,0,2.0,0,,,,0,1,,,0,0
+Michael Harris II,671739,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,5,,,,0,,,,1,,0,,,,5,0,1,,0,1,0,0,
+Jorge Mateo,622761,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,1,,0,0,0,0,
+Mauricio Dubón,643289,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,0,,0,0,0,1,
+Brewer Hicklen,676551,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,0,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,1,
+Drake Baldwin,686948,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,3,,,,0,,,,2,,0,,,,6,0,0,,1,2,0,3,
+Jim Jarvis,805347,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,2,,,,0,,,,0,,0,,,,5,0,0,,0,0,0,1,
+Matt Olson,621566,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,5,,,,1,,,,1,,0,,,,6,0,1,,2,2,0,1,
+Dominic Smith,642086,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,5,,,,0,,,,3,,0,,,,5,2,0,,0,3,0,0,
+Eli White,642201,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Ozzie Albies,645277,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,6,,,,0,,,,0,,0,,,,6,0,0,,1,0,0,0,
+Austin Riley,663586,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,4,,,,1,,,,1,,0,,,,5,1,0,,1,2,0,1,
+Mike Yastrzemski,573262,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,batting,,0,,2,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,1,
+Dylan Dodd,689266,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,0,,,4,,,0,,0,,0,,0,1.1,0,,,,0,0,,,0,0
+Dylan Lee,669276,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,0,,,4,,,1,,0,,1,,1,1.0,0,,,,0,1,,,0,0
+Tyler Kinley,641755,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,0,,,6,,,0,,0,,0,,0,1.1,0,,,,0,1,,,2,1
+Reynaldo López,625643,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,1,,,23,,,0,,1,,5,,0,5.2,0,,,,0,6,,,1,0
+Raisel Iglesias,628452,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,0,,,5,,,0,,0,,0,,0,1.0,0,,,,0,1,,,1,0
+Danny Young,664849,2026-07-26,824810,Atlanta Braves,away,Baltimore Orioles,pitching,,,0,,,3,,,0,,0,,0,,0,0.2,0,,,,0,0,,,2,0
+Chadwick Tromp,644433,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Jeremiah Jackson,669236,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Gunnar Henderson,683002,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,0,
+Leody Taveras,665750,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,1,
+Taylor Ward,621493,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,5,,,,0,,,,2,,0,,,,5,0,0,,1,2,0,0,
+Dylan Beavers,687637,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,1,
+Tyler O'Neill,641933,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Pete Alonso,624413,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,4,,,,0,,,,2,,1,,,,5,1,1,,1,5,0,1,
+Sam Huff,669087,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Jackson Holliday,702616,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,3,,,,0,,,,0,,0,,,,5,1,0,,0,0,0,2,
+Christian Encarnacion-Strand,687952,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,0,,0,1,0,1,
+Colton Cowser,681297,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,2,,,,0,,,,1,,0,,,,2,0,0,,1,1,0,0,
+Coby Mayo,691723,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,1,,1,0,0,0,
+Tyler Wells,669330,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,0,,,1,0
+Shane Baz,669358,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,1,,,19,,,1,,1,,6,,0,4.1,0,,,,0,2,,,2,0
+Albert Suárez,544150,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,0,,,8,,,0,,0,,0,,0,2.0,0,,,,0,2,,,2,0
+Josh Walker,677020,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,0,,,6,,,0,,0,,1,,0,1.2,0,,,,0,0,,,0,0
+Anthony Nunez,689296,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,0,,,5,,,0,,0,,0,,0,1.0,0,,,,0,2,,,2,0
+Andrew Kittredge,552640,2026-07-26,824810,Baltimore Orioles,home,Atlanta Braves,pitching,,,0,,,6,,,0,,0,,1,,0,1.0,1,,,,0,0,,,2,0
+Carter Jensen,695600,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,1,
+Tyler Tolbert,686475,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,1,,0,0,0,1,
+Isaac Collins,686555,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,1,,0,1,0,1,
+Salvador Perez,521692,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,3,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,1,
+Nick Loftin,679845,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,5,,,,0,,,,1,,0,,,,5,0,1,,2,1,0,0,
+Andrew Velazquez,623205,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Michael Massey,686681,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,2,,,,0,,,,1,,1,,,,2,2,1,,0,4,0,0,
+Starling Marte,516782,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Luke Maile,571912,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,2,,,,1,,,,1,,0,,,,2,1,0,,0,2,0,0,
+Lane Thomas,657041,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,4,,,,0,,,,1,,1,,,,5,1,1,,0,4,0,1,
+Jac Caglianone,695506,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,2,0,0,0,
+Luinder Avila,679883,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,1,,,21,,,2,,1,,4,,0,4.1,0,,,,0,2,,,4,0
+Lucas Erceg,668674,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,0,,,3,,,0,,0,,1,,0,1.0,0,,,,0,0,,,0,0
+Matt Strahm,621381,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,0,,,4,,,0,,0,,1,,0,0.2,0,,,,0,1,,,0,0
+Nate Pearson,663878,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,0,,,1,1
+Steven Cruz,674444,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,0,,,5,,,0,,0,,1,,0,1.0,0,,,,1,2,,,1,0
+John Schreiber,670167,2026-07-26,824246,Kansas City Royals,away,Detroit Tigers,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,0,,,1,0
+Zach McKinstry,656716,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,0,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,1,
+Hao-Yu Lee,701678,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,3,,,,1,,,,1,,0,,,,4,0,1,,0,2,0,1,
+Riley Greene,682985,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,5,,,,0,,,,0,,0,,,,5,1,1,,1,0,0,0,
+Kevin McGonigle,805808,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,4,,,,0,,,,2,,0,,,,5,0,1,,0,2,0,1,
+Kerry Carpenter,681481,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+Spencer Torkelson,679529,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,2,,,,0,,,,1,,0,,,,4,0,0,,0,1,0,2,
+Ben Malgeri,701162,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Gleyber Torres,650402,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,2,0,0,0,
+James Outman,681546,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Dillon Dingler,693307,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,3,,,,0,,,,2,,0,,,,4,2,0,,0,2,0,1,
+Colt Keith,690993,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,batting,,0,,4,,,,0,,,,1,,0,,,,5,0,1,,0,1,0,1,
+Framber Valdez,664285,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,pitching,,,1,,,24,,,2,,1,,4,,1,5.0,0,,,,0,4,,,3,0
+Ty Madden,680744,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,pitching,,,0,,,6,,,0,,0,,0,,0,1.2,0,,,,0,1,,,1,0
+Drew Sommers,805427,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,pitching,,,0,,,6,,,2,,0,,2,,1,1.1,1,,,,0,2,,,0,0
+Brenan Hanifee,669724,2026-07-26,824246,Detroit Tigers,home,Kansas City Royals,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,1,,,1,0
+Dalton Rushing,687221,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,1,,,,0,,,,1,,0,,,,1,0,0,,0,1,0,0,
+Kyle Tucker,663656,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Max Muncy,571970,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,3,,,,0,,,,0,,0,,,,4,1,0,,1,0,0,1,
+Freddie Freeman,518692,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,1,,,,2,,0,,,,4,1,0,,1,3,0,0,
+Eliezer Alfonzo,672613,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,2,,,,1,,,,1,,0,,,,2,1,1,,0,2,0,0,
+Tommy Edman,669242,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,1,,1,2,0,0,
+Shohei Ohtani,660271,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,0,,2,2,0,0,
+Teoscar Hernández,606192,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,1,2,0,0,
+Andy Pages,681624,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,1,,2,0,0,1,
+Alex Call,669743,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Mookie Betts,605141,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Miguel Rojas,500743,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Alex Freeland,690976,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Will Klein,694361,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,pitching,,,0,,,7,,,4,,0,,2,,1,1.0,0,,,,0,1,,,2,0
+Evan Phillips,623465,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,pitching,,,0,,,3,,,1,,0,,1,,1,0.2,1,,,,0,1,,,0,0
+Charlie Barnes,656212,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,2,,,1,0
+Emmet Sheehan,686218,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,pitching,,,1,,,21,,,1,,1,,3,,0,5.0,0,,,,0,5,,,2,0
+Jack Dreyer,676263,2026-07-26,823599,Los Angeles Dodgers,away,New York Mets,pitching,,,0,,,3,,,2,,0,,0,,0,0.1,0,,,,0,0,,,2,0
+Luis Torrens,620443,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Bo Bichette,666182,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,1,,1,2,0,0,
+Tyrone Taylor,621438,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,3,,,,0,,,,1,,1,,,,4,3,1,,1,4,0,0,
+Brett Baty,683146,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,1,
+Carson Benge,701807,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,1,,1,0,0,2,
+Marcus Semien,543760,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,1,,,,0,,,,1,,1,,,,1,3,1,,0,4,0,0,
+Francisco Lindor,596019,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,5,,,,0,,,,1,,0,,,,5,1,0,,1,1,0,0,
+Jorge Polanco,593871,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,1,,0,0,0,1,
+Jared Young,676724,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Luis Robert Jr.,673357,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,0,,,,0,,,,0,,0,,,,1,0,1,,0,0,0,1,
+A.J. Ewing,805999,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,batting,,0,,3,,,,1,,,,1,,0,,,,5,0,2,,0,2,0,2,
+Luke Weaver,596133,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,pitching,,,0,,,6,,,0,,0,,2,,0,1.0,0,,,,0,0,,,0,0
+Devin Williams,642207,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,3,,,0,0
+Cionel Pérez,672335,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,pitching,,,0,,,6,,,0,,0,,0,,0,2.0,0,,,,0,3,,,0,1
+Freddy Peralta,642547,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,pitching,,,1,,,20,,,2,,1,,6,,0,4.0,0,,,,0,3,,,2,0
+Brooks Raley,548384,2026-07-26,823599,New York Mets,home,Los Angeles Dodgers,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,1,,,0,0
+Luis Rengifo,650859,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,1,,,,2,,0,,,,4,0,1,,0,3,0,0,
+Luis Campusano,669134,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,0,,,,1,,0,,,,4,1,0,,1,1,0,0,
+Jackson Merrill,701538,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,0,,,,2,,1,,,,4,1,1,,1,5,0,0,
+Rodolfo Durán,660710,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Sung-Mun Song,823550,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Gavin Sheets,657757,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Manny Machado,592518,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,5,,,,1,,,,2,,1,,,,5,3,1,,0,6,0,0,
+Fernando Tatis Jr.,665487,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,2,0,0,0,
+Ty France,664034,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,0,2,0,0,
+Jase Bowen,687749,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Jake Cronenworth,630105,2026-07-26,823840,San Diego Padres,away,Miami Marlins,batting,,0,,5,,,,0,,,,3,,0,,,,5,0,2,,1,3,0,0,
+Yuki Matsui,673513,2026-07-26,823840,San Diego Padres,away,Miami Marlins,pitching,,,0,,,3,,,0,,0,,0,,0,0.2,0,,,,0,2,,,1,0
+Mason Miller,695243,2026-07-26,823840,San Diego Padres,away,Miami Marlins,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,1,1,,,0,0
+Wandy Peralta,593974,2026-07-26,823840,San Diego Padres,away,Miami Marlins,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,0,,,0,1
+Walker Buehler,621111,2026-07-26,823840,San Diego Padres,away,Miami Marlins,pitching,,,1,,,22,,,2,,1,,4,,1,5.1,0,,,,0,7,,,2,0
+Adrian Morejon,670970,2026-07-26,823840,San Diego Padres,away,Miami Marlins,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,0,,,0,0
+Griffin Conine,665052,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,1,,,,0,,,,0,,0,,,,3,0,1,,0,0,0,2,
+Heriberto Hernández,681715,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Esteury Ruiz,665923,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,2,,,,0,,,,0,,0,,,,3,0,0,,2,0,0,0,
+Jakob Marsee,805300,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Javier Sanoja,691594,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,2,,,,0,,,,1,,0,,,,2,0,0,,0,1,0,0,
+Xavier Edwards,669364,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Kyle Stowers,669065,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,4,,,,1,,,,2,,1,,,,4,1,1,,1,6,0,0,
+Graham Pauley,688363,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,2,,,,0,,,,1,,0,,,,2,1,0,,0,1,0,0,
+Liam Hicks,689414,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,1,,1,0,0,1,
+Leo Jiménez,677870,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Joe Mack,691788,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Otto Lopez,672640,2026-07-26,823840,Miami Marlins,home,San Diego Padres,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Tyler Zuber,676604,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,0,,,0,0
+Lake Bachar,669199,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,0,,,8,,,4,,0,,5,,2,1.0,1,,,,0,0,,,0,0
+Pete Fairbanks,664126,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,1,,,0,0
+Cade Gibson,806188,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,0,,,3,,,0,,0,,1,,0,1.0,0,,,,0,1,,,0,0
+Michael Petersen,656848,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,0,,,1,,,0,,0,,0,,0,0.1,0,,,,0,0,,,0,0
+Janson Junk,676083,2026-07-26,823840,Miami Marlins,home,San Diego Padres,pitching,,,1,,,21,,,1,,1,,7,,0,4.2,0,,,,0,6,,,0,0
+Lawrence Butler,671732,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,1,,0,0,0,1,
+Jonah Heim,641680,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Tommy White,695720,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,2,,1,2,0,0,
+Donovan Walton,622268,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,1,,,,0,,,,1,,0,,,,2,1,1,,0,1,0,1,
+Jeff McNeil,643446,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,4,,,,0,,,,2,,0,,,,4,2,1,,0,2,0,0,
+Carlos Cortes,666126,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,1,,,,0,,,,0,,0,,,,2,2,0,,0,0,0,0,
+Alika Williams,675961,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Tyler Soderstrom,691016,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,4,,,,1,,,,2,,0,,,,4,0,1,,1,3,0,0,
+Nick Kurtz,701762,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,3,,,,0,,,,1,,1,,,,4,3,1,,1,4,0,1,
+Henry Bolte,703607,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Colby Thomas,687515,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Jacob Wilson,805779,2026-07-26,823678,Athletics,away,Minnesota Twins,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,1,,0,0,0,0,
+Geoff Hartlieb,664129,2026-07-26,823678,Athletics,away,Minnesota Twins,pitching,,,0,,,11,,,3,,0,,5,,0,2.0,0,,,,0,1,,,0,0
+Jeffrey Springs,605488,2026-07-26,823678,Athletics,away,Minnesota Twins,pitching,,,1,,,9,,,4,,1,,4,,0,1.1,1,,,,0,0,,,1,0
+Luis Morales,806960,2026-07-26,823678,Athletics,away,Minnesota Twins,pitching,,,0,,,21,,,2,,0,,4,,0,4.2,0,,,,0,5,,,1,0
+Kody Clemens,665019,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,5,,,,0,,,,3,,0,,,,5,1,2,,0,7,2,0,
+Brooks Lee,686797,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,2,,0,1,0,1,
+Austin Martin,668885,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,3,,,,1,,,,1,,0,,,,5,1,2,,0,2,0,1,
+Alan Roden,702176,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Ryan Jeffers,680777,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,5,,,,0,,,,3,,0,,,,5,3,0,,1,3,0,0,
+Ryan Kreidler,668952,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,4,,,,2,,,,3,,0,,,,4,1,3,,0,7,1,0,
+Royce Lewis,668904,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,5,,,,0,,,,1,,0,,,,5,1,1,,0,1,0,0,
+Byron Buxton,621439,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,0,
+Alex Jackson,656577,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,3,,,,0,,,,1,,0,,,,3,0,1,,2,1,0,0,
+Luke Keaschall,807712,2026-07-26,823678,Minnesota Twins,home,Athletics,batting,,0,,3,,,,0,,,,0,,0,,,,4,1,0,,1,0,0,0,
+Tommy Nance,667297,2026-07-26,823678,Minnesota Twins,home,Athletics,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,0,,,1,0
+Connor Prielipp,687570,2026-07-26,823678,Minnesota Twins,home,Athletics,pitching,,,1,,,18,,,1,,1,,2,,0,5.2,0,,,,0,5,,,1,1
+Cole Sands,663485,2026-07-26,823678,Minnesota Twins,home,Athletics,pitching,,,0,,,6,,,5,,0,,3,,1,0.1,0,,,,0,0,,,1,0
+Kody Funderburk,681892,2026-07-26,823678,Minnesota Twins,home,Athletics,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,1,,,0,0
+Travis Adams,701519,2026-07-26,823678,Minnesota Twins,home,Athletics,pitching,,,0,,,6,,,2,,0,,3,,0,1.0,0,,,,0,0,,,0,0
+Isaac Paredes,670623,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Nick Allen,669397,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,1,,,,0,,,,1,,0,,,,1,0,0,,0,1,0,0,
+Cam Smith,701358,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,0,
+Jose Altuve,514888,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Taylor Trammell,666211,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,2,,1,,,,4,1,1,,1,5,0,0,
+Jeremy Peña,665161,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,2,,2,,,,4,2,2,,0,8,0,0,
+Zach Dezenzo,701305,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,0,1,0,0,
+LaMonte Wade Jr.,664774,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,2,
+Christian Vázquez,543877,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Yainer Diaz,673237,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Yordan Alvarez,670541,2026-07-26,824572,Houston Astros,away,Chicago White Sox,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,2,
+Ronel Blanco,669854,2026-07-26,824572,Houston Astros,away,Chicago White Sox,pitching,,,1,,,22,,,5,,1,,4,,2,5.1,1,,,,0,4,,,3,0
+Enyel De Los Santos,660853,2026-07-26,824572,Houston Astros,away,Chicago White Sox,pitching,,,0,,,5,,,2,,0,,3,,1,1.0,0,,,,0,1,,,0,0
+Bryan King,687911,2026-07-26,824572,Houston Astros,away,Chicago White Sox,pitching,,,0,,,6,,,2,,0,,3,,0,0.2,0,,,,0,1,,,0,0
+Miguel Ullola,699044,2026-07-26,824572,Houston Astros,away,Chicago White Sox,pitching,,,0,,,6,,,3,,0,,2,,2,1.0,0,,,,0,0,,,1,0
+Tristan Peters,671976,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Luisangel Acuña,682668,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Randal Grichuk,545341,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,1,,,,0,,,,1,,0,,,,1,0,0,,0,1,0,0,
+Munetaka Murakami,808959,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,5,,,,0,,,,3,,2,,,,5,6,3,,0,9,0,0,
+Chase Meidroth,805367,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,3,,,,0,,,,1,,1,,,,4,1,2,,1,4,0,1,
+Junior Perez,678577,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,1,,,,0,,,,1,,1,,,,1,2,2,,0,4,0,0,
+Drew Romo,691011,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,2,,0,1,0,1,
+Braden Montgomery,695731,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,1,
+Andrew Benintendi,643217,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,4,,,,0,,,,1,,0,,,,4,1,0,,1,1,0,0,
+Sam Antonacci,803011,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,2,,,,1,,,,2,,0,,,,3,0,2,,0,3,0,1,
+Miguel Vargas,678246,2026-07-26,824572,Chicago White Sox,home,Houston Astros,batting,,0,,5,,,,0,,,,1,,1,,,,5,2,1,,2,4,0,0,
+Grant Taylor,691799,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,2,,,1,0
+Seranthony Domínguez,622554,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,1,,,0,0
+Chris Murphy,669684,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,2,,,0,0
+Erick Fedde,607200,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,1,,,18,,,3,,1,,5,,3,4.1,0,,,,0,2,,,1,0
+Sean Newcomb,656794,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,0,,,5,,,0,,0,,1,,0,0.2,0,,,,0,0,,,1,1
+Jordan Hicks,663855,2026-07-26,824572,Chicago White Sox,home,Houston Astros,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,0,,,1,0
+Mickey Moniak,666160,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,2,1,0,0,
+Jake McCarthy,664983,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Troy Johnston,687859,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Braxton Fulford,690924,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Willi Castro,650489,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,2,,,,0,,,,1,,1,,,,3,1,1,,1,4,0,0,
+Cole Carrigg,694249,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,4,,,,0,,,,1,,1,,,,4,1,1,,1,4,0,0,
+Edouard Julien,666397,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Hunter Goodman,696100,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,3,,,,0,,,,1,,0,,,,3,0,0,,2,1,0,0,
+Brett Sullivan,664954,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+TJ Rumfield,681198,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,2,1,0,0,
+Kyle Karros,691720,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Victor Vodnik,680767,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,pitching,,,0,,,6,,,2,,0,,4,,0,1.0,0,,,,0,0,,,0,0
+Jimmy Herget,623474,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,pitching,,,0,,,7,,,3,,0,,3,,0,0.2,0,,,,0,1,,,2,0
+Kyle Freeland,607536,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,pitching,,,1,,,23,,,5,,1,,6,,1,5.1,1,,,,0,2,,,1,0
+Brett Sullivan,664954,2026-07-26,823755,Colorado Rockies,away,Milwaukee Brewers,pitching,,,0,,,4,,,1,,0,,1,,0,1.0,0,,,,0,0,,,0,0
+Cooper Pratt,806198,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,4,,,,1,,,,2,,0,,,,4,2,1,,0,3,0,0,
+Joey Ortiz,687401,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,4,,,,1,,,,2,,0,,,,4,0,0,,1,5,1,0,
+Jackson Chourio,694192,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,5,,,,2,,,,2,,0,,,,5,1,2,,0,4,0,0,
+Jake Bauers,641343,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,3,,,,1,,,,2,,0,,,,4,1,2,,0,3,0,1,
+Andrew Vaughn,683734,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,4,,,,0,,,,1,,1,,,,5,2,1,,1,4,0,0,
+Blake Perkins,663368,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+William Contreras,661388,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,5,,,,1,,,,1,,0,,,,5,0,1,,1,2,0,0,
+Brice Turang,668930,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,4,,,,0,,,,1,,0,,,,5,0,1,,0,1,0,1,
+Gary Sánchez,596142,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,3,,,,1,,,,1,,0,,,,4,1,2,,0,2,0,1,
+Luis Lara,800325,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,batting,,0,,4,,,,2,,,,2,,0,,,,4,2,1,,0,4,0,0,
+Chad Patrick,694477,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,0,,,4,,,0,,0,,2,,0,0.2,0,,,,0,0,,,0,0
+Craig Yoho,684974,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,0,,,0,0
+Grant Anderson,681982,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,0,,,4,,,1,,0,,1,,1,1.0,0,,,,0,1,,,0,0
+Aaron Ashby,676879,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,0,,,1,,,0,,0,,0,,0,0.1,0,,,,0,0,,,0,0
+Jacob Misiorowski,694819,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,1,,,17,,,1,,1,,1,,1,5.0,0,,,,0,12,,,0,1
+Bryse Wilson,669060,2026-07-26,823755,Milwaukee Brewers,home,Colorado Rockies,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,2,,,0,0
+Elly De La Cruz,682829,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,5,,,,0,,,,2,,1,,,,5,1,2,,2,5,0,0,
+Dane Myers,667472,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,5,,,,0,,,,1,,0,,,,5,0,0,,3,1,0,0,
+Sal Stewart,701398,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,1,,,,0,,,,1,,0,,,,1,1,1,,0,1,0,0,
+Noelvi Marte,682622,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,4,,,,0,,,,2,,0,,,,4,0,0,,0,2,0,0,
+Nathaniel Lowe,663993,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,5,,,,0,,,,3,,0,,,,5,2,0,,0,3,0,0,
+Ke'Bryan Hayes,663647,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,2,,,,0,,,,1,,1,,,,3,1,1,,0,4,0,1,
+Spencer Steer,668715,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,2,0,0,0,
+Jose Trevino,624431,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,2,0,0,0,
+Eugenio Suárez,553993,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,0,,2,0,0,1,
+Tyler Stephenson,663886,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,1,,1,0,0,0,
+Edwin Arroyo,695490,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,2,,,,0,,,,0,,0,,,,3,0,0,,0,0,0,0,
+JJ Bleday,668709,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,batting,,0,,4,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,1,
+Pierce Johnson,572955,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,0,,,1,0
+Tejay Antone,622088,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,pitching,,,0,,,5,,,0,,0,,2,,0,0.2,0,,,,0,1,,,0,0
+Brock Burke,656271,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,pitching,,,0,,,4,,,0,,0,,0,,0,1.1,0,,,,0,2,,,0,1
+Julian Garcia,670062,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,pitching,,,0,,,5,,,0,,0,,2,,0,1.0,0,,,,1,1,,,0,0
+Andrew Abbott,671096,2026-07-26,823028,Cincinnati Reds,away,St. Louis Cardinals,pitching,,,1,,,24,,,2,,1,,3,,1,6.0,0,,,,0,4,,,4,0
+Jordan Walker,691023,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,0,,1,0,0,0,
+Bryan Torres,663494,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Nathan Church,701675,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Lars Nootbaar,663457,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,1,
+José Fermín,665877,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,2,,,,0,,,,0,,0,,,,5,1,0,,0,0,0,1,
+JJ Wetherholt,802139,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,5,,,,0,,,,0,,0,,,,5,0,1,,2,0,0,0,
+Blaze Jordan,691458,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,1,
+Alec Burleson,676475,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,5,,,,1,,,,3,,0,,,,5,1,1,,2,4,0,0,
+Pedro Pagés,686780,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,1,
+Masyn Winn,691026,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,4,,,,0,,,,2,,0,,,,5,0,0,,1,2,0,1,
+Iván Herrera,671056,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,5,,,,0,,,,2,,1,,,,5,1,1,,1,5,0,0,
+Nelson Velázquez,676369,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+Jimmy Crooks,699625,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Matt Svanson,694335,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,0,,,3,,,2,,0,,2,,0,0.1,1,,,,0,0,,,0,0
+Kyle Leahy,681517,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,1,,,24,,,2,,1,,6,,2,6.0,0,,,,0,9,,,1,0
+Justin Bruihl,677865,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,0,,,4,,,0,,0,,1,,0,0.2,0,,,,0,1,,,1,0
+George Soriano,666277,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,2,,,0,0
+Ryne Stanek,592773,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,0,,,0,0
+Luis Gastelum,703725,2026-07-26,823028,St. Louis Cardinals,home,Cincinnati Reds,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,1,,,1,0
+Josh Naylor,647304,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,5,,,,0,,,,2,,0,,,,5,0,0,,1,2,0,0,
+Victor Robles,645302,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,1,,,,0,,,,1,,0,,,,1,0,0,,0,1,0,0,
+Cole Young,702284,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,5,,,,0,,,,2,,0,,,,5,0,2,,0,4,1,0,
+Weston Wilson,642215,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Randy Arozarena,668227,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,5,,,,0,,,,3,,1,,,,5,1,1,,0,6,0,0,
+J.P. Crawford,641487,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Dominic Canzone,686527,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,5,,,,1,,,,3,,1,,,,5,4,1,,0,7,0,0,
+Cal Raleigh,663728,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,0,,2,1,0,0,
+Colt Emerson,806068,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,1,,0,1,0,0,
+Julio Rodríguez,677594,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,4,,,,0,,,,1,,0,,,,5,1,1,,0,1,0,0,
+Luke Raley,670042,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,2,0,0,0,
+Logan Gilbert,669302,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,pitching,,,1,,,24,,,3,,1,,5,,0,5.2,0,,,,0,4,,,2,0
+Andrés Muñoz,662253,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,1,3,,,0,0
+Gabe Speier,642100,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,pitching,,,0,,,4,,,0,,0,,0,,0,1.1,0,,,,0,3,,,0,1
+Eduard Bazardo,660825,2026-07-26,822870,Seattle Mariners,away,Texas Rangers,pitching,,,0,,,4,,,1,,0,,1,,1,1.0,0,,,,0,2,,,0,0
+Evan Carter,694497,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,3,,,,0,,,,1,,0,,,,4,1,0,,2,1,0,1,
+Wyatt Langford,694671,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,0,1,0,0,
+Jake Burger,669394,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,1,,3,0,0,1,
+Alejandro Osuna,696030,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Joc Pederson,592626,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,1,,0,2,0,0,
+Nicky Lopez,670032,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,4,,,,0,,,,1,,0,,,,4,1,0,,2,1,0,0,
+Justin Foscue,679822,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Ezequiel Duran,677649,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,3,,,,0,,,,1,,1,,,,4,2,1,,0,4,0,0,
+Brandon Nimmo,607043,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,1,,1,1,0,0,
+Josh Smith,669701,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,0,
+Elias Díaz,553869,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,2,0,0,0,
+Peyton Gray,682608,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,0,,,5,,,1,,0,,2,,0,1.0,0,,,,0,0,,,0,0
+Tyler Alexander,641302,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,0,,,3,,,2,,0,,2,,0,0.1,0,,,,0,0,,,0,0
+Robby Ahlstrom,695239,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,2,,,0,0
+Jacob deGrom,594798,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,1,,,22,,,1,,1,,7,,0,5.0,0,,,,0,4,,,0,0
+Ben Peoples,687239,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,0,,,0,0
+Cole Winn,668390,2026-07-26,822870,Texas Rangers,home,Seattle Mariners,pitching,,,0,,,4,,,2,,0,,2,,2,0.2,1,,,,0,1,,,0,0
+Oswald Peraza,672724,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,0,,,,0,,,,0,,0,,,,0,0,0,,0,0,0,0,
+Jose Siri,642350,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Zach Neto,687263,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Jorge Soler,624585,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,0,,,,1,,1,,,,4,2,1,,0,4,0,0,
+Mike Trout,545361,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,1,,,,4,,0,,,,4,0,1,,0,5,0,0,
+Jo Adell,666176,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,0,,,,1,,1,,,,4,2,1,,2,4,0,0,
+Denzer Guzman,694203,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,0,,1,1,0,0,
+Vaughn Grissom,687093,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,0,0,0,1,
+Nolan Schanuel,694384,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,2,,,,0,,,,0,,0,,,,4,0,1,,0,0,0,2,
+Logan O'Hoppe,681351,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,batting,,0,,3,,,,0,,,,0,,0,,,,3,0,0,,3,0,0,0,
+Chase Silseth,681217,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,1,,,0,0
+José Soriano,667755,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,1,,,20,,,0,,1,,3,,0,5.0,0,,,,0,5,,,3,1
+Mitch Farris,815083,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,0,,,3,,,0,,0,,1,,0,0.2,0,,,,1,1,,,0,0
+Sam Bachman,696147,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,0,,,3,,,2,,0,,0,,0,0.1,0,,,,0,0,,,2,0
+Ryan Zeferjahn,666171,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,0,,,4,,,0,,0,,1,,0,1.0,0,,,,0,2,,,0,0
+Samy Natera Jr.,696519,2026-07-26,823194,Los Angeles Angels,away,San Francisco Giants,pitching,,,0,,,4,,,0,,0,,0,,0,1.0,0,,,,0,1,,,1,0
+Casey Schmitt,669477,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Heliot Ramos,671218,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,4,,,,0,,,,1,,0,,,,5,0,0,,2,1,0,1,
+Drew Cavanaugh,701852,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,2,,,,0,,,,2,,0,,,,4,0,1,,0,2,0,2,
+Jesus Rodriguez,683679,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,1,,,,0,,,,0,,0,,,,2,0,0,,0,0,0,1,
+Drew Gilbert,687551,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,2,,,,0,,,,0,,0,,,,2,0,0,,1,0,0,0,
+Rafael Devers,646240,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,1,
+Grant McCray,687529,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,2,,,,0,,,,0,,0,,,,3,0,0,,1,0,0,0,
+Willy Adames,642715,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,4,,,,1,,,,1,,0,,,,4,0,2,,1,2,0,0,
+Luis Arraez,650333,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,5,,,,1,,,,2,,0,,,,5,2,0,,0,3,0,0,
+Bryce Eldridge,805811,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,3,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,1,
+Daniel Susac,691740,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,0,
+Carson Whisenhunt,687931,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,pitching,,,1,,,21,,,4,,1,,5,,2,5.0,1,,,,0,7,,,2,0
+Adrian Houser,605288,2026-07-26,823194,San Francisco Giants,home,Los Angeles Angels,pitching,,,0,,,14,,,0,,0,,2,,0,4.0,0,,,,0,2,,,1,0
+Ali Sánchez,645305,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,3,,,,0,,,,2,,0,,,,3,0,1,,1,2,0,0,
+José Caballero,676609,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Spencer Jones,682987,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,0,,,,0,,,,0,,0,,,,1,0,0,,0,0,0,1,
+Max Schuemann,680474,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,2,,,,0,,,,0,,0,,,,3,0,0,,0,0,0,1,
+Amed Rosario,642708,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,4,,,,0,,,,1,,0,,,,4,0,1,,2,1,0,0,
+Ryan McMahon,641857,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Paul Goldschmidt,502671,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,4,,,,0,,,,1,,0,,,,5,0,0,,2,1,0,1,
+Jasson Domínguez,691176,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,5,,,,0,,,,0,,0,,,,5,1,0,,1,0,0,0,
+Austin Wells,669224,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,1,,,,0,,,,0,,0,,,,1,0,0,,1,0,0,0,
+Ben Rice,700250,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,5,,,,1,,,,2,,1,,,,5,1,2,,1,6,0,0,
+Anthony Volpe,683011,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,3,,,,2,,,,2,,0,,,,4,1,0,,1,4,0,1,
+Trent Grisham,663757,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,1,0,0,0,
+Ryan Yarbrough,642232,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,pitching,,,0,,,16,,,5,,0,,6,,0,3.0,0,,,,0,2,,,2,0
+Tim Hill,657612,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,pitching,,,0,,,5,,,0,,0,,1,,0,1.0,0,,,,0,0,,,1,0
+Will Warren,701542,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,pitching,,,1,,,17,,,6,,1,,6,,1,3.0,1,,,,0,5,,,2,0
+Camilo Doval,666808,2026-07-26,823433,New York Yankees,away,Philadelphia Phillies,pitching,,,0,,,3,,,0,,0,,0,,0,1.0,0,,,,0,3,,,0,0
+Gabriel Rincones Jr.,687282,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,2,,,,0,,,,1,,0,,,,2,0,0,,1,1,0,0,
+Brandon Marsh,669016,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,3,,,,0,,,,1,,0,,,,5,0,1,,1,1,0,2,
+Bryan De La Cruz,650559,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,2,,,,0,,,,2,,0,,,,2,0,1,,0,2,0,0,
+Justin Crawford,702222,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,3,,,,0,,,,1,,0,,,,4,0,1,,0,1,0,0,
+Bryce Harper,547180,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,4,,,,1,,,,1,,0,,,,5,0,1,,2,2,0,1,
+J.T. Realmuto,592663,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,4,,,,0,,,,0,,0,,,,4,0,0,,2,0,0,0,
+Alec Bohm,664761,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,4,,,,1,,,,1,,0,,,,5,4,2,,2,2,0,0,
+Bryson Stott,681082,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,4,,,,1,,,,3,,1,,,,4,5,1,,1,7,0,0,
+Kyle Schwarber,656941,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,2,,,,0,,,,1,,0,,,,5,1,2,,0,1,0,2,
+Trea Turner,607208,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,batting,,0,,5,,,,0,,,,2,,0,,,,5,1,2,,1,4,1,0,
+Cristopher Sánchez,650911,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,pitching,,,1,,,28,,,3,,1,,6,,0,6.0,0,,,,0,6,,,3,1
+Chase Shugart,663767,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,pitching,,,0,,,8,,,0,,0,,1,,0,2.0,0,,,,0,5,,,1,0
+Tim Mayza,641835,2026-07-26,823433,Philadelphia Phillies,home,New York Yankees,pitching,,,0,,,4,,,1,,0,,1,,1,1.0,0,,,,0,2,,,0,0
