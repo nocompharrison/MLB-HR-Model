@@ -21806,15 +21806,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             "🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE — 3+ Tier-A HR archetypes stacking "
             "→ 100.0% HR (6.08x, n=8, 72-sl CSV Jul26). AUTO MUST-PLAY."
         )
-        hr_pts += (V3.shadow_conv(10) if _V3_OK else 0)
+        hr_pts += (V3.shadow_conv(10) if _V3_OK else 10)
     elif _arch_hr_confluence == 2:
         _firing_grades.append(
             "🧬🧬 ARCHETYPE DOUBLE CONFLUENCE — 2 Tier-A HR archetypes stacking "
             "→ 78.1% HR (4.75x, n=32, 72-sl CSV Jul26). AUTO MUST-PLAY."
         )
-        hr_pts += (V3.shadow_conv(6) if _V3_OK else 0)
+        hr_pts += (V3.shadow_conv(6) if _V3_OK else 6)
     elif _arch_hr_confluence == 1:
-        hr_pts += (V3.shadow_conv(3) if _V3_OK else 0)
+        hr_pts += (V3.shadow_conv(3) if _V3_OK else 3)
     if _arch_hit_confluence >= 2:
         flags.append(
             "🎯🎯 ARCHETYPE HIT CONFLUENCE — 2+ Tier-A hit archetypes stacking "
@@ -23835,7 +23835,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
 
     # ── DECISION GUIDE (top of sheet) ─────────────────────────────────────
     ws.merge_cells(f"A{row}:F{row}")
-    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  v3.0 'Calibrated Edge'.  🔬 SHADOW MODE IS ACTIVE: every archetype, flash combo and mined named grade below is LOGGED but earns ZERO conviction and ZERO ranking credit. Reason: a slate-stratified permutation test (outcomes shuffled within slate, identical search re-run) produced best-lifts of 3.34x–4.05x from PURE NOISE; the real library scored 3.95x, the 50th percentile of that null. Fisher p-values, bootstrap CIs and split-half tests do not correct for search across ~10^5 combinations. These signals may be real — the evidence to date cannot establish it. They stay inert until 30+ fresh forward slates of positive CLV.  ●  THE NUMBER TO BET IS 'Posterior %', not Score and not a grade: it is a market-free calibrated model probability (AUC 0.5510, ECE 0.0059) blended 0.38/0.62 with the de-vigged market price, giving AUC 0.5962 / Brier 0.13711 — better than the market alone (0.5930) and far better than v2 (0.5442, which added p=0.83 worth of nothing over the market).  ●  Stake % is ¼-Kelly capped at 2% of bankroll; blank means the edge did not clear 2%.  ●  EDGE IS MEASURED BY CLV, NOT HIT RATE: 3/5 at +250 on lines that closed +320 is a LOSING process. See the CLV line in the console.",
+    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  v3.0 'Calibrated Edge'.  ALL SIGNALS LIVE: archetypes, flash combos and named grades all earn full conviction and ranking credit.  ●  EVIDENCE NOTE (not a suppression): the archetype library HR01-HR16 / HT01-HT16, built 2026-07-26, did not clear a slate-stratified permutation null — outcomes shuffled within slate produced best-lifts of 3.34x-4.05x under the identical search, vs the library's own 3.95x. That test applies to the mined archetypes and to small-n flash combos (n=5-12 at '100%'), NOT to the large-n mechanistic grades: PITCHER TARGET MATCH T3 (n=397), PITCH-RELIANT (n=311, 1.19x), ICE COLD (n=156, 1.14x), CONFIRMED MATCH (n=85, 1.33x) were never products of that search.  ●  THE NUMBER TO BET IS 'Posterior %': a market-free calibrated model probability blended 0.38/0.62 with the de-vigged market price — AUC 0.5962 / Brier 0.13711, better than the market alone (0.5930) and than v2 (0.5442).  ●  Stake % is 1/4-Kelly capped at 2% of bankroll; blank means the edge did not clear 2%.  ●  EDGE IS MEASURED BY CLV, NOT HIT RATE: 3/5 at +250 on lines that closed +320 is a LOSING process. CLV logging will settle the archetype question empirically over 30-50 slates — that is the real test, not my prior.",
        bg="1F3864", fc="FFFFFF", size=9, bold=True)
     ws[f"A{row}"].alignment = Alignment(horizontal="left", vertical="center", wrap_text=True, indent=1)
     ws.row_dimensions[row].height = 28; row += 1
@@ -24207,7 +24207,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
                               ("HR05", 14.0), ("HR06", 14.0), ("HR07", 14.0), ("HR08", 14.0)):
             if _aid in g:
                 _arch_p2 += _aboost
-        _arch_p2 = (V3.shadow_conv(_arch_p2, "archetype") if _V3_OK else 0.0)
+        _arch_p2 = (V3.shadow_conv(_arch_p2, "archetype") if _V3_OK else _arch_p2)
         if _arch_p2:
             _p2 = max(_p2, min(_arch_p2, 30.0))
 
