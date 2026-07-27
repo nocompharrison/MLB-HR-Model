@@ -21767,7 +21767,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         score=float(score), power=float(power), vuln=float(vuln), pm=float(pm),
         park=float(park), env=float(_env_val), hs=float(hs or 0.0),
         sig=float(_sig_val), odds=_arch_odds_val,
-        edge=float(_edge_sc) * 100.0,          # stored as fraction; archetypes use %
+        # ⚠️ WIRING FIX (2026-07-27). This was `_edge_sc * 100`, where
+        # _edge_sc = sc.market_signal - 1.0. That is the WRONG QUANTITY.
+        #   market_signal = composite book-signal multiplier (~0.85-1.20)
+        #   edge_vs_market = model_prob - implied_prob   <- what the mining used
+        # Every archetype gating on edge (HR03, HR08, HR10, HT15, HT16) was
+        # therefore tested against a number it was never mined on, and silently
+        # never fired. Live proof: James Wood cleared all four HR03 gates on the
+        # exported data (edge -9.6%, odds +230, Pwr 88, Sig 0) and produced no fire.
+        edge=float(getattr(sc, "edge_vs_market", 0.0) or 0.0) * 100.0,
         hr_prob=float(_hr_prob_sc), est_pa=float(_est_pa_sc), conv=float(_conv_sc),
     )
     # Prefer the structured target-pitch score over the regexed "(vuln NN)" when present.
