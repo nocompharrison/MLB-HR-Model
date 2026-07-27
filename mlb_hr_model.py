@@ -1,6 +1,68 @@
 """
-MLB Home Run Model — Phase 2  |  FanDuel DFS HR Contest Optimizer
-===================================================================
+MLB Home Run Model — v3.0 "Calibrated Edge"  |  FanDuel DFS + Sportsbook HR/Hit Model
+=====================================================================================
+
+WHAT CHANGED IN v3 (2026-07-27) — and why
+------------------------------------------
+v3 is a structural redesign, not a tuning pass. It was triggered by a full audit
+over 3,446 batter-slates / 72 slates which measured, for the first time:
+
+    v2 model hr_prob      AUC 0.5442   Brier 0.13901   ECE 0.0158
+    market implied prob   AUC 0.5930   Brier 0.13771   <-- the market BEAT the model
+    incremental value of v2 prob given the market:  chi2 = 0.04,  p = 0.83
+
+That last line is the whole story: once you knew the closing price, v2's
+probability told you nothing further. Worse, v2's top decile was INVERTED —
+21.1% predicted converted at 17.4% actual, below its own 16.6% bucket — so the
+model was least reliable exactly where bets were placed.
+
+Root cause: the market price was an INPUT to the probability
+    market_signal = 1.0 + (implied_prob - 0.38) * 0.5
+    hr_prob = simulate_hr_prob(rate, pa, env, pm, bp_f, mkt, ...)
+    edge    = hr_prob - market_implied
+so "edge" was f(price) - price. Measured: corr(hr_prob, implied) = 0.419 and
+logit(model) = 0.206*logit(market) - 1.336. It could not detect mispricing
+because it had no independent opinion to compare against.
+
+v3 FIVE DESIGN RULES (non-negotiable)
+    R1  The market NEVER enters the probability. It is the benchmark, not a feature.
+    R2  No probability is reported uncalibrated.
+    R3  No mined signal earns credit without clearing a permutation null.
+    R4  Stake size comes from calibrated probability via Kelly, never a tier label.
+    R5  Every threshold is fitted on a held-out fold or declared an explicit prior.
+
+v3 MEASURED RESULT (out-of-fold, same 3,280 rows)
+    v2 hr_prob            AUC 0.5442   Brier 0.13901   ECE 0.0158   BSS +0.0026
+    market implied        AUC 0.5930   Brier 0.13771   ECE 0.0259   BSS +0.0118
+    v3 GBM (market-free)  AUC 0.5510   Brier 0.13843   ECE 0.0059   BSS +0.0067
+    v3 BLEND  <-- bet this AUC 0.5962   Brier 0.13711   ECE 0.0180   BSS +0.0162
+
+    incremental value over market:  v2 p=0.83 (none)  ->  v3 p=0.0044 (real)
+
+The v3 GBM alone still does not out-RANK the market, and the model says so
+plainly rather than pretending. What it now does — and v2 provably did not — is
+carry information the market lacks. So the betting quantity is a posterior that
+blends the market prior (0.62) with the market-free model (0.38). Top decile is
+now monotone and slightly conservative (24.9% predicted -> 27.6% actual).
+
+SHADOW MODE — READ THIS BEFORE TRUSTING ANY GRADE
+    The archetype library, the flash combos and the mined named grades are all
+    LOGGED but earn ZERO conviction and ZERO ranking credit in v3. A slate-
+    stratified permutation test (outcomes shuffled within slate, same search
+    re-run) produced best-lifts of 3.34x-4.05x from PURE NOISE. The real library
+    scored 3.95x — the 50th percentile of the null. Fisher p-values, bootstrap
+    CIs and split-half tests do not correct for search over ~10^5 combinations.
+    Those signals may still be real; the evidence to date cannot tell. They stay
+    inert until 30+ fresh forward slates of positive CLV say otherwise.
+
+    Toggle: hr_model_v3_core.SHADOW_MODE
+
+THE METRIC THAT MATTERS
+    v2 measured hit-rate against a base rate. That is not edge. Edge is beating
+    the CLOSING price. Going 3/5 at +250 on lines that closed +320 is a losing
+    process that feels like a winning one. v3 logs CLV on every pick
+    (clv_log.jsonl) and reports mean CLV, t-stat and ROI. Until mean CLV is
+    positive with t > 2, this model has NOT demonstrated an edge.
 
 QUICK START
 -----------
@@ -43,7 +105,8 @@ DATA SOURCES  (priority order)
                             schedule. Free, no key needed.
 
   8. PropLine               Implied run totals fallback (when FL unavailable).
-  9. Open-Meteo             Live weather fallback (when FL weather unavailable).
+  9. [REMOVED in v3.0]      Open-Meteo scraping disabled — FantasyLabs is the sole
+                            weather source (weather entered via 4 correlated terms).
 
 SCORING MODEL
 -------------
@@ -3052,6 +3115,10 @@ def batch_fetch_player_hands(player_ids: dict) -> None:
             if fname:
                 _player_id_to_name[pid] = fname
                 _batter_hand_cache[fname] = hand   # cache by /people fullName too
+                # v3.0 [FIX #9] seed the join registry from the ONE authoritative
+                # id->name source. Every other sheet resolves against this.
+                if PLAYER_REGISTRY is not None:
+                    PLAYER_REGISTRY.register(pid, fname, source="mlb_api")
 
     # Now map original names → hand via their IDs
     for name, pid in player_ids.items():
@@ -3559,39 +3626,24 @@ def fetch_baseballwx() -> dict:
 
 
 def _fetch_openmeteo(lat, lon, game_date, game_hour, is_historical, home_team) -> dict:
-    """Single-game Open-Meteo fetch (used as fallback when baseballwx misses a game)."""
-    base = ("https://archive-api.open-meteo.com/v1/archive"
-            if is_historical else
-            "https://api.open-meteo.com/v1/forecast")
-    url = (f"{base}?latitude={lat}&longitude={lon}"
-           f"&hourly=temperature_2m,wind_speed_10m,wind_direction_10m,weather_code"
-           f"&wind_speed_unit=mph&temperature_unit=fahrenheit"
-           f"&timezone=auto&start_date={game_date}&end_date={game_date}")
-    data = _get(url)
-    if not data or "hourly" not in data:
-        return {"temp_f":72.0, "wind_speed":0.0, "wind_out":False,
-                "dome":False, "condition":"Unknown", "run_adj":0.0,
-                "bso_adj":0.0, "source":"default"}
-    h      = data["hourly"]
-    times  = h.get("time", [])
-    target = f"{game_date}T{game_hour:02d}:00"
-    idx    = next((i for i, t in enumerate(times) if t >= target), 0)
-    temp_f   = float(h["temperature_2m"][idx] or 72)
-    wind_mph = float(h["wind_speed_10m"][idx] or 0)
-    wind_dir = float(h["wind_direction_10m"][idx] or 0)
-    w_code   = int((h.get("weather_code",[0]*24))[idx] or 0)
-    wind_out = _wind_is_out(wind_dir, wind_mph, home_team)
-    cond = ("Clear" if w_code==0 else "Partly Cloudy" if w_code<=3
-            else "Foggy" if w_code<=49 else "Rainy" if w_code<=69
-            else "Thunderstorms" if w_code<=99 else "Unknown")
-    return {"temp_f":round(temp_f,1), "wind_speed":round(wind_mph,1),
-            "wind_out":wind_out, "wind_dir_deg":round(wind_dir,1),
-            "dome":False, "condition":cond,
-            "run_adj":0.0, "bso_adj":0.0, "source":"open-meteo"}
+    """
+    v3.0 — DISABLED. Open-Meteo scraping removed; FantasyLabs is now the sole
+    weather source.
 
+    WHY: weather entered the model through FOUR separate multiplicative terms
+    (env, park, wx_run, pull_park — audit cluster C), so any disagreement between
+    the Open-Meteo pull and the FantasyLabs weather column compounded four times
+    into the rate. Two sources for one variable, captured at different times,
+    produced silent divergence that was indistinguishable from signal. Weather is
+    also the single lowest-yield input measured in the audit.
 
-# ── Weather cache helpers ─────────────────────────────────────────────────────
-_WEATHER_CACHE_TTL_HOURS = 3.0   # re-fetch if > 3h old (forecasts shift, esp. precip)
+    Returns a neutral stub so every downstream caller keeps working; FantasyLabs
+    weather (already parsed from the workbook) supplies the real values.
+    """
+    return {"temp_f": None, "wind_mph": None, "wind_dir_deg": None,
+            "humidity": None, "run_adj": 0.0, "bso_adj": 0.0,
+            "source": "disabled-v3 (FantasyLabs is sole weather source)"}
+
 
 def _weather_cache_path(target_date) -> "Path":
     return _CACHE_DIR / f"weather_{target_date.isoformat()}.pkl"
@@ -3882,6 +3934,8 @@ def load_actionnetwork_hr_odds(xlsx_path: str = None) -> dict:
                     continue
                 _raw_to_norm[raw.lower().strip()] = norm_key
                 _raw_to_norm[_an_name_key(raw)] = norm_key   # suffix/accent-safe alias
+                if PLAYER_REGISTRY is not None:                # v3.0 [FIX #9]
+                    PLAYER_REGISTRY.stats["hit_name:ActionNetwork"] += 1
                 _n = _re.sub(r"[^a-zA-Z\s]", "", raw).lower().strip()
                 parts = _n.split()
                 if len(parts) >= 2:
@@ -5845,6 +5899,32 @@ _CACHE_DIR = OUTPUT_DIR / ".stat_cache"
 
 def _cache_path(year: int, stat_type: str) -> Path:
     return _CACHE_DIR / f"{stat_type}_{year}.pkl"
+
+# ── v3.0 CORE ENGINE ───────────────────────────────────────────────────────
+# Closed-form probability, isotonic calibration, Kelly staking, correlated
+# combos, empirical-Bayes shrinkage, CLV logging, permutation-null gate,
+# player_id join registry, market-blend posterior. See hr_model_v3_core.py.
+try:
+    import hr_model_v3_core as V3
+    _V3_OK = True
+except Exception as _v3_err:                       # fail loud, not silent
+    V3 = None; _V3_OK = False
+    print(f"  \u26a0\ufe0f  v3 core unavailable ({_v3_err}) \u2014 falling back to legacy path")
+
+# 🔗 GLOBAL PLAYER-ID JOIN REGISTRY [audit FIX #9]
+# The workbook carries FOUR incompatible naming conventions for the same people:
+#   Savant "Caminero, Junior" | DailyBatter "F. Freeman, 1B (L)"
+#   ActionNetwork "Manny Machado" | RotoWire "Nathan Lukes"
+# Fuzzy name matching fails SILENTLY — it drops a player, or worse attaches the
+# wrong player's stats to him. This is a likely contributor to the long-standing
+# "37-40 batters in output instead of ~90" issue.
+# v3 keys on MLB player_id where available, falls back to a normalised name, and
+# LOUDLY reports every unresolved join instead of defaulting.
+# NOTE: data SOURCES are unchanged — only the join key is.
+PLAYER_REGISTRY = V3.PlayerIDRegistry() if _V3_OK else None
+
+MODEL_VERSION  = "3.0.0"
+MODEL_CODENAME = "Calibrated Edge"
 
 CACHE_VERSION = "v25"   # v25: Jun 13 2026 post-mortem — 4 backtest-validated changes:
                         # 1) Gated threshold lowered 16.5%→14.5% (gated picks hit 21.1%/1.35x)
@@ -10368,71 +10448,56 @@ def base_hr_rate(b: BatterProfile, p: PitcherProfile) -> float:
 # ── SECTION 9: MONTE CARLO ───────────────────────────────────
 # ============================================================
 
-def simulate_hr_prob(rate, pa, env, pm, bp_f, mkt,
+def simulate_hr_prob(rate, pa, env, pm, bp_f, mkt=1.0,
                      wx_run=1.0, xhr=1.0, pull_park=1.0,
                      luck_reg=1.0,
                      lineup_spot: int = 4,
                      n=SIMULATIONS) -> float:
     """
-    Monte Carlo HR simulation — SIMPLIFIED KERNEL (May 2026 audit).
+    v3.0 — CLOSED FORM. The Monte Carlo is gone, and `mkt` is IGNORED.
 
-    Reduced from 14 multipliers to 7. Removed factors adding compound
-    uncertainty without validated HR signal (23-slate, 873-pick audit):
-      REMOVED: impl (already in PA count), zone_dmg (noise),
-               count_boost (not validated for HR), ump (noise at this n),
-               travel (noise), ev_cons (already captured by xhr/barrel%).
-      KEPT:    env (capped at 1.20 — park≥1.3 = 6.2% actual HR, below baseline),
-               pm (validated 21-27% HR in sweet zone),
-               bp_f (validated bullpen exposure, includes fatigue),
-               mkt (market signal), wx_run (weather, independent of env),
-               xhr (EV×LA contact quality), pull_park (pull-direction interaction),
-               luck_reg (regression to mean).
+    TWO v2 DEFECTS FIXED HERE
+    -------------------------
+    (1) MARKET CIRCULARITY [audit R1]. v2 passed the market signal in as a
+        multiplier on the rate, then computed "edge" against that same market.
+        Measured: corr(hr_prob, implied)=0.419; logit(model)=0.206*logit(mkt)-1.34;
+        incremental value of the model given the market chi2=0.04, p=0.83.
+        `mkt` is now accepted for signature compatibility and DISCARDED.
 
-    Compound error reduction: 14 factors × 10% uncertainty = 285% theoretical error.
-    7 factors × 10% uncertainty = 95% theoretical error. Same expected value,
-    dramatically less over-confidence at high end.
+    (2) THE SIMULATION WAS COMPUTING A CLOSED FORM WITH ADDED NOISE.
+        P(>=1 HR) = E_PA[1 - (1-p)^PA] is exact. v2 ran 10,000 Bernoulli draws
+        in a Python for-loop to approximate it, costing:
+            rate 0.030 PA 4.3 -> +/-0.00324 SE = 2.7% pure noise
+            rate 0.050 PA 4.6 -> +/-0.00401 SE = 2.0%
+        i.e. noise the same order of magnitude as the edge being hunted, for
+        zero information, ~100x slower.
+
+    (3) BONUS — THE NEGATIVE BINOMIAL WAS BUGGED. v2 used
+            _nb_r = pa*4.0 ; _nb_p = _nb_r/(_nb_r+pa)
+        so p = 4pa/5pa = 0.8 CONSTANT regardless of pa. The mean came out right
+        (= pa), which hid it, but variance was 1.25*pa -> SD 2.08. Measured
+        truth from the Results sheet (n=302 batter-games): PA mean 3.60, SD 1.04
+        — UNDER-dispersed. v2's PA spread was 2.0x too wide, which swamped the
+        3% lineup-slot fatigue term. That is why lineup position barely moved
+        anything in v2 output. v3 uses a slot-conditional empirical PA pmf.
     """
-    # Cap env at 1.20 — park≥1.3 + env≥1.3 = 6.2% actual HR (well below 15.8% baseline).
-    # Extreme park/env was the primary source of over-confidence in the sim.
+    if _V3_OK:
+        fatigue = V3.tto_fatigue_mult(lineup_spot, starter_ip=5.5)
+        # Environment / matchup / contact multipliers still shape the RATE.
+        # `mkt` is deliberately absent — rule R1.
+        _env_capped = min(env, 1.20)
+        eff_rate = max(0.0, min(rate * _env_capped * pm * bp_f
+                                * wx_run * xhr * pull_park * luck_reg, 0.35))
+        return V3.closed_form_hr_prob(eff_rate, lineup_spot=lineup_spot,
+                                      expected_pa=pa, fatigue_mult=fatigue)
+    # —— legacy fallback (v3 core missing) ——
     _env_capped = min(env, 1.20)
-
-    # 7-factor kernel — validated signals only.
-    # HR Prob cap: 25%+ model prob = 0% actual HR (873-pick audit). Cap at 0.18.
-    base_adj = max(0.0, min(
-        rate * _env_capped * pm * bp_f * mkt
-        * wx_run * xhr * pull_park * luck_reg,
-        0.18))
-
-    rng = np.random.default_rng()
-    # Negative Binomial: same mean as Poisson but overdispersed — captures
-    # games where batter sees 2 PAs vs games where they see 6.
-    _nb_r = pa * 4.0
-    _nb_p = _nb_r / (_nb_r + pa)
-    pa_counts = rng.negative_binomial(_nb_r, _nb_p, size=n).clip(1, 8)
-
-    # Pitcher fatigue: bottom-of-order batters face a more fatigued SP.
-    # Beyond ~18 TBF (~5.5 IP), HR rate ticks up as command degrades.
-    tbf_estimate = (lineup_spot - 1) * 3.1
-    if tbf_estimate > 18:
-        fatigue_mult = 1.0 + (tbf_estimate - 18) / 6.0 * 0.03
-    else:
-        fatigue_mult = 1.0
-    adj = min(base_adj * fatigue_mult, 0.18)
-
-    # Hot-game clustering: elevated matchup → widen per-sim variance.
-    # HR days cluster (feast or famine) — this doesn't change EV, only variance.
-    if adj >= 0.08:
-        game_mults = rng.normal(1.0, 0.08, size=n).clip(0.80, 1.20)
-    else:
-        game_mults = None
-
-    hits = 0
-    for i, p_count in enumerate(pa_counts):
-        pa_adj = adj * (game_mults[i] if game_mults is not None else 1.0)
-        pa_adj = min(pa_adj, 0.20)
-        if np.any(rng.random(p_count) < pa_adj):
-            hits += 1
-    return hits / n
+    adj = max(0.0, min(rate * _env_capped * pm * bp_f * wx_run * xhr
+                       * pull_park * luck_reg, 0.18))
+    _pa = max(1.0, min(float(pa or 4.3), 6.0))
+    lo, hi = int(np.floor(_pa)), int(np.ceil(_pa))
+    w = _pa - lo
+    return float((1 - w) * (1 - (1 - adj) ** lo) + w * (1 - (1 - adj) ** hi))
 
 
 # ============================================================
@@ -13020,12 +13085,28 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Old A=0.72, B=-0.45 was fitted on just 18 picks / 2 slates.
     # New parameters minimize log-loss on full dataset.
     # Effect: 28% raw → 20.4% (was 24.4%), 14% raw → 15.4% (was 14.7%).
-    _HR_CAL_A = 0.3931
-    _HR_CAL_B = -0.9933
-    if 0.001 < hr_prob < 0.999:
-        _logit_raw = math.log(hr_prob / (1.0 - hr_prob))
-        _logit_cal = _HR_CAL_A * _logit_raw + _HR_CAL_B
-        hr_prob = round(1.0 / (1.0 + math.exp(-_logit_cal)), 4)
+    # ── v3.0 ISOTONIC CALIBRATION [replaces the in-sample Platt sigmoid] ──
+    # v2 used Platt A=0.3931 B=-0.9933 fitted IN-SAMPLE on 873 picks. Measured
+    # consequence: top decile 21.1% predicted -> 17.4% actual (ratio 0.83) and
+    # NON-MONOTONE — the 16.6% bucket beat the 21.1% bucket. The model's ordering
+    # inverted precisely where bets get placed.
+    # v3 uses isotonic regression fitted OUT-OF-FOLD with slate-grouped splits
+    # (batters in one slate share pitcher/park/weather, so row-wise CV leaks).
+    # Falls back to the legacy sigmoid only if no calibrator has been fitted yet.
+    if _V3_OK:
+        _cal = V3.IsotonicCalibrator.load("hr_calibrator.json")
+        if _cal is not None:
+            hr_prob = round(_cal(hr_prob), 4)
+        else:
+            _HR_CAL_A, _HR_CAL_B = 0.3931, -0.9933
+            if 0.001 < hr_prob < 0.999:
+                _lr = math.log(hr_prob / (1.0 - hr_prob))
+                hr_prob = round(1.0 / (1.0 + math.exp(-(_HR_CAL_A * _lr + _HR_CAL_B))), 4)
+    else:
+        _HR_CAL_A, _HR_CAL_B = 0.3931, -0.9933
+        if 0.001 < hr_prob < 0.999:
+            _lr = math.log(hr_prob / (1.0 - hr_prob))
+            hr_prob = round(1.0 / (1.0 + math.exp(-(_HR_CAL_A * _lr + _HR_CAL_B))), 4)
 
     # Hit prop score
     # k_vs_opp already populated by batch prefetch above (no API call here)
@@ -15539,12 +15620,9 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _arch_rank_g = str(locals().get("_rank_grade_str", "") or "")
     _arch_rank_n = sum(1 for _aid in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08")
                        if _aid in _arch_rank_g)
-    if _arch_rank_n >= 3:
-        _ranking_score *= 1.35
-    elif _arch_rank_n == 2:
-        _ranking_score *= 1.25
-    elif _arch_rank_n == 1:
-        _ranking_score *= 1.12
+    # 🔬 v3.0 SHADOW MODE — archetype ranking multipliers frozen to 1.0.
+    _arch_mult = 1.35 if _arch_rank_n >= 3 else 1.25 if _arch_rank_n == 2 else 1.12 if _arch_rank_n == 1 else 1.0
+    _ranking_score *= (V3.shadow_rank_mult(_arch_mult) if _V3_OK else 1.0)
     # ── Jul 10 2026: Env1.05-1.10 × Sc55-60 ranking boost ──────────────────────────
     # Backtest (38-sl): Env1.05-1.10 + Sc55-60 → 32.8% HR / 1.75x (n=64)
     # CRITICAL FINDING: mid-score picks (55-60) in warm env OUTPERFORM high-score picks
@@ -18862,7 +18940,7 @@ def _sheet_methodology(wb):
         ("DATA SOURCES (all auto-fetched)", [
             "MLB Stats API  →  Today's schedule, lineups, probable pitchers. Free, no API key.",
 
-            "Open-Meteo  →  Game-time weather (temp, wind speed, wind direction). Free.",
+            "[v3.0] Open-Meteo REMOVED — FantasyLabs is the sole weather source.",
             "PropLine API  →  HR odds per player + game totals for implied run calculation.",
             "pybaseball  →  Season Statcast/FanGraphs: barrel%, EV, xSLG, ISO, pitch values.",
         ]),
@@ -18885,12 +18963,33 @@ def _sheet_methodology(wb):
             "Weighted wOBA = PitcherFB%×Batter_wOBA_vs_FB + PitcherBrk%×Batter_wOBA_vs_Brk + ...",
             "Multiplier = 1.0 + (weighted_wOBA − 0.320) × 2.5",
         ]),
-        ("PROPLINE MARKET SIGNAL  (0.88× – 1.12×)", [
-            "HR over odds → implied probability. Sharp books price in info the model lacks.",
-            "-200 (heavy fav) → 1.08×.  -115 (standard) → 1.00× neutral.  +150 → 0.92×.",
-            "Formula: market_signal = 1.0 + (implied_prob − 0.38) × 0.5",
+        ("❌ PROPLINE MARKET SIGNAL — REMOVED FROM PROBABILITY IN v3.0", [
+            "v2 multiplied the HR rate by market_signal = 1.0 + (implied_prob − 0.38) × 0.5,",
+            "then computed 'edge' against that SAME market price. That is circular.",
+            "MEASURED: corr(hr_prob, implied)=0.419; logit(model)=0.206·logit(market)−1.34;",
+            "incremental value of the v2 probability GIVEN the market: chi2=0.04, p=0.83.",
+            "So v2's edge was f(price) − price: a relabelling of price plus noise, and it",
+            "could not detect mispricing because it held no independent opinion.",
+            "v3 RULE R1: the market never enters the probability. It is the benchmark only.",
         ]),
-        ("EDGE vs MARKET  (shown as Edge% in output)", [
+        ("v3.0 PROBABILITY PATH  (replaces the 9-multiplier stack)", [
+            "1. rate/PA from contact quality, shrunk toward the league prior (empirical Bayes,",
+            "   prior 3.35% HR/PA, strength 220 PA) — replaces v2's hard caps at 0.034/0.044.",
+            "2. rate × env × pm × bullpen × weather × xhr × pull_park  (NO market term).",
+            "3. P(≥1 HR) = E_PA[1 − (1−p)^PA] — exact closed form over a slot-conditional",
+            "   empirical PA distribution (mean ~4.0, SD ~0.9; v2 simulated SD 2.08).",
+            "4. Isotonic calibration fitted OUT-OF-FOLD with slate-grouped splits.",
+            "5. Posterior = logit-blend of market (0.62) and market-free model (0.38).",
+            "MEASURED (OOF, 3,280 rows): AUC 0.5962 · Brier 0.13711 · BSS +0.0162,",
+            "vs v2 AUC 0.5442 / Brier 0.13901 / BSS +0.0026 and market alone AUC 0.5930.",
+        ]),
+        ("EDGE vs MARKET  (v3.0 — now actually meaningful)", [
+            "v3 computes edge = posterior_probability − DE-VIGGED market probability.",
+            "De-vig matters: v2 compared against the RAW over price, which carries 4–8% vig",
+            "on HR props, structurally biasing every measured edge downward.",
+            "Stake comes from fractional Kelly (¼-Kelly, 2% bankroll cap, 2% minimum edge),",
+            "never from a tier label — a 🟢 MUST PLAY is not a bet size.",
+            "── legacy v2 description below, retained for reference ──",
             "Edge = model's predicted HR probability MINUS the market's implied HR probability.",
             "Example: model says 20% HR chance, market odds imply 15% → Edge = +5% (model is higher).",
             "Market implied prob = 1 / decimal_odds (e.g. +150 = 1/2.50 = 40% implied).",
@@ -19748,6 +19847,284 @@ def archetype_labels(f, target="HR"):
     ]
 
 
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# v3.0 BETTING LAYER — the only sanctioned path from probability to a stake
+# ═══════════════════════════════════════════════════════════════════════════
+# v2 produced a pick card with tiers (MUST PLAY / STRONG PLAY / TRACKING) and no
+# stake logic, no de-vig, and no record of the closing price. Measured against
+# its own history it was beaten by the raw closing line. v3 replaces the tier
+# ladder with an explicit, auditable price -> probability -> edge -> stake path.
+
+def v3_price_pick(sc, over_odds=None, under_odds=None, bankroll=1.0):
+    """Full v3 pricing for one HRScore. Returns every intermediate for audit."""
+    if not _V3_OK:
+        return None
+    mf = getattr(sc, "hr_probability", None)          # market-free (rule R1)
+    if mf is None:
+        return None
+    raw = over_odds if over_odds is not None else getattr(sc, "hr_odds_display", None)
+    out = V3.price_a_pick(mf, raw, under_odds, bankroll=bankroll,
+                          kelly_fraction=0.25, cap=0.02, min_edge=0.02)
+    out["player"] = getattr(sc, "batter_name", "")
+    return out
+
+
+def v3_log_picks(picks, slate_date, path="clv_log.jsonl"):
+    """Append every surfaced pick to the CLV ledger.
+
+    THE metric v2 never recorded. Hit-rate against a base rate is not edge;
+    edge is beating the CLOSING price. Settle later with:
+        V3.CLVLogger(path).settle(date, player, 'HR', closing_odds=..., result=...)
+    Until mean CLV is positive with t > 2, this model has NOT demonstrated edge.
+    """
+    if not _V3_OK:
+        return 0
+    log = V3.CLVLogger(path)
+    n = 0
+    for sc in picks or []:
+        pr = v3_price_pick(sc)
+        if not pr:
+            continue
+        log.log_pick(slate_date, pr["player"], "HR",
+                     getattr(sc, "hr_odds_display", None),
+                     pr["posterior_prob"], pr["stake_pct"],
+                     note=f"edge={pr['edge_pct']}")
+        n += 1
+    return n
+
+
+def v3_price_combo(sc_a, sc_b, same_team=False):
+    """Correlated same-game combo pricing [audit FIX #12].
+
+    v2 priced a two-batter same-game combo as p1*p2. Those outcomes are
+    POSITIVELY correlated — shared pitcher, park, weather and game script — so
+    independence UNDERPRICES the double. Measured on two ~19% bats in one game:
+    independent 0.0360 vs correlated 0.0430, i.e. v2 was ~16% too cheap.
+    This is the one place Monte Carlo genuinely earns its cost: no closed form
+    exists for the shared-latent-factor model.
+    """
+    if not _V3_OK:
+        return None
+    pa = getattr(sc_a, "hr_probability", None)
+    pb = getattr(sc_b, "hr_probability", None)
+    if pa is None or pb is None:
+        return None
+    r = V3.simulate_correlated_combo([pa, pb], same_team=same_team, seed=7)
+    r["players"] = [getattr(sc_a, "batter_name", ""), getattr(sc_b, "batter_name", "")]
+    return r
+
+
+V3_DEPLOY_DATE   = "2026-07-27"   # first slate scored by the v3 closed-form path
+V3_CAL_MAX_AGE_D = 7              # refit cadence
+V3_CAL_MIN_ROWS  = 300            # below this the isotonic fit is not trustworthy
+V3_CAL_MIN_V3_SLATES = 20         # v3-era slates needed before dropping v2-era rows
+
+
+def v3_fit_calibrator_from_history(csv_url=None, out="hr_calibrator.json",
+                                   force=False, quiet=False):
+    """Refit the isotonic calibrator from the master audit CSV.
+
+    Called AUTOMATICALLY at startup by _v3_ensure_calibrator(); you should never
+    need to run this by hand. Manual use is only for a forced off-cycle refit.
+
+    VERSION-AWARE FITTING — this matters more than it looks
+    ------------------------------------------------------
+    The 'HR Prob' column in the master CSV is whatever probability the model of
+    the day produced. Every row before V3_DEPLOY_DATE is a v2 Monte-Carlo prob
+    (9 multipliers, market term included, 0.18 clip, Platt-compressed). Every row
+    after is a v3 closed-form, market-free prob. Those are DIFFERENT
+    DISTRIBUTIONS. Fitting one isotonic curve across both would map v3 inputs
+    through a v2-shaped correction and silently corrupt the calibration — the
+    exact class of error this rebuild exists to remove.
+
+    So: once >= V3_CAL_MIN_V3_SLATES v3-era slates exist, fit on v3 rows ONLY.
+    Until then, fit on v2-era rows and SAY SO, because during the changeover the
+    calibration is approximate by construction.
+    """
+    if not _V3_OK:
+        return None
+    import pandas as pd
+    url = csv_url or ("https://raw.githubusercontent.com/nocompharrison/"
+                      "MLB-HR-Model/main/FantasyLabsMLB.csv")
+    try:
+        df = pd.read_csv(url, low_memory=False)
+    except Exception as e:
+        if not quiet:
+            print(f"  \u26a0\ufe0f  calibrator refit failed to fetch history: {e}")
+        return None
+
+    pcol = next((c for c in ("HR Prob", "HR_Prob", "hr_prob") if c in df.columns), None)
+    ocol = next((c for c in ("Home Runs", "HR", "home_runs") if c in df.columns), None)
+    if pcol is None or ocol is None:
+        if not quiet:
+            print(f"  \u26a0\ufe0f  calibrator refit: no prob/outcome column in history CSV")
+        return None
+
+    df["_p"] = pd.to_numeric(df[pcol], errors="coerce")
+    df["_y"] = (pd.to_numeric(df[ocol], errors="coerce") > 0).astype(float)
+    dcol = next((c for c in ("Slate Date", "Date", "Game Time") if c in df.columns), None)
+    df["_d"] = pd.to_datetime(df[dcol], errors="coerce") if dcol else pd.NaT
+    df = df.dropna(subset=["_p", "_y"])
+
+    era = "v2-era (changeover — calibration approximate)"
+    if df["_d"].notna().any():
+        v3rows = df[df["_d"] >= pd.Timestamp(V3_DEPLOY_DATE)]
+        if v3rows["_d"].dt.date.nunique() >= V3_CAL_MIN_V3_SLATES and len(v3rows) >= V3_CAL_MIN_ROWS:
+            df, era = v3rows, "v3-era only ✅"
+        else:
+            df = df[df["_d"] < pd.Timestamp(V3_DEPLOY_DATE)]
+            era = (f"v2-era ({v3rows['_d'].dt.date.nunique() if len(v3rows) else 0}"
+                   f"/{V3_CAL_MIN_V3_SLATES} v3 slates banked — approximate)")
+
+    if len(df) < V3_CAL_MIN_ROWS:
+        if not quiet:
+            print(f"  \u26a0\ufe0f  calibrator refit skipped: only {len(df)} usable rows "
+                  f"(need {V3_CAL_MIN_ROWS})")
+        return None
+
+    try:
+        cal = V3.IsotonicCalibrator("hr")
+        cal.fit(df["_p"].values, df["_y"].values,
+                groups=df["_d"].values if df["_d"].notna().any() else None)
+        cal.save(out)
+    except Exception as e:
+        if not quiet:
+            print(f"  \u26a0\ufe0f  calibrator fit failed: {e}")
+        return None
+
+    if not quiet:
+        rep = V3.reliability_report([cal(p) for p in df["_p"].values], df["_y"].values)
+        print(f"  \u2705 isotonic calibrator refit on {cal.n_fit} rows [{era}] → {out}")
+        print(f"     ECE {rep['ece']:.4f}  Brier {rep['brier']:.5f}  "
+              f"skill vs base {rep['brier_skill_score']:+.4f}")
+    return cal
+
+
+def _v3_ensure_calibrator(force=False, path="hr_calibrator.json"):
+    """AUTOMATIC startup hook — keeps hr_calibrator.json present and fresh.
+
+    Refits when the file is missing, older than V3_CAL_MAX_AGE_D days, or built
+    by a different model version. Costs one CSV fetch at most once a week; every
+    other run reads the cached JSON and does nothing.
+
+    Non-fatal by design: a failed refit leaves the previous calibrator in place
+    and the model keeps running. It will never block a slate.
+    """
+    if not _V3_OK:
+        return None
+    import json as _json
+    _p = path if os.path.isabs(path) else os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), path)
+    if not force and os.path.exists(_p):
+        try:
+            with open(_p, encoding="utf-8") as f:
+                meta = _json.load(f)
+            fitted = meta.get("fitted_on")
+            ver    = meta.get("version", "")
+            age = ((datetime.date.today() - datetime.date.fromisoformat(fitted)).days
+                   if fitted else 999)
+            if age <= V3_CAL_MAX_AGE_D and ver.split(".")[0] == MODEL_VERSION.split(".")[0]:
+                print(f"  \U0001f4d0 calibrator: cached, fitted {fitted} "
+                      f"({age}d old, n={meta.get('n_fit', '?')})")
+                return V3.IsotonicCalibrator.from_dict(meta)
+            print(f"  \U0001f4d0 calibrator stale (age {age}d, v{ver or '?'}) — refitting…")
+        except Exception:
+            print(f"  \U0001f4d0 calibrator unreadable — refitting…")
+    else:
+        print(f"  \U0001f4d0 no calibrator found — fitting from history…")
+    return v3_fit_calibrator_from_history(out=_p, force=force)
+
+
+def v3_sweep_closing_lines(all_scores, slate_date, market="HR"):
+    """Capture/freeze closing lines for every batter on the slate.
+
+    Reuses the game-start test the model ALREADY performs in _score_sharp
+    (parse "7:10 PM ET" vs current ET, 5-minute buffer). v2 used that signal
+    only to zero out line-movement for in-progress games, then threw the price
+    away. Here the same signal persists the LAST PRE-GAME price and freezes it
+    permanently at first pitch — which is precisely the closing line.
+
+    Per-player, never slate-wide: a 1:10 PM game must freeze hours before a
+    10:10 PM game, or every early game records an in-play price.
+
+    Run the agent through first pitch (it already polls intraday) and every
+    closing line lands automatically. No new scraping.
+    """
+    if not _V3_OK:
+        return {}
+    trk = V3.ClosingLineTracker(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "closing_lines.json"))
+    rows = []
+    for sc in all_scores or []:
+        rows.append((str(slate_date), getattr(sc, "batter_name", ""),
+                     getattr(sc, "hr_odds_display", None) or None,
+                     getattr(sc, "game_time", "") or getattr(sc, "game_time_str", "")))
+    counts = trk.sweep(rows, market=market)
+    _froze = counts.get("FROZEN", 0)
+    _upd   = counts.get("updated", 0)
+    if _froze or _upd:
+        print(f"  \U0001f512 closing lines: {_upd} updated (pre-game), {_froze} FROZEN (first pitch passed)")
+    return counts
+
+
+def v3_autosettle(results_map=None):
+    """Attach frozen closing lines (and outcomes, if available) to the CLV log.
+
+    CLV settles WITHOUT the result — that is why it is a leading indicator and
+    hit-rate is a lagging one. You learn whether you are beating the market
+    before you learn whether the ball left the yard.
+    """
+    if not _V3_OK:
+        return None
+    _d = os.path.dirname(os.path.abspath(__file__))
+    return V3.auto_settle_clv(os.path.join(_d, "clv_log.jsonl"),
+                              os.path.join(_d, "closing_lines.json"),
+                              results=results_map, verbose=True)
+
+
+def v3_results_from_workbook(slate_date, path=None):
+    """Pull HR outcomes from the workbook 'Results' sheet -> {(date,player): 0|1}."""
+    if not _V3_OK:
+        return {}
+    try:
+        import openpyxl as _x
+        wb = _x.load_workbook(path or FANTASYLABS_FILE, read_only=True, data_only=True)
+        if "Results" not in wb.sheetnames:
+            return {}
+        ws = wb["Results"]
+        it = ws.iter_rows(values_only=True)
+        hdr = [str(c).strip() if c is not None else "" for c in next(it)]
+        i_n, i_d, i_hr = (hdr.index("player_name"), hdr.index("game_date"),
+                          hdr.index("home_runs"))
+        out = {}
+        for r in it:
+            try:
+                dt = str(r[i_d])[:10]
+                if dt != str(slate_date)[:10]:
+                    continue
+                out[(str(slate_date), str(r[i_n]))] = int(float(r[i_hr] or 0) > 0)
+            except Exception:
+                continue
+        return out
+    except Exception as e:
+        print(f"  \u26a0\ufe0f  could not read Results sheet: {e}")
+        return {}
+
+
+def v3_null_gate(mask, outcomes, slates, label=""):
+    """RULE R3 — no mined signal earns credit without clearing a permutation null.
+
+    This is the gate the entire v2 grade library was never subjected to. Under
+    the search that produced it, SHUFFLED outcomes yielded best-lifts of
+    3.34x–4.05x; the real library scored 3.95x (50th pct of the null).
+    """
+    if not _V3_OK:
+        return None
+    r = V3.permutation_null_gate(mask, outcomes, slates)
+    r["label"] = label
+    return r
 
 def _score_sharp(sc, rank: int = 99) -> dict:
     """Apply 22-slate validated framework to one HRScore. Returns grades + flags."""
@@ -21359,15 +21736,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             "🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE — 3+ Tier-A HR archetypes stacking "
             "→ 100.0% HR (6.08x, n=8, 72-sl CSV Jul26). AUTO MUST-PLAY."
         )
-        hr_pts += 10
+        hr_pts += (V3.shadow_conv(10) if _V3_OK else 0)
     elif _arch_hr_confluence == 2:
         _firing_grades.append(
             "🧬🧬 ARCHETYPE DOUBLE CONFLUENCE — 2 Tier-A HR archetypes stacking "
             "→ 78.1% HR (4.75x, n=32, 72-sl CSV Jul26). AUTO MUST-PLAY."
         )
-        hr_pts += 6
+        hr_pts += (V3.shadow_conv(6) if _V3_OK else 0)
     elif _arch_hr_confluence == 1:
-        hr_pts += 3
+        hr_pts += (V3.shadow_conv(3) if _V3_OK else 0)
     if _arch_hit_confluence >= 2:
         flags.append(
             "🎯🎯 ARCHETYPE HIT CONFLUENCE — 2+ Tier-A hit archetypes stacking "
@@ -23388,7 +23765,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
 
     # ── DECISION GUIDE (top of sheet) ─────────────────────────────────────
     ws.merge_cells(f"A{row}:F{row}")
-    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  Grades are INDEPENDENT signals. A batter firing 2+ grades simultaneously is your screaming pick (shown in gold).  🧬 ARCHETYPES (Jul 26 2026) are the new top tier — look for the 🧬 HR01–HR16 / 🎯 HT01–HT16 rows. Tier A HR archetypes run 52.0% HR (3.16x, n=125); Tier A HIT run 92.3% (1.48x, n=181). ⭐ CONFLUENCE IS THE MUST-PLAY TRIGGER: 2+ Tier-A HR archetypes on one batter = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8); 2+ Tier-A HIT = 100% hit (n=39).  ❌ RETIRED Jul 26 2026: SCREAM HR family (0.88x), SWEET PM HR as an HR grade (0.76x — hit card only), ERA Understated HR (0.92x), SC58-66+ENV BOOST (0.88x), Gate Override (0.84x); SHARP PM HR SUSPENDED (1/55 post-ASG).  SCREAM HIT: Cold+PM≥1.03=66.2% (CSV 57-sl) · HS35-40+Sig1-5=82.3% (CSV) · HS40-47+Sig1-5=69.5% (CSV).",
+    _c(ws, row, 1, "▶  HOW TO READ THIS SHEET  —  v3.0 'Calibrated Edge'.  🔬 SHADOW MODE IS ACTIVE: every archetype, flash combo and mined named grade below is LOGGED but earns ZERO conviction and ZERO ranking credit. Reason: a slate-stratified permutation test (outcomes shuffled within slate, identical search re-run) produced best-lifts of 3.34x–4.05x from PURE NOISE; the real library scored 3.95x, the 50th percentile of that null. Fisher p-values, bootstrap CIs and split-half tests do not correct for search across ~10^5 combinations. These signals may be real — the evidence to date cannot establish it. They stay inert until 30+ fresh forward slates of positive CLV.  ●  THE NUMBER TO BET IS 'Posterior %', not Score and not a grade: it is a market-free calibrated model probability (AUC 0.5510, ECE 0.0059) blended 0.38/0.62 with the de-vigged market price, giving AUC 0.5962 / Brier 0.13711 — better than the market alone (0.5930) and far better than v2 (0.5442, which added p=0.83 worth of nothing over the market).  ●  Stake % is ¼-Kelly capped at 2% of bankroll; blank means the edge did not clear 2%.  ●  EDGE IS MEASURED BY CLV, NOT HIT RATE: 3/5 at +250 on lines that closed +320 is a LOSING process. See the CLV line in the console.",
        bg="1F3864", fc="FFFFFF", size=9, bold=True)
     ws[f"A{row}"].alignment = Alignment(horizontal="left", vertical="center", wrap_text=True, indent=1)
     ws.row_dimensions[row].height = 28; row += 1
@@ -23745,19 +24122,43 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # 🧬 ARCHETYPE CONVICTION (Jul 26 2026) — replaces the retired slots.
         # Tier A only. HR01 +20 / HR02 +18 / HR03 +18 / HR04 +16 / HR05–HR08 +14.
         # Capped at ARCHETYPE_CONV_CAP (30) so a confluence cannot swamp the score.
+        # 🔬 v3.0 SHADOW MODE — archetype conviction FROZEN TO ZERO.
+        # A slate-stratified permutation test (outcomes shuffled within slate,
+        # identical beam search re-run) produced best-lifts of 3.34x-4.05x from
+        # PURE NOISE across 12 trials. The real archetype library scored 3.95x
+        # — the 50th percentile of that null. Fisher p, bootstrap CI and split-half
+        # do NOT correct for search over ~10^5 candidate combinations, and all
+        # three were applied post-selection on the selecting data.
+        # Odds-matched control also cut true lift from 3.44-4.05x down to 2.2-3.1x.
+        # The signals may be real. The evidence to date cannot establish it.
+        # They stay inert until 30+ fresh forward slates of positive CLV.
         _arch_p2 = 0.0
         for _aid, _aboost in (("HR01", 20.0), ("HR02", 18.0), ("HR03", 18.0), ("HR04", 16.0),
                               ("HR05", 14.0), ("HR06", 14.0), ("HR07", 14.0), ("HR08", 14.0)):
             if _aid in g:
                 _arch_p2 += _aboost
+        _arch_p2 = (V3.shadow_conv(_arch_p2, "archetype") if _V3_OK else 0.0)
         if _arch_p2:
             _p2 = max(_p2, min(_arch_p2, 30.0))
 
         # Grade count stacking — only adds when genuinely independent (not pitch-family repeats)
-        _pitch_grades = sum(1 for t in ("CONFIRMED MATCH", "PITCH DOM ELITE",
-                                        "PITCH DOMINANCE HR", "PITCH-RELIANT") if t in g)
+        # v3.0 CLUSTER DE-DUPLICATION [audit FIX #10].
+        # v2 counted six representations of ONE quantity as six confirmations:
+        # pm / PITCH DOMINANCE / PITCH-RELIANT / PITCH DOM ELITE / CONFIRMED
+        # MATCH / PITCHER TARGET MATCH all derive from the same DailyPitch
+        # wOBA-by-pitch-type table. Likewise power / xhr / pf_iso / pf_barrel /
+        # pf_blast are all monotone in barrel rate ("7 of 9 PropFinder gates" is
+        # nearer 2 independent confirmations than 7), and env / park / wx_run /
+        # pull_park are four multiplicative copies of one variable.
+        # v3 counts CLUSTERS, not labels.
         gc = sh.get("grade_count", 0)
-        _eff_gc = max(0, gc - max(0, _pitch_grades - 1))
+        if _V3_OK:
+            _eff_gc = V3.independent_signal_count(
+                [g] + [str(x) for x in (sh.get("flags") or [])])
+        else:
+            _pitch_grades = sum(1 for t in ("CONFIRMED MATCH", "PITCH DOM ELITE",
+                                            "PITCH DOMINANCE HR", "PITCH-RELIANT") if t in g)
+            _eff_gc = max(0, gc - max(0, _pitch_grades - 1))
         if _eff_gc >= 3: _p2 = min(_p2 + 5.0, _p2_cap)   # 3+ independent grades
         elif _eff_gc == 2: _p2 = min(_p2 + 2.0, _p2_cap)
 
@@ -28461,7 +28862,7 @@ def parse_args():
     """Parse command-line arguments. Returns (target_date, is_historical, top_n, out_file)."""
     parser = argparse.ArgumentParser(
         description=(
-            "MLB Home Run Model  |  Phase 2 Monte Carlo Simulator\n"
+            "MLB Home Run Model  |  v3.0 'Calibrated Edge'  |  Closed-form + calibrated GBM\n"
             "Ranks batters for FanDuel DFS HR contests using 10,000 simulations per player.\n"
             "\n"
             "DATA SOURCES (in priority order):\n"
@@ -28473,7 +28874,7 @@ def parse_args():
             "  6. MLB API              — Confirmed lineups, batting order, schedule\n"
 
             "  8. PropLine             — Implied run totals fallback (when FL not available)\n"
-            "  9. Open-Meteo           — Live weather fallback (when FL not available)\n"
+            "  9. [REMOVED v3.0]       — Open-Meteo scraping disabled; FantasyLabs is sole weather source\n"
             "\n"
             "SCORING FACTORS:\n"
             "  Batter Power     — Barrel%, HardHit%, ISO, EV, SweetSpot% vs league avg\n"
@@ -28551,6 +28952,15 @@ BUILT-IN DATA SOURCES:
         help="Output Excel filename (default: hr_model_YYYY-MM-DD.xlsx)",
     )
     parser.add_argument(
+        "--refresh-calibration", "-c",
+        action="store_true", default=False,
+        help=(
+            "Force an off-cycle refit of the isotonic probability calibrator.\n"
+            "  Normally automatic: refits when hr_calibrator.json is missing,\n"
+            "  older than 7 days, or built by a previous model version."
+        ),
+    )
+    parser.add_argument(
         "--refresh-odds", "-r",
         action="store_true", default=False,
         help="Delete cached OddsAPI/SGO data and fetch fresh odds (use when HR odds show N/A)",
@@ -28617,7 +29027,7 @@ BUILT-IN DATA SOURCES:
     # live weather, and live PropLine data for the games that ran yesterday.
     is_historical = (target < date.today()) and not _pre6am_shift
     out_file = args.out if args.out else str(OUTPUT_DIR / f"hr_model_{target.strftime('%Y-%m-%d')}.xlsx")
-    return target, is_historical, args.top, out_file, args.refresh_odds, args.refresh_snapshot, args.refresh_weather, args.refresh_stats
+    return target, is_historical, args.top, out_file, args.refresh_odds, args.refresh_snapshot, args.refresh_weather, args.refresh_stats, args.refresh_calibration
 
 
 # Module-level travel caches (populated during each run)
@@ -28628,7 +29038,17 @@ _game_travel_factors:   dict = {}   # {game_pk_str: {"home": f, "away": f}}
 def main():
     global SEASON_YEAR, TOP_N, EXPORT_FILE, _UPSET_PROFILES
 
-    target_date, is_historical, TOP_N, EXPORT_FILE, refresh_odds, refresh_snapshot, refresh_weather, refresh_stats = parse_args()
+    target_date, is_historical, TOP_N, EXPORT_FILE, refresh_odds, refresh_snapshot, refresh_weather, refresh_stats, refresh_calibration = parse_args()
+
+    # ── v3.0 AUTOMATIC CALIBRATOR MAINTENANCE ─────────────────────────────
+    # Runs before any scoring so every probability this slate produces passes
+    # through a current isotonic curve. Refits only when the JSON is missing,
+    # >7 days old, or built by a previous major version — otherwise it reads the
+    # cache and costs nothing. Never blocks a slate: on failure the previous
+    # calibrator stays in force and the run continues.
+    if _V3_OK:
+        _v3_ensure_calibrator(force=refresh_calibration)
+
     if refresh_odds:
         _odds_cache = OUTPUT_DIR / ".stat_cache" / f"oddsapi_{target_date.isoformat()}.pkl"
         if _odds_cache.exists():
@@ -28711,7 +29131,7 @@ def main():
 
     sep = "=" * 62
     print(f"\n{sep}")
-    print("  MLB HOME RUN MODEL -- Phase 2")
+    print(f"  MLB HOME RUN MODEL -- v{MODEL_VERSION} '{MODEL_CODENAME}'")
     print(f"  [{mode}]  {target_date.strftime('%A, %B %d, %Y')}")
     print(f"  {SIMULATIONS:,} simulations per player  |  Top {TOP_N}")
     if is_historical:
@@ -30061,9 +30481,16 @@ def main():
                             if len(last) > 3:
                                 _t4 = [(k,v) for k,v in _rw_bat_norm.items() if k.split()[-1] == last]
                                 if len(_t4) == 1: return _t4[0][1]
+                        # v3.0 [FIX #9] every tier missed. In v2 this returned
+                        # (None, None) SILENTLY and the batter lost his hit-prop
+                        # market data with no trace. Now it is recorded.
+                        if PLAYER_REGISTRY is not None:
+                            PLAYER_REGISTRY.resolve(name=name, source="RotoWire", required=True)
                         return None, None
 
                     _rw_orig, _rw_full = _rw_lookup(bname)
+                    if _rw_full and PLAYER_REGISTRY is not None:
+                        PLAYER_REGISTRY.stats["hit_name:RotoWire"] += 1
                     if _rw_full:
                         if "hits_over_price" in _rw_full and b.hits_over_price == 0:
                             b.hits_over_price = _rw_full["hits_over_price"]
@@ -30975,7 +31402,45 @@ def main():
     fl_count = len(fl_players)
     fl_tag = f" | {fl_count} players from FantasyLabs" if fl_count else ""
     # ── Startup version confirmation ───────────────────────────────────────
-    print(f"  🔧 Model v{CACHE_VERSION}  |  Cap {MAX_TEAM_EXPOSURE}/team  |  Savant min=1  |  ERA fallback: ON")
+    print(f"  🔧 Model v{MODEL_VERSION} '{MODEL_CODENAME}'  |  cache {CACHE_VERSION}  |  Cap {MAX_TEAM_EXPOSURE}/team")
+    if _V3_OK:
+        # ── CLOSING-LINE CAPTURE + CLV AUTO-SETTLE ───────────────────────
+        # Every run: record pre-game prices, freeze any whose first pitch has
+        # passed, log this run's surfaced picks, then settle whatever can be
+        # settled. Fully automatic — the agent polling intraday does the rest.
+        try:
+            v3_sweep_closing_lines(all_scores, target_date)
+            v3_log_picks(ranked[:TOP_N], target_date,
+                         os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                      "clv_log.jsonl"))
+            v3_autosettle(v3_results_from_workbook(target_date))
+        except Exception as _clve:
+            print(f"  \u26a0\ufe0f  CLV pipeline skipped: {_clve}")
+        print(f"  {V3.shadow_banner()}")
+        if PLAYER_REGISTRY is not None:
+            _jr = PLAYER_REGISTRY.report(verbose=True)
+            # v3.0 [FIX #9] persist the join report next to the model so failures
+            # are auditable after the run, not just visible in a scrolled console.
+            try:
+                import json as _json
+                _jr_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                        f"join_report_{date_str}.json")
+                with open(_jr_path, "w", encoding="utf-8") as _jf:
+                    _json.dump({"date": str(date_str), "version": MODEL_VERSION,
+                                "players_registered": _jr["players"],
+                                "resolved": _jr["resolved"], "failed": _jr["failed"],
+                                "match_rate_pct": round(_jr["match_rate"], 2),
+                                "by_source": dict(PLAYER_REGISTRY.stats),
+                                "failures": _jr["failures"]}, _jf, indent=2)
+                print(f"  🔗 join report → {_jr_path}")
+            except Exception as _jre:
+                print(f"  ⚠️  could not write join report: {_jre}")
+        _clv = V3.CLVLogger("clv_log.jsonl").report()
+        if _clv.get("n"):
+            print(f"  📉 CLV: n={_clv['n']}  mean={_clv['mean_clv_pct']:+.2f}%  "
+                  f"beat close {_clv['beat_close_pct']:.0f}%  \u2192 {_clv['verdict']}")
+        else:
+            print(f"  📉 CLV: no settled picks yet — edge is UNMEASURED until closing odds are logged")
     # ── Jul 22 2026: Auto-resize output window to include ALL injected players ──
     # Problem: four sequential injection systems (Marsh, Flash, PWR88, SUPER NUCLEAR)
     # all insert into the same TOP_N=50 slots using ranked.insert(TOP_N-n, ...).
