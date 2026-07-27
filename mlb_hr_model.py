@@ -21311,15 +21311,48 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"backtest: 42.9% hit rate (vs 61.4% when Vuln≥40). Hard exclude from top-5 hit picks."
         )
 
-    # 2. EXTREME SHORT-START hit suppressor:
-    # Updated Jul 2026 (73 slates): Env<0.90 = 52.2% hit rate (0.80x) across HS≥50 picks.
-    # Previously gated at Env<0.88 — backtest shows Env 0.88-0.90 (60.0% / 0.92x) also
-    # below baseline enough to warrant hard exclude. Env≥0.90 recovers to 1.02-1.05x.
-    if _hs_val_wk >= 50.0 and _env_val_wk > 0 and _env_val_wk < 0.90:
+    # 2. EXTREME SHORT-START hit suppressor — VULN-CONDITIONED (rev. 2026-07-27)
+    #
+    # WHY THIS CHANGED. The blanket rule (Env<0.90 + HS>=50 -> hard exclude) was
+    # re-audited on the 85-slate merged CSV (n=3,752, base HIT 58.96%):
+    #     Env<0.90 + HS>=50 : n=92 over 47 slates, 51.1% hit, 0.87x, Fisher p=0.0748
+    # i.e. the rate roughly replicated but the lift did not (0.87x, not 0.80x) and
+    # it does NOT clear significance — a "hard exclude" resting on p=0.075.
+    #
+    # Splitting that population by pitcher vulnerability shows the suppression is
+    # almost entirely a PITCHER-QUALITY effect wearing an environment label:
+    #     short-start + Vuln <47 : n=35   40.0% hit   0.68x   <- the real penalty
+    #     short-start + Vuln>=47 : n=57   57.9% hit   0.98x   <- essentially baseline
+    #     gap +17.9 pts | Fisher p=0.0730
+    #
+    # Slate-stratified permutation null (2,000 shuffles within slate):
+    #     null gap mean -5.5 pts | 95th pct +11.3 | max +28.0
+    #     observed +17.9  ->  p_empirical = 0.0100   PASSES
+    # Split-half stability: H1 +10.7 pts (41.2 vs 51.9), H2 +24.4 pts (38.9 vs 63.3)
+    # — both halves positive and strengthening.
+    #
+    # NOTE the permutation p (0.0100) and Fisher p (0.0730) disagree because the
+    # null's mean gap is NEGATIVE (-5.5 pts): Vuln>=47 rows cluster on lower-hit
+    # slates, so shuffling within slate preserves that structure and the observed
+    # +17.9 sits further from the null centre than Fisher's independence
+    # assumption allows. The permutation test is the correct one here.
+    #
+    # NET EFFECT: ~62% of previously-excluded batters (57 of 92) are released at
+    # 0.98x instead of being suppressed for no measured reason.
+    _short_start_env = (_env_val_wk > 0 and _env_val_wk < 0.90)
+    if _hs_val_wk >= 50.0 and _short_start_env and vuln < 47.0:
         flags.append(
-            f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.90 + HS={_hs_val_wk:.0f} — "
-            f"backtest: 52.2% hit rate / 0.80x (HS≥50, 73 slates). Hard exclude from top-10 hit picks. "
-            f"Env≥0.90 needed for hit picks."
+            f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.90 + HS={_hs_val_wk:.0f} "
+            f"+ Vuln={vuln:.0f}<47 — backtest: 40.0% hit / 0.68x (n=35, 85-sl CSV Jul27, "
+            f"perm p=0.010). Hard exclude from top-10 hit picks."
+        )
+    elif _hs_val_wk >= 50.0 and _short_start_env:
+        # Vuln>=47 — NOT excluded. Suppressive air against a vulnerable arm runs at
+        # baseline (57.9% / 0.98x, n=57). Neutral context note only.
+        flags.append(
+            f"ℹ️ Short-start env (Env={_env_val_wk:.2f}<0.90) but Vuln={vuln:.0f}≥47 — "
+            f"NOT excluded: 57.9% hit / 0.98x (n=57, 85-sl CSV Jul27). The short-start "
+            f"penalty is a pitcher-quality effect, not an environment one."
         )
 
     # 3. PM 1.06-1.11 + Sig<4 hit demotion:
