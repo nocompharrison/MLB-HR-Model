@@ -1482,6 +1482,16 @@ class HRScore:
     track_has_t4_bbe:        bool  = False  # T4 BBE (≥2 HR in L10 BBE) fired
     track_has_prime:         bool  = False  # PRIME grade (T4 + recency) fired
     track_pitcher_recency:   bool  = False  # any pitcher recency signal (L2 OR HR-prone L5)
+    # ── BULLPEN VULNERABILITY LAYER (Jul 27 2026) ─────────────────────────────
+    # Two-slate full-universe reconstruction (Jul 12 + Jul 26, n=70 HR) found that
+    # 31/70 = 44% of all slate HR were surrendered by RELIEF pitchers, which the
+    # model never scores — it rates the starter only. These fields make that pool
+    # visible. TRACKING ONLY: zero conviction credit, zero ranking effect, until
+    # the results panel (outputs/results_YYYY-MM-DD.csv) reaches n>=20 slates.
+    bullpen_vuln:      float = 50.0   # 0-100, league avg = 50 — same scale as pitcher_vuln
+    bullpen_exp_ip:    float = 4.0    # projected relief innings this batter may face
+    bullpen_hr9:       float = 1.30   # opposing bullpen HR/9 allowed (fatigue-adjusted)
+    bullpen_vuln_note: str   = ""     # display string for the tracking column
     
 
 
@@ -10183,6 +10193,83 @@ def bullpen_factor(bp: Optional[BullpenProfile]) -> float:
     fatigue = getattr(bp, "fatigue_mult", 1.0)
     return max(0.80, min(base * fatigue, 1.45))
 
+def bullpen_vuln_score(bp: Optional[BullpenProfile]) -> float:
+    """
+    Composite BULLPEN HR-vulnerability index, calibrated on the same 0-100 scale
+    as pitcher_vuln_score() so the two are directly comparable:
+        league average = 50 | HR-prone pen ~= 65-80 | elite pen ~= 25-35
+
+    WHY THIS EXISTS (Jul 27 2026 audit)
+    -----------------------------------
+    Full-universe reconstruction of two slates from box-score truth:
+        Jul 12: 30 HR total -> 17 off starters, 13 off relief (43%)
+        Jul 26: 40 HR total -> 22 off starters, 18 off relief (45%)
+        COMBINED: 70 HR -> 39 SP (56%), 31 RP (44%)
+    The model scores batters against the STARTING pitcher only, so ~44% of slate
+    HR production occurs against arms with no vulnerability rating at all. Even
+    with perfect starter-side capture the ceiling is 56% of slate HR. Concretely:
+    Pete Alonso's Jul 26 HR -- the only hit on that day's HR card -- came off
+    Dylan Lee in relief; Reynaldo Lopez, the starter the model matched him
+    against, allowed zero.
+
+    Inputs are already loaded into BullpenProfile; this adds no API calls.
+
+    Weighting (mirrors the starter vuln philosophy: HR/9 dominant, batted-ball
+    profile secondary, fatigue as a multiplier):
+        55%  HR/9 allowed        (direct HR signal)
+        20%  FB% allowed         (fly-ball pens give up more HR)
+        15%  HardHit% allowed    (contact quality)
+        10%  xwOBA allowed       (overall effectiveness)
+    then scaled by the rolling 3-day fatigue multiplier.
+
+    TRACKING ONLY -- returns a display/diagnostic number. It is deliberately NOT
+    wired into score, conviction, or ranking. Promote only after the results
+    panel supports it at n>=20 slates.
+    """
+    if bp is None:
+        return 50.0
+
+    # Each component expressed as a ratio vs league average, centred on 50.
+    _hr9   = max(0.0, float(getattr(bp, "hr9_allowed",    1.30) or 1.30))
+    _fb    = max(0.0, float(getattr(bp, "fb_pct_allowed", 36.0) or 36.0))
+    _hh    = max(0.0, float(getattr(bp, "hard_hit_pct",   38.0) or 38.0))
+    _xwoba = max(0.0, float(getattr(bp, "xwoba_allowed", 0.330) or 0.330))
+
+    # Ratio to league baseline, then map ratio->points around 50.
+    # A component 30% worse than league moves that component to ~65.
+    def _pts(val: float, league: float, span: float = 50.0) -> float:
+        if league <= 0:
+            return 50.0
+        return 50.0 + ((val / league) - 1.0) * span
+
+    _score = (0.55 * _pts(_hr9,   1.30)
+              + 0.20 * _pts(_fb,   36.0)
+              + 0.15 * _pts(_hh,   38.0)
+              + 0.10 * _pts(_xwoba, 0.330))
+
+    # Rolling fatigue: a gassed pen is more vulnerable than its season line.
+    _fatigue = float(getattr(bp, "fatigue_mult", 1.0) or 1.0)
+    _score *= _fatigue
+
+    return round(max(0.0, min(_score, 100.0)), 1)
+
+
+def bullpen_vuln_label(bv: float, exp_ip: float) -> str:
+    """
+    Human-readable tracking label for the bullpen vulnerability column.
+    Mirrors the starter Vuln banding so the two read the same way on the sheet.
+    Exposure matters as much as quality: a torched pen the batter never faces is
+    not a signal, so the label is only emphatic when exp_ip is meaningful.
+    """
+    if bv >= 60 and exp_ip >= 3.5:
+        return f"BULLPEN SUPER VULN (BVu {bv:.0f}, ~{exp_ip:.1f} IP exposure)"
+    if bv >= 54 and exp_ip >= 3.0:
+        return f"BULLPEN VULN (BVu {bv:.0f}, ~{exp_ip:.1f} IP exposure)"
+    if bv <= 38:
+        return f"BULLPEN ELITE (BVu {bv:.0f}) - late-game HR suppressed"
+    return f"BVu {bv:.0f} (~{exp_ip:.1f} IP)"
+
+
 def implied_runs_factor(runs: float) -> float:
     """
     Converts Vegas implied runs into a HR-rate multiplier.
@@ -17073,11 +17160,22 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     elif pitcher.prop_outs_line > 0:
         _pitcher_ip_proj = pitcher.prop_outs_line / 3.0
 
+    # ── Bullpen vulnerability tracking (Jul 27 2026) ──────────────────────────
+    # Diagnostic only — computed here so it rides along on the HRScore and can be
+    # exported/audited, but deliberately NOT fed into score, conv, or ranking.
+    # 44% of slate HR come off relief; this makes that pool visible before we
+    # decide whether to price it. Promote only at n>=20 slates of results panel.
+    _bp_vuln   = bullpen_vuln_score(bullpen)
+    _bp_exp_ip = float(getattr(bullpen, "expected_innings", 4.0) or 4.0) if bullpen else 4.0
+    _bp_hr9    = float(getattr(bullpen, "hr9_allowed", 1.30) or 1.30) if bullpen else 1.30
+
     _result = HRScore(
         batter_name=batter.name, team=batter.team, opponent=opponent,
         pitcher_name=pitcher.name, hr_probability=hr_prob, score=score,
         base_hr_rate_per_pa=rate, batter_power=batter_power_score(batter),
         pitcher_vuln=pitcher_vuln_score(pitcher), pitch_matchup_score=pm,
+        bullpen_vuln=_bp_vuln, bullpen_exp_ip=_bp_exp_ip, bullpen_hr9=_bp_hr9,
+        bullpen_vuln_note=bullpen_vuln_label(_bp_vuln, _bp_exp_ip),
         bullpen_factor=bp_f, park_factor=park, env_factor=env, platoon=plat,
         pa_per_game=pa, implied_runs=impl_runs, market_signal=mkt,
         weather_run_adj=context.weather_run_adj,
@@ -18425,6 +18523,9 @@ def _sheet_detailed(wb, scores, top_n):
             ("Pitcher Vuln",    f"{sc.pitcher_vuln:.1f}"),
             ("Pitch Match",     f"{sc.pitch_matchup_score:.3f}"),
             ("Bullpen",         f"{sc.bullpen_factor:.3f}"),
+            # Jul 27 2026 tracking column — 44% of slate HR come off relief arms
+            # the model does not rate. Diagnostic only, no scoring effect.
+            ("Bullpen Vuln 🔬",  f"{sc.bullpen_vuln:.1f}  ({sc.bullpen_vuln_note})"),
             ("Park",            f"{sc.park_factor:.3f}"),
             ("Env",             f"{sc.env_factor:.3f}"),
             ("Platoon",         f"{sc.platoon:.2f}"),
@@ -30860,12 +30961,151 @@ def main():
     # Later injections displace earlier ones past position 50, silently losing them.
     # Fix: compute effective window as the furthest position any injected player
     # actually landed, so the output slice always includes every promised injection.
+    # ══════════════════════════════════════════════════════════════════════════
+    # ── VULNERABLE-ARM COVERAGE FLOOR (Jul 27 2026) ───────────────────────────
+    # ══════════════════════════════════════════════════════════════════════════
+    # FINDING (2-slate full-universe reconstruction, Jul 12 + Jul 26, n=51
+    # starter-games joined to box-score truth):
+    #
+    #   corr(pitcher Vuln, # of his opposing batters in the ranked universe)
+    #       = -0.060   <- coverage is allocated with ZERO regard to vulnerability
+    #
+    #   Vuln band   starter-games   lineup covered   SP HR allowed   captured
+    #   Vu >=52          10          2.10/11.2=18.8%       7            3
+    #   Vu 48-52         13          3.00/10.9=27.5%      17            7
+    #   Vu 44-48          8          3.25/10.5=31.0%       2            2
+    #   Vu <44           20          2.35/10.8=21.8%       8            4
+    #
+    # The MOST vulnerable arms get the THINNEST coverage. Root cause: the window
+    # cut is Score-based and Score is dominated by batter power/park, so stacked
+    # lineups facing aces get sampled deeply while ordinary lineups facing
+    # batting-practice arms get sampled once. That is backwards relative to the
+    # locked pitcher-first doctrine, which is applied at PICK SELECTION but never
+    # at UNIVERSE CONSTRUCTION.
+    #
+    # Capture rate is cleanly monotonic in coverage depth:
+    #   covered 1   -> 13 starter-games,  6 SP HR allowed,  0 captured (  0%)
+    #   covered 2-3 -> 23 starter-games, 14 SP HR allowed,  7 captured ( 50%)
+    #   covered 4+  -> 15 starter-games, 14 SP HR allowed,  9 captured ( 64%)
+    #
+    # And the intersection that motivates this block:
+    #   Vu>=48 AND covered<=2  ->  11 games, 7 HR allowed, 0 captured.
+    #
+    # IMPORTANT INTERPRETATION: expected captures by chance at that depth is only
+    # ~0.5, so 0-for-7 is UNDERSAMPLING, not model bias. The model is not wrong
+    # about these matchups; it simply is not buying enough tickets. Hence the fix
+    # is a coverage floor, not a scoring change — nothing here touches score,
+    # conviction, ranking order, or any grade.
+    #
+    # RULE: never carry exactly one ranked batter against a Vu>=48 arm. Either
+    # promote that lineup to COVERAGE_FLOOR batters (pulled from already-scored
+    # batters below the cut, best-score-first), or flag the game UNMODELED so it
+    # is visibly excluded rather than silently under-sampled.
+    #
+    # SCOPE NOTE: the full Vuln-tiered reallocation counterfactual only returned
+    # 1.10x expected SP-HR capture on n=51 and is NOT implemented — that needs
+    # the results panel at n>=20 slates. This block ships only the 0-for-6 cell.
+    COVERAGE_VULN_GATE = 48.0   # "vulnerable arm" threshold for the floor
+    COVERAGE_FLOOR     = 4      # promote to this many batters when floor trips
+    COVERAGE_MIN_KEEP  = 2      # exactly-1 is the failure cell we are closing
+
+    _cov_promoted:   list = []
+    _cov_unmodeled:  list = []
+    try:
+        # Provisional window = TOP_N (EFFECTIVE_TOP_N is computed just below and
+        # will absorb whatever we promote, because promoted names are added to
+        # _all_injected_names).
+        _cov_window = ranked[:TOP_N]
+        _cov_counts: dict = {}
+        for _sc in _cov_window:
+            _k = _sc.pitcher_name
+            if not _k:
+                continue
+            _e = _cov_counts.setdefault(_k, {"names": set(), "vuln": _sc.pitcher_vuln})
+            _e["names"].add(_sc.batter_name)
+            # keep the max vuln seen (hand-splits can vary slightly per batter)
+            if _sc.pitcher_vuln > _e["vuln"]:
+                _e["vuln"] = _sc.pitcher_vuln
+
+        for _pname, _info in sorted(_cov_counts.items(),
+                                    key=lambda kv: -kv[1]["vuln"]):
+            _vuln = _info["vuln"]
+            _have = len(_info["names"])
+            if _vuln < COVERAGE_VULN_GATE or _have > COVERAGE_MIN_KEEP:
+                continue
+
+            # Candidates: already-scored batters vs this same pitcher.
+            #
+            # MUST draw from all_scores, NOT from ranked[TOP_N:]. The team-exposure
+            # cap (MAX_TEAM_EXPOSURE=3) is applied when `ranked` is built from
+            # `ranked_raw`, so `ranked` holds at most ~3 batters per team overall —
+            # a COVERAGE_FLOOR of 4 would be structurally unreachable from it.
+            # `all_scores` is the uncapped, fully-scored slate.
+            #
+            # This is an explicit team-cap bypass, consistent with the four existing
+            # injection systems (Marsh / Flash / PWR88 / SUPER NUCLEAR), all of which
+            # already bypass the cap. Justified here because the audit measured
+            # capture rate against LINEUP depth, not team depth: covered 4+ captured
+            # 64% of SP HR vs 0% at covered-1, and a vulnerable arm's lineup is
+            # exactly the place concentration is warranted.
+            _already = {_s.batter_name for _s in ranked[:TOP_N]}
+            _cands = [
+                _sc for _sc in (all_scores or [])
+                if _sc.pitcher_name == _pname
+                and _sc.batter_name not in _info["names"]
+                and _sc.batter_name not in _already
+            ]
+            _cands.sort(key=lambda x: (round(x.score, 1), x.hr_probability),
+                        reverse=True)
+            _need = COVERAGE_FLOOR - _have
+            _take = _cands[:_need]
+
+            if len(_take) < _need:
+                # Lineup was never scored deep enough to reach the floor. Do not
+                # pretend this game is covered — flag it so the under-sampling is
+                # visible in the output instead of silent.
+                _cov_unmodeled.append((_pname, _vuln, _have,
+                                       _have + len(_take)))
+            if _take:
+                for _sc in _take:
+                    _sc.notes.append(
+                        f"📐 COVERAGE FLOOR: promoted — only {_have} batter(s) vs "
+                        f"{_pname} (Vuln {_vuln:.1f} ≥ {COVERAGE_VULN_GATE:.0f}) were in "
+                        f"the window. Vu≥48 arms covered ≤2 deep went 0-for-7 on HR "
+                        f"capture (Jul 12 + Jul 26 audit, n=51 starter-games). "
+                        f"Coverage promotion only — no score/conv/rank change."
+                    )
+                _cov_promoted.extend(_take)
+
+        if _cov_promoted:
+            _cov_names = {_sc.batter_name for _sc in _cov_promoted}
+            ranked = [_sc for _sc in ranked if _sc.batter_name not in _cov_names]
+            ranked = ranked + _cov_promoted
+            ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability),
+                        reverse=True)
+            print(f"\n  📐 COVERAGE FLOOR — {len(_cov_promoted)} batter(s) promoted into the "
+                  f"window on Vuln≥{COVERAGE_VULN_GATE:.0f} arms covered ≤{COVERAGE_MIN_KEEP} deep:")
+            for _sc in sorted(_cov_promoted, key=lambda x: -x.pitcher_vuln):
+                print(f"       {_sc.batter_name:<24} vs {_sc.pitcher_name[:20]:<22} "
+                      f"Vuln {_sc.pitcher_vuln:>5.1f}  Score {_sc.score:>5.1f}")
+        if _cov_unmodeled:
+            print(f"\n  ⚠️  UNMODELED GAMES — vulnerable arm, lineup not scored deep enough "
+                  f"to reach the coverage floor of {COVERAGE_FLOOR}:")
+            for _pn, _vu, _had, _got in _cov_unmodeled:
+                print(f"       {_pn[:24]:<26} Vuln {_vu:>5.1f}   covered {_got} of "
+                      f"{COVERAGE_FLOOR} target (started at {_had})")
+            print(f"       → treat these games as under-sampled, not as low-opportunity.")
+    except Exception as _cov_err:
+        print(f"  ⚠️  Coverage floor skipped ({_cov_err}) — ranking unchanged.")
+        _cov_promoted, _cov_unmodeled = [], []
+
     _all_injected_names = set()
     for _inj_list in [
         _marsh_injected,
         _flash_injected    if '_flash_injected'    in locals() else [],
         _pwr_floor_injected if '_pwr_floor_injected' in locals() else [],
         _sn_injected       if '_sn_injected'       in locals() else [],
+        _cov_promoted,
     ]:
         for _sc in _inj_list:
             _all_injected_names.add(_sc.batter_name)
