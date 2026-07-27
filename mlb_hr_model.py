@@ -10199,32 +10199,46 @@ def bullpen_vuln_score(bp: Optional[BullpenProfile]) -> float:
     as pitcher_vuln_score() so the two are directly comparable:
         league average = 50 | HR-prone pen ~= 65-80 | elite pen ~= 25-35
 
-    WHY THIS EXISTS (Jul 27 2026 audit)
-    -----------------------------------
-    Full-universe reconstruction of two slates from box-score truth:
-        Jul 12: 30 HR total -> 17 off starters, 13 off relief (43%)
-        Jul 26: 40 HR total -> 22 off starters, 18 off relief (45%)
-        COMBINED: 70 HR -> 39 SP (56%), 31 RP (44%)
-    The model scores batters against the STARTING pitcher only, so ~44% of slate
-    HR production occurs against arms with no vulnerability rating at all. Even
-    with perfect starter-side capture the ceiling is 56% of slate HR. Concretely:
-    Pete Alonso's Jul 26 HR -- the only hit on that day's HR card -- came off
-    Dylan Lee in relief; Reynaldo Lopez, the starter the model matched him
-    against, allowed zero.
+    WHY THIS EXISTS — and why it is TRACKING ONLY (validated Jul 27 2026)
+    ---------------------------------------------------------------------
+    Measured across 83 slates of full-universe box scores (2,681 HR, 19,760 IP):
+
+        innings:  SP 59.7%  |  RP 40.3%
+        HR:       SP 60.4%  |  RP 39.6%
+        HR/9:     SP 1.23   |  RP 1.20
+
+    An earlier 2-slate reading (n=70 HR) put the relief share at 44% and framed it
+    as a large blind spot. At scale the share is 39.6% (95% CI 37.8-41.5%) and,
+    more importantly, relief is slightly LESS HR-prone per inning than starters.
+    The relief HR pool is PROPORTIONAL EXPOSURE, not a concentrated edge — the
+    original framing was wrong.
+
+    Predictive strength is real but small. Strict out-of-sample test using only a
+    team's PRIOR relief innings (1,865 team-games, min 40 prior IP):
+
+        prior BEST third   -> actual relief HR/9 1.18
+        prior MID third    -> 1.27
+        prior WORST third  -> 1.38        = 1.17x worst/best lift
+
+    Split-half persistence of team bullpen HR/9 is +0.300 — weak-moderate. There
+    is no clean exposure interaction (1.29x / 1.16x / 1.19x across low/normal/high
+    relief-IP games; the ordering is backwards from theory, i.e. noise).
+
+    A 1.17x lift applied to ~40% of a batter's plate appearances moves a single
+    batter's HR probability by roughly one percentage point at the tails. That is
+    too small to justify a new priced component, and bullpen_factor() already
+    captures the HR/9 signal in the multiplier chain. So this stays a diagnostic:
+    zero conviction credit, zero ranking effect. Revisit only if the results panel
+    shows the effect is larger than measured here.
 
     Inputs are already loaded into BullpenProfile; this adds no API calls.
 
     Weighting (mirrors the starter vuln philosophy: HR/9 dominant, batted-ball
-    profile secondary, fatigue as a multiplier):
+    profile secondary):
         55%  HR/9 allowed        (direct HR signal)
         20%  FB% allowed         (fly-ball pens give up more HR)
         15%  HardHit% allowed    (contact quality)
         10%  xwOBA allowed       (overall effectiveness)
-    then scaled by the rolling 3-day fatigue multiplier.
-
-    TRACKING ONLY -- returns a display/diagnostic number. It is deliberately NOT
-    wired into score, conviction, or ranking. Promote only after the results
-    panel supports it at n>=20 slates.
     """
     if bp is None:
         return 50.0
@@ -10247,9 +10261,16 @@ def bullpen_vuln_score(bp: Optional[BullpenProfile]) -> float:
               + 0.15 * _pts(_hh,   38.0)
               + 0.10 * _pts(_xwoba, 0.330))
 
-    # Rolling fatigue: a gassed pen is more vulnerable than its season line.
-    _fatigue = float(getattr(bp, "fatigue_mult", 1.0) or 1.0)
-    _score *= _fatigue
+    # NOTE ON FATIGUE (measured Jul 27 2026, 1,865 out-of-sample team-games):
+    # bullpen_factor() multiplies by fatigue_mult, and the first draft of THIS
+    # function copied that. The archive says fatigue is noise, and if anything
+    # points the wrong way:
+    #     corr(prior 3-day relief IP, this game's relief HR/9) = -0.017
+    #     rested pens 1.25 HR/9 | normal 1.25 | most-used third 1.16
+    # A heavily-used pen is one a manager trusts, which offsets any tiredness
+    # effect. Applying it here would inject noise into a tracking number whose
+    # whole purpose is to be audited cleanly, so it is deliberately NOT applied.
+    # Left un-multiplied until the results panel shows an effect that survives.
 
     return round(max(0.0, min(_score, 100.0)), 1)
 
@@ -30964,48 +30985,76 @@ def main():
     # ══════════════════════════════════════════════════════════════════════════
     # ── VULNERABLE-ARM COVERAGE FLOOR (Jul 27 2026) ───────────────────────────
     # ══════════════════════════════════════════════════════════════════════════
-    # FINDING (2-slate full-universe reconstruction, Jul 12 + Jul 26, n=51
-    # starter-games joined to box-score truth):
+    # VALIDATED at n=1,491 starter-games across 81 slates (May 1 - Jul 25 2026),
+    # by joining the model's historical rankings to full-universe box-score truth
+    # (outputs/results_YYYY-MM-DD.csv panel, 33,157 player-games, 2,681 HR).
     #
-    #   corr(pitcher Vuln, # of his opposing batters in the ranked universe)
-    #       = -0.060   <- coverage is allocated with ZERO regard to vulnerability
+    # An earlier 2-slate version of this block (n=51) cited a "0-for-7" capture
+    # cell as the motivation. THAT WAS SMALL-SAMPLE NOISE and is retained here
+    # only as a warning: at full scale the same cell captures 32.2% vs 14.1%
+    # expected by chance. The model is NOT blind on thinly-covered vulnerable
+    # arms. The real, surviving findings are the two below.
     #
-    #   Vuln band   starter-games   lineup covered   SP HR allowed   captured
-    #   Vu >=52          10          2.10/11.2=18.8%       7            3
-    #   Vu 48-52         13          3.00/10.9=27.5%      17            7
-    #   Vu 44-48          8          3.25/10.5=31.0%       2            2
-    #   Vu <44           20          2.35/10.8=21.8%       8            4
+    # FINDING 1 - coverage ignores vulnerability (confirmed, n=1,491):
+    #   corr(pitcher Vuln, # of his opposing batters in the universe) = +0.022
     #
-    # The MOST vulnerable arms get the THINNEST coverage. Root cause: the window
-    # cut is Score-based and Score is dominated by batter power/park, so stacked
-    # lineups facing aces get sampled deeply while ordinary lineups facing
-    # batting-practice arms get sampled once. That is backwards relative to the
-    # locked pitcher-first doctrine, which is applied at PICK SELECTION but never
-    # at UNIVERSE CONSTRUCTION.
+    #   Vuln band   starter-games   avg covered / lineup   capture %
+    #   Vu >=54           76            2.00 / 10.9          50.0%   <- thinnest
+    #   Vu 52-54          94            2.07 / 10.8          36.7%
+    #   Vu 48-52         427            2.51 / 10.6          43.9%   <- widest
+    #   Vu 44-48         350            2.26 / 10.7          45.5%
+    #   Vu <44           544            2.24 / 10.6          45.2%
     #
-    # Capture rate is cleanly monotonic in coverage depth:
-    #   covered 1   -> 13 starter-games,  6 SP HR allowed,  0 captured (  0%)
-    #   covered 2-3 -> 23 starter-games, 14 SP HR allowed,  7 captured ( 50%)
-    #   covered 4+  -> 15 starter-games, 14 SP HR allowed,  9 captured ( 64%)
+    # Root cause: the window cut is Score-based and Score is dominated by batter
+    # power/park, so stacked lineups facing aces get sampled deeply while ordinary
+    # lineups facing batting-practice arms get sampled once. That is backwards
+    # relative to the locked pitcher-first doctrine, which is applied at PICK
+    # SELECTION but never at UNIVERSE CONSTRUCTION.
     #
-    # And the intersection that motivates this block:
-    #   Vu>=48 AND covered<=2  ->  11 games, 7 HR allowed, 0 captured.
+    # FINDING 2 - capture is monotonic in coverage depth (confirmed, tight CIs):
+    #   covered 1 -> 24.8% of that starter's HR captured (95% CI 20.1-29.6)
+    #   covered 2 -> 38.8%   (33.1-44.5)
+    #   covered 3 -> 56.4%   (51.3-61.6)
+    #   covered 4 -> 66.1%   (59.2-73.0)
     #
-    # IMPORTANT INTERPRETATION: expected captures by chance at that depth is only
-    # ~0.5, so 0-for-7 is UNDERSAMPLING, not model bias. The model is not wrong
-    # about these matchups; it simply is not buying enough tickets. Hence the fix
-    # is a coverage floor, not a scoring change — nothing here touches score,
-    # conviction, ranking order, or any grade.
+    # BUT the model's per-slot SKILL runs the other way — its first pick against a
+    # vulnerable arm is far better than its fourth:
+    #   Vu>=48 covered 1 -> 28.6% observed vs  9.6% chance = 2.98x lift
+    #   Vu>=48 covered 2 -> 35.9% vs 18.8% = 1.91x
+    #   Vu>=48 covered 3 -> 50.4% vs 29.3% = 1.72x
+    #   Vu>=48 covered 4+-> 62.1% vs 38.9% = 1.60x
     #
-    # RULE: never carry exactly one ranked batter against a Vu>=48 arm. Either
-    # promote that lineup to COVERAGE_FLOOR batters (pulled from already-scored
-    # batters below the cut, best-score-first), or flag the game UNMODELED so it
-    # is visibly excluded rather than silently under-sampled.
+    # So added depth has DECLINING marginal value, and every floor variant buys HR
+    # below the 0.149 HR/slot efficiency of an average existing universe slot.
+    # This is a recall-vs-precision trade, not free money. Promoted batters land at
+    # the BOTTOM of the ranked list and will not become top-5 picks — the value is
+    # that the flash/archetype scan gets more candidates and post-mortems can see
+    # near-misses. VISIBILITY, not pick quality.
     #
-    # SCOPE NOTE: the full Vuln-tiered reallocation counterfactual only returned
-    # 1.10x expected SP-HR capture on n=51 and is NOT implemented — that needs
-    # the results panel at n>=20 slates. This block ships only the 0-for-6 cell.
-    COVERAGE_VULN_GATE = 48.0   # "vulnerable arm" threshold for the floor
+    # NOT IMPLEMENTED: the full Vuln-tiered reallocation. It measured 1.10x at
+    # n=51 but regressed to 1.04x at n=1,491 — small-sample noise, correctly
+    # rejected. This block ships only the coverage floor.
+    #
+    # Nothing here touches score, conviction, ranking order, or any grade.
+    #
+    # GATE CALIBRATION (revised Jul 27 2026 at n=1,491 starter-games, 81 slates —
+    # the original Vu>=48 gate came from n=51 and was too wide). Marginal slots
+    # valued against the measured lift-by-depth curve:
+    #
+    #   floor  gate     slots/slate   extra HR   capture Δ   HR per slot
+    #     4    Vu>=48      12.1          128       +25.0%       0.130
+    #     4    Vu>=52       4.2           47        +9.2%       0.139   <- chosen
+    #     3    Vu>=48       6.4           67       +13.1%       0.129
+    #     2    Vu>=48       2.3           24        +4.8%       0.128
+    #   (an average EXISTING universe slot returns 0.149 HR/slot)
+    #
+    # Every variant buys HR below the efficiency of existing slots, so this is a
+    # recall-vs-precision trade, not free money. Vu>=52 has the best HR/slot of
+    # any variant and concentrates the addition on the band where coverage is
+    # genuinely thinnest (Vu>=54 averages 2.00 batters covered of a 10.9 lineup,
+    # the thinnest of any vulnerability band). The 48-52 band already averages
+    # 2.51 covered — the widest of any band — so it does not need the floor.
+    COVERAGE_VULN_GATE = 52.0   # "vulnerable arm" threshold for the floor
     COVERAGE_FLOOR     = 4      # promote to this many batters when floor trips
     COVERAGE_MIN_KEEP  = 2      # exactly-1 is the failure cell we are closing
 
@@ -31071,9 +31120,10 @@ def main():
                     _sc.notes.append(
                         f"📐 COVERAGE FLOOR: promoted — only {_have} batter(s) vs "
                         f"{_pname} (Vuln {_vuln:.1f} ≥ {COVERAGE_VULN_GATE:.0f}) were in "
-                        f"the window. Vu≥48 arms covered ≤2 deep went 0-for-7 on HR "
-                        f"capture (Jul 12 + Jul 26 audit, n=51 starter-games). "
-                        f"Coverage promotion only — no score/conv/rank change."
+                        f"the window. Capture rate is monotonic in coverage depth "
+                        f"(covered-1 24.8% → covered-4 66.1% of that starter's HR, "
+                        f"n=1,491 starter-games / 81 slates). Visibility promotion only "
+                        f"— no score/conv/rank change, and NOT a pick-quality signal."
                     )
                 _cov_promoted.extend(_take)
 
