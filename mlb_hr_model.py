@@ -22370,12 +22370,27 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _l10_sc_n >= 3 and (_l10_sc_hr >= 2 or (_l10_sc_hh >= 60.0 and _l10_sc_d >= 300.0)):
         _tag = f"🔥 L10 BBE vs {_l10_sc_pt}: {_l10_sc_hr}HR/{_l10_sc_n}BBE" if _l10_sc_pt else "🔥 L10 BBE HIT-BOOST"
         _hit_firing.append(_tag)
-        hit_pts += (3 if _l10_sc_hr >= 2 else 2)  # +3 for multi-HR, +2 for elite contact
+        # ❌ CONVICTION CREDIT REMOVED 2026-07-27 (was +3 multi-HR / +2 elite contact).
+        # Vuln-matched control audit, 85-slate merged CSV (n=3,752, base HIT 58.96%):
+        #     L10 BBE (hit): n=1,120  61.1% hit  naive 1.04x  TRUE 1.03x
+        #     slate-stratified permutation null (800 shuffles): p = 0.7362
+        # Fires on ~30% of the entire pool and adds nothing above a vuln-matched
+        # control. At that fire rate a 1.03x grade is noise in the hit-card
+        # ordering, not signal. NOTE RETAINED (the L10 BBE contact detail is
+        # genuinely useful context on a pick card) but it no longer moves
+        # hit_pts. Re-enable only if it clears 1.10x over 15+ fresh slates.
+        hit_pts += 0
     # PITCH DOM hit-only: fires for Vuln44-48 PITCH DOM picks that missed the HR gate
     # These are genuine hit signals (0.73x HR but 1.09x hit rate) — credit them on hit list
     if PITCH_DOM_HIT_ONLY:
         _hit_firing.append("🎯 PITCH DOM hit")
-        hit_pts += 4   # +4: strong hit signal, keeps them in 🟢 Strong hit territory
+        # ❌ CONVICTION CREDIT REMOVED 2026-07-27 (was +4).
+        # Claimed 1.09x hit. Vuln-matched control audit, 85-slate merged CSV:
+        #     PITCH DOM hit: n=203  60.6% hit  naive 1.03x  TRUE 1.03x
+        #     permutation null p = 0.4938 — indistinguishable from baseline.
+        # Median Vuln of its fires is 41.6, so this is NOT a pitcher-quality
+        # artifact — there is simply no effect. Note retained, credit removed.
+        hit_pts += 0
 
     # Weak+Clean family RETIRED Jun 10 2026. Plain WEAK+CLEAN (0.89x HR / 0.94x hit)
     # and SHARP WEAK+CLEAN (0.84x HR / 1.01x hit) both fail to clear baseline with any
@@ -22410,6 +22425,34 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _neg_mom_flag:
         flags.append("📉 Neg momentum")
 
+    # ── POSITIVE HIT GRADE AUDIT (2026-07-27) ──────────────────────────────
+    # Every positive hit grade re-tested against a VULN-MATCHED control (expected
+    # hit rate given the grade's own vuln-band mix) with a slate-stratified
+    # permutation null. 85-slate merged CSV, n=3,752, base 58.96%.
+    #
+    #   grade               n     raw    ctrl   naive   TRUE   medVu   perm p
+    #   SCREAM HIT        452   66.6%   59.4%   1.13x   1.12x   46.6   0.0088  VALIDATED
+    #   SWEET*+PA          89   68.5%   59.3%   1.16x   1.16x   44.7   0.1300  tracking
+    #   PITCH-RELIANT HIT 312   63.8%   59.1%   1.08x   1.08x   44.2   0.1462  tracking
+    #   Z-CONTACT BOOST   547   63.1%   59.5%   1.07x   1.06x   49.9   0.4000  tracking
+    #   BACKTEST ELITE     77   62.3%   60.0%   1.06x   1.04x   47.9   0.4863  tracking
+    #   PITCH DOM hit     203   60.6%   58.8%   1.03x   1.03x   41.6   0.4938  CREDIT REMOVED
+    #   L10 BBE (hit)    1120   61.1%   59.6%   1.04x   1.03x   46.3   0.7362  CREDIT REMOVED
+    #
+    # KEY FINDING — the ASYMMETRY is the point. The hit SUPPRESSORS (short-start,
+    # MID-HS DULL) were badly confounded by pitcher quality; these POSITIVE grades
+    # are not. Naive and TRUE lift differ by at most 0.01x, and median firing Vuln
+    # is 41.6-49.9 — ordinary arms, not preferentially vulnerable ones. Suppressors
+    # gate on environment and hitter form (correlated with the matchup); positive
+    # grades gate on batter contact ability (near-orthogonal to who is pitching).
+    #
+    # SWEET*+PA and PITCH-RELIANT HIT keep full credit despite p>0.05: both show
+    # real effect sizes on SMALL samples rather than flat results on large ones.
+    # Track to n>=150 before deciding. Do NOT cut them on this test.
+    #
+    # METHOD CAVEAT: the control uses 7 vuln bands, so it corrects for coarse
+    # pitcher quality but NOT park, weather or lineup slot. A cleaner version is a
+    # logistic model with the grade term alongside vuln/env/park/est_pa.
     _hit_grade_count = len(_hit_firing)
 
     # ── Screaming Hit combo detection — 26-slate backtest ────────────────
