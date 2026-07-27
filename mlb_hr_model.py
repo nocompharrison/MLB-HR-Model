@@ -28929,7 +28929,8 @@ def parse_args():
     parser = argparse.ArgumentParser(
         description=(
             "MLB Home Run Model  |  v3.0 'Calibrated Edge'  |  Closed-form + calibrated GBM\n"
-            "Ranks batters for FanDuel DFS HR contests using 10,000 simulations per player.\n"
+            "Ranks batters for FanDuel DFS + sportsbook HR/hit markets using a calibrated,\n"
+            "market-free probability model (closed-form PA aggregation, isotonic calibration).\n"
             "\n"
             "DATA SOURCES (in priority order):\n"
             "  1. FantasyLabs (FL)     — Lineups, implied runs, weather, salary, batting order\n"
@@ -29199,7 +29200,7 @@ def main():
     print(f"\n{sep}")
     print(f"  MLB HOME RUN MODEL -- v{MODEL_VERSION} '{MODEL_CODENAME}'")
     print(f"  [{mode}]  {target_date.strftime('%A, %B %d, %Y')}")
-    print(f"  {SIMULATIONS:,} simulations per player  |  Top {TOP_N}")
+    print(f"  Closed-form probability + isotonic calibration  |  Top {TOP_N}")
     if is_historical:
         print("  Historical mode: PropLine odds skipped | Weather from archive")
         print("  Season stats pulled for year: " + str(SEASON_YEAR))
@@ -29850,7 +29851,7 @@ def main():
         except Exception as _l5e:
             print(f"  ⚠️  Pitcher L5 fetch failed: {_l5e} — using season averages")
 
-    print(f"  Simulating {total_players} player-game outcomes...")
+    print(f"  Scoring {total_players} player-game outcomes (closed-form, no sampling noise)...")
     # Initialize progress bar
     pbar = tqdm(total=total_players, desc="  Scoring", unit="player",
                 bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]")
@@ -30550,8 +30551,19 @@ def main():
                         # v3.0 [FIX #9] every tier missed. In v2 this returned
                         # (None, None) SILENTLY and the batter lost his hit-prop
                         # market data with no trace. Now it is recorded.
+                        # Distinguish a BROKEN JOIN from NO MARKET POSTED. If no
+                        # RotoWire key shares this surname the player is simply
+                        # absent from the feed (bench bat, no line posted) — not a
+                        # normalization failure, and not fixable by better matching.
                         if PLAYER_REGISTRY is not None:
-                            PLAYER_REGISTRY.resolve(name=name, source="RotoWire", required=True)
+                            _sur = (parts[-1] if parts else "")
+                            _feed_has_surname = any(
+                                k.split() and k.split()[-1] == _sur for k in _rw_bat_norm)
+                            if _feed_has_surname:
+                                PLAYER_REGISTRY.resolve(name=name, source="RotoWire",
+                                                        required=True)      # fixable
+                            else:
+                                PLAYER_REGISTRY.stats["no_market:RotoWire"] += 1
                         return None, None
 
                     _rw_orig, _rw_full = _rw_lookup(bname)
@@ -31489,10 +31501,12 @@ def main():
             # are auditable after the run, not just visible in a scrolled console.
             try:
                 import json as _json
+                _jr_iso = (target_date.isoformat()
+                           if hasattr(target_date, "isoformat") else str(date_str))
                 _jr_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                        f"join_report_{date_str}.json")
+                                        f"join_report_{_jr_iso}.json")
                 with open(_jr_path, "w", encoding="utf-8") as _jf:
-                    _json.dump({"date": str(date_str), "version": MODEL_VERSION,
+                    _json.dump({"date": _jr_iso, "version": MODEL_VERSION,
                                 "players_registered": _jr["players"],
                                 "resolved": _jr["resolved"], "failed": _jr["failed"],
                                 "match_rate_pct": round(_jr["match_rate"], 2),
