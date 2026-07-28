@@ -15668,6 +15668,14 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     #   Cold bat alone (no signal):      no boost — don't blindly boost all cold bats
     _hit_score_rs   = _hit_score or 0.0   # _hit_score already in scope from line 16374
     _is_cold_bat_hr = 0 < _hit_score_rs < 40 or _hit_score_rs == 0
+    # Jul 28 2026: narrower gate for the HR ranking boost. The cold-bat HR signal
+    # lives below HS 25 — HS 25-40 has been below base in every window measured
+    # (0.93x full, 0.87x post-ASG, 0.86x last-10d on the 74-slate panel, n=3,628).
+    # _is_cold_bat_hr (HS<40) is retained for the SHARP LINE override below, which
+    # was validated on Devers at HS29. These two thresholds are intentionally different.
+    # NAME NOTE: called _cold25 not _ice_cold — _is_ice_cold_hr is already taken
+    # further down by the ICE_COLD_SUPER_VUL grade at a HS<10 threshold.
+    _is_cold25_hr = 0 < _hit_score_rs < 25 or _hit_score_rs == 0
     _vuln_rs        = getattr(batter, 'pitcher_vuln', 0.0) or 0.0
     _has_slm_rs     = getattr(batter, 'has_sharp_line_move', False)
     _bp_score_rs    = batter_power_score(batter)   # compute here — used again at line 16455
@@ -15688,20 +15696,42 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"Jul 18 validation: Devers (HS29, Env0.888, Vu39) HRd on SLM signal alone. "
             f"Sharp money on cold bat overrides env/vuln suppressors. +8% ranking."
         )
-    elif _is_cold_bat_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
-        # Finding 1: Cold bat + structural HR signal — post-ASG pattern
-        # Jul 20 2026: Reduce post-ASG cold bat boost from +8% back to +6%.
-        # +8% was implemented after Jul 18-19 showed 100% cold bat HR rate.
-        # Jul 20: cold bats 63% of HR getters (vs 100% prior two slates) — dominance fading.
-        # HR rate returned to base (16.3%). +6% is the historically validated level (57.4%/1.07x).
-        _post_asg = getattr(batter, 'is_post_asg', False)
-        _cold_bat_boost = 1.06   # unified at +6% — post-ASG +8% premium removed Jul 20
+    elif _is_cold25_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
+        # ── RECALIBRATED Jul 28 2026 (74-slate panel, n=3,628, base HR 16.51%) ────
+        # Gate narrowed HS<40 -> HS<25, boost cut +6% -> +3%.
+        #
+        # UNCONDITIONAL HS bands (all batters, HR lift vs base):
+        #     HS<10      1.19x full | 1.17x pre-ASG | 1.34x post-ASG | 1.36x last-10d
+        #     HS 10-25   1.07x full | 1.04x pre     | 1.25x post     | 1.20x last-10d
+        #     HS 25-40   0.93x full | 0.93x pre     | 0.87x post     | 0.86x last-10d  <- DEAD
+        #     HS 40-55   0.96x full | 0.97x pre     | 0.84x post     | 0.83x last-10d
+        #     HS 55-70   1.07x full | 1.14x pre     | 1.07x post     | 1.14x last-10d
+        # The cold signal is real but lives BELOW 25, not below 40. HS 25-40 has been
+        # below base in every window measured and was diluting the whole gate: the
+        # old HS<40 rule came out at just 1.03x cold-vs-warm full-window.
+        #
+        # WITHIN THIS BOOST'S ACTUAL GATE (cold + PM>=1.04&Pwr>=82 + Vu>=42):
+        #     HS<40  [old]   0.88x full (49/338)  |  0.96x post-ASG (14/116)
+        #     HS<25  [new]   0.85x full (23/164)  |  1.35x post-ASG (10/59)
+        #     HS<10          1.05x full (14/81)   |  1.51x post-ASG ( 7/37)
+        #     HS 25-40       0.91x full (26/174)  |  0.56x post-ASG ( 4/57)  <- removed
+        # Post-ASG the narrowing flips the gate from 0.96x to 1.35x and drops a band
+        # running 0.56x. Full-window the gated effect is still not demonstrably
+        # positive at any threshold and all CIs straddle 1.0x, which is why the
+        # magnitude drops to +3% rather than staying at +6%. This keeps a small
+        # preference where the unconditional data is consistently strong (HS<10)
+        # without paying for a signal the gated evidence cannot confirm.
+        #
+        # NOTE: the SHARP LINE branch above deliberately still uses HS<40. Devers
+        # (Jul 18, HS29) is the validating case for that override and would be
+        # excluded by a <25 gate. Do not unify these two thresholds.
+        _cold_bat_boost = 1.03
         _ranking_score *= _cold_bat_boost
         _pre_notes.append(
-            f"❄️ COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<40 + qualifying HR gate "
+            f"❄️ ICE COLD BAT HR SIGNAL: HS={_hit_score_rs:.0f}<25 + qualifying HR gate "
             f"(PM{pm:.3f}/Pwr{_bp_score_rs:.0f}/PitchEdge) + Vu{_vuln_rs:.0f}≥42 — "
-            f"post-ASG pattern: cold bats produced 86% of HR getters Jul17-19; "
-            f"Jul20 normalizing (63%) — boost unified at +6% (post-ASG premium removed)."
+            f"74-slate recalibration: HS<10 runs 1.19x full / 1.36x last-10d; HS 25-40 "
+            f"is dead (0.93x full, 0.86x last-10d) and was removed from this gate. +3% ranking."
         )
 
     # ── Jul 24 2026: ICE_COLD_SUPER_VUL named grade ─────────────────────────────
@@ -15838,16 +15868,33 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Post-ASG mechanism: warm-up period suppresses pitching adjustments more in cold/night
     # games; batters with cold HS are resetting form and hitting for power in suppressive
     # contexts where their historical matchup advantage matters more than park amplification.
-    # Apply additional boost when cold bat + suppressive env fires in post-ASG window.
-    # Gate: HS<40 + Env<0.96 + is_post_asg — no minimum Vuln required (pattern holds across Vuln range)
+    # ── ❌ RETIRED Jul 28 2026: POST-ASG COLD+SUPPRESS (+8% ranking) ─────────────
+    # This was fit on Jul 17-21 and never held outside that window. 74-slate panel:
+    #
+    #   gate = HS<40 + Env<0.96          HR rate      lift    95% CI
+    #     FULL (May09-Jul27)             14.8% 107/725  0.89x  12.2%-17.3%
+    #     POST-ASG (Jul14+)              11.6%  18/155  0.92x   6.6%-16.7%
+    #     LAST 10d (Jul18+)              11.2%  17/152  0.90x   6.2%-16.2%
+    #     Jul 17-21 (the fitting window) 29.6%   8/27   1.93x  <- only window it works
+    #
+    # BELOW BASE IN EVERY OUT-OF-SAMPLE WINDOW, and the full-window CI excludes 1.0x
+    # on the low side. The original note claimed 33.3% (14/42, 2.16x); replaying the
+    # exact fitting window reproduces 29.6% (8/27, 1.93x), so the claim was roughly
+    # right about that window and simply never generalised. Textbook overfit: a
+    # 5-day, n=27 pattern promoted to a ranking multiplier.
+    #
+    # The multiplier is disabled. The detector is kept as a NEUTRAL note so the
+    # registry key keeps populating for post-mortems (same pattern used for the
+    # retired SCREAM HR / ERA Understated / Gate Override families on Jul 26).
     _post_asg_sup = getattr(batter, 'is_post_asg', False)
     _env_suppressive = env is not None and env < 0.96
     if _is_cold_bat_hr and _env_suppressive and _post_asg_sup:
-        _ranking_score *= 1.08   # +8% additional: cold bat + suppressive env in post-ASG
+        # NO ranking multiplier — retired Jul 28 2026.
         _pre_notes.append(
-            f"❄️🌡️ POST-ASG COLD+SUPPRESS: HS={_hit_score_rs:.0f}<40 + Env{env:.3f}<0.96 — "
-            f"backtest Jul17-21: cold+suppressive=33.3% HR (14/42, +2.16x) vs "
-            f"cold+positive=11.3% HR (11/97, 0.73x). POST-ASG INVERSION confirmed. +8% ranking."
+            f"❄️🌡️ cold+suppressive env (HS={_hit_score_rs:.0f}<40, Env{env:.3f}<0.96) — "
+            f"CONTEXT ONLY, no conviction credit. Retired Jul 28 2026: 0.89x full / "
+            f"0.90x last-10d on 74 slates (n=725). The 2.16x claim held only on the "
+            f"Jul17-21 window it was fit on (n=27). Do not cite as a positive signal."
         )
 
     # ── Score 66+ dead zone penalty (strengthened Jun 26 2026) ───────────────────
@@ -20142,6 +20189,92 @@ def _v3_ensure_calibrator(force=False, path="hr_calibrator.json"):
     return v3_fit_calibrator_from_history(out=_p, force=force)
 
 
+# ═══════════════════════════════════════════════════════════════════════════
+# 🎯 PERFECT-RATE TRACKING TIER (2026-07-27) — LOG ONLY, ZERO PICK INFLUENCE
+# ═══════════════════════════════════════════════════════════════════════════
+# Exhaustive depth-<=3 search over 174 predicates on the Jun 1+ window
+# (n=2,504 / 49 slates, base HR 17.01%) found 14 combinations at 100% HR with
+# n>=5. Unlike the archetype library, this result CLEARS its null:
+#     REAL          : 14 combinations at 100%
+#     SHUFFLED x10  : [1, 1, 1, 0, 1, 5, 0, 0, 0, 1]  mean 1.0, max 5
+#     p_empirical   : 0.00
+# The COUNT is what is significant, not any individual combination's rate.
+#
+# The 14 are NOT independent — they collapse to ~3 families after overlap:
+#   A. CONFIRMED MATCH + neutral park 1.00-1.05   (4 near-identical row sets)
+#   B. modest power 68-74 + cold/mid HS + low Sig (5 near-identical row sets)
+#   C. extreme PM >=1.10 + SUPER VUL 54-58 + park >=0.95
+#   D. HS 47-55 + Odds <350 + Vuln >=58
+#
+# ⚠️ EVERY ONE IS n=5-6. A 100% rate on six observations has a 95% CI of roughly
+# 54%-100%. These CANNOT support conviction or a stake. They exist to ELEVATE a
+# batter the posterior would otherwise bury (the Tyrone Taylor failure mode of
+# 2026-07-27), never to size a bet.
+#
+# PROMOTION RULE: track for 15-20 fresh slates. Promote only if the family holds
+# >=70% with n>=15, and only after a fresh permutation null on the new window.
+PERFECT_RATE_COMBOS = [
+    dict(id="PR-A1", family="A", n=6, slates=6,
+         desc="CONFIRMED MATCH + Park 1.00-1.05 + PM<1.10",
+         test=lambda f: (f.get("conf_match") and f.get("park") is not None
+                         and 1.00 <= f["park"] < 1.05
+                         and f.get("pm") is not None and f["pm"] < 1.10)),
+    dict(id="PR-A2", family="A", n=6, slates=6,
+         desc="CONFIRMED MATCH + Park 1.00-1.05 + Pwr<86",
+         test=lambda f: (f.get("conf_match") and f.get("park") is not None
+                         and 1.00 <= f["park"] < 1.05
+                         and f.get("power") is not None and f["power"] < 86)),
+    dict(id="PR-A3", family="A", n=5, slates=5,
+         desc="CONFIRMED MATCH + Park 1.00-1.05 + Odds>=+300",
+         test=lambda f: (f.get("conf_match") and f.get("park") is not None
+                         and 1.00 <= f["park"] < 1.05
+                         and f.get("odds") is not None and f["odds"] >= 300)),
+    dict(id="PR-B1", family="B", n=6, slates=6,
+         desc="Pwr 68-74 + HS<47 + Park 1.00-1.05",
+         test=lambda f: (f.get("power") is not None and 68 <= f["power"] < 74
+                         and f.get("hs") is not None and f["hs"] < 47
+                         and f.get("park") is not None and 1.00 <= f["park"] < 1.05)),
+    dict(id="PR-B2", family="B", n=6, slates=5,
+         desc="Pwr 68-74 + Odds<+450 + Sig<3",
+         test=lambda f: (f.get("power") is not None and 68 <= f["power"] < 74
+                         and f.get("odds") is not None and f["odds"] < 450
+                         and f.get("sig") is not None and f["sig"] < 3)),
+    dict(id="PR-B3", family="B", n=5, slates=5,
+         desc="Pwr 68-74 + HS<47 + Sig<3",
+         test=lambda f: (f.get("power") is not None and 68 <= f["power"] < 74
+                         and f.get("hs") is not None and f["hs"] < 47
+                         and f.get("sig") is not None and f["sig"] < 3)),
+    # LIVE RESULT 2026-07-27: fired on Ben Rice (NYY vs Schultz, +265, Park 0.97 /
+    # PM 1.100 / Vuln 54.6). He went 2-for-4 with two hits but NO home run.
+    # Record moves 6/6 -> 6/7 = 85.7%, 95% CI [50%, 98%], still 5.04x the 17.01%
+    # Jun1+ base. The "100%" label is retired for this combo on its FIRST forward
+    # observation, which is precisely why this tier was built log-only.
+    dict(id="PR-C1", family="C", n=7, slates=7, hits=6, rate=85.7, live_miss=1,
+         desc="Park>=0.95 + PM>=1.10 + Vuln 54-58",
+         test=lambda f: (f.get("park") is not None and f["park"] >= 0.95
+                         and f.get("pm") is not None and f["pm"] >= 1.10
+                         and f.get("vuln") is not None and 54 <= f["vuln"] < 58)),
+    dict(id="PR-D1", family="D", n=5, slates=4,
+         desc="HS 47-55 + Odds<+350 + Vuln>=58",
+         test=lambda f: (f.get("hs") is not None and 47 <= f["hs"] < 55
+                         and f.get("odds") is not None and f["odds"] < 350
+                         and f.get("vuln") is not None and f["vuln"] >= 58)),
+]
+
+
+def evaluate_perfect_rate(f):
+    """Return fired perfect-rate combos. LOG ONLY — never alters pick order."""
+    out = []
+    for c in PERFECT_RATE_COMBOS:
+        try:
+            if c["test"](f):
+                out.append(c)
+        except Exception:
+            pass
+    return out
+
+
+
 def v3_sweep_closing_lines(all_scores, slate_date, market="HR"):
     """Capture/freeze closing lines for every batter on the slate.
 
@@ -21889,6 +22022,23 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _arch_feats["pitch_vuln"] = float(_pitcher_target_score)
     if _pr_usage:
         _arch_feats["pitch_usage"] = float(_pr_usage)
+
+    # 🎯 PERFECT-RATE TRACKING — log only, zero conviction and zero ranking effect.
+    try:
+        _pr_feats = dict(park=_arch_feats.get("park"), pm=_arch_feats.get("pm"),
+                         power=_arch_feats.get("power"), hs=_arch_feats.get("hs"),
+                         sig=_arch_feats.get("sig"), odds=_arch_feats.get("odds"),
+                         vuln=_arch_feats.get("vuln"),
+                         conf_match=("CONFIRMED MATCH" in " ".join(str(x) for x in _arch_text_src)))
+        for _prc in evaluate_perfect_rate(_pr_feats):
+            flags.append(
+                f'🎯 {_prc["id"]} PERFECT-RATE TRACKING [{_prc["family"]}]: {_prc["desc"]} '
+                f'→ {_prc.get("rate", 100.0):.1f}% HR ({_prc.get("hits", _prc["n"])}/{_prc["n"]}, '
+                f'{_prc["slates"]}sl, Jun1+ window incl. live; null max 5, p=0.00). '
+                f'LOG ONLY — n is too small for conviction or a stake.'
+            )
+    except Exception:
+        pass
 
     _arch_hr_fired  = evaluate_archetypes(_arch_feats, "HR")
     _arch_hit_fired = evaluate_archetypes(_arch_feats, "HIT")
