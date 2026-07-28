@@ -1,96 +1,90 @@
-﻿"⚾  MLB HOME RUN MODEL  —  Monday, July 27, 2026",,,,,,,,,,,,,,,,,,
-"Top 86 HR Picks  |  10,000 Monte Carlo Sims  |  Power + Matchup + Bullpen + Vegas + PropLine Odds",,,,,,,,,,,,,,,,,,
+﻿"⚾  MLB HOME RUN MODEL  —  Tuesday, July 28, 2026",,,,,,,,,,,,,,,,,,
+"Top 80 HR Picks  |  10,000 Monte Carlo Sims  |  Power + Matchup + Bullpen + Vegas + PropLine Odds",,,,,,,,,,,,,,,,,,
 Rank,Batter,Status,Game Time,Team,Opp,Pitcher,HR Odds,HR Prob,"Score
 /100",Power,Vuln,"Pitch
 Match",Park,Env,Est PA,"Edge
 vs Mkt","Hit
 Score","Sig
 Score"
-🥇,Elly De La Cruz,✅ Conf,7:10 PM ET,CIN,CLE,Slade Cecconi,+280,0.2053,65.0,85.3,50.6,1.048,1.16,1.155,4.7,-5.8%,59.2,15
-🥈,Tyrone Taylor,✅ Conf,7:10 PM ET,NYM,ATL,Martín Pérez,+630,0.1991,65.0,83.7,52.1,1.048,0.94,0.998,4.1,+6.2%,43.6~,9
-🥉,Randy Arozarena,✅ Conf,2:35 PM ET,SEA,TEX,Kumar Rocker,+540,0.1953,65.0,78.8,49.3,1.033,1.08,1.101,4.4,+13.0%,63.6,4
-4,Corbin Carroll,✅ Conf,6:40 PM ET,ARI,PIT,Mitch Keller,+350,0.1844,65.0,86.3,52.9,1.053,0.96,0.953,4.6,+4.1%,40.2~,10
-5,Chase DeLauter,✅ Conf,7:10 PM ET,CLE,CIN,Chase Burns,+400,0.1775,65.0,79.5,34.5,1.033,1.2,1.195,4.4,+30.0%,51.9,3
-6,Matt Olson,✅ Conf,7:10 PM ET,ATL,NYM,Zac Thornton,+285,0.176,65.0,85.7,47.4,1.06,0.98,1.04,4.4,+13.5%,42.3~,9
-7,Otto Lopez,✅ Conf,6:40 PM ET,MIA,PHI,Zack Wheeler,+1060,0.174,65.0,78.9,32.2,1.039,0.91,0.91,4.6,+5.8%,45.0~,2
-8,Heriberto Hernández,✅ Conf,6:40 PM ET,MIA,PHI,Zack Wheeler,+600,0.1638,65.0,84.4,32.2,1.046,0.91,0.91,4.4,+0.4%,35.2★,12
-9,Pete Crow-Armstrong,✅ Conf,7:45 PM ET,CHC,STL,Matthew Liberatore,+390,0.1627,65.0,83.3,46.3,1.051,0.97,0.969,4.7,+21.0%,~32,9
-10,Pete Alonso,✅ Conf,6:40 PM ET,BAL,DET,Keider Montero,+350,0.1421,65.0,85.7,47.1,1.044,0.94,0.914,4.5,+18.1%,50.4,7
-11,Mike Trout,✅ Conf,9:38 PM ET,LAA,HOU,Tatsuya Imai,+340,0.1807,64.7,85.9,41.5,1.056,1.12,1.085,4.6,-4.3%,44.0~,14
-12,Kyle Schwarber,✅ Conf,6:40 PM ET,PHI,MIA,Tyler Phillips,+220,0.1975,64.5,88.0,53.0,1.085,0.85,0.85,4.5,+7.9%,50.5,6
-13,Ketel Marte,✅ Conf,6:40 PM ET,ARI,PIT,Mitch Keller,+400,0.1911,64.3,84.0,52.9,1.029,0.92,0.913,4.4,+2.8%,53.0,4
-14,Willson Contreras,✅ Conf,9:40 PM ET,BOS,ATH,Jack Perkins,+320,0.1791,63.5,87.9,45.3,1.095,0.95,0.9,4.5,+9.3%,1.7,3
-15,JJ Bleday,✅ Conf,7:10 PM ET,CIN,CLE,Slade Cecconi,+300,0.1952,63.3,84.0,50.6,1.023,1.2,1.195,4.6,-5.5%,45.6~,10
-16,Francisco Alvarez,✅ Conf,7:10 PM ET,NYM,ATL,Martín Pérez,+330,0.2296,63.1,88.0,52.1,1.099,0.98,1.04,4.6,+9.9%,63.9,6
-17,Luke Raley,✅ Conf,2:35 PM ET,SEA,TEX,Kumar Rocker,+500,0.1898,63.1,87.4,49.3,1.056,1.12,1.142,4.1,+2.3%,30.5,14
-18,Tyler Soderstrom,✅ Conf,9:40 PM ET,ATH,BOS,Payton Tolle,+350,0.1838,62.9,83.1,41.2,1.033,1.0,0.947,4.6,+7.8%,65.3,7
-19,Brandon Lowe,✅ Conf,6:40 PM ET,PIT,ARI,Merrill Kelly,+340,0.1505,62.9,84.9,51.8,1.048,0.96,0.953,4.6,+4.4%,43.4~,14
-20,Joc Pederson,✅ Conf,2:35 PM ET,TEX,SEA,George Kirby,+450,0.2281,62.5,82.4,46.6,1.047,1.12,1.142,4.6,-4.4%,49.4~,9
-21,Dominic Canzone,✅ Conf,2:35 PM ET,SEA,TEX,Kumar Rocker,+420,0.2306,62.3,86.6,49.3,1.064,1.12,1.142,4.4,+3.8%,45.0~,9
-22,Miguel Vargas,✅ Conf,7:40 PM ET,CWS,NYY,Max Fried,+390,0.15,61.8,88.0,40.0,1.074,0.93,0.891,4.5,+3.6%,39.9★,7
-23,Sal Stewart,✅ Conf,7:10 PM ET,CIN,CLE,Slade Cecconi,+300,0.1765,61.6,82.5,50.6,1.052,1.16,1.155,4.6,-7.3%,1.0,12
-24,Julio Rodríguez,✅ Conf,2:35 PM ET,SEA,TEX,Kumar Rocker,+450,0.1947,60.3,83.6,49.3,1.011,1.08,1.101,4.5,+6.2%,58.9,9
-25,Spencer Torkelson,✅ Conf,6:40 PM ET,DET,BAL,Kyle Bradish,+450,0.1193,59.8,82.6,44.5,1.023,0.94,0.914,4.3,+12.9%,9.4,6
-26,Riley Greene,✅ Conf,6:40 PM ET,DET,BAL,Kyle Bradish,+450,0.1506,59.7,86.3,44.5,1.067,0.98,0.952,4.4,+2.4%,38.8★,7
-27,Ben Rice,✅ Conf,7:40 PM ET,NYY,CWS,Noah Schultz,+265,0.2099,59.5,84.7,54.6,1.1,0.97,0.929,4.6,-0.8%,46.3~,4
-28,Kevin McGonigle,✅ Conf,6:40 PM ET,DET,BAL,Kyle Bradish,+560,0.1469,59.5,78.6,44.5,1.023,0.98,0.952,4.7,+16.6%,64.9,2
-29,Alec Burleson,✅ Conf,7:45 PM ET,STL,CHC,David Peterson,+600,0.2134,59.3,80.3,53.4,1.027,0.97,0.969,4.4,+6.1%,43.1~,6
-30,Jordan Walker,✅ Conf,7:45 PM ET,STL,CHC,David Peterson,+400,0.1714,59.3,88.0,53.4,1.004,0.93,0.929,4.6,+4.6%,2.0,1
-31,Nathaniel Lowe,✅ Conf,7:10 PM ET,CIN,CLE,Slade Cecconi,+400,0.1819,59.0,84.7,50.6,1.016,1.2,1.195,4.6,-1.8%,50.1,10
-32,Yordan Alvarez,✅ Conf,9:38 PM ET,HOU,LAA,Walbert Ureña,+220,0.1677,59.0,88.0,46.4,1.154,0.97,0.939,4.5,+7.7%,45.9~,9
-33,Esmerlyn Valdez,✅ Conf,6:40 PM ET,PIT,ARI,Merrill Kelly,+370,0.154,58.5,88.0,51.8,1.117,0.92,0.913,4.5,-5.9%,40.8~,7
-34,Brandon Marsh,✅ Conf,6:40 PM ET,PHI,MIA,Tyler Phillips,+680,0.1752,58.3,79.4,53.0,1.038,0.85,0.85,4.4,+9.5%,3.0,0
-35,Seiya Suzuki,✅ Conf,7:45 PM ET,CHC,STL,Matthew Liberatore,+390,0.1413,57.9,83.6,46.3,1.055,0.93,0.929,4.6,+9.8%,2.4,7
-36,José Ramírez,✅ Conf,7:10 PM ET,CLE,CIN,Chase Burns,+370,0.164,57.8,77.7,34.5,0.995,1.16,1.155,4.5,-2.5%,44.2~,3
-37,Drake Baldwin,✅ Conf,7:10 PM ET,ATL,NYM,Zac Thornton,+420,0.181,57.7,84.3,47.4,1.051,0.98,1.04,4.5,+9.7%,64.6,12
-38,Vladimir Guerrero Jr.,✅ Conf,6:45 PM ET,TOR,WSH,Eddy Yean,+540,0.1688,57.2,80.3,48.2,0.995,0.88,0.852,4.5,-3.7%,33.3,9
-39,Daulton Varsho,✅ Conf,6:45 PM ET,TOR,WSH,Eddy Yean,+680,0.1546,57.1,78.3,48.2,0.99,0.92,0.891,4.1,+10.8%,43.5~,2
-40,Munetaka Murakami,✅ Conf,7:40 PM ET,CWS,NYY,Max Fried,+350,0.1477,56.4,86.0,40.0,1.054,0.97,0.929,4.5,+6.7%,34.7,15
-41,Michael Busch,✅ Conf,7:45 PM ET,CHC,STL,Matthew Liberatore,+560,0.153,56.2,76.0,46.3,1.013,0.97,0.969,4.3,+15.5%,57.4,2
-42,JJ Wetherholt,✅ Conf,7:45 PM ET,STL,CHC,David Peterson,+750,0.1985,56.1,78.7,53.4,0.999,0.97,0.969,4.7,+7.9%,2.0,0
-43,Josh Lowe,✅ Conf,9:38 PM ET,LAA,HOU,Tatsuya Imai,+500,0.1422,54.5,80.6,41.5,1.004,0.97,0.939,4.2,-2.5%,1.0,4
-44,Luis Robert Jr.,✅ Conf,7:10 PM ET,NYM,ATL,Martín Pérez,+430,0.1935,54.4,83.5,52.1,0.987,0.94,0.998,4.4,+0.5%,22.2,4
-45,Kyle Stowers,✅ Conf,6:40 PM ET,MIA,PHI,Zack Wheeler,+430,0.1634,54.0,85.7,32.2,1.021,0.85,0.85,4.5,-3.6%,23.9,7
-46,Jeremy Peña,✅ Conf,9:38 PM ET,HOU,LAA,Walbert Ureña,+750,0.141,53.8,79.4,46.4,1.027,1.12,1.085,4.6,+14.1%,65.5,2
-47,Jo Adell,✅ Conf,9:38 PM ET,LAA,HOU,Tatsuya Imai,+400,0.1571,53.6,82.9,41.5,0.981,1.12,1.085,4.1,+0.4%,31.7,7
-48,Ryan O'Hearn,✅ Conf,6:40 PM ET,PIT,ARI,Merrill Kelly,+540,0.1527,52.7,78.3,51.8,1.03,0.96,0.953,4.4,+3.9%,~31,4
-49,George Springer,✅ Conf,6:45 PM ET,TOR,WSH,Eddy Yean,+520,0.156,52.0,79.6,48.2,0.996,0.88,0.852,4.4,+7.4%,42.7~,0
-50,Bryan Reynolds,✅ Conf,6:40 PM ET,PIT,ARI,Merrill Kelly,+460,0.146,52.0,79.8,51.8,1.035,0.92,0.913,4.5,+2.8%,29.0,0
-51,Tyler Locklear,✅ Conf,6:40 PM ET,ARI,PIT,Mitch Keller,+750,0.1912,51.8,86.4,52.9,1.109,0.92,0.913,4.1,+7.4%,35.7★,4
-52,Zach Neto,✅ Conf,9:38 PM ET,LAA,HOU,Tatsuya Imai,+400,0.1478,51.7,78.7,41.5,1.029,1.12,1.085,4.7,+6.5%,21.6,0
-53,Steven Kwan,✅ Conf,7:10 PM ET,CLE,CIN,Chase Burns,+1060,0.1896,51.6,88.0,34.5,0.952,1.2,1.195,4.6,+0.7%,51.4,8
-54,Christian Walker,✅ Conf,9:38 PM ET,HOU,LAA,Walbert Ureña,+500,0.1419,51.3,83.4,46.4,1.035,1.12,1.085,4.5,+4.2%,33.2,7
-55,Bryce Harper,✅ Conf,6:40 PM ET,PHI,MIA,Tyler Phillips,+430,0.2014,50.9,85.7,53.0,1.062,0.85,0.85,4.5,+1.2%,26.9,4
-56,CJ Abrams,✅ Conf,6:45 PM ET,WSH,TOR,Max Scherzer,+340,0.1755,50.9,85.7,62.2,1.084,0.92,0.891,4.5,-5.2%,45.3~,0
-57,Jonah Heim,✅ Conf,9:40 PM ET,ATH,BOS,Payton Tolle,+460,0.1601,50.5,80.7,41.2,1.015,0.95,0.9,4.5,+1.6%,40.1~,7
-58,Jake Burger,✅ Conf,2:35 PM ET,TEX,SEA,George Kirby,+470,0.1834,50.4,84.5,46.6,1.014,1.08,1.101,4.3,+3.7%,27.0,7
-59,Michael Harris II,✅ Conf,7:10 PM ET,ATL,NYM,Zac Thornton,+400,0.1801,50.0,84.9,47.4,1.067,0.98,1.04,4.3,+2.9%,56.4,7
-60,Jake Bauers,✅ Conf,9:45 PM ET,MIL,SF,Tyler Mahle,+470,0.1351,50.0,87.5,47.1,1.051,0.85,0.768,4.3,+10.3%,34.4,7
-61,Dillon Dingler,✅ Conf,6:40 PM ET,DET,BAL,Kyle Bradish,+600,0.1348,49.7,84.4,44.5,1.083,0.94,0.914,4.6,+26.8%,42.1~,2
-62,James Wood,✅ Conf,6:45 PM ET,WSH,TOR,Max Scherzer,+230,0.1951,49.3,88.0,62.2,1.115,0.92,0.891,4.7,-10.8%,56.4,0
-63,Willy Adames,✅ Conf,9:45 PM ET,SF,MIL,Brandon Sproat,+630,0.1058,49.0,81.2,45.8,1.014,0.8,0.723,4.0,+8.3%,37.1★,2
-64,Ildemaro Vargas,✅ Conf,6:40 PM ET,ARI,PIT,Mitch Keller,N/A,0.1863,48.6,82.5,52.9,0.914,0.92,0.913,4.5,-0.1%,~38,0
-65,Austin Riley,✅ Conf,7:10 PM ET,ATL,NYM,Zac Thornton,+350,0.1543,48.6,81.3,47.4,0.985,0.94,0.998,4.0,-6.8%,48.8~,0
-66,Kazuma Okamoto,✅ Conf,6:45 PM ET,TOR,WSH,Eddy Yean,N/A,0.138,48.6,83.6,48.2,1.032,0.88,0.852,4.1,+8.9%,14.6,0
-67,A.J. Ewing,✅ Conf,7:10 PM ET,NYM,ATL,Martín Pérez,+700,0.1929,48.2,78.7,52.1,0.999,0.98,1.04,4.7,+8.6%,42.9~,0
-68,Randal Grichuk,✅ Conf,7:40 PM ET,CWS,NYY,Max Fried,+480,0.1353,47.4,86.4,40.0,1.034,0.93,0.891,4.6,-5.4%,17.1,0
-69,Ezequiel Duran,✅ Conf,2:35 PM ET,TEX,SEA,George Kirby,+800,0.1624,47.3,77.6,46.6,0.991,1.12,1.142,4.0,+18.2%,65.5,2
-70,Iván Herrera,✅ Conf,7:45 PM ET,STL,CHC,David Peterson,+750,0.181,47.2,79.0,53.4,1.001,0.93,0.929,4.5,+4.5%,39.6★,0
-71,Jazz Chisholm Jr.,✅ Conf,7:40 PM ET,NYY,CWS,Noah Schultz,+420,0.1613,46.3,80.3,54.6,1.0,0.97,0.929,4.1,+17.9%,37.7★,0
-72,Jarren Duran,✅ Conf,9:40 PM ET,BOS,ATH,Jack Perkins,+520,0.1487,46.2,79.3,45.3,0.979,1.0,0.947,4.1,-3.7%,30.9,0
-73,Lawrence Butler,✅ Conf,9:40 PM ET,ATH,BOS,Payton Tolle,+800,0.152,45.5,75.1,41.2,0.953,1.0,0.947,3.8,-0.3%,4.4,0
-74,Bryce Eldridge,✅ Conf,9:45 PM ET,SF,MIL,Brandon Sproat,+480,0.132,45.5,83.8,45.8,1.074,0.85,0.768,4.5,-4.0%,32.2,0
-75,Ian Happ,✅ Conf,7:45 PM ET,CHC,STL,Matthew Liberatore,+430,0.1316,45.4,78.5,46.3,0.992,0.93,0.929,4.1,+11.4%,43.6~,2
-76,Jackson Chourio,✅ Conf,9:45 PM ET,MIL,SF,Tyler Mahle,+500,0.1174,45.4,84.8,47.1,1.049,0.8,0.723,4.6,+4.1%,1.0,0
-77,Nelson Velázquez,✅ Conf,7:45 PM ET,STL,CHC,David Peterson,+560,0.167,42.8,86.3,53.4,1.023,0.93,0.929,4.2,+1.6%,5.4,0
-78,Curtis Mead,✅ Conf,9:40 PM ET,BOS,ATH,Jack Perkins,+470,0.1829,41.2,80.0,45.3,1.029,0.95,0.9,4.6,+6.2%,2.4,3
-79,Wilyer Abreu,✅ Conf,9:40 PM ET,BOS,ATH,Jack Perkins,+310,0.1782,41.0,82.4,45.3,1.033,1.0,0.947,4.5,-4.9%,1.0,3
-80,Francisco Lindor,✅ Conf,7:10 PM ET,NYM,ATL,Martín Pérez,+400,0.1937,40.9,78.5,52.1,0.981,0.94,0.998,4.6,-0.6%,1.0,0
-81,Gunnar Henderson,✅ Conf,6:40 PM ET,BAL,DET,Keider Montero,+460,0.1316,40.4,80.4,47.1,0.986,0.98,0.952,4.4,+6.1%,44.6~,6
-82,Trea Turner,✅ Conf,6:40 PM ET,PHI,MIA,Tyler Phillips,+680,0.1928,40.2,78.4,53.0,0.997,0.91,0.91,4.6,+0.7%,39.5★,0
-83,Casey Schmitt,✅ Conf,9:45 PM ET,SF,MIL,Brandon Sproat,+560,0.1187,39.7,83.9,45.8,1.038,0.8,0.723,4.3,+25.9%,40.6~,7
-84,Colby Thomas,✅ Conf,9:40 PM ET,ATH,BOS,Payton Tolle,+520,0.1347,39.2,81.9,41.2,1.002,0.95,0.9,4.4,-2.7%,1.0,3
-85,Luis García Jr.,✅ Conf,6:45 PM ET,WSH,TOR,Max Scherzer,+320,0.1752,37.3,86.5,62.2,1.071,0.92,0.891,4.7,-6.3%,2.4,0
-86,Coby Mayo,✅ Conf,6:40 PM ET,BAL,DET,Keider Montero,N/A,0.1201,36.5,80.4,47.1,0.987,0.94,0.914,4.0,+3.2%,~5,0
+🥇,Curtis Mead,📋 Proj,9:40 PM ET,BOS,ATH,Gage Jump,+475,0.1893,68.0,82.7,50.1,1.051,0.95,0.9,4.7,+9.2%,2.5,12
+🥈,Shohei Ohtani,📋 Proj,10:10 PM ET,LAD,SEA,Luis Castillo,+215,0.1988,65.0,86.5,56.9,1.077,1.0,1.05,4.8,+10.6%,1.0,3
+🥉,Nick Kurtz,📋 Proj,9:40 PM ET,ATH,BOS,Jake Bennett,+300,0.1857,65.0,87.5,49.3,1.054,1.0,0.948,4.6,+6.2%,10.9,12
+4,Matt Olson,📋 Proj,7:10 PM ET,ATL,NYM,Christian Scott,+300,0.1742,65.0,88.0,41.1,1.077,0.98,0.916,4.4,+1.3%,24.6,9
+5,Brice Turang,📋 Proj,9:45 PM ET,MIL,SF,Landen Roupp,+900,0.1609,65.0,78.7,44.4,1.037,0.85,0.776,4.4,-0.7%,42.5~,2
+6,Bryce Harper,📋 Proj,6:40 PM ET,PHI,MIA,Sandy Alcantara,+470,0.1878,64.4,85.9,44.9,1.066,0.85,0.85,4.4,-0.2%,33.7,7
+7,Jake Bauers,📋 Proj,9:45 PM ET,MIL,SF,Landen Roupp,+600,0.1657,64.3,87.4,44.4,1.052,0.85,0.776,4.3,+5.2%,30.7,13
+8,Sal Stewart,📋 Proj,1:40 PM ET,CIN,CLE,Slade Cecconi,+350,0.1779,64.0,82.5,50.3,1.052,1.16,1.257,4.6,-4.4%,1.0,12
+9,Mike Trout,📋 Proj,9:38 PM ET,LAA,HOU,Peter Lambert,+300,0.1877,63.9,85.8,44.0,1.056,1.12,1.088,4.6,+10.4%,45.5~,12
+10,Tyrone Taylor,📋 Proj,7:10 PM ET,NYM,ATL,Chris Sale,+800,0.1409,63.6,84.4,29.8,1.055,0.94,0.879,4.0,+6.7%,35.8★,7
+11,Ben Rice,📋 Proj,7:40 PM ET,NYY,CWS,Anthony Kay,+320,0.1863,63.0,84.6,49.2,1.1,0.97,0.913,4.5,+0.9%,47.2~,9
+12,Miguel Vargas,📋 Proj,7:40 PM ET,CWS,NYY,Gerrit Cole,+340,0.1667,63.0,86.8,40.7,1.051,0.93,0.875,4.4,+7.3%,45.1~,15
+13,Drake Baldwin,📋 Proj,7:10 PM ET,ATL,NYM,Christian Scott,+370,0.1797,62.9,85.9,41.1,1.067,0.98,0.916,4.5,+8.3%,54.0,9
+14,Jake Burger,📋 Proj,6:40 PM ET,TEX,TB,Griffin Jax,+440,0.1413,62.6,84.7,37.9,1.016,0.91,0.91,4.2,+7.0%,36.0★,7
+15,Wilyer Abreu,📋 Proj,9:40 PM ET,BOS,ATH,Gage Jump,+400,0.1913,62.3,84.4,50.1,1.063,1.0,0.948,4.5,+6.2%,1.0,6
+16,Max Muncy,📋 Proj,10:10 PM ET,LAD,SEA,Luis Castillo,+300,0.1792,62.3,83.2,56.9,1.034,1.0,1.05,4.5,+8.7%,34.4,6
+17,Otto Lopez,📋 Proj,6:40 PM ET,MIA,PHI,Aaron Nola,+1000,0.1746,61.7,79.0,47.0,1.042,0.91,0.91,4.6,+8.4%,2.4,6
+18,Kyle Tucker,📋 Proj,10:10 PM ET,LAD,SEA,Luis Castillo,+480,0.1654,61.3,76.4,56.9,0.98,1.0,1.05,4.2,-5.8%,32.0,1
+19,JJ Bleday,📋 Proj,7:10 PM ET,CIN,CLE,Gavin Williams,+285,0.1824,61.1,84.0,36.7,1.023,1.2,1.3,4.5,+2.8%,40.6~,8
+20,Jo Adell,📋 Proj,9:38 PM ET,LAA,HOU,Peter Lambert,+450,0.1664,60.9,82.9,44.0,0.982,1.12,1.088,4.2,+8.9%,39.8★,9
+21,Colby Thomas,📋 Proj,9:40 PM ET,ATH,BOS,Jake Bennett,+600,0.1787,60.5,81.8,49.3,1.096,0.95,0.9,4.2,-3.8%,8.3,6
+22,Mookie Betts,📋 Proj,10:10 PM ET,LAD,SEA,Luis Castillo,+500,0.1725,60.4,81.2,56.9,1.023,1.0,1.05,4.4,+10.0%,28.4,6
+23,Alec Burleson,📋 Proj,7:45 PM ET,STL,CHC,Colin Rea,+430,0.2082,60.0,84.1,54.0,1.068,0.97,0.963,4.5,+13.0%,21.8,6
+24,Pete Alonso,📋 Proj,6:40 PM ET,BAL,DET,Troy Melton,+285,0.1363,59.9,85.8,41.0,1.045,0.94,0.88,4.5,+17.4%,48.9~,7
+25,Byron Buxton,📋 Proj,7:40 PM ET,MIN,KC,Seth Lugo,+265,0.1778,59.5,88.0,56.0,1.106,0.95,1.027,4.6,-9.6%,9.6,1
+26,Jahmai Jones,📋 Proj,9:40 PM ET,BOS,ATH,Gage Jump,+285,0.1682,59.1,82.2,50.1,0.935,0.95,0.9,4.1,-9.2%,12.6,6
+27,Brandon Lowe,📋 Proj,6:40 PM ET,PIT,ARI,Brandon Pfaadt,+360,0.1523,58.6,84.8,49.8,1.048,0.96,1.05,4.6,+4.2%,36.4★,14
+28,Seiya Suzuki,📋 Proj,7:45 PM ET,CHC,STL,M McGreevy,+450,0.1622,58.1,81.9,53.7,1.032,0.93,0.923,4.6,+6.8%,68.7,6
+29,Brandon Nimmo,📋 Proj,6:40 PM ET,TEX,TB,Griffin Jax,+520,0.1635,57.9,81.5,37.9,1.04,0.95,0.95,4.3,+0.2%,47.7~,12
+30,Kody Clemens,📋 Proj,7:40 PM ET,MIN,KC,Seth Lugo,+340,0.198,57.5,83.6,56.0,1.04,0.99,1.07,4.4,+2.8%,45.8~,4
+31,Romy Gonzalez,📋 Proj,9:40 PM ET,BOS,ATH,Gage Jump,+390,0.1523,56.8,80.4,50.1,0.98,0.95,0.9,4.2,-5.2%,3.8,6
+32,Joc Pederson,📋 Proj,6:40 PM ET,TEX,TB,Griffin Jax,+440,0.1699,56.5,83.0,37.9,1.05,0.95,0.95,4.5,-5.4%,46.4~,12
+33,Isaac Collins,📋 Proj,7:40 PM ET,KC,MIN,Taj Bradley,+900,0.1733,56.3,78.2,41.9,0.976,0.95,1.027,3.9,+2.1%,42.6~,0
+34,Trea Turner,📋 Proj,6:40 PM ET,PHI,MIA,Sandy Alcantara,+870,0.1734,54.9,78.4,44.9,0.996,0.91,0.91,4.6,-1.3%,25.4,0
+35,Brandon Marsh,📋 Proj,6:40 PM ET,PHI,MIA,Sandy Alcantara,+750,0.1567,54.4,79.4,44.9,1.033,0.85,0.85,4.3,+9.5%,1.0,0
+36,Ketel Marte,📋 Proj,6:40 PM ET,ARI,PIT,Bubba Chandler,+390,0.1536,54.4,83.9,47.1,1.028,0.92,1.006,4.4,-5.9%,52.9,7
+37,JJ Wetherholt,📋 Proj,7:45 PM ET,STL,CHC,Colin Rea,+560,0.2032,54.3,79.5,54.0,1.004,0.97,0.963,4.7,-10.0%,39.3★,0
+38,Lane Thomas,📋 Proj,7:40 PM ET,KC,MIN,Taj Bradley,+500,0.1698,53.5,79.5,41.9,0.989,0.95,1.027,4.5,+2.9%,19.5,0
+39,Carter Jensen,📋 Proj,7:40 PM ET,KC,MIN,Taj Bradley,+350,0.1658,53.5,82.3,41.9,1.006,0.99,1.07,4.6,+1.1%,19.0,4
+40,Cam Smith,📋 Proj,9:38 PM ET,HOU,LAA,Reid Detmers,+600,0.1374,53.1,85.0,40.9,0.942,1.12,1.088,4.0,+13.9%,3.0,6
+41,Zach Neto,📋 Proj,9:38 PM ET,LAA,HOU,Peter Lambert,+350,0.156,52.8,78.8,44.0,1.029,1.12,1.088,4.7,+5.9%,46.5~,0
+42,Sam Antonacci,📋 Proj,7:40 PM ET,CWS,NYY,Gerrit Cole,+600,0.1512,52.3,75.9,40.7,1.021,0.97,0.913,4.6,+14.1%,26.3,2
+43,James Wood,📋 Proj,6:45 PM ET,WSH,TOR,Shane Bieber,+320,0.1707,52.2,88.0,52.3,1.122,0.92,0.972,4.7,+6.7%,61.5,6
+44,Ozzie Albies,📋 Proj,7:10 PM ET,ATL,NYM,Christian Scott,+600,0.1332,52.1,75.6,41.1,0.984,0.94,0.879,4.4,+3.8%,50.7,0
+45,Jose Altuve,📋 Proj,9:38 PM ET,HOU,LAA,Reid Detmers,+560,0.1409,52.0,72.5,40.9,0.985,1.12,1.088,4.4,+3.3%,17.0,0
+46,Joe Mack,📋 Proj,6:40 PM ET,MIA,PHI,Aaron Nola,+800,0.1635,51.1,82.9,47.0,1.054,0.85,0.85,4.0,+5.2%,19.5,9
+47,Ryan O'Hearn,📋 Proj,6:40 PM ET,PIT,ARI,Brandon Pfaadt,+520,0.1525,50.9,78.2,49.8,1.028,0.96,1.05,4.4,+3.9%,~30,2
+48,Austin Riley,📋 Proj,7:10 PM ET,ATL,NYM,Christian Scott,+500,0.145,50.9,82.9,41.1,0.993,0.94,0.879,4.0,-1.8%,27.9,7
+49,Steven Kwan,📋 Proj,1:40 PM ET,CLE,CIN,Chase Burns,+1060,0.1941,50.8,88.0,38.5,0.952,1.2,1.3,4.6,+0.7%,51.4,8
+50,Kyle Stowers,📋 Proj,6:40 PM ET,MIA,PHI,Aaron Nola,+360,0.1704,50.6,85.5,47.0,1.021,0.85,0.85,4.6,+1.7%,41.3~,7
+51,Jordan Walker,📋 Proj,7:45 PM ET,STL,CHC,Colin Rea,+420,0.1679,50.3,88.0,54.0,0.998,0.93,0.923,4.6,+5.8%,2.0,3
+52,Jonah Heim,📋 Proj,9:40 PM ET,ATH,BOS,Jake Bennett,+520,0.186,50.1,80.8,49.3,1.019,0.95,0.9,4.5,+3.4%,47.1~,9
+53,Rafael Devers,📋 Proj,9:45 PM ET,SF,MIL,Logan Henderson,+390,0.1455,49.6,84.0,35.1,1.036,0.85,0.776,4.3,-4.4%,21.0,0
+54,Jorge Soler,📋 Proj,9:38 PM ET,LAA,HOU,Peter Lambert,+360,0.1527,49.5,82.8,44.0,1.003,1.12,1.088,4.4,+0.2%,21.6,0
+55,Cal Raleigh,📋 Proj,10:10 PM ET,SEA,LAD,J Wrobleski,+285,0.148,48.2,79.6,47.4,0.951,1.0,1.05,4.3,-10.8%,20.9,0
+56,Riley Greene,📋 Proj,6:40 PM ET,DET,BAL,Dean Kremer,+330,0.1578,47.7,86.3,47.4,1.067,0.98,0.917,4.4,+2.2%,37.8★,0
+57,Zach Dezenzo,📋 Proj,9:38 PM ET,HOU,LAA,Reid Detmers,+750,0.1503,47.6,80.9,40.9,1.004,1.12,1.088,3.9,+3.3%,12.1,0
+58,Isaac Paredes,📋 Proj,9:38 PM ET,HOU,LAA,Reid Detmers,+500,0.1409,47.5,73.7,40.9,1.001,1.12,1.088,4.4,-3.2%,36.4★,0
+59,Lars Nootbaar,📋 Proj,7:45 PM ET,STL,CHC,Colin Rea,+560,0.2005,47.1,80.3,54.0,1.009,0.97,0.963,4.3,+6.6%,36.3★,0
+60,Mickey Moniak,📋 Proj,9:40 PM ET,COL,SD,Michael King,+430,0.1346,47.1,86.4,38.0,1.052,0.9,0.927,4.5,-5.4%,44.0~,2
+61,Luis Arraez,📋 Proj,9:45 PM ET,SF,MIL,Logan Henderson,+1060,0.159,47.0,88.0,35.1,0.973,0.85,0.776,4.6,+6.6%,10.8,0
+62,Ryan Jeffers,📋 Proj,7:40 PM ET,MIN,KC,Seth Lugo,+470,0.1926,46.6,85.4,56.0,1.051,0.95,1.027,4.6,+1.7%,58.8,0
+63,Luis Robert,📋 Proj,7:10 PM ET,NYM,ATL,Chris Sale,+560,0.1186,46.6,50.3,29.8,1.018,0.94,0.879,4.3,-3.3%,15.0,0
+64,Dane Myers,📋 Proj,1:40 PM ET,CIN,CLE,Slade Cecconi,+630,0.1742,46.5,76.2,50.3,0.963,1.16,1.257,4.1,+3.7%,25.7,1
+65,Marcus Semien,📋 Proj,7:10 PM ET,NYM,ATL,Chris Sale,+750,0.1319,45.7,75.8,29.8,0.985,0.94,0.879,3.9,-9.7%,20.7,4
+66,Trent Grisham,📋 Proj,7:40 PM ET,NYY,CWS,Anthony Kay,+460,0.1535,42.9,79.4,49.2,1.007,0.97,0.913,4.1,+1.4%,1.0,0
+67,Cooper Pratt,📋 Proj,9:45 PM ET,MIL,SF,Landen Roupp,+1300,0.1438,42.9,78.4,44.4,0.994,0.8,0.73,3.9,+7.2%,29.5,0
+68,Mitch Garver,📋 Proj,10:10 PM ET,SEA,LAD,J Wrobleski,+525,0.1491,42.5,78.0,47.4,0.973,1.0,1.05,4.1,-0.5%,6.2,0
+69,Willy Adames,📋 Proj,9:45 PM ET,SF,MIL,Logan Henderson,+600,0.1233,42.3,81.3,35.1,1.015,0.8,0.73,4.3,+3.0%,34.7,6
+70,Amed Rosario,📋 Proj,7:40 PM ET,NYY,CWS,Anthony Kay,+630,0.1355,42.2,81.8,49.2,0.988,0.93,0.875,4.4,-0.1%,27.5,6
+71,N. Lowe,📋 Proj,7:10 PM ET,CIN,CLE,Gavin Williams,+600,0.1553,41.6,50.8,36.7,1.028,1.2,1.3,4.3,+1.2%,47.5~,1
+72,Cole Young,📋 Proj,10:10 PM ET,SEA,LAD,J Wrobleski,+630,0.1583,41.3,76.2,47.4,0.977,1.0,1.05,4.6,+10.4%,37.8★,2
+73,Henry Bolte,📋 Proj,9:40 PM ET,ATH,BOS,Jake Bennett,+600,0.1511,40.4,80.6,49.3,0.976,0.95,0.9,3.8,-5.6%,1.0,5
+74,Dylan Beavers,📋 Proj,6:40 PM ET,BAL,DET,Troy Melton,+600,0.1284,40.1,78.3,41.0,0.976,0.98,0.917,4.6,+0.6%,39.1★,0
+75,Michael Busch,📋 Proj,7:45 PM ET,CHC,STL,M McGreevy,+500,0.1558,39.7,76.6,53.7,1.016,0.97,0.963,4.5,-7.3%,50.0,0
+76,Max Schuemann,📋 Proj,7:40 PM ET,NYY,CWS,Anthony Kay,+750,0.1501,39.5,80.4,49.2,1.017,0.93,0.875,4.0,+3.2%,2.4,3
+77,M. Murakami,📋 Proj,7:40 PM ET,CWS,NYY,Gerrit Cole,+265,0.1396,39.4,55.1,40.7,1.041,0.97,0.913,4.5,-13.4%,47.7~,7
+78,TJ Rumfield,📋 Proj,9:40 PM ET,COL,SD,Michael King,+830,0.1282,39.3,76.9,38.0,1.034,0.9,0.927,4.3,+4.8%,54.8,2
+79,Nick Gonzales,📋 Proj,6:40 PM ET,PIT,ARI,Brandon Pfaadt,+1000,0.145,39.2,72.8,49.8,0.993,0.92,1.006,4.4,+8.1%,41.6~,2
+80,Ty France,📋 Proj,9:40 PM ET,SD,COL,Michael Lorenzen,+560,0.1474,38.7,83.1,53.6,1.047,0.86,0.886,4.5,+5.8%,64.6,9
 ,,,,,,,,,,,,,,,,,,
 COLOUR SCALE:  HR NAME CELL (6-signal): Sharp(all5)+BothElite+SharpLineMvt+PM1.04+Pwr63+PM1.04+Vuln47-52+HotTemp  |  HIT SCORE: Cold+PM≥1.03=66.2%(🔥 57-sl) · HS35-40+Sig1-5=82.3%(🔥 57-sl) · HS40-47+Sig1-5=69.5%(57-sl) · SWEET★(35-39)=64% · HS47+=below base  |  SIG SCORE(0-20): ≥12=🟩Elite · ≥8=🟢Strong · ≥5=🟡Amber · ≥1=pale · 0=grey · Vuln48-52=sweet · Vuln42-44=always↓grade · Vuln45-48=↓grade(Sc60+only) · Vuln44-45=positive · EliteArm=no edge  |  🎯DP SHARP=PM≥1.04+DPedge+V48-52+Pwr78+Sc40+Park≥0.93(May21:1/1 100%) · 🎯HR=5-signal(Mkt+PM+V48-52+Pwr78+vsOpp55%+Sc≥40) | 🎯HIT=WHR≥70%+Cons≥60% | SigScore=HR-only (Sig=0 can still be top hit pick — check Hit Props tab)  ||  ❄️ drops hit tier -2  · ~NN = stats-based HS (no market data)  · [FD/Con] = odds source tag,,,,,,,,,,,,,,,,,,
