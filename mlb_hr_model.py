@@ -19586,6 +19586,12 @@ ARCHETYPE_QUAL_PATTERNS = {
     "Q_SIG_PM":          r"SIG\+PM HR|Sig\+PM",
     "Q_BACKTEST_NOTE":   r"BACKTEST:",
     "Q_SHORT_START":     r"short start",
+    # ── Perfect-combo tracker markers (Jul 28 2026) ──────────────────────────
+    "Q_ELITE_CONTACT":   r"ELITE CONTACT PROFILE",
+    # ⚠️ SCREAM HR is a RETIRED grade (14.5% HR / 0.88x, n=117). Its detector
+    # still emits a neutral legacy flag so registry keys keep populating. This
+    # marker exists ONLY so PERF02 can be tracked — it is not a revival.
+    "Q_SCREAM_HR":       r"SCREAM HR",
 }
 
 # Numerics that live only inside the rationale text, not in the quant columns.
@@ -19601,7 +19607,31 @@ ARCHETYPE_NUM_PATTERNS = {
     "pf_hh":       r"HH%:([\d.]+)%>40%",
     "pf_pull":     r"Pull%:([\d.]+)%>30%",
     "pf_barrel":   r"Barrel%:([\d.]+)%>15%",
+    # ── PF gate audit (Jul 28 2026): remaining five gates, validated 0 mismatches
+    # against 542 parsed rows / 4,878 gate checks in FantasyLabsMLB.csv.
+    "pf_air":      r"Air%:([\d.]+)%>50%",
+    "pf_gb":       r"GB%:([\d.]+)%<40%",
+    "pf_pullbrl":  r"PullBrl%:([\d.]+)%?>10",
+    "pf_fb":       r"FB%:([\d.]+)%>35%",
+    "pf_blast":    r"Blast%:([\d.]+)%>15%",
 }
+
+# ── 🧪 PROPFINDER GATE FAMILIES (Jul 28 2026 audit, 23 slates / 521 rows) ─────
+# Finding 1: ISO>0.2 and Pull%>30 pass 97.7% / 97.9% of the time. They carry no
+#            discriminating variance — any X/9 they inflate is really X/7.
+# Finding 2: the seven live gates split into two families with OPPOSITE signs.
+#            AIR family (Air%, GB%, Blast%) carries information the model does
+#            not already have. PULL family (Barrel%, PullBrl%, FB%, HH%) is
+#            collinear with Power/PM — passing it adds nothing and, on high-power
+#            bats, is actively negative (PullBrl% −10.6 pts at Pwr≥84).
+# Finding 3: gate count is NON-MONOTONIC. 9/9 runs 0.88x. The failure is
+#            conditional: Vuln<47 + 8-9 gates = 0.62x, and it held 0.57x pre-ASG
+#            / 0.80x post. PropFinder cannot rescue a bad matchup.
+PF_AIR_FAMILY  = ("pf_air", "pf_gb", "pf_blast")
+PF_PULL_FAMILY = ("pf_barrel", "pf_pullbrl", "pf_fb", "pf_hh")
+PF_LIVE_GATES  = PF_AIR_FAMILY + PF_PULL_FAMILY          # the 7 non-inert gates
+PF_INERT_GATES = ("pf_iso", "pf_pull")                   # 97.7% / 97.9% pass
+PF_VULN_FLOOR  = 47.0                                    # below this PF is inert
 
 
 def _arch_ge(f, k, v):     return f.get(k) is not None and f[k] >= v
@@ -19785,6 +19815,147 @@ HR_ARCHETYPES = [
       test=lambda f: (_arch_ge(f,"hr_prob",0.20) and _arch_ge(f,"pf_barrel",20)
                       and _arch_ge(f,"pf_gates",7) and _arch_ge(f,"pf_iso",0.30)
                       and _arch_ge(f,"score",60))),
+
+ # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
+ # Source: FantasyLabsMLB.csv, 23 slates (Jul 1-27), 521 rows w/ outcomes.
+ # Universe base HR 15.16%. These replace gate-COUNT logic with gate-FAMILY logic.
+ dict(id="HR17", name="PF-Air Contrarian", tier="B", conv_boost=0,
+      vars="3-Variable: 1 Quant + 2 PF-Family",
+      stack="PF-AIR≥2/3 + PF-PULL≤1/4 + Vuln≥47",
+      rate=30.2, lift=1.99, n=53, hits=16, slates=21, p=0.0025, ci=(1.30, 2.90),
+      half1=None, half2=None, asg="1.97x post (vs 1.96x pre)", window="07-01→07-27",
+      why=("⭐ BEST PF construct in the audit on breadth — 21 of 23 slates, 40 unique "
+           "batters, and lift essentially IDENTICAL either side of the ASG break "
+           "(1.96x → 1.97x). No other PropFinder gate or count is that flat. "
+           "Mechanism: the AIR gates (Air%/GB%/Blast%) tell you the ball is being "
+           "elevated; the PULL gates (Barrel%/PullBrl%/FB%/HH%) are collinear with "
+           "Power and PM, which the score already prices. Demanding air WITHOUT pull "
+           "isolates the elevation signal from the power signal the model double-counts. "
+           "PROMOTE at n≥80 with ≥55 unique batters if lift holds ≥1.7x."),
+      test=lambda f: (_arch_ge(f,"pf_air_n",2) and _arch_lt(f,"pf_pull_n",2)
+                      and _arch_ge(f,"vuln",47))),
+
+ dict(id="HR18", name="PF-Air Super-Vuln Elite  ⚠️DECAYING", tier="B", conv_boost=0,
+      vars="2-Variable: 1 Quant + 1 PF-Gate",
+      stack="PF Air%>50 ✅ + Vuln≥52",
+      rate=32.7, lift=2.16, n=52, hits=17, slates=21, p=0.0006, ci=(1.42, 3.15),
+      half1=44.4, half2=26.5, asg="2.00x post (vs 2.61x pre)", window="07-01→07-27",
+      why=("Highest headline lift of any single PF gate crossed with vuln, and Air% is "
+           "the only gate with positive conditional lift in EVERY context tested "
+           "(+5.3 overall, +8.5 at Vuln≥47, +12.7 at Vuln≥52, +9.2 at Env≥1.03). "
+           "⚠️ But it is decaying — 2.61x pre-ASG to 2.00x post. Still above base in "
+           "both halves, so it tracks rather than dies. Prefer HR17 where they conflict: "
+           "HR17 is flat across the break, this one is not."),
+      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52))),
+
+ dict(id="HR19", name="PF Pull-Fail Vuln Value", tier="B", conv_boost=0,
+      vars="3-Variable: 1 Quant + 2 PF-Gate",
+      stack="PF PullBrl%>10 ❌ + PF Barrel%>15 ❌ + Vuln≥47",
+      rate=22.6, lift=1.49, n=106, hits=24, slates=22, p=0.0144, ci=(1.09, 2.03),
+      half1=None, half2=None, asg="1.77x post (vs 1.29x pre)", window="07-01→07-27",
+      why=("⚠️ ADVERSARIAL — this fires on FAILED gates. Largest n and widest batter "
+           "spread (73 unique) of any PF construct, and it is the only one IMPROVING "
+           "post-ASG (1.29x → 1.77x). Mechanism: Barrel% and PullBrl% passing is what "
+           "an already-expensive power bat looks like, so the market has priced it. "
+           "Failing them in a live matchup is the underpriced version of the same spot. "
+           "Modest lift by design — treat as a value screen, not a conviction driver."),
+      test=lambda f: (f.get("pf_pullbrl") is None and f.get("pf_barrel") is None
+                      and _arch_ge(f,"vuln",47))),
+
+ # ══ 🎖️ PERFECT-COMBO TRACKER (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
+ # The only 2-4 way predicate stacks that ran 100% HR at n>=5 since June 1, from
+ # an exhaustive scan of 62 quant+qual predicates over 2,692 rows / 51 slates /
+ # 287 batters (base HR 17.09%).
+ #
+ # ⚠️⚠️ READ THIS BEFORE TRUSTING ANY OF THEM. A within-slate permutation null
+ # (HR outcomes shuffled, 12 trials) produced 0 to 6 perfect combos at n>=5 by
+ # CHANCE. Six were observed. Every one of these sits inside the noise band.
+ # At n>=8 the file contains ZERO 100% combos; at n>=15 it contains zero >=75%.
+ # Across all six there are only ~13 distinct batters — Soto appears in three,
+ # Alvarez in three, Alonso in two. These are not independent observations.
+ # They are logged so they accrue an honest live record, NOT because they are
+ # established. Tier B: no conv credit, no rank change, cannot trigger the
+ # Tier-A confluence must-play.
+ dict(id="PERF01", name="Z-Contact Cold Super-Vuln", tier="B", conv_boost=0,
+      vars="4-Variable: 3 Quant + 1 Qual",
+      stack="Z-CONTACT BOOST + Vuln≥54 + Score≥60 + HS<40",
+      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
+      half1=100.0, half2=100.0, asg="1/1 post (Marte Jul 26)", window="06-22→07-26",
+      why=("5/5, 4 unique batters. Cold bat (HS<40) with zone-contact confirmation "
+           "against a super-vulnerable arm. ONE post-ASG fire and it converted. "
+           "Fires roughly once per 10 slates. n=5 cannot distinguish a 100% signal "
+           "from a 50% one — track, do not elevate."),
+      test=lambda f: (_arch_on(f,"Q_ZCONTACT") and _arch_ge(f,"vuln",54)
+                      and _arch_ge(f,"score",60) and _arch_lt(f,"hs",40))),
+
+ dict(id="PERF02", name="Scream-HR Long-Odds Warm Bat  ⚠️RETIRED-GRADE", tier="B", conv_boost=0,
+      vars="4-Variable: 3 Quant + 1 Qual",
+      stack="SCREAM HR + Odds≥+400 + Env≥1.00 + HS≥47",
+      rate=100.0, lift=5.85, n=5, hits=5, slates=4, p=0.0001, ci=(1.0, 5.85),
+      half1=100.0, half2=None, asg="0 fires post-ASG", window="06-10→06-16",
+      why=("⚠️ HEAVILY DISCOUNTED — DO NOT PROMOTE UNDER ANY CIRCUMSTANCES. Built on "
+           "SCREAM HR, retired Jul 26 at 14.5% HR / 0.88x (n=117). All five fires are "
+           "Jun 10-16 and it has not fired since. Three of the five rows are below the "
+           "Vuln≥47 Layer 1 gate (Chourio at Vu=30.8, two at Vu=46.8) and would come "
+           "off the board under the locked methodology. A pre-retirement artifact, "
+           "logged for the record only."),
+      test=lambda f: (_arch_on(f,"Q_SCREAM_HR") and _arch_ge(f,"odds",400)
+                      and _arch_ge(f,"env",1.00) and _arch_ge(f,"hs",47))),
+
+ dict(id="PERF03", name="Elite-Contact Short-Price Vuln Lock", tier="B", conv_boost=0,
+      vars="4-Variable: 3 Quant + 1 Qual",
+      stack="ELITE CONTACT PROFILE + Vuln≥52 + Odds<+300 + Env≥1.00",
+      rate=100.0, lift=5.85, n=6, hits=6, slates=6, p=2.5e-5, ci=(1.0, 5.85),
+      half1=100.0, half2=100.0, asg="2/2 post (Alvarez Jul 20 2HR, Abrams Jul 21 2HR)",
+      window="07-06→07-21",
+      why=("⭐ THE ONLY ONE WITH A REAL POST-ASG CLAIM. 6/6 over 6 slates, 5 batters, "
+           "and both post-break fires were MULTI-HR games. Structure matches the spine "
+           "every 3x+ combo in the June-1+ file shares: top-tier vulnerability plus a "
+           "short price. Ohtani/Soto/Alvarez/Bleday/Alvarez/Abrams. Still only n=6 and "
+           "still inside the permutation noise band — PROMOTE at n≥20 with ≥12 unique "
+           "batters if it holds ≥60%."),
+      test=lambda f: (_arch_on(f,"Q_ELITE_CONTACT") and _arch_ge(f,"vuln",52)
+                      and _arch_lt(f,"odds",300) and _arch_ge(f,"env",1.00))),
+
+ dict(id="PERF04", name="Elite-Contact Short-Price SUPER-Vuln  [PERF03 subset]", tier="B", conv_boost=0,
+      vars="4-Variable: 3 Quant + 1 Qual",
+      stack="ELITE CONTACT PROFILE + Vuln≥54 + Odds<+300 + Env≥1.00",
+      rate=100.0, lift=5.85, n=6, hits=6, slates=6, p=2.5e-5, ci=(1.0, 5.85),
+      half1=100.0, half2=100.0, asg="2/2 post (same rows as PERF03)", window="07-06→07-21",
+      why=("⚠️ CURRENTLY DEGENERATE — selects the IDENTICAL six rows as PERF03, because "
+           "every PERF03 batter also cleared Vuln≥54. It is a strict subset, NOT an "
+           "independent signal. If PERF03 and PERF04 both appear on a pick card that is "
+           "ONE signal, not two. Kept separate only so the ≥52 and ≥54 thresholds can "
+           "diverge in future data and tell us which one is load-bearing."),
+      test=lambda f: (_arch_on(f,"Q_ELITE_CONTACT") and _arch_ge(f,"vuln",54)
+                      and _arch_lt(f,"odds",300) and _arch_ge(f,"env",1.00))),
+
+ dict(id="PERF05", name="Super-Vuln Hot-Bat Boosted Env", tier="B", conv_boost=0,
+      vars="4-Variable: 4 Quant",
+      stack="Vuln≥54 + PM≥1.05 + Env≥1.05 + HS≥47",
+      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
+      half1=100.0, half2=None, asg="1 post-ASG fire, outcome NOT recorded", window="06-13→07-22",
+      why=("5/5 on rows WITH recorded outcomes. ⚠️ It has fired 6 times, not 5 — the most "
+           "recent was Carlos Cortes vs Merrill Kelly, 2026-07-22 (confirmed lineup, "
+           "Vu 55.2, PM 1.092, Env 1.069, odds unposted), and FantasyLabsMLB.csv carries "
+           "no Hits/Home Runs value for that row. So the post-ASG record is unknown, not "
+           "zero. Pure quant — no qualitative marker. Shares four of five scored rows "
+           "with PERF06 (Alonso, Soto), so the two are closer to one signal than two."),
+      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_ge(f,"pm",1.05)
+                      and _arch_ge(f,"env",1.05) and _arch_ge(f,"hs",47))),
+
+ dict(id="PERF06", name="Super-Vuln Hot-Bat High-Conviction", tier="B", conv_boost=0,
+      vars="4-Variable: 4 Quant",
+      stack="Vuln≥54 + PM≥1.05 + HS≥47 + Conv≥60",
+      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
+      half1=100.0, half2=None, asg="1 post-ASG fire, outcome NOT recorded", window="06-28→07-22",
+      why=("5/5 on rows WITH recorded outcomes. ⚠️ Same caveat as PERF05 — it fired a 6th "
+           "time on Carlos Cortes 2026-07-22 and the CSV has no outcome for that row, so "
+           "post-ASG is unknown rather than zero. Swaps PERF05's env gate for conviction. "
+           "Only 4 unique scored batters and Soto is two of the five rows. Heavy overlap "
+           "with PERF05 — treat a joint fire as one signal."),
+      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_ge(f,"pm",1.05)
+                      and _arch_ge(f,"hs",47) and _arch_ge(f,"conv",60))),
 ]
 
 
@@ -19942,6 +20113,40 @@ HIT_ARCHETYPES = [
       why="Large model edge in a non-suppressive park. Flat split-half, 7/7 post-ASG.",
       test=lambda f: (_arch_ge(f,"edge",20.0) and _arch_ge(f,"park",1.00)
                       and _arch_ge(f,"power",68) and _arch_ge(f,"score",55))),
+
+ # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
+ # Universe base HIT 61.04%. The AIR family is a CONTACT-QUALITY signal, not a
+ # power signal — it separates hits far harder than it separates home runs.
+ dict(id="HT17", name="PF-Air Vuln Lock", tier="B", conv_boost=0,
+      vars="3-Variable: 2 Quant + 1 PF-Gate",
+      stack="PF Air%>50 ✅ + Vuln≥52 + Pwr≥84",
+      rate=100.0, lift=1.64, n=25, hits=25, slates=14, p=1.6e-5, ci=(1.45, 1.64),
+      half1=100.0, half2=100.0, asg="100% (both halves)", window="07-01→07-27",
+      why=("25-for-25 on the hit card across 14 slates, perfect in BOTH halves. The "
+           "same 25 also homered at 40.0% (2.64x). Air% is what separates this from the "
+           "coin flip: inside the identical Vuln≥52 + Pwr≥84 pool, Air%✅ runs 100% "
+           "(25/25) and Air%❌ runs 61.1% (11/18) — a 39-point gap on hits but only 7 "
+           "points on HR, which is why this is a HIT archetype and not an HR one. "
+           "⚠️ DO NOT PROMOTE ON THE HEADLINE. Only 17 unique batters (Carroll ×3; "
+           "Abrams/Soto/Alvarez/Bleday/Conine/Hernández ×2), and Jul 27 alone supplies "
+           "4 of the 25 — these are not 25 independent trials. Pwr≥84 + Vuln≥52 already "
+           "selects bats with a high unconditional hit rate (83.7% before any gate). "
+           "Expect regression to high-80s/low-90s. PROMOTE at n≥40 AND ≥25 unique "
+           "batters AND sustained ≥85%."),
+      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52)
+                      and _arch_ge(f,"power",84))),
+
+ dict(id="HT18", name="PF-Air Vuln Contact Broad", tier="B", conv_boost=0,
+      vars="2-Variable: 1 Quant + 1 PF-Gate",
+      stack="PF Air%>50 ✅ + Vuln≥52",
+      rate=86.5, lift=1.42, n=52, hits=45, slates=21, p=1.2e-4, ci=(1.25, 1.55),
+      half1=88.9, half2=85.3, asg="85.3% post (vs 88.9% pre)", window="07-01→07-27",
+      why=("The de-clustered version of HT17 — drops the Pwr≥84 gate, doubles n to 52 "
+           "and lifts unique batters to 39 across 21 slates, at the cost of 13.5 points "
+           "of hit rate. Split-half is nearly flat (88.9 → 85.3). Track BOTH: if HT17 "
+           "regresses toward this number, the Pwr≥84 gate was selection noise; if HT17 "
+           "holds its separation, the power gate is real."),
+      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52))),
 ]
 
 ARCHETYPES = {"HR": HR_ARCHETYPES, "HIT": HIT_ARCHETYPES}
@@ -19977,6 +20182,18 @@ def build_archetype_features(sc, notes_iterable=None, **quant):
                 f[k] = None
         else:
             f[k] = None
+
+    # ── 🧪 DERIVED PROPFINDER FEATURES (Jul 28 2026 gate audit) ──────────────
+    # A gate "passes" iff its pass-form pattern matched. Absent = failed, which
+    # is exactly how the compact PropFinder line encodes it (only passers print).
+    f["pf_air_n"]  = sum(1 for _g in PF_AIR_FAMILY  if f.get(_g) is not None)
+    f["pf_pull_n"] = sum(1 for _g in PF_PULL_FAMILY if f.get(_g) is not None)
+    f["pf7"]       = f["pf_air_n"] + f["pf_pull_n"]
+    f["pf_inert_gates_passed"] = sum(1 for _g in PF_INERT_GATES if f.get(_g) is not None)
+    # PropFinder is only informative inside a live matchup. Below the floor the
+    # gates invert (0.62x at 8-9/9). This is a CONTEXT FLAG, never a suppression.
+    f["pf_ctx_live"]  = (f.get("vuln") is not None and f["vuln"] >= PF_VULN_FLOOR)
+    f["pf_ctx_inert"] = (f.get("vuln") is not None and f["vuln"] <  PF_VULN_FLOOR)
     return f
 
 
@@ -22144,6 +22361,67 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             + ("  [TRACKING]" if _a["tier"] == "B" else "")
         )
 
+    # ── 🎖️ PERFECT-COMBO TRACKER SURFACING (Jul 28 2026) ────────────────────
+    # These MUST be visible on the pick card whenever they fire — that is the
+    # entire point of tracking them. Zero conviction credit, zero rank effect;
+    # a banner line so the fire is impossible to miss during pick generation.
+    _perf_fired = [a for a in _arch_hr_fired if a["id"].startswith("PERF")]
+    if _perf_fired:
+        # PERF04 is a strict subset of PERF03; PERF05/PERF06 overlap 4 of 5 rows.
+        # Collapse so a joint fire is never mistaken for independent confirmation.
+        _perf_ids = {a["id"] for a in _perf_fired}
+        _perf_independent = len(_perf_ids - ({"PERF04"} if "PERF03" in _perf_ids else set())
+                                           - ({"PERF06"} if "PERF05" in _perf_ids else set()))
+        _firing_grades.append(
+            "🎖️🎖️ PERFECT-COMBO TRACKER FIRED — "
+            + ", ".join(f'{a["id"]} ({a["name"]})' for a in _perf_fired)
+            + f" · {_perf_independent} independent signal(s)"
+            + " · ⚠️ TRACKING ONLY, NO CONV CREDIT. Each ran 100% HR at n=5-6 since "
+              "Jun 1, but a within-slate permutation null produces 0-6 such combos by "
+              "CHANCE (6 observed) — these sit inside the noise band. At n≥8 the file "
+              "has ZERO 100% combos. Surface it, weigh it, do not treat it as a lock."
+        )
+        flags.append(
+            "🎖️ PERFECT-COMBO: " + ", ".join(sorted(_perf_ids))
+            + (" [PERF04⊂PERF03 — one signal]" if {"PERF03","PERF04"} <= _perf_ids else "")
+            + (" [PERF05≈PERF06 — one signal]" if {"PERF05","PERF06"} <= _perf_ids else "")
+        )
+        if "PERF02" in _perf_ids:
+            flags.append(
+                "⚠️ PERF02 rests on SCREAM HR, RETIRED Jul 26 (14.5% HR / 0.88x, n=117). "
+                "Zero fires since Jun 16. Do not weigh this as a positive."
+            )
+
+    # ── 🧪 PROPFINDER GATE-FAMILY READOUT (Jul 28 2026 audit) ────────────────
+    # Reported on every batter that has a PropFinder block. This is DIAGNOSTIC
+    # ONLY — zero conviction credit, zero effect on rank, zero suppression.
+    # It exists so the family counts accrue live rates alongside the X/9 display.
+    if _arch_feats.get("pf7") is not None and (
+            _arch_feats.get("pf_air_n") or _arch_feats.get("pf_pull_n")
+            or _arch_feats.get("pf_gates") is not None):
+        _pf_air_n  = _arch_feats.get("pf_air_n", 0)
+        _pf_pull_n = _arch_feats.get("pf_pull_n", 0)
+        flags.append(
+            f"🧪 PF FAMILY: AIR {_pf_air_n}/3 · PULL {_pf_pull_n}/4 · "
+            f"PF7 {_arch_feats.get('pf7', 0)}/7 "
+            f"(ISO/Pull% excluded — 97.7%/97.9% pass, no discriminating variance)"
+        )
+        # Air-family dose response (HR): 0/3 = 0.55x · 1/3 = 0.82x · 2/3 = 1.31x · 3/3 = 1.05x
+        # Pull-family dose response (HR): 0/4 = 1.30x · 1/4 = 1.03x · 2/4 = 0.94x · 4/4 = 0.86x
+        if _pf_air_n >= 2 and _pf_pull_n == 0:
+            flags.append(
+                "🧪 PF AIR-WITHOUT-PULL PROFILE — air≥2/3 with pull 0/4 → 28.6% HR "
+                "(1.88x, n=35), improving post-ASG (1.60x → 2.33x). [TRACKING]"
+            )
+        if _arch_feats.get("pf_ctx_inert"):
+            flags.append(
+                f"⚠️ PF INERT (Vu<{PF_VULN_FLOOR:.0f}) — PropFinder gates do not "
+                "discriminate below the vuln floor. Vuln<47 + 8-9 gates = 9.5% HR "
+                "(0.62x, n=95), held 0.57x pre-ASG / 0.80x post. A high gate count "
+                "here is NOT a reason to elevate. Context note only — no suppression, "
+                "no rank change, pick stays on the board."
+            )
+
     # ── CONFLUENCE TIER — the strongest signal in the whole library ───────────
     # 2+ Tier-A HR archetypes = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8, 6.08x).
     # 2+ Tier-A HIT archetypes = 100% hit (1.60x, n=39).
@@ -24040,12 +24318,15 @@ def _load_grade_stats() -> dict:
         (f"archetype_{_aid.lower()}",
          (lambda _a: (lambda p: _a in str(_g(p, "hr_grade") or "")))(_aid))
         for _aid in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08",
-                     "HR09","HR10","HR11","HR12","HR13","HR14","HR15","HR16")
+                     "HR09","HR10","HR11","HR12","HR13","HR14","HR15","HR16",
+                     "HR17","HR18","HR19",
+                     "PERF01","PERF02","PERF03","PERF04","PERF05","PERF06")
     ] + [
         (f"archetype_{_aid.lower()}",
          (lambda _a: (lambda p: _a in str(_g(p, "flags") or "")))(_aid))
         for _aid in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08",
-                     "HT09","HT10","HT11","HT12","HT13","HT14","HT15","HT16")
+                     "HT09","HT10","HT11","HT12","HT13","HT14","HT15","HT16",
+                     "HT17","HT18")
     ] + [
         ("archetype_hr_tierA",   lambda p: any(_a in str(_g(p,"hr_grade") or "")
                                     for _a in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08"))),
@@ -24055,6 +24336,17 @@ def _load_grade_stats() -> dict:
                                     if _a in str(_g(p,"hr_grade") or "")) >= 3),
         ("archetype_hit_tierA",  lambda p: any(_a in str(_g(p,"flags") or "")
                                     for _a in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08"))),
+        # ── 🧪 PF gate-audit tracking rollups (Jul 28 2026) ──────────────────
+        ("pf_audit_hr_any",   lambda p: any(_a in str(_g(p,"hr_grade") or "")
+                                    for _a in ("HR17","HR18","HR19"))),
+        ("pf_audit_hit_any",  lambda p: any(_a in str(_g(p,"flags") or "")
+                                    for _a in ("HT17","HT18"))),
+        ("pf_ctx_inert",      lambda p: "PF INERT" in str(_g(p,"flags") or "")),
+        # ── 🎖️ Perfect-combo tracker rollups (Jul 28 2026) ───────────────────
+        ("perfect_combo_any", lambda p: any(_a in str(_g(p,"hr_grade") or "")
+                                    for _a in ("PERF01","PERF02","PERF03","PERF04","PERF05","PERF06"))),
+        ("perfect_combo_live", lambda p: any(_a in str(_g(p,"hr_grade") or "")
+                                    for _a in ("PERF01","PERF03","PERF04"))),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last5), _fmt_hr(subset, all_set))
@@ -25716,6 +26008,35 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🥇 Any 2+ grades",       "Batter fires 2 or more independent grade signals",                                               _a2g_l5,  _a2g_all),
         ("📊 Any 1 grade",         "Single grade fires",                                                                              _ag_l5,   _ag_all),
         # ═══ 🧬 STACKED ARCHETYPE LIBRARY (Jul 26 2026) ═══
+        ("🎖️ PERFECT-COMBO TRACKER (Jul 28 2026)",
+         "The six 2-4 way predicate stacks that ran 100% HR at n>=5 since Jun 1, from an "
+         "exhaustive scan of 62 quant+qual predicates over 2,692 rows / 51 slates / 287 "
+         "batters (base 17.09%). ⚠️ ALL SIX SIT INSIDE THE NOISE BAND: a within-slate "
+         "permutation null produced 0-6 perfect combos by chance and six were observed. "
+         "At n>=8 the file contains ZERO 100% combos; at n>=15, zero above 75%. Only ~13 "
+         "distinct batters across all six (Soto in three, Alvarez in three, Alonso in "
+         "two). PERF03 is the only one with a SCORED post-ASG claim (2/2, both multi-HR); "
+         "PERF01 is 1/1 (Marte Jul 26); PERF05/PERF06 each fired once post-ASG (Cortes "
+         "Jul 22) with NO outcome recorded in the CSV — unknown, not zero. "
+         "PERF04 is a strict SUBSET of PERF03 and PERF05/PERF06 share 4 of 5 rows — a "
+         "joint fire is ONE signal. PERF02 rests on the retired SCREAM HR grade and has "
+         "not fired since Jun 16. Tier B throughout: surfaced on the card, zero conviction "
+         "credit, cannot trigger the Tier-A confluence must-play.",
+         "6 combos · n=5-6 each", "100% HR — but inside the noise band"),
+        ("🧪 PROPFINDER GATE AUDIT (Jul 28 2026)",
+         "23 slates (Jul 1-27), 521 rows w/ outcomes, base HR 15.16% / HIT 61.04%. "
+         "THREE FINDINGS. (1) ISO>0.2 and Pull%>30 pass 97.7% and 97.9% of the time — "
+         "no discriminating variance, so X/9 is really X/7 plus two freebies. "
+         "(2) The seven live gates split into two families with OPPOSITE signs: AIR "
+         "(Air%/GB%/Blast%) is positive in every context tested, PULL "
+         "(Barrel%/PullBrl%/FB%/HH%) is null-to-negative and turns most negative on "
+         "exactly the high-Power/high-PM bats where the model already prices that "
+         "information. (3) Gate count is NON-MONOTONIC — 9/9 runs 0.88x while 4-5/9 "
+         "runs 1.15x — and the failure is conditional on matchup: Vuln<47 with 8-9 "
+         "gates = 0.62x. PropFinder cannot rescue a bad matchup. Everything shipped "
+         "from this audit is TIER B TRACKING with zero conviction credit; the legacy "
+         "X/9 display and every archetype gating on it (HT05, HR16) are UNCHANGED.",
+         "23 slates · 521 rows", "9/9 = 0.88x · Vu<47+8-9 gates = 0.62x"),
         ("🧬 ARCHETYPE ENGINE — HOW IT WORKS",
          "Mined from the 72-slate merged CSV (n=3,446; base HR 16.45%%, base HIT 62.51%%) by beam search over 366 predicates stacking QUANTITATIVE bands on QUALITATIVE note/flag markers, depth 1-10. Four survival gates: Fisher p<0.01; slate-level bootstrap 5th-pct lift ≥1.6x HR / ≥1.12x HIT; split-half stability (BOTH halves of its own window beat base); Jaccard<0.35 vs every other keeper. TIER A = promote (conviction credit). TIER B = track (zero credit, promote at n≥40). ⚠️ Post-ASG the slate HR base fell 16.45%%→10.64%% — Tier A held 2.17-2.75x but absolute rates fell to 25-30%%.",
          "Tier A HR: 52.0%%/3.16x n=125", "Tier A HIT: 92.3%%/1.48x n=181"),
@@ -25850,6 +26171,23 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🔥 PWR-VULN-ENV HR",       "elite"),   # 2.87x primary (50%, n=16, pkl Jun24)
         ("🎯 SUPP-PARK SWEET-PM HR","elite"),   # 4.40x (33.3%, n=18, pkl Jun25)
         # ══ 🧬 ARCHETYPES (Jul 26 2026) — Tier A all "elite"; every one ≥3.4x ══
+        # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — diagnostic, zero credit ══
+        ("🎖️🎖️ PERFECT-COMBO TRACKER FIRED", "situational"),
+        ("🎖️ PERFECT-COMBO",                "situational"),
+        ("🧬 PERF01 Z-Contact Cold Super-Vuln", "situational"),
+        ("🧬 PERF02 Scream-HR Long-Odds Warm Bat", "situational"),
+        ("🧬 PERF03 Elite-Contact Short-Price Vuln Lock", "situational"),
+        ("🧬 PERF04 Elite-Contact Short-Price SUPER-Vuln", "situational"),
+        ("🧬 PERF05 Super-Vuln Hot-Bat Boosted Env", "situational"),
+        ("🧬 PERF06 Super-Vuln Hot-Bat High-Conviction", "situational"),
+        ("🧪 PF FAMILY",                    "situational"),
+        ("🧪 PF AIR-WITHOUT-PULL PROFILE",  "situational"),
+        ("⚠️ PF INERT",                     "situational"),
+        ("🧬 HR17 PF-Air Contrarian",       "situational"),
+        ("🧬 HR18 PF-Air Super-Vuln Elite", "situational"),
+        ("🧬 HR19 PF Pull-Fail Vuln Value", "situational"),
+        ("🎯 HT17 PF-Air Vuln Lock",        "situational"),
+        ("🎯 HT18 PF-Air Vuln Contact Broad","situational"),
         ("🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE", "elite"),   # 6.08x (100%, n=8)
         ("🧬🧬 ARCHETYPE DOUBLE CONFLUENCE",  "elite"),   # 4.75x (78.1%, n=32)
         ("🧬 HR01",                  "elite"),   # 4.05x (66.7%, n=21)
