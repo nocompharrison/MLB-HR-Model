@@ -9526,6 +9526,84 @@ def build_batter_default(name, overrides, hr_props) -> BatterProfile:
     return b
 
 
+# ── DailyPitch LONG→WIDE PIVOT (2026-07-27) ───────────────────────────────────
+# WHY THIS EXISTS. build_pitcher() reads woba_allowed_fb / woba_allowed_brk /
+# woba_allowed_off and barrel_ff / barrel_si / barrel_brk / barrel_off from the
+# pitcher stats row. NONE of those columns exist in any current sheet, so every
+# value defaulted to 0.0 and PITCH HR CONCENTRATION (added Jul 11, conv +6) had
+# NEVER FIRED — diagnostic reported woba_allowed_si=0 for all pitchers.
+#
+# The data was always present, just in LONG format. DailyPitch carries one row
+# per pitcher x pitch_type with columns: pitch_type, woba, est_woba, slg,
+# est_slg, hard_hit_percent, pitch_usage. load_daily_pitch() already pivots it
+# into daily_pitcher_pitch = {player_id: {"SI": {woba_allowed, hh_pct, ...}}}.
+# That dict was simply never connected to PitcherProfile.
+#
+# Statcast pitch codes are mapped to the model's four buckets:
+#   FF/FA -> ff (four-seam)      SI/FT -> si (sinker/two-seam)
+#   SL/ST/SV/FC/CU/KC/CS -> sl (breaking)   CH/FS/FO/SC -> ch (offspeed)
+# Where several codes map to one bucket, the USAGE-WEIGHTED mean is taken so a
+# 2%-usage sweeper cannot outweigh a 30%-usage slider.
+
+_DP_PITCH_BUCKET = {
+    "FF": "ff", "FA": "ff",
+    "SI": "si", "FT": "si",
+    "SL": "sl", "ST": "sl", "SV": "sl", "FC": "sl",
+    "CU": "sl", "KC": "sl", "CS": "sl", "KN": "sl",
+    "CH": "ch", "FS": "ch", "FO": "ch", "SC": "ch",
+}
+
+
+def apply_dailypitch_pivot(prof, player_id, daily_pitcher_pitch, verbose=False) -> bool:
+    """Populate woba_allowed_* / barrel_pct_* on a PitcherProfile from the pivot.
+
+    Returns True if anything was written. Safe no-op when the pitcher is absent.
+    """
+    if not daily_pitcher_pitch or player_id in (None, "", 0):
+        return False
+    try:
+        pid = int(player_id)
+    except (TypeError, ValueError):
+        return False
+    pitches = daily_pitcher_pitch.get(pid)
+    if not pitches:
+        return False
+
+    acc = {}
+    for code, d in pitches.items():
+        b = _DP_PITCH_BUCKET.get(str(code).strip().upper())
+        if not b:
+            continue
+        try:
+            usage = float(d.get("usage_pct") or 0.0)
+            woba  = float(d.get("woba_allowed") or 0.0)
+            hh    = float(d.get("hh_pct") or 0.0)
+        except (TypeError, ValueError):
+            continue
+        if woba <= 0 and hh <= 0:
+            continue
+        w = max(usage, 0.1)                      # usage-weighted; never zero-weight
+        a = acc.setdefault(b, {"w": 0.0, "woba": 0.0, "hh": 0.0})
+        a["w"] += w; a["woba"] += woba * w; a["hh"] += hh * w
+
+    wrote = False
+    for b, a in acc.items():
+        if a["w"] <= 0:
+            continue
+        wv = a["woba"] / a["w"]
+        hv = a["hh"] / a["w"]
+        if wv > 0:
+            setattr(prof, f"woba_allowed_{b}", round(wv, 4)); wrote = True
+        # hard-hit% is the best available proxy for barrel% at pitch-type level;
+        # the sheet carries no true barrel column. Scaled to a barrel-like range.
+        if hv > 0:
+            setattr(prof, f"barrel_pct_{b}", round(hv * 0.28, 2)); wrote = True
+    if wrote and verbose:
+        print(f"     pivot: {prof.name} -> " + " ".join(
+            f"{b}:{getattr(prof,'woba_allowed_'+b,0):.3f}" for b in sorted(acc)))
+    return wrote
+
+
 def build_pitcher(name, row, hand_fallback, team_fallback, overrides) -> PitcherProfile:
     p = PitcherProfile(
         name=name,
@@ -9539,8 +9617,14 @@ def build_pitcher(name, row, hand_fallback, team_fallback, overrides) -> Pitcher
         hr9_vs_lhb    =_g(row,"hr9_vs_lhb", default=0.0) or 0.0,
         hr9_vs_rhb    =_g(row,"hr9_vs_rhb", default=0.0) or 0.0,
         meatball_pct  =_g(row,"Meatball%",  default=0.0) or 0.0,
-        woba_allowed_ff =_g(row,"woba_allowed_fb", default=0.0) or 0.0,
-        woba_allowed_si =_g(row,"woba_allowed_fb", default=0.0) or 0.0,
+        # ⚠️ BUG FIXED 2026-07-27: woba_allowed_ff and woba_allowed_si both read
+        # "woba_allowed_fb", so four-seam and sinker were identical by construction —
+        # which would have silently corrupted PITCH HR CONC even once data existed.
+        # These row-sourced columns do NOT exist in any current sheet; the real
+        # values are applied post-construction from the DailyPitch pivot (see
+        # apply_dailypitch_pivot below). Kept only as a legacy fallback.
+        woba_allowed_ff =_g(row,"woba_allowed_ff", "woba_allowed_fb", default=0.0) or 0.0,
+        woba_allowed_si =_g(row,"woba_allowed_si", "woba_allowed_sink", default=0.0) or 0.0,
         woba_allowed_sl =_g(row,"woba_allowed_brk",default=0.0) or 0.0,
         woba_allowed_ch =_g(row,"woba_allowed_off",default=0.0) or 0.0,
         barrel_pct_ff   =_g(row,"barrel_ff",  default=0.0) or 0.0,
@@ -29623,6 +29707,7 @@ def main():
             daily_batter = {}
         daily_pitch         = {}   # batter pitch-type wOBA/SLG by pitch
         daily_pitcher_pitch = {}   # pitcher arsenal usage% by pitch type
+        _DP_PIVOT_APPLIED   = 0    # count of pitchers enriched by the long->wide pivot
         try:
             daily_pitcher_pitch, daily_pitch = load_daily_pitch(FANTASYLABS_FILE)
         except Exception as e:
@@ -30285,6 +30370,19 @@ def main():
                 pitcher_cache[pname] = build_pitcher(pname, _p_row, phand, pteam, ov)
             else:
                 pitcher_cache[pname] = build_pitcher_default(pname, phand, pteam, ov)
+
+            # ── Apply the DailyPitch long->wide pivot (2026-07-27) ────────────
+            # Populates woba_allowed_ff/si/sl/ch + barrel_pct_* which the sheet
+            # columns never supplied. Without this PITCH HR CONC cannot fire.
+            try:
+                _pv_pid = (ov.get("player_id")
+                           or (_p_row.get("player_id") if _p_row is not None else None)
+                           or _name_to_pid.get(_norm_p(pname)) if "_name_to_pid" in dir() else None)
+                if _pv_pid:
+                    _DP_PIVOT_APPLIED += int(apply_dailypitch_pivot(
+                        pitcher_cache[pname], _pv_pid, daily_pitcher_pitch))
+            except Exception:
+                pass
 
             # ── Apply discipline data (CSW%, O-Swing%, Z-Contact%, SIERA) ────
             if _disc_data and pname in _disc_data:
