@@ -22088,6 +22088,35 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                 f"p=1.4e-03) · hit side 100% 9/9 (1.60x). ⚠️ TRACKING ONLY, NO CONV CREDIT — "
                 f"fails FDR across 4,916 combos tested; July-only window; Jaccard 0.67 vs STACK+MATCH combo."
             )
+        # HR20 SHORT-PRICE L2 BLOWUP — replicated from a second model's backtest,
+        # re-verified here on the full batter universe (see registry note).
+        try:
+            _sgt_odds = float(str(odds).replace("+", "").replace(",", "").strip())
+        except Exception:
+            _sgt_odds = 0.0
+        if ("EXTREME L2" in _sgt_text) and (0 < _sgt_odds <= 285.0):
+            _sgt_sp = _grade_rate("short_price_l2_blowup_hr", "41.2%  7/17")
+            _firing_grades.append(
+                f"🎖️ HR20 SHORT-PRICE L2 BLOWUP: EXTREME L2 BLOWUP + Odds≤+285 → {_sgt_sp} HR "
+                f"(mined 41.2% 7/17, 2.36x, 14sl, p=0.018; split-half 25%→56%, improving). "
+                f"⚠️ TRACKING ONLY, NO CONV CREDIT — bootstrap 5th-pct 1.05x vs the 1.60x gate. "
+                f"Vuln-band exclusion deliberately NOT applied: strips 2 of 17 rows incl. one HR, "
+                f"and no 44-52 trap exists on this file (inside 0.97x vs outside 1.03x)."
+            )
+        # HR21 SUPER-VUL PM-GAP HIGH SCORE
+        if (vuln is not None and 54.0 <= float(vuln) <= 57.0
+                and pm is not None and not (1.01 <= float(pm) <= 1.07)
+                and score is not None and float(score) >= 60.0):
+            _sgt_pg = _grade_rate("sv_pm_gap_high_score_hr", "88.9%  8/9")
+            _firing_grades.append(
+                f"🎖️ HR21 SUPER-VUL PM-GAP HIGH SCORE: Vuln 54-57 + PM outside 1.01-1.07 + Score≥60 "
+                f"→ {_sgt_pg} HR (mined 88.9% 8/9, 5.10x, 8sl Jun22-Jul28, bootstrap 4.31x). "
+                f"⚠️ TRACKING ONLY, NO CONV CREDIT. SELECTION CAVEAT: top of 87,855 combos ranked on "
+                f"the same panel its gates were measured on — those gates are circular. Under a clean "
+                f"train/test protocol this class of rule returned 1.22x pooled, not 5.10x. Its own "
+                f"two-gate subsets run 2.33x and 2.30x; the jump to 5.10x rests on n=9. Treat 2-3x as "
+                f"the realistic expectation until it clears on fresh slates."
+            )
     except Exception:
         pass
 
@@ -24047,6 +24076,26 @@ def _load_grade_stats() -> dict:
         _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
         return ("T4_PTM+PITCH_DOM" in _t) and ("EXTREME" in _t)
 
+    def _sv_pm_gap_high_score(p):
+        """HR21 SUPER-VUL PM-GAP HIGH SCORE — Vuln 54-57 + PM outside 1.01-1.07 + Score>=60."""
+        _v = _g(p, "vuln"); _m = _g(p, "pitch_match"); _s = _g(p, "score")
+        try:
+            _v = float(_v); _m = float(_m); _s = float(_s)
+        except Exception:
+            return False
+        return (54.0 <= _v <= 57.0) and not (1.01 <= _m <= 1.07) and _s >= 60.0
+
+    def _short_price_l2_blowup(p):
+        _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
+        if "EXTREME L2" not in _t:
+            return False
+        _o = _g(p, "odds")
+        try:
+            _o = float(str(_o).replace("+", "").replace(",", "").strip())
+        except Exception:
+            return False
+        return 0 < _o <= 285.0
+
     for key, fn in [
         ("ice_cold_sweet_hr",     _ice_cold_sweet_stack),
         ("ic_signal_sharp_pm",    _ic_signal_sharp_pm),   # NEW
@@ -24059,6 +24108,29 @@ def _load_grade_stats() -> dict:
         # Jul 29 2026 tracking combos (zero conv credit — see note above)
         ("stack_match_blowup_hr",      _stack_match_blowup),
         ("t4ptm_pitchdom_extreme_hr",  _t4ptm_pitchdom_extreme),
+        # ── HR20 SHORT-PRICE L2 BLOWUP (Jul 29 2026) ─────────────────────────
+        # Independently surfaced by a second model backtesting the HR_Picks tables
+        # and replicated here on the 90-slate master CSV over the full batter
+        # universe: EXTREME L2 BLOWUP + Odds<=+285 → 7/17 = 41.2% HR, 2.36x,
+        # p=0.018, 14 slates, split-half 25%→56% (improving, not decaying).
+        # The other model's third clause (Vuln outside 44-52) is NOT included:
+        # on the master CSV it strips only 2 of 17 rows, one of which was a HR,
+        # dropping lift 2.36x→2.30x. Their Vuln figures also do not reconcile with
+        # this file (they list Ohtani 7/28 at Vuln 39, master CSV says 56.9), so
+        # the band appears to be defined on a different field. The panel shows no
+        # 44-52 trap at all: inside 16.9% (0.97x) vs outside 17.9% (1.03x).
+        ("short_price_l2_blowup_hr",   _short_price_l2_blowup),
+        # ── HR21 SUPER-VUL PM-GAP HIGH SCORE (Jul 29 2026) ───────────────────
+        # Vuln 54-57 + PM outside 1.01-1.07 + Score>=60 → 8/9 = 88.9%, 5.10x,
+        # 8 slates (Jun 22 - Jul 28), bootstrap 5th-pct 4.31x. Only miss: Caminero
+        # Jul 28. SELECTION CAVEAT ON RECORD: this was the top of 87,855 combos
+        # ranked by p-value on the SAME panel its gates were then measured on, so
+        # those gates are circular. Under a clean protocol (mine on first 29
+        # slates, evaluate on last 30) rules of this shape returned 1.22x pooled,
+        # not 5.10x. Its own two-gate subsets run 2.33x (Vuln+Score) and 2.30x
+        # (Vuln+PM); the jump to 5.10x rests on n=9 and is probably mostly noise.
+        # TRACKING ONLY — zero conviction credit until it clears on fresh slates.
+        ("sv_pm_gap_high_score_hr",    _sv_pm_gap_high_score),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last10), _fmt_hr(subset, all_set))
