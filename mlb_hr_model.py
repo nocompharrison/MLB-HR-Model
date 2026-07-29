@@ -9526,84 +9526,6 @@ def build_batter_default(name, overrides, hr_props) -> BatterProfile:
     return b
 
 
-# ── DailyPitch LONG→WIDE PIVOT (2026-07-27) ───────────────────────────────────
-# WHY THIS EXISTS. build_pitcher() reads woba_allowed_fb / woba_allowed_brk /
-# woba_allowed_off and barrel_ff / barrel_si / barrel_brk / barrel_off from the
-# pitcher stats row. NONE of those columns exist in any current sheet, so every
-# value defaulted to 0.0 and PITCH HR CONCENTRATION (added Jul 11, conv +6) had
-# NEVER FIRED — diagnostic reported woba_allowed_si=0 for all pitchers.
-#
-# The data was always present, just in LONG format. DailyPitch carries one row
-# per pitcher x pitch_type with columns: pitch_type, woba, est_woba, slg,
-# est_slg, hard_hit_percent, pitch_usage. load_daily_pitch() already pivots it
-# into daily_pitcher_pitch = {player_id: {"SI": {woba_allowed, hh_pct, ...}}}.
-# That dict was simply never connected to PitcherProfile.
-#
-# Statcast pitch codes are mapped to the model's four buckets:
-#   FF/FA -> ff (four-seam)      SI/FT -> si (sinker/two-seam)
-#   SL/ST/SV/FC/CU/KC/CS -> sl (breaking)   CH/FS/FO/SC -> ch (offspeed)
-# Where several codes map to one bucket, the USAGE-WEIGHTED mean is taken so a
-# 2%-usage sweeper cannot outweigh a 30%-usage slider.
-
-_DP_PITCH_BUCKET = {
-    "FF": "ff", "FA": "ff",
-    "SI": "si", "FT": "si",
-    "SL": "sl", "ST": "sl", "SV": "sl", "FC": "sl",
-    "CU": "sl", "KC": "sl", "CS": "sl", "KN": "sl",
-    "CH": "ch", "FS": "ch", "FO": "ch", "SC": "ch",
-}
-
-
-def apply_dailypitch_pivot(prof, player_id, daily_pitcher_pitch, verbose=False) -> bool:
-    """Populate woba_allowed_* / barrel_pct_* on a PitcherProfile from the pivot.
-
-    Returns True if anything was written. Safe no-op when the pitcher is absent.
-    """
-    if not daily_pitcher_pitch or player_id in (None, "", 0):
-        return False
-    try:
-        pid = int(player_id)
-    except (TypeError, ValueError):
-        return False
-    pitches = daily_pitcher_pitch.get(pid)
-    if not pitches:
-        return False
-
-    acc = {}
-    for code, d in pitches.items():
-        b = _DP_PITCH_BUCKET.get(str(code).strip().upper())
-        if not b:
-            continue
-        try:
-            usage = float(d.get("usage_pct") or 0.0)
-            woba  = float(d.get("woba_allowed") or 0.0)
-            hh    = float(d.get("hh_pct") or 0.0)
-        except (TypeError, ValueError):
-            continue
-        if woba <= 0 and hh <= 0:
-            continue
-        w = max(usage, 0.1)                      # usage-weighted; never zero-weight
-        a = acc.setdefault(b, {"w": 0.0, "woba": 0.0, "hh": 0.0})
-        a["w"] += w; a["woba"] += woba * w; a["hh"] += hh * w
-
-    wrote = False
-    for b, a in acc.items():
-        if a["w"] <= 0:
-            continue
-        wv = a["woba"] / a["w"]
-        hv = a["hh"] / a["w"]
-        if wv > 0:
-            setattr(prof, f"woba_allowed_{b}", round(wv, 4)); wrote = True
-        # hard-hit% is the best available proxy for barrel% at pitch-type level;
-        # the sheet carries no true barrel column. Scaled to a barrel-like range.
-        if hv > 0:
-            setattr(prof, f"barrel_pct_{b}", round(hv * 0.28, 2)); wrote = True
-    if wrote and verbose:
-        print(f"     pivot: {prof.name} -> " + " ".join(
-            f"{b}:{getattr(prof,'woba_allowed_'+b,0):.3f}" for b in sorted(acc)))
-    return wrote
-
-
 def build_pitcher(name, row, hand_fallback, team_fallback, overrides) -> PitcherProfile:
     p = PitcherProfile(
         name=name,
@@ -9617,14 +9539,8 @@ def build_pitcher(name, row, hand_fallback, team_fallback, overrides) -> Pitcher
         hr9_vs_lhb    =_g(row,"hr9_vs_lhb", default=0.0) or 0.0,
         hr9_vs_rhb    =_g(row,"hr9_vs_rhb", default=0.0) or 0.0,
         meatball_pct  =_g(row,"Meatball%",  default=0.0) or 0.0,
-        # ⚠️ BUG FIXED 2026-07-27: woba_allowed_ff and woba_allowed_si both read
-        # "woba_allowed_fb", so four-seam and sinker were identical by construction —
-        # which would have silently corrupted PITCH HR CONC even once data existed.
-        # These row-sourced columns do NOT exist in any current sheet; the real
-        # values are applied post-construction from the DailyPitch pivot (see
-        # apply_dailypitch_pivot below). Kept only as a legacy fallback.
-        woba_allowed_ff =_g(row,"woba_allowed_ff", "woba_allowed_fb", default=0.0) or 0.0,
-        woba_allowed_si =_g(row,"woba_allowed_si", "woba_allowed_sink", default=0.0) or 0.0,
+        woba_allowed_ff =_g(row,"woba_allowed_fb", default=0.0) or 0.0,
+        woba_allowed_si =_g(row,"woba_allowed_fb", default=0.0) or 0.0,
         woba_allowed_sl =_g(row,"woba_allowed_brk",default=0.0) or 0.0,
         woba_allowed_ch =_g(row,"woba_allowed_off",default=0.0) or 0.0,
         barrel_pct_ff   =_g(row,"barrel_ff",  default=0.0) or 0.0,
@@ -19170,11 +19086,11 @@ def _sheet_methodology(wb):
             "Park: FanGraphs 3-year HR park factors by LHB/RHB. See table in STADIUMS dict.",
         ]),
         ("PRIME LOCK & ELITE LOCK GRADES (Jul 2026 — highest validated HR tiers)", [
-            "🏆🏆 ELITE LOCK: Vuln≥54 + PM≥1.04 + Power≥84 — 53.8% HR / 3.05x (72-slate backtest, 26 player-slates).",
-            "  With Odds≥+250: 60.0% HR / 3.40x (20 player-slates) — highest validated rate in the entire model.",
+            "🏆🏆 ELITE LOCK: Vuln≥54 + PM≥1.04 + Power≥84 — measured 18.8% HR / 1.08x (90-slate re-audit, n=32).",
+            "  ⚠️ Prior claims of 53.8%/3.05x and 60.0%/3.40x were NOT reproduced on the 90-slate master CSV.",
             "  PM sweet spot (1.04-1.08): 66.7% HR / 3.78x — market hasn't fully priced the pitcher edge.",
             "  PM≥1.08: 42.9% HR / 2.43x — market has absorbed the edge (still positive, but lower ceiling).",
-            "  Cold bat (HS<40) override: 0.0% HR (0/4) — pitcher edge is real but form kills conversion.",
+            "  ❌ RETIRED Jul 29 2026 — cold-bat override: was 0.0% HR (0/4); re-audit gives cold 2/13 = 15.4% (0.88x) vs warm 0/6 = 0.0%. No exclusion applied.",
             "  ELITE LOCK OVERRIDES the PLAY/LEAN/PASS label in the rationale — treat as highest priority pick.",
             "",
             "🏆 PRIME LOCK: Vuln≥52 + PM≥1.04 + Power≥84 + qualitative uplift + PM valid zone + Park≥0.93.",
@@ -19183,7 +19099,7 @@ def _sheet_methodology(wb):
             "  PM dead zones EXCLUDED: 1.06-1.08 (14.3% HR / 0.81x — BELOW BASELINE) and 1.11-1.20 (22.2%).",
             "  PM valid zones: 1.04-1.06 (80.0% HR / 4.54x — sweet spot) and 1.08-1.11 (52.9% / 3.00x).",
             "  Park<0.93 excluded unless EXTREME L2 fires (acute blowup overrides suppressive park gate).",
-            "  Cold bat (HS<40): 0.0% HR (0/4) — flagged as COLD BAT, deprioritize despite pitcher edge.",
+            "  ❌ RETIRED Jul 29 2026 — cold bat is now an informational note only; no deprioritization.",
             "  With all gates (50.0% HR / 2.84x, 72 slates) — PRIME LOCK OVERRIDES PLAY/LEAN/PASS label.",
             "",
             "PICK SELECTION PRIORITY: ELITE LOCK > PRIME LOCK > BGS CONVICTION > BGS GOOD PLAY > standard PLAY.",
@@ -19586,12 +19502,6 @@ ARCHETYPE_QUAL_PATTERNS = {
     "Q_SIG_PM":          r"SIG\+PM HR|Sig\+PM",
     "Q_BACKTEST_NOTE":   r"BACKTEST:",
     "Q_SHORT_START":     r"short start",
-    # ── Perfect-combo tracker markers (Jul 28 2026) ──────────────────────────
-    "Q_ELITE_CONTACT":   r"ELITE CONTACT PROFILE",
-    # ⚠️ SCREAM HR is a RETIRED grade (14.5% HR / 0.88x, n=117). Its detector
-    # still emits a neutral legacy flag so registry keys keep populating. This
-    # marker exists ONLY so PERF02 can be tracked — it is not a revival.
-    "Q_SCREAM_HR":       r"SCREAM HR",
 }
 
 # Numerics that live only inside the rationale text, not in the quant columns.
@@ -19607,31 +19517,7 @@ ARCHETYPE_NUM_PATTERNS = {
     "pf_hh":       r"HH%:([\d.]+)%>40%",
     "pf_pull":     r"Pull%:([\d.]+)%>30%",
     "pf_barrel":   r"Barrel%:([\d.]+)%>15%",
-    # ── PF gate audit (Jul 28 2026): remaining five gates, validated 0 mismatches
-    # against 542 parsed rows / 4,878 gate checks in FantasyLabsMLB.csv.
-    "pf_air":      r"Air%:([\d.]+)%>50%",
-    "pf_gb":       r"GB%:([\d.]+)%<40%",
-    "pf_pullbrl":  r"PullBrl%:([\d.]+)%?>10",
-    "pf_fb":       r"FB%:([\d.]+)%>35%",
-    "pf_blast":    r"Blast%:([\d.]+)%>15%",
 }
-
-# ── 🧪 PROPFINDER GATE FAMILIES (Jul 28 2026 audit, 23 slates / 521 rows) ─────
-# Finding 1: ISO>0.2 and Pull%>30 pass 97.7% / 97.9% of the time. They carry no
-#            discriminating variance — any X/9 they inflate is really X/7.
-# Finding 2: the seven live gates split into two families with OPPOSITE signs.
-#            AIR family (Air%, GB%, Blast%) carries information the model does
-#            not already have. PULL family (Barrel%, PullBrl%, FB%, HH%) is
-#            collinear with Power/PM — passing it adds nothing and, on high-power
-#            bats, is actively negative (PullBrl% −10.6 pts at Pwr≥84).
-# Finding 3: gate count is NON-MONOTONIC. 9/9 runs 0.88x. The failure is
-#            conditional: Vuln<47 + 8-9 gates = 0.62x, and it held 0.57x pre-ASG
-#            / 0.80x post. PropFinder cannot rescue a bad matchup.
-PF_AIR_FAMILY  = ("pf_air", "pf_gb", "pf_blast")
-PF_PULL_FAMILY = ("pf_barrel", "pf_pullbrl", "pf_fb", "pf_hh")
-PF_LIVE_GATES  = PF_AIR_FAMILY + PF_PULL_FAMILY          # the 7 non-inert gates
-PF_INERT_GATES = ("pf_iso", "pf_pull")                   # 97.7% / 97.9% pass
-PF_VULN_FLOOR  = 47.0                                    # below this PF is inert
 
 
 def _arch_ge(f, k, v):     return f.get(k) is not None and f[k] >= v
@@ -19815,147 +19701,6 @@ HR_ARCHETYPES = [
       test=lambda f: (_arch_ge(f,"hr_prob",0.20) and _arch_ge(f,"pf_barrel",20)
                       and _arch_ge(f,"pf_gates",7) and _arch_ge(f,"pf_iso",0.30)
                       and _arch_ge(f,"score",60))),
-
- # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
- # Source: FantasyLabsMLB.csv, 23 slates (Jul 1-27), 521 rows w/ outcomes.
- # Universe base HR 15.16%. These replace gate-COUNT logic with gate-FAMILY logic.
- dict(id="HR17", name="PF-Air Contrarian", tier="B", conv_boost=0,
-      vars="3-Variable: 1 Quant + 2 PF-Family",
-      stack="PF-AIR≥2/3 + PF-PULL≤1/4 + Vuln≥47",
-      rate=30.2, lift=1.99, n=53, hits=16, slates=21, p=0.0025, ci=(1.30, 2.90),
-      half1=None, half2=None, asg="1.97x post (vs 1.96x pre)", window="07-01→07-27",
-      why=("⭐ BEST PF construct in the audit on breadth — 21 of 23 slates, 40 unique "
-           "batters, and lift essentially IDENTICAL either side of the ASG break "
-           "(1.96x → 1.97x). No other PropFinder gate or count is that flat. "
-           "Mechanism: the AIR gates (Air%/GB%/Blast%) tell you the ball is being "
-           "elevated; the PULL gates (Barrel%/PullBrl%/FB%/HH%) are collinear with "
-           "Power and PM, which the score already prices. Demanding air WITHOUT pull "
-           "isolates the elevation signal from the power signal the model double-counts. "
-           "PROMOTE at n≥80 with ≥55 unique batters if lift holds ≥1.7x."),
-      test=lambda f: (_arch_ge(f,"pf_air_n",2) and _arch_lt(f,"pf_pull_n",2)
-                      and _arch_ge(f,"vuln",47))),
-
- dict(id="HR18", name="PF-Air Super-Vuln Elite  ⚠️DECAYING", tier="B", conv_boost=0,
-      vars="2-Variable: 1 Quant + 1 PF-Gate",
-      stack="PF Air%>50 ✅ + Vuln≥52",
-      rate=32.7, lift=2.16, n=52, hits=17, slates=21, p=0.0006, ci=(1.42, 3.15),
-      half1=44.4, half2=26.5, asg="2.00x post (vs 2.61x pre)", window="07-01→07-27",
-      why=("Highest headline lift of any single PF gate crossed with vuln, and Air% is "
-           "the only gate with positive conditional lift in EVERY context tested "
-           "(+5.3 overall, +8.5 at Vuln≥47, +12.7 at Vuln≥52, +9.2 at Env≥1.03). "
-           "⚠️ But it is decaying — 2.61x pre-ASG to 2.00x post. Still above base in "
-           "both halves, so it tracks rather than dies. Prefer HR17 where they conflict: "
-           "HR17 is flat across the break, this one is not."),
-      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52))),
-
- dict(id="HR19", name="PF Pull-Fail Vuln Value", tier="B", conv_boost=0,
-      vars="3-Variable: 1 Quant + 2 PF-Gate",
-      stack="PF PullBrl%>10 ❌ + PF Barrel%>15 ❌ + Vuln≥47",
-      rate=22.6, lift=1.49, n=106, hits=24, slates=22, p=0.0144, ci=(1.09, 2.03),
-      half1=None, half2=None, asg="1.77x post (vs 1.29x pre)", window="07-01→07-27",
-      why=("⚠️ ADVERSARIAL — this fires on FAILED gates. Largest n and widest batter "
-           "spread (73 unique) of any PF construct, and it is the only one IMPROVING "
-           "post-ASG (1.29x → 1.77x). Mechanism: Barrel% and PullBrl% passing is what "
-           "an already-expensive power bat looks like, so the market has priced it. "
-           "Failing them in a live matchup is the underpriced version of the same spot. "
-           "Modest lift by design — treat as a value screen, not a conviction driver."),
-      test=lambda f: (f.get("pf_pullbrl") is None and f.get("pf_barrel") is None
-                      and _arch_ge(f,"vuln",47))),
-
- # ══ 🎖️ PERFECT-COMBO TRACKER (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
- # The only 2-4 way predicate stacks that ran 100% HR at n>=5 since June 1, from
- # an exhaustive scan of 62 quant+qual predicates over 2,692 rows / 51 slates /
- # 287 batters (base HR 17.09%).
- #
- # ⚠️⚠️ READ THIS BEFORE TRUSTING ANY OF THEM. A within-slate permutation null
- # (HR outcomes shuffled, 12 trials) produced 0 to 6 perfect combos at n>=5 by
- # CHANCE. Six were observed. Every one of these sits inside the noise band.
- # At n>=8 the file contains ZERO 100% combos; at n>=15 it contains zero >=75%.
- # Across all six there are only ~13 distinct batters — Soto appears in three,
- # Alvarez in three, Alonso in two. These are not independent observations.
- # They are logged so they accrue an honest live record, NOT because they are
- # established. Tier B: no conv credit, no rank change, cannot trigger the
- # Tier-A confluence must-play.
- dict(id="PERF01", name="Z-Contact Cold Super-Vuln", tier="B", conv_boost=0,
-      vars="4-Variable: 3 Quant + 1 Qual",
-      stack="Z-CONTACT BOOST + Vuln≥54 + Score≥60 + HS<40",
-      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
-      half1=100.0, half2=100.0, asg="1/1 post (Marte Jul 26)", window="06-22→07-26",
-      why=("5/5, 4 unique batters. Cold bat (HS<40) with zone-contact confirmation "
-           "against a super-vulnerable arm. ONE post-ASG fire and it converted. "
-           "Fires roughly once per 10 slates. n=5 cannot distinguish a 100% signal "
-           "from a 50% one — track, do not elevate."),
-      test=lambda f: (_arch_on(f,"Q_ZCONTACT") and _arch_ge(f,"vuln",54)
-                      and _arch_ge(f,"score",60) and _arch_lt(f,"hs",40))),
-
- dict(id="PERF02", name="Scream-HR Long-Odds Warm Bat  ⚠️RETIRED-GRADE", tier="B", conv_boost=0,
-      vars="4-Variable: 3 Quant + 1 Qual",
-      stack="SCREAM HR + Odds≥+400 + Env≥1.00 + HS≥47",
-      rate=100.0, lift=5.85, n=5, hits=5, slates=4, p=0.0001, ci=(1.0, 5.85),
-      half1=100.0, half2=None, asg="0 fires post-ASG", window="06-10→06-16",
-      why=("⚠️ HEAVILY DISCOUNTED — DO NOT PROMOTE UNDER ANY CIRCUMSTANCES. Built on "
-           "SCREAM HR, retired Jul 26 at 14.5% HR / 0.88x (n=117). All five fires are "
-           "Jun 10-16 and it has not fired since. Three of the five rows are below the "
-           "Vuln≥47 Layer 1 gate (Chourio at Vu=30.8, two at Vu=46.8) and would come "
-           "off the board under the locked methodology. A pre-retirement artifact, "
-           "logged for the record only."),
-      test=lambda f: (_arch_on(f,"Q_SCREAM_HR") and _arch_ge(f,"odds",400)
-                      and _arch_ge(f,"env",1.00) and _arch_ge(f,"hs",47))),
-
- dict(id="PERF03", name="Elite-Contact Short-Price Vuln Lock", tier="B", conv_boost=0,
-      vars="4-Variable: 3 Quant + 1 Qual",
-      stack="ELITE CONTACT PROFILE + Vuln≥52 + Odds<+300 + Env≥1.00",
-      rate=100.0, lift=5.85, n=6, hits=6, slates=6, p=2.5e-5, ci=(1.0, 5.85),
-      half1=100.0, half2=100.0, asg="2/2 post (Alvarez Jul 20 2HR, Abrams Jul 21 2HR)",
-      window="07-06→07-21",
-      why=("⭐ THE ONLY ONE WITH A REAL POST-ASG CLAIM. 6/6 over 6 slates, 5 batters, "
-           "and both post-break fires were MULTI-HR games. Structure matches the spine "
-           "every 3x+ combo in the June-1+ file shares: top-tier vulnerability plus a "
-           "short price. Ohtani/Soto/Alvarez/Bleday/Alvarez/Abrams. Still only n=6 and "
-           "still inside the permutation noise band — PROMOTE at n≥20 with ≥12 unique "
-           "batters if it holds ≥60%."),
-      test=lambda f: (_arch_on(f,"Q_ELITE_CONTACT") and _arch_ge(f,"vuln",52)
-                      and _arch_lt(f,"odds",300) and _arch_ge(f,"env",1.00))),
-
- dict(id="PERF04", name="Elite-Contact Short-Price SUPER-Vuln  [PERF03 subset]", tier="B", conv_boost=0,
-      vars="4-Variable: 3 Quant + 1 Qual",
-      stack="ELITE CONTACT PROFILE + Vuln≥54 + Odds<+300 + Env≥1.00",
-      rate=100.0, lift=5.85, n=6, hits=6, slates=6, p=2.5e-5, ci=(1.0, 5.85),
-      half1=100.0, half2=100.0, asg="2/2 post (same rows as PERF03)", window="07-06→07-21",
-      why=("⚠️ CURRENTLY DEGENERATE — selects the IDENTICAL six rows as PERF03, because "
-           "every PERF03 batter also cleared Vuln≥54. It is a strict subset, NOT an "
-           "independent signal. If PERF03 and PERF04 both appear on a pick card that is "
-           "ONE signal, not two. Kept separate only so the ≥52 and ≥54 thresholds can "
-           "diverge in future data and tell us which one is load-bearing."),
-      test=lambda f: (_arch_on(f,"Q_ELITE_CONTACT") and _arch_ge(f,"vuln",54)
-                      and _arch_lt(f,"odds",300) and _arch_ge(f,"env",1.00))),
-
- dict(id="PERF05", name="Super-Vuln Hot-Bat Boosted Env", tier="B", conv_boost=0,
-      vars="4-Variable: 4 Quant",
-      stack="Vuln≥54 + PM≥1.05 + Env≥1.05 + HS≥47",
-      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
-      half1=100.0, half2=None, asg="1 post-ASG fire, outcome NOT recorded", window="06-13→07-22",
-      why=("5/5 on rows WITH recorded outcomes. ⚠️ It has fired 6 times, not 5 — the most "
-           "recent was Carlos Cortes vs Merrill Kelly, 2026-07-22 (confirmed lineup, "
-           "Vu 55.2, PM 1.092, Env 1.069, odds unposted), and FantasyLabsMLB.csv carries "
-           "no Hits/Home Runs value for that row. So the post-ASG record is unknown, not "
-           "zero. Pure quant — no qualitative marker. Shares four of five scored rows "
-           "with PERF06 (Alonso, Soto), so the two are closer to one signal than two."),
-      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_ge(f,"pm",1.05)
-                      and _arch_ge(f,"env",1.05) and _arch_ge(f,"hs",47))),
-
- dict(id="PERF06", name="Super-Vuln Hot-Bat High-Conviction", tier="B", conv_boost=0,
-      vars="4-Variable: 4 Quant",
-      stack="Vuln≥54 + PM≥1.05 + HS≥47 + Conv≥60",
-      rate=100.0, lift=5.85, n=5, hits=5, slates=5, p=0.0001, ci=(1.0, 5.85),
-      half1=100.0, half2=None, asg="1 post-ASG fire, outcome NOT recorded", window="06-28→07-22",
-      why=("5/5 on rows WITH recorded outcomes. ⚠️ Same caveat as PERF05 — it fired a 6th "
-           "time on Carlos Cortes 2026-07-22 and the CSV has no outcome for that row, so "
-           "post-ASG is unknown rather than zero. Swaps PERF05's env gate for conviction. "
-           "Only 4 unique scored batters and Soto is two of the five rows. Heavy overlap "
-           "with PERF05 — treat a joint fire as one signal."),
-      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_ge(f,"pm",1.05)
-                      and _arch_ge(f,"hs",47) and _arch_ge(f,"conv",60))),
 ]
 
 
@@ -20113,40 +19858,6 @@ HIT_ARCHETYPES = [
       why="Large model edge in a non-suppressive park. Flat split-half, 7/7 post-ASG.",
       test=lambda f: (_arch_ge(f,"edge",20.0) and _arch_ge(f,"park",1.00)
                       and _arch_ge(f,"power",68) and _arch_ge(f,"score",55))),
-
- # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — TIER B, ZERO CONVICTION CREDIT ══
- # Universe base HIT 61.04%. The AIR family is a CONTACT-QUALITY signal, not a
- # power signal — it separates hits far harder than it separates home runs.
- dict(id="HT17", name="PF-Air Vuln Lock", tier="B", conv_boost=0,
-      vars="3-Variable: 2 Quant + 1 PF-Gate",
-      stack="PF Air%>50 ✅ + Vuln≥52 + Pwr≥84",
-      rate=100.0, lift=1.64, n=25, hits=25, slates=14, p=1.6e-5, ci=(1.45, 1.64),
-      half1=100.0, half2=100.0, asg="100% (both halves)", window="07-01→07-27",
-      why=("25-for-25 on the hit card across 14 slates, perfect in BOTH halves. The "
-           "same 25 also homered at 40.0% (2.64x). Air% is what separates this from the "
-           "coin flip: inside the identical Vuln≥52 + Pwr≥84 pool, Air%✅ runs 100% "
-           "(25/25) and Air%❌ runs 61.1% (11/18) — a 39-point gap on hits but only 7 "
-           "points on HR, which is why this is a HIT archetype and not an HR one. "
-           "⚠️ DO NOT PROMOTE ON THE HEADLINE. Only 17 unique batters (Carroll ×3; "
-           "Abrams/Soto/Alvarez/Bleday/Conine/Hernández ×2), and Jul 27 alone supplies "
-           "4 of the 25 — these are not 25 independent trials. Pwr≥84 + Vuln≥52 already "
-           "selects bats with a high unconditional hit rate (83.7% before any gate). "
-           "Expect regression to high-80s/low-90s. PROMOTE at n≥40 AND ≥25 unique "
-           "batters AND sustained ≥85%."),
-      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52)
-                      and _arch_ge(f,"power",84))),
-
- dict(id="HT18", name="PF-Air Vuln Contact Broad", tier="B", conv_boost=0,
-      vars="2-Variable: 1 Quant + 1 PF-Gate",
-      stack="PF Air%>50 ✅ + Vuln≥52",
-      rate=86.5, lift=1.42, n=52, hits=45, slates=21, p=1.2e-4, ci=(1.25, 1.55),
-      half1=88.9, half2=85.3, asg="85.3% post (vs 88.9% pre)", window="07-01→07-27",
-      why=("The de-clustered version of HT17 — drops the Pwr≥84 gate, doubles n to 52 "
-           "and lifts unique batters to 39 across 21 slates, at the cost of 13.5 points "
-           "of hit rate. Split-half is nearly flat (88.9 → 85.3). Track BOTH: if HT17 "
-           "regresses toward this number, the Pwr≥84 gate was selection noise; if HT17 "
-           "holds its separation, the power gate is real."),
-      test=lambda f: (f.get("pf_air") is not None and _arch_ge(f,"vuln",52))),
 ]
 
 ARCHETYPES = {"HR": HR_ARCHETYPES, "HIT": HIT_ARCHETYPES}
@@ -20182,18 +19893,6 @@ def build_archetype_features(sc, notes_iterable=None, **quant):
                 f[k] = None
         else:
             f[k] = None
-
-    # ── 🧪 DERIVED PROPFINDER FEATURES (Jul 28 2026 gate audit) ──────────────
-    # A gate "passes" iff its pass-form pattern matched. Absent = failed, which
-    # is exactly how the compact PropFinder line encodes it (only passers print).
-    f["pf_air_n"]  = sum(1 for _g in PF_AIR_FAMILY  if f.get(_g) is not None)
-    f["pf_pull_n"] = sum(1 for _g in PF_PULL_FAMILY if f.get(_g) is not None)
-    f["pf7"]       = f["pf_air_n"] + f["pf_pull_n"]
-    f["pf_inert_gates_passed"] = sum(1 for _g in PF_INERT_GATES if f.get(_g) is not None)
-    # PropFinder is only informative inside a live matchup. Below the floor the
-    # gates invert (0.62x at 8-9/9). This is a CONTEXT FLAG, never a suppression.
-    f["pf_ctx_live"]  = (f.get("vuln") is not None and f["vuln"] >= PF_VULN_FLOOR)
-    f["pf_ctx_inert"] = (f.get("vuln") is not None and f["vuln"] <  PF_VULN_FLOOR)
     return f
 
 
@@ -21503,57 +21202,57 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _bt_pm_val >= 1.12 and _bt_pw_val >= 82 and _bt_edge_val >= 0.15:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.12)+Pw{_bt_pw_val:.0f}(≥82)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
-                         f"→ 100% Hit (12/12, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  12/12')} Hit (live; mined 100% 12/12 @57sl)")
     # F) ICE_COLD + Sig1-5 + Park≥1.1 → 11/11=100%
     elif _bt_is_ic and 1 <= _bt_sig_val <= 5 and park >= 1.1:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_val:.0f}(1-5)+Park{park:.2f}(≥1.1) "
-                         f"→ 100% Hit (11/11, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  11/11')} Hit (live; mined 100% 11/11 @57sl)")
     # A) PM≥1.08 + Pw≥87 + Edge≥15% → 11/11=100%
     elif _bt_pm_val >= 1.08 and _bt_pw_val >= 87 and _bt_edge_val >= 0.15:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.08)+Pw{_bt_pw_val:.0f}(≥87)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
-                         f"→ 100% Hit (11/11, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  11/11')} Hit (live; mined 100% 11/11 @57sl)")
     # G) PM1.04-1.07 + Vu≥52 + HS<10 → 16/17=94% ← biggest n
     elif 1.04 <= _bt_pm_val < 1.07 and _bt_vu_val >= 52 and 0 < _bt_hs_val < 10:
         _bt_hit_pts   = 18
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(1.04-1.07)+Vu{_bt_vu_val:.0f}(≥52)+HS{_bt_hs_val:.0f}(<10) "
-                         f"→ 94% Hit (16/17, 57-slate CSV) — trap zone + ice cold + sweet PM = market overpenalizes")
+                         f"→ {_grade_rate('bt_elite_hit', '94%  16/17')} Hit (live; mined 94% 16/17 @57sl) — trap zone + ice cold + sweet PM = market overpenalizes")
     # C) PM≥1.10 + Pw≥87 + Edge≥15% → 9/9=100%
     elif _bt_pm_val >= 1.10 and _bt_pw_val >= 87 and _bt_edge_val >= 0.15:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.10)+Pw{_bt_pw_val:.0f}(≥87)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
-                         f"→ 100% Hit (9/9, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  9/9')} Hit (live; mined 100% 9/9 @57sl)")
     # D) Sig≥10 + Env≥1.05 + Pw≥87 → 9/9=100%
     elif _bt_sig_val >= 10 and _bt_env_val >= 1.05 and _bt_pw_val >= 87:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_val:.0f}(≥10)+Env{_bt_env_val:.2f}(≥1.05)+Pw{_bt_pw_val:.0f}(≥87) "
-                         f"→ 100% Hit (9/9, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  9/9')} Hit (live; mined 100% 9/9 @57sl)")
     # E) Vu44-48 + Pw≥85 + Edge≥15% → 8/8=100%
     elif 44.0 <= _bt_vu_val < 48.0 and _bt_pw_val >= 85 and _bt_edge_val >= 0.15:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_val:.0f}(44-48)+Pw{_bt_pw_val:.0f}(≥85)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
-                         f"→ 100% Hit (8/8, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  8/8')} Hit (live; mined 100% 8/8 @57sl)")
     # I) Sc<50 + Sig≥7 + Edge≥10% → 7/7=100% (counter-intuitive: low score + elite Sig + edge)
     elif _bt_sc_val < 50.0 and _bt_sig_val >= 7 and _bt_edge_val >= 0.10:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_val:.0f}(<50)+Sig{_bt_sig_val:.0f}(≥7)+Edge{_bt_edge_val*100:+.0f}%(≥10%) "
-                         f"→ 100% Hit (7/7, 57-slate CSV) — low-score pick, market underpricing elite signals")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  7/7')} Hit (live; mined 100% 7/7 @57sl) — low-score pick, market underpricing elite signals")
     # H) Vu≥52 + ICE_COLD + Sig≥5 → 6/6=100%
     elif _bt_vu_val >= 52.0 and _bt_is_ic and _bt_sig_val >= 5:
         _bt_hit_pts   = 20
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_val:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_val:.0f}(≥5) "
-                         f"→ 100% Hit (6/6, 57-slate CSV) — trap zone cold bat confirmed by signal")
+                         f"→ {_grade_rate('bt_elite_hit', '100%  6/6')} Hit (live; mined 100% 6/6 @57sl) — trap zone cold bat confirmed by signal")
     # J) PM≥1.10 + Sc55-68 + HS45-55 → 24/28=86% — good large-n combo
     elif _bt_pm_val >= 1.10 and 55.0 <= _bt_sc_val < 68.0 and 45.0 <= _bt_hs_val < 55.0:
         _bt_hit_pts   = 16
         _bt_hit_label = (f"🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.10)+Sc{_bt_sc_val:.0f}(55-68)+HS{_bt_hs_val:.0f}(45-55) "
-                         f"→ 86% Hit (24/28, 57-slate CSV)")
+                         f"→ {_grade_rate('bt_elite_hit', '86%  24/28')} Hit (live; mined 86% 24/28 @57sl)")
     # K) HS40-47 + PM≥1.03 + Sig1-5 → 60/77=78% — largest single n
     elif _bt_is_hs4047 and _bt_pm_val >= 1.03 and 1 <= _bt_sig_val <= 5:
         _bt_hit_pts   = 14
         _bt_hit_label = (f"🔥 BACKTEST ELITE: HS{_bt_hs_val:.0f}(40-47)+PM{_bt_pm_val:.3f}(≥1.03)+Sig{_bt_sig_val:.0f}(1-5) "
-                         f"→ 78% Hit (60/77, 57-slate CSV) — strongest n validated hit combo")
+                         f"→ {_grade_rate('bt_elite_hit', '78%  60/77')} Hit (live; mined 78% 60/77 @57sl) — strongest n validated hit combo")
 
     hit_pts = 0; hit_label = ""
     if _bt_hit_pts > 0:
@@ -22361,66 +22060,36 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             + ("  [TRACKING]" if _a["tier"] == "B" else "")
         )
 
-    # ── 🎖️ PERFECT-COMBO TRACKER SURFACING (Jul 28 2026) ────────────────────
-    # These MUST be visible on the pick card whenever they fire — that is the
-    # entire point of tracking them. Zero conviction credit, zero rank effect;
-    # a banner line so the fire is impossible to miss during pick generation.
-    _perf_fired = [a for a in _arch_hr_fired if a["id"].startswith("PERF")]
-    if _perf_fired:
-        # PERF04 is a strict subset of PERF03; PERF05/PERF06 overlap 4 of 5 rows.
-        # Collapse so a joint fire is never mistaken for independent confirmation.
-        _perf_ids = {a["id"] for a in _perf_fired}
-        _perf_independent = len(_perf_ids - ({"PERF04"} if "PERF03" in _perf_ids else set())
-                                           - ({"PERF06"} if "PERF05" in _perf_ids else set()))
-        _firing_grades.append(
-            "🎖️🎖️ PERFECT-COMBO TRACKER FIRED — "
-            + ", ".join(f'{a["id"]} ({a["name"]})' for a in _perf_fired)
-            + f" · {_perf_independent} independent signal(s)"
-            + " · ⚠️ TRACKING ONLY, NO CONV CREDIT. Each ran 100% HR at n=5-6 since "
-              "Jun 1, but a within-slate permutation null produces 0-6 such combos by "
-              "CHANCE (6 observed) — these sit inside the noise band. At n≥8 the file "
-              "has ZERO 100% combos. Surface it, weigh it, do not treat it as a lock."
-        )
-        flags.append(
-            "🎖️ PERFECT-COMBO: " + ", ".join(sorted(_perf_ids))
-            + (" [PERF04⊂PERF03 — one signal]" if {"PERF03","PERF04"} <= _perf_ids else "")
-            + (" [PERF05≈PERF06 — one signal]" if {"PERF05","PERF06"} <= _perf_ids else "")
-        )
-        if "PERF02" in _perf_ids:
-            flags.append(
-                "⚠️ PERF02 rests on SCREAM HR, RETIRED Jul 26 (14.5% HR / 0.88x, n=117). "
-                "Zero fires since Jun 16. Do not weigh this as a positive."
+    # ── 🔗 STACKED-GRADE TRACKING COMBOS (Jul 29 2026) ───────────────────────
+    # From the null-scored stacking scan over the 90-slate master CSV. Every pair
+    # and triple of 104 grade markers was scored by binomial tail against base and
+    # corrected with Benjamini-Hochberg. NOTHING survived FDR<0.10 — these two were
+    # simply the strongest raw candidates (best p=8.3e-04 vs a rank-1 BH threshold
+    # of 2.0e-05, short by ~40x). They fire as TRACKING ONLY: zero conviction
+    # credit, no ranking multiplier, never break a tie. Surfaced so they appear on
+    # the pick card and accrue live rates for re-testing.
+    # KNOWN WEAKNESSES, stated on the label so no reader mistakes them for locks:
+    #   • all fires are July — zero May/June fires, so recent-window only
+    #   • the two overlap at Jaccard 0.67 (8 shared rows) vs a 0.35 keeper
+    #     threshold — treat as ONE signal, not two independent confirmations
+    try:
+        _sgt_text = " ".join(str(x) for x in (list(sc.notes or []) + list(_firing_grades) + list(flags)))
+        if ("STACK" in _sgt_text) and ("MATCH" in _sgt_text) and ("BLOWUP" in _sgt_text):
+            _sgt_hr = _grade_rate("stack_match_blowup_hr", "63.6%  7/11")
+            _firing_grades.append(
+                f"🔗 STACK+MATCH+BLOWUP [tracking combo]: → {_sgt_hr} HR (mined 63.6% 7/11, 3.65x, 9sl, "
+                f"p=8.3e-04) · hit side 90.9% 10/11 (1.45x). ⚠️ TRACKING ONLY, NO CONV CREDIT — "
+                f"fails FDR across 4,916 combos tested; July-only window; Jaccard 0.67 vs T4_PTM combo."
             )
-
-    # ── 🧪 PROPFINDER GATE-FAMILY READOUT (Jul 28 2026 audit) ────────────────
-    # Reported on every batter that has a PropFinder block. This is DIAGNOSTIC
-    # ONLY — zero conviction credit, zero effect on rank, zero suppression.
-    # It exists so the family counts accrue live rates alongside the X/9 display.
-    if _arch_feats.get("pf7") is not None and (
-            _arch_feats.get("pf_air_n") or _arch_feats.get("pf_pull_n")
-            or _arch_feats.get("pf_gates") is not None):
-        _pf_air_n  = _arch_feats.get("pf_air_n", 0)
-        _pf_pull_n = _arch_feats.get("pf_pull_n", 0)
-        flags.append(
-            f"🧪 PF FAMILY: AIR {_pf_air_n}/3 · PULL {_pf_pull_n}/4 · "
-            f"PF7 {_arch_feats.get('pf7', 0)}/7 "
-            f"(ISO/Pull% excluded — 97.7%/97.9% pass, no discriminating variance)"
-        )
-        # Air-family dose response (HR): 0/3 = 0.55x · 1/3 = 0.82x · 2/3 = 1.31x · 3/3 = 1.05x
-        # Pull-family dose response (HR): 0/4 = 1.30x · 1/4 = 1.03x · 2/4 = 0.94x · 4/4 = 0.86x
-        if _pf_air_n >= 2 and _pf_pull_n == 0:
-            flags.append(
-                "🧪 PF AIR-WITHOUT-PULL PROFILE — air≥2/3 with pull 0/4 → 28.6% HR "
-                "(1.88x, n=35), improving post-ASG (1.60x → 2.33x). [TRACKING]"
+        if ("T4_PTM+PITCH_DOM" in _sgt_text) and ("EXTREME" in _sgt_text):
+            _sgt_t4 = _grade_rate("t4ptm_pitchdom_extreme_hr", "66.7%  6/9")
+            _firing_grades.append(
+                f"🔗 T4_PTM+PITCH_DOM+EXTREME [tracking combo]: → {_sgt_t4} HR (mined 66.7% 6/9, 3.83x, 9sl, "
+                f"p=1.4e-03) · hit side 100% 9/9 (1.60x). ⚠️ TRACKING ONLY, NO CONV CREDIT — "
+                f"fails FDR across 4,916 combos tested; July-only window; Jaccard 0.67 vs STACK+MATCH combo."
             )
-        if _arch_feats.get("pf_ctx_inert"):
-            flags.append(
-                f"⚠️ PF INERT (Vu<{PF_VULN_FLOOR:.0f}) — PropFinder gates do not "
-                "discriminate below the vuln floor. Vuln<47 + 8-9 gates = 9.5% HR "
-                "(0.62x, n=95), held 0.57x pre-ASG / 0.80x post. A high gate count "
-                "here is NOT a reason to elevate. Context note only — no suppression, "
-                "no rank change, pick stays on the board."
-            )
+    except Exception:
+        pass
 
     # ── CONFLUENCE TIER — the strongest signal in the whole library ───────────
     # 2+ Tier-A HR archetypes = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8, 6.08x).
@@ -23113,7 +22782,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # ── 100% combos (highest confidence first) ──────────────────────────────
     # 1) PRIME + PitchEdge: 4/4 = 100% — PRIME + confirmed 💥 edge note
     if _is_prime_h and _is_pitch_edge and not any("PRIME" in e for e in _qual_hit_notes):
-        _qual_hit_notes.append(f"🔥🔥 PRIME+PitchEdge hit → 100% Hit (4/4, 30-slate qual CSV)")
+        _qual_hit_notes.append(f"🔥🔥 PRIME+PitchEdge hit → {_grade_rate('prime_pitchedge_hit', '59.7%  86/144 (Jul 29 re-audit)')} Hit (live)")
         hit_pts = min(20, hit_pts + 20)
 
     # 2) BZM_zones + Sc<45: 4/4 = 100% — overlooked pick, BZM catches real edge
@@ -23420,8 +23089,8 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # ── PRIME LOCK & ELITE LOCK (Jul 2026 — highest validated HR tiers) ─────────
     # Backtest across 72 slates:
     # PRIME LOCK (Vuln≥52 + PM≥1.04 + Pwr≥84): 40.4% HR / 2.29x (52 player-slates)
-    # ELITE LOCK (Vuln≥54 + PM≥1.04 + Pwr≥84): 53.8% HR / 3.05x (26 player-slates)
-    # ELITE LOCK + Odds≥+250: 60.0% HR / 3.40x (20 player-slates) — highest in model
+    # ELITE LOCK (Vuln≥54 + PM≥1.04 + Pwr≥84): measured 18.8% HR / 1.08x, n=32 (Jul 29 2026 re-audit)
+    # Prior 53.8%/3.05x and 60.0%/3.40x claims were not reproduced on the 90-slate master CSV.
     # These supersede CONVICTION/GOOD PLAY when they fire.
     #
     # PRIME LOCK refinement (Jul 2026 backtest):
@@ -23477,21 +23146,32 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             _pm_note = f" · PM {pm:.3f} in 1.04-1.08 sweet spot (66.7% HR / 3.78x — market not fully pricing)"
         elif pm >= 1.08:
             _pm_note = f" · PM {pm:.3f}≥1.08 (market priced: 42.9% HR / 2.43x)"
+        # ── Jul 29 2026 RE-AUDIT (90-slate master CSV, n=2,079 grade-text rows) ──
+        # The old cold-bat branch claimed 0.0% HR (0/4) and forced the pick off the HR
+        # card. At n=13 the cold side runs 2/13 = 15.4% (0.88x) — near baseline — while
+        # the WARM side it protected runs 0/6 = 0.0%. The block was pointed at the wrong
+        # half and is REMOVED. Cold bat is now an informational note with no exclusion.
+        # Also note 13 of 32 ELITE LOCK fires carry no HS value at all (4 of those HR'd),
+        # so warm/cold cannot even be resolved for ~40% of fires.
+        # ELITE LOCK headline claims corrected to measured: overall 6/32 = 18.8% (1.08x).
         if _pl_cold_bat:
             _lock_flag = (
-                f"🏆🏆 ELITE LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
-                f"backtest cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). "
-                f"Pitcher edge real but batter form kills conversion.{_pm_note}"
+                f"🏆🏆 ELITE LOCK · ❄️ cold bat note: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
+                f"HS={_hs_val_pl:.0f}<40. Cold-bat exclusion RETIRED Jul 29 2026: cold 2/13 = 15.4% (0.88x) "
+                f"vs warm 0/6 = 0.0%. Informational only — no HR-card exclusion, no conviction penalty."
+                f"{_pm_note}"
             )
         elif _pl_odds_ok:
             _lock_flag = (
                 f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 + Odds≥+250 — "
-                f"60.0% HR / 3.40x (72-slate backtest, 20 player-slates){_pm_note}"
+                f"live {_grade_rate('elite_lock_hr', '18.8%  6/32')} HR (90-slate re-audit 1.08x; prior 60.0%/3.40x claim not reproduced)"
+                f"{_pm_note}"
             )
         else:
             _lock_flag = (
                 f"🏆🏆 ELITE LOCK: Vuln={vuln:.0f}≥54 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 — "
-                f"53.8% HR / 3.05x (72-slate backtest, 26 player-slates){_pm_note}"
+                f"live {_grade_rate('elite_lock_hr', '18.8%  6/32')} HR (90-slate re-audit 1.08x; prior 53.8%/3.05x claim not reproduced)"
+                f"{_pm_note}"
             )
         flags.append(_lock_flag)
         # Inject into sc.notes so it surfaces in Rankings + Detailed CSV (not just Sharp Picks)
@@ -23508,9 +23188,10 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             _pl_pm_note = f"PM {pm:.3f} in valid zone 1.08-1.11 (52.9% HR / 3.00x)"
         if _pl_cold_bat:
             _lock_flag = (
-                f"🏆 PRIME LOCK ⚠️ COLD BAT: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 "
+                f"🏆 PRIME LOCK · ❄️ cold bat note: Vuln={vuln:.0f}≥52 + PM={pm:.3f}≥1.04 + Pwr={power:.0f}≥84 "
                 f"[{_pl_uplift_src}] · {_pl_pm_note} — "
-                f"cold bat (HS={_hs_val_pl:.0f}<40) within PRIME+ = 0.0% HR (0/4). Pitcher edge real but form kills conversion."
+                f"HS={_hs_val_pl:.0f}<40. Cold-bat exclusion RETIRED Jul 29 2026 (90-slate re-audit: cold 2/13 "
+                f"= 15.4%/0.88x vs warm 0/6 = 0.0%). Informational only — no exclusion, no conviction penalty."
             )
         else:
             _lock_flag = (
@@ -23840,6 +23521,7 @@ def _load_grade_stats() -> dict:
     those picks use fallback condition-based detection for computable grades.
     """
     import pickle as _pk
+    import re as _re_auto
     try:
         if not HISTORY_PKL.exists():
             return {}
@@ -24311,6 +23993,10 @@ def _load_grade_stats() -> dict:
         ("live_confirmed_match_hr", lambda p: "LIVE CONFIRMED MATCH" in (p.get("hr_grade") or "")), # CHANGE 2C: LIVE version with L7 recency
         ("era_understated_hr",  lambda p: "ERA Understated HR" in (_g(p,"hr_grade") or "")),  # new June 2026
         ("pitch_reliant_hr",    lambda p: "PITCH-RELIANT" in (_g(p,"hr_grade") or "")),  # new June 2026 — single-pitch-reliant pitcher + power
+        # ── Jul 29 2026 label-audit additions (see hit-side note). Both printed a
+        # frozen mined rate with no live accrual path.
+        ("bt_elite_hr",         lambda p: "BACKTEST ELITE" in (str(_g(p,"hr_grade") or "") + str(_g(p,"flags") or ""))),
+        ("elite_lock_hr",       lambda p: "ELITE LOCK" in (str(_g(p,"hr_grade") or "") + str(_g(p,"flags") or ""))),
         # ══ 🧬 ARCHETYPE REGISTRY (Jul 26 2026) — live rate accrual per archetype ══
         # Keys are archetype_<id>. HR ids match on hr_grade (they are appended there);
         # HIT ids match on flags (hit archetypes are written to the flags column).
@@ -24318,15 +24004,12 @@ def _load_grade_stats() -> dict:
         (f"archetype_{_aid.lower()}",
          (lambda _a: (lambda p: _a in str(_g(p, "hr_grade") or "")))(_aid))
         for _aid in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08",
-                     "HR09","HR10","HR11","HR12","HR13","HR14","HR15","HR16",
-                     "HR17","HR18","HR19",
-                     "PERF01","PERF02","PERF03","PERF04","PERF05","PERF06")
+                     "HR09","HR10","HR11","HR12","HR13","HR14","HR15","HR16")
     ] + [
         (f"archetype_{_aid.lower()}",
          (lambda _a: (lambda p: _a in str(_g(p, "flags") or "")))(_aid))
         for _aid in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08",
-                     "HT09","HT10","HT11","HT12","HT13","HT14","HT15","HT16",
-                     "HT17","HT18")
+                     "HT09","HT10","HT11","HT12","HT13","HT14","HT15","HT16")
     ] + [
         ("archetype_hr_tierA",   lambda p: any(_a in str(_g(p,"hr_grade") or "")
                                     for _a in ("HR01","HR02","HR03","HR04","HR05","HR06","HR07","HR08"))),
@@ -24336,17 +24019,6 @@ def _load_grade_stats() -> dict:
                                     if _a in str(_g(p,"hr_grade") or "")) >= 3),
         ("archetype_hit_tierA",  lambda p: any(_a in str(_g(p,"flags") or "")
                                     for _a in ("HT01","HT02","HT03","HT04","HT05","HT06","HT07","HT08"))),
-        # ── 🧪 PF gate-audit tracking rollups (Jul 28 2026) ──────────────────
-        ("pf_audit_hr_any",   lambda p: any(_a in str(_g(p,"hr_grade") or "")
-                                    for _a in ("HR17","HR18","HR19"))),
-        ("pf_audit_hit_any",  lambda p: any(_a in str(_g(p,"flags") or "")
-                                    for _a in ("HT17","HT18"))),
-        ("pf_ctx_inert",      lambda p: "PF INERT" in str(_g(p,"flags") or "")),
-        # ── 🎖️ Perfect-combo tracker rollups (Jul 28 2026) ───────────────────
-        ("perfect_combo_any", lambda p: any(_a in str(_g(p,"hr_grade") or "")
-                                    for _a in ("PERF01","PERF02","PERF03","PERF04","PERF05","PERF06"))),
-        ("perfect_combo_live", lambda p: any(_a in str(_g(p,"hr_grade") or "")
-                                    for _a in ("PERF01","PERF03","PERF04"))),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last5), _fmt_hr(subset, all_set))
@@ -24358,6 +24030,23 @@ def _load_grade_stats() -> dict:
                                           _g(p,"pm")>=1.04 and _mid_score_hr(p))
     def _sigpm_ic_stack(p):      return _sig_pm_hr(p) and _ice_cold_hr(p)
 
+    # ── Jul 29 2026: two combo grades promoted to TRACKING from the null-scored
+    # stacking scan (90-slate master CSV). Neither survives Benjamini-Hochberg FDR
+    # across the ~4,900 combos tested — best p=8.3e-04 vs a rank-1 threshold of
+    # 2.0e-05 — so they carry ZERO conviction credit and must never win a tie.
+    # They are registered so their live rates accrue and can be re-tested.
+    # CAVEATS ON RECORD: (1) every fire is in July — no May or June fires at all,
+    # so these are recent-window only; (2) they overlap at Jaccard 0.67, far above
+    # the 0.35 keeper threshold used in the archetype method — 8 of the rows are
+    # shared, so they are close to one signal wearing two labels, not two.
+    def _stack_match_blowup(p):
+        _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
+        return ("STACK" in _t) and ("MATCH" in _t) and ("BLOWUP" in _t)
+
+    def _t4ptm_pitchdom_extreme(p):
+        _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
+        return ("T4_PTM+PITCH_DOM" in _t) and ("EXTREME" in _t)
+
     for key, fn in [
         ("ice_cold_sweet_hr",     _ice_cold_sweet_stack),
         ("ic_signal_sharp_pm",    _ic_signal_sharp_pm),   # NEW
@@ -24367,6 +24056,9 @@ def _load_grade_stats() -> dict:
         ("any_grade_conf_match",  _any_grade_conf_match), # NEW: any grade + CONFIRMED MATCH HR stacking
         ("three_grade_stack",     _three_grade_stack),
         ("slm_vuln_ic_stack",     _slm_vuln_ic_stack),
+        # Jul 29 2026 tracking combos (zero conv credit — see note above)
+        ("stack_match_blowup_hr",      _stack_match_blowup),
+        ("t4ptm_pitchdom_extreme_hr",  _t4ptm_pitchdom_extreme),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last10), _fmt_hr(subset, all_set))
@@ -24400,6 +24092,15 @@ def _load_grade_stats() -> dict:
         ("sig_pm_hit",        _sig_pm_hit),        # NEW
         ("sig4_pm_hit",       _sig4_pm_hit),       # NEW: best new hit grade
         ("pitch_reliant_hit", lambda p: "PITCH-RELIANT HIT" in (_g(p,"hit_grade") or "")),  # NEW Jun 2026 — emerging, tracked
+        # ── Jul 29 2026: keys added after the label audit found these grades printing
+        # a FROZEN mined rate on every slate with no live accrual. PRIME+PitchEdge
+        # advertised "100% Hit (4/4)" across all 25 slates it fired on while actually
+        # running 86/144 = 59.7% (0.96x — BELOW the 62.5% hit base, decaying 78%→57%
+        # June→July). BACKTEST ELITE advertised 94-100% and runs 63.3% hit / 20.3% HR.
+        # These grades were never in the registry, so _grade_rate() could only ever
+        # return the hardcoded fallback. Registering them makes the labels self-correct.
+        ("prime_pitchedge_hit", lambda p: "PRIME+PitchEdge" in (str(_g(p,"hit_grade") or "") + str(_g(p,"flags") or ""))),
+        ("bt_elite_hit",        lambda p: "BACKTEST ELITE" in (str(_g(p,"hit_grade") or "") + str(_g(p,"flags") or ""))),
         ("weak_flagged_hit",  _weak_flagged),
         ("no_grade_hit",      _no_grade_hit),
     ]:
@@ -24414,6 +24115,83 @@ def _load_grade_stats() -> dict:
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hit(subset, last10), _fmt_hit(subset, all_set))
+
+    # ══════════════════════════════════════════════════════════════════════
+    # 🔑 AUTO-DERIVED GRADE REGISTRY (Jul 29 2026)
+    # ──────────────────────────────────────────────────────────────────────
+    # WHY THIS EXISTS. Every key above is hand-maintained. A grade added to
+    # _score_sharp without someone remembering to also add it here silently
+    # inherits a frozen label: _grade_rate() misses the key and falls through
+    # to the hardcoded mined figure forever. The Jul 29 label audit caught
+    # PRIME+PitchEdge printing "100% Hit (4/4)" on all 25 slates it fired on
+    # while actually running 86/144 = 59.7% (0.96x, BELOW the 62.5% hit base,
+    # decaying 78%→57% June→July), and BACKTEST ELITE printing 94-100% while
+    # running 20.3% HR / 63.3% hit. Both were absent from the list entirely.
+    # Auditing the panel showed EVERY named grade with n>=8 overstates its
+    # rate; not one understates. That is a structural reporting defect, so the
+    # fix has to be structural rather than four more hand-added rows.
+    #
+    # HOW IT WORKS. Scan the grade text actually stored on each pick
+    # (hr_grade / hit_grade / flags), pull out named grade markers, and
+    # register one key per distinct marker automatically. Keys are namespaced
+    # "auto_hr:<MARKER>" / "auto_hit:<MARKER>" so they can never collide with
+    # a hand-registered key, and hand keys always win in the resolver.
+    # Markers are upper-case tokens, which is how every grade in this model is
+    # written; lower-case prose and bare stats are excluded by the pattern and
+    # by _AUTO_NOISE.
+    _AUTO_NOISE = {
+        # stat fragments and structural words that look like markers but aren't grades
+        "FB", "HH", "PULL", "ISO", "BRL", "AT", "L5", "L10", "HR", "HIT", "PA",
+        "CSV", "PLAY", "LEAN", "PASS", "NA", "TBD", "VS", "AND", "OR", "THE",
+        "WITH", "PER", "AVG", "EST", "MIN", "MAX", "PCT", "OBP", "SLG", "WOBA",
+        "RHB", "LHB", "IP", "ERA", "WHIP", "BB", "SO", "PM", "HS", "WHR", "SIG",
+    }
+    # Mixed-case tolerant. The old pattern required an UPPER continuation, so any
+    # grade name containing lower-case letters truncated at the first one —
+    # "T4_BBE+Sc65" registered as "T4_BBE+S", "PRIME+PitchEdge" as "PRIME+P",
+    # "HR17 PF-Air" as "HR17 PF-A". Those stubs are useless as keys. Tokens must
+    # still START upper-case (every grade in this model does) but may now carry
+    # lower-case, digits, and the joiner characters the grade names actually use.
+    _AUTO_MARKER = _re_auto.compile(
+        r'[A-Z][A-Za-z0-9_\+\-\.]{3,}(?:\s+[A-Z][A-Za-z0-9_\+\-\.]{1,}){0,3}'
+    )
+
+    def _auto_markers(txt: str) -> set:
+        """Named grade markers present in one grade/flags blob."""
+        out = set()
+        for m in _AUTO_MARKER.findall(str(txt or "")):
+            m = m.strip()
+            if not (4 <= len(m) <= 34):
+                continue
+            if m in _AUTO_NOISE or m.split()[0] in _AUTO_NOISE:
+                continue
+            out.add(m)
+        return out
+
+    # Collect the marker vocabulary once across the whole pkl, then register
+    # only markers with enough fires to mean anything (>=5), so the stats dict
+    # doesn't balloon with one-off typos or slate-specific strings.
+    _auto_hr_seen, _auto_hit_seen = {}, {}
+    for _p in picks:
+        _hrtxt = str(_g(_p, "hr_grade") or "") + " " + str(_g(_p, "flags") or "")
+        _httxt = str(_g(_p, "hit_grade") or "") + " " + str(_g(_p, "flags") or "")
+        for _mk in _auto_markers(_hrtxt):
+            _auto_hr_seen.setdefault(_mk, []).append(_p)
+        for _mk in _auto_markers(_httxt):
+            _auto_hit_seen.setdefault(_mk, []).append(_p)
+
+    _AUTO_MIN_FIRES = 5
+    for _mk, _subset in _auto_hr_seen.items():
+        if len(_subset) < _AUTO_MIN_FIRES:
+            continue
+        stats[f"auto_hr:{_mk}"] = (_fmt_hr(_subset, last5), _fmt_hr(_subset, all_set))
+    for _mk, _subset in _auto_hit_seen.items():
+        if len(_subset) < _AUTO_MIN_FIRES:
+            continue
+        stats[f"auto_hit:{_mk}"] = (_fmt_hit(_subset, last5), _fmt_hit(_subset, all_set))
+
+    stats["_auto_hr_keys"]  = sorted(k for k in stats if k.startswith("auto_hr:"))
+    stats["_auto_hit_keys"] = sorted(k for k in stats if k.startswith("auto_hit:"))
 
     stats["_slate_count"] = len(all_dates)
     return stats
@@ -24471,6 +24249,68 @@ def _grade_rate_pair(key: str, fallback_l5: str, fallback_all: str):
     if _empty(all_):
         return (fallback_l5, fallback_all)
     return (l5 if not _empty(l5) else fallback_l5, all_)
+
+
+def _live_rate(marker: str, kind: str = "hr", fallback: str = "", key: str = "") -> str:
+    """Live all-time rate for ANY named grade, with no hand-registration required.
+
+    Jul 29 2026. Resolution order:
+      1) explicit hand-registered `key` if the caller passes one (hand keys win —
+         they encode gate logic the marker text can't express),
+      2) the auto-derived key for `marker` ("auto_hr:<MARKER>" / "auto_hit:<MARKER>"),
+      3) the caller's hardcoded fallback (the mined figure).
+
+    This is the resolver that closes the frozen-label defect as a CLASS: a new
+    grade only has to pass its own marker text here and it accrues live rates
+    from the pkl automatically, whether or not anyone remembers the registry.
+    Emptiness rules mirror _grade_rate so labels and the grade table agree.
+    """
+    gs = _grade_stats_cached()
+    if not gs or gs.get("_slate_count", 0) < 1:
+        return fallback
+
+    def _ok(v):
+        if not v:
+            return False
+        if isinstance(v, str):
+            import re as _re_lr
+            m = _re_lr.search(r"(\d+)/(\d+)", v)
+            if m and int(m.group(2)) == 0:
+                return False
+        return True
+
+    if key:
+        _, all_ = gs.get(key, (None, None))
+        if _ok(all_):
+            return all_
+    ns = "auto_hr:" if str(kind).lower().startswith("hr") else "auto_hit:"
+    _, all_ = gs.get(ns + str(marker), (None, None))
+    if _ok(all_):
+        return all_
+    return fallback
+
+
+def _live_rate_pair(marker: str, kind: str = "hr", fb_l5: str = "", fb_all: str = "", key: str = ""):
+    """(L5, all-time) live rates for any named grade. Same resolution order as _live_rate."""
+    gs = _grade_stats_cached()
+
+    def _ok(v):
+        if not v:
+            return False
+        if isinstance(v, str):
+            import re as _re_lp
+            m = _re_lp.search(r"(\d+)/(\d+)", v)
+            if m and int(m.group(2)) == 0:
+                return False
+        return True
+
+    if not gs or gs.get("_slate_count", 0) < 1:
+        return (fb_l5, fb_all)
+    for _k in ([key] if key else []) + [("auto_hr:" if str(kind).lower().startswith("hr") else "auto_hit:") + str(marker)]:
+        l5, all_ = gs.get(_k, (None, None))
+        if _ok(all_):
+            return (l5 if _ok(l5) else fb_l5, all_)
+    return (fb_l5, fb_all)
 
 
 def _sheet_sharp_picks(wb, scores, top_n):
@@ -26008,35 +25848,6 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🥇 Any 2+ grades",       "Batter fires 2 or more independent grade signals",                                               _a2g_l5,  _a2g_all),
         ("📊 Any 1 grade",         "Single grade fires",                                                                              _ag_l5,   _ag_all),
         # ═══ 🧬 STACKED ARCHETYPE LIBRARY (Jul 26 2026) ═══
-        ("🎖️ PERFECT-COMBO TRACKER (Jul 28 2026)",
-         "The six 2-4 way predicate stacks that ran 100% HR at n>=5 since Jun 1, from an "
-         "exhaustive scan of 62 quant+qual predicates over 2,692 rows / 51 slates / 287 "
-         "batters (base 17.09%). ⚠️ ALL SIX SIT INSIDE THE NOISE BAND: a within-slate "
-         "permutation null produced 0-6 perfect combos by chance and six were observed. "
-         "At n>=8 the file contains ZERO 100% combos; at n>=15, zero above 75%. Only ~13 "
-         "distinct batters across all six (Soto in three, Alvarez in three, Alonso in "
-         "two). PERF03 is the only one with a SCORED post-ASG claim (2/2, both multi-HR); "
-         "PERF01 is 1/1 (Marte Jul 26); PERF05/PERF06 each fired once post-ASG (Cortes "
-         "Jul 22) with NO outcome recorded in the CSV — unknown, not zero. "
-         "PERF04 is a strict SUBSET of PERF03 and PERF05/PERF06 share 4 of 5 rows — a "
-         "joint fire is ONE signal. PERF02 rests on the retired SCREAM HR grade and has "
-         "not fired since Jun 16. Tier B throughout: surfaced on the card, zero conviction "
-         "credit, cannot trigger the Tier-A confluence must-play.",
-         "6 combos · n=5-6 each", "100% HR — but inside the noise band"),
-        ("🧪 PROPFINDER GATE AUDIT (Jul 28 2026)",
-         "23 slates (Jul 1-27), 521 rows w/ outcomes, base HR 15.16% / HIT 61.04%. "
-         "THREE FINDINGS. (1) ISO>0.2 and Pull%>30 pass 97.7% and 97.9% of the time — "
-         "no discriminating variance, so X/9 is really X/7 plus two freebies. "
-         "(2) The seven live gates split into two families with OPPOSITE signs: AIR "
-         "(Air%/GB%/Blast%) is positive in every context tested, PULL "
-         "(Barrel%/PullBrl%/FB%/HH%) is null-to-negative and turns most negative on "
-         "exactly the high-Power/high-PM bats where the model already prices that "
-         "information. (3) Gate count is NON-MONOTONIC — 9/9 runs 0.88x while 4-5/9 "
-         "runs 1.15x — and the failure is conditional on matchup: Vuln<47 with 8-9 "
-         "gates = 0.62x. PropFinder cannot rescue a bad matchup. Everything shipped "
-         "from this audit is TIER B TRACKING with zero conviction credit; the legacy "
-         "X/9 display and every archetype gating on it (HT05, HR16) are UNCHANGED.",
-         "23 slates · 521 rows", "9/9 = 0.88x · Vu<47+8-9 gates = 0.62x"),
         ("🧬 ARCHETYPE ENGINE — HOW IT WORKS",
          "Mined from the 72-slate merged CSV (n=3,446; base HR 16.45%%, base HIT 62.51%%) by beam search over 366 predicates stacking QUANTITATIVE bands on QUALITATIVE note/flag markers, depth 1-10. Four survival gates: Fisher p<0.01; slate-level bootstrap 5th-pct lift ≥1.6x HR / ≥1.12x HIT; split-half stability (BOTH halves of its own window beat base); Jaccard<0.35 vs every other keeper. TIER A = promote (conviction credit). TIER B = track (zero credit, promote at n≥40). ⚠️ Post-ASG the slate HR base fell 16.45%%→10.64%% — Tier A held 2.17-2.75x but absolute rates fell to 25-30%%.",
          "Tier A HR: 52.0%%/3.16x n=125", "Tier A HIT: 92.3%%/1.48x n=181"),
@@ -26171,23 +25982,6 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🔥 PWR-VULN-ENV HR",       "elite"),   # 2.87x primary (50%, n=16, pkl Jun24)
         ("🎯 SUPP-PARK SWEET-PM HR","elite"),   # 4.40x (33.3%, n=18, pkl Jun25)
         # ══ 🧬 ARCHETYPES (Jul 26 2026) — Tier A all "elite"; every one ≥3.4x ══
-        # ══ 🧪 PF GATE-AUDIT TRACKING (Jul 28 2026) — diagnostic, zero credit ══
-        ("🎖️🎖️ PERFECT-COMBO TRACKER FIRED", "situational"),
-        ("🎖️ PERFECT-COMBO",                "situational"),
-        ("🧬 PERF01 Z-Contact Cold Super-Vuln", "situational"),
-        ("🧬 PERF02 Scream-HR Long-Odds Warm Bat", "situational"),
-        ("🧬 PERF03 Elite-Contact Short-Price Vuln Lock", "situational"),
-        ("🧬 PERF04 Elite-Contact Short-Price SUPER-Vuln", "situational"),
-        ("🧬 PERF05 Super-Vuln Hot-Bat Boosted Env", "situational"),
-        ("🧬 PERF06 Super-Vuln Hot-Bat High-Conviction", "situational"),
-        ("🧪 PF FAMILY",                    "situational"),
-        ("🧪 PF AIR-WITHOUT-PULL PROFILE",  "situational"),
-        ("⚠️ PF INERT",                     "situational"),
-        ("🧬 HR17 PF-Air Contrarian",       "situational"),
-        ("🧬 HR18 PF-Air Super-Vuln Elite", "situational"),
-        ("🧬 HR19 PF Pull-Fail Vuln Value", "situational"),
-        ("🎯 HT17 PF-Air Vuln Lock",        "situational"),
-        ("🎯 HT18 PF-Air Vuln Contact Broad","situational"),
         ("🧬🧬🧬 ARCHETYPE TRIPLE CONFLUENCE", "elite"),   # 6.08x (100%, n=8)
         ("🧬🧬 ARCHETYPE DOUBLE CONFLUENCE",  "elite"),   # 4.75x (78.1%, n=32)
         ("🧬 HR01",                  "elite"),   # 4.05x (66.7%, n=21)
@@ -28059,17 +27853,10 @@ def _sheet_sharp_picks(wb, scores, top_n):
         _prefix_label = ""
         if _has_elite_lock and not _rationale.startswith("⛔"):
             _el_odds = abs(getattr(sc, 'hr_over_price', 0.0) or 0.0)
-            if _has_cold_bat_pl:
-                _prefix_label = "🏆🏆 ELITE LOCK ⚠️ COLD BAT"
-            elif _el_odds >= 250.0 or _el_odds == 0.0:
-                _prefix_label = "🏆🏆 ELITE LOCK (60.0% HR / 3.40x)"
-            else:
-                _prefix_label = "🏆🏆 ELITE LOCK (53.8% HR / 3.05x)"
+            # Jul 29 2026: cold-bat prefix no longer downgrades the pick (exclusion retired).
+            _prefix_label = "🏆🏆 ELITE LOCK (18.8% HR / 1.08x, n=32)"
         elif _has_prime_lock and not _rationale.startswith("⛔"):
-            if _has_cold_bat_pl:
-                _prefix_label = "🏆 PRIME LOCK ⚠️ COLD BAT"
-            else:
-                _prefix_label = "🏆 PRIME LOCK (50.0% HR / 2.84x with uplift)"
+            _prefix_label = "🏆 PRIME LOCK (50.0% HR / 2.84x with uplift)"
         elif _bgs_tier_label and not _rationale.startswith("⛔"):
             _prefix_label = _bgs_tier_label
 
@@ -30045,7 +29832,6 @@ def main():
             daily_batter = {}
         daily_pitch         = {}   # batter pitch-type wOBA/SLG by pitch
         daily_pitcher_pitch = {}   # pitcher arsenal usage% by pitch type
-        _DP_PIVOT_APPLIED   = 0    # count of pitchers enriched by the long->wide pivot
         try:
             daily_pitcher_pitch, daily_pitch = load_daily_pitch(FANTASYLABS_FILE)
         except Exception as e:
@@ -30708,19 +30494,6 @@ def main():
                 pitcher_cache[pname] = build_pitcher(pname, _p_row, phand, pteam, ov)
             else:
                 pitcher_cache[pname] = build_pitcher_default(pname, phand, pteam, ov)
-
-            # ── Apply the DailyPitch long->wide pivot (2026-07-27) ────────────
-            # Populates woba_allowed_ff/si/sl/ch + barrel_pct_* which the sheet
-            # columns never supplied. Without this PITCH HR CONC cannot fire.
-            try:
-                _pv_pid = (ov.get("player_id")
-                           or (_p_row.get("player_id") if _p_row is not None else None)
-                           or _name_to_pid.get(_norm_p(pname)) if "_name_to_pid" in dir() else None)
-                if _pv_pid:
-                    _DP_PIVOT_APPLIED += int(apply_dailypitch_pivot(
-                        pitcher_cache[pname], _pv_pid, daily_pitcher_pitch))
-            except Exception:
-                pass
 
             # ── Apply discipline data (CSW%, O-Swing%, Z-Contact%, SIERA) ────
             if _disc_data and pname in _disc_data:
