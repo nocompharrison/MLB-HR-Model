@@ -21478,12 +21478,25 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     #
     # NET EFFECT: ~62% of previously-excluded batters (57 of 92) are released at
     # 0.98x instead of being suppressed for no measured reason.
+    # UPDATE Jul 29 2026 (91-slate master CSV, n=3,723, base HIT 62.42%) —
+    # SOFTENED FROM HARD EXCLUDE TO DEPRIORITIZE. The rule replicates and is the
+    # only one of three suppressors audited that survived, but not at a strength
+    # that justifies removing a batter from the card outright:
+    #     Env<0.90 + Vuln<47 : 143/255 = 56.1% hit, 0.90x, Fisher p=0.0321,
+    #                          slate-bootstrap [0.80, 0.99], halves 52%/59%, 63 slates
+    #     Env<0.90 alone     : 309/505 = 61.2% hit, 0.98x, p=0.55  <- Vuln<47 is load-bearing
+    # So the effect is real and the bootstrap sits entirely below 1.0 — but 56.1%
+    # is still a majority-hit population. A 0.90x signal should move a pick DOWN
+    # the card, not off it. Hard exclusion cost real hits: James Wood (2 hits Jul 29,
+    # excluded three consecutive slates and got hits in all three) and Jake Bauers
+    # (2 hits Jul 28).
     _short_start_env = (_env_val_wk > 0 and _env_val_wk < 0.90)
     if _hs_val_wk >= 50.0 and _short_start_env and vuln < 47.0:
         flags.append(
             f"⚠️ EXTREME SHORT-START HIT: Env={_env_val_wk:.2f}<0.90 + HS={_hs_val_wk:.0f} "
-            f"+ Vuln={vuln:.0f}<47 — backtest: 40.0% hit / 0.68x (n=35, 85-sl CSV Jul27, "
-            f"perm p=0.010). Hard exclude from top-10 hit picks."
+            f"+ Vuln={vuln:.0f}<47 — 56.1% hit / 0.90x (n=255, 91-sl CSV Jul29, p=0.032, "
+            f"bootstrap [0.80,0.99]). DEPRIORITIZE — rank below clean bats, do NOT hard exclude "
+            f"(softened Jul 29 2026; still a 56% hit population)."
         )
     elif _hs_val_wk >= 50.0 and _short_start_env:
         # Vuln>=47 — NOT excluded. Suppressive air against a vulnerable arm runs at
@@ -21513,13 +21526,26 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"no deprioritization applied]"
         )
 
-    # 4. REGRESSION RISK — extreme HS tier:
-    # HS 65-70 = 44.4% hit rate (0.68x) — severe regression zone
-    # Typically 100% L5 driving HS this high; season rate trails far behind
+    # 4. ❌ HIT REGRESSION RISK — RETIRED Jul 29 2026 (91-slate master CSV, n=3,723).
+    # Claimed 44.4% hit / 0.68x on 18 picks. Re-audit finds NO SUPPORT:
+    #   • HS 65-70 (the rule's own window): 11/22 = 50.0% / 0.80x, p=0.27,
+    #     slate-bootstrap [0.52, 1.07] — the interval crosses 1.0.
+    #   • Text fires to date: 6/12 = 50.0% / 0.80x, bootstrap [0.44, 1.15].
+    #   • BOTH NEIGHBOURING BANDS ARE BETTER: HS 60-65 = 58/83 = 69.9% / 1.12x,
+    #     and HS 70-75 = 3/3 = 100%. A 5-point window that underperforms both of
+    #     its neighbours on n=22 is a hole in the data, not a regression mechanism.
+    #   • HS>=65 overall: 14/25 = 56.0% / 0.90x, p=0.54.
+    # Cost real hits: Drake Baldwin (2 hits) and Michael Harris II both excluded
+    # Jul 29; Baldwin also excluded Jul 28. Harris II's exclusion overrode a
+    # firing HT02 Tier-A hit archetype (96.3%, n=27) — a validated archetype was
+    # being beaten by an n=22 suppressor.
+    # Kept as a neutral context note so the registry key keeps populating.
     if _hs_val_wk >= 65.0 and _hs_val_wk < 70.0:
         flags.append(
-            f"⚠️ HIT REGRESSION RISK: HS={_hs_val_wk:.0f} in 65-70 zone — "
-            f"backtest: 44.4% hit rate / 0.68x (18 picks). L5 likely unsustainably hot. Deprioritize."
+            f"ℹ️ HS={_hs_val_wk:.0f} in the old 65-70 regression window "
+            f"[HIT REGRESSION RISK RETIRED Jul 29 2026 — 50.0% hit / 0.80x on n=22, "
+            f"bootstrap [0.52,1.07] crosses 1.0, and HS 60-65 runs 1.12x. "
+            f"No deprioritization applied]"
         )
 
     # 5. SHARP HIT booster — positive signal:
@@ -23395,16 +23421,27 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     if _bgs_tier:
         flags.append(_bgs_tier)
-        # ENV DEMOTION note appended even when BGS tier fires — warns pick ranks below
-        # any same-tier pick with active pitch-match grade (Env<1.00 + no PRIME/CONFIRMED).
+        # ENV DEMOTION — ❌ DOWNGRADED TO A NEUTRAL NOTE Jul 29 2026.
+        # Was: "BGS deprioritized vs same-tier picks with active PRIME/CONFIRMED".
+        # Re-audit on the 91-slate master CSV (n=3,723, base HR 16.30%) does not
+        # support a deprioritization of any size:
+        #     ENV DEMOTION text fires    :   4/24  = 16.7% / 1.02x, p=1.00, boot [0.40,1.81]
+        #     Env<1.00 (all)             : 282/1833 = 15.4% / 0.94x, p=0.14, boot [0.88,1.01]
+        #     Env>=1.00 (all)            : 325/1890 = 17.2% / 1.05x
+        #     Env<1.00 + no PRIME/CONF   : 257/1647 = 15.6% / 0.96x, p=0.30, boot [0.88,1.03]
+        #     Env<0.95                   : 182/1218 = 14.9% / 0.92x, p=0.12
+        # The true suppressed-vs-live spread is 0.94x vs 1.05x — about 11% — and the
+        # demoted population still homers at 15.4%. The original 10.7%/0.72x claim on
+        # n=709 does not reproduce at n=1,833. Cost a real HR: Pete Crow-Armstrong
+        # (Jul 29, 9/9 SUPER NUCLEAR PropFinder + BGS=11 CONVICTION, +400) was kept
+        # off the card by this rule and homered. On that same slate env ran the wrong
+        # way entirely: env 1.00-1.08 went 1/23 while env <0.92 went 3/25.
         if _bgs_env_demotion:
-            _vuln_demotion_note = ""
-            if 48.0 <= vuln <= 52.0:
-                _vuln_demotion_note = f" Vuln {vuln:.0f} sub-bucket worst: 8.6% HR / 0.58x."
             flags.append(
-                f"⚠️ ENV DEMOTION: No pitch-match grade + Env{_bgs_env:.2f}<1.00 "
-                f"→ 10.7% HR / 0.72x (n=709, 74-sl CSV Jul9).{_vuln_demotion_note} "
-                f"BGS deprioritized vs same-tier picks with active PRIME/CONFIRMED grade."
+                f"ℹ️ Env{_bgs_env:.2f}<1.00 with no pitch-match grade "
+                f"[ENV DEMOTION DOWNGRADED Jul 29 2026 — re-audit: 15.6% HR / 0.96x on "
+                f"n=1,647, bootstrap [0.88,1.03]; prior 10.7%/0.72x (n=709) not reproduced. "
+                f"Context only — NO deprioritization applied]"
             )
     elif _bgs_hp_ok and _bgs_has_named and _bgs_model_eligible and not _bgs_tier:
         # Surface which specific negative gate blocked CONVICTION
@@ -25852,7 +25889,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
          "Key finding: Pwr gate is load-bearing (not Env alone). Env gate without pitch grade = 1.07x only. "
          "Conv boost: +8 (Pwr>86 sub-bucket: +12). "
          "Does NOT fire when PWR_VULN_ENV_HR covers the pick (PWR_VULN_ENV requires Vuln>=50). "
-         "ENV DEMOTION (separate rule): picks with Env<1.00 + no PRIME/CONFIRMED = 10.7% HR / 0.72x (n=709). "
+         "ENV DEMOTION (separate rule): ❌ DOWNGRADED Jul 29 2026 — the 10.7% HR / 0.72x (n=709) claim did NOT reproduce; 91-slate re-audit gives 15.6% / 0.96x on n=1,647, bootstrap [0.88,1.03]. Context note only, no deprioritization. "
          "PRIME/CONFIRMED grade rescues cold envs (19.7% / 1.33x with grade vs 10.7% without).",
          "Tracking", "26.1%  19/76"),
         ("🎯 T4_BBE + Park≥1.1 + Pw≥82",
