@@ -15688,13 +15688,56 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     )
     _cold_bat_vuln_ok = _vuln_rs >= 42.0    # pitcher has some exposure
 
-    if _is_cold_bat_hr and _has_slm_rs:
-        # Finding 3: SHARP LINE + cold bat override — confirmed by Devers (Jul 18)
+    # ── SHARP LINE PRICE SPLIT (Jul 30 2026, 91-slate master CSV, n=3,723) ──────
+    # The override below was written as unconditional ("regardless of env/vuln").
+    # A full audit of all 173 SHARP LINE fires across 43 slates shows the signal is
+    # MONOTONIC IN PRICE and crosses over at roughly +350:
+    #     Odds <=+250 : 4/11  = 36.4%  (band base 23.7%)  rel 1.54x
+    #     Odds +250-350: 9/35  = 25.7%  (band base 23.3%)  rel 1.10x
+    #     Odds +350-400: 3/41  =  7.3%  (band base 16.3%)  rel 0.45x
+    #     Odds +400-500: 4/43  =  9.3%  (band base 16.5%)  rel 0.56x
+    #     Odds  +500+  : 1/43  =  2.3%  (band base 12.1%)  rel 0.19x
+    # Aggregate is 21/173 = 12.1% / 0.74x — BELOW baseline — because the long-price
+    # tail swamps the short-price edge. The "regardless of vuln" clause also fails:
+    # every vuln band is below base (Vu<44 0.75x, 44-47 0.50x, 47-52 0.85x, 52+ 0.88x).
+    # There is no vuln level at which SHARP LINE alone is positive for HR.
+    #
+    # THE DEVERS CASE STILL HOLDS. Pulled from the panel: Devers, Jul 18 2026,
+    # Odds +340, Vu39.3, Env0.888, HS29.3 — HR. That is INSIDE the <=+350 band where
+    # the signal runs 1.10-1.54x. The original observation was correct; the error was
+    # generalising it to every price. Both findings reconcile.
+    # Hit side is unaffected and stays positive: 113/173 = 65.3% (1.05x).
+    # NOTE ON SCOPE: read the price off `batter` (BatterProfile.hr_over_price).
+    # `sc` / `_odds_abs_eff` do not exist this early in score_player — they are
+    # built ~5,300 lines further down. Using them here would raise NameError at
+    # runtime while still compiling clean.
+    try:
+        _slm_odds_abs = abs(float(getattr(batter, 'hr_over_price', 0) or 0))
+    except Exception:
+        _slm_odds_abs = 0.0
+    # Price unknown (0) -> treat as NOT eligible for the override, since the
+    # positive band is the narrow one and the long-price tail is the common case.
+    _slm_price_ok = (0.0 < _slm_odds_abs <= 350.0)
+
+    if _is_cold_bat_hr and _has_slm_rs and _slm_price_ok:
+        # SHARP LINE + cold bat override — Devers (Jul 18, +340) validation.
+        # Now gated to Odds<=+350, the band where sharp money is HR-informative.
         _ranking_score *= 1.08
         _pre_notes.append(
-            f"❄️🏆 SHARP LINE + COLD BAT HR: HS={_hit_score_rs:.0f}<40 + sharp line move — "
-            f"Jul 18 validation: Devers (HS29, Env0.888, Vu39) HRd on SLM signal alone. "
-            f"Sharp money on cold bat overrides env/vuln suppressors. +8% ranking."
+            f"❄️🏆 SHARP LINE + COLD BAT HR: HS={_hit_score_rs:.0f}<40 + sharp line move "
+            f"+ Odds≤+350 — Jul 18 validation: Devers (HS29, Env0.888, Vu39, +340) HRd on SLM. "
+            f"Sharp money at a short price runs 1.10-1.54x. +8% ranking. "
+            f"[PRICE-GATED Jul 30 2026 — past +350 this signal INVERTS: 0.45x at +350-400, "
+            f"0.19x at +500+. Aggregate across all prices is 0.74x.]"
+        )
+    elif _is_cold_bat_hr and _has_slm_rs:
+        # SHARP LINE fired but the price is past +350 — this is now a FADE, not an
+        # override. No ranking boost; note only so the reader sees why.
+        _pre_notes.append(
+            f"🚫 SHARP LINE AT LONG PRICE: HS={_hit_score_rs:.0f}<40 + sharp line move but "
+            f"Odds>{'+350'} — override NOT applied. SHARP LINE inverts past +350: "
+            f"7.3% HR (0.45x) at +350-400, 9.3% (0.56x) at +400-500, 2.3% (0.19x) at +500+. "
+            f"Sharp money at a long price is not an HR signal. Hit side unaffected (1.05x)."
         )
     elif _is_cold25_hr and _cold_bat_hr_signal and _cold_bat_vuln_ok:
         # ── RECALIBRATED Jul 28 2026 (74-slate panel, n=3,628, base HR 16.51%) ────
@@ -22143,6 +22186,82 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                 f"two-gate subsets run 2.33x and 2.30x; the jump to 5.10x rests on n=9. Treat 2-3x as "
                 f"the realistic expectation until it clears on fresh slates."
             )
+        # ── HR22 CONTACT-VOLUME VALUE + NEG01 SHALLOW-SLOT LONGSHOT (Jul 30 2026) ──
+        # From the hit->HR correlation audit. A hit is strictly necessary for a HR
+        # (607/607, zero HR without a hit), but hit GRADES select against power and
+        # carry no HR signal. Contact VOLUME does transfer.
+        _pa_v = getattr(sc, "est_pa", None)
+        try:
+            _pa_v = float(_pa_v) if _pa_v is not None else None
+            _od_v = float(str(odds).replace("+", "").replace(",", "").strip())
+        except Exception:
+            _pa_v, _od_v = None, 0.0
+        if (_pa_v is not None and _pa_v >= 4.6 and 0 < _od_v <= 300.0
+                and vuln is not None and float(vuln) >= 47.0):
+            _r22 = _grade_rate("pa_price_vuln_hr", "26.8%  38/142")
+            _firing_grades.append(
+                f"🎖️ HR22 CONTACT-VOLUME VALUE: EstPA={_pa_v:.1f}≥4.6 + Odds≤+300 + Vuln={float(vuln):.0f}≥47 "
+                f"→ {_r22} HR (mined 26.8% 38/142, 1.64x, p=0.0009, 66sl; split-half 29%/25% — the "
+                f"flattest measured in the library). ⚠️ TRACKING ONLY, NO CONV CREDIT — bootstrap "
+                f"5th-pct 1.24x vs the 1.60x gate. Mechanism: deep lineup slot = more swings; short "
+                f"price = the market's power read, which beats the model's own Power column "
+                f"(P(HR|hit): Odds≤+300 = 38.9% vs Pwr87+ = 30.4%)."
+            )
+        if _pa_v is not None and _pa_v < 4.4 and _od_v >= 450.0:
+            _rneg = _grade_rate("shallow_longshot_neg_hr", "12.2%  73/596")
+            _firing_grades.append(
+                f"🚫 NEG01 SHALLOW-SLOT LONGSHOT: EstPA={_pa_v:.1f}<4.4 + Odds≥+450 "
+                f"→ {_rneg} HR (mined 12.2% 73/596, 0.75x, boot5 0.63, halves 11%/13%, 75 slates). "
+                f"NEGATIVE SCREEN — covers ~16% of the board. Shallow lineup slot at a long price is "
+                f"a systematic trap: too few plate appearances to convert a price the market has "
+                f"already judged unlikely. Deprioritize on the HR card; not a hard exclude."
+            )
+        # ── NEG02-04 PRICE-CONTROLLED FADES (Jul 30 2026) ────────────────────
+        # Found by searching WITHIN price bands, so they are not restatements of
+        # "long price is bad". Deprioritize, do NOT hard exclude — the suppressor
+        # audit this week showed hard excludes cost real production.
+        try:
+            _ne = float(str(edge).replace("%", "").replace("+", "").strip())
+        except Exception:
+            _ne = None
+        _npm = float(pm) if pm is not None else None
+        _npk = float(park) if park is not None else None
+        _nsc = float(score) if score is not None else None
+        if _od_v >= 400.0 and _npm is not None and _npm < 1.00 and _ne is not None and 5.0 <= _ne <= 15.0:
+            _r = _grade_rate("neg_longprice_pm_edge_hr", "3.7%  4/107")
+            _firing_grades.append(
+                f"🚫 NEG02 LONG-PRICE EDGE MIRAGE: Odds≥+400 + PM={_npm:.3f}<1.00 + Edge={_ne:.1f}% in 5-15% "
+                f"→ {_r} HR (mined 3.7% 4/107, 0.23x, p=4e-05, boot95 0.45, halves 4%/3%, 47sl). "
+                f"STRONGEST FADE IN THE FILE. A long price plus a poor pitch match where the model still "
+                f"claims positive edge means the edge term is firing on noise. Deprioritize."
+            )
+        if _od_v >= 400.0 and _npk is not None and 0.90 <= _npk <= 1.00 and _npm is not None and _npm < 1.00:
+            _r = _grade_rate("neg_longprice_park_pm_hr", "5.6%  9/160")
+            _firing_grades.append(
+                f"🚫 NEG03 LONG-PRICE DEAD PARK+MATCH: Odds≥+400 + Park={_npk:.2f} (0.90-1.00) + PM={_npm:.3f}<1.00 "
+                f"→ {_r} HR (mined 5.6% 9/160, 0.35x, p=3e-05, boot95 0.54, halves 6%/5%, 64sl). Deprioritize."
+            )
+        if _od_v >= 400.0 and _nsc is not None and _nsc < 50.0 and _ne is not None and 5.0 <= _ne <= 10.0:
+            _r = _grade_rate("neg_longprice_score_edge_hr", "5.9%  12/202")
+            _firing_grades.append(
+                f"🚫 NEG04 LONG-PRICE LOW-SCORE EDGE: Odds≥+400 + Score={_nsc:.0f}<50 + Edge={_ne:.1f}% in 5-10% "
+                f"→ {_r} HR (mined 5.9% 12/202, 0.36x, p<1e-05, boot95 0.50, halves 4%/8%, 50sl). Deprioritize."
+            )
+        # NEG05 — the ONLY qualitative exclusion to clear the full battery. Grade
+        # markers were searched alongside the numeric predicates (186 markers at
+        # n>=25); the rest failed on bootstrap: SWEET PM HR + Odds>=+400 boot95 1.10,
+        # MID-HS DULL + Odds>=+400 boot95 1.09, HIT PM WEAK ZONE boot95 1.01.
+        # Qualitative fades are consistently weaker than quantitative ones — grades
+        # identify situations, but the fades live in price and pitch-match mismatch.
+        if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 47.0:
+            _r = _grade_rate("neg_supp_l5_low_vuln_hr", "7.9%  7/89")
+            _firing_grades.append(
+                f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<47 "
+                f"→ {_r} HR (mined 7.9% 7/89, 0.48x, p=0.015, boot95 0.77, halves 10%/6%, 26sl). "
+                f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
+                f"not running hot — the 'buy low' read does not apply here. Mirror of the existing rule "
+                f"exempting Vu≥52 arms from the suppressing-L5 cap. Deprioritize."
+            )
     except Exception:
         pass
 
@@ -24113,6 +24232,62 @@ def _load_grade_stats() -> dict:
         _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
         return ("T4_PTM+PITCH_DOM" in _t) and ("EXTREME" in _t)
 
+    def _pa_price_vuln_hr(p):
+        """HR22 CONTACT-VOLUME VALUE — EstPA>=4.6 + Odds<=+300 + Vuln>=47."""
+        try:
+            _pa = float(_g(p, "est_pa")); _v = float(_g(p, "vuln"))
+            _o = float(str(_g(p, "odds")).replace("+", "").replace(",", "").strip())
+        except Exception:
+            return False
+        return _pa >= 4.6 and 0 < _o <= 300.0 and _v >= 47.0
+
+    def _shallow_longshot_hr(p):
+        """NEG01 SHALLOW-SLOT LONGSHOT — EstPA<4.4 + Odds>=+450. Negative screen."""
+        try:
+            _pa = float(_g(p, "est_pa"))
+            _o = float(str(_g(p, "odds")).replace("+", "").replace(",", "").strip())
+        except Exception:
+            return False
+        return _pa < 4.4 and _o >= 450.0
+
+    def _neg_longprice_pm_edge(p):
+        """NEG02 — Odds>=+400 + PM<1.00 + Edge 5-15%. 3.7% HR (0.23x, n=107)."""
+        try:
+            _o=float(str(_g(p,"odds")).replace("+","").replace(",","").strip())
+            _m=float(_g(p,"pitch_match")); _e=float(str(_g(p,"edge")).replace("%","").replace("+",""))
+        except Exception: return False
+        return _o>=400.0 and _m<1.00 and 5.0<=_e<=15.0
+
+    def _neg_longprice_park_pm(p):
+        """NEG03 — Odds>=+400 + Park 0.90-1.00 + PM<1.00. 5.6% HR (0.35x, n=160)."""
+        try:
+            _o=float(str(_g(p,"odds")).replace("+","").replace(",","").strip())
+            _pk=float(_g(p,"park")); _m=float(_g(p,"pitch_match"))
+        except Exception: return False
+        return _o>=400.0 and 0.90<=_pk<=1.00 and _m<1.00
+
+    def _neg_longprice_score_edge(p):
+        """NEG04 — Odds>=+400 + Score<50 + Edge 5-10%. 5.9% HR (0.36x, n=202)."""
+        try:
+            _o=float(str(_g(p,"odds")).replace("+","").replace(",","").strip())
+            _sc=float(_g(p,"score")); _e=float(str(_g(p,"edge")).replace("%","").replace("+",""))
+        except Exception: return False
+        return _o>=400.0 and _sc<50.0 and 5.0<=_e<=10.0
+
+    def _neg_supp_l5_low_vuln(p):
+        """NEG05 — Suppressing L5 + Vuln<47. 7.9% HR (0.48x, n=89). Only qualitative
+        exclusion to clear the full battery: p=0.015, boot95 0.77, halves 10%/6%, 26sl.
+        Mechanism: an arm suppressing HR over its last five AND rating below the
+        vulnerability gate is genuinely executing, not running hot. Mirror of the
+        existing rule that EXEMPTS Vu>=52 arms from the suppressing-L5 cap."""
+        _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
+        if "Suppressing L5" not in _t:
+            return False
+        try:
+            return float(_g(p,"vuln")) < 47.0
+        except Exception:
+            return False
+
     def _sv_pm_gap_high_score(p):
         """HR21 SUPER-VUL PM-GAP HIGH SCORE — Vuln 54-57 + PM outside 1.01-1.07 + Score>=60."""
         _v = _g(p, "vuln"); _m = _g(p, "pitch_match"); _s = _g(p, "score")
@@ -24168,6 +24343,37 @@ def _load_grade_stats() -> dict:
         # (Vuln+PM); the jump to 5.10x rests on n=9 and is probably mostly noise.
         # TRACKING ONLY — zero conviction credit until it clears on fresh slates.
         ("sv_pm_gap_high_score_hr",    _sv_pm_gap_high_score),
+        # ── HR22 / NEG01 (Jul 30 2026) — from the hit->HR correlation audit ──
+        # A hit is STRICTLY necessary for a HR: 607/607 HR also recorded a hit,
+        # zero HR without one. P(HR|hit) = 26.1% (1.60x). But hit *grades* select
+        # against power and carry no HR signal (SCREAM HIT 0.85x, HIT SOLID 0.84x,
+        # PRIME+PitchEdge 0.84x). The hit-side quantity that DOES transfer is
+        # contact VOLUME: EstPA>=4.6 = 1.15x, EstPA<4.2 = 0.61x, a 1.9x spread.
+        # HR22  EstPA>=4.6 + Odds<=+300 + Vuln>=47 : 38/142 = 26.8%, 1.64x,
+        #       p=0.0009, boot5 1.24, halves 29%/25% over 66 slates. Flattest
+        #       split-half measured to date. TRACKING — boot5 misses the 1.60 gate.
+        # NEG01 EstPA<4.4 + Odds>=+450 : 73/596 = 12.2%, 0.75x, boot5 0.63,
+        #       halves 11%/13%, 75 slates, 16% of the panel. NEGATIVE SCREEN.
+        ("pa_price_vuln_hr",           _pa_price_vuln_hr),
+        ("shallow_longshot_neg_hr",    _shallow_longshot_hr),
+        # ── NEGATIVE SCREENS NEG02-04 (Jul 30 2026) ──────────────────────────
+        # Found by an exclusion search run WITHIN price bands, so these are not
+        # just "long price = bad". 22,071 exclusion combos cleared BH FDR<0.10
+        # vs ZERO inclusion combos — the asymmetry is structural: at a 16.3% base,
+        # 25 straight non-HR is p=0.012 while 25 straight HR is p=2e-20.
+        # boot95 = 95th pct of slate-resampled lift; all sit well below 1.0.
+        # NEG02 Odds>=+400 + PM<1.00 + Edge 5-15%  :  4/107 = 3.7%, 0.23x, p=4e-05,
+        #       boot95 0.45, halves 4%/3%, 47 slates. Strongest fade in the file.
+        #       Mechanism: a long price + poor pitch match where the model STILL
+        #       claims positive edge means the edge term is firing on noise.
+        # NEG03 Odds>=+400 + Park 0.90-1.00 + PM<1.00 : 9/160 = 5.6%, 0.35x,
+        #       p=3e-05, boot95 0.54, halves 6%/5%, 64 slates.
+        # NEG04 Odds>=+400 + Score<50 + Edge 5-10% : 12/202 = 5.9%, 0.36x,
+        #       p<1e-05, boot95 0.50, halves 4%/8%, 50 slates.
+        ("neg_longprice_pm_edge_hr",   _neg_longprice_pm_edge),
+        ("neg_longprice_park_pm_hr",   _neg_longprice_park_pm),
+        ("neg_longprice_score_edge_hr",_neg_longprice_score_edge),
+        ("neg_supp_l5_low_vuln_hr",    _neg_supp_l5_low_vuln),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last10), _fmt_hr(subset, all_set))
