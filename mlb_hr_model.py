@@ -24709,7 +24709,14 @@ _RELABEL_NOISE = {"HR", "Hit", "AT", "CSV", "PLAY", "LEAN", "PASS", "L5", "L10",
 # Words that look like a grade family in "WORD: value" but are not one.
 _NOT_A_GRADE = {"RETIRED", "SUSPENDED", "TRACKING", "NOTE", "RISK", "WARNING",
                 "CAVEAT", "LIVE", "MINED", "BACKTEST CSV", "DEMOTION", "FAMILY",
-                "GATES PASS", "PROPFINDER", "REASON", "STATUS"}
+                "GATES PASS", "PROPFINDER", "REASON", "STATUS", "CONTEXT",
+                "CONVICTION BLOCKED", "BLOCKED", "EXCLUDE", "OVERRIDE", "WAIVED"}
+# Column/metric names. These appear constantly in label prose but naming one is
+# not a grade firing, so a live rate keyed on them measures nothing.
+_FIELD_WORDS = {"VULN", "SCORE", "PULL", "ODDS", "PARK", "ENV", "EDGE", "POWER",
+                "PROB", "RATE", "GATE", "GATES", "BAND", "ZONE", "TIER", "SLATE",
+                "MARKET", "PRICE", "LINE", "CARD", "PICK", "PICKS", "BATTER",
+                "PITCHER", "GAME", "TEAM", "DIST", "BARREL", "BLAST", "AIR"}
 # Whole claim including its parenthetical, e.g. "40.0% HR (2.30x, n=35, pkl Jun24)"
 _FULL_CLAIM_RE = _re_live.compile(
     r'\d{1,3}(?:\.\d)?\s*%\s*(?:HR|Hit)\s*\([^)]*\)')
@@ -24784,7 +24791,13 @@ def _relabel_live(text, kind="hr"):
         # ── TIER 2: family marker, pooled ───────────────────────────────────
         ans = "auto_hr:" if is_hr else "auto_hit:"
         for mk in sorted({m.strip() for m in _MARKER_RE.findall(t)}, key=len, reverse=True):
-            if mk in _RELABEL_NOISE or len(mk) < 4:
+            # _NOT_A_GRADE must gate TIER 2 as well as TIER 1. Without it the Jul 31
+            # card annotated "PropFinder" 35 times, plus "RETIRED", "TRACKING",
+            # "Context", "Vuln", "Score" and "Pull" — none of which are grades. The
+            # numbers attached to them were real but described meaningless
+            # populations (every row whose label happens to contain that word).
+            if (mk in _RELABEL_NOISE or mk.upper() in _NOT_A_GRADE
+                    or len(mk) < 4 or mk.upper() in _FIELD_WORDS):
                 continue
             got = _parse((gs.get(ans + mk) or (None, None))[1])
             if got and got[1] >= 15:
