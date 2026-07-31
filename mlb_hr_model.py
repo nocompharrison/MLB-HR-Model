@@ -22253,11 +22253,13 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # MID-HS DULL + Odds>=+400 boot95 1.09, HIT PM WEAK ZONE boot95 1.01.
         # Qualitative fades are consistently weaker than quantitative ones — grades
         # identify situations, but the fades live in price and pitch-match mismatch.
-        if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 47.0:
-            _r = _grade_rate("neg_supp_l5_low_vuln_hr", "7.9%  7/89")
+        if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 52.0:
+            _r = _grade_rate("neg_supp_l5_low_vuln_hr", "8.1%  10/124")
             _firing_grades.append(
-                f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<47 "
-                f"→ {_r} HR (mined 7.9% 7/89, 0.48x, p=0.015, boot95 0.77, halves 10%/6%, 26sl). "
+                f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
+                f"→ {_r} HR (mined 8.1% 10/124, 0.49x, p=0.005, boot95 0.75, 26sl; gate WIDENED "
+                f"47→52 on Jul 31 2026 — every sub-52 band is suppressed (0.29-0.53x) while Vu52+ "
+                f"inverts to 2.36x). "
                 f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
                 f"not running hot — the 'buy low' read does not apply here. Mirror of the existing rule "
                 f"exempting Vu≥52 arms from the suppressing-L5 cap. Deprioritize."
@@ -24275,16 +24277,31 @@ def _load_grade_stats() -> dict:
         return _o>=400.0 and _sc<50.0 and 5.0<=_e<=10.0
 
     def _neg_supp_l5_low_vuln(p):
-        """NEG05 — Suppressing L5 + Vuln<47. 7.9% HR (0.48x, n=89). Only qualitative
-        exclusion to clear the full battery: p=0.015, boot95 0.77, halves 10%/6%, 26sl.
-        Mechanism: an arm suppressing HR over its last five AND rating below the
-        vulnerability gate is genuinely executing, not running hot. Mirror of the
-        existing rule that EXEMPTS Vu>=52 arms from the suppressing-L5 cap."""
+        """NEG05 — Suppressing L5 + Vuln<52. WIDENED from <47 on Jul 31 2026.
+
+        A vuln-threshold sweep found the real break is at 52, not 47:
+            Vuln <44 : 5/58  = 8.6%  0.53x  p=0.071  boot95 0.89
+            Vuln <47 : 7/89  = 7.9%  0.48x  p=0.015  boot95 0.75   <- old gate
+            Vuln <48 : 7/93  = 7.5%  0.46x  p=0.010  boot95 0.71
+            Vuln <52 : 10/124 = 8.1% 0.49x  p=0.005  boot95 0.75   <- new gate
+        By band, everything below 52 is suppressed and above it inverts hard:
+            Vu 0-44  : 0.53x |  Vu 44-47 : 0.40x |  Vu 47-50 : 0.88x
+            Vu 50-52 : 0.29x |  Vu 52+   : 2.36x
+        The <52 gate now matches the existing rule EXEMPTING Vu>=52 arms from the
+        suppressing-L5 cap — same mechanism read from both ends. Best p-value of
+        any threshold and 124 rows instead of 89.
+
+        CAVEAT ON RECORD: the 47-50 band (0.88x, n=14) is the one sub-52 band that
+        is not clearly suppressed, and it is thin. The wider gate holds because
+        50-52 at 0.29x more than offsets it. That is the part resting on least data.
+
+        Missed by the old gate: Grant Holmes Jul 30 2026 at Vu 48.3 (0.38 HR/9 L5).
+        Both HR-card picks on him — Abrams and Wood — went 0-for with no hits."""
         _t = str(_g(p,"hr_grade") or "") + " " + str(_g(p,"flags") or "")
         if "Suppressing L5" not in _t:
             return False
         try:
-            return float(_g(p,"vuln")) < 47.0
+            return float(_g(p,"vuln")) < 52.0
         except Exception:
             return False
 
