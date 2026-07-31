@@ -24522,6 +24522,34 @@ def _load_grade_stats() -> dict:
             continue
         stats[f"auto_hit:{_mk}"] = (_fmt_hit(_subset, last5), _fmt_hit(_subset, all_set))
 
+    # ── TIER 1: GATED-VARIANT KEYS (Jul 31 2026) ────────────────────────────
+    # A family marker like "BACKTEST ELITE" pools 59 distinct gated variants whose
+    # true rates run from 0.00x to 2.26x, so a family-level number cannot describe
+    # the specific combo printed on a card. Registering FAMILY:GATE separately lets
+    # a label be relabelled with a rate that measures the SAME population it claims,
+    # which is what makes dropping the stale mined figure safe.
+    # On the 92-slate panel: 581 distinct variants exist, 55 clear n>=15.
+    _VAR_RE = _re_auto.compile(
+        r'([A-Z][A-Za-z0-9_\+\-\.]{3,}(?:\s+[A-Z][A-Za-z0-9_\+\-\.]{1,}){0,3})'
+        r'\s*:\s*([A-Za-z0-9\.\+%<>=\-]+(?:\+[A-Za-z0-9\.\+%<>=\-]+)*)')
+    _var_hr_seen, _var_hit_seen = {}, {}
+    for _p in picks:
+        _hrtxt = str(_g(_p, "hr_grade") or "") + " " + str(_g(_p, "flags") or "")
+        _httxt = str(_g(_p, "hit_grade") or "") + " " + str(_g(_p, "flags") or "")
+        for _fam, _gate in _VAR_RE.findall(_hrtxt):
+            _var_hr_seen.setdefault(f"{_fam.strip()}:{_gate.strip()}", []).append(_p)
+        for _fam, _gate in _VAR_RE.findall(_httxt):
+            _var_hit_seen.setdefault(f"{_fam.strip()}:{_gate.strip()}", []).append(_p)
+    _VAR_MIN_FIRES = 15      # below this the variant cannot state a rate; fall to family
+    for _vk, _subset in _var_hr_seen.items():
+        if len(_subset) >= _VAR_MIN_FIRES:
+            stats[f"var_hr:{_vk}"] = (_fmt_hr(_subset, last5), _fmt_hr(_subset, all_set))
+    for _vk, _subset in _var_hit_seen.items():
+        if len(_subset) >= _VAR_MIN_FIRES:
+            stats[f"var_hit:{_vk}"] = (_fmt_hit(_subset, last5), _fmt_hit(_subset, all_set))
+    stats["_var_hr_keys"]  = sorted(k for k in stats if k.startswith("var_hr:"))
+    stats["_var_hit_keys"] = sorted(k for k in stats if k.startswith("var_hit:"))
+
     stats["_auto_hr_keys"]  = sorted(k for k in stats if k.startswith("auto_hr:"))
     stats["_auto_hit_keys"] = sorted(k for k in stats if k.startswith("auto_hit:"))
 
@@ -24643,6 +24671,138 @@ def _live_rate_pair(marker: str, kind: str = "hr", fb_l5: str = "", fb_all: str 
         if _ok(all_):
             return (l5 if _ok(l5) else fb_l5, all_)
     return (fb_l5, fb_all)
+
+
+import re as _re_live
+
+# Slate base rates, measured on the 92-slate master CSV (n=3,723). Used to turn a
+# live percentage into a lift so a reader sees "1.14x" rather than a bare rate.
+_LIVE_BASE = {"hr": 16.30, "hit": 62.42}
+
+# ═══════════════════════════════════════════════════════════════════════════
+# 🔴 LIVE-RATE RELABELLER (Jul 31 2026)
+# ───────────────────────────────────────────────────────────────────────────
+# THE PROBLEM. Grade labels carry the rate they were MINED at, frozen forever.
+# The Jul 30 audit found this is not cosmetic — it changes which batters make the
+# card. Esmerlyn Valdez was HR pick #5 on the strength of:
+#     PWR-VULN-ENV HR    printed "40.0% HR (2.30x, n=35)"  -> live 18.5%, 1.14x (10/54)
+#     SHARP LINE + VULN  printed "42% HR validated"        -> live  9.4%, 0.58x (3/32)
+#     MID-SCORE HR                                          -> live 14.1%, 0.86x
+#     CONVICTION BGS                                        -> live 12.4%, 0.76x
+# Mean live lift 0.83x — BELOW baseline. Brandon Lowe, same pitcher, same game,
+# carried VULN52 (1.53x) and EXTREME L2 (1.36x) for a mean of 1.19x and was left
+# off the HR card entirely. Lowe homered; Valdez did not.
+#
+# THE FIX. There are 380 hardcoded HR rate claims and 30 hit claims across this
+# file against only ~40 live lookups. Rewriting each emission site would be a
+# large, fragile diff. Instead every label is passed through here on its way to
+# the sheet, and any embedded claim is ANNOTATED with the live rate drawn from
+# the auto-derived registry.
+#
+# ANNOTATE, NOT REPLACE. The mined figure stays visible so provenance is never
+# lost, and a discrepancy is obvious rather than silently papered over. A grade
+# whose live lift has fallen below 1.0 is marked ⛔ so it cannot be read as
+# supporting a pick.
+_RATE_CLAIM_RE = _re_live.compile(r'(\d{1,3}(?:\.\d)?)\s*%\s*(HR|Hit)\b')
+_MARKER_RE = _re_live.compile(r'([A-Z][A-Za-z0-9_\+\-\.]{3,}(?:\s+[A-Z][A-Za-z0-9_\+\-\.]{1,}){0,3})')
+_RELABEL_NOISE = {"HR", "Hit", "AT", "CSV", "PLAY", "LEAN", "PASS", "L5", "L10", "PM", "HS"}
+# Words that look like a grade family in "WORD: value" but are not one.
+_NOT_A_GRADE = {"RETIRED", "SUSPENDED", "TRACKING", "NOTE", "RISK", "WARNING",
+                "CAVEAT", "LIVE", "MINED", "BACKTEST CSV", "DEMOTION", "FAMILY",
+                "GATES PASS", "PROPFINDER", "REASON", "STATUS"}
+# Whole claim including its parenthetical, e.g. "40.0% HR (2.30x, n=35, pkl Jun24)"
+_FULL_CLAIM_RE = _re_live.compile(
+    r'\d{1,3}(?:\.\d)?\s*%\s*(?:HR|Hit)\s*\([^)]*\)')
+_VAR_CLAIM_RE = _re_live.compile(
+    r'([A-Z][A-Za-z0-9_\\+\\-\\.]{3,}(?:\\s+[A-Z][A-Za-z0-9_\\+\\-\\.]{1,}){0,3})'
+    r'\\s*:\\s*([A-Za-z0-9\\.\\+%<>=\\-]+(?:\\+[A-Za-z0-9\\.\\+%<>=\\-]+)*)')
+
+
+def _relabel_live(text, kind="hr"):
+    """Rewrite a grade label so the rate shown is the LIVE rate, not the mined one.
+
+    TWO TIERS, because a family marker and a gated variant measure different things:
+
+      TIER 1 — exact gated variant ("BACKTEST ELITE:PM1.094+Pw88+Edge+16%").
+               Same population the label claims, so the stale mined figure is
+               REPLACED outright. Requires n>=15 live fires.
+
+      TIER 2 — family marker ("BACKTEST ELITE") when the exact variant is too thin.
+               This POOLS every variant of that family, whose true rates span
+               0.00x-2.26x, so it cannot describe this pick. The mined figure is
+               kept and the family rate is appended as context, explicitly marked
+               "family, pooled" so it is never mistaken for this combo's rate.
+
+    Why this matters: on Jul 30 Valdez was HR pick #5 on four grades printing
+    2.30x / 42% / etc. whose live family rates were 1.14x / 0.58x / 0.86x / 0.76x —
+    mean 0.83x, below baseline. Brandon Lowe, same pitcher, carried grades averaging
+    1.19x and never made the HR card. Lowe homered.
+
+    Never raises; returns the input unchanged on any problem.
+    """
+    try:
+        t = str(text or "")
+        if not t or "LIVE" in t:
+            return t
+        claim = _RATE_CLAIM_RE.search(t)
+        if not claim:
+            return t
+        gs = _grade_stats_cached()
+        if not gs or gs.get("_slate_count", 0) < 1:
+            return t
+        is_hr = str(kind).lower().startswith("hr")
+        base = _LIVE_BASE["hr" if is_hr else "hit"]
+
+        def _parse(v):
+            m = _re_live.search(r"(\d+)\s*/\s*(\d+)", str(v or ""))
+            if not m or int(m.group(2)) < 1:
+                return None
+            hits, tot = int(m.group(1)), int(m.group(2))
+            rate = 100.0 * hits / tot
+            return hits, tot, rate, (rate / base if base else 0.0)
+
+        # ── TIER 1: exact gated variant ─────────────────────────────────────
+        # Replace the ENTIRE claim, parenthetical included. Swapping only the
+        # percentage leaves the stale "(2.76x, n=12)" sitting next to a new rate it
+        # contradicts — a half-updated label is worse than an annotated one.
+        vns = "var_hr:" if is_hr else "var_hit:"
+        for fam, gate in _VAR_CLAIM_RE.findall(t):
+            if fam.strip().upper() in _NOT_A_GRADE:
+                continue
+            got = _parse((gs.get(vns + f"{fam.strip()}:{gate.strip()}") or (None, None))[1])
+            if got:
+                hits, tot, rate, lift = got
+                flag = " ⛔ BELOW BASE" if lift < 1.0 else ""
+                kindw = "HR" if is_hr else "Hit"
+                out = _FULL_CLAIM_RE.sub(
+                    f"{rate:.1f}% {kindw} ({lift:.2f}x, {hits}/{tot} LIVE)", t, count=1)
+                if out == t:      # no parenthetical to absorb — append instead
+                    out = _RATE_CLAIM_RE.sub(
+                        lambda m: f"{rate:.1f}% {m.group(2)}", t, count=1)
+                return out + f"  [LIVE exact variant · was: {claim.group(1)}%{flag}]"
+
+        # ── TIER 2: family marker, pooled ───────────────────────────────────
+        ans = "auto_hr:" if is_hr else "auto_hit:"
+        for mk in sorted({m.strip() for m in _MARKER_RE.findall(t)}, key=len, reverse=True):
+            if mk in _RELABEL_NOISE or len(mk) < 4:
+                continue
+            got = _parse((gs.get(ans + mk) or (None, None))[1])
+            if got and got[1] >= 15:
+                hits, tot, rate, lift = got
+                flag = " ⛔ BELOW BASE" if lift < 1.0 else ""
+                return (t + f"  [LIVE {mk} family, pooled across variants: "
+                            f"{rate:.1f}% {hits}/{tot} = {lift:.2f}x{flag}]")
+        return t
+    except Exception:
+        return text
+
+
+def _relabel_all(items, kind="hr"):
+    """Relabel a list of labels. Returns a new list; never raises."""
+    try:
+        return [_relabel_live(x, kind) for x in (items or [])]
+    except Exception:
+        return items
 
 
 def _sheet_sharp_picks(wb, scores, top_n):
@@ -28268,8 +28428,8 @@ def _sheet_sharp_picks(wb, scores, top_n):
         _c(ws,row,4,f"{sc.hr_probability:.1%}",  bg=bg,align="center")
         _c(ws,row,5,f"{sc.score:.1f}",    bg=bg,align="center")
         _c(ws,row,6,_grade_display,       bg=bg,bold=_hi_conv,size=10)
-        _c(ws,row,7,_rationale,           bg=bg,size=9)
-        _c(ws,row,8,"  ".join(sh["flags"]) or "✅ Clean", bg=bg,size=9)
+        _c(ws,row,7,_relabel_live(_rationale, "hr"), bg=bg,size=9)
+        _c(ws,row,8,"  ".join(_relabel_all(sh["flags"], "hr")) or "✅ Clean", bg=bg,size=9)
         _c(ws,row,9,str(_conv_score),     bg=bg,align="center",bold=True,size=11)
         ws.row_dimensions[row].height = 18; row += 1
     if not hr_picks:
@@ -29288,7 +29448,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         _c(ws,row,5,_grade_disp,        bg=h_bg,bold=(hgc>=2),size=9)
         _c(ws,row,6,_hit_play_tag(sc, sh, conv) + _hit_rationale(sc, sh, _hit_rationale_ctx), bg=h_bg,size=9)
         _c(ws,row,7,_key_sigs,          bg=h_bg,size=9)
-        _c(ws,row,8,"  ".join(_hit_flags) or "✅ Clean", bg=h_bg,size=9)
+        _c(ws,row,8,"  ".join(_relabel_all(_hit_flags, "hit")) or "✅ Clean", bg=h_bg,size=9)
         ws.row_dimensions[row].height = 18; row += 1
     row += 1
 
