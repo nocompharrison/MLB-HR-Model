@@ -1,17 +1,17 @@
 ﻿"Game Conditions — July 31, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
-NYY @ CHC,Wrigley Field,79°F,12mph,In/X,1.03,595ft,Open,9.2,5.1,4.1,-5.7%,N/A,FantasyLabs,1.000x,FL
-PIT @ CIN,Great American Park,81°F,5mph,In/X,1.18,550ft,Open,8.2,3.9,4.3,-1.6%,N/A,FantasyLabs,1.000x,FL
-PHI @ BAL,Oriole Park,81°F,3mph,In/X,1.08,20ft,Open,8.7,4.4,4.3,-0.1%,N/A,FantasyLabs,1.000x,FL
+NYY @ CHC,Wrigley Field,77°F,10mph,In/X,1.03,595ft,Open,9.2,5.1,4.1,-4.4%,N/A,FantasyLabs,0.982x,FL
+PIT @ CIN,Great American Park,81°F,5mph,In/X,1.18,550ft,Open,8.2,3.9,4.3,-2.1%,N/A,FantasyLabs,1.000x,FL
+PHI @ BAL,Oriole Park,81°F,3mph,In/X,1.08,20ft,Open,8.7,4.4,4.3,+0.1%,N/A,FantasyLabs,1.000x,FL
 STL @ TOR,Rogers Centre,72°F,0mph,In/X,1.04,287ft,Dome,7.7,4.4,3.3,N/A,N/A,dome,1.000x,FL
 ARI @ CLE,Progressive Field,78°F,4mph,In/X,0.97,653ft,Open,8.7,4.7,4.0,-0.2%,N/A,FantasyLabs,1.000x,FL
-CWS @ TB,Tropicana Field,72°F,0mph,In/X,0.93,15ft,Dome,8.8,4.7,4.1,N/A,N/A,dome,1.000x,FL
-MIA @ NYM,Citi Field,78°F,6mph,Out,0.96,15ft,Open,8.7,4.6,4.1,+8.2%,N/A,FantasyLabs,1.006x,FL
-WSH @ ATL,Truist Park,83°F,5mph,Out,0.98,1050ft,Open,9.2,4.7,4.5,+5.9%,N/A,FantasyLabs,0.970x,FL
+CWS @ TB,Tropicana Field,72°F,0mph,In/X,0.93,15ft,Dome,8.7,4.7,4.0,N/A,N/A,dome,1.000x,FL
+MIA @ NYM,Citi Field,78°F,6mph,Out,0.96,15ft,Open,8.7,4.6,4.1,+8.0%,N/A,FantasyLabs,1.006x,FL
+WSH @ ATL,Truist Park,83°F,5mph,Out,0.98,1050ft,Open,9.2,4.7,4.5,+6.1%,N/A,FantasyLabs,0.970x,FL
 TEX @ HOU,Minute Maid Park,72°F,0mph,In/X,0.99,43ft,Dome,7.6,4.0,3.6,N/A,N/A,dome,1.000x,FL
-KC @ COL,Coors Field,81°F,5mph,Out,1.38,5280ft,Open,11.2,5.6,5.6,+5.2%,N/A,FantasyLabs,1.000x,FL
-MIL @ LAA,Angel Stadium,80°F,5mph,In/X,1.04,160ft,Open,9.2,4.0,5.2,-1.4%,N/A,FantasyLabs,1.000x,FL
-DET @ ATH,Sutter Health Park,85°F,8mph,In/X,0.97,25ft,Open,10.7,4.8,5.9,-4.3%,N/A,FantasyLabs,1.000x,FL
+KC @ COL,Coors Field,78°F,5mph,Out,1.38,5280ft,Open,11.2,5.6,5.6,+4.7%,N/A,FantasyLabs,1.000x,FL
+MIL @ LAA,Angel Stadium,79°F,4mph,In/X,1.04,160ft,Open,9.1,4.0,5.1,-1.3%,N/A,FantasyLabs,1.000x,FL
+DET @ ATH,Sutter Health Park,85°F,8mph,In/X,0.97,25ft,Open,11.2,5.2,6.0,-4.3%,N/A,FantasyLabs,1.000x,FL
 SF @ SD,Petco Park,76°F,4mph,Out,0.88,17ft,Open,8.7,4.9,3.8,+5.8%,N/A,FantasyLabs,0.976x,FL
 BOS @ LAD,Dodger Stadium,77°F,3mph,In/X,1.0,515ft,Open,8.7,4.5,4.2,-0.4%,N/A,FantasyLabs,1.000x,FL
-MIN @ SEA,T-Mobile Park,72°F,4mph,In/X,0.92,20ft,Open,8.2,4.6,3.6,-2.5%,N/A,FantasyLabs,1.000x,FL
+MIN @ SEA,T-Mobile Park,72°F,4mph,In/X,0.92,20ft,Open,7.699999999999999,4.3,3.4,-2.6%,N/A,FantasyLabs,1.000x,FL
