@@ -22327,6 +22327,46 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     except Exception:
         pass
 
+    # ══ HIGH-SCORE UNGRADED BAT (Aug 1 2026) ══════════════════════════════
+    # Measured on the 93-slate master CSV (n=3,723, base 16.30%). A batter with a
+    # good composite Score but NO named HR grade is currently invisible to the
+    # pick card: the whole selection process runs on named grades and flash
+    # combos, so a bat with neither has nothing to write a rationale about and
+    # never surfaces — even when the quantitative case is there.
+    #     ungraded, Score 45-50 : 42/272 = 15.4%  0.95x
+    #     ungraded, Score 50-55 : 33/243 = 13.6%  0.83x
+    #     ungraded, Score 55-60 : 54/249 = 21.7%  1.33x   <-- the edge
+    #     ungraded, Score 60-65 : 19/87  = 21.8%  1.34x   <-- the edge
+    #     ungraded, Score 65+   :  5/52  =  9.6%  0.59x   <-- COLLAPSES
+    # Pooled 55-65: 73/336 = 21.7% / 1.33x, p=0.035, 72 slates, ~4.7 fires/slate,
+    # halves 22%/18%. That matches GRADED bats at the same Score (1.08x) and beats
+    # them — grade text is not what makes a bat good.
+    #
+    # NOTE THE UPPER BOUND. Above Score 65 an ungraded bat runs 0.59x. A very high
+    # composite with nothing named firing is a WARNING, not a signal — most likely
+    # the score is carried by inputs the grade layer has already judged unreliable.
+    # This is why the gate is a BAND (55-65), not a floor. My first proposal was
+    # Score>=60 as a floor; that tests at 1.06x with a bootstrap crossing 1.0 and
+    # unstable halves (11%/23%) because it drags in the 65+ collapse.
+    #
+    # CAUGHT BY: Miguel Vargas, Jul 31 2026 — Score 63.0, Pwr 86.9, +300, Sig 13,
+    # slot 2 on Nick Martinez, grade cell EMPTY. He homered. All three covered
+    # Martinez batters homered and the card had zero exposure to that arm.
+    # SCOPE: this must sit AFTER _firing_grades is built (it is initialised well
+    # below where the other flag emissions live). Placing it earlier compiles fine
+    # but raises NameError on the first batter scored.
+    _hsu_graded = bool(_firing_grades) or any(
+        str(f).startswith(("🔥", "🧬", "☢️", "🏆", "🎖️", "💎")) for f in flags)
+    if (not _hsu_graded) and 55.0 <= score < 65.0:
+        flags.append(
+            f"ℹ️ HIGH SCORE, NO GRADES: Score={score:.0f} in 55-65 with no named HR grade "
+            f"→ 21.7% HR / 1.33x (73/336, 72sl, p=0.035, ~4.7 fires per slate). Ungraded bats "
+            f"in this band match or beat GRADED bats at the same Score (1.08x) — the absence of "
+            f"grade text is NOT a reason to exclude. ⚠️ Band, not a floor: above Score 65 "
+            f"ungraded runs 0.59x (5/52) — a very high composite with nothing named firing is a "
+            f"warning. Surface this bat as a candidate; it will not otherwise appear."
+        )
+
     # ── CONFLUENCE TIER — the strongest signal in the whole library ───────────
     # 2+ Tier-A HR archetypes = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8, 6.08x).
     # 2+ Tier-A HIT archetypes = 100% hit (1.60x, n=39).
