@@ -1551,6 +1551,11 @@ class HRScore:
     # model never scores — it rates the starter only. These fields make that pool
     # visible. TRACKING ONLY: zero conviction credit, zero ranking effect, until
     # the results panel (outputs/results_YYYY-MM-DD.csv) reaches n>=20 slates.
+    # Rank of this batter within his own pitcher's pool; 1 = the model's best
+    # read on that arm. Set during ranking. MUST sit among the DEFAULTED fields —
+    # placing it beside a non-default field makes every later non-default field
+    # illegal and raises TypeError at import (the file would still compile).
+    pitcher_slot:      int = 1
     bullpen_vuln:      float = 50.0   # 0-100, league avg = 50 — same scale as pitcher_vuln
     bullpen_exp_ip:    float = 4.0    # projected relief innings this batter may face
     bullpen_hr9:       float = 1.30   # opposing bullpen HR/9 allowed (fatigue-adjusted)
@@ -21171,7 +21176,42 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _supp_park and _is_short_start:
         flags.append("⚠️ Supp.Park+ShortStart")   # compound HR suppressor
     if _short_start and (47.0 <= vuln <= 52.0):
-        flags.append("⚠️ ShortStart+Vuln — Vuln grade blocked")
+        # ══ INVERTED Aug 1 2026 ═══════════════════════════════════════════════
+        # This fired as a SUPPRESSOR and the standing rule was "ShortStart+Vuln
+        # fired -> hard exclude from HR card". The 93-slate master CSV (n=3,723,
+        # base 16.30%) says the opposite — it is one of the better POSITIVE
+        # signals in the file:
+        #     ShortStart+Vuln (all)      : 51/232 = 22.0%  1.35x  p=0.021  boot5 1.12  halves 21/23%  40sl
+        #     + Score>=60                : 29/104 = 27.9%  1.71x  p=0.0027 boot5 1.31  halves 28/28%  31sl
+        #     + Score>=60 + Pwr>=84      : 16/46  = 34.8%  2.13x  p=0.0019 boot5 1.46  halves 40/31%  25sl
+        #     + Score<60 (the other half): 22/128 = 17.2%  1.05x  p=0.81   boot5 0.74   <- Score is the gate
+        # Month-stable: June 28%, July 28%. Hit side is neutral (1.04x), so this
+        # is an HR signal specifically.
+        #
+        # COST OF THE OLD RULE: the Score>=60 tier fired 104 times over 31 slates
+        # and produced 29 HR — roughly 3.4 batters excluded and 0.94 HR discarded
+        # PER SLATE. It outperforms every grade currently earning conviction
+        # credit: VULN52+ 1.53x, EXTREME L2 1.36x, CONFIRMED MATCH 1.35x,
+        # PWR-VULN-ENV 1.14x, ICE COLD 1.11x.
+        #
+        # CAUGHT BY: Jake Bauers, Jul 31 2026 — Score 64.7 (rank 4 of 90), T4 BBE
+        # 2/10 on Johnson's sweeper, 7/9 PropFinder, NUCLEAR, Sig 14, +320.
+        # Excluded from the HR card by this rule. He homered.
+        if score >= 60.0:
+            _ssv_pwr = " + Pwr≥84 → 34.8% HR / 2.13x (16/46)" if power >= 84.0 else ""
+            flags.append(
+                f"🔥 SHORT-START VULN EDGE: ShortStart + Vuln={vuln:.0f} (47-52) + Score={score:.0f}≥60 "
+                f"→ 27.9% HR / 1.71x (29/104, 31sl, p=0.0027, boot5 1.31, halves 28/28%){_ssv_pwr}. "
+                f"⚠️ INVERTED Aug 1 2026 — was a hard exclude; the 93-slate re-audit shows it is "
+                f"POSITIVE and beats every grade currently earning conviction credit. Score<60 is "
+                f"the dead half (1.05x, boot5 0.74) — the Score gate carries this signal."
+            )
+        else:
+            flags.append(
+                f"ℹ️ ShortStart+Vuln (Score={score:.0f}<60): 17.2% HR / 1.05x (22/128) — neutral. "
+                f"The Score≥60 tier runs 1.71x; below 60 there is no edge either way. "
+                f"[Hard exclude RETIRED Aug 1 2026 — no suppression applied.]"
+            )
 
     # ── Hit grade system — recalibrated from 26-slate, 1087-row backtest ────
     # ════════════════════════════════════════════════════════════════════════
@@ -23449,7 +23489,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_confirmed= 3 if "CONFIRMED MATCH" in _bgs_all_text else 0
     _bgs_cross    = 2 if "CROSS-PITCH BBE SURGE" in _bgs_all_text else 0
     _bgs_psbm     = 2 if "PITCHER-SPECIFIC BARREL MATCH" in _bgs_all_text else 0
-    _bgs_shortst  = -3 if any("ShortStart+Vuln" in str(f) for f in flags) else 0
+    # ShortStart+Vuln BGS penalty REMOVED Aug 1 2026. It was -3 on a population
+    # running 22.0% HR / 1.35x (51/232) — the flag was penalising twice, once by
+    # hard-excluding the pick and again by docking its conviction score. The
+    # Score>=60 tier now earns a POSITIVE credit instead: 27.9% / 1.71x, which
+    # beats VULN52+ (1.53x), the strongest grade previously in the table.
+    if any("SHORT-START VULN EDGE" in str(f) for f in flags):
+        _bgs_shortst = +4
+    else:
+        _bgs_shortst = 0
     _bgs_total = (_bgs_pwr + _bgs_pm + _bgs_vuln + _bgs_sig
                   + _bgs_nuclear + _bgs_prime + _bgs_t3 + _bgs_confirmed
                   + _bgs_cross + _bgs_psbm + _bgs_shortst)
@@ -23531,7 +23579,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_sig_block = (_bgs_sig_val >= 15.0)
 
     _bgs_hard_neg = (
-        _bgs_shortst < 0                          # ShortStart+Vuln blocked grades
+        False                                     # ShortStart+Vuln no longer a blocker (Aug 1 2026)
         or not _bgs_has_named                      # no named HR grade
         or _bgs_short_cold                         # short-start + cold bat (5.0% HR / 0.28x)
         or _bgs_trap_short                         # Vuln 44-48 + Env<0.95 (8.3% HR / 0.47x)
@@ -28265,15 +28313,68 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # one(s) to the back of the list so at most 1 short-start pick is in top-5.
     # Does NOT remove the pick from the full list — it still ranks and displays; 
     # it just won't occupy one of the 5 recommendation slots.
+    # ── NARROWED Aug 1 2026 ───────────────────────────────────────────
+    # The cap above was catching ShortStart+Vuln, which the 93-slate re-audit
+    # shows is POSITIVE, not suppressive:
+    #     ShortStart+Vuln + Score>=60 : 29/104 = 27.9% HR / 1.71x, boot5 1.31
+    # Capping it cost ~3.4 batters and ~0.94 HR per slate. Jake Bauers (Jul 31,
+    # Score 64.7, rank 4 of 90, T4 BBE, 7/9 PF, NUCLEAR, +320) was held out of
+    # the card by this and homered.
+    # The cap now applies ONLY to the compound suppressor Supp.Park+ShortStart
+    # (short start AND a suppressive park), which remains a genuine fade and is
+    # unaffected by the inversion.
     def _is_short_start_pick(sh):
         _flags_str = ' '.join(str(f) for f in sh.get('flags', []))
-        _notes_str = ' '.join(str(n) for n in sh.get('notes', []) if n)
-        return (
-            'ShortStart' in _flags_str
-            or 'short start' in _flags_str.lower()
-            or 'short-start' in _flags_str.lower()
-            or 'Supp.Park+ShortStart' in _flags_str
-        )
+        if 'SHORT-START VULN EDGE' in _flags_str:
+            return False          # positive tier — never capped
+        return 'Supp.Park+ShortStart' in _flags_str
+
+    # ══ SECOND-BAT PENALTY (Aug 1 2026) ═══════════════════════════════════
+    # Measured on the 93-slate master CSV (n=3,868, 1,662 slate-pitcher groups,
+    # base 16.47%). Rank each batter within his own pitcher's pool by Score;
+    # slot 1 is the model's best read on that arm:
+    #     slot 1  : 324/1662 = 19.5%  1.18x  p=0.00001  boot5 1.13  halves 21/18%
+    #     slot 2+ : 313/2206 = 14.2%  0.86x  p=0.00001  boot5 0.82  halves 14/15%
+    # On the arms picks actually come from the gap is far wider:
+    #     slot 1 + Vu>=52 : 54/198 = 27.3%  1.66x  boot5 1.36  halves 26/28%
+    #     slot 2+ + Vu>=52: 36/216 = 16.7%  1.01x  p=0.92     boot5 0.79
+    #     slot 1 + Vu>=54 : 34/95  = 35.8%  2.17x  boot5 1.72  halves 38/34%  <-- clears every gate
+    # Stable across months (slot 1 beats slot 2+ in May, June and July).
+    #
+    # WHY, mechanically: HR off one pitcher are INDEPENDENT, not clustered —
+    # P(B homers | teammate A homered off the same arm) = 14.3% vs a 16.5% base,
+    # i.e. 0.87x. Observed multi-HR counts per pitcher group match the binomial
+    # expectation almost exactly. So a second bat on an arm carries no correlated
+    # upside; it is simply a worse pick, because the best matchup there is taken.
+    #
+    # WHAT THIS DOES: the per-pitcher cap is unchanged (2, or 3 with PRIME). The
+    # 2nd+ bat on an arm is now DEPRIORITISED in the ordering rather than blocked,
+    # so it can still make the card when the alternative is weaker. A simulation
+    # of one-pick-per-arm vs doubling up gave 1.067 vs 1.051 expected HR from 5
+    # picks — a real but small edge, which is why this is a tiebreak-level
+    # penalty and not an exclusion.
+    _slot_by_pitcher: dict = {}
+    _hr_picks_slotted = []
+    for _sl_sc, _sl_sh in hr_picks:
+        _sl_p = _sl_sh.get('pitcher', '') or ''
+        _sl_n = _slot_by_pitcher.get(_sl_p, 0) + 1
+        _slot_by_pitcher[_sl_p] = _sl_n
+        try:
+            _sl_sc.pitcher_slot = _sl_n
+        except Exception:
+            pass
+        if _sl_n >= 2:
+            _sl_sh.setdefault('flags', []).append(
+                f"🔻 SECOND BAT ON THIS ARM (slot {_sl_n}): slot 1 = 19.5% HR / 1.18x, "
+                f"slot 2+ = 14.2% / 0.86x (n=3,868, p=1e-05). On Vu≥52 arms the split is "
+                f"27.3% vs 16.7%. HR off one pitcher are independent (0.87x conditional), "
+                f"so the 2nd bat carries no correlated upside — the best matchup is already "
+                f"taken. Deprioritised, not blocked."
+            )
+        _hr_picks_slotted.append((_sl_sc, _sl_sh, _sl_n))
+    # Stable sort: slot 1 bats first, original ranking preserved within each slot.
+    _hr_picks_slotted.sort(key=lambda t: 0 if t[2] == 1 else 1)
+    hr_picks = [(a, b) for a, b, _ in _hr_picks_slotted]
 
     _top5_capped = []
     _overflow = []
