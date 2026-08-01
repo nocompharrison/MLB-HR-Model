@@ -21239,53 +21239,73 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     _bt_hit_label = ""
     _bt_hit_pts   = 0
+    _bt_n         = 0   # track n for the winning combo (used for MUST PLAY floor gate)
+
+    # ── MUST PLAY minimum-n gate (Jul 31 2026) ───────────────────────────────
+    # A confirmed-batter 100% BACKTEST ELITE fires MUST PLAY only when n≥10.
+    # Below that threshold the label is retained but hit_pts is capped at 16
+    # (STRONG PLAY), not 20 (MUST PLAY).  Rationale: DeLauter miss (Jul 31)
+    # showed Vu≥52+ICE_COLD+Sig≥5 100% (6/6) generating MUST PLAY on n too
+    # small for reliable inference.  Combos with n<10 are demoted to
+    # 🟡 STRONG PLAY; combos with n≥10 remain 🟢 MUST PLAY as before.
+    BACKTEST_ELITE_MUST_PLAY_MIN_N = 10
 
     # ── 100% combos first (by n, largest first) ──────────────────────────────
     # B) PM≥1.12 + Pw≥82 + Edge≥15% → 12/12=100% — Edge drives the hit, PM confirms
     if _bt_pm_val >= 1.12 and _bt_pw_val >= 82 and _bt_edge_val >= 0.15:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 12
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.12)+Pw{_bt_pw_val:.0f}(≥82)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  12/12')} Hit (live; mined 100% 12/12 @57sl)")
     # F) ICE_COLD + Sig1-5 + Park≥1.1 → 11/11=100%
     elif _bt_is_ic and 1 <= _bt_sig_val <= 5 and park >= 1.1:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 11
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_val:.0f}(1-5)+Park{park:.2f}(≥1.1) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  11/11')} Hit (live; mined 100% 11/11 @57sl)")
     # A) PM≥1.08 + Pw≥87 + Edge≥15% → 11/11=100%
     elif _bt_pm_val >= 1.08 and _bt_pw_val >= 87 and _bt_edge_val >= 0.15:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 11
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.08)+Pw{_bt_pw_val:.0f}(≥87)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  11/11')} Hit (live; mined 100% 11/11 @57sl)")
     # G) PM1.04-1.07 + Vu≥52 + HS<10 → 16/17=94% ← biggest n
     elif 1.04 <= _bt_pm_val < 1.07 and _bt_vu_val >= 52 and 0 < _bt_hs_val < 10:
-        _bt_hit_pts   = 18
+        _bt_hit_pts   = 18; _bt_n = 17
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(1.04-1.07)+Vu{_bt_vu_val:.0f}(≥52)+HS{_bt_hs_val:.0f}(<10) "
                          f"→ {_grade_rate('bt_elite_hit', '94%  16/17')} Hit (live; mined 94% 16/17 @57sl) — trap zone + ice cold + sweet PM = market overpenalizes")
     # C) PM≥1.10 + Pw≥87 + Edge≥15% → 9/9=100%
     elif _bt_pm_val >= 1.10 and _bt_pw_val >= 87 and _bt_edge_val >= 0.15:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 9
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.10)+Pw{_bt_pw_val:.0f}(≥87)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  9/9')} Hit (live; mined 100% 9/9 @57sl)")
     # D) Sig≥10 + Env≥1.05 + Pw≥87 → 9/9=100%
     elif _bt_sig_val >= 10 and _bt_env_val >= 1.05 and _bt_pw_val >= 87:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 9
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_val:.0f}(≥10)+Env{_bt_env_val:.2f}(≥1.05)+Pw{_bt_pw_val:.0f}(≥87) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  9/9')} Hit (live; mined 100% 9/9 @57sl)")
     # E) Vu44-48 + Pw≥85 + Edge≥15% → 8/8=100%
     elif 44.0 <= _bt_vu_val < 48.0 and _bt_pw_val >= 85 and _bt_edge_val >= 0.15:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 8
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_val:.0f}(44-48)+Pw{_bt_pw_val:.0f}(≥85)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  8/8')} Hit (live; mined 100% 8/8 @57sl)")
     # I) Sc<50 + Sig≥7 + Edge≥10% → 7/7=100% (counter-intuitive: low score + elite Sig + edge)
     elif _bt_sc_val < 50.0 and _bt_sig_val >= 7 and _bt_edge_val >= 0.10:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 7
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_val:.0f}(<50)+Sig{_bt_sig_val:.0f}(≥7)+Edge{_bt_edge_val*100:+.0f}%(≥10%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  7/7')} Hit (live; mined 100% 7/7 @57sl) — low-score pick, market underpricing elite signals")
     # H) Vu≥52 + ICE_COLD + Sig≥5 → 6/6=100%
     elif _bt_vu_val >= 52.0 and _bt_is_ic and _bt_sig_val >= 5:
-        _bt_hit_pts   = 20
+        _bt_hit_pts   = 20; _bt_n = 6
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_val:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_val:.0f}(≥5) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  6/6')} Hit (live; mined 100% 6/6 @57sl) — trap zone cold bat confirmed by signal")
+
+    # ── Apply MUST PLAY n-floor (Jul 31 2026) ────────────────────────────────
+    # If this is a 100% combo (hit_pts==20) but n < BACKTEST_ELITE_MUST_PLAY_MIN_N,
+    # cap at 16 (STRONG PLAY) and append a flag to the label so the pick card
+    # can surface the reason.  Does NOT suppress the combo from appearing — it
+    # fires as 🟡 STRONG PLAY, not 🟢 MUST PLAY, until n crosses the floor.
+    if _bt_hit_pts == 20 and 0 < _bt_n < BACKTEST_ELITE_MUST_PLAY_MIN_N:
+        _bt_hit_pts   = 16   # STRONG PLAY tier
+        _bt_hit_label = (_bt_hit_label
+                         + f" [🟡 STRONG PLAY — n={_bt_n}<{BACKTEST_ELITE_MUST_PLAY_MIN_N}: MUST PLAY requires n≥{BACKTEST_ELITE_MUST_PLAY_MIN_N}]")
     # J) PM≥1.10 + Sc55-68 + HS45-55 → 24/28=86% — good large-n combo
     elif _bt_pm_val >= 1.10 and 55.0 <= _bt_sc_val < 68.0 and 45.0 <= _bt_hs_val < 55.0:
         _bt_hit_pts   = 16
@@ -22899,24 +22919,32 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bt_pk_f   = park
 
     # Match scoring engine priority order exactly
+    # ── n-floor suffix for BACKTEST ELITE flag labels (Jul 31 2026) ──────────
+    # Mirrors the hit_pts cap in the scoring block above: combos with n<15 get
+    # a 🟡 STRONG PLAY suffix in the flag so the pick card can display correctly.
+    _BTEMIN = 10   # must match BACKTEST_ELITE_MUST_PLAY_MIN_N in scoring block
+    def _bt_sfx(n):
+        return (f" [🟡 n={n}<{_BTEMIN} — STRONG PLAY, not MUST PLAY]"
+                if n < _BTEMIN else "")
+
     if _bt_pm_f >= 1.12 and _bt_pw_f >= 82 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.12)+Pw{_bt_pw_f:.0f}(≥82)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  12/12 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.12)+Pw{_bt_pw_f:.0f}(≥82)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  12/12 AT, 57-sl CSV)" + _bt_sfx(12)
     elif _bt_ic_f and 1 <= _bt_sig_f <= 5 and _bt_pk_f >= 1.1:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_f:.0f}(1-5)+Park{_bt_pk_f:.2f}(≥1.1) (100%  11/11 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_f:.0f}(1-5)+Park{_bt_pk_f:.2f}(≥1.1) (100%  11/11 AT, 57-sl CSV)" + _bt_sfx(11)
     elif _bt_pm_f >= 1.08 and _bt_pw_f >= 87 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.08)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  11/11 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.08)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  11/11 AT, 57-sl CSV)" + _bt_sfx(11)
     elif 1.04 <= _bt_pm_f < 1.07 and _bt_vu_f >= 52 and 0 < _bt_hs_f < 10:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(1.04-1.07)+Vu{_bt_vu_f:.0f}(≥52)+HS{_bt_hs_f:.0f}(<10) (94%  16/17 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(1.04-1.07)+Vu{_bt_vu_f:.0f}(≥52)+HS{_bt_hs_f:.0f}(<10) (94%  16/17 AT, 57-sl CSV)"  # n=17 ≥ 15, no suffix
     elif _bt_pm_f >= 1.10 and _bt_pw_f >= 87 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  9/9 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  9/9 AT, 57-sl CSV)" + _bt_sfx(9)
     elif _bt_sig_f >= 10 and _bt_env_f >= 1.05 and _bt_pw_f >= 87:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_f:.0f}(≥10)+Env{_bt_env_f:.2f}(≥1.05)+Pw{_bt_pw_f:.0f}(≥87) (100%  9/9 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_f:.0f}(≥10)+Env{_bt_env_f:.2f}(≥1.05)+Pw{_bt_pw_f:.0f}(≥87) (100%  9/9 AT, 57-sl CSV)" + _bt_sfx(9)
     elif 44.0 <= _bt_vu_f < 48.0 and _bt_pw_f >= 85 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(44-48)+Pw{_bt_pw_f:.0f}(≥85)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  8/8 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(44-48)+Pw{_bt_pw_f:.0f}(≥85)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  8/8 AT, 57-sl CSV)" + _bt_sfx(8)
     elif _bt_sc_f < 50.0 and _bt_sig_f >= 7 and _bt_edge_f >= 0.10:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_f:.0f}(<50)+Sig{_bt_sig_f:.0f}(≥7)+Edge{_bt_edge_f*100:+.0f}%(≥10%) (100%  7/7 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_f:.0f}(<50)+Sig{_bt_sig_f:.0f}(≥7)+Edge{_bt_edge_f*100:+.0f}%(≥10%) (100%  7/7 AT, 57-sl CSV)" + _bt_sfx(7)
     elif _bt_vu_f >= 52.0 and _bt_ic_f and _bt_sig_f >= 5:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_f:.0f}(≥5) (100%  6/6 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_f:.0f}(≥5) (100%  6/6 AT, 57-sl CSV)" + _bt_sfx(6)
     elif _bt_pm_f >= 1.10 and 55.0 <= _bt_sc_f < 68.0 and 45.0 <= _bt_hs_f < 55.0:
         _bt_elite_entry = f"🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Sc{_bt_sc_f:.0f}(55-68)+HS{_bt_hs_f:.0f}(45-55) (86%  24/28 AT, 57-sl CSV)"
     elif _bt_hs4047 and _bt_pm_f >= 1.03 and 1 <= _bt_sig_f <= 5:
