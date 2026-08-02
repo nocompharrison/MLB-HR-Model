@@ -28393,12 +28393,23 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # of one-pick-per-arm vs doubling up gave 1.067 vs 1.051 expected HR from 5
     # picks — a real but small edge, which is why this is a tiebreak-level
     # penalty and not an exclusion.
+    # BUG FIX Aug 2 2026: this read _sl_sh.get('pitcher'), but the dict returned by
+    # _score_sharp has NO 'pitcher' key. Every batter therefore shared the key ''
+    # and slots were numbered 1..N across the WHOLE slate — Randy Arozarena came
+    # out as "slot 29" on Aug 1 and was deprioritised as a 29th-best bat on his
+    # arm. He homered. The pitcher name lives on the score object as
+    # sc.pitcher_name, so read it from there and fall back to the dict.
     _slot_by_pitcher: dict = {}
     _hr_picks_slotted = []
     for _sl_sc, _sl_sh in hr_picks:
-        _sl_p = _sl_sh.get('pitcher', '') or ''
-        _sl_n = _slot_by_pitcher.get(_sl_p, 0) + 1
-        _slot_by_pitcher[_sl_p] = _sl_n
+        _sl_p = (getattr(_sl_sc, 'pitcher_name', '') or _sl_sh.get('pitcher', '') or '').strip()
+        if not _sl_p:
+            # Unknown pitcher -> cannot establish a slot. Treat as slot 1 so an
+            # unidentifiable bat is never penalised for a missing field.
+            _sl_n = 1
+        else:
+            _sl_n = _slot_by_pitcher.get(_sl_p, 0) + 1
+            _slot_by_pitcher[_sl_p] = _sl_n
         try:
             _sl_sc.pitcher_slot = _sl_n
         except Exception:
