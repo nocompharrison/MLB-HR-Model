@@ -15680,7 +15680,20 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # was validated on Devers at HS29. These two thresholds are intentionally different.
     # NAME NOTE: called _cold25 not _ice_cold — _is_ice_cold_hr is already taken
     # further down by the ICE_COLD_SUPER_VUL grade at a HS<10 threshold.
-    _is_cold25_hr = 0 < _hit_score_rs < 25 or _hit_score_rs == 0
+    # ── SHARPENED Aug 2 2026 (93-slate panel, n=3,723, base 16.30%) ──────
+    # Gate was HS<25 at a flat +3%. A threshold sweep shows the 15-25 band is
+    # dead weight inside it:
+    #     HS <10  : 83/427 = 19.4%  1.19x   <- the real edge
+    #     HS 10-15: 20/111 = 18.0%  1.11x
+    #     HS 15-25: 46/283 = 16.3%  1.00x   <- exactly baseline, now dropped
+    #     HS <25 (old): 149/821 = 18.1%  1.11x
+    #     HS <15 (new): 103/538 = 19.1%  1.17x
+    # Lifts the gate 1.11x -> 1.17x while still firing on 66% as many bats.
+    # HONEST CAVEAT: neither threshold clears the promotion gates (HS<15 is
+    # p=0.058, boot5 1.03) and month rates wobble (May 16.5%, June 22.2%,
+    # July 17.3%). This SHARPENS an existing boost by removing a band measured
+    # at exactly 1.00x; it is not a new signal.
+    _is_cold25_hr = 0 < _hit_score_rs < 15 or _hit_score_rs == 0
     _vuln_rs        = getattr(batter, 'pitcher_vuln', 0.0) or 0.0
     _has_slm_rs     = getattr(batter, 'has_sharp_line_move', False)
     _bp_score_rs    = batter_power_score(batter)   # compute here — used again at line 16455
@@ -23007,28 +23020,39 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         return (f" [🟡 n={n}<{_BTEMIN} — STRONG PLAY, not MUST PLAY]"
                 if n < _BTEMIN else "")
 
+    # ══ PER-VARIANT LIVE RATES (Aug 2 2026) ═══════════════════════════════
+    # BUG: this block is a SECOND emission site for BACKTEST ELITE — the one that
+    # actually reaches the sheet — and it was never wired to the live registry.
+    # Every branch printed its MINED figure verbatim ("100%  11/11 AT"), which is
+    # what the Aug 1 card read when it named three MUST PLAYs off this grade.
+    # Worse, all 11 gated variants shared the single pooled key `bt_elite_hit`,
+    # whose members range from 0% to 100%, so even the wired sibling block could
+    # not describe the specific combo on a card.
+    # Each branch now has its OWN key, so the live number measures exactly the
+    # population the label claims. Live HR rate for the family is 18.4% (18/98,
+    # 1.12x) against a printed 100% — that gap is what was distorting the card.
     if _bt_pm_f >= 1.12 and _bt_pw_f >= 82 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.12)+Pw{_bt_pw_f:.0f}(≥82)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  12/12 AT, 57-sl CSV)" + _bt_sfx(12)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.12)+Pw{_bt_pw_f:.0f}(≥82)+Edge{_bt_edge_f*100:+.0f}%(≥15%) ({_grade_rate('bte_pm112_pw82_edge15', '100%  12/12')} AT  [mined 100% 12/12 @57sl])" + _bt_sfx(12)
     elif _bt_ic_f and 1 <= _bt_sig_f <= 5 and _bt_pk_f >= 1.1:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_f:.0f}(1-5)+Park{_bt_pk_f:.2f}(≥1.1) (100%  11/11 AT, 57-sl CSV)" + _bt_sfx(11)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: ICE_COLD+Sig{_bt_sig_f:.0f}(1-5)+Park{_bt_pk_f:.2f}(≥1.1) ({_grade_rate('bte_ic_sig15_park11', '100%  11/11')} AT  [mined 100% 11/11 @57sl])" + _bt_sfx(11)
     elif _bt_pm_f >= 1.08 and _bt_pw_f >= 87 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.08)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  11/11 AT, 57-sl CSV)" + _bt_sfx(11)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.08)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) ({_grade_rate('bte_pm108_pw87_edge15', '100%  11/11')} AT  [mined 100% 11/11 @57sl])" + _bt_sfx(11)
     elif 1.04 <= _bt_pm_f < 1.07 and _bt_vu_f >= 52 and 0 < _bt_hs_f < 10:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(1.04-1.07)+Vu{_bt_vu_f:.0f}(≥52)+HS{_bt_hs_f:.0f}(<10) (94%  16/17 AT, 57-sl CSV)"  # n=17 ≥ 15, no suffix
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(1.04-1.07)+Vu{_bt_vu_f:.0f}(≥52)+HS{_bt_hs_f:.0f}(<10) ({_grade_rate('bte_pm104_vu52_hs10', '94%  16/17')} AT  [mined 94% 16/17 @57sl])"  # n=17 ≥ 15, no suffix
     elif _bt_pm_f >= 1.10 and _bt_pw_f >= 87 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  9/9 AT, 57-sl CSV)" + _bt_sfx(9)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Pw{_bt_pw_f:.0f}(≥87)+Edge{_bt_edge_f*100:+.0f}%(≥15%) ({_grade_rate('bte_pm110_pw87_edge15', '100%  9/9')} AT  [mined 100% 9/9 @57sl])" + _bt_sfx(9)
     elif _bt_sig_f >= 10 and _bt_env_f >= 1.05 and _bt_pw_f >= 87:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_f:.0f}(≥10)+Env{_bt_env_f:.2f}(≥1.05)+Pw{_bt_pw_f:.0f}(≥87) (100%  9/9 AT, 57-sl CSV)" + _bt_sfx(9)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sig{_bt_sig_f:.0f}(≥10)+Env{_bt_env_f:.2f}(≥1.05)+Pw{_bt_pw_f:.0f}(≥87) ({_grade_rate('bte_sig10_env105_pw87', '100%  9/9')} AT  [mined 100% 9/9 @57sl])" + _bt_sfx(9)
     elif 44.0 <= _bt_vu_f < 48.0 and _bt_pw_f >= 85 and _bt_edge_f >= 0.15:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(44-48)+Pw{_bt_pw_f:.0f}(≥85)+Edge{_bt_edge_f*100:+.0f}%(≥15%) (100%  8/8 AT, 57-sl CSV)" + _bt_sfx(8)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(44-48)+Pw{_bt_pw_f:.0f}(≥85)+Edge{_bt_edge_f*100:+.0f}%(≥15%) ({_grade_rate('bte_vu4448_pw85_edge15', '100%  8/8')} AT  [mined 100% 8/8 @57sl])" + _bt_sfx(8)
     elif _bt_sc_f < 50.0 and _bt_sig_f >= 7 and _bt_edge_f >= 0.10:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_f:.0f}(<50)+Sig{_bt_sig_f:.0f}(≥7)+Edge{_bt_edge_f*100:+.0f}%(≥10%) (100%  7/7 AT, 57-sl CSV)" + _bt_sfx(7)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Sc{_bt_sc_f:.0f}(<50)+Sig{_bt_sig_f:.0f}(≥7)+Edge{_bt_edge_f*100:+.0f}%(≥10%) ({_grade_rate('bte_sc50_sig7_edge10', '100%  7/7')} AT  [mined 100% 7/7 @57sl])" + _bt_sfx(7)
     elif _bt_vu_f >= 52.0 and _bt_ic_f and _bt_sig_f >= 5:
-        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_f:.0f}(≥5) (100%  6/6 AT, 57-sl CSV)" + _bt_sfx(6)
+        _bt_elite_entry = f"🔥🔥 BACKTEST ELITE: Vu{_bt_vu_f:.0f}(≥52)+ICE_COLD+Sig{_bt_sig_f:.0f}(≥5) ({_grade_rate('bte_vu52_ic_sig5', '100%  6/6')} AT  [mined 100% 6/6 @57sl])" + _bt_sfx(6)
     elif _bt_pm_f >= 1.10 and 55.0 <= _bt_sc_f < 68.0 and 45.0 <= _bt_hs_f < 55.0:
-        _bt_elite_entry = f"🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Sc{_bt_sc_f:.0f}(55-68)+HS{_bt_hs_f:.0f}(45-55) (86%  24/28 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥 BACKTEST ELITE: PM{_bt_pm_f:.3f}(≥1.10)+Sc{_bt_sc_f:.0f}(55-68)+HS{_bt_hs_f:.0f}(45-55) ({_grade_rate('bte_pm110_sc5568_hs4555', '86%  24/28')} AT  [mined 86% 24/28 @57sl])"
     elif _bt_hs4047 and _bt_pm_f >= 1.03 and 1 <= _bt_sig_f <= 5:
-        _bt_elite_entry = f"🔥 BACKTEST ELITE: HS{_bt_hs_f:.0f}(40-47)+PM{_bt_pm_f:.3f}(≥1.03)+Sig{_bt_sig_f:.0f}(1-5) (78%  60/77 AT, 57-sl CSV)"
+        _bt_elite_entry = f"🔥 BACKTEST ELITE: HS{_bt_hs_f:.0f}(40-47)+PM{_bt_pm_f:.3f}(≥1.03)+Sig{_bt_sig_f:.0f}(1-5) ({_grade_rate('bte_hs4047_pm103_sig15', '78%  60/77')} AT  [mined 78% 60/77 @57sl])"
 
     if _bt_elite_entry:
         _scream_hit_entries.insert(0, _bt_elite_entry)  # prepend — highest priority
@@ -24549,6 +24573,21 @@ def _load_grade_stats() -> dict:
         # return the hardcoded fallback. Registering them makes the labels self-correct.
         ("prime_pitchedge_hit", lambda p: "PRIME+PitchEdge" in (str(_g(p,"hit_grade") or "") + str(_g(p,"flags") or ""))),
         ("bt_elite_hit",        lambda p: "BACKTEST ELITE" in (str(_g(p,"hit_grade") or "") + str(_g(p,"flags") or ""))),
+        # ── PER-VARIANT BACKTEST ELITE KEYS (Aug 2 2026) ─────────────────────
+        # The family key above pools 11 gated variants whose live rates span the
+        # full range, so it cannot describe the combo printed on a card. These
+        # match on the gate signature that appears in the label text itself.
+        ("bte_pm112_pw82_edge15",   lambda p: "(≥1.12)+Pw" in str(_g(p,"flags") or "")),
+        ("bte_ic_sig15_park11",     lambda p: "ICE_COLD+Sig" in str(_g(p,"flags") or "") and "+Park" in str(_g(p,"flags") or "")),
+        ("bte_pm108_pw87_edge15",   lambda p: "(≥1.08)+Pw" in str(_g(p,"flags") or "")),
+        ("bte_pm104_vu52_hs10",     lambda p: "(1.04-1.07)+Vu" in str(_g(p,"flags") or "")),
+        ("bte_pm110_pw87_edge15",   lambda p: "(≥1.10)+Pw" in str(_g(p,"flags") or "")),
+        ("bte_sig10_env105_pw87",   lambda p: "(≥10)+Env" in str(_g(p,"flags") or "")),
+        ("bte_vu4448_pw85_edge15",  lambda p: "(44-48)+Pw" in str(_g(p,"flags") or "")),
+        ("bte_sc50_sig7_edge10",    lambda p: "(<50)+Sig" in str(_g(p,"flags") or "")),
+        ("bte_vu52_ic_sig5",        lambda p: "(≥52)+ICE_COLD" in str(_g(p,"flags") or "")),
+        ("bte_pm110_sc5568_hs4555", lambda p: "(55-68)+HS" in str(_g(p,"flags") or "")),
+        ("bte_hs4047_pm103_sig15",  lambda p: "(40-47)+PM" in str(_g(p,"flags") or "")),
         ("weak_flagged_hit",  _weak_flagged),
         ("no_grade_hit",      _no_grade_hit),
     ]:
