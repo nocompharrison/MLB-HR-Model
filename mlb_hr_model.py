@@ -3645,9 +3645,29 @@ def _fetch_openmeteo(lat, lon, game_date, game_hour, is_historical, home_team) -
     Returns a neutral stub so every downstream caller keeps working; FantasyLabs
     weather (already parsed from the workbook) supplies the real values.
     """
-    return {"temp_f": None, "wind_mph": None, "wind_dir_deg": None,
-            "humidity": None, "run_adj": 0.0, "bso_adj": 0.0,
-            "source": "disabled-v3 (FantasyLabs is sole weather source)"}
+    # ⚠️ FIX (Aug 3 2026): this stub previously returned {"temp_f": None,
+    # "wind_mph": None, ...} with source="disabled-v3 ...".
+    #
+    # Two things broke as a result:
+    #   1) fetch_weather() guards the primary path with
+    #        if result.get("source") != "default":  # successful fetch
+    #      Because "disabled-v3 ..." != "default", the DISABLED stub was treated
+    #      as a SUCCESSFUL fetch and returned immediately — so the baseballwx
+    #      fallback and the ultimate fallback were unreachable.
+    #   2) The stub used the key "wind_mph" while every consumer reads
+    #      "wind_speed", and temp_f was None. Any game whose home team was not
+    #      in weather_day_cache therefore raised
+    #        KeyError: 'wind_speed'   (main(), compute_weather_adjs call)
+    #      and would have hit a NoneType format error at the summary print.
+    #
+    # The stub now returns source="default" so the fallback chain engages, and
+    # carries the FULL neutral schema every downstream reader expects. Historical
+    # runs return this dict directly, so the schema must be complete here.
+    return {"temp_f": 72.0, "wind_speed": 0.0, "wind_out": False,
+            "wind_mph": 0.0, "wind_dir_deg": 0.0, "dome": False,
+            "condition": "Unknown", "humidity": 0.50, "precip_pct": 0.0,
+            "run_adj": 0.0, "bso_adj": 0.0,
+            "source": "default"}
 
 
 def _weather_cache_path(target_date) -> "Path":
@@ -3723,8 +3743,19 @@ def fetch_weather(lat: float, lon: float, game_time_utc: str,
                 "bso_adj":0.0, "source":"dome"}
 
     # ── Per-run in-memory cache check ────────────────────────────────────────
-    if weather_day_cache is not None and home_team in weather_day_cache:
-        return weather_day_cache[home_team]
+    # FantasyLabs supplies weather for only SOME teams (the Aug 3 run logged
+    # "Weather from FantasyLabs (8 teams)" against 8 games = 16 teams), and the
+    # rows are not guaranteed to be keyed by the HOME team. Checking home only
+    # sent roughly half the slate down the Open-Meteo path, which is disabled.
+    # main() already uses the home-then-away pattern at the run_adj recompute;
+    # mirror it here. Weather is a per-GAME property, so either key is valid.
+    if weather_day_cache is not None:
+        for _tm in (home_team, away_team):
+            _hit = weather_day_cache.get(_tm)
+            if _hit:
+                if weather_day_cache.get(home_team) is None:
+                    weather_day_cache[home_team] = _hit   # memoise under home
+                return _hit
 
     is_historical = (target_date is not None) and (target_date < date.today())
 
@@ -3754,7 +3785,12 @@ def fetch_weather(lat: float, lon: float, game_time_utc: str,
 
     # Try Open‑Meteo (primary)
     result = _fetch_openmeteo(lat, lon, game_date, game_hour, False, home_team)
-    if result.get("source") != "default":   # successful fetch
+    # Guard on the DATA, not just the source string. A stub or a partial payload
+    # must never short-circuit the fallback chain (see _fetch_openmeteo notes).
+    _usable = (result.get("source") != "default"
+               and result.get("temp_f") is not None
+               and result.get("wind_speed") is not None)
+    if _usable:                             # successful fetch
         if weather_day_cache is not None:
             weather_day_cache[home_team] = result
         return result
@@ -30914,10 +30950,21 @@ def main():
             _fl_wx = fl_lookup["weather"].get(home) or fl_lookup["weather"].get(away) or {}
             _hum  = _fl_wx.get("humidity", 0.50)
             _prec = _fl_wx.get("precip_pct", 0.0)
-            _ra, _ba = compute_weather_adjs(
-                weather["temp_f"], weather["wind_speed"], weather.get("wind_out", False),
-                _hum, _prec)
+            # ⚠️ FIX (Aug 3 2026): this read weather["temp_f"] / weather["wind_speed"]
+            # directly and raised KeyError: 'wind_speed' whenever fetch_weather
+            # returned the disabled Open-Meteo stub. Two changes:
+            #   • prefer the FantasyLabs row we just looked up — it is the real
+            #     measurement; `weather` may be a neutral 72F/0mph fallback, and
+            #     recomputing run_adj from a fallback is a silent no-op.
+            #   • .get() with defaults so a partial dict degrades instead of crashing.
+            _temp = _fl_wx.get("temp_f",     weather.get("temp_f")     or 72.0)
+            _wind = _fl_wx.get("wind_speed", weather.get("wind_speed") or 0.0)
+            _wout = _fl_wx.get("wind_out",   weather.get("wind_out", False))
+            _ra, _ba = compute_weather_adjs(_temp, _wind, _wout, _hum, _prec)
             weather = dict(weather)   # copy to avoid mutating cache
+            weather.setdefault("wind_out", _wout)
+            weather["temp_f"]     = _temp
+            weather["wind_speed"] = _wind
             weather["run_adj"]  = _ra
             weather["bso_adj"]  = _ba if weather.get("bso_adj", 0.0) == 0.0 else weather["bso_adj"]
 
@@ -30984,7 +31031,8 @@ def main():
             ballpark=sname,
             park_hr_factor=park_o, park_hr_factor_l=park_l, park_hr_factor_r=park_r,
             altitude_ft=alt, dome=dome,
-            temp_f=weather["temp_f"], wind_speed=weather["wind_speed"],
+            temp_f=weather.get("temp_f", 72.0) if weather.get("temp_f") is not None else 72.0,
+            wind_speed=weather.get("wind_speed", 0.0) if weather.get("wind_speed") is not None else 0.0,
             humidity=weather.get("humidity", 0.50),
             precip_pct=weather.get("precip_pct", 0.0),
             wind_out=weather["wind_out"], wind_dir_deg=weather.get("wind_dir_deg", 270.0),
@@ -31047,8 +31095,15 @@ def main():
         _hum  = weather.get("humidity", 0.50)
         _prec_tag = f"  ☔{_prec:.0f}%rain" if _prec > 20 else ""
         _hum_tag  = f"  💧{_hum*100:.0f}%hum" if _hum > 0.75 else ""
+        # ⚠️ FIX (Aug 3 2026): direct [] access + :.0f formatting raised KeyError
+        # (missing key) or TypeError (None) on any game that fell through to the
+        # disabled Open-Meteo stub. Coerce to safe numerics for display only.
+        _t_disp = weather.get("temp_f")
+        _w_disp = weather.get("wind_speed")
+        _t_disp = 72.0 if _t_disp is None else _t_disp
+        _w_disp = 0.0  if _w_disp is None else _w_disp
         print(f"  {gm['away_team']:3s} @ {home:3s}  "
-              f"{weather['temp_f']:.0f}F  wind {weather['wind_speed']:.0f}mph {wind_tag}  "
+              f"{_t_disp:.0f}F  wind {_w_disp:.0f}mph {wind_tag}  "
               f"{odds_tag}{run_adj_tag}{_prec_tag}{_hum_tag} {src_tag}")
 
     # Save weather to disk for future runs (works even when sourced from FL)
