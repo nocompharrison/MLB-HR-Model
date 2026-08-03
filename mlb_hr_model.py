@@ -19552,6 +19552,11 @@ ARCHETYPE_BASELINES = {"HR": 16.45, "HIT": 62.51}
 
 # Qualitative markers the archetypes consume, and the note/flag text that fires them.
 ARCHETYPE_QUAL_PATTERNS = {
+    # Added Aug 3 2026 for HR23. Matches the T4_PTM+PITCH_DOM stacked marker the
+    # panel search keyed on. Without this entry the feature is never populated and
+    # HR23's test would silently evaluate False on every batter — the archetype
+    # would exist in the registry and never fire.
+    "Q_T4PTM_PITCHDOM":  r"T4_PTM\+PITCH_DOM",
     "Q_ZCONTACT":        r"Z-CONTACT BOOST",
     "Q_VULN52PLUS":      r"Vuln52\+|⚠️ Vuln52",
     "Q_EXTREME_L2":      r"EXTREME L2|Extreme L2 blowup|L2 blowup",
@@ -19589,6 +19594,68 @@ def _arch_on(f, k):        return bool(f.get(k))
 
 # ── HR ARCHETYPES ────────────────────────────────────────────────────────────
 HR_ARCHETYPES = [
+ # ══ HR23 / HR24 — added Aug 3 2026 from the panel-wide tight-rule search ══
+ # Mined by requiring 100% PRECISION across ALL 75 slates at once (not one slate),
+ # so neither can be a single-night accident. Both went 6/6.
+ #
+ # ⚠️ READ THIS BEFORE TRUSTING THEM. They are tier="A" so they earn conviction,
+ # but they carry `confluence=False`, which keeps them OUT of the 2+/3+ Tier-A
+ # CONFLUENCE count. Reason: the confluence claim (78.1% at 2+, 100% at 3+) was
+ # measured on n=32 and n=8 using archetypes that each sit on n=21-100+. Letting
+ # an n=6 member into that pool would let a 6-row rule trigger an AUTO MUST-PLAY,
+ # which the confluence sample does not support.
+ #
+ # Also note the search's own null: 44 real 100%-precision rules were found and
+ # shuffling outcomes produced 125, 12, 70 — the real count is BELOW the null
+ # mean. These two were selected from that set because they are mechanically
+ # sensible, not because the count beat chance.
+ #
+ # RELAXATION EVIDENCE (this is the honest strength of the signal):
+ #   Vu>=54 + T4_PTM+PITCH_DOM (drop park) :  7/13 = 53.8%  3.30x  9sl
+ #   T4_PTM+PITCH_DOM alone                : 21/115 = 18.3%  1.12x 22sl
+ #   Vu>=54 + Odds<+250 (drop env)         : 10/21 = 47.6%  2.92x 17sl
+ #   Vu>=54 + Odds<+300  <-- HR25          : 19/44 = 43.2%  2.65x 27sl  p=2e-05
+ # The park/env gates trim a real effect down to six rows. HR25 below is the
+ # durable form; HR23/HR24 are its tightest fragments. Promote or retire on
+ # fresh data at n>=20.
+ dict(id="HR23", name="Super-Vuln Pitch-Dominance Lock", tier="A", conv_boost=8,
+      confluence=False,
+      vars="3-Variable: 2 Quant + 1 Qual",
+      stack="Vuln≥54 + Park 0.95-1.05 + T4_PTM+PITCH_DOM",
+      rate=100.0, lift=6.13, n=6, hits=6, slates=6, p=1.9e-5, ci=(0.0, 0.0),
+      half1=100.0, half2=100.0, asg="n/a", window="panel-wide 75sl",
+      why=("Super-vulnerable arm + a neutral park + the pitcher's most-hittable pitch "
+           "matching the batter's L10 BBE. n=6 — this is the tightest fragment of "
+           "Vu≥54 + T4_PTM+PITCH_DOM, which runs 53.8% (7/13) without the park gate. "
+           "Excluded from confluence: an n=6 rule must not trigger an auto must-play."),
+      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_bt(f,"park",0.95,1.05)
+                      and bool(f.get("Q_T4PTM_PITCHDOM")))),
+
+ dict(id="HR24", name="Super-Vuln Short-Price Env Lock", tier="A", conv_boost=8,
+      confluence=False,
+      vars="3-Variable: 3 Quant",
+      stack="Vuln 54-57 + Env 1.00-1.10 + Odds<+250",
+      rate=100.0, lift=6.13, n=6, hits=6, slates=6, p=1.9e-5, ci=(0.0, 0.0),
+      half1=100.0, half2=100.0, asg="n/a", window="panel-wide 75sl",
+      why=("Super-vulnerable arm, live environment, and a price the market has already "
+           "shortened. n=6 — the tightest fragment of Vu≥54 + Odds<+300, which runs "
+           "43.2% (19/44) across 27 slates. Excluded from confluence."),
+      test=lambda f: (_arch_bt(f,"vuln",54,57) and _arch_bt(f,"env",1.00,1.10)
+                      and _arch_lt(f,"odds",250))),
+
+ dict(id="HR25", name="Super-Vuln Short Price", tier="A", conv_boost=14,
+      confluence=True,
+      vars="2-Variable: 2 Quant",
+      stack="Vuln≥54 + Odds<+300",
+      rate=43.2, lift=2.65, n=44, hits=19, slates=27, p=2.0e-5, ci=(1.85, 3.79),
+      half1=45.0, half2=41.7, asg="n/a", window="panel-wide 75sl",
+      why=("The durable form of HR23/HR24. A genuinely vulnerable arm at a price the "
+           "market has already shortened. Components: Vu≥54 alone 26.2% (1.61x, n=183), "
+           "Odds<+250 alone 23.7% (1.45x, n=169) — the interaction is what carries it. "
+           "34% of its rows are NOT already covered by HR22, and those run 46.7% (7/15, "
+           "2.86x), so it is additive rather than a restatement."),
+      test=lambda f: (_arch_ge(f,"vuln",54) and _arch_lt(f,"odds",300))),
+
  dict(id="HR01", name="Loft-Band Power Anchor", tier="A", conv_boost=20,
       vars="6-Variable: 5 Quant + 1 Quant-from-Text",
       stack="L10dist 330-350ft + Odds<+400 + Park<1.05 + PM≥1.03 + Pwr≥84 + Vuln≥44",
@@ -22185,6 +22252,12 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _arch_hr_fired  = evaluate_archetypes(_arch_feats, "HR")
     _arch_hit_fired = evaluate_archetypes(_arch_feats, "HIT")
     _arch_hr_A      = [a for a in _arch_hr_fired  if a["tier"] == "A"]
+    # Confluence counts only archetypes flagged confluence=True (default True for
+    # every pre-existing entry). HR23/HR24 are Tier A for conviction purposes but
+    # sit on n=6, and the confluence rates (78.1% at 2+, 100% at 3+) were measured
+    # on members with n=21-100+. Admitting an n=6 rule would let six rows trigger
+    # an AUTO MUST-PLAY the confluence sample cannot support.
+    _arch_hr_A_conf = [a for a in _arch_hr_A if a.get("confluence", True)]
     _arch_hit_A     = [a for a in _arch_hit_fired if a["tier"] == "A"]
     _arch_conv_hr   = archetype_conv_boost(_arch_feats, "HR")
     _arch_conv_hit  = archetype_conv_boost(_arch_feats, "HIT")
@@ -22326,6 +22399,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # MID-HS DULL + Odds>=+400 boot95 1.09, HIT PM WEAK ZONE boot95 1.01.
         # Qualitative fades are consistently weaker than quantitative ones — grades
         # identify situations, but the fades live in price and pitch-match mismatch.
+        if (power is not None and 77.0 <= float(power) < 83.0
+                and vuln is not None and float(vuln) < 52.0):
+            _r = _grade_rate("neg_mid_power_dead_hr", "13.1%  112/852")
+            _firing_grades.append(
+                f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 + Vuln={float(vuln):.0f}<52 "
+                f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
+                f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
+                f"Vu≥52 is exempt and validated (Pwr77-83+Vu≥52 = 1.24x). ⚠️ Month split uneven "
+                f"(Jun 16.7%, Jul 11.8%) and Power populated on 41 of 95 slates. Deprioritize only."
+            )
         if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 52.0:
             _r = _grade_rate("neg_supp_l5_low_vuln_hr", "8.1%  10/124")
             _firing_grades.append(
@@ -22383,7 +22466,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # ── CONFLUENCE TIER — the strongest signal in the whole library ───────────
     # 2+ Tier-A HR archetypes = 78.1% HR (4.75x, n=32); 3+ = 100% (n=8, 6.08x).
     # 2+ Tier-A HIT archetypes = 100% hit (1.60x, n=39).
-    _arch_hr_confluence  = len(_arch_hr_A)
+    _arch_hr_confluence  = len(_arch_hr_A_conf)
     _arch_hit_confluence = len(_arch_hit_A)
     if _arch_hr_confluence >= 3:
         _firing_grades.append(
@@ -24445,6 +24528,31 @@ def _load_grade_stats() -> dict:
         except Exception:
             return False
 
+    def _neg_mid_power_dead(p):
+        """NEG06 MID-POWER DEAD ZONE — Pwr 77-83 + Vuln<52. 13.1% HR (0.81x, n=852).
+
+        Power is U-shaped, not monotonic, on the 93-slate panel (base 16.30%):
+            Pwr <77   : 266/1594 = 16.7%  1.02x   <- baseline
+            Pwr 77-83 : 136/971  = 14.0%  0.86x   <- WORSE THAN WEAKER BATS
+            Pwr >=84  : 168/932  = 18.0%  1.11x
+        The existing gate only asks Pwr>=84, so it treats 77-83 and <77 alike when
+        in fact the middle band is the worst place on the axis. Weak bats are priced
+        long and appear in favourable spots; mid-power bats get neither the price
+        nor the pop.
+        The Vu>=52 exception in the current gate is VALIDATED and preserved:
+            Pwr 77-83 + Vu>=52 : 24/119 = 20.2%  1.24x   <- rescued, do NOT screen
+            Pwr 80-83 + Vu>=52 : 16/70  = 22.9%  1.40x
+            Pwr 77-83 + Vu<52  : 112/852 = 13.1%  0.81x  <- the screen
+        CAVEAT: month split is uneven (June 16.7%, July 11.8%) and Power is only
+        populated on 41 of 95 slates, so this rests on less history than its n
+        suggests. Deprioritize only.
+        """
+        try:
+            _pw = float(_g(p, "power")); _v = float(_g(p, "vuln"))
+        except Exception:
+            return False
+        return 77.0 <= _pw < 83.0 and _v < 52.0
+
     def _sv_pm_gap_high_score(p):
         """HR21 SUPER-VUL PM-GAP HIGH SCORE — Vuln 54-57 + PM outside 1.01-1.07 + Score>=60."""
         _v = _g(p, "vuln"); _m = _g(p, "pitch_match"); _s = _g(p, "score")
@@ -24531,6 +24639,7 @@ def _load_grade_stats() -> dict:
         ("neg_longprice_park_pm_hr",   _neg_longprice_park_pm),
         ("neg_longprice_score_edge_hr",_neg_longprice_score_edge),
         ("neg_supp_l5_low_vuln_hr",    _neg_supp_l5_low_vuln),
+        ("neg_mid_power_dead_hr",      _neg_mid_power_dead),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last10), _fmt_hr(subset, all_set))
