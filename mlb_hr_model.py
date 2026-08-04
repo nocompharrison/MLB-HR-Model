@@ -1567,22 +1567,61 @@ class HRScore:
 # ── SECTION 1: HTTP HELPER ───────────────────────────────────
 # ============================================================
 
+# ── BROWSER-LIKE HEADERS (Aug 4 2026) ──
+# WHY: every FanGraphs call returned 403 Forbidden on every endpoint, every day.
+# 403 is an AUTHORISATION refusal, not a throttle — a real rate limit returns 429.
+# The old _get() sent User-Agent "Mozilla/5.0" and nothing else. That bare string
+# is not a real browser signature (genuine browsers append platform + engine) and
+# is among the most commonly blocked values on Cloudflare-style bot filters.
+# PROOF it is headers and not an outage: _get_text() already sent a FULL UA plus
+# Accept-Language and Referer, and its Savant calls SUCCEED on the same runs where
+# every FanGraphs call fails.
+_BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+               "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+
+def _browser_headers(url: str, accept: str = "application/json") -> dict:
+    """Full browser-ish header set, with a same-origin Referer per host."""
+    h = {"User-Agent": _BROWSER_UA, "Accept": accept,
+         "Accept-Language": "en-US,en;q=0.9", "Cache-Control": "no-cache",
+         "Pragma": "no-cache", "Connection": "keep-alive"}
+    u = str(url or "")
+    if "fangraphs.com" in u:
+        h["Referer"] = "https://www.fangraphs.com/"
+        h["Origin"] = "https://www.fangraphs.com"
+        h["X-Requested-With"] = "XMLHttpRequest"
+    elif "baseballsavant" in u or "mlb.com" in u:
+        h["Referer"] = "https://baseballsavant.mlb.com/"
+    return h
+
+
+# 403 added to the retry set. It was non-retryable, so one blocked response killed
+# the whole enrichment pass with no backoff.
+_RETRYABLE_HTTP = (403, 429, 502, 503)
+
+
 def _get(url: str, timeout: int = 20, retries: int = 3) -> Optional[dict | list]:
     """GET with exponential backoff retry on connection errors."""
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(
-                url, headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
-            )
+            req = urllib.request.Request(url, headers=_browser_headers(url))
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
-            if e.code in (429, 502, 503) and attempt < retries - 1:
-                wait = 2 ** attempt
-                print(f"    HTTP {e.code} — retrying in {wait}s...")
+            if e.code in _RETRYABLE_HTTP and attempt < retries - 1:
+                # 403 gets a longer wait than a 5xx: hammering a bot filter at 1s
+                # intervals is what gets an IP escalated.
+                wait = (4 ** attempt) if e.code == 403 else (2 ** attempt)
+                _lbl = "blocked (403)" if e.code == 403 else f"HTTP {e.code}"
+                print(f"    {_lbl} retrying in {wait}s...")
                 time.sleep(wait)
             else:
-                print(f"    HTTP {e.code} — {url[:80]}")
+                _lbl = ("HTTP 403 BLOCKED (bot/UA filtering, NOT a rate limit "
+                        "- 429 is the throttle code)") if e.code == 403 else f"HTTP {e.code}"
+                # FULL url. It was truncated at 80 chars, which made the logged link
+                # un-pasteable: a chopped query string returns a DIFFERENT error
+                # ("No HTTP resource was found") and sends debugging the wrong way.
+                print(f"    {_lbl} - {url}")
                 return None
         except Exception as e:
             if attempt < retries - 1:
@@ -1598,20 +1637,18 @@ def _get_text(url: str, timeout: int = 20, retries: int = 3) -> Optional[str]:
     """GET returning raw text (for CSV endpoints)."""
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(url, headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-                "Accept": "text/csv,text/plain,*/*",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Referer": "https://baseballsavant.mlb.com/",
-            })
+            req = urllib.request.Request(
+                url, headers=_browser_headers(url, accept="text/csv,text/plain,*/*"))
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read().decode("utf-8", errors="replace")
         except urllib.error.HTTPError as e:
-            if e.code in (429, 502, 503) and attempt < retries - 1:
-                time.sleep(2 ** attempt)
+            if e.code in _RETRYABLE_HTTP and attempt < retries - 1:
+                time.sleep((4 ** attempt) if e.code == 403 else (2 ** attempt))
             else:
-                if e.code != 404:   # 404s are expected fallback noise — suppress
-                    print(f"    HTTP {e.code} — {url[:80]}")
+                if e.code != 404:   # 404s are expected fallback noise - suppress
+                    _lbl = ("HTTP 403 BLOCKED (bot/UA filtering, not a rate limit)"
+                            if e.code == 403 else f"HTTP {e.code}")
+                    print(f"    {_lbl} - {url}")
                 return None
         except Exception as e:
             if attempt < retries - 1:
@@ -3545,7 +3582,7 @@ _BWX_TEAM_MAP = {
 def fetch_baseballwx() -> dict:
     import re, urllib.request
     url = "https://www.baseballwx.com/index.html"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(url, headers=_browser_headers(url, accept="text/html,*/*"))
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             html = resp.read().decode("utf-8", errors="ignore")
@@ -5488,7 +5525,9 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=8&pageitems=2000&pagenum=1"
         )
-        with _req3.urlopen(url_adv, timeout=12) as _r:
+        # Was a bare urlopen with NO headers at all - the most block-prone form.
+        with _req3.urlopen(_req3.Request(url_adv, headers=_browser_headers(url_adv)),
+                           timeout=12) as _r:
             _data = _json.loads(_r.read())
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
@@ -5524,7 +5563,8 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=0&pageitems=2000&pagenum=1"
         )
-        with _req3.urlopen(url_std, timeout=12) as _r:
+        with _req3.urlopen(_req3.Request(url_std, headers=_browser_headers(url_std)),
+                           timeout=12) as _r:
             _data = _json.loads(_r.read())
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
@@ -6863,7 +6903,7 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
         _orig_timeout = _sock_bulk.getdefaulttimeout()
         _sock_bulk.setdefaulttimeout(120.0)  # 2 min for bulk download
         try:
-            req = _ur_bulk.Request(_bulk_url, headers={"User-Agent": "Mozilla/5.0"})
+            req = _ur_bulk.Request(_bulk_url, headers=_browser_headers(_bulk_url, accept="text/csv,text/plain,*/*"))
             with _ur_bulk.urlopen(req, timeout=120) as _resp:
                 _raw_bulk = _resp.read().decode("utf-8", errors="replace")
         finally:
@@ -7356,7 +7396,8 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
             ENDPOINT, data=body,
             headers={
                 "Content-Type": "application/json",
-                "User-Agent":   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "User-Agent":   _BROWSER_UA,   # was a TRUNCATED UA (no Chrome/Safari token)
+                "Accept-Language": "en-US,en;q=0.9",
                 "Accept":       "application/json, text/plain, */*",
                 "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
                 "Origin":       "https://www.fangraphs.com",
@@ -7380,7 +7421,7 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
         rows = _post(split_id)
         if not rows:
             print(f"    ⚠️  TTO #{tto_pass} (split_id={split_id}): 0 rows — "
-                  f"FanGraphs may be rate-limiting; grade will use available passes")
+                  f"FanGraphs returned 403 BLOCKED (bot/UA filtering - NOT a rate limit; 429 is the throttle code). Grade will use available passes.")
             _t.sleep(0.5)
             continue
 
@@ -7422,7 +7463,7 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
               f"({n_full} with >=3 TTO passes, {total_kept} entries, "
               f"min {min_pa} TBF)")
     else:
-        print(f"  ⚠️  Pitcher TTO splits: 0 pitchers — FanGraphs POST unavailable. "
+        print(f"  ⚠️  Pitcher TTO splits: 0 pitchers - FanGraphs POST BLOCKED (403 bot/UA filtering). "
               f"WEAK SPOT / PRIME WEAK SPOT grade will not fire this slate.")
     if result:
         try:
@@ -7520,7 +7561,8 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
             ENDPOINT, data=body,
             headers={
                 "Content-Type": "application/json",
-                "User-Agent":   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "User-Agent":   _BROWSER_UA,   # was a TRUNCATED UA (no Chrome/Safari token)
+                "Accept-Language": "en-US,en;q=0.9",
                 "Accept":       "application/json, text/plain, */*",
                 "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
                 "Origin":       "https://www.fangraphs.com",
@@ -7580,7 +7622,7 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
         except Exception:
             pass
     else:
-        print(f"  ⚠️  Pitcher situational splits: 0 pitchers — FanGraphs unavailable")
+        print(f"  ⚠️  Pitcher situational splits: 0 pitchers - FanGraphs BLOCKED (403 bot/UA filtering)")
     return result
 
 
