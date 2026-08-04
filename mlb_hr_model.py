@@ -28611,6 +28611,73 @@ def _sheet_sharp_picks(wb, scores, top_n):
     _hr_picks_slotted.sort(key=lambda t: 0 if t[2] == 1 else 1)
     hr_picks = [(a, b) for a, b, _ in _hr_picks_slotted]
 
+    # ══ PRIORITY TIER — Vuln>=52 + Odds<=+400, SORTED BY PRICE (Aug 4 2026) ══
+    # WHY THIS EXISTS. The card's ordering had never been tested. It was measured
+    # on the 77-slate panel (n=3,868, base 16.47%) and the model's own Score turns
+    # out to have almost NO ranking power:
+    #     top 1 by Score : 11/77  = 14.3%  0.87x   <- the WORST of the top ten
+    #     top 3          : 40/231 = 17.3%  1.05x
+    #     top 5          : 69/385 = 17.9%  1.09x
+    #     top 20         : 297/1540 = 19.3% 1.17x
+    # Tier-A archetype COUNT ranks barely better (1.10x). Archetypes are good
+    # filters and weak sorters.
+    #
+    # Head-to-head on top-5-per-slate, validated on a TEMPORAL HOLDOUT (build on
+    # the first 38 slates, evaluate on the last 39, untouched):
+    #     Score                          train 1.06x   test 1.12x
+    #     Odds shortest-first            train 1.49x   test 1.37x
+    #     Vu>=52 AND Odds<=+400 -> Odds  train 1.65x   test 1.72x   <-- this
+    # It is the only ranker above 1.6x in BOTH halves.
+    #
+    # On qualifiers only: 63/202 = 31.2% (1.89x), and it concentrates:
+    #     top 3 qualifiers 35.6% (2.16x) · top 5 32.8% (1.99x) · all 31.2% (1.89x)
+    # 60% of tier rows are NOT already covered by HR22/HR25, and those run
+    # 29/115 = 25.2% (1.55x), so it is additive rather than a restatement.
+    #
+    # ⚠️ TWO HONEST LIMITS, both surfaced on the card so nobody over-reads it:
+    #  1. THIN. Median 2 qualifiers per slate; 19 of 77 slates have ZERO and only
+    #     18 of 77 have five or more. This is a CONVICTION TIER, not a five-pick
+    #     generator. On a zero-qualifier slate the normal ordering stands and the
+    #     card should be thinner rather than padded.
+    #  2. REGIME. May ran 2/27 = 7.4% against June 39.7% and July 32.1%. The edge
+    #     lives in the recent two-thirds of the panel. Either the model improved
+    #     or this is a regime that can shift back — watch it.
+    _PRIORITY_VULN = 52.0
+    _PRIORITY_ODDS_MAX = 400.0
+
+    def _priority_qualifies(_sc, _sh):
+        try:
+            _v = float(getattr(_sc, "pitcher_vuln", 0) or 0)
+            _o = abs(float(str(getattr(_sc, "hr_over_price", 0) or 0)
+                           .replace("+", "").replace(",", "").strip()))
+        except Exception:
+            return False
+        return _v >= _PRIORITY_VULN and 0 < _o <= _PRIORITY_ODDS_MAX
+
+    def _priority_price(_sc):
+        try:
+            return abs(float(str(getattr(_sc, "hr_over_price", 0) or 0)
+                             .replace("+", "").replace(",", "").strip()))
+        except Exception:
+            return 99999.0
+
+    _prio, _rest = [], []
+    for _pt_sc, _pt_sh in hr_picks:
+        (_prio if _priority_qualifies(_pt_sc, _pt_sh) else _rest).append((_pt_sc, _pt_sh))
+    # Shortest price first WITHIN the tier — price is the ranker, not Score.
+    _prio.sort(key=lambda t: _priority_price(t[0]))
+    for _rank, (_pt_sc, _pt_sh) in enumerate(_prio, 1):
+        _pt_sh.setdefault('flags', []).append(
+            f"\U0001F3AF PRIORITY TIER #{_rank}: Vuln>={_PRIORITY_VULN:.0f} + Odds<=+{_PRIORITY_ODDS_MAX:.0f} "
+            f"(+{_priority_price(_pt_sc):.0f}) - 31.2% HR / 1.89x on qualifiers (63/202, 77sl); "
+            f"top-3 by price 35.6% / 2.16x. Temporal holdout: 1.65x train, 1.72x test - the only "
+            f"ranker above 1.6x in both halves, vs Score at 1.06x/1.12x. Sorted by PRICE, not Score. "
+            f"WARNING: median 2 qualifiers per slate, 19 of 77 slates have zero - do NOT pad to five. "
+            f"May ran 7.4% vs June 39.7% / July 32.1%, so the edge is recent-window."
+        )
+    if _prio:
+        hr_picks = _prio + _rest
+
     _top5_capped = []
     _overflow = []
     _ss_count_top5 = 0
