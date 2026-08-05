@@ -20764,6 +20764,177 @@ def v3_null_gate(mask, outcomes, slates, label=""):
     r["label"] = label
     return r
 
+# ══ EXHAUSTIVE-STACK TRACKING GRADES (Aug 5 2026) ═════════════════════════
+# Harrison asked for these to be wired after an exhaustive search over 242
+# cleaned grade markers, all combinations depth 2-6 at n>=30 — 2,065,686
+# stacks tested against both HR and hit outcomes.
+#
+# ⚠️⚠️ THEY DO NOT BEAT NOISE. This is recorded here so nobody later reads the
+# headline rates as validated. Shuffling the outcomes and re-running the
+# IDENTICAL search:
+#     HR  best real stack  50.0%  |  shuffles 53.1%, 48.5%, 50.0%
+#     HR  stacks >=50%: real 2    |  shuffles 3, 0, 18
+#     HIT best real stack 100.0%  |  shuffles 100.0%, 94.6%, 93.5%
+#     HIT stacks >=50%: real 1,960,548 | shuffles 1,892,791 / 2,013,803 / 2,012,986
+# A shuffle BEAT the real data on both sides. Testing 2M combinations at n=30
+# against a 16% base drives the extreme to ~50% whether or not grades mean
+# anything.
+#
+# Temporal holdout (build on first 40 slates, evaluate on last 41 untouched):
+#     HR  mean train lift 2.01x -> mean TEST lift 1.10x
+#     HIT mean train lift 1.31x -> mean TEST lift 1.00x
+# ~90% of the apparent HR edge and 100% of the hit edge evaporated.
+#
+# THEREFORE: zero conviction credit, no ranking effect, TRACKING label only.
+# They print so their live rate accumulates and can be re-judged on fresh
+# slates. Promote only if they clear on data that did not build them.
+#
+# DEDUPE NOTE: the raw search treated case/subset variants as independent
+# predicates. Measured overlap: SWEET vs Sweet Jaccard 0.98 (385 of 392 rows
+# shared — the same note counted twice); PITCHMIX is a strict subset of
+# PitchMix; K-Danger a strict subset of High-K; Z-CONTACT BOOST a strict
+# subset of High Z-Contact. Redundant members are removed below, which moved
+# HR1 from 15/30 (50.0%) to 15/32 (46.9%) — i.e. part of the headline came
+# from double-counting one marker.
+# ══════════════════════════════════════════════════════════════════════════════
+# 🔗 EXHAUSTIVE-STACK FLASH COMBOS (wired Aug 5 2026)
+# ──────────────────────────────────────────────────────────────────────────────
+# WHAT THEY ARE. Eight multi-grade stacks found by an exhaustive search over
+# every combination of the model's own qualitative grade markers, depth 2-6, at
+# n>=30, scored against HR and hit outcomes on the 81-slate combined source
+# (table + detailed notes, 4,185 rows).
+#
+# HOW THE SEARCH WAS CLEANED. The first pass produced garbage because the marker
+# vocabulary was full of duplicates: under word-boundary matching, 147 of 240
+# markers were strict subsets or near-identical to another (SWEET vs Sweet had
+# Jaccard 0.98 - the same note counted twice; PITCHMIX sits inside PitchMix;
+# K-Danger inside High-K). After deduping to 93 independent markers the search
+# covered 402,955 stacks. An earlier wiring of "Pitch + PitchMix + SWEET" was an
+# artefact of exactly that duplication and has been removed.
+#
+# MATCHING. Membership is WORD-BOUNDARY, not substring. Plain `in` fired the old
+# STK-HR1 on 268 rows at 19.0% instead of 32 at 46.9%, because "Pitch" also
+# matches PitchMix, Pitch edge and DailyPitch. Every figure below is measured
+# with the SAME matcher the runtime uses, so the label and the rule agree.
+#
+# ⚠️⚠️ THEY DO NOT BEAT THEIR NULL. Shuffling the outcomes and re-running the
+# identical search:
+#     HR  real best 50.0% | shuffles 51.4%, 46.7%, 41.9%, 45.5%
+#         real stacks>=50%: 2 | shuffles 3, 0, 0, 0
+#     HIT real best 93.5% | shuffles 93.3%, 93.5%, 93.8%, 93.5%
+#         real stacks>=50%: 385,653 | shuffles 394,006 / 390,654 / 393,997 / 381,161
+# A shuffle beat the real data on the HR side, and the real HIT count is BELOW
+# three of four nulls. The hit stacks are noise; the 90%+ rates are the 62.3%
+# base rate showing through a narrow filter.
+#
+# ⚠️ AND EVERY HR STACK IS DECAYING inside its own firing window (split at the
+# midpoint of the slates where it fires):
+#     STK-HR1 13/21 (62%) -> 5/23 (22%)      STK-HR2 11/19 (58%) -> 5/14 (36%)
+#     STK-HR3 12/20 (60%) -> 5/23 (22%)      STK-HR4  8/12 (67%) -> 6/18 (33%)
+#     STK-HR5 10/18 (56%) -> 6/17 (35%)
+# Every one roughly halves. The headline rates are carried by mid-June to early
+# July and have already faded. The hit stacks are stable but, per above, that
+# stability is the base rate rather than an edge.
+#
+# THEREFORE: ZERO conviction credit, ZERO ranking effect. They surface on the
+# FLASH TABLE as 🔗 tracking combos so their live rates accumulate and can be
+# re-judged on slates that did not build them. Promote only on fresh evidence.
+#
+# Fields: (id, kind, name, members, mined, split-half, window, definition)
+_STACK_TRACKERS = (
+    ("STK-HR1", "hr", "Cascade Core",
+     ("DailyPitch HR", "HR-prone L5", "High Z-Contact", "Marsh-pattern",),
+     "40.9% (18/44, 2.53x all-slate / 2.65x same-slate, 20sl)",
+     "62%/22%", "2026-06-20 to 2026-08-02",
+     "The pitcher-cascade core. DailyPitch HR (per-pitch HR damage from the FantasyLabs DailyPitch sheet) + HR-prone L5 (arm allowing more HR/9 over its last five than its season mark) + Marsh-pattern (the batter-side contact signature) + High Z-Contact (batter squares up in-zone pitches). Reads as: a deteriorating arm whose per-pitch damage profile lines up with a batter who does not miss in the zone."),
+    ("STK-HR2", "hr", "Cascade + PitchMix",
+     ("DailyPitch HR", "HR-prone L5", "High Z-Contact", "Marsh-pattern", "PitchMix",),
+     "48.5% (16/33, 3.0x all-slate / 3.0x same-slate, 18sl)",
+     "58%/36%", "2026-06-20 to 2026-08-02",
+     "STK-HR1 plus PitchMix, which adds the hand-specific arsenal read. The tightest of the cascade family and the highest rate, at the cost of a third fewer fires."),
+    ("STK-HR3", "hr", "Cascade + Crushes",
+     ("Crushes", "DailyPitch HR", "HR-prone L5", "High Z-Contact", "Marsh-pattern",),
+     "39.5% (17/43, 2.45x all-slate / 2.56x same-slate, 20sl)",
+     "60%/22%", "2026-06-20 to 2026-08-02",
+     "STK-HR1 plus Crushes (batter has demonstrated damage on the pitcher's target pitch). Broadest of the cascade family."),
+    ("STK-HR4", "hr", "Elite-ISO Z-Contact Sweet",
+     ("Elite ISO", "High Z-Contact", "Sig+PM", "Sweet", "Z-CONTACT",),
+     "46.7% (14/30, 2.89x all-slate / 2.83x same-slate, 25sl)",
+     "67%/33%", "2026-06-16 to 2026-08-02",
+     "A different family: raw power meets zone contact. Elite ISO + High Z-Contact + Z-CONTACT BOOST with Sig+PM (signal-and-pitchmatch confluence) and Sweet (sweet-spot rate). No pitcher-deterioration component - this is batter-quality driven."),
+    ("STK-HR5", "hr", "Target Sweet Z-Contact",
+     ("Crushes", "PITCHER TARGET", "Sig+PM", "Sweet", "Z-CONTACT",),
+     "45.7% (16/35, 2.83x all-slate / 2.72x same-slate, 26sl)",
+     "56%/35%", "2026-06-17 to 2026-08-02",
+     "Sibling of STK-HR4 with PITCHER TARGET and Crushes replacing Elite ISO - the batter has proven damage against this pitcher's primary offering rather than generic power."),
+    ("STK-HT1", "hit", "Pitch-Reliant Quality Contact",
+     ("PITCH-RELIANT HIT", "PITCHER TARGET", "PitchMix", "Quality", "SIERA",),
+     "93.5% (29/31, 1.5x all-slate / 1.48x same-slate, 17sl)",
+     "87%/100%", "2026-06-19 to 2026-08-02",
+     "Contact-quality stack for hits. PITCH-RELIANT HIT (pitcher leans heavily on one offering) + PITCHER TARGET + PitchMix + Quality + SIERA. Reads as a predictable arm against a batter who makes quality contact."),
+    ("STK-HT2", "hit", "Locked-Pre Multi-BBE Scream",
+     ("Barrel%", "Below-avg", "LOCKED-PRE", "MULTI-BBE PITCHER", "SCREAM",),
+     "89.2% (33/37, 1.43x all-slate / 1.46x same-slate, 16sl)",
+     "91%/87%", "2026-07-04 to 2026-08-03",
+     "LOCKED-PRE (market locked pre-game) + MULTI-BBE PITCHER (5+ batters carry T3+ BBE matches vs this arm) + SCREAM + Barrel% + Below-avg. A saturation read: the whole lineup profiles well against the arm."),
+    ("STK-HT3", "hit", "Below-Avg Multi-BBE Scream",
+     ("Below-avg", "DailyPitch HR", "MULTI-BBE PITCHER", "SCREAM",),
+     "92.1% (35/38, 1.48x all-slate / 1.51x same-slate, 20sl)",
+     "93%/91%", "2026-07-01 to 2026-08-04",
+     "STK-HT2 without the market and barrel gates. Broadest of the hit stacks and the most stable across its window."),
+)
+
+_STK_WB_CACHE: dict = {}
+
+
+def _stk_member_present(_txt: str, _m: str) -> bool:
+    """Word-boundary match. Plain `in` is far too loose - see the header note."""
+    _rx = _STK_WB_CACHE.get(_m)
+    if _rx is None:
+        import re as _re_stk
+        _rx = _re_stk.compile(r'(?<![A-Za-z0-9])' + _re_stk.escape(_m) + r'(?![A-Za-z0-9])')
+        _STK_WB_CACHE[_m] = _rx
+    return _rx.search(_txt) is not None
+
+
+def _stack_tracker_hits(_txt):
+    """Return the tracker tuples whose members ALL appear in this batter's text."""
+    try:
+        return [t for t in _STACK_TRACKERS
+                if all(_stk_member_present(_txt, _m) for _m in t[3])]
+    except Exception:
+        return []
+
+
+def _stack_tracker_notes(_txt):
+    """Full TRACKING lines for the pick card. Zero conviction, zero ranking."""
+    out = []
+    for _sid, _kind, _name, _members, _mined, _halves, _window, _why in _stack_tracker_hits(_txt):
+        _live = _grade_rate("stk_" + _sid.lower().replace("-", "_"), _mined)
+        out.append(
+            f"\U0001F517 {_sid} {_name} ({_kind.upper()} STACK TRACKER): "
+            f"{' + '.join(_members)} \u2192 {_live} (mined {_mined}, split-half {_halves}, "
+            f"window {_window}). \u26A0\uFE0F NOISE-LEVEL \u2014 exhaustive 402,955-stack search over "
+            f"93 deduped markers; shuffled outcomes produced an equal or better best stack "
+            f"(HR 51.4% vs real 50.0%; HIT 93.8% vs real 93.5%). Every HR stack roughly "
+            f"HALVES across its own window. ZERO conviction credit \u2014 tracking only."
+        )
+    return out
+
+
+def _stack_tracker_flash(_txt):
+    """Compact rows for the FLASH TABLE: (id, name, kind, rate_str, n, members)."""
+    rows = []
+    for _sid, _kind, _name, _members, _mined, _halves, _window, _why in _stack_tracker_hits(_txt):
+        _live = _grade_rate("stk_" + _sid.lower().replace("-", "_"), _mined)
+        rows.append({
+            "id": _sid, "name": _name, "kind": _kind, "rate": _live,
+            "members": " + ".join(_members), "halves": _halves, "window": _window,
+            "play": "\u26aa TRACKING \u2014 zero conviction (does not beat its null)",
+        })
+    return rows
+
+
 def _score_sharp(sc, rank: int = 99) -> dict:
     """Apply 22-slate validated framework to one HRScore. Returns grades + flags."""
     pm    = sc.pitch_matchup_score
@@ -22681,6 +22852,24 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                 f"Vu≥52 is exempt and validated (Pwr77-83+Vu≥52 = 1.24x). ⚠️ Month split uneven "
                 f"(Jun 16.7%, Jul 11.8%) and Power populated on 41 of 95 slates. Deprioritize only."
             )
+        # Exhaustive-stack trackers. Emitted LAST so they read as commentary and
+        # never influence ordering. _sgt_text is the combined notes + firing
+        # grades + flags for this batter, which is the same text the backtest
+        # searched, so the match is like-for-like.
+        for _stk_note in _stack_tracker_notes(_sgt_text):
+            _firing_grades.append(_stk_note)
+        # FLASH TABLE surfacing. The pick card reads sh["flash_stacks"] to build
+        # the 🔗 rows. Kept separate from _firing_grades so the flash table can
+        # render a compact row while the full caveat stays on the grade line.
+        _stk_flash = _stack_tracker_flash(_sgt_text)
+        if _stk_flash:
+            _stk_ids = ", ".join(r["id"] for r in _stk_flash)
+            flags.append(
+                f"\U0001F517 FLASH STACK{'S' if len(_stk_flash) > 1 else ''}: {_stk_ids} "
+                f"\u2014 \u26aa TRACKING, zero conviction (see glossary: does not beat its null, "
+                f"HR stacks decaying within their own window)"
+            )
+
         if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 52.0:
             _r = _grade_rate("neg_supp_l5_low_vuln_hr", "8.1%  10/124")
             _firing_grades.append(
@@ -24092,6 +24281,10 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             "gate_override": _gate_override,
             "hit_pts": hit_pts, "hit_grade": hit_grade, "hit_label": hit_label,
             "flags": flags, "rank": rank, "grade_count": _grade_count,
+            # 🔗 Exhaustive-stack flash combos. Compact rows for the FLASH TABLE.
+            # Always present (empty list when nothing fires) so the card can read
+            # it without a guard. TRACKING ONLY — see the glossary entry.
+            "flash_stacks": _stack_tracker_flash(_sgt_text),
             "hit_grade_count": _hit_grade_count,
             "bgs": _bgs_total, "bgs_tier": _bgs_tier}
 
@@ -30249,6 +30442,32 @@ def _sheet_sharp_picks(wb, scores, top_n):
 
     _glossary = [
         # (icon+title, explanation)
+        # ── EXHAUSTIVE-STACK FLASH COMBOS (Aug 5 2026) ──────────────────────
+        ("\U0001F517 STACK TRACKERS (STK-HR1..5 / STK-HT1..3)",
+                                    "Aug 5 2026 \u2014 eight multi-grade stacks found by an exhaustive search over every "
+                                    "combination of the model's own qualitative grade markers, depth 2-6, n>=30, on the "
+                                    "81-slate combined source (main table + HR/hit grade tables + per-batter detailed "
+                                    "notes; 4,185 rows). Marker vocabulary was deduped first: under word-boundary "
+                                    "matching 147 of 240 markers were strict subsets or near-identical to another "
+                                    "(SWEET vs Sweet Jaccard 0.98 \u2014 the same note counted twice), leaving 93 "
+                                    "independent markers and 402,955 stacks. Membership is WORD-BOUNDARY, not "
+                                    "substring: plain `in` matched 'Pitch' inside PitchMix/DailyPitch and inflated one "
+                                    "stack from 32 fires to 268. "
+                                    "\u26A0\uFE0F THEY DO NOT BEAT THEIR NULL. Shuffling outcomes and re-running the same "
+                                    "search: HR real best 50.0% vs shuffles 51.4/46.7/41.9/45.5 (a shuffle WON); HIT "
+                                    "real best 93.5% vs shuffles 93.3/93.5/93.8/93.5, and the real count of >=50% "
+                                    "stacks (385,653) is BELOW three of four nulls. The 90%+ hit rates are the 62.3% "
+                                    "base rate showing through a narrow filter, not an edge. "
+                                    "\u26A0\uFE0F EVERY HR STACK IS DECAYING within its own window: STK-HR1 62%\u219222%, "
+                                    "HR2 58%\u219236%, HR3 60%\u219222%, HR4 67%\u219233%, HR5 56%\u219235%. "
+                                    "CARRY ZERO CONVICTION and no ranking effect. They appear on the FLASH TABLE "
+                                    "purely so live rates accumulate on slates that did not build them. "
+                                    "HR1 Cascade Core: DailyPitch HR + HR-prone L5 + High Z-Contact + Marsh-pattern "
+                                    "(40.9%, 18/44, 2.53x). HR2 adds PitchMix (48.5%, 16/33, 3.00x). HR3 adds Crushes "
+                                    "(39.5%, 17/43, 2.45x). HR4 Elite-ISO Z-Contact Sweet (46.7%, 14/30, 2.89x). "
+                                    "HR5 Target Sweet Z-Contact (45.7%, 16/35, 2.83x). "
+                                    "HT1 Pitch-Reliant Quality Contact (93.5%, 29/31, 1.50x). HT2 Locked-Pre Multi-BBE "
+                                    "Scream (89.2%, 33/37, 1.43x). HT3 Below-Avg Multi-BBE Scream (92.1%, 35/38, 1.48x)."),
         # ── NUCLEAR TIER (Jun 2026, consolidated Jun 29 2026) ──
         ("☢️ NUCLEAR",
                                     "Jun 29 2026 (49-slate CSV backtest, consolidated): a RANKING BADGE — NOT a grade. "
