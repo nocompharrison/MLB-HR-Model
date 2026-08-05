@@ -330,6 +330,12 @@ def _upload_to_github(excel_path: str) -> None:
 # ============================================================
 TOP_N        = 50
 MAX_TEAM_EXPOSURE = 3      # max picks from same team in top N
+# ── POOL vs CARD caps (Aug 5 2026) ─────────────────────────────────────────
+# POOL_TEAM_CAP_ENABLED=False lets every lineup batter into the ranked export.
+# The top-5 card keeps its own per-team and per-pitcher diversity rules, so this
+# widens what the card can SEE without changing how it CHOOSES.
+POOL_TEAM_CAP_ENABLED = False
+POOL_TEAM_CAP_MAX     = 9      # a full lineup
 SIMULATIONS  = 10_000
 EXPORT_FILE  = "hr_model_results.xlsx"   # overridden at runtime with date stamp
 SEASON_YEAR  = date.today().year          # overridden at runtime if --date is passed
@@ -1555,6 +1561,10 @@ class HRScore:
     # read on that arm. Set during ranking. MUST sit among the DEFAULTED fields —
     # placing it beside a non-default field makes every later non-default field
     # illegal and raises TypeError at import (the file would still compile).
+    # near-HR: hard-hit fly balls that did not leave (LA>=15, EV>=95, dist>=300).
+    # Lives on BatterProfile; copied onto the score so it reaches the export.
+    near_hr_count:     int = 0
+    near_hr_pa:        int = 0
     pitcher_slot:      int = 1
     bullpen_vuln:      float = 50.0   # 0-100, league avg = 50 — same scale as pitcher_vuln
     bullpen_exp_ip:    float = 4.0    # projected relief innings this batter may face
@@ -3740,6 +3750,21 @@ def _save_sgo_cache(target_date, data: dict):
     except Exception as e:
         print(f"  ⚠️  SGO cache write failed: {e}")
 
+# ══ WEATHER CACHE TTL (defined Aug 5 2026) ═════════════════════════════════
+# BUG: _load_weather_cache() referenced _WEATHER_CACHE_TTL_HOURS, which was never
+# defined anywhere in the file. The reference sits inside a `try/except Exception`
+# that returns {}, so the NameError was SWALLOWED SILENTLY on every run — the
+# cache always reported a miss and weather was refetched from scratch each time,
+# even seconds after a previous run had just written it.
+#
+# 3 hours chosen deliberately. Weather materially affects HR scoring through
+# wind_out and run_adj, and a forecast for a 7:10pm first pitch changes through
+# the afternoon; a 20-hour TTL (the convention used by _load_cache for season
+# stats) would serve a stale morning forecast to an evening slate. Three hours
+# keeps same-session re-runs free while still refreshing across the day.
+_WEATHER_CACHE_TTL_HOURS = 3.0
+
+
 def _load_weather_cache(target_date) -> dict:
     """Load today's weather cache. Returns {} if missing or stale."""
     path = _weather_cache_path(target_date)
@@ -3749,13 +3774,21 @@ def _load_weather_cache(target_date) -> dict:
         import time as _time
         age_h = (_time.time() - path.stat().st_mtime) / 3600
         if age_h > _WEATHER_CACHE_TTL_HOURS:
+            print(f"  \u23f3 Weather cache stale ({age_h:.1f}h > {_WEATHER_CACHE_TTL_HOURS:.0f}h) \u2014 refetching")
             return {}
         with open(path, "rb") as f:
             data = _pickle.load(f)
-        print(f"  💾 Weather cache: {len(data)} games ({age_h:.1f}h old) — refetches after {_WEATHER_CACHE_TTL_HOURS:.0f}h")
+        print(f"  \U0001f4be Weather cache HIT: {len(data)} games ({age_h:.1f}h old) \u2014 refetches after {_WEATHER_CACHE_TTL_HOURS:.0f}h")
         return data
-    except Exception:
+    except Exception as e:
+        # NAMED, not silent. A bare `except Exception: return {}` here hid a
+        # NameError on _WEATHER_CACHE_TTL_HOURS for the entire life of this
+        # function: every run reported a clean cache miss and refetched weather,
+        # and nothing ever surfaced. A cache that can only ever fail silently is
+        # indistinguishable from a cache that is working but always cold.
+        print(f"  \u26a0\ufe0f  Weather cache read failed ({type(e).__name__}: {e}) \u2014 refetching")
         return {}
+
 
 def _save_weather_cache(target_date, data: dict):
     """Save weather data keyed by home_team."""
@@ -15557,8 +15590,8 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     if _vuln_val >= 54.0:
         _super_vuln_boost = 5.0
         _pre_notes.append(
-            f"🔥 SUPER VULNERABLE PITCHER (Vuln={_vuln_val:.0f}≥54): 28.4% HR rate / 1.60x baseline "
-            f"across 69 slates — strongest pitcher vulnerability tier (+5 conv, priority matchup)"
+            f"🔥 SUPER VULNERABLE PITCHER (Vuln={_vuln_val:.0f}≥54): 22.8% HR / 1.69x "
+            f"(29/127 over 23 slates, p=0.0025, boot5 1.35) [CORRECTED Aug 5 2026: prior label claimed 28.4% / 1.60x across 69 slates - the RATE and SLATE COUNT were both wrong; it fires on 23 slates. Re-measured on the COMBINED table+detailed source against a same-slate base] — strongest pitcher vulnerability tier (+5 conv, priority matchup)"
         )
     conv_score = max(0.0, min(50.0,
         _conv_base + _pm_adj + _vuln_adj + _sweet_adj
@@ -17479,6 +17512,10 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         game_time=game_time, edge_vs_market=_edge,
         opp_score=opp_score, conv_score=conv_score,
         hit_score=_hit_score, hit_notes=_hit_notes,
+        # near-HR: hard-hit fly balls that did NOT leave (LA>=15, EV>=95, dist>=300).
+        # Lives on BatterProfile; copied here so it reaches the sheet export.
+        near_hr_count=int(getattr(batter, 'near_hr_count', 0) or 0),
+        near_hr_pa=int(getattr(batter, 'near_hr_pa', 0) or 0),
         hit_prob_pct_display=_hit_prob_display,
         pitcher_ip=_pitcher_ip_proj,
         la_spike_flag=batter.la_spike_flag,
@@ -17592,6 +17629,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     }
     _pf9_pass_count = sum(1 for v, _ in _pf9_gates.values() if v)
 
+
     # ── SAMPLE-SIZE GATE (2026-07-27) ─────────────────────────────────────
     # On 10 batted balls every rate quantises to multiples of 10%, so
     # Barrel%>15 is effectively unclearable (observed 0.0% for 14 of 16
@@ -17617,6 +17655,48 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     except Exception:
         _pf9_n = 0
     _pf9_low_sample = (0 < _pf9_n < PF9_MIN_BBE)
+
+    # ══ HR26 PF CORE TRIPLE (Aug 5 2026) ═════════════════════════════════════
+    # SCOPE: this MUST sit after _pf9_low_sample is bound (just above). Placed
+    # earlier it compiles fine and raises NameError on the first batter scored. ═════════════════════════════════════
+    # ISO>0.2 + Barrel%>15 + HH%>40, measured on the "9-STAT" line in the
+    # DETAILED NOTES section of FantasyLabsMLB.csv - the only archived place all
+    # nine gate VALUES appear for every batter (n=1,866 / 31 slates, base 14.79%).
+    # The grade tables print only PASSING gates, so a table-only parse sees a gate
+    # exclusively when it passes and cannot measure it at all.
+    #
+    # PER-GATE LIFT, all nine finally observable:
+    #   Barrel%>15 1.15x | HH%>40 1.11x | Blast%>15 1.10x | ISO>0.2 1.08x
+    #   Air%>50    1.06x | FB%>35 1.04x | PullBrl%>10 1.03x
+    #   Pull%>30   0.99x | GB%<40 0.97x    <- these two do NOTHING
+    # Pull%>30 passes on 94% of the pool so it cannot discriminate; GB%<40 is
+    # mildly inverted.
+    #
+    # WHY THE COUNT IS BROKEN: requiring all nine forces Pull% and GB% to pass -
+    # the two that do not work - so the count is non-monotonic and 9/9 lands BELOW
+    # baseline:   >=7/9 16.8% (1.14x) | >=8/9 15.4% (1.04x) | 9/9 13.5% (0.92x)
+    # The triple beats every one: 73/379 = 19.3%, 1.30x, p=0.0074, boot5 1.12,
+    # 30 slates, ~12 fires per slate.
+    #
+    # ⚠️ CAVEAT ON THE LABEL: split-half 24% -> 15%, and August (freshest month)
+    # is 6/47 = 13%, BELOW base. The 9-STAT line only exists from 2026-07-02, so
+    # this rests on ~31 July-weighted slates. Modest credit, not a must-play.
+    _pf_core_triple_fires = (_pf9_iso > 0.2 and _pf9_barrel > 15.0 and _pf9_hh > 40.0)
+    if _pf_core_triple_fires and not _pf9_low_sample:
+        _pf_ct_rate = _grade_rate("pf_core_triple_hr", "19.3%  73/379")
+        # SCOPE FIX (Aug 5 2026): this said flags.append(). `flags` does not exist
+        # anywhere in score_player() — it is built in _score_sharp(). The file
+        # compiled fine and raised NameError on the third batter scored. The
+        # correct container here is `notes`, which every other emission in this
+        # function uses (see 17405, 17422, 17427, 17443...).
+        notes.append(
+            f"🎯 HR26 PF CORE TRIPLE: ISO {_pf9_iso:.3f}>0.2 + Barrel% {_pf9_barrel:.1f}>15 "
+            f"+ HH% {_pf9_hh:.0f}>40 → {_pf_ct_rate} HR (mined 19.3% 73/379, 1.30x, p=0.0074, "
+            f"boot5 1.12, 30sl). Beats the 9-gate count at every threshold "
+            f"(≥7/9 1.14x · ≥8/9 1.04x · 9/9 0.92x) because requiring all nine forces "
+            f"Pull%>30 (0.99x, passes on 94% of the pool) and GB%<40 (0.97x) to clear. "
+            f"⚠️ July-weighted: split-half 24%→15%, August 6/47 = 13% below base."
+        )
     _result.pf9_low_sample = _pf9_low_sample
     _result.pf9_bbe_n = _pf9_n
     _result.pf9_gate_count_raw = _pf9_pass_count           # display, unsuppressed
@@ -18564,7 +18644,14 @@ def _sheet_rankings(wb, scores, top_n):
         "Rank", "Batter", "Status", "Game Time", "Team", "Opp", "Pitcher", "HR Odds",
         "HR Prob", "Score\n/100", "Power", "Vuln",
         "Pitch\nMatch", "Park", "Env", "Est PA", "Edge\nvs Mkt", "Hit\nScore",
-        "Sig\nScore"
+        "Sig\nScore",
+        # ── EXPORTED FOR BACKTESTING (Aug 5 2026) ──────────────────────────
+        # These were computed internally and never written anywhere archived, so
+        # they could not be tested against outcomes. near_hr in particular has
+        # only ever been measured once (Jul 2026, 39 slates: NearHR2 = 1.17x,
+        # NearHR4 inverts to 0.72x) and the standalone boost is zeroed on that
+        # basis. Exporting them makes both re-testable from FantasyLabsMLB.csv.
+        "NearHR\nCount", "NearHR\nPA", "NearHR\nRate"
     ]
     for c, h in enumerate(headers, 1):
         _hc(ws, 3, c, h)
@@ -18781,6 +18868,18 @@ def _sheet_rankings(wb, scores, top_n):
         else:
             _sig_bg = "F2F2F2"; _sig_fc = "808080"   # grey — no signals at all
         _dc(ws, row, 19, _sig, bg=_sig_bg, fmt="0", bold=(_sig >= 8), font_color=_sig_fc)
+
+        # ── near-HR export (Aug 5 2026) ────────────────────────────────────
+        # Hard-hit fly balls that did NOT leave the yard: LA>=15, EV>=95, dist>=300,
+        # event != home_run. A "deserved HR" signal. Computed since Jul 2026 but
+        # never exported, so the only measurement is a single 39-slate run
+        # (NearHR>=2 = 1.17x, NearHR>=4 = 0.72x). Writing it here makes it testable
+        # against outcomes from the archived master CSV.
+        _nhc = int(getattr(sc, "near_hr_count", 0) or 0)
+        _nhp = int(getattr(sc, "near_hr_pa", 0) or 0)
+        _dc(ws, row, 20, _nhc, bg=bg, fmt="0")
+        _dc(ws, row, 21, _nhp, bg=bg, fmt="0")
+        _dc(ws, row, 22, round(_nhc / _nhp, 3) if _nhp > 0 else 0.0, bg=bg, fmt="0.000")
         # Add combo as a cell comment so hovering shows the historical rate
         if sc.combo_label:
             from openpyxl.comments import Comment
@@ -19696,6 +19795,52 @@ HR_ARCHETYPES = [
  # The park/env gates trim a real effect down to six rows. HR25 below is the
  # durable form; HR23/HR24 are its tightest fragments. Promote or retire on
  # fresh data at n>=20.
+ # ══ HR26 CONTACT-QUALITY TRIPLE (Aug 5 2026) ══════════════════════════════
+ # The first backtest of the PropFinder gates INDIVIDUALLY. It was only possible
+ # once the "📐 9-STAT: ISO x | Barrel% x | HH% x | ..." line in the per-batter
+ # DETAILED NOTES was parsed — that line carries every gate value for every
+ # batter, pass or fail. Reading the grade tables alone shows a gate only when it
+ # PASSES, which made PullBrl look 481-pass / 2-fail (selection bias, not a dead
+ # gate) and produced two wrong readings before this was caught.
+ #
+ # n=1,866 rows over 31 slates. Individually the nine gates are weak:
+ #   Barrel%>15  1.15x | HH%>40  1.11x | Blast%>15 1.10x | ISO>0.2 1.08x
+ #   Air%>50     1.06x | FB%>35  1.04x | PullBrl%>10 1.03x
+ #   Pull%>30    0.99x  <- passes 94% of the time, separates nothing
+ #   GB%<40      0.97x  <- mildly INVERTED
+ #
+ # THE GATE COUNT IS NON-MONOTONIC AND 9/9 IS BELOW BASELINE:
+ #   5/9 1.24x | 7/9 1.27x | 8/9 1.14x | 9/9 0.92x
+ # Requiring all nine forces Pull% and GB% to pass, and those are the two that do
+ # not work — so a "perfect" 9/9 selects for a worse profile. This is why the
+ # X/9 count must stay a tiebreaker and never a ranker.
+ #
+ # ISO + Barrel + HH is the combination that survives:
+ #   73/379 = 19.3% HR, 1.31x vs a SAME-SLATE base, Fisher p=0.0056,
+ #   slate-bootstrap 5th-pct 1.12x, fires on 30 of 31 slates (~12.6/slate).
+ # On the same rows the 8+/9 count runs 1.05x, so this beats the existing screen.
+ # Split-half 24%/15% is the weak spot — the second half is thinner. Tier B,
+ # modest credit, promote only if the back half firms up.
+ #
+ # NOTE ON FEATURE AVAILABILITY: pf_iso / pf_barrel / pf_hh are extracted by
+ # ARCHETYPE_QUAL_PATTERNS from the PASS form of the text ("ISO:0.400>0.2"), so
+ # they populate only when that gate clears. That is exactly what this archetype
+ # needs — it requires all three to pass — but the same features must NOT be used
+ # to test a gate's failure side.
+ dict(id="HR26", name="Contact-Quality Triple", tier="B", conv_boost=6,
+      confluence=False,
+      vars="3-Variable: 3 Quant (PropFinder gates)",
+      stack="ISO>0.2 + Barrel%>15 + HH%>40",
+      rate=19.3, lift=1.31, n=379, hits=73, slates=30, p=0.0056, ci=(1.12, 1.55),
+      half1=24.0, half2=15.0, asg="n/a", window="31sl 9-STAT window",
+      why=("The only PropFinder combination that beats its own-slate base with a "
+           "bootstrap floor above 1.0. Barrel and HH are the two individually "
+           "useful gates; ISO adds a third independent read on raw power. Pull% "
+           "and GB% are excluded deliberately — they are 0.99x and 0.97x and are "
+           "what drags the 9/9 count below baseline."),
+      test=lambda f: (_arch_ge(f,"pf_iso",0.2) and _arch_ge(f,"pf_barrel",15)
+                      and _arch_ge(f,"pf_hh",40))),
+
  dict(id="HR23", name="Super-Vuln Pitch-Dominance Lock", tier="A", conv_boost=8,
       confluence=False,
       vars="3-Variable: 2 Quant + 1 Qual",
@@ -19732,6 +19877,29 @@ HR_ARCHETYPES = [
            "Odds<+250 alone 23.7% (1.45x, n=169) — the interaction is what carries it. "
            "34% of its rows are NOT already covered by HR22, and those run 46.7% (7/15, "
            "2.86x), so it is additive rather than a restatement."),
+      # ══ ENV SUB-TIER (Aug 5 2026) ═══════════════════════════════════════
+      # HR25 splits sharply on environment. Measured on the COMBINED
+      # table+detailed source (4,185 rows, 81 slates, base 16.15%), same-slate base:
+      #     HR25 all            : 19/43 = 44.2%  2.51x  27 slates
+      #     + Env>=1.00         : 17/30 = 56.7%  3.44x  22 slates  <- sub-tier
+      #     + Env<1.00          :  2/13 = 15.4%  0.86x  11 slates  <- BELOW base
+      # The suppressed-env half is not merely weaker, it is at baseline. Split-half
+      # on the sub-tier is 53%/60% (stable, and the back half is the stronger one),
+      # it spans May+June+July rather than a single window, and no batter appears
+      # more than 3 times (Ohtani 3, Alvarez 3, Muncy 2).
+      #
+      # DELIBERATELY A SUB-TIER, NOT A NEW ARCHETYPE. At n=30 the 56.7% is not
+      # statistically distinguishable from HR25's own 44.2% — you are paying 13
+      # fires for 12 points of rate that may be partly noise. Registering it
+      # separately would add another n=30 rule to the library and invite it being
+      # cited as an independent finding. As a sub-tier it sharpens the label
+      # without pretending to be new evidence.
+      #
+      # Five independent searches this session converged on the same shape:
+      # super-vulnerable arm + live environment + short price. That convergence is
+      # the real argument, more than any single p-value.
+      env_subtier=dict(gate="env>=1.00", rate=56.7, lift=3.44, n=30, hits=17, slates=22,
+                       else_rate=15.4, else_lift=0.86, else_n=13),
       test=lambda f: (_arch_ge(f,"vuln",54) and _arch_lt(f,"odds",300))),
 
  dict(id="HR01", name="Loft-Band Power Anchor", tier="A", conv_boost=20,
@@ -20127,12 +20295,38 @@ def archetype_labels(f, target="HR"):
     """Display strings for the pick card / flash table."""
     icon = "🧬" if target == "HR" else "🎯"
     kind = "HR" if target == "HR" else "Hit"
-    return [
-        f'{icon} {a["id"]} {a["name"]} → {a["rate"]:.0f}% {kind} '
-        f'({a["lift"]:.2f}x, n={a["n"]}, {a["slates"]}sl)'
-        + ("  [TRACKING]" if a["tier"] == "B" else "")
-        for a in evaluate_archetypes(f, target)
-    ]
+    def _one(a):
+        lbl = (f'{icon} {a["id"]} {a["name"]} → {a["rate"]:.0f}% {kind} '
+               f'({a["lift"]:.2f}x, n={a["n"]}, {a["slates"]}sl)'
+               + ("  [TRACKING]" if a["tier"] == "B" else ""))
+        # ENV SUB-TIER (Aug 5 2026): some archetypes split sharply on a second
+        # gate. Where that split is measured, show WHICH SIDE this batter is on
+        # rather than only the blended headline rate. HR25 is the first: with
+        # Env>=1.00 it runs 56.7% (3.44x, 17/30), with Env<1.00 it runs 15.4%
+        # (0.86x, 2/13) - i.e. BELOW baseline. The blended 44.2% describes
+        # neither half well, so a reader seeing only the headline is misled in
+        # both directions.
+        st = a.get("env_subtier")
+        if st:
+            try:
+                _e = f.get("env")
+            except Exception:
+                _e = None
+            if _e is not None:
+                if _e >= 1.00:
+                    lbl += (f'  ⭐ ENV SUB-TIER {st["gate"]}: {st["rate"]:.1f}% '
+                            f'({st["lift"]:.2f}x, {st["hits"]}/{st["n"]}, {st["slates"]}sl) '
+                            f'- the sharp half')
+                else:
+                    lbl += (f'  ⚠️ ENV SUB-TIER MISS (Env={_e:.2f}<1.00): that half runs '
+                            f'{st["else_rate"]:.1f}% ({st["else_lift"]:.2f}x, {st["else_n"]} fires) '
+                            f'- BELOW base. The {a["rate"]:.1f}% headline is carried by the '
+                            f'Env>=1.00 side; do not read it as applying here.')
+            else:
+                lbl += (f'  ℹ️ ENV SUB-TIER unknown (no env value): {st["gate"]} half runs '
+                        f'{st["rate"]:.1f}%, the other {st["else_rate"]:.1f}%')
+        return lbl
+    return [_one(a) for a in evaluate_archetypes(f, target)]
 
 
 
@@ -24606,6 +24800,42 @@ def _load_grade_stats() -> dict:
         except Exception:
             return False
 
+    def _pf_core_triple(p):
+        """HR26 PF CORE TRIPLE - ISO>0.2 + Barrel%>15 + HH%>40.
+
+        Backtested on the "9-STAT" line in the DETAILED NOTES section of
+        FantasyLabsMLB.csv, which prints all nine PropFinder gate VALUES for every
+        batter (n=1,866 over 31 slates, base 14.79%). That line is the only place
+        per-gate values are archived - the grade tables print only the passing
+        gates, so a table-only parse sees a gate exclusively when it passes and
+        cannot measure it at all.
+
+        PER-GATE LIFTS (all nine, fully observable):
+            Barrel%>15  1.15x | HH%>40  1.11x | Blast%>15 1.10x | ISO>0.2  1.08x
+            Air%>50     1.06x | FB%>35  1.04x | PullBrl%  1.03x
+            Pull%>30    0.99x | GB%<40  0.97x     <- these two do NOTHING
+        Pull%>30 passes on 94% of the pool, so it cannot discriminate; GB%<40 is
+        mildly inverted.
+
+        WHY THE 9-GATE COUNT IS BROKEN: requiring ALL nine forces Pull% and GB% to
+        pass, and those are the two that do not work. The count is non-monotonic
+        and 9/9 lands BELOW baseline:
+            >=7/9 : 16.8%  1.14x  |  >=8/9 : 15.4%  1.04x  |  9/9 : 13.5%  0.92x
+        This triple beats every one of them:
+            73/379 = 19.3%, 1.30x, p=0.0074, slate-bootstrap 5th-pct 1.12,
+            30 slates, ~12 fires per slate.
+
+        CAVEAT ON RECORD: split-half runs 24% -> 15% and August (the freshest
+        month) is 6/47 = 13%, below base. The 9-STAT line only appears from
+        2026-07-02, so this rests on ~31 slates and is July-weighted. It is wired
+        as a positive with modest credit, not as a must-play trigger.
+        """
+        # The nine gate values live in LOCALS (_pf9_iso/_pf9_barrel/_pf9_hh) inside
+        # the scoring function, not as fields on the pick object, so the registry
+        # predicate matches the emitted flag text instead.
+        _t = str(_g(p, "hr_grade") or "") + " " + str(_g(p, "flags") or "")
+        return "PF CORE TRIPLE" in _t
+
     def _neg_mid_power_dead(p):
         """NEG06 MID-POWER DEAD ZONE — Pwr 77-83 + Vuln<52. 13.1% HR (0.81x, n=852).
 
@@ -24718,6 +24948,7 @@ def _load_grade_stats() -> dict:
         ("neg_longprice_score_edge_hr",_neg_longprice_score_edge),
         ("neg_supp_l5_low_vuln_hr",    _neg_supp_l5_low_vuln),
         ("neg_mid_power_dead_hr",      _neg_mid_power_dead),
+        ("pf_core_triple_hr",          _pf_core_triple),
     ]:
         subset = [p for p in picks if fn(p)]
         stats[key] = (_fmt_hr(subset, last10), _fmt_hr(subset, all_set))
@@ -25016,6 +25247,26 @@ def _live_rate_pair(marker: str, kind: str = "hr", fb_l5: str = "", fb_all: str 
 
 
 import re as _re_live
+
+# ══ SOURCE-OF-TRUTH NOTE (Aug 5 2026) ══════════════════════════════════════
+# FantasyLabsMLB.csv has FOUR sections per slate, not three:
+#   1. main quantitative table  (Rank ... Home Runs)   <- numbers, source of record
+#   2. HR grade table           (Grade at col 5)
+#   3. hit grade table          (Grade at col 4)
+#   4. PER-BATTER DETAILED NOTES (below "Detailed Breakdown"), which contain the
+#      full note text AND the "9-STAT: ISO .. | Barrel% .. | HH% .." line giving
+#      every PropFinder gate value for every batter.
+# Sections 2-3 and 4 use DIFFERENT WORDING and neither is a superset:
+#   348 distinct markers in the grade tables, 551 in the detailed notes,
+#   451 detailed-only, 248 table-only. Grade-table parsing alone sees ~36% of the
+#   text and ~3,700 of ~4,185 batter-rows.
+# Backtests that read only the grade tables mis-measured 12 of 173 comparable
+# markers by >=0.15x (e.g. PITCHER WEAK SPOT 0.75x -> 1.19x; PITCH DOM 1.02x ->
+# 1.13x; EXTREME L2 1.33x -> 1.52x). ALWAYS concatenate tables + detailed notes.
+# Also: measure lift against a SAME-SLATE base. Retired or narrow-window grades
+# only fire on the slates where they were live, and those slates can have a
+# different base rate (ODDS BOOST reads 1.79x against the all-slate base and
+# 1.52x against its own 10 slates).
 
 # Slate base rates, measured on the 92-slate master CSV (n=3,723). Used to turn a
 # live percentage into a lift so a reader sees "1.14x" rather than a bare rate.
@@ -32699,7 +32950,30 @@ def main():
             cap = _VULN_STACK_CAP
         else:
             cap = MAX_TEAM_EXPOSURE
-        cap = min(cap, SAME_TEAM_MAX + (1 if t in high_vuln_teams else 0))
+        # ══ CAP DECOUPLED FROM THE SCORED POOL (Aug 5 2026) ══════════════════
+        # This min() was the binding constraint on the WHOLE exported universe.
+        # Every branch above (HIGH_VULN_TEAM_CAP=6, _VULN_STACK_CAP=5) was being
+        # clamped back to 3, or 4 for a high-implied team. Aug 4 result: 217 rows
+        # across 28 teams, median 4 per team, 13 of 28 teams at <=3, and DET got
+        # exactly ONE batter. Dillon Dingler (#3 confirmed) homered and was never
+        # scored into the export at all; so did Hoerner (CHC #5) and Basabe (SF #1).
+        #
+        # The cap's stated rationale is a May 13 audit: "4 CIN picks in top-6,
+        # 0 WSH picks -> missed 3 WSH HR hitters." That is a sound argument for
+        # diversity ON THE CARD. It is not an argument for shrinking the POOL the
+        # card is drawn from — those are different problems, and the cap was doing
+        # both. Card diversity is enforced separately downstream (_pitcher_count_t5,
+        # SAME_TEAM_MAX in the top-5 builder), which is untouched.
+        #
+        # Coverage measured on 81 slates vs actual MLB results: we scored ~20% of
+        # starters and captured 27% of HR hitters (1.34x lift). Selection is better
+        # than random, so widening the pool keeps the edge and reaches more HR.
+        if POOL_TEAM_CAP_ENABLED:
+            cap = min(cap, SAME_TEAM_MAX + (1 if t in high_vuln_teams else 0))
+        else:
+            # Score every batter in the lineup. Ranking and the top-5 team-diversity
+            # rules decide what actually makes the card.
+            cap = POOL_TEAM_CAP_MAX
         # Pitcher-target bypass: T3/T4/PRIME picks with high conviction scores
         # should not be blocked by the team cap — the BBE data confirmed the edge
         # independently of how many teammates are already in the list.
