@@ -22914,7 +22914,24 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # but raises NameError on the first batter scored.
     _hsu_graded = bool(_firing_grades) or any(
         str(f).startswith(("🔥", "🧬", "☢️", "🏆", "🎖️", "💎")) for f in flags)
-    if (not _hsu_graded) and 55.0 <= score < 65.0:
+    # ── BOUNDARY FIX (Aug 7 2026) ────────────────────────────────────────
+    # The bands were 55<=score<65 for the positive flag and NOTHING above it, so a
+    # batter at EXACTLY 65.0 got neither the flag nor the warning — silence.
+    # Elly De La Cruz, Aug 6 2026: Score 65.0, the #1-ranked bat on the whole
+    # slate, no HR grade at all, Vu 49.6, +320, Env 1.153, Park 1.16. He fell out
+    # on `65.0 < 65.0` and homered. CIN appeared ZERO times on that card while
+    # Barnett gave up four home runs.
+    # The bands are now CONTIGUOUS: every ungraded bat gets one branch or the
+    # other, so a boundary value can never fall through again.
+    if (not _hsu_graded) and score >= 65.0:
+        flags.append(
+            f"\u26A0\uFE0F HIGH SCORE, NO GRADES \u2014 WARNING BAND: Score={score:.0f}\u226565 with no named "
+            f"HR grade \u2192 11.4% HR / 0.70x (5/44); Score 68+ runs 12.0% / 0.74x (3/25). A very "
+            f"high composite with NOTHING named firing is a warning, not a signal \u2014 most likely "
+            f"the score is carried by inputs the grade layer has already judged unreliable. "
+            f"Contrast the 55-65 band at 1.13-1.16x. Do NOT treat the rank as conviction."
+        )
+    elif (not _hsu_graded) and 55.0 <= score < 65.0:
         flags.append(
             f"ℹ️ HIGH SCORE, NO GRADES: Score={score:.0f} in 55-65 with no named HR grade "
             f"→ 21.7% HR / 1.33x (73/336, 72sl, p=0.035, ~4.7 fires per slate). Ungraded bats "
@@ -25047,6 +25064,22 @@ def _load_grade_stats() -> dict:
         CAVEAT: month split is uneven (June 16.7%, July 11.8%) and Power is only
         populated on 41 of 95 slates, so this rests on less history than its n
         suggests. Deprioritize only.
+
+        NO OVERRIDE (tested Aug 7 2026). Sal Stewart homered on Aug 6 with NEG06
+        firing over a named PITCHER TARGET MATCH T2 + PITCH-RELIANT HR, which
+        looked like a case for letting a named grade rescue the bat. It is not:
+            NEG06 all                    114/858 = 13.3%  0.84x  p=0.0089
+            NEG06 + PITCHER TARGET MATCH  60/441 = 13.6%  0.86x  p=0.159
+            NEG06 + PTM T2 (Stewart's)    24/192 = 12.5%  0.79x
+            NEG06 + PTM T3                19/156 = 12.2%  0.77x
+            NEG06 + PTM T4                10/73  = 13.7%  0.90x
+            NEG06 + PITCH-RELIANT         20/123 = 16.3%  1.03x  (neutral)
+            NEG06 + NUCLEAR               10/57  = 17.5%  1.28x  p=0.43, boot [0.77,1.86]
+            NEG06 + any 2 named grades    17/108 = 15.7%  1.00x
+        A named PTM does not rescue the band — T2 and T3 are WORSE than NEG06
+        overall. NUCLEAR looks positive but crosses 1.0 on the bootstrap at n=57.
+        Stewart was the ~1-in-8 that converts. Do not add an override on this
+        evidence.
         """
         try:
             _pw = float(_g(p, "power")); _v = float(_g(p, "vuln"))
