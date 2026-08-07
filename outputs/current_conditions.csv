@@ -1,15 +1,15 @@
 ﻿"Game Conditions — August 07, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
-NYM @ PIT,PNC Park,76°F,4mph,In/X,0.94,730ft,Open,8.1,4.3,3.8,+0.6%,N/A,FantasyLabs,1.000x,FL
-TOR @ PHI,Citizens Bank Park,83°F,5mph,Out,1.14,40ft,Open,7.699999999999999,4.6,3.1,+7.4%,N/A,FantasyLabs,1.000x,FL
+NYM @ PIT,PNC Park,76°F,4mph,In/X,0.94,730ft,Open,8.1,4.3,3.8,+0.6%,N/A,FantasyLabs,0.994x,FL
+TOR @ PHI,Citizens Bank Park,83°F,5mph,Out,1.14,40ft,Open,7.699999999999999,4.6,3.1,+7.4%,N/A,FantasyLabs,1.006x,FL
 CIN @ WSH,Nationals Park,82°F,6mph,Out,0.9,25ft,Open,9.2,4.7,4.5,+7.9%,N/A,FantasyLabs,1.000x,FL
-ATL @ NYY,Yankee Stadium,80°F,4mph,In/X,1.12,55ft,Open,8.2,4.4,3.8,+1.0%,N/A,FantasyLabs,1.000x,FL
-ATH @ BOS,Fenway Park,83°F,5mph,Out,1.06,20ft,Open,8.7,5.4,3.3,+7.5%,N/A,FantasyLabs,1.000x,FL
-LAA @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,8.6,4.7,3.9,N/A,N/A,dome,1.000x,FL
+ATL @ NYY,Yankee Stadium,80°F,4mph,In/X,1.12,55ft,Open,8.1,4.3,3.8,+1.0%,N/A,FantasyLabs,1.000x,FL
+ATH @ BOS,Fenway Park,83°F,5mph,Out,1.06,20ft,Open,8.7,5.4,3.3,+7.5%,N/A,FantasyLabs,0.982x,FL
+LAA @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,8.7,4.7,4.0,N/A,N/A,dome,0.988x,FL
 CLE @ CWS,Guaranteed Rate Field,80°F,6mph,In/X,0.95,595ft,Open,7.6,3.5,4.1,-0.7%,N/A,FantasyLabs,1.000x,FL
 MIN @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,8.1,4.6,3.5,N/A,N/A,dome,1.000x,FL
 CHC @ KC,Kauffman Stadium,82°F,5mph,In/X,0.91,750ft,Open,9.600000000000001,4.2,5.4,+0.0%,N/A,FantasyLabs,1.000x,FL
-COL @ STL,Busch Stadium,81°F,5mph,In/X,0.95,465ft,Open,8.7,4.9,3.8,+0.4%,N/A,FantasyLabs,1.000x,FL
+COL @ STL,Busch Stadium,81°F,5mph,In/X,0.95,465ft,Open,8.7,4.9,3.8,+0.4%,N/A,FantasyLabs,0.976x,FL
 BAL @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,7.7,4.2,3.5,N/A,N/A,dome,1.000x,FL
 LAD @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,9.2,4.0,5.2,N/A,N/A,dome,1.000x,FL
 HOU @ SD,Petco Park,76°F,5mph,In/X,0.88,17ft,Open,8.7,4.4,4.3,-0.9%,N/A,FantasyLabs,1.000x,FL
