@@ -1,8 +1,8 @@
 ﻿"Game Conditions — August 08, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
-ATL @ NYY,Yankee Stadium,89°F,11mph,Out,1.12,55ft,Open,7.6,3.5,4.1,+10.9%,N/A,FantasyLabs,1.000x,FL
-ATH @ BOS,Fenway Park,88°F,8mph,Out,1.06,20ft,Open,9.2,5.7,3.5,+8.8%,N/A,FantasyLabs,1.000x,FL
-LAA @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,7.6,4.2,3.4,N/A,N/A,dome,1.000x,FL
+ATL @ NYY,Yankee Stadium,89°F,11mph,Out,1.12,55ft,Open,7.7,3.5,4.2,+10.9%,N/A,FantasyLabs,1.000x,FL
+ATH @ BOS,Fenway Park,88°F,8mph,Out,1.06,20ft,Open,9.2,5.7,3.5,+8.8%,N/A,FantasyLabs,0.982x,FL
+LAA @ MIA,LoanDepot Park,72°F,0mph,In/X,0.88,6ft,Dome,7.6,4.2,3.4,N/A,N/A,dome,0.988x,FL
 TOR @ PHI,Citizens Bank Park,83°F,5mph,Out,1.14,40ft,Open,9.7,5.4,4.3,+7.7%,N/A,FantasyLabs,1.000x,FL
 NYM @ PIT,PNC Park,80°F,6mph,In/X,0.94,730ft,Open,9.2,4.8,4.4,-1.4%,N/A,FantasyLabs,1.000x,FL
 CIN @ WSH,Nationals Park,84°F,5mph,Out,0.9,25ft,Open,8.7,4.0,4.7,+7.4%,N/A,FantasyLabs,1.000x,FL
@@ -12,6 +12,6 @@ HOU @ SD,Petco Park,80°F,7mph,In/X,0.88,17ft,Open,8.1,4.2,3.9,-3.2%,N/A,Fantasy
 DET @ SF,Oracle Park,64°F,8mph,In/X,0.82,10ft,Open,8.2,4.0,4.2,-4.4%,N/A,FantasyLabs,1.000x,FL
 COL @ STL,Busch Stadium,84°F,4mph,In/X,0.95,465ft,Open,8.7,4.8,3.9,+0.2%,N/A,FantasyLabs,1.000x,FL
 BAL @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,7.7,4.2,3.5,N/A,N/A,dome,1.000x,FL
-CLE @ CWS,Guaranteed Rate Field,77°F,4mph,In/X,0.95,595ft,Open,7.6,3.6,4.0,-0.5%,N/A,FantasyLabs,1.000x,FL
-LAD @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,8.600000000000001,3.7,4.9,N/A,N/A,dome,1.000x,FL
+CLE @ CWS,Guaranteed Rate Field,77°F,4mph,In/X,0.95,595ft,Open,7.699999999999999,3.6,4.1,-0.5%,N/A,FantasyLabs,1.000x,FL
+LAD @ ARI,Chase Field,72°F,0mph,In/X,1.01,1082ft,Dome,8.7,3.6,5.1,N/A,N/A,dome,1.000x,FL
 TB @ SEA,T-Mobile Park,74°F,6mph,In/X,0.92,20ft,Open,7.2,3.7,3.5,-4.1%,N/A,FantasyLabs,1.000x,FL
