@@ -24140,10 +24140,29 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     # Hard negative flags
     # FULLY PRICED removed Jul 2026 — HR/Hit conversion focus, not value (odds gate exists at HP level)
-    # Short-start + cold bat added Jul 2026: Env<0.95 + HS<35 within CONVICTION = 5.0% HR / 0.28x (20/72sl)
+    # Short-start + cold bat added Jul 2026, NARROWED Aug 9 2026 (see block below):
+    # Env<0.95 + HS 25-35 within CONVICTION = 11.6% HR / 0.72x (24/207, p=0.067, 70sl)
     _bgs_env       = getattr(sc, 'env_factor', 0.0) or 0.0
     _bgs_hs        = getattr(sc, 'hit_score', 0.0) or 0.0
-    _bgs_short_cold = (_bgs_env > 0 and _bgs_env < 0.95 and _bgs_hs > 0 and _bgs_hs < 35)
+    # ══ GATE NARROWED (Aug 9 2026) ═════════════════════════════════════════
+    # Backtested on 85 slates (n=4,567), base 16.18%. The rule fired at 14.1%
+    # (78/555, 0.87x, p=0.157, boot5 0.73) — a real soft negative, but nowhere
+    # near the mined 5.0%/0.28x the label claimed, and short of significance.
+    # Neither component works alone: Env<0.95 alone is 0.94x; HS<35 alone is
+    # 0.98x. Splitting HS<35 into thirds shows the suppression is NOT uniform:
+    #     Env<0.95 + HS 0-15  : 38/234 = 16.2%  1.00x  <- no effect at all
+    #     Env<0.95 + HS 15-25 : 16/114 = 14.0%  0.87x
+    #     Env<0.95 + HS 25-35 : 24/207 = 11.6%  0.72x  p=0.067  <- where it lives
+    # The old HS<35 gate diluted a real (if still sub-significant) effect in
+    # 25-35 with a dead zone at 0-15. Narrowed to the band that actually shows
+    # it. CAUGHT BY: Griffin Conine, Aug 9 2026 — HS=15, right at the boundary
+    # the old gate swept in without cause. His CONVICTION was blocked by this
+    # rule despite sitting in the zero-effect band; PRIME MATCH + a real matchup
+    # case were suppressed for a suppression that did not apply to him.
+    # p=0.067 is still short of the p<0.01 promotion bar — this is a sharpening
+    # of an existing negative, not a newly validated one. Re-audit at n>=300 in
+    # this narrower band before trusting it further.
+    _bgs_short_cold = (_bgs_env > 0 and _bgs_env < 0.95 and 25 <= _bgs_hs < 35)
 
     # ENV DEMOTION — Jul 9 2026 (CSV 74-slate backtest, n=709):
     # Picks with Env<1.00 + no active PRIME/CONFIRMED grade = 10.7% HR (0.72x) vs 14.8% baseline.
@@ -24206,7 +24225,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _bgs_hard_neg = (
         False                                     # ShortStart+Vuln no longer a blocker (Aug 1 2026)
         or not _bgs_has_named                      # no named HR grade
-        or _bgs_short_cold                         # short-start + cold bat (5.0% HR / 0.28x)
+        or _bgs_short_cold                         # short-start + cold bat, HS25-35 (11.6% HR / 0.72x)
         or _bgs_trap_short                         # Vuln 44-48 + Env<0.95 (8.3% HR / 0.47x)
         or (_bgs_pm_dead and _bgs_cross_only)      # PM dead zone + cross-pitch-only (weakest combo)
         or _bgs_sig_block                          # Sig≥15 CONVICTION = 0.0% HR / 0.00x (73 slates)
@@ -24270,7 +24289,11 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _block_reasons = []
         if _bgs_short_cold:
             _block_reasons.append(
-                f"short-start+cold (Env={_bgs_env:.2f}<0.95 + HS={_bgs_hs:.0f}<35) — 5.0% HR / 0.28x"
+                f"short-start+cold (Env={_bgs_env:.2f}<0.95 + HS={_bgs_hs:.0f} in 25-35) "
+                f"— 11.6% HR / 0.72x (24/207, p=0.067, 70sl) [CORRECTED Aug 9 2026: was mined at "
+                f"5.0%/0.28x on the wider HS<35 gate; that did not reproduce (measured 14.1%/0.87x) "
+                f"and the effect was concentrated in HS 25-35 only — HS<15 showed no suppression "
+                f"at all. Gate narrowed to where the signal actually is.]"
             )
         if _bgs_trap_short:
             _block_reasons.append(
@@ -29184,7 +29207,17 @@ def _sheet_sharp_picks(wb, scores, top_n):
     for _pt_sc, _pt_sh in hr_picks:
         (_prio if _priority_qualifies(_pt_sc, _pt_sh) else _rest).append((_pt_sc, _pt_sh))
     # Shortest price first WITHIN the tier — price is the ranker, not Score.
-    _prio.sort(key=lambda t: _priority_price(t[0]))
+    # TIE-BREAK FIX (Aug 9 2026, RE-APPLIED after a sandbox reset lost the first
+    # copy before it reached GitHub). Price-only sort left ties broken by
+    # whatever order batters happened to arrive in — accidental, not
+    # principled. Real case: Aug 9, Wilyer Abreu and Alec Burleson both
+    # qualified at exactly +350. Abreu's own Conv/100 was 34; Burleson's was
+    # 45 — HIGHER — yet Burleson (who homered) was the one at risk of
+    # being dropped for a 5-slot card, because nothing broke the tie on the
+    # richer signal. Same fix as the rest-of-card block below: price stays
+    # primary (that is the tested, real edge), Conv/100 breaks ties instead of
+    # leaving them to sort-stability accident.
+    _prio.sort(key=lambda t: (_priority_price(t[0]), -(t[1].get("_hr_conv") or 0)))
     for _rank, (_pt_sc, _pt_sh) in enumerate(_prio, 1):
         _pt_sh.setdefault('flags', []).append(
             f"\U0001F3AF PRIORITY TIER #{_rank}: Vuln>={_PRIORITY_VULN:.0f} + Odds<=+{_PRIORITY_ODDS_MAX:.0f} "
