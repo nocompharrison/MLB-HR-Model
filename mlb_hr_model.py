@@ -29194,8 +29194,39 @@ def _sheet_sharp_picks(wb, scores, top_n):
             f"WARNING: median 2 qualifiers per slate, 19 of 77 slates have zero - do NOT pad to five. "
             f"May ran 7.4% vs June 39.7% / July 32.1%, so the edge is recent-window."
         )
+    # ══ REST-OF-CARD RE-RANK (Aug 9 2026, CORRECTED same day) ══════════════
+    # ORIGINAL VERSION of this comment backtested "Score" (sc.score, the plain
+    # 0-100 composite exported as column E) against Odds and concluded price
+    # alone was the best available ranker (1.32x vs Score's 1.04x on n=385).
+    #
+    # THAT WAS THE WRONG BASELINE. The actual pre-existing order of hr_picks —
+    # what this block was about to overwrite — is NOT sc.score. It comes from
+    # _hr_conviction_score(), cached as sh["_hr_conv"] and exported to the sheet
+    # as the "Conv/100" column, a materially richer signal: differentiated
+    # per-archetype credit (HR01 +20 down to HR08 +14), CONFIRMED MATCH, grade
+    # stacking, all capped and combined. sc.score and _hr_conv are unrelated
+    # variables that happen to sit in adjacent CSV columns; conflating them was
+    # a parsing gap, not a finding about the model.
+    #
+    # Re-tested against the CORRECT baseline (Conv/100, joined from the grade
+    # table col 8, 58 slates with the column populated, non-qualifier pool,
+    # n=240):
+    #     Conv/100 only                49/240 = 1.19x
+    #     Odds only                    49/240 = 1.19x   <- exact tie
+    #     Conv/100 desc, price tiebreak 50/240 = 1.21x   <- best of the four
+    #     Price asc, Conv/100 tiebreak  49/240 = 1.19x
+    # Conv/100 and price are statistically tied alone; combining them (Conv/100
+    # primary, price as tiebreak) was marginally best. n=240/48 slates is a much
+    # smaller test than the original Score comparison (n=385/77sl) because the
+    # Conv/100 column has only been populated for part of the season — treat
+    # this as directionally supportive, not conclusive.
+    # sh["_hr_conv"] is already cached by the sorted() call that built hr_picks
+    # above, so this costs nothing extra to read.
+    _rest.sort(key=lambda t: (-(t[1].get("_hr_conv") or 0), _priority_price(t[0])))
     if _prio:
         hr_picks = _prio + _rest
+    else:
+        hr_picks = _rest
 
     _top5_capped = []
     _overflow = []
@@ -29700,6 +29731,41 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # on a cold bat it deserves a small conviction lift vs a plain cold bat.
         if hs < 20 and hs > 0 and "🔥🔥 SCREAM HIT" in grade and pm >= 1.03:
             bonus += 1  # cold bat confirmed by SCREAM HIT pattern → slight lift
+
+        # ══ EstPA COLD-BAT RESTORATION (Aug 9 2026) ═══════════════════════
+        # HT01/HT03/HT10 already exist in HIT_ARCHETYPES with claimed 89-96% hit
+        # rates, but archetype_conv_boost(..., "HIT") is computed and then
+        # DISCARDED — it is assigned to _arch_conv_hit and never read again
+        # anywhere in the file. The archetype system feeds card TEXT (via
+        # flags.append in the HIT firing loop) but never feeds _hit_conviction,
+        # which is what actually SORTS the hit card. So these archetypes have
+        # been printing on cards with zero effect on ranking since they existed.
+        #
+        # Re-tested by replaying the exact stack logic (not an ID-string search,
+        # which undercounts — see source-of-truth note) on the 93-slate panel,
+        # same-slate base 62.4%:
+        #     EstPA>=4.6 + HS<15 (shared core)      155/211 = 73.5%  1.18x  67sl
+        #     + Score<45                             37/46  = 80.4%  1.29x  31sl
+        #     + Sig<1                                61/74  = 82.4%  1.32x  44sl  p=0.0002 b5 1.19
+        #     HT01 full stack (+Score<45+Sig<1)      28/30  = 93.3%  1.50x  22sl  p=0.0002 b5 1.37
+        #     HT03 full stack (+Odds>=350+Pwr>=84)   27/29  = 93.1%  1.49x  19sl  p=0.0003 b5 1.36
+        #     HT10 full stack (+Odds350-99+Vu>=44)   25/28  = 89.3%  1.43x  21sl  p=0.0027 b5 1.25
+        # All three clear every promotion gate (p<0.01, boot5>1.2, stable halves).
+        # This is the mechanism the June demotion above was reacting to on n=3 —
+        # a bat that has been cold (HS<15) AND is projected for heavy plate
+        # appearance volume (EstPA>=4.6) is not the same population as a cold bat
+        # with a thin lineup slot. The demotion is right for the latter; wrong
+        # for the former. Restore conviction in tiers matching the backtest.
+        _est_pa_val = getattr(sc, "pa_per_game", 0.0) or 0.0
+        _sig_val    = getattr(sc, "signal_score", 0) or 0
+        _pwr_val    = getattr(sc, "batter_power", 0) or 0   # field name verified via AST
+        if hs < 15 and hs >= 0 and _est_pa_val >= 4.6:
+            if _sig_val < 1:
+                bonus += 3   # HT01 population: 93.3%, 1.50x, n=30, p=0.0002
+            elif _pwr_val >= 84:
+                bonus += 3   # HT03 population: 93.1%, 1.49x, n=29, p=0.0003
+            else:
+                bonus += 2   # shared core only: 73.5%, 1.18x, n=211, p=0.0006
 
         # Penalties
         penalty = 0
