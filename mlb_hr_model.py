@@ -24105,8 +24105,19 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # (more reliable than text scan — T4/PRIME text lives in rationale, not hr_grade)
     _ptm_cb_bgs   = getattr(sc, 'ptm_conv_bonus', 0.0) or 0.0
     _bgs_all_text = hr_grade + " ".join(str(f) for f in flags) + " ".join(str(n) for n in (sc.notes or []))
-    _bgs_nuclear  = 4 if "SUPER NUCLEAR" in _bgs_all_text else \
-                    4 if "NUCLEAR" in _bgs_all_text else 0
+    # ══ NUCLEAR CREDIT REDUCED (Aug 10 2026) ═══════════════════════════════
+    # The model's own multivariate audit (n=3,752, logistic regression controlling
+    # for vuln/env/park/est_pa/log-odds, plus a 400-shuffle permutation null - see
+    # the audit table inside _hr_conviction_score) found plain NUCLEAR has an
+    # ADJUSTED ODDS RATIO OF 0.92 (p_multi=0.72, p_perm=0.35) - essentially no
+    # independent effect once the variables it is BUILT FROM (Power+Odds+PM+Score)
+    # are already accounted for. NUCLEAR is a composite of exactly those four
+    # inputs, so it was largely re-describing signal the model already had.
+    # That audit's conclusion was never implemented - this had still been adding
+    # a flat +4 to every card, unconditionally, regardless of the null result.
+    # SUPER NUCLEAR is a DIFFERENT, stronger criterion (all 9 PropFinder gates
+    # clearing) and was not shown deficient by this audit - its credit is kept.
+    _bgs_nuclear  = 4 if "SUPER NUCLEAR" in _bgs_all_text else 0
     # PRIME = ptm_conv_bonus >= 8 (T4 or PRIME = 2+ HR on pitcher's target pitch)
     # T3 PITCHER-FIRST MATCH = ptm_conv_bonus >= 5 (1 HR on target pitch) — named grade, lower weight
     _bgs_prime    = 3 if _ptm_cb_bgs >= 8 else 0
@@ -25907,6 +25918,10 @@ def _sheet_sharp_picks(wb, scores, top_n):
         return (max(l5_pct * mult, 5.0), max(all_pct * mult, 5.0))
 
     def _hr_conviction_score(sc, sh):
+        # Deferred floor for EXTREME L2 BLOWUP + VULN52 OVERRIDE (Aug 10 2026).
+        # None unless that branch fires; applied as a final safety-net just
+        # before the true final return, after normal scoring has run.
+        _l2v52_pending_floor = None
         """Jun 17 2026 OVERHAUL — Pitcher-First 4-Pillar Conviction Architecture.
 
         OLD model: named grades drove the score (0-30 pts), batter attributes
@@ -26421,6 +26436,21 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # Vargas, Grichuk) went 0-for-HR. Signal is now 3/6 (50%) — volatile.
         # DEMOTED: was ALWAYS PLAY (floor 50). Now LEAN (floor 30).
         # Requires stacking with another named grade to reach PLAY (floor 45).
+        # ══ FLOOR RELOCATED (Aug 10 2026) ══════════════════════════════════════
+        # WHY: this was `conv = max(conv, floor); return ...` — an EARLY return
+        # that discards every scoring step below it (PM bonuses, power/edge
+        # bonuses, K-Danger/park/short-start penalties, backtest bonuses — roughly
+        # 230 lines down to the true final return at line ~26792). Real case:
+        # Ketel Marte, Aug 9 2026 — EXTREME L2 BLOWUP + VULN52 OVERRIDE stacked
+        # with NUCLEAR + ELITE LOCK + EXTREME POWER OVERRIDE, five independent
+        # positives, and his final Conv/100 (45) matched the floor value EXACTLY —
+        # none of the other four contributed anything beyond it, because the
+        # early return cut them off before they could run.
+        # FIX: stash the floor instead of applying it immediately. Let the normal
+        # additive cascade run in full. Apply the floor as a final safety-NET
+        # (not a ceiling — max() only lifts, never lowers) right before the true
+        # final return, so genuine stacking can still push a batter above the
+        # floor while the floor still protects the downside case.
         _is_extreme_l2_v52 = "EXTREME L2 BLOWUP + VULN52 OVERRIDE" in g
         if _is_extreme_l2_v52:
             _l2v52_headwind = 0.0
@@ -26432,10 +26462,13 @@ def _sheet_sharp_picks(wb, scores, top_n):
                 "CONFIRMED MATCH", "ICE COLD+SIGNAL", "ERA Understated",
             ])
             _l2v52_floor = 45.0 if _has_stack_grade else 30.0
-            conv = max(conv, _l2v52_floor - _l2v52_headwind)
-            return max(0, min(100, round(conv)))
+            _l2v52_pending_floor = _l2v52_floor - _l2v52_headwind
+            # deliberately NO return here — falls through to the normal cascade
 
-        _is_extreme_l2_grade = "EXTREME L2 BLOWUP HR" in g
+        # Guarded `and not _is_extreme_l2_v52` so this narrower plain-L2 block
+        # cannot ALSO fire for a batter the v52-variant already handled above
+        # (same double-fire guard the original early-return implicitly relied on).
+        _is_extreme_l2_grade = ("EXTREME L2 BLOWUP HR" in g) and not _is_extreme_l2_v52
         if _is_extreme_l2_grade:
             _l2_headwind = 0.0
             _l2_compound_suppress = (
@@ -26486,6 +26519,12 @@ def _sheet_sharp_picks(wb, scores, top_n):
             else:
                 conv = max(conv, 45.0)   # gold PLAY floor at reasonable odds
                 if "K-Danger" in flags_s: conv = max(conv - 8.0, 34.0)
+            # Safety-net for a batter whose text ALSO matches this separate block
+            # (e.g. SUPER NUCLEAR, CONFIRMED MATCH) on top of L2+VULN52 — without
+            # this, THIS block's own early return would silently discard the
+            # L2+VULN52 floor stashed above (Aug 10 2026 fix).
+            if _l2v52_pending_floor is not None:
+                conv = max(conv, _l2v52_pending_floor)
             return max(0, min(100, round(conv)))
 
         # ── SUPER NUCLEAR override (Jul 1 2026): all 9 PropFinder gates pass ─
@@ -26525,6 +26564,12 @@ def _sheet_sharp_picks(wb, scores, top_n):
                 conv = max(conv, 45.0)   # gold PLAY floor
                 if "K-Danger" in flags_s:
                     conv = max(conv - 8.0, 34.0)   # K-Danger exception: amber floor
+            # Safety-net for a batter whose text ALSO matches this separate block
+            # (e.g. SUPER NUCLEAR, CONFIRMED MATCH) on top of L2+VULN52 — without
+            # this, THIS block's own early return would silently discard the
+            # L2+VULN52 floor stashed above (Aug 10 2026 fix).
+            if _l2v52_pending_floor is not None:
+                conv = max(conv, _l2v52_pending_floor)
             return max(0, min(100, round(conv)))
 
         if _is_conf_match:
@@ -26541,6 +26586,12 @@ def _sheet_sharp_picks(wb, scores, top_n):
             ])
             if _conf_stack_grade and _top_headwind == 0.0:
                 conv = max(conv, 45.0)   # gold only when cleanly stacked
+            # Safety-net for a batter whose text ALSO matches this separate block
+            # (e.g. SUPER NUCLEAR, CONFIRMED MATCH) on top of L2+VULN52 — without
+            # this, THIS block's own early return would silently discard the
+            # L2+VULN52 floor stashed above (Aug 10 2026 fix).
+            if _l2v52_pending_floor is not None:
+                conv = max(conv, _l2v52_pending_floor)
             return max(0, min(100, round(conv)))
 
         # ═══════════════════════════════════════════════════════════════════
@@ -26778,6 +26829,14 @@ def _sheet_sharp_picks(wb, scores, top_n):
             )
 
         conv = max(0.0, min(100.0, conv))
+
+        # Deferred EXTREME L2 BLOWUP + VULN52 OVERRIDE floor, applied here (Aug 10
+        # 2026) instead of at an early return. Safety-net only: lifts conv up to
+        # the floor if the full additive cascade above landed below it, but never
+        # lowers a conv the cascade legitimately earned above the floor.
+        if _l2v52_pending_floor is not None:
+            conv = max(conv, _l2v52_pending_floor)
+
         return max(0, min(100, round(conv)))
 
     _grade_guide = [
