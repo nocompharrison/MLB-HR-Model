@@ -13789,6 +13789,25 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                             f"⚡ HIGH-USAGE ({_ptm_usage_label}): batter faces this pitch "
                             f"repeatedly per game (+10 conv)"
                         )
+                    # T4 WEAK-CONTACT CAUTION (Aug 10 2026). T4 requires 2+ HR in L10 BBE
+                    # but has NO quality gate the way T2 does (T2 requires HH>=50 to even
+                    # qualify). Backtested by splitting T4 fires on overall L10 hard-hit%
+                    # (pf9_l10_hh_pct - same stat behind the "9-STAT: HH%" line), 86 slates:
+                    #     T4 + HH>=50   18/114 = 15.8%  0.97x  (near base)
+                    #     T4 + HH<50    11/122 =  9.0%  0.56x  p=0.025  boot5 0.30  halves 12%/6%
+                    # A batter with 2 recent HR but WEAK surrounding contact quality looks like
+                    # a short hot streak riding a couple of mishits, not a real power match -
+                    # and converts at barely half the rate of a T4 with real contact behind it.
+                    # Both halves of the season are consistently low (12%, 6%), not a one-sided
+                    # fluke. Threshold matches T2's own HH>=50 gate for consistency.
+                    _t4_hh = getattr(batter, "pf9_l10_hh_pct", 0.0) or 0.0
+                    if _t4_hh > 0.0 and _t4_hh < 50.0:
+                        _ptm_conv_bonus = max(0.0, _ptm_conv_bonus - 4.0)
+                        _ptm_pre_notes.append(
+                            f" ⚠️ T4 WEAK-CONTACT CAUTION: {_bbb_hr} HR in L10 BBE but "
+                            f"HH%={_t4_hh:.0f}%<50% → 9.0% HR / 0.56x (11/122, p=0.025, boot5 0.30, "
+                            f"halves 12%/6%, 34sl). Quantity without quality (-4 conv)."
+                        )
                 elif _bbb_hr >= 3 and _strong_vuln:
                     # ≥3 HR in BBE alone (no recency signal) — demoted to T4, not PRIME.
                     # Jun 17: Kurtz (3HR/10 FF BBE) 0 HR. Cross-pitcher BBE without
@@ -22870,6 +22889,26 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                 f"HR stacks decaying within their own window)"
             )
 
+        # NEAR-HR RATE >=0.3 TRACKING FLAG (Aug 10 2026). near_hr_count/near_hr_pa
+        # was computed since Jul 2026 but never exported until Aug 5 2026, so this
+        # is the first slate window it could even be measured against outcomes.
+        # 5 slates, n=481: NearHR Rate>=0.3 runs 24.0% HR (6/25, 1.43x) vs base
+        # 16.84% - directionally real but p=0.25 on 5 slates, NOT significant yet.
+        # Standalone near-HR was already tested at 39 slates in Jul (1.17x, weak)
+        # and its conv boost is intentionally zeroed elsewhere in this file - this
+        # flag does NOT change that. Surfaced as a visible differentiator only, so
+        # it can be tracked toward significance as more slates accumulate.
+        _nhr_ct = int(getattr(sc, "near_hr_count", 0) or 0)
+        _nhr_pa = int(getattr(sc, "near_hr_pa", 0) or 0)
+        _nhr_rate = (_nhr_ct / _nhr_pa) if _nhr_pa > 0 else 0.0
+        if _nhr_rate >= 0.3:
+            flags.append(
+                f"\U0001F440 NEAR-HR RATE {_nhr_rate:.1f} ({_nhr_ct}/{_nhr_pa} PA) \u2014 "
+                f"\u26aa TRACKING: 24.0% HR / 1.43x on this threshold so far (6/25, 5sl since "
+                f"export began Aug 5 2026, p=0.25 \u2014 too early to trust, watch as it accumulates). "
+                f"Zero conviction credit."
+            )
+
         if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 52.0:
             _r = _grade_rate("neg_supp_l5_low_vuln_hr", "8.1%  10/124")
             _firing_grades.append(
@@ -29351,6 +29390,26 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # Fill remaining slots from overflow if cap freed up positions
     while len(_top5_capped) < 5 and _overflow:
         _top5_capped.append(_overflow.pop(0))
+
+    # TOP-RANKED CARD POSITION DIFFERENTIATOR (Aug 10 2026). Measured pre- vs
+    # post-Aug4 (when the priority tier, rest-of-card Conv/100 re-rank, and
+    # NUCLEAR credit reduction landed): top-3 CARD POSITION HR rate jumped
+    # 17.9% -> 55.6% (43/240 -> 10/18, Fisher p=0.0007). Slate-bootstrap median
+    # +37.6pp, 90% CI [+12.4pp, +62.5pp], 99% of resamples positive - real even
+    # accounting for only 6 post-fix slates. Whole-slate base rate did NOT rise
+    # in the same window (16.4% -> 15.1%, p=0.47) - this is specific to card
+    # position, not the league running hot. Mechanism: many batters tie on raw
+    # Score, and Conv/100 (sharpened by this week's fixes) is what breaks that
+    # tie and decides who actually lands at #1. Surfaced as a differentiator,
+    # not additional conviction points - the effect already lives IN Conv/100
+    # and the ordering; this flag makes it visible rather than double-counting it.
+    for _tr_rank, (_tr_sc, _tr_sh) in enumerate(_top5_capped[:3], 1):
+        _tr_sh.setdefault('flags', []).append(
+            f"\U0001F3C6 TOP-RANKED CARD POSITION #{_tr_rank}: post-fix top-3 running 55.6% HR "
+            f"(10/18, 6sl since Aug 4) vs 17.9% pre-fix (43/240, 80sl) \u2014 Fisher p=0.0007, "
+            f"bootstrap 90% CI [+12.4pp, +62.5pp] on the shift, base rate flat over the same "
+            f"window (not a hot league). Still thin (6 post-fix slates) \u2014 watch as it accumulates."
+        )
 
     # Rebuild full list: capped top-5 + overflow (preserves original order beyond 5)
     hr_picks = _top5_capped + _overflow
