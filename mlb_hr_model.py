@@ -32587,6 +32587,58 @@ def main():
             _id_to_key_map = _s_l10_bbe.get("__ID_TO_KEY__", {})
             if isinstance(_id_to_key_map, dict):
                 globals()["_L10_BBE_ID_TO_KEY"] = _id_to_key_map
+
+            # ══ L10 BBE FRESH-DATA ENRICHMENT PASS (Aug 11 2026) ═══════════════
+            # WHY: the L10 BBE enrichment inside fetch_season_stats() runs
+            # BEFORE this point (fetch_season_stats() is called ~17 lines above
+            # this in main()) - a pre-existing, already-documented ordering
+            # limitation (see the comment on _try_bzm_shortcut: "runs AFTER
+            # fetch_season_stats() - so on --refresh-stats the global is empty
+            # at this point"). That forces it to fall back to a stale on-disk
+            # pkl from a DIFFERENT slate/day, which only overlapped 11 of 572
+            # of today's batters (confirmed via diagnostic - real, correctly-
+            # fetched data, just scoped to the wrong roster).
+            # FIX: rather than risk reordering fetch_season_stats() itself
+            # (unclear what else depends on the current order), add a second,
+            # SAME-RUN enrichment pass right here, using _s_l10_bbe (this
+            # run's own fresh BZM computation) and its own purpose-built
+            # __ID_TO_KEY__ map - pure ID-based lookup, no name normalization
+            # needed at all, since batter_stats_map's own key is used directly
+            # once the ID resolves (avoiding that entire bug class outright).
+            _l10_fresh_enriched = 0
+            _l10_fields = ("l10_bbe_count","l10_iso","l10_barrel_pct","l10_hh_pct",
+                           "l10_air_pct","l10_gb_pct","l10_fb_pct","l10_pull_pct",
+                           "l10_pullbrl_pct","l10_blast_pct","l10_avg_ev",
+                           "l10_avg_dist","l10_hr_count")
+            for _bname, _brow in batter_stats_map.items():
+                try:
+                    _brow_d = _brow.to_dict() if hasattr(_brow, "to_dict") else _brow
+                    if not isinstance(_brow_d, dict):
+                        continue
+                    _bpid = int(_brow_d.get("playerid",
+                                _brow_d.get("mlbam_id",
+                                _brow_d.get("savant_id", 0))) or 0)
+                except Exception:
+                    _bpid = 0
+                if _bpid <= 0:
+                    continue
+                _bzm_key = _id_to_key_map.get(_bpid)
+                if not _bzm_key:
+                    continue
+                _bzm_entry = _s_l10_bbe.get(_bzm_key)
+                _agg = _bzm_entry.get("_PF9_AGG") if isinstance(_bzm_entry, dict) else None
+                if not isinstance(_agg, dict):
+                    continue
+                for _fld in _l10_fields:
+                    if _fld in _agg:
+                        try:
+                            batter_stats_map[_bname][_fld] = _agg[_fld]
+                        except Exception:
+                            pass
+                _l10_fresh_enriched += 1
+            if _l10_fresh_enriched:
+                print(f"  ✅ L10 BBE fresh-data enrichment: {_l10_fresh_enriched} batters "
+                      f"matched (same-run BZM data, supersedes the earlier stale-cache pass)")
         else:
             globals()["_L10_BBE_BY_PITCH"] = _L10_BBE_BY_PITCH  # fallback to L14
         # Pitcher-specific BBE dict (batter × pitcher × pitch_type)
