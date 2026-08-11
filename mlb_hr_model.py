@@ -7009,6 +7009,18 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
     result: dict = {}
     ENDPOINT = "https://www.fangraphs.com/api/leaders/splits/splits-leaders"
     HAND_IDS = [("hr9_vs_lhb", 14), ("hr9_vs_rhb", 15)]
+    # strType FIXED (Aug 11 2026): this was "2" ("pitching stats view"), the
+    # ONLY one of the three POST-based split functions in this file using that
+    # value - TTO and situational splits both use "1" and are now confirmed
+    # working with real data, including these EXACT split IDs (situational
+    # splits' vs_lhb/vs_rhb rows: 780 kept 408, 794 kept 534 - real, non-empty).
+    # This function returned "0 pitchers both splits" every time, while the
+    # identical split_id 14/15 succeeded two sections later in the same log,
+    # under strType=1. Switched to match the proven-working value. Widened the
+    # HR/9 field search below with an HR-count/TBF fallback in case the exact
+    # field name differs under this view (untested which fields strType=1
+    # actually returns for a pitcher-position split - the fallback covers that
+    # uncertainty rather than assuming the same field name carries over).
     for key, split_id in HAND_IDS:
         body = json.dumps({
             "strPlayerId":      "all",
@@ -7016,7 +7028,7 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
             "strSplitArrPitch": [],
             "strGroup":         "season",
             "strPosition":      "P",
-            "strType":          "2",        # "2" = pitching stats view (FIP/K9/HR9)
+            "strType":          "1",        # switched from "2" (Aug 11 2026) - see below
             "strStatType":      "player",
             "strAutoPt":        "true",
             "strSplitTeams":    False,
@@ -7070,6 +7082,21 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
                 # HR/9 field: try multiple key variants FanGraphs uses
                 hr9 = (row.get("HR/9") or row.get("hr9") or
                        row.get("HR9") or row.get("HomeRunsPer9"))
+                if hr9 is None:
+                    # FALLBACK (Aug 11 2026): strType=1 is a batting-stats view,
+                    # so a literal "HR/9" field may not be present the way it
+                    # is under strType=2. If absent, derive it from HR count
+                    # and innings pitched (IP) or total batters faced (TBF) -
+                    # whichever this view actually provides.
+                    _hr_ct = row.get("HR")
+                    _ip = row.get("IP") or row.get("TBF")
+                    if _hr_ct is not None and _ip:
+                        try:
+                            _ip_f = float(_ip)
+                            if _ip_f > 0:
+                                hr9 = float(_hr_ct) / _ip_f * 9.0
+                        except Exception:
+                            pass
                 if name and hr9 is not None:
                     try:
                         if name not in result: result[name] = {}
@@ -8053,8 +8080,20 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=23&pageitems=5000&pagenum=1"
         )
-        with _req4.urlopen(url_pt, timeout=15) as _r:
-            _d23 = _json.loads(_r.read())
+        # BUG FOUND (Aug 11 2026): this made a completely bare
+        # `_req4.urlopen(url_pt, timeout=15)` call - no User-Agent, no headers
+        # of any kind. It was the one FanGraphs call site in this file that
+        # never received ANY of today's fixes (okhttp headers, gzip handling,
+        # curl_cffi fallback, error visibility) because it bypassed _get_text/
+        # _get/_fg_request entirely and built its own raw urllib call. Now
+        # routed through _get_text(), which detects the fangraphs.com URL and
+        # sends it through the full fixed chain like every other call in the
+        # file.
+        raw_pt = _get_text(url_pt, timeout=15)
+        if not raw_pt:
+            _d23 = {}
+        else:
+            _d23 = _json.loads(raw_pt)
         _rows23 = _d23.get("data", []) if isinstance(_d23, dict) else []
 
         def _pct(v):
@@ -8100,8 +8139,14 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
 
         if result:
             print(f"  ✅ FanGraphs pitch-type splits: {len(result)} pitchers (Zone%, HR/FB% per pitch type)")
+        elif not raw_pt:
+            # Distinguishes a real request failure (error already printed by
+            # _get_text/_fg_request above) from a 200-OK-but-empty/reshaped
+            # response, which needed its own diagnosis before this fix.
+            print(f"  ⚠️  FanGraphs pitch-type splits: request failed — see error above")
         else:
-            print(f"  ⚠️  FanGraphs pitch-type splits: 0 rows — type=23 endpoint may have changed")
+            print(f"  ⚠️  FanGraphs pitch-type splits: 0 rows — got a response but no usable "
+                  f"rows ({len(_rows23)} raw rows before filtering) — type=23 endpoint may have changed")
     except Exception as _e23:
         print(f"  ⚠️  FanGraphs pitch-type splits (type=23) failed: {_e23}")
 
