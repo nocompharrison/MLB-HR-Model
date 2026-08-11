@@ -8118,70 +8118,40 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
             _dgl = _json.loads(_r.read())
         _rowsgl = _dgl.get("data", []) if isinstance(_dgl, dict) else []
 
-        # DIAGNOSTIC (Aug 11 2026). Every pitcher showed <3 game-log rows
-        # (748 pitchers, 0 with >=3 starts) - not plausible for real per-start
-        # data across a season. Same suspected cause as the type=23 endpoint,
-        # which was confirmed (via an identical sample-row diagnostic) to have
-        # drifted from "one row per X" to "one row per pitcher, season
-        # aggregate". Print a real sample row so the next log shows definitively
-        # whether type=4 has done the same thing, rather than assuming.
-        if _rowsgl and isinstance(_rowsgl[0], dict):
-            print(f"     game-log sample row keys: {sorted(_rowsgl[0].keys())}")
-            print(f"     game-log sample row values: {_rowsgl[0]}")
-            print(f"     game-log total raw rows: {len(_rowsgl)}")
-
-        # Group per-start velocity rows by pitcher
-        _starts_by_pitcher: dict = {}
+        # ENDPOINT SHAPE CONFIRMED CHANGED (Aug 11 2026). A real sample row
+        # showed this returns one row per PITCHER (full-season aggregate -
+        # ERA, WAR, IP, etc.), not one row per START as this code assumed -
+        # no "Date" field exists anywhere in the response, and every pitcher
+        # showed exactly 1 "start" (748 pitchers, 0 with >=3), confirming it.
+        # Same underlying cause already confirmed for the type=23 endpoint.
+        # RECOVERABLE: 'FBv' (season-average fastball velocity) IS reliably
+        # present in this shape - avg_ff_velo can still be extracted directly.
+        # NOT RECOVERABLE: l5_ff_velo / velo_trend genuinely cannot be
+        # computed without per-start granularity, which this endpoint no
+        # longer provides in any form found in the sample row. Rather than
+        # keep pretending a "L5 vs season" trend exists, this now honestly
+        # sets only what's real and leaves the decline-signal fields at their
+        # defaults (matching what has actually been true this whole time -
+        # that scoring branch, gated on l5_ff_velo > 0, has been silently
+        # inactive regardless of this fix).
+        result_gl = {}
         for _row in _rowsgl:
             _name = str(_row.get("PlayerName") or _row.get("playerName") or "").strip()
             if not _name:
                 continue
-            _velo_gs = 0.0
-            try: _velo_gs = float(_row.get("vFA") or _row.get("FBv") or _row.get("Velocity") or 0)
+            _fbv = 0.0
+            try: _fbv = float(_row.get("FBv") or 0)
             except: pass
-            if _velo_gs < 70:   # filter out non-starters and data errors
-                continue
-            _date_str = str(_row.get("Date") or "")
-            if _name not in _starts_by_pitcher:
-                _starts_by_pitcher[_name] = []
-            _starts_by_pitcher[_name].append((_date_str, _velo_gs))
+            if _fbv >= 70:   # sanity filter, same threshold as before
+                result_gl[_name] = {"avg_ff_velo": round(_fbv, 1)}
 
-        # DIAGNOSTIC (Aug 11 2026). "748 pitcher game-logs processed" reports
-        # len(_starts_by_pitcher) - the raw grouped input - NOT len(result).
-        # The pitch-type splits enrichment consumer downstream shows "0
-        # matched (0 entries)", meaning result ends up genuinely empty despite
-        # 748 pitchers having game-log data. Track exactly where the funnel
-        # narrows: too-few-starts, no valid velocities, or no L5 velocities.
-        _v_too_few = 0; _v_no_velos = 0; _v_no_l5 = 0; _v_kept = 0
-        for _pname, _start_list in _starts_by_pitcher.items():
-            if len(_start_list) < 3:    # need at least 3 starts for trend
-                _v_too_few += 1
-                continue
-            # Sort chronologically (date string sorts correctly in YYYY-MM-DD format)
-            _sl_sorted = sorted(_start_list, key=lambda x: x[0])
-            _all_velos = [v for _, v in _sl_sorted if v > 0]
-            if not _all_velos:
-                _v_no_velos += 1
-                continue
-            _season_avg = sum(_all_velos) / len(_all_velos)
-            _l5_velos   = [v for _, v in _sl_sorted[-5:] if v > 0]
-            if not _l5_velos:
-                _v_no_l5 += 1
-                continue
-            _l5_avg = sum(_l5_velos) / len(_l5_velos)
-            _trend  = round(_l5_avg - _season_avg, 2)   # negative = declining
-
+        for _pname, _gl_data in result_gl.items():
             if _pname not in result:
                 result[_pname] = {}
-            result[_pname]["avg_ff_velo"] = result[_pname].get("avg_ff_velo") or round(_season_avg, 1)
-            result[_pname]["l5_ff_velo"]  = round(_l5_avg, 1)
-            result[_pname]["velo_trend"]  = _trend
-            _v_kept += 1
+            result[_pname]["avg_ff_velo"] = result[_pname].get("avg_ff_velo") or _gl_data["avg_ff_velo"]
 
-        print(f"  ✅ FanGraphs velocity trend: {len(_starts_by_pitcher)} pitcher game-logs processed")
-        if _v_kept == 0:
-            print(f"     velocity trend funnel: {_v_too_few} <3 starts | {_v_no_velos} no valid "
-                  f"velocities | {_v_no_l5} no L5 velocities | {_v_kept} kept into result")
+        print(f"  ✅ FanGraphs velocity (season avg only - L5/trend unavailable, endpoint "
+              f"shape changed): {len(result_gl)} pitchers")
     except Exception as _egl:
         print(f"  ⚠️  FanGraphs velocity trend (type=4 game-log) failed: {_egl}")
 
@@ -9315,16 +9285,36 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
         except Exception as _site2:
             print(f"  ⚠️  Situational splits enrichment failed: {_site2}")
 
+        # BUG FIX (Aug 11 2026, same root cause confirmed via the L10 BBE
+        # chain trace): batter_map is keyed by original-case names ("Luis
+        # Arraez"), but this checked _fn(name) - lowercased - directly
+        # against it, which can never match. The "561 batters" / "371
+        # batters" prints below come from INSIDE the fetch functions
+        # (_fetch_batter_hand_splits / _fetch_batter_l7_stats) reporting the
+        # raw fetch count - completely independent of whether this
+        # enrichment loop actually wrote anything into batter_map. Build a
+        # proper reverse map {normalized: original} from batter_map's own
+        # keys, matching the pattern already proven correct for the
+        # pitcher-side code (_pm_norm_order elsewhere in this file), instead
+        # of checking a normalized key against original-case keys directly.
+        _bm_norm = {_fn(k): k for k in batter_map}
+
         # Batter hand + home/road splits — "Lowe slugging .595 vs RHP, .644 road"
         _batter_splits_data = _fetch_batter_hand_splits(SEASON_YEAR)
+        _bhs_enriched = 0
         for b_name, splits in _batter_splits_data.items():
-            _bkey = _fn(b_name)
-            if _bkey in batter_map:
+            _bkey = _bm_norm.get(_fn(b_name))
+            if _bkey and _bkey in batter_map:
                 for _fld in ("slg_vs_rhp","slg_vs_lhp","hr_pct_vs_rhp","hr_pct_vs_lhp",
                               "hr_count_vs_rhp","hr_count_vs_lhp","slg_home","slg_road",
                               "hr_home","hr_road","ba_vs_rhp","ba_vs_lhp",
                               "wrc_plus_vs_rhp","wrc_plus_vs_lhp","ba_home","ba_road"):
                     if _fld in splits: batter_map[_bkey][_fld] = splits[_fld]
+                _bhs_enriched += 1
+        if _bhs_enriched:
+            print(f"  ✅ Batter hand/home-road enrichment: {_bhs_enriched} batters matched")
+        else:
+            print(f"  ⚠️  Batter hand/home-road enrichment: 0 matched ({len(_batter_splits_data)} fetched)")
 
         # L7 BA/SLG — "Aranda .409/.682 last 7 days"
         _l7_id_map = {
@@ -9337,13 +9327,13 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             {k:v for k,v in _l7_id_map.items() if v > 0},
             SEASON_YEAR, target_date or date.today())
         for b_name, stats in _l7_data.items():
-            _bkey = _fn(b_name)
-            if _bkey in batter_map:
+            _bkey = _bm_norm.get(_fn(b_name))
+            if _bkey and _bkey in batter_map:
                 for _fld in ("l7_ba","l7_slg","l7_hr"):
                     if _fld in stats: batter_map[_bkey][_fld] = stats[_fld]
                 _ha_enriched += 1
         if _ha_enriched:
-            print(f"  ✅ Home/away ERA enrichment: {_ha_enriched} pitchers")
+            print(f"  ✅ L7 BA/SLG enrichment: {_ha_enriched} batters matched")
 
     except Exception as _hae:
         print(f"  ⚠️ Home/away ERA enrichment skipped: {_hae}")
@@ -9471,8 +9461,19 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
         _l10_enriched = 0
         for b_key, stats in _l10_bbe_data.items():
             b_name = _id_to_name_l10.get(str(b_key), b_key)
-            _bkey = _fn(b_name)
-            if _bkey in batter_map:
+            # BUG FIX (Aug 11 2026, confirmed via chain trace): b_name, when
+            # resolved via ID, is ALREADY an exact batter_map key verbatim -
+            # it came directly from `for nm in batter_map: _l7_id_map_l10[nm]
+            # = _pid`, i.e. from batter_map's own keys, unmodified. The old
+            # code then ran it through _fn() (lowercases) and checked THAT
+            # against batter_map, which is keyed by original case ("Luis
+            # Arraez", not "luis arraez") - a comparison that can never
+            # succeed. Real trace: id 703601 correctly resolved to 'Max
+            # Clark' (a real batter_map key), but 'max clark' was reported
+            # not in batter_map, which is exactly this bug. Use b_name
+            # directly - no re-normalization needed since it's already the
+            # correct key when the ID lookup succeeds.
+            if b_name in batter_map:
                 for _fld in ("l10_bbe_count","l10_iso","l10_barrel_pct",
                              "l10_hh_pct","l10_air_pct","l10_gb_pct",
                              "l10_fb_pct","l10_pull_pct","l10_pullbrl_pct",
@@ -9480,7 +9481,7 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
                              "l10_hr_count"):
                     if _fld in stats:
                         try:
-                            batter_map[_bkey][_fld] = stats[_fld]
+                            batter_map[b_name][_fld] = stats[_fld]
                         except Exception:
                             pass
                 _l10_enriched += 1
