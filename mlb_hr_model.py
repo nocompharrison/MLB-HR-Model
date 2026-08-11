@@ -7013,7 +7013,16 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
             raw = _resp.text if _resp.status_code == 200 else ""
             if _resp.status_code != 200:
                 print(f"     FanGraphs hand-split POST HTTP {_resp.status_code}")
-        except Exception:
+        except Exception as _hhe:
+            # NO LONGER SILENT (Aug 11 2026): this used to be `except Exception:
+            # raw = ""` with zero visibility - if _fg_request() itself raised
+            # (network error, timeout, curl_cffi internal error, anything not
+            # a clean HTTP status), nothing printed at all. Every log since the
+            # okhttp fix shows exactly this symptom: no status-code print, no
+            # success message, just silent "0 rows" - meaning the real failure
+            # has been happening HERE, one level before any status code is
+            # even available to print.
+            print(f"     FanGraphs hand-split request error: {type(_hhe).__name__}: {_hhe}")
             raw = ""
         if not raw or len(raw) < 200: continue
         try:
@@ -7748,7 +7757,13 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
             if isinstance(data, list):   return data
             if isinstance(data, dict):   return (data.get("data") or data.get("rows") or [])
             return []
-        except Exception:
+        except Exception as _tte:
+            # NO LONGER SILENT (Aug 11 2026) - same fix as the hand-splits
+            # function: this swallowed the real exception with zero output,
+            # which is why every TTO log since the okhttp fix shows "0 rows"
+            # with no status-code print at all - the failure is happening
+            # before _fg_request() ever returns a response to check.
+            print(f"     FanGraphs TTO request error: {type(_tte).__name__}: {_tte}")
             return []
 
     total_kept = 0
@@ -7915,7 +7930,9 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
                 print(f"     FanGraphs POST HTTP {_resp.status_code}")
             d = json.loads(raw)
             return d.get("data") or d.get("rows") or (d if isinstance(d, list) else [])
-        except Exception:
+        except Exception as _ste:
+            # NO LONGER SILENT (Aug 11 2026) - same fix as TTO above.
+            print(f"     FanGraphs situational request error: {type(_ste).__name__}: {_ste}")
             return []
 
     result: dict = {}
