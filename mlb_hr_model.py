@@ -6969,26 +6969,52 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
     Fix: use FanGraphs split leaderboard (strSplits=vs.%20LHB / vs.%20RHB)
     which correctly filters stats AGAINST left/right-handed batters.
     """
+    # ENDPOINT REWRITTEN (Aug 11 2026): the old GET endpoint
+    # (/api/leaders/splits/data?...&strSplits=vs.%20LHB...) returned a
+    # RAW 403 before the okhttp-header fix, which masked a second, separate
+    # problem underneath - once okhttp headers got the request PAST
+    # Cloudflare, this endpoint returned HTTP 405 (Method Not Allowed). That
+    # is a genuinely different signal: 405 means FanGraphs' own server
+    # received and rejected the request, proving the block itself is beaten -
+    # this specific endpoint/method combination is just stale. The confirmed-
+    # working endpoint for split data anywhere else in this file is POST
+    # https://www.fangraphs.com/api/leaders/splits/splits-leaders (see
+    # _fetch_pitcher_order_splits's TTO/situational splits, "confirmed Jun 27
+    # 2026", GET explicitly returns 405 there too). vs LHB/RHB is split_id 14
+    # and 15 respectively - already used and working for the SITUATIONAL
+    # splits fetch elsewhere in this file. Rebuilt this function on the same
+    # proven POST pattern instead of a second, independent, stale GET call.
     result: dict = {}
-    # FanGraphs splits leaderboard: strSplits filters by BATTER hand (vs LHB / vs RHB)
-    for split_label, key in [("vs.%20LHB", "hr9_vs_lhb"), ("vs.%20RHB", "hr9_vs_rhb")]:
-        url = (f"https://www.fangraphs.com/api/leaders/splits/data"
-               f"?season={year}&season1={year}&statType=pitcher"
-               f"&strSplits={split_label}&splitTeams=false&statgroup=1"
-               f"&startDate={year}-03-01&endDate={year}-12-01"
-               f"&players=&filter=&groupBy=name&career=0"
-               f"&pageitems=500&pagenum=1")
-        raw = _get_text(url)
-        if not raw or len(raw) < 200:
-            # Fallback: original leaderboard endpoint with split= parameter (home/away style)
-            batter_hand = "L" if "LHB" in split_label else "R"
-            url2 = (f"https://www.fangraphs.com/api/leaders/major-league/data"
-                    f"?age=&pos=p&stats=pit&lg=all&qual=10&season={year}"
-                    f"&season1={year}&startdate=&enddate=&month=0&hand=&team=0"
-                    f"&pageitems=500&pagenum=1&ind=0&rost=0&players=&type=0"
-                    f"&postseason=&sortdir=default&sortstat=ERA"
-                    f"&split=batter_{batter_hand.lower()}&splitTeam=false")
-            raw = _get_text(url2)
+    ENDPOINT = "https://www.fangraphs.com/api/leaders/splits/splits-leaders"
+    HAND_IDS = [("hr9_vs_lhb", 14), ("hr9_vs_rhb", 15)]
+    for key, split_id in HAND_IDS:
+        body = json.dumps({
+            "strPlayerId":      "all",
+            "strSplitArr":      [split_id],
+            "strSplitArrPitch": [],
+            "strGroup":         "season",
+            "strPosition":      "P",
+            "strType":          "2",        # "2" = pitching stats view (FIP/K9/HR9)
+            "strStatType":      "player",
+            "strAutoPt":        "true",
+            "strSplitTeams":    False,
+            "strStartDate":     f"{year}-03-01",
+            "strEndDate":       f"{year}-11-01",
+            "dctFilters":       [],
+            "arrPlayerId":      [],
+            "arrWxTemperature": None,
+            "arrWxPressure":    None,
+            "arrWxAirDensity":  None,
+            "arrWxElevation":   None,
+            "arrWxWindSpeed":   None,
+        }).encode("utf-8")
+        try:
+            _resp = _fg_request(ENDPOINT, method="POST", data=body, timeout=20)
+            raw = _resp.text if _resp.status_code == 200 else ""
+            if _resp.status_code != 200:
+                print(f"     FanGraphs hand-split POST HTTP {_resp.status_code}")
+        except Exception:
+            raw = ""
         if not raw or len(raw) < 200: continue
         try:
             import json
@@ -7719,8 +7745,11 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
     for tto_pass, split_id in TTO_IDS.items():
         rows = _post(split_id)
         if not rows:
-            print(f"    ⚠️  TTO #{tto_pass} (split_id={split_id}): 0 rows — "
-                  f"FanGraphs returned 403 BLOCKED (bot/UA filtering - NOT a rate limit; 429 is the throttle code). Grade will use available passes.")
+            print(f"  ⚠️  TTO #{tto_pass} (split_id={split_id}): 0 rows — "
+                  f"see HTTP status above (real code printed by _post() when non-200; "
+                  f"this used to hardcode '403 BLOCKED' unconditionally, which would have "
+                  f"hidden the 403->405 change confirmed on the hand-splits endpoint). "
+                  f"Grade will use available passes.")
             _t.sleep(0.5)
             continue
 
@@ -7762,7 +7791,14 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
               f"({n_full} with >=3 TTO passes, {total_kept} entries, "
               f"min {min_pa} TBF)")
     else:
-        print(f"  ⚠️  Pitcher TTO splits: 0 pitchers - FanGraphs POST BLOCKED (403 bot/UA filtering). "
+        # NO LONGER ASSUMES 403 (Aug 11 2026) - this printed "403 BLOCKED" on
+        # every empty result regardless of the REAL status code, which could
+        # mask exactly the kind of change (e.g. 403->405) that proved the
+        # okhttp fix was working on the hand-splits endpoint. The real status
+        # per split already prints above via _post()'s own HTTP-code line -
+        # this summary just states the observed outcome without re-asserting
+        # a specific cause.
+        print(f"  ⚠️  Pitcher TTO splits: 0 pitchers - see HTTP status per split above. "
               f"WEAK SPOT / PRIME WEAK SPOT grade will not fire this slate.")
     if result:
         try:
@@ -7917,7 +7953,8 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
         except Exception:
             pass
     else:
-        print(f"  ⚠️  Pitcher situational splits: 0 pitchers - FanGraphs BLOCKED (403 bot/UA filtering)")
+        # NO LONGER ASSUMES 403 (Aug 11 2026) - same fix as TTO splits above.
+        print(f"  ⚠️  Pitcher situational splits: 0 pitchers - see HTTP status per split above")
     return result
 
 
