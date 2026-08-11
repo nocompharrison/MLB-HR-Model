@@ -8064,101 +8064,27 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
 
     result: dict = {}
 
-    # ── Step 1: Pitch-type tab (type=23) for Zone% and HR/FB% per pitch ──────
-    # FanGraphs returns one row per pitcher per pitch type in this endpoint.
-    # Key fields: Zone% (fraction in zone), HR/FB (HR per fly ball on that pitch).
-    # Pitch type codes: FA=four-seam, SI=sinker, SL=slider, CH=changeup, CU=curve, FC=cutter, ST=sweeper
-    PT_MAP = {
-        "FA": "ff", "FF": "ff", "SI": "si", "SL": "sl",
-        "CH": "ch", "CU": "cu", "KC": "cu", "FC": "fc", "ST": "st",
-    }
-
-    try:
-        url_pt = (
-            f"https://www.fangraphs.com/api/leaders/major-league/data"
-            f"?age=0&pos=all&stats=pit&lg=all&qual=0&season={year}&season1={year}"
-            f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
-            f"&type=23&pageitems=5000&pagenum=1"
-        )
-        # BUG FOUND (Aug 11 2026): this made a completely bare
-        # `_req4.urlopen(url_pt, timeout=15)` call - no User-Agent, no headers
-        # of any kind. It was the one FanGraphs call site in this file that
-        # never received ANY of today's fixes (okhttp headers, gzip handling,
-        # curl_cffi fallback, error visibility) because it bypassed _get_text/
-        # _get/_fg_request entirely and built its own raw urllib call. Now
-        # routed through _get_text(), which detects the fangraphs.com URL and
-        # sends it through the full fixed chain like every other call in the
-        # file.
-        raw_pt = _get_text(url_pt, timeout=15)
-        if not raw_pt:
-            _d23 = {}
-        else:
-            _d23 = _json.loads(raw_pt)
-        _rows23 = _d23.get("data", []) if isinstance(_d23, dict) else []
-
-        # DIAGNOSTIC (Aug 11 2026). Request now succeeds (794 raw rows
-        # confirmed in a real run) but every row gets filtered out below -
-        # meaning one of the three per-row gates (name, pitch type, BF) is
-        # matching against a field name this endpoint doesn't actually use.
-        # Print the real keys and values of the first row so the next run
-        # shows exactly what's there instead of guessing at field names again.
-        if _rows23 and isinstance(_rows23[0], dict):
-            print(f"     pitch-type splits sample row keys: {sorted(_rows23[0].keys())}")
-            print(f"     pitch-type splits sample row values: {_rows23[0]}")
-
-        def _pct(v):
-            """Normalize FanGraphs rate — may be decimal (0.54) or pct (54.0)."""
-            try:
-                f = float(v)
-                return f * 100.0 if 0.0 < f < 1.5 else f
-            except:
-                return 0.0
-
-        for _row in _rows23:
-            _name = str(_row.get("PlayerName") or _row.get("playerName") or "").strip()
-            if not _name:
-                continue
-            # Pitch type identifier
-            _pt_raw = str(_row.get("PitchType") or _row.get("pitch_type") or "").strip().upper()
-            _pt_key = PT_MAP.get(_pt_raw)
-            if not _pt_key:
-                continue
-            # Sample size gate: only include pitch types with ≥30 batters faced
-            _bf = 0
-            try: _bf = int(float(_row.get("BF") or _row.get("PA") or 0))
-            except: pass
-            if _bf < 30:
-                continue
-            # Zone% — how often this pitch is in the zone
-            _zone = _pct(_row.get("Zone%") or _row.get("zone_pct") or _row.get("Zone") or 0)
-            # HR/FB% — HR per fly ball on this pitch type
-            _hrfb = _pct(_row.get("HR/FB") or _row.get("hr_fb") or _row.get("HRFB") or 0)
-            # Average velocity on this pitch type
-            _velo = 0.0
-            try: _velo = float(_row.get("Velocity") or _row.get("velo") or _row.get("MPH") or 0)
-            except: pass
-
-            if _name not in result:
-                result[_name] = {}
-            if _zone > 0:
-                result[_name][f"zone_pct_{_pt_key}"] = round(_zone, 1)
-            if _hrfb > 0:
-                result[_name][f"hr_fb_pct_{_pt_key}"] = round(_hrfb / 100.0, 4)  # store as fraction
-            if _velo > 0 and _pt_key == "ff":
-                result[_name]["avg_ff_velo"] = round(_velo, 1)
-
-        if result:
-            print(f"  ✅ FanGraphs pitch-type splits: {len(result)} pitchers (Zone%, HR/FB% per pitch type)")
-        elif not raw_pt:
-            # Distinguishes a real request failure (error already printed by
-            # _get_text/_fg_request above) from a 200-OK-but-empty/reshaped
-            # response, which needed its own diagnosis before this fix.
-            print(f"  ⚠️  FanGraphs pitch-type splits: request failed — see error above")
-        else:
-            print(f"  ⚠️  FanGraphs pitch-type splits: 0 rows — got a response but no usable "
-                  f"rows ({len(_rows23)} raw rows before filtering) — type=23 endpoint may have changed")
-    except Exception as _e23:
-        print(f"  ⚠️  FanGraphs pitch-type splits (type=23) failed: {_e23}")
+    # ══ RETIRED (Aug 11 2026) ═══════════════════════════════════════════════
+    # This block ("Step 1: Pitch-type tab, type=23") fetched per-pitch-type
+    # Zone% and HR/FB%. Diagnosed via a real sample row (Aug 11 2026): the
+    # type=23 endpoint no longer returns "one row per pitcher per pitch type"
+    # as this code assumed - it now returns one row per pitcher (full-season
+    # aggregate, hundreds of columns), with pitch-type breakdown embedded as
+    # separate USAGE/VELOCITY columns (FB%1/FBv, SL%/SLv, CT%/CTv, CB%/CBv,
+    # CH%/CHv) rather than separate rows with a "PitchType" field. No clean
+    # per-pitch-type equivalent for Zone% or HR/FB% was found in the response.
+    # Confirmed safe to retire: zone_pct_* and the per-pitch hr_fb_pct_ff/si/
+    # sl/ch/cu/fc/st fields this block wrote are NEVER read anywhere in
+    # scoring (zero attribute-access hits across the whole file - the only
+    # .hr_fb_pct_* reads are the unrelated season-wide pitcher.hr_fb_pct_
+    # allowed / batter.hr_fb_pct fields, not the per-pitch-type ones this
+    # block set). avg_ff_velo (also written here) is independently covered
+    # by Step 2 below via a `.get("avg_ff_velo") or round(...)` fallback,
+    # which has been silently carrying that field the whole time anyway,
+    # since this block has never actually populated anything (every row
+    # since this endpoint's shape changed was filtered out by the missing
+    # PitchType field, matching the type=23 warning already present in this
+    # code's original docstring before any of today's work).
 
     # ── Step 2: Game log (type=4) for per-start velocity → velo trend ─────────
     # Pull individual start entries, group by pitcher, compute L5 avg velo vs season.
@@ -9413,8 +9339,20 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             _l7_id_map_l10,
             target_date or date.today(),
             n_bbe=10, lookback_days=60)
+        # BUG FIX (Aug 11 2026): _fetch_batter_l10_bbe() returns its result
+        # keyed by player ID (confirmed via diagnostic: real sample keys were
+        # ['624523', '665846', '668965'] - numeric ID strings, not names) even
+        # though it was PASSED a {name: id} map. The enrichment loop below used
+        # to run the name-normalizer _fn() directly on these ID strings and
+        # look them up in batter_map (which is keyed by name) - guaranteed to
+        # never match, discarding real, correctly-fetched data every time
+        # (697 batters returned, 0 ever enriched). Build the reverse {id:
+        # name} map from the SAME _l7_id_map_l10 already in scope and resolve
+        # each ID back to its real name before doing the batter_map lookup.
+        _id_to_name_l10 = {str(_pid): _nm for _nm, _pid in _l7_id_map_l10.items()}
         _l10_enriched = 0
-        for b_name, stats in _l10_bbe_data.items():
+        for b_key, stats in _l10_bbe_data.items():
+            b_name = _id_to_name_l10.get(str(b_key), b_key)
             _bkey = _fn(b_name)
             if _bkey in batter_map:
                 for _fld in ("l10_bbe_count","l10_iso","l10_barrel_pct",
