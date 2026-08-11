@@ -155,6 +155,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import http.cookiejar
 import warnings
 import pytz
 from dataclasses import dataclass, field
@@ -1610,12 +1611,65 @@ def _browser_headers(url: str, accept: str = "application/json") -> dict:
 _RETRYABLE_HTTP = (403, 429, 502, 503)
 
 
+# ══ FANGRAPHS SESSION PRIMING (Aug 11 2026) ═══════════════════════════════
+# WHY: full browser headers (added Aug 4) did not fix the 403s - confirmed
+# still blocked on every FanGraphs endpoint as of Aug 11, across multiple
+# separate runs. Header-only requests were the first, cheaper thing to try;
+# them still failing points toward the API being gated behind SESSION STATE
+# (a cookie issued when a real browser loads the leaderboard PAGE first) rather
+# than purely inspecting the User-Agent per request. This is a standard anti-
+# bot pattern: the page load passes a JS/cookie challenge that a bare API call
+# skips entirely, so the API 403s regardless of how convincing the headers are.
+# FIX: before any FanGraphs API call, load the actual leaderboard HTML page
+# through a cookie-aware opener first, so any Set-Cookie the site issues is
+# captured and carried into the subsequent API request - exactly what a real
+# browser does automatically and a bare urlopen() call does not.
+# HONEST LIMITATION: this cannot be verified from the dev sandbox - network
+# access there is restricted to a fixed allowlist that does not include
+# fangraphs.com. This is a legitimate, standard escalation given headers alone
+# have now failed twice, not a confirmed fix. If 403s persist even with a
+# primed session, that points to IP-level blocking, which no in-code change
+# can solve - the next escalation after this would be a proxy.
+_FG_COOKIE_JAR = http.cookiejar.CookieJar()
+_FG_OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_FG_COOKIE_JAR))
+_FG_SESSION_PRIMED = False
+
+
+def _prime_fangraphs_session(timeout: int = 15) -> bool:
+    """Load the FanGraphs leaderboard page once per run to acquire session
+    cookies before any API call. Idempotent - subsequent calls are no-ops."""
+    global _FG_SESSION_PRIMED
+    if _FG_SESSION_PRIMED:
+        return True
+    try:
+        req = urllib.request.Request(
+            "https://www.fangraphs.com/leaders/major-league",
+            headers=_browser_headers("https://www.fangraphs.com/leaders/major-league",
+                                     accept="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"))
+        with _FG_OPENER.open(req, timeout=timeout) as resp:
+            resp.read(2048)   # don't need the body, just the Set-Cookie headers
+        _cookie_count = sum(1 for _ in _FG_COOKIE_JAR)
+        print(f"    FanGraphs session primed ({_cookie_count} cookies captured)")
+        _FG_SESSION_PRIMED = True
+        return True
+    except Exception as e:
+        print(f"    FanGraphs session priming failed ({e}) - API calls will use headers only")
+        return False
+
+
 def _get(url: str, timeout: int = 20, retries: int = 3) -> Optional[dict | list]:
     """GET with exponential backoff retry on connection errors."""
+    _is_fg = "fangraphs.com" in url
+    if _is_fg:
+        _prime_fangraphs_session()
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=_browser_headers(url))
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
+            # FanGraphs: route through the cookie-aware opener so the session
+            # cookie from _prime_fangraphs_session() actually rides along.
+            # Every other host keeps the plain urlopen() path unchanged.
+            _opener_fn = _FG_OPENER.open if _is_fg else urllib.request.urlopen
+            with _opener_fn(req, timeout=timeout) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code in _RETRYABLE_HTTP and attempt < retries - 1:
@@ -2079,17 +2133,74 @@ def load_daily_pitch(filepath: str = FANTASYLABS_FILE) -> tuple:
     ws = wb["DailyPitch"]
     rows = list(ws.iter_rows(values_only=True))
 
-    # Column spec (same for both blocks):
-    # last_name, first_name | player_id | team | pitch_type | pitch_name |
-    # rv/100 | run_value | pitches | pitch_usage | pa |
-    # ba | slg | woba | whiff% | k% | put_away | est_ba | est_slg | est_woba | hard_hit%
-    FIXED_COLS = {
+    # ══ DYNAMIC COLUMN DETECTION (Aug 11 2026) ═══════════════════════════════
+    # WHY: FIXED_COLS was a hardcoded position map. Diagnosed via a real case:
+    # "PITCH HR CONC coverage: woba_allowed_si=0 | woba_allowed_ff=0 |
+    # sinker_pct=494 pitchers" - sinker_pct and woba_allowed_si are read from the
+    # SAME per-pitch-type dict via the SAME pitcher.savant_id lookup (only the
+    # field name differs), which rules out a sheet-load failure or an ID-mismatch
+    # - both are proven working by sinker_pct populating for 494 pitchers. The
+    # failure is isolated to exactly one hardcoded index: FIXED_COLS["woba"]=12.
+    # pitch_usage (index 8) still lands correctly; woba (index 12) does not -
+    # consistent with FantasyLabs/Savant reordering the DailyPitch sheet's
+    # columns upstream, which a fixed-position map cannot survive silently.
+    # FIX: read the actual header row and match column names, falling back to
+    # the historical fixed positions only if a header row can't be found at all
+    # (matching prior behavior exactly in that edge case rather than crashing).
+    _COL_ALIASES = {
+        "last_name, first_name": ["last_name, first_name", "player_name", "name"],
+        "player_id": ["player_id", "playerid", "mlbam_id"],
+        "team_name_alt": ["team_name_alt", "team", "team_name"],
+        "pitch_type": ["pitch_type", "pitchtype"],
+        "pitch_name": ["pitch_name", "pitchname"],
+        "run_value_per_100": ["run_value_per_100", "pitch_run_value_per_100", "rv/100"],
+        "run_value": ["run_value", "pitch_run_value"],
+        "pitches": ["pitches", "pitch_count"],
+        "pitch_usage": ["pitch_usage", "usage", "pct_usage"],
+        "pa": ["pa"],
+        "ba": ["ba", "batting_avg"],
+        "slg": ["slg"],
+        "woba": ["woba"],
+        "whiff_percent": ["whiff_percent", "whiff_pct", "whiff%"],
+        "k_percent": ["k_percent", "k_pct", "k%"],
+        "put_away": ["put_away", "putaway"],
+        "est_ba": ["est_ba", "xba"],
+        "est_slg": ["est_slg", "xslg"],
+        "est_woba": ["est_woba", "xwoba"],
+        "hard_hit_percent": ["hard_hit_percent", "hard_hit_pct", "hardhit%"],
+    }
+    def _detect_cols(header_row):
+        found = {}
+        cells = [str(c or "").strip().lower() for c in header_row]
+        for key, aliases in _COL_ALIASES.items():
+            for alias in aliases:
+                if alias in cells:
+                    found[key] = cells.index(alias)
+                    break
+        return found
+
+    _FALLBACK_COLS = {
         "last_name, first_name": 0, "player_id": 1, "team_name_alt": 2,
         "pitch_type": 3, "pitch_name": 4, "run_value_per_100": 5, "run_value": 6,
         "pitches": 7, "pitch_usage": 8, "pa": 9, "ba": 10, "slg": 11,
         "woba": 12, "whiff_percent": 13, "k_percent": 14, "put_away": 15,
         "est_ba": 16, "est_slg": 17, "est_woba": 18, "hard_hit_percent": 19,
     }
+    _header_row = next((r for r in rows if r and any(
+        "last_name" in str(c or "").lower() or str(c or "").strip().lower() == "player_id"
+        for c in r[:5])), None)
+    if _header_row is not None:
+        _detected = _detect_cols(_header_row)
+        # Require at least the columns this function actually reads; anything
+        # not found keeps its historical fixed position as a safety net.
+        FIXED_COLS = {**_FALLBACK_COLS, **_detected}
+        _missing = [k for k in _FALLBACK_COLS if k not in _detected]
+        if _missing:
+            print(f"   DailyPitch: header-matched {len(_detected)}/{len(_FALLBACK_COLS)} columns "
+                  f"by name; using fixed fallback position for: {_missing}")
+    else:
+        FIXED_COLS = _FALLBACK_COLS
+        print("   DailyPitch: no header row found, using fixed column positions (unverified)")
 
     def _sf(row, col_idx, default=0.0):
         if col_idx < len(row) and row[col_idx] is not None:
@@ -7437,8 +7548,13 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
             },
             method="POST",
         )
+        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
+        # opener instead of a bare urlopen() - this endpoint 403s the same way
+        # the GET endpoints do, and a bare urlopen() never carries the session
+        # cookie _prime_fangraphs_session() acquires.
+        _prime_fangraphs_session()
         try:
-            with urllib.request.urlopen(req, timeout=20) as r:
+            with _FG_OPENER.open(req, timeout=20) as r:
                 raw = r.read().decode("utf-8", errors="replace")
             if not raw or len(raw) < 200:
                 return []
@@ -7602,8 +7718,13 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
             },
             method="POST",
         )
+        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
+        # opener instead of a bare urlopen() - this endpoint 403s the same way
+        # the GET endpoints do, and a bare urlopen() never carries the session
+        # cookie _prime_fangraphs_session() acquires.
+        _prime_fangraphs_session()
         try:
-            with urllib.request.urlopen(req, timeout=20) as r:
+            with _FG_OPENER.open(req, timeout=20) as r:
                 raw = r.read().decode("utf-8", errors="replace")
             d = json.loads(raw)
             return d.get("data") or d.get("rows") or (d if isinstance(d, list) else [])
@@ -25745,6 +25866,40 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # Use the ranking_score-based rank so it matches the main Rankings tab
         rank_idx = _rank_lookup.get(sc.batter_name, 99)
         sh = _score_sharp(sc, rank=rank_idx)
+
+        # TOP-RANKED CARD POSITION DIFFERENTIATOR (fixed Aug 11 2026, replacing a
+        # wrong Aug 10 wiring). The backtest was ALWAYS built on this exact
+        # mechanism - rank_idx here, matching the medal-rank column in the main
+        # Rankings tab (rows sorted by (score, hr_probability) desc). The Aug 10
+        # implementation attached the flag to _top5_capped[:3] instead - the
+        # 5-pick HR CARD's position after priority-tier sorting and team/pitcher
+        # caps, a DIFFERENT population than what was validated. Real case, Aug 10:
+        # medal rank #1-3 were Nimmo/Trout/Alonso (hr_probability 0.2019/0.1998/
+        # 0.1749 breaking the Score=65 tie, exactly as measured); the flag instead
+        # fired on Burger/Schwarber/Contreras, who hold no relationship to the
+        # backtested finding. Corrected to key off rank_idx directly.
+        # Also correcting the MECHANISM claim: earlier text attributed the tie-
+        # break to Conv/100. Traced the actual sort key (three call sites,
+        # `ranked.sort(key=lambda x: (round(x.score,1), x.hr_probability))`) and
+        # confirmed it is hr_probability, not Conv/100. The Aug 9 case that
+        # suggested Conv/100 was a coincidental correlation, not the mechanism -
+        # both likely derive from similar Vuln/Odds/PM inputs. The STATISTICAL
+        # finding is unaffected (it was always measured off the real medal-rank
+        # column); only the causal explanation was wrong.
+        # Pre- vs post-Aug4: top-3 by medal rank 17.9% -> 55.6% (43/240, 80sl ->
+        # 10/18, 6sl), Fisher p=0.0007, bootstrap 90% CI [+12.4pp, +62.5pp], base
+        # rate flat over the same window (16.4% -> 15.1%, p=0.47 - not a hot
+        # league). Differentiator only, zero conviction credit - the effect
+        # already lives in the ranking itself.
+        if rank_idx <= 3:
+            sh.setdefault('flags', []).append(
+                f"\U0001F3C6 TOP-RANKED CARD POSITION #{rank_idx}: post-fix top-3 by medal rank "
+                f"running 55.6% HR (10/18, 6sl since Aug 4) vs 17.9% pre-fix (43/240, 80sl) \u2014 "
+                f"Fisher p=0.0007, bootstrap 90% CI [+12.4pp, +62.5pp], base rate flat over the "
+                f"same window (not a hot league). Still thin (6 post-fix slates) \u2014 watch as "
+                f"it accumulates. Differentiator only, zero conviction credit."
+            )
+
         scored.append((sc, sh))
 
     row = 1
@@ -29301,9 +29456,53 @@ def _sheet_sharp_picks(wb, scores, top_n):
         except Exception:
             return 99999.0
 
-    _prio, _rest = [], []
+    # MEDAL-RANK GUARANTEE (Aug 11 2026). Priority Tier's own gate (Vuln>=52) was
+    # excluding a population that, since Aug 4, has been converting far better
+    # than what card selection actually produces:
+    #     medal rank top-3 (sorted by score, hr_probability - the exact order
+    #     behind the CSV Rank column / the "Rankings" tab medals) ran 55.6% HR
+    #     and 90.5% Hit since Aug 4 (10/18 and 19/21, 6-7sl).
+    # Measured the overlap between medal-rank top-3 and what card selection
+    # ACTUALLY produced on the 4 slates with both available: 1 of 20 HR-pick
+    # slots (5%), 3 of 40 hit-pick slots (8%) - statistically indistinguishable
+    # from ZERO relationship (random overlap on a ~90-batter slate would also
+    # land near 5-6%). Real case, Aug 10: Mike Trout was medal rank #2
+    # (hr_probability 0.1998), Conv/100=78 - one of the strongest-graded HR
+    # profiles on the whole slate, with real negatives (K-Danger vs an elite-K
+    # pitcher, park trap zone, xHR luck-regression caution) already netted in -
+    # and did not make the 5-pick card because Vuln 44.3 never cleared the tier
+    # gate. He homered.
+    # This tier does NOT replace the Priority Tier (202 qualifiers, 77 slates,
+    # 1.89x - the deeper-validated signal keeps first claim on slots). It fills
+    # the gap the Vuln gate leaves: any of medal rank 1-3 not already captured
+    # by the Priority Tier are guaranteed a look, bypassing Vuln>=52 specifically.
+    # Team/pitcher diversity caps still apply downstream like any other pick -
+    # this changes WHO enters the pool, not the diversity rules once inside it.
+    # STILL YOUNG: 6-7 post-Aug4 slates behind both findings. Labeled distinctly
+    # on the card so its own hit rate can be tracked separately from Priority
+    # Tier's and revisited if it does not hold past ~20 slates.
+    # RESERVE=2 (Aug 11 2026): 2 of the 5 card slots are now reserved for this
+    # tier when medal-rank candidates exist, not just leftover slots after
+    # Priority Tier fills up. See the reserve-slot comment at the hr_picks
+    # assembly line below for the simulation that justified this.
+    _prio, _medal, _rest = [], [], []
     for _pt_sc, _pt_sh in hr_picks:
-        (_prio if _priority_qualifies(_pt_sc, _pt_sh) else _rest).append((_pt_sc, _pt_sh))
+        if _priority_qualifies(_pt_sc, _pt_sh):
+            _prio.append((_pt_sc, _pt_sh))
+        elif (_pt_sh.get('rank') or 99) <= 3:
+            _medal.append((_pt_sc, _pt_sh))
+        else:
+            _rest.append((_pt_sc, _pt_sh))
+    _medal.sort(key=lambda t: (t[1].get('rank') or 99))
+    for _md_rank, (_md_sc, _md_sh) in enumerate(_medal, 1):
+        _md_sh.setdefault('flags', []).append(
+            f"\U0001F947 MEDAL-RANK GUARANTEE (medal #{_md_sh.get('rank')}): bypassed the Priority "
+            f"Tier's Vuln>=52 gate on medal-rank position alone. Medal-rank top-3 running 55.6% HR "
+            f"/ 90.5% Hit since Aug 4 (10/18, 19/21, 6-7sl) vs ~5-8% overlap between medal top-3 and "
+            f"what card selection otherwise produces - two near-independent rankings. Still young "
+            f"(6-7 post-fix slates) - tracked separately from Priority Tier, revisit past ~20sl."
+        )
+    # Shortest price first WITHIN the tier - price is the ranker, not Score.
     # Shortest price first WITHIN the tier — price is the ranker, not Score.
     # TIE-BREAK FIX (Aug 9 2026, RE-APPLIED after a sandbox reset lost the first
     # copy before it reached GitHub). Price-only sort left ties broken by
@@ -29354,10 +29553,30 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # sh["_hr_conv"] is already cached by the sorted() call that built hr_picks
     # above, so this costs nothing extra to read.
     _rest.sort(key=lambda t: (-(t[1].get("_hr_conv") or 0), _priority_price(t[0])))
-    if _prio:
-        hr_picks = _prio + _rest
-    else:
-        hr_picks = _rest
+    # RESERVE=2 (Aug 11 2026). Simulated 4 designs against the 7 slates with full
+    # data (Aug 4-10, n=35 total 5-pick-card slots):
+    #     reserve=0 (fill leftover only)  7/35 = 20.0%
+    #     reserve=1                      10/35 = 28.6%
+    #     reserve=2                      10/35 = 28.6%  <- shipped
+    #     reserve=3                      11/35 = 31.4%
+    # Reserving NEVER underperformed reserve=0 on any single slate - only tied
+    # or won. reserve=1 and reserve=2 tied exactly; reserve=3 added one more
+    # pick (Aug 7) but is a more aggressive design. Picked reserve=2 as the
+    # balance point per Harrison's decision.
+    # HONEST CAVEAT: most of the gain came from swapping a CONVERTING Priority
+    # Tier pick for two CONVERTING medal-rank picks on slates with 3+ real HR
+    # getters (Aug 6: Olson out, Bleday+De La Cruz in; Aug 9: Marte out, Bauers+
+    # Alonso in) - i.e. capturing more winners within a fixed 5-slot card on
+    # rich slates, not "medal-rank beats a losing Priority Tier pick" per se.
+    # n=35 is thin; trust the direction (reserve>0 >= reserve=0 every time
+    # tested), not the exact magnitude, until more slates accumulate.
+    # Reserve the top _RESERVE_MEDAL_SLOTS slots for Medal-Rank Guarantee members
+    # not already in _prio; Priority Tier auto-fills only the slots ahead of that
+    # reserve, with any excess qualifiers still eligible to fill leftover slots
+    # after medal-rank and before the generic _rest pool.
+    _RESERVE_MEDAL_SLOTS = 2
+    _prio_auto_cap = max(0, 5 - _RESERVE_MEDAL_SLOTS)
+    hr_picks = _prio[:_prio_auto_cap] + _medal + _prio[_prio_auto_cap:] + _rest
 
     _top5_capped = []
     _overflow = []
@@ -29390,26 +29609,6 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # Fill remaining slots from overflow if cap freed up positions
     while len(_top5_capped) < 5 and _overflow:
         _top5_capped.append(_overflow.pop(0))
-
-    # TOP-RANKED CARD POSITION DIFFERENTIATOR (Aug 10 2026). Measured pre- vs
-    # post-Aug4 (when the priority tier, rest-of-card Conv/100 re-rank, and
-    # NUCLEAR credit reduction landed): top-3 CARD POSITION HR rate jumped
-    # 17.9% -> 55.6% (43/240 -> 10/18, Fisher p=0.0007). Slate-bootstrap median
-    # +37.6pp, 90% CI [+12.4pp, +62.5pp], 99% of resamples positive - real even
-    # accounting for only 6 post-fix slates. Whole-slate base rate did NOT rise
-    # in the same window (16.4% -> 15.1%, p=0.47) - this is specific to card
-    # position, not the league running hot. Mechanism: many batters tie on raw
-    # Score, and Conv/100 (sharpened by this week's fixes) is what breaks that
-    # tie and decides who actually lands at #1. Surfaced as a differentiator,
-    # not additional conviction points - the effect already lives IN Conv/100
-    # and the ordering; this flag makes it visible rather than double-counting it.
-    for _tr_rank, (_tr_sc, _tr_sh) in enumerate(_top5_capped[:3], 1):
-        _tr_sh.setdefault('flags', []).append(
-            f"\U0001F3C6 TOP-RANKED CARD POSITION #{_tr_rank}: post-fix top-3 running 55.6% HR "
-            f"(10/18, 6sl since Aug 4) vs 17.9% pre-fix (43/240, 80sl) \u2014 Fisher p=0.0007, "
-            f"bootstrap 90% CI [+12.4pp, +62.5pp] on the shift, base rate flat over the same "
-            f"window (not a hot league). Still thin (6 post-fix slates) \u2014 watch as it accumulates."
-        )
 
     # Rebuild full list: capped top-5 + overflow (preserves original order beyond 5)
     hr_picks = _top5_capped + _overflow
@@ -30501,6 +30700,34 @@ def _sheet_sharp_picks(wb, scores, top_n):
          (35 <= sc.hit_score < 40) or
          (sc.hit_score >= 47 and sc.hit_score > 0)],
         key=lambda x: (-_hit_conviction(x[0],x[1]), -x[0].hit_score))
+
+    # MEDAL-RANK GUARANTEE - HIT SIDE (Aug 11 2026). The HR-oriented medal-rank
+    # column (sorted by score, hr_probability) has ALSO been running 90.5% Hit
+    # in the top-3 since Aug 4 (19/21, 7sl, p=0.0148) - stronger than the HR-side
+    # finding (55.6%). There is no hit-specific medal ranking; this is the same
+    # rank column checked against hit outcomes instead of HR outcomes.
+    # UNLIKE the HR card, there is no hard top-10 cap in this file - the actual
+    # "Top 10 Hit Picks" selection happens later, by hand, from whatever this
+    # sorted list contains. So the fix here is to make sure a medal-rank top-3
+    # batter (a) is NEVER filtered out of hit_picks even if they miss every
+    # grade/hit_pts condition above (STANDING RULE: never exclude picks), and
+    # (b) sits near the top of the list a human or conversation would read from,
+    # not buried wherever raw hit_conviction happened to place them.
+    _hp_names = {sc.batter_name for sc,sh in hit_picks}
+    _medal_hit = sorted(
+        [(sc,sh) for sc,sh in scored
+         if (sh.get('rank') or 99) <= 3 and sc.batter_name not in _hp_names],
+        key=lambda x: (x[1].get('rank') or 99))
+    for _mh_sc, _mh_sh in _medal_hit:
+        _mh_sh.setdefault('flags', []).append(
+            f"\U0001F947 MEDAL-RANK GUARANTEE (HIT, medal #{_mh_sh.get('rank')}): would not have "
+            f"otherwise qualified for the hit list under the standard grade/hit_pts filter. Medal-"
+            f"rank top-3 running 90.5% Hit since Aug 4 (19/21, 7sl, p=0.0148) vs 62.9% pre-fix "
+            f"(151/240, 80sl) - stronger than the equivalent HR-side finding. Still young (7 "
+            f"post-fix slates). Forced into the list per the standing never-exclude-picks rule; "
+            f"place it near the top of the Top 10 when building the card by hand."
+        )
+    hit_picks = _medal_hit + hit_picks
 
     # ── PLAY / LEAN / PASS tag for hits (Jun 2026) ──────────────────────────
     # Hits run on different drivers than HR (base ~60%). Validated signals only.
