@@ -8118,6 +8118,18 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
             _dgl = _json.loads(_r.read())
         _rowsgl = _dgl.get("data", []) if isinstance(_dgl, dict) else []
 
+        # DIAGNOSTIC (Aug 11 2026). Every pitcher showed <3 game-log rows
+        # (748 pitchers, 0 with >=3 starts) - not plausible for real per-start
+        # data across a season. Same suspected cause as the type=23 endpoint,
+        # which was confirmed (via an identical sample-row diagnostic) to have
+        # drifted from "one row per X" to "one row per pitcher, season
+        # aggregate". Print a real sample row so the next log shows definitively
+        # whether type=4 has done the same thing, rather than assuming.
+        if _rowsgl and isinstance(_rowsgl[0], dict):
+            print(f"     game-log sample row keys: {sorted(_rowsgl[0].keys())}")
+            print(f"     game-log sample row values: {_rowsgl[0]}")
+            print(f"     game-log total raw rows: {len(_rowsgl)}")
+
         # Group per-start velocity rows by pitcher
         _starts_by_pitcher: dict = {}
         for _row in _rowsgl:
@@ -9443,6 +9455,19 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
         _l10_id_overlap = len(set(_id_to_name_l10.keys()) & set(str(k) for k in _l10_bbe_data.keys()))
         print(f"     L10 ID overlap check: {_l10_id_overlap} of {len(_l10_bbe_data)} L10 keys "
               f"match a computed batter ID")
+        # DIAGNOSTIC (Aug 11 2026). 11 IDs are confirmed to overlap, but final
+        # enrichment is still 0 - meaning even the matching cases break
+        # somewhere AFTER id resolution. Trace the complete chain (id -> name
+        # -> normalized key -> batter_map membership) for the actual
+        # overlapping IDs, to see exactly where it breaks rather than guess.
+        _overlap_ids = list(set(_id_to_name_l10.keys()) & set(str(k) for k in _l10_bbe_data.keys()))[:3]
+        for _oid in _overlap_ids:
+            _resolved_name = _id_to_name_l10.get(_oid, "<NOT FOUND>")
+            _norm_key = _fn(_resolved_name)
+            _in_map = _norm_key in batter_map
+            print(f"     L10 chain trace [id={_oid}]: resolved_name={_resolved_name!r} | "
+                  f"normalized_key={_norm_key!r} | in batter_map={_in_map} | "
+                  f"batter_map sample keys nearby: {[k for k in list(batter_map.keys())[:2]]}")
         _l10_enriched = 0
         for b_key, stats in _l10_bbe_data.items():
             b_name = _id_to_name_l10.get(str(b_key), b_key)
