@@ -8096,6 +8096,16 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
             _d23 = _json.loads(raw_pt)
         _rows23 = _d23.get("data", []) if isinstance(_d23, dict) else []
 
+        # DIAGNOSTIC (Aug 11 2026). Request now succeeds (794 raw rows
+        # confirmed in a real run) but every row gets filtered out below -
+        # meaning one of the three per-row gates (name, pitch type, BF) is
+        # matching against a field name this endpoint doesn't actually use.
+        # Print the real keys and values of the first row so the next run
+        # shows exactly what's there instead of guessing at field names again.
+        if _rows23 and isinstance(_rows23[0], dict):
+            print(f"     pitch-type splits sample row keys: {sorted(_rows23[0].keys())}")
+            print(f"     pitch-type splits sample row values: {_rows23[0]}")
+
         def _pct(v):
             """Normalize FanGraphs rate — may be decimal (0.54) or pct (54.0)."""
             try:
@@ -9420,6 +9430,22 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
                 _l10_enriched += 1
         if _l10_enriched:
             print(f"  ✅ L10 BBE enrichment: {_l10_enriched} batters")
+        elif _l10_bbe_data:
+            # DIAGNOSTIC (Aug 11 2026): _l10_bbe_data came back non-empty (the
+            # BZM season cache line right above this in the log routinely
+            # shows ~697 batters) but 0 of them matched batter_map - the old
+            # message asserted a cause ("pybaseball unavailable or Savant
+            # blocked") that does not fit a case where the fetch clearly
+            # succeeded. Much more likely the same class of bug already fixed
+            # elsewhere in this file for pitcher names ("Last,First vs First
+            # Last matching") - a name-normalization mismatch between the BZM
+            # cache keys and batter_map keys. Same diagnostic pattern already
+            # used for TTO splits 0-match, applied here.
+            _s_l10 = list(_l10_bbe_data.keys())[:3]
+            _s_bm  = list(batter_map.keys())[:3]
+            print(f"  ⚠️  L10 BBE: {len(_l10_bbe_data)} batters returned but 0 matched "
+                  f"batter_map - likely a name-format mismatch, not missing data. "
+                  f"L10 sample={_s_l10} | batter_map sample={_s_bm}")
         else:
             print(f"  ℹ️  L10 BBE enrichment: 0 batters (pybaseball unavailable or Savant blocked)")
     except Exception as _l10e:
