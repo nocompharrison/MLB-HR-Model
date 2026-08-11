@@ -9199,7 +9199,8 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             if "velo_trend"  in _pt_data: _pm_obj.velo_trend   = _pt_data["velo_trend"]
             _pt_enriched += 1
         if _pt_enriched:
-            print(f"  ✅ Pitch-type splits enrichment: {_pt_enriched} pitchers updated (Zone%, HR/FB%, velo trend)")
+            print(f"  ✅ Pitch-type splits enrichment: {_pt_enriched} pitchers updated (avg_ff_velo "
+                  f"only - Zone%/HR-FB% retired, L5/trend unavailable; see earlier notes)")
         else:
             print(f"  ⚠️  Pitch-type splits enrichment: 0 matched ({len(_pt_splits_data)} entries)")
     except Exception as _pte:
