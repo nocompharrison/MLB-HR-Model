@@ -1784,6 +1784,39 @@ def _get(url: str, timeout: int = 20, retries: int = 3) -> Optional[dict | list]
 
 def _get_text(url: str, timeout: int = 20, retries: int = 3) -> Optional[str]:
     """GET returning raw text (for CSV endpoints)."""
+    # FANGRAPHS GAP FOUND (Aug 11 2026): _get_text() is a SEPARATE function
+    # from _get() - used for CSV/text endpoints across many sources (Savant,
+    # ESPN, MLB Stats API, AND FanGraphs). Every FanGraphs fix this session
+    # (session priming, curl_cffi, okhttp headers) only touched _get() and the
+    # two POST splits functions. Five FanGraphs call sites route through THIS
+    # function instead (pitch-type splits type=23, situational splits for both
+    # pitchers and batters) and never got any of those fixes - confirmed by a
+    # real log still showing the pre-fix message text verbatim
+    # ("HTTP 403 BLOCKED (bot/UA filtering, not a rate limit) - {url}", the
+    # exact original string, not the curl_cffi/okhttp-branch wording). Fixed
+    # the same way as _get(): branch to _fg_request() for FanGraphs URLs so
+    # this function's other five FanGraphs call sites - and any future one -
+    # get the fix automatically rather than needing to hunt down each one.
+    _is_fg = "fangraphs.com" in url
+    if _is_fg:
+        for attempt in range(retries):
+            try:
+                resp = _fg_request(url, method="GET", timeout=timeout)
+                if resp.status_code == 200:
+                    return resp.text
+                if resp.status_code in _RETRYABLE_HTTP and attempt < retries - 1:
+                    time.sleep((4 ** attempt) if resp.status_code == 403 else (2 ** attempt))
+                    continue
+                if resp.status_code != 404:
+                    print(f"    HTTP {resp.status_code} (okhttp/curl_cffi attempted) - {url}")
+                return None
+            except Exception as e:
+                if attempt < retries - 1:
+                    time.sleep(2 ** attempt)
+                else:
+                    print(f"    Fetch error: {e}")
+                    return None
+        return None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(
