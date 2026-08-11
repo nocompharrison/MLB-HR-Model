@@ -1612,64 +1612,108 @@ _RETRYABLE_HTTP = (403, 429, 502, 503)
 
 
 # ══ FANGRAPHS SESSION PRIMING (Aug 11 2026) ═══════════════════════════════
-# WHY: full browser headers (added Aug 4) did not fix the 403s - confirmed
-# still blocked on every FanGraphs endpoint as of Aug 11, across multiple
-# separate runs. Header-only requests were the first, cheaper thing to try;
-# them still failing points toward the API being gated behind SESSION STATE
-# (a cookie issued when a real browser loads the leaderboard PAGE first) rather
-# than purely inspecting the User-Agent per request. This is a standard anti-
-# bot pattern: the page load passes a JS/cookie challenge that a bare API call
-# skips entirely, so the API 403s regardless of how convincing the headers are.
-# FIX: before any FanGraphs API call, load the actual leaderboard HTML page
-# through a cookie-aware opener first, so any Set-Cookie the site issues is
-# captured and carried into the subsequent API request - exactly what a real
-# browser does automatically and a bare urlopen() call does not.
-# HONEST LIMITATION: this cannot be verified from the dev sandbox - network
-# access there is restricted to a fixed allowlist that does not include
-# fangraphs.com. This is a legitimate, standard escalation given headers alone
-# have now failed twice, not a confirmed fix. If 403s persist even with a
-# primed session, that points to IP-level blocking, which no in-code change
-# can solve - the next escalation after this would be a proxy.
+# WHY (revised Aug 11 2026, superseding the session-priming theory below).
+# Full browser headers (Aug 4) did not fix the 403s. Session-cookie priming
+# (Aug 9) did not either - "FanGraphs session priming failed (HTTP Error 403:
+# Forbidden)" on a bare PAGE load pointed at IP-level blocking, since a page
+# load has no API-specific fingerprint to catch.
+# REAL EVIDENCE THAT OVERTURNS THAT (Aug 11 2026): Harrison opened the exact
+# blocked URL in his own browser, from the same machine/network the script
+# runs on, and got real data back. If this were IP/ASN-level blocking, the
+# browser would fail too - it does not. That rules out IP blocking entirely.
+# ACTUAL CAUSE: Cloudflare-class bot protection (which FanGraphs' 403 pattern
+# is consistent with) increasingly fingerprints the TLS HANDSHAKE itself -
+# cipher suite order, extension list, ALPN - not just the HTTP headers riding
+# on top of it. Python's urllib (and requests) has a distinctly different TLS
+# signature from Chrome/Firefox, detectable before a single header is read.
+# Perfect browser HEADERS cannot fix a problem one layer below the headers.
+# FIX: curl_cffi (curl-impersonate), a library built specifically to replicate
+# real browser TLS fingerprints, not just header values. This is the standard
+# tool for exactly this class of Cloudflare-style protection.
+# HONEST LIMITATION: still cannot be verified from the dev sandbox - network
+# access there is a fixed allowlist that does not include fangraphs.com. This
+# is a well-evidenced next step (built directly from the browser-vs-script
+# discrepancy Harrison observed), not a confirmed fix. If curl_cffi ALSO gets
+# blocked, that would point to something more specific to this exact library's
+# fingerprint, or a per-account/referrer check - not IP blocking, which is
+# already ruled out.
+try:
+    from curl_cffi import requests as _cf_requests
+    _CURL_CFFI_OK = True
+except ImportError:
+    _CURL_CFFI_OK = False
+    print("     curl_cffi not installed - FanGraphs will keep 403ing on TLS "
+          "fingerprint. Run: pip install curl_cffi --break-system-packages")
+
+# Kept as harmless no-ops so the four existing call sites (_get, the two
+# fetch_pitcher_discipline sub-fetches, and the two splits POST endpoints)
+# don't need to change - they still reference _FG_OPENER / _prime_fangraphs_
+# session, which now do nothing, while the real request goes through
+# _fg_request() below.
 _FG_COOKIE_JAR = http.cookiejar.CookieJar()
 _FG_OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_FG_COOKIE_JAR))
-_FG_SESSION_PRIMED = False
+_FG_SESSION_PRIMED = True
 
 
 def _prime_fangraphs_session(timeout: int = 15) -> bool:
-    """Load the FanGraphs leaderboard page once per run to acquire session
-    cookies before any API call. Idempotent - subsequent calls are no-ops."""
-    global _FG_SESSION_PRIMED
-    if _FG_SESSION_PRIMED:
-        return True
-    try:
-        req = urllib.request.Request(
-            "https://www.fangraphs.com/leaders/major-league",
-            headers=_browser_headers("https://www.fangraphs.com/leaders/major-league",
-                                     accept="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"))
-        with _FG_OPENER.open(req, timeout=timeout) as resp:
-            resp.read(2048)   # don't need the body, just the Set-Cookie headers
-        _cookie_count = sum(1 for _ in _FG_COOKIE_JAR)
-        print(f"    FanGraphs session primed ({_cookie_count} cookies captured)")
-        _FG_SESSION_PRIMED = True
-        return True
-    except Exception as e:
-        print(f"    FanGraphs session priming failed ({e}) - API calls will use headers only")
-        return False
+    """No-op (Aug 11 2026) - superseded by curl_cffi TLS impersonation, which
+    needs no priming step. Kept so old call sites don't need editing."""
+    return True
+
+
+def _fg_request(url, method="GET", data=None, headers=None, timeout=20):
+    """Single choke point for every FanGraphs request. Uses curl_cffi with
+    Chrome TLS impersonation when available; falls back to plain urllib
+    (which is already known to 403) so the caller's own retry/error-reporting
+    logic still runs and prints something useful either way."""
+    _hdrs = headers or _browser_headers(url)
+    if _CURL_CFFI_OK:
+        if method == "POST":
+            return _cf_requests.post(url, data=data, headers=_hdrs,
+                                     impersonate="chrome", timeout=timeout)
+        return _cf_requests.get(url, headers=_hdrs, impersonate="chrome", timeout=timeout)
+    # No curl_cffi: fall back to the plain urllib path (unchanged behavior).
+    req = urllib.request.Request(url, data=data, headers=_hdrs,
+                                 method=method if data is not None else "GET")
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        class _R:
+            status_code = resp.status
+            text = resp.read().decode("utf-8", errors="replace")
+        return _R()
 
 
 def _get(url: str, timeout: int = 20, retries: int = 3) -> Optional[dict | list]:
     """GET with exponential backoff retry on connection errors."""
     _is_fg = "fangraphs.com" in url
     if _is_fg:
-        _prime_fangraphs_session()
+        # curl_cffi (TLS-impersonation) path - see the block above _fg_request
+        # for why this replaced the session-priming approach.
+        for attempt in range(retries):
+            try:
+                resp = _fg_request(url, method="GET", timeout=timeout)
+                if resp.status_code == 200:
+                    return json.loads(resp.text)
+                if resp.status_code in _RETRYABLE_HTTP and attempt < retries - 1:
+                    wait = (4 ** attempt) if resp.status_code == 403 else (2 ** attempt)
+                    print(f"    {resp.status_code} retrying in {wait}s... (curl_cffi)")
+                    time.sleep(wait)
+                    continue
+                _lbl = ("HTTP 403 BLOCKED via curl_cffi TLS impersonation - if this still "
+                        "fires, the block is not a simple TLS-fingerprint check") \
+                       if resp.status_code == 403 else f"HTTP {resp.status_code} (curl_cffi)"
+                print(f"    {_lbl} - {url}")
+                return None
+            except Exception as e:
+                if attempt < retries - 1:
+                    time.sleep(2 ** attempt)
+                else:
+                    print(f"    Fetch error (curl_cffi): {e}")
+                    return None
+        return None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=_browser_headers(url))
-            # FanGraphs: route through the cookie-aware opener so the session
-            # cookie from _prime_fangraphs_session() actually rides along.
-            # Every other host keeps the plain urlopen() path unchanged.
-            _opener_fn = _FG_OPENER.open if _is_fg else urllib.request.urlopen
-            with _opener_fn(req, timeout=timeout) as resp:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code in _RETRYABLE_HTTP and attempt < retries - 1:
@@ -5694,13 +5738,13 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=8&pageitems=2000&pagenum=1"
         )
-        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
-        # opener - this function was making its own raw urlopen() calls,
-        # entirely bypassing the FanGraphs session-priming mechanism in _get().
-        _prime_fangraphs_session()
-        with _FG_OPENER.open(_req3.Request(url_adv, headers=_browser_headers(url_adv)),
-                             timeout=12) as _r:
-            _data = _json.loads(_r.read())
+        # TLS-IMPERSONATION (Aug 11 2026): routes through curl_cffi via
+        # _fg_request() instead of raw urlopen(), which bypassed every
+        # FanGraphs fix in this file until now.
+        _resp = _fg_request(url_adv, method="GET", timeout=12)
+        if _resp.status_code != 200:
+            raise urllib.error.HTTPError(url_adv, _resp.status_code, "blocked", {}, None)
+        _data = _json.loads(_resp.text)
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
             _name = str(_row.get("PlayerName") or _row.get("playerName") or "").strip()
@@ -5743,9 +5787,10 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=0&pageitems=2000&pagenum=1"
         )
-        with _FG_OPENER.open(_req3.Request(url_std, headers=_browser_headers(url_std)),
-                             timeout=12) as _r:
-            _data = _json.loads(_r.read())
+        _resp = _fg_request(url_std, method="GET", timeout=12)
+        if _resp.status_code != 200:
+            raise urllib.error.HTTPError(url_std, _resp.status_code, "blocked", {}, None)
+        _data = _json.loads(_resp.text)
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
             _name = str(_row.get("PlayerName") or _row.get("playerName") or "").strip()
@@ -7576,26 +7621,23 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
             "arrWxElevation":   None,
             "arrWxWindSpeed":   None,
         }).encode("utf-8")
-        req = urllib.request.Request(
-            ENDPOINT, data=body,
-            headers={
-                "Content-Type": "application/json",
-                "User-Agent":   _BROWSER_UA,   # was a TRUNCATED UA (no Chrome/Safari token)
-                "Accept-Language": "en-US,en;q=0.9",
-                "Accept":       "application/json, text/plain, */*",
-                "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
-                "Origin":       "https://www.fangraphs.com",
-            },
-            method="POST",
-        )
-        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
-        # opener instead of a bare urlopen() - this endpoint 403s the same way
-        # the GET endpoints do, and a bare urlopen() never carries the session
-        # cookie _prime_fangraphs_session() acquires.
-        _prime_fangraphs_session()
+        _fg_headers = {
+            "Content-Type": "application/json",
+            "User-Agent":   _BROWSER_UA,
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept":       "application/json, text/plain, */*",
+            "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
+            "Origin":       "https://www.fangraphs.com",
+        }
+        # TLS-IMPERSONATION (Aug 11 2026, replacing session-priming): routes
+        # through curl_cffi via _fg_request() - see the comment above that
+        # function for why. Falls back to plain urllib (same as before, still
+        # 403s) if curl_cffi isn't installed.
         try:
-            with _FG_OPENER.open(req, timeout=20) as r:
-                raw = r.read().decode("utf-8", errors="replace")
+            _resp = _fg_request(ENDPOINT, method="POST", data=body, headers=_fg_headers, timeout=20)
+            raw = _resp.text if _resp.status_code == 200 else ""
+            if _resp.status_code != 200:
+                print(f"     FanGraphs POST HTTP {_resp.status_code} (curl_cffi)")
             if not raw or len(raw) < 200:
                 return []
             data = json.loads(raw)
@@ -7746,26 +7788,23 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
             "arrWxAirDensity":  None, "arrWxElevation": None,
             "arrWxWindSpeed":   None,
         }).encode("utf-8")
-        req = urllib.request.Request(
-            ENDPOINT, data=body,
-            headers={
-                "Content-Type": "application/json",
-                "User-Agent":   _BROWSER_UA,   # was a TRUNCATED UA (no Chrome/Safari token)
-                "Accept-Language": "en-US,en;q=0.9",
-                "Accept":       "application/json, text/plain, */*",
-                "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
-                "Origin":       "https://www.fangraphs.com",
-            },
-            method="POST",
-        )
-        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
-        # opener instead of a bare urlopen() - this endpoint 403s the same way
-        # the GET endpoints do, and a bare urlopen() never carries the session
-        # cookie _prime_fangraphs_session() acquires.
-        _prime_fangraphs_session()
+        _fg_headers = {
+            "Content-Type": "application/json",
+            "User-Agent":   _BROWSER_UA,
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept":       "application/json, text/plain, */*",
+            "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
+            "Origin":       "https://www.fangraphs.com",
+        }
+        # TLS-IMPERSONATION (Aug 11 2026, replacing session-priming): routes
+        # through curl_cffi via _fg_request() - see the comment above that
+        # function for why. Falls back to plain urllib (same as before, still
+        # 403s) if curl_cffi isn't installed.
         try:
-            with _FG_OPENER.open(req, timeout=20) as r:
-                raw = r.read().decode("utf-8", errors="replace")
+            _resp = _fg_request(ENDPOINT, method="POST", data=body, headers=_fg_headers, timeout=20)
+            raw = _resp.text if _resp.status_code == 200 else ""
+            if _resp.status_code != 200:
+                print(f"     FanGraphs POST HTTP {_resp.status_code} (curl_cffi)")
             d = json.loads(raw)
             return d.get("data") or d.get("rows") or (d if isinstance(d, list) else [])
         except Exception:
@@ -33332,6 +33371,21 @@ def main():
                     if _pp:
                         def _ppf(pt, field, default=0.0):
                             return float(_pp.get(pt, {}).get(field, default) or default)
+                        # DIAGNOSTIC (Aug 11 2026). The column-read is now proven correct
+                        # (real woba values confirmed present in the sheet), but
+                        # woba_allowed_si still reads 0 downstream while usage_pct - from
+                        # the SAME "SI" sub-dict, same _pp, same lookup - populates fine
+                        # for 494 pitchers. Print the COMPLETE "SI" record for the first 3
+                        # pitchers where it's non-empty, so the next run shows definitively
+                        # whether "woba_allowed" exists as a key at all in that dict, and
+                        # what its actual value is, rather than inferring from column reads.
+                        global _wd_sample_count
+                        try: _wd_sample_count
+                        except NameError: _wd_sample_count = 0
+                        if _pp.get("SI") and _wd_sample_count < 3:
+                            print(f"    woba injection diagnostic [{getattr(pitcher,'name','?')}] "
+                                  f"full SI record: {_pp['SI']}")
+                            _wd_sample_count += 1
                         if _ppf("SI","usage_pct") > 0: pitcher.sinker_pct   = _ppf("SI","usage_pct")
                         if _ppf("FC","usage_pct") > 0: pitcher.cutter_pct   = _ppf("FC","usage_pct")
                         if _ppf("FF","usage_pct") > 0: pitcher.fourseam_pct = _ppf("FF","usage_pct")
