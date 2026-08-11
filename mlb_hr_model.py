@@ -2202,6 +2202,31 @@ def load_daily_pitch(filepath: str = FANTASYLABS_FILE) -> tuple:
         FIXED_COLS = _FALLBACK_COLS
         print("   DailyPitch: no header row found, using fixed column positions (unverified)")
 
+    # DIAGNOSTIC (Aug 11 2026). The dynamic detection reported no missing
+    # columns (silent success) but woba_allowed_si/ff still read 0 for every
+    # pitcher on a real run - meaning "found by name" and "actually correct"
+    # are not the same claim. This prints exactly what column index got
+    # assigned to "woba" and what raw values sit there, so the next run
+    # answers definitively: wrong column found, or right column but genuinely
+    # blank source data.
+    try:
+        _woba_idx = FIXED_COLS.get("woba")
+        _hdr_cell = (str(_header_row[_woba_idx]) if _header_row is not None
+                     and _woba_idx is not None and _woba_idx < len(_header_row) else "N/A")
+        _sample_vals = []
+        for _r in rows[:60]:
+            if _r and _woba_idx is not None and _woba_idx < len(_r) and _r[_woba_idx] is not None:
+                _sample_vals.append(_r[_woba_idx])
+            if len(_sample_vals) >= 5:
+                break
+        print(f"   DailyPitch woba diagnostic: column index={_woba_idx} | header cell there={_hdr_cell!r} "
+              f"| first 5 non-null raw values at that index={_sample_vals}")
+        if _header_row is not None:
+            print(f"   DailyPitch full header row (first 20 cells): "
+                  f"{[str(c) for c in _header_row[:20]]}")
+    except Exception as _wd:
+        print(f"    DailyPitch woba diagnostic failed: {_wd}")
+
     def _sf(row, col_idx, default=0.0):
         if col_idx < len(row) and row[col_idx] is not None:
             try: return float(str(row[col_idx]).replace('%', '').strip())
