@@ -5669,9 +5669,12 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=8&pageitems=2000&pagenum=1"
         )
-        # Was a bare urlopen with NO headers at all - the most block-prone form.
-        with _req3.urlopen(_req3.Request(url_adv, headers=_browser_headers(url_adv)),
-                           timeout=12) as _r:
+        # SESSION-AWARE (Aug 11 2026): route through the primed cookie-aware
+        # opener - this function was making its own raw urlopen() calls,
+        # entirely bypassing the FanGraphs session-priming mechanism in _get().
+        _prime_fangraphs_session()
+        with _FG_OPENER.open(_req3.Request(url_adv, headers=_browser_headers(url_adv)),
+                             timeout=12) as _r:
             _data = _json.loads(_r.read())
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
@@ -5697,7 +5700,15 @@ def fetch_pitcher_discipline(year: int) -> dict:
             if _csw or _osz or _zcn:
                 result[_name] = {"csw_pct": _csw, "o_swing_pct": _osz, "z_contact_pct": _zcn, "foul_pct": _foul}
     except Exception as _e:
-        pass  # silent fallback; SIERA fetch below may still work
+        # WAS COMPLETELY SILENT (Aug 11 2026 fix). A bare `except: pass` here
+        # meant a 403 on this endpoint produced ZERO console output - not even
+        # the "fetching..." line above got a matching success or failure line,
+        # because the only success print further down is gated behind
+        # `if result:` and never fires when both sub-fetches fail. This made a
+        # genuine bug look identical to "results are cached, nothing to print"
+        # on every single run, first or re-run alike.
+        _lbl = "blocked (403, bot/UA filtering)" if isinstance(_e, __import__("urllib").error.HTTPError) and getattr(_e,"code",0)==403 else str(_e)
+        print(f"    Pitcher discipline (CSW/O-Swing/Z-Contact) fetch failed: {_lbl}")
 
     # ── Fetch 2: Standard tab (type=0) for SIERA ──────────────────────────────
     try:
@@ -5707,8 +5718,8 @@ def fetch_pitcher_discipline(year: int) -> dict:
             f"&startdate=&enddate=&ind=0&team=0&rost=0&players=0"
             f"&type=0&pageitems=2000&pagenum=1"
         )
-        with _req3.urlopen(_req3.Request(url_std, headers=_browser_headers(url_std)),
-                           timeout=12) as _r:
+        with _FG_OPENER.open(_req3.Request(url_std, headers=_browser_headers(url_std)),
+                             timeout=12) as _r:
             _data = _json.loads(_r.read())
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
         for _row in _rows:
@@ -5726,7 +5737,8 @@ def fetch_pitcher_discipline(year: int) -> dict:
                                      "z_contact_pct": 0.0, "foul_pct": 0.0,
                                      "siera": _siera_f}
     except Exception as _e:
-        pass
+        _lbl = "blocked (403, bot/UA filtering)" if isinstance(_e, __import__("urllib").error.HTTPError) and getattr(_e,"code",0)==403 else str(_e)
+        print(f"    Pitcher discipline (SIERA) fetch failed: {_lbl}")
 
     if result:
         n_csw   = sum(1 for v in result.values() if v.get("csw_pct",   0) > 0)
@@ -5734,6 +5746,9 @@ def fetch_pitcher_discipline(year: int) -> dict:
         elite_csw = [n for n, v in result.items() if v.get("csw_pct", 0) >= 30]
         print(f"  ✅ Pitcher discipline: {len(result)} pitchers | CSW={n_csw} | SIERA={n_siera}"
               + (f" | Elite CSW (≥30%): {', '.join(elite_csw[:3])}" if elite_csw else ""))
+    else:
+        print("    ⚠️  Pitcher discipline: 0 pitchers - both FanGraphs sub-fetches "
+              "returned nothing. CSW%/O-Swing%/Z-Contact%/SIERA notes will not fire this slate.")
 
     return result
 
