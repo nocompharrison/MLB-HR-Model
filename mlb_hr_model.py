@@ -6713,6 +6713,20 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
                                 'cutter_pct': float, 'fourseam_pct': float, ... } }
     """
     import csv, io
+    # DAILY CACHE (Aug 11 2026). This function's fallback path (usually taken
+    # - the CSV endpoint is consistently blocked in Harrison's environment,
+    # per every real log this session) runs a genuinely slow (~15s) pybaseball
+    # statcast() pull. Same day-keyed caching approach as
+    # _fetch_via_statcast_agg_pitchers just above: cache key includes today's
+    # date, so the underlying already-final historical data is fetched once
+    # per calendar day regardless of which path (CSV or statcast fallback)
+    # ends up producing the result - both exit points below save to this
+    # same cache. Reuses the existing _load_cache/_save_cache helper, same
+    # 20h convention as the rest of the file.
+    _arsenal_cache_key = f"arsenal_splits_{date.today().isoformat()}"
+    _arsenal_cached = _load_cache(year, _arsenal_cache_key, max_age_hours=20)
+    if _arsenal_cached is not None:
+        return _arsenal_cached
     pitch_groups = [
         ("FF,SI,FC,FT,FA",   "fb"),
         ("SL,CU,KC,CS,SV,ST","brk"),
@@ -6830,6 +6844,7 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
 
     if combined:
         print(f"  ✅ Savant pitcher arsenal splits: {len(combined)} pitchers (whiff/barrel/usage by pitch type)")
+        _save_cache(year, _arsenal_cache_key, combined)
         return combined
 
     # ── FALLBACK: compute pitch-type stats from raw Statcast pitch-by-pitch ──
@@ -6932,6 +6947,7 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
         if _combined_fb:
             print(f"  ✅ Arsenal fallback (raw Statcast): {len(_combined_fb)} pitchers "
                   f"(usage/whiff/barrel by pitch type)")
+            _save_cache(year, _arsenal_cache_key, _combined_fb)
         else:
             print("  ⚠️  Arsenal fallback: raw Statcast returned 0 useful rows")
         return _combined_fb
@@ -8118,17 +8134,27 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
                 _starts_by_pitcher[_name] = []
             _starts_by_pitcher[_name].append((_date_str, _velo_gs))
 
+        # DIAGNOSTIC (Aug 11 2026). "748 pitcher game-logs processed" reports
+        # len(_starts_by_pitcher) - the raw grouped input - NOT len(result).
+        # The pitch-type splits enrichment consumer downstream shows "0
+        # matched (0 entries)", meaning result ends up genuinely empty despite
+        # 748 pitchers having game-log data. Track exactly where the funnel
+        # narrows: too-few-starts, no valid velocities, or no L5 velocities.
+        _v_too_few = 0; _v_no_velos = 0; _v_no_l5 = 0; _v_kept = 0
         for _pname, _start_list in _starts_by_pitcher.items():
             if len(_start_list) < 3:    # need at least 3 starts for trend
+                _v_too_few += 1
                 continue
             # Sort chronologically (date string sorts correctly in YYYY-MM-DD format)
             _sl_sorted = sorted(_start_list, key=lambda x: x[0])
             _all_velos = [v for _, v in _sl_sorted if v > 0]
             if not _all_velos:
+                _v_no_velos += 1
                 continue
             _season_avg = sum(_all_velos) / len(_all_velos)
             _l5_velos   = [v for _, v in _sl_sorted[-5:] if v > 0]
             if not _l5_velos:
+                _v_no_l5 += 1
                 continue
             _l5_avg = sum(_l5_velos) / len(_l5_velos)
             _trend  = round(_l5_avg - _season_avg, 2)   # negative = declining
@@ -8138,12 +8164,32 @@ def _fetch_pitcher_pitch_type_splits(year: int) -> dict:
             result[_pname]["avg_ff_velo"] = result[_pname].get("avg_ff_velo") or round(_season_avg, 1)
             result[_pname]["l5_ff_velo"]  = round(_l5_avg, 1)
             result[_pname]["velo_trend"]  = _trend
+            _v_kept += 1
 
         print(f"  ✅ FanGraphs velocity trend: {len(_starts_by_pitcher)} pitcher game-logs processed")
+        if _v_kept == 0:
+            print(f"     velocity trend funnel: {_v_too_few} <3 starts | {_v_no_velos} no valid "
+                  f"velocities | {_v_no_l5} no L5 velocities | {_v_kept} kept into result")
     except Exception as _egl:
         print(f"  ⚠️  FanGraphs velocity trend (type=4 game-log) failed: {_egl}")
 
     return result
+
+
+def _fetch_pitcher_stuff_plus(year: int) -> dict:
+    # ══ STRUCTURAL BUG FIXED (Aug 11 2026) ══ this def line was accidentally
+    # deleted when retiring the pitch-type-splits (type=23) block above. Its
+    # entire body - docstring, url, try/except, return - was still present and
+    # syntactically valid (Python allows unreachable code after a return
+    # statement), so py_compile never caught it: this whole function was
+    # silently merged into _fetch_pitcher_pitch_type_splits() as dead code
+    # sitting after its `return result`, never actually reachable or callable
+    # as its own function. Confirmed via a comment elsewhere in this file
+    # ("# _fetch_pitcher_stuff_plus(). Acts as a rate modifier...") that this
+    # is the correct original name. pitcher.stuff_plus IS read downstream in
+    # real scoring (_pitching_adj), so this needed a real fix, not just a
+    # cleanup - restoring the missing def line puts a standalone, callable
+    # function back exactly where it always should have been.
     """
     Fetch Stuff+ and Pitching+ from FanGraphs (Suggestion #5).
     These are forward-looking pitch quality metrics that separate skill from results.
@@ -8439,6 +8485,19 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
     if (end - start).days > days_back:
         start = end - timedelta(days=days_back)
 
+    # DAILY CACHE (Aug 11 2026). This pulls a 60-day window of pitch-level
+    # Statcast data via pybaseball - a genuinely slow (~15s) call. `end` is
+    # always date.today(), so the underlying window only shifts once per
+    # calendar day - within the same day this is re-fetching identical,
+    # already-final historical data on every re-run. Reuses the SAME
+    # _load_cache/_save_cache helper already used elsewhere in this file
+    # (batters_v2/pitchers), same 20h convention, so behavior and console
+    # output stay consistent with the caches Harrison already sees.
+    _cache_key = f"statcast_agg_pitchers_{end.isoformat()}"
+    _cached = _load_cache(year, _cache_key, max_age_hours=20)
+    if _cached is not None:
+        return _cached
+
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
     df = statcast(start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"))
     if df is None or df.empty:
@@ -8509,6 +8568,7 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         })
 
     print(f"  ✅ Statcast pitcher agg: {len(result)} pitchers (EV, barrel, heart-zone%)")
+    _save_cache(year, _cache_key, result)
     return result
 
 
@@ -9335,6 +9395,31 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
 
         print(f"  📡 L10 BBE: attempting fetch for {len(_l7_id_map_l10)} batters with IDs...")
 
+        # DIAGNOSTIC (Aug 11 2026). The previous fix (resolving IDs back to
+        # names via _l7_id_map_l10) is deployed and confirmed present, but
+        # Harrison's log still shows "0 matched" - meaning the ID VALUES
+        # themselves may not correspond across sources, not just a name-vs-ID
+        # confusion. _pid above is pulled with priority
+        # playerid > mlbam_id > savant_id - if "playerid" is present but is a
+        # DIFFERENT numbering system than what the L10/BZM cache actually
+        # keys by (which is built from Statcast/Savant directly), that
+        # priority order would silently pick the wrong ID for this specific
+        # join, even though the resolution logic itself is correct. Print a
+        # few real (name, playerid, mlbam_id, savant_id) tuples so the next
+        # log shows definitively which field actually matches the L10 cache's
+        # keys, rather than guessing at a reorder.
+        _l10_probe = 0
+        for _nm_probe, _pid_probe in _l7_id_map_l10.items():
+            if _l10_probe >= 3:
+                break
+            _row_probe = batter_map.get(_nm_probe, {})
+            if hasattr(_row_probe, "to_dict"):
+                _row_probe = _row_probe.to_dict()
+            print(f"     L10 ID probe [{_nm_probe}]: used_pid={_pid_probe} | "
+                  f"playerid={_row_probe.get('playerid')} | mlbam_id={_row_probe.get('mlbam_id')} | "
+                  f"savant_id={_row_probe.get('savant_id')}")
+            _l10_probe += 1
+
         _l10_bbe_data = _fetch_batter_l10_bbe(
             _l7_id_map_l10,
             target_date or date.today(),
@@ -9350,6 +9435,14 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
         # name} map from the SAME _l7_id_map_l10 already in scope and resolve
         # each ID back to its real name before doing the batter_map lookup.
         _id_to_name_l10 = {str(_pid): _nm for _nm, _pid in _l7_id_map_l10.items()}
+        # DIRECT TEST: how many of our computed IDs actually appear as keys
+        # in what _fetch_batter_l10_bbe() returned? If this is 0, the IDs
+        # themselves don't correspond across sources (a namespace mismatch,
+        # not a lookup-logic bug). If it's close to len(_l10_bbe_data), the
+        # resolution fix is working and the remaining gap is elsewhere.
+        _l10_id_overlap = len(set(_id_to_name_l10.keys()) & set(str(k) for k in _l10_bbe_data.keys()))
+        print(f"     L10 ID overlap check: {_l10_id_overlap} of {len(_l10_bbe_data)} L10 keys "
+              f"match a computed batter ID")
         _l10_enriched = 0
         for b_key, stats in _l10_bbe_data.items():
             b_name = _id_to_name_l10.get(str(b_key), b_key)
