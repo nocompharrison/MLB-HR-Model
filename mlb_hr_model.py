@@ -156,6 +156,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import http.cookiejar
+import gzip
 import warnings
 import pytz
 from dataclasses import dataclass, field
@@ -1702,11 +1703,31 @@ def _fg_request(url, method="GET", data=None, headers=None, timeout=20):
     _hdrs = headers or _okhttp_headers("application/json" if data is not None else None)
     req = urllib.request.Request(url, data=data, headers=_hdrs,
                                  method=method if data is not None else "GET")
+    def _read_body(resp):
+        # BUG FIX (Aug 11 2026): _okhttp_headers() sends "Accept-Encoding: gzip"
+        # - genuinely correct behavior for a real okhttp client, which
+        # transparently decompresses gzip responses for the caller. urllib does
+        # NOT do this automatically. Naively UTF-8-decoding a gzip-compressed
+        # body produces garbage (gzip's magic bytes \x1f\x8b are not valid UTF-8
+        # starts), which every FanGraphs call since the okhttp fix has been
+        # hitting: "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+        # with NO preceding non-200 status print, meaning the request was
+        # actually succeeding (200 OK) the whole time - the body was just being
+        # misread. Reproduced exactly: gzip.compress(real_json) then naive
+        # .decode("utf-8", errors="replace") gives byte-for-byte the same
+        # JSONDecodeError text seen in every log since this header was added.
+        raw_bytes = resp.read()
+        if resp.headers.get("Content-Encoding", "").lower() == "gzip":
+            try:
+                raw_bytes = gzip.decompress(raw_bytes)
+            except Exception:
+                pass  # not actually gzip despite the header - fall through and try as-is
+        return raw_bytes.decode("utf-8", errors="replace")
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             class _R:
                 status_code = resp.status
-                text = resp.read().decode("utf-8", errors="replace")
+                text = _read_body(resp)
             return _R()
     except urllib.error.HTTPError as e:
         if e.code != 403 or not _CURL_CFFI_OK:
@@ -1715,7 +1736,8 @@ def _fg_request(url, method="GET", data=None, headers=None, timeout=20):
                 text = ""
             return _R()
         # Fallback: okhttp UA alone didn't clear it - try Chrome TLS
-        # impersonation as a second, independent attempt.
+        # impersonation as a second, independent attempt. curl_cffi handles
+        # gzip decompression internally, so no equivalent fix needed here.
         _fallback_hdrs = headers or _browser_headers(url)
         if method == "POST":
             return _cf_requests.post(url, data=data, headers=_fallback_hdrs,
