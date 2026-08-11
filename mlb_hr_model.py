@@ -1661,25 +1661,66 @@ def _prime_fangraphs_session(timeout: int = 15) -> bool:
     return True
 
 
+def _okhttp_headers(content_type=None):
+    """Minimal header set matching FanGraphs' own mobile app HTTP client
+    (okhttp), NOT a browser. Deliberately does NOT include Referer, Origin,
+    X-Requested-With, or any sec-ch-ua/sec-fetch-* headers - a real okhttp
+    client never sends those, and mixing browser-only headers onto an okhttp
+    User-Agent would look like exactly the kind of mismatch a WAF flags.
+    Version string matches the one documented as currently exempted."""
+    h = {"User-Agent": "okhttp/4.12.0", "Accept-Encoding": "gzip",
+         "Connection": "Keep-Alive"}
+    if content_type:
+        h["Content-Type"] = content_type
+    return h
+
+
 def _fg_request(url, method="GET", data=None, headers=None, timeout=20):
-    """Single choke point for every FanGraphs request. Uses curl_cffi with
-    Chrome TLS impersonation when available; falls back to plain urllib
-    (which is already known to 403) so the caller's own retry/error-reporting
-    logic still runs and prints something useful either way."""
-    _hdrs = headers or _browser_headers(url)
-    if _CURL_CFFI_OK:
-        if method == "POST":
-            return _cf_requests.post(url, data=data, headers=_hdrs,
-                                     impersonate="chrome", timeout=timeout)
-        return _cf_requests.get(url, headers=_hdrs, impersonate="chrome", timeout=timeout)
-    # No curl_cffi: fall back to the plain urllib path (unchanged behavior).
+    """Single choke point for every FanGraphs request.
+
+    PRIMARY STRATEGY (Aug 11 2026, superseding TLS impersonation): plain
+    urllib with an okhttp User-Agent and a minimal okhttp-realistic header
+    set (see _okhttp_headers). Evidence: baseballr (a widely-used, actively
+    maintained R package hitting these exact same FanGraphs endpoints) fixed
+    an identical 403 wall on 2026-06-03 (PRs BillPetti/baseballr#403, #405) by
+    discovering FanGraphs serves a Cloudflare JS challenge to every
+    unrecognized client, but explicitly EXEMPTS the okhttp User-Agent that
+    FanGraphs' own mobile app uses - a UA-allowlist rule, not TLS
+    fingerprinting. That also explains why curl_cffi's Chrome TLS
+    impersonation (tried first, below as fallback) still 403'd: matching
+    Chrome's TLS handshake doesn't matter if the WAF is keying off the UA
+    string specifically, and curl_cffi has no okhttp fingerprint to offer
+    anyway (it only ships browser impersonation targets).
+    FALLBACK: if the okhttp-header attempt still 403s, retry once via
+    curl_cffi's Chrome impersonation (the previous approach) in case FanGraphs
+    has since tightened the okhttp exemption or added a secondary check.
+    HONEST LIMITATION: cannot be verified from the dev sandbox - no network
+    path to fangraphs.com here. This is the most directly-evidenced fix
+    attempted so far (a real, dated, working fix for the identical endpoints
+    in another project), not a guess.
+    """
+    _hdrs = headers or _okhttp_headers("application/json" if data is not None else None)
     req = urllib.request.Request(url, data=data, headers=_hdrs,
                                  method=method if data is not None else "GET")
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        class _R:
-            status_code = resp.status
-            text = resp.read().decode("utf-8", errors="replace")
-        return _R()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            class _R:
+                status_code = resp.status
+                text = resp.read().decode("utf-8", errors="replace")
+            return _R()
+    except urllib.error.HTTPError as e:
+        if e.code != 403 or not _CURL_CFFI_OK:
+            class _R:
+                status_code = e.code
+                text = ""
+            return _R()
+        # Fallback: okhttp UA alone didn't clear it - try Chrome TLS
+        # impersonation as a second, independent attempt.
+        _fallback_hdrs = headers or _browser_headers(url)
+        if method == "POST":
+            return _cf_requests.post(url, data=data, headers=_fallback_hdrs,
+                                     impersonate="chrome", timeout=timeout)
+        return _cf_requests.get(url, headers=_fallback_hdrs, impersonate="chrome", timeout=timeout)
 
 
 def _get(url: str, timeout: int = 20, retries: int = 3) -> Optional[dict | list]:
@@ -7621,23 +7662,17 @@ def _fetch_pitcher_order_splits(year: int, min_pa: int = 50) -> dict:
             "arrWxElevation":   None,
             "arrWxWindSpeed":   None,
         }).encode("utf-8")
-        _fg_headers = {
-            "Content-Type": "application/json",
-            "User-Agent":   _BROWSER_UA,
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept":       "application/json, text/plain, */*",
-            "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
-            "Origin":       "https://www.fangraphs.com",
-        }
-        # TLS-IMPERSONATION (Aug 11 2026, replacing session-priming): routes
-        # through curl_cffi via _fg_request() - see the comment above that
-        # function for why. Falls back to plain urllib (same as before, still
-        # 403s) if curl_cffi isn't installed.
+        # OKHTTP UA (Aug 11 2026, superseding the Chrome-header/TLS-impersonation
+        # attempt): passing NO headers here lets _fg_request() supply its own
+        # okhttp-style default, which is the actual documented fix - see the
+        # comment on _fg_request() for the full evidence. A custom headers=
+        # dict built here would silently override that default and skip the
+        # fix entirely, which is exactly what this block used to do.
         try:
-            _resp = _fg_request(ENDPOINT, method="POST", data=body, headers=_fg_headers, timeout=20)
+            _resp = _fg_request(ENDPOINT, method="POST", data=body, timeout=20)
             raw = _resp.text if _resp.status_code == 200 else ""
             if _resp.status_code != 200:
-                print(f"     FanGraphs POST HTTP {_resp.status_code} (curl_cffi)")
+                print(f"     FanGraphs POST HTTP {_resp.status_code}")
             if not raw or len(raw) < 200:
                 return []
             data = json.loads(raw)
@@ -7788,23 +7823,17 @@ def _fetch_pitcher_situational_splits(year: int, min_tbf: int = 40) -> dict:
             "arrWxAirDensity":  None, "arrWxElevation": None,
             "arrWxWindSpeed":   None,
         }).encode("utf-8")
-        _fg_headers = {
-            "Content-Type": "application/json",
-            "User-Agent":   _BROWSER_UA,
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept":       "application/json, text/plain, */*",
-            "Referer":      "https://www.fangraphs.com/leaders/splits-leaderboards",
-            "Origin":       "https://www.fangraphs.com",
-        }
-        # TLS-IMPERSONATION (Aug 11 2026, replacing session-priming): routes
-        # through curl_cffi via _fg_request() - see the comment above that
-        # function for why. Falls back to plain urllib (same as before, still
-        # 403s) if curl_cffi isn't installed.
+        # OKHTTP UA (Aug 11 2026, superseding the Chrome-header/TLS-impersonation
+        # attempt): passing NO headers here lets _fg_request() supply its own
+        # okhttp-style default, which is the actual documented fix - see the
+        # comment on _fg_request() for the full evidence. A custom headers=
+        # dict built here would silently override that default and skip the
+        # fix entirely, which is exactly what this block used to do.
         try:
-            _resp = _fg_request(ENDPOINT, method="POST", data=body, headers=_fg_headers, timeout=20)
+            _resp = _fg_request(ENDPOINT, method="POST", data=body, timeout=20)
             raw = _resp.text if _resp.status_code == 200 else ""
             if _resp.status_code != 200:
-                print(f"     FanGraphs POST HTTP {_resp.status_code} (curl_cffi)")
+                print(f"     FanGraphs POST HTTP {_resp.status_code}")
             d = json.loads(raw)
             return d.get("data") or d.get("rows") or (d if isinstance(d, list) else [])
         except Exception:
@@ -8968,15 +8997,22 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             print(f"  ⚠️  Arsenal data has {len(_arsenal_data)} pitchers but 0 matched pitcher_map "
                   f"— name format mismatch. Sample arsenal key: {next(iter(_arsenal_data))}")
         print(f"  ✅ Pitcher arsenal enrichment: {_arsenal_enriched} pitchers updated (whiff/barrel by pitch type)")
-        # ── Jul 11 2026: PITCH HR CONC coverage diagnostic ──────────────────
-        _woba_si_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"woba_allowed_si",0) > 0)
-        _woba_ff_cnt = sum(1 for p in pitcher_map.values() if getattr(p,"woba_allowed_ff",0) > 0)
-        _usg_si_cnt  = sum(1 for p in pitcher_map.values() if getattr(p,"sinker_pct",0) > 0)
-        print(f"  📊 PITCH HR CONC coverage: woba_allowed_si={_woba_si_cnt} | woba_allowed_ff={_woba_ff_cnt} | sinker_pct={_usg_si_cnt} pitchers")
-        if _woba_si_cnt == 0:
-            print(f"  ⚠️  PITCH HR CONC will NOT fire — woba_allowed_si=0 for all pitchers (DailyPitcherPitch data missing)")
-        else:
-            print(f"  ✅ PITCH HR CONC signal active: woba_allowed per pitch type populated for {_woba_si_cnt} pitchers")
+        # ══ DIAGNOSTIC REMOVED (Aug 11 2026) - it was checking the WRONG PLACE.
+    # This ran here, inside fetch_season_stats(), immediately after arsenal
+    # enrichment - but the daily_pitcher_pitch injection that actually sets
+    # woba_allowed_si/ff lives in main(), called AFTER fetch_season_stats()
+    # returns (confirmed by line number: injection loop runs, then
+    # score_player() is called for that same pitcher right after it, in
+    # main()). Real proof: Tanner Bibee's full SI record at injection time
+    # showed {'usage_pct': 23.2, 'woba_allowed': 0.337, ...} - real, correctly
+    # parsed data. This diagnostic printed "will NOT fire" on every single
+    # run regardless, because woba_allowed_si is ALWAYS 0 at the point in the
+    # pipeline where this check ran - not because the feature was broken, but
+    # because the check ran before the step that populates it. PITCH HR
+    # CONCENTRATION (read inside score_player(), well after injection has
+    # already happened for that pitcher) has very likely been working
+    # correctly since the DailyPitch column-detection fix - this stale
+    # warning was actively misleading, not informative.
     except Exception as _e:
         print(f"  ⚠️  Pitcher arsenal enrichment failed: {_e}")
 
