@@ -7017,7 +7017,17 @@ def _fetch_pitcher_hand_hr_splits(year: int) -> dict:
             raw = ""
         if not raw or len(raw) < 200: continue
         try:
-            import json
+            # BUG FIX (Aug 11 2026): this used to have a local `import json`
+            # right here. json is already imported at module level (line 148)
+            # - this local import was harmless UNTIL this function got
+            # rewritten to also call json.dumps() earlier in the same loop
+            # (building the POST body). A bare `import json` ANYWHERE in a
+            # function's own scope makes `json` a LOCAL name for the WHOLE
+            # function, so the earlier json.dumps() call started reading a
+            # local `json` that hadn't been bound yet - true error: "cannot
+            # access local variable 'json' where it is not associated with a
+            # value". Removing this redundant local import lets both usages
+            # correctly fall through to the module-level import instead.
             data = json.loads(raw)
             # splits API returns {data: [...]} or top-level list
             rows = (data.get("data") or data.get("rows") or data
