@@ -8550,10 +8550,29 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
     if cached_p and len(cached_p) >= 20:
         pitcher_map = cached_p
     if batter_map and pitcher_map:
-        # Both maps loaded from cache — skip straight to return.
-        # TTO + situational splits enrichment runs at the end of fetch_season_stats
-        # regardless of which path was taken (cache-hit or fresh-fetch).
-        return batter_map, pitcher_map
+        # ══ BUG FIXED (Aug 11 2026) ══════════════════════════════════════
+        # This used to `return batter_map, pitcher_map` HERE, immediately on a
+        # cache hit - directly contradicting the comment that used to sit on
+        # this exact line ("TTO + situational splits enrichment runs at the end
+        # of fetch_season_stats regardless of which path was taken"). The code
+        # never matched that stated intent: cache hits skipped the entire
+        # remainder of the function - arsenal fallback, the PITCH HR CONC
+        # coverage diagnostic, pitch-type splits, home/away ERA splits, order/
+        # TTO splits, and situational splits ALL live after this point and were
+        # silently skipped whenever batters_v2/pitchers loaded from disk.
+        # REAL CASE: two runs same day, second run 0.5h after the first (well
+        # inside the 20h disk-cache window this function uses) - the entire
+        # enrichment block produced ZERO console output, not even a failure
+        # line, because it was never reached at all. This looked identical to
+        # "results are cached" but was actually "the code that would print
+        # anything never executed."
+        # FIX: fall through instead of returning early. The batter/pitcher
+        # SOURCE-FETCH loops below are already correctly gated by their own
+        # `if not batter_map:` / `if not pitcher_map:` checks, so they no-op
+        # harmlessly when both maps are already populated from cache - only
+        # the shared enrichment block at the end of the function, which was
+        # never cache-gated to begin with, now actually runs every time.
+        pass
 
     # ── Batter sources (try each until one succeeds) ──────────
     _batter_primary_source = None
