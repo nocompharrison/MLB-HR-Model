@@ -22336,8 +22336,55 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     BACKTEST_ELITE_MUST_PLAY_MIN_N = 10
 
     # ── 100% combos first (by n, largest first) ──────────────────────────────
+    # NEW) MedalRank<=3 + Vu<50.2 → 19/19=100% (Aug 12 2026) — strongest finding
+    # of this whole mining exercise. Found via a targeted search restricted to
+    # Aug 1-11 2026 (11 slates, 985 batter-slates) specifically probing whether
+    # TOP-of-board picks (medal rank, not just "any rank field") combined with
+    # a secondary condition produce something workable, after three prior
+    # rank-involving combos all failed to survive being checked across model
+    # eras. This one clears every check run on it:
+    #   n=19/19 = 100% hit, base rate 61.4%, mult=1.63x
+    #   Fisher exact p=0.00014 (2x2 table: [[19,0],[586,380]])
+    #   Split-half: first 9 batters (through Aug 6) = 100%, second 10 (Aug 6
+    #   onward) = 100% - perfectly consistent, not front- or back-loaded.
+    #   Fires on 9 SEPARATE slates (Aug 2,3,4,5,6,7,8,9,10), 1-3 batters/slate
+    #   - genuinely spread across the window, not a single-day cluster driving
+    #   the whole result the way earlier candidates turned out to be.
+    # Interpretation: the model's own top-3 overall picks (by score+hr_prob)
+    # hitting consistently even WITHOUT an unusually vulnerable pitcher -
+    # Vu<50.2 specifically excludes the extreme-vulnerability tail, which may
+    # be a higher-variance, more power-dependent population. This is currently
+    # based on one 11-slate window (Aug 1-11) - no additional August slates
+    # were available to extend it further as of this implementation (checked:
+    # source CSV was byte-identical to the prior fetch). Revisit and re-run
+    # this same validation chain as more August slates accumulate.
+    if rank is not None and rank <= 3 and _bt_vu_val < 50.2:
+        _bt_hit_pts   = 20; _bt_n = 19
+        _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: MedalRank{rank}(≤3)+Vu{_bt_vu_val:.0f}(<50.2) "
+                         f"→ {_grade_rate('bt_elite_hit_medalrank', '100% — 19/19')} Hit (live; Aug 1-11 2026, "
+                         f"9 slates, Fisher p=0.00014, split-half 100%/100%)")
+    # NEW-2) HRProb<0.134 + PM<0.995 + Vu≥50 → 18/18=100% cross-era validated (Aug 12 2026)
+    # Found via a 104-slate full-panel 100%-precision search, then explicitly
+    # re-tested across 3 separate model eras (Apr26-May31, Jun1-Jul31, Aug1-11)
+    # rather than pooled once - the ONLY rank/HR-probability-involving combo out
+    # of 8 tested that fired in ALL THREE eras with zero misses and split-half
+    # agreement in both testable eras:
+    #   Era1 (Apr-May): n=8,  100% (8/8),  base 62.3%, 1.60x, Fisher p=0.028, split-half 100%/100%
+    #   Era2 (Jun-Jul): n=6,  100% (6/6),  base 62.5%, 1.60x, Fisher p=0.090, split-half 100%/100%
+    #   Era3 (Aug):     n=4,  100% (4/4),  base 61.4%, 1.63x, Fisher p=0.30 (n alone not significant)
+    # Combined n=18/18. Every other rank/medal-involving candidate tested had at
+    # least one era with ZERO presence - this is the first to clear all three.
+    # A cold-batting-average, pitch-matched batter facing real vulnerability -
+    # NOT the same population as HT17 below (which requires ELITE LOCK's power
+    # profile); this one explicitly requires a LOW hr_probability, the opposite
+    # signal direction. n=18 combined clears the MUST_PLAY_MIN_N=10 floor.
+    elif _bt_pm_val < 0.995 and _bt_vu_val >= 50.0 and _hr_prob_sc < 0.134:
+        _bt_hit_pts   = 20; _bt_n = 18
+        _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: HRProb{_hr_prob_sc:.3f}(<0.134)+PM{_bt_pm_val:.3f}(<0.995)+Vu{_bt_vu_val:.0f}(≥50) "
+                         f"→ {_grade_rate('bt_elite_hit_hrprob', '100% — 18/18')} Hit (live; cross-era validated "
+                         f"Apr-Aug 2026, 3/3 eras, combined 18/18)")
     # B) PM≥1.12 + Pw≥82 + Edge≥15% → 12/12=100% — Edge drives the hit, PM confirms
-    if _bt_pm_val >= 1.12 and _bt_pw_val >= 82 and _bt_edge_val >= 0.15:
+    elif _bt_pm_val >= 1.12 and _bt_pw_val >= 82 and _bt_edge_val >= 0.15:
         _bt_hit_pts   = 20; _bt_n = 12
         _bt_hit_label = (f"🔥🔥 BACKTEST ELITE: PM{_bt_pm_val:.3f}(≥1.12)+Pw{_bt_pw_val:.0f}(≥82)+Edge{_bt_edge_val*100:+.0f}%(≥15%) "
                          f"→ {_grade_rate('bt_elite_hit', '100%  12/12')} Hit (live; mined 100% 12/12 @57sl)")
@@ -23890,6 +23937,18 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _effective_hit_pts = 11 if (_l5_ice_cold and hit_pts >= 12) else hit_pts
     # Multi-grade hit stacking — collect all firing hit grades
     _hit_firing = []
+    # ══ STRUCTURAL BUG FIXED (Aug 12 2026) ══════════════════════════════
+    # hit_label (set by the BACKTEST ELITE combo chain above) was NEVER
+    # appended to _hit_firing, which is the list hit_grade gets built from
+    # (hit_grade = " + ".join(_hit_firing), used later in the function) - the
+    # field actually written to the sheet's Grade column. hit_label only ever
+    # reached sh["hit_label"], a separate field nothing downstream reads for
+    # display. Every BACKTEST ELITE combo - all 10 pre-existing plus the new
+    # HRProb one added this session - has been invisible in the sheet's Grade
+    # column since it existed, even on slates where it fired. Surfacing it
+    # here so it shows up the same way every other named hit grade does.
+    if "BACKTEST ELITE" in hit_label:
+        _hit_firing.append(hit_label)
     # SIG+PM hit grade: Sig≥5 + PM≥1.04 — 34-slate: 57.5% hit rate (+10.5pp)
     # Best new dual-purpose grade (HR + hit). Also: Sig≥4+HS35-50+PM1.03+: 60.2% hit
     if SIG_PM_GRADE:                   _hit_firing.append("🔥 SIG+PM HIT")
@@ -24519,6 +24578,37 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _prime_lock_q = (vuln >= 52.0 and pm >= 1.04 and power >= 84.0)
     _elite_lock   = (vuln >= 54.0 and pm >= 1.04 and power >= 84.0)
     _pl_odds_ok   = (_odds_val_pl >= 250.0 or _odds_val_pl == 0.0)
+
+    # ══ HT17 ELITE-LOCK-CARRYOVER HIT (Aug 12 2026, TRACKING - zero conv credit) ═
+    # WHY: found via a full-panel 100%-precision combo search (104 slates,
+    # 5,154 resolved batter-slates) specifically probing whether medal rank /
+    # HR probability combine with other metrics beyond their own standalone
+    # signal. This one is genuinely a hit-side pattern, not HR: a batter has
+    # ELITE LOCK's contact-quality profile (Vuln>=54 + PM>=1.04 + Pwr>=84) but
+    # their overall card RANK is mediocre (>=13, not top-tier by (score,
+    # hr_probability)) and PM sits below 1.062 (not the extreme end of the
+    # ELITE LOCK band). Contact quality carries through to a HIT even when the
+    # model's own overall ranking doesn't rate the card highly.
+    # ERA-SPLIT VALIDATION (Apr26-Aug11, 3 eras): the ONLY one of 4 rank/medal-
+    # involving 100% combos tested that survived being checked across multiple
+    # eras rather than just the one it was discovered in - trending toward the
+    # present rather than away from it:
+    #   Apr-May: n=0 (combo did not exist/fire in this era)
+    #   Jun-Jul: n=12, 100% hit (12/12), base 62.5%, 1.60x, Fisher p=0.0050
+    #   Aug:     n=4,  100% hit (4/4),  base 61.4%, 1.63x, Fisher p=0.30 (n alone not significant)
+    # Combined validated n=16/16, both eras point the same direction at a
+    # consistent ~1.6x. Still short of the n>=40 bar this file uses to promote
+    # a Tier-B pattern to conviction credit - tracked as a flash combo and
+    # named grade with ZERO conv boost until it clears that bar independently
+    # in-season, not backfilled from this discovery panel.
+    _ht17_elite_lock_carryover = (_elite_lock and pm < 1.062 and rank is not None and rank >= 13)
+    if _ht17_elite_lock_carryover:
+        flags.append(
+            f"\U0001F3AF HT17 ELITE-LOCK-CARRYOVER HIT: ELITE LOCK contact profile "
+            f"(Vuln={vuln:.0f} PM={pm:.3f} Pwr={power:.0f}) + Rank={rank}>=13 (not top-tier) "
+            f"+ PM<1.062 \u2192 100% hit (16/16 combined, Jun-Jul 12/12 p=0.005 + Aug 4/4), "
+            f"1.60-1.63x both eras \u2014 \u26aa TRACKING, zero conviction credit until n>=40."
+        )
 
     # Qualitative uplift check for PRIME LOCK (Vuln 52-54 zone)
     _pl_notes_text = " ".join(str(n) for n in (sc.notes or []))
@@ -26615,6 +26705,42 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # ═══════════════════════════════════════════════════════════════════
         _p2_cap = 15.0 if p1 > 0 else 20.0   # compress grade credit when P1 fires
         _p2 = 0.0
+
+        # ══ TOP-OF-BOARD SHORT-START CONFIRMATION HR (Aug 12 2026) ══════════
+        # MedalRank<=3 + SHORT-START + (ELITE SIGNAL COMBO OR HIGH-USAGE).
+        # Found via a targeted top-of-board search restricted to Jul1-Aug11
+        # 2026 (37 slates, 2,495 batter-slates), then stress-tested: this
+        # EXACT union of two markers is the only 1 of 406 possible marker-OR
+        # pairs that achieves perfect separation on the underlying population
+        # (MedalRank<=3 + SHORT-START alone, n=12) - a 500-trial shuffle null
+        # on that same 406-pair search found >=1 perfect separator in only
+        # 2.0% of random trials, and this SPECIFIC pair in only 0.2%.
+        #   n=7/7 = 100% HR, base rate 14.9% (Jul-Aug), mult=6.73x
+        #   Underlying single-condition Fisher tests: p=0.00007 / p=0.00048
+        #   Split-half on each qualifying subset: 100%/100% both times
+        #   Complement (MedalRank<=3+SHORT-START+NEITHER marker) = 0/5 - a
+        #   clean bisection in both directions, not just the positive side.
+        # HONEST LIMITATION: n=7 is below what this file elsewhere treats as
+        # a safe promotion floor (n>=10 on the hit side's BACKTEST ELITE
+        # system) - implemented at full MUST-PLAY-caliber credit per explicit
+        # instruction given the strength of the null-clearance, not because
+        # n=7 alone would normally clear that bar. Revisit as more slates
+        # accumulate; this is real evidence, not proof.
+        _tobsc_rank = sh.get("rank", 99)
+        _tobsc_ss   = "short-start alert" in notes_s.lower()
+        _tobsc_esc  = "ELITE SIGNAL COMBO" in notes_s
+        _tobsc_hu   = "HIGH-USAGE" in notes_s
+        _top_of_board_ss_confirm = (_tobsc_rank <= 3 and _tobsc_ss and (_tobsc_esc or _tobsc_hu))
+        if _top_of_board_ss_confirm:
+            _p2 = max(_p2, 18.0)
+            if sc.notes is None:
+                sc.notes = []
+            if not any("TOP-OF-BOARD SHORT-START CONFIRM" in str(n) for n in sc.notes):
+                sc.notes = list(sc.notes) + [
+                    f"🥇🔥 TOP-OF-BOARD SHORT-START CONFIRM: MedalRank{_tobsc_rank}(≤3) + SHORT-START + "
+                    f"{'ELITE SIGNAL COMBO' if _tobsc_esc else 'HIGH-USAGE'} → 100% HR (7/7, 6.73x, "
+                    f"Jul-Aug 2026, 1-of-406 null-clearing marker pair, p=0.002 chance-rate) — MUST PLAY."
+                ]
 
         # High-tier validated grades — each credits its validated lift independently
         if "LIVE CONFIRMED MATCH" in g:  _p2 = max(_p2, 18.0)  # highest validated, separate from P1
@@ -29935,28 +30061,36 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # sh["_hr_conv"] is already cached by the sorted() call that built hr_picks
     # above, so this costs nothing extra to read.
     _rest.sort(key=lambda t: (-(t[1].get("_hr_conv") or 0), _priority_price(t[0])))
-    # RESERVE=2 (Aug 11 2026). Simulated 4 designs against the 7 slates with full
-    # data (Aug 4-10, n=35 total 5-pick-card slots):
+    # RESERVE=1 (Aug 12 2026, rolled back from reserve=2). The original reserve=2
+    # decision (Aug 11 2026) forced up to TWO medal-rank picks into the top-5,
+    # potentially displacing Priority Tier qualifiers at slots 4 AND 5 even when
+    # one of them had a stronger case than the medal-rank pick replacing it.
+    # Rolled back to guarantee only ONE top-3 medal-rank slot - still ensures
+    # medal rank's own validated standalone signal gets a seat, without forcing
+    # a second, weaker medal-rank pick over a Priority Tier qualifier that may
+    # simply be the better pick that day.
+    #
+    # Original reserve=2 simulation (Aug 4-10, n=35 total 5-pick-card slots),
+    # kept for reference:
     #     reserve=0 (fill leftover only)  7/35 = 20.0%
     #     reserve=1                      10/35 = 28.6%
-    #     reserve=2                      10/35 = 28.6%  <- shipped
+    #     reserve=2                      10/35 = 28.6%  <- previously shipped
     #     reserve=3                      11/35 = 31.4%
-    # Reserving NEVER underperformed reserve=0 on any single slate - only tied
-    # or won. reserve=1 and reserve=2 tied exactly; reserve=3 added one more
-    # pick (Aug 7) but is a more aggressive design. Picked reserve=2 as the
-    # balance point per Harrison's decision.
-    # HONEST CAVEAT: most of the gain came from swapping a CONVERTING Priority
-    # Tier pick for two CONVERTING medal-rank picks on slates with 3+ real HR
-    # getters (Aug 6: Olson out, Bleday+De La Cruz in; Aug 9: Marte out, Bauers+
-    # Alonso in) - i.e. capturing more winners within a fixed 5-slot card on
-    # rich slates, not "medal-rank beats a losing Priority Tier pick" per se.
-    # n=35 is thin; trust the direction (reserve>0 >= reserve=0 every time
-    # tested), not the exact magnitude, until more slates accumulate.
+    # reserve=1 and reserve=2 TIED EXACTLY in that simulation - reserve=2 never
+    # actually outperformed reserve=1, it only matched it. Rolling back to
+    # reserve=1 costs nothing on the evidence already gathered and directly
+    # addresses the "don't force a second, weaker medal-rank pick" concern.
+    # HONEST CAVEAT: most of the reserve>0 gain came from swapping a CONVERTING
+    # Priority Tier pick for CONVERTING medal-rank picks on slates with 3+ real
+    # HR getters (Aug 6, Aug 9) - i.e. capturing more winners within a fixed
+    # 5-slot card on rich slates, not "medal-rank beats a losing Priority Tier
+    # pick" per se. n=35 is thin; trust the direction, not the exact magnitude,
+    # until more slates accumulate.
     # Reserve the top _RESERVE_MEDAL_SLOTS slots for Medal-Rank Guarantee members
     # not already in _prio; Priority Tier auto-fills only the slots ahead of that
     # reserve, with any excess qualifiers still eligible to fill leftover slots
     # after medal-rank and before the generic _rest pool.
-    _RESERVE_MEDAL_SLOTS = 2
+    _RESERVE_MEDAL_SLOTS = 1
     _prio_auto_cap = max(0, 5 - _RESERVE_MEDAL_SLOTS)
     hr_picks = _prio[:_prio_auto_cap] + _medal + _prio[_prio_auto_cap:] + _rest
 
@@ -30434,6 +30568,23 @@ def _sheet_sharp_picks(wb, scores, top_n):
 
         # Signal bonuses (each independently validated)
         bonus = 0
+        # ══ STRUCTURAL BUG FIXED (Aug 12 2026) ══════════════════════════════
+        # hit_pts (0-20 scale, set by the BACKTEST ELITE combo chain and by the
+        # HS-zone logic above it) was returned in sh["hit_pts"] but this
+        # function never read it - it only reads sh["hit_grade"], a SEPARATE
+        # variable built from _hit_firing, which hit_label (the BACKTEST ELITE
+        # text) is never appended to. The entire BACKTEST ELITE system - all
+        # 10 pre-existing combos, not just the new HRProb one added this
+        # session - has been printing on cards with zero effect on hit-card
+        # SORT ORDER since it existed, the same disconnect already documented
+        # above for the HT01/HT03/HT10 archetypes. Scaled to match this
+        # function's existing bonus range (+1 to +3): hit_pts=20 (the
+        # 100%-precision MUST PLAY tier) -> +3, hit_pts=16 (STRONG PLAY,
+        # n-floor demoted) -> +2, hit_pts=14 -> +1.
+        _hp = sh.get("hit_pts", 0) or 0
+        if _hp >= 18:   bonus += 3
+        elif _hp >= 16: bonus += 2
+        elif _hp >= 14: bonus += 1
         if "sharp line move" in nl:                                    bonus += 3  # 81% hit
         if "hot hitter" in nl and "weighted hit rate" in nl:           bonus += 2  # WHR≥70%
         if "red hot" in nl:                                            bonus += 1  # L5 hot
@@ -34336,6 +34487,16 @@ def main():
             # Cold bat in hitter's park vs vulnerable arm. Okamoto Jul24 validated.
             or (hs is not None and hs < 15 and v >= 52
                 and park is not None and park >= 1.05)                # M: 41.2%/2.36x n=17
+            # N: TOP-OF-BOARD SHORT-START CONFIRM (Aug 12 2026) — 100%/6.73x n=7
+            # MedalRank<=3 + SHORT-START + (ELITE SIGNAL COMBO OR HIGH-USAGE).
+            # Reuses the note _hr_conviction_score() already injects (that
+            # function runs earlier in the scoring pass that builds
+            # ranked_raw, so by this point the note is already on sc.notes) -
+            # avoids re-deriving medal-rank position, which isn't a direct sc
+            # attribute in this function's scope the way it is via the
+            # separate sh dict elsewhere. See the conviction-score comment
+            # for full evidence (n=7/7, 1-of-406 null-clearing marker pair).
+            or any("TOP-OF-BOARD SHORT-START CONFIRM" in str(n) for n in (sc.notes or []))
         )
 
     _flash_inject_candidates = sorted(
