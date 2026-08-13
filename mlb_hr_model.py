@@ -6107,13 +6107,21 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
     "team": str, "order": int}}. Returns {} on total failure (never raises -
     this is a same-day nice-to-have, not a hard dependency).
     """
-    import re as _dff_re, json as _dff_json
+    import re as _dff_re, json as _dff_json, html as _dff_html
 
     url = f"https://www.dailyfantasyfuel.com/mlb/projections/{platform}/"
     raw = _get_text(url, timeout=20)
     if not raw:
         print("   DailyFantasyFuel: fetch failed (no response) - skipping DFF cross-check")
         return {}
+    # Aug 13 2026: decode HTML entities before any matching. Confirmed real
+    # failure: "T. d&#x27;Arnaud" - the apostrophe in d'Arnaud was HTML-
+    # entity-encoded, which the name pattern's literal-apostrophe character
+    # class never accounted for. Unescaping the whole page up front (rather
+    # than special-casing this one entity in the regex) also protects
+    # against accented characters in other names hitting the same class of
+    # problem.
+    raw = _dff_html.unescape(raw)
     print(f"   DailyFantasyFuel: fetched {len(raw)} chars from {url}")
 
     result: dict = {}
