@@ -5419,6 +5419,82 @@ def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str =
     raise last_err
 
 
+def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int = 15,
+                       label: str = ""):
+    """
+    Split a statcast() date range into smaller chunks and concatenate.
+
+    Added Aug 13 2026 after _statcast_with_retry proved insufficient: two
+    consecutive runs showed all 4 statcast() call sites failing identically
+    across all 3 retry attempts, including on a 14-day range that should be
+    trivially fast. Retrying the SAME oversized request predictably fails
+    every time - it doesn't change what's being asked for. Savant's own
+    error message is explicit: "Please try to limit your query to less
+    data." The 60-day pitcher-aggregation query got to 60/61 (98%) before
+    timing out, and the 146-day BZM query got to 143-146/147 (97-99%) before
+    timing out - both stopping at a similar proportional point regardless of
+    total range, consistent with an internal execution-time budget on
+    Savant's side rather than a hard rejection of large ranges outright.
+    Smaller per-request chunks give each piece more headroom under that same
+    budget, whatever exactly it is.
+
+    Each chunk still goes through _statcast_with_retry (max_retries=1, to
+    keep total runtime bounded now that there are multiple chunks each with
+    their own retry budget). If an individual chunk fails even after its
+    retry, it's skipped with a warning rather than aborting the whole fetch -
+    partial data from the chunks that succeeded is far more useful than
+    nothing at all for this kind of season-long aggregation.
+
+    Returns a concatenated DataFrame, or None if every chunk failed.
+    """
+    import datetime as _dt_chunk
+    start_d = _dt_chunk.datetime.strptime(start_str, "%Y-%m-%d").date()
+    end_d = _dt_chunk.datetime.strptime(end_str, "%Y-%m-%d").date()
+    total_days = (end_d - start_d).days + 1
+
+    if total_days <= chunk_days:
+        # Range already small enough - no benefit to chunking a single piece.
+        return _statcast_with_retry(statcast_fn, start_str, end_str, label=label)
+
+    chunks = []
+    cur = start_d
+    while cur <= end_d:
+        chunk_end = min(cur + _dt_chunk.timedelta(days=chunk_days - 1), end_d)
+        chunks.append((cur, chunk_end))
+        cur = chunk_end + _dt_chunk.timedelta(days=1)
+
+    print(f"     📦 statcast [{label}]: splitting {total_days}-day range into "
+          f"{len(chunks)} chunks of ~{chunk_days} days each")
+
+    dfs = []
+    failed_ranges = []
+    for i, (c_start, c_end) in enumerate(chunks, 1):
+        c_start_str, c_end_str = c_start.strftime("%Y-%m-%d"), c_end.strftime("%Y-%m-%d")
+        try:
+            df_chunk = _statcast_with_retry(
+                statcast_fn, c_start_str, c_end_str,
+                label=f"{label} chunk {i}/{len(chunks)}", max_retries=1, retry_delay=5.0
+            )
+            if df_chunk is not None and not df_chunk.empty:
+                dfs.append(df_chunk)
+        except Exception as e:
+            failed_ranges.append((c_start_str, c_end_str))
+            print(f"     ⚠️  statcast [{label}]: chunk {i}/{len(chunks)} "
+                  f"({c_start_str}→{c_end_str}) failed even after retry, skipping "
+                  f"({e})")
+
+    if failed_ranges:
+        print(f"     ⚠️  statcast [{label}]: {len(failed_ranges)}/{len(chunks)} chunks "
+              f"failed and were skipped - result is PARTIAL, missing: {failed_ranges}")
+
+    if not dfs:
+        return None
+    combined = pd.concat(dfs, ignore_index=True)
+    print(f"     ✅ statcast [{label}]: {len(dfs)}/{len(chunks)} chunks succeeded, "
+          f"{len(combined)} total rows combined")
+    return combined
+
+
 
 # ============================================================
 # ── SECTION 5a: RECENT FORM (last 14 days, event-level) ──────
@@ -5452,8 +5528,8 @@ def fetch_recent_form(year: int) -> dict:
         end   = date.today()
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
-        df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
-                                   label="Recent form")
+        df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+                                chunk_days=7, label="Recent form")
         if df is None or df.empty:
             print("  ⚠️  Recent form: no data returned")
             return {}, {}, {}
@@ -6092,50 +6168,68 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
                 "fpts": fpts, "value": value, "salary": salary, "name_raw": name.strip()
             }
 
-    # STRATEGY 2 (fallback): regex over rendered HTML table rows. Loosely
-    # matches "<name...> ... FPTS ... <number> ... VALUE ... <number>x"
-    # patterns without assuming exact tag structure, since that structure is
-    # unverified from Python's side.
+    # STRATEGY 2 (fallback): regex over rendered HTML table rows.
+    # CONFIRMED STRUCTURE (Aug 13 2026, from a real run's diagnostic dump):
+    #   <div class="text-grey-dk faded-lt font-h5 bold">FPTS</div>
+    #   <div class="projections-listing-ppg-target font-h2">35.7</div>
+    #   ...
+    #   <div class="text-grey-dk faded-lt font-h5 bold">VALUE</div>
+    #   <div class="...">3.5</div>
+    # The original regex assumed the number sat within 15 chars of the
+    # literal "FPTS" text - the real gap is ~150+ chars of intervening
+    # class/div markup, which is exactly why it found 0 matches. Fixed to
+    # anchor on the confirmed "...target font-h2">NUMBER</div>" shape
+    # instead of a character-distance guess.
     if not result:
         print("   DailyFantasyFuel: no usable JSON blob found, falling back to HTML regex scan")
-        # DIAGNOSTIC (Aug 13 2026): the regex below found 0 matches on the
-        # first real run - rather than guess a 4th pattern blind, dump raw
-        # text samples around a keyword ("FPTS") that's confidently present
-        # somewhere in the page, so the actual structure can be read directly
-        # from the next run's output and a correct parser built from it.
         _fpts_positions = [m.start() for m in _dff_re.finditer(r'FPTS', raw, _dff_re.IGNORECASE)]
-        print(f"   DailyFantasyFuel diagnostic: found 'FPTS' literal text {len(_fpts_positions)} "
-              f"times in the raw page")
         if not _fpts_positions:
-            # If 'FPTS' doesn't appear as literal text at all, this is likely a
-            # fully client-rendered page where the real data never reaches
-            # urllib as HTML text - the JSON-blob strategy above is then the
-            # only viable path, and the fix belongs there, not in this regex.
-            # Dump an unconditional sample so that's visible either way.
             print(f"   DailyFantasyFuel diagnostic: raw page sample (first 1500 chars):")
             print(f"     {raw[:1500]!r}")
-        for _pos in _fpts_positions[:2]:
-            _lo, _hi = max(0, _pos - 300), min(len(raw), _pos + 300)
-            print(f"   DailyFantasyFuel diagnostic: raw text sample around offset {_pos}:")
-            print(f"     {raw[_lo:_hi]!r}")
-        row_pattern = _dff_re.compile(
-            r'([A-Z][A-Za-z\.\'\-]+(?:\s+[A-Z][A-Za-z\.\'\-]+){0,2})'
-            r'[^0-9]{1,80}?FPTS[^0-9\-]{0,15}([\d.]+)'
-            r'[^0-9]{1,40}?VALUE[^0-9\-]{0,15}([\d.]+)x',
+
+        # Confirmed-shape number extraction: FPTS/VALUE label div followed by
+        # a "...-target font-h2">NUMBER</div>" value div, with unknown-but-
+        # bounded markup between them.
+        stat_pair_pattern = _dff_re.compile(
+            r'FPTS</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>'
+            r'.{1,400}?'
+            r'VALUE</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>',
             _dff_re.IGNORECASE | _dff_re.DOTALL
         )
-        matches = row_pattern.findall(raw)
-        print(f"   DailyFantasyFuel: regex fallback found {len(matches)} row matches")
-        for name, fpts, value in matches[:3]:
-            print(f"     sample match: name={name!r} fpts={fpts} value={value}")
-        for name, fpts, value in matches:
+        stat_matches = list(stat_pair_pattern.finditer(raw))
+        print(f"   DailyFantasyFuel: FPTS/VALUE pair pattern found {len(stat_matches)} matches")
+
+        # Name extraction: unconfirmed shape - search backward from each FPTS
+        # match for the nearest capitalized "First Last"-style text, which
+        # based on the rendered page layout sits reasonably close to (not
+        # necessarily immediately before) each player's stat block. If this
+        # heuristic misses, the diagnostic dump below gives real backward
+        # context for a precise follow-up fix rather than another blind guess.
+        name_pattern = _dff_re.compile(r'>([A-Z][a-zA-Z\.\'\-]+(?:\s+[A-Z][a-zA-Z\.\'\-]+){1,2})<')
+        _name_diag_shown = 0
+        for m in stat_matches:
+            fpts_val, value_val = m.group(1), m.group(2)
+            _search_start = max(0, m.start() - 600)
+            _backward_chunk = raw[_search_start:m.start()]
+            _name_matches = list(name_pattern.finditer(_backward_chunk))
+            name = _name_matches[-1].group(1).strip() if _name_matches else None
+            if name is None and _name_diag_shown < 2:
+                print(f"   DailyFantasyFuel diagnostic: name heuristic found nothing before "
+                      f"FPTS={fpts_val} match - backward context (600 chars):")
+                print(f"     {_backward_chunk!r}")
+                _name_diag_shown += 1
+                continue
+            if name is None:
+                continue
             try:
-                result[name.strip().lower()] = {
-                    "fpts": float(fpts), "value": float(value),
-                    "salary": None, "name_raw": name.strip()
+                result[name.lower()] = {
+                    "fpts": float(fpts_val), "value": float(value_val),
+                    "salary": None, "name_raw": name
                 }
             except Exception:
                 continue
+        print(f"   DailyFantasyFuel: regex fallback matched {len(result)} of "
+              f"{len(stat_matches)} FPTS/VALUE pairs to a name")
 
     if result:
         print(f"   DailyFantasyFuel: parsed {len(result)} player projections ({platform})")
@@ -8473,7 +8567,7 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
         start = end - timedelta(days=days_back)
     
     print(f"  📡 pybaseball: statcast aggregation {start} → {end} (may take 10-20s)...")
-    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Arsenal fallback")
+    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Arsenal fallback")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
     
@@ -8708,7 +8802,7 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         return _cached
 
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
-    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Pitcher aggregation")
+    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Pitcher aggregation")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
 
@@ -12364,7 +12458,7 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
         season_start = date(year, 3, 20)
         print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_td} "
               f"(first run; will cache for re-runs)...")
-        df = _statcast_with_retry(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), label="BZM season zones")
+        df = _statcast_chunked(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), chunk_days=15, label="BZM season zones")
 
         if df is None or df.empty:
             print("  ⚠️  BZM season zones: no data returned")
