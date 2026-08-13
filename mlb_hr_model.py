@@ -6265,13 +6265,20 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
         _name_diag_shown = 0
         for m in stat_matches:
             fpts_val, value_val = m.group(1), m.group(2)
-            _search_start = max(0, m.start() - 600)
+            # Aug 13 2026: widened from 600 to 1000 chars - batter rows carry
+            # extra markup pitcher rows don't (a batting-order "· 1" marker),
+            # pushing the name further back than 600 chars covered. Confirmed
+            # from a real run: the two shown failures were both batters
+            # (OF/1B), and pitcher-row names matched fine at the old width -
+            # this is specifically a batter-row gap, which matters most here
+            # since the whole point of this cross-check is batters.
+            _search_start = max(0, m.start() - 1000)
             _backward_chunk = raw[_search_start:m.start()]
             _name_matches = list(name_pattern.finditer(_backward_chunk))
             name = _name_matches[-1].group(1).strip() if _name_matches else None
             if name is None and _name_diag_shown < 2:
                 print(f"   DailyFantasyFuel diagnostic: name heuristic found nothing before "
-                      f"FPTS={fpts_val} match - backward context (600 chars):")
+                      f"FPTS={fpts_val} match - backward context (1000 chars):")
                 print(f"     {_backward_chunk!r}")
                 _name_diag_shown += 1
                 continue
