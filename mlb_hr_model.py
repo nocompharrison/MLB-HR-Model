@@ -19517,7 +19517,15 @@ def _sheet_rankings(wb, scores, top_n):
         # only ever been measured once (Jul 2026, 39 slates: NearHR2 = 1.17x,
         # NearHR4 inverts to 0.72x) and the standalone boost is zeroed on that
         # basis. Exporting them makes both re-testable from FantasyLabsMLB.csv.
-        "NearHR\nCount", "NearHR\nPA", "NearHR\nRate"
+        "NearHR\nCount", "NearHR\nPA", "NearHR\nRate",
+        # Aug 13 2026: DFF cross-check was influencing conviction with no
+        # visible trace anywhere in the sheet - the HR side had nothing
+        # analogous to the hit props sheet's pipe-joined Notes column, so a
+        # batter's score could move and there'd be no way to see why just by
+        # looking at the output. Added directly rather than folded into an
+        # existing notes dump, since a dedicated column is easy to scan for
+        # and a long pipe-joined string of every note that fired is not.
+        "DFF\nCross-Check"
     ]
     for c, h in enumerate(headers, 1):
         _hc(ws, 3, c, h)
@@ -19746,6 +19754,45 @@ def _sheet_rankings(wb, scores, top_n):
         _dc(ws, row, 20, _nhc, bg=bg, fmt="0")
         _dc(ws, row, 21, _nhp, bg=bg, fmt="0")
         _dc(ws, row, 22, round(_nhc / _nhp, 3) if _nhp > 0 else 0.0, bg=bg, fmt="0.000")
+
+        # Aug 13 2026: DFF Cross-Check column - makes the same-day DFF
+        # influence on this batter's conviction visible, since previously
+        # nothing in the sheet showed it even when it fired. Shows the tier
+        # that actually earned conviction credit (see _hr_conviction_score's
+        # Pillar 2: TIER1=+5, TIER2=+2, no tier=no bonus), team-relative
+        # rank, and the underlying FPTS/Value numbers so the reasoning is
+        # checkable, not just a bare label.
+        _dff_team_rk = int(getattr(sc, "dff_team_rank", 0) or 0)
+        _dff_fpts_v  = getattr(sc, "dff_fpts", None)
+        _dff_value_v = getattr(sc, "dff_value", None)
+        if _dff_team_rk == 1:
+            _dff_display = f"🥇 T1 ({_dff_fpts_v:.1f}fp)" if _dff_fpts_v is not None else "🥇 T1"
+            _dff_bg, _dff_fc = "1A7A3C", "FFFFFF"   # dark green - full bonus tier
+        elif _dff_team_rk == 2:
+            _dff_display = f"🥈 T2 ({_dff_fpts_v:.1f}fp)" if _dff_fpts_v is not None else "🥈 T2"
+            _dff_bg, _dff_fc = "70AD47", "FFFFFF"   # lighter green - partial bonus tier
+        elif _dff_fpts_v is not None:
+            # Matched to DFF data but didn't clear a bonus tier (team rank
+            # 3+, or team had <2 matched batters so no comparison happened).
+            _dff_display = f"– ({_dff_fpts_v:.1f}fp)"
+            _dff_bg, _dff_fc = "F2F2F2", "808080"   # grey - matched, no bonus
+        else:
+            _dff_display = "–"
+            _dff_bg, _dff_fc = "F2F2F2", "808080"   # grey - no DFF match at all
+        _dc(ws, row, 23, _dff_display, bg=_dff_bg, font_color=_dff_fc, fmt="@")
+        if _dff_fpts_v is not None:
+            from openpyxl.comments import Comment as _DffComment
+            _dff_cmt_lines = [f"DFF FPTS projection: {_dff_fpts_v:.1f}"]
+            if _dff_value_v is not None:
+                _dff_cmt_lines.append(f"DFF Value: {_dff_value_v:.2f}")
+            if _dff_team_rk:
+                _dff_cmt_lines.append(f"Team-relative DFF rank: #{_dff_team_rk}")
+            else:
+                _dff_cmt_lines.append("No team rank: fewer than 2 teammates matched to compare")
+            _dff_cmt = _DffComment("\n".join(_dff_cmt_lines), "Model")
+            _dff_cmt.width, _dff_cmt.height = 220, 70
+            ws.cell(row, 23).comment = _dff_cmt
+
         # Add combo as a cell comment so hovering shows the historical rate
         if sc.combo_label:
             from openpyxl.comments import Comment
@@ -19758,7 +19805,7 @@ def _sheet_rankings(wb, scores, top_n):
         ws.row_dimensions[row].height = 18
 
     # Adjust column widths
-    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7})
+    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7,23:16})
 
     # ── Legend row ────────────────────────────────────────────────────────────
     from openpyxl.styles import PatternFill, Font, Alignment
@@ -19961,6 +20008,11 @@ def _sheet_hit_props(wb, scores, top_n):
         "Rank", "Batter", "Team", "Opp", "Pitcher", "Game Time",
         "Hit\nScore", "Hits\nOdds", "TB\nProj", "Weighted\nHit Rate",
         "Last 5\nHit %", "Season\nHit %", "Hit Notes",
+        # Aug 13 2026: same rationale as the Rankings sheet - the pipe-joined
+        # Hit Notes column technically contains the DFF text when it fires,
+        # but buried among every other note that fired for that batter. A
+        # dedicated column is actually scannable.
+        "DFF\nCross-Check",
     ]
     s = Side(style="thin", color="AAAAAA")
     for c, h in enumerate(headers, 1):
@@ -20054,10 +20106,30 @@ def _sheet_hit_props(wb, scores, top_n):
         notes_str = " | ".join(sc.hit_notes) if sc.hit_notes else ""
         _dc_hp(13, notes_str, align="left", wrap=True)
 
+        # Aug 13 2026: dedicated DFF Cross-Check column, same pattern as the
+        # Rankings sheet. Shows the tier that actually earned conviction
+        # credit (see _hit_conviction: TIER1=+1, TIER2=+0.5, no tier=no
+        # bonus), team-relative rank, and the underlying FPTS number.
+        _dff_team_rk_h = int(getattr(sc, "dff_team_rank", 0) or 0)
+        _dff_fpts_h    = getattr(sc, "dff_fpts", None)
+        if _dff_team_rk_h == 1:
+            _dff_display_h = f"🥇 T1 ({_dff_fpts_h:.1f}fp)" if _dff_fpts_h is not None else "🥇 T1"
+            _dff_bg_h = "E2EFDA"
+        elif _dff_team_rk_h == 2:
+            _dff_display_h = f"🥈 T2 ({_dff_fpts_h:.1f}fp)" if _dff_fpts_h is not None else "🥈 T2"
+            _dff_bg_h = "FFF2CC"
+        elif _dff_fpts_h is not None:
+            _dff_display_h = f"– ({_dff_fpts_h:.1f}fp)"
+            _dff_bg_h = bg
+        else:
+            _dff_display_h = "–"
+            _dff_bg_h = bg
+        _dc_hp(14, _dff_display_h, bg_=_dff_bg_h, align="center")
+
         ws.row_dimensions[row].height = 28 if notes_str else 18
 
     _widths(ws, {1:6, 2:20, 3:6, 4:7, 5:20, 6:11,
-                 7:7, 8:9, 9:8, 10:10, 11:8, 12:8, 13:50})
+                 7:7, 8:9, 9:8, 10:10, 11:8, 12:8, 13:50, 14:16})
 
 
 def _sheet_conditions(wb, games):
