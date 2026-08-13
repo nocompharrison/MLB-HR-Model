@@ -5376,6 +5376,50 @@ def match_propline_event(mlb_game: dict, propline_events: list) -> Optional[str]
 
 
 
+def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str = "",
+                          max_retries: int = 2, retry_delay: float = 8.0):
+    """
+    Wrap a pybaseball statcast() call with a small retry-with-backoff.
+
+    Added Aug 13 2026 after a run where all FOUR statcast() call sites in
+    this file (recent form, pitcher aggregation, arsenal fallback, BZM season
+    zones) failed in the same run with the identical Baseball Savant error
+    "Query Timeout. Please try to limit your query to less data." - including
+    on a 14-day range, which should normally be trivially fast. That pattern
+    (short AND long ranges all failing together) points to Savant's own
+    backend being under load during that specific window, not a problem with
+    how this file constructs its queries - a genuine third-party outage isn't
+    something a code fix here can eliminate. What a retry CAN do is absorb a
+    transient failure: if Savant's servers were briefly overloaded, a second
+    attempt a few seconds later often succeeds where the first didn't. This
+    does not chunk the date range smaller (would need per-caller changes to
+    the caching logic downstream) - it only adds a cheap second/third attempt
+    before giving up, which is a safe, low-risk improvement regardless of
+    root cause.
+
+    Returns whatever statcast_fn returns, or None if every attempt failed.
+    """
+    import time as _time_scr
+    last_err = None
+    for attempt in range(1, max_retries + 2):  # e.g. max_retries=2 -> 3 total attempts
+        try:
+            return statcast_fn(start_str, end_str)
+        except Exception as e:
+            last_err = e
+            is_timeout = "timeout" in str(e).lower() or "limit your query" in str(e).lower()
+            if attempt <= max_retries:
+                _tag = f" [{label}]" if label else ""
+                _reason = "Savant query timeout" if is_timeout else "error"
+                print(f"     ⏳ statcast{_tag}: {_reason} on attempt {attempt}/{max_retries+1} "
+                      f"({e}) - retrying in {retry_delay:.0f}s...")
+                _time_scr.sleep(retry_delay)
+            else:
+                _tag = f" [{label}]" if label else ""
+                print(f"     ⚠️  statcast{_tag}: failed after {max_retries+1} attempts ({e})")
+    raise last_err
+
+
+
 # ============================================================
 # ── SECTION 5a: RECENT FORM (last 14 days, event-level) ──────
 # ============================================================
@@ -5408,7 +5452,8 @@ def fetch_recent_form(year: int) -> dict:
         end   = date.today()
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
-        df = statcast(start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"))
+        df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+                                   label="Recent form")
         if df is None or df.empty:
             print("  ⚠️  Recent form: no data returned")
             return {}, {}, {}
@@ -5848,6 +5893,16 @@ def fetch_pitcher_discipline(year: int) -> dict:
             raise urllib.error.HTTPError(url_adv, _resp.status_code, "blocked", {}, None)
         _data = _json.loads(_resp.text)
         _rows = _data.get("data", []) if isinstance(_data, dict) else []
+        # DIAGNOSTIC (Aug 13 2026): a run showed CSW=0 for all 571 pitchers
+        # despite no exception being raised - the fetch succeeds but the
+        # field names below (CSW/csw_pct/CSW% etc.) apparently don't match
+        # this endpoint's current response shape (same drift pattern already
+        # seen on FanGraphs type=23 and type=4 this session). Print the
+        # actual keys once so a correct field name can be picked from real
+        # evidence rather than guessed again.
+        if _rows:
+            print(f"   FanGraphs discipline diagnostic: {len(_rows)} rows returned, "
+                  f"first row's keys: {sorted(_rows[0].keys())[:25]}")
         for _row in _rows:
             _name = str(_row.get("PlayerName") or _row.get("playerName") or "").strip()
             if not _name:
@@ -6043,6 +6098,26 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
     # unverified from Python's side.
     if not result:
         print("   DailyFantasyFuel: no usable JSON blob found, falling back to HTML regex scan")
+        # DIAGNOSTIC (Aug 13 2026): the regex below found 0 matches on the
+        # first real run - rather than guess a 4th pattern blind, dump raw
+        # text samples around a keyword ("FPTS") that's confidently present
+        # somewhere in the page, so the actual structure can be read directly
+        # from the next run's output and a correct parser built from it.
+        _fpts_positions = [m.start() for m in _dff_re.finditer(r'FPTS', raw, _dff_re.IGNORECASE)]
+        print(f"   DailyFantasyFuel diagnostic: found 'FPTS' literal text {len(_fpts_positions)} "
+              f"times in the raw page")
+        if not _fpts_positions:
+            # If 'FPTS' doesn't appear as literal text at all, this is likely a
+            # fully client-rendered page where the real data never reaches
+            # urllib as HTML text - the JSON-blob strategy above is then the
+            # only viable path, and the fix belongs there, not in this regex.
+            # Dump an unconditional sample so that's visible either way.
+            print(f"   DailyFantasyFuel diagnostic: raw page sample (first 1500 chars):")
+            print(f"     {raw[:1500]!r}")
+        for _pos in _fpts_positions[:2]:
+            _lo, _hi = max(0, _pos - 300), min(len(raw), _pos + 300)
+            print(f"   DailyFantasyFuel diagnostic: raw text sample around offset {_pos}:")
+            print(f"     {raw[_lo:_hi]!r}")
         row_pattern = _dff_re.compile(
             r'([A-Z][A-Za-z\.\'\-]+(?:\s+[A-Z][A-Za-z\.\'\-]+){0,2})'
             r'[^0-9]{1,80}?FPTS[^0-9\-]{0,15}([\d.]+)'
@@ -6071,7 +6146,7 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
     return result
 
 
-
+def fetch_pitcher_l5_starts(pitcher_id_map: dict, season: int = 2026) -> dict:
     """
     Fetch last-5-start stats for each starting pitcher using the MLB Stats API.
     This is the "recency window" the video recommends alongside season + prior season.
@@ -8398,7 +8473,7 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
         start = end - timedelta(days=days_back)
     
     print(f"  📡 pybaseball: statcast aggregation {start} → {end} (may take 10-20s)...")
-    df = statcast(start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"))
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Arsenal fallback")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
     
@@ -8633,7 +8708,7 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         return _cached
 
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
-    df = statcast(start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"))
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Pitcher aggregation")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
 
@@ -12289,7 +12364,7 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
         season_start = date(year, 3, 20)
         print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_td} "
               f"(first run; will cache for re-runs)...")
-        df = statcast(season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"))
+        df = _statcast_with_retry(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), label="BZM season zones")
 
         if df is None or df.empty:
             print("  ⚠️  BZM season zones: no data returned")
