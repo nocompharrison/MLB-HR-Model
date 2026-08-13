@@ -1025,6 +1025,12 @@ class BatterProfile:
     l7_slg:          float = 0.0   # SLG% last 7 days (power recency signal)
     l7_ba:           float = 0.0   # BA last 7 days
     l7_hr:           int   = 0     # HRs last 7 days
+    # ── DailyFantasyFuel same-day cross-check (Aug 13 2026, unvalidated) ────────
+    dff_fpts:         float = 0.0   # DFF projected FanDuel fantasy points, today only
+    dff_value:        float = 0.0   # DFF projected value (FPTS per $1000 salary)
+    dff_fpts_rank:    int   = 0     # this batter's rank by DFF FPTS among today's matched slate (1=best), 0=unmatched
+    dff_value_rank:   int   = 0     # this batter's rank by DFF Value among today's matched slate (1=best), 0=unmatched
+    dff_team_rank:    int   = 0     # this batter's rank by DFF FPTS among their OWN team's matched batters (1=best on team), 0=unmatched. This is the field that actually addresses "prioritize correctly among teammates" - slate-wide rank alone can't.
     # ── New stats from FantasyLabs batter view ────────────────────────────────
     near_hr_count: int   = 0      # near-HRs (hard-hit fly balls near wall) — power signal
     near_hr_pa:    int   = 0      # PA in which near_hr_count was accumulated
@@ -5919,7 +5925,153 @@ def fetch_pitcher_discipline(year: int) -> dict:
     return result
 
 
-def fetch_pitcher_l5_starts(pitcher_id_map: dict, season: int = 2026) -> dict:
+def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
+    """
+    Fetch DailyFantasyFuel's MLB DFS projections (FanDuel FPTS + Value) for
+    today's slate. Added Aug 13 2026 per explicit instruction - used as a
+    SAME-DAY cross-check on the model's own picks, NOT backtested (DFF has no
+    historical projections archive available, so there is no way to validate
+    this the way every other signal in this file has been validated). This is
+    intentionally unvalidated by design, at Harrison's direction, and should
+    be read that way anywhere it shows up in scoring or on the card.
+
+    WHY THIS FUNCTION LOOKS DIFFERENT FROM OTHER FETCHES IN THIS FILE: the
+    exact HTML this page sends to a plain urllib GET has not been directly
+    observed - it was only confirmed reachable through a tool that renders
+    the page and hands back a markdown approximation, not raw HTML. Modern
+    React/Next.js sites (this one has interactive dropdowns, an "OPTIMIZE"
+    button, virtualized player lists - all signs of client-side rendering)
+    very often embed their initial data as a JSON blob directly in the page
+    source for hydration, which is far more reliable to parse than scraping
+    rendered table markup. This function tries that first, falls back to
+    regex-based HTML table scraping if no such blob is found, and prints
+    generous diagnostics either way so a first real run that doesn't parse
+    cleanly is immediately debuggable rather than silently empty - the same
+    approach that worked for every FanGraphs/DailyPitch parsing gap this
+    session.
+
+    Returns {normalized_name: {"fpts": float, "value": float, "salary": int,
+    "team": str, "order": int}}. Returns {} on total failure (never raises -
+    this is a same-day nice-to-have, not a hard dependency).
+    """
+    import re as _dff_re, json as _dff_json
+
+    url = f"https://www.dailyfantasyfuel.com/mlb/projections/{platform}/"
+    raw = _get_text(url, timeout=20)
+    if not raw:
+        print("   DailyFantasyFuel: fetch failed (no response) - skipping DFF cross-check")
+        return {}
+    print(f"   DailyFantasyFuel: fetched {len(raw)} chars from {url}")
+
+    result: dict = {}
+
+    # STRATEGY 1: look for an embedded JSON data blob (common in React/Next.js
+    # apps). Try several known patterns; take the first that parses and
+    # contains something resembling a player list.
+    json_patterns = [
+        r'<script[^>]*id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>',
+        r'window\.__INITIAL_STATE__\s*=\s*(\{.*?\});?\s*</script>',
+        r'window\.__DFF_DATA__\s*=\s*(\{.*?\});?\s*</script>',
+        r'<script[^>]*type=["\']application/json["\'][^>]*>(.*?)</script>',
+    ]
+    blob = None
+    for pat in json_patterns:
+        m = _dff_re.search(pat, raw, _dff_re.DOTALL)
+        if m:
+            try:
+                blob = _dff_json.loads(m.group(1))
+                print(f"   DailyFantasyFuel: found JSON blob via pattern {pat[:40]}...")
+                break
+            except Exception:
+                continue
+
+    def _walk_for_players(obj, found):
+        """Recursively search a parsed JSON blob for anything shaped like a
+        player projection list - looking for dicts with both a name-like key
+        and a points-like key present together."""
+        if isinstance(obj, dict):
+            keys_lower = {k.lower(): k for k in obj.keys()}
+            name_key = next((keys_lower[k] for k in keys_lower if k in
+                             ("name", "playername", "player_name", "fullname")), None)
+            fpts_key = next((keys_lower[k] for k in keys_lower if k in
+                             ("fpts", "fp", "points", "projection", "proj")), None)
+            if name_key and fpts_key:
+                found.append(obj)
+            for v in obj.values():
+                _walk_for_players(v, found)
+        elif isinstance(obj, list):
+            for item in obj:
+                _walk_for_players(item, found)
+
+    if blob is not None:
+        candidates = []
+        _walk_for_players(blob, candidates)
+        print(f"   DailyFantasyFuel: JSON walk found {len(candidates)} player-shaped records")
+        for c in candidates[:3]:
+            print(f"     sample record: {c}")
+        for c in candidates:
+            name = None
+            for k in ("name", "playerName", "player_name", "fullName", "Name"):
+                if k in c and c[k]:
+                    name = str(c[k]); break
+            if not name:
+                continue
+            fpts = None
+            for k in ("fpts", "fp", "points", "projection", "proj", "FPTS"):
+                if k in c and c[k] not in (None, ""):
+                    try: fpts = float(c[k]); break
+                    except Exception: pass
+            if fpts is None:
+                continue
+            value = None
+            for k in ("value", "val", "Value"):
+                if k in c and c[k] not in (None, ""):
+                    try: value = float(c[k]); break
+                    except Exception: pass
+            salary = None
+            for k in ("salary", "Salary"):
+                if k in c and c[k] not in (None, ""):
+                    try: salary = int(float(c[k])); break
+                    except Exception: pass
+            result[name.strip().lower()] = {
+                "fpts": fpts, "value": value, "salary": salary, "name_raw": name.strip()
+            }
+
+    # STRATEGY 2 (fallback): regex over rendered HTML table rows. Loosely
+    # matches "<name...> ... FPTS ... <number> ... VALUE ... <number>x"
+    # patterns without assuming exact tag structure, since that structure is
+    # unverified from Python's side.
+    if not result:
+        print("   DailyFantasyFuel: no usable JSON blob found, falling back to HTML regex scan")
+        row_pattern = _dff_re.compile(
+            r'([A-Z][A-Za-z\.\'\-]+(?:\s+[A-Z][A-Za-z\.\'\-]+){0,2})'
+            r'[^0-9]{1,80}?FPTS[^0-9\-]{0,15}([\d.]+)'
+            r'[^0-9]{1,40}?VALUE[^0-9\-]{0,15}([\d.]+)x',
+            _dff_re.IGNORECASE | _dff_re.DOTALL
+        )
+        matches = row_pattern.findall(raw)
+        print(f"   DailyFantasyFuel: regex fallback found {len(matches)} row matches")
+        for name, fpts, value in matches[:3]:
+            print(f"     sample match: name={name!r} fpts={fpts} value={value}")
+        for name, fpts, value in matches:
+            try:
+                result[name.strip().lower()] = {
+                    "fpts": float(fpts), "value": float(value),
+                    "salary": None, "name_raw": name.strip()
+                }
+            except Exception:
+                continue
+
+    if result:
+        print(f"   DailyFantasyFuel: parsed {len(result)} player projections ({platform})")
+    else:
+        print("   DailyFantasyFuel: parsing failed entirely - neither strategy found usable "
+              "data. Share the next run's full output around this point so the actual page "
+              "structure can be diagnosed directly, same as every other parsing gap this session.")
+    return result
+
+
+
     """
     Fetch last-5-start stats for each starting pitcher using the MLB Stats API.
     This is the "recency window" the video recommends alongside season + prior season.
@@ -9775,6 +9927,11 @@ def build_batter(name, row, recent, overrides, hr_props) -> BatterProfile:
         l7_slg          =_g(row,"l7_slg",            default=0.0) or 0.0,
         l7_ba           =_g(row,"l7_ba",             default=0.0) or 0.0,
         l7_hr           =int(_g(row,"l7_hr",          default=0) or 0),
+        dff_fpts        =_g(row,"dff_fpts",           default=0.0) or 0.0,
+        dff_value       =_g(row,"dff_value",          default=0.0) or 0.0,
+        dff_fpts_rank   =int(_g(row,"dff_fpts_rank",  default=0) or 0),
+        dff_value_rank  =int(_g(row,"dff_value_rank", default=0) or 0),
+        dff_team_rank   =int(_g(row,"dff_team_rank",  default=0) or 0),
         savant_id=int(_g(row,"playerid","player_id","mlbam_id",default=0) or 0),
         sprint_speed=_g(row,"sprint_speed","Sprint Speed", default=27.0),
         woba_vs_rhp=_g(row,"woba_vs_rhp", default=0.0) or 0.0,
@@ -13220,6 +13377,39 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # that reset (first_start, home/away context) are intentional pre-Stage-3 entries.
     notes = []
 
+    # ══ DAILYFANTASYFUEL FPTS/VALUE CROSS-CHECK — HR side (Aug 13 2026) ═════
+    # Same-day only, explicitly unvalidated (see fetch_dailyfantasyfuel_
+    # projections() docstring for why no backtest is possible here).
+    # REDESIGNED (same day, after review): the original version checked
+    # slate-wide rank only ("is this batter in DFF's overall top 15") - that
+    # cannot express "prioritize correctly among teammates", since if a whole
+    # lineup is DFF-favored, every batter on it clears the same flat
+    # threshold and gets an identical bonus, with zero signal about which of
+    # them DFF actually prefers over the others. Fixed: rank is now
+    # TEAM-RELATIVE (dff_team_rank, computed in main() against each batter's
+    # own teammates' DFF numbers, not the whole slate) - the team's actual
+    # DFF-#1 pick gets the full bonus, #2 gets half, #3+ gets nothing. A
+    # secondary slate-wide floor (top 40) still applies so "best of a weak
+    # lineup" doesn't get over-credited in an absolute sense. Bounded
+    # deliberately small either way (see _hr_conviction_score's Pillar 2) so
+    # a same-day, non-backtested cross-check can't outweigh anything else.
+    _dff_slate_rank = min(getattr(batter, "dff_fpts_rank", 0) or 999,
+                          getattr(batter, "dff_value_rank", 0) or 999)
+    _dff_team_rank = getattr(batter, "dff_team_rank", 0)
+    if _dff_team_rank == 1 and _dff_slate_rank <= 40:
+        notes.append(
+            f"💰 DFF CROSS-CHECK (TIER1): DailyFantasyFuel's #1-ranked batter on this team "
+            f"today (FPTS {getattr(batter,'dff_fpts',0):.1f}, Value "
+            f"{getattr(batter,'dff_value',0):.1f}x, slate rank #{_dff_slate_rank}) - "
+            f"independent same-day agreement, unvalidated, small bonus only."
+        )
+    elif _dff_team_rank == 2 and _dff_slate_rank <= 40:
+        notes.append(
+            f"💰 DFF CROSS-CHECK (TIER2): DailyFantasyFuel's #2-ranked batter on this team "
+            f"today (FPTS {getattr(batter,'dff_fpts',0):.1f}, slate rank #{_dff_slate_rank}) - "
+            f"independent same-day agreement, unvalidated, smaller bonus only."
+        )
+
     # GB% park suppressor: high-GB% pitchers neutralize elevated park factors.
     if pitcher.gb_pct > 48.0 and park > 1.05:
         _gb_excess  = (pitcher.gb_pct - 44.0) / 100.0
@@ -14554,6 +14744,25 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         _hit_notes.append(
             f"👨‍⚖️ Umpire tight zone: removes count advantage, reduces hit quality "
             f"({_ump_hit_pen:.0f} hit pts)")
+
+    # ══ DAILYFANTASYFUEL FPTS/VALUE CROSS-CHECK — Hit side (Aug 13 2026) ════
+    # Same team-relative redesign as the HR-side check above - a flat
+    # slate-wide threshold couldn't express "prioritize correctly among
+    # teammates" (see the HR-side comment for the full rationale). Same-day
+    # only, explicitly unvalidated, deliberately small and bounded.
+    _dff_slate_rank_h = min(getattr(batter, "dff_fpts_rank", 0) or 999,
+                            getattr(batter, "dff_value_rank", 0) or 999)
+    _dff_team_rank_h = getattr(batter, "dff_team_rank", 0)
+    if _dff_team_rank_h == 1 and _dff_slate_rank_h <= 40:
+        _hit_notes.append(
+            f"💰 DFF CROSS-CHECK (TIER1): DailyFantasyFuel's #1-ranked batter on this team "
+            f"today (FPTS {getattr(batter,'dff_fpts',0):.1f}, slate rank #{_dff_slate_rank_h}) - "
+            f"independent same-day agreement, unvalidated, small bonus only.")
+    elif _dff_team_rank_h == 2 and _dff_slate_rank_h <= 40:
+        _hit_notes.append(
+            f"💰 DFF CROSS-CHECK (TIER2): DailyFantasyFuel's #2-ranked batter on this team "
+            f"today (FPTS {getattr(batter,'dff_fpts',0):.1f}, slate rank #{_dff_slate_rank_h}) - "
+            f"independent same-day agreement, unvalidated, smaller bonus only.")
 
     # ── Stats-based hit score fallback ───────────────────────────────────────
     # Fires when compute_hit_score returned 0.0 AND there is no usable hits
@@ -26742,6 +26951,21 @@ def _sheet_sharp_picks(wb, scores, top_n):
                     f"Jul-Aug 2026, 1-of-406 null-clearing marker pair, p=0.002 chance-rate) — MUST PLAY."
                 ]
 
+        # ══ DAILYFANTASYFUEL CROSS-CHECK — actual point value (Aug 13 2026) ══
+        # The note gets appended earlier in score_player() when it fires;
+        # this is where it actually counts toward conviction. Tiered by
+        # team-relative rank (see score_player()'s comment for why flat
+        # worked poorly): a team's actual DFF-#1 pick gets more than its
+        # DFF-#2. Both deliberately small - +5/+2 vs the +18 ceiling used by
+        # validated, backtested grades above and below this block, reflecting
+        # that this is a same-day, unvalidated cross-check per explicit
+        # instruction, not evidence held to the same bar as everything else
+        # in this Pillar.
+        if "DFF CROSS-CHECK (TIER1)" in notes_s:
+            _p2 = max(_p2, 5.0)
+        elif "DFF CROSS-CHECK (TIER2)" in notes_s:
+            _p2 = max(_p2, 2.0)
+
         # High-tier validated grades — each credits its validated lift independently
         if "LIVE CONFIRMED MATCH" in g:  _p2 = max(_p2, 18.0)  # highest validated, separate from P1
         elif "CONFIRMED MATCH" in g:     _p2 = max(_p2, 18.0)  # 35% AT (1.93x), validated
@@ -30585,6 +30809,13 @@ def _sheet_sharp_picks(wb, scores, top_n):
         if _hp >= 18:   bonus += 3
         elif _hp >= 16: bonus += 2
         elif _hp >= 14: bonus += 1
+        # DAILYFANTASYFUEL CROSS-CHECK (Aug 13 2026) - same-day, unvalidated,
+        # deliberately small, tiered by team-relative rank (see score_player()
+        # comment for why flat worked poorly). nl is already lowercased.
+        if "dff cross-check (tier1)" in nl:
+            bonus += 1
+        elif "dff cross-check (tier2)" in nl:
+            bonus += 0.5
         if "sharp line move" in nl:                                    bonus += 3  # 81% hit
         if "hot hitter" in nl and "weighted hit rate" in nl:           bonus += 2  # WHR≥70%
         if "red hot" in nl:                                            bonus += 1  # L5 hot
@@ -32796,6 +33027,100 @@ def main():
         # Pitcher-specific BBE dict (batter × pitcher × pitch_type)
         if _s_bvp:
             globals()["_BBE_VS_PITCHER"] = _s_bvp
+
+        # ══ DAILYFANTASYFUEL FPTS/VALUE CROSS-CHECK (Aug 13 2026) ═══════════
+        # Same-day only, explicitly NOT backtested (no historical DFF archive
+        # exists to validate against) - a live cross-check on the model's own
+        # picks per Harrison's direct instruction, not a signal held to the
+        # same evidentiary bar as everything else in this file. See the
+        # scoring integration below for exactly how much weight this carries
+        # and why it's deliberately small and bounded.
+        _dff_data = fetch_dailyfantasyfuel_projections("fanduel")
+        if _dff_data:
+            _dff_fpts_sorted = sorted(_dff_data.items(), key=lambda x: x[1]["fpts"], reverse=True)
+            _dff_fpts_rank = {name: i+1 for i, (name, _) in enumerate(_dff_fpts_sorted)}
+            _dff_value_items = [(n, d) for n, d in _dff_data.items() if d.get("value") is not None]
+            _dff_value_sorted = sorted(_dff_value_items, key=lambda x: x[1]["value"], reverse=True)
+            _dff_value_rank = {name: i+1 for i, (name, _) in enumerate(_dff_value_sorted)}
+
+            def _dff_norm(s):
+                s = str(s).strip().lower()
+                for a, b in [("í","i"),("á","a"),("é","e"),("ñ","n"),("ó","o"),("ú","u")]:
+                    s = s.replace(a, b)
+                return s
+
+            # Build a last-name -> full-name-key(s) index for DFF's own data,
+            # since DFF frequently abbreviates first names ("S. Suzuki") while
+            # batter_stats_map uses full names ("Seiya Suzuki").
+            _dff_lastname_idx = {}
+            for dff_key, d in _dff_data.items():
+                parts = _dff_norm(d["name_raw"]).split()
+                if parts:
+                    _dff_lastname_idx.setdefault(parts[-1], []).append(dff_key)
+
+            _dff_matched = 0
+            _dff_matches = {}  # _bname -> (_dff_entry, _bkey), collected first so team-relative
+                               # rank can be computed in a second pass once all matches are known
+            for _bname in batter_stats_map:
+                _bkey = _dff_norm(_bname)
+                _dff_entry = _dff_data.get(_bkey)
+                if _dff_entry is None:
+                    # fallback: match on last name + first-initial agreement
+                    _bparts = _bkey.split()
+                    if _bparts:
+                        _last = _bparts[-1]
+                        _first_initial = _bparts[0][0] if _bparts[0] else ""
+                        for _cand_key in _dff_lastname_idx.get(_last, []):
+                            _cand_parts = _dff_norm(_dff_data[_cand_key]["name_raw"]).split()
+                            if _cand_parts and _cand_parts[0][:1] == _first_initial:
+                                _dff_entry = _dff_data[_cand_key]
+                                _bkey = _cand_key
+                                break
+                if _dff_entry is None:
+                    continue
+                _dff_matches[_bname] = (_dff_entry, _bkey)
+
+            # ══ TEAM-RELATIVE RANK (Aug 13 2026, fixing a real design flaw) ══
+            # A flat "is this batter in DFF's top 15 of the WHOLE SLATE" check
+            # cannot express "prioritize correctly among teammates" - if a
+            # team has 3 batters all in DFF's slate-wide top 15 (a good
+            # matchup night for that offense), all 3 would get the identical
+            # bonus, giving zero signal about which of them DFF actually
+            # prefers. Fixed: rank each team's DFF-matched batters against
+            # EACH OTHER, not the whole slate, and tier the bonus by that
+            # team-relative position. This is what actually addresses "the
+            # model has the wrong batter from this team ranked highest" -
+            # the team's own DFF-#1 gets a real nudge, DFF-#2 gets less,
+            # #3+ gets none, regardless of how the team stacks up externally.
+            _dff_by_team = {}
+            for _bname, (_dff_entry, _bkey) in _dff_matches.items():
+                _team = str(batter_stats_map[_bname].get("team", "")).strip()
+                if not _team:
+                    continue
+                _dff_by_team.setdefault(_team, []).append((_bname, _dff_entry))
+
+            _dff_team_rank = {}  # _bname -> team-relative rank (1=best on team)
+            for _team, _members in _dff_by_team.items():
+                _members_sorted = sorted(_members, key=lambda x: x[1]["fpts"], reverse=True)
+                for _i, (_bname, _) in enumerate(_members_sorted):
+                    _dff_team_rank[_bname] = _i + 1
+
+            for _bname, (_dff_entry, _bkey) in _dff_matches.items():
+                try:
+                    batter_stats_map[_bname]["dff_fpts"] = _dff_entry["fpts"]
+                    batter_stats_map[_bname]["dff_value"] = _dff_entry.get("value")
+                    batter_stats_map[_bname]["dff_fpts_rank"] = _dff_fpts_rank.get(_bkey)
+                    batter_stats_map[_bname]["dff_value_rank"] = _dff_value_rank.get(_bkey)
+                    batter_stats_map[_bname]["dff_team_rank"] = _dff_team_rank.get(_bname, 0)
+                    _dff_matched += 1
+                except Exception:
+                    pass
+            print(f"  ✅ DailyFantasyFuel cross-check: {_dff_matched}/{len(batter_stats_map)} "
+                  f"batters matched (of {len(_dff_data)} DFF projections), "
+                  f"{len(_dff_by_team)} teams with 2+ DFF-matched batters compared")
+        else:
+            print("  ⚠️  DailyFantasyFuel cross-check: no data - skipping for this run "
+                  "(model runs normally without it, same as any other optional signal)")
 
         globals()["_PITCHER_L3_BY_HAND"]    = _PITCHER_L3_BY_HAND
         globals()["_PITCHER_PITCH_VS_HAND"] = _PITCHER_PITCH_VS_HAND
