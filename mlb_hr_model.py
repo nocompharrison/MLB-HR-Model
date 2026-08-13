@@ -6251,13 +6251,17 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
                       f"at offset {_pos}:")
                 print(f"     {raw[_pos:_hi]!r}")
 
-        # Name extraction: unconfirmed shape - search backward from each FPTS
-        # match for the nearest capitalized "First Last"-style text, which
-        # based on the rendered page layout sits reasonably close to (not
-        # necessarily immediately before) each player's stat block. If this
-        # heuristic misses, the diagnostic dump below gives real backward
-        # context for a precise follow-up fix rather than another blind guess.
-        name_pattern = _dff_re.compile(r'>([A-Z][a-zA-Z\.\'\-]+(?:\s+[A-Z][a-zA-Z\.\'\-]+){1,2})<')
+        # Name extraction (Aug 13 2026, confirmed via real diagnostic dumps):
+        # two bugs in the original pattern, found from two different real
+        # samples. (1) It required an IMMEDIATE '<' right after the name -
+        # the real HTML has trailing whitespace/newlines before the closing
+        # tag, which broke even a plain "Roki Sasaki" match. (2) It required
+        # every word to start uppercase - broke on mixed-case names like
+        # "deGrom". Both fixed: optional surrounding whitespace, and a
+        # relaxed (any-case) requirement for words after the first.
+        name_pattern = _dff_re.compile(
+            r'>\s*([A-Z][a-zA-Z\.\'\-]*(?:\s+[a-zA-Z][a-zA-Z\.\'\-]*){1,2})\s*<'
+        )
         _name_diag_shown = 0
         for m in stat_matches:
             fpts_val, value_val = m.group(1), m.group(2)
