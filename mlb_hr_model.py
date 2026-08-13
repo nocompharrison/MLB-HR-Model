@@ -6078,236 +6078,119 @@ def fetch_pitcher_discipline(year: int) -> dict:
     return result
 
 
-def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
+def load_dff_projections_from_excel(xlsx_path: str = None) -> dict:
     """
-    Fetch DailyFantasyFuel's MLB DFS projections (FanDuel FPTS + Value) for
-    today's slate. Added Aug 13 2026 per explicit instruction - used as a
-    SAME-DAY cross-check on the model's own picks, NOT backtested (DFF has no
-    historical projections archive available, so there is no way to validate
-    this the way every other signal in this file has been validated). This is
-    intentionally unvalidated by design, at Harrison's direction, and should
-    be read that way anywhere it shows up in scoring or on the card.
+    Load DailyFantasyFuel FanDuel projections from the "DFF" sheet in
+    FantasyLabsMLB.xlsm.
 
-    WHY THIS FUNCTION LOOKS DIFFERENT FROM OTHER FETCHES IN THIS FILE: the
-    exact HTML this page sends to a plain urllib GET has not been directly
-    observed - it was only confirmed reachable through a tool that renders
-    the page and hands back a markdown approximation, not raw HTML. Modern
-    React/Next.js sites (this one has interactive dropdowns, an "OPTIMIZE"
-    button, virtualized player lists - all signs of client-side rendering)
-    very often embed their initial data as a JSON blob directly in the page
-    source for hydration, which is far more reliable to parse than scraping
-    rendered table markup. This function tries that first, falls back to
-    regex-based HTML table scraping if no such blob is found, and prints
-    generous diagnostics either way so a first real run that doesn't parse
-    cleanly is immediately debuggable rather than silently empty - the same
-    approach that worked for every FanGraphs/DailyPitch parsing gap this
-    session.
+    REPLACES the earlier web-scraping approach entirely (Aug 13 2026).
+    Harrison built a macro that pulls DFF's data directly into a "DFF" tab
+    in the same workbook the model already reads for FantasyLabs/
+    ActionNetwork data - far more reliable than scraping a JS-heavy consumer
+    page, and critically, a COMPLETE roster rather than the ~77-of-250
+    partial slate the scraped version was stuck with (that page has a "Load
+    All Players" button behind client-side JS a plain HTTP fetch can never
+    trigger). Complete coverage also directly fixes a real correctness gap
+    the scraped version had in the team-relative ranking: with partial data,
+    most matched batters were literally the only representative from their
+    team, so every one of them trivially became their team's "#1 DFF pick"
+    by default - not because DFF actually preferred them over a teammate.
+    With full rosters, real team comparisons happen (see the 2+ requirement
+    in main()'s team-rank computation, tightened alongside this change).
 
-    Returns {normalized_name: {"fpts": float, "value": float, "salary": int,
-    "team": str, "order": int}}. Returns {} on total failure (never raises -
-    this is a same-day nice-to-have, not a hard dependency).
+    Sheet columns (confirmed from Harrison's macro output):
+      first_name, last_name, Name, position, injury_status, game_date,
+      slate, team, opp, confirmed_order, starting_pitcher, hand, spread,
+      over_under, implied_team_score, salary, L5_fppg_avg, L10_fppg_avg,
+      szn_fppg_avg, ppg_projection, value_projection
+
+    Only Name, team, ppg_projection, and value_projection are used here -
+    ppg_projection is DFF's FanDuel points projection (what the rest of
+    this file calls "fpts"), value_projection is points-per-$1000-salary
+    ("value").
+
+    Returns {normalized_name: {"fpts": float, "value": float or None,
+    "team": str, "name_raw": str}}. Returns {} on any failure (never
+    raises - same-day nice-to-have, not a hard dependency).
     """
-    import re as _dff_re, json as _dff_json, html as _dff_html
-
-    url = f"https://www.dailyfantasyfuel.com/mlb/projections/{platform}/"
-    raw = _get_text(url, timeout=20)
-    if not raw:
-        print("   DailyFantasyFuel: fetch failed (no response) - skipping DFF cross-check")
-        return {}
-    # Aug 13 2026: decode HTML entities before any matching. Confirmed real
-    # failure: "T. d&#x27;Arnaud" - the apostrophe in d'Arnaud was HTML-
-    # entity-encoded, which the name pattern's literal-apostrophe character
-    # class never accounted for. Unescaping the whole page up front (rather
-    # than special-casing this one entity in the regex) also protects
-    # against accented characters in other names hitting the same class of
-    # problem.
-    raw = _dff_html.unescape(raw)
-    print(f"   DailyFantasyFuel: fetched {len(raw)} chars from {url}")
-
     result: dict = {}
+    path = xlsx_path or FANTASYLABS_FILE
 
-    # STRATEGY 1: look for an embedded JSON data blob (common in React/Next.js
-    # apps). Try several known patterns; take the first that parses and
-    # contains something resembling a player list.
-    json_patterns = [
-        r'<script[^>]*id=["\']__NEXT_DATA__["\'][^>]*>(.*?)</script>',
-        r'window\.__INITIAL_STATE__\s*=\s*(\{.*?\});?\s*</script>',
-        r'window\.__DFF_DATA__\s*=\s*(\{.*?\});?\s*</script>',
-        r'<script[^>]*type=["\']application/json["\'][^>]*>(.*?)</script>',
-    ]
-    blob = None
-    for pat in json_patterns:
-        m = _dff_re.search(pat, raw, _dff_re.DOTALL)
-        if m:
+    try:
+        import openpyxl as _opxl
+        wb = _opxl.load_workbook(path, read_only=True, data_only=True)
+        if "DFF" not in wb.sheetnames:
+            print("   DFF sheet not found in workbook - skipping DFF cross-check")
+            return result
+
+        ws = wb["DFF"]
+        rows = list(ws.iter_rows(values_only=True))
+        if not rows:
+            print("   DFF sheet is empty - skipping DFF cross-check")
+            return result
+
+        header = rows[0]
+        cols = {str(v).strip(): i for i, v in enumerate(header) if v is not None}
+
+        def _col(name_variants):
+            for v in name_variants:
+                if v in cols:
+                    return cols[v]
+            return None
+
+        col_name  = _col(["Name"])
+        col_team  = _col(["team", "Team"])
+        col_fpts  = _col(["ppg_projection", "PPG_Projection", "Ppg_Projection"])
+        col_value = _col(["value_projection", "Value_Projection"])
+
+        if col_name is None or col_fpts is None:
+            print(f"   DFF sheet: required columns not found (Name={col_name}, "
+                  f"ppg_projection={col_fpts}) - actual headers: {list(cols.keys())}")
+            return result
+
+        def _norm(s):
+            s = str(s).strip().lower()
+            for a, b in [("\u00ed","i"),("\u00e1","a"),("\u00e9","e"),("\u00f1","n"),("\u00f3","o"),("\u00fa","u")]:
+                s = s.replace(a, b)
+            return s
+
+        for row in rows[1:]:
+            if row is None or col_name >= len(row):
+                continue
+            name_raw = row[col_name]
+            if not name_raw:
+                continue
+            name_raw = str(name_raw).strip()
             try:
-                blob = _dff_json.loads(m.group(1))
-                print(f"   DailyFantasyFuel: found JSON blob via pattern {pat[:40]}...")
-                break
-            except Exception:
-                continue
-
-    def _walk_for_players(obj, found):
-        """Recursively search a parsed JSON blob for anything shaped like a
-        player projection list - looking for dicts with both a name-like key
-        and a points-like key present together."""
-        if isinstance(obj, dict):
-            keys_lower = {k.lower(): k for k in obj.keys()}
-            name_key = next((keys_lower[k] for k in keys_lower if k in
-                             ("name", "playername", "player_name", "fullname")), None)
-            fpts_key = next((keys_lower[k] for k in keys_lower if k in
-                             ("fpts", "fp", "points", "projection", "proj")), None)
-            if name_key and fpts_key:
-                found.append(obj)
-            for v in obj.values():
-                _walk_for_players(v, found)
-        elif isinstance(obj, list):
-            for item in obj:
-                _walk_for_players(item, found)
-
-    if blob is not None:
-        candidates = []
-        _walk_for_players(blob, candidates)
-        print(f"   DailyFantasyFuel: JSON walk found {len(candidates)} player-shaped records")
-        for c in candidates[:3]:
-            print(f"     sample record: {c}")
-        for c in candidates:
-            name = None
-            for k in ("name", "playerName", "player_name", "fullName", "Name"):
-                if k in c and c[k]:
-                    name = str(c[k]); break
-            if not name:
-                continue
-            fpts = None
-            for k in ("fpts", "fp", "points", "projection", "proj", "FPTS"):
-                if k in c and c[k] not in (None, ""):
-                    try: fpts = float(c[k]); break
-                    except Exception: pass
+                fpts = float(row[col_fpts]) if row[col_fpts] not in (None, "") else None
+            except (ValueError, TypeError):
+                fpts = None
             if fpts is None:
                 continue
             value = None
-            for k in ("value", "val", "Value"):
-                if k in c and c[k] not in (None, ""):
-                    try: value = float(c[k]); break
-                    except Exception: pass
-            salary = None
-            for k in ("salary", "Salary"):
-                if k in c and c[k] not in (None, ""):
-                    try: salary = int(float(c[k])); break
-                    except Exception: pass
-            result[name.strip().lower()] = {
-                "fpts": fpts, "value": value, "salary": salary, "name_raw": name.strip()
+            if col_value is not None and col_value < len(row) and row[col_value] not in (None, ""):
+                try:
+                    value = float(row[col_value])
+                except (ValueError, TypeError):
+                    value = None
+            team = ""
+            if col_team is not None and col_team < len(row) and row[col_team]:
+                team = str(row[col_team]).strip()
+            result[_norm(name_raw)] = {
+                "fpts": fpts, "value": value, "team": team, "name_raw": name_raw
             }
 
-    # STRATEGY 2 (fallback): regex over rendered HTML table rows.
-    # CONFIRMED STRUCTURE (Aug 13 2026, from a real run's diagnostic dump):
-    #   <div class="text-grey-dk faded-lt font-h5 bold">FPTS</div>
-    #   <div class="projections-listing-ppg-target font-h2">35.7</div>
-    #   ...
-    #   <div class="text-grey-dk faded-lt font-h5 bold">VALUE</div>
-    #   <div class="...">3.5</div>
-    # The original regex assumed the number sat within 15 chars of the
-    # literal "FPTS" text - the real gap is ~150+ chars of intervening
-    # class/div markup, which is exactly why it found 0 matches. Fixed to
-    # anchor on the confirmed "...target font-h2">NUMBER</div>" shape
-    # instead of a character-distance guess.
-    if not result:
-        print("   DailyFantasyFuel: no usable JSON blob found, falling back to HTML regex scan")
-        _fpts_positions = [m.start() for m in _dff_re.finditer(r'FPTS', raw, _dff_re.IGNORECASE)]
-        if not _fpts_positions:
-            print(f"   DailyFantasyFuel diagnostic: raw page sample (first 1500 chars):")
-            print(f"     {raw[:1500]!r}")
-
-        # Confirmed-shape number extraction (Aug 13 2026, 2nd confirmation):
-        #   FPTS</div> <div class="...target...font-h2">NUMBER</div>
-        #   VALUE</div> <div class="font-h2">NUMBERx</div>
-        # The FPTS side's "...target..." class assumption was verified
-        # correct (77 isolated matches). The VALUE side's matching "target"
-        # assumption was WRONG - real class is plain "font-h2", and the
-        # number carries an "x" suffix directly in the text ("3.9x").
-        stat_pair_pattern = _dff_re.compile(
-            r'FPTS</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>'
-            r'.{1,400}?'
-            r'VALUE</div>\s*<div class="font-h2">([\d.]+)x?</div>',
-            _dff_re.IGNORECASE | _dff_re.DOTALL
-        )
-        stat_matches = list(stat_pair_pattern.finditer(raw))
-        print(f"   DailyFantasyFuel: FPTS/VALUE pair pattern found {len(stat_matches)} matches")
-
-        if not stat_matches:
-            # DIAGNOSTIC (Aug 13 2026, 3rd pass): the combined FPTS+VALUE
-            # pattern found 0 matches even though the FPTS half was verified
-            # directly against a real sample from a prior run. The likely
-            # culprit is the VALUE number's class name - it was ASSUMED to
-            # also contain "target" by symmetry with FPTS's confirmed
-            # "...target font-h2" shape, but that symmetry was never actually
-            # confirmed. Test the FPTS-only half in isolation, and dump the
-            # raw text specifically following "VALUE</div>" so the real class
-            # name can be read directly instead of assumed a second time.
-            fpts_only_pattern = _dff_re.compile(
-                r'FPTS</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>',
-                _dff_re.IGNORECASE
-            )
-            fpts_only_matches = list(fpts_only_pattern.finditer(raw))
-            print(f"   DailyFantasyFuel diagnostic: FPTS-half-only pattern found "
-                  f"{len(fpts_only_matches)} matches (isolates whether FPTS or VALUE "
-                  f"side is the mismatch)")
-            _value_positions = [m.start() for m in _dff_re.finditer(r'VALUE</div>', raw,
-                                                                     _dff_re.IGNORECASE)]
-            for _pos in _value_positions[:2]:
-                _hi = min(len(raw), _pos + 250)
-                print(f"   DailyFantasyFuel diagnostic: raw text following 'VALUE</div>' "
-                      f"at offset {_pos}:")
-                print(f"     {raw[_pos:_hi]!r}")
-
-        # Name extraction (Aug 13 2026, confirmed via real diagnostic dumps):
-        # two bugs in the original pattern, found from two different real
-        # samples. (1) It required an IMMEDIATE '<' right after the name -
-        # the real HTML has trailing whitespace/newlines before the closing
-        # tag, which broke even a plain "Roki Sasaki" match. (2) It required
-        # every word to start uppercase - broke on mixed-case names like
-        # "deGrom". Both fixed: optional surrounding whitespace, and a
-        # relaxed (any-case) requirement for words after the first.
-        name_pattern = _dff_re.compile(
-            r'>\s*([A-Z][a-zA-Z\.\'\-]*(?:\s+[a-zA-Z][a-zA-Z\.\'\-]*){1,2})\s*<'
-        )
-        _name_diag_shown = 0
-        for m in stat_matches:
-            fpts_val, value_val = m.group(1), m.group(2)
-            # Aug 13 2026: widened from 600 to 1000 chars - batter rows carry
-            # extra markup pitcher rows don't (a batting-order "· 1" marker),
-            # pushing the name further back than 600 chars covered. Confirmed
-            # from a real run: the two shown failures were both batters
-            # (OF/1B), and pitcher-row names matched fine at the old width -
-            # this is specifically a batter-row gap, which matters most here
-            # since the whole point of this cross-check is batters.
-            _search_start = max(0, m.start() - 1000)
-            _backward_chunk = raw[_search_start:m.start()]
-            _name_matches = list(name_pattern.finditer(_backward_chunk))
-            name = _name_matches[-1].group(1).strip() if _name_matches else None
-            if name is None and _name_diag_shown < 2:
-                print(f"   DailyFantasyFuel diagnostic: name heuristic found nothing before "
-                      f"FPTS={fpts_val} match - backward context (1000 chars):")
-                print(f"     {_backward_chunk!r}")
-                _name_diag_shown += 1
-                continue
-            if name is None:
-                continue
-            try:
-                result[name.lower()] = {
-                    "fpts": float(fpts_val), "value": float(value_val),
-                    "salary": None, "name_raw": name
-                }
-            except Exception:
-                continue
-        print(f"   DailyFantasyFuel: regex fallback matched {len(result)} of "
-              f"{len(stat_matches)} FPTS/VALUE pairs to a name")
+    except FileNotFoundError:
+        print(f"   DFF sheet: workbook not found at {path} - skipping DFF cross-check")
+        return {}
+    except Exception as e:
+        print(f"   DFF sheet: read failed ({e}) - skipping DFF cross-check")
+        return {}
 
     if result:
-        print(f"   DailyFantasyFuel: parsed {len(result)} player projections ({platform})")
+        print(f"   DFF sheet: loaded {len(result)} player projections")
     else:
-        print("   DailyFantasyFuel: parsing failed entirely - neither strategy found usable "
-              "data. Share the next run's full output around this point so the actual page "
-              "structure can be diagnosed directly, same as every other parsing gap this session.")
+        print("   DFF sheet: 0 usable rows found")
     return result
 
 
@@ -33287,7 +33170,15 @@ def main():
         # same evidentiary bar as everything else in this file. See the
         # scoring integration below for exactly how much weight this carries
         # and why it's deliberately small and bounded.
-        _dff_data = fetch_dailyfantasyfuel_projections("fanduel")
+        #
+        # SOURCE CHANGE (Aug 13 2026): was web-scraped from dailyfantasyfuel.com
+        # directly; now reads a "DFF" sheet in FantasyLabsMLB.xlsm that
+        # Harrison's own macro populates. Far more reliable (no HTML parsing
+        # brittleness) and, critically, complete rather than the ~77-of-250
+        # partial slate the scraped page was stuck behind a "Load All
+        # Players" JS button for. See load_dff_projections_from_excel()'s
+        # docstring for the full rationale.
+        _dff_data = load_dff_projections_from_excel()
         if _dff_data:
             _dff_fpts_sorted = sorted(_dff_data.items(), key=lambda x: x[1]["fpts"], reverse=True)
             _dff_fpts_rank = {name: i+1 for i, (name, _) in enumerate(_dff_fpts_sorted)}
@@ -33301,9 +33192,11 @@ def main():
                     s = s.replace(a, b)
                 return s
 
-            # Build a last-name -> full-name-key(s) index for DFF's own data,
-            # since DFF frequently abbreviates first names ("S. Suzuki") while
-            # batter_stats_map uses full names ("Seiya Suzuki").
+            # Build a last-name -> full-name-key(s) index for DFF's own data.
+            # Less critical now that the Excel sheet carries full names
+            # ("Jacob deGrom") rather than the scraped page's abbreviated
+            # format ("J. deGrom"), but kept as a cheap safety net for
+            # nicknames/suffix differences.
             _dff_lastname_idx = {}
             for dff_key, d in _dff_data.items():
                 parts = _dff_norm(d["name_raw"]).split()
@@ -33344,6 +33237,17 @@ def main():
             # model has the wrong batter from this team ranked highest" -
             # the team's own DFF-#1 gets a real nudge, DFF-#2 gets less,
             # #3+ gets none, regardless of how the team stacks up externally.
+            #
+            # CORRECTNESS FIX (Aug 13 2026): only assign a team rank when 2+
+            # teammates were ACTUALLY compared. With the old scraped source's
+            # partial coverage, most matched batters were literally the only
+            # representative from their team, so every one of them trivially
+            # became "team's #1 DFF pick" by default - not because DFF
+            # preferred them over a teammate, just because no teammate data
+            # existed to compare against. A lone match isn't evidence of
+            # preference; it's an absence of a comparison. Teams with only 1
+            # matched batter now get no team rank at all (0, same as
+            # unmatched) rather than an automatic #1.
             _dff_by_team = {}
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
                 _team = str(batter_stats_map[_bname].get("team", "")).strip()
@@ -33352,7 +33256,11 @@ def main():
                 _dff_by_team.setdefault(_team, []).append((_bname, _dff_entry))
 
             _dff_team_rank = {}  # _bname -> team-relative rank (1=best on team)
+            _dff_teams_compared = 0
             for _team, _members in _dff_by_team.items():
+                if len(_members) < 2:
+                    continue  # no real comparison possible - leave unranked
+                _dff_teams_compared += 1
                 _members_sorted = sorted(_members, key=lambda x: x[1]["fpts"], reverse=True)
                 for _i, (_bname, _) in enumerate(_members_sorted):
                     _dff_team_rank[_bname] = _i + 1
@@ -33369,7 +33277,7 @@ def main():
                     pass
             print(f"  ✅ DailyFantasyFuel cross-check: {_dff_matched}/{len(batter_stats_map)} "
                   f"batters matched (of {len(_dff_data)} DFF projections), "
-                  f"{len(_dff_by_team)} teams with 2+ DFF-matched batters compared")
+                  f"{_dff_teams_compared} teams with 2+ DFF-matched batters actually compared")
         else:
             print("  ⚠️  DailyFantasyFuel cross-check: no data - skipping for this run "
                   "(model runs normally without it, same as any other optional signal)")
