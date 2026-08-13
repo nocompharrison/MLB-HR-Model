@@ -5424,6 +5424,21 @@ def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int
     """
     Split a statcast() date range into smaller chunks and concatenate.
 
+    STATUS (Aug 13 2026): not currently called by any of the 5 statcast()
+    sites in this file. It turned out every chunk failure this was built to
+    handle was specifically the chunk covering TODAY's date - the actual
+    root cause was querying for data that doesn't exist yet (this model runs
+    pre-game), not query size. Once every call site's date range was fixed
+    to end at yesterday instead of today, a follow-up run showed 5/5 and 5/5
+    chunks succeeding with zero failures - chunking wasn't the fix, excluding
+    today was. Reverted call sites back to plain _statcast_with_retry() to
+    avoid the added complexity/overhead now that it's unnecessary. Left this
+    function defined (not deleted) in case the underlying Savant timeout
+    pattern recurs for some other reason - re-enabling it is a one-line
+    change per call site, not a rebuild.
+
+    Split a statcast() date range into smaller chunks and concatenate.
+
     Added Aug 13 2026 after _statcast_with_retry proved insufficient: two
     consecutive runs showed all 4 statcast() call sites failing identically
     across all 3 retry attempts, including on a 14-day range that should be
@@ -5535,8 +5550,8 @@ def fetch_recent_form(year: int) -> dict:
         end   = date.today() - timedelta(days=1)
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
-        df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
-                                chunk_days=7, label="Recent form")
+        df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+                                   label="Recent form")
         if df is None or df.empty:
             print("  ⚠️  Recent form: no data returned")
             return {}, {}, {}
@@ -6194,13 +6209,17 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
             print(f"   DailyFantasyFuel diagnostic: raw page sample (first 1500 chars):")
             print(f"     {raw[:1500]!r}")
 
-        # Confirmed-shape number extraction: FPTS/VALUE label div followed by
-        # a "...-target font-h2">NUMBER</div>" value div, with unknown-but-
-        # bounded markup between them.
+        # Confirmed-shape number extraction (Aug 13 2026, 2nd confirmation):
+        #   FPTS</div> <div class="...target...font-h2">NUMBER</div>
+        #   VALUE</div> <div class="font-h2">NUMBERx</div>
+        # The FPTS side's "...target..." class assumption was verified
+        # correct (77 isolated matches). The VALUE side's matching "target"
+        # assumption was WRONG - real class is plain "font-h2", and the
+        # number carries an "x" suffix directly in the text ("3.9x").
         stat_pair_pattern = _dff_re.compile(
             r'FPTS</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>'
             r'.{1,400}?'
-            r'VALUE</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>',
+            r'VALUE</div>\s*<div class="font-h2">([\d.]+)x?</div>',
             _dff_re.IGNORECASE | _dff_re.DOTALL
         )
         stat_matches = list(stat_pair_pattern.finditer(raw))
@@ -7216,8 +7235,8 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
         _start = _end - _tdelta(days=60)
         if year < _date.today().year:
             _start = _date(year, 9, 1);  _end = _date(year, 10, 5)
-        _df = _statcast_chunked(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
-                                 chunk_days=15, label="Arsenal CSV-blocked fallback")
+        _df = _statcast_with_retry(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
+                                    label="Arsenal CSV-blocked fallback")
         if _df is None or _df.empty:
             raise ValueError("Empty Statcast result")
 
@@ -8606,7 +8625,7 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
         start = end - timedelta(days=days_back)
     
     print(f"  📡 pybaseball: statcast aggregation {start} → {end} (may take 10-20s)...")
-    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Arsenal fallback")
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Arsenal fallback")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
     
@@ -8843,7 +8862,7 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         return _cached
 
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
-    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Pitcher aggregation")
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Pitcher aggregation")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
 
@@ -12503,7 +12522,7 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
         season_start = date(year, 3, 20)
         print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_td} "
               f"(first run; will cache for re-runs)...")
-        df = _statcast_chunked(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), chunk_days=15, label="BZM season zones")
+        df = _statcast_with_retry(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), label="BZM season zones")
 
         if df is None or df.empty:
             print("  ⚠️  BZM season zones: no data returned")
