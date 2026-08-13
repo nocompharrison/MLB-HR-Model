@@ -5525,7 +5525,14 @@ def fetch_recent_form(year: int) -> dict:
         pass
     try:
         from pybaseball import statcast
-        end   = date.today()
+        # Aug 13 2026: end at YESTERDAY, not today. Every chunk-failure in
+        # three separate chunked pulls was specifically the chunk covering
+        # today's date - unsurprising once you consider the model runs
+        # pre-game, so "today" has no batted-ball events yet. Querying Savant
+        # for data that doesn't exist yet may be hitting a different, less-
+        # optimized code path on their end. Excluding it is both the fix and
+        # arguably the more correct query to begin with.
+        end   = date.today() - timedelta(days=1)
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
         df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
@@ -6198,6 +6205,32 @@ def fetch_dailyfantasyfuel_projections(platform: str = "fanduel") -> dict:
         )
         stat_matches = list(stat_pair_pattern.finditer(raw))
         print(f"   DailyFantasyFuel: FPTS/VALUE pair pattern found {len(stat_matches)} matches")
+
+        if not stat_matches:
+            # DIAGNOSTIC (Aug 13 2026, 3rd pass): the combined FPTS+VALUE
+            # pattern found 0 matches even though the FPTS half was verified
+            # directly against a real sample from a prior run. The likely
+            # culprit is the VALUE number's class name - it was ASSUMED to
+            # also contain "target" by symmetry with FPTS's confirmed
+            # "...target font-h2" shape, but that symmetry was never actually
+            # confirmed. Test the FPTS-only half in isolation, and dump the
+            # raw text specifically following "VALUE</div>" so the real class
+            # name can be read directly instead of assumed a second time.
+            fpts_only_pattern = _dff_re.compile(
+                r'FPTS</div>\s*<div class="[^"]*?target[^"]*?">([\d.]+)</div>',
+                _dff_re.IGNORECASE
+            )
+            fpts_only_matches = list(fpts_only_pattern.finditer(raw))
+            print(f"   DailyFantasyFuel diagnostic: FPTS-half-only pattern found "
+                  f"{len(fpts_only_matches)} matches (isolates whether FPTS or VALUE "
+                  f"side is the mismatch)")
+            _value_positions = [m.start() for m in _dff_re.finditer(r'VALUE</div>', raw,
+                                                                     _dff_re.IGNORECASE)]
+            for _pos in _value_positions[:2]:
+                _hi = min(len(raw), _pos + 250)
+                print(f"   DailyFantasyFuel diagnostic: raw text following 'VALUE</div>' "
+                      f"at offset {_pos}:")
+                print(f"     {raw[_pos:_hi]!r}")
 
         # Name extraction: unconfirmed shape - search backward from each FPTS
         # match for the nearest capitalized "First Last"-style text, which
@@ -7176,12 +7209,15 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
     try:
         from pybaseball import statcast as _sc_fn
         from datetime import date as _date, timedelta as _tdelta
-        # Use last 60 days — same window as the pitcher agg
-        _end   = _date.today()
+        # Use last 60 days — same window as the pitcher agg. Aug 13 2026:
+        # end at yesterday, not today - see the pitcher aggregation fix for
+        # the full rationale.
+        _end   = _date.today() - _tdelta(days=1)
         _start = _end - _tdelta(days=60)
         if year < _date.today().year:
             _start = _date(year, 9, 1);  _end = _date(year, 10, 5)
-        _df = _sc_fn(_start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"))
+        _df = _statcast_chunked(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
+                                 chunk_days=15, label="Arsenal CSV-blocked fallback")
         if _df is None or _df.empty:
             raise ValueError("Empty Statcast result")
 
@@ -8553,10 +8589,13 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
     from datetime import timedelta
     
     if year == date.today().year:
-        # Current season: pull from opening day to today
+        # Current season: pull from opening day to yesterday. Aug 13 2026:
+        # was date.today() - every chunk-failure across three chunked pulls
+        # was the chunk covering today specifically, unsurprising given the
+        # model runs pre-game and today has no batted-ball events yet.
         # Opening day ~late March; use April 1 as safe start
         start = date(year, 3, 28)
-        end   = date.today()
+        end   = date.today() - timedelta(days=1)
     else:
         # Prior year: pull last month of season
         start = date(year, 9, 1)
@@ -8779,8 +8818,10 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
     from datetime import timedelta
 
     if year == date.today().year:
+        # Aug 13 2026: end at yesterday, not today - see the identical fix
+        # earlier in the pitcher aggregation function for the full rationale.
         start = date(year, 3, 28)
-        end   = date.today()
+        end   = date.today() - timedelta(days=1)
     else:
         start = date(year, 9, 1)
         end   = date(year, 10, 5)
@@ -12238,7 +12279,11 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
 
     Returns (pitcher_zone_dict, batter_zone_dict, l10_bbe_by_pitch_dict).
     """
-    _td = target_date or date.today()
+    # Aug 13 2026: default to yesterday, not today, when no explicit
+    # target_date is passed - see the pitcher aggregation fix for the full
+    # rationale (today has no batted-ball events yet when this runs pre-game).
+    # Only affects the default; an explicitly passed target_date is untouched.
+    _td = target_date or (date.today() - timedelta(days=1))
     _CACHE_DIR.mkdir(parents=True, exist_ok=True)
     # v2 cache key includes l10 data — different from v1
     cache_file = _CACHE_DIR / f"bzm_season_v3_{year}_{_td.isoformat()}.pkl"
