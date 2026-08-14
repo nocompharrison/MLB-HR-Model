@@ -33320,6 +33320,28 @@ def main():
             # preference; it's an absence of a comparison. Teams with only 1
             # matched batter now get no team rank at all (0, same as
             # unmatched) rather than an automatic #1.
+            #
+            # DIAGNOSTIC (Aug 13 2026): a real run showed 0 fires across the
+            # entire slate - not just the picks, every batter. Grouping here
+            # uses batter_stats_map's OWN "team" field (confirmed the right
+            # key name), not DFF's own team column (captured by the loader
+            # but unused for grouping). If batter_stats_map's team field is
+            # empty for matched batters - plausible given batters added via
+            # the "FL gap-fill" path may not populate it the same way as the
+            # primary path - every one would get silently skipped here with
+            # no visible error. Sampling a few matched batters' team values
+            # directly, compared against DFF's own team field, to find out
+            # which side is actually empty rather than guessing again.
+            _dff_team_diag_shown = 0
+            for _bname, (_dff_entry, _bkey) in _dff_matches.items():
+                if _dff_team_diag_shown >= 8:
+                    break
+                _model_team = batter_stats_map[_bname].get("team", "<KEY MISSING>")
+                _dff_team = _dff_entry.get("team", "<KEY MISSING>")
+                print(f"     DFF team-field diagnostic: {_bname!r} -> model team="
+                      f"{_model_team!r} | DFF sheet team={_dff_team!r}")
+                _dff_team_diag_shown += 1
+
             _dff_by_team = {}
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
                 _team = str(batter_stats_map[_bname].get("team", "")).strip()
@@ -33336,6 +33358,11 @@ def main():
                 _members_sorted = sorted(_members, key=lambda x: x[1]["fpts"], reverse=True)
                 for _i, (_bname, _) in enumerate(_members_sorted):
                     _dff_team_rank[_bname] = _i + 1
+
+            print(f"     DFF team-grouping diagnostic: {len(_dff_by_team)} distinct team keys "
+                  f"formed from {len(_dff_matches)} matched batters, "
+                  f"{sum(1 for v in _dff_by_team.values() if len(v)>=2)} of those teams have 2+ members "
+                  f"(team keys seen: {list(_dff_by_team.keys())[:10]})")
 
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
                 try:
