@@ -5448,6 +5448,23 @@ _STATCAST_BAD_DATES: set = set()
 # without a `global` declaration.
 _DFF_NAME_FIX_LOG_COUNT = [0]
 
+# Minimum observations before a grade-stack rate is reported at all (Aug 14
+# 2026). Exact-set matches are rarer so they get a lower floor than pairs;
+# below these, nothing is shown rather than a rate built on a handful of games.
+# EXACT-combination rates are reported at ANY sample size, including n=1
+# (Aug 14 2026, per explicit instruction). The question being answered is
+# literally "when a batter fires exactly these grades, what has happened?" -
+# and if that has only occurred once, the honest answer is that one result,
+# labelled with its n so the thinness is visible rather than hidden. The n
+# floor stays ONLY on the subset backoff below, which is a different claim
+# (generalising from partial overlaps) and does need sample behind it.
+_STACK_MIN_N_EXACT  = 1
+# Subsets (sizes 2-5) need a floor too. 30 chosen from the panel: at n>=30
+# there are 186 usable pairs, 316 triples and 197 four-grade combos, so real
+# multi-grade overlaps are reportable; at n>=60 the four-grade tier collapses
+# to 36 and most stacks fall back to pairs, which is what made v1 uninformative.
+_STACK_MIN_N_SUBSET = 30
+
 
 def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str = "",
                           max_retries: int = 2, retry_delay: float = 8.0):
@@ -19858,7 +19875,13 @@ def _sheet_rankings(wb, scores, top_n):
         # looking at the output. Added directly rather than folded into an
         # existing notes dump, since a dedicated column is easy to scan for
         # and a long pipe-joined string of every note that fired is not.
-        "DFF\nCross-Check"
+        "DFF\nCross-Check",
+        # Aug 14 2026: empirical joint rate for the COMBINATION of grades
+        # firing on this batter. See _load_grade_stack_stats() for why this is
+        # measured from history rather than derived by multiplying the
+        # individual grade rates (they are correlated, so a product would be
+        # wrong). Blank = this combination has no measured history.
+        "Grade Stack\n(measured joint rate)"
     ]
     for c, h in enumerate(headers, 1):
         _hc(ws, 3, c, h)
@@ -20113,6 +20136,22 @@ def _sheet_rankings(wb, scores, top_n):
             _dff_display = "–"
             _dff_bg, _dff_fc = "F2F2F2", "808080"   # grey - no DFF match at all
         _dc(ws, row, 23, _dff_display, bg=_dff_bg, font_color=_dff_fc, fmt="@")
+
+        # ── Grade Stack column (Aug 14 2026) ──────────────────────────────
+        # Combined grade text = the same sources the conviction scorer reads,
+        # so the stack line can never describe a different set of grades than
+        # the ones actually credited.
+        try:
+            _stack_txt = " ".join([
+                str(getattr(sc, "hr_grade", "") or ""),
+                str(getattr(sc, "hit_grade", "") or ""),
+                " ".join(str(_n_) for _n_ in (sc.notes or [])),
+                " ".join(str(_n_) for _n_ in (getattr(sc, "hit_notes", None) or [])),
+            ])
+            _stack_line = describe_grade_stack(_stack_txt, side="hr")
+        except Exception:
+            _stack_line = ""
+        _dc(ws, row, 24, _stack_line or "—", bg=bg, fmt="@", align="left")
         if _dff_fpts_v is not None:
             from openpyxl.comments import Comment as _DffComment
             _dff_cmt_lines = [f"DFF FPTS projection: {_dff_fpts_v:.1f}"]
@@ -20138,7 +20177,7 @@ def _sheet_rankings(wb, scores, top_n):
         ws.row_dimensions[row].height = 18
 
     # Adjust column widths
-    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7,23:16})
+    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7,23:16,24:64})
 
     # ── Legend row ────────────────────────────────────────────────────────────
     from openpyxl.styles import PatternFill, Font, Alignment
@@ -26769,6 +26808,239 @@ def _load_grade_stats() -> dict:
 
     stats["_slate_count"] = len(all_dates)
     return stats
+
+
+_GRADE_STACK_CACHE = None
+
+
+def _load_grade_stack_stats() -> dict:
+    """
+    Compute EMPIRICAL joint success rates for combinations of grades that fire
+    together, from the same history pkl _load_grade_stats() uses.
+
+    WHY THIS EXISTS (Aug 14 2026): every grade in this file reports its own
+    standalone rate, but a batter typically fires several at once and nothing
+    reported what the rate is for that COMBINATION. Harrison asked for the
+    combined picture.
+
+    WHY IT IS MEASURED, NOT CALCULATED: the obvious approach - multiply the
+    individual rates, or Bayes them together - is wrong here and would produce
+    confidently incorrect numbers. These grades are heavily correlated because
+    many are built from the same underlying inputs (Vuln, PM, Power), so they
+    are nowhere near independent. The only honest joint rate is the one
+    actually observed when that combination fired. Everything below is a
+    lookup of real outcomes, never a product of separate rates.
+
+    WHAT THE PANEL SAID (measured on 5,154 historical batter-slates before
+    building this, so the design matches reality):
+      - Grade COUNT alone is NOT predictive. 0 grades = 15.6% HR, 4 grades =
+        13.2%, 10 grades = 22.9% (n=35). There is no monotonic "more grades =
+        better" effect, so this deliberately does NOT report a count-based
+        score - that would be a made-up signal.
+      - Exact grade-set matching is only usable for common sets: 1,619
+        distinct sets exist, but only ~21 have n>=20, covering ~50% of
+        batter-slates. Good when available, useless in the tail.
+      - PAIRS within the firing set do carry measurable signal at usable n,
+        in both directions - e.g. EXTREME L2 + T4 = 28.1% (1.73x, n=64,
+        p=0.016), and MID-SCORE + T4 = 8.6% (0.53x, n=70). The negative
+        stacks are as decision-relevant as the positive ones.
+      - Larger subsets are also measurable and are preferred over pairs: at
+        n>=30 the panel has 316 usable 3-grade and 197 usable 4-grade
+        combinations, so a batter firing 7 grades can usually be described by
+        a 4-grade overlap rather than an uninformative single pair.
+
+    So the resolution order is: exact set at ANY sample size (reported with
+    its made/total so a thin sample is visible) → if that combination has
+    NEVER occurred, the LARGEST subset size with measured data
+    (n >= _STACK_MIN_N_SUBSET), aggregated across all measurable subsets at
+    that size → nothing. Reporting nothing is a valid, intended outcome.
+
+    Returns {"exact": {frozenset: (hr_rate, hit_rate, n)},
+             "pairs": {frozenset(pair): (hr_rate, hit_rate, n)},
+             "base_hr": float, "base_hit": float, "n": int}
+    """
+    import pickle as _pk_st
+    import itertools as _it_st
+    from collections import defaultdict as _dd_st
+
+    _empty = {"exact": {}, "pairs": {}, "base_hr": 0.0, "base_hit": 0.0, "n": 0}
+    try:
+        if not HISTORY_PKL.exists():
+            return _empty
+        with open(HISTORY_PKL, "rb") as _f:
+            picks = _pk_st.load(_f)
+        if not picks or not isinstance(picks, list):
+            return _empty
+    except Exception:
+        return _empty
+
+    # Same duplicate-row problem _load_grade_stats() guards against: the pkl
+    # accumulates repeat (date, name) rows from re-runs, some with placeholder
+    # zero outcomes. Keep the row with the most information per key.
+    _best = {}
+    for p in picks:
+        if not isinstance(p, dict):
+            continue
+        _k = (str(p.get("date", "")), str(p.get("name", "")))
+        if not _k[0] or not _k[1]:
+            continue
+        _prev = _best.get(_k)
+        _score = (1 if (p.get("hr") or 0) else 0) + (1 if (p.get("hits") or 0) else 0) \
+                 + (1 if (p.get("hr_grade") or p.get("hit_grade") or p.get("flags")) else 0)
+        if _prev is None or _score > _prev[0]:
+            _best[_k] = (_score, p)
+    rows = [v[1] for v in _best.values()]
+    if not rows:
+        return _empty
+
+    _TRACKED = ["PRIME PITCHER TARGET", "CONFIRMED MATCH", "PITCH DOMINANCE",
+                "PITCH-RELIANT", "SUPER NUCLEAR", "NUCLEAR", "ELITE LOCK",
+                "PRIME LOCK", "SHORT-START", "EXTREME L2", "VALUE-ODDS",
+                "MID-SCORE", "SHARP LINE", "SHARP PM", "ICE COLD",
+                "Z-CONTACT BOOST", "SCREAM HIT", "PITCH EDGE", "T4", "T3",
+                "HR26", "BZM", "SWEET", "NEG05", "NEG06", "HIGH-USAGE",
+                "ELITE SIGNAL COMBO", "PWR-VULN-ENV"]
+
+    _recs = []
+    for p in rows:
+        _txt = " ".join(str(p.get(_f_, "") or "") for _f_ in ("hr_grade", "hit_grade", "flags"))
+        if not _txt.strip():
+            continue
+        _g = frozenset(g for g in _TRACKED if g in _txt)
+        if not _g:
+            continue
+        _recs.append((_g,
+                      1 if (p.get("hr") or 0) else 0,
+                      1 if (p.get("hits") or 0) else 0))
+    if len(_recs) < 200:
+        return _empty
+
+    _n = len(_recs)
+    _base_hr = sum(r[1] for r in _recs) / _n
+    _base_hit = sum(r[2] for r in _recs) / _n
+
+    _exact_acc = _dd_st(lambda: [0, 0, 0])   # [hr, hit, n]
+    _sub_acc = _dd_st(lambda: [0, 0, 0])     # subsets of size 2..5
+    for _g, _hr, _hit in _recs:
+        _e = _exact_acc[_g]
+        _e[0] += _hr; _e[1] += _hit; _e[2] += 1
+        # Subsets up to size 5. Measured on the panel: size-4 subsets still
+        # reach usable n (197 with n>=30), size-5 mostly does not (44), and
+        # beyond that nothing does. Capping at 5 keeps the combinatorics
+        # bounded - a 12-grade batter yields C(12,5)=792 subsets, which is
+        # fine; past that the guard below skips the largest sizes so a
+        # pathological 15-grade row can't blow up the loop.
+        _gs = sorted(_g)
+        _max_sz = 5 if len(_gs) <= 12 else 3
+        for _sz in range(2, min(_max_sz, len(_gs)) + 1):
+            for _c in _it_st.combinations(_gs, _sz):
+                _pa = _sub_acc[frozenset(_c)]
+                _pa[0] += _hr; _pa[1] += _hit; _pa[2] += 1
+
+    exact = {k: (v[0] / v[2], v[1] / v[2], v[2])
+             for k, v in _exact_acc.items() if v[2] >= _STACK_MIN_N_EXACT}
+    subsets = {k: (v[0] / v[2], v[1] / v[2], v[2])
+               for k, v in _sub_acc.items() if v[2] >= _STACK_MIN_N_SUBSET}
+    return {"exact": exact, "subsets": subsets,
+            "base_hr": _base_hr, "base_hit": _base_hit, "n": _n}
+
+
+def _grade_stack_cached() -> dict:
+    """One cached stack-stats snapshot per process (same rationale as
+    _grade_stats_cached: the pkl doesn't change mid-run)."""
+    global _GRADE_STACK_CACHE
+    if _GRADE_STACK_CACHE is None:
+        _GRADE_STACK_CACHE = _load_grade_stack_stats()
+    return _GRADE_STACK_CACHE
+
+
+def describe_grade_stack(grade_text: str, side: str = "hr") -> str:
+    """
+    Build the human-readable STACK line for one batter.
+
+    `grade_text` is that batter's combined grade/flag text; `side` is "hr" or
+    "hit". Returns "" when nothing measurable applies - an empty result is a
+    real answer here, not a failure, and is far better than inventing a
+    number for a combination that has never been observed.
+    """
+    _st = _grade_stack_cached()
+    if not _st or not _st.get("n"):
+        return ""
+    _TRACKED = ["PRIME PITCHER TARGET", "CONFIRMED MATCH", "PITCH DOMINANCE",
+                "PITCH-RELIANT", "SUPER NUCLEAR", "NUCLEAR", "ELITE LOCK",
+                "PRIME LOCK", "SHORT-START", "EXTREME L2", "VALUE-ODDS",
+                "MID-SCORE", "SHARP LINE", "SHARP PM", "ICE COLD",
+                "Z-CONTACT BOOST", "SCREAM HIT", "PITCH EDGE", "T4", "T3",
+                "HR26", "BZM", "SWEET", "NEG05", "NEG06", "HIGH-USAGE",
+                "ELITE SIGNAL COMBO", "PWR-VULN-ENV"]
+    _fired = frozenset(g for g in _TRACKED if g in (grade_text or ""))
+    if len(_fired) < 2:
+        return ""   # a "stack" needs at least two grades
+
+    _idx = 0 if side == "hr" else 1
+    _base = _st["base_hr"] if side == "hr" else _st["base_hit"]
+    _lbl = "HR" if side == "hr" else "Hit"
+    if _base <= 0:
+        return ""
+
+    # Tier 1: the exact combination, reported at ANY sample size.
+    # This is the literal question being asked - "when these exact grades all
+    # fire together, what has actually happened?" - so it leads, and a thin
+    # sample is shown rather than suppressed. The raw made/total is printed
+    # alongside the percentage so n=1 reads as "1/1", which is
+    # self-evidently thin, instead of a bare "100%" that looks authoritative.
+    _ex = _st["exact"].get(_fired)
+    if _ex:
+        _r, _n_ = _ex[_idx], _ex[2]
+        _made = int(round(_r * _n_))
+        _line = (f"🧮 STACK ({len(_fired)} grades) — this exact combination: "
+                 f"{_r*100:.0f}% {_lbl} ({_made}/{_n_}, {_r/_base:.2f}x vs base)")
+        if _n_ < 10:
+            _line += f" · ⚠️ only {_n_} occurrence{'s' if _n_ != 1 else ''} on record"
+        return _line
+
+    # Tier 2: use the LARGEST measurable subset, not pairs.
+    # Aug 14 2026 rewrite. The first version only ever looked at pairs, which
+    # was wrong twice over on a batter firing many grades:
+    #   1. It threw away information. A 7-grade batter routinely has a
+    #      measurable 4-grade subset (verified: n=88, 1.37x on a real set),
+    #      which describes far more of what actually fired than any pair.
+    #   2. Reporting the single BEST pair out of ~21 candidates is upward
+    #      biased by selection - the maximum of many noisy estimates is
+    #      systematically optimistic, so it flattered every stack.
+    # Now: walk subset sizes downward, stop at the largest size with any
+    # measured data, and report the AGGREGATE across all measurable subsets
+    # at that size (median + range + how many), rather than cherry-picking.
+    import itertools as _it_d
+    _gs = sorted(_fired)
+    for _sz in range(min(5, len(_gs)), 1, -1):
+        _hits = []
+        for _c in _it_d.combinations(_gs, _sz):
+            _p = _st["subsets"].get(frozenset(_c))
+            if _p:
+                _hits.append((_p[_idx] / _base, _p[_idx], _p[2], _c))
+        if not _hits:
+            continue
+        _hits.sort(reverse=True)
+        _lifts = sorted(h[0] for h in _hits)
+        _med = _lifts[len(_lifts) // 2] if len(_lifts) % 2 else \
+               (_lifts[len(_lifts) // 2 - 1] + _lifts[len(_lifts) // 2]) / 2
+        # Name the single highest-n subset - most reliable, not most extreme.
+        _byn = max(_hits, key=lambda h: h[2])
+        _out = (f"🧮 STACK ({len(_fired)} grades) — largest measured overlap is "
+                f"{_sz} of them: {len(_hits)} such {_sz}-grade combo(s) on record, "
+                f"median {_med:.2f}x {_lbl}")
+        if len(_hits) > 1:
+            _out += f" (range {_lifts[0]:.2f}x–{_lifts[-1]:.2f}x)"
+        _out += (f" · best-sampled: {' + '.join(_byn[3])} "
+                 f"{_byn[1]*100:.0f}% ({_byn[0]:.2f}x, n={_byn[2]})")
+        if _med < 1.0:
+            _out += " · ⚠️ median below base rate"
+        return _out
+
+    return (f"🧮 STACK ({len(_fired)} grades) — no measured history for this "
+            f"combination or any subset of it; individual grade rates are all "
+            f"that apply")
 
 
 # ── Live grade-rate access (Jun 2026) ────────────────────────────────────────
