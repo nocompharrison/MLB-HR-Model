@@ -1573,6 +1573,17 @@ class HRScore:
     # Lives on BatterProfile; copied onto the score so it reaches the export.
     near_hr_count:     int = 0
     near_hr_pa:        int = 0
+    # DFF cross-check (Aug 14 2026). Same pattern as near_hr above: these
+    # live on BatterProfile and MUST be copied onto the score object to
+    # reach the export. Without them here, the sheet's
+    # getattr(sc, "dff_team_rank", 0) silently fell back to the default of
+    # 0 for every batter and the DFF column rendered "–" across the board,
+    # even on a run where 18 teams were correctly ranked upstream.
+    dff_fpts:          float = 0.0
+    dff_value:         float = 0.0
+    dff_fpts_rank:     int = 0
+    dff_value_rank:    int = 0
+    dff_team_rank:     int = 0
     pitcher_slot:      int = 1
     bullpen_vuln:      float = 50.0   # 0-100, league avg = 50 — same scale as pitcher_vuln
     bullpen_exp_ip:    float = 4.0    # projected relief innings this batter may face
@@ -5430,47 +5441,154 @@ def match_propline_event(mlb_game: dict, propline_events: list) -> Optional[str]
 
 
 
+_STATCAST_BAD_DATES: set = set()
+
+
 def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str = "",
                           max_retries: int = 2, retry_delay: float = 8.0):
     """
     Wrap a pybaseball statcast() call with a small retry-with-backoff.
 
-    Added Aug 13 2026 after a run where all FOUR statcast() call sites in
-    this file (recent form, pitcher aggregation, arsenal fallback, BZM season
-    zones) failed in the same run with the identical Baseball Savant error
-    "Query Timeout. Please try to limit your query to less data." - including
-    on a 14-day range, which should normally be trivially fast. That pattern
-    (short AND long ranges all failing together) points to Savant's own
-    backend being under load during that specific window, not a problem with
-    how this file constructs its queries - a genuine third-party outage isn't
-    something a code fix here can eliminate. What a retry CAN do is absorb a
-    transient failure: if Savant's servers were briefly overloaded, a second
-    attempt a few seconds later often succeeds where the first didn't. This
-    does not chunk the date range smaller (would need per-caller changes to
-    the caching logic downstream) - it only adds a cheap second/third attempt
-    before giving up, which is a safe, low-risk improvement regardless of
-    root cause.
+    Added Aug 13 2026 after runs where statcast() call sites failed with
+    Baseball Savant's "Query Timeout. Please try to limit your query to less
+    data."
 
-    Returns whatever statcast_fn returns, or None if every attempt failed.
+    ROOT CAUSE CONFIRMED (Aug 14 2026) via diagnose_statcast_dates(): the
+    failures are NOT timeouts and NOT size-related. A per-date probe of the
+    last 10 days, each as a single-day query, returned:
+        2026-08-13  ❌ "Query Timeout"   (in 0.3s)
+        the other 9 dates ✅ 3,001-4,543 rows each (in 0.3s)
+    A real timeout cannot return in 0.3 seconds. Savant is INSTANTLY
+    returning a canned error for that one specific date - a broken/missing
+    record on their end - while every neighbouring date serves fine. So:
+      - Retrying is pointless: the response is deterministic and immediate,
+        so three attempts just burn 2x retry_delay seconds to get the same
+        error. Now detected (fast failure + timeout-shaped message) and the
+        retries are skipped.
+      - Once a single date is known bad, every later call site re-probing it
+        wastes another round-trip. Bad single dates are memoised in
+        _STATCAST_BAD_DATES for the life of the process and skipped outright.
+    Genuine slow/transient failures (elapsed >= _FAST_FAIL_SECS) still get
+    the full retry treatment, since those are the case retries were built for.
+
+    Returns whatever statcast_fn returns; raises the last error if all fail.
     """
     import time as _time_scr
+    _FAST_FAIL_SECS = 2.0
+    _single_day = (start_str == end_str)
+
+    if _single_day and start_str in _STATCAST_BAD_DATES:
+        _tag = f" [{label}]" if label else ""
+        print(f"     ⏭️  statcast{_tag}: skipping {start_str} - already confirmed bad on "
+              f"Savant this run (deterministic instant error, not a timeout)")
+        raise RuntimeError(f"statcast: {start_str} known-bad on Savant this run")
+
     last_err = None
     for attempt in range(1, max_retries + 2):  # e.g. max_retries=2 -> 3 total attempts
+        _t_attempt = _time_scr.time()
         try:
             return statcast_fn(start_str, end_str)
         except Exception as e:
+            _elapsed = _time_scr.time() - _t_attempt
             last_err = e
             is_timeout = "timeout" in str(e).lower() or "limit your query" in str(e).lower()
+            _tag = f" [{label}]" if label else ""
+            # Deterministic server-side rejection: fails instantly with a
+            # timeout-shaped message. Retrying cannot help.
+            if is_timeout and _elapsed < _FAST_FAIL_SECS:
+                if _single_day:
+                    _STATCAST_BAD_DATES.add(start_str)
+                print(f"     ⛔ statcast{_tag}: {start_str}→{end_str} rejected instantly "
+                      f"({_elapsed:.1f}s) - Savant-side bad data, not a real timeout. "
+                      f"Not retrying.")
+                raise last_err
             if attempt <= max_retries:
-                _tag = f" [{label}]" if label else ""
                 _reason = "Savant query timeout" if is_timeout else "error"
                 print(f"     ⏳ statcast{_tag}: {_reason} on attempt {attempt}/{max_retries+1} "
                       f"({e}) - retrying in {retry_delay:.0f}s...")
                 _time_scr.sleep(retry_delay)
             else:
-                _tag = f" [{label}]" if label else ""
                 print(f"     ⚠️  statcast{_tag}: failed after {max_retries+1} attempts ({e})")
     raise last_err
+
+
+def diagnose_statcast_dates(days_back: int = 10) -> None:
+    """
+    Probe the last `days_back` days as INDIVIDUAL single-day Statcast queries
+    and report exactly which dates work.
+
+    Added Aug 14 2026 to answer a specific question: chunked pulls kept
+    failing on one particular date (2026-08-13) across three separate call
+    sites, on two consecutive runs, while every other chunk succeeded. The
+    original theory was "today has no data yet", but on the Aug 14 run the
+    failing date was YESTERDAY, not today - and 2026-08-12 had worked fine
+    the day before as an end date. That points at something wrong with one
+    specific date's data on Savant's side rather than a general
+    recency/size problem, but "points at" is not "confirmed".
+
+    This isolates the variable properly. A single day is the smallest
+    possible query, so if a lone date still times out while its neighbours
+    return instantly, the problem is that date's data, not query size, not
+    recency, and not this file's date arithmetic. Prints a per-date table:
+    date, elapsed seconds, row count or the error.
+
+    Read the output like this:
+      - One date fails, neighbours fine  -> that date is bad on Savant's end.
+        Nothing to fix here; the chunking already degrades gracefully and
+        skips it, which is why runs still complete with PARTIAL results.
+      - Several recent dates fail        -> Savant lag/outage on fresh data;
+        wait and re-run.
+      - Everything fails                 -> connectivity/blocking, not dates.
+    """
+    from datetime import date as _d_date, timedelta as _d_td
+    try:
+        from pybaseball import statcast as _d_statcast
+    except Exception as e:
+        print(f"❌ diagnose_statcast_dates: pybaseball unavailable ({e})")
+        return
+
+    import time as _d_time
+    print(f"\n{'='*74}")
+    print(f"  STATCAST PER-DATE DIAGNOSTIC — probing the last {days_back} days individually")
+    print(f"{'='*74}")
+    print(f"  {'DATE':<12} {'ELAPSED':>9}  RESULT")
+    print(f"  {'-'*12} {'-'*9}  {'-'*40}")
+
+    _today = _d_date.today()
+    failures, successes = [], []
+    for _i in range(1, days_back + 1):
+        _day = _today - _d_td(days=_i)
+        _ds = _day.strftime("%Y-%m-%d")
+        _t0 = _d_time.time()
+        try:
+            _df = _d_statcast(_ds, _ds)
+            _el = _d_time.time() - _t0
+            _rows = 0 if _df is None else len(_df)
+            if _rows > 0:
+                successes.append(_ds)
+                print(f"  {_ds:<12} {_el:8.1f}s  ✅ {_rows:,} rows")
+            else:
+                failures.append((_ds, "empty result (0 rows)"))
+                print(f"  {_ds:<12} {_el:8.1f}s  ⚠️  EMPTY — 0 rows returned")
+        except Exception as e:
+            _el = _d_time.time() - _t0
+            _msg = str(e)[:60]
+            failures.append((_ds, _msg))
+            print(f"  {_ds:<12} {_el:8.1f}s  ❌ {_msg}")
+
+    print(f"\n  SUMMARY: {len(successes)} ok, {len(failures)} failed/empty")
+    if failures and len(failures) < days_back:
+        print(f"  Failing dates: {[d for d, _ in failures]}")
+        print("  → Isolated date(s) failing while neighbours succeed means the problem is")
+        print("    that specific date's data on Savant's end, NOT query size or this file's")
+        print("    date handling. Chunking already skips these and continues with PARTIAL")
+        print("    results, which is the correct degradation - no code fix applies.")
+    elif len(failures) == days_back:
+        print("  → EVERY date failed. That is connectivity or blocking, not a date problem.")
+    else:
+        print("  → All dates fine. If a chunked pull still fails, the issue is query SIZE,")
+        print("    not any individual date — reduce chunk_days at the failing call site.")
+    print(f"{'='*74}\n")
 
 
 def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int = 15,
@@ -5537,6 +5655,46 @@ def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int
 
     dfs = []
     failed_ranges = []
+    salvaged_days = 0
+
+    def _salvage_chunk(_s_d, _e_d, _tag):
+        """
+        A multi-day chunk failed. Because the confirmed root cause is a
+        SINGLE bad date on Savant's side (see _statcast_with_retry's
+        docstring - one date returns an instant canned error while every
+        neighbour serves fine), discarding the whole chunk throws away good
+        data for no reason. Real example from the Aug 14 run: the BZM chunk
+        covering 2026-08-02→2026-08-13 was dropped entirely over one bad
+        day, losing 11 usable days of season data.
+
+        Split the failed range in half and retry each side, recursing down
+        to single days. Only the genuinely bad day(s) end up discarded.
+        Returns (list_of_dataframes, list_of_failed_single_dates, n_days_recovered).
+        """
+        _span = (_e_d - _s_d).days + 1
+        if _span <= 1:
+            return [], [_s_d.strftime("%Y-%m-%d")], 0
+        _mid = _s_d + _dt_chunk.timedelta(days=_span // 2 - 1)
+        _halves = [(_s_d, _mid), (_mid + _dt_chunk.timedelta(days=1), _e_d)]
+        _dfs, _bad, _recovered = [], [], 0
+        for _hs, _he in _halves:
+            if _hs > _he:
+                continue
+            try:
+                _d = _statcast_with_retry(
+                    statcast_fn, _hs.strftime("%Y-%m-%d"), _he.strftime("%Y-%m-%d"),
+                    label=f"{_tag} salvage", max_retries=0
+                )
+                if _d is not None and not _d.empty:
+                    _dfs.append(_d)
+                _recovered += (_he - _hs).days + 1
+            except Exception:
+                _sub_dfs, _sub_bad, _sub_rec = _salvage_chunk(_hs, _he, _tag)
+                _dfs.extend(_sub_dfs)
+                _bad.extend(_sub_bad)
+                _recovered += _sub_rec
+        return _dfs, _bad, _recovered
+
     for i, (c_start, c_end) in enumerate(chunks, 1):
         c_start_str, c_end_str = c_start.strftime("%Y-%m-%d"), c_end.strftime("%Y-%m-%d")
         try:
@@ -5547,20 +5705,34 @@ def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int
             if df_chunk is not None and not df_chunk.empty:
                 dfs.append(df_chunk)
         except Exception as e:
-            failed_ranges.append((c_start_str, c_end_str))
-            print(f"     ⚠️  statcast [{label}]: chunk {i}/{len(chunks)} "
-                  f"({c_start_str}→{c_end_str}) failed even after retry, skipping "
-                  f"({e})")
+            _chunk_span = (c_end - c_start).days + 1
+            if _chunk_span > 1:
+                # Salvage the good days rather than dropping the whole chunk.
+                print(f"     🔧 statcast [{label}]: chunk {i}/{len(chunks)} "
+                      f"({c_start_str}→{c_end_str}) failed - sub-splitting to salvage "
+                      f"the usable days...")
+                _s_dfs, _s_bad, _s_rec = _salvage_chunk(c_start, c_end,
+                                                        f"{label} chunk {i}")
+                dfs.extend(_s_dfs)
+                salvaged_days += _s_rec
+                failed_ranges.extend(_s_bad)
+                print(f"     🔧 statcast [{label}]: chunk {i} salvage recovered "
+                      f"{_s_rec}/{_chunk_span} days; unrecoverable: {_s_bad or 'none'}")
+            else:
+                failed_ranges.append(c_start_str)
+                print(f"     ⚠️  statcast [{label}]: chunk {i}/{len(chunks)} "
+                      f"({c_start_str}) failed, skipping ({e})")
 
     if failed_ranges:
-        print(f"     ⚠️  statcast [{label}]: {len(failed_ranges)}/{len(chunks)} chunks "
-              f"failed and were skipped - result is PARTIAL, missing: {failed_ranges}")
+        print(f"     ⚠️  statcast [{label}]: result is PARTIAL - unrecoverable date(s): "
+              f"{failed_ranges}"
+              + (f" (salvaged {salvaged_days} day(s) from failed chunks)" if salvaged_days else ""))
 
     if not dfs:
         return None
     combined = pd.concat(dfs, ignore_index=True)
-    print(f"     ✅ statcast [{label}]: {len(dfs)}/{len(chunks)} chunks succeeded, "
-          f"{len(combined)} total rows combined")
+    print(f"     ✅ statcast [{label}]: {len(dfs)} data block(s) combined, "
+          f"{len(combined)} total rows")
     return combined
 
 
@@ -18446,6 +18618,13 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         # Lives on BatterProfile; copied here so it reaches the sheet export.
         near_hr_count=int(getattr(batter, 'near_hr_count', 0) or 0),
         near_hr_pa=int(getattr(batter, 'near_hr_pa', 0) or 0),
+        # DFF cross-check — same reason as near_hr above: must be copied onto
+        # the score or the sheet export never sees it (Aug 14 2026).
+        dff_fpts=float(getattr(batter, 'dff_fpts', 0.0) or 0.0),
+        dff_value=float(getattr(batter, 'dff_value', 0.0) or 0.0),
+        dff_fpts_rank=int(getattr(batter, 'dff_fpts_rank', 0) or 0),
+        dff_value_rank=int(getattr(batter, 'dff_value_rank', 0) or 0),
+        dff_team_rank=int(getattr(batter, 'dff_team_rank', 0) or 0),
         hit_prob_pct_display=_hit_prob_display,
         pitcher_ip=_pitcher_ip_proj,
         la_spike_flag=batter.la_spike_flag,
@@ -32531,6 +32710,16 @@ BUILT-IN DATA SOURCES:
 """
     )
     parser.add_argument(
+        "--diagnose-statcast",
+        type=int, nargs="?", const=10, default=None,
+        metavar="DAYS",
+        help="Diagnostic: probe the last N days (default 10) as INDIVIDUAL "
+             "single-day Statcast queries and report which specific dates "
+             "succeed or fail. Answers 'is one particular date broken, or is "
+             "this a general Savant problem?' Runs the probe and exits "
+             "without modelling.",
+    )
+    parser.add_argument(
         "--date", "-d",
         type=str, default=None,
         help="Date to model. Formats: YYYY-MM-DD, MM/DD/YYYY, MM-DD-YYYY (default: today)",
@@ -32587,6 +32776,16 @@ BUILT-IN DATA SOURCES:
         ),
     )
     args = parser.parse_args()
+
+    # Diagnostic short-circuit: probe individual dates and exit without
+    # running the model (Aug 14 2026). See diagnose_statcast_dates() for how
+    # to read the output. Uses sys.exit rather than `return` because this is
+    # inside parse_args(), whose caller unpacks a tuple - a bare return would
+    # hand back None and crash on unpack.
+    if getattr(args, "diagnose_statcast", None):
+        diagnose_statcast_dates(args.diagnose_statcast)
+        import sys as _sys_diag
+        _sys_diag.exit(0)
 
     _pre6am_shift = False
     if args.date is None:
