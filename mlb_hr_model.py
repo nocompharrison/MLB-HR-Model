@@ -1976,6 +1976,52 @@ def inject_fl_lineups(mlb_games: list, fl_players: list, fl_lookup: dict) -> lis
                             .encode("ascii", "ignore").decode().lower().strip())
                     for e in existing_lu
                 }
+                # ── DUPLICATE-ROW BUG FIXED (Aug 14 2026) ────────────────────
+                # The exact-string check below missed abbreviated FL names.
+                # FanDuel/FL often writes "K. Schwarber" while the MLB API
+                # confirmed lineup has "Kyle Schwarber" - normalising both
+                # gives "k schwarber" vs "kyle schwarber", which never match,
+                # so the SAME player got appended a second time as a
+                # 📋 projected duplicate. Confirmed on the Aug 13 slate:
+                # Kyle Schwarber / K. Schwarber, Eduardo Valencia /
+                # E. Valencia, Griffin Conine / G. Conine - each pair same
+                # team, same opposing pitcher, same game time, one ✅ Conf
+                # and one 📋 Proj. This also corrupted downstream analysis:
+                # the duplicate rows carried a bogus "Home Runs" value of 10,
+                # and having one real player occupy two rows with different
+                # metric values inflated combo-mining results badly enough to
+                # produce a false "statistically significant" finding.
+                # Fix: also index existing players by last name + first
+                # initial and treat a hit on that as already-present.
+                # SAFETY: this only fires when one of the two names is
+                # GENUINELY ABBREVIATED (single-letter first name, e.g. "K.
+                # Schwarber"). Without that guard, two distinct players
+                # sharing a last name and first initial would be wrongly
+                # merged - "Willson Contreras" vs "William Contreras" are
+                # real, different players and both would key to
+                # "w|contreras". The loop is already team-scoped, which
+                # separates that specific pair, but requiring an actual
+                # abbreviation makes the rule correct on its own terms
+                # rather than relying on that.
+                def _lastname_initial_key(_nm):
+                    _n = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(_nm))
+                                 .encode("ascii", "ignore").decode().lower().strip())
+                    _parts = _n.split()
+                    if len(_parts) < 2:
+                        return None
+                    return f"{_parts[0][:1]}|{_parts[-1]}"
+
+                def _is_abbreviated(_nm):
+                    _n = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(_nm))
+                                 .encode("ascii", "ignore").decode().lower().strip())
+                    _parts = _n.split()
+                    return len(_parts) >= 2 and len(_parts[0]) == 1
+
+                _existing_li = {}
+                for e in existing_lu:
+                    _k = _lastname_initial_key(e[0])
+                    if _k:
+                        _existing_li.setdefault(_k, []).append(e[0])
                 # Find FL players for this team with a valid batting order not in lineup
                 _gap_players = []
                 for p in fl_players:
@@ -1989,8 +2035,16 @@ def inject_fl_lineups(mlb_games: list, fl_players: list, fl_lookup: dict) -> lis
                         continue
                     pname_norm = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(p["name"]))
                                          .encode("ascii", "ignore").decode().lower().strip())
-                    if pname_norm not in _existing_norm:
-                        _gap_players.append((p["name"], raw_pos, order, p.get("hand", "R"), "projected"))
+                    _p_li = _lastname_initial_key(p["name"])
+                    if pname_norm in _existing_norm:
+                        continue
+                    if _p_li and _p_li in _existing_li:
+                        # Only treat as the same player if one side is
+                        # genuinely abbreviated (see SAFETY note above).
+                        if _is_abbreviated(p["name"]) or any(
+                                _is_abbreviated(_e) for _e in _existing_li[_p_li]):
+                            continue
+                    _gap_players.append((p["name"], raw_pos, order, p.get("hand", "R"), "projected"))
                 if _gap_players:
                     gm[lu_key] = existing_lu + _gap_players
                     _names = [g[0] for g in _gap_players]
@@ -5550,8 +5604,8 @@ def fetch_recent_form(year: int) -> dict:
         end   = date.today() - timedelta(days=1)
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
-        df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
-                                   label="Recent form")
+        df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+                                chunk_days=7, label="Recent form")
         if df is None or df.empty:
             print("  ⚠️  Recent form: no data returned")
             return {}, {}, {}
@@ -7137,8 +7191,8 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
         _start = _end - _tdelta(days=60)
         if year < _date.today().year:
             _start = _date(year, 9, 1);  _end = _date(year, 10, 5)
-        _df = _statcast_with_retry(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
-                                    label="Arsenal CSV-blocked fallback")
+        _df = _statcast_chunked(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
+                                 chunk_days=15, label="Arsenal CSV-blocked fallback")
         if _df is None or _df.empty:
             raise ValueError("Empty Statcast result")
 
@@ -8527,7 +8581,7 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
         start = end - timedelta(days=days_back)
     
     print(f"  📡 pybaseball: statcast aggregation {start} → {end} (may take 10-20s)...")
-    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Arsenal fallback")
+    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Arsenal fallback")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
     
@@ -8764,7 +8818,7 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         return _cached
 
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
-    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Pitcher aggregation")
+    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Pitcher aggregation")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
 
@@ -12422,9 +12476,19 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
     try:
         from pybaseball import statcast
         season_start = date(year, 3, 20)
-        print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_td} "
+        # Aug 14 2026: cap the statcast END date at yesterday. _td is the
+        # SLATE date (passed in from main() as target_date = today), which is
+        # correct for cache-key naming below but wrong as a data-fetch end
+        # bound - today's games haven't been played when this runs pre-game.
+        # The earlier "default to yesterday" fix only applied when
+        # target_date was None, which is never the case from main(), so this
+        # call was still requesting today and a real run showed it fetching
+        # through 2026-08-14. Capping here rather than changing _td keeps the
+        # daily cache key intact.
+        _bzm_end = min(_td, date.today() - timedelta(days=1))
+        print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_bzm_end} "
               f"(first run; will cache for re-runs)...")
-        df = _statcast_with_retry(statcast, season_start.strftime("%Y-%m-%d"), _td.strftime("%Y-%m-%d"), label="BZM season zones")
+        df = _statcast_chunked(statcast, season_start.strftime("%Y-%m-%d"), _bzm_end.strftime("%Y-%m-%d"), chunk_days=15, label="BZM season zones")
 
         if df is None or df.empty:
             print("  ⚠️  BZM season zones: no data returned")
@@ -33321,31 +33385,35 @@ def main():
             # matched batter now get no team rank at all (0, same as
             # unmatched) rather than an automatic #1.
             #
-            # DIAGNOSTIC (Aug 13 2026): a real run showed 0 fires across the
-            # entire slate - not just the picks, every batter. Grouping here
-            # uses batter_stats_map's OWN "team" field (confirmed the right
-            # key name), not DFF's own team column (captured by the loader
-            # but unused for grouping). If batter_stats_map's team field is
-            # empty for matched batters - plausible given batters added via
-            # the "FL gap-fill" path may not populate it the same way as the
-            # primary path - every one would get silently skipped here with
-            # no visible error. Sampling a few matched batters' team values
-            # directly, compared against DFF's own team field, to find out
-            # which side is actually empty rather than guessing again.
+            # ROOT CAUSE FOUND + FIXED (Aug 14 2026): the diagnostic below
+            # ran on a real slate and was conclusive - EVERY matched batter
+            # returned model team='<KEY MISSING>', i.e. batter_stats_map
+            # entries carry no "team" key at all, while DFF's own sheet had
+            # a correct team for all of them ('PHI','CHC','TOR','MIA',...).
+            # Result: 0 team keys formed from 175 matched batters, so every
+            # single batter got silently skipped and the whole team-relative
+            # ranking never ran. Fixed by grouping on DFF's OWN team field
+            # (already captured by load_dff_projections_from_excel, it just
+            # wasn't being used here) rather than the model-side field that
+            # doesn't exist. This is also the more robust choice: the team
+            # value now comes from the same row as the fpts/value numbers
+            # being compared, so they can't disagree.
             _dff_team_diag_shown = 0
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
-                if _dff_team_diag_shown >= 8:
+                if _dff_team_diag_shown >= 5:
                     break
                 _model_team = batter_stats_map[_bname].get("team", "<KEY MISSING>")
                 _dff_team = _dff_entry.get("team", "<KEY MISSING>")
                 print(f"     DFF team-field diagnostic: {_bname!r} -> model team="
-                      f"{_model_team!r} | DFF sheet team={_dff_team!r}")
+                      f"{_model_team!r} | DFF sheet team={_dff_team!r} (grouping on DFF's)")
                 _dff_team_diag_shown += 1
 
             _dff_by_team = {}
+            _dff_no_team = 0
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
-                _team = str(batter_stats_map[_bname].get("team", "")).strip()
+                _team = str(_dff_entry.get("team", "") or "").strip().upper()
                 if not _team:
+                    _dff_no_team += 1
                     continue
                 _dff_by_team.setdefault(_team, []).append((_bname, _dff_entry))
 
@@ -33359,10 +33427,9 @@ def main():
                 for _i, (_bname, _) in enumerate(_members_sorted):
                     _dff_team_rank[_bname] = _i + 1
 
-            print(f"     DFF team-grouping diagnostic: {len(_dff_by_team)} distinct team keys "
-                  f"formed from {len(_dff_matches)} matched batters, "
-                  f"{sum(1 for v in _dff_by_team.values() if len(v)>=2)} of those teams have 2+ members "
-                  f"(team keys seen: {list(_dff_by_team.keys())[:10]})")
+            print(f"     DFF team-grouping: {len(_dff_by_team)} distinct teams formed from "
+                  f"{len(_dff_matches)} matched batters ({_dff_no_team} had no team value), "
+                  f"{_dff_teams_compared} teams have 2+ members and were ranked")
 
             for _bname, (_dff_entry, _bkey) in _dff_matches.items():
                 try:
