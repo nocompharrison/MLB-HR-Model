@@ -5463,7 +5463,24 @@ _STACK_MIN_N_EXACT  = 1
 # there are 186 usable pairs, 316 triples and 197 four-grade combos, so real
 # multi-grade overlaps are reportable; at n>=60 the four-grade tier collapses
 # to 36 and most stacks fall back to pairs, which is what made v1 uninformative.
-_STACK_MIN_N_SUBSET = 30
+# Lowered 30 -> 10 (Aug 14 2026). At 30 the fallback almost always collapsed
+# to 2-grade pairs even for batters firing 6+ grades, which answered a much
+# narrower question than the one being asked. Measured on the panel, dropping
+# to 10 takes usable 4-grade overlaps from 197 -> 1,027 and 5-grade from
+# 44 -> 516, so the reported overlap now actually covers most of what fired.
+_STACK_MIN_N_SUBSET = 10
+
+# Single source of truth for which named grades participate in stack analysis
+# (Aug 14 2026). Previously duplicated inside each stack function; one list
+# means the sheet line, the short table note and the underlying stats can
+# never disagree about what counts as a grade.
+_STACK_TRACKED_GRADES = ["PRIME PITCHER TARGET", "CONFIRMED MATCH", "PITCH DOMINANCE",
+                         "PITCH-RELIANT", "SUPER NUCLEAR", "NUCLEAR", "ELITE LOCK",
+                         "PRIME LOCK", "SHORT-START", "EXTREME L2", "VALUE-ODDS",
+                         "MID-SCORE", "SHARP LINE", "SHARP PM", "ICE COLD",
+                         "Z-CONTACT BOOST", "SCREAM HIT", "PITCH EDGE", "T4", "T3",
+                         "HR26", "BZM", "SWEET", "NEG05", "NEG06", "HIGH-USAGE",
+                         "ELITE SIGNAL COMBO", "PWR-VULN-ENV"]
 
 
 def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str = "",
@@ -19875,13 +19892,7 @@ def _sheet_rankings(wb, scores, top_n):
         # looking at the output. Added directly rather than folded into an
         # existing notes dump, since a dedicated column is easy to scan for
         # and a long pipe-joined string of every note that fired is not.
-        "DFF\nCross-Check",
-        # Aug 14 2026: empirical joint rate for the COMBINATION of grades
-        # firing on this batter. See _load_grade_stack_stats() for why this is
-        # measured from history rather than derived by multiplying the
-        # individual grade rates (they are correlated, so a product would be
-        # wrong). Blank = this combination has no measured history.
-        "Grade Stack\n(measured joint rate)"
+        "DFF\nCross-Check"
     ]
     for c, h in enumerate(headers, 1):
         _hc(ws, 3, c, h)
@@ -20137,21 +20148,6 @@ def _sheet_rankings(wb, scores, top_n):
             _dff_bg, _dff_fc = "F2F2F2", "808080"   # grey - no DFF match at all
         _dc(ws, row, 23, _dff_display, bg=_dff_bg, font_color=_dff_fc, fmt="@")
 
-        # ── Grade Stack column (Aug 14 2026) ──────────────────────────────
-        # Combined grade text = the same sources the conviction scorer reads,
-        # so the stack line can never describe a different set of grades than
-        # the ones actually credited.
-        try:
-            _stack_txt = " ".join([
-                str(getattr(sc, "hr_grade", "") or ""),
-                str(getattr(sc, "hit_grade", "") or ""),
-                " ".join(str(_n_) for _n_ in (sc.notes or [])),
-                " ".join(str(_n_) for _n_ in (getattr(sc, "hit_notes", None) or [])),
-            ])
-            _stack_line = describe_grade_stack(_stack_txt, side="hr")
-        except Exception:
-            _stack_line = ""
-        _dc(ws, row, 24, _stack_line or "—", bg=bg, fmt="@", align="left")
         if _dff_fpts_v is not None:
             from openpyxl.comments import Comment as _DffComment
             _dff_cmt_lines = [f"DFF FPTS projection: {_dff_fpts_v:.1f}"]
@@ -20177,7 +20173,7 @@ def _sheet_rankings(wb, scores, top_n):
         ws.row_dimensions[row].height = 18
 
     # Adjust column widths
-    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7,23:16,24:64})
+    _widths(ws, {1:7,2:22,3:7,4:12,5:7,6:8,7:22,8:9,9:9,10:9,11:8,12:8,13:9,14:8,15:8,16:7,17:8,18:7,19:7,23:16})
 
     # ── Legend row ────────────────────────────────────────────────────────────
     from openpyxl.styles import PatternFill, Font, Alignment
@@ -20343,6 +20339,29 @@ def _sheet_detailed(wb, scores, top_n):
             _write_note_line(f"🎯 Hit Score: {sc.hit_score:.1f}/100", color="1F6B1F", bold=True, size=9)
             for hn in (sc.hit_notes or []):
                 _write_note_line(hn, color="1F6B1F", size=9, indent=3)
+
+        # ── Grade stack line (Aug 14 2026) ────────────────────────────────
+        # Moved here from the Rankings table: it's a sentence of context, not
+        # a scannable metric, so it belongs with the per-batter notes rather
+        # than as a wide column on the main board. Combined grade text is
+        # taken from the same sources the conviction scorer reads, so the
+        # stack line can never describe a different set of grades than the
+        # ones actually credited.
+        try:
+            _stack_txt = " ".join([
+                str(getattr(sc, "hr_grade", "") or ""),
+                str(getattr(sc, "hit_grade", "") or ""),
+                " ".join(str(_n_) for _n_ in (sc.notes or [])),
+                " ".join(str(_n_) for _n_ in (getattr(sc, "hit_notes", None) or [])),
+            ])
+            _stack_hr  = describe_grade_stack(_stack_txt, side="hr")
+            _stack_hit = describe_grade_stack(_stack_txt, side="hit")
+        except Exception:
+            _stack_hr = _stack_hit = ""
+        if _stack_hr:
+            _write_note_line(_stack_hr, color="7030A0", bold=True, size=9, indent=2)
+        if _stack_hit:
+            _write_note_line(_stack_hit, color="1F6B1F", bold=True, size=9, indent=2)
         row += 1
 
     _widths(ws, {1:30,2:28,3:28,4:28,5:28,6:20})
@@ -26893,13 +26912,7 @@ def _load_grade_stack_stats() -> dict:
     if not rows:
         return _empty
 
-    _TRACKED = ["PRIME PITCHER TARGET", "CONFIRMED MATCH", "PITCH DOMINANCE",
-                "PITCH-RELIANT", "SUPER NUCLEAR", "NUCLEAR", "ELITE LOCK",
-                "PRIME LOCK", "SHORT-START", "EXTREME L2", "VALUE-ODDS",
-                "MID-SCORE", "SHARP LINE", "SHARP PM", "ICE COLD",
-                "Z-CONTACT BOOST", "SCREAM HIT", "PITCH EDGE", "T4", "T3",
-                "HR26", "BZM", "SWEET", "NEG05", "NEG06", "HIGH-USAGE",
-                "ELITE SIGNAL COMBO", "PWR-VULN-ENV"]
+    _TRACKED = _STACK_TRACKED_GRADES
 
     _recs = []
     for p in rows:
@@ -26966,13 +26979,7 @@ def describe_grade_stack(grade_text: str, side: str = "hr") -> str:
     _st = _grade_stack_cached()
     if not _st or not _st.get("n"):
         return ""
-    _TRACKED = ["PRIME PITCHER TARGET", "CONFIRMED MATCH", "PITCH DOMINANCE",
-                "PITCH-RELIANT", "SUPER NUCLEAR", "NUCLEAR", "ELITE LOCK",
-                "PRIME LOCK", "SHORT-START", "EXTREME L2", "VALUE-ODDS",
-                "MID-SCORE", "SHARP LINE", "SHARP PM", "ICE COLD",
-                "Z-CONTACT BOOST", "SCREAM HIT", "PITCH EDGE", "T4", "T3",
-                "HR26", "BZM", "SWEET", "NEG05", "NEG06", "HIGH-USAGE",
-                "ELITE SIGNAL COMBO", "PWR-VULN-ENV"]
+    _TRACKED = _STACK_TRACKED_GRADES
     _fired = frozenset(g for g in _TRACKED if g in (grade_text or ""))
     if len(_fired) < 2:
         return ""   # a "stack" needs at least two grades
@@ -26993,8 +27000,9 @@ def describe_grade_stack(grade_text: str, side: str = "hr") -> str:
     if _ex:
         _r, _n_ = _ex[_idx], _ex[2]
         _made = int(round(_r * _n_))
-        _line = (f"🧮 STACK ({len(_fired)} grades) — this exact combination: "
-                 f"{_r*100:.0f}% {_lbl} ({_made}/{_n_}, {_r/_base:.2f}x vs base)")
+        _line = (f"🧮 STACK — all {len(_fired)} of these grades have fired together "
+                 f"before: {_made} of {_n_} time{'s' if _n_ != 1 else ''} produced a "
+                 f"{_lbl} = {_r*100:.0f}% ({_r/_base:.2f}x base rate)")
         if _n_ < 10:
             _line += f" · ⚠️ only {_n_} occurrence{'s' if _n_ != 1 else ''} on record"
         return _line
@@ -27027,20 +27035,70 @@ def describe_grade_stack(grade_text: str, side: str = "hr") -> str:
                (_lifts[len(_lifts) // 2 - 1] + _lifts[len(_lifts) // 2]) / 2
         # Name the single highest-n subset - most reliable, not most extreme.
         _byn = max(_hits, key=lambda h: h[2])
-        _out = (f"🧮 STACK ({len(_fired)} grades) — largest measured overlap is "
-                f"{_sz} of them: {len(_hits)} such {_sz}-grade combo(s) on record, "
-                f"median {_med:.2f}x {_lbl}")
+        _unmeasured = len(_fired) - _sz
+        _out = (f"🧮 STACK — all {len(_fired)} of these grades together has NEVER "
+                f"happened before, so there is no rate for the full set. "
+                f"Closest real evidence: {_sz} of the {len(_fired)} "
+                f"({_unmeasured} left out). "
+                f"{len(_hits)} different {_sz}-grade group{'s' if len(_hits) != 1 else ''} "
+                f"within this batter's set {'have' if len(_hits) != 1 else 'has'} history — "
+                f"typical result {_med:.2f}x base {_lbl}")
         if len(_hits) > 1:
-            _out += f" (range {_lifts[0]:.2f}x–{_lifts[-1]:.2f}x)"
-        _out += (f" · best-sampled: {' + '.join(_byn[3])} "
-                 f"{_byn[1]*100:.0f}% ({_byn[0]:.2f}x, n={_byn[2]})")
+            _out += f", spread {_lifts[0]:.2f}x–{_lifts[-1]:.2f}x"
+        _out += (f". Most-seen group: {' + '.join(_byn[3])} → "
+                 f"{_byn[1]*100:.0f}% {_lbl} ({_byn[0]:.2f}x) over {_byn[2]} occurrences")
         if _med < 1.0:
-            _out += " · ⚠️ median below base rate"
+            _out += " · ⚠️ typical result is BELOW base rate"
         return _out
 
-    return (f"🧮 STACK ({len(_fired)} grades) — no measured history for this "
-            f"combination or any subset of it; individual grade rates are all "
-            f"that apply")
+    return (f"🧮 STACK — all {len(_fired)} grades together has never happened, and no "
+            f"smaller group within it has enough history either. Only the individual "
+            f"grade rates apply here.")
+
+
+def short_grade_stack(grade_text: str, side: str = "hr") -> str:
+    """
+    Very brief stack summary for the Sharp Picks tables, e.g.
+    "7-grade HR stack = 80% (4/5)". Same measured data as
+    describe_grade_stack(), just compressed to fit a table row.
+
+    Returns "" when fewer than 2 grades fire or nothing is measured. When the
+    exact set has no history, falls back to the largest measured subset and
+    marks it with "~" plus the size actually covered, so a partial answer is
+    never mistaken for the full-set rate.
+    """
+    _st = _grade_stack_cached()
+    if not _st or not _st.get("n"):
+        return ""
+    _fired = frozenset(g for g in _STACK_TRACKED_GRADES if g in (grade_text or ""))
+    if len(_fired) < 2:
+        return ""
+    _idx = 0 if side == "hr" else 1
+    _base = _st["base_hr"] if side == "hr" else _st["base_hit"]
+    _lbl = "HR" if side == "hr" else "Hit"
+    if _base <= 0:
+        return ""
+
+    _ex = _st["exact"].get(_fired)
+    if _ex:
+        _r, _n_ = _ex[_idx], _ex[2]
+        _made = int(round(_r * _n_))
+        return f"{len(_fired)}-grade {_lbl} stack = {_r*100:.0f}% ({_made}/{_n_})"
+
+    import itertools as _it_s
+    _gs = sorted(_fired)
+    for _sz in range(min(5, len(_gs)), 1, -1):
+        _hits = [(_st["subsets"][frozenset(_c)][_idx], _st["subsets"][frozenset(_c)][2])
+                 for _c in _it_s.combinations(_gs, _sz)
+                 if frozenset(_c) in _st["subsets"]]
+        if not _hits:
+            continue
+        _rates = sorted(h[0] for h in _hits)
+        _med = _rates[len(_rates) // 2] if len(_rates) % 2 else \
+               (_rates[len(_rates) // 2 - 1] + _rates[len(_rates) // 2]) / 2
+        return (f"{len(_fired)}-grade {_lbl} stack = ~{_med*100:.0f}% "
+                f"(no full-set history; {_sz}-of-{len(_fired)} overlap)")
+    return ""
 
 
 # ── Live grade-rate access (Jun 2026) ────────────────────────────────────────
@@ -31228,6 +31286,21 @@ def _sheet_sharp_picks(wb, scores, top_n):
         else:
             _grade_display = g
         _rationale = _hr_play_tag(sc, sh, _conv) + _hr_rationale(sh, sc, _rationale_ctx)
+        # Brief grade-stack note (Aug 14 2026). Appended to the rationale so it
+        # flows into current_sharp.csv and therefore into the pick cards. Full
+        # explanation lives in the Detailed sheet; this is the one-liner.
+        try:
+            _stk_txt = " ".join([
+                str(sh.get("hr_grade", "") or ""), str(sh.get("hit_grade", "") or ""),
+                " ".join(str(_n) for _n in (sc.notes or [])),
+                " ".join(str(_n) for _n in (getattr(sc, "hit_notes", None) or [])),
+                " ".join(str(_n) for _n in (sh.get("flags") or [])),
+            ])
+            _stk_short = short_grade_stack(_stk_txt, side="hr")
+            if _stk_short:
+                _rationale = f"{_rationale}  🧮 {_stk_short}."
+        except Exception:
+            pass
         # PRIME/ELITE LOCK and BGS conviction tier — replace ✅ PLAY or 🟡 LEAN prefix.
         # ⛔ PASS picks are left unchanged.
         # Priority: ELITE LOCK > PRIME LOCK > CONVICTION > GOOD PLAY
@@ -32429,7 +32502,23 @@ def _sheet_sharp_picks(wb, scores, top_n):
         _c(ws,row,3,f"{hs:.1f}",        bg=h_bg,align="center")
         _c(ws,row,4,f"{conv}/12",       bg=h_bg,align="center",bold=(conv>=7))
         _c(ws,row,5,_grade_disp,        bg=h_bg,bold=(hgc>=2),size=9)
-        _c(ws,row,6,_hit_play_tag(sc, sh, conv) + _hit_rationale(sc, sh, _hit_rationale_ctx), bg=h_bg,size=9)
+        _hit_why = _hit_play_tag(sc, sh, conv) + _hit_rationale(sc, sh, _hit_rationale_ctx)
+        # Brief HIT-side grade-stack note (Aug 14 2026), mirroring the HR
+        # table. Uses side="hit" so the rate quoted is the hit rate for this
+        # grade combination, not the HR rate.
+        try:
+            _stk_txt_h = " ".join([
+                str(sh.get("hr_grade", "") or ""), str(sh.get("hit_grade", "") or ""),
+                " ".join(str(_n) for _n in (sc.notes or [])),
+                " ".join(str(_n) for _n in (getattr(sc, "hit_notes", None) or [])),
+                " ".join(str(_n) for _n in (sh.get("flags") or [])),
+            ])
+            _stk_short_h = short_grade_stack(_stk_txt_h, side="hit")
+            if _stk_short_h:
+                _hit_why = f"{_hit_why}  🧮 {_stk_short_h}."
+        except Exception:
+            pass
+        _c(ws,row,6,_hit_why, bg=h_bg,size=9)
         _c(ws,row,7,_key_sigs,          bg=h_bg,size=9)
         _c(ws,row,8,"  ".join(_relabel_all(_hit_flags, "hit")) or "✅ Clean", bg=h_bg,size=9)
         ws.row_dimensions[row].height = 18; row += 1
@@ -32885,17 +32974,37 @@ def _sheet_sharp_picks(wb, scores, top_n):
     print("="*60)
     print("  🎯 SHARP PICKS (22-slate validated)")
     print("="*60)
+    # Brief stack note per pick (Aug 14 2026). Full explanation lives in the
+    # Detailed sheet; this is the one-line version so the sharp table shows
+    # the combined picture at a glance.
+    def _stack_note(sc, sh, side):
+        try:
+            _txt = " ".join([
+                str(sh.get("hr_grade", "") or ""), str(sh.get("hit_grade", "") or ""),
+                " ".join(str(_n) for _n in (sc.notes or [])),
+                " ".join(str(_n) for _n in (getattr(sc, "hit_notes", None) or [])),
+                " ".join(str(_n) for _n in (sh.get("flags") or [])),
+            ])
+            _s = short_grade_stack(_txt, side=side)
+            return f"  🧮 {_s}" if _s else ""
+        except Exception:
+            return ""
+
     if hr_picks:
         print("  HR:")
         for sc,sh in hr_picks[:5]:
             _rk_str = {1:"🥇",2:"🥈",3:"🥉"}.get(sh["rank"], f"#{sh['rank']:>2}")
             print(f"    {sh['hr_grade']:<14} {_rk_str} {sc.batter_name:<22} {sc.hr_odds_display or 'N/A':>6}  {sh['hr_combo'][:40]}")
+            _sn = _stack_note(sc, sh, "hr")
+            if _sn: print(f"      {_sn.strip()}")
     else:
         print("  HR: No validated combos fired")
     if hit_picks:
         print("  HITS:")
         for sc,sh in hit_picks[:7]:
             print(f"    {sh['hit_grade']:<14} #{sh['rank']:>2} {sc.batter_name:<22} HS={sc.hit_score:.0f}  {sh['hit_label'][:35]}")
+            _sn = _stack_note(sc, sh, "hit")
+            if _sn: print(f"      {_sn.strip()}")
     if fades:
         print("  FADES:")
         for sc,sh in fades[:4]:
