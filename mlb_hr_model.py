@@ -9888,9 +9888,26 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
     # ── L10 BBE enrichment (pybaseball / Savant CSV) ──────────────────────
     # Runs independently — not nested inside home/away ERA try block so it
     # can't be silently skipped if earlier enrichment steps fail.
+    #
+    # TIMING INSTRUMENTATION (Aug 14 2026): this block was reported as taking
+    # ~30s with no visible progress. Rather than guess which sub-stage is
+    # responsible, each stage now prints its own elapsed time so the next run
+    # attributes the cost precisely. The candidates are genuinely different
+    # fixes: the ID-map build is pure local CPU (pandas .to_dict() per row,
+    # 572 rows), the fetch may load a large BZM pickle off disk, and the
+    # enrichment loop is trivial - knowing which one dominates decides
+    # whether the answer is caching, vectorising, or skipping it entirely.
+    import time as _t_l10
+    _t_l10_block = _t_l10.time()
     try:
+        _t_stage = _t_l10.time()
         _l7_id_map_l10 = {}
+        _l10_total_names = len(batter_map)
+        _l10_seen = 0
         for nm in batter_map:
+            _l10_seen += 1
+            if _l10_total_names >= 200 and _l10_seen % 200 == 0:
+                print(f"     … L10 ID map: {_l10_seen}/{_l10_total_names} batters scanned")
             try:
                 _row = batter_map[nm]
                 # Handle pd.Series: convert to dict first to avoid ambiguous truth value
@@ -9905,7 +9922,8 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
             if _pid > 0:
                 _l7_id_map_l10[nm] = _pid
 
-        print(f"  📡 L10 BBE: attempting fetch for {len(_l7_id_map_l10)} batters with IDs...")
+        print(f"  📡 L10 BBE: attempting fetch for {len(_l7_id_map_l10)} batters with IDs... "
+              f"[ID-map build took {_t_l10.time() - _t_stage:.1f}s]")
 
         # DIAGNOSTIC (Aug 11 2026). The previous fix (resolving IDs back to
         # names via _l7_id_map_l10) is deployed and confirmed present, but
@@ -9932,10 +9950,13 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
                   f"savant_id={_row_probe.get('savant_id')}")
             _l10_probe += 1
 
+        _t_stage = _t_l10.time()
         _l10_bbe_data = _fetch_batter_l10_bbe(
             _l7_id_map_l10,
             target_date or date.today(),
             n_bbe=10, lookback_days=60)
+        print(f"     ⏱  L10 BBE fetch stage took {_t_l10.time() - _t_stage:.1f}s "
+              f"({len(_l10_bbe_data)} entries returned)")
         # BUG FIX (Aug 11 2026): _fetch_batter_l10_bbe() returns its result
         # keyed by player ID (confirmed via diagnostic: real sample keys were
         # ['624523', '665846', '668965'] - numeric ID strings, not names) even
@@ -9996,7 +10017,10 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
                             pass
                 _l10_enriched += 1
         if _l10_enriched:
-            print(f"  ✅ L10 BBE enrichment: {_l10_enriched} batters")
+            print(f"  ✅ L10 BBE enrichment: {_l10_enriched} batters "
+                  f"(first/baseline pass — the later same-run BZM pass supersedes this; "
+                  f"a low number here is expected and not a data problem)")
+            print(f"     ⏱  L10 BBE block total: {_t_l10.time() - _t_l10_block:.1f}s")
         elif _l10_bbe_data:
             # DIAGNOSTIC (Aug 11 2026): _l10_bbe_data came back non-empty (the
             # BZM season cache line right above this in the log routinely
