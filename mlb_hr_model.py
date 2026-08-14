@@ -8195,9 +8195,43 @@ def _fetch_batter_l10_bbe(batter_id_map: dict, target_date, n_bbe: int = 10,
     return {}
 
 def _fetch_batter_l7_stats(batter_id_map: dict, year: int, target_date) -> dict:
-    """Pull last-7-days BA/SLG/HR from MLB Stats API. batter_id_map = {name: mlbam_id}."""
+    """
+    Pull last-7-days BA/SLG/HR from MLB Stats API. batter_id_map = {name: mlbam_id}.
+
+    PERFORMANCE (Aug 14 2026): this was the ~30s stall Harrison reported
+    between the hand/home-road enrichment line and the L7 line. Cause was
+    not mysterious once measured - it issued one sequential HTTP request per
+    batter (572 of them) with no caching and no concurrency. At the ~50ms
+    round-trip these endpoints average, 572 serial calls is ~30s of pure
+    waiting. Two independent fixes, both applied:
+
+      1. DAILY CACHE. These are last-7-days aggregates; they do not change
+         within a single day, so re-running the model re-fetched all 572 for
+         no reason. Now cached under 'l7_stats_<YYYYMMDD>' with the same 20h
+         TTL convention used by the other stat caches, making every re-run
+         after the first effectively instant.
+      2. CONCURRENCY. The work is pure network I/O, so it parallelises
+         cleanly. 8 workers (conservative - the file already uses 10
+         elsewhere, and this is a public API worth being polite to) cuts the
+         cold-cache path from ~30s to roughly 4s.
+
+    Progress is printed every 100 completions so the stage is never a silent
+    blinking cursor even on the cold path.
+    """
     from datetime import timedelta
+    import json as _json_l7
+    import concurrent.futures as _cf_l7
+
     result: dict = {}
+    _td_l7 = target_date if hasattr(target_date, "strftime") else date.today()
+    _cache_key_l7 = f"l7_stats_{_td_l7.strftime('%Y%m%d')}"
+
+    _cached_l7 = _load_cache(year, _cache_key_l7, max_age_hours=20)
+    if _cached_l7:
+        print(f"  💾 L7 BA/SLG cache hit: {len(_cached_l7)} batters (skipping "
+              f"{len(batter_id_map)} API calls)")
+        return _cached_l7
+
     start_str = (target_date - timedelta(days=7)).strftime("%Y-%m-%d")
     end_str   = target_date.strftime("%Y-%m-%d")
     # FIX (Jun 14 2026): Removed [:60] cap — was silently dropping batters past
@@ -8206,25 +8240,52 @@ def _fetch_batter_l7_stats(batter_id_map: dict, year: int, target_date) -> dict:
     # 3 HRs in June 10-12 never showed up. Each call is a single cheap endpoint.
     # Also lowered ab gate from 5→3: players with only 3-4 ABs in L7 still have
     # meaningful recency signal (e.g., return from injury, day off midweek).
-    for name, pid in list(batter_id_map.items()):
-        if not pid: continue
-        url = (f"https://statsapi.mlb.com/api/v1/people/{pid}/stats"
+    _targets = [(nm, pid) for nm, pid in batter_id_map.items() if pid]
+    print(f"  📡 L7 BA/SLG: fetching {len(_targets)} batters "
+          f"(parallel, 8 workers — first run of the day only)...")
+
+    def _fetch_one_l7(_pair):
+        _name, _pid = _pair
+        url = (f"https://statsapi.mlb.com/api/v1/people/{_pid}/stats"
                f"?stats=byDateRange&group=hitting&season={year}"
                f"&startDate={start_str}&endDate={end_str}")
         try:
             raw = _get_text(url)
-            if not raw: continue
-            import json
-            data = json.loads(raw)
-            splits = data.get("stats",[{}])[0].get("splits",[])
-            if not splits: continue
-            s = splits[0].get("stat",{})
-            ab=int(s.get("atBats",0) or 0); hits=int(s.get("hits",0) or 0)
-            tb=int(s.get("totalBases",0) or 0); hr=int(s.get("homeRuns",0) or 0)
+            if not raw:
+                return None
+            data = _json_l7.loads(raw)
+            splits = data.get("stats", [{}])[0].get("splits", [])
+            if not splits:
+                return None
+            s = splits[0].get("stat", {})
+            ab = int(s.get("atBats", 0) or 0); hits = int(s.get("hits", 0) or 0)
+            tb = int(s.get("totalBases", 0) or 0); hr = int(s.get("homeRuns", 0) or 0)
             if ab >= 3:   # lowered from 5 — 3 ABs is enough for directional recency signal
-                result[name] = {"l7_ba": hits/ab, "l7_slg": tb/ab, "l7_hr": hr}
-        except Exception: continue
+                return (_name, {"l7_ba": hits / ab, "l7_slg": tb / ab, "l7_hr": hr})
+        except Exception:
+            return None
+        return None
+
+    _done_l7 = 0
+    try:
+        with _cf_l7.ThreadPoolExecutor(max_workers=8) as _pool_l7:
+            for _res in _pool_l7.map(_fetch_one_l7, _targets):
+                _done_l7 += 1
+                if _done_l7 % 100 == 0:
+                    print(f"     … L7 BA/SLG: {_done_l7}/{len(_targets)} fetched")
+                if _res:
+                    result[_res[0]] = _res[1]
+    except Exception as _e_l7:
+        # Never let a threading problem break the run - fall back to serial.
+        print(f"  ⚠️  L7 BA/SLG parallel fetch failed ({_e_l7}) — falling back to serial")
+        result = {}
+        for _pair in _targets:
+            _res = _fetch_one_l7(_pair)
+            if _res:
+                result[_res[0]] = _res[1]
+
     if result:
+        _save_cache(year, _cache_key_l7, result)
         print(f"  ✅ L7 BA/SLG: {len(result)} batters")
     return result
 
