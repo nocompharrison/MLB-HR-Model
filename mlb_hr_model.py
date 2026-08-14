@@ -5451,14 +5451,6 @@ _DFF_NAME_FIX_LOG_COUNT = [0]
 # Minimum observations before a grade-stack rate is reported at all (Aug 14
 # 2026). Exact-set matches are rarer so they get a lower floor than pairs;
 # below these, nothing is shown rather than a rate built on a handful of games.
-# EXACT-combination rates are reported at ANY sample size, including n=1
-# (Aug 14 2026, per explicit instruction). The question being answered is
-# literally "when a batter fires exactly these grades, what has happened?" -
-# and if that has only occurred once, the honest answer is that one result,
-# labelled with its n so the thinness is visible rather than hidden. The n
-# floor stays ONLY on the subset backoff below, which is a different claim
-# (generalising from partial overlaps) and does need sample behind it.
-_STACK_MIN_N_EXACT  = 1
 # Subsets (sizes 2-5) need a floor too. 30 chosen from the panel: at n>=30
 # there are 186 usable pairs, 316 triples and 197 four-grade combos, so real
 # multi-grade overlaps are reportable; at n>=60 the four-grade tier collapses
@@ -26932,30 +26924,32 @@ def _load_grade_stack_stats() -> dict:
     _base_hr = sum(r[1] for r in _recs) / _n
     _base_hit = sum(r[2] for r in _recs) / _n
 
-    _exact_acc = _dd_st(lambda: [0, 0, 0])   # [hr, hit, n]
-    _sub_acc = _dd_st(lambda: [0, 0, 0])     # subsets of size 2..5
-    for _g, _hr, _hit in _recs:
-        _e = _exact_acc[_g]
-        _e[0] += _hr; _e[1] += _hit; _e[2] += 1
-        # Subsets up to size 5. Measured on the panel: size-4 subsets still
-        # reach usable n (197 with n>=30), size-5 mostly does not (44), and
-        # beyond that nothing does. Capping at 5 keeps the combinatorics
-        # bounded - a 12-grade batter yields C(12,5)=792 subsets, which is
-        # fine; past that the guard below skips the largest sizes so a
-        # pathological 15-grade row can't blow up the loop.
-        _gs = sorted(_g)
-        _max_sz = 5 if len(_gs) <= 12 else 3
-        for _sz in range(2, min(_max_sz, len(_gs)) + 1):
-            for _c in _it_st.combinations(_gs, _sz):
-                _pa = _sub_acc[frozenset(_c)]
-                _pa[0] += _hr; _pa[1] += _hit; _pa[2] += 1
+    # CONTAINMENT SEMANTICS (Aug 14 2026 fix). The previous build kept an
+    # "exact" dict keyed by the batter's COMPLETE grade profile, which
+    # answered a much narrower question than the one being asked: it required
+    # the historical batter to have fired those grades AND NOTHING ELSE. Real
+    # symptom that exposed it: a card printed "all 3 of these grades together
+    # has NEVER happened before" and then, one clause later, "over 11
+    # occurrences" - both true under the old split (never as a complete
+    # profile, 11 times as a co-occurrence) but flatly self-contradictory to
+    # read. The question is "when a batter fires these grades, what happens?",
+    # so the answer must count every row where the set is PRESENT, whatever
+    # else fired alongside. Containment is computed at query time from the raw
+    # records rather than precomputed, because the fired set can be any size
+    # and enumerating all subsets of every row is both expensive and lossy.
+    return {"records": _recs, "base_hr": _base_hr, "base_hit": _base_hit, "n": _n}
 
-    exact = {k: (v[0] / v[2], v[1] / v[2], v[2])
-             for k, v in _exact_acc.items() if v[2] >= _STACK_MIN_N_EXACT}
-    subsets = {k: (v[0] / v[2], v[1] / v[2], v[2])
-               for k, v in _sub_acc.items() if v[2] >= _STACK_MIN_N_SUBSET}
-    return {"exact": exact, "subsets": subsets,
-            "base_hr": _base_hr, "base_hit": _base_hit, "n": _n}
+
+def _stack_containment(records, wanted, idx):
+    """Count history rows where every grade in `wanted` fired (plus anything
+    else). Returns (rate, n) or (None, 0)."""
+    _hit = 0
+    _tot = 0
+    for _g, _hr, _ht in records:
+        if wanted <= _g:
+            _tot += 1
+            _hit += _hr if idx == 0 else _ht
+    return ((_hit / _tot), _tot) if _tot else (None, 0)
 
 
 def _grade_stack_cached() -> dict:
@@ -26969,103 +26963,74 @@ def _grade_stack_cached() -> dict:
 
 def describe_grade_stack(grade_text: str, side: str = "hr") -> str:
     """
-    Build the human-readable STACK line for one batter.
+    Full STACK line for one batter, for the Detailed sheet.
 
-    `grade_text` is that batter's combined grade/flag text; `side` is "hr" or
-    "hit". Returns "" when nothing measurable applies - an empty result is a
-    real answer here, not a failure, and is far better than inventing a
-    number for a combination that has never been observed.
+    Answers: "when a batter fired ALL of these grades together, what actually
+    happened?" Counting is CONTAINMENT - every historical row where the whole
+    set was present counts, regardless of which other grades also fired. See
+    _load_grade_stack_stats() for why exact-profile matching was wrong.
+
+    Returns "" when fewer than 2 grades fire.
     """
     _st = _grade_stack_cached()
     if not _st or not _st.get("n"):
         return ""
-    _TRACKED = _STACK_TRACKED_GRADES
-    _fired = frozenset(g for g in _TRACKED if g in (grade_text or ""))
+    _fired = frozenset(g for g in _STACK_TRACKED_GRADES if g in (grade_text or ""))
     if len(_fired) < 2:
-        return ""   # a "stack" needs at least two grades
+        return ""
 
     _idx = 0 if side == "hr" else 1
     _base = _st["base_hr"] if side == "hr" else _st["base_hit"]
-    _lbl = "HR" if side == "hr" else "Hit"
+    _lbl = "HR" if side == "hr" else "HIT"
     if _base <= 0:
         return ""
+    _recs = _st["records"]
 
-    # Tier 1: the exact combination, reported at ANY sample size.
-    # This is the literal question being asked - "when these exact grades all
-    # fire together, what has actually happened?" - so it leads, and a thin
-    # sample is shown rather than suppressed. The raw made/total is printed
-    # alongside the percentage so n=1 reads as "1/1", which is
-    # self-evidently thin, instead of a bare "100%" that looks authoritative.
-    _ex = _st["exact"].get(_fired)
-    if _ex:
-        _r, _n_ = _ex[_idx], _ex[2]
-        _made = int(round(_r * _n_))
-        _line = (f"🧮 STACK — all {len(_fired)} of these grades have fired together "
-                 f"before: {_made} of {_n_} time{'s' if _n_ != 1 else ''} produced a "
-                 f"{_lbl} = {_r*100:.0f}% ({_r/_base:.2f}x base rate)")
+    _rate, _n_ = _stack_containment(_recs, _fired, _idx)
+    if _n_:
+        _made = int(round(_rate * _n_))
+        _line = (f"\U0001F9EE {_lbl} STACK — all {len(_fired)} of these grades have fired "
+                 f"together {_n_} time{'s' if _n_ != 1 else ''}: {_made} produced a {_lbl} "
+                 f"= {_rate*100:.0f}% ({_rate/_base:.2f}x base)")
         if _n_ < 10:
-            _line += f" · ⚠️ only {_n_} occurrence{'s' if _n_ != 1 else ''} on record"
+            _line += f" \u00b7 \u26a0\ufe0f thin sample"
         return _line
 
-    # Tier 2: use the LARGEST measurable subset, not pairs.
-    # Aug 14 2026 rewrite. The first version only ever looked at pairs, which
-    # was wrong twice over on a batter firing many grades:
-    #   1. It threw away information. A 7-grade batter routinely has a
-    #      measurable 4-grade subset (verified: n=88, 1.37x on a real set),
-    #      which describes far more of what actually fired than any pair.
-    #   2. Reporting the single BEST pair out of ~21 candidates is upward
-    #      biased by selection - the maximum of many noisy estimates is
-    #      systematically optimistic, so it flattered every stack.
-    # Now: walk subset sizes downward, stop at the largest size with any
-    # measured data, and report the AGGREGATE across all measurable subsets
-    # at that size (median + range + how many), rather than cherry-picking.
+    # Full set never co-occurred - back off to the largest subset that has.
     import itertools as _it_d
     _gs = sorted(_fired)
-    for _sz in range(min(5, len(_gs)), 1, -1):
-        _hits = []
+    for _sz in range(len(_gs) - 1, 1, -1):
+        _cands = []
         for _c in _it_d.combinations(_gs, _sz):
-            _p = _st["subsets"].get(frozenset(_c))
-            if _p:
-                _hits.append((_p[_idx] / _base, _p[_idx], _p[2], _c))
-        if not _hits:
+            _r, _cn = _stack_containment(_recs, frozenset(_c), _idx)
+            if _cn >= _STACK_MIN_N_SUBSET:
+                _cands.append((_r, _cn, _c))
+        if not _cands:
             continue
-        _hits.sort(reverse=True)
-        _lifts = sorted(h[0] for h in _hits)
-        _med = _lifts[len(_lifts) // 2] if len(_lifts) % 2 else \
-               (_lifts[len(_lifts) // 2 - 1] + _lifts[len(_lifts) // 2]) / 2
-        # Name the single highest-n subset - most reliable, not most extreme.
-        _byn = max(_hits, key=lambda h: h[2])
-        _unmeasured = len(_fired) - _sz
-        _out = (f"🧮 STACK — all {len(_fired)} of these grades together has NEVER "
-                f"happened before, so there is no rate for the full set. "
-                f"Closest real evidence: {_sz} of the {len(_fired)} "
-                f"({_unmeasured} left out). "
-                f"{len(_hits)} different {_sz}-grade group{'s' if len(_hits) != 1 else ''} "
-                f"within this batter's set {'have' if len(_hits) != 1 else 'has'} history — "
-                f"typical result {_med:.2f}x base {_lbl}")
-        if len(_hits) > 1:
-            _out += f", spread {_lifts[0]:.2f}x–{_lifts[-1]:.2f}x"
-        _out += (f". Most-seen group: {' + '.join(_byn[3])} → "
-                 f"{_byn[1]*100:.0f}% {_lbl} ({_byn[0]:.2f}x) over {_byn[2]} occurrences")
-        if _med < 1.0:
-            _out += " · ⚠️ typical result is BELOW base rate"
+        _rates = sorted(c[0] for c in _cands)
+        _med = _rates[len(_rates)//2] if len(_rates) % 2 else \
+               (_rates[len(_rates)//2 - 1] + _rates[len(_rates)//2]) / 2
+        _byn = max(_cands, key=lambda c: c[1])
+        _out = (f"\U0001F9EE {_lbl} STACK — these {len(_fired)} grades have never all "
+                f"fired together. Closest: {_sz} of them ({len(_fired)-_sz} left out). "
+                f"{len(_cands)} such group{'s' if len(_cands) != 1 else ''} on record, "
+                f"typical {_med/_base:.2f}x base {_lbl}")
+        _out += (f". Most-seen: {' + '.join(_byn[2])} \u2192 {_byn[0]*100:.0f}% "
+                 f"({_byn[0]/_base:.2f}x) over {_byn[1]} occurrences")
+        if _med < _base:
+            _out += " \u00b7 \u26a0\ufe0f typically BELOW base rate"
         return _out
 
-    return (f"🧮 STACK — all {len(_fired)} grades together has never happened, and no "
-            f"smaller group within it has enough history either. Only the individual "
-            f"grade rates apply here.")
+    return (f"\U0001F9EE {_lbl} STACK — these {len(_fired)} grades have never all fired "
+            f"together and no smaller group has enough history. Individual grade rates "
+            f"are all that apply.")
 
 
 def short_grade_stack(grade_text: str, side: str = "hr") -> str:
     """
-    Very brief stack summary for the Sharp Picks tables, e.g.
-    "7-grade HR stack = 80% (4/5)". Same measured data as
-    describe_grade_stack(), just compressed to fit a table row.
-
-    Returns "" when fewer than 2 grades fire or nothing is measured. When the
-    exact set has no history, falls back to the largest measured subset and
-    marks it with "~" plus the size actually covered, so a partial answer is
-    never mistaken for the full-set rate.
+    One-line version for the Sharp Picks tables, e.g.
+    "7-grade HR stack = 80% (4/5)". Same containment counting as
+    describe_grade_stack(); "~" marks a subset approximation.
     """
     _st = _grade_stack_cached()
     if not _st or not _st.get("n"):
@@ -27078,24 +27043,26 @@ def short_grade_stack(grade_text: str, side: str = "hr") -> str:
     _lbl = "HR" if side == "hr" else "Hit"
     if _base <= 0:
         return ""
+    _recs = _st["records"]
 
-    _ex = _st["exact"].get(_fired)
-    if _ex:
-        _r, _n_ = _ex[_idx], _ex[2]
-        _made = int(round(_r * _n_))
-        return f"{len(_fired)}-grade {_lbl} stack = {_r*100:.0f}% ({_made}/{_n_})"
+    _rate, _n_ = _stack_containment(_recs, _fired, _idx)
+    if _n_:
+        _made = int(round(_rate * _n_))
+        return f"{len(_fired)}-grade {_lbl} stack = {_rate*100:.0f}% ({_made}/{_n_})"
 
     import itertools as _it_s
     _gs = sorted(_fired)
-    for _sz in range(min(5, len(_gs)), 1, -1):
-        _hits = [(_st["subsets"][frozenset(_c)][_idx], _st["subsets"][frozenset(_c)][2])
-                 for _c in _it_s.combinations(_gs, _sz)
-                 if frozenset(_c) in _st["subsets"]]
-        if not _hits:
+    for _sz in range(len(_gs) - 1, 1, -1):
+        _cands = []
+        for _c in _it_s.combinations(_gs, _sz):
+            _r, _cn = _stack_containment(_recs, frozenset(_c), _idx)
+            if _cn >= _STACK_MIN_N_SUBSET:
+                _cands.append(_r)
+        if not _cands:
             continue
-        _rates = sorted(h[0] for h in _hits)
-        _med = _rates[len(_rates) // 2] if len(_rates) % 2 else \
-               (_rates[len(_rates) // 2 - 1] + _rates[len(_rates) // 2]) / 2
+        _rates = sorted(_cands)
+        _med = _rates[len(_rates)//2] if len(_rates) % 2 else \
+               (_rates[len(_rates)//2 - 1] + _rates[len(_rates)//2]) / 2
         return (f"{len(_fired)}-grade {_lbl} stack = ~{_med*100:.0f}% "
                 f"(no full-set history; {_sz}-of-{len(_fired)} overlap)")
     return ""
