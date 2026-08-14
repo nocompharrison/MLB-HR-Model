@@ -5443,6 +5443,11 @@ def match_propline_event(mlb_game: dict, propline_events: list) -> Optional[str]
 
 _STATCAST_BAD_DATES: set = set()
 
+# Caps how many "batter row resolved by abbreviation" lines get printed per run
+# (Aug 14 2026). List rather than int so the nested lookup can mutate it
+# without a `global` declaration.
+_DFF_NAME_FIX_LOG_COUNT = [0]
+
 
 def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str = "",
                           max_retries: int = 2, retry_delay: float = 8.0):
@@ -34171,8 +34176,106 @@ def main():
                 else:
                     recent = None
 
-                if bname in batter_stats_map:
-                    b = build_batter(bname, batter_stats_map[bname], recent, ov, hr_props)
+                # ── Batter row lookup: exact → normalized → abbreviated ──────
+                # BUG FIXED (Aug 14 2026): this was an exact-key lookup only.
+                # Lineup names arriving from the FL gap-fill path are often
+                # ABBREVIATED ("F. Lindor", "Y. Alvarez", "C.J. Abrams")
+                # while batter_stats_map is keyed by full season-stat names
+                # ("Francisco Lindor", "Yordan Alvarez", "CJ Abrams"), so
+                # those batters missed entirely and fell through to
+                # build_batter_default() - a profile with NO season stats,
+                # no L10, no DFF fields. Symptom that exposed it: those exact
+                # batters showed "0.0fp" in the DFF column, but the real
+                # damage was much worse - they were being SCORED as blanks
+                # (Lindor Power 50.1, Y. Alvarez 56.1, Chourio 48.6, versus
+                # a normal 75-88), so genuinely good bats were badly
+                # under-ranked on the card.
+                # Mirrors the tiered resolution already used for pitchers
+                # above: exact key, then punctuation/accent-normalized, then
+                # last name + first initial (which is what actually catches
+                # the abbreviated forms).
+                _b_row = batter_stats_map.get(bname)
+                if _b_row is None:
+                    import unicodedata as _ud_b, re as _re_b
+
+                    def _bn_norm(_s):
+                        return _re_b.sub(r"[^a-z ]", "",
+                                         _ud_b.normalize("NFKD", str(_s))
+                                         .encode("ascii", "ignore").decode().lower().strip())
+
+                    def _bn_li(_s):
+                        _n = _bn_norm(_s)
+                        _p = _n.split()
+                        if len(_p) < 2:
+                            return None
+                        return f"{_p[0][:1]}|{_p[-1]}"
+
+                    _bn_target = _bn_norm(bname)
+                    for _bk, _bv in batter_stats_map.items():
+                        if _bn_norm(_bk) == _bn_target:
+                            _b_row = _bv
+                            break
+                    if _b_row is None:
+                        _li_target = _bn_li(bname)
+                        if _li_target:
+                            # Collect ALL candidates rather than taking the
+                            # first (Aug 14 2026). A last-name + first-initial
+                            # key is genuinely ambiguous for real pairs like
+                            # Willson vs William Contreras, so grabbing the
+                            # first match can silently attach a completely
+                            # different player's season stats. Where there is
+                            # more than one candidate, disambiguate by TEAM -
+                            # the batting team is known here (inverse of
+                            # opp_team) and FantasyLabs carries a name→team
+                            # mapping, so the right player can be identified
+                            # positively instead of guessed.
+                            _cands = [(_bk, _bv) for _bk, _bv in batter_stats_map.items()
+                                      if _bn_li(_bk) == _li_target]
+                            if len(_cands) == 1:
+                                _b_row = _cands[0][1]
+                                _resolved_via = _cands[0][0]
+                            elif len(_cands) > 1:
+                                _my_team = gm["home_team"] if is_home else gm["away_team"]
+                                _fl_team_by_name = {}
+                                try:
+                                    for _flp in (fl_players or []):
+                                        _fl_nm = _flp.get("name")
+                                        if _fl_nm:
+                                            _fl_team_by_name[_bn_norm(_fl_nm)] = str(
+                                                _flp.get("team", "")).strip().upper()
+                                except Exception:
+                                    _fl_team_by_name = {}
+                                _team_hits = [
+                                    (_bk, _bv) for _bk, _bv in _cands
+                                    if _fl_team_by_name.get(_bn_norm(_bk), "") == str(_my_team).strip().upper()
+                                ]
+                                if len(_team_hits) == 1:
+                                    _b_row = _team_hits[0][1]
+                                    _resolved_via = _team_hits[0][0]
+                                    if _DFF_NAME_FIX_LOG_COUNT[0] < 8:
+                                        print(f"     🔗 ambiguous abbreviation {bname!r} "
+                                              f"({len(_cands)} candidates) resolved by team "
+                                              f"{_my_team} → {_resolved_via!r}")
+                                        _DFF_NAME_FIX_LOG_COUNT[0] += 1
+                                else:
+                                    # Still ambiguous after the team check -
+                                    # do NOT guess. A default profile is a
+                                    # visible, honest gap; the wrong player's
+                                    # season stats is a silent corruption.
+                                    _b_row = None
+                                    _resolved_via = None
+                                    if _DFF_NAME_FIX_LOG_COUNT[0] < 8:
+                                        print(f"     ⚠️  ambiguous abbreviation {bname!r}: "
+                                              f"{[c[0] for c in _cands]} — team {_my_team} did not "
+                                              f"single one out, leaving unresolved rather than guessing")
+                                        _DFF_NAME_FIX_LOG_COUNT[0] += 1
+                            if _b_row is not None and _DFF_NAME_FIX_LOG_COUNT[0] < 8 and len(_cands) == 1:
+                                print(f"     🔗 batter row resolved by abbreviation: "
+                                      f"lineup {bname!r} → stats {_resolved_via!r}")
+                                _DFF_NAME_FIX_LOG_COUNT[0] += 1
+
+                if _b_row is not None:
+                    b = build_batter(bname, _b_row, recent, ov, hr_props)
                 else:
                     b = build_batter_default(bname, ov, hr_props)
 
