@@ -1031,6 +1031,7 @@ class BatterProfile:
     dff_fpts_rank:    int   = 0     # this batter's rank by DFF FPTS among today's matched slate (1=best), 0=unmatched
     dff_value_rank:   int   = 0     # this batter's rank by DFF Value among today's matched slate (1=best), 0=unmatched
     dff_team_rank:    int   = 0     # this batter's rank by DFF FPTS among their OWN team's matched batters (1=best on team), 0=unmatched. This is the field that actually addresses "prioritize correctly among teammates" - slate-wide rank alone can't.
+    dff_matched:      bool  = False # True only when this batter was actually found on the DFF sheet. Needed because dff_fpts defaults to 0.0, so "0.0fp" is otherwise indistinguishable between "DFF projects nothing" and "we never found him" - and only the former should be penalised.
     # ── New stats from FantasyLabs batter view ────────────────────────────────
     near_hr_count: int   = 0      # near-HRs (hard-hit fly balls near wall) — power signal
     near_hr_pa:    int   = 0      # PA in which near_hr_count was accumulated
@@ -1584,6 +1585,7 @@ class HRScore:
     dff_fpts_rank:     int = 0
     dff_value_rank:    int = 0
     dff_team_rank:     int = 0
+    dff_matched:       bool = False
     pitcher_slot:      int = 1
     bullpen_vuln:      float = 50.0   # 0-100, league avg = 50 — same scale as pitcher_vuln
     bullpen_exp_ip:    float = 4.0    # projected relief innings this batter may face
@@ -5447,6 +5449,11 @@ _STATCAST_BAD_DATES: set = set()
 # (Aug 14 2026). List rather than int so the nested lookup can mutate it
 # without a `global` declaration.
 _DFF_NAME_FIX_LOG_COUNT = [0]
+
+# Caps the "BZM ambiguous name" diagnostic to 10 lines per run (Aug 15 2026).
+# List rather than int so the nested scoring loop can mutate it without a
+# `global` declaration.
+_PF9_AMBIG_LOG = [0]
 
 # Minimum observations before a grade-stack rate is reported at all (Aug 14
 # 2026). Exact-set matches are rarer so they get a lower floor than pairs;
@@ -10473,6 +10480,7 @@ def build_batter(name, row, recent, overrides, hr_props) -> BatterProfile:
         dff_fpts_rank   =int(_g(row,"dff_fpts_rank",  default=0) or 0),
         dff_value_rank  =int(_g(row,"dff_value_rank", default=0) or 0),
         dff_team_rank   =int(_g(row,"dff_team_rank",  default=0) or 0),
+        dff_matched     =bool(_g(row,"dff_matched",   default=False) or False),
         savant_id=int(_g(row,"playerid","player_id","mlbam_id",default=0) or 0),
         sprint_speed=_g(row,"sprint_speed","Sprint Speed", default=27.0),
         woba_vs_rhp=_g(row,"woba_vs_rhp", default=0.0) or 0.0,
@@ -18809,6 +18817,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         dff_fpts_rank=int(getattr(batter, 'dff_fpts_rank', 0) or 0),
         dff_value_rank=int(getattr(batter, 'dff_value_rank', 0) or 0),
         dff_team_rank=int(getattr(batter, 'dff_team_rank', 0) or 0),
+        dff_matched=bool(getattr(batter, 'dff_matched', False) or False),
         hit_prob_pct_display=_hit_prob_display,
         pitcher_ip=_pitcher_ip_proj,
         la_spike_flag=batter.la_spike_flag,
@@ -27899,6 +27908,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         elif "DFF CROSS-CHECK (TIER2)" in notes_s:
             _p2 = max(_p2, 2.0)
 
+
         # High-tier validated grades — each credits its validated lift independently
         if "LIVE CONFIRMED MATCH" in g:  _p2 = max(_p2, 18.0)  # highest validated, separate from P1
         elif "CONFIRMED MATCH" in g:     _p2 = max(_p2, 18.0)  # 35% AT (1.93x), validated
@@ -28022,6 +28032,44 @@ def _sheet_sharp_picks(wb, scores, top_n):
             _eff_gc = max(0, gc - max(0, _pitch_grades - 1))
         if _eff_gc >= 3: _p2 = min(_p2 + 5.0, _p2_cap)   # 3+ independent grades
         elif _eff_gc == 2: _p2 = min(_p2 + 2.0, _p2_cap)
+
+        # ══ DFF DISAGREEMENT PENALTY (Aug 15 2026) ══════════════════════════
+        # The point of pulling in DFF was to hear an OUTSIDE opinion. Rewarding
+        # agreement while ignoring disagreement only listens when it's already
+        # confirming what the model thinks - which is the least useful half of
+        # an independent source. This is the other half: when DFF projects a
+        # batter far below what the model's rank implies, DFF's view carries.
+        # Worked example that prompted this (Aug 15 slate): Jake Bauers was the
+        # model's 🥇 overall rank while DFF projected him at 2.0 FP - not just
+        # low, but below several of his own Brewers teammates. A projection
+        # that weak has no business sitting at #1 overall.
+        #   DFF projection < 3.0 FP  → -10 conviction
+        #   DFF projection < 7.0 FP  →  -5 conviction
+        # Applied as a real subtraction (not a floor like the bonuses above)
+        # so it can actually pull a high-conviction bat down the board.
+        #
+        # ONLY fires when the batter was genuinely FOUND on the DFF sheet.
+        # dff_fpts defaults to 0.0, so an unmatched batter is indistinguishable
+        # from a 0.0-projection one by value alone - penalising those would
+        # punish names DFF simply doesn't carry (bench bats, late call-ups),
+        # which is a data gap, not an opinion. Hence the explicit dff_matched
+        # flag rather than a `dff_fpts > 0` test.
+        _dff_fp_val = float(getattr(sc, "dff_fpts", 0.0) or 0.0)
+        if bool(getattr(sc, "dff_matched", False)):
+            if _dff_fp_val < 3.0:
+                _p2 -= 10.0
+                if sc.notes is not None:
+                    sc.notes = list(sc.notes) + [
+                        f"⛔ DFF DISAGREEMENT: DailyFantasyFuel projects only "
+                        f"{_dff_fp_val:.1f} FP — far below what this ranking implies. −10 conviction."
+                    ]
+            elif _dff_fp_val < 7.0:
+                _p2 -= 5.0
+                if sc.notes is not None:
+                    sc.notes = list(sc.notes) + [
+                        f"⚠️ DFF DISAGREEMENT: DailyFantasyFuel projects {_dff_fp_val:.1f} FP "
+                        f"— low for this ranking. −5 conviction."
+                    ]
 
         conv += min(_p2, _p2_cap)
 
@@ -34213,6 +34261,7 @@ def main():
                     batter_stats_map[_bname]["dff_fpts_rank"] = _dff_fpts_rank.get(_bkey)
                     batter_stats_map[_bname]["dff_value_rank"] = _dff_value_rank.get(_bkey)
                     batter_stats_map[_bname]["dff_team_rank"] = _dff_team_rank.get(_bname, 0)
+                    batter_stats_map[_bname]["dff_matched"] = True
                     _dff_matched += 1
                 except Exception:
                     pass
@@ -34722,19 +34771,64 @@ def main():
                                 _resolved_via = _cands[0][0]
                             elif len(_cands) > 1:
                                 _my_team = gm["home_team"] if is_home else gm["away_team"]
+                                # KEY FIX (Aug 15 2026): this map was keyed by
+                                # _bn_norm(FL name), which is the ABBREVIATED
+                                # form ("w contreras"), but looked up with
+                                # _bn_norm(batter_stats_map key), the FULL form
+                                # ("william contreras"). Those never match, so
+                                # every candidate returned an empty team, the
+                                # match stayed "ambiguous", and the batter fell
+                                # through to a default profile with no DFF data.
+                                # Real symptom: W. Contreras (MIL) showed
+                                # "– (0.0fp)" while William Contreras sat on the
+                                # DFF sheet the whole time. Now keyed by
+                                # last-name + first-initial, which is the one
+                                # form both spellings share.
+                                # PRIMARY DISAMBIGUATOR = the DFF sheet, which
+                                # carries FULL names AND team ("William
+                                # Contreras", MIL). That is the only source
+                                # here able to separate Willson from William -
+                                # FantasyLabs only has the abbreviated
+                                # "W. Contreras", whose last-name+initial key
+                                # is identical for both men, so it can confirm
+                                # the team but never say WHICH Contreras.
+                                # FL is kept as a fallback for batters absent
+                                # from the DFF sheet.
+                                _team_of = {}
+                                try:
+                                    for _dk, _dv in (_dff_data or {}).items():
+                                        _dt_ = str(_dv.get("team", "") or "").strip().upper()
+                                        if _dt_:
+                                            _team_of[_bn_norm(_dv.get("name_raw", _dk))] = _dt_
+                                except Exception:
+                                    _team_of = {}
                                 _fl_team_by_name = {}
                                 try:
                                     for _flp in (fl_players or []):
                                         _fl_nm = _flp.get("name")
-                                        if _fl_nm:
-                                            _fl_team_by_name[_bn_norm(_fl_nm)] = str(
-                                                _flp.get("team", "")).strip().upper()
+                                        if not _fl_nm:
+                                            continue
+                                        _fl_tm = str(_flp.get("team", "")).strip().upper()
+                                        _fl_team_by_name[_bn_norm(_fl_nm)] = _fl_tm
+                                        _fl_li = _bn_li(_fl_nm)
+                                        if _fl_li:
+                                            _fl_team_by_name.setdefault(_fl_li, _fl_tm)
                                 except Exception:
                                     _fl_team_by_name = {}
-                                _team_hits = [
-                                    (_bk, _bv) for _bk, _bv in _cands
-                                    if _fl_team_by_name.get(_bn_norm(_bk), "") == str(_my_team).strip().upper()
-                                ]
+                                _want_team = str(_my_team).strip().upper()
+                                # Exact full-name team match first (DFF).
+                                _team_hits = [(_bk, _bv) for _bk, _bv in _cands
+                                              if _team_of.get(_bn_norm(_bk), "") == _want_team]
+                                if len(_team_hits) != 1:
+                                    # Fall back to FL, which may only be able to
+                                    # confirm the team, not the individual.
+                                    _team_hits = [
+                                        (_bk, _bv) for _bk, _bv in _cands
+                                        if _want_team in (
+                                            _fl_team_by_name.get(_bn_norm(_bk), ""),
+                                            _fl_team_by_name.get(_bn_li(_bk) or "", ""),
+                                        )
+                                    ]
                                 if len(_team_hits) == 1:
                                     _b_row = _team_hits[0][1]
                                     _resolved_via = _team_hits[0][0]
@@ -34828,45 +34922,68 @@ def main():
                         and k.split()[0].startswith(_pf9_init_check)
                     ]
                     if len(_pf9_matches) == 1:
+                        # Unambiguous — no diagnostic needed. (A hardcoded
+                        # contreras/rooker print used to live here; it fired on
+                        # the one case that was never in doubt and stayed
+                        # silent on genuine collisions. The ambiguity branch
+                        # below now reports the cases that actually matter.)
                         _pf9_bname = _pf9_matches[0]
-                        if any(n in _pf9_last_check for n in ("contreras","rooker")):
-                            print(f"  🔍 BZM scan [{_pf9_norm(getattr(b,'name',bname))}]: 1 match → {_pf9_bname!r}")
                     elif len(_pf9_matches) > 1:
                         # Multiple matches (e.g. William vs Willson Contreras).
                         # Priority 1: ID map (only works when savant_id is known)
                         _id_to_key_g = globals().get("_L10_BBE_ID_TO_KEY", {})
                         _pf9_sid = getattr(b, "savant_id", 0) or 0
+                        # CRASH FIX (Aug 15 2026): _batter_team used to be assigned
+                        # only inside the `else` branch below, but the debug print
+                        # after the branch reads it unconditionally. Whenever the
+                        # Priority-1 ID-map path succeeded, the name was never
+                        # bound and the run died with UnboundLocalError mid-scoring
+                        # (~71% through). Derived here instead so it exists on
+                        # every path. b.team is still UNK at enrichment time, so
+                        # the game dict + is_home remains the reliable source.
+                        _batter_team = (gm.get("home_team", "") if is_home
+                                        else gm.get("away_team", "")).upper()
                         if _pf9_sid and int(_pf9_sid) in _id_to_key_g:
                             _pf9_bname = _id_to_key_g[int(_pf9_sid)]
                         else:
-                            # Priority 2: derive team from is_home + game dict
-                            # (b.team is still UNK at enrichment time; this is reliable)
-                            _batter_team = (gm.get("home_team", "") if is_home
-                                            else gm.get("away_team", "")).upper()
-                            # Build BZM-key → key_id reverse from __ID_TO_KEY__
-                            _key_to_id = {v: k for k, v in _id_to_key_g.items()}
-                            # Try to find which match's player is on _batter_team
-                            # by checking which MLBAM ID belongs to a player on that team.
-                            # We use _id_to_key_g keys (MLBAM IDs) and pybaseball's
-                            # playerid_reverse_lookup to get team — but that's expensive.
-                            # Simpler: the BZM cache was computed from a season Statcast df
-                            # that has team info. We can't recover it here, but we can use
-                            # the heuristic: William Contreras→MIL, Willson Contreras→BOS.
-                            # Store a small hardcoded disambiguation table for known conflicts.
-                            _KNOWN_DISAMBIG = {
-                                # (initial, last): {team → full_bzm_key}
-                                ("w", "contreras"): {
-                                    "MIL": "william contreras",
-                                    "BOS": "willson contreras",
-                                },
-                            }
-                            _disambig_key = (_pf9_init_check, _pf9_last_check)
-                            if _disambig_key in _KNOWN_DISAMBIG and _batter_team in _KNOWN_DISAMBIG[_disambig_key]:
-                                _pf9_bname = _KNOWN_DISAMBIG[_disambig_key][_batter_team]
+                            # Priority 2: disambiguate same-initial/same-surname
+                            # BZM keys using the batter's team.
+                            #
+                            # GENERALISED (Aug 15 2026). This used to be a
+                            # hardcoded table containing exactly one entry:
+                            #     ("w","contreras") -> {"MIL": "william contreras",
+                            #                           "BOS": "willson contreras"}
+                            # which worked but required a manual edit for every
+                            # new collision, and silently fell back to
+                            # _pf9_matches[0] (a coin flip) for anything not
+                            # listed. Now resolved from data: the DFF sheet
+                            # carries FULL names AND team, so the candidate on
+                            # the batter's actual team can be identified for any
+                            # surname collision without special-casing.
+                            # Falls back to first-match only when DFF can't
+                            # single one out, which is the same behaviour as
+                            # before for unknown pairs - never worse.
+                            _bzm_team_of = {}
+                            try:
+                                for _dk, _dv in (_dff_data or {}).items():
+                                    _dtm = str(_dv.get("team", "") or "").strip().upper()
+                                    if _dtm:
+                                        _bzm_team_of[_pf9_norm(_dv.get("name_raw", _dk))] = _dtm
+                            except Exception:
+                                _bzm_team_of = {}
+                            _team_matched = [
+                                _m for _m in _pf9_matches
+                                if _bzm_team_of.get(_pf9_norm(_m), "") == _batter_team
+                            ] if _batter_team else []
+                            if len(_team_matched) == 1:
+                                _pf9_bname = _team_matched[0]
                             else:
                                 _pf9_bname = _pf9_matches[0]
-                        if any(n in _pf9_last_check for n in ("contreras","rooker")):
-                            print(f"  🔍 BZM scan [{_pf9_norm(getattr(b,'name',bname))}]: {len(_pf9_matches)} matches → {_pf9_bname!r} (team={_batter_team if 'w' == _pf9_init_check else '?'})")
+                        if len(_pf9_matches) > 1 and _PF9_AMBIG_LOG[0] < 10:
+                            _PF9_AMBIG_LOG[0] += 1
+                            print(f"  🔍 BZM ambiguous name [{_pf9_norm(getattr(b,'name',bname))}] "
+                                  f"team={_batter_team or '?'}: {len(_pf9_matches)} candidates "
+                                  f"{_pf9_matches[:4]} → chose {_pf9_bname!r}")
                 # Try "First Last" directly, then:
                 #   "Last, First" → "First Last" conversion  (when b.name has a comma)
                 #   "First Last"  → "Last, First" conversion  (when BZM stored Last,First)
