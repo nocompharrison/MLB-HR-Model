@@ -18787,6 +18787,36 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _bp_exp_ip = float(getattr(bullpen, "expected_innings", 4.0) or 4.0) if bullpen else 4.0
     _bp_hr9    = float(getattr(bullpen, "hr9_allowed", 1.30) or 1.30) if bullpen else 1.30
 
+    # ══ DFF DISAGREEMENT — SCORE PENALTY (Aug 15 2026) ═══════════════════
+    # The conviction-side version of this penalty (in _hr_conviction_score)
+    # was real but INVISIBLE where it mattered: the "Rank"/medal column and
+    # the Score column both come from `ranked_raw`, which sorts on
+    # (score, hr_probability) and never consults conviction - conviction is
+    # not even computed until long after ranking. So Jake Bauers could carry
+    # a DFF projection of 2.0 FP, take the conviction hit, and still sit at
+    # 🥇 with Score 65.0. The complaint is about RANK, so the penalty has to
+    # land on `score`.
+    #   DFF projection < 3.0 FP  → -10 score
+    #   DFF projection < 7.0 FP  →  -5 score
+    # At the observed 65.0 score cap a -10 is decisive: it drops a batter
+    # from the top of the board to mid-pack, which is the intent - a bat an
+    # external projection rates near-worthless should not be the model's #1.
+    # Sized identically to the conviction penalty so the two agree.
+    #
+    # Only fires when the batter was actually FOUND on the DFF sheet:
+    # dff_fpts defaults to 0.0, so unmatched batters would otherwise be
+    # punished for a data gap rather than a genuine low projection.
+    if bool(getattr(batter, "dff_matched", False)):
+        _dff_fp_pen = float(getattr(batter, "dff_fpts", 0.0) or 0.0)
+        if _dff_fp_pen < 3.0:
+            score = max(0.0, score - 10.0)
+            notes.append(f"⛔ DFF DISAGREEMENT: DailyFantasyFuel projects only {_dff_fp_pen:.1f} FP "
+                         f"— far below what this ranking implies. −10 score, −10 conviction.")
+        elif _dff_fp_pen < 7.0:
+            score = max(0.0, score - 5.0)
+            notes.append(f"⚠️ DFF DISAGREEMENT: DailyFantasyFuel projects {_dff_fp_pen:.1f} FP "
+                         f"— low for this ranking. −5 score, −5 conviction.")
+
     _result = HRScore(
         batter_name=batter.name, team=batter.team, opponent=opponent,
         pitcher_name=pitcher.name, hr_probability=hr_prob, score=score,
