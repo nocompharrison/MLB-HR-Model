@@ -5505,14 +5505,41 @@ def _statcast_with_retry(statcast_fn, start_str: str, end_str: str, label: str =
     Returns whatever statcast_fn returns; raises the last error if all fail.
     """
     import time as _time_scr
+    import datetime as _dt_scr
     _FAST_FAIL_SECS = 2.0
     _single_day = (start_str == end_str)
 
-    if _single_day and start_str in _STATCAST_BAD_DATES:
+    # RANGE-AWARE BAD-DATE SKIP (Aug 15 2026). The memo used to match only the
+    # EXACT single bad date, so every MULTI-DAY range containing it was still
+    # sent and instantly rejected. Measured on one real run: 11 doomed
+    # requests across the four call sites, because each site's binary salvage
+    # split walks down into 2026-08-13 independently
+    # (08-06→08-13, 08-10→08-13, 08-12→08-13, 08-08→08-14, ...). Any range
+    # containing a known-bad date is itself known-bad, so refuse it here and
+    # let the caller's salvage split around it - that turns a guaranteed
+    # round-trip into an instant local decision.
+    _bad_in_range = []
+    if _STATCAST_BAD_DATES:
+        try:
+            _s_d = _dt_scr.datetime.strptime(start_str, "%Y-%m-%d").date()
+            _e_d = _dt_scr.datetime.strptime(end_str, "%Y-%m-%d").date()
+            _bad_in_range = sorted(
+                b for b in _STATCAST_BAD_DATES
+                if _s_d <= _dt_scr.datetime.strptime(b, "%Y-%m-%d").date() <= _e_d
+            )
+        except Exception:
+            _bad_in_range = []
+
+    if _bad_in_range:
         _tag = f" [{label}]" if label else ""
-        print(f"     ⏭️  statcast{_tag}: skipping {start_str} - already confirmed bad on "
-              f"Savant this run (deterministic instant error, not a timeout)")
-        raise RuntimeError(f"statcast: {start_str} known-bad on Savant this run")
+        if _single_day:
+            print(f"     ⏭️  statcast{_tag}: skipping {start_str} - already confirmed bad on "
+                  f"Savant this run (deterministic instant error, not a timeout)")
+        else:
+            print(f"     ⏭️  statcast{_tag}: skipping {start_str}→{end_str} without asking - "
+                  f"contains known-bad date(s) {_bad_in_range}; splitting around them instead")
+        raise RuntimeError(
+            f"statcast: range {start_str}→{end_str} contains known-bad date(s) {_bad_in_range}")
 
     last_err = None
     for attempt in range(1, max_retries + 2):  # e.g. max_retries=2 -> 3 total attempts
@@ -5705,6 +5732,47 @@ def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int
         _span = (_e_d - _s_d).days + 1
         if _span <= 1:
             return [], [_s_d.strftime("%Y-%m-%d")], 0
+        # FAST PATH (Aug 15 2026): if we already know which date(s) in this
+        # range are bad, don't binary-search to rediscover them. Cut them out
+        # and fetch only the clean spans either side. Binary search needs
+        # ~log2(span) doomed requests to relocate a date we have already
+        # identified; this needs zero.
+        _known_bad = []
+        if _STATCAST_BAD_DATES:
+            for _b in sorted(_STATCAST_BAD_DATES):
+                try:
+                    _bd = _dt_chunk.datetime.strptime(_b, "%Y-%m-%d").date()
+                except Exception:
+                    continue
+                if _s_d <= _bd <= _e_d:
+                    _known_bad.append(_bd)
+        if _known_bad:
+            _dfs, _bad, _recovered = [], [_b.strftime("%Y-%m-%d") for _b in _known_bad], 0
+            _cursor = _s_d
+            _spans = []
+            for _bd in _known_bad:
+                if _cursor <= _bd - _dt_chunk.timedelta(days=1):
+                    _spans.append((_cursor, _bd - _dt_chunk.timedelta(days=1)))
+                _cursor = _bd + _dt_chunk.timedelta(days=1)
+            if _cursor <= _e_d:
+                _spans.append((_cursor, _e_d))
+            print(f"     ✂️  statcast [{_tag}]: excising known-bad "
+                  f"{[b.strftime('%Y-%m-%d') for b in _known_bad]} and fetching "
+                  f"{len(_spans)} clean span(s) directly")
+            for _ss, _se in _spans:
+                try:
+                    _d = _statcast_with_retry(
+                        statcast_fn, _ss.strftime("%Y-%m-%d"), _se.strftime("%Y-%m-%d"),
+                        label=f"{_tag} clean-span", max_retries=0
+                    )
+                    if _d is not None and not _d.empty:
+                        _dfs.append(_d)
+                    _recovered += (_se - _ss).days + 1
+                except Exception:
+                    _sd, _sb, _sr = _salvage_chunk(_ss, _se, _tag)
+                    _dfs.extend(_sd); _bad.extend(_sb); _recovered += _sr
+            return _dfs, _bad, _recovered
+
         _mid = _s_d + _dt_chunk.timedelta(days=_span // 2 - 1)
         _halves = [(_s_d, _mid), (_mid + _dt_chunk.timedelta(days=1), _e_d)]
         _dfs, _bad, _recovered = [], [], 0
@@ -22908,15 +22976,30 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     _very_high_edge = (_edge_sc * 100) >= 25.0  # ≥25%: hard fade — market is very right
     if _high_edge_flag:
         flags.append(f"⚠️ High edge {_edge_sc*100:+.0f}% — hist 7.5% HR (fade zone)")
-    # Jul 2 2026 backtest finding: SigScore ≥16 + Score ≥66 + Odds ≤+250 = FULLY PRICED.
-    # The market has absorbed the multi-grade signal at short odds + high score.
-    # At Sig 16-20 the HR rate drops to 15.4% (0.89x) — BELOW BASELINE.
-    # This is distinct from Sig 10-15 which remains genuinely elite (1.26-1.29x).
+    # ══ FULLY PRICED — RETIRED Aug 15 2026 (was backwards) ═══════════════
+    # The old flag read: Sig>=16 + Score>=66 + Odds<=+250 = "market absorbed
+    # the multi-grade signal, 15.4% HR / 0.89x baseline" — i.e. treat a short
+    # price as a reason to fade. Re-measured on the 4,894-row resolved panel,
+    # every part of that is wrong:
+    #   • the rule as coded fires n=7 → 42.9% HR (2.57x), the OPPOSITE
+    #     direction from the 0.89x the label claimed
+    #   • Odds<=+250 alone: n=265 → 24.2% (1.45x), p=0.001
+    #   • Odds<=+230 (the card-level hard exclude): n=141 → 22.0% (1.32x)
+    #   • the price/HR relationship is monotonic and overwhelming:
+    #       +0-200 1.65x · +201-230 1.13x · +231-250 1.60x · +251-275 1.50x
+    #       +276-300 1.46x · +301-350 1.25x · +401-500 0.98x · +651+ 0.54x
+    #     Spearman(odds, HR) rho=-0.1245, p=2.3e-18.
+    # A short price means the market thinks the HR is MORE likely, and the
+    # market is right — fading it was backwards. Real cost: Jac Caglianone
+    # (+210) was the ONLY batter on the Aug 14 slate inside the <=+230 hard
+    # exclude, he was the model's own 🥇 medal rank, and he homered. Replaced
+    # with a positive informational note carrying the measured rate.
     _sig_raw = getattr(sc, 'signal_score', 0) or 0
     _odds_raw_eff = getattr(sc, 'hr_over_price', 0) or 0
     _odds_abs_eff = abs(_odds_raw_eff)
-    if _sig_raw >= 16 and score >= 66.0 and 0 < _odds_abs_eff <= 250:
-        flags.append("⚠️ FULLY PRICED — Sig≥16+Sc≥66+Odds≤+250: market absorbed multi-grade (15.4% HR, 0.89x baseline)")
+    if 0 < _odds_abs_eff <= 250:
+        flags.append("💰 SHORT PRICE (≤+250): market rates this HR likely and is historically "
+                     "RIGHT — 24.2% HR / 1.45x (n=265, p=0.001). Positive signal, not a fade.")
     if HIGH_VULN: flags.append("⚠️ Vuln52+")
     # CHANGE: Vuln42-48 split into two precise flags (June 2026 granular backtest)
     # Vuln 44-45 removed entirely (1.32x positive). Vuln 42-44 always flagged.
@@ -27788,18 +27871,31 @@ def _sheet_sharp_picks(wb, scores, top_n):
                     f"Jul-Aug 2026, 1-of-406 null-clearing marker pair, p=0.002 chance-rate) — MUST PLAY."
                 ]
 
-        # ══ DAILYFANTASYFUEL CROSS-CHECK — actual point value (Aug 13 2026) ══
-        # The note gets appended earlier in score_player() when it fires;
-        # this is where it actually counts toward conviction. Tiered by
-        # team-relative rank (see score_player()'s comment for why flat
-        # worked poorly): a team's actual DFF-#1 pick gets more than its
-        # DFF-#2. Both deliberately small - +5/+2 vs the +18 ceiling used by
-        # validated, backtested grades above and below this block, reflecting
-        # that this is a same-day, unvalidated cross-check per explicit
-        # instruction, not evidence held to the same bar as everything else
-        # in this Pillar.
+        # ══ DAILYFANTASYFUEL CROSS-CHECK — actual point value ═══════════════
+        # Tiered by team-relative rank: a team's DFF-#1 gets more than its #2.
+        #
+        # T1 RAISED 5 → 10 (Aug 15 2026) on first measured evidence. The Aug 14
+        # slate was the first with the DFF column populated and outcomes
+        # resolved (n=87, base 18.4%):
+        #     🥇 T1      n=21  → 23.8% HR (1.29x)
+        #     🥈 T2      n=17  → 17.6% HR (0.96x)
+        #     no tier    n=40  → 12.5% HR (0.68x)
+        # T1 beat base and the untiered group underperformed badly, which is
+        # the shape you'd want. T2 showed nothing, so it stays at +2.
+        #
+        # ⚠️ HONEST LIMITS — this is ONE slate. T1+T2 vs everything else was
+        # 21.1% vs 16.3%, Fisher p=0.59: nowhere near significant. The raise
+        # to 10 is deliberately still well under the +18 that validated,
+        # multi-season grades earn, and it is NOT a hard gate or an injection
+        # guarantee - a 1-slate signal has not earned the right to force a bat
+        # onto the card. What makes it worth acting on at all is that DFF is
+        # an EXTERNAL projection: unlike most grades here it isn't rebuilt
+        # from the same Vuln/PM/Power inputs, so it can carry genuinely
+        # independent information rather than restating what the model
+        # already knows. Re-measure once ~10 slates of DFF data exist; drop
+        # back to +5 if the lift doesn't hold.
         if "DFF CROSS-CHECK (TIER1)" in notes_s:
-            _p2 = max(_p2, 5.0)
+            _p2 = max(_p2, 10.0)
         elif "DFF CROSS-CHECK (TIER2)" in notes_s:
             _p2 = max(_p2, 2.0)
 
@@ -31153,7 +31249,49 @@ def _sheet_sharp_picks(wb, scores, top_n):
     # after medal-rank and before the generic _rest pool.
     _RESERVE_MEDAL_SLOTS = 1
     _prio_auto_cap = max(0, 5 - _RESERVE_MEDAL_SLOTS)
-    hr_picks = _prio[:_prio_auto_cap] + _medal + _prio[_prio_auto_cap:] + _rest
+    # ══ MEDAL RESERVE CAP (Aug 15 2026) ═════════════════════════════════
+    # BUG: _medal held EVERY medal-rank bat that missed Priority Tier, and
+    # the whole list was spliced in. _RESERVE_MEDAL_SLOTS only capped how
+    # many PRIORITY slots auto-filled first (4) - it never capped the medal
+    # insertion itself. So the "one reserved slot" was only one slot when
+    # Priority Tier happened to have >=4 qualifiers. It usually doesn't:
+    # Priority Tier is thin by design (median 2 qualifiers/slate, zero on 19
+    # of 77 slates), so on a typical night _prio[:4] contributed 2-3 names
+    # and TWO medal bats slid into the top five. Aug 14 2026 is a worked
+    # example - 3 Priority qualifiers, so medal bats took slots 4 AND 5.
+    #
+    # Two corrections, both matching the documented intent ("one slot in the
+    # top-5 is reserved for a medal-rank member not already in Priority"):
+    #   1. Insert at most _RESERVE_MEDAL_SLOTS medal bats, not the whole list.
+    #   2. Skip the reserve entirely when a medal bat ALREADY occupies one of
+    #      the auto-filled Priority slots - the guarantee exists to make sure
+    #      medal rank is represented, and if it already earned its place on
+    #      merit there is nothing to guarantee. Spending a second slot on
+    #      medal rank displaces a better bat for no reason.
+    # Leftover medal bats are NOT given a queue-jump: they return to the
+    # general pool at their natural merit position. An earlier version of
+    # this fix placed them ahead of _rest, which quietly reproduced the very
+    # bug it was meant to solve - with a thin Priority Tier the deferred
+    # medals still filled the card, so two medal bats reached the top five
+    # anyway. They lose nothing real by this: medal rank is assigned by
+    # (score, hr_probability), so a medal bat is high in the merit order on
+    # its own and generally lands near the top of the pool regardless.
+    _auto_prio = _prio[:_prio_auto_cap]
+    _medal_already_in = any((_sh.get('rank') or 99) <= 3 for _sc, _sh in _auto_prio)
+    if _medal_already_in:
+        _medal_take, _medal_defer = [], list(_medal)
+    else:
+        _medal_take = _medal[:_RESERVE_MEDAL_SLOTS]
+        _medal_defer = _medal[_RESERVE_MEDAL_SLOTS:]
+
+    # Rebuild the tail in the original (merit-sorted) order so deferred medal
+    # bats and _rest interleave by merit rather than by bucket.
+    _order = {id(_sh): _i for _i, (_sc, _sh) in enumerate(hr_picks)}
+    _chosen = {id(_sh) for _sc, _sh in _auto_prio + _medal_take}
+    _tail = [t for t in (_prio[_prio_auto_cap:] + _medal_defer + _rest)
+             if id(t[1]) not in _chosen]
+    _tail.sort(key=lambda t: _order.get(id(t[1]), 9999))
+    hr_picks = _auto_prio + _medal_take + _tail
 
     _top5_capped = []
     _overflow = []
