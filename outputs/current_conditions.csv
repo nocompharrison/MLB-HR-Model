@@ -1,7 +1,7 @@
 ﻿"Game Conditions — August 15, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
 CWS @ DET,Comerica Park,81°F,7mph,In/X,0.96,585ft,Open,7.6,4.1,3.5,-2.5%,N/A,FantasyLabs,1.000x,FL
-STL @ CHC,Wrigley Field,80°F,6mph,In/X,1.03,595ft,Open,9.1,5.2,3.9,-0.2%,N/A,FantasyLabs,1.000x,FL
+STL @ CHC,Wrigley Field,80°F,6mph,In/X,1.03,595ft,Open,9.2,5.2,4.0,-0.2%,N/A,FantasyLabs,1.000x,FL
 NYY @ TOR,Rogers Centre,72°F,0mph,In/X,1.04,287ft,Dome,7.6,3.3,4.3,N/A,N/A,dome,1.000x,FL
 COL @ SF,Oracle Park,66°F,10mph,Out,0.82,10ft,Open,7.6,4.3,3.3,+9.4%,N/A,FantasyLabs,1.000x,FL
 WSH @ NYM,Citi Field,82°F,4mph,In/X,0.96,15ft,Open,8.2,4.4,3.8,-1.5%,N/A,FantasyLabs,1.000x,FL
@@ -9,7 +9,7 @@ BAL @ TB,Tropicana Field,72°F,0mph,In/X,0.93,15ft,Dome,7.7,4.2,3.5,N/A,N/A,dome
 MIA @ CIN,Great American Park,83°F,4mph,In/X,1.18,550ft,Open,9.1,4.6,4.5,+1.0%,N/A,FantasyLabs,1.000x,FL
 SD @ CLE,Progressive Field,77°F,4mph,In/X,0.97,653ft,Open,8.7,4.5,4.2,-0.0%,N/A,FantasyLabs,1.000x,FL
 SEA @ HOU,Minute Maid Park,72°F,0mph,In/X,0.99,43ft,Dome,8.7,4.5,4.2,N/A,N/A,dome,1.000x,FL
-PHI @ MIN,Target Field,78°F,5mph,In/X,0.97,815ft,Open,8.2,3.7,4.5,+0.4%,N/A,FantasyLabs,1.000x,FL
+PHI @ MIN,Target Field,78°F,5mph,In/X,0.97,815ft,Open,8.2,3.8,4.4,+0.4%,N/A,FantasyLabs,1.000x,FL
 BOS @ PIT,PNC Park,77°F,2mph,In/X,0.94,730ft,Open,7.7,3.7,4.0,+1.6%,N/A,FantasyLabs,1.000x,FL
 ARI @ ATL,Truist Park,86°F,3mph,In/X,0.98,1050ft,Open,9.2,4.9,4.3,+1.3%,N/A,FantasyLabs,1.000x,FL
 MIL @ LAD,Dodger Stadium,78°F,6mph,Out,1.0,515ft,Open,7.6,3.6,4.0,+7.0%,N/A,FantasyLabs,1.000x,FL
