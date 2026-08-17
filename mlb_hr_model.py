@@ -1478,6 +1478,12 @@ class HRScore:
     batter_pu_rate:   float = 0.08
     batter_fb_pct:    float = 34.0
     pf9_gate_count:   int   = 0    # PropFinder 9-gate count (0-9); 9 = SUPER NUCLEAR
+    # ELITE NUCLEAR (Aug 16 2026): all four OPTIMISED gates pass —
+    # Barrel%>10 + GB%<40 + FB%>50 + Blast%>20 → 32.6% HR (14/43, 2.16x,
+    # p=0.0038, 28 slates). Replaces the retired 9/9 tier, which measured
+    # 0.93x. Declared as a real field (not an ad-hoc attribute) because the
+    # top-50 injection reads it downstream.
+    pf9_elite_nuclear: bool = False
     # ── L10 BBE by primary pitch type (Jun 2026 — analyst gap signal) ─────────
     # Batter's last 10 batted ball events on the pitcher's PRIMARY pitch type.
     # This is what caught Brandon Marsh at +650 — 2 HR on 10 curveball BBE
@@ -15516,13 +15522,28 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Edge 0-5% (model slightly over-bullish): 12.2% HR (-3.4pp) → -3
     # Edge 5-15%: 13.5% HR (-2.1pp) → -2
     # Edge 10-20%: -3. Edge >20%: -4 (confirmed 7.5% HR, -8pp below base)
+    # ══ EDGE CONVICTION BANDS — RECALIBRATED Aug 17 2026 ════════════════════
+    # Re-measured on the 5,142-row rank panel (93 slates, base 16.18%). The old
+    # bands penalised three populations that do NOT actually underperform:
+    #   band      old   measured             verdict
+    #   <-10      +3    25.7% 1.59x p=0.011  genuinely good  -> KEEP +3
+    #   -10..0    +1    17.9% 1.11x p=0.027  genuinely good  -> KEEP +1
+    #   0..5      -3    15.8% 0.97x p=0.688  NEUTRAL -> penalty removed
+    #   5..10     -2    12.4% 0.77x p=0.0001 genuinely bad   -> DEEPENED to -3
+    #   10..20    -3    16.7% 1.03x p=0.629  NEUTRAL -> penalty removed
+    #   >20       -4    18.6% 1.15x p=0.399  NEUTRAL -> penalty removed
+    # Only ONE negative band survives: 5-10%. The old ">20% = 7.5% HR" figure
+    # that justified -4 came from a smaller/older sample and does not replicate
+    # (n=172 now reads 1.15x). Penalising an at-or-above-base population pushes
+    # good bats DOWN the board, which is the wrong direction.
+    # REAL COST: Aug 16 2026 — Alec Burleson (medal #1, edge +11.7) sat in the
+    # old -3 band and homered; Jordan Walker (medal #2, +2.7) sat in the old -3
+    # band and homered. Both were being taxed for nothing.
     _edge_conv_bonus = (3.0  if _edge_pct_val < -10.0 else     # market confirming model strongly
                         1.0  if -10.0 <= _edge_pct_val < 0.0 else  # mild market fade = best HR zone
-                        -3.0 if 0.0 <  _edge_pct_val <= 5.0 and _mkt_implied > 0 else   # model over-bullish
-                        -2.0 if 5.0 <  _edge_pct_val <= 10.0 and _mkt_implied > 0 else  # moderate overconfidence
-                        -3.0 if 10.0 < _edge_pct_val <= 20.0 and _mkt_implied > 0 else  # high edge underperforms
-                        -4.0 if _edge_pct_val > 20.0 and _mkt_implied > 0 else           # >20%: 7.5% HR confirmed fade
-                        0.0)
+                        0.0  if 0.0 <  _edge_pct_val <= 5.0 else   # measured 0.97x - neutral, no penalty
+                        -3.0 if 5.0 <  _edge_pct_val <= 10.0 and _mkt_implied > 0 else  # 0.77x p=1e-4: the ONLY real fade band
+                        0.0)                                        # 10-20% (1.03x) and >20% (1.15x) both neutral
 
     # ── DailyBatter signals: career HR/OPS/HH%/qAB/HRF vs this pitcher ──────
     # Data sourced from FantasyLabsMLB DailyBatter sheet scraped daily.
@@ -19039,6 +19060,63 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # triple. Credit is sized accordingly.
     _pull_blast_lock = (_pf9_hh > 50.0 and _pf9_blast > 20.0 and _pf9_pull > 80.0)
 
+    # ══ HOT-ARM PULL-LOFT (Aug 16 2026) ═════════════════════════════════════
+    # HR-prone L5 pitcher + Blast%>20 + Pull%>80.
+    #   9/18 = 50.0% HR (3.32x), Fisher p=0.0005, across 16 DISTINCT slates
+    #   Jul 5/11 · Aug 4/7 — consistent across both halves, not window-carried.
+    # Best rule produced by the grade × tuned-gate audit, and the only one of
+    # the three finalists that holds in both periods (SIERA + FB>30 + Blast>30
+    # was 6/12 July but 1/3 August; HIGH-USAGE + HH>50 + Pull>80 was 5/9 / 2/7).
+    #
+    # It is also mechanically coherent rather than an arbitrary threshold
+    # triple: an arm that has actually been giving up home runs recently,
+    # against a batter whose contact profile is pull-side and in the air.
+    # That is a matchup story, which is why it is preferred over combos with
+    # similar raw lift that describe nothing.
+    #
+    # Uses _pitcher_is_hr_prone_l5 (recent_hr_factor >= 1.35 AND L5 HR/9 > 0),
+    # the same boolean the pitcher-recency tracker reads — NOT a text match on
+    # the note, so it cannot drift if the note wording changes.
+    #
+    # ⚠️ CAVEAT: the search that produced it found 93 combos at >=35% while
+    # shuffled outcomes produced 31-193 (mean 78), so the COUNT of good-looking
+    # rules from that search is unremarkable. This one is singled out on its
+    # own per-rule evidence (p=0.0005, both halves, 16 slates), not on having
+    # topped the list. Credit sized accordingly.
+    _hot_arm_pull_loft = (_pitcher_is_hr_prone_l5 and _pf9_blast > 20.0 and _pf9_pull > 80.0)
+
+    # ══ ELITE NUCLEAR — the replacement for the retired 9/9 tier ═════════════
+    # Barrel%>10 + GB%<40 + FB%>50 + Blast%>20  (ALL FOUR must pass)
+    #   14/43 = 32.6% HR (2.16x), Fisher p=0.0038, across 28 DISTINCT slates
+    #   Jul 9/29 (2.04x) · Aug 5/14 (2.41x) — holds in both halves.
+    # Compare the tier it replaces: 9/9 SUPER NUCLEAR was 18/128 = 14.1%
+    # (0.93x, p=0.899) — below base. This is a genuine "everything passes"
+    # elite tier; the old one was not.
+    #
+    # HOW IT WAS BUILT: rather than counting how many of nine gates pass, the
+    # search asked which SUBSET of gates, at which thresholds, makes an
+    # ALL-PASS requirement meaningful. Coordinate ascent over subsets of size
+    # 4-6, thresholds tuned on JULY only, then evaluated unchanged on AUGUST.
+    #
+    # ⭐ THIS IS THE ONLY SEARCHED RULE IN THIS WHOLE AUDIT THAT BEAT ITS OWN
+    # NULL. Repeating the identical optimisation on shuffled outcomes gave
+    # best min(Jul,Aug) lifts of 1.20x / 1.73x / 1.82x / 1.91x (mean 1.67x)
+    # versus the real 2.04x — real exceeds every null run. Every other rule
+    # found today sat inside its null and is carried on per-rule evidence
+    # alone. That distinction is why this one earns the largest credit here.
+    #
+    # NOTE the composition: three of the four gates (GB<40, FB>50, Blast>20)
+    # are the batted-ball-angle + hard-contact family that has surfaced in
+    # every version of this audit. HH%, Pull%, ISO and PullBrl% are all
+    # absent — consistent with the logistic regression finding that they
+    # carry no independent signal.
+    _elite_nuclear = (_pf9_barrel > 10.0 and _pf9_gb < 40.0
+                      and _pf9_fb > 50.0 and _pf9_blast > 20.0)
+    # NOTE: _result.pf9_elite_nuclear is set further down, immediately after
+    # _pf9_has_data is bound. It was originally assigned right here, which
+    # crashed with UnboundLocalError — _pf9_has_data is not defined until the
+    # gate-evaluation block ~90 lines below this point.
+
 
     # ── SAMPLE-SIZE GATE (2026-07-27) ─────────────────────────────────────
     # On 10 batted balls every rate quantises to multiples of 10%, so
@@ -19131,6 +19209,10 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     )
     _pf9_elite_contact = _pf9_has_data and _pf9_gates["PullBrl%>10"][0] and _pf9_gates["FB%>35"][0]
     _result.pf9_elite_contact = _pf9_elite_contact  # stored for BGS CONVICTION gate
+    # ELITE NUCLEAR flag stored here (not at its definition above) because
+    # _pf9_has_data only binds on the line above this one. Read downstream by
+    # the top-50 injection in main().
+    _result.pf9_elite_nuclear = bool(_pf9_has_data and _elite_nuclear)
     _pf9_elite_contact_note = ""
     if _pf9_elite_contact:
         _result.conv_score = min(50.0, _result.conv_score + 5.0)
@@ -19193,6 +19275,24 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"🎯🔒 PULL-BLAST LOCK: HH%{_pf9_hh:.0f}(>50) + Blast%{_pf9_blast:.0f}(>20) + "
             f"Pull%{_pf9_pull:.0f}(>80) → 46.2% HR (12/26, 3.07x, 19 slates; Jul 7/16 · "
             f"Aug 5/10). Best-distributed rule in the threshold sweep. +6 conv."
+        )
+
+    if _pf9_has_data and _hot_arm_pull_loft:
+        _result.conv_score = min(50.0, _result.conv_score + 7.0)
+        notes.append(
+            f"🔥🎯 HOT-ARM PULL-LOFT: pitcher HR-prone L5 + Blast%{_pf9_blast:.0f}(>20) + "
+            f"Pull%{_pf9_pull:.0f}(>80) → 50.0% HR (9/18, 3.32x, p=0.0005, 16 slates; "
+            f"Jul 5/11 · Aug 4/7). Hot arm × pull-side loft contact. +7 conv."
+        )
+
+    if _pf9_has_data and _elite_nuclear:
+        _result.conv_score = min(50.0, _result.conv_score + 10.0)
+        notes.append(
+            f"☢️⭐ ELITE NUCLEAR (all 4 optimised gates pass): Barrel%{_pf9_barrel:.0f}(>10) + "
+            f"GB%{_pf9_gb:.0f}(<40) + FB%{_pf9_fb:.0f}(>50) + Blast%{_pf9_blast:.0f}(>20) "
+            f"→ 32.6% HR (14/43, 2.16x, p=0.0038, 28 slates; Jul 2.04x · Aug 2.41x). "
+            f"Replaces the retired 9/9 SUPER NUCLEAR tier, which measured 0.93x. "
+            f"Only searched rule in the audit to beat its own shuffle null. +10 conv."
         )
 
     # Only fire the tiered count-based boost and full note if at least 3 gates pass
@@ -28788,7 +28888,25 @@ def _sheet_sharp_picks(wb, scores, top_n):
                 conv -= 6.0   # good bullpen → short start is genuinely suppressive
 
         if "Suppressive park" in notes_s or "Supp.Park" in flags_s: conv -= 6.0
-        if "High edge" in flags_s or "over-bullish" in notes_s:     conv -= 4.0
+        # ── HIGH-EDGE PENALTY: MEDAL TOP-3 EXEMPT (Aug 17 2026) ──────────────
+        # This -4 fires on the "High edge" flag (model >=15pp more bullish than
+        # market). Measured on the 5,142-row rank panel: for MEDAL TOP-3 bats a
+        # bad edge does NOT drop them below base —
+        #     medal + edge >= +5%  : 19.6% (1.21x, n=158)
+        #     medal + edge <  +5%  : 24.6% (1.52x, n=122)   Fisher p=0.381
+        # So edge does weaken a medal bat, but the weakened version is still
+        # ABOVE base and BEATS non-medal-with-good-edge (rank 11+ & edge<0 =
+        # 1.13x, n=1425). Rank outranks edge. Taxing a medal bat 4 conviction
+        # points for edge pushes an above-base population down the board.
+        # WORKED EXAMPLE: Aug 16 2026 — Burleson (medal 🥇, edge +11.7) and
+        # Walker (medal 🥈, +2.7) both homered off Edward Cabrera while the
+        # negative-edge Cardinals on the same arm did not.
+        # Non-medal bats keep the full penalty; nothing here excuses a high
+        # edge outside the top 3.
+        _edge_pen_rank = (sh.get("rank", 99) if isinstance(sh, dict) else 99) or 99
+        if "High edge" in flags_s or "over-bullish" in notes_s:
+            if _edge_pen_rank > 3:
+                conv -= 4.0
         if "Vuln45-48 Sc60" in flags_s:                             conv -= 3.0
         if ("Same-side (R vs R)" in notes_s) and ("elite power" not in notes_s.lower()):
             conv -= 3.0
@@ -36230,28 +36348,33 @@ def main():
     # found. No team cap — 9/9 is a hard override.
     _sn_names_in_top50 = {sc.batter_name for sc in ranked[:TOP_N]}
 
-    # Debug: show every ranked_raw batter with pf9_gate_count==9 or SUPER NUCLEAR in notes
-    _sn_debug = [
-        sc for sc in ranked_raw
-        if getattr(sc, 'pf9_gate_count', 0) == 9
-        or "SUPER NUCLEAR" in " ".join(str(n) for n in (sc.notes or []))
-    ]
+    # Debug: every ranked_raw batter clearing ELITE NUCLEAR (all four
+    # optimised gates). The old debug listed 9/9 batters; that tier is retired.
+    _sn_debug = [sc for sc in ranked_raw if getattr(sc, 'pf9_elite_nuclear', False)]
     if _sn_debug:
-        print(f"  🔍 9/9 gate debug — {len(_sn_debug)} batter(s) found in ranked_raw:")
+        print(f"  \U0001F50D ELITE NUCLEAR debug \u2014 {len(_sn_debug)} batter(s) in ranked_raw:")
         for _sd in _sn_debug:
-            _tag = "✅ in top-50" if _sd.batter_name in _sn_names_in_top50 else "⬆️ needs injection"
-            print(f"     {_sd.batter_name} ({_sd.team}) pf9={getattr(_sd,'pf9_gate_count',0)} "
-                  f"score={_sd.score:.1f} {_tag}")
+            _tag = "in top-50" if _sd.batter_name in _sn_names_in_top50 else "needs injection"
+            print(f"     {_sd.batter_name} ({_sd.team}) score={_sd.score:.1f} {_tag}")
 
-    # ── 9/9 INJECTION — RETIRED Aug 16 2026 ──────────────────────────────────
-    # This force-injected every 9/9 PropFinder batter into the top-50 pool,
-    # bypassing the team cap. Retired for the same reason as the conviction
-    # override: the 9/9 tier measures 0.93x (18/128, p=0.899) — below base —
-    # so it was guaranteeing board space to a population with no measured
-    # edge, at the direct expense of batters ranked there on merit.
-    # Set to empty rather than deleted so the downstream print/accounting and
-    # the _sn_names_in_top50 bookkeeping keep working untouched.
-    _sn_candidates = []
+    # ── ELITE NUCLEAR INJECTION (restored Aug 16 2026) ──────────────
+    # The 9/9 version of this injection was retired: that tier measured 0.93x
+    # (18/128, p=0.899), so it guaranteed board space to a population with no
+    # measured edge, at the direct expense of batters ranked there on merit.
+    # RESTORED on the ELITE NUCLEAR gate set instead - the tier the 9/9 rule
+    # was always meant to represent:
+    #   Barrel%>10 + GB%<40 + FB%>50 + Blast%>20
+    #   -> 32.6% HR (14/43, 2.16x, p=0.0038) across 28 slates,
+    #      Jul 2.04x / Aug 2.41x, and the ONLY searched rule in the whole
+    #      PropFinder audit to beat its own shuffle null.
+    # VOLUME: ~1.5 fires per slate historically (43 over 28 slates) vs ~3/slate
+    # for the old 9/9 rule - rarer AND better, which is the point of a cap
+    # bypass. Zero-fire slates are normal (the Aug 17 slate had none).
+    _sn_candidates = [
+        sc for sc in ranked_raw
+        if sc.batter_name not in _sn_names_in_top50
+        and getattr(sc, 'pf9_elite_nuclear', False)
+    ]
     _sn_injected = _sn_candidates
 
     # ── Jul 11 2026: PWR88+PM1.07 FLOOR INJECTION ─────────────────────────────────────
@@ -36466,11 +36589,12 @@ def main():
             for _osc in _outside:  # already sorted score desc
                 ranked.insert(_insert_at, _osc)
                 _insert_at += 1
-        print(f"  🎯 SUPER NUCLEAR injection: {len(_sn_injected)} player(s) with 9/9 PropFinder "
-              f"gates guaranteed top-{TOP_N} (team cap bypassed, score-sorted):")
+        print(f"  🎯 ELITE NUCLEAR injection: {len(_sn_injected)} player(s) clearing all 4 "
+              f"optimised gates (Barrel>10 + GB<40 + FB>50 + Blast>20) guaranteed "
+              f"top-{TOP_N} (team cap bypassed, score-sorted). Rule: 2.16x, 28 slates:")
         for _snc in sorted(_sn_injected, key=lambda x: x.score, reverse=True):
             _final_pos = next((i+1 for i, sc in enumerate(ranked[:TOP_N]) if sc.batter_name == _snc.batter_name), '>50')
-            print(f"     ☢️☢️ {_snc.batter_name} ({_snc.team}) — 9/9 gates | "
+            print(f"     ☢️⭐ {_snc.batter_name} ({_snc.team}) — ELITE NUCLEAR | "
                   f"Conv {getattr(_snc, 'conv_score', 0):.0f} | Score {_snc.score:.1f} → rank #{_final_pos}")
 
     # Show data source summary
