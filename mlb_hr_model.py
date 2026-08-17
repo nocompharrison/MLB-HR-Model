@@ -18961,6 +18961,84 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     }
     _pf9_pass_count = sum(1 for v, _ in _pf9_gates.values() if v)
 
+    # ══ FB50 LOFT — retuned PropFinder threshold (Aug 16 2026) ═══════════════
+    # BACKTEST: the nine PropFinder thresholds have never been tuned. Swept
+    # every gate over its own quantile grid on JULY (n=1,541, 27 slates), then
+    # applied the winners UNCHANGED to AUGUST (n=1,311, 15 slates) as a real
+    # holdout. Almost everything failed: the three "best" current gates each
+    # flip sign between the two periods —
+    #     FB%>35      Jul 0.97x / Aug 1.19x
+    #     PullBrl%>10 Jul 0.98x / Aug 1.21x   (so the Aug PullBrl result that
+    #                                          looked strong was noise)
+    #     HH%>40      Jul 1.15x / Aug 0.99x
+    # ONE rule held in both directions: FB% > 50.
+    #     Jul 1.18x (n=144) · Aug 1.52x (n=89, p=0.043) · combined 1.31x (n=233)
+    # And with GB%<40 attached: Jul 1.31x · Aug 1.58x (p=0.045) · both 1.42x.
+    #
+    # WHY THIS IS A NEW FLAG AND NOT AN EDIT TO "FB%>35":
+    # the FB gate feeds _pf9_pass_count, and that count is load-bearing for
+    # SUPER NUCLEAR (9/9), the 8/9 and 6-7/9 conviction tiers, HR26, and
+    # archetype HT05 (gates 6-7/9). Moving the threshold would shift the whole
+    # gate-count distribution and silently invalidate every rate those rules
+    # were measured at. The canonical 9-gate filter stays exactly as it is;
+    # this rides alongside it.
+    #
+    # HONEST LIMITS: the FB dose-response is NOT clean — bands run 0.87 / 0.92
+    # / 1.06 / 1.04 / 0.90 / 1.33, so the 50-60 band actually dips and the
+    # signal is partly carried by the 60+ tail. The real cliff may be nearer
+    # 60. Spearman(FB,HR) = +0.037, p=0.046 over n=2,852 — real but weak.
+    # Small conviction credit only; revisit once more slates accumulate.
+    _fb50_loft = (_pf9_fb >= 50.0)
+    _fb50_loft_gb = (_fb50_loft and _pf9_gb <= 40.0)
+
+    # ══ LOFT-PROFILE LOCK — Barrel + FB + Blast (Aug 16 2026) ═══════════════
+    # Mined by sweeping every PropFinder threshold for 100%-precision combos.
+    # TWO variants, because the headline one is not the trustworthy one:
+    #
+    # EXACT  Barrel%>10 + FB%>60 + Blast%>30 → 5/5 = 100% HR (6.65x, p=0.0001)
+    #   ⚠️ ALL FIVE FIRES LAND ON JUL 3-5 — three consecutive slates, with
+    #   Riley Greene appearing twice. Zero August fires. That date clustering
+    #   is the signature of an artifact, not a signal, so it carries NO
+    #   conviction credit. It is surfaced because a 5/5 is worth SEEING.
+    #
+    # RELAXED  Barrel%>10 + FB%>50 + Blast%>30 → 9/23 = 39.1% (2.60x, p=0.0041)
+    #   Spread over 16 distinct slates, and it HOLDS across the train/test
+    #   split used for the FB threshold work: Jul 6/14 = 42.9% (2.81x) ·
+    #   Aug 3/9 = 33.3% (2.25x). This is the version that earns credit.
+    #   Note FB>50 and FB>55 select the identical 23 rows, so the binding
+    #   constraints are really Barrel>10 + Blast>30 - FB>60 is what shrinks
+    #   it to the 5-row artifact.
+    _loft_lock_exact   = (_pf9_barrel > 10.0 and _pf9_fb > 60.0 and _pf9_blast > 30.0)
+    _loft_lock_relaxed = (_pf9_barrel > 10.0 and _pf9_fb > 50.0 and _pf9_blast > 30.0)
+
+    # REJECTED SWAP (Aug 16 2026): replacing the LOFT rule with
+    # "HH>40 + FB>60 + Blast>30" was considered and measured — it selects the
+    # IDENTICAL 5 rows as the original Barrel>10+FB>60+Blast>30 artifact
+    # (verified: same set, 3 slates, Jul 3-5, zero August fires). It is the
+    # same 5/5 wearing a different label, not an upgrade, so the relaxed
+    # Barrel>10+FB>50+Blast>30 form (23 fires, 16 slates, holds in both
+    # halves) stays as the version that carries credit.
+
+    # ══ PULL-BLAST LOCK (Aug 16 2026) ═══════════════════════════════════════
+    # HH%>50 + Blast%>20 + Pull%>80 → 12/26 = 46.2% HR (3.07x), across 19
+    # DISTINCT slates, Jul 7/16 · Aug 5/10. The best-distributed rule found in
+    # a comprehensive pairs+triples sweep over 15,392 tuned-threshold
+    # combinations — unlike the LOFT artifact it is not date-clustered and it
+    # splits evenly across both halves of the period.
+    #
+    # WHY IT MATTERS BEYOND THIS ONE RULE: Blast% appears in EVERY top rule at
+    # every sample size, and Pull%>70-80 in most of the durable ones — while
+    # the stock gates sit at Blast%>15 (measured 1.02x) and Pull%>30 (0.99x,
+    # passes 1,226 of 1,311 batters, i.e. filters nothing). The thresholds are
+    # simply set far too low; the signal lives at Blast>40 and Pull>80.
+    #
+    # ⚠️ HONEST CAVEAT: a shuffle null over that same 15,392-combination search
+    # produced 255 "survivors" on average vs 222 real, so no INDIVIDUAL rule
+    # from it is statistically established. What is robust is the variable-
+    # level finding (Blast/Pull thresholds are misplaced), not this specific
+    # triple. Credit is sized accordingly.
+    _pull_blast_lock = (_pf9_hh > 50.0 and _pf9_blast > 20.0 and _pf9_pull > 80.0)
+
 
     # ── SAMPLE-SIZE GATE (2026-07-27) ─────────────────────────────────────
     # On 10 batted balls every rate quantises to multiples of 10%, so
@@ -19061,28 +19139,117 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
             f"FB%>{_pf9_fb:.1f}% — both elite HR-profile gates clear (+5 conv bonus, stackable)"
         )
 
+    # FB50 LOFT credit (Aug 16 2026) — see the threshold-sweep note above the
+    # gate dict for the full train/test evidence. Deliberately small: +3 for
+    # FB%>50 alone, +5 when GB%<40 also clears (the pairing that measured
+    # 1.42x combined). Gated on _pf9_has_data so it can't fire off empty
+    # stats, same as Elite Contact Profile.
+    _fb50_note = ""
+    if _pf9_has_data and _fb50_loft:
+        if _fb50_loft_gb:
+            _result.conv_score = min(50.0, _result.conv_score + 5.0)
+            _fb50_note = (
+                f"🌤️ FB50 LOFT + GROUND SUPPRESSION: FB%{_pf9_fb:.0f} (>50) + GB%{_pf9_gb:.0f} (<40) "
+                f"→ 1.42x HR (Jul 1.31x / Aug 1.58x p=0.045, n=187 combined; tuned on July, "
+                f"held out-of-sample on August). +5 conv."
+            )
+        else:
+            _result.conv_score = min(50.0, _result.conv_score + 3.0)
+            _fb50_note = (
+                f"🌤️ FB50 LOFT: FB%{_pf9_fb:.0f} (>50, retuned from the stock >35 gate) "
+                f"→ 1.31x HR (Jul 1.18x / Aug 1.52x p=0.043, n=233 combined). "
+                f"The stock FB%>35 gate measured 0.97x in July — this threshold is the one "
+                f"that held in both periods. +3 conv."
+            )
+        notes.append(_fb50_note)
+
+    # LOFT-PROFILE LOCK emission. Credit goes ONLY to the relaxed variant
+    # (2.60x over 16 slates, holds in both halves). The exact 5/5 is surfaced
+    # as a labelled artifact so it can be seen without being acted on - it has
+    # never fired outside Jul 3-5.
+    if _pf9_has_data and _loft_lock_relaxed:
+        _result.conv_score = min(50.0, _result.conv_score + 6.0)
+        if _loft_lock_exact:
+            notes.append(
+                f"🔒🔒 LOFT-PROFILE LOCK (EXACT 5/5): Barrel%{_pf9_barrel:.0f}(>10) + "
+                f"FB%{_pf9_fb:.0f}(>60) + Blast%{_pf9_blast:.0f}(>30) — the mined 100% combo "
+                f"(5/5, 6.65x). ⚠️ ALL 5 historical fires were Jul 3-5 with a repeat player; "
+                f"treat as an artifact, NOT as a 100% rate. Credit below is for the relaxed form."
+            )
+        notes.append(
+            f"🔒 LOFT-PROFILE LOCK: Barrel%{_pf9_barrel:.0f}(>10) + FB%{_pf9_fb:.0f}(>50) + "
+            f"Blast%{_pf9_blast:.0f}(>30) → 39.1% HR (9/23, 2.60x, p=0.0041, 16 slates; "
+            f"Jul 2.81x / Aug 2.25x). +6 conv."
+        )
+
+    # PULL-BLAST LOCK emission (Aug 16 2026). +6, same tier as LOFT: its raw
+    # lift is higher (3.07x vs 2.60x) and its slate spread is better (19 vs
+    # 16), but it comes from a 15,392-combination search whose shuffle null
+    # was not beaten, so it does not earn more than the FB-family rules that
+    # came from a far narrower single-variable sweep.
+    if _pf9_has_data and _pull_blast_lock:
+        _result.conv_score = min(50.0, _result.conv_score + 6.0)
+        notes.append(
+            f"🎯🔒 PULL-BLAST LOCK: HH%{_pf9_hh:.0f}(>50) + Blast%{_pf9_blast:.0f}(>20) + "
+            f"Pull%{_pf9_pull:.0f}(>80) → 46.2% HR (12/26, 3.07x, 19 slates; Jul 7/16 · "
+            f"Aug 5/10). Best-distributed rule in the threshold sweep. +6 conv."
+        )
+
     # Only fire the tiered count-based boost and full note if at least 3 gates pass
     # Determine tier label and apply conv boost — requires ≥3 gates
     # Tier/boost are computed first so they can be used in the note even
     # for batters where pass_count < 3 (note still rendered, just no boost/tier)
+    # ══ COUNT-BASED CONVICTION RETIRED (Aug 16 2026) ═════════════════════════
+    # The 9-gate COUNT no longer earns conviction. Tier labels are kept purely
+    # for display — the gate values themselves are still informative to read,
+    # but "how many gates passed" is not a signal.
+    #
+    # WHY (measured on 2,852 batter-slates, Jun-Aug, base 15.04%):
+    # 1. The top tier is BELOW base rate. 9/9 "SUPER NUCLEAR" = 18/128 = 14.1%
+    #    (0.93x), Fisher p=0.899. It was earning +20 conv, a gold PLAY
+    #    override and guaranteed top-50 injection — the strongest override in
+    #    the file — on a tier that has never beaten a coin flip.
+    #    Tier ladder measured: 9/9 0.93x · 8/9 1.13x · 7/9 1.37x · 6/9 1.11x.
+    #    It is NON-MONOTONIC: passing MORE gates past 7 makes things worse.
+    # 2. No individual gate carries independent signal. Logistic regression on
+    #    all nine gate-booleans: pseudo-R2 = 0.0059, LLR p = 0.117, and NOT
+    #    ONE gate reaches p<0.05 controlling for the other eight. Four have
+    #    negative coefficients (GB, Pull, PullBrl, FB). The gates are heavily
+    #    redundant — GB/Air/FB are three views of the same batted-ball angle.
+    # 3. A fixed count hides enormous variation. Holding count at exactly 7/9,
+    #    outcome by WHICH two gates were missed ranges from 50.0% (Blast+GB,
+    #    3.32x) to 0.0% (Blast+HH) — same count, opposite results.
+    # 4. Passing the "best" gates is WORSE. count>=7 while passing
+    #    Air+ISO+Blast = 1.04x (n=416, p=0.71); count>=7 while MISSING one of
+    #    them = 1.64x (n=134, p=0.0027). Selecting on many gates selects for a
+    #    redundant profile, not a better hitter.
+    # 5. The promising-looking cells do not survive a null. "7/9 missing
+    #    Blast+GB" at 3.32x is n=8; shuffling outcomes within the 7/9 group
+    #    produces a cell that good in 16.9% of runs, with a median best-cell
+    #    of 2.66x. Expected noise across 12 buckets, not a finding.
+    #
+    # Conviction now comes from the specific validated rules instead —
+    # PULL-BLAST LOCK (3.07x, 19 slates), LOFT-PROFILE LOCK (2.60x, 16
+    # slates), FB50 LOFT (1.31x, holds in both halves) — all of which were
+    # measured as explicit rules rather than inferred from a gate tally.
     if _pf9_pass_count == 9:
-        _pf9_tier  = "☢️☢️ SUPER NUCLEAR — ALL 9 GATES PASS"
-        _pf9_boost = 20.0
+        _pf9_tier  = "☢️☢️ 9/9 GATES (display only — measured 0.93x, no credit)"
+        _pf9_boost = 0.0
     elif _pf9_pass_count == 8:
-        _pf9_tier  = "☢️ NUCLEAR (8/9)"
-        _pf9_boost = 12.0
+        _pf9_tier  = "☢️ 8/9 gates (display only — 1.13x)"
+        _pf9_boost = 0.0
     elif _pf9_pass_count == 7:
-        _pf9_tier  = "🔥 STRONG (7/9)"
-        _pf9_boost = 8.0
+        _pf9_tier  = "🔥 7/9 gates (display only — 1.37x, best tier)"
+        _pf9_boost = 0.0
     elif _pf9_pass_count == 6:
-        _pf9_tier  = "✅ SOLID (6/9)"
-        _pf9_boost = 4.0
+        _pf9_tier  = "✅ 6/9 gates (display only — 1.11x)"
+        _pf9_boost = 0.0
     elif _pf9_pass_count >= 3:
         _pf9_tier  = ""
-        _pf9_boost = 1.0
+        _pf9_boost = 0.0
     else:
         _pf9_tier  = ""
-        _pf9_boost = 0.0  # <3 gates: no conv boost, but note still rendered
+        _pf9_boost = 0.0
 
     if _pf9_has_data and _pf9_pass_count >= 3:
         # Elite Contact Profile +5 was already applied above (fires independently of count).
@@ -28477,8 +28644,22 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # type PRIME + 2 headwind picks are correctly capped at 34 before this block.
         # Independent of ☢️ NUCLEAR ranking badge (that is Power+Odds+PM+Score).
         # Tracking only — not yet backtested; promote/demote after 10+ slates.
+        # ── SUPER NUCLEAR override — RETIRED Aug 16 2026 ─────────────────────
+        # This granted 9/9 PropFinder a conviction floor of 45 (gold PLAY),
+        # bypassing most fade-flag penalties. It is now inert.
+        # WHY: the 9/9 tier measures 18/128 = 14.1% HR (0.93x) over Jun-Aug,
+        # Fisher p=0.899 — BELOW the 15.04% base. It was the strongest
+        # override in this file sitting on a tier that has never beaten a coin
+        # flip. The full evidence (non-monotonic tier ladder, pseudo-R2 0.0059
+        # across all nine gates, and the finding that passing the "best" gates
+        # is WORSE than missing one) is documented at the count-tier block in
+        # score_player(). The original note said "Tracking only — not yet
+        # backtested; promote/demote after 10+ slates" — it has now had 43
+        # slates and 128 fires, and the answer is demote.
+        # The 9/9 label still PRINTS (see _pf9_tier) so the profile stays
+        # visible; it simply no longer forces conviction.
         _is_super_nuclear = "SUPER NUCLEAR" in notes_s or "SUPER NUCLEAR" in g
-        if _is_super_nuclear:
+        if False and _is_super_nuclear:
             # Structural caps that override even 9/9 profile quality
             _sn_short_start  = "ShortStart" in flags_s or "Short-start" in notes_s or "short-start alert" in notes_s.lower()
             _sn_vuln52       = vuln >= 52.0
@@ -36062,14 +36243,15 @@ def main():
             print(f"     {_sd.batter_name} ({_sd.team}) pf9={getattr(_sd,'pf9_gate_count',0)} "
                   f"score={_sd.score:.1f} {_tag}")
 
-    _sn_candidates = [
-        sc for sc in ranked_raw
-        if sc.batter_name not in _sn_names_in_top50
-        and (
-            getattr(sc, 'pf9_gate_count', 0) == 9
-            or "SUPER NUCLEAR" in " ".join(str(n) for n in (sc.notes or []))
-        )
-    ]
+    # ── 9/9 INJECTION — RETIRED Aug 16 2026 ──────────────────────────────────
+    # This force-injected every 9/9 PropFinder batter into the top-50 pool,
+    # bypassing the team cap. Retired for the same reason as the conviction
+    # override: the 9/9 tier measures 0.93x (18/128, p=0.899) — below base —
+    # so it was guaranteeing board space to a population with no measured
+    # edge, at the direct expense of batters ranked there on merit.
+    # Set to empty rather than deleted so the downstream print/accounting and
+    # the _sn_names_in_top50 bookkeeping keep working untouched.
+    _sn_candidates = []
     _sn_injected = _sn_candidates
 
     # ── Jul 11 2026: PWR88+PM1.07 FLOOR INJECTION ─────────────────────────────────────
