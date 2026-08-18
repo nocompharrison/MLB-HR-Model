@@ -24599,15 +24599,29 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # MID-HS DULL + Odds>=+400 boot95 1.09, HIT PM WEAK ZONE boot95 1.01.
         # Qualitative fades are consistently weaker than quantitative ones — grades
         # identify situations, but the fades live in price and pitch-match mismatch.
-        if (power is not None and 77.0 <= float(power) < 83.0
-                and vuln is not None and float(vuln) < 52.0):
+        # VULN CARVE-OUT REMOVED (Aug 17 2026) — the "Vu>=52 exempt" split was
+        # never a real discontinuity. Full-panel test (109 slates, n=1675 dead-
+        # zone rows): Vu<52 = 13.2% vs Vu>=52 = 17.0%, Fisher p=0.158 (not
+        # significant). The comparison that actually matters — tight boundary
+        # Vu[48,52) vs Vu[52,56) — was 15.3% vs 15.8%, p=0.900. A full cutoff
+        # sweep (n>=30/side, cut=38..57) found no cutoff with a stable, non-
+        # noise p<0.05: isolated hits at cut=48 (p=0.031) and cut=55 (p=0.034)
+        # surrounded on both sides by p>0.15, consistent with ~2 false
+        # positives expected from scanning 20 candidate cutoffs at alpha=0.05.
+        # Moving the line to 48 or 55 would repeat the same error with a new
+        # number. Fires uniformly on power alone now; combined dead-zone rate
+        # across the current panel is 13.7% (229/1675), matching the original
+        # 13.1% (112/852) citation, confirming the vuln split added no signal.
+        if power is not None and 77.0 <= float(power) < 83.0:
             _r = _grade_rate("neg_mid_power_dead_hr", "13.1%  112/852")
             _firing_grades.append(
-                f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 + Vuln={float(vuln):.0f}<52 "
+                f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
                 f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
                 f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
-                f"Vu≥52 is exempt and validated (Pwr77-83+Vu≥52 = 1.24x). ⚠️ Month split uneven "
-                f"(Jun 16.7%, Jul 11.8%) and Power populated on 41 of 95 slates. Deprioritize only."
+                f"⚠️ NO OVERRIDE BY VULN (re-tested Aug 17 2026, full panel — see comment above): "
+                f"the earlier Vu>=52 exemption did not hold at the boundary (p=0.90 on the tight "
+                f"band) and is retired. ⚠️ Month split uneven (Jun 16.7%, Jul 11.8%) and Power "
+                f"populated on 41 of 95 slates. Deprioritize only."
             )
         # Exhaustive-stack trackers. Emitted LAST so they read as commentary and
         # never influence ordering. _sgt_text is the combined notes + firing
