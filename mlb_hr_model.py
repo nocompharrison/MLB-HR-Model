@@ -33908,6 +33908,20 @@ def main():
             print("  MLB API has data back to ~2012. Boxscore lineups available after ~2015.")
         sys.exit(1)
 
+    # DIAGNOSTIC (Aug 17 2026) — enumerate every game the schedule fetch
+    # returned, by name, before any confirmed/projected/missing logic runs.
+    # Added after a count mismatch: "Confirmed: 1  Projected: 10" implies 11
+    # games, but current_conditions.csv and current_rankings.csv both only
+    # ever reflected 10. Nothing upstream of this point printed individual
+    # game names, so the 11th game's identity was invisible in normal
+    # console output. Remove once the mismatch is understood — this is a
+    # temporary trace, not a permanent addition.
+    print(f"  🔍 DIAG: fetch_mlb_schedule returned {len(mlb_games)} games:")
+    for _diag_g in mlb_games:
+        print(f"      {_diag_g.get('away_team','?')} @ {_diag_g.get('home_team','?')}  "
+              f"lineups_confirmed={_diag_g.get('lineups_confirmed')}  "
+              f"game_pk={_diag_g.get('game_pk','?')}")
+
     # ── 2. Check for remaining unconfirmed lineups ─────────────
     unconfirmed = [g for g in mlb_games if not g["lineups_confirmed"]]
     if unconfirmed:
