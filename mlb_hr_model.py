@@ -34209,6 +34209,10 @@ def main():
     for gm in mlb_games:
         home = gm["home_team"]
         away = gm["away_team"]
+        # DIAGNOSTIC (Aug 17 2026) — announce every game context build attempt,
+        # to see whether the loop reaches/completes LAD@COL or dies silently
+        # partway through. Remove once the missing-team investigation is closed.
+        print(f"  🔍 DIAG: building context for {away} @ {home} (game_pk={gm.get('game_pk')})")
         sd   = STADIUMS.get(home, STADIUMS["LAD"])
         sname, lat, lon, dome, alt, park_l, park_r, park_o = sd
 
