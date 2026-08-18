@@ -1,0 +1,88 @@
+﻿batter,team,pitcher,odds,score,hr_prob,vuln,pm,power,newconv_p,CONV100,newconv_rank,card_slot,old_conv,neg05,neg06
+Shohei Ohtani,LAD,Ryan Feltner,200.0,39.2,0.2138,61.0,1.09,86.5,0.3,86,1,NEWCONV,70.0,False,False
+Ronald Acuña Jr.,ATL,Zebby Matthews,350.0,48.7,0.1637,47.6,1.037,85.9,0.2857142857142857,82,2,NEWCONV,54.0,False,False
+Matt Olson,ATL,Zebby Matthews,300.0,59.8,0.1791,47.6,1.089,88.0,0.21019108280254778,60,3,,46.0,False,False
+Pete Crow-Armstrong,CHC,Bryan Hudson,300.0,65.0,0.185,44.9,1.057,83.6,0.21019108280254778,60,4,,38.0,False,False
+Mike Trout,LAA,Cristian Javier,330.0,59.7,0.1595,48.0,1.043,85.1,0.21019108280254778,60,5,,54.0,False,False
+Steven Kwan,CLE,Carson Whisenhunt,,41.6,0.2034,52.5,0.934,88.0,0.16666666666666666,48,6,,45.0,False,False
+Miguel Vargas,CWS,Kevin Gausman,350.0,65.0,0.1687,37.8,1.045,86.5,0.16666666666666666,48,7,,17.0,True,False
+Munetaka Murakami,CWS,Kevin Gausman,280.0,63.1,0.1784,37.8,1.099,88.0,0.16666666666666666,48,8,,34.0,True,False
+Jo Adell,CLE,Carson Whisenhunt,,53.9,0.1694,52.5,1.023,87.0,0.16666666666666666,48,9,,58.0,False,False
+Fernando Tatis Jr.,SD,Zac Thornton,340.0,65.0,0.2035,53.8,1.046,86.5,0.16666666666666666,48,10,SCORE,48.0,False,False
+Drake Baldwin,ATL,Zebby Matthews,400.0,51.8,0.1792,47.6,1.065,85.7,0.16666666666666666,48,11,,51.0,False,False
+Bobby Witt Jr.,KC,Brady Basso,400.0,57.6,0.1641,46.4,1.054,84.5,0.16666666666666666,48,12,,,False,False
+Seiya Suzuki,CHC,Bryan Hudson,330.0,65.0,0.1703,44.9,1.059,83.6,0.16666666666666666,48,13,,72.0,False,False
+Yordan Alvarez,HOU,George Klassen,240.0,59.0,0.211,50.7,1.147,88.0,0.16666666666666666,48,14,,40.0,False,False
+Brandon Lowe,PIT,Keider Montero,520.0,53.9,0.1677,52.6,1.045,84.6,0.16666666666666666,48,15,,32.0,False,False
+Jesús Sánchez,TOR,Nick Martinez,,46.8,0.185,54.1,1.035,82.9,0.16666666666666666,48,16,,12.0,False,True
+Ty France,SD,Zac Thornton,420.0,54.0,0.1881,53.8,1.039,81.4,0.16666666666666666,48,17,,44.0,False,True
+Manny Machado,SD,Zac Thornton,360.0,50.6,0.1846,53.8,1.024,84.1,0.16666666666666666,48,18,,45.0,False,False
+Tyler O'Neill,BAL,Carlos Rodón,350.0,59.0,0.1595,38.9,1.018,82.3,0.16666666666666666,48,19,,10.0,True,True
+Victor Bericoto,SF,Foster Griffin,,61.5,0.178,42.4,1.052,84.2,0.16666666666666666,48,20,,43.0,False,False
+Kyle Schwarber,PHI,Cade Gibson,190.0,64.8,0.1904,48.0,1.082,88.0,0.16666666666666666,48,21,,57.0,False,False
+Pete Alonso,BAL,Carlos Rodón,430.0,65.0,0.1807,38.9,1.053,84.8,0.16666666666666666,48,22,,15.0,True,False
+CJ Abrams,WSH,Cal Quantrill,350.0,59.1,0.1575,45.9,1.071,84.8,0.16666666666666666,48,23,,54.0,True,False
+Zack Gelof,ATH,Daniel Lynch IV,450.0,56.0,0.1961,43.1,1.026,81.9,0.16666666666666666,48,24,,34.0,False,True
+Michael Busch,CHC,Bryan Hudson,500.0,53.7,0.1638,44.9,1.003,76.1,0.16666666666666666,48,25,,,False,False
+Julio Rodríguez,SEA,Kyle Harrison,360.0,65.0,0.1819,37.7,1.032,86.2,0.16666666666666666,48,26,,30.0,False,False
+Eduardo Valencia,DET,Braxton Ashcraft,,59.6,0.1604,39.9,1.108,88.0,0.16666666666666666,48,27,,38.0,False,False
+Luis García Jr.,NYY,Shane Baz,,62.8,0.157,44.4,1.08,87.5,0.16666666666666666,48,28,,73.0,True,False
+Christian Encarnacion-Strand,BAL,Carlos Rodón,440.0,59.5,0.1865,38.9,1.267,88.0,0.16666666666666666,48,29,,14.0,True,False
+Cal Raleigh,SEA,Kyle Harrison,340.0,58.3,0.1731,37.7,0.97,80.4,0.16666666666666666,48,30,,0.0,False,True
+Jake Burger,TEX,Jackson Kent,470.0,61.2,0.181,49.6,1.026,86.5,0.16666666666666666,48,31,,13.0,False,False
+Alec Burleson,STL,Andrew Abbott,250.0,65.0,0.1831,49.3,1.034,80.7,0.16666666666666666,48,32,,72.0,True,True
+Jackson Merrill,SD,Zac Thornton,560.0,54.8,0.211,53.8,1.037,81.2,0.16544655929721813,47,33,,0.0,False,True
+JJ Bleday,CIN,Kyle Leahy,390.0,62.2,0.1709,40.9,1.032,84.1,0.16544655929721813,47,34,,34.0,True,False
+Ryan Jeffers,MIN,Tyler Mahle,500.0,64.9,0.1454,45.2,1.052,84.3,0.16544655929721813,47,35,,,False,False
+Andrew Benintendi,CWS,Kevin Gausman,450.0,52.6,0.1554,37.8,1.008,78.4,0.16544655929721813,47,36,,34.0,True,True
+Elly De La Cruz,CIN,Kyle Leahy,420.0,59.2,0.1707,40.9,1.04,85.3,0.16544655929721813,47,37,,27.0,True,False
+Esmerlyn Valdez,PIT,Keider Montero,480.0,59.4,0.1543,52.6,1.095,88.0,0.16544655929721813,47,38,,58.0,False,False
+Junior Caminero,TB,José Soriano,340.0,64.8,0.1428,44.3,1.082,88.0,0.16544655929721813,47,39,,48.0,True,False
+Bryce Harper,PHI,Cade Gibson,340.0,61.0,0.2083,48.0,1.031,80.4,0.16544655929721813,47,40,,48.0,False,True
+Randy Arozarena,SEA,Kyle Harrison,450.0,62.2,0.1697,37.7,1.025,77.8,0.16544655929721813,47,41,,31.0,False,True
+Michael Harris II,ATL,Zebby Matthews,400.0,56.5,0.167,47.6,1.06,85.2,0.16544655929721813,47,42,,45.0,False,False
+Jeremy Peña,HOU,George Klassen,540.0,65.0,0.1659,50.7,1.025,79.2,0.16544655929721813,47,43,,57.0,False,True
+Jackson Chourio,MIL,Bryce Miller,420.0,65.0,0.1862,42.9,1.056,85.2,0.16544655929721813,47,44,,,False,False
+Owen Caissie,MIA,Zack Wheeler,,56.2,0.1578,33.5,1.037,85.0,0.16544655929721813,47,45,,62.0,False,False
+Jac Caglianone,KC,Brady Basso,340.0,57.5,0.1741,46.4,1.07,87.3,0.16544655929721813,47,46,,,False,False
+Bryce Eldridge,SF,Foster Griffin,,62.2,0.2046,42.4,1.041,82.4,0.16544655929721813,47,47,,6.0,False,True
+Sal Stewart,CIN,Kyle Leahy,420.0,64.0,0.17,40.9,1.05,82.3,0.16544655929721813,47,48,,24.0,True,True
+Kevin McGonigle,DET,Braxton Ashcraft,560.0,65.0,0.179,39.9,1.019,78.1,0.16544655929721813,47,49,,22.0,False,True
+William Contreras,MIL,Bryce Miller,420.0,50.7,0.1869,42.9,1.015,83.4,0.16544655929721813,47,50,,,False,False
+Brice Turang,MIL,Bryce Miller,520.0,48.0,0.195,42.9,1.026,78.6,0.16544655929721813,47,51,,44.0,False,True
+Osleivis Basabe,SF,Foster Griffin,,52.9,0.1877,42.4,1.036,84.9,0.16290726817042606,47,52,,,False,False
+Willson Contreras,BOS,Merrill Kelly,420.0,58.1,0.1551,53.7,1.086,87.7,0.16290726817042606,47,53,,48.0,False,False
+Trent Grisham,NYY,Shane Baz,,60.8,0.1652,44.4,1.015,80.7,0.16290726817042606,47,54,,22.0,True,True
+Ben Rice,NYY,Shane Baz,,62.9,0.1634,44.4,1.101,86.8,0.16290726817042606,47,55,,24.0,True,False
+Taylor Trammell,HOU,George Klassen,440.0,49.2,0.1659,50.7,1.017,82.5,0.16290726817042606,47,56,,,False,False
+Rafael Devers,SF,Foster Griffin,,58.2,0.2007,42.4,0.994,79.5,0.16290726817042606,47,57,,5.0,False,True
+Jake Bauers,MIL,Bryce Miller,390.0,65.0,0.211,42.9,1.069,87.8,0.16290726817042606,47,58,SCORE,,False,False
+Wyatt Langford,TEX,Jackson Kent,450.0,50.5,0.1778,49.6,1.016,82.4,0.16290726817042606,47,59,,,False,False
+Coby Mayo,BAL,Carlos Rodón,500.0,63.3,0.1627,38.9,1.069,88.0,0.16290726817042606,47,60,,11.0,True,False
+Tyler Stephenson,CIN,Kyle Leahy,470.0,55.1,0.1613,40.9,1.035,79.8,0.16290726817042606,47,61,,10.0,True,True
+Brandon Nimmo,TEX,Jackson Kent,500.0,56.5,0.1978,49.6,1.046,81.8,0.16290726817042606,47,62,,13.0,False,True
+Corey Seager,TEX,Jackson Kent,420.0,52.7,0.2047,49.6,0.993,79.7,0.16290726817042606,47,63,,13.0,False,True
+Christian Walker,HOU,George Klassen,390.0,54.8,0.1578,50.7,1.032,83.2,0.16290726817042606,47,64,,72.0,False,False
+JJ Wetherholt,STL,Andrew Abbott,400.0,48.7,0.1668,49.3,0.995,78.1,0.12641083521444696,36,65,,,False,False
+Bryson Stott,PHI,Cade Gibson,540.0,46.2,0.1676,48.0,1.023,76.7,0.12641083521444696,36,66,,24.0,False,False
+Gleyber Torres,DET,Braxton Ashcraft,900.0,50.7,0.1619,39.9,1.006,75.5,0.12641083521444696,36,67,,34.0,True,False
+Heriberto Hernández,MIA,Zack Wheeler,540.0,60.8,0.1568,33.5,1.033,84.0,0.12641083521444696,36,68,,,False,False
+Rafael Flores Jr.,PIT,Keider Montero,800.0,49.7,0.1599,52.6,1.0,81.7,0.12641083521444696,36,69,,2.0,False,True
+Dominic Canzone,SEA,Kyle Harrison,520.0,65.0,0.2133,37.7,1.052,86.0,0.12641083521444696,36,70,SCORE,,False,False
+Alex Bregman,CHC,Bryan Hudson,560.0,58.6,0.1653,44.9,0.982,75.6,0.12641083521444696,36,71,,30.0,False,False
+Iván Herrera,STL,Andrew Abbott,540.0,54.4,0.1557,49.3,0.999,79.2,0.12641083521444696,36,72,,32.0,True,True
+Jonah Heim,ATH,Daniel Lynch IV,630.0,39.9,0.1894,43.1,1.025,81.7,0.12641083521444696,36,73,,0.0,False,True
+Michael Conforto,CHC,Bryan Hudson,600.0,48.0,0.1632,44.9,1.214,88.0,0.10344827586206896,30,74,,11.0,False,False
+Vaughn Grissom,LAA,Cristian Javier,600.0,58.0,0.1482,48.0,1.002,80.3,0.10344827586206896,30,75,,46.0,False,True
+Garrett Mitchell,MIL,Bryce Miller,630.0,47.4,0.1817,42.9,1.022,86.9,0.10344827586206896,30,76,,47.0,True,False
+Henry Bolte,ATH,Daniel Lynch IV,630.0,41.7,0.1928,43.1,0.988,81.1,0.10344827586206896,30,77,,6.0,False,True
+Luis Arraez,PHI,Cade Gibson,1500.0,37.5,0.1851,48.0,0.973,88.0,0.10344827586206896,30,78,,,False,False
+Griffin Conine,MIA,Zack Wheeler,700.0,64.8,0.1806,33.5,1.082,88.0,0.0958904109589041,27,79,,79.0,True,False
+Gabriel Moreno,ARI,Ranger Suarez,900.0,54.0,0.1568,38.7,1.026,78.4,0.0958904109589041,27,80,,,False,False
+Otto Lopez,MIA,Zack Wheeler,1100.0,60.1,0.1694,33.5,1.028,78.6,0.0958904109589041,27,81,,19.0,False,True
+Brandon Marsh,PHI,Cade Gibson,680.0,51.6,0.1653,48.0,1.011,77.6,0.0958904109589041,27,82,,30.0,False,True
+Gunnar Henderson,BAL,Carlos Rodón,750.0,57.5,0.1745,38.9,0.99,81.8,0.0958904109589041,27,83,,12.0,True,True
+Colt Keith,DET,Braxton Ashcraft,750.0,51.5,0.1742,39.9,0.997,79.0,0.0958904109589041,27,84,,2.0,False,True
+Brendan Donovan,SEA,Kyle Harrison,1000.0,51.8,0.1588,37.7,0.938,74.0,0.0847457627118644,24,85,,,False,False
+Agustín Ramírez,MIA,Zack Wheeler,800.0,48.0,0.168,33.5,0.999,82.7,0.058823529411764705,17,86,,0.0,False,True
+Cam Smith,HOU,George Klassen,600.0,56.6,0.1521,50.7,0.954,84.0,0.01,3,87,,62.0,False,False
