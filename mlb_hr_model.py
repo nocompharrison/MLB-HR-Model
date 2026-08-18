@@ -33908,20 +33908,6 @@ def main():
             print("  MLB API has data back to ~2012. Boxscore lineups available after ~2015.")
         sys.exit(1)
 
-    # DIAGNOSTIC (Aug 17 2026) — enumerate every game the schedule fetch
-    # returned, by name, before any confirmed/projected/missing logic runs.
-    # Added after a count mismatch: "Confirmed: 1  Projected: 10" implies 11
-    # games, but current_conditions.csv and current_rankings.csv both only
-    # ever reflected 10. Nothing upstream of this point printed individual
-    # game names, so the 11th game's identity was invisible in normal
-    # console output. Remove once the mismatch is understood — this is a
-    # temporary trace, not a permanent addition.
-    print(f"  🔍 DIAG: fetch_mlb_schedule returned {len(mlb_games)} games:")
-    for _diag_g in mlb_games:
-        print(f"      {_diag_g.get('away_team','?')} @ {_diag_g.get('home_team','?')}  "
-              f"lineups_confirmed={_diag_g.get('lineups_confirmed')}  "
-              f"game_pk={_diag_g.get('game_pk','?')}")
-
     # ── 2. Check for remaining unconfirmed lineups ─────────────
     unconfirmed = [g for g in mlb_games if not g["lineups_confirmed"]]
     if unconfirmed:
@@ -34209,10 +34195,6 @@ def main():
     for gm in mlb_games:
         home = gm["home_team"]
         away = gm["away_team"]
-        # DIAGNOSTIC (Aug 17 2026) — announce every game context build attempt,
-        # to see whether the loop reaches/completes LAD@COL or dies silently
-        # partway through. Remove once the missing-team investigation is closed.
-        print(f"  🔍 DIAG: building context for {away} @ {home} (game_pk={gm.get('game_pk')})")
         sd   = STADIUMS.get(home, STADIUMS["LAD"])
         sname, lat, lon, dome, alt, park_l, park_r, park_o = sd
 
@@ -34721,16 +34703,6 @@ def main():
     # First pass: count total players to score (for progress bar)
     total_players = 0
     for gm in mlb_games:
-        # DIAGNOSTIC (Aug 17 2026) — check the two remaining silent-skip
-        # conditions in this loop for every game: lineups_confirmed, whether
-        # a context was found in ctx_by_id, and whether both pitcher names
-        # are populated. Remove once the missing-team investigation is closed.
-        _diag_ctx = ctx_by_id.get(str(gm.get("game_pk")))
-        print(f"  🔍 DIAG: scoring-pass check {gm.get('away_team')} @ {gm.get('home_team')} "
-              f"(game_pk={gm.get('game_pk')}) — lineups_confirmed={gm.get('lineups_confirmed')}  "
-              f"ctx_found={_diag_ctx is not None}  "
-              f"home_pitcher={gm.get('home_pitcher')!r}  away_pitcher={gm.get('away_pitcher')!r}  "
-              f"home_lineup_len={len(gm.get('home_lineup', []))}  away_lineup_len={len(gm.get('away_lineup', []))}")
         if not gm["lineups_confirmed"]:
             continue
         ctx = ctx_by_id.get(str(gm["game_pk"]))
@@ -35970,20 +35942,6 @@ def main():
 
     pbar.close()
 
-    # DIAGNOSTIC (Aug 17 2026) — check whether score_player() actually
-    # produced entries for LAD/COL in all_scores. Every upstream checkpoint
-    # (schedule fetch, context build, scoring-pass entry) has come back
-    # clean for this game, so this isolates whether the failure is inside
-    # score_player() itself or in whatever builds ranked_raw afterward.
-    # Remove once the missing-team investigation is closed.
-    _diag_lc = [sc for sc in all_scores if getattr(sc, "team", None) in ("LAD", "COL")]
-    print(f"  🔍 DIAG: all_scores has {len(all_scores)} total entries; "
-          f"{len(_diag_lc)} with team in (LAD, COL)")
-    for _diag_sc in _diag_lc[:20]:
-        print(f"      {_diag_sc.batter_name} ({_diag_sc.team}) — "
-              f"conviction_score={getattr(_diag_sc, 'conviction_score', '?')}  "
-              f"hr_prob={getattr(_diag_sc, 'hr_prob', '?')}")
-
     if not all_scores:
         print("\nNo players scored.")
         if is_historical:
@@ -36958,22 +36916,38 @@ def main():
         print("=" * 68 + "\n")
 
     # ── 9. Export ─────────────────────────────────────────────
-    # DIAGNOSTIC (Aug 17 2026) — final checkpoint. Checks the EXACT list and
-    # slice handed to export_excel(), after all injections/expansion have
-    # run. If LAD/COL names appear here but still end up missing from the
-    # CSV, the failure is inside _sheet_rankings()/the Excel write itself.
-    # If they're already gone by this point, something between the
-    # injection print statements above and this call silently drops them.
-    # Remove once the missing-team investigation is closed.
-    _diag_final = [sc for sc in ranked[:EFFECTIVE_TOP_N] if getattr(sc, "team", None) in ("LAD", "COL")]
-    print(f"  🔍 DIAG: ranked[:{EFFECTIVE_TOP_N}] (about to export) has "
-          f"{len(ranked[:EFFECTIVE_TOP_N])} entries; {len(_diag_final)} with team in (LAD, COL):")
-    for _d in _diag_final:
-        print(f"      {_d.batter_name} ({_d.team})")
-    if not _diag_final:
-        print(f"  🔍 DIAG: also checking full ranked list (len={len(ranked)}, before top-N slice):")
-        _diag_full = [sc.batter_name for sc in ranked if getattr(sc, "team", None) in ("LAD", "COL")]
-        print(f"      {len(_diag_full)} LAD/COL entries in full ranked list: {_diag_full}")
+    # ── Shutout check (added Aug 17 2026) ──────────────────────────────────
+    # If a team with the slate's HIGHEST implied run total gets zero batters
+    # into the exported top-N despite existing in the full ranked pool, that's
+    # worth seeing every time it happens, not just when someone goes looking
+    # for it. Triggered by a real case: LAD (7.0 implied, the slate's highest)
+    # went 0-for-9 batters into the top 75 out of 181 scored that day, and it
+    # took an eight-round manual diagnostic chain to confirm this wasn't a
+    # pipeline bug — the batters were scored and ranked, just legitimately
+    # outscored. This block surfaces the same finding automatically going
+    # forward, with the actual score components, not just a name list.
+    _top_impl_team = None
+    _top_impl_val  = -1.0
+    for _c in game_contexts:
+        for _t, _impl in ((_c.home_team, _c.home_implied_runs), (_c.away_team, _c.away_implied_runs)):
+            if _impl is not None and _impl > _top_impl_val:
+                _top_impl_val, _top_impl_team = _impl, _t
+    if _top_impl_team:
+        _top_in_pool = [sc for sc in ranked if getattr(sc, "team", None) == _top_impl_team]
+        _top_in_export = [sc for sc in ranked[:EFFECTIVE_TOP_N] if getattr(sc, "team", None) == _top_impl_team]
+        if _top_in_pool and not _top_in_export:
+            print(f"  ⚠️  SHUTOUT CHECK: {_top_impl_team} has the slate's highest implied total "
+                  f"({_top_impl_val:.1f} runs) but 0 of its {len(_top_in_pool)} scored batters made "
+                  f"the top {EFFECTIVE_TOP_N} of {len(ranked)}. Score components for its top 3 by "
+                  f"raw score:")
+            for sc in sorted(_top_in_pool, key=lambda x: getattr(x, "score", 0), reverse=True)[:3]:
+                _rank_pos = next((i+1 for i, r in enumerate(ranked) if r.batter_name == sc.batter_name), "?")
+                print(f"      {sc.batter_name:<20} rank={_rank_pos:<5} score={getattr(sc,'score','?')}  "
+                      f"pitch_matchup_score={getattr(sc,'pitch_matchup_score','?')}  "
+                      f"batter_power={getattr(sc,'batter_power','?')}  "
+                      f"pitcher_vuln={getattr(sc,'pitcher_vuln','?')}  "
+                      f"implied_runs={getattr(sc,'implied_runs','?')}  "
+                      f"opp_score={getattr(sc,'opp_score','?')}  conv_score={getattr(sc,'conv_score','?')}")
 
     saved_path  = export_excel(ranked, game_contexts, EFFECTIVE_TOP_N, EXPORT_FILE)
 
