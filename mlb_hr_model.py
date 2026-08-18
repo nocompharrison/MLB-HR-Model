@@ -36179,9 +36179,41 @@ def main():
     # Rank by HR score only — hit score removed from composite.
     # Data: hit score is inversely correlated with HRs and weakly correlated
     # with hits. Mixing it into the HR ranking degraded both use cases.
+    # ── RANKING KEY: normalized blend of score + hr_probability (Aug 17 2026) ──
+    # Previously: score primary, hr_probability tiebreaker only (below). A code
+    # comment ~1200 lines above this point documented a "revised ranking key"
+    # using hr_probability as primary, citing a Jun 1 audit finding that score
+    # is inversely correlated with actual HRs — but that revision was never
+    # actually wired into this sort; the comment described an intended fix
+    # that the code below it didn't implement.
+    #
+    # Backtested three candidates against real outcomes before changing this:
+    # score-only (prior production), hr_probability-only (the documented but
+    # unimplemented "fix"), and a min-max-normalized 50/50 blend of both,
+    # computed within each day's own pool.
+    #   Full panel (94 slates, Apr-Aug 2026, 5259 batters, 846 HR outcomes):
+    #     blend won or tied at all 6 tested top-N sizes (5/10/15/25/50/75).
+    #   July+August-only subset (42 slates, 2905 batters, 435 HR outcomes):
+    #     blend won outright at N=5,10,15,75; competitive (not clearly worse)
+    #     at N=25 (41.1% vs 41.8%) and N=50 (69.3% vs 71.1%).
+    #   hr_probability-only (the documented "fix") was the WORST of the three
+    #   at most sizes tested on both samples — implementing it as originally
+    #   proposed would likely have made pick quality worse, not better.
+    # Blend wins most clearly at the small N that actually drives the real
+    # card (Top 5 HR picks, the combo pool) — the range that matters most.
+    _all_scores_vals = [x.score for x in all_scores if x.score is not None]
+    _all_hrprob_vals = [x.hr_probability for x in all_scores if x.hr_probability is not None]
+    _bs_min, _bs_max = (min(_all_scores_vals), max(_all_scores_vals)) if _all_scores_vals else (0.0, 1.0)
+    _bp_min, _bp_max = (min(_all_hrprob_vals), max(_all_hrprob_vals)) if _all_hrprob_vals else (0.0, 1.0)
+
+    def _blend_rank_key(x):
+        _sn = (x.score - _bs_min) / (_bs_max - _bs_min) if _bs_max > _bs_min else 0.0
+        _pn = (x.hr_probability - _bp_min) / (_bp_max - _bp_min) if _bp_max > _bp_min else 0.0
+        return (_sn + _pn) / 2.0
+
     ranked_raw = sorted(
         all_scores,
-        key=lambda x: (round(x.score, 1), x.hr_probability),
+        key=_blend_rank_key,
         reverse=True
     )
     # ── Team exposure cap: max MAX_TEAM_EXPOSURE players per team ────────────
@@ -36509,7 +36541,7 @@ def main():
         _fi_names = {sc.batter_name for sc in _flash_injected}
         ranked = [sc for sc in ranked if sc.batter_name not in _fi_names]
         ranked = ranked + _flash_injected
-        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        ranked.sort(key=_blend_rank_key, reverse=True)
         _fi_outside = [
             sc for sc in _flash_injected
             if next((i for i, r in enumerate(ranked)
@@ -36552,7 +36584,7 @@ def main():
         _pf_names = {sc.batter_name for sc in _pwr_floor_injected}
         ranked = [sc for sc in ranked if sc.batter_name not in _pf_names]
         ranked = ranked + _pwr_floor_injected
-        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        ranked.sort(key=_blend_rank_key, reverse=True)
         # Guarantee within TOP_N using same outside-slot logic as SUPER NUCLEAR
         _pf_outside = sorted(
             [sc for sc in _pwr_floor_injected
@@ -36583,7 +36615,7 @@ def main():
         ranked = [sc for sc in ranked if sc.batter_name not in _sn_inject_names]
         # Merge injected picks back and re-sort by score
         ranked = ranked + _sn_injected
-        ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability), reverse=True)
+        ranked.sort(key=_blend_rank_key, reverse=True)
         # Guarantee every injected pick is within TOP_N.
         # Collect all that landed outside, remove them all at once, then re-insert
         # them score-sorted into the last slots of the top-N window.
@@ -36784,7 +36816,7 @@ def main():
                 and _sc.batter_name not in _info["names"]
                 and _sc.batter_name not in _already
             ]
-            _cands.sort(key=lambda x: (round(x.score, 1), x.hr_probability),
+            _cands.sort(key=_blend_rank_key,
                         reverse=True)
             _need = COVERAGE_FLOOR - _have
             _take = _cands[:_need]
@@ -36811,7 +36843,7 @@ def main():
             _cov_names = {_sc.batter_name for _sc in _cov_promoted}
             ranked = [_sc for _sc in ranked if _sc.batter_name not in _cov_names]
             ranked = ranked + _cov_promoted
-            ranked.sort(key=lambda x: (round(x.score, 1), x.hr_probability),
+            ranked.sort(key=_blend_rank_key,
                         reverse=True)
             print(f"\n  📐 COVERAGE FLOOR — {len(_cov_promoted)} batter(s) promoted into the "
                   f"window on Vuln≥{COVERAGE_VULN_GATE:.0f} arms covered ≤{COVERAGE_MIN_KEEP} deep:")
