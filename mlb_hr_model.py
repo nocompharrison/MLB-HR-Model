@@ -34721,6 +34721,16 @@ def main():
     # First pass: count total players to score (for progress bar)
     total_players = 0
     for gm in mlb_games:
+        # DIAGNOSTIC (Aug 17 2026) — check the two remaining silent-skip
+        # conditions in this loop for every game: lineups_confirmed, whether
+        # a context was found in ctx_by_id, and whether both pitcher names
+        # are populated. Remove once the missing-team investigation is closed.
+        _diag_ctx = ctx_by_id.get(str(gm.get("game_pk")))
+        print(f"  🔍 DIAG: scoring-pass check {gm.get('away_team')} @ {gm.get('home_team')} "
+              f"(game_pk={gm.get('game_pk')}) — lineups_confirmed={gm.get('lineups_confirmed')}  "
+              f"ctx_found={_diag_ctx is not None}  "
+              f"home_pitcher={gm.get('home_pitcher')!r}  away_pitcher={gm.get('away_pitcher')!r}  "
+              f"home_lineup_len={len(gm.get('home_lineup', []))}  away_lineup_len={len(gm.get('away_lineup', []))}")
         if not gm["lineups_confirmed"]:
             continue
         ctx = ctx_by_id.get(str(gm["game_pk"]))
