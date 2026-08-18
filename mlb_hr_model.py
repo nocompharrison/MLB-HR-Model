@@ -35647,13 +35647,69 @@ def main():
                     except Exception:
                         pass
                 if _game_live:
-                    # Preserve hr_early_price (pre-game baseline) as the display odds
-                    # so the sheet still shows something useful; strip current price
-                    # which is a live in-game line unrelated to pre-game edge.
-                    _pre_game_odds = b.hr_early_price if b.hr_early_price else 0.0
-                    b.hr_over_price     = _pre_game_odds   # revert to pre-game price
+                    # ── LOCKED-PRE odds resolution — FIXED Aug 18 2026 ──────────
+                    # BUG THIS REPLACES: the old line was
+                    #     _pre_game_odds = b.hr_early_price if b.hr_early_price else 0.0
+                    #     b.hr_over_price = _pre_game_odds
+                    # which had two failure modes, both observed live on the
+                    # Aug 18 2026 slate:
+                    #   (1) If ActionNetwork never populated `early_price` for a
+                    #       batter, this ZEROED a perfectly good pre-game price.
+                    #       Jo Adell ended up with a blank odds field, which then
+                    #       forced NewConv to impute its single most heavily
+                    #       weighted feature (odds) from the panel median.
+                    #   (2) `early_price` is an ActionNetwork *snapshot* field, not
+                    #       a guaranteed last-pre-lock price. When the snapshot was
+                    #       taken late, the "pre-game baseline" already contained
+                    #       post-drift movement. Griffin Conine read +700 on a
+                    #       refresh where his true pre-lock ActionNetwork price was
+                    #       +490 — a 210-point drift that pushed him into the
+                    #       odds>=600 band (measured 0.57x train / 0.64x test,
+                    #       p=0.0000, the strongest negative in the whole odds
+                    #       audit) and dropped him to newconv_rank 83 of 90.
+                    #       He homered.
+                    # RULE NOW: never zero a price, and never take a price that is
+                    # WORSE (longer) than the ActionNetwork price we already hold —
+                    # post-lock lines only drift longer as the game gets away from a
+                    # batter, so a longer "baseline" is definitionally contaminated.
+                    _an_live = globals().get("_AN_HR_ODDS", {}) or {}
+                    _an_price = 0.0
+                    try:
+                        _an_rec = _an_live.get(_an_name_key(b.name))
+                        if _an_rec is None:
+                            # same last-name fuzzy fallback used at load time
+                            _k = _an_name_key(b.name)
+                            _ln = _k.split("_")[0] if "_" in _k else _k
+                            for _kk, _vv in _an_live.items():
+                                if _kk.split("_")[0] == _ln:
+                                    _an_rec = _vv; break
+                        if isinstance(_an_rec, dict):
+                            _an_price = float(_an_rec.get("over_price", 0.0) or 0.0)
+                    except Exception:
+                        _an_price = 0.0
+
+                    _current = float(b.hr_over_price or 0.0)
+                    _early   = float(b.hr_early_price or 0.0)
+
+                    # Candidate pre-lock prices, best (shortest) first. A shorter
+                    # price is always the earlier/cleaner one post-lock.
+                    _cands = [p for p in (_early, _an_price, _current) if p and p > 0]
+                    if _cands:
+                        _pre_game_odds = min(_cands)
+                    else:
+                        # Nothing usable anywhere — KEEP whatever we had rather than
+                        # zeroing it. A stale price is far less damaging than a blank
+                        # one, which silently becomes a median-imputed feature.
+                        _pre_game_odds = _current
+
+                    b.hr_over_price     = _pre_game_odds
                     b.hr_line_movement  = 0.0              # no line-movement signal
-                    b.hr_odds_source    = (b.hr_odds_source or "") + " [LOCKED-PRE]"
+                    _src_note = "[LOCKED-PRE]"
+                    if _cands and _pre_game_odds != _early and _early > 0:
+                        _src_note = "[LOCKED-PRE:AN-CORRECTED]"
+                    elif not _cands:
+                        _src_note = "[LOCKED-PRE:STALE-KEPT]"
+                    b.hr_odds_source    = (b.hr_odds_source or "") + " " + _src_note
 
                 # ── Inject RotoWire batter props (hits + TB odds) ─────────
                 # These supplement hr_over_price (which comes from SGO/OddsAPI)
