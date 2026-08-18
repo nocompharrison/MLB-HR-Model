@@ -35970,6 +35970,20 @@ def main():
 
     pbar.close()
 
+    # DIAGNOSTIC (Aug 17 2026) — check whether score_player() actually
+    # produced entries for LAD/COL in all_scores. Every upstream checkpoint
+    # (schedule fetch, context build, scoring-pass entry) has come back
+    # clean for this game, so this isolates whether the failure is inside
+    # score_player() itself or in whatever builds ranked_raw afterward.
+    # Remove once the missing-team investigation is closed.
+    _diag_lc = [sc for sc in all_scores if getattr(sc, "team", None) in ("LAD", "COL")]
+    print(f"  🔍 DIAG: all_scores has {len(all_scores)} total entries; "
+          f"{len(_diag_lc)} with team in (LAD, COL)")
+    for _diag_sc in _diag_lc[:20]:
+        print(f"      {_diag_sc.batter_name} ({_diag_sc.team}) — "
+              f"conviction_score={getattr(_diag_sc, 'conviction_score', '?')}  "
+              f"hr_prob={getattr(_diag_sc, 'hr_prob', '?')}")
+
     if not all_scores:
         print("\nNo players scored.")
         if is_historical:
