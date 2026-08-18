@@ -315,7 +315,7 @@ def _upload_to_github(excel_path: str) -> None:
     parent = Path(excel_path).parent
     # Upload fixed-name CSVs (overwrite previous day), delete locally after success
     for name in ("current_rankings", "current_detailed", "current_hitprops",
-                 "current_conditions", "current_sharp"):
+                 "current_conditions", "current_sharp", "current_newconv"):
         csv_path = parent / f"{name}.csv"
         if _github_upload(str(csv_path), f"outputs/{name}.csv"):
             try:
@@ -33582,6 +33582,63 @@ def export_excel(scores, games, top_n, filepath):
                 print(f"  ⚠️  CSV export failed for {_sheet_name}: {_e}")
     except Exception as _e:
         print(f"  ⚠️  CSV export block failed: {_e}")
+
+    # ── NewConv v1.0 — fitted conviction score (added Aug 18 2026) ───────────
+    # Post-processes the CSVs just written by the block above. Requires
+    # newconv.py + newconv_params.json alongside this file. Never raises into
+    # the main run — a failure here must not cost the slate.
+    #
+    # Replaces the old additive `Conv` (Spearman vs HR = +0.006, p=0.73) with a
+    # slate-conditional L2 logistic over 31 quantitative + PropFinder features,
+    # isotonic-calibrated, fitted on 48 slates (Jun 25–Aug 17 2026, n=3,218).
+    # August walk-forward: NewConv top-3 per slate 2.21x vs old Conv 0.91x.
+    # Card structure 3 Score + 2 NewConv = 2.49x vs 2.03x pure Score, 1.87x for
+    # the retired Priority Tier reserve (whose own slot went 1-for-16, 0.41x).
+    try:
+        import sys as _sys
+        _nc_dir = str(Path(__file__).parent)
+        if _nc_dir not in _sys.path:
+            _sys.path.insert(0, _nc_dir)
+        import newconv as _nc
+
+        _d = out_path.parent
+        _ndf = _nc.load_rankings(str(_d / "current_rankings.csv"))
+        _nine = _nc.load_detailed(str(_d / "current_detailed.csv"))
+        _shp = _nc.load_sharp(str(_d / "current_sharp.csv"))
+
+        for _c in _nc.NINE:
+            _ndf[_c] = _ndf.key.map(
+                lambda k, _c=_c: _nine.get(k, {}).get(_c, float("nan")))
+        _ndf["neg05"] = _ndf.key.map(lambda k: _shp.get(k, {}).get("neg05", False))
+        _ndf["neg06"] = _ndf.key.map(lambda k: _shp.get(k, {}).get("neg06", False))
+        _ndf["old_conv"] = _ndf.key.map(
+            lambda k: _shp.get(k, {}).get("old_conv", float("nan")))
+
+        _cov = 1 - _ndf[_nc.NINE[0]].isna().mean()
+        if _cov < 0.75:
+            print(f"  ⚠️  NewConv: PropFinder 9-STAT coverage only {_cov:.0%} — "
+                  f"score degrades to quant-only for missing rows")
+
+        _ndf = _nc.score_slate(_ndf)
+        # Rank on the raw monotone score: isotonic calibration creates
+        # probability plateaus, so newconv_p ties. newconv_raw does not.
+        _ndf["newconv_rank"] = _ndf.newconv_raw.rank(
+            ascending=False, method="first").astype(int)
+        _ncard = _nc.build_card(_ndf, n_score=3, n_new=2)
+        _ndf["card_slot"] = _ndf.key.map(
+            dict(zip(_ncard.key, _ncard.slot))).fillna("")
+
+        _ndf[["batter", "team", "pitcher", "odds", "score", "hr_prob", "vuln",
+              "pm", "power", "newconv_p", "CONV100", "newconv_rank",
+              "card_slot", "old_conv", "neg05", "neg06"]] \
+            .sort_values("newconv_rank") \
+            .to_csv(_d / "current_newconv.csv", index=False, encoding="utf-8-sig")
+        print(f"  ✅ NewConv exported ({len(_ndf)} batters, 9-STAT {_cov:.0%}) "
+              f"— card: {', '.join(_ncard.batter.tolist())}")
+    except ImportError as _e:
+        print(f"  ⚠️  NewConv skipped — newconv.py not found alongside model: {_e}")
+    except Exception as _e:
+        print(f"  ⚠️  NewConv export failed (non-fatal): {_e}")
 
     return str(out_path)
 
