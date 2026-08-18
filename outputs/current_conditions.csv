@@ -1,6 +1,6 @@
 ﻿"Game Conditions — August 18, 2026",,,,,,,,,,,,,,,
 Matchup,Ballpark,Temp,Wind,Direction,Park HR,Altitude,Dome,O/U Total,Home Impl,Away Impl,Run Adj,BB/K Adj,Wx Source,Umpire,Odds Source
-NYY @ BAL,Oriole Park,81°F,4mph,In/X,1.08,20ft,Open,8.7,4.3,4.4,-0.2%,N/A,FantasyLabs,1.000x,FL
+NYY @ BAL,Oriole Park,81°F,4mph,In/X,1.08,20ft,Open,8.7,4.3,4.4,-0.2%,N/A,FantasyLabs,0.976x,FL
 DET @ PIT,PNC Park,74°F,3mph,In/X,0.94,730ft,Open,8.2,4.5,3.7,-0.1%,N/A,FantasyLabs,1.006x,FL
 SF @ CLE,Progressive Field,75°F,5mph,Out,0.97,653ft,Open,8.1,4.7,3.4,+5.8%,N/A,FantasyLabs,1.012x,FL
 STL @ CIN,Great American Park,76°F,3mph,Out,1.18,550ft,Open,9.2,4.5,4.7,+4.3%,N/A,FantasyLabs,1.000x,FL
@@ -9,7 +9,7 @@ MIA @ PHI,Citizens Bank Park,81°F,3mph,In/X,1.14,40ft,Open,8.6,5.1,3.5,+0.2%,N/
 ARI @ BOS,Fenway Park,72°F,5mph,In/X,1.06,20ft,Open,7.699999999999999,4.3,3.4,-0.2%,N/A,FantasyLabs,1.000x,FL
 SD @ NYM,Citi Field,79°F,4mph,Out,0.96,15ft,Open,8.7,4.3,4.4,+6.4%,N/A,FantasyLabs,1.000x,FL
 ATH @ KC,Kauffman Stadium,85°F,5mph,In/X,0.91,750ft,Open,9.2,5.1,4.1,-0.9%,N/A,FantasyLabs,1.000x,FL
-ATL @ MIN,Target Field,75°F,6mph,Out,0.97,815ft,Open,8.6,4.1,4.5,+5.8%,N/A,FantasyLabs,1.000x,FL
+ATL @ MIN,Target Field,75°F,6mph,Out,0.97,815ft,Open,8.6,4.1,4.5,+5.8%,N/A,FantasyLabs,1.018x,FL
 SEA @ MIL,American Family Field,72°F,0mph,In/X,1.05,635ft,Dome,7.6,4.3,3.3,N/A,N/A,dome,1.000x,FL
 WSH @ TEX,Globe Life Field,72°F,0mph,In/X,1.1,551ft,Dome,8.2,4.5,3.7,N/A,N/A,dome,1.000x,FL
 CWS @ CHC,Wrigley Field,74°F,6mph,Out,1.03,595ft,Open,9.2,5.2,4.0,+8.1%,N/A,FantasyLabs,1.000x,FL
