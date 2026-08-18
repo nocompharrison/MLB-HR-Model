@@ -16979,11 +16979,38 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Edge vs market removed from score (22-slate audit: adds noise, not signal)
     # Edge is kept as an informational note in the detailed breakdown only.
     _edge_adj = 0.0  # kept as variable for backward compat but always 0
-    # REVISED score ceiling (23-slate audit May 2026):
-    # Score 60-65: 5.6% HR (worst zone — park/env inflation without HR conversion)
-    # Score 55-60: 25.0% HR (best zone — this should be the practical ceiling)
-    # Hard cap at 68 prevents park+env stacking from producing scores like 86.
-    # Picks genuinely at 65-68 are those with both strong matchup AND environment.
+    # ══ SCORE CEILING — JUSTIFICATION CORRECTED Aug 18 2026 ══════════════════
+    # The cap value (68) is UNCHANGED and still correct: it prevents park+env
+    # stacking from producing scores like 86. Only the reasoning below it was
+    # wrong, and it was wrong in a way that would mislead any future re-tune.
+    #
+    # RETIRED CLAIM (23-slate audit, May 2026): "Score 60-65: 5.6% HR (worst
+    # zone — park/env inflation without HR conversion) / Score 55-60: 25.0% HR
+    # (best zone)". That is NOT what the data says and has been deleted.
+    #
+    # RE-MEASURED on the full 109-slate panel (n=5,259 resolved batter-slates,
+    # base 16.09%). Score is MONOTONICALLY INCREASING, not U-shaped:
+    #     Score <45    n=1000   13.90%   0.86x
+    #     Score 45-50  n= 696   14.51%   0.90x
+    #     Score 50-55  n= 987   16.11%   1.00x
+    #     Score 55-60  n=1141   16.91%   1.05x
+    #     Score 60-63  n= 535   17.38%   1.08x
+    #     Score 63-66  n= 671   17.73%   1.10x
+    #     Score 66+    n= 229   18.34%   1.14x
+    # There is no 60-65 dead zone and 55-60 is not the best band. Higher score
+    # is monotonically better, but WEAKLY — the whole range spans 0.86x-1.14x,
+    # so Score is a weak discriminator univariately (consistent with the
+    # long-standing "tiebreaker only" rule).
+    #
+    # ⚠️ DO NOT CONCLUDE FROM THE NARROW UNIVARIATE RANGE THAT SCORE SHOULD BE
+    # RE-WEIGHTED OR REPLACED. Tested Aug 18 2026: a ranker rebuilt from ONLY
+    # the variables that survive an Apr-Jul → Aug temporal holdout (odds bands,
+    # Vuln≥56, Power 77-84 dead zone, PM<1.00, HS<15) scored 1.66x on held-out
+    # August top-3, while the existing (score, hr_probability) sort scored
+    # 2.63x (19/48) on the same slates. The composite beats the sum of its
+    # individually-validated parts — univariate band lift is NOT ranking
+    # performance. Env in particular measures as pure noise in isolation
+    # (every band non-significant) yet removing it degrades the ranker.
     score = max(0.0, min(68.0, opp_score + conv_score))
 
     # ── REVISED RANKING KEY (June 2 audit overhaul) ─────────────────────────
