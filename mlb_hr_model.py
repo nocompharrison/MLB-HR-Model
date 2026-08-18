@@ -36958,6 +36958,23 @@ def main():
         print("=" * 68 + "\n")
 
     # ── 9. Export ─────────────────────────────────────────────
+    # DIAGNOSTIC (Aug 17 2026) — final checkpoint. Checks the EXACT list and
+    # slice handed to export_excel(), after all injections/expansion have
+    # run. If LAD/COL names appear here but still end up missing from the
+    # CSV, the failure is inside _sheet_rankings()/the Excel write itself.
+    # If they're already gone by this point, something between the
+    # injection print statements above and this call silently drops them.
+    # Remove once the missing-team investigation is closed.
+    _diag_final = [sc for sc in ranked[:EFFECTIVE_TOP_N] if getattr(sc, "team", None) in ("LAD", "COL")]
+    print(f"  🔍 DIAG: ranked[:{EFFECTIVE_TOP_N}] (about to export) has "
+          f"{len(ranked[:EFFECTIVE_TOP_N])} entries; {len(_diag_final)} with team in (LAD, COL):")
+    for _d in _diag_final:
+        print(f"      {_d.batter_name} ({_d.team})")
+    if not _diag_final:
+        print(f"  🔍 DIAG: also checking full ranked list (len={len(ranked)}, before top-N slice):")
+        _diag_full = [sc.batter_name for sc in ranked if getattr(sc, "team", None) in ("LAD", "COL")]
+        print(f"      {len(_diag_full)} LAD/COL entries in full ranked list: {_diag_full}")
+
     saved_path  = export_excel(ranked, game_contexts, EFFECTIVE_TOP_N, EXPORT_FILE)
 
     print(f"\nDone! {len(all_scores)} players scored across {len(game_contexts)} games.")
