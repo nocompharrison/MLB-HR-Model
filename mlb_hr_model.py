@@ -15237,7 +15237,13 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         dp_primary_rv100=_dp_hit_rv100,
         dp_primary_pt=_dp_hit_pt,
         savant_hit_bonus=_savant_hit_bonus,
-        est_pa=getattr(context, 'est_pa', 4.3),
+        # FIXED Aug 18 2026: was getattr(context,'est_pa',4.3) — GameContext has
+        # no est_pa field, so compute_hit_score received a constant 4.3 for every
+        # batter on every slate (its _pa_val comment even says "passed from
+        # score_player via context.est_pa", which never existed). `pa` is the
+        # real per-batter estimate from expected_pa(). Same root cause as the
+        # HR-side fix below; this one was silently flattening the hit score.
+        est_pa=float(pa) if pa else 4.3,
         # ── New Feature Parameters ────────────────────────────────────────────
         sprint_speed=getattr(batter, 'sprint_speed', 27.0),
         swstr_pct=getattr(batter, 'swstr_pct', 0.0),
@@ -18057,7 +18063,28 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         score = max(0.0, score - 5.0)
     # Est PA penalty/boost: 2-slate validated 36% HR (PA≥4.5) vs 19% (PA<4.5)
     # Low-order batters with fewer PAs have fewer HR opportunities
-    _est_pa = getattr(context, 'est_pa', 4.3)
+    # ══ EST_PA SOURCE — FIXED Aug 18 2026 ══════════════════════════════════
+    # WAS: _est_pa = getattr(context, 'est_pa', 4.3)
+    # `context` is the GameContext, which has NO est_pa attribute (verified
+    # against the dataclass: game_id/teams/park/weather/implied_runs/etc., no
+    # est_pa anywhere). So this getattr ALWAYS returned the 4.3 default, for
+    # every batter on every slate, and the entire block below was dead:
+    #   - the `_est_pa >= 4.6` +1.5 score boost NEVER fired
+    #   - the `_est_pa < 4.0` -2.0 penalty NEVER fired
+    #   - both PA-security notes NEVER fired
+    #   - and critically, the `_has_stacked_sigs` exemption on the 60-70
+    #     "inflated zone" -3.0 penalty gates on est_pa >= 4.5, which 4.3 can
+    #     never satisfy => the -3.0 was UNCONDITIONAL on the whole band.
+    # That unconditional -3 is the second tie-wall: batters saturating the
+    # 68.0 score cap all took -3 and landed on exactly 65.0. On the Aug 18
+    # slate that produced 15 batters tied at 65.0 with power ranging 78.1-87.8
+    # and vuln 38.0-53.8 — inputs far too different to justify an identical
+    # score. Six were explained by the cap arithmetic; the other nine were
+    # this dead gate.
+    # `pa` is the real per-batter estimate, computed at the top of this
+    # function via expected_pa(batter.lineup_spot, impl_runs, batter_is_home),
+    # and is what the rankings CSV actually displays in the "Est PA" column.
+    _est_pa = float(pa) if pa else 4.3
     if _est_pa >= 4.6:
         score = min(100.0, score + 1.5)   # high-PA slot: more opportunities
     elif _est_pa < 4.0:
@@ -18077,9 +18104,15 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Score 60-70 anomaly: 26-slate audit = 7.5% HR (0.48x) — weaker than 40-50 band.
     # Savant inflation pushes middling picks into this zone. Apply soft correction
     # unless strong signals are stacked (Power≥63 + PM≥1.04 + PA≥4.5).
+    # ⚠️ The est_pa term below was previously getattr(context,'est_pa',4.3),
+    # which could never reach 4.5 — see the EST_PA SOURCE fix above. With
+    # _est_pa now real, this exemption can actually fire, which is the intent:
+    # the -3 is meant to catch env/park-inflated middling picks, NOT genuine
+    # stacked-signal bats. Re-measure this penalty's value at ~35 August-regime
+    # slates now that it is no longer unconditional.
     _is_inflated_zone = (60.0 <= score < 70.0)
     _has_stacked_sigs = (batter_power_score(batter) >= 63.0 and pm >= 1.04 and
-                         getattr(context, 'est_pa', 4.3) >= 4.5)
+                         _est_pa >= 4.5)
     if _is_inflated_zone and not _has_stacked_sigs:
         score = max(0.0, score - 3.0)  # push back toward where signal is real
     # ── Jun 26 2026: Score ≥ 62 + PM ≥ 1.08 ranking demotion ────────────────
