@@ -16930,13 +16930,44 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # 3-slate zero-FN gate: Score < 68 captures all 28 HR getters (Jun 18+20+21).
     # Score ≥ 70: 9% HR (0.56x validated, 41-slate) — hard fade.
     # Score 68-70: moderate fade (-4); Score 65-68: soft fade (-2).
+    # _pre_score_estimate is still needed below by the QUIET POWER archetype
+    # (which gates on _pre_score_estimate < 50.0) — keep it computed even
+    # though the fade that originally used it is now retired.
     _pre_score_estimate = opp_score + conv_score
-    _high_score_hr_fade = (
-        -8.0 if _pre_score_estimate >= 70.0
-        else -4.0 if _pre_score_estimate >= 68.0
-        else -2.0 if _pre_score_estimate >= 65.0
-        else 0.0
-    )
+
+    # ══ HIGH-SCORE HR FADE — REMOVED Aug 18 2026 ═══════════════════════════
+    # WAS: -8.0 if pre_score >= 70, -4.0 if >= 68, -2.0 if >= 65, else 0.
+    # Original justification (Jun 2026, 41-slate): "Score >= 70: 9% HR
+    # (0.56x validated)" and a 3-slate zero-FN gate from Jun 18/20/21.
+    #
+    # WHY IT IS GONE — re-measured on AUGUST ONLY (16 slates, n=1,391,
+    # base 15.03%). The relationship is now strongly POSITIVE at the top,
+    # the opposite of what the fade assumes:
+    #     Score 60-63    n=130   11.54%
+    #     Score 63-64.5  n= 70   11.43%
+    #     Score ~65.0    n=116   23.28%   (1.55x)
+    #     Score 67+      n= 11   36.36%   (best band on the board)
+    # Wall (~65.0) vs just-below (60-65): 23.28% vs 12.12%, Fisher p=0.0120.
+    #
+    # WORSE, THE FADE WAS MANUFACTURING TIES. The -2 tier took every batter
+    # whose raw score legitimately landed in 65-68 and dumped them onto a
+    # shared 65.0 wall: 8.3% of ALL August batters, with 3+ tied at exactly
+    # 65.0 on 16 of 16 slates. That wall is the direct cause of the Top-5
+    # tiebreak problem — genuine separation (e.g. Jo Adell, Vuln 51.8 /
+    # Pwr 87.0 vs Dominic Canzone, CONV100 30) was erased BEFORE any
+    # tiebreaker ran, and a tiebreak sweep over 7 candidate fields
+    # (hr_prob / power / vuln / CONV100 / odds / env / pm) across 45 tie
+    # clusters found NO field better than another (32/31/31/31/30/29/27
+    # of 135, every p=1.000) — because re-sorting a saturated composite by
+    # its own ingredients adds no information. The fix had to be upstream.
+    #
+    # CAVEAT: the 67+ band is n=11. "Remove entirely" is directionally
+    # supported, not proven, and the June measurement was probably correct
+    # when taken — this reads as the documented August regime change, not
+    # an original error. Re-check at ~35 August-regime slates; if the top
+    # bands revert to underperforming, reinstate a fade ABOVE 70 only and
+    # never reinstate the -2 (65-68) tier, which is the tie-maker.
+    _high_score_hr_fade = 0.0
 
     # Power≥78 + Sig=0 + Score<50 named archetype (Jun 18 backtest)
     # 28.6% HR all-time (1.67x), n=49. Validated Jun 18 + Jun 20.
