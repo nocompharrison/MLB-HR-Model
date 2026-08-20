@@ -19006,6 +19006,29 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     _pf9_blast    = _b_blast
     _pf9_pull     = _b_pull_pct
 
+    # ══ DIAGNOSTIC (Aug 20 2026) ══════════════════════════════════════════
+    # FB50 LOFT measured 0 fires across 6 consecutive slates, and a direct
+    # check against Aug 19's raw 9-STAT output showed 15 batters should have
+    # cleared FB%>=50 that day - not rare, a real gap between what the
+    # gates compute and what the sheet later displays. Most likely cause:
+    # score_player() runs before some later enrichment pass finishes
+    # populating batter.blast_pct/fb_pct/etc., so the gate sees stale/zero
+    # values while the 9-STAT display (built later, from the fully-enriched
+    # batter object) shows the correct final numbers. This prints the
+    # SCORE-TIME snapshot for a sample so it can be diffed directly against
+    # the same batters' 9-STAT line in the finished sheet - if they differ,
+    # that confirms the timing theory and pinpoints it precisely. Capped at
+    # 15 batters/run so it doesn't flood the log; remove once resolved.
+    if globals().setdefault('_PF9_DIAG_COUNT', [0])[0] < 15:
+        globals()['_PF9_DIAG_COUNT'][0] += 1
+        print(f"     🔬 PF9 score-time snapshot [{getattr(batter,'name','?')}]: "
+              f"barrel={_pf9_barrel:.1f} hh={_pf9_hh:.1f} fb={_pf9_fb:.1f} "
+              f"gb={_pf9_gb:.1f} blast={_pf9_blast:.1f} pull={_pf9_pull:.1f} "
+              f"| raw attrs: blast_pct={getattr(batter,'blast_pct','MISSING')} "
+              f"fb_pct={getattr(batter,'fb_pct','MISSING')} "
+              f"barrel_pct={getattr(batter,'barrel_pct','MISSING')}")
+
+
     # ── L10 BBE override: use real BBE stats when available ──────────────────
     # When pybaseball successfully fetched L10 BBEs for this batter, the batter
     # object's pf9_l10_* fields are populated. Use those for all 9 gates to
