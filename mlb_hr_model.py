@@ -34665,6 +34665,27 @@ def main():
                     s = s.replace(a, b)
                 return s
 
+            # ── SUFFIX FIX (Aug 20 2026) ──────────────────────────────────
+            # BUG THIS REPLACES: both the DFF-side lastname index and the
+            # model-side fallback below took `parts[-1]` as "the last name"
+            # with no suffix awareness. For "Bobby Witt Jr." that's "jr.",
+            # not "witt" — so a batter whose OWN name in batter_stats_map
+            # doesn't carry the suffix (stored as plain "Bobby Witt") failed
+            # BOTH the exact match (DFF key is "bobby witt jr.", query is
+            # "bobby witt") AND the lastname fallback, because the DFF-side
+            # index filed him under "jr." instead of "witt" — a query for
+            # "witt" found nothing. Confirmed live: Bobby Witt Jr. on the
+            # DFF sheet returned no match against the model's "Bobby Witt".
+            # FIX: strip a trailing generational suffix before taking the
+            # last token, on BOTH sides of the match, so "witt" is the key
+            # regardless of which side does or doesn't carry "Jr."
+            _NAME_SUFFIXES = {"jr", "jr.", "sr", "sr.", "ii", "iii", "iv", "v"}
+            def _dff_surname(parts):
+                p = list(parts)
+                while p and p[-1].rstrip(".") in _NAME_SUFFIXES:
+                    p.pop()
+                return p[-1] if p else (parts[-1] if parts else "")
+
             # Build a last-name -> full-name-key(s) index for DFF's own data.
             # Less critical now that the Excel sheet carries full names
             # ("Jacob deGrom") rather than the scraped page's abbreviated
@@ -34674,7 +34695,7 @@ def main():
             for dff_key, d in _dff_data.items():
                 parts = _dff_norm(d["name_raw"]).split()
                 if parts:
-                    _dff_lastname_idx.setdefault(parts[-1], []).append(dff_key)
+                    _dff_lastname_idx.setdefault(_dff_surname(parts), []).append(dff_key)
 
             _dff_matched = 0
             _dff_matches = {}  # _bname -> (_dff_entry, _bkey), collected first so team-relative
@@ -34683,10 +34704,15 @@ def main():
                 _bkey = _dff_norm(_bname)
                 _dff_entry = _dff_data.get(_bkey)
                 if _dff_entry is None:
-                    # fallback: match on last name + first-initial agreement
+                    # fallback: match on last name + first-initial agreement.
+                    # Uses the same _dff_surname() suffix-stripping as the
+                    # index above (see the Aug 20 2026 fix note) so a query
+                    # for "Bobby Witt" and an index entry for "Bobby Witt
+                    # Jr." both resolve to the surname "witt", not "witt" vs
+                    # the old buggy "jr.".
                     _bparts = _bkey.split()
                     if _bparts:
-                        _last = _bparts[-1]
+                        _last = _dff_surname(_bparts)
                         _first_initial = _bparts[0][0] if _bparts[0] else ""
                         for _cand_key in _dff_lastname_idx.get(_last, []):
                             _cand_parts = _dff_norm(_dff_data[_cand_key]["name_raw"]).split()
