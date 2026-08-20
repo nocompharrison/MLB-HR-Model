@@ -19291,14 +19291,14 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         # compiled fine and raised NameError on the third batter scored. The
         # correct container here is `notes`, which every other emission in this
         # function uses (see 17405, 17422, 17427, 17443...).
-        notes.append(
+        _result.notes = list(_result.notes or []) + [(  # FIX Aug 20 2026: same post-construction bug as the 5 new PF gates below
             f"🎯 HR26 PF CORE TRIPLE: ISO {_pf9_iso:.3f}>0.2 + Barrel% {_pf9_barrel:.1f}>15 "
             f"+ HH% {_pf9_hh:.0f}>40 → {_pf_ct_rate} HR (mined 19.3% 73/379, 1.30x, p=0.0074, "
             f"boot5 1.12, 30sl). Beats the 9-gate count at every threshold "
             f"(≥7/9 1.14x · ≥8/9 1.04x · 9/9 0.92x) because requiring all nine forces "
             f"Pull%>30 (0.99x, passes on 94% of the pool) and GB%<40 (0.97x) to clear. "
             f"⚠️ July-weighted: split-half 24%→15%, August 6/47 = 13% below base."
-        )
+        )]
     _result.pf9_low_sample = _pf9_low_sample
     _result.pf9_bbe_n = _pf9_n
     _result.pf9_gate_count_raw = _pf9_pass_count           # display, unsuppressed
@@ -19357,7 +19357,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                 f"The stock FB%>35 gate measured 0.97x in July — this threshold is the one "
                 f"that held in both periods. +3 conv."
             )
-        notes.append(_fb50_note)
+        _result.notes = list(_result.notes or []) + [_fb50_note]  # FIX Aug 20 2026: was notes.append(), silently dropped post-construction
 
     # LOFT-PROFILE LOCK emission. Credit goes ONLY to the relaxed variant
     # (2.60x over 16 slates, holds in both halves). The exact 5/5 is surfaced
@@ -19366,17 +19366,17 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     if _pf9_has_data and _loft_lock_relaxed:
         _result.conv_score = min(50.0, _result.conv_score + 6.0)
         if _loft_lock_exact:
-            notes.append(
+            _result.notes = list(_result.notes or []) + [(
                 f"🔒🔒 LOFT-PROFILE LOCK (EXACT 5/5): Barrel%{_pf9_barrel:.0f}(>10) + "
                 f"FB%{_pf9_fb:.0f}(>60) + Blast%{_pf9_blast:.0f}(>30) — the mined 100% combo "
                 f"(5/5, 6.65x). ⚠️ ALL 5 historical fires were Jul 3-5 with a repeat player; "
                 f"treat as an artifact, NOT as a 100% rate. Credit below is for the relaxed form."
-            )
-        notes.append(
+            )]
+        _result.notes = list(_result.notes or []) + [(
             f"🔒 LOFT-PROFILE LOCK: Barrel%{_pf9_barrel:.0f}(>10) + FB%{_pf9_fb:.0f}(>50) + "
             f"Blast%{_pf9_blast:.0f}(>30) → 39.1% HR (9/23, 2.60x, p=0.0041, 16 slates; "
             f"Jul 2.81x / Aug 2.25x). +6 conv."
-        )
+        )]
 
     # PULL-BLAST LOCK emission (Aug 16 2026). +6, same tier as LOFT: its raw
     # lift is higher (3.07x vs 2.60x) and its slate spread is better (19 vs
@@ -19385,29 +19385,29 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # came from a far narrower single-variable sweep.
     if _pf9_has_data and _pull_blast_lock:
         _result.conv_score = min(50.0, _result.conv_score + 6.0)
-        notes.append(
+        _result.notes = list(_result.notes or []) + [(
             f"🎯🔒 PULL-BLAST LOCK: HH%{_pf9_hh:.0f}(>50) + Blast%{_pf9_blast:.0f}(>20) + "
             f"Pull%{_pf9_pull:.0f}(>80) → 46.2% HR (12/26, 3.07x, 19 slates; Jul 7/16 · "
             f"Aug 5/10). Best-distributed rule in the threshold sweep. +6 conv."
-        )
+        )]
 
     if _pf9_has_data and _hot_arm_pull_loft:
         _result.conv_score = min(50.0, _result.conv_score + 7.0)
-        notes.append(
+        _result.notes = list(_result.notes or []) + [(
             f"🔥🎯 HOT-ARM PULL-LOFT: pitcher HR-prone L5 + Blast%{_pf9_blast:.0f}(>20) + "
             f"Pull%{_pf9_pull:.0f}(>80) → 50.0% HR (9/18, 3.32x, p=0.0005, 16 slates; "
             f"Jul 5/11 · Aug 4/7). Hot arm × pull-side loft contact. +7 conv."
-        )
+        )]
 
     if _pf9_has_data and _elite_nuclear:
         _result.conv_score = min(50.0, _result.conv_score + 10.0)
-        notes.append(
+        _result.notes = list(_result.notes or []) + [(
             f"☢️⭐ ELITE NUCLEAR (all 4 optimised gates pass): Barrel%{_pf9_barrel:.0f}(>10) + "
             f"GB%{_pf9_gb:.0f}(<40) + FB%{_pf9_fb:.0f}(>50) + Blast%{_pf9_blast:.0f}(>20) "
             f"→ 32.6% HR (14/43, 2.16x, p=0.0038, 28 slates; Jul 2.04x · Aug 2.41x). "
             f"Replaces the retired 9/9 SUPER NUCLEAR tier, which measured 0.93x. "
             f"Only searched rule in the audit to beat its own shuffle null. +10 conv."
-        )
+        )]
 
     # Only fire the tiered count-based boost and full note if at least 3 gates pass
     # Determine tier label and apply conv boost — requires ≥3 gates
