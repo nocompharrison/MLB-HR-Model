@@ -1173,6 +1173,16 @@ class PitcherProfile:
     l2_hr9:    float = 0.0   # HR/9 over last 2 starts only (0=not loaded)
     l2_ip:     float = 0.0   # total IP across last 2 starts
     first_start_of_season: bool = False   # True when all L5 appearances are relief (GS=0)
+    # ── L5 per-start distribution (added Aug 24 2026) ──────────────────────────
+    # l5_hr9 above is a single IP-weighted average across the last 5 starts -
+    # it cannot tell "one disaster start amid otherwise-good outings" apart
+    # from "genuinely elevated across all 5 starts." These three fields
+    # preserve that distinction using data fetch_pitcher_l5_starts already
+    # pulls per start; see pitcher_vuln_score() for how they dampen the L5
+    # blend when only a single outlier start is driving the average.
+    l5_bad_start_count: int   = 0   # of the last 5 starts, how many individually had HR9>=3.0
+    l5_start_count:     int   = 0   # how many of the last 5 outings were actual starts (not relief)
+    l5_hr9_stdev:       float = 0.0  # std dev of HR9 across the individual last-5 starts
     bb9:       float = 0.0   # season BB/9 (0=not loaded, derived from WHIP otherwise)
     # ── Pitcher discipline metrics (from FanGraphs advanced tab) ──────────────
     # These implement the video's workflow: efficiency → batted ball quality → outcomes
@@ -6636,6 +6646,32 @@ def fetch_pitcher_l5_starts(pitcher_id_map: dict, season: int = 2026) -> dict:
         l2_hr9   = (sum(g["hr9"] * g["ip"] for g in last2) / l2_ip
                     if l2_ip >= 2.0 else 0.0)
 
+        # ── PER-START BAD-START COUNT + VARIANCE (added Aug 24 2026) ─────────
+        # The IP-weighted l5_hr9 average above collapses 5 individual starts
+        # into one number, and that is ALL pitcher_vuln_score() ever sees. A
+        # pitcher who had 4 excellent starts and one disaster (Nick Martinez:
+        # 2.48 ERA in 6 of his last 7 outings, but one 6-run/4-HR game against
+        # the White Sox) and a pitcher who has been mediocre across all 5
+        # starts evenly can land on the SAME l5_hr9 average — but only one of
+        # them is a real trend. Real case: Martinez's Aug 23 2026 start
+        # against Baltimore was the bounce-back start immediately after that
+        # one bad outing; the model rated him Vuln 54.3 (broadly vulnerable)
+        # off the L5 blend and he threw a shutout-quality game. This does not
+        # require any new data fetch - `last5` already has per-start hr9 and
+        # ip, it was just being thrown away after the aggregate was computed.
+        # BAD_START_HR9 = 3.0 matches the existing extreme-L2-blowup threshold
+        # a few lines above, for consistency rather than a new tuned number.
+        _BAD_START_HR9 = 3.0
+        _l5_individual_starts = [g for g in last5 if g.get("gs", 1) != 0 and g["ip"] >= 2.0]
+        l5_bad_start_count = sum(1 for g in _l5_individual_starts if g["hr9"] >= _BAD_START_HR9)
+        l5_start_count = len(_l5_individual_starts)
+        if len(_l5_individual_starts) >= 2:
+            _hr9_vals = [g["hr9"] for g in _l5_individual_starts]
+            _mean = sum(_hr9_vals) / len(_hr9_vals)
+            l5_hr9_stdev = (sum((v - _mean) ** 2 for v in _hr9_vals) / len(_hr9_vals)) ** 0.5
+        else:
+            l5_hr9_stdev = 0.0
+
         results[name] = {
             "l5_era":               round(l5_era, 2),
             "l5_k9":                round(l5_k9,  2),
@@ -6646,6 +6682,9 @@ def fetch_pitcher_l5_starts(pitcher_id_map: dict, season: int = 2026) -> dict:
             "l2_ip":                round(l2_ip,   1),
             "recent_hr_factor":     round(recent_hr_factor, 3),
             "first_start_of_season": _first_start,
+            "l5_bad_start_count":   l5_bad_start_count,
+            "l5_start_count":       l5_start_count,
+            "l5_hr9_stdev":         round(l5_hr9_stdev, 2),
         }
 
     return results
@@ -11259,7 +11298,29 @@ def pitcher_vuln_score(p: PitcherProfile, batter_hand: str = "") -> float:
         _base_hr9 = 0.35 * _l2_hr9 + 0.25 * p.l5_hr9 + 0.40 * p.hr9
         _is_extreme_l2_blowup = True
     elif p.l5_hr9 > 0 and p.l5_ip >= 10.0:   # standard three-window blend
-        _base_hr9 = 0.40 * p.l5_hr9 + 0.60 * p.hr9
+        # ── SINGLE-OUTLIER DAMPENING (added Aug 24 2026) ────────────────────
+        # l5_hr9 is one IP-weighted number across 5 starts - it cannot tell
+        # "one disaster start amid 4 good ones" apart from "elevated across
+        # all 5," even though only the second is real evidence the pitcher
+        # is currently hittable. Real case: Nick Martinez went into his Aug
+        # 23 2026 start against Baltimore with a 2.48 ERA in 6 of his last 7
+        # outings (one of the best pitchers in the AL, 2.61 ERA on the
+        # season) - but one bad start (6 ER, 4 HR vs the White Sox) sitting
+        # inside the L5 window at 40% weight was enough to push his vuln
+        # score to 54.3 (broadly "vulnerable"). He threw a shutout-quality
+        # game. The l5_bad_start_count/l5_start_count fields now let this be
+        # told apart: with exactly 1 bad start out of a real 4-5 start
+        # sample, the L5 weight is cut roughly in half (a single bad outing
+        # is still real information, just not the same strength of evidence
+        # as a confirmed multi-start trend). With 2+ bad starts, weight is
+        # UNCHANGED at the full 40% - that is genuine trend evidence, same
+        # standard the extreme-L2-blowup branch above already uses.
+        _l5_w = 0.40
+        _bad_ct = getattr(p, "l5_bad_start_count", 0)
+        _start_ct = getattr(p, "l5_start_count", 0)
+        if _bad_ct == 1 and _start_ct >= 4:
+            _l5_w = 0.20   # single outlier amid an otherwise real sample - half weight
+        _base_hr9 = _l5_w * p.l5_hr9 + (1.0 - _l5_w) * p.hr9
 
     # Also blend K/9 and BB/9 from L5 when available
     if p.l5_hr9 > 0 and p.l5_ip >= 10.0:
@@ -35075,6 +35136,9 @@ def main():
                 _p.l2_hr9  = _l5e.get("l2_hr9", 0.0)
                 _p.l2_ip   = _l5e.get("l2_ip",  0.0)
                 _p.first_start_of_season = bool(_l5e.get("first_start_of_season", False))
+                _p.l5_bad_start_count = _l5e.get("l5_bad_start_count", 0)
+                _p.l5_start_count     = _l5e.get("l5_start_count", 0)
+                _p.l5_hr9_stdev       = _l5e.get("l5_hr9_stdev", 0.0)
                 if _p.recent_hr_factor == 1.0:   # don't overwrite PITCHER_OVERRIDES
                     _p.recent_hr_factor = _l5e["recent_hr_factor"]
 
