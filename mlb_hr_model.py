@@ -22777,17 +22777,30 @@ def _stack_tracker_hits(_txt):
 
 
 def _stack_tracker_notes(_txt):
-    """Full TRACKING lines for the pick card. Zero conviction, zero ranking."""
+    """Compact TRACKING lines for the pick card. Zero conviction, zero ranking.
+    SIMPLIFIED Aug 24 2026 (Harrison's directive): the prior version appended
+    the FULL multi-sentence noise-level essay (mined rate, split-half figures,
+    firing window, the entire "402,955-stack search / shuffled outcomes"
+    paragraph) verbatim, once per stack, on EVERY batter it fired on. On a
+    single card that repeated the identical ~90-word disclaimer 3+ times,
+    burying the real grades under invalidated statistical context. Harrison:
+    "It's not helpful to see all of that invalidated context, muddying my
+    pick analysis."
+    THE UNDERLYING TRACKING IS UNCHANGED - _grade_rate() still accumulates a
+    real live rate every run, in case a future re-audit finds these stacks
+    have stopped decaying. Only the DISPLAY was cut: one line, the current
+    live rate and its live sample size, a single short "tracking only, no
+    credit" tag. The full methodology (deduped-marker count, shuffle-null
+    comparison, per-stack decay figures) still lives in the _STACK_TRACKERS
+    header comment above and in the glossary - remove it from there too only
+    if it stops being useful for someone auditing the model itself.
+    """
     out = []
     for _sid, _kind, _name, _members, _mined, _halves, _window, _why in _stack_tracker_hits(_txt):
         _live = _grade_rate("stk_" + _sid.lower().replace("-", "_"), _mined)
         out.append(
-            f"\U0001F517 {_sid} {_name} ({_kind.upper()} STACK TRACKER): "
-            f"{' + '.join(_members)} \u2192 {_live} (mined {_mined}, split-half {_halves}, "
-            f"window {_window}). \u26A0\uFE0F NOISE-LEVEL \u2014 exhaustive 402,955-stack search over "
-            f"93 deduped markers; shuffled outcomes produced an equal or better best stack "
-            f"(HR 51.4% vs real 50.0%; HIT 93.8% vs real 93.5%). Every HR stack roughly "
-            f"HALVES across its own window. ZERO conviction credit \u2014 tracking only."
+            f"\U0001F517 {_sid} {_name}: {_live} live \u2014 tracking only, no credit "
+            f"(see glossary for methodology)"
         )
     return out
 
