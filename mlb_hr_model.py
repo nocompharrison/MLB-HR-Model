@@ -18600,7 +18600,19 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     elif _iso_val >= 0.220:
         notes.append(f"💪 Strong ISO: {_iso_val:.3f} — meets 0.220 power threshold")
     if _xiso_val > 0 and _xiso_val != _iso_val and (_xiso_val - _iso_val) >= 0.030:
-        notes.append(f"📈 ISO regression candidate: xISO {_xiso_val:.3f} vs ISO {_iso_val:.3f} — power due to convert")
+        # ── POLARITY CORRECTED Aug 25 2026 (Jul1-Aug24 audit, n=3,517) ──────
+        # This note previously read "power due to convert" and was cited as a
+        # bullish signal. Measured on 261 fires across 46 slates: 22 HRs =
+        # 8.4% (0.59x base 14.25%), and it held in BOTH months (Jul 3/70,
+        # Aug 19/191). Stratified permutation p = 0.997 - significant in the
+        # NEGATIVE direction. xISO running ahead of ISO is not stored-up power
+        # waiting to convert; it is a batter whose contact quality is not
+        # producing results, which persists.
+        notes.append(
+            f"⛔ AUDIT-F1 ISO-REGRESSION FADE: xISO {_xiso_val:.3f} vs ISO {_iso_val:.3f} "
+            f"— historically a NEGATIVE HR signal, not a positive one: 8.4% HR "
+            f"(22/261, 0.59x, 46 slates, both months, perm p=0.997). Treat as NEG-class caution."
+        )
     if pitcher.hr9 >= 1.5: notes.append(f"💣 Pitcher HR-prone (HR/9: {pitcher.hr9:.2f})")
     if pitcher.prop_k_line > 0:
         k_per_9 = (pitcher.prop_k_line / 5.0) * 9
@@ -18703,8 +18715,22 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         if _is_short_start:
             _ss_extra = 0
             if score >= 60:
-                _ss_extra = 3
-                notes.append(f"⚠️ Short-start alert: {sp_ip:.1f} IP projected — bullpen exposure; high score amplifies miss risk (-{_ss_extra} pts)")
+                # ── DOCK REMOVED Aug 25 2026 (Jul1-Aug24 audit, n=3,517) ────
+                # Was: _ss_extra = 3 (-3 conv). The dock's own trigger
+                # condition (short start AND score>=60) measured 67/304 =
+                # 22.0% HR (1.55x, perm p=0.001), replicating in both months
+                # (Jul 36/155, Aug 31/149). Same-score batters WITHOUT a short
+                # start: 135/919 = 14.7% (1.03x). The penalty was pointed at
+                # the strongest slice of the high-score board. Bullpen
+                # exposure raises HR variance - which is what a HR prop wants.
+                # Kept as an INFORMATIONAL note with the measured rate so the
+                # card still surfaces the bullpen context.
+                _ss_extra = 0
+                notes.append(
+                    f"🔓 SHORT-START × HIGH SCORE: {sp_ip:.1f} IP projected — bullpen exposure. "
+                    f"POSITIVE for HR at this score tier: 22.0% HR (67/304, 1.55x, 40 slates, "
+                    f"both months, perm p=0.001). -3 pt dock removed Aug 25 2026."
+                )
             else:
                 if _is_first_start:
                     pass   # first-start note already covers this — skip bullpen-exposure language
@@ -18712,6 +18738,63 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                     notes.append(f"⚠️ Short-start alert: {sp_ip:.1f} IP projected — bullpen exposure (data: neutral/negative for HRs)")
         else:
             notes.append(f"⏱️ SP market: {sp_ip:.1f} IP expected")
+
+    # ═══════════════════════════════════════════════════════════════════════
+    # AUDIT TRACKING FLAGS — added Aug 25 2026
+    # Source: exhaustive depth-3 combinatorial sweep of the Jul 1 - Aug 24 2026
+    # panel (50 slates, n=3,517, HR base 14.25%), with a 100-shuffle
+    # slate-stratified search-wide permutation null. HR pair-rules beat that
+    # null at EVERY support tier (n>=30 through n>=200); these are the rules
+    # that (a) cleared the null, (b) converted in BOTH July and August, and
+    # (c) have a mechanism.
+    #
+    # ⚠️ THESE CARRY ZERO CONVICTION POINTS AND DO NOT AFFECT SCORE, CONV,
+    # RANK, OR SLOT SELECTION. They are display-only for 15-20 slates. Promote
+    # to scoring only after re-testing on Aug 26+ data (>=1.6x to survive).
+    # Every note prints its own n so it can never be cited without the sample.
+    # ═══════════════════════════════════════════════════════════════════════
+    try:
+        _au_odds = getattr(batter, 'hr_over_price', 0.0) or 0.0
+        _au_whr  = getattr(batter, '_cached_whr', None)
+        _au_vuln = pitcher_vuln_score(pitcher)
+        _au_band = (250 <= _au_odds <= 350)
+        # The audit measured "NUCLEAR" by matching the literal note text (which
+        # covers NUCLEAR / SUPER NUCLEAR / ELITE NUCLEAR alike), so match the
+        # same way here rather than re-deriving a pm/power proxy that would
+        # select a different population than the 123 rows the 2.28x came from.
+        _au_nuke = any("NUCLEAR" in str(_n) for _n in notes)
+
+        # A1 - hr_prob>=0.20 + NUCLEAR : 40/123 = 32.5% (2.28x), Jul 24/66, Aug 16/57, 41 slates
+        if hr_prob >= 0.20 and _au_nuke:
+            notes.append("🧪 AUDIT-A1 PROB20+NUCLEAR: 32.5% HR (40/123, 2.28x, 41 slates, "
+                         "Jul 24/66 · Aug 16/57) [TRACKING — no conv points]")
+
+        # A2 - WHR>=75 + odds 250-350 : 40/124 = 32.3% (2.26x), Jul 24/65, Aug 16/59, 45 slates
+        if _au_whr is not None and _au_whr >= 75 and _au_band:
+            notes.append("🧪 AUDIT-A2 HOT-WHR+ODDS-BAND: 32.3% HR (40/124, 2.26x, 45 slates, "
+                         "Jul 24/65 · Aug 16/59) [TRACKING — no conv points]")
+
+        # A3 - hr_prob>=0.20 + short start : 43/142 = 30.3% (2.13x), Jul 20/62, Aug 23/80, 40 slates
+        if hr_prob >= 0.20 and _is_short_start:
+            notes.append("🧪 AUDIT-A3 PROB20+SHORT-START: 30.3% HR (43/142, 2.13x, 40 slates, "
+                         "Jul 20/62 · Aug 23/80) [TRACKING — no conv points]")
+
+        # A3b - odds 250-350 + short start : 60/211 = 28.4% (2.00x), Jul 37/110, Aug 23/101, 47 slates
+        #       Largest-n rule in the audit to beat the pairs-only null at n>=150.
+        if _au_band and _is_short_start:
+            notes.append("🧪 AUDIT-A3b ODDS-BAND+SHORT-START: 28.4% HR (60/211, 2.00x, 47 slates, "
+                         "Jul 37/110 · Aug 23/101) [TRACKING — no conv points]")
+
+        # A4 - Vuln>=56 + Edge<+5 : 20/53 = 37.7% (2.65x), Jul 11/31, Aug 9/22, 25 slates
+        #      POSITIVE EDGE IS BAD - independently re-confirmed on this window.
+        #      _edge_pct_val = (hr_prob - market implied) * 100, the same sign
+        #      convention as the CSV "Edge vs Mkt" column the audit measured on.
+        if _au_vuln >= 56 and _edge_pct_val < 5.0:
+            notes.append("🧪 AUDIT-A4 VULN56+EDGE<5: 37.7% HR (20/53, 2.65x, 25 slates, "
+                         "Jul 11/31 · Aug 9/22) [TRACKING — no conv points]")
+    except Exception as _au_err:
+        notes.append(f"ℹ️ AUDIT flags skipped (non-fatal): {_au_err}")
+
     if pitcher.prop_er_line >= 3.5:
         notes.append(f"💣 SP market: {pitcher.prop_er_line:.1f} ER expected")
     if batter.form_factor >= 1.15: notes.append("📈 Hot recent form")
@@ -27776,6 +27859,88 @@ def _live_rate_pair(marker: str, kind: str = "hr", fb_l5: str = "", fb_all: str 
 
 
 import re as _re_live
+
+
+def audit_clean_outcomes(df, hr_col="Home Runs", hit_col="Hits"):
+    """Drop sentinel/unresolved outcome rows before ANY backtest or post-mortem.
+    A real MLB batter has never hit 10 HR in a game; 10 is a write failure.
+    Added Aug 25 2026 after the value silently manufactured a false
+    'top rule' (pwr<77 AND odds<=450 = 11/17 HR, 9 of which were sentinels)."""
+    import pandas as _pd
+    _hr = _pd.to_numeric(df[hr_col], errors="coerce")
+    _ht = _pd.to_numeric(df[hit_col], errors="coerce")
+    _bad = (_hr >= 10) | (_ht >= 10)
+    if _bad.any():
+        try:
+            print(f"[audit_clean_outcomes] dropped {int(_bad.sum())} sentinel rows "
+                  f"(outcome >= 10): {list(df.loc[_bad].iloc[:, 1])[:10]}")
+        except Exception:
+            pass
+    return df[_hr.notna() & _ht.notna() & ~_bad].copy()
+
+
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# AUDIT PROSE DEMOTION — added Aug 25 2026
+# These markers each fired on >=100 batter-slates in the Jul1-Aug24 panel with
+# no measurable effect on EITHER outcome (HR lift 0.93-1.07x, hit lift
+# 0.96-1.04x, all permutation p > 0.05). Several are near-universal: 
+# MULTI-BBE PITCHER fires on 93% of the board, SHARP HIT on 65%,
+# PITCHER TARGET MATCH HR on 62% - a flag that fires on two-thirds of
+# everything cannot discriminate within it.
+# They are NOT deleted and NOT removed from any scoring path. They are moved
+# to a single collapsed context line so they stop reading as supporting
+# evidence in pick-card prose.
+# ═══════════════════════════════════════════════════════════════════════════
+AUDIT_DEMOTED_MARKERS = (
+    "MULTI-BBE PITCHER", "PITCHER TARGET MATCH HR", "SHARP HIT", "CROSS-PITCH BBE SURGE",
+    "CROSS-PITCH T1", "Platoon edge", "FL confirms better environment",
+    "SECOND BAT ON THIS ARM", "SCREAM HIT", "ICE COLD", "Cold flag",
+    "Red hot last 5", "Good pull air rate", "Z-CONTACT BOOST", "MID-HS DULL",
+    "Crushes", "ENV BOOST", "SWEET★", "ERA understated", "BULLPEN VULN",
+    "PITCH DOM hit", "SHARP LINE", "SIGNAL HR", "HIGH-USAGE",
+)
+# Measured rates, for the record (HR lift / hit lift, n):
+#   MULTI-BBE PITCHER 0.99x / 1.00x (3268)   SHARP HIT 1.03x / 1.02x (2285)
+#   PITCHER TARGET MATCH HR 1.03x / 0.99x (2181)   Platoon edge 1.04x / 1.01x (1968)
+#   CROSS-PITCH BBE SURGE 1.04x / 0.98x (1579)   SECOND BAT 0.94x / 0.99x (1228)
+#   SCREAM HIT 1.02x / 1.00x (926)   ICE COLD 1.02x / 1.01x (903)
+#   Z-CONTACT BOOST 1.05x / 1.03x (848)   MID-HS DULL 0.99x / 1.02x (688)
+#   T4 MATCH 1.00x / 0.99x (598)   ERA understated 1.01x / 1.03x (306)
+# NOT demoted, deliberately:
+#   "Good solid contact"  - hit p=0.001 on n=1,973. Small (1.04x) but real, and
+#                           it is the strongest hit marker in the file.
+#   "T4 match"            - measured 1.00x on n=598 and belongs on this list,
+#                           but the literal string "T4" is embedded inside the
+#                           PITCHER TARGET MATCH HR note text, which is already
+#                           demoted. Substring-matching "T4" on its own would
+#                           over-capture. Handled by the parent note.
+#   NEG05 / NEG06 / PASS(HR) / ODDS FADE - these are NEGATIVE and working
+#                           (0.73-0.81x). They are evidence, just not the
+#                           flattering kind. Never demote them.
+
+def audit_demote_notes(notes, enabled=True):
+    """Partition a note list into (kept, demoted-context-line).
+    Returns a new list; does not mutate the input. Display-only."""
+    if not enabled or not notes:
+        return list(notes)
+    kept, demoted = [], []
+    for _n in notes:
+        _s = str(_n)
+        if any(_m in _s for _m in AUDIT_DEMOTED_MARKERS):
+            demoted.append(_s)
+        else:
+            kept.append(_n)
+    if demoted:
+        kept.append(
+            f"📎 CONTEXT ONLY ({len(demoted)} markers, no measured HR/hit effect on the "
+            f"Jul1-Aug24 panel — demoted from evidence Aug 25 2026): "
+            + " · ".join(_d.split("(")[0].split("—")[0].strip()[:44] for _d in demoted)
+        )
+    return kept
+
+
 
 # ══ SOURCE-OF-TRUTH NOTE (Aug 5 2026) ══════════════════════════════════════
 # FantasyLabsMLB.csv has FOUR sections per slate, not three:
