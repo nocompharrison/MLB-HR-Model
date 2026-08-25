@@ -33800,6 +33800,63 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🟡 Moderate hit",    "Some signals present but not fully aligned. Situational — check flags before betting."),
         ("⚪✅ Weak+Clean hit",  "HS≥47 Rank 4+ with NO negative flags (no K-danger/cold/weak-vs-pitcher). May24: 7/7=100%. Watch these."),
         ("⚪ Weak hit",        "HS≥47 Rank 4+ WITH negative flags (K-danger/cold/weak-vs). ~55.9% (29sl). Below baseline."),
+        # ── AUDIT-DERIVED GRADES (Aug 25 2026) ──────────────────────────────
+        # Source: exhaustive depth-3 combinatorial sweep of the Jul 1 - Aug 24 2026
+        # panel (50 slates, n=3,517, HR base 14.25%, Hit base 61.3%), with a
+        # 100-shuffle slate-stratified search-wide permutation null and a
+        # July<->August replication check. Full audit report:
+        # MLB_HR_Model_signal_audit_2026-07-01_to_2026-08-24.md
+        ("🧪 AUDIT-A1 PROB20+NUCLEAR", "TRACKING, zero conviction points. HR Prob≥0.20 AND any NUCLEAR-family note fired. "
+                                       "40/123 = 32.5% HR (2.28x baseline), Jul 24/66, Aug 16/57, 41 slates, "
+                                       "beats the 100-shuffle search-wide null. Mechanism: two independent estimators "
+                                       "(model's own probability tier, barrel/blast contact quality) agreeing."),
+        ("🧪 AUDIT-A2 HOT-WHR+ODDS-BAND", "TRACKING, zero conviction points. WHR≥75% AND HR odds in 250-350. "
+                                       "40/124 = 32.3% HR (2.26x), Jul 24/65, Aug 16/59, 45 slates. "
+                                       "Mechanism: hot recent contact form combined with the already-validated "
+                                       "short-odds band — the market is pricing power, not current form."),
+        ("🧪 AUDIT-A3 PROB20+SHORT-START", "TRACKING, zero conviction points. HR Prob≥0.20 AND Short-start alert active. "
+                                       "43/142 = 30.3% HR (2.13x), Jul 20/62, Aug 23/80, 40 slates. "
+                                       "Paired with AUDIT-A3b below — see the Aug 25 2026 removal of the old "
+                                       "-3 conv Short-start×high-score dock, which was pointed the wrong direction."),
+        ("🧪 AUDIT-A3b ODDS-BAND+SHORT-START", "TRACKING, zero conviction points. HR odds 250-350 AND Short-start alert active. "
+                                       "60/211 = 28.4% HR (2.00x), Jul 37/110, Aug 23/101, 47 slates — the largest-n "
+                                       "rule in the audit to beat the pairs-only search-wide null at n≥150."),
+        ("🧪 AUDIT-A4 VULN56+EDGE<5", "TRACKING, zero conviction points. Pitcher Vuln≥56 AND Edge vs Mkt <+5pp. "
+                                       "20/53 = 37.7% HR (2.65x), Jul 11/31, Aug 9/22, 25 slates. Independently "
+                                       "re-confirms the existing rule that positive edge (model more bullish than "
+                                       "the market) is a bad sign — extreme vulnerability the market hasn't caught up to."),
+        ("⛔ AUDIT-F1 ISO-REGRESSION FADE", "REPLACES the old '📈 ISO regression candidate' note (Aug 25 2026 — "
+                                       "polarity corrected, prior wording read 'power due to convert' and was cited "
+                                       "as bullish). Fires when xISO exceeds ISO by ≥0.030. Measured: 22/261 = 8.4% HR "
+                                       "(0.59x baseline), Jul 3/70, Aug 19/191, 46 slates, both months, stratified "
+                                       "permutation p=0.997 (significant in the NEGATIVE direction). Treat as a "
+                                       "NEG-class caution, not a power-upside note. No conviction points were ever "
+                                       "attached to this note — this is a prose/labeling correction only."),
+        ("🔓 SHORT-START × HIGH SCORE", "REPLACES the old '⚠️ Short-start alert ... amplifies miss risk (-3 pts)' note "
+                                       "(Aug 25 2026 — the -3 conv dock was REMOVED). The dock's own trigger condition "
+                                       "(short start AND Score≥60) measured 67/304 = 22.0% HR (1.55x baseline), "
+                                       "Jul 36/155, Aug 31/149, both months, permutation p=0.001 — the dock was "
+                                       "penalizing the single best-converting slice of the high-score board. Same-score "
+                                       "batters WITHOUT a short start: 135/919 = 14.7% (1.03x, essentially base rate). "
+                                       "Bullpen exposure raises HR variance, which is what a HR prop wants. Other "
+                                       "Short-start handling elsewhere in the model (the ×0.97 hit-side form haircut, "
+                                       "park-suppression penalties) is UNCHANGED — only this specific high-score dock "
+                                       "was removed."),
+        ("📎 CONTEXT ONLY (...)", "Display mechanism, not a grade. When present, collapses markers with NO measured "
+                                       "HR or hit effect on the Jul1-Aug24 panel (lift 0.93-1.07x HR / 0.96-1.04x hit, "
+                                       "all permutation p>0.05, each on n≥100) into a single trailing note instead of "
+                                       "letting them read as supporting evidence. Covers: MULTI-BBE PITCHER (93% of "
+                                       "the board), PITCHER TARGET MATCH HR (62%), SHARP HIT (65%), CROSS-PITCH BBE "
+                                       "SURGE, CROSS-PITCH T1, Platoon edge, FL confirms better environment, SECOND "
+                                       "BAT ON THIS ARM, SCREAM HIT, ICE COLD, Cold flag, Red hot last 5, Good pull "
+                                       "air rate, Z-CONTACT BOOST, MID-HS DULL, Crushes, ENV BOOST, SWEET★, ERA "
+                                       "understated, BULLPEN VULN, PITCH DOM hit, SHARP LINE, SIGNAL HR, HIGH-USAGE. "
+                                       "These markers are NOT removed from scoring — a ranker rebuilt from only "
+                                       "holdout-surviving variables previously scored 1.66x vs. the full composite's "
+                                       "2.63x, so joint information is preserved. This is a prose display change only. "
+                                       "NOT demoted despite similar lift: 'Good solid contact' (hit p=0.001, n=1,973 — "
+                                       "small but real, strongest hit marker in the file); NEG05/NEG06/PASS(HR)/ODDS "
+                                       "FADE (these are genuine NEGATIVE signals at 0.73-0.81x and are working correctly)."),
     ]
 
     _hdr(ws, row, 1, "Flag / Zone", bg="2E75B6", size=10)
