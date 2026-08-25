@@ -18803,9 +18803,23 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         # referenced concepts that don't exist as live signals (a CSV-only "no grade
         # row" property, and an engineered "cluster count" that isn't computed in this
         # file) and were deliberately NOT implemented rather than approximated.
+        # BUG FIX (Aug 25 2026, same day as ship): the SHARP HIT exclusion was
+        # checking `notes` (HR-side), but 🎯 SHARP HIT is generated entirely
+        # inside compute_hit_score() and only ever lands in `_hit_notes` — it
+        # NEVER appears in `notes`. The exclusion was therefore always True
+        # regardless of whether SHARP HIT actually fired, a no-op since the
+        # moment this shipped. Caught when T1 fired on 5 Astros batters facing
+        # Will Warren in one slate; 2 of the 5 (Harris, Wade) had a genuine
+        # SHARP HIT note that should have excluded them. Also note (separately,
+        # NOT a bug): STANDALONE EXTREME L2 is a pitcher-level flag — identical
+        # text/value for every batter facing that pitcher — so a real multi-
+        # batter fire on one extreme-L2 pitcher is mechanically possible even
+        # with the exclusion working correctly. The historical n=6/6-slates
+        # never happened to hit that case, which is why it looked like a
+        # one-per-slate signal until today.
         _au_t1 = (any("STANDALONE EXTREME L2" in str(_n) for _n in notes)
                   and any("Mild regression risk" in str(_n) for _n in (_hit_notes or []))
-                  and not any("SHARP HIT" in str(_n) for _n in notes))
+                  and not any("SHARP HIT" in str(_n) for _n in (_hit_notes or [])))
         if _au_t1:
             notes.append("🧪 AUDIT-T1 (EXPLORATORY, n=6): STANDALONE EXTREME L2 + Mild "
                          "regression risk + NOT SHARP HIT — 6/6 HR, Jul 4/6 · Aug 2/6, 6 slates "
@@ -33870,6 +33884,37 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                        "20/53 = 37.7% HR (2.65x), Jul 11/31, Aug 9/22, 25 slates. Independently "
                                        "re-confirms the existing rule that positive edge (model more bullish than "
                                        "the market) is a bad sign — extreme vulnerability the market hasn't caught up to."),
+        # ── EXPLORATORY 100%-precision triples (added Aug 25 2026, SAME audit as A1-A4 above) ──
+        # n=6 EACH in the historical panel — far below the n≥25 bar A1-A4 cleared. 12 total
+        # 100%-precision triples existed at n≥6 vs an 8-shuffle search-wide null of
+        # [0,0,3,0,2,3,3,2] — real count above every null draw, but 8 shuffles is nowhere near
+        # enough to call this significant (p<0.125 at best, not <0.05). NEVER cite these as
+        # evidence and NEVER attach conviction points — a single miss drops any one of them
+        # from 100% to 83%. Two other 100%-precision triples from the same sweep are NOT
+        # implemented: one referenced whether a batter's HR grade CELL ended up blank in the
+        # finished CSV export (a downstream write-time property, not knowable while the model
+        # is still scoring that batter) and one referenced an engineered "cluster count" that
+        # was built for the audit search and was never a real variable in this file. Both would
+        # have needed an invented proxy definition to implement, which would silently misrepresent
+        # what the historical n=6 actually measured — so they were left out rather than faked.
+        # ⚠️ IF ANY OF T1/T2/T3 FIRES ON MORE THAN 1-2 BATTERS IN A SINGLE SLATE, TREAT THAT AS A
+        # WARNING SIGN, NOT CONFIRMATION. The historical rate is 6 fires spread across 46 slates
+        # (~0.13 fires/slate on average) — several fires in one slate is far more consistent with
+        # the live predicate being broader than the one that produced the n=6 (e.g. a component
+        # note firing more liberally under current data than it did across Jul-Aug) than with the
+        # rule suddenly proving itself. Check whether the fires share a pitcher/game before
+        # trusting any of them.
+        ("🧪 AUDIT-T1 (EXPLORATORY)", "TRACKING ONLY, zero conviction points, n=6. STANDALONE EXTREME L2 AND "
+                                       "Mild regression risk (hit-side note) AND NOT SHARP HIT. 6/6 = 100% HR, "
+                                       "Jul 4/6, Aug 2/6, 6 slates. See the n=6 warning above — do not treat "
+                                       "any single-slate multi-fire as validation."),
+        ("🧪 AUDIT-T2 (EXPLORATORY)", "TRACKING ONLY, zero conviction points, n=6. Score≥68 AND PITCH "
+                                       "CORRELATION AND NOT DP SHARP HR. 6/6 = 100% HR, Jul 3/6, Aug 3/6, 4 "
+                                       "slates. Score is hard-capped at 68.0 in this model, so this fires only "
+                                       "at the exact ceiling."),
+        ("🧪 AUDIT-T3 (EXPLORATORY)", "TRACKING ONLY, zero conviction points, n=6. Score≥68 AND NOT DP SHARP "
+                                       "HR AND BZM-SZN. 6/6 = 100% HR, Jul 3/6, Aug 3/6, 4 slates. Same 68.0 "
+                                       "score-ceiling caveat as AUDIT-T2."),
         ("⛔ AUDIT-F1 ISO-REGRESSION FADE", "REPLACES the old '📈 ISO regression candidate' note (Aug 25 2026 — "
                                        "polarity corrected, prior wording read 'power due to convert' and was cited "
                                        "as bullish). Fires when xISO exceeds ISO by ≥0.030. Measured: 22/261 = 8.4% HR "
