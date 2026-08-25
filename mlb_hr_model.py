@@ -19288,6 +19288,52 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     }
     _pf9_pass_count = sum(1 for v, _ in _pf9_gates.values() if v)
 
+    # ── AUDIT-A5/A6/A7 (added Aug 25 2026, same audit as A1-A4/T1-T3 above) ──
+    # Placed HERE, not with A1-A4, because these three specifically need
+    # _pf9_air / _pf9_pass_count (this block, just computed above) and the DTP
+    # FILTER PASS text (which only lands in _result.notes, appended later at
+    # _pf_result_note — never in the plain `notes` list). A1-A4/T1-T3 sit
+    # earlier in the function because everything they need is already resolved
+    # there; this is not a duplicate mechanism, just the earliest point where
+    # ALL THREE of these specific inputs are actually available.
+    #
+    # Original audit history: these three were first found as depth-3 rules
+    # keyed to a retired flag ("ODDS BOOST", active on only 7 slates in early
+    # July before being turned off) which made them non-implementable live.
+    # Re-tested Aug 25 2026 substituting the ALWAYS-TRACKED odds variable for
+    # that retired flag, using ODDS BOOST's own observed historical range
+    # (+172 to +340) rather than guessing a cutoff, across the FULL 50-slate
+    # Jul1-Aug24 panel (n=3,517) instead of just the 7 slates where the old
+    # flag happened to be on. All three converted in both months.
+    try:
+        _au_odds2 = getattr(batter, 'hr_over_price', 0.0) or 0.0
+        _au_dtp_pass = bool(_pf_result_note) and ('DTP FILTER PASS' in _pf_result_note
+                                                    or 'DTP FILTER' in _pf_result_note and 'PASS' in _pf_result_note)
+        _au_new_notes = []
+
+        # A5 — Air%>60 AND HR/PA rate>=0.06 AND odds<=340
+        #      18/52 = 34.6% HR (2.43x), Jul 13/31, Aug 5/21, 32 slates, perm p=0.002
+        if _pf9_air > 60.0 and rate >= 0.06 and _au_odds2 <= 340:
+            _au_new_notes.append("🧪 AUDIT-A5 AIR60+HRPA06+ODDS340: 34.6% HR (18/52, 2.43x, 32 "
+                                  "slates, Jul 13/31 · Aug 5/21) [TRACKING — no conv points]")
+
+        # A6 — HR Prob>=0.19 AND DTP FILTER PASS (any tier) AND odds<=340
+        #      20/59 = 33.9% HR (2.38x), Jul 12/28, Aug 8/31, 34 slates, perm p=0.001
+        if hr_prob >= 0.19 and _au_dtp_pass and _au_odds2 <= 340:
+            _au_new_notes.append("🧪 AUDIT-A6 PROB19+DTPPASS+ODDS340: 33.9% HR (20/59, 2.38x, 34 "
+                                  "slates, Jul 12/28 · Aug 8/31) [TRACKING — no conv points]")
+
+        # A7 — HR Prob>=0.19 AND PropFinder gates>=8/9 AND odds<=340
+        #      13/42 = 31.0% HR (2.17x), Jul 10/26, Aug 3/16, 29 slates, perm p=0.014
+        if hr_prob >= 0.19 and _pf9_pass_count >= 8 and _au_odds2 <= 340:
+            _au_new_notes.append("🧪 AUDIT-A7 PROB19+PFGATES8+ODDS340: 31.0% HR (13/42, 2.17x, 29 "
+                                  "slates, Jul 10/26 · Aug 3/16) [TRACKING — no conv points]")
+
+        if _au_new_notes:
+            _result.notes = list(_result.notes or []) + _au_new_notes
+    except Exception as _au_err2:
+        _result.notes = list(_result.notes or []) + [f"ℹ️ AUDIT A5-A7 flags skipped (non-fatal): {_au_err2}"]
+
     # ══ FB50 LOFT — retuned PropFinder threshold (Aug 16 2026) ═══════════════
     # BACKTEST: the nine PropFinder thresholds have never been tuned. Swept
     # every gate over its own quantile grid on JULY (n=1,541, 27 slates), then
@@ -33884,6 +33930,27 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                        "20/53 = 37.7% HR (2.65x), Jul 11/31, Aug 9/22, 25 slates. Independently "
                                        "re-confirms the existing rule that positive edge (model more bullish than "
                                        "the market) is a bad sign — extreme vulnerability the market hasn't caught up to."),
+        # ── A5/A6/A7 (added Aug 25 2026) — recovered from a retired flag ──────
+        # All three were ORIGINALLY found keyed to "ODDS BOOST", a marker retired
+        # Jul 2026 that only fired on 7 early-July slates — meaning they looked
+        # non-implementable at first (n=10-12, 80-83% precision, but entirely
+        # inside a 7-slate window with no live equivalent). Re-tested substituting
+        # the ALWAYS-TRACKED odds variable for the retired flag, using ODDS
+        # BOOST's own observed historical range (+172 to +340, not a guessed
+        # cutoff), across the FULL 50-slate Jul1-Aug24 panel instead of just the
+        # 7 slates the old flag covered. The honest rate is lower than the
+        # original 80-83% (which was an artifact of the tiny 7-slate window) but
+        # is real, durable, and clears both months.
+        ("🧪 AUDIT-A5 AIR60+HRPA06+ODDS340", "TRACKING, zero conviction points. Air%>60 AND model HR/PA "
+                                       "rate≥0.06 AND HR odds≤340. 18/52 = 34.6% HR (2.43x), Jul 13/31, "
+                                       "Aug 5/21, 32 slates, permutation p=0.002."),
+        ("🧪 AUDIT-A6 PROB19+DTPPASS+ODDS340", "TRACKING, zero conviction points. HR Prob≥0.19 AND DTP FILTER "
+                                       "PASS (any tier: 5+/7 or full 7/7) AND HR odds≤340. 20/59 = 33.9% HR "
+                                       "(2.38x), Jul 12/28, Aug 8/31, 34 slates, permutation p=0.001 — the "
+                                       "best-supported of the three (n=59, largest slate count)."),
+        ("🧪 AUDIT-A7 PROB19+PFGATES8+ODDS340", "TRACKING, zero conviction points. HR Prob≥0.19 AND PropFinder "
+                                       "9-gate count≥8 AND HR odds≤340. 13/42 = 31.0% HR (2.17x), Jul 10/26, "
+                                       "Aug 3/16, 29 slates, permutation p=0.014."),
         # ── EXPLORATORY 100%-precision triples (added Aug 25 2026, SAME audit as A1-A4 above) ──
         # n=6 EACH in the historical panel — far below the n≥25 bar A1-A4 cleared. 12 total
         # 100%-precision triples existed at n≥6 vs an 8-shuffle search-wide null of
