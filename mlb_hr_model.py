@@ -18792,6 +18792,40 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         if _au_vuln >= 56 and _edge_pct_val < 5.0:
             notes.append("🧪 AUDIT-A4 VULN56+EDGE<5: 37.7% HR (20/53, 2.65x, 25 slates, "
                          "Jul 11/31 · Aug 9/22) [TRACKING — no conv points]")
+
+        # ── EXPLORATORY 100%-precision triples (Aug 25 2026 audit, depth-3 sweep) ──
+        # n=6 EACH — far below the n>=25 bar the A1-A4 flags cleared. Real count of
+        # 100%-precision triples at n>=6 was 12 vs an 8-shuffle null of [0,0,3,0,2,3,3,2]
+        # (real above every null draw, but 8 shuffles is nowhere near enough to call
+        # this significant - p<0.125 at best). These are logged for tracking ONLY;
+        # never cite as evidence, never attach conviction points, and a single miss
+        # drops any one of these to 83%. Two other 100% triples from the same sweep
+        # referenced concepts that don't exist as live signals (a CSV-only "no grade
+        # row" property, and an engineered "cluster count" that isn't computed in this
+        # file) and were deliberately NOT implemented rather than approximated.
+        _au_t1 = (any("STANDALONE EXTREME L2" in str(_n) for _n in notes)
+                  and any("Mild regression risk" in str(_n) for _n in (_hit_notes or []))
+                  and not any("SHARP HIT" in str(_n) for _n in notes))
+        if _au_t1:
+            notes.append("🧪 AUDIT-T1 (EXPLORATORY, n=6): STANDALONE EXTREME L2 + Mild "
+                         "regression risk + NOT SHARP HIT — 6/6 HR, Jul 4/6 · Aug 2/6, 6 slates "
+                         "[TRACKING ONLY — n too small to trust, no conv points]")
+
+        _au_t2 = (score >= 68.0
+                  and any("PITCH CORRELATION" in str(_n) for _n in notes)
+                  and not any("DP SHARP HR" in str(_n) for _n in notes))
+        if _au_t2:
+            notes.append("🧪 AUDIT-T2 (EXPLORATORY, n=6): Score≥68 + PITCH CORRELATION + "
+                         "NOT DP SHARP HR — 6/6 HR, Jul 3/6 · Aug 3/6, 4 slates "
+                         "[TRACKING ONLY — n too small to trust, no conv points]")
+
+        _au_t3 = (score >= 68.0
+                  and not any("DP SHARP HR" in str(_n) for _n in notes)
+                  and any("BZM-SZN" in str(_n) for _n in notes))
+        if _au_t3:
+            notes.append("🧪 AUDIT-T3 (EXPLORATORY, n=6): Score≥68 + NOT DP SHARP HR + "
+                         "BZM-SZN — 6/6 HR, Jul 3/6 · Aug 3/6, 4 slates "
+                         "[TRACKING ONLY — n too small to trust, no conv points]")
     except Exception as _au_err:
         notes.append(f"ℹ️ AUDIT flags skipped (non-fatal): {_au_err}")
 
@@ -20906,6 +20940,17 @@ def _sheet_detailed(wb, scores, top_n):
         def _note_priority(note):
             """Group notes: 1=positive signal, 2=context/market, 3=concern, 99=suppress (dead signals only)."""
             n = note.lower()
+            # ── AUDIT-DERIVED GRADES (Aug 25 2026) — MUST be checked before the
+            # generic substring rules below. AUDIT-A3/A3b legitimately contain
+            # the word "short-start" (they measure a POSITIVE interaction with
+            # it) and were being swept into Concerns by the generic
+            # 'short-start' in n rule. AUDIT-F1 is the one AUDIT grade that
+            # SHOULD be a concern (it's a fade) but its wording ("NEGATIVE HR
+            # signal") didn't match any existing negative keyword, so it was
+            # falling into the positive bucket by default. Keying off the
+            # AUDIT- code itself instead of note wording fixes both.
+            if 'audit-f' in n: return 3     # AUDIT-F1 ISO-regression fade — concern, by design
+            if 'audit-a' in n: return 1     # AUDIT-A1/A2/A3/A3b/A4 — all positive HR signals
             # Suppress only confirmed dead/noisy signals (0 HR in 5 slates)
             if 'bat speed' in n: return 99
             if 'line move' in n and 'mild' in n and 'sharp' not in n: return 99
