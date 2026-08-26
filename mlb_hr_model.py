@@ -7074,7 +7074,7 @@ def _save_run_snapshot(all_scores: list):
                 continue
             # Retrieve conv and sig from the sharp_picks sidecar if available
             _conv = getattr(sc, 'conv_score', 0.0) or 0.0
-            _sig  = getattr(sc, 'sig_score',  0.0) or 0.0
+            _sig  = getattr(sc, 'signal_score',  0.0) or 0.0
             data[sc.batter_name] = {
                 "vuln":  round(getattr(sc, 'pitcher_vuln', 0.0) or 0.0, 2),
                 "score": round(sc.score or 0.0, 2),
@@ -17384,7 +17384,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # Jul22 post-mortem: all 8 HR getters faced Vu44-52 arms; warm bats dominated.
     # Baldwin Jul23 (Sig12, Vu47.1, PM1.056, HS48.7) validated with HR.
     # Conv boost: +6 pts. Implemented at n=66 (sufficient sample).
-    _sig_for_swv   = getattr(batter, 'sig_score', 0) or 0
+    _sig_for_swv   = getattr(batter, 'signal_score', 0) or 0
     _hs_for_swv    = _hit_score_rs
     _vuln_for_swv  = _vuln_rs
     _pm_for_swv    = pm
@@ -23316,7 +23316,25 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
     # 🔥 SIG+PM COMBO — Sig≥5 + PM≥1.04 — backtest: 18.1% HR (47/259) Hit: 57.5% +10.5%
     # Dual-purpose grade: strong for both HR and hits
-    _sig_val = getattr(sc, 'sig_score', 0) or 0
+    # ⚠️ WIRING FIX (Aug 26 2026): all 6 reads of the batter's signal score in
+    # this file used the string 'sig_score', which is never assigned anywhere
+    # in the codebase - the real attribute, set once at _result.signal_score
+    # = _sig, is 'signal_score'. getattr()'s default silently absorbed the
+    # miss, so every dependent feature always saw sig=0 (or 99/-1 at the
+    # other call sites using different defaults), regardless of the batter's
+    # real signal score. Confirmed live: 15/15 sampled batters showed
+    # sig=0.0 with zero variance on the Aug 26 2026 diagnostic run.
+    # CONFIRMED IMPACT: HR02, HR04, and HR05 (archetypes gating on Sig>=3)
+    # could never fire - proven separately by finding 7 real batters across
+    # 6 slates who cleared HR05's other two conditions (Env, PM) but were
+    # blocked by a sig value that was never real. Likely ALSO affected before
+    # this fix: SIG_PM_GRADE below, the HS47-55/Sig0 fade (mislabeled as a
+    # genuine cold-bat pattern when it was actually firing on EVERY batter),
+    # the BGS Sig>=15 conviction block, and the v4244 Vuln42-44 guard.
+    # All 6 call sites fixed in one pass; see the 'sig_score' -> 'signal_score'
+    # replacement. Verify on the next live run that Sig values now show real
+    # variance (they should range roughly 0-20+, not sit at a single value).
+    _sig_val = getattr(sc, 'signal_score', 0) or 0
     SIG_PM_GRADE = (
         _sig_val >= 5
         and pm >= 1.04
@@ -24807,31 +24825,6 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _arch_feats["pitch_vuln"] = float(_pitcher_target_score)
     if _pr_usage:
         _arch_feats["pitch_usage"] = float(_pr_usage)
-
-    # ══ DIAGNOSTIC (Aug 26 2026) ══════════════════════════════════════════
-    # HR02/HR04/HR05/HR06 recorded ZERO fires across 25 real August slates
-    # in a text-search of the archived output. Checked whether this is
-    # genuine rarity: for HR05 specifically (pure quant, no qualitative/text
-    # dependency - Env 0.93-0.97 + PM>=1.10 + Sig 3-7), 7 real batters across
-    # 6 different slates cleared all three conditions on the SHEET'S OWN
-    # displayed Env/PM/Sig values, and 2 of them converted. None fired. That
-    # rules out rarity as the explanation for HR05 at least.
-    # This exact failure shape has a documented precedent in this same
-    # function (see the "WIRING FIX 2026-07-27" comment above, edge feature
-    # was computed from the wrong underlying quantity and every
-    # edge-gated archetype silently never fired for a period). env_factor's
-    # assignment chain was checked and looks correct on read, but the
-    # comparison hasn't been confirmed live - this prints the actual
-    # feature dict evaluate_archetypes() sees, for the first 15 batters per
-    # run, so it can be diffed directly against the sheet's own Env/PM/Sig
-    # columns on the next live slate. Capped at 15/run; remove once resolved.
-    if globals().setdefault('_ARCH_DIAG_COUNT', [0])[0] < 15:
-        globals()['_ARCH_DIAG_COUNT'][0] += 1
-        print(f"     🔬 ARCH feature snapshot [{getattr(sc,'name', getattr(sc,'batter_name','?'))}]: "
-              f"env={_arch_feats.get('env')} pm={_arch_feats.get('pm')} sig={_arch_feats.get('sig')} "
-              f"score={_arch_feats.get('score')} power={_arch_feats.get('power')} "
-              f"vuln={_arch_feats.get('vuln')} odds={_arch_feats.get('odds')} edge={_arch_feats.get('edge')} "
-              f"| HR05 would_fire={_arch_bt(_arch_feats,'env',0.93,0.97) and _arch_ge(_arch_feats,'pm',1.10) and _arch_bt(_arch_feats,'sig',3,8)}")
 
     # 🎯 PERFECT-RATE TRACKING — log only, zero conviction and zero ranking effect.
     try:
@@ -26465,7 +26458,7 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # from PRIME LOCK where Sig 7-11 = 66.7% — high Sig helps when pitcher
     # IS vulnerable, hurts when pitcher is NOT.
     # Note: Sig≥15 within PRIME LOCK is NOT blocked — gate only applies to CONVICTION.
-    _bgs_sig_val   = getattr(sc, 'sig_score', 0.0) or 0.0
+    _bgs_sig_val   = getattr(sc, 'signal_score', 0.0) or 0.0
     _bgs_sig_block = (_bgs_sig_val >= 15.0)
 
     _bgs_hard_neg = (
@@ -31630,7 +31623,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         # SIG0+PM1.085-1.10+Env1.06-1.10 (100%/5.81x n=5) has NO Vuln gate —
         # it fires on any Vuln when Sig=0, PM is in the sharp zone, and Env is warm.
         # A batter with Vu42-44 could fire this 100% flash but get blocked here.
-        _sig_val_v4244  = getattr(sc, 'sig_score', -1) or -1
+        _sig_val_v4244  = getattr(sc, 'signal_score', -1) or -1
         _pm_val_v4244   = getattr(sc, 'pitch_matchup_score', 0.0) or pm or 0.0
         _env_val_v4244  = getattr(sc, 'env_multiplier', 1.0) or 1.0
         _sig0_flash_v4244 = (
@@ -37190,7 +37183,7 @@ def main():
         pm   = getattr(sc, 'pitch_matchup_score', 0.0) or 0.0
         env  = getattr(sc, 'env_multiplier',      1.0) or 1.0
         park = getattr(sc, 'park_hr_factor',      1.0) or 1.0
-        sig  = getattr(sc, 'sig_score',           99)  or 99
+        sig  = getattr(sc, 'signal_score',           99)  or 99
         odds = getattr(sc, 'hr_over_price',       999) or 999
         pw   = getattr(sc, 'batter_power',
                        getattr(sc, 'power_score', 0)) or 0.0
