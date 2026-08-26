@@ -14532,6 +14532,7 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # v3 uses isotonic regression fitted OUT-OF-FOLD with slate-grouped splits
     # (batters in one slate share pitcher/park/weather, so row-wise CV leaks).
     # Falls back to the legacy sigmoid only if no calibrator has been fitted yet.
+    _hr_prob_raw_diag = hr_prob   # snapshot before calibration, for the diagnostic below
     if _V3_OK:
         _cal = V3.IsotonicCalibrator.load("hr_calibrator.json")
         if _cal is not None:
@@ -14546,6 +14547,27 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
         if 0.001 < hr_prob < 0.999:
             _lr = math.log(hr_prob / (1.0 - hr_prob))
             hr_prob = round(1.0 / (1.0 + math.exp(-(_HR_CAL_A * _lr + _HR_CAL_B))), 4)
+
+    # ══ DIAGNOSTIC (Aug 26 2026) ══════════════════════════════════════════
+    # HR Prob collapsed to ~12 distinct values across 81 batters on the Aug
+    # 26 2026 slate (30 batters sharing one exact value), when Aug 21-25 all
+    # showed healthy 74-93 distinct values. Ruled out with direct evidence:
+    # the calibrator itself (console showed "cached, fitted 2026-08-21,
+    # n=2004" - unchanged from the healthy days), Vuln (correctly identical
+    # WITHIN a pitcher group, as designed - not the cause of cross-pitcher
+    # clustering), Score (different Scores land on the same Prob), and the
+    # <74/<78 power rate cap (0% of today's batters even qualify, same as
+    # Aug 25's 1.2%). This prints the RAW pre-calibration probability next
+    # to the FINAL calibrated one for the first 15 batters/run, to show
+    # directly whether the Monte Carlo simulation itself is already
+    # producing clustered raw values, or whether calibration is collapsing
+    # an otherwise-varied raw distribution. Capped at 15/run; remove once
+    # resolved.
+    if globals().setdefault('_HRPROB_DIAG_COUNT', [0])[0] < 15:
+        globals()['_HRPROB_DIAG_COUNT'][0] += 1
+        print(f"     🔬 HRPROB snapshot [{getattr(batter,'name', getattr(batter,'batter_name','?'))}]: "
+              f"raw={_hr_prob_raw_diag:.4f}  final={hr_prob:.4f}  "
+              f"final_rate={_final_rate:.4f}  power={_batter_power_val:.1f}")
 
     # Hit prop score
     # k_vs_opp already populated by batch prefetch above (no API call here)
