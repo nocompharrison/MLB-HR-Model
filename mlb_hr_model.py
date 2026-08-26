@@ -24808,6 +24808,31 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if _pr_usage:
         _arch_feats["pitch_usage"] = float(_pr_usage)
 
+    # ══ DIAGNOSTIC (Aug 26 2026) ══════════════════════════════════════════
+    # HR02/HR04/HR05/HR06 recorded ZERO fires across 25 real August slates
+    # in a text-search of the archived output. Checked whether this is
+    # genuine rarity: for HR05 specifically (pure quant, no qualitative/text
+    # dependency - Env 0.93-0.97 + PM>=1.10 + Sig 3-7), 7 real batters across
+    # 6 different slates cleared all three conditions on the SHEET'S OWN
+    # displayed Env/PM/Sig values, and 2 of them converted. None fired. That
+    # rules out rarity as the explanation for HR05 at least.
+    # This exact failure shape has a documented precedent in this same
+    # function (see the "WIRING FIX 2026-07-27" comment above, edge feature
+    # was computed from the wrong underlying quantity and every
+    # edge-gated archetype silently never fired for a period). env_factor's
+    # assignment chain was checked and looks correct on read, but the
+    # comparison hasn't been confirmed live - this prints the actual
+    # feature dict evaluate_archetypes() sees, for the first 15 batters per
+    # run, so it can be diffed directly against the sheet's own Env/PM/Sig
+    # columns on the next live slate. Capped at 15/run; remove once resolved.
+    if globals().setdefault('_ARCH_DIAG_COUNT', [0])[0] < 15:
+        globals()['_ARCH_DIAG_COUNT'][0] += 1
+        print(f"     🔬 ARCH feature snapshot [{getattr(sc,'name', getattr(sc,'batter_name','?'))}]: "
+              f"env={_arch_feats.get('env')} pm={_arch_feats.get('pm')} sig={_arch_feats.get('sig')} "
+              f"score={_arch_feats.get('score')} power={_arch_feats.get('power')} "
+              f"vuln={_arch_feats.get('vuln')} odds={_arch_feats.get('odds')} edge={_arch_feats.get('edge')} "
+              f"| HR05 would_fire={_arch_bt(_arch_feats,'env',0.93,0.97) and _arch_ge(_arch_feats,'pm',1.10) and _arch_bt(_arch_feats,'sig',3,8)}")
+
     # 🎯 PERFECT-RATE TRACKING — log only, zero conviction and zero ranking effect.
     try:
         _pr_feats = dict(park=_arch_feats.get("park"), pm=_arch_feats.get("pm"),
