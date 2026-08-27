@@ -25030,15 +25030,37 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # 13.1% (112/852) citation, confirming the vuln split added no signal.
         if power is not None and 77.0 <= float(power) < 83.0:
             _r = _grade_rate("neg_mid_power_dead_hr", "13.1%  112/852")
-            _firing_grades.append(
-                f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
-                f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
-                f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
-                f"⚠️ NO OVERRIDE BY VULN (re-tested Aug 17 2026, full panel — see comment above): "
-                f"the earlier Vu>=52 exemption did not hold at the boundary (p=0.90 on the tight "
-                f"band) and is retired. ⚠️ Month split uneven (Jun 16.7%, Jul 11.8%) and Power "
-                f"populated on 41 of 95 slates. Deprioritize only."
-            )
+            # ── SCORE OVERRIDE (added 2026-08-27) ───────────────────────────
+            # NEG06 requires Power 77-83 by definition, so a Power-based
+            # override is structurally impossible here (that's the OTHER
+            # override, see NEG05 below). Tested a genuinely different
+            # candidate - Score - that the existing "NO OVERRIDE BY VULN"
+            # note above never checked. Real result on the 26-slate Aug
+            # panel (n=779 NEG06 fires, base 10.78%): Score>=65 subgroup
+            # (n=62) runs 19.35% HR (1.79x, p=0.0317) - a real, significant
+            # improvement, not just "less bad." Not the same claim the Vuln
+            # re-test already rejected.
+            _neg06_score_override = (_nsc is not None and _nsc >= 65.0)
+            if _neg06_score_override:
+                _firing_grades.append(
+                    f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
+                    f"→ {_r} HR (mined 13.1% 112/852, 0.81x baseline for the flag). "
+                    f"⚠️ SCORE OVERRIDE APPLIES: Score={_nsc:.0f}>=65 — this specific "
+                    f"subgroup runs 19.35% HR (1.79x, p=0.0317, n=62, 26sl), ABOVE the "
+                    f"general slate base, not merely less-bad. Treat as softened/neutral, "
+                    f"not a hard deprioritize. (Distinct from the Vuln override tested "
+                    f"and rejected Aug 17 2026 — that was a different candidate.)"
+                )
+            else:
+                _firing_grades.append(
+                    f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
+                    f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
+                    f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
+                    f"⚠️ NO OVERRIDE BY VULN (re-tested Aug 17 2026, full panel — see comment above): "
+                    f"the earlier Vu>=52 exemption did not hold at the boundary (p=0.90 on the tight "
+                    f"band) and is retired. Score>=65 WOULD override (see above) but this batter's "
+                    f"Score={_nsc if _nsc is not None else 'N/A'} doesn't clear it. Deprioritize."
+                )
         # Exhaustive-stack trackers. Emitted LAST so they read as commentary and
         # never influence ordering. _sgt_text is the combined notes + firing
         # grades + flags for this batter, which is the same text the backtest
@@ -25079,15 +25101,35 @@ def _score_sharp(sc, rank: int = 99) -> dict:
 
         if ("Suppressing L5" in _sgt_text) and vuln is not None and float(vuln) < 52.0:
             _r = _grade_rate("neg_supp_l5_low_vuln_hr", "8.1%  10/124")
-            _firing_grades.append(
-                f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
-                f"→ {_r} HR (mined 8.1% 10/124, 0.49x, p=0.005, boot95 0.75, 26sl; gate WIDENED "
-                f"47→52 on Jul 31 2026 — every sub-52 band is suppressed (0.29-0.53x) while Vu52+ "
-                f"inverts to 2.36x). "
-                f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
-                f"not running hot — the 'buy low' read does not apply here. Mirror of the existing rule "
-                f"exempting Vu≥52 arms from the suppressing-L5 cap. Deprioritize."
-            )
+            # ── POWER OVERRIDE (added 2026-08-27) ───────────────────────────
+            # Real result on the 26-slate Aug panel (n=520 NEG05 fires, base
+            # 11.54%): Power>=87 subgroup (n=98) runs 19.39% HR (1.68x,
+            # p=0.0128) - real, significant, and above general slate base,
+            # not just less-bad. Score>=65 alone was weaker here (p=0.16,
+            # not significant) - Power is the real NEG05 override, not Score
+            # (the reverse of NEG06, where Power>=87 is structurally
+            # impossible and Score is the real override - see above).
+            _neg05_power_override = (power is not None and float(power) >= 87.0)
+            if _neg05_power_override:
+                _firing_grades.append(
+                    f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
+                    f"→ {_r} HR (mined 8.1% 10/124, 0.49x baseline for the flag). "
+                    f"⚠️ POWER OVERRIDE APPLIES: Pwr={float(power):.0f}>=87 — this specific "
+                    f"subgroup runs 19.39% HR (1.68x, p=0.0128, n=98, 26sl), ABOVE the "
+                    f"general slate base, not merely less-bad. Treat as softened/neutral, "
+                    f"not a hard deprioritize."
+                )
+            else:
+                _firing_grades.append(
+                    f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
+                    f"→ {_r} HR (mined 8.1% 10/124, 0.49x, p=0.005, boot95 0.75, 26sl; gate WIDENED "
+                    f"47→52 on Jul 31 2026 — every sub-52 band is suppressed (0.29-0.53x) while Vu52+ "
+                    f"inverts to 2.36x). "
+                    f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
+                    f"not running hot — the 'buy low' read does not apply here. Pwr>=87 WOULD override "
+                    f"(see above) but this batter's Power={power if power is not None else 'N/A'} doesn't "
+                    f"clear it. Deprioritize."
+                )
     except Exception:
         pass
 
