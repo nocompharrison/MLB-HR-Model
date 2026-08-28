@@ -203,6 +203,28 @@ except ImportError:
 import base64
 import os
 
+# ── DIAGNOSTIC: cmd-prompt vs Excel/objShell launch comparison ────────────────
+# Temporary — prints and logs cwd + interpreter so a cmd-prompt run and an
+# Excel-launched run can be diffed to find the source of the speed gap.
+# Remove once the cause (working directory / interpreter mismatch) is confirmed.
+try:
+    _diag_line = (
+        f"[LAUNCH DIAG] {datetime.now().isoformat()} | "
+        f"cwd={os.getcwd()} | "
+        f"sys.executable={sys.executable} | "
+        f"argv0={sys.argv[0] if sys.argv else 'N/A'} | "
+        f"__file__={os.path.abspath(__file__) if '__file__' in dir() else 'N/A'}"
+    )
+    print(_diag_line)
+    try:
+        _diag_log_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "launch_diag.log")
+    except Exception:
+        _diag_log_path = "launch_diag.log"
+    with open(_diag_log_path, "a", encoding="utf-8") as _diag_f:
+        _diag_f.write(_diag_line + "\n")
+except Exception as _diag_err:
+    print(f"[LAUNCH DIAG] failed to log: {_diag_err}")
+
 # ── CONFIGURE THESE TWO VALUES ───────────────────────────────────────────────
 _GH_REPO  = "nocompharrison/MLB-HR-Model"   # e.g. "hlee145/mlb-model-files"
 def _load_gh_token() -> str:
@@ -37843,4 +37865,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()
