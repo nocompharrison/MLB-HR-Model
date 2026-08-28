@@ -25041,6 +25041,25 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             # improvement, not just "less bad." Not the same claim the Vuln
             # re-test already rejected.
             _neg06_score_override = (_nsc is not None and _nsc >= 65.0)
+            _neg06_pf_gates = getattr(sc, "pf9_gate_count_raw", None)
+            # ── BROADER RESCUE RULE (added 2026-08-28) ──────────────────────
+            # A genuinely different, broader candidate than the Score-specific
+            # override above - applies to EITHER NEG flag, not flag-specific.
+            # Real result on the 27-slate Aug panel (n=1139 combined NEG05/06
+            # fires): batters clearing (Odds<=400 OR PF gates>=5) who did NOT
+            # already clear their flag-specific override run 12.54% HR
+            # (n=558), p=0.775 vs the GENERAL slate base (14.43%) -
+            # statistically indistinguishable from unflagged normal, i.e. NOT
+            # actually suppressed. The remainder (clears neither) runs 7.42%
+            # (n=418), p=0.0002 vs general base - genuinely suppressed, trust
+            # the flag fully there. The two subgroups differ from each other
+            # at p=0.0106. Single-panel result, not yet independently
+            # re-tested a second time the way the Score/Power overrides were -
+            # treat as real but fresher evidence.
+            _neg06_rescue = (not _neg06_score_override) and (
+                (_od_v is not None and 0 < _od_v <= 400.0) or
+                (_neg06_pf_gates is not None and _neg06_pf_gates >= 5)
+            )
             if _neg06_score_override:
                 _firing_grades.append(
                     f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
@@ -25052,15 +25071,28 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                     f"and rejected Aug 17 2026 — that was a different candidate.)"
                 )
             else:
-                _firing_grades.append(
-                    f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
-                    f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
-                    f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
-                    f"⚠️ NO OVERRIDE BY VULN (re-tested Aug 17 2026, full panel — see comment above): "
-                    f"the earlier Vu>=52 exemption did not hold at the boundary (p=0.90 on the tight "
-                    f"band) and is retired. Score>=65 WOULD override (see above) but this batter's "
-                    f"Score={_nsc if _nsc is not None else 'N/A'} doesn't clear it. Deprioritize."
-                )
+                if _neg06_rescue:
+                    _firing_grades.append(
+                        f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
+                        f"→ {_r} HR (mined 13.1% 112/852, 0.81x baseline for the flag). "
+                        f"⚠️ RESCUE RULE APPLIES: Odds={_od_v:.0f} or PF gates={_neg06_pf_gates} clears "
+                        f"(Odds≤400 OR gates≥5) — this subgroup runs 12.54% HR, statistically "
+                        f"indistinguishable from the general slate base (p=0.775), i.e. NOT actually "
+                        f"suppressed. Treat as neutral, not a hard deprioritize. (Weaker claim than the "
+                        f"Score override above — this doesn't elevate above base, just neutralizes the flag.)"
+                    )
+                else:
+                    _firing_grades.append(
+                        f"🚫 NEG06 MID-POWER DEAD ZONE: Pwr={float(power):.0f} in 77-83 "
+                        f"→ {_r} HR (mined 13.1% 112/852, 0.81x; band 0.86x vs Pwr<77 at 1.02x and Pwr≥84 at "
+                        f"1.11x — power is U-shaped and the MIDDLE is the worst place on the axis). "
+                        f"⚠️ NO OVERRIDE BY VULN (re-tested Aug 17 2026, full panel — see comment above): "
+                        f"the earlier Vu>=52 exemption did not hold at the boundary (p=0.90 on the tight "
+                        f"band) and is retired. Score>=65 WOULD override (see above) but this batter's "
+                        f"Score={_nsc if _nsc is not None else 'N/A'} doesn't clear it, and neither the "
+                        f"rescue rule (Odds≤400 OR PF gates≥5) applies — genuinely suppressed (7.42% HR "
+                        f"vs 14.43% general base, p=0.0002). Deprioritize."
+                    )
         # Exhaustive-stack trackers. Emitted LAST so they read as commentary and
         # never influence ordering. _sgt_text is the combined notes + firing
         # grades + flags for this batter, which is the same text the backtest
@@ -25110,6 +25142,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             # (the reverse of NEG06, where Power>=87 is structurally
             # impossible and Score is the real override - see above).
             _neg05_power_override = (power is not None and float(power) >= 87.0)
+            _neg05_pf_gates = getattr(sc, "pf9_gate_count_raw", None)
+            # ── BROADER RESCUE RULE (added 2026-08-28) ──────────────────────
+            # Same rescue rule as NEG06 above - applies to either flag. See
+            # that comment block for the full derivation; n=1139 combined
+            # NEG05/06 fires, single 27-slate panel, not yet independently
+            # re-tested a second time.
+            _neg05_rescue = (not _neg05_power_override) and (
+                (_od_v is not None and 0 < _od_v <= 400.0) or
+                (_neg05_pf_gates is not None and _neg05_pf_gates >= 5)
+            )
             if _neg05_power_override:
                 _firing_grades.append(
                     f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
@@ -25120,16 +25162,28 @@ def _score_sharp(sc, rank: int = 99) -> dict:
                     f"not a hard deprioritize."
                 )
             else:
-                _firing_grades.append(
-                    f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
-                    f"→ {_r} HR (mined 8.1% 10/124, 0.49x, p=0.005, boot95 0.75, 26sl; gate WIDENED "
-                    f"47→52 on Jul 31 2026 — every sub-52 band is suppressed (0.29-0.53x) while Vu52+ "
-                    f"inverts to 2.36x). "
-                    f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
-                    f"not running hot — the 'buy low' read does not apply here. Pwr>=87 WOULD override "
-                    f"(see above) but this batter's Power={power if power is not None else 'N/A'} doesn't "
-                    f"clear it. Deprioritize."
-                )
+                if _neg05_rescue:
+                    _firing_grades.append(
+                        f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
+                        f"→ {_r} HR (mined 8.1% 10/124, 0.49x baseline for the flag). "
+                        f"⚠️ RESCUE RULE APPLIES: Odds={_od_v:.0f} or PF gates={_neg05_pf_gates} clears "
+                        f"(Odds≤400 OR gates≥5) — this subgroup runs 12.54% HR, statistically "
+                        f"indistinguishable from the general slate base (p=0.775), i.e. NOT actually "
+                        f"suppressed. Treat as neutral, not a hard deprioritize. (Weaker claim than the "
+                        f"Power override above — this doesn't elevate above base, just neutralizes the flag.)"
+                    )
+                else:
+                    _firing_grades.append(
+                        f"🚫 NEG05 GENUINE SUPPRESSION: Suppressing L5 + Vuln={float(vuln):.0f}<52 "
+                        f"→ {_r} HR (mined 8.1% 10/124, 0.49x, p=0.005, boot95 0.75, 26sl; gate WIDENED "
+                        f"47→52 on Jul 31 2026 — every sub-52 band is suppressed (0.29-0.53x) while Vu52+ "
+                        f"inverts to 2.36x). "
+                        f"An arm suppressing HR over its last five AND rating below the vuln gate is executing, "
+                        f"not running hot — the 'buy low' read does not apply here. Pwr>=87 WOULD override "
+                        f"(see above) but this batter's Power={power if power is not None else 'N/A'} doesn't "
+                        f"clear it, and neither the rescue rule (Odds≤400 OR PF gates≥5) applies — genuinely "
+                        f"suppressed (7.42% HR vs 14.43% general base, p=0.0002). Deprioritize."
+                    )
     except Exception:
         pass
 
