@@ -7200,24 +7200,31 @@ def _fetch_via_savant_standard(year: int) -> dict:
         ),
     ]
     print(f"  📡 Savant standard stats CSV ({year})...")
-    raw = None
-    for url in urls:
-        raw = _get_text(url)
-        if raw and len(raw) > 500:
-            break
-    if not raw or len(raw) < 500:
-        raise ValueError("Empty or blocked response from all Savant standard URLs")
 
+    # ── RESTRUCTURED 2026-08-31 ────────────────────────────────────────────
+    # THE BUG: the old loop broke out on the FIRST url returning >500 chars,
+    # then parsed only that one. If that response came back with different
+    # column names than col_map expects, every row yielded an empty name (or
+    # empty `mapped`) and the function raised "Too few batters from Savant
+    # standard: 0" — WITHOUT ever trying the second url, which might have
+    # parsed fine. A 200-response with unexpected columns silently consumed
+    # the whole fallback chain.
+    # That is exactly what happened on 2026-08-31: the run logged
+    # "Too few batters from Savant standard: 0" (note: 0, not a fetch error —
+    # so a response WAS received and parsed to nothing), the model fell back
+    # to exitvelo barrels for the whole slate, and because exitvelo does not
+    # supply FB%, every batter ended up on the FB% placeholder.
+    # THE FIX: parse each url in turn and accept the first that actually
+    # yields usable rows. A response that parses to nothing no longer blocks
+    # the alternatives.
     import csv, io
-    reader = csv.DictReader(io.StringIO(raw))
-    result = {}
+    import pandas as pd
     col_map = {
         "exit_velocity_avg":    "EV",
         "launch_angle_avg":     "launch_angle_avg",
         "barrel_batted_rate":   "Barrel%",
         "hard_hit_percent":     "HardHit%",
         "sweet_spot_percent":   "SweetSpot%",
-        "pull_percent":         "Pull%",
         "pull_percent":         "Pull%",
         "pull_air_percent":     "PullAir%",
         "pull_brl_percent":     "PullBrl%",
@@ -7227,36 +7234,93 @@ def _fetch_via_savant_standard(year: int) -> dict:
         "xwoba":                "xwOBA",
         "xiso":                 "ISO",
         "player_id":            "playerid",
-        "iz_contact_percent":   "zone_contact_rate",  # in-zone contact % → zone_contact_rate
+        "iz_contact_percent":   "zone_contact_rate",
         "oz_contact_percent":   "oz_contact_rate",
         "zone_swing_percent":   "zone_swing_rate",
         "sprint_speed":         "sprint_speed",
         "swinging_strike_percent": "swstr_pct",
         "f_strike_percent":        "first_pitch_strike_pct_batter",
     }
-    for row in reader:
-        # Name: "last_name, first_name" or "player_name" depending on endpoint
-        raw_name = row.get("last_name, first_name") or row.get("player_name", "")
-        if ", " in raw_name:
-            last, first = raw_name.split(", ", 1)
-            name = f"{first.strip()} {last.strip()}"
-        else:
-            name = raw_name.strip()
-        if not name:
+
+    def _savant_name(_row):
+        """Resolve a batter name from any of the header shapes Savant emits.
+
+        WHY THIS EXISTS (2026-08-31). The old code only ever tried
+        `row.get("last_name, first_name")`. That key survives csv.DictReader
+        ONLY if Savant QUOTES the header field, because the header text itself
+        contains a comma. Verified:
+            '"last_name, first_name",flyballs_percent'  -> ['last_name, first_name', ...]  ✅
+            'last_name, first_name,flyballs_percent'    -> ['last_name', ' first_name', ...] ❌
+            'last_name,first_name,flyballs_percent'     -> ['last_name', 'first_name', ...]   ❌
+        In the two unquoted shapes the lookup returns None for EVERY row, each
+        row is skipped for having a blank name, and the function raises
+        "Too few batters from Savant standard: 0" — which is exactly the error
+        seen on the 2026-08-31 run (0 parsed, not a fetch failure). Whether
+        Savant actually changed its quoting is unconfirmed, but handling all
+        three shapes costs nothing and removes the most likely cause.
+        Falls back through: combined column -> separate columns -> player_name.
+        """
+        _rn = _row.get("last_name, first_name")
+        if _rn:
+            return (f"{_rn.split(', ', 1)[1].strip()} {_rn.split(', ', 1)[0].strip()}"
+                    if ", " in _rn else _rn.strip())
+        # Separate columns (note the possible leading space on ' first_name'
+        # when the header was unquoted and split on the comma).
+        _ln = (_row.get("last_name") or "").strip()
+        _fn = (_row.get("first_name") or _row.get(" first_name") or "").strip()
+        if _ln and _fn:
+            return f"{_fn} {_ln}"
+        _pn = (_row.get("player_name") or "").strip()
+        if ", " in _pn:
+            return f"{_pn.split(', ', 1)[1].strip()} {_pn.split(', ', 1)[0].strip()}"
+        return _pn
+
+    def _parse_savant_csv(_raw):
+        _reader = csv.DictReader(io.StringIO(_raw))
+        _fields = _reader.fieldnames or []
+        _out = {}
+        for _row in _reader:
+            _nm = _savant_name(_row)
+            if not _nm:
+                continue
+            _mapped = {}
+            for _s, _d in col_map.items():
+                _v = _row.get(_s, "")
+                try:
+                    _mapped[_d] = float(_v) if _v not in ("", "null", "None") else None
+                except Exception:
+                    pass
+            if _mapped:
+                _out[_nm] = pd.Series(_mapped)
+        return _out, _fields
+
+    result, _last_fields, _last_len = {}, [], 0
+    for _ui, url in enumerate(urls, 1):
+        raw = _get_text(url)
+        if not raw or len(raw) < 500:
+            print(f"     … Savant url {_ui}/{len(urls)}: empty or blocked "
+                  f"({0 if not raw else len(raw)} chars)")
             continue
-        import pandas as pd
-        mapped = {}
-        for src_col, dst_col in col_map.items():
-            val = row.get(src_col, "")
-            try:
-                mapped[dst_col] = float(val) if val not in ("", "null", "None") else None
-            except Exception:
-                pass
-        if mapped:
-            result[name] = pd.Series(mapped)
+        _parsed, _fields = _parse_savant_csv(raw)
+        if len(_parsed) >= 20:
+            result, _last_fields, _last_len = _parsed, _fields, len(raw)
+            break
+        # Parsed to nothing/too little — say WHY, then try the next url rather
+        # than aborting the whole source.
+        print(f"     … Savant url {_ui}/{len(urls)}: {len(raw)} chars received but only "
+              f"{len(_parsed)} batter(s) parsed — column names likely changed.")
+        print(f"        header actually returned ({len(_fields)} cols): {_fields[:18]}")
+        _missing = [c for c in ('last_name, first_name', 'player_name') if c not in _fields]
+        if len(_missing) == 2:
+            print(f"        ⚠️ NEITHER name column present — every row yields a blank "
+                  f"name and is skipped. This alone produces a 0-batter parse.")
+        _have = [c for c in col_map if c in _fields]
+        print(f"        of {len(col_map)} mapped columns, {len(_have)} present: {_have[:10]}")
+        _last_fields, _last_len = _fields, len(raw)
 
     if len(result) < 20:
-        raise ValueError(f"Too few batters from Savant standard: {len(result)}")
+        raise ValueError(f"Too few batters from Savant standard: {len(result)} "
+                         f"(last response {_last_len} chars, {len(_last_fields)} columns)")
     print(f"  ✅ Savant standard: {len(result)} batters (ISO, FB%, HR/FB)")
     return result
 
@@ -9147,11 +9211,39 @@ def _fetch_via_mlb_stats_api(year: int) -> dict:
                 "Bat": bat_hand,
                 "ISO": iso, "SLG": slg, "OBP": obp, "AVG": avg,
                 "HR/FB": hr_fb, "BB%": bb_pct, "K%": k_pct,
-                "EV": 87.5, "Barrel%": 7.5, "HardHit%": 36.5,
                 "xSLG": slg * 1.02,
                 "xwOBA": obp * 0.95,
-                "FB%": 34.0, "PullAir%": 16.0, "Pull%Air": 16.0,
-                "SweetSpot%": 29.0, "launch_angle_avg": 10.5, "launch_angle_hr_pct": 0.22,
+                # ── FABRICATED COLUMNS REMOVED 2026-08-31 ──────────────────
+                # This block used to emit hardcoded constants for stats the
+                # MLB Stats API does NOT provide:
+                #     "EV": 87.5, "Barrel%": 7.5, "HardHit%": 36.5,
+                #     "FB%": 34.0, "PullAir%": 16.0, "Pull%Air": 16.0,
+                #     "SweetSpot%": 29.0, "launch_angle_avg": 10.5,
+                #     "launch_angle_hr_pct": 0.22
+                # Every one of those is the BatterProfile dataclass default,
+                # written into the row as if it were a measurement.
+                # WHY THAT IS HARMFUL: downstream cannot tell a fabricated
+                # 34.0 from a measured 34.0. The ISO/FB%/HR-FB backfill loop
+                # copies "FB%" whenever the primary source left it None — and
+                # exitvelo barrels never supplies FB% — so EVERY batter ended
+                # up with FB% exactly 34.0 whenever Savant standard CSV was
+                # unavailable. Confirmed on the 2026-08-31 run, where Savant
+                # standard failed ("Too few batters from Savant standard: 0")
+                # and the score-time snapshots showed fb_pct=34.0 for all 216
+                # batters — Baldwin, Olson, Riley, Devers included — while
+                # their barrel_pct and blast_pct were real and varied.
+                # REMOVING them is numerically IDENTICAL downstream: _g() falls
+                # back to the same dataclass defaults when a column is absent.
+                # The difference is honesty — the row now reflects what this
+                # source actually knows, the values are no longer laundered
+                # through a "real data" path, and a future audit can tell the
+                # two apart. Nothing that reads these columns changes value.
+                # ⚠️ NOTE the PropFinder 9-STAT FB% is a DIFFERENT, real field
+                # sourced from L10 BBE data — it was never affected by this
+                # (snapshots show PF9 fb=30.0 alongside fb_pct=34.0). So the
+                # FB50 LOFT / ELITE NUCLEAR gates were NOT broken by this bug;
+                # only batter_power_score's fb_pct term was, where a constant
+                # for every batter contributes nothing to ranking.
             })
             result[name] = row
         except Exception:
@@ -36095,10 +36187,45 @@ def main():
                 if _b_row is None:
                     import unicodedata as _ud_b, re as _re_b
 
+                    # ── SUFFIX STRIPPING (added 2026-08-31) ─────────────────
+                    # THE BUG: _bn_li keys on the LAST token. For a suffixed
+                    # player that token is the suffix, not the surname —
+                    # "Fernando Tatis Jr." -> "f|jr" while the lineup name
+                    # "F. Tatis" -> "f|tatis". They never match, so the batter
+                    # falls through to build_batter_default() with NO season
+                    # stats, and batter_power_score() returns ~46.5 from
+                    # dataclass defaults. That number is indistinguishable
+                    # downstream from a real "weak power" measurement.
+                    # CONFIRMED 2026-08-31 by the UNRESOLVED BATTER probe —
+                    # every unresolved batter on the slate was a suffix player:
+                    #   'Ronald Acuna'  -> Ronald Acuña Jr.   (Power 49.1)
+                    #   'M. Harris'     -> Michael Harris II  (Power 49.9)
+                    #   'F. Tatis'      -> Fernando Tatis Jr. (Power 44.6)
+                    #   'Luis Robert'   -> Luis Robert Jr.
+                    # vs a slate mean of 81.7. Accents were never the problem —
+                    # 'M. Dubon'->'Mauricio Dubón' and 'H. Rodriguez'->'Héctor
+                    # Rodríguez' resolved fine on the same run.
+                    # KNOCK-ON: 18 such rows (0.56%) produced NewConv's entire
+                    # -0.113 power coefficient; drop them and it goes to +0.002.
+                    # These are elite bats (Tatis, Acuña, Witt, Schwarber,
+                    # Bogaerts, Murakami) homering at 61.1% vs a 15.4% base, so
+                    # the model was learning "low Power -> HR" from a join bug.
+                    # 'v' is deliberately NOT stripped — too risky as a real
+                    # standalone token; the listed suffixes are unambiguous.
+                    _NAME_SUFFIXES = {"jr", "sr", "ii", "iii", "iv"}
+
                     def _bn_norm(_s):
-                        return _re_b.sub(r"[^a-z ]", "",
-                                         _ud_b.normalize("NFKD", str(_s))
-                                         .encode("ascii", "ignore").decode().lower().strip())
+                        _n = _re_b.sub(r"[^a-z ]", "",
+                                       _ud_b.normalize("NFKD", str(_s))
+                                       .encode("ascii", "ignore").decode().lower().strip())
+                        # Drop trailing generational suffixes so "fernando
+                        # tatis jr" and "fernando tatis" compare equal. Only
+                        # strip from the END, and never strip down to a single
+                        # token (guards against a surname that IS a suffix).
+                        _p = _n.split()
+                        while len(_p) > 2 and _p[-1] in _NAME_SUFFIXES:
+                            _p.pop()
+                        return " ".join(_p)
 
                     def _bn_li(_s):
                         _n = _bn_norm(_s)
