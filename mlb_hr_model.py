@@ -7181,7 +7181,84 @@ def _fetch_via_savant_standard(year: int) -> dict:
     Pull Baseball Savant expected stats + standard batting CSV.
     Provides: ISO, FB%, HR/FB, plus xSLG, xwOBA, barrel%, EV, HardHit%.
     Falls back gracefully if blocked.
+
+    ⚠️ CURRENTLY DISABLED — see SAVANT_STANDARD_ENABLED below.
     """
+    # ══ TOGGLE (added 2026-08-31) ══════════════════════════════════════════
+    # SAVANT_STANDARD_ENABLED = False parks this source. The function raises
+    # immediately, the caller catches it exactly as it did when Savant was
+    # genuinely failing, and the model falls back to exitvelo barrels — the
+    # path every threshold in this file was built on.
+    #
+    # WHY IT IS OFF. Fixing the BOM made this source work for the first time
+    # (640 batters, real FB%). But it also replaced exitvelo as the primary
+    # source, and Savant's column set produces a materially different Power
+    # distribution:
+    #     median Power 82.8 -> 57.6   (-30.4%)
+    #     p10 78.0 -> 40.4,  p90 88.0 -> 70.9
+    # The old column was artificially COMPRESSED (fabricated league-average
+    # defaults pulled everyone together, which is why 40% of the league used
+    # to clear "Power >= 84"). The new one has real spread. It is arguably the
+    # better measurement — but it is a DIFFERENT SCALE, and every Power
+    # threshold in this model was tuned on the old one.
+    #
+    # MEASURED CONSEQUENCE — every Power-gated rule stopped firing:
+    #     NEG05 override (Pwr>=87)      15.9% -> 0.0%
+    #     PWR88 floor injection         11.5% -> 0.0%
+    #     BACKTEST ELITE band (>=85)    31.1% -> 0.0%
+    #     Flash PWR84 combos            39.9% -> 0.0%
+    #     HR01/HR04 archetypes (>=84)   39.9% -> 0.0%
+    #     NEG06 dead zone (77-83)       45.2% -> 4.0%
+    # Score (-41.6%), HR Prob (-27%) and Sig (median 6 -> 0) all moved too;
+    # all three are computed downstream of Power. Sig specifically has three
+    # of its own internal gates at power>=78/80/81, which went from ~90%/72%/
+    # 64% firing to ~2%/1%/1%.
+    #
+    # WHY NOT JUST RE-TUNE THE THRESHOLDS. Percentile-porting was tested
+    # properly (4,037 archive rows, both scales, real outcomes) and the lift
+    # DOES survive: mean 1.163 -> 1.160, average loss 0.003x per gate. So the
+    # method is sound. The blocker is blast radius, not correctness:
+    #     • 73 live power comparisons across 16 distinct thresholds
+    #     • 218 textual references in grade strings, glossary rows, comments
+    #     • newconv_params.json — power_deadzone (77-82) was fitted TODAY on
+    #       old-scale data; on the new scale that band selects ~3% instead of
+    #       ~37%, so the feature dies and the model needs a refit
+    #     • full_picks.pkl — 13,648 accumulated picks, all old-scale; new ones
+    #       would append at the new scale, permanently mixing the file
+    #     • FantasyLabsMLB.csv — a SECOND regime boundary (a June 12 one
+    #       already exists and is still being worked around)
+    #     • hr_calibrator.json — fitted on hr_prob, itself downstream of power
+    # And the payoff is small: on holdout the new-style score is a slightly
+    # better RANKER (AUC 0.565 vs 0.545) but slightly WORSE at the top-decile
+    # thresholds the rules actually use (1.16x vs 1.21x).
+    #
+    # WHAT IS KEPT while this stays off — all real wins, all still active:
+    #   • BOM strip + multi-shape name parsing (this source now WORKS; it is
+    #     parked, not broken, so re-enabling is a one-line change)
+    #   • Suffix stripping in the batter-name matcher — recovered Tatis,
+    #     Acuña, M. Harris and Luis Robert from bogus ~46 Power values. This
+    #     is the single biggest genuine improvement of the day and it applies
+    #     to the exitvelo path too.
+    #   • Zero-as-missing blanking, the impossible-percent clamp, the
+    #     cached-scale guard, and the UNRESOLVED BATTER probe.
+    # NOTE: the PF9 gates are NOT affected by this toggle. 98% of batters
+    # (99 of 101 on the 2026-08-31 slate) take their 9-STAT values from L10
+    # BBE data, which was always real and comes from a different source.
+    #
+    # TO RE-ENABLE: set SAVANT_STANDARD_ENABLED = True. Do it deliberately,
+    # alongside porting the Power thresholds by percentile (the mapping is
+    # in the session notes: >=88 -> >=70.3, >=87 -> >=66.5, >=85 -> >=63.0,
+    # >=84 -> >=60.3, >=82 -> >=55.6, dead zone 77-82 -> 38.6-55.6) AND
+    # refitting newconv + the calibrator. Not as a quick flip.
+    SAVANT_STANDARD_ENABLED = False
+    if not SAVANT_STANDARD_ENABLED:
+        raise ValueError(
+            "Savant standard source is intentionally DISABLED (toggle at the top of "
+            "_fetch_via_savant_standard). It works, but it shifts the Power scale ~-30% "
+            "and silently switches off every Power-gated rule. Falling back to exitvelo "
+            "barrels, which is what all current thresholds were tuned on."
+        )
+
     # Try two URL formats — the custom leaderboard and the expected-stats endpoint
     urls = [
         (
@@ -9767,6 +9844,43 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
     # source bug as a units error. Judge on NON-ZERO values only, and require
     # a reasonable COUNT of them — a cache where almost nothing has contact
     # data is the real failure mode.
+    if cached_b and len(cached_b) >= 50:
+        try:
+            # ── SOURCE-PROVENANCE CHECK (added 2026-08-31) ─────────────────
+            # The disable toggle in _fetch_via_savant_standard() only affects
+            # FETCHES. A cache written by a Savant run would keep being served
+            # on every subsequent run, so the toggle would appear to do nothing
+            # until the 20-hour window expired — exactly the trap that made a
+            # fixed build produce a byte-identical rankings file earlier today.
+            # Savant maps several columns that exitvelo barrels never emits
+            # (sprint_speed, swstr_pct, zone_contact_rate). Their presence is a
+            # reliable fingerprint of a Savant-derived cache. If Savant is
+            # disabled, such a cache carries the NEW Power scale and must not
+            # be used, regardless of how healthy its values look.
+            _savant_markers = ("swstr_pct", "sprint_speed", "zone_contact_rate")
+            _probe = next(iter(cached_b.values()), None)
+            # NOTE: `getattr(probe, "index", []) or ...` raises on a pandas
+            # Series — Index.__bool__ is ambiguous — and the surrounding
+            # try/except would swallow it, silently disabling this check. Build
+            # the key set explicitly instead.
+            if _probe is None:
+                _keys = set()
+            elif hasattr(_probe, "index"):
+                _keys = set(list(_probe.index))
+            elif hasattr(_probe, "keys"):
+                _keys = set(_probe.keys())
+            else:
+                _keys = set()
+            _looks_savant = any(m in _keys for m in _savant_markers)
+            if _looks_savant:
+                print(f"  ⚠️  CACHED BATTER STATS REJECTED — cache carries Savant-only "
+                      f"columns {[m for m in _savant_markers if m in _keys]}, but the "
+                      f"Savant source is currently DISABLED. That cache holds the NEW "
+                      f"Power scale (~-30% vs every threshold in this model). "
+                      f"Discarding and re-fetching from exitvelo barrels.")
+                cached_b = None
+        except Exception as _spc:
+            print(f"  ⚠️  cache provenance check skipped ({_spc})")
     if cached_b and len(cached_b) >= 50:
         try:
             _hh = sorted(v for v in
