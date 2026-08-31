@@ -7350,6 +7350,62 @@ def _fetch_via_savant_standard(year: int) -> dict:
     if len(result) < 20:
         raise ValueError(f"Too few batters from Savant standard: {len(result)} "
                          f"(last response {_last_len} chars, {len(_last_fields)} columns)")
+    # ── SCALE VALIDATION (added 2026-08-31, after a live regression) ───────
+    # WHAT WENT WRONG. Fixing the BOM made this source work for the first
+    # time — 640 batters, all 20 columns — and Power promptly COLLAPSED
+    # slate-wide: mean 80.7 -> 56.0, median batter -23.1, worst -44.3
+    # (Yandy Diaz 79.3->45.7, Jeremy Peña 77.9->43.3, J. Crawford 67.0->22.7).
+    # Those are ordinary regulars, so the values themselves were wrong, not
+    # the matching.
+    # The arithmetic points at a units mismatch. If the percent-type columns
+    # arrive as FRACTIONS (0.405) where batter_power_score expects PERCENTS
+    # (40.5), the raw score loses:
+    #     hard_hit*0.8 28.91 + fb*0.6 20.20 + barrel*2.5 18.56
+    #   + sweet_spot*0.4 11.48 + pull_air*1.2 19.01  =  98.2 raw
+    #   = 28.9 Power points, vs the 24.7 actually observed (lower because
+    #     batters with L10 BBE data override some of these).
+    # pybaseball's exitvelo endpoint returns these as percents, which is why
+    # the old path was fine and nothing downstream ever had to care.
+    # WHAT THIS DOES. Measure the median of a field whose true percent value
+    # is never near zero (hard_hit_percent, league ~35-45):
+    #   • median < 1.5  -> unambiguously fractional. Rescale x100, log loudly.
+    #   • 1.5 to 10     -> neither scale is plausible. REJECT the source and
+    #                      fall through to exitvelo barrels, i.e. back to the
+    #                      known-good path, rather than shipping numbers no
+    #                      one can interpret.
+    #   • >= 10         -> normal percents, use as-is.
+    # Sample values are printed either way so the scale is visible in the log
+    # instead of having to be inferred from downstream damage a second time.
+    _PCT_COLS = ["HardHit%", "Barrel%", "SweetSpot%", "PullAir%", "PullBrl%",
+                 "FB%", "HR/FB", "Pull%", "zone_contact_rate", "oz_contact_rate",
+                 "zone_swing_rate", "swstr_pct", "first_pitch_strike_pct_batter"]
+    if result:
+        _hh_vals = sorted(v for v in
+                          (r.get("HardHit%") for r in result.values())
+                          if v is not None)
+        if _hh_vals:
+            _hh_med = _hh_vals[len(_hh_vals) // 2]
+            _sample = list(result.items())[0]
+            print(f"     scale check — HardHit% median {_hh_med:.4f} across "
+                  f"{len(_hh_vals)} batters; sample {_sample[0]!r}: "
+                  f"HH={_sample[1].get('HardHit%')} Barrel={_sample[1].get('Barrel%')} "
+                  f"FB={_sample[1].get('FB%')} EV={_sample[1].get('EV')}")
+            if _hh_med < 1.5:
+                print(f"     ⚠️  Savant returned percent columns as FRACTIONS "
+                      f"(HardHit% median {_hh_med:.4f}, expected ~35-45). "
+                      f"Rescaling {len(_PCT_COLS)} percent columns x100.")
+                for _nm, _sr in result.items():
+                    for _c in _PCT_COLS:
+                        _v = _sr.get(_c)
+                        if _v is not None:
+                            _sr[_c] = _v * 100.0
+            elif _hh_med < 10.0:
+                raise ValueError(
+                    f"Savant HardHit% median {_hh_med:.3f} is implausible on either "
+                    f"scale (expect ~0.40 fractional or ~40 percent) — rejecting this "
+                    f"source rather than feeding uninterpretable values into "
+                    f"batter_power_score; falling back to exitvelo barrels")
+
     print(f"  ✅ Savant standard: {len(result)} batters (ISO, FB%, HR/FB)")
     return result
 
