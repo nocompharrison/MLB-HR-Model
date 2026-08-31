@@ -19722,6 +19722,33 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # _pf9_has_data only binds on the line above this one. Read downstream by
     # the top-50 injection in main().
     _result.pf9_elite_nuclear = bool(_pf9_has_data and _elite_nuclear)
+
+    # ── MISSING POWER DATA — SURFACE IT IN THE OUTPUT (added 2026-08-31) ────
+    # The console report in main() is transient; this puts the same warning
+    # into the batter's grade text so it lands in current_sharp.csv and the
+    # archived FantasyLabsMLB.csv. That matters for two reasons: (1) it is
+    # visible when reading a card rather than only when watching a run scroll
+    # past, and (2) it makes the failure MEASURABLE retroactively — the whole
+    # reason this bug survived so long is that a fabricated 46.5 was
+    # indistinguishable from a real measurement in every archived file.
+    # Scan the archive for this literal string to count occurrences per slate
+    # and identify repeat offenders.
+    try:
+        _pwr_missing = getattr(getattr(_result, "batter", None), "power_data_missing", False) \
+                       or getattr(_result, "power_data_missing", False)
+        if _pwr_missing:
+            _firing_grades.append(
+                "🚨 POWER DATA MISSING: this batter's stats join returned nothing — every "
+                "primary power input (ISO, Barrel%, HH%, EV, FB%, PullAir%, HR/FB, xSLG) is "
+                "still at its league-average default. The Power figure shown is the neutral "
+                "50.0 anchor, NOT a measurement. Do not read it as weak power: in the Aug 2026 "
+                "panel these were mostly elite bats (Tatis, Acuña, Witt, Schwarber, Bogaerts, "
+                "Murakami) hitting 61.1% HR vs a 14.7% base. Treat Power as UNKNOWN for this "
+                "batter and lean on odds/Vuln/PropFinder instead."
+            )
+    except Exception:
+        pass
+
     _pf9_elite_contact_note = ""
     if _pf9_elite_contact:
         _result.conv_score = min(50.0, _result.conv_score + 5.0)
