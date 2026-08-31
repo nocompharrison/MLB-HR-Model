@@ -26197,6 +26197,38 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             )
 
 
+    # ══ PF-GATE PROMOTION INTO THE HR GRADE CELL (added 2026-08-31) ════════
+    # All five threshold-tuned PropFinder gates are emitted by score_player()
+    # into `_result.notes`, which lands in current_detailed.csv's per-batter
+    # notes. `_firing_grades` — which becomes the HR grade cell joined at the
+    # bottom of this function, and is what current_sharp.csv and every pick
+    # card actually read — never sees them. Verified 2026-08-31: NONE of the
+    # five appear in any _firing_grades.append() anywhere in the file.
+    # CONSEQUENCE: a batter could clear ELITE NUCLEAR (2.16x, p=0.0038, the
+    # only rule in the whole Aug-16-20 PropFinder audit to beat its own
+    # shuffle null) and it would be invisible in the HR rationale — exactly
+    # the "silent gate" failure mode already logged for the Aug 16-20
+    # notes.append()-on-the-wrong-object bug, and structurally the same as the
+    # AUDIT markers living only in detailed.csv.
+    # This promotes them by reading the notes score_player already wrote, so
+    # there is ONE source of truth for the text and the thresholds — no
+    # re-deriving the gate logic here, which is what would let the two drift.
+    # Conviction is NOT touched: score_player already applied each gate's conv
+    # boost. This is a surfacing fix only.
+    try:
+        _PF_GATE_TAGS = ("ELITE NUCLEAR", "PULL-BLAST LOCK", "HOT-ARM PULL-LOFT",
+                         "LOFT-PROFILE LOCK", "FB50 LOFT")
+        _already = " ".join(_firing_grades)
+        for _note in (list(getattr(sc, "notes", None) or [])):
+            _n = str(_note)
+            for _tag in _PF_GATE_TAGS:
+                if _tag in _n and _tag not in _already:
+                    _firing_grades.append(_n)
+                    _already += " " + _n
+                    break
+    except Exception:
+        pass
+
     _grade_count = len(_firing_grades)
 
     if _firing_grades:
@@ -34379,7 +34411,67 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                     "Requires Power data loaded (avoids false positives from default-value batters). "
                                     "TRACKING — not yet backtested at scale (the underlying 9-stat data wasn't logged on any slate "
                                     "until Jun 30 2026); revisit thresholds/weights once 10+ slates of real outcomes exist."),
-        ("☢️☢️ SUPER NUCLEAR",
+        ("☢️⭐ ELITE NUCLEAR",
+                                    "Aug 16 2026 — REPLACES the retired ☢️☢️ SUPER NUCLEAR 9/9 tier below. Fires when "
+                                    "ALL FOUR optimised gates clear: Barrel%>10 + GB%<40 + FB%>50 + Blast%>20. "
+                                    "Measured 32.6% HR (14/43, 2.16x, p=0.0038) across 28 slates, Jul 2.04x · Aug 2.41x. "
+                                    "⭐ THE ONLY RULE IN THE ENTIRE Aug-16-20 PROPFINDER AUDIT TO BEAT ITS OWN SHUFFLE "
+                                    "NULL — every other searched gate, and the whole HR01-HR16 archetype library, failed "
+                                    "that test. That makes this the best-evidenced batted-ball rule in the model. "
+                                    "Conviction: +10. ALSO grants a TEAM-CAP BYPASS — any batter clearing all four gates "
+                                    "is force-injected into the top-50 ranked board even if the team cap or their raw "
+                                    "Score would exclude them, and the output window auto-expands so the injection is "
+                                    "never truncated. ⚠️ That guarantees a place on the RANKED BOARD, not a slot on the "
+                                    "5-pick card — the 3-0-2 card-selection process does not read this flag. "
+                                    "~1.5 fires per slate historically; zero-fire slates are normal. "
+                                    "Prefers L10 BBE values when available, falling back to season stats."),
+        ("🎯🔒 PULL-BLAST LOCK",
+                                    "Aug 16 2026, threshold-tuned PropFinder gate. HH%>=50 + Blast%>20 + Pull%>80 → "
+                                    "3.07x, 19 slates — the best-DISTRIBUTED of the five tuned gates (fires steadily "
+                                    "rather than clustering in one window). HH boundary was LOOSENED from >50 to >=50 on "
+                                    "Aug 25 2026 after a 24-slate backtest (n=2,023, base 14.43%): strict 17n/35.29%/2.45x/"
+                                    "p=0.026 vs loosened 22n/36.36%/2.52x/p=0.0087 — better on n, lift AND p, and it "
+                                    "passed its null (36.4% real vs 17.4% null mean). Loosening Pull% or Blast% instead "
+                                    "was tested and REJECTED (diluted to 2.14x/1.84x). Conviction: +8."),
+        ("🔥🎯 HOT-ARM PULL-LOFT",
+                                    "Aug 16 2026, threshold-tuned PropFinder gate. Pitcher HR-prone L5 + Blast%>20 + "
+                                    "Pull%>80 → 50.0% HR (9/18, 3.32x, p=0.0005) across 16 slates (Jul 5/11 · Aug 4/7). "
+                                    "The highest raw lift of the five tuned gates. Mechanism: a pitcher actively giving "
+                                    "up HRs meeting a batter whose contact profile is specifically pull-side loft — the "
+                                    "two halves of a home run arriving together. Conviction: +7."),
+        ("🔒 LOFT-PROFILE LOCK",
+                                    "Aug 16 2026, threshold-tuned PropFinder gate. Barrel%>10 + FB%>50 + Blast%>30 → "
+                                    "2.60x across 16 slates. Stricter Blast% bar than ELITE NUCLEAR (>30 vs >20) but no "
+                                    "GB% gate. Conviction: +7."),
+        ("🌤️ FB50 LOFT",
+                                    "Aug 16 2026, threshold-tuned PropFinder gate — a RETUNE of the stock FB%>35 "
+                                    "must-have gate. FB%>=50 → 1.31x; combined with GB%<40 → 1.42x (Jul 1.31x / Aug "
+                                    "1.58x, p=0.045, n=187 combined — tuned on July, held out-of-sample on August). "
+                                    "The mildest of the five tuned gates and the most frequent. Conviction: +3 alone, "
+                                    "+5 when GB%<40 also clears."),
+        ("⭐ MARKET-MODEL AGREEMENT",
+                                    "Aug 31 2026. Odds <= +400 AND Score >= 65 → 27.0% HR (1.84x, n=189) across 30 "
+                                    "August slates, base 14.66%. Score is the MODEL's own estimate; odds is the "
+                                    "MARKET's. This isolates batters where two INDEPENDENT estimators agree — a "
+                                    "different and sturdier thing than either being extreme alone. Cleared every test "
+                                    "that killed the archetype library: clean 2x2 with both variables contributing "
+                                    "independently (Score adds within short odds p=0.012; odds adds within high Score "
+                                    "p=0.016); max-statistic permutation null CORRECTED for the 24-variant search that "
+                                    "found it, p=0.0065, real result above the null's 95th percentile; and a temporal "
+                                    "holdout that got STRONGER out of sample (1.53x train → 2.01x test), the opposite "
+                                    "of the archetype pattern. ⚠️ ZERO conviction points and zero ranking effect BY "
+                                    "DESIGN. Gating the Score slots on it was backtested and REJECTED (31.1% vs 27.8%, "
+                                    "but p=0.74, and every HR it lost was a batter just under a threshold — Score 63.9, "
+                                    "64.5, 64.6; odds +560 — while being infeasible ~1 day in 6). Use as conviction "
+                                    "LANGUAGE and as a tiebreak rationale in a close composite call, never as a filter."),
+        ("☢️☢️ SUPER NUCLEAR  ❌ RETIRED",
+                                    "❌ RETIRED Aug 16 2026 — superseded by ☢️⭐ ELITE NUCLEAR above. The 9/9 count "
+                                    "tier measured 0.93x (18/128, p=0.899): it guaranteed board space to a population "
+                                    "with no measured edge, at the direct expense of batters ranked there on merit. "
+                                    "The count-based conviction ladder was retired with it — 'how many gates passed' is "
+                                    "not a signal; WHICH gates passed is. Retained below for historical reference only; "
+                                    "do NOT cite as a positive. "),
+        ("☢️☢️ SUPER NUCLEAR (historical text)",
                                     "Jul 1 2026 — NEW GRADE, TRACKING ONLY (no backtest exists yet). Fires when a batter clears ALL 9 "
                                     "of the PropFinder Must-Have gates simultaneously (see above). Per Harrison's explicit request, "
                                     "this is a HARD OVERRIDE: automatic ✅ PLAY + gold tier (conv floor 45), same mechanism as the "
