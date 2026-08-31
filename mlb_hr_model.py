@@ -7276,10 +7276,39 @@ def _fetch_via_savant_standard(year: int) -> dict:
         return _pn
 
     def _parse_savant_csv(_raw):
+        # ── BOM STRIP — THE ACTUAL ROOT CAUSE, CONFIRMED 2026-08-31 ────────
+        # Savant prefixes the CSV with a UTF-8 BOM (\ufeff). Its name header is
+        # the quoted field "last_name, first_name", but with the BOM sitting
+        # BEFORE the opening quote the field no longer STARTS with a quote
+        # character, so csv.DictReader does not treat it as quoted — it splits
+        # on the internal comma and yields two junk columns with literal quote
+        # marks still attached:
+        #     ['\ufeff"last_name', ' first_name"', 'player_id', ...]
+        # Neither 'last_name, first_name' nor 'player_name' is then present,
+        # every row resolves to a blank name and is skipped, and the function
+        # raises "Too few batters from Savant standard: 0" — while the response
+        # itself was perfectly good (81,237 chars, and ALL 20 mapped columns
+        # present including flyballs_percent). The data was never missing; only
+        # the name column was unreadable.
+        # KNOCK-ON: that failure sent the whole slate to the exitvelo fallback,
+        # which supplies no FB%, so every batter took the FB% placeholder —
+        # this single BOM is why fb_pct was 34.0 for all 216 batters.
+        # Stripping the BOM restores normal quote handling and the header
+        # collapses back to the single expected column.
+        if _raw[:1] == "\ufeff":
+            _raw = _raw.lstrip("\ufeff")
         _reader = csv.DictReader(io.StringIO(_raw))
         _fields = _reader.fieldnames or []
+        # Belt-and-braces: if a BOM or stray quotes still cling to any header
+        # (different encoding path, or Savant changing the quoting again),
+        # normalise the keys rather than failing silently a second time.
+        _clean = {f: f.replace("\ufeff", "").strip().strip('"').strip()
+                  for f in _fields}
+        _needs_clean = any(k != v for k, v in _clean.items())
         _out = {}
         for _row in _reader:
+            if _needs_clean:
+                _row = {_clean.get(k, k): v for k, v in _row.items()}
             _nm = _savant_name(_row)
             if not _nm:
                 continue
