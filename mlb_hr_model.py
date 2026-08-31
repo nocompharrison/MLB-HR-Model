@@ -9738,6 +9738,37 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
     # ── Try disk cache first ──────────────────────────────────
     cached_b = _load_cache(year, "batters_v2")
     cached_p = _load_cache(year, "pitchers")
+    # ── CACHED-SCALE GUARD (added 2026-08-31) ──────────────────────────────
+    # The scale validator in _fetch_via_savant_standard() only runs on a FETCH.
+    # A cache hit skips it entirely — so once a bad run writes fractional
+    # percent values to .stat_cache/batters_v2, every subsequent run reloads
+    # them and the validator never gets a chance to fire.
+    # THAT EXACT TRAP FIRED on 2026-08-31: the BOM fix made Savant work, its
+    # percent columns arrived as fractions, Power collapsed slate-wide (mean
+    # 80.7 -> 56.0), the bad values were cached, and the very next run — with
+    # the scale validator already deployed — produced a BYTE-IDENTICAL
+    # current_rankings.csv because it never re-fetched. A 20-hour cache will
+    # happily serve corrupt data for 20 hours after the bug is fixed.
+    # Same cheap test as the fetch-side validator: HardHit% is never near zero
+    # on a real percent scale (league ~35-45). If the cached rows fail it, drop
+    # the cache and force a clean re-fetch rather than serving known-bad data.
+    if cached_b and len(cached_b) >= 50:
+        try:
+            _hh = sorted(v for v in
+                         (r.get("HardHit%") for r in cached_b.values())
+                         if v is not None)
+            if _hh:
+                _med = _hh[len(_hh) // 2]
+                if _med < 10.0:
+                    print(f"  ⚠️  CACHED BATTER STATS REJECTED — HardHit% median "
+                          f"{_med:.4f} across {len(_hh)} batters is not a valid percent "
+                          f"scale (expect ~35-45). This cache was written by a run with "
+                          f"the Savant fraction/percent bug; serving it would silently "
+                          f"reproduce that run's collapsed Power values. Discarding and "
+                          f"re-fetching.")
+                    cached_b = None
+        except Exception as _csg:
+            print(f"  ⚠️  cached-scale guard skipped ({_csg})")
     if cached_b and len(cached_b) >= 50:
         batter_map = cached_b
     if cached_p and len(cached_p) >= 20:
