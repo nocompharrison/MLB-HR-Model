@@ -5677,18 +5677,32 @@ def _statcast_chunked(statcast_fn, start_str: str, end_str: str, chunk_days: int
     """
     Split a statcast() date range into smaller chunks and concatenate.
 
-    STATUS (Aug 13 2026): not currently called by any of the 5 statcast()
-    sites in this file. It turned out every chunk failure this was built to
-    handle was specifically the chunk covering TODAY's date - the actual
-    root cause was querying for data that doesn't exist yet (this model runs
-    pre-game), not query size. Once every call site's date range was fixed
-    to end at yesterday instead of today, a follow-up run showed 5/5 and 5/5
-    chunks succeeding with zero failures - chunking wasn't the fix, excluding
-    today was. Reverted call sites back to plain _statcast_with_retry() to
-    avoid the added complexity/overhead now that it's unnecessary. Left this
-    function defined (not deleted) in case the underlying Savant timeout
-    pattern recurs for some other reason - re-enabling it is a one-line
-    change per call site, not a rebuild.
+    STATUS (Aug 31 2026): NOT CALLED. All 5 statcast() sites use plain
+    _statcast_with_retry(); the chunked call is preserved as a commented-out
+    line directly above each one, so re-enabling any site is a one-line swap.
+
+    HISTORY, because this has flipped twice and the reasons differ:
+      • Aug 13 2026 - first revert. Every chunk failure this was built for
+        turned out to be the chunk covering TODAY's date; the real cause was
+        querying data that doesn't exist yet (this model runs pre-game), not
+        query size. Fixing each call site to end at yesterday made 5/5 and
+        5/5 chunks pass.
+      • Between Aug 13 and Aug 31 - re-enabled at all 5 sites, and the
+        _salvage_chunk single-bad-date recovery below was built on top of it
+        (see its Aug 14/Aug 15 notes - it was recovering real data then).
+      • Aug 31 2026 - reverted again at Harrison's request. The Aug 30 run
+        showed every chunk succeeding at every site (5/5, 5/5, 3/3, 11/11),
+        zero failures and zero salvage passes, i.e. chunking was no longer
+        catching anything and was pure overhead.
+
+    ⚠️ WHAT IS GIVEN UP BY NOT CALLING THIS: _salvage_chunk below only runs
+    inside this function. Single-shot fetches have no salvage path, so ONE
+    bad date anywhere in a range now fails the ENTIRE fetch (returns None)
+    rather than dropping just that day. That is a real regression in
+    robustness, accepted deliberately because the failure mode is not
+    currently occurring. FIRST THING TO TRY if a statcast fetch starts
+    failing outright: swap the call site back to the commented _statcast_
+    chunked line before investigating anything else.
 
     Split a statcast() date range into smaller chunks and concatenate.
 
@@ -5898,8 +5912,20 @@ def fetch_recent_form(year: int) -> dict:
         end   = date.today() - timedelta(days=1)
         start = end - timedelta(days=14)
         print(f"  📡 Statcast: last-14-day event-level form ({start} → {end})...")
-        df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
-                                chunk_days=7, label="Recent form")
+        # REVERTED TO SINGLE-SHOT 2026-08-31. Chunking was added Aug 13 2026 for
+        # Savant timeouts; the Aug 30 2026 run showed every chunk succeeding at
+        # every call site (5/5, 5/5, 3/3, 11/11) with zero failures and zero
+        # salvage passes, i.e. it was no longer catching anything. Chunked call
+        # kept directly below, commented out — re-enabling is a one-line swap.
+        # TRADE-OFF, STATED PLAINLY: chunking also carried the single-bad-date
+        # salvage path (_salvage_chunk). Single-shot has no salvage — if Savant
+        # serves one bad date inside the range, the WHOLE fetch returns None
+        # instead of losing just that day. If a fetch starts failing outright,
+        # swap back to the chunked line before investigating anything else.
+        # df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+        #                         chunk_days=7, label="Recent form")
+        df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"),
+                                  label="Recent form")
         if df is None or df.empty:
             print("  ⚠️  Recent form: no data returned")
             return {}, {}, {}
@@ -7514,8 +7540,20 @@ def _fetch_pitcher_arsenal_splits(year: int) -> dict:
         _start = _end - _tdelta(days=60)
         if year < _date.today().year:
             _start = _date(year, 9, 1);  _end = _date(year, 10, 5)
-        _df = _statcast_chunked(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
-                                 chunk_days=15, label="Arsenal CSV-blocked fallback")
+        # REVERTED TO SINGLE-SHOT 2026-08-31. Chunking was added Aug 13 2026 for
+        # Savant timeouts; the Aug 30 2026 run showed every chunk succeeding at
+        # every call site (5/5, 5/5, 3/3, 11/11) with zero failures and zero
+        # salvage passes, i.e. it was no longer catching anything. Chunked call
+        # kept directly below, commented out — re-enabling is a one-line swap.
+        # TRADE-OFF, STATED PLAINLY: chunking also carried the single-bad-date
+        # salvage path (_salvage_chunk). Single-shot has no salvage — if Savant
+        # serves one bad date inside the range, the WHOLE fetch returns None
+        # instead of losing just that day. If a fetch starts failing outright,
+        # swap back to the chunked line before investigating anything else.
+        # _df = _statcast_chunked(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
+        #                          chunk_days=15, label="Arsenal CSV-blocked fallback")
+        _df = _statcast_with_retry(_sc_fn, _start.strftime("%Y-%m-%d"), _end.strftime("%Y-%m-%d"),
+                                   label="Arsenal CSV-blocked fallback")
         if _df is None or _df.empty:
             raise ValueError("Empty Statcast result")
 
@@ -8965,7 +9003,18 @@ def _fetch_via_statcast_agg(year: int, days_back: int = 30) -> dict:
         start = end - timedelta(days=days_back)
     
     print(f"  📡 pybaseball: statcast aggregation {start} → {end} (may take 10-20s)...")
-    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Arsenal fallback")
+    # REVERTED TO SINGLE-SHOT 2026-08-31. Chunking was added Aug 13 2026 for
+    # Savant timeouts; the Aug 30 2026 run showed every chunk succeeding at
+    # every call site (5/5, 5/5, 3/3, 11/11) with zero failures and zero
+    # salvage passes, i.e. it was no longer catching anything. Chunked call
+    # kept directly below, commented out — re-enabling is a one-line swap.
+    # TRADE-OFF, STATED PLAINLY: chunking also carried the single-bad-date
+    # salvage path (_salvage_chunk). Single-shot has no salvage — if Savant
+    # serves one bad date inside the range, the WHOLE fetch returns None
+    # instead of losing just that day. If a fetch starts failing outright,
+    # swap back to the chunked line before investigating anything else.
+    # df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Arsenal fallback")
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Arsenal fallback")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
     
@@ -9202,7 +9251,18 @@ def _fetch_via_statcast_agg_pitchers(year: int, days_back: int = 60) -> dict:
         return _cached
 
     print(f"  📡 Statcast pitcher aggregation {start} → {end}...")
-    df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Pitcher aggregation")
+    # REVERTED TO SINGLE-SHOT 2026-08-31. Chunking was added Aug 13 2026 for
+    # Savant timeouts; the Aug 30 2026 run showed every chunk succeeding at
+    # every call site (5/5, 5/5, 3/3, 11/11) with zero failures and zero
+    # salvage passes, i.e. it was no longer catching anything. Chunked call
+    # kept directly below, commented out — re-enabling is a one-line swap.
+    # TRADE-OFF, STATED PLAINLY: chunking also carried the single-bad-date
+    # salvage path (_salvage_chunk). Single-shot has no salvage — if Savant
+    # serves one bad date inside the range, the WHOLE fetch returns None
+    # instead of losing just that day. If a fetch starts failing outright,
+    # swap back to the chunked line before investigating anything else.
+    # df = _statcast_chunked(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), chunk_days=15, label="Pitcher aggregation")
+    df = _statcast_with_retry(statcast, start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d"), label="Pitcher aggregation")
     if df is None or df.empty:
         raise ValueError("Empty statcast result")
 
@@ -12919,7 +12979,18 @@ def _fetch_season_bzm_zones(year: int, target_date=None) -> tuple:
         _bzm_end = min(_td, date.today() - timedelta(days=1))
         print(f"  📡 BZM season zones + L10 BBE: fetching {season_start} → {_bzm_end} "
               f"(first run; will cache for re-runs)...")
-        df = _statcast_chunked(statcast, season_start.strftime("%Y-%m-%d"), _bzm_end.strftime("%Y-%m-%d"), chunk_days=15, label="BZM season zones")
+        # REVERTED TO SINGLE-SHOT 2026-08-31. Chunking was added Aug 13 2026 for
+        # Savant timeouts; the Aug 30 2026 run showed every chunk succeeding at
+        # every call site (5/5, 5/5, 3/3, 11/11) with zero failures and zero
+        # salvage passes, i.e. it was no longer catching anything. Chunked call
+        # kept directly below, commented out — re-enabling is a one-line swap.
+        # TRADE-OFF, STATED PLAINLY: chunking also carried the single-bad-date
+        # salvage path (_salvage_chunk). Single-shot has no salvage — if Savant
+        # serves one bad date inside the range, the WHOLE fetch returns None
+        # instead of losing just that day. If a fetch starts failing outright,
+        # swap back to the chunked line before investigating anything else.
+        # df = _statcast_chunked(statcast, season_start.strftime("%Y-%m-%d"), _bzm_end.strftime("%Y-%m-%d"), chunk_days=15, label="BZM season zones")
+        df = _statcast_with_retry(statcast, season_start.strftime("%Y-%m-%d"), _bzm_end.strftime("%Y-%m-%d"), label="BZM season zones")
 
         if df is None or df.empty:
             print("  ⚠️  BZM season zones: no data returned")
@@ -37843,4 +37914,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()
