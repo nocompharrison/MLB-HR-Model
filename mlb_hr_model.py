@@ -21734,6 +21734,8 @@ def _sheet_methodology(wb):
     row += 1
 
     hr_pos_rows = [
+        ("0 (write-up)", "⭐ MARKET-MODEL AGREEMENT",            "Odds≤+400 AND Score≥65 → 27.0%% HR (1.84x, n=189, 30 Aug slates, base 14.66%%). Score is the model's estimate, odds is the market's — this isolates batters where two INDEPENDENT estimators agree. Cleared every test the archetype library failed: clean 2x2 (both variables contribute independently, p=0.012 / p=0.016), max-statistic permutation null corrected p=0.0065 (real above the null's 95th pct), and a temporal holdout that got STRONGER out of sample (1.53x→2.01x). ZERO conviction points and zero ranking effect BY DESIGN — gating the Score slots on it was backtested Aug 31 2026 and rejected (31.1%% vs 27.8%%, but p=0.74, and every HR it lost was a batter just under a threshold: Score 63.9/64.5/64.6, odds +560). Conviction LANGUAGE and close-call tiebreak only."),
+        ("0 (cap bypass)", "☢️⭐ ELITE NUCLEAR",                  "Barrel%%>10 + GB%%<40 + FB%%>50 + Blast%%>20 → 32.6%% HR (14/43, 2.16x, p=0.0038, 28 slates; Jul 2.04x · Aug 2.41x). The ONLY rule in the entire Aug-16-20 PropFinder audit to beat its own shuffle null. Replaced the retired 9/9 SUPER NUCLEAR tier, which measured 0.93x (18/128, p=0.899) and guaranteed board space to a population with no measured edge. Awards no conviction points — instead it grants a TEAM-CAP BYPASS: any batter clearing all four gates is force-injected into the top-%d ranked board even if the team cap or their raw score would exclude them, and the output window auto-expands so the injection is never truncated. ⚠️ This guarantees a place on the RANKED BOARD, not a slot on the 5-pick card — the 3-0-2 card-selection process does not read this flag. ~1.5 fires per slate historically; zero-fire slates are normal." % TOP_N),
         ("+4 ea (≤+12)", "Grade stacking count",                 "min(grades,3)×4 — rewards independent signals firing together"),
         ("+2 / +8",      "2-grade / 3+ grade stacking bonus",    "Jun 16 2026: gc=2 = 1.18x (barely above gc=1 at 1.28x) — modest +2. gc=3+ = 1.54x — large +8 bonus"),
         ("+20 / +18 / +16 / +14", "🧬 ARCHETYPE TIER A (HR01–HR08)", "Stacked quant+qual archetypes, Jul 26 2026 mining. HR01 +20 (4.05x) · HR02/HR03 +18 · HR04 +16 · HR05–HR08 +14. Capped at 30 total."),
@@ -24993,7 +24995,15 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         # HR20 SHORT-PRICE L2 BLOWUP — replicated from a second model's backtest,
         # re-verified here on the full batter universe (see registry note).
         try:
-            _sgt_odds = float(str(odds).replace("+", "").replace(",", "").strip())
+            # BUG FIX 2026-08-31: third instance of the bare-`odds` NameError
+            # bug (see the two fixes below/above). `odds` is not bound in
+            # _score_sharp, so this always fell to the except and set
+            # _sgt_odds = 0.0 — and because the gate below requires
+            # 0 < _sgt_odds <= 285.0, a value of 0.0 fails it every time. This
+            # grade has therefore NEVER FIRED since it was written, on any
+            # batter, regardless of price. Read sc.hr_over_price instead.
+            _sgt_raw = getattr(sc, "hr_over_price", None)
+            _sgt_odds = float(_sgt_raw) if _sgt_raw not in (None, "") else 0.0
         except Exception:
             _sgt_odds = 0.0
         if ("EXTREME L2" in _sgt_text) and (0 < _sgt_odds <= 285.0):
@@ -25026,7 +25036,16 @@ def _score_sharp(sc, rank: int = 99) -> dict:
         _pa_v = getattr(sc, "est_pa", None)
         try:
             _pa_v = float(_pa_v) if _pa_v is not None else None
-            _od_v = float(str(odds).replace("+", "").replace(",", "").strip())
+            # BUG FIX 2026-08-31: this read a bare `odds` name, which does not
+            # exist in _score_sharp (the function takes only (sc, rank)). The
+            # NameError was caught by the except below, which set _od_v = 0.0 —
+            # so this grade has been evaluating EVERY batter's price as 0.0
+            # rather than their real odds, silently, since it was written. The
+            # numeric American HR price is sc.hr_over_price (dataclass field at
+            # line ~1468). Found while wiring MARKET-MODEL AGREEMENT, which hit
+            # the identical bug.
+            _od_raw = getattr(sc, "hr_over_price", None)
+            _od_v = float(_od_raw) if _od_raw not in (None, "") else 0.0
         except Exception:
             _pa_v, _od_v = None, 0.0
         if (_pa_v is not None and _pa_v >= 4.6 and 0 < _od_v <= 300.0
@@ -25292,18 +25311,27 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     # serves as a tiebreak rationale in a close composite call. It does not
     # move conviction or ranking. Do not "upgrade" this to a conv_boost
     # without a fresh, larger-n test - see memory entry 9.
-    # ⚠️ SCOPE NOTE: this block deliberately re-derives its own odds/score
-    # values from `odds`/`score` rather than reusing _od_v/_nsc. Those two are
-    # assigned inside the large try: block above (line ~24977); if anything
-    # earlier in that block raises, they never get bound, and since this block
-    # is itself wrapped in try/except the resulting NameError would be
-    # swallowed and the note would silently never fire. Re-deriving keeps this
-    # signal independent of upstream failures.
+    # ⚠️ SCOPE NOTE — REAL BUG FOUND AND FIXED 2026-08-31. The first version of
+    # this block read a bare `odds` name. There IS no `odds` variable in
+    # _score_sharp (it takes only (sc, rank); `score` is bound via
+    # `score = sc.score`, `odds` never is). Every reference raised NameError,
+    # which the surrounding `except Exception: pass` swallowed silently, so the
+    # note never fired even on the 12 batters that qualified on the 2026-08-31
+    # slate. Same failure CLASS as the Aug 16-20 PF-gate bug: a wired signal
+    # that looks correct, raises internally, and is silenced by a broad except.
+    # The numeric American HR price lives on the scorecard object as
+    # `hr_over_price` (see the dataclass field at line ~1468 and the existing
+    # read at line ~1709). Read it via getattr, never a bare name.
+    # ⚠️ SEE ALSO: the NEG-block grade at line ~25029 has this SAME latent bug
+    # (`_od_v = float(str(odds)...)` inside a try whose except sets
+    # `_od_v = 0.0`), so that rule has been reading every batter's price as 0.0
+    # rather than the real number. Fixed in the same pass below.
     try:
         _mma_odds = None
         _mma_score = None
         try:
-            _mma_odds = float(str(odds).replace("+", "").replace(",", "").strip())
+            _mma_raw = getattr(sc, "hr_over_price", None)
+            _mma_odds = float(_mma_raw) if _mma_raw not in (None, "") else None
         except Exception:
             _mma_odds = None
         try:
@@ -37828,6 +37856,64 @@ def main():
             ranked = ranked + _cov_promoted
             ranked.sort(key=_blend_rank_key,
                         reverse=True)
+
+            # ══ BUG FIX 2026-08-31 — THIS SORT WAS SILENTLY UNDOING EVERY
+            # INJECTION ABOVE. ══════════════════════════════════════════════
+            # Each injection block (Marsh / Flash Combo / PWR88 floor / ELITE
+            # NUCLEAR) merges its players in and then FORCES them into
+            # guaranteed slots with ranked.insert(TOP_N - n, ...). The full
+            # re-sort on the line above discards those forced positions
+            # outright — every injected player falls back to wherever their
+            # blend rank naturally lands, which for a deliberately low-scoring
+            # injection is far outside the window. The EFFECTIVE_TOP_N scan
+            # below only looks TOP_N + len(injected) + 5 deep (~63 rows), so it
+            # does not find them either and the output window never expands to
+            # cover them. Net effect: the console prints "guaranteed top-50"
+            # and names the players, and then they are silently absent from
+            # current_rankings.csv.
+            # CONFIRMED on the 2026-08-31 slate: console reported Cal Raleigh
+            # -> #49 and N. Velazquez -> #50 (ELITE NUCLEAR) plus 4 Flash Combo
+            # injections; 7 of the 8 injected players were missing from the
+            # exported CSV. Only H. Goodman survived, and only because his
+            # blend rank happened to put him at #50 anyway — his injection did
+            # not hold either.
+            # FIX: re-apply the same forced-position logic the injections use,
+            # after this sort, for every player any injection guaranteed. Must
+            # stay AFTER the coverage sort; moving the coverage block earlier
+            # would just invert which mechanism gets clobbered.
+            try:
+                _post_sort_forced = []
+                for _inj_list in (
+                    _marsh_injected      if '_marsh_injected'      in locals() else [],
+                    _flash_injected      if '_flash_injected'      in locals() else [],
+                    _pwr_floor_injected  if '_pwr_floor_injected'  in locals() else [],
+                    _sn_injected         if '_sn_injected'         in locals() else [],
+                ):
+                    for _isc in (_inj_list or []):
+                        if _isc.batter_name not in {x.batter_name for x in _post_sort_forced}:
+                            _post_sort_forced.append(_isc)
+                if _post_sort_forced:
+                    _forced_names = {x.batter_name for x in _post_sort_forced}
+                    _displaced = sorted(
+                        [x for x in _post_sort_forced
+                         if next((i for i, r in enumerate(ranked)
+                                  if r.batter_name == x.batter_name), TOP_N) >= TOP_N],
+                        key=lambda x: x.score, reverse=True
+                    )
+                    if _displaced:
+                        _disp_names = {x.batter_name for x in _displaced}
+                        ranked = [x for x in ranked if x.batter_name not in _disp_names]
+                        _at = TOP_N - len(_displaced)
+                        for _dsc in _displaced:
+                            ranked.insert(_at, _dsc)
+                            _at += 1
+                        print(f"  🔁 Re-applied {len(_displaced)} injection slot(s) displaced by the "
+                              f"coverage-floor re-sort (fix 2026-08-31): "
+                              f"{', '.join(x.batter_name for x in _displaced)}")
+            except Exception as _reinj_err:
+                print(f"  ⚠️  Injection re-apply skipped ({_reinj_err}) — "
+                      f"injected players may be missing from the export.")
+
             print(f"\n  📐 COVERAGE FLOOR — {len(_cov_promoted)} batter(s) promoted into the "
                   f"window on Vuln≥{COVERAGE_VULN_GATE:.0f} arms covered ≤{COVERAGE_MIN_KEEP} deep:")
             for _sc in sorted(_cov_promoted, key=lambda x: -x.pitcher_vuln):
@@ -37858,7 +37944,14 @@ def main():
     # matters: TOP_N + number of injections (max possible displacement).
     # Scanning all of ranked would include every scored batter and massively
     # over-expand the window if a common name appears far down the list.
-    _scan_limit = TOP_N + len(_all_injected_names) + 5   # +5 buffer for safety
+    # ⚠️ WIDENED 2026-08-31: the buffer was +5, which was too tight to catch an
+    # injected player displaced by the coverage-floor re-sort (see the fix in
+    # that block above). With the re-apply now in place this scan should rarely
+    # need the extra room, but the wider buffer is the cheap belt-and-braces
+    # half of the same fix — if an injection ever slips past the re-apply, the
+    # window expands to include it rather than silently dropping it. Still
+    # bounded, so it cannot run away down the full ranked list.
+    _scan_limit = TOP_N + (len(_all_injected_names) * 2) + 25
     _max_inj_rank = TOP_N
     for _idx, _sc in enumerate(ranked[:_scan_limit]):
         if _sc.batter_name in _all_injected_names:
