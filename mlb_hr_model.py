@@ -1035,13 +1035,6 @@ class BatterProfile:
     # ── New stats from FantasyLabs batter view ────────────────────────────────
     near_hr_count: int   = 0      # near-HRs (hard-hit fly balls near wall) — power signal
     near_hr_pa:    int   = 0      # PA in which near_hr_count was accumulated
-    # Set by batter_power_score() on every call (added 2026-08-31). True when
-    # the profile's primary measured power inputs are ALL still at their
-    # league-average defaults, i.e. the stats join missed this batter and any
-    # power number is a fabrication rather than a measurement. Lets downstream
-    # code distinguish "no data" from "genuinely average" — previously
-    # impossible, because an unpopulated profile silently scored 46.5.
-    power_data_missing: bool = False
     gb_pct:        float = 44.0   # ground ball % (high GB% = fewer HRs; inverse of FB%)
     first_pitch_swing_pct: float = 0.0  # 1st pitch swing % (0=unknown; aggression signal)
     swstr_pct:  float = 0.0   # batter swinging strike % (high = harder to get hits; contact gate)
@@ -10511,7 +10504,67 @@ def _intl_lookup(name: str) -> dict:
     return {}
 
 
+_BATTER_SC_PROBE_COUNT = [0]   # diagnostic call-count limiter for the probe in build_batter()
+
+
 def build_batter(name, row, recent, overrides, hr_props) -> BatterProfile:
+    # ── STATCAST-FALLBACK PROBE (added 2026-08-31, DIAGNOSTIC ONLY) ─────────
+    # Read-only. Changes no value and no behaviour — it only prints.
+    #
+    # THE OPEN QUESTION IT ANSWERS. A handful of elite bats score ~45-50 Power
+    # while everyone else sits ~82: on 2026-08-31, Tatis 44.6 and M. Harris
+    # 49.9 vs a slate mean of 81.7. Their 9-STAT rows show Barrel% 7.5,
+    # HH% 36.5, GB% 44.0, FB% 34.0, Blast% 11.0 — the EXACT BatterProfile
+    # defaults — while ISO differs between them and is real. So the row exists
+    # and carries some real columns, but the Statcast-sourced ones are missing
+    # and silently fall back to league average via _g(row, ..., default=).
+    # That understates power badly and is invisible downstream: 46.5-ish reads
+    # as a genuine "below average" measurement.
+    # It also poisoned NewConv — 18 such rows (0.56% of training) produced its
+    # entire -0.113 power coefficient (drop them and it goes to +0.002), which
+    # is why 'power' was removed from that model on 2026-08-31.
+    #
+    # ⚠️ AN EARLIER GUESS AT THE CAUSE WAS WRONG AND WAS REVERTED. It assumed
+    # an all-defaults BatterProfile (which scores exactly 46.5) and gated on
+    # all eight primary fields being default. The live values are 44.6 / 49.1 /
+    # 49.9 / 50.3 — all different, none exactly 46.5 — so these rows are NOT
+    # all-defaults and that guard could never fire. Do not re-apply that theory
+    # without checking actual field values first. Hence this probe: report what
+    # the row REALLY contains instead of inferring from the output number.
+    #
+    # Not yet ruled out, and what to compare the probe output against:
+    #   • The ISO/FB%/HR-FB backfill loop is `for name, iso_row in
+    #     _iso_data.items(): if name in batter_map:` — one-way. It can enrich
+    #     an existing entry but can never ADD one, so a batter present in the
+    #     MLB Stats API set (621 on 2026-08-31) but absent from exitvelo
+    #     barrels (587) cannot be recovered by it.
+    #   • Savant standard stats CSV failed outright that run ("Too few batters
+    #     from Savant standard: 0"), so exitvelo barrels was the sole primary.
+    #   • Name-key shape: exitvelo builds "First Last" from Savant's
+    #     "Last, First". Suffix players ("Tatis Jr.", "Harris II") and the
+    #     abbreviated lineup names ("F. Tatis", "M. Harris") are the obvious
+    #     mismatch risk.
+    try:
+        _sc_missing = (
+            _g(row, "Barrel%", "Barrels/PA%", "barrel_batted_rate", default=-1) == -1
+            and _g(row, "HardHit%", "hard_hit_percent", default=-1) == -1
+            and _g(row, "EV", "exit_velocity_avg", default=-1) == -1
+        )
+        if _sc_missing and _BATTER_SC_PROBE_COUNT[0] < 12:
+            try:
+                _cols = sorted(list(getattr(row, "index", [])))
+            except Exception:
+                _cols = []
+            print(f"     🔬 STATCAST-FALLBACK: {name!r} has a stats row but NO "
+                  f"Barrel%/HardHit%/EV — power will fall back to league-average "
+                  f"defaults and understate this batter.")
+            print(f"        columns actually present ({len(_cols)}): {_cols[:24]}")
+            _BATTER_SC_PROBE_COUNT[0] += 1
+            if _BATTER_SC_PROBE_COUNT[0] == 12:
+                print(f"        … further STATCAST-FALLBACK reports suppressed this run.")
+    except Exception:
+        pass
+
     # Use true league-average defaults — MUST match BatterProfile dataclass defaults
     # so players without real stats don't masquerade as elite
     b = BatterProfile(
@@ -11199,62 +11252,6 @@ def batter_power_score(b: BatterProfile) -> float:
         + _pull_barrel_interaction      # ★★★ pull-air × barrel synergy composite (PDF §6)
     )
     score = max(0.0, min(raw / _BATTER_PWR_CALIB, 100.0))
-
-    # ══ DATA-PRESENCE GUARD (added 2026-08-31) ═════════════════════════════
-    # THE BUG THIS EXPOSES: every term above reads a BatterProfile field, and
-    # every field has a league-average DEFAULT. Nothing here checks that any
-    # of them actually loaded. When the Statcast/stats join misses a batter,
-    # all fields sit at their defaults, raw comes to exactly 158.00, and this
-    # function returns 46.5 — a plausible-looking "below-average power" number
-    # that is indistinguishable from a real measurement. A silent wrong answer,
-    # not an error.
-    # CONFIRMED IN PRODUCTION: the August panel's sub-70 Power rows are almost
-    # all elite sluggers sitting within a few points of 46.5 — Tatis 44.6,
-    # Bogaerts 43.6, Acuña 49.1, Witt 49.5, Harris 49.9, Robert 50.3,
-    # Schwarber 52.9, Murakami 55.1. They homered at 61.1% vs a 14.7% August
-    # base, because they are in fact elite; only their DATA was missing. That
-    # is precisely how NewConv came to fit a NEGATIVE power coefficient
-    # (-0.108, its 2nd largest) and seat Acuña and Tatis in both NEWCONV card
-    # slots on 2026-08-31 ahead of Crow-Armstrong and Caminero.
-    # Frequency: 18 of 2,496 August rows (0.72%) — rare, but concentrated on
-    # exactly the batters that matter most, and repeat offenders recur
-    # (Okamoto 3x, Acuña/Murakami/Valdez 2x each).
-    #
-    # THE GUARD: treat the profile as unpopulated only when the primary
-    # measured inputs are ALL still exactly at their defaults. Any single real
-    # value means data loaded and the score is trusted. Exact float equality is
-    # the right test here — these are defaults assigned literally, not computed,
-    # so a genuine measurement landing on the exact default is vanishingly
-    # unlikely, and the surrounding boost terms already use this same
-    # `!= default` convention.
-    _pwr_core_defaults = (
-        b.iso            == 0.145 and
-        b.barrel_pct     == 7.5   and
-        b.hard_hit_pct   == 36.5  and
-        b.avg_ev         == 87.5  and
-        b.fb_pct         == 34.0  and
-        b.pull_air_pct   == 16.0  and
-        b.hr_fb_pct      == 11.5  and
-        b.xslg           == 0.39
-    )
-    # Flag on the profile so downstream consumers can tell "no data" from
-    # "genuinely average". Set on every call so it never goes stale.
-    try:
-        b.power_data_missing = bool(_pwr_core_defaults)
-    except Exception:
-        pass
-    if _pwr_core_defaults:
-        # Return the league-average anchor (50.0) rather than 46.5. Two
-        # reasons: 46.5 reads as a real below-average measurement and drags the
-        # batter into the 77-82 dead-zone comparisons and NewConv's old power
-        # term, whereas 50.0 is the documented league-average calibration point
-        # and is the honest "we don't know" answer. Deliberately NOT returning
-        # None/NaN — a dozen call sites do arithmetic on this value and would
-        # need auditing first; that is a larger change than this fix.
-        # ⚠️ The real repair is upstream: find why the join misses these
-        # batters. This guard stops the model LEARNING from bad values; it does
-        # not recover the missing data.
-        return 50.0
 
     # Diminishing returns above 75: elite players already have short HR odds.
     # The market captures their edge; over-weighting power pushes them too high.
@@ -19723,31 +19720,6 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
     # the top-50 injection in main().
     _result.pf9_elite_nuclear = bool(_pf9_has_data and _elite_nuclear)
 
-    # ── MISSING POWER DATA — SURFACE IT IN THE OUTPUT (added 2026-08-31) ────
-    # The console report in main() is transient; this puts the same warning
-    # into the batter's grade text so it lands in current_sharp.csv and the
-    # archived FantasyLabsMLB.csv. That matters for two reasons: (1) it is
-    # visible when reading a card rather than only when watching a run scroll
-    # past, and (2) it makes the failure MEASURABLE retroactively — the whole
-    # reason this bug survived so long is that a fabricated 46.5 was
-    # indistinguishable from a real measurement in every archived file.
-    # Scan the archive for this literal string to count occurrences per slate
-    # and identify repeat offenders.
-    try:
-        _pwr_missing = getattr(getattr(_result, "batter", None), "power_data_missing", False) \
-                       or getattr(_result, "power_data_missing", False)
-        if _pwr_missing:
-            _firing_grades.append(
-                "🚨 POWER DATA MISSING: this batter's stats join returned nothing — every "
-                "primary power input (ISO, Barrel%, HH%, EV, FB%, PullAir%, HR/FB, xSLG) is "
-                "still at its league-average default. The Power figure shown is the neutral "
-                "50.0 anchor, NOT a measurement. Do not read it as weak power: in the Aug 2026 "
-                "panel these were mostly elite bats (Tatis, Acuña, Witt, Schwarber, Bogaerts, "
-                "Murakami) hitting 61.1% HR vs a 14.7% base. Treat Power as UNKNOWN for this "
-                "batter and lean on odds/Vuln/PropFinder instead."
-            )
-    except Exception:
-        pass
 
     _pf9_elite_contact_note = ""
     if _pf9_elite_contact:
@@ -37503,35 +37475,6 @@ def main():
     # Scan ranked_raw (all scored batters, pre-cap) so team-cap-excluded batters are
     # found. No team cap — 9/9 is a hard override.
     _sn_names_in_top50 = {sc.batter_name for sc in ranked[:TOP_N]}
-
-    # ── MISSING POWER DATA REPORT (added 2026-08-31) ────────────────────────
-    # Surfaces batters whose stats join missed entirely. Before the guard in
-    # batter_power_score(), these silently scored 46.5 and were indistinguish-
-    # able from genuinely weak-power hitters — in August they were mostly
-    # elite bats (Tatis, Acuña, Witt, Schwarber, Bogaerts, Murakami) homering
-    # at 61.1% vs a 14.7% base, which is how NewConv came to fit a negative
-    # power coefficient. They now score the neutral 50.0 anchor instead, but
-    # the underlying join failure is NOT fixed by that — it needs tracing at
-    # the source, and it cannot be traced if it stays invisible. Repeat
-    # offenders are the best lead (Okamoto appeared 3x in August, Acuña /
-    # Murakami / Valdez 2x each).
-    try:
-        _pwr_missing = [sc for sc in ranked_raw
-                        if getattr(sc, 'power_data_missing', False)
-                        or getattr(getattr(sc, 'batter', None), 'power_data_missing', False)]
-        if _pwr_missing:
-            print(f"  \U0001F6A8 MISSING POWER DATA \u2014 {len(_pwr_missing)} batter(s) had NO "
-                  f"loaded power stats (all primary fields at league-average defaults). "
-                  f"Scored at the neutral 50.0 anchor, not a real measurement:")
-            for _pm in sorted(_pwr_missing, key=lambda x: getattr(x, 'score', 0), reverse=True)[:15]:
-                print(f"     \u26a0\ufe0f  {_pm.batter_name} ({getattr(_pm,'team','??')}) "
-                      f"Score {getattr(_pm,'score',0):.1f} \u2014 power stats did not load")
-            if len(_pwr_missing) > 15:
-                print(f"     … and {len(_pwr_missing)-15} more")
-            print(f"     \u2192 these are usually a name-join miss, not genuinely weak bats. "
-                  f"Recurring names are the best lead for tracing the join failure.")
-    except Exception as _pmerr:
-        print(f"  \u26a0\ufe0f  Missing-power report skipped ({_pmerr})")
 
     # Debug: every ranked_raw batter clearing ELITE NUCLEAR (all four
     # optimised gates). The old debug listed 9/9 batters; that tier is retired.
