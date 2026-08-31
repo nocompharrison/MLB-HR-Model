@@ -7350,63 +7350,76 @@ def _fetch_via_savant_standard(year: int) -> dict:
     if len(result) < 20:
         raise ValueError(f"Too few batters from Savant standard: {len(result)} "
                          f"(last response {_last_len} chars, {len(_last_fields)} columns)")
-    # ── SCALE VALIDATION (added 2026-08-31, after a live regression) ───────
-    # WHAT WENT WRONG. Fixing the BOM made this source work for the first
-    # time — 640 batters, all 20 columns — and Power promptly COLLAPSED
-    # slate-wide: mean 80.7 -> 56.0, median batter -23.1, worst -44.3
-    # (Yandy Diaz 79.3->45.7, Jeremy Peña 77.9->43.3, J. Crawford 67.0->22.7).
-    # Those are ordinary regulars, so the values themselves were wrong, not
-    # the matching.
-    # The arithmetic points at a units mismatch. If the percent-type columns
-    # arrive as FRACTIONS (0.405) where batter_power_score expects PERCENTS
-    # (40.5), the raw score loses:
-    #     hard_hit*0.8 28.91 + fb*0.6 20.20 + barrel*2.5 18.56
-    #   + sweet_spot*0.4 11.48 + pull_air*1.2 19.01  =  98.2 raw
-    #   = 28.9 Power points, vs the 24.7 actually observed (lower because
-    #     batters with L10 BBE data override some of these).
-    # pybaseball's exitvelo endpoint returns these as percents, which is why
-    # the old path was fine and nothing downstream ever had to care.
-    # WHAT THIS DOES. Measure the median of a field whose true percent value
-    # is never near zero (hard_hit_percent, league ~35-45):
-    #   • median < 1.5  -> unambiguously fractional. Rescale x100, log loudly.
-    #   • 1.5 to 10     -> neither scale is plausible. REJECT the source and
-    #                      fall through to exitvelo barrels, i.e. back to the
-    #                      known-good path, rather than shipping numbers no
-    #                      one can interpret.
-    #   • >= 10         -> normal percents, use as-is.
-    # Sample values are printed either way so the scale is visible in the log
-    # instead of having to be inferred from downstream damage a second time.
+    # ── SCALE / EMPTY-ROW VALIDATION (rewritten 2026-08-31, second attempt) ─
+    # ⚠️ THE FIRST VERSION OF THIS BLOCK WAS WRONG AND MADE THINGS WORSE.
+    # It measured the MEDIAN of HardHit% across all parsed batters, saw
+    # 0.0000, concluded "Savant is returning fractions", and multiplied 13
+    # columns by 100. The printed sample on that run was
+    # 'Andruw Monasterio': HH=31.9 Barrel=6.9 FB=31.0 — ALREADY correct
+    # percents. The rescale turned 31.9 into 3190.
+    # THE ACTUAL SITUATION: the url uses min=1, so the 640 rows include a
+    # large number of players with essentially no batted balls, whose
+    # hard_hit_percent / barrel_batted_rate / etc. come back as literal 0.
+    # More than half the rows are zeros, so the MEDIAN is 0 while the players
+    # who matter carry perfectly good percent values. The scale was never
+    # wrong; the median was just the wrong statistic.
+    # THAT ALSO EXPLAINS THE ORIGINAL POWER COLLAPSE (mean 80.7 -> 56.0),
+    # which was never a units bug either: Savant became the primary source and
+    # supplied 0.0 for batters that exitvelo barrels had real values for, and
+    # batter_power_score dutifully scored those zeros. A real MLB hitter never
+    # has 0% hard-hit — a zero here means "no data", not "no hard contact".
+    # FIX: treat 0 in these columns as MISSING (None) so _g() falls through to
+    # its default or another source, exactly as it does for a blank cell. Then
+    # judge scale on the NON-ZERO values only, where a genuine fraction/percent
+    # mix-up would still be visible.
     _PCT_COLS = ["HardHit%", "Barrel%", "SweetSpot%", "PullAir%", "PullBrl%",
                  "FB%", "HR/FB", "Pull%", "zone_contact_rate", "oz_contact_rate",
                  "zone_swing_rate", "swstr_pct", "first_pitch_strike_pct_batter"]
     if result:
-        _hh_vals = sorted(v for v in
-                          (r.get("HardHit%") for r in result.values())
-                          if v is not None)
-        if _hh_vals:
-            _hh_med = _hh_vals[len(_hh_vals) // 2]
-            _sample = list(result.items())[0]
-            print(f"     scale check — HardHit% median {_hh_med:.4f} across "
-                  f"{len(_hh_vals)} batters; sample {_sample[0]!r}: "
-                  f"HH={_sample[1].get('HardHit%')} Barrel={_sample[1].get('Barrel%')} "
-                  f"FB={_sample[1].get('FB%')} EV={_sample[1].get('EV')}")
+        _zeroed = 0
+        for _nm, _sr in result.items():
+            for _c in _PCT_COLS:
+                if _sr.get(_c) == 0:
+                    _sr[_c] = None
+                    _zeroed += 1
+        _hh_nz = sorted(v for v in (r.get("HardHit%") for r in result.values())
+                        if v is not None and v > 0)
+        _with_data = len(_hh_nz)
+        if _hh_nz:
+            _hh_med = _hh_nz[len(_hh_nz) // 2]
+            _sample = next(((k, v) for k, v in result.items()
+                            if v.get("HardHit%") not in (None, 0)), None)
+            print(f"     scale check — {_with_data} of {len(result)} batters carry a "
+                  f"non-zero HardHit% (median {_hh_med:.1f}); "
+                  f"{_zeroed} zero cells across {len(_PCT_COLS)} percent columns "
+                  f"blanked as 'no data'")
+            if _sample:
+                print(f"        sample {_sample[0]!r}: HH={_sample[1].get('HardHit%')} "
+                      f"Barrel={_sample[1].get('Barrel%')} FB={_sample[1].get('FB%')} "
+                      f"EV={_sample[1].get('EV')}")
+            # Only a genuine units error should trip this now — judged on the
+            # players who actually have data, not on the empty rows.
             if _hh_med < 1.5:
-                print(f"     ⚠️  Savant returned percent columns as FRACTIONS "
-                      f"(HardHit% median {_hh_med:.4f}, expected ~35-45). "
-                      f"Rescaling {len(_PCT_COLS)} percent columns x100.")
+                print(f"     ⚠️  Savant percent columns look FRACTIONAL "
+                      f"(non-zero HardHit% median {_hh_med:.4f}, expected ~35-45). "
+                      f"Rescaling {len(_PCT_COLS)} columns x100.")
                 for _nm, _sr in result.items():
                     for _c in _PCT_COLS:
-                        _v = _sr.get(_c)
-                        if _v is not None:
-                            _sr[_c] = _v * 100.0
-            elif _hh_med < 10.0:
+                        if _sr.get(_c) is not None:
+                            _sr[_c] = _sr[_c] * 100.0
+            elif _hh_med > 90.0:
                 raise ValueError(
-                    f"Savant HardHit% median {_hh_med:.3f} is implausible on either "
-                    f"scale (expect ~0.40 fractional or ~40 percent) — rejecting this "
-                    f"source rather than feeding uninterpretable values into "
+                    f"Savant non-zero HardHit% median {_hh_med:.1f} is implausibly high "
+                    f"(expect ~35-45) — rejecting rather than feeding it into "
                     f"batter_power_score; falling back to exitvelo barrels")
+        if _with_data < 100:
+            raise ValueError(
+                f"Savant returned {len(result)} rows but only {_with_data} with a "
+                f"non-zero HardHit% — too sparse to serve as the primary batter "
+                f"source; falling back to exitvelo barrels")
 
-    print(f"  ✅ Savant standard: {len(result)} batters (ISO, FB%, HR/FB)")
+    print(f"  ✅ Savant standard: {len(result)} batters "
+          f"({_with_data if result else 0} with contact-quality data)")
     return result
 
 
@@ -9738,35 +9751,41 @@ def fetch_season_stats(year: int, target_date=None) -> tuple[dict, dict]:
     # ── Try disk cache first ──────────────────────────────────
     cached_b = _load_cache(year, "batters_v2")
     cached_p = _load_cache(year, "pitchers")
-    # ── CACHED-SCALE GUARD (added 2026-08-31) ──────────────────────────────
-    # The scale validator in _fetch_via_savant_standard() only runs on a FETCH.
-    # A cache hit skips it entirely — so once a bad run writes fractional
-    # percent values to .stat_cache/batters_v2, every subsequent run reloads
-    # them and the validator never gets a chance to fire.
-    # THAT EXACT TRAP FIRED on 2026-08-31: the BOM fix made Savant work, its
-    # percent columns arrived as fractions, Power collapsed slate-wide (mean
-    # 80.7 -> 56.0), the bad values were cached, and the very next run — with
-    # the scale validator already deployed — produced a BYTE-IDENTICAL
-    # current_rankings.csv because it never re-fetched. A 20-hour cache will
-    # happily serve corrupt data for 20 hours after the bug is fixed.
-    # Same cheap test as the fetch-side validator: HardHit% is never near zero
-    # on a real percent scale (league ~35-45). If the cached rows fail it, drop
-    # the cache and force a clean re-fetch rather than serving known-bad data.
+    # ── CACHED-SCALE GUARD (added 2026-08-31, CORRECTED same day) ──────────
+    # WHY IT EXISTS: the validator inside _fetch_via_savant_standard() only
+    # runs on a FETCH. A cache hit skips it, so once a bad run writes broken
+    # values to .stat_cache/batters_v2, every later run reloads them and the
+    # validator never fires. That happened for real on 2026-08-31 — a fixed
+    # build produced a BYTE-IDENTICAL current_rankings.csv because it never
+    # re-fetched. A 20-hour cache will serve corrupt data for 20 hours after
+    # the bug is fixed.
+    # ⚠️ CORRECTED: the first version tested the median of HardHit% across ALL
+    # cached rows. That is the wrong statistic — the Savant url uses min=1, so
+    # over half the rows are players with no batted balls and a literal 0, and
+    # the median is 0 even when the batters who matter carry good values. The
+    # first version therefore rejected healthy caches AND mis-diagnosed the
+    # source bug as a units error. Judge on NON-ZERO values only, and require
+    # a reasonable COUNT of them — a cache where almost nothing has contact
+    # data is the real failure mode.
     if cached_b and len(cached_b) >= 50:
         try:
             _hh = sorted(v for v in
                          (r.get("HardHit%") for r in cached_b.values())
-                         if v is not None)
-            if _hh:
-                _med = _hh[len(_hh) // 2]
-                if _med < 10.0:
-                    print(f"  ⚠️  CACHED BATTER STATS REJECTED — HardHit% median "
-                          f"{_med:.4f} across {len(_hh)} batters is not a valid percent "
-                          f"scale (expect ~35-45). This cache was written by a run with "
-                          f"the Savant fraction/percent bug; serving it would silently "
-                          f"reproduce that run's collapsed Power values. Discarding and "
-                          f"re-fetching.")
-                    cached_b = None
+                         if v is not None and v > 0)
+            _med = _hh[len(_hh) // 2] if _hh else None
+            _bad = (
+                len(_hh) < 100                      # almost nothing has data
+                or (_med is not None and _med < 1.5)   # fractional scale
+                or (_med is not None and _med > 90.0)  # already rescaled/inflated
+            )
+            if _bad:
+                print(f"  ⚠️  CACHED BATTER STATS REJECTED — only {len(_hh)} of "
+                      f"{len(cached_b)} cached batters have a usable non-zero "
+                      f"HardHit%"
+                      + (f" (median {_med:.1f})" if _med is not None else "")
+                      + ". Serving this would reproduce a bad run's values. "
+                      "Discarding and re-fetching.")
+                cached_b = None
         except Exception as _csg:
             print(f"  ⚠️  cached-scale guard skipped ({_csg})")
     if cached_b and len(cached_b) >= 50:
