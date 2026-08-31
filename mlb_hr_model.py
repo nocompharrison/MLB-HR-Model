@@ -34470,8 +34470,16 @@ def export_excel(scores, games, top_n, filepath):
         _ndf["card_slot"] = _ndf.key.map(
             dict(zip(_ncard.key, _ncard.slot))).fillna("")
 
+        # newconv_raw ADDED 2026-08-31. This is the column newconv_rank is
+        # computed from (see the rank() call just above), so omitting it left
+        # the exported file with no way to see WHY one batter outranked
+        # another. On the 2026-08-31 slate the top five batters all carried an
+        # identical newconv_p=0.382978 / CONV100=100 while holding ranks 1-5,
+        # and the two NEWCONV card slots went to ranks 1-2 with nothing in the
+        # file explaining the margin. Exporting raw makes it auditable and
+        # shows whether a rank gap is real separation or a rounding sliver.
         _ndf[["batter", "team", "pitcher", "odds", "score", "hr_prob", "vuln",
-              "pm", "power", "newconv_p", "CONV100", "newconv_rank",
+              "pm", "power", "newconv_raw", "newconv_p", "CONV100", "newconv_rank",
               "card_slot", "old_conv", "neg05", "neg06"]] \
             .sort_values("newconv_rank") \
             .to_csv(_d / "current_newconv.csv", index=False, encoding="utf-8-sig")
