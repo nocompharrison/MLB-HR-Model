@@ -11400,6 +11400,35 @@ _BATTER_PWR_CALIB = 3.40    # recalibrated Jun 14 2026: raised from 3.160 → 3.
                               # instead of trivially passing for all DFS starters.
 
 def batter_power_score(b: BatterProfile) -> float:
+    # ── IMPOSSIBLE-VALUE CLAMP (added 2026-08-31) ──────────────────────────
+    # Every term below is a raw multiply with no bounds check, so ONE bad
+    # input can dominate the whole score. Confirmed live on 2026-08-31:
+    # Luis Arraez arrived with Blast% = 190.0 (also Barrel% 0.0, HH% 0.0 —
+    # the row is plainly corrupt). _blast_boost = (190 - 11) * 1.2 = +214.8
+    # raw, roughly +63 Power, which pushed a contact-first hitter to 82.5 and
+    # the TOP of the slate — above Schwarber, Alvarez, Olson and Caminero.
+    # Blast% is a percentage of batted balls; >100 is not a value, it is
+    # corruption. Clamping only the physically impossible range leaves every
+    # legitimate reading untouched (slate range that day was 7.9-190.0, and
+    # exactly one batter exceeded 100).
+    # ⚠️ This does NOT repair the underlying data — it stops a single corrupt
+    # field from silently deciding the top of the board. The source of the
+    # 190.0 is still unknown and worth tracing; it comes through the L10 BBE
+    # path, not the season-stats join fixed earlier today.
+    try:
+        for _f, _hi in (("blast_pct", 100.0), ("squp_pct", 100.0),
+                        ("barrel_pct", 100.0), ("hard_hit_pct", 100.0),
+                        ("fb_pct", 100.0), ("gb_pct", 100.0),
+                        ("pull_air_pct", 100.0), ("hr_fb_pct", 100.0),
+                        ("sweet_spot_pct", 100.0)):
+            _v = getattr(b, _f, None)
+            if _v is not None and _v > _hi:
+                print(f"     ⚠️  IMPOSSIBLE {_f}={_v} for {getattr(b,'name','?')} "
+                      f"— clamping to {_hi:.0f} (percent fields cannot exceed 100)")
+                setattr(b, _f, _hi)
+    except Exception:
+        pass
+
     """
     Composite batter power index. Calibrated so league-average = 50.
     Elite (Ohtani/Judge level) ≈ 85-95. Below avg ≈ 30-45.
