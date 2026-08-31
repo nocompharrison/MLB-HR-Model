@@ -25258,6 +25258,73 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     except Exception:
         pass
 
+    # ══ ⭐ MARKET-MODEL AGREEMENT (added 2026-08-31) ═══════════════════════
+    # Odds <= +400 AND Score >= 65 -> 27.0% HR (1.84x), n=189 across 30
+    # August 2026 slates (base 14.66%).
+    #
+    # WHY THIS ONE IS TRUSTWORTHY when the archetype library is not. It
+    # cleared the exact tests that library failed:
+    #   • Clean 2x2 - both variables contribute independently, neither is a
+    #     passenger. Odds<=400+Sc>=65 27.0% · Odds<=400+Sc<65 18.1% ·
+    #     Odds>400+Sc>=65 16.3% · Odds>400+Sc<65 11.8%. Within short odds
+    #     Score adds (p=0.012); within high Score odds adds (p=0.016). The
+    #     pair (1.84x) beats either alone (odds 1.39x, Score 1.49x).
+    #   • MAX-STATISTIC PERMUTATION NULL correcting for the 24-variant search
+    #     that found it: corrected p=0.0065, real 27.0% above the null's 95th
+    #     pct (23.5%). The archetype library landed at its null's 50th pct.
+    #   • TEMPORAL HOLDOUT got STRONGER out of sample: 22.6%/1.53x train ->
+    #     29.1%/2.01x test. Archetypes went the other way (4.05x -> 1.83x).
+    #   • Bonferroni across 15 variants: p=7.3e-05.
+    # MECHANISM: Score is the model's own estimate, odds is the market's.
+    # This isolates batters where two INDEPENDENT estimators agree - a
+    # different and sturdier thing than either being extreme on its own.
+    #
+    # ⚠️⚠️ TEXT ONLY - ZERO CONVICTION POINTS, ZERO RANKING EFFECT. This is
+    # deliberate and must stay that way. Implementing it as a hard gate on
+    # the Score slots WAS backtested (2026-08-31): 31.1% vs 27.8% all-August
+    # and 28.2% vs 20.5% post-fix - better in both windows, net +3 HRs over
+    # 18 changed slates - but p=0.74 / p=0.60, nowhere near significant, and
+    # the failure mode is brittle. Every HR the gate LOST was a batter just
+    # under a threshold (Score 63.9, 64.5, 64.6, 59.0; odds +560). A batter
+    # at 64.6 is not meaningfully different from 65.0. It is also infeasible
+    # ~1 day in 6 (median 7 qualifiers/slate, but 5 of 30 slates had <3, too
+    # few to fill the three Score slots). So: it informs the WRITE-UP and
+    # serves as a tiebreak rationale in a close composite call. It does not
+    # move conviction or ranking. Do not "upgrade" this to a conv_boost
+    # without a fresh, larger-n test - see memory entry 9.
+    # ⚠️ SCOPE NOTE: this block deliberately re-derives its own odds/score
+    # values from `odds`/`score` rather than reusing _od_v/_nsc. Those two are
+    # assigned inside the large try: block above (line ~24977); if anything
+    # earlier in that block raises, they never get bound, and since this block
+    # is itself wrapped in try/except the resulting NameError would be
+    # swallowed and the note would silently never fire. Re-deriving keeps this
+    # signal independent of upstream failures.
+    try:
+        _mma_odds = None
+        _mma_score = None
+        try:
+            _mma_odds = float(str(odds).replace("+", "").replace(",", "").strip())
+        except Exception:
+            _mma_odds = None
+        try:
+            _mma_score = float(score) if score is not None else None
+        except Exception:
+            _mma_score = None
+        if (_mma_odds is not None and 0 < _mma_odds <= 400.0
+                and _mma_score is not None and _mma_score >= 65.0):
+            _firing_grades.append(
+                f"⭐ MARKET-MODEL AGREEMENT: Odds={_mma_odds:.0f}(≤400) + Score={_mma_score:.1f}(≥65) "
+                f"→ 27.0% HR (1.84x, n=189, 30sl, base 14.66%). Both estimators agree — the "
+                f"model's own Score and the market's price. Independent 2x2 contribution "
+                f"(Score adds within short odds p=0.012; odds adds within high Score p=0.016); "
+                f"max-stat permutation null corrected p=0.0065; temporal holdout STRENGTHENED "
+                f"out-of-sample (1.53x→2.01x). Conviction language only — zero ranking credit, "
+                f"deliberately not a gate (gating tested and rejected 2026-08-31: brittle at "
+                f"the thresholds, p=0.74)."
+            )
+    except Exception:
+        pass
+
     # ══ HIGH-SCORE UNGRADED BAT (Aug 1 2026) ══════════════════════════════
     # Measured on the 93-slate master CSV (n=3,723, base 16.30%). A batter with a
     # good composite Score but NO named HR grade is currently invisible to the
