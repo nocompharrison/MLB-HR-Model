@@ -2032,17 +2032,62 @@ def inject_fl_lineups(mlb_games: list, fl_players: list, fl_lookup: dict) -> lis
                 # separates that specific pair, but requiring an actual
                 # abbreviation makes the rule correct on its own terms
                 # rather than relying on that.
+                # ── SUFFIX BUG FIXED (Aug 31 2026) ───────────────────────────
+                # The Aug 14 fix below keys on the LAST TOKEN of the name. For
+                # a suffixed player that token is the suffix, not the surname:
+                #   "Fernando Tatis Jr."  -> "f|jr"    (not "f|tatis")
+                #   "Michael Harris II"   -> "m|ii"    (not "m|harris")
+                # so it never matched the FL abbreviation ("F. Tatis" ->
+                # "f|tatis"), and the same player was appended a second time as
+                # a 📋 projected duplicate — exactly the failure the Aug 14 fix
+                # was written to stop, just via a different name shape.
+                # The plain normalised set had the same hole: "Ronald Acuna"
+                # vs "Ronald Acuña Jr." normalise to "ronald acuna" and
+                # "ronald acuna jr", which are not equal.
+                # CONFIRMED on the 2026-08-31 slate — three players duplicated
+                # across current_rankings.csv, current_newconv.csv AND
+                # current_detailed.csv:
+                #   Fernando Tatis Jr. / F. Tatis     (SD,  Conf + Proj)
+                #   Ronald Acuña Jr.   / Ronald Acuna (ATL, Conf + Proj)
+                #   Michael Harris II  / M. Harris    (ATL, Conf + Proj)
+                # Worst consequence: card_slot=NEWCONV was set on BOTH Acuña
+                # rows, so the model believed it had filled two NewConv slots
+                # with two elite batters when it was one player counted twice —
+                # silently costing the genuine second NewConv pick.
+                # FIX: strip trailing generational suffixes before BOTH the
+                # exact-normalised comparison and the initial+surname key.
+                # Same list and same guard as the batter-stats matcher fixed
+                # earlier today ('v' deliberately excluded as too risky a
+                # standalone token; never strip down to a single token).
+                _LU_SUFFIXES = {"jr", "sr", "ii", "iii", "iv"}
+
+                def _strip_suffix(_n):
+                    _p = _n.split()
+                    while len(_p) > 2 and _p[-1] in _LU_SUFFIXES:
+                        _p.pop()
+                    # A two-token name whose second token is a suffix
+                    # ("Tatis Jr.") would otherwise keep the suffix as its
+                    # surname; drop it only if something remains.
+                    if len(_p) == 2 and _p[-1] in _LU_SUFFIXES:
+                        _p = _p[:1]
+                    return " ".join(_p)
+
+                def _norm_lu(_nm):
+                    return _strip_suffix(
+                        _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(_nm))
+                                .encode("ascii", "ignore").decode().lower().strip()))
+
+                _existing_norm = {_norm_lu(e[0]) for e in existing_lu}
+
                 def _lastname_initial_key(_nm):
-                    _n = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(_nm))
-                                 .encode("ascii", "ignore").decode().lower().strip())
+                    _n = _norm_lu(_nm)
                     _parts = _n.split()
                     if len(_parts) < 2:
                         return None
                     return f"{_parts[0][:1]}|{_parts[-1]}"
 
                 def _is_abbreviated(_nm):
-                    _n = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(_nm))
-                                 .encode("ascii", "ignore").decode().lower().strip())
+                    _n = _norm_lu(_nm)
                     _parts = _n.split()
                     return len(_parts) >= 2 and len(_parts[0]) == 1
 
@@ -2062,8 +2107,10 @@ def inject_fl_lineups(mlb_games: list, fl_players: list, fl_lookup: dict) -> lis
                     raw_pos = str(p.get("pos", "")).split("\n")[0].strip()
                     if raw_pos in pitcher_pos:
                         continue
-                    pname_norm = _re.sub(r"[^a-z ]", "", _ud.normalize("NFKD", str(p["name"]))
-                                         .encode("ascii", "ignore").decode().lower().strip())
+                    # Must use the SAME suffix-stripping normaliser as
+                    # _existing_norm above, or a suffixed FL name is compared
+                    # against a stripped existing set and never matches.
+                    pname_norm = _norm_lu(p["name"])
                     _p_li = _lastname_initial_key(p["name"])
                     if pname_norm in _existing_norm:
                         continue
