@@ -10508,63 +10508,6 @@ _BATTER_SC_PROBE_COUNT = [0]   # diagnostic call-count limiter for the probe in 
 
 
 def build_batter(name, row, recent, overrides, hr_props) -> BatterProfile:
-    # ── STATCAST-FALLBACK PROBE (added 2026-08-31, DIAGNOSTIC ONLY) ─────────
-    # Read-only. Changes no value and no behaviour — it only prints.
-    #
-    # THE OPEN QUESTION IT ANSWERS. A handful of elite bats score ~45-50 Power
-    # while everyone else sits ~82: on 2026-08-31, Tatis 44.6 and M. Harris
-    # 49.9 vs a slate mean of 81.7. Their 9-STAT rows show Barrel% 7.5,
-    # HH% 36.5, GB% 44.0, FB% 34.0, Blast% 11.0 — the EXACT BatterProfile
-    # defaults — while ISO differs between them and is real. So the row exists
-    # and carries some real columns, but the Statcast-sourced ones are missing
-    # and silently fall back to league average via _g(row, ..., default=).
-    # That understates power badly and is invisible downstream: 46.5-ish reads
-    # as a genuine "below average" measurement.
-    # It also poisoned NewConv — 18 such rows (0.56% of training) produced its
-    # entire -0.113 power coefficient (drop them and it goes to +0.002), which
-    # is why 'power' was removed from that model on 2026-08-31.
-    #
-    # ⚠️ AN EARLIER GUESS AT THE CAUSE WAS WRONG AND WAS REVERTED. It assumed
-    # an all-defaults BatterProfile (which scores exactly 46.5) and gated on
-    # all eight primary fields being default. The live values are 44.6 / 49.1 /
-    # 49.9 / 50.3 — all different, none exactly 46.5 — so these rows are NOT
-    # all-defaults and that guard could never fire. Do not re-apply that theory
-    # without checking actual field values first. Hence this probe: report what
-    # the row REALLY contains instead of inferring from the output number.
-    #
-    # Not yet ruled out, and what to compare the probe output against:
-    #   • The ISO/FB%/HR-FB backfill loop is `for name, iso_row in
-    #     _iso_data.items(): if name in batter_map:` — one-way. It can enrich
-    #     an existing entry but can never ADD one, so a batter present in the
-    #     MLB Stats API set (621 on 2026-08-31) but absent from exitvelo
-    #     barrels (587) cannot be recovered by it.
-    #   • Savant standard stats CSV failed outright that run ("Too few batters
-    #     from Savant standard: 0"), so exitvelo barrels was the sole primary.
-    #   • Name-key shape: exitvelo builds "First Last" from Savant's
-    #     "Last, First". Suffix players ("Tatis Jr.", "Harris II") and the
-    #     abbreviated lineup names ("F. Tatis", "M. Harris") are the obvious
-    #     mismatch risk.
-    try:
-        _sc_missing = (
-            _g(row, "Barrel%", "Barrels/PA%", "barrel_batted_rate", default=-1) == -1
-            and _g(row, "HardHit%", "hard_hit_percent", default=-1) == -1
-            and _g(row, "EV", "exit_velocity_avg", default=-1) == -1
-        )
-        if _sc_missing and _BATTER_SC_PROBE_COUNT[0] < 12:
-            try:
-                _cols = sorted(list(getattr(row, "index", [])))
-            except Exception:
-                _cols = []
-            print(f"     🔬 STATCAST-FALLBACK: {name!r} has a stats row but NO "
-                  f"Barrel%/HardHit%/EV — power will fall back to league-average "
-                  f"defaults and understate this batter.")
-            print(f"        columns actually present ({len(_cols)}): {_cols[:24]}")
-            _BATTER_SC_PROBE_COUNT[0] += 1
-            if _BATTER_SC_PROBE_COUNT[0] == 12:
-                print(f"        … further STATCAST-FALLBACK reports suppressed this run.")
-    except Exception:
-        pass
-
     # Use true league-average defaults — MUST match BatterProfile dataclass defaults
     # so players without real stats don't masquerade as elite
     b = BatterProfile(
@@ -10949,6 +10892,56 @@ def build_batter(name, row, recent, overrides, hr_props) -> BatterProfile:
 
 
 def build_batter_default(name, overrides, hr_props) -> BatterProfile:
+    # ── UNRESOLVED-BATTER PROBE (added 2026-08-31, DIAGNOSTIC ONLY) ─────────
+    # Read-only. Prints; changes nothing.
+    #
+    # REACHING THIS FUNCTION MEANS NO SEASON-STATS ROW WAS FOUND for this
+    # batter. The profile below is built from dataclass defaults alone, so
+    # batter_power_score() lands near 46.5 (exactly 46.5 with no overrides;
+    # `overrides` then nudges it a few points either way). That number reads
+    # downstream as a genuine "below average power" MEASUREMENT — it is not
+    # one, and nothing in the CSV output distinguishes the two.
+    #
+    # CONFIRMED 2026-08-31 from the score-time snapshots: Ronald Acuña and
+    # M. Harris both showed raw attrs barrel_pct=7.5 / blast_pct=11.0 — the
+    # dataclass defaults — while every resolved batter alongside them had real
+    # values (Baldwin 8.8/19.1, Olson 10.0/19.3). Their Power came out 49.1 and
+    # 49.9 vs a slate mean of 81.7, and Tatis 44.6.
+    # WHY THIS MATTERS BEYOND ONE SLATE: 18 such rows (0.56% of NewConv's
+    # training set) produced that model's entire -0.113 power coefficient —
+    # remove them and it goes to +0.002. They are mostly elite bats (Tatis,
+    # Bogaerts, Acuña, Witt, Schwarber, Murakami) that homered at 61.1% vs a
+    # 15.4% base, so the model learned "low Power -> HR" from a name-join
+    # failure. That is why 'power' was dropped from NewConv on 2026-08-31.
+    #
+    # ⚠️ AN EARLIER PROBE WAS PLACED IN build_batter() AND NEVER FIRED,
+    # because these batters never reach that function — they arrive here
+    # instead. Note the distinction: build_batter() handles a row that EXISTS
+    # but may be partial; this function handles NO ROW AT ALL. An earlier
+    # guard inside batter_power_score() was also wrong (it gated on all eight
+    # primary fields being default, which the live 44.6/49.1/49.9 values are
+    # not) and has been reverted.
+    #
+    # WHAT THE OUTPUT TELLS YOU: any name appearing here is a resolution
+    # failure between the lineup name and the season-stats keys. The lineup
+    # side uses abbreviated names ("F. Tatis", "M. Harris") and the exitvelo
+    # source builds "First Last" from Savant's "Last, First" — so suffix
+    # players ("Tatis Jr.", "Harris II") are the prime suspects, since the
+    # abbreviation matcher keys on the LAST token and "Jr."/"II" is the last
+    # token for them. Compare the names printed here against the exitvelo key
+    # list to confirm before changing any matching logic.
+    try:
+        if _BATTER_SC_PROBE_COUNT[0] < 15:
+            print(f"     🔬 UNRESOLVED BATTER: {name!r} (team "
+                  f"{overrides.get('team','?')}) — no season-stats row matched. "
+                  f"Power/Barrel%/Blast% will be dataclass defaults (~46.5 Power), "
+                  f"NOT a measurement.")
+            _BATTER_SC_PROBE_COUNT[0] += 1
+            if _BATTER_SC_PROBE_COUNT[0] == 15:
+                print("        … further UNRESOLVED BATTER reports suppressed this run.")
+    except Exception:
+        pass
+
     b = BatterProfile(name=name,
                       team=overrides.get("team","UNK"),
                       hand=overrides.get("hand","R"),
