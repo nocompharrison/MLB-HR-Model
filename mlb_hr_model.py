@@ -3302,6 +3302,38 @@ def load_rotowire_props(
                     "hr_vs_opp":  _flt("Hit Rate: Vs Opponent"),
                     "sb_factor":  _flt("Sportsbooks Factor"),
                     "rw_factor":  _flt("RotoWire Projection Factor"),
+                    # ── CAPTURED FOR FUTURE TESTING, NOT YET USED (Sep 1 2026) ──
+                    # RotoWire's own projection vs the posted line. This is a
+                    # THIRD independent estimator: the model has its own Score,
+                    # the market has its price, and RotoWire has a projection
+                    # built by different people from different inputs.
+                    # WHY IT IS WORTH ACCUMULATING: the strongest new signal
+                    # found this week — MARKET-MODEL AGREEMENT (Odds<=400 AND
+                    # Score>=65 -> 27.0% HR, 1.84x, corrected p=0.0065) — works
+                    # precisely BECAUSE two independent estimators agree. A
+                    # third estimator on the same target is the natural
+                    # extension of that, not a fishing expedition.
+                    # ⚠️ NOTHING READS THESE YET. They are stored so history
+                    # accumulates; there is currently ZERO history to test
+                    # against, so any use before ~20-30 slates of capture would
+                    # be unbacktested. Do not wire them into scoring until the
+                    # panel exists and the test is run.
+                    # ⚠️ SCOPE: useful on the Hits/Total Bases/RBI rows only —
+                    # those have full-slate, multi-book coverage. The RotoWire
+                    # sheet's "Home Runs" rows are deliberately NOT parsed
+                    # (BATTER_MARKETS above) and should stay that way: they are
+                    # Sleeper-only, cover ~10% of the slate, and their hit-rate
+                    # columns are 5-game COUNTS wearing a percentage sign
+                    # (2 of 5 = "40%", 95% CI 9-79%). For a 15%-per-game power
+                    # hitter, p(2+ HR in 5 games) = 16.5%, so ~1 in 6 ordinary
+                    # bats shows a "40% L5" by chance — on the 11-batter sample
+                    # checked Sep 1 2026, exactly 3 did, which is the null
+                    # expectation. HR odds stay on ActionNetwork/SGO.
+                    "rw_proj_diff":     _flt("RotoWire Projection Difference"),
+                    "rw_proj_diff_pct": _flt("RotoWire Projection Difference %"),
+                    "line_open":        _flt("Opened At"),
+                    "line_prev":        _flt("Previous Line"),
+                    "line_pct_change":  _flt("Line % Change"),
                     "lean":       row.get("Lean", ""),
                 }
 
@@ -21699,6 +21731,21 @@ def _sheet_hit_props(wb, scores, top_n):
         # but buried among every other note that fired for that batter. A
         # dedicated column is actually scannable.
         "DFF\nCross-Check",
+        # ── CAPTURE-ONLY COLUMNS (added Sep 1 2026) ───────────────────────
+        # Written so history ACCUMULATES in FantasyLabsMLB.csv. Nothing reads
+        # them; they are not scored, ranked, or displayed on any card.
+        # RW Proj Diff % is RotoWire's own projection vs the posted line — a
+        # THIRD independent estimator alongside the model's Score and the
+        # market's price. Worth accumulating because MARKET-MODEL AGREEMENT
+        # (the strongest new signal this week, corrected p=0.0065) works
+        # precisely because two independent estimators agreeing beats either
+        # being extreme alone.
+        # Line Open / Line %Chg capture pre-game line movement, the raw
+        # material for a cleaner SHARP LINE MOVE signal than the current one.
+        # ⚠️ ZERO history exists today. Do not wire any of these into scoring
+        # until ~20-30 slates have accumulated AND a real backtest is run —
+        # capturing is free, using them early is not.
+        "RW Proj\nDiff %", "Line\nOpen", "Line\n%Chg",
     ]
     s = Side(style="thin", color="AAAAAA")
     for c, h in enumerate(headers, 1):
@@ -21791,6 +21838,24 @@ def _sheet_hit_props(wb, scores, top_n):
         # Notes column — pipe-joined
         notes_str = " | ".join(sc.hit_notes) if sc.hit_notes else ""
         _dc_hp(13, notes_str, align="left", wrap=True)
+
+        # ── CAPTURE-ONLY VALUES, cols 15-17 (added Sep 1 2026) ────────────
+        # Written purely so history accumulates in the archive. NOTHING reads
+        # these — not scored, not ranked, not shown on any card. See the
+        # header comment for why they are worth accumulating and the explicit
+        # warning not to use them before ~20-30 slates + a real backtest.
+        # Sourced from the Total Bases row (full-slate, multi-book coverage).
+        # The RotoWire sheet's Home Runs rows are deliberately NOT used —
+        # Sleeper-only, ~10% slate coverage, and their hit-rate columns are
+        # 5-game counts wearing a percentage sign.
+        try:
+            _rwm = getattr(sc, "_rw_by_market", None) or {}
+            _tb  = _rwm.get("Total Bases") or _rwm.get("Hits") or {}
+            _dc_hp(15, _tb.get("rw_proj_diff_pct") if _tb.get("rw_proj_diff_pct") else "")
+            _dc_hp(16, _tb.get("line_open")       if _tb.get("line_open")       else "")
+            _dc_hp(17, _tb.get("line_pct_change") if _tb.get("line_pct_change") else "")
+        except Exception:
+            pass
 
         # Aug 13 2026: dedicated DFF Cross-Check column, same pattern as the
         # Rankings sheet. Shows the tier that actually earned conviction
@@ -36287,6 +36352,62 @@ def main():
                   + (f" | 💥 Extreme L2: {', '.join(_l5_extreme[:3])}" if _l5_extreme else "")
                   + (f" | HR-prone: {', '.join(_l5_tired[:3])}" if _l5_tired else "")
                   + (f" | Suppressing: {', '.join(_l5_sharp2[:3])}" if _l5_sharp2 else ""))
+
+            # ══ HR-PRONE L5 PITCHER SCAN (added 2026-09-01) ════════════════
+            # WHY THIS EXISTS. The summary line above truncates to 3 names and
+            # sits mid-stream, so it reads as trivia rather than a game-
+            # selection input. On 2026-08-31 Kyle Harrison carried HR-prone L5
+            # (1.82 HR/9 recently vs 1.20 season) and gave up 5 of the slate's
+            # 16 HRs to our own ranked pool — 5/8 of his batters, 62.5%. He was
+            # never targeted, because his Vuln came out 40.7, below the
+            # Priority Tier gate of 52.
+            #
+            # ⚠️ AND REWEIGHTING VULN DOES NOT FIX THAT — measured, not assumed.
+            # pitcher_vuln_score blends HR/9 as _l5_w*l5_hr9 + (1-_l5_w)*hr9
+            # with _l5_w = 0.40, then hr9_adj = (eff_hr9 - 1.30) * 15. For
+            # Harrison that is only +2.22 vuln points. Raising the L5 weight:
+            #     0.4 -> vuln ~40.7   0.6 -> ~42.6
+            #     0.8 -> ~44.4        1.0 -> ~46.3
+            # Even at 100% L5 weight he lands 5.7 short of the 52 gate. The
+            # signal cannot be rescued by reweighting; it has to be surfaced
+            # SEPARATELY from the vuln composite that averages it away.
+            #
+            # THE FLAG IS INDEPENDENTLY VALIDATED (31 Aug slates, n=2,607,
+            # base 14.65%):
+            #     HR-prone L5 fires    : 18.72% (1.28x), p=0.0003, n=737
+            #     within-slate permutation null: real 18.72% vs null 15.06%,
+            #     p<0.0001 — it beats its own null, the test the archetype
+            #     library failed.
+            #     For comparison, Vuln>=52 on this same panel: 1.17x, p=0.20.
+            # AND IT IS NOT ABSORBED BY VULN — it lifts INSIDE vuln bands:
+            #     Vuln<44 : 22.6% vs 12.7% (p=0.004)
+            #     Vuln48-52: 20.3% vs 12.4% (p=0.004)
+            #     median Vuln is near-identical for flagged vs unflagged
+            #     (48.7 vs 45.8), i.e. the vuln number does not reflect it.
+            # ⚠️ NO conviction points are added here — the factor already
+            # feeds pitcher_vuln_score and the per-batter note. This is a
+            # VISIBILITY fix at the game-selection stage, which is where the
+            # Aug 31 miss actually happened.
+            try:
+                _hrp = sorted(
+                    [(n, d) for n, d in _l5_data.items()
+                     if d.get("recent_hr_factor", 1.0) >= 1.35],
+                    key=lambda kv: -kv[1].get("recent_hr_factor", 1.0))
+                if _hrp:
+                    print(f"\n  🔥 HR-PRONE L5 STARTERS — {len(_hrp)} of {len(_l5_data)} "
+                          f"({len(_hrp)/max(1,len(_l5_data))*100:.0f}%). Validated 1.28x, "
+                          f"p=0.0003, beats its own permutation null. Check these GAMES "
+                          f"regardless of the starter's Vuln score:")
+                    for _n, _d in _hrp:
+                        print(f"     🔥 {_n:<24} L5 {_d.get('l5_hr9',0):.2f} HR/9 vs "
+                              f"season {_d.get('l5_hr9',0)/max(0.01,_d.get('recent_hr_factor',1.0)):.2f} "
+                              f"(factor {_d.get('recent_hr_factor',1.0):.2f}, {_d.get('l5_ip',0):.0f} IP)")
+                    print(f"     → NOT captured by Vuln: the L5 term is only 40% of a blended "
+                          f"HR/9 that then scales at 15 pts, so even an extreme recent stretch "
+                          f"moves Vuln by only a few points. Treat as a separate game-selection "
+                          f"input, not a tiebreak inside Vuln.\n")
+            except Exception as _hrpe:
+                print(f"  ⚠️  HR-prone L5 scan skipped ({_hrpe})")
         except Exception as _l5e:
             print(f"  ⚠️  Pitcher L5 fetch failed: {_l5e} — using season averages")
 
