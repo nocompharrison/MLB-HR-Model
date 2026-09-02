@@ -26840,6 +26840,13 @@ def _score_sharp(sc, rank: int = 99) -> dict:
             f"86.8% hit, 1.395x, n=38, p=0.0011; beats its own permutation null "
             f"p=0.006. Thin sample, tracked since 2026-09-02.)"
         )
+        # +12 pts — calibrated against the comparable-strength neighbor above
+        # ("71.4% = 1.23x: valid, +12 pts calibrated"), not the 86%/+16 one,
+        # specifically BECAUSE n=38 is thin here vs that entry's larger sample.
+        # Revisit the point value once September data lets this be re-tested;
+        # do not bump toward +16 on the strength of the RATE alone without
+        # more n behind it.
+        hit_pts = min(20, hit_pts + 12)
 
     # Prepend to _hit_firing so screaming combos appear first in hit_grade
     if _scream_hit_entries:
