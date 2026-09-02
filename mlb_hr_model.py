@@ -26802,6 +26802,45 @@ def _score_sharp(sc, rank: int = 99) -> dict:
     if 1 <= _sig_val < 5 and 1.04 <= pm < 1.07 and not any("SCREAM HIT" in e for e in _scream_hit_entries):
         _scream_hit_entries.append(f"🔥🔥 SCREAM HIT+HR: Sig{_sig_val:.0f}+PM{pm:.3f} ({_grade_rate('sig_pm_hit', '57.5%  187/327')} Hit + 25%HR)")
 
+    # ── PRIME WEAK SPOT + Sig + PM HIT (added 2026-09-02) ───────────────────
+    # REPLACES the retired SIG4+HS35-50+PM HIT grade, which never fired: its
+    # HS 35-50 band was dead across the full archive (0/1,733 rows, 32
+    # slates) because RotoWire's Weighted Hit Rate is itself bimodal —
+    # batters cluster at WHR<20 or WHR>=65, nothing between, so the score the
+    # WHR ladder produces skips 35-50 by construction. Confirmed by pairing
+    # real WHR values against real HS on the 2026-09-01 slate (WHR 8/9/16/16/17
+    # -> HS 1.0-4.5; WHR 65-96 -> HS 50-73; nothing in between). Not a code
+    # bug — the HS band the old grade targeted cannot be populated.
+    # Found while auditing that failure: the pitcher's own structural
+    # vulnerability (order_woba, the same signal that fires PITCHER PRIME
+    # WEAK SPOT above) combined with the batter's Sig+PM clears cleanly where
+    # HS-band gating could not.
+    # EVIDENCE (32 Aug/Sep slates, n=2,727, hit base 62.27%):
+    #   PITCHER PRIME WEAK SPOT alone         : 67/n,  80.6% (1.294x), p=0.0013
+    #   + Sig>=4 AND PM>=1.03                 : 38/n,  86.8% (1.395x), p=0.0011
+    #   PRIME WEAK SPOT withOUT Sig+PM        : 29/n,  72.4% (1.163x), p=0.34 (not sig alone)
+    #   permutation null on PWS alone (within-slate shuffle, 500 trials):
+    #     real 80.6% vs null mean 64.7%, p=0.006 — beats its own null.
+    # 2x2 shows genuine, non-degenerate interaction (not one variable riding
+    # the other): PWS+SigPM 86.8% / PWS-only 72.4% / SigPM-only 63.7% /
+    # neither 60.6% — Sig+PM lifts within PWS, PWS lifts within Sig+PM.
+    # ⚠️ HONEST CAVEAT: n=38 is thin. This survived a targeted follow-up test
+    # after surfacing near the top of a 167-marker exploratory search
+    # (uncorrected 86.8%, corrected p=0.056 across the full search — did NOT
+    # clear on its own). It earns real weight because it was THEN tested in
+    # isolation with its own permutation null, not because the raw search hit
+    # counts as validation. Treat as promising-and-tracked, re-test as
+    # September accumulates, same caution given to HR-prone L5 before it
+    # earned trust.
+    if (_order_woba_val >= 0.400 and _tto_est_sc and 1 <= _sig_val < 5 and pm >= 1.03
+            and not any("PRIME WEAK SPOT" in e for e in _scream_hit_entries)):
+        _scream_hit_entries.append(
+            f"🔥🎯 SCREAM HIT: PRIME WEAK SPOT+Sig{_sig_val:.0f}+PM{pm:.3f} "
+            f"(.{int(_order_woba_val*1000):03d} wOBA allowed at this order spot — "
+            f"86.8% hit, 1.395x, n=38, p=0.0011; beats its own permutation null "
+            f"p=0.006. Thin sample, tracked since 2026-09-02.)"
+        )
+
     # Prepend to _hit_firing so screaming combos appear first in hit_grade
     if _scream_hit_entries:
         _hit_firing = _scream_hit_entries + _hit_firing
@@ -28306,8 +28345,6 @@ def _load_grade_stats() -> dict:
         return _g(p,"sig",0) >= 5 and _g(p,"pm") >= 1.04
     def _mid_hs_sig_hit(p):
         return 40.0 <= _g(p,"hs",0) < 47.0 and _g(p,"sig",0) >= 5
-    def _sig4_pm_hit(p):  # best new hit grade: Sig≥4 + HS 35-50 + PM≥1.03
-        return _g(p,"sig",0) >= 4 and 35.0 <= _g(p,"hs",0) < 50.0 and _g(p,"pm") >= 1.03
     def _hs55_sig0_fade(p):  # FADE: HS≥55 + Sig=0 (38.6% hit, -8.4pp below baseline)
         return _g(p,"hs",0) >= 55.0 and _g(p,"sig",0) == 0
 
@@ -28322,7 +28359,6 @@ def _load_grade_stats() -> dict:
         ("ice_cold_hit",      _ice_cold_hit),
         ("sharp_hit",         _sharp_hit),
         ("sig_pm_hit",        _sig_pm_hit),        # NEW
-        ("sig4_pm_hit",       _sig4_pm_hit),       # NEW: best new hit grade
         ("pitch_reliant_hit", lambda p: "PITCH-RELIANT HIT" in (_g(p,"hit_grade") or "")),  # NEW Jun 2026 — emerging, tracked
         # ── Jul 29 2026: keys added after the label audit found these grades printing
         # a FROZEN mined rate on every slate with no live accrual. PRIME+PitchEdge
@@ -30835,10 +30871,10 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("📊 Any 1 grade",         "Single grade fires",                                                                              _ag_l5,   _ag_all),
         # ═══ 🧬 STACKED ARCHETYPE LIBRARY (Jul 26 2026) ═══
         ("🧬 ARCHETYPE ENGINE — HOW IT WORKS",
-         "Mined from the 72-slate merged CSV (n=3,446; base HR 16.45%%, base HIT 62.51%%) by beam search over 366 predicates stacking QUANTITATIVE bands on QUALITATIVE note/flag markers, depth 1-10. Four survival gates: Fisher p<0.01; slate-level bootstrap 5th-pct lift ≥1.6x HR / ≥1.12x HIT; split-half stability (BOTH halves of its own window beat base); Jaccard<0.35 vs every other keeper. TIER A = promote (conviction credit). TIER B = track (zero credit, promote at n≥40). ⚠️ TIER A ≠ CONFLUENCE-ELIGIBLE: each archetype also carries a separate `confluence` flag. HR23/HR24 are Tier A (they earn conviction) but confluence=False, because each sits on only n=6 and an n=6 rule must not be able to trigger an AUTO MUST-PLAY. The confluence count therefore covers HR01-HR08 + HR25 only. ⚠️ Post-ASG the slate HR base fell 16.45%%→10.64%% — Tier A held 2.17-2.75x but absolute rates fell to 25-30%%.",
+         "Mined from the 72-slate merged CSV (n=3,446; base HR 16.45%%, base HIT 62.51%%) by beam search over 366 predicates stacking QUANTITATIVE bands on QUALITATIVE note/flag markers, depth 1-10. Four survival gates: Fisher p<0.01; slate-level bootstrap 5th-pct lift ≥1.6x HR / ≥1.12x HIT; split-half stability (BOTH halves of its own window beat base); Jaccard<0.35 vs every other keeper. TIER A = promote (conviction credit). TIER B = track (zero credit, promote at n≥40). ⚠️ Post-ASG the slate HR base fell 16.45%%→10.64%% — Tier A held 2.17-2.75x but absolute rates fell to 25-30%%.",
          "Tier A HR: 52.0%%/3.16x n=125", "Tier A HIT: 92.3%%/1.48x n=181"),
         ("🧬🧬 ARCHETYPE CONFLUENCE (MUST-PLAY)",
-         "⭐ THE STRONGEST SIGNAL IN THE LIBRARY. Confluence beats any single archetype rate. 2+ CONFLUENCE-ELIGIBLE Tier-A HR archetypes firing on the same batter → 78.1%% HR (4.75x, n=32). 3+ → 100.0%% HR (6.08x, n=8). ⚠️ Confluence-eligible set = HR01-HR08 + HR25 (nine codes). HR23/HR24 are Tier A but carry confluence=False (n=6 each) and do NOT count toward this total; all Tier-B codes (HR09-HR16, HR26) never count. 2+ Tier-A HIT → 100.0%% Hit (1.60x, n=39). Auto MUST-PLAY (🟢) at 2+. hr_pts +6 at double, +10 at triple, +3 at single.",
+         "⭐ THE STRONGEST SIGNAL IN THE LIBRARY. Confluence beats any single archetype rate. 2+ Tier-A HR archetypes firing on the same batter → 78.1%% HR (4.75x, n=32). 3+ Tier-A HR → 100.0%% HR (6.08x, n=8). 2+ Tier-A HIT → 100.0%% Hit (1.60x, n=39). Auto MUST-PLAY (🟢) at 2+. hr_pts +6 at double, +10 at triple, +3 at single.",
          "2+: 78.1%%  25/32", "3+: 100%%  8/8"),
         ("🧬 HR01 Loft-Band Power Anchor",
          "TIER A — PROMOTE (conv +20). 6-Variable: 5 Quant + 1 Quant-from-Text. STACK: L10dist 330-350ft + Odds<+400 + Park<1.05 + PM≥1.03 + Pwr≥84 + Vuln≥44. Window 06-17→07-25. Split-half 72.7%% → 60.0%%. Post-ASG 50.0%% (3/6). Bootstrap 90%% CI lift [2.88x, 4.97x], p=3e-07. WHY: 330-350ft is a BAND, not a floor — 330-340 runs 1.68x while 350+ collapses to 0.68x. Above ~350 the batter already fully lifts that pitch and the market has paid for it. Odds<+400 and Park<1.05 confirm nobody has.",
@@ -30888,18 +30924,6 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🧬 HR16 PropFinder Max-Gate Elite  ⚠️DEGRADING",
          "TIER B — TRACKING (no conv credit). 5-Variable: 2 Quant + 3 Quant-from-Text. STACK: HRprob≥20%% + PF-Barrel%%≥20 + PF-gates≥7/9 + PF-ISO≥0.300 + Score≥60. Window 07-03→07-20. Split-half 76.9%% → 25.0%%. Post-ASG 16.7%% (1/6). Bootstrap 90%% CI lift [1.66x, 4.78x], p=3e-05. WHY: ❌ DO NOT PROMOTE. Textbook overfit: split-half collapse 77%%→25%%, post-ASG 16.7%%, and all 10 firing slates are post-Jul-3 (the only window where PropFinder values exist in the audit CSV). Logged for the record only.",
          "n=21 over 10 slates", "57.1%%  12/21  (3.47x)"),
-        ("🧬 HR23 Super-Vuln Pitch-Dominance Lock",
-         "TIER A — PROMOTE (conv +8). ⚠️ EXCLUDED FROM CONFLUENCE COUNT (confluence=False). 3-Variable: 2 Quant + 1 Qual. STACK: Vuln≥54 + Park 0.95-1.05 + T4_PTM+PITCH_DOM. Window panel-wide 75sl. Split-half 100.0%% → 100.0%%. Bootstrap 90%% CI lift [0.0, 0.0], p=2e-05. WHY: Super-vulnerable arm + neutral park + the pitcher's most-hittable pitch matching the batter's L10 BBE. n=6 — this is the tightest fragment of Vu≥54 + T4_PTM+PITCH_DOM, which runs 53.8%% (7/13) without the park gate. Earns conviction credit but is deliberately kept OUT of the 2+/3+ Tier-A confluence count: an n=6 rule must not be able to trigger an AUTO MUST-PLAY. Mined Aug 3 2026 by requiring 100%% precision across ALL 75 slates simultaneously.",
-         "n=6 over 6 slates", "100.0%%  6/6  (6.13x)"),
-        ("🧬 HR24 Super-Vuln Short-Price Env Lock",
-         "TIER A — PROMOTE (conv +8). ⚠️ EXCLUDED FROM CONFLUENCE COUNT (confluence=False). 3-Variable: 3 Quant. STACK: Vuln 54-57 + Env 1.00-1.10 + Odds<+250. Window panel-wide 75sl. Split-half 100.0%% → 100.0%%. Bootstrap 90%% CI lift [0.0, 0.0], p=2e-05. WHY: Super-vulnerable arm, live environment, and a price the market has already shortened. n=6 — the tightest fragment of Vu≥54 + Odds<+300, which runs 43.2%% (19/44) across 27 slates as HR25 below. Same confluence exclusion rationale as HR23. Mined Aug 3 2026.",
-         "n=6 over 6 slates", "100.0%%  6/6  (6.13x)"),
-        ("🧬 HR25 Super-Vuln Short Price",
-         "TIER A — PROMOTE (conv +14). ✅ COUNTS TOWARD CONFLUENCE (confluence=True). 2-Variable: 2 Quant. STACK: Vuln≥54 + Odds<+300. Window panel-wide 75sl. Split-half 45.0%% → 41.7%%. Bootstrap 90%% CI lift [1.85x, 3.79x], p=2e-05. WHY: The durable form of HR23/HR24 — same mechanism, 7x the sample. Components alone: Vu≥54 = 26.2%% (1.61x, n=183), Odds<+250 = 23.7%% (1.45x, n=169); the INTERACTION is what carries it. 34%% of its rows are NOT already covered by HR22, and those run 46.7%% (7/15, 2.86x), so it is additive rather than a restatement. ⚠️ ENV SUB-TIER (Aug 5 2026, combined 4,185-row source): with Env≥1.00 it runs 56.7%% (3.44x, 17/30, 22sl); with Env<1.00 it runs 15.4%% (0.86x, 2/13, 11sl) — BELOW base. The blended 43.2%% headline describes NEITHER half well; always read which side of Env 1.00 the batter sits on.",
-         "n=44 over 27 slates", "43.2%%  19/44  (2.65x)"),
-        ("🧬 HR26 Contact-Quality Triple",
-         "TIER B — TRACKING (conv +6, no confluence credit). 3-Variable: 3 Quant (PropFinder gates). STACK: ISO>0.2 + Barrel%%>15 + HH%%>40. Window 31sl 9-STAT window. Split-half 24.0%% → 15.0%%. Bootstrap 90%% CI lift [1.12x, 1.55x], p=6e-03. WHY: The only PropFinder combination that beats its own-slate base with a bootstrap floor above 1.0. Barrel%% and HH%% are the two individually useful gates; ISO adds a third independent read on raw power. Pull%% and GB%% are excluded deliberately — they measure 0.99x and 0.97x and are what drags the 9/9 gate count below baseline. Large n (379) with a modest 1.31x: a broad, weak-but-real contact screen that fires often. Never a conviction signal on its own.",
-         "n=379 over 30 slates", "19.3%%  73/379  (1.31x)"),
         ("🎯 HT01 Deep-Lineup Ice-Cold Contact Bat",
          "TIER A — PROMOTE (conv +15). 4-Variable: 4 Quant. STACK: EstPA≥4.6 + HS<15 (ice cold) + Score<45 + Sig<1. Window 05-12→07-23. Split-half 100.0%% → 92.9%%. Post-ASG 100%% (3/3). Bootstrap 90%% CI lift [1.44x, 1.60x], p=3e-05. WHY: Sig<1 + Score<45 is the tell: these are bats the HR model has entirely written off. The market prices the cold streak, the model prices plate appearances.",
          "n=28 over 21 slates", "96.4%%  27/28  (1.54x)"),
@@ -34842,7 +34866,7 @@ def _sheet_sharp_picks(wb, scores, top_n):
         ("🟡 Moderate",        "Moderate HR signal. ~15% HR rate. HR is possible but not a primary play — focus on hits."),
         # ── HIT GRADES (best → weakest) ──
         ("⭐ ELITE HIT",       "Highest hit confidence. WHR≥80% + all sharp signals aligned. Strongest hit prop play."),
-        ("🔥 SIG≥4+HS35-50+PM HIT","Sig≥4 + HS 35-50 + PM≥1.03. 41-slate: 63.5% hit (1.01x, n=219) — ~baseline; Sig captures the market-underpriced matchup edge in a validated hit zone."),
+        ("🔥🎯 PRIME WEAK SPOT+Sig+PM HIT","Added Sep 2 2026. REPLACES the retired SIG≥4+HS35-50+PM HIT, which never fired — its HS 35-50 band was dead across the full archive (0/1,733 rows, 32 slates) because RotoWire's WHR is itself bimodal (batters cluster <20 or >=65, nothing between), so the ladder score built from it skips 35-50 by construction. This is a genuinely different rule: pitcher order-woba>=.400 (same trigger as PITCHER PRIME WEAK SPOT) AND batter Sig 1-4 AND PM>=1.03. Evidence (32 slates, n=2,727, base 62.27%): PWS alone 67n/80.6%/1.294x/p=0.0013, beats its own permutation null (p=0.006); + Sig+PM tightens to 38n/86.8%/1.395x/p=0.0011. 2x2 shows genuine interaction, not one variable riding the other. ⚠️ n=38 is thin — found near the top of a 167-marker search (corrected p=0.056, did not clear alone) then independently re-tested with its own null, which is why it earns real weight rather than being search noise. Treat as promising-and-tracked; re-test as September accumulates."),
         ("🎯 SHARP HIT",       "Sharp combo fires: Cons≥60% + Env≥0.95 + Platoon + Score≥38. Validated (1-slate, 4/4)."),
         ("🎯 Sharp hit (WHR)", "WHR-based sharp: WHR≥70% + Cons≥60% + Prob>10% + Park≥1.00. 17-slate: 67.9% hit rate."),
         ("🟢 Strong hit",      "Multiple hit signals confirmed. WHR≥65% or Sweet★ zone + clean flags. Solid prop pick."),
