@@ -34578,6 +34578,35 @@ def _sheet_sharp_picks(wb, scores, top_n):
                                     "Requires Power data loaded (avoids false positives from default-value batters). "
                                     "TRACKING — not yet backtested at scale (the underlying 9-stat data wasn't logged on any slate "
                                     "until Jun 30 2026); revisit thresholds/weights once 10+ slates of real outcomes exist."),
+        ("⭐ NEWCONV",
+                                    "A SEPARATE, second model — not a grade or flag on the primary scoring path. "
+                                    "Slate-conditional L2 logistic regression (C=0.005), isotonic-calibrated, fitted "
+                                    "on 30 quantitative + PropFinder features: odds (log-transformed + band flags), "
+                                    "Vuln (+ band flags), PM (+ band), Env, Park, Est PA, Hit Score, Sig (+ band), "
+                                    "Edge, lineup-confirmed status, all 9 PropFinder stats, and PF gate count. "
+                                    "⚠️ DOES NOT USE NAMED QUALITATIVE GRADES — no archetype codes, no PropFinder-gate "
+                                    "combo flags, none of the hand-tuned Conv-score boosts. Purely quantitative. "
+                                    "'power' was REMOVED as a feature 2026-08-31: its fitted coefficient (-0.113, the "
+                                    "model's 2nd-largest) was driven entirely by 18 corrupted training rows (mostly "
+                                    "elite bats — Tatis, Bogaerts, Acuña, Witt, Schwarber — with implausible Power "
+                                    "readings); removing those 18 rows collapses the coefficient to +0.002. "
+                                    "power_deadzone (77-82) is KEPT — it survives independently as a real effect. "
+                                    "Fitted on 48 slates (Jun 25-Aug 17 2026), n=3,218, base 15.44%. "
+                                    "OUTPUTS: newconv_raw (continuous pre-calibration score — THIS is what ranking "
+                                    "uses, never CONV100/newconv_p, which tie by design on the calibrator's flat "
+                                    "steps); newconv_p (calibrated probability, weak standalone — Brier 0.1274 vs "
+                                    "0.1282 flat base, i.e. barely better than guessing the base rate — use as a "
+                                    "RANKER only, never for bet-sizing); CONV100 (0-100 display scale, p/0.35 ceiling). "
+                                    "PURPOSE: fills the 2 NEWCONV slots in the 3-0-2 card structure (top newconv_rank "
+                                    "among NEG-eligible batters not already in a Score slot) — a genuinely independent "
+                                    "second opinion alongside the primary Score composite, not a refinement of it. "
+                                    "⚠️ 'Conv Score' (0-50, hand-tuned PLAY/LEAN/PASS points) appears in the SAME "
+                                    "Detailed-sheet row and is a COMPLETELY DIFFERENT, unrelated system — same word, "
+                                    "two systems, do not conflate them. "
+                                    "Computed INLINE in mlb_hr_model.py since 2026-09-03 (compute_newconv_scores(), "
+                                    "run right before the xlsx is saved, so it reaches the archive) — parity-verified "
+                                    "digit-for-digit against newconv.py's own standalone score_slate() on synthetic "
+                                    "test cases spanning the full input range."),
         ("☢️⭐ ELITE NUCLEAR",
                                     "Aug 16 2026 — REPLACES the retired ☢️☢️ SUPER NUCLEAR 9/9 tier below. Fires when "
                                     "ALL FOUR optimised gates clear: Barrel%>10 + GB%<40 + FB%>50 + Blast%>20. "
@@ -35144,14 +35173,50 @@ def compute_newconv_scores(ranked):
     newconv_conv100 / newconv_rank / newconv_raw / newconv_p on each sc.
     Call this BEFORE export_excel() so the values land in the archived xlsx.
     """
+    # ── PARAMS FILE LOOKUP (fixed 2026-09-03, first version was wrong) ─────
+    # First version hardcoded OUTPUT_DIR / "newconv_params.json"
+    # (OUTPUT_DIR = ...\FanDuel Spreadsheets\HR Models). Confirmed on the
+    # live 2026-09-03 run: ALL 97 batters showed "-" for every NewConv field
+    # — universal, not per-batter, meaning compute_newconv_scores hit its
+    # own except-and-return-early branch before scoring anyone. Root cause:
+    # per standing project notes the model itself runs from
+    # ...\FanDuel Spreadsheets\, ONE LEVEL UP from OUTPUT_DIR, and
+    # newconv.py has never had this problem because it locates the file via
+    # os.path.dirname(os.path.abspath(__file__)) — wherever the SCRIPT
+    # itself sits — rather than a hardcoded output folder.
+    # Now tries, in order: (1) the same self-relative pattern newconv.py
+    # uses — this is the one that should actually work; (2) OUTPUT_DIR, in
+    # case a future reorganization puts it there; (3) the current working
+    # directory. Reports exactly which paths were tried if all three fail,
+    # so a repeat of this failure is diagnosable from the console alone
+    # instead of requiring another archive-file inspection.
+    _here = None
     try:
-        _params_path = OUTPUT_DIR / "newconv_params.json"
-        with open(_params_path, encoding="utf-8") as _pf:
-            P = json.load(_pf)
-    except Exception as _e:
-        print(f"  ⚠️  NewConv scoring skipped — could not load "
-              f"newconv_params.json ({_e}). current_rankings/detailed will "
-              f"not carry NewConv columns this run.")
+        _here = os.path.dirname(os.path.abspath(__file__))
+    except Exception:
+        pass
+    _candidates = []
+    if _here:
+        _candidates.append(os.path.join(_here, "newconv_params.json"))
+    _candidates.append(str(OUTPUT_DIR / "newconv_params.json"))
+    _candidates.append(os.path.join(os.getcwd(), "newconv_params.json"))
+
+    P = None
+    _tried = []
+    for _cand in _candidates:
+        _tried.append(_cand)
+        try:
+            with open(_cand, encoding="utf-8") as _pf:
+                P = json.load(_pf)
+            print(f"  ⭐ NewConv params loaded from: {_cand}")
+            break
+        except Exception:
+            continue
+
+    if P is None:
+        print(f"  ⚠️  NewConv scoring skipped — newconv_params.json not found "
+              f"in any of: {_tried}. current_rankings/detailed will not "
+              f"carry NewConv columns this run.")
         return
 
     cols = P["cols"]
@@ -35268,10 +35333,6 @@ def compute_newconv_scores(ranked):
           f"distinct values.")
 
 
-
-    import openpyxl
-    # Ensure output directory exists
-    out_path = Path(filepath)
 def export_excel(scores, games, top_n, filepath):
     import openpyxl
     # Ensure output directory exists
