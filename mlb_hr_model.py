@@ -21240,6 +21240,17 @@ def _sheet_rankings(wb, scores, top_n):
         # NearHR4 inverts to 0.72x) and the standalone boost is zeroed on that
         # basis. Exporting them makes both re-testable from FantasyLabsMLB.csv.
         "NearHR\nCount", "NearHR\nPA", "NearHR\nRate",
+        # ── NEWCONV (added 2026-09-05) ──────────────────────────────────────
+        # Placed here, one column before DFF Cross-Check, per direct request.
+        # CONV100 only (0-100, directly comparable to "Score /100" next to
+        # it) — the full breakdown (rank, calibrated p, raw pre-calibration
+        # score) already lives in the Detailed sheet next to Conv Score;
+        # this is the compact at-a-glance version for the main table.
+        # Computed by compute_newconv_scores(ranked), called before this
+        # sheet is built, so sc.newconv_conv100 is populated by the time
+        # this row is written. See the "⭐ NEWCONV" glossary entry for what
+        # this model measures and how it differs from "Conv Score."
+        "NewConv\nCONV100",
         # Aug 13 2026: DFF cross-check was influencing conviction with no
         # visible trace anywhere in the sheet - the HR side had nothing
         # analogous to the hit props sheet's pipe-joined Notes column, so a
@@ -21501,7 +21512,15 @@ def _sheet_rankings(wb, scores, top_n):
         else:
             _dff_display = "–"
             _dff_bg, _dff_fc = "F2F2F2", "808080"   # grey - no DFF match at all
-        _dc(ws, row, 23, _dff_display, bg=_dff_bg, font_color=_dff_fc, fmt="@")
+        # NewConv CONV100 — computed inline by compute_newconv_scores(ranked)
+        # before this sheet is built. getattr-guarded: shows "-" rather than
+        # crashing the export if scoring was skipped this run (e.g. params
+        # file not found — see the console warning that fires in that case).
+        _nc_val = getattr(sc, "newconv_conv100", None)
+        _dc(ws, row, 23, str(_nc_val) if _nc_val is not None else "-",
+            bg="FFFFFF", fmt="@")
+
+        _dc(ws, row, 24, _dff_display, bg=_dff_bg, font_color=_dff_fc, fmt="@")
 
         if _dff_fpts_v is not None:
             from openpyxl.comments import Comment as _DffComment
@@ -21514,7 +21533,7 @@ def _sheet_rankings(wb, scores, top_n):
                 _dff_cmt_lines.append("No team rank: fewer than 2 teammates matched to compare")
             _dff_cmt = _DffComment("\n".join(_dff_cmt_lines), "Model")
             _dff_cmt.width, _dff_cmt.height = 220, 70
-            ws.cell(row, 23).comment = _dff_cmt
+            ws.cell(row, 24).comment = _dff_cmt
 
         # Add combo as a cell comment so hovering shows the historical rate
         if sc.combo_label:
