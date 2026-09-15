@@ -18176,20 +18176,38 @@ def score_player(batter, pitcher, context, bullpen, batter_is_home, lineup_statu
                 f"{'PRIME grade overrides: 14.9% HR (1.01x, n=87) vs fade 9.3% (0.54x)' if _ptm_is_prime else '(backtest: 9.3% HR 0.54x — market sees something model misses)'}"
             )
         elif _hr_odds_val >= 800 and _hr_odds_val < 1000:
-            _ptm_is_prime = _ptm_conv_bonus >= 12.0
-            if not _ptm_is_prime:
-                _ranking_score *= 0.78   # -22%: deep fade — 8.6% HR (0.50x)
+            # ── PRIME EXEMPTION REMOVED AT +700 AND UP (Sep 14 2026) ──────────
+            # Tested on the 43-slate archive (n=3,719). The +700+ band is a
+            # genuine, statistically-established trap: 7.59% HR (0.50x lift),
+            # ROI -0.256/unit, and its bootstrap 95% CI on ROI EXCLUDES zero
+            # across 672 batters — one of only two bands on the whole price
+            # curve that is provably unprofitable (the other is +0-250).
+            # The PRIME exemption that used to bypass this fade does NOT hold
+            # up in this band: PRIME at +700+ ran 2.86% HR (n=35, ROI -0.714)
+            # vs non-PRIME 7.85% (n=637, ROI -0.231) — the exemption was
+            # protecting the WORSE group.
+            # ⚠️ HONEST LIMIT ON THAT SECOND POINT: n=35 and p=0.51, so the
+            # PRIME *inversion* at long odds is NOT proven — it could be noise.
+            # PRIME is fine overall (17.26% vs 14.95%, and best at +350-550
+            # where it runs 20.9%). What IS solid is the band-level result, so
+            # the exemption is removed HERE ONLY, on the strength of the band
+            # evidence, not on a claim that PRIME is broken. Do not generalise
+            # this removal to PRIME's other exemptions.
+            _ranking_score *= 0.78   # -22%: deep fade — 8.6% HR (0.50x). No PRIME bypass.
             _pre_notes.append(
-                f"⚠️ ODDS FADE{' (PRIME EXEMPT)' if _ptm_is_prime else ' -22%'}: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"{'PRIME grade overrides long-odds fade: 14.9% HR (1.01x, n=87, Jul9 backtest)' if _ptm_is_prime else '(backtest: 8.6% HR 0.50x — market correct, model grade likely stale)'}"
+                f"⚠️ ODDS FADE -22%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"(backtest: 8.6% HR 0.50x — market correct, model grade likely stale). "
+                f"PRIME exemption REMOVED in this band Sep 14 2026: +700+ is ROI -0.256 "
+                f"with a bootstrap CI excluding zero (n=672), and PRIME there ran 2.86% "
+                f"vs non-PRIME 7.85%."
             )
         elif _hr_odds_val >= 1000:
-            _ptm_is_prime = _ptm_conv_bonus >= 12.0
-            if not _ptm_is_prime:
-                _ranking_score *= 0.70   # -30%: longshot dead zone — 9.9% HR (0.58x)
+            _ranking_score *= 0.70   # -30%: longshot dead zone — 9.9% HR (0.58x). No PRIME bypass.
             _pre_notes.append(
-                f"{'⚠️ ODDS FADE (PRIME EXEMPT)' if _ptm_is_prime else '🚫 ODDS DEAD ZONE -30%'}: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
-                f"{'PRIME grade overrides: 14.9% HR (1.01x) vs 9.9% without grade' if _ptm_is_prime else '(backtest: 9.9% HR 0.58x — grade fires but market has hard passed)'}"
+                f"🚫 ODDS DEAD ZONE -30%: {'+' if _hr_odds_val>0 else ''}{int(_hr_odds_val)} "
+                f"(backtest: 9.9% HR 0.58x — grade fires but market has hard passed). "
+                f"PRIME exemption REMOVED in this band Sep 14 2026 — see the +800-1000 "
+                f"note above for the band-level ROI evidence."
             )
     # ── PITCHER-FIRST TARGET MATCH ranking boost (Jun 17 2026) ──────────────────
     # ── PITCHER-FIRST TARGET MATCH ranking boost (Jun 17 2026 overhaul) ─────────
@@ -21623,6 +21641,32 @@ def _sheet_detailed(wb, scores, top_n):
             ("NewConv Rank",     f"{getattr(sc, 'newconv_rank', '-')}"),
             ("NewConv p",        f"{getattr(sc, 'newconv_p', 0.0):.3f}" if hasattr(sc, 'newconv_p') else "-"),
             ("NewConv raw",      f"{getattr(sc, 'newconv_raw', 0.0):.4f}" if hasattr(sc, 'newconv_raw') else "-"),
+            # ── HIT ODDS (added Sep 14 2026) ────────────────────────────────
+            # WHY THIS IS HERE AND NOT LEFT IN THE HIT PROPS SHEET: verified
+            # Sep 14 2026 that the archived FantasyLabsMLB.csv block contains
+            # ONLY Rankings + Glossary + Detailed Breakdown. The "🎯 Hit Props"
+            # tab — which already carries a Hits Odds column in
+            # current_hitprops.csv — is NOT copied into the HR_YYYY-MM-DD
+            # sheets by the Excel macro, so hit prices have never reached
+            # history in any form (no Hits Odds column, no price in the notes
+            # text, no hits_over_price field anywhere in the archive).
+            # CONSEQUENCE THAT PROMPTED THIS: the HR picks were price-matched
+            # on Sep 14 and showed only +0.28pp over a random batter at the
+            # same price (p=0.53) — i.e. the 1.35x lift over base was almost
+            # entirely price selection, not batter selection. The identical
+            # test CANNOT currently be run on the hit card because hit prices
+            # are not archived, leaving the more promising side of the model
+            # unmeasurable against price.
+            # The macro is VBA inside the .xlsm and not editable from the
+            # Python side, so the fix is to put the price somewhere that IS
+            # archived — this metrics grid. Starts accumulating immediately;
+            # ~3 weeks gives enough to run the price-matched hit test properly.
+            # ⚠️ Nothing reads this. It is capture-only, exactly like the
+            # RotoWire columns added Sep 1. Do not wire it into scoring.
+            ("Hits Odds",       (f"{'+' if getattr(sc,'hits_over_price',0) > 0 else ''}"
+                                 f"{int(getattr(sc,'hits_over_price',0))}")
+                                if getattr(sc, 'hits_over_price', 0) else "-"),
+            ("Hits Line",       f"{getattr(sc, 'hits_line', 0.5):.1f}"),
             ("xHR Factor",      f"{sc.xhr_factor_val:.3f}"),
             ("Pull×Park",  f"{sc.pull_park_factor:.3f}"),
             ("Zone Damage",     f"{sc.zone_damage:.3f}"),
