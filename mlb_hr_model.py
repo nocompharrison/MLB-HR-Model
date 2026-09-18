@@ -305,6 +305,94 @@ def _github_upload(local_path: str, repo_path: str) -> bool:
         return False
 
 
+def _export_dff_csv(dest_dir) -> bool:
+    """
+    Dump the DFF sheet from FantasyLabsMLB.xlsm verbatim to current_dff.csv.
+
+    Added Sep 18 2026. The DFF sheet holds DailyFantasyFuel salaries/projections
+    for every pitcher and batter. It is exported RAW — no column mapping, no
+    filtering — so the downstream consumer sees exactly what is in the sheet and
+    schema changes on the FL side never break this export.
+
+    Written next to the model's Excel output; _upload_to_github() pushes it to
+    outputs/current_dff.csv. Never raises: a missing/renamed sheet prints a
+    warning and returns False so the daily run continues.
+    """
+    import csv as _csv
+    import datetime as _dt
+    import openpyxl
+    from pathlib import Path
+
+    src = Path(FANTASYLABS_FILE)
+    if not src.exists():
+        print(f"  ⚠️  DFF export: source workbook not found: {src}")
+        return False
+
+    try:
+        wb = openpyxl.load_workbook(str(src), read_only=True,
+                                    keep_vba=True, data_only=True)
+    except Exception as e:
+        print(f"  ⚠️  DFF export: workbook open failed: {e}")
+        return False
+
+    # Tolerant sheet lookup — exact "DFF" first, then any sheet containing "dff"
+    sheet = None
+    for _name in wb.sheetnames:
+        if _name.strip().lower() == "dff":
+            sheet = _name
+            break
+    if sheet is None:
+        for _name in wb.sheetnames:
+            if "dff" in _name.strip().lower():
+                sheet = _name
+                break
+    if sheet is None:
+        print(f"  ⚠️  DFF export: no DFF sheet found. Sheets: {wb.sheetnames}")
+        try:
+            wb.close()
+        except Exception:
+            pass
+        return False
+
+    def _cell(v):
+        if v is None:
+            return ""
+        if isinstance(v, (_dt.datetime, _dt.date)):
+            return v.isoformat()
+        return v
+
+    out_path = Path(dest_dir) / "current_dff.csv"
+    rows_written = 0
+    try:
+        ws = wb[sheet]
+        with open(out_path, "w", newline="", encoding="utf-8-sig") as fh:
+            w = _csv.writer(fh)
+            for row in ws.iter_rows(values_only=True):
+                if not any(v is not None and str(v).strip() != "" for v in row):
+                    continue  # skip fully-blank rows
+                w.writerow([_cell(v) for v in row])
+                rows_written += 1
+    except Exception as e:
+        print(f"  ⚠️  DFF export: write failed: {e}")
+        return False
+    finally:
+        try:
+            wb.close()
+        except Exception:
+            pass
+
+    if rows_written == 0:
+        print(f"  ⚠️  DFF export: sheet '{sheet}' is empty — nothing written")
+        try:
+            out_path.unlink()
+        except Exception:
+            pass
+        return False
+
+    print(f"  📄 DFF export: {rows_written} rows from sheet '{sheet}' → {out_path.name}")
+    return True
+
+
 def _upload_to_github(excel_path: str) -> None:
     """
     Upload fixed-name CSV tab exports and the model Python file to GitHub.
@@ -313,9 +401,13 @@ def _upload_to_github(excel_path: str) -> None:
     """
     print("\n── GitHub Auto-Upload ─────────────────────────────────────────────")
     parent = Path(excel_path).parent
+    # Export the DFF sheet from the source workbook (added Sep 18 2026) so the
+    # FanDuel lineup build has same-day salaries/projections. Non-fatal on failure.
+    _export_dff_csv(parent)
     # Upload fixed-name CSVs (overwrite previous day), delete locally after success
     for name in ("current_rankings", "current_detailed", "current_hitprops",
-                 "current_conditions", "current_sharp", "current_newconv"):
+                 "current_conditions", "current_sharp", "current_newconv",
+                 "current_dff"):
         csv_path = parent / f"{name}.csv"
         if _github_upload(str(csv_path), f"outputs/{name}.csv"):
             try:
