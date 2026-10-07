@@ -1,4 +1,4 @@
-# CFB transcripts | week 6 | updated 2026-10-07 17:21 ET
+# CFB transcripts | week 6 | updated 2026-10-07 17:29 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 16 files this week:
 CFB/transcripts/week-06/27e7U59N_k0_Cover3_Texas_vs_Oklahoma_Preview_Predictions_Who_Wins_and_WHY_Cover_3_College.txt
