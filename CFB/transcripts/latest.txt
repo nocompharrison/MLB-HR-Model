@@ -1,25 +1,30 @@
-# CFB transcripts | week 6 | updated 2026-10-07 17:29 ET
+# CFB transcripts | week 6 | updated 2026-10-07 17:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 16 files this week:
+# 8 files this week:
 CFB/transcripts/week-06/27e7U59N_k0_Cover3_Texas_vs_Oklahoma_Preview_Predictions_Who_Wins_and_WHY_Cover_3_College.txt
-CFB/transcripts/week-06/2kPwI2W_9wQ_HitTheBooks_Would_You_Take_Arch_Manning_No_1_Overall_Right_Now_Presented_by_FanDue.txt
-CFB/transcripts/week-06/9IOR73zzGTU_HitTheBooks_Brad_Powers_Joey_Knish_Debate_Overrated_College_Football_Coaches_Prese.txt
-CFB/transcripts/week-06/G9iKjagj1pc_TCE_College_Football_Picks_For_Every_Top_25_Week_1_Game_TCE_Trims.txt
-CFB/transcripts/week-06/MP8iRHUvzGU_TCE_Pick_Dundee_talks_with_California_Golden_Bears_head_coach_Tosh_Lupoi.txt
 CFB/transcripts/week-06/RTLx9ESGajg_BBOC_Week_6_Group_of_6_Betting_Picks_BEST_G6_Bets_for_This_Weekend.txt
 CFB/transcripts/week-06/UOnf2Z_FUpM_BBOC_BIG_TEN_TRAP_GAME_Ohio_State_vs_Iowa_Preview_Best_Bets.txt
-CFB/transcripts/week-06/bcoKdVPJr9g_BBOC_Florida_vs_Missouri_Week_5_BEST_BETS_Expert_Picks.txt
 CFB/transcripts/week-06/d9wN3nCjlco_Cover3_UPDATED_CFP_Bracket_Predictions_after_Week_6.txt
 CFB/transcripts/week-06/jSiOphAunss_VSiN_College_Football_Week_6_Expert_Picks_Best_Bets_COMPILATION.txt
-CFB/transcripts/week-06/oZM2_Pwtsuc_HitTheBooks_Brenadan_Sorsby_Texas_Tech_Beats_the_House_And_the_NCAA_Presented_by_F.txt
 CFB/transcripts/week-06/pvfMR70maLY_Cover3_Georgia_vs_Alabama_Preview_Predictions_Who_Wins_and_Why.txt
-CFB/transcripts/week-06/uuDLiXhpHzk_VSiN_College_Football_Week_5_Expert_Picks_Best_Bets_COMPILATION.txt
 CFB/transcripts/week-06/vCJiJ28Qy-w_HitTheBooks_These_College_Football_Lines_Won_t_Last_Bet_Them_Now_Presented_by_FanD.txt
 CFB/transcripts/week-06/zaS99486iSs_Cover3_UCLA_vs_Oregon_Preview_Predictions_Who_Wins_and_WHY_Cover_3_College_Fo.txt
-CFB/transcripts/week-06/zjx0q2oOaYw_TCE_College_Football_Picks_For_Every_Week_Zero_Game_FBS_ONLY_TCE_Trims.txt
 
 # this run:
-FAILED  BBOC coS-WnWXxCU Hawaii vs. Arizona State Preview: College Football Betting P: no captions available
-FAILED  TCE weL0NBktUIg Pick Dundee talks with Duke's Jon Scheyer about the upcoming: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req
-FAILED  channel WagerTalk: DownloadError: ERROR: [youtube:tab] @WagerTalkTV/videos: Unable to download API page: HTTP Error 404: Not Found (ca
-NONE    channel SplitZoneDuo: no recent uploads matched filter
+FAILED  Cover3 _Uy6iG3V4Lg Week 6 College Football Previews & Predictions: Georgia-Alab: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  Cover3 1XrExuvf44s Week 6 LOCKS 🔒 Best Bets, Against The Spread Picks, Moneylin: ERROR: [youtube] 1XrExuvf44s: This live event will begin in 17 hours.  (will retry next run)
+FAILED  BBOC coS-WnWXxCU Hawaii vs. Arizona State Preview: College Football Betting P: no captions available  (will retry next run)
+FAILED  BBOC Ems7rPWpyaQ Expert Pick For Ohio State vs. Iowa!: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  BBOC m_mjNj02RWs IS MIAMI OVERVALUED?! Miami vs. Clemson Preview & College Fo: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  BBOC 6oyn7D3ZPCE SEC GAME OF THE YEAR?! Alabama vs. Mississippi State Preview: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+NONE    channel HitTheBooks: nothing new in the last 7 days matched the filters
+FAILED  TCE Sf1fh02GOnE WEEK 6 PREVIEW & PICKS | THE COLLEGE FOOTBALL EXPERIENCE: ERROR: [youtube] Sf1fh02GOnE: This live event will begin in 4 hours.  (will retry next run)
+FAILED  TCE Vk47I4jcnJw Week 6 Dantabase Top 25 & Weekday Games Preview & Picks: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  WagerTalk QGS6gMtwo0E College Football Week 6 Picks & Best Bets | BET ON IT: no captions available  (will retry next run)
+FAILED  WagerTalk qjfSnbmXblQ Thursday CFB Action: Sam Houston vs Liberty | Missouri State: no captions available  (will retry next run)
+FAILED  WagerTalk Oueq2yTZmxA Georgia vs Alabama College Football Best Bets | CFB Week 6: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  WagerTalk QOXYmxNWGJM South Carolina vs Florida College Football Best Bets | CFB W: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  SplitZoneDuo N5z31ueiB2s Is there any hope for the Charlotte 49ers?: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  SplitZoneDuo mbwV-RsfYF4 Sending our thoughts and prayers to everyone at Yale footbal: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  SplitZoneDuo ytXde2fj0d0 NORTHWESTERN IS GOOD: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
+FAILED  SplitZoneDuo BIHLfiz9F9A Florida had one good drive this week. Then it was ALL Mizzou: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Req  (will retry next run)
