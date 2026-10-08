@@ -1,17 +1,20 @@
-# NFL transcripts | week 5 | updated 2026-10-08 12:52 ET
+# NFL transcripts | week 5 | updated 2026-10-08 13:25 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 11 files this week:
+# 14 files this week:
 NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Tables_Have_Turned_Fantasy_Football_DFS_Bet.txt
 NFL/transcripts/week-05/CgIhkYS-Dqk_DFSArmyLive_PrizePicks_Picks_TONIGHT_Thursday_Night_Football_Buccaneers_vs_Cowboy.txt
 NFL/transcripts/week-05/L0xbJjplkwI_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_5.txt
 NFL/transcripts/week-05/Myyn1VPhouA_DFSArmy_NFL_DFS_Week_5_Strategy_for_Fanduel_2026.txt
 NFL/transcripts/week-05/P3X8BD_4KTw_ActionNetwork_NFL_Week_5_Betting_Preview_Preview_Best_Bets_for_EVERY_Game.txt
 NFL/transcripts/week-05/TXDemhCBL4c_Footballers_Snap_Count_Risers_Jason_s_Confession_Fantasy_Football_2026_Ep_1988.txt
+NFL/transcripts/week-05/VNUgg0-PSSo_ActionNetwork_Buccaneers_vs_Cowboys_Betting_Picks_Thursday_Night_Football_Preview.txt
 NFL/transcripts/week-05/XWiG2xhrhI0_DFSArmy_NFL_DFS_Week_5_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-05/Y9-NBj7W-rI_Footballers_Week_5_Waivers_Tyreek_Talk_Hole_in_One_Fantasy_Football_2026_Ep_1987.txt
+NFL/transcripts/week-05/YJIgV4Tz97o_TheAudible_Will_the_Cowboys_THROTTLE_the_Bucs_Did_the_Patriots_UNLOCK_Drake_Maye.txt
 NFL/transcripts/week-05/bvrM80AhbYI_SwankTank_NFL_Week_5_Picks_Predictions_Key_Stats_DFS_Locks_More.txt
 NFL/transcripts/week-05/jxq2SY5RH48_DFSArmy_Buccaneers_vs_Cowboys_Showdown_Breakdown_Thursday_Night_Football_Draft.txt
 NFL/transcripts/week-05/nBv7XsuvcvE_SGPNPropcast_NFL_Week_5_Thursday_Night_Football_Player_Props_10_7_26.txt
+NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiver_Wire_Players_Which_Players_Get_Dum.txt
 
 # this run:
 UPCOMING RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet)
@@ -21,8 +24,7 @@ UPCOMING ShipItNation JP85svOgkrs Buccaneers vs Cowboys - TNF Showdown Shippers 
 NOCAPS  SGPN o9W0YHAXhIs NFL Week 5 Picks, Best Bets & Predictions  (captions not posted yet - often appear a few hours after upload)
 UPCOMING SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (not aired yet)
 NOCAPS  SGPNPropcast GXC1Iq2-xZ8 NFL Week 5 Circa Million Spread Picks - 10/8/26  (captions not posted yet - often appear a few hours after upload)
-DEFER   ActionNetwork VNUgg0-PSSo Buccaneers vs. Cowboys Betting Picks | Thursday Night Footba  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   ActionNetwork -jqw2xpoLlU NFL Week 5 Betting Preview & Picks For EVERY GAME! | The Fav  (YouTube rate limit hit earlier this run)
-DEFER   TheAudible YJIgV4Tz97o Will the Cowboys THROTTLE the Bucs? Did the Patriots UNLOCK   (YouTube rate limit hit earlier this run)
-DEFER   TheAudible sgO_lxkXRJI Who Are the MUST-ADD Fantasy Waiver Wire Players? Which Play  (YouTube rate limit hit earlier this run)
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NOCAPS  ActionNetwork -jqw2xpoLlU NFL Week 5 Betting Preview & Picks For EVERY GAME! | The Fav  (captions not posted yet - often appear a few hours after upload)
+NEW     NFL/transcripts/week-05/VNUgg0-PSSo_ActionNetwork_Buccaneers_vs_Cowboys_Betting_Picks_Thursday_Night_Football_Preview.txt  (1,241 words)
+NEW     NFL/transcripts/week-05/YJIgV4Tz97o_TheAudible_Will_the_Cowboys_THROTTLE_the_Bucs_Did_the_Patriots_UNLOCK_Drake_Maye.txt  (6,032 words)
+NEW     NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiver_Wire_Players_Which_Players_Get_Dum.txt  (4,915 words)
