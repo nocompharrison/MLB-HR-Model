@@ -1,0 +1,36 @@
+# NFL transcripts | week 5 | updated 2026-10-08 10:23 ET
+# raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
+# 11 files this week:
+NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Tables_Have_Turned_Fantasy_Football_DFS_Bet.txt
+NFL/transcripts/week-05/CgIhkYS-Dqk_DFSArmyLive_PrizePicks_Picks_TONIGHT_Thursday_Night_Football_Buccaneers_vs_Cowboy.txt
+NFL/transcripts/week-05/L0xbJjplkwI_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_5.txt
+NFL/transcripts/week-05/Myyn1VPhouA_DFSArmy_NFL_DFS_Week_5_Strategy_for_Fanduel_2026.txt
+NFL/transcripts/week-05/P3X8BD_4KTw_ActionNetwork_NFL_Week_5_Betting_Preview_Preview_Best_Bets_for_EVERY_Game.txt
+NFL/transcripts/week-05/TXDemhCBL4c_Footballers_Snap_Count_Risers_Jason_s_Confession_Fantasy_Football_2026_Ep_1988.txt
+NFL/transcripts/week-05/XWiG2xhrhI0_DFSArmy_NFL_DFS_Week_5_Strategy_for_DraftKings_2026.txt
+NFL/transcripts/week-05/Y9-NBj7W-rI_Footballers_Week_5_Waivers_Tyreek_Talk_Hole_in_One_Fantasy_Football_2026_Ep_1987.txt
+NFL/transcripts/week-05/bvrM80AhbYI_SwankTank_NFL_Week_5_Picks_Predictions_Key_Stats_DFS_Locks_More.txt
+NFL/transcripts/week-05/jxq2SY5RH48_DFSArmy_Buccaneers_vs_Cowboys_Showdown_Breakdown_Thursday_Night_Football_Draft.txt
+NFL/transcripts/week-05/nBv7XsuvcvE_SGPNPropcast_NFL_Week_5_Thursday_Night_Football_Player_Props_10_7_26.txt
+
+# this run:
+NEW     NFL/transcripts/week-05/TXDemhCBL4c_Footballers_Snap_Count_Risers_Jason_s_Confession_Fantasy_Football_2026_Ep_1988.txt  (11,954 words)
+NEW     NFL/transcripts/week-05/Y9-NBj7W-rI_Footballers_Week_5_Waivers_Tyreek_Talk_Hole_in_One_Fantasy_Football_2026_Ep_1987.txt  (11,371 words)
+NEW     NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Tables_Have_Turned_Fantasy_Football_DFS_Bet.txt  (11,741 words)
+NEW     NFL/transcripts/week-05/bvrM80AhbYI_SwankTank_NFL_Week_5_Picks_Predictions_Key_Stats_DFS_Locks_More.txt  (7,845 words)
+NEW     NFL/transcripts/week-05/L0xbJjplkwI_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_5.txt  (34,248 words)
+UPCOMING RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet)
+UPCOMING RotoGrinders Pe4b-WsRhm0 NFL DFS Tournament Strategy for Week 5 on DraftKings & FanDu  (not aired yet)
+UPCOMING RotoGrinders DC0nSwYrW88 Buccs vs. Cowboys TNF Showdown! - NFL DFS Picks & Strategy  (not aired yet)
+UPCOMING ShipItNation JP85svOgkrs Buccaneers vs Cowboys - TNF Showdown Shippers | NFL Week 5 |  (not aired yet)
+NOCAPS  SGPN o9W0YHAXhIs NFL Week 5 Picks, Best Bets & Predictions  (captions not posted yet - often appear a few hours after upload)
+NEW     NFL/transcripts/week-05/nBv7XsuvcvE_SGPNPropcast_NFL_Week_5_Thursday_Night_Football_Player_Props_10_7_26.txt  (5,584 words)
+UPCOMING SGPNPropcast GXC1Iq2-xZ8 NFL Week 5 Circa Million Spread Picks - 10/8/26  (not aired yet)
+NEW     NFL/transcripts/week-05/P3X8BD_4KTw_ActionNetwork_NFL_Week_5_Betting_Preview_Preview_Best_Bets_for_EVERY_Game.txt  (14,747 words)
+NEW     NFL/transcripts/week-05/Myyn1VPhouA_DFSArmy_NFL_DFS_Week_5_Strategy_for_Fanduel_2026.txt  (8,129 words)
+NEW     NFL/transcripts/week-05/jxq2SY5RH48_DFSArmy_Buccaneers_vs_Cowboys_Showdown_Breakdown_Thursday_Night_Football_Draft.txt  (9,649 words)
+NEW     NFL/transcripts/week-05/XWiG2xhrhI0_DFSArmy_NFL_DFS_Week_5_Strategy_for_DraftKings_2026.txt  (11,925 words)
+NEW     NFL/transcripts/week-05/CgIhkYS-Dqk_DFSArmyLive_PrizePicks_Picks_TONIGHT_Thursday_Night_Football_Buccaneers_vs_Cowboy.txt  (1,266 words)
+DEFER   TheAudible YJIgV4Tz97o Will the Cowboys THROTTLE the Bucs? Did the Patriots UNLOCK   (YouTube rate limit - stopping transcript pulls this run)
+DEFER   TheAudible sgO_lxkXRJI Who Are the MUST-ADD Fantasy Waiver Wire Players? Which Play  (YouTube rate limit hit earlier this run)
+NOTE    deferred videos are picked up automatically on the next scheduled run
