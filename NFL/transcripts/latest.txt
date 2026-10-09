@@ -1,4 +1,4 @@
-# NFL transcripts | week 5 | updated 2026-10-08 16:00 ET
+# NFL transcripts | week 5 | updated 2026-10-08 21:15 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 14 files this week:
 NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Tables_Have_Turned_Fantasy_Football_DFS_Bet.txt
@@ -18,21 +18,24 @@ NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiv
 
 # this run:
 DEFER   Footballers wneNruZ8OuU Starts of the Week + Week 5 Games, Smooshed! | Fantasy Footb  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   RotoGrinders DC0nSwYrW88 Buccs vs. Cowboys TNF Showdown! - NFL DFS Picks & Strategy  (YouTube rate limit hit earlier this run)
 DEFER   RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (YouTube rate limit hit earlier this run)
 DEFER   RotoGrinders Pe4b-WsRhm0 NFL DFS Tournament Strategy for Week 5 on DraftKings & FanDu  (YouTube rate limit hit earlier this run)
-DEFER   RotoGrinders DC0nSwYrW88 Buccs vs. Cowboys TNF Showdown! - NFL DFS Picks & Strategy  (YouTube rate limit hit earlier this run)
 DEFER   ShipItNation JP85svOgkrs Buccaneers vs Cowboys - TNF Showdown Shippers | NFL Week 5 |  (YouTube rate limit hit earlier this run)
-DEFER   SGPN dsNRlEh5ts0 Raiders vs Patriots Prediction, Picks & Best Bets | NFL Week  (YouTube rate limit hit earlier this run)
-DEFER   SGPN hwILKv3VIBw Bengals vs Dolphins Prediction, Picks & Best Bets | NFL Week  (YouTube rate limit hit earlier this run)
-DEFER   SGPN rtwDxqdfvmw Browns vs Jets Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN wW8_4R_o7SI Vikings vs Saints Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN UlapnQI4Cdo Colts vs Steelers Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN AJjlEfksulE Eagles vs Jaguars Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN q8y94dmsuRA NFL Week 5 Locks, Dogs & Teasers | Best Bets  (YouTube rate limit hit earlier this run)
-DEFER   SGPN JEW04zoYv5Y Buccaneers vs Cowboys Prediction, Picks & Best Bets | NFL We  (YouTube rate limit hit earlier this run)
-DEFER   SGPN o9W0YHAXhIs NFL Week 5 Picks, Best Bets & Predictions  (YouTube rate limit hit earlier this run)
+DEFER   SGPN 2dere8HlBJk NFL Week 5 Prop Bets, Best Bets & Predictions  (YouTube rate limit hit earlier this run)
+DEFER   SGPN d0aq4J5BLjQ NFL Picks Week 5 w/ @DougStanhope @BrendonWalsh @SeanTGreen  (YouTube rate limit hit earlier this run)
+DEFER   SGPN ufKKXsVxkUk Bills vs Rams Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
+DEFER   SGPN ppIzf69dDg4 Ravens vs Falcons Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
+DEFER   SGPN UbhkQbWcYSQ Lions vs Cardinals Prediction, Picks & Best Bets | NFL Week   (YouTube rate limit hit earlier this run)
+DEFER   SGPN JZWIT5csYg8 49ers vs Seahawks Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
+DEFER   SGPN GSB7eR8KGRw Broncos vs Chargers Prediction, Picks & Best Bets | NFL Week  (YouTube rate limit hit earlier this run)
+DEFER   SGPN XmTbkyWTzb8 Bears vs Packers Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
+DEFER   SGPN 5CD1jQVA02A Texans vs Titans Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
+DEFER   SGPN 8u1wyGQr9vc Giants vs Commanders Prediction, Picks & Best Bets | NFL Wee  (YouTube rate limit hit earlier this run)
 DEFER   SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (YouTube rate limit hit earlier this run)
 DEFER   SGPNPropcast GXC1Iq2-xZ8 NFL Week 5 Circa Million Spread Picks - 10/8/26  (YouTube rate limit hit earlier this run)
+DEFER   ActionNetwork D-VSFIRKqec Our Anytime Touchdown Picks for Week 5 of The NFL Season!  (YouTube rate limit hit earlier this run)
 DEFER   ActionNetwork 3hGl_V4jzkU Buccaneers vs. Cowboys SAME GAME PARLAY PICKS LIVE | Thursda  (YouTube rate limit hit earlier this run)
 DEFER   ActionNetwork -jqw2xpoLlU NFL Week 5 Betting Preview & Picks For EVERY GAME! | The Fav  (YouTube rate limit hit earlier this run)
+DEFER   TheAudible DEq7X_fr6ls Can the Broncos FINALLY Get on Track? Bills-Rams a Super Bow  (YouTube rate limit hit earlier this run)
 NOTE    deferred videos are picked up automatically on the next scheduled run
