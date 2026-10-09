@@ -1,41 +1,57 @@
-# NFL transcripts | week 5 | updated 2026-10-08 21:15 ET
+# NFL transcripts | week 5 | updated 2026-10-09 07:48 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 14 files this week:
+# 29 files this week:
+NFL/transcripts/week-05/-jqw2xpoLlU_ActionNetwork_NFL_Week_5_Betting_Preview_Picks_For_EVERY_GAME_The_Favorites_Podcast.txt
 NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Tables_Have_Turned_Fantasy_Football_DFS_Bet.txt
+NFL/transcripts/week-05/5CD1jQVA02A_SGPN_Texans_vs_Titans_Prediction_Picks_Best_Bets_NFL_Week_5.txt
+NFL/transcripts/week-05/8u1wyGQr9vc_SGPN_Giants_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/CgIhkYS-Dqk_DFSArmyLive_PrizePicks_Picks_TONIGHT_Thursday_Night_Football_Buccaneers_vs_Cowboy.txt
+NFL/transcripts/week-05/D-VSFIRKqec_ActionNetwork_Our_Anytime_Touchdown_Picks_for_Week_5_of_The_NFL_Season.txt
+NFL/transcripts/week-05/DC0nSwYrW88_RotoGrinders_Buccs_vs_Cowboys_TNF_Showdown_NFL_DFS_Picks_Strategy.txt
+NFL/transcripts/week-05/GSB7eR8KGRw_SGPN_Broncos_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_5.txt
+NFL/transcripts/week-05/GXC1Iq2-xZ8_SGPNPropcast_NFL_Week_5_Circa_Million_Spread_Picks_10_8_26.txt
+NFL/transcripts/week-05/JP85svOgkrs_ShipItNation_Buccaneers_vs_Cowboys_TNF_Showdown_Shippers_NFL_Week_5_DFS_Picks_Plays.txt
+NFL/transcripts/week-05/JZWIT5csYg8_SGPN_49ers_vs_Seahawks_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/L0xbJjplkwI_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_5.txt
 NFL/transcripts/week-05/Myyn1VPhouA_DFSArmy_NFL_DFS_Week_5_Strategy_for_Fanduel_2026.txt
 NFL/transcripts/week-05/P3X8BD_4KTw_ActionNetwork_NFL_Week_5_Betting_Preview_Preview_Best_Bets_for_EVERY_Game.txt
 NFL/transcripts/week-05/TXDemhCBL4c_Footballers_Snap_Count_Risers_Jason_s_Confession_Fantasy_Football_2026_Ep_1988.txt
+NFL/transcripts/week-05/UbhkQbWcYSQ_SGPN_Lions_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/VNUgg0-PSSo_ActionNetwork_Buccaneers_vs_Cowboys_Betting_Picks_Thursday_Night_Football_Preview.txt
 NFL/transcripts/week-05/XWiG2xhrhI0_DFSArmy_NFL_DFS_Week_5_Strategy_for_DraftKings_2026.txt
+NFL/transcripts/week-05/XmTbkyWTzb8_SGPN_Bears_vs_Packers_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/Y9-NBj7W-rI_Footballers_Week_5_Waivers_Tyreek_Talk_Hole_in_One_Fantasy_Football_2026_Ep_1987.txt
 NFL/transcripts/week-05/YJIgV4Tz97o_TheAudible_Will_the_Cowboys_THROTTLE_the_Bucs_Did_the_Patriots_UNLOCK_Drake_Maye.txt
 NFL/transcripts/week-05/bvrM80AhbYI_SwankTank_NFL_Week_5_Picks_Predictions_Key_Stats_DFS_Locks_More.txt
+NFL/transcripts/week-05/d0aq4J5BLjQ_SGPN_NFL_Picks_Week_5_w_DougStanhope_BrendonWalsh_SeanTGreen.txt
 NFL/transcripts/week-05/jxq2SY5RH48_DFSArmy_Buccaneers_vs_Cowboys_Showdown_Breakdown_Thursday_Night_Football_Draft.txt
 NFL/transcripts/week-05/nBv7XsuvcvE_SGPNPropcast_NFL_Week_5_Thursday_Night_Football_Player_Props_10_7_26.txt
+NFL/transcripts/week-05/ppIzf69dDg4_SGPN_Ravens_vs_Falcons_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiver_Wire_Players_Which_Players_Get_Dum.txt
+NFL/transcripts/week-05/ufKKXsVxkUk_SGPN_Bills_vs_Rams_Prediction_Picks_Best_Bets_NFL_Week_5.txt
+NFL/transcripts/week-05/wneNruZ8OuU_Footballers_Starts_of_the_Week_Week_5_Games_Smooshed_Fantasy_Football_2026_Ep_1989.txt
 
 # this run:
-DEFER   Footballers wneNruZ8OuU Starts of the Week + Week 5 Games, Smooshed! | Fantasy Footb  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   RotoGrinders DC0nSwYrW88 Buccs vs. Cowboys TNF Showdown! - NFL DFS Picks & Strategy  (YouTube rate limit hit earlier this run)
-DEFER   RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (YouTube rate limit hit earlier this run)
-DEFER   RotoGrinders Pe4b-WsRhm0 NFL DFS Tournament Strategy for Week 5 on DraftKings & FanDu  (YouTube rate limit hit earlier this run)
-DEFER   ShipItNation JP85svOgkrs Buccaneers vs Cowboys - TNF Showdown Shippers | NFL Week 5 |  (YouTube rate limit hit earlier this run)
-DEFER   SGPN 2dere8HlBJk NFL Week 5 Prop Bets, Best Bets & Predictions  (YouTube rate limit hit earlier this run)
-DEFER   SGPN d0aq4J5BLjQ NFL Picks Week 5 w/ @DougStanhope @BrendonWalsh @SeanTGreen  (YouTube rate limit hit earlier this run)
-DEFER   SGPN ufKKXsVxkUk Bills vs Rams Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN ppIzf69dDg4 Ravens vs Falcons Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN UbhkQbWcYSQ Lions vs Cardinals Prediction, Picks & Best Bets | NFL Week   (YouTube rate limit hit earlier this run)
-DEFER   SGPN JZWIT5csYg8 49ers vs Seahawks Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN GSB7eR8KGRw Broncos vs Chargers Prediction, Picks & Best Bets | NFL Week  (YouTube rate limit hit earlier this run)
-DEFER   SGPN XmTbkyWTzb8 Bears vs Packers Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN 5CD1jQVA02A Texans vs Titans Prediction, Picks & Best Bets | NFL Week 5  (YouTube rate limit hit earlier this run)
-DEFER   SGPN 8u1wyGQr9vc Giants vs Commanders Prediction, Picks & Best Bets | NFL Wee  (YouTube rate limit hit earlier this run)
-DEFER   SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (YouTube rate limit hit earlier this run)
-DEFER   SGPNPropcast GXC1Iq2-xZ8 NFL Week 5 Circa Million Spread Picks - 10/8/26  (YouTube rate limit hit earlier this run)
-DEFER   ActionNetwork D-VSFIRKqec Our Anytime Touchdown Picks for Week 5 of The NFL Season!  (YouTube rate limit hit earlier this run)
-DEFER   ActionNetwork 3hGl_V4jzkU Buccaneers vs. Cowboys SAME GAME PARLAY PICKS LIVE | Thursda  (YouTube rate limit hit earlier this run)
-DEFER   ActionNetwork -jqw2xpoLlU NFL Week 5 Betting Preview & Picks For EVERY GAME! | The Fav  (YouTube rate limit hit earlier this run)
+NEW     NFL/transcripts/week-05/wneNruZ8OuU_Footballers_Starts_of_the_Week_Week_5_Games_Smooshed_Fantasy_Football_2026_Ep_1989.txt  (14,059 words)
+NEW     NFL/transcripts/week-05/DC0nSwYrW88_RotoGrinders_Buccs_vs_Cowboys_TNF_Showdown_NFL_DFS_Picks_Strategy.txt  (8,464 words)
+UPCOMING RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet)
+UPCOMING RotoGrinders Pe4b-WsRhm0 NFL DFS Tournament Strategy for Week 5 on DraftKings & FanDu  (not aired yet)
+NEW     NFL/transcripts/week-05/JP85svOgkrs_ShipItNation_Buccaneers_vs_Cowboys_TNF_Showdown_Shippers_NFL_Week_5_DFS_Picks_Plays.txt  (15,680 words)
+NEW     NFL/transcripts/week-05/d0aq4J5BLjQ_SGPN_NFL_Picks_Week_5_w_DougStanhope_BrendonWalsh_SeanTGreen.txt  (8,911 words)
+NOCAPS  SGPN 2dere8HlBJk NFL Week 5 Prop Bets, Best Bets & Predictions  (captions not posted yet - often appear a few hours after upload)
+NEW     NFL/transcripts/week-05/ufKKXsVxkUk_SGPN_Bills_vs_Rams_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (979 words)
+NEW     NFL/transcripts/week-05/ppIzf69dDg4_SGPN_Ravens_vs_Falcons_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,056 words)
+NEW     NFL/transcripts/week-05/UbhkQbWcYSQ_SGPN_Lions_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,134 words)
+NEW     NFL/transcripts/week-05/JZWIT5csYg8_SGPN_49ers_vs_Seahawks_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (964 words)
+NEW     NFL/transcripts/week-05/GSB7eR8KGRw_SGPN_Broncos_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,210 words)
+NEW     NFL/transcripts/week-05/XmTbkyWTzb8_SGPN_Bears_vs_Packers_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,273 words)
+NEW     NFL/transcripts/week-05/5CD1jQVA02A_SGPN_Texans_vs_Titans_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,059 words)
+NEW     NFL/transcripts/week-05/8u1wyGQr9vc_SGPN_Giants_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,489 words)
+NEW     NFL/transcripts/week-05/GXC1Iq2-xZ8_SGPNPropcast_NFL_Week_5_Circa_Million_Spread_Picks_10_8_26.txt  (7,571 words)
+UPCOMING SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (not aired yet)
+NEW     NFL/transcripts/week-05/-jqw2xpoLlU_ActionNetwork_NFL_Week_5_Betting_Preview_Picks_For_EVERY_GAME_The_Favorites_Podcast.txt  (11,706 words)
+NEW     NFL/transcripts/week-05/D-VSFIRKqec_ActionNetwork_Our_Anytime_Touchdown_Picks_for_Week_5_of_The_NFL_Season.txt  (9,464 words)
+DEFER   ActionNetwork 3hGl_V4jzkU Buccaneers vs. Cowboys SAME GAME PARLAY PICKS LIVE | Thursda  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   TheAudible -tLM1vl2KZw WEEK 5 THE AUDIBLE LIVE THURSDAY NIGHT FOOTBALL - MATT WALDM  (YouTube rate limit hit earlier this run)
 DEFER   TheAudible DEq7X_fr6ls Can the Broncos FINALLY Get on Track? Bills-Rams a Super Bow  (YouTube rate limit hit earlier this run)
 NOTE    deferred videos are picked up automatically on the next scheduled run
