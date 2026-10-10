@@ -1,6 +1,6 @@
-# NFL transcripts | week 5 | updated 2026-10-09 21:57 ET
+# NFL transcripts | week 5 | updated 2026-10-09 22:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 58 files this week:
+# 63 files this week:
 NFL/transcripts/week-05/-1vQl12GqXQ_PlayerProfiler_Week_5_Fantasy_Football_Rankings_Should_You_worry_about_Zay_Flowers.txt
 NFL/transcripts/week-05/-jqw2xpoLlU_ActionNetwork_NFL_Week_5_Betting_Preview_Picks_For_EVERY_GAME_The_Favorites_Podcast.txt
 NFL/transcripts/week-05/-tLM1vl2KZw_TheAudible_WEEK_5_THE_AUDIBLE_LIVE_THURSDAY_NIGHT_FOOTBALL_MATT_WALDMAN_AND_JEFF.txt
@@ -9,6 +9,7 @@ NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Ta
 NFL/transcripts/week-05/3hGl_V4jzkU_ActionNetwork_Buccaneers_vs_Cowboys_SAME_GAME_PARLAY_PICKS_LIVE_Thursday_Night_Footb.txt
 NFL/transcripts/week-05/5A_ngMdSAcA_PlayerProfiler_Fantasy_Football_Week_5_Waiver_Wire_Must_Add_Players_FAAB_Bids.txt
 NFL/transcripts/week-05/5CD1jQVA02A_SGPN_Texans_vs_Titans_Prediction_Picks_Best_Bets_NFL_Week_5.txt
+NFL/transcripts/week-05/6uh5wC3Lecw_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Buccaneers_Cowboys_TNF_Week_5_DFS_Pi.txt
 NFL/transcripts/week-05/8u1wyGQr9vc_SGPN_Giants_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/92CKydG_3YU_Footballers_Week_5_Matchups_Cowboy_Collapse_Wheel_of_Shame_Fantasy_Football_2026_E.txt
 NFL/transcripts/week-05/97fss4U0TnE_ActionNetwork_Ravens_vs_Falcons_Betting_Picks_Sunday_Night_Football_Preview.txt
@@ -30,6 +31,7 @@ NFL/transcripts/week-05/P3X8BD_4KTw_ActionNetwork_NFL_Week_5_Betting_Preview_Pre
 NFL/transcripts/week-05/QgZ9W6iesIQ_FootballersDFS_Week_5_DFS_Picks_The_Cash_Pool_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-05/Rt_J6cIKOTo_RotoGrinders_6_PACK_Don_t_Set_Your_Week_5_DFS_Lineups_Before_Watching_This.txt
 NFL/transcripts/week-05/Spi9x-cD95o_ActionNetwork_NFL_Week_5_Best_Bets_Player_Props_SGPs_Longshots_Brandon_s_Playground.txt
+NFL/transcripts/week-05/SwoEzVWFSOA_Stokastic_NFL_DFS_Sims_Tournament_Strategy_Week_5_NFL_DFS_Strategy.txt
 NFL/transcripts/week-05/TXDemhCBL4c_Footballers_Snap_Count_Risers_Jason_s_Confession_Fantasy_Football_2026_Ep_1988.txt
 NFL/transcripts/week-05/UbhkQbWcYSQ_SGPN_Lions_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/UlapnQI4Cdo_SGPN_Colts_vs_Steelers_Prediction_Picks_Best_Bets_NFL_Week_5.txt
@@ -38,6 +40,8 @@ NFL/transcripts/week-05/XWiG2xhrhI0_DFSArmy_NFL_DFS_Week_5_Strategy_for_DraftKin
 NFL/transcripts/week-05/XmTbkyWTzb8_SGPN_Bears_vs_Packers_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/Y9-NBj7W-rI_Footballers_Week_5_Waivers_Tyreek_Talk_Hole_in_One_Fantasy_Football_2026_Ep_1987.txt
 NFL/transcripts/week-05/YJIgV4Tz97o_TheAudible_Will_the_Cowboys_THROTTLE_the_Bucs_Did_the_Patriots_UNLOCK_Drake_Maye.txt
+NFL/transcripts/week-05/Yg-W2wLMyeg_Stokastic_Week_5_NFL_DFS_Single_Lineup_Sim_Building_NFL_DFS_Strategy.txt
+NFL/transcripts/week-05/_FKfEJmHamA_Stokastic_Buccaneers_Cowboys_Showdown_Strategy_TNF_Week_5_DFS_Picks_NFL_DFS_Stra.txt
 NFL/transcripts/week-05/bdBNCMR6MUc_SGPN_Thursday_Night_Football_Week_5_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-05/bvrM80AhbYI_SwankTank_NFL_Week_5_Picks_Predictions_Key_Stats_DFS_Locks_More.txt
 NFL/transcripts/week-05/d0aq4J5BLjQ_SGPN_NFL_Picks_Week_5_w_DougStanhope_BrendonWalsh_SeanTGreen.txt
@@ -53,6 +57,7 @@ NFL/transcripts/week-05/ppIzf69dDg4_SGPN_Ravens_vs_Falcons_Prediction_Picks_Best
 NFL/transcripts/week-05/q8y94dmsuRA_SGPN_NFL_Week_5_Locks_Dogs_Teasers_Best_Bets.txt
 NFL/transcripts/week-05/rtwDxqdfvmw_SGPN_Browns_vs_Jets_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiver_Wire_Players_Which_Players_Get_Dum.txt
+NFL/transcripts/week-05/uI_p58hTGnU_Stokastic_NFL_DFS_First_Look_Week_5_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-05/ufKKXsVxkUk_SGPN_Bills_vs_Rams_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/wW8_4R_o7SI_SGPN_Vikings_vs_Saints_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/wneNruZ8OuU_Footballers_Starts_of_the_Week_Week_5_Games_Smooshed_Fantasy_Football_2026_Ep_1989.txt
@@ -66,21 +71,18 @@ NONE    channel FootballersDFS: nothing new this week (or everything already sav
 NONE    channel SwankTank: nothing new this week (or everything already saved)
 NONE    channel RotoGrinders: nothing new this week (or everything already saved)
 NONE    channel ShipItNation: nothing new this week (or everything already saved)
-NEW     NFL/transcripts/week-05/rtwDxqdfvmw_SGPN_Browns_vs_Jets_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,039 words)
-NEW     NFL/transcripts/week-05/wW8_4R_o7SI_SGPN_Vikings_vs_Saints_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (866 words)
-NEW     NFL/transcripts/week-05/UlapnQI4Cdo_SGPN_Colts_vs_Steelers_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (1,068 words)
-NEW     NFL/transcripts/week-05/AJjlEfksulE_SGPN_Eagles_vs_Jaguars_Prediction_Picks_Best_Bets_NFL_Week_5.txt  (2,393 words)
-NEW     NFL/transcripts/week-05/q8y94dmsuRA_SGPN_NFL_Week_5_Locks_Dogs_Teasers_Best_Bets.txt  (417 words)
-NEW     NFL/transcripts/week-05/o9W0YHAXhIs_SGPN_NFL_Week_5_Picks_Best_Bets_Predictions.txt  (23,096 words)
-NEW     NFL/transcripts/week-05/bdBNCMR6MUc_SGPN_Thursday_Night_Football_Week_5_Prop_Bets_Best_Bets_Predictions.txt  (10,414 words)
+NONE    channel SGPN: nothing new this week (or everything already saved)
 NOCAPS  SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (captions not posted yet - often appear a few hours after upload)
 NONE    channel ActionNetwork: nothing new this week (or everything already saved)
 NONE    channel DFSArmy: nothing new this week (or everything already saved)
 NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
-NONE    channel TheAudible: nothing new this week (or everything already saved)
+UPCOMING TheAudible 0-Drl3inams Week 5 Ask Me Anything Livestream with Bob Harris  (not aired yet)
 NOCAPS  PlayerProfiler QqMbGagahBA Week 5 Sleepers! Fantasy Football Starts and Sits  (captions not posted yet - often appear a few hours after upload)
 NOCAPS  PlayerProfiler 4MJxd3qgbvs Plays of the Week for Fantasy Football Week 5 with The Podfa  (captions not posted yet - often appear a few hours after upload)
 NOCAPS  PlayerProfiler lcV7SphaHNg Fantasy Football Week 5: Start/Sit + Buy/Sell | Quinshon Jud  (captions not posted yet - often appear a few hours after upload)
-NEW     NFL/transcripts/week-05/hCWTWDNSf5E_PlayerProfiler_Top_10_Fantasy_Football_Takeaways_from_Week_4_and_Waiver_Wire_Advice_f.txt  (14,161 words)
-NEW     NFL/transcripts/week-05/FxseOifsGb0_PlayerProfiler_Week_5_TOP_Kickers_Defenses_High_Upside_Streamers.txt  (1,977 words)
+NEW     NFL/transcripts/week-05/SwoEzVWFSOA_Stokastic_NFL_DFS_Sims_Tournament_Strategy_Week_5_NFL_DFS_Strategy.txt  (11,395 words)
+NEW     NFL/transcripts/week-05/6uh5wC3Lecw_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Buccaneers_Cowboys_TNF_Week_5_DFS_Pi.txt  (12,863 words)
+NEW     NFL/transcripts/week-05/_FKfEJmHamA_Stokastic_Buccaneers_Cowboys_Showdown_Strategy_TNF_Week_5_DFS_Picks_NFL_DFS_Stra.txt  (10,542 words)
+NEW     NFL/transcripts/week-05/Yg-W2wLMyeg_Stokastic_Week_5_NFL_DFS_Single_Lineup_Sim_Building_NFL_DFS_Strategy.txt  (9,626 words)
+NEW     NFL/transcripts/week-05/uI_p58hTGnU_Stokastic_NFL_DFS_First_Look_Week_5_Picks_NFL_DFS_Strategy.txt  (14,199 words)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
