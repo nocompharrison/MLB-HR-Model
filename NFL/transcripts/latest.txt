@@ -1,6 +1,6 @@
-# NFL transcripts | week 5 | updated 2026-10-09 14:47 ET
+# NFL transcripts | week 5 | updated 2026-10-09 21:15 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 38 files this week:
+# 40 files this week:
 NFL/transcripts/week-05/-jqw2xpoLlU_ActionNetwork_NFL_Week_5_Betting_Preview_Picks_For_EVERY_GAME_The_Favorites_Podcast.txt
 NFL/transcripts/week-05/-tLM1vl2KZw_TheAudible_WEEK_5_THE_AUDIBLE_LIVE_THURSDAY_NIGHT_FOOTBALL_MATT_WALDMAN_AND_JEFF.txt
 NFL/transcripts/week-05/2dere8HlBJk_SGPN_NFL_Week_5_Prop_Bets_Best_Bets_Predictions.txt
@@ -8,6 +8,7 @@ NFL/transcripts/week-05/3VIfSMESH_c_FootballersDFS_Week_5_NFL_Preview_How_the_Ta
 NFL/transcripts/week-05/5CD1jQVA02A_SGPN_Texans_vs_Titans_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/8u1wyGQr9vc_SGPN_Giants_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/92CKydG_3YU_Footballers_Week_5_Matchups_Cowboy_Collapse_Wheel_of_Shame_Fantasy_Football_2026_E.txt
+NFL/transcripts/week-05/97fss4U0TnE_ActionNetwork_Ravens_vs_Falcons_Betting_Picks_Sunday_Night_Football_Preview.txt
 NFL/transcripts/week-05/CgIhkYS-Dqk_DFSArmyLive_PrizePicks_Picks_TONIGHT_Thursday_Night_Football_Buccaneers_vs_Cowboy.txt
 NFL/transcripts/week-05/D-VSFIRKqec_ActionNetwork_Our_Anytime_Touchdown_Picks_for_Week_5_of_The_NFL_Season.txt
 NFL/transcripts/week-05/DC0nSwYrW88_RotoGrinders_Buccs_vs_Cowboys_TNF_Showdown_NFL_DFS_Picks_Strategy.txt
@@ -37,12 +38,18 @@ NFL/transcripts/week-05/ppIzf69dDg4_SGPN_Ravens_vs_Falcons_Prediction_Picks_Best
 NFL/transcripts/week-05/sgO_lxkXRJI_TheAudible_Who_Are_the_MUST_ADD_Fantasy_Waiver_Wire_Players_Which_Players_Get_Dum.txt
 NFL/transcripts/week-05/ufKKXsVxkUk_SGPN_Bills_vs_Rams_Prediction_Picks_Best_Bets_NFL_Week_5.txt
 NFL/transcripts/week-05/wneNruZ8OuU_Footballers_Starts_of_the_Week_Week_5_Games_Smooshed_Fantasy_Football_2026_Ep_1989.txt
+NFL/transcripts/week-05/x-6OQvKrkB4_ActionNetwork_Seahawks_vs_49ers_Preview_Picks_NFL_Week_5_Best_Bets.txt
 NFL/transcripts/week-05/y1X7kzWvcBs_TheAudible_NFL_DFS_Week_5_Best_DraftKings_Plays_Stacks_Sleepers_Fades_Main_Slate.txt
 NFL/transcripts/week-05/zud7KniqDXM_ActionNetwork_Bears_vs_Packers_Predictions_Best_Bets_NFL_Week_5_Betting_Preview.txt
 
 # this run:
-NEW     NFL/transcripts/week-05/92CKydG_3YU_Footballers_Week_5_Matchups_Cowboy_Collapse_Wheel_of_Shame_Fantasy_Football_2026_E.txt  (11,920 words)
+FAILED  channel FootballersDFS: HTTPError: HTTP Error 404: Not Found
+FAILED  channel SwankTank: HTTPError: HTTP Error 500: Internal Server Error
 UPCOMING RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet)
-NOCAPS  SGPNPropcast ukW6uvYIePg NFL Week 5 Player Props - 10/9/26  (captions not posted yet - often appear a few hours after upload)
-UPCOMING DFSArmy GmyVdKJyeH0 NFL Week 5 DraftKings and FanDuel DFS Strategy and Picks | T  (not aired yet)
+FAILED  channel ShipItNation: HTTPError: HTTP Error 404: Not Found
+FAILED  channel SGPNPropcast: HTTPError: HTTP Error 404: Not Found
+NEW     NFL/transcripts/week-05/97fss4U0TnE_ActionNetwork_Ravens_vs_Falcons_Betting_Picks_Sunday_Night_Football_Preview.txt  (1,038 words)
+NEW     NFL/transcripts/week-05/x-6OQvKrkB4_ActionNetwork_Seahawks_vs_49ers_Preview_Picks_NFL_Week_5_Best_Bets.txt  (1,248 words)
+FAILED  channel DFSArmy: HTTPError: HTTP Error 404: Not Found
+FAILED  channel TheAudible: HTTPError: HTTP Error 500: Internal Server Error
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
