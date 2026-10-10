@@ -1,12 +1,17 @@
-# CFB transcripts | week 6 | updated 2026-10-09 14:50 ET
+# CFB transcripts | week 6 | updated 2026-10-10 08:31 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 20 files this week:
+# 27 files this week:
 CFB/transcripts/week-06/14d7QWqHgtw_WagerTalk_Friday_Saturday_CFB_Week_6_BEST_Bets_Iowa_vs_Washington_North_Carolina.txt
 CFB/transcripts/week-06/1XrExuvf44s_Cover3_Week_6_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_Mo.txt
 CFB/transcripts/week-06/27e7U59N_k0_Cover3_Texas_vs_Oklahoma_Preview_Predictions_Who_Wins_and_WHY_Cover_3_College.txt
+CFB/transcripts/week-06/5BPRUgsw19g_WagerTalk_LATE_NIGHT_CFB_Week_6_Bets_Boise_State_vs_Fresno_State_Hawaii_vs_Arizo.txt
 CFB/transcripts/week-06/5VPg9dyONHQ_BBOC_College_Football_Week_6_Betting_Guide_Expert_Analysis_Game_Previews_Mo.txt
 CFB/transcripts/week-06/7-_3Gp02ikc_WagerTalk_BEST_CFB_Week_6_Bets_Maryland_vs_Ohio_State_USC_vs_Penn_State.txt
 CFB/transcripts/week-06/FzVg9FnxZWA_TCE_FCS_Week_6_Preview_Picks_Austin_Peay_vs_Tarleton.txt
+CFB/transcripts/week-06/HBCqTWLyHpQ_BBOC_UPSET_ALERT_Indiana_vs_Nebraska_CFB_Betting_Preview_Best_Bet.txt
+CFB/transcripts/week-06/HfETX0eFaCk_BBOC_CAN_UCLA_SHOCK_OREGON_UCLA_vs_Oregon_Week_6_CFB_Best_Bets.txt
+CFB/transcripts/week-06/KyVdbclY688_BBOC_TOP_10_SEC_SHOWDOWN_Georgia_vs_Alabama_Betting_Preview_Best_Bets.txt
+CFB/transcripts/week-06/LkUcCcMMjaY_HitTheBooks_CFB_Week_6_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt
 CFB/transcripts/week-06/RTLx9ESGajg_BBOC_Week_6_Group_of_6_Betting_Picks_BEST_G6_Bets_for_This_Weekend.txt
 CFB/transcripts/week-06/Sf1fh02GOnE_TCE_College_Football_Week_6_Preview_Picks.txt
 CFB/transcripts/week-06/TY8Vxi1q_-U_BBOC_We_re_FADING_AIR_FORCE_at_NIU_CFB_Week_6_Best_Bets.txt
@@ -17,24 +22,24 @@ CFB/transcripts/week-06/_lFTLXCfFs4_WagerTalk_Indiana_vs_Nebraska_and_UCLA_vs_Or
 CFB/transcripts/week-06/coS-WnWXxCU_BBOC_Hawaii_vs_Arizona_State_Preview_College_Football_Betting_Picks_Predict.txt
 CFB/transcripts/week-06/d9wN3nCjlco_Cover3_UPDATED_CFP_Bracket_Predictions_after_Week_6.txt
 CFB/transcripts/week-06/jSiOphAunss_VSiN_College_Football_Week_6_Expert_Picks_Best_Bets_COMPILATION.txt
+CFB/transcripts/week-06/peSYn6iTq0U_BBOC_RED_RIVER_RIVALRY_PICKS_Texas_vs_Oklahoma_Betting_Preview_Best_Bets.txt
 CFB/transcripts/week-06/pvfMR70maLY_Cover3_Georgia_vs_Alabama_Preview_Predictions_Who_Wins_and_Why.txt
 CFB/transcripts/week-06/vCJiJ28Qy-w_HitTheBooks_These_College_Football_Lines_Won_t_Last_Bet_Them_Now_Presented_by_FanD.txt
+CFB/transcripts/week-06/wRhWa1RYIRU_WagerTalk_BEST_BETS_CFB_Week_6_Duke_vs_Georgia_Tech_Georgia_vs_Alabama_Drew_s_Da.txt
 CFB/transcripts/week-06/yVgnl5jsofw_BBOC_BET_THE_OVER_Coastal_Carolina_vs_Marshall_CFB_Week_6_Best_Bets.txt
 CFB/transcripts/week-06/zaS99486iSs_Cover3_UCLA_vs_Oregon_Preview_Predictions_Who_Wins_and_WHY_Cover_3_College_Fo.txt
 
 # this run:
-NEW     CFB/transcripts/week-06/1XrExuvf44s_Cover3_Week_6_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_Mo.txt  (16,517 words)
-NEW     CFB/transcripts/week-06/_Uy6iG3V4Lg_Cover3_Week_6_College_Football_Previews_Predictions_Georgia_Alabama_Texas_Okl.txt  (13,731 words)
-NEW     CFB/transcripts/week-06/5VPg9dyONHQ_BBOC_College_Football_Week_6_Betting_Guide_Expert_Analysis_Game_Previews_Mo.txt  (16,663 words)
-NEW     CFB/transcripts/week-06/WSPyI3VtIjA_BBOC_MEMPHIS_Is_a_MUST_BET_vs_UAB_CFB_Week_6_Best_Bets.txt  (663 words)
-NEW     CFB/transcripts/week-06/TY8Vxi1q_-U_BBOC_We_re_FADING_AIR_FORCE_at_NIU_CFB_Week_6_Best_Bets.txt  (506 words)
-NEW     CFB/transcripts/week-06/yVgnl5jsofw_BBOC_BET_THE_OVER_Coastal_Carolina_vs_Marshall_CFB_Week_6_Best_Bets.txt  (744 words)
-NEW     CFB/transcripts/week-06/coS-WnWXxCU_BBOC_Hawaii_vs_Arizona_State_Preview_College_Football_Betting_Picks_Predict.txt  (595 words)
-UPCOMING HitTheBooks LkUcCcMMjaY CFB Week 6 Full Breakdown & Best Bets! | Presented By FanDue  (not aired yet)
-NEW     CFB/transcripts/week-06/FzVg9FnxZWA_TCE_FCS_Week_6_Preview_Picks_Austin_Peay_vs_Tarleton.txt  (20,436 words)
-NEW     CFB/transcripts/week-06/Sf1fh02GOnE_TCE_College_Football_Week_6_Preview_Picks.txt  (33,510 words)
-NEW     CFB/transcripts/week-06/_lFTLXCfFs4_WagerTalk_Indiana_vs_Nebraska_and_UCLA_vs_Oregon_College_Football_Best_Bets_Jess.txt  (1,885 words)
-NEW     CFB/transcripts/week-06/7-_3Gp02ikc_WagerTalk_BEST_CFB_Week_6_Bets_Maryland_vs_Ohio_State_USC_vs_Penn_State.txt  (1,541 words)
-NEW     CFB/transcripts/week-06/14d7QWqHgtw_WagerTalk_Friday_Saturday_CFB_Week_6_BEST_Bets_Iowa_vs_Washington_North_Carolina.txt  (2,291 words)
-NONE    channel SplitZoneDuo: nothing new this week matched the filters
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NONE    channel Cover3: nothing new this week (or everything already saved)
+NEW     CFB/transcripts/week-06/HBCqTWLyHpQ_BBOC_UPSET_ALERT_Indiana_vs_Nebraska_CFB_Betting_Preview_Best_Bet.txt  (1,103 words)
+NEW     CFB/transcripts/week-06/HfETX0eFaCk_BBOC_CAN_UCLA_SHOCK_OREGON_UCLA_vs_Oregon_Week_6_CFB_Best_Bets.txt  (1,607 words)
+NEW     CFB/transcripts/week-06/peSYn6iTq0U_BBOC_RED_RIVER_RIVALRY_PICKS_Texas_vs_Oklahoma_Betting_Preview_Best_Bets.txt  (1,738 words)
+NEW     CFB/transcripts/week-06/KyVdbclY688_BBOC_TOP_10_SEC_SHOWDOWN_Georgia_vs_Alabama_Betting_Preview_Best_Bets.txt  (2,425 words)
+NEW     CFB/transcripts/week-06/LkUcCcMMjaY_HitTheBooks_CFB_Week_6_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt  (11,416 words)
+NONE    channel VSiN: nothing new this week (or everything already saved)
+UPCOMING TCE Q9oXJLsDjbY WEEK 6 PREGAME SHOW | THE COLLEGE FOOTBALL EXPERIENCE  (not aired yet)
+NEW     CFB/transcripts/week-06/5BPRUgsw19g_WagerTalk_LATE_NIGHT_CFB_Week_6_Bets_Boise_State_vs_Fresno_State_Hawaii_vs_Arizo.txt  (1,791 words)
+NEW     CFB/transcripts/week-06/wRhWa1RYIRU_WagerTalk_BEST_BETS_CFB_Week_6_Duke_vs_Georgia_Tech_Georgia_vs_Alabama_Drew_s_Da.txt  (1,074 words)
+UPCOMING WagerTalk 217Xo4BYEJE College Football Week 6 BEST BETS & Picks LIVE! Georgia vs A  (not aired yet)
+UPCOMING WagerTalk Xy6bmIIeBAE College Football Week 6 BEST BETS & Picks LIVE! Georgia vs A  (not aired yet)
+NONE    channel SplitZoneDuo: nothing new this week (or everything already saved)
