@@ -1,4 +1,4 @@
-# NFL transcripts | week 5 | updated 2026-10-09 21:15 ET
+# NFL transcripts | week 5 | updated 2026-10-09 21:32 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 40 files this week:
 NFL/transcripts/week-05/-jqw2xpoLlU_ActionNetwork_NFL_Week_5_Betting_Preview_Picks_For_EVERY_GAME_The_Favorites_Podcast.txt
@@ -45,11 +45,12 @@ NFL/transcripts/week-05/zud7KniqDXM_ActionNetwork_Bears_vs_Packers_Predictions_B
 # this run:
 FAILED  channel FootballersDFS: HTTPError: HTTP Error 404: Not Found
 FAILED  channel SwankTank: HTTPError: HTTP Error 500: Internal Server Error
-UPCOMING RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet)
+FAILED  channel RotoGrinders: HTTPError: HTTP Error 404: Not Found
 FAILED  channel ShipItNation: HTTPError: HTTP Error 404: Not Found
-FAILED  channel SGPNPropcast: HTTPError: HTTP Error 404: Not Found
-NEW     NFL/transcripts/week-05/97fss4U0TnE_ActionNetwork_Ravens_vs_Falcons_Betting_Picks_Sunday_Night_Football_Preview.txt  (1,038 words)
-NEW     NFL/transcripts/week-05/x-6OQvKrkB4_ActionNetwork_Seahawks_vs_49ers_Preview_Picks_NFL_Week_5_Best_Bets.txt  (1,248 words)
+FAILED  channel SGPN: HTTPError: HTTP Error 500: Internal Server Error
+FAILED  channel SGPNPropcast: HTTPError: HTTP Error 500: Internal Server Error
+FAILED  channel ActionNetwork: HTTPError: HTTP Error 404: Not Found
 FAILED  channel DFSArmy: HTTPError: HTTP Error 404: Not Found
-FAILED  channel TheAudible: HTTPError: HTTP Error 500: Internal Server Error
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+FAILED  channel DFSArmyLive: HTTPError: HTTP Error 404: Not Found
+FAILED  channel TheAudible: HTTPError: HTTP Error 404: Not Found
+FAILED  channel PlayerProfiler: HTTPError: HTTP Error 500: Internal Server Error
