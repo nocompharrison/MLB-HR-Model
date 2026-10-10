@@ -44,13 +44,13 @@ NFL/transcripts/week-05/zud7KniqDXM_ActionNetwork_Bears_vs_Packers_Predictions_B
 
 # this run:
 FAILED  channel FootballersDFS: HTTPError: HTTP Error 404: Not Found
-FAILED  channel SwankTank: HTTPError: HTTP Error 500: Internal Server Error
-FAILED  channel RotoGrinders: HTTPError: HTTP Error 404: Not Found
+FAILED  channel SwankTank: HTTPError: HTTP Error 404: Not Found
+FAILED  channel RotoGrinders: HTTPError: HTTP Error 500: Internal Server Error
 FAILED  channel ShipItNation: HTTPError: HTTP Error 404: Not Found
-FAILED  channel SGPN: HTTPError: HTTP Error 500: Internal Server Error
-FAILED  channel SGPNPropcast: HTTPError: HTTP Error 500: Internal Server Error
+FAILED  channel SGPN: HTTPError: HTTP Error 404: Not Found
+FAILED  channel SGPNPropcast: HTTPError: HTTP Error 404: Not Found
 FAILED  channel ActionNetwork: HTTPError: HTTP Error 404: Not Found
 FAILED  channel DFSArmy: HTTPError: HTTP Error 404: Not Found
 FAILED  channel DFSArmyLive: HTTPError: HTTP Error 404: Not Found
 FAILED  channel TheAudible: HTTPError: HTTP Error 404: Not Found
-FAILED  channel PlayerProfiler: HTTPError: HTTP Error 500: Internal Server Error
+FAILED  channel PlayerProfiler: HTTPError: HTTP Error 404: Not Found
