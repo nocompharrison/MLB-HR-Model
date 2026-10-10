@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/ | fetched: 2026-10-09 21:31 ET -->
+<!-- source: https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/ | fetched: 2026-10-10 14:18 ET -->
 
 ![The Primer: Week 5 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_5_fantasy_article/716x316.jpg)
 [
@@ -11,7 +11,7 @@
   
 
 ### **San Francisco 49ers vs. Seattle Seahawks**
-  * SEA -2.5, O/U 45.5
+  * SEA -3, O/U 45.5
   * [San Francisco 49ers vs. Seattle Seahawks Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/san-francisco-49ers-vs-seattle-seahawks?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F10%2Fthe-primer-week-5-edition-2026-fantasy-football%2F4%2F)
 
 
@@ -90,7 +90,7 @@ _These are no-brainer MUST starts._
   * [Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php)*
 
 
-_*[Zay Flowers](https://www.fantasypros.com/nfl/players/zay-flowers.php) opened this week with a limited practice. He picked up a new foot injury last week. I’ll update his outlook on Friday.*_
+_*Zay Flowers picked up a new foot injury last week. He practiced on a limited basis and has been listed as questionable. If he is active (I expect him to be), then he should be in your lineups.*_
 **Strong Starts**
 _Here are players that should be in starting consideration for most fantasy teams._
 **[Mark Andrews (TE)](https://www.fantasypros.com/nfl/players/mark-andrews.php)**
@@ -181,7 +181,7 @@ Rate this article
 BoomBust
 [ ![](https://www.fantasypros.com/assets/images/google-icon-mono.svg) Add FantasyPros on Google ](https://www.google.com/preferences/source?q=fantasypros.com)
 ## More Articles
-[ ![Fantasy Football IDP Start/Sit Lineup Advice: Week 5 \(2026\) ](https://cdn.fantasypros.com/wp-content/images/Evan_Williams_Packers/265x117.jpg) Fantasy Football IDP Start/Sit Lineup Advice: Week 5 (2026)  ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/IMG_0970-1.jpg) by **Raju Byfield** | 4 min read ](https://www.fantasypros.com/2026/10/fantasy-football-idp-start-sit-lineup-advice-week-5-2026/) [ ![Fantasy Football Rankings, Tiers & Start/Sit Advice \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/chargers_omarion_hampton/265x117.jpg) Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 5) ![fp-headshot](https://cdn.fantasypros.com/wp-content/uploads/fitz_avatar.png) by **Pat Fitzmaurice** | 5 min read ](https://www.fantasypros.com/2026/10/fantasy-football-rankings-tiers-start-sit-advice-week-5-2026/) [ ![6 Fantasy Football Waiver Wire Pickups & Injury Replacements \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/keaton_mitchell_chargers_4-1/265x117.jpg) 6 Fantasy Football Waiver Wire Pickups & Injury Replacements (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/mike-fanelli-20220210.jpg) by **Mike Fanelli** | 4 min read ](https://www.fantasypros.com/2026/10/6-fantasy-football-waiver-wire-pickups-injury-replacements-week-5-2026/) [ ![10 Fantasy Football Stats You Need to Know \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/malik_washington_dolphins_7-1/265x117.jpg) 10 Fantasy Football Stats You Need to Know (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 4 min read ](https://www.fantasypros.com/2026/10/10-fantasy-football-stats-you-need-to-know-week-5-2026/)
+[ ![Fantasy Football Week 5 Player Grades & Start/Sit Advice \(2026\)](https://cdn.fantasypros.com/wp-content/images/nico_collins_texans-2/265x117.jpg) Fantasy Football Week 5 Player Grades & Start/Sit Advice (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 7 min read ](https://www.fantasypros.com/2026/10/fantasy-football-week-5-player-grades-start-sit-advice-2026/) [ ![5 Fantasy Football Waiver Wire Stashes: Week 5 \(2026\)](https://cdn.fantasypros.com/wp-content/images/MIKE_GESICKI_BENGALS_3-1/265x117.jpg) 5 Fantasy Football Waiver Wire Stashes: Week 5 (2026) ![fp-headshot](https://pbs.twimg.com/profile_images/1590203434426310661/sFkRSYrI.jpg) by **Frank Ammirante** | 2 min read ](https://www.fantasypros.com/2026/10/5-fantasy-football-waiver-wire-stashes-week-5-2026/) [ ![3 Burning Questions: Fantasy Football Lineup Advice \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/jonathan_taylor_colts_10/265x117.jpg) 3 Burning Questions: Fantasy Football Lineup Advice (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/josh-shepardson-20170426.jpg) by **Josh Shepardson** | 4 min read ](https://www.fantasypros.com/2026/10/3-burning-questions-fantasy-football-lineup-advice-week-5-2026/) [ ![NFL DFS Cash Game Picks & Lineup Advice: Week 5 \(2026\)](https://cdn.fantasypros.com/wp-content/images/trey_mcbride_cardinals_12-1/265x117.jpg) NFL DFS Cash Game Picks & Lineup Advice: Week 5 (2026) ![fp-headshot](https://pbs.twimg.com/profile_images/1590203434426310661/sFkRSYrI.jpg) by **Frank Ammirante** | 3 min read ](https://www.fantasypros.com/2026/10/nfl-dfs-cash-game-picks-lineup-advice-week-5-2026/)
 ## About Author
 ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/dbro_avatar.png)
 [Derek Brown ](https://www.fantasypros.com/news/correspondents/derek-brown.php)

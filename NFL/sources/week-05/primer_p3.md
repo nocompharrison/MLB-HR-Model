@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/ | fetched: 2026-10-09 21:31 ET -->
+<!-- source: https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/ | fetched: 2026-10-10 14:18 ET -->
 
 ![The Primer: Week 5 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_5_fantasy_article/716x316.jpg)
 [
@@ -11,7 +11,7 @@
   
 
 ### **New York Giants vs. Washington Commanders**
-  * WAS -3.5, O/U 42.5
+  * WAS -3.5, O/U 41.5
   * [New York Giants vs. Washington Commanders Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/new-york-giants-vs-washington-commanders?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F10%2Fthe-primer-week-5-edition-2026-fantasy-football%2F3%2F)
 
 
@@ -20,7 +20,7 @@
 | --- | --- | --- |  
 | [Cam Skattebo](https://www.fantasypros.com/nfl/players/cam-skattebo.php)  | RB  | RB2/3  |  
 | [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php)  | RB  | RB3/4  |  
-| [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php)  | WR  | TBD  |  
+| [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php)  | WR  | WR1/2  |  
 | [Malachi Fields](https://www.fantasypros.com/nfl/players/malachi-fields.php)  | WR  | WR4/5  |  
 | [Darnell Mooney](https://www.fantasypros.com/nfl/players/darnell-mooney.php)  | WR  | WR5  |  
 | [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php)  | TE  | TE1  |  
@@ -30,18 +30,22 @@
 | --- | --- | --- |  
 | [Jacory Croskey-Merritt](https://www.fantasypros.com/nfl/players/jacory-croskeymerritt.php)  | RB  | RB3  |  
 | [Austin Ekeler](https://www.fantasypros.com/nfl/players/austin-ekeler.php)  | RB  | RB4  |  
-| [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php)  | RB  | TBD  |  
-| [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)  | WR  | TBD  |  
-| [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php)  | WR  | TBD  |  
-| [Antonio Williams](https://www.fantasypros.com/nfl/players/antonio-williams.php)  | WR  | TBD  |  
+| [Rachaad White](https://www.fantasypros.com/nfl/players/rachaad-white.php)  | RB  | RB4  |  
+| [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)  | WR  | WR2/3  |  
+| [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php)  | WR  | Out  |  
+| [Antonio Williams](https://www.fantasypros.com/nfl/players/antonio-williams.php)  | WR  | WR3  |  
 | [Chig Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php)  | TE  | TE2  |  
 **Must-Start**
 _These are no-brainer MUST starts._
-N/A
+  * [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php)
+
+
 **Strong Starts**
 _Here are players that should be in starting consideration for most fantasy teams._
 **[Jayden Daniels (QB)](https://www.fantasypros.com/nfl/players/jayden-daniels.php)**
 [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php) practiced in full to open this week (elbow). I’m expecting him to be back this week. He’ll be wearing a brace on his non-throwing arm. We’ll see how this injury impacts his rushing, but I wouldn’t be shocked to see him run less until this injury is further in the rearview mirror. In Week 1, Daniels was the QB13 in weekly scoring while rushing five times for 31 yards on the ground. Daniels has only 5.1 yards per attempt, a 66.7% catchable target rate, and a 56.9% highly accurate throw rate this season. None of those are good passing/accuracy metrics. Despite all of that, Daniels could dismantle the Giants’ pass defense this week. New York has allowed the fifth-most passing touchdowns while ranking 16th in passing success rate and 18th in CPOE.
+**[Terry McLaurin (WR)](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)**
+Terry McLaurin will be a game-time decision this week. He is still dealing with a hamstring issue. He didn’t practice until Friday of this week, when he had a limited practice. We’ll see if he’s able to play this week. The good thing is that this is an early game, so we will have clarity about his status instead of this being a headache into the afternoon on Sunday. McLaurin is the WR41 in fantasy points per game with one top-20 weekly finish (WR15). McLaurin has a 22% target share with 1.41 YPRR, two red zone targets, four deep targets, and a 29.4% first-read share. If he plays, he’ll be a strong WR2/3. New York has allowed the fifth-most receiving fantasy points per game and the 13th-most fantasy points per opportunity to perimeter wide receivers.
 **[Isaiah Likely (TE)](https://www.fantasypros.com/nfl/players/isaiah-likely.php)**
 [Isaiah Likely](https://www.fantasypros.com/nfl/players/isaiah-likely.php) has been crushing it as the TE6 in fantasy points per game. Likely has an 81.1% route share, a 30.4% target share, 1.84 YPRR, six red zone targets, two deep targets, and a 34.1% first-read share. He has been amazing. He should have another outstanding week against a defense that has allowed the third-most yards per target and the most fantasy points per opportunity to tight ends.
 **Fantasy Football Flex & Deep Plays to Consider**
@@ -50,18 +54,12 @@ _Let’s fill out those flex spots._
 [Jameis Winston](https://www.fantasypros.com/nfl/players/jameis-winston.php) turned back the clock last week as the QB8 in fantasy. Last week, among 32 qualifying passers, Winston was fifth in yards per attempt, fourth in aDOT (11.3), 14th in passing yards (250), 21st in passing success rate, first in hero throw rate, and 25th in highly accurate throw rate. Yep, classic Jameis made a return. We’ll see if we get this again this week, but the matchup with the Commanders sets up well for YOLO Winston to show his face again in Week 5. Washington has allowed the 13th-highest yards per attempt, the most passing touchdowns (tied), the 11th-highest EPA per dropback, and ranks 15th in passing success rate.
 **[Jacory Croskey-Merritt (RB)](https://www.fantasypros.com/nfl/players/jacory-croskeymerritt.php)**
 [Jacory Croskey-Merritt](https://www.fantasypros.com/nfl/players/jacory-croskeymerritt.php) is the RB36 in fantasy points per game, averaging 15.3 touches and 49.3 total yards. Bill has a 46.5% snap share with 47.5% of the rushing attempts and a 25% route share (5.1% target share). His rushing metrics have suffered behind Washington’s horrible offensive line. Bill has only a 3.7% explosive run rate, 1.84 yards after contact per attempt, and a 5% missed tackle rate. He has another nice matchup this week, but I doubt his ability to find space again this week behind this offensive line. He has only 0.96 yards before contact per attempt. The line isn’t even giving him a hard before contact while he also has a 53.6% rate of getting hit at or behind the line of scrimmage. New York has allowed the 12th-highest explosive run rate, the third-highest rushing success rate, and the fifth-most yards before contact per attempt. Bill should see enough volume to be at least flex-viable.
+**[Antonio Williams (WR)](https://www.fantasypros.com/nfl/players/antonio-williams.php)**
+With Stefon Diggs out this week, I expect Antonio Williams to be heavily involved this week. Last week, Williams had a long touchdown called back that would have made his day. Williams still had a 73.2% route share, an 18.9% target share, one deep target, and a 24% first-read share. When Williams has been on the field this season, he has been effective with a 25% target-per-route run and 1.72 YPRR. The Giants are 15th in receiving fantasy points per game and 16th in fantasy points per game allowed to receivers. Williams is a strong flex play this week.
 **Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Cam Skattebo (RB)](https://www.fantasypros.com/nfl/players/cam-skattebo.php)**
 [Cam Skattebo](https://www.fantasypros.com/nfl/players/cam-skattebo.php)‘s Week 4 stat line looked much better in totality than it should have. Skattebo finished with 19 touches, 66 total yards, a 62.3% snap share, 64.3% of the rushing attempts, and a 45.5% route share (3.4%). This was thanks to a [Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php) fumble in the fourth quarter of last week’s game. In the first three quarters, Skattebo had a 55.6% snap share with 55.6% of the rushing attempts ([Najee Harris](https://www.fantasypros.com/nfl/players/najee-harris-rb.php): 38.9% of the rushing attempts). Harris had three red zone carries last week while Skattebo had only two. Harris is eating into Skattebo’s workload somewhat. Skattebo’s 2.16 yards after contact per attempt and 15% missed tackle rate are still passable but not amazing numbers. Skattebo remains a low-end RB2/flex this week, but he has a tough matchup, so he’ll likely need a touchdown to pay off for fantasy. Washington has allowed the 12th-lowest explosive run rate, the 12th-fewest yards before contact per attempt, and the fifth-fewest yards after contact per attempt.
-**[Malik Nabers (WR)](https://www.fantasypros.com/nfl/players/malik-nabers.php)**
-[Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php) landed on the injury report this week (knee). He had soreness and didn’t practice. His shoulder has been an issue, but we haven’t seen his knee be a problem in the last few weeks, since he has been a full-time option. I’ll update his outlook on Friday, but I wouldn’t be surprised if Nabers misses Week 5.
-**[Terry McLaurin (WR)](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)**
-[Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) missed last week’s game with a late-week hamstring injury. He opened this week with a DNP (hamstring). I’ll update his outlook on Friday, but I’m expecting him to miss Week 5.
-**[Stefon Diggs (WR)](https://www.fantasypros.com/nfl/players/stefon-diggs.php)**
-[Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php) popped up on the injury report to open this week with a hamstring issue. He didn’t practice. I’ll update his outlook on Friday.
-**[Antonio Williams (WR)](https://www.fantasypros.com/nfl/players/antonio-williams.php)**
-[Antonio Williams](https://www.fantasypros.com/nfl/players/antonio-williams.php) could be the only healthy receiver left standing to lead the way in Week 5 for [Jayden Daniels](https://www.fantasypros.com/nfl/players/jayden-daniels.php), with [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) and [Stefon Diggs](https://www.fantasypros.com/nfl/players/stefon-diggs.php) dealing with hamstring issues. I’ll update his outlook on Friday.
 [TB vs. DAL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#tb-dal) | [PHI vs. JAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#phi-jac) | [HOU vs. TEN](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#hou-ten) | [CIN vs. MIA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#cin-mia) | [LV vs. NE](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#lv-ne) | [MIN vs. NO](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#min-no) | [CLE vs. NYJ](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#cle-nyj) | [IND vs. PIT](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#ind-pit) | [NYG vs. WAS](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/) | [DEN vs. LAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#den-lac) | [CHI vs. GB](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#chi-gb) | [DET vs. ARI](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#det-ari) | [SF vs. SEA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/) | [BAL vs. ATL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#bal-atl) | [BUF vs. LAR](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#buf-lar)  
 
 ### **Denver Broncos vs. Los Angeles Chargers**
@@ -78,16 +76,16 @@ _Players in consideration for lineups, but temper your expectations this week._
 | [Courtland Sutton](https://www.fantasypros.com/nfl/players/courtland-sutton.php)  | WR  | WR4/5  |  
 | [Troy Franklin](https://www.fantasypros.com/nfl/players/troy-franklin.php)  | WR  | WR5  |  
 | [Marvin Mims Jr.](https://www.fantasypros.com/nfl/players/marvin-mims.php)  | WR  | WR5  |  
-| [Pat Bryant](https://www.fantasypros.com/nfl/players/pat-bryant.php)  | WR  | TBD  |  
+| [Pat Bryant](https://www.fantasypros.com/nfl/players/pat-bryant.php)  | WR  | Out  |  
 | [Evan Engram](https://www.fantasypros.com/nfl/players/evan-engram.php)  | TE  | TE2  |  
 **Chargers Players & Weekly Rankings**  
 | [Justin Herbert](https://www.fantasypros.com/nfl/players/justin-herbert.php)  | QB  | QB2  |  
 | --- | --- | --- |  
 | [Omarion Hampton](https://www.fantasypros.com/nfl/players/omarion-hampton.php)  | RB  | RB2/3  |  
 | [Keaton Mitchell](https://www.fantasypros.com/nfl/players/keaton-mitchell.php)  | RB  | RB3/4  |  
-| [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php)  | WR  | TBD  |  
-| [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php)  | WR  | TBD  |  
-| [Tre’ Harris](https://www.fantasypros.com/nfl/players/tre-harris.php)  | WR  | TBD  |  
+| [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php)  | WR  | Sit  |  
+| [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php)  | WR  | Out  |  
+| [Tre’ Harris](https://www.fantasypros.com/nfl/players/tre-harris.php)  | WR  | WR3/4  |  
 |  [Oronde Gadsden](https://www.fantasypros.com/nfl/players/oronde-gadsden-ii.php) ll  | TE  | TE2  |  
 **Must-Start**
 _These are no-brainer MUST starts._
@@ -105,6 +103,8 @@ Last week, the Chargers backfield became a disgusting three-way committee. Hampt
 [RJ Harvey](https://www.fantasypros.com/nfl/players/rj-harvey.php) has retained his passing-down role for Denver, with some early-down work sprinkled in. Harvey has a 43.3% snap rate with a 19.4% rushing share and a 42.9% route share (20.2% target share). He has averaged 10.3 touches and 60.3 total yards. Harvey hasn’t been effective on early downs with zero explosive runs, 1.92 yards after contact per attempt, and only an 8% missed tackle rate. Among 29 qualifying backs, he has been awesome as a receiver, though, ranking first in target share, first in yards per route run, fifth in receiving yards, and seventh in first-read share. Harvey is flex-worthy again this week. The Bolts have allowed the 13th-most receiving fantasy points per game to running backs.
 **[Jaylen Waddle (WR)](https://www.fantasypros.com/nfl/players/jaylen-waddle.php)**
 [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) and suspect play-calling have capsized this offense in most weeks so far. [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php) is the WR34 in fantasy points per game. Waddle has a 19.3% target share, 1.70 YPRR, two red zone targets, four deep targets, and a 28.2% first-read share. It has been tough when you can see Waddle getting open on film, but he can’t toss the ball to himself. If [Bo Nix](https://www.fantasypros.com/nfl/players/bo-nix.php) can get himself together this week, Waddle could have a nice game, but that’s a huge question mark. The Chargers have allowed the seventh-most yards per target and the fifth-most fantasy points per opportunity to perimeter wide receivers.
+**[Tre’ Harris (WR)](https://www.fantasypros.com/nfl/players/tre-harris.php)**
+Tre Harris could be the only healthy receiver left standing this week among the Chargers’ usual starting trio. Harris disappeared into the ether in Week 2 with what looks like an outlier quiet week in this passing attack. If we look at his three other games this season, he has been highly targeted in this broken passing attack. In those three other games, Harris has had a 19.4% target share with 1.93 YPRR, three red zone targets, two deep targets, and a 23.1% first-read share. This is a tough matchup for Harris, but Denver’s coverage structure is in his favor. In three of Denver’s four games, they have utilized single high with 51.7-55.9% of their defensive snaps. Against single high, Harris has a STRONG 24% target per route run rate and 2.88 YPRR this season. Harris could see enough volume this week to be flex-viable, and he has the talent to possibly overcome a rough matchup, but with how bad the Bolts offense has been, he’s a risky option. There’s no denying that. Denver has allowed the seventh-fewest yards per target and the sixth-fewest fantasy points per opportunity to perimeter wide receivers. The silver lining for Harris is that Patrick Surtain and Riley Moss (Denver’s two starting outside corners) are out this week.
 **[Courtland Sutton (WR)](https://www.fantasypros.com/nfl/players/courtland-sutton.php)**
 As bad as things have been for [Jaylen Waddle](https://www.fantasypros.com/nfl/players/jaylen-waddle.php), they have been even worse for [Courtland Sutton](https://www.fantasypros.com/nfl/players/courtland-sutton.php) as the WR89 in fantasy points per game. Sutton has only a 14.8% target share, 0.77 YPRR, five red zone targets, three deep targets, and a 23.9% first-read share. Only 55% of his targets have been catchable. Despite a wonderful matchup this week, Sutton is a desperation flex only. The Chargers have allowed the seventh-most yards per target and the fifth-most fantasy points per opportunity to perimeter wide receivers.
 **Concerning Starts & Players to Fade**
@@ -114,24 +114,20 @@ Even though I had my offseason doubts about the Chargers offense, I don’t even
 **[J.K. Dobbins (RB)](https://www.fantasypros.com/nfl/players/jk-dobbins.php)**
 Last week, [J.K. Dobbins](https://www.fantasypros.com/nfl/players/jk-dobbins.php) had his usual early down only role with a 31.3% snap share, 50% of the rushing attempts, and a 15.9% route share. Dobbins finished with 13 touches and 52 total yards, which is about the same workload that he has had in most weeks. The problem for Dobbins, outside of the Denver defense taking a huge step back this season, is that he doesn’t resemble the same back that we have loved over the last few years. Dobbins has only a 4.9% explosive run rate and 11% missed tackle rate. Those are a shell of his former rushing metrics. Unfortunately for Dobbins, the Bolts have had a formidable run defense this year, and he’s a sit this week. The Bolts have allowed the 11th-lowest explosive run rate, the fifth-lowest rushing success rate, and they have the sixth-best stuff rate.
 **[Ladd McConkey (WR)](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php)**
-[Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) opened the week with a DNP (foot). We’ll see if McConkey will be good to go for Week 5, but I’m expecting him to miss this week. I’ll update his outlook on Friday.
-**[Quentin Johnston (WR)](https://www.fantasypros.com/nfl/players/quentin-johnston.php)**
-Quentin Johnson opened this week with a limited practice (chest). He could be the Bolts’ leading receiver this week or he could miss the game. I’ll update his outlook on Friday.
-**[Tre’ Harris (WR)](https://www.fantasypros.com/nfl/players/tre-harris.php)**
-Tre Harris could be the last healthy Bolts receiver left standing this week, with [Ladd McConkey](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php) dealing with a foot injury and [Quentin Johnston](https://www.fantasypros.com/nfl/players/quentin-johnston.php) (chest) also hurt. I’ll update his outlook on Friday.
+Ladd McConkey hasn’t practiced all week as he’s dealing with a foot injury. He has been listed as questionable. I think he’s closer to doubtful. I don’t trust the Chargers injury reports at all, as we’ve seen too much goofy from them over the last two seasons. Even if McConkey is active (I doubt it), I’d expect him to be a limited-snap player with a bad matchup. Even without Patrick Surtain and Riley Moss, the Denver secondary is talented, and the Chargers don’t have a healthy offensive line to hold their pass rush back from Justin Herbert. Sit McConkey. Denver has allowed the seventh-fewest yards per target and the sixth-fewest fantasy points per opportunity to perimeter wide receivers.
 [TB vs. DAL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#tb-dal) | [PHI vs. JAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#phi-jac) | [HOU vs. TEN](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#hou-ten) | [CIN vs. MIA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#cin-mia) | [LV vs. NE](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#lv-ne) | [MIN vs. NO](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#min-no) | [CLE vs. NYJ](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#cle-nyj) | [IND vs. PIT](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#ind-pit) | [NYG vs. WAS](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/) | [DEN vs. LAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#den-lac) | [CHI vs. GB](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#chi-gb) | [DET vs. ARI](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#det-ari) | [SF vs. SEA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/) | [BAL vs. ATL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#bal-atl) | [BUF vs. LAR](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#buf-lar)
 [![FantasyPros Fantasy Football Trade Finder](https://cdn.fantasypros.com/wp-content/uploads/Stat-Category-Leader-1.jpg)](https://www.fantasypros.com/nfl/myplaybook/trade-finder.php)  
 
 ### **Chicago Bears vs. Green Bay Packers**
-  * CHI -2.5, O/U 45.5
+  * CHI -1.5, O/U 45.5
   * [Chicago Bears vs. Green Bay Packers Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/chicago-bears-vs-green-bay-packers?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F10%2Fthe-primer-week-5-edition-2026-fantasy-football%2F3%2F)
 
 
 **Bears Players & Weekly Rankings**  
 | [Tyson Bagent](https://www.fantasypros.com/nfl/players/tyson-bagent.php)  | QB  | QB2  |  
 | --- | --- | --- |  
-| [D’Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php)  | RB  | TBD  |  
-| [Kyle Monangai](https://www.fantasypros.com/nfl/players/kyle-monangai.php)  | RB  | TBD  |  
+| [D’Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php)  | RB  | RB1/2  |  
+| [Kyle Monangai](https://www.fantasypros.com/nfl/players/kyle-monangai.php)  | RB  | Out  |  
 | [Luther Burden](https://www.fantasypros.com/nfl/players/luther-burden-iii.php)  | WR  | WR2/3  |  
 | [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php)  | WR  | WR2/3  |  
 | [Kalif Raymond](https://www.fantasypros.com/nfl/players/kalif-raymond.php)  | WR  | WR4/5  |  
@@ -140,9 +136,9 @@ Tre Harris could be the last healthy Bolts receiver left standing this week, wit
 **Packers Players & Weekly Rankings**  
 | [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php)  | QB  | QB1/2  |  
 | --- | --- | --- |  
-| [MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php)  | RB  | RB4  |  
-| [Chris Brooks](https://www.fantasypros.com/nfl/players/christopher-brooks.php)  | RB  | RB4  |  
-| [Kaleb Johnson](https://www.fantasypros.com/nfl/players/kaleb-johnson-rb.php)  | RB  | RB4  |  
+| [MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php)  | RB  | RB3  |  
+| [Chris Brooks](https://www.fantasypros.com/nfl/players/christopher-brooks.php)  | RB  | Out  |  
+| [Kaleb Johnson](https://www.fantasypros.com/nfl/players/kaleb-johnson-rb.php)  | RB  | RB3/4  |  
 | [Christian Watson](https://www.fantasypros.com/nfl/players/christian-watson.php)  | WR  | WR1  |  
 | [Matthew Golden](https://www.fantasypros.com/nfl/players/matthew-golden.php)  | WR  | WR1/2  |  
 | [Skyy Moore](https://www.fantasypros.com/nfl/players/skyy-moore.php)  | WR  | WR5  |  
@@ -154,7 +150,7 @@ _These are no-brainer MUST starts._
   * [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraft.php)
 
 
-_*[D’Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) was benched last week for fumbling. I don’t expect that to hinder his workload this week, but he didn’t practice on Wednesday to open the week (hip/knee). I’ll update his outlook further on Friday.* _
+_*[D’Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) was benched last week for fumbling. I don’t expect that to hinder his workload this week, especially with Kyle Monangai out.* _
 **Strong Starts**
 _Here are players that should be in starting consideration for most fantasy teams._
 **[Matthew Golden (WR)](https://www.fantasypros.com/nfl/players/matthew-golden.php)**
@@ -169,15 +165,14 @@ Well, this looked like what we thought we were getting in 2026 with [Colston Lov
 _Let’s fill out those flex spots._
 **[Tyson Bagent (QB)](https://www.fantasypros.com/nfl/players/tyson-bagent.php)**
 [Tyson Bagent](https://www.fantasypros.com/nfl/players/tyson-bagent.php) didn’t have a wondrous fantasy day in Week 4, but he was highly effective for the Bears. He passed for 268 yards with 7.9 yards per attempt and a 73.5% completion rate. He ran four times, but he only had one rushing yard. I’m not expecting him to add much with his legs this week. Last week, among 32 qualifying quarterbacks, Bagent was 11th in yards per attempt (sixth-lowest aDOT), fifth in passing success rate, sixth in catchable target rate, and 11th in EPA per dropback. Bagent could have another nice game this week, and if he gets the passing touchdowns along with it, he could flirt with QB1 fantasy production. Green Bay has allowed the 14th-highest passing success rate, the 12th-highest EPA per dropback, and has ranked 16th in CPOE.
+**[MarShawn Lloyd (RB)](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php)**
+With Chris Brooks out this week, MarShawn Lloyd becomes an interesting desperation flex play. Last week, he led the backfield with a 54.5% snap share and 46.7% route share (16.7% target share). Yes, he was second among the group with a 28% rushing share, but that could change this week. Lloyd’s 1.40 yards after contact per attempt isn’t great, but he has only seen 1.30 yards before contact per attempt behind Green Bay’s horrendous offensive line. Lloyd also has a solid 20% missed tackle rate, which is quite strong, and he posted 2.57 YPRR last week with that season-high 46.7% route share. Lloyd could surprise this week. The Bears’ run defense has been awful, allowing the eighth-highest explosive run rate, the highest rushing success rate, and the third-most yards before contact per attempt.
 **Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Jordan Love (QB)](https://www.fantasypros.com/nfl/players/jordan-love.php)**
 [Jordan Love](https://www.fantasypros.com/nfl/players/jordan-love.php) is the QB16 in fantasy points per game with two outings this season with at least 19 fantasy points. Love has been struggling all season as a passer behind a patchwork offensive line. Among 29 qualifying passers, Love has the 11th-fewest yards per attempt, the tenth-lowest passing success rate, the fourth-highest off-target rate, and the fifth-lowest catchable target rate. I don’t see this as a bounceback opportunity for Love, as Chicago’s pass defense has surprised so far this season, allowing the fifth-lowest passing success rate, the third-fewest passing touchdowns, and the third-lowest CPOE and EPA per dropback.
-**[Kyle Monangai (RB)](https://www.fantasypros.com/nfl/players/kyle-monangai.php) **
-[Kyle Monangai](https://www.fantasypros.com/nfl/players/kyle-monangai.php) injured his thumb last week. He opened this week with a DNP. I’ll update his outlook on Friday.
 **[Kalif Raymond (WR)](https://www.fantasypros.com/nfl/players/kalif-raymond.php)**
 Last week, [Kalif Raymond](https://www.fantasypros.com/nfl/players/kalif-raymond.php)‘s role shrank as his route share dipped to 44.4% and his snap share fell to 47.2%. The offense looked like what we thought we were getting in the summer with [Colston Loveland](https://www.fantasypros.com/nfl/players/colston-loveland.php), [Luther Burden](https://www.fantasypros.com/nfl/players/luther-burden-iii.php), and [Rome Odunze](https://www.fantasypros.com/nfl/players/rome-odunze.php) leading the way. With [Tyson Bagent](https://www.fantasypros.com/nfl/players/tyson-bagent.php) under center again this week, I can’t confidently say that Raymond’s role will bounce back, so I have to declare him a sit this week. If he bounces back and is an integral part of the passing attack this week, I won’t be surprised, but a sub-50 % snap share last week with a 5.9% target share has me spooked that he also could easily give you a zero in your fantasy lineup in Week 5.
-_*The Packers backfield remains a gross three-way committee rendering[MarShawn Lloyd](https://www.fantasypros.com/nfl/players/marshawn-lloyd.php), [Chris Brooks](https://www.fantasypros.com/nfl/players/christopher-brooks.php), and [Kaleb Johnson](https://www.fantasypros.com/nfl/players/kaleb-johnson-rb.php) all useless in fantasy. I wouldn’t feel any level of confidence plugging any of them into a fantasy lineup.*_
 [TB vs. DAL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#tb-dal) | [PHI vs. JAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#phi-jac) | [HOU vs. TEN](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#hou-ten) | [CIN vs. MIA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/#cin-mia) | [LV vs. NE](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#lv-ne) | [MIN vs. NO](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#min-no) | [CLE vs. NYJ](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#cle-nyj) | [IND vs. PIT](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/#ind-pit) | [NYG vs. WAS](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/) | [DEN vs. LAC](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#den-lac) | [CHI vs. GB](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#chi-gb) | [DET vs. ARI](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/#det-ari) | [SF vs. SEA](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/) | [BAL vs. ATL](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#bal-atl) | [BUF vs. LAR](https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/#buf-lar)
 [![](https://cdn.fantasypros.com/wp-content/uploads/leaguebase_decade_leagues_primer.jpg)](http://leaguebase.com/primer)  
 
@@ -244,7 +239,7 @@ Rate this article
 BoomBust
 [ ![](https://www.fantasypros.com/assets/images/google-icon-mono.svg) Add FantasyPros on Google ](https://www.google.com/preferences/source?q=fantasypros.com)
 ## More Articles
-[ ![Fantasy Football IDP Start/Sit Lineup Advice: Week 5 \(2026\) ](https://cdn.fantasypros.com/wp-content/images/Evan_Williams_Packers/265x117.jpg) Fantasy Football IDP Start/Sit Lineup Advice: Week 5 (2026)  ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/IMG_0970-1.jpg) by **Raju Byfield** | 4 min read ](https://www.fantasypros.com/2026/10/fantasy-football-idp-start-sit-lineup-advice-week-5-2026/) [ ![Fantasy Football Rankings, Tiers & Start/Sit Advice \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/chargers_omarion_hampton/265x117.jpg) Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 5) ![fp-headshot](https://cdn.fantasypros.com/wp-content/uploads/fitz_avatar.png) by **Pat Fitzmaurice** | 5 min read ](https://www.fantasypros.com/2026/10/fantasy-football-rankings-tiers-start-sit-advice-week-5-2026/) [ ![6 Fantasy Football Waiver Wire Pickups & Injury Replacements \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/keaton_mitchell_chargers_4-1/265x117.jpg) 6 Fantasy Football Waiver Wire Pickups & Injury Replacements (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/mike-fanelli-20220210.jpg) by **Mike Fanelli** | 4 min read ](https://www.fantasypros.com/2026/10/6-fantasy-football-waiver-wire-pickups-injury-replacements-week-5-2026/) [ ![10 Fantasy Football Stats You Need to Know \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/malik_washington_dolphins_7-1/265x117.jpg) 10 Fantasy Football Stats You Need to Know (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 4 min read ](https://www.fantasypros.com/2026/10/10-fantasy-football-stats-you-need-to-know-week-5-2026/)
+[ ![Fantasy Football Week 5 Player Grades & Start/Sit Advice \(2026\)](https://cdn.fantasypros.com/wp-content/images/nico_collins_texans-2/265x117.jpg) Fantasy Football Week 5 Player Grades & Start/Sit Advice (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 7 min read ](https://www.fantasypros.com/2026/10/fantasy-football-week-5-player-grades-start-sit-advice-2026/) [ ![5 Fantasy Football Waiver Wire Stashes: Week 5 \(2026\)](https://cdn.fantasypros.com/wp-content/images/MIKE_GESICKI_BENGALS_3-1/265x117.jpg) 5 Fantasy Football Waiver Wire Stashes: Week 5 (2026) ![fp-headshot](https://pbs.twimg.com/profile_images/1590203434426310661/sFkRSYrI.jpg) by **Frank Ammirante** | 2 min read ](https://www.fantasypros.com/2026/10/5-fantasy-football-waiver-wire-stashes-week-5-2026/) [ ![3 Burning Questions: Fantasy Football Lineup Advice \(Week 5\)](https://cdn.fantasypros.com/wp-content/images/jonathan_taylor_colts_10/265x117.jpg) 3 Burning Questions: Fantasy Football Lineup Advice (Week 5) ![fp-headshot](https://images.fantasypros.com/images/experts/josh-shepardson-20170426.jpg) by **Josh Shepardson** | 4 min read ](https://www.fantasypros.com/2026/10/3-burning-questions-fantasy-football-lineup-advice-week-5-2026/) [ ![NFL DFS Cash Game Picks & Lineup Advice: Week 5 \(2026\)](https://cdn.fantasypros.com/wp-content/images/trey_mcbride_cardinals_12-1/265x117.jpg) NFL DFS Cash Game Picks & Lineup Advice: Week 5 (2026) ![fp-headshot](https://pbs.twimg.com/profile_images/1590203434426310661/sFkRSYrI.jpg) by **Frank Ammirante** | 3 min read ](https://www.fantasypros.com/2026/10/nfl-dfs-cash-game-picks-lineup-advice-week-5-2026/)
 ## About Author
 ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/dbro_avatar.png)
 [Derek Brown ](https://www.fantasypros.com/news/correspondents/derek-brown.php)

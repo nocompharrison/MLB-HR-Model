@@ -1,10 +1,10 @@
-<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk5.html | fetched: 2026-10-09 21:31 ET -->
+<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk5.html | fetched: 2026-10-10 14:18 ET -->
 
 |   |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 [![Fantasy Football Today - fantasy football rankings, cheatsheets, and information](https://www.fftoday.com/creative/08_179_fftoday.gif)](https://www.fftoday.com/)![](https://www.fftoday.com/common/spacer_whi.gif)  
 A Fantasy Football Community!   
 ![](https://www.fftoday.com/common/spacer_whi.gif)  
-Friday, October 9, 2026  
+Saturday, October 10, 2026  
 ![](https://www.fftoday.com/common/spacer_whi.gif)  
  |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
  |  
@@ -641,8 +641,6 @@ Copyright © 1998-2026 FFToday.com. All rights reserved.
  |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 Privacy Manager  |  
 | --- | --- | --- |  
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=be429de0-4fbe-89d1-0bf9-6aefb3ece051&iiqpciddate=1791468122266&tsrnd=139_1791595877727&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fftoday.com&gdpr_consent=undefined&gpc=undefined&gdpr=0)
 ![Freestar](https://a.pub.network/core/imgs/fslogo-green.svg)
 [Freestar.com](https://ads.freestar.com/?utm_campaign=branding&utm_medium=stickyFooter&utm_source=fftoday.com&utm_content=fftoday_adhesion)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&halo_id=060ixdaju6a65979b9e9c9897999d9e9d66uokewi0e0y626g6m6i6462666k6m6k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65979b9e9c9897999d9e9d66uokewi0e0y626g6m6i6462666k6m6k&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)
 
