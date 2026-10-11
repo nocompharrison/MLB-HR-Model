@@ -1,4 +1,4 @@
-# NFL transcripts | week 5 | updated 2026-10-11 10:25 ET
+# NFL transcripts | week 5 | updated 2026-10-11 10:46 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 74 files this week:
 NFL/transcripts/week-05/-1vQl12GqXQ_PlayerProfiler_Week_5_Fantasy_Football_Rankings_Should_You_worry_about_Zay_Flowers.txt
@@ -80,10 +80,10 @@ NFL/transcripts/week-05/zud7KniqDXM_ActionNetwork_Bears_vs_Packers_Predictions_B
 NONE    channel Footballers: nothing new this week (or everything already saved)
 NONE    channel FootballersDFS: nothing new this week (or everything already saved)
 NONE    channel SwankTank: nothing new this week (or everything already saved)
-NOCAPS  RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (captions not posted yet - often appear a few hours after upload)
+NOCAPS  RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: still live - audio not final yet)
 UPCOMING RotoGrinders AllKWdcllWU Ravens vs. Falcons SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/11/26 7:30PM)
 UPCOMING RotoGrinders H807Z88FMcg Bills vs. Rams MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/12/26 7:30PM)
-NOCAPS  ShipItNation 3ryB9Kd5TNA NFL Week 5 - Sunday Shippers | Main Slate | DraftKings & Fan  (captions not posted yet - often appear a few hours after upload)
+NOCAPS  ShipItNation 3ryB9Kd5TNA NFL Week 5 - Sunday Shippers | Main Slate | DraftKings & Fan  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING ShipItNation 2oon8usDVk4 Ravens vs Falcons - SNF Sunday Sweatdown | NFL Week 5 | DFS   (not aired yet - scheduled for 10/11/26 6:00PM)
 UPCOMING ShipItNation YVbs_9U5Uhs NFL Week 5 - Contrarian Constructions | Main Slate | DraftKi  (not aired yet - scheduled for 10/11/26 11:30AM)
 NONE    channel SGPN: nothing new this week (or everything already saved)
@@ -92,8 +92,8 @@ UPCOMING ActionNetwork _2qcnw1iubI NFL Betting Picks LIVE: Best Bets, Player Pro
 UPCOMING DFSArmy KHElTGJqq5s NFL Week 5 | DFS Pre-Lock Show | DFS Army  (not aired yet - scheduled for 10/11/26 11:00AM)
 NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
 NONE    channel TheAudible: nothing new this week (or everything already saved)
-NOCAPS  PlayerProfiler eWBb7dcHtgw Week 5 Start/Sits with Chuck Bass and The Podfather  (captions not posted yet - often appear a few hours after upload)
-NOCAPS  Stokastic xMYcRUJOlho NFL DFS Live Before Lock | Week 5 NFL DFS Picks for DraftKin  (captions not posted yet - often appear a few hours after upload)
+NOCAPS  PlayerProfiler eWBb7dcHtgw Week 5 Start/Sits with Chuck Bass and The Podfather  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  Stokastic xMYcRUJOlho NFL DFS Live Before Lock | Week 5 NFL DFS Picks for DraftKin  (no captions; Groq: still live - audio not final yet)
 UPCOMING Stokastic X6tEr9QOGtE NFL DFS Showdown Live Before Lock | Ravens-Falcons SNF Week   (not aired yet - scheduled for 10/11/26 7:20PM)
 UPCOMING Stokastic EGrPTycwbfg Bills-Rams Showdown Strategy MNF Week 5 DFS Picks | NFL DFS   (not aired yet - scheduled for 10/12/26 10:00AM)
 UPCOMING Stokastic wrQFGRkOP1Y NFL DFS Showdown Live Before Lock | Bills-Rams MNF Week 5 DF  (not aired yet - scheduled for 10/12/26 7:15PM)
