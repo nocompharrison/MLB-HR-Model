@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 09:32 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 10:45 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Ja'Marr Chase](https://images.fantasypros.com/images/players/nfl/19788/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jamarr-chase.php)
+WR - CIN
+[» Rankings](https://www.fantasypros.com/nfl/players/jamarr-chase.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jamarr-chase.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jamarr-chase.php)
+[Ja’Marr Chase (concussion) to play Sunday](https://www.fantasypros.com/nfl/news/613212/jamarr-chase-concussion-to-play-sunday.php)  
+
+Sun, Oct 11th 10:35am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Ja’Marr Chase (concussion) is cleared to play for the Cincinnati Bengals against the Miami Dolphins Sunday. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2109290206595629551?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Chase was able to clear through concussion protocols ahead of the Week 5 contest, offering quarterback Joe Burrow both of his explosive pass-catching options along with Tee Higgins (groin/neck) against the Dolphins Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tee Higgins](https://images.fantasypros.com/images/players/nfl/19211/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tee-higgins.php)
+WR - CIN
+[» Rankings](https://www.fantasypros.com/nfl/players/tee-higgins.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tee-higgins.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tee-higgins.php)
+[Tee Higgins (groin/neck) will play Sunday](https://www.fantasypros.com/nfl/news/613211/tee-higgins-groinneck-will-play-sunday.php)  
+
+Sun, Oct 11th 10:33am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Tee Higgins (groin/neck) will play for the Cincinnati Bengals against the Miami Dolphins Sunday according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2109290206595629551?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Higgins is good to go after entering the weekend with a questionable designation, joining Ja’Marr Chase (concussion) back in the Cincinnati passing attack against the Dolphins Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Justin Jefferson](https://images.fantasypros.com/images/players/nfl/19236/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/justin-jefferson.php)
+WR - MIN
+[» Rankings](https://www.fantasypros.com/nfl/players/justin-jefferson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/justin-jefferson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/justin-jefferson.php)
+[Justin Jefferson (ankle) expected to play Sunday](https://www.fantasypros.com/nfl/news/613210/justin-jefferson-ankle-expected-to-play-sunday.php)  
+
+Sun, Oct 11th 10:30am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Justin Jefferson (ankle) is expected to play for the Minnesota Vikings against the New Orleans Saints Sunday according to Jeff Darlington. (Source: [Jeff Darlington on Twitter ](https://x.com/jeffdarlington/status/2109286397345399275?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Jefferson will test the injured ankle during pregame warmups, and barring any setbacks seems poised to reclaim his No. 1 role in the Minnesota Vikings passing attack against the Saints for head coach Kevin O’Connell Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Addison](https://images.fantasypros.com/images/players/nfl/23107/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jordan-addison.php)
+WR - MIN
+[» Rankings](https://www.fantasypros.com/nfl/players/jordan-addison.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jordan-addison.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jordan-addison.php)
+[Jordan Addison (hamstring) not expected to play Sunday](https://www.fantasypros.com/nfl/news/613209/jordan-addison-hamstring-not-expected-to-play-sunday.php)  
+
+Sun, Oct 11th 10:27am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jordan Addison (hamstring) is not expected to play for the Minnesota Vikings against the New Orleans Saints Sunday according to Jeff Darlington. (Source: [Jeff Darlington on Twitter ](https://x.com/jeffdarlington/status/2109286397345399275?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Addison struggled to progress throughout the week for head coach Kevin O’Connell, leaving the Minnesota passing attack without a primary pass-catching option against the Saints Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Zay Flowers](https://images.fantasypros.com/images/players/nfl/22916/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zay-flowers.php)
 WR - BAL
 [» Rankings](https://www.fantasypros.com/nfl/players/zay-flowers.php)  
@@ -147,7 +203,7 @@ The Bears activated LB Noah Sewell from the PUP list. (Source: [Kevin Fishbain o
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Irv Charles](https://images.fantasypros.com/images/players/nfl/24904/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/irvin-charles.php)
+[![Irvin Charles](https://images.fantasypros.com/images/players/nfl/24904/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/irvin-charles.php)
 WR - SEA
 [» Rankings](https://www.fantasypros.com/nfl/players/irvin-charles.php)  
 [» Stats](https://www.fantasypros.com/nfl/stats/irvin-charles.php)  
@@ -228,62 +284,6 @@ Sat, Oct 10th 10:06pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Tyler Higbee is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
 **_Fantasy Impact:_** Despite not practicing on Saturday, Higbee will be good to go in his usual role on Monday. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Davante Adams](https://images.fantasypros.com/images/players/nfl/12123/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/davante-adams.php)
-WR - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/davante-adams.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/davante-adams.php)  
-[» More News](https://www.fantasypros.com/nfl/news/davante-adams.php)
-[Davante Adams off injury report Monday ](https://www.fantasypros.com/nfl/news/613186/davante-adams-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:05pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Davante Adams is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Adams received a rest day in practice during the week. He'll remain a WR2 play for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nate Landman](https://images.fantasypros.com/images/players/nfl/24674/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nathan-landman.php)
-LB - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/nathan-landman.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/nathan-landman.php)  
-[» More News](https://www.fantasypros.com/nfl/news/nathan-landman.php)
-[Nate Landman (shoulder) off injury report Monday ](https://www.fantasypros.com/nfl/news/613185/nate-landman-shoulder-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:04pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nate Landman is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Landman practiced in full on Saturday. He'll be good to go in his usual role. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Quentin Lake](https://images.fantasypros.com/images/players/nfl/24302/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/quentin-lake.php)
-S - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/quentin-lake.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/quentin-lake.php)  
-[» More News](https://www.fantasypros.com/nfl/news/quentin-lake.php)
-[Quentin Lake (hip) listed questionable Monday ](https://www.fantasypros.com/nfl/news/613184/quentin-lake-hip-listed-questionable-monday.php)  
-
-Sat, Oct 10th 10:02pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Quentin Lake is listed as questionable for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Lake returned to a limited practice on Saturday after missing practice the previous two days. He'll need to be monitored closer to kickoff. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Colby Parkinson](https://images.fantasypros.com/images/players/nfl/19372/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/colby-parkinson.php)
-TE - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/colby-parkinson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/colby-parkinson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/colby-parkinson.php)
-[Colby Parkinson (knee/shoulder) off injury report Monday ](https://www.fantasypros.com/nfl/news/613183/colby-parkinson-kneeshoulder-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:01pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Colby Parkinson is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Parkinson practiced in full to end the week. He will remain in a rotation with other Rams tight ends. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
