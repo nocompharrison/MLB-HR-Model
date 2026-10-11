@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 10:45 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 11:41 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Will Shipley](https://images.fantasypros.com/images/players/nfl/22930/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/will-shipley.php)
+RB - PHI
+[» Rankings](https://www.fantasypros.com/nfl/players/will-shipley.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/will-shipley.php)  
+[» More News](https://www.fantasypros.com/nfl/news/will-shipley.php)
+[Will Shipley (foot) questionable to return ](https://www.fantasypros.com/nfl/news/613213/will-shipley-foot-questionable-to-return.php)  
+
+Sun, Oct 11th 11:04am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Eagles RB Will Shipley is questionable to return against the Jaguars with a foot injury. (Source: [Jeff McLane on Twitter ](https://x.com/jeff_mclane/status/2109297076677001634?s=46&t=KPk2IqttME18N66pbRno1w))
+**_Fantasy Impact:_** Shipley was injured on his last carry and went to the locker room for further evaluation. Dameon Pierce will handle the bulk of the carries with Shipley questionable to return. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Ja'Marr Chase](https://images.fantasypros.com/images/players/nfl/19788/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jamarr-chase.php)
 WR - CIN
 [» Rankings](https://www.fantasypros.com/nfl/players/jamarr-chase.php)  
@@ -270,20 +284,6 @@ Sat, Oct 10th 10:07pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Alaric Jackson is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
 **_Fantasy Impact:_** Despite not practicing on Saturday, Jackson will be good to go in his usual role on Monday. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tyler Higbee](https://images.fantasypros.com/images/players/nfl/15623/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-higbee.php)
-TE - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/tyler-higbee.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/tyler-higbee.php)  
-[» More News](https://www.fantasypros.com/nfl/news/tyler-higbee.php)
-[Tyler Higbee off injury report Monday ](https://www.fantasypros.com/nfl/news/613187/tyler-higbee-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:06pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Tyler Higbee is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Despite not practicing on Saturday, Higbee will be good to go in his usual role on Monday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
