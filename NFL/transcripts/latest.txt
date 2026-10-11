@@ -1,4 +1,4 @@
-# NFL transcripts | week 5 | updated 2026-10-11 10:46 ET
+# NFL transcripts | week 5 | updated 2026-10-11 11:41 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 74 files this week:
 NFL/transcripts/week-05/-1vQl12GqXQ_PlayerProfiler_Week_5_Fantasy_Football_Rankings_Should_You_worry_about_Zay_Flowers.txt
@@ -83,13 +83,13 @@ NONE    channel SwankTank: nothing new this week (or everything already saved)
 NOCAPS  RotoGrinders P6xRnzv-xvA LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: still live - audio not final yet)
 UPCOMING RotoGrinders AllKWdcllWU Ravens vs. Falcons SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/11/26 7:30PM)
 UPCOMING RotoGrinders H807Z88FMcg Bills vs. Rams MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/12/26 7:30PM)
+NOCAPS  ShipItNation YVbs_9U5Uhs NFL Week 5 - Contrarian Constructions | Main Slate | DraftKi  (no captions; Groq: still live - audio not final yet)
 NOCAPS  ShipItNation 3ryB9Kd5TNA NFL Week 5 - Sunday Shippers | Main Slate | DraftKings & Fan  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING ShipItNation 2oon8usDVk4 Ravens vs Falcons - SNF Sunday Sweatdown | NFL Week 5 | DFS   (not aired yet - scheduled for 10/11/26 6:00PM)
-UPCOMING ShipItNation YVbs_9U5Uhs NFL Week 5 - Contrarian Constructions | Main Slate | DraftKi  (not aired yet - scheduled for 10/11/26 11:30AM)
 NONE    channel SGPN: nothing new this week (or everything already saved)
 NONE    channel SGPNPropcast: nothing new this week (or everything already saved)
-UPCOMING ActionNetwork _2qcnw1iubI NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (not aired yet - scheduled for 10/11/26 11:00AM)
-UPCOMING DFSArmy KHElTGJqq5s NFL Week 5 | DFS Pre-Lock Show | DFS Army  (not aired yet - scheduled for 10/11/26 11:00AM)
+NOCAPS  ActionNetwork _2qcnw1iubI NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 1.5h ago))
+NOCAPS  DFSArmy KHElTGJqq5s NFL Week 5 | DFS Pre-Lock Show | DFS Army  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
 NONE    channel TheAudible: nothing new this week (or everything already saved)
 NOCAPS  PlayerProfiler eWBb7dcHtgw Week 5 Start/Sits with Chuck Bass and The Podfather  (no captions; Groq: live stream still processing - audio not final yet)
