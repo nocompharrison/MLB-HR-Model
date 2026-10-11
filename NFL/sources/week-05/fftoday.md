@@ -1,4 +1,4 @@
-<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk5.html | fetched: 2026-10-11 09:32 ET -->
+<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk5.html | fetched: 2026-10-11 10:15 ET -->
 
 |   |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 [![Fantasy Football Today - fantasy football rankings, cheatsheets, and information](https://www.fftoday.com/creative/08_179_fftoday.gif)](https://www.fftoday.com/)![](https://www.fftoday.com/common/spacer_whi.gif)  
@@ -26,7 +26,7 @@ Week 5
   
   
  |  By: Nick Caron | HC Green | John Fessel | Jon Woods  
- | Updated: 10/9/26  |  
+ | Updated: 10/11/26  |  
 | --- | --- |  
 |  |  
 | --- |  
@@ -102,7 +102,7 @@ When an offense has had as much success as Dallas' has this season, there's real
   
 Eagles @ Jaguars _- (Woods)_  
 **Line:** JAX -7.5  
-**Total:** 41.5  
+**Total:** 42.5  
   
 ![](https://www.fftoday.com/common/logo_phi_50.gif)
 JAC FPts Allowed vs. QBs: No.18  
@@ -169,7 +169,7 @@ Kenyon Sadiq presents an intriguing high-risk gamble for tight end streamers her
   
 Bengals @ Dolphins _- (Caron) _  
 **Line:** CIN -7.0  
-**Total:** 43.5  
+**Total:** 44.5  
   
 ![](https://www.fftoday.com/common/logo_cin_50.gif)
 MIA FPts Allowed vs. QBs: No.14  
@@ -204,7 +204,7 @@ Gordon is still trapped in a backfield committee with Jaylen Wright as logged on
   
 Raiders @ Patriots _- (Caron) _  
 **Line:** NE -3.5  
-**Total:** 44.5  
+**Total:** 45.5  
 **  
 ![](https://www.fftoday.com/common/logo_lv_50.gif)**
 NE FPts Allowed vs. QBs: No.24  
@@ -212,7 +212,7 @@ NE FPts Allowed vs. RBs: No.19
 NE FPts Allowed vs. WRs: No.13  
 NE FPts Allowed vs. TEs: No.32
 **No Brainers:** TE [Brock Bowers](https://www.fftoday.com/stats/players/18922/Brock_Bowers)
-**Favorites:** RB [Ashton Jeanty](https://www.fftoday.com/stats/players/19405/Ashton_Jeanty)
+**Favorites:** RB [Ashton Jeanty](https://www.fftoday.com/stats/players/19405/Ashton_Jeanty) (foot, ankle)
 Ashton Jeanty has handled a huge workload with 97 total touches through four weeks and while his rushing efficiency has hit a wall lately, Las Vegas has adjusted by turning him into a focal point through the air. Jeanty earned eight targets against Kansas City this past week, turning in six catches for 68 yards, allowing him to deliver fantasy production in a way that should give managers hope even in tough matchups.
 New England fields a solid secondary that ranks fifth in pass defense success rate, which will take away downfield shots, but it could force Kirk Cousins into quick checkdowns into the flats. Expect heavy screen volume and dump-offs especially if the Patriots start to get after Cousins early in the game and Jeanty should continue to see enough carries to make him a solid fantasy RB1. 
 **On the Fence:** QB [Kirk Cousins](https://www.fftoday.com/stats/players/12376/Kirk_Cousins)
@@ -277,8 +277,8 @@ The receiving work keeps him usable in PPR, but I'm treating him as an RB3/Flex 
 **Prediction:** Vikings 23, Saints 17 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk5.html#top)  
   
 Texans @ Titans _- (Woods)_  
-**Line:** HOU -7.5  
-**Total:** 38.5  
+**Line:** HOU -7.0  
+**Total:** 37.5  
   
 ![](https://www.fftoday.com/common/logo_hou_50.gif)
 TEN FPts Allowed vs. QBs: No.30  
@@ -350,7 +350,7 @@ The trio of Jacory Croskey-Merritt, Rachaad White, and Austin Ekeler might be a 
   
 Colts @ Steelers _- (Green)_  
 **Line:** PIT -3.0  
-**Total:** 44.5  
+**Total:** 42.5  
   
 ![](https://www.fftoday.com/common/logo_ind_50.gif)
 PIT FPts Allowed vs. QBs: No.26  
@@ -374,7 +374,8 @@ When the season began, it seemed logical that newcomer Michael Pittman Jr. (foot
   
 **On the Fence:** QB [Aaron Rodgers](https://www.fftoday.com/stats/players/2480/Aaron_Rodgers)  
   
-After two dismal games to open his 22nd season, the future Hall of Famer has turned back the clock, throwing for 591 yards, 6 TDs, and 3 INTs over the last two weeks combined. On paper, his matchup with the Colts is appealing. Only four teams have allowed more passing yards than Indy (276 per game), and they're the sixth-worst unit in terms of fantasy points surrendered to opposing quarterbacks. I'm far from sold on the Steelers' passing game, though, so while Rodgers carries borderline QB1 upside into Week 5, there's some downside as well.  
+After two dismal games to open his 22nd season, the future Hall of Famer has turned back the clock, throwing for 591 yards, 6 TDs, and 3 INTs over the last two weeks combined. On paper, his matchup with the Colts is appealing. Only four teams have allowed more passing yards than Indy (276 per game), and they're the sixth-worst unit in terms of fantasy points surrendered to opposing quarterbacks. I'm far from sold on the Steelers' passing game, though, so while Rodgers carries borderline QB1 upside into Week 5, there's some downside as well.
+_Update:__RB Rico Dowdle is not expected to play._  
   
 **Fades:** RB [Rico Dowdle](https://www.fftoday.com/stats/players/17262/Rico_Dowdle) (toe)  
   
@@ -384,7 +385,7 @@ Dowdle hasn't played since Week 2 due to a toe injury, but he has a good chance 
   
 Bears @ Packers _- (Green)_  
 **Line:** CHI -1.5  
-**Total:** 46.5  
+**Total:** 47.5  
   
 ![](https://www.fftoday.com/common/logo_chi_50.gif)
 GB FPts Allowed vs. QBs: No.23  
@@ -417,7 +418,7 @@ As mentioned, there were some encouraging trends from Green Bay's ground game la
 **Prediction:** Bears 30, Packers 24 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk5.html#top)  
   
 Broncos @ Chargers _- (Fessel)_  
-**Line:** DEN -3.0  
+**Line:** DEN -3.5  
 **Total:** 41.5  
   
 ![](https://www.fftoday.com/common/logo_den_50.gif)
@@ -450,7 +451,8 @@ DEN FPts Allowed vs. TEs: No.13
 Omarion Hampton lost touches to Keaton Mitchell last week as the Chargers scrambled to overcome a three-score deficit against Seattle. Hampton saw just 11 touches to Mitchell's 15, but a rushing touchdown salvaged his fantasy day (12.3 FPts).
 Hampton's season has been incredibly disappointing, but he's still producing as a low-end RB2 (10.7 FPts/G) and remains the Chargers' preferred red-zone back with three rushing touchdowns.
 Things could get even tougher this week with Los Angeles' offensive line badly banged up, but Denver has allowed the seventh-most FPts to opposing backs. Averaging 15.8 touches per game, Hampton still warrants flex consideration, if nothing more.
-**Fades:** QB [Justin Herbert](https://www.fftoday.com/stats/players/17102/Justin_Herbert), WR [Quentin Johnston](https://www.fftoday.com/stats/players/18561/Quentin_Johnston), TE [Oronde Gadsden](https://www.fftoday.com/stats/players/19367/Oronde_Gadsden)
+_Update:__WR Quentin Johnston has been rule Out. WR Ladd McConkey is not expected to play._
+**Fades:** QB [Justin Herbert](https://www.fftoday.com/stats/players/17102/Justin_Herbert), WR [Quentin Johnston](https://www.fftoday.com/stats/players/18561/Quentin_Johnston) (chest), TE [Oronde Gadsden](https://www.fftoday.com/stats/players/19367/Oronde_Gadsden)
 Justin Herbert and the entire Chargers offense seem lost beyond repair. That may not ultimately be true, but facing Denver's pass rush without OT Joe Alt and OG Rashawn Slater -- a strong possibility with both missing Thursday's practice -- could mean things get worse before they get better.
 With Ladd McConkey (foot) also missing practice, Herbert may need to lean heavily on Quentin Johnston. The good news is that Denver cornerbacks Patrick Surtain II and Riley could both miss the game with hamstring injuries.
 Still, without adequate protection, Herbert may struggle to establish a consistent connection with Johnston or anyone else. That's exactly what happened last week, when Johnston saw just two targets (1-44-0). Both are fades this weekend.
@@ -575,7 +577,7 @@ I'm not treating one decent box score as evidence that the job changed when the 
 **Prediction:** Falcons 24, Ravens 20 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk5.html#top)  
   
 Bills @ Rams _- (Fessel)_  
-**Line:** LAR -3.5  
+**Line:** LAR -3.0  
 **Total:** 54.5  
   
 ![](https://www.fftoday.com/common/logo_buf_50.gif)
@@ -641,8 +643,6 @@ Copyright © 1998-2026 FFToday.com. All rights reserved.
  |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 Privacy Manager  |  
 | --- | --- | --- |  
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=be429de0-4fbe-89d1-0bf9-6aefb3ece051&iiqpciddate=1791468122266&tsrnd=453_1791725491080&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fftoday.com&gdpr_consent=undefined&gpc=undefined&gdpr=0)
-![Freestar](https://a.pub.network/core/imgs/fslogo-green.svg)
 [Freestar.com](https://ads.freestar.com/?utm_campaign=branding&utm_medium=stickyFooter&utm_source=fftoday.com&utm_content=fftoday_adhesion)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&halo_id=060ixdaju6a65979b9e9c9897999d9e9d66uokewi0e0y626g6m6i6462666k6m6k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26auid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODEyNS1FN0xGRFcwUS1YWUQy&id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&halo_id=060ixdaju6a65979b9e9c9897999d9e9d66uokewi0e0y626g6m6i6462666k6m6k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65979b9e9c9897999d9e9d66uokewi0e0y626g6m6i6462666k6m6k&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)
 
