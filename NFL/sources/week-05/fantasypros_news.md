@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-10 14:18 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 09:32 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,186 +7,270 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
-[![Darius Slayton](https://images.fantasypros.com/images/players/nfl/18706/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/darius-slayton.php)
-WR - IND
-[» Rankings](https://www.fantasypros.com/nfl/players/darius-slayton.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/darius-slayton.php)  
-[» More News](https://www.fantasypros.com/nfl/news/darius-slayton.php)
-[Darius Slayton (knee) ruled out Sunday ](https://www.fantasypros.com/nfl/news/613174/darius-slayton-knee-ruled-out-sunday.php)  
+[![Zay Flowers](https://images.fantasypros.com/images/players/nfl/22916/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zay-flowers.php)
+WR - BAL
+[» Rankings](https://www.fantasypros.com/nfl/players/zay-flowers.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/zay-flowers.php)  
+[» More News](https://www.fantasypros.com/nfl/news/zay-flowers.php)
+[Zay Flowers (foot) expected to play on Sunday](https://www.fantasypros.com/nfl/news/613204/zay-flowers-foot-expected-to-play-on-sunday.php)  
 
-Sat, Oct 10th 11:57am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Darius Slayton has been ruled out for Sunday's game against the Steelers. (Source: [Indianapolis Colts on Twitter](https://x.com/Colts/status/2108948112220082239))
-**_Fantasy Impact:_** Slayton had been listed as questionable. His absence won't impact the Colts offense for fantasy managers. 
+Sun, Oct 11th 8:12am EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Zay Flowers (foot) is expected to play on Sunday against the Falcons and push through his foot injury. (Source: [Adam Schefter on X](https://x.com/AdamSchefter/status/2109239069079146540?s=20))
+**_Fantasy Impact:_** If Flowers suits up, he will provide backup QB Tyler Huntley with a more than capable target downfield in a Ravens passing attack that lacks much punch behind him. He will be needed to prevent the offense from being one-dimensional, especially with the Falcons offense picking up steam since the return of Michael Penix.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Marvin Harrison Jr.](https://images.fantasypros.com/images/players/nfl/23064/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php)
-WR - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/marvin-harrison-jr.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/marvin-harrison-jr.php)  
-[» More News](https://www.fantasypros.com/nfl/news/marvin-harrison-jr.php)
-[Marvin Harrison Jr: Cardinals finalizing trade](https://www.fantasypros.com/nfl/news/613173/marvin-harrison-jr-cardinals-finalizing-trade.php)  
+[![Jonathan Greenard](https://images.fantasypros.com/images/players/nfl/19276/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jonathan-greenard.php)
+DE - PHI
+[» Rankings](https://www.fantasypros.com/nfl/players/jonathan-greenard.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jonathan-greenard.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jonathan-greenard.php)
+[Jonathan Greenard (ankle) inactive for Week 5](https://www.fantasypros.com/nfl/news/613202/jonathan-greenard-ankle-inactive-week-5.php)  
 
-Sat, Oct 10th 11:53am EDT  
+Sun, Oct 11th 8:07am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jonathan Greenard (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars. (Source: [Philadelphia Eagles on Twitter ](https://x.com/eagles/status/2109252769005654495?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Greenard was unable to pass through pregame warmups enough to get the green light to suit up for head coach Nick Sirianni, leaving the Philadelphia defensive front shorthanded against the Jaguars Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alvin Kamara](https://images.fantasypros.com/images/players/nfl/16421/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/alvin-kamara.php)
+RB - NO
+[» Rankings](https://www.fantasypros.com/nfl/players/alvin-kamara.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/alvin-kamara.php)  
+[» More News](https://www.fantasypros.com/nfl/news/alvin-kamara.php)
+[Alvin Kamara (back) expected to play Sunday](https://www.fantasypros.com/nfl/news/613201/alvin-kamara-back-expected-to-play-sunday.php)  
+
+Sun, Oct 11th 8:06am EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Alvin Kamara (back) is expected to play on Sunday against the Vikings. (Source: [Ian Rapoport on X](https://x.com/RapSheet/status/2109238603364577484?s=20))
+**_Fantasy Impact:_** Kamara is listed as questionable, but after getting in some practice sessions to end the week, it sounds like he will be good to go against Minnesota. He doesn't have high upside anymore, but the volume is there for him, as well as touchdown upside, as he demonstrated last week when he scored twice.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Hollywood Brown](https://images.fantasypros.com/images/players/nfl/18226/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/marquise-brown.php)
+WR - PHI
+[» Rankings](https://www.fantasypros.com/nfl/players/marquise-brown.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/marquise-brown.php)  
+[» More News](https://www.fantasypros.com/nfl/news/marquise-brown.php)
+[Hollywood Brown (ankle) inactive for Week 5](https://www.fantasypros.com/nfl/news/613199/hollywood-brown-ankle-inactive-week-5.php)  
+
+Sun, Oct 11th 8:05am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Hollywood Brown (ankle) is inactive for Week 5 for the Philadelphia Eagles against the Jacksonville Jaguars. (Source: [Philadelphia Eagles on Twitter ](https://x.com/eagles/status/2109252769005654495?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Brown joins fellow wideout Devonta Smith and running back Saquon Barkley on the sidelines for head coach Nick Sirianni, leaving Makai Lemon and Dontayvion Wicks as the primary pass-catching options against the Jaguars Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ladd McConkey](https://images.fantasypros.com/images/players/nfl/26122/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php)
+WR - LAC
+[» Rankings](https://www.fantasypros.com/nfl/players/ladd-mcconkey.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/ladd-mcconkey.php)  
+[» More News](https://www.fantasypros.com/nfl/news/ladd-mcconkey.php)
+[Ladd McConkey (foot) not expected to play against Denver](https://www.fantasypros.com/nfl/news/613198/ladd-mcconkey-foot-not-expected-to-play-against-denver.php)  
+
+Sun, Oct 11th 8:04am EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Ladd McConkey (foot) is not expected to play on Sunday against Denver due to a foot injury. (Source: [Adam Schefter on X](https://x.com/AdamSchefter/status/2109238725607833603?s=20))
+**_Fantasy Impact:_** It's a tough blow to the Chargers' chances of winning if Ladd sits, as they are already down Quentin Johnston. Tre Harris is the next man up for LA, and he could see a decent amount of work and be a flex-worthy option, especially with Denver missing two of their top corners this week.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Terry McLaurin](https://images.fantasypros.com/images/players/nfl/18466/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)
+WR - WAS
+[» Rankings](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/terry-mclaurin.php)  
+[» More News](https://www.fantasypros.com/nfl/news/terry-mclaurin.php)
+[Terry McLaurin (hamstring) remains game-time decision Sunday ](https://www.fantasypros.com/nfl/news/613197/terry-mclaurin-hamstring-remains-game-time-decision-sunday.php)  
+
+Sat, Oct 10th 10:33pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals are finalizing a deal to trade WR Marvin Harrison Jr. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2108936212014923979))
-**_Fantasy Impact:_** The Cardinals informed Harrison this morning that he will be inactive for Sunday’s game against the Lions as the details of the trade are finalized. It remains unclear as of now where he will be traded. 
+Terry McLaurin remains a game-time decision for Sunday's game against the Giants. (Source: [John Keim on Twitter](https://x.com/john_keim/status/2109077847524454644))
+**_Fantasy Impact:_** Keim notes that at this point, there's a slight lean to McLaurin playing, but it’s "just slight." His status will need to be monitored 90 minutes before kickoff. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Shemar Turner](https://images.fantasypros.com/images/players/nfl/27163/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/shemar-turner.php)
+DT - CHI
+[» Rankings](https://www.fantasypros.com/nfl/players/shemar-turner.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/shemar-turner.php)  
+[» More News](https://www.fantasypros.com/nfl/news/shemar-turner.php)
+[Shemar Turner to remain on PUP list](https://www.fantasypros.com/nfl/news/613196/shemar-turner-to-remain-on-pup-list.php)  
+
+Sat, Oct 10th 10:20pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Shemar Turner will remain on the PUP list. (Source: [Kevin Fishbain on Twitter](https://x.com/kfishbain/status/2108988631360909328))
+**_Fantasy Impact:_** Turner will miss at least one more week. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyler Gordon](https://images.fantasypros.com/images/players/nfl/23765/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/kyler-gordon.php)
+CB - CHI
+[» Rankings](https://www.fantasypros.com/nfl/players/kyler-gordon.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/kyler-gordon.php)  
+[» More News](https://www.fantasypros.com/nfl/news/kyler-gordon.php)
+[Kyler Gordon (calf) to remain on PUP list](https://www.fantasypros.com/nfl/news/613195/kyler-gordon-calf-to-remain-on-pup-list.php)  
+
+Sat, Oct 10th 10:19pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kyler Gordon will remain on the PUP list. (Source: [Kevin Fishbain on Twitter](https://x.com/kfishbain/status/2108988631360909328))
+**_Fantasy Impact:_** Gordon had been listed as questionable. He'll miss at least one more week. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Zavier Scott](https://images.fantasypros.com/images/players/nfl/25748/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zavier-scott.php)
+RB - CHI
+[» Rankings](https://www.fantasypros.com/nfl/players/zavier-scott.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/zavier-scott.php)  
+[» More News](https://www.fantasypros.com/nfl/news/zavier-scott.php)
+[Zavier Scott elevated by Bears](https://www.fantasypros.com/nfl/news/613194/zavier-scott-elevated-by-bears.php)  
+
+Sat, Oct 10th 10:18pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Bears elevated RB Zavier Scott from their practice squad. (Source: [Kevin Fishbain on Twitter](https://x.com/kfishbain/status/2108988631360909328))
+**_Fantasy Impact:_** Scott will add depth in the backfield for Chicago in Sunday's game against the Packers. 
 Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Justin Jefferson](https://images.fantasypros.com/images/players/nfl/19236/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/justin-jefferson.php)
-WR - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/justin-jefferson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/justin-jefferson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/justin-jefferson.php)
-[Justin Jefferson (ankle) plans to play Sunday, to see how he feels Saturday](https://www.fantasypros.com/nfl/news/613149/justin-jefferson-ankle-plans-to-play-sunday-to-see-how-he-feels-saturday.php)  
+[![Noah Sewell](https://images.fantasypros.com/images/players/nfl/24710/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/noah-sewell.php)
+LB - CHI
+[» Rankings](https://www.fantasypros.com/nfl/players/noah-sewell.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/noah-sewell.php)  
+[» More News](https://www.fantasypros.com/nfl/news/noah-sewell.php)
+[Noah Sewell (Achilles) activated from PUP list](https://www.fantasypros.com/nfl/news/613193/noah-sewell-achilles-activated-from-pup-list.php)  
 
-Sat, Oct 10th 1:08am EDT  
+Sat, Oct 10th 10:17pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-ESPN’s Jeremy Fowler reports that Justin Jefferson plans to play in Week 5 against the Saints, but the team “has to see how he feels on Saturday.” (Source: [Jeremy Fowler on Twitter](https://x.com/JFowlerESPN/status/2108706192931328458))
-**_Fantasy Impact:_** We should know by the end of Saturday if Jefferson will be good to go on Sunday. He will be a WR1 play if he is good to go. 
+The Bears activated LB Noah Sewell from the PUP list. (Source: [Kevin Fishbain on Twitter](https://x.com/kfishbain/status/2108988631360909328))
+**_Fantasy Impact:_** Sewell will be good to make his season debut on Sunday against the Packers. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jayden Daniels](https://images.fantasypros.com/images/players/nfl/22902/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jayden-daniels.php)
-QB - WAS
-[» Rankings](https://www.fantasypros.com/nfl/players/jayden-daniels.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jayden-daniels.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jayden-daniels.php)
-[Jayden Daniels (elbow) still not '100 percent' healthy ](https://www.fantasypros.com/nfl/news/613148/jayden-daniels-elbow-still-not-100-percent-healthy.php)  
+[![Irv Charles](https://images.fantasypros.com/images/players/nfl/24904/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/irvin-charles.php)
+WR - SEA
+[» Rankings](https://www.fantasypros.com/nfl/players/irvin-charles.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/irvin-charles.php)  
+[» More News](https://www.fantasypros.com/nfl/news/irvin-charles.php)
+[Irv Charles (knee) ruled out Sunday ](https://www.fantasypros.com/nfl/news/613192/irv-charles-knee-ruled-out-sunday.php)  
 
-Sat, Oct 10th 1:06am EDT  
+Sat, Oct 10th 10:16pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-NFL Network’s Ian Rapoport reports that Jayden Daniels is not "100 percent” healthy yet. (Source: [Ian Rapoport on Twitter](https://x.com/RapSheet/status/2108704677974127086))
-**_Fantasy Impact:_** Daniels is still slated to play on Sunday against the Giants, but re-injury risk is a bit of a concern. 
+Irv Charles has been ruled out for Sunday's game against the 49ers. (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2109015997290340369))
+**_Fantasy Impact:_** Charles returned to practice this week. He won't be ready to return on Sunday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Tyler Guyton](https://images.fantasypros.com/images/players/nfl/26123/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-guyton.php)
-OT - DAL
-[» Rankings](https://www.fantasypros.com/nfl/players/tyler-guyton.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/tyler-guyton.php)  
-[» More News](https://www.fantasypros.com/nfl/news/tyler-guyton.php)
-[Tyler Guyton (back) not dealing with serious injury](https://www.fantasypros.com/nfl/news/613147/tyler-guyton-back-not-dealing-with-serious-injury.php)  
+[![Julian Neal](https://images.fantasypros.com/images/players/nfl/28188/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/julian-neal.php)
+CB - SEA
+[» Rankings](https://www.fantasypros.com/nfl/players/julian-neal.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/julian-neal.php)  
+[» More News](https://www.fantasypros.com/nfl/news/julian-neal.php)
+[Julian Neal (hamstring) placed on IR](https://www.fantasypros.com/nfl/news/613191/julian-neal-hamstring-placed-on-ir.php)  
 
-Sat, Oct 10th 1:05am EDT  
+Sat, Oct 10th 10:15pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Cowboys coach Brian Schottenheimer said LT Tyler Guyton’s back injury is not considered serious. (Source: [NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-to-lt-tyler-guyton-wr-ceedee-lamb-are-not-serious))
-**_Fantasy Impact:_** Guyton left Thursday's game late. He is day-to-day heading into next week. 
+The Seahawks placed CB Julian Neal on injured reserve. (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2109015997290340369))
+**_Fantasy Impact:_** Neal hurt his hamstring Wednesday. He will miss at least the next four weeks. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Nick Bosa](https://images.fantasypros.com/images/players/nfl/18199/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nick-bosa.php)
-DE - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/nick-bosa.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/nick-bosa.php)  
-[» More News](https://www.fantasypros.com/nfl/news/nick-bosa.php)
-[Nick Bosa (knee/calf) to likely return in Week 6](https://www.fantasypros.com/nfl/news/613146/nick-bosa-kneecalf-to-likely-return-week-6.php)  
+[![Trevon Diggs](https://images.fantasypros.com/images/players/nfl/18287/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trevon-diggs.php)
+CB - SEA
+[» Rankings](https://www.fantasypros.com/nfl/players/trevon-diggs.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/trevon-diggs.php)  
+[» More News](https://www.fantasypros.com/nfl/news/trevon-diggs.php)
+[Trevon Diggs elevated by Seahawks ](https://www.fantasypros.com/nfl/news/613190/trevon-diggs-elevated-by-seahawks.php)  
 
-Sat, Oct 10th 1:03am EDT  
+Sat, Oct 10th 10:13pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nick Bosa told reporters it is “pretty darn likely” he plays in Week 6 against the Commanders. (Source: [NBC Sports Bay Area](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/nick-bosa-injury-return-commanders/1970068/))
-**_Fantasy Impact:_** Bosa will miss his third straight game on Sunday. He should be back next week. 
+The Seahawks elevated CB Trevon Diggs from their practice squad. (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2109015997290340369))
+**_Fantasy Impact:_** Diggs will add another corner option for Sunday's game against the 49ers. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Byron Young](https://images.fantasypros.com/images/players/nfl/25449/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/byron-young-edge.php)
+DE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/byron-young-edge.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/byron-young-edge.php)  
+[» More News](https://www.fantasypros.com/nfl/news/byron-young-edge.php)
+[Byron Young off injury report Monday ](https://www.fantasypros.com/nfl/news/613189/byron-young-off-injury-report-monday.php)  
+
+Sat, Oct 10th 10:08pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Byron Young is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Despite not practicing on Saturday, Young will be good to go in his usual role on Monday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Zach Charbonnet](https://images.fantasypros.com/images/players/nfl/23152/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zach-charbonnet.php)
-RB - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/zach-charbonnet.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/zach-charbonnet.php)  
-[» More News](https://www.fantasypros.com/nfl/news/zach-charbonnet.php)
-[Zach Charbonnet (knee) uncertain for Week 6](https://www.fantasypros.com/nfl/news/613145/zach-charbonnet-knee-uncertain-week-6.php)  
+[![Alaric Jackson](https://images.fantasypros.com/images/players/nfl/19284/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/alaric-jackson.php)
+OL - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/alaric-jackson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/alaric-jackson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/alaric-jackson.php)
+[Alaric Jackson off injury report Monday ](https://www.fantasypros.com/nfl/news/613188/alaric-jackson-off-injury-report-monday.php)  
 
-Sat, Oct 10th 12:59am EDT  
+Sat, Oct 10th 10:07pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Seahawks coach Mike Macdonald said Seattle’s Week 6 Thursday Night Football game against the Broncos makes Zach Charbonnet’s ramp-up “tricky.” (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2108698511164481864))
-**_Fantasy Impact:_** Charbonnet has been limited since returning to practice, but a short week in Week 6 makes a return then tricky. It sounds like Week 7 against the Chiefs is more likely when he returns. 
+Alaric Jackson is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Despite not practicing on Saturday, Jackson will be good to go in his usual role on Monday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Lamar Jackson](https://images.fantasypros.com/images/players/nfl/17233/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/lamar-jackson.php)
-QB - BAL
-[» Rankings](https://www.fantasypros.com/nfl/players/lamar-jackson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/lamar-jackson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/lamar-jackson.php)
-[Lamar Jackson (ankle) uncertain for Week 6](https://www.fantasypros.com/nfl/news/613144/lamar-jackson-ankle-uncertain-week-6.php)  
+[![Tyler Higbee](https://images.fantasypros.com/images/players/nfl/15623/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-higbee.php)
+TE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/tyler-higbee.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tyler-higbee.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tyler-higbee.php)
+[Tyler Higbee off injury report Monday ](https://www.fantasypros.com/nfl/news/613187/tyler-higbee-off-injury-report-monday.php)  
 
-Sat, Oct 10th 12:57am EDT  
+Sat, Oct 10th 10:06pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Ravens reportedly “do not know” whether Lamar Jackson will play in Week 6 against the Browns. (Source: [Ian Rapoport on Twitter](https://x.com/RapSheet/status/2108701919577260242))
-**_Fantasy Impact:_** Jackson remains week-to-week after he was ruled out for this Sunday. Tyler Huntley could be seeing more than one start. 
+Tyler Higbee is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Despite not practicing on Saturday, Higbee will be good to go in his usual role on Monday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[TB](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php)
-DST - TB
-[» Rankings](https://www.fantasypros.com/nfl/players/tampa-bay-defense.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/tampa-bay-defense.php)  
-[» More News](https://www.fantasypros.com/nfl/news/tampa-bay-defense.php)
-[Tampa Bay Buccaneers D/ST contain Cowboys in win](https://www.fantasypros.com/nfl/news/613143/tampa-bay-buccaneers-dst-contain-cowboys-win.php)  
+[![Davante Adams](https://images.fantasypros.com/images/players/nfl/12123/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/davante-adams.php)
+WR - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/davante-adams.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/davante-adams.php)  
+[» More News](https://www.fantasypros.com/nfl/news/davante-adams.php)
+[Davante Adams off injury report Monday ](https://www.fantasypros.com/nfl/news/613186/davante-adams-off-injury-report-monday.php)  
 
-Fri, Oct 9th 10:11pm EDT  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-The Tampa Bay Buccaneers D/ST racked up two interceptions and a fumble recovery in the Buccaneers' 24-16 win over the Cowboys on Thursday.
-**_Fantasy Impact:_** The Bucs' defense was pliable on the Cowboys' first drive of the game, but stiffened significantly after that. They did give up a touchdown in the fourth quarter, but managed to make a crucial interception when Dallas was attempting to force overtime. It was a much better showing than we previously had seen from Tampa's defense, but don't call it a comeback just yet.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+Sat, Oct 10th 10:05pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Davante Adams is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Adams received a rest day in practice during the week. He'll remain a WR2 play for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Chase McLaughlin](https://images.fantasypros.com/images/players/nfl/19058/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/chase-mclaughlin.php)
-K - TB
-[» Rankings](https://www.fantasypros.com/nfl/players/chase-mclaughlin.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/chase-mclaughlin.php)  
-[» More News](https://www.fantasypros.com/nfl/news/chase-mclaughlin.php)
-[Chase McLaughlin has solid night in win](https://www.fantasypros.com/nfl/news/613142/chase-mclaughlin-has-solid-night-win.php)  
+[![Nate Landman](https://images.fantasypros.com/images/players/nfl/24674/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nathan-landman.php)
+LB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/nathan-landman.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/nathan-landman.php)  
+[» More News](https://www.fantasypros.com/nfl/news/nathan-landman.php)
+[Nate Landman (shoulder) off injury report Monday ](https://www.fantasypros.com/nfl/news/613185/nate-landman-shoulder-off-injury-report-monday.php)  
 
-Fri, Oct 9th 10:05pm EDT  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Chase McLaughlin hit all three of his PATs and his lone field goal attempt in the Bucs' 24-16 win over the Cowboys on Thursday.
-**_Fantasy Impact:_** McLaughlin bounced back from a down week against the Packers, but the offense was also able to move the ball much more effectively against the hapless Dallas defense, giving McLaughlin more chances than he had previously. He's been perfect on the season so far, going 10-for-10 on Field Goals and 10-for-10 on PATs. He should continue to be a solid kicker for those in need.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+Sat, Oct 10th 10:04pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Nate Landman is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Landman practiced in full on Saturday. He'll be good to go in his usual role. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[DAL](https://www.fantasypros.com/nfl/players/dallas-defense.php)
-DST - DAL
-[» Rankings](https://www.fantasypros.com/nfl/players/dallas-defense.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/dallas-defense.php)  
-[» More News](https://www.fantasypros.com/nfl/news/dallas-defense.php)
-[Dallas Cowboys D/ST run over Thursday night](https://www.fantasypros.com/nfl/news/613141/dallas-cowboys-dst-run-over-thursday-night.php)  
+[![Quentin Lake](https://images.fantasypros.com/images/players/nfl/24302/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/quentin-lake.php)
+S - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/quentin-lake.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/quentin-lake.php)  
+[» More News](https://www.fantasypros.com/nfl/news/quentin-lake.php)
+[Quentin Lake (hip) listed questionable Monday ](https://www.fantasypros.com/nfl/news/613184/quentin-lake-hip-listed-questionable-monday.php)  
 
-Fri, Oct 9th 10:00pm EDT  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-The Dallas Cowboys D/ST managed a single sack on Thursday in the team's 24-16 loss to Tampa Bay. No other meaningful stats were recorded.
-**_Fantasy Impact:_** This is the state of the Dallas defense, allowing a rookie QB in his second start to lead multiple scoring drives and go up by as many as 14 points, while also getting just one sack and no turnovers. It's been a bad showing by the Dallas defense that began the year showing promise of improvement thanks to offseason additions and draft picks. But it appears another long road is ahead for the team this season, which will have to be carried by its offense.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Brandon Aubrey](https://images.fantasypros.com/images/players/nfl/26068/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brandon-aubrey.php)
-K - DAL
-[» Rankings](https://www.fantasypros.com/nfl/players/brandon-aubrey.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brandon-aubrey.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brandon-aubrey.php)
-[Brandon Aubrey kick for four points in loss](https://www.fantasypros.com/nfl/news/613140/brandon-aubrey-kick-four-points-loss.php)  
-
-Fri, Oct 9th 9:58pm EDT  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Brandon Aubrey hit his only PAT and field goal attempts in the Cowboys' 24-16 loss to the Bucs on Thursday.
-**_Fantasy Impact:_** Aubrey was hindered by a Dallas offense that sputtered badly after their first drive, failing to do much more in the first half before a field goal. After that, the team was in catch-up mode, and Aubrey didn't see the field again. Better days will come for the star kicker.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jake Ferguson](https://images.fantasypros.com/images/players/nfl/22718/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jake-ferguson.php)
-TE - DAL
-[» Rankings](https://www.fantasypros.com/nfl/players/jake-ferguson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jake-ferguson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jake-ferguson.php)
-[Jake Ferguson has critical drop in loss to Bucs](https://www.fantasypros.com/nfl/news/613139/jake-ferguson-has-critical-drop-loss-to-bucs.php)  
-
-Fri, Oct 9th 9:54pm EDT  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Jake Ferguson caught three of six targets for 19 yards in the Cowboys' 24-16 loss to Tampa Bay on Thursday.
-**_Fantasy Impact:_** Ferguson had a critical drop on the Cowboys' final drive as they were trying to tie the game, failing to catch a pass and instead bobbling it straight up and into the arms of LB Alex Anzalone. It was a tough night for the veteran, but better days will come.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+Sat, Oct 10th 10:02pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Quentin Lake is listed as questionable for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Lake returned to a limited practice on Saturday after missing practice the previous two days. He'll need to be monitored closer to kickoff. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
 [![Colby Parkinson](https://images.fantasypros.com/images/players/nfl/19372/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/colby-parkinson.php)
@@ -194,96 +278,12 @@ TE - LAR
 [» Rankings](https://www.fantasypros.com/nfl/players/colby-parkinson.php)  
 [» Stats](https://www.fantasypros.com/nfl/stats/colby-parkinson.php)  
 [» More News](https://www.fantasypros.com/nfl/news/colby-parkinson.php)
-[Colby Parkinson (knee/shoulder) logs full practice Friday ](https://www.fantasypros.com/nfl/news/613138/colby-parkinson-kneeshoulder-logs-full-practice-friday.php)  
+[Colby Parkinson (knee/shoulder) off injury report Monday ](https://www.fantasypros.com/nfl/news/613183/colby-parkinson-kneeshoulder-off-injury-report-monday.php)  
 
-Fri, Oct 9th 7:38pm EDT  
+Sat, Oct 10th 10:01pm EDT  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Colby Parkinson was a full participant in practice on Friday. 
-**_Fantasy Impact:_** Parkinson is on track to be good to go. He is off the fantasy radar in his current role. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Aaron Donald](https://images.fantasypros.com/images/players/nfl/12205/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/aaron-donald.php)
-DT - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/aaron-donald.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/aaron-donald.php)  
-[» More News](https://www.fantasypros.com/nfl/news/aaron-donald.php)
-[Aaron Donald (back) logs full practice Friday ](https://www.fantasypros.com/nfl/news/613137/aaron-donald-back-logs-full-practice-friday.php)  
-
-Fri, Oct 9th 7:36pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Aaron Donald was a full participant in practice on Friday. 
-**_Fantasy Impact:_** Donald is well on track to return on Monday against the Bills. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Joshua Palmer](https://images.fantasypros.com/images/players/nfl/22845/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/josh-palmer.php)
-WR - BUF
-[» Rankings](https://www.fantasypros.com/nfl/players/josh-palmer.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/josh-palmer.php)  
-[» More News](https://www.fantasypros.com/nfl/news/josh-palmer.php)
-[Joshua Palmer (shoulder) added to injury report ](https://www.fantasypros.com/nfl/news/613136/joshua-palmer-shoulder-added-to-injury-report.php)  
-
-Fri, Oct 9th 7:36pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Joshua Palmer was added to the injury report with a shoulder issue on Friday. 
-**_Fantasy Impact:_** Palmer is a late addition to the injury report. He remains off the fantasy radar. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![DJ Moore](https://images.fantasypros.com/images/players/nfl/17265/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dj-moore-wr.php)
-WR - BUF
-[» Rankings](https://www.fantasypros.com/nfl/players/dj-moore-wr.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/dj-moore-wr.php)  
-[» More News](https://www.fantasypros.com/nfl/news/dj-moore-wr.php)
-[DJ Moore (shoulder) misses practice Friday ](https://www.fantasypros.com/nfl/news/613135/dj-moore-shoulder-misses-practice-friday.php)  
-
-Fri, Oct 9th 7:35pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-DJ Moore did not practice on Friday. 
-**_Fantasy Impact:_** Moore will likely have to practice in some capacity on Saturday to have a chance to play on Monday. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kaelon Black](https://images.fantasypros.com/images/players/nfl/28401/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/kaelon-black.php)
-RB - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/kaelon-black.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/kaelon-black.php)  
-[» More News](https://www.fantasypros.com/nfl/news/kaelon-black.php)
-[Kaelon Black (illness) off injury report Sunday ](https://www.fantasypros.com/nfl/news/613134/kaelon-black-illness-off-injury-report-sunday.php)  
-
-Fri, Oct 9th 7:34pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kaelon Black is off the injury report for Sunday's game against the Seahawks. 
-**_Fantasy Impact:_** Black will remain a change-of-pace role alongside Christian McCaffrey. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Isaiah Likely](https://images.fantasypros.com/images/players/nfl/23781/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/isaiah-likely.php)
-TE - NYG
-[» Rankings](https://www.fantasypros.com/nfl/players/isaiah-likely.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/isaiah-likely.php)  
-[» More News](https://www.fantasypros.com/nfl/news/isaiah-likely.php)
-[Isaiah Likely (knee/groin) off injury report Sunday ](https://www.fantasypros.com/nfl/news/613133/isaiah-likely-kneegroin-off-injury-report-sunday.php)  
-
-Fri, Oct 9th 7:33pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Isaiah Likely is off the injury report for Sunday's game against the Commanders. 
-**_Fantasy Impact:_** Likely hauled in seven passes last week. He remains a borderline TE1/TE2 play for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jeremiyah Love](https://images.fantasypros.com/images/players/nfl/25403/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jeremiyah-love.php)
-RB - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/jeremiyah-love.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jeremiyah-love.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jeremiyah-love.php)
-[Jeremiyah Love (ankle) off injury report Sunday ](https://www.fantasypros.com/nfl/news/613132/jeremiyah-love-ankle-off-injury-report-sunday.php)  
-
-Fri, Oct 9th 5:55pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jeremiyah Love is off the injury report for Sunday's game against the Lions. 
-**_Fantasy Impact:_** Love is officially good to go as expected. He will be an RB2 play for fantasy managers. 
+Colby Parkinson is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
+**_Fantasy Impact:_** Parkinson practiced in full to end the week. He will remain in a rotation with other Rams tight ends. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
