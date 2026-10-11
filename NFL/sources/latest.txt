@@ -1,13 +1,13 @@
-# NFL sources | season 2026 | week 5 | updated 2026-10-11 11:41 ET
+# NFL sources | season 2026 | week 5 | updated 2026-10-11 11:46 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-05/primer_p1.md                     UPDATED (changed since 2026-10-11 10:45) 58,177 chars https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/
+OK      NFL/sources/week-05/primer_p1.md                     UPDATED (changed since 2026-10-11 11:41) 59,177 chars https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/
 OK      NFL/sources/week-05/primer_p2.md                     no changes since 2026-10-11 10:45  https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-05/primer_p3.md                     UPDATED (changed since 2026-10-11 10:15) 51,158 chars https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-05/primer_p3.md                     no changes since 2026-10-11 11:41  https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/3/
 OK      NFL/sources/week-05/primer_p4.md                     no changes since 2026-10-11 10:45  https://www.fantasypros.com/2026/10/the-primer-week-5-edition-2026-fantasy-football/4/
 OK      NFL/sources/week-05/fantasypoints_startsit.md        no changes since 2026-10-10 14:18  https://www.fantasypoints.com/nfl/articles/2026/week-5-fantasy-football-start-em-sit-em-advice
-OK      NFL/sources/week-05/rotoballer_startsit.md           UPDATED (changed since 2026-10-11 10:45) 146,901 chars https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-5-2026
-OK      NFL/sources/week-05/fftoday.md                       UPDATED (changed since 2026-10-11 10:45) 78,625 chars https://www.fftoday.com/articles/ff/26-ff-wk5.html
-OK      NFL/sources/week-05/4for4_startsit.md                UPDATED (changed since 2026-10-11 10:45) 66,907 chars https://www.4for4.com/2026/w5/fantasy-football-week-5-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-05/fantasypros_news.md              UPDATED (changed since 2026-10-11 10:45) 28,791 chars https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-05/4for4_oline.md                   UPDATED (changed since 2026-10-11 10:45) 32,939 chars https://www.4for4.com/2026/w5/nfl-offensive-line-rankings-week-5-matchups-exploit
+OK      NFL/sources/week-05/rotoballer_startsit.md           UPDATED (changed since 2026-10-11 11:41) 146,875 chars https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-5-2026
+OK      NFL/sources/week-05/fftoday.md                       UPDATED (changed since 2026-10-11 11:41) 79,595 chars https://www.fftoday.com/articles/ff/26-ff-wk5.html
+OK      NFL/sources/week-05/4for4_startsit.md                UPDATED (changed since 2026-10-11 11:41) 67,876 chars https://www.4for4.com/2026/w5/fantasy-football-week-5-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-05/fantasypros_news.md              UPDATED (changed since 2026-10-11 11:41) 28,898 chars https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-05/4for4_oline.md                   UPDATED (changed since 2026-10-11 11:41) 32,944 chars https://www.4for4.com/2026/w5/nfl-offensive-line-rankings-week-5-matchups-exploit

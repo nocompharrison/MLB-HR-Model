@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-5-2026 | fetched: 2026-10-11 11:41 ET -->
+<!-- source: https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-5-2026 | fetched: 2026-10-11 11:46 ET -->
 
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
@@ -873,7 +873,7 @@ Tyler Higbee has some sneaky TE1 value this week if [Colby Parkinson](https://ww
   
 Like what you see? Download our updated fantasy football app for [iPhone](https://apps.apple.com/us/app/fantasy-football-by-rotoballer/id915394322) and [Android](https://play.google.com/store/apps/details?id=com.rotoballer.football&hl=en_US&gl=US) with 24x7 player news, injury alerts, rankings, starts/sits & more. All free!   
   
-[![](data:image/svg+xml,<svg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%200%200"></svg>)](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
+[![](https://cdn.rotoballer.com/2022/03/RotoBaller-fantasy-sports-app-news-alerts-mobile-iphone-android-large.jpeg)](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
   
 [![](https://www.rotoballer.com/wp-content/uploads/2024/09/NFL-team-sync-2024-in-season.png)](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel)   
   
@@ -886,13 +886,15 @@ Like what you see? Download our updated fantasy football app for [iPhone](https:
   * [NHL](https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-5-2026)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Terry McLaurin12 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Justin Jefferson5 min ago   
+Active Against Saints](https://www.rotoballer.com/player-news/justin-jefferson-active-against-saints/1963695)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Terry McLaurin18 min ago   
 Will be Active But Could Be Limited](https://www.rotoballer.com/player-news/terry-mclaurin-expected-to-play-against-giants-could-be-limited/1963691)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels32 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels38 min ago   
 Facing Elevated Elbow Reinjury Risk](https://www.rotoballer.com/player-news/jayden-daniels-facing-elevated-elbow-reinjury-risk/1963685)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Tee Higgins47 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Tee Higgins53 min ago   
 Will Play Against the Dolphins on Sunday](https://www.rotoballer.com/player-news/tee-higgins-will-play-against-the-dolphins-on-sunday/1963665)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase52 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase57 min ago   
 Active for Week 5 Against Miami](https://www.rotoballer.com/player-news/jamarr-chase-active-for-week-5-against-miami/1963663)
 [![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) José Ramírez1 h ago   
 Jose Ramirez Hits Decisive Homer To Lift Guardians](https://www.rotoballer.com/player-news/jose-ramirez-hits-decisive-homer-to-lift-guardians/1963648)
@@ -998,8 +1000,6 @@ has Bone Spur Removed From his Elbow](https://www.rotoballer.com/player-news/cor
 Dodgers to Start Tarik Skubal in Game 1 of NLCS Against Brewers](https://www.rotoballer.com/player-news/dodgers-to-start-tarik-skubal-in-game-1-of-nlcs-against-brewers/1962425)
 [![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Mason1 d ago   
 Expected to Return in Week 7](https://www.rotoballer.com/player-news/jordan-mason-expected-to-return-in-week-7/1962399)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Terry McLaurin1 d ago   
-Officially Questionable for Week 5](https://www.rotoballer.com/player-news/terry-mclaurin-officially-questionable-for-week-5/1962362)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) William Eklund1 d ago   
 to Be Out for "Extended" Period of Time](https://www.rotoballer.com/player-news/william-eklund-to-be-out-for-extended-period-of-time/1962330)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Alex Turcotte1 d ago   
@@ -1072,7 +1072,7 @@ Undergoes Left-Shoulder Surgery](https://www.rotoballer.com/player-news/cal-rale
 Strikes Out 11 in Game 2 Loss](https://www.rotoballer.com/player-news/gavin-williams-strikes-out-11-in-game-2-loss/1959060)
 [Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
 [View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-RotoBaller-small.png)](https://www.rotoballer.com/genius)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Novig-RotoBaller-small.png)](https://www.rotoballer.com/no)
 ####  [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) HALF-PPR STD PPR
 QB
 RB

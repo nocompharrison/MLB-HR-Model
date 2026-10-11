@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 11:41 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-11 11:46 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,90 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Rhamondre Stevenson](https://images.fantasypros.com/images/players/nfl/22726/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php)
+RB - NE
+[» Rankings](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/rhamondre-stevenson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/rhamondre-stevenson.php)
+[Rhamondre Stevenson (knee) officially active for Week 5 ](https://www.fantasypros.com/nfl/news/613219/rhamondre-stevenson-knee-officially-active-week-5.php)  
+
+Sun, Oct 11th 11:40am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Patriots RB Rhamondre Stevenson (knee) is officially active for a Week 5 matchup with the Raiders.
+**_Fantasy Impact:_** Stevenson was rolled up on late in the Patriots' win last week, but appears to be good to go against Las Vegas in Week 5. Fantasy managers should expect the Patriots to continue to operate a split backfield with Stevenson and TreVeyon Henderson.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ashton Jeanty](https://images.fantasypros.com/images/players/nfl/25989/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/ashton-jeanty.php)
+RB - LV
+[» Rankings](https://www.fantasypros.com/nfl/players/ashton-jeanty.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/ashton-jeanty.php)  
+[» More News](https://www.fantasypros.com/nfl/news/ashton-jeanty.php)
+[Ashton Jeanty (foot/ankle) active for Week 5](https://www.fantasypros.com/nfl/news/613218/ashton-jeanty-footankle-active-week-5.php)  
+
+Sun, Oct 11th 11:38am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Ashton Jeanty (foot/ankle) is active for Week 5 for the Las Vegas Raiders against the New England Patriots according to Ian Rapoport. (Source: [Ian Rapoport on Twitter](https://x.com/rapsheet/status/2109306597423894822?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Jeanty is good to go after testing his injured foot and ankle during pregame warmups, offering head coach Klint Kubiak is dynamic backfield option against the Patriots Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Terry McLaurin](https://images.fantasypros.com/images/players/nfl/18466/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)
+WR - WAS
+[» Rankings](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/terry-mclaurin.php)  
+[» More News](https://www.fantasypros.com/nfl/news/terry-mclaurin.php)
+[Terry McLaurin (hamstring) officially active for Week 5 ](https://www.fantasypros.com/nfl/news/613217/terry-mclaurin-hamstring-officially-active-week-5.php)  
+
+Sun, Oct 11th 11:37am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Commanders WR Terry McLaurin (hamstring) is officially active for a Week 5 matchup with the Giants. 
+**_Fantasy Impact:_** McLaurin was considered a game-time decision, but he was cleared to play after pregame warmups. The Commanders are without Stefon Diggs (hamstring) so McLaurin's return to the lineup will be a much needed boost. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Addison](https://images.fantasypros.com/images/players/nfl/23107/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jordan-addison.php)
+WR - MIN
+[» Rankings](https://www.fantasypros.com/nfl/players/jordan-addison.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jordan-addison.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jordan-addison.php)
+[Jordan Addison (hamstring) inactive for Week 5](https://www.fantasypros.com/nfl/news/613216/jordan-addison-hamstring-inactive-week-5.php)  
+
+Sun, Oct 11th 11:34am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jordan Addison (hamstring) is inactive for Week 5 for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero. (Source: [Tom Pelissero on Twitter ](https://x.com/tompelissero/status/2109305523749187679?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Addison will not suit up after struggling to progress throughout the week for head coach Kevin O’Connell, while No. 1 wideout Justin Jefferson (ankle) is good to go for the Week 5 contest against the Saints.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Carnell Tate](https://images.fantasypros.com/images/players/nfl/26009/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/carnell-tate.php)
+WR - TEN
+[» Rankings](https://www.fantasypros.com/nfl/players/carnell-tate.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/carnell-tate.php)  
+[» More News](https://www.fantasypros.com/nfl/news/carnell-tate.php)
+[Carnell Tate (back) officially active for Week 5](https://www.fantasypros.com/nfl/news/613215/carnell-tate-back-officially-active-week-5.php)  
+
+Sun, Oct 11th 11:34am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Titans WR Carnell Tate (back) is officially active for a Week 5 matchup with Houston. 
+**_Fantasy Impact:_** Tate was considered questionable after being limited in practice Thursday and Friday. He will suit up and provide the Titans with their best option at wide receiver against Houston. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Justin Jefferson](https://images.fantasypros.com/images/players/nfl/19236/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/justin-jefferson.php)
+WR - MIN
+[» Rankings](https://www.fantasypros.com/nfl/players/justin-jefferson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/justin-jefferson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/justin-jefferson.php)
+[Justin Jefferson (ankle) active for Week 5](https://www.fantasypros.com/nfl/news/613214/justin-jefferson-ankle-active-week-5.php)  
+
+Sun, Oct 11th 11:32am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Justin Jefferson (ankle) is officially active for the Minnesota Vikings against the New Orleans Saints according to Tom Pelissero. (Source: [Tom Pelissero on Twitter ](https://x.com/tompelissero/status/2109305523749187679?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Jefferson is good to go after not experiencing any issues in pregame activities for head coach Kevin O’Connell, and is is in line for a sizeable workload with Jordan Addison sidelined against the Saints.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Will Shipley](https://images.fantasypros.com/images/players/nfl/22930/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/will-shipley.php)
 RB - PHI
 [» Rankings](https://www.fantasypros.com/nfl/players/will-shipley.php)  
@@ -46,34 +130,6 @@ Sun, Oct 11th 10:33am EDT
 By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
 Tee Higgins (groin/neck) will play for the Cincinnati Bengals against the Miami Dolphins Sunday according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2109290206595629551?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
 **_Fantasy Impact:_** Higgins is good to go after entering the weekend with a questionable designation, joining Ja’Marr Chase (concussion) back in the Cincinnati passing attack against the Dolphins Sunday.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Justin Jefferson](https://images.fantasypros.com/images/players/nfl/19236/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/justin-jefferson.php)
-WR - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/justin-jefferson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/justin-jefferson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/justin-jefferson.php)
-[Justin Jefferson (ankle) expected to play Sunday](https://www.fantasypros.com/nfl/news/613210/justin-jefferson-ankle-expected-to-play-sunday.php)  
-
-Sun, Oct 11th 10:30am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Justin Jefferson (ankle) is expected to play for the Minnesota Vikings against the New Orleans Saints Sunday according to Jeff Darlington. (Source: [Jeff Darlington on Twitter ](https://x.com/jeffdarlington/status/2109286397345399275?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
-**_Fantasy Impact:_** Jefferson will test the injured ankle during pregame warmups, and barring any setbacks seems poised to reclaim his No. 1 role in the Minnesota Vikings passing attack against the Saints for head coach Kevin O’Connell Sunday.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jordan Addison](https://images.fantasypros.com/images/players/nfl/23107/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jordan-addison.php)
-WR - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/jordan-addison.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jordan-addison.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jordan-addison.php)
-[Jordan Addison (hamstring) not expected to play Sunday](https://www.fantasypros.com/nfl/news/613209/jordan-addison-hamstring-not-expected-to-play-sunday.php)  
-
-Sun, Oct 11th 10:27am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jordan Addison (hamstring) is not expected to play for the Minnesota Vikings against the New Orleans Saints Sunday according to Jeff Darlington. (Source: [Jeff Darlington on Twitter ](https://x.com/jeffdarlington/status/2109286397345399275?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
-**_Fantasy Impact:_** Addison struggled to progress throughout the week for head coach Kevin O’Connell, leaving the Minnesota passing attack without a primary pass-catching option against the Saints Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -144,20 +200,6 @@ Sun, Oct 11th 8:04am EDT
 By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
 Ladd McConkey (foot) is not expected to play on Sunday against Denver due to a foot injury. (Source: [Adam Schefter on X](https://x.com/AdamSchefter/status/2109238725607833603?s=20))
 **_Fantasy Impact:_** It's a tough blow to the Chargers' chances of winning if Ladd sits, as they are already down Quentin Johnston. Tre Harris is the next man up for LA, and he could see a decent amount of work and be a flex-worthy option, especially with Denver missing two of their top corners this week.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Terry McLaurin](https://images.fantasypros.com/images/players/nfl/18466/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)
-WR - WAS
-[» Rankings](https://www.fantasypros.com/nfl/players/terry-mclaurin.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/terry-mclaurin.php)  
-[» More News](https://www.fantasypros.com/nfl/news/terry-mclaurin.php)
-[Terry McLaurin (hamstring) remains game-time decision Sunday ](https://www.fantasypros.com/nfl/news/613197/terry-mclaurin-hamstring-remains-game-time-decision-sunday.php)  
-
-Sat, Oct 10th 10:33pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Terry McLaurin remains a game-time decision for Sunday's game against the Giants. (Source: [John Keim on Twitter](https://x.com/john_keim/status/2109077847524454644))
-**_Fantasy Impact:_** Keim notes that at this point, there's a slight lean to McLaurin playing, but it’s "just slight." His status will need to be monitored 90 minutes before kickoff. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -242,48 +284,6 @@ Sat, Oct 10th 10:15pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 The Seahawks placed CB Julian Neal on injured reserve. (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2109015997290340369))
 **_Fantasy Impact:_** Neal hurt his hamstring Wednesday. He will miss at least the next four weeks. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trevon Diggs](https://images.fantasypros.com/images/players/nfl/18287/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trevon-diggs.php)
-CB - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/trevon-diggs.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/trevon-diggs.php)  
-[» More News](https://www.fantasypros.com/nfl/news/trevon-diggs.php)
-[Trevon Diggs elevated by Seahawks ](https://www.fantasypros.com/nfl/news/613190/trevon-diggs-elevated-by-seahawks.php)  
-
-Sat, Oct 10th 10:13pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Seahawks elevated CB Trevon Diggs from their practice squad. (Source: [Brady Henderson on Twitter](https://x.com/BradyHenderson/status/2109015997290340369))
-**_Fantasy Impact:_** Diggs will add another corner option for Sunday's game against the 49ers. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Byron Young](https://images.fantasypros.com/images/players/nfl/25449/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/byron-young-edge.php)
-DE - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/byron-young-edge.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/byron-young-edge.php)  
-[» More News](https://www.fantasypros.com/nfl/news/byron-young-edge.php)
-[Byron Young off injury report Monday ](https://www.fantasypros.com/nfl/news/613189/byron-young-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:08pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Byron Young is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Despite not practicing on Saturday, Young will be good to go in his usual role on Monday. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alaric Jackson](https://images.fantasypros.com/images/players/nfl/19284/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/alaric-jackson.php)
-OL - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/alaric-jackson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/alaric-jackson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/alaric-jackson.php)
-[Alaric Jackson off injury report Monday ](https://www.fantasypros.com/nfl/news/613188/alaric-jackson-off-injury-report-monday.php)  
-
-Sat, Oct 10th 10:07pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Alaric Jackson is off the injury report for Monday's game against the Bills. (Source: [Los Angeles Rams](https://www.therams.com/news/rams-injury-report-week-5-2026-vs-bills-aaron-donald-colby-parkinson-and-jaylen-watson-good-to-go-for-monday-night-football))
-**_Fantasy Impact:_** Despite not practicing on Saturday, Jackson will be good to go in his usual role on Monday. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
