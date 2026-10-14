@@ -1,29 +1,28 @@
-# NFL transcripts | week 6 | updated 2026-10-13 07:46 ET
+# NFL transcripts | week 6 | updated 2026-10-13 21:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 2 files this week:
+# 7 files this week:
+NFL/transcripts/week-06/06-42WRzKQI_ActionNetwork_NFL_Futures_Betting_Trading_Best_NFC_Divisional_Bets_MVP_OROY_Predicti.txt
+NFL/transcripts/week-06/79GGo65SBNk_Footballers_Week_6_Waivers_AndysHole_Fantasy_Football_2026_Ep_1992.txt
 NFL/transcripts/week-06/IQA1G0N1EBk_PlayerProfiler_Week_6_TOP_Kickers_Defenses_High_Upside_Streamers.txt
+NFL/transcripts/week-06/NnSrEoBfSYQ_ActionNetwork_Top_Week_6_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
+NFL/transcripts/week-06/SxCjp5YpkEs_PlayerProfiler_Kendre_Miller_Must_Add_Fantasy_Football_Week_6_Waiver_Wire.txt
 NFL/transcripts/week-06/Wk0gpbfE8H0_TheAudible_Is_it_too_early_or_too_late_to_give_up_on_Omarion_Hampton.txt
+NFL/transcripts/week-06/gfb6InHf0I8_FootballersDFS_Week_6_NFL_Preview_The_Cash_Man_Returns_Fantasy_Football_DFS_Betting.txt
 
 # this run:
-NONE    channel Footballers: nothing new this week (or everything already saved)
-NONE    channel FootballersDFS: nothing new this week (or everything already saved)
+NEW     NFL/transcripts/week-06/79GGo65SBNk_Footballers_Week_6_Waivers_AndysHole_Fantasy_Football_2026_Ep_1992.txt  (9,587 words)
+NEW     NFL/transcripts/week-06/gfb6InHf0I8_FootballersDFS_Week_6_NFL_Preview_The_Cash_Man_Returns_Fantasy_Football_DFS_Betting.txt  (12,893 words)
 NONE    channel SwankTank: nothing new this week (or everything already saved)
-NONE    channel RotoGrinders: nothing new this week (or everything already saved)
+UPCOMING RotoGrinders 3wj9ScxRd20 Seahawks vs. Broncos TNF Showdown! - NFL DFS Picks & Strateg  (not aired yet - scheduled for 10/15/26 7:30PM)
+UPCOMING RotoGrinders lThRJrFOKIo PICK SIX! The BEST 3 NFL Games to Target in DFS for Week 6!  (not aired yet - scheduled for 10/14/26 8:00PM)
 NONE    channel ShipItNation: nothing new this week (or everything already saved)
-UPCOMING SGPN 02QlTn69q-w NFL Week 6 Betting Pregame Show: NFL Picks, Prop Bets, DFS P  (not aired yet - scheduled for 10/18/26 12:00PM)
-UPCOMING SGPN Fx96mWC7xQQ NFL Week 6 Prop Bets, Best Bets & Predictions  (not aired yet - scheduled for 10/15/26 7:00PM)
-UPCOMING SGPN xwAfWvXo_aA NFL Week 6 Picks, Best Bets & Predictions  (not aired yet - scheduled for 10/14/26 11:30PM)
-UPCOMING SGPN 3Bmsy0aomKY Thursday Night Football Week 6 Prop Bets, Best Bets & Predic  (not aired yet - scheduled for 10/13/26 2:00PM)
+NOCAPS  SGPN 3Bmsy0aomKY Thursday Night Football Week 6 Prop Bets, Best Bets & Predic  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SGPNPropcast: nothing new this week (or everything already saved)
-NONE    channel ActionNetwork: nothing new this week (or everything already saved)
+NEW     NFL/transcripts/week-06/06-42WRzKQI_ActionNetwork_NFL_Futures_Betting_Trading_Best_NFC_Divisional_Bets_MVP_OROY_Predicti.txt  (11,080 words)
+NEW     NFL/transcripts/week-06/NnSrEoBfSYQ_ActionNetwork_Top_Week_6_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt  (5,746 words)
 NONE    channel DFSArmy: nothing new this week (or everything already saved)
 NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
-NEW     NFL/transcripts/week-06/Wk0gpbfE8H0_TheAudible_Is_it_too_early_or_too_late_to_give_up_on_Omarion_Hampton.txt  (4,902 words)
-NOCAPS  PlayerProfiler SxCjp5YpkEs Fantasy Football Week 6 Waiver Wire | Must-Add Players + FAA  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.9h ago))
-NEW     NFL/transcripts/week-06/IQA1G0N1EBk_PlayerProfiler_Week_6_TOP_Kickers_Defenses_High_Upside_Streamers.txt  (2,371 words)
-UPCOMING Stokastic uDGWz73z318 NFL DFS First Look Week 6 Picks | NFL DFS Strategy 📱  (not aired yet - scheduled for 10/13/26 10:00AM)
-UPCOMING Stokastic xWGUWQd5R5Q NFL DFS First Look Week 6 Picks | NFL DFS Strategy  (not aired yet - scheduled for 10/13/26 10:00AM)
-UPCOMING Stokastic a5RmYg0woxw Week 6 NFL DFS: Single Lineup Sim Building | NFL DFS Strateg  (not aired yet - scheduled for 10/14/26 10:00AM)
-UPCOMING Stokastic crzz9Su2snw Week 6 NFL DFS: Single Lineup Sim Building | NFL DFS Strateg  (not aired yet - scheduled for 10/14/26 10:00AM)
-UPCOMING Stokastic 3q44C1l8nNI Seahawks-Broncos Showdown Strategy TNF Week 6 DFS Picks | NF  (not aired yet - scheduled for 10/15/26 10:00AM)
-UPCOMING Stokastic Uu-xoQ0_qTo NFL DFS Showdown Live Before Lock | Seahawks-Broncos TNF Wee  (not aired yet - scheduled for 10/15/26 7:15PM)
+NOCAPS  TheAudible 2T-Cm51B5bY Fantasy Football WAIVER WIRE Week 6! Who Should You ADD, DRO  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  PlayerProfiler ne3vbVSOpVY Fantasy Football Week 6 Panic Moves You Must Make Now  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-06/SxCjp5YpkEs_PlayerProfiler_Kendre_Miller_Must_Add_Fantasy_Football_Week_6_Waiver_Wire.txt  (9,988 words)
+NONE    channel Stokastic: nothing new this week (or everything already saved)
