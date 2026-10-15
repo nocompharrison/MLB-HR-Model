@@ -1,6 +1,6 @@
-# NFL transcripts | week 6 | updated 2026-10-15 07:47 ET
+# NFL transcripts | week 6 | updated 2026-10-15 16:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 25 files this week:
+# 26 files this week:
 NFL/transcripts/week-06/06-42WRzKQI_ActionNetwork_NFL_Futures_Betting_Trading_Best_NFC_Divisional_Bets_MVP_OROY_Predicti.txt
 NFL/transcripts/week-06/1UJ_xGRRwv8_DFSArmy_NFL_DFS_Week_6_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-06/2T-Cm51B5bY_TheAudible_Fantasy_Football_WAIVER_WIRE_Week_6_Who_Should_You_ADD_DROP_TRUST_The.txt
@@ -26,27 +26,33 @@ NFL/transcripts/week-06/ne3vbVSOpVY_PlayerProfiler_Fantasy_Football_Week_6_Panic
 NFL/transcripts/week-06/r7xRcumfG8c_Footballers_Fantasy_Draft_Redo_League_Winners_Mailbag_Fantasy_Football_2026_Ep_199.txt
 NFL/transcripts/week-06/wkHe6wSQDTU_DFSArmy_Seahawks_vs_Broncos_Showdown_Breakdown_Thursday_Night_Football_DraftKi.txt
 NFL/transcripts/week-06/xWGUWQd5R5Q_Stokastic_NFL_DFS_First_Look_Week_6_Picks_NFL_DFS_Strategy.txt
+NFL/transcripts/week-06/xa2g91mvy9k_SwankTank_Full_NFL_Week_6_Preview_Picks_Key_Stats_More.txt
 
 # this run:
-NONE    channel Footballers: nothing new this week (or everything already saved)
+DEFER   Footballers gt5TLPTxxv8 Starts of the Week + Week 6 Games, Hurts Hurt! | Fantasy Foo  (still rate-limited after a new IP - will retry next run)
 NONE    channel FootballersDFS: nothing new this week (or everything already saved)
-NONE    channel SwankTank: nothing new this week (or everything already saved)
-NEW     NFL/transcripts/week-06/lThRJrFOKIo_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_6.txt  (32,778 words)
-UPCOMING RotoGrinders 3wj9ScxRd20 Seahawks vs. Broncos TNF Showdown! - NFL DFS Picks & Strateg  (not aired yet - scheduled for 10/15/26 7:30PM)
-UPCOMING ShipItNation ZkJ1PeuZHe8 Seahawks vs Broncos NFL DFS Showdown | TNF Week 6 Showdown S  (not aired yet - scheduled for 10/15/26 2:00PM)
-NOCAPS  SGPN xwAfWvXo_aA NFL Week 6 Picks, Best Bets & Predictions  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-06/nbiP1m8loHo_SGPNPropcast_NFL_Week_6_Thursday_Night_Football_Player_Props_10_14_26.txt  (5,900 words)
-UPCOMING SGPNPropcast YcWhMXRcxxM NFL Week 6 Circa Million Spread Picks - 10/15/26  (not aired yet - scheduled for 10/15/26 11:10AM)
-NEW     NFL/transcripts/week-06/aflz1x0ayag_ActionNetwork_Seahawks_vs_Broncos_Picks_Predictions_Thursday_Night_Football_Best_Bet.txt  (1,641 words)
+NEW     NFL/transcripts/week-06/xa2g91mvy9k_SwankTank_Full_NFL_Week_6_Preview_Picks_Key_Stats_More.txt  (6,359 words)
+UPCOMING RotoGrinders 0klRQA6MEus Commanders vs. 49ers MNF Showdown! - NFL DFS Picks & Strateg  (not aired yet - scheduled for 10/19/26 7:30PM)
+UPCOMING RotoGrinders eiVvXdVyq94 Cowboys vs. Packers SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/18/26 7:30PM)
+UPCOMING RotoGrinders yw354hAd4p8 LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 10/18/26 9:30AM)
+UPCOMING RotoGrinders hUJjqbc8og4 NFL DFS Tournament Strategy for Week 6 on DraftKings & FanDu  (not aired yet - scheduled for 10/17/26 3:00PM)
+NOCAPS  ShipItNation ZkJ1PeuZHe8 Seahawks vs Broncos NFL DFS Showdown | TNF Week 6 Showdown S  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.4h ago))
+NOCAPS  SGPN xwAfWvXo_aA NFL Week 6 Picks, Best Bets & Predictions  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.8h ago))
+UPCOMING SGPN iWT2XfXagXo NFL Picks Week 6 w/ @DougStanhope @BrendonWalsh @SeanTGreen  (not aired yet - scheduled for 10/15/26 6:00PM)
+UPCOMING SGPNPropcast LZ7cjmPTlgI NFL Week 6 Player Props - 10/16/26  (not aired yet - scheduled for 10/16/26 11:15PM)
+NOCAPS  SGPNPropcast YcWhMXRcxxM NFL Week 6 Circa Million Spread Picks - 10/15/26  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  ActionNetwork cE4vdiLqV1g Seahawks vs. Broncos SAME GAME PARLAY PICKS LIVE | Thursday   (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.4h ago))
+NOCAPS  ActionNetwork mzT6ReHpq2Q NFL Week 6 Preview & Picks For EVERY Game! | The Favorites P  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel DFSArmy: nothing new this week (or everything already saved)
 NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
-NONE    channel TheAudible: nothing new this week (or everything already saved)
-NEW     NFL/transcripts/week-06/VCFSp-SD1c0_PlayerProfiler_Breaking_Down_Real_life_Dynasty_Trades_with_Coach_Retlaff.txt  (21,270 words)
+NOCAPS  TheAudible gO7R7j44fEw NFL Week 6 PREVIEW Part 2! Can the Commanders STOP Brock Pur  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.0h ago))
+UPCOMING PlayerProfiler PJug0k8tISc These players will BOOM in Week 6! NFL Fantasy Football Star  (not aired yet - scheduled for 10/16/26 3:00PM)
 UPCOMING PlayerProfiler QJ4c8inAomM Week 6 Start/Sits with The Podfather and Chuck Bass  (not aired yet - scheduled for 10/18/26 9:00AM)
-UPCOMING Stokastic 3q44C1l8nNI Seahawks-Broncos Showdown Strategy TNF Week 6 DFS Picks | NF  (not aired yet - scheduled for 10/15/26 10:00AM)
+NOCAPS  Stokastic 3q44C1l8nNI Seahawks-Broncos Showdown Strategy TNF Week 6 DFS Picks | NF  (no captions; Groq: Groq rejected the API key - check groq_key.txt)
 UPCOMING Stokastic yDIx2L2vBn4 NFL DFS Showdown Live Before Lock | Seahawks-Broncos TNF Wee  (not aired yet - scheduled for 10/15/26 7:15PM)
 UPCOMING Stokastic fwhqhHNRJK0 NFL DFS Sims Tournament Strategy Week 6 | NFL DFS Strategy  (not aired yet - scheduled for 10/16/26 10:00AM)
 UPCOMING Stokastic RKF8_8Qqq3M NFL DFS Live Before Lock | Week 6 NFL DFS Picks for DraftKin  (not aired yet - scheduled for 10/18/26 9:30AM)
 UPCOMING Stokastic 6DWTLqR1lzA NFL DFS Showdown Live Before Lock | Cowboys-Packers SNF Week  (not aired yet - scheduled for 10/18/26 7:20PM)
 UPCOMING Stokastic LPedS0SehfY Commanders-49ers Showdown Strategy MNF Week 6 DFS Picks | NF  (not aired yet - scheduled for 10/19/26 10:00AM)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NOTE    deferred videos are picked up automatically on the next scheduled run
