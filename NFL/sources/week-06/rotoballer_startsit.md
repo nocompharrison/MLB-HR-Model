@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026 | fetched: 2026-10-18 09:30 ET -->
+<!-- source: https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026 | fetched: 2026-10-18 09:33 ET -->
 
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
@@ -843,7 +843,7 @@ Christian McCaffrey does have a tougher matchup this week. The Commanders have g
   
 Like what you see? Download our updated fantasy football app for [iPhone](https://apps.apple.com/us/app/fantasy-football-by-rotoballer/id915394322) and [Android](https://play.google.com/store/apps/details?id=com.rotoballer.football&hl=en_US&gl=US) with 24x7 player news, injury alerts, rankings, starts/sits & more. All free!   
   
-[![](https://cdn.rotoballer.com/2022/03/RotoBaller-fantasy-sports-app-news-alerts-mobile-iphone-android-large.jpeg)](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
+[![](data:image/svg+xml,<svg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%200%200"></svg>)](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
   
 [![](https://www.rotoballer.com/wp-content/uploads/2024/09/NFL-team-sync-2024-in-season.png)](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel)   
   
@@ -856,6 +856,10 @@ Like what you see? Download our updated fantasy football app for [iPhone](https:
   * [NHL](https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026)
 
 
+[![](https://upload.wikimedia.org/wikipedia/commons/d/de/Pittsburgh_Steelers_logo.svg) Rico Dowdle1 h ago   
+Expected to Return for Week 6 vs. Buccaneers](https://www.rotoballer.com/player-news/rico-dowdle-expected-to-return-for-week-6-vs-buccaneers/1969377)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Tyler Warren1 h ago   
+a Game-Time Decision for Week 6](https://www.rotoballer.com/player-news/tyler-warren-a-game-time-decision-for-week-6/1969372)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg) Jeremy Peña10 h ago   
 Jeremy Pena on the Trade Block?](https://www.rotoballer.com/player-news/jeremy-pena-on-the-trade-block/1969289)
 [![](https://upload.wikimedia.org/wikipedia/en/f/f0/Philadelphia_Phillies_%282019%29_logo.svg) J.T. Realmuto11 h ago   
@@ -936,7 +940,7 @@ Immediately Returning as Packers Starting Running Back](https://www.rotoballer.c
 Without Timeline for Return](https://www.rotoballer.com/player-news/egor-chinakhov-without-timeline-for-return/1968646)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Ben Simmons23 h ago   
 Fills the Box Score in Preseason Finale](https://www.rotoballer.com/player-news/ben-simmons-fills-the-box-score-in-preseason-finale/1968642)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Jalen Hurts23 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Jalen Hurts1 d ago   
 Eagles Not Planning to Place Jalen Hurts on Injured Reserve](https://www.rotoballer.com/player-news/eagles-not-planning-to-place-jalen-hurts-on-injured-reserve/1968640)
 [![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Tyrese Maxey1 d ago   
 Wraps Up Preseason with 22 Points](https://www.rotoballer.com/player-news/tyrese-maxey-wraps-up-preseason-with-22-points/1968636)
@@ -958,16 +962,12 @@ NBA Debut Challenged by Former Spanish Club](https://www.rotoballer.com/player-n
 to Remain on Minutes Restriction](https://www.rotoballer.com/player-news/mikel-brown-jr-to-remain-on-minutes-restriction/1968246)
 [![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther1 d ago   
 to be Re-Evaluated in Six Weeks](https://www.rotoballer.com/player-news/julian-strawther-to-be-re-evaluated-in-six-weeks/1968239)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Mike Evans1 d ago   
-Misses Another Practice on Friday](https://www.rotoballer.com/player-news/mike-evans-misses-another-practice-on-friday/1968173)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Rasmus Dahlin1 d ago   
 to Remain Out Saturday](https://www.rotoballer.com/player-news/rasmus-dahlin-to-remain-out-saturday/1968151)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jake Walman1 d ago   
 Probable for Saturday's Action](https://www.rotoballer.com/player-news/jake-walman-probable-for-saturdays-action/1968146)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins1 d ago   
 on Track to Return Next Week](https://www.rotoballer.com/player-news/ryan-nugent-hopkins-on-track-to-retun-next-week/1968144)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Buffalo_Bills_logo.svg) DJ Moore1 d ago   
-Questionable to Play in Week 6 Against Raiders](https://www.rotoballer.com/player-news/dj-moore-questionable-to-play-in-week-6-against-raiders/1968140)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Hyman1 d ago   
 Set to Return Saturday](https://www.rotoballer.com/player-news/zach-hyman-set-to-return-saturday/1968136)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nicolas Roy1 d ago   
