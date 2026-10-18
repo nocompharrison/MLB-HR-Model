@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-15 10:02 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-18 09:30 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,283 +7,280 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
-[![Brady Cook](https://images.fantasypros.com/images/players/nfl/27161/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brady-cook.php)
-QB - MIA
-[» Rankings](https://www.fantasypros.com/nfl/players/brady-cook.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brady-cook.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brady-cook.php)
-[Brady Cook signs with Dolphins ](https://www.fantasypros.com/nfl/news/614010/brady-cook-signs-with-dolphins.php)  
+[![Devin Singletary](https://images.fantasypros.com/images/players/nfl/18280/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/devin-singletary.php)
+RB - NYG
+[» Rankings](https://www.fantasypros.com/nfl/players/devin-singletary.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/devin-singletary.php)  
+[» More News](https://www.fantasypros.com/nfl/news/devin-singletary.php)
+[Devin Singletary expected to be active Sunday](https://www.fantasypros.com/nfl/news/614486/devin-singletary-expected-to-be-active-sunday.php)  
 
-Thu, Oct 15th 1:35am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Dolphins signed QB Brady Cook. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110003829638848606))
-**_Fantasy Impact:_** Cook will add depth in the quarterback room for Miami. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+Sun, Oct 18th 9:23am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Devin Singletary is expected to be active for the New York Giants Sunday according to Jordan Raanan. (Source: [Jordan Raanan on Twitter ](https://x.com/jordanraanan/status/2111805586992255479?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Singletary is part of a backfield shakeup for head coach John Harbaugh after Cam Skattebo’s ball security issues, with the veteran to be part of a four-headed backfield attack along with Najee Harris, Tyrone Tracy Jr, and Skattebo Sunday.
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Luke Grimm](https://images.fantasypros.com/images/players/nfl/27601/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/luke-grimm.php)
-WR - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/luke-grimm.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/luke-grimm.php)  
-[» More News](https://www.fantasypros.com/nfl/news/luke-grimm.php)
-[Luke Grimm re-signs with Chargers ](https://www.fantasypros.com/nfl/news/614009/luke-grimm-re-signs-with-chargers.php)  
+[![Najee Harris](https://images.fantasypros.com/images/players/nfl/19302/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/najee-harris-rb.php)
+RB - NYG
+[» Rankings](https://www.fantasypros.com/nfl/players/najee-harris-rb.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/najee-harris-rb.php)  
+[» More News](https://www.fantasypros.com/nfl/news/najee-harris-rb.php)
+[Najee Harris to see increased workload in Week 6](https://www.fantasypros.com/nfl/news/614485/najee-harris-to-see-increased-workload-week-6.php)  
 
-Thu, Oct 15th 1:34am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Chargers re-signed WR/returner Luke Grimm to the practice squad. (Source: [Mike Garafolo on Twitter](https://x.com/MikeGarafolo/status/2110074076496560516))
-**_Fantasy Impact:_** Grimm will return to a depth role. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+Sun, Oct 18th 9:19am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Najee Harris will receive an increased workload for the New York Giants Sunday according to Jordan Raanan. (Source: [Jordan Raanan on Twitter ](https://x.com/jordanraanan/status/2111805586992255479?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Harris will look to take advantage of increased opportunities for head coach John Harbaugh after Cam Skattebo struggled with ball security, with Devin Singletary and Tyrone Tracy Jr. also expected to be active Sunday.
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Ryan Miller](https://images.fantasypros.com/images/players/nfl/15024/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/ryan-miller.php)
-OL - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/ryan-miller.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/ryan-miller.php)  
-[» More News](https://www.fantasypros.com/nfl/news/ryan-miller.php)
-[Ryan Miller waived by Dolphins](https://www.fantasypros.com/nfl/news/614008/ryan-miller-waived-by-dolphins.php)  
+[![Mason Graham](https://images.fantasypros.com/images/players/nfl/27010/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mason-graham.php)
+DT - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/mason-graham.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/mason-graham.php)  
+[» More News](https://www.fantasypros.com/nfl/news/mason-graham.php)
+[Mason Graham (knee/ankle) not expected to play Sunday](https://www.fantasypros.com/nfl/news/614484/mason-graham-kneeankle-not-expected-to-play-sunday.php)  
 
-Thu, Oct 15th 1:33am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Dolphins waived Ryan Miller. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110109312936738852))
-**_Fantasy Impact:_** Miller will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tyler Johnson](https://images.fantasypros.com/images/players/nfl/24279/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-johnson-edge.php)
-DE - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/tyler-johnson-edge.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/tyler-johnson-edge.php)  
-[» More News](https://www.fantasypros.com/nfl/news/tyler-johnson-edge.php)
-[Tyler Johnson released by Jets](https://www.fantasypros.com/nfl/news/614007/tyler-johnson-released-by-jets.php)  
-
-Thu, Oct 15th 1:31am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Jets released Tyler Johnson (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Johnson will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Palmer](https://images.fantasypros.com/images/players/nfl/25331/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trey-palmer.php)
-WR - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/trey-palmer.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/trey-palmer.php)  
-[» More News](https://www.fantasypros.com/nfl/news/trey-palmer.php)
-[Trey Palmer released by Saints ](https://www.fantasypros.com/nfl/news/614006/trey-palmer-released-by-saints.php)  
-
-Thu, Oct 15th 1:30am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints released Trey Palmer. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Palmer will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamie Sheriff](https://images.fantasypros.com/images/players/nfl/26987/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jamie-sheriff.php)
-LB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/jamie-sheriff.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jamie-sheriff.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jamie-sheriff.php)
-[Jamie Sheriff released by Rams](https://www.fantasypros.com/nfl/news/614005/jamie-sheriff-released-by-rams.php)  
-
-Thu, Oct 15th 1:29am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Rams released Jamie Sheriff. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Sheriff will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Mills](https://images.fantasypros.com/images/players/nfl/15556/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jalen-mills.php)
-S - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/jalen-mills.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jalen-mills.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jalen-mills.php)
-[Jalen Mills released by Lions](https://www.fantasypros.com/nfl/news/614004/jalen-mills-released-by-lions.php)  
-
-Thu, Oct 15th 1:29am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Lions released Jalen Mills. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Mills will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alex Austin](https://images.fantasypros.com/images/players/nfl/25479/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/alex-austin.php)
-CB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/alex-austin.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/alex-austin.php)  
-[» More News](https://www.fantasypros.com/nfl/news/alex-austin.php)
-[Alex Austin released by Cowboys ](https://www.fantasypros.com/nfl/news/614003/alex-austin-released-by-cowboys.php)  
-
-Thu, Oct 15th 1:28am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cowboys released Alex Austin. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Austin will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jay Toia](https://images.fantasypros.com/images/players/nfl/27229/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jay-toia.php)
-DT - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/jay-toia.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jay-toia.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jay-toia.php)
-[Jay Toia released by Cardinals ](https://www.fantasypros.com/nfl/news/614002/jay-toia-released-by-cardinals.php)  
-
-Thu, Oct 15th 1:27am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals released Jay Toia. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Toia will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Eugene Asante](https://images.fantasypros.com/images/players/nfl/27271/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/eugene-asante.php)
-LB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/eugene-asante.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/eugene-asante.php)  
-[» More News](https://www.fantasypros.com/nfl/news/eugene-asante.php)
-[Eugene Asante released by Cardinals ](https://www.fantasypros.com/nfl/news/614001/eugene-asante-released-by-cardinals.php)  
-
-Thu, Oct 15th 1:26am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals released Eugene Asante. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126701246034396))
-**_Fantasy Impact:_** Asante will seek another opportunity with another team. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Damarion Williams](https://images.fantasypros.com/images/players/nfl/24292/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/damarion-williams.php)
-CB - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/damarion-williams.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/damarion-williams.php)  
-[» More News](https://www.fantasypros.com/nfl/news/damarion-williams.php)
-[Damarion Williams signs with Rams](https://www.fantasypros.com/nfl/news/614000/damarion-williams-signs-with-rams.php)  
-
-Thu, Oct 15th 1:25am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Rams signed Damarion Williams. (Source: [Aaron Wilson on Twitter](https://x.com/AaronWilson_NFL/status/2110126189113135415))
-**_Fantasy Impact:_** Williams will add depth for the Rams. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ulysses Bentley IV](https://images.fantasypros.com/images/players/nfl/23112/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/ulysses-bentley-iv.php)
-RB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/ulysses-bentley-iv.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/ulysses-bentley-iv.php)  
-[» More News](https://www.fantasypros.com/nfl/news/ulysses-bentley-iv.php)
-[Ulysses Bentley IV released by Saints ](https://www.fantasypros.com/nfl/news/613999/ulysses-bentley-iv-released-by-saints.php)  
-
-Thu, Oct 15th 1:24am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints released RB Ulysses Bentley IV from their practice squad. (Source: [Mike Triplett on Twitter](https://x.com/MikeTriplett/status/2110125549758603596))
-**_Fantasy Impact:_** Bentley will figure to seek another opportunity. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Brock Rechsteiner](https://images.fantasypros.com/images/players/nfl/28895/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brock-rechsteiner.php)
-WR - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/brock-rechsteiner.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brock-rechsteiner.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brock-rechsteiner.php)
-[Brock Rechsteiner released by Saints ](https://www.fantasypros.com/nfl/news/613997/brock-rechsteiner-released-by-saints.php)  
-
-Thu, Oct 15th 1:22am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints released WR Brock Rechsteiner. (Source: [Mike Triplett on Twitter](https://x.com/MikeTriplett/status/2110125549758603596))
-**_Fantasy Impact:_** Rechsteiner was released from the suspended list. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Cal Adomitis](https://images.fantasypros.com/images/players/nfl/24846/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/callen-adomitis.php)
-IOL - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/callen-adomitis.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/callen-adomitis.php)  
-[» More News](https://www.fantasypros.com/nfl/news/callen-adomitis.php)
-[Cal Adomitis released by Saints ](https://www.fantasypros.com/nfl/news/613996/cal-adomitis-released-by-saints.php)  
-
-Thu, Oct 15th 1:21am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints released Cal Adomitis. (Source: [Mike Triplett on Twitter](https://x.com/MikeTriplett/status/2110125549758603596))
-**_Fantasy Impact:_** Adomitis will seek another opportunity as a long snapper. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Decamerion Richardson](https://images.fantasypros.com/images/players/nfl/26459/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/decamerion-richardson.php)
-CB - NO
-[» Rankings](https://www.fantasypros.com/nfl/players/decamerion-richardson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/decamerion-richardson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/decamerion-richardson.php)
-[Decamerion Richardson re-signs with Saints](https://www.fantasypros.com/nfl/news/613995/decamerion-richardson-re-signs-with-saints.php)  
-
-Thu, Oct 15th 1:20am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints re-signed Decamerion Richardson. (Source: [Mike Triplett on Twitter](https://x.com/MikeTriplett/status/2110125549758603596))
-**_Fantasy Impact:_** Richardson will return to a depth role with New Orleans. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jayden Price](https://images.fantasypros.com/images/players/nfl/26773/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jayden-price.php)
-CB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/jayden-price.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jayden-price.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jayden-price.php)
-[Jayden Price released by Saints](https://www.fantasypros.com/nfl/news/613994/jayden-price-released-by-saints.php)  
-
-Thu, Oct 15th 1:20am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Saints released DB Jayden Price. (Source: [Mike Triplett on Twitter](https://x.com/MikeTriplett/status/2110125549758603596))
-**_Fantasy Impact:_** Price loses his roster spot after fumbling on a kickoff last Sunday. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Mike Danna](https://images.fantasypros.com/images/players/nfl/19550/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mike-danna.php)
-DE - BUF
-[» Rankings](https://www.fantasypros.com/nfl/players/mike-danna.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/mike-danna.php)  
-[» More News](https://www.fantasypros.com/nfl/news/mike-danna.php)
-[Mike Danna re-signs with Bills ](https://www.fantasypros.com/nfl/news/613993/mike-danna-re-signs-with-bills.php)  
-
-Thu, Oct 15th 1:18am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Bills re-signed OLB Mike Danna. (Source: [Jay Skurski on Twitter](https://x.com/JaySkurski/status/2110131599442608500))
-**_Fantasy Impact:_** Danna will return to a depth role for Buffalo. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![KeAndre Lambert-Smith](https://images.fantasypros.com/images/players/nfl/24372/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/keandre-lambert-smith.php)
-WR - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/keandre-lambert-smith.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/keandre-lambert-smith.php)  
-[» More News](https://www.fantasypros.com/nfl/news/keandre-lambert-smith.php)
-[KeAndre Lambert-Smith (hamstring) limited participant Wednesday](https://www.fantasypros.com/nfl/news/613980/keandre-lambert-smith-hamstring-limited-participant-wednesday.php)  
-
-Thu, Oct 15th 12:49am EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-KeAndre Lambert-Smith (hamstring) was a limited participant at practice on Wednesday. (Source: [Los Angeles Chargers on Twitter](https://x.com/chargers/status/2110497495642234899))
-**_Fantasy Impact:_** The team recently opened up Lambert-Smith's 21-day practice window. He was able to participate in a limited fashion on Wednesday, and there's a chance that he will suit up and play in Week 6, though we won't know if that will be the case or not until later on in the week.
+Sun, Oct 18th 9:12am EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Mason Graham (knee/ankle) is not expected to play for the Cleveland Browns Sunday according to Adam Schefter. (Source: [Adam Schefter on Twitter](https://x.com/rapsheet/status/2111778050820243756?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Graham struggled to reach the practice field throughout the week for head coach Todd Monken and barring anything unforeseen will leave the Cleveland defensive front shorthanded against the Ravens Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Brenen Thompson](https://images.fantasypros.com/images/players/nfl/28133/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brenen-thompson.php)
-WR - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/brenen-thompson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brenen-thompson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brenen-thompson.php)
-[Brenen Thompson (quad) listed as limited Wednesday](https://www.fantasypros.com/nfl/news/613978/brenen-thompson-quad-listed-limited-wednesday.php)  
+[![Baker Mayfield](https://images.fantasypros.com/images/players/nfl/17237/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/baker-mayfield.php)
+QB - TB
+[» Rankings](https://www.fantasypros.com/nfl/players/baker-mayfield.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/baker-mayfield.php)  
+[» More News](https://www.fantasypros.com/nfl/news/baker-mayfield.php)
+[Baker Mayfield (thumb) could return in Week 7](https://www.fantasypros.com/nfl/news/614446/baker-mayfield-thumb-could-return-week-7.php)  
 
-Thu, Oct 15th 12:47am EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Brenen Thompson (quad) was listed as a limited participant at practice on Wednesday. (Source: [Los Angeles Chargers on Twitter](https://x.com/chargers/status/2110497495642234899))
-**_Fantasy Impact:_** Thompson was able to practice in a limited fashion on Wednesday. If he's active in Week 6, he could see more work than usual with Ladd McConkey (foot), Tre Harris' (hamstring), and Quentin Johnston (chest) all uncertain to play for the Chargers.
+Sun, Oct 18th 3:10am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+There’s reportedly “optimism” Baker Mayfield will return in Week 7 against the Panthers. (Source: [Tom Pelissero](https://tompelissero.substack.com/p/nfl-insider-notebook-week-6-chargers-trade-calls-dan-quinn-jalen-hurts?r=gf8mf&utm_medium=ios))
+**_Fantasy Impact:_** Mayfield didn’t practice this week, but he resumed throwing on Monday. His status will need to be monitored in practice next week. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Marquez Valdes-Scantling](https://images.fantasypros.com/images/players/nfl/17528/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php)
-WR - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/marquez-valdesscantling.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/marquez-valdesscantling.php)  
-[» More News](https://www.fantasypros.com/nfl/news/marquez-valdesscantling.php)
-[Marquez Valdes-Scantling (rib) limited Wednesday](https://www.fantasypros.com/nfl/news/613974/marquez-valdes-scantling-rib-limited-wednesday.php)  
+[![Alec Pierce](https://images.fantasypros.com/images/players/nfl/23791/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/alec-pierce.php)
+WR - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/alec-pierce.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/alec-pierce.php)  
+[» More News](https://www.fantasypros.com/nfl/news/alec-pierce.php)
+[Alec Pierce (heel) weeks away from returning](https://www.fantasypros.com/nfl/news/614445/alec-pierce-heel-weeks-away-from-returning.php)  
 
-Thu, Oct 15th 12:45am EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Marquez Valdes-Scantling (rib) was limited at practice on Wednesday. (Source: [Los Angeles Chargers on Twitter](https://x.com/chargers/status/2110497495642234899))
-**_Fantasy Impact:_** The veteran wasn't able to log a full practice on Wednesday, as he was left limited by a rib issue of some kind. He remains off of the fantasy radar moving forward, regardless of his injury status heading into Week 6.
+Sun, Oct 18th 3:09am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Colts WR Alec Pierce is still a few weeks away from a return to game action. (Source: [Tom Pelissero](https://tompelissero.substack.com/p/nfl-insider-notebook-week-6-chargers-trade-calls-dan-quinn-jalen-hurts?r=gf8mf&utm_medium=ios))
+**_Fantasy Impact:_** Pierce was able to get out of his cast earlier this week. He remains week-to-week. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Micah Parsons](https://images.fantasypros.com/images/players/nfl/19784/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/micah-parsons.php)
+LB - GB
+[» Rankings](https://www.fantasypros.com/nfl/players/micah-parsons.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/micah-parsons.php)  
+[» More News](https://www.fantasypros.com/nfl/news/micah-parsons.php)
+[Micah Parsons (knee) not practicing yet](https://www.fantasypros.com/nfl/news/614444/micah-parsons-knee-not-practicing-yet.php)  
+
+Sun, Oct 18th 3:08am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Packers EDGE Micah Parsons still isn’t practicing yet. (Source: [Tom Pelissero on Twitter](https://x.com/TomPelissero/status/2111441823432348054))
+**_Fantasy Impact:_** The earliest Parsons may return is Week 9 according to Tom Pelissero. The Packers will play at least a few games without him. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jacory Croskey-Merritt](https://images.fantasypros.com/images/players/nfl/27316/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jacory-croskeymerritt.php)
+RB - WAS
+[» Rankings](https://www.fantasypros.com/nfl/players/jacory-croskeymerritt.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jacory-croskeymerritt.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jacory-croskeymerritt.php)
+[Jacory Croskey-Merritt (groin) ruled out Monday ](https://www.fantasypros.com/nfl/news/614443/jacory-croskey-merritt-groin-ruled-out-monday.php)  
+
+Sun, Oct 18th 3:06am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jacory Croskey-Merritt has been ruled out for Monday's game against the 49ers. 
+**_Fantasy Impact:_** Croskey-Merritt was unable to practice this week. Rachaad White and Austin Ekeler will lead the Commanders backfield. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Stefon Diggs](https://images.fantasypros.com/images/players/nfl/13981/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/stefon-diggs.php)
+WR - WAS
+[» Rankings](https://www.fantasypros.com/nfl/players/stefon-diggs.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/stefon-diggs.php)  
+[» More News](https://www.fantasypros.com/nfl/news/stefon-diggs.php)
+[Stefon Diggs (hamstring) listed questionable Monday ](https://www.fantasypros.com/nfl/news/614442/stefon-diggs-hamstring-listed-questionable-monday.php)  
+
+Sun, Oct 18th 3:05am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Stefon Diggs is listed as questionable for Monday's game against the 49ers. 
+**_Fantasy Impact:_** Diggs returned to practice on Friday. He'll be a game-time decision on Monday, but he seems to be trending in the right direction. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Roman Wilson](https://images.fantasypros.com/images/players/nfl/28896/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/roman-wilson-wr.php)
+WR - PIT
+[» Rankings](https://www.fantasypros.com/nfl/players/roman-wilson-wr.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/roman-wilson-wr.php)  
+[» More News](https://www.fantasypros.com/nfl/news/roman-wilson-wr.php)
+[Roman Wilson (finger) placed on IR](https://www.fantasypros.com/nfl/news/614441/roman-wilson-finger-placed-on-ir.php)  
+
+Sun, Oct 18th 3:04am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Steelers placed Roman Wilson on injured reserve.
+**_Fantasy Impact:_** Wilson injured his finger last week. He will miss at least the next four games. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Marcus Mariota](https://images.fantasypros.com/images/players/nfl/13890/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/marcus-mariota.php)
+QB - WAS
+[» Rankings](https://www.fantasypros.com/nfl/players/marcus-mariota.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/marcus-mariota.php)  
+[» More News](https://www.fantasypros.com/nfl/news/marcus-mariota.php)
+[Marcus Mariota (knee) ruled out Monday ](https://www.fantasypros.com/nfl/news/614440/marcus-mariota-knee-ruled-out-monday.php)  
+
+Sun, Oct 18th 3:03am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Marcus Mariota has been ruled out for Monday's game against the 49ers. 
+**_Fantasy Impact:_** Mariota will miss his second straight game. Athan Kaliakmanis will continue to serve as the primary backup to Jayden Daniels. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![A.J. Brown](https://images.fantasypros.com/images/players/nfl/18218/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/aj-brown.php)
+WR - NE
+[» Rankings](https://www.fantasypros.com/nfl/players/aj-brown.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/aj-brown.php)  
+[» More News](https://www.fantasypros.com/nfl/news/aj-brown.php)
+[A.J. Brown (ankle) activated from IR](https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php)  
+
+Sun, Oct 18th 3:02am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Patriots activated A.J. Brown from injured reserve.
+**_Fantasy Impact:_** Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Deebo Samuel Sr.](https://images.fantasypros.com/images/players/nfl/18244/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/deebo-samuel.php)
+WR - SF
+[» Rankings](https://www.fantasypros.com/nfl/players/deebo-samuel.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/deebo-samuel.php)  
+[» More News](https://www.fantasypros.com/nfl/news/deebo-samuel.php)
+[Deebo Samuel Sr. (hamstring) ruled out Monday ](https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php)  
+
+Sun, Oct 18th 3:01am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Deebo Samuel Sr. has been ruled out for Monday's game against the Commanders. 
+**_Fantasy Impact:_** Samuel will miss at least one game as expected. He remains week-to-week. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mike Evans](https://images.fantasypros.com/images/players/nfl/12119/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mike-evans.php)
+WR - SF
+[» Rankings](https://www.fantasypros.com/nfl/players/mike-evans.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/mike-evans.php)  
+[» More News](https://www.fantasypros.com/nfl/news/mike-evans.php)
+[Mike Evans (ribs/Achilles) listed questionable Monday ](https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php)  
+
+Sun, Oct 18th 3:00am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mike Evans has been listed as questionable for Monday's game against the Commanders. 
+**_Fantasy Impact:_** Evans was unable to practice through Friday. He will be a game-time decision on Monday. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Christian Kirk](https://images.fantasypros.com/images/players/nfl/17268/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/christian-kirk.php)
+WR - SF
+[» Rankings](https://www.fantasypros.com/nfl/players/christian-kirk.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/christian-kirk.php)  
+[» More News](https://www.fantasypros.com/nfl/news/christian-kirk.php)
+[Christian Kirk (calf) listed questionable Monday ](https://www.fantasypros.com/nfl/news/614436/christian-kirk-calf-listed-questionable-monday.php)  
+
+Sun, Oct 18th 2:59am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Christian Kirk has been listed as questionable for Monday's game against the Commanders. 
+**_Fantasy Impact:_** Kirk could make his return from injured reserve. We likely won't know his status till Monday. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ja'Kobi Lane](https://images.fantasypros.com/images/players/nfl/27337/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jakobi-lane.php)
+WR - BAL
+[» Rankings](https://www.fantasypros.com/nfl/players/jakobi-lane.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jakobi-lane.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jakobi-lane.php)
+[Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland](https://www.fantasypros.com/nfl/news/614435/jakobi-lane.php)  
+
+Sat, Oct 17th 4:45pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Ja'Kobi Lane (wrist) has been activated from IR, clearing the way for him to return against Cleveland. (Source: [Baltimore Ravens on X](https://x.com/Ravens/status/2111548724086280447?s=20))
+**_Fantasy Impact:_** Lane has been out since fracturing his wrist in Week 1, so it will be interesting to see what his snap counts and route shares look like after the IR stint. The team praised him all offseason and focused on him during his brief playing time in Week 1, so hopefully he will be able to find himself a decent role as the WR2 of the offense.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php), [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Caleb Williams](https://images.fantasypros.com/images/players/nfl/23084/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/caleb-williams.php)
+QB - CHI
+[» Rankings](https://www.fantasypros.com/nfl/players/caleb-williams.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/caleb-williams.php)  
+[» More News](https://www.fantasypros.com/nfl/news/caleb-williams.php)
+[Caleb Williams (hamstring) starting for the Bears Sunday](https://www.fantasypros.com/nfl/news/614434/caleb-williams-hamstring-starting-bears-sunday.php)  
+
+Sat, Oct 17th 4:37pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Caleb Williams (hamstring) is the starter for the Bears on Sunday against the Falcons. After a few weeks' absence, the franchise QB is back. (Source: [Ian Rapoport on X](https://x.com/RapSheet/status/2111555381755597109?s=20))
+**_Fantasy Impact:_** Williams was initially questionable to play, but the Bears are now planning on getting him back in the lineup after a week of practice where he took starter reps. It will be interesting to see Caleb in a more "regular" game and how it affects the pass catchers, who have only played with Caleb in one normal game, and even that "normal" game saw copious amounts of production from the running backs. 
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Hurts](https://images.fantasypros.com/images/players/nfl/19275/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jalen-hurts.php)
+QB - PHI
+[» Rankings](https://www.fantasypros.com/nfl/players/jalen-hurts.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jalen-hurts.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jalen-hurts.php)
+[Jalen Hurts (blood clot) placed on IR](https://www.fantasypros.com/nfl/news/614433/jalen-hurts-blood-clot-placed-on-ir.php)  
+
+Sat, Oct 17th 4:31pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Jalen Hurts (blood clot) has been placed on IR due to a blood clot. (Source: [Ian Rapoport on X](https://x.com/rapsheet/status/2111547010021212415?s=46&t=QV8OSAAeuchGrkatgNqSsQ))
+**_Fantasy Impact:_** At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php), [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Pat Freiermuth](https://images.fantasypros.com/images/players/nfl/20163/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/pat-freiermuth.php)
+TE - PIT
+[» Rankings](https://www.fantasypros.com/nfl/players/pat-freiermuth.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/pat-freiermuth.php)  
+[» More News](https://www.fantasypros.com/nfl/news/pat-freiermuth.php)
+[Pat Freiermuth (calf) now questionable Sunday ](https://www.fantasypros.com/nfl/news/614432/pat-freiermuth-calf-now-questionable-sunday.php)  
+
+Sat, Oct 17th 12:41pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Pat Freiermuth has been added to the injury report as questionable for Sunday’s game against the Buccaneers. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2111493011318149142))
+**_Fantasy Impact:_** Freiermuth was a late addition to the injury report with a calf injury. His status will need to be monitored Sunday morning. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![DK Metcalf](https://images.fantasypros.com/images/players/nfl/18219/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dk-metcalf.php)
+WR - PIT
+[» Rankings](https://www.fantasypros.com/nfl/players/dk-metcalf.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/dk-metcalf.php)  
+[» More News](https://www.fantasypros.com/nfl/news/dk-metcalf.php)
+[DK Metcalf (illness) off injury report Sunday ](https://www.fantasypros.com/nfl/news/614431/dk-metcalf-illness-off-injury-report-sunday.php)  
+
+Sat, Oct 17th 12:40pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+DK Metcalf is off the injury report for Sunday's game against the Buccaneers. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2111493011318149142))
+**_Fantasy Impact:_** Metcalf had been listed as questionable with an illness. He'll be good to go with the Steelers wide receiver room depleted. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mykel Williams](https://images.fantasypros.com/images/players/nfl/27013/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mykel-williams.php)
+DT - SF
+[» Rankings](https://www.fantasypros.com/nfl/players/mykel-williams.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/mykel-williams.php)  
+[» More News](https://www.fantasypros.com/nfl/news/mykel-williams.php)
+[Mykel Williams (knee) limited in practice Friday ](https://www.fantasypros.com/nfl/news/614400/mykel-williams-knee-limited-practice-friday.php)  
+
+Sat, Oct 17th 1:19am EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mykel Williams was limited in practice on Friday. (Source: [Matt Maiocco on Twitter](https://x.com/MaioccoNBCS/status/2111222067412770869))
+**_Fantasy Impact:_** Williams will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -297,5 +294,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NFL Home Page ](https://www.fantasypros.com/nfl/)[ Who Should I Start? ](https://www.fantasypros.com/nfl/start/)[ NFL Draft Coverage ](https://www.fantasypros.com/nfl/draft-coverage.php)[ Boom Bust Player Report ](https://www.fantasypros.com/nfl/reports/boom-bust.php)[ Fantasy Football Leaders ](https://www.fantasypros.com/nfl/reports/leaders/)[ Quarterback Points Distribution Analysis ](https://www.fantasypros.com/nfl/reports/points-distribution/qb.php)[ Most Targeted Players ](https://www.fantasypros.com/nfl/reports/targets/)[ Fantasy Roster Management Tools ](https://www.fantasypros.com/nfl/roster-tools/)[ 20-Yard Shuttle Combine Results ](https://www.fantasypros.com/nfl/stats/combine/20-yard-shuttle.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989a9b9e96999b98989866uokewi0e0y646e6g6m60666g646464)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979b9897969c9a9b969e66uokewi0e0y626g6462606i6e6g606m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

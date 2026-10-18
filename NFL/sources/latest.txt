@@ -1,13 +1,13 @@
-# NFL sources | season 2026 | week 6 | updated 2026-10-15 10:02 ET
+# NFL sources | season 2026 | week 6 | updated 2026-10-18 09:30 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-06/primer_p1.md                     53,955 chars                       https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/
-OK      NFL/sources/week-06/primer_p2.md                     48,422 chars                       https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-06/primer_p3.md                     45,114 chars                       https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-06/primer_p4.md                     24,084 chars                       https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/4/
-SHORT   NFL/sources/week-06/fantasypoints_startsit.md        0 words of article text - not published, paywalled or blocked? https://www.fantasypoints.com/nfl/articles/2026/week-6-fantasy-football-start-em-sit-em-advice
-FAILED  NFL/sources/week-06/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026
+OK      NFL/sources/week-06/primer_p1.md                     UPDATED (changed since 2026-10-15 10:02) 55,458 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/
+OK      NFL/sources/week-06/primer_p2.md                     UPDATED (changed since 2026-10-15 10:02) 49,334 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-06/primer_p3.md                     UPDATED (changed since 2026-10-15 10:02) 46,977 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-06/primer_p4.md                     UPDATED (changed since 2026-10-15 10:02) 23,547 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/4/
+OK      NFL/sources/week-06/fantasypoints_startsit.md        UPDATED (changed since 2026-10-15 10:02) 73,058 chars https://www.fantasypoints.com/nfl/articles/2026/week-6-fantasy-football-start-em-sit-em-advice
+OK      NFL/sources/week-06/rotoballer_startsit.md           138,998 chars                      https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026
 FAILED  NFL/sources/week-06/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk6.html
-OK      NFL/sources/week-06/4for4_startsit.md                66,503 chars                       https://www.4for4.com/2026/w6/fantasy-football-week-6-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-06/fantasypros_news.md              25,848 chars                       https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-06/4for4_oline.md                   33,670 chars                       https://www.4for4.com/2026/w6/nfl-offensive-line-rankings-week-6-matchups-exploit
+OK      NFL/sources/week-06/4for4_startsit.md                UPDATED (changed since 2026-10-15 10:02) 70,611 chars https://www.4for4.com/2026/w6/fantasy-football-week-6-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-06/fantasypros_news.md              UPDATED (changed since 2026-10-15 10:02) 27,910 chars https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-06/4for4_oline.md                   UPDATED (changed since 2026-10-15 10:02) 34,301 chars https://www.4for4.com/2026/w6/nfl-offensive-line-rankings-week-6-matchups-exploit
