@@ -1,9 +1,10 @@
-# NFL transcripts | week 6 | updated 2026-10-17 21:16 ET
+# NFL transcripts | week 6 | updated 2026-10-18 07:47 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 73 files this week:
+# 79 files this week:
 NFL/transcripts/week-06/06-42WRzKQI_ActionNetwork_NFL_Futures_Betting_Trading_Best_NFC_Divisional_Bets_MVP_OROY_Predicti.txt
 NFL/transcripts/week-06/0PzVHjTKtQ0_SGPN_Saints_vs_Giants_Prediction_Picks_Best_Bets_NFL_Week_6.txt
 NFL/transcripts/week-06/0gSgMflvVWY_TheAudible_NFL_Week_6_Thursday_Night_Football_LIVE_with_Jeff_Bell_Mike_Kashuba_an.txt
+NFL/transcripts/week-06/0kpUirLj4QE_DFSArmy_NFL_DFS_Week_6_Fanduel_BobbyWoww_Best_Plays.txt
 NFL/transcripts/week-06/1UJ_xGRRwv8_DFSArmy_NFL_DFS_Week_6_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-06/1q6lF8Ym79E_ActionNetwork_Bills_vs_Raiders_Prediction_Is_Buffalo_a_TRAP_Bet_NFL_Week_6.txt
 NFL/transcripts/week-06/2T-Cm51B5bY_TheAudible_Fantasy_Football_WAIVER_WIRE_Week_6_Who_Should_You_ADD_DROP_TRUST_The.txt
@@ -18,6 +19,7 @@ NFL/transcripts/week-06/C8cDtGmsRoc_ActionNetwork_NFL_Week_6_Best_Bets_Player_Pr
 NFL/transcripts/week-06/Dh2Mb_4yDAo_ShipItNation_NFL_DFS_Week_6_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_and.txt
 NFL/transcripts/week-06/EJ3OWniOlos_SGPN_Seahawks_vs_Broncos_Prediction_Picks_Best_Bets_NFL_Week_6.txt
 NFL/transcripts/week-06/EwloL7KsqVo_SGPN_Chargers_vs_Chiefs_Prediction_Picks_Best_Bets_NFL_Week_6.txt
+NFL/transcripts/week-06/FjPHgg0-yqM_TheAudible_Week_6_Ask_Me_Anything_Livestream_with_Bob_Harris.txt
 NFL/transcripts/week-06/Fx96mWC7xQQ_SGPN_NFL_Week_6_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-06/H0xt9AhesI8_DFSArmy_NFL_DFS_Week_6_Strategy_for_Fanduel_2026.txt
 NFL/transcripts/week-06/H3T8TXGa0Vg_PlayerProfiler_Jalen_Hurts_Lamar_Jackson_Panic_Week_6_Fantasy_Football_Fixes_with_Sam.txt
@@ -30,6 +32,7 @@ NFL/transcripts/week-06/KbZwarvfZvc_ShipItNation_NFL_DFS_Week_6_Leverage_Lane_Dr
 NFL/transcripts/week-06/LZ7cjmPTlgI_SGPNPropcast_NFL_Week_6_Player_Props_10_16_26.txt
 NFL/transcripts/week-06/LivUu6EONTU_SGPN_Ravens_vs_Browns_Prediction_Picks_Best_Bets_NFL_Week_6.txt
 NFL/transcripts/week-06/NnSrEoBfSYQ_ActionNetwork_Top_Week_6_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
+NFL/transcripts/week-06/PJug0k8tISc_PlayerProfiler_These_players_will_BOOM_in_Week_6_NFL_Fantasy_Football_Start_and_Sits.txt
 NFL/transcripts/week-06/SxCjp5YpkEs_PlayerProfiler_Kendre_Miller_Must_Add_Fantasy_Football_Week_6_Waiver_Wire.txt
 NFL/transcripts/week-06/UgEiQb1PDn0_TheAudible_What_do_we_think_we_know_five_weeks_into_the_fantasy_football_season.txt
 NFL/transcripts/week-06/VCFSp-SD1c0_PlayerProfiler_Breaking_Down_Real_life_Dynasty_Trades_with_Coach_Retlaff.txt
@@ -49,9 +52,11 @@ NFL/transcripts/week-06/fwhqhHNRJK0_Stokastic_NFL_DFS_Sims_Tournament_Strategy_W
 NFL/transcripts/week-06/gO7R7j44fEw_TheAudible_NFL_Week_6_PREVIEW_Part_2_Can_the_Commanders_STOP_Brock_Purdy_Cowboys.txt
 NFL/transcripts/week-06/gfb6InHf0I8_FootballersDFS_Week_6_NFL_Preview_The_Cash_Man_Returns_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-06/gt5TLPTxxv8_Footballers_Starts_of_the_Week_Week_6_Games_Hurts_Hurt_Fantasy_Football_2026_Ep_19.txt
+NFL/transcripts/week-06/hUJjqbc8og4_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_6_on_DraftKings_FanDuel.txt
 NFL/transcripts/week-06/hiVv5SJiGr8_TheAudible_Fantasy_Football_ADP_All_Stars_Who_s_FOR_REAL_After_5_Weeks_On_The_Hot.txt
 NFL/transcripts/week-06/iWT2XfXagXo_SGPN_NFL_Picks_Week_6_w_DougStanhope_BrendonWalsh_SeanTGreen.txt
 NFL/transcripts/week-06/icBSyNFfuLI_PlayerProfiler_Fantasy_Football_Week_6_MUST_BUY_Trade_Targets_Starts_Sits_The_Game_Pl.txt
+NFL/transcripts/week-06/ifGb7JzGmfw_PlayerProfiler_Plays_of_the_Week_Fantasy_Football_Week_6_Sleepers_and_Start_Sit_Advic.txt
 NFL/transcripts/week-06/ji7mGtqc9Ys_ActionNetwork_Steelers_vs_Buccaneers_Picks_Predictions_NFL_Week_6_Best_Bets.txt
 NFL/transcripts/week-06/l-MtkUdZvDE_RotoGrinders_6_Great_NFL_Week_6_DFS_Picks_for_DraftKings_FanDuel.txt
 NFL/transcripts/week-06/lHcp4z_T2po_SGPN_Titans_vs_Colts_Prediction_Picks_Best_Bets_NFL_Week_6.txt
@@ -61,6 +66,7 @@ NFL/transcripts/week-06/mzT6ReHpq2Q_ActionNetwork_NFL_Week_6_Preview_Picks_For_E
 NFL/transcripts/week-06/nbiP1m8loHo_SGPNPropcast_NFL_Week_6_Thursday_Night_Football_Player_Props_10_14_26.txt
 NFL/transcripts/week-06/ne3vbVSOpVY_PlayerProfiler_Fantasy_Football_Week_6_Panic_Moves_You_Must_Make_Now.txt
 NFL/transcripts/week-06/noaPop8udqA_ActionNetwork_Cowboys_vs_Packers_The_BEST_BET_for_Sunday_Night_Football.txt
+NFL/transcripts/week-06/oBBtpR3X_3g_ActionNetwork_Commanders_vs_49ers_Picks_Predictions_Monday_Night_Football_Week_6.txt
 NFL/transcripts/week-06/oN1cALnUUjs_DFSArmy_10_Week_6_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt
 NFL/transcripts/week-06/qYEDoBm7FJo_SGPN_Texans_vs_Jaguars_Prediction_Picks_Best_Bets_NFL_Week_6.txt
 NFL/transcripts/week-06/qpe7GNYF8tg_SGPN_Bills_vs_Raiders_Prediction_Picks_Best_Bets_NFL_Week_6.txt
@@ -79,23 +85,24 @@ NFL/transcripts/week-06/yLrvgvxUD7o_SGPN_Bears_vs_Falcons_Prediction_Picks_Best_
 NONE    channel Footballers: nothing new this week (or everything already saved)
 NONE    channel FootballersDFS: nothing new this week (or everything already saved)
 NONE    channel SwankTank: nothing new this week (or everything already saved)
-NOCAPS  RotoGrinders hUJjqbc8og4 NFL DFS Tournament Strategy for Week 6 on DraftKings & FanDu  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-06/hUJjqbc8og4_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_6_on_DraftKings_FanDuel.txt  (9,660 words)
 UPCOMING RotoGrinders 0klRQA6MEus Commanders vs. 49ers MNF Showdown! - NFL DFS Picks & Strateg  (not aired yet - scheduled for 10/19/26 7:30PM)
 UPCOMING RotoGrinders eiVvXdVyq94 Cowboys vs. Packers SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/18/26 7:30PM)
 UPCOMING RotoGrinders yw354hAd4p8 LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 10/18/26 9:30AM)
-NEW     NFL/transcripts/week-06/KbZwarvfZvc_ShipItNation_NFL_DFS_Week_6_Leverage_Lane_DraftKings_FanDuel_Strategy.txt  (21,070 words, via Groq)
+UPCOMING ShipItNation vNWk2zdSEOU Cowboys vs Packers NFL DFS Showdown | SNF Week 6 Sunday Swea  (not aired yet - scheduled for 10/18/26 6:00PM)
+UPCOMING ShipItNation kCnKw0nQapU NFL DFS Week 6 Contrarian Constructions | Main Slate DraftKi  (not aired yet - scheduled for 10/18/26 11:30AM)
+UPCOMING ShipItNation F3XYshjfX1g NFL DFS Week 6 Sunday Shippers | Main Slate DraftKings & Fan  (not aired yet - scheduled for 10/18/26 9:00AM)
 NONE    channel SGPN: nothing new this week (or everything already saved)
 NONE    channel SGPNPropcast: nothing new this week (or everything already saved)
 UPCOMING ActionNetwork foaxuotRwPw NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (not aired yet - scheduled for 10/18/26 11:00AM)
-DEFER   ActionNetwork oBBtpR3X_3g Commanders vs. 49ers Picks & Predictions | Monday Night Foot  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   DFSArmy 0kpUirLj4QE NFL DFS Week 6 Fanduel | BobbyWoww Best Plays  (YouTube rate limit hit earlier this run)
-NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
-DEFER   TheAudible FjPHgg0-yqM Week 6 Ask Me Anything Livestream with Bob Harris  (YouTube rate limit hit earlier this run)
-DEFER   PlayerProfiler ifGb7JzGmfw Plays of the Week - Fantasy Football Week 6 Sleepers and Sta  (YouTube rate limit hit earlier this run)
-DEFER   PlayerProfiler PJug0k8tISc These players will BOOM in Week 6! NFL Fantasy Football Star  (YouTube rate limit hit earlier this run)
-DEFER   PlayerProfiler QJ4c8inAomM Week 6 Start/Sits with The Podfather and Chuck Bass  (YouTube rate limit hit earlier this run)
-DEFER   Stokastic RKF8_8Qqq3M NFL DFS Live Before Lock | Week 6 NFL DFS Picks for DraftKin  (YouTube rate limit hit earlier this run)
-DEFER   Stokastic 6DWTLqR1lzA NFL DFS Showdown Live Before Lock | Cowboys-Packers SNF Week  (YouTube rate limit hit earlier this run)
-DEFER   Stokastic LPedS0SehfY Commanders-49ers Showdown Strategy MNF Week 6 DFS Picks | NF  (YouTube rate limit hit earlier this run)
-DEFER   Stokastic 477oTROzFoY NFL DFS Showdown Live Before Lock | Commanders-49ers MNF Wee  (YouTube rate limit hit earlier this run)
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NEW     NFL/transcripts/week-06/oBBtpR3X_3g_ActionNetwork_Commanders_vs_49ers_Picks_Predictions_Monday_Night_Football_Week_6.txt  (1,100 words)
+NEW     NFL/transcripts/week-06/0kpUirLj4QE_DFSArmy_NFL_DFS_Week_6_Fanduel_BobbyWoww_Best_Plays.txt  (6,815 words)
+UPCOMING DFSArmyLive NdJw1VczQIg NFL Week 6 | DFS Pre-Lock Show | DFS Army  (not aired yet - scheduled for 10/18/26 11:00AM)
+NEW     NFL/transcripts/week-06/FjPHgg0-yqM_TheAudible_Week_6_Ask_Me_Anything_Livestream_with_Bob_Harris.txt  (11,199 words)
+NEW     NFL/transcripts/week-06/ifGb7JzGmfw_PlayerProfiler_Plays_of_the_Week_Fantasy_Football_Week_6_Sleepers_and_Start_Sit_Advic.txt  (8,859 words)
+NEW     NFL/transcripts/week-06/PJug0k8tISc_PlayerProfiler_These_players_will_BOOM_in_Week_6_NFL_Fantasy_Football_Start_and_Sits.txt  (11,032 words)
+UPCOMING PlayerProfiler QJ4c8inAomM Week 6 Start/Sits with The Podfather and Chuck Bass  (not aired yet - scheduled for 10/18/26 9:00AM)
+UPCOMING Stokastic RKF8_8Qqq3M NFL DFS Live Before Lock | Week 6 NFL DFS Picks for DraftKin  (not aired yet - scheduled for 10/18/26 9:30AM)
+UPCOMING Stokastic 6DWTLqR1lzA NFL DFS Showdown Live Before Lock | Cowboys-Packers SNF Week  (not aired yet - scheduled for 10/18/26 7:20PM)
+UPCOMING Stokastic LPedS0SehfY Commanders-49ers Showdown Strategy MNF Week 6 DFS Picks | NF  (not aired yet - scheduled for 10/19/26 10:00AM)
+UPCOMING Stokastic 477oTROzFoY NFL DFS Showdown Live Before Lock | Commanders-49ers MNF Wee  (not aired yet - scheduled for 10/19/26 7:15PM)
