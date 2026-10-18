@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-18 09:30 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-18 11:46 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Tyler Warren](https://images.fantasypros.com/images/players/nfl/26434/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-warren.php)
+TE - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/tyler-warren.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tyler-warren.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tyler-warren.php)
+[Tyler Warren (groin) officially inactive for Week 6](https://www.fantasypros.com/nfl/news/614489/tyler-warren-groin-officially-inactive-week-6.php)  
+
+Sun, Oct 18th 11:37am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Colts TE Tyler Warren (groin) is officially inactive for Week 6.
+**_Fantasy Impact:_** Warren was a late addition to the injury report this week and was only able to practice in a limited capacity Friday. Mo Alie-Cox will see the bulk of the playing time at tight end against the Titans. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tyjae Spears](https://images.fantasypros.com/images/players/nfl/25323/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyjae-spears.php)
+RB - TEN
+[» Rankings](https://www.fantasypros.com/nfl/players/tyjae-spears.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tyjae-spears.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tyjae-spears.php)
+[Tyjae Spears (knee) officially active for Week 6](https://www.fantasypros.com/nfl/news/614488/tyjae-spears-knee-officially-active-week-6.php)  
+
+Sun, Oct 18th 11:33am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Titans RB Tyjae Spears (knee) is officially active for a Week 6 matchup with the Colts. 
+**_Fantasy Impact:_** Spears was considered questionable to play as he continues to deal with a minor knee injury. Fantasy managers should expect both Spears and Tony Pollard to be involved in the Titans' backfield. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Quinshon Judkins](https://images.fantasypros.com/images/players/nfl/25391/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/quinshon-judkins.php)
+RB - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/quinshon-judkins.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/quinshon-judkins.php)  
+[» More News](https://www.fantasypros.com/nfl/news/quinshon-judkins.php)
+[Quinshon Judkins (ankle) will not play Sunday ](https://www.fantasypros.com/nfl/news/614487/quinshon-judkins-ankle-will-not-play-sunday.php)  
+
+Sun, Oct 18th 11:30am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Browns RB Quinshon Judkins (ankle) will not play against the Ravens Sunday. (Source: [Adam Schefter on Twitter ](https://x.com/AdamSchefter/status/2111841218472632613))
+**_Fantasy Impact:_** Judkins was listed as questionable to play this week and only practiced Friday for the Browns. With Judkins sidelined, Jaleel McLaughlin and Audric Estime will see the bulk of the playing time at running back for the Browns. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Devin Singletary](https://images.fantasypros.com/images/players/nfl/18280/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/devin-singletary.php)
 RB - NYG
 [» Rankings](https://www.fantasypros.com/nfl/players/devin-singletary.php)  
@@ -240,48 +282,6 @@ By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.p
 Jalen Hurts (blood clot) has been placed on IR due to a blood clot. (Source: [Ian Rapoport on X](https://x.com/rapsheet/status/2111547010021212415?s=46&t=QV8OSAAeuchGrkatgNqSsQ))
 **_Fantasy Impact:_** At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php), [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Pat Freiermuth](https://images.fantasypros.com/images/players/nfl/20163/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/pat-freiermuth.php)
-TE - PIT
-[» Rankings](https://www.fantasypros.com/nfl/players/pat-freiermuth.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/pat-freiermuth.php)  
-[» More News](https://www.fantasypros.com/nfl/news/pat-freiermuth.php)
-[Pat Freiermuth (calf) now questionable Sunday ](https://www.fantasypros.com/nfl/news/614432/pat-freiermuth-calf-now-questionable-sunday.php)  
-
-Sat, Oct 17th 12:41pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Pat Freiermuth has been added to the injury report as questionable for Sunday’s game against the Buccaneers. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2111493011318149142))
-**_Fantasy Impact:_** Freiermuth was a late addition to the injury report with a calf injury. His status will need to be monitored Sunday morning. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![DK Metcalf](https://images.fantasypros.com/images/players/nfl/18219/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dk-metcalf.php)
-WR - PIT
-[» Rankings](https://www.fantasypros.com/nfl/players/dk-metcalf.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/dk-metcalf.php)  
-[» More News](https://www.fantasypros.com/nfl/news/dk-metcalf.php)
-[DK Metcalf (illness) off injury report Sunday ](https://www.fantasypros.com/nfl/news/614431/dk-metcalf-illness-off-injury-report-sunday.php)  
-
-Sat, Oct 17th 12:40pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-DK Metcalf is off the injury report for Sunday's game against the Buccaneers. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2111493011318149142))
-**_Fantasy Impact:_** Metcalf had been listed as questionable with an illness. He'll be good to go with the Steelers wide receiver room depleted. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Mykel Williams](https://images.fantasypros.com/images/players/nfl/27013/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mykel-williams.php)
-DT - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/mykel-williams.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/mykel-williams.php)  
-[» More News](https://www.fantasypros.com/nfl/news/mykel-williams.php)
-[Mykel Williams (knee) limited in practice Friday ](https://www.fantasypros.com/nfl/news/614400/mykel-williams-knee-limited-practice-friday.php)  
-
-Sat, Oct 17th 1:19am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Mykel Williams was limited in practice on Friday. (Source: [Matt Maiocco on Twitter](https://x.com/MaioccoNBCS/status/2111222067412770869))
-**_Fantasy Impact:_** Williams will need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
   * [Next »](https://www.fantasypros.com/nfl/player-news.php?page=2)
