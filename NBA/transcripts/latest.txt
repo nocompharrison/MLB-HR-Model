@@ -1,0 +1,35 @@
+# NBA transcripts | 2026-10-20 | updated 2026-10-20 16:03 ET
+# raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
+# 8 files in NBA/transcripts/2026-10-20:
+NBA/transcripts/2026-10-20/2xyx3XU-Jkk_WagerTalk_Lakers_vs_Warriors_Blazers_vs_Suns_Best_Bets_Predictions_NBA_Picks_10.txt
+NBA/transcripts/2026-10-20/EloUdQ2ycOI_Stokastic_NBA_DFS_Strategy_Tuesday_10_20_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
+NBA/transcripts/2026-10-20/Mu2VipmHwDw_ActionNetwork_How_To_Bet_On_The_NBA_Understanding_Models_Line_Movement_Live_Betting.txt
+NBA/transcripts/2026-10-20/QebLkBZTRq4_LockedOnNBA_Ranking_ALL_30_NBA_Teams_Our_Official_2026_27_Tier_List.txt
+NBA/transcripts/2026-10-20/jtlsYkg8S7g_ActionNetwork_NBA_Opening_Night_Picks_Best_Bets_2026_NBA_Predictions.txt
+NBA/transcripts/2026-10-20/t9CCkGZMrWk_WagerTalk_NBA_Opening_Night_Picks_Best_Bets_Profit_Picks_10_20.txt
+NBA/transcripts/2026-10-20/tavFELtv7Uw_LockedOnNBA_BUY_OR_SELL_NBA_PREVIEW_Is_the_East_WIDE_OPEN_Who_Can_ACTUALLY_Win_the.txt
+NBA/transcripts/2026-10-20/y4S4rzQlAX4_LockedOnNBA_LeBron_vs_Knicks_Wemby_vs_Thunder_NBA_Opening_Day_Preview.txt
+
+# this run:
+UPCOMING ActionNetwork S5Qha4wwI8Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (not aired yet - scheduled for 10/20/26 11:00PM)
+NEW     NBA/transcripts/2026-10-20/jtlsYkg8S7g_ActionNetwork_NBA_Opening_Night_Picks_Best_Bets_2026_NBA_Predictions.txt  (6,684 words)
+NEW     NBA/transcripts/2026-10-20/Mu2VipmHwDw_ActionNetwork_How_To_Bet_On_The_NBA_Understanding_Models_Line_Movement_Live_Betting.txt  (11,817 words)
+NONE    channel SGPN: nothing new in the date window (or everything already saved)
+NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
+NONE    channel VSiN: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-20/t9CCkGZMrWk_WagerTalk_NBA_Opening_Night_Picks_Best_Bets_Profit_Picks_10_20.txt  (4,555 words)
+NOCAPS  WagerTalk HwLOROil54w NBA Opening Night Picks & Best Bets | Profit Picks 10/20 📱  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-10-20/2xyx3XU-Jkk_WagerTalk_Lakers_vs_Warriors_Blazers_vs_Suns_Best_Bets_Predictions_NBA_Picks_10.txt  (2,233 words)
+NOCAPS  RotoGrinders _yhanpACCqg NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/20/2  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  ShipItNation Bw99t6z-rX4 NBA DFS Process | October 20, 2026 | DraftKings & FanDuel Pi  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.2h ago))
+NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+NOCAPS  DFSArmyLive tJjOugLV0WE NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  Stokastic xgLMEsjYELo NBA DFS Live Before Lock (Tuesday 10/20/26) | DraftKings & F  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.4h ago))
+NEW     NBA/transcripts/2026-10-20/EloUdQ2ycOI_Stokastic_NBA_DFS_Strategy_Tuesday_10_20_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt  (8,495 words)
+UPCOMING Stokastic jvhFFfDSzys NBA DFS Strategy Wednesday 10/21/26 | DraftKings & FanDuel N  (not aired yet - scheduled for 10/21/26 9:00AM)
+UPCOMING Stokastic dt_H1HMYjik NBA DFS Live Before Lock (Wednesday 10/21/26) | DraftKings &  (not aired yet - scheduled for 10/21/26 6:00PM)
+NONE    channel RotoWire: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-20/y4S4rzQlAX4_LockedOnNBA_LeBron_vs_Knicks_Wemby_vs_Thunder_NBA_Opening_Day_Preview.txt  (7,322 words)
+NEW     NBA/transcripts/2026-10-20/tavFELtv7Uw_LockedOnNBA_BUY_OR_SELL_NBA_PREVIEW_Is_the_East_WIDE_OPEN_Who_Can_ACTUALLY_Win_the.txt  (7,909 words)
+NEW     NBA/transcripts/2026-10-20/QebLkBZTRq4_LockedOnNBA_Ranking_ALL_30_NBA_Teams_Our_Official_2026_27_Tier_List.txt  (15,157 words)
+NONE    channel HoopBall: nothing new in the date window (or everything already saved)
