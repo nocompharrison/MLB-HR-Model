@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-october-21 | fetched: 2026-10-21 16:50 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-october-21 | fetched: 2026-10-21 17:04 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -30,7 +30,7 @@ _Please note: lines and projections are subject to change throughout the day aft
 _Bucks at Wizards, 7:10 p.m. ET_
 To Record 12+ Rebounds
 [Anthony Davis](https://sportsbook.fanduel.com/teams/nba/roster/anthony-davis-2137)
--106
++116
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/milwaukee-bucks-@-washington-wizards-35937402)
 Odds/lines subject to change
@@ -101,13 +101,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cody Brown’s 11-Leg NBA Parlay Player Prop Picks for Wednesday’s Full Slate](https://www.fanduel.com/research/cody-brown-s-11-leg-nba-parlay-player-prop-picks-for-wednesday-s-full-slate)
+14m
+Cody Brown’s +3374 parlay pulls one player prop from every game on Wednesday’s NBA slate, from Anthony Edwards to Stephen Curry. See every leg of the ticket.
+[](https://www.fanduel.com/research/cody-brown-s-11-leg-nba-parlay-player-prop-picks-for-wednesday-s-full-slate)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Cody Brown’s NBA Wednesday Predictions & Picks For Every Game for Tonight’s Slate](https://www.fanduel.com/research/cody-brown-s-nba-wednesday-predictions-and-picks-for-every-game-for-tonight-s-slate)
-10m
+23m
 Cody Brown breaks down his picks for all 11 NBA games on Wednesday’s slate, from Hawks-Magic to Kings-Clippers. See every winner prediction for tonight.
 [](https://www.fanduel.com/research/cody-brown-s-nba-wednesday-predictions-and-picks-for-every-game-for-tonight-s-slate)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions Today: 4 NBA Picks and Best Bets for Wednesday, October 21](https://www.fanduel.com/research/nba-predictions-today-4-nba-picks-and-best-bets-for-wednesday-october-21)
-2h
+3h
 NBA picks and predictions for tomorrow's 11-game slate. How should you bet Wednesday's games?
 [](https://www.fanduel.com/research/nba-predictions-today-4-nba-picks-and-best-bets-for-wednesday-october-21)
 [NBA](https://www.fanduel.com/research/nba)
@@ -115,9 +120,4 @@ NBA picks and predictions for tomorrow's 11-game slate. How should you bet Wedne
 3h
 What are Wednesday's best NBA player prop bets? Three NBA props for tonight.
 [](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-october-21)
-[NBA](https://www.fanduel.com/research/nba)
-## [Timberwolves vs. Heat: NBA Prediction, Picks and Prop Bets (Oct. 21)](https://www.fanduel.com/research/timberwolves-vs-heat-nba-prediction-picks-and-prop-bets-oct-21)
-7h
-Heat vs Timberwolves NBA picks and best bets for today. How should you bet this matchup?
-[](https://www.fanduel.com/research/timberwolves-vs-heat-nba-prediction-picks-and-prop-bets-oct-21)
 

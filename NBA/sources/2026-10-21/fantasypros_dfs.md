@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-wednesday-10-21/ | fetched: 2026-10-21 13:40 ET -->
+<!-- source: https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-wednesday-10-21/ | fetched: 2026-10-21 17:04 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Wednesday \(10/21\)](https://cdn.fantasypros.com/wp-content/images/Tyrese_Haliburton_pacers_6-1/716x316.jpg)
 As a basketball fiend, I can’t tell you how excited I am to see a full slate of NBA action. Tuesday’s card was a bit of an appetizer before Wednesday’s feast, with 11 games making up the season’s first big card. That means almost every team is in action, and these [NBA DFS](https://www.fantasypros.com/daily-fantasy/nba/tools.php) slates are always hard to navigate.
@@ -93,7 +93,7 @@ BoomBust
 [@bartilottajoel](https://x.com/bartilottajoel)
 I've been writing for 10 years and have been playing fantasy for nearly 20 years. I love NFL, MLB, NBA and AFL. I cover mainly DFS for FantasyPros, and don't have any favorite teams!
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-wednesday-10-21/)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)

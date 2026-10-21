@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/todays-nba-dfs-picks-draftkings-fanduel-dfs-lineups-values-stacks-10-21-26/1971743 | fetched: 2026-10-21 16:50 ET -->
+<!-- source: https://www.rotoballer.com/todays-nba-dfs-picks-draftkings-fanduel-dfs-lineups-values-stacks-10-21-26/1971743 | fetched: 2026-10-21 17:04 ET -->
 
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
@@ -519,17 +519,17 @@ Already a premium member? [Login here](https://www.rotoballer.com/wp-login.php)
   * [NHL](https://www.rotoballer.com/todays-nba-dfs-picks-draftkings-fanduel-dfs-lineups-values-stacks-10-21-26/1971743)
 
 
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers24 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers37 min ago   
 Baker Mayfield Practices in Full, Could Return in Week 7](https://www.rotoballer.com/player-news/baker-mayfield-practices-in-full-could-return-in-week-7/1972267)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) San Francisco 49ers25 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) San Francisco 49ers38 min ago   
 Mike Evans Not Expected to Practice on Wednesday](https://www.rotoballer.com/player-news/mike-evans-not-expected-to-practice-on-wednesday/1972265)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Detroit Lions39 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Detroit Lions52 min ago   
 Sam LaPorta Frustrated with Lions Over Contract](https://www.rotoballer.com/player-news/sam-laporta-frustrated-with-lions-over-contract/1972258)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers44 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers57 min ago   
 Emeka Egbuka Misses Practice With Concussion and Foot Injury](https://www.rotoballer.com/player-news/emeka-egbuka-misses-practice-with-concussion-and-foot-injury/1972253)
-[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Arizona Cardinals51 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Arizona Cardinals1 h ago   
 Jeremiyah Love Remains Sidelined Ahead of Week 7](https://www.rotoballer.com/player-news/jeremiyah-love-remains-sidelined-ahead-of-week-7/1972247)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) New England Patriots57 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) New England Patriots1 h ago   
 A.J. Brown Cleared to Play on Thursday Night in Chicago](https://www.rotoballer.com/player-news/a-j-brown-cleared-to-play-on-thursday-night-in-chicago/1972242)
 [![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Green Bay Packers1 h ago   
 Josh Jacobs Could be Given a Big Role in Offense](https://www.rotoballer.com/player-news/josh-jacobs-could-be-given-a-big-role-in-offense/1972228)
@@ -549,9 +549,9 @@ Packers Still Non-Committal on Josh Jacobs' Week 7 Status](https://www.rotoballe
 Sidelined Against Lakers](https://www.rotoballer.com/player-news/brandin-podziemski-sidelined-against-lakers/1972143)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) T.J. McConnell2 h ago   
 Out of Action on Wednesday](https://www.rotoballer.com/player-news/t-j-mcconnell-out-of-action-on-wednesday-2/1972137)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants3 h ago   
 Cam Skattebo Takes First-Team Reps on Wednesday](https://www.rotoballer.com/player-news/cam-skattebo-takes-first-team-reps-on-wednesday/1972124)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Aaron Nesmith2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Aaron Nesmith3 h ago   
 Ruled Out on Wednesday](https://www.rotoballer.com/player-news/aaron-nesmith-ruled-out-on-wednesday/1972119)
 [![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Philadelphia Eagles3 h ago   
 Jalen Hurts Will Require Blood Thinners for 3-6 Months](https://www.rotoballer.com/player-news/jalen-hurts-will-require-blood-thinners-for-3-6-months/1972108)
@@ -559,7 +559,7 @@ Jalen Hurts Will Require Blood Thinners for 3-6 Months](https://www.rotoballer.c
 Rashee Rice Won't Practice on Wednesday](https://www.rotoballer.com/player-news/rashee-rice-wont-practice-on-wednesday/1972103)
 [![](https://upload.wikimedia.org/wikipedia/en/1/16/Baltimore_Ravens_logo.svg) Baltimore Ravens3 h ago   
 Lamar Jackson Still Absent From Practice](https://www.rotoballer.com/player-news/lamar-jackson-still-absent-from-practice/1972098)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers3 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers4 h ago   
 Baker Mayfield Throwing With a Glove on During Practice](https://www.rotoballer.com/player-news/baker-mayfield-throwing-with-a-glove-on-during-practice/1972087)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) New York Jets4 h ago   
 Breece Hall Won't Practice on Wednesday](https://www.rotoballer.com/player-news/breece-hall-wont-practice-on-wednesday/1972073)
@@ -567,11 +567,11 @@ Breece Hall Won't Practice on Wednesday](https://www.rotoballer.com/player-news/
 Browns Optimistic That Quinshon Judkins Will Play in Week 7](https://www.rotoballer.com/player-news/browns-optimistic-that-quinshon-judkins-will-play-in-week-7/1972066)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants4 h ago   
 Giants Plan to Start J.J. McCarthy in Week 7](https://www.rotoballer.com/player-news/giants-plan-to-start-j-j-mccarthy-in-week-7/1972060)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants7 h ago   
 Tyrone Tracy Jr. Could Emerge as Giants' Lead Running Back](https://www.rotoballer.com/player-news/graziano-tyrone-tracy-jr-could-emerge-as-giants-lead-running-back/1971917)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mikko Rantanen6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mikko Rantanen7 h ago   
 Takes Bruins Down With Hat Trick](https://www.rotoballer.com/player-news/mikko-rantanen-takes-bruins-down-with-hat-trick/1971908)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Philadelphia Eagles6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Philadelphia Eagles7 h ago   
 Saquon Barkley Emerging as Trade Candidate Ahead of Deadline](https://www.rotoballer.com/player-news/saquon-barkley-emerging-as-trade-candidate-ahead-of-deadline/1971903)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Larkin7 h ago   
 Expands Trade List to 10 Teams](https://www.rotoballer.com/player-news/dylan-larkin-expands-trade-list-to-10-teams/1971896)
@@ -611,7 +611,7 @@ Tries to Capitalize off Big Result in Utah](https://www.rotoballer.com/player-ne
 Continues to Build Momentum Going Into Next Season](https://www.rotoballer.com/player-news/eric-cole-continues-to-build-momentum-going-into-next-season-this-week-in-bermuda/1971701)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Andrew Novak18 h ago   
 Returning to Port Royal In Search of Elusive Victory](https://www.rotoballer.com/player-news/andrew-novak-returning-to-port-royal-in-search-of-elusive-victory/1971688)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Miles Russell18 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Miles Russell19 h ago   
 Making PGA Tour Appearance at Bermuda Championship](https://www.rotoballer.com/player-news/miles-russell-making-pga-tour-appearance-at-bermuda-championship/1971668)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Mantha23 h ago   
 Cleared for Action](https://www.rotoballer.com/player-news/anthony-mantha-cleared-for-action/1971511)
@@ -621,7 +621,7 @@ Ready for Action Tuesday](https://www.rotoballer.com/player-news/mats-zuccarello
 Suffers "Medical Episode" on Team Plane](https://www.rotoballer.com/player-news/ben-kindel-suffers-medical-episode-on-team-plane/1971501)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Matt Roy23 h ago   
 Returning From Six-Game Absence Tuesday](https://www.rotoballer.com/player-news/matt-roy-returning-from-six-game-absence-tuesday/1971498)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Esa Lindell23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Esa Lindell1 d ago   
 Ruled Out for One Week](https://www.rotoballer.com/player-news/esa-lindell-ruled-out-for-one-week/1971492)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Brown1 d ago   
 Set for Season Debut on Tuesday](https://www.rotoballer.com/player-news/connor-brown-set-for-season-debut-tuesday/1971487)
@@ -683,7 +683,7 @@ Continues Strikeout Dominance in ALCS Game 3 Win](https://www.rotoballer.com/pla
 Back in Leadoff Spot in Game 4 of NLCS](https://www.rotoballer.com/player-news/shohei-ohtani-back-in-leadoff-spot-in-game-4-of-nlcs/1967331)
 [Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
 [View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Novig-RotoBaller-small.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
 ####  [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) HALF-PPR STD PPR
 QB
 RB
