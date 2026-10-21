@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-dfs-picks-fanduel-single-game-plays-and-lineup-strategy-for-wednesday-june-10-117570 | fetched: 2026-10-21 13:40 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-dfs-picks-fanduel-single-game-plays-and-lineup-strategy-for-wednesday-june-10-117570 | fetched: 2026-10-21 16:50 ET -->
 
 # NBA DFS Picks: FanDuel Single-Game Plays and Lineup Strategy for Wednesday, June 10
 Expert FanDuel single-game DFS picks for Knicks vs. Spurs Game 3—MVP and UTIL candidates, salary breakdowns and recommended lineup builds.
@@ -63,34 +63,39 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Not seen Wednesday
-NFL
-Baltimore Ravens
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Breece Hall](https://www.rotowire.com/football/player/breece-hall-15810)
-Not practicing, but could play Week 7
-NFL
-New York Jets
-  * ![Cleveland Browns](https://assets.rotowire.com/images/teamlogo/football/CLE.svg?v=12)
-[Quinshon Judkins](https://www.rotowire.com/football/player/quinshon-judkins-18516)
-Could be available Week 7
-NFL
-Cleveland Browns
-  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
-[J.J. McCarthy](https://www.rotowire.com/football/player/jj-mccarthy-17689)
-Headed for Week 7 start
-NFL
-New York Giants
-  * ![New York Yankees](https://assets.rotowire.com/images/teamlogo/baseball/100NYY.png?v=8)
-[Aaron Judge](https://www.rotowire.com/baseball/player/aaron-judge-12959)
-Has follow-up exam on rib
+  * ![Los Angeles Dodgers](https://assets.rotowire.com/images/teamlogo/baseball/100LAD.png?v=8)
+[Shohei Ohtani](https://www.rotowire.com/baseball/player/shohei-ohtani-12739)
+Offseason surgeries ruled out
 MLB
-New York Yankees
+Los Angeles Dodgers
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Jordan Love](https://www.rotowire.com/football/player/jordan-love-14371)
+Dealing with back injury
+NFL
+Green Bay Packers
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+Not slated to practice Wednesday
+NFL
+San Francisco 49ers
+  * ![Tampa Bay Buccaneers](https://assets.rotowire.com/images/teamlogo/football/TB.svg?v=12)
+[Baker Mayfield](https://www.rotowire.com/football/player/baker-mayfield-12619)
+Logs full practice Wednesday
+NFL
+Tampa Bay Buccaneers
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
+Good to go for Thursday Night Football
+NFL
+New England Patriots
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![Los Angeles Dodgers](https://assets.rotowire.com/images/teamlogo/baseball/100LAD.png?v=8)
+[Shohei Ohtani](https://www.rotowire.com/baseball/player/shohei-ohtani-12739)
+Offseason surgeries ruled out
+MLB
+Los Angeles Dodgers
   * ![New York Yankees](https://assets.rotowire.com/images/teamlogo/baseball/100NYY.png?v=8)
 [Aaron Judge](https://www.rotowire.com/baseball/player/aaron-judge-12959)
 Has follow-up exam on rib
@@ -106,72 +111,67 @@ New York Yankees
 No health concerns entering winter
 MLB
 New York Yankees
-  * ![Texas Rangers](https://assets.rotowire.com/images/teamlogo/baseball/100TEX.png?v=8)
-[Sebastian Walcott](https://www.rotowire.com/baseball/player/sebastian-walcott-18309)
-Working out in outfield
+  * ![Chicago White Sox](https://assets.rotowire.com/images/teamlogo/baseball/100CWS.png?v=8)
+[Roch Cholowsky](https://www.rotowire.com/baseball/player/roch-cholowsky-18920)
+Progressing well from wrist issue
 MLB
-Texas Rangers
-  * ![Milwaukee Brewers](https://assets.rotowire.com/images/teamlogo/baseball/100MIL.png?v=8)
-[Brandon Woodruff](https://www.rotowire.com/baseball/player/brandon-woodruff-14525)
-Unlikely to be on World Series roster
-MLB
-Milwaukee Brewers
+Chicago White Sox
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Kristaps Porzingis](https://www.rotowire.com/basketball/player/kristaps-porzingis-3669)
+Mulls future amid health concerns
+NBA
+Golden State Warriors
   * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
 [Victor Wembanyama](https://www.rotowire.com/basketball/player/victor-wembanyama-5809)
 Struggles with shot in loss
 NBA
 San Antonio Spurs
-  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Daniss Jenkins](https://www.rotowire.com/basketball/player/daniss-jenkins-6336)
-Sees 15 minutes
+  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Micah Potter](https://www.rotowire.com/basketball/player/micah-potter-5445)
+Upgraded to probable
 NBA
-Detroit Pistons
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Jett Howard](https://www.rotowire.com/basketball/player/jett-howard-5914)
-Downgraded to questionable
+Portland Trail Blazers
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
+Won't play Wednesday
 NBA
-Dallas Mavericks
-  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Mike Conley](https://www.rotowire.com/basketball/player/mike-conley-2813)
-Outside of rotation
+Los Angeles Lakers
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Charles Bassey](https://www.rotowire.com/basketball/player/charles-bassey-4833)
+Ruled out Wednesday
 NBA
-Boston Celtics
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jase Richardson](https://www.rotowire.com/basketball/player/jase-richardson-6545)
-Team option picked up
-NBA
-Orlando Magic
+Golden State Warriors
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Not seen Wednesday
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Jordan Love](https://www.rotowire.com/football/player/jordan-love-14371)
+Dealing with back injury
 NFL
-Baltimore Ravens
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Breece Hall](https://www.rotowire.com/football/player/breece-hall-15810)
-Not practicing, but could play Week 7
+Green Bay Packers
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+Not slated to practice Wednesday
 NFL
-New York Jets
-  * ![Cleveland Browns](https://assets.rotowire.com/images/teamlogo/football/CLE.svg?v=12)
-[Quinshon Judkins](https://www.rotowire.com/football/player/quinshon-judkins-18516)
-Could be available Week 7
+San Francisco 49ers
+  * ![Tampa Bay Buccaneers](https://assets.rotowire.com/images/teamlogo/football/TB.svg?v=12)
+[Baker Mayfield](https://www.rotowire.com/football/player/baker-mayfield-12619)
+Logs full practice Wednesday
 NFL
-Cleveland Browns
-  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
-[J.J. McCarthy](https://www.rotowire.com/football/player/jj-mccarthy-17689)
-Headed for Week 7 start
+Tampa Bay Buccaneers
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
+Good to go for Thursday Night Football
 NFL
-New York Giants
-  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
-[Tyjae Spears](https://www.rotowire.com/football/player/tyjae-spears-16941)
-Spectator to begin practice week
+New England Patriots
+  * ![Chicago Bears](https://assets.rotowire.com/images/teamlogo/football/CHI.svg?v=12)
+[Kyle Monangai](https://www.rotowire.com/football/player/kyle-monangai-18520)
+Won't play in Week 7
 NFL
-Tennessee Titans
+Chicago Bears
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -185,11 +185,11 @@ Buffalo Sabres
 Suffers lower-body injury
 NHL
 Washington Capitals
-  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
-[Nikita Kucherov](https://www.rotowire.com/hockey/player/nikita-kucherov-3828)
-Ties franchise record
+  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
+[Quinton Byfield](https://www.rotowire.com/hockey/player/quinton-byfield-5947)
+Considered day-to-day
 NHL
-Tampa Bay Lightning
+Los Angeles Kings
   * ![Philadelphia Flyers](https://assets.rotowire.com/images/teamlogo/hockey/100PHI.png?v=5)
 [Tyson Foerster](https://www.rotowire.com/hockey/player/tyson-foerster-6278)
 Game-time call

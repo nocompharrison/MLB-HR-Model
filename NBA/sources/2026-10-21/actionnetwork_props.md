@@ -1,28 +1,28 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21 | fetched: 2026-10-21 13:40 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21 | fetched: 2026-10-21 16:50 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
-# NBA Expert Bets, Predictions, Odds for Wednesday, October 21
+# NBA Best Bets: 15 Spreads, Totals, Props, Moneylines for Oct. 21
 ![Author Profile](https://images.actionnetwork.com/blog/2018/09/mattmoore-1-Matt-Moore-2-1-100x100.png)
 [Matt Moore](https://www.actionnetwork.com/article/author/matt-moore)
 Senior NBA Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Oct 21, 2026, 12:41 PM EDT
+Oct 21, 2026, 04:25 PM EDT
 Updated:
-Oct 21, 2026, 12:41 PM EDT
+Oct 21, 2026, 04:25 PM EDT
 Credit:
 IMAGN IMAGES via Reuters Connect. Pictured: Trae Young, Ja Morant
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-We have another excellent NBA slate in front of us tonight, and I've been crunching the numbers to find the best spots on the board. From sides and totals to specific matchup angles, I've locked in my favorite plays for the evening.
+We have a jam-packed NBA slate in front of us tonight, and I've been crunching the numbers to find the best spots on the board. From sides and totals to specific matchup angles, I've locked in my favorite plays for the evening.
 Let's get into my **NBA predictions** and **expert bets** for Wednesday, October 21.
 _Download the[Action Network app](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) now for more NBA picks and analysis!_
-## NBA Expert Bets for Wednesday, October 21
+## NBA Best Bets for Wednesday, October 21
 * * *  
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-## Bucks vs. Wizards
+## Bucks vs. Wizards Spread Pick & Double-Double Prop
 [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/odds/milwaukee-bucks)
 Wednesday, October 21
 7 p.m. ET
@@ -43,7 +43,7 @@ I’m honestly more worried about the [points](https://www.actionnetwork.com/nba
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-## Hornets vs. Nets
+## Hornets vs. Nets Total Bet
 [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/odds/charlotte-hornets)
 Wednesday, October 21
 7:30 p.m. ET
@@ -61,7 +61,7 @@ This feels exactly like a ragtag, high-variance game played in the 230s, not a d
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-## Jazz vs. Grizzlies
+## Jazz vs. Grizzlies Prop Bets
 [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)](https://www.actionnetwork.com/nba/odds/utah-jazz)
 Wednesday, October 21
 8 p.m. ET
@@ -112,20 +112,20 @@ Jun 5th
 8:30 PM on ABC
 •
 115.9k bets
+Josh Hart MORE assists than Stephon Castle
++208 (1.1u)
+Copy Bet
+Jalen Brunson OR Julian Champagnie 6+ 3pm
++660 (0.25u)
+Copy Bet
 OG Anunoby OR Julian Champagnie 5+ 3PM
 +330 (0.25u)
 Copy Bet
 OG Anunoby OR Julian Champagnie 4+ 3s
 +120 (0.55u)
 Copy Bet
-Jalen Brunson OR Julian Champagnie 6+ 3pm
-+660 (0.25u)
-Copy Bet
-Josh Hart MORE assists than Stephon Castle
-+208 (1.1u)
-Copy Bet
 See All
-## Mavericks vs. Rockets
+## Mavericks vs. Rockets Spread & Total Leans, Three-Point Props
 [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)](https://www.actionnetwork.com/nba/odds/dallas-mavericks)
 Wednesday, October 21
 8:30 p.m. ET
@@ -151,7 +151,7 @@ He logged the second-most catch-and-shoot attempts on the entire Dallas roster d
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-## Warriors vs. Lakers
+## Warriors vs. Lakers Moneyline Bet, Points Prop
 [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)](https://www.actionnetwork.com/nba/odds/golden-state-warriors)
 Wednesday, October 21
 10 p.m. ET
@@ -173,7 +173,7 @@ A single three-pointer, three made free throws, and a transition layup is litera
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-## Suns vs. Trail Blazers
+## Suns vs. Trail Blazers Over/Under Bet, Assists Props
 [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)](https://www.actionnetwork.com/nba/odds/phoenix-suns)
 Wednesday, October 21
 10 p.m. ET
@@ -205,7 +205,7 @@ It's close enough that I’m willing to sprinkle a shred of a unit on it at +170
 | [![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#1)  | [![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)![Brooklyn Nets Logo](https://images.actionnetwork.com/blog/2023/07/brooklyn-nets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#2)  | [![Utah Jazz Logo](https://assets.actionnetwork.com/4868_jazz.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#3)  | [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)![Houston Rockets Logo](https://static.sprtactn.co/teamlogos/nba/100/hou.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#4)  | [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#5)  | [![Phoenix Suns Logo](https://assets.actionnetwork.com/875040_Suns.png)![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/nba-expert-bets-predictions-odds-for-wednesday-october-21#6)  |  
 | --- | --- | --- | --- | --- | --- |  
 * * *
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)[](https://twitter.com/intent/tweet?text=NBA%20Expert%20Bets%2C%20Predictions%2C%20Odds%20for%20Wednesday%2C%20October%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)[](https://twitter.com/intent/tweet?text=NBA%20Best%20Bets%3A%2015%20Spreads%2C%20Totals%2C%20Props%2C%20Moneylines%20for%20Oct.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21)
 ![Author Profile](https://images.actionnetwork.com/blog/2018/09/mattmoore-1-Matt-Moore-2-1-100x100.png)
 About the Author
 Matt Moore has been covering the NBA since 2007, working for AOL FanHouse, NBC Sports and CBS Sports before joining Action Network at its inception.
@@ -215,19 +215,19 @@ Last 30d:
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-NBA Expert Bets for Wednesday, October 21
+NBA Best Bets for Wednesday, October 21
 Right Arrow
-Bucks vs. Wizards
+Bucks vs. Wizards Spread Pick & Double-Double Prop
 Right Arrow
 Wizards -4.5
 Right Arrow
 Trae Young Double-Double (-113)
 Right Arrow
-Hornets vs. Nets
+Hornets vs. Nets Total Bet
 Right Arrow
 Over 219.5
 Right Arrow
-Jazz vs. Grizzlies
+Jazz vs. Grizzlies Prop Bets
 Right Arrow
 Zach Edey Over 10.5 Rebounds
 Right Arrow
@@ -235,7 +235,7 @@ Ace Bailey Over 17.5 Points, Rebounds & Assists
 Right Arrow
 Game to Go to Overtime (+1700)
 Right Arrow
-Mavericks vs. Rockets
+Mavericks vs. Rockets Spread & Total Leans, Three-Point Props
 Right Arrow
 Rockets -8.5 / Over 229.5 (Leans)
 Right Arrow
@@ -243,13 +243,13 @@ Jabari Smith Over 1.5 Three-Pointers
 Right Arrow
 Max Christie Over 1.5 Three-Pointers
 Right Arrow
-Warriors vs. Lakers
+Warriors vs. Lakers Moneyline Bet, Points Prop
 Right Arrow
 Warriors Moneyline (+200)
 Right Arrow
 Ziaire Williams Over 7.5 Points
 Right Arrow
-Suns vs. Trail Blazers
+Suns vs. Trail Blazers Over/Under Bet, Assists Props
 Right Arrow
 Under 232.5
 Right Arrow
@@ -259,62 +259,62 @@ Ja Morant Over 4.5 Assists
 Right Arrow
 Game to Go to Overtime (+1700)
 ### Top Stories
-[![NBA Picks, Predictions: Spreads, Moneylines, Totals, Props for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBABestBets102126.jpg)](https://www.actionnetwork.com/nba/nba-picks-predictions-spreads-moneylines-totals-props-for-wednesday-october-21)
+[![NBA Predictions, Picks for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBABestBets102126.jpg)](https://www.actionnetwork.com/nba/nba-picks-predictions-spreads-moneylines-totals-props-for-wednesday-october-21)
 NBA
-[NBA Picks, Predictions: Spreads, Moneylines, Totals, Props for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-picks-predictions-spreads-moneylines-totals-props-for-wednesday-october-21)
+[NBA Predictions, Picks for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-picks-predictions-spreads-moneylines-totals-props-for-wednesday-october-21)
 Action Network Staff
-2 hours ago
+37 mins ago
 [![NBA Parlay Picks: SGP Predictions for Bucks vs Wizards, Pacers vs Pelicans on Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBA-Hinton-Parlay-10_21.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-bucks-vs-wizards-pacers-vs-pelicans-on-wednesday-october-21)
 NBA
 [NBA Parlay Picks: SGP Predictions for Bucks vs Wizards, Pacers vs Pelicans on Wednesday, October 21](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-bucks-vs-wizards-pacers-vs-pelicans-on-wednesday-october-21)
 Alex Hinton
+6 hours ago
+[![NBA Player Props: 6 Best Bets for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBAProps102126.jpg)](https://www.actionnetwork.com/nba/nba-player-props-6-best-bets-for-wednesday-october-21)
+NBA
+[NBA Player Props: 6 Best Bets for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-player-props-6-best-bets-for-wednesday-october-21)
+Action Network Staff
 3 hours ago
+[![NBA King of the Court Picks, Predictions for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBAKOTC1021.jpg)](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-wednesday-october-21)
+NBA
+[NBA King of the Court Picks, Predictions for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-wednesday-october-21)
+Matt Moore
+2 hours ago
 [![NBA Moneyline Underdog Picks: 2 Upset Predictions for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/MInions-Wednesday-NBA-Underdogs-Parlay-10_21_26.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-underdog-picks-2-upset-predictions-for-wednesday-october-21)
 NBA
 [NBA Moneyline Underdog Picks: 2 Upset Predictions for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-moneyline-underdog-picks-2-upset-predictions-for-wednesday-october-21)
 Ryan Minion
 Oct 20, 2026 EDT
+[![NBA Total Predictions, Over/Under Picks for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/NBA-Total-Picks-Tyree-10_21.jpg)](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-wednesday-october-21)
+NBA
+[NBA Total Predictions, Over/Under Picks for Wednesday, October 21](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-wednesday-october-21)
+Ameer Tyree
+2 hours ago
 [![Timberwolves vs Heat Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/dav-mitch.jpg)](https://www.actionnetwork.com/nba/timberwolves-vs-heat-prediction-pick-nba-odds-for-wednesday-october-21)
 NBA
 [Timberwolves vs Heat Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/timberwolves-vs-heat-prediction-pick-nba-odds-for-wednesday-october-21)
 Bryan Fonseca
-4 hours ago
-[![Hawks vs Magic Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Hawks-vs-Magic-10_21_26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-orlando-magic-prediction-pick-odds-nba-wednesday-october-21)
+7 hours ago
+[![Hawks vs Magic Predictions, Odds, Picks for Tonight 10/21](https://images.actionnetwork.com/blog/2026/10/Hawks-vs-Magic-10_21_26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-orlando-magic-prediction-pick-odds-nba-wednesday-october-21)
 NBA
-[Hawks vs Magic Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/atlanta-hawks-vs-orlando-magic-prediction-pick-odds-nba-wednesday-october-21)
+[Hawks vs Magic Predictions, Odds, Picks for Tonight 10/21](https://www.actionnetwork.com/nba/atlanta-hawks-vs-orlando-magic-prediction-pick-odds-nba-wednesday-october-21)
 Brandon Kravitz
-4 hours ago
+7 mins ago
 [![Bucks vs Wizards Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Bucks-Wizards-10212026.jpg)](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-washington-wizards-prediction-pick-nba-odds-wednesday-october-21)
 NBA
 [Bucks vs Wizards Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-washington-wizards-prediction-pick-nba-odds-wednesday-october-21)
 Matt Moore
-4 hours ago
+7 hours ago
 [![Bulls vs Raptors Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/bulls-raptors-10212026.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-toronto-raptors-prediction-pick-nba-odds-wednesday-october-21)
 NBA
 [Bulls vs Raptors Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/chicago-bulls-vs-toronto-raptors-prediction-pick-nba-odds-wednesday-october-21)
 Joe Dellera
-4 hours ago
-[![Hornets vs Nets Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Hornets-vs-Nets-10_21_26.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-brooklyn-nets-prediction-pick-odds-nba-wednesday-october-21)
+7 hours ago
+[![Hornets vs Nets Predictions, Odds, NBA Picks 10/21](https://images.actionnetwork.com/blog/2026/10/HornetsNets1021.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-brooklyn-nets-prediction-pick-odds-nba-wednesday-october-21)
 NBA
-[Hornets vs Nets Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/charlotte-hornets-vs-brooklyn-nets-prediction-pick-odds-nba-wednesday-october-21)
+[Hornets vs Nets Predictions, Odds, NBA Picks 10/21](https://www.actionnetwork.com/nba/charlotte-hornets-vs-brooklyn-nets-prediction-pick-odds-nba-wednesday-october-21)
 Bryan Fonseca
-4 hours ago
-[![Pacers vs Pelicans Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Pacers-Pelicans-NBA-10_21.jpg)](https://www.actionnetwork.com/nba/indiana-pacers-vs-new-orleans-pelicans-prediction-pick-nba-odds-wednesday-october-21)
-NBA
-[Pacers vs Pelicans Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/indiana-pacers-vs-new-orleans-pelicans-prediction-pick-nba-odds-wednesday-october-21)
-Joe Dellera
-4 hours ago
-[![Jazz vs Grizzlies Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Jazz-Grizzlies-10212026.jpg)](https://www.actionnetwork.com/nba/utah-jazz-vs-memphis-grizzlies-prediction-pick-nba-odds-wednesday-october-21)
-NBA
-[Jazz vs Grizzlies Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/utah-jazz-vs-memphis-grizzlies-prediction-pick-nba-odds-wednesday-october-21)
-Matt Moore
-4 hours ago
-[![Mavericks vs Rockets Prediction, Pick, NBA Odds for Wednesday, October 21](https://images.actionnetwork.com/blog/2026/10/Mavericks-vs-Rockets-10_21_26.jpg)](https://www.actionnetwork.com/nba/dallas-mavericks-vs-houston-rockets-prediction-pick-odds-nba-wednesday-october-21)
-NBA
-[Mavericks vs Rockets Prediction, Pick, NBA Odds for Wednesday, October 21](https://www.actionnetwork.com/nba/dallas-mavericks-vs-houston-rockets-prediction-pick-odds-nba-wednesday-october-21)
-Matt Moore
-2 hours ago
+57 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=38ee10cd-9534-4f03-a2f8-842e2ca69037&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cacce9fa-d0a6-4bf9-884f-a3afc3d704cf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1792604437340-486707823&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=38ee10cd-9534-4f03-a2f8-842e2ca69037&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cacce9fa-d0a6-4bf9-884f-a3afc3d704cf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1792604437340-486707823&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fb005c85-982f-4833-a67e-48fad286d9da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cacce9fa-d0a6-4bf9-884f-a3afc3d704cf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=7424&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1792604437340-486707823&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fb005c85-982f-4833-a67e-48fad286d9da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cacce9fa-d0a6-4bf9-884f-a3afc3d704cf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=7424&tw_iframe_status=0&tw_pid_src=2&tw_session_count=2&tw_session_id=1792604437340-486707823&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=85504fa3-ec3a-4152-b8a4-48448655caf1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b8d3410b-506f-4f83-9c31-925f5bfdab25&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1792615795142-952187311&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=85504fa3-ec3a-4152-b8a4-48448655caf1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b8d3410b-506f-4f83-9c31-925f5bfdab25&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1792615795142-952187311&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a7560aad-d89f-4bc4-832e-5e9215d73ad5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b8d3410b-506f-4f83-9c31-925f5bfdab25&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=7570&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1792615795142-952187311&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a7560aad-d89f-4bc4-832e-5e9215d73ad5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b8d3410b-506f-4f83-9c31-925f5bfdab25&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-expert-bets-predictions-odds-for-wednesday-october-21&tw_engaged_ms=7570&tw_iframe_status=0&tw_pid_src=2&tw_session_count=3&tw_session_id=1792615795142-952187311&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
