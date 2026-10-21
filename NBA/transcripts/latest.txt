@@ -1,35 +1,55 @@
-# NBA transcripts | 2026-10-21 | updated 2026-10-21 13:43 ET
+# NBA transcripts | 2026-10-21 | updated 2026-10-21 16:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 10 files in NBA/transcripts/2026-10-21:
+# 22 files in NBA/transcripts/2026-10-21:
 NBA/transcripts/2026-10-21/6OM7RfIyBT4_WagerTalk_BEST_NBA_Bets_TODAY_Mavericks_vs_Rockets_Warriors_vs_Lakers.txt
 NBA/transcripts/2026-10-21/Bw99t6z-rX4_ShipItNation_NBA_DFS_Process_October_20_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
+NBA/transcripts/2026-10-21/D6y99ooZTKg_NBAGamblingPod_NBA_Opening_Night_Picks_10_20_26_NBA_Bets_Player_Props_and_Predictions.txt
+NBA/transcripts/2026-10-21/H12ylmntBR0_JayMoney_Minnesota_Timberwolves_vs_Miami_Heat_10_21_26_Free_NBA_Picks_Sports_Be.txt
 NBA/transcripts/2026-10-21/HwLOROil54w_WagerTalk_NBA_Opening_Night_Picks_Best_Bets_Profit_Picks_10_20.txt
+NBA/transcripts/2026-10-21/IxawuvlnYr8_CirclesOff_The_SGP_Correlation_Most_NBA_Bettors_Miss_Presented_by_ProphetX.txt
+NBA/transcripts/2026-10-21/NIezJQPnKAc_SportsLine_NBA_Picks_Champions_League_Bets_College_Football_Picks_NHL_Early_Edge.txt
 NBA/transcripts/2026-10-21/QcDwDz5B8S4_LockedOnNBA_Thunder_SWAT_Down_Spurs_Shai_Gilgeous_Alexander_and_Chet_Holmgren_Make.txt
+NBA/transcripts/2026-10-21/S5Qha4wwI8Y_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Wednesday_Buckets_Podcast.txt
+NBA/transcripts/2026-10-21/TK7DsVKJPTA_LandYourBets_11_NBA_Player_Prop_Looks_Wednesday_Best_Bets_Projections_October_21_La.txt
+NBA/transcripts/2026-10-21/VjXU7zCn70c_SportsLine_NBA_Picks_Champions_League_Bets_WNBA_Finals_Early_Edge.txt
+NBA/transcripts/2026-10-21/XlQfoTypcDA_JayMoney_Chicago_Bulls_vs_Toronto_Raptors_10_21_26_Free_NBA_Picks_Sports_Bettin.txt
 NBA/transcripts/2026-10-21/_yhanpACCqg_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_20_26.txt
+NBA/transcripts/2026-10-21/cH8GmgPbHEU_NBAGamblingPod_NBA_Wednesday_Picks_10_21_26_NBA_Bets_Player_Props_and_Predictions.txt
+NBA/transcripts/2026-10-21/hIQMimCNk_E_CallingOurShot_Wednesday_s_NBA_Best_Picks_and_Predictions_for_October_21st.txt
+NBA/transcripts/2026-10-21/jvhFFfDSzys_Stokastic_NBA_DFS_Strategy_Wednesday_10_21_26_DraftKings_FanDuel_NBA_Lineup_Pick.txt
 NBA/transcripts/2026-10-21/kOlcuIKC_qw_RotoGrinders_6_Great_Plays_for_NBA_DFS_on_DraftKings_and_FanDuel.txt
 NBA/transcripts/2026-10-21/s-S0T6cyrxg_LockedOnNBA_76ers_STUN_Knicks_Thunder_DOMINATE_Spurs_Celtics_COLLAPSE.txt
 NBA/transcripts/2026-10-21/tJjOugLV0WE_DFSArmyLive_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt
+NBA/transcripts/2026-10-21/uNHUYMMr8bI_SportsLine_NBA_Picks_Wednesday_Best_Bets.txt
 NBA/transcripts/2026-10-21/xgLMEsjYELo_Stokastic_NBA_DFS_Live_Before_Lock_Tuesday_10_20_26_DraftKings_FanDuel_NBA_Lineu.txt
 NBA/transcripts/2026-10-21/yIDzeFJkl-w_WagerTalk_WEDNESDAY_NBA_BEST_Bets_Timberwolves_vs_Heat_Warriors_vs_Lakers_NBA_Pi.txt
 
 # this run:
-NOCAPS  ActionNetwork S5Qha4wwI8Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.8h ago))
+NEW     NBA/transcripts/2026-10-21/S5Qha4wwI8Y_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Wednesday_Buckets_Podcast.txt  (13,115 words, via Groq)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-21/yIDzeFJkl-w_WagerTalk_WEDNESDAY_NBA_BEST_Bets_Timberwolves_vs_Heat_Warriors_vs_Lakers_NBA_Pi.txt  (3,336 words)
-NEW     NBA/transcripts/2026-10-21/6OM7RfIyBT4_WagerTalk_BEST_NBA_Bets_TODAY_Mavericks_vs_Rockets_Warriors_vs_Lakers.txt  (1,500 words)
-NEW     NBA/transcripts/2026-10-21/HwLOROil54w_WagerTalk_NBA_Opening_Night_Picks_Best_Bets_Profit_Picks_10_20.txt  (4,595 words)
-NEW     NBA/transcripts/2026-10-21/kOlcuIKC_qw_RotoGrinders_6_Great_Plays_for_NBA_DFS_on_DraftKings_and_FanDuel.txt  (1,860 words)
+UPCOMING WagerTalk T8Y5MZilejI NBA Picks Today & Best Bets | Thursday 10/22 | PROFIT PICKS  (not aired yet - scheduled for 10/22/26 1:30PM)
+UPCOMING WagerTalk jW8EqKs3B_w NBA Picks Today & Best Bets | Thursday 10/22 | PROFIT PICKS   (not aired yet - scheduled for 10/22/26 1:30PM)
 UPCOMING RotoGrinders 9RNN7uPVV_c NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/21/2  (not aired yet - scheduled for 10/21/26 5:40PM)
-NEW     NBA/transcripts/2026-10-21/_yhanpACCqg_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_20_26.txt  (12,521 words)
-UPCOMING ShipItNation LB6T8SAHW9Y NBA DFS Process | October 21, 2026 | DraftKings & FanDuel Pi  (not aired yet - scheduled for 10/21/26 4:00PM)
-NEW     NBA/transcripts/2026-10-21/Bw99t6z-rX4_ShipItNation_NBA_DFS_Process_October_20_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt  (13,718 words)
+NOCAPS  ShipItNation LB6T8SAHW9Y NBA DFS Process | October 21, 2026 | DraftKings & FanDuel Pi  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
-UPCOMING DFSArmyLive aNBUoa6OtnI NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (not aired yet - scheduled for 10/21/26 6:00PM)
-NEW     NBA/transcripts/2026-10-21/tJjOugLV0WE_DFSArmyLive_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt  (10,902 words)
-NEW     NBA/transcripts/2026-10-21/xgLMEsjYELo_Stokastic_NBA_DFS_Live_Before_Lock_Tuesday_10_20_26_DraftKings_FanDuel_NBA_Lineu.txt  (10,814 words)
+UPCOMING DFSArmyLive aNBUoa6OtnI NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (not aired yet - scheduled for 10/21/26 5:45PM)
+NEW     NBA/transcripts/2026-10-21/jvhFFfDSzys_Stokastic_NBA_DFS_Strategy_Wednesday_10_21_26_DraftKings_FanDuel_NBA_Lineup_Pick.txt  (6,631 words, via Groq)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-21/s-S0T6cyrxg_LockedOnNBA_76ers_STUN_Knicks_Thunder_DOMINATE_Spurs_Celtics_COLLAPSE.txt  (7,413 words)
-NEW     NBA/transcripts/2026-10-21/QcDwDz5B8S4_LockedOnNBA_Thunder_SWAT_Down_Spurs_Shai_Gilgeous_Alexander_and_Chet_Holmgren_Make.txt  (7,199 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
+UPCOMING NBAGamblingPod oI22Nld9JEs NBA Thursday Picks - 10/22/26 | NBA Bets, Player Props and P  (not aired yet - scheduled for 10/21/26 9:05PM)
+NEW     NBA/transcripts/2026-10-21/cH8GmgPbHEU_NBAGamblingPod_NBA_Wednesday_Picks_10_21_26_NBA_Bets_Player_Props_and_Predictions.txt  (14,608 words)
+NEW     NBA/transcripts/2026-10-21/D6y99ooZTKg_NBAGamblingPod_NBA_Opening_Night_Picks_10_20_26_NBA_Bets_Player_Props_and_Predictions.txt  (9,864 words)
+NEW     NBA/transcripts/2026-10-21/hIQMimCNk_E_CallingOurShot_Wednesday_s_NBA_Best_Picks_and_Predictions_for_October_21st.txt  (3,557 words)
+NEW     NBA/transcripts/2026-10-21/XlQfoTypcDA_JayMoney_Chicago_Bulls_vs_Toronto_Raptors_10_21_26_Free_NBA_Picks_Sports_Bettin.txt  (748 words)
+NEW     NBA/transcripts/2026-10-21/H12ylmntBR0_JayMoney_Minnesota_Timberwolves_vs_Miami_Heat_10_21_26_Free_NBA_Picks_Sports_Be.txt  (716 words)
+UPCOMING LandYourBets U8d_uZlgFKQ Wednesday NBA Live Show 🔴 Best Bets Today October 21 | Land   (not aired yet - scheduled for 10/21/26 5:30PM)
+NEW     NBA/transcripts/2026-10-21/TK7DsVKJPTA_LandYourBets_11_NBA_Player_Prop_Looks_Wednesday_Best_Bets_Projections_October_21_La.txt  (5,367 words)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-21/VjXU7zCn70c_SportsLine_NBA_Picks_Champions_League_Bets_WNBA_Finals_Early_Edge.txt  (7,420 words)
+NEW     NBA/transcripts/2026-10-21/uNHUYMMr8bI_SportsLine_NBA_Picks_Wednesday_Best_Bets.txt  (2,307 words)
+NEW     NBA/transcripts/2026-10-21/NIezJQPnKAc_SportsLine_NBA_Picks_Champions_League_Bets_College_Football_Picks_NHL_Early_Edge.txt  (7,685 words)
+NEW     NBA/transcripts/2026-10-21/IxawuvlnYr8_CirclesOff_The_SGP_Correlation_Most_NBA_Bettors_Miss_Presented_by_ProphetX.txt  (2,191 words)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
