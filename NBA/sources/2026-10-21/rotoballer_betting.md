@@ -1,5 +1,6 @@
-<!-- source: https://www.rotoballer.com/nba-prop-bets-picks-draftkings-king-of-the-court-10-21-26/1971062 | fetched: 2026-10-21 17:04 ET -->
+<!-- source: https://www.rotoballer.com/nba-prop-bets-picks-draftkings-king-of-the-court-10-21-26/1971062 | fetched: 2026-10-21 17:09 ET -->
 
+![](https://cs.media.net/cksync?cs=3&gdpr=0&gdpr_consent=&gpp_sid=6%2C7&gpp_string=DBABzw~1YNY~BVQqAAAAAgA&ovsid=8e98fd0e-cc18-49d6-a765-39007e5c0653&redirect=https%3A%2F%2Fids.api.gcprivacy.id%2Fv1%2Frt%2Fsync%2Fmedianet%3Fgcid%3D8e98fd0e-cc18-49d6-a765-39007e5c0653%26id%3D%24%7Bssp_id%7D&type=gc&us_privacy=1YNY)![](https://ib.adnxs.com/getuid?https%3A%2F%2Fids.api.gcprivacy.id%2Fv4%2Fid%2Fxandr%3Fpid%3D6CP1D%26id%3D%24UID%26gcid%3D8e98fd0e-cc18-49d6-a765-39007e5c0653)
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
 [](https://www.rotoballer.com/nba-prop-bets-picks-draftkings-king-of-the-court-10-21-26/1971062)
@@ -578,7 +579,7 @@ DEF
 [Saquon Barkley](http://www.rotoballer.com/nfl/player/19766/Saquon+Barkley) PHI
 22
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Novig-RotoBaller-small.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-RotoBaller-small.png)](https://www.rotoballer.com/genius)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -638,13 +639,13 @@ RP
   * [NHL](https://www.rotoballer.com/nba-prop-bets-picks-draftkings-king-of-the-court-10-21-26/1971062)
 
 
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers39 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers44 min ago   
 Baker Mayfield Practices in Full, Could Return in Week 7](https://www.rotoballer.com/player-news/baker-mayfield-practices-in-full-could-return-in-week-7/1972267)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) San Francisco 49ers40 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) San Francisco 49ers45 min ago   
 Mike Evans Not Expected to Practice on Wednesday](https://www.rotoballer.com/player-news/mike-evans-not-expected-to-practice-on-wednesday/1972265)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Detroit Lions54 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Detroit Lions59 min ago   
 Sam LaPorta Frustrated with Lions Over Contract](https://www.rotoballer.com/player-news/sam-laporta-frustrated-with-lions-over-contract/1972258)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers59 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Tampa Bay Buccaneers1 h ago   
 Emeka Egbuka Misses Practice With Concussion and Foot Injury](https://www.rotoballer.com/player-news/emeka-egbuka-misses-practice-with-concussion-and-foot-injury/1972253)
 [![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Arizona Cardinals1 h ago   
 Jeremiyah Love Remains Sidelined Ahead of Week 7](https://www.rotoballer.com/player-news/jeremiyah-love-remains-sidelined-ahead-of-week-7/1972247)
@@ -666,7 +667,7 @@ Warriors Explore Trade Options for Kristaps Porzingis](https://www.rotoballer.co
 Packers Still Non-Committal on Josh Jacobs' Week 7 Status](https://www.rotoballer.com/player-news/packers-still-non-committal-on-josh-jacobs-week-7-status/1972147)
 [![](https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg) Brandin Podziemski2 h ago   
 Sidelined Against Lakers](https://www.rotoballer.com/player-news/brandin-podziemski-sidelined-against-lakers/1972143)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) T.J. McConnell2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) T.J. McConnell3 h ago   
 Out of Action on Wednesday](https://www.rotoballer.com/player-news/t-j-mcconnell-out-of-action-on-wednesday-2/1972137)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) New York Giants3 h ago   
 Cam Skattebo Takes First-Team Reps on Wednesday](https://www.rotoballer.com/player-news/cam-skattebo-takes-first-team-reps-on-wednesday/1972124)
@@ -708,7 +709,7 @@ Expected to Play Wednesday Night in Los Angeles](https://www.rotoballer.com/play
 Could Return Saturday](https://www.rotoballer.com/player-news/pierre-luc-dubois-could-return-saturday/1971857)
 [![](https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg) Anthony Black7 h ago   
 Ruled Out vs. Hawks](https://www.rotoballer.com/player-news/anthony-black-ruled-out-vs-hawks/1971855)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mikael Backlund7 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mikael Backlund8 h ago   
 Day-to-Day With Upper-Body Injury](https://www.rotoballer.com/player-news/mikael-backlund-day-to-day-with-upper-body-injury/1971843)
 [![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) AJ Dybantsa8 h ago   
 Ruled Out for Season Opener](https://www.rotoballer.com/player-news/aj-dybantsa-ruled-out-for-season-opener/1971833)
@@ -720,7 +721,7 @@ Will Miss Hornets Season Opener](https://www.rotoballer.com/player-news/coby-whi
 Returns at the Butterfield Bermuda Championship](https://www.rotoballer.com/player-news/austin-eckroat-returns-at-the-butterfield-bermuda-championship/1971827)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Kon Knueppel8 h ago   
 Ruled Out for Season Opener](https://www.rotoballer.com/player-news/kon-knueppel-ruled-out-for-season-opener/1971825)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Denny McCarthy9 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Denny McCarthy10 h ago   
 Appears in Bermuda Off Solid Baycurrent Classic Result](https://www.rotoballer.com/player-news/denny-mccarthy-appears-in-bermuda-off-solid-baycurrent-classic-result/1971776)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Joel Dahmen10 h ago   
 Could Struggle Once More in Bermuda](https://www.rotoballer.com/player-news/joel-dahmen-could-struggle-once-more-in-bermuda/1971759)
@@ -736,7 +737,7 @@ Making PGA Tour Appearance at Bermuda Championship](https://www.rotoballer.com/p
 Cleared for Action](https://www.rotoballer.com/player-news/anthony-mantha-cleared-for-action/1971511)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mats Zuccarello23 h ago   
 Ready for Action Tuesday](https://www.rotoballer.com/player-news/mats-zuccarello-ready-for-action-tuesday/1971506)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Benjamin Kindel23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Benjamin Kindel1 d ago   
 Suffers "Medical Episode" on Team Plane](https://www.rotoballer.com/player-news/ben-kindel-suffers-medical-episode-on-team-plane/1971501)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Matt Roy1 d ago   
 Returning From Six-Game Absence Tuesday](https://www.rotoballer.com/player-news/matt-roy-returning-from-six-game-absence-tuesday/1971498)
@@ -828,4 +829,5 @@ Information from your device can be used to personalize your ad experience.
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
 A Raptive Partner Site
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&halo_id=060ixdaju6a6598979d9a9996979e989c66uokewi0e0y64626k6e6660626m646i)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ%26auid%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjYxNjkxNy1PM1ZQTFBQSC1UNVNa&id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
