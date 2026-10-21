@@ -1,27 +1,34 @@
-# NFL transcripts | week 7 | updated 2026-10-20 07:45 ET
+# NFL transcripts | week 7 | updated 2026-10-20 21:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 1 files this week:
+# 10 files in NFL/transcripts/week-07:
+NFL/transcripts/week-07/4LBSEbWF1sM_TheAudible_WAIVER_WIRE_GOLD_Omar_Cooper_Jonah_Coleman_Tyrone_Tracy_Who_Should_You.txt
+NFL/transcripts/week-07/5sLUh76rkZM_ActionNetwork_NFL_Prediction_Markets_The_BIGGEST_Futures_Opportunities_Right_Now.txt
+NFL/transcripts/week-07/F-uh2r0LMqM_SGPN_Thursday_Night_Football_Week_7_Prop_Bets_Best_Bets_Predictions.txt
+NFL/transcripts/week-07/FevBuG3TztM_Footballers_Week_7_Waivers_Rookie_WR_Rundown_Fantasy_Football_2026_Ep_1997.txt
+NFL/transcripts/week-07/SJFuzX6hsIM_TheAudible_Which_New_England_Running_Back_Should_You_Drop_To_Set_a_Fantasy_Footba.txt
 NFL/transcripts/week-07/TCW-vIJ0udM_PlayerProfiler_Week_7_TOP_Kickers_Defenses_High_Upside_Streamers.txt
+NFL/transcripts/week-07/_OfrdHz2_EA_PlayerProfiler_Dylan_Sampson_Must_Add_Fantasy_Football_Week_7_Waiver_Wire.txt
+NFL/transcripts/week-07/o44jmHZHcrw_DFSArmy_NFL_DFS_Week_7_Strategy_for_DraftKings_2026.txt
+NFL/transcripts/week-07/ujJLFgATYxE_ActionNetwork_Top_Week_7_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
+NFL/transcripts/week-07/yuhprnZ_1-Y_FootballersDFS_Week_7_NFL_Preview_Win_Total_Awards_Market_Updates_Fantasy_Football_DF.txt
 
 # this run:
-NONE    channel Footballers: nothing new this week (or everything already saved)
-NONE    channel FootballersDFS: nothing new this week (or everything already saved)
-NONE    channel SwankTank: nothing new this week (or everything already saved)
-NONE    channel RotoGrinders: nothing new this week (or everything already saved)
-NONE    channel ShipItNation: nothing new this week (or everything already saved)
-NOCAPS  SGPN F-uh2r0LMqM Thursday Night Football Week 7 Prop Bets, Best Bets & Predic  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-07/FevBuG3TztM_Footballers_Week_7_Waivers_Rookie_WR_Rundown_Fantasy_Football_2026_Ep_1997.txt  (10,900 words)
+NEW     NFL/transcripts/week-07/yuhprnZ_1-Y_FootballersDFS_Week_7_NFL_Preview_Win_Total_Awards_Market_Updates_Fantasy_Football_DF.txt  (12,802 words)
+NONE    channel SwankTank: nothing new in the date window (or everything already saved)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/F-uh2r0LMqM_SGPN_Thursday_Night_Football_Week_7_Prop_Bets_Best_Bets_Predictions.txt  (10,922 words)
 UPCOMING SGPN H4hrtQaE4M8 NFL Week 7 Betting Pregame Show: NFL Picks, Prop Bets, DFS P  (not aired yet - scheduled for 10/25/26 12:00PM)
 UPCOMING SGPN fD_xkfCjfBg NFL Week 7 Prop Bets, Best Bets & Predictions  (not aired yet - scheduled for 10/22/26 7:00PM)
 UPCOMING SGPN EAdqEoZutAw NFL Week 7 Picks, Best Bets & Predictions  (not aired yet - scheduled for 10/21/26 11:30PM)
-NONE    channel SGPNPropcast: nothing new this week (or everything already saved)
-NONE    channel ActionNetwork: nothing new this week (or everything already saved)
-NONE    channel DFSArmy: nothing new this week (or everything already saved)
-NONE    channel DFSArmyLive: nothing new this week (or everything already saved)
-NONE    channel TheAudible: nothing new this week (or everything already saved)
-NEW     NFL/transcripts/week-07/TCW-vIJ0udM_PlayerProfiler_Week_7_TOP_Kickers_Defenses_High_Upside_Streamers.txt  (1,881 words)
-UPCOMING Stokastic B8UBNNxpDU4 Week 7 NFL DFS: Single Lineup Sim Building | NFL DFS Strateg  (not aired yet - scheduled for 10/21/26 10:00AM)
-UPCOMING Stokastic 1wi9E1VkJoM Patriots-Bears Showdown Strategy TNF Week 7 DFS Picks | NFL   (not aired yet - scheduled for 10/22/26 10:00AM)
-UPCOMING Stokastic wPZdP4TxfGg NFL DFS Showdown Live Before Lock | Patriots-Bears TNF Week   (not aired yet - scheduled for 10/22/26 7:15PM)
-UPCOMING Stokastic GJNEasXb9GU NFL DFS Sims Tournament Strategy Week 7 | NFL DFS Strategy  (not aired yet - scheduled for 10/23/26 10:00AM)
-UPCOMING Stokastic 6ixstVPngqc NFL DFS Live Before Lock | Week 7 NFL DFS Picks for DraftKin  (not aired yet - scheduled for 10/25/26 9:30AM)
-UPCOMING Stokastic ykF8oRyY4aM Cowboys-Eagles Showdown Strategy MNF Week 7 DFS Picks | NFL   (not aired yet - scheduled for 10/26/26 10:00AM)
+NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/5sLUh76rkZM_ActionNetwork_NFL_Prediction_Markets_The_BIGGEST_Futures_Opportunities_Right_Now.txt  (10,867 words)
+NEW     NFL/transcripts/week-07/ujJLFgATYxE_ActionNetwork_Top_Week_7_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt  (8,895 words)
+NEW     NFL/transcripts/week-07/o44jmHZHcrw_DFSArmy_NFL_DFS_Week_7_Strategy_for_DraftKings_2026.txt  (9,941 words)
+NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/4LBSEbWF1sM_TheAudible_WAIVER_WIRE_GOLD_Omar_Cooper_Jonah_Coleman_Tyrone_Tracy_Who_Should_You.txt  (7,272 words)
+NEW     NFL/transcripts/week-07/SJFuzX6hsIM_TheAudible_Which_New_England_Running_Back_Should_You_Drop_To_Set_a_Fantasy_Footba.txt  (4,518 words)
+NOCAPS  PlayerProfiler Oe93CPt90t4 Which Offenses Can We Still Trust? JJ McCarthy, Cowboys, Bea  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-07/_OfrdHz2_EA_PlayerProfiler_Dylan_Sampson_Must_Add_Fantasy_Football_Week_7_Waiver_Wire.txt  (9,692 words)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
