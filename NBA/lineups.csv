@@ -1,4 +1,4 @@
-,,,,,,Last Refresh:,2026-10-21 11:48,,RW Proj,DraftEdge,DFF Proj,B5 Proj,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,Ceiling,Avg Proj,Max,Total
+,,,,,,Last Refresh:,2026-10-21 11:48,,RW Proj,DraftEdge,DFF Proj,B5 Proj,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,RotoB,Avg Proj,Max,Total
 0,,,,,,History Date:,2026-10-20,,0.09,0.06,0.11,0.1,0.07,0.06,0.12,0.05,0.04,0.08,0.07,0.1,0.05,1
 Optimal Lineup - Weighted,Pos,Salary,Projection,2025-02-02 14:53,Result,,,,,,,,,,,,,,,,,
 Cade Cunningham,PG,10200,52.55675174865288,,51.1,,Metric,Source,Value,Accuracy,,,,,,,,,,,,
@@ -63994,3 +63994,15 @@ Isaiah Hartenstein,F/C,4600,32.2,,16.1,,,,,,,,,,,,,,,,,
 Jalen Brunson,UTIL,8000,41.6,,29.5,,,,,,,,,,,,,,,,,
 Karl-Anthony Towns,UTIL,7700,43.89,,39.9,,,,,,,,,,,,,,,,,
 Total,,60000,337.96,,309,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Optimal Lineup - Weighted,Pos,Salary,Projection,2026-10-20 16:45,Result,,,,,,,,,,,,,,,,,
+De'Aaron Fox,PG,6100,32.0926162879607,,33.9,,,,,,,,,,,,,,,,,
+Jalen Williams,SG,7000,34.63738092261298,,29.4,,,,,,,,,,,,,,,,,
+Jaylen Brown,SF,7600,38.81069135198572,,41.6,,,,,,,,,,,,,,,,,
+Josh Hart,PF,5700,31.179071476952007,,30.9,,,,,,,,,,,,,,,,,
+Isaiah Hartenstein,C,4600,25.524322070583153,,16.1,,,,,,,,,,,,,,,,,
+Dylan Harper,G/F,5200,31.39567365701534,,31.9,,,,,,,,,,,,,,,,,
+Joel Embiid,F/C,7900,40.21951449269707,,46.2,,,,,,,,,,,,,,,,,
+Jalen Brunson,UTIL,8000,39.705285971874616,,29.5,,,,,,,,,,,,,,,,,
+Karl-Anthony Towns,UTIL,7700,41.25907765742177,,39.9,,,,,,,,,,,,,,,,,
+Total,,59800,314.82363388910335,,299.4,,,,,,,,,,,,,,,,,
