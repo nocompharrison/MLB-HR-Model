@@ -1,13 +1,15 @@
-# NFL sources | season 2026 | week 6 | updated 2026-10-18 11:46 ET
+# NFL sources | season 2026 | week 7 | updated 2026-10-22 19:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-06/primer_p1.md                     UPDATED (changed since 2026-10-18 09:33) 52,770 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/
-OK      NFL/sources/week-06/primer_p2.md                     UPDATED (changed since 2026-10-18 09:33) 48,476 chars https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-06/primer_p3.md                     no changes since 2026-10-18 09:30  https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-06/primer_p4.md                     no changes since 2026-10-18 09:33  https://www.fantasypros.com/2026/10/the-primer-week-6-edition-2026-fantasy-football/4/
-OK      NFL/sources/week-06/fantasypoints_startsit.md        no changes since 2026-10-18 09:30  https://www.fantasypoints.com/nfl/articles/2026/week-6-fantasy-football-start-em-sit-em-advice
-OK      NFL/sources/week-06/rotoballer_startsit.md           UPDATED (changed since 2026-10-18 09:33) 138,717 chars https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-6-2026
-FAILED  NFL/sources/week-06/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk6.html
-OK      NFL/sources/week-06/4for4_startsit.md                UPDATED (changed since 2026-10-18 09:33) 67,321 chars https://www.4for4.com/2026/w6/fantasy-football-week-6-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-06/fantasypros_news.md              UPDATED (changed since 2026-10-18 09:30) 28,016 chars https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-06/4for4_oline.md                   UPDATED (changed since 2026-10-18 09:33) 33,961 chars https://www.4for4.com/2026/w6/nfl-offensive-line-rankings-week-6-matchups-exploit
+OK      NFL/sources/week-07/primer_p1.md                     54,261 chars                       https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/
+OK      NFL/sources/week-07/primer_p2.md                     45,834 chars                       https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-07/primer_p3.md                     42,849 chars                       https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-07/primer_p4.md                     26,806 chars                       https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/4/
+FAILED  NFL/sources/week-07/fantasypros_grades.md            HTTP 404                           https://www.fantasypros.com/2026/10/fantasy-football-week-7-player-grades-start-sit-advice-2026/
+OK      NFL/sources/week-07/fantasypoints_startsit.md        82,327 chars                       https://www.fantasypoints.com/nfl/articles/2026/week-7-fantasy-football-start-em-sit-em-advice
+FAILED  NFL/sources/week-07/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-7-2026
+OK      NFL/sources/week-07/fftoday.md                       9,995 chars                        https://www.fftoday.com/articles/ff/26-ff-wk7.html
+OK      NFL/sources/week-07/4for4_startsit.md                66,073 chars                       https://www.4for4.com/2026/w7/fantasy-football-week-7-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-07/fantasypros_news.md              29,945 chars                       https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-07/4for4_oline.md                   31,867 chars                       https://www.4for4.com/2026/w7/nfl-offensive-line-rankings-week-7-matchups-exploit
+OK      NFL/sources/week-07/rotoballer_betting.md            329,314 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
