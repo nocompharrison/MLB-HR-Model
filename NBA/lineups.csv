@@ -1,5 +1,5 @@
-,,,,,,Last Refresh:,2026-10-22 12:17,,RW Proj,DraftEdge,DFF Proj,B5 Proj,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,RotoB,Avg Proj,Max,Total
-0,,,,,,History Date:,2026-10-20,,0.09,0.06,0.11,0.1,0.07,0.06,0.12,0.05,0.04,0.08,0.07,0.1,0.05,1
+,,,,,,Last Refresh:,2026-10-22 12:47,,RW Proj,DraftEdge,DFF Proj,B5 Proj,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,RotoB,Avg Proj,Max,Total
+0,,,,,,History Date:,2026-10-20,,0.09,0.06,0.11,0.1,0.07,0.06,0.09,0.05,0.04,0.08,0.1,0.1,0.05,1
 Optimal Lineup - Weighted,Pos,Salary,Projection,2025-02-02 14:53,Result,,,,,,,,,,,,,,,,,
 Cade Cunningham,PG,10200,52.55675174865288,,51.1,,Metric,Source,Value,Accuracy,,,,,,,,,,,,
 James Harden,PG,9200,46.89673475346196,,48.5,,Best Accuracy (Lowest Avg Error),AI: Cash,3.43,0.9895244785144917,,,,,,,,,,,,
@@ -64210,3 +64210,15 @@ Myles Turner,F/C,5500,42.120000000000005,,21.5,,,,,,,,,,,,,,,,,
 Kyle Filipowski,UTIL,4200,37.54,,6,,,,,,,,,,,,,,,,,
 Keyonte George,UTIL,6900,51.62,,34.1,,,,,,,,,,,,,,,,,
 Total,,59100,435.8500000000001,,299,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Optimal Lineup - Weighted,Pos,Salary,Projection,2026-10-21 18:58,Result,,,,,,,,,,,,,,,,,
+Tyrese Haliburton,PG,8300,44.461978337421314,,43.4,,,,,,,,,,,,,,,,,
+Ty Jerome,SG,6800,37.891215787473236,,64.4,,,,,,,,,,,,,,,,,
+Yaxel Lendeborg,SF,5100,29.12556223428071,,21.6,,,,,,,,,,,,,,,,,
+Paolo Banchero,PF,8400,45.492087080007785,,55.4,,,,,,,,,,,,,,,,,
+Jalen Smith,C,4500,27.59361916283823,,29.1,,,,,,,,,,,,,,,,,
+Darius Garland,G/F,7400,42.91711189857894,,37.2,,,,,,,,,,,,,,,,,
+Ivica Zubac,F/C,6100,36.0956163996496,,39,,,,,,,,,,,,,,,,,
+Trae Young,UTIL,7300,44.16912286665368,,44.5,,,,,,,,,,,,,,,,,
+Immanuel Quickley,UTIL,6100,36.34805877204594,,44.3,,,,,,,,,,,,,,,,,
+Total,,60000,344.09437253894936,,378.90000000000003,,,,,,,,,,,,,,,,,
