@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-props-for-friday-october-23 | fetched: 2026-10-23 12:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-props-for-friday-october-23 | fetched: 2026-10-23 14:32 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Props for Friday, October 23
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2m
+2h
 Link
 ![NBA Props Today: 3 Best NBA Player Props for Friday, October 23](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F08264a5761c204ebf2ae1a2d22592008646ed073-5359x3573.jpg%3Frect%3D0%2C461%2C5359%2C2652%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -35,7 +35,7 @@ _Timberwolves at Magic — 7:00 p.m. ET_
 Rudy Gobert - Rebounds
 Rudy Gobert Over
 O 11.5
--114
+-112
 Oct 23 11:10pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/minnesota-timberwolves-@-orlando-magic-36220986)
 Odds/lines subject to change
 [Rudy Gobert](https://sportsbook.fanduel.com/teams/nba/roster/rudy-gobert-2178/player-props) opened the season by hauling in 15 rebounds for the [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds), immediately putting his rebounding role on display.
@@ -46,7 +46,7 @@ _Clippers at Lakers — 10:00 p.m. ET_
 Luka Doncic - Points
 Luka Doncic Over
 O 32.5
-+102
+-102
 Oct 24 2:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-los-angeles-lakers-36220983)
 Odds/lines subject to change
 [Luka Doncic](https://sportsbook.fanduel.com/teams/nba/roster/luka-doncic-2645) is coming off a 2025-26 campaign in which he led the NBA with 33.5 points per game, putting this 32.5-point line slightly below his scoring average from last season.
@@ -94,6 +94,7 @@ Key factors to research before betting points props include the player's recent 
 PRA stands for Points + Rebounds + Assists — a combined stat prop that totals all three categories into one number. For example, a Nikola Jokic PRA line might be set at 49.5.
 PRA props are popular for versatile players because their contributions span multiple statistical categories. They're less volatile than single-stat props since a slow scoring night can be offset by a strong rebounding or passing game.
 * * *
+New customers can get up to [$350 in Bonus Bets](https://sportsbook.fanduel.com/promotions/ACQB5G350BB1013) — guaranteed — when you bet $5 every day for seven days. Place your first wager now! [See here](https://sportsbook.fanduel.com/promotions/ACQB5G350BB1013) for full terms and conditions. **Learn about today's other offers at[FanDuel Sportsbook Promos](https://sportsbook.fanduel.com/promotions).**
 Looking for the latest [NBA odds](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba)? Head over to FanDuel Sportsbook and check out all of the [NBA betting](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba) options.
 Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://www.fanduel.com/contests) today!
 * * *
@@ -101,23 +102,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
-## [NBA DFS Picks Today: Best FanDuel Plays for Friday, October 23](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-friday-october-23)
-30m
-What are the best NBA DFS picks for Friday's FanDuel slate?
-[](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-friday-october-23)
+## [Celtics vs. Knicks Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+20m
+Find Celtics vs. Knicks predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
+[](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks Today: 3 NBA Predictions and Best Bets for Friday, October 23](https://www.fanduel.com/research/nba-picks-today-nba-predictions-best-bets-oct-23-26)
-2h
-NBA predictions and best bets for today. What are Friday's top NBA picks?
-[](https://www.fanduel.com/research/nba-picks-today-nba-predictions-best-bets-oct-23-26)
+## [Heat vs. Pistons Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+24m
+Find Heat vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
+[](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
-## [Nuggets vs. Thunder Prediction: NBA Picks and Prop Bets (Oct. 22)](https://www.fanduel.com/research/nuggets-vs-thunder-prediction-picks-prop-bets-oct-22)
-16h
-Thunder vs. Nuggets NBA picks and prediction for tonight.
-[](https://www.fanduel.com/research/nuggets-vs-thunder-prediction-picks-prop-bets-oct-22)
+## [Spurs vs. Rockets Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/spurs-vs-rockets-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+24m
+Find Spurs vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
+[](https://www.fanduel.com/research/spurs-vs-rockets-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
-## [Best NBA Props Today: 3 NBA Player Prop Bets for Thursday, Oct. 22](https://www.fanduel.com/research/nba-props-today-thursday-oct-22)
-19h
-What are the best NBA player props for today? Three NBA prop bets for tonight's two-game slate.
-[](https://www.fanduel.com/research/nba-props-today-thursday-oct-22)
+## [Pacers vs. Mavericks Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/pacers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+24m
+Find Pacers vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
+[](https://www.fanduel.com/research/pacers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 
