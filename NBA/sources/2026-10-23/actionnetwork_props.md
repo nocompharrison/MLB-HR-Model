@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-predictions-picks-expert-bets-for-friday-october-23 | fetched: 2026-10-23 17:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-predictions-picks-expert-bets-for-friday-october-23 | fetched: 2026-10-23 18:04 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -116,6 +116,9 @@ Jun 5th
 8:30 PM on ABC
 •
 115.9k bets
+Josh Hart MORE assists than Stephon Castle
++208 (1.1u)
+Copy Bet
 Jalen Brunson OR Julian Champagnie 6+ 3pm
 +660 (0.25u)
 Copy Bet
@@ -124,9 +127,6 @@ OG Anunoby OR Julian Champagnie 5+ 3PM
 Copy Bet
 OG Anunoby OR Julian Champagnie 4+ 3s
 +120 (0.55u)
-Copy Bet
-Josh Hart MORE assists than Stephon Castle
-+208 (1.1u)
 Copy Bet
 See All
 ## Hawks vs. Hornets
@@ -328,37 +328,37 @@ Ja Morant Over 5.5 Assists
 NBA
 [NBA Best Bets for Celtics vs Knicks, Spurs vs Rockets, More on Friday, October 23](https://www.actionnetwork.com/nba/nba-best-bets-for-celtics-vs-knicks-spurs-vs-rockets-more-on-friday-october-23)
 Action Network Staff
-6 hours ago
+7 hours ago
 [![NBA Parlay Picks: SGP Predictions for Rockets vs Spurs, Clippers vs Lakers on Friday, October 23](https://images.actionnetwork.com/blog/2026/10/NBA-SGP-Playbook-10_23_26.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-rockets-vs-spurs-clippers-vs-lakers-friday-october-23)
 NBA
 [NBA Parlay Picks: SGP Predictions for Rockets vs Spurs, Clippers vs Lakers on Friday, October 23](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-rockets-vs-spurs-clippers-vs-lakers-friday-october-23)
 Alex Hinton
-5 hours ago
+6 hours ago
 [![Knicks vs Celtics Prediction, Pick, NBA Odds for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/Knicks-vs-Celtics-10_23_26-Final.jpg)](https://www.actionnetwork.com/nba/new-york-knicks-vs-boston-celtics-prediction-pick-odds-nba-friday-october-23)
 NBA
 [Knicks vs Celtics Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/new-york-knicks-vs-boston-celtics-prediction-pick-odds-nba-friday-october-23)
 Matt Moore
-7 hours ago
+8 hours ago
 [![NBA Player Props: 6 Picks & Predictions for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/NBA-Props-10_23.jpg)](https://www.actionnetwork.com/nba/nba-player-props-6-picks-predictions-for-friday-october-23)
 NBA
 [NBA Player Props: 6 Picks & Predictions for Friday, October 23](https://www.actionnetwork.com/nba/nba-player-props-6-picks-predictions-for-friday-october-23)
 Action Network Staff
-5 hours ago
+6 hours ago
 [![Pistons vs Heat Prediction, Pick, NBA Odds for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/Pistons-vs-Heat-10_23_26.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-miami-heat-prediction-pick-odds-nba-friday-october-23)
 NBA
 [Pistons vs Heat Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/detroit-pistons-vs-miami-heat-prediction-pick-odds-nba-friday-october-23)
 Matt Moore
-6 hours ago
+7 hours ago
 [![NBA Total Predictions, Over/Under Picks for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/NBA-Total-Picks-10.23.26.jpg)](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-friday-october-23)
 NBA
 [NBA Total Predictions, Over/Under Picks for Friday, October 23](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-friday-october-23)
 Ameer Tyree
-3 hours ago
+4 hours ago
 [![Timberwolves vs Magic Prediction, Pick, NBA Odds for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/Timberwolves-vs-Magic-10_23_26.jpg)](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-orlando-magic-prediction-pick-odds-nba-friday-october-23)
 NBA
 [Timberwolves vs Magic Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-orlando-magic-prediction-pick-odds-nba-friday-october-23)
 Matt Moore
-7 hours ago
+8 hours ago
 [![NBA Moneyline Picks: 2 Upset Predictions for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/NBA-Moneyline-Underdogs-10_23.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-friday-october-23)
 NBA
 [NBA Moneyline Picks: 2 Upset Predictions for Friday, October 23](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-friday-october-23)
@@ -368,18 +368,18 @@ TODAY / 1:12 AM EDT
 NBA
 [Hawks vs Hornets Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/atlanta-hawks-vs-charlotte-hornets-prediction-pick-nba-odds-friday-october-23)
 Matt Moore
-7 hours ago
+8 hours ago
 [![Raptors vs Wizards Prediction, Pick, NBA Odds for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/Raptors-vs-Wizards-10_23_26.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-washington-wizards-prediction-pick-odds-nba-friday-october-23)
 NBA
 [Raptors vs Wizards Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/toronto-raptors-vs-washington-wizards-prediction-pick-odds-nba-friday-october-23)
 Matt Moore
-7 hours ago
+8 hours ago
 [![Rockets vs Spurs Prediction, Pick, NBA Odds for Friday, October 23](https://images.actionnetwork.com/blog/2026/10/smith_jabari_102326.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-san-antonio-spurs-prediction-pick-nba-odds-friday-october-23)
 NBA
 [Rockets vs Spurs Prediction, Pick, NBA Odds for Friday, October 23](https://www.actionnetwork.com/nba/houston-rockets-vs-san-antonio-spurs-prediction-pick-nba-odds-friday-october-23)
 Joe Dellera
-5 hours ago
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7e1cba31-a229-4c49-8c1e-26efd47ed2a2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b317b6f9-2849-42f1-a1bb-1a04f3c6b1bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=7&tw_session_id=1792789386962-349985468&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7e1cba31-a229-4c49-8c1e-26efd47ed2a2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b317b6f9-2849-42f1-a1bb-1a04f3c6b1bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=7&tw_session_id=1792789386962-349985468&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4ad62fca-9fde-4f01-88be-13f711c8c656&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b317b6f9-2849-42f1-a1bb-1a04f3c6b1bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=7374&tw_iframe_status=0&tw_pid_src=2&tw_session_count=7&tw_session_id=1792789386962-349985468&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4ad62fca-9fde-4f01-88be-13f711c8c656&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b317b6f9-2849-42f1-a1bb-1a04f3c6b1bf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=7374&tw_iframe_status=0&tw_pid_src=2&tw_session_count=7&tw_session_id=1792789386962-349985468&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=58266e1e-af88-4503-a332-07a2bec3b6de&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3b89b6cd-2ae1-4abd-93fb-e23ec6f5960b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=8&tw_session_id=1792792977684-534744944&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=58266e1e-af88-4503-a332-07a2bec3b6de&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3b89b6cd-2ae1-4abd-93fb-e23ec6f5960b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=8&tw_session_id=1792792977684-534744944&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=63687ddd-9a73-40e6-a64d-950eccac170d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3b89b6cd-2ae1-4abd-93fb-e23ec6f5960b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=7366&tw_iframe_status=0&tw_pid_src=2&tw_session_count=8&tw_session_id=1792792977684-534744944&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=63687ddd-9a73-40e6-a64d-950eccac170d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3b89b6cd-2ae1-4abd-93fb-e23ec6f5960b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-picks-expert-bets-for-friday-october-23&tw_engaged_ms=7366&tw_iframe_status=0&tw_pid_src=2&tw_session_count=8&tw_session_id=1792792977684-534744944&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

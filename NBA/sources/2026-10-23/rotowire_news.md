@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-23 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-23 18:04 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,82 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Will be on minutes restriction Friday](https://www.rotowire.com/basketball/headlines/kyrie-irving-news-will-be-on-minutes-restriction-friday-535706)
+**G** Dallas Mavericks
+October 23, 2026
+Irving (knee) will be on a minutes restriction in Friday's game against the Pacers, [Tony East of Forbes.com](https://x.com/TonyREast/status/2113747291450360197?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Good to go Friday](https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-good-to-go-friday-535705)
+**F** Indiana Pacers
+October 23, 2026
+Nesmith (hamstring) will play in Friday's game against Dallas, [Tony East of Forbes.com](https://x.com/TonyREast/status/2113742371976294770?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ben Sheppard](https://www.rotowire.com/basketball/player/ben-sheppard-6033)[Out Friday, no timetable for return](https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-out-friday-no-timetable-for-return-535704)
+**G** Indiana Pacers
+Knee
+October 23, 2026
+Head coach Rick Carlisle said Friday that Sheppard is without a timetable to return due to a left meniscus injury, [Tony East of Forbes.com](https://x.com/TonyREast/status/2113742326078074922?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Felix Okpara](https://www.rotowire.com/basketball/player/felix-okpara-7005)[Available Friday](https://www.rotowire.com/basketball/headlines/felix-okpara-news-available-friday-535702)
+**C** Washington Wizards
+October 23, 2026
+Okpara (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_15PM.pdf) for Friday's game against Toronto.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Tacko Fall](https://www.rotowire.com/basketball/player/tacko-fall-4855)[Still sidelined](https://www.rotowire.com/basketball/headlines/tacko-fall-injury-still-sidelined-535701)
+**C** Philadelphia 76ers
+Quadriceps
+October 23, 2026
+Fall (quadriceps) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Khalifa Diop](https://www.rotowire.com/basketball/player/khalifa-diop-5681)[Remains out](https://www.rotowire.com/basketball/headlines/khalifa-diop-injury-remains-out-535700)
+**C** Cleveland Cavaliers
+Knee
+October 23, 2026
+Diop (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game against the Nets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Tyler Bilodeau](https://www.rotowire.com/basketball/player/tyler-bilodeau-6974)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/tyler-bilodeau-injury-wont-play-saturday-535699)
+**F** Brooklyn Nets
+Shoulder
+October 23, 2026
+Bilodeau (shoulder) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game in Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/dean-wade-injury-questionable-for-saturday-535698)
+**F** Philadelphia 76ers
+Ankle
+October 23, 2026
+Wade is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game against the Bucks due to a left ankle sprain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Will play Saturday, expected to sit Sunday](https://www.rotowire.com/basketball/headlines/joel-embiid-news-will-play-saturday-expected-to-sit-sunday-535697)
+**C** Philadelphia 76ers
+October 23, 2026
+Embiid (rest) is off [the injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/lebron-james-injury-questionable-for-saturday-535696)
+**F** Philadelphia 76ers
+Back
+October 23, 2026
+James (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_05_00PM.pdf) for Saturday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
 [Luke Kennard](https://www.rotowire.com/basketball/player/luke-kennard-4123)[Practices Friday](https://www.rotowire.com/basketball/headlines/luke-kennard-injury-practices-friday-535694)
 **G** Phoenix Suns
@@ -123,76 +199,6 @@ Johnson (mouth) participated in shooting drills after Friday's morning shootarou
 Wrist
 October 23, 2026
 Fox (wrist) participated in Friday's morning shootaround, [Tom Orsborn of the San Antonio Express-News](https://x.com/tom_orsborn/status/2113683520476340495?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Bennett Stirtz](https://www.rotowire.com/basketball/player/bennett-stirtz-6982)[Buried on depth chart](https://www.rotowire.com/basketball/headlines/bennett-stirtz-news-buried-on-depth-chart-535679)
-**G** Oklahoma City Thunder
-October 23, 2026
-Stirtz notched zero points (0-1 FG, 0-1 3Pt) across two minutes during Thursday's 96-84 win over the Nuggets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Dailyn Swain](https://www.rotowire.com/basketball/player/dailyn-swain-6986)[Upgraded to available](https://www.rotowire.com/basketball/headlines/dailyn-swain-news-upgraded-to-available-535678)
-**F** Chicago Bulls
-October 23, 2026
-Swain (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_15PM.pdf) for Friday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Zach Collins](https://www.rotowire.com/basketball/player/zach-collins-4162)[Available to play](https://www.rotowire.com/basketball/headlines/zach-collins-news-available-to-play-535677)
-**C** Chicago Bulls
-October 23, 2026
-Collins (quadriceps) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_15PM.pdf) for Friday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Available Friday](https://www.rotowire.com/basketball/headlines/tobe-awaka-news-available-friday-535676)
-**C** Chicago Bulls
-October 23, 2026
-Awaka (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_15PM.pdf) for Friday's game versus the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Jordan Hawkins](https://www.rotowire.com/basketball/player/jordan-hawkins-5935)[Available Friday](https://www.rotowire.com/basketball/headlines/jordan-hawkins-news-available-friday-535675)
-**G** Chicago Bulls
-October 23, 2026
-Hawkins (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_15PM.pdf) for Friday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Josh Giddey](https://www.rotowire.com/basketball/player/josh-giddey-5366)[Cleared to play Friday](https://www.rotowire.com/basketball/headlines/josh-giddey-news-cleared-to-play-friday-535674)
-**G** Chicago Bulls
-October 23, 2026
-Giddey (wrist) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_15PM.pdf) for Friday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Tyrese Proctor](https://www.rotowire.com/basketball/player/tyrese-proctor-6569)[Limited to five minutes](https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-limited-to-five-minutes-535673)
-**G** Cleveland Cavaliers
-October 23, 2026
-Proctor contributed zero points (0-1 FG) in five minutes during Thursday's 114-106 loss to the 76ers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Struggles from field](https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-struggles-from-field-535672)
-**F** Cleveland Cavaliers
-October 23, 2026
-Tyson provided three points (1-6 FG, 0-4 3Pt, 1-2 FT), six rebounds, two assists, two blocks and one steal across 24 minutes during Thursday's 114-106 loss to the 76ers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254)[Quiet in opener](https://www.rotowire.com/basketball/headlines/sam-merrill-news-quiet-in-opener-535671)
-**G** Cleveland Cavaliers
-October 23, 2026
-Merrill chipped in five points (2-5 FG, 1-3 3Pt), five rebounds, two assists and one steal over 24 minutes during Thursday's 114-106 loss to Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[Upgraded to available](https://www.rotowire.com/basketball/headlines/taurean-prince-news-upgraded-to-available-535670)
-**F** Detroit Pistons
-October 23, 2026
-Prince (personal) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_00PM.pdf) for Friday's game against the Heat.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

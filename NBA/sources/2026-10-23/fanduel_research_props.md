@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23 | fetched: 2026-10-23 17:05 ET -->
+<!-- source: https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23 | fetched: 2026-10-23 18:04 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets (Oct. 23)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-5m
+1h
 Link
 ![Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets \(Oct. 23\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6487e897b090a4d75f46bedd4fbe894377c8d77e-6000x4000.jpg%3Frect%3D0%2C237%2C6000%2C2969%26w%3D964%26h%3D477&w=1920&q=100)
 **Knicks vs. Celtics Top Bets at a Glance**
@@ -44,7 +44,7 @@ With Boston at home, I prefer the Celtics to bounce back and cover.
 ### [OG Anunoby 3+ Made Threes (+144)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759?tab=player-threes)
 3+ Made Threes
 [OG Anunoby](https://sportsbook.fanduel.com/teams/nba/roster/og-anunoby-2534)
-+142
++144
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759)
 Odds/lines subject to change
@@ -73,23 +73,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Best NBA Props Today: 3 NBA Player Prop Bets for Friday, Oct. 23](https://www.fanduel.com/research/nba-props-today-friday-oct-23)
+1h
+Three NBA player prop bets to target on Friday. What are tonight's top NBA props?
+[](https://www.fanduel.com/research/nba-props-today-friday-oct-23)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets (Oct. 23)](https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23)
-5m
+1h
 Knicks vs Celtics prediction and picks for today. How should you bet tonight's Eastern Conference showdown?
 [](https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bucks vs. Bulls Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/bucks-vs-bulls-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-2h
+3h
 Find Bucks vs. Bulls predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
 [](https://www.fanduel.com/research/bucks-vs-bulls-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Celtics vs. Knicks Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-3h
+4h
 Find Celtics vs. Knicks predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
 [](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Heat vs. Pistons Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-3h
-Find Heat vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
-[](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 

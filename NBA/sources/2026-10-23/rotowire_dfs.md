@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-odds-player-props-oct-23-143319 | fetched: 2026-10-23 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-odds-player-props-oct-23-143319 | fetched: 2026-10-23 18:04 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Friday, Oct. 23
 Get the best NBA bets today, Oct. 23, with expert picks, NBA odds, player props and moneyline plays from RotoWire, plus NBA injury news, lineups and fantasy basketball tools.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [**Paul George**](https://www.rotowire.com/basketball/player/paul-george-3114)**Under 17.5 Points (-111) vs. New York Knicks**
 _DraftKings Sportsbook - 1 PM ET_
 **Kirien Sprecher:** George went off during his Celtics debut, posting 38 points on 12-for-21 shooting, including 7-for-12 from deep. He attempted at least 20 shots only five times last season, so I'm treating this performance as an outlier. Seeing as Boston struggled mightily outside of George during the regular-season opener, I expect more cohesion to the offense, which should mean the veteran doesn't take nearly as many shots Friday as he did against Detroit.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=523f2e03-3b72-45fb-bbed-b5349cf8aac6&operator_item_id=b1171a05-d2e7-4c3a-bd97-884f0735e88c&pageview_id=d7bc0b1b-965e-4a8e-9aeb-42ed74893a03)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=4616cc79-5d49-4acf-b39c-6aeb95931c83&operator_item_id=600187b4-f9e3-4b29-b4c1-23ff45bff83a&pageview_id=2eab6efb-1ce8-47cc-ad17-5da06d6d8cc2)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=b2e2c1f9-8d07-4b01-93a0-d4666d70b342&operator_item_id=b1171a05-d2e7-4c3a-bd97-884f0735e88c&pageview_id=d7bc0b1b-965e-4a8e-9aeb-42ed74893a03)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=a9d31ebb-5eea-4542-a4f0-06cf255f3b61&operator_item_id=556434ca-cb1c-4b59-9d51-1a4dba4abdd8&pageview_id=d7bc0b1b-965e-4a8e-9aeb-42ed74893a03) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=418c8228-3b32-4f73-939c-c804d5b8ce66&operator_item_id=600187b4-f9e3-4b29-b4c1-23ff45bff83a&pageview_id=2eab6efb-1ce8-47cc-ad17-5da06d6d8cc2)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=bf0c3069-6eca-47ea-837f-fdd78f6f3b4b&operator_item_id=0cbb3fc0-6e33-49b7-9012-b3a9a11d5c03&pageview_id=2eab6efb-1ce8-47cc-ad17-5da06d6d8cc2) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=ea29d6b9-b4d9-4b36-93be-537d6555474a&operator_item_id=556434ca-cb1c-4b59-9d51-1a4dba4abdd8&pageview_id=d7bc0b1b-965e-4a8e-9aeb-42ed74893a03)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-odds-player-props-oct-23-143319&cta_id=d39e8bc2-b8eb-4e0c-81d4-49620de154dd&operator_item_id=0cbb3fc0-6e33-49b7-9012-b3a9a11d5c03&pageview_id=2eab6efb-1ce8-47cc-ad17-5da06d6d8cc2)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  [Darius Garland](https://www.rotowire.com/basketball/player/darius-garland-4749) under 7.5 assists (-127) at Los Angeles Lakers
 _Novig, 4:40 PM ET_
@@ -52,6 +52,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
+Will play Saturday, expected to sit Sunday
+NBA
+Philadelphia 76ers
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
+Questionable for Saturday
+NBA
+Philadelphia 76ers
   * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
 [Zach Charbonnet](https://www.rotowire.com/football/player/zach-charbonnet-16897)
 Ruled out for Week 7
@@ -67,16 +77,6 @@ San Francisco 49ers
 Full practice Friday
 NFL
 Dallas Cowboys
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Potential game-time decision
-NFL
-Baltimore Ravens
-  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
-[Puka Nacua](https://www.rotowire.com/football/player/puka-nacua-16790)
-Won't practice Friday, to be questionable
-NFL
-Los Angeles Rams
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -108,31 +108,31 @@ Tampa Bay Rays
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
+Will play Saturday, expected to sit Sunday
+NBA
+Philadelphia 76ers
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
+Questionable for Saturday
+NBA
+Philadelphia 76ers
   * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Josh Giddey](https://www.rotowire.com/basketball/player/josh-giddey-5366)
 Cleared to play Friday
 NBA
 Chicago Bulls
-  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Brandin Podziemski](https://www.rotowire.com/basketball/player/brandin-podziemski-5889)
-Upgraded to probable
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Will be on minutes restriction Friday
 NBA
-Golden State Warriors
-  * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)
-Restrictions will continue
+Dallas Mavericks
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
+Good to go Friday
 NBA
-Brooklyn Nets
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)
-Goes through shootaround
-NBA
-San Antonio Spurs
-  * ![Sacramento Kings](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Sean Pedulla](https://www.rotowire.com/basketball/player/sean-pedulla-6630)
-Signs with Sacramento
-NBA
-Sacramento Kings
+Indiana Pacers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -174,6 +174,11 @@ Edmonton Oilers
 Traded to New Jersey
 NHL
 New Jersey Devils
+  * ![Washington Capitals](https://assets.rotowire.com/images/teamlogo/hockey/100WSH.png?v=5)
+[Mitchell Gibson](https://www.rotowire.com/hockey/player/mitchell-gibson-6880)
+Up from AHL
+NHL
+Washington Capitals
   * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
 [Tristan Jarry](https://www.rotowire.com/hockey/player/tristan-jarry-4198)
 Set to start Saturday
@@ -182,11 +187,6 @@ Edmonton Oilers
   * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
 [Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
 Set to play Friday
-NHL
-Tampa Bay Lightning
-  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
-[Andrei Vasilevskiy](https://www.rotowire.com/hockey/player/andrei-vasilevskiy-3989)
-Starting Friday's matchup
 NHL
 Tampa Bay Lightning
 
