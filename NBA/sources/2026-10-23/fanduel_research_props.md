@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-props-for-friday-october-23 | fetched: 2026-10-23 14:32 ET -->
+<!-- source: https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23 | fetched: 2026-10-23 17:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -8,117 +8,88 @@ START YOUR OWN WINNING STREAK
 ![SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 [ See Promos ChevronRight ](https://sportsbook.fanduel.com/promotions)
 [NBA](https://www.fanduel.com/research/nba)
-# NBA Props Today: 3 Best NBA Player Props for Friday, October 23
+# Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets (Oct. 23)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+5m
 Link
-![NBA Props Today: 3 Best NBA Player Props for Friday, October 23](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F08264a5761c204ebf2ae1a2d22592008646ed073-5359x3573.jpg%3Frect%3D0%2C461%2C5359%2C2652%26w%3D964%26h%3D477&w=1920&q=100)
-**Today’s Best NBA Prop Bets at a Glance**
-  * Rudy Gobert Over 11.5 Rebounds (-114)
-  * Luka Doncic Over 32.5 Points (+102)
-  * Stephen Curry Over 4.5 Made Threes (+130)
+![Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets \(Oct. 23\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6487e897b090a4d75f46bedd4fbe894377c8d77e-6000x4000.jpg%3Frect%3D0%2C237%2C6000%2C2969%26w%3D964%26h%3D477&w=1920&q=100)
+**Knicks vs. Celtics Top Bets at a Glance**
+  * Celtics -2.5 (-110)
+  * OG Anunoby 3+ Made Threes (+144)
 
 
 * * *
-Friday's NBA schedule is loaded with 12 games, giving us a deep [NBA player props](https://sportsbook.fanduel.com/navigation/nba?tab=player-props) menu to sift through. 
-With several stars making their second appearances of the young season, we can lean on established roles and last season's production while also taking note of what happened on opening night.
-What are tonight’s best NBA prop bets to target at FanDuel?
-_Please note: lines and projections are subject to change throughout the day after this article is published. All[NBA odds](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba) come from FanDuel Sportsbook._
+Two teams that underwhelmed in their openers tangle tonight in Boston as the Celtics host the Knicks.
+New York fell at home to Philly on Tuesday while the Celtics lost at Detroit. 
+With both sides looking for their first win of the campaign, which [NBA odds](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba) from FanDuel Sportsbook look like the best bets for today’s game? 
+You can also check out our [player news](https://www.fanduel.com/research/nba/player-news) page to stay up to date with injury news.
+_Please note lines are subject to change throughout the day after this article is published. Bets in this article may be pulled from our other[NBA content](https://www.fanduel.com/research/nba/news)._
 * * *
 **Take advantage of FanDuel’s NBA Profit Boost for today!**
 Get a [50% Profit Boost Token](https://sportsbook.fanduel.com/promotions/LONBAPPBT1023) to use on ANY wager for any NBA Games on October 23rd, 2026! [See here](https://sportsbook.fanduel.com/promotions/LONBAPPBT1023) for full terms and conditions.
 * * *
-## NBA Prop Bets for Today: Best NBA Props
-### [Rudy Gobert Over 11.5 Rebounds (-114)](https://sportsbook.fanduel.com/basketball/nba/minnesota-timberwolves-@-orlando-magic-36220986?tab=player-rebounds)
-_Timberwolves at Magic — 7:00 p.m. ET_
-Rudy Gobert - Rebounds
-Rudy Gobert Over
-O 11.5
--112
-Oct 23 11:10pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/minnesota-timberwolves-@-orlando-magic-36220986)
+## Knicks vs. Celtics NBA Picks, Props and Prediction
+### [Celtics -2.5 (-110)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759)
+Spread
+Boston Celtics
+-2.5
+-115
+Oct 23 11:10pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759)
 Odds/lines subject to change
-[Rudy Gobert](https://sportsbook.fanduel.com/teams/nba/roster/rudy-gobert-2178/player-props) opened the season by hauling in 15 rebounds for the [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds), immediately putting his rebounding role on display.
-Gobert averaged 11.5 rebounds per game last season, so we're essentially being asked to back him to slightly outperform his 2025-26 average after he comfortably cleared this number in Minnesota's opener. He remains the Wolves' primary interior presence and should have plenty of opportunities to clean the glass against the [Orlando Magic](https://sportsbook.fanduel.com/teams/nba/orlando-magic/odds).
-There's also a healthy game environment here, with the total sitting at 236.5 points and spread at 1.5 — setting the table for a high-scoring, back-and-forth affair.
-### [Luka Doncic Over 32.5 Points (+102)](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-los-angeles-lakers-36220983)
-_Clippers at Lakers — 10:00 p.m. ET_
-Luka Doncic - Points
-Luka Doncic Over
-O 32.5
--102
-Oct 24 2:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-los-angeles-lakers-36220983)
-Odds/lines subject to change
-[Luka Doncic](https://sportsbook.fanduel.com/teams/nba/roster/luka-doncic-2645) is coming off a 2025-26 campaign in which he led the NBA with 33.5 points per game, putting this 32.5-point line slightly below his scoring average from last season.
-Doncic finished with 28 points in the [Los Angeles Lakers](https://sportsbook.fanduel.com/teams/nba/los-angeles-lakers/odds)' opener despite playing only 30 minutes in a blowout win. He attempted 18 shots, knocked down 5 of his 12 three-point attempts, and went to the free-throw line six times, so the opportunities were still plentiful despite the relatively modest scoring total by his standards.
-We should expect a larger workload if today’s rivalry matchup with the [LA Clippers](https://sportsbook.fanduel.com/teams/nba/los-angeles-clippers/odds) can stay competitive (9.5-point spread). 
-With Doncic's combination of massive usage, three-point volume and ability to create free throws, he can light up the Clips for at least 33 points.
-### [Stephen Curry Over 4.5 Made Threes (+130)](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-golden-state-warriors-36220981?tab=player-threes)
-_Grizzlies at Warriors — 10:00 p.m. ET_
-Stephen Curry - Made Threes
-Stephen Curry Over
-O 4.5
-+130
-Oct 24 2:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-golden-state-warriors-36220981)
-Odds/lines subject to change
-[Stephen Curry](https://sportsbook.fanduel.com/teams/nba/roster/stephen-curry-195) making at least five three-pointers is on my radar.
-Curry averaged 4.4 made threes on 11.3 attempts per game for the [Golden State Warriors](https://sportsbook.fanduel.com/teams/nba/golden-state-warriors/odds) last season, connecting on 39.3% of his shots from beyond the arc. Despite being limited to 43 games, he still buried 190 triples, highlighting the kind of volume we're dealing with.
-Curry made only 2 of 7 three-point attempts in Golden State's opener, but seven attempts represented a sizable drop from his 2025-26 average of 11.3 three-point tries per night. A return closer to his typical double-digit three-point volume would give him plenty of paths to five makes against a [Memphis Grizzlies](https://sportsbook.fanduel.com/teams/nba/memphis-grizzlies/odds) team that is expected to be among the NBA’s worst.
+I’m willing to take the [Boston Celtics](https://sportsbook.fanduel.com/teams/nba/boston-celtics/odds) to cover a short number at home against the [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds).
+Boston lost 121-113 to Detroit in its opener, but the Celtics still showed enough offensively to make this number appealing. They scored at least 30 points in three of the first three quarters before a rough fourth quarter swung the game. New York, meanwhile, managed only 100 points against Philadelphia while shooting 35-for-94 from the field, a 37.2% clip.
+The larger matchup context also favors Boston. The Celtics allowed only 107.2 points per game last season, the best mark in the NBA, and they also ranked among the league leaders in rebounding. That gives them multiple ways to pressure a Knicks offense that struggled to generate efficient looks in its opener.
+With Boston at home, I prefer the Celtics to bounce back and cover.
+### [OG Anunoby 3+ Made Threes (+144)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759?tab=player-threes)
+3+ Made Threes
+[OG Anunoby](https://sportsbook.fanduel.com/teams/nba/roster/og-anunoby-2534)
++142
 * * *
-**Dig into our favorite[NBA picks and predictions](https://www.fanduel.com/research/nba-picks-today-nba-predictions-best-bets-oct-23-26) for today.**
+[View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-boston-celtics-36220759)
+Odds/lines subject to change
+[OG Anunoby](https://sportsbook.fanduel.com/teams/nba/roster/og-anunoby-2534)‘s opening-night shooting line doesn’t look good on the surface, but his volume makes this alternate threes prop interesting.
+He attempted nine three-pointers against Philadelphia, making just one. That kind of volume is exactly what we want when betting an alternate made-threes market, especially considering Anunoby averaged 2.3 made threes per game last season.
+There’s also reason to believe Boston will allow New York to generate perimeter volume. The Celtics surrendered 40 three-point attempts in their opener while Anunoby has already established himself as one of New York’s primary high-volume perimeter shooters. One bad shooting night doesn’t change the underlying role.
 * * *
-### NBA Player Prop Bets FAQ
-**What are NBA player prop bets?**
-NBA player prop bets are wagers on specific statistical outcomes for individual players during a game — independent of which team wins or loses. You might bet on how many points a star guard scores, whether a big man grabs 10 or more rebounds, or how many assists a point guard dishes out.
-**What types of NBA player props are available?**
-FanDuel offers an extensive menu of NBA props. The most common categories include:
-  * Points — over/under on a player's scoring total
-  * Rebounds — over/under on total boards (offensive + defensive)
-  * Assists — over/under on dimes dished
-  * Three-pointers made — over/under on made threes
-  * Points + rebounds + assists (PRA) — combined stat total for those three stats
-  * Double-double or triple-double — yes/no prop on achieving the milestone
-
-
-**How do NBA player prop odds work?**
-NBA props use the standard American (moneyline) odds format. A negative number indicates how much you must wager to profit $100, while a positive number shows the profit on a $100 bet.
-  * -115 odds — bet $115 to win $100
-  * +115 odds — bet $100 to win $115
-  * -200 odds — bet $200 to win $100
-
-
-**What is a points prop bet in the NBA?**
-A points prop is a bet on whether a specific player will score over or under a set total. For example, a line might read: LeBron James — Points — Over 24.5 (-110).
-Key factors to research before betting points props include the player's recent scoring form, the opposing team's defensive rating and points allowed to their position, pace of play, and how many minutes the player is likely to play.
-**What is a PRA prop bet for NBA?**
-PRA stands for Points + Rebounds + Assists — a combined stat prop that totals all three categories into one number. For example, a Nikola Jokic PRA line might be set at 49.5.
-PRA props are popular for versatile players because their contributions span multiple statistical categories. They're less volatile than single-stat props since a slow scoring night can be offset by a strong rebounding or passing game.
+**Check out our favorite[NBA picks and predictions for today](https://www.fanduel.com/research/nba-picks-today-nba-predictions-best-bets-oct-23-26).**
+* * *
+### NBA Betting Frequently Asked Questions
+### What is the point spread in NBA betting?
+The point spread is a handicap applied to the favored team to level the playing field. For example, if the Lakers are -6.5 against the Celtics, the Lakers must win by 7 or more points for a bet on them to pay out. A bet on the Celtics wins if Boston wins outright or loses by 6 points or fewer. 
+### What does the moneyline mean in NBA betting?
+A moneyline bet is a straight-up wager on which team wins — no spread involved. Odds use American format: a favorite is listed with a minus sign (e.g., -180), meaning a wager of $180 would win $100. An underdog carries a plus sign (e.g., +155), meaning a $100 bet would return $155 profit. 
+### What is an over/under (total) bet in the NBA?
+FanDuel will set a projected combined score for both teams. You bet whether the actual total points will go Over or Under that number. For example, if the total is 224.5, an Over bet wins if both teams combine for 225 or more points. 
+### What are NBA player props?
+Player prop bets focus on individual statistical performances rather than game outcomes. Common NBA props include points scored, rebounds, assists, three-pointers made, steals, and combined stat lines (e.g., Points + Rebounds + Assists). You bet whether the player goes Over or Under the sportsbook's posted line. 
 * * *
 New customers can get up to [$350 in Bonus Bets](https://sportsbook.fanduel.com/promotions/ACQB5G350BB1013) — guaranteed — when you bet $5 every day for seven days. Place your first wager now! [See here](https://sportsbook.fanduel.com/promotions/ACQB5G350BB1013) for full terms and conditions. **Learn about today's other offers at[FanDuel Sportsbook Promos](https://sportsbook.fanduel.com/promotions).**
 Looking for the latest [NBA odds](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba)? Head over to FanDuel Sportsbook and check out all of the [NBA betting](https://servedby.flashtalking.com/click/8/270261;9559653;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://sportsbook.fanduel.com/navigation/nba) options.
 Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&force_transparent=true&url=https://www.fanduel.com/contests) today!
 * * *
-_The above author is a FanDuel employee and is not eligible to compete in public daily fantasy contests or place sports betting wagers on FanDuel. The advice provided by the author does not necessarily represent the views of FanDuel. Taking the author's advice will not guarantee a successful outcome. You should use your own judgment when participating in daily fantasy contests or placing sports wagers._
+_The above author is a FanDuel employee and is not eligible to compete in public daily fantasy contests or place sports betting wagers on FanDuel. The advice provided by the author does not necessarily represent the views of FanDuel. Taking the author’s advice will not guarantee a successful outcome. You should use your own judgment when participating in daily fantasy contests or placing sports wagers._  
+
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Knicks vs. Celtics: NBA Prediction, Picks and Prop Bets (Oct. 23)](https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23)
+5m
+Knicks vs Celtics prediction and picks for today. How should you bet tonight's Eastern Conference showdown?
+[](https://www.fanduel.com/research/knicks-vs-celtics-nba-prediction-picks-and-prop-bets-oct-23)
+[NBA](https://www.fanduel.com/research/nba)
+## [Bucks vs. Bulls Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/bucks-vs-bulls-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+2h
+Find Bucks vs. Bulls predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
+[](https://www.fanduel.com/research/bucks-vs-bulls-prediction-nba-odds-spread-best-bets-for-10-23-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Celtics vs. Knicks Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-20m
+3h
 Find Celtics vs. Knicks predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
 [](https://www.fanduel.com/research/celtics-vs-knicks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Heat vs. Pistons Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-24m
+3h
 Find Heat vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
 [](https://www.fanduel.com/research/heat-vs-pistons-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Rockets Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/spurs-vs-rockets-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-24m
-Find Spurs vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-rockets-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Pacers vs. Mavericks Prediction, Odds, Picks, Best Bets for Oct. 23](https://www.fanduel.com/research/pacers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
-24m
-Find Pacers vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Oct. 23 NBA matchup.
-[](https://www.fanduel.com/research/pacers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-10-23-2026)
 

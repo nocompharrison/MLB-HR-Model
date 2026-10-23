@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-23 14:32 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-23 17:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,61 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
+[Luke Kennard](https://www.rotowire.com/basketball/player/luke-kennard-4123)[Practices Friday](https://www.rotowire.com/basketball/headlines/luke-kennard-injury-practices-friday-535694)
+**G** Phoenix Suns
+Knee
+October 23, 2026
+Kennard (knee) practiced Friday, [Duane Rankin of The Arizona Republic](https://x.com/DuaneRankin/status/2113715850222174630?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
+[Oso Ighodaro](https://www.rotowire.com/basketball/player/oso-ighodaro-6293)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/oso-ighodaro-injury-wont-play-saturday-535693)
+**C** Phoenix Suns
+Oblique
+October 23, 2026
+Ighodaro has been ruled out for Saturday's game against the Warriors due to an oblique strain, [Duane Rankin of The Arizona Republic](https://x.com/DuaneRankin/status/2113715850222174630?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Jake LaRavia](https://www.rotowire.com/basketball/player/jake-laravia-5694)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/jake-laravia-injury-ruled-out-friday-535692)
+**F** Los Angeles Lakers
+Ankle
+October 23, 2026
+LaRavia (ankle) has been ruled out for Friday's game against the Clippers, [Mark Medina of TheSportingTribune.com](https://x.com/MarkG_Medina/status/2113721924555849966?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Charles Bassey](https://www.rotowire.com/basketball/player/charles-bassey-4833)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/charles-bassey-injury-ruled-out-friday-535691)
+**C** Golden State Warriors
+Knee
+October 23, 2026
+Bassey (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_04_00PM.pdf) for Friday's game versus the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Brandin Podziemski](https://www.rotowire.com/basketball/player/brandin-podziemski-5889)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/brandin-podziemski-injury-upgraded-to-probable-535690)
+**G** Golden State Warriors
+Back
+October 23, 2026
+Podziemski (back) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_45PM.pdf) for Friday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Malik Monk](https://www.rotowire.com/basketball/player/malik-monk-4117)[Will play Friday](https://www.rotowire.com/basketball/headlines/malik-monk-news-will-play-friday-535689)
+**G** Sacramento Kings
+October 23, 2026
+Monk (ankle) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_45PM.pdf) for Friday's game against Portland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Otega Oweh](https://www.rotowire.com/basketball/player/otega-oweh-6973)[Parting ways with Thunder](https://www.rotowire.com/basketball/headlines/otega-oweh-injury-parting-ways-with-thunder-535688)
+**G** Oklahoma City Thunder
+Out For Season
+October 23, 2026
+The Thunder plan to [waive](https://x.com/Ary_Report/status/2113693230097375292?s=20) Oweh (Achilles) on Friday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Playing through nasal fracture](https://www.rotowire.com/basketball/headlines/jock-landale-news-playing-through-nasal-fracture-535687)
 **C** Atlanta Hawks
@@ -138,56 +193,6 @@ Merrill chipped in five points (2-5 FG, 1-3 3Pt), five rebounds, two assists and
 **F** Detroit Pistons
 October 23, 2026
 Prince (personal) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_01_00PM.pdf) for Friday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)[Still trending up](https://www.rotowire.com/basketball/headlines/anthony-black-injury-still-trending-up-535669)
-**G** Orlando Magic
-Ankle
-October 23, 2026
-Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2113660236972396695) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Dalton Knecht](https://www.rotowire.com/basketball/player/dalton-knecht-6258)[To sign with Knicks](https://www.rotowire.com/basketball/headlines/dalton-knecht-news-to-sign-with-knicks-535668)
-**F** New York Knicks
-October 23, 2026
-Knecht has agreed to a two-way contract with the Knicks, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2113650995930505703) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Zeke Nnaji](https://www.rotowire.com/basketball/player/zeke-nnaji-5123)[Healthy scratch in opener](https://www.rotowire.com/basketball/headlines/zeke-nnaji-news-healthy-scratch-in-opener-535667)
-**C** Denver Nuggets
-October 23, 2026
-Nnaji (coach's decision) did not play in Thursday's 96-84 loss to Oklahoma City.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Not in initial rotation](https://www.rotowire.com/basketball/headlines/meleek-thomas-news-not-in-initial-rotation-535666)
-**G** Cleveland Cavaliers
-October 23, 2026
-Thomas (coach's decision) did not play in Thursday's 114-106 loss to Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Thomas Bryant](https://www.rotowire.com/basketball/player/thomas-bryant-4155)[Outside rotation in opener](https://www.rotowire.com/basketball/headlines/thomas-bryant-news-outside-rotation-in-opener-535665)
-**C** Cleveland Cavaliers
-October 23, 2026
-Bryant (coach's decision) did not play in Thursday's 114-106 loss to Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[DaRon Holmes](https://www.rotowire.com/basketball/player/daron-holmes-6288)[Hits triple in limited run](https://www.rotowire.com/basketball/headlines/daron-holmes-news-hits-triple-in-limited-run-535664)
-**C** Denver Nuggets
-October 23, 2026
-Holmes recorded three points (1-2 FG, 1-2 3Pt), one rebound and one assist over two minutes during Thursday's 96-84 loss to the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Brooks Barnhizer](https://www.rotowire.com/basketball/player/brooks-barnhizer-6633)[Makes brief appearance](https://www.rotowire.com/basketball/headlines/brooks-barnhizer-news-makes-brief-appearance-535663)
-**F** Oklahoma City Thunder
-October 23, 2026
-Barnhizer totaled one assist in two minutes during Thursday's 96-84 victory over Denver.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

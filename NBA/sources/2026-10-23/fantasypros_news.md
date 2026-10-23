@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-23 14:32 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-23 17:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Malik Monk](https://images.fantasypros.com/images/players/nba/3313/headshot/100x100.png)](https://www.fantasypros.com/nba/players/malik-monk.php)
+G - SAC
+[» Rankings](https://www.fantasypros.com/nba/players/malik-monk.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/malik-monk.php)  
+[» More News](https://www.fantasypros.com/nba/news/malik-monk.php)
+[Malik Monk (ankle) upgraded to available Friday](https://www.fantasypros.com/nba/news/615545/malik-monk-ankle-upgraded-to-available-friday.php)  
+
+Fri, Oct 23rd 3:50pm EDT  
+By [Nicholas Rodriguez](https://www.fantasypros.com/news/correspondents/nicholas-rodriguez.php)
+Malik Monk has been upgraded to available for Friday's game against the Portland Trail Blazers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_45PM.pdf))
+**_Fantasy Impact:_** After missing the season opener due to left ankle soreness, Monk will suit up on Friday. With his return, Nique Clifford and Daeqwon Plowden could see reduced minutes off the bench. Monk averaged 12.5 points, 1.9 rebounds and three assists in 22 minutes per game across 62 appearances last season.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Hawkins](https://images.fantasypros.com/images/players/nba/5978/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-hawkins.php)
+G - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-hawkins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-hawkins.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-hawkins.php)
+[Jordan Hawkins available on Friday against Bucks](https://www.fantasypros.com/nba/news/615540/jordan-hawkins-available-on-friday-against-bucks.php)  
+
+Fri, Oct 23rd 3:30pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Jordan Hawkins is available for the Bulls on Friday against the Bucks after originally being questionable due to an illness. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_00PM.pdf))
+**_Fantasy Impact:_** Hawkins is a fine role player but don’t go expecting anything too spectacular in his 2026-27 debut. He’s best left on waivers in most leagues for now.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Josh Giddey](https://images.fantasypros.com/images/players/nba/5360/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-giddey.php)
+G - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/josh-giddey.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/josh-giddey.php)  
+[» More News](https://www.fantasypros.com/nba/news/josh-giddey.php)
+[Josh Giddey (wrist) available for Bulls on Friday](https://www.fantasypros.com/nba/news/615538/josh-giddey-wrist-available-bulls-on-friday.php)  
+
+Fri, Oct 23rd 3:24pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Josh Giddey (wrist) will play on Friday against the Milwaukee Bucks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_00PM.pdf))
+**_Fantasy Impact:_** Giddey was originally labeled probable for this game, but it sounds like he is now good to go. He didn’t perform well on Wednesday, hitting just one of 10 shot shots from the field. He will look to bounce back against a rebuilding Bucks squad.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Zach Collins](https://images.fantasypros.com/images/players/nba/3320/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zach-collins.php)
+C - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/zach-collins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/zach-collins.php)  
+[» More News](https://www.fantasypros.com/nba/news/zach-collins.php)
+[Zach Collins (quad) active for Friday against Milwaukee ](https://www.fantasypros.com/nba/news/615536/zach-collins-quad-active-friday-against-milwaukee.php)  
+
+Fri, Oct 23rd 3:20pm EDT  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Zach Collins (quad) it is available for the Chicago Bulls game against the Milwaukee Bucks on Friday. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-23_03_00PM.pdf))
+**_Fantasy Impact:_** Collins was able to play through his injury on Wednesday, but only had a limited role. It’s possible that he sees additional minute this game, but it’s best to wait and find out rather than put him in lineups.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Brandin Podziemski](https://images.fantasypros.com/images/players/nba/6003/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandin-podziemski.php)
 G - GSW
 [» Rankings](https://www.fantasypros.com/nba/players/brandin-podziemski.php)  
@@ -231,62 +287,6 @@ Chet Holmgren scored 12 points (5-9 FG, 0-1 3PT, 2-2 FT) to go along with 17 reb
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![DeMar DeRozan](https://images.fantasypros.com/images/players/nba/2449/headshot/100x100.png)](https://www.fantasypros.com/nba/players/demar-derozan.php)
-F - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/demar-derozan.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/demar-derozan.php)  
-[» More News](https://www.fantasypros.com/nba/news/demar-derozan.php)
-[DeMar DeRozan scores 13 points Thursday ](https://www.fantasypros.com/nba/news/615471/demar-derozan-scores-13-points-thursday.php)  
-
-Fri, Oct 23rd 2:14am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-DeMar DeRozan scored 13 points (5-9 FG, 0-1 3PT, 3-6 FT) to go along with two rebounds in the Nuggets 96-84 loss against the Thunder. 
-**_Fantasy Impact:_** DeRozan played 28 minutes off the bench where he also committed five turnovers. Denver will be looking to bounce back as a team on Saturday against the Pelicans. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Christian Braun](https://images.fantasypros.com/images/players/nba/5464/headshot/100x100.png)](https://www.fantasypros.com/nba/players/christian-braun.php)
-G - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/christian-braun.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/christian-braun.php)  
-[» More News](https://www.fantasypros.com/nba/news/christian-braun.php)
-[Christian Braun struggles Thursday ](https://www.fantasypros.com/nba/news/615470/christian-braun-struggles-thursday.php)  
-
-Fri, Oct 23rd 2:12am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Christian Braun scored seven points (3-10 FG, 1-6 3PT) to go along with six rebounds, one assist and one steal in the Nuggets 96-84 loss against the Thunder. 
-**_Fantasy Impact:_** It was a struggle shooting the ball for the entire Nuggets team in their season opener. They'll look to bounce back on Saturday against the Pelicans. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamal Murray](https://images.fantasypros.com/images/players/nba/3171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamal-murray.php)
-G - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/jamal-murray.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jamal-murray.php)  
-[» More News](https://www.fantasypros.com/nba/news/jamal-murray.php)
-[Jamal Murray grabs 10 rebounds Thursday ](https://www.fantasypros.com/nba/news/615469/jamal-murray-grabs-10-rebounds-thursday.php)  
-
-Fri, Oct 23rd 2:11am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jamal Murray scored six points (2-11 FG, 0-1 3PT, 2-4 FT) to go along with 10 rebounds, three assists and one steal in the Nuggets 96-84 loss against the Thunder. 
-**_Fantasy Impact:_** It was a season opener to forget for Murray as he not only struggled from the field, but also committed six turnovers. He'll look to bounce back on Saturday against the Pelicans. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nikola Jokic](https://images.fantasypros.com/images/players/nba/2918/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nikola-jokic.php)
-C - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/nikola-jokic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nikola-jokic.php)  
-[» More News](https://www.fantasypros.com/nba/news/nikola-jokic.php)
-[Nikola Jokic struggles from field Thursday ](https://www.fantasypros.com/nba/news/615468/nikola-jokic-struggles-from-field-thursday.php)  
-
-Fri, Oct 23rd 2:09am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nikola Jokic scored 13 points (5-19 FG, 1-7 3PT, 2-4 FT) to go along with seven rebounds, five assists, one steal and one block in the Nuggets 96-84 loss against the Thunder. 
-**_Fantasy Impact:_** It was a rare off night as a shooter for Jokic to begin the season. He will look to bounce back on Saturday against the Pelicans. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=794_1792780055227&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a9f999d979a989f9d6666uokewi0e0y6e6o666k626e646o6k00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=156_1792789214746&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a9f999d979a989f9d6666uokewi0e0y6e6o666k626e646o6k00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

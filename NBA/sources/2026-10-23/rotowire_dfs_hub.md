@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-23 14:32 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-23 17:05 ET -->
 
 # NBA DFS Picks Today
 October 23, 2026
@@ -32,9 +32,9 @@ DraftKings FanDuel
 Main Slate - 6 games - 7:00 PM Oct 24 - Main Slate - 5 games - 7:30 PM (lineups pending) Main Slate - 3 games - 10:00 PM Oct 24 - Main Slate - 2 games - 9:00 PM (lineups pending) Main Slate - 5 games - 9:30 PM Oct 24 - Main Slate - 2 games - 8:00 PM (lineups pending) Oct 24 - Showdown - GSW @ PHX - 11:00 PM (lineups pending) Showdown - LAC @ LAL - 11:00 PM Showdown - CHI @ MIL - 4:00 PM Showdown - DET @ MIA - 8:00 PM Oct 24 - Showdown - GSW @ PHX - 10:00 PM (lineups pending) Oct 24 - Showdown - HOU @ ATL - 8:30 PM (lineups pending) Showdown - HOU @ SAS - 9:30 PM Showdown - LAC @ LAL - 10:00 PM Oct 24 - Showdown - MIA @ CHA - 6:00 PM (lineups pending) Oct 24 - Showdown - MIL @ PHI - 7:30 PM (lineups pending) Showdown - NYK @ BOS - 7:00 PM Oct 24 - Main Slate - 5 games - 7:30 PM (lineups pending) Main Slate - 6 games - 7:00 PM Main Slate - 5 games - 9:30 PM All games (6) NYK @ BOS - 7:00 PM ET ATL @ CHA - 7:00 PM ET DAL @ IND - 7:00 PM ET TOR @ WSH - 7:00 PM ET MIN @ ORL - 7:00 PM ET DET @ MIA - 8:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **NYK @ BOS**
-O/U 221.57:00 PM ET
+O/U 220.57:00 PM ET
 KnicksExpectedAway
-_Implied_**109.5** _Spread_**+2.5**  
+_Implied_**109.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $8,300  | 40.0  |  
@@ -43,7 +43,7 @@ _Implied_**109.5** _Spread_**+2.5**
 | SF  | Josh Hart  | $6,300  | 29.6  |  
 | SG  | Mikal Bridges  | $5,500  | 27.9  |  
 CelticsExpectedHome
-_Implied_**112.0** _Spread_**-2.5**  
+_Implied_**111.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Mitchell Robinson  | $4,300  | 22.0  |  
@@ -52,29 +52,29 @@ _Implied_**112.0** _Spread_**-2.5**
 | SF  | Jayson Tatum  | $9,200  | 46.7  |  
 | SG  | Paul George  | $6,700  | 28.9  |  
 **ATL @ CHA**
-O/U 227.57:00 PM ET
+O/U 226.57:00 PM ET
 HawksExpectedAway
-_Implied_**115.0** _Spread_**-2.5**  
+_Implied_**114.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,400  | 35.5  |  
 | PF  | Jalen Johnson  | $9,100  | 45.5  |  
-| PG  | CJ McCollum  | $5,500  | 28.9  |  
-| SF  | Dyson Daniels  | $5,900  | 32.3  |  
+| PG  | CJ McCollum  | $5,500  | 28.8  |  
+| SF  | Dyson Daniels  | $5,900  | 32.2  |  
 | SG  | Nickeil Alexander-Walker  | $6,200  | 31.4  |  
 HornetsExpectedHome
-_Implied_**112.5** _Spread_**+2.5**  
+_Implied_**112.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Moussa Diabate  | $5,200  | 36.0  |  
-| PF  | Naz Reid  | $6,600  | 38.2  |  
-| PG  | Dennis Schroder  | $4,900  | 33.4  |  
+| PF  | Naz Reid  | $6,600  | 38.1  |  
+| PG  | Dennis Schroder  | $4,900  | 33.3  |  
 | SF  | Brandon Miller  | $7,600  | 40.9  |  
 | SG  | Sion James  | $4,000  | 21.0  |  
 **DAL @ IND**
-O/U 239.57:00 PM ET
+O/U 240.57:00 PM ET
 MavericksExpectedAway
-_Implied_**116.0** _Spread_**+7.5**  
+_Implied_**116.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $4,900  | 28.8  |  
@@ -83,7 +83,7 @@ _Implied_**116.0** _Spread_**+7.5**
 | SF  | Cooper Flagg  | $8,900  | 42.9  |  
 | SG  | Max Christie  | $4,300  | 24.4  |  
 PacersExpectedHome
-_Implied_**123.5** _Spread_**-7.5**  
+_Implied_**124.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ivica Zubac  | $6,900  | 38.8  |  
@@ -170,7 +170,7 @@ NBA Boom-or-Bust Board
 Highest-ceiling, highest-variance plays on the slate, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Today · 7:00 PM ET · 6 games — 124 players projected Today · 9:30 PM ET · 5 games — 110 players projected Today · 10:00 PM ET · 3 games — 68 players projected Sat 10/24 · 7:30 PM ET · 5 games — 77 players projected Sat 10/24 · 8:00 PM ET · 2 games — 45 players projected Sat 10/24 · 9:00 PM ET · 2 games — 22 players projected Today · 4:00 PM ET · CHI@MIL single game — 25 players projected Today · 7:00 PM ET · NYK@BOS single game — 21 players projected Today · 8:00 PM ET · DET@MIA single game — 21 players projected Today · 9:30 PM ET · HOU@SAS single game — 21 players projected Today · 10:00 PM ET · LAC@LAL single game — 22 players projected Today · 11:00 PM ET · LAC@LAL single game — 22 players projected Sat 10/24 · 6:00 PM ET · MIA@CHA single game — 18 players projected Sat 10/24 · 7:30 PM ET · MIL@PHI single game — 12 players projected Sat 10/24 · 8:30 PM ET · HOU@ATL single game — 20 players projected Sat 10/24 · 10:00 PM ET · GSW@PHX single game — 12 players projected Sat 10/24 · 11:00 PM ET · GSW@PHX single game — 12 players projected
+Slate Today · 7:00 PM ET · 6 games — 124 players projected Today · 9:30 PM ET · 5 games — 109 players projected Today · 10:00 PM ET · 3 games — 67 players projected Sat 10/24 · 7:30 PM ET · 5 games — 77 players projected Sat 10/24 · 8:00 PM ET · 2 games — 45 players projected Sat 10/24 · 9:00 PM ET · 2 games — 21 players projected Today · 4:00 PM ET · CHI@MIL single game — 25 players projected Today · 7:00 PM ET · NYK@BOS single game — 21 players projected Today · 8:00 PM ET · DET@MIA single game — 21 players projected Today · 9:30 PM ET · HOU@SAS single game — 21 players projected Today · 10:00 PM ET · LAC@LAL single game — 22 players projected Today · 11:00 PM ET · LAC@LAL single game — 22 players projected Sat 10/24 · 6:00 PM ET · MIA@CHA single game — 18 players projected Sat 10/24 · 7:30 PM ET · MIL@PHI single game — 12 players projected Sat 10/24 · 8:30 PM ET · HOU@ATL single game — 20 players projected Sat 10/24 · 10:00 PM ET · GSW@PHX single game — 11 players projected Sat 10/24 · 11:00 PM ET · GSW@PHX single game — 11 players projected
 TeamAll ATL BOS CHA DAL DET IND MIA MIN NYK ORL TOR WAS
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -179,7 +179,7 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-1201401601802002202402030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)HartGeorgeScheiermanOkongwuJamesBarnes
+1201401601802002202402030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)HartGeorgeScheiermanJamesBarnesOkongwu
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** ATL@CHA, NYK@BOS, DAL@IND, DET@MIA, MIN@ORL, TOR@WAS  
@@ -189,17 +189,17 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | 2  |  Andrew WigginsMIA · SF/PF · DET@MIA  | $5,300  | 9.0  | 28.6  | **54.5**  |   | 159%  | 10.3  | 57  |  
 | 3  |  Kyshawn GeorgeWAS · SG · TOR@WAS  | $5,300  | 8.2  | 26.7  | **52.1**  |   | 164%  | 9.8  | 55  |  
 | 4  |  Baylor ScheiermanBOS · SG/SF · NYK@BOS  | $3,900  | 2.7  | 13.5  | **30.2**  |   | 204%  | 7.7  | 55  |  
-| 5  |  Onyeka OkongwuATL · C · ATL@CHA  | $6,400  | 13.0  | 35.5  | **64.7**  |   | 146%  | 10.1  | 55  |  
-| 6  |  Sion JamesCHA · SG/SF · ATL@CHA  | $4,000  | 5.3  | 21.0  | **43.1**  |   | 180%  | 10.8  | 55  |  
-| 7  |  Scottie BarnesTOR · SF/PF · TOR@WAS  | $7,800  | 17.1  | 41.7  | **73.1**  |   | 135%  | 9.4  | 55  |  
-| 8  |  LaMelo BallMIN · PG · MIN@ORL  | $8,100  | 18.0  | 42.2  | **73.9**  |   | 133%  | 9.1  | 54  |  
+| 5  |  Sion JamesCHA · SG/SF · ATL@CHA  | $4,000  | 5.3  | 21.0  | **43.1**  |   | 180%  | 10.8  | 55  |  
+| 6  |  Scottie BarnesTOR · SF/PF · TOR@WAS  | $7,800  | 17.1  | 41.7  | **73.1**  |   | 135%  | 9.4  | 55  |  
+| 7  |  Onyeka OkongwuATL · C · ATL@CHA  | $6,400  | 13.0  | 35.5  | **64.7**  |   | 146%  | 10.1  | 54  |  
+| 8  |  LaMelo BallMIN · PG · MIN@ORL  | $8,100  | 18.0  | 42.1  | **73.9**  |   | 133%  | 9.1  | 54  |  
 | 9  |  Jordan WalshBOS · PF · NYK@BOS  | $3,300  | 2.7  | 13.3  | **29.9**  |   | 204%  | 9.1  | 54  |  
 | 10  |  OG AnunobyNYK · PF · NYK@BOS  | $5,800  | 9.7  | 30.1  | **56.5**  |   | 156%  | 9.7  | 54  |  
-| 11  |  Royce O'NealeCHA · SF/PF · ATL@CHA  | $3,600  | 4.5  | 17.0  | **36.0**  |   | 186%  | 10.0  | 54  |  
-| 12  |  Nikola JovicMIA · C · DET@MIA  | $4,000  | 5.3  | 20.1  | **41.7**  |   | 181%  | 10.4  | 54  |  
-| 13  |  Derrick WhiteBOS · PG · NYK@BOS  | $6,900  | 12.6  | 34.8  | **63.4**  |   | 146%  | 9.2  | 53  |  
-| 14  |  Luguentz DortATL · SG/SF · ATL@CHA  | $4,200  | 4.8  | 18.9  | **39.1**  |   | 182%  | 9.3  | 53  |  
-| 15  |  Jaden McDanielsMIN · PF · MIN@ORL  | $5,900  | 9.3  | 28.8  | **54.5**  |   | 157%  | 9.2  | 53  |  
+| 11  |  Luguentz DortATL · SG/SF · ATL@CHA  | $4,200  | 4.8  | 18.8  | **39.1**  |   | 182%  | 9.3  | 54  |  
+| 12  |  Royce O'NealeCHA · SF/PF · ATL@CHA  | $3,600  | 4.5  | 16.9  | **36.0**  |   | 186%  | 10.0  | 54  |  
+| 13  |  Nikola JovicMIA · C · DET@MIA  | $4,000  | 5.3  | 20.1  | **41.7**  |   | 181%  | 10.4  | 54  |  
+| 14  |  Derrick WhiteBOS · PG · NYK@BOS  | $6,900  | 12.6  | 34.8  | **63.4**  |   | 146%  | 9.2  | 53  |  
+| 15  |  Jaden McDanielsMIN · PF · MIN@ORL  | $5,900  | 9.3  | 28.7  | **54.4**  |   | 157%  | 9.2  | 53  |  
 Show all 111 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 6 games slate · 2026-10-23.
 ## **NBA Injury Report**
