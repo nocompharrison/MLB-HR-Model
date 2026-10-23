@@ -1,47 +1,30 @@
-# NBA transcripts | 2026-10-22 | updated 2026-10-22 18:05 ET
+# NBA transcripts | 2026-10-23 | updated 2026-10-23 12:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 17 files in NBA/transcripts/2026-10-22:
-NBA/transcripts/2026-10-22/9OH0cC2UfFs_LandYourBets_6_NBA_Player_Prop_Looks_Thursday_Best_Bets_Projections_October_22_Land.txt
-NBA/transcripts/2026-10-22/9RNN7uPVV_c_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_21_26.txt
-NBA/transcripts/2026-10-22/LB6T8SAHW9Y_ShipItNation_NBA_DFS_Process_October_21_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
-NBA/transcripts/2026-10-22/OI1QhgBlsTI_JayMoney_NBA_Betting_Predictions_With_Jay_Money_The_Shark_Winning_Strategies_fo.txt
-NBA/transcripts/2026-10-22/P06S1pBcQgc_LockedOnNBA_Edwards_LaMelo_SHINE_in_Debut_LUKA_talks_trash_Ty_Jerome_goes_OFF_in_S.txt
-NBA/transcripts/2026-10-22/RbuzkqabP-A_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
-NBA/transcripts/2026-10-22/U8d_uZlgFKQ_LandYourBets_Wednesday_NBA_Live_Show_Best_Bets_Today_October_21_Land_Your_Bets.txt
-NBA/transcripts/2026-10-22/X2D5P9ZV4Yc_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Thursday_Buckets_Podcast.txt
-NBA/transcripts/2026-10-22/aNBUoa6OtnI_DFSArmyLive_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt
-NBA/transcripts/2026-10-22/dt_H1HMYjik_Stokastic_NBA_DFS_Live_Before_Lock_Wednesday_10_21_26_DraftKings_FanDuel_NBA_Lin.txt
-NBA/transcripts/2026-10-22/kpwB-HfTDeA_LockedOnNBA_Edwards_LaMelo_Are_SCARY_NBA_s_Best_Backcourt_Already.txt
-NBA/transcripts/2026-10-22/nxXB-5LtsNM_JayMoney_NBA_Talk_With_Jay_Money_The_Shark_10_22_26_Free_NBA_Picks_Sports_Betti.txt
-NBA/transcripts/2026-10-22/oI22Nld9JEs_NBAGamblingPod_NBA_Thursday_Picks_10_22_26_NBA_Bets_Player_Props_and_Predictions.txt
-NBA/transcripts/2026-10-22/qacSmQOZhUg_CallingOurShot_New_England_Patriots_vs_Chicago_Bears_Best_Picks_Predictions.txt
-NBA/transcripts/2026-10-22/qzulTqP5tvg_JayMoney_Charlotte_Hornets_vs_Brooklyn_Nets_Free_NBA_Picks_Predictions.txt
-NBA/transcripts/2026-10-22/rSFY24vHNF0_JayMoney_Atlanta_Hawks_vs_Orlando_Magic_Free_NBA_Picks_Predictions.txt
-NBA/transcripts/2026-10-22/vjSFvqFMF48_CallingOurShot_Thursday_s_NBA_Best_Picks_and_Predictions_for_October_22nd.txt
+# 0 files in NBA/transcripts/2026-10-23:
+
 
 # this run:
-UPCOMING ActionNetwork 2Gs_nQuWOpc Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 10/22/26 11:00PM)
+NOCAPS  ActionNetwork 2Gs_nQuWOpc Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.1h ago))
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk HcKwVUpMzew NBA Picks Today & Best Bets | Friday 10/23 | PROFIT PICKS  (not aired yet - scheduled for 10/23/26 1:30PM)
-UPCOMING WagerTalk gllpWqnygns NBA Picks Today & Best Bets | Friday 10/23 | PROFIT PICKS 📱  (not aired yet - scheduled for 10/23/26 1:30PM)
-UPCOMING RotoGrinders 75UZDNvJLUs NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/24/2  (not aired yet - scheduled for 10/24/26 6:15PM)
-UPCOMING RotoGrinders F8lefEP7tE4 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/23/2  (not aired yet - scheduled for 10/23/26 5:40PM)
-UPCOMING RotoGrinders 2V8BDAzMXHc NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/22/2  (not aired yet - scheduled for 10/22/26 6:15PM)
-NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-UPCOMING DFSArmy lGpvenDlPP8 NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (not aired yet - starting any minute)
+DEFER   WagerTalk T8Y5MZilejI NBA Picks Today & Best Bets | Thursday 10/22 | PROFIT PICKS  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   WagerTalk jW8EqKs3B_w NBA Picks Today & Best Bets | Thursday 10/22 | PROFIT PICKS   (YouTube rate limit hit earlier this run)
+DEFER   RotoGrinders 2V8BDAzMXHc NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/22/2  (YouTube rate limit hit earlier this run)
+DEFER   RotoGrinders 75UZDNvJLUs NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/24/2  (YouTube rate limit hit earlier this run)
+DEFER   RotoGrinders F8lefEP7tE4 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/23/2  (YouTube rate limit hit earlier this run)
+DEFER   ShipItNation ebSRTYELN9o NBA DFS Process | October 23, 2026 | DraftKings & FanDuel Pi  (YouTube rate limit hit earlier this run)
+DEFER   DFSArmy lGpvenDlPP8 NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (YouTube rate limit hit earlier this run)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+DEFER   Stokastic D0_5q8XQ63k NBA DFS Live Before Lock (Thursday 10/22/26) | DraftKings &   (YouTube rate limit hit earlier this run)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
+DEFER   LockedOnNBA fzh-adS5--E How the Philadelphia 76ers Won Their Fans Over in a 29-Point  (YouTube rate limit hit earlier this run)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod NM52Deb0QPg NBA Friday Picks - 10/23/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 10/23/26 10:05AM)
-NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-22/rSFY24vHNF0_JayMoney_Atlanta_Hawks_vs_Orlando_Magic_Free_NBA_Picks_Predictions.txt  (1,111 words)
-NEW     NBA/transcripts/2026-10-22/OI1QhgBlsTI_JayMoney_NBA_Betting_Predictions_With_Jay_Money_The_Shark_Winning_Strategies_fo.txt  (10,154 words)
-NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
+DEFER   CallingOurShot pfrXz-IT1iY Friday's NBA Best Picks and Predictions for October 23rd!  (YouTube rate limit hit earlier this run)
+DEFER   JayMoney Cd1H51LreLY Friday NBA Talk With Jay Money & Shark 10/23/26 Free NBA Pic  (YouTube rate limit hit earlier this run)
+DEFER   LandYourBets VawagcOat7Q Friday NBA Player Prop Looks + Deep Dive | Best Bets + Proje  (YouTube rate limit hit earlier this run)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NOTE    deferred videos are picked up automatically on the next scheduled run
