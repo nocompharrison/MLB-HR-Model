@@ -1,45 +1,54 @@
-# CFB transcripts | week 7 | updated 2026-10-17 08:32 ET
+# CFB transcripts | week 8 | updated 2026-10-22 20:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 24 files this week:
-CFB/transcripts/week-07/-x0LwujUDpE_Cover3_Week_7_Preview_Predictions_No_4_Ohio_State_vs_No_5_Indiana.txt
-CFB/transcripts/week-07/0e3F4KoChIU_Cover3_Week_7_Preview_Predictions_No_13_Missouri_vs_No_9_Ole_Miss.txt
-CFB/transcripts/week-07/1BJHfCLSZHY_BBOC_Colorado_Is_in_TROUBLE_Utah_vs_Colorado_Best_Bets.txt
-CFB/transcripts/week-07/BqtKtjalgaU_HitTheBooks_CFB_Week_7_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt
-CFB/transcripts/week-07/I7EIOfG2C8Y_BBOC_College_Football_Week_7_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
-CFB/transcripts/week-07/M_dooVdPLpY_Cover3_Week_7_Preview_Predictions_No_2_Notre_Dame_vs_No_8_BYU.txt
-CFB/transcripts/week-07/Ndor2dEOOug_Cover3_Week_7_Preview_Predictions_No_6_Alabama_vs_No_14_Tennessee.txt
-CFB/transcripts/week-07/WzSG-DLvIUQ_TCE_Week_6_Dantabase_Top_25_Week_7_Weekday_Games_Preview.txt
-CFB/transcripts/week-07/ZHl4HDq42r8_Cover3_Week_7_Preview_Predictions_Florida_vs_No_7_Texas.txt
-CFB/transcripts/week-07/ZVQFmUZxIkc_BBOC_RIVALRY_GAME_OF_THE_YEAR_Alabama_vs_Tennessee_CFB_Betting_Preview_Best.txt
-CFB/transcripts/week-07/ZWeanF1cos8_TCE_College_Football_Week_7_Preview_Picks.txt
-CFB/transcripts/week-07/aP0-_j2Ciz0_BBOC_TOP_10_SHOWDOWN_Notre_Dame_vs_BYU_CFB_Betting_Preview_Best_Bet.txt
-CFB/transcripts/week-07/baB8vM0473o_TCE_FCS_College_Football_Week_7_Preview_Picks.txt
-CFB/transcripts/week-07/cKZBCBcaEPg_WagerTalk_BEST_CFB_Week_7_PICKS_Missouri_vs_Ole_Miss_Notre_Dame_vs_BYU_College_F.txt
-CFB/transcripts/week-07/dVsMyu5biGM_BBOC_SEC_SHOWDOWN_Florida_vs_Texas_CFB_Betting_Preview_Best_Bet.txt
-CFB/transcripts/week-07/jlrICXAf308_VSiN_College_Football_Week_7_Expert_Picks_Best_Bets_COMPILATION.txt
-CFB/transcripts/week-07/lF23owA1KDk_WagerTalk_Thursday_Night_CFB_Best_Bets_Picks_Steve_Merril.txt
-CFB/transcripts/week-07/lYjEhxkjjO4_BBOC_BACK_AIR_FORCE_UNLV_vs_Air_Force_Betting_Picks_for_Week_7.txt
-CFB/transcripts/week-07/m-bw1dROrGs_BBOC_FADE_UMASS_UMass_vs_Buffalo_Week_7_Best_Bets.txt
-CFB/transcripts/week-07/vmIqzk8_AWI_Cover3_Week_7_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_Mo.txt
-CFB/transcripts/week-07/xUchdwgAHMg_BBOC_College_Football_Week_7_Best_Bets_Game_Previews_Betting_Angles_More.txt
-CFB/transcripts/week-07/yGLUSCIU_ks_WagerTalk_CFB_Week_7_BEST_Bets_Nebraska_vs_Oregon_Kentucky_vs_Oklahoma.txt
-CFB/transcripts/week-07/yjYsVFjDNAg_BBOC_JMU_s_WIN_STREAK_ENDS_HERE_Georgia_State_vs_James_Madison_Best_Bets.txt
-CFB/transcripts/week-07/yrwbAWlGvpg_BBOC_BIG_TEN_CHAMPIONSHIP_REMATCH_Ohio_State_vs_Indiana_CFB_Betting_Preview.txt
+# 22 files in CFB/transcripts/week-08:
+CFB/transcripts/week-08/0iA2SMJxWWE_TCE_CFB_Week_8_Preview_Picks_Ole_Miss_at_Texas.txt
+CFB/transcripts/week-08/1dTT4C6S2a8_WagerTalk_Tennessee_vs_South_Carolina_BEST_Bets_CFB_Week_8_Predictions.txt
+CFB/transcripts/week-08/6F4bWV0ohwY_WagerTalk_WAKE_UP_WIN_Indiana_vs_Michigan_LSU_vs_Auburn_CFB_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/ChnDDomyGvI_WagerTalk_Duke_vs_Virginia_NC_State_vs_Stanford_CFB_Week_8_Best_Bets_and_Picks.txt
+CFB/transcripts/week-08/DITwG1uTWLw_SportsLine_College_Football_PICKS_Thursday_Best_Bets.txt
+CFB/transcripts/week-08/GybjiMm-cyc_SportsLine_First_College_Football_Picks_for_Week_8.txt
+CFB/transcripts/week-08/MtAKVuIx-Jc_BBOC_EMU_Vs_Ohio_CFB_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/NgqYW1ZCZVU_BettingPros_Top_4_Bets_for_Saturday_NCAA_Football_Best_Bets_Week_8_CFB_Predictions.txt
+CFB/transcripts/week-08/Np1mearChi8_BBOC_College_Football_Week_8_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
+CFB/transcripts/week-08/VP6niabBycE_Cover3_Week_8_Preview_Predictions_No_14_Houston_vs_No_10_Utah.txt
+CFB/transcripts/week-08/WRvKItNKqUU_BBOC_Georgia_State_Vs_Arkansas_State_CFB_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/ZRcf4X-sSh8_BBOC_Rice_Vs_Florida_Atlantic_University_CFB_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/ZubCxhF0QtM_Cover3_Indiana_vs_Michigan_Who_Wins_WHY_Week_8_Preview_Predictions.txt
+CFB/transcripts/week-08/_YsDIe03HWY_Cover3_Ole_Miss_vs_Texas_Who_Wins_WHY_Week_8_Preview_Predictions.txt
+CFB/transcripts/week-08/bqun9FvOnWM_WagerTalk_CFB_Week_8_Picks_KIV_s_3617_Underdog_Parlay.txt
+CFB/transcripts/week-08/exbpMaXBPMo_Cover3_Week_8_Preview_Predictions_No_18_LSU_vs_Auburn.txt
+CFB/transcripts/week-08/icca_Tw62T0_Cover3_Thursday_Friday_College_Football_Picks_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/ih5uBZ6X898_Cover3_Week_8_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_Mo.txt
+CFB/transcripts/week-08/o-pCEgV8tng_SportsLine_WEEK_8_College_Football_Bets_and_Predictions.txt
+CFB/transcripts/week-08/p5nvkeJUqZE_VSiN_College_Football_Week_8_Expert_Picks_Best_Bets_COMPILATION.txt
+CFB/transcripts/week-08/rduoNTzfptY_TCE_CFB_Week_8_Weekday_Preview_Dantabase_Top_25.txt
+CFB/transcripts/week-08/xTk3G651qeg_BBOC_Sacramento_State_Vs_Ball_State_CFB_Week_8_Best_Bets.txt
 
 # this run:
-DEFER   Cover3 JyCxJlnKhIc Picking Ohio State vs. Indiana  (still rate-limited after a new IP - will retry next run)
-NEW     CFB/transcripts/week-07/ZVQFmUZxIkc_BBOC_RIVALRY_GAME_OF_THE_YEAR_Alabama_vs_Tennessee_CFB_Betting_Preview_Best.txt  (1,610 words)
-NEW     CFB/transcripts/week-07/dVsMyu5biGM_BBOC_SEC_SHOWDOWN_Florida_vs_Texas_CFB_Betting_Preview_Best_Bet.txt  (746 words)
-NEW     CFB/transcripts/week-07/aP0-_j2Ciz0_BBOC_TOP_10_SHOWDOWN_Notre_Dame_vs_BYU_CFB_Betting_Preview_Best_Bet.txt  (2,205 words)
-NEW     CFB/transcripts/week-07/yrwbAWlGvpg_BBOC_BIG_TEN_CHAMPIONSHIP_REMATCH_Ohio_State_vs_Indiana_CFB_Betting_Preview.txt  (2,664 words)
-NEW     CFB/transcripts/week-07/xUchdwgAHMg_BBOC_College_Football_Week_7_Best_Bets_Game_Previews_Betting_Angles_More.txt  (17,895 words)
-NEW     CFB/transcripts/week-07/BqtKtjalgaU_HitTheBooks_CFB_Week_7_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt  (11,532 words)
-NONE    channel VSiN: nothing new this week (or everything already saved)
-NEW     CFB/transcripts/week-07/baB8vM0473o_TCE_FCS_College_Football_Week_7_Preview_Picks.txt  (25,192 words)
-UPCOMING WagerTalk qOq7ELNkLcg LIVE College Football Week 7 Picks & Last-Minute Sharp Actio  (not aired yet - scheduled for 10/17/26 11:00AM)
-UPCOMING WagerTalk yu5C4dJ2mPI LIVE College Football Week 7 Picks & Last-Minute Sharp Actio  (not aired yet - scheduled for 10/17/26 11:00AM)
-UPCOMING WagerTalk d3QUQtzSQZI College Football Week 7 BEST BETS | Ohio State vs Indiana, A  (not aired yet - scheduled for 10/17/26 10:00AM)
-UPCOMING WagerTalk oyO3euhgoHU College Football Week 7 BEST BETS | Ohio State vs Indiana, A  (not aired yet - scheduled for 10/17/26 10:00AM)
-NONE    channel SplitZoneDuo: nothing new this week (or everything already saved)
+NEW     CFB/transcripts/week-08/icca_Tw62T0_Cover3_Thursday_Friday_College_Football_Picks_Week_8_Best_Bets.txt  (943 words)
+NEW     CFB/transcripts/week-08/ih5uBZ6X898_Cover3_Week_8_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_Mo.txt  (16,245 words)
+NEW     CFB/transcripts/week-08/exbpMaXBPMo_Cover3_Week_8_Preview_Predictions_No_18_LSU_vs_Auburn.txt  (1,411 words)
+NEW     CFB/transcripts/week-08/ZubCxhF0QtM_Cover3_Indiana_vs_Michigan_Who_Wins_WHY_Week_8_Preview_Predictions.txt  (2,584 words)
+NEW     CFB/transcripts/week-08/VP6niabBycE_Cover3_Week_8_Preview_Predictions_No_14_Houston_vs_No_10_Utah.txt  (1,892 words)
+NEW     CFB/transcripts/week-08/_YsDIe03HWY_Cover3_Ole_Miss_vs_Texas_Who_Wins_WHY_Week_8_Preview_Predictions.txt  (3,125 words)
+NEW     CFB/transcripts/week-08/MtAKVuIx-Jc_BBOC_EMU_Vs_Ohio_CFB_Week_8_Best_Bets.txt  (721 words)
+NEW     CFB/transcripts/week-08/ZRcf4X-sSh8_BBOC_Rice_Vs_Florida_Atlantic_University_CFB_Week_8_Best_Bets.txt  (509 words)
+NEW     CFB/transcripts/week-08/WRvKItNKqUU_BBOC_Georgia_State_Vs_Arkansas_State_CFB_Week_8_Best_Bets.txt  (835 words)
+NEW     CFB/transcripts/week-08/xTk3G651qeg_BBOC_Sacramento_State_Vs_Ball_State_CFB_Week_8_Best_Bets.txt  (537 words)
+NEW     CFB/transcripts/week-08/Np1mearChi8_BBOC_College_Football_Week_8_Best_Bets_Picks_Group_of_6_Betting_Preview.txt  (9,362 words)
+NONE    channel HitTheBooks: nothing new in the date window (or everything already saved)
+NEW     CFB/transcripts/week-08/p5nvkeJUqZE_VSiN_College_Football_Week_8_Expert_Picks_Best_Bets_COMPILATION.txt  (3,792 words)
+NEW     CFB/transcripts/week-08/0iA2SMJxWWE_TCE_CFB_Week_8_Preview_Picks_Ole_Miss_at_Texas.txt  (28,148 words)
+NEW     CFB/transcripts/week-08/rduoNTzfptY_TCE_CFB_Week_8_Weekday_Preview_Dantabase_Top_25.txt  (20,617 words)
+NEW     CFB/transcripts/week-08/6F4bWV0ohwY_WagerTalk_WAKE_UP_WIN_Indiana_vs_Michigan_LSU_vs_Auburn_CFB_Week_8_Best_Bets.txt  (2,018 words)
+NEW     CFB/transcripts/week-08/1dTT4C6S2a8_WagerTalk_Tennessee_vs_South_Carolina_BEST_Bets_CFB_Week_8_Predictions.txt  (1,081 words)
+NEW     CFB/transcripts/week-08/ChnDDomyGvI_WagerTalk_Duke_vs_Virginia_NC_State_vs_Stanford_CFB_Week_8_Best_Bets_and_Picks.txt  (1,989 words)
+NEW     CFB/transcripts/week-08/bqun9FvOnWM_WagerTalk_CFB_Week_8_Picks_KIV_s_3617_Underdog_Parlay.txt  (1,359 words)
+NONE    channel SplitZoneDuo: nothing new in the date window (or everything already saved)
+NEW     CFB/transcripts/week-08/NgqYW1ZCZVU_BettingPros_Top_4_Bets_for_Saturday_NCAA_Football_Best_Bets_Week_8_CFB_Predictions.txt  (2,091 words)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NEW     CFB/transcripts/week-08/o-pCEgV8tng_SportsLine_WEEK_8_College_Football_Bets_and_Predictions.txt  (11,364 words)
+NEW     CFB/transcripts/week-08/DITwG1uTWLw_SportsLine_College_Football_PICKS_Thursday_Best_Bets.txt  (648 words)
+NEW     CFB/transcripts/week-08/GybjiMm-cyc_SportsLine_First_College_Football_Picks_for_Week_8.txt  (1,138 words)
+NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
