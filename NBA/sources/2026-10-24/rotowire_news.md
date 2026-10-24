@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-24 17:47 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-24 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,30 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/morez-johnson-injury-upgraded-to-probable-535886)
+**F** Dallas Mavericks
+Lower Leg
+October 24, 2026
+Johnson (shin) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_05_45PM.pdf) for Saturday's game against the Spurs.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Zaccharie Risacher](https://www.rotowire.com/basketball/player/zaccharie-risacher-6249)[Trending toward playing Saturday](https://www.rotowire.com/basketball/headlines/zaccharie-risacher-injury-trending-toward-playing-saturday-535885)
+**F** Dallas Mavericks
+Hip
+October 24, 2026
+Risacher (hip) has been [upgraded](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_05_45PM.pdf) from questionable to probable ahead of Saturday's game against San Antonio.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Downgraded to doubtful](https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-downgraded-to-doubtful-535884)
+**G** Dallas Mavericks
+Knee
+October 24, 2026
+Irving (knee) has been [downgraded](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_05_45PM.pdf) from questionable to doubtful ahead of Saturday's game against the Spurs.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Jose Alvarado](https://www.rotowire.com/basketball/player/jose-alvarado-5424)[Dealing with ankle sprain](https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-dealing-with-ankle-sprain-535883)
 **G** New York Knicks
@@ -184,30 +208,6 @@ Howard (calf) is [listed as doubtful](https://ak-static.cms.nba.com/referee/inju
 Knee
 October 24, 2026
 Irving (knee) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_02_15PM.pdf) for Saturday's game against San Antonio.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)[Dealing with shin injury](https://www.rotowire.com/basketball/headlines/max-christie-injury-dealing-with-shin-injury-535861)
-**G** Dallas Mavericks
-Leg
-October 24, 2026
-Christie (shin) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_02_15PM.pdf) for Saturday's game against the Spurs.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)[Won't play vs. San Antonio](https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-wont-play-vs-san-antonio-535860)
-**F** Dallas Mavericks
-Heel
-October 24, 2026
-Biberovic (heel) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_02_15PM.pdf) for Saturday's game against San Antonio.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-wont-play-saturday-535859)
-**F** Dallas Mavericks
-Knee
-October 24, 2026
-Aldama (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-24_02_15PM.pdf) for Saturday's game against the Spurs.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

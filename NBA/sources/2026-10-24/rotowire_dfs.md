@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404 | fetched: 2026-10-24 17:47 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404 | fetched: 2026-10-24 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 24
 Best NBA player props for Saturday, Oct. 24: Giannis Antetokounmpo points, Nikola Jokic points + rebounds + assists and Stephon Castle assists, with DraftKings, FanDuel and Betr odds.
@@ -17,13 +17,13 @@ Saturday's NBA slate brings eight games and several strong player prop bets for 
 ##  [**Giannis Antetokounmpo**](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)**Over 28.5 Points, -105 @ DraftKings**
 Antetokounmpo has started the regular season with consecutive performances above this line, scoring 35 points against the Timberwolves and 36 against the Pistons. He converted 28 of 45 field-goal attempts across those contests, an impressive 62.2 percent shooting mark, while attempting 22 free throws. His 36-point performance against the Pistons was particularly dominant, as he also added 12 rebounds, five assists and two steals, and he seems to be adjusting well to his new surroundings in Miami. Saturday's matchup against Charlotte is another promising opportunity for the star forward.
 The line is a bit lower for this matchup based on how good he's looked to open the year, and the individual matchup should put him against [Naz Reid](https://www.rotowire.com/basketball/player/naz-reid-4806), who isn't an elite defender and doesn't have the size to slow down Antetokounmpo. At the end of the day, his scoring volume and recent efficiency support another outing in which he surpasses his proposed scoring line -- and even posting a season-low mark in scoring would do the trick here.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=fe2eee48-5d5b-4989-9842-a97cbe2f88bd&operator_item_id=e1cfaf08-dcb9-417d-a1d2-1c85c9e687b3&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=afd1f1f8-b4a7-4357-9e55-aa9fbd4cc204&operator_item_id=962f5a8e-db6b-45a3-8e7c-611852146113&pageview_id=14c73529-c26e-439c-abf8-be570c434cd7)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=4fa5cf98-8c6f-44d3-8324-c484d2ce0cd9&operator_item_id=e1cfaf08-dcb9-417d-a1d2-1c85c9e687b3&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=55455854-c713-4d85-8523-5bc4bd6e4438&operator_item_id=60cca01d-d7b9-4626-a628-e7460191f424&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=fc8fd053-ef0f-4510-9893-7e6ce99e0807&operator_item_id=962f5a8e-db6b-45a3-8e7c-611852146113&pageview_id=14c73529-c26e-439c-abf8-be570c434cd7)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=02ddc14f-1cee-4a1a-b701-98d6ab6f7124&operator_item_id=1d1b7643-116e-444f-9808-ffc1d3df5e98&pageview_id=14c73529-c26e-439c-abf8-be570c434cd7) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=d0226a26-3a48-4593-856e-031aa876311d&operator_item_id=60cca01d-d7b9-4626-a628-e7460191f424&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=64c10b98-8c1c-41c7-9681-e0ee4bdc7ba5&operator_item_id=1d1b7643-116e-444f-9808-ffc1d3df5e98&pageview_id=14c73529-c26e-439c-abf8-be570c434cd7)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ## **New Orleans Pelicans![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png) vs. Denver Nuggets ![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png)**
 ##  [**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**Over 50.5 Points + Rebounds + Assists, -118 @ FanDuel**
@@ -115,16 +115,16 @@ Dallas Mavericks
 Diagnosed with high-ankle sprain
 NBA
 Orlando Magic
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Downgraded to doubtful
+NBA
+Dallas Mavericks
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
 Probable for Sunday
 NBA
 Indiana Pacers
-  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)
-Doubtful to play Saturday
-NBA
-Golden State Warriors
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

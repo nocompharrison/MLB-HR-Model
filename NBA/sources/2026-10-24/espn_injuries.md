@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-24 17:47 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-24 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -331,15 +331,39 @@ Sponsored Headlines
 
 [](https://hello.reliancemedicareadvisors.com/)[Reliance Helps With Medicare Coverage Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hello.reliancemedicareadvisors.com/ "Reliance Helps With Medicare Coverage")
 
+Undo
+
 [](https://hello.reliancemedicareadvisors.com/)[Call Reliance For Plan Options Today.Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hello.reliancemedicareadvisors.com/ "Call Reliance For Plan Options Today.")
+
+Undo
 
 [](https://tick.storytelltv.com/6b20f945-376c-4f69-bf27-7bb39bd64919)[Meet The Cat Advent Calendar With A Surprise Every Day CatCalendar | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://tick.storytelltv.com/6b20f945-376c-4f69-bf27-7bb39bd64919 "Meet The Cat Advent Calendar With A Surprise Every Day")
 
+Undo
+
 [](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f)[Can Hearing Aids Really Be Replaced By This New Chip?This New Type Of Hearing Aid Is Currently Changing The Way Americans Are Buying Hearing Aids. Without a Prescription or Costly Audiologist Visits.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f "Can Hearing Aids Really Be Replaced By This New Chip?")
+
+Undo
 
 [](https://www.pyloncore.lat/)[Why Bad Memory Is Rare Among Japanese Seniors: They Don’t Say This Phrase View | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.pyloncore.lat/ "Why Bad Memory Is Rare Among Japanese Seniors: They Don’t Say This Phrase")
 
+Undo
+
 [](https://hot.mygadgetsoffer.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 My Gadgets Offer | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://hot.mygadgetsoffer.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+
+Undo
+
+[](https://breathewelltoday.com/sk/adv-04)[Dermatologists: The 1 Vitamin You Need If You Have Wrinkles Viva Balance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://breathewelltoday.com/sk/adv-04 "Dermatologists: The 1 Vitamin You Need If You Have Wrinkles")
+
+Undo
+
+[](https://financebuzz.com/senior-money-tips-yaez)[Living On Less Than $2000 A Month? These 16 Things Could Help FinanceBuzz | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://financebuzz.com/senior-money-tips-yaez "Living On Less Than $2000 A Month? These 16 Things Could Help")
+
+Undo
+
+[](https://www.grammarly.com/a)[Go Pro: Better Tone, Your Voice Make every message sound exactly how you intend. Easily adapt your style for different audiences and situations. See how.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.grammarly.com/a "Go Pro: Better Tone, Your Voice")
+
+Undo
 
 ### NBA News
 
@@ -355,7 +379,15 @@ Sponsored Headlines
 
 [](https://ta.genavom.com/6ac650321492736889632925)[High Blood Pressure Isn't an Age Problem — The Real Cause May Surprise You.US Medical Research | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ta.genavom.com/6ac650321492736889632925 "High Blood Pressure Isn't an Age Problem — The Real Cause May Surprise You.")
 
+Undo
+
 [](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+Undo
+
+[](https://www.temu.com/ul/kuiper/un1.html)[Unbeatable Bargains on Temu Now Don't miss out on these must-go prices. Find quality items for less. Shop Temu today.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Unbeatable Bargains on Temu Now")
+
+Undo
 
 ![Image 53: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

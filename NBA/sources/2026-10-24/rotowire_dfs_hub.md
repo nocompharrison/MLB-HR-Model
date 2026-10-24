@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-24 17:47 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-24 18:05 ET -->
 
 # NBA DFS Picks Today
 October 24, 2026
@@ -23,6 +23,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, October 24 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (16) All NBA news Atlanta Hawks (HOU @ ATL) Brooklyn Nets (BKN @ CLE) Charlotte Hornets (MIA @ CHA) Chicago Bulls (WSH @ CHI) Cleveland Cavaliers (BKN @ CLE) Dallas Mavericks (SAN @ DAL) Denver Nuggets (NOP @ DEN) Golden State Warriors (GSW @ PHX) Houston Rockets (HOU @ ATL) Miami Heat (MIA @ CHA) Milwaukee Bucks (MIL @ PHI) New Orleans Pelicans (NOP @ DEN) Philadelphia 76ers (MIL @ PHI) Phoenix Suns (GSW @ PHX) San Antonio Spurs (SAN @ DAL) Washington Wizards (WSH @ CHI)
+Dallas MavericksSAN @ DAL - 8:00 PM ET
+**[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)** _F_ P5:50 PM ET
+#### Upgraded to probable
+Johnson (shin) is listed as probable for Saturday's game against the Spurs.
+Analysis
+Johnson was initially listed as questionable but is now trending in the right direction ahead of tipoff. If he's cleared to suit up, the rookie would likely see increased playing time due to the Mavericks being extremely shorthanded in the second leg of this back-to-back set.
+Dallas MavericksSAN @ DAL - 8:00 PM ET
+**[Zaccharie Risacher](https://www.rotowire.com/basketball/player/zaccharie-risacher-6249)** _F_ P5:49 PM ET
+#### Trending toward playing Saturday
+Risacher (hip) has been upgraded from questionable to probable ahead of Saturday's game against San Antonio.
+Analysis
+Risacher was initially tagged as questionable due to right hip soreness, but the third-year pro is trending in the right direction of Saturday's contest. Cooper Flagg (shoulder) has already been ruled out, and with Kyrie Irving (knee) now doubtful, Risacher and the other Mavericks role players are in line for more responsibilities against the Spurs.
+Dallas MavericksSAN @ DAL - 8:00 PM ET
+**[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)** _G_ D _Top_ 5:48 PM ET
+#### Downgraded to doubtful
+Irving (knee) has been downgraded from questionable to doubtful ahead of Saturday's game against the Spurs.
+Analysis
+It looks like Irving will end up missing the second leg of the Mavericks' back-to-back set Saturday while managing a knee issue. Marcus Sasser figures to enter the starting lineup if Irving is indeed ruled out against San Antonio.
 Miami HeatMIA @ CHA - 6:00 PM ET
 **[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)** _F_ 5:32 PM ET
 #### Cleared to play Saturday
@@ -35,25 +53,7 @@ Chicago BullsWSH @ CHI - 8:00 PM ET
 Essengue (head) has been downgraded to questionable for Saturday's game against the Wizards.
 Analysis
 Essengue initially drew a probable tag due to a head contusion, though he's trending in the wrong direction ahead of the second leg of this back-to-back set. If the 19-year-old forward is ultimately ruled out, Leonard Miller and Zach Collins could see increased minutes.
-Chicago BullsWSH @ CHI - 8:00 PM ET
-**[Patrick Williams](https://www.rotowire.com/basketball/player/patrick-williams-5122)** _F_ Q5:17 PM ET
-#### Now questionable for Saturday
-Williams (groin) is listed as questionable for Saturday's game against the Wizards.
-Analysis
-Williams is a late addition to the injury report due to right groin soreness, so his status will be worth monitoring leading up to the 8:00 p.m. ET tipoff. He has yet to appear in a regular-season game, so his absence wouldn't have much of an impact on the Bulls' bench rotation.
-Charlotte HornetsMIA @ CHA - 6:00 PM ET
-**[Christian Anderson](https://www.rotowire.com/basketball/player/christian-anderson-6978)** _G_ 4:48 PM ET
-#### Available Saturday
-Anderson (ankle) is available for Saturday's game against the Heat.
-Analysis
-As expected, Anderson will ditch his probable tag due to a left ankle sprain. He's averaging 1.0 points, 2.0 assists and 1.5 combined steals-plus-blocks while shooting 12.5 percent from the field in 14.5 minutes per game across two regular-season outings, and he'll likely continue to back up Dennis Schroder until Coby White (calf) returns.
-Phoenix SunsGSW @ PHX - 10:00 PM ET
-**[Oso Ighodaro](https://www.rotowire.com/basketball/player/oso-ighodaro-6293)** _C_ OUT4:24 PM ET
-#### Won't play Saturday
-Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.
-Analysis
-As expected, Ighodaro will miss Saturday's contest with an oblique strain. The big man's next opportunity to play will come Monday at Oklahoma City. With Ighodaro sidelined, Koa Peat, Rasheer Fleming and Duop Reath could see increased minutes at the five. Khaman Maluach is expected to remain in the first unit and could also see a bump in minutes.
-Show 5 more (35 remaining)
+Show 5 more (38 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -110,17 +110,17 @@ _Implied_**121.0** _Spread_**+2.5**
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 29.7  |  
 | PF  | Anthony Davis  | $8,700  | 43.0  |  
-| PG  | Trae Young  | $7,900  | 43.4  |  
-| SF  | Bilal Coulibaly  | $5,000  | 25.6  |  
-| SG  | Kyshawn George  | $5,500  | 27.9  |  
+| PG  | Trae Young  | $7,900  | 43.5  |  
+| SF  | Bilal Coulibaly  | $5,000  | 25.7  |  
+| SG  | Kyshawn George  | $5,500  | 28.0  |  
 BullsExpectedHome
 _Implied_**123.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,200  | 33.6  |  
 | PF  | Caleb Wilson  | $7,100  | 34.9  |  
-| PG  | Josh Giddey  | $8,400  | 37.9  |  
-| SF  | Matas Buzelis  | $6,500  | 31.4  |  
+| PG  | Josh Giddey  | $8,400  | 38.0  |  
+| SF  | Matas Buzelis  | $6,500  | 31.5  |  
 | SG  | Norman Powell  | $6,100  | 30.2  |  
 **SAS @ DAL**
 O/U 229.58:00 PM ET
@@ -137,11 +137,11 @@ MavericksExpectedHome
 _Implied_**107.5** _Spread_**+14.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Daniel Gafford  | $5,100  | 25.6  |  
-| PF  | P.J. Washington  | $5,300  | 33.1  |  
-| PG  | Kyrie IrvingQ  | $6,800  | 18.7  |  
-| SF  | Naji Marshall  | $4,800  | 32.1  |  
-| SG  | Max ChristieQ  | $4,500  | 27.4  |  
+| C  | Daniel Gafford  | $5,100  | 25.9  |  
+| PF  | P.J. Washington  | $5,300  | 33.7  |  
+| PG  | Marcus Sasser  | $4,400  | 26.8  |  
+| SF  | Naji Marshall  | $4,800  | 32.9  |  
+| SG  | Max ChristieQ  | $4,500  | 28.1  |  
 **HOU @ ATL**
 O/U 227.58:30 PM ET
 RocketsExpectedAway
@@ -173,16 +173,16 @@ Main - 5 games - 7:30 PMOct 25 - Main - 2 games - 5:00 PM (pending)Oct 25 - Main
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Naji MarshallDAL - SF  | vs SAS  | $4,800  | 33  | 32.1  | **6.69**  |  
+| 1  |  Naji MarshallDAL - SF  | vs SAS  | $4,800  | 33  | 32.9  | **6.84**  |  
 | 2  |  Day'Ron SharpeBKN - C  | @ CLE  | $5,500  | 30  | 36.0  | **6.55**  |  
-| 3  |  Jalen SmithCHI - C  | vs WSH  | $5,200  | 27  | 33.6  | **6.46**  |  
-| 4  |  PJ WashingtonDAL - PF  | vs SAS  | $5,300  | 33  | 33.1  | **6.25**  |  
-| 5  |  Kyle KuzmaMIL - PF  | @ PHI  | $4,400  | 28  | 27.4  | **6.23**  |  
-| 6  |  Zaccharie RisacherQDAL - SG  | vs SAS  | $4,600  | 30  | 28.6  | **6.22**  |  
-| 7  |  Max ChristieQDAL - SG  | vs SAS  | $4,500  | 33  | 27.4  | **6.08**  |  
-| 8  |  Anfernee SimonsPHI - PG  | vs MIL  | $3,700  | 23  | 21.7  | **5.87**  |  
-| 9  |  Jaime JaquezMIL - SF  | @ PHI  | $5,700  | 31  | 32.6  | **5.72**  |  
-| 10  |  Myles TurnerMIL - C  | @ PHI  | $5,500  | 31  | 31.4  | **5.70**  |  
+| 3  |  Jalen SmithCHI - C  | vs WSH  | $5,200  | 27  | 33.6  | **6.47**  |  
+| 4  |  PJ WashingtonDAL - PF  | vs SAS  | $5,300  | 33  | 33.7  | **6.37**  |  
+| 5  |  Zaccharie RisacherPDAL - SG  | vs SAS  | $4,600  | 30  | 29.3  | **6.36**  |  
+| 6  |  Max ChristieQDAL - SG  | vs SAS  | $4,500  | 33  | 28.1  | **6.25**  |  
+| 7  |  Kyle KuzmaMIL - PF  | @ PHI  | $4,400  | 28  | 27.4  | **6.23**  |  
+| 8  |  Marcus SasserDAL - PG  | vs SAS  | $4,400  | 30  | 26.8  | **6.08**  |  
+| 9  |  Morez JohnsonPDAL - PF  | vs SAS  | $4,100  | 24  | 24.1  | **5.89**  |  
+| 10  |  Anfernee SimonsPHI - PG  | vs MIL  | $3,700  | 23  | 21.7  | **5.87**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -191,7 +191,7 @@ NBA Boom-or-Bust Board
 Highest-ceiling, highest-variance plays on the slate, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Today · 7:30 PM ET · 5 games — 100 players projected Today · 8:00 PM ET · 2 games — 41 players projected Today · 9:00 PM ET · 2 games — 41 players projected Sun 10/25 · 5:00 PM ET · 2 games — 10 players projected Sun 10/25 · 7:00 PM ET · 4 games — 10 players projected Sun 10/25 · 7:30 PM ET · 2 games — 10 players projected Today · 6:00 PM ET · MIA@CHA single game — 21 players projected Today · 7:30 PM ET · MIL@PHI single game — 20 players projected Today · 8:30 PM ET · HOU@ATL single game — 19 players projected Today · 10:00 PM ET · GSW@PHX single game — 22 players projected Today · 11:00 PM ET · GSW@PHX single game — 22 players projected Sun 10/25 · 5:00 PM ET · LAL@UTA single game — projections not yet available Sun 10/25 · 6:00 PM ET · IND@BKN single game — 10 players projected Sun 10/25 · 7:00 PM ET · TOR@MIN single game — projections not yet available Sun 10/25 · 9:00 PM ET · MEM@SAC single game — projections not yet available Sun 10/25 · 10:00 PM ET · MEM@SAC single game — projections not yet available
+Slate Today · 7:30 PM ET · 5 games — 101 players projected Today · 8:00 PM ET · 2 games — 42 players projected Today · 9:00 PM ET · 2 games — 41 players projected Sun 10/25 · 5:00 PM ET · 2 games — 10 players projected Sun 10/25 · 7:00 PM ET · 4 games — 10 players projected Sun 10/25 · 7:30 PM ET · 2 games — 10 players projected Today · 6:00 PM ET · MIA@CHA single game — 21 players projected Today · 7:30 PM ET · MIL@PHI single game — 20 players projected Today · 8:30 PM ET · HOU@ATL single game — 19 players projected Today · 10:00 PM ET · GSW@PHX single game — 22 players projected Today · 11:00 PM ET · GSW@PHX single game — 22 players projected Sun 10/25 · 5:00 PM ET · LAL@UTA single game — projections not yet available Sun 10/25 · 6:00 PM ET · IND@BKN single game — 10 players projected Sun 10/25 · 7:00 PM ET · TOR@MIN single game — projections not yet available Sun 10/25 · 9:00 PM ET · MEM@SAC single game — projections not yet available Sun 10/25 · 10:00 PM ET · MEM@SAC single game — projections not yet available
 TeamAll ATL BKN CHI CLE DAL HOU MIL PHI SAS WAS
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -200,27 +200,27 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-12014016018020022024020406080BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)JakucionisEdgecombeGiddeySmartDort
+12014016018020022024020406080BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)EdgecombeJakucionisDortGiddeyDiengSmart
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** HOU@ATL, BKN@CLE, WAS@CHI, SAS@DAL, MIL@PHI  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Kasparas JakucionisMIL · PG · MIL@PHI  | $4,100  | 6.6  | 23.0  | **46.3**  |   | 173%  | 11.3  | 57  |  
-| 2  |  VJ EdgecombePHI · PG/SG · MIL@PHI  | $5,600  | 10.5  | 31.6  | **58.8**  |   | 153%  | 10.5  | 56  |  
-| 3  |  Josh GiddeyCHI · PG · WAS@CHI  | $8,400  | 15.0  | 37.9  | **68.6**  |   | 141%  | 8.2  | 55  |  
-| 4  |  Marcus SmartHOU · PG/SG · HOU@ATL  | $4,500  | 5.4  | 20.6  | **42.3**  |   | 178%  | 9.4  | 54  |  
-| 5  |  Julian ChampagnieSAS · PF · SAS@DAL  | $4,600  | 7.0  | 23.5  | **46.4**  |   | 168%  | 10.1  | 54  |  
-| 6  |  James HardenCLE · PG · BKN@CLE  | $7,200  | 14.4  | 37.1  | **67.0**  |   | 142%  | 9.3  | 54  |  
-| 7  |  Luguentz DortATL · SG/SF · HOU@ATL  | $4,700  | 4.3  | 17.5  | **36.9**  |   | 186%  | 7.9  | 54  |  
-| 8  |  Onyeka OkongwuATL · C · HOU@ATL  | $6,400  | 12.1  | 33.5  | **62.0**  |   | 149%  | 9.7  | 54  |  
-| 9  |  Mikel BrownBKN · PG/SG · BKN@CLE  | $5,100  | 6.2  | 21.3  | **43.0**  |   | 173%  | 8.4  | 54  |  
-| 10  |  Ousmane DiengMIL · SF/PF · MIL@PHI  | $3,800  | 3.6  | 15.8  | **34.2**  |   | 194%  | 9.0  | 54  |  
-| 11  |  Justin ChampagnieWAS · PF · WAS@CHI  | $4,100  | 6.3  | 21.4  | **43.2**  |   | 172%  | 10.5  | 53  |  
-| 12  |  Keon EllisBKN · SG/SF · BKN@CLE  | $4,500  | 6.2  | 22.3  | **44.5**  |   | 171%  | 9.9  | 53  |  
-| 13  |  Ryan RollinsMIL · PG · MIL@PHI  | $6,400  | 11.9  | 32.9  | **61.0**  |   | 149%  | 9.5  | 53  |  
-| 14  |  Dean WadePHI · PF · MIL@PHI  | $3,200  | 3.9  | 16.9  | **36.4**  |   | 192%  | 11.4  | 53  |  
-| 15  |  Isaac OkoroCHI · SG/SF · WAS@CHI  | $4,500  | 4.6  | 17.6  | **37.2**  |   | 185%  | 8.3  | 53  |  
+| 1  |  VJ EdgecombePHI · PG/SG · MIL@PHI  | $5,600  | 10.5  | 31.6  | **58.8**  |   | 153%  | 10.5  | 56  |  
+| 2  |  Kasparas JakucionisMIL · PG · MIL@PHI  | $4,100  | 6.6  | 23.0  | **46.3**  |   | 173%  | 11.3  | 55  |  
+| 3  |  Luguentz DortATL · SG/SF · HOU@ATL  | $4,700  | 4.3  | 17.5  | **36.9**  |   | 186%  | 7.9  | 54  |  
+| 4  |  Josh GiddeyCHI · PG · WAS@CHI  | $8,400  | 15.0  | 38.0  | **68.6**  |   | 141%  | 8.2  | 54  |  
+| 5  |  James HardenCLE · PG · BKN@CLE  | $7,200  | 14.4  | 37.1  | **67.0**  |   | 142%  | 9.3  | 54  |  
+| 6  |  Ousmane DiengMIL · SF/PF · MIL@PHI  | $3,800  | 3.6  | 15.8  | **34.2**  |   | 194%  | 9.0  | 54  |  
+| 7  |  Onyeka OkongwuATL · C · HOU@ATL  | $6,400  | 12.1  | 33.5  | **62.0**  |   | 149%  | 9.7  | 54  |  
+| 8  |  Marcus SmartHOU · PG/SG · HOU@ATL  | $4,500  | 5.4  | 20.6  | **42.3**  |   | 178%  | 9.4  | 54  |  
+| 9  |  Dean WadePHI · PF · MIL@PHI  | $3,200  | 3.9  | 16.9  | **36.4**  |   | 192%  | 11.4  | 54  |  
+| 10  |  Isaac OkoroCHI · SG/SF · WAS@CHI  | $4,500  | 4.7  | 17.7  | **37.3**  |   | 185%  | 8.3  | 53  |  
+| 11  |  Mikel BrownBKN · PG/SG · BKN@CLE  | $5,100  | 6.2  | 21.3  | **43.0**  |   | 173%  | 8.4  | 53  |  
+| 12  |  Noah ClowneyBKN · SF/PF · BKN@CLE  | $4,200  | 4.6  | 17.9  | **37.5**  |   | 184%  | 8.9  | 53  |  
+| 13  |  Keon EllisBKN · SG/SF · BKN@CLE  | $4,500  | 6.2  | 22.3  | **44.5**  |   | 171%  | 9.9  | 53  |  
+| 14  |  Julian ChampagnieSAS · PF · SAS@DAL  | $4,600  | 7.0  | 23.5  | **46.3**  |   | 168%  | 10.1  | 53  |  
+| 15  |  Zach CollinsCHI · C · WAS@CHI  | $3,900  | 3.7  | 14.7  | **32.2**  |   | 193%  | 8.3  | 53  |  
 Show all 92 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:30 PM ET · 5 games slate · 2026-10-24.
 ## **NBA Injury Report**

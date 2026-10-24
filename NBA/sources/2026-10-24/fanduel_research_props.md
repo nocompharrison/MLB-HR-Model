@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24 | fetched: 2026-10-24 17:47 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24 | fetched: 2026-10-24 18:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -31,7 +31,7 @@ _Spurs at Mavericks — 8:00 p.m. ET_
 De'Aaron Fox - Points
 De'Aaron Fox Over
 O 14.5
--118
+-120
 Oct 25 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/san-antonio-spurs-@-dallas-mavericks-36224425)
 Odds/lines subject to change
 The bar isn't particularly high for [De'Aaron Fox](https://sportsbook.fanduel.com/teams/nba/roster/deaaron-fox-2516), making his scoring over an appealing way to attack Saturday's matchup between the [San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/odds) and [Dallas Mavericks](https://sportsbook.fanduel.com/teams/nba/dallas-mavericks/odds).
@@ -58,7 +58,7 @@ _Pelicans at Nuggets — 9:00 p.m. ET_
 Jamal Murray - Pts + Reb + Ast
 Jamal Murray Under
 U 35.5
--104
+-108
 Oct 25 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-orleans-pelicans-@-denver-nuggets-36224420)
 Odds/lines subject to change
 I'm willing to sell high on expectations for [Jamal Murray](https://sportsbook.fanduel.com/teams/nba/roster/jamal-murray-2421) in the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/denver-nuggets/odds)' home opener against the [New Orleans Pelicans](https://sportsbook.fanduel.com/teams/nba/new-orleans-pelicans/odds).
@@ -105,7 +105,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [4 Best NBA Bets and Player Props for Saturday’s Matchup Miami Heat vs Charlotte Hornets](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-saturday-s-matchup-miami-heat-vs-charlotte-hornets)
-5h
+6h
 Giannis Antetokounmpo and Andrew Wiggins headline the best bets and player props for Heat vs Hornets. 4 best bets for Saturday’s NBA matchup.
 [](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-saturday-s-matchup-miami-heat-vs-charlotte-hornets)
 [NBA](https://www.fanduel.com/research/nba)
