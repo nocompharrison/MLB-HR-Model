@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-10-24 | updated 2026-10-24 12:08 ET
+# NBA transcripts | 2026-10-24 | updated 2026-10-24 15:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 10 files in NBA/transcripts/2026-10-24:
 NBA/transcripts/2026-10-24/F8lefEP7tE4_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_23_26.txt
@@ -17,24 +17,20 @@ NONE    channel ActionNetwork: nothing new in the date window (or everything alr
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-24/HcKwVUpMzew_WagerTalk_BEST_NBA_Picks_Today_Predictions_Props_for_Friday_10_23_PROFIT_PICKS.txt  (7,010 words)
-NEW     NBA/transcripts/2026-10-24/gllpWqnygns_WagerTalk_NBA_Picks_Today_Best_Bets_Friday_10_23_PROFIT_PICKS.txt  (7,098 words)
-NEW     NBA/transcripts/2026-10-24/F8lefEP7tE4_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_23_26.txt  (17,200 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-24/Ns3XCXHZBeI_Stokastic_NBA_DFS_Live_Before_Lock_Friday_10_23_26_DraftKings_FanDuel_NBA_Lineup.txt  (9,940 words)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-24/matJZYc-RvY_LockedOnNBA_BUCKS_POSTCAST_Bucks_STUMBLE_Late_AGAIN_Bulls_SPOIL_Milwaukee_s_Home_O.txt  (4,369 words)
-NEW     NBA/transcripts/2026-10-24/Q7YxHPtj9D8_LockedOnNBA_BEST_NBA_NIGHT_EVER_YOU_HAD_TO_BE_THERE.txt  (6,291 words)
-NEW     NBA/transcripts/2026-10-24/qp19p8Hzye0_LockedOnNBA_SPURS_POSTCAST_Amen_Thompson_Silences_Wembanyama_as_Rockets_Edge_Spurs.txt  (3,565 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-24/NM52Deb0QPg_NBAGamblingPod_NBA_Friday_Picks_10_23_26_NBA_Bets_Player_Props_and_Predictions.txt  (17,274 words)
-NEW     NBA/transcripts/2026-10-24/ScSQsXZKoDk_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_24th.txt  (3,624 words)
-NEW     NBA/transcripts/2026-10-24/_-_wuRqK0hw_JayMoney_Night_Time_NBA_Talk_With_Jay_Money_Free_Overnight_NBA_Picks.txt  (3,742 words)
-UPCOMING JayMoney 45ndCxYx_sk Saturday NBA Talk With Jay Money & Shark 10/24/26 Free NBA P  (not aired yet - scheduled for 10/24/26 1:00PM)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NOCAPS  JayMoney 45ndCxYx_sk Saturday NBA Talk With Jay Money & Shark 10/24/26 Free NBA P  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.6h ago))
+UPCOMING JayMoney 9dmcmheipeY Night Time NBA Talk With Jay  Money Sunday Overnight NBA Pic  (not aired yet - scheduled for 10/25/26 12:35AM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
