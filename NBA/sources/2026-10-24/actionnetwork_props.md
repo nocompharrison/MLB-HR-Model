@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/props | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.actionnetwork.com/nba/props | fetched: 2026-10-24 17:47 ET -->
 
 # NBA Props
 ## NBA Expert Prop Bets
@@ -8,7 +8,7 @@ MIA
 ![](https://static.sprtactn.co/teamlogos/nba/100/cha.png)
 CHA
 1-1
-3 picks
+4 picks
 6:00 PM
 WAXN
 ![](https://static.sprtactn.co/teamlogos/nba/100/mil.png)
@@ -17,7 +17,7 @@ MIL
 ![](https://static.sprtactn.co/teamlogos/nba/100/phi.png)
 PHI
 2-0
-5 picks
+7 picks
 7:30 PM
 NBA TV
 ![](https://static.sprtactn.co/teamlogos/nba/100/bkn.png)
@@ -76,17 +76,17 @@ PHX
 NBA TV
 [![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)](https://www.actionnetwork.com/picks/profile/VegasMinion)
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-6h ago
+9h ago
 Last 30d: 17-18-0 (+1.3u)
 Follow
 [ D.Mitchell o6.5 Ast+101 MIA ![MIA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/mia.png)@![CHA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/cha.png)CHA ](https://www.actionnetwork.com/nba-game/heat-hornets-score-odds-october-24-2026/295305)
 1u
 6:00 PM
 <https://discord.gg/E83JDF5uu>
-8
+10
 [![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)](https://www.actionnetwork.com/picks/profile/VegasMinion)
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-6h ago
+8h ago
 Last 30d: 17-18-0 (+1.3u)
 Follow
 [ D.Mitchell To Record 9+ Assists Yes+274 MIA ![MIA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/mia.png)@![CHA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/cha.png)CHA ](https://www.actionnetwork.com/nba-game/heat-hornets-score-odds-october-24-2026/295305)
@@ -94,9 +94,17 @@ Follow
 6:00 PM
 <https://discord.gg/E83JDF5uu> 🪜🔥🧸
 2
+[![Sandy Plashkes](https://s3.amazonaws.com/tan-user-assets/profile_images/707137/1682701986369-f11bcb10e5e711ed99535d83c95dbdc6.jpg)](https://www.actionnetwork.com/picks/profile/sandyplashkes)
+[Sandy Plashkes](https://www.actionnetwork.com/picks/profile/sandyplashkes)
+34m ago
+Last 30d: 8-11-2 (-3.6u)
+Follow
+[ B.Adebayo o17.5 Pts-102 MIA ![MIA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/mia.png)@![CHA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/cha.png)CHA ](https://www.actionnetwork.com/nba-game/heat-hornets-score-odds-october-24-2026/295305)
+2.04u
+6:00 PM
 [![RoyalsProps](https://s3.amazonaws.com/tan-user-assets/profile_images/1876635/1776313425748-0df1f9b3bd244a2c8ed33c8c2bf30791.jpg)](https://www.actionnetwork.com/picks/profile/RoyalsProps)
 [RoyalsProps](https://www.actionnetwork.com/picks/profile/RoyalsProps)
-6h ago
+8h ago
 Last 30d: 8-6-2 (+1.7u)
 Follow
 [ B.Adebayo o16.5 Pts-117 MIA ![MIA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/mia.png)@![CHA Team Abbreviation](https://static.sprtactn.co/teamlogos/nba/100/cha.png)CHA ](https://www.actionnetwork.com/nba-game/heat-hornets-score-odds-october-24-2026/295305)
@@ -203,5 +211,5 @@ What kind of NBA props do sportsbooks offer?
 Without the emergence of props, NBA betting wouldn't be where it is today. Sportsbooks continue to add new offerings Here are some other props offered: Over/under player points, like Kevin Durant over 27.5 Player to record a double-double Player to score the first basket Over/under combined steals and blocks
 Are NBA props a good bet?
 It always depends on the specific bet and market you're taking, but generally, props are easier to beat than full-game moneylines, spreads and totals. Because there are so many players to price in so many statistical categories, you can get an edge by specializing in a certain team or market. The betting limits are also lower, which attracts fewer sharp bettors who have the ability to move lines early.
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0200241b-9d88-4e5d-a6ae-6633e31f5bd1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9dd5ab87-b523-4ab7-a9be-4dce7431490b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=10&tw_session_id=1792870584594-111194484&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0200241b-9d88-4e5d-a6ae-6633e31f5bd1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9dd5ab87-b523-4ab7-a9be-4dce7431490b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=10&tw_session_id=1792870584594-111194484&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f035d712-33f4-43d7-9366-e4431cee04b7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9dd5ab87-b523-4ab7-a9be-4dce7431490b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=7480&tw_iframe_status=0&tw_pid_src=2&tw_session_count=10&tw_session_id=1792870584594-111194484&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f035d712-33f4-43d7-9366-e4431cee04b7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9dd5ab87-b523-4ab7-a9be-4dce7431490b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=7480&tw_iframe_status=0&tw_pid_src=2&tw_session_count=10&tw_session_id=1792870584594-111194484&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a8fec849-0992-494d-9007-6e09d9b861b3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ec1febc9-25dd-4ef8-b0ba-b03c0f8b9327&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=11&tw_session_id=1792878344429-565307640&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a8fec849-0992-494d-9007-6e09d9b861b3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ec1febc9-25dd-4ef8-b0ba-b03c0f8b9327&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=11&tw_session_id=1792878344429-565307640&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c561bc20-7ecf-4cdf-a972-40a315faaa5b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ec1febc9-25dd-4ef8-b0ba-b03c0f8b9327&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=7440&tw_iframe_status=0&tw_pid_src=2&tw_session_count=11&tw_session_id=1792878344429-565307640&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c561bc20-7ecf-4cdf-a972-40a315faaa5b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ec1febc9-25dd-4ef8-b0ba-b03c0f8b9327&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fprops&tw_engaged_ms=7440&tw_iframe_status=0&tw_pid_src=2&tw_session_count=11&tw_session_id=1792878344429-565307640&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-24 17:47 ET -->
 
 # NBA DFS Picks Today
 October 24, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, October 24 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (16) All NBA news Atlanta Hawks (HOU @ ATL) Brooklyn Nets (BKN @ CLE) Charlotte Hornets (MIA @ CHA) Chicago Bulls (WSH @ CHI) Cleveland Cavaliers (BKN @ CLE) Dallas Mavericks (SAN @ DAL) Denver Nuggets (NOP @ DEN) Golden State Warriors (GSW @ PHX) Houston Rockets (HOU @ ATL) Miami Heat (MIA @ CHA) Milwaukee Bucks (MIL @ PHI) New Orleans Pelicans (NOP @ DEN) Philadelphia 76ers (MIL @ PHI) Phoenix Suns (GSW @ PHX) San Antonio Spurs (SAN @ DAL) Washington Wizards (WSH @ CHI)
-New Orleans PelicansNOP @ DEN - 9:00 PM ET
-**[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)** _C_ OUT _Top_ 3:05 PM ET
-#### Ruled out Saturday
-Missi (knee) has been ruled out for Saturday's game against the Nuggets.
+Miami HeatMIA @ CHA - 6:00 PM ET
+**[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)** _F_ 5:32 PM ET
+#### Cleared to play Saturday
+Larsson (finger) is available for Saturday's game against the Hornets.
 Analysis
-Missi exited Friday's loss to the Jazz with what the name is now calling a left knee bone bruise. His next chance to suit up will come in Wednesday's rematch against Denver. In the meantime, Derik Queen and Karlo Matkovic are candidates to see increased playing time.
-San Antonio SpursSAN @ DAL - 8:00 PM ET
-**[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)** _F_ OUT _Top_ 2:32 PM ET
-#### Out vs. Dallas
-Harris (calf) is out for Saturday's game against the Mavericks.
+Larsson was initially listed as probable for Saturday's game due to a sprained finger, and the third-year pro has been given the green light to play against Charlotte. He played 29 minutes during Friday's 128-111 loss to the Pistons and finished with seven points, two rebounds, one assist and one steal.
+Chicago BullsWSH @ CHI - 8:00 PM ET
+**[Noa Essengue](https://www.rotowire.com/basketball/player/noa-essengue-6586)** _F_ Q5:19 PM ET
+#### Downgraded to questionable
+Essengue (head) has been downgraded to questionable for Saturday's game against the Wizards.
 Analysis
-Harris has yet to play for the Spurs this season, and this will be a third consecutive absence for the veteran forward. With Harris on the sidelines, Devin Vassell and Julian Champagnie should be in line for more playing time Saturday and beyond.
-Dallas MavericksSAN @ DAL - 8:00 PM ET
-**[Zaccharie Risacher](https://www.rotowire.com/basketball/player/zaccharie-risacher-6249)** _F_ Q2:31 PM ET
-#### Questionable for Saturday
-Risacher is questionable for Saturday's game against the Spurs due to right hip soreness.
+Essengue initially drew a probable tag due to a head contusion, though he's trending in the wrong direction ahead of the second leg of this back-to-back set. If the 19-year-old forward is ultimately ruled out, Leonard Miller and Zach Collins could see increased minutes.
+Chicago BullsWSH @ CHI - 8:00 PM ET
+**[Patrick Williams](https://www.rotowire.com/basketball/player/patrick-williams-5122)** _F_ Q5:17 PM ET
+#### Now questionable for Saturday
+Williams (groin) is listed as questionable for Saturday's game against the Wizards.
 Analysis
-A final call on Risacher's status will be made closer to Sunday's 8 p.m. ET tipoff. The Frenchman has seen considerable playing time off the bench in the early days of the season, logging at least 27 minutes in his two appearances and averaging 7.5 points, 6.0 rebounds, 3.0 steals, 1.5 assists and 1.5 blocks per contest.
-Dallas MavericksSAN @ DAL - 8:00 PM ET
-**[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)** _F_ Q2:29 PM ET
-#### Questionable to face San Antonio
-Johnson (shin) is listed as questionable for Saturday's game against the Spurs.
+Williams is a late addition to the injury report due to right groin soreness, so his status will be worth monitoring leading up to the 8:00 p.m. ET tipoff. He has yet to appear in a regular-season game, so his absence wouldn't have much of an impact on the Bulls' bench rotation.
+Charlotte HornetsMIA @ CHA - 6:00 PM ET
+**[Christian Anderson](https://www.rotowire.com/basketball/player/christian-anderson-6978)** _G_ 4:48 PM ET
+#### Available Saturday
+Anderson (ankle) is available for Saturday's game against the Heat.
 Analysis
-Johnson is in jeopardy of missing the second leg of this back-to-back set due to right shin splints. If the rookie forward is unable to suit up, Naji Marshall, P.J. Washington and Tobi Lawal would be candidates to see a bump in minutes.
-Dallas MavericksSAN @ DAL - 8:00 PM ET
-**[Caleb Martin](https://www.rotowire.com/basketball/player/caleb-martin-4931)** _F_ OUT2:29 PM ET
-#### Missing third consecutive game
-Martin (thumb) has been ruled out against San Antonio on Saturday.
+As expected, Anderson will ditch his probable tag due to a left ankle sprain. He's averaging 1.0 points, 2.0 assists and 1.5 combined steals-plus-blocks while shooting 12.5 percent from the field in 14.5 minutes per game across two regular-season outings, and he'll likely continue to back up Dennis Schroder until Coby White (calf) returns.
+Phoenix SunsGSW @ PHX - 10:00 PM ET
+**[Oso Ighodaro](https://www.rotowire.com/basketball/player/oso-ighodaro-6293)** _C_ OUT4:24 PM ET
+#### Won't play Saturday
+Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports.
 Analysis
-Martin has yet to suit up for a regular-season game due to a right thumb injury. His next chance to play is Monday against the Heat, but given the nature of the injury, he can be considered week-to-week until the Mavericks provide a more clear timetable for return.
-Show 5 more (25 remaining)
+As expected, Ighodaro will miss Saturday's contest with an oblique strain. The big man's next opportunity to play will come Monday at Oklahoma City. With Ighodaro sidelined, Koa Peat, Rasheer Fleming and Duop Reath could see increased minutes at the five. Khaman Maluach is expected to remain in the first unit and could also see a bump in minutes.
+Show 5 more (35 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -90,22 +90,22 @@ _Implied_**111.0** _Spread_**+12.5**
 | --- | --- | --- | --- |  
 | C  | Myles Turner  | $5,500  | 31.4  |  
 | PF  | Kyle Kuzma  | $4,400  | 27.4  |  
-| PG  | Ryan Rollins  | $6,400  | 33.0  |  
+| PG  | Ryan Rollins  | $6,400  | 32.9  |  
 | SF  | Jaime Jaquez  | $5,700  | 32.6  |  
 | SG  | Tyler Herro  | $7,000  | 35.4  |  
 76ersExpectedHome
 _Implied_**123.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Joel Embiid  | $8,000  | 42.1  |  
+| C  | Joel Embiid  | $8,000  | 42.0  |  
 | PF  | Dean WadeQ  | $3,200  | 16.9  |  
-| PG  | Tyrese Maxey  | $8,200  | 46.1  |  
+| PG  | Tyrese Maxey  | $8,200  | 46.0  |  
 | SF  | Jaylen Brown  | $7,700  | 42.3  |  
-| SG  | VJ Edgecombe  | $5,600  | 31.7  |  
+| SG  | VJ Edgecombe  | $5,600  | 31.6  |  
 **WSH @ CHI**
-O/U 244.48:00 PM ET
+O/U 244.58:00 PM ET
 WizardsExpectedAway
-_Implied_**121.5** _Spread_**+1.5**  
+_Implied_**121.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 29.7  |  
@@ -114,7 +114,7 @@ _Implied_**121.5** _Spread_**+1.5**
 | SF  | Bilal Coulibaly  | $5,000  | 25.6  |  
 | SG  | Kyshawn George  | $5,500  | 27.9  |  
 BullsExpectedHome
-_Implied_**123.0** _Spread_**-1.5**  
+_Implied_**123.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,200  | 33.6  |  
@@ -177,12 +177,12 @@ AllGuardsForwardsCenters
 | 2  |  Day'Ron SharpeBKN - C  | @ CLE  | $5,500  | 30  | 36.0  | **6.55**  |  
 | 3  |  Jalen SmithCHI - C  | vs WSH  | $5,200  | 27  | 33.6  | **6.46**  |  
 | 4  |  PJ WashingtonDAL - PF  | vs SAS  | $5,300  | 33  | 33.1  | **6.25**  |  
-| 5  |  Kyle KuzmaMIL - PF  | @ PHI  | $4,400  | 28  | 27.5  | **6.24**  |  
+| 5  |  Kyle KuzmaMIL - PF  | @ PHI  | $4,400  | 28  | 27.4  | **6.23**  |  
 | 6  |  Zaccharie RisacherQDAL - SG  | vs SAS  | $4,600  | 30  | 28.6  | **6.22**  |  
 | 7  |  Max ChristieQDAL - SG  | vs SAS  | $4,500  | 33  | 27.4  | **6.08**  |  
 | 8  |  Anfernee SimonsPHI - PG  | vs MIL  | $3,700  | 23  | 21.7  | **5.87**  |  
-| 9  |  Jaime JaquezMIL - SF  | @ PHI  | $5,700  | 31  | 32.6  | **5.73**  |  
-| 10  |  Myles TurnerMIL - C  | @ PHI  | $5,500  | 31  | 31.4  | **5.71**  |  
+| 9  |  Jaime JaquezMIL - SF  | @ PHI  | $5,700  | 31  | 32.6  | **5.72**  |  
+| 10  |  Myles TurnerMIL - C  | @ PHI  | $5,500  | 31  | 31.4  | **5.70**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -191,7 +191,7 @@ NBA Boom-or-Bust Board
 Highest-ceiling, highest-variance plays on the slate, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Today · 7:30 PM ET · 5 games — 100 players projected Today · 8:00 PM ET · 2 games — 41 players projected Today · 9:00 PM ET · 2 games — 42 players projected Sun 10/25 · 5:00 PM ET · 2 games — 10 players projected Sun 10/25 · 7:00 PM ET · 4 games — 10 players projected Sun 10/25 · 7:30 PM ET · 2 games — 10 players projected Today · 6:00 PM ET · MIA@CHA single game — 21 players projected Today · 7:30 PM ET · MIL@PHI single game — 20 players projected Today · 8:30 PM ET · HOU@ATL single game — 19 players projected Today · 10:00 PM ET · GSW@PHX single game — 23 players projected Today · 11:00 PM ET · GSW@PHX single game — 23 players projected Sun 10/25 · 5:00 PM ET · LAL@UTA single game — projections not yet available Sun 10/25 · 6:00 PM ET · IND@BKN single game — 10 players projected Sun 10/25 · 7:00 PM ET · TOR@MIN single game — projections not yet available Sun 10/25 · 9:00 PM ET · MEM@SAC single game — projections not yet available Sun 10/25 · 10:00 PM ET · MEM@SAC single game — projections not yet available
+Slate Today · 7:30 PM ET · 5 games — 100 players projected Today · 8:00 PM ET · 2 games — 41 players projected Today · 9:00 PM ET · 2 games — 41 players projected Sun 10/25 · 5:00 PM ET · 2 games — 10 players projected Sun 10/25 · 7:00 PM ET · 4 games — 10 players projected Sun 10/25 · 7:30 PM ET · 2 games — 10 players projected Today · 6:00 PM ET · MIA@CHA single game — 21 players projected Today · 7:30 PM ET · MIL@PHI single game — 20 players projected Today · 8:30 PM ET · HOU@ATL single game — 19 players projected Today · 10:00 PM ET · GSW@PHX single game — 22 players projected Today · 11:00 PM ET · GSW@PHX single game — 22 players projected Sun 10/25 · 5:00 PM ET · LAL@UTA single game — projections not yet available Sun 10/25 · 6:00 PM ET · IND@BKN single game — 10 players projected Sun 10/25 · 7:00 PM ET · TOR@MIN single game — projections not yet available Sun 10/25 · 9:00 PM ET · MEM@SAC single game — projections not yet available Sun 10/25 · 10:00 PM ET · MEM@SAC single game — projections not yet available
 TeamAll ATL BKN CHI CLE DAL HOU MIL PHI SAS WAS
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -206,8 +206,8 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 **Slate games:** HOU@ATL, BKN@CLE, WAS@CHI, SAS@DAL, MIL@PHI  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Kasparas JakucionisMIL · PG · MIL@PHI  | $4,100  | 6.6  | 23.0  | **46.3**  |   | 172%  | 11.3  | 57  |  
-| 2  |  VJ EdgecombePHI · PG/SG · MIL@PHI  | $5,600  | 10.5  | 31.7  | **58.9**  |   | 153%  | 10.5  | 56  |  
+| 1  |  Kasparas JakucionisMIL · PG · MIL@PHI  | $4,100  | 6.6  | 23.0  | **46.3**  |   | 173%  | 11.3  | 57  |  
+| 2  |  VJ EdgecombePHI · PG/SG · MIL@PHI  | $5,600  | 10.5  | 31.6  | **58.8**  |   | 153%  | 10.5  | 56  |  
 | 3  |  Josh GiddeyCHI · PG · WAS@CHI  | $8,400  | 15.0  | 37.9  | **68.6**  |   | 141%  | 8.2  | 55  |  
 | 4  |  Marcus SmartHOU · PG/SG · HOU@ATL  | $4,500  | 5.4  | 20.6  | **42.3**  |   | 178%  | 9.4  | 54  |  
 | 5  |  Julian ChampagnieSAS · PF · SAS@DAL  | $4,600  | 7.0  | 23.5  | **46.4**  |   | 168%  | 10.1  | 54  |  
@@ -218,7 +218,7 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | 10  |  Ousmane DiengMIL · SF/PF · MIL@PHI  | $3,800  | 3.6  | 15.8  | **34.2**  |   | 194%  | 9.0  | 54  |  
 | 11  |  Justin ChampagnieWAS · PF · WAS@CHI  | $4,100  | 6.3  | 21.4  | **43.2**  |   | 172%  | 10.5  | 53  |  
 | 12  |  Keon EllisBKN · SG/SF · BKN@CLE  | $4,500  | 6.2  | 22.3  | **44.5**  |   | 171%  | 9.9  | 53  |  
-| 13  |  Ryan RollinsMIL · PG · MIL@PHI  | $6,400  | 11.9  | 33.0  | **61.0**  |   | 149%  | 9.5  | 53  |  
+| 13  |  Ryan RollinsMIL · PG · MIL@PHI  | $6,400  | 11.9  | 32.9  | **61.0**  |   | 149%  | 9.5  | 53  |  
 | 14  |  Dean WadePHI · PF · MIL@PHI  | $3,200  | 3.9  | 16.9  | **36.4**  |   | 192%  | 11.4  | 53  |  
 | 15  |  Isaac OkoroCHI · SG/SF · WAS@CHI  | $4,500  | 4.6  | 17.6  | **37.2**  |   | 185%  | 8.3  | 53  |  
 Show all 92 players

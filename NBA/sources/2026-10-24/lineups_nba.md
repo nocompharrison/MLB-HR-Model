@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-10-24 17:47 ET -->
 
 
 ---
@@ -1052,9 +1052,9 @@ Without further ado, let’s break down a trio of player props to consider. Be s
 
 [![Image 24: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660930/polymarket_sc)[O/U Points Scored (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_points/660930/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660930/polymarket_sc)
 
-[![Image 25: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/kalshi_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/kalshi_sc)
+[![Image 25: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/polymarket_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660930/polymarket_sc)
 
-[![Image 26: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)
+[![Image 26: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660930/polymarket_sc)
 
 [![Image 27](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/tyrese_maxey/player_134068 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -1072,7 +1072,7 @@ Within the context of that season-opening performance, Maxey’s prop is very ac
 
 [![Image 29: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660929/polymarket_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/660929/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660929/polymarket_sc)
 
-[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/polymarket_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/polymarket_sc)
+[![Image 30: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/kalshi_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660929/kalshi_sc)
 
 [![Image 31: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660929/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660929/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660929/polymarket_sc)
 

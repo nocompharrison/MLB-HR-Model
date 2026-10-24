@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24 | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24 | fetched: 2026-10-24 17:47 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, October 24
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-7h
+9h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, October 24](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdafae841e190fff9680340df47149d53fc0b752b-5209x3475.jpg%3Frect%3D0%2C62%2C4338%2C2147%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ _Spurs at Mavericks — 8:00 p.m. ET_
 De'Aaron Fox - Points
 De'Aaron Fox Over
 O 14.5
--114
+-118
 Oct 25 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/san-antonio-spurs-@-dallas-mavericks-36224425)
 Odds/lines subject to change
 The bar isn't particularly high for [De'Aaron Fox](https://sportsbook.fanduel.com/teams/nba/roster/deaaron-fox-2516), making his scoring over an appealing way to attack Saturday's matchup between the [San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/odds) and [Dallas Mavericks](https://sportsbook.fanduel.com/teams/nba/dallas-mavericks/odds).
@@ -58,7 +58,7 @@ _Pelicans at Nuggets — 9:00 p.m. ET_
 Jamal Murray - Pts + Reb + Ast
 Jamal Murray Under
 U 35.5
--112
+-104
 Oct 25 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-orleans-pelicans-@-denver-nuggets-36224420)
 Odds/lines subject to change
 I'm willing to sell high on expectations for [Jamal Murray](https://sportsbook.fanduel.com/teams/nba/roster/jamal-murray-2421) in the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/denver-nuggets/odds)' home opener against the [New Orleans Pelicans](https://sportsbook.fanduel.com/teams/nba/new-orleans-pelicans/odds).
@@ -105,22 +105,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [4 Best NBA Bets and Player Props for Saturday’s Matchup Miami Heat vs Charlotte Hornets](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-saturday-s-matchup-miami-heat-vs-charlotte-hornets)
-3h
+5h
 Giannis Antetokounmpo and Andrew Wiggins headline the best bets and player props for Heat vs Hornets. 4 best bets for Saturday’s NBA matchup.
 [](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-saturday-s-matchup-miami-heat-vs-charlotte-hornets)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, October 24](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24)
-7h
+9h
 What are the best NBA player prop bets for Saturday? Three NBA props to target today.
 [](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-saturday-oct-24)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Mavericks vs. Spurs Prediction, Odds, Picks, Best Bets for Oct. 24](https://www.fanduel.com/research/mavericks-vs-spurs-prediction-nba-odds-spread-best-bets-for-10-24-2026)
-9h
+11h
 Find Mavericks vs. Spurs predictions, betting odds, moneyline, spread, over/under and more for the Oct. 24 NBA matchup.
 [](https://www.fanduel.com/research/mavericks-vs-spurs-prediction-nba-odds-spread-best-bets-for-10-24-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Pelicans Prediction, Odds, Picks, Best Bets for Oct. 24](https://www.fanduel.com/research/nuggets-vs-pelicans-prediction-nba-odds-spread-best-bets-for-10-24-2026)
-9h
+11h
 Find Nuggets vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Oct. 24 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-pelicans-prediction-nba-odds-spread-best-bets-for-10-24-2026)
 

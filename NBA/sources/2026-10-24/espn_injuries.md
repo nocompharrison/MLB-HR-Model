@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-24 17:47 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -131,10 +131,10 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Christian Anderson](https://www.espn.com/nba/player/_/id/5060701/christian-anderson) | G | Oct 24 | Day-To-Day | Oct 24: Anderson tallied 15 points (3-7 FG, 1-2 3Pt, 8-9 FT), two rebounds, six assists and one steal across 22 minutes in Friday's 117-98 preseason loss to the Grizzlies. |
-| [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Oct 26 | Out | Oct 24: Williams (hamstring) is out for Friday's game against the Hawks. |
+| [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Oct 30 | Out | Oct 24: Williams (hamstring) has been ruled out for Saturday's game against the Heat. |
+| [Christian Anderson](https://www.espn.com/nba/player/_/id/5060701/christian-anderson) | G | Oct 24 | Day-To-Day | Oct 24: Anderson (ankle) is probable for Saturday's game against the Heat. |
+| [Coby White](https://www.espn.com/nba/player/_/id/4395651/coby-white) | G | Oct 26 | Out | Oct 24: White (calf) has been ruled out for Saturday's game against Miami. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Oct 26 | Out | Oct 24: Knueppel (hamstring) has been ruled out for Saturday's game against the Heat. |
-| [Coby White](https://www.espn.com/nba/player/_/id/4395651/coby-white) | G | Oct 26 | Day-To-Day | Oct 23: White (calf) is out for Friday's game against the Hawks. |
 | [Kylan Boswell](https://www.espn.com/nba/player/_/id/4684269/kylan-boswell) | G | Nov 2 | Out | Oct 20: Boswell (knee) is out for Wednesday's season opener against the Nets. |
 
 ![Image 27: Chicago Bulls](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&h=40&w=40)Chicago Bulls
@@ -148,13 +148,16 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Oct 24 | Day-To-Day | Oct 24: Irving posted 24 points (8-15 FG, 5-10 3Pt, 3-3 FT), one rebound, three assists, one block and one steal over 25 minutes before fouling out of Friday's 121-105 win over Indiana. |
-| [Caleb Martin](https://www.espn.com/nba/player/_/id/3138160/caleb-martin) | F | Oct 24 | Day-To-Day | Oct 23: Martin (thumb) has been ruled out for Fridays' game against the Pacers. |
-| [Jett Howard](https://www.espn.com/nba/player/_/id/5105806/jett-howard) | G | Oct 24 | Day-To-Day | Oct 23: Howard (calf) is out for Friday's game in Indiana. |
-| [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Oct 24 | Day-To-Day | Oct 23: Biberovic (heel) is out for Friday's game against Indiana. |
-| [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 24 | Day-To-Day | Oct 23: Aldama (knee) has been ruled out for Friday's game against the Pacers. |
-| [Cooper Flagg](https://www.espn.com/nba/player/_/id/5041939/cooper-flagg) | F | Oct 26 | Out | Oct 23: Head coach Dusty May said Flagg (shoulder) will be evaluated in the next couple of days, Mike Curtis of The Dallas Morning News reports. |
-| [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Oct 26 | Out | Oct 22: Lively (foot) has been ruled out for Friday's game against the Pacers. |
+| [Zaccharie Risacher](https://www.espn.com/nba/player/_/id/5211175/zaccharie-risacher) | F | Oct 24 | Day-To-Day | Oct 24: Risacher is questionable for Saturday's game against the Spurs due to right hip soreness. |
+| [Morez Johnson Jr.](https://www.espn.com/nba/player/_/id/4873153/morez-johnson-jr) | F | Oct 24 | Day-To-Day | Oct 24: Johnson (shin) is listed as questionable for Saturday's game against the Spurs. |
+| [Caleb Martin](https://www.espn.com/nba/player/_/id/3138160/caleb-martin) | F | Nov 2 | Out | Oct 24: Martin (thumb) has been ruled out against San Antonio on Saturday. |
+| [Jett Howard](https://www.espn.com/nba/player/_/id/5105806/jett-howard) | G | Oct 24 | Out | Oct 24: Howard (calf) is listed as doubtful against the Spurs on Saturday. |
+| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Oct 24 | Day-To-Day | Oct 24: Irving (knee) is listed as questionable for Saturday's game against San Antonio. |
+| [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Oct 24 | Day-To-Day | Oct 24: Christie (shin) is questionable for Saturday's game against the Spurs. |
+| [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 2 | Out | Oct 24: Biberovic (heel) has been ruled out for Saturday's game against San Antonio. |
+| [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 28 | Out | Oct 24: Aldama (knee) has been ruled out for Saturday's game against the Spurs. |
+| [Cooper Flagg](https://www.espn.com/nba/player/_/id/5041939/cooper-flagg) | F | Nov 2 | Out | Oct 24: The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forward will be re-evaluated by medical staff next week, Brett Siegel of ClutchPoints.com reports. |
+| [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Oct 28 | Out | Oct 22: Lively (foot) has been ruled out for Friday's game against the Pacers. |
 
 ![Image 29: Denver Nuggets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&h=40&w=40)Denver Nuggets
 
@@ -169,15 +172,15 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Ausar Thompson](https://www.espn.com/nba/player/_/id/4684742/ausar-thompson) | G | Oct 25 | Day-To-Day | Oct 23: Thompson exited Friday's game with an undisclosed injury and did not return, finishing with four points (2-5 FG, 0-1 3Pt), three rebounds, four assists, one steal, one block and three turnovers across 19 minutes in a 128-111 win over the Heat. |
-| [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Oct 25 | Day-To-Day | Oct 23: Duren (thigh) exited Friday's 128-111 win over the Heat in the second quarter and did not return, finishing with four points (2-4 FG), six rebounds, three assists, one steal and one block across 10 minutes. |
+| [Ausar Thompson](https://www.espn.com/nba/player/_/id/4684742/ausar-thompson) | G | Oct 25 | Day-To-Day | Oct 24: Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia. |
+| [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Oct 27 | Out | Oct 24: Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports. |
 
 ![Image 31: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Brandin Podziemski](https://www.espn.com/nba/player/_/id/4709138/brandin-podziemski) | G | Oct 26 | Out | Oct 24: Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports. |
-| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Oct 24 | Day-To-Day | Oct 24: Curry told reporters after Friday's loss to the Grizzlies that he will "probably not" play against the Suns on Saturday, Nick Friedell of The Athletic reports. |
+| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Oct 26 | Day-To-Day | Oct 24: Curry told reporters after Friday's loss to the Grizzlies that he will "probably not" play against the Suns on Saturday, Nick Friedell of The Athletic reports. |
 | [Charles Bassey](https://www.espn.com/nba/player/_/id/4397886/charles-bassey) | C | Oct 24 | Day-To-Day | Oct 24: Bassey (knee) is out for Friday's game versus the Grizzlies. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Dec 1 | Out | Oct 21: Porzingis is contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as postural orthostatic tachycardia syndrome, per Shams Charania of ESPN. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
@@ -187,7 +190,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Oct 26 | Out | Oct 24: Adams (rest) will likely be sidelined for Saturday's game against the Hawks. |
+| [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 24 | Day-To-Day | Oct 24: Smart (forearm) is listed as questionable for Saturday's game against the Hawks. |
+| [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Oct 26 | Out | Oct 24: Adams (ankle) has been ruled out for Saturday's game against the Hawks. |
 | [Reed Sheppard](https://www.espn.com/nba/player/_/id/4711272/reed-sheppard) | G | Oct 24 | Day-To-Day | Oct 24: Sheppard (knee) is listed as questionable for Saturday's game against the Hawks. |
 | [Fred VanVleet](https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet) | G | Oct 26 | Out | Oct 24: VanVleet (knee) has been ruled out for Saturday's game against the Hawks. |
 
@@ -239,7 +243,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Oct 24 | Day-To-Day | Oct 23: Missi won't return to Friday's game against the Jazz due to a left knee injury. |
+| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Oct 28 | Out | Oct 24: Missi (knee) has been ruled out for Saturday's game against the Nuggets. |
 
 ![Image 40: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
@@ -253,9 +257,9 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Oct 28 | Out | Oct 24: Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks. |
+| [Anthony Black](https://www.espn.com/nba/player/_/id/4712849/anthony-black) | G | Oct 25 | Day-To-Day | Oct 24: Black (ankle) is listed as questionable for Sunday's game against the Knicks. |
 | [Paolo Banchero](https://www.espn.com/nba/player/_/id/4432573/paolo-banchero) | F | Nov 22 | Out | Oct 24: Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports. |
-| [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Oct 25 | Day-To-Day | Oct 23: Isaac (knee) is out for Friday's game against Minnesota. |
-| [Anthony Black](https://www.espn.com/nba/player/_/id/4712849/anthony-black) | G | Oct 25 | Day-To-Day | Oct 23: Black (ankle) has been ruled out for Friday's game against Minnesota but participated in shootaround and has experienced no setbacks in his recovery, Jason Beede of the Orlando Sentinel reports. |
 | [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 18 | Out | Oct 17: Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports. |
 | [Izaiyah Nelson](https://www.espn.com/nba/player/_/id/5107251/izaiyah-nelson) | F | Nov 18 | Out | Sep 28: Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com. |
 
@@ -273,8 +277,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Oso Ighodaro](https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro) | F | Oct 26 | Out | Oct 24: Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports. |
 | [Luke Kennard](https://www.espn.com/nba/player/_/id/3913174/luke-kennard) | G | Oct 24 | Day-To-Day | Oct 24: Kennard (knee) is questionable to play Saturday against the Warriors. |
-| [Oso Ighodaro](https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro) | F | Oct 24 | Day-To-Day | Oct 23: Ighodaro (oblique) is listed as doubtful for Saturday's game against Golden State. |
 | [Mark Williams](https://www.espn.com/nba/player/_/id/4701232/mark-williams) | C | Feb 3 | Out | Sep 11: Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports. |
 
 ![Image 44: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
@@ -297,7 +301,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Oct 24 | Day-To-Day | Oct 24: Harris (calf) is out for Friday's game against the Rockets. |
+| [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Oct 27 | Out | Oct 24: Harris (calf) is out for Saturday's game against the Mavericks. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
 ![Image 47: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
@@ -317,7 +321,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [AJ Dybantsa](https://www.espn.com/nba/player/_/id/5142718/aj-dybantsa) | F | Oct 24 | Day-To-Day | Oct 23: Dybantsa (ankle) is out for Friday's game against the Raptors, Josh Robbins of The Athletic reports. |
+| [AJ Dybantsa](https://www.espn.com/nba/player/_/id/5142718/aj-dybantsa) | F | Oct 26 | Out | Oct 24: Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 2 | Out | Oct 1: The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks. |
 | [Jamir Watkins](https://www.espn.com/nba/player/_/id/4606840/jamir-watkins) | G | Apr 2 | Out | Jul 30: The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. |
 
@@ -325,41 +329,33 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off for Cybersecurity Awareness Month Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off for Cybersecurity Awareness Month")
+[](https://hello.reliancemedicareadvisors.com/)[Reliance Helps With Medicare Coverage Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hello.reliancemedicareadvisors.com/ "Reliance Helps With Medicare Coverage")
 
-[](https://www.webroot.com/campaigns/seasonal)[Happy Cybersecurity Awareness Month. Save Up to 50%.Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Happy Cybersecurity Awareness Month. Save Up to 50%.")
+[](https://hello.reliancemedicareadvisors.com/)[Call Reliance For Plan Options Today.Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hello.reliancemedicareadvisors.com/ "Call Reliance For Plan Options Today.")
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)RejuvaCare | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://tick.storytelltv.com/6b20f945-376c-4f69-bf27-7bb39bd64919)[Meet The Cat Advent Calendar With A Surprise Every Day CatCalendar | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://tick.storytelltv.com/6b20f945-376c-4f69-bf27-7bb39bd64919 "Meet The Cat Advent Calendar With A Surprise Every Day")
 
-[](https://hello.reliancemedicareadvisors.com/)[Call Reliance For Plan Options Today.Reliance 2027 Medicare Advantage. Call Our Licensed Sales Agents Today To Learn More.Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://hello.reliancemedicareadvisors.com/ "Call Reliance For Plan Options Today.")
+[](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f)[Can Hearing Aids Really Be Replaced By This New Chip?This New Type Of Hearing Aid Is Currently Changing The Way Americans Are Buying Hearing Aids. Without a Prescription or Costly Audiologist Visits.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f "Can Hearing Aids Really Be Replaced By This New Chip?")
 
-[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Many people in credit card debt aren’t aware of this opportunity There's a way to pay off credit card debt without getting a loan. See if you are eligible for the program.Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Many people in credit card debt aren’t aware of this opportunity")
+[](https://www.pyloncore.lat/)[Why Bad Memory Is Rare Among Japanese Seniors: They Don’t Say This Phrase View | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.pyloncore.lat/ "Why Bad Memory Is Rare Among Japanese Seniors: They Don’t Say This Phrase")
 
-[](https://lp.nuviasmiles.com/denver-eval-native-2)[North Charleston: 24 Hour Dental Implants Take our 1-minute quiz to find out if you're eligible for our revolutionary 24-hour dental implants. Get a new smile in just 24 Hrs Nuvia Dental Implant Center | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://lp.nuviasmiles.com/denver-eval-native-2 "North Charleston: 24 Hour Dental Implants")
-
-[](https://insisdomwitered.com/0cced2a6-cbc7-44e6-bcc2-62b089be73df)[Americans Over 60 Are Quietly Skipping The Audiologist — Because Of A Chip This New Type Of Hearing Aid Is Currently Changing The Way Americans Are Buying Hearing Aids. Without a Prescription or Costly Audiologist Visits.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://insisdomwitered.com/0cced2a6-cbc7-44e6-bcc2-62b089be73df "Americans Over 60 Are Quietly Skipping The Audiologist — Because Of A Chip")
-
-[](https://www.temu.com/ul/kuiper/un1.html)[Find Amazing Value Across All Categories Get what you need and love for less. Explore smart finds on Temu.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Find Amazing Value Across All Categories")
-
-[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Pay Off Credit Card Debt WIthout a Loan There's a program designed for people who owe at least $20,000.Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Pay Off Credit Card Debt WIthout a Loan")
+[](https://hot.mygadgetsoffer.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 My Gadgets Offer | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://hot.mygadgetsoffer.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
 
 ### NBA News
 
-[![Image 50: Mavericks' Cooper Flagg out for home opener with mild left shoulder sprain](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735292_600x400_3-2.jpg&w=220) ## Mavericks' Cooper Flagg out for home opener with mild left shoulder sprain Mavericks star forward Cooper Flagg had an MRI that revealed a mild left shoulder sprain, the team announced. He will not play against the Spurs. * 1h * Tim MacMahon](https://www.espn.com/nba/story/_/id/50267528/mavericks-flagg-home-opener-mild-left-shoulder-sprain)
+[![Image 50: Mavericks' Cooper Flagg out for home opener with mild left shoulder sprain](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735292_600x400_3-2.jpg&w=220) ## Mavericks' Cooper Flagg out for home opener with mild left shoulder sprain Mavericks star forward Cooper Flagg had an MRI that revealed a mild left shoulder sprain, the team announced. He will not play against the Spurs. * 3h * Tim MacMahon](https://www.espn.com/nba/story/_/id/50267528/mavericks-flagg-home-opener-mild-left-shoulder-sprain)
 
-[![Image 51: 76ers' LeBron James to sit vs. Bucks in first game of back-to-back](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735508_1296x729_16-9.jpg&w=220) ## 76ers' LeBron James to sit vs. Bucks in first game of back-to-back LeBron James will miss the Sixers' game against the Bucks to manage low back pain/sciatica. It will be his first missed game of the season. * 1h * Kris Rhim](https://www.espn.com/nba/story/_/id/50267484/76ers-lebron-james-sit-vs-bucks-1st-back-back)
+[![Image 51: 76ers' LeBron James to sit vs. Bucks in first game of back-to-back](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735508_1296x729_16-9.jpg&w=220) ## 76ers' LeBron James to sit vs. Bucks in first game of back-to-back LeBron James will miss the Sixers' game against the Bucks to manage low back pain/sciatica. It will be his first missed game of the season. * 3h * Kris Rhim](https://www.espn.com/nba/story/_/id/50267484/76ers-lebron-james-sit-vs-bucks-1st-back-back)
 
-[![Image 52: Magic's Paolo Banchero has ankle sprain; out multiple weeks, sources say](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735465_600x400_3-2.jpg&w=220) ## Magic's Paolo Banchero has ankle sprain; out multiple weeks, sources say Magic star Paolo Banchero has sustained a low-grade high ankle sprain, the team announced, with sources telling ESPN that the forward will miss multiple weeks. * 1h](https://www.espn.com/nba/story/_/id/50266620/sources-magic-banchero-multiple-weeks-ankle-sprain)
+[![Image 52: Magic's Paolo Banchero has ankle sprain; out multiple weeks, sources say](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735465_600x400_3-2.jpg&w=220) ## Magic's Paolo Banchero has ankle sprain; out multiple weeks, sources say Magic star Paolo Banchero has sustained a low-grade high ankle sprain, the team announced, with sources telling ESPN that the forward will miss multiple weeks. * 3h](https://www.espn.com/nba/story/_/id/50266620/sources-magic-banchero-multiple-weeks-ankle-sprain)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://hot.mygadgetsoffer.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 My Gadgets Offer | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hot.mygadgetsoffer.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+[](https://ta.genavom.com/6ac650321492736889632925)[High Blood Pressure Isn't an Age Problem — The Real Cause May Surprise You.US Medical Research | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ta.genavom.com/6ac650321492736889632925 "High Blood Pressure Isn't an Age Problem — The Real Cause May Surprise You.")
 
-[](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f)[Can Hearing Aids Really Be Replaced By This New Chip?This New Type Of Hearing Aid Is Currently Changing The Way Americans Are Buying Hearing Aids. Without a Prescription or Costly Audiologist Visits.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://insisdomwitered.com/1abd5ff6-ceb9-4657-abee-f0dc4ddafe2f "Can Hearing Aids Really Be Replaced By This New Chip?")
-
-[](https://www.lendgo.com/heloc/pa)[Don't Borrow from the Bank If You Own a Home, Do This Instead (It's Genius)See How Much You Can Get Lendgo | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://www.lendgo.com/heloc/pa "Don't Borrow from the Bank If You Own a Home, Do This Instead (It's Genius)")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
 ![Image 53: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

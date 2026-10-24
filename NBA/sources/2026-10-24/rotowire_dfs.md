@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404 | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404 | fetched: 2026-10-24 17:47 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 24
 Best NBA player props for Saturday, Oct. 24: Giannis Antetokounmpo points, Nikola Jokic points + rebounds + assists and Stephon Castle assists, with DraftKings, FanDuel and Betr odds.
@@ -17,13 +17,13 @@ Saturday's NBA slate brings eight games and several strong player prop bets for 
 ##  [**Giannis Antetokounmpo**](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)**Over 28.5 Points, -105 @ DraftKings**
 Antetokounmpo has started the regular season with consecutive performances above this line, scoring 35 points against the Timberwolves and 36 against the Pistons. He converted 28 of 45 field-goal attempts across those contests, an impressive 62.2 percent shooting mark, while attempting 22 free throws. His 36-point performance against the Pistons was particularly dominant, as he also added 12 rebounds, five assists and two steals, and he seems to be adjusting well to his new surroundings in Miami. Saturday's matchup against Charlotte is another promising opportunity for the star forward.
 The line is a bit lower for this matchup based on how good he's looked to open the year, and the individual matchup should put him against [Naz Reid](https://www.rotowire.com/basketball/player/naz-reid-4806), who isn't an elite defender and doesn't have the size to slow down Antetokounmpo. At the end of the day, his scoring volume and recent efficiency support another outing in which he surpasses his proposed scoring line -- and even posting a season-low mark in scoring would do the trick here.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=b0551b62-643b-4de2-adc5-2106114ce8da&operator_item_id=8e0412fc-734a-4333-9271-c515f223ce94&pageview_id=e0ae1ab9-e6c4-42f2-b37b-8638c38d7b94)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=fe2eee48-5d5b-4989-9842-a97cbe2f88bd&operator_item_id=e1cfaf08-dcb9-417d-a1d2-1c85c9e687b3&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=84efdd90-495c-47c9-86b8-49899860c697&operator_item_id=8e0412fc-734a-4333-9271-c515f223ce94&pageview_id=e0ae1ab9-e6c4-42f2-b37b-8638c38d7b94)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=d827ed4c-aae6-4904-b7fd-c4f4cf54c2e9&operator_item_id=6e321f27-e4ed-4d7b-9a48-3fa6649c5237&pageview_id=e0ae1ab9-e6c4-42f2-b37b-8638c38d7b94) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=4fa5cf98-8c6f-44d3-8324-c484d2ce0cd9&operator_item_id=e1cfaf08-dcb9-417d-a1d2-1c85c9e687b3&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=55455854-c713-4d85-8523-5bc4bd6e4438&operator_item_id=60cca01d-d7b9-4626-a628-e7460191f424&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=0406e46d-6e60-4ea7-8bef-177d79271c55&operator_item_id=6e321f27-e4ed-4d7b-9a48-3fa6649c5237&pageview_id=e0ae1ab9-e6c4-42f2-b37b-8638c38d7b94)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-player-props-saturday-october-24-2026-giannis-jokic-castle-143404&cta_id=d0226a26-3a48-4593-856e-031aa876311d&operator_item_id=60cca01d-d7b9-4626-a628-e7460191f424&pageview_id=4e62b7a6-9c5e-4afe-acd9-1d813f21f7e6)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ## **New Orleans Pelicans![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png) vs. Denver Nuggets ![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png)**
 ##  [**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**Over 50.5 Points + Rebounds + Assists, -118 @ FanDuel**
@@ -44,31 +44,31 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548)
-Diagnosed with left shoulder sprain
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
+Expected to play Sunday
+NFL
+Green Bay Packers
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
+Not playing Saturday
 NBA
-Dallas Mavericks
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Paolo Banchero](https://www.rotowire.com/basketball/player/paolo-banchero-5700)
-Diagnosed with high-ankle sprain
-NBA
-Orlando Magic
+Golden State Warriors
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
-Practicing Saturday
+Questionable for Week 7
 NFL
 Philadelphia Eagles
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [DeVonta Smith](https://www.rotowire.com/football/player/devonta-smith-15406)
-Absent from Saturday's practice
+Ruled out for Monday Night Football
 NFL
 Philadelphia Eagles
-  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
-Unlikely to play against Phoenix
-NBA
-Golden State Warriors
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
+Won't return for Week 7
+NFL
+Baltimore Ravens
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -100,6 +100,11 @@ Tampa Bay Rays
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
+Not playing Saturday
+NBA
+Golden State Warriors
   * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548)
 Diagnosed with left shoulder sprain
@@ -110,77 +115,72 @@ Dallas Mavericks
 Diagnosed with high-ankle sprain
 NBA
 Orlando Magic
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
+Probable for Sunday
+NBA
+Indiana Pacers
   * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
-Unlikely to play against Phoenix
+[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)
+Doubtful to play Saturday
 NBA
 Golden State Warriors
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)
-Ruled out Saturday
-NBA
-New Orleans Pelicans
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)
-Out vs. Dallas
-NBA
-San Antonio Spurs
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
+Expected to play Sunday
+NFL
+Green Bay Packers
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
-Practicing Saturday
+Questionable for Week 7
 NFL
 Philadelphia Eagles
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [DeVonta Smith](https://www.rotowire.com/football/player/devonta-smith-15406)
-Absent from Saturday's practice
+Ruled out for Monday Night Football
 NFL
 Philadelphia Eagles
-  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
-[Dallas Goedert](https://www.rotowire.com/football/player/dallas-goedert-12860)
-Optimistic about knee injury
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
+Won't return for Week 7
 NFL
-Philadelphia Eagles
-  * ![Cleveland Browns](https://assets.rotowire.com/images/teamlogo/football/CLE.svg?v=12)
-[Dylan Sampson](https://www.rotowire.com/football/player/dylan-sampson-18467)
+Baltimore Ravens
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Christian Kirk](https://www.rotowire.com/football/player/christian-kirk-12508)
 Activated from injured reserve
 NFL
-Cleveland Browns
-  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
-[Dontayvion Wicks](https://www.rotowire.com/football/player/dontayvion-wicks-16658)
-Not spotted at Saturday's practice
-NFL
-Philadelphia Eagles
+San Francisco 49ers
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Washington Capitals](https://assets.rotowire.com/images/teamlogo/hockey/100WSH.png?v=5)
+[Logan Thompson](https://www.rotowire.com/hockey/player/logan-thompson-6355)
+On injured reserve
+NHL
+Washington Capitals
   * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
 [Mitch Marner](https://www.rotowire.com/hockey/player/mitch-marner-4774)
 Remains unavailable
 NHL
 Vegas Golden Knights
-  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
-[Calvin Pickard](https://www.rotowire.com/hockey/player/calvin-pickard-3529)
-Tending twine Sunday
+  * ![Seattle Kraken](https://assets.rotowire.com/images/teamlogo/hockey/100SEA.png?v=5)
+[Jared McCann](https://www.rotowire.com/hockey/player/jared-mccann-4397)
+Shifts to IR
 NHL
-Minnesota Wild
-  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
-[Anton Forsberg](https://www.rotowire.com/hockey/player/anton-forsberg-4051)
-Set to face Devils
+Seattle Kraken
+  * ![Toronto Maple Leafs](https://assets.rotowire.com/images/teamlogo/hockey/100TOR.png?v=5)
+[Anthony Stolarz](https://www.rotowire.com/hockey/player/anthony-stolarz-4035)
+Starting Saturday
 NHL
-Los Angeles Kings
-  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
-[Jesper Wallstedt](https://www.rotowire.com/hockey/player/jesper-wallstedt-6464)
-Starting in Seattle
+Toronto Maple Leafs
+  * ![Seattle Kraken](https://assets.rotowire.com/images/teamlogo/hockey/100SEA.png?v=5)
+[Joey Daccord](https://www.rotowire.com/hockey/player/joey-daccord-4848)
+Expected to start Saturday
 NHL
-Minnesota Wild
-  * ![Calgary Flames](https://assets.rotowire.com/images/teamlogo/hockey/100CGY.png?v=5)
-[Jonathan Huberdeau](https://www.rotowire.com/hockey/player/jonathan-huberdeau-3742)
-Resumes skating, not close to return
-NHL
-Calgary Flames
+Seattle Kraken
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

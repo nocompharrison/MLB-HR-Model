@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-24 15:38 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-24 17:47 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,47 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Ausar Thompson](https://images.fantasypros.com/images/players/nba/5979/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ausar-thompson.php)
+F - DET
+[» Rankings](https://www.fantasypros.com/nba/players/ausar-thompson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ausar-thompson.php)  
+[» More News](https://www.fantasypros.com/nba/news/ausar-thompson.php)
+[Ausar Thompson (ankle) questionable Sunday](https://www.fantasypros.com/nba/news/615656/ausar-thompson-ankle-questionable-sunday.php)  
+
+Sat, Oct 24th 5:33pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Ausar Thompson (ankle) is questionable for Sunday’s contest between the Detroit Pistons and Philadelphia 76ers according to Omari Sankofa. (Source: [Omari Sankofa on Twitter ](https://x.com/omarisankofa/status/2114086343877828684?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Thompson suffered a right ankle sprain in Friday night’s win over the Miami Heat. If the versatile forward is unable to suit up for head coach JB Bickerstaff, Ron Holland, Kevin Huerter, Isaiah Joe, and Javonte Green to see increased minutes against the 76ers Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Duren](https://images.fantasypros.com/images/players/nba/5487/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-duren.php)
+C - DET
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-duren.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-duren.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-duren.php)
+[Jalen Duren (hamstring) ruled out Sunday](https://www.fantasypros.com/nba/news/615655/jalen-duren-hamstring-ruled-out-sunday.php)  
+
+Sat, Oct 24th 5:31pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jalen Duren (hamstring) has been ruled out for Sunday’s contest between the Detroit Pistons and Philadelphia 76ers according to Omari Sankofa. (Source: [Omari Sankofa on Twitter](https://x.com/omarisankofa/status/2114086343877828684?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Duren exited early in Friday’s win over the Miami Heat after suffering the hamstring injury, with Paul Reed likely to slide into the starting lineup for as long as Duren remains sidelined.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Stephen Curry](https://images.fantasypros.com/images/players/nba/2135/headshot/100x100.png)](https://www.fantasypros.com/nba/players/stephen-curry.php)
+G - GSW
+[» Rankings](https://www.fantasypros.com/nba/players/stephen-curry.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/stephen-curry.php)  
+[» More News](https://www.fantasypros.com/nba/news/stephen-curry.php)
+[Stephen Curry (rest) ruled out Saturday](https://www.fantasypros.com/nba/news/615652/stephen-curry-rest-ruled-out-saturday.php)  
+
+Sat, Oct 24th 5:17pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Stephen Curry (rest) has been ruled out for Saturday’s contest between the Golden State Warriors and Phoenix Suns according to Anthony Slater. (Source: [Anthony Slater on Twitter](https://x.com/anthonyvslater/status/2114085320878928053?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Curry will receive the night off for head coach Steve Kerr, with De’Anthony Melton, Gary Payton II, Brandin Williams, and Will Richard to split minutes in the Golden State backcourt against the Suns Saturday night.
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
 F - PHI
 [» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
@@ -32,34 +73,6 @@ Sat, Oct 24th 12:46pm EDT
 By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
 Paolo Banchero (ankle) is expected to be sidelined for four-to-six weeks according to Shams Charania. (Source: [Shams Charania on Twitter ](https://x.com/shamscharania/status/2114034698166890754?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
 **_Fantasy Impact:_** Banchero exited in the third quarter of Friday night’s contest and after undergoing further testing was diagnosed with a right high ankle sprain. In his absence, Tristan da Silva should receive increased minutes in the Orlando starting five.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ausar Thompson](https://images.fantasypros.com/images/players/nba/5979/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ausar-thompson.php)
-F - DET
-[» Rankings](https://www.fantasypros.com/nba/players/ausar-thompson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ausar-thompson.php)  
-[» More News](https://www.fantasypros.com/nba/news/ausar-thompson.php)
-[Ausar Thompson suffers injury Friday against Heat](https://www.fantasypros.com/nba/news/615645/ausar-thompson-suffers-injury-friday-against-heat.php)  
-
-Sat, Oct 24th 11:56am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Ausar Thompson suffered an undisclosed injury in Friday night’s win over the Miami Heat according to Coty Davis. (Source: [Coty Davis on Twitter ](https://x.com/cotydavis_24/status/2113970862475137455?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
-**_Fantasy Impact:_** Thompson joined center Jalen Duren in exiting early with injuries, with Ron Holland III, Kevin Huerter, and Isaiah Joe in line for increased minutes if Thompson is to miss any time.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Duren](https://images.fantasypros.com/images/players/nba/5487/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-duren.php)
-C - DET
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-duren.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-duren.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-duren.php)
-[Jalen Duren exits early Friday against Heat](https://www.fantasypros.com/nba/news/615643/jalen-duren-exits-early-friday-against-heat.php)  
-
-Sat, Oct 24th 11:52am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jalen Duren exited Friday night’s contest between the Detroit Pistons and Miami Heat due to injury according to Coty Davis. (Source: [Coty Davis on Twitter](https://x.com/cotydavis_24/status/2113970862475137455?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
-**_Fantasy Impact:_** Duren suffered a right thigh injury in Friday night’s win and if forced to miss time opens the door for Paul Reed to start at center for head coach JB Bickerstaff.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -273,29 +286,15 @@ Rudy Gobert finished with 14 points (6-8 FG, 2-4 FT) and nine rebounds in Friday
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Amen Thompson](https://images.fantasypros.com/images/players/nba/5980/headshot/100x100.png)](https://www.fantasypros.com/nba/players/amen-thompson.php)
-G - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/amen-thompson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/amen-thompson.php)  
-[» More News](https://www.fantasypros.com/nba/news/amen-thompson.php)
-[Amen Thompson fills stat sheet in Friday's win over Spurs](https://www.fantasypros.com/nba/news/615625/amen-thompson-fills-stat-sheet-fridays-win-over-spurs.php)  
-
-Sat, Oct 24th 10:40am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Amen Thompson filled the stat sheet for the Rockets Friday night, dishing out four assists, recording two steals, grabbing 10 rebounds, blocking two shots, and scoring 20 points (9-15 FG, 1-2 3PT, 1-1 FT) in a 114-110 win over the Spurs.
-**_Fantasy Impact:_** Thompson is off to a dynamic start to the season on both ends of the floor, dishing out four or more assists, grabbing at least 10 rebounds, and scoring 16 or more points in each of the first two contests. The 23-year-old rewards head coach Ime Udoka as one of the more dynamic options all over the floor as part of a versatile Houston starting five, averaging 18.0 points, 1.0 blocks, 1.5 steals, 4.0 assists, and 10.0 rebounds per game to go along with a usage rate of 18.9% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/nba/player-news.php)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=812_1792870407088&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999e9f979c979d999a6666uokewi0e0y666m6o626i626k666e00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=333_1792878165745&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999e9f979c979d999a6666uokewi0e0y666m6o626i626k666e00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
