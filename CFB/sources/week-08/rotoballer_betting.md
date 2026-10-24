@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-10-24 08:34 ET -->
+<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-10-24 11:07 ET -->
 
 Title: RotoBaller Challenge Homepage
 
@@ -1638,9 +1638,9 @@ Need help?
 
 [Contact support](https://www.rotoballer.com/rotoballer-challenge-homepage#)
 
-[![Image 44](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 45](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 46](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 47](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 48](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Waivers](https://www.rotoballer.com/mid-week-waiver-wire-rankings-fantasy-football-week-7-2026/1971741?pa=sitefooter&utm_source=sitefooter)
+[![Image 44](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 45](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 46](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 47](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 48](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Waivers](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-7-2026/1974388?pa=sitefooter&utm_source=sitefooter)
 
-![Image 49](https://lantern.roeye.com/track.php?fingerprint=44e54d99-831b-4815-88dd-468fac921d12&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F156.0.0.0%20Safari%2F537.36&site=128693)![Image 50](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+![Image 49](https://lantern.roeye.com/track.php?fingerprint=766d6f23-d372-4991-ac81-665f06128591&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F156.0.0.0%20Safari%2F537.36&site=128693)![Image 50](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 
 ✕
 ## Do not sell or share my personal information.
