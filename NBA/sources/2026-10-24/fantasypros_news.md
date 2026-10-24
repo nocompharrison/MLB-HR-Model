@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-24 12:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-24 15:38 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lebron-james.php)  
+[» More News](https://www.fantasypros.com/nba/news/lebron-james.php)
+[LeBron James (back) ruled out Saturday](https://www.fantasypros.com/nba/news/615649/lebron-james-back-ruled-out-saturday.php)  
+
+Sat, Oct 24th 1:04pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+LeBron James (back) has been ruled out for the Philadelphia 76ers Saturday according to Adam Aaronson. (Source: [Adam Aaronson on Twitter](https://x.com/sixersadam/status/2114039456575475919?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** James will sit out the first leg of a back-to-back for head coach Nick Nurse, with Kentavious Caldwell-Pope in line to start against the Bucks Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Paolo Banchero](https://images.fantasypros.com/images/players/nba/5521/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paolo-banchero.php)
+F - ORL
+[» Rankings](https://www.fantasypros.com/nba/players/paolo-banchero.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/paolo-banchero.php)  
+[» More News](https://www.fantasypros.com/nba/news/paolo-banchero.php)
+[Paolo Banchero (ankle) expected to miss four-to-six weeks](https://www.fantasypros.com/nba/news/615648/paolo-banchero-ankle-expected-to-miss-four-to-six-weeks.php)  
+
+Sat, Oct 24th 12:46pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Paolo Banchero (ankle) is expected to be sidelined for four-to-six weeks according to Shams Charania. (Source: [Shams Charania on Twitter ](https://x.com/shamscharania/status/2114034698166890754?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
+**_Fantasy Impact:_** Banchero exited in the third quarter of Friday night’s contest and after undergoing further testing was diagnosed with a right high ankle sprain. In his absence, Tristan da Silva should receive increased minutes in the Orlando starting five.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Ausar Thompson](https://images.fantasypros.com/images/players/nba/5979/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ausar-thompson.php)
 F - DET
 [» Rankings](https://www.fantasypros.com/nba/players/ausar-thompson.php)  
@@ -259,34 +287,6 @@ Amen Thompson filled the stat sheet for the Rockets Friday night, dishing out fo
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Ayo Dosunmu](https://images.fantasypros.com/images/players/nba/5189/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)
-G - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ayo-dosunmu.php)  
-[» More News](https://www.fantasypros.com/nba/news/ayo-dosunmu.php)
-[Ayo Dosunmu approaches triple-double in Friday's win](https://www.fantasypros.com/nba/news/615624/ayo-dosunmu-approaches-triple-double-fridays-win.php)  
-
-Sat, Oct 24th 10:39am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Ayo Dosunmu finished with 14 points (6-11 FG, 1-2 3PT, 1-2 FT), 10 assists, and seven rebounds in Friday's 115-93 win over the Magic. 
-**_Fantasy Impact:_** Dosunmu was also active on the defensive end of the court, adding a steal and a block to a loaded stat line. Dosunmu is off to a solid start in a bench role for the Timberwolves, averaging 15 points, 6.5 assists, and 6.0 rebounds through two games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kevin Durant](https://images.fantasypros.com/images/players/nba/2331/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kevin-durant.php)
-F - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/kevin-durant.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kevin-durant.php)  
-[» More News](https://www.fantasypros.com/nba/news/kevin-durant.php)
-[Kevin Durant records near triple-double Friday against Spurs](https://www.fantasypros.com/nba/news/615623/kevin-durant-records-near-triple-double-friday-against-spurs.php)  
-
-Sat, Oct 24th 10:36am EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Kevin Durant recorded a near triple-double for the Rockets Friday night, dishing out six assists, grabbing seven rebounds, and scoring 20 points (5-10 FG, 2-2 3PT, 8-8 FT) in a 114-110 win over the Spurs.
-**_Fantasy Impact:_** Durant has been impactful on both ends of the floor to begin the season, dishing out three or more assists, grabbing six or more rebounds, and scoring 20 or more points in each of the first two contests. The veteran forward remains one of many dynamic options as part of a talented Houston starting five for head coach Ime Udoka, averaging 25.0 points, 4.5 assists, and 6.5 rebounds per game while carrying a usage rate of 23.9% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=454_1792857623918&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999e9f979c979d999a6666uokewi0e0y666m6o626i626k666e00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=812_1792870407088&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999e9f979c979d999a6666uokewi0e0y666m6o626i626k666e00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
