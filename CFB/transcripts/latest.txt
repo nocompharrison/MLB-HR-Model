@@ -1,4 +1,4 @@
-# CFB transcripts | week 8 | updated 2026-10-24 11:06 ET
+# CFB transcripts | week 8 | updated 2026-10-24 11:08 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 36 files in CFB/transcripts/week-08:
 CFB/transcripts/week-08/-XhRNL5nqK4_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt
@@ -43,8 +43,8 @@ NONE    channel Cover3: nothing new in the date window (or everything already sa
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel HitTheBooks: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
+NOCAPS  TCE DZJMvIo2-To Week 8 Pregame Show | The College Football Experience  (no captions; Groq: still live - audio not final yet)
 DEFER   TCE ch7vXXmdW14 FCS College Football Week 8 Preview & Picks  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   TCE DZJMvIo2-To Week 8 Pregame Show | The College Football Experience  (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk b7EMdffRL7c Last-Minute CFB Picks & Sharp Money Moves LIVE | LAST CALL 📱  (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk H_uS3BJ-sz4 Last-Minute CFB Picks & Sharp Money Moves LIVE | WAGERTALK'S  (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk cNl5fqh2g3A College Football Week 8 Picks & Best Bets LIVE | THE BLITZ  (YouTube rate limit hit earlier this run)
