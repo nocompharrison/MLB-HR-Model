@@ -1,6 +1,6 @@
-# CFB transcripts | week 8 | updated 2026-10-24 11:08 ET
+# CFB transcripts | week 8 | updated 2026-10-24 11:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 36 files in CFB/transcripts/week-08:
+# 38 files in CFB/transcripts/week-08:
 CFB/transcripts/week-08/-XhRNL5nqK4_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt
 CFB/transcripts/week-08/0iA2SMJxWWE_TCE_CFB_Week_8_Preview_Picks_Ole_Miss_at_Texas.txt
 CFB/transcripts/week-08/1dTT4C6S2a8_WagerTalk_Tennessee_vs_South_Carolina_BEST_Bets_CFB_Week_8_Predictions.txt
@@ -17,6 +17,7 @@ CFB/transcripts/week-08/GybpxOXM4W0_Cover3_Last_Minute_Week_8_Upset_Picks.txt
 CFB/transcripts/week-08/IV5OuuhBKk0_BBOC_LSU_vs_Auburn_Preview_Best_Bets_Week_8_CFB.txt
 CFB/transcripts/week-08/JCjBNefRg2I_WagerTalk_CFB_BEST_Bets_TODAY_Ole_Miss_vs_Texas_Houston_vs_Utah_Drew_s_Daily_Dia.txt
 CFB/transcripts/week-08/MtAKVuIx-Jc_BBOC_EMU_Vs_Ohio_CFB_Week_8_Best_Bets.txt
+CFB/transcripts/week-08/NIezJQPnKAc_SportsLine_NBA_Picks_Champions_League_Bets_College_Football_Picks_NHL_Early_Edge.txt
 CFB/transcripts/week-08/NgqYW1ZCZVU_BettingPros_Top_4_Bets_for_Saturday_NCAA_Football_Best_Bets_Week_8_CFB_Predictions.txt
 CFB/transcripts/week-08/Np1mearChi8_BBOC_College_Football_Week_8_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
 CFB/transcripts/week-08/Sn9V7OXlLCM_BBOC_Texas_vs_Ole_Miss_Preview_Best_Bets_Week_8_CFB.txt
@@ -27,6 +28,7 @@ CFB/transcripts/week-08/ZRcf4X-sSh8_BBOC_Rice_Vs_Florida_Atlantic_University_CFB
 CFB/transcripts/week-08/ZubCxhF0QtM_Cover3_Indiana_vs_Michigan_Who_Wins_WHY_Week_8_Preview_Predictions.txt
 CFB/transcripts/week-08/_YsDIe03HWY_Cover3_Ole_Miss_vs_Texas_Who_Wins_WHY_Week_8_Preview_Predictions.txt
 CFB/transcripts/week-08/bqun9FvOnWM_WagerTalk_CFB_Week_8_Picks_KIV_s_3617_Underdog_Parlay.txt
+CFB/transcripts/week-08/ch7vXXmdW14_TCE_FCS_College_Football_Week_8_Preview_Picks.txt
 CFB/transcripts/week-08/cjd14EIshR4_SportsLine_College_Football_BEST_BETS_for_12PM_ET_Games.txt
 CFB/transcripts/week-08/exbpMaXBPMo_Cover3_Week_8_Preview_Predictions_No_18_LSU_vs_Auburn.txt
 CFB/transcripts/week-08/fT_vByekjp4_SportsLine_World_Series_Picks_College_Football_Bets_NFL_Picks_Early_Edge.txt
@@ -43,15 +45,15 @@ NONE    channel Cover3: nothing new in the date window (or everything already sa
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel HitTheBooks: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
+NEW     CFB/transcripts/week-08/ch7vXXmdW14_TCE_FCS_College_Football_Week_8_Preview_Picks.txt  (9,372 words)
 NOCAPS  TCE DZJMvIo2-To Week 8 Pregame Show | The College Football Experience  (no captions; Groq: still live - audio not final yet)
-DEFER   TCE ch7vXXmdW14 FCS College Football Week 8 Preview & Picks  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   WagerTalk b7EMdffRL7c Last-Minute CFB Picks & Sharp Money Moves LIVE | LAST CALL 📱  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk H_uS3BJ-sz4 Last-Minute CFB Picks & Sharp Money Moves LIVE | WAGERTALK'S  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk cNl5fqh2g3A College Football Week 8 Picks & Best Bets LIVE | THE BLITZ  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk Yy3Avs6_fhE College Football Week 8 Picks & Best Bets LIVE | THE BLITZ    (YouTube rate limit hit earlier this run)
+NOCAPS  WagerTalk b7EMdffRL7c Last-Minute CFB Picks & Sharp Money Moves LIVE | LAST CALL 📱  (no captions; Groq: still live - audio not final yet)
+NOCAPS  WagerTalk H_uS3BJ-sz4 Last-Minute CFB Picks & Sharp Money Moves LIVE | WAGERTALK'S  (no captions; Groq: still live - audio not final yet)
+NOCAPS  WagerTalk cNl5fqh2g3A College Football Week 8 Picks & Best Bets LIVE | THE BLITZ  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.4h ago))
+NOCAPS  WagerTalk Yy3Avs6_fhE College Football Week 8 Picks & Best Bets LIVE | THE BLITZ    (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SplitZoneDuo: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-DEFER   SportsLine NIezJQPnKAc NBA Picks + Champions League Bets + College Football Picks +  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-08/NIezJQPnKAc_SportsLine_NBA_Picks_Champions_League_Bets_College_Football_Picks_NHL_Early_Edge.txt  (7,660 words)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
