@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-25 12:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-25 17:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -146,8 +146,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Oct 27 | Out | Oct 24: Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports. |
-| [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Oct 25 | Out | Oct 23: Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland. |
+| [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Oct 27 | Out | Oct 25: Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. |
+| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Oct 27 | Out | Oct 25: Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the Pacers, Brian Lewis of the New York Post reports. |
 
 ![Image 30: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
@@ -162,15 +162,15 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Patrick Williams](https://www.espn.com/nba/player/_/id/4431687/patrick-williams) | F | Oct 26 | Out | Oct 24: Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athletic reports. |
-| [Noa Essengue](https://www.espn.com/nba/player/_/id/5242496/noa-essengue) | F | Oct 26 | Out | Oct 24: Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The Athletic reports. |
+| [Patrick Williams](https://www.espn.com/nba/player/_/id/4431687/patrick-williams) | F | Oct 26 | Day-To-Day | Oct 25: Williams (groin) is listed as questionable for Monday's game against Boston. |
+| [Noa Essengue](https://www.espn.com/nba/player/_/id/5242496/noa-essengue) | F | Oct 26 | Day-To-Day | Oct 25: Essengue (head) is listed as questionable for Monday's game against Boston. |
 | [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 4 | Out | Oct 19: Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports. |
 
 ![Image 32: Dallas Mavericks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&h=40&w=40)Dallas Mavericks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Oct 26 | Out | Oct 24: Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports. |
+| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Oct 26 | Day-To-Day | Oct 25: Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The Athletic reports. |
 | [Caleb Martin](https://www.espn.com/nba/player/_/id/3138160/caleb-martin) | F | Nov 2 | Out | Oct 24: Martin (thumb) has been ruled out against San Antonio on Saturday. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 2 | Out | Oct 24: Biberovic (heel) has been ruled out for Saturday's game against San Antonio. |
 | [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 28 | Out | Oct 24: Aldama (knee) has been ruled out for Saturday's game against the Spurs. |
@@ -181,27 +181,27 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Alpha Diallo](https://www.espn.com/nba/player/_/id/4065813/alpha-diallo) | F | Oct 26 | Out | Oct 24: Diallo (wrist) won't play Saturday against the Pelicans. |
-| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Oct 26 | Out | Oct 24: Head coach David Aldeman said that Johnson is "day-to-day" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports. |
-| [Spencer Jones](https://www.espn.com/nba/player/_/id/4592427/spencer-jones) | F | Oct 26 | Out | Oct 23: Jones (hamstring) is out for Saturday's game against the Pelicans. |
+| [Spencer Jones](https://www.espn.com/nba/player/_/id/4592427/spencer-jones) | F | Oct 26 | Day-To-Day | Oct 25: Jones (hamstring) is out for Saturday's game against the Pelicans. |
+| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Oct 26 | Day-To-Day | Oct 25: Head coach David Aldeman said that Johnson is "day-to-day" due to his sprained right ankle, Vinny Benedetto of The Denver Gazette reports. |
+| [Alpha Diallo](https://www.espn.com/nba/player/_/id/4065813/alpha-diallo) | F | Oct 26 | Day-To-Day | Oct 25: Diallo (wrist) won't play Saturday against the Pelicans. |
 | [Julian Strawther](https://www.espn.com/nba/player/_/id/4432181/julian-strawther) | G | Nov 29 | Out | Oct 16: Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports. |
 
 ![Image 34: Detroit Pistons](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png&h=40&w=40)Detroit Pistons
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Ausar Thompson](https://www.espn.com/nba/player/_/id/4684742/ausar-thompson) | G | Oct 25 | Day-To-Day | Oct 24: Thompson (ankle) is listed as questionable for Sunday's game against Philadelphia. |
-| [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Oct 27 | Out | Oct 24: Duren has been ruled out for Sunday's game against the 76ers due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports. |
+| [Ausar Thompson](https://www.espn.com/nba/player/_/id/4684742/ausar-thompson) | G | Oct 25 | Day-To-Day | Oct 25: Thompson (ankle) did not participate in Sunday morning's shootaround, Coty M. Davis of The Detroit News reports. |
+| [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 9 | Out | Oct 25: Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports. |
 
 ![Image 35: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Brandin Podziemski](https://www.espn.com/nba/player/_/id/4709138/brandin-podziemski) | G | Oct 26 | Day-To-Day | Oct 25: Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports. |
+| [Al Horford](https://www.espn.com/nba/player/_/id/3213/al-horford) | C | Oct 26 | Day-To-Day | Oct 25: Horford (back) has been ruled out for Saturday's game against the Suns. |
+| [Draymond Green](https://www.espn.com/nba/player/_/id/6589/draymond-green) | F | Oct 26 | Day-To-Day | Oct 25: Green (back) won't play Saturday in Phoenix. |
+| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Oct 26 | Day-To-Day | Oct 25: Curry (rest) won't play Saturday against the Suns. |
 | [Gui Santos](https://www.espn.com/nba/player/_/id/4997536/gui-santos) | F | Oct 26 | Day-To-Day | Oct 25: Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not return, Anthony Slater of ESPN.com reports. |
-| [Draymond Green](https://www.espn.com/nba/player/_/id/6589/draymond-green) | F | Oct 26 | Out | Oct 24: Green (back) won't play Saturday in Phoenix. |
-| [Al Horford](https://www.espn.com/nba/player/_/id/3213/al-horford) | C | Oct 26 | Out | Oct 24: Horford (back) has been ruled out for Saturday's game against the Suns. |
-| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Oct 26 | Out | Oct 24: Curry (rest) won't play Saturday against the Suns. |
-| [Brandin Podziemski](https://www.espn.com/nba/player/_/id/4709138/brandin-podziemski) | G | Oct 26 | Out | Oct 24: Podziemski (back) told reporters Friday that he will not play in the second leg of the Warriors' back-to-back set Saturday against the Suns, Nick Friedell of The Athletic reports. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Dec 1 | Out | Oct 21: Porzingis is contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as postural orthostatic tachycardia syndrome, per Shams Charania of ESPN. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
 | [Jimmy Butler III](https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii) | F | Jan 2 | Out | Oct 16: Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports. |
@@ -210,9 +210,9 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 26 | Out | Oct 24: Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of the Houston Chronicle reports. |
-| [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Oct 26 | Out | Oct 24: Adams (ankle) has been ruled out for Saturday's game against the Hawks. |
-| [Fred VanVleet](https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet) | G | Oct 26 | Out | Oct 24: VanVleet (knee) has been ruled out for Saturday's game against the Hawks. |
+| [Fred VanVleet](https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet) | G | Oct 26 | Day-To-Day | Oct 25: VanVleet (knee) has been ruled out for Saturday's game against the Hawks. |
+| [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 26 | Day-To-Day | Oct 25: Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of the Houston Chronicle reports. |
+| [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Oct 26 | Day-To-Day | Oct 25: Adams (ankle) has been ruled out for Saturday's game against the Hawks. |
 
 ![Image 37: Indiana Pacers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png&h=40&w=40)Indiana Pacers
 
@@ -287,10 +287,9 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Oct 25 | Day-To-Day | Oct 24: Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal and four turnovers across 36 minutes in Saturday's 127-116 win over the Bucks. |
-| [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 25 | Day-To-Day | Oct 24: Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did not return, finishing with six points (2-3 FG, 2-3 FT), three rebounds, one assist and one steal across 12 minutes. |
-| [LeBron James](https://www.espn.com/nba/player/_/id/1966/lebron-james) | F | Oct 25 | Out | Oct 24: James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of PhillyVoice.com reports. |
-| [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Oct 25 | Out | Oct 23: Fall (quadriceps) is out for Saturday's game against the Bucks. |
+| [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Oct 28 | Out | Oct 25: Fall (quadriceps) has been ruled out for Sunday's game against Detroit. |
+| [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 28 | Out | Oct 25: Walker has been ruled out for Sunday's game against the Pistons due to left knee soreness. |
+| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Oct 28 | Out | Oct 25: Embiid has been ruled out for Sunday's game against Detroit due to right plantar fasciitis management. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 2 | Out | Oct 19: Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
@@ -298,7 +297,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Oso Ighodaro](https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro) | F | Oct 26 | Out | Oct 24: Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports. |
+| [Oso Ighodaro](https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro) | F | Oct 26 | Day-To-Day | Oct 25: Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rankin of The Arizona Republic reports. |
 | [Mark Williams](https://www.espn.com/nba/player/_/id/4701232/mark-williams) | C | Feb 3 | Out | Sep 11: Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports. |
 
 ![Image 48: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
@@ -350,65 +349,41 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://hot.mygadgetsoffer.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 My Gadgets Offer | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://hot.mygadgetsoffer.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+[](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures)[Hiding Your Legs All Summer? You’re Not Alone Women’s Wellness | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures "Hiding Your Legs All Summer? You’re Not Alone")
 
-Undo
+[](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures)[Not a Cream: Leggings That Work With Every Step Women’s Wellness | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures "Not a Cream: Leggings That Work With Every Step")
 
-[](https://lowhum.today/)[Chronic tinnitus has been associated with a common practice.EarCare | News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://lowhum.today/ "Chronic tinnitus has been associated with a common practice.")
+[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Sunday Benefit Check The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Sunday Benefit Check")
 
-Undo
-
-[](https://vitahorizon.fit/heartwellnesscheck)[It's Not Salt: Doctors Now Connect High Blood Pressure to a Food Most Seniors Have Before 9AM Heart Health Care | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://vitahorizon.fit/heartwellnesscheck "It's Not Salt: Doctors Now Connect High Blood Pressure to a Food Most Seniors Have Before 9AM")
-
-Undo
-
-[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[You'll Never Guess What Stops Your Senior Dog's Limping (Not Glucosamine)Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "You'll Never Guess What Stops Your Senior Dog's Limping (Not Glucosamine)")
-
-Undo
-
-[](https://vision2026.getconsumerguide.com/)[One Pair of Self-Adjusting Glasses for Reading, Driving and Screens Bluelume | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://vision2026.getconsumerguide.com/ "One Pair of Self-Adjusting Glasses for Reading, Driving and Screens")
-
-Undo
+[](https://www.homes.com/news/donnie-wahlberg-and-jenny-mccarthy-list-longtime-suburban-chicago-home/2051850259)[Donnie Wahlberg and Jenny McCarthy list longtime suburban Chicago home Homes.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.homes.com/news/donnie-wahlberg-and-jenny-mccarthy-list-longtime-suburban-chicago-home/2051850259 "Donnie Wahlberg and Jenny McCarthy list longtime suburban Chicago home")
 
 [](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-Undo
+[](https://insisdomwitered.com/0cced2a6-cbc7-44e6-bcc2-62b089be73df)[Can Hearing Aids Really Be Replaced By This New Chip?This New Type Of Hearing Aid Is Currently Changing The Way Americans Are Buying Hearing Aids. Without a Prescription or Costly Audiologist Visits.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://insisdomwitered.com/0cced2a6-cbc7-44e6-bcc2-62b089be73df "Can Hearing Aids Really Be Replaced By This New Chip?")
 
-[](https://lifewaynest.com/breathing-wellness-guide)[3 Nighttime Things That May Leave Seniors Short of Breath (See The List)Breath Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://lifewaynest.com/breathing-wellness-guide "3 Nighttime Things That May Leave Seniors Short of Breath (See The List)")
+[](https://www.grammarly.com/a)[Invest In Your Daily Productivity With Grammarly Pro Upgrade your daily workflow with intelligent writing support. Grammarly catches mistakes you might miss otherwise. Try it now.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.grammarly.com/a "Invest In Your Daily Productivity With Grammarly Pro")
 
-Undo
+[](https://breathewelltoday.com/sk/adv-04)[Dermatologists: The 1 Vitamin You Need If You Have Wrinkles Viva Balance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://breathewelltoday.com/sk/adv-04 "Dermatologists: The 1 Vitamin You Need If You Have Wrinkles")
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Sunday Benefit Check Seniors are taking advantage of these benefits The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Sunday Benefit Check")
-
-Undo
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
-
-Undo
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
 ### NBA News
 
-[![Image 54: Pistons C Jalen Duren out at least two weeks with hamstring strain](https://a.espncdn.com/combiner/i?img=/photo/2026/1006/r1726894_1296x729_16-9.jpg&w=220) ## Pistons C Jalen Duren out at least two weeks with hamstring strain Pistons center Jalen Duren, who signed a five-year extension earlier this month, will be out at least two weeks with a right hamstring strain. * 24m](https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks)
+[![Image 54: Sixers overrule Embiid, sit center with plantar fasciitis management](https://a.espncdn.com/combiner/i?img=/photo/2026/0904/r1711559_600x400_3-2.jpg&w=220) ## Sixers overrule Embiid, sit center with plantar fasciitis management Despite publicly calling to play Sunday against the Pistons, the 76ers decided to sit Joel Embiid due to right foot plantar fasciitis management. * 8m * Kris Rhim](https://www.espn.com/nba/story/_/id/50279725/76ers-rule-embiid-plantar-fasciitis-management)
 
-[![Image 55: Indiana travels to Brooklyn for conference matchup](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909862.png?templateId=espn.all.awayhome.1x1.1) ## Indiana travels to Brooklyn for conference matchup Indiana Pacers (1-1, ninth in the Eastern Conference) vs. Brooklyn Nets (0-2, 13th in the Eastern Conference) * 8h](https://www.espn.com/nba/preview/_/gameId/401909862)
+[![Image 55: Pistons C Jalen Duren out at least two weeks with hamstring strain](https://a.espncdn.com/combiner/i?img=/photo/2026/1006/r1726894_1296x729_16-9.jpg&w=220) ## Pistons C Jalen Duren out at least two weeks with hamstring strain Pistons center Jalen Duren, who signed a five-year extension earlier this month, will be out at least two weeks with a right hamstring strain. * 5h](https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks)
 
-[![Image 56: 76ers face the Pistons on 3-game win streak](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909866.png?templateId=espn.all.awayhome.1x1.1) ## 76ers face the Pistons on 3-game win streak Detroit Pistons (2-0, second in the Eastern Conference) vs. Philadelphia 76ers (3-0, first in the Eastern Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909866)
+[![Image 56: Sunday's fantasy basketball adds and bets to make in the NBA](https://a.espncdn.com/combiner/i?img=/photo/2026/1025/r1735906_576x324_16-9.jpg&w=220) ## Sunday's fantasy basketball adds and bets to make in the NBA Jim McCormick breaks down Sunday's slate, highlighting the fantasy streamers to add and bets to make. * 3h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50275279/fantasy-basketball-tips-nba-betting-picks-today)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures)[Hiding Your Legs All Summer? You’re Not Alone Creams work on the surface. The problem starts underneath. Smoother-looking legs or your money back within 90 days.Women’s Wellness | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures "Hiding Your Legs All Summer? You’re Not Alone")
+[](https://lifewaynest.com/breathing-wellness-guide)[3 Nighttime Things That May Leave Seniors Short of Breath (See The List)Breath Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://lifewaynest.com/breathing-wellness-guide "3 Nighttime Things That May Leave Seniors Short of Breath (See The List)")
 
-Undo
+[](https://vitahorizon.fit/heartwellnesscheck)[It's Not Salt: Doctors Now Connect High Blood Pressure to a Food Most Seniors Have Before 9AM Heart Health Care | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://vitahorizon.fit/heartwellnesscheck "It's Not Salt: Doctors Now Connect High Blood Pressure to a Food Most Seniors Have Before 9AM")
 
-[](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures)[Not a Cream: Leggings That Work With Every Step Women over 60 wear them all day and some even sleep in them. Lighter-feeling legs or your money back within 90 days.Women’s Wellness | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://wellnesstodayonline.net/i-had-a-drawer-full-of-cellulite-cures "Not a Cream: Leggings That Work With Every Step")
-
-Undo
-
-[](https://related.websearchable.com/topics/4331003/428E221)[New Small Suv For Elderly Leaves Others Behind - Take a Look!WebSearchable.com | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.websearchable.com/topics/4331003/428E221 "New Small Suv For Elderly Leaves Others Behind - Take a Look!")
-
-Undo
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
 
 ![Image 57: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
