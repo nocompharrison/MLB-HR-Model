@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-player-props-predictions-october-25-2026-143637 | fetched: 2026-10-25 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-player-props-predictions-october-25-2026-143637 | fetched: 2026-10-25 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Oct. 25
 Our NBA best bets for Sunday, Oct. 25 target Luka Doncic points, Shai Gilgeous-Alexander PRA and Anthony Edwards threes, with odds from DraftKings, FanDuel and BetMGM.
@@ -19,13 +19,13 @@ Here are three player props worth considering for Sunday's action.
 ##  [**Luka Doncic**](https://www.rotowire.com/basketball/player/luka-doncic-4396)**Over 32.5 Points, -112 @ DraftKings**
 Doncic enters Sunday's matchup averaging 25.5 points over two games, scoring 28 against Golden State and 23 against the Clippers. Despite those modest returns by his standards, his offensive involvement remains substantial. The Lakers guard has attempted 39 field goals and 20 three-pointers, but has converted just 38.5 percent of his shots, considerably below his 47.6 percent mark from 2025-26. Therefore, I'm backing the star floor general to provide a bounce-back performance Sunday. 
 Doncic led the NBA with 33.5 points per game last season, making his current scoring average particularly uncharacteristic. Utah presents an opportunity for improvement after finishing last season among the league's weakest defensive teams while playing at one of its fastest paces. Even though it's still early, Utah already ranks 21st in defensive rating this season. Doncic's continued shot volume and favorable matchup support backing him to surpass 32.5 points for the first time this season.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=b83dd267-76d6-4567-88c0-870ccb13feac&operator_item_id=cd128b98-505c-4055-96a9-c05d28fcd7ed&pageview_id=c2ccc287-c66a-4a2f-8d10-eebc34da88dc)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=305bfb47-f39b-4f4f-8e48-dee1619d0e45&operator_item_id=a248c979-b63a-4ce5-aa2e-4c56e7d0b480&pageview_id=48c31f45-c629-4ec0-b046-ac923a8315d0)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=bff62fb7-ca08-4848-89d2-748cf9efe50c&operator_item_id=cd128b98-505c-4055-96a9-c05d28fcd7ed&pageview_id=c2ccc287-c66a-4a2f-8d10-eebc34da88dc)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=1e1e958a-c494-450b-b72f-ffb46cd0d0e9&operator_item_id=06babdea-3ffb-46f3-b0ec-a63503c51a72&pageview_id=c2ccc287-c66a-4a2f-8d10-eebc34da88dc) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=552fa85b-f49a-4481-97da-ab7d8151032e&operator_item_id=a248c979-b63a-4ce5-aa2e-4c56e7d0b480&pageview_id=48c31f45-c629-4ec0-b046-ac923a8315d0)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=7eb32335-b9d0-46c8-ac61-a7317d430cc3&operator_item_id=5f0f937c-417e-4dee-be73-543bc0ba1da1&pageview_id=48c31f45-c629-4ec0-b046-ac923a8315d0) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=4c26e9ae-0cba-4ccb-8e18-3f2c38ab33c2&operator_item_id=06babdea-3ffb-46f3-b0ec-a63503c51a72&pageview_id=c2ccc287-c66a-4a2f-8d10-eebc34da88dc)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-player-props-predictions-october-25-2026-143637&cta_id=bad673e2-8ffc-4f79-971a-0c176b161e69&operator_item_id=5f0f937c-417e-4dee-be73-543bc0ba1da1&pageview_id=48c31f45-c629-4ec0-b046-ac923a8315d0)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ## **Los Angeles Clippers![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png) vs. Oklahoma City Thunder ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png)**
 ##  [**Shai Gilgeous-Alexander**](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)**Over 38.5 Points + Rebounds + Assists, -110 @ FanDuel**
@@ -46,31 +46,31 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Omar Cooper](https://www.rotowire.com/football/player/omar-cooper-19314)
-Two long catches and TD in Week 7
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Derrick Henry](https://www.rotowire.com/football/player/derrick-henry-10819)
+Shut down for second straight game
 NFL
-New York Jets
-  * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
-[Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
-Stretches TD streak to four games
+Baltimore Ravens
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Justin Jefferson](https://www.rotowire.com/football/player/justin-jefferson-14509)
+Modest numbers in Week 7 win
 NFL
-Miami Dolphins
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Braelon Allen](https://www.rotowire.com/football/player/braelon-allen-17702)
-Tops 100 rushing yards in Week 7
+Minnesota Vikings
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Joe Burrow](https://www.rotowire.com/football/player/joe-burrow-14442)
+Dominant performance in second half
 NFL
-New York Jets
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548)
-Questionable to play Monday
-NBA
-Dallas Mavericks
-  * ![Atlanta Falcons](https://assets.rotowire.com/images/teamlogo/football/ATL.svg?v=12)
-[Drake London](https://www.rotowire.com/football/player/drake-london-15868)
-Returns to Sunday's game
+Cincinnati Bengals
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Zay Flowers](https://www.rotowire.com/football/player/zay-flowers-16919)
+Stellar numbers in lopsided loss
 NFL
-Atlanta Falcons
+Baltimore Ravens
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
+Second 100-yard effort of season in win
+NFL
+Cincinnati Bengals
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -102,62 +102,77 @@ Milwaukee Brewers
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
+Not listed on report anymore
+NBA
+Golden State Warriors
   * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548)
 Questionable to play Monday
 NBA
 Dallas Mavericks
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)
-Out for Monday
+  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)
+Will make season debut Sunday
 NBA
-Dallas Mavericks
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Omitted from injury report
+Orlando Magic
+  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)
+Ruled out for Monday
 NBA
-Dallas Mavericks
-  * ![Sacramento Kings](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)
-Downgraded to doubtful
+Charlotte Hornets
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Brandin Podziemski](https://www.rotowire.com/basketball/player/brandin-podziemski-5889)
+Absent from report
 NBA
-Sacramento Kings
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
-Out Sunday
-NBA
-Philadelphia 76ers
+Golden State Warriors
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Omar Cooper](https://www.rotowire.com/football/player/omar-cooper-19314)
-Two long catches and TD in Week 7
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Derrick Henry](https://www.rotowire.com/football/player/derrick-henry-10819)
+Shut down for second straight game
 NFL
-New York Jets
-  * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
-[Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
-Stretches TD streak to four games
+Baltimore Ravens
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Justin Jefferson](https://www.rotowire.com/football/player/justin-jefferson-14509)
+Modest numbers in Week 7 win
 NFL
-Miami Dolphins
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Braelon Allen](https://www.rotowire.com/football/player/braelon-allen-17702)
-Tops 100 rushing yards in Week 7
+Minnesota Vikings
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Joe Burrow](https://www.rotowire.com/football/player/joe-burrow-14442)
+Dominant performance in second half
 NFL
-New York Jets
-  * ![Atlanta Falcons](https://assets.rotowire.com/images/teamlogo/football/ATL.svg?v=12)
-[Drake London](https://www.rotowire.com/football/player/drake-london-15868)
-Returns to Sunday's game
+Cincinnati Bengals
+  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
+[Zay Flowers](https://www.rotowire.com/football/player/zay-flowers-16919)
+Stellar numbers in lopsided loss
 NFL
-Atlanta Falcons
-  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
-[Puka Nacua](https://www.rotowire.com/football/player/puka-nacua-16790)
-Is active Sunday
+Baltimore Ravens
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
+Second 100-yard effort of season in win
 NFL
-Los Angeles Rams
+Cincinnati Bengals
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Ilya Sorokin](https://www.rotowire.com/hockey/player/ilya-sorokin-4478)
+Drawing start Sunday
+NHL
+New York Islanders
+  * ![Carolina Hurricanes](https://assets.rotowire.com/images/teamlogo/hockey/100CAR.png?v=5)
+[Alexander Nikishin](https://www.rotowire.com/hockey/player/alexander-nikishin-6343)
+Inks one-year deal
+NHL
+Carolina Hurricanes
+  * ![Montreal Canadiens](https://assets.rotowire.com/images/teamlogo/hockey/100MTL.png?v=5)
+[Jacob Fowler](https://www.rotowire.com/hockey/player/jacob-fowler-6988)
+Starting against Winnipeg
+NHL
+Montreal Canadiens
   * ![Dallas Stars](https://assets.rotowire.com/images/teamlogo/hockey/100DAL.png?v=5)
 [Jake Oettinger](https://www.rotowire.com/hockey/player/jake-oettinger-5514)
 Tending twine Sunday
@@ -168,21 +183,6 @@ Dallas Stars
 Defending crease Sunday
 NHL
 Chicago BlackHawks
-  * ![Vancouver Canucks](https://assets.rotowire.com/images/teamlogo/hockey/100VAN.png?v=5)
-[Leevi Merilainen](https://www.rotowire.com/hockey/player/leevi-merilainen-6365)
-Set to face Minnesota
-NHL
-Vancouver Canucks
-  * ![Washington Capitals](https://assets.rotowire.com/images/teamlogo/hockey/100WSH.png?v=5)
-[Alex Tuch](https://www.rotowire.com/hockey/player/alex-tuch-4399)
-Tallies twice against old team
-NHL
-Washington Capitals
-  * ![Washington Capitals](https://assets.rotowire.com/images/teamlogo/hockey/100WSH.png?v=5)
-[Dylan Strome](https://www.rotowire.com/hockey/player/dylan-strome-4747)
-Three-point effort in win
-NHL
-Washington Capitals
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

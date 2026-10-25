@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-25 17:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-25 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,90 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Caleb Wilson](https://images.fantasypros.com/images/players/nba/6505/headshot/100x100.png)](https://www.fantasypros.com/nba/players/caleb-wilson.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/caleb-wilson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/caleb-wilson.php)  
+[» More News](https://www.fantasypros.com/nba/news/caleb-wilson.php)
+[Caleb Wilson records double-double in Saturday's loss to Wizards](https://www.fantasypros.com/nba/news/615754/caleb-wilson-records-double-double-saturdays-loss-to-wizards.php)  
+
+Sun, Oct 25th 5:35pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Caleb Wilson recorded a double-double for the Bulls Saturday night, grabbing 14 rebounds and dropping a team-leading 30 points (10-24 FG, 1-9 3PT, 9-11 FT) while also recording two steals, blocking one shot, and dishing out three assists in a 124-120 loss to the Wizards.
+**_Fantasy Impact:_** Wilson has been solid on both ends of the floor to begin the season, grabbing four or more rebounds and scoring 16 or more points in each of the first three contests. The rookie has offered new head coach Tiago Splitter one of the more explosive options as part of a revamped Chicago starting five, averaging 22.3 points, 2.0 steals, 1.3 blocks, and 8.0 rebounds per game while carrying a usage rate of 28.7% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Josh Giddey](https://images.fantasypros.com/images/players/nba/5360/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-giddey.php)
+G - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/josh-giddey.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/josh-giddey.php)  
+[» More News](https://www.fantasypros.com/nba/news/josh-giddey.php)
+[Josh Giddey flirts with triple-double Saturday against Wizards](https://www.fantasypros.com/nba/news/615751/josh-giddey-flirts-with-triple-double-saturday-against-wizards.php)  
+
+Sun, Oct 25th 5:31pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Josh Giddey flirted with a triple-double for the Bulls Saturday night, dishing out 10 assists, grabbing eight rebounds, and chipping in nine points (3-7 FG, 1-3 3PT, 2-2 FT) while also recording one steal in a 124-120 loss to the Wizards.
+**_Fantasy Impact:_** Giddey has been impactful on both ends of the floor despite underwhelming scoring, finishing with four or more rebounds and six or more assists in each of the first three contests. The guard remains one of the more dynamic options as part of a revamped Chicago starting five, averaging 5.7 points, 6.3 rebounds, and 8.3 assists per game to go along with a usage rate of 16.0% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyshawn George](https://images.fantasypros.com/images/players/nba/6146/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyshawn-george.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/kyshawn-george.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyshawn-george.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyshawn-george.php)
+[Kyshawn George fills stat sheet in Saturday's win over Bulls](https://www.fantasypros.com/nba/news/615746/kyshawn-george-fills-stat-sheet-saturdays-win-over-bulls.php)  
+
+Sun, Oct 25th 5:15pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Kyshawn George filled the stat sheet for the Wizards Saturday night, grabbing nine rebounds, blocking four shots, dishing out five assists, and scoring 22 points (8-17 FG, 0-5 3PT, 6-8 FT) in a 124-120 win over the Bulls.
+**_Fantasy Impact:_** George has steady on both ends of the floor, finishing with three or more assists, three or more rebounds, and 11 or more points in each of the first three contests. The 22-year-old remains one of the more stable options as part of a revamped Washington starting five, averaging 17.0 points, 3.7 assists, and 5.7 rebounds per game to go along with a usage rate of 26.4% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Trae Young](https://images.fantasypros.com/images/players/nba/3473/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trae-young.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/trae-young.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trae-young.php)  
+[» More News](https://www.fantasypros.com/nba/news/trae-young.php)
+[Trae Young leads offense in Saturday's win over Bulls](https://www.fantasypros.com/nba/news/615745/trae-young-leads-offense-saturdays-win-over-bulls.php)  
+
+Sun, Oct 25th 5:12pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Trae Young led the Wizards offense Saturday night, scoring 25 points (6-13 FG, 4-10 3PT, 9-9 FT) while also dishing out nine assists and grabbing four rebounds in a 124-120 win over the Bulls.
+**_Fantasy Impact:_** Young is off to a dynamic start on the offensive end of the floor, dishing out nine or more assists and scoring 20 or more points in each of the first three contests. The guard offers fantasy managers one of the more explosive offensive options in the Washington starting five, averaging 22.3 points and 11.3 assists per game while posting a 22.5% usage rate so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Davis](https://images.fantasypros.com/images/players/nba/2746/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-davis.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-davis.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-davis.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-davis.php)
+[Anthony Davis fills stat sheet Saturday against Bulls](https://www.fantasypros.com/nba/news/615743/anthony-davis-fills-stat-sheet-saturday-against-bulls.php)  
+
+Sun, Oct 25th 5:07pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Anthony Davis filled the stat sheet for the Wizards Saturday night, dishing out four assists, recording one steal, grabbing six rebounds, and chipping in 19 points (8-21 FG, 0-1 3PT, 3-5 FT) in a 124-120 win over the Bulls.
+**_Fantasy Impact:_** Davis has offered modest production on both ends of the floor, finishing with six or more rebounds and nine or more points in each of the first three contests. The veteran remains another reliable option in the Washington starting five if he can remain healthy, averaging 20.7 points and 9.0 rebounds per game to go along with a 28.6% usage rate so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kevin Durant](https://images.fantasypros.com/images/players/nba/2331/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kevin-durant.php)
+F - HOU
+[» Rankings](https://www.fantasypros.com/nba/players/kevin-durant.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kevin-durant.php)  
+[» More News](https://www.fantasypros.com/nba/news/kevin-durant.php)
+[Kevin Durant leads offense Saturday against Hawks](https://www.fantasypros.com/nba/news/615740/kevin-durant-leads-offense-saturday-against-hawks.php)  
+
+Sun, Oct 25th 5:01pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Kevin Durant led the Rockets offense Saturday night, scoring 22 points (8-15 FG, 3-7 3PT, 3-3 FT) while also grabbing four rebounds, blocking one shot, and dishing out two assists in a 121-114 win over the Hawks.
+**_Fantasy Impact:_** Durant has been productive on both ends of the floor to begin the season, dishing out two or more assists, grabbing four or more rebounds, and scoring 20 or more points in each of the first three contests. The veteran forward offers head coach Ime Udoka another impactful option in a versatile Houston starting five, averaging 24.0 points, 3.7 assists, and 5.7 rebounds per game while carrying a 22.1% usage rate so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Alperen Sengun](https://images.fantasypros.com/images/players/nba/5384/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)
 C - HOU
 [» Rankings](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)  
@@ -203,90 +287,6 @@ Michael Porter Jr. filled the stat sheet for the Nets Saturday night, grabbing n
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Julius Randle](https://images.fantasypros.com/images/players/nba/2852/headshot/100x100.png)](https://www.fantasypros.com/nba/players/julius-randle.php)
-F - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/julius-randle.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/julius-randle.php)  
-[» More News](https://www.fantasypros.com/nba/news/julius-randle.php)
-[Julius Randle flirts with triple-double in Saturday's loss to Cavaliers](https://www.fantasypros.com/nba/news/615712/julius-randle-flirts-with-triple-double-saturdays-loss-to-cavaliers.php)  
-
-Sun, Oct 25th 2:20pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Julius Randle flirted with a triple-double for the Nets Saturday night, dishing out five assists, grabbing six rebounds, and scoring 23 points (7-13 FG, 2-4 3PT, 7-8 FT) in a 125-121 loss to the Cavaliers.
-**_Fantasy Impact:_** Randle has been dynamic on both ends of the floor to begin the season, dishing out five or more assists, grabbing six or more rebounds, and scoring 23 or more points in each of the first two contests. The forward has been one of the few impactful options in the Brooklyn starting five early on, averaging 28.0 points, 6.0 assists, and 7.0 rebounds per game while posting a usage rate of 25.8% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
-C - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/joel-embiid.php)  
-[» More News](https://www.fantasypros.com/nba/news/joel-embiid.php)
-[Joel Embiid (foot) ruled out Sunday](https://www.fantasypros.com/nba/news/615711/joel-embiid-foot-ruled-out-sunday.php)  
-
-Sun, Oct 25th 2:13pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Joel Embiid (foot) has been ruled out for Sunday’s contest between the Philadelphia 76ers and Detroit Pistons according to Adam Aaronson. (Source: [Adam Aaronson on Twitter ](https://x.com/sixersadam/status/2114401800812183940?s=46&t=wuzLD6VEc2PDl5FSbJw5YA))
-**_Fantasy Impact:_** Embiid will receive the second of back-to-back contests off for injury management purposes, with Adem Bona potentially in line to start at center for head coach Nick Nurse against the Pistons Sunday night.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kel'el Ware](https://images.fantasypros.com/images/players/nba/6162/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kelel-ware.php)
-C - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/kelel-ware.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kelel-ware.php)  
-[» More News](https://www.fantasypros.com/nba/news/kelel-ware.php)
-[Kel'el Ware posts double-double off bench Saturday against 76ers](https://www.fantasypros.com/nba/news/615710/kelel-ware-posts-double-double-off-bench-saturday-against-76ers.php)  
-
-Sun, Oct 25th 2:07pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Kel'el Ware posted a double-double off of the bench for the Bucks Saturday night, grabbing 13 rebounds and scoring 19 points (6-11 FG, 2-5 3PT, 5-5 FT) while also recording one steal, blocking two shots, and dishing out one assist in a 127-116 loss to the 76ers.
-**_Fantasy Impact:_** Ware has offered modest impact on both ends of the floor to begin the season, finishing with three or more rebounds and seven or more points in each of the first three contests. The 22-year-old has provided reliable bench minutes as part of a rebuilt Milwaukee lineup, averaging 12.3 points and 6.7 rebounds per game to go along with a usage rate of 22.1% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kyle Kuzma](https://images.fantasypros.com/images/players/nba/3358/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyle-kuzma.php)
-F - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/kyle-kuzma.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyle-kuzma.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyle-kuzma.php)
-[Kyle Kuzma records double-double Saturday against 76ers](https://www.fantasypros.com/nba/news/615708/kyle-kuzma-records-double-double-saturday-against-76ers.php)  
-
-Sun, Oct 25th 2:01pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Kyle Kuzma recorded a double-double for the Bucks Saturday night, grabbing 12 rebounds and chipping in 14 points (6-11 FG, 0-3 3PT, 2-2 FT) while also dishing out three assists in a 127-116 loss to the 76ers.
-**_Fantasy Impact:_** Kuzma has been steady on both ends of the floor of late, finishing with nine or more rebounds and 14 points in each of the last two contests. The forward will look to remain one of the more reliable options as part of a revamped Milwaukee starting five, averaging 11.0 points and 9.0 rebounds per game to go along with a usage rate of 15.7% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaime Jaquez Jr.](https://images.fantasypros.com/images/players/nba/5485/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php)
-F - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaime-jaquez-jr.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaime-jaquez-jr.php)
-[Jaime Jaquez Jr. fills stat sheet in Saturday's loss to 76ers](https://www.fantasypros.com/nba/news/615707/jaime-jaquez-jr-fills-stat-sheet-saturdays-loss-to-76ers.php)  
-
-Sun, Oct 25th 1:56pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jaime Jaquez Jr. filled the stat sheet for the Bucks Saturday night, dishing out four assists, grabbing eight rebounds, and scoring a team-high 21 points (7-13 FG, 2-3 3PT, 5-7 FT) in a 127-116 loss to the 76ers.
-**_Fantasy Impact:_** Jaquez Jr. has been dynamic on both ends of the floor to begin the season, grabbing seven or more rebounds and scoring 19 or more points in each of the first three contests. The forward has maximized his minutes as a versatile contributor as part of a revamped Milwaukee lineup, averaging 20.7 points, 3.7 assists, and 8.7 rebounds per game while posting a usage rate of 21.7% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
-G - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
-[Jaylen Brown fills stat sheet in Saturday's win over Bucks](https://www.fantasypros.com/nba/news/615706/jaylen-brown-fills-stat-sheet-saturdays-win-over-bucks.php)  
-
-Sun, Oct 25th 1:51pm EDT  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jaylen Brown filled the stat sheet for the 76ers Saturday night, dishing out five assists, recording three steals, grabbing three rebounds, and scoring 27 points (9-19 FG, 3-6 3PT, 6-6 FT) in a 127-116 win over the Bucks.
-**_Fantasy Impact:_** Brown continues a dynamic start to the season on both ends of the floor, grabbing three or more rebounds, dishing out four or more assists, and scoring 19 or more points in each of the first three contests. The 30-year-old has taken advantage of a change of scenery in a loaded Philadelphia starting five for head coach Nick Nurse, averaging 22.3 points, 1.7 steals, 5.0 assists, and 6.3 rebounds per game while carrying a usage rate of 24.1% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=933_1792962039848&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989c98989f9c969e969d66uokewi0e0y646i64646o6i606m606k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989c98989f9c969e969d66uokewi0e0y646i64646o6i606m606k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

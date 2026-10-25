@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/detroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25 | fetched: 2026-10-25 17:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/detroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25 | fetched: 2026-10-25 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -82,9 +82,9 @@ NBCS-PH
 Pistons vs 76ers is scheduled for 7:30 PM EDT live from Xfinity Mobile Arena on Sunday. The game will be broadcast on NBCS-PH.
 * * *
 **Pistons vs 76ers Betting Trends**
-  * 47% of bets and 64% of the money are on the Pistons to cover the [spread](https://www.actionnetwork.com/education/point-spread)
-  * 71% of bets and 64% of the money on the [moneyline](https://www.actionnetwork.com/education/moneyline) are on the 76ers to win outright
-  * 91% of bets and 92% of the money are on the over
+  * 49% of bets and 63% of the money are on the Pistons to cover the [spread](https://www.actionnetwork.com/education/point-spread)
+  * 64% of bets and 58% of the money on the [moneyline](https://www.actionnetwork.com/education/moneyline) are on the 76ers to win outright
+  * 87% of bets and 89% of the money are on the over
 
 
 Betting trends via our live, updating [NBA public betting & money percentages](https://www.actionnetwork.com/nba/public-betting) page.
@@ -114,37 +114,37 @@ How To Watch Pistons vs 76ers
 NBA
 [NBA Predictions, Picks: Our Staff’s 4 Best Bets for Sunday, October 25](https://www.actionnetwork.com/nba/nba-predictions-picks-our-staffs-4-best-bets-for-sunday-october-25)
 Action Network Staff
-6 hours ago
-[![Lakers vs Jazz Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/Lakers-Jazz-10252026.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-utah-jazz-prediction-pick-nba-odds-for-sunday-october-25)
-NBA
-[Lakers vs Jazz Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-utah-jazz-prediction-pick-nba-odds-for-sunday-october-25)
-Action Network Staff
 7 hours ago
 [![Pacers vs Nets Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/indiana-pacers-vs-brooklyn-nets-prediction-pick-nba-odds-for-sunday-october-25.jpg)](https://www.actionnetwork.com/nba/indiana-pacers-vs-brooklyn-nets-prediction-pick-nba-odds-for-sunday-october-25)
 NBA
 [Pacers vs Nets Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/indiana-pacers-vs-brooklyn-nets-prediction-pick-nba-odds-for-sunday-october-25)
 Action Network Staff
-5 hours ago
+6 hours ago
 [![Magic vs Knicks Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/Magic-Knicks-10252026.jpg)](https://www.actionnetwork.com/nba/orlando-magic-vs-new-york-knicks-prediction-pick-nba-odds-for-sunday-october-25)
 NBA
 [Magic vs Knicks Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/orlando-magic-vs-new-york-knicks-prediction-pick-nba-odds-for-sunday-october-25)
 Action Network Staff
-8 hours ago
+9 hours ago
 [![Raptors vs Timberwolves Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/Raptors-Wolves-10252026.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-minnesota-timberwolves-prediction-pick-nba-odds-for-sunday-october-25)
 NBA
 [Raptors vs Timberwolves Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/toronto-raptors-vs-minnesota-timberwolves-prediction-pick-nba-odds-for-sunday-october-25)
 Action Network Staff
-6 hours ago
+7 hours ago
 [![Clippers vs Thunder Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/los-angeles-clippers-vs-oklahoma-city-thunder-prediction-pick-nba-odds-for-sunday-october-25.jpg)](https://www.actionnetwork.com/nba/clippers-vs-thunder-prediction-pick-nba-odds-for-sunday-october-25)
 NBA
 [Clippers vs Thunder Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/clippers-vs-thunder-prediction-pick-nba-odds-for-sunday-october-25)
 Action Network Staff
-4 hours ago
+5 hours ago
 [![Grizzlies vs Kings Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/Grizzlies-Kings-10252026.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-sacramento-kings-prediction-pick-nba-odds-for-sunday-october-25)
 NBA
 [Grizzlies vs Kings Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-sacramento-kings-prediction-pick-nba-odds-for-sunday-october-25)
 Brandon Kravitz
-4 hours ago
+5 hours ago
+[![Lakers vs Jazz Prediction, Pick, NBA Odds for Sunday, October 25](https://images.actionnetwork.com/blog/2026/10/Lakers-Jazz-10252026.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-utah-jazz-prediction-pick-nba-odds-for-sunday-october-25)
+NBA
+[Lakers vs Jazz Prediction, Pick, NBA Odds for Sunday, October 25](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-utah-jazz-prediction-pick-nba-odds-for-sunday-october-25)
+Action Network Staff
+8 hours ago
 [![NBA Finals Predictions, Picks, Best Bets for 2026-27 Season](https://images.actionnetwork.com/blog/2026/10/NBAFinalsFutures1017.jpg)](https://www.actionnetwork.com/nba/nba-finals-predictions-picks-best-bets-for-2026-27-season)
 NBA
 [NBA Finals Predictions, Picks, Best Bets for 2026-27 Season](https://www.actionnetwork.com/nba/nba-finals-predictions-picks-best-bets-for-2026-27-season)
@@ -167,5 +167,5 @@ Matt Moore
 Oct 8, 2026 EDT
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=01e93db7-492a-417e-a4fa-583f4237ab7e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf1370ab-3b85-47eb-ae24-e86699f55431&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=13&tw_session_id=1792962222794-437219623&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=01e93db7-492a-417e-a4fa-583f4237ab7e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf1370ab-3b85-47eb-ae24-e86699f55431&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=13&tw_session_id=1792962222794-437219623&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d718d2d4-6f9b-4f93-8c6c-410790974abe&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf1370ab-3b85-47eb-ae24-e86699f55431&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=7407&tw_iframe_status=0&tw_pid_src=2&tw_session_count=13&tw_session_id=1792962222794-437219623&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d718d2d4-6f9b-4f93-8c6c-410790974abe&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bf1370ab-3b85-47eb-ae24-e86699f55431&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=7407&tw_iframe_status=0&tw_pid_src=2&tw_session_count=13&tw_session_id=1792962222794-437219623&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bd582954-15c7-45ce-b4f0-2b3bcdbb48e2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93ab8d15-ddfa-43f1-be21-8c032d8e579e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=14&tw_session_id=1792965801229-703023141&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bd582954-15c7-45ce-b4f0-2b3bcdbb48e2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93ab8d15-ddfa-43f1-be21-8c032d8e579e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=14&tw_session_id=1792965801229-703023141&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=019cac5d-b326-46e5-9ad8-793d9eaa7e49&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93ab8d15-ddfa-43f1-be21-8c032d8e579e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=7431&tw_iframe_status=0&tw_pid_src=2&tw_session_count=14&tw_session_id=1792965801229-703023141&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=019cac5d-b326-46e5-9ad8-793d9eaa7e49&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93ab8d15-ddfa-43f1-be21-8c032d8e579e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fdetroit-pistons-vs-philadelphia-76ers-prediction-pick-nba-odds-sunday-october-25&tw_engaged_ms=7431&tw_iframe_status=0&tw_pid_src=2&tw_session_count=14&tw_session_id=1792965801229-703023141&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
