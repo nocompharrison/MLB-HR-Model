@@ -1,4 +1,4 @@
-<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk7.html | fetched: 2026-10-25 09:33 ET -->
+<!-- source: https://www.fftoday.com/articles/ff/26-ff-wk7.html | fetched: 2026-10-25 11:48 ET -->
 
 |   |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 [![Fantasy Football Today - fantasy football rankings, cheatsheets, and information](https://www.fftoday.com/creative/08_179_fftoday.gif)](https://www.fftoday.com/)![](https://www.fftoday.com/common/spacer_whi.gif)  
@@ -26,7 +26,7 @@ Week 7
   
   
  |  By: Nick Caron | HC Green | John Fessel | Jon Woods  
- | Updated: 10/24/26  |  
+ | Updated: 10/25/26  |  
 | --- | --- |  
 |  |  
 | --- |  
@@ -166,7 +166,7 @@ Murray looked to be playing better ball heading into the bye, but we're still ta
 **Prediction:** Vikings 24, Colts 13 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk7.html#top)  
   
 Dolphins @ Jets _- (Caron) _  
-**Line:** NYJ -4.5  
+**Line:** NYJ -4.0  
 **Total:** 39.5  
   
 ![](https://www.fftoday.com/common/logo_mia_50.gif)
@@ -197,8 +197,8 @@ Fantasy managers chasing tight end production need to look elsewhere than [Kenyo
 **Prediction:** Jets 20, Dolphins 17 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk7.html#top)  
   
 Bengals @ Ravens _- (Green)_  
-**Line:** BAL -1.5  
-**Total:** 47.5  
+**Line:** CIN -3.0  
+**Total:** 46.5  
 **  
 ![](https://www.fftoday.com/common/logo_cin_50.gif)**
 BAL FPts Allowed vs. QBs: No.27  
@@ -228,7 +228,7 @@ Andrews has done little and less this season, particularly over the last four we
   
 Browns @ Titans _- (Woods)_  
 **Line:** CLE -2.5  
-**Total:** 37.5  
+**Total:** 36.5  
   
 ![](https://www.fftoday.com/common/logo_cle_50.gif)
 TEN FPts Allowed vs. QBs: No.23  
@@ -321,7 +321,7 @@ Waller still has red-zone appeal and can make limited targets matter but with th
   
 49ers @ Falcons _- (Woods)_  
 **Line:** SF -2.5  
-**Total:** 49.5  
+**Total:** 50.5  
 **  
 ![](https://www.fftoday.com/common/logo_sf_50.gif)**
 ATL FPts Allowed vs. QBs: No.15  
@@ -399,7 +399,7 @@ I'm holding him everywhere and like the long-term fit with Stroud. But for this 
   
 Broncos @ Cardinals _- (Fessel)_  
 **Line:** DEN -4.5  
-**Total:** 42.5  
+**Total:** 43.5  
   
 ![](https://www.fftoday.com/common/logo_den_50.gif)
 ARI FPts Allowed vs. QBs: No.4  
@@ -498,8 +498,8 @@ Tucker may have another big performance or two in the right matchup, but this is
 **Prediction:** Rams 21, Raiders 17 [^ Top](https://www.fftoday.com/articles/ff/26-ff-wk7.html#top)  
   
 Packers @ Lions _- (Green)_  
-**Line:** DET -3.5  
-**Total:** 53.5  
+**Line:** DET -4.0  
+**Total:** 55.5  
   
 ![](https://www.fftoday.com/common/logo_gb_50.gif)
 DET FPts Allowed vs. QBs: No.1  
@@ -632,7 +632,7 @@ Copyright © 1998-2026 FFToday.com. All rights reserved.
  |  ![](https://www.fftoday.com/common/spacer_whi.gif)  
 Privacy Manager  |  
 | --- | --- | --- |  
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=be429de0-4fbe-89d1-0bf9-6aefb3ece051&iiqpciddate=1791468122266&tsrnd=432_1792935116887&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fftoday.com&gdpr_consent=undefined&gpc=undefined&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=be429de0-4fbe-89d1-0bf9-6aefb3ece051&iiqpciddate=1791468122266&tsrnd=388_1792943224737&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fftoday.com&gdpr_consent=undefined&gpc=undefined&gdpr=0)
 [Freestar.com](https://ads.freestar.com/?utm_campaign=branding&utm_medium=stickyFooter&utm_source=fftoday.com&utm_content=fftoday_adhesion)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&halo_id=060ixdaju6a65989c98989f9c969e969d66uokewi0e0y646i64646o6i606m606k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26auid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODEyNS1FN0xGRFcwUS1YWUQy&id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&halo_id=060ixdaju6a65989c98989f9c969e969d66uokewi0e0y646i64646o6i606m606k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468125-E7LFDW0Q-XYD2)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65989c98989f9c969e969d66uokewi0e0y646i64646o6i606m606k&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001791468125-E7LFDW0Q-XYD2&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001791468125-E7LFDW0Q-XYD2&gdpr=0)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-25 09:33 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-10-25 11:48 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,76 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Breece Hall](https://images.fantasypros.com/images/players/nfl/22982/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/breece-hall.php)
+RB - NYJ
+[» Rankings](https://www.fantasypros.com/nfl/players/breece-hall.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/breece-hall.php)  
+[» More News](https://www.fantasypros.com/nfl/news/breece-hall.php)
+[Breece Hall (quad) officially inactive for Week 7](https://www.fantasypros.com/nfl/news/615698/breece-hall-quad-officially-inactive-week-7.php)  
+
+Sun, Oct 25th 11:41am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Jets RB Breece Hall (quad) is officially inactive for a Week 7 matchup with the Dolphins.
+**_Fantasy Impact:_** Hall was expected to test his injured quad in pregame warmups, but will now miss his fourth straight game. Braelon Allen will serve as the primary running back against Miami. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tank Dell](https://images.fantasypros.com/images/players/nfl/25361/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nathaniel-dell.php)
+WR - HOU
+[» Rankings](https://www.fantasypros.com/nfl/players/nathaniel-dell.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/nathaniel-dell.php)  
+[» More News](https://www.fantasypros.com/nfl/news/nathaniel-dell.php)
+[Tank Dell (knee) officially active for Week 7](https://www.fantasypros.com/nfl/news/615697/tank-dell-knee-officially-active-week-7.php)  
+
+Sun, Oct 25th 11:38am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Texans WR Tank Dell (knee) is officially active for a Week 7 matchup with the Giants.
+**_Fantasy Impact:_** Dell was considered questionable to play but will suit up for the first time since December 2024. Fantasy managers should expect Dell to have limited fantasy value right now. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tyjae Spears](https://images.fantasypros.com/images/players/nfl/25323/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyjae-spears.php)
+RB - TEN
+[» Rankings](https://www.fantasypros.com/nfl/players/tyjae-spears.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tyjae-spears.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tyjae-spears.php)
+[Tyjae Spears (knee) officially inactive for Week 7 ](https://www.fantasypros.com/nfl/news/615696/tyjae-spears-knee-officially-inactive-week-7.php)  
+
+Sun, Oct 25th 11:36am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Titans RB Tyjae Spears (knee) is officially inactive for a Week 7 matchup with the Browns.
+**_Fantasy Impact:_** Spears continues to deal with a nagging knee injury that will keep him out this week. Tony Pollard will see the bulk of the touches out of the Titans' backfield, with Julius Chestnut serving as the backup. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Calvin Ridley](https://images.fantasypros.com/images/players/nfl/17258/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/calvin-ridley.php)
+WR - TEN
+[» Rankings](https://www.fantasypros.com/nfl/players/calvin-ridley.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/calvin-ridley.php)  
+[» More News](https://www.fantasypros.com/nfl/news/calvin-ridley.php)
+[Calvin Ridley (hip) officially inactive for Week 7](https://www.fantasypros.com/nfl/news/615695/calvin-ridley-hip-officially-inactive-week-7.php)  
+
+Sun, Oct 25th 11:35am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Titans WR Calvin Ridley (hip) is officially inactive for a Week 7 matchup with the Browns.
+**_Fantasy Impact:_** Ridley was tagged as questionable as he dealt with a hip injury that lingered throughout the week. His absence will likely open up some playing time for a few depth wide receivers on the roster. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dylan Sampson](https://images.fantasypros.com/images/players/nfl/27102/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dylan-sampson.php)
+RB - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/dylan-sampson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/dylan-sampson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/dylan-sampson.php)
+[Dylan Sampson (knee) officially active for Week 7 ](https://www.fantasypros.com/nfl/news/615694/dylan-sampson-knee-officially-active-week-7.php)  
+
+Sun, Oct 25th 11:33am EDT  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Browns RB Dylan Sampson (knee) is officially active for Week 7.
+**_Fantasy Impact:_** Sampson was considered questionable to play against the Titans, but will serve as the backup to Quinshon Judkins in a plus matchup against Tennessee. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Rico Dowdle](https://images.fantasypros.com/images/players/nfl/19647/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/rico-dowdle.php)
 RB - PIT
 [» Rankings](https://www.fantasypros.com/nfl/players/rico-dowdle.php)  
@@ -175,20 +245,6 @@ Jalen Pitre (shoulder) is unavailable for Sunday's game against the New York Gia
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Tank Dell](https://images.fantasypros.com/images/players/nfl/25361/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nathaniel-dell.php)
-WR - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/nathaniel-dell.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/nathaniel-dell.php)  
-[» More News](https://www.fantasypros.com/nfl/news/nathaniel-dell.php)
-[Tank Dell (knee) officially listed questionable for Sunday](https://www.fantasypros.com/nfl/news/615566/tank-dell-knee-officially-listed-questionable-sunday.php)  
-
-Fri, Oct 23rd 5:29pm EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Tank Dell (knee) is officially listed as questionable to play in Sunday's game against the New York Giants. (Source: [Houston Texans PR on Twitter](https://x.com/TexansPR/status/2113727219541348716))
-**_Fantasy Impact:_** Dell is officially listed questionable to play on Sunday, but it was reported earlier in the week that he is going to play, so it seems likely that he is going to suit up against the Giants. Fantasy managers shouldn't expect him to be fantasy relevant even if active, however.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Reed Blankenship](https://images.fantasypros.com/images/players/nfl/22754/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/reed-blankenship.php)
 S - HOU
 [» Rankings](https://www.fantasypros.com/nfl/players/reed-blankenship.php)  
@@ -228,62 +284,6 @@ Fri, Oct 23rd 5:23pm EDT
 By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
 David Montgomery (groin) has been ruled out for Sunday's game against the New York Giants. (Source: [Houston Texans PR on Twitter](https://x.com/TexansPR/status/2113727219541348716))
 **_Fantasy Impact:_** The veteran running back is going to miss another game on Sunday. He's still dealing with a groin issue of some kind, and it remains to be seen how much longer it will leave him sidelined. Woody Marks and Jawhar Jordan will both continue to see more work for however long Montgomery remains sidelined.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Blake Fisher](https://images.fantasypros.com/images/players/nfl/26138/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/blake-fisher.php)
-OT - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/blake-fisher.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/blake-fisher.php)  
-[» More News](https://www.fantasypros.com/nfl/news/blake-fisher.php)
-[Blake Fisher (thumb) sidelined for Sunday](https://www.fantasypros.com/nfl/news/615562/blake-fisher-thumb-sidelined-sunday.php)  
-
-Fri, Oct 23rd 5:21pm EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Blake Fisher (thumb) will be sidelined for Sunday's game against the New York Giants. (Source: [Houston Texans PR on Twitter](https://x.com/TexansPR/status/2113727219541348716))
-**_Fantasy Impact:_** The veteran was sidelined at practice all week due to a thumb issue, and it will officially leave him sidelined for Sunday's game against the Giants. Houston's offensive front will be weaker than usual with him out of the lineup.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trent Brown](https://images.fantasypros.com/images/players/nfl/15435/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trent-brown.php)
-OL - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/trent-brown.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/trent-brown.php)  
-[» More News](https://www.fantasypros.com/nfl/news/trent-brown.php)
-[Trent Brown (wrist) cleared to play Sunday](https://www.fantasypros.com/nfl/news/615561/trent-brown-wrist-cleared-to-play-sunday.php)  
-
-Fri, Oct 23rd 5:20pm EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Trent Brown (wrist) was cleared to play in Sunday's game against the New York Giants. (Source: [Houston Texans PR on Twitter](https://x.com/TexansPR/status/2113727219541348716))
-**_Fantasy Impact:_** The veteran lineman will be good to go for Week 7, despite missing a practice earlier in the week due to a wrist issue. He will continue to be a key starter on Houston's offensive front moving forward.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Dalton Schultz](https://images.fantasypros.com/images/players/nfl/17349/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dalton-schultz.php)
-TE - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/dalton-schultz.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/dalton-schultz.php)  
-[» More News](https://www.fantasypros.com/nfl/news/dalton-schultz.php)
-[Dalton Schultz (quad) good to go Sunday](https://www.fantasypros.com/nfl/news/615560/dalton-schultz-quad-good-to-go-sunday.php)  
-
-Fri, Oct 23rd 5:18pm EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Dalton Schultz (quad) is good to go for Sunday's game against the New York Giants. (Source: [Houston Texans PR on Twitter](https://x.com/TexansPR/status/2113727219541348716))
-**_Fantasy Impact:_** The veteran was dealing with a quad injury at practice throughout the week, but it's not a serious issue at this point and won't prevent him from playing in Week 7. He will continue to be a decent week-to-week streaming option in PPR formats moving forward.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nick Bosa](https://images.fantasypros.com/images/players/nfl/18199/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/nick-bosa.php)
-DE - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/nick-bosa.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/nick-bosa.php)  
-[» More News](https://www.fantasypros.com/nfl/news/nick-bosa.php)
-[Nick Bosa (knee/calf) ruled out for Sunday](https://www.fantasypros.com/nfl/news/615559/nick-bosa-kneecalf-ruled-out-sunday.php)  
-
-Fri, Oct 23rd 5:13pm EDT  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Nick Bosa (knee/calf) was ruled out for Sunday's game against the Atlanta Falcons. (Source: [San Francisco 49ers](https://www.49ers.com/team/injury-report/))
-**_Fantasy Impact:_** Bosa will miss yet another game while recovering from a pair of injuries. San Francisco's defensive front will continue to operate at less than full capacity until he's back in the lineup.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
