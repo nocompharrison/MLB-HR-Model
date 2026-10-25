@@ -1,18 +1,10 @@
-# NBA transcripts | 2026-10-24 | updated 2026-10-24 18:05 ET
+# NBA transcripts | 2026-10-25 | updated 2026-10-25 12:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 12 files in NBA/transcripts/2026-10-24:
-NBA/transcripts/2026-10-24/45ndCxYx_sk_JayMoney_Saturday_NBA_Talk_With_Jay_Money_Shark_10_24_26_Free_NBA_Picks_Sports.txt
-NBA/transcripts/2026-10-24/F8lefEP7tE4_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_23_26.txt
-NBA/transcripts/2026-10-24/HOZgFfZ1pgk_ShipItNation_NBA_DFS_Process_October_24_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
-NBA/transcripts/2026-10-24/HcKwVUpMzew_WagerTalk_BEST_NBA_Picks_Today_Predictions_Props_for_Friday_10_23_PROFIT_PICKS.txt
-NBA/transcripts/2026-10-24/NM52Deb0QPg_NBAGamblingPod_NBA_Friday_Picks_10_23_26_NBA_Bets_Player_Props_and_Predictions.txt
-NBA/transcripts/2026-10-24/Ns3XCXHZBeI_Stokastic_NBA_DFS_Live_Before_Lock_Friday_10_23_26_DraftKings_FanDuel_NBA_Lineup.txt
-NBA/transcripts/2026-10-24/Q7YxHPtj9D8_LockedOnNBA_BEST_NBA_NIGHT_EVER_YOU_HAD_TO_BE_THERE.txt
-NBA/transcripts/2026-10-24/ScSQsXZKoDk_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_24th.txt
-NBA/transcripts/2026-10-24/_-_wuRqK0hw_JayMoney_Night_Time_NBA_Talk_With_Jay_Money_Free_Overnight_NBA_Picks.txt
-NBA/transcripts/2026-10-24/gllpWqnygns_WagerTalk_NBA_Picks_Today_Best_Bets_Friday_10_23_PROFIT_PICKS.txt
-NBA/transcripts/2026-10-24/matJZYc-RvY_LockedOnNBA_BUCKS_POSTCAST_Bucks_STUMBLE_Late_AGAIN_Bulls_SPOIL_Milwaukee_s_Home_O.txt
-NBA/transcripts/2026-10-24/qp19p8Hzye0_LockedOnNBA_SPURS_POSTCAST_Amen_Thompson_Silences_Wembanyama_as_Rockets_Edge_Spurs.txt
+# 4 files in NBA/transcripts/2026-10-25:
+NBA/transcripts/2026-10-25/75UZDNvJLUs_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_24_26.txt
+NBA/transcripts/2026-10-25/NqAFY6M0lYQ_LockedOnNBA_Are_the_Miami_Heat_Already_in_PANIC_Mode_After_NIGHTMARE_Start_Golden.txt
+NBA/transcripts/2026-10-25/UVn3g4vHxXM_LockedOnNBA_NUGGETS_POSTCAST_Denver_Rallies_from_20_Down_for_EPIC_Comeback_vs_Peli.txt
+NBA/transcripts/2026-10-25/ciEH50kOkdc_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_October_25th.txt
 
 # this run:
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
@@ -20,17 +12,18 @@ NONE    channel SGPN: nothing new in the date window (or everything already save
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
-NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-25/75UZDNvJLUs_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_24_26.txt  (12,346 words)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-25/NqAFY6M0lYQ_LockedOnNBA_Are_the_Miami_Heat_Already_in_PANIC_Mode_After_NIGHTMARE_Start_Golden.txt  (6,496 words)
+NEW     NBA/transcripts/2026-10-25/UVn3g4vHxXM_LockedOnNBA_NUGGETS_POSTCAST_Denver_Rallies_from_20_Down_for_EPIC_Comeback_vs_Peli.txt  (4,027 words)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
-NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-UPCOMING JayMoney 9dmcmheipeY Night Time NBA Talk With Jay  Money Sunday Overnight NBA Pic  (not aired yet - scheduled for 10/25/26 12:35AM)
+NEW     NBA/transcripts/2026-10-25/ciEH50kOkdc_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_October_25th.txt  (3,028 words)
+UPCOMING JayMoney PLN-irLDYDM Sunday NBA Talk With Jay Money Members Show  (not aired yet - scheduled for 10/25/26 1:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
