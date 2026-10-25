@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-10-25 | updated 2026-10-25 17:05 ET
+# NBA transcripts | 2026-10-25 | updated 2026-10-25 18:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-10-25:
 NBA/transcripts/2026-10-25/75UZDNvJLUs_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_24_26.txt
