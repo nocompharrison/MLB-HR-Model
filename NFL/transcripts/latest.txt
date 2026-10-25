@@ -1,6 +1,6 @@
-# NFL transcripts | week 7 | updated 2026-10-25 07:46 ET
+# NFL transcripts | week 7 | updated 2026-10-25 11:55 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 98 files in NFL/transcripts/week-07:
+# 99 files in NFL/transcripts/week-07:
 NFL/transcripts/week-07/-N0Sh593rdM_ShipItNation_NFL_DFS_Week_7_Leverage_Lane_DraftKings_FanDuel_Strategy.txt
 NFL/transcripts/week-07/079Ogm0fcgg_DFSArmy_NFL_DFS_Week_7_The_Best_DraftKings_Stacks.txt
 NFL/transcripts/week-07/1JdCspayS2k_SGPN_Broncos_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_7.txt
@@ -45,6 +45,7 @@ NFL/transcripts/week-07/Oc6hlWx8NFU_FootballersDFS_Week_7_DFS_Picks_Sorting_Out_
 NFL/transcripts/week-07/Oe93CPt90t4_PlayerProfiler_Which_Offenses_Can_We_Still_Trust_JJ_McCarthy_Cowboys_Bears_Broncos_Fa.txt
 NFL/transcripts/week-07/OtWynERflvo_SGPN_Giants_vs_Texans_Prediction_Picks_Best_Bets_NFL_Week_7.txt
 NFL/transcripts/week-07/P_QuyP2KauY_ShipItNation_NFL_DFS_Week_7_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_and.txt
+NFL/transcripts/week-07/PwRiLvERuD8_SportsLine_NFL_Week_7_Best_Bets_Picks_for_EVERY_1PM_ET_Game.txt
 NFL/transcripts/week-07/PwtR4v4_xes_DFSArmy_10_Week_7_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt
 NFL/transcripts/week-07/Q7qzMqdmbFA_BettingPros_BEST_BETS_for_Thursday_Night_Football_NFL_Picks_Predictions_for_Patrio.txt
 NFL/transcripts/week-07/SJFuzX6hsIM_TheAudible_Which_New_England_Running_Back_Should_You_Drop_To_Set_a_Fantasy_Footba.txt
@@ -104,23 +105,20 @@ NFL/transcripts/week-07/yuhprnZ_1-Y_FootballersDFS_Week_7_NFL_Preview_Win_Total_
 NONE    channel Footballers: nothing new in the date window (or everything already saved)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-07/nmO1xtBA9Og_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_7_on_DraftKings_FanDuel.txt  (9,743 words)
+NOCAPS  RotoGrinders EiROz9YAkjo LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: still live - audio not final yet)
 UPCOMING RotoGrinders nVuiFkkwM30 Cowboys vs. Eagles MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/26/26 7:30PM)
-UPCOMING RotoGrinders aAcuelZbMBQ Chiefs vs. Seahawks SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 10/25/26 7:30PM)
-NEW     NFL/transcripts/week-07/-N0Sh593rdM_ShipItNation_NFL_DFS_Week_7_Leverage_Lane_DraftKings_FanDuel_Strategy.txt  (21,583 words)
+NOCAPS  ShipItNation yvJdNnatuQw NFL DFS Week 7 Contrarian Constructions | Main Slate DraftKi  (no captions; Groq: still live - audio not final yet)
+NOCAPS  ShipItNation Ggpk_Dss3-8 NFL DFS Week 7 Sunday Shippers | Main Slate DraftKings & Fan  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING ShipItNation Lqr7Og_tC7Q Chiefs vs Seahawks NFL DFS Showdown | SNF Week 7 Sunday Swea  (not aired yet - scheduled for 10/25/26 6:00PM)
-UPCOMING ShipItNation yvJdNnatuQw NFL DFS Week 7 Contrarian Constructions | Main Slate DraftKi  (not aired yet - scheduled for 10/25/26 11:30AM)
-UPCOMING ShipItNation Ggpk_Dss3-8 NFL DFS Week 7 Sunday Shippers | Main Slate DraftKings & Fan  (not aired yet - scheduled for 10/25/26 9:00AM)
 UPCOMING SGPN WcmklTZMCKA Cowboys vs Eagles LIVE Watch Party | Monday Night Football L  (not aired yet - scheduled for 10/26/26 8:00PM)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
-UPCOMING ActionNetwork ki7a6Cv-_7s NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (not aired yet - scheduled for 10/25/26 11:00AM)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+NOCAPS  ActionNetwork ki7a6Cv-_7s NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  DFSArmy NDlnpz-K6rs NFL Week 7 | DFS Pre-Lock Show | DFS Army  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-07/_uCJ1tdL88A_TheAudible_Week_7_Ask_Me_Anything_Livestream_with_Bob_Harris.txt  (11,257 words)
-UPCOMING PlayerProfiler D9Hpd5Wevn4 Week 7  Start/Sits with Chuck Bass and The Podfather  (not aired yet - scheduled for 10/25/26 9:00AM)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-07/hEG1HKZXugY_BettingPros_Top_3_Bets_for_Sunday_NFL_Week_7_Betting_Picks_Game_Predictions.txt  (2,062 words)
+NONE    channel TheAudible: nothing new in the date window (or everything already saved)
+NOCAPS  PlayerProfiler D9Hpd5Wevn4 Week 7  Start/Sits with Chuck Bass and The Podfather  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  Stokastic 6ixstVPngqc NFL DFS Live Before Lock | Week 7 NFL DFS Picks for DraftKin  (no captions; Groq: still live - audio not final yet)
 UPCOMING BettingPros 9KC4WxNIPe4 Sunday NFL Week 7 Best Bets | Expert Picks, Predictions & Pl  (not aired yet - scheduled for 10/25/26 12:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/PwRiLvERuD8_SportsLine_NFL_Week_7_Best_Bets_Picks_for_EVERY_1PM_ET_Game.txt  (5,640 words)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
