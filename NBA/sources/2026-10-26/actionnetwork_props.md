@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-4-best-bets-for-monday-october-26 | fetched: 2026-10-26 17:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-4-best-bets-for-monday-october-26 | fetched: 2026-10-26 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -76,22 +76,29 @@ Today
 /
 7:00 PM on DAZN-MIN
 •
-14.2k bets
+17.2k bets
 A.Dosunmu o11.5 Pts
 -125 (1u)
 Copy Bet
 https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-cleveland-cavaliers-prediction-pick-nba-odds-monday-october-26
 More
-![MIN](https://assets.actionnetwork.com/640928_Lynx.png)
-![NY](https://static.sprtactn.co/teamlogos/wnba/100/nyl.png)
-Lynx @ Liberty Picks
-Sep 29th
+![DAL](https://static.sprtactn.co/teamlogos/nba/100/dal.png)
+![MIA](https://static.sprtactn.co/teamlogos/nba/100/mia.png)
+Mavericks @ Heat Picks
+Today
 /
-8:30 PM on USA
+7:30 PM on NBA TV
 •
-13.9k bets
-Fiebich Double Double
-+4800 (0.05u)
+15.1k bets
+D.Mitchell o6.5 Ast
+-141 (1u)
+Copy Bet
+https://www.actionnetwork.com/nba/nba-player-props-4-best-bets-for-monday-october-26
+More
+D.Mitchell Double-Double Yes
++550 (0.15u)
+![FanDuel NJ](https://assets.actionnetwork.com/392973_FanDuel.png)
+Bet Now
 Copy Bet
 See All
 * * *
@@ -165,58 +172,58 @@ Giannis Antetokounmpo 30+ Points (-125)
 NBA
 [NBA Predictions Tonight: 7 Picks for Monday, October 26](https://www.actionnetwork.com/nba/nba-predictions-picks-7-best-bets-for-monday-october-26)
 Action Network Staff
-2 hours ago
+3 hours ago
 [![NBA Expert Bets Today: 3 Spread & Total Picks for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/NBAMoore102626.jpg)](https://www.actionnetwork.com/nba/nba-expert-bets-today-3-spread-total-picks-for-monday-october-26)
 NBA
 [NBA Expert Bets Today: 3 Spread & Total Picks for Monday, October 26](https://www.actionnetwork.com/nba/nba-expert-bets-today-3-spread-total-picks-for-monday-october-26)
 Matt Moore
-5 hours ago
+6 hours ago
 [![NBA Parlay Picks: Hawks vs Rockets and Grizzlies vs Jazz on Monday, October 26](https://images.actionnetwork.com/blog/2026/10/NBA-SGP-Playbook-10_26_26.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-hawks-vs-rockets-and-grizzlies-vs-jazz-on-monday-october-26)
 NBA
 [NBA Parlay Picks: Hawks vs Rockets and Grizzlies vs Jazz on Monday, October 26](https://www.actionnetwork.com/nba/nba-parlay-picks-hawks-vs-rockets-and-grizzlies-vs-jazz-on-monday-october-26)
 Alex Hinton
-1 hour ago
+2 hours ago
 [![NBA Moneyline Picks: 2 Upset Predictions for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/MInions-Monday-NBA-Underdogs-Parlay-10_26_26.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-monday-october-26)
 NBA
 [NBA Moneyline Picks: 2 Upset Predictions for Monday, October 26](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-monday-october-26)
 Ryan Minion
-3 hours ago
+4 hours ago
 [![NBA Total Predictions, Over/Under Picks for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/nba-total-predictions-over-under-picks-for-monday-october-26-1.jpg)](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-monday-october-26)
 NBA
 [NBA Total Predictions, Over/Under Picks for Monday, October 26](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-monday-october-26)
 Ameer Tyree
-1 hour ago
+2 hours ago
 [![Timberwolves vs Cavaliers Predictions, Odds, Picks, NBA Monday Preview](https://images.actionnetwork.com/blog/2026/10/ayo102626.jpg)](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-cleveland-cavaliers-prediction-pick-nba-odds-monday-october-26)
 NBA
 [Timberwolves vs Cavaliers Predictions, Odds, Picks, NBA Monday Preview](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-cleveland-cavaliers-prediction-pick-nba-odds-monday-october-26)
 Joe Dellera
-30 mins ago
-[![Wizards vs Hornets Prediction, Pick, NBA Odds for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/Wizards-vs-Hornets-10.26.26.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-charlotte-hornets-prediction-pick-nba-odds-monday-october-26)
+1 hour ago
+[![Wizards vs Hornets Predictions, Odds, Picks, NBA Monday Preview](https://images.actionnetwork.com/blog/2026/10/Wizards-vs-Hornets-10.26.26.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-charlotte-hornets-prediction-pick-nba-odds-monday-october-26)
 NBA
-[Wizards vs Hornets Prediction, Pick, NBA Odds for Monday, October 26](https://www.actionnetwork.com/nba/washington-wizards-vs-charlotte-hornets-prediction-pick-nba-odds-monday-october-26)
+[Wizards vs Hornets Predictions, Odds, Picks, NBA Monday Preview](https://www.actionnetwork.com/nba/washington-wizards-vs-charlotte-hornets-prediction-pick-nba-odds-monday-october-26)
 Matt Moore
-7 hours ago
+59 mins ago
 [![Mavericks vs Heat Predictions, Odds, Picks: NBA Monday Preview](https://images.actionnetwork.com/blog/2026/10/HeatMavs1026.jpg)](https://www.actionnetwork.com/nba/dallas-mavericks-vs-miami-heat-prediction-pick-odds-nba-monday-october-26)
 NBA
 [Mavericks vs Heat Predictions, Odds, Picks: NBA Monday Preview](https://www.actionnetwork.com/nba/dallas-mavericks-vs-miami-heat-prediction-pick-odds-nba-monday-october-26)
 Bryan Fonseca
-18 mins ago
+1 hour ago
 [![Hawks vs Rockets Prediction, Pick, NBA Odds for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/Hawks-vs-Rockets-10_26_26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-houston-rockets-prediction-pick-odds-nba-monday-october-26)
 NBA
 [Hawks vs Rockets Prediction, Pick, NBA Odds for Monday, October 26](https://www.actionnetwork.com/nba/atlanta-hawks-vs-houston-rockets-prediction-pick-odds-nba-monday-october-26)
 Bryan Fonseca
-7 hours ago
+8 hours ago
 [![Sports Equinox Betting Guide: NFL, NBA, MLB, NHL, WNBA Picks for Monday](https://images.actionnetwork.com/blog/2026/10/sports-equinox.png)](https://www.actionnetwork.com/nfl/sports-equinox-betting-guide-nfl-nba-mlb-nhl-wnba-picks-for-monday)
 NFL
 [Sports Equinox Betting Guide: NFL, NBA, MLB, NHL, WNBA Picks for Monday](https://www.actionnetwork.com/nfl/sports-equinox-betting-guide-nfl-nba-mlb-nhl-wnba-picks-for-monday)
 Action Network Staff
-6 hours ago
+7 hours ago
 [![Bulls vs Celtics Prediction, Pick, NBA Odds for Monday, October 26](https://images.actionnetwork.com/blog/2026/10/Bulls-vs-Celtics-10_26_26.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-boston-celtics-prediction-pick-odds-nba-monday-october-26)
 NBA
 [Bulls vs Celtics Prediction, Pick, NBA Odds for Monday, October 26](https://www.actionnetwork.com/nba/chicago-bulls-vs-boston-celtics-prediction-pick-odds-nba-monday-october-26)
 Action Network Staff
-6 hours ago
+7 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7da5088c-fdcc-470b-9584-aed3b716c495&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d30b96a5-667a-4776-af1f-d2f6d5426ffd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=16&tw_session_id=1793048598685-209952564&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7da5088c-fdcc-470b-9584-aed3b716c495&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d30b96a5-667a-4776-af1f-d2f6d5426ffd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=16&tw_session_id=1793048598685-209952564&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9e075d43-efd8-4722-931f-a37a406e2eab&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d30b96a5-667a-4776-af1f-d2f6d5426ffd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=7426&tw_iframe_status=0&tw_pid_src=2&tw_session_count=16&tw_session_id=1793048598685-209952564&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9e075d43-efd8-4722-931f-a37a406e2eab&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d30b96a5-667a-4776-af1f-d2f6d5426ffd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=7426&tw_iframe_status=0&tw_pid_src=2&tw_session_count=16&tw_session_id=1793048598685-209952564&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4088026b-8ad0-4bc3-aee6-141f57521fb2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f722cc67-8d41-4d7a-8d06-58a00306ec59&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=17&tw_session_id=1793052197783-879039117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4088026b-8ad0-4bc3-aee6-141f57521fb2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f722cc67-8d41-4d7a-8d06-58a00306ec59&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=17&tw_session_id=1793052197783-879039117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d7506ae2-3d7f-42a1-924a-d2b7a659c7f6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f722cc67-8d41-4d7a-8d06-58a00306ec59&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=7530&tw_iframe_status=0&tw_pid_src=2&tw_session_count=17&tw_session_id=1793052197783-879039117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d7506ae2-3d7f-42a1-924a-d2b7a659c7f6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f722cc67-8d41-4d7a-8d06-58a00306ec59&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-4-best-bets-for-monday-october-26&tw_engaged_ms=7530&tw_iframe_status=0&tw_pid_src=2&tw_session_count=17&tw_session_id=1793052197783-879039117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

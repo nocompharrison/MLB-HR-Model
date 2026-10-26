@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-26 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-26 18:05 ET -->
 
 # NBA DFS Picks Today
 October 26, 2026
@@ -21,37 +21,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Monday, October 26 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Atlanta Hawks (ATL @ HOU) Boston Celtics (CHI @ BOS) Charlotte Hornets (WSH @ CHA) Chicago Bulls (CHI @ BOS) Cleveland Cavaliers (MIN @ CLE) Dallas Mavericks (DAL @ MIA) Denver Nuggets (GSW @ DEN) Golden State Warriors (GSW @ DEN) Houston Rockets (ATL @ HOU) Indiana Pacers (IND @ MIL) Memphis Grizzlies (MEM @ UTA) Miami Heat (DAL @ MIA) Milwaukee Bucks (IND @ MIL) Minnesota Timberwolves (MIN @ CLE) Oklahoma City Thunder (PHX @ OKC) Phoenix Suns (PHX @ OKC) Utah Jazz (MEM @ UTA) Washington Wizards (WSH @ CHA)
+Minnesota TimberwolvesMIN @ CLE - 7:00 PM ET
+**[Anthony Edwards](https://www.rotowire.com/basketball/player/anthony-edwards-5110)** _G_ _Top_ 5:45 PM ET
+#### Upgraded to available
+Edwards (knee) is available for Monday's game against Cleveland.
+Analysis
+The Timberwolves were considering a maintenance day for the superstar guard, but Edwards is suiting up for the second end of this back-to-back set. He should be able to handle a normal workload Monday, barring any setbacks.
+Washington WizardsWSH @ CHA - 7:00 PM ET
+**[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)** _F_ OUT _Top_ 5:43 PM ET
+#### Participating in on-court drills Tuesday
+Dybantsa, who has been ruled out for Monday's game against the Hornets, is progressing well from a left ankle sprain and will take part in on-court activities Tuesday, Josh Robbins of The Athletic reports.
+Analysis
+Dybantsa hasn't been cleared to make his NBA debut after picking up a left ankle sprain in the team's preseason finale. However, he's trending in the right direction according to coach Brian Keefe, hinting that a return either Wednesday against Cleveland or Friday against Charlotte could be on the table. Washington should have another update on the rookie's status after he goes through practice Tuesday.
+Chicago BullsCHI @ BOS - 7:30 PM ET
+**[Patrick Williams](https://www.rotowire.com/basketball/player/patrick-williams-5122)** _F_ OUT5:33 PM ET
+#### Out again Monday
+Williams (groin) has been ruled out for Monday's game against the Celtics.
+Analysis
+Williams is in line for a second straight absence due to right groin/adductor soreness. He's yet to appear in a game this season for Chicago even when healthy.
+Chicago BullsCHI @ BOS - 7:30 PM ET
+**[Noa Essengue](https://www.rotowire.com/basketball/player/noa-essengue-6586)** _F_ 5:32 PM ET
+#### Cleared to play
+Essengue (head) is available for Monday's game against Boston.
+Analysis
+Essengue was held out of Saturday's clash against Washington after being diagnosed with a head contusion, but the issue won't force him to miss any additional action. He's totaled five points, four rebounds, one assist, three steals and one blocks in 27 total minutes through his first two appearances of the 2026-27 campaign.
 Memphis GrizzliesMEM @ UTA - 9:00 PM ET
 **[Taylor Hendricks](https://www.rotowire.com/basketball/player/taylor-hendricks-5903)** _F_ 4:14 PM ET
 #### Makes season debut
 Hendricks amassed zero points (0-2 FG, 0-2 3Pt) and one rebound in seven minutes during Sunday's 123-112 win over the Kings.
 Analysis
 Hendricks entered the Memphis rotation for the first time this season after going unused off the bench for the team's first two games. However, he appears to be well behind Isaiah Stewart (ankle), who is listed as questionable for Monday's game at Utah, Jerami Grant and Quinten Post in the frontcourt pecking order.
-Oklahoma City ThunderPHX @ OKC - 8:00 PM ET
-**[Nikola Topic](https://www.rotowire.com/basketball/player/nikola-topic-6256)** _G_ OUT3:24 PM ET
-#### Remains out Monday
-Topic (back) won't play in Monday's game against the Suns, Andrew Schlecht of The Athletic reports.
-Analysis
-There was an error on the Thunder's initial injury report, so both Thomas Sorber (knee) and Topic will remain sidelined Monday. He's without a clear timetable for a return to action.
-Oklahoma City ThunderPHX @ OKC - 8:00 PM ET
-**[Thomas Sorber](https://www.rotowire.com/basketball/player/thomas-sorber-6544)** _C_ OUT3:23 PM ET
-#### Ruled out after all
-Sorber (knee) is out for Monday's game versus the Suns, per Andrew Schlecht of The Athletic.
-Analysis
-It appeared earlier Monday on the Thunder's injury report that Sorber was ready to make his season debut, but it was a clerical error. Sorber's return timeline remains in the dark due to offseason knee surgery.
-Memphis GrizzliesMEM @ UTA - 9:00 PM ET
-**[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)** _C_ Q3:17 PM ET
-#### Iffy to face Utah
-Stewart is listed as questionable for Monday's game against the Jazz due to left ankle injury management.
-Analysis
-Stewart may be held out of the second leg of this back-to-back set after posting 13 points, five rebounds, two assists, two blocks and a steal across 22 minutes while starting in the absence of Zach Edey (injury management) during Sunday's win over Sacramento. If Stewart is ultimately ruled out, Quinten Post would likely see increased playing time behind Edey.
-Memphis GrizzliesMEM @ UTA - 9:00 PM ET
-**[Karim Lopez](https://www.rotowire.com/basketball/player/karim-lopez-6915)** _F_ Q3:16 PM ET
-#### Listed as questionable
-Lopez (knee) is questionable for Monday's game in Utah.
-Analysis
-The rookie first-rounder has a chance to be cleared for his NBA debut Monday. However, Lopez may not see meaningful playing time even if he's available Monday.
-Show 5 more (36 remaining)
+Show 5 more (40 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -66,9 +66,9 @@ WizardsExpectedAway
 _Implied_**112.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 25.4  |  
+| C  | Alex Sarr  | -  | 25.3  |  
 | PF  | Anthony Davis  | $8,700  | 39.9  |  
-| PG  | Trae Young  | $8,200  | 40.9  |  
+| PG  | Trae Young  | $8,200  | 40.8  |  
 | SF  | Bilal Coulibaly  | $4,700  | 23.1  |  
 | SG  | Kyshawn George  | $5,800  | 27.1  |  
 HornetsExpectedHome
@@ -77,22 +77,22 @@ _Implied_**115.0** _Spread_**-2.5**
 | --- | --- | --- | --- |  
 | C  | Moussa Diabate  | $5,400  | 30.4  |  
 | PF  | Naz ReidP  | $7,100  | 38.1  |  
-| PG  | Dennis Schroder  | $5,600  | 31.1  |  
-| SF  | Brandon Miller  | $7,700  | 41.6  |  
+| PG  | Dennis Schroder  | $5,600  | 31.2  |  
+| SF  | Brandon Miller  | $7,700  | 41.7  |  
 | SG  | Sion James  | $4,000  | 20.7  |  
 **MIN @ CLE**
-O/U 231.57:00 PM ET
+O/U 234.27:00 PM ET
 TimberwolvesExpectedAway
-_Implied_**113.5** _Spread_**+4.5**  
+_Implied_**115.5** _Spread_**+3.0**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $5,700  | 32.3  |  
 | PF  | Jaden McDaniels  | $6,100  | 26.9  |  
 | PG  | LaMelo Ball  | $7,800  | 39.6  |  
 | SF  | Jonathan Kuminga  | $5,300  | 29.0  |  
-| SG  | Anthony EdwardsQ  | $9,300  | 38.9  |  
+| SG  | Anthony Edwards  | $9,300  | 38.9  |  
 CavaliersExpectedHome
-_Implied_**118.0** _Spread_**-4.5**  
+_Implied_**118.7** _Spread_**-3.0**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,300  | 30.8  |  
@@ -101,25 +101,25 @@ _Implied_**118.0** _Spread_**-4.5**
 | SF  | Peyton Watson  | $5,200  | 27.3  |  
 | SG  | Donovan Mitchell  | $8,500  | 43.3  |  
 **CHI @ BOS**
-O/U 232.57:30 PM ET
+O/U 233.57:30 PM ET
 BullsExpectedAway
-_Implied_**109.0** _Spread_**+14.5**  
+_Implied_**110.0** _Spread_**+13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,500  | 26.7  |  
 | PF  | Caleb Wilson  | $7,300  | 33.5  |  
-| PG  | Josh Giddey  | $8,100  | 37.1  |  
+| PG  | Josh Giddey  | $8,100  | 37.2  |  
 | SF  | Matas Buzelis  | $6,500  | 30.6  |  
 | SG  | Norman Powell  | $6,400  | 29.0  |  
 CelticsExpectedHome
-_Implied_**123.5** _Spread_**-14.5**  
+_Implied_**123.5** _Spread_**-13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Mitchell Robinson  | $4,300  | 24.1  |  
 | PF  | Jordan Walsh  | $3,500  | 14.2  |  
-| PG  | Derrick White  | $6,700  | 36.9  |  
-| SF  | Jayson Tatum  | $9,500  | 49.8  |  
-| SG  | Paul George  | $6,800  | 32.9  |  
+| PG  | Derrick White  | $6,700  | 36.8  |  
+| SF  | Jayson Tatum  | $9,500  | 49.7  |  
+| SG  | Paul George  | $6,800  | 32.8  |  
 **DAL @ MIA**
 O/U 241.57:30 PM ET
 MavericksExpectedAway
@@ -245,20 +245,20 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Miles BridgesPHX · PF · PHX@OKC  | $6,500  | 11.3  | 32.7  | **60.6**  |   | 151%  | 9.3  | 59  |  
-| 2  |  Kyshawn GeorgeWAS · SG · WAS@CHA  | $5,800  | 8.3  | 27.1  | **52.7**  |   | 164%  | 9.1  | 57  |  
+| 2  |  Kyshawn GeorgeWAS · SG · WAS@CHA  | $5,800  | 8.3  | 27.1  | **52.6**  |   | 164%  | 9.1  | 57  |  
 | 3  |  Onyeka OkongwuATL · C · ATL@HOU  | $5,900  | 11.6  | 32.5  | **60.4**  |   | 150%  | 10.2  | 57  |  
-| 4  |  Grayson AllenCHA · SG/SF · WAS@CHA  | $5,300  | 10.9  | 30.8  | **57.5**  |   | 152%  | 10.8  | 57  |  
+| 4  |  Grayson AllenCHA · SG/SF · WAS@CHA  | $5,300  | 10.9  | 30.8  | **57.5**  |   | 151%  | 10.8  | 57  |  
 | 5  |  Sion JamesCHA · SG/SF · WAS@CHA  | $4,000  | 5.3  | 20.7  | **42.7**  |   | 180%  | 10.7  | 56  |  
 | 6  |  Myles TurnerMIL · C · IND@MIL  | $5,200  | 10.6  | 30.5  | **57.1**  |   | 152%  | 11.0  | 56  |  
 | 7  |  Collin GillespiePHX · PG · PHX@OKC  | $4,700  | 8.7  | 27.5  | **53.2**  |   | 162%  | 11.3  | 55  |  
 | 8  |  Alex CarusoOKC · SF/PF · PHX@OKC  | $4,100  | 8.1  | 26.5  | **51.5**  |   | 164%  | 12.6  | 55  |  
-| 9  |  Caleb WilsonCHI · PF · CHI@BOS  | $7,300  | 11.9  | 33.5  | **61.3**  |   | 147%  | 8.4  | 55  |  
+| 9  |  Caleb WilsonCHI · PF · CHI@BOS  | $7,300  | 12.0  | 33.5  | **61.3**  |   | 147%  | 8.4  | 55  |  
 | 10  |  Peyton WatsonCLE · SF/PF · MIN@CLE  | $5,200  | 8.4  | 27.3  | **52.6**  |   | 162%  | 10.1  | 55  |  
 | 11  |  Jabari SmithHOU · PF/C · ATL@HOU  | $6,700  | 10.1  | 29.8  | **55.7**  |   | 153%  | 8.3  | 55  |  
 | 12  |  Matas BuzelisCHI · SF/PF · CHI@BOS  | $6,500  | 10.9  | 30.6  | **57.2**  |   | 151%  | 8.8  | 54  |  
 | 13  |  P.J. WashingtonDAL · PF · DAL@MIA  | $5,800  | 12.1  | 33.5  | **61.3**  |   | 147%  | 10.6  | 54  |  
 | 14  |  Ryan RollinsMIL · PG · IND@MIL  | $6,300  | 12.0  | 32.7  | **60.6**  |   | 149%  | 9.6  | 54  |  
-| 15  |  Josh GiddeyCHI · PG · CHI@BOS  | $8,100  | 14.1  | 37.1  | **67.6**  |   | 144%  | 8.3  | 54  |  
+| 15  |  Josh GiddeyCHI · PG · CHI@BOS  | $8,100  | 14.1  | 37.2  | **67.6**  |   | 144%  | 8.3  | 54  |  
 Show all 124 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 7 games slate · 2026-10-26.
 ## **NBA Injury Report**

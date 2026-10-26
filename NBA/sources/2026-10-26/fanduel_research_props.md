@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-oct-26 | fetched: 2026-10-26 17:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-oct-26 | fetched: 2026-10-26 18:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Monday, October 26
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-4h
+5h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Monday, October 26](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8fd6ff02fa56de3417a18ea81a171a060d1d8f0d-7001x4667.jpg%3Frect%3D499%2C49%2C6502%2C3217%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ _Suns at Thunder — 8:00 p.m. ET_
 Devin Booker - Rebounds
 Devin Booker Under
 U 4.5
--162
+-158
 Oct 27 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-@-oklahoma-city-thunder-36232235)
 Odds/lines subject to change
 [Devin Booker](https://sportsbook.fanduel.com/teams/nba/roster/devin-booker-2338/news?utm_source=chatgpt.com) has opened the season playing a massive offensive role for the [Phoenix Suns](https://sportsbook.fanduel.com/teams/nba/phoenix-suns/odds?utm_source=chatgpt.com), but I don't think we need to count on his rebounding production against the [Oklahoma City Thunder](https://sportsbook.fanduel.com/teams/nba/oklahoma-city-thunder/odds?utm_source=chatgpt.com).
@@ -43,7 +43,7 @@ _Suns at Thunder — 8:00 p.m. ET_
 S Gilgeous-Alexander - Pts + Reb + Ast
 Shai Gilgeous-Alexander Over
 O 41.5
--122
+-118
 Oct 27 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-@-oklahoma-city-thunder-36232235)
 Odds/lines subject to change
 It hasn't taken long for [Shai Gilgeous-Alexander](https://sportsbook.fanduel.com/teams/nba/roster/shai-gilgeous-alexander-2656?utm_source=chatgpt.com) to remind everyone why he remains one of the league's premier offensive players.
@@ -102,22 +102,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA DFS Picks Today: Best FanDuel Plays for Monday, Oct. 26](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-monday-oct-26)
-2h
+3h
 NBA DFS picks for Monday's FanDuel slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-monday-oct-26)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 Best NBA Prop Bets for Monday (Oct. 26)](https://www.fanduel.com/research/nba-props-today-monday-oct-26)
-3h
+4h
 NBA player prop bets to target on Monday. What are the best NBA props for today?
 [](https://www.fanduel.com/research/nba-props-today-monday-oct-26)
 [NBA](https://www.fanduel.com/research/nba)
 ## [4 Best NBA Bets and Player Props for Monday’s Washington Wizards vs Charlotte Hornets](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-monday-s-washington-wizards-vs-charlotte-hornets)
-3h
+4h
 Anthony Davis and Naz Reid headline the best bets and player props for Wizards vs Hornets. Best bets for Monday’s NBA matchup.
 [](https://www.fanduel.com/research/4-best-nba-bets-and-player-props-for-monday-s-washington-wizards-vs-charlotte-hornets)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 4 NBA Predictions and Best Bets for Monday, October 26](https://www.fanduel.com/research/nba-picks-today-4-nba-predictions-best-bets-monday-oct-26)
-3h
+4h
 NBA betting picks and predictions for Monday. What are the top NBA bets for today?
 [](https://www.fanduel.com/research/nba-picks-today-4-nba-predictions-best-bets-monday-oct-26)
 

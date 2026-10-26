@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-10-26 17:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-10-26 18:05 ET -->
 
 
 ---
@@ -1691,6 +1691,18 @@ Without further ado, let’s break down a trio of player props to consider. Be s
 
 ### **Donovan Mitchell (Cavaliers vs. Nets) Over 26.5 Points**
 
+[](https://www.lineups.com/)
+
+![Image 23](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)Donovan Mitchell
+
+[![Image 24: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)[O/U Points Scored (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)
+
+[![Image 25: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)[O/U Total Rebounds (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)
+
+[![Image 26: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)[O/U Total Assists (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)
+
+[![Image 27](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/donovan_mitchell/player_69921 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Mitchell got the season off to a blistering start, going off for 32 points in the opener against the Sixers while shooting 11-for-19 from the floor. Spida got there with just two three-pointers as well, underscoring how efficient he was from in front of the arc in addition to going 8-for-11 from the free-throw line. Mitchell comfortably led the Cavs in field-goal attempts, and that level of usage should be the norm for him this season.
 
 Saturday, Mitchell and the Cavs are big favorites over the Nets, and Clevelad has an implied team total of just under 122 points. While there could be some playing time risks if the game does turn lopsided in the second half, chances are Mitchell will have had a big hand in getting it there. He recorded at least 27 points in 50 regular-season and postseason games in 2025-26, including a 35-point outing against Brooklyn exactly a year ago to the day.
@@ -1699,6 +1711,18 @@ Saturday, Mitchell and the Cavs are big favorites over the Nets, and Clevelad ha
 
 ### **Jaylen Brown (76ers vs. Bucks) Over Points + Rebounds + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 28](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10214.png)Jaylen Brown
+
+[![Image 29: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56267/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56267/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/56267/kalshi_sc)
+
+[![Image 30: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/56267/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/56267/kalshi_sc)[9¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/56267/kalshi_sc)
+
+[![Image 31: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/56267/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/56267/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/56267/kalshi_sc)
+
+[![Image 32](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jaylen_brown/player_56267 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Brown’s 76ers tenure has gotten off to an encouraging start, as the talented wing has averaged 33.0 points + rebounds + assists over the first pair of contests while shooting 50.0%, including 42.9% from three-point range. The former Celtic logged 35 and 38 minutes in the first two games as well, and he’s put up 19.0 field-goal + free-throw attempts per contest. Saturday, he could be in store for even more usage, as LeBron James looks likely to sit out the first leg of the back-to-back set due to a back issue.
 
 James has slotted into the complementary role over the first two games that he was expected to fill, averaging 13.5 shot attempts per contest. An absence on his part would certainly open up some opportunity for Brown, but even if James were to play, Jaylen has gone 2-0 to the Over so far while playing alongside LeBron, posting a pair of 33 points + rebounds + assists tallies. The Bucks are also on the second game of a back-to-back set, and Milwaukee has surrendered the fifth-most points + rebounds + assists per game over the first pair of contests (214.0).
@@ -1706,6 +1730,18 @@ James has slotted into the complementary role over the first two games that he w
 **Original Line Publish**: 31.5
 
 ### **Anthony Davis (Wizards vs. Bulls) Over Points**
+
+[](https://www.lineups.com/)
+
+![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10223.png)Anthony Davis
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660943/polymarket_sc)[O/U Points Scored (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_points/660943/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660943/polymarket_sc)
+
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660943/polymarket_sc)[O/U Total Rebounds (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660943/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660943/polymarket_sc)
+
+[![Image 36: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660943/kalshi_sc)[O/U Total Assists (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660943/kalshi_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660943/kalshi_sc)
+
+[![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/anthony_davis/player_11953 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 AD’s Wizards tenure has gotten off to an interesting start to say the least. Davis looked his vintage self to open the season against the Bucks, generating a 34-point, 12-rebound double-double that also included four assists, two steals and one block. However, Friday’s 112-102 loss to the Raptors featured a big downturn, as he mustered only nine points, albeit alongside a solid nine rebounds, over 32 minutes.
 
@@ -1741,27 +1777,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 23: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-150x150.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
+[![Image 38: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-150x150.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
 [](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 #### [](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)[2026 Mexico Open at Vidanta Betting Preview: Everything You Need To Know About Vidanta Vallarta](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
-[![Image 24](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
+[![Image 39](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
 [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 #### [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)[NBA First Basket Picks Today (Oct. 26): Josh Giddey](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
-[![Image 25: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
+[![Image 40: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)[NFL Monday Medical Report Recap: Bears Lose Cole Kmet Despite Big Win Over Patriots](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
-[![Image 26: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
+[![Image 41: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)[NHL Goal Picks Today: Pavel Dorofeyev, Jack Roslovic & Vasily Podkolzin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
-[![Image 27: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
+[![Image 42: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)[NBA Player Props Today: Derrick White, Amen Thompson and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
@@ -1772,7 +1808,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 43: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 44: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1787,7 +1823,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 30: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-390x230.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
+[![Image 45: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-390x230.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
 [Articles](https://www.lineups.com/articles/)[Golf Articles](https://www.lineups.com/golf-articles/)
 
@@ -1797,7 +1833,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)October 26, 2026
 
-[![Image 31](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
+[![Image 46](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
 [Articles](https://www.lineups.com/articles/)
 
@@ -1807,7 +1843,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)October 26, 2026
 
-[![Image 32: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
+[![Image 47: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
 [Articles](https://www.lineups.com/articles/)[NFL Articles](https://www.lineups.com/nfl-articles/)
 
@@ -1817,7 +1853,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)October 26, 2026
 
-[![Image 33: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
+[![Image 48: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
 [Articles](https://www.lineups.com/articles/)[NHL Articles](https://www.lineups.com/nhl-articles/)
 
@@ -1827,7 +1863,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)October 26, 2026
 
-[![Image 34: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
+[![Image 49: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 
 [Articles](https://www.lineups.com/articles/)[NBA Articles](https://www.lineups.com/nba-articles/)
 
@@ -1837,7 +1873,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)October 26, 2026
 
-[![Image 35: Contreras, William](https://www.lineups.com/wp-content/uploads/2026/10/Contreras-William-390x230.jpg)](https://www.lineups.com/articles/brewers-vs-rays-world-series-game-3-picks-predictions-odds-mlb-playoffs/)
+[![Image 50: Contreras, William](https://www.lineups.com/wp-content/uploads/2026/10/Contreras-William-390x230.jpg)](https://www.lineups.com/articles/brewers-vs-rays-world-series-game-3-picks-predictions-odds-mlb-playoffs/)
 
 [Articles](https://www.lineups.com/articles/)[MLB Articles](https://www.lineups.com/mlb-articles/)
 
@@ -1933,7 +1969,7 @@ You must be 21+ years old to wager. Bet within your means. If you have a gamblin
 
 [Visit our YouTube](https://www.youtube.com/@Lineups)
 
-![Image 36: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
+![Image 51: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
 
 Sign up to our newsletter to get lineups latest hands-on reviews, expert advice, and exclusive offers delivered straight to your inbox.
 
@@ -1941,157 +1977,157 @@ Select a state
 
 Select a state
 
-![Image 37: 
+![Image 52: 
                     Alabama                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alabama.png) Alabama 
 
-![Image 38: 
+![Image 53: 
                     Alaska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alaska.png) Alaska 
 
-![Image 39: 
+![Image 54: 
                     Arizona                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arizona.png) Arizona 
 
-![Image 40: 
+![Image 55: 
                     Arkansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arkansas.png) Arkansas 
 
-![Image 41: 
+![Image 56: 
                     California                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/California.png) California 
 
-![Image 42: 
+![Image 57: 
                     Colorado                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Colorado.png) Colorado 
 
-![Image 43: 
+![Image 58: 
                     Connecticut                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Connecticut.png) Connecticut 
 
-![Image 44: 
+![Image 59: 
                     District of Columbia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/DistrictofColumbia.png) District of Columbia 
 
-![Image 45: 
+![Image 60: 
                     Delaware                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Delaware.png) Delaware 
 
-![Image 46: 
+![Image 61: 
                     Florida                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Florida.png) Florida 
 
-![Image 47: 
+![Image 62: 
                     Georgia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Georgia.png) Georgia 
 
-![Image 48: 
+![Image 63: 
                     Hawaii                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Hawaii.png) Hawaii 
 
-![Image 49: 
+![Image 64: 
                     Idaho                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Idaho.png) Idaho 
 
-![Image 50: 
+![Image 65: 
                     Illinois                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Illinois.png) Illinois 
 
-![Image 51: 
+![Image 66: 
                     Indiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Indiana.png) Indiana 
 
-![Image 52: 
+![Image 67: 
                     Iowa                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Iowa.png) Iowa 
 
-![Image 53: 
+![Image 68: 
                     Kansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kansas.png) Kansas 
 
-![Image 54: 
+![Image 69: 
                     Kentucky                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kentucky.png) Kentucky 
 
-![Image 55: 
+![Image 70: 
                     Louisiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Louisiana.png) Louisiana 
 
-![Image 56: 
+![Image 71: 
                     Maine                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maine.png) Maine 
 
-![Image 57: 
+![Image 72: 
                     Maryland                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maryland.png) Maryland 
 
-![Image 58: 
+![Image 73: 
                     Massachusetts                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Massachusetts.png) Massachusetts 
 
-![Image 59: 
+![Image 74: 
                     Michigan                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Michigan.png) Michigan 
 
-![Image 60: 
+![Image 75: 
                     Minnesota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Minnesota.png) Minnesota 
 
-![Image 61: 
+![Image 76: 
                     Mississippi                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Mississippi.png) Mississippi 
 
-![Image 62: 
+![Image 77: 
                     Missouri                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Missouri.png) Missouri 
 
-![Image 63: 
+![Image 78: 
                     Montana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Montana.png) Montana 
 
-![Image 64: 
+![Image 79: 
                     Nebraska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nebraska.png) Nebraska 
 
-![Image 65: 
+![Image 80: 
                     Nevada                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nevada.png) Nevada 
 
-![Image 66: 
+![Image 81: 
                     New Hampshire                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewHampshire.png) New Hampshire 
 
-![Image 67: 
+![Image 82: 
                     New Jersey                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewJersey.png) New Jersey 
 
-![Image 68: 
+![Image 83: 
                     New Mexico                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewMexico.png) New Mexico 
 
-![Image 69: 
+![Image 84: 
                     New York                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewYork.png) New York 
 
-![Image 70: 
+![Image 85: 
                     North Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthCarolina.png) North Carolina 
 
-![Image 71: 
+![Image 86: 
                     North Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthDakota.png) North Dakota 
 
-![Image 72: 
+![Image 87: 
                     Ohio                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Ohio.png) Ohio 
 
-![Image 73: 
+![Image 88: 
                     Oklahoma                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oklahoma.png) Oklahoma 
 
-![Image 74: 
+![Image 89: 
                     Oregon                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oregon.png) Oregon 
 
-![Image 75: 
+![Image 90: 
                     Pennsylvania                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Pennsylvania.png) Pennsylvania 
 
-![Image 76: 
+![Image 91: 
                     Rhode Island                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/RhodeIsland.png) Rhode Island 
 
-![Image 77: 
+![Image 92: 
                     South Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthCarolina.png) South Carolina 
 
-![Image 78: 
+![Image 93: 
                     South Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthDakota.png) South Dakota 
 
-![Image 79: 
+![Image 94: 
                     Tennessee                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Tennessee.png) Tennessee 
 
-![Image 80: 
+![Image 95: 
                     Texas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Texas.png) Texas 
 
-![Image 81: 
+![Image 96: 
                     Utah                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Utah.png) Utah 
 
-![Image 82: 
+![Image 97: 
                     Vermont                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Vermont.png) Vermont 
 
-![Image 83: 
+![Image 98: 
                     Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Virginia.png) Virginia 
 
-![Image 84: 
+![Image 99: 
                     Washington                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Washington.png) Washington 
 
-![Image 85: 
+![Image 100: 
                     West Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/WestVirginia.png) West Virginia 
 
-![Image 86: 
+![Image 101: 
                     Wisconsin                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wisconsin.png) Wisconsin 
 
-![Image 87: 
+![Image 102: 
                     Wyoming                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wyoming.png) Wyoming 
 
  Rest of the World 
@@ -2429,7 +2465,7 @@ Without further ado, let’s break down a trio of player props to consider. Be s
 
 ![Image 23](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10187.png)Nickeil Alexander-Walker
 
-[![Image 24: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)[O/U Points Scored (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)
+[![Image 24: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)[O/U Points Scored (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660949/polymarket_or)
 
 [![Image 25: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660949/polymarket_or)[O/U Total Rebounds (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660949/polymarket_or)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660949/polymarket_or)
 
@@ -2451,7 +2487,7 @@ NAW should be in line for similar usage throughout the season as he serves as on
 
 [![Image 29: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660950/polymarket_or)[O/U Points Scored (vs. MEM)](https://lineups.go.metabet.io/bet/nba_game_player_points/660950/polymarket_or)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660950/polymarket_or)
 
-[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)[O/U Total Rebounds (vs. MEM)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)
+[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)[O/U Total Rebounds (vs. MEM)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660950/polymarket_or)
 
 [![Image 31: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660950/polymarket_or)[O/U Total Assists (vs. MEM)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660950/polymarket_or)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660950/polymarket_or)
 
@@ -3191,6 +3227,18 @@ Without further ado, let’s break down a trio of player props to consider. Be s
 
 ### **Tyrese Maxey (76ers vs. Cavaliers) Over Points + Rebounds + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 23](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10214.png)Tyrese Maxey
+
+[![Image 24: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/134068/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/134068/kalshi_sc)[3¢](https://lineups.go.metabet.io/bet/nba_mvp/134068/kalshi_sc)
+
+[![Image 25: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/134068/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/134068/kalshi_sc)[19¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/134068/kalshi_sc)
+
+[![Image 26: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_east/134068/kalshi_sc)[To Win Eastern Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_east/134068/kalshi_sc)[15¢](https://lineups.go.metabet.io/bet/nba_mvp_east/134068/kalshi_sc)
+
+[![Image 27](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/tyrese_maxey/player_134068 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Maxey immediately clicked with his new superstar teammates in Tuesday’s season opener against the defending champion Knicks, scoring a team-high 28 points despite going just 2-for-9 from three-point range and adding five assists, four rebounds, three steals and three blocks in a stellar all-around performance. Maxey encouragingly took 19 shots despite sharing the floor with several high-usage assets, and he got to the line on nine occasions as well.
 
 Within the context of that season-opening performance, Maxey’s prop is very achievable. The star guard will face a Cavaliers squad that he went 2-1 to the Over on 29.5 PRA against last season, and he’ll be doing so without Cleveland having the luxury of focusing heavy defensive resources on him. Maxey averaged 37.0 points + rebounds + assists across 41 regular-season and postseason home games in 2025-26, furthering his case for the Over in Thursday’s marquee matchup.
@@ -3198,6 +3246,18 @@ Within the context of that season-opening performance, Maxey’s prop is very ac
 **Original Line Publish:** 29.5
 
 ### **Donovan Mitchell (Cavaliers vs. 76ers) Over 3-Pointers Made**
+
+[](https://www.lineups.com/)
+
+![Image 28](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)Donovan Mitchell
+
+[![Image 29: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)[O/U Points Scored (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660944/polymarket_sc)
+
+[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)[O/U Total Rebounds (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660944/polymarket_sc)
+
+[![Image 31: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)[O/U Total Assists (vs. MIN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660944/polymarket_sc)
+
+[![Image 32](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/donovan_mitchell/player_69921 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Mitchell recommitted to the quest of bringing the Cavaliers another championship when he inked a $273 million extension this offseason, and he should be set for high usage right out of the gate in what should be a highly competitive game. Mitchell was as aggressive as ever last season, averaging 8.8 3-point attempts per contest and draining them at a solid 36.4% clip.
 
@@ -3208,6 +3268,18 @@ Mitchell drained at least a trio of treys on 52 occasions last regular-season an
 **Original Line Publish**: 2.5
 
 ### **DeMar DeRozan (Nuggets vs. Thunder) Over Points + Rebounds + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)DeMar DeRozan
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660951/polymarket_sc)[O/U Points Scored (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_points/660951/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660951/polymarket_sc)
+
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660951/polymarket_sc)[O/U Total Rebounds (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660951/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660951/polymarket_sc)
+
+[![Image 36: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660951/polymarket_sc)[O/U Total Assists (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660951/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660951/polymarket_sc)
+
+[![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/demar_derozan/player_12816 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 It will be interesting to see how DeRozan fits with the Nuggets, and the accomplished veteran could well prove to be the missing piece for a talented Denver squad that’s still spearheaded by Nikola Jokic. DeRozan will open the season on the second unit, so asking him to approximate the 25.4 points + rebounds + assists per game he generated as a starter in Sacramento is likely not realistic.
 
@@ -3243,27 +3315,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 23: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-150x150.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
+[![Image 38: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-150x150.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
 [](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 #### [](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)[2026 Mexico Open at Vidanta Betting Preview: Everything You Need To Know About Vidanta Vallarta](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
-[![Image 24](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
+[![Image 39](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
 [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 #### [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)[NBA First Basket Picks Today (Oct. 26): Josh Giddey](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
-[![Image 25: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
+[![Image 40: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)[NFL Monday Medical Report Recap: Bears Lose Cole Kmet Despite Big Win Over Patriots](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
-[![Image 26: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
+[![Image 41: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)[NHL Goal Picks Today: Pavel Dorofeyev, Jack Roslovic & Vasily Podkolzin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
-[![Image 27: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
+[![Image 42: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)[NBA Player Props Today: Derrick White, Amen Thompson and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
@@ -3274,7 +3346,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 43: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 44: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -3289,7 +3361,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 30: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-390x230.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
+[![Image 45: Wyndham Clark](https://www.lineups.com/wp-content/uploads/2026/10/Wyndham-Clark-390x230.jpg)](https://www.lineups.com/articles/2026-mexico-open-at-vidanta-betting-preview-everything-you-need-to-know-about-vidanta-vallarta/)
 
 [Articles](https://www.lineups.com/articles/)[Golf Articles](https://www.lineups.com/golf-articles/)
 
@@ -3299,7 +3371,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)October 26, 2026
 
-[![Image 31](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
+[![Image 46](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-10T011836Z_78184277_MT1USATODAY30040482_RTRMADP_3_NBA-PRESEASON-MEMPHIS-GRIZZLIES-AT-CHICAGO-BULLS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-26-josh-giddey/)
 
 [Articles](https://www.lineups.com/articles/)
 
@@ -3309,7 +3381,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)October 26, 2026
 
-[![Image 32: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
+[![Image 47: Kmet](https://www.lineups.com/wp-content/uploads/2026/10/Kmet-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-bears-lose-cole-kmet-despite-big-win-over-patriots/)
 
 [Articles](https://www.lineups.com/articles/)[NFL Articles](https://www.lineups.com/nfl-articles/)
 
@@ -3319,7 +3391,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)October 26, 2026
 
-[![Image 33: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
+[![Image 48: Vasily Podkolzin](https://www.lineups.com/wp-content/uploads/2026/10/Vasily-Podkolzin--390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-pavel-dorofeyev-jack-roslovic-vasily-podkolzin-best-bets/)
 
 [Articles](https://www.lineups.com/articles/)[NHL Articles](https://www.lineups.com/nhl-articles/)
 
@@ -3329,7 +3401,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)October 26, 2026
 
-[![Image 34: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
+[![Image 49: Amen Thompson](https://www.lineups.com/wp-content/uploads/2026/10/Amen-Thompson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 
 [Articles](https://www.lineups.com/articles/)[NBA Articles](https://www.lineups.com/nba-articles/)
 
@@ -3339,7 +3411,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)October 26, 2026
 
-[![Image 35: Contreras, William](https://www.lineups.com/wp-content/uploads/2026/10/Contreras-William-390x230.jpg)](https://www.lineups.com/articles/brewers-vs-rays-world-series-game-3-picks-predictions-odds-mlb-playoffs/)
+[![Image 50: Contreras, William](https://www.lineups.com/wp-content/uploads/2026/10/Contreras-William-390x230.jpg)](https://www.lineups.com/articles/brewers-vs-rays-world-series-game-3-picks-predictions-odds-mlb-playoffs/)
 
 [Articles](https://www.lineups.com/articles/)[MLB Articles](https://www.lineups.com/mlb-articles/)
 
@@ -3435,7 +3507,7 @@ You must be 21+ years old to wager. Bet within your means. If you have a gamblin
 
 [Visit our YouTube](https://www.youtube.com/@Lineups)
 
-![Image 36: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
+![Image 51: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
 
 Sign up to our newsletter to get lineups latest hands-on reviews, expert advice, and exclusive offers delivered straight to your inbox.
 
@@ -3443,157 +3515,157 @@ Select a state
 
 Select a state
 
-![Image 37: 
+![Image 52: 
                     Alabama                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alabama.png) Alabama 
 
-![Image 38: 
+![Image 53: 
                     Alaska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alaska.png) Alaska 
 
-![Image 39: 
+![Image 54: 
                     Arizona                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arizona.png) Arizona 
 
-![Image 40: 
+![Image 55: 
                     Arkansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arkansas.png) Arkansas 
 
-![Image 41: 
+![Image 56: 
                     California                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/California.png) California 
 
-![Image 42: 
+![Image 57: 
                     Colorado                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Colorado.png) Colorado 
 
-![Image 43: 
+![Image 58: 
                     Connecticut                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Connecticut.png) Connecticut 
 
-![Image 44: 
+![Image 59: 
                     District of Columbia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/DistrictofColumbia.png) District of Columbia 
 
-![Image 45: 
+![Image 60: 
                     Delaware                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Delaware.png) Delaware 
 
-![Image 46: 
+![Image 61: 
                     Florida                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Florida.png) Florida 
 
-![Image 47: 
+![Image 62: 
                     Georgia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Georgia.png) Georgia 
 
-![Image 48: 
+![Image 63: 
                     Hawaii                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Hawaii.png) Hawaii 
 
-![Image 49: 
+![Image 64: 
                     Idaho                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Idaho.png) Idaho 
 
-![Image 50: 
+![Image 65: 
                     Illinois                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Illinois.png) Illinois 
 
-![Image 51: 
+![Image 66: 
                     Indiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Indiana.png) Indiana 
 
-![Image 52: 
+![Image 67: 
                     Iowa                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Iowa.png) Iowa 
 
-![Image 53: 
+![Image 68: 
                     Kansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kansas.png) Kansas 
 
-![Image 54: 
+![Image 69: 
                     Kentucky                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kentucky.png) Kentucky 
 
-![Image 55: 
+![Image 70: 
                     Louisiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Louisiana.png) Louisiana 
 
-![Image 56: 
+![Image 71: 
                     Maine                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maine.png) Maine 
 
-![Image 57: 
+![Image 72: 
                     Maryland                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maryland.png) Maryland 
 
-![Image 58: 
+![Image 73: 
                     Massachusetts                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Massachusetts.png) Massachusetts 
 
-![Image 59: 
+![Image 74: 
                     Michigan                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Michigan.png) Michigan 
 
-![Image 60: 
+![Image 75: 
                     Minnesota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Minnesota.png) Minnesota 
 
-![Image 61: 
+![Image 76: 
                     Mississippi                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Mississippi.png) Mississippi 
 
-![Image 62: 
+![Image 77: 
                     Missouri                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Missouri.png) Missouri 
 
-![Image 63: 
+![Image 78: 
                     Montana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Montana.png) Montana 
 
-![Image 64: 
+![Image 79: 
                     Nebraska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nebraska.png) Nebraska 
 
-![Image 65: 
+![Image 80: 
                     Nevada                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nevada.png) Nevada 
 
-![Image 66: 
+![Image 81: 
                     New Hampshire                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewHampshire.png) New Hampshire 
 
-![Image 67: 
+![Image 82: 
                     New Jersey                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewJersey.png) New Jersey 
 
-![Image 68: 
+![Image 83: 
                     New Mexico                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewMexico.png) New Mexico 
 
-![Image 69: 
+![Image 84: 
                     New York                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewYork.png) New York 
 
-![Image 70: 
+![Image 85: 
                     North Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthCarolina.png) North Carolina 
 
-![Image 71: 
+![Image 86: 
                     North Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthDakota.png) North Dakota 
 
-![Image 72: 
+![Image 87: 
                     Ohio                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Ohio.png) Ohio 
 
-![Image 73: 
+![Image 88: 
                     Oklahoma                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oklahoma.png) Oklahoma 
 
-![Image 74: 
+![Image 89: 
                     Oregon                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oregon.png) Oregon 
 
-![Image 75: 
+![Image 90: 
                     Pennsylvania                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Pennsylvania.png) Pennsylvania 
 
-![Image 76: 
+![Image 91: 
                     Rhode Island                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/RhodeIsland.png) Rhode Island 
 
-![Image 77: 
+![Image 92: 
                     South Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthCarolina.png) South Carolina 
 
-![Image 78: 
+![Image 93: 
                     South Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthDakota.png) South Dakota 
 
-![Image 79: 
+![Image 94: 
                     Tennessee                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Tennessee.png) Tennessee 
 
-![Image 80: 
+![Image 95: 
                     Texas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Texas.png) Texas 
 
-![Image 81: 
+![Image 96: 
                     Utah                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Utah.png) Utah 
 
-![Image 82: 
+![Image 97: 
                     Vermont                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Vermont.png) Vermont 
 
-![Image 83: 
+![Image 98: 
                     Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Virginia.png) Virginia 
 
-![Image 84: 
+![Image 99: 
                     Washington                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Washington.png) Washington 
 
-![Image 85: 
+![Image 100: 
                     West Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/WestVirginia.png) West Virginia 
 
-![Image 86: 
+![Image 101: 
                     Wisconsin                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wisconsin.png) Wisconsin 
 
-![Image 87: 
+![Image 102: 
                     Wyoming                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wyoming.png) Wyoming 
 
  Rest of the World 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-26 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-26 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,44 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)[Won't play Tuesday](https://www.rotowire.com/basketball/headlines/tobias-harris-injury-wont-play-tuesday-536193)
+**F** San Antonio Spurs
+Calf
+October 26, 2026
+Harris (calf) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_05_45PM.pdf) for Tuesday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Anthony Edwards](https://www.rotowire.com/basketball/player/anthony-edwards-5110)[Upgraded to available](https://www.rotowire.com/basketball/headlines/anthony-edwards-news-upgraded-to-available-536192)
+**G** Minnesota Timberwolves
+October 26, 2026
+Edwards (knee) is [available](https://x.com/Twolves_PR/status/2114835070770974783?s=20) for Monday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)[Participating in on-court drills Tuesday](https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-participating-in-on-court-drills-tuesday-536191)
+**F** Washington Wizards
+Ankle
+October 26, 2026
+Dybantsa, who has been ruled out for Monday's game against the Hornets, is progressing well from a left ankle sprain and will take part in on-court activities Tuesday, [Josh Robbins of The Athletic](https://x.com/JoshuaBRobbins/status/2114833541435474059?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Patrick Williams](https://www.rotowire.com/basketball/player/patrick-williams-5122)[Out again Monday](https://www.rotowire.com/basketball/headlines/patrick-williams-injury-out-again-monday-536190)
+**F** Chicago Bulls
+Groin
+October 26, 2026
+Williams (groin) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_05_30PM.pdf) for Monday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Noa Essengue](https://www.rotowire.com/basketball/player/noa-essengue-6586)[Cleared to play](https://www.rotowire.com/basketball/headlines/noa-essengue-news-cleared-to-play-536189)
+**F** Chicago Bulls
+October 26, 2026
+Essengue (head) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_05_30PM.pdf) for Monday's game against Boston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
 [Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Iffy for Tuesday](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-iffy-for-tuesday-536188)
 **G** Detroit Pistons
@@ -163,45 +201,6 @@ Sorber (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury
 Hamstring
 October 26, 2026
 McConnell (hamstring) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Cleared to play](https://www.rotowire.com/basketball/headlines/jaylin-williams-news-cleared-to-play-536164)
-**C** Oklahoma City Thunder
-October 26, 2026
-Williams (wrist) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Cason Wallace](https://www.rotowire.com/basketball/player/cason-wallace-5898)[Out with sore shoulder](https://www.rotowire.com/basketball/headlines/cason-wallace-injury-out-with-sore-shoulder-536163)
-**G** Oklahoma City Thunder
-Shoulder
-October 26, 2026
-Wallace (shoulder) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game versus the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Chet Holmgren](https://www.rotowire.com/basketball/player/chet-holmgren-5697)[Sitting out Monday](https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-sitting-out-monday-536162)
-**C** Oklahoma City Thunder
-Knee
-October 26, 2026
-Holmgren (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game versus the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Probable for Monday](https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-for-monday-536161)
-**F** Indiana Pacers
-Hamstring
-October 26, 2026
-Nesmith (hamstring) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)[Listed out for Monday](https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-listed-out-for-monday-536160)
-**C** Indiana Pacers
-Ankle
-October 26, 2026
-Zubac (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-26_02_15PM.pdf) for Monday's game against the Bucks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
