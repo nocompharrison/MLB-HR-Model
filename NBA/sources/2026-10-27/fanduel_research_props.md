@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/pistons-vs-knicks-nba-prediction-picks-and-prop-bets-oct-27 | fetched: 2026-10-27 12:06 ET -->
+<!-- source: https://www.fanduel.com/research/pistons-vs-knicks-nba-prediction-picks-and-prop-bets-oct-27 | fetched: 2026-10-27 17:06 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Pistons vs. Knicks: NBA Prediction, Picks and Prop Bets (Oct. 27)
 ![Austan Kas](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F90d0adfd6cd21c2274fb981c471ab9b10a1f65a5-311x307.png%3Frect%3D3%2C0%2C307%2C307%26w%3D42%26h%3D42&w=100&q=100)
 [Austan Kas](https://www.fanduel.com/research/author/austan-kas)
-2h
+7h
 Link
 ![Pistons vs. Knicks: NBA Prediction, Picks and Prop Bets \(Oct. 27\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8228493d2902918b8e0f1c1a266ff0a082f63a0f-5279x3520.jpg%3Frect%3D460%2C65%2C4819%2C2385%26w%3D964%26h%3D477&w=1920&q=100)
 **Knicks vs. Pistons Best Bets at a Glance**
@@ -30,7 +30,7 @@ _Please note lines are subject to change throughout the day after this article i
 1st Quarter Spread
 New York Knicks
 -1.5
--106
+-102
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-new-york-knicks-36237558)
 Odds/lines subject to change
@@ -43,7 +43,7 @@ The Knicks to win the first quarter by at least two points is my favorite way to
 OG Anunoby - Pts + Reb
 OG Anunoby Over
 O 21.5
--118
+-104
 Oct 28 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-new-york-knicks-36237558)
 Odds/lines subject to change
 Although Detroit has a good defense, they’re getting torched by power forwards so far this year. 
@@ -71,23 +71,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions Today: 3 NBA Picks and Best Bets for Tuesday, Oct. 27](https://www.fanduel.com/research/nba-predictions-today-3-nba-picks-and-best-bets-for-tuesday-oct-27)
+3h
+NBA predictions and best bets across Tuesday's slate.
+[](https://www.fanduel.com/research/nba-predictions-today-3-nba-picks-and-best-bets-for-tuesday-oct-27)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Tuesday, Oct. 27](https://www.fanduel.com/research/nba-props-today-tuesday-oct-27)
-15m
+5h
 NBA player props to target today. What are Tuesday's best NBA prop bets?
 [](https://www.fanduel.com/research/nba-props-today-tuesday-oct-27)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pistons vs. Knicks: NBA Prediction, Picks and Prop Bets (Oct. 27)](https://www.fanduel.com/research/pistons-vs-knicks-nba-prediction-picks-and-prop-bets-oct-27)
-2h
+7h
 Knicks vs. Pistons picks and prediction for today.
 [](https://www.fanduel.com/research/pistons-vs-knicks-nba-prediction-picks-and-prop-bets-oct-27)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pacers vs. 76ers Prediction, Odds, Picks, Best Bets for Oct. 28](https://www.fanduel.com/research/pacers-vs-76ers-prediction-nba-odds-spread-best-bets-for-10-28-2026)
-9h
+14h
 Find Pacers vs. 76ers predictions, betting odds, moneyline, spread, over/under and more for the Oct. 28 NBA matchup.
 [](https://www.fanduel.com/research/pacers-vs-76ers-prediction-nba-odds-spread-best-bets-for-10-28-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Celtics vs. Nets Prediction, Odds, Picks, Best Bets for Oct. 27](https://www.fanduel.com/research/celtics-vs-nets-prediction-nba-odds-spread-best-bets-for-10-27-2026)
-9h
-Find Celtics vs. Nets predictions, betting odds, moneyline, spread, over/under and more for the Oct. 27 NBA matchup.
-[](https://www.fanduel.com/research/celtics-vs-nets-prediction-nba-odds-spread-best-bets-for-10-27-2026)
 
