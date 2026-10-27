@@ -1,6 +1,6 @@
-# NFL transcripts | week 7 | updated 2026-10-26 07:46 ET
+# NFL transcripts | week 7 | updated 2026-10-26 21:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 115 files in NFL/transcripts/week-07:
+# 122 files in NFL/transcripts/week-07:
 NFL/transcripts/week-07/-N0Sh593rdM_ShipItNation_NFL_DFS_Week_7_Leverage_Lane_DraftKings_FanDuel_Strategy.txt
 NFL/transcripts/week-07/079Ogm0fcgg_DFSArmy_NFL_DFS_Week_7_The_Best_DraftKings_Stacks.txt
 NFL/transcripts/week-07/1JdCspayS2k_SGPN_Broncos_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_7.txt
@@ -9,6 +9,7 @@ NFL/transcripts/week-07/1wi9E1VkJoM_Stokastic_Patriots_Bears_Showdown_Strategy_T
 NFL/transcripts/week-07/49aLhpkR5sA_PlayerProfiler_Fantasy_Football_Week_7_Starts_Sits_What_to_do_with_Bo_Nix_Waddle_Jean.txt
 NFL/transcripts/week-07/4LBSEbWF1sM_TheAudible_WAIVER_WIRE_GOLD_Omar_Cooper_Jonah_Coleman_Tyrone_Tracy_Who_Should_You.txt
 NFL/transcripts/week-07/54YyXT5T7MQ_ActionNetwork_Seahawks_vs_Chiefs_Betting_Picks_Our_BEST_BETS_for_Sunday_Night_Footba.txt
+NFL/transcripts/week-07/5HO_wBzwBGw_ActionNetwork_Expert_Bettors_Build_A_Same_Game_Parlay_For_Cowboys_vs_Eagles_On_Monda.txt
 NFL/transcripts/week-07/5sLUh76rkZM_ActionNetwork_NFL_Prediction_Markets_The_BIGGEST_Futures_Opportunities_Right_Now.txt
 NFL/transcripts/week-07/6ixstVPngqc_Stokastic_NFL_DFS_Live_Before_Lock_Week_7_NFL_DFS_Picks_for_DraftKings_FanDuel.txt
 NFL/transcripts/week-07/94GM8BqFh8k_BettingPros_10_BEST_BETS_for_NFL_Week_7_Top_Picks_Predictions_to_Make_NOW_2026.txt
@@ -30,6 +31,7 @@ NFL/transcripts/week-07/EiROz9YAkjo_RotoGrinders_LIVE_NFL_DFS_Picks_Strategy_for
 NFL/transcripts/week-07/F-uh2r0LMqM_SGPN_Thursday_Night_Football_Week_7_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-07/FZKLB6_SddU_SGPN_Steelers_vs_Saints_Prediction_Picks_Best_Bets_NFL_Week_7.txt
 NFL/transcripts/week-07/FevBuG3TztM_Footballers_Week_7_Waivers_Rookie_WR_Rundown_Fantasy_Football_2026_Ep_1997.txt
+NFL/transcripts/week-07/FuYQxKaJf9Y_DFSArmy_Cowboys_vs_Eagles_Showdown_Breakdown_Monday_Night_Football_DraftKings.txt
 NFL/transcripts/week-07/G1ERzlPZ8cs_TheAudible_Caleb_Williams_vs_Drake_Maye_Steelers_in_Paris_49ers_Falcons_SMASH_Spo.txt
 NFL/transcripts/week-07/GFv45kQ-5QQ_ActionNetwork_Cowboys_vs_Eagles_Picks_Predictions_Monday_Night_Football_Best_Bets.txt
 NFL/transcripts/week-07/GJNEasXb9GU_Stokastic_NFL_DFS_Sims_Tournament_Strategy_Week_7_NFL_DFS_Strategy.txt
@@ -53,11 +55,13 @@ NFL/transcripts/week-07/NeG1OQuuAGA_LandYourBets_Patriots_vs_Bears_NFL_Best_Bets
 NFL/transcripts/week-07/O2Nxq2GVx9U_Footballers_Starts_of_the_Week_Week_7_Games_Lamar_Watch_Fantasy_Football_2026_Ep_1.txt
 NFL/transcripts/week-07/Oc6hlWx8NFU_FootballersDFS_Week_7_DFS_Picks_Sorting_Out_Game_Flows_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-07/Oe93CPt90t4_PlayerProfiler_Which_Offenses_Can_We_Still_Trust_JJ_McCarthy_Cowboys_Bears_Broncos_Fa.txt
+NFL/transcripts/week-07/OrK-7945wyA_Footballers_Week_7_Studs_Duds_Andy_Freaks_Out_Fantasy_Football_2026_Ep_2001.txt
 NFL/transcripts/week-07/OtWynERflvo_SGPN_Giants_vs_Texans_Prediction_Picks_Best_Bets_NFL_Week_7.txt
 NFL/transcripts/week-07/P_QuyP2KauY_ShipItNation_NFL_DFS_Week_7_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_and.txt
 NFL/transcripts/week-07/PwRiLvERuD8_SportsLine_NFL_Week_7_Best_Bets_Picks_for_EVERY_1PM_ET_Game.txt
 NFL/transcripts/week-07/PwtR4v4_xes_DFSArmy_10_Week_7_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt
 NFL/transcripts/week-07/Q7qzMqdmbFA_BettingPros_BEST_BETS_for_Thursday_Night_Football_NFL_Picks_Predictions_for_Patrio.txt
+NFL/transcripts/week-07/RrT0JB-6DoI_ShipItNation_Cowboys_vs_Eagles_NFL_DFS_Showdown_MNF_Week_7_Showdown_Shippers_Picks.txt
 NFL/transcripts/week-07/SJFuzX6hsIM_TheAudible_Which_New_England_Running_Back_Should_You_Drop_To_Set_a_Fantasy_Footba.txt
 NFL/transcripts/week-07/SXF7s5c3vDI_SGPN_Chiefs_vs_Seahawks_Prediction_Picks_Best_Bets_NFL_Week_7.txt
 NFL/transcripts/week-07/TCW-vIJ0udM_PlayerProfiler_Week_7_TOP_Kickers_Defenses_High_Upside_Streamers.txt
@@ -95,11 +99,13 @@ NFL/transcripts/week-07/kP91gBPeD-E_SGPN_Packers_vs_Lions_Prediction_Picks_Best_
 NFL/transcripts/week-07/ki7a6Cv-_7s_ActionNetwork_NFL_Betting_Picks_LIVE_Best_Bets_Player_Props_Parlays_for_Week_7.txt
 NFL/transcripts/week-07/m9sA9QkFcsE_PlayerProfiler_Week_7_Fantasy_Football_Rankings_Tiers_2026_I_QB_RB_WR_TE_Start_Sit_Ad.txt
 NFL/transcripts/week-07/mHu-9GUHaLE_TheAudible_BO_NIX_BOUNCE_BACK_OR_DISASTER_Marvin_Harrison_Jr_s_Role_Chiefs_Seahaw.txt
+NFL/transcripts/week-07/nVuiFkkwM30_RotoGrinders_Cowboys_vs_Eagles_MNF_Showdown_NFL_DFS_Picks_Strategy.txt
 NFL/transcripts/week-07/nmO1xtBA9Og_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_7_on_DraftKings_FanDuel.txt
 NFL/transcripts/week-07/o44jmHZHcrw_DFSArmy_NFL_DFS_Week_7_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-07/ofy0tCIMIqw_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_7.txt
 NFL/transcripts/week-07/ptjlHsYe4Vo_LandYourBets_7_NFL_Player_Prop_Looks_Week_7_Free_NFL_Best_Bets_October_25.txt
 NFL/transcripts/week-07/q5PNtPxq7S8_Footballers_Jacobs_Confidence_Levels_Mailbag_Fantasy_Football_2026_Ep_1998.txt
+NFL/transcripts/week-07/qGvhtW8JvYs_TheAudible_NFL_WEEK_7_CHAOS_STEELERS_IN_PARIS_BRONCOS_BACK_FANTASY_WINNERS_LOSERS.txt
 NFL/transcripts/week-07/sKxLOcBb410_PlayerProfiler_Plays_of_the_Week_Locks_and_Sleepers_for_Week_7_Fantasy_Football.txt
 NFL/transcripts/week-07/tCeO1s70Kb8_Footballers_All_time_What_Did_He_Say_show_moments.txt
 NFL/transcripts/week-07/tF2svhijqIU_SGPN_Bengals_vs_Ravens_Prediction_Picks_Best_Bets_NFL_Week_7.txt
@@ -114,27 +120,28 @@ NFL/transcripts/week-07/wPZdP4TxfGg_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_
 NFL/transcripts/week-07/wikhOspTqmE_DFSArmy_NFL_DFS_Week_7_Strategy_for_Fanduel_2026.txt
 NFL/transcripts/week-07/wwD5mxLV5Eg_SGPN_NFL_Week_7_Locks_Dogs_Teasers_Best_Bets.txt
 NFL/transcripts/week-07/yJMfRLly080_DFSArmy_NFL_Week_7_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_Tournament_Ta.txt
+NFL/transcripts/week-07/ykF8oRyY4aM_Stokastic_Cowboys_Eagles_Showdown_Strategy_MNF_Week_7_DFS_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-07/yuhprnZ_1-Y_FootballersDFS_Week_7_NFL_Preview_Win_Total_Awards_Market_Updates_Fantasy_Football_DF.txt
 NFL/transcripts/week-07/yvJdNnatuQw_ShipItNation_NFL_DFS_Week_7_Contrarian_Constructions_Main_Slate_DraftKings_FanDuel.txt
 
 # this run:
-NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/OrK-7945wyA_Footballers_Week_7_Studs_Duds_Andy_Freaks_Out_Fantasy_Football_2026_Ep_2001.txt  (10,398 words)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-07/Lqr7Og_tC7Q_ShipItNation_Chiefs_vs_Seahawks_NFL_DFS_Showdown_SNF_Week_7_Sunday_Sweatdown_Picks.txt  (7,524 words)
-NEW     NFL/transcripts/week-07/yvJdNnatuQw_ShipItNation_NFL_DFS_Week_7_Contrarian_Constructions_Main_Slate_DraftKings_FanDuel.txt  (13,174 words)
-NEW     NFL/transcripts/week-07/fstSM_vmPHs_SGPN_Monday_Night_Football_Prop_Bets_NFL_Week_7_Recap.txt  (14,534 words)
-NEW     NFL/transcripts/week-07/BYvjh6vWgwA_SGPN_Monday_Night_Football_Prop_Bets_NFL_Week_7_Recap.txt  (14,087 words)
-UPCOMING SGPN WcmklTZMCKA Cowboys vs Eagles LIVE Watch Party | Monday Night Football L  (not aired yet - scheduled for 10/26/26 8:00PM)
-UPCOMING SGPNPropcast b-pg8j49qyM NFL Week 7 Monday Night Football Player Props - 10/26/26  (not aired yet - scheduled for 10/26/26 11:15AM)
-UPCOMING ActionNetwork xSBhFMP5Kbw NFL Week 7 Recap & Reactions PLUS Cowboys vs. Eagles Monday   (not aired yet - scheduled for 10/26/26 11:00AM)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-07/nVuiFkkwM30_RotoGrinders_Cowboys_vs_Eagles_MNF_Showdown_NFL_DFS_Picks_Strategy.txt  (8,231 words)
+NEW     NFL/transcripts/week-07/RrT0JB-6DoI_ShipItNation_Cowboys_vs_Eagles_NFL_DFS_Showdown_MNF_Week_7_Showdown_Shippers_Picks.txt  (13,847 words, via Groq)
+NOCAPS  ShipItNation kGif8sK2hWw NFL DFS Week 7 Takedown Breakdown | Winning DraftKings Lineu  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  SGPN WcmklTZMCKA Cowboys vs Eagles LIVE Watch Party | Monday Night Football L  (no captions; Groq: still live - audio not final yet)
+NOCAPS  SGPNPropcast b-pg8j49qyM NFL Week 7 Monday Night Football Player Props - 10/26/26  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-07/5HO_wBzwBGw_ActionNetwork_Expert_Bettors_Build_A_Same_Game_Parlay_For_Cowboys_vs_Eagles_On_Monda.txt  (3,428 words)
+NOCAPS  ActionNetwork xSBhFMP5Kbw NFL Week 7 Recap & Reactions PLUS Cowboys vs. Eagles Monday   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-07/FuYQxKaJf9Y_DFSArmy_Cowboys_vs_Eagles_Showdown_Breakdown_Monday_Night_Football_DraftKings.txt  (9,822 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible qGvhtW8JvYs NFL WEEK 7 CHAOS! STEELERS IN PARIS, BRONCOS BACK?! FANTASY   (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-07/D9Hpd5Wevn4_PlayerProfiler_Week_7_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt  (14,214 words)
-NEW     NFL/transcripts/week-07/6ixstVPngqc_Stokastic_NFL_DFS_Live_Before_Lock_Week_7_NFL_DFS_Picks_for_DraftKings_FanDuel.txt  (42,277 words)
-NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-07/Xj86CgJlYdk_LandYourBets_Eagles_vs_Cowboys_NFL_Best_Bets_Player_Props_Monday_Night_Football_Wee.txt  (3,619 words)
+NEW     NFL/transcripts/week-07/qGvhtW8JvYs_TheAudible_NFL_WEEK_7_CHAOS_STEELERS_IN_PARIS_BRONCOS_BACK_FANTASY_WINNERS_LOSERS.txt  (13,770 words)
+NOCAPS  PlayerProfiler NMLgTvCMiwM Top-10 Takeaways - Week 7 Usage Reports and Waiver Wire Advi  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  Stokastic 1ILD5OFZJZ0 NFL DFS Showdown Live Before Lock | Cowboys-Eagles MNF Week   (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 1.3h ago))
+NEW     NFL/transcripts/week-07/ykF8oRyY4aM_Stokastic_Cowboys_Eagles_Showdown_Strategy_MNF_Week_7_DFS_Picks_NFL_DFS_Strategy.txt  (12,793 words)
+NOCAPS  BettingPros hckoXJIoxts Top NFL Picks for Cowboys vs. Eagles: Best Bets & Player Pro  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-UPCOMING CirclesOff i6pev5Qs6KA Can You Middle NFL Games and Win Long Term? | Circle Back |   (not aired yet - scheduled for 10/26/26 1:30PM)
+NOCAPS  CirclesOff i6pev5Qs6KA Can You Middle NFL Games and Win Long Term? | Circle Back |   (no captions; Groq: live stream still processing - audio not final yet)
