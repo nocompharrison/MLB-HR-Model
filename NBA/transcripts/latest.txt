@@ -1,39 +1,40 @@
-# NBA transcripts | 2026-10-26 | updated 2026-10-26 18:06 ET
+# NBA transcripts | 2026-10-27 | updated 2026-10-27 12:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 11 files in NBA/transcripts/2026-10-26:
-NBA/transcripts/2026-10-26/4Tcf0B9ngCc_NBAGamblingPod_NBA_Monday_Picks_10_26_26_NBA_Bets_Player_Props_and_Predictions.txt
-NBA/transcripts/2026-10-26/7SOcRCvCCzA_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Monday_Buckets_Podcast.txt
-NBA/transcripts/2026-10-26/Np0i4ztfXns_LockedOnNBA_Jalen_Williams_Injury_Changes_EVERYTHING_for_the_OKC_Thunder_NBA_Winne.txt
-NBA/transcripts/2026-10-26/X_VW2-8iArQ_WagerTalk_NBA_Picks_Today_3_Game_Breakdown_Steve_Merril.txt
-NBA/transcripts/2026-10-26/_wJNlEJWL1Q_WagerTalk_MONDAY_NBA_BEST_Bets_Timberwolves_vs_Cavaliers_Hawks_vs_Rockets.txt
-NBA/transcripts/2026-10-26/lC8etSyLH1Y_SportsLine_Monday_Night_Football_Picks_World_Series_Bets_NBA_Picks_Early_Edge.txt
-NBA/transcripts/2026-10-26/lp0oWOODzxg_CallingOurShot_Dallas_Cowboys_vs_Philadelphia_Eagles_Best_Picks_Predictions.txt
-NBA/transcripts/2026-10-26/nikpN08xUrw_JayMoney_Monday_NBA_Talk_With_Jay_Money_Shark_10_26_26_Free_NBA_Picks_Sports_Be.txt
-NBA/transcripts/2026-10-26/skvQV1YVHNg_CallingOurShot_Monday_s_NBA_Best_Picks_and_Predictions_for_October_26th.txt
-NBA/transcripts/2026-10-26/z2f9kqshjAU_Stokastic_NBA_DFS_Strategy_Monday_10_26_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
-NBA/transcripts/2026-10-26/zKnqDhEChKM_LockedOnNBA_GAME_NIGHT_Oklahoma_City_s_Jalen_Williams_Suffers_GRUESOME_Injury_Luka.txt
+# 8 files in NBA/transcripts/2026-10-27:
+NBA/transcripts/2026-10-27/-_6srVXPQno_Stokastic_NBA_DFS_Strategy_Tuesday_10_27_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
+NBA/transcripts/2026-10-27/-lUvKZptZj0_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_26_26.txt
+NBA/transcripts/2026-10-27/ExFUjpicPhg_LockedOnNBA_Cleveland_Cavaliers_DEMOLISH_Doubt_With_Overtime_Comeback_Over_Minneso.txt
+NBA/transcripts/2026-10-27/WHP0aYaw570_WagerTalk_Pistons_vs_Knicks_BEST_Bets_Tuesday_NBA_Picks_and_Predictions.txt
+NBA/transcripts/2026-10-27/cs1j0B5CZHg_DFSArmy_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt
+NBA/transcripts/2026-10-27/ep2afxmpmZo_SportsLine_World_Series_Picks_NBA_Bets_NHL_Early_Edge.txt
+NBA/transcripts/2026-10-27/hG_cPxmeHKk_JayMoney_Real_Talk_With_Jay.txt
+NBA/transcripts/2026-10-27/ic5oyY_YjwY_CallingOurShot_Tuesday_s_NBA_Best_Picks_and_Predictions_for_October_27th.txt
 
 # this run:
-UPCOMING ActionNetwork D16VryKgi9U Top NBA Sides, Totals & Player Props for Tuesday! | Buckets   (not aired yet - scheduled for 10/26/26 11:00PM)
+UPCOMING ActionNetwork ybejIGVfg_M Top NBA Sides, Totals & Player Props for  Wednesday! | Bucke  (not aired yet - scheduled for 10/27/26 11:00PM)
+NOCAPS  ActionNetwork D16VryKgi9U Top NBA Sides, Totals & Player Props for Tuesday! | Buckets   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk RFAfR62fL8Y NBA Picks Today & Best Bets | PROFIT PICKS 10/27 📱  (not aired yet - scheduled for 10/27/26 1:30PM)
-UPCOMING WagerTalk gLZ_iZnmW3Q NBA Picks Today & Best Bets | PROFIT PICKS 10/27  (not aired yet - scheduled for 10/27/26 1:30PM)
-NOCAPS  RotoGrinders -lUvKZptZj0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/26/2  (no captions; Groq: still live - audio not final yet)
+NEW     NBA/transcripts/2026-10-27/WHP0aYaw570_WagerTalk_Pistons_vs_Knicks_BEST_Bets_Tuesday_NBA_Picks_and_Predictions.txt  (1,735 words)
+NEW     NBA/transcripts/2026-10-27/-lUvKZptZj0_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_26_26.txt  (16,417 words)
 UPCOMING RotoGrinders UgMZK3Ur5wM NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/27/2  (not aired yet - scheduled for 10/27/26 6:30PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NOCAPS  DFSArmy cs1j0B5CZHg NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: still live - audio not final yet)
+NEW     NBA/transcripts/2026-10-27/cs1j0B5CZHg_DFSArmy_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt  (9,557 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-27/-_6srVXPQno_Stokastic_NBA_DFS_Strategy_Tuesday_10_27_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt  (5,702 words)
+UPCOMING Stokastic WyU4CjInczE NBA DFS Strategy Wednesday 10/28/26 | DraftKings & FanDuel N  (not aired yet - scheduled for 10/28/26 9:00AM)
+UPCOMING Stokastic qjz3TcR2Trc NBA DFS Live Before Lock (Wednesday 10/28/26) | DraftKings &  (not aired yet - scheduled for 10/28/26 6:00PM)
+UPCOMING Stokastic LZP1TiV8MW0 NBA DFS Strategy Thursday 10/29/26 | DraftKings & FanDuel NB  (not aired yet - scheduled for 10/29/26 9:00AM)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-UPCOMING LockedOnNBA Hz6YkTypBxQ CAVS POSTCAST: The Cleveland Cavaliers Welcome the Undefeate  (not aired yet - scheduled for 10/26/26 9:55PM)
+NEW     NBA/transcripts/2026-10-27/ExFUjpicPhg_LockedOnNBA_Cleveland_Cavaliers_DEMOLISH_Doubt_With_Overtime_Comeback_Over_Minneso.txt  (7,481 words)
+NOCAPS  LockedOnNBA Hz6YkTypBxQ CAVS POSTCAST: The Cleveland Cavaliers Win An Overtime THRIL  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod WSNN4Ll-qg4 NBA Tuesday Picks - 10/27/26 | NBA Bets, Player Props and Pr  (not aired yet - scheduled for 10/26/26 9:05PM)
-NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOCAPS  JayMoney hG_cPxmeHKk NBA Talk With Jay Money with Free NBA Picks and Predictions  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.5h ago))
-NEW     NBA/transcripts/2026-10-26/nikpN08xUrw_JayMoney_Monday_NBA_Talk_With_Jay_Money_Shark_10_26_26_Free_NBA_Picks_Sports_Be.txt  (7,185 words)
+NOCAPS  NBAGamblingPod WSNN4Ll-qg4 NBA Tuesday Picks - 10/27/26 | NBA Bets, Player Props and Pr  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.9h ago))
+NEW     NBA/transcripts/2026-10-27/ic5oyY_YjwY_CallingOurShot_Tuesday_s_NBA_Best_Picks_and_Predictions_for_October_27th.txt  (3,185 words)
+UPCOMING JayMoney OiT_31V3_zU Tuesday NBA Talk With Jay Money & The Shark 10/27/26 Free NB  (not aired yet - scheduled for 10/27/26 1:00PM)
+NEW     NBA/transcripts/2026-10-27/hG_cPxmeHKk_JayMoney_Real_Talk_With_Jay.txt  (3,487 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine ep2afxmpmZo World Series Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 10/27/26 10:00AM)
+NEW     NBA/transcripts/2026-10-27/ep2afxmpmZo_SportsLine_World_Series_Picks_NBA_Bets_NHL_Early_Edge.txt  (6,356 words)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
