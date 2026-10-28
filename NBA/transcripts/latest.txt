@@ -1,8 +1,9 @@
-# NBA transcripts | 2026-10-28 | updated 2026-10-28 18:39 ET
+# NBA transcripts | 2026-10-28 | updated 2026-10-28 18:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 26 files in NBA/transcripts/2026-10-28:
+# 27 files in NBA/transcripts/2026-10-28:
 NBA/transcripts/2026-10-28/-pNPaJ6UNPI_ShipItNation_NBA_DFS_Process_October_28_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
 NBA/transcripts/2026-10-28/5QvERFU5_08_MattyChucks_NBA_Best_Bets_Plays_Wednesday_Oct_28th_5_0_Show_Play_Run.txt
+NBA/transcripts/2026-10-28/9g4ssoPVXuA_LandYourBets_Wednesday_NBA_Live_Show_Best_Bets_Today_October_28_Land_Your_Bets.txt
 NBA/transcripts/2026-10-28/A0spTGZzLwQ_CallingOurShot_Wednesday_s_NBA_Best_Picks_and_Predictions_for_October_28th.txt
 NBA/transcripts/2026-10-28/AZz4QulHebk_PickDawgz_NBA_Picks_Predictions_For_Today_Wednesday_10_28_26_FREE_NBA_Best_Bets.txt
 NBA/transcripts/2026-10-28/BWiP8gVcm0k_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_October_28th.txt
@@ -34,9 +35,7 @@ NONE    channel SGPN: nothing new in the date window (or everything already save
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NOCAPS  WagerTalk IfQXSPCJfaM NBA Picks Wednesday & Best Bets | PROFIT PICKS 10/28 📱  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  RotoGrinders g8EKBDrKVdM NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/28/2  (no captions; Groq: still live - audio not final yet)
-UPCOMING RotoGrinders WSqvGjYTF0o NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/30/2  (not aired yet - scheduled for 10/30/26 5:40PM)
-UPCOMING RotoGrinders FTKPGqRYPiY NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/29/2  (not aired yet - scheduled for 10/29/26 6:15PM)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
@@ -48,7 +47,7 @@ NONE    channel NBAGamblingPod: nothing new in the date window (or everything al
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 FAILED  JayMoney GhXL4RTHEac Overnight NBA Talk With Jay Money Wednesday Early NBA Picks: ERROR: [youtube] GhXL4RTHEac: Join this channel to get access to members-only co
 FAILED  JayMoney BJEJF7Hpg_w Night Time NBA Talk With Jay Money Tuesday Overnight NBA Pic: ERROR: [youtube] BJEJF7Hpg_w: Join this channel to get access to members-only co
-NOCAPS  LandYourBets 9g4ssoPVXuA Wednesday NBA Live Show 🔴 Best Bets Today October 28 | Land   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-10-28/9g4ssoPVXuA_LandYourBets_Wednesday_NBA_Live_Show_Best_Bets_Today_October_28_Land_Your_Bets.txt  (12,694 words, via Groq)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
@@ -56,5 +55,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NOCAPS  FantasyAlarm rS2yw0q3pOE NBA DFS Picks Today 10/28 | DraftKings Lineup Strategy & Top  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-28/xbv7NN5QDQY_PickDawgz_NBA_Picks_Today_10_28_26_Best_Wednesday_NBA_Bets_are_ON_DECK.txt  (5,144 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
