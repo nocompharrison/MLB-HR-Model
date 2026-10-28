@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-28 18:04 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-28 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -112,7 +112,6 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Aaron Wiggins](https://www.espn.com/nba/player/_/id/4397183/aaron-wiggins) | G | Oct 28 | Day-To-Day | Oct 28: Wiggins (knee) is probable for Wednesday against Miami. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
 
@@ -196,11 +195,10 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 9 | Out | Oct 28: Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports. |
-| [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Oct 28 | Day-To-Day | Oct 27: Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia. |
+| [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 13 | Out | Oct 28: Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports. |
 | [Obi Toppin](https://www.espn.com/nba/player/_/id/4278355/obi-toppin) | F | Oct 28 | Day-To-Day | Oct 27: Toppin is probable to play Wednesday against the 76ers due to a left hand sprain. |
 | [Aaron Nesmith](https://www.espn.com/nba/player/_/id/4396909/aaron-nesmith) | G | Oct 28 | Day-To-Day | Oct 27: Nesmith (hamstring) is probable for Wednesday's game against the 76ers. |
-| [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Oct 30 | Out | Oct 27: McConnell (hamstring) is out for Wednesday's game against the 76ers. |
+| [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Nov 2 | Out | Oct 27: McConnell (hamstring) is out for Wednesday's game against the 76ers. |
 | [Ivica Zubac](https://www.espn.com/nba/player/_/id/4017837/ivica-zubac) | C | Oct 30 | Out | Oct 27: Zubac (ankle) is out for Wednesday's game against the 76ers. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Dec 1 | Out | Oct 26: Sheppard is scheduled for surgery to repair a torn meniscus in his left knee Wednesday, Dustin Dopirak of The Indianapolis Star reports. |
 | [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Feb 9: Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports. |
@@ -220,8 +218,10 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Cameron Carr](https://www.espn.com/nba/player/_/id/5113969/cameron-carr) | G | Oct 28 | Out | Oct 28: Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports |
-| [Adou Thiero](https://www.espn.com/nba/player/_/id/5060631/adou-thiero) | F | Oct 28 | Out | Oct 26: Thiero (knee) is out for Tuesday's game against Portland. |
+| [Cameron Carr](https://www.espn.com/nba/player/_/id/5113969/cameron-carr) | G | Oct 30 | Out | Oct 28: Carr (oblique) is out for Wednesday's game against the Clippers. |
+| [Adou Thiero](https://www.espn.com/nba/player/_/id/5060631/adou-thiero) | F | Oct 30 | Out | Oct 28: Thiero (knee) is out for Wednesday's game against the Clippers. |
+| [Ziaire Williams](https://www.espn.com/nba/player/_/id/4433137/ziaire-williams) | F | Oct 30 | Out | Oct 28: Williams (foot) is out for Wednesday's game against the Clippers. |
+| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Oct 30 | Out | Oct 28: Doncic (back) is out for Wednesday's game against the Clippers. |
 
 ![Image 34: Miami Heat](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png&h=40&w=40)Miami Heat
 
@@ -252,7 +252,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Alex Caruso](https://www.espn.com/nba/player/_/id/2991350/alex-caruso) | G | Oct 31 | Out | Oct 28: Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports. |
+| [Alex Caruso](https://www.espn.com/nba/player/_/id/2991350/alex-caruso) | G | Nov 4 | Out | Oct 28: Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports. |
 | [Thomas Sorber](https://www.espn.com/nba/player/_/id/5061603/thomas-sorber) | C | Nov 4 | Out | Oct 27: Sorber (knee) has been ruled out for Wednesday's game against the Mavericks. |
 | [Chet Holmgren](https://www.espn.com/nba/player/_/id/4433255/chet-holmgren) | C | Oct 31 | Out | Oct 27: Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks. |
 | [Nikola Topic](https://www.espn.com/nba/player/_/id/5159925/nikola-topic) | G | Nov 4 | Out | Oct 27: Topic (back) will remain on the inactive list for Wednesday's game in Dallas. |
@@ -340,45 +340,65 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://related.trendingresults.net/topics/4331003/2353FEF)[New Small Suv For Elderly Leaves Others Behind - Take a Look!TrendingResults | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/2353FEF "New Small Suv For Elderly Leaves Others Behind - Take a Look!")
+[](https://confantentedited.com/47ac6ac5-8691-42a1-9bc3-f3770dc11f98)[6 Things Draining Your Retirement Income HappyBuck | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://confantentedited.com/47ac6ac5-8691-42a1-9bc3-f3770dc11f98 "6 Things Draining Your Retirement Income")
 
-[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off for Cybersecurity Awareness Month Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off for Cybersecurity Awareness Month")
+Undo
 
-[](https://blavity.com/is-zohran-mandanis-apology-to-black-new-yorkers-enough)[Zohran Mamdani’s Apology To Black New Yorkers Highlights Bigger Political Problem Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://blavity.com/is-zohran-mandanis-apology-to-black-new-yorkers-enough "Zohran Mamdani’s Apology To Black New Yorkers Highlights Bigger Political Problem")
+[](https://breathewelltoday.com/sk/adv-04)[Dermatologists: The 1 Vitamin You Need If You Have Wrinkles Life Better | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://breathewelltoday.com/sk/adv-04 "Dermatologists: The 1 Vitamin You Need If You Have Wrinkles")
 
-[](https://blavity.com/entertainment/zoe-saldana-becomes-hollywoods-highest-grossing-actor-of-all-time)[Zoe Saldaña Becomes Hollywood's Highest Grossing Actor Of All-Time, Surpassing Samuel L. Jackson, Scarlett Johansson Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://blavity.com/entertainment/zoe-saldana-becomes-hollywoods-highest-grossing-actor-of-all-time "Zoe Saldaña Becomes Hollywood's Highest Grossing Actor Of All-Time, Surpassing Samuel L. Jackson, Scarlett Johansson")
+Undo
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://trk.emberfieldguide.online/6ae14c77af7b409296316a96)[Taking Blood Pressure Pills? 4 Questions Seniors Should Ask Their Doctor First Old Heart Health | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://trk.emberfieldguide.online/6ae14c77af7b409296316a96 "Taking Blood Pressure Pills? 4 Questions Seniors Should Ask Their Doctor First")
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Wednesday Benefit Check Seniors are taking advantage of these benefits The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Wednesday Benefit Check")
+Undo
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://onlinefinance.net/savings-account-fs2)[Savers in North Charleston are checking this rate list Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "Savers in North Charleston are checking this rate list")
 
-[](https://offer.worthalookdaily.com/b988d0f3-ddc7-4ef4-96e5-051075917b70)[Costco Shoppers Say This Spray Has Hair Growing Like Weeds HolisticPlusLab.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://offer.worthalookdaily.com/b988d0f3-ddc7-4ef4-96e5-051075917b70 "Costco Shoppers Say This Spray Has Hair Growing Like Weeds")
+Undo
 
-[](https://seniordealtoday.com/vFfcS2BK)[Retirees Could Be Due a Large Surprise This Wednesday If you're a senior and you don't take advantage of these benefits this month, you'll regret It big time SeniorDiscountClub | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://seniordealtoday.com/vFfcS2BK "Retirees Could Be Due a Large Surprise This Wednesday")
+[](https://tick.topchicdeals.com/7aa991cd-5c87-456c-9a5d-7f8ab9562184)[Guests Can't Stop Talking About This Octopus Tray Turn movie nights, parties, and happy hours into something more memorable with a serving tray guests will notice.Graddi | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://tick.topchicdeals.com/7aa991cd-5c87-456c-9a5d-7f8ab9562184 "Guests Can't Stop Talking About This Octopus Tray")
+
+Undo
+
+[](https://seniordealtoday.com/vFfcS2BK)[Discounts Seniors Get Only When They Ask If you're a senior and you don't take advantage of these benefits this month, you'll regret It big time SeniorDiscountClub | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://seniordealtoday.com/vFfcS2BK "Discounts Seniors Get Only When They Ask")
+
+Undo
+
+[](https://tick.storytelltv.com/cb34a5ab-b0af-4c40-9f02-dd307bd09495)[These Are the Coolest Gifts on Everyone's Wishlist in 2026 List | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://tick.storytelltv.com/cb34a5ab-b0af-4c40-9f02-dd307bd09495 "These Are the Coolest Gifts on Everyone's Wishlist in 2026")
+
+Undo
+
+[](https://www.littlefries.com/dive-into-cher-s-75-million-malibu-oasis-a-peek-inside-her-italian-renaissance-estate)[Cher's $75M Malibu Mansion: The Inside Is Unreal, Proof in Photos Little Fries | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.littlefries.com/dive-into-cher-s-75-million-malibu-oasis-a-peek-inside-her-italian-renaissance-estate "Cher's $75M Malibu Mansion: The Inside Is Unreal, Proof in Photos")
+
+Undo
+
+[](https://populardiscovery.com/go/6ad89c58e6bb10813f06c656)[5 Clever Gifts You’ll Want to Keep for Yourself Insanely Cool Gadgets That Are Taking the US by Storm PopularDiscovery | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://populardiscovery.com/go/6ad89c58e6bb10813f06c656 "5 Clever Gifts You’ll Want to Keep for Yourself")
+
+Undo
 
 ### NBA News
 
-[![Image 48: Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers](https://a.espncdn.com/combiner/i?img=/photo/2026/0401/r1637203_1296x729_16-9.jpg&w=220) ## Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers Lakers star Luka Doncic (back) and starter Ziaire Williams (foot) will not play in Wednesday's game vs. the Clippers, who will be without Rui Hachimura (quad). * 23m * Dave McMenamin](https://www.espn.com/nba/story/_/id/50310776/lakers-rule-luka-doncic-ziaire-williams-vs-clippers)
+[![Image 48: Timberwolves say Anthony Edwards will be 'good as new' after knee surgery](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737482_600x400_3-2.jpg&w=220) ## Timberwolves say Anthony Edwards will be 'good as new' after knee surgery The Timberwolves believe Anthony Edwards will be "good as new" following arthroscopic surgery for a lingering injury to his right knee. * 27m](https://www.espn.com/nba/story/_/id/50310964/wolves-say-edwards-good-new-knee-surgery)
 
-[![Image 49: Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737614_1296x729_16-9.jpg&w=220) ## Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground The San Antonio Spurs are the early favorites to win the NBA championship, with Victor Wembanyama the fave to take home MVP honors. * 1h * Doug Greenberg](https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds)
+[![Image 49: Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers](https://a.espncdn.com/combiner/i?img=/photo/2026/0401/r1637203_1296x729_16-9.jpg&w=220) ## Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers Lakers star Luka Doncic (back) and starter Ziaire Williams (foot) will not play in Wednesday's game vs. the Clippers, who will be without Rui Hachimura (quad). * 1h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50310776/lakers-rule-luka-doncic-ziaire-williams-vs-clippers)
 
-[![Image 50: Ernie Johnson says this is his final season as 'Inside the NBA' host](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737637_2_1296x729_16-9.jpg&w=220) ## Ernie Johnson says this is his final season as 'Inside the NBA' host Ernie Johnson will retire as host of "Inside the NBA" after the season, saying it was his decision to step away and that "it's just time." * 1h](https://www.espn.com/nba/story/_/id/50309868/ernie-johnson-leaving-nba-host-season)
+[![Image 50: Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737614_1296x729_16-9.jpg&w=220) ## Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground The San Antonio Spurs are the early favorites to win the NBA championship, with Victor Wembanyama the fave to take home MVP honors. * 2h * Doug Greenberg](https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off the #1 Way to Stay Safe Online Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off the #1 Way to Stay Safe Online")
+[](https://confantentedited.com/47ac6ac5-8691-42a1-9bc3-f3770dc11f98)[6 Things To Adjust When Money Gets Tight (Most ignore #5)HappyBuck | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://confantentedited.com/47ac6ac5-8691-42a1-9bc3-f3770dc11f98 "6 Things To Adjust When Money Gets Tight (Most ignore #5)")
 
 Undo
 
-[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+[](https://breathewelltoday.com/sk/adv-04)[Dermatologists: The 1 Vitamin You Need If You Have Wrinkled Skin Life Better | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://breathewelltoday.com/sk/adv-04 "Dermatologists: The 1 Vitamin You Need If You Have Wrinkled Skin")
 
 Undo
 
-[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
+[](https://track.roinattrack.com/0d826e1b-1033-4497-8671-882c613aff4c)[Every Tax Paying American Should Be Using This Retirement Loophole In 2026 Protecting My Savings | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://track.roinattrack.com/0d826e1b-1033-4497-8671-882c613aff4c "Every Tax Paying American Should Be Using This Retirement Loophole In 2026")
+
+Undo
 
 ![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

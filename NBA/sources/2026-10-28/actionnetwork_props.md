@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-5-picks-predictions-wednesday-october-28 | fetched: 2026-10-28 18:04 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-5-picks-predictions-wednesday-october-28 | fetched: 2026-10-28 18:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -100,7 +100,7 @@ Matas Buzelis Over 1.5 Three-Pointers Made
 NBA
 [NBA Best Bets for Hawks vs Heat, Pacers vs 76ers, More (Wednesday, Oct. 28)](https://www.actionnetwork.com/nba/nba-best-bets-our-staffs-12-predictions-for-wednesday-october-28)
 Action Network Staff
-1 hour ago
+2 hours ago
 [![NBA Predictions & Picks for Wednesday, October 28](https://images.actionnetwork.com/blog/2026/10/MooreBets102826.jpg)](https://www.actionnetwork.com/nba/nba-predictions-picks-for-wednesday-october-28)
 NBA
 [NBA Predictions & Picks for Wednesday, October 28](https://www.actionnetwork.com/nba/nba-predictions-picks-for-wednesday-october-28)
@@ -110,7 +110,7 @@ Matt Moore
 NBA
 [NBA Parlay Picks: 76ers-Pacers & Thunder-Mavericks on Wednesday, October 28](https://www.actionnetwork.com/nba/nba-parlay-picks-76ers-pacers-and-thunder-mavericks-on-wednesday-october-28)
 Alex Hinton
-2 hours ago
+3 hours ago
 [![NBA Moneyline Parlay: 2 Picks for Wednesday, October 28](https://images.actionnetwork.com/blog/2026/10/NBAMLParlay-10282026.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-picks-parlay-2-predictions-for-wednesday-october-28)
 NBA
 [NBA Moneyline Parlay: 2 Picks for Wednesday, October 28](https://www.actionnetwork.com/nba/nba-moneyline-picks-parlay-2-predictions-for-wednesday-october-28)
@@ -125,12 +125,12 @@ Joe Dellera
 NBA
 [Heat vs Hawks Prediction, Pick, NBA Odds for Wednesday, October 28](https://www.actionnetwork.com/nba/miami-heat-vs-atlanta-hawks-prediction-pick-nba-odds-wednesday-october-28)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Hornets vs Pistons Prediction, Pick, NBA Odds for Wednesday, October 28](https://images.actionnetwork.com/blog/2026/10/Hornets-Pistons-10282026.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-detroit-pistons-prediction-pick-nba-odds-wednesday-october-28)
 NBA
 [Hornets vs Pistons Prediction, Pick, NBA Odds for Wednesday, October 28](https://www.actionnetwork.com/nba/charlotte-hornets-vs-detroit-pistons-prediction-pick-nba-odds-wednesday-october-28)
 Matt Moore
-7 hours ago
+8 hours ago
 [![Wizards vs Cavaliers Predictions, Odds, Picks: Cleveland is Laying Too Many Points](https://images.actionnetwork.com/blog/2026/10/wizards-cavaliers-10282026.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-october-28)
 NBA
 [Wizards vs Cavaliers Predictions, Odds, Picks: Cleveland is Laying Too Many Points](https://www.actionnetwork.com/nba/washington-wizards-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-october-28)
@@ -140,7 +140,7 @@ Matt Moore
 NBA
 [Knicks vs Bulls Predictions, Odds, Picks: Tough Spot for New York](https://www.actionnetwork.com/nba/new-york-knicks-vs-chicago-bulls-prediction-pick-nba-odds-wednesday-october-28)
 Matt Moore
-50 mins ago
+1 hour ago
 [![Warriors vs Timberwolves Prediction, Pick, NBA Odds for Wednesday, October 28](https://images.actionnetwork.com/blog/2026/10/gobert_rudy_102826.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-minnesota-timberwolves-prediction-pick-nba-odds-wednesday-october-28)
 NBA
 [Warriors vs Timberwolves Prediction, Pick, NBA Odds for Wednesday, October 28](https://www.actionnetwork.com/nba/golden-state-warriors-vs-minnesota-timberwolves-prediction-pick-nba-odds-wednesday-october-28)
@@ -153,5 +153,5 @@ Ameer Tyree
 2 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9ce8a8c6-aa8f-4117-b6cc-a82146f64bd8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d776cc11-e26e-4bcf-8737-845f22ff6713&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=23&tw_session_id=1793225022076-653176508&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9ce8a8c6-aa8f-4117-b6cc-a82146f64bd8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d776cc11-e26e-4bcf-8737-845f22ff6713&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=23&tw_session_id=1793225022076-653176508&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=84d0ef00-da28-4ca8-932b-8d1a3c52579b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d776cc11-e26e-4bcf-8737-845f22ff6713&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=7463&tw_iframe_status=0&tw_pid_src=2&tw_session_count=23&tw_session_id=1793225022076-653176508&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=84d0ef00-da28-4ca8-932b-8d1a3c52579b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d776cc11-e26e-4bcf-8737-845f22ff6713&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=7463&tw_iframe_status=0&tw_pid_src=2&tw_session_count=23&tw_session_id=1793225022076-653176508&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1674da92-146e-4e37-a95f-2e1b43a1b22a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34e092a0-a358-43ed-8cf0-502f89d74325&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=24&tw_session_id=1793226860631-195209500&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1674da92-146e-4e37-a95f-2e1b43a1b22a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34e092a0-a358-43ed-8cf0-502f89d74325&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=24&tw_session_id=1793226860631-195209500&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0d06a102-46d3-4c1d-8536-324de2f379fd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34e092a0-a358-43ed-8cf0-502f89d74325&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=7504&tw_iframe_status=0&tw_pid_src=2&tw_session_count=24&tw_session_id=1793226860631-195209500&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0d06a102-46d3-4c1d-8536-324de2f379fd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34e092a0-a358-43ed-8cf0-502f89d74325&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-5-picks-predictions-wednesday-october-28&tw_engaged_ms=7504&tw_iframe_status=0&tw_pid_src=2&tw_session_count=24&tw_session_id=1793226860631-195209500&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
