@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,20 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Heading to bench](https://www.rotowire.com/basketball/headlines/dean-wade-news-heading-to-bench-536543)
+**F** Philadelphia 76ers
+October 28, 2026
+Wade will [come off the bench](https://x.com/sixers/status/2115571837149028636) in Wednesday's game against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Bilal Coulibaly](https://www.rotowire.com/basketball/player/bilal-coulibaly-5945)[Moving to bench](https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-moving-to-bench-536542)
+**F** Washington Wizards
+October 28, 2026
+Couliably [won't start](https://www.nba.com/players/todays-lineups) Wednesday's game against the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
 [Tre Johnson](https://www.rotowire.com/basketball/player/tre-johnson-6543)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/tre-johnson-injury-ruled-out-wednesday-536541)
 **G** Washington Wizards
@@ -57,9 +71,8 @@ Nesmith (hamstring) is [available](https://ak-static.cms.nba.com/referee/injury/
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Ready to roll Wednesday](https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ready-to-roll-wednesday-536534)
+[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Ready to roll Wednesday](https://www.rotowire.com/basketball/headlines/obi-toppin-news-ready-to-roll-wednesday-536534)
 **F** Indiana Pacers
-Hand
 October 28, 2026
 Toppin (hand) is [active](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_06_00PM.pdf) for Wednesday's game against Philadelphia.
 **ANALYSIS**  
@@ -183,20 +196,6 @@ Vassell supplied 14 points (5-11 FG, 4-7 3Pt), four rebounds, eight assists and 
 **G** Sacramento Kings
 October 28, 2026
 Acuff posted 19 points (8-20 FG, 3-7 3Pt), three rebounds and five assists across 33 minutes during Tuesday's 130-103 loss to San Antonio.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[Records two steals](https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510)
-**F** Detroit Pistons
-October 28, 2026
-Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Mikal Bridges](https://www.rotowire.com/basketball/player/mikal-bridges-4386)[Drills four triples in win](https://www.rotowire.com/basketball/headlines/mikal-bridges-news-drills-four-triples-in-win-536509)
-**F** New York Knicks
-October 28, 2026
-Bridges amassed 12 points (4-10 FG, 4-8 3Pt), three rebounds, four assists and one steal over 32 minutes during Tuesday's 111-97 victory over the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

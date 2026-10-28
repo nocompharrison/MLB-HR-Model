@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/76ers-vs-pacers-nba-prediction-picks-and-prop-bets-oct-28 | fetched: 2026-10-28 18:35 ET -->
+<!-- source: https://www.fanduel.com/research/76ers-vs-pacers-nba-prediction-picks-and-prop-bets-oct-28 | fetched: 2026-10-28 18:50 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -40,7 +40,7 @@ Give me the Sixers at -4.5.
 ### [Joel Embiid to Record a Double-Double (+100)](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-indiana-pacers-36240470?tab=player-combos)
 Player Double Double
 [Joel Embiid](https://sportsbook.fanduel.com/teams/nba/roster/joel-embiid-2251)
-+110
++106
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-indiana-pacers-36240470)
 Odds/lines subject to change
@@ -70,8 +70,13 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Trail Blazers vs. Grizzlies Prediction, Odds, Picks, Best Bets for Oct. 29](https://www.fanduel.com/research/trail-blazers-vs-grizzlies-prediction-nba-odds-spread-best-bets-for-10-29-2026)
+2m
+Find Trail Blazers vs. Grizzlies predictions, betting odds, moneyline, spread, over/under and more for the Oct. 29 NBA matchup.
+[](https://www.fanduel.com/research/trail-blazers-vs-grizzlies-prediction-nba-odds-spread-best-bets-for-10-29-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - October 29](https://www.fanduel.com/research/nba-predictions-odds-10-29-2026)
-14m
+29m
 Preview NBA games for Thursday, October 29, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-10-29-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -84,9 +89,4 @@ FanDuel NBA DFS best plays and picks for Wednesday night.
 8h
 What are the best NBA bets and predictions for today? Four NBA picks for a busy Wednesday slate.
 [](https://www.fanduel.com/research/nba-picks-today-4-predictions-best-bets-wednesday-oct-28)
-[NBA](https://www.fanduel.com/research/nba)
-## [76ers vs. Pacers: NBA Prediction, Picks and Prop Bets (Oct. 28)](https://www.fanduel.com/research/76ers-vs-pacers-nba-prediction-picks-and-prop-bets-oct-28)
-10h
-76ers vs. Pacers prediction and prop bets for today.
-[](https://www.fanduel.com/research/76ers-vs-pacers-nba-prediction-picks-and-prop-bets-oct-28)
 

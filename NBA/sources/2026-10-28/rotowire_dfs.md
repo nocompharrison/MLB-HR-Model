@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-october-28-2026-144393 | fetched: 2026-10-28 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-october-28-2026-144393 | fetched: 2026-10-28 18:50 ET -->
 
 # NBA Picks Today: Best Bets, Props & Prediction Market Plays for Oct. 28
 Get today’s best NBA bets for Oct. 28, including expert picks against the spread, player props and Kalshi prediction market plays from DraftKings and more. Updated NBA odds.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ### **Atlanta Hawks -2.5 vs. Miami Heat (-110)**
 _DraftKings, 1pm ET_
 **Nick Whalen:** I'll keep on fading the Heat, who have been easily the biggest disappointment in the NBA through the first week of play. Atlanta is just 2-2, but the Hawks are sixth in NET rating, while Miami has both a bottom-five offense and bottom-five defense. The Giannis-Bam fit is a big problem for Miami, and while the Heat are shooting just 30% from three — a number that will rise — Atlanta is shooting only 33%, so I don't necessarily see this as a breakthrough spot for the Heat on the road.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=4298dbac-ad10-4901-87de-fe868ee715fb&operator_item_id=b4800cc8-3820-426b-9f09-7493e8994c73&pageview_id=be64abd5-c195-4725-9d45-f5a069e8c63f)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=e812595c-d8e8-4ffa-b819-06ee39196baa&operator_item_id=58a1db84-60fb-4c72-a466-bd93cd811933&pageview_id=61d55412-3365-46a6-935c-a57e86b04340)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=4a727344-d8c0-4d14-bb98-eece2713ce16&operator_item_id=b4800cc8-3820-426b-9f09-7493e8994c73&pageview_id=be64abd5-c195-4725-9d45-f5a069e8c63f)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=eb03b3d9-a432-40a2-bb9b-8357df73cadc&operator_item_id=603fb9d1-62a6-4c41-8651-2c76094437b1&pageview_id=be64abd5-c195-4725-9d45-f5a069e8c63f) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=07d36254-0dd5-4c20-9489-9e4f9065aa6b&operator_item_id=58a1db84-60fb-4c72-a466-bd93cd811933&pageview_id=61d55412-3365-46a6-935c-a57e86b04340)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=fad5c72e-1b23-4ab1-a818-3935c7fd919f&operator_item_id=5949add2-ac76-4504-8229-25713e95b609&pageview_id=61d55412-3365-46a6-935c-a57e86b04340) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=f013bc4b-fa56-46f4-9c42-a3ee6a782221&operator_item_id=603fb9d1-62a6-4c41-8651-2c76094437b1&pageview_id=be64abd5-c195-4725-9d45-f5a069e8c63f)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-october-28-2026-144393&cta_id=bfa374c4-8695-4e14-a1be-c6081f407daa&operator_item_id=5949add2-ac76-4504-8229-25713e95b609&pageview_id=61d55412-3365-46a6-935c-a57e86b04340)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  [Caleb Wilson](https://www.rotowire.com/basketball/player/caleb-wilson-6926) over 1.5 made threes (-103) vs. New York Knicks
 _Kalshi, 4:40 PM ET_
@@ -55,6 +55,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Jaylin Noel](https://www.rotowire.com/football/player/jaylin-noel-18555)
+Needs season-ending surgery on toe
+NFL
+Houston Texans
   * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
 [George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
 Remains limited Wednesday
@@ -75,11 +80,6 @@ Baltimore Ravens
 Out at least two weeks
 NBA
 Indiana Pacers
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Jaylin Noel](https://www.rotowire.com/football/player/jaylin-noel-18555)
-Lands on injured reserve
-NFL
-Houston Texans
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -121,24 +121,29 @@ Indiana Pacers
 Won't play Wednesday
 NBA
 Los Angeles Lakers
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)
-Will debut Wednesday
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)
+Heading to bench
 NBA
-Washington Wizards
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)
-Will play Wednesday
-NBA
-Orlando Magic
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
+Philadelphia 76ers
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Yaxel Lendeborg](https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562)
 Available to play
 NBA
-Indiana Pacers
+Golden State Warriors
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)
+On minutes restriction Wednesday
+NBA
+Washington Wizards
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Jaylin Noel](https://www.rotowire.com/football/player/jaylin-noel-18555)
+Needs season-ending surgery on toe
+NFL
+Houston Texans
   * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
 [George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
 Remains limited Wednesday
@@ -154,11 +159,6 @@ Denver Broncos
 Practices fully Wednesday
 NFL
 Baltimore Ravens
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Jaylin Noel](https://www.rotowire.com/football/player/jaylin-noel-18555)
-Lands on injured reserve
-NFL
-Houston Texans
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Rashee Rice](https://www.rotowire.com/football/player/rashee-rice-16963)
 Returns in limited fashion Wednesday
