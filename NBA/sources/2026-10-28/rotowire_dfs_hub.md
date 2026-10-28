@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-28 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-28 18:04 ET -->
 
 # NBA DFS Picks Today
 October 28, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Wednesday, October 28 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (24) All NBA news Atlanta Hawks (MIA @ ATL) Charlotte Hornets (CHA @ DET) Chicago Bulls (NYK @ CHI) Cleveland Cavaliers (WSH @ CLE) Dallas Mavericks (OKC @ DAL) Denver Nuggets (DEN @ NOP) Detroit Pistons (CHA @ DET) Golden State Warriors (GSW @ MIN) Houston Rockets (HOU @ MIL) Indiana Pacers (PHI @ IND) Los Angeles Clippers (LAL @ LAC) Los Angeles Lakers (LAL @ LAC) Miami Heat (MIA @ ATL) Milwaukee Bucks (HOU @ MIL) Minnesota Timberwolves (GSW @ MIN) New Orleans Pelicans (DEN @ NOP) New York Knicks (NYK @ CHI) Oklahoma City Thunder (OKC @ DAL) Orlando Magic (ORL @ TOR) Philadelphia 76ers (PHI @ IND) San Antonio Spurs (SAN @ UTA) Toronto Raptors (ORL @ TOR) Utah Jazz (SAN @ UTA) Washington Wizards (WSH @ CLE)
-Los Angeles LakersLAL @ LAC - 10:30 PM ET
-**[Cameron Carr](https://www.rotowire.com/basketball/player/cameron-carr-6983)** _G_ OUT4:12 PM ET
-#### Missing fifth straight contest
-Carr (oblique) is out for Wednesday's game against the Clippers.
+Golden State WarriorsGSW @ MIN - 8:00 PM ET
+**[Yaxel Lendeborg](https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562)** _F_ Q _Top_ 5:55 PM ET
+#### Trending toward playing Wednesday
+Lendeborg (foot) is trending toward playing Wednesday against the Timberwolves, Anthony Slater of ESPN.com reports.
 Analysis
-The rookie first-rounder will need more time to recover from the oblique injury that's kept him sidelined for what will be his fifth consecutive contest. Carr's next chance to suit up will come against the Warriors on Friday in the first Emirates NBA Cup matchup.
-Los Angeles LakersLAL @ LAC - 10:30 PM ET
-**[Adou Thiero](https://www.rotowire.com/basketball/player/adou-thiero-6578)** _F_ OUT4:10 PM ET
-#### Remains sidelined
-Thiero (knee) is out for Wednesday's game against the Clippers.
+Lendeborg went through shootaround without issue and is currently going through his pregame routine, so we should have official confirmation on his status shortly. With Lendeborg expected to play, Georges Niang loses his streaming appeal.
+Indiana PacersPHI @ IND - 7:00 PM ET
+**[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)** _F_ P5:52 PM ET
+#### Downgraded to questionable
+Nesmith (hamstring) is now questionable for Wednesday's game against Philadelphia.
 Analysis
-Thiero will miss his fifth consecutive outing to begin the 2026-27 campaign with swelling in his left knee. His next chance to suit up will come against the Warriors on Friday in the first Emirates NBA Cup matchup.
-Los Angeles LakersLAL @ LAC - 10:30 PM ET
-**[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)** _F_ OUT _Top_ 4:06 PM ET
-#### Ruled out Wednesday
-Williams (foot) is out for Wednesday's game against the Clippers.
+Nesmith was initially listed as probable. However, he's now heading in the wrong direction and appears to be in danger of missing his second game of the 2026-27 campaign. If Nesmith is ruled out, Obi Toppin and Jarace Walker are candidates for more minutes, with one of them likely to enter the starting lineup.
+Dallas MavericksOKC @ DAL - 9:30 PM ET
+**[Zaccharie Risacher](https://www.rotowire.com/basketball/player/zaccharie-risacher-6249)** _F_ 5:44 PM ET
+#### Team option exercised
+The Mavericks exercised their fourth-year team option on Risacher's contract Wednesday, Brett Siegel of ClutchPoints.com reports.
 Analysis
-Williams is sitting out the second part of this back-to-back set. Sandro Mamukelashvili and Jake LaRavia seem to be the most likely options to replace Williams in the starting lineup.
-Los Angeles LakersLAL @ LAC - 10:30 PM ET
-**[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)** _G_ OUT _Top_ 4:05 PM ET
-#### Won't play Wednesday
-Doncic (back) is out for Wednesday's game against the Clippers.
+After being traded from Atlanta to Dallas this past offseason, Risacher is now officially under contract for the 2027-28 campaign. The 2024 No. 1 overall pick is averaging 8.0 points, 6.0 rebounds, 2.0 steals, 2.0 blocks and 1.5 assists while shooting 30.8 percent from the field through four regular-season games (one start) with the Mavericks.
+Indiana PacersPHI @ IND - 7:00 PM ET
+**[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)** _G_ OUT5:43 PM ET
+#### 'Getting closer' to return
+Pacers head coach Rick Carlisle stated McConnell (hamstring) is "doing better" and "getting closer" to a return, Alex Golden of SI.com reports.
 Analysis
-Doncic is sitting out the second half of this back-to-back set. Quentin Grimes appears to be the most likely candidate to replace Doncic in the starting lineup.
-San Antonio SpursSAN @ UTA - 9:00 PM ET
-**[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)** _G_ 3:54 PM ET
-#### Hits three more triples in victory
-Castle totaled 15 points (4-11 FG, 3-8 3Pt, 4-4 FT), five rebounds, five assists and one steal over 27 minutes during Tuesday's 130-103 win over the Kings.
+McConnell hasn't played this season due to a hamstring injury. While Carlisle didn't give a specific date on when McConnell will be cleared to suit up, it appears his return will come sooner rather than later. With Tyrese Haliburton (hamstring) sidelined, McConnell could work his way into the starting lineup at some point, though it may take him at least a few games before he receives a full workload.
+Indiana PacersPHI @ IND - 7:00 PM ET
+**[Ben Sheppard](https://www.rotowire.com/basketball/player/ben-sheppard-6033)** _G_ OUT5:41 PM ET
+#### Expected to miss multiple months
+Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports.
 Analysis
-Castle has not been shy from beyond the arc this season, as he's attempted a career-high 9.3 three-pointers through four outings so far. He's converting them at a career-best clip (37.8 percent), too, making 3.5 triples a night to go along with 18.3 points, 5.8 rebounds, 4.8 assists and 1.3 steals in 29.2 minutes. Castle's ability to stuff the stat sheet, coupled with his improved outside shooting, is a great sign for fantasy managers going forward.
-Show 5 more (51 remaining)
+Sheppard required a full repair and is without a definitive timetable for a return to action. With Tyrese Haliburton (hamstring) expected to miss at least two weeks, Quenton Jackson figures to see a significant uptick in playing time. Two-way player Braden Smith could also see increased action with the parent club.
+Show 5 more (60 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,18 +63,18 @@ DraftKings FanDuel
 Oct 29 - Main Slate - 3 games - 8:00 PM (lineups pending) Main Slate - 9 games - 7:00 PM Main Slate - 2 games - 9:30 PM Main Slate - 4 games - 8:00 PM Showdown - LAL @ LAC - 11:30 PM Oct 29 - Showdown - MEM @ POR - 11:00 PM (lineups pending) Showdown - POR @ LAL - 12:38 AM (lineups pending) Oct 29 - Showdown - CLE @ ATL - 8:00 PM (lineups pending) Showdown - LAL @ LAC - 10:30 PM Oct 29 - Showdown - MEM @ POR - 10:00 PM (lineups pending) Showdown - OKC @ DAL - 9:30 PM Showdown - ORL @ TOR - 7:30 PM Showdown - PHI @ IND - 7:00 PM Showdown - SAS @ UTA - 9:00 PM Oct 29 - Main Slate - 3 games - 8:00 PM (lineups pending) Main Slate - 9 games - 7:00 PM All games (9) MIA @ ATL - 7:00 PM ET WSH @ CLE - 7:00 PM ET CHA @ DET - 7:00 PM ET PHI @ IND - 7:00 PM ET ORL @ TOR - 7:30 PM ET NYK @ CHI - 8:00 PM ET HOU @ MIL - 8:00 PM ET GSW @ MIN - 8:00 PM ET DEN @ NOP - 8:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **MIA @ ATL**
-O/U 241.57:00 PM ET
+O/U 242.57:00 PM ET
 HeatExpectedAway
-_Implied_**119.5** _Spread_**+2.5**  
+_Implied_**120.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Bam Adebayo  | $7,800  | 41.0  |  
+| C  | Bam Adebayo  | $7,800  | 41.2  |  
 | PF  | Giannis Antetokounmpo  | $10,200  | 52.0  |  
-| PG  | Davion Mitchell  | $5,700  | 29.7  |  
-| SF  | Andrew Wiggins  | $4,900  | 27.8  |  
-| SG  | Klay Thompson  | $3,800  | 17.5  |  
+| PG  | Davion Mitchell  | $5,700  | 29.8  |  
+| SF  | Andrew Wiggins  | $4,900  | 27.0  |  
+| SG  | Klay Thompson  | $3,800  | 17.6  |  
 HawksExpectedHome
-_Implied_**122.0** _Spread_**-2.5**  
+_Implied_**122.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $5,700  | 34.1  |  
@@ -85,7 +85,7 @@ _Implied_**122.0** _Spread_**-2.5**
 **WSH @ CLE**
 O/U 240.57:00 PM ET
 WizardsExpectedAway
-_Implied_**115.0** _Spread_**+10.5**  
+_Implied_**115.5** _Spread_**+9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 26.4  |  
@@ -94,7 +94,7 @@ _Implied_**115.0** _Spread_**+10.5**
 | SF  | AJ Dybantsa  | $6,200  | 22.2  |  
 | SG  | Kyshawn George  | $5,900  | 29.0  |  
 CavaliersExpectedHome
-_Implied_**125.5** _Spread_**-10.5**  
+_Implied_**125.0** _Spread_**-9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,100  | 32.9  |  
@@ -137,9 +137,9 @@ PacersExpectedHome
 _Implied_**113.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jay Huff  | $3,800  | 29.3  |  
-| PF  | Pascal Siakam  | $7,700  | 40.5  |  
-| PG  | Andrew NembhardQ  | $5,800  | 34.6  |  
+| C  | Jay Huff  | $3,800  | 29.4  |  
+| PF  | Pascal Siakam  | $7,700  | 40.6  |  
+| PG  | Andrew Nembhard  | $5,800  | 34.6  |  
 | SF  | Aaron NesmithP  | $4,600  | 21.9  |  
 | SG  | Kelly Oubre  | $4,500  | 22.1  |  
 **ORL @ TOR**
@@ -159,8 +159,8 @@ _Implied_**114.0** _Spread_**-4.5**
 | --- | --- | --- | --- |  
 | C  | Jakob Poeltl  | $4,700  | 24.0  |  
 | PF  | Scottie Barnes  | $8,300  | 38.0  |  
-| PG  | Immanuel Quickley  | $6,900  | 32.7  |  
-| SF  | Ja'Kobe Walter  | $4,600  | 25.5  |  
+| PG  | Immanuel Quickley  | $6,900  | 32.8  |  
+| SF  | Ja'Kobe Walter  | $4,600  | 25.4  |  
 | SG  | RJ Barrett  | $7,100  | 35.2  |  
 **NYK @ CHI**
 O/U 232.58:00 PM ET
@@ -177,11 +177,11 @@ BullsExpectedHome
 _Implied_**112.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jalen Smith  | $5,200  | 26.9  |  
-| PF  | Caleb Wilson  | $7,100  | 34.4  |  
-| PG  | Josh Giddey  | $7,900  | 38.8  |  
-| SF  | Matas Buzelis  | $6,000  | 31.9  |  
-| SG  | Norman Powell  | $6,500  | 29.4  |  
+| C  | Jalen Smith  | $5,200  | 27.0  |  
+| PF  | Caleb Wilson  | $7,100  | 34.7  |  
+| PG  | Josh Giddey  | $7,900  | 37.2  |  
+| SF  | Matas Buzelis  | $6,000  | 32.1  |  
+| SG  | Norman Powell  | $6,500  | 29.6  |  
 **HOU @ MIL**
 O/U 226.58:00 PM ET
 RocketsExpectedAway
@@ -203,7 +203,7 @@ _Implied_**109.0** _Spread_**+8.5**
 | SF  | Jaime Jaquez  | $6,000  | 29.4  |  
 | SG  | Tyler Herro  | $7,200  | 34.3  |  
 **GSW @ MIN**
-O/U 227.58:00 PM ET
+O/U 227.68:00 PM ET
 WarriorsExpectedAway
 _Implied_**112.0** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
@@ -214,7 +214,7 @@ _Implied_**112.0** _Spread_**+3.5**
 | SF  | Yaxel LendeborgQ  | $7,000  | 37.4  |  
 | SG  | Brandin Podziemski  | $6,500  | 33.1  |  
 TimberwolvesExpectedHome
-_Implied_**115.5** _Spread_**-3.5**  
+_Implied_**115.7** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $5,600  | 33.4  |  
@@ -253,16 +253,16 @@ Main slatesMain - 9 games - 7:00 PMMain - 2 games - 9:30 PMMain - 4 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jay HuffIND - C  | vs PHI  | $3,800  | 27  | 29.3  | **7.72**  |  
+| 1  |  Jay HuffIND - C  | vs PHI  | $3,800  | 27  | 29.4  | **7.72**  |  
 | 2  |  Tari EasonHOU - SF  | @ MIL  | $4,600  | 31  | 32.4  | **7.05**  |  
 | 3  |  Jonathan KumingaMIN - PF  | vs GSW  | $5,100  | 33  | 35.3  | **6.92**  |  
 | 4  |  Bryce HopkinsDEN - SF  | @ NOP  | $3,700  | 27  | 25.2  | **6.81**  |  
-| 5  |  Pelle LarssonMIA - SG  | @ ATL  | $4,300  | 31  | 27.2  | **6.33**  |  
+| 5  |  Pelle LarssonMIA - SG  | @ ATL  | $4,300  | 31  | 27.3  | **6.35**  |  
 | 6  |  Peyton WatsonCLE - SF  | vs WSH  | $5,000  | 32  | 31.2  | **6.24**  |  
-| 7  |  Obi ToppinPIND - PF  | vs PHI  | $4,900  | 27  | 29.5  | **6.02**  |  
+| 7  |  Obi ToppinPIND - PF  | vs PHI  | $4,900  | 27  | 29.5  | **6.03**  |  
 | 8  |  Onyeka OkongwuATL - C  | vs MIA  | $5,700  | 29  | 34.1  | **5.98**  |  
 | 9  |  CJ McCollumATL - PG  | vs MIA  | $5,300  | 29  | 31.7  | **5.97**  |  
-| 10  |  Andrew NembhardQIND - PG  | vs PHI  | $5,800  | 34  | 34.6  | **5.97**  |  
+| 10  |  Andrew NembhardIND - PG  | vs PHI  | $5,800  | 34  | 34.6  | **5.97**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -286,21 +286,21 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 **Slate games:** MIA@ATL, CHA@DET, NYK@CHI, WAS@CLE, DEN@NOP, GSW@MIN, HOU@MIL, PHI@IND, ORL@TOR  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Sion JamesCHA · SG/SF · CHA@DET  | $3,900  | 4.7  | 19.7  | **41.1**  |   | 184%  | 10.5  | 57  |  
+| 1  |  Sion JamesCHA · SG/SF · CHA@DET  | $3,900  | 4.7  | 19.8  | **41.2**  |   | 184%  | 10.6  | 57  |  
 | 2  |  Draymond GreenGSW · PF/C · GSW@MIN  | $5,400  | 8.2  | 27.5  | **53.6**  |   | 165%  | 9.9  | 57  |  
 | 3  |  Josh HartNYK · SG/SF · NYK@CHI  | $6,300  | 12.4  | 35.0  | **64.4**  |   | 148%  | 10.2  | 56  |  
 | 4  |  Dean WadePHI · SF/PF · PHI@IND  | $3,700  | 4.0  | 17.3  | **37.0**  |   | 191%  | 10.0  | 56  |  
 | 5  |  Larry NanceIND · C · PHI@IND  | $3,500  | 5.3  | 20.5  | **42.1**  |   | 179%  | 12.0  | 55  |  
 | 6  |  Peyton WatsonCLE · SF/PF · WAS@CLE  | $5,000  | 10.3  | 31.2  | **58.5**  |   | 154%  | 11.7  | 55  |  
-| 7  |  Kasparas JakucionisMIL · PG · HOU@MIL  | $4,000  | 6.3  | 22.3  | **45.3**  |   | 174%  | 11.3  | 55  |  
-| 8  |  Tari EasonHOU · SF/PF · HOU@MIL  | $4,600  | 11.3  | 32.4  | **60.1**  |   | 150%  | 13.1  | 55  |  
+| 7  |  Tari EasonHOU · SF/PF · HOU@MIL  | $4,600  | 11.3  | 32.4  | **60.1**  |   | 150%  | 13.1  | 55  |  
+| 8  |  Kasparas JakucionisMIL · PG · HOU@MIL  | $4,000  | 6.3  | 22.3  | **45.3**  |   | 174%  | 11.3  | 55  |  
 | 9  |  Kyshawn GeorgeWAS · SG · WAS@CLE  | $5,900  | 9.6  | 29.0  | **55.3**  |   | 158%  | 9.4  | 54  |  
-| 10  |  Jay HuffIND · C · PHI@IND  | $3,800  | 9.9  | 29.3  | **55.8**  |   | 156%  | 14.7  | 54  |  
-| 11  |  Andrew WigginsMIA · SF · MIA@ATL  | $4,900  | 8.8  | 27.7  | **53.3**  |   | 160%  | 10.9  | 54  |  
-| 12  |  Javonte GreenDET · PF · CHA@DET  | $3,900  | 3.6  | 15.4  | **33.4**  |   | 193%  | 8.6  | 54  |  
-| 13  |  Al HorfordGSW · C · GSW@MIN  | $4,300  | 3.7  | 15.6  | **33.8**  |   | 193%  | 7.9  | 54  |  
-| 14  |  Onyeka OkongwuATL · C · MIA@ATL  | $5,700  | 12.6  | 34.1  | **62.7**  |   | 147%  | 11.0  | 53  |  
-| 15  |  OG AnunobyNYK · PF · NYK@CHI  | $5,900  | 11.1  | 32.2  | **59.4**  |   | 150%  | 10.1  | 53  |  
+| 10  |  Jay HuffIND · C · PHI@IND  | $3,800  | 10.0  | 29.4  | **55.8**  |   | 156%  | 14.7  | 54  |  
+| 11  |  Javonte GreenDET · PF · CHA@DET  | $3,900  | 3.7  | 15.4  | **33.4**  |   | 193%  | 8.6  | 54  |  
+| 12  |  Al HorfordGSW · C · GSW@MIN  | $4,300  | 3.7  | 15.6  | **33.8**  |   | 193%  | 7.9  | 54  |  
+| 13  |  Dejounte MurrayNOP · PG · DEN@NOP  | $7,600  | 14.4  | 38.0  | **68.6**  |   | 143%  | 9.0  | 54  |  
+| 14  |  OG AnunobyNYK · PF · NYK@CHI  | $5,900  | 11.1  | 32.2  | **59.4**  |   | 150%  | 10.1  | 53  |  
+| 15  |  Landry ShametNYK · SG/SF · NYK@CHI  | $4,000  | 5.0  | 18.5  | **38.4**  |   | 180%  | 9.6  | 53  |  
 Show all 160 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 9 games slate · 2026-10-28.
 ## **NBA Injury Report**

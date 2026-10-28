@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 18:04 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,67 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Yaxel Lendeborg](https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562)[Trending toward playing Wednesday](https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-trending-toward-playing-wednesday-536533)
+**F** Golden State Warriors
+Foot
+October 28, 2026
+Lendeborg (foot) is trending toward playing Wednesday against the Timberwolves, [Anthony Slater of ESPN.com](https://x.com/anthonyVslater/status/2115561746224333139?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-downgraded-to-questionable-536532)
+**F** Indiana Pacers
+Hamstring
+October 28, 2026
+Nesmith (hamstring) is now [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_05_45PM.pdf) for Wednesday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Zaccharie Risacher](https://www.rotowire.com/basketball/player/zaccharie-risacher-6249)[Team option exercised](https://www.rotowire.com/basketball/headlines/zaccharie-risacher-news-team-option-exercised-536531)
+**F** Dallas Mavericks
+October 28, 2026
+The Mavericks exercised their fourth-year team option on Risacher's contract Wednesday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2115559457786646708?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)['Getting closer' to return](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-getting-closer-to-return-536530)
+**G** Indiana Pacers
+Hamstring
+October 28, 2026
+Pacers head coach Rick Carlisle stated McConnell (hamstring) is "doing better" and "getting closer" to a return, [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2115556925635019249?a=tf09PqLOrLJJh-LxYaI&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ben Sheppard](https://www.rotowire.com/basketball/player/ben-sheppard-6033)[Expected to miss multiple months](https://www.rotowire.com/basketball/headlines/ben-sheppard-injury-expected-to-miss-multiple-months-536529)
+**G** Indiana Pacers
+Knee
+October 28, 2026
+Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, [Tony East of Forbes.com](https://x.com/TonyREast/status/2115556938146529699?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Returning Wednesday](https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-returning-wednesday-536528)
+**G** Indiana Pacers
+October 28, 2026
+Nembhard (neck) will play in Wednesday's game against the 76ers, [Tony East of Forbes.com](https://x.com/TonyREast/status/2115556656863912053?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)[Out at least two weeks](https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-out-at-least-two-weeks-536527)
+**G** Indiana Pacers
+Hamstring
+October 28, 2026
+Haliburton (hamstring) will miss at least the next two weeks of action, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2115555811837554744?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Aaron Wiggins](https://www.rotowire.com/basketball/player/aaron-wiggins-5412)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-good-to-go-wednesday-536525)
+**F** Atlanta Hawks
+October 28, 2026
+Wiggins (knee) is [active](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_05_00PM.pdf) for Wednesday's game against Miami.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Cameron Carr](https://www.rotowire.com/basketball/player/cameron-carr-6983)[Missing fifth straight contest](https://www.rotowire.com/basketball/headlines/cameron-carr-injury-missing-fifth-straight-contest-536523)
 **G** Los Angeles Lakers
@@ -133,69 +194,6 @@ Drummond recorded 10 points (5-7 FG, 0-1 3Pt, 0-2 FT), eight rebounds and one as
 **F** Portland Trail Blazers
 October 28, 2026
 Camara closed with 12 points (4-5 FG, 4-5 3Pt), one rebound, one assist and one steal in 24 minutes during Tuesday's 136-129 victory over the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)[Settling in with new team](https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498)
-**G** Los Angeles Lakers
-October 28, 2026
-Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Justin Champagnie](https://www.rotowire.com/basketball/player/justin-champagnie-5371)[Undergoes foot surgery](https://www.rotowire.com/basketball/headlines/justin-champagnie-injury-undergoes-foot-surgery-536492)
-**F** Washington Wizards
-Foot
-October 28, 2026
-Champagnie (foot) is expected to miss several months, per [Josh Robbins of The Athletic](https://x.com/JoshuaBRobbins/status/2115511438341185737?a=CfvM-_3GoIw5Ync4FcI&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)[Sitting out Wednesday](https://www.rotowire.com/basketball/headlines/tobias-harris-injury-sitting-out-wednesday-536490)
-**F** San Antonio Spurs
-Calf
-October 28, 2026
-Harris (calf) is out for Wednesday's game against Utah, [Paul Garcia of ProjectSpurs.com](https://x.com/PaulGarciaNBA/status/2115508957813018768) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Downgraded to doubtful](https://www.rotowire.com/basketball/headlines/naji-marshall-injury-downgraded-to-doubtful-536489)
-**F** Dallas Mavericks
-Illness
-October 28, 2026
-Marshall (illness) is now [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday against the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-wednesday-536488)
-**F** Dallas Mavericks
-Heel
-October 28, 2026
-Biberovic (heel) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Downgraded to out](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-out-536486)
-**F** Dallas Mavericks
-Knee
-October 28, 2026
-Aldama (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jose Alvarado](https://www.rotowire.com/basketball/player/jose-alvarado-5424)[Another absence coming](https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-another-absence-coming-536485)
-**G** New York Knicks
-Ankle
-October 28, 2026
-Alvarado (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Bulls.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Return timeline uncertain](https://www.rotowire.com/basketball/headlines/alex-caruso-injury-return-timeline-uncertain-536483)
-**F** Oklahoma City Thunder
-Ankle
-October 28, 2026
-Caruso is expected to miss time due to an ankle sprain, [Clemente Almanza of USA Today](https://x.com/CAlmanza1007/status/2115503944487088532) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
