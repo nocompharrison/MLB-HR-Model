@@ -1,7 +1,7 @@
-# NBA stats | updated 2026-10-27 18:00 local
+# NBA stats | updated 2026-10-28 12:00 local
 OK  MLB-HR-Model\NBA\stats\team_advanced_2026-27.csv  rows=30
 OK  MLB-HR-Model\NBA\stats\team_advanced_last10_2026-27.csv  rows=30
 OK  MLB-HR-Model\NBA\stats\team_opponent_2026-27.csv  rows=30
-OK  MLB-HR-Model\NBA\stats\player_advanced_2026-27.csv  rows=411
-OK  MLB-HR-Model\NBA\stats\games\2026-10-26_team.csv  rows=18
-OK  MLB-HR-Model\NBA\stats\games\2026-10-26_player.csv  rows=313
+OK  MLB-HR-Model\NBA\stats\player_advanced_2026-27.csv  rows=417
+OK  MLB-HR-Model\NBA\stats\games\2026-10-27_team.csv  rows=8
+OK  MLB-HR-Model\NBA\stats\games\2026-10-27_player.csv  rows=107
