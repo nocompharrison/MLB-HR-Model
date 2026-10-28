@@ -1,8 +1,10 @@
-# NFL transcripts | week 8 | updated 2026-10-27 21:20 ET
+# NFL transcripts | week 8 | updated 2026-10-28 07:47 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 16 files in NFL/transcripts/week-08:
+# 19 files in NFL/transcripts/week-08:
+NFL/transcripts/week-08/0DUCXJU_hHs_DFSArmy_NFL_DFS_Week_8_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-08/55WQhU52FFY_TheAudible_WAIVER_WIRE_GOLD_Jonah_Coleman_Could_WIN_Your_Fantasy_League_Week_8_Ad.txt
 NFL/transcripts/week-08/AlWRIqXKsyU_FantasyAlarm_NFL_Week_7_MNF_NFL_Week_8_TNF_Picks_Spreads_Over_Unders_DFS_Pick_em_Pl.txt
+NFL/transcripts/week-08/DAvMyXN-YX0_Stokastic_NFL_DFS_First_Look_Week_8_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-08/DGrfV1YjmvA_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_8_Predictions_2026.txt
 NFL/transcripts/week-08/GkOv5m8EIbg_SportsLine_NFL_Week_8_Early_Picks_Our_Best_Bets_Before_the_Lines_Move.txt
 NFL/transcripts/week-08/HoccWLwRZJQ_BettingPros_NFL_Week_8_Early_Picks_Line_Movement_Predictions_2026.txt
@@ -14,34 +16,38 @@ NFL/transcripts/week-08/hckoXJIoxts_BettingPros_Top_NFL_Picks_for_Cowboys_vs_Eag
 NFL/transcripts/week-08/i6pev5Qs6KA_CirclesOff_Can_You_Middle_NFL_Games_and_Win_Long_Term_Circle_Back_Presented_by_Pr.txt
 NFL/transcripts/week-08/oXJIExguY7c_SGPN_Thursday_Night_Football_Week_8_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-08/pREKn85HiNY_ActionNetwork_NFL_Futures_Betting_The_BEST_AFC_Longshots_Win_Totals_to_Bet_NOW.txt
+NFL/transcripts/week-08/pUUqPv9AQXY_FantasyAlarm_Week_8_Waiver_Wire_Adds_For_Fantasy_Football.txt
 NFL/transcripts/week-08/q82e_3JcwNE_ActionNetwork_Top_Week_8_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
 NFL/transcripts/week-08/ti0OJqq6PyM_TheAudible_Which_player_should_you_drop_during_his_Week_8_bye_to_sabotage_another.txt
 NFL/transcripts/week-08/xXWysMLhQ8s_PlayerProfiler_Week_8_TOP_Kickers_Defenses_High_Upside_Streamers.txt
 
 # this run:
-NEW     NFL/transcripts/week-08/ftTLpojMZ8o_Footballers_Week_8_Waivers_JT_Trade_Watch_Fantasy_Football_2026_Ep_2002.txt  (9,436 words)
-NEW     NFL/transcripts/week-08/Pxox7EHMnbU_FootballersDFS_Week_8_NFL_Preview_Tuesday_is_the_New_Monday_Fantasy_Football_DFS_Bett.txt  (9,847 words)
+NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
+UPCOMING RotoGrinders _xINBAKSeYc PICK SIX! The BEST 3 NFL Games to Target in DFS for Week 8!  (not aired yet - scheduled for 10/28/26 8:00PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/oXJIExguY7c_SGPN_Thursday_Night_Football_Week_8_Prop_Bets_Best_Bets_Predictions.txt  (9,818 words)
-NEW     NFL/transcripts/week-08/WcmklTZMCKA_SGPN_Cowboys_vs_Eagles_LIVE_Watch_Party_Monday_Night_Football_Live_Bets.txt  (31,258 words)
-NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/pREKn85HiNY_ActionNetwork_NFL_Futures_Betting_The_BEST_AFC_Longshots_Win_Totals_to_Bet_NOW.txt  (10,905 words)
-NEW     NFL/transcripts/week-08/q82e_3JcwNE_ActionNetwork_Top_Week_8_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt  (11,156 words)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+UPCOMING SGPN EGHlPBSEbIU NFL Week 8 Betting Pregame Show: NFL Picks, Prop Bets, DFS P  (not aired yet - scheduled for 11/01/26 12:00PM)
+UPCOMING SGPN FZDskOJl8Vw NFL Week 8 Prop Bets, Best Bets & Predictions  (not aired yet - scheduled for 10/29/26 7:00PM)
+UPCOMING SGPN iejHnvPFG5A NFL Week 8 Picks, Best Bets & Predictions  (not aired yet - scheduled for 10/28/26 11:30PM)
+NOCAPS  SGPNPropcast QzLkgROhCZU NFL Week 8 Thursday Night Football Player Props - 10/27/26  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-08/0DUCXJU_hHs_DFSArmy_NFL_DFS_Week_8_Strategy_for_DraftKings_2026.txt  (9,369 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/55WQhU52FFY_TheAudible_WAIVER_WIRE_GOLD_Jonah_Coleman_Could_WIN_Your_Fantasy_League_Week_8_Ad.txt  (6,314 words)
-NOCAPS  PlayerProfiler oCQQuSDBEBE Fantasy Trade Winds & Murky Backfields | Week 7 Fallout + We  (no captions; Groq: live stream still processing - audio not final yet)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/DGrfV1YjmvA_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_8_Predictions_2026.txt  (5,289 words)
+NONE    channel TheAudible: nothing new in the date window (or everything already saved)
+NOCAPS  PlayerProfiler oCQQuSDBEBE Fantasy Trade Winds & Murky Backfields | Week 7 Fallout + We  (no captions; Groq: Groq rejected the API key - check groq_key.txt)
+NEW     NFL/transcripts/week-08/DAvMyXN-YX0_Stokastic_NFL_DFS_First_Look_Week_8_Picks_NFL_DFS_Strategy.txt  (11,787 words)
+UPCOMING Stokastic l2ACKw9Ro9U Week 8 NFL DFS: Single Lineup Sim Building | NFL DFS Strateg  (not aired yet - scheduled for 10/28/26 10:00AM)
+UPCOMING Stokastic 8mafOB3EfvM Panthers-Packers Showdown Strategy TNF Week 8 DFS Picks | NF  (not aired yet - scheduled for 10/29/26 10:00AM)
+UPCOMING Stokastic g22nTXt-k5w NFL DFS Showdown Live Before Lock | Panthers-Packers TNF Wee  (not aired yet - scheduled for 10/29/26 7:15PM)
+UPCOMING Stokastic 3vk6PbOq1_k NFL DFS Sims Tournament Strategy Week 8 | NFL DFS Strategy  (not aired yet - scheduled for 10/30/26 10:00AM)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine 4ZUC8dc4gJA NFL Picks: Bets for Every Week 8 Game!  (not aired yet - scheduled for 10/28/26 3:00PM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm pUUqPv9AQXY Week 8 Waiver Wire Adds For Fantasy Football!  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-08/AlWRIqXKsyU_FantasyAlarm_NFL_Week_7_MNF_NFL_Week_8_TNF_Picks_Spreads_Over_Unders_DFS_Pick_em_Pl.txt  (4,673 words)
+NEW     NFL/transcripts/week-08/pUUqPv9AQXY_FantasyAlarm_Week_8_Waiver_Wire_Adds_For_Fantasy_Football.txt  (11,590 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
