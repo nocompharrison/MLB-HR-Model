@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-28 12:04 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-28 17:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -112,7 +112,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Aaron Wiggins](https://www.espn.com/nba/player/_/id/4397183/aaron-wiggins) | G | Oct 28 | Day-To-Day | Oct 27: Wiggins is questionable for Wednesday's game against the Heat due to a left knee contusion. |
+| [Aaron Wiggins](https://www.espn.com/nba/player/_/id/4397183/aaron-wiggins) | G | Oct 28 | Day-To-Day | Oct 28: Wiggins (knee) is probable for Wednesday against Miami. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
 
@@ -150,11 +150,11 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 28 | Out | Oct 27: The Mavericks recalled Aldama (knee) from the G League's Texas Legends on Tuesday. |
-| [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Oct 28 | Out | Oct 27: Biberovic is listed as doubtful for Wednesday's game against the Thunder. |
+| [Naji Marshall](https://www.espn.com/nba/player/_/id/4278594/naji-marshall) | F | Oct 28 | Day-To-Day | Oct 28: Marshall (illness) is now doubtful for Wednesday against the Thunder. |
+| [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Oct 30 | Out | Oct 28: Biberovic (knee) is out for Wednesday's game against the Thunder. |
+| [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 30 | Out | Oct 28: Aldama (knee) is out for Wednesday's game against the Thunder. |
 | [Sergio de Larrea](https://www.espn.com/nba/player/_/id/5279129/sergio-de-larrea) | F | Oct 30 | Out | Oct 27: De Larrea (knee) has been ruled out for Wednesday's game against the Thunder. |
 | [Caleb Martin](https://www.espn.com/nba/player/_/id/3138160/caleb-martin) | F | Oct 28 | Out | Oct 27: Martin (thumb) is questionable for Wednesday's game against the Thunder. |
-| [Naji Marshall](https://www.espn.com/nba/player/_/id/4278594/naji-marshall) | F | Oct 28 | Day-To-Day | Oct 27: Marshall (illness) is questionable for Wednesday's game against the Thunder. |
 | [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Oct 28 | Day-To-Day | Oct 27: Irving (knee) is questionable for Wednesday's game against the Thunder. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 2 | Out | Oct 22: Lively (foot) has been ruled out for Friday's game against the Pacers. |
 
@@ -171,15 +171,16 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Oct 28 | Day-To-Day | Oct 28: Joe (hip) has been ruled out for Tuesday's game against the Knicks. |
+| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Oct 30 | Out | Oct 28: Joe (hip) is out for Wednesday's game against the Hornets. |
+| [Ausar Thompson](https://www.espn.com/nba/player/_/id/4684742/ausar-thompson) | G | Oct 28 | Day-To-Day | Oct 28: Thompson (ankle) is probable for Wednesday against the Hornets. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 9 | Out | Oct 25: Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports. |
 
 ![Image 29: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Yaxel Lendeborg](https://www.espn.com/nba/player/_/id/5175737/yaxel-lendeborg) | F | Oct 28 | Day-To-Day | Oct 28: Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Dec 1 | Out | Oct 28: The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports. |
-| [Yaxel Lendeborg](https://www.espn.com/nba/player/_/id/5175737/yaxel-lendeborg) | F | Oct 28 | Day-To-Day | Oct 27: Lendeborg (foot) is questionable for Wednesday's game against Minnesota. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
 | [Jimmy Butler III](https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii) | F | Jan 2 | Out | Oct 16: Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports. |
 
@@ -187,7 +188,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 28 | Day-To-Day | Oct 27: Smart (forearm) is questionable for Wednesday's game versus the Bucks. |
+| [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 30 | Out | Oct 28: Smart (forearm) is out for Wednesday's game against the Bucks. |
 | [Alperen Sengun](https://www.espn.com/nba/player/_/id/4871144/alperen-sengun) | C | Oct 30 | Out | Oct 27: Sengun (back) has been ruled out for Wednesday's game against the Bucks. |
 | [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Nov 2 | Out | Oct 26: Head coach Ime Udoka said Monday that Adams could be out "a week or two" due to his right soleus strain, Lachard Binkley of SI.com reports. |
 
@@ -195,8 +196,8 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 9 | Out | Oct 28: Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports. |
 | [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Oct 28 | Day-To-Day | Oct 27: Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia. |
-| [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Oct 28 | Day-To-Day | Oct 27: Haliburton is listed as questionable for Wednesday's game against the 76ers due to left hamstring tightness. |
 | [Obi Toppin](https://www.espn.com/nba/player/_/id/4278355/obi-toppin) | F | Oct 28 | Day-To-Day | Oct 27: Toppin is probable to play Wednesday against the 76ers due to a left hand sprain. |
 | [Aaron Nesmith](https://www.espn.com/nba/player/_/id/4396909/aaron-nesmith) | G | Oct 28 | Day-To-Day | Oct 27: Nesmith (hamstring) is probable for Wednesday's game against the 76ers. |
 | [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Oct 30 | Out | Oct 27: McConnell (hamstring) is out for Wednesday's game against the 76ers. |
@@ -219,7 +220,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Cameron Carr](https://www.espn.com/nba/player/_/id/5113969/cameron-carr) | G | Oct 28 | Out | Oct 27: The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports. |
+| [Cameron Carr](https://www.espn.com/nba/player/_/id/5113969/cameron-carr) | G | Oct 28 | Out | Oct 28: Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports |
 | [Adou Thiero](https://www.espn.com/nba/player/_/id/5060631/adou-thiero) | F | Oct 28 | Out | Oct 26: Thiero (knee) is out for Tuesday's game against Portland. |
 
 ![Image 34: Miami Heat](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png&h=40&w=40)Miami Heat
@@ -227,7 +228,6 @@ ESPN
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Simone Fontecchio](https://www.espn.com/nba/player/_/id/3899664/simone-fontecchio) | F | Oct 30 | Out | Oct 28: Fontecchio (illness) is out for Wednesday's game against the Hawks. |
-| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Oct 28 | Day-To-Day | Oct 27: Larsson is listed as probable for Wednesday's game at Atlanta due to a right ankle sprain. |
 
 ![Image 35: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
@@ -240,24 +240,23 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jordan Poole](https://www.espn.com/nba/player/_/id/4277956/jordan-poole) | G | Oct 28 | Day-To-Day | Oct 27: Poole (illness) is listed as probable for Wednesday's game against Denver. |
 | [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 2 | Out | Oct 24: Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports. |
 
 ![Image 37: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jose Alvarado](https://www.espn.com/nba/player/_/id/4277869/jose-alvarado) | G | Oct 28 | Day-To-Day | Oct 28: Alvarado (ankle) is out for Tuesday's game against the Pistons. |
+| [Jose Alvarado](https://www.espn.com/nba/player/_/id/4277869/jose-alvarado) | G | Oct 30 | Out | Oct 28: Alvarado (ankle) is out for Wednesday's game against the Bulls. |
 
 ![Image 38: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Alex Caruso](https://www.espn.com/nba/player/_/id/2991350/alex-caruso) | G | Oct 31 | Out | Oct 28: Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports. |
 | [Thomas Sorber](https://www.espn.com/nba/player/_/id/5061603/thomas-sorber) | C | Nov 4 | Out | Oct 27: Sorber (knee) has been ruled out for Wednesday's game against the Mavericks. |
 | [Chet Holmgren](https://www.espn.com/nba/player/_/id/4433255/chet-holmgren) | C | Oct 31 | Out | Oct 27: Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks. |
 | [Nikola Topic](https://www.espn.com/nba/player/_/id/5159925/nikola-topic) | G | Nov 4 | Out | Oct 27: Topic (back) will remain on the inactive list for Wednesday's game in Dallas. |
 | [Ajay Mitchell](https://www.espn.com/nba/player/_/id/4900671/ajay-mitchell) | G | Oct 28 | Day-To-Day | Oct 27: Mitchell (ankle) is questionable for Wednesday's game against Dallas. |
-| [Alex Caruso](https://www.espn.com/nba/player/_/id/2991350/alex-caruso) | G | Oct 31 | Out | Oct 27: Caruso (ankle) won't play Wednesday in Dallas. |
 | [Jalen Williams](https://www.espn.com/nba/player/_/id/4593803/jalen-williams) | G | Mar 2 | Out | Oct 26: Williams has been diagnosed with a dislocated left ankle and fractured fibula, which will require surgery, Shams Charania of ESPN reports. |
 | [Cason Wallace](https://www.espn.com/nba/player/_/id/4683692/cason-wallace) | G | Mar 2 | Out | Oct 26: Wallace has been diagnosed with a torn labrum in his left shoulder and will require surgery, Shams Charania of ESPN reports. |
 | [Otega Oweh](https://www.espn.com/nba/player/_/id/5106270/otega-oweh) | G | Jul 1 | Out | Oct 23: The Thunder plan to waive Oweh (Achilles) on Friday. |
@@ -279,7 +278,7 @@ ESPN
 | --- | --- | --- | --- | --- |
 | [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Nov 4 | Out | Oct 27: Fall (quadriceps) is out for Wednesday's game in Indiana. |
 | [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 30 | Out | Oct 27: Walker (knee) has been ruled out for Wednesday's game against the Pacers. |
-| [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 2 | Out | Oct 19: Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports. |
+| [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 4 | Out | Oct 19: Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
 ![Image 41: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
@@ -309,7 +308,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Oct 28 | Out | Oct 26: Harris (calf) has been ruled out for Tuesday's game against the Kings. |
+| [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Oct 31 | Out | Oct 28: Harris (calf) is out for Wednesday's game against Utah, Paul Garcia of ProjectSpurs.com reports. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
 ![Image 45: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
@@ -333,8 +332,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Oct 30 | Out | Oct 27: Champagnie (foot) is out for Wednesday's game versus Cleveland. |
-| [AJ Dybantsa](https://www.espn.com/nba/player/_/id/5142718/aj-dybantsa) | F | Oct 28 | Out | Oct 27: Dybantsa (ankle) is questionable for Wednesday's game versus Cleveland. |
+| [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 2 | Out | Oct 1: The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks. |
 | [Jamir Watkins](https://www.espn.com/nba/player/_/id/4606840/jamir-watkins) | G | Apr 2 | Out | Jul 30: The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. |
 
@@ -342,49 +340,31 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://related.trendingresults.net/topics/4331003/2353FEF)[New Small Suv For Elderly Leaves Others Behind - Take a Look!TrendingResults | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/2353FEF "New Small Suv For Elderly Leaves Others Behind - Take a Look!")
 
-Undo
+[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off for Cybersecurity Awareness Month Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off for Cybersecurity Awareness Month")
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Wednesday Benefit Check The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Wednesday Benefit Check")
+[](https://blavity.com/is-zohran-mandanis-apology-to-black-new-yorkers-enough)[Zohran Mamdani’s Apology To Black New Yorkers Highlights Bigger Political Problem Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://blavity.com/is-zohran-mandanis-apology-to-black-new-yorkers-enough "Zohran Mamdani’s Apology To Black New Yorkers Highlights Bigger Political Problem")
 
-Undo
+[](https://blavity.com/entertainment/zoe-saldana-becomes-hollywoods-highest-grossing-actor-of-all-time)[Zoe Saldaña Becomes Hollywood's Highest Grossing Actor Of All-Time, Surpassing Samuel L. Jackson, Scarlett Johansson Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://blavity.com/entertainment/zoe-saldana-becomes-hollywoods-highest-grossing-actor-of-all-time "Zoe Saldaña Becomes Hollywood's Highest Grossing Actor Of All-Time, Surpassing Samuel L. Jackson, Scarlett Johansson")
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Iowa: Worst ZIP Codes For Car Insurance (Is Yours On The List?)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Iowa: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-Undo
+[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Wednesday Benefit Check Seniors are taking advantage of these benefits The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Wednesday Benefit Check")
 
-[](https://www.webroot.com/campaigns/seasonal)[Hackers Want You Unprotected - Do This Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Buy Now](https://www.webroot.com/campaigns/seasonal "Hackers Want You Unprotected - Do This")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
-Undo
+[](https://offer.worthalookdaily.com/b988d0f3-ddc7-4ef4-96e5-051075917b70)[Costco Shoppers Say This Spray Has Hair Growing Like Weeds HolisticPlusLab.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://offer.worthalookdaily.com/b988d0f3-ddc7-4ef4-96e5-051075917b70 "Costco Shoppers Say This Spray Has Hair Growing Like Weeds")
 
-[](https://tick.topsseek.com/0511fe7c-b3e6-43da-a4d0-7b843e4f7fde)[Best Christmas Gift: Here Are 28+ Of The Coolest Gifts For 2026 GIFT | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tick.topsseek.com/0511fe7c-b3e6-43da-a4d0-7b843e4f7fde "Best Christmas Gift: Here Are 28+ Of The Coolest Gifts For 2026")
-
-Undo
-
-[](https://tick.hemeyt.com/8e3bf665-7b5a-43b8-b66b-280ea43443c0)[Best Christmas Gift: Here Are 29+ Of The Coolest Gifts For 2026 List | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://tick.hemeyt.com/8e3bf665-7b5a-43b8-b66b-280ea43443c0 "Best Christmas Gift: Here Are 29+ Of The Coolest Gifts For 2026")
-
-Undo
-
-[](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643)[Who Charges The Most For Car Insurance In Iowa? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643 "Who Charges The Most For Car Insurance In Iowa? (Check Your ZIP Code)")
-
-Undo
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Iowa (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Iowa (Is Yours On The List?)")
-
-Undo
-
-[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in Iowa (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in Iowa (Is Yours On The List?)")
-
-Undo
+[](https://seniordealtoday.com/vFfcS2BK)[Retirees Could Be Due a Large Surprise This Wednesday If you're a senior and you don't take advantage of these benefits this month, you'll regret It big time SeniorDiscountClub | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://seniordealtoday.com/vFfcS2BK "Retirees Could Be Due a Large Surprise This Wednesday")
 
 ### NBA News
 
-[![Image 48: Stephen A.: Anthony Edwards injury devastating for Timberwolves](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1028/ss_20261028_103714080_3714119647/ss_20261028_103714080_3714119647.jpg) ## Stephen A.: Anthony Edwards injury devastating for Timberwolves Stephen A.: Anthony Edwards injury devastating for Timberwolves * 20m](https://www.espn.com/video/clip/_/id/50308295/anthony-edwards-injury-devastating-timberwolves)
+[![Image 48: Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers](https://a.espncdn.com/combiner/i?img=/photo/2026/0401/r1637203_1296x729_16-9.jpg&w=220) ## Lakers rule out Luka Doncic, Ziaire Williams vs. Clippers Lakers star Luka Doncic (back) and starter Ziaire Williams (foot) will not play in Wednesday's game vs. the Clippers, who will be without Rui Hachimura (quad). * 23m * Dave McMenamin](https://www.espn.com/nba/story/_/id/50310776/lakers-rule-luka-doncic-ziaire-williams-vs-clippers)
 
-[![Image 49: Fantasy Hoops: The Timberwolves players to add in wake of Anthony Edwards injury](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737491_1296x729_16-9.jpg&w=220) ## Fantasy Hoops: The Timberwolves players to add in wake of Anthony Edwards injury The Timberwolves to add as Anthony Edwards' injury opens up a lot of minutes and opportunity for teammates. * 1h * Eric Moody](https://www.espn.com/fantasy/basketball/story/_/id/50307850/fantasy-basketball-anthony-edwards-injury)
+[![Image 49: Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737614_1296x729_16-9.jpg&w=220) ## Updated NBA championship and MVP odds: Spurs take control; Thunder lose ground The San Antonio Spurs are the early favorites to win the NBA championship, with Victor Wembanyama the fave to take home MVP honors. * 1h * Doug Greenberg](https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds)
 
-[![Image 50: LeBron, Durant headline NBA draft classes of the early 2000s](https://a.espncdn.com/combiner/i?img=/photo/2026/1027/r1737261_608x342_16-9.jpg&w=220) ## LeBron, Durant headline NBA draft classes of the early 2000s The aughts are over? Here's a look at the players who remain from the early 2000s draft classes. * 1h * Anthony Gharib](https://www.espn.com/nba/story/_/id/42377368/nba-fewest-active-players-respective-drafts)
+[![Image 50: Ernie Johnson says this is his final season as 'Inside the NBA' host](https://a.espncdn.com/combiner/i?img=/photo/2026/1028/r1737637_2_1296x729_16-9.jpg&w=220) ## Ernie Johnson says this is his final season as 'Inside the NBA' host Ernie Johnson will retire as host of "Inside the NBA" after the season, saying it was his decision to step away and that "it's just time." * 1h](https://www.espn.com/nba/story/_/id/50309868/ernie-johnson-leaving-nba-host-season)
 
 [All NBA News](https://www.espn.com/nba/)
 
@@ -392,15 +372,9 @@ Sponsored Headlines
 
 [](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off the #1 Way to Stay Safe Online Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off the #1 Way to Stay Safe Online")
 
-Undo
+[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
-[](https://www.blinkist.com/magazine/posts/mark-cuban-says-if-youre-not-reading-youre-falling-behind-firstperson-tts)[A Billionaire's Reading List: 5 Books Mark Cuban Says Everyone Should Read Cuban reads for three hours every morning. This is the exact list he recommends — and there's a faster way to absorb every idea on it without clearing your calendar.Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.blinkist.com/magazine/posts/mark-cuban-says-if-youre-not-reading-youre-falling-behind-firstperson-tts "A Billionaire's Reading List: 5 Books Mark Cuban Says Everyone Should Read")
-
-Undo
-
-[](https://l.ottoinsurance.com/n)[Insurance Rates Are Plunging In Iowa (Check Your Area)Your current insurer may not be cheapest.OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Insurance Rates Are Plunging In Iowa (Check Your Area)")
-
-Undo
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
 
 ![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

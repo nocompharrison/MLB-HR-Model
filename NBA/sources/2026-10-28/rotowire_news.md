@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 12:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-28 17:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,183 +12,190 @@ Positions
 News Display Mode
 Compact 
 Expanded 
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Tolu Smith](https://www.rotowire.com/basketball/player/tolu-smith-6354)[Grabs four boards](https://www.rotowire.com/basketball/headlines/tolu-smith-news-grabs-four-boards-536455)
-**C** Detroit Pistons
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Cameron Carr](https://www.rotowire.com/basketball/player/cameron-carr-6983)[Missing fifth straight contest](https://www.rotowire.com/basketball/headlines/cameron-carr-injury-missing-fifth-straight-contest-536523)
+**G** Los Angeles Lakers
+Oblique
 October 28, 2026
-Smith registered one point (0-1 FG, 1-4 FT) and four rebounds across six minutes during Tuesday's 111-97 loss to the Knicks.
+Carr (oblique) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_04_00PM.pdf) for Wednesday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Adou Thiero](https://www.rotowire.com/basketball/player/adou-thiero-6578)[Remains sidelined](https://www.rotowire.com/basketball/headlines/adou-thiero-injury-remains-sidelined-536522)
+**F** Los Angeles Lakers
+Knee
+October 28, 2026
+Thiero (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_04_00PM.pdf) for Wednesday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-ruled-out-wednesday-536520)
+**F** Los Angeles Lakers
+Foot
+October 28, 2026
+Williams (foot) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_04_00PM.pdf) for Wednesday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/luka-doncic-injury-wont-play-wednesday-536519)
+**G** Los Angeles Lakers
+Back
+October 28, 2026
+Doncic (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_04_00PM.pdf) for Wednesday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)[Hits three more triples in victory](https://www.rotowire.com/basketball/headlines/stephon-castle-news-hits-three-more-triples-in-victory-536516)
+**G** San Antonio Spurs
+October 28, 2026
+Castle totaled 15 points (4-11 FG, 3-8 3Pt, 4-4 FT), five rebounds, five assists and one steal over 27 minutes during Tuesday's 130-103 win over the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)[Solid line in 26 minutes](https://www.rotowire.com/basketball/headlines/deaaron-fox-news-solid-line-in-26-minutes-536514)
+**G** San Antonio Spurs
+October 28, 2026
+Fox accumulated 11 points (3-6 FG, 2-2 3Pt, 3-4 FT), four rebounds and six assists over 26 minutes during Tuesday's 130-103 win over Sacramento.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Devin Vassell](https://www.rotowire.com/basketball/player/devin-vassell-5113)[Dishes team-high eight dimes](https://www.rotowire.com/basketball/headlines/devin-vassell-news-dishes-team-high-eight-dimes-536513)
+**F** San Antonio Spurs
+October 28, 2026
+Vassell supplied 14 points (5-11 FG, 4-7 3Pt), four rebounds, eight assists and one steal in 24 minutes during Tuesday's 130-103 win over the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Darius Acuff](https://www.rotowire.com/basketball/player/darius-acuff-6931)[Continues to fire away](https://www.rotowire.com/basketball/headlines/darius-acuff-news-continues-to-fire-away-536512)
+**G** Sacramento Kings
+October 28, 2026
+Acuff posted 19 points (8-20 FG, 3-7 3Pt), three rebounds and five assists across 33 minutes during Tuesday's 130-103 loss to San Antonio.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Kevin Huerter](https://www.rotowire.com/basketball/player/kevin-huerter-4449)[Adds seven points Tuesday](https://www.rotowire.com/basketball/headlines/kevin-huerter-news-adds-seven-points-tuesday-536454)
-**G** Detroit Pistons
-October 28, 2026
-Huerter provided seven points (3-5 FG, 1-2 3Pt, 0-2 FT), one rebound, one block and one steal across 16 minutes during Tuesday's 111-97 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Javonte Green](https://www.rotowire.com/basketball/player/javonte-green-4588)[Struggles from deep](https://www.rotowire.com/basketball/headlines/javonte-green-news-struggles-from-deep-536453)
+[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[Records two steals](https://www.rotowire.com/basketball/headlines/taurean-prince-news-records-two-steals-536510)
 **F** Detroit Pistons
 October 28, 2026
-Green supplied three points (1-6 FG, 1-6 3Pt), one rebound and one block over 17 minutes during Tuesday's 111-97 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Baylor Scheierman](https://www.rotowire.com/basketball/player/baylor-scheierman-6280)[Scores three points in win](https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-scores-three-points-in-win-536452)
-**F** Boston Celtics
-October 28, 2026
-Scheierman produced three points (1-5 FG, 1-3 3Pt), four rebounds, one assist and one steal across 21 minutes during Tuesday's 125-124 overtime victory over the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)[Quickly fouls out](https://www.rotowire.com/basketball/headlines/neemias-queta-news-quickly-fouls-out-536451)
-**C** Boston Celtics
-October 28, 2026
-Queta provided seven points (3-3 FG, 1-2 FT), three rebounds and two assists across 15 minutes before fouling out of Tuesday's 125-124 overtime win over Brooklyn.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)[Blocks two shots Tuesday](https://www.rotowire.com/basketball/headlines/noah-clowney-news-blocks-two-shots-tuesday-536450)
-**F** Brooklyn Nets
-October 28, 2026
-Clowney amassed three points (1-1 FG, 1-1 3Pt), four rebounds, one assist and two blocks across 24 minutes during Tuesday's 125-124 overtime loss to Boston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Upgraded to available](https://www.rotowire.com/basketball/headlines/pelle-larsson-news-upgraded-to-available-536449)
-**F** Miami Heat
-October 28, 2026
-Larsson (ankle) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_11_30AM.pdf) for Wednesday's game against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Moritz Wagner](https://www.rotowire.com/basketball/player/moritz-wagner-4389)[Strong effort Tuesday](https://www.rotowire.com/basketball/headlines/moritz-wagner-news-strong-effort-tuesday-536448)
-**C** Brooklyn Nets
-October 28, 2026
-Wagner amassed 15 points (6-9 FG, 2-4 3Pt, 1-2 FT), four rebounds, three assists and two steals in 22 minutes during Tuesday's 125-124 overtime loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)[Present at shootaround](https://www.rotowire.com/basketball/headlines/aj-dybantsa-injury-present-at-shootaround-536447)
-**F** Washington Wizards
-Ankle
-October 28, 2026
-Dybantsa (ankle) was present at Wednesday's morning shootaround,[Josh Robbins of The Athletic](https://x.com/JoshuaBRobbins/status/2115464350370845083?a=f0-tXwlnal3Xaswnci4&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Simone Fontecchio](https://www.rotowire.com/basketball/player/simone-fontecchio-5797)[Listed out for Wednesday](https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-listed-out-for-wednesday-536446)
-**F** Miami Heat
-Illness
-October 28, 2026
-Fontecchio (illness) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_11_00AM.pdf) for Wednesday's game against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)[Absent from shootaround](https://www.rotowire.com/basketball/headlines/anthony-black-injury-absent-from-shootaround-536445)
-**G** Orlando Magic
-Personal
-October 28, 2026
-Black (personal) was not present at Wednesday's morning shootaround, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2115452369693761595) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Kristaps Porzingis](https://www.rotowire.com/basketball/player/kristaps-porzingis-3669)[Warriors exploring options](https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-exploring-options-536444)
-**C** Golden State Warriors
-Illness
-October 28, 2026
-The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, [Anthony Slater of ESPN.com](https://x.com/anthonyVslater/status/2115444109305667678?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)[Solid defensive contributions in loss](https://www.rotowire.com/basketball/headlines/ausar-thompson-news-solid-defensive-contributions-in-loss-536443)
-**F** Detroit Pistons
-October 28, 2026
-Thompson contributed 11 points (5-9 FG, 0-1 3Pt, 1-3 FT), six rebounds, two assists, two steals and a block across 25 minutes in Tuesday's 111-97 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)[Scoring streak ends Tuesday](https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scoring-streak-ends-tuesday-536442)
-**F** Detroit Pistons
-October 28, 2026
-Robinson finished with 12 points (4-14 FG, 2-10 3Pt, 2-2 FT), two assists, a steal and a block across 33 minutes in Tuesday's 111-97 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Paul Reed](https://www.rotowire.com/basketball/player/paul-reed-5124)[Leads Pistons with 22 points](https://www.rotowire.com/basketball/headlines/paul-reed-news-leads-pistons-with-22-points-536441)
-**C** Detroit Pistons
-October 28, 2026
-Reed tallied 22 points (9-12 FG, 1-1 3Pt, 3-4 FT), nine rebounds, three assists, two steals and a block across 26 minutes in Tuesday's 111-97 loss to the Knicks.
+Prince supplied three points (1-3 FG, 1-3 3Pt) and two steals over seven minutes during Tuesday's 111-97 loss to the Knicks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Fills stat sheet Tuesday](https://www.rotowire.com/basketball/headlines/og-anunoby-news-fills-stat-sheet-tuesday-536440)
+[Mikal Bridges](https://www.rotowire.com/basketball/player/mikal-bridges-4386)[Drills four triples in win](https://www.rotowire.com/basketball/headlines/mikal-bridges-news-drills-four-triples-in-win-536509)
 **F** New York Knicks
 October 28, 2026
-Anunoby delivered 13 points (5-15 FG, 1-6 3Pt, 2-2 FT), seven rebounds, two assists, two steals and two blocks across 36 minutes in Tuesday's 111-97 win over the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Landry Shamet](https://www.rotowire.com/basketball/player/landry-shamet-4414)[Solid scoring contribution off bench](https://www.rotowire.com/basketball/headlines/landry-shamet-news-solid-scoring-contribution-off-bench-536439)
-**G** New York Knicks
-October 28, 2026
-Shamet registered 13 points (3-8 FG, 3-5 3Pt, 4-4 FT), two rebounds and three assists across 28 minutes in Tuesday's 111-97 win over the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)[Puts up 23 in win over Detroit](https://www.rotowire.com/basketball/headlines/jalen-brunson-news-puts-up-23-in-win-over-detroit-536438)
-**G** New York Knicks
-October 28, 2026
-Brunson posted 23 points (5-18 FG, 0-5 3Pt, 13-16 FT), a rebound, seven assists and a block across 36 minutes in Tuesday's 111-97 win over the Pistons.
+Bridges amassed 12 points (4-10 FG, 4-8 3Pt), three rebounds, four assists and one steal over 32 minutes during Tuesday's 111-97 victory over the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)[Bounces back Tuesday](https://www.rotowire.com/basketball/headlines/paul-george-news-bounces-back-tuesday-536437)
-**F** Boston Celtics
+[Luka Garza](https://www.rotowire.com/basketball/player/luka-garza-5423)[Sees 13 minutes](https://www.rotowire.com/basketball/headlines/luka-garza-news-sees-13-minutes-536508)
+**C** Boston Celtics
 October 28, 2026
-George registered 20 points (8-16 FG, 1-6 3Pt, 3-3 FT), seven rebounds, seven assists and two steals across 36 minutes in Tuesday's 125-124 overtime win over the Nets.
+Garza posted two points (1-4 FG, 0-1 3Pt) and four rebounds over 13 minutes during Tuesday's 125-124 overtime victory over Brooklyn.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Jordan Walsh](https://www.rotowire.com/basketball/player/jordan-walsh-5942)[Scores season-high 15 points](https://www.rotowire.com/basketball/headlines/jordan-walsh-news-scores-season-high-15-points-536436)
-**F** Boston Celtics
+[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)[Scores seven points](https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-scores-seven-points-536507)
+**C** Boston Celtics
 October 28, 2026
-Walsh delivered 15 points (5-8 FG, 3-5 3Pt, 2-2 FT), six rebounds, an assist and a steal across 24 minutes in Tuesday's 125-124 overtime win over the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)[Hands out seven assists](https://www.rotowire.com/basketball/headlines/derrick-white-news-hands-out-seven-assists-536435)
-**G** Boston Celtics
-October 28, 2026
-White contributed 16 points (5-15 FG, 1-7 3Pt, 5-5 FT), five rebounds and seven assists across 33 minutes in Tuesday's 125-124 overtime win over the Nets.
+Robinson closed Tuesday's 125-124 overtime win over the Nets with seven points (3-4 FG, 1-4 FT), five rebounds and one steal over 25 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Scores 17 points off bench](https://www.rotowire.com/basketball/headlines/mikel-brown-news-scores-17-points-off-bench-536434)
-**G** Brooklyn Nets
+[Day'Ron Sharpe](https://www.rotowire.com/basketball/player/dayron-sharpe-5418)[Limited role in loss](https://www.rotowire.com/basketball/headlines/dayron-sharpe-news-limited-role-in-loss-536504)
+**C** Brooklyn Nets
 October 28, 2026
-Brown tallied 17 points (5-17 FG, 4-11 3Pt, 3-3 FT), five rebounds and five assists across 28 minutes in Tuesday's 125-124 overtime loss to the Celtics.
+Sharpe finished Tuesday's 125-124 overtime loss to the Celtics with four points (2-4 FG, 0-1 3Pt), six rebounds, one block and one steal in 17 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Julius Randle](https://www.rotowire.com/basketball/player/julius-randle-3574)[Scores 24 points Tuesday](https://www.rotowire.com/basketball/headlines/julius-randle-news-scores-24-points-tuesday-536433)
-**F** Brooklyn Nets
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Dylan Harper](https://www.rotowire.com/basketball/player/dylan-harper-6549)[Productive in easy win](https://www.rotowire.com/basketball/headlines/dylan-harper-news-productive-in-easy-win-536503)
+**G** San Antonio Spurs
 October 28, 2026
-Randle registered 24 points (10-23 FG, 0-7 3Pt, 4-5 FT), nine rebounds, four assists and two steals across 44 minutes in Tuesday's 125-124 overtime loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)[Solid all-around effort in overtime defeat](https://www.rotowire.com/basketball/headlines/nolan-traore-news-solid-all-around-effort-in-overtime-defeat-536432)
-**G** Brooklyn Nets
-October 28, 2026
-Traore posted 15 points (6-9 FG, 1-2 3Pt, 2-4 FT), a rebound, three assists and two steals across 24 minutes in Tuesday's 125-124 overtime loss to the Celtics.
+Harper logged 13 points (6-7 FG, 1-1 FT), six rebounds, six assists and two steals over 30 minutes during Tuesday's 130-103 victory over Sacramento.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Damian Lillard](https://www.rotowire.com/basketball/player/damian-lillard-3304)[Sinks key shot in final minute](https://www.rotowire.com/basketball/headlines/damian-lillard-news-sinks-key-shot-in-final-minute-536431)
-**G** Portland Trail Blazers
+[Donovan Clingan](https://www.rotowire.com/basketball/player/donovan-clingan-6254)[Sniffs double-double](https://www.rotowire.com/basketball/headlines/donovan-clingan-news-sniffs-double-double-536502)
+**C** Portland Trail Blazers
 October 28, 2026
-Lillard registered 21 points (5-12 FG, 4-8 3Pt, 7-11 FT), five rebounds and four assists in 31 minutes during Tuesday's 136-129 win over the Lakers.
+Clingan produced nine points (3-4 FG, 2-2 3Pt, 1-4 FT), 10 rebounds, one assist and one block in 26 minutes during Tuesday's 136-129 victory over the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Andre Drummond](https://www.rotowire.com/basketball/player/andre-drummond-3300)[Near double-double in victory](https://www.rotowire.com/basketball/headlines/andre-drummond-news-near-double-double-in-victory-536501)
+**C** New York Knicks
+October 28, 2026
+Drummond recorded 10 points (5-7 FG, 0-1 3Pt, 0-2 FT), eight rebounds and one assist over 14 minutes during Tuesday's 111-97 win over Detroit.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Toumani Camara](https://www.rotowire.com/basketball/player/toumani-camara-5987)[Scores efficient 12 points](https://www.rotowire.com/basketball/headlines/toumani-camara-news-scores-efficient-12-points-536500)
+**F** Portland Trail Blazers
+October 28, 2026
+Camara closed with 12 points (4-5 FG, 4-5 3Pt), one rebound, one assist and one steal in 24 minutes during Tuesday's 136-129 victory over the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)[Settling in with new team](https://www.rotowire.com/basketball/headlines/collin-sexton-news-settling-in-with-new-team-536498)
+**G** Los Angeles Lakers
+October 28, 2026
+Sexton totaled nine points (4-11 FG, 0-5 3Pt, 1-2 FT), one rebound and four assists over 14 minutes during Tuesday's 136-129 loss to the Trail Blazers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Justin Champagnie](https://www.rotowire.com/basketball/player/justin-champagnie-5371)[Undergoes foot surgery](https://www.rotowire.com/basketball/headlines/justin-champagnie-injury-undergoes-foot-surgery-536492)
+**F** Washington Wizards
+Foot
+October 28, 2026
+Champagnie (foot) is expected to miss several months, per [Josh Robbins of The Athletic](https://x.com/JoshuaBRobbins/status/2115511438341185737?a=CfvM-_3GoIw5Ync4FcI&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)[Sitting out Wednesday](https://www.rotowire.com/basketball/headlines/tobias-harris-injury-sitting-out-wednesday-536490)
+**F** San Antonio Spurs
+Calf
+October 28, 2026
+Harris (calf) is out for Wednesday's game against Utah, [Paul Garcia of ProjectSpurs.com](https://x.com/PaulGarciaNBA/status/2115508957813018768) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Downgraded to doubtful](https://www.rotowire.com/basketball/headlines/naji-marshall-injury-downgraded-to-doubtful-536489)
+**F** Dallas Mavericks
+Illness
+October 28, 2026
+Marshall (illness) is now [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-wednesday-536488)
+**F** Dallas Mavericks
+Heel
+October 28, 2026
+Biberovic (heel) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Downgraded to out](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-downgraded-to-out-536486)
+**F** Dallas Mavericks
+Knee
+October 28, 2026
+Aldama (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Jose Alvarado](https://www.rotowire.com/basketball/player/jose-alvarado-5424)[Another absence coming](https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-another-absence-coming-536485)
+**G** New York Knicks
+Ankle
+October 28, 2026
+Alvarado (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-28_02_15PM.pdf) for Wednesday's game against the Bulls.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Return timeline uncertain](https://www.rotowire.com/basketball/headlines/alex-caruso-injury-return-timeline-uncertain-536483)
+**F** Oklahoma City Thunder
+Ankle
+October 28, 2026
+Caruso is expected to miss time due to an ankle sprain, [Clemente Almanza of USA Today](https://x.com/CAlmanza1007/status/2115503944487088532) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
@@ -197,5 +204,5 @@ Lillard registered 21 points (5-12 FG, 4-8 3Pt, 7-11 FT), five rebounds and four
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26auid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792524870-TDHUFLEM-FU3N&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjUyNDg3MC1UREhVRkxFTS1GVTNO&id=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659d9f98979e96989e9c6666uokewi0e0y6k6o64626m60646m6i00)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659d9f98979e96989e9c6666uokewi0e0y6k6o64626m60646m6i00)
 
