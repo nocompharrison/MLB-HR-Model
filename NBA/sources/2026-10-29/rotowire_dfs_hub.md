@@ -1,59 +1,66 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 12:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 17:06 ET -->
 
 # NBA DFS Picks Today
-October 28, 2026
+October 29, 2026
 By:
 ![Author Image](https://assets.rotowire.com/images/photos/Joe-Mayo.png)
 [Joe Mayo](https://www.rotowire.com/writer/joe-mayo-1366)
 [ X logo @WiscoMayo](https://twitter.com/WiscoMayo)
-October 28, 2026
-**NBA DraftKings Picks for Wednesday, Oct. 28**
+October 29, 2026
+**NBA DraftKings Picks for Thursday, Oct. 29**
 All the tools you need for building winning NBA DFS lineups, starting with the top plays of the day.
 **Top NBA DFS Plays Today**
-DraftKings is rolling out a nine-game slate Wednesday. While guys like [Nikola Jokic](https://www.rotowire.com/basketball/player.php?id=3612) and [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player.php?id=3456) headline the night, finding value will be important in building winning lineups. Below, I'll outline three players who could benefit from increased opportunities amid injuries.
-[**LaMelo Ball**](https://www.rotowire.com/basketball/player.php?id=5151)**, Timberwolves![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10) ($7,700) vs. Warriors **
-Ball hasn't had a fantastic start to his first season with the Timberwolves, though that's partly due to blowout wins and [Anthony Edwards](https://www.rotowire.com/basketball/player.php?id=5110) (knee), who is now set to miss an extended period. With Edwards sidelined, Ball figures to see increased usage. He's averaged only 24.8 minutes per contest thus far, but per 36 minutes, he's averaging 21.5 points, 9.1 assists, 2.9 rebounds and 2.5 steals per tilt. 
-[**Tari Eason**](https://www.rotowire.com/basketball/player.php?id=5704)**, Rockets![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10) ($4,600) vs. Bucks **
-[Alperen Sengun](https://www.rotowire.com/basketball/player.php?id=5404) (back) will join [Steven Adams](https://www.rotowire.com/basketball/player.php?id=3445) (calf) on the inactive list Wednesday, leaving additional usage and frontcourt minutes available. Eason has played a sizable role so far this season, logging 27-plus minutes while finishing with at least 25.0 DK points in each of Houston's last three games. During that span, he has averaged 14.7 points, 5.7 rebounds, 1.3 steals and 1.3 blocks across 30.3 minutes per showing. 
-[**Terrence Shannon**](https://www.rotowire.com/basketball/player.php?id=6278)**, Timberwolves![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10) ($3,700) vs. Warriors **
-Shannon has gotten off to a strong start to the regular season, scoring in double figures in all four of Minnesota's games. The 26-year-old swingman is averaging 13.0 points, 3.3 rebounds and 2.5 assists while shooting 50.0 percent from both the field and three-point range in 22.3 minutes per contest. The 2024 first-rounder is also in line for increased burn in the absence of Edwards.
+Thursday's three-game slate tips off at 8:00 p.m. ET with two matchups. The Hawks will look to snap the Cavaliers' winning streak, while the Kings head to New Orleans. The Grizzlies and Trail Blazers wrap up the night, with both teams looking to remain undefeated. Below, I'll highlight three players who could return significant value in this light slate. 
+[**Domantas Sabonis**](https://www.rotowire.com/basketball/player.php?id=3865)**, Kings![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10) ($9,200) at Pelicans**
+Sabonis enters a favorable matchup against the Pelicans, who are on the second leg of a back-to-back set and have struggled against star big men so far this season. The veteran center has stuffed the stat sheet for the Kings, averaging 19.0 points, 16.5 rebounds, 7.3 assists and 0.8 steals in 36.0 minutes per game across four regular-season outings. Sabonis has already recorded three double-doubles and a triple-double this season. 
+[**Deni Avdija**](https://www.rotowire.com/basketball/player.php?id=5152)**, Trail Blazers![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10) ($7,800) vs. Grizzlies**
+Avdija has turned in a productive start to the campaign, as he has yet to finish with fewer than 42.0 DK points and is averaging 22.3 points, 7.0 rebounds, 6.3 assists, 2.3 triples and 1.3 steals while shooting 48.9 percent from the field in 31.7 minutes per contest. It's still early in the season, but it's worth noting that the Grizzlies rank 20th in fantasy points allowed to opposing power forwards thus far.
+[**Kingston Flemings**](https://www.rotowire.com/basketball/player.php?id=6927)**, Hawks![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10) ($3,800) vs. Cavaliers**
+Flemings has seen his minutes fluctuate early in the campaign, though he's recorded 25.5 or more DK points in each of his two appearances in which he's logged at least 25 minutes. The rookie guard isn't guaranteed to see an uptick in playing time in the second leg of this back-to-back set but could still return strong value at this salary. He's also coming off a 23-point performance in which he erupted for 41.3 DK points. 
 ## **Latest NBA News**
 Stay on top of the most important news impacting today's slate with our live news feed. For the full set of NBA player news, including all teams, news types & G-League players, visit our [NBA breaking news](https://www.rotowire.com/basketball/news.php) home.
 ### NBA News: Teams Playing Today
 Thursday, October 29 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (6) All NBA news Atlanta Hawks (CLE @ ATL) Cleveland Cavaliers (CLE @ ATL) Memphis Grizzlies (MEM @ POR) New Orleans Pelicans (SAC @ NOP) Portland Trail Blazers (MEM @ POR) Sacramento Kings (SAC @ NOP)
-Atlanta HawksCLE @ ATL - 8:00 PM ET
-**[Zuby Ejiofor](https://www.rotowire.com/basketball/player/zuby-ejiofor-6615)** _C_ 12:00 PM ET
-#### Back to G League
-The Hawks assigned Ejiofor to the G League's College Park Skyhawks on Thursday.
+Portland Trail BlazersMEM @ POR - 10:00 PM ET
+**[Donovan Clingan](https://www.rotowire.com/basketball/player/donovan-clingan-6254)** _C_ 3:06 PM ET
+#### Has option picked up
+Clingan had his team option exercised by the Trail Blazers, the team announced Thursday.
 Analysis
-Ejiofor will continue to shuffle back and forth between the two squads. He's currently miles off the fantasy radar.
+This move locks in Clingan's roster status for the 2027-28 season. He should continue operating as Portland's starting center going forward, though veteran Robert Williams poses a significant threat to Clingan's playing time.
+Portland Trail BlazersMEM @ POR - 10:00 PM ET
+**[Yang Hansen](https://www.rotowire.com/basketball/player/yang-hansen-6617)** _C_ 3:06 PM ET
+#### Third-year option picked up
+The Trail Blazers exercised their third-year team option on Hansen for the 2027-28 season, the team announced Thursday.
+Analysis
+Portland's decision keeps the 2025 first-round pick under contract through the 2027-28 campaign. The 7-foot-1 center remains a developmental piece in the Trail Blazers' frontcourt, where Donovan Clingan currently occupies the starting role. The transaction has no immediate impact on Hansen's fantasy outlook, as his value will depend on his ability to carve out a consistent role in Portland's rotation.
+Portland Trail BlazersMEM @ POR - 10:00 PM ET
+**[Robert Williams](https://www.rotowire.com/basketball/player/robert-williams-4382)** _C_ D _Top_ 2:57 PM ET
+#### Doubtful for Thursday
+Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers.
+Analysis
+Williams is trending toward missing Thursday's matchup as Portland continues to manage his left knee. The veteran center's availability has been an ongoing concern in recent seasons, and the team appears to be exercising caution with his workload. If Williams is ruled out, Donovan Clingan could see additional minutes in the frontcourt.
 New Orleans PelicansSAC @ NOP - 8:00 PM ET
-**[Derik Queen](https://www.rotowire.com/basketball/player/derik-queen-6541)** _C_ 11:04 AM ET
-#### Records double-double off bench
-Queen notched 11 points (3-6 FG, 0-0 3Pt, 5-7 FT), 12 rebounds, an assist and a block across 25 minutes in Wednesday's 104-91 loss to the Nuggets.
+**[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ 2:16 PM ET
+#### Strong start continues
+Murray produced 10 points (4-11 FG, 0-2 3Pt, 2-2 FT), eight rebounds, five assists and one steal in 30 minutes during Wednesday's 104-91 loss to the Nuggets.
 Analysis
-Queen delivered valuable rebounding production in a reserve role, reaching double digits in points for the fourth consecutive game while notching his second double-double of the campaign. Queen is averaging 12.5 points and 9.3 boards per game despite not starting in any of his four appearances this season, so he should remain a valuable fantasy contributor regardless of whether he starts or not. He's also been remarkably efficient, making 51.7 percent of his shots and 86.4 percent of his free throws.
+Although it's a small sample size, Murray appears to be all the way back from Achilles surgery that limited him during the prior two seasons. Through four appearances, Murray has averaged 17.8 points, 6.0 assists, 5.8 rebounds, 2.0 steals and 1.0 blocks in 32.3 minutes per game.
 New Orleans PelicansSAC @ NOP - 8:00 PM ET
-**[Jeremiah Fears](https://www.rotowire.com/basketball/player/jeremiah-fears-6546)** _G_ 11:02 AM ET
-#### Poor shooting display Wednesday
-Fears finished with 11 points (5-14 FG, 1-5 3Pt), four rebounds, three assists and a steal across 24 minutes in Wednesday's 104-91 loss to the Nuggets.
+**[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)** _F_ 2:13 PM ET
+#### Stumbles in loss
+Murphy amassed six points (2-7 FG, 2-7 3Pt, 0-1 FT), one rebound, three assists and two steals across 30 minutes during Wednesday's 104-91 loss to the Nuggets.
 Analysis
-Fears is enduring a rough start to the season, with this 11-point outing being his best scoring output of the campaign so far. Through four contests, the second-year floor general is averaging just 9.0 points per game while shooting a dismal 31.1 percent from the floor and 18.8 percent from three-point range.
-New Orleans PelicansSAC @ NOP - 8:00 PM ET
-**[Zion Williamson](https://www.rotowire.com/basketball/player/zion-williamson-4777)** _F_ _Top_ 10:56 AM ET
-#### Scores season-high 25 points
-Williamson delivered 25 points (10-14 FG, 1-1 3Pt, 4-6 FT), five rebounds, two assists and three steals across 32 minutes in Wednesday's 104-91 loss to the Nuggets.
-Analysis
-Williamson was New Orleans' most efficient offensive contributor once again and made his presence felt in a big way, shooting 71.4 percent from the field while adding three steals. The star forward has enjoyed an excellent start to the season and has surpassed the 20-point mark in three of his first four outings while also recording multiple assists and steals each time. His rebounding numbers could use an uptick, but nonetheless, it's been a strong start to the campaign for Williamson with averages of 21.8 points, 3.5 rebounds, 2.3 assists and 2.8 steals per game while shooting 60.4 percent from the floor and 42.9 percent from deep.
+Murphy scored a season-low six points Wednesday. Better days are ahead for the star forward, who just dropped 26 points against Denver on Oct. 24 and remains one of the focal points of the New Orleans offense alongside Dejounte Murray and Zion Williamson.
+Show 5 more (9 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
 ### NBA DFS Starting Lineups
 Thursday, October 29: confirmed and expected starters with each site's salary and projected fantasy points.
 DraftKings FanDuel
-Main Slate - 3 games - 8:00 PM Showdown - MEM @ POR - 11:00 PM Showdown - CLE @ ATL - 8:00 PM Showdown - MEM @ POR - 10:00 PM Main Slate - 3 games - 8:00 PM All games (3) CLE @ ATL - 8:00 PM ET SAC @ NOP - 8:00 PM ET MEM @ POR - 10:00 PM ET
+Main Slate - 3 games - 8:00 PM Oct 30 - Main Slate - 8 games - 7:00 PM (lineups pending) Oct 30 - Main Slate - 2 games - 10:00 PM (lineups pending) Oct 30 - Main Slate - 4 games - 7:30 PM (lineups pending) Oct 30 - Main Slate - 3 games - 8:00 PM (lineups pending) Oct 30 - Showdown - LAL @ GSW - 11:00 PM (lineups pending) Showdown - MEM @ POR - 11:00 PM Oct 30 - Showdown - CHA @ WSH - 7:00 PM (lineups pending) Showdown - CLE @ ATL - 8:00 PM Oct 30 - Showdown - LAL @ GSW - 10:00 PM (lineups pending) Showdown - MEM @ POR - 10:00 PM Oct 30 - Showdown - NYK @ PHI - 7:30 PM (lineups pending) Main Slate - 3 games - 8:00 PM Oct 30 - Main Slate - 8 games - 7:00 PM (lineups pending) Oct 30 - Main Slate - 2 games - 10:00 PM (lineups pending) All games (3) CLE @ ATL - 8:00 PM ET SAC @ NOP - 8:00 PM ET MEM @ POR - 10:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **CLE @ ATL**
 O/U 237.58:00 PM ET
@@ -76,9 +83,9 @@ _Implied_**119.5** _Spread_**-1.5**
 | SF  | Dyson Daniels  | $6,500  | 29.1  |  
 | SG  | Nickeil Alexander-Walker  | $6,700  | 31.7  |  
 **SAC @ NOP**
-O/U 236.58:00 PM ET
+O/U 235.58:00 PM ET
 KingsExpectedAway
-_Implied_**115.5** _Spread_**+5.5**  
+_Implied_**114.5** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,200  | 51.3  |  
@@ -87,14 +94,14 @@ _Implied_**115.5** _Spread_**+5.5**
 | SF  | De'Andre Hunter  | $6,000  | 25.7  |  
 | SG  | Zach LaVine  | $6,600  | 34.7  |  
 PelicansExpectedHome
-_Implied_**121.0** _Spread_**-5.5**  
+_Implied_**121.0** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | DeAndre Jordan  | $3,800  | 13.8  |  
-| PF  | Zion Williamson  | $7,500  | 37.9  |  
-| PG  | Dejounte Murray  | $7,700  | 38.9  |  
-| SF  | Trey Murphy  | $7,300  | 32.7  |  
-| SG  | Jeremiah Fears  | $5,000  | 24.3  |  
+| PF  | Zion Williamson  | $7,500  | 38.2  |  
+| PG  | Dejounte Murray  | $7,700  | 39.9  |  
+| SF  | Trey Murphy  | $7,300  | 32.1  |  
+| SG  | Jeremiah Fears  | $5,000  | 24.9  |  
 **MEM @ POR**
 O/U 232.510:00 PM ET
 GrizzliesExpectedAway
@@ -110,11 +117,11 @@ Trail BlazersExpectedHome
 _Implied_**120.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Donovan Clingan  | $6,100  | 32.0  |  
-| PF  | Deni Avdija  | $7,800  | 40.0  |  
-| PG  | Damian Lillard  | $7,000  | 39.8  |  
-| SF  | Toumani Camara  | $5,200  | 22.3  |  
-| SG  | Ja Morant  | $6,400  | 29.4  |  
+| C  | Donovan Clingan  | $6,100  | 38.4  |  
+| PF  | Deni Avdija  | $7,800  | 40.7  |  
+| PG  | Damian Lillard  | $7,000  | 40.1  |  
+| SF  | Toumani Camara  | $5,200  | 22.6  |  
+| SG  | Ja Morant  | $6,400  | 29.9  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -126,16 +133,16 @@ Main slatesMain - 3 games - 8:00 PMShowdownsShowdown - MEM @ POR - 11:00 PMShowd
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Onyeka OkongwuATL - C  | vs CLE  | $5,600  | 29  | 33.7  | **6.01**  |  
-| 2  |  Damian LillardPOR - PG  | vs MEM  | $7,000  | 32  | 39.8  | **5.68**  |  
-| 3  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.4  | **5.64**  |  
-| 4  |  Domantas SabonisSAC - C  | @ NOP  | $9,200  | 35  | 51.2  | **5.57**  |  
-| 5  |  Jarrett AllenCLE - C  | @ ATL  | $6,000  | 28  | 32.5  | **5.42**  |  
-| 6  |  Evan MobleyCLE - PF  | @ ATL  | $7,900  | 34  | 41.9  | **5.30**  |  
-| 7  |  James HardenCLE - PG  | @ ATL  | $7,400  | 34  | 38.9  | **5.25**  |  
-| 8  |  Donovan ClinganPOR - C  | vs MEM  | $6,100  | 25  | 32.1  | **5.25**  |  
-| 9  |  Zach LaVineSAC - SG  | @ NOP  | $6,600  | 35  | 34.7  | **5.25**  |  
-| 10  |  Jrue HolidayPOR - SG  | vs MEM  | $5,100  | 28  | 26.6  | **5.22**  |  
+| 1  |  Donovan ClinganPOR - C  | vs MEM  | $6,100  | 29  | 38.4  | **6.30**  |  
+| 2  |  Onyeka OkongwuATL - C  | vs CLE  | $5,600  | 29  | 33.7  | **6.01**  |  
+| 3  |  Damian LillardPOR - PG  | vs MEM  | $7,000  | 32  | 40.1  | **5.73**  |  
+| 4  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.4  | **5.64**  |  
+| 5  |  Domantas SabonisSAC - C  | @ NOP  | $9,200  | 35  | 51.2  | **5.57**  |  
+| 6  |  Jarrett AllenCLE - C  | @ ATL  | $6,000  | 28  | 32.5  | **5.42**  |  
+| 7  |  Evan MobleyCLE - PF  | @ ATL  | $7,900  | 34  | 41.9  | **5.30**  |  
+| 8  |  Jrue HolidayPOR - SG  | vs MEM  | $5,100  | 28  | 26.9  | **5.27**  |  
+| 9  |  James HardenCLE - PG  | @ ATL  | $7,400  | 34  | 38.9  | **5.25**  |  
+| 10  |  Zach LaVineSAC - SG  | @ NOP  | $6,600  | 35  | 34.7  | **5.25**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -144,7 +151,7 @@ NBA Boom-or-Bust Board
 Highest-ceiling, highest-variance plays on the slate, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-SlateToday · 8:00 PM ET · 3 games — 63 players projected Today · 8:00 PM ET · CLE@ATL single game — 19 players projected Today · 10:00 PM ET · MEM@POR single game — 21 players projected Today · 11:00 PM ET · MEM@POR single game — 21 players projected
+Slate Today · 8:00 PM ET · 3 games — 65 players projected Fri 10/30 · 7:00 PM ET · 8 games — projections not yet available Fri 10/30 · 7:30 PM ET · 4 games — projections not yet available Fri 10/30 · 8:00 PM ET · 3 games — projections not yet available Fri 10/30 · 10:00 PM ET · 2 games — projections not yet available Today · 8:00 PM ET · CLE@ATL single game — 19 players projected Today · 10:00 PM ET · MEM@POR single game — 22 players projected Today · 11:00 PM ET · MEM@POR single game — 22 players projected Fri 10/30 · 7:00 PM ET · CHA@WAS single game — projections not yet available Fri 10/30 · 7:30 PM ET · NYK@PHI single game — projections not yet available Fri 10/30 · 10:00 PM ET · LAL@GSW single game — projections not yet available Fri 10/30 · 11:00 PM ET · LAL@GSW single game — projections not yet available
 TeamAll ATL CLE MEM NOP POR SAC
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -153,28 +160,28 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-12014016018020030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)OkongwuMurrayCissokoPostWatson
+12014016018020030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)MurrayOkongwuWatsonPostQueen
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** CLE@ATL, MEM@POR, SAC@NOP  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Onyeka OkongwuATL · C · CLE@ATL  | $5,600  | 12.3  | 33.7  | **62.2**  |   | 148%  | 11.1  | 56  |  
-| 2  |  Dejounte MurrayNOP · PG · SAC@NOP  | $7,700  | 15.0  | 38.9  | **69.9**  |   | 141%  | 9.1  | 55  |  
-| 3  |  Deni AvdijaPOR · PF · MEM@POR  | $7,800  | 15.6  | 40.0  | **71.1**  |   | 138%  | 9.1  | 55  |  
-| 4  |  Cameron BoozerMEM · PF · MEM@POR  | $7,200  | 11.7  | 33.2  | **61.2**  |   | 149%  | 8.5  | 55  |  
-| 5  |  Sidy CissokoPOR · SF/PF · MEM@POR  | $4,000  | 4.4  | 18.5  | **38.7**  |   | 186%  | 9.7  | 55  |  
-| 6  |  Quinten PostMEM · C · MEM@POR  | $3,500  | 3.8  | 15.1  | **32.7**  |   | 192%  | 9.4  | 55  |  
-| 7  |  James HardenCLE · PG · CLE@ATL  | $7,400  | 15.3  | 38.9  | **69.5**  |   | 139%  | 9.4  | 54  |  
-| 8  |  Mario HezonjaCLE · SF/PF · CLE@ATL  | $3,900  | 3.6  | 14.8  | **32.3**  |   | 193%  | 8.3  | 54  |  
-| 9  |  Peyton WatsonCLE · SF/PF · CLE@ATL  | $5,500  | 8.7  | 28.0  | **53.8**  |   | 161%  | 9.8  | 54  |  
-| 10  |  Toumani CamaraPOR · SF · MEM@POR  | $5,200  | 6.1  | 22.3  | **44.9**  |   | 174%  | 8.6  | 54  |  
-| 11  |  Emanuel SharpSAC · SG · SAC@NOP  | $3,800  | 4.3  | 16.5  | **35.2**  |   | 187%  | 9.3  | 53  |  
-| 12  |  Derik QueenNOP · PF/C · SAC@NOP  | $6,300  | 10.3  | 29.0  | **54.9**  |   | 154%  | 8.7  | 53  |  
-| 13  |  Daeqwon PlowdenSAC · SF · SAC@NOP  | $3,700  | 2.9  | 13.7  | **30.7**  |   | 203%  | 8.3  | 53  |  
-| 14  |  Donovan MitchellCLE · SG · CLE@ATL  | $8,600  | 18.1  | 42.8  | **74.3**  |   | 131%  | 8.6  | 52  |  
-| 15  |  Damian LillardPOR · PG/SG · MEM@POR  | $7,000  | 16.7  | 39.8  | **70.3**  |   | 135%  | 10.0  | 52  |  
-Show all 56 players
+| 1  |  Dejounte MurrayNOP · PG · SAC@NOP  | $7,700  | 15.6  | 39.9  | **71.4**  |   | 140%  | 9.3  | 58  |  
+| 2  |  Onyeka OkongwuATL · C · CLE@ATL  | $5,600  | 12.3  | 33.7  | **62.2**  |   | 148%  | 11.1  | 56  |  
+| 3  |  Deni AvdijaPOR · PF · MEM@POR  | $7,800  | 16.1  | 40.7  | **72.0**  |   | 137%  | 9.2  | 56  |  
+| 4  |  James HardenCLE · PG · CLE@ATL  | $7,400  | 15.3  | 38.9  | **69.5**  |   | 139%  | 9.4  | 55  |  
+| 5  |  Cameron BoozerMEM · PF · MEM@POR  | $7,200  | 11.7  | 33.2  | **61.2**  |   | 149%  | 8.5  | 55  |  
+| 6  |  Peyton WatsonCLE · SF/PF · CLE@ATL  | $5,500  | 8.7  | 28.0  | **53.8**  |   | 161%  | 9.8  | 54  |  
+| 7  |  Quinten PostMEM · C · MEM@POR  | $3,500  | 3.8  | 15.1  | **32.7**  |   | 192%  | 9.4  | 54  |  
+| 8  |  Mario HezonjaCLE · SF/PF · CLE@ATL  | $3,900  | 3.6  | 14.8  | **32.3**  |   | 193%  | 8.3  | 53  |  
+| 9  |  Derik QueenNOP · PF/C · SAC@NOP  | $6,300  | 10.5  | 29.3  | **55.4**  |   | 153%  | 8.8  | 53  |  
+| 10  |  Toumani CamaraPOR · SF · MEM@POR  | $5,200  | 6.3  | 22.6  | **45.4**  |   | 173%  | 8.7  | 53  |  
+| 11  |  Sidy CissokoPOR · SF/PF · MEM@POR  | $4,000  | 4.7  | 18.9  | **39.4**  |   | 184%  | 9.9  | 53  |  
+| 12  |  Luguentz DortATL · SG/SF · CLE@ATL  | $4,800  | 4.4  | 17.6  | **37.0**  |   | 185%  | 7.7  | 52  |  
+| 13  |  Donovan MitchellCLE · SG · CLE@ATL  | $8,600  | 18.1  | 42.8  | **74.3**  |   | 131%  | 8.6  | 52  |  
+| 14  |  Emanuel SharpSAC · SG · SAC@NOP  | $3,800  | 4.3  | 16.5  | **35.2**  |   | 187%  | 9.3  | 52  |  
+| 15  |  Nickeil Alexander-WalkerATL · PG/SG · CLE@ATL  | $6,700  | 11.5  | 31.7  | **58.6**  |   | 148%  | 8.7  | 51  |  
+Show all 54 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 8:00 PM ET · 3 games slate · 2026-10-29.
 ## **NBA Injury Report**
 Stay on top of who may be out on today's NBA slate, and who could be the next man up to earn extra minutes in a player's absence. For the full list of injured players and their estimated return dates, visit our [NBA injury report](https://www.rotowire.com/basketball/injury-report.php).
