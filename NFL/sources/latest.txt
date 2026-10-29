@@ -1,15 +1,15 @@
-# NFL sources | season 2026 | week 7 | updated 2026-10-25 11:48 ET
+# NFL sources | season 2026 | week 8 | updated 2026-10-29 10:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-07/primer_p1.md                     UPDATED (changed since 2026-10-25 09:33) 55,478 chars https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/
-OK      NFL/sources/week-07/primer_p2.md                     UPDATED (changed since 2026-10-25 09:33) 48,143 chars https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-07/primer_p3.md                     no changes since 2026-10-25 09:33  https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-07/primer_p4.md                     no changes since 2026-10-25 09:33  https://www.fantasypros.com/2026/10/the-primer-week-7-edition-2026-fantasy-football/4/
-SHORT   NFL/sources/week-07/fantasypros_grades.md            UPDATED (changed since 2026-10-25 09:33) 293 words of article text - not published, paywalled or blocked? https://www.fantasypros.com/2026/10/fantasy-football-week-7-player-grades-start-sit-advice-2026/
-OK      NFL/sources/week-07/fantasypoints_startsit.md        UPDATED (changed since 2026-10-25 09:33) 83,258 chars https://www.fantasypoints.com/nfl/articles/2026/week-7-fantasy-football-start-em-sit-em-advice
-OK      NFL/sources/week-07/rotoballer_startsit.md           UPDATED (changed since 2026-10-25 09:33) 137,814 chars https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-7-2026
-OK      NFL/sources/week-07/fftoday.md                       UPDATED (changed since 2026-10-25 09:33) 68,866 chars https://www.fftoday.com/articles/ff/26-ff-wk7.html
-OK      NFL/sources/week-07/4for4_startsit.md                UPDATED (changed since 2026-10-25 09:33) 64,745 chars https://www.4for4.com/2026/w7/fantasy-football-week-7-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-07/fantasypros_news.md              UPDATED (changed since 2026-10-25 09:33) 29,321 chars https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-07/4for4_oline.md                   UPDATED (changed since 2026-10-25 09:33) 31,108 chars https://www.4for4.com/2026/w7/nfl-offensive-line-rankings-week-7-matchups-exploit
-OK      NFL/sources/week-07/rotoballer_betting.md            UPDATED (changed since 2026-10-25 09:33) 333,078 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
+OK      NFL/sources/week-08/primer_p1.md                     48,956 chars                       https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/
+OK      NFL/sources/week-08/primer_p2.md                     47,947 chars                       https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-08/primer_p3.md                     47,702 chars                       https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-08/primer_p4.md                     26,769 chars                       https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/4/
+FAILED  NFL/sources/week-08/fantasypros_grades.md            HTTP 404                           https://www.fantasypros.com/2026/10/fantasy-football-week-8-player-grades-start-sit-advice-2026/
+SHORT   NFL/sources/week-08/fantasypoints_startsit.md        0 words of article text - not published, paywalled or blocked? https://www.fantasypoints.com/nfl/articles/2026/week-8-fantasy-football-start-em-sit-em-advice
+FAILED  NFL/sources/week-08/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-8-2026
+OK      NFL/sources/week-08/fftoday.md                       10,081 chars                       https://www.fftoday.com/articles/ff/26-ff-wk8.html
+OK      NFL/sources/week-08/4for4_startsit.md                64,288 chars                       https://www.4for4.com/2026/w8/fantasy-football-week-8-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-08/fantasypros_news.md              25,226 chars                       https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-08/4for4_oline.md                   34,565 chars                       https://www.4for4.com/2026/w8/nfl-offensive-line-rankings-week-8-matchups-exploit
+OK      NFL/sources/week-08/rotoballer_betting.md            338,358 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
