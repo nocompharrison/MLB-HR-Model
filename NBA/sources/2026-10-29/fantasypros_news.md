@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-29 17:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-29 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Jaylon Tyson](https://images.fantasypros.com/images/players/nba/6155/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylon-tyson.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jaylon-tyson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylon-tyson.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylon-tyson.php)
+[Jaylon Tyson listed questionable Thursday ](https://www.fantasypros.com/nba/news/616441/jaylon-tyson-listed-questionable-thursday.php)  
+
+Thu, Oct 29th 5:58pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jaylon Tyson is listed as questionable for Thursday’s game against the Hawks. 
+**_Fantasy Impact:_** Tyson was a late addition to the injury report. He will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
+[Jordan Poole (ankle) listed doubtful Thursday ](https://www.fantasypros.com/nba/news/616440/jordan-poole-ankle-listed-doubtful-thursday.php)  
+
+Thu, Oct 29th 5:57pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jordan Poole is listed as doubtful for Thursday’s game against the Kings.
+**_Fantasy Impact:_** Poole left Wednesday's game early. He is likely sitting the second game of the back-to-back. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Robert Williams III](https://images.fantasypros.com/images/players/nba/3546/headshot/100x100.png)](https://www.fantasypros.com/nba/players/robert-williams-c.php)
 C - POR
 [» Rankings](https://www.fantasypros.com/nba/players/robert-williams-c.php)  
@@ -116,20 +144,6 @@ Thu, Oct 29th 3:37am EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Yanic Konan Niederhauser did not travel with the Clippers for their two-game road trip. 
 **_Fantasy Impact:_** Niederhauser remains off the fantasy radar when he is healthy. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
-G - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
-[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
-[Jordan Poole suffers ankle injury Wednesday ](https://www.fantasypros.com/nba/news/616361/jordan-poole-suffers-ankle-injury-wednesday.php)  
-
-Thu, Oct 29th 3:36am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jordan Poole left Wednesday's game against the Nuggets early with an ankle injury. (Source: [New Orleans Pelicans on Twitter](https://x.com/PelicansNBA/status/2115616142605594809))
-**_Fantasy Impact:_** Poole will continue to be further evaluated into Thursday. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -273,20 +287,6 @@ Joel Embiid scored 21 points (9-17 FG, 0-3 3PT, 3-3 FT) to go along with 11 rebo
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Paul Reed](https://images.fantasypros.com/images/players/nba/5129/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-reed.php)
-C - DET
-[» Rankings](https://www.fantasypros.com/nba/players/paul-reed.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/paul-reed.php)  
-[» More News](https://www.fantasypros.com/nba/news/paul-reed.php)
-[Paul Reed chips in 16 points Wednesday ](https://www.fantasypros.com/nba/news/616350/paul-reed-chips-16-points-wednesday.php)  
-
-Thu, Oct 29th 3:10am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Paul Reed scored 16 points (5-7 FG, 2-2 3PT, 4-4 FT) to go along with four rebounds, three steals and one block in the Pistons 97-89 loss against the Hornets. 
-**_Fantasy Impact:_** Reed continues to fill in for Jalen Duren (hamstring). He remains a solid streamer as long as he is starting. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=112_1793307657444&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659796989b9e969e979c9966uokewi0e0y6260646g6m606m626i66)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659796989b9e969e979c9966uokewi0e0y6260646g6m606m626i66)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

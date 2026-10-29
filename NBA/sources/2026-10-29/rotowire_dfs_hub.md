@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 17:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 18:05 ET -->
 
 # NBA DFS Picks Today
 October 29, 2026
@@ -77,11 +77,11 @@ HawksExpectedHome
 _Implied_**119.5** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Onyeka Okongwu  | $5,600  | 33.7  |  
-| PF  | Jalen Johnson  | $9,500  | 48.6  |  
-| PG  | CJ McCollum  | $5,600  | 28.9  |  
-| SF  | Dyson Daniels  | $6,500  | 29.1  |  
-| SG  | Nickeil Alexander-Walker  | $6,700  | 31.7  |  
+| C  | Onyeka Okongwu  | $5,600  | 32.3  |  
+| PF  | Jalen Johnson  | $9,500  | 48.8  |  
+| PG  | CJ McCollum  | $5,600  | 29.0  |  
+| SF  | Dyson Daniels  | $6,500  | 29.2  |  
+| SG  | Nickeil Alexander-Walker  | $6,700  | 31.9  |  
 **SAC @ NOP**
 O/U 235.58:00 PM ET
 KingsExpectedAway
@@ -134,9 +134,9 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Donovan ClinganPOR - C  | vs MEM  | $6,100  | 29  | 38.4  | **6.30**  |  
-| 2  |  Onyeka OkongwuATL - C  | vs CLE  | $5,600  | 29  | 33.7  | **6.01**  |  
+| 2  |  Onyeka OkongwuATL - C  | vs CLE  | $5,600  | 29  | 32.3  | **5.77**  |  
 | 3  |  Damian LillardPOR - PG  | vs MEM  | $7,000  | 32  | 40.1  | **5.73**  |  
-| 4  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.4  | **5.64**  |  
+| 4  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.5  | **5.66**  |  
 | 5  |  Domantas SabonisSAC - C  | @ NOP  | $9,200  | 35  | 51.2  | **5.57**  |  
 | 6  |  Jarrett AllenCLE - C  | @ ATL  | $6,000  | 28  | 32.5  | **5.42**  |  
 | 7  |  Evan MobleyCLE - PF  | @ ATL  | $7,900  | 34  | 41.9  | **5.30**  |  
@@ -160,27 +160,27 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-12014016018020030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)MurrayOkongwuWatsonPostQueen
+12014016018020030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)MurrayOkongwuPostWatsonCamara
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** CLE@ATL, MEM@POR, SAC@NOP  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Dejounte MurrayNOP · PG · SAC@NOP  | $7,700  | 15.6  | 39.9  | **71.4**  |   | 140%  | 9.3  | 58  |  
-| 2  |  Onyeka OkongwuATL · C · CLE@ATL  | $5,600  | 12.3  | 33.7  | **62.2**  |   | 148%  | 11.1  | 56  |  
+| 2  |  Onyeka OkongwuATL · C · CLE@ATL  | $5,600  | 11.4  | 32.3  | **60.3**  |   | 151%  | 10.8  | 56  |  
 | 3  |  Deni AvdijaPOR · PF · MEM@POR  | $7,800  | 16.1  | 40.7  | **72.0**  |   | 137%  | 9.2  | 56  |  
 | 4  |  James HardenCLE · PG · CLE@ATL  | $7,400  | 15.3  | 38.9  | **69.5**  |   | 139%  | 9.4  | 55  |  
-| 5  |  Cameron BoozerMEM · PF · MEM@POR  | $7,200  | 11.7  | 33.2  | **61.2**  |   | 149%  | 8.5  | 55  |  
+| 5  |  Quinten PostMEM · C · MEM@POR  | $3,500  | 3.9  | 15.2  | **32.9**  |   | 191%  | 9.4  | 55  |  
 | 6  |  Peyton WatsonCLE · SF/PF · CLE@ATL  | $5,500  | 8.7  | 28.0  | **53.8**  |   | 161%  | 9.8  | 54  |  
-| 7  |  Quinten PostMEM · C · MEM@POR  | $3,500  | 3.8  | 15.1  | **32.7**  |   | 192%  | 9.4  | 54  |  
+| 7  |  Emanuel SharpSAC · SG · SAC@NOP  | $3,800  | 4.3  | 16.5  | **35.2**  |   | 187%  | 9.3  | 54  |  
 | 8  |  Mario HezonjaCLE · SF/PF · CLE@ATL  | $3,900  | 3.6  | 14.8  | **32.3**  |   | 193%  | 8.3  | 53  |  
-| 9  |  Derik QueenNOP · PF/C · SAC@NOP  | $6,300  | 10.5  | 29.3  | **55.4**  |   | 153%  | 8.8  | 53  |  
-| 10  |  Toumani CamaraPOR · SF · MEM@POR  | $5,200  | 6.3  | 22.6  | **45.4**  |   | 173%  | 8.7  | 53  |  
-| 11  |  Sidy CissokoPOR · SF/PF · MEM@POR  | $4,000  | 4.7  | 18.9  | **39.4**  |   | 184%  | 9.9  | 53  |  
-| 12  |  Luguentz DortATL · SG/SF · CLE@ATL  | $4,800  | 4.4  | 17.6  | **37.0**  |   | 185%  | 7.7  | 52  |  
+| 9  |  Toumani CamaraPOR · SF · MEM@POR  | $5,200  | 6.3  | 22.6  | **45.4**  |   | 173%  | 8.7  | 53  |  
+| 10  |  Sidy CissokoPOR · SF/PF · MEM@POR  | $4,000  | 4.7  | 18.9  | **39.4**  |   | 184%  | 9.9  | 53  |  
+| 11  |  Cameron BoozerMEM · PF · MEM@POR  | $7,200  | 11.9  | 33.5  | **61.5**  |   | 148%  | 8.5  | 53  |  
+| 12  |  Luguentz DortATL · SG/SF · CLE@ATL  | $4,800  | 4.5  | 17.7  | **37.2**  |   | 185%  | 7.8  | 52  |  
 | 13  |  Donovan MitchellCLE · SG · CLE@ATL  | $8,600  | 18.1  | 42.8  | **74.3**  |   | 131%  | 8.6  | 52  |  
-| 14  |  Emanuel SharpSAC · SG · SAC@NOP  | $3,800  | 4.3  | 16.5  | **35.2**  |   | 187%  | 9.3  | 52  |  
-| 15  |  Nickeil Alexander-WalkerATL · PG/SG · CLE@ATL  | $6,700  | 11.5  | 31.7  | **58.6**  |   | 148%  | 8.7  | 51  |  
+| 14  |  Derik QueenNOP · PF/C · SAC@NOP  | $6,300  | 10.5  | 29.3  | **55.4**  |   | 153%  | 8.8  | 52  |  
+| 15  |  Scotty PippenMEM · PG · MEM@POR  | $4,500  | 4.3  | 16.1  | **34.5**  |   | 187%  | 7.7  | 52  |  
 Show all 54 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 8:00 PM ET · 3 games slate · 2026-10-29.
 ## **NBA Injury Report**

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-29 17:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-29 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,62 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-questionable-for-friday-536742)
+**G** Charlotte Hornets
+Foot
+October 29, 2026
+Schroder (foot) is [questionable](https://x.com/HornetsPR/status/2115919646235005335?s=20) for Friday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Out for Friday](https://www.rotowire.com/basketball/headlines/jabari-walker-injury-out-for-friday-536741)
+**F** Philadelphia 76ers
+Knee
+October 29, 2026
+Walker (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_30PM.pdf) for Friday's game versus New York.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-iffy-for-friday-536740)
+**F** Philadelphia 76ers
+Knee
+October 29, 2026
+Brown (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_30PM.pdf) for Friday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Tre Johnson](https://www.rotowire.com/basketball/player/tre-johnson-6543)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/tre-johnson-injury-iffy-for-friday-536739)
+**G** Washington Wizards
+Achilles
+October 29, 2026
+Johnson (Achilles) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_00PM.pdf) for Friday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Probable for Friday](https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-probable-for-friday-536738)
+**G** Indiana Pacers
+Neck
+October 29, 2026
+Nembhard (neck) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_00PM.pdf) for Friday's game against Miami.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-expected-to-play-friday-536737)
+**F** Indiana Pacers
+Hamstring
+October 29, 2026
+Nesmith (hamstring) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_00PM.pdf) for Friday's game against the Heat.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)[Still out with ankle sprain](https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-still-out-with-ankle-sprain-536736)
+**C** Indiana Pacers
+Ankle
+October 29, 2026
+Zubac (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_05_00PM.pdf) for Friday's game against the Heat.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Simone Fontecchio](https://www.rotowire.com/basketball/player/simone-fontecchio-5797)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-questionable-for-friday-536735)
 **F** Miami Heat
@@ -147,56 +203,6 @@ Isaac (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report
 **F** Toronto Raptors
 October 29, 2026
 Murray-Boyles chipped in 10 points (3-5 FG, 2-3 3Pt, 2-2 FT), two rebounds and one assist across 15 minutes during Wednesday's 129-99 victory over the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)[Practicing in G League](https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-practicing-in-g-league-536714)
-**F** Charlotte Hornets
-Hamstring
-October 29, 2026
-Knueppel (hamstring) will practice with the G League's Greensboro Swarm on Thursday, the Hornets [announced](https://x.com/HornetsPR/status/2115866723962192294?a=B4Ps6A_hx01q_ha6VYg&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Strong start continues](https://www.rotowire.com/basketball/headlines/dejounte-murray-news-strong-start-continues-536713)
-**G** New Orleans Pelicans
-October 29, 2026
-Murray produced 10 points (4-11 FG, 0-2 3Pt, 2-2 FT), eight rebounds, five assists and one steal in 30 minutes during Wednesday's 104-91 loss to the Nuggets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Stumbles in loss](https://www.rotowire.com/basketball/headlines/trey-murphy-news-stumbles-in-loss-536712)
-**F** New Orleans Pelicans
-October 29, 2026
-Murphy amassed six points (2-7 FG, 2-7 3Pt, 0-1 FT), one rebound, three assists and two steals across 30 minutes during Wednesday's 104-91 loss to the Nuggets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Jamison Battle](https://www.rotowire.com/basketball/player/jamison-battle-6323)[Adds two steals in blowout](https://www.rotowire.com/basketball/headlines/jamison-battle-news-adds-two-steals-in-blowout-536711)
-**F** Toronto Raptors
-October 29, 2026
-Battle chipped in seven points (1-4 FG, 1-3 3Pt, 4-5 FT), one assist and two steals across 20 minutes during Wednesday's 129-99 victory over the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Trayce Jackson-Davis](https://www.rotowire.com/basketball/player/trayce-jackson-davis-5944)[Dominant on glass](https://www.rotowire.com/basketball/headlines/trayce-jackson-davis-news-dominant-on-glass-536710)
-**C** Toronto Raptors
-October 29, 2026
-Jackson-Davis registered six points (3-5 FG), 11 rebounds, two assists and two blocks over 20 minutes during Wednesday's 129-99 victory over the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jevon Carter](https://www.rotowire.com/basketball/player/jevon-carter-4456)[Quiet showing off bench](https://www.rotowire.com/basketball/headlines/jevon-carter-news-quiet-showing-off-bench-536709)
-**G** Orlando Magic
-October 29, 2026
-Carter ended with six points (2-6 FG, 2-6 3Pt) and three assists across 22 minutes during Wednesday's 129-99 loss to Toronto.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Joan Beringer](https://www.rotowire.com/basketball/player/joan-beringer-6576)[Season-high 10 rebounds](https://www.rotowire.com/basketball/headlines/joan-beringer-news-season-high-10-rebounds-536708)
-**C** Minnesota Timberwolves
-October 29, 2026
-Beringer provided seven points (3-3 FG, 1-3 FT), 10 rebounds, two assists and one block across 20 minutes during Wednesday's 119-114 loss to the Warriors.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

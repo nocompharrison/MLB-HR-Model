@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-thursday-10-29/ | fetched: 2026-10-29 12:06 ET -->
+<!-- source: https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-thursday-10-29/ | fetched: 2026-10-29 18:05 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Thursday \(10/29\)](https://cdn.fantasypros.com/wp-content/images/derik_queen_pelicans_3-1/716x316.jpg)
 It’s Thursday, October 29th. The National Basketball Association (NBA) has three games on the slate, with the Cleveland Cavaliers meeting the Atlanta Hawks at 8:00 p.m. ET on NBA TV. The other 8:00 p.m. ET tip-off features the Sacramento Kings and New Orleans Pelicans, while the Memphis Grizzlies and Portland Trail Blazers meet at 10:00 p.m. ET in the only West Coast game of the evening. Below are our top [NBA DFS](https://www.fantasypros.com/daily-fantasy/nba/tools.php) picks for today.
@@ -115,7 +115,7 @@ BoomBust
 [@WinWithJoe](https://x.com/WinWithJoe)
 Joe Williams is a featured writer at FantasyPros, providing unique insights and in-depth analysis.
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/2026/10/nba-dfs-picks-lineup-advice-thursday-10-29/)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
