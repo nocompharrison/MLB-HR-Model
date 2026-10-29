@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-10-29 18:35 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-10-29 18:50 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Thu, Oct 29, 2026, 6:31 PM ET
+_Updated At:_ Thu, Oct 29, 2026, 6:33 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 3 GAME SLATE:
 THU 8:00PM ET · Main

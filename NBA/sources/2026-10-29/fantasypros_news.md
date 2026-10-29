@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-29 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-29 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,76 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Tarik Biberovic](https://images.fantasypros.com/images/players/nba/6010/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tarik-biberovic.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/tarik-biberovic.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tarik-biberovic.php)  
+[» More News](https://www.fantasypros.com/nba/news/tarik-biberovic.php)
+[Tarik Biberovic (heel) listed doubtful Friday ](https://www.fantasypros.com/nba/news/616460/tarik-biberovic-heel-listed-doubtful-friday.php)  
+
+Thu, Oct 29th 6:45pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tarik Biberovic is listed as doubtful for Friday's game against the Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_00PM.pdf))
+**_Fantasy Impact:_** Biberovic is on track to remain sidelined. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dejounte Murray](https://images.fantasypros.com/images/players/nba/3199/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dejounte-murray.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/dejounte-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dejounte-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/dejounte-murray.php)
+[Dejounte Murray (personal) ruled out Thursday ](https://www.fantasypros.com/nba/news/616459/dejounte-murray-personal-ruled-out-thursday.php)  
+
+Thu, Oct 29th 6:43pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dejounte Murray has been ruled out for Thursday’s game against the Kings. 
+**_Fantasy Impact:_** Murray was a late addition to the injury report for the Pelicans. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
+[Jordan Poole (ankle) ruled out Thursday ](https://www.fantasypros.com/nba/news/616458/jordan-poole-ankle-ruled-out-thursday.php)  
+
+Thu, Oct 29th 6:41pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jordan Poole has been ruled out for Thursday’s game against the Kings. 
+**_Fantasy Impact:_** Poole will be sidelined as expected after being listed as doubtful. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tobe Awaka](https://images.fantasypros.com/images/players/nba/6573/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tobe-awaka.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/tobe-awaka.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tobe-awaka.php)  
+[» More News](https://www.fantasypros.com/nba/news/tobe-awaka.php)
+[Tobe Awaka (ankle) listed questionable Friday ](https://www.fantasypros.com/nba/news/616457/tobe-awaka-ankle-listed-questionable-friday.php)  
+
+Thu, Oct 29th 6:39pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tobe Awaka is listed as questionable for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Awaka remains off the fantasy radar when he is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Nic Claxton](https://images.fantasypros.com/images/players/nba/4519/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nicolas-claxton.php)
+C - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/nicolas-claxton.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/nicolas-claxton.php)  
+[» More News](https://www.fantasypros.com/nba/news/nicolas-claxton.php)
+[Nic Claxton (hamstring) ruled out Friday ](https://www.fantasypros.com/nba/news/616456/nic-claxton-hamstring-ruled-out-friday.php)  
+
+Thu, Oct 29th 6:38pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Nic Claxton has been ruled out for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Claxton is expected to be re-evaluated next week. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
 F - CHI
 [» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
@@ -203,20 +273,6 @@ Jaylon Tyson is listed as questionable for Thursday’s game against the Hawks.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
-G - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
-[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
-[Jordan Poole (ankle) listed doubtful Thursday ](https://www.fantasypros.com/nba/news/616440/jordan-poole-ankle-listed-doubtful-thursday.php)  
-
-Thu, Oct 29th 5:57pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jordan Poole is listed as doubtful for Thursday’s game against the Kings.
-**_Fantasy Impact:_** Poole left Wednesday's game early. He is likely sitting the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Robert Williams III](https://images.fantasypros.com/images/players/nba/3546/headshot/100x100.png)](https://www.fantasypros.com/nba/players/robert-williams-c.php)
 C - POR
 [» Rankings](https://www.fantasypros.com/nba/players/robert-williams-c.php)  
@@ -228,62 +284,6 @@ Thu, Oct 29th 3:50pm EDT
 By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
 Robert Williams III (knee) is unlikely to play Thursday night against the Grizzlies. (Source: [Jason Quick on Twitter ](https://x.com/jwquick/status/2115883535341146159?a=gMufDKdEA8GU2uoXaIA&s=19))
 **_Fantasy Impact:_** Williams has had a strong start to the season in his bench role for the Blazers, averaging 9.7 points and 8.7 rebounds in 18 minutes per game so far. It looks like he will take a seat Thursday, however, as he's managing a knee issue. Yang Hansen could see a bit more court time. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![RJ Barrett](https://images.fantasypros.com/images/players/nba/4470/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rj-barrett.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/rj-barrett.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rj-barrett.php)  
-[» More News](https://www.fantasypros.com/nba/news/rj-barrett.php)
-[RJ Barrett puts up 25 points in Wednesday's win ](https://www.fantasypros.com/nba/news/616370/rj-barrett-puts-up-25-points-wednesdays-win.php)  
-
-Thu, Oct 29th 9:13am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-RJ Barrett scored 25 points (9-18 FG, 3-7 3PT, 4-5 FT) to go with nine rebounds and six assists in Wednesday's 129-99 rout of the Magic. 
-**_Fantasy Impact:_** Barrett has now reached 20-plus points in four straight games to begin the campaign, putting up his highest total so far this season on Wednesday night. The eighth-year pro should continue to be a consistent source of scoring for fantasy managers while adding value in various other columns. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
-[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
-[Scottie Barnes bounces back big Wednesday night ](https://www.fantasypros.com/nba/news/616369/scottie-barnes-bounces-back-big-wednesday-night.php)  
-
-Thu, Oct 29th 9:05am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Scottie Barnes finished with 28 points (11-17 FG, 6-6 FT), six rebounds, four assists, three steals, and two blocks in Wednesday's 129-99 blowout of the Magic. 
-**_Fantasy Impact:_** Barnes had one of the absolute worst games of his career this past Sunday in Minnesota. Not to worry, as the two-time All-Star rebounded for one of his patented stat-stuffing performances Wednesday night. Barnes has been excellent in three of the first four games of the season, and remains a versatile fantasy asset. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tristan da Silva](https://images.fantasypros.com/images/players/nba/6156/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tristan-da-silva.php)
-F - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/tristan-da-silva.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/tristan-da-silva.php)  
-[» More News](https://www.fantasypros.com/nba/news/tristan-da-silva.php)
-[Tristan da Silva puts 20 on the board in Wednesday's loss](https://www.fantasypros.com/nba/news/616368/tristan-da-silva-puts-20-on-board-wednesdays-loss.php)  
-
-Thu, Oct 29th 8:57am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Tristan da Silva scored 20 points (8-10 FG, 4-5 3PT) and grabbed three rebounds in Wednesday's 129-99 loss to the Raptors. 
-**_Fantasy Impact:_** After scoring 19 points in Sunday's win over the Knicks, da Silva reached 20 for the first time this season on Wednesday night. The third-year forward has been lights out from the floor in those two games, knocking down 15-of-23 overall and 9-of-14 from long range. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Darius Garland](https://images.fantasypros.com/images/players/nba/4478/headshot/100x100.png)](https://www.fantasypros.com/nba/players/darius-garland.php)
-G - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/darius-garland.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/darius-garland.php)  
-[» More News](https://www.fantasypros.com/nba/news/darius-garland.php)
-[Darius Garland playing through back injury](https://www.fantasypros.com/nba/news/616365/darius-garland-playing-through-back-injury.php)  
-
-Thu, Oct 29th 3:40am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Clippers coach Ty Lue said Darius Garland is playing through a little back tightness. (Source: [Joey Linn on Twitter](https://x.com/joeylinn_/status/2115674215085178904))
-**_Fantasy Impact:_** Lue noted that it is taking some of Garland's “pop” away. He scored 14 points in Wednesday’s loss. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

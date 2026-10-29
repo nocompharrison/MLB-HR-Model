@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-29-144529 | fetched: 2026-10-29 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-29-144529 | fetched: 2026-10-29 18:50 ET -->
 
 # NBA Picks Today: Best Bets, Props & Prediction Market Plays for Oct. 29
 Get today’s best NBA bets, including expert player prop picks, point spread and over/under plays, odds from top sportsbooks and predictions for the Oct. 29 NBA slate.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329) under 9.5 rebounds (+105) vs. Cleveland Cavaliers
 _BetMGM, 4:04 PM ET_
 **Alex Barutha:** After securing 14 rebounds in the season opener, Johnson is averaging 8.5 boards across the past four games. With the Cavaliers putting out [Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122) and [Evan Mobley](https://www.rotowire.com/basketball/player/evan-mobley-5355) in the frontcourt, securing boards won't be easy.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&cta_id=ad4d9a8d-8ca6-42f0-b70b-2e7b3921a885&operator_item_id=3bab3332-9508-45ca-a002-0a7db40c596f&pageview_id=9fa0539b-f41e-451e-8abd-d6bb31a50a9f)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&pageview_id=6f6dff69-e315-4689-aaae-502433d2eb1d&cta_id=1482171b-64ff-4361-8fc0-b9a1b6ad530d&operator_item_id=17f970a4-5277-489f-9e11-4a732471c7b1)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&cta_id=854db398-f7dc-4971-8e39-19784524d7a1&operator_item_id=3bab3332-9508-45ca-a002-0a7db40c596f&pageview_id=9fa0539b-f41e-451e-8abd-d6bb31a50a9f)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&cta_id=47079dce-8786-442c-a41e-de9c098ecce1&operator_item_id=90a9bfe1-eedc-4b26-a12c-121e6b2ac090&pageview_id=9fa0539b-f41e-451e-8abd-d6bb31a50a9f) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&pageview_id=6f6dff69-e315-4689-aaae-502433d2eb1d&cta_id=fabcde96-e4a0-464d-acc6-db81cdf08cb1&operator_item_id=17f970a4-5277-489f-9e11-4a732471c7b1)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&pageview_id=6f6dff69-e315-4689-aaae-502433d2eb1d&cta_id=28da2445-6ab6-4414-b4e9-79f4ec460d19&operator_item_id=b22f0bc0-5187-4338-a741-afe70422236a) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&cta_id=5175b0b7-c0d0-4d61-b20a-760e5401fc0c&operator_item_id=90a9bfe1-eedc-4b26-a12c-121e6b2ac090&pageview_id=9fa0539b-f41e-451e-8abd-d6bb31a50a9f)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-29-144529&pageview_id=6f6dff69-e315-4689-aaae-502433d2eb1d&cta_id=b57fdcd8-50a6-4987-9b38-165d759223a1&operator_item_id=b22f0bc0-5187-4338-a741-afe70422236a)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  [**Zach LaVine**](https://www.rotowire.com/basketball/player/zach-lavine-3597)**over 21.5 points at New Orleans Pelicans (-122)**
 _DraftKings Sportsbook, 3:34 PM ET_
@@ -49,6 +49,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Atlanta Braves](https://assets.rotowire.com/images/teamlogo/baseball/100ATL.png?v=8)
+[Ronald Acuna](https://www.rotowire.com/baseball/player/ronald-acuna-14200)
+Club option exercised
+MLB
+Atlanta Braves
   * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
 [Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
 Late scratch Thursday
@@ -69,14 +74,19 @@ Dallas Cowboys
 Full practice Thursday
 NFL
 Las Vegas Raiders
-  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
-[Ja'Marr Chase](https://www.rotowire.com/football/player/jamarr-chase-15183)
-No limitations Thursday
-NFL
-Cincinnati Bengals
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![Atlanta Braves](https://assets.rotowire.com/images/teamlogo/baseball/100ATL.png?v=8)
+[Ronald Acuna](https://www.rotowire.com/baseball/player/ronald-acuna-14200)
+Club option exercised
+MLB
+Atlanta Braves
+  * ![Atlanta Braves](https://assets.rotowire.com/images/teamlogo/baseball/100ATL.png?v=8)
+[Ozzie Albies](https://www.rotowire.com/baseball/player/ozzie-albies-13639)
+Atlanta exercises option
+MLB
+Atlanta Braves
   * ![Baltimore Orioles](https://assets.rotowire.com/images/teamlogo/baseball/100BAL.png?v=8)
 [Luis Robert](https://www.rotowire.com/baseball/player/luis-robert-14686)
 O's to decline option
@@ -92,15 +102,6 @@ Seattle Mariners
 Exercises player option for 2027
 MLB
 Baltimore Orioles
-  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Michael King](https://www.rotowire.com/baseball/player/michael-king-15255)
-Becomes FA after declining option
-MLB
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Caleb Durbin](https://www.rotowire.com/baseball/player/caleb-durbin-19300)
-Undergoes second surgery
-MLB
-Boston Red Sox
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -170,6 +171,11 @@ Detroit Red Wings
 Resumes skating
 NHL
 Florida Panthers
+  * ![Utah Mammoth](https://assets.rotowire.com/images/teamlogo/hockey/100UTA.png?v=5)
+[Sebastian Cossa](https://www.rotowire.com/hockey/player/sebastian-cossa-6477)
+Set to start Thursday
+NHL
+Utah Mammoth
   * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
 [Jesper Wallstedt](https://www.rotowire.com/hockey/player/jesper-wallstedt-6464)
 Drawing home start Thursday
@@ -178,11 +184,6 @@ Minnesota Wild
   * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
 [Mats Zuccarello](https://www.rotowire.com/hockey/player/mats-zuccarello-3495)
 Considered week-to-week
-NHL
-Los Angeles Kings
-  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
-[Kevin Fiala](https://www.rotowire.com/hockey/player/kevin-fiala-4395)
-Remains week-to-week
 NHL
 Los Angeles Kings
 

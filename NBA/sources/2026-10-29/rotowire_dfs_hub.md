@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-29 18:50 ET -->
 
 # NBA DFS Picks Today
 October 29, 2026
@@ -85,7 +85,7 @@ _Implied_**119.5** _Spread_**-1.5**
 **SAC @ NOP**
 O/U 234.58:00 PM ET
 KingsExpectedAway
-_Implied_**114.5** _Spread_**+5.5**  
+_Implied_**114.0** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,200  | 51.3  |  
@@ -94,14 +94,14 @@ _Implied_**114.5** _Spread_**+5.5**
 | SF  | De'Andre Hunter  | $6,000  | 25.7  |  
 | SG  | Zach LaVine  | $6,600  | 34.7  |  
 PelicansExpectedHome
-_Implied_**120.0** _Spread_**-5.5**  
+_Implied_**120.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | DeAndre Jordan  | $3,800  | 15.3  |  
-| PF  | Zion Williamson  | $7,500  | 39.8  |  
-| PG  | Jeremiah Fears  | $5,000  | 30.8  |  
-| SF  | Herbert Jones  | $4,500  | 18.1  |  
-| SG  | Trey Murphy  | $7,300  | 33.6  |  
+| C  | DeAndre Jordan  | $3,800  | 15.4  |  
+| PF  | Zion Williamson  | $7,500  | 39.9  |  
+| PG  | Jeremiah Fears  | $5,000  | 30.9  |  
+| SF  | Herbert Jones  | $4,500  | 23.0  |  
+| SG  | Trey Murphy  | $7,300  | 33.8  |  
 **MEM @ POR**
 O/U 232.510:00 PM ET
 GrizzliesExpectedAway
@@ -134,15 +134,15 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Donovan ClinganPOR - C  | vs MEM  | $6,100  | 29  | 38.4  | **6.30**  |  
-| 2  |  Jeremiah FearsNOP - PG  | vs SAC  | $5,000  | 27  | 30.8  | **6.15**  |  
+| 2  |  Jeremiah FearsNOP - PG  | vs SAC  | $5,000  | 27  | 30.8  | **6.17**  |  
 | 3  |  Onyeka OkongwuATL - C  | vs CLE  | $5,600  | 29  | 32.3  | **5.77**  |  
 | 4  |  Damian LillardPOR - PG  | vs MEM  | $7,000  | 32  | 40.1  | **5.73**  |  
-| 5  |  Saddiq BeyNOP - SF  | vs SAC  | $5,400  | 32  | 30.9  | **5.72**  |  
-| 6  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.5  | **5.66**  |  
-| 7  |  Bennedict MathurinNOP - SG  | vs SAC  | $4,200  | 24  | 23.5  | **5.60**  |  
-| 8  |  Domantas SabonisSAC - C  | @ NOP  | $9,200  | 35  | 51.2  | **5.57**  |  
-| 9  |  Jarrett AllenCLE - C  | @ ATL  | $6,000  | 28  | 32.5  | **5.42**  |  
-| 10  |  Zion WilliamsonNOP - PF  | vs SAC  | $7,500  | 32  | 39.8  | **5.30**  |  
+| 5  |  Kingston FlemingsATL - PG  | vs CLE  | $3,800  | 22  | 21.5  | **5.66**  |  
+| 6  |  Bennedict MathurinNOP - SG  | vs SAC  | $4,200  | 24  | 23.6  | **5.63**  |  
+| 7  |  Domantas SabonisSAC - C  | @ NOP  | $9,200  | 35  | 51.2  | **5.57**  |  
+| 8  |  Jarrett AllenCLE - C  | @ ATL  | $6,000  | 28  | 32.5  | **5.42**  |  
+| 9  |  Zion WilliamsonNOP - PF  | vs SAC  | $7,500  | 32  | 39.9  | **5.32**  |  
+| 10  |  Evan MobleyCLE - PF  | @ ATL  | $7,900  | 34  | 41.9  | **5.30**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
