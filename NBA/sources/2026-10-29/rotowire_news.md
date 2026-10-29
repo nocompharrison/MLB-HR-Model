@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-29 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-29 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,69 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Herbert Jones](https://www.rotowire.com/basketball/player/herbert-jones-5414)[Starting sans Murray](https://www.rotowire.com/basketball/headlines/herbert-jones-news-starting-sans-murray-536751)
+**F** New Orleans Pelicans
+October 29, 2026
+Jones will start Thursday's game against the Kings, [Jim Eichenhofer of the Pelicans' official site](https://x.com/Jim_Eichenhofer/status/2115932005560905953?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Late scratch Thursday](https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-late-scratch-thursday-536750)
+**G** New Orleans Pelicans
+Personal
+October 29, 2026
+Murray (personal) is out for Thursday's game against the Kings, [Jim Eichenhofer of the Pelicans' official site](https://x.com/Jim_Eichenhofer/status/2115930828647850271?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)[Won't play Thursday](https://www.rotowire.com/basketball/headlines/jordan-poole-injury-wont-play-thursday-536749)
+**G** New Orleans Pelicans
+Ankle
+October 29, 2026
+Poole (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_15PM.pdf) for Thursday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
+[Rui Hachimura](https://www.rotowire.com/basketball/player/rui-hachimura-4778)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-questionable-for-friday-536748)
+**F** Los Angeles Clippers
+Quadriceps
+October 29, 2026
+Hachimura (quadriceps) is questionable for Friday's game against Minnesota, [Tomer Azarly of ClutchPoints.com](https://x.com/TomerAzarly/status/2115928531494691011?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)[Doubtful for Friday](https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-doubtful-for-friday-536746)
+**F** Dallas Mavericks
+Heel
+October 29, 2026
+Biberovic (heel) is [listed as doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_00PM.pdf) for Friday's game versus the Rockets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Unlikely to play Friday](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-unlikely-to-play-friday-536745)
+**F** Dallas Mavericks
+Knee
+October 29, 2026
+Aldama (knee) is [listed as doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_00PM.pdf) for Friday's game against Houston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Sergio de Larrea](https://www.rotowire.com/basketball/player/sergio-de-larrea-6593)[Out with sprained knee](https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-out-with-sprained-knee-536744)
+**G** Dallas Mavericks
+Knee
+October 29, 2026
+De Larrea (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_00PM.pdf) for Friday's game against the Rockets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Questionable with illness](https://www.rotowire.com/basketball/headlines/naji-marshall-injury-questionable-with-illness-536743)
+**F** Dallas Mavericks
+Illness
+October 29, 2026
+Marshall is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_06_00PM.pdf) for Friday's game against the Rockets with an illness.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
 [Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-questionable-for-friday-536742)
 **G** Charlotte Hornets
@@ -144,65 +207,6 @@ Williams (adductor) is [questionable](https://ak-static.cms.nba.com/referee/inju
 Finger
 October 29, 2026
 Smith is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_02_45PM.pdf) for Friday's game against Boston with a left finger sprain.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Yanic Konan Niederhauser](https://www.rotowire.com/basketball/player/yanic-konan-niederhauser-6616)[Team option picked up](https://www.rotowire.com/basketball/headlines/yanic-konan-niederhauser-injury-team-option-picked-up-536722)
-**C** Los Angeles Clippers
-Foot
-October 29, 2026
-Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers,[ Ohm Youngmisuk of ESPN.com](https://x.com/NotoriousOHM/status/2115866423868485646) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jordan Clarkson](https://www.rotowire.com/basketball/player/jordan-clarkson-3614)[Pops for 18 points off bench](https://www.rotowire.com/basketball/headlines/jordan-clarkson-news-pops-for-18-points-off-bench-536721)
-**G** New York Knicks
-October 29, 2026
-Clarkson chipped in 18 points (7-11 FG, 2-3 3Pt, 2-2 FT), three rebounds, one assist and two steals across 17 minutes during Wednesday's 133-127 win over the Bulls.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Tyler Kolek](https://www.rotowire.com/basketball/player/tyler-kolek-6273)[Provides spark off bench](https://www.rotowire.com/basketball/headlines/tyler-kolek-news-provides-spark-off-bench-536720)
-**G** New York Knicks
-October 29, 2026
-Kolek accumulated nine points (3-4 FG, 3-4 3Pt), two rebounds and nine assists in 18 minutes during Wednesday's 133-127 win over the Bulls.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Isaac Okoro](https://www.rotowire.com/basketball/player/isaac-okoro-5264)[Muted start to season](https://www.rotowire.com/basketball/headlines/isaac-okoro-news-muted-start-to-season-536719)
-**F** Chicago Bulls
-October 29, 2026
-Okoro notched seven points (1-4 FG, 1-2 3Pt, 4-6 FT), one assist and one steal over 18 minutes during Wednesday's 133-127 loss to New York.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Anthony Edwards](https://www.rotowire.com/basketball/player/anthony-edwards-5110)[Officially undergoes surgery](https://www.rotowire.com/basketball/headlines/anthony-edwards-injury-officially-undergoes-surgery-536718)
-**G** Minnesota Timberwolves
-Knee
-October 29, 2026
-Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves [announced](https://www.nba.com/timberwolves/news/anthony-edwards-injury-update-7).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Productive stretch as starter](https://www.rotowire.com/basketball/headlines/jalen-smith-news-productive-stretch-as-starter-536717)
-**C** Chicago Bulls
-October 29, 2026
-Smith racked up 17 points (7-12 FG, 3-7 3Pt), 11 rebounds, five assists and three blocks over 30 minutes during Wednesday's 133-127 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jonathan Isaac](https://www.rotowire.com/basketball/player/jonathan-isaac-4103)[Still sidelined](https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-still-sidelined-536716)
-**F** Orlando Magic
-Knee
-October 29, 2026
-Isaac (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-29_02_15PM.pdf) for Friday's game in Toronto.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Collin Murray-Boyles](https://www.rotowire.com/basketball/player/collin-murray-boyles-6585)[Hits pair of triples](https://www.rotowire.com/basketball/headlines/collin-murray-boyles-news-hits-pair-of-triples-536715)
-**F** Toronto Raptors
-October 29, 2026
-Murray-Boyles chipped in 10 points (3-5 FG, 2-3 3Pt, 2-2 FT), two rebounds and one assist across 15 minutes during Wednesday's 129-99 victory over the Magic.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
