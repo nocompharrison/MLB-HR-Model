@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,74 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Questionable versus Kings](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-questionable-versus-kings-536849)
+**G** Memphis Grizzlies
+Back
+October 30, 2026
+Jerome (back) is listed as [questionable](https://x.com/GrizzliesPR/status/2116292705177526454?a=_NwO7kIVfluSfCjAT9I&s=20) for Saturday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Chet Holmgren](https://www.rotowire.com/basketball/player/chet-holmgren-5697)[Remains out for Saturday](https://www.rotowire.com/basketball/headlines/chet-holmgren-injury-remains-out-for-saturday-536848)
+**C** Oklahoma City Thunder
+Knee
+October 30, 2026
+Holmgren (knee) remains out for Saturday's road game against Houston, [Justin Martinez of The Oklahoman](https://x.com/Justintohoops/status/2116293045033558221) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Doubtful for Saturday](https://www.rotowire.com/basketball/headlines/quinten-post-injury-doubtful-for-saturday-536847)
+**C** Memphis Grizzlies
+Ankle
+October 30, 2026
+Post (ankle) is [doubtful](https://x.com/GrizzliesPR/status/2116292705177526454?s=20) for Saturday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Cleared to play Friday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-cleared-to-play-friday-536846)
+**C** New York Knicks
+October 30, 2026
+Towns (wrist) is available for Friday's meeting with the 76ers, [Fred Katz of The Athletic](https://x.com/FredKatz/status/2116293231554035968?a=biozJuE-jrKljChH9_0&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Simone Fontecchio](https://www.rotowire.com/basketball/player/simone-fontecchio-5797)[Suiting up Friday](https://www.rotowire.com/basketball/headlines/simone-fontecchio-news-suiting-up-friday-536845)
+**F** Miami Heat
+October 30, 2026
+Fontecchio (illness) is available for Friday's game against the Pacers, [Anthony Chiang of the Miami Herald](https://x.com/Anthony_Chiang/status/2116292594473021476?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Out again Friday](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-out-again-friday-536844)
+**F** Dallas Mavericks
+Knee
+October 30, 2026
+Aldama (knee) is listed as [out](https://x.com/MavsPR/status/2116291302400921686?a=M9RLvqnas2K1rg7KKr4&s=20) for Friday's game against the Rockets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/tarik-biberovic-injury-ruled-out-friday-536843)
+**F** Dallas Mavericks
+Heel
+October 30, 2026
+Biberovic (heel) is [out](https://x.com/MavsPR/status/2116291302400921686?s=20) for Friday's game against the Rockets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Good to go Friday](https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842)
+**F** Dallas Mavericks
+October 30, 2026
+Marshall (illness) is [available](https://x.com/MavsPR/status/2116291302400921686?s=20) for Friday's game against Houston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Tre Johnson](https://www.rotowire.com/basketball/player/tre-johnson-6543)[Available Friday](https://www.rotowire.com/basketball/headlines/tre-johnson-news-available-friday-536841)
+**G** Washington Wizards
+October 30, 2026
+Johnson (Achilles) is [available](https://x.com/WashWizards/status/2116290156999372989?s=20) for Friday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
 [Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)[Available to play Friday](https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840)
 **F** Brooklyn Nets
@@ -133,78 +201,6 @@ Joe (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Inju
 Wrist
 October 30, 2026
 Towns (wrist) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Alpha Diallo](https://www.rotowire.com/basketball/player/alpha-diallo-5270)[Unlikely to play Friday](https://www.rotowire.com/basketball/headlines/alpha-diallo-injury-unlikely-to-play-friday-536822)
-**F** Denver Nuggets
-Personal
-October 30, 2026
-Diallo (personal) is [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Simone Fontecchio](https://www.rotowire.com/basketball/player/simone-fontecchio-5797)[Probable with illness](https://www.rotowire.com/basketball/headlines/simone-fontecchio-injury-probable-with-illness-536821)
-**F** Miami Heat
-Illness
-October 30, 2026
-Fontecchio (illness) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's against the Pacers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Added to injury report](https://www.rotowire.com/basketball/headlines/obi-toppin-injury-added-to-injury-report-536820)
-**F** Indiana Pacers
-Back
-October 30, 2026
-Toppin (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/naji-marshall-injury-upgraded-to-probable-536819)
-**F** Dallas Mavericks
-Illness
-October 30, 2026
-Marshall (illness) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Rockets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Downgraded to doubtful](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-doubtful-536818)
-**F** Philadelphia 76ers
-Knee
-October 30, 2026
-Brown (knee) is [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)[Out Friday](https://www.rotowire.com/basketball/headlines/ziaire-williams-injury-out-friday-536817)
-**F** Los Angeles Lakers
-Foot
-October 30, 2026
-Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, [Mark Medina of TheSportingTribune.com](https://x.com/MarkG_Medina/status/2116259138816836073?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Reed Sheppard](https://www.rotowire.com/basketball/player/reed-sheppard-6257)[Fourth-year option exercised](https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-fourth-year-option-exercised-536816)
-**G** Houston Rockets
-Back
-October 30, 2026
-Houston picked up Sheppard's (back) fourth-year team option Friday, per [Lachard Binkley of SI.com](https://x.com/BinkleyHoops/status/2116246708715741543).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Practicing at G League camp](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-practicing-at-g-league-camp-536815)
-**G** Indiana Pacers
-Hamstring
-October 30, 2026
-McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2116234626863710217).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Johnny Furphy](https://www.rotowire.com/basketball/player/johnny-furphy-6272)[Practicing in G League](https://www.rotowire.com/basketball/headlines/johnny-furphy-injury-practicing-in-g-league-536814)
-**G** Indiana Pacers
-Knee
-October 30, 2026
-Furphy (knee) is practicing with the G League's Noblesville Boom, per [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2116234626863710217).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

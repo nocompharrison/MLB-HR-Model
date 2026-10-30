@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-30 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-30 18:35 ET -->
 
 # NBA DFS Picks Today
 October 30, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, October 30 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (20) All NBA news Boston Celtics (CHI @ BOS) Brooklyn Nets (DET @ BKN) Charlotte Hornets (CHA @ WSH) Chicago Bulls (CHI @ BOS) Dallas Mavericks (HOU @ DAL) Denver Nuggets (DEN @ PHX) Detroit Pistons (DET @ BKN) Golden State Warriors (LAL @ GSW) Houston Rockets (HOU @ DAL) Indiana Pacers (IND @ MIA) Los Angeles Clippers (LAC @ MIN) Los Angeles Lakers (LAL @ GSW) Miami Heat (IND @ MIA) Minnesota Timberwolves (LAC @ MIN) New York Knicks (NYK @ PHI) Orlando Magic (ORL @ TOR) Philadelphia 76ers (NYK @ PHI) Phoenix Suns (DEN @ PHX) Toronto Raptors (ORL @ TOR) Washington Wizards (CHA @ WSH)
-Brooklyn NetsDET @ BKN - 7:30 PM ET
-**[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)** _F_ 5:57 PM ET
-#### Available to play Friday
-Clowney (illness) is available for Friday's game against Detroit, Brian Lewis of the New York Post reports.
-Analysis
-Clowney popped up on the injury report due to an illness. However, he now has the green light to suit up for Friday's game versus the Pistons. The 22-year-old hasn't had a productive 2026-27 campaign, averaging 6.3 points and 4.0 rebounds over 21.5 minutes per contest in four regular-season appearances.
-Charlotte HornetsCHA @ WSH - 7:00 PM ET
-**[Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)** _G_ _Top_ 5:57 PM ET
-#### Will play Friday
-Schroder (foot) is available for Friday's game against the Wizards.
-Analysis
-After beginning the day with a questionable designation, Schroder was upgraded to probable Friday morning and is now fully cleared to suit up. The journeyman floor general has been serviceable filling in for the injured Coby White (calf) at point guard, averaging 14.0 points, 4.6 assists, 4.0 rebounds and 1.0 three-pointers in 32.4 minutes per game over five appearances thus far.
-Chicago BullsCHI @ BOS - 7:30 PM ET
-**[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)** _C_ 5:51 PM ET
-#### Available Friday
-Awaka (ankle) is available for Friday's game in Boston.
-Analysis
-The rookie big man is available off the bench for the Bulls on Friday. Awaka may not see significant playing time, though.
-Chicago BullsCHI @ BOS - 7:30 PM ET
-**[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)** _C_ 5:51 PM ET
+New York KnicksNYK @ PHI - 7:30 PM ET
+**[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)** _C_ _Top_ 6:21 PM ET
 #### Cleared to play Friday
-Smith (finger) is available for Friday's game against the Celtics.
+Towns (wrist) is available for Friday's meeting with the 76ers, Fred Katz of The Athletic reports.
 Analysis
-Smith popped up on the injury report due to a left finger sprain, though it won't keep him off the floor versus Boston. With Nic Claxton (hamstring) sidelined, Smith has started in all five of the Bulls' regular-season games in 2026-27, averaging 13.4 points, 8.2 rebounds and 1.8 assists over 23.4 minutes per outing.
-Chicago BullsCHI @ BOS - 7:30 PM ET
-**[Dailyn Swain](https://www.rotowire.com/basketball/player/dailyn-swain-6986)** _F_ OUT5:50 PM ET
-#### Out Friday
-Swain (back) has been ruled out for Friday's game against Boston.
+Towns sustained a left wrist sprain in Wednesday's win over the Bulls. He was able to play through the injury and will now suit up for Friday's contest after drawing a probable tag. The star big man is averaging 21.8 points, 13.8 rebounds and 3.2 assists in 31.0 minutes per game across five regular-season outings.
+Miami HeatIND @ MIA - 8:00 PM ET
+**[Simone Fontecchio](https://www.rotowire.com/basketball/player/simone-fontecchio-5797)** _F_ 6:16 PM ET
+#### Suiting up Friday
+Fontecchio (illness) is available for Friday's game against the Pacers, Anthony Chiang of the Miami Herald reports.
 Analysis
-Swain will be held out of Friday's contest due to lower-back soreness. His next chance to play will come Monday at Philadelphia.
-Show 5 more (27 remaining)
+Fontecchio will return from a one-game absence due to an illness. However, he isn't guaranteed to see meaningful playing time.
+Dallas MavericksHOU @ DAL - 8:00 PM ET
+**[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)** _F_ OUT6:16 PM ET
+#### Out again Friday
+Aldama (knee) is listed as out for Friday's game against the Rockets.
+Analysis
+Aldama continues to make progress in his recovery from right knee surgery, though he won't be ready to suit up for Friday's meeting with Houston. Without Aldama on the floor, Zaccharie Risacher, Morez Johnson, Caleb Martin and Moussa Cisse should all continue to see extra minutes.
+Dallas MavericksHOU @ DAL - 8:00 PM ET
+**[Tarik Biberovic](https://www.rotowire.com/basketball/player/tarik-biberovic-6082)** _F_ OUT6:13 PM ET
+#### Ruled out Friday
+Biberovic (heel) is out for Friday's game against the Rockets.
+Analysis
+Right heel bursitis continues to plague Biberovic. Monday's tilt versus the Kings marks his next chance to make his league debut.
+Dallas MavericksHOU @ DAL - 8:00 PM ET
+**[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)** _F_ 6:12 PM ET
+#### Good to go Friday
+Marshall (illness) is available for Friday's game against Houston.
+Analysis
+Marshall initially drew a questionable tag before being upgraded to probable Friday afternoon, and he's since been cleared to play following a two-game absence. The 28-year-old forward is averaging 13.7 points, 5.7 assists, 3.3 rebounds and 1.7 steals across 27.7 minutes per contest in three regular-season games (one start). With Marshall back in action, Caleb Martin and Zaccharie Risacher could see fewer minutes.
+Show 5 more (33 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -88,9 +88,9 @@ KnicksExpectedAway
 _Implied_**114.5** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karl-Anthony TownsP  | $8,500  | 45.2  |  
+| C  | Karl-Anthony Towns  | $8,500  | 45.2  |  
 | PF  | OG Anunoby  | $6,100  | 31.6  |  
-| PG  | Jalen Brunson  | $8,100  | 42.7  |  
+| PG  | Jalen Brunson  | $8,100  | 42.6  |  
 | SF  | Josh Hart  | $6,000  | 34.4  |  
 | SG  | Mikal Bridges  | $4,700  | 25.5  |  
 76ersExpectedHome
@@ -103,22 +103,22 @@ _Implied_**111.0** _Spread_**+3.5**
 | SF  | Dean Wade  | $3,600  | 22.0  |  
 | SG  | VJ Edgecombe  | $5,900  | 32.0  |  
 **CHI @ BOS**
-O/U 235.57:30 PM ET
+O/U 236.57:30 PM ET
 BullsExpectedAway
-_Implied_**110.5** _Spread_**+14.5**  
+_Implied_**111.0** _Spread_**+14.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,000  | 31.1  |  
-| PF  | Caleb Wilson  | $6,900  | 35.1  |  
+| PF  | Caleb Wilson  | $6,900  | 35.2  |  
 | PG  | Josh Giddey  | $7,600  | 38.0  |  
-| SF  | Matas Buzelis  | $5,600  | 30.4  |  
-| SG  | Norman Powell  | $6,200  | 30.5  |  
+| SF  | Matas Buzelis  | $5,600  | 30.5  |  
+| SG  | Norman Powell  | $6,200  | 30.6  |  
 CelticsExpectedHome
-_Implied_**125.0** _Spread_**-14.5**  
+_Implied_**125.5** _Spread_**-14.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Mitchell Robinson  | $4,100  | 23.2  |  
-| PF  | Jordan Walsh  | $3,600  | 15.2  |  
+| PF  | Jordan Walsh  | $3,600  | 15.1  |  
 | PG  | Derrick White  | $6,700  | 34.9  |  
 | SF  | Jayson Tatum  | $9,800  | 50.1  |  
 | SG  | Paul George  | $6,800  | 34.2  |  
@@ -128,10 +128,10 @@ PistonsExpectedAway
 _Implied_**115.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Paul Reed  | $6,300  | 36.5  |  
+| C  | Paul Reed  | $6,300  | 36.4  |  
 | PF  | John Collins  | $6,000  | 25.7  |  
-| PG  | Cade Cunningham  | $9,600  | 46.8  |  
-| SF  | Ausar Thompson  | $5,700  | 33.2  |  
+| PG  | Cade Cunningham  | $9,600  | 46.7  |  
+| SF  | Ausar Thompson  | $5,700  | 33.1  |  
 | SG  | Duncan Robinson  | $4,900  | 25.9  |  
 NetsExpectedHome
 _Implied_**107.5** _Spread_**+7.5**  
@@ -140,8 +140,8 @@ _Implied_**107.5** _Spread_**+7.5**
 | C  | Day'Ron Sharpe  | $5,300  | 24.1  |  
 | PF  | Julius Randle  | $7,500  | 36.6  |  
 | PG  | Mikel Brown  | $4,900  | 22.8  |  
-| SF  | Michael Porter  | $7,300  | 35.4  |  
-| SG  | Nolan Traore  | $4,100  | 21.9  |  
+| SF  | Michael Porter  | $7,300  | 35.3  |  
+| SG  | Nolan Traore  | $4,100  | 21.8  |  
 **ORL @ TOR**
 O/U 226.57:30 PM ET
 MagicExpectedAway
@@ -203,9 +203,9 @@ _Implied_**114.5** _Spread_**-6.5**
 | SF  | Jonathan Kuminga  | $5,200  | 34.8  |  
 | SG  | Ayo Dosunmu  | $5,600  | 28.1  |  
 **HOU @ DAL**
-O/U 223.58:00 PM ET
+O/U 224.58:00 PM ET
 RocketsExpectedAway
-_Implied_**115.0** _Spread_**-6.5**  
+_Implied_**115.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alperen SengunQ  | $8,200  | 42.0  |  
@@ -214,7 +214,7 @@ _Implied_**115.0** _Spread_**-6.5**
 | SF  | Kevin Durant  | $7,700  | 37.1  |  
 | SG  | Amen Thompson  | $7,300  | 36.6  |  
 MavericksExpectedHome
-_Implied_**108.5** _Spread_**+6.5**  
+_Implied_**109.0** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $5,600  | 26.9  |  
@@ -233,16 +233,16 @@ Main slatesMain - 8 games - 7:00 PMMain - 2 games - 10:00 PMMain - 4 games - 7:3
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jonathan KumingaMIN - PF  | vs LAC  | $5,200  | 33  | 34.8  | **6.69**  |  
+| 1  |  Jonathan KumingaMIN - PF  | vs LAC  | $5,200  | 33  | 34.8  | **6.68**  |  
 | 2  |  Moussa DiabateCHA - C  | @ WSH  | $5,300  | 31  | 33.7  | **6.37**  |  
 | 3  |  Dennis SchroderCHA - PG  | @ WSH  | $5,400  | 34  | 33.7  | **6.24**  |  
 | 4  |  Jalen SmithCHI - C  | @ BOS  | $5,000  | 27  | 31.1  | **6.21**  |  
 | 5  |  Dean WadePHI - SF  | vs NYK  | $3,600  | 27  | 22.0  | **6.10**  |  
 | 6  |  Pelle LarssonMIA - SG  | vs IND  | $4,500  | 31  | 27.2  | **6.04**  |  
 | 7  |  Bobby PortisMIA - PF  | vs IND  | $4,600  | 24  | 27.6  | **6.01**  |  
-| 8  |  Anfernee SimonsPHI - PG  | vs NYK  | $4,000  | 27  | 23.9  | **5.97**  |  
-| 9  |  Isaiah JacksonLAC - C  | @ MIN  | $4,700  | 23  | 27.9  | **5.95**  |  
-| 10  |  Daniss JenkinsDET - PG  | @ BKN  | $4,800  | 26  | 28.1  | **5.85**  |  
+| 8  |  Anfernee SimonsPHI - PG  | vs NYK  | $4,000  | 27  | 23.9  | **5.98**  |  
+| 9  |  Isaiah JacksonLAC - C  | @ MIN  | $4,700  | 23  | 27.9  | **5.94**  |  
+| 10  |  Daniss JenkinsDET - PG  | @ BKN  | $4,800  | 26  | 28.0  | **5.84**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -267,7 +267,7 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Dean WadePHI · SF/PF · NYK@PHI  | $3,600  | 5.5  | 22.0  | **44.9**  |   | 179%  | 12.5  | 57  |  
-| 2  |  Josh HartNYK · SG/SF · NYK@PHI  | $6,000  | 12.0  | 34.4  | **63.5**  |   | 150%  | 10.6  | 56  |  
+| 2  |  Josh HartNYK · SG/SF · NYK@PHI  | $6,000  | 12.0  | 34.3  | **63.4**  |   | 150%  | 10.6  | 56  |  
 | 3  |  VJ EdgecombePHI · PG/SG · NYK@PHI  | $5,900  | 10.4  | 32.0  | **59.2**  |   | 153%  | 10.0  | 55  |  
 | 4  |  Marcus SmartHOU · PG/SG · HOU@DAL  | $4,200  | 4.5  | 18.0  | **37.9**  |   | 186%  | 9.0  | 55  |  
 | 5  |  Kyshawn GeorgeWAS · SG · CHA@WAS  | $5,800  | 9.7  | 29.4  | **55.9**  |   | 157%  | 9.6  | 55  |  
@@ -277,10 +277,10 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | 9  |  Tristan da SilvaORL · SF/PF · ORL@TOR  | $5,200  | 7.6  | 25.8  | **50.2**  |   | 165%  | 9.7  | 54  |  
 | 10  |  Kentavious Caldwell-PopePHI · SG/SF · NYK@PHI  | $4,500  | 4.2  | 17.8  | **37.5**  |   | 187%  | 8.3  | 53  |  
 | 11  |  Sion JamesCHA · SG/SF · CHA@WAS  | $3,700  | 5.5  | 21.2  | **43.4**  |   | 179%  | 11.7  | 53  |  
-| 12  |  Caleb WilsonCHI · SF/PF · CHI@BOS  | $6,900  | 12.7  | 35.1  | **63.8**  |   | 145%  | 9.2  | 53  |  
+| 12  |  Caleb WilsonCHI · SF/PF · CHI@BOS  | $6,900  | 12.7  | 35.2  | **63.8**  |   | 145%  | 9.3  | 53  |  
 | 13  |  Noah ClowneyBKN · SF/PF · DET@BKN  | $3,900  | 5.2  | 19.4  | **40.0**  |   | 180%  | 10.3  | 53  |  
 | 14  |  Larry NanceIND · C · IND@MIA  | $3,800  | 4.2  | 17.2  | **36.5**  |   | 188%  | 9.6  | 53  |  
-| 15  |  Matas BuzelisCHI · SF/PF · CHI@BOS  | $5,600  | 10.4  | 30.4  | **57.1**  |   | 153%  | 10.2  | 53  |  
+| 15  |  Matas BuzelisCHI · SF/PF · CHI@BOS  | $5,600  | 10.4  | 30.5  | **57.2**  |   | 153%  | 10.2  | 53  |  
 Show all 144 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 8 games slate · 2026-10-30.
 ## **NBA Injury Report**

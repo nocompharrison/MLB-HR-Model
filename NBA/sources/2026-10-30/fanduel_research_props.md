@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/knicks-vs-76ers-prediction-today-nba-picks-and-prop-bets-oct-30 | fetched: 2026-10-30 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/knicks-vs-76ers-prediction-today-nba-picks-and-prop-bets-oct-30 | fetched: 2026-10-30 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. 76ers Prediction Today: NBA Picks and Prop Bets (Oct. 30)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![Knicks vs. 76ers Prediction Today: NBA Picks and Prop Bets \(Oct. 30\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc7d945d23b9d2f8a621a065ad9035927e95cc121-5616x3744.jpg%3Frect%3D612%2C846%2C5004%2C2476%26w%3D964%26h%3D477&w=1920&q=100)
 **Knicks vs. 76ers Top Bets at a Glance**
@@ -27,10 +27,23 @@ _Please note lines are subject to change throughout the day after this article i
 * * *
 ## Knicks vs. 76ers NBA Prediction, Picks and Props
 ### [Under 228.5 (-110)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-philadelphia-76ers-36250109)
+Moneyline
 Total Points
-Under
-U 225.5
+Spread
+[New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds)
+@
+* * *
+[Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/odds)
+-152
+O 225.5
 -108
+-3.5
+-105
++128
+U 225.5
+-112
++3.5
+-115
 Oct 30 11:40pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-philadelphia-76ers-36250109)
 Odds/lines subject to change
 The first meeting between these teams finished with just 206 points in a 106-100 [Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/odds) win, and I think this rematch can follow a similar script.
@@ -38,10 +51,23 @@ Philadelphia has been especially impressive defensively to begin the year. Throu
 The [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds) have produced more offense lately, including 133 points against Chicago in their most recent game, but this is a much tougher matchup for New York. Philadelphia held New York to 100 points in the opener, and the Knicks have also been held to 103 or fewer points in three of their first five games.
 With both teams capable of making this a half-court game late, I prefer the under at 228.5.
 ### [Jalen Brunson Under 27.5 Points (-128)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-philadelphia-76ers-36250109)
-Jalen Brunson - Points
-Jalen Brunson Under
-U 27.5
--122
+Moneyline
+Total Points
+Spread
+[New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds)
+@
+* * *
+[Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/odds)
+-152
+O 225.5
+-108
+-3.5
+-105
++128
+U 225.5
+-112
++3.5
+-115
 Oct 30 11:40pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-philadelphia-76ers-36250109)
 Odds/lines subject to change
 [Jalen Brunson](https://sportsbook.fanduel.com/teams/nba/roster/jalen-brunson-2670) enters Friday coming off a monster 38-point performance against Chicago, but this number creates a good opportunity to fade that result.
@@ -77,12 +103,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. 76ers Prediction Today: NBA Picks and Prop Bets (Oct. 30)](https://www.fanduel.com/research/knicks-vs-76ers-prediction-today-nba-picks-and-prop-bets-oct-30)
-1h
+2h
 Knicks vs. 76ers best bets and prediction for Friday night.
 [](https://www.fanduel.com/research/knicks-vs-76ers-prediction-today-nba-picks-and-prop-bets-oct-30)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Props Today: 3 NBA Player Prop Bets for Friday, Oct. 30](https://www.fanduel.com/research/nba-props-today-friday-october-30)
-3h
+4h
 NBA player prop bets to target tonight. What are the best NBA props for Friday?
 [](https://www.fanduel.com/research/nba-props-today-friday-october-30)
 [NBA](https://www.fanduel.com/research/nba)
@@ -92,7 +118,7 @@ NBA DFS picks and best plays for Friday's FanDuel main slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-friday-oct-30)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Oct. 30](https://www.fanduel.com/research/nba-props-today-friday-oct-30)
-8h
+9h
 NBA player prop bets to target tonight. What are the best NBA props for Friday?
 [](https://www.fanduel.com/research/nba-props-today-friday-oct-30)
 

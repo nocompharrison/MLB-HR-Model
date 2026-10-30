@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-30 18:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-30 18:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,117 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Dean Wade](https://images.fantasypros.com/images/players/nba/4651/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dean-wade.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/dean-wade.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dean-wade.php)  
+[» More News](https://www.fantasypros.com/nba/news/dean-wade.php)
+[Dean Wade expected to start Friday ](https://www.fantasypros.com/nba/news/616724/dean-wade-expected-to-start-friday.php)  
+
+Fri, Oct 30th 6:16pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+76ers head coach Nick Nurse said that Dean Wade will likely start Friday’s game against the Knicks. (Source: [Adam Aaronson on Twitter](https://x.com/SixersAdam/status/2116288809671495938))
+**_Fantasy Impact:_** Wade will see a spot start in place of the injured Jaylen Brown. 
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Noah Clowney](https://images.fantasypros.com/images/players/nba/5993/headshot/100x100.png)](https://www.fantasypros.com/nba/players/noah-clowney.php)
+F - BKN
+[» Rankings](https://www.fantasypros.com/nba/players/noah-clowney.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/noah-clowney.php)  
+[» More News](https://www.fantasypros.com/nba/news/noah-clowney.php)
+[Noah Clowney (illness) available Friday ](https://www.fantasypros.com/nba/news/616723/noah-clowney-illness-available-friday.php)  
+
+Fri, Oct 30th 6:15pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Noah Clowney is available for Friday's game against the Pistons. 
+**_Fantasy Impact:_** Clowney will be good to go despite being a late addition to the injury report. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dennis Schroder](https://images.fantasypros.com/images/players/nba/2780/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dennis-schroder.php)
+G - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/dennis-schroder.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dennis-schroder.php)  
+[» More News](https://www.fantasypros.com/nba/news/dennis-schroder.php)
+[Dennis Schroder (foot) available Friday ](https://www.fantasypros.com/nba/news/616722/dennis-schroder-foot-available-friday.php)  
+
+Fri, Oct 30th 6:14pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dennis Schroder is available for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Schroder is good to go as expected. He will return to his starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Patrick Williams](https://images.fantasypros.com/images/players/nba/5132/headshot/100x100.png)](https://www.fantasypros.com/nba/players/patrick-williams.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/patrick-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/patrick-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/patrick-williams.php)
+[Patrick Williams (adductor) available Friday ](https://www.fantasypros.com/nba/news/616721/patrick-williams-adductor-available-friday.php)  
+
+Fri, Oct 30th 6:13pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Patrick Williams is available for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Williams will remain off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dailyn Swain](https://images.fantasypros.com/images/players/nba/6537/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dailyn-swain.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/dailyn-swain.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dailyn-swain.php)  
+[» More News](https://www.fantasypros.com/nba/news/dailyn-swain.php)
+[Dailyn Swain (back) ruled out Friday ](https://www.fantasypros.com/nba/news/616720/dailyn-swain-back-ruled-out-friday.php)  
+
+Fri, Oct 30th 6:12pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dailyn Swain has been ruled out for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Swain remains off the fantasy radar when he is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
+[Jalen Smith (finger) available Friday ](https://www.fantasypros.com/nba/news/616719/jalen-smith-finger-available-friday.php)  
+
+Fri, Oct 30th 6:12pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Smith is available for Friday's game against the Celtics. 
+**_Fantasy Impact:_** Smith is good to go after being listed as questionable. He'll remain in his starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tobe Awaka](https://images.fantasypros.com/images/players/nba/6573/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tobe-awaka.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/tobe-awaka.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tobe-awaka.php)  
+[» More News](https://www.fantasypros.com/nba/news/tobe-awaka.php)
+[Tobe Awaka (ankle) available Friday ](https://www.fantasypros.com/nba/news/616718/tobe-awaka-ankle-available-friday.php)  
+
+Fri, Oct 30th 6:11pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tobe Awaka is available for Friday’s game against the Celtics.
+**_Fantasy Impact:_** Awaka remains off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
+G - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
+[Jaylen Brown (knee) ruled out Friday](https://www.fantasypros.com/nba/news/616717/jaylen-brown-knee-ruled-out-friday.php)  
+
+Fri, Oct 30th 6:04pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jaylen Brown (knee) has been ruled out for Friday night’s contest between the Philadelphia 76ers and New York Knicks according to Adam Aaronson. (Source: [Adam Aaronson on Twitter](https://x.com/sixersadam/status/2116285421239828977?a=j5eeiWkijTQfKlSv3lw&s=46))
+**_Fantasy Impact:_** Brown will take a seat on the first game of a back-to-back for head coach Nick Nurse, with Dean Wade and Kentavious Caldwell-Pope to see increased minutes while Joel Embiid, LeBron James, and Tyrese Maxey soak up increased touches against the Knicks Friday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Tre Johnson](https://images.fantasypros.com/images/players/nba/6316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tre-johnson.php)
 G - WAS
 [» Rankings](https://www.fantasypros.com/nba/players/tre-johnson.php)  
@@ -172,118 +283,6 @@ Fri, Oct 30th 5:26pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Jordan Poole has been ruled out for Saturday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_15PM.pdf))
 **_Fantasy Impact:_** Poole will miss a second consecutive game with a sprained left ankle. His absence does not impact the Pelicans rotation for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Cameron Johnson](https://images.fantasypros.com/images/players/nba/4558/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)
-F - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cameron-johnson-g.php)  
-[» More News](https://www.fantasypros.com/nba/news/cameron-johnson-g.php)
-[Cameron Johnson (ankle) expected to play Friday ](https://www.fantasypros.com/nba/news/616676/cameron-johnson-ankle-expected-to-play-friday.php)  
-
-Fri, Oct 30th 4:31pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Cameron Johnson is expected to play in Friday’s game against the Suns. (Source: [John Gambadoro on Twitter](https://x.com/Gambo987/status/2116232956213858804?a=MZZeHR3ed3QgUR8LgGI&s=20))
-**_Fantasy Impact:_** Johnson remains listed as questionable. He has been sidelined since the season opener. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Rui Hachimura](https://images.fantasypros.com/images/players/nba/4491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rui-hachimura.php)
-F - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/rui-hachimura.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rui-hachimura.php)  
-[» More News](https://www.fantasypros.com/nba/news/rui-hachimura.php)
-[Rui Hachimura (quad) now probable Friday ](https://www.fantasypros.com/nba/news/616675/rui-hachimura-quad-now-probable-friday.php)  
-
-Fri, Oct 30th 4:30pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Rui Hachimura is now probable for Friday's game against the Timberwolves. (Source: [Law Murray on Twitter](https://x.com/LawMurrayTheNU/status/2116227618064503041?a=cEWOvqtzxElnNMIkEsU&s=20))
-**_Fantasy Impact:_** Hachimura is on track to be good to go for the Clippers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ziaire Williams](https://images.fantasypros.com/images/players/nba/5319/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ziaire-williams.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/ziaire-williams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ziaire-williams.php)  
-[» More News](https://www.fantasypros.com/nba/news/ziaire-williams.php)
-[Ziaire Williams (foot) ruled out Friday ](https://www.fantasypros.com/nba/news/616674/ziaire-williams-foot-ruled-out-friday.php)  
-
-Fri, Oct 30th 4:28pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ziaire Williams has been ruled out for Friday's game against the Warriors. (Source: [Dan Woike on Twitter](https://x.com/DanWoikeSports/status/2116259063470404028))
-**_Fantasy Impact:_** Williams will be sidelined after being listed as questionable. Jake LaRavia could see another spot start. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Dennis Schroder](https://images.fantasypros.com/images/players/nba/2780/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dennis-schroder.php)
-G - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/dennis-schroder.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/dennis-schroder.php)  
-[» More News](https://www.fantasypros.com/nba/news/dennis-schroder.php)
-[Dennis Schroder (foot) now probable Friday ](https://www.fantasypros.com/nba/news/616673/dennis-schroder-foot-now-probable-friday.php)  
-
-Fri, Oct 30th 4:27pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Dennis Schroder is now probable for Friday’s game against the Wizards. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
-**_Fantasy Impact:_** Schroder is on track to be good to go. He should be back in his starting role. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
-C - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
-[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
-[Karl-Anthony Towns (wrist) listed probable Friday ](https://www.fantasypros.com/nba/news/616672/karl-anthony-towns-wrist-listed-probable-friday.php)  
-
-Fri, Oct 30th 4:26pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Karl-Anthony Towns is listed as probable for Friday's game against the 76ers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
-**_Fantasy Impact:_** Towns sprained his left wrist in the first quarter of Wednesday’s win over the Bulls. He was able to finish the game, and he is on track to being good to go on Friday. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
-G - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
-[Jaylen Brown (knee) now doubtful Friday ](https://www.fantasypros.com/nba/news/616671/jaylen-brown-knee-now-doubtful-friday.php)  
-
-Fri, Oct 30th 4:25pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaylen Brown is now doubtful for Friday's game against the Knicks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
-**_Fantasy Impact:_** Brown was downgraded after being listed as questionable. Kentavious Caldwell-Pope could see more run in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ochai Agbaji](https://images.fantasypros.com/images/players/nba/5338/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ochai-agbaji.php)
-G - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/ochai-agbaji.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ochai-agbaji.php)  
-[» More News](https://www.fantasypros.com/nba/news/ochai-agbaji.php)
-[Ochai Agbaji signs with Thunder ](https://www.fantasypros.com/nba/news/616670/ochai-agbaji-signs-with-thunder.php)  
-
-Fri, Oct 30th 4:23pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ochai Agbaji has been signed to the Thunder’s final roster spot.
-**_Fantasy Impact:_** Agbaji will hold a role at the end of the bench for the Thunder. He will likely remain off the fantasy radar. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ja Morant](https://images.fantasypros.com/images/players/nba/4469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ja-morant.php)
-G - POR
-[» Rankings](https://www.fantasypros.com/nba/players/ja-morant.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ja-morant.php)  
-[» More News](https://www.fantasypros.com/nba/news/ja-morant.php)
-[Ja Morant (hamstring) to miss at least four weeks](https://www.fantasypros.com/nba/news/616669/ja-morant-hamstring-to-miss-least-four-weeks.php)  
-
-Fri, Oct 30th 4:22pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ja Morant has been diagnosed with a Grade 2 left hamstring strain and will miss at least four weeks. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2116238809314844934?a=FigcgWLEgVFSrhkkZ7g&s=20))
-**_Fantasy Impact:_** Morant suffered the injury in Thursday's game against the Grizzlies. Scoot Henderson and Jrue Holiday should see more run in his place. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
