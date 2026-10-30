@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30 | fetched: 2026-10-30 18:35 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30 | fetched: 2026-10-30 18:49 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -251,12 +251,12 @@ Action Network Staff
 NBA
 [Knicks vs 76ers Predictions, Odds, NBA Cup Picks: Wrong Team Favored?](https://www.actionnetwork.com/nba/new-york-knicks-vs-philadelphia-76ers-prediction-pick-nba-cup-odds-for-friday-october-30)
 Matt Moore
-53 mins ago
+1 hour ago
 [![NBA Moneyline Picks: 2 Upset Predictions for Friday, October 30](https://images.actionnetwork.com/blog/2026/10/NBA-Moneyline-Picks-10.30.26.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-friday-october-30)
 NBA
 [NBA Moneyline Picks: 2 Upset Predictions for Friday, October 30](https://www.actionnetwork.com/nba/nba-moneyline-picks-2-upset-predictions-for-friday-october-30)
 Ryan Minion
-6 hours ago
+7 hours ago
 [![Hornets vs Wizards Predictions, Odds, Picks: Charlotte Will Weaponize the Math](https://images.actionnetwork.com/blog/2026/10/hornets-wizards-30102026.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-washington-wizards-prediction-pick-nba-cup-odds-for-friday-october-30)
 NBA
 [Hornets vs Wizards Predictions, Odds, Picks: Charlotte Will Weaponize the Math](https://www.actionnetwork.com/nba/charlotte-hornets-vs-washington-wizards-prediction-pick-nba-cup-odds-for-friday-october-30)
@@ -266,17 +266,17 @@ Matt Moore
 NBA
 [NBA Total Predictions, Over/Under Picks for Friday, October 30](https://www.actionnetwork.com/nba/nba-total-predictions-over-under-picks-for-friday-october-30)
 Ameer Tyree
-6 hours ago
-[![Pacers vs Heat Prediction, Pick, NBA Cup Odds for Friday, October 30](https://images.actionnetwork.com/blog/2026/10/Pacers-vs-Heat-10_30_26.jpg)](https://www.actionnetwork.com/nba/indiana-pacers-vs-miami-heat-predictions-picks-odds-nba-cup-friday-october-30)
+7 hours ago
+[![Pacers vs Heat Predictions, Odds, NBA Cup Picks: Great Spot to Back Giannis](https://images.actionnetwork.com/blog/2026/10/Pacers-vs-Heat-10_30_26.jpg)](https://www.actionnetwork.com/nba/indiana-pacers-vs-miami-heat-predictions-picks-odds-nba-cup-friday-october-30)
 NBA
-[Pacers vs Heat Prediction, Pick, NBA Cup Odds for Friday, October 30](https://www.actionnetwork.com/nba/indiana-pacers-vs-miami-heat-predictions-picks-odds-nba-cup-friday-october-30)
+[Pacers vs Heat Predictions, Odds, NBA Cup Picks: Great Spot to Back Giannis](https://www.actionnetwork.com/nba/indiana-pacers-vs-miami-heat-predictions-picks-odds-nba-cup-friday-october-30)
 Joe Dellera
-9 hours ago
+16 mins ago
 [![Pistons vs Nets Predictions, Odds, NBA Cup Picks: Expect a Defensive Grind](https://images.actionnetwork.com/blog/2026/10/Pistons-vs-Nets-10_30_26.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-brooklyn-nets-prediction-pick-odds-nba-cup-friday-october-30)
 NBA
 [Pistons vs Nets Predictions, Odds, NBA Cup Picks: Expect a Defensive Grind](https://www.actionnetwork.com/nba/detroit-pistons-vs-brooklyn-nets-prediction-pick-odds-nba-cup-friday-october-30)
 Matt Moore
-33 mins ago
+48 mins ago
 [![Magic vs Raptors Prediction, Pick, NBA Cup Odds for Friday, October 30](https://images.actionnetwork.com/blog/2026/10/Magic-Raptors-10302026.jpg)](https://www.actionnetwork.com/nba/orlando-magic-vs-toronto-raptors-predictions-picks-odds-for-friday-october-30)
 NBA
 [Magic vs Raptors Prediction, Pick, NBA Cup Odds for Friday, October 30](https://www.actionnetwork.com/nba/orlando-magic-vs-toronto-raptors-predictions-picks-odds-for-friday-october-30)
@@ -286,7 +286,7 @@ Matt Moore
 NBA
 [Clippers vs Timberwolves Prediction, Pick, NBA Cup Odds for Friday, October 30](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-minnesota-timberwolves-predictions-picks-odds-friday-october-30)
 Joe Dellera
-8 hours ago
+9 hours ago
 [![Lakers vs Warriors Prediction, Pick, NBA Cup Odds for Friday, October 30](https://images.actionnetwork.com/blog/2026/10/Lakers-vs-Warriors-10_30_26.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-golden-state-warriors-predictions-picks-odds-nba-cup-friday-october-30)
 NBA
 [Lakers vs Warriors Prediction, Pick, NBA Cup Odds for Friday, October 30](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-golden-state-warriors-predictions-picks-odds-nba-cup-friday-october-30)
@@ -294,5 +294,5 @@ Joe Dellera
 6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bfe0a936-589d-4225-be85-0dc74d34d6bd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b4f03435-9896-4c7f-a990-8187b61082c5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bfe0a936-589d-4225-be85-0dc74d34d6bd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b4f03435-9896-4c7f-a990-8187b61082c5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8c7f5e27-040a-457d-b295-5d7eb00bd4d4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b4f03435-9896-4c7f-a990-8187b61082c5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=7491&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8c7f5e27-040a-457d-b295-5d7eb00bd4d4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b4f03435-9896-4c7f-a990-8187b61082c5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=7491&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8b900c33-4e0d-439d-a574-c743b3b9b6d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5709e5bf-fdd8-42ef-989d-fdef0f79e2bc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8b900c33-4e0d-439d-a574-c743b3b9b6d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5709e5bf-fdd8-42ef-989d-fdef0f79e2bc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8e9ba585-3899-41b8-879d-61344deb17af&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5709e5bf-fdd8-42ef-989d-fdef0f79e2bc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=7469&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8e9ba585-3899-41b8-879d-61344deb17af&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5709e5bf-fdd8-42ef-989d-fdef0f79e2bc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-october-30&tw_engaged_ms=7469&tw_iframe_status=0&tw_pid_src=2&tw_session_count=30&tw_session_id=1793397795513-109266965&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

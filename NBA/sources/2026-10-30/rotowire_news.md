@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,45 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
+[Rui Hachimura](https://www.rotowire.com/basketball/player/rui-hachimura-4778)[Available to play Friday](https://www.rotowire.com/basketball/headlines/rui-hachimura-news-available-to-play-friday-536854)
+**F** Los Angeles Clippers
+October 30, 2026
+Hachimura (quadriceps) is avalable to play in Friday's game against Minnesota, [Ohm Youngmisuk of ESPN.com](https://x.com/NotoriousOHM/status/2116297304466440480?a=hf0Il9jgoTMevtGnx3A&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-ruled-out-friday-536853)
+**C** Houston Rockets
+Back
+October 30, 2026
+Sengun (back) has been ruled out for Friday's game against the Mavericks, [Mike Curtis of The Dallas Morning News](https://x.com/MikeACurtis2/status/2116297978302341512?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Marcus Smart](https://www.rotowire.com/basketball/player/marcus-smart-3575)[Likely to play](https://www.rotowire.com/basketball/headlines/marcus-smart-injury-likely-to-play-536852)
+**G** Houston Rockets
+Forearm
+October 30, 2026
+Smart (forearm) is expected to play in Friday's game against the Mavericks, [Mike Curtis of The Dallas Morning News](https://x.com/MikeACurtis2/status/2116297978302341512?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[On the injury report for Saturday](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-on-the-injury-report-for-saturday-536851)
+**G** Memphis Grizzlies
+Back
+October 30, 2026
+Pippen (back) is listed as [questionable](https://x.com/GrizzliesPR/status/2116292705177526454?a=HvHVRAvYPvMpl-7SiFo&s=20) for Saturday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Sergio de Larrea](https://www.rotowire.com/basketball/player/sergio-de-larrea-6593)[To be re-evaluated next week](https://www.rotowire.com/basketball/headlines/sergio-de-larrea-injury-to-be-re-evaluated-next-week-536850)
+**G** Dallas Mavericks
+Knee
+October 30, 2026
+Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, [Noah Weber of TheSmokingCuban.com](https://x.com/noahweber00/status/2116296291386794108?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
 [Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Questionable versus Kings](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-questionable-versus-kings-536849)
 **G** Memphis Grizzlies
@@ -161,46 +200,6 @@ Murray (personal) is off the [injury report](https://ak-static.cms.nba.com/refer
 Ankle
 October 30, 2026
 Tyson (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_45PM.pdf) for Saturday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Iffy for Saturday](https://www.rotowire.com/basketball/headlines/meleek-thomas-injury-iffy-for-saturday-536827)
-**G** Cleveland Cavaliers
-Foot
-October 30, 2026
-Thomas (foot) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_45PM.pdf) for Saturday's game against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Dailyn Swain](https://www.rotowire.com/basketball/player/dailyn-swain-6986)[Late addition to injury report](https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-late-addition-to-injury-report-536826)
-**F** Chicago Bulls
-Back
-October 30, 2026
-Swain is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game at Boston due to lower-back soreness.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Gui Santos](https://www.rotowire.com/basketball/player/gui-santos-5738)[Now questionable](https://www.rotowire.com/basketball/headlines/gui-santos-injury-now-questionable-536825)
-**F** Golden State Warriors
-Knee
-October 30, 2026
-Santos (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-ruled-out-friday-536824)
-**G** Detroit Pistons
-Hip
-October 30, 2026
-Joe (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Likely to play Friday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-likely-to-play-friday-536823)
-**C** New York Knicks
-Wrist
-October 30, 2026
-Towns (wrist) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_15PM.pdf) for Friday's game against Philadelphia.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

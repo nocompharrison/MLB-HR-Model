@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-30-144690 | fetched: 2026-10-30 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-30-144690 | fetched: 2026-10-30 18:49 ET -->
 
 # Best NBA Bets Tonight: Props, Picks and Predictions for Friday, October 30
 Get today’s best NBA bets, including expert player prop picks on points, over/under plays, odds from top sportsbooks and predictions for the Friday, Oct. 30 NBA slate.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131) under 16.5 points (-115) vs Chicago Bulls
 _BetMGM, 4:31 PM ET_
 **Alex Barutha** : It's undoubtedly an easy matchup for Pritchard, which always creates a risk of an over hitting, but the volume simply hasn't been there for him. Through four games, Pritchard is taking just 9.3 shots in 26.0 minutes for 13.3 points. And that's with him shooting 47.6 percent from three, which will come down.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=3a429793-be1a-401d-9ec3-64ae8b7d90d0&operator_item_id=efbccdd3-e278-466f-a14d-d6e7a1b5c5d6&pageview_id=3fbcccc7-0fbd-4491-8533-2e5820ebfccd)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=98c9918d-8f2d-4712-82ed-5afe2efb8556&operator_item_id=7c5792c6-9f4b-4f04-85af-c25a3fb23e0d&pageview_id=12779237-99d5-4af7-949b-da13f807ca0f)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=f81004b2-87a8-4717-bb01-444cb937fd28&operator_item_id=efbccdd3-e278-466f-a14d-d6e7a1b5c5d6&pageview_id=3fbcccc7-0fbd-4491-8533-2e5820ebfccd)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=d06ce1b5-eb18-4ea7-82dd-c4861aee3acb&operator_item_id=e29b9585-fe4e-4149-923a-c761433478d4&pageview_id=3fbcccc7-0fbd-4491-8533-2e5820ebfccd) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=83a99852-a3a2-4f14-a603-5481bcdb8c1f&operator_item_id=7c5792c6-9f4b-4f04-85af-c25a3fb23e0d&pageview_id=12779237-99d5-4af7-949b-da13f807ca0f)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=a379b4b4-8a5b-443d-b34a-e5c087efc8d7&operator_item_id=8a48f1b9-9f41-44a7-8303-e6c47fc9f4a8&pageview_id=12779237-99d5-4af7-949b-da13f807ca0f) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=0663ae5c-0212-479d-aad4-32ffde465bb4&operator_item_id=e29b9585-fe4e-4149-923a-c761433478d4&pageview_id=3fbcccc7-0fbd-4491-8533-2e5820ebfccd)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=61be5b5e-541c-4ca6-80eb-4819cb6948c2&operator_item_id=8a48f1b9-9f41-44a7-8303-e6c47fc9f4a8&pageview_id=12779237-99d5-4af7-949b-da13f807ca0f)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  [**Davion Mitchell**](https://www.rotowire.com/basketball/player/davion-mitchell-5354)**over 11.5 points vs. Indiana Pacers (-114)**
 _DraftKings, 4:21 pm ET_
@@ -114,21 +114,21 @@ Philadelphia 76ers
 Out four weeks with hamstring strain
 NBA
 Portland Trail Blazers
-  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)
-Will play Friday
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)
+Questionable versus Kings
 NBA
-Charlotte Hornets
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)
-Remains out Saturday
+Memphis Grizzlies
+  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Chet Holmgren](https://www.rotowire.com/basketball/player/chet-holmgren-5697)
+Remains out for Saturday
 NBA
-San Antonio Spurs
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)
-Will remain limited Friday
+Oklahoma City Thunder
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
+Cleared to play Friday
 NBA
-Washington Wizards
+New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -160,6 +160,11 @@ Baltimore Ravens
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Winnipeg Jets](https://assets.rotowire.com/images/teamlogo/hockey/100WPG.png?v=5)
+[Nico Daws](https://www.rotowire.com/hockey/player/nico-daws-6259)
+Starting against Florida
+NHL
+Winnipeg Jets
   * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
 [Carter Hart](https://www.rotowire.com/hockey/player/carter-hart-5156)
 Cleared to return Friday
@@ -180,11 +185,6 @@ New Jersey Devils
 Slated starter for Saturday
 NHL
 Toronto Maple Leafs
-  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
-[Tristan Jarry](https://www.rotowire.com/hockey/player/tristan-jarry-4198)
-Expected starter for Saturday
-NHL
-Edmonton Oilers
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
