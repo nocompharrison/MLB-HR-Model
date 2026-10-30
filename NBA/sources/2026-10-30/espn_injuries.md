@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-30 12:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-30 17:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -143,6 +143,7 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Dailyn Swain](https://www.espn.com/nba/player/_/id/4848625/dailyn-swain) | G | Oct 30 | Day-To-Day | Oct 30: Swain is listed as questionable for Friday's game at Boston due to lower-back soreness. |
 | [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Oct 30 | Day-To-Day | Oct 29: Smith is questionable for Friday's game against Boston with a left finger sprain. |
 | [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Oct 30 | Day-To-Day | Oct 29: Awaka (ankle) is questionable for Friday's game in Boston. |
 | [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 4 | Out | Oct 26: Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports. |
@@ -157,18 +158,18 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Naji Marshall](https://www.espn.com/nba/player/_/id/4278594/naji-marshall) | F | Oct 30 | Day-To-Day | Oct 30: Marshall (illness) is probable for Friday's game against the Rockets. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Oct 30 | Out | Oct 29: Biberovic (heel) is listed as doubtful for Friday's game versus the Rockets. |
 | [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Oct 30 | Out | Oct 29: Aldama (knee) is listed as doubtful for Friday's game against Houston. |
 | [Sergio de Larrea](https://www.espn.com/nba/player/_/id/5279129/sergio-de-larrea) | F | Nov 2 | Out | Oct 29: De Larrea (knee) is out for Friday's game against the Rockets. |
-| [Naji Marshall](https://www.espn.com/nba/player/_/id/4278594/naji-marshall) | F | Oct 30 | Day-To-Day | Oct 29: Marshall is questionable for Friday's game against the Rockets with an illness. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 2 | Out | Oct 22: Lively (foot) has been ruled out for Friday's game against the Pacers. |
 
 ![Image 28: Denver Nuggets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&h=40&w=40)Denver Nuggets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Alpha Diallo](https://www.espn.com/nba/player/_/id/4065813/alpha-diallo) | F | Oct 30 | Out | Oct 29: Diallo (personal) is listed as questionable for Friday's game against the Suns. |
-| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Oct 30 | Out | Oct 29: Johnson (ankle) is questionable for Friday's game against Phoenix. |
+| [Alpha Diallo](https://www.espn.com/nba/player/_/id/4065813/alpha-diallo) | F | Oct 30 | Out | Oct 30: Diallo (personal) is doubtful for Friday's game against the Suns. |
+| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Oct 30 | Out | Oct 30: Johnson (ankle) is expected to play in Friday's game against the Suns, per John Gambadoro of Arizona Sports 98.7 FM. |
 | [Spencer Jones](https://www.espn.com/nba/player/_/id/4592427/spencer-jones) | F | Nov 2 | Out | Oct 27: Jones (hamstring) has been ruled out for Wednesday's game against New Orleans. |
 | [Julian Strawther](https://www.espn.com/nba/player/_/id/4432181/julian-strawther) | G | Nov 29 | Out | Oct 16: Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports. |
 
@@ -176,7 +177,7 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Oct 30 | Day-To-Day | Oct 29: Joe (hip) is listed as questionable for Friday's game against Brooklyn. |
+| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 2 | Out | Oct 30: Joe (hip) has been ruled out for Friday's game against the Nets. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 9 | Out | Oct 25: Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports. |
 
 ![Image 30: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
@@ -192,7 +193,7 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Reed Sheppard](https://www.espn.com/nba/player/_/id/4711272/reed-sheppard) | G | Oct 31 | Out | Oct 29: Sheppard (back) is out for Friday's game against the Mavericks. |
+| [Reed Sheppard](https://www.espn.com/nba/player/_/id/4711272/reed-sheppard) | G | Oct 31 | Out | Oct 30: Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com. |
 | [Marcus Smart](https://www.espn.com/nba/player/_/id/2990992/marcus-smart) | G | Oct 30 | Out | Oct 29: Smart (forearm) is questionable for Friday's game against the Mavericks. |
 | [Alperen Sengun](https://www.espn.com/nba/player/_/id/4871144/alperen-sengun) | C | Oct 30 | Day-To-Day | Oct 29: Sengun (back) is questionable for Friday's game against the Mavericks. |
 | [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Nov 2 | Out | Oct 26: Head coach Ime Udoka said Monday that Adams could be out "a week or two" due to his right soleus strain, Lachard Binkley of SI.com reports. |
@@ -201,19 +202,20 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Obi Toppin](https://www.espn.com/nba/player/_/id/4278355/obi-toppin) | F | Oct 30 | Day-To-Day | Oct 30: Toppin (back) is questionable for Friday's game against the Heat. |
+| [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Nov 2 | Out | Oct 30: McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com. |
+| [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Oct 30: Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com. |
 | [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Oct 30 | Day-To-Day | Oct 29: Nembhard (neck) is listed as probable for Friday's game against Miami. |
 | [Aaron Nesmith](https://www.espn.com/nba/player/_/id/4396909/aaron-nesmith) | G | Oct 30 | Day-To-Day | Oct 29: Nesmith (hamstring) is probable for Friday's game against the Heat. |
 | [Ivica Zubac](https://www.espn.com/nba/player/_/id/4017837/ivica-zubac) | C | Nov 1 | Out | Oct 29: Zubac (ankle) is out for Friday's game against the Heat. |
-| [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Nov 2 | Out | Oct 28: Pacers head coach Rick Carlisle stated McConnell (hamstring) is "doing better" and "getting closer" to a return, Alex Golden of SI.com reports. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Jan 2 | Out | Oct 28: Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports. |
 | [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 13 | Out | Oct 28: Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports. |
-| [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Feb 9: Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the season, Michael Scotto of USA Today reports. |
 
 ![Image 33: LA Clippers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&h=40&w=40)LA Clippers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Rui Hachimura](https://www.espn.com/nba/player/_/id/4066648/rui-hachimura) | F | Oct 30 | Day-To-Day | Oct 29: Hachimura (quadriceps) is questionable for Friday's game against Minnesota, Tomer Azarly of ClutchPoints.com reports. |
+| [Rui Hachimura](https://www.espn.com/nba/player/_/id/4066648/rui-hachimura) | F | Oct 30 | Day-To-Day | Oct 30: Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com. |
 | [Yanic Konan Niederhauser](https://www.espn.com/nba/player/_/id/5108024/yanic-konan-niederhauser) | C | Nov 8 | Out | Oct 29: Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports. |
 | [Max Strus](https://www.espn.com/nba/player/_/id/4065778/max-strus) | G | Nov 8 | Out | Oct 28: Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports. |
 | [Brandon Ingram](https://www.espn.com/nba/player/_/id/3913176/brandon-ingram) | F | Nov 8 | Out | Oct 28: Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports. |
@@ -224,9 +226,8 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Cameron Carr](https://www.espn.com/nba/player/_/id/5113969/cameron-carr) | G | Nov 1 | Out | Oct 29: Carr (oblique) has been ruled out for Friday's game against Golden State. |
+| [Ziaire Williams](https://www.espn.com/nba/player/_/id/4433137/ziaire-williams) | F | Nov 1 | Out | Oct 30: Williams has been ruled out for Friday's game against the Warriors due to left foot injury management, Mark Medina of TheSportingTribune.com reports. |
 | [Adou Thiero](https://www.espn.com/nba/player/_/id/5060631/adou-thiero) | F | Nov 1 | Out | Oct 29: Thiero (knee) has been ruled out for Friday's game against the Warriors. |
-| [Ziaire Williams](https://www.espn.com/nba/player/_/id/4433137/ziaire-williams) | F | Oct 30 | Day-To-Day | Oct 29: Williams (foot) is questionable for Friday's game against Golden State. |
 
 ![Image 35: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
 
@@ -238,7 +239,7 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Simone Fontecchio](https://www.espn.com/nba/player/_/id/3899664/simone-fontecchio) | F | Oct 30 | Day-To-Day | Oct 29: Fontecchio (illness) is listed as questionable for Friday's game against Indiana. |
+| [Simone Fontecchio](https://www.espn.com/nba/player/_/id/3899664/simone-fontecchio) | F | Oct 30 | Day-To-Day | Oct 30: Fontecchio (illness) is probable for Friday's against the Pacers. |
 
 ![Image 37: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
@@ -259,6 +260,7 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Karl-Anthony Towns](https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns) | C | Oct 30 | Day-To-Day | Oct 30: Towns (wrist) is listed as probable for Friday's game against Philadelphia. |
 | [Jose Alvarado](https://www.espn.com/nba/player/_/id/4277869/jose-alvarado) | G | Nov 4 | Out | Oct 29: Alvarado (ankle) has been ruled out for Friday's game against Philadelphia. |
 
 ![Image 40: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
@@ -286,8 +288,8 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Oct 30 | Day-To-Day | Oct 30: Brown (knee) is doubtful for Friday's game against the Knicks. |
 | [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 31 | Out | Oct 29: Walker (knee) has been ruled out for Friday's game versus New York. |
-| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Oct 30 | Day-To-Day | Oct 29: Brown (knee) is questionable for Friday's game against the Knicks. |
 | [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Nov 4 | Out | Oct 27: Fall (quadriceps) is out for Wednesday's game in Indiana. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 4 | Out | Oct 19: Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
@@ -303,8 +305,8 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Ja Morant](https://www.espn.com/nba/player/_/id/4279888/ja-morant) | G | Dec 1 | Out | Oct 30: Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday. |
 | [Robert Williams III](https://www.espn.com/nba/player/_/id/4066211/robert-williams-iii) | C | Oct 31 | Day-To-Day | Oct 30: Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports. |
-| [Ja Morant](https://www.espn.com/nba/player/_/id/4279888/ja-morant) | G | Oct 31 | Day-To-Day | Oct 30: Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injury. He'll end with 14 points (6-14 FG, 2-5 3Pt), two rebounds and three assists in 23 minutes. |
 | [Chris Youngblood](https://www.espn.com/nba/player/_/id/4706557/chris-youngblood) | G | Oct 31 | Out | Oct 27: Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers. |
 | [Shaedon Sharpe](https://www.espn.com/nba/player/_/id/4914336/shaedon-sharpe) | G | Mar 2 | Out | Aug 24: Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN. |
 
@@ -351,35 +353,71 @@ Prime Video
 
 Data Provided by Rotowire
 
-Sponsored Headlines
+You May Like
 
-[](https://rhs.search.yahoo.com/rhs)[Search for new small SUVs crossovers Yahoo Search | Small SUV crossover | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for new small SUVs crossovers")
+[](https://www.webroot.com/campaigns/seasonal)[Hackers Want You Unprotected - Do This Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Hackers Want You Unprotected - Do This")
 
-[](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation)[Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation "Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel")
+Undo
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
-[](https://www.thedoctorschannel.com/view/new-therapies-wet-amd-could-improve-outcomes-for-patients-asrs)[New Therapies Wet AMD Could Improve Outcomes for Patients | ASRS – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/view/new-therapies-wet-amd-could-improve-outcomes-for-patients-asrs "New Therapies Wet AMD Could Improve Outcomes for Patients | ASRS – The Doctor's Channel")
+Undo
 
-[](https://rhs.search.yahoo.com/rhs)[Search for new SUV prices Research new SUV prices on Yahoo. View top results now.Yahoo Search | new SUV prices | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for new SUV prices")
+[](https://l.ottoinsurance.com/n)[Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://l.ottoinsurance.com/n "Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
 
-[](https://onlinefinance.net/savings-account-fs2)[$10K Earning $40 a Year? Online Banks Pay More Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "$10K Earning $40 a Year? Online Banks Pay More")
+Undo
+
+[](https://onlinefinance.net/savings-account-fs2)[Compare high-yield savings accounts from FDIC-insured banks. See 2026's top picks.Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "Compare high-yield savings accounts from FDIC-insured banks. See 2026's top picks.")
+
+Undo
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)")
+
+Undo
+
+[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[Your Dog's Back Legs Keep Slipping Out? Do This Immediately!Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "Your Dog's Back Legs Keep Slipping Out? Do This Immediately!")
+
+Undo
+
+[](https://alwaysunhinged.com/)[I Swapped My Latte For Unhinged Busy mornings made easier with caffeinated protein bars that feel like coffee and a snack in one simple wrapper. Shop Unhinged now. [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://alwaysunhinged.com/ "I Swapped My Latte For Unhinged")
+
+Undo
+
+[](https://vision2026.getconsumerguide.com/)[One Pair of Self-Adjusting Glasses for Reading, Driving and Screens Bluelume | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://vision2026.getconsumerguide.com/ "One Pair of Self-Adjusting Glasses for Reading, Driving and Screens")
+
+Undo
+
+[](https://coachlysports.com/demo)[The Dalles: Coaches Run Practice From One App [See how]Give your players clearer drills and better reps using simple visual tools and live tracking in one place. Check it out Coachly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Try Now](https://coachlysports.com/demo "The Dalles: Coaches Run Practice From One App [See how]")
+
+Undo
+
+[](https://hot.mygadgetsoffer.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 My Gadgets Offer | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://hot.mygadgetsoffer.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+
+Undo
 
 ### NBA News
 
-[![Image 50: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 34m * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
+[![Image 50: Source: Fever hires Blazers' Sheri Sam as assistant GM](https://a.espncdn.com/combiner/i?img=/photo/2023/1209/r1264312_2_1296x729_16-9.jpg&w=220) ## Source: Fever hires Blazers' Sheri Sam as assistant GM Sheri Sam, who was the scouting manager for the Trail Blazers, has been hired as assistant general manager of the WNBA's Fever, a source told ESPN. * 1h * Kareem Copeland](https://www.espn.com/wnba/story/_/id/50329901/source-fever-hires-blazers-sheri-sam-assistant-gm)
 
-[![Image 51: A trade? More cost-cutting? Where OKC could be headed this season](https://a.espncdn.com/combiner/i?img=/photo/2026/1030/r1738480_1296x729_16-9.jpg&w=220) ## A trade? More cost-cutting? Where OKC could be headed this season What should OKC do after two season-altering injuries? Brian Windhorst and Tim MacMahon take the pulse of the league. * 5h * Brian Windhorst, Tim MacMahon](https://www.espn.com/nba/story/_/id/50322550/thunder-trade-jalen-williams-cason-wallace)
+[![Image 51: Ja Morant out at least 4 weeks with hamstring strain suffered against Grizzlies](https://a.espncdn.com/combiner/i?img=/photo/2026/1030/r1738441_1296x729_16-9.jpg&w=220) ## Ja Morant out at least 4 weeks with hamstring strain suffered against Grizzlies Trail Blazers guard Ja Morant sustained a left hamstring strain in his first game against the Grizzlies, his former team, and will be out at least four weeks. * 13m * Ben Golliver](https://www.espn.com/nba/story/_/id/50329588/ja-morant-least-four-weeks-injury-vs-grizzlies)
 
-[![Image 52: Kevin Durant reflects on his eight seasons with the Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/photo/2026/1026/r1736528_608x342_16-9.jpg&w=220) ## Kevin Durant reflects on his eight seasons with the Oklahoma City Thunder After the most acrimonious exit of his career, Durant reveals how much he appreciates Oklahoma City and shares his feelings as the team tries to create a dynasty. * 5h * Baxter Holmes, David Seronick](https://www.espn.com/nba/story/_/id/50308763/kevin-durant-oklahoma-city-thunder-reflection)
+[![Image 52: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 2h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://rhs.search.yahoo.com/rhs)[Search for veterans home equity loan Research veterans home equity loan on Yahoo. View top results now.Yahoo Search | Veterans equity loan | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for veterans home equity loan")
+[](https://www.webroot.com/campaigns/seasonal)[One Click Can Protect Your Identity From Scammers Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "One Click Can Protect Your Identity From Scammers")
 
-[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
+Undo
+
+[](https://tracking.autoinsurance.com/)[Why Oregon Drivers Are Switching Their Insurance You Could Save $500 Per Year On Car Insurance. Compare & Get A Free Quote!Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tracking.autoinsurance.com/ "Why Oregon Drivers Are Switching Their Insurance")
+
+Undo
+
+[](https://thedailysteep.org/)[Men Over 50: Take a Closer Look at This Nightly Habit Men's Health Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://thedailysteep.org/ "Men Over 50: Take a Closer Look at This Nightly Habit")
+
+Undo
 
 ![Image 53: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

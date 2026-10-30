@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-30 12:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-30 17:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,146 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Cameron Johnson](https://images.fantasypros.com/images/players/nba/4558/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)
+F - DEN
+[» Rankings](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/cameron-johnson-g.php)  
+[» More News](https://www.fantasypros.com/nba/news/cameron-johnson-g.php)
+[Cameron Johnson (ankle) expected to play Friday ](https://www.fantasypros.com/nba/news/616676/cameron-johnson-ankle-expected-to-play-friday.php)  
+
+Fri, Oct 30th 4:31pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Cameron Johnson is expected to play in Friday’s game against the Suns. (Source: [John Gambadoro on Twitter](https://x.com/Gambo987/status/2116232956213858804?a=MZZeHR3ed3QgUR8LgGI&s=20))
+**_Fantasy Impact:_** Johnson remains listed as questionable. He has been sidelined since the season opener. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Rui Hachimura](https://images.fantasypros.com/images/players/nba/4491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rui-hachimura.php)
+F - LAC
+[» Rankings](https://www.fantasypros.com/nba/players/rui-hachimura.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/rui-hachimura.php)  
+[» More News](https://www.fantasypros.com/nba/news/rui-hachimura.php)
+[Rui Hachimura (quad) now probable Friday ](https://www.fantasypros.com/nba/news/616675/rui-hachimura-quad-now-probable-friday.php)  
+
+Fri, Oct 30th 4:30pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Rui Hachimura is now probable for Friday's game against the Timberwolves. (Source: [Law Murray on Twitter](https://x.com/LawMurrayTheNU/status/2116227618064503041?a=cEWOvqtzxElnNMIkEsU&s=20))
+**_Fantasy Impact:_** Hachimura is on track to be good to go for the Clippers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ziaire Williams](https://images.fantasypros.com/images/players/nba/5319/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ziaire-williams.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/ziaire-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ziaire-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/ziaire-williams.php)
+[Ziaire Williams (foot) ruled out Friday ](https://www.fantasypros.com/nba/news/616674/ziaire-williams-foot-ruled-out-friday.php)  
+
+Fri, Oct 30th 4:28pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ziaire Williams has been ruled out for Friday's game against the Warriors. (Source: [Dan Woike on Twitter](https://x.com/DanWoikeSports/status/2116259063470404028))
+**_Fantasy Impact:_** Williams will be sidelined after being listed as questionable. Jake LaRavia could see another spot start. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dennis Schroder](https://images.fantasypros.com/images/players/nba/2780/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dennis-schroder.php)
+G - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/dennis-schroder.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dennis-schroder.php)  
+[» More News](https://www.fantasypros.com/nba/news/dennis-schroder.php)
+[Dennis Schroder (foot) now probable Friday ](https://www.fantasypros.com/nba/news/616673/dennis-schroder-foot-now-probable-friday.php)  
+
+Fri, Oct 30th 4:27pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dennis Schroder is now probable for Friday’s game against the Wizards. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
+**_Fantasy Impact:_** Schroder is on track to be good to go. He should be back in his starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
+C - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
+[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
+[Karl-Anthony Towns (wrist) listed probable Friday ](https://www.fantasypros.com/nba/news/616672/karl-anthony-towns-wrist-listed-probable-friday.php)  
+
+Fri, Oct 30th 4:26pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Karl-Anthony Towns is listed as probable for Friday's game against the 76ers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
+**_Fantasy Impact:_** Towns sprained his left wrist in the first quarter of Wednesday’s win over the Bulls. He was able to finish the game, and he is on track to being good to go on Friday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
+G - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
+[Jaylen Brown (knee) now doubtful Friday ](https://www.fantasypros.com/nba/news/616671/jaylen-brown-knee-now-doubtful-friday.php)  
+
+Fri, Oct 30th 4:25pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jaylen Brown is now doubtful for Friday's game against the Knicks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_04_00PM.pdf))
+**_Fantasy Impact:_** Brown was downgraded after being listed as questionable. Kentavious Caldwell-Pope could see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ochai Agbaji](https://images.fantasypros.com/images/players/nba/5338/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ochai-agbaji.php)
+G - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/ochai-agbaji.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ochai-agbaji.php)  
+[» More News](https://www.fantasypros.com/nba/news/ochai-agbaji.php)
+[Ochai Agbaji signs with Thunder ](https://www.fantasypros.com/nba/news/616670/ochai-agbaji-signs-with-thunder.php)  
+
+Fri, Oct 30th 4:23pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ochai Agbaji has been signed to the Thunder’s final roster spot.
+**_Fantasy Impact:_** Agbaji will hold a role at the end of the bench for the Thunder. He will likely remain off the fantasy radar. 
+Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ja Morant](https://images.fantasypros.com/images/players/nba/4469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ja-morant.php)
+G - POR
+[» Rankings](https://www.fantasypros.com/nba/players/ja-morant.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ja-morant.php)  
+[» More News](https://www.fantasypros.com/nba/news/ja-morant.php)
+[Ja Morant (hamstring) to miss at least four weeks](https://www.fantasypros.com/nba/news/616669/ja-morant-hamstring-to-miss-least-four-weeks.php)  
+
+Fri, Oct 30th 4:22pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ja Morant has been diagnosed with a Grade 2 left hamstring strain and will miss at least four weeks. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2116238809314844934?a=FigcgWLEgVFSrhkkZ7g&s=20))
+**_Fantasy Impact:_** Morant suffered the injury in Thursday's game against the Grizzlies. Scoot Henderson and Jrue Holiday should see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Patrick Williams](https://images.fantasypros.com/images/players/nba/5132/headshot/100x100.png)](https://www.fantasypros.com/nba/players/patrick-williams.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/patrick-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/patrick-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/patrick-williams.php)
+[Patrick Williams (adductor) expected to play Friday ](https://www.fantasypros.com/nba/news/616578/patrick-williams-adductor-expected-to-play-friday.php)  
+
+Fri, Oct 30th 12:52pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Patrick Williams is expected to make his season debut on Friday against the Hornets. (Source: [K.C. Johnson on Twitter](https://x.com/KCJHoop/status/2116188392241184769?a=a67eXH0xGtTMt5TRToI&s=20))
+**_Fantasy Impact:_** Williams said at shootaround that he’ll be available. He will remain off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Noah Clowney](https://images.fantasypros.com/images/players/nba/5993/headshot/100x100.png)](https://www.fantasypros.com/nba/players/noah-clowney.php)
+F - BKN
+[» Rankings](https://www.fantasypros.com/nba/players/noah-clowney.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/noah-clowney.php)  
+[» More News](https://www.fantasypros.com/nba/news/noah-clowney.php)
+[Noah Clowney (illness) questionable Friday ](https://www.fantasypros.com/nba/news/616576/noah-clowney-illness-questionable-friday.php)  
+
+Fri, Oct 30th 12:51pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Noah Clowney is questionable for Friday's game against the Pistons. (Source: [Erik Slater on Twitter](https://x.com/ErikSlater_/status/2116171159888679401?a=hrgZLORkKIV2x3wX9I0&s=20))
+**_Fantasy Impact:_** Clowney is a late addition to the injury report with an illness. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Damian Lillard](https://images.fantasypros.com/images/players/nba/2761/headshot/100x100.png)](https://www.fantasypros.com/nba/players/damian-lillard.php)
 G - POR
 [» Rankings](https://www.fantasypros.com/nba/players/damian-lillard.php)  
@@ -147,146 +287,6 @@ Zion Williamson scored 22 points (10-12 FG, 2-4 FT) to go along with six rebound
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Darius Acuff Jr.](https://images.fantasypros.com/images/players/nba/6614/headshot/100x100.png)](https://www.fantasypros.com/nba/players/darius-acuff.php)
-G - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/darius-acuff.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/darius-acuff.php)  
-[» More News](https://www.fantasypros.com/nba/news/darius-acuff.php)
-[Darius Acuff Jr. explodes for 34 points Thursday ](https://www.fantasypros.com/nba/news/616526/darius-acuff-jr-explodes-34-points-thursday.php)  
-
-Fri, Oct 30th 3:01am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Darius Acuff Jr. scored 34 points (13-26 FG, 3-11 3PT, 5-5 FT) to go along with six rebounds, 14 assists and one steal in the Kings 132-120 loss against the Pelicans. 
-**_Fantasy Impact:_** Acuff posted the best overall performance of his young career, shooting efficiently to go along with a double-double. He should continue to have the high usage all season. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Precious Achiuwa](https://images.fantasypros.com/images/players/nba/5096/headshot/100x100.png)](https://www.fantasypros.com/nba/players/precious-achiuwa.php)
-F - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/precious-achiuwa.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/precious-achiuwa.php)  
-[» More News](https://www.fantasypros.com/nba/news/precious-achiuwa.php)
-[Precious Achiuwa chips in 24 points Thursday ](https://www.fantasypros.com/nba/news/616525/precious-achiuwa-chips-24-points-thursday.php)  
-
-Fri, Oct 30th 2:59am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Precious Achiuwa scored 24 points (12-17 FG, 0-2 3PT, 0-1 FT) to go along with nine rebounds, two assists and four steals in the Kings 132-120 loss against the Pelicans. 
-**_Fantasy Impact:_** Achiuwa continued to start in place of the injured Keegan Murray. He set his season-high in points and finished the night one rebound shy of a double-double. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![De'Andre Hunter](https://images.fantasypros.com/images/players/nba/4475/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deandre-hunter.php)
-F - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/deandre-hunter.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deandre-hunter.php)  
-[» More News](https://www.fantasypros.com/nba/news/deandre-hunter.php)
-[De'Andre Hunter scores 24 points Thursday ](https://www.fantasypros.com/nba/news/616524/deandre-hunter-scores-24-points-saturday.php)  
-
-Fri, Oct 30th 2:57am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-De'Andre Hunter scored 24 points (7-13 FG, 4-8 3PT, 6-6 FT) to go along with five rebounds and one assist in the Kings 132-120 win over the Pelicans. 
-**_Fantasy Impact:_** Hunter has now posted his best performance on the young season in back-to-back games with 24 points. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Domantas Sabonis](https://images.fantasypros.com/images/players/nba/3176/headshot/100x100.png)](https://www.fantasypros.com/nba/players/domantas-sabonis.php)
-C - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/domantas-sabonis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/domantas-sabonis.php)  
-[» More News](https://www.fantasypros.com/nba/news/domantas-sabonis.php)
-[Domantas Sabonis grabs 15 rebounds Thursday ](https://www.fantasypros.com/nba/news/616523/domantas-sabonis-grabs-15-rebounds-thursday.php)  
-
-Fri, Oct 30th 2:54am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Domantas Sabonis scored nine points (4-7 FG, 1-2 FT) to go along with 15 rebounds, seven assists, two steals and one block in the Kings 132-120 loss against the Pelicans. 
-**_Fantasy Impact:_** Sabonis could not score in double figures and also committed to seven turnovers. He'll look to bounce back as a scorer on Saturday against the Grizzlies. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Aaron Wiggins](https://images.fantasypros.com/images/players/nba/5383/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aaron-wiggins.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/aaron-wiggins.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/aaron-wiggins.php)  
-[» More News](https://www.fantasypros.com/nba/news/aaron-wiggins.php)
-[Aaron Wiggins drops 20 points Thursday ](https://www.fantasypros.com/nba/news/616522/aaron-wiggins-drops-20-points-thursday.php)  
-
-Fri, Oct 30th 2:52am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Aaron Wiggins scored 20 points (8-14 FG, 4-7 3PT) to go along with seven rebounds, three assists and one block in the Hawks 114-111 win over the Cavaliers. 
-**_Fantasy Impact:_** Wiggins led the second unit in the win for Atlanta. He should remain in a strong scoring role off the bench moving forward. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nickeil Alexander-Walker](https://images.fantasypros.com/images/players/nba/4492/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nickeil-alexander-walker.php)  
-[» More News](https://www.fantasypros.com/nba/news/nickeil-alexander-walker.php)
-[Nickeil Alexander-Walker drops 25 points Thursday ](https://www.fantasypros.com/nba/news/616521/nickeil-alexander-walker-drops-25-points-thursday.php)  
-
-Fri, Oct 30th 2:50am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nickeil Alexander-Walker scored 25 points (8-17 FG, 4-12 3PT, 5-5 FT) to go along with three rebounds, one assist and one block in the Hawks 114-111 win over the Cavaliers. 
-**_Fantasy Impact:_** Alexander-Walker has now posted back-to-back strong scoring performances. He is picking up where he left off last season. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Onyeka Okongwu](https://images.fantasypros.com/images/players/nba/5098/headshot/100x100.png)](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)
-C - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/onyeka-okongwu.php)  
-[» More News](https://www.fantasypros.com/nba/news/onyeka-okongwu.php)
-[Onyeka Okongwu logs double-double Thursday ](https://www.fantasypros.com/nba/news/616520/onyeka-okongwu-logs-double-double-thursday.php)  
-
-Fri, Oct 30th 2:48am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Onyeka Okongwu scored 29 points (11-17 FG, 4-6 3PT, 3-4 FT) to go along with 12 rebounds, two assists, one steal and one block in the Hawks 114-111 win over the Cavaliers. 
-**_Fantasy Impact:_** Okongwu posted his best performance of the young season. He'll look to keep it going on Saturday against the Pelicans. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Donovan Mitchell](https://images.fantasypros.com/images/players/nba/3326/headshot/100x100.png)](https://www.fantasypros.com/nba/players/donovan-mitchell.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/donovan-mitchell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/donovan-mitchell.php)  
-[» More News](https://www.fantasypros.com/nba/news/donovan-mitchell.php)
-[Donovan Mitchell struggles from deep Thursday ](https://www.fantasypros.com/nba/news/616519/donovan-mitchell-struggles-from-deep-thursday.php)  
-
-Fri, Oct 30th 2:45am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Donovan Mitchell scored 22 points (7-19 FG, 1-9 3PT, 7-8 FT) to go along with three rebounds, three assists and one steal in the Cavaliers 114-111 loss against the Hawks. 
-**_Fantasy Impact:_** Mitchell and the entire Cleveland team struggled from deep in the loss. They'll look to bounce back on Saturday against the Bucks. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![James Harden](https://images.fantasypros.com/images/players/nba/2332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/james-harden.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/james-harden.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/james-harden.php)  
-[» More News](https://www.fantasypros.com/nba/news/james-harden.php)
-[James Harden scores 24 points Thursday ](https://www.fantasypros.com/nba/news/616518/james-harden-scores-24-points-thursday.php)  
-
-Fri, Oct 30th 2:43am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-James Harden scored 24 points (7-14 FG, 3-8 3PT, 7-9 FT) to go along with five rebounds and four assists in the Cavaliers 114-111 loss against the Hawks. 
-**_Fantasy Impact:_** Harden posted one of his more efficient shooting performances on the early season. He should continue to be more productive as a passer for fantasy managers. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ja Morant](https://images.fantasypros.com/images/players/nba/4469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ja-morant.php)
-G - POR
-[» Rankings](https://www.fantasypros.com/nba/players/ja-morant.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ja-morant.php)  
-[» More News](https://www.fantasypros.com/nba/news/ja-morant.php)
-[Ja Morant suffers hamstring injury Thursday ](https://www.fantasypros.com/nba/news/616499/ja-morant-suffers-hamstring-injury-thursday.php)  
-
-Fri, Oct 30th 2:22am EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ja Morant left Thursday's game early against the Grizzlies with a hamstring injury. (Source: [Trail Blazers PR on Twitter](https://x.com/TrailBlazersPR/status/2116019528798961777?a=iHRr1RYyS2Jm5q6qKEM&s=20))
-**_Fantasy Impact:_** Morant was ruled out in the final quarter. If he misses time, Scoot Henderson and Jrue Holiday would be in line to see more run. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=431_1793376054716&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c999a999a96979f9766uokewi0e0y626i666e666e60626o62)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=404_1793394050411&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c999a999a96979f9766uokewi0e0y626i666e666e60626o62)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
