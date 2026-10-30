@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-30-144690 | fetched: 2026-10-30 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-picks-player-props-odds-oct-30-144690 | fetched: 2026-10-30 18:05 ET -->
 
 # Best NBA Bets Tonight: Props, Picks and Predictions for Friday, October 30
 Get today’s best NBA bets, including expert player prop picks on points, over/under plays, odds from top sportsbooks and predictions for the Friday, Oct. 30 NBA slate.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131) under 16.5 points (-115) vs Chicago Bulls
 _BetMGM, 4:31 PM ET_
 **Alex Barutha** : It's undoubtedly an easy matchup for Pritchard, which always creates a risk of an over hitting, but the volume simply hasn't been there for him. Through four games, Pritchard is taking just 9.3 shots in 26.0 minutes for 13.3 points. And that's with him shooting 47.6 percent from three, which will come down.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=852f4495-92c2-4b16-9725-377f3547afcc&operator_item_id=8bcd5d1e-9951-418b-ad93-691e097b3f4e&pageview_id=152ba987-62db-4ef8-8acb-396df5c906fa)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=768fea4f-8263-4c4d-a945-c7717c98d759&operator_item_id=61ed5f46-2e8f-4e8b-88f3-236a951a2a8a&pageview_id=f85f4471-1264-4349-8d4e-16a2bd413710)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=d29feea2-ce77-46d6-9422-e13d8185d2d2&operator_item_id=8bcd5d1e-9951-418b-ad93-691e097b3f4e&pageview_id=152ba987-62db-4ef8-8acb-396df5c906fa)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=5a9b3a44-1f3b-47fa-9cb1-581849c5eb3d&operator_item_id=3af72b79-05ad-4060-a9b4-8019359859d5&pageview_id=152ba987-62db-4ef8-8acb-396df5c906fa) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=66026c72-3d04-4a6b-b0e1-8cfef2104942&operator_item_id=61ed5f46-2e8f-4e8b-88f3-236a951a2a8a&pageview_id=f85f4471-1264-4349-8d4e-16a2bd413710)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=618c6d09-7763-413d-8c34-2beff4eba8f6&operator_item_id=c35328a4-3877-4a48-be72-995ed282c9d1&pageview_id=f85f4471-1264-4349-8d4e-16a2bd413710) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=fb64416e-bb8d-4c67-9bae-5f93444e1493&operator_item_id=3af72b79-05ad-4060-a9b4-8019359859d5&pageview_id=152ba987-62db-4ef8-8acb-396df5c906fa)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-today-picks-player-props-odds-oct-30-144690&cta_id=b7e889b2-0a34-4457-af40-8001680f7b0d&operator_item_id=c35328a4-3877-4a48-be72-995ed282c9d1&pageview_id=f85f4471-1264-4349-8d4e-16a2bd413710)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  [**Davion Mitchell**](https://www.rotowire.com/basketball/player/davion-mitchell-5354)**over 11.5 points vs. Indiana Pacers (-114)**
 _DraftKings, 4:21 pm ET_
@@ -51,9 +51,19 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 All MLB NBA NFL NHL
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
-Downgraded to doubtful
+Downgraded to out
 NBA
 Philadelphia 76ers
+  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
+[George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
+Questionable for Sunday
+NFL
+Dallas Cowboys
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Jeremiyah Love](https://www.rotowire.com/football/player/jeremiyah-love-19235)
+Ready to return in Week 8
+NFL
+Arizona Cardinals
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
 In clear for Sunday
@@ -64,16 +74,6 @@ Philadelphia Eagles
 Out four weeks with hamstring strain
 NBA
 Portland Trail Blazers
-  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
-[Rashee Rice](https://www.rotowire.com/football/player/rashee-rice-16963)
-Will play this Sunday
-NFL
-Kansas City Chiefs
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Will play Sunday
-NFL
-Baltimore Ravens
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -97,15 +97,15 @@ Club option officially picked up
 MLB
 Miami Marlins
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Joc Pederson](https://www.rotowire.com/baseball/player/joc-pederson-11618)
-Becomes free agent
+[Trevor Stephan](https://www.rotowire.com/baseball/player/trevor-stephan-15002)
+Enters free agency
 MLB
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
-Downgraded to doubtful
+Downgraded to out
 NBA
 Philadelphia 76ers
   * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
@@ -113,24 +113,34 @@ Philadelphia 76ers
 Out four weeks with hamstring strain
 NBA
 Portland Trail Blazers
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)
-Ruled out for Saturday
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)
+Remains out Saturday
 NBA
-Cleveland Cavaliers
-  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Gui Santos](https://www.rotowire.com/basketball/player/gui-santos-5738)
-Now questionable
+San Antonio Spurs
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)
+Will remain limited Friday
 NBA
-Golden State Warriors
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
-Likely to play Friday
+Washington Wizards
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
+Absent from injury report
 NBA
-New York Knicks
+New Orleans Pelicans
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
+[George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
+Questionable for Sunday
+NFL
+Dallas Cowboys
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Jeremiyah Love](https://www.rotowire.com/football/player/jeremiyah-love-19235)
+Ready to return in Week 8
+NFL
+Arizona Cardinals
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
 In clear for Sunday
@@ -146,19 +156,19 @@ Kansas City Chiefs
 Will play Sunday
 NFL
 Baltimore Ravens
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Listed as questionable for Week 8
-NFL
-New England Patriots
-  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
-[RJ Harvey](https://www.rotowire.com/football/player/rj-harvey-18522)
-Ruled out for Sunday's game
-NFL
-Denver Broncos
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
+[Carter Hart](https://www.rotowire.com/hockey/player/carter-hart-5156)
+Cleared to return Friday
+NHL
+Vegas Golden Knights
+  * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
+[Adin Hill](https://www.rotowire.com/hockey/player/adin-hill-4810)
+Starting against New Jersey
+NHL
+Vegas Golden Knights
   * ![New Jersey Devils](https://assets.rotowire.com/images/teamlogo/hockey/100NJD.png?v=5)
 [Connor Hellebuyck](https://www.rotowire.com/hockey/player/connor-hellebuyck-4281)
 Tending twine against Vegas
@@ -174,16 +184,6 @@ Toronto Maple Leafs
 Expected starter for Saturday
 NHL
 Edmonton Oilers
-  * ![Calgary Flames](https://assets.rotowire.com/images/teamlogo/hockey/100CGY.png?v=5)
-[Devin Cooley](https://www.rotowire.com/hockey/player/devin-cooley-6360)
-Placed on injured reserve
-NHL
-Calgary Flames
-  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
-[Joel Eriksson Ek](https://www.rotowire.com/hockey/player/joel-eriksson-ek-4903)
-Being evaluated Friday
-NHL
-Minnesota Wild
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

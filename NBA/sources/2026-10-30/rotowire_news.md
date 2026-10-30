@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 17:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-30 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,81 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)[Available to play Friday](https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-to-play-friday-536840)
+**F** Brooklyn Nets
+October 30, 2026
+Clowney (illness) is available for Friday's game against Detroit, [Brian Lewis of the New York Post](https://x.com/NYPost_Lewis/status/2116287867068563950?a=ovEwQ7PN_jczJTtwam4&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)[Will play Friday](https://www.rotowire.com/basketball/headlines/dennis-schroder-news-will-play-friday-536839)
+**G** Charlotte Hornets
+October 30, 2026
+Schroder (foot) is [available](https://x.com/HornetsPR/status/2116287339047580055?s=20) for Friday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Cleared to play Friday](https://www.rotowire.com/basketball/headlines/jalen-smith-news-cleared-to-play-friday-536837)
+**C** Chicago Bulls
+October 30, 2026
+Smith (finger) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_45PM.pdf) for Friday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Dailyn Swain](https://www.rotowire.com/basketball/player/dailyn-swain-6986)[Out Friday](https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-out-friday-536836)
+**F** Chicago Bulls
+Back
+October 30, 2026
+Swain (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_45PM.pdf) for Friday's game against Boston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Downgraded to out](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-downgraded-to-out-536835)
+**F** Philadelphia 76ers
+Knee
+October 30, 2026
+Brown (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_45PM.pdf) for Friday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Tobias Harris](https://www.rotowire.com/basketball/player/tobias-harris-3211)[Remains out Saturday](https://www.rotowire.com/basketball/headlines/tobias-harris-injury-remains-out-saturday-536834)
+**F** San Antonio Spurs
+Calf
+October 30, 2026
+Harris (calf) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_30PM.pdf) for Saturday's game against Minnesota.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)[Will remain limited Friday](https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-will-remain-limited-friday-536833)
+**F** Washington Wizards
+October 30, 2026
+Dybantsa (ankle) will remain on a minutes restriction in Friday's game against the Hornets, [Greg Finberg of The Wizards Podcast](https://x.com/GregFinberg/status/2116279771134820801?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)[Ruled out Saturday as expected](https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-saturday-as-expected-536832)
+**C** New Orleans Pelicans
+Knee
+October 30, 2026
+Missi (knee) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_15PM.pdf) in Saturday's game against Atlanta.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/jordan-poole-injury-ruled-out-for-saturday-536831)
+**G** New Orleans Pelicans
+Ankle
+October 30, 2026
+Poole (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_15PM.pdf) for Saturday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Absent from injury report](https://www.rotowire.com/basketball/headlines/dejounte-murray-news-absent-from-injury-report-536830)
+**G** New Orleans Pelicans
+October 30, 2026
+Murray (personal) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_05_15PM.pdf) for Saturday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-ruled-out-for-saturday-536828)
 **F** Cleveland Cavaliers
@@ -130,79 +205,6 @@ McConnell (hamstring) is practicing in the G League at Noblesville Boom training
 Knee
 October 30, 2026
 Furphy (knee) is practicing with the G League's Noblesville Boom, per [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2116234626863710217).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Ja Morant](https://www.rotowire.com/basketball/player/ja-morant-4761)[Out four weeks with hamstring strain](https://www.rotowire.com/basketball/headlines/ja-morant-injury-out-four-weeks-with-hamstring-strain-536813)
-**G** Portland Trail Blazers
-Hamstring
-October 30, 2026
-Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland [announced](https://x.com/trailblazers/status/2116238920681939233) Friday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Cameron Johnson](https://www.rotowire.com/basketball/player/cameron-johnson-4916)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-expected-to-play-friday-536812)
-**F** Denver Nuggets
-Ankle
-October 30, 2026
-Johnson (ankle) is expected to play in Friday's game against the Suns, per [John Gambadoro of Arizona Sports 98.7 FM](https://x.com/Gambo987/status/2116232956213858804?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Team option exercised](https://www.rotowire.com/basketball/headlines/terrence-shannon-news-team-option-exercised-536811)
-**F** Minnesota Timberwolves
-October 30, 2026
-Shannon's contract option for next season is being exercised by Minnesota,[ Jon Krawczynski of The Athletic](https://x.com/JonKrawczynski/status/2116226657535287517) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Joan Beringer](https://www.rotowire.com/basketball/player/joan-beringer-6576)[Team option picked up](https://www.rotowire.com/basketball/headlines/joan-beringer-news-team-option-picked-up-536810)
-**C** Minnesota Timberwolves
-October 30, 2026
-Beringer's contract option for next season is being exercised by Minnesota,[ Jon Krawczynski of The Athletic](https://x.com/JonKrawczynski/status/2116226657535287517) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Rui Hachimura](https://www.rotowire.com/basketball/player/rui-hachimura-4778)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/rui-hachimura-injury-upgraded-to-probable-536809)
-**F** Los Angeles Clippers
-Quadriceps
-October 30, 2026
-Hachimura (quadriceps) is probable for Friday's game against Minnesota, per [Ohm Youngmisuk of ESPN.com](https://x.com/NotoriousOHM/status/2116227636511060126).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Baylor Scheierman](https://www.rotowire.com/basketball/player/baylor-scheierman-6280)[Has option picked up](https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-has-option-picked-up-536808)
-**F** Boston Celtics
-October 30, 2026
-Scheierman had his 2027-28 rookie-scale team option picked up by Boston on Friday, [Keith Smith of Spotrac.com](https://x.com/KeithSmithNBA/status/2116224407911760300?s=20) reports
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Hugo Gonzalez](https://www.rotowire.com/basketball/player/hugo-gonzalez-6553)[Team option picked up](https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-team-option-picked-up-536807)
-**F** Boston Celtics
-October 30, 2026
-The Celtics have exercised Gonzalez's third-year rookie-scale team option for the 2027-28 season, [Keith Smith of Spotrac.com](https://x.com/KeithSmithNBA/status/2116224407911760300?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Cam Spencer](https://www.rotowire.com/basketball/player/cam-spencer-6297)[Earning more playing time](https://www.rotowire.com/basketball/headlines/cam-spencer-news-earning-more-playing-time-536806)
-**G** Memphis Grizzlies
-October 30, 2026
-Spencer produced eight points (3-6 FG, 1-2 3Pt, 1-1 FT), six rebounds, eight assists and two steals across 23 minutes during Thursday's 124-103 win over Portland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Ochai Agbaji](https://www.rotowire.com/basketball/player/ochai-agbaji-5683)[To sign with Thunder](https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-to-sign-with-thunder-536805)
-**F** Oklahoma City Thunder
-October 30, 2026
-Agbaji will sign a deal with the Thunder, [Michael Scotto of HoopsHype.com](https://x.com/MikeAScotto/status/2116218975629799687?a=QCKCtCu7F7lSg19e588&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)[Playing steady minutes](https://www.rotowire.com/basketball/headlines/mario-hezonja-news-playing-steady-minutes-536804)
-**F** Cleveland Cavaliers
-October 30, 2026
-Hezonja provided 10 points (4-6 FG, 2-3 3Pt), six rebounds, two assists and one steal in 17 minutes during Thursday's 114-111 loss to the Hawks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
