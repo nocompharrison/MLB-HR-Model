@@ -1,8 +1,9 @@
-# NBA transcripts | 2026-10-30 | updated 2026-10-30 17:08 ET
+# NBA transcripts | 2026-10-30 | updated 2026-10-30 18:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 16 files in NBA/transcripts/2026-10-30:
+# 17 files in NBA/transcripts/2026-10-30:
 NBA/transcripts/2026-10-30/A6BTY90c-_4_JayMoney_Early_NBA_Picks_Friday_NBA_Cup_Talk_With_Jay_Money_Is_Money.txt
 NBA/transcripts/2026-10-30/FxbqNMM7STE_MattyChucks_NBA_Best_Bets_Plays_Friday_October_30th.txt
+NBA/transcripts/2026-10-30/JFmBUhAArUI_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_October_30th.txt
 NBA/transcripts/2026-10-30/K3CN7X5yALc_JayMoney_Friday_NBA_Cup_Talk_With_Jay_Money_The_Shark_10_30_26_Free_NBA_Picks_P.txt
 NBA/transcripts/2026-10-30/LXq_ihYAfxQ_ActionNetwork_NBA_Cup_Preview_Best_Bets_for_Friday_Buckets_Podcast.txt
 NBA/transcripts/2026-10-30/Ve3OMi6vQHE_PickDawgz_NBA_Picks_Friday_10_30_26_Jay_s_NBA_Jam_Session.txt
@@ -19,31 +20,31 @@ NBA/transcripts/2026-10-30/ry0mzAK_kSg_FantasyAces_Best_NBA_Picks_Bets_for_Frida
 NBA/transcripts/2026-10-30/uszdfQ_4erM_PickDawgz_NBA_Alternate_Line_Prediction_10_30_26_The_Extendo_Clip.txt
 
 # this run:
-NEW     NBA/transcripts/2026-10-30/LXq_ihYAfxQ_ActionNetwork_NBA_Cup_Preview_Best_Bets_for_Friday_Buckets_Podcast.txt  (10,171 words)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NOCAPS  WagerTalk Va7d60P-BP0 NBA Picks Today: Friday Best Bets, Predictions & Betting Odd  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk 9nZEGnpZ1fg NBA Picks Today: Friday Best Bets, Predictions & Betting Odd  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING RotoGrinders gSI1fYdYEJ0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/31/2  (not aired yet - scheduled for 10/31/26 4:45PM)
-NOCAPS  ShipItNation BReq5cz--2M NBA DFS Process | October 30, 2026 | DraftKings & FanDuel Pi  (no captions; Groq: still live - audio not final yet)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/nDB-vki4wZA_LockedOnNBA_REAL_OR_FAKE_Memphis_Grizzlies_Hot_Start_Tyrese_Maxey_s_LEAP_Knicks_St.txt  (6,865 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/nbWdJJ2YrhQ_NBAGamblingPod_NBA_Friday_Picks_10_30_26_NBA_Bets_Player_Props_and_Predictions.txt  (10,394 words, via Groq)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/K3CN7X5yALc_JayMoney_Friday_NBA_Cup_Talk_With_Jay_Money_The_Shark_10_30_26_Free_NBA_Picks_P.txt  (7,925 words, via Groq)
-UPCOMING LandYourBets lJtoUwZaVZw Friday NBA Live Show 🔴 Best Bets Today October 30 | Land You  (not aired yet - scheduled for 10/30/26 5:30PM)
+NOCAPS  JayMoney FxQbsdR-VMQ NBA Talk With Jay Money with Free NBA Picks and Predictions  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  LandYourBets lJtoUwZaVZw Friday NBA Live Show 🔴 Best Bets Today October 30 | Land You  (no captions; Groq: still live - audio not final yet)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/oaH_hpWifcc_SportsLine_NFL_Picks_College_Football_Bets_NBA_Bets_Early_Edge.txt  (10,589 words)
-NEW     NBA/transcripts/2026-10-30/bQvy0GqhKFw_CirclesOff_How_a_Pro_Finds_Edges_in_Same_Game_Parlays_No_Model_Required_Off_Scrip.txt  (11,976 words)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NOCAPS  FantasyAlarm cOQI2rSEPQw NBA DFS Picks Today 10/30 | DraftKings Lineup Strategy & Top  (no captions; Groq: still live - audio not final yet)
-UPCOMING FantasyAlarm oLwTe165Otc NBA DFS Picks Today 10/30 | DraftKings Lineup Strategy & Top  (not aired yet - starting any minute)
+NEW     NBA/transcripts/2026-10-30/JFmBUhAArUI_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_October_30th.txt  (8,153 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/ofIzCuufyRY_PickDawgz_NBA_Picks_and_Predictions_for_Today_10_30_2026_Dawg_of_the_Day.txt  (695 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
