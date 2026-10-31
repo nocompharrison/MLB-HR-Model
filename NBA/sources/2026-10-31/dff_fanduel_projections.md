@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-10-31 18:36 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Sat, Oct 31, 2026, 5:44 PM ET
+_Updated At:_ Sat, Oct 31, 2026, 6:25 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 4 GAME SLATE:
 SAT 8:00PM ET · After Hours

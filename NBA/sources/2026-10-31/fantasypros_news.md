@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 18:36 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Dejounte Murray](https://images.fantasypros.com/images/players/nba/3199/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dejounte-murray.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/dejounte-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dejounte-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/dejounte-murray.php)
+[Dejounte Murray (personal) ruled out Saturday](https://www.fantasypros.com/nba/news/616850/dejounte-murray-personal-ruled-out-saturday.php)  
+
+Sat, Oct 31st 6:08pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dejounte Murray has been ruled out for Saturday's game against the Hawks.
+**_Fantasy Impact:_** Murray will miss a second straight game due to the birth of his son. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tacko Fall](https://images.fantasypros.com/images/players/nba/4767/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tacko-fall.php)
+C - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/tacko-fall.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tacko-fall.php)  
+[» More News](https://www.fantasypros.com/nba/news/tacko-fall.php)
+[Tacko Fall (quad) available Saturday](https://www.fantasypros.com/nba/news/616849/tacko-fall-quad-available-saturday.php)  
+
+Sat, Oct 31st 6:07pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tacko Fall is available for Saturday's game against the Hornets.
+**_Fantasy Impact:_** Fall remains off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
+G - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
+[Jaylen Brown (knee) available Saturday](https://www.fantasypros.com/nba/news/616848/jaylen-brown-knee-available-saturday.php)  
+
+Sat, Oct 31st 6:07pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jaylen Brown (knee) is back in the lineup for Saturday night’s contest between the Philadelphia 76ers and Charlotte Hornets. (Source: [Chris Hine on Twitter](https://x.com/christopherhine/status/2116639652056809788?a=X1uo_wjd1gUGqPp9_ME&s=46))
+**_Fantasy Impact:_** Brown is back after sitting on the bench Friday night, and should see plenty of touches as part of a dynamic backcourt with Tyrese Maxey while the Sixers also sit stars LeBron James (back) and Joel Embiid (foot) Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jabari Walker](https://images.fantasypros.com/images/players/nba/5483/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jabari-walker.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/jabari-walker.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jabari-walker.php)  
+[» More News](https://www.fantasypros.com/nba/news/jabari-walker.php)
+[Jabari Walker (knee) available Saturday](https://www.fantasypros.com/nba/news/616847/jabari-walker-knee-available-saturday.php)  
+
+Sat, Oct 31st 6:06pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jabari Walker is available for Saturday's game against the Hornets.
+**_Fantasy Impact:_** Walker remains off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Mitchell Robinson](https://images.fantasypros.com/images/players/nba/3524/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mitchell-robinson.php)
 C - BOS
 [» Rankings](https://www.fantasypros.com/nba/players/mitchell-robinson.php)  
@@ -89,34 +145,6 @@ By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 The Thunder are no longer signing Ochai Agbaji. 
 **_Fantasy Impact:_** Agbaji was waived by the Knicks earlier in October. The Thunder are re-evaluating the roster spot after losing Chet Holmgren to an injury. 
 Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
-G - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaylen-brown.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaylen-brown.php)
-[Jaylen Brown (knee) listed questionable Saturday ](https://www.fantasypros.com/nba/news/616806/jaylen-brown-knee-listed-questionable-saturday.php)  
-
-Sat, Oct 31st 4:10pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaylen Brown is listed as questionable for Saturday's game against the Hornets. 
-**_Fantasy Impact:_** Brown missed Friday’s win over the Knicks. He will attempt to play the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jabari Walker](https://images.fantasypros.com/images/players/nba/5483/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jabari-walker.php)
-F - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/jabari-walker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jabari-walker.php)  
-[» More News](https://www.fantasypros.com/nba/news/jabari-walker.php)
-[Jabari Walker (knee) listed questionable Saturday ](https://www.fantasypros.com/nba/news/616805/jabari-walker-knee-listed-questionable-saturday.php)  
-
-Sat, Oct 31st 4:10pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jabari Walker is listed as questionable for Saturday's game against the Hornets. 
-**_Fantasy Impact:_** Walker is looking to avoid missing a fourth straight game. If he is ruled out, Adem Bona could see more run. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
 [![Fred VanVleet](https://images.fantasypros.com/images/players/nba/3247/headshot/100x100.png)](https://www.fantasypros.com/nba/players/fred-vanvleet.php)
@@ -257,34 +285,6 @@ By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schomm
 Alperen Sengun (back) returns to the lineup for Saturday’s contest between the Houston Rockets and Oklahoma City Thunder according to Brandon Rahbar. (Source: [Brandon Rahbar on Twitter ](https://x.com/brandonrahbar/status/2116576921932955837?a=4FKnFl6LP-C7rfHLCjw&s=46))
 **_Fantasy Impact:_** Sengun will take the floor after missing the last two games due to a lingering back injury, boosting a Houston starting five that will look to take advantage of an injury-ravaged Thunder lineup Saturday night.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Wendell Carter Jr.](https://images.fantasypros.com/images/players/nba/3472/headshot/100x100.png)](https://www.fantasypros.com/nba/players/wendell-carter.php)
-C - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/wendell-carter.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/wendell-carter.php)  
-[» More News](https://www.fantasypros.com/nba/news/wendell-carter.php)
-[Wendell Carter Jr. bounces back for 20 points Friday night ](https://www.fantasypros.com/nba/news/616778/wendell-carter-jr-bounces-back-20-points-friday-night.php)  
-
-Sat, Oct 31st 10:10am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Wendell Carter Jr. scored 20 points (6-11 FG, 1-3 3PT, 7-8 FT) and grabbed seven rebounds in Friday's 121-114 win over the Raptors. 
-**_Fantasy Impact:_** Carter has now reached 20 points in three of the first five games of the season. The veteran big had scored just 12 combined over the previous two games going into Friday night, including a three-point showing in Wednesday's loss to the Raptors. Carter rebounded for the rematch, bringing his averages to 14.8 points and 8.6 rebounds with a 65.0 FG% for the campaign. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Franz Wagner](https://images.fantasypros.com/images/players/nba/5340/headshot/100x100.png)](https://www.fantasypros.com/nba/players/franz-wagner.php)
-F - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/franz-wagner.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/franz-wagner.php)  
-[» More News](https://www.fantasypros.com/nba/news/franz-wagner.php)
-[Franz Wagner delivers big double-double in Friday's win](https://www.fantasypros.com/nba/news/616777/franz-wagner-delivers-big-double-double-fridays-win.php)  
-
-Sat, Oct 31st 10:06am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Franz Wagner scored 26 points (8-18 FG, 2-7 3PT, 8-9 FT) to go with 11 assists and five rebounds in Friday's 121-114 win over the Raptors. 
-**_Fantasy Impact:_** Wagner tied a career best in assists Friday night, and he finished just two points behind Desmond Bane for the team lead. Wagner is off to a solid start through five games, averaging over 20 points per game along with 7.0 assists and 6.8 rebounds. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)

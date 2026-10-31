@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 18:36 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,21 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Rudy Gobert](https://www.rotowire.com/basketball/player/rudy-gobert-3440)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/rudy-gobert-injury-wont-play-saturday-536994)
+**C** Minnesota Timberwolves
+Back
+October 31, 2026
+Gobert (back) is out for Saturday's game against the Spurs, [Dane Moore of 'The Dane Moore NBA Podcast'](https://x.com/DaneMooreNBA/status/2116655108653998371) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Scoot Henderson](https://www.rotowire.com/basketball/player/scoot-henderson-5377)[Nets 14 points with three swipes](https://www.rotowire.com/basketball/headlines/scoot-henderson-news-nets-14-points-with-three-swipes-536993)
+**G** Portland Trail Blazers
+October 31, 2026
+Henderson finished with 14 points (4-11 FG, 1-4 3Pt, 5-6 FT), three rebounds, one assist and three steals over 31 minutes during Saturday's 112-90 victory over the Jazz.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)[Starting versus Charlotte](https://www.rotowire.com/basketball/headlines/adem-bona-news-starting-versus-charlotte-536992)
 **C** Philadelphia 76ers
@@ -185,21 +200,6 @@ Sheppard (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Rep
 Knee
 October 31, 2026
 VanVleet (knee) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) Saturday against the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/alperen-sengun-news-not-listed-on-injury-report-536968)
-**C** Houston Rockets
-October 31, 2026
-Sengun (back) has been removed from the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) ahead of Saturday's meeting with the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/jabari-walker-injury-questionable-for-saturday-536967)
-**F** Philadelphia 76ers
-Knee
-October 31, 2026
-Walker (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) for Saturday's game in Charlotte.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

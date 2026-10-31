@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 18:36 ET -->
 
 # NBA DFS Picks Today
 October 31, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, October 31 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (ATL @ NOP) Charlotte Hornets (PHI @ CHA) Cleveland Cavaliers (CLE @ MIL) Houston Rockets (OKC @ HOU) Memphis Grizzlies (SAC @ MEM) Milwaukee Bucks (CLE @ MIL) Minnesota Timberwolves (MIN @ SAN) New Orleans Pelicans (ATL @ NOP) Oklahoma City Thunder (OKC @ HOU) Philadelphia 76ers (PHI @ CHA) Portland Trail Blazers (POR @ UTA) Sacramento Kings (SAC @ MEM) San Antonio Spurs (MIN @ SAN) Utah Jazz (POR @ UTA)
+Minnesota TimberwolvesMIN @ SAN - 8:00 PM ET
+**[Rudy Gobert](https://www.rotowire.com/basketball/player/rudy-gobert-3440)** _C_ OUT _Top_ 6:18 PM ET
+#### Won't play Saturday
+Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports.
+Analysis
+Gobert will miss his first game of the season Saturday, which could result in Joan Beringer getting the start and Trey Lyles could see a bump in minutes. For now, Gobert should be considered questionable for Monday's meeting with Milwaukee.
+Portland Trail BlazersPOR @ UTA - 3:00 PM ET
+**[Scoot Henderson](https://www.rotowire.com/basketball/player/scoot-henderson-5377)** _G_ _Top_ 6:15 PM ET
+#### Nets 14 points with three swipes
+Henderson finished with 14 points (4-11 FG, 1-4 3Pt, 5-6 FT), three rebounds, one assist and three steals over 31 minutes during Saturday's 112-90 victory over the Jazz.
+Analysis
+Aside from his four turnovers, Henderson played well in his first start of the season, providing a scoring punch for Portland while doing a nice job of disrupting passing lanes. Ja Morant (hamstring) will miss at least the next four weeks, so Henderson should be locked in as a starter for Portland. He's someone to consider grabbing off the waiver wire.
 Philadelphia 76ersPHI @ CHA - 6:00 PM ET
 **[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)** _C_ 5:34 PM ET
 #### Starting versus Charlotte
@@ -41,19 +53,7 @@ Philadelphia 76ersPHI @ CHA - 6:00 PM ET
 Fall (quadriceps) is available for Saturday's game against the Hornets, Chris Hine of The Philly Inquirer reports.
 Analysis
 Fall is available to make his 76ers' debut Saturday, and with Joel Embiid (rest) out, he might be able to get into the rotation. That said, Fall may have his minutes monitored in his first game of the season, so he's not a great target in fantasy leagues.
-New Orleans PelicansATL @ NOP - 7:00 PM ET
-**[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ OUT _Top_ 5:24 PM ET
-#### Ruled out Saturday
-Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports.
-Analysis
-Murray wasn't on the injury report but won't suit up due to the birth of his son. With Murray sidelined, Bennedict Mathurin could enter the starting lineup, with Jeremiah Fears operating as the primary ballhandler.
-Philadelphia 76ersPHI @ CHA - 6:00 PM ET
-**[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)** _F_ _Top_ 5:21 PM ET
-#### Available to play
-Brown (knee) is available for Saturday's game in Charlotte.
-Analysis
-Brown is back after a one-game absence, and he should see a nice uptick in usage Saturday with LeBron James (rest) and Joel Embiid (rest) unavailable. Brown is averaging 20.6 points, 6.6 rebounds, 4.2 assists, 1.8 triples and 1.2 steals per game this season.
-Show 5 more (29 remaining)
+Show 5 more (31 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,25 +63,25 @@ DraftKings FanDuel
 Main Slate - 5 games - 7:00 PM Nov 1 - Main Slate - 4 games - 3:30 PM (lineups pending) Main Slate - 2 games - 3:00 PM Main Slate - 4 games - 8:00 PM Nov 1 - Main Slate - 2 games - 8:30 PM (lineups pending) Showdown - OKC @ HOU - 9:30 PM Nov 1 - Showdown - TOR @ LAL - 10:00 PM (lineups pending) Showdown - ATL @ NOP - 7:00 PM Nov 1 - Showdown - BKN @ IND - 5:00 PM (lineups pending) Nov 1 - Showdown - BOS @ ORL - 3:30 PM (lineups pending) Showdown - OKC @ HOU - 8:30 PM Showdown - PHI @ CHA - 6:00 PM Showdown - POR @ UTA - 3:00 PM Nov 1 - Showdown - TOR @ LAL - 9:00 PM (lineups pending) Main Slate - 5 games - 7:00 PM Nov 1 - Main Slate - 4 games - 3:30 PM (lineups pending) All games (5) ATL @ NOP - 7:00 PM ET SAC @ MEM - 8:00 PM ET CLE @ MIL - 8:00 PM ET MIN @ SAS - 8:00 PM ET OKC @ HOU - 8:30 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **ATL @ NOP**
-O/U 240.57:00 PM ET
+O/U 239.57:00 PM ET
 HawksExpectedAway
-_Implied_**122.5** _Spread_**-4.5**  
+_Implied_**122.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Onyeka Okongwu  | $5,900  | 33.5  |  
-| PF  | Jalen Johnson  | $9,700  | 49.7  |  
+| C  | Onyeka Okongwu  | $5,900  | 33.4  |  
+| PF  | Jalen Johnson  | $9,700  | 49.6  |  
 | PG  | CJ McCollum  | $5,700  | 29.0  |  
 | SF  | Dyson Daniels  | $6,700  | 30.2  |  
-| SG  | Nickeil Alexander-Walker  | $6,900  | 33.0  |  
+| SG  | Nickeil Alexander-Walker  | $6,900  | 32.9  |  
 PelicansExpectedHome
-_Implied_**118.0** _Spread_**+4.5**  
+_Implied_**117.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karlo Matkovic  | $3,700  | 17.4  |  
-| PF  | Zion Williamson  | $7,700  | 39.2  |  
-| PG  | Jeremiah Fears  | $5,600  | 38.6  |  
-| SF  | Herbert Jones  | $4,500  | 24.3  |  
-| SG  | Trey Murphy  | $7,300  | 33.0  |  
+| PF  | Zion Williamson  | $7,700  | 39.1  |  
+| PG  | Jeremiah Fears  | $5,600  | 38.5  |  
+| SF  | Herbert Jones  | $4,500  | 24.2  |  
+| SG  | Trey Murphy  | $7,300  | 32.9  |  
 **SAC @ MEM**
 O/U 229.58:00 PM ET
 KingsExpectedAway
@@ -90,18 +90,18 @@ _Implied_**110.5** _Spread_**+8.5**
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,400  | 50.0  |  
 | PF  | Precious Achiuwa  | $5,700  | 31.1  |  
-| PG  | Darius Acuff  | $7,500  | 36.4  |  
-| SF  | De'Andre Hunter  | $5,800  | 22.7  |  
+| PG  | Darius Acuff  | $7,500  | 36.3  |  
+| SF  | De'Andre Hunter  | $5,800  | 22.6  |  
 | SG  | Zach LaVine  | $6,800  | 33.9  |  
 GrizzliesExpectedHome
 _Implied_**119.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Zach Edey  | $5,700  | 27.1  |  
-| PF  | Cameron Boozer  | $7,400  | 40.6  |  
-| PG  | Ty JeromeQ  | $8,400  | 37.9  |  
-| SF  | Jaylen Wells  | $4,900  | 24.2  |  
-| SG  | Cedric Coward  | $6,200  | 31.8  |  
+| PF  | Cameron Boozer  | $7,400  | 40.5  |  
+| PG  | Ty JeromeQ  | $8,400  | 37.8  |  
+| SF  | Jaylen Wells  | $4,900  | 24.1  |  
+| SG  | Cedric Coward  | $6,200  | 31.7  |  
 **CLE @ MIL**
 O/U 235.58:00 PM ET
 CavaliersExpectedAway
@@ -123,25 +123,25 @@ _Implied_**113.0** _Spread_**+9.5**
 | SF  | Jaime Jaquez  | $6,100  | 30.5  |  
 | SG  | Tyler Herro  | $7,000  | 35.5  |  
 **MIN @ SAS**
-O/U 228.58:00 PM ET
+O/U 229.58:00 PM ET
 TimberwolvesExpectedAway
-_Implied_**108.0** _Spread_**+12.5**  
+_Implied_**108.5** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Rudy GobertQ  | $5,700  | 30.0  |  
-| PF  | Jaden McDaniels  | $6,200  | 30.8  |  
-| PG  | LaMelo Ball  | $8,500  | 39.6  |  
-| SF  | Jonathan Kuminga  | $5,400  | 34.6  |  
+| C  | Joan Beringer  | $4,000  | 33.7  |  
+| PF  | Jaden McDaniels  | $6,200  | 32.0  |  
+| PG  | LaMelo Ball  | $8,500  | 39.3  |  
+| SF  | Jonathan Kuminga  | $5,400  | 37.1  |  
 | SG  | Ayo Dosunmu  | $5,900  | 27.6  |  
 SpursExpectedHome
-_Implied_**120.5** _Spread_**-12.5**  
+_Implied_**121.0** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Victor Wembanyama  | $10,900  | 51.4  |  
 | PF  | Devin Vassell  | $5,800  | 26.4  |  
 | PG  | De'Aaron Fox  | $6,600  | 33.2  |  
 | SF  | Dylan Harper  | $6,500  | 32.5  |  
-| SG  | Stephon CastleQ  | $7,200  | 35.1  |  
+| SG  | Stephon CastleQ  | $7,200  | 35.2  |  
 **OKC @ HOU**
 O/U 219.58:30 PM ET
 ThunderExpectedAway
@@ -173,16 +173,16 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:00 PMMain - 4 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jeremiah FearsNOP - PG  | vs ATL  | $5,600  | 35  | 38.6  | **6.90**  |  
-| 2  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 33  | 34.6  | **6.40**  |  
-| 3  |  Myles TurnerMIL - C  | vs CLE  | $4,900  | 29  | 29.2  | **5.96**  |  
-| 4  |  Kyle KuzmaMIL - PF  | vs CLE  | $5,000  | 30  | 29.4  | **5.89**  |  
-| 5  |  Jaylin WilliamsOKC - PF  | @ HOU  | $4,500  | 25  | 25.7  | **5.71**  |  
-| 6  |  Kasparas JakucionisMIL - PG  | vs CLE  | $4,100  | 25  | 23.3  | **5.68**  |  
-| 7  |  Onyeka OkongwuATL - C  | @ NOP  | $5,900  | 29  | 33.5  | **5.68**  |  
-| 8  |  Kingston FlemingsATL - PG  | @ NOP  | $3,900  | 22  | 22.1  | **5.66**  |  
-| 9  |  Marcus SmartHOU - PG  | vs OKC  | $4,200  | 30  | 23.3  | **5.54**  |  
-| 10  |  Tari EasonHOU - SF  | vs OKC  | $5,500  | 30  | 30.2  | **5.50**  |  
+| 1  |  Joan BeringerMIN - C  | @ SAS  | $4,000  | 30  | 33.7  | **8.42**  |  
+| 2  |  Jeremiah FearsNOP - PG  | vs ATL  | $5,600  | 35  | 38.5  | **6.88**  |  
+| 3  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 35  | 37.1  | **6.88**  |  
+| 4  |  Myles TurnerMIL - C  | vs CLE  | $4,900  | 29  | 29.2  | **5.96**  |  
+| 5  |  Kyle KuzmaMIL - PF  | vs CLE  | $5,000  | 30  | 29.4  | **5.89**  |  
+| 6  |  Trey LylesMIN - PF  | @ SAS  | $3,500  | 23  | 20.5  | **5.85**  |  
+| 7  |  Jaylin WilliamsOKC - PF  | @ HOU  | $4,500  | 25  | 25.7  | **5.71**  |  
+| 8  |  Kasparas JakucionisMIL - PG  | vs CLE  | $4,100  | 25  | 23.3  | **5.68**  |  
+| 9  |  Onyeka OkongwuATL - C  | @ NOP  | $5,900  | 29  | 33.4  | **5.67**  |  
+| 10  |  Kingston FlemingsATL - PG  | @ NOP  | $3,900  | 22  | 22.0  | **5.65**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -200,28 +200,28 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-1201401601802002202030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)OkongwuEasonSmartLylesThompson
+1201401601802002202402030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)OkongwuEasonSmartDurant
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** ATL@NOP, CLE@MIL, OKC@HOU, SAC@MEM, MIN@SAS  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Onyeka OkongwuATL · C · ATL@NOP  | $5,900  | 12.1  | 33.5  | **62.0**  |   | 149%  | 10.5  | 57  |  
-| 2  |  Tari EasonHOU · SF/PF · OKC@HOU  | $5,500  | 10.1  | 30.2  | **56.9**  |   | 155%  | 10.4  | 56  |  
-| 3  |  Marcus SmartHOU · PG/SG · OKC@HOU  | $4,200  | 6.5  | 23.3  | **46.4**  |   | 171%  | 11.1  | 55  |  
-| 4  |  Trey MurphyNOP · SG/SF · ATL@NOP  | $7,300  | 12.0  | 33.0  | **60.7**  |   | 147%  | 8.3  | 55  |  
-| 5  |  Ryan RollinsMIL · PG · CLE@MIL  | $6,000  | 11.5  | 31.5  | **58.7**  |   | 150%  | 9.8  | 55  |  
-| 6  |  Herbert JonesNOP · SF/PF · ATL@NOP  | $4,500  | 7.0  | 24.3  | **48.0**  |   | 169%  | 10.7  | 54  |  
-| 7  |  Kasparas JakucionisMIL · PG · CLE@MIL  | $4,100  | 6.9  | 23.3  | **46.7**  |   | 171%  | 11.4  | 54  |  
-| 8  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 3.6  | 15.7  | **34.3**  |   | 195%  | 9.8  | 54  |  
-| 9  |  Amen ThompsonHOU · PG/SG · OKC@HOU  | $7,600  | 13.7  | 36.5  | **65.4**  |   | 142%  | 8.6  | 53  |  
-| 10  |  Myles TurnerMIL · C · CLE@MIL  | $4,900  | 10.0  | 29.2  | **55.3**  |   | 155%  | 11.3  | 53  |  
-| 11  |  Jeremiah FearsNOP · PG/SG · ATL@NOP  | $5,600  | 14.9  | 38.6  | **68.9**  |   | 140%  | 12.3  | 53  |  
-| 12  |  Jaden McDanielsMIN · SF/PF · MIN@SAS  | $6,200  | 10.3  | 30.7  | **57.2**  |   | 153%  | 9.2  | 53  |  
-| 13  |  Kevin DurantHOU · SF · OKC@HOU  | $7,900  | 14.6  | 38.3  | **68.2**  |   | 140%  | 8.6  | 53  |  
-| 14  |  Mario HezonjaCLE · SF/PF · CLE@MIL  | $3,800  | 5.8  | 20.6  | **42.0**  |   | 176%  | 11.1  | 53  |  
-| 15  |  Peyton WatsonCLE · SF/PF · CLE@MIL  | $5,700  | 8.9  | 28.4  | **54.3**  |   | 160%  | 9.5  | 53  |  
-Show all 87 players
+| 1  |  Onyeka OkongwuATL · C · ATL@NOP  | $5,900  | 12.1  | 33.4  | **61.9**  |   | 149%  | 10.5  | 57  |  
+| 2  |  Jaden McDanielsMIN · SF/PF · MIN@SAS  | $6,200  | 10.8  | 32.0  | **59.2**  |   | 151%  | 9.5  | 55  |  
+| 3  |  Tari EasonHOU · SF/PF · OKC@HOU  | $5,500  | 10.1  | 30.2  | **56.9**  |   | 155%  | 10.4  | 55  |  
+| 4  |  Marcus SmartHOU · PG/SG · OKC@HOU  | $4,200  | 6.5  | 23.3  | **46.4**  |   | 171%  | 11.1  | 54  |  
+| 5  |  Kevin DurantHOU · SF · OKC@HOU  | $7,900  | 14.6  | 38.3  | **68.2**  |   | 140%  | 8.6  | 54  |  
+| 6  |  James HardenCLE · PG · CLE@MIL  | $7,600  | 15.7  | 39.4  | **70.2**  |   | 138%  | 9.2  | 54  |  
+| 7  |  Peyton WatsonCLE · SF/PF · CLE@MIL  | $5,700  | 8.9  | 28.4  | **54.3**  |   | 160%  | 9.5  | 54  |  
+| 8  |  Jeremiah FearsNOP · PG/SG · ATL@NOP  | $5,600  | 14.9  | 38.5  | **68.8**  |   | 140%  | 12.3  | 54  |  
+| 9  |  Amen ThompsonHOU · PG/SG · OKC@HOU  | $7,600  | 13.7  | 36.5  | **65.4**  |   | 142%  | 8.6  | 54  |  
+| 10  |  Kasparas JakucionisMIL · PG · CLE@MIL  | $4,100  | 6.9  | 23.3  | **46.7**  |   | 171%  | 11.4  | 54  |  
+| 11  |  Ryan RollinsMIL · PG · CLE@MIL  | $6,000  | 11.5  | 31.5  | **58.7**  |   | 150%  | 9.8  | 54  |  
+| 12  |  Trey MurphyNOP · SG/SF · ATL@NOP  | $7,300  | 12.0  | 32.9  | **60.5**  |   | 147%  | 8.3  | 54  |  
+| 13  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 5.3  | 20.5  | **42.4**  |   | 181%  | 12.1  | 54  |  
+| 14  |  AJ GreenMIL · SG/SF · CLE@MIL  | $3,500  | 2.5  | 13.3  | **30.1**  |   | 208%  | 8.6  | 53  |  
+| 15  |  Herbert JonesNOP · SF/PF · ATL@NOP  | $4,500  | 7.0  | 24.2  | **47.9**  |   | 169%  | 10.6  | 53  |  
+Show all 86 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 5 games slate · 2026-10-31.
 ## **NBA Injury Report**
 Stay on top of who may be out on today's NBA slate, and who could be the next man up to earn extra minutes in a player's absence. For the full list of injured players and their estimated return dates, visit our [NBA injury report](https://www.rotowire.com/basketball/injury-report.php).

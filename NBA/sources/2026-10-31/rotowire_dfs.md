@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 18:36 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 31
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Oct. 31 NBA slate.
@@ -70,6 +70,10 @@ New England Patriots
 Declines player option
 MLB
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Eugenio Suarez](https://www.rotowire.com/baseball/player/eugenio-suarez-12647)
+Mutual option declined
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
 [Jakob Junis](https://www.rotowire.com/baseball/player/jakob-junis-14512)
 Mutual option declined
 MLB
@@ -82,10 +86,6 @@ MLB
 Added to 40-man
 MLB
 Texas Rangers
-  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Michael Soroka](https://www.rotowire.com/baseball/player/michael-soroka-13863)
-Declines mutual option
-MLB
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -104,16 +104,16 @@ Golden State Warriors
 Won't play Saturday
 NBA
 Philadelphia 76ers
+  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Scoot Henderson](https://www.rotowire.com/basketball/player/scoot-henderson-5377)
+Nets 14 points with three swipes
+NBA
+Portland Trail Blazers
   * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
 [Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
 Ruled out Saturday
 NBA
 New Orleans Pelicans
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)
-Ruled out for Sunday
-NBA
-Indiana Pacers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

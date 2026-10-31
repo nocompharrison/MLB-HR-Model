@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-31 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-31 18:36 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,25 +9,22 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
-[](https://www.espn.com/nba/game/_/gameId/401909896)
+[](https://www.espn.com/nba/game/_/gameId/401909897)
 
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909896)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909896)
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909897)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909897)
 
-*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=32&h=32&scale=crop&cquality=40&location=origin)POR  90  
-*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&w=32&h=32&scale=crop&cquality=40&location=origin)UTAH  64  
+*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  18  
+*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHA  26  
 
-11:08 - 4th
-
-[](https://www.espn.com/nba/game/_/gameId/401909897/76ers-hornets)
-
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909897/76ers-hornets)[Tickets](https://www.vividseats.com/charlotte-hornets-tickets-spectrum-center-10-31-2026/production/7432767?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
-
-*   ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  5-1  
-*   ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHA  3-3  
-
-10:00 PM
+2:28 - 1st
 
 NBA TV
+
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909896/trail-blazers-jazz)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909896)
+
+[* ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=32&h=32&scale=crop&cquality=40&location=origin)POR 112 * ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&w=32&h=32&scale=crop&cquality=40&location=origin)UTAH 90](https://www.espn.com/nba/game/_/gameId/401909896/trail-blazers-jazz)
+
+Final
 
 [](https://www.espn.com/nba/game/_/gameId/401909898/hawks-pelicans)
 
@@ -129,12 +126,14 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Mitchell Robinson](https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson) | C | Nov 1 | Day-To-Day | Oct 31: Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports. |
 | [Devin Carter](https://www.espn.com/nba/player/_/id/4433188/devin-carter) | G | Nov 8 | Out | Oct 18: Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports. |
 
 ![Image 21: Brooklyn Nets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&h=40&w=40)Brooklyn Nets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 2 | Out | Oct 31: Brown (rest) is out for Sunday's game in Indiana. |
 | [Egor Demin](https://www.espn.com/nba/player/_/id/5175643/egor-demin) | G | Nov 7 | Out | Oct 29: The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday. |
 | [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Nov 6 | Out | Oct 25: Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. |
 
@@ -189,6 +188,9 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Gui Santos](https://www.espn.com/nba/player/_/id/4997536/gui-santos) | F | Nov 1 | Day-To-Day | Oct 31: Santos (knee) is probable for Sunday's game against the Clippers. |
+| [Draymond Green](https://www.espn.com/nba/player/_/id/6589/draymond-green) | F | Nov 2 | Out | Oct 31: Green (back) is out for Sunday's game against the Clippers. |
+| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Nov 2 | Out | Oct 31: Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Dec 1 | Out | Oct 28: The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
 | [Jimmy Butler III](https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii) | F | Jan 2 | Out | Oct 16: Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports. |
@@ -317,6 +319,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Stephon Castle](https://www.espn.com/nba/player/_/id/4845367/stephon-castle) | G | Oct 31 | Day-To-Day | Oct 31: Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports. |
 | [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Nov 6 | Out | Oct 30: Harris (calf) is listed as out for Saturday's game against Minnesota. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
@@ -347,63 +350,63 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://www.goodrx.com/conditions/weight-loss/bone-mass-decrease-with-weight-loss)[How to Prevent Bone Mass Decrease with Weight Loss - GoodRx GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.goodrx.com/conditions/weight-loss/bone-mass-decrease-with-weight-loss "How to Prevent Bone Mass Decrease with Weight Loss - GoodRx")
+[](https://www.webroot.com/campaigns/seasonal)[One Click Can Protect Your Identity From Scammers Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "One Click Can Protect Your Identity From Scammers")
 
 Undo
 
-[](https://visitgardengrove.com/best-family-friendly-hotels-in-garden-grove)[Best Family-Friendly Hotels in Garden Grove | Visit Garden Grove Visit Garden Grove | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://visitgardengrove.com/best-family-friendly-hotels-in-garden-grove "Best Family-Friendly Hotels in Garden Grove | Visit Garden Grove")
+[](https://related.trendingresults.net/topics/4331003/2353FEF)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/2353FEF "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
 Undo
 
-[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair Improved: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair Improved: This One Daily Vitamin Is Blowing Up Online")
+[](https://www.webroot.com/campaigns/seasonal)[Happy Cybersecurity Awareness Month. Save Up to 50%.Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Happy Cybersecurity Awareness Month. Save Up to 50%.")
 
 Undo
 
-[](https://northledgerfinance.com/money/1-10/5DaJAXgsLhJG3DT6W8DhPl3qN1RzqEgfcmCXr5qF8h4IS1yeHT9w9CjqABmDvw)[Free Gold & Silver Kit, Shipped Free Heritage Metals | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://northledgerfinance.com/money/1-10/5DaJAXgsLhJG3DT6W8DhPl3qN1RzqEgfcmCXr5qF8h4IS1yeHT9w9CjqABmDvw "Free Gold & Silver Kit, Shipped Free")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
 Undo
 
-[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Why Biotin Isn’t Working for Your Thinning Hair – Discover the Real Mineral That Doubles Growth Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Why Biotin Isn’t Working for Your Thinning Hair – Discover the Real Mineral That Doubles Growth")
+[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[Your Dog's Back Legs Keep Slipping Out? Do This Immediately!Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "Your Dog's Back Legs Keep Slipping Out? Do This Immediately!")
 
 Undo
 
-[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Many people in credit card debt aren’t aware of this opportunity Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Many people in credit card debt aren’t aware of this opportunity")
+[](https://tick.storytelltv.com/815e4786-ef80-4eb0-815a-36dd3d2efd37)[Long Days on Screens? These Glasses Filter Blue Light Too EYEGLASSES | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://tick.storytelltv.com/815e4786-ef80-4eb0-815a-36dd3d2efd37 "Long Days on Screens? These Glasses Filter Blue Light Too")
 
 Undo
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://hellowellness101.com/ml/6ae152d2af7b409296323bf1)[Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?Hello Wellness 101 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://hellowellness101.com/ml/6ae152d2af7b409296323bf1 "Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?")
 
 Undo
 
-[](https://track.luxe-cosmetics.com/13539dad-c433-4896-80be-a79a15b197b4)[Best Foundation of 2026 – Only One Passed All Six Tests Korean Beauty Insider | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://track.luxe-cosmetics.com/13539dad-c433-4896-80be-a79a15b197b4 "Best Foundation of 2026 – Only One Passed All Six Tests")
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
 
 Undo
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Saturday Benefit Check The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Saturday Benefit Check")
+[](https://sakura-knives.com/pages/story-8)[Hiroshi Closes His Knife Shop After 55 Years Sakura Knives | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://sakura-knives.com/pages/story-8 "Hiroshi Closes His Knife Shop After 55 Years")
 
 Undo
 
 ### NBA News
 
-[![Image 47: LeBron James, Joel Embiid both out for 76ers vs. Hornets](https://a.espncdn.com/combiner/i?img=/photo/2026/1031/r1739014_1296x729_16-9.jpg&w=220) ## LeBron James, Joel Embiid both out for 76ers vs. Hornets LeBron James and Joel Embiid are out for the Sixers on Saturday in the second game of a back-to-back. It's the first time Philly is without both players at the same time. * 3h * Kris Rhim](https://www.espn.com/nba/story/_/id/50337638/lebron-james-joel-embiid-76ers-vs-hornets)
+[![Image 47: Portland Trail Blazers vs. Utah Jazz: Game Highlights](https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/efe56f95-4051-4378-8263-004e6669b9a6/efe56f95-4051-4378-8263-004e6669b9a6.jpg) ## Avdija scores 24 and Lillard has 22 as Portland rolls over Utah 112-90 — Deni Avdija scored 24 points, Damian Lillard added 22, and the Portland Trail Blazers rebounded from their first loss of the season by blowing past the Utah Jazz 112-90 on Saturday. * 37m](https://www.espn.com/nba/recap/_/gameId/401909896)
 
-[![Image 48: Lakers' Jeanie Buss accuses siblings of 'cloak and dagger' tactics](https://a.espncdn.com/combiner/i?img=/photo/2022/0927/r1067729_1296x729_16-9.jpg&w=220) ## Lakers' Jeanie Buss accuses siblings of 'cloak and dagger' tactics Jeanie Buss accused her siblings of conspiring against her in court filings responding to her siblings' ongoing effort to sell their shares in the Lakers. * 2h * Baxter Holmes](https://www.espn.com/nba/story/_/id/50337158/lakers-jeanie-buss-accuses-siblings-cloak-dagger-tactics)
+[![Image 48: Portland Trail Blazers vs. Utah Jazz: Game Highlights](https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1031/efe56f95-4051-4378-8263-004e6669b9a6/efe56f95-4051-4378-8263-004e6669b9a6.jpg) ## Portland Trail Blazers vs. Utah Jazz: Game Highlights Portland Trail Blazers vs. Utah Jazz: Game Highlights * 37m](https://www.espn.com/video/clip/_/id/50340037/game-highlights)
 
-[![Image 49: Sources: Thunder no longer signing Ochai Agbaji following Chet Holmgren injury](https://a.espncdn.com/combiner/i?img=/photo/2016/0429/r78607_600x400_3-2.jpg&w=220) ## Sources: Thunder no longer signing Ochai Agbaji following Chet Holmgren injury The Thunder are no longer signing free agent Ochai Agbaji as the franchise takes a step back to reevaluate its open roster spot after losing Chet Holmgren for two-plus months, sources told ESPN's Shams Charania. * 4h * Tim MacMahon](https://www.espn.com/nba/story/_/id/50336717/sources-thunder-no-longer-signing-ochai-agbaji)
+[![Image 49: 76ers' LeBron James, Joel Embiid sit against Hornets](https://a.espncdn.com/combiner/i?img=/photo/2026/1031/r1739014_1296x729_16-9.jpg&w=220) ## 76ers' LeBron James, Joel Embiid sit against Hornets LeBron James and Joel Embiid are out for the Sixers on Saturday in the second game of a back-to-back. It's the first time Philly is without both players at the same time. * 39m * Kris Rhim](https://www.espn.com/nba/story/_/id/50337638/lebron-james-joel-embiid-76ers-vs-hornets)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://trk.safecheckoutonline.com/6ae0878550665fcb712b50b2)[This Collar Disc Calms Anxious Dogs Fast HushPaws | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trk.safecheckoutonline.com/6ae0878550665fcb712b50b2 "This Collar Disc Calms Anxious Dogs Fast")
+[](https://onlinefinance.net/savings-account-fs2)[Compare high-yield savings accounts from FDIC-insured banks. See 2026's top picks.Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Offer](https://onlinefinance.net/savings-account-fs2 "Compare high-yield savings accounts from FDIC-insured banks. See 2026's top picks.")
 
 Undo
 
-[](https://onlinefinance.net/savings-account-fs2)[$10K Earning $40 a Year? Online Banks Pay More Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "$10K Earning $40 a Year? Online Banks Pay More")
+[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Saturday Benefit Check Seniors are taking advantage of these benefits The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Saturday Benefit Check")
 
 Undo
 
-[](https://www.onthesnow.com/news/from-north-america-to-verbier-make-your-epic-pass-truly-epic)[Ski Verbier with the Epic Pass OnTheSnow Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.onthesnow.com/news/from-north-america-to-verbier-make-your-epic-pass-truly-epic "Ski Verbier with the Epic Pass")
+[](https://l.ottoinsurance.com/n)[Insurance Rates Are Plunging In South Carolina (Check Your Area)Your current insurer may not be cheapest.OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Insurance Rates Are Plunging In South Carolina (Check Your Area)")
 
 Undo
 
