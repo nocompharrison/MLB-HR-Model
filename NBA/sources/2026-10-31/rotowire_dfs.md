@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 18:36 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 18:49 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 31
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Oct. 31 NBA slate.
@@ -70,6 +70,10 @@ New England Patriots
 Declines player option
 MLB
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Pierce Johnson](https://www.rotowire.com/baseball/player/pierce-johnson-12484)
+Reds decline mutual option
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
 [Eugenio Suarez](https://www.rotowire.com/baseball/player/eugenio-suarez-12647)
 Mutual option declined
 MLB
@@ -81,11 +85,6 @@ MLB
 [Kyle Higashioka](https://www.rotowire.com/baseball/player/kyle-higashioka-14572)
 Becomes free agent
 MLB
-  * ![Texas Rangers](https://assets.rotowire.com/images/teamlogo/baseball/100TEX.png?v=8)
-[Aidan Curry](https://www.rotowire.com/baseball/player/aidan-curry-17007)
-Added to 40-man
-MLB
-Texas Rangers
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -104,16 +103,16 @@ Golden State Warriors
 Won't play Saturday
 NBA
 Philadelphia 76ers
+  * ![Minnesota Timberwolves](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Rudy Gobert](https://www.rotowire.com/basketball/player/rudy-gobert-3440)
+Won't play Saturday
+NBA
+Minnesota Timberwolves
   * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
 [Scoot Henderson](https://www.rotowire.com/basketball/player/scoot-henderson-5377)
 Nets 14 points with three swipes
 NBA
 Portland Trail Blazers
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
-Ruled out Saturday
-NBA
-New Orleans Pelicans
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 18:36 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 18:49 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Rudy Gobert](https://images.fantasypros.com/images/players/nba/2809/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rudy-gobert.php)
+C - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/rudy-gobert.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/rudy-gobert.php)  
+[» More News](https://www.fantasypros.com/nba/news/rudy-gobert.php)
+[Rudy Gobert (back) ruled out Saturday ](https://www.fantasypros.com/nba/news/616856/rudy-gobert-back-ruled-out-saturday.php)  
+
+Sat, Oct 31st 6:33pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Rudy Gobert has been ruled out for Saturday's game against the Spurs. 
+**_Fantasy Impact:_** Gobert will be sidelined after being listed as questionable. Joan Beringer should see a spot start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Dejounte Murray](https://images.fantasypros.com/images/players/nba/3199/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dejounte-murray.php)
 G - NOR
 [» Rankings](https://www.fantasypros.com/nba/players/dejounte-murray.php)  
@@ -172,20 +186,6 @@ Sat, Oct 31st 4:08pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Reed Sheppard has been ruled out for Saturday's game against the Thunder. 
 **_Fantasy Impact:_** Sheppard will remain sidelined. Marcus Smart should see more run in the Rockets back court. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Rudy Gobert](https://images.fantasypros.com/images/players/nba/2809/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rudy-gobert.php)
-C - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/rudy-gobert.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rudy-gobert.php)  
-[» More News](https://www.fantasypros.com/nba/news/rudy-gobert.php)
-[Rudy Gobert (back) listed questionable Saturday ](https://www.fantasypros.com/nba/news/616802/rudy-gobert-back-listed-questionable-saturday.php)  
-
-Sat, Oct 31st 4:07pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Rudy Gobert is listed as questionable for Saturday's game against the Spurs. 
-**_Fantasy Impact:_** Gobert is listed as questionable with low back spasms. He will need to be monitored closer to tip-off. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

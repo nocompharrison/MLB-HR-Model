@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 18:36 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 18:49 ET -->
 
 # NBA DFS Picks Today
 October 31, 2026
@@ -64,7 +64,7 @@ Main Slate - 5 games - 7:00 PM Nov 1 - Main Slate - 4 games - 3:30 PM (lineups p
 Implied total vs. the slate _Lowest_ _Highest_
 **ATL @ NOP**
 O/U 239.57:00 PM ET
-HawksExpectedAway
+HawksConfirmedAway
 _Implied_**122.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -73,7 +73,7 @@ _Implied_**122.0** _Spread_**-4.5**
 | PG  | CJ McCollum  | $5,700  | 29.0  |  
 | SF  | Dyson Daniels  | $6,700  | 30.2  |  
 | SG  | Nickeil Alexander-Walker  | $6,900  | 32.9  |  
-PelicansExpectedHome
+PelicansConfirmedHome
 _Implied_**117.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -123,25 +123,25 @@ _Implied_**113.0** _Spread_**+9.5**
 | SF  | Jaime Jaquez  | $6,100  | 30.5  |  
 | SG  | Tyler Herro  | $7,000  | 35.5  |  
 **MIN @ SAS**
-O/U 229.58:00 PM ET
+O/U 228.58:00 PM ET
 TimberwolvesExpectedAway
-_Implied_**108.5** _Spread_**+12.5**  
+_Implied_**108.0** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Joan Beringer  | $4,000  | 33.7  |  
-| PF  | Jaden McDaniels  | $6,200  | 32.0  |  
-| PG  | LaMelo Ball  | $8,500  | 39.3  |  
-| SF  | Jonathan Kuminga  | $5,400  | 37.1  |  
-| SG  | Ayo Dosunmu  | $5,900  | 27.6  |  
+| C  | Joan Beringer  | $4,000  | 33.8  |  
+| PF  | Jaden McDaniels  | $6,200  | 32.1  |  
+| PG  | LaMelo Ball  | $8,500  | 39.4  |  
+| SF  | Jonathan Kuminga  | $5,400  | 37.3  |  
+| SG  | Ayo Dosunmu  | $5,900  | 27.7  |  
 SpursExpectedHome
-_Implied_**121.0** _Spread_**-12.5**  
+_Implied_**120.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Victor Wembanyama  | $10,900  | 51.4  |  
-| PF  | Devin Vassell  | $5,800  | 26.4  |  
-| PG  | De'Aaron Fox  | $6,600  | 33.2  |  
-| SF  | Dylan Harper  | $6,500  | 32.5  |  
-| SG  | Stephon CastleQ  | $7,200  | 35.2  |  
+| C  | Victor Wembanyama  | $10,900  | 51.6  |  
+| PF  | Devin Vassell  | $5,800  | 26.5  |  
+| PG  | De'Aaron Fox  | $6,600  | 33.4  |  
+| SF  | Dylan Harper  | $6,500  | 32.7  |  
+| SG  | Stephon CastleQ  | $7,200  | 35.4  |  
 **OKC @ HOU**
 O/U 219.58:30 PM ET
 ThunderExpectedAway
@@ -173,12 +173,12 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:00 PMMain - 4 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Joan BeringerMIN - C  | @ SAS  | $4,000  | 30  | 33.7  | **8.42**  |  
-| 2  |  Jeremiah FearsNOP - PG  | vs ATL  | $5,600  | 35  | 38.5  | **6.88**  |  
-| 3  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 35  | 37.1  | **6.88**  |  
+| 1  |  Joan BeringerMIN - C  | @ SAS  | $4,000  | 30  | 33.8  | **8.45**  |  
+| 2  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 35  | 37.3  | **6.90**  |  
+| 3  |  Jeremiah FearsNOP - PG  | vs ATL  | $5,600  | 35  | 38.5  | **6.88**  |  
 | 4  |  Myles TurnerMIL - C  | vs CLE  | $4,900  | 29  | 29.2  | **5.96**  |  
 | 5  |  Kyle KuzmaMIL - PF  | vs CLE  | $5,000  | 30  | 29.4  | **5.89**  |  
-| 6  |  Trey LylesMIN - PF  | @ SAS  | $3,500  | 23  | 20.5  | **5.85**  |  
+| 6  |  Trey LylesMIN - PF  | @ SAS  | $3,500  | 23  | 20.6  | **5.87**  |  
 | 7  |  Jaylin WilliamsOKC - PF  | @ HOU  | $4,500  | 25  | 25.7  | **5.71**  |  
 | 8  |  Kasparas JakucionisMIL - PG  | vs CLE  | $4,100  | 25  | 23.3  | **5.68**  |  
 | 9  |  Onyeka OkongwuATL - C  | @ NOP  | $5,900  | 29  | 33.4  | **5.67**  |  
@@ -207,7 +207,7 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Onyeka OkongwuATL · C · ATL@NOP  | $5,900  | 12.1  | 33.4  | **61.9**  |   | 149%  | 10.5  | 57  |  
-| 2  |  Jaden McDanielsMIN · SF/PF · MIN@SAS  | $6,200  | 10.8  | 32.0  | **59.2**  |   | 151%  | 9.5  | 55  |  
+| 2  |  Jaden McDanielsMIN · SF/PF · MIN@SAS  | $6,200  | 10.8  | 32.1  | **59.3**  |   | 151%  | 9.6  | 55  |  
 | 3  |  Tari EasonHOU · SF/PF · OKC@HOU  | $5,500  | 10.1  | 30.2  | **56.9**  |   | 155%  | 10.4  | 55  |  
 | 4  |  Marcus SmartHOU · PG/SG · OKC@HOU  | $4,200  | 6.5  | 23.3  | **46.4**  |   | 171%  | 11.1  | 54  |  
 | 5  |  Kevin DurantHOU · SF · OKC@HOU  | $7,900  | 14.6  | 38.3  | **68.2**  |   | 140%  | 8.6  | 54  |  
@@ -217,10 +217,10 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | 9  |  Amen ThompsonHOU · PG/SG · OKC@HOU  | $7,600  | 13.7  | 36.5  | **65.4**  |   | 142%  | 8.6  | 54  |  
 | 10  |  Kasparas JakucionisMIL · PG · CLE@MIL  | $4,100  | 6.9  | 23.3  | **46.7**  |   | 171%  | 11.4  | 54  |  
 | 11  |  Ryan RollinsMIL · PG · CLE@MIL  | $6,000  | 11.5  | 31.5  | **58.7**  |   | 150%  | 9.8  | 54  |  
-| 12  |  Trey MurphyNOP · SG/SF · ATL@NOP  | $7,300  | 12.0  | 32.9  | **60.5**  |   | 147%  | 8.3  | 54  |  
-| 13  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 5.3  | 20.5  | **42.4**  |   | 181%  | 12.1  | 54  |  
-| 14  |  AJ GreenMIL · SG/SF · CLE@MIL  | $3,500  | 2.5  | 13.3  | **30.1**  |   | 208%  | 8.6  | 53  |  
-| 15  |  Herbert JonesNOP · SF/PF · ATL@NOP  | $4,500  | 7.0  | 24.2  | **47.9**  |   | 169%  | 10.6  | 53  |  
+| 12  |  Herbert JonesNOP · SF/PF · ATL@NOP  | $4,500  | 7.0  | 24.2  | **47.9**  |   | 169%  | 10.6  | 54  |  
+| 13  |  Trey MurphyNOP · SG/SF · ATL@NOP  | $7,300  | 12.0  | 32.9  | **60.5**  |   | 147%  | 8.3  | 54  |  
+| 14  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 5.3  | 20.6  | **42.5**  |   | 181%  | 12.1  | 54  |  
+| 15  |  AJ GreenMIL · SG/SF · CLE@MIL  | $3,500  | 2.5  | 13.3  | **30.1**  |   | 208%  | 8.6  | 53  |  
 Show all 86 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 5 games slate · 2026-10-31.
 ## **NBA Injury Report**
