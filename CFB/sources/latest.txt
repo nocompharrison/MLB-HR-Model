@@ -1,4 +1,4 @@
-# CFB sources | week 9 | updated 2026-10-29 20:09 ET
+# CFB sources | week 9 | updated 2026-10-31 08:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      CFB/sources/week-09/rotoballer_betting.md            169,817 chars (via Jina) [newest 1 article(s) - no dates found in them] https://www.rotoballer.com/rotoballer-challenge-homepage
+OK      CFB/sources/week-09/rotoballer_betting.md            UPDATED (changed since 2026-10-29 20:09) 168,817 chars (via Jina) [newest 1 article(s) - no dates found in them] https://www.rotoballer.com/rotoballer-challenge-homepage

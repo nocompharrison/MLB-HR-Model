@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-10-29 20:09 ET -->
+<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-10-31 08:35 ET -->
 
 Title: RotoBaller Challenge Homepage
 
@@ -1645,26 +1645,5 @@ Need help?
 
 [![Image 39](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 40](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 41](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 42](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 43](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Waivers](https://www.rotoballer.com/mid-week-waiver-wire-rankings-fantasy-football-week-8-2026/1977585?pa=sitefooter&utm_source=sitefooter&v=2)
 
-![Image 44](https://lantern.roeye.com/track.php?fingerprint=2860fec3-a8cb-45a8-b792-7240f7affe59&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F156.0.0.0%20Safari%2F537.36&site=128693)![Image 45](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
-
-✕
-## Do not sell or share my personal information.
-
-You have chosen to opt-out of the sale or sharing of your information from this site and any of its affiliates. To opt back in please click the "Reenable Personalization" link.  
-  
-This site collects information through the use of cookies and other tracking tools. Cookies and these tools do not contain any information that personally identifies a user, but personal information that would be stored about you may be linked to the information stored in and obtained from them. This information would be used and shared for Analytics, Ad Serving, Interest Based Advertising, among other purposes.  
-  
-For more information please visit this site's Privacy Policy.
-
-CANCEL
-
-CONTINUE
-
-×
-
-Information from your device can be used to personalize your ad experience.   
-  
-[Do not sell or share my personal information.](https://www.rotoballer.com/)
-
-A Raptive Partner Site
+![Image 44](https://lantern.roeye.com/track.php?fingerprint=b4c25953-cf16-4edc-8f0e-48634030d90e&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F156.0.0.0%20Safari%2F537.36&site=128693)
 
