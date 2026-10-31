@@ -1,31 +1,33 @@
-# NBA transcripts | 2026-10-31 | updated 2026-10-31 12:08 ET
+# NBA transcripts | 2026-10-31 | updated 2026-10-31 15:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 5 files in NBA/transcripts/2026-10-31:
+# 7 files in NBA/transcripts/2026-10-31:
+NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt
 NBA/transcripts/2026-10-31/297jffwGaP0_FantasyAces_5_0_Sweep_Best_NBA_Picks_Bets_for_Saturday_10_31.txt
 NBA/transcripts/2026-10-31/6BtMySLItZo_PickDawgz_NBA_Alternate_Line_Prediction_10_31_26_The_Extendo_Clip.txt
 NBA/transcripts/2026-10-31/BYQyJ94vIsQ_LockedOnNBA_Tyrese_Maxey_Playing_At_All_NBA_Level_As_76ers_Beat_Knicks_in_NAB_Cup.txt
 NBA/transcripts/2026-10-31/Lp4M97pOtH0_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_31st.txt
 NBA/transcripts/2026-10-31/x0YCsg-F4eU_PickDawgz_NBA_Picks_Saturday_10_31_26_Jay_s_NBA_Jam_Session.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-10-30
+NBA/transcripts/2026-10-31/yWBQXL8YotM_PickDawgz_NBA_Picks_Today_10_31_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt
+# also filed this run under the slate their titles name: NBA/transcripts/2026-11-01
 
 # this run:
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/9nZEGnpZ1fg_WagerTalk_NBA_Picks_Today_Friday_Best_Bets_Predictions_Betting_Odds_Profit_Picks.txt  (5,663 words)
-NEW     NBA/transcripts/2026-10-30/Va7d60P-BP0_WagerTalk_NBA_Picks_Today_Friday_Best_Bets_Predictions_Betting_Odds_Profit_Picks.txt  (5,647 words)
-NEW     NBA/transcripts/2026-10-30/WSqvGjYTF0o_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_30_26.txt  (17,889 words)
+NEW     NBA/transcripts/2026-11-01/I0r8f5ZWgfI_WagerTalk_Celtics_vs_Magic_Clippers_vs_Warriors_BEST_Bets_Sunday_NBA_Picks_and_P.txt  (1,788 words)
+NEW     NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt  (2,152 words)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-30/xDTc1cR82ck_Stokastic_NBA_DFS_Live_Before_Lock_Friday_10_30_26_DraftKings_FanDuel_NBA_Lineup.txt  (10,391 words)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-31/BYQyJ94vIsQ_LockedOnNBA_Tyrese_Maxey_Playing_At_All_NBA_Level_As_76ers_Beat_Knicks_in_NAB_Cup.txt  (6,637 words)
+UPCOMING LockedOnNBA ZvEMyddniEw SPURS POSTCAST: Wembanyama, San Antonio Eye Fourth-Straight   (not aired yet - scheduled for 10/31/26 10:45PM)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-31/Lp4M97pOtH0_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_31st.txt  (2,878 words)
-UPCOMING JayMoney TTqCiWuTu6w Saturday NBA Talk With Jay Money Is Money 10/31/26 NBA Picks  (not aired yet - scheduled for 10/31/26 1:00PM)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+UPCOMING JayMoney MQif3_--d9k Sunday NBA Talk With Jay Money Is Money 10/31/26 NBA Picks  (not aired yet - scheduled for 11/01/26 1:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -33,8 +35,7 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-31/297jffwGaP0_FantasyAces_5_0_Sweep_Best_NBA_Picks_Bets_for_Saturday_10_31.txt  (5,014 words)
-NEW     NBA/transcripts/2026-10-31/6BtMySLItZo_PickDawgz_NBA_Alternate_Line_Prediction_10_31_26_The_Extendo_Clip.txt  (1,185 words)
-NEW     NBA/transcripts/2026-10-31/x0YCsg-F4eU_PickDawgz_NBA_Picks_Saturday_10_31_26_Jay_s_NBA_Jam_Session.txt  (2,924 words)
+NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-10-31/yWBQXL8YotM_PickDawgz_NBA_Picks_Today_10_31_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt  (2,923 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
