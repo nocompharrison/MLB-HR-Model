@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 17:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Mitchell Robinson](https://images.fantasypros.com/images/players/nba/3524/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mitchell-robinson.php)
+C - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/mitchell-robinson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mitchell-robinson.php)  
+[» More News](https://www.fantasypros.com/nba/news/mitchell-robinson.php)
+[Mitchell Robinson (rest) listed questionable Sunday ](https://www.fantasypros.com/nba/news/616846/mitchell-robinson-rest-listed-questionable-sunday.php)  
+
+Sat, Oct 31st 5:12pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mitchell Robinson is listed as questionable for Sunday’s game against the Magic.
+**_Fantasy Impact:_** If Robinson is ruled out, Neemias Queta could see a spot start. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mikel Brown Jr.](https://images.fantasypros.com/images/players/nba/6613/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mikel-brown.php)
+G - BKN
+[» Rankings](https://www.fantasypros.com/nba/players/mikel-brown.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mikel-brown.php)  
+[» More News](https://www.fantasypros.com/nba/news/mikel-brown.php)
+[Mikel Brown Jr. (back) ruled out Sunday ](https://www.fantasypros.com/nba/news/616845/mikel-brown-jr-back-ruled-out-sunday.php)  
+
+Sat, Oct 31st 5:11pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mikel Brown Jr. has been ruled out for Sunday's game against the Pacers. 
+**_Fantasy Impact:_** Brown will sit the first game of the back-to-back for the Nets. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Aaron Nesmith](https://images.fantasypros.com/images/players/nba/5140/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aaron-nesmith.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/aaron-nesmith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aaron-nesmith.php)  
+[» More News](https://www.fantasypros.com/nba/news/aaron-nesmith.php)
+[Aaron Nesmith (hamstring) listed probable Sunday ](https://www.fantasypros.com/nba/news/616844/aaron-nesmith-hamstring-listed-probable-sunday.php)  
+
+Sat, Oct 31st 5:10pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Aaron Nesmith is listed as probable for Sunday's game against the Nets. 
+**_Fantasy Impact:_** Nesmith should be good to go in his usual starting role for the Pacers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Obi Toppin](https://images.fantasypros.com/images/players/nba/5091/headshot/100x100.png)](https://www.fantasypros.com/nba/players/obi-toppin.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/obi-toppin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/obi-toppin.php)  
+[» More News](https://www.fantasypros.com/nba/news/obi-toppin.php)
+[Obi Toppin (back) listed questionable Sunday ](https://www.fantasypros.com/nba/news/616843/obi-toppin-back-listed-questionable-sunday.php)  
+
+Sat, Oct 31st 5:09pm EDT  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Obi Toppin is listed as questionable for Sunday’s game against the Nets. 
+**_Fantasy Impact:_** Toppin did not play in Friday’s loss to the Heat. His absence does not impact the Pacers rotation for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Gui Santos](https://images.fantasypros.com/images/players/nba/5476/headshot/100x100.png)](https://www.fantasypros.com/nba/players/gui-santos.php)
 F - GSW
 [» Rankings](https://www.fantasypros.com/nba/players/gui-santos.php)  
@@ -231,62 +287,6 @@ Franz Wagner scored 26 points (8-18 FG, 2-7 3PT, 8-9 FT) to go with 11 assists a
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Desmond Bane](https://images.fantasypros.com/images/players/nba/5269/headshot/100x100.png)](https://www.fantasypros.com/nba/players/desmond-bane.php)
-G - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/desmond-bane.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/desmond-bane.php)  
-[» More News](https://www.fantasypros.com/nba/news/desmond-bane.php)
-[Desmond Bane leads Magic with 28 points in Friday's win](https://www.fantasypros.com/nba/news/616776/desmond-bane-leads-magic-with-28-points-fridays-win.php)  
-
-Sat, Oct 31st 10:01am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Desmond Bane put up 28 points (8-18 FG, 6-12 3PT, 6-6 FT) and dished out six assists in Friday's 121-114 win over the Raptors. 
-**_Fantasy Impact:_** Bane had an inconsistent start to the season, as the Magic dropped three of their first four games. He locked in Friday, leading the squad to a bounce-back victory over a Raptors team that had dropped them by 30 just two nights before. This is the type of shooting efficiency fantasy managers expect from Bane, and this could be a sign that he's ready to get on track. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Anthony Black](https://images.fantasypros.com/images/players/nba/5973/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-black.php)
-G - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/anthony-black.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/anthony-black.php)  
-[» More News](https://www.fantasypros.com/nba/news/anthony-black.php)
-[Anthony Black turns in double-double in Friday's win](https://www.fantasypros.com/nba/news/616775/anthony-black-turns-double-double-fridays-win.php)  
-
-Sat, Oct 31st 9:54am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Anthony Black finished with 17 points (5-8 FG, 3-4 3PT, 4-6 FT), 10 assists, and six rebounds in Friday's 121-114 win over the Raptors. 
-**_Fantasy Impact:_** Black did very little in Wednesday's 30-point loss to the Raptors. A couple of nights later, he put up an excellent effort in the rematch. Black did not play in the first two games of the season, but he's made significant contributions in two of the three since. In that brief span, the fourth-year guard has averaged 14.3 points and 5.3 assists while knocking down 8-of-14 shots from beyond the arc. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jakob Poeltl](https://images.fantasypros.com/images/players/nba/3172/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jakob-poeltl.php)
-C - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/jakob-poeltl.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jakob-poeltl.php)  
-[» More News](https://www.fantasypros.com/nba/news/jakob-poeltl.php)
-[Jakob Poeltl delivers double-double in Friday's loss](https://www.fantasypros.com/nba/news/616774/jakob-poeltl-delivers-double-double-fridays-loss.php)  
-
-Sat, Oct 31st 9:49am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Jakob Poeltl finished with 12 points (5-10 FG, 2-2 FT), 11 rebounds, three assists, and one steal in Friday's 121-114 loss to the Magic. 
-**_Fantasy Impact:_** After doing very little in just 10 minutes in Wednesday's game, Poeltl put up his first double-double of the season Friday night. The veteran 7-footer's minutes will fluctuate, but when given ample court time, he can be a solid source of rebounds and field-goal percentage with some points and blocks sprinkled in. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
-[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
-[Scottie Barnes explodes for 41 points Friday night](https://www.fantasypros.com/nba/news/616773/scottie-barnes-explodes-41-points-friday-night.php)  
-
-Sat, Oct 31st 9:43am EDT  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Scottie Barnes finished with 41 points (19-34 FG, 1-2 3PT, 2-3 FT), five rebounds, five assists, and two steals in Friday's 121-114 loss to the Magic. 
-**_Fantasy Impact:_** Barnes has had plenty of great games in his career, but the two-time All-Star put up a new personal best in points Friday night, reaching 40 for the first time. Barnes is off to an excellent start this season, averaging 24.0 points, 6.8 rebounds, 4.4 assists, 2.2 steals, and 1.0 block through five games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=828_1793480456470&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979b979e9d96989c989d66uokewi0e0y626g626m6k60646i646k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979b979e9d96989c989d66uokewi0e0y626g626m6k60646i646k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 17:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 31
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Oct. 31 NBA slate.
@@ -37,6 +37,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
+Available to play
+NBA
+Philadelphia 76ers
   * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
 [Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
 Ruled out for Sunday
@@ -57,14 +62,13 @@ New England Patriots
 Won't play against Miami
 NFL
 New England Patriots
-  * ![Indianapolis Colts](https://assets.rotowire.com/images/teamlogo/football/IND.svg?v=12)
-[Jonathan Taylor](https://www.rotowire.com/football/player/jonathan-taylor-14455)
-Trade talks heating up
-NFL
-Indianapolis Colts
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Emilio Pagan](https://www.rotowire.com/baseball/player/emilio-pagan-14747)
+Declines player option
+MLB
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
 [Jakob Junis](https://www.rotowire.com/baseball/player/jakob-junis-14512)
 Mutual option declined
@@ -82,14 +86,14 @@ Texas Rangers
 [Michael Soroka](https://www.rotowire.com/baseball/player/michael-soroka-13863)
 Declines mutual option
 MLB
-  * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
-[Nicolo Pinazzi](https://www.rotowire.com/baseball/player/nicolo-pinazzi-17096)
-Nabs 40-man spot
-MLB
-Los Angeles Angels
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
+Available to play
+NBA
+Philadelphia 76ers
   * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
 [Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
 Ruled out for Sunday
@@ -100,21 +104,16 @@ Golden State Warriors
 Won't play Saturday
 NBA
 Philadelphia 76ers
-  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)
-Questionable for Sunday
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
+Ruled out Saturday
 NBA
-Boston Celtics
-  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)
-Won't play Sunday
+New Orleans Pelicans
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)
+Ruled out for Sunday
 NBA
-Golden State Warriors
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)
-Dealing with migraine, iffy for Saturday
-NBA
-San Antonio Spurs
+Indiana Pacers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -151,6 +150,11 @@ Seattle Seahawks
 Won't play Saturday
 NHL
 Los Angeles Kings
+  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
+[Matt Tomkins](https://www.rotowire.com/hockey/player/matt-tomkins-6188)
+Expected starter for Sunday
+NHL
+Edmonton Oilers
   * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
 [Troy Terry](https://www.rotowire.com/hockey/player/troy-terry-5581)
 Closing in on return
@@ -166,11 +170,6 @@ Los Angeles Kings
 Defending crease Saturday
 NHL
 Buffalo Sabres
-  * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
-[Laurent Brossoit](https://www.rotowire.com/hockey/player/laurent-brossoit-4334)
-Starting Sunday
-NHL
-Anaheim Ducks
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

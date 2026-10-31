@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 17:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,66 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)[Starting versus Charlotte](https://www.rotowire.com/basketball/headlines/adem-bona-news-starting-versus-charlotte-536992)
+**C** Philadelphia 76ers
+October 31, 2026
+Bona will [start](https://x.com/sixers/status/2116644332791124372?a=LoJIKiNSxjb1ysJoCDo&s=20) in Saturday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Upgraded to available Saturday](https://www.rotowire.com/basketball/headlines/jabari-walker-news-upgraded-to-available-saturday-536991)
+**F** Philadelphia 76ers
+October 31, 2026
+Walker (knee) is available for Saturday's game versus the Hornets, [Chris Hine of The Philly Inquirer](https://x.com/ChristopherHine/status/2116642413548601742?a=AL-Ib4MOcjID7NW6OCw&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Tacko Fall](https://www.rotowire.com/basketball/player/tacko-fall-4855)[Available to play](https://www.rotowire.com/basketball/headlines/tacko-fall-news-available-to-play-536990)
+**C** Philadelphia 76ers
+October 31, 2026
+Fall (quadriceps) is available for Saturday's game against the Hornets, [Chris Hine of The Philly Inquirer](https://x.com/ChristopherHine/status/2116642413548601742) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Ruled out Saturday](https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-ruled-out-saturday-536989)
+**G** New Orleans Pelicans
+Personal
+October 31, 2026
+Murray (personal) won't play in Saturday's game against the Hawks, [Jim Eichenhofer of the Pelicans' official site](https://x.com/Jim_Eichenhofer/status/2116641041386475719?a=lEZJRBFVOxEXO2WlSpY&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Available to play](https://www.rotowire.com/basketball/headlines/jaylen-brown-news-available-to-play-536988)
+**F** Philadelphia 76ers
+October 31, 2026
+Brown (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_05_15PM.pdf) for Saturday's game in Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-ruled-out-for-sunday-536987)
+**C** Indiana Pacers
+Ankle
+October 31, 2026
+Zubac (ankle) will remain on the [inactive list](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_05_00PM.pdf) for Sunday's game against the Nets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Probable versus Nets](https://www.rotowire.com/basketball/headlines/aaron-nesmith-injury-probable-versus-nets-536986)
+**F** Indiana Pacers
+Hamstring
+October 31, 2026
+Nesmith (hamstring) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_05_00PM.pdf) for Sunday's game against Brooklyn.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-sunday-536985)
+**F** Indiana Pacers
+Back
+October 31, 2026
+Toppin (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_05_00PM.pdf) for Sunday's game against the Nets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
 [Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-536984)
 **G** Brooklyn Nets
@@ -140,66 +200,6 @@ Sengun (back) has been removed from the [injury report](https://ak-static.cms.nb
 Knee
 October 31, 2026
 Walker (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) for Saturday's game in Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/lebron-james-injury-wont-play-saturday-536966)
-**F** Philadelphia 76ers
-Back
-October 31, 2026
-James (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) for Saturday's meeting in Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Tacko Fall](https://www.rotowire.com/basketball/player/tacko-fall-4855)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/tacko-fall-injury-questionable-for-saturday-536965)
-**C** Philadelphia 76ers
-Quadriceps
-October 31, 2026
-Fall (quad) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) to face the Hornets on Saturday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-ruled-out-for-saturday-536964)
-**C** Philadelphia 76ers
-Foot
-October 31, 2026
-Embiid (foot) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) for Saturday's game in Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-questionable-for-saturday-536963)
-**F** Philadelphia 76ers
-Knee
-October 31, 2026
-Brown (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_01_00PM.pdf) for Saturday's game in Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Julius Randle](https://www.rotowire.com/basketball/player/julius-randle-3574)[Turnover woes continue Friday](https://www.rotowire.com/basketball/headlines/julius-randle-news-turnover-woes-continue-friday-536962)
-**F** Brooklyn Nets
-October 31, 2026
-Randle ended with 15 points (4-13 FG, 3-6 3Pt, 4-4 FT), eight rebounds and three assists over 25 minutes in Friday's 110-94 loss to Detroit.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
-[Ochai Agbaji](https://www.rotowire.com/basketball/player/ochai-agbaji-5683)[No longer bound for OKC](https://www.rotowire.com/basketball/headlines/ochai-agbaji-news-no-longer-bound-for-okc-536961)
-**F** Free Agent
-October 31, 2026
-The Thunder are no longer signing Agbaji to a contract, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2116557852483678648?a=571LhESjQy8rgNIskDY&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Shooting struggles in loss](https://www.rotowire.com/basketball/headlines/mikel-brown-news-shooting-struggles-in-loss-536960)
-**G** Brooklyn Nets
-October 31, 2026
-Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one steal across 23 minutes in Friday's 110-94 loss to the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Ronald Holland](https://www.rotowire.com/basketball/player/ronald-holland-5939)[Strong two-way showing Friday](https://www.rotowire.com/basketball/headlines/ronald-holland-news-strong-two-way-showing-friday-536959)
-**F** Detroit Pistons
-October 31, 2026
-Holland finished with 18 points (6-10 FG, 2-5 3Pt, 4-7 FT), three rebounds, two assists, four steals and one block across 22 minutes in Friday's 110-94 victory over the Nets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
