@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-10-31 | updated 2026-10-31 15:13 ET
+# NBA transcripts | 2026-10-31 | updated 2026-10-31 17:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 7 files in NBA/transcripts/2026-10-31:
 NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt
@@ -8,17 +8,15 @@ NBA/transcripts/2026-10-31/BYQyJ94vIsQ_LockedOnNBA_Tyrese_Maxey_Playing_At_All_N
 NBA/transcripts/2026-10-31/Lp4M97pOtH0_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_31st.txt
 NBA/transcripts/2026-10-31/x0YCsg-F4eU_PickDawgz_NBA_Picks_Saturday_10_31_26_Jay_s_NBA_Jam_Session.txt
 NBA/transcripts/2026-10-31/yWBQXL8YotM_PickDawgz_NBA_Picks_Today_10_31_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-11-01
 
 # this run:
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-01/I0r8f5ZWgfI_WagerTalk_Celtics_vs_Magic_Clippers_vs_Warriors_BEST_Bets_Sunday_NBA_Picks_and_P.txt  (1,788 words)
-NEW     NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt  (2,152 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
+NOCAPS  ShipItNation XtOz86E_BkI NBA DFS Process | October 31, 2026 | DraftKings & FanDuel Pi  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
@@ -36,6 +34,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-31/yWBQXL8YotM_PickDawgz_NBA_Picks_Today_10_31_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt  (2,923 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
