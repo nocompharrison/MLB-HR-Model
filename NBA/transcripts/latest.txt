@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-10-31 | updated 2026-10-31 18:36 ET
+# NBA transcripts | 2026-10-31 | updated 2026-10-31 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 8 files in NBA/transcripts/2026-10-31:
 NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt
@@ -20,7 +20,7 @@ NONE    channel RotoGrinders: nothing new in the date window (or everything alre
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NOCAPS  Stokastic OdreNd_LKVM NBA DFS Live Before Lock (Saturday 10/31/26) | DraftKings &   (no captions; Groq failed: DownloadError: ERROR: unable to download video data: HTTP Error 403: Forbidden)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
 UPCOMING LockedOnNBA ZvEMyddniEw SPURS POSTCAST: Wembanyama, San Antonio Eye Fourth-Straight   (not aired yet - scheduled for 10/31/26 10:45PM)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
