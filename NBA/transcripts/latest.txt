@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-10-31 | updated 2026-10-31 18:06 ET
+# NBA transcripts | 2026-10-31 | updated 2026-10-31 18:36 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 8 files in NBA/transcripts/2026-10-31:
 NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt
@@ -17,7 +17,7 @@ NONE    channel SGPNPropcast: nothing new in the date window (or everything alre
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-10-31/XtOz86E_BkI_ShipItNation_NBA_DFS_Process_October_31_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt  (2,263 words)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
@@ -37,4 +37,3 @@ NONE    channel FantasyAlarm: nothing new in the date window (or everything alre
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
