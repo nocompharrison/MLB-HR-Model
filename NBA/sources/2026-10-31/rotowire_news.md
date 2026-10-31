@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 15:18 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-10-31 17:06 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,20 +12,52 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/mikel-brown-injury-wont-play-sunday-536984)
+**G** Brooklyn Nets
+Rest
+October 31, 2026
+Brown (rest) is out for Sunday's game in Indiana.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-questionable-for-sunday-536983)
+**C** Boston Celtics
+Rest
+October 31, 2026
+Robinson (rest) is questionable for Sunday's game in Orlando, [Jay King of The Athletic](https://x.com/ByJayKing/status/2116628219965104204) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Gui Santos](https://www.rotowire.com/basketball/player/gui-santos-5738)[Probable for Sunday](https://www.rotowire.com/basketball/headlines/gui-santos-injury-probable-for-sunday-536982)
+**F** Golden State Warriors
+Knee
+October 31, 2026
+Santos (knee) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_03_45PM.pdf) for Sunday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/draymond-green-injury-wont-play-sunday-536981)
+**C** Golden State Warriors
+Rest
+October 31, 2026
+Green (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_03_45PM.pdf) for Sunday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/stephen-curry-injury-ruled-out-for-sunday-536980)
+**G** Golden State Warriors
+Rest
+October 31, 2026
+Curry (rest) won't play Sunday against the Clippers, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116617621609267579?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
 [Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)[Dealing with migraine, iffy for Saturday](https://www.rotowire.com/basketball/headlines/stephon-castle-injury-dealing-with-migraine-iffy-for-saturday-536979)
 **G** San Antonio Spurs
 Head
 October 31, 2026
 Castle (migraine) is questionable for Saturday's game against the Timberwolves, [Paul Garcia of ProjectSpurs.com](https://x.com/PaulGarciaNBA/status/2116606709259219135) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/stephon-castle-injury-questionable-for-saturday-536978)
-**G** San Antonio Spurs
-Head
-October 31, 2026
-Castle is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-31_03_00PM.pdf) for Saturday's game against the Timberwolves due to a migraine.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
@@ -157,7 +189,7 @@ The Thunder are no longer signing Agbaji to a contract, [Shams Charania of ESPN]
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Struggles shooting in loss](https://www.rotowire.com/basketball/headlines/mikel-brown-news-struggles-shooting-in-loss-536960)
+[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Shooting struggles in loss](https://www.rotowire.com/basketball/headlines/mikel-brown-news-shooting-struggles-in-loss-536960)
 **G** Brooklyn Nets
 October 31, 2026
 Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one steal across 23 minutes in Friday's 110-94 loss to the Pistons.
@@ -168,34 +200,6 @@ Brown finished with 10 points (2-9 FG, 0-4 3Pt, 6-8 FT), four assists and one st
 **F** Detroit Pistons
 October 31, 2026
 Holland finished with 18 points (6-10 FG, 2-5 3Pt, 4-7 FT), three rebounds, two assists, four steals and one block across 22 minutes in Friday's 110-94 victory over the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)[Scores 17 points in win Friday](https://www.rotowire.com/basketball/headlines/duncan-robinson-news-scores-17-points-in-win-friday-536958)
-**F** Detroit Pistons
-October 31, 2026
-Robinson finished with 17 points (5-11 FG, 2-7 3Pt, 5-5 FT), four rebounds, two assists and three steals across 26 minutes in Friday's 110-94 victory over the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[VJ Edgecombe](https://www.rotowire.com/basketball/player/vj-edgecombe-6550)[Grabs eight boards Friday](https://www.rotowire.com/basketball/headlines/vj-edgecombe-news-grabs-eight-boards-friday-536957)
-**G** Philadelphia 76ers
-October 31, 2026
-Edgecombe closed Friday's 98-93 win over New York with 13 points (6-10 FG, 1-4 3Pt), eight rebounds and two assists across 36 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)[Scores 20 points in win](https://www.rotowire.com/basketball/headlines/cade-cunningham-news-scores-20-points-in-win-536956)
-**G** Detroit Pistons
-October 31, 2026
-Cunningham finished with 20 points (6-15 FG, 1-6 3Pt, 7-7 FT), five rebounds, four assists and one block across 28 minutes in Friday's 110-94 win over Brooklyn.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Mikal Bridges](https://www.rotowire.com/basketball/player/mikal-bridges-4386)[Logs three steals in Friday's loss](https://www.rotowire.com/basketball/headlines/mikal-bridges-news-logs-three-steals-in-fridays-loss-536955)
-**F** New York Knicks
-October 31, 2026
-Bridges finished with 12 points (5-8 FG, 2-4 3Pt), five rebounds, two assists and three steals across 30 minutes during Friday's 98-93 loss to the 76ers.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

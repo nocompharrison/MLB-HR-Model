@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 15:18 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-10-31 17:06 ET -->
 
 # NBA DFS Picks Today
 October 31, 2026
@@ -30,7 +30,7 @@ Castle (migraine) is questionable for Saturday's game against the Timberwolves, 
 Analysis
 Castle is a late addition to the injury report, so his status will be worth monitoring closely ahead of Saturday's 8:00 p.m. ET tipoff. Julian Champagnie and Keldon Johnson figure to be the top candidates to enter the Spurs' starting lineup if Castle is not cleared to play.
 San Antonio SpursMIN @ SAN - 8:00 PM ET
-**[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)** _G_ Q _Top_ 3:06 PM ET
+**[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)** _G_ Q3:06 PM ET
 #### Questionable for Saturday
 Castle is questionable for Saturday's game against the Timberwolves due to a migraine.
 Analysis
@@ -83,9 +83,9 @@ _Implied_**118.5** _Spread_**+4.5**
 | SF  | Trey Murphy  | $7,300  | 31.5  |  
 | SG  | Jeremiah Fears  | $5,600  | 28.3  |  
 **SAC @ MEM**
-O/U 230.58:00 PM ET
+O/U 229.58:00 PM ET
 KingsExpectedAway
-_Implied_**111.0** _Spread_**+8.5**  
+_Implied_**110.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,400  | 50.1  |  
@@ -94,7 +94,7 @@ _Implied_**111.0** _Spread_**+8.5**
 | SF  | De'Andre Hunter  | $5,800  | 22.7  |  
 | SG  | Zach LaVine  | $6,800  | 34.0  |  
 GrizzliesExpectedHome
-_Implied_**119.5** _Spread_**-8.5**  
+_Implied_**119.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Zach Edey  | $5,700  | 27.2  |  
@@ -110,7 +110,7 @@ _Implied_**122.5** _Spread_**-9.5**
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,100  | 32.0  |  
 | PF  | Evan Mobley  | $8,100  | 41.7  |  
-| PG  | James Harden  | $7,600  | 39.5  |  
+| PG  | James Harden  | $7,600  | 39.4  |  
 | SF  | Peyton Watson  | $5,700  | 28.4  |  
 | SG  | Donovan Mitchell  | $8,700  | 43.7  |  
 BucksExpectedHome
@@ -137,11 +137,11 @@ SpursExpectedHome
 _Implied_**120.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Victor Wembanyama  | $10,900  | 51.5  |  
+| C  | Victor Wembanyama  | $10,900  | 51.4  |  
 | PF  | Devin Vassell  | $5,800  | 26.4  |  
-| PG  | De'Aaron Fox  | $6,600  | 33.3  |  
-| SF  | Dylan Harper  | $6,500  | 32.6  |  
-| SG  | Stephon CastleQ  | $7,200  | 35.2  |  
+| PG  | De'Aaron Fox  | $6,600  | 33.2  |  
+| SF  | Dylan Harper  | $6,500  | 32.5  |  
+| SG  | Stephon CastleQ  | $7,200  | 35.1  |  
 **OKC @ HOU**
 O/U 219.58:30 PM ET
 ThunderExpectedAway
@@ -173,12 +173,12 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:00 PMMain - 4 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 33  | 34.6  | **6.42**  |  
+| 1  |  Jonathan KumingaMIN - PF  | @ SAS  | $5,400  | 33  | 34.6  | **6.40**  |  
 | 2  |  Myles TurnerMIL - C  | vs CLE  | $4,900  | 29  | 29.2  | **5.96**  |  
 | 3  |  Kyle KuzmaMIL - PF  | vs CLE  | $5,000  | 30  | 29.4  | **5.89**  |  
 | 4  |  Jaylin WilliamsOKC - PF  | @ HOU  | $4,500  | 25  | 25.7  | **5.71**  |  
-| 5  |  Onyeka OkongwuATL - C  | @ NOP  | $5,900  | 29  | 33.5  | **5.68**  |  
-| 6  |  Kasparas JakucionisMIL - PG  | vs CLE  | $4,100  | 25  | 23.3  | **5.67**  |  
+| 5  |  Kasparas JakucionisMIL - PG  | vs CLE  | $4,100  | 25  | 23.3  | **5.68**  |  
+| 6  |  Onyeka OkongwuATL - C  | @ NOP  | $5,900  | 29  | 33.5  | **5.68**  |  
 | 7  |  Kingston FlemingsATL - PG  | @ NOP  | $3,900  | 22  | 22.1  | **5.66**  |  
 | 8  |  Marcus SmartHOU - PG  | vs OKC  | $4,200  | 30  | 23.3  | **5.54**  |  
 | 9  |  Tari EasonHOU - SF  | vs OKC  | $5,500  | 30  | 30.2  | **5.50**  |  
@@ -210,11 +210,11 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling and for 
 | 2  |  Tari EasonHOU · SF/PF · OKC@HOU  | $5,500  | 10.1  | 30.2  | **56.9**  |   | 155%  | 10.4  | 56  |  
 | 3  |  Dejounte MurrayNOP · PG · ATL@NOP  | $7,800  | 14.2  | 37.5  | **68.0**  |   | 144%  | 8.7  | 56  |  
 | 4  |  Marcus SmartHOU · PG/SG · OKC@HOU  | $4,200  | 6.5  | 23.3  | **46.4**  |   | 171%  | 11.1  | 55  |  
-| 5  |  Ryan RollinsMIL · PG · CLE@MIL  | $6,000  | 11.5  | 31.5  | **58.6**  |   | 150%  | 9.8  | 55  |  
-| 6  |  Peyton WatsonCLE · SF/PF · CLE@MIL  | $5,700  | 9.0  | 28.4  | **54.4**  |   | 160%  | 9.5  | 55  |  
-| 7  |  Kasparas JakucionisMIL · PG · CLE@MIL  | $4,100  | 6.9  | 23.3  | **46.6**  |   | 171%  | 11.4  | 55  |  
+| 5  |  Ryan RollinsMIL · PG · CLE@MIL  | $6,000  | 11.5  | 31.5  | **58.7**  |   | 150%  | 9.8  | 55  |  
+| 6  |  Kasparas JakucionisMIL · PG · CLE@MIL  | $4,100  | 6.9  | 23.3  | **46.7**  |   | 171%  | 11.4  | 55  |  
+| 7  |  Peyton WatsonCLE · SF/PF · CLE@MIL  | $5,700  | 8.9  | 28.4  | **54.3**  |   | 160%  | 9.5  | 54  |  
 | 8  |  Derik QueenNOP · PF/C · ATL@NOP  | $6,400  | 11.2  | 30.9  | **57.8**  |   | 151%  | 9.0  | 54  |  
-| 9  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 3.6  | 15.8  | **34.4**  |   | 195%  | 9.8  | 54  |  
+| 9  |  Trey LylesMIN · PF/C · MIN@SAS  | $3,500  | 3.6  | 15.8  | **34.3**  |   | 195%  | 9.8  | 54  |  
 | 10  |  Kevin DurantHOU · SF · OKC@HOU  | $7,900  | 14.6  | 38.3  | **68.2**  |   | 140%  | 8.6  | 53  |  
 | 11  |  Myles TurnerMIL · C · CLE@MIL  | $4,900  | 10.0  | 29.2  | **55.3**  |   | 155%  | 11.3  | 53  |  
 | 12  |  Trey MurphyNOP · SG/SF · ATL@NOP  | $7,300  | 11.3  | 31.5  | **58.4**  |   | 149%  | 8.0  | 53  |  

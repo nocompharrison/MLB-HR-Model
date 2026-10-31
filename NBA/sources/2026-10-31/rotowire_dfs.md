@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 15:18 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-oct-31-144783 | fetched: 2026-10-31 17:06 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Oct. 31
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Oct. 31 NBA slate.
@@ -37,6 +37,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
+Ruled out for Sunday
+NBA
+Golden State Warriors
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
 Won't play Saturday
@@ -57,11 +62,6 @@ New England Patriots
 Trade talks heating up
 NFL
 Indianapolis Colts
-  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
-[Adrian Kempe](https://www.rotowire.com/hockey/player/adrian-kempe-4411)
-Won't play Saturday
-NHL
-Los Angeles Kings
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -90,31 +90,31 @@ Los Angeles Angels
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)
+Ruled out for Sunday
+NBA
+Golden State Warriors
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
 Won't play Saturday
 NBA
 Philadelphia 76ers
-  * ![Utah Jazz](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)
-Will play Saturday
+  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)
+Questionable for Sunday
 NBA
-Utah Jazz
-  * ![Minnesota Timberwolves](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Rudy Gobert](https://www.rotowire.com/basketball/player/rudy-gobert-3440)
-Nursing back spasms
+Boston Celtics
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)
+Won't play Sunday
 NBA
-Minnesota Timberwolves
-  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Robert Williams](https://www.rotowire.com/basketball/player/robert-williams-4382)
-Available to play
+Golden State Warriors
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Stephon Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250)
+Dealing with migraine, iffy for Saturday
 NBA
-Portland Trail Blazers
-  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Scoot Henderson](https://www.rotowire.com/basketball/player/scoot-henderson-5377)
-Starting Saturday
-NBA
-Portland Trail Blazers
+San Antonio Spurs
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -133,16 +133,16 @@ New England Patriots
 Trade talks heating up
 NFL
 Indianapolis Colts
-  * ![Chicago Bears](https://assets.rotowire.com/images/teamlogo/football/CHI.svg?v=12)
-[Kyle Monangai](https://www.rotowire.com/football/player/kyle-monangai-18520)
-Won't play against Seattle
+  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
+[Rashid Shaheed](https://www.rotowire.com/football/player/rashid-shaheed-16560)
+Ruled out for MNF
 NFL
-Chicago Bears
-  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
-[Carnell Tate](https://www.rotowire.com/football/player/carnell-tate-19268)
-Expected back after bye
+Seattle Seahawks
+  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
+[Jadarian Price](https://www.rotowire.com/football/player/jadarian-price-19299)
+No designation for Week 8
 NFL
-Tennessee Titans
+Seattle Seahawks
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -151,26 +151,26 @@ Tennessee Titans
 Won't play Saturday
 NHL
 Los Angeles Kings
-  * ![Calgary Flames](https://assets.rotowire.com/images/teamlogo/hockey/100CGY.png?v=5)
-[Arsenii Sergeev](https://www.rotowire.com/hockey/player/arsenii-sergeev-7353)
-Set to face Avalanche
+  * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
+[Troy Terry](https://www.rotowire.com/hockey/player/troy-terry-5581)
+Closing in on return
 NHL
-Calgary Flames
-  * ![Columbus Blue Jackets](https://assets.rotowire.com/images/teamlogo/hockey/100CBJ.png?v=5)
-[Ivan Provorov](https://www.rotowire.com/hockey/player/ivan-provorov-4779)
-Good to return
+Anaheim Ducks
+  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
+[Anton Forsberg](https://www.rotowire.com/hockey/player/anton-forsberg-4051)
+Slated starter Saturday
 NHL
-Columbus Blue Jackets
-  * ![Ottawa Senators](https://assets.rotowire.com/images/teamlogo/hockey/100OTT.png?v=5)
-[Samuel Ersson](https://www.rotowire.com/hockey/player/samuel-ersson-5935)
-Slated to face San Jose
+Los Angeles Kings
+  * ![Buffalo Sabres](https://assets.rotowire.com/images/teamlogo/hockey/100BUF.png?v=5)
+[Ukko-Pekka Luukkonen](https://www.rotowire.com/hockey/player/ukko-pekka-luukkonen-5516)
+Defending crease Saturday
 NHL
-Ottawa Senators
-  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
-[Mackenzie Blackwood](https://www.rotowire.com/hockey/player/mackenzie-blackwood-4804)
-Patrolling home net
+Buffalo Sabres
+  * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
+[Laurent Brossoit](https://www.rotowire.com/hockey/player/laurent-brossoit-4334)
+Starting Sunday
 NHL
-Colorado Avalanche
+Anaheim Ducks
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
