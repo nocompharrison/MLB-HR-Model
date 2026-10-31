@@ -1,10 +1,10 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-31 12:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-10-31 15:18 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
 
-Published Time: Sat, 31 Oct 2026 16:01:24 GMT
+Published Time: Sat, 31 Oct 2026 19:16:24 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
@@ -83,7 +83,7 @@ Skip to main content Skip to navigation
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Egor Demin](https://www.espn.com/nba/player/_/id/5175643/egor-demin) | G | Nov 7 | Out | Oct 29: The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday. |
-| [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Nov 1 | Out | Oct 25: Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. |
+| [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Nov 6 | Out | Oct 25: Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. |
 
 ![Image 8: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)Charlotte Hornets
 
@@ -144,8 +144,8 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Fred VanVleet](https://www.espn.com/nba/player/_/id/2991230/fred-vanvleet) | G | Nov 2 | Out | Oct 31: VanVleet notched 24 points (7-14 FG, 4-9 3Pt, 6-6 FT), six rebounds, five assists and two steals across 29 minutes in Wednesday's 132-100 win over the Bucks. |
 | [Reed Sheppard](https://www.espn.com/nba/player/_/id/4711272/reed-sheppard) | G | Oct 31 | Day-To-Day | Oct 31: Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com. |
-| [Alperen Sengun](https://www.espn.com/nba/player/_/id/4871144/alperen-sengun) | C | Oct 31 | Day-To-Day | Oct 31: Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports. |
 | [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Nov 2 | Out | Oct 26: Head coach Ime Udoka said Monday that Adams could be out "a week or two" due to his right soleus strain, Lachard Binkley of SI.com reports. |
 
 ![Image 16: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3)Indiana Pacers
@@ -229,11 +229,11 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [LeBron James](https://www.espn.com/nba/player/_/id/1966/lebron-james) | F | Oct 31 | Day-To-Day | Oct 31: James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks and one steal in 33 minutes during Wednesday's 114-109 win over the Pacers. |
-| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Oct 31 | Day-To-Day | Oct 31: Embiid closed Wednesday's 114-109 win over the Pacers with 21 points (9-17 FG, 0-3 3Pt, 3-3 FT), 11 rebounds, two assists and one block across 39 minutes. |
-| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Oct 31 | Day-To-Day | Oct 31: Brown (knee) is out for Friday's game against the Knicks. |
-| [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 31 | Out | Oct 29: Walker (knee) has been ruled out for Friday's game versus New York. |
-| [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Nov 4 | Out | Oct 27: Fall (quadriceps) is out for Wednesday's game in Indiana. |
+| [Jabari Walker](https://www.espn.com/nba/player/_/id/4432446/jabari-walker) | F | Oct 31 | Out | Oct 31: Walker (knee) is questionable for Saturday's game in Charlotte. |
+| [LeBron James](https://www.espn.com/nba/player/_/id/1966/lebron-james) | F | Nov 2 | Out | Oct 31: James (back) has been ruled out for Saturday's meeting in Charlotte. |
+| [Tacko Fall](https://www.espn.com/nba/player/_/id/3904625/tacko-fall) | C | Oct 31 | Out | Oct 31: Fall (quad) is questionable to face the Hornets on Saturday. |
+| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 2 | Out | Oct 31: Embiid (foot) is out for Saturday's game in Charlotte. |
+| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Oct 31 | Day-To-Day | Oct 31: Brown (knee) is questionable for Saturday's game in Charlotte. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 4 | Out | Oct 19: Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
@@ -296,11 +296,11 @@ Data Provided by Rotowire
 
 ### NBA News
 
-[![Image 33: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## Los Angeles faces Golden State, looks to break 4-game skid Los Angeles Clippers (1-4, 14th in the Western Conference) vs. Golden State Warriors (3-3, 10th in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909905)
+[![Image 33: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## LeBron James, Joel Embiid both out for 76ers vs. Hornets LeBron James and Joel Embiid are out for the Sixers on Saturday in the second game of a back-to-back. It's the first time Philly is without both players at the same time. * 1h * Kris Rhim](https://www.espn.com/nba/story/_/id/50337638/lebron-james-joel-embiid-76ers-vs-hornets)
 
-[![Image 34: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## Los Angeles hosts Toronto after Barnes' 41-point outing Toronto Raptors (3-2, fourth in the Eastern Conference) vs. Los Angeles Lakers (4-2, fifth in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909906)
+[![Image 34: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## Lakers' Jeanie Buss accuses siblings of 'cloak and dagger' tactics Jeanie Buss accused her siblings of conspiring against her in court filings responding to her siblings' ongoing effort to sell their shares in the Lakers. * 38m * Baxter Holmes](https://www.espn.com/nba/story/_/id/50337158/lakers-jeanie-buss-accuses-siblings-cloak-dagger-tactics)
 
-[![Image 35: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## Houston and Oklahoma City meet for conference showdown Oklahoma City Thunder (4-1, third in the Western Conference) vs. Houston Rockets (5-1, second in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909902)
+[![Image 35: ESPN](blob:http://localhost/b9a31d3949b1882a09ed2f8508d538f3) ## Sources: Thunder no longer signing Ochai Agbaji following Chet Holmgren injury The Thunder are no longer signing free agent Ochai Agbaji as the franchise takes a step back to reevaluate its open roster spot after losing Chet Holmgren for two-plus months, sources told ESPN's Shams Charania. * 2h * Tim MacMahon](https://www.espn.com/nba/story/_/id/50336717/sources-thunder-no-longer-signing-ochai-agbaji)
 
 [All NBA News](https://www.espn.com/nba/)
 

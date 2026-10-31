@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 12:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-10-31 15:18 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
+C - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/joel-embiid.php)  
+[» More News](https://www.fantasypros.com/nba/news/joel-embiid.php)
+[Joel Embiid (foot) ruled out Saturday](https://www.fantasypros.com/nba/news/616784/joel-embiid-foot-ruled-out-saturday.php)  
+
+Sat, Oct 31st 1:24pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Joel Embiid (foot) has been ruled out for Saturday’s contest between the Philadelphia 76ers and Charlotte Hornets Saturday according to Adam Aaronson. (Source: [Adam Aaronson on Twitter ](https://x.com/sixersadam/status/2116576087727636820?a=FjkqX0nPtUdXjtVYrgk&s=46))
+**_Fantasy Impact:_** Embiid will take a seat on the bench for the second contest in a back-to-back for head coach Nick Nurse, with Adem Bona in line to start against the Hornets.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lebron-james.php)  
+[» More News](https://www.fantasypros.com/nba/news/lebron-james.php)
+[LeBron James (back) ruled out Saturday](https://www.fantasypros.com/nba/news/616783/lebron-james-back-ruled-out-saturday.php)  
+
+Sat, Oct 31st 1:20pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+LeBron James (back) has been ruled out for Saturday’s contest between the Philadelphia 76ers and Charlotte Hornets according to Adam Aaronson. (Source: [Adam Aaronson on Twitter](https://x.com/sixersadam/status/2116576087727636820?a=FjkqX0nPtUdXjtVYrgk&s=46))
+**_Fantasy Impact:_** James will sit out the second contest of a back-to-back for head coach Nick Nurse, with Dean Wade and Justin Edwards in line for increased minutes against the Hornets.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alperen Sengun](https://images.fantasypros.com/images/players/nba/5384/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)
+C - HOU
+[» Rankings](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alperen-sengun-c.php)  
+[» More News](https://www.fantasypros.com/nba/news/alperen-sengun-c.php)
+[Alperen Sengun (back) returns to lineup Saturday](https://www.fantasypros.com/nba/news/616782/alperen-sengun-back-returns-to-lineup-saturday.php)  
+
+Sat, Oct 31st 1:16pm EDT  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Alperen Sengun (back) returns to the lineup for Saturday’s contest between the Houston Rockets and Oklahoma City Thunder according to Brandon Rahbar. (Source: [Brandon Rahbar on Twitter ](https://x.com/brandonrahbar/status/2116576921932955837?a=4FKnFl6LP-C7rfHLCjw&s=46))
+**_Fantasy Impact:_** Sengun will take the floor after missing the last two games due to a lingering back injury, boosting a Houston starting five that will look to take advantage of an injury-ravaged Thunder lineup Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Wendell Carter Jr.](https://images.fantasypros.com/images/players/nba/3472/headshot/100x100.png)](https://www.fantasypros.com/nba/players/wendell-carter.php)
 C - ORL
 [» Rankings](https://www.fantasypros.com/nba/players/wendell-carter.php)  
@@ -245,48 +287,6 @@ Simone Fontecchio is available for Friday's game against the Pacers.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
-C - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
-[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
-[Karl-Anthony Towns (wrist) available Friday ](https://www.fantasypros.com/nba/news/616735/karl-anthony-towns-wrist-available-friday.php)  
-
-Fri, Oct 30th 7:03pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Karl-Anthony Towns is available for Friday's game against the 76ers. 
-**_Fantasy Impact:_** Towns is good to go as expected after being listed as probable. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Scotty Pippen Jr.](https://images.fantasypros.com/images/players/nba/5553/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)
-G - MEM
-[» Rankings](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/scotty-pippen-jr-g.php)  
-[» More News](https://www.fantasypros.com/nba/news/scotty-pippen-jr-g.php)
-[Scotty Pippen Jr. (back) listed questionable Saturday ](https://www.fantasypros.com/nba/news/616734/scotty-pippen-jr-back-listed-questionable-saturday.php)  
-
-Fri, Oct 30th 7:03pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Scotty Pippen Jr. is listed as questionable for Saturday's game against the Kings. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_06_45PM.pdf))
-**_Fantasy Impact:_** Pippen and Ty Jerome are both listed as questionable heading into Saturday. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ty Jerome](https://images.fantasypros.com/images/players/nba/4513/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ty-jerome.php)
-G - MEM
-[» Rankings](https://www.fantasypros.com/nba/players/ty-jerome.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ty-jerome.php)  
-[» More News](https://www.fantasypros.com/nba/news/ty-jerome.php)
-[Ty Jerome (back) listed questionable Saturday ](https://www.fantasypros.com/nba/news/616733/ty-jerome-back-listed-questionable-saturday.php)  
-
-Fri, Oct 30th 7:02pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ty Jerome is listed as questionable for Saturday's game against the Kings. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-10-30_06_45PM.pdf))
-**_Fantasy Impact:_** Jerome will need to be monitored closer to tip-off on Saturday. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=493_1793462445153&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979b979e9d96989c989d66uokewi0e0y626g626m6k60646i646k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=482_1793474050794&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979b979e9d96989c989d66uokewi0e0y626g626m6k60646i646k)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
