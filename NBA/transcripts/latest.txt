@@ -1,11 +1,12 @@
-# NBA transcripts | 2026-10-31 | updated 2026-10-31 17:06 ET
+# NBA transcripts | 2026-10-31 | updated 2026-10-31 18:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 7 files in NBA/transcripts/2026-10-31:
+# 8 files in NBA/transcripts/2026-10-31:
 NBA/transcripts/2026-10-31/1TZEz4kZx4E_WagerTalk_HALLOWEEN_NBA_Picks_Kings_vs_Grizzlies_Timberwolves_vs_Spurs_NBA_Betti.txt
 NBA/transcripts/2026-10-31/297jffwGaP0_FantasyAces_5_0_Sweep_Best_NBA_Picks_Bets_for_Saturday_10_31.txt
 NBA/transcripts/2026-10-31/6BtMySLItZo_PickDawgz_NBA_Alternate_Line_Prediction_10_31_26_The_Extendo_Clip.txt
 NBA/transcripts/2026-10-31/BYQyJ94vIsQ_LockedOnNBA_Tyrese_Maxey_Playing_At_All_NBA_Level_As_76ers_Beat_Knicks_in_NAB_Cup.txt
 NBA/transcripts/2026-10-31/Lp4M97pOtH0_CallingOurShot_Saturday_s_NBA_Best_Picks_and_Predictions_for_October_31st.txt
+NBA/transcripts/2026-10-31/XtOz86E_BkI_ShipItNation_NBA_DFS_Process_October_31_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
 NBA/transcripts/2026-10-31/x0YCsg-F4eU_PickDawgz_NBA_Picks_Saturday_10_31_26_Jay_s_NBA_Jam_Session.txt
 NBA/transcripts/2026-10-31/yWBQXL8YotM_PickDawgz_NBA_Picks_Today_10_31_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt
 
@@ -16,7 +17,7 @@ NONE    channel SGPNPropcast: nothing new in the date window (or everything alre
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NOCAPS  ShipItNation XtOz86E_BkI NBA DFS Process | October 31, 2026 | DraftKings & FanDuel Pi  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-10-31/XtOz86E_BkI_ShipItNation_NBA_DFS_Process_October_31_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt  (2,263 words)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
@@ -36,3 +37,4 @@ NONE    channel FantasyAlarm: nothing new in the date window (or everything alre
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
