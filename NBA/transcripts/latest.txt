@@ -1,26 +1,33 @@
-# NBA transcripts | 2026-11-01 | updated 2026-11-01 11:06 ET
+# NBA transcripts | 2026-11-01 | updated 2026-11-01 16:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 1 files in NBA/transcripts/2026-11-01:
+# 6 files in NBA/transcripts/2026-11-01:
+NBA/transcripts/2026-11-01/7lY5ma0H78k_PickDawgz_NBA_Alternate_Line_Prediction_11_01_26_The_Extendo_Clip.txt
 NBA/transcripts/2026-11-01/I0r8f5ZWgfI_WagerTalk_Celtics_vs_Magic_Clippers_vs_Warriors_BEST_Bets_Sunday_NBA_Picks_and_P.txt
+NBA/transcripts/2026-11-01/MQif3_--d9k_JayMoney_My_Top_NBA_Picks_for_11_1_26_Don_t_Miss_Out.txt
+NBA/transcripts/2026-11-01/SQAcr66tPnM_LockedOnNBA_WEMBY_DOMINATES_Victor_Wembanyama_Crushes_Timberwolves_Memphis_Grizzli.txt
+NBA/transcripts/2026-11-01/biI7j70xdKA_PickDawgz_NBA_Picks_Sunday_11_1_26_Jay_s_NBA_Jam_Session.txt
+NBA/transcripts/2026-11-01/ieTPpaIH1FM_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_November_1st.txt
+# also filed this run under the slate their titles name: NBA/transcripts/2026-10-31
 
 # this run:
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+UPCOMING ActionNetwork HYQALi-jUzY Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/01/26 11:00PM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
-DEFER   RotoGrinders gSI1fYdYEJ0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (10/31/2  (YouTube rate limit - stopping transcript pulls this run)
+UPCOMING WagerTalk 3-mdNE_8mL4 NBA Picks Today LIVE: Best Bets & Predictions for 15 Games |  (not aired yet - scheduled for 11/02/26 1:45PM)
+UPCOMING WagerTalk p8ky4cCazEo NBA Picks Today LIVE: Best Bets & Predictions for 15 Games |  (not aired yet - scheduled for 11/02/26 1:45PM)
+NEW     NBA/transcripts/2026-10-31/gSI1fYdYEJ0_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_10_31_26.txt  (14,674 words)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-DEFER   Stokastic OdreNd_LKVM NBA DFS Live Before Lock (Saturday 10/31/26) | DraftKings &   (YouTube rate limit hit earlier this run)
+NEW     NBA/transcripts/2026-10-31/OdreNd_LKVM_Stokastic_NBA_DFS_Live_Before_Lock_Saturday_10_31_26_DraftKings_FanDuel_NBA_Line.txt  (10,257 words)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-DEFER   LockedOnNBA SQAcr66tPnM WEMBY DOMINATES: Victor Wembanyama Crushes Timberwolves | Me  (YouTube rate limit hit earlier this run)
-DEFER   LockedOnNBA ZvEMyddniEw SPURS POSTCAST: Wembanyama "THE WITCHER" Drops 43 in Win Ove  (YouTube rate limit hit earlier this run)
+NEW     NBA/transcripts/2026-11-01/SQAcr66tPnM_LockedOnNBA_WEMBY_DOMINATES_Victor_Wembanyama_Crushes_Timberwolves_Memphis_Grizzli.txt  (7,667 words)
+NEW     NBA/transcripts/2026-10-31/ZvEMyddniEw_LockedOnNBA_SPURS_POSTCAST_Wembanyama_THE_WITCHER_Drops_43_in_Win_Over_Timberwolve.txt  (3,620 words)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
-DEFER   CallingOurShot ieTPpaIH1FM Sunday's NBA Best Picks and Predictions for November 1st!  (YouTube rate limit hit earlier this run)
-DEFER   JayMoney MQif3_--d9k Sunday NBA Talk With Jay Money Is Money 10/31/26 NBA Picks  (YouTube rate limit hit earlier this run)
+NEW     NBA/transcripts/2026-11-01/ieTPpaIH1FM_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_November_1st.txt  (2,214 words)
+NEW     NBA/transcripts/2026-11-01/MQif3_--d9k_JayMoney_My_Top_NBA_Picks_for_11_1_26_Don_t_Miss_Out.txt  (3,828 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -29,7 +36,7 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz 7lY5ma0H78k NBA Alternate Line Prediction 11/01/26 | The Extendo Clip  (YouTube rate limit hit earlier this run)
-DEFER   PickDawgz U6DZwwfsCsk NBA Picks Today 11/1/26 - Best Sunday NBA Bets are ON DECK!  (YouTube rate limit hit earlier this run)
+NEW     NBA/transcripts/2026-11-01/biI7j70xdKA_PickDawgz_NBA_Picks_Sunday_11_1_26_Jay_s_NBA_Jam_Session.txt  (1,240 words)
+NEW     NBA/transcripts/2026-11-01/7lY5ma0H78k_PickDawgz_NBA_Alternate_Line_Prediction_11_01_26_The_Extendo_Clip.txt  (781 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
