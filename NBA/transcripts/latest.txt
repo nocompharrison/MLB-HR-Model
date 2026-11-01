@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-01 | updated 2026-11-01 18:35 ET
+# NBA transcripts | 2026-11-01 | updated 2026-11-01 18:53 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 7 files in NBA/transcripts/2026-11-01:
 NBA/transcripts/2026-11-01/7lY5ma0H78k_PickDawgz_NBA_Alternate_Line_Prediction_11_01_26_The_Extendo_Clip.txt
@@ -10,12 +10,11 @@ NBA/transcripts/2026-11-01/biI7j70xdKA_PickDawgz_NBA_Picks_Sunday_11_1_26_Jay_s_
 NBA/transcripts/2026-11-01/ieTPpaIH1FM_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_November_1st.txt
 
 # this run:
-UPCOMING ActionNetwork HYQALi-jUzY Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/01/26 11:00PM)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk 3-mdNE_8mL4 NBA Picks Today LIVE: Best Bets & Predictions for 15 Games |  (not aired yet - scheduled for 11/02/26 1:45PM)
-UPCOMING WagerTalk p8ky4cCazEo NBA Picks Today LIVE: Best Bets & Predictions for 15 Games |  (not aired yet - scheduled for 11/02/26 1:45PM)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
@@ -29,7 +28,7 @@ NONE    channel CallingOurShot: nothing new in the date window (or everything al
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine 1wfV6zROlIw Monday Night Football Picks + College Basketball Bets | Earl  (not aired yet - scheduled for 11/02/26 10:00AM)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
