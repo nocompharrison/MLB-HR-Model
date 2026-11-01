@@ -1,10 +1,10 @@
-<!-- source: https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/4/ | fetched: 2026-10-29 10:03 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/4/ | fetched: 2026-11-01 09:33 ET -->
 
 ![The Primer: Week 8 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_8_article_2026/716x316.jpg)
 [
-  * 1](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/1/)[
-  * 2](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/)[
-  * 3](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/)
+  * 1](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/1/)[
+  * 2](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/2/)[
+  * 3](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/3/)
   * 4
 
 
@@ -12,16 +12,16 @@
 
 ### **Philadelphia Eagles vs. Washington Commanders**
   * WAS -5.5, O/U 40.5
-  * [Philadelphia Eagles vs. Washington Commanders Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/philadelphia-eagles-vs-washington-commanders?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F10%2Fthe-primer-week-8-edition-2026-fantasy-football%2F4%2F)
+  * [Philadelphia Eagles vs. Washington Commanders Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/philadelphia-eagles-vs-washington-commanders?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F11%2Fthe-primer-week-8-edition-2026-fantasy-football%2F4%2F)
 
 
 **Eagles Players & Weekly Rankings**  
 | [Tanner McKee](https://www.fantasypros.com/nfl/players/tanner-mckee.php)  | QB  | QB2  |  
 | --- | --- | --- |  
-| [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php)  | RB  | TBD  |  
-| [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php)  | RB  | TBD  |  
-| [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php)  | WR  | TBD  |  
-| [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php)  | WR  | TBD  |  
+| [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php)  | RB  | RB3  |  
+| [Elijah Mitchell](https://www.fantasypros.com/nfl/players/elijah-mitchell-rb.php)  | RB  | RB4  |  
+| [DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php)  | WR  | Out  |  
+| [Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php)  | WR  | Out  |  
 | [Makai Lemon](https://www.fantasypros.com/nfl/players/makai-lemon.php)  | WR  | WR3/4  |  
 | [Darius Cooper](https://www.fantasypros.com/nfl/players/darius-cooper.php)  | WR  | WR5  |  
 | [Dallas Goedert](https://www.fantasypros.com/nfl/players/dallas-goedert.php)  | TE  | TE1  |  
@@ -54,23 +54,19 @@ Over the last two games, [Tanner McKee](https://www.fantasypros.com/nfl/players/
 **[Antonio Williams (WR)](https://www.fantasypros.com/nfl/players/antonio-williams.php)**
 [Antonio Williams](https://www.fantasypros.com/nfl/players/antonio-williams.php) will see an elevated role in the Washington passing attack with [Terry McLaurin](https://www.fantasypros.com/nfl/players/terry-mclaurin.php) out for the rest of the season. Since Week 4, Williams has had a 13.7% target share, 1.12 YPRR, two deep targets, and a 16.7% first-read share. Williams is a decent flex play this week. Over their last five games, Philly has allowed the 12th-most yards per target, the most receiving fantasy points per game, and the ninth-most fantasy points per opportunity to wide receivers.
 **[Makai Lemon (WR)](https://www.fantasypros.com/nfl/players/makai-lemon.php)**
-Well, it happened. [Makai Lemon](https://www.fantasypros.com/nfl/players/makai-lemon.php) had his best game of the season against a horrible Dallas secondary. Lemon was the WR13 for the week. Over the last two weeks, Lemon has had a 16.3% target share with 1.13 YPRR, one red zone target, and a 21.4% first-read share. Lemon offers some flex upside this week. Over their last five games, Washington has allowed the 13th-most fantasy points per opportunity to slot receivers while ranking 16th in yards per target allowed to the position.
+Well, it happened. [Makai Lemon](https://www.fantasypros.com/nfl/players/makai-lemon.php) had his best game of the season against a horrible Dallas secondary. Lemon was the WR13 for the week. Over the last two weeks, Lemon has had a 16.3% target share with 1.13 YPRR, one red zone target, and a 21.4% first-read share. Lemon offers some flex upside this week with DeVonta Smith and Dontayvion Wicks out. Over their last five games, Washington has allowed the 13th-most fantasy points per opportunity to slot receivers while ranking 16th in yards per target allowed to the position.
 **[Chig Okonkwo (TE)](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php)**
 In his last two games, before the bye week, [Chig Okonkwo](https://www.fantasypros.com/nfl/players/chigoziem-okonkwo.php) was the TE15 and TE11 in weekly scoring. In those games, he had a 72.6% route share, a 16.9% target share, 2.11 YPRR, one deep target, and a 23.4% first-read share. Okonkwo could post another TE1 stat line this week. He’s a strong streaming option. Over their last five games, Philly has allowed the 11th-most yards per target to tight ends while ranking 15th in fantasy points per opportunity allowed to the position. 
 **Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Saquon Barkley (RB)](https://www.fantasypros.com/nfl/players/saquon-barkley.php)**
-[Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) sustained a back injury last week. He opened this week with a DNP. I’ll update his outlook on Friday. He could easily miss this week.
-**[DeVonta Smith (WR)](https://www.fantasypros.com/nfl/players/devonta-smith.php)**
-[DeVonta Smith](https://www.fantasypros.com/nfl/players/devonta-smith.php) missed last week’s game with a hamstring injury. He opened this week with a DNP. I’m expecting him to miss this week, but I’ll update his outlook on Friday.
-**[Dontayvion Wicks (WR)](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) **
-[Dontayvion Wicks](https://www.fantasypros.com/nfl/players/dontayvion-wicks.php) missed last week’s game with an ankle injury. He opened this week with a DNP. I’ll update his outlook on Friday, but I’m expecting him to miss this week.
+Last week, Saquon Barkley finished as the RB20 for the week. This was impressive, as he had only nine touches that he turned into 71 total yards. He played only nine snaps while handling 28% of the rushing work and running two routes. Barkley can’t be expected to run this hot on this limited amount of playing time weekly, despite his 15% explosive run rate, 2.42 yards after contact per attempt, and 23% missed tackle rate. Washington’s run defense has also been strong. Over their last five games, Washington has allowed the sixth-lowest explosive run rate, the tenth-lowest yards after contact per attempt, and the ninth-lowest missed tackle rate.
 [CAR vs. GB](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/#car-gb) | [BAL vs. BUF](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/#bal-buf) | [TEN vs. CIN](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/#ten-cin) | [ARI vs. DAL](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/#ari-dal) | [MIN vs. DET](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/#min-det) | [LV vs. NYJ](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/#lv-nyj) | [CLE vs. PIT](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/#cle-pit) | [ATL vs. TB](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/#atl-tb) | [IND vs. JAC](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/) | [LAC vs. LAR](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/#lac-lar) | [KC vs. DEN](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/#kc-den) | [NE vs. MIA](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/#ne-mia) | [PHI vs. WAS](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/4/) | [CHI vs. SEA](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/4/#chi-sea)
 [![](https://cdn.fantasypros.com/wp-content/uploads/leaguebase_decade_leagues_primer.jpg)](http://leaguebase.com/primer)  
 
 ### **Chicago Bears vs. Seattle Seahawks**
   * SEA -3, O/U 46.5
-  * [Chicago Bears vs. Seattle Seahawks Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/chicago-bears-vs-seattle-seahawks?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F10%2Fthe-primer-week-8-edition-2026-fantasy-football%2F4%2F)
+  * [Chicago Bears vs. Seattle Seahawks Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/chicago-bears-vs-seattle-seahawks?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F11%2Fthe-primer-week-8-edition-2026-fantasy-football%2F4%2F)
 
 
 **Bears Players & Weekly Rankings**  
@@ -85,11 +81,12 @@ _Players in consideration for lineups, but temper your expectations this week._
 **Seahawks Players & Weekly Rankings**  
 | [Sam Darnold](https://www.fantasypros.com/nfl/players/sam-darnold.php)  | QB  | QB1/2  |  
 | --- | --- | --- |  
-| [Emanuel Wilson](https://www.fantasypros.com/nfl/players/emanuel-wilson.php)  | RB  | TBD  |  
-| [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php)  | RB  | TBD  |  
+| [Emanuel Wilson](https://www.fantasypros.com/nfl/players/emanuel-wilson.php)  | RB  | RB3/4  |  
+| [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php)  | RB  | RB3/4  |  
+| [Jadarian Price](https://www.fantasypros.com/nfl/players/jadarian-price.php)  | RB  | RB3/4  |  
 | [Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php)  | WR  | WR1  |  
 | [Cooper Kupp](https://www.fantasypros.com/nfl/players/cooper-kupp.php)  | WR  | WR5  |  
-| [Rashid Shaheed](https://www.fantasypros.com/nfl/players/rashid-shaheed.php)  | WR  | TBD  |  
+| [Rashid Shaheed](https://www.fantasypros.com/nfl/players/rashid-shaheed.php)  | WR  | Out  |  
 | [AJ Barner](https://www.fantasypros.com/nfl/players/aj-barner.php)  | TE  | TE2/3  |  
 **Must-Start**
 _These are no-brainer MUST starts._
@@ -107,7 +104,11 @@ _Let’s fill out those flex spots._
 **Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Emanuel Wilson (RB)](https://www.fantasypros.com/nfl/players/emanuel-wilson.php)**
-Last week, [Emanuel Wilson](https://www.fantasypros.com/nfl/players/emanuel-wilson.php) bounced back as the RB8 for the week. Wilson could easily lead the backfield again in touches this week, but we have to wait on [Zach Charbonnet](https://www.fantasypros.com/nfl/players/zach-charbonnet.php) news. I’ll update his outlook on Saturday.
+I don’t want to play anyone from the Seattle backfield this week. It’s not because it’s a bad matchup. Nope, not at all. It’s because this backfield is an unpredictable mess. Emanuel Wilson, Jadarian Price, and Zach Charbonnet will all likely see touches, and there’s no telling how any of that will be divided up this week. If you’re left flexing one of these backs, I get it, but if given the choice, I’m sitting all of them. They could all cannibalize each other this week. Over their last five games, Chicago has had the seventh-lowest stuff rate while allowing the eighth-highest explosive run rate and the 11th-most yards before contact per attempt.
+**[Zach Charbonnet (RB)](https://www.fantasypros.com/nfl/players/zach-charbonnet.php)**
+I don’t want to play anyone from the Seattle backfield this week. It’s not because it’s a bad matchup. Nope, not at all. It’s because this backfield is an unpredictable mess. Emanuel Wilson, Jadarian Price, and Zach Charbonnet will all likely see touches, and there’s no telling how any of that will be divided up this week. If you’re left flexing one of these backs, I get it, but if given the choice, I’m sitting all of them. They could all cannibalize each other this week. Over their last five games, Chicago has had the seventh-lowest stuff rate while allowing the eighth-highest explosive run rate and the 11th-most yards before contact per attempt.
+[**Jadarian Price (RB)**](https://www.fantasypros.com/nfl/players/jadarian-price.php)
+I don’t want to play anyone from the Seattle backfield this week. It’s not because it’s a bad matchup. Nope, not at all. It’s because this backfield is an unpredictable mess. Emanuel Wilson, Jadarian Price, and Zach Charbonnet will all likely see touches, and there’s no telling how any of that will be divided up this week. If you’re left flexing one of these backs, I get it, but if given the choice, I’m sitting all of them. They could all cannibalize each other this week. Over their last five games, Chicago has had the seventh-lowest stuff rate while allowing the eighth-highest explosive run rate and the 11th-most yards before contact per attempt.
 **[D’Andre Swift (RB)](https://www.fantasypros.com/nfl/players/dandre-swift.php)**
 [D’Andre Swift](https://www.fantasypros.com/nfl/players/dandre-swift.php) is the RB12 in fantasy points per game, averaging 19.7 touches and 89.7 total yards. Swift has had a 60.4% snap rate, 47.2% of the rushing work, a 38.8% route share, and a 10.4% target share. Among 42 qualifying rushers, Swift is 19th in yards after contact per attempt and seventh in missed tackle rate. He’ll have to lean on his volume and touchdown equity this week against an elite Seattle run defense. Over their last five games, Seattle has allowed the fourth-lowest explosive run rate, the second-lowest rushing success rate, and the fourth-fewest yards after contact per attempt.
 **[Luther Burden (WR)](https://www.fantasypros.com/nfl/players/luther-burden-iii.php)**
@@ -122,9 +123,9 @@ _*[Jaxon Smith-Njigba](https://www.fantasypros.com/nfl/players/jaxon-smith-njigb
 **Subscribe:****[YouTube](https://www.youtube.com/channel/UCZYaxEBdyKDsZfq_JGZwIeQ)****|****[Spotify](https://open.spotify.com/show/1YM5ymt3vWVfdHzVAEzq2w)****|****[Apple Podcasts](https://podcasts.apple.com/us/podcast/fantasypros-fantasy-football-podcast/id1138942145)****|****[iHeart](https://www.iheart.com/podcast/1119-fantasypros-fantasy-footb-28423591/)****|****[Castbox](https://castbox.fm/channel/FantasyPros---Fantasy-Football-Podcast-id5443624)****|****[Amazon Music](https://music.amazon.com/podcasts/e6bbcddf-27c7-452e-a449-abd62efbb836/fantasypros---fantasy-football-podcast)****|****[Podcast Addict](https://podcastaddict.com/podcast/fantasypros-fantasy-football-podcast/4474638)****|****[](https://player.fm/series/fantasypros-fantasy-football-podcast-1424138)****[TuneIn](https://tunein.com/podcasts/Sports--Recreation-Podcasts/FantasyPros---Fantasy-Football-Podcast-p909095/)**
 _*All data utilized in this article is courtesy of[Fantasy Points Data](https://www.fantasypoints.com/articles/1/fantasy-points-data-suite-2-0-a-powerful-nfl-research-tool)_ _unless otherwise specified.*_
 [
-  * 1](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/1/)[
-  * 2](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/2/)[
-  * 3](https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/3/)
+  * 1](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/1/)[
+  * 2](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/2/)[
+  * 3](https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/3/)
   * 4
 
 
@@ -134,7 +135,7 @@ Rate this article
 BoomBust
 [ ![](https://www.fantasypros.com/assets/images/google-icon-mono.svg) Add FantasyPros on Google ](https://www.google.com/preferences/source?q=fantasypros.com)
 ## More Articles
-[ ![Fantasy Football Start/Sit Lineup Advice: Tight Ends \(Week 8\)](https://cdn.fantasypros.com/wp-content/images/TJ_Hockenson_Vikings_5/265x117.jpg) Fantasy Football Start/Sit Lineup Advice: Tight Ends (Week 8) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 4 min read ](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-tight-ends-week-8-2026/) [ ![Fantasy Football Start/Sit Lineup Advice: Wide Receivers \(Week 8\)](https://cdn.fantasypros.com/wp-content/images/omar_cooper_jets_2-1/265x117.jpg) Fantasy Football Start/Sit Lineup Advice: Wide Receivers (Week 8) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 6 min read ](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-wide-receivers-week-8-2026/) [ ![Fantasy Football Start/Sit Lineup Advice: Running Backs \(Week 8\)](https://cdn.fantasypros.com/wp-content/images/jonah_coleman_broncos_3-1/265x117.jpg) Fantasy Football Start/Sit Lineup Advice: Running Backs (Week 8) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 5 min read ](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-running-backs-week-8-2026/) [ ![Fantasy Football Start/Sit Lineup Advice: Quarterbacks \(Week 8\)](https://cdn.fantasypros.com/wp-content/images/Jacoby_Brissett_cardinals_1-1/265x117.jpg) Fantasy Football Start/Sit Lineup Advice: Quarterbacks (Week 8) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 6 min read ](https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-quarterbacks-week-8-2026/)
+[ ![Fantasy Football: Last-Minute Advice for Week 8 \(2026\)](https://cdn.fantasypros.com/wp-content/images/jayden_daniels_commanders_13-1/265x117.jpg) Fantasy Football: Last-Minute Advice for Week 8 (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 2 min read ](https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-8-2026/) [ ![NFL DFS Values & Picks: Targets & Advice \(Week 8\)](https://cdn.fantasypros.com/wp-content/images/full_577796/265x117.jpg) NFL DFS Values & Picks: Targets & Advice (Week 8) ![fp-headshot](https://images.fantasypros.com/images/experts/john-hesterman-20230914.jpg) by **John Hesterman** | 5 min read ](https://www.fantasypros.com/2026/11/nfl-dfs-values-picks-targets-advice-week-8-2026/) [ ![Fantasy Football Week 8 Rankings From the Most Accurate Experts \(2026\)](https://cdn.fantasypros.com/wp-content/images/germie_bernard_steelers_2-1/265x117.jpg) Fantasy Football Week 8 Rankings From the Most Accurate Experts (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 3 min read ](https://www.fantasypros.com/2026/11/fantasy-football-week-8-rankings-from-the-most-accurate-experts-2026/) [ ![Is George Pickens Playing Week 8? Fantasy Football Injury Update](https://cdn.fantasypros.com/wp-content/images/george_pickens_cowboys_8-1/265x117.jpg) Is George Pickens Playing Week 8? Fantasy Football Injury Update ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 2 min read ](https://www.fantasypros.com/2026/11/is-george-pickens-playing-week-8-fantasy-football-injury-update-2026/)
 ## About Author
 ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/dbro_avatar.png)
 [Derek Brown ](https://www.fantasypros.com/news/correspondents/derek-brown.php)
@@ -148,5 +149,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ Week 8 Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-rb.php)[ Rest of Season Rankings ](https://www.fantasypros.com/nfl/rankings/ros-half-point-ppr-overall.php)[ Rest of Season Rankings ](https://www.fantasypros.com/nfl/rankings/ros-overall.php)[ Half-PPR Cheatsheet ](https://www.fantasypros.com/nfl/cheatsheets/half-ppr.php)[ Draft Half PPR RB Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-rb-cheatsheets.php)[ Half PPR Tight End Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-te-cheatsheets.php)[ Half PPR Wide Receiver Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-wr-cheatsheets.php)[ Individual Defensive Player Cheat Sheet Rankings ](https://www.fantasypros.com/nfl/rankings/idp.php)[ Kicker Rankings Cheat Sheet ](https://www.fantasypros.com/nfl/rankings/k.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659796989b9e969e979c9966uokewi0e0y6260646g6m606m626i66)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999f979c979a979f966666uokewi0e0y666o626i626e626o6000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
