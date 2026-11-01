@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-01 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-01 18:35 ET -->
 
 # NBA DFS Picks Today
 November 1, 2026
@@ -101,7 +101,7 @@ PacersConfirmedHome
 **LAC @ GSW**
 O/U 220.58:30 PM ET
 ClippersExpectedAway
-_Implied_**109.0** _Spread_**+2.5**  
+_Implied_**109.5** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Jackson  | $4,500  | 28.0  |  
@@ -110,7 +110,7 @@ _Implied_**109.0** _Spread_**+2.5**
 | SF  | Rui Hachimura  | $5,700  | 34.1  |  
 | SG  | Kris Dunn  | $4,900  | 26.0  |  
 WarriorsExpectedHome
-_Implied_**111.5** _Spread_**-2.5**  
+_Implied_**111.0** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Graham Ike  | $3,900  | 17.1  |  
@@ -222,5 +222,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65999f979c979a979f966666uokewi0e0y666o626i626e626o6000)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)
 
