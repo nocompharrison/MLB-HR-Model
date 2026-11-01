@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-01 | updated 2026-11-01 18:06 ET
+# NBA transcripts | 2026-11-01 | updated 2026-11-01 18:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 7 files in NBA/transcripts/2026-11-01:
 NBA/transcripts/2026-11-01/7lY5ma0H78k_PickDawgz_NBA_Alternate_Line_Prediction_11_01_26_The_Extendo_Clip.txt
@@ -29,12 +29,11 @@ NONE    channel CallingOurShot: nothing new in the date window (or everything al
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine 1wfV6zROlIw Monday Night Football Picks + College Basketball Bets | Earl  (not aired yet - scheduled for 11/02/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-01/U6DZwwfsCsk_PickDawgz_NBA_Picks_Today_11_1_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt  (1,647 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
