@@ -1,6 +1,6 @@
-# NFL transcripts | week 8 | updated 2026-11-01 06:49 ET
+# NFL transcripts | week 8 | updated 2026-11-01 11:56 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 112 files in NFL/transcripts/week-08:
+# 113 files in NFL/transcripts/week-08:
 NFL/transcripts/week-08/-qTsjqnR2No_FantasyAlarm_The_BEST_Week_8_Fantasy_Football_Plays_with_guest_Tera_Roberts.txt
 NFL/transcripts/week-08/-vn96xTfA7M_BettingPros_NFL_Sunday_Night_Football_Bets_Player_Props_Eagles_vs_Commanders_Picks.txt
 NFL/transcripts/week-08/0DUCXJU_hHs_DFSArmy_NFL_DFS_Week_8_Strategy_for_DraftKings_2026.txt
@@ -103,6 +103,7 @@ NFL/transcripts/week-08/q82e_3JcwNE_ActionNetwork_Top_Week_8_Waiver_Wire_Targets
 NFL/transcripts/week-08/rPJsnZlq9_k_SlopRules_Top_3_NFL_Plays_for_Week_8_on_November_1_2026.txt
 NFL/transcripts/week-08/ryOuB367Hqc_LandYourBets_Panthers_vs_Packers_NFL_Best_Bets_Player_Props_Thursday_Night_Football.txt
 NFL/transcripts/week-08/sLxmjAwnZZQ_ActionNetwork_Ravens_vs_Bills_Picks_Predictions_NFL_Week_8_Best_Bets.txt
+NFL/transcripts/week-08/sT9OFTgOl7k_PlayerProfiler_Week_8_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt
 NFL/transcripts/week-08/t5dmc6OaC4Y_PlayerProfiler_Copy_of_Plays_of_the_Week_Locks_and_Sleepers_for_Week_8_Fantasy_Footba.txt
 NFL/transcripts/week-08/tfnPMWC8QI8_ActionNetwork_Bears_vs_Seahawks_Picks_Predictions_Monday_Night_Football_Best_Bets.txt
 NFL/transcripts/week-08/ti0OJqq6PyM_TheAudible_Which_player_should_you_drop_during_his_Week_8_bye_to_sabotage_another.txt
@@ -118,37 +119,31 @@ NFL/transcripts/week-08/xXWysMLhQ8s_PlayerProfiler_Week_8_TOP_Kickers_Defenses_H
 NONE    channel Footballers: nothing new in the date window (or everything already saved)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/VFVcsXnOhRw_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_8_on_DraftKings_FanDuel.txt  (9,691 words)
-UPCOMING RotoGrinders dcjLFrENDSk LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 11/01/26 9:30AM)
+NOCAPS  RotoGrinders dcjLFrENDSk LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: still live - audio not final yet)
 UPCOMING RotoGrinders AkAook5l98Q Bears vs. Seahawks MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/02/26 7:30PM)
 UPCOMING RotoGrinders gco5L0a8FNw Eagles vs. Commanders SNF Showdown! - NFL DFS Picks & Strate  (not aired yet - scheduled for 11/01/26 7:30PM)
-NEW     NFL/transcripts/week-08/Pm0W7rZ9_fM_ShipItNation_NFL_DFS_Week_8_Leverage_Lane_DraftKings_FanDuel_Strategy.txt  (24,252 words)
-UPCOMING ShipItNation 13EygmDfBNk NFL DFS Week 8 Contrarian Constructions | Main Slate DraftKi  (not aired yet - scheduled for 11/01/26 11:30AM)
-UPCOMING ShipItNation qF2tFLK-gic NFL DFS Week 8 Sunday Shippers | Main Slate DraftKings & Fan  (not aired yet - scheduled for 11/01/26 9:00AM)
+NOCAPS  ShipItNation 13EygmDfBNk NFL DFS Week 8 Contrarian Constructions | Main Slate DraftKi  (no captions; Groq: still live - audio not final yet)
+NOCAPS  ShipItNation qF2tFLK-gic NFL DFS Week 8 Sunday Shippers | Main Slate DraftKings & Fan  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING ShipItNation oOj6S62nWj0 Eagles vs Commanders NFL DFS Showdown | SNF Week 8 Sunday Sw  (not aired yet - scheduled for 11/01/26 6:00PM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
-UPCOMING ActionNetwork ulN6Od8FiOM NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (not aired yet - scheduled for 11/01/26 11:00AM)
-NEW     NFL/transcripts/week-08/tfnPMWC8QI8_ActionNetwork_Bears_vs_Seahawks_Picks_Predictions_Monday_Night_Football_Best_Bets.txt  (1,320 words)
-NEW     NFL/transcripts/week-08/ir0ZEe8tX1Q_DFSArmy_10_Week_8_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt  (2,496 words)
-UPCOMING DFSArmy xV7A8ODxkvQ NFL Week 8 | DFS Pre-Lock Show | DFS Army  (not aired yet - scheduled for 11/01/26 11:00AM)
-NEW     NFL/transcripts/week-08/gdrSI8qKKU4_DFSArmy_NFL_DFS_Week_8_Fanduel_BobbyWoww_Best_Plays.txt  (12,042 words)
-NEW     NFL/transcripts/week-08/ctlKRiAcOPc_DFSArmy_NFL_DFS_Week_8_The_Best_DraftKings_Stacks.txt  (1,267 words)
+NOCAPS  ActionNetwork ulN6Od8FiOM NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  DFSArmy xV7A8ODxkvQ NFL Week 8 | DFS Pre-Lock Show | DFS Army  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/uBE2k72C9qY_TheAudible_Week_8_Ask_Me_Anything_Livestream_with_Bob_Harris.txt  (10,949 words)
-UPCOMING PlayerProfiler sT9OFTgOl7k Week 8 NFL Start/Sits with Chuck Bass and The Podfather  (not aired yet - scheduled for 11/01/26 9:00AM)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/ngSrdXI5QvY_BettingPros_NFL_Monday_Night_Football_Bets_Player_Props_Bears_vs_Seahawks_Picks_We.txt  (2,541 words)
-UPCOMING BettingPros LPb2Fu5s_90 Sunday NFL Week 8 Best Bets | Expert Picks, Predictions & Pl  (not aired yet - scheduled for 11/01/26 12:00PM)
-NEW     NFL/transcripts/week-08/BnhpXmb1oXY_LandYourBets_6_NFL_Player_Prop_Looks_MY_ENTIRE_CARD_Week_8_Free_NFL_Best_Bets_Novem.txt  (2,670 words)
-NEW     NFL/transcripts/week-08/hxaofKpbyLo_SportsLine_NFL_Bets_Picks_and_Predictions_for_EVERY_1PM_ET_Game.txt  (5,300 words)
+NONE    channel TheAudible: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-08/sT9OFTgOl7k_PlayerProfiler_Week_8_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt  (13,020 words, via Groq)
+NOCAPS  Stokastic XmWTJACeAw8 NFL DFS Live Before Lock | Week 8 NFL DFS Picks for DraftKin  (no captions; Groq: still live - audio not final yet)
+DEFER   BettingPros 9vSc1IR3YSk 3 BEST BETS for Sunday: NFL Week 8 Picks & Predictions for T  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   BettingPros LPb2Fu5s_90 Sunday NFL Week 8 Best Bets | Expert Picks, Predictions & Pl  (YouTube rate limit hit earlier this run)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
-NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/Z3h9kT_xMfA_FantasyAlarm_DraftKings_NFL_DFS_Week_8_Top_Picks_Values_Optimizer_Strategy.txt  (8,643 words)
-NEW     NFL/transcripts/week-08/29NuJ4EMdnM_FantasyAces_Best_NFL_Picks_Bets_for_Sunday_11_01_Week_8.txt  (3,559 words)
-NEW     NFL/transcripts/week-08/vshlhpXVHFg_PickDawgz_BALTIMORE_RAVENS_VS_BUFFALO_BILLS_FREE_NFL_PICK_PREDICTION_The_Yang_An.txt  (594 words)
-NEW     NFL/transcripts/week-08/IsIQaIRTZnc_PickDawgz_EAGLES_VS_COMMANDERS_11_1_26_NFL_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PRED.txt  (1,153 words)
+DEFER   MattyChucks bh2aJrKHi0Q Week 8 NFL Best Bets | November 1st  (YouTube rate limit hit earlier this run)
+DEFER   FantasyAlarm gGvx7HKPYi8 Fantasy Football Week 8 Start/Sit, Best Bets & DFS Picks & N  (YouTube rate limit hit earlier this run)
+NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
+DEFER   PickDawgz Ul8CHWqh42M Free NFL Betting Picks & Predictions Today 11/01/2026 | Bria  (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz vKkjqbikxzk NFL Picks and Predictions for Today 11/1/2026 | Dawg of the   (YouTube rate limit hit earlier this run)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/j6waU_URSow_CallingOurShot_The_Best_NFL_Week_8_Parlays_to_Help_Us_ALL_Retire.txt  (2,195 words)
-NEW     NFL/transcripts/week-08/RikKT3jj09A_CallingOurShot_The_Best_NFL_Player_Props_for_Week_8.txt  (3,661 words)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NOTE    deferred videos are picked up automatically on the next scheduled run
