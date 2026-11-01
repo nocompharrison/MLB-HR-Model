@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-1-144893 | fetched: 2026-11-01 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-1-144893 | fetched: 2026-11-01 18:06 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 1
 Get the best NBA bets today, with expert player prop picks on points, assists and PRA, plus odds from top sportsbooks for Sunday’s four-game Nov. 1 NBA slate.
@@ -18,13 +18,13 @@ Looking for the best NBA bets today? Sunday's reduced four-game NBA slate still 
 Tatum has opened the 2026-27 campaign averaging 27.6 points across five appearances, putting him slightly above Sunday's proposed threshold. The Celtics star has exceeded 26.5 points twice, scoring 36 against the Knicks on October 23 and a season-high 40 against Brooklyn four days later. He also finished with 26 points against Chicago on Friday, narrowly missing the line.
 His offensive workload supports another strong scoring performance. Tatum has attempted at least 20 field goals in four of his five games, averaging 21.2 attempts per contest. His 40-point outing against the Nets demonstrated his ability to generate substantial scoring production even without exceptional three-point shooting, as he made just two of seven attempts from beyond the arc.
 The main concern is efficiency, but Tatum has scored at least 23 points in every game since Opening Night. With 48.2 percent shooting over his last four games, the over looks like an attractive choice.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=540d9704-8fd5-4b8e-adb5-67aca5e5562a&operator_item_id=ebf4ffe9-e7cc-4276-946a-6a17796334fb&pageview_id=4a7b5b18-ca93-4fd9-8bce-6c76d1decb16)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=d028268f-a502-47b2-8f51-73823773c1fb&operator_item_id=049939ec-4276-45e2-b78b-5b9a0c77967c&pageview_id=a54a8f8f-a644-442d-bcde-80dc2752bd6f)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=9437af7a-8d3f-44ee-8c52-30a771121577&operator_item_id=ebf4ffe9-e7cc-4276-946a-6a17796334fb&pageview_id=4a7b5b18-ca93-4fd9-8bce-6c76d1decb16)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=6a6b657b-f48d-4f26-b7b6-2739031e667a&operator_item_id=77d38ac6-15de-4445-b8bb-9312798dd9f6&pageview_id=4a7b5b18-ca93-4fd9-8bce-6c76d1decb16) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=56778d0c-a66c-4e2e-8180-13c25f790494&operator_item_id=049939ec-4276-45e2-b78b-5b9a0c77967c&pageview_id=a54a8f8f-a644-442d-bcde-80dc2752bd6f)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=63d5785f-7bee-4388-b283-1000f7b575d1&operator_item_id=08a30d38-238c-4ff7-802c-f90989f35bc2&pageview_id=a54a8f8f-a644-442d-bcde-80dc2752bd6f) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=0b72db88-126d-4d83-9619-ce1663ce4c5a&operator_item_id=77d38ac6-15de-4445-b8bb-9312798dd9f6&pageview_id=4a7b5b18-ca93-4fd9-8bce-6c76d1decb16)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-sunday-nov-1-144893&cta_id=79b004c4-c576-4f8b-a640-ff1168a80855&operator_item_id=08a30d38-238c-4ff7-802c-f90989f35bc2&pageview_id=a54a8f8f-a644-442d-bcde-80dc2752bd6f)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ##  **Brooklyn Nets vs. Indiana Pacers:**[**Andrew Nembhard**](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)**under 9.5 assists, -135 @ FanDuel**
 Nembhard has taken on considerable playmaking responsibility for Indiana following the absence of [Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114) (hamstring), racking up 23 assists in his last two games while averaging 8.0 per game so far. However, that production remains below Sunday's 9.5-assist threshold, and he has finished with nine or fewer assists in four of his five games thus far.
@@ -45,114 +45,111 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Tyler Huntley](https://www.rotowire.com/football/player/tyler-huntley-14563)
-Ruled out for rest of Sunday's contest
-NFL
-Baltimore Ravens
-  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
-[Jake Ferguson](https://www.rotowire.com/football/player/jake-ferguson-15947)
-Ruled out for rest of game
-NFL
-Dallas Cowboys
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Reenters Sunday's game
-NFL
-Detroit Lions
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Ruled out for rest of Sunday's game
-NFL
-Baltimore Ravens
   * ![Atlanta Falcons](https://assets.rotowire.com/images/teamlogo/football/ATL.svg?v=12)
-[Drake London](https://www.rotowire.com/football/player/drake-london-15868)
-Returns Sunday
+[Bijan Robinson](https://www.rotowire.com/football/player/bijan-robinson-16739)
+Manages solid rushing total in shutout
 NFL
 Atlanta Falcons
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Michael Wilson](https://www.rotowire.com/football/player/michael-wilson-16957)
+Has broken ribs
+NFL
+Arizona Cardinals
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Justin Jefferson](https://www.rotowire.com/football/player/justin-jefferson-14509)
+Picturesque TD catch in loss
+NFL
+Minnesota Vikings
+  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
+[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
+Quiet game with eight touches
+NFL
+Detroit Lions
+  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
+[Tony Pollard](https://www.rotowire.com/football/player/tony-pollard-13590)
+Five TDs in last two games
+NFL
+Tennessee Titans
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Nick Pivetta](https://www.rotowire.com/baseball/player/nick-pivetta-14014)
-Becomes free agent
+[Teruaki Sato](https://www.rotowire.com/baseball/player/teruaki-sato-20706)
+Posted for MLB clubs
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Kaima Taira](https://www.rotowire.com/baseball/player/kaima-taira-19195)
+Posted for MLB teams
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Si Hwan Roh](https://www.rotowire.com/baseball/player/si-hwan-roh-20699)
+Available to sign MLB deal
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Hiromi Itoh](https://www.rotowire.com/baseball/player/hiromi-itoh-18560)
+Posted for big-league clubs
 MLB
   * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
-[Kyle Hart](https://www.rotowire.com/baseball/player/kyle-hart-16250)
-Remaining in San Diego
-MLB
-San Diego Padres
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Garrett Whitlock](https://www.rotowire.com/baseball/player/garrett-whitlock-15554)
-Boston picks up option
-MLB
-Boston Red Sox
-  * ![Atlanta Braves](https://assets.rotowire.com/images/teamlogo/baseball/100ATL.png?v=8)
-[Vidal Brujan](https://www.rotowire.com/baseball/player/vidal-brujan-15039)
-Joins Atlanta on MiLB deal
-MLB
-Atlanta Braves
-  * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
-[Wandy Peralta](https://www.rotowire.com/baseball/player/wandy-peralta-14539)
-Opts in for 2027
+[Yuki Matsui](https://www.rotowire.com/baseball/player/yuki-matsui-18458)
+Sticking with Friars
 MLB
 San Diego Padres
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)
+Returns versus Orlando
+NBA
+Boston Celtics
+  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Coby White](https://www.rotowire.com/basketball/player/coby-white-4801)
+Not on injury report for Monday
+NBA
+Charlotte Hornets
+  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)
+Out against Detroit
+NBA
+Charlotte Hornets
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
+Doubtful against Philadelphia
+NBA
+Chicago Bulls
   * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
 [Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
 Not listed on injury report
 NBA
 New Orleans Pelicans
-  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Reed Sheppard](https://www.rotowire.com/basketball/player/reed-sheppard-6257)
-Questionable versus Celtics
-NBA
-Houston Rockets
-  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)
-Not listed on injury report
-NBA
-Houston Rockets
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)
-Gets fourth-year option picked up
-NBA
-Washington Wizards
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
-Log full practice Sunday
-NBA
-Chicago Bulls
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Tyler Huntley](https://www.rotowire.com/football/player/tyler-huntley-14563)
-Ruled out for rest of Sunday's contest
-NFL
-Baltimore Ravens
-  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
-[Jake Ferguson](https://www.rotowire.com/football/player/jake-ferguson-15947)
-Ruled out for rest of game
-NFL
-Dallas Cowboys
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Reenters Sunday's game
-NFL
-Detroit Lions
-  * ![Baltimore Ravens](https://assets.rotowire.com/images/teamlogo/football/BAL.svg?v=12)
-[Lamar Jackson](https://www.rotowire.com/football/player/lamar-jackson-12561)
-Ruled out for rest of Sunday's game
-NFL
-Baltimore Ravens
   * ![Atlanta Falcons](https://assets.rotowire.com/images/teamlogo/football/ATL.svg?v=12)
-[Drake London](https://www.rotowire.com/football/player/drake-london-15868)
-Returns Sunday
+[Bijan Robinson](https://www.rotowire.com/football/player/bijan-robinson-16739)
+Manages solid rushing total in shutout
 NFL
 Atlanta Falcons
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Michael Wilson](https://www.rotowire.com/football/player/michael-wilson-16957)
+Has broken ribs
+NFL
+Arizona Cardinals
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Justin Jefferson](https://www.rotowire.com/football/player/justin-jefferson-14509)
+Picturesque TD catch in loss
+NFL
+Minnesota Vikings
+  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
+[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
+Quiet game with eight touches
+NFL
+Detroit Lions
+  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
+[Tony Pollard](https://www.rotowire.com/football/player/tony-pollard-13590)
+Five TDs in last two games
+NFL
+Tennessee Titans
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

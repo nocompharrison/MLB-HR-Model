@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-01 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-01 18:06 ET -->
 
 # NBA DFS Picks Today
 November 1, 2026
@@ -23,6 +23,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Sunday, November 1 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (8) All NBA news Boston Celtics (BOS @ ORL) Brooklyn Nets (BKN @ IND) Golden State Warriors (LAC @ GSW) Indiana Pacers (BKN @ IND) Los Angeles Clippers (LAC @ GSW) Los Angeles Lakers (TOR @ LAL) Orlando Magic (BOS @ ORL) Toronto Raptors (TOR @ LAL)
+Boston CelticsBOS @ ORL - 3:30 PM ET
+**[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)** _F_ _Top_ 4:26 PM ET
+#### Returns versus Orlando
+Tatum (head) returned to Sunday's game against Orlando, Gary Washburn of The Boston Globe reports.
+Analysis
+Tatum bumped heads with Jamal Cain in the first quarter and went to the locker room to address bleeding from his head. He's back on the floor, though his condition is certainly worth monitoring the rest of the way.
+Boston CelticsBOS @ ORL - 3:30 PM ET
+**[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)** _F_ _Top_ 4:14 PM ET
+#### Heads to locker room Sunday
+Tatum (head) exited Sunday's game against the Magic, Bobby Krivitsky of Forbes.com reports.
+Analysis
+Tatum bumped heads with Jamal Cain late in the first quarter and exited for further medical treatment. For now, he should be considered questionable to return. If Tatum can't get back on the floor Sunday, Sam Hauser could see more minutes the rest of the way.
+Los Angeles LakersTOR @ LAL - 9:00 PM ET
+**[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)** _F_ OUT4:04 PM ET
+#### Set to miss third straight contest
+Williams (foot) is out for Sunday's game against the Raptors.
+Analysis
+Williams will now miss his third consecutive outing as he recovers from a left foot injury. Jake LaRavia is in line for a second straight start, while Quentin Grimes and Sandro Mamukelashvili should continue to see an uptick in minutes off the bench.
 Indiana PacersBKN @ IND - 5:00 PM ET
 **[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)** _F_ 3:38 PM ET
 #### Will play Sunday
@@ -35,25 +53,7 @@ Boston CelticsBOS @ ORL - 3:30 PM ET
 Gonzalez will start Sunday's game against the Magic.
 Analysis
 Gonzalez will make his first start of the season, sending Jordan Walsh to the bench. Gonzalez made three starts as a rookie last season, going scoreless twice before putting up an 18-point, 16-rebound double-double in Milwaukee on March 2.
-Indiana PacersBKN @ IND - 5:00 PM ET
-**[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)** _F_ OUT3:29 PM ET
-#### Ruled out Sunday
-Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports.
-Analysis
-After missing Friday's 145-125 loss to the Heat, Toppin will miss his second straight contest due to lower back soreness. Sunday's matchup with Brooklyn is the first of a back-to-back set for Indiana, so the hope is that Toppin will be able to suit up on Monday. In his absence, Jarace Walker and Jalen Slawson should continue earning more minutes off the bench.
-Boston CelticsBOS @ ORL - 3:30 PM ET
-**[Jordan Walsh](https://www.rotowire.com/basketball/player/jordan-walsh-5942)** _F_ 3:27 PM ET
-#### Late removal from starting lineup
-Walsh won't start Sunday's game against the Magic.
-Analysis
-Walsh was initially announced in the starting lineup, but the Celtics made a late switch, sending the fourth-year wing to the bench for the first time this season. Hugo Gonzalez will start in Walsh's place.
-Boston CelticsBOS @ ORL - 3:30 PM ET
-**[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)** _C_ 2:57 PM ET
-#### Starting on Sunday
-Queta will start in place of Mitchell Robinson (rest) versus the Magic, Bobby Krivitsky of Forbes.com reports.
-Analysis
-Mitchell Robinson will rest on the first night of Boston's back-to-back set, shifting Queta into the starting center position. Luka Garza figures to soak up the reserve minutes behind Queta, while Chris Cenac Jr. could see a bump in opportunity as well.
-Show 3 more (3 remaining)
+Show 5 more (7 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -81,9 +81,8 @@ MagicConfirmedHome
 | SF  | Desmond Bane  | $6,900  | 37.9  |  
 | SG  | Anthony Black  | $5,900  | 32.4  |  
 **BKN @ IND**
-O/U 230.55:00 PM ET
-NetsExpectedAway
-_Implied_**113.5** _Spread_**+3.5**  
+5:00 PM ET
+NetsConfirmedAway  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Day'Ron Sharpe  | $5,100  | 27.6  |  
@@ -91,8 +90,7 @@ _Implied_**113.5** _Spread_**+3.5**
 | PG  | Chaney Johnson  | $3,800  | 24.7  |  
 | SF  | Michael Porter  | $7,400  | 37.9  |  
 | SG  | Nolan Traore  | $4,300  | 24.4  |  
-PacersExpectedHome
-_Implied_**117.0** _Spread_**-3.5**  
+PacersConfirmedHome  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jay Huff  | $4,100  | 22.3  |  
@@ -135,10 +133,10 @@ LakersExpectedHome
 _Implied_**113.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Walker Kessler  | $7,800  | 35.5  |  
-| PF  | Matisse Thybulle  | $4,400  | 19.1  |  
+| C  | Walker Kessler  | $7,800  | 35.2  |  
+| PF  | Matisse Thybulle  | $4,400  | 20.7  |  
 | PG  | Luka Doncic  | $12,300  | 50.6  |  
-| SF  | Ziaire WilliamsQ  | $4,200  | 20.1  |  
+| SF  | Jake LaRavia  | $4,200  | 20.3  |  
 | SG  | Austin Reaves  | $8,900  | 36.6  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
@@ -155,10 +153,10 @@ AllGuardsForwardsCenters
 | 2  |  De'Anthony MeltonGSW - PG  | vs LAC  | $5,200  | 32  | 33.2  | **6.39**  |  
 | 3  |  Isaiah JacksonLAC - C  | @ GSW  | $4,500  | 23  | 28.0  | **6.22**  |  
 | 4  |  Rui HachimuraLAC - SF  | @ GSW  | $5,700  | 32  | 34.1  | **5.99**  |  
-| 5  |  Jarace WalkerIND - SF  | vs BKN  | $4,500  | 25  | 26.7  | **5.92**  |  
-| 6  |  Moritz WagnerBKN - C  | @ IND  | $3,600  | 20  | 20.9  | **5.82**  |  
-| 7  |  Quenton JacksonIND - PG  | vs BKN  | $3,800  | 23  | 21.6  | **5.69**  |  
-| 8  |  Nolan TraoreBKN - PG  | @ IND  | $4,300  | 25  | 24.4  | **5.68**  |  
+| 5  |  Jarace WalkerIND - SF  | vs BKN  | $4,500  | 25  | 26.6  | **5.92**  |  
+| 6  |  Moritz WagnerBKN - C  | @ IND  | $3,600  | 20  | 21.0  | **5.82**  |  
+| 7  |  Nolan TraoreBKN - PG  | @ IND  | $4,300  | 25  | 24.4  | **5.69**  |  
+| 8  |  Quenton JacksonIND - PG  | vs BKN  | $3,800  | 23  | 21.6  | **5.68**  |  
 | 9  |  Ja'Kobe WalterTOR - SG  | @ LAL  | $4,900  | 30  | 27.8  | **5.67**  |  
 | 10  |  Neemias QuetaBOS - C  | @ ORL  | $4,400  | 22  | 24.5  | **5.56**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
@@ -178,27 +176,27 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-12014016018020022030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)MamukelashviliHorfordLendeborgDunnScheierman
+12014016018020022030405060708090BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)HorfordMamukelashviliLendeborgDunn
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BKN@IND, BOS@ORL, LAC@GSW, TOR@LAL  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Sandro MamukelashviliLAL · PF/C · TOR@LAL  | $5,000  | 6.6  | 22.3  | **44.7**  |   | 171%  | 8.9  | 55  |  
-| 2  |  Al HorfordGSW · C · LAC@GSW  | $4,100  | 4.6  | 17.8  | **37.6**  |   | 186%  | 9.2  | 54  |  
+| 1  |  Al HorfordGSW · C · LAC@GSW  | $4,100  | 4.6  | 17.8  | **37.6**  |   | 186%  | 9.2  | 54  |  
+| 2  |  Sandro MamukelashviliLAL · PF/C · TOR@LAL  | $5,000  | 6.5  | 22.2  | **44.6**  |   | 171%  | 8.9  | 54  |  
 | 3  |  Tristan da SilvaORL · SF/PF · BOS@ORL  | $4,900  | 7.0  | 24.1  | **47.5**  |   | 168%  | 9.7  | 54  |  
-| 4  |  Quentin GrimesLAL · SG/SF · TOR@LAL  | $5,300  | 6.2  | 21.5  | **43.4**  |   | 173%  | 8.2  | 54  |  
-| 5  |  Yaxel LendeborgGSW · SF/PF · LAC@GSW  | $7,600  | 13.7  | 36.7  | **66.5**  |   | 144%  | 8.8  | 53  |  
-| 6  |  Kris DunnLAC · PG/SG · LAC@GSW  | $4,900  | 8.0  | 26.0  | **50.4**  |   | 163%  | 10.3  | 53  |  
-| 7  |  Baylor ScheiermanBOS · SG/SF · BOS@ORL  | $3,700  | 3.3  | 15.3  | **33.4**  |   | 197%  | 9.0  | 53  |  
-| 8  |  Michael PorterBKN · SF · BKN@IND  | $7,400  | 14.9  | 37.9  | **67.3**  |   | 138%  | 9.1  | 53  |  
-| 9  |  Matisse ThybulleLAL · SF/PF · TOR@LAL  | $4,400  | 4.7  | 19.1  | **39.8**  |   | 183%  | 9.0  | 53  |  
-| 10  |  Sam HauserBOS · SF/PF · BOS@ORL  | $4,200  | 4.2  | 17.1  | **36.2**  |   | 187%  | 8.6  | 53  |  
-| 11  |  Jordan WalshBOS · PF · BOS@ORL  | $3,300  | 4.0  | 16.5  | **35.3**  |   | 190%  | 10.7  | 53  |  
-| 12  |  Derrick WhiteBOS · PG · BOS@ORL  | $6,700  | 11.8  | 33.1  | **61.1**  |   | 149%  | 9.1  | 53  |  
-| 13  |  Jase RichardsonORL · PG/SG · BOS@ORL  | $4,000  | 3.1  | 14.6  | **32.3**  |   | 199%  | 8.1  | 53  |  
-| 14  |  Keaton WaglerLAC · PG/SG · LAC@GSW  | $5,400  | 9.8  | 28.4  | **54.3**  |   | 157%  | 10.1  | 52  |  
-| 15  |  Jay HuffIND · C · BKN@IND  | $4,100  | 6.9  | 22.3  | **44.7**  |   | 169%  | 10.9  | 52  |  
+| 4  |  Yaxel LendeborgGSW · SF/PF · LAC@GSW  | $7,600  | 13.7  | 36.7  | **66.5**  |   | 144%  | 8.8  | 53  |  
+| 5  |  Kris DunnLAC · PG/SG · LAC@GSW  | $4,900  | 8.0  | 26.0  | **50.4**  |   | 163%  | 10.3  | 53  |  
+| 6  |  Matisse ThybulleLAL · SF/PF · TOR@LAL  | $4,400  | 5.4  | 20.7  | **42.3**  |   | 178%  | 9.6  | 53  |  
+| 7  |  Jay HuffIND · C · BKN@IND  | $4,100  | 6.9  | 22.3  | **44.7**  |   | 169%  | 10.9  | 53  |  
+| 8  |  Michael PorterBKN · SF · BKN@IND  | $7,400  | 14.9  | 37.9  | **67.4**  |   | 138%  | 9.1  | 53  |  
+| 9  |  Quentin GrimesLAL · SG/SF · TOR@LAL  | $5,300  | 6.5  | 22.4  | **44.6**  |   | 170%  | 8.4  | 53  |  
+| 10  |  Baylor ScheiermanBOS · SG/SF · BOS@ORL  | $3,700  | 3.3  | 15.3  | **33.4**  |   | 197%  | 9.0  | 53  |  
+| 11  |  Derrick WhiteBOS · PG · BOS@ORL  | $6,700  | 11.8  | 33.1  | **61.1**  |   | 149%  | 9.1  | 53  |  
+| 12  |  Gui SantosGSW · SF/PF · LAC@GSW  | $5,500  | 5.4  | 19.6  | **40.6**  |   | 179%  | 7.4  | 52  |  
+| 13  |  Keaton WaglerLAC · PG/SG · LAC@GSW  | $5,400  | 9.8  | 28.4  | **54.3**  |   | 157%  | 10.1  | 52  |  
+| 14  |  Scottie BarnesTOR · SF/PF · TOR@LAL  | $8,700  | 17.4  | 42.0  | **73.2**  |   | 133%  | 8.4  | 52  |  
+| 15  |  Jordan WalshBOS · PF · BOS@ORL  | $3,300  | 4.0  | 16.5  | **35.3**  |   | 190%  | 10.7  | 52  |  
 Show all 73 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 3:30 PM ET · 4 games slate · 2026-11-01.
 ## **NBA Injury Report**

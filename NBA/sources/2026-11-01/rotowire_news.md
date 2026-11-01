@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-01 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-01 18:06 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,186 +12,199 @@ Positions
 News Display Mode
 Compact 
 Expanded 
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/dejounte-murray-news-not-listed-on-injury-report-537093)
-**G** New Orleans Pelicans
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Dereck Lively](https://www.rotowire.com/basketball/player/dereck-lively-5904)[Remains sidelined Monday](https://www.rotowire.com/basketball/headlines/dereck-lively-injury-remains-sidelined-monday-537120)
+**C** Dallas Mavericks
+Foot
 November 1, 2026
-Murray (personal) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_30PM.pdf) on the injury report for Monday's game against Memphis.
+Lively (foot) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_45PM.pdf) for Monday's game against the Kings.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/clint-capela-injury-questionable-for-monday-537092)
-**C** Houston Rockets
-Ankle
-November 1, 2026
-Capela (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_30PM.pdf) to play in Monday's game against the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Reed Sheppard](https://www.rotowire.com/basketball/player/reed-sheppard-6257)[Questionable versus Celtics](https://www.rotowire.com/basketball/headlines/reed-sheppard-injury-questionable-versus-celtics-537091)
-**G** Houston Rockets
-Back
-November 1, 2026
-Sheppard (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_30PM.pdf) for Monday's game against the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-not-listed-on-injury-report-537090)
-**G** Houston Rockets
-November 1, 2026
-VanVleet (knee) isn't [listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_30PM.pdf) on the injury report for Monday's game against the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Will play Sunday](https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-will-play-sunday-537089)
-**F** Indiana Pacers
-November 1, 2026
-Nesmith (hamstring) is active for Sunday's game against Brooklyn, [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2116989574924624023?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Hugo Gonzalez](https://www.rotowire.com/basketball/player/hugo-gonzalez-6553)[Enters starting lineup](https://www.rotowire.com/basketball/headlines/hugo-gonzalez-news-enters-starting-lineup-537088)
-**F** Boston Celtics
-November 1, 2026
-Gonzalez [will start](https://x.com/celtics/status/2116986600429076587?s=20) Sunday's game against the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Ruled out Sunday](https://www.rotowire.com/basketball/headlines/obi-toppin-injury-ruled-out-sunday-537087)
-**F** Indiana Pacers
-Back
-November 1, 2026
-Toppin (back) is out for Sunday's game against the Nets, [Alex Golden of SI.com](https://x.com/AlexGoldenNBA/status/2116989801794863137?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Jordan Walsh](https://www.rotowire.com/basketball/player/jordan-walsh-5942)[Late removal from starting lineup](https://www.rotowire.com/basketball/headlines/jordan-walsh-news-late-removal-from-starting-lineup-537086)
-**F** Boston Celtics
-November 1, 2026
-Walsh [won't start](https://x.com/celtics/status/2116986600429076587?s=20) Sunday's game against the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Probable for Monday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-probable-for-monday-537084)
-**F** New Orleans Pelicans
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-questionable-for-monday-537119)
+**G** Dallas Mavericks
 Knee
 November 1, 2026
-Murphy (knee) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_00PM.pdf) for Monday's game against the Grizzlies.
+Irving (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_45PM.pdf) to play Monday against the Kings.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)[Out again Monday](https://www.rotowire.com/basketball/headlines/jordan-poole-injury-out-again-monday-537083)
-**G** New Orleans Pelicans
-Ankle
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Out on Monday](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-out-on-monday-537118)
+**F** Dallas Mavericks
+Knee
 November 1, 2026
-Poole (ankle) has [been ruled](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_03_00PM.pdf) out for Monday's game against the Grizzlies.
+Aldama (knee) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_45PM.pdf) for Monday's game against the Kings.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)[Starting on Sunday](https://www.rotowire.com/basketball/headlines/neemias-queta-news-starting-on-sunday-537082)
-**C** Boston Celtics
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Kylan Boswell](https://www.rotowire.com/basketball/player/kylan-boswell-6976)[Off injury report](https://www.rotowire.com/basketball/headlines/kylan-boswell-news-off-injury-report-537117)
+**G** Charlotte Hornets
 November 1, 2026
-Queta will start in place of [Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426) (rest) versus the Magic, [Bobby Krivitsky of Forbes.com](https://x.com/BobbyKrivitsky/status/2116978606651941078?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Yang Hansen](https://www.rotowire.com/basketball/player/yang-hansen-6617)[Hits two triples on Saturday](https://www.rotowire.com/basketball/headlines/yang-hansen-news-hits-two-triples-on-saturday-537081)
-**C** Portland Trail Blazers
-November 1, 2026
-Hansen accumulated six points (2-5 FG, 2-3 3Pt), five rebounds, one assist and one steal in 13 minutes during Saturday's 112-90 win over Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Vit Krejci](https://www.rotowire.com/basketball/player/vit-krejci-5233)[Season-high 24 minutes on Saturday](https://www.rotowire.com/basketball/headlines/vit-krejci-news-season-high-24-minutes-on-saturday-537080)
-**G** Portland Trail Blazers
-November 1, 2026
-Krejčí finished with five points (2-6 FG, 1-4 3Pt), four rebounds, two assists and one steal in 24 minutes during Saturday's 112-90 victory over Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Donovan Clingan](https://www.rotowire.com/basketball/player/donovan-clingan-6254)[Struggles with foul trouble](https://www.rotowire.com/basketball/headlines/donovan-clingan-news-struggles-with-foul-trouble-537079)
-**C** Portland Trail Blazers
-November 1, 2026
-Clingan ended Saturday's 112-90 win over the Jazz with four points (1-3 FG, 0-1 3Pt, 2-2 FT), nine rebounds and one block in 15 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Tre Johnson](https://www.rotowire.com/basketball/player/tre-johnson-6543)[Third-year option picked up](https://www.rotowire.com/basketball/headlines/tre-johnson-news-third-year-option-picked-up-537078)
-**G** Washington Wizards
-November 1, 2026
-Washington has exercised the third-year team option on Johnson on Sunday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116961995538698270?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Will Riley](https://www.rotowire.com/basketball/player/will-riley-6588)[Third-year option picked up](https://www.rotowire.com/basketball/headlines/will-riley-news-third-year-option-picked-up-537077)
-**F** Washington Wizards
-November 1, 2026
-Washington exercised the third-year team option on Riley on Sunday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116961995538698270?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Kyshawn George](https://www.rotowire.com/basketball/player/kyshawn-george-6269)[Fourth-year option picked up](https://www.rotowire.com/basketball/headlines/kyshawn-george-news-fourth-year-option-picked-up-537076)
-**G** Washington Wizards
-November 1, 2026
-The Wizards exercised the fourth-year team option on George on Sunday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116961995538698270?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Bub Carrington](https://www.rotowire.com/basketball/player/bub-carrington-6270)[Fourth-year option picked up](https://www.rotowire.com/basketball/headlines/bub-carrington-news-fourth-year-option-picked-up-537075)
-**G** Washington Wizards
-November 1, 2026
-The Wizards exercised the fourth-year team option on Carrington on Sunday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116961995538698270?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Gets fourth-year option picked up](https://www.rotowire.com/basketball/headlines/alex-sarr-news-gets-fourth-year-option-picked-up-537074)
-**C** Washington Wizards
-November 1, 2026
-The Wizards exercised the fourth-year team option on Sarr on Tuesday, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2116961995538698270?a=IqeeHKUErDdrctH_al0&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Chris Youngblood](https://www.rotowire.com/basketball/player/chris-youngblood-6663)[Makes season debut Saturday](https://www.rotowire.com/basketball/headlines/chris-youngblood-news-makes-season-debut-saturday-537073)
-**G** Portland Trail Blazers
-November 1, 2026
-Youngblood supplied three points (1-4 FG, 1-4 3Pt) in seven minutes during Saturday's 112-90 victory over the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Plays 19 minutes in return](https://www.rotowire.com/basketball/headlines/jabari-walker-news-plays-19-minutes-in-return-537072)
-**F** Philadelphia 76ers
-November 1, 2026
-Walker supplied 12 points (5-8 FG, 1-4 3Pt, 1-1 FT) and six rebounds across 19 minutes during Saturday's 109-104 win over Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Log full practice Sunday](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-log-full-practice-sunday-537071)
-**C** Chicago Bulls
-Hamstring
-November 1, 2026
-Claxton (hamstring) was a full participant in Sunday's practice, [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2116940635055742992?s=20).
+Boswell is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) on the injury report for Monday's game against the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Asa Newell](https://www.rotowire.com/basketball/player/asa-newell-6561)[Gets option picked up](https://www.rotowire.com/basketball/headlines/asa-newell-news-gets-option-picked-up-537068)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Questionable to suit up Monday](https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-questionable-to-suit-up-monday-537116)
 **F** Atlanta Hawks
+Ankle
 November 1, 2026
-Atlanta exercised Newell's third-year option Sunday, [Brad Rowland of the Locked On Podcast Network](https://x.com/BTRowland/status/2116931203609870377?s=20) reports.
+Johnson (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) to play Monday against the Pacers.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Back with NBA team](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-back-with-nba-team-537067)
-**G** Indiana Pacers
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Not playing Monday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-not-playing-monday-537115)
+**C** Atlanta Hawks
+Hip
+November 1, 2026
+Landale (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) for Monday's game against Indiana.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)[Out again Monday night](https://www.rotowire.com/basketball/headlines/grant-williams-injury-out-again-monday-night-537114)
+**F** Charlotte Hornets
 Hamstring
 November 1, 2026
-Indiana [recalled](https://gleague.nba.com/transactions) McConnell (hamstring) from the G League's Noblesville Boom on Saturday.
+Williams (hamstring) is listed as [out](https://x.com/HornetsPR/status/2117013595879817364?a=gc6R9Uf3HMtUB0gjKi8&s=20) for Monday's game against the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Jaylen Wells](https://www.rotowire.com/basketball/player/jaylen-wells-6305)[Quiet performance against Sacramento](https://www.rotowire.com/basketball/headlines/jaylen-wells-news-quiet-performance-against-sacramento-537066)
-**F** Memphis Grizzlies
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Listed as questionable again](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-listed-as-questionable-again-537113)
+**G** Detroit Pistons
+Hip
 November 1, 2026
-Wells logged four points (2-5 FG, 0-3 3Pt), two rebounds and one steal over 22 minutes during Saturday's 136-105 win over Sacramento.
+Joe (hip) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) for Friday's game against the Hornets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Off injury report Monday](https://www.rotowire.com/basketball/headlines/lebron-james-news-off-injury-report-monday-537112)
+**F** Philadelphia 76ers
+November 1, 2026
+James is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) on Philadelphia's injury report for Monday's game against the Bulls.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Jose Alvarado](https://www.rotowire.com/basketball/player/jose-alvarado-5424)[Chance to return Monday](https://www.rotowire.com/basketball/headlines/jose-alvarado-injury-chance-to-return-monday-537111)
+**G** New York Knicks
+Ankle
+November 1, 2026
+Alvarado (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) for Monday's game against the Nets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-questionable-for-monday-537110)
+**C** Philadelphia 76ers
+Foot
+November 1, 2026
+Embiid (foot) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) to suit up for Monday's game against the Bulls.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Coby White](https://www.rotowire.com/basketball/player/coby-white-4801)[Not on injury report for Monday](https://www.rotowire.com/basketball/headlines/coby-white-news-not-on-injury-report-for-monday-537109)
+**G** Charlotte Hornets
+November 1, 2026
+White (calf) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_05_00PM.pdf) on the injury report for Monday's game against the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)[Out against Detroit](https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-out-against-detroit-537108)
+**F** Charlotte Hornets
+Hamstring
+November 1, 2026
+Knueppel (hamstring) is listed as [out](https://x.com/HornetsPR/status/2117013595879817364?a=ka0APHkjHTV1k4ngfI8&s=20) for Monday's game versus the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)[Dealing with hamstring soreness](https://www.rotowire.com/basketball/headlines/peyton-watson-injury-dealing-with-hamstring-soreness-537106)
+**F** Cleveland Cavaliers
+Hamstring
+November 1, 2026
+Watson (hamstring) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_45PM.pdf) to play in Monday's game against Oklahoma City.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Tristan Vukcevic](https://www.rotowire.com/basketball/player/tristan-vukcevic-6000)[Still out Monday](https://www.rotowire.com/basketball/headlines/tristan-vukcevic-injury-still-out-monday-537105)
+**C** Washington Wizards
+Hip
+November 1, 2026
+Vukcevic (hip) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_30PM.pdf) for Monday's game against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Out again Monday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-again-monday-537104)
+**F** Cleveland Cavaliers
+Ankle
+November 1, 2026
+Tyson (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_45PM.pdf) for Monday's game against Oklahoma City.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/alex-sarr-injury-questionable-for-monday-537103)
+**C** Washington Wizards
+Knee
+November 1, 2026
+Sarr (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_30PM.pdf) to play in Monday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Expected to play Monday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-expected-to-play-monday-537102)
+**C** Chicago Bulls
+Finger
+November 1, 2026
+Smith (finger) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_30PM.pdf) for Monday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Gill](https://www.rotowire.com/basketball/player/anthony-gill-5309)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/anthony-gill-injury-questionable-for-monday-537101)
+**F** Washington Wizards
+Back
+November 1, 2026
+Gill (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_30PM.pdf) to suit up in Monday's contest against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Liam McNeeley](https://www.rotowire.com/basketball/player/liam-mcneeley-6589)[Third-year option picked up](https://www.rotowire.com/basketball/headlines/liam-mcneeley-news-third-year-option-picked-up-537100)
+**F** Charlotte Hornets
+November 1, 2026
+The Hornets [exercised](https://x.com/HornetsPR/status/2116973575345492252?s=20) the third-year team option on [Liam McNeeley](https://www.rotowire.com/basketball/player/liam-mcneeley-6589) on Sunday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)[Returns versus Orlando](https://www.rotowire.com/basketball/headlines/jayson-tatum-news-returns-versus-orlando-537099)
+**F** Boston Celtics
+November 1, 2026
+Tatum (head) returned to Sunday's game against Orlando, [Gary Washburn of The Boston Globe](https://x.com/GwashburnGlobe/status/2117004290988364074?a=wwdGM03jukjcdvd3Bks&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Probable for Monday](https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-probable-for-monday-537098)
+**C** Chicago Bulls
+Ankle
+November 1, 2026
+Awaka (ankle) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_00PM.pdf) for Monday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)[Heads to locker room Sunday](https://www.rotowire.com/basketball/headlines/jayson-tatum-injury-heads-to-locker-room-sunday-537097)
+**F** Boston Celtics
+Head
+November 1, 2026
+Tatum (head) exited Sunday's game against the Magic, [Bobby Krivitsky of Forbes.com](https://x.com/BobbyKrivitsky/status/2117000706871660558?a=ZGshYZfX-5hTnYR9vZc&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)[Third-year option picked up](https://www.rotowire.com/basketball/headlines/kon-knueppel-injury-third-year-option-picked-up-537096)
+**F** Charlotte Hornets
+Hamstring
+November 1, 2026
+The Hornets [exercised](https://x.com/HornetsPR/status/2116973575345492252?s=20) Knueppel's (hamstring) third-year team option on Sunday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Doubtful against Philadelphia](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-doubtful-against-philadelphia-537095)
+**C** Chicago Bulls
+Hamstring
+November 1, 2026
+Claxton (hamstring) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_00PM.pdf) for Monday's game against Philadelphia.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

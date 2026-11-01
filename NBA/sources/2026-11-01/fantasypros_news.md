@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-01 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-01 18:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Ziaire Williams](https://images.fantasypros.com/images/players/nba/5319/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ziaire-williams.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/ziaire-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ziaire-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/ziaire-williams.php)
+[Ziaire Williams (foot) ruled out Sunday ](https://www.fantasypros.com/nba/news/616987/ziaire-williams-foot-ruled-out-sunday.php)  
+
+Sun, Nov 1st 4:48pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ziaire Williams has been ruled out for Sunday’s game against the Raptors. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_04_00PM.pdf))
+**_Fantasy Impact:_** Williams will miss a third straight game. Jake LaRavia will continue to start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Aaron Nesmith](https://images.fantasypros.com/images/players/nba/5140/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aaron-nesmith.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/aaron-nesmith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aaron-nesmith.php)  
+[» More News](https://www.fantasypros.com/nba/news/aaron-nesmith.php)
+[Aaron Nesmith (hamstring) available Sunday ](https://www.fantasypros.com/nba/news/616986/aaron-nesmith-hamstring-available-sunday.php)  
+
+Sun, Nov 1st 4:45pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Aaron Nesmith is available for Sunday’s game against the Nets. (Source: [Tony East on Twitter](https://x.com/TonyREast/status/2116990004329361737))
+**_Fantasy Impact:_** Nesmith is good to go as expected after being listed as probable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Obi Toppin](https://images.fantasypros.com/images/players/nba/5091/headshot/100x100.png)](https://www.fantasypros.com/nba/players/obi-toppin.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/obi-toppin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/obi-toppin.php)  
+[» More News](https://www.fantasypros.com/nba/news/obi-toppin.php)
+[Obi Toppin (back) ruled out Sunday ](https://www.fantasypros.com/nba/news/616985/obi-toppin-back-ruled-out-sunday.php)  
+
+Sun, Nov 1st 4:44pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Obi Toppin has been ruled out for Sunday’s game against the Nets. (Source: [Tony East on Twitter](https://x.com/TonyREast/status/2116990004329361737))
+**_Fantasy Impact:_** Toppin will be sidelined after being listed as questionable. Kobe Brown should see more run with the second unit in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
 G - NOR
 [» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
@@ -245,48 +287,6 @@ Victor Wembanyama stuffed the stat sheet for the Spurs Saturday night, dishing o
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jaden McDaniels](https://images.fantasypros.com/images/players/nba/5081/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php)
-F - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaden-mcdaniels.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaden-mcdaniels.php)
-[Jaden McDaniels fills stat sheet in Saturday's loss to Spurs](https://www.fantasypros.com/nba/news/616943/jaden-mcdaniels-fills-stat-sheet-saturdays-loss-to-spurs.php)  
-
-Sun, Nov 1st 9:43am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jaden McDaniels filled the stat sheet for the Timberwolves Saturday night, dishing out three assists, recording two steals, grabbing three rebounds, and scoring 19 points (7-17 FG, 2-5 3PT, 3-4 FT) in a 121-111 loss to the Spurs.
-**_Fantasy Impact:_** McDaniels continues a solid stretch on both ends of the floor, dishing out three or more assists, grabbing three or more rebounds, and scoring 14 or more points in each of his last five games. The forward has remained one of the more stable options in a Minnesota starting five missing Anthony Edwards for head coach Chris Finch, averaging 17.3 points, 3.6 assists, and 6.0 rebounds per game while carrying an 18.6% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ayo Dosunmu](https://images.fantasypros.com/images/players/nba/5189/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)
-G - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ayo-dosunmu.php)  
-[» More News](https://www.fantasypros.com/nba/news/ayo-dosunmu.php)
-[Ayo Dosunmu leads offense in Saturday's loss to Spurs](https://www.fantasypros.com/nba/news/616942/ayo-dosunmu-leads-offense-saturdays-loss-to-spurs.php)  
-
-Sun, Nov 1st 9:40am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Ayo Dosunmu led the Timberwolves offense Saturday night, dropping 27 points (11-17 FG, 2-5 3PT, 3-3 FT) while also dishing out three assists, grabbing nine rebounds, and recording three steals in a 121-111 loss to the Spurs.
-**_Fantasy Impact:_** Dosunmu continues a modest stretch on both ends of the floor, finishing with one or more rebounds and nine or more points in each of his last five contests. The versatile guard will be relied on to minimize the loss of superstar Anthony Edwards for head coach Chris Finch, averaging 15.3 points, 1.3 steals, 3.6 assists, and 5.0 rebounds per game while posting a usage rate of 18.7% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jonathan Kuminga](https://images.fantasypros.com/images/players/nba/5267/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)
-F - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jonathan-kuminga.php)  
-[» More News](https://www.fantasypros.com/nba/news/jonathan-kuminga.php)
-[Jonathan Kuminga posts near double-double Saturday against Spurs](https://www.fantasypros.com/nba/news/616941/jonathan-kuminga-posts-near-double-double-saturday-against-spurs.php)  
-
-Sun, Nov 1st 9:32am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jonathan Kuminga posted a near double-double for the Timberwolves Saturday night, grabbing six rebounds and chipping in 19 points (8-19 FG, 2-6 3PT, 1-1 FT) while also blocking one shot and dishing out three assists in a 121-111 loss to the Spurs.
-**_Fantasy Impact:_** Kuminga continues a solid stretch on both ends of the floor, finishing with three or more rebounds and 10 or more points in four of his last five games. The 24-year-old has offered head coach Chris Finch another stable option as part of a Minnesota starting five without superstar Anthony Edwards, averaging 12.9 points and 4.7 rebounds per game to go along with a 16.2% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=164_1793566856755&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999f979c979a979f966666uokewi0e0y666o626i626e626o6000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=210_1793574037854&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999f979c979a979f966666uokewi0e0y666o626i626e626o6000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
