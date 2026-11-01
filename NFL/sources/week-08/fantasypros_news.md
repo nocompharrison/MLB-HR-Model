@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-01 09:33 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-01 11:47 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![George Pickens](https://images.fantasypros.com/images/players/nfl/22963/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/george-pickens.php)
+WR - DAL
+[» Rankings](https://www.fantasypros.com/nfl/players/george-pickens.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/george-pickens.php)  
+[» More News](https://www.fantasypros.com/nfl/news/george-pickens.php)
+[George Pickens (shoulder/hamstring) active for Week 8](https://www.fantasypros.com/nfl/news/616954/george-pickens-shoulderhamstring-active-week-8.php)  
+
+Sun, Nov 1st 11:38am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+George Pickens (shoulder/hamstring) is officially active for Week 8 for the Dallas Cowboys against the Arizona Cardinals according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2116930915704471594?a=dI4oGM7yJ_lQiI_VRZU&s=46))
+**_Fantasy Impact:_** Pickens is good to go after entering the weekend with a questionable designation for head coach Brian Schottenheimer, boosting a Dallas passing offense that will look to feast on the Cardinals defense Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dalton Kincaid](https://images.fantasypros.com/images/players/nfl/25247/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dalton-kincaid.php)
+TE - BUF
+[» Rankings](https://www.fantasypros.com/nfl/players/dalton-kincaid.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/dalton-kincaid.php)  
+[» More News](https://www.fantasypros.com/nfl/news/dalton-kincaid.php)
+[Dalton Kincaid (chest) active for Week 8](https://www.fantasypros.com/nfl/news/616953/dalton-kincaid-chest-active-week-8.php)  
+
+Sun, Nov 1st 11:36am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Dalton Kincaid (chest) is officially active for Week 8 for the Buffalo Bills against the Baltimore Ravens according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2116930915704471594?a=dI4oGM7yJ_lQiI_VRZU&s=46))
+**_Fantasy Impact:_** Kincaid will take the field after passing through pregame warmups without any setbacks, offering quarterback Josh Allen one of his more impactful red zone weapons against the Ravens Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![DJ Moore](https://images.fantasypros.com/images/players/nfl/17265/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dj-moore-wr.php)
+WR - BUF
+[» Rankings](https://www.fantasypros.com/nfl/players/dj-moore-wr.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/dj-moore-wr.php)  
+[» More News](https://www.fantasypros.com/nfl/news/dj-moore-wr.php)
+[DJ Moore (shoulder) active for Week 8](https://www.fantasypros.com/nfl/news/616952/dj-moore-shoulder-active-week-8.php)  
+
+Sun, Nov 1st 11:34am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+DJ Moore (shoulder) is officially active for Week 8 for the Buffalo Bills against the Baltimore Ravens according to Adam Schefter. (Source: [Adam Schefter on Twitter](https://x.com/adamschefter/status/2116930915704471594?a=dI4oGM7yJ_lQiI_VRZU&s=46))
+**_Fantasy Impact:_** Moore is good to go after entering the weekend with a questionable designation, boosting a Buffalo passing attack for quarterback Josh Allen against the Ravens Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Breece Hall](https://images.fantasypros.com/images/players/nfl/22982/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/breece-hall.php)
 RB - NYJ
 [» Rankings](https://www.fantasypros.com/nfl/players/breece-hall.php)  
@@ -32,20 +74,6 @@ Sun, Nov 1st 9:07am EST
 By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
 Jaylen Waddle (chest) is expected to play for the Denver Broncos against the Kansas City Chiefs according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2116865613473656864?a=JSFOGVI5-qIHtAzA-yE&s=46))
 **_Fantasy Impact:_** Waddle looks good to go barring any pregame issues for head coach Sean Payton, offering an inconsistent Denver offense another option against a shorthanded Kansas City secondary Sunday.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![George Pickens](https://images.fantasypros.com/images/players/nfl/22963/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/george-pickens.php)
-WR - DAL
-[» Rankings](https://www.fantasypros.com/nfl/players/george-pickens.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/george-pickens.php)  
-[» More News](https://www.fantasypros.com/nfl/news/george-pickens.php)
-[George Pickens (shoulder/hamstring) expected to play Sunday](https://www.fantasypros.com/nfl/news/616934/george-pickens-shoulderhamstring-expected-to-play-sunday.php)  
-
-Sun, Nov 1st 9:04am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-George Pickens (shoulder/hamstring) is expected to play for the Dallas Cowboys against the Arizona Cardinals according to Adam Schefter. (Source: [Adam Schefter on Twitter](https://x.com/adamschefter/status/2116865613473656864?a=JSFOGVI5-qIHtAzA-yE&s=46))
-**_Fantasy Impact:_** Pickens looks poised to take the field barring any pregame setbacks for head coach Brian Schottenheimer, boosting a Dallas passing attack that will look to move the ball with ease against the Cardinals Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -256,34 +284,6 @@ Sat, Oct 31st 6:52pm EDT
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Chazz Surratt is off the injury report for Monday's game against the Bears. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2116636979609903222/photo/1))
 **_Fantasy Impact:_** Surratt closed the week with back-to-back full practices. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Rashid Shaheed](https://images.fantasypros.com/images/players/nfl/24687/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/rashid-shaheed.php)
-WR - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/rashid-shaheed.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/rashid-shaheed.php)  
-[» More News](https://www.fantasypros.com/nfl/news/rashid-shaheed.php)
-[Rashid Shaheed (knee) ruled out Monday ](https://www.fantasypros.com/nfl/news/616869/rashid-shaheed-knee-ruled-out-monday.php)  
-
-Sat, Oct 31st 6:50pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Rashid Shaheed has been ruled out for Monday's game against the Bears. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2116636979609903222/photo/1))
-**_Fantasy Impact:_** Shaheed was unable to practice all week. His absence likely won't impact the Seahawks wide receiver room for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Brady Russell](https://images.fantasypros.com/images/players/nfl/25731/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brady-russell.php)
-TE - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/brady-russell.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brady-russell.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brady-russell.php)
-[Brady Russell (wrist) off injury report Monday ](https://www.fantasypros.com/nfl/news/616868/brady-russell-wrist-off-injury-report-monday.php)  
-
-Sat, Oct 31st 6:49pm EDT  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Brady Russell is off the injury report for Monday's game against the Bears. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2116636979609903222/photo/1))
-**_Fantasy Impact:_** Russell will be good to go in his role as a fullback. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
