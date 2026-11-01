@@ -1,4 +1,4 @@
-<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-01 11:06 ET -->
+<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-01 16:06 ET -->
 
 Title: NBA Injury Report and Status 2026-27 - CBS Sports
 
@@ -603,9 +603,9 @@ Shows & Podcasts
 
 [See All](https://www.cbssports.com/podcasts/)
 
-[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=226324)
+[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=998074)
 
-[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=226324&login=confirmed)
+[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=998074&login=confirmed)
 
 Fantasy & Games
 
@@ -678,8 +678,8 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [M. Brown Jr.](https://www.cbssports.com/nba/players/28906173/mikel-brown-jr/)[Mikel Brown Jr.](https://www.cbssports.com/nba/players/28906173/mikel-brown-jr/) | PG | Sat, Oct 31 | Rest | Expected to be out until at least Nov 2 |
 | [T. Bilodeau](https://www.cbssports.com/nba/players/28954652/tyler-bilodeau/)[Tyler Bilodeau](https://www.cbssports.com/nba/players/28954652/tyler-bilodeau/) | SF | Sat, Oct 31 | Shoulder | Expected to be out until at least Nov 6 |
+| [M. Brown Jr.](https://www.cbssports.com/nba/players/28906173/mikel-brown-jr/)[Mikel Brown Jr.](https://www.cbssports.com/nba/players/28906173/mikel-brown-jr/) | PG | Sat, Oct 31 | Rest | Expected to be out until at least Nov 2 |
 | [E. Demin](https://www.cbssports.com/nba/players/29556852/egor-demin/)[Egor Demin](https://www.cbssports.com/nba/players/29556852/egor-demin/) | PG | Thu, Oct 29 | Leg | Expected to be out until at least Nov 7 |
 
 #### [![Image 185: team logo](https://sports.cbsimg.net/fly/images/team-logos/448283.svg)](https://www.cbssports.com/nba/teams/CHA/charlotte-hornets/)
@@ -688,10 +688,10 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [K. Knueppel](https://www.cbssports.com/nba/players/29558754/kon-knueppel/)[Kon Knueppel](https://www.cbssports.com/nba/players/29558754/kon-knueppel/) | SF | Sat, Oct 31 | Hamstring | Expected to be out until at least Nov 2 |
-| [C. White](https://www.cbssports.com/nba/players/3041443/coby-white/)[Coby White](https://www.cbssports.com/nba/players/3041443/coby-white/) | PG | Sat, Oct 31 | Calf | Expected to be out until at least Nov 2 |
-| [G. Williams](https://www.cbssports.com/nba/players/2268528/grant-williams/)[Grant Williams](https://www.cbssports.com/nba/players/2268528/grant-williams/) | PF | Tue, Oct 27 | Hamstring | Expected to be out until at least Nov 2 |
-| [K. Boswell](https://www.cbssports.com/nba/players/28956206/kylan-boswell/)[Kylan Boswell](https://www.cbssports.com/nba/players/28956206/kylan-boswell/) | PG | Tue, Oct 20 | Knee | Expected to be out until at least Nov 2 |
+| [K. Knueppel](https://www.cbssports.com/nba/players/29558754/kon-knueppel/)[Kon Knueppel](https://www.cbssports.com/nba/players/29558754/kon-knueppel/) | SF | Sun, Nov 1 | Hamstring | Game Time Decision |
+| [K. Boswell](https://www.cbssports.com/nba/players/28956206/kylan-boswell/)[Kylan Boswell](https://www.cbssports.com/nba/players/28956206/kylan-boswell/) | PG | Sun, Nov 1 | Knee | Game Time Decision |
+| [C. White](https://www.cbssports.com/nba/players/3041443/coby-white/)[Coby White](https://www.cbssports.com/nba/players/3041443/coby-white/) | PG | Sun, Nov 1 | Calf | Game Time Decision |
+| [G. Williams](https://www.cbssports.com/nba/players/2268528/grant-williams/)[Grant Williams](https://www.cbssports.com/nba/players/2268528/grant-williams/) | PF | Sun, Nov 1 | Hamstring | Game Time Decision |
 
 #### [![Image 186: team logo](https://sports.cbsimg.net/fly/images/team-logos/336.svg)](https://www.cbssports.com/nba/teams/CHI/chicago-bulls/)
 
@@ -717,9 +717,9 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
+| [T. Biberovic](https://www.cbssports.com/nba/players/29136325/tarik-biberovic/)[Tarik Biberovic](https://www.cbssports.com/nba/players/29136325/tarik-biberovic/) | SF | Sat, Oct 31 | Heel | Game Time Decision |
 | [S. Aldama](https://www.cbssports.com/nba/players/3142224/santi-aldama/)[Santi Aldama](https://www.cbssports.com/nba/players/3142224/santi-aldama/) | C | Sat, Oct 31 | Knee | Game Time Decision |
 | [D. Lively II](https://www.cbssports.com/nba/players/28951880/dereck-lively-ii/)[Dereck Lively II](https://www.cbssports.com/nba/players/28951880/dereck-lively-ii/) | C | Sat, Oct 31 | Foot | Game Time Decision |
-| [T. Biberovic](https://www.cbssports.com/nba/players/29136325/tarik-biberovic/)[Tarik Biberovic](https://www.cbssports.com/nba/players/29136325/tarik-biberovic/) | SF | Sat, Oct 31 | Heel | Game Time Decision |
 | [S. de Larrea](https://www.cbssports.com/nba/players/50033520/sergio-de-larrea/)[Sergio de Larrea](https://www.cbssports.com/nba/players/50033520/sergio-de-larrea/) | SG | Fri, Oct 30 | Knee | Expected to be out until at least Nov 4 |
 
 #### [![Image 189: team logo](https://sports.cbsimg.net/fly/images/team-logos/339.svg)](https://www.cbssports.com/nba/teams/DEN/denver-nuggets/)
@@ -762,7 +762,7 @@ If not listed, please contact your TV provider.
 | --- | --- | --- | --- | --- |
 | [R. Sheppard](https://www.cbssports.com/nba/players/29231118/reed-sheppard/)[Reed Sheppard](https://www.cbssports.com/nba/players/29231118/reed-sheppard/) | SG | Sun, Nov 1 | Back | Game Time Decision |
 | [F. VanVleet](https://www.cbssports.com/nba/players/2252663/fred-vanvleet/)[Fred VanVleet](https://www.cbssports.com/nba/players/2252663/fred-vanvleet/) | PG | Sun, Nov 1 | Knee | Game Time Decision |
-| [S. Adams](https://www.cbssports.com/nba/players/2067654/steven-adams/)[Steven Adams](https://www.cbssports.com/nba/players/2067654/steven-adams/) | C | Mon, Oct 26 | Calf | Expected to be out until at least Nov 2 |
+| [S. Adams](https://www.cbssports.com/nba/players/2067654/steven-adams/)[Steven Adams](https://www.cbssports.com/nba/players/2067654/steven-adams/) | C | Sun, Nov 1 | Calf | Expected to be out until at least Nov 9 |
 
 #### [![Image 193: team logo](https://sports.cbsimg.net/fly/images/team-logos/343.svg)](https://www.cbssports.com/nba/teams/IND/indiana-pacers/)
 
@@ -773,9 +773,9 @@ If not listed, please contact your TV provider.
 | [A. Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/)[Aaron Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/) | SF | Sat, Oct 31 | Hamstring | Game Time Decision |
 | [O. Toppin](https://www.cbssports.com/nba/players/2892231/obi-toppin/)[Obi Toppin](https://www.cbssports.com/nba/players/2892231/obi-toppin/) | PF | Sat, Oct 31 | Back | Game Time Decision |
 | [I. Zubac](https://www.cbssports.com/nba/players/2245326/ivica-zubac/)[Ivica Zubac](https://www.cbssports.com/nba/players/2245326/ivica-zubac/) | C | Sat, Oct 31 | Ankle | Expected to be out until at least Nov 2 |
-| [T. Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/)[Tyrese Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/) | PG | Wed, Oct 28 | Hamstring | Expected to be out until at least Nov 13 |
 | [B. Sheppard](https://www.cbssports.com/nba/players/3141908/ben-sheppard/)[Ben Sheppard](https://www.cbssports.com/nba/players/3141908/ben-sheppard/) | SG | Wed, Oct 28 | Knee | Expected to be out until at least Jan 2 |
 | [T. McConnell](https://www.cbssports.com/nba/players/2198705/tj-mcconnell/)[T.J. McConnell](https://www.cbssports.com/nba/players/2198705/tj-mcconnell/) | PG | Wed, Oct 28 | Hamstring | Expected to be out until at least Nov 2 |
+| [T. Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/)[Tyrese Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/) | PG | Wed, Oct 28 | Hamstring | Expected to be out until at least Nov 13 |
 | [J. Furphy](https://www.cbssports.com/nba/players/29234623/johnny-furphy/)[Johnny Furphy](https://www.cbssports.com/nba/players/29234623/johnny-furphy/) | SG | Mon, Oct 19 | Knee | Expected to be out until at least Jan 2 |
 
 #### [![Image 194: team logo](https://sports.cbsimg.net/fly/images/team-logos/344.svg)](https://www.cbssports.com/nba/teams/LAC/los-angeles-clippers/)
@@ -784,10 +784,8 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [B. Ingram](https://www.cbssports.com/nba/players/2202503/brandon-ingram/)[Brandon Ingram](https://www.cbssports.com/nba/players/2202503/brandon-ingram/) | SF | Mon, Oct 26 | Achilles | Expected to be out until at least Nov 8 |
 | [B. Beal](https://www.cbssports.com/nba/players/1992783/bradley-beal/)[Bradley Beal](https://www.cbssports.com/nba/players/1992783/bradley-beal/) | SG | Thu, Oct 22 | Knee | Expected to be out until at least Nov 8 |
 | [J. Miller](https://www.cbssports.com/nba/players/3041753/jordan-miller/)[Jordan Miller](https://www.cbssports.com/nba/players/3041753/jordan-miller/) | SG | Mon, Oct 19 | Shoulder | Expected to be out until at least Mar 2 |
-| [Y. Konan Niederhauser](https://www.cbssports.com/nba/players/28952999/yanic-konan-niederhauser/)[Yanic Konan Niederhauser](https://www.cbssports.com/nba/players/28952999/yanic-konan-niederhauser/) | C | Thu, Oct 15 | Foot | Expected to be out until at least Nov 8 |
 | [M. Strus](https://www.cbssports.com/nba/players/2268003/max-strus/)[Max Strus](https://www.cbssports.com/nba/players/2268003/max-strus/) | SG | Thu, Oct 15 | Foot | Expected to be out until at least Nov 8 |
 
 #### [![Image 195: team logo](https://sports.cbsimg.net/fly/images/team-logos/345.svg)](https://www.cbssports.com/nba/teams/LAL/los-angeles-lakers/)
@@ -825,8 +823,8 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [J. Poole](https://www.cbssports.com/nba/players/2892690/jordan-poole/)[Jordan Poole](https://www.cbssports.com/nba/players/2892690/jordan-poole/) | PG | Sun, Nov 1 | Ankle | Game Time Decision |
 | [D. Murray](https://www.cbssports.com/nba/players/2203544/dejounte-murray/)[Dejounte Murray](https://www.cbssports.com/nba/players/2203544/dejounte-murray/) | PG | Sun, Nov 1 | Personal | Game Time Decision |
+| [J. Poole](https://www.cbssports.com/nba/players/2892690/jordan-poole/)[Jordan Poole](https://www.cbssports.com/nba/players/2892690/jordan-poole/) | PG | Sun, Nov 1 | Ankle | Expected to be out until at least Nov 4 |
 | [Y. Missi](https://www.cbssports.com/nba/players/29231829/yves-missi/)[Yves Missi](https://www.cbssports.com/nba/players/29231829/yves-missi/) | C | Fri, Oct 30 | Knee | Expected to be out until at least Nov 8 |
 
 #### [![Image 199: team logo](https://sports.cbsimg.net/fly/images/team-logos/350.svg)](https://www.cbssports.com/nba/teams/NY/new-york-knicks/)
@@ -896,8 +894,8 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [M. Raynaud](https://www.cbssports.com/nba/players/26777960/maxime-raynaud/)[Maxime Raynaud](https://www.cbssports.com/nba/players/26777960/maxime-raynaud/) | C | Mon, Oct 26 | Knee | Expected to be out until at least Nov 10 |
 | [D. Cardwell](https://www.cbssports.com/nba/players/3178508/dylan-cardwell/)[Dylan Cardwell](https://www.cbssports.com/nba/players/3178508/dylan-cardwell/) | C | Mon, Oct 26 | Calf | Expected to be out until at least Nov 6 |
+| [M. Raynaud](https://www.cbssports.com/nba/players/26777960/maxime-raynaud/)[Maxime Raynaud](https://www.cbssports.com/nba/players/26777960/maxime-raynaud/) | C | Mon, Oct 26 | Knee | Expected to be out until at least Nov 10 |
 | [K. Murray](https://www.cbssports.com/nba/players/3178498/keegan-murray/)[Keegan Murray](https://www.cbssports.com/nba/players/3178498/keegan-murray/) | PF | Mon, Oct 26 | Ankle | Expected to be out until at least Nov 6 |
 | [B. Simmons](https://www.cbssports.com/nba/players/2202822/ben-simmons/)[Ben Simmons](https://www.cbssports.com/nba/players/2202822/ben-simmons/) | SF | Sun, Oct 18 | Achilles | Out for the season |
 
@@ -935,9 +933,9 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
+| [T. Vukcevic](https://www.cbssports.com/nba/players/29118351/tristan-vukcevic/)[Tristan Vukcevic](https://www.cbssports.com/nba/players/29118351/tristan-vukcevic/) | PF | Sun, Nov 1 | Hip | Game Time Decision |
 | [J. Champagnie](https://www.cbssports.com/nba/players/3142275/justin-champagnie/)[Justin Champagnie](https://www.cbssports.com/nba/players/3142275/justin-champagnie/) | SF | Wed, Oct 28 | Foot | Expected to be out until at least Feb 25 |
 | [J. Watkins](https://www.cbssports.com/nba/players/26548278/jamir-watkins/)[Jamir Watkins](https://www.cbssports.com/nba/players/26548278/jamir-watkins/) | SF | Sat, Oct 17 | Knee | Expected to be out until at least Apr 2 |
-| [T. Vukcevic](https://www.cbssports.com/nba/players/29118351/tristan-vukcevic/)[Tristan Vukcevic](https://www.cbssports.com/nba/players/29118351/tristan-vukcevic/) | PF | Thu, Oct 1 | Hip | Expected to be out until at least Nov 2 |
 
  More [Pick'em Games](https://picks.cbssports.com/football/lobby)[Fantasy Sports](https://www.cbssports.com/fantasy/games/)[Free Sports TV](https://www.cbssports.com/watch/live)[Best Betting Apps](https://www.cbssports.com/betting/news/best-betting-apps/)[Best Prediction Apps](https://www.cbssports.com/prediction/news/best-prediction-market-apps/)[March Madness](https://picks.cbssports.com/college-basketball/ncaa-tournament/bracket)[Mobile Apps](https://www.cbssports.com/mobile) Company [About Us](https://www.cbssports.com/info/aboutus)[Careers](https://www.viacomcbs.com/careers/experienced)[About Paramount](https://www.paramount.com/)[Paramount+](https://www.paramountplus.com/)[CBS TV](https://www.cbs.com/?ftag=TVE-24-10aag2f) Regulation [Terms Of Use](https://legalterms.cbsinteractive.com/terms-of-use)[Privacy Policy](https://privacy.paramount.com/policy)[Minors' Privacy Policy](https://privacy.paramount.com/childrens)[Your Privacy Choices](https://www.cbssports.com/nba/injuries/#onetrust-pc-sdk)[Closed Captioning](https://www.cbs.com/closed-captioning/)[California Notice](https://privacy.paramount.com/en/policy#additional-information-us-states) Contact Us [Help](https://help.cbssports.com/)[Customer Care](https://help.cbssports.com/s/contact-us) Social Media [YouTube](https://www.youtube.com/CBSSports)[TikTok](https://www.tiktok.com/@cbssports)[Instagram](https://instagram.com/cbssports/)[Facebook](https://www.facebook.com/cbssports/)[X](https://twitter.com/cbssports/)[Threads](https://www.threads.net/@cbssports)[Flipboard](https://flipboard.com/@cbssports/?utm_source=cbssports&utm_medium=follow&utm_campaign=tools) Account [Manage My Account](https://www.cbssports.com/settings/)[Newsletters](https://www.cbssports.com/settings/newsletters)[My Teams](https://www.cbssports.com/fantasy/games/my-teams/)[Forgot Password](https://www.cbssports.com/get-pass)
 
