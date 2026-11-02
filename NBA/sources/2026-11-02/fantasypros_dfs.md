@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-monday-11-2/ | fetched: 2026-11-02 18:05 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-monday-11-2/ | fetched: 2026-11-02 18:35 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Monday \(11/2\)](https://cdn.fantasypros.com/wp-content/images/FRED_VANVLEET_ROCKETS_3-1/716x316.jpg)
 For today’s [NBA DFS](https://www.fantasypros.com/daily-fantasy/nba/tools.php) picks, we have 15 games available. We’ve got some great players to consider.
@@ -66,5 +66,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ ROS Rankings ](https://www.fantasypros.com/nba/rankings/ros-overall.php)[ Dynasty Rankings ](https://www.fantasypros.com/nba/rankings/dynasty-overall.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

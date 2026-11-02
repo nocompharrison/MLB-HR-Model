@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spread-picks-prop-bets-for-monday-november-2 | fetched: 2026-11-02 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spread-picks-prop-bets-for-monday-november-2 | fetched: 2026-11-02 18:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -73,25 +73,18 @@ Jun 5th
 Under 2.5 TOV: Shai Gilgeous-Alexander
 -145 (0.27u)
 Copy Bet
-![NYK](https://assets.actionnetwork.com/740173_58419cc8a6515b1e0ad75a67.png)
-![SAS](https://static.sprtactn.co/teamlogos/nba/100/sas.png)
-Knicks @ Spurs Picks
-Jun 5th
+![CHI](https://assets.actionnetwork.com/598430_bears1.png)
+![SEA](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
+Bears @ Seahawks Picks
+Today
 /
-8:30 PM on ABC
+8:15 PM on ESPN
 •
-115.9k bets
-OG Anunoby OR Julian Champagnie 5+ 3PM
-+330 (0.25u)
-Copy Bet
-OG Anunoby OR Julian Champagnie 4+ 3s
-+120 (0.55u)
-Copy Bet
-Jalen Brunson OR Julian Champagnie 6+ 3pm
-+660 (0.25u)
-Copy Bet
-Josh Hart MORE assists than Stephon Castle
-+208 (1.1u)
+122.9k bets
+CHI +3
+-102 (0.55u)
+![FanDuel CO](https://assets.actionnetwork.com/392973_FanDuel.png)
+Bet Now
 Copy Bet
 See All
 * * *  
@@ -156,12 +149,12 @@ Ameer Tyree
 NBA
 [NBA Player Props: 6 Best Bets for Monday, November 2](https://www.actionnetwork.com/nba/nba-player-props-6-best-bets-for-monday-november-2)
 Action Network Staff
-3 hours ago
+4 hours ago
 [![NBA Moneyline Parlay: 2 Predictions for Monday, November 2](https://images.actionnetwork.com/blog/2026/11/NBA-ML-Parlay-11_2_26.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-2)
 NBA
 [NBA Moneyline Parlay: 2 Predictions for Monday, November 2](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-2)
 Ryan Minion
-6 hours ago
+7 hours ago
 [![Thunder vs Cavaliers Prediction, Pick, NBA Odds for Monday, November 2](https://images.actionnetwork.com/blog/2026/11/Thunder-vs-Cavs-11_2_26.jpg)](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-cleveland-cavaliers-prediction-pick-odds-nba-monday-november-2)
 NBA
 [Thunder vs Cavaliers Prediction, Pick, NBA Odds for Monday, November 2](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-cleveland-cavaliers-prediction-pick-odds-nba-monday-november-2)
@@ -171,28 +164,28 @@ Bryan Fonseca
 NBA
 [Pistons vs Hornets Predictions, Odds, Picks: Bet This Three-Point Prop Tonight](https://www.actionnetwork.com/nba/detroit-pistons-vs-charlotte-hornets-prediction-pick-odds-nba-monday-november-2)
 Bryan Fonseca
-45 mins ago
+1 hour ago
 [![Nets vs Knicks Predictions, Odds, Picks: Clear Runway for Karl-Anthony Towns](https://images.actionnetwork.com/blog/2026/11/Nets-vs-Knicks-11_2_26.jpg)](https://www.actionnetwork.com/nba/brooklyn-nets-vs-new-york-knicks-prediction-pick-odds-nba-monday-november-2)
 NBA
 [Nets vs Knicks Predictions, Odds, Picks: Clear Runway for Karl-Anthony Towns](https://www.actionnetwork.com/nba/brooklyn-nets-vs-new-york-knicks-prediction-pick-odds-nba-monday-november-2)
 Joe Dellera
-11 mins ago
-[![Bulls vs 76ers Prediction, Pick, NBA Odds for Monday, November 2](https://images.actionnetwork.com/blog/2026/10/vje.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-philadelphia-76ers-prediction-pick-nba-odds-monday-november-2)
+41 mins ago
+[![Bulls vs 76ers Predictions, Odds, Picks: Edgecombe’s Rebounding is Key Tonight](https://images.actionnetwork.com/blog/2026/10/vje.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-philadelphia-76ers-prediction-pick-nba-odds-monday-november-2)
 NBA
-[Bulls vs 76ers Prediction, Pick, NBA Odds for Monday, November 2](https://www.actionnetwork.com/nba/chicago-bulls-vs-philadelphia-76ers-prediction-pick-nba-odds-monday-november-2)
+[Bulls vs 76ers Predictions, Odds, Picks: Edgecombe’s Rebounding is Key Tonight](https://www.actionnetwork.com/nba/chicago-bulls-vs-philadelphia-76ers-prediction-pick-nba-odds-monday-november-2)
 Bryan Fonseca
-9 hours ago
-[![Wizards vs Magic Prediction, Pick, NBA Odds for Monday, November 2](https://images.actionnetwork.com/blog/2026/10/bane.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-orlando-magic-prediction-pick-odds-nba-monday-november-2)
+24 mins ago
+[![Wizards vs Magic Predictions, Odds, Picks: The Market Overrates Banchero’s Absence](https://images.actionnetwork.com/blog/2026/10/bane.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-orlando-magic-prediction-pick-odds-nba-monday-november-2)
 NBA
-[Wizards vs Magic Prediction, Pick, NBA Odds for Monday, November 2](https://www.actionnetwork.com/nba/washington-wizards-vs-orlando-magic-prediction-pick-odds-nba-monday-november-2)
+[Wizards vs Magic Predictions, Odds, Picks: The Market Overrates Banchero’s Absence](https://www.actionnetwork.com/nba/washington-wizards-vs-orlando-magic-prediction-pick-odds-nba-monday-november-2)
 Michael Fiddle
-8 hours ago
+15 mins ago
 [![Bucks vs Timberwolves Prediction, Pick, NBA Odds for Monday, November 2](https://images.actionnetwork.com/blog/2026/11/Bucks-vs-Timberwolves-11_2_26.jpg)](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-2)
 NBA
 [Bucks vs Timberwolves Prediction, Pick, NBA Odds for Monday, November 2](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-2)
 Matt Moore
-8 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1be8efcf-0b43-45b9-9a7f-546b6bbabc89&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fd2210e-8622-4a65-9115-1afebc5d71d1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1be8efcf-0b43-45b9-9a7f-546b6bbabc89&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fd2210e-8622-4a65-9115-1afebc5d71d1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=745d56f5-4e43-4422-ab8e-7745e05757e2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fd2210e-8622-4a65-9115-1afebc5d71d1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=7415&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=745d56f5-4e43-4422-ab8e-7745e05757e2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fd2210e-8622-4a65-9115-1afebc5d71d1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=7415&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7010e9b3-0eaa-4be1-9a92-95da5caefeb2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1b8d0d60-1585-44dd-be3d-4a8637f1442e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7010e9b3-0eaa-4be1-9a92-95da5caefeb2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1b8d0d60-1585-44dd-be3d-4a8637f1442e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=b6130591-aec0-4103-98ee-1380a3fcb081&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1b8d0d60-1585-44dd-be3d-4a8637f1442e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=b6130591-aec0-4103-98ee-1380a3fcb081&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1b8d0d60-1585-44dd-be3d-4a8637f1442e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spread-picks-prop-bets-for-monday-november-2&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=41&tw_session_id=1793660599999-509593757&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

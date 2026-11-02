@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-parlay-picks-monday-nov-2-145032 | fetched: 2026-11-02 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-parlay-picks-monday-nov-2-145032 | fetched: 2026-11-02 18:35 ET -->
 
 # Best NBA Bets Tonight: Props, Picks and Predictions for Monday, November 2
 Get the best NBA bets today, with expert player prop picks on assists and points, a same-game parlay and odds from top sportsbooks for Monday’s Nov. 2 NBA slate.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [**Cooper Flagg**](https://www.rotowire.com/basketball/player/cooper-flagg-6548)**over 6.5 assists vs. Sacramento Kings (+113)**
 _DraftKings, Noon ET_
 **Nick Whalen:** Flagg enters the week having posted at least six assists in each of his last four games, including eight and 11 in wins over OKC and Miami, respectively. He now gets a matchup against the NBA's 29th-ranked defense in the Kings, who are giving up a league-high 30.0 assists per game. There's also a chance [Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186), who's listed as questionable, could be held out, which would push even more of the playmaking duties onto Flagg. If we really want to get wild, I don't mind looking at a Flagg triple-double at +1980.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=97abc7a4-7142-405a-8a64-2949b31df2e8&operator_item_id=533d9df0-4866-40e6-93e8-de7cfe39379d&pageview_id=74877331-ef9d-45e5-a71d-4810e2890b7c)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=fce4891e-570a-42e1-aea8-f31f7c4262bb&operator_item_id=4c349fed-af4c-4b1e-86a7-576039362ae8&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=a394c16a-8b65-4a91-bd59-79847ceb95fb&operator_item_id=533d9df0-4866-40e6-93e8-de7cfe39379d&pageview_id=74877331-ef9d-45e5-a71d-4810e2890b7c)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=59fffd55-a9e0-4b57-bc1f-676497574f55&operator_item_id=8b1a0482-c00e-4a6a-bb34-82bd3f40d53c&pageview_id=74877331-ef9d-45e5-a71d-4810e2890b7c) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=2fd9aee1-227d-4f39-b53e-24b9c60c16fb&operator_item_id=4c349fed-af4c-4b1e-86a7-576039362ae8&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=31f0ae57-705f-4bb5-83a1-c071f678b9b1&operator_item_id=05434fbf-2d2d-4992-9215-a1b5d5e8a16a&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=9c7e0b60-1b02-4579-bc9e-ff4c3b4cf7df&operator_item_id=8b1a0482-c00e-4a6a-bb34-82bd3f40d53c&pageview_id=74877331-ef9d-45e5-a71d-4810e2890b7c)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=32c3b9e7-135a-476b-adc4-c58546e508d6&operator_item_id=05434fbf-2d2d-4992-9215-a1b5d5e8a16a&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  **Parlay:**[**LeBron James**](https://www.rotowire.com/basketball/player/lebron-james-2344)**over 6.5 assists + under 17.5 points vs. Chicago Bulls (+258)**
 _DraftKings, Noon ET_
@@ -52,6 +52,21 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Out vs. Sacramento
+NBA
+Dallas Mavericks
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Matthew Stafford](https://www.rotowire.com/football/player/matthew-stafford-5971)
+Managing arm soreness
+NFL
+Los Angeles Rams
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Kendrick Bourne](https://www.rotowire.com/football/player/kendrick-bourne-11847)
+Out for season
+NFL
+Arizona Cardinals
   * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
 Ruled out Monday
@@ -62,21 +77,6 @@ Atlanta Hawks
 Loses starting gig, now No. 3 QB
 NFL
 Arizona Cardinals
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Jeremiyah Love](https://www.rotowire.com/football/player/jeremiyah-love-19235)
-Dealing with 'new' ankle injury
-NFL
-Arizona Cardinals
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Gardner Minshew](https://www.rotowire.com/football/player/gardner-minshew-13741)
-Taking over as starting quarterback
-NFL
-Arizona Cardinals
-  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
-Questionable to face LAC
-NBA
-Toronto Raptors
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -93,18 +93,24 @@ Texas Rangers
 [Heston Kjerstad](https://www.rotowire.com/baseball/player/heston-kjerstad-16682)
 Clears waivers, enters free agency
 MLB
+  * ![Chicago Cubs](https://assets.rotowire.com/images/teamlogo/baseball/100CHC.png?v=8)
+[Eric Orze](https://www.rotowire.com/baseball/player/eric-orze-19285)
+Goes to Cubs in waiver claim
+MLB
+Chicago Cubs
   * ![New York Mets](https://assets.rotowire.com/images/teamlogo/baseball/100NYM.png?v=8)
-[Pierson Ohl](https://www.rotowire.com/baseball/player/pierson-ohl-20433)
-Claimed off waivers by Mets
+[Kyren Paris](https://www.rotowire.com/baseball/player/kyren-paris-16110)
+DFA'd by Mets
 MLB
 New York Mets
-  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Leody Taveras](https://www.rotowire.com/baseball/player/leody-taveras-13952)
-Elects free agency
-MLB
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Out vs. Sacramento
+NBA
+Dallas Mavericks
   * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
 Ruled out Monday
@@ -125,14 +131,19 @@ Golden State Warriors
 Iffy with wrist issue
 NBA
 Minnesota Timberwolves
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Downgraded to doubtful
-NBA
-Dallas Mavericks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Matthew Stafford](https://www.rotowire.com/football/player/matthew-stafford-5971)
+Managing arm soreness
+NFL
+Los Angeles Rams
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Kendrick Bourne](https://www.rotowire.com/football/player/kendrick-bourne-11847)
+Out for season
+NFL
+Arizona Cardinals
   * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
 [Jacoby Brissett](https://www.rotowire.com/football/player/jacoby-brissett-10919)
 Loses starting gig, now No. 3 QB
@@ -148,16 +159,6 @@ Arizona Cardinals
 Taking over as starting quarterback
 NFL
 Arizona Cardinals
-  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
-[Jadarian Price](https://www.rotowire.com/football/player/jadarian-price-19299)
-Activated for Monday night game
-NFL
-Seattle Seahawks
-  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
-[Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
-Undergoing evaluation on hamstring injury
-NFL
-Minnesota Vikings
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
