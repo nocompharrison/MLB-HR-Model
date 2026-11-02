@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-02 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-02 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,28 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Starting Monday](https://www.rotowire.com/basketball/headlines/jaylin-williams-news-starting-monday-537249)
+**C** Oklahoma City Thunder
+November 2, 2026
+Williams will start in Monday's game against Cleveland, [Justin Martinez of The Oklahoman](https://x.com/Justintohoops/status/2117400939074117733?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jared McCain](https://www.rotowire.com/basketball/player/jared-mccain-6266)[Shifting to bench Monday](https://www.rotowire.com/basketball/headlines/jared-mccain-news-shifting-to-bench-monday-537248)
+**G** Oklahoma City Thunder
+November 2, 2026
+McCain isn't in the starting lineup for Monday's game against Cleveland, [Justin Martinez of The Oklahoman](https://x.com/Justintohoops/status/2117400939074117733?a=jfT5NhRAcjsvPocmgBg&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Dylan Cardwell](https://www.rotowire.com/basketball/player/dylan-cardwell-6638)[Ruled out Monday](https://www.rotowire.com/basketball/headlines/dylan-cardwell-injury-ruled-out-monday-537247)
+**C** Sacramento Kings
+Calf
+November 2, 2026
+Cardwell (calf) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_06_30PM.pdf) for Monday's game against the Mavericks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Making first NBA start](https://www.rotowire.com/basketball/headlines/meleek-thomas-news-making-first-nba-start-537246)
 **G** Cleveland Cavaliers
@@ -180,27 +202,6 @@ Williams (quadriceps) is [listed as questionable](https://ak-static.cms.nba.com/
 Rest
 November 2, 2026
 Horford will be [rested](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_04_00PM.pdf) Monday against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)[Cleared to suit up](https://www.rotowire.com/basketball/headlines/draymond-green-news-cleared-to-suit-up-537223)
-**C** Golden State Warriors
-November 2, 2026
-Green (back) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_04_00PM.pdf) Monday against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)[Set to return Monday](https://www.rotowire.com/basketball/headlines/stephen-curry-news-set-to-return-monday-537222)
-**G** Golden State Warriors
-November 2, 2026
-Curry (rest) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_04_00PM.pdf) Monday against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)[Good to go Monday](https://www.rotowire.com/basketball/headlines/ziaire-williams-news-good-to-go-monday-537221)
-**F** Los Angeles Lakers
-November 2, 2026
-Williams (foot) is [good to go](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_04_00PM.pdf) for Monday against the Heat.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

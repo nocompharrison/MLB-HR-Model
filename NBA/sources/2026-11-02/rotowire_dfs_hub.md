@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-02 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-02 18:50 ET -->
 
 # NBA DFS Picks Today
 November 2, 2026
@@ -22,6 +22,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Monday, November 2 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (30) All NBA news Atlanta Hawks (ATL @ IND) Boston Celtics (BOS @ HOU) Brooklyn Nets (BKN @ NYK) Charlotte Hornets (DET @ CHA) Chicago Bulls (CHI @ PHI) Cleveland Cavaliers (OKC @ CLE) Dallas Mavericks (SAC @ DAL) Denver Nuggets (POR @ DEN) Detroit Pistons (DET @ CHA) Golden State Warriors (PHX @ GSW) Houston Rockets (BOS @ HOU) Indiana Pacers (ATL @ IND) Los Angeles Clippers (TOR @ LAC) Los Angeles Lakers (MIA @ LAL) Memphis Grizzlies (NOP @ MEM) Miami Heat (MIA @ LAL) Milwaukee Bucks (MIL @ MIN) Minnesota Timberwolves (MIL @ MIN) New Orleans Pelicans (NOP @ MEM) New York Knicks (BKN @ NYK) Oklahoma City Thunder (OKC @ CLE) Orlando Magic (WSH @ ORL) Philadelphia 76ers (CHI @ PHI) Phoenix Suns (PHX @ GSW) Portland Trail Blazers (POR @ DEN) Sacramento Kings (SAC @ DAL) San Antonio Spurs (UTA @ SAN) Toronto Raptors (TOR @ LAC) Utah Jazz (UTA @ SAN) Washington Wizards (WSH @ ORL)
+Oklahoma City ThunderOKC @ CLE - 7:00 PM ET
+**[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)** _C_ 6:45 PM ET
+#### Starting Monday
+Williams will start in Monday's game against Cleveland, Justin Martinez of The Oklahoman reports.
+Analysis
+Williams will enter the starting lineup for the first time this season, with Jared McCain shifting to the bench. Williams offers plenty of size and strength versus the Cavaliers starting frontcourt in Evan Mobley and Jarrett Allen, so this is likely due to the matchup.
+Oklahoma City ThunderOKC @ CLE - 7:00 PM ET
+**[Jared McCain](https://www.rotowire.com/basketball/player/jared-mccain-6266)** _G_ 6:44 PM ET
+#### Shifting to bench Monday
+McCain isn't in the starting lineup for Monday's game against Cleveland, Justin Martinez of The Oklahoman reports.
+Analysis
+McCain will retreat to a bench role after making three straight starts for the Thunder. Jaylin Williams will take McCain's place as OKC elects to roll with more size to begin Monday's clash.
+Sacramento KingsSAC @ DAL - 8:00 PM ET
+**[Dylan Cardwell](https://www.rotowire.com/basketball/player/dylan-cardwell-6638)** _C_ OUT6:34 PM ET
+#### Ruled out Monday
+Cardwell (calf) has been ruled out for Monday's game against the Mavericks.
+Analysis
+Cardwell was temporarily upgraded to probable ahead of Monday's clash, though he was downgraded twice before ultimately being ruled out with a left calf strain. His next chance to make his season debut will arrive Wednesday against the Lakers.
 Cleveland CavaliersOKC @ CLE - 7:00 PM ET
 **[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)** _G_ _Top_ 6:23 PM ET
 #### Making first NBA start
@@ -34,25 +52,7 @@ Minnesota TimberwolvesMIL @ MIN - 8:00 PM ET
 Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports.
 Analysis
 Shannon will miss his first game of the season due to a left hip contusion, and his next chance to play will come Wednesday against Houston. With the 26-year-old swingman joining Anthony Edwards (knee) on the inactive list, more minutes will be available for guys like Ayo Dosunmu, Isaiah Evans and Jaylen Clark.
-Cleveland CavaliersOKC @ CLE - 7:00 PM ET
-**[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)** _F_ OUT _Top_ 6:17 PM ET
-#### Won't play Monday
-Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports.
-Analysis
-Watson was initially listed as questionable due to right hamstring soreness and will be held out of Monday's contest. His next chance to play will come in Wednesday's rematch against Oklahoma City. In the meantime, Meleek Thomas, Mario Hezonja and Sam Merrill are candidates to see increased burn.
-Dallas MavericksSAC @ DAL - 8:00 PM ET
-**[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)** _G_ OUT _Top_ 6:13 PM ET
-#### Out vs. Sacramento
-Irving (knee) has been ruled out for Monday's game against the Kings.
-Analysis
-Irving was initially listed as questionable before being downgraded to doubtful Monday afternoon, and he's since been ruled out. With the star floor general sidelined, Marcus Sasser and Walter Clayton are candidates for increased burn, while Cooper Flagg will likely see increased playmaking duties.
-Dallas MavericksSAC @ DAL - 8:00 PM ET
-**[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)** _F_ OUT6:12 PM ET
-#### Won't play Monday
-Aldama (knee) has been ruled out for Monday's matchup with Sacramento.
-Analysis
-Aldama has yet to make his season debut while recovering from the right knee surgery he underwent in March, though he appears to be making progress. His next chance to suit up will come Wednesday against San Antonio.
-Show 5 more (89 remaining)
+Show 5 more (92 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,24 +63,24 @@ Main Slate - 11 games - 7:00 PM Nov 4 - Main Slate - 11 games - 7:00 PM (lineups
 Implied total vs. the slate _Lowest_ _Highest_
 **OKC @ CLE**
 O/U 229.57:00 PM ET
-ThunderExpectedAway
+ThunderConfirmedAway
 _Implied_**112.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $6,200  | 29.0  |  
-| PF  | Kenrich Williams  | $4,300  | 21.9  |  
+| PF  | Jaylin Williams  | $4,400  | 26.8  |  
 | PG  | Shai Gilgeous-Alexander  | $10,100  | 48.2  |  
-| SF  | Ajay Mitchell  | $6,600  | 28.9  |  
-| SG  | Jared McCain  | $5,800  | 25.7  |  
+| SF  | Kenrich Williams  | $4,300  | 21.9  |  
+| SG  | Ajay Mitchell  | $6,600  | 28.9  |  
 CavaliersConfirmedHome
 _Implied_**117.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jarrett Allen  | $6,600  | 35.5  |  
-| PF  | Evan Mobley  | $7,900  | 44.7  |  
-| PG  | James Harden  | $7,300  | 41.4  |  
-| SF  | Meleek Thomas  | $3,600  | 18.5  |  
-| SG  | Donovan Mitchell  | $8,400  | 46.8  |  
+| C  | Jarrett Allen  | $6,600  | 32.6  |  
+| PF  | Evan Mobley  | $7,900  | 40.9  |  
+| PG  | James Harden  | $7,300  | 37.7  |  
+| SF  | Meleek Thomas  | $3,600  | 21.4  |  
+| SG  | Donovan Mitchell  | $8,400  | 42.6  |  
 **DET @ CHA**
 O/U 209.57:30 PM ET
 PistonsExpectedAway
@@ -157,10 +157,10 @@ _Implied_**114.0** _Spread_**-2.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $6,100  | 36.0  |  
-| PF  | Franz Wagner  | $8,300  | 47.0  |  
+| PF  | Franz Wagner  | $8,300  | 46.9  |  
 | PG  | Jase Richardson  | $4,200  | 25.3  |  
-| SF  | Desmond Bane  | $7,000  | 41.7  |  
-| SG  | Jamal Cain  | $3,300  | 18.1  |  
+| SF  | Desmond Bane  | $7,000  | 41.6  |  
+| SG  | Jamal Cain  | $3,300  | 18.0  |  
 **CHI @ PHI**
 O/U 239.57:30 PM ET
 BullsExpectedAway
@@ -242,9 +242,9 @@ _Implied_**120.5** _Spread_**-10.5**
 | SF  | Jonathan Kuminga  | $5,900  | 34.7  |  
 | SG  | Ayo Dosunmu  | $6,200  | 31.7  |  
 **BOS @ HOU**
-O/U 216.58:30 PM ET
+O/U 215.58:30 PM ET
 CelticsExpectedAway
-_Implied_**106.0** _Spread_**+4.5**  
+_Implied_**105.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Mitchell Robinson  | $4,400  | 23.2  |  
@@ -253,7 +253,7 @@ _Implied_**106.0** _Spread_**+4.5**
 | SF  | Jayson Tatum  | $9,900  | 46.4  |  
 | SG  | Hugo Gonzalez  | $3,500  | 12.5  |  
 RocketsExpectedHome
-_Implied_**110.5** _Spread_**-4.5**  
+_Implied_**110.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alperen Sengun  | $8,700  | 42.7  |  
@@ -262,9 +262,9 @@ _Implied_**110.5** _Spread_**-4.5**
 | SF  | Kevin Durant  | $7,700  | 36.1  |  
 | SG  | Amen Thompson  | $7,200  | 34.8  |  
 **UTA @ SAS**
-O/U 227.58:30 PM ET
+O/U 228.58:30 PM ET
 JazzExpectedAway
-_Implied_**105.5** _Spread_**+16.5**  
+_Implied_**106.0** _Spread_**+16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jaxson Hayes  | $5,200  | 22.5  |  
@@ -273,7 +273,7 @@ _Implied_**105.5** _Spread_**+16.5**
 | SF  | Ace Bailey  | $6,400  | 29.9  |  
 | SG  | Darryn Peterson  | $6,100  | 28.9  |  
 SpursExpectedHome
-_Implied_**122.0** _Spread_**-16.5**  
+_Implied_**122.5** _Spread_**-16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Victor Wembanyama  | $11,100  | 53.6  |  

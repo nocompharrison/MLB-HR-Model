@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-parlay-picks-monday-nov-2-145032 | fetched: 2026-11-02 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-parlay-picks-monday-nov-2-145032 | fetched: 2026-11-02 18:50 ET -->
 
 # Best NBA Bets Tonight: Props, Picks and Predictions for Monday, November 2
 Get the best NBA bets today, with expert player prop picks on assists and points, a same-game parlay and odds from top sportsbooks for Monday’s Nov. 2 NBA slate.
@@ -23,13 +23,13 @@ For up-to-the-minute updates on injuries, lineups, roster changes and more, head
 ###  [**Cooper Flagg**](https://www.rotowire.com/basketball/player/cooper-flagg-6548)**over 6.5 assists vs. Sacramento Kings (+113)**
 _DraftKings, Noon ET_
 **Nick Whalen:** Flagg enters the week having posted at least six assists in each of his last four games, including eight and 11 in wins over OKC and Miami, respectively. He now gets a matchup against the NBA's 29th-ranked defense in the Kings, who are giving up a league-high 30.0 assists per game. There's also a chance [Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186), who's listed as questionable, could be held out, which would push even more of the playmaking duties onto Flagg. If we really want to get wild, I don't mind looking at a Flagg triple-double at +1980.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=fce4891e-570a-42e1-aea8-f31f7c4262bb&operator_item_id=4c349fed-af4c-4b1e-86a7-576039362ae8&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&operator_item_id=8f7f91df-09a7-4c80-9098-27e73b8fb3d6&cta_id=c2e3e727-6a4d-4bf8-bcc7-c2fc04426356&pageview_id=926b8f29-e34e-4607-9164-432fea05e033)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=2fd9aee1-227d-4f39-b53e-24b9c60c16fb&operator_item_id=4c349fed-af4c-4b1e-86a7-576039362ae8&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=31f0ae57-705f-4bb5-83a1-c071f678b9b1&operator_item_id=05434fbf-2d2d-4992-9215-a1b5d5e8a16a&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&operator_item_id=8f7f91df-09a7-4c80-9098-27e73b8fb3d6&cta_id=d4bc27ed-4530-4e7a-bbeb-559f917f4aa5&pageview_id=926b8f29-e34e-4607-9164-432fea05e033)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&operator_item_id=d20bf5ba-92c9-4280-be68-b4b94b3e6a11&cta_id=7b90d56e-40b0-40ea-b32e-0c12f1a27e1e&pageview_id=926b8f29-e34e-4607-9164-432fea05e033) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&cta_id=32c3b9e7-135a-476b-adc4-c58546e508d6&operator_item_id=05434fbf-2d2d-4992-9215-a1b5d5e8a16a&pageview_id=fe4dc545-bb0d-49d7-bbe4-88f311f98694)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-parlay-picks-monday-nov-2-145032&operator_item_id=d20bf5ba-92c9-4280-be68-b4b94b3e6a11&cta_id=a2696f3d-9257-44ae-a8c1-e513cda544a1&pageview_id=926b8f29-e34e-4607-9164-432fea05e033)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ###  **Parlay:**[**LeBron James**](https://www.rotowire.com/basketball/player/lebron-james-2344)**over 6.5 assists + under 17.5 points vs. Chicago Bulls (+258)**
 _DraftKings, Noon ET_
@@ -81,6 +81,18 @@ Arizona Cardinals
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Seiya Suzuki](https://www.rotowire.com/baseball/player/seiya-suzuki-17159)
+Cubs extend qualifying offer
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Adrian Morejon](https://www.rotowire.com/baseball/player/adrian-morejon-14068)
+Given qualifying offer by Padres
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
+[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
+Given QO by Brewers
+MLB
+  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
 [Brandon Lowe](https://www.rotowire.com/baseball/player/brandon-lowe-13897)
 Extended $23.15M qualifying offer
 MLB
@@ -89,20 +101,6 @@ MLB
 Undergoes hip surgery
 MLB
 Texas Rangers
-  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Heston Kjerstad](https://www.rotowire.com/baseball/player/heston-kjerstad-16682)
-Clears waivers, enters free agency
-MLB
-  * ![Chicago Cubs](https://assets.rotowire.com/images/teamlogo/baseball/100CHC.png?v=8)
-[Eric Orze](https://www.rotowire.com/baseball/player/eric-orze-19285)
-Goes to Cubs in waiver claim
-MLB
-Chicago Cubs
-  * ![New York Mets](https://assets.rotowire.com/images/teamlogo/baseball/100NYM.png?v=8)
-[Kyren Paris](https://www.rotowire.com/baseball/player/kyren-paris-16110)
-DFA'd by Mets
-MLB
-New York Mets
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
