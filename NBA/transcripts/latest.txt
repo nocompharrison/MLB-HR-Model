@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-02 | updated 2026-11-02 18:39 ET
+# NBA transcripts | 2026-11-02 | updated 2026-11-02 18:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 19 files in NBA/transcripts/2026-11-02:
 NBA/transcripts/2026-11-02/0rdz0NkIVyc_WagerTalk_MONDAY_NBA_Picks_Suns_vs_Warriors_Raptors_vs_Clippers_NBA_Betting_Tips.txt
@@ -27,11 +27,9 @@ NONE    channel SGPN: nothing new in the date window (or everything already save
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NOCAPS  WagerTalk 3-mdNE_8mL4 NBA Picks Today LIVE: Best Bets & Predictions for 15 Games |  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NBA/transcripts/2026-11-02/eAtrnlcQq5c_WagerTalk_NBA_Picks_TODAY_Celtics_vs_Rockets_Heat_vs_Lakers_Monday_NBA_BEST_Bets.txt  (1,271 words)
-NEW     NBA/transcripts/2026-11-02/zDivP03CcK0_WagerTalk_LATE_NIGHT_NBA_Picks_Raptors_vs_Clippers_Heat_vs_Lakers_Monday_NBA_Pre.txt  (1,669 words)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+NOCAPS  DFSArmy vB3YY8qossk NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.1h ago))
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
@@ -40,7 +38,7 @@ NONE    channel HoopBall: nothing new in the date window (or everything already 
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-02/BFI9mdxitRI_LandYourBets_Monday_NBA_Live_Show_Best_Bets_Today_November_2_Land_Your_Bets.txt  (9,602 words, via Groq)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
