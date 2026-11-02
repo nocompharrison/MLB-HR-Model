@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-02 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-02 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,90 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
+[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
+[Scottie Barnes (hip) listed questionable Monday ](https://www.fantasypros.com/nba/news/617344/scottie-barnes-hip-listed-questionable-monday.php)  
+
+Mon, Nov 2nd 4:17pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Scottie Barnes is listed as questionable for Monday's game against the Clippers. 
+**_Fantasy Impact:_** Barnes was added to the injury report. He will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jakob Poeltl](https://images.fantasypros.com/images/players/nba/3172/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jakob-poeltl.php)
+C - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/jakob-poeltl.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jakob-poeltl.php)  
+[» More News](https://www.fantasypros.com/nba/news/jakob-poeltl.php)
+[Jakob Poeltl (shoulder) now questionable Monday ](https://www.fantasypros.com/nba/news/617343/jakob-poeltl-shoulder-now-questionable-monday.php)  
+
+Mon, Nov 2nd 4:16pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jakob Poeltl is now questionable for Monday's game against the Clippers. 
+**_Fantasy Impact:_** Poeltl sat out Sunday’s loss to the Lakers. He could return for the second game of the back-to-back. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Clint Capela](https://images.fantasypros.com/images/players/nba/2906/headshot/100x100.png)](https://www.fantasypros.com/nba/players/clint-capela.php)
+C - HOU
+[» Rankings](https://www.fantasypros.com/nba/players/clint-capela.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/clint-capela.php)  
+[» More News](https://www.fantasypros.com/nba/news/clint-capela.php)
+[Clint Capela (ankle) ruled out Monday ](https://www.fantasypros.com/nba/news/617342/clint-capela-ankle-ruled-out-monday.php)  
+
+Mon, Nov 2nd 4:15pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Clint Capela has been ruled out for Monday's game against the Celtics. 
+**_Fantasy Impact:_** Capela remains off the fantasy radar with Alperen Şengün available. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dejounte Murray](https://images.fantasypros.com/images/players/nba/3199/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dejounte-murray.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/dejounte-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dejounte-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/dejounte-murray.php)
+[Dejounte Murray (personal) now questionable Monday ](https://www.fantasypros.com/nba/news/617341/dejounte-murray-personal-now-questionable-monday.php)  
+
+Mon, Nov 2nd 4:13pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dejounte Murray is now questionable for Monday's game against the Grizzlies. 
+**_Fantasy Impact:_** Murray was originally off the injury report. He has missed the past two games for the Pelicans. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
+[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
+[Trey Murphy III (knee) available Monday ](https://www.fantasypros.com/nba/news/617340/trey-murphy-iii-knee-available-monday.php)  
+
+Mon, Nov 2nd 4:12pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Trey Murphy III is available for Monday's game against the Grizzlies. 
+**_Fantasy Impact:_** Murphy is good to go as expected after being listed as probable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alex Sarr](https://images.fantasypros.com/images/players/nba/6171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-sarr.php)
+C - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/alex-sarr.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alex-sarr.php)  
+[» More News](https://www.fantasypros.com/nba/news/alex-sarr.php)
+[Alex Sarr (knee) ruled out Monday ](https://www.fantasypros.com/nba/news/617339/alex-sarr-knee-ruled-out-monday.php)  
+
+Mon, Nov 2nd 4:11pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alex Sarr has been ruled out for Monday's game against the Magic. 
+**_Fantasy Impact:_** Sarr will be sidelined after being listed as questionable. Deandre Ayton should see a spot start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
 F - BOS
 [» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
@@ -203,90 +287,6 @@ Collin Sexton scored 14 points (6-10 FG, 1-3 3P, 1-2 FT) with three rebounds, th
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jamison Battle](https://images.fantasypros.com/images/players/nba/6264/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamison-battle.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/jamison-battle.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jamison-battle.php)  
-[» More News](https://www.fantasypros.com/nba/news/jamison-battle.php)
-[Jamison Battle leads bench in loss to Lakers](https://www.fantasypros.com/nba/news/617233/jamison-battle-leads-bench-loss-to-lakers.php)  
-
-Mon, Nov 2nd 10:32am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Jamison Battle scored 20 points (7-14 FG, 4-10 3P, 2-2 FT) with five rebounds in the Raptors’ 131-125 loss to the Lakers.
-**_Fantasy Impact:_** Battle led the Raptors bench in the tough loss and tied for the team lead in three pointers made. It was his best night of the year by far, but not something we should see as predictable. He’s best left on waivers.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Immanuel Quickley](https://images.fantasypros.com/images/players/nba/5141/headshot/100x100.png)](https://www.fantasypros.com/nba/players/immanuel-quickley.php)
-G - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/immanuel-quickley.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/immanuel-quickley.php)  
-[» More News](https://www.fantasypros.com/nba/news/immanuel-quickley.php)
-[Immanuel Quickley puts up 12 in loss to Lakers](https://www.fantasypros.com/nba/news/617229/immanuel-quickley-puts-up-12-loss-to-lakers.php)  
-
-Mon, Nov 2nd 10:26am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Immanuel Quickley scored 12 points (3-13 FG, 3-11 3P, 3-3 FT) with six rebounds, seven assists, and a steal in the Raptors’ 131-125 loss to the Lakers.
-**_Fantasy Impact:_** Quickley struggled with efficiency in this game, scoring just 12 points on 13 shots. However, he made up for it elsewhere with his playmaking. He’s been a consistent scorer this season so far, so expect him to have a better game next time out.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![De'Anthony Melton](https://images.fantasypros.com/images/players/nba/3496/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deanthony-melton.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/deanthony-melton.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deanthony-melton.php)  
-[» More News](https://www.fantasypros.com/nba/news/deanthony-melton.php)
-[De'Anthony Melton pours in 21 points Sunday ](https://www.fantasypros.com/nba/news/617171/deanthony-melton-pours-21-points-sunday.php)  
-
-Mon, Nov 2nd 1:12am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-De'Anthony Melton scored 21 points (6-9 FG, 6-8 3PT, 3-4 FT) to go along with six rebounds, three assists, two steals and one block in the Warriors 124-112 win over the Clippers. 
-**_Fantasy Impact:_** With Steph Curry sitting, Melton took over as the player for Golden State who was on fire from deep as both he and Yaxel Lendeborg knocked down six shots from deep. Melton remains a worthy streamer in games where he moves into the starting lineup. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Brandin Podziemski](https://images.fantasypros.com/images/players/nba/6003/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandin-podziemski.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/brandin-podziemski.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/brandin-podziemski.php)  
-[» More News](https://www.fantasypros.com/nba/news/brandin-podziemski.php)
-[Brandin Podziemski nears triple-double Sunday ](https://www.fantasypros.com/nba/news/617170/brandin-podziemski-nears-triple-double-sunday.php)  
-
-Mon, Nov 2nd 1:10am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Brandin Podziemski scored 17 points (7-14 FG, 2-7 3PT, 1-1 FT) to go along with eight rebounds and eight assists in the Warriors 124-112 win over the Clippers. 
-**_Fantasy Impact:_** On a night where Steph Curry and Draymond Green both sat, Podziemski was able to flirt with a triple-double as he fell just two rebounds and two assists short. He struggled from deep, but he made up for it with his efficiency from inside the arc. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Yaxel Lendeborg](https://images.fantasypros.com/images/players/nba/6515/headshot/100x100.png)](https://www.fantasypros.com/nba/players/yaxel-lendeborg.php)
-F - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/yaxel-lendeborg.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/yaxel-lendeborg.php)  
-[» More News](https://www.fantasypros.com/nba/news/yaxel-lendeborg.php)
-[Yaxel Lendeborg explodes for 37 points Sunday ](https://www.fantasypros.com/nba/news/617169/yaxel-lendeborg-explodes-37-points-sunday.php)  
-
-Mon, Nov 2nd 1:08am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Yaxel Lendeborg scored 37 points (13-19 FG, 6-11 3PT, 5-6 FT) to go along with four rebounds, six assists and one steal in the Warriors 124-112 win over the Clippers. 
-**_Fantasy Impact:_** Lendeborg not only set his career-high in scoring, but he did so in a very efficient manner from the field. He took advantage Sunday night of both Steph Curry and Draymond Green sitting. He'll remain one of the best rookies in the NBA this season. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Rui Hachimura](https://images.fantasypros.com/images/players/nba/4491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rui-hachimura.php)
-F - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/rui-hachimura.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rui-hachimura.php)  
-[» More News](https://www.fantasypros.com/nba/news/rui-hachimura.php)
-[Rui Hachimura drops 24 points Sunday ](https://www.fantasypros.com/nba/news/617168/rui-hachimura-drops-24-points-sunday.php)  
-
-Mon, Nov 2nd 1:04am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Rui Hachimura scored 24 points (10-16 FG, 4-7 3PT) to go along with seven rebounds in the Clippers 124-112 loss against the Warriors. 
-**_Fantasy Impact:_** Hachimura scored a season-high in points without a single trip to the free throw line. His fantasy upside remains limited outside of scoring and occasionally grabbing rebounds. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=780_1793653252184&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=709_1793660434631&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

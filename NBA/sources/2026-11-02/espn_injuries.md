@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-02 16:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-02 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -214,7 +214,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 2 | Day-To-Day | Nov 1: Johnson (ankle) is questionable to play Monday against the Pacers. |
+| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 4 | Day-To-Day | Nov 1: Johnson (ankle) is questionable to play Monday against the Pacers. |
 | [Jock Landale](https://www.espn.com/nba/player/_/id/3146557/jock-landale) | C | Nov 4 | Out | Nov 1: Landale (hip) has been ruled out for Monday's game against Indiana. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
@@ -244,9 +244,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 2 | Day-To-Day | Nov 1: Smith (finger) is listed as probable for Monday's game against Philadelphia. |
-| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 2 | Day-To-Day | Nov 1: Awaka (ankle) is probable for Monday's game against Philadelphia. |
-| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 2 | Out | Nov 1: Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia. |
+| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 4 | Out | Nov 2: Claxton (hamstring) is out for Monday's game against the 76ers. |
 
 ![Image 40: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
@@ -259,7 +257,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Nov 4 | Day-To-Day | Nov 2: Irving (knee) is now doubtful for Monday against the Kings. |
+| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Nov 2 | Day-To-Day | Nov 2: Irving (knee) is now doubtful for Monday against the Kings. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 12 | Out | Nov 1: Biberovic (heel) is listed as out for Monday's game against Sacramento. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 12 | Out | Nov 1: Lively (foot) is listed as out for Monday's game against the Kings. |
 | [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Nov 2 | Out | Nov 1: Aldama (knee) is listed as doubtful for Monday's game against the Kings. |
@@ -284,9 +282,9 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Brandon Williams](https://www.espn.com/nba/player/_/id/4397040/brandon-williams) | G | Nov 2 | Day-To-Day | Nov 2: Williams (quadriceps) is listed as questionable for Monday's game against the Suns. |
+| [Al Horford](https://www.espn.com/nba/player/_/id/3213/al-horford) | C | Nov 5 | Out | Nov 2: Horford will be rested Monday against the Suns. |
 | [Gui Santos](https://www.espn.com/nba/player/_/id/4997536/gui-santos) | F | Nov 5 | Out | Nov 2: Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports. |
-| [Draymond Green](https://www.espn.com/nba/player/_/id/6589/draymond-green) | F | Nov 2 | Day-To-Day | Nov 2: Green (back) is out for Sunday's game against the Clippers. |
-| [Stephen Curry](https://www.espn.com/nba/player/_/id/3975/stephen-curry) | G | Nov 2 | Day-To-Day | Nov 2: Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Dec 1 | Out | Oct 28: The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
 | [Jimmy Butler III](https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii) | F | Jan 2 | Out | Oct 16: Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports. |
@@ -318,10 +316,10 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Rui Hachimura](https://www.espn.com/nba/player/_/id/4066648/rui-hachimura) | F | Nov 4 | Out | Nov 2: Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors. |
+| [Derrick Jones Jr.](https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr) | F | Nov 4 | Out | Nov 2: Jones (knee) has been ruled out for Monday's game against the Raptors. |
 | [Yanic Konan Niederhauser](https://www.espn.com/nba/player/_/id/5108024/yanic-konan-niederhauser) | C | Nov 8 | Out | Nov 2: The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday. |
 | [Brandon Ingram](https://www.espn.com/nba/player/_/id/3913176/brandon-ingram) | F | Nov 8 | Out | Nov 2: The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday. |
-| [Max Strus](https://www.espn.com/nba/player/_/id/4065778/max-strus) | G | Nov 8 | Out | Nov 2: The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday. |
-| [Derrick Jones Jr.](https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr) | F | Nov 2 | Day-To-Day | Nov 1: Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports. |
 | [Bradley Beal](https://www.espn.com/nba/player/_/id/6580/bradley-beal) | G | Nov 8 | Out | Oct 14: Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports. |
 | [Jordan Miller](https://www.espn.com/nba/player/_/id/4396818/jordan-miller) | G | Mar 2 | Out | Aug 26: Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic. |
 
@@ -329,7 +327,6 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Ziaire Williams](https://www.espn.com/nba/player/_/id/4433137/ziaire-williams) | F | Nov 2 | Out | Nov 1: Williams (foot) is out for Sunday's game against the Raptors. |
 | [Adou Thiero](https://www.espn.com/nba/player/_/id/5060631/adou-thiero) | F | Nov 9 | Out | Nov 1: Thiero (knee) has been ruled out for Sunday's game against the Raptors. |
 
 ![Image 49: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
@@ -352,7 +349,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 2 | Day-To-Day | Nov 2: Murray (personal) is now questionable for Monday against Memphis. |
+| [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 4 | Out | Nov 2: Murray (personal) is out for Monday's game against the Grizzlies. |
 | [Jordan Poole](https://www.espn.com/nba/player/_/id/4277956/jordan-poole) | G | Nov 4 | Out | Nov 1: Poole (ankle) has been ruled out for Monday's game against the Grizzlies. |
 | [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 8 | Out | Oct 30: Missi (knee) won't play in Saturday's game against Atlanta. |
 
@@ -426,6 +423,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 2 | Day-To-Day | Nov 2: Barnes (hip) is listed as questionable for Monday's game against the Clippers. |
 | [Jakob Poeltl](https://www.espn.com/nba/player/_/id/3134908/jakob-poeltl) | C | Nov 2 | Day-To-Day | Nov 2: Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 9 | Out | Nov 2: Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Oct 29: Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports. |
@@ -453,65 +451,33 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://www.weightwatchers.com/us/how-it-works/points-program)[Busy Moms Are Switching to This Weight Loss Plan WW | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.weightwatchers.com/us/how-it-works/points-program "Busy Moms Are Switching to This Weight Loss Plan")
+[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
 
-Undo
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
-[](https://l.ottoinsurance.com/n)[Expensive Car Insurance? Experts Urge Americans To Check Their Zip Code OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "Expensive Car Insurance? Experts Urge Americans To Check Their Zip Code")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-Undo
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
-[](https://rhs.search.yahoo.com/rhs)[Search for low mileage upscale SUV ready today Yahoo Search | Low mileage SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for low mileage upscale SUV ready today")
+[](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
 
-Undo
-
-[](https://www.weightwatchers.com/us/how-it-works/points-program)[#1 Doctor Recommended Weight Loss Program WW | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.weightwatchers.com/us/how-it-works/points-program "#1 Doctor Recommended Weight Loss Program")
-
-Undo
-
-[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
-
-Undo
-
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
-
-Undo
-
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
-
-Undo
-
-[](https://tick.dymoby.com/f44c6525-bd2e-4ea2-8581-11979beed73e)[No Stand. No Strings. What's Holding This Plane Up?Wonderful gift choice: Ideal birthday, holiday, Christmas gift for model collectors, military‑aviation enthusiasts, teen & adult hobbyists.Gifts & Ideas | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://tick.dymoby.com/f44c6525-bd2e-4ea2-8581-11979beed73e "No Stand. No Strings. What's Holding This Plane Up?")
-
-Undo
-
-[](https://content.consumerexperts.com/us/windows/2026-windows-program)[Houses Built Before 2004 Can Get New Windows Consumer Experts | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://content.consumerexperts.com/us/windows/2026-windows-program "Houses Built Before 2004 Can Get New Windows")
-
-Undo
+[](https://freshstartinfo.org/april-15th-tax-relief-deadline)[South Carolina Residents Behind On Taxes Are Checking Fresh Start Eligibility Before Penalties Grow Americans with back taxes are urged to check their eligibility for tax relief. The IRS has made the Fresh Start Program available to a larger group of taxpayers.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Apply Now](https://freshstartinfo.org/april-15th-tax-relief-deadline "South Carolina Residents Behind On Taxes Are Checking Fresh Start Eligibility Before Penalties Grow")
 
 ### NBA News
 
-[![Image 63: Michael Jordan congratulates Valykries star Gabby Williams after WNBA title](https://a.espncdn.com/combiner/i?img=/photo/2026/1102/r1740185_1296x729_16-9.jpg&w=220) ## Michael Jordan congratulates Valykries star Gabby Williams after WNBA title His Airness had a simple message for the Golden State Valkyries star after her 30-point performance in Game 7. * 17m * Kendra Andrews](https://www.espn.com/wnba/story/_/id/50360535/gabby-williams-michael-jordan-wnba-finals)
+[![Image 63: ESPN presents: 'Portrait of an Artist' Stephen Curry captures the shooting artistry of the NBA legend](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_ESPN_Curry_artist/dm_261102_ESPN_Curry_artist.jpg) ## ESPN presents: 'Portrait of an Artist' Stephen Curry captures the shooting artistry of the NBA legend ESPN presents: 'Portrait of an Artist' Stephen Curry captures the shooting artistry of the NBA legend * 2h](https://www.espn.com/video/clip/_/id/50361039/portrait-artist-stephen-curry-captures-shooting-artistry-nba-legend)
 
-[![Image 64: Thunder to retire Russell Westbrook's No. 0](https://a.espncdn.com/combiner/i?img=/photo/2019/0712/r569183_1296x729_16-9.jpg&w=220) ## Thunder to retire Russell Westbrook's No. 0 The Thunder will retire Russell Westbrook's No. 0 this season. The former MVP played the first 11 of his 18 seasons in Oklahoma City. * 14m](https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0)
+[![Image 64: Michael Jordan congratulates Valykries star Gabby Williams after WNBA title](https://a.espncdn.com/combiner/i?img=/photo/2026/1102/r1740185_1296x729_16-9.jpg&w=220) ## Michael Jordan congratulates Valykries star Gabby Williams after WNBA title His Airness had a simple message for the Golden State Valkyries star after her 30-point performance in Game 7. * 2h * Kendra Andrews](https://www.espn.com/wnba/story/_/id/50360535/gabby-williams-michael-jordan-wnba-finals)
 
-[![Image 65: Jaylen Brown's favorite purchase? An 18th century harp](https://a.espncdn.com/combiner/i?img=/photo/2026/1102/r1740127_608x342_16-9.jpg&w=220) ## Jaylen Brown's favorite purchase? An 18th century harp The Sixers guard's Boston apartment contains possession of some rare pieces. * 40m * Kris Rhim](https://www.espn.com/nba/story/_/id/50359641/jaylen-brown-keeping-boston-apartment)
+[![Image 65: Thunder to retire Russell Westbrook's No. 0](https://a.espncdn.com/combiner/i?img=/photo/2019/0712/r569183_1296x729_16-9.jpg&w=220) ## Thunder to retire Russell Westbrook's No. 0 The Thunder will retire Russell Westbrook's No. 0 this season. The former MVP played the first 11 of his 18 seasons in Oklahoma City. * 2h](https://www.espn.com/nba/story/_/id/50360248/thunder-retire-russell-westbrook-no-0)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://online.americanwellnessdigest.com/velvet-rowboat)[MDs Say Forgetfulness Can Show Up When Seniors Often Forget These 3 Things — See Which Ones Memory Health After 55 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://online.americanwellnessdigest.com/velvet-rowboat "MDs Say Forgetfulness Can Show Up When Seniors Often Forget These 3 Things — See Which Ones")
+[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[Your Dog's Back Legs Keep Slipping Out? Do This Immediately!Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "Your Dog's Back Legs Keep Slipping Out? Do This Immediately!")
 
-Undo
-
-[](https://onlinefinance.net/savings-account-fs2)[Opening a Savings Account? Compare Top Rates First Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://onlinefinance.net/savings-account-fs2 "Opening a Savings Account? Compare Top Rates First")
-
-Undo
-
-[](https://content.consumerexperts.com/us/windows/2026-windows-program)[Houses Built Before 2005? Check Your Window Replacement Options (Get Quotes)Consumer Experts | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://content.consumerexperts.com/us/windows/2026-windows-program "Houses Built Before 2005? Check Your Window Replacement Options (Get Quotes)")
-
-Undo
+[](https://sakura-knives.com/pages/story-8)[Hiroshi Closes His Knife Shop After 55 Years Sakura Knives | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://sakura-knives.com/pages/story-8 "Hiroshi Closes His Knife Shop After 55 Years")
 
 ![Image 66: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

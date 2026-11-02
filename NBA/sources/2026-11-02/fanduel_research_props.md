@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-monday-nov-2 | fetched: 2026-11-02 16:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-monday-nov-2 | fetched: 2026-11-02 18:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 2
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-4h
+6h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 2](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4ce7951b428705dab108ce1e3d0007831f44b83a-3744x2496.jpg%3Frect%3D125%2C209%2C3619%2C1791%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ _[Detroit Pistons](https://sportsbook.fanduel.com/teams/nba/detroit-pistons/odds
 Cade Cunningham - Points
 Cade Cunningham Over
 O 24.5
--115
+-113
 Nov 3 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-charlotte-hornets-36262181)
 Odds/lines subject to change
 I'm backing [Cade Cunningham](https://sportsbook.fanduel.com/teams/nba/roster/cade-cunningham-2963/player-props) over 24.5 points. Cunningham is averaging 22.2 points per game through six contests, but he's already shown he can clear this number against Charlotte after scoring 30 points in Detroit's win over the Hornets on Oct. 28.
@@ -42,7 +42,7 @@ _[Oklahoma City Thunder](https://sportsbook.fanduel.com/teams/nba/oklahoma-city-
 Isaiah Hartenstein - Points
 Isaiah Hartenstein Over
 O 10.5
-+102
++100
 Nov 3 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/oklahoma-city-thunder-@-cleveland-cavaliers-36262178)
 Odds/lines subject to change
 [Isaiah Hartenstein](https://sportsbook.fanduel.com/teams/nba/roster/isaiah-hartenstein-2554/player-props) over 10.5 points at +102 catches my eye. 
@@ -54,7 +54,7 @@ _[Utah Jazz](https://sportsbook.fanduel.com/teams/nba/utah-jazz/odds) at [San An
 Victor Wembanyama - Rebounds
 Victor Wembanyama Over
 O 11.5
--125
++102
 Nov 3 1:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/utah-jazz-@-san-antonio-spurs-36262176)
 Odds/lines subject to change
 I'm targeting [Victor Wembanyama](https://sportsbook.fanduel.com/teams/nba/roster/victor-wembanyama-3189/player-props) over 11.5 rebounds. Wembanyama is averaging 10.7 rebounds per game this season, but he's already gone over this number twice in five games, including a 14-rebound performance against Utah — tonight’s foe — on Oct. 27.
@@ -96,23 +96,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [3 Best Bets and NBA Player Props Today for Monday Night NBA Heat vs Lakers](https://www.fanduel.com/research/3-best-bets-and-nba-player-props-for-monday-night-nba-heat-vs-lakers)
+1h
+Giannis Antetokounmpo and Bam Adebayo headline the best bets and player props for Heat vs Lakers. 3 best bets for Monday’s NBA matchup in Los Angeles.
+[](https://www.fanduel.com/research/3-best-bets-and-nba-player-props-for-monday-night-nba-heat-vs-lakers)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 2](https://www.fanduel.com/research/nba-props-today-monday-nov-2-2026)
-3h
+5h
 Monday's best NBA player props. What are the top NBA prop bets for today?
 [](https://www.fanduel.com/research/nba-props-today-monday-nov-2-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 5 NBA Predictions and Best Bets for Monday, Nov. 2](https://www.fanduel.com/research/nba-picks-today-predictions-best-bets-monday-nov-2)
-4h
+6h
 NBA predictions and picks for Monday. What are the best bets for today?
 [](https://www.fanduel.com/research/nba-picks-today-predictions-best-bets-monday-nov-2)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 2](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-monday-nov-2)
-4h
+6h
 Monday's best NBA player props. What are the top NBA prop bets for today?
 [](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-monday-nov-2)
-[NBA](https://www.fanduel.com/research/nba)
-## [Clippers vs. Raptors Prediction, Odds, Picks, Best Bets for Nov. 2](https://www.fanduel.com/research/clippers-vs-raptors-prediction-nba-odds-spread-best-bets-for-11-2-2026)
-9h
-Find Clippers vs. Raptors predictions, betting odds, moneyline, spread, over/under and more for the Nov. 2 NBA matchup.
-[](https://www.fanduel.com/research/clippers-vs-raptors-prediction-nba-odds-spread-best-bets-for-11-2-2026)
 
