@@ -1,66 +1,60 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-02 11:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-02 16:06 ET -->
 
 # NBA DFS Picks Today
-November 1, 2026
+November 2, 2026
 By:
-![Author Image](https://assets.rotowire.com/images/photos/Joe-Mayo.png)
-[Joe Mayo](https://www.rotowire.com/writer/joe-mayo-1366)
-[ X logo @WiscoMayo](https://twitter.com/WiscoMayo)
-November 1, 2026
-**NBA DraftKings Picks for Sunday, Nov. 1**
+![Author Image](https://assets.rotowire.com/images/authorpic-sample.png)
+[Bryan Randles](https://www.rotowire.com/writer/bryan-randles-1184)
+[ X logo @PandaDFS](https://twitter.com/PandaDFS)
+November 2, 2026
+**NBA DraftKings Picks for Monday, Nov. 2**
 All the tools you need for building winning NBA DFS lineups, starting with the top plays of the day.
 **Top NBA DFS Plays Today**
-DraftKings' four-game slate tips off with a matinee between the Celtics and Magic at 3:30 p.m. ET. There will be plenty of injury-driven opportunities across the slate, including two options I'm looking at in the Pacers-Nets matchup. Below, I'll highlight three players who could deliver strong returns Sunday. 
-[**Andrew Nembhard**](https://www.rotowire.com/basketball/player.php?id=5679)**, Pacers![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10) ($7,100) vs. Nets**
-Nembhard has stepped into an expanded playmaking role in the absence of [Tyrese Haliburton](https://www.rotowire.com/basketball/player.php?id=5114) (hamstring), with the former totaling 23 assists over the last two games. Nembhard finished with at least 39.5 DK points in both of those outings and enters a relatively favorable matchup against the Nets, who rank 21st in the league in defensive rating. 
-[**De'Anthony Melton**](https://www.rotowire.com/basketball/player.php?id=4368)**, Warriors![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10) ($5,200) vs. Clippers**
-Melton is fresh off a 32.3 DK-point performance and figures to see increased playing time in the absence of [Stephen Curry](https://www.rotowire.com/basketball/player.php?id=3014) (rest). The last time Curry was unavailable, Melton dropped a season-high 45.3 DK points in 27 minutes. Through six games, he's averaging 10.3 points, 3.8 rebounds, 2.2 assists and 1.3 steals across 21.3 minutes per tilt. 
-[**Nolan Traore**](https://www.rotowire.com/basketball/player.php?id=6587)**, Nets![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10) ($4,300) at Pacers **
-Traore has already started back-to-back games, and he figures to see a boost in playmaking duties with [Mikel Brown](https://www.rotowire.com/basketball/player.php?id=6929) (rest) joining [Egor Demin](https://www.rotowire.com/basketball/player.php?id=6559) (leg) on the inactive list. Traore has produced between 19.0 and 33.0 DK points in three straight games, averaging 13.7 points, 3.3 assists, 1.7 rebounds, 1.3 steals and 1.3 blocks in 24.7 minutes per game. 
+Coming Soon
 ## **Latest NBA News**
 Stay on top of the most important news impacting today's slate with our live news feed. For the full set of NBA player news, including all teams, news types & G-League players, visit our [NBA breaking news](https://www.rotowire.com/basketball/news.php) home.
 ### NBA News: Teams Playing Today
 Monday, November 2 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (30) All NBA news Atlanta Hawks (ATL @ IND) Boston Celtics (BOS @ HOU) Brooklyn Nets (BKN @ NYK) Charlotte Hornets (DET @ CHA) Chicago Bulls (CHI @ PHI) Cleveland Cavaliers (OKC @ CLE) Dallas Mavericks (SAC @ DAL) Denver Nuggets (POR @ DEN) Detroit Pistons (DET @ CHA) Golden State Warriors (PHX @ GSW) Houston Rockets (BOS @ HOU) Indiana Pacers (ATL @ IND) Los Angeles Clippers (TOR @ LAC) Los Angeles Lakers (MIA @ LAL) Memphis Grizzlies (NOP @ MEM) Miami Heat (MIA @ LAL) Milwaukee Bucks (MIL @ MIN) Minnesota Timberwolves (MIL @ MIN) New Orleans Pelicans (NOP @ MEM) New York Knicks (BKN @ NYK) Oklahoma City Thunder (OKC @ CLE) Orlando Magic (WSH @ ORL) Philadelphia 76ers (CHI @ PHI) Phoenix Suns (PHX @ GSW) Portland Trail Blazers (POR @ DEN) Sacramento Kings (SAC @ DAL) San Antonio Spurs (UTA @ SAN) Toronto Raptors (TOR @ LAC) Utah Jazz (UTA @ SAN) Washington Wizards (WSH @ ORL)
-Orlando MagicWSH @ ORL - 7:30 PM ET
-**[Jase Richardson](https://www.rotowire.com/basketball/player/jase-richardson-6545)** _G_ 10:57 AM ET
-#### Subpar scoring effort again
-Richardson contributed four points (2-8 FG, 0-4 3Pt), a rebound and three assists across 26 minutes in Sunday's 108-97 loss to the Celtics.
+Sacramento KingsSAC @ DAL - 8:00 PM ET
+**[Dylan Cardwell](https://www.rotowire.com/basketball/player/dylan-cardwell-6638)** _C_ Q3:34 PM ET
+#### Downgraded to questionable
+Cardwell (calf) has been downgraded to questionable for Monday's game against Dallas.
 Analysis
-Richardson struggled to establish an offensive rhythm, missing all four of his three-point attempts while contributing little outside of playmaking. His 26-minute workload provided opportunities, as he continues to start due to the absence of Jalen Suggs (knee), but his lack of production is concerning. Through four starts, Richardson is averaging just 6.0 points, 2.3 rebounds and 1.5 assists per game. His inconsistent shooting and modest statistical contributions make him difficult to trust outside deeper formats.
-Orlando MagicWSH @ ORL - 7:30 PM ET
-**[Franz Wagner](https://www.rotowire.com/basketball/player/franz-wagner-5370)** _F_ 10:55 AM ET
-#### Shines in playmaking role
-Wagner finished with 14 points (5-20 FG, 1-4 3Pt, 3-4 FT), six rebounds and 12 assists across 40 minutes in Sunday's 108-97 loss to the Celtics.
+Cardwell was initially listed as questionable before being upgraded to probable, though it's now less certain that he'll make his season debut. If the 24-year-old big man is cleared to play, there would be fewer minutes available for Jonathan Mogbo.
+Toronto RaptorsTOR @ LAC - 10:00 PM ET
+**[Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)** _C_ Q3:21 PM ET
+#### Iffy to play Monday
+Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers.
 Analysis
-Wagner endured a difficult shooting performance but compensated with a career-high 12 assists, demonstrating his ability to generate fantasy value through playmaking while getting his teammates involved. His 40-minute workload and 20 field-goal attempts highlighted his substantial offensive responsibilities with Paolo Banchero (ankle) and Jalen Suggs (knee) unavailable. Wagner's expanded facilitating role provides considerable upside, although his efficiency remains an important factor in his overall fantasy production. Through six games, he's shooting just 39.6 percent from the field and 19.4 percent of his threes.
-Orlando MagicWSH @ ORL - 7:30 PM ET
-**[Desmond Bane](https://www.rotowire.com/basketball/player/desmond-bane-5159)** _G_ 10:54 AM ET
-#### Stays hot from deep
-Bane delivered 19 points (7-13 FG, 5-9 3Pt), two rebounds, an assist, two steals and a block across 40 minutes in Sunday's 108-97 loss to the Celtics.
+Poeltl was a late scratch ahead of Sunday's loss to the Lakers and is in jeopardy of missing a second straight game due to left shoulder bursitis. If the big man is unable to suit up, Collin Murray-Boyles and Trayce Jackson-Davis would be candidates for increased burn.
+Toronto RaptorsTOR @ LAC - 10:00 PM ET
+**[Nate Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608)** _C_ OUT3:20 PM ET
+#### Remains without timetable
+Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return.
 Analysis
-Bane was Orlando's most effective perimeter scorer and has been on a tear lately, sinking at least four three-pointers in three of his last four appearances while shooting 44.7 percent from beyond the arc over that stretch. Bane has also scored at least 19 points three times in that span and should continue to play a prominent offensive role for a Magic team missing Paolo Banchero (ankle) and Jalen Suggs (knee).
-Los Angeles ClippersTOR @ LAC - 10:00 PM ET
-**[Max Strus](https://www.rotowire.com/basketball/player/max-strus-4947)** _F_ OUT10:47 AM ET
-#### Recalled by parent team
-The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday.
+For now, fantasy managers can assume that he's week-to-week. He's not expected to crack the rotation upon his return.
+Miami HeatMIA @ LAL - 10:00 PM ET
+**[Tim Hardaway](https://www.rotowire.com/basketball/player/tim-hardaway-3459)** _F_ 2:27 PM ET
+#### Good to go Monday
+Hardaway (personal) is good to go for Monday against the Lakers, Ira Winderman of the South Florida Sun Sentinel reports.
 Analysis
-Strus spent the weekend on assignment with San Diego as he continued to work in overcoming a partially torn plantar fascia that has prevented him from making his season debut. Following a considerable absence, he may initially play at the G League level, looking to get back on track before offering the NBA squad a reliable second-unit contributor of points and rebounds.
+Hardaway is back with the squad after tending to a personal matter. The veteran sharpshooter holds averages of 6.2 points, 2.2 rebounds and 0.8 assists in 18.2 minutes per game this season.
 Boston CelticsBOS @ HOU - 8:30 PM ET
-**[Luka Garza](https://www.rotowire.com/basketball/player/luka-garza-5423)** _C_ 10:42 AM ET
-#### Solid production off bench
-Garza tallied 12 points (4-7 FG, 2-4 3Pt, 2-3 FT), six rebounds, four assists and a steal across 21 minutes off the bench in Sunday's 108-97 win over the Magic.
+**[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)** _C_ 2:14 PM ET
+#### Available to play
+Robinson (rest) is not listed on the Celtics' injury report ahead of Monday's game against Houston.
 Analysis
-Garza made an efficient contribution in limited action, setting a new season-high mark in scoring while also putting up solid peripheral contributions in other categories. He's likely to remain the No. 3 center behind Neemias Queta and Mitchell Robinson, so even if he has solid contributions like Sunday's, his fantasy upside will remain close to minimal. His reserve role and modest playing time limit his fantasy reliability, making him more appealing in deeper leagues.
-Show 5 more (16 remaining)
+Robinson's absence from the injury report suggests he'll be available Monday. His potential return would bolster Boston's frontcourt depth, though his minutes and role will be worth monitoring.
+Show 5 more (63 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
 ### NBA DFS Starting Lineups
 Monday, November 2: confirmed and expected starters with each site's salary and projected fantasy points.
 DraftKings FanDuel
-Main Slate - 11 games - 7:00 PM Main Slate - 3 games - 10:00 PM Main Slate - 5 games - 7:30 PM Main Slate - 2 games - 8:30 PM Main Slate - 3 games - 8:00 PM Showdown - MIA @ LAL - 11:00 PM Showdown - MIA @ LAL - 10:00 PM Showdown - OKC @ CLE - 7:00 PM Showdown - POR @ DEN - 9:00 PM Main Slate - 11 games - 7:00 PM All games (11) OKC @ CLE - 7:00 PM ET DET @ CHA - 7:30 PM ET ATL @ IND - 7:30 PM ET BKN @ NYK - 7:30 PM ET WSH @ ORL - 7:30 PM ET CHI @ PHI - 7:30 PM ET SAC @ DAL - 8:00 PM ET NOP @ MEM - 8:00 PM ET MIL @ MIN - 8:00 PM ET BOS @ HOU - 8:30 PM ET UTA @ SAS - 8:30 PM ET
+Main Slate - 11 games - 7:00 PM Nov 4 - Main Slate - 11 games - 7:00 PM (lineups pending) Main Slate - 3 games - 10:00 PM Nov 4 - Main Slate - 2 games - 10:00 PM (lineups pending) Main Slate - 5 games - 7:30 PM Nov 4 - Main Slate - 3 games - 7:30 PM (lineups pending) Main Slate - 2 games - 8:30 PM Nov 4 - Main Slate - 3 games - 8:00 PM (lineups pending) Main Slate - 3 games - 8:00 PM Nov 4 - Main Slate - 2 games - 9:00 PM (lineups pending) Nov 4 - Showdown - MIA @ LAC - 11:30 PM (lineups pending) Showdown - MIA @ LAL - 11:00 PM Nov 4 - Showdown - DAL @ SAS - 9:30 PM (lineups pending) Nov 4 - Showdown - MIA @ LAC - 10:30 PM (lineups pending) Showdown - MIA @ LAL - 10:00 PM Nov 4 - Showdown - MIN @ HOU - 8:30 PM (lineups pending) Showdown - OKC @ CLE - 7:00 PM Nov 4 - Showdown - PHI @ DET - 7:00 PM (lineups pending) Showdown - POR @ DEN - 9:00 PM Nov 4 - Main Slate - 11 games - 7:00 PM (lineups pending) Main Slate - 11 games - 7:00 PM Nov 4 - Main Slate - 2 games - 10:00 PM (lineups pending) All games (11) OKC @ CLE - 7:00 PM ET DET @ CHA - 7:30 PM ET ATL @ IND - 7:30 PM ET BKN @ NYK - 7:30 PM ET WSH @ ORL - 7:30 PM ET CHI @ PHI - 7:30 PM ET SAC @ DAL - 8:00 PM ET NOP @ MEM - 8:00 PM ET MIL @ MIN - 8:00 PM ET BOS @ HOU - 8:30 PM ET UTA @ SAS - 8:30 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **OKC @ CLE**
 O/U 229.57:00 PM ET
@@ -83,89 +77,89 @@ _Implied_**117.0** _Spread_**-4.5**
 | SF  | Peyton WatsonQ  | $5,400  | 23.0  |  
 | SG  | Donovan Mitchell  | $8,400  | 42.2  |  
 **DET @ CHA**
-O/U 209.57:30 PM ET
+O/U 210.57:30 PM ET
 PistonsExpectedAway
-_Implied_**107.5** _Spread_**-5.5**  
+_Implied_**108.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Paul Reed  | $6,300  | 34.6  |  
+| C  | Paul Reed  | $6,300  | 34.3  |  
 | PF  | John Collins  | $5,500  | 24.5  |  
-| PG  | Cade Cunningham  | $9,300  | 46.2  |  
-| SF  | Ausar Thompson  | $5,900  | 28.7  |  
-| SG  | Duncan Robinson  | $5,000  | 22.0  |  
+| PG  | Cade Cunningham  | $9,300  | 46.1  |  
+| SF  | Ausar Thompson  | $5,900  | 28.4  |  
+| SG  | Duncan Robinson  | $5,000  | 22.4  |  
 HornetsExpectedHome
-_Implied_**102.0** _Spread_**+5.5**  
+_Implied_**102.0** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Moussa Diabate  | $5,700  | 29.5  |  
 | PF  | Naz Reid  | $7,200  | 31.8  |  
-| PG  | Dennis Schroder  | $5,400  | 26.7  |  
+| PG  | Dennis Schroder  | $5,400  | 26.6  |  
 | SF  | Brandon Miller  | $8,200  | 38.4  |  
-| SG  | Coby White  | $5,700  | 23.3  |  
+| SG  | Coby White  | $5,700  | 23.2  |  
 **ATL @ IND**
-O/U 231.57:30 PM ET
+O/U 229.57:30 PM ET
 HawksExpectedAway
-_Implied_**118.5** _Spread_**-5.5**  
+_Implied_**120.0** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,400  | 34.2  |  
-| PF  | Jalen JohnsonQ  | $9,700  | 50.1  |  
-| PG  | CJ McCollum  | $6,200  | 32.1  |  
+| PF  | Jalen JohnsonQ  | $9,700  | 50.2  |  
+| PG  | CJ McCollum  | $6,200  | 32.2  |  
 | SF  | Dyson Daniels  | $7,000  | 32.4  |  
-| SG  | Nickeil Alexander-Walker  | $7,200  | 32.2  |  
+| SG  | Nickeil Alexander-Walker  | $7,200  | 32.3  |  
 PacersExpectedHome
-_Implied_**113.0** _Spread_**+5.5**  
+_Implied_**109.5** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jay Huff  | $4,000  | 19.7  |  
-| PF  | Pascal Siakam  | $7,900  | 40.3  |  
-| PG  | Andrew Nembhard  | $7,100  | 33.1  |  
-| SF  | Aaron Nesmith  | $4,500  | 25.4  |  
-| SG  | Kelly Oubre  | $4,800  | 20.3  |  
+| C  | Jay Huff  | $4,000  | 30.3  |  
+| PF  | Obi ToppinQ  | $4,900  | 36.2  |  
+| PG  | Quenton Jackson  | $4,300  | 30.9  |  
+| SF  | Jarace Walker  | $4,600  | 34.9  |  
+| SG  | Kelly Oubre  | $4,800  | 29.9  |  
 **BKN @ NYK**
 O/U 219.57:30 PM ET
 NetsExpectedAway
 _Implied_**102.5** _Spread_**+14.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Day'Ron Sharpe  | $5,000  | 26.6  |  
-| PF  | Julius Randle  | $7,200  | 36.8  |  
-| PG  | Chaney Johnson  | $3,900  | 21.3  |  
-| SF  | Michael Porter  | $7,000  | 36.0  |  
+| C  | Day'Ron Sharpe  | $5,000  | 26.5  |  
+| PF  | Julius Randle  | $7,200  | 36.7  |  
+| PG  | Mikel Brown  | $4,800  | 16.6  |  
+| SF  | Michael Porter  | $7,000  | 35.9  |  
 | SG  | Nolan Traore  | $4,400  | 22.6  |  
 KnicksExpectedHome
 _Implied_**117.0** _Spread_**-14.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karl-Anthony Towns  | $8,500  | 45.5  |  
-| PF  | OG Anunoby  | $6,100  | 31.6  |  
-| PG  | Jalen Brunson  | $8,300  | 43.2  |  
-| SF  | Josh Hart  | $5,800  | 34.3  |  
-| SG  | Mikal Bridges  | $4,800  | 25.6  |  
+| C  | Karl-Anthony Towns  | $8,500  | 45.4  |  
+| PF  | OG Anunoby  | $6,100  | 31.5  |  
+| PG  | Jalen Brunson  | $8,300  | 43.0  |  
+| SF  | Josh Hart  | $5,800  | 34.2  |  
+| SG  | Mikal Bridges  | $4,800  | 25.5  |  
 **WSH @ ORL**
-O/U 225.57:30 PM ET
+O/U 224.57:30 PM ET
 WizardsExpectedAway
-_Implied_**111.5** _Spread_**+2.5**  
+_Implied_**111.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex SarrQ  | -  | 27.4  |  
-| PF  | Anthony Davis  | $8,600  | 42.3  |  
-| PG  | Trae Young  | $8,100  | 39.8  |  
-| SF  | AJ Dybantsa  | $6,100  | 25.8  |  
-| SG  | Kyshawn George  | $5,600  | 30.9  |  
+| C  | Deandre Ayton  | $3,600  | 18.8  |  
+| PF  | Anthony Davis  | $8,600  | 43.5  |  
+| PG  | Trae Young  | $8,100  | 40.1  |  
+| SF  | AJ Dybantsa  | $6,100  | 26.2  |  
+| SG  | Kyshawn George  | $5,600  | 32.3  |  
 MagicExpectedHome
-_Implied_**114.0** _Spread_**-2.5**  
+_Implied_**113.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Wendell Carter  | $6,100  | 34.9  |  
-| PF  | Franz Wagner  | $8,300  | 45.0  |  
-| PG  | Jase Richardson  | $4,200  | 19.3  |  
-| SF  | Desmond Bane  | $7,000  | 40.1  |  
-| SG  | Anthony Black  | $6,000  | 34.3  |  
+| C  | Wendell Carter  | $6,100  | 36.0  |  
+| PF  | Franz Wagner  | $8,300  | 46.9  |  
+| PG  | Jase Richardson  | $4,200  | 25.3  |  
+| SF  | Desmond Bane  | $7,000  | 41.6  |  
+| SG  | Jamal Cain  | $3,300  | 18.0  |  
 **CHI @ PHI**
-O/U 238.57:30 PM ET
+O/U 239.57:30 PM ET
 BullsExpectedAway
-_Implied_**114.0** _Spread_**+10.5**  
+_Implied_**114.5** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen SmithP  | $5,100  | 32.5  |  
@@ -174,7 +168,7 @@ _Implied_**114.0** _Spread_**+10.5**
 | SF  | Matas Buzelis  | $5,300  | 30.7  |  
 | SG  | Norman Powell  | $6,000  | 31.9  |  
 76ersExpectedHome
-_Implied_**124.5** _Spread_**-10.5**  
+_Implied_**125.0** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Joel EmbiidQ  | $8,900  | 42.4  |  
@@ -185,87 +179,87 @@ _Implied_**124.5** _Spread_**-10.5**
 **SAC @ DAL**
 O/U 232.58:00 PM ET
 KingsExpectedAway
-_Implied_**111.0** _Spread_**+10.5**  
+_Implied_**112.0** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,500  | 49.4  |  
 | PF  | Precious Achiuwa  | $5,900  | 28.5  |  
-| PG  | Darius Acuff  | $8,000  | 36.4  |  
+| PG  | Darius Acuff  | $8,000  | 36.5  |  
 | SF  | De'Andre Hunter  | $6,000  | 25.0  |  
 | SG  | Zach LaVineQ  | $6,500  | 33.9  |  
 MavericksExpectedHome
-_Implied_**121.5** _Spread_**-10.5**  
+_Implied_**120.5** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Daniel Gafford  | $5,300  | 28.1  |  
-| PF  | P.J. Washington  | $6,300  | 33.7  |  
-| PG  | Kyrie IrvingQ  | $7,600  | 37.1  |  
-| SF  | Cooper Flagg  | $9,600  | 43.7  |  
-| SG  | Max Christie  | $4,600  | 20.0  |  
+| C  | Daniel Gafford  | $5,300  | 29.0  |  
+| PF  | P.J. Washington  | $6,300  | 35.1  |  
+| PG  | Marcus Sasser  | $3,900  | 13.8  |  
+| SF  | Cooper Flagg  | $9,600  | 45.5  |  
+| SG  | Max Christie  | $4,600  | 24.5  |  
 **NOP @ MEM**
-O/U 233.58:00 PM ET
+O/U 232.58:00 PM ET
 PelicansExpectedAway
-_Implied_**114.0** _Spread_**+5.5**  
+_Implied_**113.5** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karlo Matkovic  | $4,200  | 19.7  |  
-| PF  | Zion Williamson  | $7,500  | 37.2  |  
-| PG  | Dejounte Murray  | $7,800  | 40.1  |  
-| SF  | Trey MurphyP  | $7,000  | 31.4  |  
-| SG  | Jeremiah Fears  | $6,300  | 26.3  |  
+| C  | Karlo Matkovic  | $4,200  | 19.6  |  
+| PF  | Zion Williamson  | $7,500  | 37.1  |  
+| PG  | Dejounte MurrayQ  | $7,800  | 39.9  |  
+| SF  | Trey Murphy  | $7,000  | 31.3  |  
+| SG  | Jeremiah Fears  | $6,300  | 26.2  |  
 GrizzliesExpectedHome
-_Implied_**119.5** _Spread_**-5.5**  
+_Implied_**119.0** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Zach Edey  | $5,400  | 23.3  |  
-| PF  | Cameron Boozer  | $7,700  | 38.7  |  
-| PG  | Ty Jerome  | $8,500  | 36.4  |  
-| SF  | Jaylen Wells  | $4,700  | 22.4  |  
-| SG  | Cedric Coward  | $6,400  | 31.4  |  
+| C  | Zach Edey  | $5,400  | 23.2  |  
+| PF  | Cameron Boozer  | $7,700  | 38.6  |  
+| PG  | Ty Jerome  | $8,500  | 36.3  |  
+| SF  | Jaylen Wells  | $4,700  | 22.3  |  
+| SG  | Cedric Coward  | $6,400  | 31.3  |  
 **MIL @ MIN**
-O/U 233.58:00 PM ET
+O/U 230.58:00 PM ET
 BucksExpectedAway
-_Implied_**111.0** _Spread_**+11.5**  
+_Implied_**110.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Myles Turner  | $4,900  | 26.3  |  
-| PF  | Kyle Kuzma  | $5,000  | 24.3  |  
-| PG  | Ryan Rollins  | $6,200  | 32.7  |  
-| SF  | Jaime Jaquez  | $5,900  | 29.4  |  
-| SG  | Tyler Herro  | $6,900  | 35.3  |  
+| C  | Myles Turner  | $4,900  | 26.1  |  
+| PF  | Kyle Kuzma  | $5,000  | 24.1  |  
+| PG  | Ryan Rollins  | $6,200  | 32.5  |  
+| SF  | Jaime Jaquez  | $5,900  | 29.2  |  
+| SG  | Tyler Herro  | $6,900  | 35.1  |  
 TimberwolvesExpectedHome
-_Implied_**122.5** _Spread_**-11.5**  
+_Implied_**120.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Rudy Gobert  | $5,700  | 30.7  |  
-| PF  | Jaden McDaniels  | $6,500  | 32.1  |  
-| PG  | LaMelo Ball  | $8,200  | 40.7  |  
-| SF  | Jonathan Kuminga  | $5,900  | 35.8  |  
-| SG  | Ayo Dosunmu  | $6,200  | 29.9  |  
+| C  | Rudy Gobert  | $5,700  | 30.5  |  
+| PF  | Jaden McDaniels  | $6,500  | 31.9  |  
+| PG  | LaMelo BallQ  | $8,200  | 40.4  |  
+| SF  | Jonathan Kuminga  | $5,900  | 35.6  |  
+| SG  | Ayo Dosunmu  | $6,200  | 29.7  |  
 **BOS @ HOU**
-O/U 218.58:30 PM ET
+O/U 216.58:30 PM ET
 CelticsExpectedAway
-_Implied_**107.0** _Spread_**+4.5**  
+_Implied_**105.5** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Mitchell RobinsonP  | $4,400  | 21.4  |  
-| PF  | Jordan Walsh  | $3,800  | 10.1  |  
-| PG  | Derrick White  | $6,700  | 31.1  |  
-| SF  | Jayson Tatum  | $9,900  | 45.6  |  
-| SG  | Paul George  | $7,000  | 30.4  |  
+| C  | Mitchell Robinson  | $4,400  | 23.3  |  
+| PF  | Jordan Walsh  | $3,800  | 17.1  |  
+| PG  | Derrick White  | $6,700  | 31.7  |  
+| SF  | Jayson Tatum  | $9,900  | 46.5  |  
+| SG  | Hugo Gonzalez  | $3,500  | 12.6  |  
 RocketsExpectedHome
-_Implied_**111.5** _Spread_**-4.5**  
+_Implied_**111.0** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alperen Sengun  | $8,700  | 42.7  |  
+| C  | Alperen Sengun  | $8,700  | 42.8  |  
 | PF  | Jabari Smith  | $6,800  | 29.0  |  
-| PG  | Fred VanVleet  | $6,400  | 28.3  |  
-| SF  | Kevin Durant  | $7,700  | 36.3  |  
+| PG  | Fred VanVleet  | $6,400  | 28.1  |  
+| SF  | Kevin Durant  | $7,700  | 36.2  |  
 | SG  | Amen Thompson  | $7,200  | 34.9  |  
 **UTA @ SAS**
 O/U 229.58:30 PM ET
 JazzExpectedAway
-_Implied_**107.0** _Spread_**+15.5**  
+_Implied_**106.5** _Spread_**+16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jaxson Hayes  | $5,200  | 22.5  |  
@@ -274,7 +268,7 @@ _Implied_**107.0** _Spread_**+15.5**
 | SF  | Ace Bailey  | $6,400  | 29.9  |  
 | SG  | Darryn Peterson  | $6,100  | 28.9  |  
 SpursExpectedHome
-_Implied_**122.5** _Spread_**-15.5**  
+_Implied_**123.0** _Spread_**-16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Victor Wembanyama  | $11,100  | 53.6  |  
@@ -293,16 +287,16 @@ Main slatesMain - 11 games - 7:00 PMMain - 3 games - 10:00 PMMain - 5 games - 7:
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jalen SmithPCHI - C  | @ PHI  | $5,100  | 27  | 32.5  | **6.37**  |  
-| 2  |  Jaylin WilliamsOKC - PF  | @ CLE  | $4,400  | 25  | 26.8  | **6.10**  |  
-| 3  |  Jonathan KumingaMIN - PF  | vs MIL  | $5,900  | 32  | 35.8  | **6.07**  |  
-| 4  |  Josh HartNYK - SG  | vs BKN  | $5,800  | 33  | 34.3  | **5.91**  |  
-| 5  |  Matas BuzelisCHI - SF  | @ PHI  | $5,300  | 29  | 30.7  | **5.79**  |  
-| 6  |  Desmond BaneORL - SG  | vs WSH  | $7,000  | 36  | 40.1  | **5.73**  |  
-| 7  |  Anthony BlackORL - PG  | vs WSH  | $6,000  | 32  | 34.3  | **5.72**  |  
-| 8  |  Wendell CarterORL - C  | vs WSH  | $6,100  | 33  | 34.8  | **5.71**  |  
-| 9  |  Aday MaraOKC - C  | @ CLE  | $4,100  | 23  | 23.2  | **5.65**  |  
-| 10  |  Aaron NesmithIND - SF  | vs ATL  | $4,500  | 29  | 25.4  | **5.65**  |  
+| 1  |  Braden SmithIND - PG  | vs ATL  | $3,100  | 25  | 26.0  | **8.40**  |  
+| 2  |  Jalen SlawsonIND - SF  | vs ATL  | $3,500  | 28  | 27.3  | **7.80**  |  
+| 3  |  Jay HuffIND - C  | vs ATL  | $4,000  | 28  | 30.3  | **7.58**  |  
+| 4  |  Jarace WalkerIND - SF  | vs ATL  | $4,600  | 33  | 34.9  | **7.58**  |  
+| 5  |  Obi ToppinQIND - PF  | vs ATL  | $4,900  | 32  | 36.2  | **7.38**  |  
+| 6  |  Quenton JacksonIND - PG  | vs ATL  | $4,300  | 33  | 30.8  | **7.17**  |  
+| 7  |  Kobe BrownIND - PF  | vs ATL  | $3,300  | 28  | 22.3  | **6.76**  |  
+| 8  |  Jalen SmithPCHI - C  | @ PHI  | $5,100  | 27  | 32.5  | **6.37**  |  
+| 9  |  Kelly OubreIND - SG  | vs ATL  | $4,800  | 33  | 29.8  | **6.22**  |  
+| 10  |  Jaylin WilliamsOKC - PF  | @ CLE  | $4,400  | 25  | 26.8  | **6.10**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -311,7 +305,7 @@ NBA Boom-or-Bust Board
 Highest-ceiling, highest-variance plays on the slate, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Today · 7:00 PM ET · 11 games — 232 players projected Today · 7:30 PM ET · 5 games — 105 players projected Today · 8:00 PM ET · 3 games — 65 players projected Today · 8:30 PM ET · 2 games — 41 players projected Today · 10:00 PM ET · 3 games — 67 players projected Today · 7:00 PM ET · OKC@CLE single game — 21 players projected Today · 9:00 PM ET · POR@DEN single game — 19 players projected Today · 10:00 PM ET · MIA@LAL single game — 19 players projected Today · 11:00 PM ET · MIA@LAL single game — 19 players projected
+Slate Today · 7:00 PM ET · 11 games — 228 players projected Today · 7:30 PM ET · 5 games — 103 players projected Today · 8:00 PM ET · 3 games — 64 players projected Today · 8:30 PM ET · 2 games — 40 players projected Today · 10:00 PM ET · 3 games — 67 players projected Wed 11/4 · 7:00 PM ET · 11 games — 228 players projected Wed 11/4 · 7:30 PM ET · 3 games — 63 players projected Wed 11/4 · 8:00 PM ET · 3 games — 61 players projected Wed 11/4 · 9:00 PM ET · 2 games — 42 players projected Wed 11/4 · 10:00 PM ET · 2 games — 45 players projected Today · 7:00 PM ET · OKC@CLE single game — 21 players projected Today · 9:00 PM ET · POR@DEN single game — 19 players projected Today · 10:00 PM ET · MIA@LAL single game — 19 players projected Today · 11:00 PM ET · MIA@LAL single game — 19 players projected Wed 11/4 · 7:00 PM ET · PHI@DET single game — 21 players projected Wed 11/4 · 8:30 PM ET · MIN@HOU single game — 20 players projected Wed 11/4 · 9:30 PM ET · DAL@SAS single game — 19 players projected Wed 11/4 · 10:30 PM ET · MIA@LAC single game — 24 players projected Wed 11/4 · 11:30 PM ET · MIA@LAC single game — 24 players projected
 TeamAll ATL BKN BOS CHA CHI CLE DAL DET HOU IND MEM MIL MIN NOP NYK OKC ORL PHI SAC SAS UTA WAS
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -320,28 +314,28 @@ Rank bySwing Score Ceiling Volatility (Range ÷ Proj) Ceiling per $1K
 ### Where the upside lives
 Each dot is a player: higher = bigger ceiling, further right = a wider floor-to-ceiling swing relative to his own projection. The shaded zone is above the median on both. Hover or tap a dot for details.
 High ceiling + high volatilityEveryone else
-12014016018020022024020406080BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)WatsonHartMurrayEdgecombeWade
+12014016018020022024020406080BOOM-OR-BUST ZONEVolatility: (ceiling − floor) ÷ projection, %Ceiling (pts)RichardsonGeorgeBrownMurrayScheierman
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling and for volatility among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** ATL@IND, BKN@NYK, BOS@HOU, DET@CHA, CHI@PHI, OKC@CLE, SAC@DAL, NOP@MEM, MIL@MIN, WAS@ORL, UTA@SAS  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Volatility  | Ceil/$1K  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Peyton WatsonCLE · SF/PF · OKC@CLE  | $5,400  | 6.6  | 23.0  | **46.1**  |   | 172%  | 8.5  | 56  |  
-| 2  |  Josh HartNYK · SG/SF · BKN@NYK  | $5,800  | 12.0  | 34.3  | **63.3**  |   | 150%  | 10.9  | 56  |  
-| 3  |  Bilal CoulibalyWAS · SF · WAS@ORL  | $4,200  | 6.6  | 23.2  | **46.4**  |   | 171%  | 11.0  | 56  |  
-| 4  |  Dejounte MurrayNOP · PG · NOP@MEM  | $7,800  | 15.5  | 40.1  | **71.6**  |   | 140%  | 9.2  | 55  |  
-| 5  |  Caleb WilsonCHI · SF/PF · CHI@PHI  | $7,000  | 13.6  | 36.8  | **66.2**  |   | 143%  | 9.5  | 55  |  
-| 6  |  VJ EdgecombePHI · PG/SG · CHI@PHI  | $6,500  | 9.6  | 30.1  | **56.6**  |   | 156%  | 8.7  | 55  |  
-| 7  |  Dean WadePHI · SF/PF · CHI@PHI  | $4,100  | 4.0  | 16.9  | **36.4**  |   | 192%  | 8.9  | 55  |  
-| 8  |  James HardenCLE · PG · OKC@CLE  | $7,300  | 14.3  | 37.7  | **67.9**  |   | 142%  | 9.3  | 54  |  
-| 9  |  Zaccharie RisacherDAL · SG/SF · SAC@DAL  | $5,200  | 7.7  | 25.4  | **49.4**  |   | 164%  | 9.5  | 54  |  
-| 10  |  Luguentz DortATL · SG/SF · ATL@IND  | $4,700  | 5.7  | 21.5  | **43.4**  |   | 176%  | 9.2  | 54  |  
-| 11  |  Onyeka OkongwuATL · C · ATL@IND  | $6,400  | 12.5  | 34.2  | **63.0**  |   | 147%  | 9.8  | 54  |  
-| 12  |  Grayson AllenCHA · SG/SF · DET@CHA  | $5,500  | 8.1  | 25.7  | **49.8**  |   | 163%  | 9.1  | 53  |  
-| 13  |  Kevin DurantHOU · SF · BOS@HOU  | $7,700  | 13.6  | 36.3  | **65.2**  |   | 142%  | 8.5  | 53  |  
-| 14  |  Trey LylesMIN · PF/C · MIL@MIN  | $3,400  | 3.5  | 15.1  | **33.1**  |   | 196%  | 9.7  | 53  |  
-| 15  |  Day'Ron SharpeBKN · C · BKN@NYK  | $5,000  | 8.6  | 26.6  | **51.5**  |   | 162%  | 10.3  | 53  |  
-Show all 196 players
+| 1  |  Jase RichardsonORL · PG/SG · WAS@ORL  | $4,200  | 7.1  | 25.3  | **49.7**  |   | 168%  | 11.8  | 56  |  
+| 2  |  Peyton WatsonCLE · SF/PF · OKC@CLE  | $5,400  | 6.6  | 23.0  | **46.1**  |   | 172%  | 8.5  | 56  |  
+| 3  |  Kyshawn GeorgeWAS · SG · WAS@ORL  | $5,600  | 11.2  | 32.3  | **60.1**  |   | 151%  | 10.7  | 56  |  
+| 4  |  Kobe BrownIND · PF/C · ATL@IND  | $3,300  | 6.0  | 22.3  | **44.9**  |   | 175%  | 13.6  | 56  |  
+| 5  |  Jalen SlawsonIND · SF/PF · ATL@IND  | $3,500  | 8.7  | 27.3  | **53.0**  |   | 162%  | 15.1  | 55  |  
+| 6  |  Josh HartNYK · SG/SF · BKN@NYK  | $5,800  | 11.9  | 34.2  | **63.2**  |   | 150%  | 10.9  | 55  |  
+| 7  |  VJ EdgecombePHI · PG/SG · CHI@PHI  | $6,500  | 9.6  | 30.1  | **56.6**  |   | 156%  | 8.7  | 55  |  
+| 8  |  Dejounte MurrayNOP · PG · NOP@MEM  | $7,800  | 15.4  | 39.9  | **71.4**  |   | 140%  | 9.2  | 55  |  
+| 9  |  Baylor ScheiermanBOS · SG/SF · BOS@HOU  | $4,100  | 4.2  | 17.9  | **37.8**  |   | 188%  | 9.2  | 54  |  
+| 10  |  Caleb WilsonCHI · SF/PF · CHI@PHI  | $7,000  | 13.7  | 36.8  | **66.2**  |   | 143%  | 9.5  | 54  |  
+| 11  |  Dean WadePHI · SF/PF · CHI@PHI  | $4,100  | 4.0  | 16.9  | **36.4**  |   | 192%  | 8.9  | 54  |  
+| 12  |  James HardenCLE · PG · OKC@CLE  | $7,300  | 14.3  | 37.7  | **67.9**  |   | 142%  | 9.3  | 54  |  
+| 13  |  Max ChristieDAL · SG · SAC@DAL  | $4,600  | 7.4  | 24.5  | **48.4**  |   | 167%  | 10.5  | 54  |  
+| 14  |  Tristan da SilvaORL · SF/PF · WAS@ORL  | $4,800  | 9.3  | 29.0  | **54.9**  |   | 157%  | 11.4  | 54  |  
+| 15  |  Bilal CoulibalyWAS · SF · WAS@ORL  | $4,200  | 6.8  | 23.7  | **47.1**  |   | 170%  | 11.2  | 54  |  
+Show all 195 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Volatility** = (ceiling − floor) ÷ projection, so it measures how wide a player’s outcomes are for his own expected output, not just how many minutes he plays. Salaries from the Today · 7:00 PM ET · 11 games slate · 2026-11-02.
 ## **NBA Injury Report**
 Stay on top of who may be out on today's NBA slate, and who could be the next man up to earn extra minutes in a player's absence. For the full list of injured players and their estimated return dates, visit our [NBA injury report](https://www.rotowire.com/basketball/injury-report.php).

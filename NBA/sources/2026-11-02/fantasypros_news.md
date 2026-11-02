@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-02 11:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-02 16:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,174 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
+F - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/paul-george.php)  
+[» More News](https://www.fantasypros.com/nba/news/paul-george.php)
+[Paul George (rest) ruled out Monday ](https://www.fantasypros.com/nba/news/617323/paul-george-rest-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:45pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Paul George has been ruled out for Monday's game against the Rockets. (Source: [Keith Smith on Twitter](https://x.com/KeithSmithNBA/status/2117330810671948196))
+**_Fantasy Impact:_** George played 33 minutes in Sunday's win over the Magic. He'll sit the second game of the back-to-back. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Black](https://images.fantasypros.com/images/players/nba/5973/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-black.php)
+G - ORL
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-black.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-black.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-black.php)
+[Anthony Black (ankle) ruled out Monday ](https://www.fantasypros.com/nba/news/617322/anthony-black-ankle-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:39pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Anthony Black has been ruled out for Monday's game against the Wizards. (Source: [Josh Robbins on Twitter](https://x.com/JoshuaBRobbins/status/2117316687263670352))
+**_Fantasy Impact:_** A depleted Magic team lose another player in Black because of right ankle injury management.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Terrence Shannon Jr.](https://images.fantasypros.com/images/players/nba/6149/headshot/100x100.png)](https://www.fantasypros.com/nba/players/terrence-shannon.php)
+F - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/terrence-shannon.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/terrence-shannon.php)  
+[» More News](https://www.fantasypros.com/nba/news/terrence-shannon.php)
+[Terrence Shannon Jr. (hip) listed questionable Monday ](https://www.fantasypros.com/nba/news/617321/terrence-shannon-jr-hip-listed-questionable-monday.php)  
+
+Mon, Nov 2nd 2:36pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Terrence Shannon Jr. is listed as questionable for Monday's game against the Bucks. (Source: [Timberwolves PR on Twitter](https://x.com/Twolves_PR/status/2117330764673020061))
+**_Fantasy Impact:_** Shannon played 18 minutes off the bench in Saturday's loss against the Spurs. He'll need to be monitored closer to tip-off on Monday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![LaMelo Ball](https://images.fantasypros.com/images/players/nba/5078/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lamelo-ball.php)
+G - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/lamelo-ball.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lamelo-ball.php)  
+[» More News](https://www.fantasypros.com/nba/news/lamelo-ball.php)
+[LaMelo Ball (wrist) listed questionable Monday ](https://www.fantasypros.com/nba/news/617320/lamelo-ball-wrist-listed-questionable-monday.php)  
+
+Mon, Nov 2nd 2:35pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+LaMelo Ball is listed as questionable for Monday's game against the Bucks. (Source: [Timberwolves PR on Twitter](https://x.com/Twolves_PR/status/2117330764673020061))
+**_Fantasy Impact:_** The status of Ball will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyrie Irving](https://images.fantasypros.com/images/players/nba/2074/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyrie-irving.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/kyrie-irving.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyrie-irving.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyrie-irving.php)
+[Kyrie Irving (knee) now doubtful Monday ](https://www.fantasypros.com/nba/news/617301/kyrie-irving-knee-now-doubtful-monday.php)  
+
+Mon, Nov 2nd 2:17pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kyrie Irving has been downgraded to doubtful for Monday's game against the Kings. (Source: [Marc Stein on Twitter](https://x.com/TheSteinLine/status/2117328987525427501))
+**_Fantasy Impact:_** Irving will likely be sidelined after he was initially listed as doubtful. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Andrew Nembhard](https://images.fantasypros.com/images/players/nba/5454/headshot/100x100.png)](https://www.fantasypros.com/nba/players/andrew-nembhard.php)
+G - IND
+[» Rankings](https://www.fantasypros.com/nba/players/andrew-nembhard.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/andrew-nembhard.php)  
+[» More News](https://www.fantasypros.com/nba/news/andrew-nembhard.php)
+[Andrew Nembhard ruled out Monday ](https://www.fantasypros.com/nba/news/617299/andrew-nembhard-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:15pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Andrew Nembhard has been ruled out for Monday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Nembhard will sit the second game of a back-to-back for the Pacers. Quenton Jackson should be among the players to see more run in the back court for Indiana.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Aaron Nesmith](https://images.fantasypros.com/images/players/nba/5140/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aaron-nesmith.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/aaron-nesmith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aaron-nesmith.php)  
+[» More News](https://www.fantasypros.com/nba/news/aaron-nesmith.php)
+[Aaron Nesmith (hamstring) ruled out Monday ](https://www.fantasypros.com/nba/news/617297/aaron-nesmith-hamstring-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:15pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Aaron Nesmith has been ruled out for Monday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Nesmith will sit the second game of a back-to-back for the Pacers. Quenton Jackson should be among the players to see more run in the back court for Indiana. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Obi Toppin](https://images.fantasypros.com/images/players/nba/5091/headshot/100x100.png)](https://www.fantasypros.com/nba/players/obi-toppin.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/obi-toppin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/obi-toppin.php)  
+[» More News](https://www.fantasypros.com/nba/news/obi-toppin.php)
+[Obi Toppin (back) listed questionable Monday ](https://www.fantasypros.com/nba/news/617294/obi-toppin-back-listed-questionable-monday.php)  
+
+Mon, Nov 2nd 2:12pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Obi Toppin is listed as questionable for Monday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Toppin will have a chance to start if he is cleared with Pascal Siakam (rest) ruled out. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ivica Zubac](https://images.fantasypros.com/images/players/nba/3190/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ivica-zubac.php)
+C - IND
+[» Rankings](https://www.fantasypros.com/nba/players/ivica-zubac.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ivica-zubac.php)  
+[» More News](https://www.fantasypros.com/nba/news/ivica-zubac.php)
+[Ivica Zubac (ankle) ruled out Monday ](https://www.fantasypros.com/nba/news/617292/ivica-zubac-ankle-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:11pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ivica Zubac has been ruled out for Monday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Zubac remains without a clear timetable to return for the Pacers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Pascal Siakam](https://images.fantasypros.com/images/players/nba/3219/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pascal-siakam.php)
+F - IND
+[» Rankings](https://www.fantasypros.com/nba/players/pascal-siakam.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/pascal-siakam.php)  
+[» More News](https://www.fantasypros.com/nba/news/pascal-siakam.php)
+[Pascal Siakam (rest) ruled out Monday ](https://www.fantasypros.com/nba/news/617291/pascal-siakam-rest-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:10pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Pascal Siakam has been ruled out for Monday's game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Siakam is one of several players sitting the second game of a back-to-back for the Pacers. Obi Toppin could see the start if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Isaiah Joe](https://images.fantasypros.com/images/players/nba/5210/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-joe.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/isaiah-joe.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/isaiah-joe.php)  
+[» More News](https://www.fantasypros.com/nba/news/isaiah-joe.php)
+[Isaiah Joe (hip) ruled out Monday ](https://www.fantasypros.com/nba/news/617290/isaiah-joe-hip-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:07pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Isaiah Joe has been ruled out for Monday's game against the Hornets. 
+**_Fantasy Impact:_** Joe will be sidelined after being listed as questionable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Gill](https://images.fantasypros.com/images/players/nba/5288/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-gill.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-gill.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-gill.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-gill.php)
+[Anthony Gill (back) ruled out Monday ](https://www.fantasypros.com/nba/news/617288/anthony-gill-back-ruled-out-monday.php)  
+
+Mon, Nov 2nd 2:06pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Anthony Gill has been ruled out for Monday's game against the Magic. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_01_45PM.pdf))
+**_Fantasy Impact:_** Gill remains off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Sandro Mamukelashvili](https://images.fantasypros.com/images/players/nba/5185/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sandro-mamukelashvili.php)
 C - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/sandro-mamukelashvili.php)  
@@ -119,174 +287,6 @@ Rui Hachimura scored 24 points (10-16 FG, 4-7 3PT) to go along with seven reboun
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Kobe Sanders](https://images.fantasypros.com/images/players/nba/6364/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kobe-sanders.php)
-G - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/kobe-sanders.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kobe-sanders.php)  
-[» More News](https://www.fantasypros.com/nba/news/kobe-sanders.php)
-[Kobe Sanders chips in 16 points Sunday ](https://www.fantasypros.com/nba/news/617167/kobe-sanders-chips-16-points-sunday.php)  
-
-Mon, Nov 2nd 1:02am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kobe Sanders scored 16 points (6-9 FG, 4-6 3PT) to go along with three rebounds and one steal in the Clippers 124-112 loss against the Warriors. 
-**_Fantasy Impact:_** Sanders posted his best performance on the young season. He remains off the fantasy radar for now, but he could be a player to monitor if his playing time starts to increase. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kris Dunn](https://images.fantasypros.com/images/players/nba/3169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kris-dunn.php)
-G - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/kris-dunn.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kris-dunn.php)  
-[» More News](https://www.fantasypros.com/nba/news/kris-dunn.php)
-[Kris Dunn logs seven steals Sunday ](https://www.fantasypros.com/nba/news/617166/kris-dunn-logs-seven-steals-sunday.php)  
-
-Mon, Nov 2nd 1:00am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kris Dunn scored 12 points (5-8 FG, 0-3 3PT, 2-2 FT) to go along with two rebounds, four assists and seven steals in the Clippers 124-112 loss against the Warriors. 
-**_Fantasy Impact:_** Dunn was a defensive thief despite the loss Sunday evening. The seven steals were a career-high for him. He should remain steady as a defensive contributor for fantasy managers. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Derrick Jones Jr.](https://images.fantasypros.com/images/players/nba/3285/headshot/100x100.png)](https://www.fantasypros.com/nba/players/derrick-jones.php)
-F - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/derrick-jones.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/derrick-jones.php)  
-[» More News](https://www.fantasypros.com/nba/news/derrick-jones.php)
-[Derrick Jones Jr. suffers back injury Sunday ](https://www.fantasypros.com/nba/news/617165/derrick-jones-jr-suffers-back-injury-sunday.php)  
-
-Mon, Nov 2nd 12:58am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Derrick Jones Jr. suffered a back injury in Sunday's game against the Warriors. (Source: [Ohm Youngmisuk on Twitter](https://x.com/NotoriousOHM/status/2117099604659540077))
-**_Fantasy Impact:_** Jones left Sunday’s game late in the third quarter with a sore knee. He'll continue to be further evaluated into Monday.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Pascal Siakam](https://images.fantasypros.com/images/players/nba/3219/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pascal-siakam.php)
-F - IND
-[» Rankings](https://www.fantasypros.com/nba/players/pascal-siakam.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/pascal-siakam.php)  
-[» More News](https://www.fantasypros.com/nba/news/pascal-siakam.php)
-[Pascal Siakam chips in 17 points Sunday ](https://www.fantasypros.com/nba/news/617164/pascal-siakam-chips-17-points-sunday.php)  
-
-Mon, Nov 2nd 12:56am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Pascal Siakam scored 17 points (6-14 FG, 0-2 3PT, 5-6 FT) to go along with five rebounds, five assists and one steal in the Pacers 98-90 loss against the Nets. 
-**_Fantasy Impact:_** Siakam did the majority of his damage in the first half in the loss on Sunday. His overall production has taken a slight hit with Tyrese Haliburton (hamstring) sidelined. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Andrew Nembhard](https://images.fantasypros.com/images/players/nba/5454/headshot/100x100.png)](https://www.fantasypros.com/nba/players/andrew-nembhard.php)
-G - IND
-[» Rankings](https://www.fantasypros.com/nba/players/andrew-nembhard.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/andrew-nembhard.php)  
-[» More News](https://www.fantasypros.com/nba/news/andrew-nembhard.php)
-[Andrew Nembhard drops 23 points Sunday ](https://www.fantasypros.com/nba/news/617163/andrew-nembhard-drops-23-points-sunday.php)  
-
-Mon, Nov 2nd 12:54am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Andrew Nembhard scored 23 points (7-19 FG, 4-10 3PT, 5-6 FT) to go along with three rebounds, four assists and one steal in the Pacers 98-90 loss against the Nets. 
-**_Fantasy Impact:_** Nembhard led Indiana in scoring in the loss. He continues to see the ball in his hands more as the point guard with Tyrese Haliburton (hamstring) sidelined. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Day'Ron Sharpe](https://images.fantasypros.com/images/players/nba/5354/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dayron-sharpe.php)
-C - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/dayron-sharpe.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/dayron-sharpe.php)  
-[» More News](https://www.fantasypros.com/nba/news/dayron-sharpe.php)
-[Day'Ron Sharpe records double-double Sunday ](https://www.fantasypros.com/nba/news/617162/dayron-sharpe-records-double-double-sunday.php)  
-
-Mon, Nov 2nd 12:52am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Day'Ron Sharpe scored 15 points (5-7 FG, 1-1 3PT, 4-5 FT) to go along with 13 rebounds and four assists in the Nets 98-90 win over the Pacers. 
-**_Fantasy Impact:_** Sharpe took advantage of the matchup with Ivica Zubac and Obi Toppin sidelined for Indiana. He recorded his best performance of the season, including his first double-double. He'll look to build on it in Monday's game against the Knicks. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Julius Randle](https://images.fantasypros.com/images/players/nba/2852/headshot/100x100.png)](https://www.fantasypros.com/nba/players/julius-randle.php)
-F - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/julius-randle.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/julius-randle.php)  
-[» More News](https://www.fantasypros.com/nba/news/julius-randle.php)
-[Julius Randle scores 20 points Sunday ](https://www.fantasypros.com/nba/news/617161/julius-randle-scores-20-points-sunday.php)  
-
-Mon, Nov 2nd 12:47am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Julius Randle scored 20 points (5-15 FG, 4-9 3PT, 6-6 FT) to go along with five rebounds, six assists and two steals in the Nets 98-90 win over the Pacers. 
-**_Fantasy Impact:_** Randle shot from deep than he did inside the arc on the day in the Nets first win of the season. His shooting inefficiency and turnovers remain a concern for his production. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Michael Porter Jr.](https://images.fantasypros.com/images/players/nba/3471/headshot/100x100.png)](https://www.fantasypros.com/nba/players/michael-porter.php)
-F - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/michael-porter.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/michael-porter.php)  
-[» More News](https://www.fantasypros.com/nba/news/michael-porter.php)
-[Michael Porter Jr. scores 23 points Sunday ](https://www.fantasypros.com/nba/news/617160/michael-porter-jr-scores-23-points-sunday.php)  
-
-Mon, Nov 2nd 12:45am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Michael Porter Jr. scored 23 points (7-16 FG, 3-10 3PT, 6-9 FT) to go along with nine rebounds, three assists and one steal in the Nets 98-90 win over the Pacers. 
-**_Fantasy Impact:_** Porter led Brooklyn in scoring in its first win of the season. He should continue to see heavy volume most nights for the Nets. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Gui Santos](https://images.fantasypros.com/images/players/nba/5476/headshot/100x100.png)](https://www.fantasypros.com/nba/players/gui-santos.php)
-F - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/gui-santos.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/gui-santos.php)  
-[» More News](https://www.fantasypros.com/nba/news/gui-santos.php)
-[Gui Santos sits second half with knee tendinitis Sunday ](https://www.fantasypros.com/nba/news/617159/gui-santos-sits-second-half-with-knee-tendinitis-sunday.php)  
-
-Mon, Nov 2nd 12:03am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Warriors head coach Steve Kerr said Gui Santos missed the second half on Sunday as his knee tendinitis continues to bother him. (Source: [Anthony Slater on Twitter](https://x.com/anthonyVslater/status/2117107908269985992))
-**_Fantasy Impact:_** Kerr said the Warriors will sit Santos on Monday against Suns and re-evaluate him.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Rudy Gobert](https://images.fantasypros.com/images/players/nba/2809/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rudy-gobert.php)
-C - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/rudy-gobert.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rudy-gobert.php)  
-[» More News](https://www.fantasypros.com/nba/news/rudy-gobert.php)
-[Rudy Gobert (back) off injury report Monday ](https://www.fantasypros.com/nba/news/617092/rudy-gobert-back-off-injury-report-monday.php)  
-
-Sun, Nov 1st 9:33pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Rudy Gobert is off the injury report for Monday's game against the Bucks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_06_45PM.pdf))
-**_Fantasy Impact:_** Gobert will return from a one-game absence. Joan Beringer will return to his reserve role. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ty Jerome](https://images.fantasypros.com/images/players/nba/4513/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ty-jerome.php)
-G - MEM
-[» Rankings](https://www.fantasypros.com/nba/players/ty-jerome.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ty-jerome.php)  
-[» More News](https://www.fantasypros.com/nba/news/ty-jerome.php)
-[Ty Jerome (back) off injury report Monday ](https://www.fantasypros.com/nba/news/617091/ty-jerome-back-off-injury-report-monday.php)  
-
-Sun, Nov 1st 9:32pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ty Jerome is off the injury report for Monday's game against the Pelicans. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_06_45PM.pdf))
-**_Fantasy Impact:_** Jerome will return after sitting out Saturday’s win against the Kings. Cam Spencer will return to the bench. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Scotty Pippen Jr.](https://images.fantasypros.com/images/players/nba/5553/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)
-G - MEM
-[» Rankings](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/scotty-pippen-jr-g.php)  
-[» More News](https://www.fantasypros.com/nba/news/scotty-pippen-jr-g.php)
-[Scotty Pippen Jr. (back) listed doubtful Monday ](https://www.fantasypros.com/nba/news/617090/scotty-pippen-jr-back-listed-doubtful-monday.php)  
-
-Sun, Nov 1st 9:31pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Scotty Pippen Jr. is listed as doubtful for Monday's game against the Pelicans. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-01_06_45PM.pdf))
-**_Fantasy Impact:_** Pippen is likely to miss a second straight game. The Grizzlies will be getting Ty Jerome (back) back from a one-game absence. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=109_1793635247849&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=780_1793653252184&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999798989e9c99999c9f66uokewi0e0y666264646m6i66666i6o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
