@@ -1,11 +1,11 @@
-# NBA transcripts | 2026-11-03 | updated 2026-11-03 18:09 ET
+# NBA transcripts | 2026-11-03 | updated 2026-11-03 18:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 2 files in NBA/transcripts/2026-11-03:
 NBA/transcripts/2026-11-03/AZapjptRDgM_LockedOnNBA_Luka_Doncic_for_NBA_PRESIDENT_The_Votes_Are_IN.txt
 NBA/transcripts/2026-11-03/OA20O8ADWmY_LockedOnNBA_SGA_Luka_Doncic_Were_UNSTOPPABLE_Every_NBA_Team_Plays_on_Locked_On_NBA.txt
 
 # this run:
-UPCOMING ActionNetwork Ok9wgf1xaQM Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (not aired yet - scheduled for 11/03/26 11:00PM)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
