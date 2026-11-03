@@ -1,28 +1,39 @@
-# CBB transcripts | 2026-11-03 | updated 2026-11-03 08:37 ET
+# CBB transcripts | 2026-11-03 | updated 2026-11-03 10:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 0 files in CBB/transcripts/2026-11-03:
-
+# 8 files in CBB/transcripts/2026-11-03:
+CBB/transcripts/2026-11-03/6ya26rwBT_4_PickDawgz_NCAAB_Alternate_Line_Prediction_11_03_26_The_Extendo_Clip.txt
+CBB/transcripts/2026-11-03/UjQUuRiKRPc_WagerTalk_MACTION_Picks_Today_Tuesday_NCAAB_BEST_Bets_EFL_Championship_The_Morni.txt
+CBB/transcripts/2026-11-03/Zn3u-4jtZOc_PickDawgz_College_Basketball_Picks_Predictions_Today_11_3_26_Ron_s_Bank_Shot_Bre.txt
+CBB/transcripts/2026-11-03/aeFWMPb0j4E_TCE_College_Basketball_Picks_For_November_3rd_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-03/fhGddqr0UEw_TCE_College_Basketball_Best_Bets_For_November_3rd_Spread_Moneyline_Betting.txt
+CBB/transcripts/2026-11-03/gE0Ov4Xfw3w_CBSCollegeBB_There_were_signs_Mick_Cronin_really_likes_his_UCLA_team_Bruins_beat_Ar.txt
+CBB/transcripts/2026-11-03/gEKTVpaJ8ZQ_PickDawgz_College_Basketball_Picks_for_Today_11_3_26_Tuesday_s_Best_College_Bask.txt
+CBB/transcripts/2026-11-03/nhb4KWH6uEM_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_3rd_TCE_Trims.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-02
 
 # this run:
 NOCAPS  LockedOnCBB 1PGGEVZHV94 UCLA STUNS Arizona to cap off ELECTRIC opening day of colleg  (no captions; Groq: live stream still processing - audio not final yet)
-DEFER   LockedOnCBB VyacbqQHqRM UPSET: Notre Dame SHOCKS Villanova with comeback win to open  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   CBSCollegeBB _Sfthv3IE0c MONDAY INSTANT REACTIONS! Zona-UCLA classic! Florida-Miami;   (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB KBfBTB84Vt4 La Salle Explorers vs. No. 10 Houston Cougars College Basket  (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB 6am2vg62xAk Jackson State Tigers vs. No. 19 Texas Tech Raiders College B  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 F3KW7co-LGk 'I'm a little WORRIED about Villanova...' | Wildcats get UPS  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 jNo80fbq_yo Recapping our Opening Day Marathon! | The BEST moments from   (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 N3RHxVg4J80 Memphis SHOCKS Iowa State! | 'This is a HUGE win for Penny H  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-02/VyacbqQHqRM_LockedOnCBB_UPSET_Notre_Dame_SHOCKS_Villanova_with_comeback_win_to_open_college_ba.txt  (7,226 words)
+NEW     CBB/transcripts/2026-11-03/gE0Ov4Xfw3w_CBSCollegeBB_There_were_signs_Mick_Cronin_really_likes_his_UCLA_team_Bruins_beat_Ar.txt  (1,683 words)
+NEW     CBB/transcripts/2026-11-02/_Sfthv3IE0c_CBSCollegeBB_MONDAY_INSTANT_REACTIONS_Zona_UCLA_classic_Florida_Miami_Gonzaga_Purdu.txt  (12,617 words)
+NEW     CBB/transcripts/2026-11-02/KBfBTB84Vt4_CBSCollegeBB_La_Salle_Explorers_vs_No_10_Houston_Cougars_College_Basketball_Highlig.txt  (2,404 words)
+NEW     CBB/transcripts/2026-11-02/F3KW7co-LGk_FieldOf68_I_m_a_little_WORRIED_about_Villanova_Wildcats_get_UPSET_in_Rome_AFTER.txt  (1,029 words)
+NEW     CBB/transcripts/2026-11-02/jNo80fbq_yo_FieldOf68_Recapping_our_Opening_Day_Marathon_The_BEST_moments_from_24_STRAIGHT_h.txt  (2,046 words)
+NEW     CBB/transcripts/2026-11-02/N3RHxVg4J80_FieldOf68_Memphis_SHOCKS_Iowa_State_This_is_a_HUGE_win_for_Penny_Hardaway_AFTER.txt  (1,774 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-DEFER   TCE aeFWMPb0j4E College Basketball Picks For November 3rd - NCAA Basketball   (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-03/nhb4KWH6uEM_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_3rd_TCE_Trims.txt  (5,827 words)
+NEW     CBB/transcripts/2026-11-03/fhGddqr0UEw_TCE_College_Basketball_Best_Bets_For_November_3rd_Spread_Moneyline_Betting.txt  (974 words)
+NEW     CBB/transcripts/2026-11-03/aeFWMPb0j4E_TCE_College_Basketball_Picks_For_November_3rd_NCAA_Basketball_Banter_Best.txt  (21,051 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-DEFER   WagerTalk YLzSrfYS-Bo College Basketball Picks & Best Bets LIVE | Full Court Press  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk B_iQ2rIsc9c College Basketball Picks & Best Bets LIVE | Full Court Press  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk MOR3K7GWiVs College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (YouTube rate limit hit earlier this run)
-DEFER   SportsLine 1wfV6zROlIw Monday Night Football Picks + College Basketball Picks + NBA  (YouTube rate limit hit earlier this run)
-DEFER   PickDawgz gEKTVpaJ8ZQ College Basketball Picks for Today 11/3/26 - Tuesday's Best   (YouTube rate limit hit earlier this run)
-DEFER   PickDawgz Zn3u-4jtZOc College Basketball Picks & Predictions Today 11/3/26 | Ron's  (YouTube rate limit hit earlier this run)
+NOCAPS  WagerTalk zYKs-IvopOY College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq: still live - audio not final yet)
+NOCAPS  WagerTalk MOR3K7GWiVs College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq: still live - audio not final yet)
+NEW     CBB/transcripts/2026-11-03/UjQUuRiKRPc_WagerTalk_MACTION_Picks_Today_Tuesday_NCAAB_BEST_Bets_EFL_Championship_The_Morni.txt  (5,189 words)
+NEW     CBB/transcripts/2026-11-02/1wfV6zROlIw_SportsLine_Monday_Night_Football_Picks_College_Basketball_Picks_NBA_Bets_Early_Ed.txt  (9,180 words)
+NEW     CBB/transcripts/2026-11-03/6ya26rwBT_4_PickDawgz_NCAAB_Alternate_Line_Prediction_11_03_26_The_Extendo_Clip.txt  (1,354 words)
+NEW     CBB/transcripts/2026-11-03/gEKTVpaJ8ZQ_PickDawgz_College_Basketball_Picks_for_Today_11_3_26_Tuesday_s_Best_College_Bask.txt  (2,832 words)
+NEW     CBB/transcripts/2026-11-03/Zn3u-4jtZOc_PickDawgz_College_Basketball_Picks_Predictions_Today_11_3_26_Ron_s_Bank_Shot_Bre.txt  (2,313 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -30,4 +41,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
