@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 18:34 ET -->
 
 # NBA DFS Picks Today
 November 3, 2026
@@ -19,37 +19,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Tuesday, November 3 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-NOP
-**[Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)** _G_ P5:56 PM ET
-#### In line to play Wednesday
-Poole (ankle) is listed as probable for Wednesday's game against Utah.
+TOR
+**[Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)** _C_ Q _Top_ 6:28 PM ET
+#### Iffy for Wednesday
+Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.
 Analysis
-Poole is expected to return from a three-game layoff for the meeting with the Jazz on Wednesday. The 27-year-old hasn't had a memorable 2026-27 campaign thus far, averaging 6.0 points, 2.0 rebounds, 3.0 assists and 1.3 steals across 16.0 minutes per contest. If Poole is cleared for action, it would likely mean fewer minutes for Bryce McGowens and Trendon Watford.
-NOP
-**[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)** _F_ P _Top_ 5:52 PM ET
-#### Probable for Wednesday
-Murphy (knee) is probable for Wednesday's game versus the Jazz.
+Poeltl is looking to avoid a third straight absence with the issue. If the veteran big man is unable to give it a go Wednesday, Collin Murray-Boyles should take on the lion's share of the center minutes for the Raptors.
+MEM
+**[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)** _C_ Q6:20 PM ET
+#### Questionable versus Indiana
+Post (ankle) is listed as questionable for Wednesday's game against Indiana.
 Analysis
-Murphy played through the knee issues and logged 40 minutes in Monday's 135-134 win over the Grizzlies, so it clearly didn't impact his playing time. It appears he'll continue to push through the pain Wednesday.
-NOP
-**[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ _Top_ 5:51 PM ET
-#### Removed from injury report
-Murray (personal) is off the injury report for Wednesday's game against Jazz.
+Post is in danger of missing his third consecutive contest because of a right ankle sprain. If Post remains sidelined Wednesday versus the Pacers, Kris Murray should continue to see more minutes.
+MEM
+**[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)** _G_ OUT _Top_ 6:19 PM ET
+#### Ruled out for Wednesday
+Pippen (back) won't play Wednesday against the Pacers.
 Analysis
-Murray has effectively been on paternity leave for the Pelicans' past three games to celebrate the birth of his son, but the stage is set for him to return to action Wednesday. Herbert Jones is likely to be bounced from the starting lineup, while Trendon Watford could be removed from the rotation altogether.
-OKC
-**[Nikola Topic](https://www.rotowire.com/basketball/player/nikola-topic-6256)** _G_ OUT5:49 PM ET
-#### Remains out Wednesday
-Topic (back) is listed as out for Wednesday's game against Cleveland.
+This will be Pippen's third straight game on the sidelines, which should continue resulting in more minutes for Cam Spencer. Pippen's next chance to play will come Friday against the Thunder.
+MIN
+**[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)** _F_ Q6:11 PM ET
+#### Could miss another game Wednesday
+Shannon (hip) is listed as questionable for Wednesday's game in Houston.
 Analysis
-Topic has yet to play during the 2026-27 campaign, and at this rate, it doesn't look like he will be on the floor anytime soon. For now, he should be considered week-to-week. The 2024 No. 12 overall pick has appeared in only 10 regular-season games throughout his career, averaging 5.2 points, 1.9 rebounds and 4.4 assists while shooting 40.0 percent from deep over 16.0 minutes per contest.
-OKC
-**[Thomas Sorber](https://www.rotowire.com/basketball/player/thomas-sorber-6544)** _C_ OUT5:45 PM ET
-#### Remains out indefinitely
-Sorber (knee) is out for Wednesday's game against the Cavaliers.
+Shannon didn't play in Monday's 112-100 win over Milwaukee. The 26-year-old is having the best season of his career, averaging 12.0 points, 3.6 rebounds and 2.6 assists over 22.0 minutes per contest, so being without him once again would be a tough blow for the Timberwolves. If Shannon misses his second consecutive game, Cody Williams, Trey Lyles and Jaylen Clark could each see more minutes.
+UTA
+**[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)** _C_ OUT _Top_ 6:07 PM ET
+#### Still waiting for season debut
+Nurkic (foot) is out for Wednesday's game against the Pelicans.
 Analysis
-Sorber remains in recovery mode due to knee surgery. Until the Thunder update his timetable for a return, Sorber can be deemed week-to-week.
-Show 5 more (144 remaining)
+Nurkic has been a spectator to begin the season, and he's still not ready for game action due to a foot injury. The veteran big man should be considered week-to-week until the Jazz update his recovery, so Jaxson Hayes should remain the team's primary center going forward.
+Show 5 more (150 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -109,5 +109,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-03 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-03 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,54 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-for-wednesday-537492)
+**C** Toronto Raptors
+Shoulder
+November 3, 2026
+Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, [Blake Murphy of Sportsnet.ca](https://x.com/BlakeMurphyODC/status/2117759740340236647) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Questionable versus Indiana](https://www.rotowire.com/basketball/headlines/quinten-post-injury-questionable-versus-indiana-537491)
+**C** Memphis Grizzlies
+Ankle
+November 3, 2026
+Post (ankle) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_15PM.pdf) for Wednesday's game against Indiana.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-ruled-out-for-wednesday-537490)
+**G** Memphis Grizzlies
+Back
+November 3, 2026
+Pippen (back) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_15PM.pdf) Wednesday against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Could miss another game Wednesday](https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-could-miss-another-game-wednesday-537489)
+**F** Minnesota Timberwolves
+Hip
+November 3, 2026
+Shannon (hip) is listed as [questionable](https://x.com/Twolves_PR/status/2117752940232659400?a=DZ3m9xxb96jA4bYLzxk&s=20) for Wednesday's game in Houston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)[Still waiting for season debut](https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-still-waiting-for-season-debut-537488)
+**C** Utah Jazz
+Foot
+November 3, 2026
+Nurkic (foot) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf) for Wednesday's game against the Pelicans.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Mo Bamba](https://www.rotowire.com/basketball/player/mo-bamba-4371)[Questionable for Wednesday](https://www.rotowire.com/basketball/headlines/mo-bamba-injury-questionable-for-wednesday-537487)
+**C** Utah Jazz
+Ankle
+November 3, 2026
+Bamba is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf) for Wednesday's game in New Orleans due to a sprained right ankle.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
 [Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)[In line to play Wednesday](https://www.rotowire.com/basketball/headlines/jordan-poole-injury-in-line-to-play-wednesday-537486)
 **G** New Orleans Pelicans
@@ -161,58 +209,11 @@ November 3, 2026
 Hart is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_04_45PM.pdf) for Wednesday's game against the Bulls due to right ankle soreness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Anthony Gill](https://www.rotowire.com/basketball/player/anthony-gill-5309)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/anthony-gill-injury-iffy-for-wednesday-537466)
-**F** Washington Wizards
-Back
-November 3, 2026
-Gill (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_04_45PM.pdf) for Wednesday against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Listed as questionable](https://www.rotowire.com/basketball/headlines/alex-sarr-injury-listed-as-questionable-537465)
-**C** Washington Wizards
-Knee
-November 3, 2026
-Sarr (knee) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_04_45PM.pdf) for Wednesday's game against Atlanta.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Another absence coming](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-another-absence-coming-537464)
-**G** Detroit Pistons
-Hip
-November 3, 2026
-Joe (hip) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_04_15PM.pdf) for Wednesday's game against Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/payton-pritchard-injury-iffy-for-wednesday-537463)
-**G** Boston Celtics
-Shoulder
-November 3, 2026
-Pritchard is listed as questionable for Wednesday's game against Milwaukee due to a right shoulder contusion, [Taylor Snow of the Celtics' official site](https://x.com/taylorcsnow/status/2117725145297297486?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)[Absent from injury report](https://www.rotowire.com/basketball/headlines/paul-george-news-absent-from-injury-report-537462)
-**F** Boston Celtics
-November 3, 2026
-George (rest) is off the injury report for Wednesday's game against the Bucks, [Taylor Snow of the Celtics' official site](https://x.com/taylorcsnow/status/2117725145297297486?a=C45wCqCvzdiJL4SWAKY&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)[May be rested](https://www.rotowire.com/basketball/headlines/jayson-tatum-injury-may-be-rested-537461)
-**F** Boston Celtics
-Rest
-November 3, 2026
-Tatum (rest) is questionable for Wednesday against the Bucks, [Taylor Snow of the Celtics' official site](https://x.com/taylorcsnow/status/2117725145297297486?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
 [![MLB Draft Kit Logo](https://assets.rotowire.com/images/rebrand-assets/draft-kit/alt/mlb-draft-kit.jpg)](https://www.rotowire.com/baseball/draft-kit.php)
 #### [MLB Draft Kit](https://www.rotowire.com/baseball/draft-kit.php)
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)
 

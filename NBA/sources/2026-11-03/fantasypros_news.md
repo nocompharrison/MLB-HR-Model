@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 18:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 18:34 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Alex Caruso](https://images.fantasypros.com/images/players/nba/3389/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-caruso.php)
+G - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/alex-caruso.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alex-caruso.php)  
+[» More News](https://www.fantasypros.com/nba/news/alex-caruso.php)
+[Alex Caruso (ankle) off injury report Wednesday ](https://www.fantasypros.com/nba/news/617648/alex-caruso-ankle-off-injury-report-wednesday.php)  
+
+Tue, Nov 3rd 6:30pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alex Caruso is off the injury report for Wednesday’s game against the Cavaliers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Caruso will be back from a three-game absence for Oklahoma City. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Peyton Watson](https://images.fantasypros.com/images/players/nba/5523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/peyton-watson.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/peyton-watson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/peyton-watson.php)  
+[» More News](https://www.fantasypros.com/nba/news/peyton-watson.php)
+[Peyton Watson (hamstring) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617623/peyton-watson-hamstring-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 5:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Peyton Watson has been ruled out for Wednesday’s game against the Thunder. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** Watson will remain sidelined. Meleek Thomas will likely see another spot start. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylon Tyson](https://images.fantasypros.com/images/players/nba/6155/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylon-tyson.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jaylon-tyson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylon-tyson.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylon-tyson.php)
+[Jaylon Tyson (ankle) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617622/jaylon-tyson-ankle-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 5:52pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jaylon Tyson has been ruled out for Wednesday’s game against the Thunder. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** Tyson will miss a third straight game with a sprained right ankle. Meleek Thomas could see another spot start. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
 F - BOS
 [» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
@@ -245,48 +287,6 @@ The Oklahoma City Thunder exercised the rookie scale team option on Jared McCain
 Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Liam McNeeley](https://images.fantasypros.com/images/players/nba/6317/headshot/100x100.png)](https://www.fantasypros.com/nba/players/liam-mcneeley.php)
-F - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/liam-mcneeley.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/liam-mcneeley.php)  
-[» More News](https://www.fantasypros.com/nba/news/liam-mcneeley.php)
-[Liam McNeeley has rookie scale team option exercised by Hornets ](https://www.fantasypros.com/nba/news/617503/liam-mcneeley-has-rookie-scale-team-option-exercised-by-hornets.php)  
-
-Tue, Nov 3rd 11:45am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Hornets exercised their rookie-scale team option on Liam McNeeley. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2116972560449511932))
-**_Fantasy Impact:_** McNeeley will earn $3.04 million for the 2027-28 season. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Will Riley](https://images.fantasypros.com/images/players/nba/6342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/will-riley.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/will-riley.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/will-riley.php)  
-[» More News](https://www.fantasypros.com/nba/news/will-riley.php)
-[Will Riley has third-year team option exercised by Wizards ](https://www.fantasypros.com/nba/news/617501/will-riley-has-third-year-team-option-exercised-by-wizards.php)  
-
-Tue, Nov 3rd 11:42am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Wizards have exercised the third-year team option on Will Riley. (Source: [Brett Siegel on Twitter](https://x.com/BrettSiegelNBA/status/2116961995538698270))
-**_Fantasy Impact:_** Riley will remain with Washington for the third season on his rookie contract. Washington made the same move with Tre Johnson. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tre Johnson](https://images.fantasypros.com/images/players/nba/6316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tre-johnson.php)
-G - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/tre-johnson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/tre-johnson.php)  
-[» More News](https://www.fantasypros.com/nba/news/tre-johnson.php)
-[Tre Johnson has third-year team option exercised by Wizards](https://www.fantasypros.com/nba/news/617500/tre-johnson-has-third-year-team-option-exercised-by-wizards.php)  
-
-Tue, Nov 3rd 11:41am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Wizards have exercised the third-year team option on Tre Johnson. (Source: [Brett Siegel on Twitter](https://x.com/BrettSiegelNBA/status/2116961995538698270))
-**_Fantasy Impact:_** Johnson will remain with Washington for the third season on his rookie contract. Washington made the same move with Will Riley. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=290_1793746850456&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
