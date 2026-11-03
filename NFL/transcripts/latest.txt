@@ -1,6 +1,6 @@
-# NFL transcripts | week 8 | updated 2026-11-02 06:48 ET
+# NFL transcripts | week 8 | updated 2026-11-02 20:20 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 131 files in NFL/transcripts/week-08:
+# 142 files in NFL/transcripts/week-08:
 NFL/transcripts/week-08/-qTsjqnR2No_FantasyAlarm_The_BEST_Week_8_Fantasy_Football_Plays_with_guest_Tera_Roberts.txt
 NFL/transcripts/week-08/-vn96xTfA7M_BettingPros_NFL_Sunday_Night_Football_Bets_Player_Props_Eagles_vs_Commanders_Picks.txt
 NFL/transcripts/week-08/0DUCXJU_hHs_DFSArmy_NFL_DFS_Week_8_Strategy_for_DraftKings_2026.txt
@@ -22,6 +22,7 @@ NFL/transcripts/week-08/8mafOB3EfvM_Stokastic_Panthers_Packers_Showdown_Strategy
 NFL/transcripts/week-08/9RDF0TySCAg_SGPN_Chiefs_vs_Broncos_Prediction_Picks_Best_Bets_NFL_Week_8.txt
 NFL/transcripts/week-08/9oBwhKBlLuo_DFSArmy_NFL_Week_8_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_Tournament_Ta.txt
 NFL/transcripts/week-08/9vSc1IR3YSk_BettingPros_3_BEST_BETS_for_Sunday_NFL_Week_8_Picks_Predictions_for_Today_s_Games.txt
+NFL/transcripts/week-08/AaAyVwSfD7I_DFSArmy_Bears_vs_Seahawks_Showdown_Breakdown_Monday_Night_Football_DraftKings.txt
 NFL/transcripts/week-08/Ak4-UmGpkDI_BettingPros_Top_NFL_Picks_for_Panthers_vs_Packers_Best_Bets_Props_for_Thursday_Nig.txt
 NFL/transcripts/week-08/AlWRIqXKsyU_FantasyAlarm_NFL_Week_7_MNF_NFL_Week_8_TNF_Picks_Spreads_Over_Unders_DFS_Pick_em_Pl.txt
 NFL/transcripts/week-08/B52fNE-Gm4k_ActionNetwork_NFL_Week_8_Betting_Preview_Best_Bets_Picks_For_EVERY_GAME.txt
@@ -43,6 +44,7 @@ NFL/transcripts/week-08/I_xKMUgleAk_SGPN_Ravens_vs_Bills_Prediction_Picks_Best_B
 NFL/transcripts/week-08/IsIQaIRTZnc_PickDawgz_EAGLES_VS_COMMANDERS_11_1_26_NFL_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PRED.txt
 NFL/transcripts/week-08/IxMnLS4ZQnI_BettingPros_Top_10_NFL_Player_Props_Picks_for_Week_8_Prop_Bets_TD_Scorers_2026.txt
 NFL/transcripts/week-08/IztAW51CR2Y_FantasyAces_11_1_Run_Best_Panthers_vs_Packers_Picks_Bets_for_Thursday_10_29_Week.txt
+NFL/transcripts/week-08/JAkvYn3MTE0_TheAudible_Broncos_SHOCK_the_Chiefs_Lamar_Jackson_Injured_Again_Week_8_RECAP_The.txt
 NFL/transcripts/week-08/Jftj8jj5ehk_BettingPros_Top_NFL_Picks_for_Panthers_vs_Packers_Best_Bets_Props_for_Thursday_Nig.txt
 NFL/transcripts/week-08/Jg1nW6WJXvc_DFSArmy_Panthers_vs_Packers_Showdown_Breakdown_Thursday_Night_Football_DraftKi.txt
 NFL/transcripts/week-08/KCgsLsa-a2w_ActionNetwork_NFL_Week_8_Best_Bets_Player_Props_SGPs_Longshots_Brandon_s_Playground.txt
@@ -52,6 +54,7 @@ NFL/transcripts/week-08/LPb2Fu5s_90_BettingPros_Sunday_NFL_Week_8_Best_Bets_Expe
 NFL/transcripts/week-08/MQqS5xxUw9Y_SGPN_Colts_vs_Jaguars_Prediction_Picks_Best_Bets_NFL_Week_8.txt
 NFL/transcripts/week-08/NMLgTvCMiwM_PlayerProfiler_Top_10_Takeaways_Week_7_Usage_Reports_and_Waiver_Wire_Advice_for_Week.txt
 NFL/transcripts/week-08/NalcIck_JBc_PickDawgz_CAROLINA_PANTHERS_VS_GREEN_BAY_PACKERS_FREE_NFL_PICK_PREDICTION_The_Ya.txt
+NFL/transcripts/week-08/NjAEBYog4WY_ShipItNation_Bears_vs_Seahawks_NFL_DFS_Showdown_MNF_Week_8_Showdown_Shippers_Picks.txt
 NFL/transcripts/week-08/OGI7Q4c_X9c_SGPN_NFL_Picks_Week_8_w_DougStanhope_BrendonWalsh_SeanTGreen.txt
 NFL/transcripts/week-08/Pm0W7rZ9_fM_ShipItNation_NFL_DFS_Week_8_Leverage_Lane_DraftKings_FanDuel_Strategy.txt
 NFL/transcripts/week-08/Pxox7EHMnbU_FootballersDFS_Week_8_NFL_Preview_Tuesday_is_the_New_Monday_Fantasy_Football_DFS_Bett.txt
@@ -67,6 +70,7 @@ NFL/transcripts/week-08/VFVcsXnOhRw_RotoGrinders_NFL_DFS_Tournament_Strategy_for
 NFL/transcripts/week-08/VPFUzfOVMkw_DFSArmy_Eagles_vs_Commanders_Showdown_Breakdown_Sunday_Night_Football_DraftKin.txt
 NFL/transcripts/week-08/W9MdDfo7bcQ_BettingPros_10_BEST_BETS_for_NFL_Week_8_Top_Picks_Predictions_to_Make_NOW_2026.txt
 NFL/transcripts/week-08/WcmklTZMCKA_SGPN_Cowboys_vs_Eagles_LIVE_Watch_Party_Monday_Night_Football_Live_Bets.txt
+NFL/transcripts/week-08/XH5StIA27eM_SlopRules_Top_3_MNF_Plays_for_the_Chicago_Bears_vs_Seattle_Seahawks_on_November.txt
 NFL/transcripts/week-08/XKEo5EYc1As_Footballers_Mike_Wright_is_LIVE_Week_8_Fantasy_Football_Start_Sit_Advice_Injury_Ne.txt
 NFL/transcripts/week-08/XbE2890MCzo_PlayerProfiler_Week_8_Fantasy_Football_Rankings_Tiers_2026_QB_RB_WR_TE_Start_Sit_Advi.txt
 NFL/transcripts/week-08/XenrFbLZ5Es_Footballers_Starts_of_the_Week_Week_8_Games_Bears_Mean_Business_Fantasy_Football_2.txt
@@ -89,6 +93,7 @@ NFL/transcripts/week-08/fS_gN1PXhsg_CallingOurShot_NFL_Week_8_Best_Picks_Predict
 NFL/transcripts/week-08/ftTLpojMZ8o_Footballers_Week_8_Waivers_JT_Trade_Watch_Fantasy_Football_2026_Ep_2002.txt
 NFL/transcripts/week-08/g22nTXt-k5w_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Panthers_Packers_TNF_Week_8_DFS_Pick.txt
 NFL/transcripts/week-08/gGvx7HKPYi8_FantasyAlarm_Fantasy_Football_Week_8_Start_Sit_Best_Bets_DFS_Picks_NFL_Inactives.txt
+NFL/transcripts/week-08/gco5L0a8FNw_RotoGrinders_Eagles_vs_Commanders_SNF_Showdown_NFL_DFS_Picks_Strategy.txt
 NFL/transcripts/week-08/gdrSI8qKKU4_DFSArmy_NFL_DFS_Week_8_Fanduel_BobbyWoww_Best_Plays.txt
 NFL/transcripts/week-08/gw-3xU6qJWE_SGPNPropcast_NFL_Week_8_Player_Props_10_29_26.txt
 NFL/transcripts/week-08/hD45QcUVTG4_PickDawgz_PHILADELPHIA_76ERS_VS_INDIANA_PACERS_FREE_NFL_PICK_PREDICTION_The_Yang.txt
@@ -109,16 +114,20 @@ NFL/transcripts/week-08/nJ7jS4oCLFg_FantasyAlarm_Fantasy_Football_Week_8_Trade_A
 NFL/transcripts/week-08/ngSrdXI5QvY_BettingPros_NFL_Monday_Night_Football_Bets_Player_Props_Bears_vs_Seahawks_Picks_We.txt
 NFL/transcripts/week-08/nhKpvkpyWKk_SGPN_NFL_Week_8_Locks_Dogs_Teasers_Best_Bets.txt
 NFL/transcripts/week-08/oCQQuSDBEBE_PlayerProfiler_Fantasy_Trade_Winds_Murky_Backfields_Week_7_Fallout_Week_8_Plays_Fanta.txt
+NFL/transcripts/week-08/oOj6S62nWj0_ShipItNation_Eagles_vs_Commanders_NFL_DFS_Showdown_SNF_Week_8_Sunday_Sweatdown_Pick.txt
 NFL/transcripts/week-08/oXJIExguY7c_SGPN_Thursday_Night_Football_Week_8_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-08/oaH_hpWifcc_SportsLine_NFL_Picks_College_Football_Bets_NBA_Bets_Early_Edge.txt
+NFL/transcripts/week-08/ofSkZSJcS4k_SGPN_Monday_Night_Football_Prop_Bets_NFL_Week_8_Recap.txt
 NFL/transcripts/week-08/pREKn85HiNY_ActionNetwork_NFL_Futures_Betting_The_BEST_AFC_Longshots_Win_Totals_to_Bet_NOW.txt
 NFL/transcripts/week-08/pUUqPv9AQXY_FantasyAlarm_Week_8_Waiver_Wire_Adds_For_Fantasy_Football.txt
+NFL/transcripts/week-08/piZjBv_HTuA_MattyChucks_Bears_vs_Seahawks_Monday_Night_Football_Best_Bets_November_2nd.txt
 NFL/transcripts/week-08/q82e_3JcwNE_ActionNetwork_Top_Week_8_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
 NFL/transcripts/week-08/qF2tFLK-gic_ShipItNation_NFL_DFS_Week_8_Sunday_Shippers_Main_Slate_DraftKings_FanDuel_Picks_Pla.txt
 NFL/transcripts/week-08/rPJsnZlq9_k_SlopRules_Top_3_NFL_Plays_for_Week_8_on_November_1_2026.txt
 NFL/transcripts/week-08/ryOuB367Hqc_LandYourBets_Panthers_vs_Packers_NFL_Best_Bets_Player_Props_Thursday_Night_Football.txt
 NFL/transcripts/week-08/sLxmjAwnZZQ_ActionNetwork_Ravens_vs_Bills_Picks_Predictions_NFL_Week_8_Best_Bets.txt
 NFL/transcripts/week-08/sT9OFTgOl7k_PlayerProfiler_Week_8_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt
+NFL/transcripts/week-08/suEvdidZEvY_PickDawgz_Bears_vs_Seahawks_Picks_Predictions_11_2_26_NFL_Week_8_Picks_Best_Bets.txt
 NFL/transcripts/week-08/t5dmc6OaC4Y_PlayerProfiler_Copy_of_Plays_of_the_Week_Locks_and_Sleepers_for_Week_8_Fantasy_Footba.txt
 NFL/transcripts/week-08/tfnPMWC8QI8_ActionNetwork_Bears_vs_Seahawks_Picks_Predictions_Monday_Night_Football_Best_Bets.txt
 NFL/transcripts/week-08/ti0OJqq6PyM_TheAudible_Which_player_should_you_drop_during_his_Week_8_bye_to_sabotage_another.txt
@@ -130,36 +139,38 @@ NFL/transcripts/week-08/vshlhpXVHFg_PickDawgz_BALTIMORE_RAVENS_VS_BUFFALO_BILLS_
 NFL/transcripts/week-08/vxjbZLeQewg_ActionNetwork_Chiefs_vs_Broncos_Can_Denver_SHOCK_Mahomes_NFL_Week_8_Picks.txt
 NFL/transcripts/week-08/wVIEf6dD-YI_SGPN_Panthers_vs_Packers_Prediction_Picks_Best_Bets_NFL_Week_8.txt
 NFL/transcripts/week-08/wroZyAXRZhc_ActionNetwork_NFL_Week_8_Betting_Preview_Picks_The_Favorites_Podcast.txt
+NFL/transcripts/week-08/xATVS__AuqM_Footballers_Week_8_Studs_Duds_Trade_Rumors_Fantasy_Football_2026_Ep_2006.txt
 NFL/transcripts/week-08/xV7A8ODxkvQ_DFSArmy_NFL_Week_8_DFS_Pre_Lock_Show_DFS_Army.txt
 NFL/transcripts/week-08/xXWysMLhQ8s_PlayerProfiler_Week_8_TOP_Kickers_Defenses_High_Upside_Streamers.txt
+NFL/transcripts/week-08/ycDDbXaBFKk_DFSArmy_The_Chalk_QB_Has_Failed_5_Straight_Weeks_NFL_DFS_Week_8_Review.txt
 
 # this run:
-NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-08/xATVS__AuqM_Footballers_Week_8_Studs_Duds_Trade_Rumors_Fantasy_Football_2026_Ep_2006.txt  (10,183 words)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-DEFER   RotoGrinders gco5L0a8FNw Eagles vs. Commanders SNF Showdown! - NFL DFS Picks & Strate  (still rate-limited after a new IP - will retry next run)
-NOCAPS  RotoGrinders dcjLFrENDSk LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: Groq rejected the API key - check groq_key.txt)
-UPCOMING RotoGrinders AkAook5l98Q Bears vs. Seahawks MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/02/26 7:30PM)
-NOCAPS  ShipItNation oOj6S62nWj0 Eagles vs Commanders NFL DFS Showdown | SNF Week 8 Sunday Sw  (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
-NOCAPS  SGPN ofSkZSJcS4k Monday Night Football Prop Bets + NFL Week 8 Recap  (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
-UPCOMING SGPNPropcast JRyfyVMGykA NFL Week 8 Monday Night Football Player Props - 11/2/26  (not aired yet - scheduled for 11/02/26 11:10AM)
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+NOCAPS  RotoGrinders AkAook5l98Q Bears vs. Seahawks MNF Showdown! - NFL DFS Picks & Strategy  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.0h ago))
+NEW     NFL/transcripts/week-08/gco5L0a8FNw_RotoGrinders_Eagles_vs_Commanders_SNF_Showdown_NFL_DFS_Picks_Strategy.txt  (6,663 words)
+NOCAPS  RotoGrinders dcjLFrENDSk LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: not enough Groq allowance left today (180 min left))
+NEW     NFL/transcripts/week-08/NjAEBYog4WY_ShipItNation_Bears_vs_Seahawks_NFL_DFS_Showdown_MNF_Week_8_Showdown_Shippers_Picks.txt  (18,301 words)
+NOCAPS  ShipItNation huo1ZMFMTuU NFL DFS Week 8 Takedown Breakdown | Winning DraftKings Lineu  (no captions; Groq skipped this run (not enough Groq allowance left today (180 min left)))
+NEW     NFL/transcripts/week-08/oOj6S62nWj0_ShipItNation_Eagles_vs_Commanders_NFL_DFS_Showdown_SNF_Week_8_Sunday_Sweatdown_Pick.txt  (11,595 words)
+NEW     NFL/transcripts/week-08/ofSkZSJcS4k_SGPN_Monday_Night_Football_Prop_Bets_NFL_Week_8_Recap.txt  (17,865 words)
+NOCAPS  SGPNPropcast JRyfyVMGykA NFL Week 8 Monday Night Football Player Props - 11/2/26  (no captions; Groq skipped this run (not enough Groq allowance left today (180 min left)))
+NOCAPS  ActionNetwork sTqBGvZUjis NFL Week 8 Recap & Reactions PLUS Bears vs. Seahawks Preview  (no captions; Groq skipped this run (not enough Groq allowance left today (180 min left)))
+NEW     NFL/transcripts/week-08/AaAyVwSfD7I_DFSArmy_Bears_vs_Seahawks_Showdown_Breakdown_Monday_Night_Football_DraftKings.txt  (8,295 words)
+NEW     NFL/transcripts/week-08/ycDDbXaBFKk_DFSArmy_The_Chalk_QB_Has_Failed_5_Straight_Weeks_NFL_DFS_Week_8_Review.txt  (6,477 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible JAkvYn3MTE0 Broncos SHOCK the Chiefs, Lamar Jackson Injured Again, Week   (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
-NONE    channel PlayerProfiler: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/4J0sSIMIWVA_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Eagles_Commanders_SNF_Week_8_DFS_Pic.txt  (8,741 words)
-NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/kfW_4bWeepA_LandYourBets_Bears_vs_Seahawks_NFL_Best_Bets_Player_Props_Monday_Night_Football_Wee.txt  (3,711 words)
+NEW     NFL/transcripts/week-08/JAkvYn3MTE0_TheAudible_Broncos_SHOCK_the_Chiefs_Lamar_Jackson_Injured_Again_Week_8_RECAP_The.txt  (13,761 words)
+NOCAPS  PlayerProfiler IWucEiK0N9A Top-10 Takeaways - Usage trends from Week 8 and waiver wire   (no captions; Groq skipped this run (not enough Groq allowance left today (180 min left)))
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NOCAPS  BettingPros PrkFLq8Zuak Top NFL Picks for Bears vs. Seahwaks: Best Bets & Player Pro  (no captions; Groq skipped this run (not enough Groq allowance left today (180 min left)))
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NONE    channel SlopRules: nothing new in the date window (or everything already saved)
-NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/gGvx7HKPYi8_FantasyAlarm_Fantasy_Football_Week_8_Start_Sit_Best_Bets_DFS_Picks_NFL_Inactives.txt  (11,990 words)
+NEW     NFL/transcripts/week-08/XH5StIA27eM_SlopRules_Top_3_MNF_Plays_for_the_Chicago_Bears_vs_Seattle_Seahawks_on_November.txt  (4,074 words)
+NEW     NFL/transcripts/week-08/piZjBv_HTuA_MattyChucks_Bears_vs_Seahawks_Monday_Night_Football_Best_Bets_November_2nd.txt  (1,015 words)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-08/Ru9RHFsPWrg_PickDawgz_CHICAGO_BEARS_VS_SEATTLE_SEAHAWKS_FREE_NFL_PICK_PREDICTION_The_Yang_An.txt  (464 words)
-NEW     NFL/transcripts/week-08/CuII_Ac48S8_PickDawgz_NFL_Picks_Predictions_For_Today_Monday_11_2_26_FREE_NFL_Best_Bets_and.txt  (2,810 words)
+NEW     NFL/transcripts/week-08/suEvdidZEvY_PickDawgz_Bears_vs_Seahawks_Picks_Predictions_11_2_26_NFL_Week_8_Picks_Best_Bets.txt  (1,046 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
