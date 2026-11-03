@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 18:50 ET -->
 
 # NBA DFS Picks Today
 November 3, 2026
@@ -19,37 +19,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Tuesday, November 3 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-TOR
-**[Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)** _C_ Q _Top_ 6:28 PM ET
+IND
+**[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)** _C_ Q _Top_ 6:43 PM ET
+#### Might return Wednesday
+Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies.
+Analysis
+Zubac has missed the last five regular-season games due to an ankle injury. While it's not clear how healthy he is, the questionable designation at least suggests he's moving in the right direction. If Zubac is sidelined again Wednesday versus Memphis, Jay Huff is expected to remain in the starting lineup at the five.
+IND
+**[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)** _F_ _Top_ 6:40 PM ET
+#### Not listed on injury report
+Nesmith (rest) is not listed on the injury report for Wednesday's game in Memphis.
+Analysis
+Nesmith sat out Monday's 108-104 loss to the Hawks for rest purposes, but he'll be back in action Wednesday evening. Nesmith is averaging 12.2 points, 1.8 assists and 1.7 triples per game this season.
+IND
+**[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)** _F_ Q6:40 PM ET
 #### Iffy for Wednesday
-Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports.
+Oubre (knee) is questionable for Wednesday's game against the Grizzlies.
 Analysis
-Poeltl is looking to avoid a third straight absence with the issue. If the veteran big man is unable to give it a go Wednesday, Collin Murray-Boyles should take on the lion's share of the center minutes for the Raptors.
-MEM
-**[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)** _C_ Q6:20 PM ET
-#### Questionable versus Indiana
-Post (ankle) is listed as questionable for Wednesday's game against Indiana.
+Oubre is trying to move past a knee contusion Wednesday. Less playing time would be available for Jarace Walker if Oubre is healthy enough to play.
+IND
+**[Pascal Siakam](https://www.rotowire.com/basketball/player/pascal-siakam-3922)** _F_ _Top_ 6:38 PM ET
+#### Available to play Wednesday
+Siakam (rest) is not listed on the injury report ahead of Wednesday's game against Memphis.
 Analysis
-Post is in danger of missing his third consecutive contest because of a right ankle sprain. If Post remains sidelined Wednesday versus the Pacers, Kris Murray should continue to see more minutes.
-MEM
-**[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)** _G_ OUT _Top_ 6:19 PM ET
-#### Ruled out for Wednesday
-Pippen (back) won't play Wednesday against the Pacers.
+Siakam didn't play in Monday's 108-104 loss to the Hawks, the second of a back-to-back for Indiana. He will return to action Wednesday, meaning Jalen Slawson, who started against Atlanta, will presumably head back to the bench.
+IND
+**[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)** _G_ _Top_ 6:37 PM ET
+#### Not listed on injury report
+Nembhard (neck) has been removed from the injury report ahead of Wednesday's meeting in Memphis.
 Analysis
-This will be Pippen's third straight game on the sidelines, which should continue resulting in more minutes for Cam Spencer. Pippen's next chance to play will come Friday against the Thunder.
-MIN
-**[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)** _F_ Q6:11 PM ET
-#### Could miss another game Wednesday
-Shannon (hip) is listed as questionable for Wednesday's game in Houston.
-Analysis
-Shannon didn't play in Monday's 112-100 win over Milwaukee. The 26-year-old is having the best season of his career, averaging 12.0 points, 3.6 rebounds and 2.6 assists over 22.0 minutes per contest, so being without him once again would be a tough blow for the Timberwolves. If Shannon misses his second consecutive game, Cody Williams, Trey Lyles and Jaylen Clark could each see more minutes.
-UTA
-**[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)** _C_ OUT _Top_ 6:07 PM ET
-#### Still waiting for season debut
-Nurkic (foot) is out for Wednesday's game against the Pelicans.
-Analysis
-Nurkic has been a spectator to begin the season, and he's still not ready for game action due to a foot injury. The veteran big man should be considered week-to-week until the Jazz update his recovery, so Jaxson Hayes should remain the team's primary center going forward.
-Show 5 more (150 remaining)
+Nembhard is set to return from a one-game absence, which should prompt Braden Smith's return to the second unit. Nembhard is averaging 18.5 points, 7.3 assists and 2.5 triples per game this season.
+Show 5 more (157 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.

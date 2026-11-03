@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-03 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-03 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,58 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888)[Might return Wednesday](https://www.rotowire.com/basketball/headlines/ivica-zubac-injury-might-return-wednesday-537499)
+**C** Indiana Pacers
+Ankle
+November 3, 2026
+Zubac (ankle) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) for Wednesday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-not-listed-on-injury-report-537498)
+**F** Indiana Pacers
+November 3, 2026
+Nesmith (rest) is not listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) for Wednesday's game in Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-iffy-for-wednesday-537497)
+**F** Indiana Pacers
+Knee
+November 3, 2026
+Oubre (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) for Wednesday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Pascal Siakam](https://www.rotowire.com/basketball/player/pascal-siakam-3922)[Available to play Wednesday](https://www.rotowire.com/basketball/headlines/pascal-siakam-news-available-to-play-wednesday-537496)
+**F** Indiana Pacers
+November 3, 2026
+Siakam (rest) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) on the injury report ahead of Wednesday's game against Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-not-listed-on-injury-report-537495)
+**G** Indiana Pacers
+November 3, 2026
+Nembhard (neck) has been removed from the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) ahead of Wednesday's meeting in Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Larry Nance](https://www.rotowire.com/basketball/player/larry-nance-3723)[Absent from injury report](https://www.rotowire.com/basketball/headlines/larry-nance-news-absent-from-injury-report-537494)
+**C** Indiana Pacers
+November 3, 2026
+Nance (illness) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) for Wednesday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Obi Toppin](https://www.rotowire.com/basketball/player/obi-toppin-5109)[Questionable for Wednesday](https://www.rotowire.com/basketball/headlines/obi-toppin-injury-questionable-for-wednesday-537493)
+**F** Indiana Pacers
+Back
+November 3, 2026
+Toppin (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_30PM.pdf) for Wednesday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-iffy-for-wednesday-537492)
 **C** Toronto Raptors
@@ -151,62 +203,6 @@ Capela (ankle) is listed as [questionable](https://ak-static.cms.nba.com/referee
 Hamstring
 November 3, 2026
 Knueppel (hamstring) is listed as [probable](https://x.com/HornetsPR/status/2117738354943066122?a=GMeSVOjbKtS8krnr_DE&s=20) for Wednesday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Out with ankle sprain](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-with-ankle-sprain-537473)
-**F** Cleveland Cavaliers
-Ankle
-November 3, 2026
-Tyson is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf) for Wednesday's game against the Thunder due to a right ankle sprain.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/peyton-watson-injury-ruled-out-for-wednesday-537472)
-**F** Cleveland Cavaliers
-Hamstring
-November 3, 2026
-Watson (hamstring) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf) for Wednesday's game in Oklahoma City.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-ruled-out-for-wednesday-537471)
-**C** Atlanta Hawks
-Hip
-November 3, 2026
-Landale is out for Wednesday's game against the Wizards with a left hip strain, [Kevin Chouinard of the Hawks' official site](https://x.com/KLChouinard/status/2117738717305884818?a=21g7zO7Eo_F0ep1U-FM&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Questionable for Wednesday](https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-questionable-for-wednesday-537470)
-**F** Atlanta Hawks
-Ankle
-November 3, 2026
-Johnson (ankle) is listed as questionable for Wednesday's game in Washington, [Kevin Chouinard of the Hawks' official site](https://x.com/KLChouinard/status/2117738717305884818?a=CVCh2P7V-3oHuBTlNqw&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Coby White](https://www.rotowire.com/basketball/player/coby-white-4801)[Probable for Wednesday](https://www.rotowire.com/basketball/headlines/coby-white-injury-probable-for-wednesday-537469)
-**G** Charlotte Hornets
-Calf
-November 3, 2026
-White (calf) is [probable](https://x.com/HornetsPR/status/2117738354943066122?s=20) for Wednesday's game in Brooklyn.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dominick Barlow](https://www.rotowire.com/basketball/player/dominick-barlow-5670)[Still sidelined](https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-still-sidelined-537468)
-**C** Philadelphia 76ers
-Back
-November 3, 2026
-Barlow (back) won't play in Wednesday's game against the Pistons, [Austin Krell of OnPattison.com](https://x.com/NBAKrell/status/2117738793729945881?a=LdQ-QC1y78NaaGTKf38&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/josh-hart-injury-iffy-for-wednesday-537467)
-**F** New York Knicks
-Ankle
-November 3, 2026
-Hart is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_04_45PM.pdf) for Wednesday's game against the Bulls due to right ankle soreness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

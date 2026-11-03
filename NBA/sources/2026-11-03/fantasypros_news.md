@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 18:34 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,146 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Santi Aldama](https://images.fantasypros.com/images/players/nba/5371/headshot/100x100.png)](https://www.fantasypros.com/nba/players/santi-aldama.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/santi-aldama.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/santi-aldama.php)  
+[» More News](https://www.fantasypros.com/nba/news/santi-aldama.php)
+[Santi Aldama (knee) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617658/santi-aldama-knee-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 6:41pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Santi Aldama is listed as questionable for Wednesday’s game against the Spurs. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Aldama will have a chance to make his season debut on Wednesday. He'll likely be limited when he does make his return. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tarik Biberovic](https://images.fantasypros.com/images/players/nba/6010/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tarik-biberovic.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/tarik-biberovic.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tarik-biberovic.php)  
+[» More News](https://www.fantasypros.com/nba/news/tarik-biberovic.php)
+[Tarik Biberovic (heel) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617657/tarik-biberovic-heel-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 6:40pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tarik Biberovic has been ruled out for Wednesday’s game against the Spurs. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Biberovic will have to wait another game to make his debut. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Max Christie](https://images.fantasypros.com/images/players/nba/5514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/max-christie.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/max-christie.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/max-christie.php)  
+[» More News](https://www.fantasypros.com/nba/news/max-christie.php)
+[Max Christie (hip) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617656/max-christie-hip-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 6:39pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Max Christie has been ruled out for Wednesday’s game against the Spurs. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Christie left Monday’s loss to the Kings in the first half. Walter Clayton Jr. could continue to see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyrie Irving](https://images.fantasypros.com/images/players/nba/2074/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyrie-irving.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/kyrie-irving.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyrie-irving.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyrie-irving.php)
+[Kyrie Irving (knee) off injury report Wednesday ](https://www.fantasypros.com/nba/news/617655/kyrie-irving-knee-off-injury-report-wednesday.php)  
+
+Tue, Nov 3rd 6:37pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kyrie Irving is off the injury report for Wednesday’s game against the Spurs. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Irving did not play in Monday’s loss to the Kings. He should be back in his starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Scotty Pippen Jr.](https://images.fantasypros.com/images/players/nba/5553/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/scotty-pippen-jr-g.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/scotty-pippen-jr-g.php)  
+[» More News](https://www.fantasypros.com/nba/news/scotty-pippen-jr-g.php)
+[Scotty Pippen Jr. (back) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617654/scotty-pippen-jr-back-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 6:36pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Scotty Pippen Jr. has been ruled out for Wednesday’s game against the Pacers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Pippen will miss a second straight game. His absence does not impact the Grizzlies rotation for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Quinten Post](https://images.fantasypros.com/images/players/nba/6178/headshot/100x100.png)](https://www.fantasypros.com/nba/players/quinten-post.php)
+C - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/quinten-post.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/quinten-post.php)  
+[» More News](https://www.fantasypros.com/nba/news/quinten-post.php)
+[Quinten Post (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617653/quinten-post-ankle-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 6:35pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Quinten Post is listed as questionable for Wednesday’s game against the Pacers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Post has missed the Grizzlies’ last two games. He remains off the fantasy radar when he is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mo Bamba](https://images.fantasypros.com/images/players/nba/3468/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mohamed-bamba.php)
+C - UTH
+[» Rankings](https://www.fantasypros.com/nba/players/mohamed-bamba.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mohamed-bamba.php)  
+[» More News](https://www.fantasypros.com/nba/news/mohamed-bamba.php)
+[Mo Bamba (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617652/mo-bamba-ankle-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 6:34pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mo Bamba is listed as questionable for Wednesday’s game against the Pelicans. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Bamba will remain in his usual reserve role if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Clint Capela](https://images.fantasypros.com/images/players/nba/2906/headshot/100x100.png)](https://www.fantasypros.com/nba/players/clint-capela.php)
+C - HOU
+[» Rankings](https://www.fantasypros.com/nba/players/clint-capela.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/clint-capela.php)  
+[» More News](https://www.fantasypros.com/nba/news/clint-capela.php)
+[Clint Capela (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617651/clint-capela-ankle-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 6:33pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Clint Capela is listed as questionable for Wednesday’s game against the Timberwolves. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Capela did not play in Monday’s win over the Celtics. He remains off the fantasy radar when Alperen Sengun is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
+[Jordan Poole (ankle) listed probable Wednesday ](https://www.fantasypros.com/nba/news/617650/jordan-poole-ankle-listed-probable-wednesday.php)  
+
+Tue, Nov 3rd 6:32pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jordan Poole is listed as probable for Wednesday’s game against the Jazz. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Poole is on track to be good to go after missing the Pelicans’ last three games. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylin Williams](https://images.fantasypros.com/images/players/nba/5491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylin-williams.php)
+C - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/jaylin-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylin-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylin-williams.php)
+[Jaylin Williams (back) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617649/jaylin-williams-back-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 6:31pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jaylin Williams is listed as questionable for Wednesday’s game against the Cavaliers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_06_00PM.pdf))
+**_Fantasy Impact:_** Williams got the start on Monday. He could see another start if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Alex Caruso](https://images.fantasypros.com/images/players/nba/3389/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-caruso.php)
 G - OKC
 [» Rankings](https://www.fantasypros.com/nba/players/alex-caruso.php)  
@@ -145,146 +285,6 @@ By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Nic Claxton is listed as questionable for Wednesday’s game against the Knicks. 
 **_Fantasy Impact:_** Claxton is still looking to make his season debut. He'll have a chance to do so on Wednesday. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jayson Tatum](https://images.fantasypros.com/images/players/nba/3316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jayson-tatum.php)
-F - BOS
-[» Rankings](https://www.fantasypros.com/nba/players/jayson-tatum.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jayson-tatum.php)  
-[» More News](https://www.fantasypros.com/nba/news/jayson-tatum.php)
-[Jayson Tatum (rest) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617614/jayson-tatum-rest-listed-questionable-wednesday.php)  
-
-Tue, Nov 3rd 5:07pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jayson Tatum is listed as questionable for Wednesday’s game against the 
-**_Fantasy Impact:_** Tatum played 32 minutes in Monday's loss against the Rockets. His status is uncertain heading into Wednesday. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Payton Pritchard](https://images.fantasypros.com/images/players/nba/5097/headshot/100x100.png)](https://www.fantasypros.com/nba/players/payton-pritchard.php)
-G - BOS
-[» Rankings](https://www.fantasypros.com/nba/players/payton-pritchard.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/payton-pritchard.php)  
-[» More News](https://www.fantasypros.com/nba/news/payton-pritchard.php)
-[Payton Pritchard (shoulder) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617613/payton-pritchard-shoulder-listed-questionable-wednesday.php)  
-
-Tue, Nov 3rd 5:06pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Payton Pritchard is listed as questionable for Wednesday’s game against the Bucks. 
-**_Fantasy Impact:_** Pritchard played 30 minutes off the bench in Monday's loss against the Rockets. He'll remain in a similar role if he is cleared. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alex Sarr](https://images.fantasypros.com/images/players/nba/6171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-sarr.php)
-C - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/alex-sarr.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/alex-sarr.php)  
-[» More News](https://www.fantasypros.com/nba/news/alex-sarr.php)
-[Alex Sarr (knee) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617612/alex-sarr-knee-listed-questionable-wednesday.php)  
-
-Tue, Nov 3rd 5:05pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Alex Sarr is listed as questionable for Wednesday’s game against the Hawks. 
-**_Fantasy Impact:_** Sarr did not play in Monday's win over the Magic. Deandre Ayton got the start in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
-G - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
-[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
-[Josh Hart (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617611/josh-hart-ankle-listed-questionable-wednesday.php)  
-
-Tue, Nov 3rd 5:03pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Josh Hart is listed as questionable for Wednesday’s game against the Bulls. 
-**_Fantasy Impact:_** Hart played 27 minutes in Monday's win over the Nets. He will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kon Knueppel](https://images.fantasypros.com/images/players/nba/6315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kon-knueppel.php)
-F - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/kon-knueppel.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kon-knueppel.php)  
-[» More News](https://www.fantasypros.com/nba/news/kon-knueppel.php)
-[Kon Knueppel (hamstring) listed probable Wednesday ](https://www.fantasypros.com/nba/news/617610/kon-knueppel-hamstring-listed-probable-wednesday.php)  
-
-Tue, Nov 3rd 5:02pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kon Knueppel is listed as probable for Wednesday’s game against the Nets. 
-**_Fantasy Impact:_** Knueppel is on track to make his season debut. He'll likely be limited on a restriction in his return. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kasparas Jakucionis](https://images.fantasypros.com/images/players/nba/6310/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kasparas-jakucionis.php)
-G - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/kasparas-jakucionis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kasparas-jakucionis.php)  
-[» More News](https://www.fantasypros.com/nba/news/kasparas-jakucionis.php)
-[Kasparas Jakucionis has team option exercised by Bucks](https://www.fantasypros.com/nba/news/617508/kasparas-jakucionis-has-team-option-exercised-by-bucks.php)  
-
-Tue, Nov 3rd 11:51am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Bucks exercised their team option on Kasparas Jakucionis. (Source: [Milwaukee Bucks on Twitter](https://x.com/Bucks/status/2117411539858706434))
-**_Fantasy Impact:_** Jakucionis will remain in Milwaukee for the 2027-28 season. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kel'el Ware](https://images.fantasypros.com/images/players/nba/6162/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kelel-ware.php)
-C - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/kelel-ware.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kelel-ware.php)  
-[» More News](https://www.fantasypros.com/nba/news/kelel-ware.php)
-[Kel'el Ware has team option exercised by Bucks](https://www.fantasypros.com/nba/news/617507/kelel-ware-has-team-option-exercised-by-bucks.php)  
-
-Tue, Nov 3rd 11:50am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Bucks exercised their team option on Kel'el Ware. (Source: [Milwaukee Bucks on Twitter](https://x.com/Bucks/status/2117411539858706434))
-**_Fantasy Impact:_** Ware will remain in Milwaukee for the 2027-28 season. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Isaiah Collier](https://images.fantasypros.com/images/players/nba/6145/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-collier.php)
-G - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/isaiah-collier.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/isaiah-collier.php)  
-[» More News](https://www.fantasypros.com/nba/news/isaiah-collier.php)
-[Isaiah Collier has team option declined by Jazz ](https://www.fantasypros.com/nba/news/617506/isaiah-collier-has-team-option-declined-by-jazz.php)  
-
-Tue, Nov 3rd 11:48am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Utah Jazz will decline their team option on Isaiah Collier worth $4.99 million for the 2027-28 season. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2117295742285169109))
-**_Fantasy Impact:_** Collier will be one of the top unrestricted free agents. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Thomas Sorber](https://images.fantasypros.com/images/players/nba/6362/headshot/100x100.png)](https://www.fantasypros.com/nba/players/thomas-sorber.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/thomas-sorber.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/thomas-sorber.php)  
-[» More News](https://www.fantasypros.com/nba/news/thomas-sorber.php)
-[Thomas Sorber has rookie scale team option exercised by Thunder](https://www.fantasypros.com/nba/news/617505/thomas-sorber-has-rookie-scale-team-option-exercised-by-thunder.php)  
-
-Tue, Nov 3rd 11:47am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Oklahoma City Thunder exercised the rookie scale team option on Thomas Sorber. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2117054296302985578))
-**_Fantasy Impact:_** Sorber will earn $5.12 million for the 2027-28 season.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jared McCain](https://images.fantasypros.com/images/players/nba/6147/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jared-mccain.php)
-G - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/jared-mccain.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jared-mccain.php)  
-[» More News](https://www.fantasypros.com/nba/news/jared-mccain.php)
-[Jared McCain has rookie scale team option exercised by Thunder](https://www.fantasypros.com/nba/news/617504/jared-mccain-has-rookie-scale-team-option-exercised-by-thunder.php)  
-
-Tue, Nov 3rd 11:46am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Oklahoma City Thunder exercised the rookie scale team option on Jared McCain. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2117054296302985578))
-**_Fantasy Impact:_** McCain will earn $6.78 million for the 2027-28 season.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
