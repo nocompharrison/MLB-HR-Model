@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-03 11:02 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-03 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,217 +6,208 @@ Conference
 News Display Mode
 Compact 
 Expanded 
-![Sacramento State](https://assets.rotowire.com/images/teamlogo/cbasketball/Sacramento-State.png?v=15)
-[Joao Das Chagas](https://www.rotowire.com/cbasketball/player/joao-das-chagas-21907)
-Limited action off bench
-**C** Sacramento State
+![Oregon](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon.png?v=16)
+[Malique Ewin](https://www.rotowire.com/cbasketball/player/malique-ewin-20582)
+Double-double in opener
+**F** Oregon
 November 3, 2026
-Das Chagas (wrist) finished with no counting stats in four minutes during Monday's 90-74 win over Jessup.
+Ewin notched 14 points (6-11 FG, 2-4 FT), 13 rebounds, two assists and one steal over 24 minutes during Monday's 87-69 win over Montana.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UC Riverside](https://assets.rotowire.com/images/teamlogo/cbasketball/UC-Riverside.png?v=15)
-[Abraham Oyeadier](https://www.rotowire.com/cbasketball/player/abraham-oyeadier-24601)
-Limited minutes in win
-**C** UC Riverside
+![Oregon](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon.png?v=16)
+[Tyrone Riley](https://www.rotowire.com/cbasketball/player/tyrone-riley-23761)
+Top scorer in season opener
+**G** Oregon
 November 3, 2026
-Oyeadier (undisclosed) provided three points (1-1 FG, 1-2 FT) and one assist over eight minutes during Monday's 110-47 victory over La Verne.
+Riley produced 17 points (6-11 FG, 1-2 3Pt, 4-6 FT), two rebounds, three assists, two blocks and four steals across 33 minutes during Monday's 87-69 victory over Montana.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=15)
-[Rytis Petraitis](https://www.rotowire.com/cbasketball/player/rytis-petraitis-20771)
-Sidelined in Lobos' opener
-**F** New Mexico
-Ankle
+![Stanford](https://assets.rotowire.com/images/teamlogo/cbasketball/Stanford.png?v=16)
+[Aziz Olajuwon](https://www.rotowire.com/cbasketball/player/aziz-olajuwon-28270)
+Six steals in debut
+**F** Stanford
 November 3, 2026
-Petraitis (ankle) didn't play in New Mexico's season-opening 100-60 win over Utah Tech.
+Olajuwon finished Monday's 74-65 win over Eastern Washington with 12 points (4-8 FG, 2-6 3Pt, 2-2 FT), four rebounds and six steals across 30 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=15)
-[Nate Muriithi](https://www.rotowire.com/cbasketball/player/nate-muriithi-28320)
-Absent from opener
-**F** New Mexico
-Undisclosed
+![Stanford](https://assets.rotowire.com/images/teamlogo/cbasketball/Stanford.png?v=16)
+[Julius Price](https://www.rotowire.com/cbasketball/player/julius-price-28271)
+Leads Stanford to win
+**G** Stanford
 November 3, 2026
-Muriithi (undisclosed) didn't play in New Mexico's season-opening win against Utah Tech.
+Price closed Monday's 74-65 victory over Eastern Washington with 17 points (7-12 FG, 1-3 3Pt, 2-2 FT), two rebounds, four assists and one block over 34 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![La Salle](https://assets.rotowire.com/images/teamlogo/cbasketball/La-Salle.png?v=15)
-[Jerome Brewer](https://www.rotowire.com/cbasketball/player/jerome-brewer-25735)
-Misses opening loss to Houston
-**F** La Salle
-Lower Leg
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Jake Davis](https://www.rotowire.com/cbasketball/player/jake-davis-22865)
+Set to miss time
+**F** Illinois
+Shoulder
 November 3, 2026
-Brewer (lower leg) didn't play in La Salle's opening night loss at Houston.
+Davis (shoulder) is set to miss time after getting banged up in Illinois' season-opening win over FDU, per [247Sports](https://x.com/IlliniOn247/status/2117664732136247742).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas Southern](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Southern.png?v=15)
-[Xander Wedlow](https://www.rotowire.com/cbasketball/player/xander-wedlow-23662)
-Good outing off the bench
-**F** Texas Southern
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Cruz Davis](https://www.rotowire.com/cbasketball/player/cruz-davis-21053)
+Sets tone in team debut
+**G** Texas Tech
 November 3, 2026
-Wedlow (knee) closed with 13 points (5-6 FG, 1-1 3Pt, 2-2 FT), three rebounds and two steals across 15 minutes during Monday's 103-79 loss to Grand Canyon.
+Davis posted 15 points (5-7 FG, 1-3 3Pt, 4-4 FT), six rebounds, five assists and six steals over 31 minutes during Monday's 76-42 win over Jackson State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah.png?v=15)
-[David Katoa](https://www.rotowire.com/cbasketball/player/david-katoa-23606)
-Sits out opener
-**G** Utah
-Undisclosed
+![Florida State](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida-State.png?v=16)
+[Marcis Ponder](https://www.rotowire.com/cbasketball/player/marcis-ponder-28245)
+Double-double in collegiate debut
+**C** Florida State
 November 3, 2026
-Katoa (undisclosed) sat out Utah's opener against Long Beach State.
+Ponder ended with 15 points (5-6 FG, 5-7 FT), 11 rebounds and one block across 20 minutes during Monday's 113-69 win over Florida A&M.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah.png?v=15)
-[Babacar Faye](https://www.rotowire.com/cbasketball/player/babacar-faye-19813)
-Limited action in narrow win
-**F** Utah
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Bobby Durkin](https://www.rotowire.com/cbasketball/player/bobby-durkin-25683)
+Leading scorer in win
+**F** Minnesota
 November 3, 2026
-Faye (leg) amassed one assist over four minutes during Monday's 66-63 win over Long Beach State.
+Durkin racked up 16 points (5-6 FG, 4-5 3Pt, 2-2 FT), five rebounds and three assists across 27 minutes during Monday's 85-50 victory over North Dakota.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UC Davis](https://assets.rotowire.com/images/teamlogo/cbasketball/UC-Davis.png?v=15)
-[Veniamin Abosi](https://www.rotowire.com/cbasketball/player/veniamin-abosi-23454)
-Solid off the bench in opener
-**G** UC Davis
+![Wake Forest](https://assets.rotowire.com/images/teamlogo/cbasketball/Wake-Forest.png?v=16)
+[Gavin Placide](https://www.rotowire.com/cbasketball/player/gavin-placide-28290)
+Powers Wake to victory
+**F** Wake Forest
 November 3, 2026
-Abosi (knee) notched 10 points (3-5 FG, 0-1 3Pt, 4-6 FT), six rebounds, one assist and two steals over 22 minutes during Monday's 79-75 loss to North Alabama.
+Placide logged 20 points (8-11 FG, 0-1 3Pt, 4-6 FT), seven rebounds, two assists, two blocks and three steals in 31 minutes during Monday's 83-62 win over Maryland Eastern Shore.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Hawaii](https://assets.rotowire.com/images/teamlogo/cbasketball/Hawaii.png?v=15)
-[Isaiah Kerr](https://www.rotowire.com/cbasketball/player/isaiah-kerr-21212)
-Absent from opener
-**G** Hawaii
-Undisclosed
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Isaac Asuma](https://www.rotowire.com/cbasketball/player/isaac-asuma-23539)
+Well-rounded output in opener
+**G** Minnesota
 November 3, 2026
-Kerr (undisclosed) didn't play in Hawaii's season-opening 74-73 win over Seattle.
+Asuma contributed 13 points (6-9 FG, 0-2 3Pt, 1-1 FT), six rebounds, six assists, three blocks and one steal across 29 minutes during Monday's 85-50 victory over North Dakota.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Hawaii](https://assets.rotowire.com/images/teamlogo/cbasketball/Hawaii.png?v=15)
-[Manie Joses](https://www.rotowire.com/cbasketball/player/manie-joses-23669)
-Misses opener
-**F** Hawaii
-Undisclosed
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Gavin Doty](https://www.rotowire.com/cbasketball/player/gavin-doty-24619)
+Double-double in opener
+**G** Syracuse
 November 3, 2026
-Joses (undisclosed) didn't play in Hawaii's 74-73 win over Seattle in the Rainbow Warriors' opener.
+Doty totaled 14 points (3-7 FG, 1-3 3Pt, 7-8 FT), 13 rebounds, three assists and two steals over 34 minutes during Monday's 74-58 victory over New Haven.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=15)
-[Collin Mulholland](https://www.rotowire.com/cbasketball/player/collin-mulholland-25284)
-Hopes to ramp up participation
-**C** Utah State
-Undisclosed
+![Pittsburgh](https://assets.rotowire.com/images/teamlogo/cbasketball/Pittsburgh.png?v=16)
+[Chase Foster](https://www.rotowire.com/cbasketball/player/chase-foster-28260)
+Goes for 23 off bench
+**F** Pittsburgh
 November 3, 2026
-Mulholland (ankle) hopes to get back to limited, non-contact practices over the course of the next week, per [Carson Frost of The Herald Journal](https://www.hjnews.com/sports/usu/ben-jacobsons-coaching-style-begins-to-show-in-season-opener/article_ab158265-a9f3-4c17-b01f-b13709ab453b.amp.html).
+Foster chipped in 23 points (7-12 FG, 3-4 3Pt, 6-7 FT), six rebounds, two blocks and three steals over 28 minutes during Monday's 95-57 win over Rider.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=15)
-[Connor Turnbull](https://www.rotowire.com/cbasketball/player/connor-turnbull-20514)
-Expected to miss 2-3 weeks
-**F** Utah State
+![San Jose State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Jose-State.png?v=16)
+[Joey Chammaa](https://www.rotowire.com/cbasketball/player/joey-chammaa-22659)
+Career-high 27 points in win
+**G** San Jose State
+November 3, 2026
+Chammaa supplied 27 points (6-9 FG, 3-4 3Pt, 12-12 FT), four rebounds, six assists and two steals in 36 minutes during Monday's 95-74 win over UTSA.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Queens University](https://assets.rotowire.com/images/teamlogo/cbasketball/Queens-University.png?v=16)
+[Jordan Watford](https://www.rotowire.com/cbasketball/player/jordan-watford-27292)
+Fills stat sheet in opener
+**G** Queens University
+November 3, 2026
+Watford supplied 26 points (10-15 FG, 0-1 3Pt, 6-10 FT), seven rebounds, eight assists and two steals over 32 minutes during Monday's 103-98 victory over Winthrop.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Liberty](https://assets.rotowire.com/images/teamlogo/cbasketball/Liberty.png?v=16)
+[Zander Carter](https://www.rotowire.com/cbasketball/player/zander-carter-26923)
+Game-high 21 points in loss
+**G** Liberty
+November 3, 2026
+Carter racked up 21 points (9-14 FG, 3-5 3Pt, 0-3 FT), six rebounds, one assist and four steals over 28 minutes during Monday's 72-57 loss to High Point.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
+[Owen Freeman](https://www.rotowire.com/cbasketball/player/owen-freeman-22476)
+Expected to be available for opener
+**F** Auburn
 Foot
 November 3, 2026
-Turnbull (foot) is expected to miss 2-3 weeks after he got injured in practice ahead of the Aggies' season opener, per [Jeff Hunter of the Deseret News](https://www.deseret.com/sports/2026/11/03/utah-state-basketball-beats-idaho-state-in-season-opener/).
+Freeman (foot) is expected to be available for Auburn's opener on a minutes restriction, per [Nathan King of 247Sports.com](https://x.com/NathanKing247/status/2117713489426858153?a=4G-kqHt-XlpK87tadEI&s=20).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=15)
-[Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
-Knee injury may not be serious
-**F** Houston
-Knee
+![Wichita State](https://assets.rotowire.com/images/teamlogo/cbasketball/Wichita-State.png?v=16)
+[Noah Hill](https://www.rotowire.com/cbasketball/player/noah-hill-27692)
+Will miss season with foot injury
+**F** Wichita State
+Foot
 November 3, 2026
-McCarty (knee) may not be dealing with a serious knee ailment, as head coach Kelvin Sampson said "Whatever it is, I don't think it's that bad" after the game, per [Andy Yanez of Pawd Slama Jama](https://x.com/AYanez_5/status/2117478901865992347).
+Hill will miss the 2026-27 season after sustaining a season-ending foot injury, [Wichita State men's basketball announced](https://x.com/GoShockersMBB/status/2117693294859944441) Tuesday.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![VCU](https://assets.rotowire.com/images/teamlogo/cbasketball/VCU.png?v=15)
-[Jordan Tillery](https://www.rotowire.com/cbasketball/player/jordan-tillery-27643)
-Injury may not be major
-**G** VCU
-Knee
+![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
+[Gilad Levy](https://www.rotowire.com/cbasketball/player/gilad-levy-28175)
+Eligible to compete this season
+**C** Louisiana State
 November 3, 2026
-Tillery (knee) may not be dealing with a serious injury, as though he was helped off the court during VCU's win over little rock, he returned to the bench later in the game, per [Zach Joachim of the Richmond Times-Dispatch](https://x.com/ZachJoachim/status/2117457570902249571).
+Levy (not injury related) is eligible to play for LSU during the 2026-27 campaign, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2117690109390983321?a=9q1RhW4Vsq-FOUQpd_M&s=20).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=15)
-[Arrinten Page](https://www.rotowire.com/cbasketball/player/arrinten-page-22242)
-Set to undergo knee imaging
-**F** Providence
-Knee
+![Ohio State](https://assets.rotowire.com/images/teamlogo/cbasketball/Ohio-State.png?v=16)
+[Amare Bynum](https://www.rotowire.com/cbasketball/player/amare-bynum-26079)
+Drops 20 in opener
+**F** Ohio State
 November 3, 2026
-Page will undergo knee imaging after getting banged up in Providence's season-opening win over Maine, per [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2117451852262318326).
+Bynum had 20 points (7-10 FG, 3-6 3Pt, 3-3 FT), three rebounds, four assists, two blocks and one steal over 35 minutes during Monday's 94-83 loss to BYU.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=15)
-[Devin Vanterpool](https://www.rotowire.com/cbasketball/player/devin-vanterpool-22428)
-Will be game-time call vs. Nebraska
-**G** Providence
-Ankle
+![Ohio State](https://assets.rotowire.com/images/teamlogo/cbasketball/Ohio-State.png?v=16)
+[John Mobley](https://www.rotowire.com/cbasketball/player/john-mobley-23357)
+Solid showing in tough loss
+**G** Ohio State
 November 3, 2026
-Vanterpool (ankle) will be a game-time decision for Providence's tilt with Nebraska on Saturday, per [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2117451039133794350).
+Mobley chipped in 14 points (4-9 FG, 2-5 3Pt, 4-4 FT), three rebounds, seven assists and one steal over 27 minutes before fouling out of Monday's 94-83 loss to BYU.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Indiana](https://assets.rotowire.com/images/teamlogo/cbasketball/Indiana.png?v=15)
-[Prince-Alexander Moody](https://www.rotowire.com/cbasketball/player/prince-alexander-moody-28116)
-Set to miss significant time
-**G** Indiana
-Knee
+![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
+[LA Pratt](https://www.rotowire.com/cbasketball/player/la-pratt-21004)
+Good start to Wildcats career
+**G** Northwestern
 November 3, 2026
-Moody (knee) will miss "an extended period of time," per [Mike Schumann of The Daily Hoosier](https://www.thedailyhoosier.com/iu-basketball-freshman-guard-prince-alexander-moody-suffers-knee-injury/).
+Pratt closed Monday's 86-60 victory over Binghamton with 19 points (6-12 FG, 3-5 3Pt, 4-6 FT), three rebounds, four assists and one block in 32 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Colorado State](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado-State.png?v=15)
-[Jase Butler](https://www.rotowire.com/cbasketball/player/jase-butler-23530)
-Nabs double-double with six dimes
-**G** Colorado State
+![Mississippi](https://assets.rotowire.com/images/teamlogo/cbasketball/Mississippi.png?v=16)
+[Micah Handlogten](https://www.rotowire.com/cbasketball/player/micah-handlogten-20774)
+Sits out opener
+**C** Mississippi
+Not Injury Related
 November 3, 2026
-Butler ended with 12 points (3-7 FG, 1-3 3Pt, 5-5 FT), 10 rebounds, six assists and two steals over 33 minutes during Monday's 84-74 victory over Montana State.
+Handlogten (eligibility) did not take the court in Monday's 99-58 victory over Alcorn State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=15)
-[Kingston Tosi](https://www.rotowire.com/cbasketball/player/kingston-tosi-27621)
-Provides 26 points
-**F** Utah State
+![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
+[Jack Karasinski](https://www.rotowire.com/cbasketball/player/jack-karasinski-21518)
+Seven triples in opener
+**F** Northwestern
 November 3, 2026
-Tosi recorded 26 points (11-16 FG, 1-3 3Pt, 3-3 FT), five rebounds, one assist and three steals over 28 minutes during Monday's 94-58 win over Idaho State.
+Karasinski finished Monday's 86-60 victory over Binghamton with 24 points (8-12 FG, 7-11 3Pt, 1-3 FT), three rebounds and one assist over 28 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oregon State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon-State.png?v=15)
-[Daniel Freitag](https://www.rotowire.com/cbasketball/player/daniel-freitag-23458)
-Puts up 23 points in opener
-**G** Oregon State
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Andrej Stojakovic](https://www.rotowire.com/cbasketball/player/andrej-stojakovic-22364)
+Drops 20 in opener
+**G** Illinois
 November 3, 2026
-Freitag racked up 23 points (5-10 FG, 1-2 3Pt, 12-12 FT), seven rebounds, two assists, one block and three steals over 26 minutes during Monday's 102-61 victory over Weber State.
+Stojakovic produced 20 points (9-11 FG, 1-3 3Pt, 1-4 FT), seven rebounds, four assists and one block over 20 minutes during Monday's 120-45 victory over FDU.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oregon State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon-State.png?v=15)
-[Xavion Staton](https://www.rotowire.com/cbasketball/player/xavion-staton-26055)
-Snags double-double
-**C** Oregon State
+![Penn State](https://assets.rotowire.com/images/teamlogo/cbasketball/Penn-State.png?v=16)
+[Ivan Juric](https://www.rotowire.com/cbasketball/player/ivan-juric-26036)
+Big double-double to tip off 2026-27
+**F** Penn State
 November 3, 2026
-Staton totaled 10 points (5-8 FG, 0-2 3Pt), 13 rebounds, one assist, two blocks and one steal in 24 minutes during Monday's 102-61 win over Weber State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=15)
-[Jaylen Harrell](https://www.rotowire.com/cbasketball/player/jaylen-harrell-25755)
-Scores team-high 13 in win
-**G** Washington State
-November 3, 2026
-Harrell racked up 13 points (5-8 FG, 1-3 3Pt, 2-2 FT), two rebounds, one assist and two steals over 25 minutes during Monday's 76-61 loss to Davidson.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Fresno State](https://assets.rotowire.com/images/teamlogo/cbasketball/Fresno-State.png?v=15)
-[Dragos Lungu](https://www.rotowire.com/cbasketball/player/dragos-lungu-22655)
-Scores career-high 30 points
-**G** Fresno State
-November 3, 2026
-Lungu posted 30 points (12-19 FG, 1-2 3Pt, 5-11 FT), seven rebounds, two assists and two blocks in 35 minutes during Monday's 88-79 win over Fresno Pacific.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-State.png?v=15)
-[DJ Hall](https://www.rotowire.com/cbasketball/player/dj-hall-27526)
-Leads with 18 points
-**F** Texas State
-November 3, 2026
-Hall closed with 18 points (6-12 FG, 2-4 3Pt, 4-5 FT), five rebounds and three assists across 33 minutes during Monday's 67-55 win over Texas A&M-Corpus Christi.
+Juric ended with 14 points (5-8 FG, 4-5 FT), 15 rebounds, one block and one steal in 20 minutes during Monday's 97-57 win over Canisius.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
