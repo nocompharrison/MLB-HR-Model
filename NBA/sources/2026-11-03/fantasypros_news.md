@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-03 18:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,174 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
+F - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/paul-george.php)  
+[» More News](https://www.fantasypros.com/nba/news/paul-george.php)
+[Paul George (rest) off injury report Wednesday ](https://www.fantasypros.com/nba/news/617621/paul-george-rest-off-injury-report-wednesday.php)  
+
+Tue, Nov 3rd 5:51pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Paul George is off the injury report for Wednesday’s game against the Bucks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** George did not play in Monday’s loss to the Rockets. He should be back in his usual role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Coby White](https://images.fantasypros.com/images/players/nba/4472/headshot/100x100.png)](https://www.fantasypros.com/nba/players/coby-white.php)
+G - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/coby-white.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/coby-white.php)  
+[» More News](https://www.fantasypros.com/nba/news/coby-white.php)
+[Coby White (calf) listed probable Wednesday ](https://www.fantasypros.com/nba/news/617620/coby-white-calf-listed-probable-wednesday.php)  
+
+Tue, Nov 3rd 5:50pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Coby White is listed as probable for Wednesday’s game against the Nets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** White made his season debut in Monday’s loss to the Pistons. He'll likely remain in a similar role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Isaiah Joe](https://images.fantasypros.com/images/players/nba/5210/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-joe.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/isaiah-joe.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/isaiah-joe.php)  
+[» More News](https://www.fantasypros.com/nba/news/isaiah-joe.php)
+[Isaiah Joe (hip) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617619/isaiah-joe-hip-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 5:49pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Isaiah Joe has been ruled out for Wednesday’s game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** Joe will remain sidelined. He has not played since he injured his hip in the Pistons’ October 25 win over the 76ers.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jock Landale](https://images.fantasypros.com/images/players/nba/5386/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jock-landale.php)
+C - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/jock-landale.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jock-landale.php)  
+[» More News](https://www.fantasypros.com/nba/news/jock-landale.php)
+[Jock Landale (hip) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617618/jock-landale-hip-ruled-out-wednesday.php)  
+
+Tue, Nov 3rd 5:48pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jock Landale has been ruled out for Wednesday’s game against the Wizards. 
+**_Fantasy Impact:_** Landale will miss a second straight game. His absence does not impact the Hawks rotation for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Johnson](https://images.fantasypros.com/images/players/nba/5353/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)
+F - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-johnson-f-f.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-johnson-f-f.php)
+[Jalen Johnson (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617617/jalen-johnson-ankle-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:47pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Johnson is listed as questionable for Wednesday’s game against the Wizards. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_05_00PM.pdf))
+**_Fantasy Impact:_** Johnson did not play in Monday’s win over the Pacers. Luguentz Dort got the start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
+[Jalen Smith (finger) listed probable Wednesday ](https://www.fantasypros.com/nba/news/617616/jalen-smith-finger-listed-probable-wednesday.php)  
+
+Tue, Nov 3rd 5:09pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Smith is listed as probable for Wednesday’s game against the Knicks. 
+**_Fantasy Impact:_** Smith is on track to be good to go. His role will be dependent on the status of Nic Claxton. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Nic Claxton](https://images.fantasypros.com/images/players/nba/4519/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nicolas-claxton.php)
+C - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/nicolas-claxton.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/nicolas-claxton.php)  
+[» More News](https://www.fantasypros.com/nba/news/nicolas-claxton.php)
+[Nic Claxton (hamstring) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617615/nic-claxton-hamstring-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:08pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Nic Claxton is listed as questionable for Wednesday’s game against the Knicks. 
+**_Fantasy Impact:_** Claxton is still looking to make his season debut. He'll have a chance to do so on Wednesday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jayson Tatum](https://images.fantasypros.com/images/players/nba/3316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jayson-tatum.php)
+F - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/jayson-tatum.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jayson-tatum.php)  
+[» More News](https://www.fantasypros.com/nba/news/jayson-tatum.php)
+[Jayson Tatum (rest) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617614/jayson-tatum-rest-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:07pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jayson Tatum is listed as questionable for Wednesday’s game against the 
+**_Fantasy Impact:_** Tatum played 32 minutes in Monday's loss against the Rockets. His status is uncertain heading into Wednesday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Payton Pritchard](https://images.fantasypros.com/images/players/nba/5097/headshot/100x100.png)](https://www.fantasypros.com/nba/players/payton-pritchard.php)
+G - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/payton-pritchard.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/payton-pritchard.php)  
+[» More News](https://www.fantasypros.com/nba/news/payton-pritchard.php)
+[Payton Pritchard (shoulder) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617613/payton-pritchard-shoulder-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:06pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Payton Pritchard is listed as questionable for Wednesday’s game against the Bucks. 
+**_Fantasy Impact:_** Pritchard played 30 minutes off the bench in Monday's loss against the Rockets. He'll remain in a similar role if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alex Sarr](https://images.fantasypros.com/images/players/nba/6171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-sarr.php)
+C - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/alex-sarr.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alex-sarr.php)  
+[» More News](https://www.fantasypros.com/nba/news/alex-sarr.php)
+[Alex Sarr (knee) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617612/alex-sarr-knee-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:05pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alex Sarr is listed as questionable for Wednesday’s game against the Hawks. 
+**_Fantasy Impact:_** Sarr did not play in Monday's win over the Magic. Deandre Ayton got the start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
+[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
+[Josh Hart (ankle) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617611/josh-hart-ankle-listed-questionable-wednesday.php)  
+
+Tue, Nov 3rd 5:03pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Josh Hart is listed as questionable for Wednesday’s game against the Bulls. 
+**_Fantasy Impact:_** Hart played 27 minutes in Monday's win over the Nets. He will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kon Knueppel](https://images.fantasypros.com/images/players/nba/6315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kon-knueppel.php)
+F - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/kon-knueppel.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kon-knueppel.php)  
+[» More News](https://www.fantasypros.com/nba/news/kon-knueppel.php)
+[Kon Knueppel (hamstring) listed probable Wednesday ](https://www.fantasypros.com/nba/news/617610/kon-knueppel-hamstring-listed-probable-wednesday.php)  
+
+Tue, Nov 3rd 5:02pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kon Knueppel is listed as probable for Wednesday’s game against the Nets. 
+**_Fantasy Impact:_** Knueppel is on track to make his season debut. He'll likely be limited on a restriction in his return. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Kasparas Jakucionis](https://images.fantasypros.com/images/players/nba/6310/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kasparas-jakucionis.php)
 G - MIL
 [» Rankings](https://www.fantasypros.com/nba/players/kasparas-jakucionis.php)  
@@ -91,20 +259,6 @@ The Hornets exercised their rookie-scale team option on Liam McNeeley. (Source: 
 Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Kon Knueppel](https://images.fantasypros.com/images/players/nba/6315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kon-knueppel.php)
-F - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/kon-knueppel.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kon-knueppel.php)  
-[» More News](https://www.fantasypros.com/nba/news/kon-knueppel.php)
-[Kon Knueppel has rookie scale option exercised by Hornets](https://www.fantasypros.com/nba/news/617502/kon-knueppel-has-rookie-scale-option-exercised-by-hornets.php)  
-
-Tue, Nov 3rd 11:44am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Hornets exercised their rookie-scale team option on Kon Knueppel. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2116972560449511932))
-**_Fantasy Impact:_** Knueppel will earn 11.02 million for the 2027-28 season. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Will Riley](https://images.fantasypros.com/images/players/nba/6342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/will-riley.php)
 F - WAS
 [» Rankings](https://www.fantasypros.com/nba/players/will-riley.php)  
@@ -133,160 +287,6 @@ The Wizards have exercised the third-year team option on Tre Johnson. (Source: [
 Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Alex Sarr](https://images.fantasypros.com/images/players/nba/6171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-sarr.php)
-C - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/alex-sarr.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/alex-sarr.php)  
-[» More News](https://www.fantasypros.com/nba/news/alex-sarr.php)
-[Alex Sarr has fourth-year team option exercised by Wizards](https://www.fantasypros.com/nba/news/617499/alex-sarr-has-fourth-year-team-option-exercised-by-wizards.php)  
-
-Tue, Nov 3rd 11:40am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Wizards have exercised the fourth-year team option on Alex Sarr. (Source: [Brett Siegel on Twitter](https://x.com/BrettSiegelNBA/status/2116961995538698270))
-**_Fantasy Impact:_** Sarr will remain with Washington for a fourth season. They did the same with Kyshawn George and Bub Carrington.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kyshawn George](https://images.fantasypros.com/images/players/nba/6146/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyshawn-george.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/kyshawn-george.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyshawn-george.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyshawn-george.php)
-[Kyshawn George has fourth-year team option exercised by Wizards](https://www.fantasypros.com/nba/news/617498/kyshawn-george-has-fourth-year-team-option-exercised-by-wizards.php)  
-
-Tue, Nov 3rd 11:39am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Wizards have exercised the fourth-year team option on Kyshawn George. (Source: [Brett Siegel on Twitter](https://x.com/BrettSiegelNBA/status/2116961995538698270))
-**_Fantasy Impact:_** George will remain with Washington for a fourth season. They did the same with Bub Carrington and Alex Sarr.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Bub Carrington](https://images.fantasypros.com/images/players/nba/6148/headshot/100x100.png)](https://www.fantasypros.com/nba/players/carlton-carrington.php)
-G - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/carlton-carrington.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/carlton-carrington.php)  
-[» More News](https://www.fantasypros.com/nba/news/carlton-carrington.php)
-[Bub Carrington has fourth-year team option exercised by Wizards ](https://www.fantasypros.com/nba/news/617497/bub-carrington-has-fourth-year-team-option-exercised-by-wizards.php)  
-
-Tue, Nov 3rd 11:38am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Wizards have exercised the fourth-year team option on Bub Carrington. (Source: [Brett Siegel on Twitter](https://x.com/BrettSiegelNBA/status/2116961995538698270))
-**_Fantasy Impact:_** Carrington will remain with Washington for a fourth season. They did the same with Kyshawn George and Alex Sarr.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![DaRon Holmes II](https://images.fantasypros.com/images/players/nba/6161/headshot/100x100.png)](https://www.fantasypros.com/nba/players/daron-holmes.php)
-C - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/daron-holmes.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/daron-holmes.php)  
-[» More News](https://www.fantasypros.com/nba/news/daron-holmes.php)
-[DaRon Holmes II has rookie-scale team option declined by Nuggets](https://www.fantasypros.com/nba/news/617496/daron-holmes-ii-has-rookie-scale-team-option-declined-by-nuggets.php)  
-
-Tue, Nov 3rd 11:37am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Denver Nuggets are declining DaRon Holmes’ rookie-scale team option for the 2027-28 season.
-**_Fantasy Impact:_** Holmes will remain off the fantasy radar. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![CJ McCollum](https://images.fantasypros.com/images/players/nba/2814/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cj-mccollum.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/cj-mccollum.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cj-mccollum.php)  
-[» More News](https://www.fantasypros.com/nba/news/cj-mccollum.php)
-[CJ McCollum comes up one rebound shy of triple-double](https://www.fantasypros.com/nba/news/617495/cj-mccollum-comes-up-one-rebound-shy-triple-double.php)  
-
-Tue, Nov 3rd 11:36am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-CJ McCollum scored 13 points (4-17 FG, 2-7 3PT, 3-4 FT) to go with 12 assists and nine rebounds in Monday's 108-104 win over the Pacers. 
-**_Fantasy Impact:_** For the second time in the last three games, McCollum struggled mightily with his shot Monday night. That did not stop the veteran guard from delivering a nice game for the Hawks. McCollum made up for the shooting woes with season highs in assists and rebounds. McCollum's shooting should come back around soon. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Asa Newell](https://images.fantasypros.com/images/players/nba/6327/headshot/100x100.png)](https://www.fantasypros.com/nba/players/asa-newell.php)
-F - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/asa-newell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/asa-newell.php)  
-[» More News](https://www.fantasypros.com/nba/news/asa-newell.php)
-[Asa Newell has team option exercised by Hawks](https://www.fantasypros.com/nba/news/617494/asa-newell-has-team-option-exercised-by-hawks.php)  
-
-Tue, Nov 3rd 11:36am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Atlanta Hawks will exercise their rookie scale team option on Asa Newell for the 2027-28 season. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2116931726928945432))
-**_Fantasy Impact:_** Newell will earn $3.56 million.
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Onyeka Okongwu](https://images.fantasypros.com/images/players/nba/5098/headshot/100x100.png)](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)
-C - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/onyeka-okongwu.php)  
-[» More News](https://www.fantasypros.com/nba/news/onyeka-okongwu.php)
-[Onyeka Okongwu delivers double-double Monday night](https://www.fantasypros.com/nba/news/617493/onyeka-okongwu-delivers-double-double-monday-night.php)  
-
-Tue, Nov 3rd 11:32am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Onyeka Okongwu scored 13 points (5-11 FG, 2-5 3PT, 1-2 FT) and grabbed 10 rebounds in Monday's 108-104 win over the Pacers. 
-**_Fantasy Impact:_** Okongwu has now pulled down double-digit rebounds in three straight games, recording a double-double in two of them. The Atlanta big has averaged 16.0 points and 10.7 boards in that brief span. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alex Caruso](https://images.fantasypros.com/images/players/nba/3389/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-caruso.php)
-G - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/alex-caruso.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/alex-caruso.php)  
-[» More News](https://www.fantasypros.com/nba/news/alex-caruso.php)
-[Alex Caruso (ankle) not expected to be out long-term ](https://www.fantasypros.com/nba/news/617492/alex-caruso-ankle-not-expected-to-be-out-long-term.php)  
-
-Tue, Nov 3rd 11:31am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Alex Caruso is not expected to be out long-term with his ankle injury. (Source: [Joe Vardon](https://www.nytimes.com/athletic/7749774/2026/11/03/thunder-injuries-shai-gilgeous-alexander-nba-champions/))
-**_Fantasy Impact:_** Caruso has now missed three straight games with an ankle injury. He remains day-to-day for now. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Dalen Terry](https://images.fantasypros.com/images/players/nba/5467/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dalen-terry.php)
-G - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/dalen-terry.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/dalen-terry.php)  
-[» More News](https://www.fantasypros.com/nba/news/dalen-terry.php)
-[Dalen Terry signs with Thunder](https://www.fantasypros.com/nba/news/617491/dalen-terry-signs-with-thunder.php)  
-
-Tue, Nov 3rd 11:29am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Oklahoma City Thunder sign Dalen Terry to two-year deal. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2117617919953682858))
-**_Fantasy Impact:_** Terry was waived by the Warriors. He will add depth at the end of the rotation for the Thunder. 
-Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nickeil Alexander-Walker](https://images.fantasypros.com/images/players/nba/4492/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nickeil-alexander-walker.php)  
-[» More News](https://www.fantasypros.com/nba/news/nickeil-alexander-walker.php)
-[Nickeil Alexander-Walker erupts for 34 points Monday night](https://www.fantasypros.com/nba/news/617490/nickeil-alexander-walker-erupts-34-points-monday-night.php)  
-
-Tue, Nov 3rd 11:29am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Nickeil Alexander-Walker finished with 34 points (12-25 FG, 9-15 3PT, 1-1 FT), four rebounds, four assists, and four steals in Monday's 108-104 win over the Pacers. 
-**_Fantasy Impact:_** Alexander-Walker led the way for the Hawks in this one, as none of his teammates topped 14 points. The NBA's reigning Most Improved Player, Alexander-Walker caught fire from three-point range, tying a career-high set in March of last season. The veteran guard is leading the Hawks this season at 21.1 points and 3.9 treys (40.3%) per game. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Quenton Jackson](https://images.fantasypros.com/images/players/nba/5592/headshot/100x100.png)](https://www.fantasypros.com/nba/players/quenton-jackson.php)
-G - IND
-[» Rankings](https://www.fantasypros.com/nba/players/quenton-jackson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/quenton-jackson.php)  
-[» More News](https://www.fantasypros.com/nba/news/quenton-jackson.php)
-[Quentin Jackson continues putting points on board ](https://www.fantasypros.com/nba/news/617489/quentin-jackson-continues-putting-points-on-board.php)  
-
-Tue, Nov 3rd 11:22am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Quentin Jackson finished with 20 points (7-16 FG, 1-7 3PT, 5-5 FT), seven rebounds, four steals, three assists, and two blocks in Monday's 108-104 loss to the Hawks. 
-**_Fantasy Impact:_** Jackson and company nearly pulled off an improbable victory over the Hawks on Monday. The Pacers had several key players out of action and went with a rotation of just six. Jackson did a little bit of everything in this one, and he's now averaged 18.7 points over the last three games. He may be a decent short-term contributor in deeper fantasy formats. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=719_1793739668537&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=290_1793746850456&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

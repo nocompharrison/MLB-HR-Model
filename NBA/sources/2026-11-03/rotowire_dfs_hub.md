@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 18:06 ET -->
 
 # NBA DFS Picks Today
 November 3, 2026
@@ -19,37 +19,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Tuesday, November 3 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-DET
-**[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)** _F_ 3:18 PM ET
-#### Season-high 14 points in rout
-Thompson closed with 14 points (5-7 FG, 4-5 FT), six rebounds, four assists and one block across 26 minutes during Monday's 124-91 win over the Hornets.
+NOP
+**[Jordan Poole](https://www.rotowire.com/basketball/player/jordan-poole-4791)** _G_ P5:56 PM ET
+#### In line to play Wednesday
+Poole (ankle) is listed as probable for Wednesday's game against Utah.
 Analysis
-Thompson provided a season-high 14 points Monday. His usage hasn't been particularly high, attempting fewer than 10 field goals in every game, but he's registered at least six boards and four assists in five of his first six appearances to begin the season, and he remains a key presence defensively for Detroit.
-CHA
-**[Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708)** _C_ 3:15 PM ET
-#### Full stat line in loss
-Diabate closed with seven points (3-6 FG, 1-1 FT), nine rebounds, two assists, one block and three steals in 24 minutes during Monday's 124-91 loss to the Pistons.
+Poole is expected to return from a three-game layoff for the meeting with the Jazz on Wednesday. The 27-year-old hasn't had a memorable 2026-27 campaign thus far, averaging 6.0 points, 2.0 rebounds, 3.0 assists and 1.3 steals across 16.0 minutes per contest. If Poole is cleared for action, it would likely mean fewer minutes for Bryce McGowens and Trendon Watford.
+NOP
+**[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)** _F_ P _Top_ 5:52 PM ET
+#### Probable for Wednesday
+Murphy (knee) is probable for Wednesday's game versus the Jazz.
 Analysis
-With a strong start to the year, Diabate seems to have pulled way ahead of Ryan Kalkbrenner for Charlotte's starting job at center. Diabate has come down with at least eight boards in seven of his first eight games, posting at least one steal or block each time out so far.
-CHA
-**[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)** _F_ 3:13 PM ET
-#### Scores season-high 11 points
-James logged 11 points (4-6 FG, 3-4 3Pt), four rebounds and three assists across 21 minutes during Monday's 124-91 loss to Detroit.
+Murphy played through the knee issues and logged 40 minutes in Monday's 135-134 win over the Grizzlies, so it clearly didn't impact his playing time. It appears he'll continue to push through the pain Wednesday.
+NOP
+**[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ _Top_ 5:51 PM ET
+#### Removed from injury report
+Murray (personal) is off the injury report for Wednesday's game against Jazz.
 Analysis
-Although James continues to work with the first unit, he's essentially serving as a nominal starter for the Hornets while they wait for Kon Knueppel's (hamstring) season debut. The 11 points were a season-high figure for the second-year forward, who had previously been unable to score greater than six points in any of his first seven appearances prior to Monday.
-PHX
-**[Dillon Brooks](https://www.rotowire.com/basketball/player/dillon-brooks-4125)** _F_ 3:11 PM ET
-#### Productive ways continue
-Brooks finished Monday's 116-113 loss to the Warriors with 18 points (5-8 FG, 2-2 3Pt, 6-7 FT), eight rebounds and four assists over 34 minutes.
+Murray has effectively been on paternity leave for the Pelicans' past three games to celebrate the birth of his son, but the stage is set for him to return to action Wednesday. Herbert Jones is likely to be bounced from the starting lineup, while Trendon Watford could be removed from the rotation altogether.
+OKC
+**[Nikola Topic](https://www.rotowire.com/basketball/player/nikola-topic-6256)** _G_ OUT5:49 PM ET
+#### Remains out Wednesday
+Topic (back) is listed as out for Wednesday's game against Cleveland.
 Analysis
-Brooks is off to a nice start for the new campaign, having produced at least 10 points in each of his first five appearances. The eight boards were a new season high for the veteran forward, who has also delivered at least 18 points in three consecutive games.
-MIL
-**[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)** _C_ 3:00 PM ET
-#### Swats five shots
-Turner finished Monday's 112-100 loss to the Timberwolves with 13 points (5-10 FG, 3-6 3Pt), five rebounds, two assists and five blocks over 31 minutes.
+Topic has yet to play during the 2026-27 campaign, and at this rate, it doesn't look like he will be on the floor anytime soon. For now, he should be considered week-to-week. The 2024 No. 12 overall pick has appeared in only 10 regular-season games throughout his career, averaging 5.2 points, 1.9 rebounds and 4.4 assists while shooting 40.0 percent from deep over 16.0 minutes per contest.
+OKC
+**[Thomas Sorber](https://www.rotowire.com/basketball/player/thomas-sorber-6544)** _C_ OUT5:45 PM ET
+#### Remains out indefinitely
+Sorber (knee) is out for Wednesday's game against the Cavaliers.
 Analysis
-Turner delivered an impressive defensive performance, matching his season high with five blocks while connecting on three triples. The veteran center has now recorded multiple blocks in four consecutive appearances, reinforcing his value as an elite rim protector. Although his scoring and rebounding numbers have fluctuated, his combination of shot-blocking and perimeter shooting continues to provide considerable fantasy upside.
-Show 5 more (117 remaining)
+Sorber remains in recovery mode due to knee surgery. Until the Thunder update his timetable for a return, Sorber can be deemed week-to-week.
+Show 5 more (144 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.

@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-03 16:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-03 18:06 ET -->
 
 
 ---
@@ -3243,18 +3243,6 @@ Without further ado, let’s break down a trio of player props to consider. Be s
 
 ### **Austin Reaves (Lakers vs. Jazz) Over Points + Rebounds + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 23](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10203.png)Austin Reaves
-
-[![Image 24: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)
-
-[![Image 25: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)
-
-[![Image 26: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)[To Win Clutch Player of the Year](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)[50¢](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)
-
-[![Image 27](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/austin_reaves/player_58465 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Reaves entered the season with even more elevated expectations than usual, considering LeBron James’ exit to the 76ers during the offseason. Through two games, Reaves has delivered, averaging 25.5 points (on 66.7 percent shooting, including 50.0 percent from three-point range), 7.5 assists, 3.0 rebounds and 2.0 steals across 35.0 minutes per contest. Thue usage has been there, as Reaves is averaging 20.0 field-goal + free-throw attempts per contest.
 
 The combination of all those numbers makes Reaves’ 30.5 PRA prop very viable Sunday, especially considering the matchup. The Jazz are, as expected, already giving up their fair share of points. Utah has surrendered 121.0 points per game and ranks 25th in defensive efficiency (1.154), while also conceding 48.9% shooting. Reeves’ efficiency and usage should therefore afford him an excellent chance of cashing in a game where Los Angeles has an implied team total of 121.5 points.
@@ -3263,18 +3251,6 @@ The combination of all those numbers makes Reaves’ 30.5 PRA prop very viable S
 
 ### **LaMelo Ball (Timberwolves vs. Raptors) Under Points + Rebounds + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 28](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10209.png)LaMelo Ball
-
-[![Image 29: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)[O/U Points Scored (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)
-
-[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)[O/U Total Rebounds (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)
-
-[![Image 31: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)
-
-[![Image 32](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/lamelo_ball/player_146134 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Ball’s Timberwolves tenure is off to a so-so start, as he followed up a solid opener against the Heat (21 points, six assists, two rebounds, two steals) with a more modest performance against the Magic (12 points, five rebounds, five assists and two steals). Ball has shot just 36.7% overall in that pair of contests, and Sunday’s matchup doesn’t necessarily suggest he’ll have a good chance of generating one of his higher-percentile performances.
 
 The Raptors have been excellent defensively over their first two games, ranking No. 1 in defensive efficiency (0.863) and surrendering league-low 34.8% shooting, including 21.9% from behind the arc. Toronto has also given up an Eastern Conference-low 18.5 assists per game, underscoring the impact that Kawhi Leonard has already had on the team’s defensive approach. Ball is 0-2 to this prop so far in 2026-27, and he could have a hard time breaking the ice again Sunday.
@@ -3282,14 +3258,6 @@ The Raptors have been excellent defensively over their first two games, ranking 
 **Original Line Publish**: 29.5
 
 ### **Cameron Boozer (Grizzlies vs. Kings) Over Points + Rebounds + Assists**
-
-[](https://www.lineups.com/)
-
-![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Cameron Boozer
-
-[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276451/kalshi_sc)[To Win Rookie of the Year](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276451/kalshi_sc)[32¢](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276451/kalshi_sc)
-
-[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/cameron_boozer/player_276451 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Boozer’s first two games have been somewhat of a study in contrasts. The rookie’s debut saw him scuffle badly from the field with a 2-for-15 tally, including 0-for-6 from three-point range. However, Boozer still pulled down 11 rebounds and dished out five assists in that outing, and he then surged back with a 25-point, 13-rebound double-double against the Warriors that also included six assists and two steals. Boozer got there with the help of 6-for-13 shooting, as well as a 9-for-9 tally from the line.
 
@@ -3325,27 +3293,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 36: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+[![Image 23: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 
 [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 #### [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)[NBA First Basket Picks Today (Oct. 29): Deni Avdija](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 
-[![Image 37: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+[![Image 24: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)[NHL Goal Picks Today: Logan Stankoven, Lucas Raymond & Alex Tuch Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
-[![Image 38: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-150x150.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+[![Image 25: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-150x150.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
 [](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 #### [](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)[Cavaliers-Hawks NBA Picks, Predictions & Odds for Thursday, October 29, 2026](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
-[![Image 39: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+[![Image 26: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[NBA Player Props Today: Darius Acuff Jr., Jarrett Allen and Ja Morant Best Bets](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
-[![Image 40: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
+[![Image 27: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 [](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 #### [](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)[Panthers-Packers Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
@@ -3356,7 +3324,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 41: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 42: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -3371,7 +3339,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 43: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+[![Image 30: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 
 [Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3381,7 +3349,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)October 29, 2026
 
-[![Image 44: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+[![Image 31: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3391,7 +3359,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
 
-[![Image 45: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-390x230.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+[![Image 32: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-390x230.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3401,7 +3369,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
 
-[![Image 46: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+[![Image 33: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3411,7 +3379,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)October 29, 2026
 
-[![Image 47: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
+[![Image 34: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3421,7 +3389,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 28, 2026
 
-[![Image 48: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
+[![Image 35: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3517,7 +3485,7 @@ You must be 21+ years old to wager. Bet within your means. If you have a gamblin
 
 [Visit our YouTube](https://www.youtube.com/@Lineups)
 
-![Image 49: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
+![Image 36: Logo](https://www.lineups.com/wp-content/uploads/2026/08/lineups-logo-popup.png)
 
 Sign up to our newsletter to get lineups latest hands-on reviews, expert advice, and exclusive offers delivered straight to your inbox.
 
@@ -3525,157 +3493,157 @@ Select a state
 
 Select a state
 
-![Image 50: 
+![Image 37: 
                     Alabama                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alabama.png) Alabama 
 
-![Image 51: 
+![Image 38: 
                     Alaska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Alaska.png) Alaska 
 
-![Image 52: 
+![Image 39: 
                     Arizona                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arizona.png) Arizona 
 
-![Image 53: 
+![Image 40: 
                     Arkansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Arkansas.png) Arkansas 
 
-![Image 54: 
+![Image 41: 
                     California                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/California.png) California 
 
-![Image 55: 
+![Image 42: 
                     Colorado                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Colorado.png) Colorado 
 
-![Image 56: 
+![Image 43: 
                     Connecticut                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Connecticut.png) Connecticut 
 
-![Image 57: 
+![Image 44: 
                     District of Columbia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/DistrictofColumbia.png) District of Columbia 
 
-![Image 58: 
+![Image 45: 
                     Delaware                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Delaware.png) Delaware 
 
-![Image 59: 
+![Image 46: 
                     Florida                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Florida.png) Florida 
 
-![Image 60: 
+![Image 47: 
                     Georgia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Georgia.png) Georgia 
 
-![Image 61: 
+![Image 48: 
                     Hawaii                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Hawaii.png) Hawaii 
 
-![Image 62: 
+![Image 49: 
                     Idaho                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Idaho.png) Idaho 
 
-![Image 63: 
+![Image 50: 
                     Illinois                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Illinois.png) Illinois 
 
-![Image 64: 
+![Image 51: 
                     Indiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Indiana.png) Indiana 
 
-![Image 65: 
+![Image 52: 
                     Iowa                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Iowa.png) Iowa 
 
-![Image 66: 
+![Image 53: 
                     Kansas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kansas.png) Kansas 
 
-![Image 67: 
+![Image 54: 
                     Kentucky                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Kentucky.png) Kentucky 
 
-![Image 68: 
+![Image 55: 
                     Louisiana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Louisiana.png) Louisiana 
 
-![Image 69: 
+![Image 56: 
                     Maine                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maine.png) Maine 
 
-![Image 70: 
+![Image 57: 
                     Maryland                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Maryland.png) Maryland 
 
-![Image 71: 
+![Image 58: 
                     Massachusetts                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Massachusetts.png) Massachusetts 
 
-![Image 72: 
+![Image 59: 
                     Michigan                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Michigan.png) Michigan 
 
-![Image 73: 
+![Image 60: 
                     Minnesota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Minnesota.png) Minnesota 
 
-![Image 74: 
+![Image 61: 
                     Mississippi                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Mississippi.png) Mississippi 
 
-![Image 75: 
+![Image 62: 
                     Missouri                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Missouri.png) Missouri 
 
-![Image 76: 
+![Image 63: 
                     Montana                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Montana.png) Montana 
 
-![Image 77: 
+![Image 64: 
                     Nebraska                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nebraska.png) Nebraska 
 
-![Image 78: 
+![Image 65: 
                     Nevada                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Nevada.png) Nevada 
 
-![Image 79: 
+![Image 66: 
                     New Hampshire                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewHampshire.png) New Hampshire 
 
-![Image 80: 
+![Image 67: 
                     New Jersey                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewJersey.png) New Jersey 
 
-![Image 81: 
+![Image 68: 
                     New Mexico                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewMexico.png) New Mexico 
 
-![Image 82: 
+![Image 69: 
                     New York                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NewYork.png) New York 
 
-![Image 83: 
+![Image 70: 
                     North Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthCarolina.png) North Carolina 
 
-![Image 84: 
+![Image 71: 
                     North Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/NorthDakota.png) North Dakota 
 
-![Image 85: 
+![Image 72: 
                     Ohio                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Ohio.png) Ohio 
 
-![Image 86: 
+![Image 73: 
                     Oklahoma                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oklahoma.png) Oklahoma 
 
-![Image 87: 
+![Image 74: 
                     Oregon                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Oregon.png) Oregon 
 
-![Image 88: 
+![Image 75: 
                     Pennsylvania                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Pennsylvania.png) Pennsylvania 
 
-![Image 89: 
+![Image 76: 
                     Rhode Island                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/RhodeIsland.png) Rhode Island 
 
-![Image 90: 
+![Image 77: 
                     South Carolina                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthCarolina.png) South Carolina 
 
-![Image 91: 
+![Image 78: 
                     South Dakota                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/SouthDakota.png) South Dakota 
 
-![Image 92: 
+![Image 79: 
                     Tennessee                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Tennessee.png) Tennessee 
 
-![Image 93: 
+![Image 80: 
                     Texas                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Texas.png) Texas 
 
-![Image 94: 
+![Image 81: 
                     Utah                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Utah.png) Utah 
 
-![Image 95: 
+![Image 82: 
                     Vermont                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Vermont.png) Vermont 
 
-![Image 96: 
+![Image 83: 
                     Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Virginia.png) Virginia 
 
-![Image 97: 
+![Image 84: 
                     Washington                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Washington.png) Washington 
 
-![Image 98: 
+![Image 85: 
                     West Virginia                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/WestVirginia.png) West Virginia 
 
-![Image 99: 
+![Image 86: 
                     Wisconsin                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wisconsin.png) Wisconsin 
 
-![Image 100: 
+![Image 87: 
                     Wyoming                ](https://www.lineups.com/wp-content/plugins/catena-customer-io-plugin/images/states/Wyoming.png) Wyoming 
 
  Rest of the World 
