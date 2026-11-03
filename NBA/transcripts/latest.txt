@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-03 | updated 2026-11-03 18:38 ET
+# NBA transcripts | 2026-11-03 | updated 2026-11-03 18:53 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 2 files in NBA/transcripts/2026-11-03:
 NBA/transcripts/2026-11-03/AZapjptRDgM_LockedOnNBA_Luka_Doncic_for_NBA_PRESIDENT_The_Votes_Are_IN.txt
