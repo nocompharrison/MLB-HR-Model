@@ -1,7 +1,9 @@
-# CBB transcripts | 2026-11-03 | updated 2026-11-03 10:10 ET
+# CBB transcripts | 2026-11-03 | updated 2026-11-03 11:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 8 files in CBB/transcripts/2026-11-03:
+# 11 files in CBB/transcripts/2026-11-03:
+CBB/transcripts/2026-11-03/5hkLYuO6jfs_CBSCollegeBB_Good_luck_handling_Florida_for_40_minutes.txt
 CBB/transcripts/2026-11-03/6ya26rwBT_4_PickDawgz_NCAAB_Alternate_Line_Prediction_11_03_26_The_Extendo_Clip.txt
+CBB/transcripts/2026-11-03/QsUoRJnUrm4_WagerTalk_TUESDAY_NCAAB_Best_Bets_Arkansas_Pine_Bluff_vs_Arkansas_Sam_Houston_vs.txt
 CBB/transcripts/2026-11-03/UjQUuRiKRPc_WagerTalk_MACTION_Picks_Today_Tuesday_NCAAB_BEST_Bets_EFL_Championship_The_Morni.txt
 CBB/transcripts/2026-11-03/Zn3u-4jtZOc_PickDawgz_College_Basketball_Picks_Predictions_Today_11_3_26_Ron_s_Bank_Shot_Bre.txt
 CBB/transcripts/2026-11-03/aeFWMPb0j4E_TCE_College_Basketball_Picks_For_November_3rd_NCAA_Basketball_Banter_Best.txt
@@ -9,31 +11,26 @@ CBB/transcripts/2026-11-03/fhGddqr0UEw_TCE_College_Basketball_Best_Bets_For_Nove
 CBB/transcripts/2026-11-03/gE0Ov4Xfw3w_CBSCollegeBB_There_were_signs_Mick_Cronin_really_likes_his_UCLA_team_Bruins_beat_Ar.txt
 CBB/transcripts/2026-11-03/gEKTVpaJ8ZQ_PickDawgz_College_Basketball_Picks_for_Today_11_3_26_Tuesday_s_Best_College_Bask.txt
 CBB/transcripts/2026-11-03/nhb4KWH6uEM_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_3rd_TCE_Trims.txt
+CBB/transcripts/2026-11-03/tCZrmB0ipRY_BBOC_The_Best_College_Basketball_Futures_Bets_for_the_2026_27_Season.txt
 # also filed this run under the slate their titles name: CBB/transcripts/2026-11-02
 
 # this run:
 NOCAPS  LockedOnCBB 1PGGEVZHV94 UCLA STUNS Arizona to cap off ELECTRIC opening day of colleg  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-02/VyacbqQHqRM_LockedOnCBB_UPSET_Notre_Dame_SHOCKS_Villanova_with_comeback_win_to_open_college_ba.txt  (7,226 words)
-NEW     CBB/transcripts/2026-11-03/gE0Ov4Xfw3w_CBSCollegeBB_There_were_signs_Mick_Cronin_really_likes_his_UCLA_team_Bruins_beat_Ar.txt  (1,683 words)
-NEW     CBB/transcripts/2026-11-02/_Sfthv3IE0c_CBSCollegeBB_MONDAY_INSTANT_REACTIONS_Zona_UCLA_classic_Florida_Miami_Gonzaga_Purdu.txt  (12,617 words)
-NEW     CBB/transcripts/2026-11-02/KBfBTB84Vt4_CBSCollegeBB_La_Salle_Explorers_vs_No_10_Houston_Cougars_College_Basketball_Highlig.txt  (2,404 words)
-NEW     CBB/transcripts/2026-11-02/F3KW7co-LGk_FieldOf68_I_m_a_little_WORRIED_about_Villanova_Wildcats_get_UPSET_in_Rome_AFTER.txt  (1,029 words)
-NEW     CBB/transcripts/2026-11-02/jNo80fbq_yo_FieldOf68_Recapping_our_Opening_Day_Marathon_The_BEST_moments_from_24_STRAIGHT_h.txt  (2,046 words)
-NEW     CBB/transcripts/2026-11-02/N3RHxVg4J80_FieldOf68_Memphis_SHOCKS_Iowa_State_This_is_a_HUGE_win_for_Penny_Hardaway_AFTER.txt  (1,774 words)
+NEW     CBB/transcripts/2026-11-03/5hkLYuO6jfs_CBSCollegeBB_Good_luck_handling_Florida_for_40_minutes.txt  (1,387 words)
+NEW     CBB/transcripts/2026-11-02/6am2vg62xAk_CBSCollegeBB_Jackson_State_Tigers_vs_No_19_Texas_Tech_Raiders_College_Basketball_Hi.txt  (1,960 words)
+NEW     CBB/transcripts/2026-11-02/8YyVqxPrvGA_FieldOf68_FURMAN_VS_BETHUNE_COOKMAN_FIELD_OF_68_OPENING_DAY_MARATHON.txt  (23,559 words)
+NEW     CBB/transcripts/2026-11-02/l-4Hp8eA2xU_FieldOf68_EXCLUSIVE_Penny_Hardaway_on_Memphis_HUGE_upset_win_over_Iowa_State_FIE.txt  (801 words)
+NEW     CBB/transcripts/2026-11-02/xg_z7ZyGSgM_FieldOf68_UAB_VS_MCNEESE_STATE_FIELD_OF_68_OPENING_DAY_MARATHON.txt  (23,182 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-03/nhb4KWH6uEM_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_3rd_TCE_Trims.txt  (5,827 words)
-NEW     CBB/transcripts/2026-11-03/fhGddqr0UEw_TCE_College_Basketball_Best_Bets_For_November_3rd_Spread_Moneyline_Betting.txt  (974 words)
-NEW     CBB/transcripts/2026-11-03/aeFWMPb0j4E_TCE_College_Basketball_Picks_For_November_3rd_NCAA_Basketball_Banter_Best.txt  (21,051 words)
-NONE    channel BBOC: nothing new in the date window (or everything already saved)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-03/tCZrmB0ipRY_BBOC_The_Best_College_Basketball_Futures_Bets_for_the_2026_27_Season.txt  (9,295 words)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NOCAPS  WagerTalk zYKs-IvopOY College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq: still live - audio not final yet)
-NOCAPS  WagerTalk MOR3K7GWiVs College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq: still live - audio not final yet)
-NEW     CBB/transcripts/2026-11-03/UjQUuRiKRPc_WagerTalk_MACTION_Picks_Today_Tuesday_NCAAB_BEST_Bets_EFL_Championship_The_Morni.txt  (5,189 words)
-NEW     CBB/transcripts/2026-11-02/1wfV6zROlIw_SportsLine_Monday_Night_Football_Picks_College_Basketball_Picks_NBA_Bets_Early_Ed.txt  (9,180 words)
-NEW     CBB/transcripts/2026-11-03/6ya26rwBT_4_PickDawgz_NCAAB_Alternate_Line_Prediction_11_03_26_The_Extendo_Clip.txt  (1,354 words)
-NEW     CBB/transcripts/2026-11-03/gEKTVpaJ8ZQ_PickDawgz_College_Basketball_Picks_for_Today_11_3_26_Tuesday_s_Best_College_Bask.txt  (2,832 words)
-NEW     CBB/transcripts/2026-11-03/Zn3u-4jtZOc_PickDawgz_College_Basketball_Picks_Predictions_Today_11_3_26_Ron_s_Bank_Shot_Bre.txt  (2,313 words)
+NOCAPS  ActionNetwork HgkMuCFyvwQ College Basketball Betting Preview: Futures Picks You NEED t  (no captions; Groq: Groq rejected the API key - check groq_key.txt)
+NOCAPS  WagerTalk MOR3K7GWiVs College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
+NOCAPS  WagerTalk zYKs-IvopOY College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
+NEW     CBB/transcripts/2026-11-03/QsUoRJnUrm4_WagerTalk_TUESDAY_NCAAB_Best_Bets_Arkansas_Pine_Bluff_vs_Arkansas_Sam_Houston_vs.txt  (1,760 words)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -41,4 +38,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
