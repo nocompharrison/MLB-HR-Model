@@ -1,0 +1,33 @@
+# CBB transcripts | 2026-11-03 | updated 2026-11-03 08:37 ET
+# raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
+# 0 files in CBB/transcripts/2026-11-03:
+
+
+# this run:
+NOCAPS  LockedOnCBB 1PGGEVZHV94 UCLA STUNS Arizona to cap off ELECTRIC opening day of colleg  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   LockedOnCBB VyacbqQHqRM UPSET: Notre Dame SHOCKS Villanova with comeback win to open  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   CBSCollegeBB _Sfthv3IE0c MONDAY INSTANT REACTIONS! Zona-UCLA classic! Florida-Miami;   (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB KBfBTB84Vt4 La Salle Explorers vs. No. 10 Houston Cougars College Basket  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB 6am2vg62xAk Jackson State Tigers vs. No. 19 Texas Tech Raiders College B  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 F3KW7co-LGk 'I'm a little WORRIED about Villanova...' | Wildcats get UPS  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 jNo80fbq_yo Recapping our Opening Day Marathon! | The BEST moments from   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 N3RHxVg4J80 Memphis SHOCKS Iowa State! | 'This is a HUGE win for Penny H  (YouTube rate limit hit earlier this run)
+NONE    channel VSiN: nothing new in the date window (or everything already saved)
+DEFER   TCE aeFWMPb0j4E College Basketball Picks For November 3rd - NCAA Basketball   (YouTube rate limit hit earlier this run)
+NONE    channel BBOC: nothing new in the date window (or everything already saved)
+NONE    channel SGPN: nothing new in the date window (or everything already saved)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+DEFER   WagerTalk YLzSrfYS-Bo College Basketball Picks & Best Bets LIVE | Full Court Press  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk B_iQ2rIsc9c College Basketball Picks & Best Bets LIVE | Full Court Press  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk MOR3K7GWiVs College Basketball Picks Today: CBB Odds & Best Bets LIVE |   (YouTube rate limit hit earlier this run)
+DEFER   SportsLine 1wfV6zROlIw Monday Night Football Picks + College Basketball Picks + NBA  (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz gEKTVpaJ8ZQ College Basketball Picks for Today 11/3/26 - Tuesday's Best   (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz Zn3u-4jtZOc College Basketball Picks & Predictions Today 11/3/26 | Ron's  (YouTube rate limit hit earlier this run)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
+NONE    channel SlopRules: nothing new in the date window (or everything already saved)
+NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
+NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    deferred videos are picked up automatically on the next scheduled run
