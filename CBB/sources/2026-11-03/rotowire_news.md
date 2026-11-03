@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-03 08:37 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-03 10:05 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,69 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=15)
+[Collin Mulholland](https://www.rotowire.com/cbasketball/player/collin-mulholland-25284)
+Hopes to ramp up participation
+**C** Utah State
+Undisclosed
+November 3, 2026
+Mulholland (ankle) hopes to get back to limited, non-contact practices over the course of the next week, per [Carson Frost of The Herald Journal](https://www.hjnews.com/sports/usu/ben-jacobsons-coaching-style-begins-to-show-in-season-opener/article_ab158265-a9f3-4c17-b01f-b13709ab453b.amp.html).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=15)
+[Connor Turnbull](https://www.rotowire.com/cbasketball/player/connor-turnbull-20514)
+Expected to miss 2-3 weeks
+**F** Utah State
+Foot
+November 3, 2026
+Turnbull (foot) is expected to miss 2-3 weeks after he got injured in practice ahead of the Aggies' season opener, per [Jeff Hunter of the Deseret News](https://www.deseret.com/sports/2026/11/03/utah-state-basketball-beats-idaho-state-in-season-opener/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=15)
+[Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
+Knee injury may not be serious
+**F** Houston
+Knee
+November 3, 2026
+McCarty (knee) may not be dealing with a serious knee ailment, as head coach Kelvin Sampson said "Whatever it is, I don't think it's that bad" after the game, per [Andy Yanez of Pawd Slama Jama](https://x.com/AYanez_5/status/2117478901865992347).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![VCU](https://assets.rotowire.com/images/teamlogo/cbasketball/VCU.png?v=15)
+[Jordan Tillery](https://www.rotowire.com/cbasketball/player/jordan-tillery-27643)
+Injury may not be major
+**G** VCU
+Knee
+November 3, 2026
+Tillery (knee) may not be dealing with a serious injury, as though he was helped off the court during VCU's win over little rock, he returned to the bench later in the game, per [Zach Joachim of the Richmond Times-Dispatch](https://x.com/ZachJoachim/status/2117457570902249571).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=15)
+[Arrinten Page](https://www.rotowire.com/cbasketball/player/arrinten-page-22242)
+Set to undergo knee imaging
+**F** Providence
+Knee
+November 3, 2026
+Page will undergo knee imaging after getting banged up in Providence's season-opening win over Maine, per [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2117451852262318326).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=15)
+[Devin Vanterpool](https://www.rotowire.com/cbasketball/player/devin-vanterpool-22428)
+Will be game-time call vs. Nebraska
+**G** Providence
+Ankle
+November 3, 2026
+Vanterpool (ankle) will be a game-time decision for Providence's tilt with Nebraska on Saturday, per [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2117451039133794350).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Indiana](https://assets.rotowire.com/images/teamlogo/cbasketball/Indiana.png?v=15)
+[Prince-Alexander Moody](https://www.rotowire.com/cbasketball/player/prince-alexander-moody-28116)
+Set to miss significant time
+**G** Indiana
+Knee
+November 3, 2026
+Moody (knee) will miss "an extended period of time," per [Mike Schumann of The Daily Hoosier](https://www.thedailyhoosier.com/iu-basketball-freshman-guard-prince-alexander-moody-suffers-knee-injury/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Colorado State](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado-State.png?v=15)
 [Jase Butler](https://www.rotowire.com/cbasketball/player/jase-butler-23530)
 Nabs double-double with six dimes
@@ -150,64 +213,6 @@ November 3, 2026
 Catchings totaled 16 points (5-10 FG, 2-7 3Pt, 4-7 FT), three rebounds, one assist, one block and one steal over 28 minutes during Monday's 78-62 victory over North Carolina Central.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgia](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia.png?v=15)
-[Blue Cain](https://www.rotowire.com/cbasketball/player/blue-cain-22588)
-Scores 15 in win
-**G** Georgia
-November 3, 2026
-Cain closed with 15 points (7-12 FG, 0-3 3Pt, 1-3 FT), six rebounds, one assist and two steals across 31 minutes during Monday's 78-62 victory over North Carolina Central.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=15)
-[Sebastian Williams-Adams](https://www.rotowire.com/cbasketball/player/sebastian-williams-adams-26061)
-Snags nine boards
-**F** Vanderbilt
-November 3, 2026
-Williams-Adams finished with nine points (3-7 FG, 1-2 3Pt, 2-2 FT), nine rebounds, one assist and one steal in 23 minutes during Monday's 93-47 win over Bellarmine.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=15)
-[Tyler Tanner](https://www.rotowire.com/cbasketball/player/tyler-tanner-23697)
-Starts season with 20 points
-**G** Vanderbilt
-November 3, 2026
-Tanner recorded 20 points (7-10 FG, 1-3 3Pt, 5-8 FT), two rebounds, six assists and four steals over 28 minutes during Monday's 93-47 victory over Bellarmine. He did not commit a turnover.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=15)
-[Kanye Clary](https://www.rotowire.com/cbasketball/player/kanye-clary-20443)
-Doesn't play in season opener
-**G** Oklahoma State
-Groin
-November 2, 2026
-Clary (groin) didn't play in Monday's season opener against Incarnate Word.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=15)
-[Paulius Murauskas](https://www.rotowire.com/cbasketball/player/paulius-murauskas-22372)
-Leads Sun Devils in team debut
-**F** Arizona State
-November 2, 2026
-Murauskas notched 21 points (5-13 FG, 0-5 3Pt, 11-12 FT), nine rebounds and three assists over 40 minutes during Monday's 75-65 victory over East Tennessee State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=15)
-[Ivan Kharchenkov](https://www.rotowire.com/cbasketball/player/ivan-kharchenkov-26037)
-Explodes for 38 points in loss
-**F** Arizona
-November 2, 2026
-Kharchenkov notched 38 points (12-20 FG, 2-6 3Pt, 12-16 FT), 10 rebounds, an assist and a steal across 38 minutes in Monday's 84-75 loss to UCLA.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Colorado](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado.png?v=15)
-[Iaroslav Niagu](https://www.rotowire.com/cbasketball/player/iaroslav-niagu-20743)
-Still sidelined
-**F** Colorado
-Not Injury Related
-November 2, 2026
-Niagu (eligibility) did not see the court in Monday's 94-59 victory over Abilene Christian.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26auid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792524870-TDHUFLEM-FU3N&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjUyNDg3MC1UREhVRkxFTS1GVTNO&id=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001792524870-TDHUFLEM-FU3N%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001792524870-TDHUFLEM-FU3N&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001792524870-TDHUFLEM-FU3N&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)
 
