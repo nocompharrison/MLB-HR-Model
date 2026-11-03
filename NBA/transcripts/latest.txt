@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-03 | updated 2026-11-03 16:08 ET
+# NBA transcripts | 2026-11-03 | updated 2026-11-03 18:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 2 files in NBA/transcripts/2026-11-03:
 NBA/transcripts/2026-11-03/AZapjptRDgM_LockedOnNBA_Luka_Doncic_for_NBA_PRESIDENT_The_Votes_Are_IN.txt
@@ -9,22 +9,18 @@ UPCOMING ActionNetwork Ok9wgf1xaQM Top NBA Sides, Totals & Player Props for Wedn
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk 13060WjilZc NBA Picks Today LIVE: Wednesday's Best Bets & Predictions |   (not aired yet - scheduled for 11/04/26 1:30PM)
-UPCOMING WagerTalk n3UT2sl13Nk NBA Picks Today LIVE: Wednesday's Best Bets & Predictions |   (not aired yet - scheduled for 11/04/26 1:30PM)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-UPCOMING Stokastic 85Xq5PcxNBk NBA DFS Strategy Wednesday 11/4/26 | DraftKings & FanDuel NB  (not aired yet - scheduled for 11/04/26 9:00AM)
-UPCOMING Stokastic CIa8PeT3E5c NBA DFS Live Before Lock (Wednesday 11/4/26) | DraftKings &   (not aired yet - scheduled for 11/04/26 6:00PM)
-UPCOMING Stokastic HZLQ0tU2WsY NBA DFS Strategy Thursday 11/5/26 | DraftKings & FanDuel NBA  (not aired yet - scheduled for 11/05/26 9:00AM)
-UPCOMING Stokastic SfZmpxZCdQ0 NBA DFS Live Before Lock (Thursday 11/5/26) | DraftKings & F  (not aired yet - scheduled for 11/05/26 8:00PM)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-03/AZapjptRDgM_LockedOnNBA_Luka_Doncic_for_NBA_PRESIDENT_The_Votes_Are_IN.txt  (7,285 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-UPCOMING JayMoney nhTrwSSdy-c Overnight NBA Talk With Jay Money Is Money Wednesday Free NB  (not aired yet - scheduled for 11/04/26 12:00AM)
+NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -35,4 +31,3 @@ NONE    channel FantasyAlarm: nothing new in the date window (or everything alre
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
