@@ -1,6 +1,8 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 11:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-03 16:06 ET -->
 
 # NBA DFS Picks Today
+November 3, 2026
+By:
 ![Author Image](https://assets.rotowire.com/images/authorpic-sample.png)
 [Bryan Randles](https://www.rotowire.com/writer/bryan-randles-1184)
 [ X logo @PandaDFS](https://twitter.com/PandaDFS)
@@ -17,37 +19,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Tuesday, November 3 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-WSH
-**[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)** _F_ 11:04 AM ET
-#### Scroes 21 with three steals
-Dybantsa logged 21 points (7-17 FG, 1-4 3Pt, 6-6 FT), five rebounds, two assists and three steals in 33 minutes during Monday's 103-94 victory over the Magic.
+DET
+**[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)** _F_ 3:18 PM ET
+#### Season-high 14 points in rout
+Thompson closed with 14 points (5-7 FG, 4-5 FT), six rebounds, four assists and one block across 26 minutes during Monday's 124-91 win over the Hornets.
 Analysis
-The rookie was aggressive offensively, attempting 17 shots and converting all six of his free throws. Dybantsa also made his presence felt defensively with three steals, giving him a well-rounded fantasy performance despite his inefficient perimeter shooting. His substantial workload and involvement alongside Washington's established veterans are encouraging signs for his early-season fantasy value.
-WSH
-**[Trae Young](https://www.rotowire.com/basketball/player/trae-young-4369)** _G_ 11:04 AM ET
-#### Hands out nine dimes
-Young provided 15 points (5-12 FG, 2-6 3Pt, 3-5 FT), three rebounds, nine assists and one steal across 34 minutes during Monday's 103-94 win over Orlando.
+Thompson provided a season-high 14 points Monday. His usage hasn't been particularly high, attempting fewer than 10 field goals in every game, but he's registered at least six boards and four assists in five of his first six appearances to begin the season, and he remains a key presence defensively for Detroit.
+CHA
+**[Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708)** _C_ 3:15 PM ET
+#### Full stat line in loss
+Diabate closed with seven points (3-6 FG, 1-1 FT), nine rebounds, two assists, one block and three steals in 24 minutes during Monday's 124-91 loss to the Pistons.
 Analysis
-Young took a backseat offensively to Anthony Davis, Kyshawn George and AJ Dybantsa, who combined for 70 points, but he remained Washington's primary facilitator. His nine assists helped offset a modest scoring total, and his established playmaking role should continue to provide a reliable fantasy floor even when his shot volume fluctuates.
-ATL
-**[CJ McCollum](https://www.rotowire.com/basketball/player/cj-mccollum-3437)** _G_ 11:00 AM ET
-#### Nearly triple-doubles
-McCollum ended Monday's 108-104 win over Indiana with 13 points (4-17 FG, 2-7 3Pt, 3-4 FT), nine rebounds, 12 assists, one block and one steal across 32 minutes.
+With a strong start to the year, Diabate seems to have pulled way ahead of Ryan Kalkbrenner for Charlotte's starting job at center. Diabate has come down with at least eight boards in seven of his first eight games, posting at least one steal or block each time out so far.
+CHA
+**[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)** _F_ 3:13 PM ET
+#### Scores season-high 11 points
+James logged 11 points (4-6 FG, 3-4 3Pt), four rebounds and three assists across 21 minutes during Monday's 124-91 loss to Detroit.
 Analysis
-McCollum endured a rough shooting night but compensated with a season-high 12 assists, narrowly missing a triple-double. He helped orchestrate Atlanta's offense while Nickeil Alexander-Walker carried the scoring load with 34 points. McCollum's playmaking and rebounding salvaged an otherwise inefficient outing, highlighting his ability to contribute to fantasy lineups even when his shot isn't falling.
-ATL
-**[Corey Kispert](https://www.rotowire.com/basketball/player/corey-kispert-5387)** _F_ 10:57 AM ET
-#### Drains four triples
-Kispert closed with 14 points (5-9 FG, 4-7 3Pt), one rebound and one steal over 18 minutes during Monday's 108-104 win over the Pacers.
+Although James continues to work with the first unit, he's essentially serving as a nominal starter for the Hornets while they wait for Kon Knueppel's (hamstring) season debut. The 11 points were a season-high figure for the second-year forward, who had previously been unable to score greater than six points in any of his first seven appearances prior to Monday.
+PHX
+**[Dillon Brooks](https://www.rotowire.com/basketball/player/dillon-brooks-4125)** _F_ 3:11 PM ET
+#### Productive ways continue
+Brooks finished Monday's 116-113 loss to the Warriors with 18 points (5-8 FG, 2-2 3Pt, 6-7 FT), eight rebounds and four assists over 34 minutes.
 Analysis
-Kispert provided an efficient scoring boost off Atlanta's bench, tying for the team's second-highest point total while connecting on four three-pointers. The Hawks were without Jalen Johnson (ankle) and Kingston Flemings (suspension), opening additional opportunities across the rotation. Kispert's perimeter shooting makes him a potential three-point specialist in deeper fantasy leagues, though his limited minutes and scoring-dependent production restrict his overall upside.
-DEN
-**[DaRon Holmes](https://www.rotowire.com/basketball/player/daron-holmes-6288)** _C_ 10:47 AM ET
-#### Team option declined
-The Nuggets have declined Holmes' $5.55 million rookie-scale team option for the 2027-28 season, Michael Scotto of HoopsHype.com reports.
+Brooks is off to a nice start for the new campaign, having produced at least 10 points in each of his first five appearances. The eight boards were a new season high for the veteran forward, who has also delivered at least 18 points in three consecutive games.
+MIL
+**[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)** _C_ 3:00 PM ET
+#### Swats five shots
+Turner finished Monday's 112-100 loss to the Timberwolves with 13 points (5-10 FG, 3-6 3Pt), five rebounds, two assists and five blocks over 31 minutes.
 Analysis
-The decision puts Holmes, the 22nd overall pick in the 2024 NBA Draft, on track to become an unrestricted free agent in the summer of 2027. Denver's decision raises questions about the young big man's long-term future with the franchise, though it doesn't immediately affect his role or fantasy outlook for the current campaign.
-Show 5 more (46 remaining)
+Turner delivered an impressive defensive performance, matching his season high with five blocks while connecting on three triples. The veteran center has now recorded multiple blocks in four consecutive appearances, reinforcing his value as an elite rim protector. Although his scoring and rebounding numbers have fluctuated, his combination of shot-blocking and perimeter shooting continues to provide considerable fantasy upside.
+Show 5 more (117 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -107,5 +109,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)![](https://panxo-sys.com/win?b=boost_bid_6514ef40338f864b39ba41d1&p=3.6670949999999998&gdpr=0)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659996999b969b979a989b66uokewi0e0y6660666g606g626e646g)
 

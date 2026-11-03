@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-03 11:12 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-03 16:06 ET -->
 
 
 ---
@@ -1014,45 +1014,29 @@ Sign Up
 
 Following a quiet four-game Tuesday night in the Association, we’re primed for a massive a big 12-game slate Wednesday that provides us with plenty of opportunities for potentially profitable betting scenarios.
 
-[![Image 22: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 22: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-donovan-mitchell-jalen-brunson-and-lamelo-ball-best-bets/)
 
 Let’s examine three player props that could provide to be rewarding on the jumbo-sized ledger. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -1116,30 +1100,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 23: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+[![Image 23: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+[](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)[NBA First Basket Picks Today (Oct. 29): Deni Avdija](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+[![Image 24: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)[NHL Goal Picks Today: Logan Stankoven, Lucas Raymond & Alex Tuch Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
-[![Image 24: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-150x150.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+[![Image 25: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-150x150.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
 [](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 #### [](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)[Cavaliers-Hawks NBA Picks, Predictions & Odds for Thursday, October 29, 2026](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
-[![Image 25: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+[![Image 26: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[NBA Player Props Today: Darius Acuff Jr., Jarrett Allen and Ja Morant Best Bets](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
-[![Image 26: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
+[![Image 27: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 [](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 #### [](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)[Panthers-Packers Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
-
-[![Image 27: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
-
-[](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
-#### [](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)[Panthers-Packers DFS Picks: Best Value Plays, NFL Week 8](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
 
 About the Author
 
@@ -1162,7 +1146,17 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 30: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+[![Image 30: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+[Sports Betting News](https://www.lineups.com/articles/)
+
+[NBA First Basket Picks Today (Oct. 29): Deni Avdija](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+ Our NBA first basket pick for Oct. 29 is Deni Avdija at +750 vs. the Grizzlies. Here's why the Blazers forward offers value even if Zach Edey wins the tip. 
+
+[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)October 29, 2026
+
+[![Image 31: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1172,7 +1166,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
 
-[![Image 31: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-390x230.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+[![Image 32: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-390x230.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1182,7 +1176,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
 
-[![Image 32: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+[![Image 33: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1192,7 +1186,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)October 29, 2026
 
-[![Image 33: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
+[![Image 34: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1202,7 +1196,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 28, 2026
 
-[![Image 34: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
+[![Image 35: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1211,16 +1205,6 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
  Our best DraftKings DFS value plays for Panthers vs. Packers on Thursday Night Football, built around salary, matchup, and recent form. 
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)October 28, 2026
-
-[![Image 35: Josh Jacobs](https://www.lineups.com/wp-content/uploads/2026/10/JoshJacobs-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-touchdown-picks-chuba-hubbard-josh-jacobs-anytime-td-bets-nfl-week-8/)
-
-[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[Panthers-Packers Touchdown Picks: Chuba Hubbard & Josh Jacobs Anytime TD Bets, NFL Week 8](https://www.lineups.com/articles/panthers-packers-touchdown-picks-chuba-hubbard-josh-jacobs-anytime-td-bets-nfl-week-8/)
-
- Check out the best anytime touchdown picks for Panther vs. Packers on Thursday Night Football with plays on Hubbard and Jacobs. 
-
-[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)October 28, 2026
 
 lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
 
@@ -2298,7 +2282,7 @@ Markdown Content:
         *   [NBA Projected Minutes](https://www.lineups.com/nba/nba-player-minutes-per-game/)
         *   [NBA Fantasy Projections](https://www.lineups.com/nba/nba-fantasy-basketball-projections/)
 
-*   [MLB](https://www.lineups.com/mlb/)Submenu opener 
+*   [MLB World Series](https://www.lineups.com/mlb/)Submenu opener 
 
         *   [MLB Schedule TODAY](https://www.lineups.com/mlb/schedule/)
     *   BETTING & ODDS GET READY Submenu opener 
@@ -2365,17 +2349,16 @@ Markdown Content:
         *   [Fanatics Sportsbook Promo](https://www.lineups.com/sports-betting/fanatics-sportsbook-promo/)
         *   [Hard Rock Bet Promo Code](https://www.lineups.com/sports-betting/hard-rock-bet-promo/)
 
-        *   [Best Online Sportsbooks](https://www.lineups.com/sports-betting/#best-sportsbooks)
+        *   [Best Sportsbooks](https://www.lineups.com/sports-betting/#best-sportsbooks)
+    *   [Top Sports Betting Apps](https://www.lineups.com/sports-betting/#sports-betting-apps)
     *   [Where is Sports Betting Legal in the US?](https://www.lineups.com/sports-betting/states/)
-    *   [Best Sports Betting Apps](https://www.lineups.com/sports-betting/#sports-betting-apps)
-    *   [New Betting Sites](https://www.lineups.com/sports-betting/#new-betting-sites)
+    *   [New Betting Sites](https://www.lineups.com/sports-betting/new/)
     *   [Fastest Payouts Betting Apps & Sites](https://www.lineups.com/sports-betting/fast-withdrawal/)Submenu opener 
 
                 *   [![Image 2: Venmo Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/venmo-logo-40x40-1.webp)Venmo Betting Sites](https://www.lineups.com/sports-betting/venmo/)
         *   [![Image 3: PayPal Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/paypal-logo-40x40-1.webp)PayPal Betting Sites](https://www.lineups.com/sports-betting/paypal/)
 
-    *   [List of Legal U.S. Online Betting Sites](https://www.lineups.com/sports-betting/#sports-betting-sites)
-    *   [Live Betting Sites](https://www.lineups.com/sports-betting/#live-betting-sites)
+    *   [All U.S. Online Betting Sites](https://www.lineups.com/sports-betting/#sports-betting-sites)
 
         *   🍁 CANADA 🍁
     *   [Canada Sports Betting](https://www.lineups.com/sports-betting/canada/)Submenu opener 
@@ -2492,7 +2475,7 @@ Sign Up
 
 We start the weekday portion of the first full week of the regular season with a big nine-game slate. With each team now having multiple games in the books, we’re starting to get a better feel for the roles for individual players on each team.
 
-[![Image 22: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-OR)
+[![Image 22: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
 4.6/5 Rating
 
@@ -2514,7 +2497,7 @@ We start the weekday portion of the first full week of the regular season with a
 
 *   Compete in Challenges & Climb the Leaderboards
 
-[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-OR)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-derrick-white-amen-thompson-and-ty-jerome-best-bets/)
 
 Considering we’ve got a bit of a foundation under us as bettors in the new season, let’s break down a trio of player props to consider for Monday. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -2576,30 +2559,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 23: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/Williams-Bears-150x150.jpg)](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)
+[![Image 23: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 
-[](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)
-#### [](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)[Bears-Seahawks Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)
+[](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)[NBA First Basket Picks Today (Oct. 29): Deni Avdija](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
 
-[![Image 24: Jaxon Smith-Njigba](https://www.lineups.com/wp-content/uploads/2026/11/Jaxon-Smith-Njigba-150x150.jpg)](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)
+[![Image 24: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
-[](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)
-#### [](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)[Bears-Seahawks DFS Picks: Best Value Plays, NFL Week 8](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)
+[](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+#### [](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)[NHL Goal Picks Today: Logan Stankoven, Lucas Raymond & Alex Tuch Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
 
-[![Image 25: Luther Burden III](https://www.lineups.com/wp-content/uploads/2026/10/Luther-Burden-III-150x150.jpg)](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)
+[![Image 25: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-150x150.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
-[](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)
-#### [](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)[Bears-Seahawks Touchdown Picks: Luther Burden III & Jaxon Smith-Njigba Anytime TD Bets, NFL Week 8](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)
+[](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+#### [](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)[Cavaliers-Hawks NBA Picks, Predictions & Odds for Thursday, October 29, 2026](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
 
-[![Image 26: Zach Charbonnet](https://www.lineups.com/wp-content/uploads/2026/11/Zach-Charbonnet--150x150.jpg)](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)
+[![Image 26: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
-[](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)
-#### [](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)[Bears-Seahawks Best NFL Week 8 Player Props](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)
+[](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+#### [](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[NBA Player Props Today: Darius Acuff Jr., Jarrett Allen and Ja Morant Best Bets](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
 
-[![Image 27: Alcaraz](https://www.lineups.com/wp-content/uploads/2026/11/Alacaraz-150x150.jpg)](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)
+[![Image 27: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-150x150.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
-[](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)
-#### [](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)[ATP Tennis Preview: Rolex Paris Masters Betting Odds, Picks & Analysis](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)
+[](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
+#### [](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)[Panthers-Packers Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 About the Author
 
@@ -2622,65 +2605,65 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 30: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/Williams-Bears-390x230.jpg)](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)
+[![Image 30: Avdija](https://www.lineups.com/wp-content/uploads/2026/10/2026-10-14T033435Z_1971313509_MT1USATODAY30078473_RTRMADP_3_NBA-PRESEASON-PORTLAND-TRAIL-BLAZERS-AT-SACRAMENTO-KINGS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+[Sports Betting News](https://www.lineups.com/articles/)
+
+[NBA First Basket Picks Today (Oct. 29): Deni Avdija](https://www.lineups.com/articles/nba-first-basket-picks-today-oct-29-deni-avdija/)
+
+ Our NBA first basket pick for Oct. 29 is Deni Avdija at +750 vs. the Grizzlies. Here's why the Blazers forward offers value even if Zach Edey wins the tip. 
+
+[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)October 29, 2026
+
+[![Image 31: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/10/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+
+[NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[NHL Goal Picks Today: Logan Stankoven, Lucas Raymond & Alex Tuch Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-logan-stankoven-lucas-raymond-alex-tuch-best-bets/)
+
+ Check out the best NHL goal picks today for games on Thursday, October 29 with Stankoven, Raymond and Tuch as best bets. 
+
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
+
+[![Image 32: Jalen Johnson](https://www.lineups.com/wp-content/uploads/2026/10/JalenJohnson-390x230.jpg)](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+
+[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Cavaliers-Hawks NBA Picks, Predictions & Odds for Thursday, October 29, 2026](https://www.lineups.com/articles/cavaliers-hawks-nba-picks-predictions-odds-for-thursday-october-29-2026/)
+
+ Check out the NBA game preview for the Cavaliers vs. Hawks on Thursday, October 29 with picks, predictions and odds from Lineups.com. 
+
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 29, 2026
+
+[![Image 33: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+
+[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[NBA Player Props Today: Darius Acuff Jr., Jarrett Allen and Ja Morant Best Bets](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
+
+ Check out the best NBA player prop picks for today's games with plays on Darius Acuff Jr, Jarrett Allen and Ja Morant at Lineups.com. 
+
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)October 29, 2026
+
+[![Image 34: Love, Jordan](https://www.lineups.com/wp-content/uploads/2026/10/Love-Jordan-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[Bears-Seahawks Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/bears-seahawks-picks-predictions-odds-nfl-week-8/)
+[Panthers-Packers Picks, Predictions & Odds: NFL Week 8](https://www.lineups.com/articles/panthers-packers-picks-predictions-odds-nfl-week-8/)
 
- Check out the NFL Week 8 Monday Night Football game preview for Bears vs. Seahawks with picks, predictions and odds from Lineups.com. 
+ Check out the NFL Week 8 Thursday Night Football game preview for Panthers vs. Packers with picks, predictions and odds from Lineups.com. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 01, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)October 28, 2026
 
-[![Image 31: Jaxon Smith-Njigba](https://www.lineups.com/wp-content/uploads/2026/11/Jaxon-Smith-Njigba-390x230.jpg)](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)
-
-[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[Bears-Seahawks DFS Picks: Best Value Plays, NFL Week 8](https://www.lineups.com/articles/bears-seahawks-dfs-picks-best-value-plays-nfl-week-8/)
-
- Our best DraftKings DFS value plays for Bears vs. Seahawks on Monday Night Football, built around salary, matchup, and recent form. 
-
-[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 01, 2026
-
-[![Image 32: Luther Burden III](https://www.lineups.com/wp-content/uploads/2026/10/Luther-Burden-III-390x230.jpg)](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)
+[![Image 35: Bryce Young](https://www.lineups.com/wp-content/uploads/2026/10/Bryce-Young-1-390x230.jpg)](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[Bears-Seahawks Touchdown Picks: Luther Burden III & Jaxon Smith-Njigba Anytime TD Bets, NFL Week 8](https://www.lineups.com/articles/bears-seahawks-touchdown-picks-luther-burden-iii-jaxon-smith-njigba-anytime-td-bets-nfl-week-8/)
+[Panthers-Packers DFS Picks: Best Value Plays, NFL Week 8](https://www.lineups.com/articles/panthers-packers-dfs-picks-best-value-plays-nfl-week-8/)
 
- Check out the best Bears vs. Seahawks anytime touchdown picks and predictions for Monday Night Football from Lineups.com. 
+ Our best DraftKings DFS value plays for Panthers vs. Packers on Thursday Night Football, built around salary, matchup, and recent form. 
 
-[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 01, 2026
-
-[![Image 33: Zach Charbonnet](https://www.lineups.com/wp-content/uploads/2026/11/Zach-Charbonnet--390x230.jpg)](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)
-
-[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[Bears-Seahawks Best NFL Week 8 Player Props](https://www.lineups.com/articles/bears-seahawks-best-nfl-week-8-player-props/)
-
- Our NFL Week 8 best player prop picks for Monday Night Football Bears vs. Seahawks with odds on three players provided by Lineups.com. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 01, 2026
-
-[![Image 34: Alcaraz](https://www.lineups.com/wp-content/uploads/2026/11/Alacaraz-390x230.jpg)](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)
-
-[Sports Betting News](https://www.lineups.com/articles/)[Tennis Articles](https://www.lineups.com/tennis-articles/)
-
-[ATP Tennis Preview: Rolex Paris Masters Betting Odds, Picks & Analysis](https://www.lineups.com/articles/atp-tennis-preview-rolex-paris-masters-betting-odds-picks-analysis/)
-
- Check out the ATP tennis betting preview for the Rolex Paris Masters 1000 level event with odds, picks and analysis from Lineups.com. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 01, 2026
-
-[![Image 35: Leylah Fernandez](https://www.lineups.com/wp-content/uploads/2026/11/Leylah-Fernandez-390x230.jpg)](https://www.lineups.com/articles/wta-tennis-preview-hong-kong-open-chennai-open-betting-odds-picks-analysis/)
-
-[Sports Betting News](https://www.lineups.com/articles/)[Tennis Articles](https://www.lineups.com/tennis-articles/)
-
-[WTA Tennis Preview: Hong Kong Open & Chennai Open Betting Odds, Picks & Analysis](https://www.lineups.com/articles/wta-tennis-preview-hong-kong-open-chennai-open-betting-odds-picks-analysis/)
-
- Check out our WTA tennis betting preview for the Hong Kong Open and the Chennai Open events with picks, odds and analysis. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 01, 2026
+[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)October 28, 2026
 
 lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
 
@@ -3284,11 +3267,11 @@ The combination of all those numbers makes Reaves’ 30.5 PRA prop very viable S
 
 ![Image 28](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10209.png)LaMelo Ball
 
-[![Image 29: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)
+[![Image 29: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)[O/U Points Scored (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661005/polymarket_sc)
 
-[![Image 30: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/146134/kalshi_sc)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/146134/kalshi_sc)[13¢](https://lineups.go.metabet.io/bet/nba_mvp_west/146134/kalshi_sc)
+[![Image 30: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)[O/U Total Rebounds (@ HOU)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661005/polymarket_sc)
 
-[![Image 31: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/146134/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/146134/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/146134/kalshi_sc)
+[![Image 31: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/146134/kalshi_sc)
 
 [![Image 32](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/lamelo_ball/player_146134 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
