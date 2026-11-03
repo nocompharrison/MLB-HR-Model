@@ -1,4 +1,4 @@
-<!-- source: https://www.covers.com/picks/ncaab | fetched: 2026-11-03 10:05 ET -->
+<!-- source: https://www.covers.com/picks/ncaab | fetched: 2026-11-03 11:02 ET -->
 
 Filters 
 Reset
@@ -39,12 +39,12 @@ Click odds to add to your betslip
 Computer PicksTrends
 Predicted Score
 [ ![WOF logo](https://img.covers.com/covers/data/svg_logos/ncaab/wof.svg) WOF ](https://www.covers.com/sport/basketball/ncaab/teams/main/wofford-terriers)
-63.02  @ 90.96 
+63.24  @ 90.96 
 [ TENN  ![TENN logo](https://img.covers.com/covers/data/svg_logos/ncaab/tenn.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/tennessee-volunteers)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![WOF logo](https://img.covers.com/covers/data/svg_logos/ncaab/wof.svg) WOF ](https://www.covers.com/sport/basketball/ncaab/teams/main/wofford-terriers)  | 63.02  |  +26.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o155.5 -115 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  +5000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
-|  [ ![TENN logo](https://img.covers.com/covers/data/svg_logos/ncaab/tenn.svg) TENN ](https://www.covers.com/sport/basketball/ncaab/teams/main/tennessee-volunteers)  | 90.96  |  -26.5 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  u156.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  -20000 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
+|  [ ![WOF logo](https://img.covers.com/covers/data/svg_logos/ncaab/wof.svg) WOF ](https://www.covers.com/sport/basketball/ncaab/teams/main/wofford-terriers)  | 63.24  |  +25.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o155.5 -115 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +5000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![TENN logo](https://img.covers.com/covers/data/svg_logos/ncaab/tenn.svg) TENN ](https://www.covers.com/sport/basketball/ncaab/teams/main/tennessee-volunteers)  | 90.96  |  -25.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  u156.5 -109 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  -20000 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/wof.svg) Wofford![](https://img.covers.com/covers/data/svg_logos/ncaab/tenn.svg) Tennessee
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/wof.svg) Wofford 
   * Terriers are 7-0 ATS in their last 7 games as a road favorite.
@@ -68,7 +68,7 @@ Predicted Score
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
 |  [ ![MAN logo](https://img.covers.com/covers/data/svg_logos/ncaab/man.svg) MAN ](https://www.covers.com/sport/basketball/ncaab/teams/main/manhattan-jaspers)  | 64.10  |  +33.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o158.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +15000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
-|  [ ![UK logo](https://img.covers.com/covers/data/svg_logos/ncaab/uk.svg) UK ](https://www.covers.com/sport/basketball/ncaab/teams/main/kentucky-wildcats)  | 94.85  |  -33.5 +100 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  u158.5 -105 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  -50000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![UK logo](https://img.covers.com/covers/data/svg_logos/ncaab/uk.svg) UK ](https://www.covers.com/sport/basketball/ncaab/teams/main/kentucky-wildcats)  | 94.85  |  -33.5 -105 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  u158.5 -105 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  -50000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/man.svg) Manhattan![](https://img.covers.com/covers/data/svg_logos/ncaab/uk.svg) Kentucky
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/man.svg) Manhattan 
   * Under is 5-0 in Jaspers last 5 road games.
@@ -87,12 +87,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![WAG logo](https://img.covers.com/covers/data/svg_logos/ncaab/wag.svg) WAG ](https://www.covers.com/sport/basketball/ncaab/teams/main/wagner-seahawks)
-66.12  @ 82.39 
+65.52  @ 82.00 
 [ BC  ![BC logo](https://img.covers.com/covers/data/svg_logos/ncaab/bc.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/boston-college-eagles)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![WAG logo](https://img.covers.com/covers/data/svg_logos/ncaab/wag.svg) WAG ](https://www.covers.com/sport/basketball/ncaab/teams/main/wagner-seahawks)  | 66.12  |  +19.5 -118 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o144.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +2000 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
-|  [ ![BC logo](https://img.covers.com/covers/data/svg_logos/ncaab/bc.svg) BC ](https://www.covers.com/sport/basketball/ncaab/teams/main/boston-college-eagles)  | 82.39  |  -19.5 +100 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u145.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -3000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
+|  [ ![WAG logo](https://img.covers.com/covers/data/svg_logos/ncaab/wag.svg) WAG ](https://www.covers.com/sport/basketball/ncaab/teams/main/wagner-seahawks)  | 65.52  |  +19.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o142.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  +2000 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
+|  [ ![BC logo](https://img.covers.com/covers/data/svg_logos/ncaab/bc.svg) BC ](https://www.covers.com/sport/basketball/ncaab/teams/main/boston-college-eagles)  | 82.00  |  -19.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u144.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  -3000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/wag.svg) Wagner![](https://img.covers.com/covers/data/svg_logos/ncaab/bc.svg) Boston College
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/wag.svg) Wagner 
   * Under is 5-1 in Seahawks last 6 road games.
@@ -115,8 +115,8 @@ Predicted Score
 [ VT  ![VT logo](https://img.covers.com/covers/data/svg_logos/ncaab/vt.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-tech-hokies)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![COPP logo](https://img.covers.com/covers/data/svg_logos/ncaab/copp.svg) COPP ](https://www.covers.com/sport/basketball/ncaab/teams/main/coppin-state-eagles)  | 61.44  |  +31.5 -115 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  o150.5 -115 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +10000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
-|  [ ![VT logo](https://img.covers.com/covers/data/svg_logos/ncaab/vt.svg) VT ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-tech-hokies)  | 91.29  |  -31.5 -102 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u151.5 -110 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  -10000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
+|  [ ![COPP logo](https://img.covers.com/covers/data/svg_logos/ncaab/copp.svg) COPP ](https://www.covers.com/sport/basketball/ncaab/teams/main/coppin-state-eagles)  | 61.44  |  +31.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o150.5 -115 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +10000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
+|  [ ![VT logo](https://img.covers.com/covers/data/svg_logos/ncaab/vt.svg) VT ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-tech-hokies)  | 91.29  |  -31.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u151.5 -110 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  -10000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/copp.svg) Coppin St.![](https://img.covers.com/covers/data/svg_logos/ncaab/vt.svg) Virginia Tech
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/copp.svg) Coppin St. 
   * Eagles are 5-1 ATS in their last 6 games as a road favorite.
@@ -139,8 +139,8 @@ Predicted Score
 [ GT  ![GT logo](https://img.covers.com/covers/data/svg_logos/ncaab/gt.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/georgia-tech-yellow-jackets)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![HAMP logo](https://img.covers.com/covers/data/svg_logos/ncaab/hamp.svg) HAMP ](https://www.covers.com/sport/basketball/ncaab/teams/main/hampton-pirates)  | 68.40  |  +14.5 -102 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  o148.5 -120 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  +950 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
-|  [ ![GT logo](https://img.covers.com/covers/data/svg_logos/ncaab/gt.svg) GT ](https://www.covers.com/sport/basketball/ncaab/teams/main/georgia-tech-yellow-jackets)  | 80.90  |  -14.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  u149.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -1250 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
+|  [ ![HAMP logo](https://img.covers.com/covers/data/svg_logos/ncaab/hamp.svg) HAMP ](https://www.covers.com/sport/basketball/ncaab/teams/main/hampton-pirates)  | 68.40  |  +15.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o148.5 -120 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  +950 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
+|  [ ![GT logo](https://img.covers.com/covers/data/svg_logos/ncaab/gt.svg) GT ](https://www.covers.com/sport/basketball/ncaab/teams/main/georgia-tech-yellow-jackets)  | 80.90  |  -15.5 -110 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  u149.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -1400 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/hamp.svg) Hampton![](https://img.covers.com/covers/data/svg_logos/ncaab/gt.svg) Georgia Tech
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/hamp.svg) Hampton 
   * Over is 4-0 in Pirates last 4 games as an underdog.
@@ -159,12 +159,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![HC logo](https://img.covers.com/covers/data/svg_logos/ncaab/hc.svg) HC ](https://www.covers.com/sport/basketball/ncaab/teams/main/holy-cross-crusaders)
-65.11  @ 83.83 
+64.66  @ 84.30 
 [ URI  ![URI logo](https://img.covers.com/covers/data/svg_logos/ncaab/uri.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/rhode-island-rams)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![HC logo](https://img.covers.com/covers/data/svg_logos/ncaab/hc.svg) HC ](https://www.covers.com/sport/basketball/ncaab/teams/main/holy-cross-crusaders)  | 65.11  |  +21.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o148.5 -108 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  +2000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
-|  [ ![URI logo](https://img.covers.com/covers/data/svg_logos/ncaab/uri.svg) URI ](https://www.covers.com/sport/basketball/ncaab/teams/main/rhode-island-rams)  | 83.83  |  -21.5 -105 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  u149.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -4500 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
+|  [ ![HC logo](https://img.covers.com/covers/data/svg_logos/ncaab/hc.svg) HC ](https://www.covers.com/sport/basketball/ncaab/teams/main/holy-cross-crusaders)  | 64.66  |  +20.5 -105 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  o146.5 -112 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +2200 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![URI logo](https://img.covers.com/covers/data/svg_logos/ncaab/uri.svg) URI ](https://www.covers.com/sport/basketball/ncaab/teams/main/rhode-island-rams)  | 84.30  |  -20.5 -105 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u147.5 -105 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -4500 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/hc.svg) Holy Cross![](https://img.covers.com/covers/data/svg_logos/ncaab/uri.svg) Rhode Island
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/hc.svg) Holy Cross 
   * Under is 4-1 in Crusaders last 5 overall.
@@ -183,12 +183,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![STET logo](https://img.covers.com/covers/data/svg_logos/ncaab/stet.svg) STET ](https://www.covers.com/sport/basketball/ncaab/teams/main/stetson-hatters)
-66.18  @ 82.47 
+65.97  @ 82.70 
 [ SCAR  ![SCAR logo](https://img.covers.com/covers/data/svg_logos/ncaab/scar.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/south-carolina-gamecocks)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![STET logo](https://img.covers.com/covers/data/svg_logos/ncaab/stet.svg) STET ](https://www.covers.com/sport/basketball/ncaab/teams/main/stetson-hatters)  | 66.18  |  +19.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o149.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +1800 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
-|  [ ![SCAR logo](https://img.covers.com/covers/data/svg_logos/ncaab/scar.svg) SCAR ](https://www.covers.com/sport/basketball/ncaab/teams/main/south-carolina-gamecocks)  | 82.47  |  -19.5 -105 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  u150.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -2800 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
+|  [ ![STET logo](https://img.covers.com/covers/data/svg_logos/ncaab/stet.svg) STET ](https://www.covers.com/sport/basketball/ncaab/teams/main/stetson-hatters)  | 65.97  |  +19.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o149.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +2000 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
+|  [ ![SCAR logo](https://img.covers.com/covers/data/svg_logos/ncaab/scar.svg) SCAR ](https://www.covers.com/sport/basketball/ncaab/teams/main/south-carolina-gamecocks)  | 82.70  |  -19.5 -105 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  u149.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  -2200 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/stet.svg) Stetson![](https://img.covers.com/covers/data/svg_logos/ncaab/scar.svg) South Carolina
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/stet.svg) Stetson 
   * Hatters are 4-0 ATS in their last 4 games as a road favorite.
@@ -211,8 +211,8 @@ Predicted Score
 [ DUQ  ![DUQ logo](https://img.covers.com/covers/data/svg_logos/ncaab/duq.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/duquesne-dukes)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![IPFW logo](https://img.covers.com/covers/data/svg_logos/ncaab/ipfw.svg) IPFW ](https://www.covers.com/sport/basketball/ncaab/teams/main/purdue-fort-wayne-mastodons)  | 70.59  |  +10.5 -115 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o153.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +400 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
-|  [ ![DUQ logo](https://img.covers.com/covers/data/svg_logos/ncaab/duq.svg) DUQ ](https://www.covers.com/sport/basketball/ncaab/teams/main/duquesne-dukes)  | 81.70  |  -10.5 +100 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u153.5 -105 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -530 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  
+|  [ ![IPFW logo](https://img.covers.com/covers/data/svg_logos/ncaab/ipfw.svg) IPFW ](https://www.covers.com/sport/basketball/ncaab/teams/main/purdue-fort-wayne-mastodons)  | 70.59  |  +10.5 -115 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o153.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +420 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  
+|  [ ![DUQ logo](https://img.covers.com/covers/data/svg_logos/ncaab/duq.svg) DUQ ](https://www.covers.com/sport/basketball/ncaab/teams/main/duquesne-dukes)  | 81.70  |  -10.5 +100 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u153.5 -105 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -535 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/ipfw.svg) Fort Wayne![](https://img.covers.com/covers/data/svg_logos/ncaab/duq.svg) Duquesne
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/ipfw.svg) Fort Wayne 
   * Mastodons are 4-0 ATS in their last 4 games as a favorite.
@@ -235,8 +235,8 @@ Predicted Score
 [ ALA  ![ALA logo](https://img.covers.com/covers/data/svg_logos/ncaab/ala.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-crimson-tide)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![SHSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/shsu.svg) SHSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/sam-houston-bearkats)  | 67.60  |  +28.5 -130 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o171.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +5000 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  
-|  [ ![ALA logo](https://img.covers.com/covers/data/svg_logos/ncaab/ala.svg) ALA ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-crimson-tide)  | 94.77  |  -28.5 +100 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  u171.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -8000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
+|  [ ![SHSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/shsu.svg) SHSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/sam-houston-bearkats)  | 67.60  |  +26.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o171.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +5000 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  
+|  [ ![ALA logo](https://img.covers.com/covers/data/svg_logos/ncaab/ala.svg) ALA ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-crimson-tide)  | 94.77  |  -26.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  u171.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -8000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/shsu.svg) Sam Houston St.![](https://img.covers.com/covers/data/svg_logos/ncaab/ala.svg) Alabama
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/shsu.svg) Sam Houston St. 
   * Over is 4-0 in Bearkats last 4 games as a road favorite.
@@ -259,8 +259,8 @@ Predicted Score
 [ UVA  ![UVA logo](https://img.covers.com/covers/data/svg_logos/ncaab/uva.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-cavaliers)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![DREX logo](https://img.covers.com/covers/data/svg_logos/ncaab/drex.svg) DREX ](https://www.covers.com/sport/basketball/ncaab/teams/main/drexel-dragons)  | 56.99  |  +31.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o142.5 -109 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +15000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
-|  [ ![UVA logo](https://img.covers.com/covers/data/svg_logos/ncaab/uva.svg) UVA ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-cavaliers)  | 83.72  |  -31.5 -105 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u142.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -10000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
+|  [ ![DREX logo](https://img.covers.com/covers/data/svg_logos/ncaab/drex.svg) DREX ](https://www.covers.com/sport/basketball/ncaab/teams/main/drexel-dragons)  | 56.99  |  +31.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o142.5 -107 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +15000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
+|  [ ![UVA logo](https://img.covers.com/covers/data/svg_logos/ncaab/uva.svg) UVA ](https://www.covers.com/sport/basketball/ncaab/teams/main/virginia-cavaliers)  | 83.72  |  -31.5 -108 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  u142.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -10000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/drex.svg) Drexel![](https://img.covers.com/covers/data/svg_logos/ncaab/uva.svg) Virginia
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/drex.svg) Drexel 
   * Under is 7-0 in Dragons last 7 road games.
@@ -283,8 +283,8 @@ Predicted Score
 [ KSU  ![KSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/ksu.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/kansas-state-wildcats)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![SDST logo](https://img.covers.com/covers/data/svg_logos/ncaab/sdst.svg) SDST ](https://www.covers.com/sport/basketball/ncaab/teams/main/south-dakota-state-jackrabbits)  | 75.41  |  +12.5 -135 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o157.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +500 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
-|  [ ![KSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/ksu.svg) KSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/kansas-state-wildcats)  | 83.94  |  -12.5 +105 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  u159.5 -110 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  -625 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
+|  [ ![SDST logo](https://img.covers.com/covers/data/svg_logos/ncaab/sdst.svg) SDST ](https://www.covers.com/sport/basketball/ncaab/teams/main/south-dakota-state-jackrabbits)  | 75.41  |  +11.5 +100 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o159.0 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  +500 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
+|  [ ![KSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/ksu.svg) KSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/kansas-state-wildcats)  | 83.94  |  -11.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u159.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -650 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/sdst.svg) SD State![](https://img.covers.com/covers/data/svg_logos/ncaab/ksu.svg) Kansas State
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/sdst.svg) SD State 
   * Under is 5-1 in Jackrabbits last 6 road games.
@@ -307,8 +307,8 @@ Predicted Score
 [ MIZZ  ![MIZZ logo](https://img.covers.com/covers/data/svg_logos/ncaab/mizz.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/missouri-tigers)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![CLEV logo](https://img.covers.com/covers/data/svg_logos/ncaab/clev.svg) CLEV ](https://www.covers.com/sport/basketball/ncaab/teams/main/cleveland-state-vikings)  | 67.78  |  +26.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o159.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  +4000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
-|  [ ![MIZZ logo](https://img.covers.com/covers/data/svg_logos/ncaab/mizz.svg) MIZZ ](https://www.covers.com/sport/basketball/ncaab/teams/main/missouri-tigers)  | 92.90  |  -26.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  u160.0 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  -8000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
+|  [ ![CLEV logo](https://img.covers.com/covers/data/svg_logos/ncaab/clev.svg) CLEV ](https://www.covers.com/sport/basketball/ncaab/teams/main/cleveland-state-vikings)  | 67.78  |  +26.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  o159.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  +4000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
+|  [ ![MIZZ logo](https://img.covers.com/covers/data/svg_logos/ncaab/mizz.svg) MIZZ ](https://www.covers.com/sport/basketball/ncaab/teams/main/missouri-tigers)  | 92.90  |  -26.5 -108 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  u160.0 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  -8000 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/clev.svg) Cleveland St.![](https://img.covers.com/covers/data/svg_logos/ncaab/mizz.svg) Missouri
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/clev.svg) Cleveland St. 
   * Under is 4-0 in Vikings last 4 games as a road favorite.
@@ -327,12 +327,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![ALST logo](https://img.covers.com/covers/data/svg_logos/ncaab/alst.svg) ALST ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-state-hornets)
-66.23  @ 95.47 
+65.77  @ 95.47 
 [ TXAM  ![TXAM logo](https://img.covers.com/covers/data/svg_logos/ncaab/txam.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/texas-a-m-aggies)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![ALST logo](https://img.covers.com/covers/data/svg_logos/ncaab/alst.svg) ALST ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-state-hornets)  | 66.23  |  +32.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  o160.5 -115 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +10000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
-|  [ ![TXAM logo](https://img.covers.com/covers/data/svg_logos/ncaab/txam.svg) TXAM ](https://www.covers.com/sport/basketball/ncaab/teams/main/texas-a-m-aggies)  | 95.47  |  -32.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u162.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  -20000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![ALST logo](https://img.covers.com/covers/data/svg_logos/ncaab/alst.svg) ALST ](https://www.covers.com/sport/basketball/ncaab/teams/main/alabama-state-hornets)  | 65.77  |  +32.5 -110 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  o161.0 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  +12000 ![BetRivers sportsbook logo](https://img.covers.com/betting/sportsbooks/836/betrivers_icon.svg)  |  
+|  [ ![TXAM logo](https://img.covers.com/covers/data/svg_logos/ncaab/txam.svg) TXAM ](https://www.covers.com/sport/basketball/ncaab/teams/main/texas-a-m-aggies)  | 95.47  |  -32.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  u161.5 -105 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  -50000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/alst.svg) Alabama St.![](https://img.covers.com/covers/data/svg_logos/ncaab/txam.svg) Texas A&M
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/alst.svg) Alabama St. 
   * Under is 4-0 in Hornets last 4 games as a favorite.
@@ -351,12 +351,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![LIP logo](https://img.covers.com/covers/data/svg_logos/ncaab/lip.svg) LIP ](https://www.covers.com/sport/basketball/ncaab/teams/main/lipscomb-bisons)
-63.89  @ 86.71 
+63.56  @ 85.72 
 [ IOWA  ![IOWA logo](https://img.covers.com/covers/data/svg_logos/ncaab/iowa.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/iowa-hawkeyes)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![LIP logo](https://img.covers.com/covers/data/svg_logos/ncaab/lip.svg) LIP ](https://www.covers.com/sport/basketball/ncaab/teams/main/lipscomb-bisons)  | 63.89  |  +22.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  o148.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +3000 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
-|  [ ![IOWA logo](https://img.covers.com/covers/data/svg_logos/ncaab/iowa.svg) IOWA ](https://www.covers.com/sport/basketball/ncaab/teams/main/iowa-hawkeyes)  | 86.71  |  -22.5 -110 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  u150.0 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  -6500 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
+|  [ ![LIP logo](https://img.covers.com/covers/data/svg_logos/ncaab/lip.svg) LIP ](https://www.covers.com/sport/basketball/ncaab/teams/main/lipscomb-bisons)  | 63.56  |  +23.5 -115 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  o148.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  +3000 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
+|  [ ![IOWA logo](https://img.covers.com/covers/data/svg_logos/ncaab/iowa.svg) IOWA ](https://www.covers.com/sport/basketball/ncaab/teams/main/iowa-hawkeyes)  | 85.72  |  -23.5 +100 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  u149.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -7000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/lip.svg) Lipscomb![](https://img.covers.com/covers/data/svg_logos/ncaab/iowa.svg) Iowa
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/lip.svg) Lipscomb 
   * Under is 4-1 in Bisons last 5 overall.
@@ -379,8 +379,8 @@ Predicted Score
 [ ARK  ![ARK logo](https://img.covers.com/covers/data/svg_logos/ncaab/ark.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/arkansas-razorbacks)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![ARPB logo](https://img.covers.com/covers/data/svg_logos/ncaab/arpb.svg) ARPB ](https://www.covers.com/sport/basketball/ncaab/teams/main/arkansas-pine-bluff-golden-lions)  | 63.27  |  +42.5 -115 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  o166.5 -110 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  +15000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
-|  [ ![ARK logo](https://img.covers.com/covers/data/svg_logos/ncaab/ark.svg) ARK ](https://www.covers.com/sport/basketball/ncaab/teams/main/arkansas-razorbacks)  | 104.07  |  -42.5 -105 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  u167.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  -100000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![ARPB logo](https://img.covers.com/covers/data/svg_logos/ncaab/arpb.svg) ARPB ](https://www.covers.com/sport/basketball/ncaab/teams/main/arkansas-pine-bluff-golden-lions)  | 63.27  |  +42.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o166.5 -112 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +15000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
+|  [ ![ARK logo](https://img.covers.com/covers/data/svg_logos/ncaab/ark.svg) ARK ](https://www.covers.com/sport/basketball/ncaab/teams/main/arkansas-razorbacks)  | 104.07  |  -42.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u167.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -100000 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/arpb.svg) AR-Pine Bluff![](https://img.covers.com/covers/data/svg_logos/ncaab/ark.svg) Arkansas
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/arpb.svg) AR-Pine Bluff 
   * Over is 6-1 in Golden Lions last 7 games as a road favorite.
@@ -399,12 +399,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![UNF logo](https://img.covers.com/covers/data/svg_logos/ncaab/unf.svg) UNF ](https://www.covers.com/sport/basketball/ncaab/teams/main/north-florida-ospreys)
-72.71  @ 82.88 
+72.71  @ 83.56 
 [ CBU  ![CBU logo](https://img.covers.com/covers/data/svg_logos/ncaab/cbu.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/california-baptist-lancers)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![UNF logo](https://img.covers.com/covers/data/svg_logos/ncaab/unf.svg) UNF ](https://www.covers.com/sport/basketball/ncaab/teams/main/north-florida-ospreys)  | 72.71  |  +11.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o155.5 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  +475 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
-|  [ ![CBU logo](https://img.covers.com/covers/data/svg_logos/ncaab/cbu.svg) CBU ](https://www.covers.com/sport/basketball/ncaab/teams/main/california-baptist-lancers)  | 82.88  |  -11.5 +100 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  u158.5 -110 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  -625 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
+|  [ ![UNF logo](https://img.covers.com/covers/data/svg_logos/ncaab/unf.svg) UNF ](https://www.covers.com/sport/basketball/ncaab/teams/main/north-florida-ospreys)  | 72.71  |  +11.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o156.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  +475 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
+|  [ ![CBU logo](https://img.covers.com/covers/data/svg_logos/ncaab/cbu.svg) CBU ](https://www.covers.com/sport/basketball/ncaab/teams/main/california-baptist-lancers)  | 83.56  |  -11.5 -105 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  u157.5 -108 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  -625 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/unf.svg) North Florida![](https://img.covers.com/covers/data/svg_logos/ncaab/cbu.svg) CA Baptist
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/unf.svg) North Florida 
   * Over is 4-1-1 in Ospreys last 6 games as a road favorite.
@@ -423,12 +423,12 @@ Predicted Score
 Computer PicksTrends
 Predicted Score
 [ ![NAU logo](https://img.covers.com/covers/data/svg_logos/ncaab/nau.svg) NAU ](https://www.covers.com/sport/basketball/ncaab/teams/main/northern-arizona-lumberjacks)
-63.21  @ 86.02 
+63.39  @ 86.34 
 [ UNLV  ![UNLV logo](https://img.covers.com/covers/data/svg_logos/ncaab/unlv.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/unlv-runnin-rebels)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![NAU logo](https://img.covers.com/covers/data/svg_logos/ncaab/nau.svg) NAU ](https://www.covers.com/sport/basketball/ncaab/teams/main/northern-arizona-lumberjacks)  | 63.21  |  +21.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o152.0 -110 ![Fanatics Sportsbook sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics_icon.svg)  |  +2500 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
-|  [ ![UNLV logo](https://img.covers.com/covers/data/svg_logos/ncaab/unlv.svg) UNLV ](https://www.covers.com/sport/basketball/ncaab/teams/main/unlv-runnin-rebels)  | 86.02  |  -21.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u153.5 -115 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  -5000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
+|  [ ![NAU logo](https://img.covers.com/covers/data/svg_logos/ncaab/nau.svg) NAU ](https://www.covers.com/sport/basketball/ncaab/teams/main/northern-arizona-lumberjacks)  | 63.39  |  +21.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  o153.5 -113 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  +2500 ![theScore Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/44/thescorebet_icon.svg)  |  
+|  [ ![UNLV logo](https://img.covers.com/covers/data/svg_logos/ncaab/unlv.svg) UNLV ](https://www.covers.com/sport/basketball/ncaab/teams/main/unlv-runnin-rebels)  | 86.34  |  -21.5 -105 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u154.5 -105 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -5000 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/nau.svg) Northern Arizona![](https://img.covers.com/covers/data/svg_logos/ncaab/unlv.svg) UNLV
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/nau.svg) Northern Arizona 
   * Under is 4-0 in Lumberjacks last 4 overall.
@@ -451,8 +451,8 @@ Predicted Score
 [ SDSU  ![SDSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/sdsu.svg) ](https://www.covers.com/sport/basketball/ncaab/teams/main/san-diego-state-aztecs)  
 | Team  | Predicted Score  | Spread  | Total  | ML  |  
 | --- | --- | --- | --- | --- |  
-|  [ ![CSF logo](https://img.covers.com/covers/data/svg_logos/ncaab/csf.svg) CSF ](https://www.covers.com/sport/basketball/ncaab/teams/main/cal-state-fullerton-titans)  | 69.74  |  +18.5 -135 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  o154.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  +1200 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
-|  [ ![SDSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/sdsu.svg) SDSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/san-diego-state-aztecs)  | 85.46  |  -18.5 +105 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  u155.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -1650 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
+|  [ ![CSF logo](https://img.covers.com/covers/data/svg_logos/ncaab/csf.svg) CSF ](https://www.covers.com/sport/basketball/ncaab/teams/main/cal-state-fullerton-titans)  | 69.74  |  +16.5 -102 ![FanDuel sportsbook logo](https://img.covers.com/betting/sportsbooks/818/fanduel_icon.svg)  |  o154.5 -110 ![Caesars Odds sportsbook logo](https://img.covers.com/betting/sportsbooks/20/caesars_icon.svg)  |  +1200 ![bet365 sportsbook logo](https://img.covers.com/betting/sportsbooks/2/bet365_icon.svg)  |  
+|  [ ![SDSU logo](https://img.covers.com/covers/data/svg_logos/ncaab/sdsu.svg) SDSU ](https://www.covers.com/sport/basketball/ncaab/teams/main/san-diego-state-aztecs)  | 85.46  |  -16.5 -110 ![BetMGM sportsbook logo](https://img.covers.com/betting/sportsbooks/833/betmgm_icon.svg)  |  u155.5 -110 ![Hard Rock Bet sportsbook logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet_icon.svg)  |  -1650 ![DraftKings sportsbook logo](https://img.covers.com/betting/sportsbooks/811/draft_kings_icon.svg)  |  
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/csf.svg) CSU Fullerton![](https://img.covers.com/covers/data/svg_logos/ncaab/sdsu.svg) San Diego St.
 ![](https://img.covers.com/covers/data/svg_logos/ncaab/csf.svg) CSU Fullerton 
   * Over is 10-1 in Titans last 11 games as a road underdog.
