@@ -1,11 +1,12 @@
-# NBA transcripts | 2026-11-04 | updated 2026-11-04 18:12 ET
+# NBA transcripts | 2026-11-04 | updated 2026-11-04 18:39 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 24 files in NBA/transcripts/2026-11-04:
+# 25 files in NBA/transcripts/2026-11-04:
 NBA/transcripts/2026-11-04/-zveeW-dLVs_CallingOurShot_Jacksonville_Jaguars_vs_Baltimore_Ravens_Best_Picks_Predictions.txt
 NBA/transcripts/2026-11-04/3o0cq-fLh4w_WagerTalk_NBA_Picks_TODAY_Mavericks_vs_Spurs_Heat_vs_Clippers_Wednesday_NBA_BEST.txt
 NBA/transcripts/2026-11-04/6QawsUrwB-w_CallingOurShot_Wednesday_s_NBA_Best_Picks_and_Predictions_for_November_4th.txt
 NBA/transcripts/2026-11-04/85Xq5PcxNBk_Stokastic_NBA_DFS_Strategy_Wednesday_11_4_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
 NBA/transcripts/2026-11-04/D9jHwxJTSEw_WagerTalk_NBA_Picks_TODAY_76ers_vs_Pistons_Hawks_vs_Wizards_Wednesday_NBA_BEST_B.txt
+NBA/transcripts/2026-11-04/GMZy0kfpApU_PickDawgz_NBA_Picks_and_Predictions_for_Today_11_4_2026_Dawg_of_the_Day.txt
 NBA/transcripts/2026-11-04/HznFbkkljcY_ShipItNation_NBA_DFS_Process_November_4_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt
 NBA/transcripts/2026-11-04/J1uuGuPytOY_JayMoney_Wednesday_NBA_Talk_With_Jay_Money_The_Shark_11_4_26_Free_NBA_Picks_Goo.txt
 NBA/transcripts/2026-11-04/JCTr8z9LczY_PickDawgz_NBA_Alternate_Line_Prediction_11_04_26_The_Extendo_Clip.txt
@@ -34,17 +35,17 @@ NONE    channel VSiN: nothing new in the date window (or everything already save
 NOCAPS  WagerTalk n3UT2sl13Nk NBA Picks Today LIVE: Wednesday's Best Bets & Predictions |   (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk 13060WjilZc NBA Picks Today LIVE: Wednesday's Best Bets & Predictions |   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-04/HznFbkkljcY_ShipItNation_NBA_DFS_Process_November_4_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt  (12,600 words, via Groq)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
 NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-04/MyBTI3do1mY_NBAGamblingPod_NBA_Wednesday_Picks_11_4_26_NBA_Bets_Player_Props_and_Predictions.txt  (12,326 words, via Groq)
-NEW     NBA/transcripts/2026-11-04/-zveeW-dLVs_CallingOurShot_Jacksonville_Jaguars_vs_Baltimore_Ravens_Best_Picks_Predictions.txt  (2,430 words)
+UPCOMING NBAGamblingPod q_cMsJprdOI NBA Thursday Picks - 11/5/26 | NBA Bets, Player Props and Pr  (not aired yet - scheduled for 11/04/26 9:05PM)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
-NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NOCAPS  LandYourBets 4R8wU80IBlA Wednesday NBA Live Show 🔴 Best Bets Today November 4 | Land   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
@@ -52,7 +53,6 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NOCAPS  FantasyAlarm gA9TozwEDnc NBA DFS Picks Today 11/4 | DraftKings Lineup Strategy & Top   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-04/Rygrz1k0NFA_PickDawgz_NBA_Picks_Predictions_For_Today_Wednesday_11_4_26_FREE_NBA_Best_Bets_a.txt  (2,776 words)
-NEW     NBA/transcripts/2026-11-04/zJ65-qZ6Zps_PickDawgz_NBA_Picks_and_Predictions_11_4_26_The_Lowdown_With_Jeremy_Conn.txt  (1,461 words)
+NEW     NBA/transcripts/2026-11-04/GMZy0kfpApU_PickDawgz_NBA_Picks_and_Predictions_for_Today_11_4_2026_Dawg_of_the_Day.txt  (849 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
