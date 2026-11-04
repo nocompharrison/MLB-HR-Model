@@ -1,6 +1,7 @@
-# NFL transcripts | week 9 | updated 2026-11-03 20:20 ET
+# NFL transcripts | week 9 | updated 2026-11-04 06:47 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 14 files in NFL/transcripts/week-09:
+# 20 files in NFL/transcripts/week-09:
+NFL/transcripts/week-09/2gMcPMeMToc_PlayerProfiler_Week_9_Waiver_Wire_Pickups_2026_MUST_ADD_Fantasy_Football_Players.txt
 NFL/transcripts/week-09/7vHnQSkww8s_PlayerProfiler_Malik_Willis_Breakout_NFL_Trade_Rumors_Rookie_Risers_Week_9_Starts_w_S.txt
 NFL/transcripts/week-09/EdG4ftDljaY_SGPN_Thursday_Night_Football_Week_9_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-09/IWucEiK0N9A_PlayerProfiler_Top_10_Takeaways_Usage_trends_from_Week_8_and_waiver_wire_options_for.txt
@@ -10,39 +11,48 @@ NFL/transcripts/week-09/P4GcJt0NLgI_CallingOurShot_NFL_Week_9_Best_Picks_Predict
 NFL/transcripts/week-09/PrkFLq8Zuak_BettingPros_Top_NFL_Picks_for_Bears_vs_Seahwaks_Best_Bets_Player_Props_for_Monday.txt
 NFL/transcripts/week-09/VGVq_aSok38_FootballersDFS_Week_9_NFL_Preview_Backing_the_Raiders_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-09/X28ur2gS_K4_PlayerProfiler_Week_9_TOP_Kickers_Defenses_High_Upside_Streamers.txt
+NFL/transcripts/week-09/acGXcpNrv_8_PlayerProfiler_QB_CHAOS_Benching_Season_Is_Here_Fantasy_Empire.txt
+NFL/transcripts/week-09/cthwWAJBHLU_Stokastic_NFL_DFS_First_Look_Week_9_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-09/kHnBAoV-vZg_Footballers_Week_9_Waivers_Full_Stream_Ahead_Fantasy_Football_2026_Ep_2007.txt
 NFL/transcripts/week-09/oLpRaut4opI_SportsLine_NFL_Week_9_Bets_to_Make_Before_Lines_Move.txt
+NFL/transcripts/week-09/ohkwkZQzmXs_TheAudible_WEEK_9_WAIVER_WIRE_LEAGUE_WINNING_RBs_Emmett_Johnson_Chris_Rodriguez_M.txt
+NFL/transcripts/week-09/prQTond7-r4_DFSArmy_NFL_DFS_Week_9_Strategy_for_DraftKings_2026.txt
 NFL/transcripts/week-09/pv2qnOJbjM8_ActionNetwork_Top_Week_9_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt
 NFL/transcripts/week-09/qdAHRp95z18_TheAudible_Which_Vikings_player_will_sabotage_another_fantasy_football_team_after.txt
 NFL/transcripts/week-09/rrZtoYx7VWM_ActionNetwork_NFL_Futures_on_Prediction_Markets_Which_Teams_Are_Worth_Buying.txt
+NFL/transcripts/week-09/xr27T8WsEFI_FantasyAlarm_Week_9_Waiver_Wire_Adds_For_Fantasy_Football.txt
 
 # this run:
-NEW     NFL/transcripts/week-09/kHnBAoV-vZg_Footballers_Week_9_Waivers_Full_Stream_Ahead_Fantasy_Football_2026_Ep_2007.txt  (9,048 words)
-NEW     NFL/transcripts/week-09/VGVq_aSok38_FootballersDFS_Week_9_NFL_Preview_Backing_the_Raiders_Fantasy_Football_DFS_Betting.txt  (10,114 words)
+NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
+UPCOMING RotoGrinders ziIQbIrPvmc PICK SIX! The BEST 3 NFL Games to Target in DFS for Week 9!  (not aired yet - scheduled for 11/04/26 8:00PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/EdG4ftDljaY_SGPN_Thursday_Night_Football_Week_9_Prop_Bets_Best_Bets_Predictions.txt  (9,639 words)
-NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/rrZtoYx7VWM_ActionNetwork_NFL_Futures_on_Prediction_Markets_Which_Teams_Are_Worth_Buying.txt  (11,974 words)
-NEW     NFL/transcripts/week-09/pv2qnOJbjM8_ActionNetwork_Top_Week_9_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority_P.txt  (7,975 words)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+UPCOMING SGPN 2AuAFMWx1Cc Monday Night Football Prop Bets + NFL Week 9 Recap  (not aired yet - scheduled for 11/08/26 11:30PM)
+UPCOMING SGPN ii7N0PTlXIo NFL Week 9 Betting Pregame Show: NFL Picks, Prop Bets, DFS P  (not aired yet - scheduled for 11/08/26 12:00PM)
+UPCOMING SGPN 2P75cisySts NFL Week 9 Prop Bets, Best Bets & Predictions  (not aired yet - scheduled for 11/05/26 7:00PM)
+UPCOMING SGPN WDdZr1otTMg NFL Week 9 Picks, Best Bets & Predictions  (not aired yet - scheduled for 11/04/26 11:30PM)
+UPCOMING SGPNPropcast kmhSd3eNyGU NFL Week 9 Thursday Night Football Player Props - 11/4/26  (not aired yet - scheduled for 11/04/26 11:05AM)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-09/prQTond7-r4_DFSArmy_NFL_DFS_Week_9_Strategy_for_DraftKings_2026.txt  (9,443 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible ohkwkZQzmXs WEEK 9 WAIVER WIRE: LEAGUE-WINNING RBs?! Emmett Johnson, Chr  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-09/qdAHRp95z18_TheAudible_Which_Vikings_player_will_sabotage_another_fantasy_football_team_after.txt  (5,536 words)
-NOCAPS  PlayerProfiler acGXcpNrv_8 QB CHAOS! Benching Season Is Here | Fantasy Empire  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  PlayerProfiler 2gMcPMeMToc Week 9 Waiver Wire Pickups (2026) | MUST ADD Fantasy Footbal  (no captions; Groq: Groq rejected the API key - check groq_key.txt)
-NEW     NFL/transcripts/week-09/IWucEiK0N9A_PlayerProfiler_Top_10_Takeaways_Usage_trends_from_Week_8_and_waiver_wire_options_for.txt  (9,276 words)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/KjbSWUbYkeI_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_9_Predictions_2026.txt  (4,700 words)
+NEW     NFL/transcripts/week-09/ohkwkZQzmXs_TheAudible_WEEK_9_WAIVER_WIRE_LEAGUE_WINNING_RBs_Emmett_Johnson_Chris_Rodriguez_M.txt  (5,867 words)
+NEW     NFL/transcripts/week-09/acGXcpNrv_8_PlayerProfiler_QB_CHAOS_Benching_Season_Is_Here_Fantasy_Empire.txt  (17,719 words)
+NOCAPS  PlayerProfiler pepB3vHNPcM Is Ashton Jeanty a BUST? Luther Burden Debate! | Bradley Sta  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-09/2gMcPMeMToc_PlayerProfiler_Week_9_Waiver_Wire_Pickups_2026_MUST_ADD_Fantasy_Football_Players.txt  (6,995 words)
+NEW     NFL/transcripts/week-09/cthwWAJBHLU_Stokastic_NFL_DFS_First_Look_Week_9_Picks_NFL_DFS_Strategy.txt  (13,538 words)
+UPCOMING Stokastic MTXwfwNbOv8 Week 9 NFL DFS: Single Lineup Sim Building | NFL DFS Strateg  (not aired yet - scheduled for 11/04/26 10:00AM)
+UPCOMING Stokastic 0qfmf695U8A Jaguars-Ravens Showdown Strategy TNF Week 9 DFS Picks | NFL   (not aired yet - scheduled for 11/05/26 10:00AM)
+UPCOMING Stokastic rEYHIKiIErQ NFL DFS Showdown Live Before Lock | Jaguars-Ravens TNF Week   (not aired yet - scheduled for 11/05/26 7:15PM)
+UPCOMING Stokastic G48I4lVwW1w NFL DFS Sims Tournament Strategy Week 9 | NFL DFS Strategy  (not aired yet - scheduled for 11/06/26 10:00AM)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine TIilbDoZtW4 NFL Picks: Bets for Every Week 9 Game!  (not aired yet - starting any minute)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm xr27T8WsEFI Week 9 Waiver Wire Adds For Fantasy Football!  (no captions; Groq skipped this run (Groq rejected the API key - check groq_key.txt))
+NEW     NFL/transcripts/week-09/xr27T8WsEFI_FantasyAlarm_Week_9_Waiver_Wire_Adds_For_Fantasy_Football.txt  (10,768 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/P4GcJt0NLgI_CallingOurShot_NFL_Week_9_Best_Picks_Predictions.txt  (13,819 words)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
