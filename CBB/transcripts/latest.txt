@@ -1,38 +1,39 @@
-# CBB transcripts | 2026-11-04 | updated 2026-11-04 11:05 ET
+# CBB transcripts | 2026-11-04 | updated 2026-11-04 17:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 10 files in CBB/transcripts/2026-11-04:
+# 15 files in CBB/transcripts/2026-11-04:
+CBB/transcripts/2026-11-04/2-rHmpCfTGg_CBSCollegeBB_Kentucky_Milan_Momcilovic_still_the_best_shooter_in_college_basketball.txt
 CBB/transcripts/2026-11-04/3uBsgcHSCzk_PickDawgz_ST_MARYS_CA_VS_NORTH_DAKOTA_ST_11_4_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DA.txt
 CBB/transcripts/2026-11-04/Ju00klsjmPw_SportsLine_NBA_Bets_Champions_League_Bets_College_Basketball_Picks_Early_Edge.txt
+CBB/transcripts/2026-11-04/KdbzYrlOLFU_FieldOf68_REACTION_7_5_5_Star_Center_Cherif_Millogo_COMMITS_to_Kentucky_Next_Gen.txt
+CBB/transcripts/2026-11-04/NelGKJ2gMbs_CBSCollegeBB_Breaking_Down_76_Team_NCAA_Tournament_expansion_New_eligibility_rules.txt
 CBB/transcripts/2026-11-04/SNV5CbZlbZM_PickDawgz_College_Basketball_Picks_Predictions_Today_11_4_26_Ron_s_Bank_Shot_Bre.txt
+CBB/transcripts/2026-11-04/TbUPHqBIiCo_FieldOf68_Florida_is_SO_CLEARLY_the_No_1_team_in_the_country_Gators_beat_Miami.txt
 CBB/transcripts/2026-11-04/Wk0HdB-8ePA_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_4th_TCE_Trims.txt
 CBB/transcripts/2026-11-04/ZW6BCXo7_cw_FieldOf68_Purdue_just_looks_UNDERWHELMING_Gonzaga_beats_the_Boilermakers_AFTER.txt
+CBB/transcripts/2026-11-04/kPNRqHvZt_Y_TCE_College_Basketball_Best_Bets_For_November_4th_Spread_Moneyline_Betting.txt
 CBB/transcripts/2026-11-04/ldoS7otRRTQ_TCE_College_Basketball_Picks_For_November_4th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-04/nFmQvMJ5H6s_FieldOf68_UCLA_MAKES_A_STATEMENT_Plus_Florida_gets_a_HUGE_win_and_Kentucky_retur.txt
 CBB/transcripts/2026-11-04/nKlcu_0oLo8_FieldOf68_UCLA_looked_like_the_top_five_team_last_night_Bruins_KNOCK_OFF_Arizon.txt
 CBB/transcripts/2026-11-04/r2ndfXLbbQs_WagerTalk_College_Basketball_Picks_TODAY_THREE_NCAAB_Predictions_BEST_Bets.txt
 CBB/transcripts/2026-11-04/tSi_T1bC9P4_LockedOnCBB_Is_LSU_s_fully_eligible_roster_UNDERRATED_after_EXCELLENT_win_to_open.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-03
 
 # this run:
-NEW     CBB/transcripts/2026-11-04/tSi_T1bC9P4_LockedOnCBB_Is_LSU_s_fully_eligible_roster_UNDERRATED_after_EXCELLENT_win_to_open.txt  (6,253 words)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-04/2-rHmpCfTGg_CBSCollegeBB_Kentucky_Milan_Momcilovic_still_the_best_shooter_in_college_basketball.txt  (1,921 words)
+NEW     CBB/transcripts/2026-11-04/NelGKJ2gMbs_CBSCollegeBB_Breaking_Down_76_Team_NCAA_Tournament_expansion_New_eligibility_rules.txt  (1,422 words)
 NOCAPS  CBSCollegeBB elwbNtHaI-M Milan Momcilovic goes wild in Kentucky debut; Thursday's bes  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-03/vEjNEquSOYE_CBSCollegeBB_This_UCLA_team_has_Mick_Cronin_written_ALL_OVER_IT.txt  (1,339 words)
-NEW     CBB/transcripts/2026-11-03/kGY8pS3gEbc_CBSCollegeBB_24_observations_from_the_first_24_hours_of_the_college_basketball_seas.txt  (9,237 words)
-NEW     CBB/transcripts/2026-11-04/nFmQvMJ5H6s_FieldOf68_UCLA_MAKES_A_STATEMENT_Plus_Florida_gets_a_HUGE_win_and_Kentucky_retur.txt  (14,526 words)
-NEW     CBB/transcripts/2026-11-04/ZW6BCXo7_cw_FieldOf68_Purdue_just_looks_UNDERWHELMING_Gonzaga_beats_the_Boilermakers_AFTER.txt  (1,772 words)
-NEW     CBB/transcripts/2026-11-04/nKlcu_0oLo8_FieldOf68_UCLA_looked_like_the_top_five_team_last_night_Bruins_KNOCK_OFF_Arizon.txt  (1,892 words)
+NOCAPS  FieldOf68 22L2EvVSuiY MW INSIDER: Hawaii's Jaden Matingou on his Buzzer Beater, MW  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-04/KdbzYrlOLFU_FieldOf68_REACTION_7_5_5_Star_Center_Cherif_Millogo_COMMITS_to_Kentucky_Next_Gen.txt  (2,349 words)
+NEW     CBB/transcripts/2026-11-04/TbUPHqBIiCo_FieldOf68_Florida_is_SO_CLEARLY_the_No_1_team_in_the_country_Gators_beat_Miami.txt  (1,834 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-04/Wk0HdB-8ePA_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_4th_TCE_Trims.txt  (6,655 words)
-NEW     CBB/transcripts/2026-11-04/ldoS7otRRTQ_TCE_College_Basketball_Picks_For_November_4th_NCAA_Basketball_Banter_Best.txt  (9,922 words)
+UPCOMING TCE IxQe-8qD-DM College Basketball Picks For November 5th - NCAA Basketball   (not aired yet - scheduled for 11/04/26 11:45PM)
+NEW     CBB/transcripts/2026-11-04/kPNRqHvZt_Y_TCE_College_Basketball_Best_Bets_For_November_4th_Spread_Moneyline_Betting.txt  (1,407 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NOCAPS  WagerTalk yaBF85kDvoA College Basketball Picks Today: Wednesday CBB Best Bets & Od  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  WagerTalk FwdNcYu8tQM College Basketball Picks Today: Wednesday CBB Best Bets & Od  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-04/r2ndfXLbbQs_WagerTalk_College_Basketball_Picks_TODAY_THREE_NCAAB_Predictions_BEST_Bets.txt  (1,705 words)
-NEW     CBB/transcripts/2026-11-04/Ju00klsjmPw_SportsLine_NBA_Bets_Champions_League_Bets_College_Basketball_Picks_Early_Edge.txt  (6,909 words, via Groq)
-NEW     CBB/transcripts/2026-11-04/3uBsgcHSCzk_PickDawgz_ST_MARYS_CA_VS_NORTH_DAKOTA_ST_11_4_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DA.txt  (359 words)
-NEW     CBB/transcripts/2026-11-04/SNV5CbZlbZM_PickDawgz_College_Basketball_Picks_Predictions_Today_11_4_26_Ron_s_Bank_Shot_Bre.txt  (1,003 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -40,3 +41,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
