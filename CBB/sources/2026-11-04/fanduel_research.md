@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4 | fetched: 2026-11-04 11:16 ET -->
+<!-- source: https://fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4 | fetched: 2026-11-04 17:02 ET -->
 
 ![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
 [Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # College Basketball Picks Today: Predictions and Best Bets for Wednesday, Nov. 4
 ![FanDuel Staff](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://fanduel.com/research/author/fanduel-staff)
-1h
+7h
 Link
 ![College Basketball Picks Today: Predictions and Best Bets for Wednesday, Nov. 4](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb92637a09be107c1d9d55f0d9969a4d9805164ef-2713x1807.jpg%3Frect%3D44%2C0%2C2607%2C1290%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best College Basketball Bets in Summary**
@@ -19,6 +19,7 @@ Link
   * Saint Mary's -13.5 (-110)
 
 
+_If you want more FanDuel Research content, be sure to[add FanDuel as a preferred source on Google](https://www.google.com/preferences/source?q=fanduel)._
 * * *
 The college basketball season is officially underway, and Wednesday's slate features a limited number of games as teams continue their early-season schedules.
 Despite the smaller slate, there are still some intriguing betting opportunities, including a pair of favorites worth backing against the spread. 
@@ -41,8 +42,8 @@ Although playing on the road presents a challenge, Northern Kentucky's offensive
 _North Dakota State at Saint Mary's — 10:00 p.m. ET_
 Spread
 Saint Mary's
--13.5
--110
+-12.5
+-120
 Nov 5 3:00am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/north-dakota-state-@-saint-mary-s-36277723)
 Odds/lines subject to change
 [Saint Mary's](https://sportsbook.fanduel.com/teams/college-basketball/saint-marys-gaels/odds) has been one of the most consistent mid-major programs in college basketball, and the Gaels should have a significant advantage over [North Dakota State](https://sportsbook.fanduel.com/teams/college-basketball/north-dakota-state-bison/odds) in Wednesday's home matchup.
@@ -70,22 +71,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: Predictions and Best Bets for Wednesday, Nov. 4](https://fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4)
-1h
+7h
 College basketball predictions and picks for Wednesday night.
 [](https://fanduel.com/research/college-basketball-picks-today-predictions-and-best-bets-for-wednesday-nov-4)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Alabama vs Sam Houston College Basketball Prediction, Odds, Picks, Best Bets for Nov. 3](https://fanduel.com/research/alabama-vs-sam-houston-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
-23h
+1d
 Find Alabama vs. Sam Houston predictions, betting odds, moneyline, spread, over/under and more for the Nov. 3 college basketball matchup.
 [](https://fanduel.com/research/alabama-vs-sam-houston-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Kentucky vs Manhattan College Basketball Prediction, Odds, Picks, Best Bets for Nov. 3](https://fanduel.com/research/kentucky-vs-manhattan-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
-23h
+1d
 Find Kentucky vs. Manhattan predictions, betting odds, moneyline, spread, over/under and more for the Nov. 3 college basketball matchup.
 [](https://fanduel.com/research/kentucky-vs-manhattan-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Virginia vs Drexel College Basketball Prediction, Odds, Picks, Best Bets for Nov. 3](https://fanduel.com/research/virginia-vs-drexel-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
-23h
+1d
 Find Virginia vs. Drexel predictions, betting odds, moneyline, spread, over/under and more for the Nov. 3 college basketball matchup.
 [](https://fanduel.com/research/virginia-vs-drexel-college-basketball-predictions-odds-picks-best-bets-for-11-3-2026)
 

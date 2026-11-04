@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-04 11:16 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-04 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,50 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![DePaul](https://assets.rotowire.com/images/teamlogo/cbasketball/DePaul.png?v=16)
+[Theo Pierre-Justin](https://www.rotowire.com/cbasketball/player/theo-pierre-justin-24271)
+Inching closer on return
+**F** DePaul
+Leg
+November 4, 2026
+Pierre-Justin (leg) is nearing a return to the hardwood, assistant coach Jack Owens told [WeAreDePaul.com](https://x.com/WeAreDePaul/status/2118077792101540066).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![VCU](https://assets.rotowire.com/images/teamlogo/cbasketball/VCU.png?v=16)
+[Jordan Tillery](https://www.rotowire.com/cbasketball/player/jordan-tillery-27643)
+Expected out for weeks
+**G** VCU
+Knee
+November 4, 2026
+Tillery (knee) is expected to miss a matter of weeks after coach Phil Martelli Jr. said Wednesday that VCU's medical staff is cautiously optimistic the injury is a strain and not severe, [Zach Joachim of the Richmond Times-Dispatch](https://x.com/ZachJoachim/status/2118064187972915320) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![High Point](https://assets.rotowire.com/images/teamlogo/cbasketball/High-Point.png?v=16)
+[Jason Rivera-Torres](https://www.rotowire.com/cbasketball/player/jason-rivera-torres-22609)
+Will play Wednesday
+**G** High Point
+November 4, 2026
+Rivera-Torres (elbow) will make his season debut Wednesday against Maryland-Eastern Shore, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118045236190679339) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Lincoln Williams](https://www.rotowire.com/cbasketball/player/lincoln-williams-28105)
+Expected to play Thursday
+**G** Illinois
+Undisclosed
+November 4, 2026
+Williams (undisclosed) is expected to play Thursday against Pennsylvania, [Scott Richey of The Champaign News-Gazette](https://x.com/srrichey/status/2118022212955320773) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Jake Davis](https://www.rotowire.com/cbasketball/player/jake-davis-22865)
+Out indefinitely after surgery
+**F** Illinois
+Shoulder
+November 4, 2026
+Davis (shoulder) had surgery Wednesday morning to address a separated left shoulder and is out indefinitely, [Scott Richey of The Champaign News-Gazette](https://x.com/srrichey/status/2118022212955320773) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=16)
 [Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
 Diagnosed with knee sprain
@@ -171,52 +215,6 @@ November 3, 2026
 Mundey, who was unavailable for Tuesday's game against Alabama State due to an undisclosed injury, could return in the coming games, according to [Carter Karels of On3.com](https://x.com/CarterKarels/status/2117827647476576507).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Miami](https://assets.rotowire.com/images/teamlogo/cbasketball/Miami.png?v=16)
-[Acaden Lewis](https://www.rotowire.com/cbasketball/player/acaden-lewis-26191)
-Scores 24 points in opener
-**G** Miami
-November 3, 2026
-Lewis ended Monday's 77-67 loss to Florida with 24 points (9-20 FG, 2-8 3Pt, 4-5 FT), four rebounds, one assist and one steal over 35 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
-[Jeremiah Wilkinson](https://www.rotowire.com/cbasketball/player/jeremiah-wilkinson-23583)
-Shines in season opener
-**G** Arkansas
-November 3, 2026
-Wilkinson finished Tuesday's 106-61 win over UAPB with 23 points (7-11 FG, 4-7 3Pt, 5-7 FT), six rebounds, three assists, one block and five steals across 22 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico State](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico-State.png?v=16)
-[KK Robinson](https://www.rotowire.com/cbasketball/player/kk-robinson-16548)
-Scores four points in opener
-**G** New Mexico State
-November 3, 2026
-Robinson (undisclosed) recorded four points (2-8 FG, 0-3 3Pt), three rebounds and an assist across 13 minutes in Tuesday's win over Western New Mexico.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico State](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico-State.png?v=16)
-[Adrame Diongue](https://www.rotowire.com/cbasketball/player/adrame-diongue-20566)
-Comes off bench in opener
-**C** New Mexico State
-November 3, 2026
-Diongue (foot) went scoreless (0-1 FG) while recording a rebound and a block across nine minutes off the bench in Tuesday's 73-66 win over Western New Mexico.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M-Commerce](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M-Commerce.png?v=16)
-[Jaxson Ford](https://www.rotowire.com/cbasketball/player/jaxson-ford-25009)
-Plays in upset win
-**F** Texas A&M-Commerce
-November 3, 2026
-Ford (undisclosed) recorded zero points (0-1 FG), three rebounds and one assist across 15 minutes during Monday's 68-64 win over Oklahoma.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-Powered By
-10 Sec
-Andrew Novak dedicated the win to his daughter, wife and parents #golf
-Next
-Stay
-![](https://pl.primis.tech/live/liveView.php?hash=ozcmPTEznXRiPTEzqzyxX2V2ZW50PTUjJaNypaZypyRcoWU9MTp5MmtjODxlMSZ2nWRspGkurWVlVzVlPTMhMS4jJaM9MTE3NDpjJaN0YT0jJat9MmAjJax9MwUjJaZcZF9jYXNmRG9gYWyhPXq3ql5lo3Riq2ylZS5wo20zp3VvSWQ9q3q3LaJiqG93nXJyLzNioSZxZWJ1Z0yhZz9loWF0nW9hPUFCVCUlMCUlRvUlMHBlZWJcZEyzpzFgZVN5ozMyMwAyMxYyMwAlJTIjJTJGJTIjMTAjJzymQXBjPTAzp2Reqw0zpGkurWkcp3RJZD0kNwA4MCZlnT02QmY5NmY2NTUmNmQ2MTp0NmM3QmpmNxImMTqCNTQmMDqEN0I2NDMlMmAmMwM2MxQmMTMkMxQmMDM0NUYmMTM4N0Q3QwpmMmEmNmMlMmYmMmMlMmYmNwqEN0I0MmMmMmA3RDqCNTM2NDMmNwQmMmRDNxU0QTp2NwQ0NmM5MmM2MTU4NEE2QmRDNxQ0RTp2NwI1MTNEM0Q3RDqCNwI2MmY4NmI2RwZENwU3RDqCNmE2NDY1NmM2Qwp0NxY3MDqEN0I1ODMmMmAmMDqEN0I1OTMlMmUmMDqEN0I2NwM0N0Q3QwplNTE1NTRBNTU0OTQmMmt2NmYmNDt0QTZDNTx2RDZDNxI1MmU3NUE3OTU5NTpmMTZDNTUmMmZDNmU1OTp5NDE3NwQ5NDQ0OTY3NEM3OTQkNmt0RDQ0NDEmRDqEN0I0QmMlMmAmNmMkMmI3REZFRxUzZGyunWQ9JzN1ZGx9pGyjLU5gSWuPRE1bTW14nE13TSUmRCZ1p2VlVUE9TW96nWkfYSUlRwUhMCUlMCUlOFtkMSUmQvUlMEkcoaV4JTIjrDt2XmY0JTI5JTIjQXBjoGVXZWJLnXQyMxY1MmphMmYyMwBDnHJioWUyMxYkMTYhMC4jLwAyMwBTYWZupzxyMxY1MmphMmYzY3N1qWyxPTZuYmZvNGVvYwqxNGIzY29hqGVhqEZcoGVJZD0jJz1yZGyuUGkurUkcp3RJZD0jJz1yZGyuTGymqEyxPTAzZ2Rjpw0jJzqxpHJDo25mZW50PSZcp1qyUGFmp0qxpHI9MSZwY3BuPTAzY2NjYUNioaNyoaQ9JzqjpENioaNyoaQ9JzqjpFNcZD0zY2J1p3Rypw0kNmxmODA4OTIlNDp0JaVcZD1TZWgcozRiU1BfYXyypwZuZWI1YTE5N2ZwYWEzpHVvVXJfPWu0qHBmJTNBJTJGJTJGq3q3LaJiqG93nXJyLzNioSUlRzNvYXNeZXRvYWkfJTJGozV3pl5jnHAzZzkiYXRTqGF0qXM9ZzFfp2UzZWyxp3A9nWykJaB4nWQ9OTNxY2M2OGM0ZTE2NwuuNDU1OGVvMDx3ZDU5OWI5Ywt=&stnaInterval=0)
 ![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)
 
