@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 18:06 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,65 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Landry Shamet](https://www.rotowire.com/basketball/player/landry-shamet-4414)[Starting versus Chicago](https://www.rotowire.com/basketball/headlines/landry-shamet-news-starting-versus-chicago-537540)
+**G** New York Knicks
+November 4, 2026
+Shamet will start in Wednesday's game against the Bulls, [Stefan Bondy of The New York Post](https://x.com/SbondyNBA/status/2118115329767592002?a=cegseRyrgRfPMsLKbSU&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dominick Barlow](https://www.rotowire.com/basketball/player/dominick-barlow-5670)[Expected to miss at least 10 more days](https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-expected-to-miss-at-least-10-more-days-537539)
+**C** Philadelphia 76ers
+Back
+November 4, 2026
+Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, [Derek Bodner of AllPHLY.com](https://x.com/DerekBodnerNBA/status/2118109283023728761) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Upgraded to available](https://www.rotowire.com/basketball/headlines/jalen-smith-news-upgraded-to-available-537538)
+**C** Chicago Bulls
+November 4, 2026
+Smith is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_05_30PM.pdf) for Wednesday's game against the Knicks with a left finger sprain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Won't return from absence Wednesday](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-wont-return-from-absence-wednesday-537537)
+**C** Chicago Bulls
+Hamstring
+November 4, 2026
+Claxton (hamstring) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_05_30PM.pdf) for Wednesday's game against New York.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)[Minutes restriction lifted](https://www.rotowire.com/basketball/headlines/aj-dybantsa-news-minutes-restriction-lifted-537536)
+**F** Washington Wizards
+November 4, 2026
+Head coach Brian Keefe said Wednesday that Dybantsa (ankle) is no longer on a minutes restriction, [Josh Robbins of The Athletic](https://x.com/JoshuaBRobbins/status/2118106713014296783?a=7NlugnXtoWYXnC3Ghj4&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Gill](https://www.rotowire.com/basketball/player/anthony-gill-5309)[Available Wednesday](https://www.rotowire.com/basketball/headlines/anthony-gill-news-available-wednesday-537534)
+**F** Washington Wizards
+November 4, 2026
+Gill (back) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_04_30PM.pdf) for Wednesday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Daeqwon Plowden](https://www.rotowire.com/basketball/player/daeqwon-plowden-5800)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/daeqwon-plowden-injury-wont-play-wednesday-537533)
+**F** Sacramento Kings
+Illness
+November 4, 2026
+Plowden (illness) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_04_00PM.pdf) for Wednesday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/precious-achiuwa-news-good-to-go-wednesday-537532)
+**F** Sacramento Kings
+November 4, 2026
+Achiuwa (ankle) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_04_00PM.pdf) for Wednesday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
 [Rasheer Fleming](https://www.rotowire.com/basketball/player/rasheer-fleming-6564)[Out with sprained ankle](https://www.rotowire.com/basketball/headlines/rasheer-fleming-injury-out-with-sprained-ankle-537531)
 **F** Phoenix Suns
@@ -143,67 +202,6 @@ Coulibaly (illness) is [questionable](https://ak-static.cms.nba.com/referee/inju
 Knee
 November 4, 2026
 Aldama (knee) was spotted at Wednesday's morning shootaround, [Brad Townsend of The Dallas Morning News](https://x.com/townbrad/status/2118025035398922601?a=GPQKYWXXso91ikvCWQo&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Kristaps Porzingis](https://www.rotowire.com/basketball/player/kristaps-porzingis-3669)[Warriors withholding payments](https://www.rotowire.com/basketball/headlines/kristaps-porzingis-injury-warriors-withholding-payments-537514)
-**C** Golden State Warriors
-Illness
-November 4, 2026
-The Warriors have stopped issuing salary payments to Porzingis (illness), who remains away from the team and is considering retirement, [Anthony Slater and Shams Charania of ESPN](https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say) reported Wednesday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)[Questionable against Clippers](https://www.rotowire.com/basketball/headlines/myron-gardner-injury-questionable-against-clippers-537511)
-**F** Miami Heat
-Quadriceps
-November 3, 2026
-Gardner (quadriceps) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_08_00PM.pdf) for Wednesday's game against the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Probable for Wednesday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-probable-for-wednesday-537510)
-**F** Miami Heat
-Wrist
-November 3, 2026
-Antetokounmpo is [probable to play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_08_00PM.pdf) Wednesday against the Clippers due to a sprained right wrist.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Rui Hachimura](https://www.rotowire.com/basketball/player/rui-hachimura-4778)[Off injury report for Wednesday](https://www.rotowire.com/basketball/headlines/rui-hachimura-news-off-injury-report-for-wednesday-537509)
-**F** Los Angeles Clippers
-November 3, 2026
-Hachimura (quadriceps) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_07_45PM.pdf) on the injury report ahead of Wednesday's game against Miami.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Derrick Jones](https://www.rotowire.com/basketball/player/derrick-jones-4083)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/derrick-jones-news-not-listed-on-injury-report-537508)
-**F** Los Angeles Clippers
-November 3, 2026
-Jones (knee) has been removed from the injury report ahead of Wednesday's game against the Heat, [NBA writer Justin Russo](https://x.com/FlyByKnite/status/2117780344699335033) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Dylan Cardwell](https://www.rotowire.com/basketball/player/dylan-cardwell-6638)[Not listed on injury report](https://www.rotowire.com/basketball/headlines/dylan-cardwell-news-not-listed-on-injury-report-537507)
-**C** Sacramento Kings
-November 3, 2026
-Cardwell (calf) is not listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_07_30PM.pdf) for Wednesday's meeting with the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Likely good to go Wednesday](https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-likely-good-to-go-wednesday-537506)
-**F** Sacramento Kings
-Ankle
-November 3, 2026
-Achiuwa (ankle) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_07_30PM.pdf) for Wednesday's game against the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Jordan Goodwin](https://www.rotowire.com/basketball/player/jordan-goodwin-5460)[Questionable for Wednesday](https://www.rotowire.com/basketball/headlines/jordan-goodwin-injury-questionable-for-wednesday-537505)
-**G** Phoenix Suns
-Calf
-November 3, 2026
-Goodwin (calf) is questionable for Wednesday's game against Portland, [Duane Rankin of The Arizona Republic](https://x.com/DuaneRankin/status/2117770527498780787?a=LU28Vye3pAAdEKI2f-4&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

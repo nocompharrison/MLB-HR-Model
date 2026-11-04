@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-wednesday-nov-4 | fetched: 2026-11-04 16:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-wednesday-nov-4 | fetched: 2026-11-04 18:06 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 4 Best NBA Player Prop Bets for Wednesday, Nov. 4
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-7h
+9h
 Link
 ![NBA Props Today: 4 Best NBA Player Prop Bets for Wednesday, Nov. 4](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0ad279190b1710ed6f3404dbbdb3c5c630f254b6-5580x3719.jpg%3Frect%3D179%2C0%2C5255%2C2600%26w%3D964%26h%3D477&w=1920&q=100)
 _If you want more FanDuel Research content, be sure to[add FanDuel as a preferred source on Google](https://www.google.com/preferences/source?q=fanduel)._
@@ -31,7 +31,7 @@ _Please note: lines and projections are subject to change throughout the day aft
 76ers at Pistons — 7:00 p.m. ET
 3+ Threes
 [Tyrese Maxey](https://sportsbook.fanduel.com/teams/nba/roster/tyrese-maxey-2885)
-+116
++114
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-detroit-pistons-36266779)
 Odds/lines subject to change
@@ -54,7 +54,7 @@ Timberwolves at Rockets — 8:30 p.m. ET
 Jabari Smith - Pts + Reb + Ast
 Jabari Smith Over
 O 22.5
--130
+-115
 Nov 5 1:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/minnesota-timberwolves-@-houston-rockets-36266782)
 Odds/lines subject to change
 [Jabari Smith](https://sportsbook.fanduel.com/teams/nba/roster/jabari-smith-3098) Jr. has enjoyed a productive start to the campaign for the [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/houston-rockets/odds), averaging 18.4 points, 6.4 rebounds, and 2.4 assists per game. That adds up to 27.2 combined points, rebounds, and assists, comfortably above tonight's 23.5 line.
@@ -64,7 +64,7 @@ Given his ability to contribute across multiple categories, Smith offers several
 Trail Blazers at Suns — 9:00 p.m. ET
 12+ Rebounds
 [Donovan Clingan](https://sportsbook.fanduel.com/teams/nba/roster/donovan-clingan-3294)
-+112
++114
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-phoenix-suns-36266775)
 Odds/lines subject to change
@@ -111,23 +111,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Heat vs Clippers Predictions Plus 3 Best Bets, Picks and NBA Player Props for NBA Tonight](https://www.fanduel.com/research/heat-vs-clippers-predictions-plus-3-best-bets-picks-and-nba-player-props-for-nba-tonight)
+18m
+Miami Heat -5.5, the under 233.5, and Giannis Antetokounmpo 30+ points headline the best bets and player props for Heat vs Clippers tonight.
+[](https://www.fanduel.com/research/heat-vs-clippers-predictions-plus-3-best-bets-picks-and-nba-player-props-for-nba-tonight)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA DFS Picks Today: Best FanDuel Plays for Wednesday, Nov. 4](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-wednesday-nov-4)
-3h
+5h
 FanDuel NBA DFS picks and best plays for Wednesday's main slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-wednesday-nov-4)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 4 NBA Predictions and Best Bets for Wednesday, Nov. 4](https://www.fanduel.com/research/nba-picks-today-nba-predictions-and-best-bets-for-wednesday-nov-4)
-4h
+6h
 What are the best NBA bets and picks for today? Five NBA predictions to target on Wednesday.
 [](https://www.fanduel.com/research/nba-picks-today-nba-predictions-and-best-bets-for-wednesday-nov-4)
 [NBA](https://www.fanduel.com/research/nba)
 ## [76ers vs. Pistons: NBA Prediction, Picks and Best Bets (Nov. 4)](https://www.fanduel.com/research/76ers-pistons-nba-prediction-picks-best-bets-nov-4)
-7h
+9h
 76ers vs. Pistons prediction and picks for Wednesday, November 4.
 [](https://www.fanduel.com/research/76ers-pistons-nba-prediction-picks-best-bets-nov-4)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Props Today: 4 Best NBA Player Prop Bets for Wednesday, Nov. 4](https://www.fanduel.com/research/nba-props-today-player-prop-bets-wednesday-nov-4)
-7h
-NBA prop bets to target today. What are the best NBA player props for Wednesday?
-[](https://www.fanduel.com/research/nba-props-today-player-prop-bets-wednesday-nov-4)
 
