@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-04 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-04 18:50 ET -->
 
 # NBA DFS Picks Today
 November 4, 2026
@@ -23,6 +23,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Wednesday, November 4 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (28) All NBA news Atlanta Hawks (ATL @ WSH) Boston Celtics (MIL @ BOS) Brooklyn Nets (CHA @ BKN) Charlotte Hornets (CHA @ BKN) Chicago Bulls (CHI @ NYK) Cleveland Cavaliers (CLE @ OKC) Dallas Mavericks (DAL @ SAN) Denver Nuggets (TOR @ DEN) Detroit Pistons (PHI @ DET) Houston Rockets (MIN @ HOU) Indiana Pacers (IND @ MEM) Los Angeles Clippers (MIA @ LAC) Los Angeles Lakers (LAL @ SAC) Memphis Grizzlies (IND @ MEM) Miami Heat (MIA @ LAC) Milwaukee Bucks (MIL @ BOS) Minnesota Timberwolves (MIN @ HOU) New Orleans Pelicans (UTA @ NOP) New York Knicks (CHI @ NYK) Oklahoma City Thunder (CLE @ OKC) Philadelphia 76ers (PHI @ DET) Phoenix Suns (POR @ PHX) Portland Trail Blazers (POR @ PHX) Sacramento Kings (LAL @ SAC) San Antonio Spurs (DAL @ SAN) Toronto Raptors (TOR @ DEN) Utah Jazz (UTA @ NOP) Washington Wizards (ATL @ WSH)
+Dallas MavericksDAL @ SAN - 9:30 PM ET
+**[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)** _F_ OUT6:38 PM ET
+#### Now out Wednesday
+Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports.
+Analysis
+Aldama was initially listed as questionable and participated in Wednesday's morning shootaround, though he was later downgraded to doubtful before being ruled out. His next opportunity to make his season debut will come Friday against the Jazz.
+Washington WizardsATL @ WSH - 7:00 PM ET
+**[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)** _C_ 6:36 PM ET
+#### Not starting Wednesday
+Ayton won't start Wednesday's game against the Hawks.
+Analysis
+With Alex Sarr (knee) back in the lineup, Ayton will retreat to the second unit. The veteran center has averaged 5.7 points and 4.3 rebounds in 14.3 minutes per game across six outings off the bench this season.
+Charlotte HornetsCHA @ BKN - 7:30 PM ET
+**[Coby White](https://www.rotowire.com/basketball/player/coby-white-4801)** _G_ _Top_ 6:31 PM ET
+#### Good to go Wednesday
+White (calf) is available for Wednesday's game in Brooklyn.
+Analysis
+White was initially listed as probable due to left calf injury management, but he'll be available for the matchup. The veteran guard should handle his usual offensive responsibilities in Charlotte's backcourt, barring any restrictions related to his calf.
 Oklahoma City ThunderCLE @ OKC - 8:00 PM ET
 **[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)** _C_ OUT6:18 PM ET
 #### Sidelined against Cavaliers
@@ -35,25 +53,7 @@ Boston CelticsMIL @ BOS - 7:30 PM ET
 Pritchard (shoulder) is available for Wednesday's game against the Bucks, Taylor Snow of the Celtics' official site reports.
 Analysis
 Pritchard will shed his questionable tag due to a right shoulder contusion and keep his record of perfect attendance this season alive. The 28-year-old guard has been inconsistent on the offensive end through seven regular-season games, averaging 13.4 points, 3.4 assists, 3.0 rebounds and 0.9 steals in 27.9 minutes per contest. He could see increased burn Wednesday in the absence of Jayson Tatum (rest).
-New Orleans PelicansUTA @ NOP - 8:00 PM ET
-**[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)** _F_ OUT _Top_ 6:10 PM ET
-#### Won't play Wednesday
-Murphy (knees) is listed as out for Wednesday's game against Utah.
-Analysis
-Murphy was listed as probable initially. However, after being downgraded to questionable, he will now be sidelined for the first time in 2026-27. With Murphy ruled out, Saddiq Bey and Herbert Jones should see more minutes off the bench.
-Washington WizardsATL @ WSH - 7:00 PM ET
-**[Bilal Coulibaly](https://www.rotowire.com/basketball/player/bilal-coulibaly-5945)** _F_ 6:06 PM ET
-#### Available Wednesday
-Coulibaly (illness) is available for Wednesday's game against the Hawks.
-Analysis
-Coulibaly is under the weather Wednesday but is giving it a go for the Wizards. Now that AJ Dybantsa's minutes restriction is lifted, Coulibaly could see less playing time going forward.
-Atlanta HawksATL @ WSH - 7:00 PM ET
-**[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)** _F_ OUT _Top_ 6:05 PM ET
-#### Out again Wednesday
-Johnson (ankle) is listed as out for Wednesday's game in Washington.
-Analysis
-Johnson sustained a sprained left ankle in Saturday's 121-99 loss to the Pelicans and wasn't available for Monday's meeting with Indiana. Now that the 24-year-old is ruled out for a second consecutive game, his next opportunity to get back on the floor will come Friday for the rematch with the Wizards. Without Johnson, Luguentz Dort is expected to stay in the starting lineup.
-Show 5 more (26 remaining)
+Show 5 more (29 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -64,7 +64,7 @@ Main Slate - 11 games - 7:00 PM Nov 5 - Main Slate - 2 games - 9:00 PM (lineups 
 Implied total vs. the slate _Lowest_ _Highest_
 **PHI @ DET**
 O/U 219.57:00 PM ET
-76ersExpectedAway
+76ersConfirmedAway
 _Implied_**108.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -73,7 +73,7 @@ _Implied_**108.5** _Spread_**+2.5**
 | PG  | Tyrese Maxey  | $9,100  | 37.4  |  
 | SF  | Jaylen Brown  | $8,100  | 38.0  |  
 | SG  | VJ Edgecombe  | $6,600  | 27.6  |  
-PistonsExpectedHome
+PistonsConfirmedHome
 _Implied_**111.0** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -84,21 +84,21 @@ _Implied_**111.0** _Spread_**-2.5**
 | SG  | Duncan Robinson  | $5,100  | 26.5  |  
 **ATL @ WSH**
 O/U 229.57:00 PM ET
-HawksExpectedAway
+HawksConfirmedAway
 _Implied_**115.5** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,400  | 38.8  |  
 | PF  | Luguentz Dort  | $4,700  | 25.6  |  
-| PG  | CJ McCollum  | $6,200  | 34.4  |  
-| SF  | Dyson Daniels  | $6,700  | 33.9  |  
+| PG  | Kingston Flemings  | $4,400  | 20.8  |  
+| SF  | Dyson Daniels  | $6,700  | 33.8  |  
 | SG  | Nickeil Alexander-Walker  | $6,900  | 34.4  |  
-WizardsExpectedHome
+WizardsConfirmedHome
 _Implied_**114.0** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 26.1  |  
-| PF  | Anthony Davis  | $8,400  | 43.4  |  
+| PF  | Anthony Davis  | $8,400  | 43.3  |  
 | PG  | Trae Young  | $7,900  | 39.5  |  
 | SF  | AJ Dybantsa  | $6,000  | 26.4  |  
 | SG  | Kyshawn George  | $5,500  | 32.4  |  
@@ -117,11 +117,11 @@ CelticsExpectedHome
 _Implied_**117.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Neemias Queta  | $4,900  | 27.3  |  
-| PF  | Paul George  | $7,200  | 39.9  |  
-| PG  | Derrick White  | $6,700  | 34.8  |  
+| C  | Neemias Queta  | $4,900  | 27.4  |  
+| PF  | Paul George  | $7,200  | 40.0  |  
+| PG  | Derrick White  | $6,700  | 34.9  |  
 | SF  | Baylor Scheierman  | $3,800  | 20.4  |  
-| SG  | Hugo Gonzalez  | $3,300  | 16.9  |  
+| SG  | Hugo Gonzalez  | $3,300  | 17.0  |  
 **CHA @ BKN**
 O/U 213.57:30 PM ET
 HornetsExpectedAway
@@ -157,11 +157,11 @@ KnicksExpectedHome
 _Implied_**122.5** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karl-Anthony Towns  | $8,300  | 51.2  |  
-| PF  | OG Anunoby  | $6,200  | 35.2  |  
-| PG  | Jalen Brunson  | $8,100  | 45.0  |  
-| SF  | Landry Shamet  | $3,900  | 25.2  |  
-| SG  | Mikal Bridges  | $4,900  | 26.9  |  
+| C  | Karl-Anthony Towns  | $8,300  | 51.5  |  
+| PF  | OG Anunoby  | $6,200  | 35.4  |  
+| PG  | Jalen Brunson  | $8,100  | 45.5  |  
+| SF  | Landry Shamet  | $3,900  | 25.4  |  
+| SG  | Mikal Bridges  | $4,900  | 25.2  |  
 **IND @ MEM**
 O/U 228.58:00 PM ET
 PacersExpectedAway
@@ -172,7 +172,7 @@ _Implied_**111.0** _Spread_**+6.5**
 | PF  | Pascal Siakam  | $8,200  | 38.5  |  
 | PG  | Andrew Nembhard  | $7,400  | 34.1  |  
 | SF  | Aaron Nesmith  | $4,400  | 23.8  |  
-| SG  | Kelly OubreQ  | $4,600  | 20.1  |  
+| SG  | Kelly OubreQ  | $4,600  | 20.2  |  
 GrizzliesExpectedHome
 _Implied_**117.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
@@ -188,19 +188,19 @@ JazzExpectedAway
 _Implied_**113.0** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jaxson Hayes  | $5,400  | 22.5  |  
-| PF  | Lauri Markkanen  | $7,400  | 37.2  |  
+| C  | Jaxson Hayes  | $5,400  | 22.6  |  
+| PF  | Lauri Markkanen  | $7,400  | 37.3  |  
 | PG  | Keyonte George  | $7,700  | 36.1  |  
 | SF  | Ace Bailey  | $6,700  | 29.5  |  
-| SG  | Darryn Peterson  | $6,400  | 31.4  |  
+| SG  | Darryn Peterson  | $6,400  | 31.5  |  
 PelicansExpectedHome
 _Implied_**118.5** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karlo Matkovic  | $4,500  | 22.8  |  
-| PF  | Zion Williamson  | $7,600  | 38.0  |  
-| PG  | Dejounte Murray  | $7,800  | 39.7  |  
-| SF  | Herbert Jones  | $4,600  | 22.1  |  
+| PF  | Zion Williamson  | $7,600  | 38.1  |  
+| PG  | Dejounte Murray  | $7,800  | 39.8  |  
+| SF  | Herbert Jones  | $4,600  | 22.2  |  
 | SG  | Jeremiah Fears  | $6,600  | 30.2  |  
 **CLE @ OKC**
 O/U 226.58:00 PM ET
@@ -248,11 +248,11 @@ RaptorsExpectedAway
 _Implied_**113.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jakob PoeltlQ  | $4,100  | 21.6  |  
-| PF  | Scottie Barnes  | $8,600  | 42.3  |  
-| PG  | Immanuel Quickley  | $6,900  | 33.7  |  
-| SF  | Ja'Kobe Walter  | $4,900  | 30.1  |  
-| SG  | RJ Barrett  | $7,100  | 36.9  |  
+| C  | Jakob PoeltlQ  | $4,100  | 20.0  |  
+| PF  | Scottie Barnes  | $8,600  | 42.6  |  
+| PG  | Immanuel Quickley  | $6,900  | 33.9  |  
+| SF  | Ja'Kobe Walter  | $4,900  | 30.3  |  
+| SG  | RJ Barrett  | $7,100  | 37.2  |  
 NuggetsExpectedHome
 _Implied_**118.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
@@ -293,16 +293,16 @@ Main slatesMain - 11 games - 7:00 PMMain - 2 games - 10:00 PMMain - 3 games - 7:
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Landry ShametNYK - SG  | vs CHI  | $3,900  | 32  | 25.2  | **6.47**  |  
-| 2  |  Miles McBrideNYK - PG  | vs CHI  | $3,700  | 25  | 23.2  | **6.27**  |  
-| 3  |  Jalen SmithCHI - C  | @ NYK  | $5,200  | 28  | 32.3  | **6.21**  |  
-| 4  |  Karl-Anthony TownsNYK - PF  | vs CHI  | $8,300  | 34  | 51.2  | **6.16**  |  
-| 5  |  Ja'Kobe WalterTOR - SG  | @ DEN  | $4,900  | 32  | 30.1  | **6.15**  |  
+| 1  |  Landry ShametNYK - SG  | vs CHI  | $3,900  | 32  | 25.4  | **6.51**  |  
+| 2  |  Miles McBrideNYK - PG  | vs CHI  | $3,700  | 25  | 23.4  | **6.31**  |  
+| 3  |  Karl-Anthony TownsNYK - PF  | vs CHI  | $8,300  | 34  | 51.5  | **6.21**  |  
+| 4  |  Jalen SmithCHI - C  | @ NYK  | $5,200  | 28  | 32.3  | **6.21**  |  
+| 5  |  Ja'Kobe WalterTOR - SG  | @ DEN  | $4,900  | 32  | 30.3  | **6.18**  |  
 | 6  |  Chaney JohnsonBKN - SF  | vs CHA  | $4,200  | 28  | 25.8  | **6.15**  |  
 | 7  |  Onyeka OkongwuATL - C  | @ WSH  | $6,400  | 31  | 38.8  | **6.06**  |  
 | 8  |  Mario HezonjaCLE - SF  | @ OKC  | $3,900  | 26  | 23.4  | **5.99**  |  
 | 9  |  Kenrich WilliamsOKC - SF  | vs CLE  | $4,500  | 28  | 26.8  | **5.95**  |  
-| 10  |  Kyshawn GeorgeWSH - SG  | vs ATL  | $5,500  | 33  | 32.4  | **5.90**  |  
+| 10  |  Kyshawn GeorgeWSH - SG  | vs ATL  | $5,500  | 33  | 32.4  | **5.89**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 

@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-04 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-04 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,117 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Jaylin Williams](https://images.fantasypros.com/images/players/nba/5491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylin-williams.php)
+C - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/jaylin-williams.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylin-williams.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylin-williams.php)
+[Jaylin Williams (back) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617892/jaylin-williams-back-ruled-out-wednesday.php)  
+
+Wed, Nov 4th 6:41pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jaylin Williams has been ruled out for Wednesday’s game against the Cavaliers. 
+**_Fantasy Impact:_** Williams will be sidelined after being listed as questionable. His absence shouldn't have too much of an impact on the rotation for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dejounte Murray](https://images.fantasypros.com/images/players/nba/3199/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dejounte-murray.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/dejounte-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dejounte-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/dejounte-murray.php)
+[Dejounte Murray (personal) available Wednesday ](https://www.fantasypros.com/nba/news/617891/dejounte-murray-personal-available-wednesday.php)  
+
+Wed, Nov 4th 6:40pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dejounte Murray is available for Wednesday’s game against the Jazz.
+**_Fantasy Impact:_** Murray had missed the past few games. He'll be back in his starting role for the Pelicans. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
+[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
+[Trey Murphy III (knee) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617890/trey-murphy-iii-knee-ruled-out-wednesday.php)  
+
+Wed, Nov 4th 6:39pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Trey Murphy III has been ruled out for Wednesday’s game against the Jazz. 
+**_Fantasy Impact:_** Murphy will be sidelined after being listed as questionable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Payton Pritchard](https://images.fantasypros.com/images/players/nba/5097/headshot/100x100.png)](https://www.fantasypros.com/nba/players/payton-pritchard.php)
+G - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/payton-pritchard.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/payton-pritchard.php)  
+[» More News](https://www.fantasypros.com/nba/news/payton-pritchard.php)
+[Payton Pritchard (shoulder) available Wednesday ](https://www.fantasypros.com/nba/news/617889/payton-pritchard-shoulder-available-wednesday.php)  
+
+Wed, Nov 4th 6:38pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Payton Pritchard is available for Wednesday’s game against the Bucks. 
+**_Fantasy Impact:_** Pritchard is good to go after being listed as questionable. He should remain in his usual role for the Celtics. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Bilal Coulibaly](https://images.fantasypros.com/images/players/nba/5988/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/bilal-coulibaly.php)  
+[» More News](https://www.fantasypros.com/nba/news/bilal-coulibaly.php)
+[Bilal Coulibaly (illness) available Wednesday ](https://www.fantasypros.com/nba/news/617888/bilal-coulibaly-illness-available-wednesday.php)  
+
+Wed, Nov 4th 6:37pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Bilal Coulibaly is available for Wednesday’s game against the Hawks. 
+**_Fantasy Impact:_** Coulibaly is good to go after being listed as questionable. He should remain in his usual starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alex Sarr](https://images.fantasypros.com/images/players/nba/6171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-sarr.php)
+C - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/alex-sarr.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alex-sarr.php)  
+[» More News](https://www.fantasypros.com/nba/news/alex-sarr.php)
+[Alex Sarr (knee) available Wednesday ](https://www.fantasypros.com/nba/news/617887/alex-sarr-knee-available-wednesday.php)  
+
+Wed, Nov 4th 6:36pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alex Sarr is available for Wednesday’s game against the Hawks. 
+**_Fantasy Impact:_** Sarr is good to go after being listed as questionable. He should remain in his usual starting role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Johnson](https://images.fantasypros.com/images/players/nba/5353/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)
+F - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-johnson-f-f.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-johnson-f-f.php)
+[Jalen Johnson (ankle) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617886/jalen-johnson-ankle-ruled-out-wednesday.php)  
+
+Wed, Nov 4th 6:35pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Johnson has been ruled out for Wednesday’s game against the Wizards. 
+**_Fantasy Impact:_** Johnson will remain sidelined after being listed as questionable. Luguentz Dort should see another spot start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Landry Shamet](https://images.fantasypros.com/images/players/nba/3532/headshot/100x100.png)](https://www.fantasypros.com/nba/players/landry-shamet.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/landry-shamet.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/landry-shamet.php)  
+[» More News](https://www.fantasypros.com/nba/news/landry-shamet.php)
+[Landry Shamet to start Wednesday ](https://www.fantasypros.com/nba/news/617885/landry-shamet-to-start-wednesday.php)  
+
+Wed, Nov 4th 6:34pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Landry Shamet will start for the Knicks in Wednesday's game against the Bulls. (Source: [Stefan Bondy on Twitter](https://x.com/SbondyNBA/status/2118115329767592002))
+**_Fantasy Impact:_** Shamet will get the spot start with Josh Hart (ankle) sidelined. 
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Precious Achiuwa](https://images.fantasypros.com/images/players/nba/5096/headshot/100x100.png)](https://www.fantasypros.com/nba/players/precious-achiuwa.php)
 F - SAC
 [» Rankings](https://www.fantasypros.com/nba/players/precious-achiuwa.php)  
@@ -133,20 +244,6 @@ Reece Beekman will be re-evaluated in late November. (Source: [Washington Wizard
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Bilal Coulibaly](https://images.fantasypros.com/images/players/nba/5988/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/bilal-coulibaly.php)  
-[» More News](https://www.fantasypros.com/nba/news/bilal-coulibaly.php)
-[Bilal Coulibaly (illness) now questionable Wednesday ](https://www.fantasypros.com/nba/news/617818/bilal-coulibaly-illness-now-questionable-wednesday.php)  
-
-Wed, Nov 4th 2:28pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Bilal Coulibaly is now questionable for Wednesday’s game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
-**_Fantasy Impact:_** Coulibaly is a late addition to the injury report. He will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Jayson Tatum](https://images.fantasypros.com/images/players/nba/3316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jayson-tatum.php)
 F - BOS
 [» Rankings](https://www.fantasypros.com/nba/players/jayson-tatum.php)  
@@ -186,104 +283,6 @@ Wed, Nov 4th 2:25pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Josh Hart has been ruled out for Wednesday’s game against the Bulls. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
 **_Fantasy Impact:_** Hart will be sidelined after being listed as questionable. Landry Shamet could see the spot start in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Terrence Shannon Jr.](https://images.fantasypros.com/images/players/nba/6149/headshot/100x100.png)](https://www.fantasypros.com/nba/players/terrence-shannon.php)
-F - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/terrence-shannon.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/terrence-shannon.php)  
-[» More News](https://www.fantasypros.com/nba/news/terrence-shannon.php)
-[Terrence Shannon Jr. (hip) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617814/terrence-shannon-jr-hip-ruled-out-wednesday.php)  
-
-Wed, Nov 4th 2:23pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Terrence Shannon Jr. has been ruled out for Wednesday’s game against the Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
-**_Fantasy Impact:_** Shannon will be sidelined after being listed as questionable. His absence does not impact the Timberwolves rotation for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
-[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
-[Trey Murphy III (knee) now questionable Wednesday ](https://www.fantasypros.com/nba/news/617813/trey-murphy-iii-knee-now-questionable-wednesday.php)  
-
-Wed, Nov 4th 2:22pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trey Murphy III has been downgraded to questionable to play against the Jazz on Wednesday. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
-**_Fantasy Impact:_** Murphy is a late addition to the injury report. He will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Clint Capela](https://images.fantasypros.com/images/players/nba/2906/headshot/100x100.png)](https://www.fantasypros.com/nba/players/clint-capela.php)
-C - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/clint-capela.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/clint-capela.php)  
-[» More News](https://www.fantasypros.com/nba/news/clint-capela.php)
-[Clint Capela (ankle) ruled out Wednesday ](https://www.fantasypros.com/nba/news/617812/clint-capela-ankle-ruled-out-wednesday.php)  
-
-Wed, Nov 4th 2:21pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Clint Capela has been ruled out for Wednesday’s game against the Timberwolves. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
-**_Fantasy Impact:_** Capela will miss a second straight game. His absence does not impact the Rockets rotation for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Santi Aldama](https://images.fantasypros.com/images/players/nba/5371/headshot/100x100.png)](https://www.fantasypros.com/nba/players/santi-aldama.php)
-F - DAL
-[» Rankings](https://www.fantasypros.com/nba/players/santi-aldama.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/santi-aldama.php)  
-[» More News](https://www.fantasypros.com/nba/news/santi-aldama.php)
-[Santi Aldama (knee) now doubtful Wednesday ](https://www.fantasypros.com/nba/news/617811/santi-aldama-knee-now-doubtful-wednesday.php)  
-
-Wed, Nov 4th 2:20pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Santi Aldama is now doubtful for Wednesday’s game against the Spurs. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf))
-**_Fantasy Impact:_** Aldama is trending towards missing another game. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kon Knueppel](https://images.fantasypros.com/images/players/nba/6315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kon-knueppel.php)
-F - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/kon-knueppel.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kon-knueppel.php)  
-[» More News](https://www.fantasypros.com/nba/news/kon-knueppel.php)
-[Kon Knueppel (hamstring) available for Wednesday against the Nets](https://www.fantasypros.com/nba/news/617783/kon-knueppel-hamstring-available-wednesday-against-nets.php)  
-
-Wed, Nov 4th 1:10pm EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Kon Knueppel (hamstring) is available for the Hornets game against the Nets on Wednesday. The talented forward will make his season debut. (Source: [Charlotte Hornets PR](https://x.com/hornetspr/status/2118040591586251059?a=MLYRVTVJ1TU2pxg638o&s=46))
-**_Fantasy Impact:_** It’s worth noting that Knueppel might have a minutes restriction in his first game back, though that has not been reported and is purely speculation. His return will greatly help the Hornets offense, and hopefully spur a nice win streak for the team starting with the Nets. He’s worth starting in fantasy lineups immediately.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jakob Poeltl](https://images.fantasypros.com/images/players/nba/3172/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jakob-poeltl.php)
-C - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/jakob-poeltl.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jakob-poeltl.php)  
-[» More News](https://www.fantasypros.com/nba/news/jakob-poeltl.php)
-[Jakob Poeltl (shoulder) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/617687/jakob-poeltl-shoulder-listed-questionable-wednesday.php)  
-
-Tue, Nov 3rd 8:36pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jakob Poeltl is listed as questionable for Wednesday’s game against the Nuggets.
-**_Fantasy Impact:_** Poeltl will be looking to return from a two-game absence. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Pascal Siakam](https://images.fantasypros.com/images/players/nba/3219/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pascal-siakam.php)
-F - IND
-[» Rankings](https://www.fantasypros.com/nba/players/pascal-siakam.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/pascal-siakam.php)  
-[» More News](https://www.fantasypros.com/nba/news/pascal-siakam.php)
-[Pascal Siakam (rest) off injury report Wednesday ](https://www.fantasypros.com/nba/news/617686/pascal-siakam-rest-off-injury-report-wednesday.php)  
-
-Tue, Nov 3rd 8:35pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Pascal Siakam is off the injury report for Wednesday’s game against the Grizzlies. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_08_00PM.pdf))
-**_Fantasy Impact:_** Siakam did not play in Monday’s loss to the Hawks. He will be back in his usual role. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

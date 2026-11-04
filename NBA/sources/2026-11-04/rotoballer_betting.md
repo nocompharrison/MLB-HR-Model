@@ -1,6 +1,5 @@
-<!-- source: https://www.rotoballer.com/nba-prop-bets-picks-for-draftkings-wednesday-11-4-26/1983348 | fetched: 2026-11-04 18:35 ET -->
+<!-- source: https://www.rotoballer.com/nba-prop-bets-picks-for-draftkings-wednesday-11-4-26/1983348 | fetched: 2026-11-04 18:50 ET -->
 
-![](https://cs.media.net/cksync?cs=3&gdpr=0&gdpr_consent=&gpp_sid=6%2C7&gpp_string=DBABzw~1YNY~BVQqAAAAAgA&ovsid=8e98fd0e-cc18-49d6-a765-39007e5c0653&redirect=https%3A%2F%2Fids.api.gcprivacy.id%2Fv1%2Frt%2Fsync%2Fmedianet%3Fgcid%3D8e98fd0e-cc18-49d6-a765-39007e5c0653%26id%3D%24%7Bssp_id%7D&type=gc&us_privacy=1YNY)
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
 [](https://www.rotoballer.com/nba-prop-bets-picks-for-draftkings-wednesday-11-4-26/1983348)
@@ -577,7 +576,7 @@ DEF
 [D'Andre Swift](http://www.rotoballer.com/nfl/player/21684/D%27Andre+Swift) CHI
 15
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Novig-RotoBaller-small.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-RotoBaller-small.png)](https://www.rotoballer.com/genius)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -637,19 +636,19 @@ RP
   * [NHL](https://www.rotoballer.com/nba-prop-bets-picks-for-draftkings-wednesday-11-4-26/1983348)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Deebo Samuel Sr.16 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Deebo Samuel Sr.31 min ago   
 Unlikely to Play in Week 9](https://www.rotoballer.com/player-news/christian-mccaffrey-mike-evans-deebo-samuel-out-of-practice-wednesday/1983904)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) Cam Skattebo27 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) Cam Skattebo42 min ago   
 Misses Wednesday's Practice With Hamstring Injury](https://www.rotoballer.com/player-news/cam-skattebo-misses-wednesdays-practice-with-hamstring-injury/1984063)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Jadarian Price28 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Jadarian Price43 min ago   
 to Have "Significantly" Fewer Restrictions in Week 9](https://www.rotoballer.com/player-news/jadarian-price-has-significantly-fewer-restrictions-in-week-9/1983918)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Sam Darnold42 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Sam Darnold57 min ago   
 Considered Week-to-Week With Quad, Rib Injuries](https://www.rotoballer.com/player-news/sam-darnold-deemed-week-to-week/1983931)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Terrence Shannon Jr.46 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Terrence Shannon Jr.1 h ago   
 Out on Wednesday](https://www.rotoballer.com/player-news/terrence-shannon-jr-out-on-wednesday/1984042)
-[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery48 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery1 h ago   
 Won't Return This Weekend](https://www.rotoballer.com/player-news/david-montgomery-wont-return-this-weekend/1983939)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs57 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs1 h ago   
 Not Worried About Missing Further Time](https://www.rotoballer.com/player-news/josh-jacobs-not-worried-about-missing-further-time-following-recent-allegations/1983959)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Breece Hall1 h ago   
 Trending Toward Week 9 Return](https://www.rotoballer.com/player-news/breece-hall-trending-toward-playing-sunday/1983988)
@@ -669,11 +668,11 @@ Rejoins Practice Wednesday](https://www.rotoballer.com/player-news/mathew-barzal
 Might Be an Option Thursday](https://www.rotoballer.com/player-news/evgeni-malkin-might-be-an-option-thursday/1984009)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nick Suzuki1 h ago   
 Questionable for Thursday](https://www.rotoballer.com/player-news/nick-suzuki-questionable-for-thursday/1983994)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Jayson Tatum1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Jayson Tatum2 h ago   
 Unavailable Against Bucks](https://www.rotoballer.com/player-news/jayson-tatum-unavailable-against-bucks/1983974)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Kleven1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Kleven2 h ago   
 Won't Play Wednesday](https://www.rotoballer.com/player-news/tyler-kleven-wont-play-wednesday/1983969)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) DeVonta Smith1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) DeVonta Smith2 h ago   
 Absent from Practice on Wednesday](https://www.rotoballer.com/player-news/devonta-smith-absent-from-practice-on-wednesday/1983967)
 [![](https://upload.wikimedia.org/wikipedia/en/8/8e/Philadelphia_Eagles_logo.svg) Saquon Barkley2 h ago   
 Absent from Practice on Wednesday](https://www.rotoballer.com/player-news/saquon-barkley-devonta-smith-dontayvion-wicks-absent-from-practice-wednesday/1983873)
@@ -695,19 +694,19 @@ Ruled Out vs. Cardinals With Quad Injury](https://www.rotoballer.com/player-news
 Not Practicing Wednesday With Hamstring Injury](https://www.rotoballer.com/player-news/cam-skattebo-hamstring-not-practicing-wednesday/1983727)
 [![](https://upload.wikimedia.org/wikipedia/en/7/74/Jacksonville_Jaguars_logo.svg) Bhayshul Tuten4 h ago   
 Still Not Practicing Wednesday](https://www.rotoballer.com/player-news/bhayshul-tuten-still-not-practicing-wednesday/1983734)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson5 h ago   
 out due to illness Wednesday](https://www.rotoballer.com/player-news/treveyon-henderson-out-due-to-illness-wednesday/1983709)
 [![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown5 h ago   
 Won't Practice Wednesday Due to Ankle/Knee Injury](https://www.rotoballer.com/player-news/a-j-brown-wont-practice-wednesday-due-to-ankle-knee-injury/1983705)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Breece Hall5 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Breece Hall6 h ago   
 Jets Planning on RB Timeshare if Breece Hall Returns in Week 9?](https://www.rotoballer.com/player-news/jets-planning-on-rb-timeshare-if-breece-hall-returns-in-week-9/1983691)
 [![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson6 h ago   
 in Concussion Protocol, Considered Day-to-Day](https://www.rotoballer.com/player-news/garrett-wilson-in-concussion-protocol-day-to-day-wednesday/1983662)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jiri Kulich8 h ago   
 Clears Concussion Protocol](https://www.rotoballer.com/player-news/jiri-kulich-clears-concussion-protocol/1983509)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Benson8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Benson9 h ago   
 Available Wednesday](https://www.rotoballer.com/player-news/zach-benson-available-wednesday/1983497)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Isaac Howard8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Isaac Howard9 h ago   
 Out for a "Couple of Weeks"](https://www.rotoballer.com/player-news/isaac-howard-out-for-couple-of-weeks/1983490)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tom Willander9 h ago   
 Nursing Lower-Body Injury](https://www.rotoballer.com/player-news/tom-willander-nursing-lower-body-injury/1983470)
@@ -721,17 +720,17 @@ Sustains Upper-Body Injury Tuesday](https://www.rotoballer.com/player-news/miro-
 Ends Three-Game Absence Wednesday](https://www.rotoballer.com/player-news/alex-caruso-ends-three-game-absence-wednesday/1983454)
 [![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Jaylin Williams9 h ago   
 Iffy for Wednesday Against Cleveland](https://www.rotoballer.com/player-news/jaylin-williams-iffy-for-wednesday-against-cleveland/1983451)
-[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Cameron Johnson9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Cameron Johnson10 h ago   
 Expected to Play Wednesday](https://www.rotoballer.com/player-news/cameron-johnson-expected-to-play-wednesday/1983446)
-[![](https://upload.wikimedia.org/wikipedia/en/e/ed/Los_Angeles_Clippers_%282024%29.svg) Rui Hachimura9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/e/ed/Los_Angeles_Clippers_%282024%29.svg) Rui Hachimura10 h ago   
 Off the Injury Report for Wednesday](https://www.rotoballer.com/player-news/rui-hachimura-off-the-injury-report-for-wednesday/1983441)
 [![](https://upload.wikimedia.org/wikipedia/en/e/ed/Los_Angeles_Clippers_%282024%29.svg) Derrick Jones Jr.10 h ago   
 Cleared to Face the Heat on Wednesday](https://www.rotoballer.com/player-news/derrick-jones-jr-cleared-to-face-the-heat-on-wednesday/1983437)
 [![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Jakob Poeltl10 h ago   
 Could Miss Third Straight Game](https://www.rotoballer.com/player-news/jakob-poeltl-could-miss-third-straight-game/1983430)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo21 h ago   
 Likely to Play Wednesday Versus Clippers](https://www.rotoballer.com/player-news/giannis-antetokounmpo-likely-to-play-wednesday-versus-clippers/1983299)
-[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Kawhi Leonard20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Kawhi Leonard21 h ago   
 Begins Return-to-Play Process](https://www.rotoballer.com/player-news/kawhi-leonard-begins-return-to-play-process/1983295)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Ivica Zubac21 h ago   
 Tagged as Questionable Against Memphis](https://www.rotoballer.com/player-news/ivica-zubac-tagged-as-questionable-against-memphis/1983285)
@@ -749,7 +748,7 @@ Ruled Out Again on Wednesday](https://www.rotoballer.com/player-news/peyton-wats
 Not Expected Back in the Bronx](https://www.rotoballer.com/player-news/jazz-chisholm-jr-not-expected-back-in-the-bronx/1983260)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Coby White21 h ago   
 Likely Available on Wednesday](https://www.rotoballer.com/player-news/coby-white-likely-available-on-wednesday/1983258)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Giancarlo Stanton21 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Giancarlo Stanton22 h ago   
 Yankees Plan to Bring Giancarlo Stanton to Spring Training](https://www.rotoballer.com/player-news/yankees-plan-to-bring-giancarlo-stanton-to-spring-training/1983250)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/mlb/mlb.png) MLB22 h ago   
 MLB Proposes Delaying Salary Cap Until 2028](https://www.rotoballer.com/player-news/mlb-proposes-delaying-salary-cap-until-2028/1983247)
@@ -757,9 +756,9 @@ MLB Proposes Delaying Salary Cap Until 2028](https://www.rotoballer.com/player-n
 Upgraded to Day-to-Day](https://www.rotoballer.com/player-news/john-tavares-upgraded-to-day-to-day/1983221)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Mantha23 h ago   
 Evan Rodrigues, Anthony Mantha Good to Go Tuesday](https://www.rotoballer.com/player-news/evan-rodrigues-anthony-mantha-good-to-go-tuesday/1983218)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kirby Dach23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kirby Dach1 d ago   
 Unavailable Against Jets](https://www.rotoballer.com/player-news/kirby-dach-unavailable-against-jets/1983215)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Sean Durzi23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Sean Durzi1 d ago   
 Remains Out Tuesday](https://www.rotoballer.com/player-news/sean-durzi-remains-out-tuesday/1983212)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Colton Parayko1 d ago   
 Misses Second Consecutive Game](https://www.rotoballer.com/player-news/colton-parayko-misses-second-consecutive-game/1983208)
@@ -833,5 +832,4 @@ Information from your device can be used to personalize your ad experience.
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
 A Raptive Partner Site
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m&gdpr=0)
 

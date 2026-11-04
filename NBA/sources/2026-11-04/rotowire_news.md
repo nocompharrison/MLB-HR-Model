@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,35 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)[Starting Wednesday](https://www.rotowire.com/basketball/headlines/kingston-flemings-news-starting-wednesday-537550)
+**G** Atlanta Hawks
+November 4, 2026
+Flemings will start Wednesday's game against the Wizards, [Brad Rowland of the Locked On Podcast Network](https://x.com/BTRowland/status/2118126286900166791?a=V8Xd_InozBIshJKvrn8&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Now out Wednesday](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-now-out-wednesday-537549)
+**F** Dallas Mavericks
+Knee
+November 4, 2026
+Aldama (knee) is out for Wednesday's game against the Spurs, [Grant Afseth of DallasHoopsJournal.com](https://x.com/GrantAfseth/status/2118124917124444388?a=ieHFeasc_XK7R8JlKAg&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)[Not starting Wednesday](https://www.rotowire.com/basketball/headlines/deandre-ayton-news-not-starting-wednesday-537548)
+**C** Washington Wizards
+November 4, 2026
+Ayton [won't start](https://x.com/WashWizards/status/2118124172094173467?a=TOUi8_dpwj7x3iX20Gc&s=20) Wednesday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Coby White](https://www.rotowire.com/basketball/player/coby-white-4801)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/coby-white-news-good-to-go-wednesday-537547)
+**G** Charlotte Hornets
+November 4, 2026
+White (calf) is [available](https://x.com/HornetsPR/status/2118123240975692136?a=mihdKRzdP4bEscA5gwc&s=20) for Wednesday's game in Brooklyn.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Sidelined against Cavaliers](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-sidelined-against-cavaliers-537546)
 **C** Oklahoma City Thunder
@@ -168,38 +197,6 @@ The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on W
 Ankle
 November 4, 2026
 Bamba (ankle) participated in Wednesday's morning shootaround, per [Shreyas Laddha of The Salt Lake Tribune](https://x.com/shre98/status/2118028834792452563?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Out with ankle sprain](https://www.rotowire.com/basketball/headlines/clint-capela-injury-out-with-ankle-sprain-537524)
-**C** Houston Rockets
-Ankle
-November 4, 2026
-Capela (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf) for Wednesday's game against the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-downgraded-to-questionable-537523)
-**F** New Orleans Pelicans
-Knee
-November 4, 2026
-Murphy (knees) is now [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_30PM.pdf) for Wednesday against the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-ruled-out-for-wednesday-537522)
-**F** Minnesota Timberwolves
-Hip
-November 4, 2026
-Shannon (hip) is [out](https://x.com/Twolves_PR/status/2118042336559030384) for Wednesday against the Rockets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)[Out with sore ankle](https://www.rotowire.com/basketball/headlines/josh-hart-injury-out-with-sore-ankle-537521)
-**F** New York Knicks
-Ankle
-November 4, 2026
-Hart is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_00PM.pdf) for Wednesday's game against the Bulls due to right ankle soreness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

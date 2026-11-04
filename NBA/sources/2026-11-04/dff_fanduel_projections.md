@@ -1,17 +1,10 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-04 18:35 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-04 18:50 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
 _Updated At:_ Wed, Nov 4, 2026, 6:31 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 8 GAME SLATE:
-WED 7:00PM ET · Main
-[ DraftKings ](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [ FanDuel ](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
-Wednesday, Nov 4
-Main · 8 Game Slate · 7:00PM ET
-[ SATOct 31 ](https://www.dailyfantasyfuel.com/nba/projections/fanduel/2026-10-31/)
-[ SUNNov 1 ](https://www.dailyfantasyfuel.com/nba/projections/fanduel/2026-11-01/)
-[ MONNov 2 ](https://www.dailyfantasyfuel.com/nba/projections/fanduel/2026-11-02/)
-[ WEDNov 4 ](https://www.dailyfantasyfuel.com/nba/projections/fanduel/2026-11-04/)  
+[ DraftKings ](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [ FanDuel ](https://www.dailyfantasyfuel.com/nba/projections/fanduel)  
 |  PLAYER  |  MATCHUP  |  PROJECTIONS  |  FANTASY POINTS TREND  |  VEGAS  |  
 | --- | --- | --- | --- | --- |  
  |  
@@ -51,7 +44,7 @@ Main · 8 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) D. Daniels  PG/SG · $6700 FPTS 33.3 VALUE 5.0x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Dyson Daniels   |  $6.7k  | EXP.  | ATL  | WAS  | 26  |  33.3  | 4.97  |   | 25.0  | 28.4  | 33.7  | 230.5  | 117  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) OG Anunoby  PF/SF · $5900 FPTS 32.8 VALUE 5.6x  | PF/SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) OG Anunoby   |  $5.9k  | EXP.  | NY  | CHI  | 24  |  32.8  | 5.56  |   | 28.6  | 32.0  | 32.6  | 233.5  | 122.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) T. Herro  SG · $7500 FPTS 32.3 VALUE 4.3x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Tyler Herro   |  $7.5k  | EXP.  | MIL  | BOS  | 1  |  32.3  | 4.30  |   | 32.2  | 33.5  | 33.7  | 221.5  | 105  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) P. Pritchard  Q PG/SG · $5600 FPTS 31.2 VALUE 5.6x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Payton Pritchard  Q  |  $5.6k  |   | BOS  | MIL  | 29  |  31.2  | 5.57  |   | 27.1  | 24.8  | 30.4  | 221.5  | 116.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) P. Pritchard  Q PG/SG · $5600 FPTS 32.2 VALUE 5.8x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Payton Pritchard  Q  |  $5.6k  |   | BOS  | MIL  | 29  |  32.2  | 5.75  |   | 27.1  | 24.8  | 30.4  | 221.5  | 116.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) J. Allen  C/PF · $6200 FPTS 31.1 VALUE 5.0x  | C/PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Jarrett Allen   |  $6.2k  | EXP.  | CLE  | OKC  | 14  |  31.1  | 5.01  |   | 34.8  | 32.0  | 31.8  | 226.5  | 111.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) A. Thompson  SF/SG · $6000 FPTS 31.1 VALUE 5.2x  | SF/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) Ausar Thompson   |  $6.0k  | EXP.  | DET  | PHI  | 19  |  31.1  | 5.19  |   | 27.6  | 27.8  | 29.3  | 220.5  | 111.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) Ajay Mitchell  SG/PG · $6400 FPTS 31.1 VALUE 4.9x  | SG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) Ajay Mitchell   |  $6.4k  | EXP.  | OKC  | CLE  | 14  |  31.1  | 4.87  |   | 35.0  | 27.4  | 26.8  | 226.5  | 115  |  
@@ -86,8 +79,8 @@ Main · 8 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Luguentz Dort  SG/SG · $3900 FPTS 22.5 VALUE 5.8x  | SG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Luguentz Dort   |  $3.9k  | EXP.  | ATL  | WAS  | 30  |  22.5  | 5.77  |   | 17.5  | 15.7  | 16.6  | 230.5  | 117  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) A. Nesmith  SF · $4900 FPTS 22.1 VALUE 4.5x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) Aaron Nesmith   |  $4.9k  | EXP.  | IND  | MEM  | 27  |  22.1  | 4.51  |   | 19.2  | 19.8  | 23.5  | 228.5  | 111  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Coby White  Q PG · $5100 FPTS 22.0 VALUE 4.3x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Coby White  Q  |  $5.1k  | EXP.  | CHA  | BKN  | 20  |  22.0  | 4.32  |   | 16.0  | 17.9  | 26.4  | 213.5  | 109  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) H. Jones  SF · $4100 FPTS 22.0 VALUE 5.4x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Herbert Jones   |  $4.1k  | EXP.  | NO  | UTA  | 30  |  22.0  | 5.36  |   | 17.3  | 13.2  | 21.9  | 231.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) M. Hezonja  SF · $3900 FPTS 21.9 VALUE 5.6x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Mario Hezonja   |  $3.9k  |   | CLE  | OKC  | 3  |  21.9  | 5.62  |   | 20.0  | 20.2  |   | 226.5  | 111.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) H. Jones  SF · $4100 FPTS 21.9 VALUE 5.3x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Herbert Jones   |  $4.1k  |   | NO  | UTA  | 30  |  21.9  | 5.35  |   | 17.3  | 13.2  | 21.9  | 231.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BKN.svg) M. Brown  PG · $4200 FPTS 21.9 VALUE 5.2x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BKN.svg) Mikel Brown   |  $4.2k  |   | BKN  | CHA  | 13  |  21.9  | 5.21  |   | 19.7  | 19.7  |   | 213.5  | 104.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) Aday Mara  C · $4200 FPTS 21.9 VALUE 5.2x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) Aday Mara   |  $4.2k  |   | OKC  | CLE  | 11  |  21.9  | 5.21  |   | 20.9  | 18.3  |   | 226.5  | 115  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Zach Edey  C · $5000 FPTS 21.7 VALUE 4.3x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Zach Edey   |  $5.0k  | EXP.  | MEM  | IND  | 22  |  21.7  | 4.33  |   | 20.8  | 27.9  | 33.9  | 228.5  | 117.5  |  
@@ -99,7 +92,6 @@ Main · 8 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) K. Matkovic  C · $4200 FPTS 21.3 VALUE 5.1x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Karlo Matkovic   |  $4.2k  | EXP.  | NO  | UTA  | 23  |  21.3  | 5.08  |   | 21.3  | 18.2  | 14.6  | 231.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) G. Allen  SG · $4700 FPTS 21.2 VALUE 4.5x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Grayson Allen   |  $4.7k  |   | CHA  | BKN  | 27  |  21.2  | 4.52  |   | 20.4  | 21.2  | 28.7  | 213.5  | 109  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) K. Flemings  PG · $4000 FPTS 21.2 VALUE 5.3x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Kingston Flemings   |  $4.0k  |   | ATL  | WAS  | 26  |  21.2  | 5.30  |   | 19.4  | 18.8  |   | 230.5  | 117  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) B. Coulibaly  SF · $4400 FPTS 21.0 VALUE 4.8x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) Bilal Coulibaly   |  $4.4k  |   | WAS  | ATL  | 15  |  21.0  | 4.77  |   | 18.9  | 25.5  | 26.3  | 230.5  | 113.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) D. Jenkins  PG · $4400 FPTS 20.7 VALUE 4.7x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) Daniss Jenkins   |  $4.4k  |   | DET  | PHI  | 8  |  20.7  | 4.70  |   | 22.0  | 23.2  | 19.4  | 220.5  | 111.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Kon Knueppel  Q SG · $5200 FPTS 20.6 VALUE 4.0x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Kon Knueppel  Q  |  $5.2k  | EXP.  | CHA  | BKN  | 27  |  20.6  | 3.96  |   | 21.0  | 22.6  | 30.5  | 213.5  | 109  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) J. Wells  SF · $4100 FPTS 20.5 VALUE 5.0x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Jaylen Wells   |  $4.1k  | EXP.  | MEM  | IND  | 1  |  20.5  | 5.01  |   | 19.2  | 18.4  | 20.8  | 228.5  | 117.5  |  
@@ -120,6 +112,7 @@ Main · 8 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) I. Stewart  PF · $4500 FPTS 18.4 VALUE 4.1x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Isaiah Stewart   |  $4.5k  |   | MEM  | IND  | 20  |  18.4  | 4.08  |   | 23.6  | 15.1  | 19.8  | 228.5  | 117.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) M. Robinson  C · $4000 FPTS 18.3 VALUE 4.6x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Mitchell Robinson   |  $4.0k  |   | BOS  | MIL  | 17  |  18.3  | 4.58  |   | 14.0  | 14.3  | 21.3  | 221.5  | 116.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) K. Huerter  SG · $3800 FPTS 18.1 VALUE 4.8x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DET.svg) Kevin Huerter   |  $3.8k  |   | DET  | PHI  | 22  |  18.1  | 4.75  |   | 15.5  | 12.1  | 20.1  | 220.5  | 111.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) B. Coulibaly  SF · $4400 FPTS 18.0 VALUE 4.1x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) Bilal Coulibaly   |  $4.4k  |   | WAS  | ATL  | 15  |  18.0  | 4.10  |   | 18.9  | 25.5  | 26.3  | 230.5  | 113.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) A. Drummond  C · $4000 FPTS 17.9 VALUE 4.5x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) Andre Drummond   |  $4.0k  |   | NY  | CHI  | 30  |  17.9  | 4.48  |   | 15.8  | 15.9  | 20.4  | 233.5  | 122.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Tre Jones  PG/SG · $4300 FPTS 17.6 VALUE 4.1x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Tre Jones   |  $4.3k  |   | CHI  | NY  | 5  |  17.6  | 4.09  |   | 20.7  | 24.6  | 28.5  | 233.5  | 111  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Sam Merrill  SG · $3800 FPTS 17.5 VALUE 4.6x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Sam Merrill   |  $3.8k  |   | CLE  | OKC  | 20  |  17.5  | 4.60  |   | 18.7  | 14.8  | 18.7  | 226.5  | 111.5  |  

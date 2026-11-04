@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-04 18:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-04 18:50 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -205,8 +205,8 @@ Thu
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 6 | Out | Nov 4: Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports. |
 | [Jock Landale](https://www.espn.com/nba/player/_/id/3146557/jock-landale) | C | Nov 6 | Out | Nov 3: Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports. |
-| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 4 | Day-To-Day | Nov 3: Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
 
@@ -236,8 +236,7 @@ Thu
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 4 | Out | Nov 3: Claxton (hamstring) is questionable for Wednesday against the Knicks. |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 4 | Day-To-Day | Nov 3: Smith is probable for Wednesday's game against the Knicks with a left finger sprain. |
+| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 8 | Out | Nov 4: Claxton (hamstring) is listed as out for Wednesday's game against New York. |
 
 ![Image 38: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
@@ -384,7 +383,7 @@ Thu
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 12 | Out | Nov 3: Barlow (back) won't play in Wednesday's game against the Pistons, Austin Krell of OnPattison.com reports. |
+| [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 18 | Out | Nov 4: Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
 ![Image 56: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
@@ -439,8 +438,6 @@ Thu
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Bilal Coulibaly](https://www.espn.com/nba/player/_/id/5104155/bilal-coulibaly) | G | Nov 4 | Day-To-Day | Nov 4: Coulibaly (illness) is questionable for Wednesday against the Hawks. |
-| [Alex Sarr](https://www.espn.com/nba/player/_/id/5160992/alex-sarr) | C | Nov 4 | Day-To-Day | Nov 3: Sarr (knee) is listed as questionable for Wednesday's game against Atlanta. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 9 | Out | Nov 1: Vukcevic (hip) is listed as out for Monday's game against Orlando. |
 | [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
@@ -448,67 +445,45 @@ Thu
 
 Data Provided by Rotowire
 
-Sponsored Headlines
+You May Like
 
-[](https://rhs.search.yahoo.com/rhs)[Search for full coverage car insurance seniors over 65 Yahoo Search | Car insurance 65+ | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for full coverage car insurance seniors over 65")
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
 
-Undo
+[](https://tryrovina.com/pages/internal-skincare-softgel-different-approach-vstd-850)[Don't Moisturize Crepey Skin. Tighten It With This Drugstore Item Rovina | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tryrovina.com/pages/internal-skincare-softgel-different-approach-vstd-850 "Don't Moisturize Crepey Skin. Tighten It With This Drugstore Item")
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
 
-Undo
+[](https://mecondstutiolin.com/2cd96ca3-5ce6-42f6-a0d4-51f61414ae18)[Receiving Less Than $3,950 In Social? These 11 Benefits Could Be Worth Checking!68% Of Pensioners Are Taking Advantage Of Them The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://mecondstutiolin.com/2cd96ca3-5ce6-42f6-a0d4-51f61414ae18 "Receiving Less Than $3,950 In Social? These 11 Benefits Could Be Worth Checking!")
 
-[](https://rhs.search.yahoo.com/rhs)[Search for highly rated Medicare plans 2027 Yahoo Search | Medicare plans 2027 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for highly rated Medicare plans 2027")
+[](https://trackingpages.online/cf/r/6aeafb62a06f8d2536e66363)[A Simple Morning Routine Helped Him Get Back to His Daily Walks and Easier Everyday Breathing TrendGuides | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://trackingpages.online/cf/r/6aeafb62a06f8d2536e66363 "A Simple Morning Routine Helped Him Get Back to His Daily Walks and Easier Everyday Breathing")
 
-Undo
+[](https://l.ottoinsurance.com/n)[Worst U.S. Zip Codes for Car Insurance (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Worst U.S. Zip Codes for Car Insurance (Is Yours On The List?)")
 
-[](https://rhs.search.yahoo.com/rhs)[Search for non profit member database software Research non profit member database software on Yahoo. View top results now.Yahoo Search | Nonprofit database | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for non profit member database software")
+[](https://wakeforwellness101.com/ml/6ae97579f9e41a74cba6aebb)[Doctors Say Mental Decline Isn't Aging: Just Stop Drinking These 3 Popular Beverages Wake For Wellness 101 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://wakeforwellness101.com/ml/6ae97579f9e41a74cba6aebb "Doctors Say Mental Decline Isn't Aging: Just Stop Drinking These 3 Popular Beverages")
 
-Undo
+[](https://thriveoptimaeveryday.com/thrive-optima-daily)[Sharp Seniors Avoid This 1 Boxed Cereal — 87% of Foggy Ones Eat It Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://thriveoptimaeveryday.com/thrive-optima-daily "Sharp Seniors Avoid This 1 Boxed Cereal — 87% of Foggy Ones Eat It")
 
-[](https://onlinefinance.net/savings-account-fs2)[Top Wednesday Savings Rates: Which Banks Made the List Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "Top Wednesday Savings Rates: Which Banks Made the List")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for best phone plans seniors Research best phone plans seniors on Yahoo. View top results now.Yahoo Search | Phone plans seniors | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for best phone plans seniors")
-
-Undo
-
-[](https://www.telidesk.com/freebusinessphone)[Flexible Phone Plans for Small Biz Telidesk is a game-changer for small businesses. Enjoy affordable phone service with 24/7 support. Try it free today.www.telidesk.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.telidesk.com/freebusinessphone "Flexible Phone Plans for Small Biz")
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for best private jet companies Research best private jet companies on Yahoo. View top results now.Yahoo Search | Private jet companies | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for best private jet companies")
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for find best book publishing company Research find best book publishing company on Yahoo. View top results now.Yahoo Search | Book publishing | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for find best book publishing company")
-
-Undo
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)")
 
 ### NBA News
 
-[![Image 63: Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP](https://a.espncdn.com/combiner/i?img=/photo/2026/1104/r1741195_1296x729_16-9.jpg&w=220) ## Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP San Antonio remains the favorites to win the NBA championship, but fast starts by Houston and Philadelphia have seen each of their odds shorten. * 23m * Doug Greenberg](https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds)
+[![Image 63: Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP](https://a.espncdn.com/combiner/i?img=/photo/2026/1104/r1741195_1296x729_16-9.jpg&w=220) ## Updated NBA championship, MVP odds: Rockets' odds shorten; Doncic leads for MVP San Antonio remains the favorite to win the NBA championship, but fast starts by Houston and Philadelphia have seen their odds shorten. * 30m * Doug Greenberg](https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds)
 
-[![Image 64: NBA Wednesday Teaser](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_nba_promo/dm_261104_nba_promo.jpg) ## NBA Wednesday Teaser NBA Wednesday Teaser * 1h](https://www.espn.com/video/clip/_/id/50382263/nba-wednesday-teaser)
+[![Image 64: NBA Wednesday Teaser](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_nba_promo/dm_261104_nba_promo.jpg) ## NBA Wednesday Teaser NBA Wednesday Teaser * 2h](https://www.espn.com/video/clip/_/id/50382263/nba-wednesday-teaser)
 
-[![Image 65: Shams Charania: Warriors will withhold payments from Kristaps Porzingis](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_152654067_3724903/ss_20261104_152654067_3724903.jpg) ## Shams Charania: Warriors will withhold payments from Kristaps Porzingis Shams Charania: Warriors will withhold payments from Kristaps Porzingis * 2h](https://www.espn.com/video/clip/_/id/50381574/warriors-withhold-payments-kristaps-porzingis)
+[![Image 65: Shams Charania: Warriors will withhold payments from Kristaps Porzingis](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_152654067_3724903/ss_20261104_152654067_3724903.jpg) ## Shams Charania: Warriors will withhold payments from Kristaps Porzingis Shams Charania: Warriors will withhold payments from Kristaps Porzingis * 3h](https://www.espn.com/video/clip/_/id/50381574/warriors-withhold-payments-kristaps-porzingis)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
+[](https://trackingpages.online/cf/r/6aeafb62a06f8d2536e66363)[Short of Breath on the Stairs? Why Many Seniors Are Trying This Simple Daily Routine TrendGuides | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trackingpages.online/cf/r/6aeafb62a06f8d2536e66363 "Short of Breath on the Stairs? Why Many Seniors Are Trying This Simple Daily Routine")
 
-Undo
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
 
-[](https://tryrovina.com/pages/internal-skincare-softgel-different-approach-vstd-850)[Don't Moisturize Crepey Skin. Tighten It With This Drugstore Item Rovina | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tryrovina.com/pages/internal-skincare-softgel-different-approach-vstd-850 "Don't Moisturize Crepey Skin. Tighten It With This Drugstore Item")
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for medicare advantage plans rated by customers Research medicare advantage plans rated by customers on Yahoo. View top results now.Yahoo Search | Medicare advantage | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for medicare advantage plans rated by customers")
-
-Undo
+[](https://wakeforwellness101.com/ml/6ae97579f9e41a74cba6aebb)[Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?Wake For Wellness 101 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://wakeforwellness101.com/ml/6ae97579f9e41a74cba6aebb "Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?")
 
 ![Image 66: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
