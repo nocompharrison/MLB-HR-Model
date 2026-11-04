@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-04 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,51 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Sidelined against Cavaliers](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-sidelined-against-cavaliers-537546)
+**C** Oklahoma City Thunder
+Back
+November 4, 2026
+Williams (back) is listed as out for Wednesday's game versus Cleveland, [Clemente Almanza of USA Today](https://x.com/CAlmanza1007/status/2118120120316838214?a=FlOFXRG75GeiW_f6FrI&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/payton-pritchard-news-good-to-go-wednesday-537545)
+**G** Boston Celtics
+November 4, 2026
+Pritchard (shoulder) is available for Wednesday's game against the Bucks, [Taylor Snow of the Celtics' official site](https://x.com/taylorcsnow/status/2118117018931208603?a=zQbGt5u4cuqGV7vZhwc&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-wont-play-wednesday-537544)
+**F** New Orleans Pelicans
+Knee
+November 4, 2026
+Murphy (knees) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_06_00PM.pdf) for Wednesday's game against Utah.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Bilal Coulibaly](https://www.rotowire.com/basketball/player/bilal-coulibaly-5945)[Available Wednesday](https://www.rotowire.com/basketball/headlines/bilal-coulibaly-news-available-wednesday-537543)
+**F** Washington Wizards
+November 4, 2026
+Coulibaly (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_06_00PM.pdf) for Wednesday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Out again Wednesday](https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-out-again-wednesday-537542)
+**F** Atlanta Hawks
+Ankle
+November 4, 2026
+Johnson (ankle) is [listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_06_00PM.pdf) as out for Wednesday's game in Washington.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Upgraded to available](https://www.rotowire.com/basketball/headlines/alex-sarr-news-upgraded-to-available-537541)
+**C** Washington Wizards
+November 4, 2026
+Sarr (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_06_00PM.pdf) for Wednesday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Landry Shamet](https://www.rotowire.com/basketball/player/landry-shamet-4414)[Starting versus Chicago](https://www.rotowire.com/basketball/headlines/landry-shamet-news-starting-versus-chicago-537540)
 **G** New York Knicks
@@ -157,58 +202,11 @@ November 4, 2026
 Hart is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_00PM.pdf) for Wednesday's game against the Bulls due to right ankle soreness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Kon Knueppel](https://www.rotowire.com/basketball/player/kon-knueppel-6540)[Cleared to play](https://www.rotowire.com/basketball/headlines/kon-knueppel-news-cleared-to-play-537520)
-**F** Charlotte Hornets
-November 4, 2026
-Knueppel (hamstring) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_01_00PM.pdf) for Wednesday against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)[Assigned to G League](https://www.rotowire.com/basketball/headlines/grant-williams-injury-assigned-to-g-league-537519)
-**F** Charlotte Hornets
-Hamstring
-November 4, 2026
-Charlotte [assigned](https://x.com/HornetsPR/status/2118036805031501987?a=_mq1nXBI5JzScxSO5lY&s=20) Williams (hamstring) to the G League's Greensboro Swarm on Wednesday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)[Confirmed out for Wednesday](https://www.rotowire.com/basketball/headlines/jayson-tatum-injury-confirmed-out-for-wednesday-537518)
-**F** Boston Celtics
-Rest
-November 4, 2026
-Tatum will be rested Wednesday against the Bucks, [Jack Simone of BostonSportsJournal.com](https://x.com/JackSimoneNBA/status/2118035731864007073) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Kam Jones](https://www.rotowire.com/basketball/player/kam-jones-6565)[Listed as questionable](https://www.rotowire.com/basketball/headlines/kam-jones-injury-listed-as-questionable-537517)
-**G** Milwaukee Bucks
-Ankle
-November 4, 2026
-Jones (ankle) is [questionable](https://x.com/Bucks/status/2118035051245961421?a=bmjWBAw1rDVoqHfdTa8&s=20) for Wednesday against the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Bilal Coulibaly](https://www.rotowire.com/basketball/player/bilal-coulibaly-5945)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/bilal-coulibaly-injury-downgraded-to-questionable-537516)
-**F** Washington Wizards
-Illness
-November 4, 2026
-Coulibaly (illness) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-04_12_30PM.pdf) for Wednesday against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Goes through shootaround](https://www.rotowire.com/basketball/headlines/santi-aldama-injury-goes-through-shootaround-537515)
-**F** Dallas Mavericks
-Knee
-November 4, 2026
-Aldama (knee) was spotted at Wednesday's morning shootaround, [Brad Townsend of The Dallas Morning News](https://x.com/townbrad/status/2118025035398922601?a=GPQKYWXXso91ikvCWQo&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
 [![MLB Draft Kit Logo](https://assets.rotowire.com/images/rebrand-assets/draft-kit/alt/mlb-draft-kit.jpg)](https://www.rotowire.com/baseball/draft-kit.php)
 #### [MLB Draft Kit](https://www.rotowire.com/baseball/draft-kit.php)
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)
 

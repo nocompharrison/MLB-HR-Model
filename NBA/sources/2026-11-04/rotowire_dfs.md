@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-4-145314 | fetched: 2026-11-04 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-4-145314 | fetched: 2026-11-04 18:35 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Wednesday, Nov. 4
 Get the best NBA bets today, with expert player prop picks on assists and made threes, plus odds from top sportsbooks for Wednesday’s Nov. 4 NBA slate.
@@ -28,7 +28,7 @@ Kevin Durant Under 3.5 Assists-112
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.46](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254) over 2.5 made threes (+102) at Oklahoma City Thunder
 _Fanduel, 4:48 PM ET_
 **Alex Barutha:** The Cavaliers are missing some crucial wing pieces in [Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722) and [Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277). That should allow Merrill to see more minutes and usage than usual. In his 24.1 minutes, he's hitting 1.7 threes, but that number was 3.0 threes in his 26.5 minutes last year. Plus, the Thunder are giving up the fifth-most made threes per game.
@@ -38,14 +38,14 @@ Sam Merrill Over 2.5 3-Pointers+102
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $5.10](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&operator_item_id=06dd583b-feb1-42c2-9d9e-9f775bd73f49&cta_id=ad986147-11d6-4a6a-8f6a-f65e7b300815&pageview_id=01a410d0-bf38-418f-9b4d-c941526a5638)
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&cta_id=d020ecd3-718f-4f9c-aeba-fe2f091a230c&operator_item_id=e5ececf0-9b56-449a-8c7c-7cd72faf7dd3&pageview_id=4aafdfd7-230d-4a15-8dc2-0efdc569d253)
 SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&operator_item_id=06dd583b-feb1-42c2-9d9e-9f775bd73f49&cta_id=2a7bb3cd-202f-438b-9009-d84cfd6252d6&pageview_id=01a410d0-bf38-418f-9b4d-c941526a5638)
-[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&operator_item_id=ee60d002-7f82-4517-a0c8-8b332f7e7dd6&cta_id=564503bd-512e-4d0e-89b3-6f43a37aed75&pageview_id=01a410d0-bf38-418f-9b4d-c941526a5638) SPECIAL OFFER 
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&cta_id=e2ea1689-2188-41b3-96f9-3042691c5b7e&operator_item_id=e5ececf0-9b56-449a-8c7c-7cd72faf7dd3&pageview_id=4aafdfd7-230d-4a15-8dc2-0efdc569d253)
+[ ![Rotowire Logo](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/logo-rotowire.png) ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&cta_id=b955738a-e070-480b-8c77-005846dabdc0&operator_item_id=b1a059d0-aaac-4f5a-8e1e-52a027657e5a&pageview_id=4aafdfd7-230d-4a15-8dc2-0efdc569d253) SPECIAL OFFER 
 Bet Like The Sharps, Get 7 Days Free
-[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&operator_item_id=ee60d002-7f82-4517-a0c8-8b332f7e7dd6&cta_id=47534273-14d9-45f7-aca8-607a93b1e693&pageview_id=01a410d0-bf38-418f-9b4d-c941526a5638)
+[ Subscribe Now ](https://bet.rotowire.com/rotowire/offer/92760#listid=85874&listtype=ranking-type-md&listlocation=_&listversion=20260323213755&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fbest-nba-bets-player-props-picks-wednesday-nov-4-145314&cta_id=2dd5c4b4-a2d6-4d6b-b80f-90841e1e1dfe&operator_item_id=b1a059d0-aaac-4f5a-8e1e-52a027657e5a&pageview_id=4aafdfd7-230d-4a15-8dc2-0efdc569d253)
 [ ProBets ](https://www.rotowire.com/smart-money/)
 ABOUT THE AUTHOR
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
@@ -58,6 +58,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
+[Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
+Doesn't practice Wednesday
+NFL
+Philadelphia Eagles
   * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
 [George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
 Limited in Wednesday's practice
@@ -78,11 +83,6 @@ Kansas City Chiefs
 Not practicing yet
 NFL
 New Orleans Saints
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Limited at Wednesday's walkthrough
-NFL
-Detroit Lions
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -121,24 +121,29 @@ Charlotte Hornets
 Confirmed out for Wednesday
 NBA
 Boston Celtics
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
-Upgraded to available
+  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131)
+Good to go Wednesday
 NBA
-Chicago Bulls
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
-Won't return from absence Wednesday
+Boston Celtics
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)
+Won't play Wednesday
 NBA
-Chicago Bulls
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[AJ Dybantsa](https://www.rotowire.com/basketball/player/aj-dybantsa-6925)
-Minutes restriction lifted
+New Orleans Pelicans
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
+Out again Wednesday
 NBA
-Washington Wizards
+Atlanta Hawks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
+[Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
+Doesn't practice Wednesday
+NFL
+Philadelphia Eagles
   * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
 [George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
 Limited in Wednesday's practice
@@ -159,11 +164,6 @@ Kansas City Chiefs
 Not practicing yet
 NFL
 New Orleans Saints
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Limited at Wednesday's walkthrough
-NFL
-Detroit Lions
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

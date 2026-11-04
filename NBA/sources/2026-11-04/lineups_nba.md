@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-04 18:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-04 18:35 ET -->
 
 
 ---
@@ -360,6 +360,48 @@ It’s hard to go against the home Pistons in this one, as they are one of the b
 
 ## 76ers-Pistons Odds (Spread, Moneyline, Over/Under)
 
+[](https://www.lineups.com/)12:00a
+
+![Image 32: PHI](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10214.png)
+
+PHI
+
+76ers
+
+![Image 33: DET](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10196.png)
+
+DET
+
+Pistons
+
+Spread
+
+ 
+
+[+2.5 _(48¢)_ _(PHI)_![Image 34](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)
+
+[-2.5 _(51¢)_ _(PHI)_![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)
+
+Money
+
+Line
+
+ 
+
+[45¢_(PHI)_![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)
+
+[56¢_(DET)_![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)
+
+Over
+
+Under
+
+ 
+
+[> 219.5 _(50¢)_ _(O/U)_![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)[< 219.5 _(50¢)_ _(O/U)_![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/660997/kalshi_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=660997 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 ## Deciding Factor: Paul Reed’s Stretch-Five Breakout vs. Joel Embiid’s 25-Minute Ceiling
 
 Detroit has been without Jalen Duren since he strained his right hamstring 10 minutes into the October 23 win over Miami, and while the team said he’d be out “at least two weeks,” he’s still not back for Wednesday’s rematch. Paul Reed has filled the gap capably rather than just adequately: since stepping into the void, he’s averaging 14 points, 7 rebounds and 2 assists while shooting better than 70% from three on nearly two attempts a night, giving Cade Cunningham a frontcourt partner who spaces the floor rather than just rolling to the rim. Reed flashed exactly that ceiling the night Duren went down, finishing 8-for-11 from the field (2-for-2 from deep) for 19 points and 11 rebounds, and his craftiness finishing around length has offset what Detroit’s missing inside. The results speak for themselves — the Pistons are 6-1, winners of three straight, and have held four consecutive opponents under 95 points, a defensive floor that travels regardless of who’s protecting the rim and gives Detroit a real chance to control tempo again tonight.
@@ -416,27 +458,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 41: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
 [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 #### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
-[![Image 33: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 42: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 34: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 43: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
 [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 #### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 44: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 
-[![Image 36: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
+[![Image 45: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
@@ -447,7 +489,7 @@ About the Author
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 38: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 39: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
+[![Image 46: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 47: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 48: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
 
 Thom Cunningham is the Lineups.com News Editor. He has worked in sports media for almost two decades as a content producer, including roles at Spectrum, VegasInsider.com, Oddschecker and VSiN. Over the last decade he has focused on the [sports betting](https://www.lineups.com/sports-betting/) and gaming space, tracking insights and data analytics and covering markets from the NFL to the Oscars. His MLB picks are also graded by [DailyOverlay](https://dailyoverlay.com/expert-grading/mlb-expert-grading/), which ranks industry experts.
 
@@ -462,7 +504,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
  Related Stories 
 
-[![Image 40: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 49: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
 [Sports Betting News](https://www.lineups.com/articles/)
 
@@ -472,7 +514,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
 
-[![Image 41: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 50: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -482,7 +524,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
 
-[![Image 42: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 51: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -492,7 +534,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 43: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
+[![Image 52: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -502,7 +544,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
 
-[![Image 44: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[![Image 53: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -512,7 +554,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
 
-[![Image 45: Denny McCarthy](https://www.lineups.com/wp-content/uploads/2026/11/Denny-McCarthy-390x230.jpg)](https://www.lineups.com/articles/2026-world-wide-technology-championship-four-longshots-pga-tour-sleepers-including-denny-mccarthy/)
+[![Image 54: Denny McCarthy](https://www.lineups.com/wp-content/uploads/2026/11/Denny-McCarthy-390x230.jpg)](https://www.lineups.com/articles/2026-world-wide-technology-championship-four-longshots-pga-tour-sleepers-including-denny-mccarthy/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4166,6 +4208,18 @@ Let’s dive into three player props that catch our eye Thursday. Be sure to[che
 
 ### **Darius Acuff (Kings vs. Pelicans) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10217.png)Darius Acuff Jr.
+
+[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661009/underdog_sc)[O/U Points Scored (vs. LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661009/underdog_sc)[23.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661009/underdog_sc)
+
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661009/polymarket_sc)[O/U Total Rebounds (vs. LAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661009/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661009/polymarket_sc)
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661009/polymarket_sc)[O/U Total Assists (vs. LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661009/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661009/polymarket_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darius_acuff_jr./player_276447 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Acuff has been thrust right into the fire from the onset of his career, and the rookie seventh overall pick has proven to be up to the challenge early on. Due to Ben Simmons’ unfortunate Achilles injury right before the start of the season, Acuff went from a projected second-unit member of the backcourt to the starting point guard. While Sacramento remains winless, the Arkansas product has roared back from a quiet Opening Night debut against the Clippers to supply 24.7 points, 5.3 assists and 2.7 rebounds across 35.3 minutes per contest over his subsequent three games.
 
 Acuff is likely to see a fair share of Dejounte Murray defense in Thursday’s matchup, but that hasn’t proven prohibitive for opposing point guards thus far. New Orleans is allowing the fourth-highest offensive efficiency rating to the position (32.0), along with 50% shooting, including 43.3% from behind the arc. Additionally, the Pels went into Tuesday allowing the second-most points (32.0) and second-most assists (11.7) per game to the position, and Acuff also boasts a team-high 32.2% usage rate and averages 26.6 points + assists per 36 minutes with Keegan Murray (out, ankle) off the floor.
@@ -4173,6 +4227,18 @@ Acuff is likely to see a fair share of Dejounte Murray defense in Thursday’s m
 **Original Line Publish:** 27.5
 
 ### **Jarrett Allen (Cavaliers vs. Hawks) Over Points + Rebounds**
+
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)Jarrett Allen
+
+[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661004/polymarket_sc)[O/U Points Scored (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_points/661004/polymarket_sc)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661004/polymarket_sc)
+
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661004/polymarket_sc)[O/U Total Rebounds (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661004/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661004/polymarket_sc)
+
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_blocks/661004/kalshi_sc)[O/U Total Blocks (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_blocks/661004/kalshi_sc)[0.5](https://lineups.go.metabet.io/bet/nba_game_player_blocks/661004/kalshi_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jarrett_allen/player_69891 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Allen is already churning out his usual production early this season, averaging 13.3 points and 9.0 rebounds per contest over his first four games. The veteran big man just pulled down a season-high 12 rebounds Wednesday night against the Wizards, the third straight game in which Allen had increased his production on the glass over that of the prior contest. Thursday marks the third game in four nights for both the Cavs and Hawks, but Allen is averaging a modest 27.7 minutes per game and shouldn’t be too fatigued this early in the season.
 
@@ -4183,6 +4249,16 @@ Finally, it’s worth noting the Hawks are allowing the seventh-most points in t
 **Original Line Publish**: 21.5
 
 ### **Ja Morant (Trail Blazers vs. Grizzlies) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10216.png)Ja Morant
+
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/132810/kalshi_sc)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/132810/kalshi_sc)[3¢](https://lineups.go.metabet.io/bet/nba_mvp_west/132810/kalshi_sc)
+
+[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/132810/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/132810/kalshi_sc)[8¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/132810/kalshi_sc)
+
+[![Image 44](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ja_morant/player_132810 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Morant has been a solid fit early in his Trail Blazers tenure, meshing well alongside Damian Lillard in the backcourt while averaging 22.6 points + assists across 26.7 minutes per game. Perhaps as encouraging as anything regarding his overall body of work is his career-best 58.8% shooting, including 44.4% from three-point range.
 
@@ -4218,27 +4294,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 45: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
 [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 #### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 46: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 47: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
 [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 #### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 48: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
 
 [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
 #### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
 
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 49: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
@@ -4249,7 +4325,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 50: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 51: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -4264,7 +4340,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 52: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
 
 [Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4274,7 +4350,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
 
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 53: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4284,7 +4360,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
 
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 54: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4294,7 +4370,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 55: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4304,7 +4380,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
+[![Image 56: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4314,7 +4390,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
 
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[![Image 57: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 

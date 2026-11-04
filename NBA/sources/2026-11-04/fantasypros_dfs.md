@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-wednesday-11-4-2026/ | fetched: 2026-11-04 11:11 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-wednesday-11-4-2026/ | fetched: 2026-11-04 18:35 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Wednesday \(11/4\)](https://cdn.fantasypros.com/wp-content/images/jamal_murray_nuggets-1/716x316.jpg)
 This is one of the most bizarre three-day stretches of the season. We had every team in action Monday, then no games on Tuesday. That’s left us with another massive slate here, with 28 teams in action and only two teams sitting. Having that many options in the player pool can be difficult, but it also opens up a ton of value. Every smart fantasy manager was stacking Indiana on Monday when they only had six players available, and it’s funny to see those sorts of things this early in the season. We shouldn’t have any nonsense like that here with everyone off on Tuesday, so let’s get into it!
@@ -87,5 +87,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ ROS Rankings ](https://www.fantasypros.com/nba/rankings/ros-overall.php)[ Dynasty Rankings ](https://www.fantasypros.com/nba/rankings/dynasty-overall.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9b9a9e9a979d989e66uokewi0e0y646o6g6e6m6e626k646m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
