@@ -1,14 +1,14 @@
 0,PLAYER,SALARY,PROJ,POS,PG,SG,SF,PF,PG/SG,SG/SF,SF/PF,PF/C,C,Team,,,,,Total,,Max,Min,,All (Exclude?),Count,,Locks?,Skip Google Sheet,Today's Schedule
-0,Shai Gilgeous-Alexander,9900,47.52,PG,0,46165,,,,,,,,OKC,,Salary,Score,Players,PG,1,2,2,,ATL,1,,,,Philadelphia 76ers vs Detroit Pistons 7:00p
+0,Shai Gilgeous-Alexander,9900,47.52,PG,0,46165,,,,,,,,OKC,,Salary,Score,Players,PG,1,2,2,,ATL,0,,,,Philadelphia 76ers vs Detroit Pistons 7:00p
 1,Karl-Anthony Towns,8400,47.04,C,,,,,,,,,1,NY,,59800,336.3,24442,SG,46165,2,2,,BKN,0,,,,Atlanta Hawks vs Washington Wizards 7:00p
 0,Cade Cunningham,9500,46.08,PG,0,,,,,,,,,DET,,,,,SF,1,2,2,,BOS,1,2,,,Milwaukee Bucks vs Boston Celtics 7:30p
 0,Jalen Johnson,9700,0,PF,,,,0,,,,,,ATL,,60000,,9,PF,0,2,2,,CHA,0,2,,,Charlotte Hornets vs Brooklyn Nets 7:30p
-1,Jalen Brunson,7900,41.08,PG,1,,,,,,,,,NY,,,,,C,4,1,1,,CHI,0,46167,,,Chicago Bulls vs New York Knicks 7:30p
+1,Jalen Brunson,7900,41.08,PG,1,,,,,,,,,NY,,,,,C,3,1,1,,CHI,0,46167,,,Chicago Bulls vs New York Knicks 7:30p
 0,Anthony Davis,9200,46,PF/C,,,,,,,,0,,WAS,,,,,PG/SG,2,4,2,,CLE,0,46166,,,Indiana Pacers vs Memphis Grizzlies 8:00p
 0,Paul George,7600,33.44,SF,,,0,,,,,,,BOS,,,,,SG/SF,46165,4,1,,DAL,0,1,,,Utah Jazz vs New Orleans Pelicans 8:00p
-0,Caleb Wilson,7300,35.17,PF/G/F/F/C/UTIL,,,,,,,,,,CHI,,,,,SF/PF,2,4,1,,DEN,0,4,,,Cleveland Cavaliers vs Oklahoma City Thunder 8:00p
-0,Joel Embiid,8800,35.2,C,,,,,,,,,0,PHI,,,,,PF/C,4,3,1,,DET,1,46166,,,Minnesota Timberwolves vs Houston Rockets 8:30p
-0,Cameron Boozer,7900,37.06,PF,,,,0,,,,,,MEM,,,,,Total,46173,46167,,,GSW,0,1,,,Toronto Raptors vs Denver Nuggets 9:00p
+0,Caleb Wilson,7300,35.17,PF/G/F/F/C/UTIL,,,,,,,,,,CHI,,,,,SF/PF,2,4,1,,DEN,0,3,,,Cleveland Cavaliers vs Oklahoma City Thunder 8:00p
+0,Joel Embiid,8800,35.2,C,,,,,,,,,0,PHI,,,,,PF/C,3,3,1,,DET,1,46166,,,Minnesota Timberwolves vs Houston Rockets 8:30p
+0,Cameron Boozer,7900,37.06,PF,,,,0,,,,,,MEM,,,,,Total,46172,46167,,,GSW,0,1,,,Toronto Raptors vs Denver Nuggets 9:00p
 0,Donovan Mitchell,8100,37.26,SG,,0,,,,,,,,CLE,Optimal Lineup - RotoBaller,Pos,Salary,Projection,11/4/26 5:48 PM,,,,,HOU,0,,,,Portland Trail Blazers vs Phoenix Suns 9:00p
 0,Trae Young,7700,40.04,PG,0,,,,,,,,,WAS,Jalen Brunson,PG,7900,41.08,,,,,,IND,0,,,,Dallas Mavericks vs San Antonio Spurs 9:30p
 0,Brandon Miller,8300,37.11,SF,,,0,,,,,,,CHA,Ty Jerome,SG,7800,42.12,,,,,,LAC,0,,,,Los Angeles Lakers vs Sacramento Kings 10:00p
@@ -29,7 +29,7 @@
 1,Paul Reed,6400,39.68,C,,,,,,,,,1,DET,,,,,,,,,,TOR,0,,,,
 0,Derrick White,5900,32.45,PG,0,,,,,,,,,BOS,,,,,,,,,,UTA,0,,,,
 1,OG Anunoby,5900,34.81,PF/SF,,,,,,,1,,,NY,,,,,,,,,,WAS,0,,,,
-1,Onyeka Okongwu,6000,33.6,C,,,,,,,,,1,ATL,,,,,,,,,,,8,,,,
+1,Onyeka Okongwu,6000,33.6,C/F/C/UTIL,,,,,,,,,,ATL,,,,,,,,,,,7,,,,
 0,James Harden,7100,34.79,PG,0,,,,,,,,,CLE,,,,,,,,,,,,,,,
 0,Tyler Herro,7500,32.25,SG,,0,,,,,,,,MIL,,,,,,,,,,,,,,,
 0,Trey Murphy,6900,0,SG/SF/G/F/F/C/UTIL,,,,,,,,,,NO,,,,,,,,,,,,,,,
@@ -38,7 +38,7 @@
 0,Ausar Thompson,6000,31.12,SF/SG,,,,,,0,,,,DET,,,,,,,,,,,,,,,
 0,Payton Pritchard,5600,0,PG/SG,,,,,0,,,,,BOS,,,,,,,,,,,,,,,
 0,Kyshawn George,5700,29.6,SG,,0,,,,,,,,WAS,,,,,,,,,,,,,,,
-0,Andrew Nembhard,7000,34.4,SG/PG,,,,,0,,,,,IND,Last Data Scrape: 11/4/2026 5:38:38 PM,,,,,,,,,,,,,,
+0,Andrew Nembhard,7000,34.4,SG/PG,,,,,0,,,,,IND,Last Data Scrape: 11/4/2026 6:47:52 PM,,,,,,,,,,,,,,
 0,Ajay Mitchell,6400,30.31,SG/PG,,,,,0,,,,,OKC,,,,,,,,,,,,,,,
 0,Dyson Daniels,6700,29.69,SF/SG,,,,,,0,,,,ATL,,,,,,,,,,,,,,,
 0,AJ Dybantsa,5800,30.58,SF,,,0,,,,,,,WAS,,,,,,,,,,,,,,,
