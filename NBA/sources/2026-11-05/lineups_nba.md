@@ -1,4 +1,600 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-05 11:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-05 16:12 ET -->
+
+
+---
+## SOURCE: https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/
+
+Title: NBA Player Props Today: Carter Jr. and Curry Best Bets
+
+URL Source: https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/
+
+Published Time: 2026-11-05T06:28:17-05:00
+
+Markdown Content:
+[Skip to content](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#main-site-content)
+
+[To Top](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#top)
+
+- [x] 
+
+[![Image 1: Lineups Logo](https://www.lineups.com/wp-content/uploads/2026/09/Logo.svg)Lineups](https://www.lineups.com/) Toggle Menu  
+
+*   [NFL Week 9](https://www.lineups.com/nfl/)Submenu opener 
+
+        *   [NFL Thanksgiving 2026 🦃](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+    *   [NFL Schedule TODAY](https://www.lineups.com/nfl/schedule/)
+    *   [NFL Betting Sites TOP](https://www.lineups.com/sports-betting/nfl/)Submenu opener 
+
+                *   [NFL Betting Promos](https://www.lineups.com/sports-betting/nfl/promos/)
+        *   [NFL Betting Trends](https://www.lineups.com/nfl/odds/betting-trends/)
+        *   [Week 8 NFL Survivor Picks](https://www.lineups.com/articles/nfl-week-8-survivor-picks-bengals-patriots-jaguars-round-out-top-picks/)
+
+    *   [NFL Articles](https://www.lineups.com/nfl-articles/)
+
+        *   [NFL Betting Odds](https://www.lineups.com/nfl/odds/)Submenu opener 
+
+                *   [Sunday Night Football Odds](https://www.lineups.com/nfl/odds/snf/)
+        *   [Monday Night Football Odds](https://www.lineups.com/nfl/odds/mnf/)
+        *   [Thursday Night Football Odds](https://www.lineups.com/nfl/odds/tnf/)
+        *   [NFL Player Props Odds](https://www.lineups.com/nfl/odds/player-props/)
+
+        *   TEAMS & PLAYERS Submenu opener 
+
+                *   [NFL Depth Charts](https://www.lineups.com/nfl/depth-charts/)
+        *   [NFL Teams](https://www.lineups.com/nfl/teams/)
+        *   [NFL Rosters](https://www.lineups.com/nfl/roster/)
+        *   [NFL Players](https://www.lineups.com/nfl/players/)
+        *   [NFL Standings](https://www.lineups.com/nfl/standings/)
+        *   [NFL Injuries](https://www.lineups.com/nfl/player-injuries/)
+        *   [NFL Matchups](https://www.lineups.com/nfl/matchups/)
+
+        *   STATS & ANALYSIS Submenu opener 
+
+                *   [NFL Team Stats](https://www.lineups.com/nfl/team-stats/)
+        *   [NFL Redzone Stats](https://www.lineups.com/nfl/redzone/)
+        *   [NFL Snap Counts](https://www.lineups.com/nfl/snap-counts/)
+        *   [NFL Time of Possession](https://www.lineups.com/nfl/time-of-possession/)
+        *   [NFL Team Rankings](https://www.lineups.com/nfl/team-rankings/)
+        *   [NFL Projections](https://www.lineups.com/nfl/dfs-projections/)
+
+*   [NBA](https://www.lineups.com/nba/)Submenu opener 
+
+        *   [NBA Schedule TODAY](https://www.lineups.com/nba/schedule/)
+    *   BETTING & ODDS GET READY Submenu opener 
+
+                *   [NBA Betting Sites](https://www.lineups.com/sports-betting/nba/)
+        *   [NBA Odds](https://www.lineups.com/nba/odds/)
+        *   [NBA Betting Trends](https://www.lineups.com/nba/odds/betting-trends/)
+
+    *   [NBA Articles](https://www.lineups.com/nba-articles/)
+
+        *   TEAMS & PLAYERS Submenu opener 
+
+                *   [NBA Starting Lineups](https://www.lineups.com/nba/lineups/)
+        *   [NBA Rosters](https://www.lineups.com/nba/roster/)
+        *   [NBA Teams](https://www.lineups.com/nba/teams/)
+        *   [NBA Players](https://www.lineups.com/nba/players/)
+        *   [NBA Matchups](https://www.lineups.com/nba/matchups/)
+        *   [NBA Depth Charts](https://www.lineups.com/nba/depth-charts/)
+        *   [NBA Injuries](https://www.lineups.com/nba/player-injuries/)
+        *   [NBA Standings](https://www.lineups.com/nba/standings/)
+
+        *   STATS & ANALYSIS Submenu opener 
+
+                *   [NBA Team Stats](https://www.lineups.com/nba/team-stats/)
+        *   [NBA Team Rankings](https://www.lineups.com/nba/team-rankings/)
+        *   [NBA Projected Minutes](https://www.lineups.com/nba/nba-player-minutes-per-game/)
+        *   [NBA Fantasy Projections](https://www.lineups.com/nba/nba-fantasy-basketball-projections/)
+
+*   [MLB](https://www.lineups.com/mlb/)Submenu opener 
+
+        *   [MLB Schedule TODAY](https://www.lineups.com/mlb/schedule/)
+    *   BETTING & ODDS GET READY Submenu opener 
+
+                *   [Best MLB Betting Sites](https://www.lineups.com/sports-betting/mlb/)
+        *   [MLB Odds](https://www.lineups.com/mlb/odds/)
+        *   [MLB Betting Trends](https://www.lineups.com/mlb/odds/betting-trends/)
+
+    *   [MLB Articles](https://www.lineups.com/mlb-articles/)
+
+        *   TEAMS & PLAYERS Submenu opener 
+
+                *   [MLB Starting Lineups](https://www.lineups.com/mlb/lineups/)
+        *   [MLB Probable Pitchers](https://www.lineups.com/mlb/probable-pitchers/)
+        *   [MLB Rosters](https://www.lineups.com/mlb/roster/)
+        *   [MLB Teams](https://www.lineups.com/mlb/teams/)
+        *   [MLB Players](https://www.lineups.com/mlb/players/)
+        *   [MLB Matchups](https://www.lineups.com/mlb/matchups/)
+        *   [MLB Depth Charts](https://www.lineups.com/mlb/depth-charts/)
+        *   [MLB Injuries](https://www.lineups.com/mlb/player-injuries/)
+        *   [MLB Standings](https://www.lineups.com/mlb/standings/)
+
+        *   STATS & ANALYSIS Submenu opener 
+
+                *   [MLB Team Stats](https://www.lineups.com/mlb/team-stats/)
+        *   [MLB Team Rankings](https://www.lineups.com/mlb/team-rankings/)
+        *   [MLB Fantasy Projections](https://www.lineups.com/mlb/fantasy-baseball-dfs-projections/)
+
+*   [NHL](https://www.lineups.com/nhl/)Submenu opener 
+
+        *   [NHL Schedule TODAY](https://www.lineups.com/nhl/schedule/)
+    *   [NHL Betting Sites](https://www.lineups.com/sports-betting/nhl/)Submenu opener 
+
+                *   [NHL Betting Trends](https://www.lineups.com/nhl/odds/betting-trends/)
+
+    *   [NHL Articles](https://www.lineups.com/nhl-articles/)
+
+        *   [NHL Betting Lines](https://www.lineups.com/nhl/odds/)Submenu opener 
+
+                *   [NHL Stanley Cup](https://www.lineups.com/nhl/odds/stanley-cup/)
+        *   [NHL Norris Trophy Odds](https://www.lineups.com/nhl/odds/norris/)
+        *   [NHL Calder Trophy Odds](https://www.lineups.com/nhl/odds/calder/)
+
+        *   TEAMS & PLAYERS Submenu opener 
+
+                *   [NHL Line Combinations](https://www.lineups.com/nhl/line-combinations/)
+        *   [NHL Starting Goalies](https://www.lineups.com/nhl/starting-goalies/)
+        *   [NHL Standings](https://www.lineups.com/nhl/standings/)
+
+    *   STATS & ANALYSIS Submenu opener 
+
+                *   [NHL Team Rankings](https://www.lineups.com/nhl/team-rankings/)
+        *   [NHL Fantasy Projections](https://www.lineups.com/nhl/dfs-projections/)
+
+*   [Sports Betting](https://www.lineups.com/sports-betting/)Submenu opener 
+
+        *   [Sportsbook Promos HOT](https://www.lineups.com/sports-betting/promos/)Submenu opener 
+
+                *   [bet365 Bonus Code](https://www.lineups.com/sports-betting/bet365-bonus-code/)Submenu opener 
+        *   [BetRivers Bonus Code](https://www.lineups.com/sports-betting/betrivers-bonus-code/)
+        *   [BetMGM Bonus Code](https://www.lineups.com/sports-betting/betmgm-promo-code/)
+        *   [DraftKings Promo Code](https://www.lineups.com/sports-betting/draftkings-promo-code/)
+        *   [FanDuel Promo Code](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+        *   [Fanatics Sportsbook Promo](https://www.lineups.com/sports-betting/fanatics-sportsbook-promo/)
+        *   [Hard Rock Bet Promo Code](https://www.lineups.com/sports-betting/hard-rock-bet-promo/)
+
+        *   [Best Online Sportsbooks](https://www.lineups.com/sports-betting/#best-sportsbooks)
+    *   [Where is Sports Betting Legal in the US?](https://www.lineups.com/sports-betting/states/)
+    *   [Best Sports Betting Apps](https://www.lineups.com/sports-betting/#sports-betting-apps)
+    *   [New Betting Sites](https://www.lineups.com/sports-betting/#new-betting-sites)
+    *   [Fastest Payouts Betting Apps & Sites](https://www.lineups.com/sports-betting/fast-withdrawal/)Submenu opener 
+
+                *   [![Image 2: Venmo Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/venmo-logo-40x40-1.webp)Venmo Betting Sites](https://www.lineups.com/sports-betting/venmo/)
+        *   [![Image 3: PayPal Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/paypal-logo-40x40-1.webp)PayPal Betting Sites](https://www.lineups.com/sports-betting/paypal/)
+
+    *   [List of Legal U.S. Online Betting Sites](https://www.lineups.com/sports-betting/#sports-betting-sites)
+    *   [Live Betting Sites](https://www.lineups.com/sports-betting/#live-betting-sites)
+
+        *   🍁 CANADA 🍁
+    *   [Canada Sports Betting](https://www.lineups.com/sports-betting/canada/)Submenu opener 
+
+                *   [Alberta Sports Betting NEW](https://www.lineups.com/sports-betting/canada/alberta/)
+        *   [Ontario Sports Betting](https://www.lineups.com/sports-betting/canada/ontario/)
+
+*   [Prediction Markets](https://www.lineups.com/prediction-markets/)Submenu opener 
+
+        *   TOP PREDICTION MARKETS
+    *   [![Image 4: Fanduel Predicts](https://www.lineups.com/wp-content/uploads/2026/08/fanduel-logo-40x40-2.webp)Fanduel Predicts TOP CHOICE](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/)
+    *   [![Image 5: OG.com](https://www.lineups.com/wp-content/uploads/2026/08/og-com-logo-40x40-1.webp)OG.com](https://www.lineups.com/prediction-markets/og-com-promo-code/)
+    *   [![Image 6: Polymarket](https://www.lineups.com/wp-content/uploads/2026/08/polymarket-logo-40x40-1.webp)Polymarket](https://www.lineups.com/prediction-markets/polymarket-promo-code/)
+    *   [![Image 7: ProphetX](https://www.lineups.com/wp-content/uploads/2026/08/prophetx-logo-40x40-1.webp)ProphetX](https://www.lineups.com/prediction-markets/prophetx-promo-code/)
+    *   [![Image 8: DraftKings Predictions](https://www.lineups.com/wp-content/uploads/2026/08/draftkings-logo-40x40-1.webp)DraftKings Predictions](https://www.lineups.com/prediction-markets/draftkings-predictions-promo-code/)
+    *   [![Image 9: Crypto.com](https://www.lineups.com/wp-content/uploads/2026/08/crypto-com-logo-40x40-1.webp)Crypto.com](https://www.lineups.com/prediction-markets/crypto-com-promo-code/)
+    *   [![Image 10: MooMoo](https://www.lineups.com/wp-content/uploads/2026/08/moomoo-5-1-110x110.png)MooMoo](https://www.lineups.com/prediction-markets/moomoo/)
+    *   [![Image 11: Gemini](https://www.lineups.com/wp-content/uploads/2026/10/gemini.svg)Gemini](https://www.lineups.com/prediction-markets/gemini-promo-code/)
+
+        *   Other Prediction Markets Platforms Submenu opener 
+
+                *   [Fanatics Market](https://www.lineups.com/prediction-markets/fanatics-markets-promo-code/)
+        *   [Forecastex](https://www.lineups.com/prediction-markets/forecastex-promo-code/)
+        *   [Kalshi](https://www.lineups.com/prediction-markets/kalshi-promo-code/)
+
+                *   [Novig](https://www.lineups.com/prediction-markets/novig-promo-code/)
+        *   [PredictIt](https://www.lineups.com/prediction-markets/predictit-promo-code/)
+        *   [Underdog Prediction](https://www.lineups.com/prediction-markets/underdog-prediction-market-promo-code/)
+
+    *   [Prediction Markets Tools](https://www.lineups.com/prediction-markets/tools/)Submenu opener 
+
+                *   [ArbBets Explained](https://www.lineups.com/prediction-markets/tools/arbbets/)
+        *   [Stand.trade Review](https://www.lineups.com/prediction-markets/tools/stand-trade/)
+        *   [Mention Metrix Review](https://www.lineups.com/prediction-markets/tools/mention-metrix/)
+
+                *   [Rainmaker AI Guide](https://www.lineups.com/prediction-markets/tools/rainmaker-ai/)
+        *   [Hashdive Review](https://www.lineups.com/prediction-markets/tools/hashdive/)
+
+*   [Online Casinos](https://www.lineups.com/online-casinos/)Submenu opener 
+
+        *   [Online Casino Bonuses](https://www.lineups.com/online-casinos/bonus/)
+    *   [Online Casino No Deposit Bonuses](https://www.lineups.com/online-casinos/no-deposit-bonus/)
+    *   [Casino Apps](https://www.lineups.com/online-casinos/apps/)
+    *   [Online Casino Games](https://www.lineups.com/online-casinos/games/)
+
+        *   Online Casino Reviews & Promo Codes Submenu opener 
+
+                *   [bet365 Casino](https://www.lineups.com/online-casinos/bet365-casino-bonus/)
+        *   [Bally Casino](https://www.lineups.com/online-casinos/bally-casino-promo-code/)
+        *   [BetMGM Casino](https://www.lineups.com/online-casinos/betmgm-casino-bonus-code/)
+        *   [BetRivers Casino](https://www.lineups.com/online-casinos/betrivers-casino-bonus-code/)
+        *   [Caesars Casino](https://www.lineups.com/online-casinos/caesars-casino-promo-code/)
+        *   [DraftKings Casino](https://www.lineups.com/online-casinos/draftkings-casino-promo-code/)
+        *   [Fanatics Casino](https://www.lineups.com/online-casinos/fanatics-casino-promo-code/)
+        *   [FanDuel Casino](https://www.lineups.com/online-casinos/fanduel-casino-promo-code/)
+        *   [Golden Nugget Casino](https://www.lineups.com/online-casinos/golden-nugget-casino-bonus-code/)
+        *   [Monopoly Casino](https://www.lineups.com/online-casinos/monopoly-casino-promo-code/)
+
+        *   WHERE TO PLAY ONLINE CASINO Submenu opener 
+
+                *   [Connecticut Online Casinos](https://www.lineups.com/online-casinos/connecticut/)
+        *   [Michigan Online Casinos](https://www.lineups.com/online-casinos/michigan/)
+        *   [New Jersey Online Casinos](https://www.lineups.com/online-casinos/new-jersey/)
+        *   [Pennsylvania Online Casinos](https://www.lineups.com/online-casinos/pennsylvania/)
+        *   [West Virginia Online Casinos](https://www.lineups.com/online-casinos/west-virginia/)
+
+    *   🍁 CANADA 🍁
+    *   [Canada Online Casinos](https://www.lineups.com/online-casinos/canada/)Submenu opener 
+
+                *   [Alberta Online Casinos NEW](https://www.lineups.com/online-casinos/canada/alberta/)
+        *   [Ontario Online Casinos](https://www.lineups.com/online-casinos/canada/ontario/)
+
+*   [Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)Submenu opener 
+
+        *   [New Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/new/)
+    *   [Top Sweepstakes Casino Apps](https://www.lineups.com/sweepstakes-casinos/apps/)
+    *   [Sweepstakes Casino No Deposit Bonuses](https://www.lineups.com/sweepstakes-casinos/no-deposit-bonus/)
+    *   [Social Casinos](https://www.lineups.com/social-casinos/)
+
+        *   BEST BONUSES FOR YOU HOT Submenu opener 
+
+                *   [Crown Coins Promo Code](https://www.lineups.com/sweepstakes-casinos/crown-coins-casino/promo-code/)
+        *   [WOW Vegas Promo Codes](https://www.lineups.com/sweepstakes-casinos/wow-vegas/promo-code/)
+        *   [Megabonanza Casino Promo Code](https://www.lineups.com/sweepstakes-casinos/megabonanza/promo-code/)
+
+        *   [Sweepstakes Casino Games](https://www.lineups.com/sweepstakes-casinos/games/)Submenu opener 
+
+                *   [10 Best Chumba Slots](https://www.lineups.com/sweepstakes-casinos/chumba-casino/slots/)
+        *   [Top 5 Slots on MegaBonanza](https://www.lineups.com/sweepstakes-casinos/megabonanza/slots/)
+
+*   [Articles](https://www.lineups.com/articles/)
+
+[Login](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#login)
+
+[Join Us](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#register)
+
+![Image 12: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
+
+![Image 13: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)000![Image 14: dropdown toggle](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/arrow-next.svg)Toggle gamification menu
+
+![Image 15: Reward coin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/reward-coin.svg)![Image 16: Referral reward icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/referral_coins.webp)
+
++0 coins
+
+Don't break the chain. Log in tomorrow for more coins.
+
+You have completed your 7 day streak!
+
+00 HRS
+
+00 MIN
+
+00 SEC
+
+![Image 17: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
+
+--![Image 18: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)--[Go to Rewards](https://www.lineups.com/profile/?section=tab-shop)
+
+🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
+
+🎉 Check out the Bonus+ Shop to see what your Coins can get you.
+
+[Refer a Friend for 500 Coins](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#refer)
+
+[Logout](https://www.lineups.com/?action=catena_gamification_logout&_wpnonce=94e5da1556)[Go to profile](https://www.lineups.com/profile/)
+
+🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
+
+[Login](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/#login)[Join Free ![Image 19: coin reward](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/CoinRewardButton.svg)](https://www.lineups.com/#register)
+
+Read [our guide](https://www.lineups.com/bonus-plus/) to find out what Coins are, how to earn them, and what you can redeem them for.
+
+[Earn Coins Guidelines](https://www.lineups.com/bonus-plus/earning-coins/)
+
+[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+# NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets
+
+ Our NBA best bets for player props today with plays on Wendell Carter Jr and Stephen Curry provided by Lineups.com. 
+
+![Image 20: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-760x400.jpg)
+
+![Image 21: Juan Carlos Blanco Avatar](https://www.lineups.com/wp-content/uploads/2025/04/juan.jpg)
+
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
+
+3 mins read Published: Nov. 5, 2026 Updated: Nov. 5, 2026
+
+![Image 22: Share](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/share-icon.svg) Share 
+
+[![Image 23: Copy link](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/link.svg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[![Image 24: Share on X](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/x-icon.svg)](https://x.com/share?url=https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[![Image 25: Share on Facebook](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/fb-icon.svg)](https://www.facebook.com/sharer.php?u=https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[![Image 26: Share on Reddit](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/reddit-icon.svg)](https://reddit.com/submit?url=https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/&title=NBA%20Player%20Props%20Today:%20Wendell%20Carter%20Jr.%20and%20Stephen%20Curry%20Best%20Bets)[![Image 27: Share via Email](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/email-icon.svg)](mailto:?subject=NBA%20Player%20Props%20Today:%20Wendell%20Carter%20Jr.%20and%20Stephen%20Curry%20Best%20Bets&body=https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+
+[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/twitter.svg)](https://twitter.com/jcblanco22)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/email.svg)](mailto:jcblanco1071@gmail.com)
+
+One of the wackier NBA weeks in recent memory continues Thursday with a significant drop in games, as there are only two contests on the docket, with both on the West Coast. Two of the four teams will also be on the back end of back-to-back sets, adding some intrigue to the small player pool.
+
+[![Image 30: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
+
+4.6/5 Rating
+
+**Up to $250** In Free Play 
+
+**Up to $250** In Free Play 
+
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
+
+*   More Ways to Play, Earn & Win!
+
+*   Compete in Challenges & Climb the Leaderboards
+
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
+
+4.6/5 Rating
+
+*   More Ways to Play, Earn & Win!
+
+*   Compete in Challenges & Climb the Leaderboards
+
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+
+Let’s dive into a pair of player props that catch our eye for Thursday’s two-game ledger. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
+
+## **Best NBA Thursday Props**
+
+*   Wendell Carter Jr. Over 20.5 Points + Rebounds
+*   Stephen Curry Over 34.5 Points + Rebounds + Assists
+
+### **Wendell Carter Jr. (Magic at Suns) Over Points + Rebounds**
+
+Carter has been busy early in the season while helping make up for the absence of Paolo Banchero (ankle), posting his best scoring (12.4 PPG) and rebounding (8.9) averages since the 2021-22 season. The big man is also shooting a career-best 61.2%, including a respectable 33.3% from three-point range. Carter has fallen short of this prop in each of the last two games in a pair of tough matchups against the Celtics and Wizards, but he averaged 23.4 points + rebounds across 31.6 minutes per contest over his first five games while 3-2 to the Over on this prop.
+
+Carter could be back to his productive ways Thursday, as the Suns present an appealing matchup. Phoenix went into Wednesday’s game against the Trail Blazers already ranked No. 26 in offensive efficiency rating allowed to centers, while allowing an NBA-high 16.8 rebounds per contest to the position. The Suns had also conceded 59.2% shooting to the position, including 42.9% from behind the arc, and they then proceeded to allow a 24-point, 11-rebound double-double to Donovan Clingan and another nine points and eight boards to Robert Williams off the bench Wednesday.
+
+With Banchero still out and Carter catching the Suns on the back end of a back-to-back, the Over is in play.
+
+**Original Line Publish:** 20.5
+
+### **Stephen Curry (Warriors vs. Heat) Over Points + Rebounds + Assists**
+
+Six games into the new season, Curry is already in elite form, averaging 30.0 points (with the help of 42.9% three-point shooting), 4.5 assists, 4.2 rebounds and 1.3 steals per contest. Curry has been in even better form over the last three contests, a span in which he’s averaged 39.4 points + rebounds + assists across 31.3 minutes while shooting 43.2% from long range. The veteran sharpshooter is 3-0 to the Over on the 34.5 in that sample, and Thursday’s matchup could coax another one of his high-percentile performances from him.
+
+The Heat went into Wednesday’s win over the Clippers playing at the league’s third-highest pace (107.6 possessions per game). Additionally, Miami was also surrendering the second-highest offensive efficiency rating to point guards (34.7), along with 49.1% shooting, including 40.0% from three-point range. The Heat then surrendered 26 points, seven assists and one rebound to Darius Garland on Wednesday, as well as 71.4% shooting. The Heat is also giving up 37.5% three-point shooting on the road, certainly relevant when considering a prop involving Curry.
+
+Golden State has an implied team total of 121.5 points as well, furthering the case for another big night for Curry.
+
+**Original Line Publish**: 34.5
+
+_Photo Credit: REUTERS_
+
+ 🔥 Get $4,000+ in Bonuses 
+
+ Our top sportsbook offers right now 
+
+ BetMGM 
+
+ Up to $1,500 in Bonus Bets if First Wager Loses 
+
+[Claim Now](https://www.lineups.com/claim/betmgm-sportsbook/)
+
+ Fanatics 
+
+ Up to $1,000 In FanCash Matched Bets 
+
+[Claim Now](https://www.lineups.com/claim/fanatics-sportsbook/)
+
+ bet365 
+
+ Bet $10, Get $200 In Bonus Bets Win or Lose 
+
+[Claim Now](https://www.lineups.com/claim/bet365-sportsbook/)
+
+[See All Sportsbook Promos →](https://www.lineups.com/sports-betting/promos/)
+
+## Latest Betting News
+
+[![Image 31: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+
+[](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+#### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+
+[![Image 32: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+#### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[![Image 33: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[![Image 34: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)[Jaguars-Ravens Touchdown Picks: Chris Rodriguez Jr. & Parker Washington Anytime TD Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[![Image 35: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)[Jaguars-Ravens DFS Picks: Best Value Plays, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+About the Author
+
+[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
+
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
+
+[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+
+Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
+
+*   Expert on:
+*   [Sports Betting News](https://www.lineups.com/articles/)
+*   [NBA Articles](https://www.lineups.com/nba-articles/)
+*   [WNBA Articles](https://www.lineups.com/wnba-articles/)
+*   [NBA Odds Articles](https://www.lineups.com/nba-odds/)
+*   [NFL Articles](https://www.lineups.com/nfl-articles/)
+
+[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
+
+ Related Stories 
+
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+
+[College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+
+ Check out the college basketball game preview for Wake Forest vs. Vanderbilt on Thursday, Nov. 5 with picks and odds from Lineups.com. 
+
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
+
+[![Image 39: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+ Check out the best NHL goal picks today for games on Thursday, November 5 with Pastrnak, Dorofeyev and Hertl as best bets. 
+
+[Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
+
+[![Image 40: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+ Check out the NFL Week 9 Thursday Night Football game preview for Jaguars vs. Ravens with pick, predictions and odds from Lineups.com. 
+
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+
+[![Image 41: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Touchdown Picks: Chris Rodriguez Jr. & Parker Washington Anytime TD Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+ Our Thursday Night Football anytime touchdown picks for Jaguars vs. Ravens with plays on Chris Rodriguez Jr. and Parker Washington. 
+
+[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
+
+[![Image 42: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens DFS Picks: Best Value Plays, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+ Our best DraftKings DFS value plays for Jaguars vs. Ravens on Thursday Night Football, built around salary, matchup, and recent form. 
+
+[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 04, 2026
+
+[![Image 43: trevor lawrence](https://www.lineups.com/wp-content/uploads/2026/11/trevor-lawrence-1-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-player-props-trevor-lawrence-chris-rodriguez-jr-and-zay-flowers-best-bets-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Player Props: Trevor Lawrence, Chris Rodriguez, Jr. and Zay Flowers Best Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-player-props-trevor-lawrence-chris-rodriguez-jr-and-zay-flowers-best-bets-nfl-week-9/)
+
+ Check out our best NFL player prop bets for Thursday Night Football Jaguars vs Ravens with plays on three stars from Lineups.com. 
+
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
+
+lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
+
+For U.S. problem gambling help: call 1-800-GAMBLER or visit ncpgambling.org 21+ only. Please play responsibly.
+
+For Alberta: 18+ only. Only play with operators authorised in your province. Gambling problem? Call the Addiction Helpline at 1-866-332-2322 (24/7). Please gamble responsibly.
+
+For Ontario: 19+ only. Only play with operators authorised in your province. Gambling problem? Call ConnexOntario at 1-866-531-2600 (24/7). Please gamble responsibly.
+
+Affiliate disclosure: Some links may earn us compensation. This doesn’t influence our editorial content. Offers and terms can change—always check the operator’s official terms.
+
+Sports
+
+[NFL](https://www.lineups.com/nfl/)
+
+[NBA](https://www.lineups.com/nba/)
+
+[MLB](https://www.lineups.com/mlb/)
+
+[NHL](https://www.lineups.com/nhl/)
+
+[College Football](https://www.lineups.com/college-football/)
+
+[College Basketball](https://www.lineups.com/college-basketball/)
+
+[WNBA](https://www.lineups.com/wnba/)
+
+[Soccer](https://www.lineups.com/soccer/)
+
+[Golf](https://www.lineups.com/golf/)
+
+[Tennis](https://www.lineups.com/tennis/)
+
+[UFC](https://www.lineups.com/ufc/)
+
+Betting & Predictions
+
+[Sports Betting](https://www.lineups.com/sports-betting/)
+
+[Prediction Markets](https://www.lineups.com/prediction-markets/)
+
+[DFS Sites](https://www.lineups.com/dfs-sites/)
+
+[Fantasy Football](https://www.lineups.com/fantasy-football/)
+
+Casino & Lottery
+
+[Online Casinos](https://www.lineups.com/online-casinos/)
+
+[Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)
+
+[Social Casinos](https://www.lineups.com/social-casinos/)
+
+[Online Lottery](https://www.lineups.com/online-lottery/)
+
+Company
+
+[About Us](https://www.lineups.com/about/)
+
+[Contact](https://www.lineups.com/about/contact/)
+
+[Sitemap](https://www.lineups.com/sitemap/)
+
+[Our Experts](https://www.lineups.com/authors/)
+
+Terms
+
+[Terms Of Use](https://www.lineups.com/about/terms/)
+
+[Privacy Policy](https://www.lineups.com/about/privacy-policy/)
+
+[Responsible Gaming](https://www.lineups.com/responsible-gambling/)
+
+[License](https://www.lineups.com/about/license/)
+
+Lineups brings you sports odds, stats, schedules and expert guides to sports betting, online casinos and prediction markets.
+
+[Sports Calendar 2026](https://www.lineups.com/sports-events-calendar/)
+
+  
+  
+Search..  
+
+You must be 21+ years old to wager. Bet within your means. If you have a gambling problem, call 1-800-GAMBLER. Copyright © 2026 Catena Operations Ltd. 
+
+[Visit our Facebook](https://www.facebook.com/lineups)
+
+[Visit our X](https://x.com/Lineups_US)
+
+[Visit our YouTube](https://www.youtube.com/@Lineups)
+
 
 
 ---
@@ -354,14 +950,6 @@ Let’s dive into three player props that catch our eye for Wednesday’s jumbo-
 
 ### **Julius Randle (Nets vs. Hornets) Over Points + Rebounds**
 
-[](https://www.lineups.com/)
-
-![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10210.png)Julius Randle
-
-[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/12774/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/12774/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/12774/kalshi_sc)
-
-[![Image 33](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/julius_randle/player_12774 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Randle has been a seamless fit in Brooklyn since Opening Night, delivering 48 points + rebounds + assists over 38 minutes against the same Hornets squad he’ll face Wednesday right out of the gate on Opening Night. The veteran big man is averaging 20.9 points, 7.7 rebounds and 4.9 assists per contest while shooting an aytpically poor 41.5%, meaning there’s actually still plenty room for a boost in his offensive numbers.
 
 Randle now gets another crack at Charlotte on Wednesday, and although the Hornets have some solid defensive metrics in certain categories, their work against power forwards speaks to plenty of vulnerability. The Hornets have allowed an Eastern Conference-high 31.8 offensive efficiency rating to fours, along with 49.0% shooting, including 40.8% from three-point range, to the position.
@@ -372,16 +960,6 @@ Charlotte is also surrendering the fifth-most rebounds per game to PFs (11.5), a
 
 ### **Zion Williamson (Pelicans vs. Jazz) Over Points + Rebounds**
 
-[](https://www.lineups.com/)
-
-![Image 34](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10211.png)Zion Williamson
-
-[![Image 35: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)
-
-[![Image 36: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)
-
-[![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/zion_williamson/player_132834 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Williamson is the second of our three bigs who we like the outlook for Wednesday, and the 2019 first overall pick is off to a hot start in his own right with averages of 26.6 points + rebounds across 32.1 minutes per game. As customary, Zion is doing the overwhelming majority of his damage from in front of the arc, draining 63.6% of his shots on 12.6 field-goal attempts per game, with only 1.0 per contest coming from behind the arc.
 
 Zion has averaged 28.5 points + rebounds per contest against Utah over 15 games in his career, including a 28 points + rebounds tally versus the Jazz in the second game of the season this year. Then, the Jazz are allowing the eighth-most points per game to power forwards (26.6), and Utah is also facilitating the fourth-most free-throw attempts per contest to fours (7.9).
@@ -391,16 +969,6 @@ Like Randle, Zion is just a point or rebound short of having cashed the Over in 
 **Original Line Publish**: 25.5
 
 ### **Walker Kessler (Lakers at Kings) Over Points + Rebounds**
-
-[](https://www.lineups.com/)
-
-![Image 38](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10203.png)Walker Kessler
-
-[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)[5¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)
-
-[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)[To Win Most Improved Player](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)
-
-[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/walker_kessler/player_174656 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Kessler, like Randle, is a new frontcourt piece to his team that’s paid instant dividends. The 2022 first-round pick only played five games during his final season in Utah in 2025-26, but now that he’s back to full health, Kessler has been the force the Lakers were hoping for when they let the defensively challenged Deandre Ayton walk this offseason. Kessler is delivering a well-rounded 14.4 points, 10.5 rebounds, 1.3 assists, 2.5 blocks and 1.1 steals per contest while shooting 71.4%, his highest figure since his rookie season.
 
@@ -436,27 +1004,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 42: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 43: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 44: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 45: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[![Image 46: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 #### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
@@ -467,7 +1035,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 47: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 48: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -482,7 +1050,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 49: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -492,7 +1060,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 50: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -502,7 +1070,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 51: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -512,7 +1080,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 52: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -522,7 +1090,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 53: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -532,7 +1100,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
 
-[![Image 54: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1039,30 +1607,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-#### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+#### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-#### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+#### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-#### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+#### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 About the Author
 
@@ -1085,65 +1653,65 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[Sports Betting News](https://www.lineups.com/articles/)
+[College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NBA First Basket Picks Today (Nov. 4): De'Aaron Fox ([metabet_core_dynamic_odds market="bkp/nba_game_player_score_first_field_goal/661008" query="nba/de'aaron_fox/player_69914" site_id="lineups"])](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
- Our NBA first basket pick for Nov. 4 is De'Aaron Fox at +600 as the Spurs host the Mavericks. Here's why Fox is the play to score first tonight. 
+ Check out the college basketball game preview for Wake Forest vs. Vanderbilt on Thursday, Nov. 5 with picks and odds from Lineups.com. 
 
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
- Final odds, picks, and predictions for the World Wide Technology Championship at El Cardonal in Cabo, plus the best bets to back. 
-
-[John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
-
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
- Check out the NBA game preview for the 76ers vs. Pistons on Wednesday, November 4 with picks, predictions and odds from Lineups.com. 
+ Our NBA best bets for player props today with plays on Wendell Carter Jr and Stephen Curry provided by Lineups.com. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
- Check out the best NHL goal picks today for games on Wednesday, November 4 with Bennett, McCann and Panarin as best bets. 
+ Check out the best NHL goal picks today for games on Thursday, November 5 with Pastrnak, Dorofeyev and Hertl as best bets. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
- Check out our best NBA player props today with picks and plays on stars Julius Randle, Zion Williamson and Walker Kessler. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
-
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[Saints Weigh Practice Returns for Jordyn Tyson, Travis Etienne, and Kelvin Banks](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
- Kellen Moore said the Saints are still evaluating whether to open return windows for Jordyn Tyson, Travis Etienne, and Kelvin Banks this week. 
+ Check out the NFL Week 9 Thursday Night Football game preview for Jaguars vs. Ravens with pick, predictions and odds from Lineups.com. 
 
-[Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+
+[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Touchdown Picks: Chris Rodriguez Jr. & Parker Washington Anytime TD Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+ Our Thursday Night Football anytime touchdown picks for Jaguars vs. Ravens with plays on Chris Rodriguez Jr. and Parker Washington. 
+
+[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
+
+[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens DFS Picks: Best Value Plays, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+ Our best DraftKings DFS value plays for Jaguars vs. Ravens on Thursday Night Football, built around salary, matchup, and recent form. 
+
+[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 04, 2026
 
 lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
 
@@ -1642,30 +2210,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-#### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+#### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-#### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+#### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-#### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+#### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 About the Author
 
@@ -1688,65 +2256,65 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[Sports Betting News](https://www.lineups.com/articles/)
+[College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NBA First Basket Picks Today (Nov. 4): De'Aaron Fox ([metabet_core_dynamic_odds market="bkp/nba_game_player_score_first_field_goal/661008" query="nba/de'aaron_fox/player_69914" site_id="lineups"])](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
- Our NBA first basket pick for Nov. 4 is De'Aaron Fox at +600 as the Spurs host the Mavericks. Here's why Fox is the play to score first tonight. 
+ Check out the college basketball game preview for Wake Forest vs. Vanderbilt on Thursday, Nov. 5 with picks and odds from Lineups.com. 
 
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
- Final odds, picks, and predictions for the World Wide Technology Championship at El Cardonal in Cabo, plus the best bets to back. 
-
-[John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
-
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
- Check out the NBA game preview for the 76ers vs. Pistons on Wednesday, November 4 with picks, predictions and odds from Lineups.com. 
+ Our NBA best bets for player props today with plays on Wendell Carter Jr and Stephen Curry provided by Lineups.com. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
- Check out the best NHL goal picks today for games on Wednesday, November 4 with Bennett, McCann and Panarin as best bets. 
+ Check out the best NHL goal picks today for games on Thursday, November 5 with Pastrnak, Dorofeyev and Hertl as best bets. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
- Check out our best NBA player props today with picks and plays on stars Julius Randle, Zion Williamson and Walker Kessler. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
-
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[Saints Weigh Practice Returns for Jordyn Tyson, Travis Etienne, and Kelvin Banks](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
- Kellen Moore said the Saints are still evaluating whether to open return windows for Jordyn Tyson, Travis Etienne, and Kelvin Banks this week. 
+ Check out the NFL Week 9 Thursday Night Football game preview for Jaguars vs. Ravens with pick, predictions and odds from Lineups.com. 
 
-[Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+
+[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Touchdown Picks: Chris Rodriguez Jr. & Parker Washington Anytime TD Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+ Our Thursday Night Football anytime touchdown picks for Jaguars vs. Ravens with plays on Chris Rodriguez Jr. and Parker Washington. 
+
+[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
+
+[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens DFS Picks: Best Value Plays, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+ Our best DraftKings DFS value plays for Jaguars vs. Ravens on Thursday Night Football, built around salary, matchup, and recent form. 
+
+[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 04, 2026
 
 lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
 
@@ -2243,30 +2811,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-#### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
+[](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+#### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-#### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+#### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-#### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+#### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+
+[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+
+[](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+#### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 About the Author
 
@@ -2289,65 +2857,65 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[Sports Betting News](https://www.lineups.com/articles/)
+[College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NBA First Basket Picks Today (Nov. 4): De'Aaron Fox ([metabet_core_dynamic_odds market="bkp/nba_game_player_score_first_field_goal/661008" query="nba/de'aaron_fox/player_69914" site_id="lineups"])](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
+[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
- Our NBA first basket pick for Nov. 4 is De'Aaron Fox at +600 as the Spurs host the Mavericks. Here's why Fox is the play to score first tonight. 
+ Check out the college basketball game preview for Wake Forest vs. Vanderbilt on Thursday, Nov. 5 with picks and odds from Lineups.com. 
 
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
- Final odds, picks, and predictions for the World Wide Technology Championship at El Cardonal in Cabo, plus the best bets to back. 
-
-[John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
-
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
+[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
- Check out the NBA game preview for the 76ers vs. Pistons on Wednesday, November 4 with picks, predictions and odds from Lineups.com. 
+ Our NBA best bets for player props today with plays on Wendell Carter Jr and Stephen Curry provided by Lineups.com. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
+[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
- Check out the best NHL goal picks today for games on Wednesday, November 4 with Bennett, McCann and Panarin as best bets. 
+ Check out the best NHL goal picks today for games on Thursday, November 5 with Pastrnak, Dorofeyev and Hertl as best bets. 
 
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+[Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
- Check out our best NBA player props today with picks and plays on stars Julius Randle, Zion Williamson and Walker Kessler. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
-
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
-[Saints Weigh Practice Returns for Jordyn Tyson, Travis Etienne, and Kelvin Banks](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
+[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
- Kellen Moore said the Saints are still evaluating whether to open return windows for Jordyn Tyson, Travis Etienne, and Kelvin Banks this week. 
+ Check out the NFL Week 9 Thursday Night Football game preview for Jaguars vs. Ravens with pick, predictions and odds from Lineups.com. 
 
-[Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
+[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
+
+[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens Touchdown Picks: Chris Rodriguez Jr. & Parker Washington Anytime TD Bets, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+
+ Our Thursday Night Football anytime touchdown picks for Jaguars vs. Ravens with plays on Chris Rodriguez Jr. and Parker Washington. 
+
+[Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
+
+[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
+
+[Jaguars-Ravens DFS Picks: Best Value Plays, NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+
+ Our best DraftKings DFS value plays for Jaguars vs. Ravens on Thursday Night Football, built around salary, matchup, and recent form. 
+
+[Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 04, 2026
 
 lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
 
@@ -2794,6 +3362,18 @@ Let’s dive into three player props that catch our eye for Friday’s action-pa
 
 ### **Derrick White (Celtics vs. Bulls) Over Points + Rebounds + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10189.png)Derrick White
+
+[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/derrick_white/player_69913 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 White is off to a typically solid start, and although he’s seen a downturn in scoring early in the new season thanks to a drop in usage, he’s partly offsetting that with more efficient shooting when he does put the ball up. The veteran point guard is draining 44.2% of his shots from the field thus far, a middling figure that’s nevertheless an improvement on the career-worst 39.4% he shot last season.
 
 White is also facilitating at a career-best clip, averaging a career-high 6.3 assists per contest while also pulling down 4.0 rebounds per game. He took only four shots against the Bulls at United Center on Monday, but he’s otherwise put up at least 11 shot attempts in Boston’s other three contests. Chicago does present a very appealing matchup on paper as well, allowing an NBA-high 38.4 offensive efficiency rating to point guards, along with 50.5% shooting, including an NBA-high 53.2% success rate from three-point range.
@@ -2804,6 +3384,16 @@ White is 2-2 to the Over on this prop thus far, but the home matchup against suc
 
 ### **Pascal Siakam (Pacers vs. Heat) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10201.png)Pascal Siakam
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)
+
+[![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/pascal_siakam/player_56163 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Siakam is once again spearheading the Pacers’ efforts in the first week-plus of the new season, averaging a typically well-rounded 24.0 points (on career-best 55.3% shooting), 8.4 rebounds and 3.8 assists per contest. Siakam is shooting 38.1% from three-point range as well, displaying his usual floor-spacing prowess. He now draws a matchup against a Heat team that finally just won its first game, but that’s struggled defensively pretty much across the board.
 
 Miami is allowing 124.0 points per home game over its three Kaseya Center contests thus far, as well as 48.4% shooting. The Heat also ranks in the bottom 10 of the league in rebounds (59.0) and assists (28.3) per home game surrendered, and Siakam also had PRA tallies of 45 and 47 in two of three regular-season games against Miami last season.
@@ -2813,6 +3403,18 @@ To top it off, the Heat is surrendering a league-high 52.6% success from rate fr
 **Original Line Publish**: 31.5
 
 ### **Cooper Flagg (Mavericks vs. Rockets) Over Points + Rebounds + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 40](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)Cooper Flagg
+
+[![Image 41: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)
+
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)[17¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)
+
+[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)[13¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)
+
+[![Image 44](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/cooper_flagg/player_258778 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Fresh off his Rookie of the year honors, Flagg already looks like a leading MVP candidate through his first four games. Heading into the season, the prevailing thought was that finally having the opportunity to play alongside Kyrie Irving was going to benefit Flagg in a multitude of ways, and Flagg’s current line of 25.3 points (on 52.2% shooting), 6.8 assists, 5.3 rebounds, 2.8 steals and 1.3 blocks per contest certainly seems to bear that out.
 
@@ -2850,1230 +3452,53 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 45: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-#### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-#### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-[](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-#### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-About the Author
-
-[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
-
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
-
-Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
-
-*   Expert on:
-*   [Sports Betting News](https://www.lineups.com/articles/)
-*   [NBA Articles](https://www.lineups.com/nba-articles/)
-*   [WNBA Articles](https://www.lineups.com/wnba-articles/)
-*   [NBA Odds Articles](https://www.lineups.com/nba-odds/)
-*   [NFL Articles](https://www.lineups.com/nfl-articles/)
-
-[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
-
- Related Stories 
-
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA First Basket Picks Today (Nov. 4): De'Aaron Fox ([metabet_core_dynamic_odds market="bkp/nba_game_player_score_first_field_goal/661008" query="nba/de'aaron_fox/player_69914" site_id="lineups"])](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
- Our NBA first basket pick for Nov. 4 is De'Aaron Fox at +600 as the Spurs host the Mavericks. Here's why Fox is the play to score first tonight. 
-
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
-
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
- Final odds, picks, and predictions for the World Wide Technology Championship at El Cardonal in Cabo, plus the best bets to back. 
-
-[John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
-
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
- Check out the NBA game preview for the 76ers vs. Pistons on Wednesday, November 4 with picks, predictions and odds from Lineups.com. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
-
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-[NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
- Check out the best NHL goal picks today for games on Wednesday, November 4 with Bennett, McCann and Panarin as best bets. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
-
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
- Check out our best NBA player props today with picks and plays on stars Julius Randle, Zion Williamson and Walker Kessler. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
-
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
-
-[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[Saints Weigh Practice Returns for Jordyn Tyson, Travis Etienne, and Kelvin Banks](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
-
- Kellen Moore said the Saints are still evaluating whether to open return windows for Jordyn Tyson, Travis Etienne, and Kelvin Banks this week. 
-
-[Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
-
-lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
-
-For U.S. problem gambling help: call 1-800-GAMBLER or visit ncpgambling.org 21+ only. Please play responsibly.
-
-For Alberta: 18+ only. Only play with operators authorised in your province. Gambling problem? Call the Addiction Helpline at 1-866-332-2322 (24/7). Please gamble responsibly.
-
-For Ontario: 19+ only. Only play with operators authorised in your province. Gambling problem? Call ConnexOntario at 1-866-531-2600 (24/7). Please gamble responsibly.
-
-Affiliate disclosure: Some links may earn us compensation. This doesn’t influence our editorial content. Offers and terms can change—always check the operator’s official terms.
-
-Sports
-
-[NFL](https://www.lineups.com/nfl/)
-
-[NBA](https://www.lineups.com/nba/)
-
-[MLB](https://www.lineups.com/mlb/)
-
-[NHL](https://www.lineups.com/nhl/)
-
-[College Football](https://www.lineups.com/college-football/)
-
-[College Basketball](https://www.lineups.com/college-basketball/)
-
-[WNBA](https://www.lineups.com/wnba/)
-
-[Soccer](https://www.lineups.com/soccer/)
-
-[Golf](https://www.lineups.com/golf/)
-
-[Tennis](https://www.lineups.com/tennis/)
-
-[UFC](https://www.lineups.com/ufc/)
-
-Betting & Predictions
-
-[Sports Betting](https://www.lineups.com/sports-betting/)
-
-[Prediction Markets](https://www.lineups.com/prediction-markets/)
-
-[DFS Sites](https://www.lineups.com/dfs-sites/)
-
-[Fantasy Football](https://www.lineups.com/fantasy-football/)
-
-Casino & Lottery
-
-[Online Casinos](https://www.lineups.com/online-casinos/)
-
-[Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)
-
-[Social Casinos](https://www.lineups.com/social-casinos/)
-
-[Online Lottery](https://www.lineups.com/online-lottery/)
-
-Company
-
-[About Us](https://www.lineups.com/about/)
-
-[Contact](https://www.lineups.com/about/contact/)
-
-[Sitemap](https://www.lineups.com/sitemap/)
-
-[Our Experts](https://www.lineups.com/authors/)
-
-Terms
-
-[Terms Of Use](https://www.lineups.com/about/terms/)
-
-[Privacy Policy](https://www.lineups.com/about/privacy-policy/)
-
-[Responsible Gaming](https://www.lineups.com/responsible-gambling/)
-
-[License](https://www.lineups.com/about/license/)
-
-Lineups brings you sports odds, stats, schedules and expert guides to sports betting, online casinos and prediction markets.
-
-[Sports Calendar 2026](https://www.lineups.com/sports-events-calendar/)
-
-  
-  
-Search..  
-
-You must be 21+ years old to wager. Bet within your means. If you have a gambling problem, call 1-800-GAMBLER. Copyright © 2026 Catena Operations Ltd. 
-
-[Visit our Facebook](https://www.facebook.com/lineups)
-
-[Visit our X](https://x.com/Lineups_US)
-
-[Visit our YouTube](https://www.youtube.com/@Lineups)
-
-
-
----
-## SOURCE: https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/
-
-Title: NBA Player Props Today: Acuff Jr., Allen and Morant Best Bets
-
-URL Source: https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/
-
-Published Time: 2026-10-29T06:39:17-04:00
-
-Markdown Content:
-[Skip to content](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#main-site-content)
-
-[To Top](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#top)
-
-- [x] 
-
-[![Image 1: Lineups Logo](https://www.lineups.com/wp-content/uploads/2026/09/Logo.svg)Lineups](https://www.lineups.com/) Toggle Menu  
-
-*   [NFL Week 9](https://www.lineups.com/nfl/)Submenu opener 
-
-        *   [NFL Thanksgiving 2026 🦃](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-    *   [NFL Schedule TODAY](https://www.lineups.com/nfl/schedule/)
-    *   [NFL Betting Sites TOP](https://www.lineups.com/sports-betting/nfl/)Submenu opener 
-
-                *   [NFL Betting Promos](https://www.lineups.com/sports-betting/nfl/promos/)
-        *   [NFL Betting Trends](https://www.lineups.com/nfl/odds/betting-trends/)
-        *   [Week 8 NFL Survivor Picks](https://www.lineups.com/articles/nfl-week-8-survivor-picks-bengals-patriots-jaguars-round-out-top-picks/)
-
-    *   [NFL Articles](https://www.lineups.com/nfl-articles/)
-
-        *   [NFL Betting Odds](https://www.lineups.com/nfl/odds/)Submenu opener 
-
-                *   [Sunday Night Football Odds](https://www.lineups.com/nfl/odds/snf/)
-        *   [Monday Night Football Odds](https://www.lineups.com/nfl/odds/mnf/)
-        *   [Thursday Night Football Odds](https://www.lineups.com/nfl/odds/tnf/)
-        *   [NFL Player Props Odds](https://www.lineups.com/nfl/odds/player-props/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NFL Depth Charts](https://www.lineups.com/nfl/depth-charts/)
-        *   [NFL Teams](https://www.lineups.com/nfl/teams/)
-        *   [NFL Rosters](https://www.lineups.com/nfl/roster/)
-        *   [NFL Players](https://www.lineups.com/nfl/players/)
-        *   [NFL Standings](https://www.lineups.com/nfl/standings/)
-        *   [NFL Injuries](https://www.lineups.com/nfl/player-injuries/)
-        *   [NFL Matchups](https://www.lineups.com/nfl/matchups/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [NFL Team Stats](https://www.lineups.com/nfl/team-stats/)
-        *   [NFL Redzone Stats](https://www.lineups.com/nfl/redzone/)
-        *   [NFL Snap Counts](https://www.lineups.com/nfl/snap-counts/)
-        *   [NFL Time of Possession](https://www.lineups.com/nfl/time-of-possession/)
-        *   [NFL Team Rankings](https://www.lineups.com/nfl/team-rankings/)
-        *   [NFL Projections](https://www.lineups.com/nfl/dfs-projections/)
-
-*   [NBA](https://www.lineups.com/nba/)Submenu opener 
-
-        *   [NBA Schedule TODAY](https://www.lineups.com/nba/schedule/)
-    *   BETTING & ODDS GET READY Submenu opener 
-
-                *   [NBA Betting Sites](https://www.lineups.com/sports-betting/nba/)
-        *   [NBA Odds](https://www.lineups.com/nba/odds/)
-        *   [NBA Betting Trends](https://www.lineups.com/nba/odds/betting-trends/)
-
-    *   [NBA Articles](https://www.lineups.com/nba-articles/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NBA Starting Lineups](https://www.lineups.com/nba/lineups/)
-        *   [NBA Rosters](https://www.lineups.com/nba/roster/)
-        *   [NBA Teams](https://www.lineups.com/nba/teams/)
-        *   [NBA Players](https://www.lineups.com/nba/players/)
-        *   [NBA Matchups](https://www.lineups.com/nba/matchups/)
-        *   [NBA Depth Charts](https://www.lineups.com/nba/depth-charts/)
-        *   [NBA Injuries](https://www.lineups.com/nba/player-injuries/)
-        *   [NBA Standings](https://www.lineups.com/nba/standings/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [NBA Team Stats](https://www.lineups.com/nba/team-stats/)
-        *   [NBA Team Rankings](https://www.lineups.com/nba/team-rankings/)
-        *   [NBA Projected Minutes](https://www.lineups.com/nba/nba-player-minutes-per-game/)
-        *   [NBA Fantasy Projections](https://www.lineups.com/nba/nba-fantasy-basketball-projections/)
-
-*   [MLB](https://www.lineups.com/mlb/)Submenu opener 
-
-        *   [MLB Schedule TODAY](https://www.lineups.com/mlb/schedule/)
-    *   BETTING & ODDS GET READY Submenu opener 
-
-                *   [Best MLB Betting Sites](https://www.lineups.com/sports-betting/mlb/)
-        *   [MLB Odds](https://www.lineups.com/mlb/odds/)
-        *   [MLB Betting Trends](https://www.lineups.com/mlb/odds/betting-trends/)
-
-    *   [MLB Articles](https://www.lineups.com/mlb-articles/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [MLB Starting Lineups](https://www.lineups.com/mlb/lineups/)
-        *   [MLB Probable Pitchers](https://www.lineups.com/mlb/probable-pitchers/)
-        *   [MLB Rosters](https://www.lineups.com/mlb/roster/)
-        *   [MLB Teams](https://www.lineups.com/mlb/teams/)
-        *   [MLB Players](https://www.lineups.com/mlb/players/)
-        *   [MLB Matchups](https://www.lineups.com/mlb/matchups/)
-        *   [MLB Depth Charts](https://www.lineups.com/mlb/depth-charts/)
-        *   [MLB Injuries](https://www.lineups.com/mlb/player-injuries/)
-        *   [MLB Standings](https://www.lineups.com/mlb/standings/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [MLB Team Stats](https://www.lineups.com/mlb/team-stats/)
-        *   [MLB Team Rankings](https://www.lineups.com/mlb/team-rankings/)
-        *   [MLB Fantasy Projections](https://www.lineups.com/mlb/fantasy-baseball-dfs-projections/)
-
-*   [NHL](https://www.lineups.com/nhl/)Submenu opener 
-
-        *   [NHL Schedule TODAY](https://www.lineups.com/nhl/schedule/)
-    *   [NHL Betting Sites](https://www.lineups.com/sports-betting/nhl/)Submenu opener 
-
-                *   [NHL Betting Trends](https://www.lineups.com/nhl/odds/betting-trends/)
-
-    *   [NHL Articles](https://www.lineups.com/nhl-articles/)
-
-        *   [NHL Betting Lines](https://www.lineups.com/nhl/odds/)Submenu opener 
-
-                *   [NHL Stanley Cup](https://www.lineups.com/nhl/odds/stanley-cup/)
-        *   [NHL Norris Trophy Odds](https://www.lineups.com/nhl/odds/norris/)
-        *   [NHL Calder Trophy Odds](https://www.lineups.com/nhl/odds/calder/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NHL Line Combinations](https://www.lineups.com/nhl/line-combinations/)
-        *   [NHL Starting Goalies](https://www.lineups.com/nhl/starting-goalies/)
-        *   [NHL Standings](https://www.lineups.com/nhl/standings/)
-
-    *   STATS & ANALYSIS Submenu opener 
-
-                *   [NHL Team Rankings](https://www.lineups.com/nhl/team-rankings/)
-        *   [NHL Fantasy Projections](https://www.lineups.com/nhl/dfs-projections/)
-
-*   [Sports Betting](https://www.lineups.com/sports-betting/)Submenu opener 
-
-        *   [Sportsbook Promos HOT](https://www.lineups.com/sports-betting/promos/)Submenu opener 
-
-                *   [bet365 Bonus Code](https://www.lineups.com/sports-betting/bet365-bonus-code/)Submenu opener 
-        *   [BetRivers Bonus Code](https://www.lineups.com/sports-betting/betrivers-bonus-code/)
-        *   [BetMGM Bonus Code](https://www.lineups.com/sports-betting/betmgm-promo-code/)
-        *   [DraftKings Promo Code](https://www.lineups.com/sports-betting/draftkings-promo-code/)
-        *   [FanDuel Promo Code](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-        *   [Fanatics Sportsbook Promo](https://www.lineups.com/sports-betting/fanatics-sportsbook-promo/)
-        *   [Hard Rock Bet Promo Code](https://www.lineups.com/sports-betting/hard-rock-bet-promo/)
-
-        *   [Best Online Sportsbooks](https://www.lineups.com/sports-betting/#best-sportsbooks)
-    *   [Where is Sports Betting Legal in the US?](https://www.lineups.com/sports-betting/states/)
-    *   [Best Sports Betting Apps](https://www.lineups.com/sports-betting/#sports-betting-apps)
-    *   [New Betting Sites](https://www.lineups.com/sports-betting/#new-betting-sites)
-    *   [Fastest Payouts Betting Apps & Sites](https://www.lineups.com/sports-betting/fast-withdrawal/)Submenu opener 
-
-                *   [![Image 2: Venmo Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/venmo-logo-40x40-1.webp)Venmo Betting Sites](https://www.lineups.com/sports-betting/venmo/)
-        *   [![Image 3: PayPal Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/paypal-logo-40x40-1.webp)PayPal Betting Sites](https://www.lineups.com/sports-betting/paypal/)
-
-    *   [List of Legal U.S. Online Betting Sites](https://www.lineups.com/sports-betting/#sports-betting-sites)
-    *   [Live Betting Sites](https://www.lineups.com/sports-betting/#live-betting-sites)
-
-        *   🍁 CANADA 🍁
-    *   [Canada Sports Betting](https://www.lineups.com/sports-betting/canada/)Submenu opener 
-
-                *   [Alberta Sports Betting NEW](https://www.lineups.com/sports-betting/canada/alberta/)
-        *   [Ontario Sports Betting](https://www.lineups.com/sports-betting/canada/ontario/)
-
-*   [Prediction Markets](https://www.lineups.com/prediction-markets/)Submenu opener 
-
-        *   TOP PREDICTION MARKETS
-    *   [![Image 4: Fanduel Predicts](https://www.lineups.com/wp-content/uploads/2026/08/fanduel-logo-40x40-2.webp)Fanduel Predicts TOP CHOICE](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/)
-    *   [![Image 5: OG.com](https://www.lineups.com/wp-content/uploads/2026/08/og-com-logo-40x40-1.webp)OG.com](https://www.lineups.com/prediction-markets/og-com-promo-code/)
-    *   [![Image 6: Polymarket](https://www.lineups.com/wp-content/uploads/2026/08/polymarket-logo-40x40-1.webp)Polymarket](https://www.lineups.com/prediction-markets/polymarket-promo-code/)
-    *   [![Image 7: ProphetX](https://www.lineups.com/wp-content/uploads/2026/08/prophetx-logo-40x40-1.webp)ProphetX](https://www.lineups.com/prediction-markets/prophetx-promo-code/)
-    *   [![Image 8: DraftKings Predictions](https://www.lineups.com/wp-content/uploads/2026/08/draftkings-logo-40x40-1.webp)DraftKings Predictions](https://www.lineups.com/prediction-markets/draftkings-predictions-promo-code/)
-    *   [![Image 9: Crypto.com](https://www.lineups.com/wp-content/uploads/2026/08/crypto-com-logo-40x40-1.webp)Crypto.com](https://www.lineups.com/prediction-markets/crypto-com-promo-code/)
-    *   [![Image 10: MooMoo](https://www.lineups.com/wp-content/uploads/2026/08/moomoo-5-1-110x110.png)MooMoo](https://www.lineups.com/prediction-markets/moomoo/)
-    *   [![Image 11: Gemini](https://www.lineups.com/wp-content/uploads/2026/10/gemini.svg)Gemini](https://www.lineups.com/prediction-markets/gemini-promo-code/)
-
-        *   Other Prediction Markets Platforms Submenu opener 
-
-                *   [Fanatics Market](https://www.lineups.com/prediction-markets/fanatics-markets-promo-code/)
-        *   [Forecastex](https://www.lineups.com/prediction-markets/forecastex-promo-code/)
-        *   [Kalshi](https://www.lineups.com/prediction-markets/kalshi-promo-code/)
-
-                *   [Novig](https://www.lineups.com/prediction-markets/novig-promo-code/)
-        *   [PredictIt](https://www.lineups.com/prediction-markets/predictit-promo-code/)
-        *   [Underdog Prediction](https://www.lineups.com/prediction-markets/underdog-prediction-market-promo-code/)
-
-    *   [Prediction Markets Tools](https://www.lineups.com/prediction-markets/tools/)Submenu opener 
-
-                *   [ArbBets Explained](https://www.lineups.com/prediction-markets/tools/arbbets/)
-        *   [Stand.trade Review](https://www.lineups.com/prediction-markets/tools/stand-trade/)
-        *   [Mention Metrix Review](https://www.lineups.com/prediction-markets/tools/mention-metrix/)
-
-                *   [Rainmaker AI Guide](https://www.lineups.com/prediction-markets/tools/rainmaker-ai/)
-        *   [Hashdive Review](https://www.lineups.com/prediction-markets/tools/hashdive/)
-
-*   [Online Casinos](https://www.lineups.com/online-casinos/)Submenu opener 
-
-        *   [Online Casino Bonuses](https://www.lineups.com/online-casinos/bonus/)
-    *   [Online Casino No Deposit Bonuses](https://www.lineups.com/online-casinos/no-deposit-bonus/)
-    *   [Casino Apps](https://www.lineups.com/online-casinos/apps/)
-    *   [Online Casino Games](https://www.lineups.com/online-casinos/games/)
-
-        *   Online Casino Reviews & Promo Codes Submenu opener 
-
-                *   [bet365 Casino](https://www.lineups.com/online-casinos/bet365-casino-bonus/)
-        *   [Bally Casino](https://www.lineups.com/online-casinos/bally-casino-promo-code/)
-        *   [BetMGM Casino](https://www.lineups.com/online-casinos/betmgm-casino-bonus-code/)
-        *   [BetRivers Casino](https://www.lineups.com/online-casinos/betrivers-casino-bonus-code/)
-        *   [Caesars Casino](https://www.lineups.com/online-casinos/caesars-casino-promo-code/)
-        *   [DraftKings Casino](https://www.lineups.com/online-casinos/draftkings-casino-promo-code/)
-        *   [Fanatics Casino](https://www.lineups.com/online-casinos/fanatics-casino-promo-code/)
-        *   [FanDuel Casino](https://www.lineups.com/online-casinos/fanduel-casino-promo-code/)
-        *   [Golden Nugget Casino](https://www.lineups.com/online-casinos/golden-nugget-casino-bonus-code/)
-        *   [Monopoly Casino](https://www.lineups.com/online-casinos/monopoly-casino-promo-code/)
-
-        *   WHERE TO PLAY ONLINE CASINO Submenu opener 
-
-                *   [Connecticut Online Casinos](https://www.lineups.com/online-casinos/connecticut/)
-        *   [Michigan Online Casinos](https://www.lineups.com/online-casinos/michigan/)
-        *   [New Jersey Online Casinos](https://www.lineups.com/online-casinos/new-jersey/)
-        *   [Pennsylvania Online Casinos](https://www.lineups.com/online-casinos/pennsylvania/)
-        *   [West Virginia Online Casinos](https://www.lineups.com/online-casinos/west-virginia/)
-
-    *   🍁 CANADA 🍁
-    *   [Canada Online Casinos](https://www.lineups.com/online-casinos/canada/)Submenu opener 
-
-                *   [Alberta Online Casinos NEW](https://www.lineups.com/online-casinos/canada/alberta/)
-        *   [Ontario Online Casinos](https://www.lineups.com/online-casinos/canada/ontario/)
-
-*   [Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)Submenu opener 
-
-        *   [New Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/new/)
-    *   [Top Sweepstakes Casino Apps](https://www.lineups.com/sweepstakes-casinos/apps/)
-    *   [Sweepstakes Casino No Deposit Bonuses](https://www.lineups.com/sweepstakes-casinos/no-deposit-bonus/)
-    *   [Social Casinos](https://www.lineups.com/social-casinos/)
-
-        *   BEST BONUSES FOR YOU HOT Submenu opener 
-
-                *   [Crown Coins Promo Code](https://www.lineups.com/sweepstakes-casinos/crown-coins-casino/promo-code/)
-        *   [WOW Vegas Promo Codes](https://www.lineups.com/sweepstakes-casinos/wow-vegas/promo-code/)
-        *   [Megabonanza Casino Promo Code](https://www.lineups.com/sweepstakes-casinos/megabonanza/promo-code/)
-
-        *   [Sweepstakes Casino Games](https://www.lineups.com/sweepstakes-casinos/games/)Submenu opener 
-
-                *   [10 Best Chumba Slots](https://www.lineups.com/sweepstakes-casinos/chumba-casino/slots/)
-        *   [Top 5 Slots on MegaBonanza](https://www.lineups.com/sweepstakes-casinos/megabonanza/slots/)
-
-*   [Articles](https://www.lineups.com/articles/)
-
-[Login](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#login)
-
-[Join Us](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#register)
-
-![Image 12: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
-
-![Image 13: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)000![Image 14: dropdown toggle](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/arrow-next.svg)Toggle gamification menu
-
-![Image 15: Reward coin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/reward-coin.svg)![Image 16: Referral reward icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/referral_coins.webp)
-
-+0 coins
-
-Don't break the chain. Log in tomorrow for more coins.
-
-You have completed your 7 day streak!
-
-00 HRS
-
-00 MIN
-
-00 SEC
-
-![Image 17: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
-
---![Image 18: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)--[Go to Rewards](https://www.lineups.com/profile/?section=tab-shop)
-
-🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
-
-🎉 Check out the Bonus+ Shop to see what your Coins can get you.
-
-[Refer a Friend for 500 Coins](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#refer)
-
-[Logout](https://www.lineups.com/?action=catena_gamification_logout&_wpnonce=94e5da1556)[Go to profile](https://www.lineups.com/profile/)
-
-🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
-
-[Login](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/#login)[Join Free ![Image 19: coin reward](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/CoinRewardButton.svg)](https://www.lineups.com/#register)
-
-Read [our guide](https://www.lineups.com/bonus-plus/) to find out what Coins are, how to earn them, and what you can redeem them for.
-
-[Earn Coins Guidelines](https://www.lineups.com/bonus-plus/earning-coins/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-# NBA Player Props Today: Darius Acuff Jr., Jarrett Allen and Ja Morant Best Bets
-
- Check out the best NBA player prop picks for today’s games with plays on Darius Acuff Jr, Jarrett Allen and Ja Morant at Lineups.com. 
-
-![Image 20: Ja Morant](https://www.lineups.com/wp-content/uploads/2026/10/Ja-Morant--760x400.jpg)
-
-![Image 21: Juan Carlos Blanco Avatar](https://www.lineups.com/wp-content/uploads/2025/04/juan.jpg)
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
-
-4 mins read Published: Oct. 29, 2026 Updated: Oct. 29, 2026
-
-![Image 22: Share](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/share-icon.svg) Share 
-
-[![Image 23: Copy link](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/link.svg)](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[![Image 24: Share on X](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/x-icon.svg)](https://x.com/share?url=https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[![Image 25: Share on Facebook](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/fb-icon.svg)](https://www.facebook.com/sharer.php?u=https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)[![Image 26: Share on Reddit](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/reddit-icon.svg)](https://reddit.com/submit?url=https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/&title=NBA%20Player%20Props%20Today:%20Darius%20Acuff%20Jr.,%20Jarrett%20Allen%20and%20Ja%20Morant%20Best%20Bets)[![Image 27: Share via Email](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/email-icon.svg)](mailto:?subject=NBA%20Player%20Props%20Today:%20Darius%20Acuff%20Jr.,%20Jarrett%20Allen%20and%20Ja%20Morant%20Best%20Bets&body=https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
-
-[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/twitter.svg)](https://twitter.com/jcblanco22)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/email.svg)](mailto:jcblanco1071@gmail.com)
-
-The NBA’s rollercoaster Week 2 schedule continues Thursday with a major downswing in games, as we go from 12 contests Wednesday to just three tonight. We have the rare occurrence of having both a battle of winless and battle of undefeated teams as part of the compact ledger.
-
-[![Image 30: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
-
-4.6/5 Rating
-
-**Up to $250** In Free Play 
-
-**Up to $250** In Free Play 
-
-[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
-
-*   More Ways to Play, Earn & Win!
-
-*   Compete in Challenges & Climb the Leaderboards
-
-[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
-
-4.6/5 Rating
-
-*   More Ways to Play, Earn & Win!
-
-*   Compete in Challenges & Climb the Leaderboards
-
-[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-darius-acuff-jr-jarrett-allen-and-ja-morant-best-bets/)
-
-Let’s dive into three player props that catch our eye Thursday. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
-
-## **Best NBA Thursday Props**
-
-*   Darius Acuff Over 27.5 Points + Assists
-*   Jarrett Allen Over 21.5 Points + Rebounds
-*   Ja Morant Over 21.5 Points + Assists
-
-### **Darius Acuff (Kings vs. Pelicans) Over Points + Assists**
-
-Acuff has been thrust right into the fire from the onset of his career, and the rookie seventh overall pick has proven to be up to the challenge early on. Due to Ben Simmons’ unfortunate Achilles injury right before the start of the season, Acuff went from a projected second-unit member of the backcourt to the starting point guard. While Sacramento remains winless, the Arkansas product has roared back from a quiet Opening Night debut against the Clippers to supply 24.7 points, 5.3 assists and 2.7 rebounds across 35.3 minutes per contest over his subsequent three games.
-
-Acuff is likely to see a fair share of Dejounte Murray defense in Thursday’s matchup, but that hasn’t proven prohibitive for opposing point guards thus far. New Orleans is allowing the fourth-highest offensive efficiency rating to the position (32.0), along with 50% shooting, including 43.3% from behind the arc. Additionally, the Pels went into Tuesday allowing the second-most points (32.0) and second-most assists (11.7) per game to the position, and Acuff also boasts a team-high 32.2% usage rate and averages 26.6 points + assists per 36 minutes with Keegan Murray (out, ankle) off the floor.
-
-**Original Line Publish:** 27.5
-
-### **Jarrett Allen (Cavaliers vs. Hawks) Over Points + Rebounds**
-
-Allen is already churning out his usual production early this season, averaging 13.3 points and 9.0 rebounds per contest over his first four games. The veteran big man just pulled down a season-high 12 rebounds Wednesday night against the Wizards, the third straight game in which Allen had increased his production on the glass over that of the prior contest. Thursday marks the third game in four nights for both the Cavs and Hawks, but Allen is averaging a modest 27.7 minutes per game and shouldn’t be too fatigued this early in the season.
-
-The opposing Hawks make for good targets on paper as well. Atlanta has been particularly vulnerable against centers early, as they went into Wednesday’s loss to the Heat already allowing the third-highest offensive efficiency rating (37.5), the second-highest shooting percentage (67.9) and the seventh-most points (23.8) per game to the position. Bam Adebayo then proceeded to trample Atlanta for 24 points and nine rebounds, and Bobby Portis added another 11 points and nine boards off the bench.
-
-Finally, it’s worth noting the Hawks are allowing the seventh-most points in the paint per game (52.8), including 60.0 over the last three, while Allen is scoring 60.4% of his points in that part of the floor.
-
-**Original Line Publish**: 21.5
-
-### **Ja Morant (Trail Blazers vs. Grizzlies) Over Points + Assists**
-
-Morant has been a solid fit early in his Trail Blazers tenure, meshing well alongside Damian Lillard in the backcourt while averaging 22.6 points + assists across 26.7 minutes per game. Perhaps as encouraging as anything regarding his overall body of work is his career-best 58.8% shooting, including 44.4% from three-point range.
-
-Morant’s usage is unsurprisingly down from his Grizzlies days, as he’s now in a two-guard role and shares the floor with Damian Lillard and Deni Avdija. Nevertheless, it wouldn’t be surprising in the least to see Morant be a bit more involved Thursday in an intriguing matchup against his old Memphis teammates. The Grizzlies also make for a decent matchup on paper, as Memphis has surrendered the ninth-most points (26.0) to shooting guards, as well as a 93.3% success rate from the line to the position.
-
-**Original Line Publish**: 21.5
-
-_Photo Credit: REUTERS_
-
- 🔥 Get $4,000+ in Bonuses 
-
- Our top sportsbook offers right now 
-
- BetMGM 
-
- Up to $1,500 in Bonus Bets if First Wager Loses 
-
-[Claim Now](https://www.lineups.com/claim/betmgm-sportsbook/)
-
- Fanatics 
-
- Up to $1,000 In FanCash Matched Bets 
-
-[Claim Now](https://www.lineups.com/claim/fanatics-sportsbook/)
-
- bet365 
-
- Bet $10, Get $200 In Bonus Bets Win or Lose 
-
-[Claim Now](https://www.lineups.com/claim/bet365-sportsbook/)
-
-[See All Sportsbook Promos →](https://www.lineups.com/sports-betting/promos/)
-
-## Latest Betting News
-
-[![Image 31: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-150x150.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-#### [](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[NBA First Basket Picks Today (Nov. 4): De’Aaron Fox (<span class="metabet-odds metabet-market-bkp/nba_game_player_score_first_field_goal/661008 metabet-query-nba/de'aaron_fox/player_69914 metabet-site-id-lineups"></span>)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-
-[](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-#### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-
-[![Image 33: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-#### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-150x150.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-#### [](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[![Image 35: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-[](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-#### [](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-About the Author
-
-[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
-
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
-
-Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
-
-*   Expert on:
-*   [Sports Betting News](https://www.lineups.com/articles/)
-*   [NBA Articles](https://www.lineups.com/nba-articles/)
-*   [WNBA Articles](https://www.lineups.com/wnba-articles/)
-*   [NBA Odds Articles](https://www.lineups.com/nba-odds/)
-*   [NFL Articles](https://www.lineups.com/nfl-articles/)
-
-[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
-
- Related Stories 
-
-[![Image 38: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-390x230.jpg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA First Basket Picks Today (Nov. 4): De'Aaron Fox ([metabet_core_dynamic_odds market="bkp/nba_game_player_score_first_field_goal/661008" query="nba/de'aaron_fox/player_69914" site_id="lineups"])](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
- Our NBA first basket pick for Nov. 4 is De'Aaron Fox at +600 as the Spurs host the Mavericks. Here's why Fox is the play to score first tonight. 
-
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)November 04, 2026
-
-[![Image 39: Tom Hoge](https://www.lineups.com/wp-content/uploads/2026/11/Tom-Hoge-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
-[Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[PGA Tour Golf Odds, Picks, Predictions: Final World Wide Technology Championship Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-world-wide-technology-championship-betting-card/)
-
- Final odds, picks, and predictions for the World Wide Technology Championship at El Cardonal in Cabo, plus the best bets to back. 
-
-[John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 04, 2026
-
-[![Image 40: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-DET-390x230.jpg)](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[76ers-Pistons NBA Picks, Predictions & Odds for Wednesday, November 4, 2026](https://www.lineups.com/articles/76ers-pistons-nba-picks-predictions-odds-for-wednesday-november-4-2026/)
-
- Check out the NBA game preview for the 76ers vs. Pistons on Wednesday, November 4 with picks, predictions and odds from Lineups.com. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
-
-[![Image 41: Artemi Panarin](https://www.lineups.com/wp-content/uploads/2026/11/Artemi-Panarin-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
-[NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NHL Goal Picks Today: Sam Bennett, Bobby McMann & Artemi Panarin Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-sam-bennett-bobby-mcmann-artemi-panarin-best-bets/)
-
- Check out the best NHL goal picks today for games on Wednesday, November 4 with Bennett, McCann and Panarin as best bets. 
-
-[Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
-
-[![Image 42: Zion Williamson](https://www.lineups.com/wp-content/uploads/2026/11/Zion-Williamson-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
-[NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[NBA Player Props Today: Julius Randle, Zion Williamson and Walker Kessler Best Bets](https://www.lineups.com/articles/nba-player-props-today-julius-randle-zion-williamson-and-walker-kessler-best-bets/)
-
- Check out our best NBA player props today with picks and plays on stars Julius Randle, Zion Williamson and Walker Kessler. 
-
-[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 04, 2026
-
-[![Image 43: Travis Etienne](https://www.lineups.com/wp-content/uploads/2026/11/travis-etienne-2-390x230.jpg)](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
-
-[NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
-
-[Saints Weigh Practice Returns for Jordyn Tyson, Travis Etienne, and Kelvin Banks](https://www.lineups.com/articles/saints-weigh-practice-returns-for-jordyn-tyson-travis-etienne-and-kelvin-banks/)
-
- Kellen Moore said the Saints are still evaluating whether to open return windows for Jordyn Tyson, Travis Etienne, and Kelvin Banks this week. 
-
-[Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 03, 2026
-
-lineups.com publishes promotions, independent reviews, expert guides, and news about legal sports betting and gambling to help readers make informed decisions. We support responsible gambling and, where available, focus coverage on licensed and regulated operators.
-
-For U.S. problem gambling help: call 1-800-GAMBLER or visit ncpgambling.org 21+ only. Please play responsibly.
-
-For Alberta: 18+ only. Only play with operators authorised in your province. Gambling problem? Call the Addiction Helpline at 1-866-332-2322 (24/7). Please gamble responsibly.
-
-For Ontario: 19+ only. Only play with operators authorised in your province. Gambling problem? Call ConnexOntario at 1-866-531-2600 (24/7). Please gamble responsibly.
-
-Affiliate disclosure: Some links may earn us compensation. This doesn’t influence our editorial content. Offers and terms can change—always check the operator’s official terms.
-
-Sports
-
-[NFL](https://www.lineups.com/nfl/)
-
-[NBA](https://www.lineups.com/nba/)
-
-[MLB](https://www.lineups.com/mlb/)
-
-[NHL](https://www.lineups.com/nhl/)
-
-[College Football](https://www.lineups.com/college-football/)
-
-[College Basketball](https://www.lineups.com/college-basketball/)
-
-[WNBA](https://www.lineups.com/wnba/)
-
-[Soccer](https://www.lineups.com/soccer/)
-
-[Golf](https://www.lineups.com/golf/)
-
-[Tennis](https://www.lineups.com/tennis/)
-
-[UFC](https://www.lineups.com/ufc/)
-
-Betting & Predictions
-
-[Sports Betting](https://www.lineups.com/sports-betting/)
-
-[Prediction Markets](https://www.lineups.com/prediction-markets/)
-
-[DFS Sites](https://www.lineups.com/dfs-sites/)
-
-[Fantasy Football](https://www.lineups.com/fantasy-football/)
-
-Casino & Lottery
-
-[Online Casinos](https://www.lineups.com/online-casinos/)
-
-[Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)
-
-[Social Casinos](https://www.lineups.com/social-casinos/)
-
-[Online Lottery](https://www.lineups.com/online-lottery/)
-
-Company
-
-[About Us](https://www.lineups.com/about/)
-
-[Contact](https://www.lineups.com/about/contact/)
-
-[Sitemap](https://www.lineups.com/sitemap/)
-
-[Our Experts](https://www.lineups.com/authors/)
-
-Terms
-
-[Terms Of Use](https://www.lineups.com/about/terms/)
-
-[Privacy Policy](https://www.lineups.com/about/privacy-policy/)
-
-[Responsible Gaming](https://www.lineups.com/responsible-gambling/)
-
-[License](https://www.lineups.com/about/license/)
-
-Lineups brings you sports odds, stats, schedules and expert guides to sports betting, online casinos and prediction markets.
-
-[Sports Calendar 2026](https://www.lineups.com/sports-events-calendar/)
-
-  
-  
-Search..  
-
-You must be 21+ years old to wager. Bet within your means. If you have a gambling problem, call 1-800-GAMBLER. Copyright © 2026 Catena Operations Ltd. 
-
-[Visit our Facebook](https://www.facebook.com/lineups)
-
-[Visit our X](https://x.com/Lineups_US)
-
-[Visit our YouTube](https://www.youtube.com/@Lineups)
-
-
-
----
-## SOURCE: https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/
-
-Title: NBA First Basket Picks Today (Nov. 4): De'Aaron Fox vs. Mavericks
-
-URL Source: https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/
-
-Published Time: 2026-11-04T10:31:59-05:00
-
-Markdown Content:
-[Skip to content](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#main-site-content)
-
-[To Top](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#top)
-
-- [x] 
-
-[![Image 1: Lineups Logo](https://www.lineups.com/wp-content/uploads/2026/09/Logo.svg)Lineups](https://www.lineups.com/) Toggle Menu  
-
-*   [NFL Week 9](https://www.lineups.com/nfl/)Submenu opener 
-
-        *   [NFL Thanksgiving 2026 🦃](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-    *   [NFL Schedule TODAY](https://www.lineups.com/nfl/schedule/)
-    *   [NFL Betting Sites TOP](https://www.lineups.com/sports-betting/nfl/)Submenu opener 
-
-                *   [NFL Betting Promos](https://www.lineups.com/sports-betting/nfl/promos/)
-        *   [NFL Betting Trends](https://www.lineups.com/nfl/odds/betting-trends/)
-        *   [Week 8 NFL Survivor Picks](https://www.lineups.com/articles/nfl-week-8-survivor-picks-bengals-patriots-jaguars-round-out-top-picks/)
-
-    *   [NFL Articles](https://www.lineups.com/nfl-articles/)
-
-        *   [NFL Betting Odds](https://www.lineups.com/nfl/odds/)Submenu opener 
-
-                *   [Sunday Night Football Odds](https://www.lineups.com/nfl/odds/snf/)
-        *   [Monday Night Football Odds](https://www.lineups.com/nfl/odds/mnf/)
-        *   [Thursday Night Football Odds](https://www.lineups.com/nfl/odds/tnf/)
-        *   [NFL Player Props Odds](https://www.lineups.com/nfl/odds/player-props/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NFL Depth Charts](https://www.lineups.com/nfl/depth-charts/)
-        *   [NFL Teams](https://www.lineups.com/nfl/teams/)
-        *   [NFL Rosters](https://www.lineups.com/nfl/roster/)
-        *   [NFL Players](https://www.lineups.com/nfl/players/)
-        *   [NFL Standings](https://www.lineups.com/nfl/standings/)
-        *   [NFL Injuries](https://www.lineups.com/nfl/player-injuries/)
-        *   [NFL Matchups](https://www.lineups.com/nfl/matchups/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [NFL Team Stats](https://www.lineups.com/nfl/team-stats/)
-        *   [NFL Redzone Stats](https://www.lineups.com/nfl/redzone/)
-        *   [NFL Snap Counts](https://www.lineups.com/nfl/snap-counts/)
-        *   [NFL Time of Possession](https://www.lineups.com/nfl/time-of-possession/)
-        *   [NFL Team Rankings](https://www.lineups.com/nfl/team-rankings/)
-        *   [NFL Projections](https://www.lineups.com/nfl/dfs-projections/)
-
-*   [NBA](https://www.lineups.com/nba/)Submenu opener 
-
-        *   [NBA Schedule TODAY](https://www.lineups.com/nba/schedule/)
-    *   BETTING & ODDS GET READY Submenu opener 
-
-                *   [NBA Betting Sites](https://www.lineups.com/sports-betting/nba/)
-        *   [NBA Odds](https://www.lineups.com/nba/odds/)
-        *   [NBA Betting Trends](https://www.lineups.com/nba/odds/betting-trends/)
-
-    *   [NBA Articles](https://www.lineups.com/nba-articles/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NBA Starting Lineups](https://www.lineups.com/nba/lineups/)
-        *   [NBA Rosters](https://www.lineups.com/nba/roster/)
-        *   [NBA Teams](https://www.lineups.com/nba/teams/)
-        *   [NBA Players](https://www.lineups.com/nba/players/)
-        *   [NBA Matchups](https://www.lineups.com/nba/matchups/)
-        *   [NBA Depth Charts](https://www.lineups.com/nba/depth-charts/)
-        *   [NBA Injuries](https://www.lineups.com/nba/player-injuries/)
-        *   [NBA Standings](https://www.lineups.com/nba/standings/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [NBA Team Stats](https://www.lineups.com/nba/team-stats/)
-        *   [NBA Team Rankings](https://www.lineups.com/nba/team-rankings/)
-        *   [NBA Projected Minutes](https://www.lineups.com/nba/nba-player-minutes-per-game/)
-        *   [NBA Fantasy Projections](https://www.lineups.com/nba/nba-fantasy-basketball-projections/)
-
-*   [MLB](https://www.lineups.com/mlb/)Submenu opener 
-
-        *   [MLB Schedule TODAY](https://www.lineups.com/mlb/schedule/)
-    *   BETTING & ODDS GET READY Submenu opener 
-
-                *   [Best MLB Betting Sites](https://www.lineups.com/sports-betting/mlb/)
-        *   [MLB Odds](https://www.lineups.com/mlb/odds/)
-        *   [MLB Betting Trends](https://www.lineups.com/mlb/odds/betting-trends/)
-
-    *   [MLB Articles](https://www.lineups.com/mlb-articles/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [MLB Starting Lineups](https://www.lineups.com/mlb/lineups/)
-        *   [MLB Probable Pitchers](https://www.lineups.com/mlb/probable-pitchers/)
-        *   [MLB Rosters](https://www.lineups.com/mlb/roster/)
-        *   [MLB Teams](https://www.lineups.com/mlb/teams/)
-        *   [MLB Players](https://www.lineups.com/mlb/players/)
-        *   [MLB Matchups](https://www.lineups.com/mlb/matchups/)
-        *   [MLB Depth Charts](https://www.lineups.com/mlb/depth-charts/)
-        *   [MLB Injuries](https://www.lineups.com/mlb/player-injuries/)
-        *   [MLB Standings](https://www.lineups.com/mlb/standings/)
-
-        *   STATS & ANALYSIS Submenu opener 
-
-                *   [MLB Team Stats](https://www.lineups.com/mlb/team-stats/)
-        *   [MLB Team Rankings](https://www.lineups.com/mlb/team-rankings/)
-        *   [MLB Fantasy Projections](https://www.lineups.com/mlb/fantasy-baseball-dfs-projections/)
-
-*   [NHL](https://www.lineups.com/nhl/)Submenu opener 
-
-        *   [NHL Schedule TODAY](https://www.lineups.com/nhl/schedule/)
-    *   [NHL Betting Sites](https://www.lineups.com/sports-betting/nhl/)Submenu opener 
-
-                *   [NHL Betting Trends](https://www.lineups.com/nhl/odds/betting-trends/)
-
-    *   [NHL Articles](https://www.lineups.com/nhl-articles/)
-
-        *   [NHL Betting Lines](https://www.lineups.com/nhl/odds/)Submenu opener 
-
-                *   [NHL Stanley Cup](https://www.lineups.com/nhl/odds/stanley-cup/)
-        *   [NHL Norris Trophy Odds](https://www.lineups.com/nhl/odds/norris/)
-        *   [NHL Calder Trophy Odds](https://www.lineups.com/nhl/odds/calder/)
-
-        *   TEAMS & PLAYERS Submenu opener 
-
-                *   [NHL Line Combinations](https://www.lineups.com/nhl/line-combinations/)
-        *   [NHL Starting Goalies](https://www.lineups.com/nhl/starting-goalies/)
-        *   [NHL Standings](https://www.lineups.com/nhl/standings/)
-
-    *   STATS & ANALYSIS Submenu opener 
-
-                *   [NHL Team Rankings](https://www.lineups.com/nhl/team-rankings/)
-        *   [NHL Fantasy Projections](https://www.lineups.com/nhl/dfs-projections/)
-
-*   [Sports Betting](https://www.lineups.com/sports-betting/)Submenu opener 
-
-        *   [Sportsbook Promos HOT](https://www.lineups.com/sports-betting/promos/)Submenu opener 
-
-                *   [bet365 Bonus Code](https://www.lineups.com/sports-betting/bet365-bonus-code/)Submenu opener 
-        *   [BetRivers Bonus Code](https://www.lineups.com/sports-betting/betrivers-bonus-code/)
-        *   [BetMGM Bonus Code](https://www.lineups.com/sports-betting/betmgm-promo-code/)
-        *   [DraftKings Promo Code](https://www.lineups.com/sports-betting/draftkings-promo-code/)
-        *   [FanDuel Promo Code](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-        *   [Fanatics Sportsbook Promo](https://www.lineups.com/sports-betting/fanatics-sportsbook-promo/)
-        *   [Hard Rock Bet Promo Code](https://www.lineups.com/sports-betting/hard-rock-bet-promo/)
-
-        *   [Best Online Sportsbooks](https://www.lineups.com/sports-betting/#best-sportsbooks)
-    *   [Where is Sports Betting Legal in the US?](https://www.lineups.com/sports-betting/states/)
-    *   [Best Sports Betting Apps](https://www.lineups.com/sports-betting/#sports-betting-apps)
-    *   [New Betting Sites](https://www.lineups.com/sports-betting/#new-betting-sites)
-    *   [Fastest Payouts Betting Apps & Sites](https://www.lineups.com/sports-betting/fast-withdrawal/)Submenu opener 
-
-                *   [![Image 2: Venmo Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/venmo-logo-40x40-1.webp)Venmo Betting Sites](https://www.lineups.com/sports-betting/venmo/)
-        *   [![Image 3: PayPal Betting Sites](https://www.lineups.com/wp-content/uploads/2026/08/paypal-logo-40x40-1.webp)PayPal Betting Sites](https://www.lineups.com/sports-betting/paypal/)
-
-    *   [List of Legal U.S. Online Betting Sites](https://www.lineups.com/sports-betting/#sports-betting-sites)
-    *   [Live Betting Sites](https://www.lineups.com/sports-betting/#live-betting-sites)
-
-        *   🍁 CANADA 🍁
-    *   [Canada Sports Betting](https://www.lineups.com/sports-betting/canada/)Submenu opener 
-
-                *   [Alberta Sports Betting NEW](https://www.lineups.com/sports-betting/canada/alberta/)
-        *   [Ontario Sports Betting](https://www.lineups.com/sports-betting/canada/ontario/)
-
-*   [Prediction Markets](https://www.lineups.com/prediction-markets/)Submenu opener 
-
-        *   TOP PREDICTION MARKETS
-    *   [![Image 4: Fanduel Predicts](https://www.lineups.com/wp-content/uploads/2026/08/fanduel-logo-40x40-2.webp)Fanduel Predicts TOP CHOICE](https://www.lineups.com/prediction-markets/fanduel-predicts-promo-code/)
-    *   [![Image 5: OG.com](https://www.lineups.com/wp-content/uploads/2026/08/og-com-logo-40x40-1.webp)OG.com](https://www.lineups.com/prediction-markets/og-com-promo-code/)
-    *   [![Image 6: Polymarket](https://www.lineups.com/wp-content/uploads/2026/08/polymarket-logo-40x40-1.webp)Polymarket](https://www.lineups.com/prediction-markets/polymarket-promo-code/)
-    *   [![Image 7: ProphetX](https://www.lineups.com/wp-content/uploads/2026/08/prophetx-logo-40x40-1.webp)ProphetX](https://www.lineups.com/prediction-markets/prophetx-promo-code/)
-    *   [![Image 8: DraftKings Predictions](https://www.lineups.com/wp-content/uploads/2026/08/draftkings-logo-40x40-1.webp)DraftKings Predictions](https://www.lineups.com/prediction-markets/draftkings-predictions-promo-code/)
-    *   [![Image 9: Crypto.com](https://www.lineups.com/wp-content/uploads/2026/08/crypto-com-logo-40x40-1.webp)Crypto.com](https://www.lineups.com/prediction-markets/crypto-com-promo-code/)
-    *   [![Image 10: MooMoo](https://www.lineups.com/wp-content/uploads/2026/08/moomoo-5-1-110x110.png)MooMoo](https://www.lineups.com/prediction-markets/moomoo/)
-    *   [![Image 11: Gemini](https://www.lineups.com/wp-content/uploads/2026/10/gemini.svg)Gemini](https://www.lineups.com/prediction-markets/gemini-promo-code/)
-
-        *   Other Prediction Markets Platforms Submenu opener 
-
-                *   [Fanatics Market](https://www.lineups.com/prediction-markets/fanatics-markets-promo-code/)
-        *   [Forecastex](https://www.lineups.com/prediction-markets/forecastex-promo-code/)
-        *   [Kalshi](https://www.lineups.com/prediction-markets/kalshi-promo-code/)
-
-                *   [Novig](https://www.lineups.com/prediction-markets/novig-promo-code/)
-        *   [PredictIt](https://www.lineups.com/prediction-markets/predictit-promo-code/)
-        *   [Underdog Prediction](https://www.lineups.com/prediction-markets/underdog-prediction-market-promo-code/)
-
-    *   [Prediction Markets Tools](https://www.lineups.com/prediction-markets/tools/)Submenu opener 
-
-                *   [ArbBets Explained](https://www.lineups.com/prediction-markets/tools/arbbets/)
-        *   [Stand.trade Review](https://www.lineups.com/prediction-markets/tools/stand-trade/)
-        *   [Mention Metrix Review](https://www.lineups.com/prediction-markets/tools/mention-metrix/)
-
-                *   [Rainmaker AI Guide](https://www.lineups.com/prediction-markets/tools/rainmaker-ai/)
-        *   [Hashdive Review](https://www.lineups.com/prediction-markets/tools/hashdive/)
-
-*   [Online Casinos](https://www.lineups.com/online-casinos/)Submenu opener 
-
-        *   [Online Casino Bonuses](https://www.lineups.com/online-casinos/bonus/)
-    *   [Online Casino No Deposit Bonuses](https://www.lineups.com/online-casinos/no-deposit-bonus/)
-    *   [Casino Apps](https://www.lineups.com/online-casinos/apps/)
-    *   [Online Casino Games](https://www.lineups.com/online-casinos/games/)
-
-        *   Online Casino Reviews & Promo Codes Submenu opener 
-
-                *   [bet365 Casino](https://www.lineups.com/online-casinos/bet365-casino-bonus/)
-        *   [Bally Casino](https://www.lineups.com/online-casinos/bally-casino-promo-code/)
-        *   [BetMGM Casino](https://www.lineups.com/online-casinos/betmgm-casino-bonus-code/)
-        *   [BetRivers Casino](https://www.lineups.com/online-casinos/betrivers-casino-bonus-code/)
-        *   [Caesars Casino](https://www.lineups.com/online-casinos/caesars-casino-promo-code/)
-        *   [DraftKings Casino](https://www.lineups.com/online-casinos/draftkings-casino-promo-code/)
-        *   [Fanatics Casino](https://www.lineups.com/online-casinos/fanatics-casino-promo-code/)
-        *   [FanDuel Casino](https://www.lineups.com/online-casinos/fanduel-casino-promo-code/)
-        *   [Golden Nugget Casino](https://www.lineups.com/online-casinos/golden-nugget-casino-bonus-code/)
-        *   [Monopoly Casino](https://www.lineups.com/online-casinos/monopoly-casino-promo-code/)
-
-        *   WHERE TO PLAY ONLINE CASINO Submenu opener 
-
-                *   [Connecticut Online Casinos](https://www.lineups.com/online-casinos/connecticut/)
-        *   [Michigan Online Casinos](https://www.lineups.com/online-casinos/michigan/)
-        *   [New Jersey Online Casinos](https://www.lineups.com/online-casinos/new-jersey/)
-        *   [Pennsylvania Online Casinos](https://www.lineups.com/online-casinos/pennsylvania/)
-        *   [West Virginia Online Casinos](https://www.lineups.com/online-casinos/west-virginia/)
-
-    *   🍁 CANADA 🍁
-    *   [Canada Online Casinos](https://www.lineups.com/online-casinos/canada/)Submenu opener 
-
-                *   [Alberta Online Casinos NEW](https://www.lineups.com/online-casinos/canada/alberta/)
-        *   [Ontario Online Casinos](https://www.lineups.com/online-casinos/canada/ontario/)
-
-*   [Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/)Submenu opener 
-
-        *   [New Sweepstakes Casinos](https://www.lineups.com/sweepstakes-casinos/new/)
-    *   [Top Sweepstakes Casino Apps](https://www.lineups.com/sweepstakes-casinos/apps/)
-    *   [Sweepstakes Casino No Deposit Bonuses](https://www.lineups.com/sweepstakes-casinos/no-deposit-bonus/)
-    *   [Social Casinos](https://www.lineups.com/social-casinos/)
-
-        *   BEST BONUSES FOR YOU HOT Submenu opener 
-
-                *   [Crown Coins Promo Code](https://www.lineups.com/sweepstakes-casinos/crown-coins-casino/promo-code/)
-        *   [WOW Vegas Promo Codes](https://www.lineups.com/sweepstakes-casinos/wow-vegas/promo-code/)
-        *   [Megabonanza Casino Promo Code](https://www.lineups.com/sweepstakes-casinos/megabonanza/promo-code/)
-
-        *   [Sweepstakes Casino Games](https://www.lineups.com/sweepstakes-casinos/games/)Submenu opener 
-
-                *   [10 Best Chumba Slots](https://www.lineups.com/sweepstakes-casinos/chumba-casino/slots/)
-        *   [Top 5 Slots on MegaBonanza](https://www.lineups.com/sweepstakes-casinos/megabonanza/slots/)
-
-*   [Articles](https://www.lineups.com/articles/)
-
-[Login](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#login)
-
-[Join Us](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#register)
-
-![Image 12: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
-
-![Image 13: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)000![Image 14: dropdown toggle](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/arrow-next.svg)Toggle gamification menu
-
-![Image 15: Reward coin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/reward-coin.svg)![Image 16: Referral reward icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/referral_coins.webp)
-
-+0 coins
-
-Don't break the chain. Log in tomorrow for more coins.
-
-You have completed your 7 day streak!
-
-00 HRS
-
-00 MIN
-
-00 SEC
-
-![Image 17: Profile avatar](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/profile.svg)
-
---![Image 18: Today icon](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/coin.svg)--[Go to Rewards](https://www.lineups.com/profile/?section=tab-shop)
-
-🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
-
-🎉 Check out the Bonus+ Shop to see what your Coins can get you.
-
-[Refer a Friend for 500 Coins](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#refer)
-
-[Logout](https://www.lineups.com/?action=catena_gamification_logout&_wpnonce=94e5da1556)[Go to profile](https://www.lineups.com/profile/)
-
-🌟 Earn Coins by visiting daily, rating casinos, and referring friends.
-
-[Login](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/#login)[Join Free ![Image 19: coin reward](https://www.lineups.com/wp-content/themes/catena-unicorn/levelup/assets/icons/CoinRewardButton.svg)](https://www.lineups.com/#register)
-
-Read [our guide](https://www.lineups.com/bonus-plus/) to find out what Coins are, how to earn them, and what you can redeem them for.
-
-[Earn Coins Guidelines](https://www.lineups.com/bonus-plus/earning-coins/)
-
-[Sports Betting News](https://www.lineups.com/articles/)
-
-# NBA First Basket Picks Today (Nov. 4): De’Aaron Fox
-
- Our NBA first basket pick for Nov. 4 is De’Aaron Fox at +600 as the Spurs host the Mavericks. Here’s why Fox is the play to score first tonight. 
-
-![Image 20: De'Aaron Fox](https://www.lineups.com/wp-content/uploads/2026/11/2026-11-01T011220Z_865800005_MT1USATODAY30243852_RTRMADP_3_NBA-MINNESOTA-TIMBERWOLVES-AT-SAN-ANTONIO-SPURS-1-760x400.jpg)
-
-![Image 21: Patrick Monnin Avatar](https://www.lineups.com/wp-content/uploads/2026/10/Patrick-Monnin-Lineups-Author-500x500-1-120x120.webp)
-
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)
-
-2 mins read Published: Nov. 4, 2026 Updated: Nov. 4, 2026
-
-![Image 22: Share](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/share-icon.svg) Share 
-
-[![Image 23: Copy link](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/link.svg)](https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[![Image 24: Share on X](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/x-icon.svg)](https://x.com/share?url=https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[![Image 25: Share on Facebook](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/fb-icon.svg)](https://www.facebook.com/sharer.php?u=https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)[![Image 26: Share on Reddit](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/reddit-icon.svg)](https://reddit.com/submit?url=https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/&title=NBA%20First%20Basket%20Picks%20Today%20(Nov.%204):%20De%27Aaron%20Fox)[![Image 27: Share via Email](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/share-icons/email-icon.svg)](mailto:?subject=NBA%20First%20Basket%20Picks%20Today%20(Nov.%204):%20De'Aaron%20Fox&body=https://www.lineups.com/articles/nba-first-basket-picks-today-nov-4-deaaron-fox/)
-
-[![Image 28: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/twitter.svg)](https://twitter.com/pmonnin21)[![Image 29: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/email.svg)](mailto:patrick.monnin@catenamedia.com)
-
-Back like we never left. Not much exposition needed on this one without any games yesterday so we’ll dive right into it — tonight’s pick for NBA first basket is De’Aaron Fox at  odds.
-
-## Challenge Update: 10 Miles in Jeans
-
-Any consistent followers of our daily NBA picks know that we’re doing monthly challenges tied to each of these. To start the season, I promised that if I didn’t hit on at least three of my picks before Thanksgiving, I was going to film myself walking around the Brickell City Centre mall (Miami) in a dress. Thankfully, we put ourselves in a good position by hitting three of our first nine picks.
-
-So lucky for you guys, we can get into some double trouble. I won’t be making these picks without stakes, so let’s fast-track to the next challenge.
-
-> **Here’s my challenge:** If I don’t hit two **more** first basket picks by December 4, then I will run 10 miles in jeans and document every mile. Every mile where I don’t break 9:30 minutes adds another mile to the challenge.
-
-## Why De’Aaron Fox For NBA First Basket vs. the Mavericks
-
-The efficiency is what sells me on Fox at  odds. Through seven games, Fox is shooting 58.2% from the field (39-of-67) and has scored in double figures every night. He’s getting to his spots early in possessions, attacking downhill and pulling up from the midrange. Those are exactly the looks that show up on a team’s first trip down the floor.
-
-The matchup helps too. Dallas will be without **Dereck Lively II** (foot), its best rim protector, which should open up the paint for a guard who lives there. On top of that, Victor Wembanyama gives San Antonio the edge on the opening tip, and when the Spurs get the first possession, the ball is usually in Fox’s hands.
-
-The risk is obvious: this Spurs team has plenty of options, from Wemby to Dylan Harper (season-high 25 vs. Minnesota) to Stephon Castle. But at +600, we’re getting a fair price on the most efficient guard on the floor with a soft interior to attack.
-
-## NBA First Basket Picks Tracker
-
-| Date | Pick | Odds | Units Wagered | Overall Record | Units +/- |
-| --- | --- | --- | --- | --- | --- |
-| 11/04/2026 | De’Aaron Fox | +600 | 1.00 | 3-8 | ▲10.50 |
-| 11/02/2026 | Zach Edey | +470 | 1.00 | 3-7 | ▲11.50 |
-| 10/30/2026 | Bam Adebayo | +600 | 1.00 | 3-6 | ▲ 12.50 |
-| 10/29/2026 | Deni Avdija | +750 | 1.00 | 2-6 | ▲ 6.50 |
-| 10/28/2026 | Tyler Herro | +650 | 1.00 | 2-5 | ▲ 7.50 |
-| 10/27/2026 | Cade Cunningham | +500 | 1.00 | 1-5 | ▲ 1.00 |
-| 10/26/2026 | Josh Giddey | +1400 | 1.00 | 1-4 | ▲ 2.00 |
-| 10/23/2026 | Brandon Miller | +600 | 1.00 | 1-3 | ▲ 3.00 |
-| 10/22/2026 | Jarrett Allen | +600 | 1.00 | 1-2 | ▲ 4.00 |
-| 10/21/2026 | Anthony Edwards | +600 | 1.00 | 0-2 | ▼ 2.00 |
-| 10/20/2026 | Jaylen Brown | +700 | 1.00 | 0-1 | ▼ 1.00 |
-
-For more on how the market works, plus jump ball and opening-play strategy, see our [NBA first basket guide](https://www.lineups.com/nba/first-basket/).
-
- 🔥 Get $4,000+ in Bonuses 
-
- Our top sportsbook offers right now 
-
- BetMGM 
-
- Up to $1,500 in Bonus Bets if First Wager Loses 
-
-[Claim Now](https://www.lineups.com/claim/betmgm-sportsbook/)
-
- Fanatics 
-
- Up to $1,000 In FanCash Matched Bets 
-
-[Claim Now](https://www.lineups.com/claim/fanatics-sportsbook/)
-
- bet365 
-
- Bet $10, Get $200 In Bonus Bets Win or Lose 
-
-[Claim Now](https://www.lineups.com/claim/bet365-sportsbook/)
-
-[See All Sportsbook Promos →](https://www.lineups.com/sports-betting/promos/)
-
-## Latest Betting News
-
-[![Image 30: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-
-[](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-#### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
-
-[![Image 31: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 46: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 32: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 47: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 33: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 48: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[![Image 34: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 49: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 #### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 About the Author
 
-[VIEW ALL POSTS](https://www.lineups.com/author/patrickmonnin/)
+[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[Patrick Monnin](https://www.lineups.com/author/patrickmonnin/)
+[Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 35: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/pmonnin21)[![Image 36: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:patrick.monnin@catenamedia.com)
+[![Image 50: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 51: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
-With over a half-decade of editorial experience, Patrick has built his career covering the online gambling industry. From sports betting and iGaming to the rise of sweepstakes casinos and prediction markets, his industry analysis has been featured on outlets such as Legal Sports Report, Bonus.com, Gaming Today, Lineups, and more. He currently serves as an editor at Lineups, where he focuses on tracking the industry's continued expansion into new markets and emerging verticals.
+Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
 *   Expert on:
 *   [Sports Betting News](https://www.lineups.com/articles/)
-*   [Sports Betting Industry News](https://www.lineups.com/sports-betting-industry-news/)
+*   [NBA Articles](https://www.lineups.com/nba-articles/)
+*   [WNBA Articles](https://www.lineups.com/wnba-articles/)
+*   [NBA Odds Articles](https://www.lineups.com/nba-odds/)
+*   [NFL Articles](https://www.lineups.com/nfl-articles/)
 
-[VIEW ALL POSTS](https://www.lineups.com/author/patrickmonnin/)
+[VIEW ALL POSTS](https://www.lineups.com/author/juan-carlos-blanco/)
 
  Related Stories 
 
-[![Image 37: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 52: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4083,7 +3508,7 @@ With over a half-decade of editorial experience, Patrick has built his career co
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 38: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 53: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4093,7 +3518,7 @@ With over a half-decade of editorial experience, Patrick has built his career co
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 39: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 54: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4103,7 +3528,7 @@ With over a half-decade of editorial experience, Patrick has built his career co
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 40: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 55: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4113,7 +3538,7 @@ With over a half-decade of editorial experience, Patrick has built his career co
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 41: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+[![Image 56: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -4123,7 +3548,7 @@ With over a half-decade of editorial experience, Patrick has built his career co
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
 
-[![Image 42: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+[![Image 57: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 

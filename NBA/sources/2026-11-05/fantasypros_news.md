@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-05 11:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-05 16:12 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,90 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Rasheer Fleming](https://images.fantasypros.com/images/players/nba/6347/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rasheer-fleming.php)
+F - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/rasheer-fleming.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/rasheer-fleming.php)  
+[» More News](https://www.fantasypros.com/nba/news/rasheer-fleming.php)
+[Rasheer Fleming (ankle) ruled out Thursday ](https://www.fantasypros.com/nba/news/618029/rasheer-fleming-ankle-ruled-out-thursday.php)  
+
+Thu, Nov 5th 3:56pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Rasheer Fleming has been ruled out for Thursday’s game against the Magic. (Source: [Duane Rankin on Twitter](https://x.com/DuaneRankin/status/2118438202663161924?a=6wy1LNkUA79GuLE2CNQ&s=20))
+**_Fantasy Impact:_** Jordan Goodwin will also be sidelined. Ryan Dunn should see more run for Phoenix. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Goodwin](https://images.fantasypros.com/images/players/nba/5177/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-goodwin.php)
+G - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-goodwin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-goodwin.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-goodwin.php)
+[Jordan Goodwin (calf) ruled out Thursday ](https://www.fantasypros.com/nba/news/618028/jordan-goodwin-calf-ruled-out-thursday.php)  
+
+Thu, Nov 5th 3:55pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jordan Goodwin has been ruled out for Thursday’s game against the Magic. (Source: [Duane Rankin on Twitter](https://x.com/DuaneRankin/status/2118438202663161924?a=6wy1LNkUA79GuLE2CNQ&s=20))
+**_Fantasy Impact:_** Rasheer Fleming (ankle) will also be sidelined. Ryan Dunn should see more run for Phoenix. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
+[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
+[Trey Murphy III (knee) listed probable Friday ](https://www.fantasypros.com/nba/news/618027/trey-murphy-iii-knee-listed-probable-friday.php)  
+
+Thu, Nov 5th 3:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Trey Murphy III is listed as probable for Friday's game against the Timberwolves. 
+**_Fantasy Impact:_** Murphy is on track to return from a one-game absence. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dyson Daniels](https://images.fantasypros.com/images/players/nba/5444/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dyson-daniels.php)
+G - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/dyson-daniels.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dyson-daniels.php)  
+[» More News](https://www.fantasypros.com/nba/news/dyson-daniels.php)
+[Dyson Daniels grabs 16 rebounds, approaches triple-double](https://www.fantasypros.com/nba/news/617999/dyson-daniels-grabs-16-rebounds-approaches-triple-double.php)  
+
+Thu, Nov 5th 11:07am EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Dyson Daniels scored eight points (4-13 FG) to go with 16 rebounds and eight assists in Wednesday's 120-105 win over the Wizards. 
+**_Fantasy Impact:_** Daniels pulled down a career-high 16 rebounds in Wednesday's win, as he continues to do whatever the Hawks need to win. The jack-of-all-trades guard is now averaging 9.6 points, 6.7 rebounds, 4.7 assists, and 2.7 steals through nine games. 
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Onyeka Okongwu](https://images.fantasypros.com/images/players/nba/5098/headshot/100x100.png)](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)
+C - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/onyeka-okongwu.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/onyeka-okongwu.php)  
+[» More News](https://www.fantasypros.com/nba/news/onyeka-okongwu.php)
+[Onyeka Okongwu pulls down 16 boards Wednesday](https://www.fantasypros.com/nba/news/617998/onyeka-okongwu-pulls-down-16-boards-wednesday.php)  
+
+Thu, Nov 5th 11:01am EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Onyeka Okongwu scored 14 points (5-9 FG, 2-5 3PT, 2-2 FT) to go with 16 rebounds, four assists, two steals, and one block in Wednesday's 120-105 win over the Wizards. 
+**_Fantasy Impact:_** Okongwu has grabbed double-digit rebounds in four straight games, recording three double-doubles in that span. The Atlanta big man has averaged 15.5 points and 12.0 boards while shooting 49.0% from the field in the same stretch. 
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Nickeil Alexander-Walker](https://images.fantasypros.com/images/players/nba/4492/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)
+G - ATL
+[» Rankings](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/nickeil-alexander-walker.php)  
+[» More News](https://www.fantasypros.com/nba/news/nickeil-alexander-walker.php)
+[Nickeil Alexander-Walker leads the way with 26 points](https://www.fantasypros.com/nba/news/617997/nickeil-alexander-walker-leads-way-with-26-points.php)  
+
+Thu, Nov 5th 10:56am EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Nickeil Alexander-Walker scored 26 points (9-20 FG, 6-14 3PT, 2-2 FT) in Wednesday's 120-105 win over the Wizards. 
+**_Fantasy Impact:_** With All-Star Jalen Johnson (ankle) sidelined, Alexander-Walker has absolutely taken over in back-to-back wins for the Hawks this week. The veteran guard has put a combined 60 points on the board between the two victories, knocking down a whopping 15 threes on 29 attempts. Alexander-Walker was named the league's Most Improved Player last season, and he's picked right back up on that so far this season. 
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Kyshawn George](https://images.fantasypros.com/images/players/nba/6146/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyshawn-george.php)
 F - WAS
 [» Rankings](https://www.fantasypros.com/nba/players/kyshawn-george.php)  
@@ -203,90 +287,6 @@ Victor Wembanyama posted a dominant double-double for the Spurs Wednesday night,
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Lauri Markkanen](https://images.fantasypros.com/images/players/nba/3322/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lauri-markkanen.php)
-F - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/lauri-markkanen.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/lauri-markkanen.php)  
-[» More News](https://www.fantasypros.com/nba/news/lauri-markkanen.php)
-[Lauri Markkanen puts up double-double in loss](https://www.fantasypros.com/nba/news/617982/lauri-markkanen-puts-up-double-double-loss.php)  
-
-Thu, Nov 5th 9:23am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Lauri Markkanen scored 21 points (6-15 FG, 5-12 3P, 4-6 FT) with 10 rebounds, four assists, a steal, and two blocks in the Jazz’s 120-113 loss to the Pelicans on Wednesday.
-**_Fantasy Impact:_** Markkanen played second fiddle to Keyonte George in this game, who went off for 39 points. He now has at least 21 points in back to back games after going two games at 13 points or worse. His double-double was also the first of the season for him, and you should expect his rebounding numbers to stay fairly healthy as the season continues.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Keyonte George](https://images.fantasypros.com/images/players/nba/5986/headshot/100x100.png)](https://www.fantasypros.com/nba/players/keyonte-george.php)
-G - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/keyonte-george.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/keyonte-george.php)  
-[» More News](https://www.fantasypros.com/nba/news/keyonte-george.php)
-[Keyonte George explodes for 39 points in loss to Pelicans](https://www.fantasypros.com/nba/news/617981/keyonte-george-explodes-39-points-loss-to-pelicans.php)  
-
-Thu, Nov 5th 9:19am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Keyonte George exploded for 39 points (14-26 FG, 2-9 3P, 9-13 FG) with two rebounds, 9 assists, four steals, and a block in the Jazz’s 120-113 OT loss to the Pelicans on Wednesday.
-**_Fantasy Impact:_** George absolutely went off in this game despite struggling from three point range. His 13 trips to the free throw line certainly helped, but he was the offensive engine powering the Jazz on Wednesday. He now has a 39 and 31 point game sandwiched around 7 and 8 point performances. But, expect him to be in the 20 point range more often than not.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Derik Queen](https://images.fantasypros.com/images/players/nba/6323/headshot/100x100.png)](https://www.fantasypros.com/nba/players/derik-queen.php)
-C - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/derik-queen.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/derik-queen.php)  
-[» More News](https://www.fantasypros.com/nba/news/derik-queen.php)
-[Derik Queen racks up 20 points in win over Jazz](https://www.fantasypros.com/nba/news/617980/derik-queen-racks-up-20-points-win-over-jazz.php)  
-
-Thu, Nov 5th 9:14am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Derik Queen scored 20 points (8-21 FG, 0-2 3P, 4-4 FT) with 9 rebounds, six assists, and a block in the Pelicans’ 120-113 win over the Jazz.
-**_Fantasy Impact:_** Queen now has back-to-back games of 20 points after going two games below 10 points. He’s seen his scoring and rebounding rise compared to his rookie year, and he should continue to see a healthy workload as the year goes on.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Mario Hezonja](https://images.fantasypros.com/images/players/nba/3019/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mario-hezonja.php)
-F - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/mario-hezonja.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/mario-hezonja.php)  
-[» More News](https://www.fantasypros.com/nba/news/mario-hezonja.php)
-[Mario Hezonja leads Cavs bench in loss to OKC](https://www.fantasypros.com/nba/news/617979/mario-hezonja-leads-cavs-bench-loss-to-okc.php)  
-
-Thu, Nov 5th 9:10am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Mario Hezonja scored 12 points (5-10 FG, 2-6 3P) with 8 rebounds and one assist in the Cavs’ 124-116 loss to OKC.
-**_Fantasy Impact:_** Hezonja now has back to back performances of 12 points and 8 rebounds, both against the Thunder. He’s actually on a bit of a streak, with three of his last four games with 8+ rebounds and 10+ points. He’s an intriguing add for deeper leagues.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Sam Merrill](https://images.fantasypros.com/images/players/nba/5271/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sam-merrill.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/sam-merrill.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/sam-merrill.php)  
-[» More News](https://www.fantasypros.com/nba/news/sam-merrill.php)
-[Sam Merrill scores 10 points in loss to OKC](https://www.fantasypros.com/nba/news/617978/sam-merrill-scores-10-points-loss-to-okc.php)  
-
-Thu, Nov 5th 9:07am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Sam Merril scored 10 points (3-7 FG, 2-4 3P, 2-2 FT) with seven rebounds, an assist, and two stocks in the Cavs’ 124-116 loss to OKC on Wednesday.
-**_Fantasy Impact:_** Merrill was second on the Cavs’ bench in scoring in the loss. He got a season high in rebounds and his first block of the season, both positives for him. However, given his role, albeit steady as it is, he’s a low-end start at best.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![James Harden](https://images.fantasypros.com/images/players/nba/2332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/james-harden.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/james-harden.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/james-harden.php)  
-[» More News](https://www.fantasypros.com/nba/news/james-harden.php)
-[James Harden puts up 19 points in loss to Thunder](https://www.fantasypros.com/nba/news/617977/james-harden-puts-up-19-points-loss-to-thunder.php)  
-
-Thu, Nov 5th 9:05am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-James Harden scored 19 points (5-16 FG, 3-8 3P, 6-6 FT) with 9 rebounds, six assists, and two blocks in the Cavs’ 124-116 loss to the Thunder.
-**_Fantasy Impact:_** Harden nearly got himself a double-double in this game, falling one rebound short. He’s seen his scoring drop compared to last year, but should be just fine as his playmaking makes up for it.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=367_1793894477100&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=400_1793912821316&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
