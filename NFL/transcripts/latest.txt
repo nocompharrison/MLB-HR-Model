@@ -1,32 +1,44 @@
-# NFL transcripts | week 9 | updated 2026-11-05 06:48 ET
+# NFL transcripts | week 9 | updated 2026-11-05 16:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 37 files in NFL/transcripts/week-09:
+# 56 files in NFL/transcripts/week-09:
+NFL/transcripts/week-09/0qfmf695U8A_Stokastic_Jaguars_Ravens_Showdown_Strategy_TNF_Week_9_DFS_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-09/2gMcPMeMToc_PlayerProfiler_Week_9_Waiver_Wire_Pickups_2026_MUST_ADD_Fantasy_Football_Players.txt
 NFL/transcripts/week-09/2jG0oy5LJII_PlayerProfiler_The_Game_Plan_for_Week_9_Fantasy_Football_Starts_Sits_FACT_OR_FICTION.txt
 NFL/transcripts/week-09/4vtBSKD9pRA_TheAudible_How_do_Fantasy_GMs_start_the_BEST_roster_in_a_week_of_BAD_matchups_Wk.txt
 NFL/transcripts/week-09/4xLLYIufNjk_Footballers_Midseason_Review_Bounce_Backs_Miscellany_Fantasy_Football_2026_Ep_2008.txt
+NFL/transcripts/week-09/5XIOWr4zJ-w_SlopRules_Top_3_Bets_For_MNF_Jaguars_vs_Ravens_on_11_5_26.txt
+NFL/transcripts/week-09/6wj4bvOv_hU_SGPN_Cowboys_vs_Colts_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/7vHnQSkww8s_PlayerProfiler_Malik_Willis_Breakout_NFL_Trade_Rumors_Rookie_Risers_Week_9_Starts_w_S.txt
+NFL/transcripts/week-09/EXep3fm5Kf8_PickDawgz_Jaguars_vs_Ravens_Picks_Predictions_11_5_26_NFL_Week_9_Picks_Best_Bets.txt
 NFL/transcripts/week-09/EdG4ftDljaY_SGPN_Thursday_Night_Football_Week_9_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-09/GDc1HjTzbow_ActionNetwork_The_BEST_NFL_Week_9_Bets_Picks_for_Every_Game.txt
 NFL/transcripts/week-09/IVY-GDGvV90_ActionNetwork_Jaguars_vs_Ravens_Picks_Predictions_NFL_Thursday_Night_Football_Best_B.txt
 NFL/transcripts/week-09/IWucEiK0N9A_PlayerProfiler_Top_10_Takeaways_Usage_trends_from_Week_8_and_waiver_wire_options_for.txt
+NFL/transcripts/week-09/IXoveTNYRUQ_PickDawgz_NFL_Alternate_Line_Prediction_11_05_26_The_Extendo_Clip.txt
 NFL/transcripts/week-09/KjbSWUbYkeI_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_9_Predictions_2026.txt
 NFL/transcripts/week-09/MTXwfwNbOv8_Stokastic_Week_9_NFL_DFS_Single_Lineup_Sim_Building_NFL_DFS_Strategy.txt
 NFL/transcripts/week-09/OtB_TD5uMgE_BettingPros_NFL_Week_9_Early_Picks_Line_Movement_Predictions_2026.txt
 NFL/transcripts/week-09/P4GcJt0NLgI_CallingOurShot_NFL_Week_9_Best_Picks_Predictions.txt
 NFL/transcripts/week-09/PrkFLq8Zuak_BettingPros_Top_NFL_Picks_for_Bears_vs_Seahwaks_Best_Bets_Player_Props_for_Monday.txt
+NFL/transcripts/week-09/RY5n6u46Lak_MattyChucks_Jaguars_vs_Ravens_Thursday_Night_Football_Best_Bets_November_5th.txt
 NFL/transcripts/week-09/Rvc2kAjA_a0_DFSArmyLive_PrizePicks_Picks_TONIGHT_Ravens_vs_Jaguars_TNF_BEST_Props_6200_YTD_ROI.txt
+NFL/transcripts/week-09/S3vR7nd5_ow_SGPN_Lions_vs_Dolphins_Prediction_Picks_Best_Bets_NFL_Week_9.txt
+NFL/transcripts/week-09/Sfs3aZ5j66M_SGPN_Packers_vs_Patriots_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/TIilbDoZtW4_SportsLine_NFL_Picks_Bets_for_Every_Week_9_Game.txt
 NFL/transcripts/week-09/VGVq_aSok38_FootballersDFS_Week_9_NFL_Preview_Backing_the_Raiders_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-09/VQlubJGPexo_DFSArmy_NFL_DFS_Week_9_Strategy_for_Fanduel_2026.txt
 NFL/transcripts/week-09/X28ur2gS_K4_PlayerProfiler_Week_9_TOP_Kickers_Defenses_High_Upside_Streamers.txt
 NFL/transcripts/week-09/_R2mST2hIII_PickDawgz_NFL_Picks_Predictions_For_Today_Thursday_11_5_26_FREE_NFL_Best_Bets_an.txt
 NFL/transcripts/week-09/acGXcpNrv_8_PlayerProfiler_QB_CHAOS_Benching_Season_Is_Here_Fantasy_Empire.txt
+NFL/transcripts/week-09/b1z8zuPt4Ro_SGPN_Broncos_vs_Panthers_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/cthwWAJBHLU_Stokastic_NFL_DFS_First_Look_Week_9_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-09/d6M55ZNM3b4_LandYourBets_Jaguars_vs_Ravens_NFL_Best_Bets_Player_Props_Thursday_Night_Football_W.txt
+NFL/transcripts/week-09/k7qbHDR62fI_SGPN_Rams_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/kHnBAoV-vZg_Footballers_Week_9_Waivers_Full_Stream_Ahead_Fantasy_Football_2026_Ep_2007.txt
 NFL/transcripts/week-09/kmhSd3eNyGU_SGPNPropcast_NFL_Week_9_Thursday_Night_Football_Player_Props_11_4_26.txt
+NFL/transcripts/week-09/lCvBYEHvh6g_SGPN_Giants_vs_Eagles_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/m1pDqmvgEMU_FantasyAlarm_Fantasy_Football_Week_9_Trade_Advice_Buy_Low_Sell_High_Lineup_Starts_S.txt
+NFL/transcripts/week-09/muhbu83P8ak_SGPN_Cardinals_vs_Seahawks_Prediction_Picks_Best_Bets_NFL_Week_9.txt
 NFL/transcripts/week-09/oLpRaut4opI_SportsLine_NFL_Week_9_Bets_to_Make_Before_Lines_Move.txt
 NFL/transcripts/week-09/ohkwkZQzmXs_TheAudible_WEEK_9_WAIVER_WIRE_LEAGUE_WINNING_RBs_Emmett_Johnson_Chris_Rodriguez_M.txt
 NFL/transcripts/week-09/pepB3vHNPcM_PlayerProfiler_Is_Ashton_Jeanty_a_BUST_Luther_Burden_Debate_Bradley_Stalder_joins_The.txt
@@ -36,42 +48,66 @@ NFL/transcripts/week-09/qdAHRp95z18_TheAudible_Which_Vikings_player_will_sabotag
 NFL/transcripts/week-09/qhSuLAVzr5o_BettingPros_Top_NFL_Picks_for_Jaguars_vs_Ravens_Best_Bets_Props_for_Thursday_Night.txt
 NFL/transcripts/week-09/rrZtoYx7VWM_ActionNetwork_NFL_Futures_on_Prediction_Markets_Which_Teams_Are_Worth_Buying.txt
 NFL/transcripts/week-09/syi6WeG5pzM_PickDawgz_JACKSONVILLE_JAGUARS_VS_BALTIMORE_RAVENS_FREE_NFL_PICK_PREDICTION_The.txt
+NFL/transcripts/week-09/uAeLK95Oa34_SGPN_Raiders_vs_49ers_Prediction_Picks_Best_Bets_NFL_Week_9.txt
+NFL/transcripts/week-09/vGrfrWYv9XE_SGPN_Texans_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_9.txt
+NFL/transcripts/week-09/vYMRfT5V5x0_TheAudible_Did_Klint_Kubiak_rug_pull_Ashton_Jeanty_fantasy_football_teams_On_the.txt
+NFL/transcripts/week-09/w2qoNI2Tw-o_SGPN_Jets_vs_Chiefs_Prediction_Picks_Best_Bets_NFL_Week_9.txt
+NFL/transcripts/week-09/wsuMX6MdClM_TheAudible_JONAH_COLEMAN_BREAKOUT_PACKERS_PATRIOTS_SUPER_BOWL_PREVIEW_BILLS_vs_NF.txt
+NFL/transcripts/week-09/wx07vN2Akv8_Footballers_Starts_of_the_Week_Week_9_Games_Nasty_Boys_Fantasy_Football_2026_Ep_20.txt
 NFL/transcripts/week-09/xr27T8WsEFI_FantasyAlarm_Week_9_Waiver_Wire_Adds_For_Fantasy_Football.txt
 NFL/transcripts/week-09/ym1MGUH63qA_TheAudible_MVPs_Biggest_Busts_Draft_Steals_League_Winners_the_2026_Midseason_Fant.txt
+NFL/transcripts/week-09/ziIQbIrPvmc_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_9.txt
 
 # this run:
-NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-09/wx07vN2Akv8_Footballers_Starts_of_the_Week_Week_9_Games_Nasty_Boys_Fantasy_Football_2026_Ep_20.txt  (10,703 words)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NOCAPS  RotoGrinders ziIQbIrPvmc PICK SIX! The BEST 3 NFL Games to Target in DFS for Week 9!  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   RotoGrinders HVG9JnWWQxs NFL DFS Tournament Strategy for Week 9 on DraftKings & FanDu  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
+DEFER   RotoGrinders ji9fAqTUaCg Jaguars vs. Ravens TNF Showdown! - NFL DFS Picks & Strategy  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
+NEW     NFL/transcripts/week-09/ziIQbIrPvmc_RotoGrinders_PICK_SIX_The_BEST_3_NFL_Games_to_Target_in_DFS_for_Week_9.txt  (22,659 words)
 UPCOMING RotoGrinders f6QlzpqY9Oo Bills vs. Vikings MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/09/26 7:30PM)
 UPCOMING RotoGrinders VhMJenVRUqE Buccs vs. Bears SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/08/26 7:30PM)
 UPCOMING RotoGrinders vsn35D44CeI LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 11/08/26 9:30AM)
-NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NOCAPS  SGPN WDdZr1otTMg NFL Week 9 Picks, Best Bets & Predictions  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-09/kmhSd3eNyGU_SGPNPropcast_NFL_Week_9_Thursday_Night_Football_Player_Props_11_4_26.txt  (4,457 words)
+NOCAPS  ShipItNation kfYwWhyJuIk Jaguars vs Ravens NFL DFS Showdown | TNF Week 9 Showdown Shi  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.5h ago))
+DEFER   SGPN 7wU1yolM-1Y Bengals vs Falcons Prediction, Picks & Best Bets | NFL Week   (per-channel cap of 10 reached - raise it in the channel list or it comes next run)
+DEFER   SGPN 5UTHC65mehE NFL Week 9 Locks, Dogs & Teasers | Best Bets  (per-channel cap of 10 reached - raise it in the channel list or it comes next run)
+DEFER   SGPN KOLy6SLVCu8 Jaguars vs Ravens Prediction, Picks & Best Bets | NFL Week 9  (per-channel cap of 10 reached - raise it in the channel list or it comes next run)
+DEFER   SGPN WDdZr1otTMg NFL Week 9 Picks, Best Bets & Predictions  (per-channel cap of 10 reached - raise it in the channel list or it comes next run)
+NEW     NFL/transcripts/week-09/muhbu83P8ak_SGPN_Cardinals_vs_Seahawks_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (1,540 words)
+NEW     NFL/transcripts/week-09/Sfs3aZ5j66M_SGPN_Packers_vs_Patriots_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (1,057 words)
+NEW     NFL/transcripts/week-09/vGrfrWYv9XE_SGPN_Texans_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (909 words)
+NEW     NFL/transcripts/week-09/uAeLK95Oa34_SGPN_Raiders_vs_49ers_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (835 words)
+NEW     NFL/transcripts/week-09/b1z8zuPt4Ro_SGPN_Broncos_vs_Panthers_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (1,206 words)
+NEW     NFL/transcripts/week-09/w2qoNI2Tw-o_SGPN_Jets_vs_Chiefs_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (1,497 words)
+NEW     NFL/transcripts/week-09/lCvBYEHvh6g_SGPN_Giants_vs_Eagles_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (1,849 words)
+NEW     NFL/transcripts/week-09/6wj4bvOv_hU_SGPN_Cowboys_vs_Colts_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (2,072 words)
+NEW     NFL/transcripts/week-09/k7qbHDR62fI_SGPN_Rams_vs_Commanders_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (986 words)
+NEW     NFL/transcripts/week-09/S3vR7nd5_ow_SGPN_Lions_vs_Dolphins_Prediction_Picks_Best_Bets_NFL_Week_9.txt  (998 words)
 UPCOMING SGPNPropcast 4WbLjrcvgBQ NFL Week 9 Player Props - 11/6/26  (not aired yet - scheduled for 11/06/26 11:05AM)
-UPCOMING SGPNPropcast 3R5gF_leOAQ NFL Week 9 Circa Million Spread Picks - 11/5/26  (not aired yet - scheduled for 11/05/26 11:05AM)
-NEW     NFL/transcripts/week-09/IVY-GDGvV90_ActionNetwork_Jaguars_vs_Ravens_Picks_Predictions_NFL_Thursday_Night_Football_Best_B.txt  (1,660 words)
-NEW     NFL/transcripts/week-09/GDc1HjTzbow_ActionNetwork_The_BEST_NFL_Week_9_Bets_Picks_for_Every_Game.txt  (16,556 words)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/Rvc2kAjA_a0_DFSArmyLive_PrizePicks_Picks_TONIGHT_Ravens_vs_Jaguars_TNF_BEST_Props_6200_YTD_ROI.txt  (1,583 words)
-NONE    channel TheAudible: nothing new in the date window (or everything already saved)
+NOCAPS  SGPNPropcast 3R5gF_leOAQ NFL Week 9 Circa Million Spread Picks - 11/5/26  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  ActionNetwork jiLEdA0eyco NFL Expert Bettors Build A Same Game Parlay For Jaguars vs.   (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  ActionNetwork eHq820lcs8E NFL Week 9 Betting Preview & Against The Spread Picks! | The  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING DFSArmy zNCealw-90M Jaguars vs Ravens Showdown Breakdown | Thursday Night Footba  (not aired yet - scheduled for 11/05/26 5:00PM)
+NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-09/wsuMX6MdClM_TheAudible_JONAH_COLEMAN_BREAKOUT_PACKERS_PATRIOTS_SUPER_BOWL_PREVIEW_BILLS_vs_NF.txt  (6,315 words)
+NEW     NFL/transcripts/week-09/vYMRfT5V5x0_TheAudible_Did_Klint_Kubiak_rug_pull_Ashton_Jeanty_fantasy_football_teams_On_the.txt  (12,460 words)
 NONE    channel PlayerProfiler: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/MTXwfwNbOv8_Stokastic_Week_9_NFL_DFS_Single_Lineup_Sim_Building_NFL_DFS_Strategy.txt  (9,294 words)
-UPCOMING Stokastic 0qfmf695U8A Jaguars-Ravens Showdown Strategy TNF Week 9 DFS Picks | NFL   (not aired yet - scheduled for 11/05/26 10:00AM)
+NEW     NFL/transcripts/week-09/0qfmf695U8A_Stokastic_Jaguars_Ravens_Showdown_Strategy_TNF_Week_9_DFS_Picks_NFL_DFS_Strategy.txt  (11,950 words)
 UPCOMING Stokastic rEYHIKiIErQ NFL DFS Showdown Live Before Lock | Jaguars-Ravens TNF Week   (not aired yet - scheduled for 11/05/26 7:15PM)
 UPCOMING Stokastic G48I4lVwW1w NFL DFS Sims Tournament Strategy Week 9 | NFL DFS Strategy  (not aired yet - scheduled for 11/06/26 10:00AM)
-NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/d6M55ZNM3b4_LandYourBets_Jaguars_vs_Ravens_NFL_Best_Bets_Player_Props_Thursday_Night_Football_W.txt  (4,089 words)
-NEW     NFL/transcripts/week-09/TIilbDoZtW4_SportsLine_NFL_Picks_Bets_for_Every_Week_9_Game.txt  (12,830 words)
+NOCAPS  BettingPros lM_5PhFjcUE 10 BEST BETS for NFL Week 9: Top Picks & Predictions to Make  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.8h ago))
+UPCOMING BettingPros ZcUA39armWM Top NFL Picks for Jaguars vs. Ravens: Best Bets & Props for   (not aired yet - scheduled for 11/05/26 5:00PM)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NONE    channel SlopRules: nothing new in the date window (or everything already saved)
-NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/m1pDqmvgEMU_FantasyAlarm_Fantasy_Football_Week_9_Trade_Advice_Buy_Low_Sell_High_Lineup_Starts_S.txt  (11,077 words)
+NEW     NFL/transcripts/week-09/5XIOWr4zJ-w_SlopRules_Top_3_Bets_For_MNF_Jaguars_vs_Ravens_on_11_5_26.txt  (3,831 words)
+NEW     NFL/transcripts/week-09/RY5n6u46Lak_MattyChucks_Jaguars_vs_Ravens_Thursday_Night_Football_Best_Bets_November_5th.txt  (1,362 words)
+NOCAPS  FantasyAlarm PwHuMfychB4 Week 9 NFL DFS Picks, Props, and YOUR Start/Sit Questions!  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING FantasyAlarm -WP0iLNnMCo Jaguars vs Ravens Fantasy Football Start/Sit Advice (NFL Wee  (not aired yet - scheduled for 11/05/26 6:00PM)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-09/syi6WeG5pzM_PickDawgz_JACKSONVILLE_JAGUARS_VS_BALTIMORE_RAVENS_FREE_NFL_PICK_PREDICTION_The.txt  (523 words)
-NEW     NFL/transcripts/week-09/_R2mST2hIII_PickDawgz_NFL_Picks_Predictions_For_Today_Thursday_11_5_26_FREE_NFL_Best_Bets_an.txt  (2,921 words)
+NEW     NFL/transcripts/week-09/IXoveTNYRUQ_PickDawgz_NFL_Alternate_Line_Prediction_11_05_26_The_Extendo_Clip.txt  (859 words)
+NEW     NFL/transcripts/week-09/EXep3fm5Kf8_PickDawgz_Jaguars_vs_Ravens_Picks_Predictions_11_5_26_NFL_Week_9_Picks_Best_Bets.txt  (1,192 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NOTE    deferred videos are picked up automatically on the next scheduled run
