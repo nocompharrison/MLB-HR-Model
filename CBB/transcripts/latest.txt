@@ -1,4 +1,4 @@
-# CBB transcripts | 2026-11-05 | updated 2026-11-05 14:52 ET
+# CBB transcripts | 2026-11-05 | updated 2026-11-05 14:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 13 files in CBB/transcripts/2026-11-05:
 CBB/transcripts/2026-11-05/1QDQVBCbJI0_PickDawgz_College_Basketball_Picks_for_Today_11_5_26_Thursday_s_Best_College_Bas.txt
@@ -14,18 +14,17 @@ CBB/transcripts/2026-11-05/mLFesDsEWSY_PickDawgz_JAX_STATE_VS_SOUTH_ALABAMA_11_5
 CBB/transcripts/2026-11-05/o3jtiQY5MS8_TCE_College_Basketball_Best_Bets_For_November_5th_Spread_Moneyline_Betting.txt
 CBB/transcripts/2026-11-05/qMg-LzD_j1k_SGPN_Maryland_vs_Georgetown_Prediction_Picks_Best_Bets_College_Basketball_1.txt
 CBB/transcripts/2026-11-05/rPaHQNTnC6U_PickDawgz_College_Basketball_Picks_Predictions_Today_11_5_26_Ron_s_Bank_Shot_Bre.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-06
 
 # this run:
-NEW     CBB/transcripts/2026-11-05/kT6nNEjYlsY_LockedOnCBB_ILLINOIS_IMPACT_Jake_Davis_Out_Indefinitely_Illini_Must_OVERCOME_Early.txt  (5,915 words)
-NEW     CBB/transcripts/2026-11-05/axSmmOvi3-U_CBSCollegeBB_What_the_next_5_days_will_tell_us_about_CBB_according_to_Jon_Rothstein.txt  (5,752 words)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
 NOCAPS  FieldOf68 3xg7RS4WZgE A-10 INSIDER: Sam Brown on scoring 22 in Davidson's HUGE win  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Wake Forest and Vanderbilt face-off!  (not aired yet - scheduled for 11/05/26 11:00PM)
-DEFER   FieldOf68 22L2EvVSuiY MW INSIDER: Hawaii's Jaden Matingou on his Buzzer Beater, MW  (still rate-limited after a new IP - will retry next run)
+SKIPPED FieldOf68 22L2EvVSuiY MW INSIDER: Hawaii's Jaden Matingou on his Buzzer Beater, MW  (age-restricted on YouTube - needs a signed-in cookie file to pull; no VPN rotation)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-05/HUxG7aw216k_SGPN_New_Mexico_State_vs_Gonzaga_Prediction_Picks_Best_Bets_College_Basketb.txt  (991 words)
+NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -37,6 +36,3 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-06/dpOjjwczMEc_SGPN_College_Basketball_Picks_Fri_Nov_6th_Sat_Nov_7th.txt  (13,223 words, via Groq)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
