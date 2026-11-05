@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-05 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,30 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Out for Friday](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-out-for-friday-537796)
+**C** Oklahoma City Thunder
+Back
+November 5, 2026
+Williams (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_05_15PM.pdf) for Friday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Ruled out for Friday](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-friday-537795)
+**C** Memphis Grizzlies
+Knee
+November 5, 2026
+Stewart (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_06_00PM.pdf) for Friday's game against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[Out vs. Thunder](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-out-vs-thunder-537794)
+**G** Memphis Grizzlies
+Back
+November 5, 2026
+Pippen (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_06_00PM.pdf) for Friday's game against Oklahoma City.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
 [Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Could return Friday](https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-could-return-friday-537793)
 **F** Minnesota Timberwolves
@@ -184,28 +208,6 @@ Fleming is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026
 Knee
 November 5, 2026
 Murphy (knee) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_15PM.pdf) for Friday's game against Minnesota.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Jordan Goodwin](https://www.rotowire.com/basketball/player/jordan-goodwin-5460)[Out again Thursday](https://www.rotowire.com/basketball/headlines/jordan-goodwin-injury-out-again-thursday-537770)
-**G** Phoenix Suns
-Calf
-November 5, 2026
-Goodwin (calf) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_15PM.pdf) for Thursday's game against Orlando.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)[Full stat line Wednesday](https://www.rotowire.com/basketball/headlines/mitchell-robinson-news-full-stat-line-wednesday-537765)
-**C** Boston Celtics
-November 5, 2026
-Robinson provided three points (1-8 FG, 1-2 FT), 10 rebounds, one assist, one block and one steal over 20 minutes during Wednesday's 109-102 victory over the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)[Solidifying hold as starter](https://www.rotowire.com/basketball/headlines/neemias-queta-news-solidifying-hold-as-starter-537764)
-**C** Boston Celtics
-November 5, 2026
-Queta racked up nine points (4-8 FG, 1-3 FT), 12 rebounds, three assists and two blocks over 29 minutes during Wednesday's 109-102 win over the Bucks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

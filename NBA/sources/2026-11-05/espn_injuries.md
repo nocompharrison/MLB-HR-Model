@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-05 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -309,15 +309,39 @@ Sponsored Headlines
 
 [](https://recipesforyo.it.com/)[Crispy Bacon, Two Ways [See the Steps]recepies | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Recipe](https://recipesforyo.it.com/ "Crispy Bacon, Two Ways [See the Steps]")
 
+Undo
+
 [](https://usapopularhealth.com/ml)[Experts Now Eye This 1 Boxed Cereal for Memory Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://usapopularhealth.com/ml "Experts Now Eye This 1 Boxed Cereal for Memory")
+
+Undo
 
 [](https://insisdomwitered.com/816ff75e-8c9d-4fd7-9cf1-022bdc80357b)[Can Hearing Aids Really Be Replaced By This New Chip?Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/816ff75e-8c9d-4fd7-9cf1-022bdc80357b "Can Hearing Aids Really Be Replaced By This New Chip?")
 
+Undo
+
 [](https://qualifymycase.com/auto-calc)[Hurt In A Car Accident & Not Your Fault? Check Your Options Were you injured in a motor vehicle accident in the last 12 months and it was not your fault? Check out your options.QualifyMyCase | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://qualifymycase.com/auto-calc "Hurt In A Car Accident & Not Your Fault? Check Your Options")
+
+Undo
 
 [](https://usapopularhealth.com/ml)[Memory Experts Have Now Tied This 1 Boxed Cereal to Mental Focus Routines Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://usapopularhealth.com/ml "Memory Experts Have Now Tied This 1 Boxed Cereal to Mental Focus Routines")
 
+Undo
+
 [](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Quit Poisoning Your Family One Pan At A Time Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Quit Poisoning Your Family One Pan At A Time")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+Undo
+
+[](https://www.espn.com/nba/injuries)[CGM could help millions. Coverage hasn’t caught up.Dexcom CGM systems help people with diabetes lower A1C¹⁻⁵ – but millions still lack coverage. Follow our mission to get CGM coverage for 100% of people with diabetes and get updates as coverage grows nationwide. Click here for safety information.Dexcom | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.espn.com/nba/injuries "CGM could help millions. Coverage hasn’t caught up.")
+
+Undo
 
 ### NBA News
 
@@ -333,7 +357,15 @@ Sponsored Headlines
 
 [](https://qualifymycase.com/auto-calc)[Hurt In A Car Accident? A 45-Second Eligibility Check Were you injured in a motor vehicle accident in the last 12 months and it was not your fault? Check out your options.QualifyMyCase | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://qualifymycase.com/auto-calc "Hurt In A Car Accident? A 45-Second Eligibility Check")
 
+Undo
+
 [](https://insisdomwitered.com/816ff75e-8c9d-4fd7-9cf1-022bdc80357b)[Can Hearing Aids Really Be Replaced By This $79 Device?For years, American seniors have been told that better hearing comes with a steep price tag. That may no longer be the case.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://insisdomwitered.com/816ff75e-8c9d-4fd7-9cf1-022bdc80357b "Can Hearing Aids Really Be Replaced By This $79 Device?")
+
+Undo
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
+
+Undo
 
 ![Image 41: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

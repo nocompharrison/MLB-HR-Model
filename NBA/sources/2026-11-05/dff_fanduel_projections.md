@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-05 18:35 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Thu, Nov 5, 2026, 5:56 PM ET
+_Updated At:_ Thu, Nov 5, 2026, 6:31 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 2 GAME SLATE:
 THU 9:00PM ET · Main
@@ -31,8 +31,8 @@ Main · 2 Game Slate · 9:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) W. Carter  C · $5200 FPTS 29.8 VALUE 5.7x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) Wendell Carter   |  $5.2k  | EXP.  | ORL  | PHO  | 19  |  29.8  | 5.73  |   | 24.6  | 26.4  | 26.8  | 223.5  | 111  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) D. Mitchell  PG · $5800 FPTS 28.9 VALUE 5.0x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Davion Mitchell   |  $5.8k  | EXP.  | MIA  | GSW  | 22  |  28.9  | 4.98  |   | 33.6  | 33.4  | 24.5  | 235.5  | 116  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) D. Brooks  SF · $5600 FPTS 27.0 VALUE 4.8x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) Dillon Brooks   |  $5.6k  | EXP.  | PHO  | ORL  | 12  |  27.0  | 4.83  |   | 29.9  | 30.6  | 29.4  | 223.5  | 112.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) D. Green  PF · $4300 FPTS 26.5 VALUE 6.2x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) Draymond Green   |  $4.3k  | EXP.  | GSW  | MIA  | 18  |  26.5  | 6.16  |   | 20.4  | 21.1  | 25.2  | 235.5  | 119.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) T. da Silva  SF/PF · $4100 FPTS 24.7 VALUE 6.0x  | SF/PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) Tristan da Silva   |  $4.1k  |   | ORL  | PHO  | 6  |  24.7  | 6.02  |   | 22.8  | 17.3  | 18.2  | 223.5  | 111  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) D. Green  PF · $4300 FPTS 24.3 VALUE 5.7x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) Draymond Green   |  $4.3k  | EXP.  | GSW  | MIA  | 18  |  24.3  | 5.65  |   | 20.4  | 21.1  | 25.2  | 235.5  | 119.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) P. Larsson  SG/SF · $4800 FPTS 23.9 VALUE 5.0x  | SG/SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Pelle Larsson   |  $4.8k  |   | MIA  | GSW  | 17  |  23.9  | 4.98  |   | 24.5  | 23.2  | 21.9  | 235.5  | 116  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) C. Gillespie  PG · $4600 FPTS 23.0 VALUE 5.0x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) Collin Gillespie   |  $4.6k  |   | PHO  | ORL  | 17  |  23.0  | 5.01  |   | 24.8  | 23.9  | 26.8  | 223.5  | 112.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) D. Melton  PG/SG · $4700 FPTS 22.9 VALUE 4.9x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) De'Anthony Melton   |  $4.7k  |   | GSW  | MIA  | 25  |  22.9  | 4.88  |   | 24.2  | 24.0  | 24.1  | 235.5  | 119.5  |  

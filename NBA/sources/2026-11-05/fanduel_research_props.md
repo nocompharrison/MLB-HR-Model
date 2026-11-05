@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5 | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5 | fetched: 2026-11-05 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: Best NBA Player Prop Bets for Thursday, Nov. 5
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-9h
+10h
 Link
 ![NBA Props Today: Best NBA Player Prop Bets for Thursday, Nov. 5](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F313028d3c47753cdacba7921cfc7524cb55894f9-4150x2335.jpg%3Frect%3D49%2C25%2C4101%2C2029%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -29,7 +29,7 @@ _Please note: lines and projections are subject to change throughout the day aft
 _Magic at Suns — 9:00 p.m. ET_
 6+ Assists
 [Devin Booker](https://sportsbook.fanduel.com/teams/nba/roster/devin-booker-2338)
-+122
++124
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/orlando-magic-@-phoenix-suns-36268668)
 Odds/lines subject to change
@@ -40,7 +40,7 @@ Booker has recorded at least six assists in two of his six games this season, in
 _Heat at Warriors — 10:00 p.m. ET_
 2+ Threes
 [Yaxel Lendeborg](https://sportsbook.fanduel.com/teams/nba/roster/yaxel-lendeborg-3504)
--166
+-172
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/miami-heat-@-golden-state-warriors-36268667)
 Odds/lines subject to change
@@ -86,13 +86,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 6](https://www.fanduel.com/research/nba-predictions-odds-11-6-2026)
+13m
+Preview NBA games for Friday, November 6, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-6-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Tonight: NBA Predictions and Best Bets for Thursday, Nov. 5](https://www.fanduel.com/research/nba-picks-tonight-nba-predictions-and-best-bets-for-thursday-nov-5)
 1h
 NBA betting picks for today's games. How should you approach Thursday's two-game slate?
 [](https://www.fanduel.com/research/nba-picks-tonight-nba-predictions-and-best-bets-for-thursday-nov-5)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Props Today: NBA Player Prop Bets for Thursday, Nov. 5](https://www.fanduel.com/research/nba-props-today-thursday-nov-5)
-2h
+3h
 Thursday's best NBA player props. What are the top NBA prop bets for tonight's two-game slate?
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-5)
 [NBA](https://www.fanduel.com/research/nba)
@@ -100,9 +105,4 @@ Thursday's best NBA player props. What are the top NBA prop bets for tonight's t
 3h
 Phoenix Suns -1.5, the over 221.5, Desmond Bane 3+ threes, and Devin Booker 25+ points headline the best bets and player props for Magic vs Suns.
 [](https://www.fanduel.com/research/magic-vs-suns-prediction-plus-4-best-nba-player-props-bets-for-tonight)
-[NBA](https://www.fanduel.com/research/nba)
-## [4 Best NBA Player Prop Bets for Tonight's NBA Game Heat vs Warriors Plus Predictions](https://www.fanduel.com/research/4-best-nba-player-prop-bets-for-tonight-s-nba-game-heat-vs-warriors-plus-predictions)
-3h
-Stephen Curry, Klay Thompson, Giannis Antetokounmpo, and Brandin Podziemski headline the best NBA player prop bets for Heat vs Warriors on Thursday night.
-[](https://www.fanduel.com/research/4-best-nba-player-prop-bets-for-tonight-s-nba-game-heat-vs-warriors-plus-predictions)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-thursday-nov-5-145448 | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-thursday-nov-5-145448 | fetched: 2026-11-05 18:35 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Thursday, Nov. 5
 Get the best NBA bets today, with expert player prop picks on assists and points + assists, plus odds from top sportsbooks for Thursday’s Nov. 5 NBA slate.
@@ -26,25 +26,25 @@ _DraftKings, 4:38 PM ET_
 **Alex Barutha** : Podziemski is averaging 5.0 assists this season, and the Heat give up the most assists per game (29.9). They're also on the second night of a back-to-back. Just on the surface, I like getting plus money in this situation.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | MIA @ GSW
-Brandin Podziemski Over 4.5 Assists+120
+Brandin Podziemski Over 4.5 Assists+119
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $6](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5.95](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:32 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Anthony Black**](https://www.rotowire.com/basketball/player/anthony-black-5910)**over 19.5 points + assists at Phoenix Suns (-109)**
 _DraftKings Sportsbook, 2pm ET_
 **Nick Whalen:** Black will return to action after resting against Washington on the second night of a back-to-back. With [Paolo Banchero](https://www.rotowire.com/basketball/player/paolo-banchero-5700) and [Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379) out, Black has started three straight games and played 30-plus minutes in each of the last two. He's easily cleared this mark in both of those contests and now faces a Suns team that ranks bottom-10 in assists allowed and 29th in points allowed. Phoenix is also dead-last in defensive rating and is on the second night of a back-to-back after losing — and giving up 132 points — to the Blazers on Wednesday night.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Same Game Parlay | 2 Legs
 Anthony Black Over 15.5 PointsORL @ PHX
--102
+-103
 Anthony Black Over 4.5 AssistsORL @ PHX
-+113
++116
 Same game parlay +294 at DraftKings.
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $14.70](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Based on the sportsbook's live same game parlay price. Odds can change and excludes fees.
-Odds as of 6:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:32 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -60,6 +60,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
+[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
+In line to play Thursday
+NFL
+Jacksonville Jaguars
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+No practice Thursday
+NFL
+San Francisco 49ers
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Christian McCaffrey](https://www.rotowire.com/football/player/christian-mccaffrey-11690)
 Officially limited Thursday
@@ -75,16 +85,6 @@ Philadelphia Eagles
 Another limited session
 NFL
 Dallas Cowboys
-  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
-[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
-Expected to play Thursday
-NFL
-Jacksonville Jaguars
-  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
-[Travis Kelce](https://www.rotowire.com/football/player/travis-kelce-8783)
-Logs full practice Thursday
-NFL
-Kansas City Chiefs
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -123,24 +123,34 @@ Boston Celtics
 Available Thursday
 NBA
 Miami Heat
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)
+Out vs. Thunder
+NBA
+Memphis Grizzlies
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)
+Tagged questionable for Friday
+NBA
+Washington Wizards
   * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)
 Upgraded to Probable Friday
 NBA
 Dallas Mavericks
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)
-Listed questionable for Friday
-NBA
-Cleveland Cavaliers
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)
-Questionable for Friday
-NBA
-Cleveland Cavaliers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
+[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
+In line to play Thursday
+NFL
+Jacksonville Jaguars
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+No practice Thursday
+NFL
+San Francisco 49ers
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Christian McCaffrey](https://www.rotowire.com/football/player/christian-mccaffrey-11690)
 Officially limited Thursday
@@ -156,16 +166,6 @@ Philadelphia Eagles
 Another limited session
 NFL
 Dallas Cowboys
-  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
-[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
-Expected to play Thursday
-NFL
-Jacksonville Jaguars
-  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
-[Travis Kelce](https://www.rotowire.com/football/player/travis-kelce-8783)
-Logs full practice Thursday
-NFL
-Kansas City Chiefs
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -174,6 +174,11 @@ Kansas City Chiefs
 Back in action Thursday
 NHL
 Montreal Canadiens
+  * ![Boston Bruins](https://assets.rotowire.com/images/teamlogo/hockey/100BOS.png?v=5)
+[Michael DiPietro](https://www.rotowire.com/hockey/player/michael-dipietro-5515)
+Between pipes against Pittsburgh
+NHL
+Boston Bruins
   * ![Carolina Hurricanes](https://assets.rotowire.com/images/teamlogo/hockey/100CAR.png?v=5)
 [Brandon Bussi](https://www.rotowire.com/hockey/player/brandon-bussi-6635)
 Starting against Islanders
@@ -189,11 +194,6 @@ Carolina Hurricanes
 Slated to face Edmonton
 NHL
 Anaheim Ducks
-  * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
-[Victor Olofsson](https://www.rotowire.com/hockey/player/victor-olofsson-5669)
-Cleared to return Thursday
-NHL
-Vegas Golden Knights
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
