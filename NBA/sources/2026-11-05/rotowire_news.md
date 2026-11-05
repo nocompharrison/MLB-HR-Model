@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-05 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-05 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,14 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Recalled from Windy City](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-recalled-from-windy-city-537797)
+**C** Chicago Bulls
+Hamstring
+November 5, 2026
+Claxton (hamstring) was [recalled](https://x.com/chicagobulls/status/2118487576214384911?a=GG_KM0uD707mEJ_pJWA&s=20) from the G League's Windy City Bulls on Thursday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Out for Friday](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-out-for-friday-537796)
 **C** Oklahoma City Thunder
@@ -200,14 +208,6 @@ Missi (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report
 Ankle
 November 5, 2026
 Fleming is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_15PM.pdf) for Thursday's game against the Magic due to a sprained left ankle.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-expected-to-play-friday-537771)
-**F** New Orleans Pelicans
-Knee
-November 5, 2026
-Murphy (knee) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_15PM.pdf) for Friday's game against Minnesota.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

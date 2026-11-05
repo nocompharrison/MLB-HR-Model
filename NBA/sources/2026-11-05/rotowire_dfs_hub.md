@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-05 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-05 18:50 ET -->
 
 # NBA DFS Picks Today
 November 5, 2026
@@ -52,7 +52,7 @@ Miami HeatMIA @ GSW - 10:00 PM ET
 #### Pours in 35-point double-double
 Adebayo provided 35 points (14-20 FG, 1-3 3Pt, 6-8 FT), 10 rebounds, four assists and one steal across 41 minutes during Wednesday's 117-116 overtime victory over the Clippers.
 Analysis
-Adebayo led all scorers and nearly doubled his 16.3-point average entering the night, shooting 70 percent from the field. He's been a model of consistency to start the season, and nights like this show his ceiling when Miami leans on him offensively.
+Adebayo led all scorers and nearly doubled his 16.3-point average entering the night, shooting 70.0 percent from the field. He's been a model of consistency to start the season, and nights like this show his ceiling when Miami leans on him offensively.
 Show 4 more (4 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**

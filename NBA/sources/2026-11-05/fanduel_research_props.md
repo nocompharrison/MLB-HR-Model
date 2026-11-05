@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5 | fetched: 2026-11-05 18:35 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-best-nba-player-prop-bets-for-thursday-nov-5 | fetched: 2026-11-05 18:50 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -29,7 +29,7 @@ _Please note: lines and projections are subject to change throughout the day aft
 _Magic at Suns — 9:00 p.m. ET_
 6+ Assists
 [Devin Booker](https://sportsbook.fanduel.com/teams/nba/roster/devin-booker-2338)
-+124
++122
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/orlando-magic-@-phoenix-suns-36268668)
 Odds/lines subject to change
@@ -40,7 +40,7 @@ Booker has recorded at least six assists in two of his six games this season, in
 _Heat at Warriors — 10:00 p.m. ET_
 2+ Threes
 [Yaxel Lendeborg](https://sportsbook.fanduel.com/teams/nba/roster/yaxel-lendeborg-3504)
--172
+-170
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/miami-heat-@-golden-state-warriors-36268667)
 Odds/lines subject to change
@@ -87,12 +87,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 6](https://www.fanduel.com/research/nba-predictions-odds-11-6-2026)
-13m
+28m
 Preview NBA games for Friday, November 6, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-6-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Tonight: NBA Predictions and Best Bets for Thursday, Nov. 5](https://www.fanduel.com/research/nba-picks-tonight-nba-predictions-and-best-bets-for-thursday-nov-5)
-1h
+2h
 NBA betting picks for today's games. How should you approach Thursday's two-game slate?
 [](https://www.fanduel.com/research/nba-picks-tonight-nba-predictions-and-best-bets-for-thursday-nov-5)
 [NBA](https://www.fanduel.com/research/nba)
