@@ -1,54 +1,47 @@
-# NBA transcripts | 2026-11-05 | updated 2026-11-05 16:15 ET
+# NBA transcripts | 2026-11-05 | updated 2026-11-05 18:11 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 12 files in NBA/transcripts/2026-11-05:
+# 14 files in NBA/transcripts/2026-11-05:
 NBA/transcripts/2026-11-05/-cwl7wx_ucM_PickDawgz_NBA_Picks_Thursday_11_5_26_Jay_s_NBA_Jam_Session.txt
+NBA/transcripts/2026-11-05/Cf7xRZ_ND6A_WagerTalk_NBA_Picks_Today_LIVE_Thursday_s_Best_Bets_Predictions_PROFIT_PICKS_11.txt
 NBA/transcripts/2026-11-05/HZLQ0tU2WsY_Stokastic_NBA_DFS_Strategy_Thursday_11_5_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
 NBA/transcripts/2026-11-05/S4wl_YlWdcI_LockedOnNBA_The_Spurs_May_Have_Finally_Figured_Out_How_to_Make_Wemby_UNSTOPPABLE.txt
 NBA/transcripts/2026-11-05/cNFOI3e18-E_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
 NBA/transcripts/2026-11-05/lbQzX-qQGMg_LockedOnNBA_REACTION_Victor_Wembanyama_TORCHES_Mavericks_as_Spurs_SHOCK_Dallas_in.txt
 NBA/transcripts/2026-11-05/nmpz8DIardo_FantasyAces_8_0_Sweep_Best_NBA_Picks_Bets_for_Thursday_11_05.txt
+NBA/transcripts/2026-11-05/oz-n0bRHQww_WagerTalk_NBA_Picks_Today_LIVE_Thursday_s_Best_Bets_Predictions_PROFIT_PICKS_11.txt
 NBA/transcripts/2026-11-05/q_cMsJprdOI_NBAGamblingPod_NBA_Thursday_Picks_11_5_26_NBA_Bets_Player_Props_and_Predictions.txt
 NBA/transcripts/2026-11-05/uuHMUNNuxjQ_CallingOurShot_Thursday_s_NBA_Best_Picks_and_Predictions_for_November_5th.txt
 NBA/transcripts/2026-11-05/wiWT8vpqA3k_JayMoney_Thursday_NBA_Talk_With_Jay_Money_The_Shark_11_5_26_Free_NBA_Picks_Good.txt
 NBA/transcripts/2026-11-05/xs-5siAJ7EE_PickDawgz_Orlando_Magic_vs_Phoenix_Suns_Predictions_Picks_11_5_26_NBA_Best_Bets.txt
 NBA/transcripts/2026-11-05/zL55nJEOIX0_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_5th.txt
 NBA/transcripts/2026-11-05/zb3sWiQ1opw_PickDawgz_Miami_Heat_vs_Golden_State_Warriors_Predictions_11_5_26_NBA_Best_Bets.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-11-02
 
 # this run:
-UPCOMING ActionNetwork mGpthaCxruA Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 11/05/26 11:00PM)
 NOCAPS  ActionNetwork FO4rLsLwTKY Top NBA Sides, Totals & Player Props for Thursday! | Buckets  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-DEFER   WagerTalk Cf7xRZ_ND6A NBA Picks Today LIVE: Thursday's Best Bets & Predictions | P  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk oz-n0bRHQww NBA Picks Today LIVE: Thursday's Best Bets & Predictions | P  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     NBA/transcripts/2026-11-02/PIYKENj1Y_0_WagerTalk_NBA_Picks_TODAY_Magic_vs_Suns_Heat_vs_Warriors_Monday_NBA_BEST_Bets.txt  (1,844 words)
-UPCOMING WagerTalk Ra7rq2R9ri0 NBA Cup Picks Today: 9 Games, Best Bets & Betting Angles | P  (not aired yet - scheduled for 11/06/26 1:30PM)
-UPCOMING WagerTalk nHHFpkiwBc8 NBA Cup Picks Today: 9 Games, Best Bets & Betting Angles | P  (not aired yet - scheduled for 11/06/26 1:30PM)
-UPCOMING RotoGrinders pHsCrCnzoiM NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/7/26  (not aired yet - scheduled for 11/07/26 6:15PM)
-UPCOMING RotoGrinders rq2eL0CbkDg NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/6/26  (not aired yet - scheduled for 11/06/26 5:40PM)
-UPCOMING RotoGrinders K9hkg2DJw4c NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/5/26  (not aired yet - scheduled for 11/05/26 8:20PM)
+NEW     NBA/transcripts/2026-11-05/oz-n0bRHQww_WagerTalk_NBA_Picks_Today_LIVE_Thursday_s_Best_Bets_Predictions_PROFIT_PICKS_11.txt  (1,827 words)
+NEW     NBA/transcripts/2026-11-05/Cf7xRZ_ND6A_WagerTalk_NBA_Picks_Today_LIVE_Thursday_s_Best_Bets_Predictions_PROFIT_PICKS_11.txt  (1,834 words)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-05/S4wl_YlWdcI_LockedOnNBA_The_Spurs_May_Have_Finally_Figured_Out_How_to_Make_Wemby_UNSTOPPABLE.txt  (7,068 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-05/q_cMsJprdOI_NBAGamblingPod_NBA_Thursday_Picks_11_5_26_NBA_Bets_Player_Props_and_Predictions.txt  (6,795 words)
-UPCOMING NBAGamblingPod gicD9qf3tyQ NBA Friday Picks - 11/6/26 | NBA Bets, Player Props and Pred  (not aired yet - scheduled for 11/05/26 9:05PM)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-05/wiWT8vpqA3k_JayMoney_Thursday_NBA_Talk_With_Jay_Money_The_Shark_11_5_26_Free_NBA_Picks_Good.txt  (4,702 words)
+NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-05/cNFOI3e18-E_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt  (9,482 words)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-UPCOMING FantasyAlarm WAhqVlmdc1g NBA DFS Picks Today 11/5 | DraftKings Lineup Strategy & Top   (not aired yet - scheduled for 11/05/26 5:00PM)
+NOCAPS  FantasyAlarm WAhqVlmdc1g NBA DFS Picks Today 11/5 | DraftKings Lineup Strategy & Top   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-05/-cwl7wx_ucM_PickDawgz_NBA_Picks_Thursday_11_5_26_Jay_s_NBA_Jam_Session.txt  (2,324 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
