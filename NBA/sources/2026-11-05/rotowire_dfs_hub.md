@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-05 16:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-05 18:06 ET -->
 
 # NBA DFS Picks Today
 November 5, 2026
@@ -77,31 +77,31 @@ SunsExpectedHome
 _Implied_**112.0** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Khaman Maluach  | $4,800  | 22.9  |  
-| PF  | Miles Bridges  | $7,100  | 34.6  |  
-| PG  | Devin Booker  | $8,500  | 40.0  |  
-| SF  | Dillon Brooks  | $6,300  | 28.0  |  
-| SG  | Jalen Green  | $6,100  | 33.9  |  
+| C  | Khaman Maluach  | $4,800  | 20.7  |  
+| PF  | Miles Bridges  | $7,100  | 34.9  |  
+| PG  | Devin Booker  | $8,500  | 40.3  |  
+| SF  | Dillon Brooks  | $6,300  | 28.3  |  
+| SG  | Jalen Green  | $6,100  | 34.3  |  
 **MIA @ GSW**
 O/U 235.510:00 PM ET
 HeatExpectedAway
 _Implied_**116.0** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Bam Adebayo  | $7,800  | 40.9  |  
-| PF  | Giannis Antetokounmpo  | $11,000  | 51.3  |  
-| PG  | Davion Mitchell  | $6,400  | 29.4  |  
-| SF  | Andrew Wiggins  | $5,000  | 24.7  |  
-| SG  | Klay Thompson  | $4,400  | 22.4  |  
+| C  | Bam Adebayo  | $7,800  | 41.5  |  
+| PF  | Giannis Antetokounmpo  | $11,000  | 52.3  |  
+| PG  | Davion Mitchell  | $6,400  | 30.0  |  
+| SF  | Andrew Wiggins  | $5,000  | 23.4  |  
+| SG  | Klay Thompson  | $4,400  | 22.7  |  
 WarriorsExpectedHome
 _Implied_**119.5** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Draymond Green  | $5,500  | 26.7  |  
+| C  | Draymond Green  | $5,500  | 26.8  |  
 | PF  | Yaxel Lendeborg  | $7,900  | 38.1  |  
 | PG  | Stephen Curry  | $8,200  | 41.7  |  
-| SF  | Will Richard  | $3,700  | 14.2  |  
-| SG  | Brandin Podziemski  | $6,700  | 34.7  |  
+| SF  | Will Richard  | $3,700  | 14.3  |  
+| SG  | Brandin Podziemski  | $6,700  | 34.8  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -113,15 +113,15 @@ Main slatesMain - 2 games - 9:00 PMShowdownsShowdown - MIA @ GSW - 11:00 PMShowd
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jalen GreenPHX - SG  | vs ORL  | $6,100  | 33  | 33.9  | **5.56**  |  
+| 1  |  Jalen GreenPHX - SG  | vs ORL  | $6,100  | 33  | 34.2  | **5.61**  |  
 | 2  |  Desmond BaneORL - SG  | @ PHX  | $7,200  | 36  | 38.7  | **5.37**  |  
 | 3  |  Anthony BlackORL - PG  | @ PHX  | $6,000  | 31  | 32.2  | **5.37**  |  
-| 4  |  Bam AdebayoMIA - C  | @ GSW  | $7,800  | 33  | 40.9  | **5.24**  |  
-| 5  |  Brandin PodziemskiGSW - PG  | vs MIA  | $6,700  | 33  | 34.7  | **5.18**  |  
+| 4  |  Bam AdebayoMIA - C  | @ GSW  | $7,800  | 33  | 41.5  | **5.33**  |  
+| 5  |  Brandin PodziemskiGSW - PG  | vs MIA  | $6,700  | 33  | 34.8  | **5.19**  |  
 | 6  |  Wendell CarterORL - C  | @ PHX  | $6,500  | 33  | 33.6  | **5.17**  |  
-| 7  |  Stephen CurryGSW - PG  | vs MIA  | $8,200  | 33  | 41.7  | **5.08**  |  
-| 8  |  Klay ThompsonMIA - SG  | @ GSW  | $4,400  | 26  | 22.4  | **5.08**  |  
-| 9  |  Collin GillespiePHX - PG  | vs ORL  | $5,400  | 27  | 27.4  | **5.07**  |  
+| 7  |  Klay ThompsonMIA - SG  | @ GSW  | $4,400  | 26  | 22.7  | **5.17**  |  
+| 8  |  Collin GillespiePHX - PG  | vs ORL  | $5,400  | 27  | 27.6  | **5.11**  |  
+| 9  |  Stephen CurryGSW - PG  | vs MIA  | $8,200  | 33  | 41.7  | **5.08**  |  
 | 10  |  Franz WagnerORL - SF  | @ PHX  | $8,700  | 36  | 43.3  | **4.97**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -140,27 +140,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K−10−50+5CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GillespieSilvaBlackCarterThompsonRichardson
+$3K$4K$5K$6K$7K$8K$9K$10K$11K−10−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)SilvaGillespieBlackWigginsCarterThompsonGreen
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** MIA@GSW, ORL@PHX  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Collin GillespiePHX · PG · ORL@PHX  | $5,400  | 8.9  | 27.4  | **53.0**  |   | +5.3  | +4  | 91  |  
-| 2  |  Tristan da SilvaORL · SF/PF · ORL@PHX  | $5,300  | 7.9  | 26.4  | **51.0**  |   | +4.3  | +5  | 90  |  
-| 3  |  Andrew WigginsMIA · SF · MIA@GSW  | $5,000  | 7.4  | 24.7  | **48.5**  |   | +4.4  | +4  | 88  |  
-| 4  |  Draymond GreenGSW · PF/C · MIA@GSW  | $5,500  | 8.1  | 26.7  | **52.4**  |   | +3.8  | +8  | 87  |  
-| 5  |  Anthony BlackORL · PG/SG · ORL@PHX  | $6,000  | 11.4  | 32.2  | **59.8**  |   | +6.8  | +3  | 85  |  
-| 6  |  Wendell CarterORL · C · ORL@PHX  | $6,500  | 11.9  | 33.6  | **61.6**  |   | +4.2  | +3  | 76  |  
-| 7  |  Klay ThompsonMIA · SG/SF · MIA@GSW  | $4,400  | 6.6  | 22.4  | **44.6**  |   | +5.8  | +2  | 75  |  
-| 8  |  Pelle LarssonMIA · SG/SF · MIA@GSW  | $5,200  | 7.7  | 25.3  | **49.3**  |   | +3.4  | +3  | 74  |  
-| 9  |  Jase RichardsonORL · PG/SG · ORL@PHX  | $4,600  | 4.5  | 18.7  | **39.3**  |   | −1.3  | +7  | 69  |  
-| 10  |  Jalen GreenPHX · SG · ORL@PHX  | $6,100  | 13.1  | 33.9  | **61.5**  |   | +7.6  | −1  | 69  |  
-| 11  |  Brandin PodziemskiGSW · PG/SG · MIA@GSW  | $6,700  | 13.1  | 34.7  | **63.2**  |   | +3.9  | +2  | 68  |  
-| 12  |  Miles BridgesPHX · PF · ORL@PHX  | $7,100  | 12.4  | 34.6  | **63.1**  |   | +0.3  | +4  | 66  |  
-| 13  |  Will RichardGSW · SG/SF · MIA@GSW  | $3,700  | 3.1  | 14.2  | **31.4**  |   | −1.2  | +4  | 63  |  
-| 14  |  Yaxel LendeborgGSW · SF/PF · MIA@GSW  | $7,900  | 14.7  | 38.1  | **68.4**  |   | −1.5  | +4  | 62  |  
-| 15  |  Bam AdebayoMIA · C · MIA@GSW  | $7,800  | 16.7  | 40.9  | **71.8**  |   | +2.8  | +1  | 60  |  
+| 1  |  Tristan da SilvaORL · SF/PF · ORL@PHX  | $5,300  | 7.9  | 26.4  | **51.0**  |   | +4.9  | +5  | 91  |  
+| 2  |  Collin GillespiePHX · PG · ORL@PHX  | $5,400  | 9.1  | 27.6  | **53.3**  |   | +6.2  | +4  | 90  |  
+| 3  |  Draymond GreenGSW · PF/C · MIA@GSW  | $5,500  | 8.1  | 26.8  | **52.4**  |   | +4.5  | +8  | 88  |  
+| 4  |  Anthony BlackORL · PG/SG · ORL@PHX  | $6,000  | 11.4  | 32.2  | **59.8**  |   | +7.3  | +3  | 87  |  
+| 5  |  Pelle LarssonMIA · SG/SF · MIA@GSW  | $5,200  | 8.0  | 25.8  | **50.0**  |   | +4.7  | +3  | 78  |  
+| 6  |  Andrew WigginsMIA · SF · MIA@GSW  | $5,000  | 6.6  | 23.4  | **46.6**  |   | +3.1  | +5  | 78  |  
+| 7  |  Wendell CarterORL · C · ORL@PHX  | $6,500  | 11.9  | 33.6  | **61.6**  |   | +4.6  | +3  | 78  |  
+| 8  |  Klay ThompsonMIA · SG/SF · MIA@GSW  | $4,400  | 6.8  | 22.7  | **45.1**  |   | +7.1  | +1  | 74  |  
+| 9  |  Jalen GreenPHX · SG · ORL@PHX  | $6,100  | 13.3  | 34.2  | **61.9**  |   | +8.6  | −2  | 69  |  
+| 10  |  Jase RichardsonORL · PG/SG · ORL@PHX  | $4,600  | 4.5  | 18.7  | **39.3**  |   | −0.6  | +7  | 68  |  
+| 11  |  Miles BridgesPHX · PF · ORL@PHX  | $7,100  | 12.7  | 34.9  | **63.5**  |   | +1.1  | +3  | 68  |  
+| 12  |  Brandin PodziemskiGSW · PG/SG · MIA@GSW  | $6,700  | 13.1  | 34.8  | **63.2**  |   | +4.5  | +2  | 66  |  
+| 13  |  Bam AdebayoMIA · C · MIA@GSW  | $7,800  | 17.2  | 41.5  | **72.7**  |   | +4.0  | +1  | 63  |  
+| 14  |  Will RichardGSW · SG/SF · MIA@GSW  | $3,700  | 3.2  | 14.3  | **31.4**  |   | −0.4  | +4  | 62  |  
+| 15  |  Ryan DunnPHX · SF/PF · ORL@PHX  | $3,800  | 4.0  | 15.9  | **34.1**  |   | +1.5  | +2  | 60  |  
 Show all 35 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 9:00 PM ET · 2 games slate · 2026-11-05.
 ## **NBA Injury Report**
@@ -186,5 +186,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659a98969a989b98999c9b66uokewi0e0y6e64606e646g64666i6g)
 

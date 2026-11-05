@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-05 16:12 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-05 18:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,132 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Santi Aldama](https://images.fantasypros.com/images/players/nba/5371/headshot/100x100.png)](https://www.fantasypros.com/nba/players/santi-aldama.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/santi-aldama.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/santi-aldama.php)  
+[» More News](https://www.fantasypros.com/nba/news/santi-aldama.php)
+[Santi Aldama (knee) probable to make season debut Friday](https://www.fantasypros.com/nba/news/618060/santi-aldama-knee-probable-to-make-season-debut-friday.php)  
+
+Thu, Nov 5th 5:39pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Santi Aldama (knee) is probable to play in Friday night's game against the Utah Jazz. (Source: [Grant Afseth on Twitter](https://x.com/GrantAfseth/status/2118468788442247437))
+**_Fantasy Impact:_** The veteran is expected to suit up and play on Friday night. He has yet to make his season debut thanks to a knee issue that he has been recovering from, but he seems to be nearly full health at this point and is probable to play against the Jazz. Fantasy managers shouldn't expect him to see a full workload for his first few games back at least, however.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tarik Biberovic](https://images.fantasypros.com/images/players/nba/6010/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tarik-biberovic.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/tarik-biberovic.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tarik-biberovic.php)  
+[» More News](https://www.fantasypros.com/nba/news/tarik-biberovic.php)
+[Tarik Biberovic (heel) unavailable for Friday](https://www.fantasypros.com/nba/news/618059/tarik-biberovic-heel-unavailable-friday.php)  
+
+Thu, Nov 5th 5:37pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Tarik Biberovic (heel) is unavailable for Friday's game against the Utah Jazz. (Source: [Grant Afseth on Twitter](https://x.com/GrantAfseth/status/2118468788442247437))
+**_Fantasy Impact:_** Biberovic is going to miss another game on Friday while he recovers from a heel injury. His next chance to play will come on Sunday against the Nets, although this injury may very well leave him sidelined beyond this game.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Max Christie](https://images.fantasypros.com/images/players/nba/5514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/max-christie.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/max-christie.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/max-christie.php)  
+[» More News](https://www.fantasypros.com/nba/news/max-christie.php)
+[Max Christie (hip) expected to play Friday](https://www.fantasypros.com/nba/news/618058/max-christie-hip-expected-to-play-friday.php)  
+
+Thu, Nov 5th 5:36pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Max Christie (hip) is expected to play in Friday night's game against the Utah Jazz. (Source: [Grant Afseth on Twitter](https://x.com/GrantAfseth/status/2118468788442247437))
+**_Fantasy Impact:_** Christie was sidelined on Wednesday due to some hip tightness that he was dealing with, but it's not a serious issue and he is expected to play through it on Friday night. He will continue to be a key part of Dallas' rotation whenever healthy and on the court moving forward.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tyrese Proctor](https://images.fantasypros.com/images/players/nba/6337/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tyrese-proctor.php)
+G - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/tyrese-proctor.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tyrese-proctor.php)  
+[» More News](https://www.fantasypros.com/nba/news/tyrese-proctor.php)
+[Tyrese Proctor (ankle) listed questionable for Friday](https://www.fantasypros.com/nba/news/618057/tyrese-proctor-ankle-listed-questionable-friday.php)  
+
+Thu, Nov 5th 5:33pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Tyrese Proctor (ankle) is listed as questionable to play in Friday's game against the Philadelphia 76ers. (Source: [Ethan Sands on Twitter](https://x.com/EjElite1/status/2118463923565351084))
+**_Fantasy Impact:_** Proctor suffered an ankle injury during Cleveland's loss to OKC on Wednesday night. He's currently considered day-to-day and is officially considered questionable to play on Friday right now. The team will make a decision about his availability closer to game time.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Peyton Watson](https://images.fantasypros.com/images/players/nba/5523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/peyton-watson.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/peyton-watson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/peyton-watson.php)  
+[» More News](https://www.fantasypros.com/nba/news/peyton-watson.php)
+[Peyton Watson (hamstring) questionable for Friday](https://www.fantasypros.com/nba/news/618056/peyton-watson-hamstring-questionable-friday.php)  
+
+Thu, Nov 5th 5:31pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Peyton Watson (hamstring) is questionable for Friday's game against the Philadelphia 76ers. (Source: [Ethan Sands on Twitter](https://x.com/EjElite1/status/2118463923565351084))
+**_Fantasy Impact:_** A hamstring injury will leave Watson questionable to play against the 76ers on Friday night. If he is ruled out, fantasy managers should expect more work for Meleek Thomas and Mario Hezonja as a result of his absence.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaylon Tyson](https://images.fantasypros.com/images/players/nba/6155/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylon-tyson.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jaylon-tyson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaylon-tyson.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaylon-tyson.php)
+[Jaylon Tyson (ankle) out again Friday](https://www.fantasypros.com/nba/news/618055/jaylon-tyson-ankle-out-again-friday.php)  
+
+Thu, Nov 5th 5:30pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jaylon Tyson (ankle) will be out for Friday's matchup against the Philadelphia 76ers. (Source: [Ethan Sands on Twitter](https://x.com/EjElite1/status/2118463923565351084))
+**_Fantasy Impact:_** Tyson is set to miss a third-straight game on Friday as he continues to recover from an ankle injury. Fantasy managers Meleek Thomas to see more opportunities in his continued absence.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jarrett Allen](https://images.fantasypros.com/images/players/nba/3323/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jarrett-allen.php)
+C - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jarrett-allen.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jarrett-allen.php)  
+[» More News](https://www.fantasypros.com/nba/news/jarrett-allen.php)
+[Jarrett Allen (knee) questionable to play Friday](https://www.fantasypros.com/nba/news/618054/jarrett-allen-knee-questionable-to-play-friday.php)  
+
+Thu, Nov 5th 5:28pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jarrett Allen (knee) is questionable to play in Friday night's game against the Philadelphia 76ers. (Source: [Ethan Sands on Twitter](https://x.com/EjElite1/status/2118463923565351084))
+**_Fantasy Impact:_** The big man suffered a knee injury in Wednesday's loss and is uncertain to play on Friday as a result. If he is ruled out ahead of game time, fantasy managers should expect Thomas Bryant to continue to be the primary beneficiary of his absence from a fantasy perspective.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Yves Missi](https://images.fantasypros.com/images/players/nba/6153/headshot/100x100.png)](https://www.fantasypros.com/nba/players/yves-missi.php)
+C - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/yves-missi.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/yves-missi.php)  
+[» More News](https://www.fantasypros.com/nba/news/yves-missi.php)
+[Yves Missi (knee) remains out for Friday](https://www.fantasypros.com/nba/news/618053/yves-missi-knee-remains-out-friday.php)  
+
+Thu, Nov 5th 5:25pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Yves Missi (knee) will remain out for Friday's game against the Minnesota Timberwolves. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_30PM.pdf))
+**_Fantasy Impact:_** The big man is going to remain sidelined for another game on Friday as he continues to nurse a nagging knee issue of some kind. It's unclear how much longer he will be out, and Derik Queen will continue to benefit from his absence from a fantasy perspective.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Poole](https://images.fantasypros.com/images/players/nba/4514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-poole.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-poole.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-poole.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-poole.php)
+[Jordan Poole (ankle) off injury report for Friday](https://www.fantasypros.com/nba/news/618052/jordan-poole-ankle-off-injury-report-friday.php)  
+
+Thu, Nov 5th 5:24pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jordan Poole (ankle) is off of the injury report for Friday's game against the Minnesota Timberwolves. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-05_03_30PM.pdf))
+**_Fantasy Impact:_** Poole was able to play through his ankle injury on Wednesday and is now fully off of the injury report ahead of Friday's game. He should be available to play without any limitations against the Timberwolves.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Rasheer Fleming](https://images.fantasypros.com/images/players/nba/6347/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rasheer-fleming.php)
 F - PHO
 [» Rankings](https://www.fantasypros.com/nba/players/rasheer-fleming.php)  
@@ -161,132 +287,6 @@ Julius Randle finished with 22 points (7-13 FG, 2-4 3PT, 6-7 FT), four assists, 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Michael Porter Jr.](https://images.fantasypros.com/images/players/nba/3471/headshot/100x100.png)](https://www.fantasypros.com/nba/players/michael-porter.php)
-F - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/michael-porter.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/michael-porter.php)  
-[» More News](https://www.fantasypros.com/nba/news/michael-porter.php)
-[Michael Porter Jr. puts up double-double in Wednesday's win](https://www.fantasypros.com/nba/news/617991/michael-porter-jr-puts-up-double-double-wednesdays-win.php)  
-
-Thu, Nov 5th 10:08am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Michael Porter Jr. scored 26 points (8-17 FG, 4-9 3PT, 6-10 FT) and grabbed 10 rebounds in Wednesday's 114-104 win over the Hornets. 
-**_Fantasy Impact:_** Porter recorded his second double-double of the season while going for more than 20 points for the fifth time through the first eight games of the season. The veteran forward is averaging 21.4 points, 7.4 rebounds, and 3.5 treys (38.9%) to this point, making him a strong fantasy option. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ace Bailey](https://images.fantasypros.com/images/players/nba/6309/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ace-bailey.php)
-F - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/ace-bailey.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ace-bailey.php)  
-[» More News](https://www.fantasypros.com/nba/news/ace-bailey.php)
-[Ace Bailey struggles from three point range in loss](https://www.fantasypros.com/nba/news/617990/ace-bailey-struggles-from-three-point-range-loss.php)  
-
-Thu, Nov 5th 10:07am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Ace Bailey scored 15 points (6-14 FG, 1-9 3P, 2-3 FT) with five rebounds, an assist, and a block in the Jazz’s 120-113 loss to the Pelicans on Wednesday.
-**_Fantasy Impact:_** Bailey struggled to find his shot from deep, as all eight of his missed shots came from beyond the arc, making him perfect from 2 point range. Despite jacking up plenty of shots, he’s made only a single three in six of his last seven games, making him 9-for-40 overall in that span. It’s a tough stretch for the young player, but he’s still putting up enough on the stat sheet to be worth starting in fantasy.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Deni Avdija](https://images.fantasypros.com/images/players/nba/5084/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deni-avdija.php)
-F - POR
-[» Rankings](https://www.fantasypros.com/nba/players/deni-avdija.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deni-avdija.php)  
-[» More News](https://www.fantasypros.com/nba/news/deni-avdija.php)
-[Deni Avdija approaches a triple-double Wednesday night](https://www.fantasypros.com/nba/news/617989/deni-avdija-approaches-triple-double-wednesday-night.php)  
-
-Thu, Nov 5th 9:59am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Deni Avdija finished with 21 points (7-16 FG, 1-5 3PT, 6-9 FT), 12 assists, and seven rebounds in Wednesday's 132-119 win over the Suns. 
-**_Fantasy Impact:_** An All-Star for the first time last season, Avdija has stayed the course in the early days of this season. He's topped 20 points in six straight games after finishing with 18 in the season opener a couple of weeks ago. Avdija is also averaging 6.4 rebounds, 6.4 assists, and 1.7 treys while shooting 47.8% from the field overall. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Damian Lillard](https://images.fantasypros.com/images/players/nba/2761/headshot/100x100.png)](https://www.fantasypros.com/nba/players/damian-lillard.php)
-G - POR
-[» Rankings](https://www.fantasypros.com/nba/players/damian-lillard.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/damian-lillard.php)  
-[» More News](https://www.fantasypros.com/nba/news/damian-lillard.php)
-[Damian Lillard puts up 25 points in Wednesday's win](https://www.fantasypros.com/nba/news/617988/damian-lillard-puts-up-25-points-wednesdays-win.php)  
-
-Thu, Nov 5th 9:55am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Damian Lillard scored 25 points (9-17 FG, 2-8 3PT, 5-5 FT) and handed out five assists in Wednesday's 132-119 win over the Suns. 
-**_Fantasy Impact:_** Lillard is off to a great start in what should be a big bounce-back season in Portland. The future Hall of Famer has reached 20 points in in each of his last three games and five times in the season's first seven contests. Lillard has rounded out his averages with 4.1 rebounds, 4.1 assists, and 2.7 treys to this point. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Donovan Clingan](https://images.fantasypros.com/images/players/nba/6159/headshot/100x100.png)](https://www.fantasypros.com/nba/players/donovan-clingan.php)
-C - POR
-[» Rankings](https://www.fantasypros.com/nba/players/donovan-clingan.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/donovan-clingan.php)  
-[» More News](https://www.fantasypros.com/nba/news/donovan-clingan.php)
-[Donovan Clingan puts up big double-double Wednesday](https://www.fantasypros.com/nba/news/617987/donovan-clingan-puts-up-big-double-double-wednesday.php)  
-
-Thu, Nov 5th 9:51am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Donovan Clingan finished with 24 points (9-12 FG, 1-2 3PT, 5-6 FT), 11 rebounds, and three blocks in Wednesday's 132-119 win over the Suns. 
-**_Fantasy Impact:_** Clingan has now scored 41 points and grabbed 29 rebounds over the last two games. He's also now blocked at least three shots in four of his last six games. The third-year big appears poised to take another step up this season, possibly becoming an elite fantasy performer at his position. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Robert Williams III](https://images.fantasypros.com/images/players/nba/3546/headshot/100x100.png)](https://www.fantasypros.com/nba/players/robert-williams-c.php)
-C - POR
-[» Rankings](https://www.fantasypros.com/nba/players/robert-williams-c.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/robert-williams-c.php)  
-[» More News](https://www.fantasypros.com/nba/news/robert-williams-c.php)
-[Robert Williams III delivers solid effort in Wednesday's win](https://www.fantasypros.com/nba/news/617986/robert-williams-iii-delivers-solid-effort-wednesdays-win.php)  
-
-Thu, Nov 5th 9:46am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Robert Williams III finished with nine points (4-8 FG, 1-1 FT), eight rebounds, three blocks, and two steals in Wednesday's 132-119 win over the Suns. 
-**_Fantasy Impact:_** Williams doesn't need a ton of minutes to deliver solid stat lines, as he put up this across-the-board production in less than 16 minutes. The veteran big is a valuable depth piece in standard fantasy formats, averaging 7.2 points, 7.2 boards, and 1.2 blocks with a 61.3 FG% through six games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Green](https://images.fantasypros.com/images/players/nba/5252/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-green.php)
-G - PHO
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-green.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-green.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-green.php)
-[Jalen Green scores 22 points in Wednesday's loss](https://www.fantasypros.com/nba/news/617985/jalen-green-scores-22-points-wednesdays-loss.php)  
-
-Thu, Nov 5th 9:41am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Jalen Green put up 22 points (6-17 FG, 2-8 3PT, 8-8 FT) in Wednesday's 132-119 loss to the Trail Blazers. 
-**_Fantasy Impact:_** Green put up a season-high 22 points Wednesday night, reaching 20 for the second time through the first six games. His three-point shooting still hasn't really come around, but Green is giving fantasy managers some value with 12.8 points, 3.3 assists, and 3.3 rebounds per game. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Devin Booker](https://images.fantasypros.com/images/players/nba/3024/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-booker.php)
-G - PHO
-[» Rankings](https://www.fantasypros.com/nba/players/devin-booker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/devin-booker.php)  
-[» More News](https://www.fantasypros.com/nba/news/devin-booker.php)
-[Devin Booker pours in 33 points Wednesday](https://www.fantasypros.com/nba/news/617984/devin-booker-pours-33-points-wednesday.php)  
-
-Thu, Nov 5th 9:38am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Devin Booker scored 33 points (9-19 FG, 2-8 3PT, 13-13 FT) in Wednesday's 132-119 loss to the Trail Blazers.
-**_Fantasy Impact:_** Booker eclipsed 30 points for the second time this season on Wednesday night, putting up his second-highest point total through his first six games. Booker didn't really have his long-range shot locked in Wednesday, but he more than made up for that from the free-throw line. The five-time All-Star is still one of the league's top scorers. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Victor Wembanyama](https://images.fantasypros.com/images/players/nba/5971/headshot/100x100.png)](https://www.fantasypros.com/nba/players/victor-wembanyama.php)
-C - SAS
-[» Rankings](https://www.fantasypros.com/nba/players/victor-wembanyama.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/victor-wembanyama.php)  
-[» More News](https://www.fantasypros.com/nba/news/victor-wembanyama.php)
-[Victor Wembanyama dominates in Wednesday’s win over Mavericks](https://www.fantasypros.com/nba/news/617983/victor-wembanyama-dominates-wednesdays-win-over-mavericks.php)  
-
-Thu, Nov 5th 9:34am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Victor Wembanyama posted a dominant double-double for the Spurs Wednesday night, grabbing 24 rebounds and exploding for 52 points (16-28 FG, 1-8 3PT, 19-23 FT) while also dishing out two assists, blocking eight shots, and recording two steals in a 112-111 win over the Mavericks.
-**_Fantasy Impact:_** Wembanyama continues an impactful stretch on both ends of the floor, blocking two or more shots, grabbing seven or more rebounds, and scoring 12 or more points in each of his last five contests. The superstar center has rewarded fantasy managers with another elite early-season stretch while leading a versatile San Antonio starting five for head coach Mitch Johnson once again, averaging 29.0 points, 4.5 blocks, and 12.4 rebounds per game while carrying a usage rate of 35.7% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=400_1793912821316&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989d9a9b9f9f9b9d9e9b66uokewi0e0y646k6e6g6o6o6g6k6m6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=664_1793919654214&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a98969a989b98999c9b66uokewi0e0y6e64606e646g64666i6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

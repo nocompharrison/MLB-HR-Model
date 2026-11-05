@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-05 16:12 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-05 18:06 ET -->
 
 
 ---
@@ -1555,6 +1555,18 @@ Let’s dive into three player props that catch our eye for Monday’s jumbo-siz
 
 ### **Jalen Brunson (Knicks vs. Nets) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Jalen Brunson
+
+[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/104953/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/104953/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/104953/kalshi_sc)
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/104953/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/104953/kalshi_sc)[6¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/104953/kalshi_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_east/104953/kalshi_sc)[To Win Eastern Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_east/104953/kalshi_sc)[22¢](https://lineups.go.metabet.io/bet/nba_mvp_east/104953/kalshi_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jalen_brunson/player_104953 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Brunson’s not quite out of his season-opening shooting slump yet, but there’s seemingly some light at the end of the tunnel. After draining just 36.6% of his attempts over the first four games of the season, Brunson went 13-for-25 from the floor in a win over the Bulls on Wednesday. He regressed to an 8-for-22 tally in a tough matchup against the Sixers on Friday, and after having the weekend to clear his head, Brunson should be refreshed for a favorable matchup with the intracity-rival Nets.
 
 Brooklyn is allowing the fifth-most assists per game to point guards (10.8), along with 46.7% shooting overall. The Nets are also yielding the seventh-most assists per contest (28.2), and he’s come just two total points or assists short of going 4-0 to the Over on this prop in the last four games. Finally, it’s worth noting the Nets have yielded the eighth-most points + assists per game across all positions (144.2), giving further fuel to the Over.
@@ -1563,6 +1575,14 @@ Brooklyn is allowing the fifth-most assists per game to point guards (10.8), alo
 
 ### **P.J. Washington (Mavericks vs. Kings) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)P.J. Washington
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)[To Win 6th Man of the Year](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)
+
+[![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/p.j._washington/player_132769 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 The Mavericks are nearly double-digit favorites Monday against Sacramento, and given the winless Kings have lost their games by an average of 19 points, it’s possible Dallas is ahead by a comfortable enough margin late that a front-line player like Cooper Flagg with elevated props doesn’t get quite enough playing time to hit them. That makes Washington an interesting pivot, considering his points + rebounds prop is very reasonable in this matchup and relative to the veteran forward’s body fo work thus far.
 
 Washington is averaging 22.0 points + rebounds across 33.5 minutes per game while going 3-2 to the Over on the 21.5 over the first five games of the season while falling short in tough matchups against the Rockets and Spurs. Washington then managed an outlier of a three-point effort in a rematch with Houston his most recent time on the floor, but he’ll have his most palatable matchup by far Monday. With Keegan Murray (ankle) sidelined, Sacramento is more vulnerable down low and is ranked No. 22 in offensive efficiency rating allowed to power forwards (29.5), while also surrendering the sixth-most points per game to the position (26.8). The Kings are also yielding the seventh-most rebounds per game overall (56.5), along with NBA-high 55.3% shooting on the road.
@@ -1570,6 +1590,18 @@ Washington is averaging 22.0 points + rebounds across 33.5 minutes per game whil
 **Original Line Publish**: 21.5
 
 ### **Victor Wembanyama (Spurs vs. Jazz) Over Steals and Blocks**
+
+[](https://www.lineups.com/)
+
+![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)Victor Wembanyama
+
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)[36¢](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)
+
+[![Image 41: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)[17¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)
+
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)[32¢](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)
+
+[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/victor_wembanyama/player_188716 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Wemby has taken his already elite game to new heights over the last pair of contests, averaging 39.5 points, 10.5 rebounds, 4.5 assists and 6.0 steals + blocks across 36.5 minutes per contest. The majority of the 2023 first overall pick’s props are fairly elevated as a result, and that’s a bit of a concern considering the Spurs are 16.5-point favorites against the 1-5 Jazz and could therefore give some of their top players a bit of down time if the game plays out as oddsmakers expect.
 
@@ -1607,27 +1639,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 44: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 45: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 46: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 47: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 48: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 #### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
@@ -1638,7 +1670,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 49: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 50: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1653,7 +1685,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 51: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1663,7 +1695,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 52: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1673,7 +1705,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 53: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1683,7 +1715,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 54: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1693,7 +1725,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+[![Image 55: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1703,7 +1735,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
 
-[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+[![Image 56: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3362,18 +3394,6 @@ Let’s dive into three player props that catch our eye for Friday’s action-pa
 
 ### **Derrick White (Celtics vs. Bulls) Over Points + Rebounds + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10189.png)Derrick White
-
-[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/69913/kalshi_sc)
-
-[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/69913/kalshi_sc)
-
-[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/69913/kalshi_sc)
-
-[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/derrick_white/player_69913 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 White is off to a typically solid start, and although he’s seen a downturn in scoring early in the new season thanks to a drop in usage, he’s partly offsetting that with more efficient shooting when he does put the ball up. The veteran point guard is draining 44.2% of his shots from the field thus far, a middling figure that’s nevertheless an improvement on the career-worst 39.4% he shot last season.
 
 White is also facilitating at a career-best clip, averaging a career-high 6.3 assists per contest while also pulling down 4.0 rebounds per game. He took only four shots against the Bulls at United Center on Monday, but he’s otherwise put up at least 11 shot attempts in Boston’s other three contests. Chicago does present a very appealing matchup on paper as well, allowing an NBA-high 38.4 offensive efficiency rating to point guards, along with 50.5% shooting, including an NBA-high 53.2% success rate from three-point range.
@@ -3384,16 +3404,6 @@ White is 2-2 to the Over on this prop thus far, but the home matchup against suc
 
 ### **Pascal Siakam (Pacers vs. Heat) Over Points + Rebounds**
 
-[](https://www.lineups.com/)
-
-![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10201.png)Pascal Siakam
-
-[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/56163/kalshi_sc)
-
-[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/56163/kalshi_sc)
-
-[![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/pascal_siakam/player_56163 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Siakam is once again spearheading the Pacers’ efforts in the first week-plus of the new season, averaging a typically well-rounded 24.0 points (on career-best 55.3% shooting), 8.4 rebounds and 3.8 assists per contest. Siakam is shooting 38.1% from three-point range as well, displaying his usual floor-spacing prowess. He now draws a matchup against a Heat team that finally just won its first game, but that’s struggled defensively pretty much across the board.
 
 Miami is allowing 124.0 points per home game over its three Kaseya Center contests thus far, as well as 48.4% shooting. The Heat also ranks in the bottom 10 of the league in rebounds (59.0) and assists (28.3) per home game surrendered, and Siakam also had PRA tallies of 45 and 47 in two of three regular-season games against Miami last season.
@@ -3403,18 +3413,6 @@ To top it off, the Heat is surrendering a league-high 52.6% success from rate fr
 **Original Line Publish**: 31.5
 
 ### **Cooper Flagg (Mavericks vs. Rockets) Over Points + Rebounds + Assists**
-
-[](https://www.lineups.com/)
-
-![Image 40](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)Cooper Flagg
-
-[![Image 41: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp/258778/kalshi_sc)
-
-[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)[17¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/258778/kalshi_sc)
-
-[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)[13¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/258778/kalshi_sc)
-
-[![Image 44](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/cooper_flagg/player_258778 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Fresh off his Rookie of the year honors, Flagg already looks like a leading MVP candidate through his first four games. Heading into the season, the prevailing thought was that finally having the opportunity to play alongside Kyrie Irving was going to benefit Flagg in a multitude of ways, and Flagg’s current line of 25.3 points (on 52.2% shooting), 6.8 assists, 5.3 rebounds, 2.8 steals and 1.3 blocks per contest certainly seems to bear that out.
 
@@ -3452,27 +3450,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 45: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+[![Image 31: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
 
-[![Image 46: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 32: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-150x150.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)[Wake Forest-Vanderbilt Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
-[![Image 47: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 33: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)[NBA Player Props Today: Wendell Carter Jr. and Stephen Curry Best Bets](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
-[![Image 48: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 34: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)[NHL Goal Picks Today: David Pastrnak, Pavel Dorofeyev & Tomas Hertl Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
-[![Image 49: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 35: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-150x150.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 #### [](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)[Jaguars-Ravens Picks, Predictions & Odds: NFL Week 9](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
@@ -3483,7 +3481,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 50: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 51: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -3498,7 +3496,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 52: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
+[![Image 38: Tyler Tanner](https://www.lineups.com/wp-content/uploads/2026/11/TylerTanner-390x230.jpg)](https://www.lineups.com/articles/wake-forest-vanderbilt-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3508,7 +3506,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 53: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
+[![Image 39: Stephen Curry](https://www.lineups.com/wp-content/uploads/2026/11/Stephen-Curry-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-wendell-carter-jr-and-stephen-curry-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3518,7 +3516,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 05, 2026
 
-[![Image 54: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
+[![Image 40: pastrnak](https://www.lineups.com/wp-content/uploads/2026/11/pastrnak-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-david-pastrnak-pavel-dorofeyev-tomas-hertl-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3528,7 +3526,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 05, 2026
 
-[![Image 55: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
+[![Image 41: henry, derrick](https://www.lineups.com/wp-content/uploads/2026/11/henry-derrick-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-picks-predictions-odds-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3538,7 +3536,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 04, 2026
 
-[![Image 56: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
+[![Image 42: Chris Rodriguez Jr](https://www.lineups.com/wp-content/uploads/2026/11/rodriguezJr-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-touchdown-picks-chris-rodriguez-jr-parker-washington-anytime-td-bets-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3548,7 +3546,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 04, 2026
 
-[![Image 57: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
+[![Image 43: Tuten](https://www.lineups.com/wp-content/uploads/2026/11/Tuten-390x230.jpg)](https://www.lineups.com/articles/jaguars-ravens-dfs-picks-best-value-plays-nfl-week-9/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
