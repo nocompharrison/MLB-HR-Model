@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-05 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-05 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,67 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Lamar Washington](https://www.rotowire.com/cbasketball/player/lamar-washington-20402)
+Remains ineligible
+**G** Boise State
+Not Injury Related
+November 5, 2026
+Washington remains ineligible for Boise State after starting to pursue a fifth year of eligibility in the spring, [B.J. Rains of BroncoNationNews.com](https://x.com/BJRains/status/2118424392690729017) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan.png?v=16)
+[Moustapha Thiam](https://www.rotowire.com/cbasketball/player/moustapha-thiam-23599)
+On track to play vs. UConn
+**F** Michigan
+Illness
+November 5, 2026
+Thiam (illness) returned to practice on Wednesday and is expected to play against UConn on Friday night barring any setbacks, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118445062678003713?a=OTxszlpys45Ezoh4dkQ&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Saint Louis](https://assets.rotowire.com/images/teamlogo/cbasketball/Saint-Louis.png?v=16)
+[Robbie Avila](https://www.rotowire.com/cbasketball/player/robbie-avila-21059)
+Granted eligibility
+**C** Saint Louis
+November 5, 2026
+Avila (not injury related) has been granted a permanent injunction granting him eligibility for the 2026-27 season, per [The Field of 68](https://x.com/TheFieldOf68/status/2118416900883362285?a=-JNoAxlCzh3EfiFK6kk&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![New Mexico State](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico-State.png?v=16)
+[Gabe Warren](https://www.rotowire.com/cbasketball/player/gabe-warren-22437)
+Suffers season-ending ACL tear
+**G** New Mexico State
+Knee
+November 5, 2026
+Warren tore his ACL in Tuesday's opener and will miss the rest of the season, [Theo Lawson of The Spokane Spokesman-Review](https://x.com/TheoLawson_SR/status/2118394381518668144?a=QNHVBemMh7e5KlGyxyY&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![California](https://assets.rotowire.com/images/teamlogo/cbasketball/California.png?v=16)
+[Nojus Indrusaitis](https://www.rotowire.com/cbasketball/player/nojus-indrusaitis-23489)
+Explodes for 30 points Wednesday
+**G** California
+November 5, 2026
+Indrusaitis recorded 30 points (10-15 FG, 6-10 3Pt, 4-5 FT), five rebounds, two assists and two steals over 33 minutes during Wednesday's 84-70 win over Radford.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
+Out vs. CCU
+**G** Syracuse
+Hamstring
+November 5, 2026
+Tobiason (hamstring) is out for Thursday's contest against Central Connecticut, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118341184615817312?a=01gzZv_ZnJsTR0L2_uA&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DePaul](https://assets.rotowire.com/images/teamlogo/cbasketball/DePaul.png?v=16)
+[Theo Pierre-Justin](https://www.rotowire.com/cbasketball/player/theo-pierre-justin-24271)
+Will sit Thursday
+**F** DePaul
+Leg
+November 5, 2026
+Pierre-Justin (leg) will be out for Thursday's game versus USF, per [WeAreDePaul.com](https://WeAreDePaul.com).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
 [Tahaad Pettiford](https://www.rotowire.com/cbasketball/player/tahaad-pettiford-23426)
 Scores team-high 18
@@ -157,63 +218,6 @@ Diagnosed with knee sprain
 Knee
 November 4, 2026
 McCarty has been diagnosed with a sprained knee and should be considered day-to-day, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118006146686701598) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Virginia](https://assets.rotowire.com/images/teamlogo/cbasketball/Virginia.png?v=16)
-[Thijs De Ridder](https://www.rotowire.com/cbasketball/player/thijs-de-ridder-26151)
-Shines in win over Drexel
-**F** Virginia
-November 4, 2026
-De Ridder ended with 24 points (9-15 FG, 2-4 3Pt, 4-4 FT), nine rebounds, one assist, one block and two steals over 27 minutes during Tuesday's 89-60 victory over Drexel.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Virginia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Virginia-Tech.png?v=16)
-[Ben Hammond](https://www.rotowire.com/cbasketball/player/ben-hammond-23588)
-Excellent at both ends Tuesday
-**G** Virginia Tech
-November 4, 2026
-Hammond provided 20 points (6-14 FG, 4-9 3Pt, 4-5 FT), three rebounds, eight assists and seven steals over 33 minutes during Tuesday's 88-54 win over Coppin State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia-Tech.png?v=16)
-[Colby Garland](https://www.rotowire.com/cbasketball/player/colby-garland-22800)
-Goes for 16 points in win
-**G** Georgia Tech
-November 4, 2026
-Garland accumulated 16 points (7-10 FG, 1-1 3Pt, 1-2 FT), four rebounds and four assists over 29 minutes during Tuesday's 75-55 victory over Hampton.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
-[Money Williams](https://www.rotowire.com/cbasketball/player/money-williams-25157)
-Lifts Eagles to win Tuesday
-**G** Boston College
-November 4, 2026
-Williams closed Tuesday's 76-50 victory over Wagner with 22 points (5-11 FG, 1-3 3Pt, 11-15 FT), five rebounds, four assists and one steal in 37 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
-[Guillermo Del Pino](https://www.rotowire.com/cbasketball/player/guillermo-del-pino-25918)
-May not be available Saturday
-**G** Maryland
-Undisclosed
-November 4, 2026
-Del Pino (undisclosed) might not play Saturday at Georgetown, according to [Jeff Ermann of 247Sports.com](https://247sports.com/college/maryland/article/buzz-williams-breaks-down-good-bad-from-maryland-basketballs-opener-baba-oladotun-and-kaden-houses-debuts--292136539/).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[Jalen Shelley](https://www.rotowire.com/cbasketball/player/jalen-shelley-23533)
-Snags 12 boards
-**F** Texas A&M
-November 4, 2026
-Shelley closed with 14 points (4-6 FG, 1-2 3Pt, 5-11 FT), 12 rebounds, three assists and one steal over 23 minutes during Tuesday's 97-66 win over Alabama State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[PJ Haggerty](https://www.rotowire.com/cbasketball/player/pj-haggerty-20436)
-Scores 22 in Aggies debut
-**G** Texas A&M
-November 4, 2026
-Haggerty accumulated 22 points (8-14 FG, 1-3 3Pt, 5-8 FT), three rebounds and one steal across 27 minutes during Tuesday's 97-66 win over Alabama State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

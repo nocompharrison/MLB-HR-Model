@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-05 11:18 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-05 17:03 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5
 ![FanDuel Staff](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://fanduel.com/research/author/fanduel-staff)
-41m
+6h
 Link
 ![College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9a6dc3260eb90205de0f49df2e007636dee80a3a-3000x2000.jpg%3Frect%3D0%2C55%2C3000%2C1484%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best College Basketball Bets in Summary**
@@ -59,8 +59,8 @@ With Seton Hall's usual slow pace and defensive-minded approach combined with LI
 Towson vs. Utah — 9:00 p.m. ET
 Spread
 Towson
-+8.5
--108
++7.5
+-102
 Nov 6 2:00am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/towson-@-utah-36281115)
 Odds/lines subject to change
 [Utah](https://sportsbook.fanduel.com/teams/college-basketball/utah-utes/odds) enters Thursday's matchup as a sizable favorite, but the Utes didn't exactly inspire confidence in their season opener.
@@ -88,22 +88,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
-41m
+6h
 College basketball picks and best bets for Thursday. What are today's top CBB predictions?
 [](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Arizona vs Cal Poly College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-3h
+9h
 Find Arizona vs. Cal Poly predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
 [](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Texas vs Gardner-Webb College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-8h
+13h
 Find Texas vs. Gardner-Webb predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
 [](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-8h
+13h
 Find Illinois vs. Pennsylvania predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
 [](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
 
@@ -112,11 +112,84 @@ Find Illinois vs. Pennsylvania predictions, betting odds, moneyline, spread, ove
 ---
 ## SOURCE: https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026
 
-Title: Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
+![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
+[Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
 
-URL Source: https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026
+START YOUR OWN WINNING STREAK
+![Player Image](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9ea2cf5a2cf74c2d84114cfa340079163402773b-4006x2048.png%3Fw%3D200&w=330&q=100)
+![SportsBookLogo](https://fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
+[ See Promos ChevronRight ](https://sportsbook.fanduel.com/promotions)
+[NCAAB](https://fanduel.com/research/ncaab)
+# Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
+![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
+[Data Skrive](https://fanduel.com/research/author/data-skrive)
+13h
+Link
+![Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa401d3cc874b6b8df05f8b8ef284e6cb91e6df37-3923x2615.jpg%3Frect%3D0%2C338%2C3923%2C1941%26w%3D964%26h%3D477&w=1920&q=100)
+The Illinois Fighting Illini (1-0) face the Pennsylvania Quakers (0-0) on November 5, 2026. The matchup airs on FS1.
+Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+## Illinois vs. Pennsylvania Game Info and Odds
+  * **Game day:** Thursday, November 5, 2026
+  * **Game time:** 8:30 p.m. ET
+  * **TV channel:** Fox Sports 1
+  * **Location:** Champaign, Illinois
+  * **Arena:** State Farm Center
 
-Published Time: 2026-11-05T08:47:10Z
+
+Before you decide to wager on Illinois-Pennsylvania outing (in which Illinois is a 30.5-point favorite and the total is set at 172.5 points), keep reading for some betting insights and trends for Thursday's game.
+_Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
+## Illinois vs. Pennsylvania: ATS Betting Stats and Trends
+  * Illinois compiled a 22-15-0 ATS record last year.
+  * Pennsylvania covered 19 times in 29 chances against the spread last year.
+  * In home games last season, the Fighting Illini had a worse record against the spread (10-7-0) compared to their ATS record in away games (6-4-0).
+  * The Quakers' winning percentage against the spread at home was .615 (8-5-0) last season. On the road, it was .750 (9-3-0).
+
+
+## Illinois vs. Pennsylvania Head-to-Head Comparison
+  * On offense, Illinois was the 28th-ranked team in college basketball (83.2 points per game) last season. Defensively, it was 51st (68.8 points conceded per game).
+  * Last season, Illinois was sixth-best in the nation in rebounds (37.8 per game) and 17th-best in rebounds allowed (27.6).
+  * At 14.2 assists per game last season, Illinois was 143rd in the nation.
+  * Last season, Illinois was seventh-best in college basketball in turnovers committed (8.5 per game) but -6-worst in turnovers forced (7.2).
+  * With 75.9 points per game on offense, Pennsylvania was 173rd in the nation last year. At the other end of the court, it surrendered 74.4 points per contest, which ranked 194th in college basketball.
+  * Pennsylvania was 152nd in the country with 32.3 boards per game. Meanwhile, it ranked 302nd with 33.1 rebounds allowed per contest.
+  * Last season Pennsylvania ranked 165th in college basketball in assists, dishing out 13.9 per game.
+  * With 10.3 turnovers per game, Pennsylvania ranked 115th in college basketball. It forced 11.4 turnovers per contest, which ranked 141st in college basketball.
+
+
+_Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
+Link
+## More Articles You May Like
+[NCAAB](https://fanduel.com/research/ncaab)
+## [College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
+6h
+College basketball picks and best bets for Thursday. What are today's top CBB predictions?
+[](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
+[NCAAB](https://fanduel.com/research/ncaab)
+## [Arizona vs Cal Poly College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+9h
+Find Arizona vs. Cal Poly predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
+[](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
+## [Texas vs Gardner-Webb College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+13h
+Find Texas vs. Gardner-Webb predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
+[](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
+## [Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+13h
+Find Illinois vs. Pennsylvania predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
+[](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+
+
+
+---
+## SOURCE: https://fanduel.com/research/florida-vs-jacksonville-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026
+
+Title: Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
+
+URL Source: https://fanduel.com/research/florida-vs-jacksonville-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026
+
+Published Time: 2026-11-05T08:47:02Z
 
 Markdown Content:
 [FanDuel Research](https://www.fanduel.com/research)[Sportsbook](https://sportsbook.fanduel.com/)[Fantasy](https://www.fanduel.com/contests)[Casino](https://casino.fanduel.com/)[Racing](https://racing.fanduel.com/)[FanDuel TV](https://www.fanduel.com/watch)[Free2Play](https://www.fanduel.com/free/hub)
@@ -448,16 +521,16 @@ START YOUR OWN WINNING STREAK
 
 1.   [FanDuel Research](https://fanduel.com/research)>
 2.   [NCAAB](https://fanduel.com/research/ncaab)>
-3.   Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
+3.   Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
 
 [NCAAB](https://fanduel.com/research/ncaab)
-# Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
+# Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
 
 ![Image 54: Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
 
-8h
+13h
 
 Subscribe to our newsletter
 
@@ -467,41 +540,41 @@ Subscribe
 
 I confirm I am 21+ years of age 
 
-![Image 55: Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa401d3cc874b6b8df05f8b8ef284e6cb91e6df37-3923x2615.jpg%3Frect%3D0%2C338%2C3923%2C1941%26w%3D964%26h%3D477&w=1920&q=100)
+![Image 55: Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6262bce42e6b2d98d250092cd02c8fc1dee04080-5012x3342.jpg%3Frect%3D0%2C431%2C5012%2C2480%26w%3D964%26h%3D477&w=1920&q=100)
 
-The Pennsylvania Quakers (0-0) face the Illinois Fighting Illini (1-0) at State Farm Center on November 5, 2026.
+The Florida Gators (1-0) play the Jacksonville Dolphins (1-0) on November 5, 2026. The matchup airs on SEC Network+.
 
 Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 
-## Illinois vs. Pennsylvania Game Info and Odds
+## Florida vs. Jacksonville Game Info and Odds
 
 *   **Game day:** Thursday, November 5, 2026
-*   **Game time:** 8:30 p.m. ET
-*   **TV channel:** Fox Sports 1
-*   **Location:** Champaign, Illinois
-*   **Arena:** State Farm Center
+*   **Game time:** 8 p.m. ET
+*   **TV channel:** SEC Network+
+*   **Location:** Gainesville, Florida
+*   **Arena:** Exactech Arena at the Stephen C. O'Connell Center
 
-Take a look at the betting insights and trends below before making a bet on Thursday's Illinois-Pennsylvania spread (Illinois -30.5) or total (168.5 points).
+Here's a look at some betting trends for Florida (-35.5) versus Jacksonville on Thursday. The total is set at 155.5 points for this game.
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
-## Illinois vs. Pennsylvania: ATS Betting Stats and Trends
+## Florida vs. Jacksonville: ATS Betting Stats and Trends
 
-*   Illinois put together a 22-15-0 ATS record last year.
-*   Pennsylvania went 19-10-0 ATS last year.
-*   The Fighting Illini sported a worse record against the spread when playing at home (10-7-0) than they did in away games (6-4-0) last season.
-*   In 2025-26 against the spread, the Quakers had a lower winning percentage at home (.615, 8-5-0 record) than away (.750, 9-3-0).
+*   Florida compiled a 20-15-0 ATS record last year.
+*   Jacksonville put together a 13-17-0 record against the spread last season.
+*   The Gators did a better job covering the spread in away games (9-1-0) than they did at home (7-8-0) last season.
+*   Last year, the Dolphins were 4-6-0 at home against the spread (.400 winning percentage). On the road, they were 8-9-0 ATS (.471).
 
-## Illinois vs. Pennsylvania Head-to-Head Comparison
+## Florida vs. Jacksonville Head-to-Head Comparison
 
-*   Last year, Illinois was 28th in the country on offense (83.2 points scored per game) and 51st on defense (68.8 points allowed).
-*   Illinois was the sixth-best squad in college basketball in rebounds per game (37.8) and 17th-best in rebounds conceded (27.6) last season.
-*   At 14.2 assists per game last year, Illinois was 143rd in the nation.
-*   Last year, Illinois was seventh-best in college basketball in turnovers committed (8.5 per game) but -6-worst in turnovers forced (7.2).
-*   Pennsylvania posted 75.9 points per game (173rd-ranked in college basketball) last season, while allowing 74.4 points per contest (194th-ranked).
-*   Last year Pennsylvania averaged 32.3 boards per game (152nd-ranked in college basketball) and gave up 33.1 rebounds per contest (302nd-ranked).
-*   Last season Pennsylvania ranked 165th in college basketball in assists, averaging 13.9 per game.
-*   Last season Pennsylvania averaged 10.3 turnovers per game (115th-ranked in college basketball) and forced 11.4 turnovers per contest (141st-ranked).
+*   Offensively, Florida was the 11th-best squad in the nation (87.1 points per game) last year. On defense, it was 110th (71.5 points allowed per game).
+*   On the boards, Florida was best in the country in rebounds (41.7 per game) last year. It was ninth-best in rebounds allowed (26.7 per game).
+*   Florida was 25th-best in college basketball in assists (17 per game) last season.
+*   Florida was 208th in the nation in turnovers per game (11.1) and 229th in turnovers forced (10.5) last season.
+*   Last season Jacksonville averaged 73.1 points per game (251st-ranked in college basketball) and ceded 73.4 points per contest (163rd-ranked).
+*   With 28.1 rebounds allowed per game, Jacksonville ranked 25th-best in college basketball. It ranked 218th in college basketball by pulling down 31.3 rebounds per contest.
+*   Last season Jacksonville ranked 313th in college basketball in assists, dishing out 12 per game.
+*   Jacksonville ranked 174th in the country with 10.8 turnovers per game last year. Meanwhile, it ranked 278th with 10 forced turnovers per game.
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
@@ -523,41 +596,41 @@ I confirm I am 21+ years of age
 
 ### Recent Stories
 
-[BYU vs. Utah Prediction: College Football Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/byu-utah-prediction-college-football-picks-props-and-best-bets-nov-7)
+[4 Best Anytime Touchdown NFL Player Prop Bets For TNF Jaguars vs Ravens Tonight](https://fanduel.com/research/4-best-anytime-touchdown-nfl-player-prop-bets-for-tnf-jaguars-vs-ravens-tonight)
 
-17m
+19m
 
-![Image 58: BYU vs. Utah Prediction: College Football Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2ea6900f8dc8982800558b98c5b64af2b6a9fe95-4940x3293.jpg%3Frect%3D0%2C444%2C4940%2C2678%26w%3D332%26h%3D180&w=330&q=100)
+![Image 58: 4 Best Anytime Touchdown NFL Player Prop Bets For TNF Jaguars vs Ravens Tonight](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F3262f453626eb1fa27e1d481be7ca2a4089bc7c6-5407x3041.jpg%3Frect%3D0%2C55%2C5407%2C2932%26w%3D332%26h%3D180&w=330&q=100)
 
-[College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
-
-41m
-
-![Image 59: College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9a6dc3260eb90205de0f49df2e007636dee80a3a-3000x2000.jpg%3Frect%3D30%2C0%2C2940%2C1594%26w%3D332%26h%3D180&w=330&q=100)
-
-[FanDuel NBA Promo: 30% Profit Boost on 3-Leg SGP for Today (Nov. 5)](https://fanduel.com/research/fanduel-nba-promo-30-profit-boost-on-3-leg-sgp-for-today-nov-5)
+[Best NBA Props Today: NBA Player Prop Bets for Thursday, Nov. 5](https://fanduel.com/research/nba-props-today-thursday-nov-5)
 
 1h
 
-![Image 60: FanDuel NBA Promo: 30% Profit Boost on 3-Leg SGP for Today (Nov. 5)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F44eaffb83f5723ba1263bba6e9676721e65576e4-600x300.png%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
+![Image 59: Best NBA Props Today: NBA Player Prop Bets for Thursday, Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb5a9a2c860d4d18a6fa8d30a358f80b3dba98fe2-6946x4631.jpg%3Frect%3D1323%2C0%2C4351%2C2359%26w%3D332%26h%3D180&w=330&q=100)
 
-[NHL Picks Today: NHL Predictions, Props and Best Bets for Thursday, Nov. 5](https://fanduel.com/research/nhl-picks-today-predictions-props-best-bets-thursday-nov-5)
-
-1h
-
-![Image 61: NHL Picks Today: NHL Predictions, Props and Best Bets for Thursday, Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F02f2bf0fdb602b68b93cc55d5fa90c0e9069f46b-6500x4283.jpg%3Frect%3D628%2C0%2C5650%2C3063%26w%3D332%26h%3D180&w=330&q=100)
-
-[3 Fantasy Football Sleepers for NFL Week 9](https://fanduel.com/research/3-fantasy-football-sleepers-for-nfl-week-9)
+[Magic vs Suns Prediction Plus 4 Best NBA Player Props Bets for Tonight](https://fanduel.com/research/magic-vs-suns-prediction-plus-4-best-nba-player-props-bets-for-tonight)
 
 2h
 
-![Image 62: 3 Fantasy Football Sleepers for NFL Week 9](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa3c10903775139b25bbe39b94daa4f0a17e654b0-6672x4448.jpg%3Frect%3D0%2C28%2C6672%2C3617%26w%3D332%26h%3D180&w=330&q=100)
+![Image 60: Magic vs Suns Prediction Plus 4 Best NBA Player Props Bets for Tonight](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F74d40a17a7b4a90f1ff9ea376ce1da2eaf4d22f1-6698x4465.jpg%3Frect%3D212%2C0%2C6275%2C3402%26w%3D332%26h%3D180&w=330&q=100)
 
-[NBA Picks Today: NBA Predictions and Best Bets for Thursday, Nov. 5](https://fanduel.com/research/nba-picks-today-predictions-best-bets-thursday-nov-5)
+[4 Best NBA Player Prop Bets for Tonight's NBA Game Heat vs Warriors Plus Predictions](https://fanduel.com/research/4-best-nba-player-prop-bets-for-tonight-s-nba-game-heat-vs-warriors-plus-predictions)
 
 2h
 
-![Image 63: NBA Picks Today: NBA Predictions and Best Bets for Thursday, Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd4c59f54463d5b666e69f96bc293fb7282f0645f-7006x4670.jpg%3Frect%3D1545%2C0%2C5026%2C2725%26w%3D332%26h%3D180&w=330&q=100)
+![Image 61: 4 Best NBA Player Prop Bets for Tonight's NBA Game Heat vs Warriors Plus Predictions](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1dcf568b8f976daa99cb5325e8e462c7f1c3775e-3929x2620.jpg%3Frect%3D185%2C0%2C3560%2C1930%26w%3D332%26h%3D180&w=330&q=100)
+
+[James Madison vs Southern Miss Prediction, Picks, Odds and Best Bets for CFB Tonight](https://fanduel.com/research/james-madison-vs-southern-miss-prediction-picks-odds-and-best-bets-for-cfb-tonight)
+
+4h
+
+![Image 62: James Madison vs Southern Miss Prediction, Picks, Odds and Best Bets for CFB Tonight](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0f4d15a115758fba55f0ef0681c1625a5d30cc34-3840x2160.jpg%3Frect%3D0%2C39%2C3840%2C2082%26w%3D332%26h%3D180&w=330&q=100)
+
+[UTSA vs Florida Atlantic Prediction, College Football Picks, Odds and Best Bets Tonight](https://fanduel.com/research/utsa-vs-florida-atlantic-prediction-college-football-picks-odds-and-best-bets-tonight)
+
+5h
+
+![Image 63: UTSA vs Florida Atlantic Prediction, College Football Picks, Odds and Best Bets Tonight](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8f318378a4f996e6b70a800cb3788cd7581bf9e7-4514x2539.jpg%3Frect%3D0%2C47%2C4514%2C2447%26w%3D332%26h%3D180&w=330&q=100)
 
 Show more news
 
@@ -565,21 +638,21 @@ Show more news
 
 [View All](https://sportsbook.fanduel.com/promotions)
 
-![Image 64: College Football Pick’em](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F1%2F2026-09-01_15-14-26_600x300.jpg&w=1920&q=100)
+![Image 64: Discord NFL Community Play of the Day](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F4%2F2026-11-04_20-20-10_600x300.png&w=1920&q=100)
 
-[More Info](https://pa.sportsbook.fanduel.com/promotions?promoCode=CFBPICKFTPST1104)[Play Free](https://account.sportsbook.fanduel.com/free/contest/collegefootballpickem)
+[More Info](https://az.sportsbook.fanduel.com/promotions?promoCode=DISCNFLSTAT1104)[Bet the Discord CPOTD NOW](https://sportsbook.fanduel.com/addToBetslip?marketId[0]=42.621857700&selectionId[0]=60303667&marketId[1]=42.621869045&selectionId[1]=71652754&marketId[2]=42.621869050&selectionId[2]=74190599&marketId[3]=42.621869044&selectionId[3]=73482258)
 
-![Image 65: NBA Bet Protect+ Enhancements](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_21-43-55_600x300.jpg&w=1920&q=100)
+![Image 65: Bet $5, Get $50 for 4 days](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
 
-[More Info](https://nj.sportsbook.fanduel.com/promotions?promoCode=NBABPSTATIC1103)[Learn More](https://www.fanduel.com/betprotect)
+[More Info](https://ny.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
 
-![Image 66: Amazon Prime Video: Thursday Night Football](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F16%2F2026-09-16_17-31-11_600x300.jpg&w=1920&q=100)
+![Image 66: NBA Parlay/SGP Profit Boost](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F26%2F2026-10-26_16-02-10_600x300.jpg&w=1920&q=100)
 
-[More Info](https://ma.sportsbook.fanduel.com/promotions?promoCode=APVTNFSTATIC0917)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
+[More Info](https://ny.sportsbook.fanduel.com/promotions?promoCode=LONBAPAR1105)[Log in](https://sportsbook.fanduel.com/login)
 
-![Image 67: Refer-A-Friend Get Bonus Bets](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F29%2F2026-09-29_18-54-00_600x300.jpg&w=1920&q=100)
+![Image 67: Amazon Prime Video: Thursday Night Football](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F16%2F2026-09-16_17-31-11_600x300.jpg&w=1920&q=100)
 
-[More Info](https://ia.sportsbook.fanduel.com/promotions?promoCode=RAF092126STAT)[Invite friends](https://sportsbook.fanduel.com/refer)
+[More Info](https://nj.sportsbook.fanduel.com/promotions?promoCode=APVTNFSTATIC0917)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
 
 *   ### ABOUT
 
@@ -741,78 +814,5 @@ Persons under 21 are not permitted to engage in sports wagering. For customer su
 
 ![Image 84: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
 
-[Back to top](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026#)
-
-
-
----
-## SOURCE: https://fanduel.com/research/florida-vs-jacksonville-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026
-
-![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
-[Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
-
-START YOUR OWN WINNING STREAK
-![Player Image](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9ea2cf5a2cf74c2d84114cfa340079163402773b-4006x2048.png%3Fw%3D200&w=330&q=100)
-![SportsBookLogo](https://fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
-[ See Promos ChevronRight ](https://sportsbook.fanduel.com/promotions)
-[NCAAB](https://fanduel.com/research/ncaab)
-# Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5
-![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
-[Data Skrive](https://fanduel.com/research/author/data-skrive)
-8h
-Link
-![Florida vs Jacksonville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6262bce42e6b2d98d250092cd02c8fc1dee04080-5012x3342.jpg%3Frect%3D0%2C431%2C5012%2C2480%26w%3D964%26h%3D477&w=1920&q=100)
-The Florida Gators (1-0) face the Jacksonville Dolphins (1-0) on November 5, 2026.
-Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
-## Florida vs. Jacksonville Game Info and Odds
-  * **Game day:** Thursday, November 5, 2026
-  * **Game time:** 8 p.m. ET
-  * **TV channel:** SEC Network+
-  * **Location:** Gainesville, Florida
-  * **Arena:** Exactech Arena at the Stephen C. O'Connell Center
-
-
-Before you wager on Thursday's Florida-Jacksonville spread (Florida -33.5) or over/under (152.5 points), read the betting insights and trends below.
-_Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
-## Florida vs. Jacksonville: ATS Betting Stats and Trends
-  * Florida covered 20 times in 35 chances against the spread last season.
-  * Jacksonville won 13 games against the spread last season, while failing to cover 17 times.
-  * Against the spread last season, the Gators fared worse at home, covering seven times in 15 home games, and nine times in 10 road games.
-  * The Dolphins' winning percentage against the spread at home was .400 (4-6-0) last season. On the road, it was .471 (8-9-0).
-
-
-## Florida vs. Jacksonville Head-to-Head Comparison
-  * Last year, Florida was 11th-best in the nation offensively (87.1 points scored per game) and ranked 110th on defense (71.5 points conceded).
-  * On the glass, Florida was best in college basketball in rebounds (41.7 per game) last year. It was ninth-best in rebounds allowed (26.7 per game).
-  * At 17 assists per game, Florida was 25th-best in college basketball last season.
-  * At 11.1 turnovers committed per game and 10.5 turnovers forced last season, Florida was 208th and 229th in the nation, respectively.
-  * With 73.1 points per game on offense, Jacksonville was 251st in college basketball last season. At the other end, it gave up 73.4 points per contest, which ranked 163rd in college basketball.
-  * Jacksonville ranked 25th-best in college basketball by allowing just 28.1 rebounds per game. It ranked 218th in college basketball by averaging 31.3 rebounds per contest.
-  * Last season Jacksonville ranked 313th in college basketball in assists, dishing out 12 per game.
-  * Jacksonville was 174th in the nation with 10.8 turnovers per game last year. Meanwhile, it ranked 278th with 10 forced turnovers per contest.
-
-
-_Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
-Link
-## More Articles You May Like
-[NCAAB](https://fanduel.com/research/ncaab)
-## [College Basketball Picks Today: 3 Predictions and Player Props for Thursday, Nov. 5](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
-41m
-College basketball picks and best bets for Thursday. What are today's top CBB predictions?
-[](https://fanduel.com/research/college-basketball-picks-today-predictions-player-props-thursday-nov-5)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Arizona vs Cal Poly College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-3h
-Find Arizona vs. Cal Poly predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
-[](https://fanduel.com/research/arizona-vs-cal-poly-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Texas vs Gardner-Webb College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-8h
-Find Texas vs. Gardner-Webb predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
-[](https://fanduel.com/research/texas-vs-gardner-webb-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Illinois vs Pennsylvania College Basketball Prediction, Odds, Picks, Best Bets for Nov. 5](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
-8h
-Find Illinois vs. Pennsylvania predictions, betting odds, moneyline, spread, over/under and more for the Nov. 5 college basketball matchup.
-[](https://fanduel.com/research/illinois-vs-pennsylvania-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026)
+[Back to top](https://fanduel.com/research/florida-vs-jacksonville-college-basketball-predictions-odds-picks-best-bets-for-11-5-2026#)
 

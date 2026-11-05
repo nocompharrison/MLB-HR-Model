@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-05 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-05 17:03 ET -->
 
 
 ---
@@ -129,31 +129,31 @@ Penn vs. Illinois
 Right Arrow
 Cal Poly vs. Arizona
 ### Top Stories
-[![McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[![McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-6 hours ago
-[![Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-5 hours ago
-[![Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 Ryan Minion
-3 hours ago
+2 hours ago
 [![Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Penn-vs-Ilinois-11_5_26.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-45 mins ago
+6 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -161,7 +161,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a06d9909-1dd6-40bb-8ba3-d0b250a0447b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=15edd3e9-1246-4bbe-a557-fd86ed790526&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a06d9909-1dd6-40bb-8ba3-d0b250a0447b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=15edd3e9-1246-4bbe-a557-fd86ed790526&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8305b006-3117-4ff0-bcab-bbe8629c5b8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=15edd3e9-1246-4bbe-a557-fd86ed790526&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=7689&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8305b006-3117-4ff0-bcab-bbe8629c5b8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=15edd3e9-1246-4bbe-a557-fd86ed790526&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=7689&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1f62329f-4ee7-444b-b910-6281a1cdb8d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c06ba0b3-b6eb-4571-86cc-efea9fc9a3a2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1f62329f-4ee7-444b-b910-6281a1cdb8d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c06ba0b3-b6eb-4571-86cc-efea9fc9a3a2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8bd71b45-d1c4-40da-b8ed-28a442388e11&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c06ba0b3-b6eb-4571-86cc-efea9fc9a3a2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=7476&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8bd71b45-d1c4-40da-b8ed-28a442388e11&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c06ba0b3-b6eb-4571-86cc-efea9fc9a3a2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thursday-november-5&tw_engaged_ms=7476&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -170,45 +170,45 @@ Oct 29, 2026 EST
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5
+# McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 05, 2026, 05:05 AM EST
+Nov 05, 2026, 02:38 PM EST
 Updated:
-Nov 05, 2026, 05:05 AM EST
+Nov 05, 2026, 02:38 PM EST
 Credit:
 IMAGN IMAGES via Reuters Connect. Pictured: McNeese Cowboys guard Larry Johnson
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The McNeese State Cowboys take on the North Texas Mean Green in Denton, Texas. Tip-off is set for 5 p.m. ET on ESPN+.
-McNeese is favored by -1.5-points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -126. The total is set at 143.5 points.
+McNeese is favored by -2.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -142. The total is set at 138.5 points.
 Here’s my **McNeese vs. North Texas prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 5, 2026.
 * * *
 ## McNeese vs North Texas Prediction
-**Pick:[McNeese Moneyline](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3169820188&context=action-articles) (-126)**
+**Pick:[McNeese ML -126](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3169820188&context=action-articles)**
 My**McNeese vs North Texas best bet** is on the Cowboys moneyline. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## McNeese vs North Texas Odds
-[![McNeese Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mcn.png)](https://www.actionnetwork.com/ncaab/odds/mcneese-state-cowboys)
-Thursday, November 5
+## McNeese vs North Texas Odds, Spread
+[![McNeese St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mcn.png)](https://www.actionnetwork.com/ncaab/odds/mcneese-state-cowboys)
+Thursday, Nov 5
 5 p.m. ET
 ESPN+
 [![North Texas Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ntx.png)](https://www.actionnetwork.com/ncaab/odds/north-texas-mean-green)  
-| McNeese Odds |  
+| McNeese St Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -1.5 -110  |  143.5 -115o / -105u  | -126  |  
+|  -2.5 -105  |  138.5 -108o / -112u  | -142  |  
 | North Texas Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +1.5 -110  |  143.5 -115o / -105u  | +105  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **McNeese vs North Texas spread:** McNeese -1.5 (-110), North Texas +1.5 (-110)
-  * **McNeese vs North Texas over/under:** 143.5 (-115o / -105u)
-  * **McNeese vs North Texas moneyline:** McNeese -126, North Texas +105
+|  +2.5 -115  |  138.5 -108o / -112u  | +120  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **McNeese vs North Texas spread:** McNeese -2.5 (-105), North Texas +2.5 (-115)
+  * **McNeese vs North Texas over/under:** 138.5 (-108o / -112u)
+  * **McNeese vs North Texas moneyline:** McNeese -142, North Texas +120
 
 
 * * *
@@ -250,7 +250,7 @@ Nov 7th
 /
 12:00 PM on FOX
 •
-9.0k bets
+10.2k bets
 MINN +6.5
 -110 (1.1u)
 Copy Bet
@@ -278,7 +278,7 @@ Tipoff Time:
 TV/Streaming:
 ESPN+
 McNeese St vs North Texas is scheduled for 5:00 PM EST live from UNT Coliseum on Thursday. The game will be broadcast on ESPN+.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=McNeese%20vs%20North%20Texas%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%205&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=McNeese%20vs%20North%20Texas%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
@@ -287,7 +287,7 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 McNeese vs North Texas Prediction
 Right Arrow
-McNeese vs North Texas Odds
+McNeese vs North Texas Odds, Spread
 Right Arrow
 McNeese vs North Texas College Basketball Preview
 Right Arrow
@@ -303,27 +303,27 @@ How To Watch McNeese St vs North Texas
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thursday, November 5](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thursday-november-5)
 Action Network Staff
-3 hours ago
-[![Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+8 hours ago
+[![Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-5 hours ago
-[![Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 Ryan Minion
-3 hours ago
+2 hours ago
 [![Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Penn-vs-Ilinois-11_5_26.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-46 mins ago
+6 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -331,7 +331,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=87f45c8f-c055-49e7-a1db-77619f1fe48b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f0d7dd4-f810-417f-90f3-b284e3cf6f68&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=87f45c8f-c055-49e7-a1db-77619f1fe48b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f0d7dd4-f810-417f-90f3-b284e3cf6f68&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4b556cf2-81bb-4f95-80a8-d5c1b884a50c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f0d7dd4-f810-417f-90f3-b284e3cf6f68&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7691&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4b556cf2-81bb-4f95-80a8-d5c1b884a50c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f0d7dd4-f810-417f-90f3-b284e3cf6f68&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7691&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=66218419-cc0c-4a83-adca-e624aa516aba&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9fb6b8b0-3150-4d39-b73f-84cdc5d7fda2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=66218419-cc0c-4a83-adca-e624aa516aba&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9fb6b8b0-3150-4d39-b73f-84cdc5d7fda2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bda351a4-31fd-4640-8158-9b9bf74449c4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9fb6b8b0-3150-4d39-b73f-84cdc5d7fda2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bda351a4-31fd-4640-8158-9b9bf74449c4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9fb6b8b0-3150-4d39-b73f-84cdc5d7fda2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -340,28 +340,28 @@ Oct 29, 2026 EST
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5
+# Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 [Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
 Staff Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 05, 2026, 06:06 AM EST
+Nov 05, 2026, 02:40 PM EST
 Updated:
-Nov 05, 2026, 06:06 AM EST
+Nov 05, 2026, 02:40 PM EST
 Credit:
 Photo Credit: Steve Roberts-Imagn Images  
 Pictured: Tyler Tanner brings the ball up court
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The Wake Forest Demon Deacons take on the Vanderbilt Commodores in Nashville, TN. Tip-off is set for 6 p.m. ET on ESPN2.
-Vanderbilt is favored by -17.5 points on the spread with a moneyline of -3500. The total is set at 154.5 points.
+Vanderbilt is favored by -18.5 points on the spread with a moneyline of -2400. The total is set at 155.5 points.
 Here’s my **Wake Forest vs. Vanderbilt prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 5, 2026.
 * * *
 ## Wake Forest vs Vanderbilt Prediction
 **Pick:[Wake Forest +17.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3169042826&context=action-articles) (Play to +15.5)**
 My**Wake Forest vs Vanderbilt best bet** is on the Demon Deacons to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Wake Forest vs. Vanderbilt Odds
+## Wake Forest vs. Vanderbilt Odds, Spread
 [![Wake Forest Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)](https://www.actionnetwork.com/ncaab/odds/wake-forest-demon-deacons)
 Thursday, Nov 5
 6 p.m. ET
@@ -370,20 +370,20 @@ ESPN2
 | Wake Forest Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +17.5 -114  |  154.5 -110o / -110u  | +1280  |  
+|  +18.5 -115  |  155.5 -108o / -112u  | +1200  |  
 | Vanderbilt Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -17.5 -106  |  154.5 -110o / -110u  | -3500  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Wake Forest vs Vanderbilt spread:** Vanderbilt -17.5 (-106), Wake Forest +17.5 (-114)
-  * **Wake Forest vs Vanderbilt over/under:** 154.5 (-110o / -110u)
-  * **Wake Forest vs Vanderbilt moneyline:** Wake Forest +1280, Vanderbilt -3500
+|  -18.5 -105  |  155.5 -108o / -112u  | -2400  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Wake Forest vs Vanderbilt spread:** Vanderbilt -18.5 (-105), Wake Forest +18.5 (-115)
+  * **Wake Forest vs Vanderbilt over/under:** 155.5 (-108o / -112u)
+  * **Wake Forest vs Vanderbilt moneyline:** Wake Forest +1200, Vanderbilt -2400
 
 
 * * *
-## Wake Forest vs Vanderbilt College Basketball Preview
+## Wake Forest vs Vanderbilt NCAAB Preview
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)
 ### Wake Forest Basketball
 Put simply, [Wake Forest](https://www.actionnetwork.com/ncaab/odds/wake-forest-demon-deacons) could use a big season. Steve Forbes is in his seventh campaign, and the Demon Deacons haven't made the Big Dance during his tenure.
@@ -398,6 +398,17 @@ Can Wake Forest finish in the bottom five in the ACC as KenPom projects? Sure, b
 [Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
 Last 30d: 7-8-0 (-1.3u)
 Follow
+![WAKE](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)
+![VAN](https://static.sprtactn.co/teamlogos/ncaab/100/van.png)
+Wake Forest @ Vanderbilt Picks
+Today
+/
+6:00 PM on ESPN2
+•
+4.8k bets
+WAKE +18.5
+-115 (1u)
+Copy Bet
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/van.png)
 ### Vanderbilt Basketball
 [Vanderbilt](https://www.actionnetwork.com/ncaab/odds/vanderbilt-commodores) began the season with a 93-47 beatdown against [Bellarmine](https://www.actionnetwork.com/ncaab/odds/bellarmine-knights). National Player of the Year candidate [Tyler Tanner](https://www.actionnetwork.com/ncaab/players/tyler-tanner-283612-g) led Vandy with 20 points and six assists, while [Nebraska](https://www.actionnetwork.com/ncaab/odds/nebraska-cornhuskers) transfer [Berke Buyuktuncel](https://www.actionnetwork.com/ncaab/players/berke-buyuktuncel-256025-f) and [Washington State](https://www.actionnetwork.com/ncaab/odds/washington-state-cougars) transfer [Aaron Glass](https://www.actionnetwork.com/ncaab/players/aaron-glass-321942-g) scored 20 points.
@@ -432,7 +443,7 @@ Tail picks the sharps are betting
 Player prop projections & edges
 Money percentages, profitable systems & more
 [TRY PRO NOW](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604579886)
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=Wake%20Forest%20vs%20Vanderbilt%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%205&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=Wake%20Forest%20vs%20Vanderbilt%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 About the Author
 Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
@@ -442,9 +453,9 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 Wake Forest vs Vanderbilt Prediction
 Right Arrow
-Wake Forest vs. Vanderbilt Odds
+Wake Forest vs. Vanderbilt Odds, Spread
 Right Arrow
-Wake Forest vs Vanderbilt College Basketball Preview
+Wake Forest vs Vanderbilt NCAAB Preview
 Right Arrow
 Wake Forest Basketball
 Right Arrow
@@ -458,27 +469,27 @@ How To Watch Wake Forest vs Vanderbilt
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thursday, November 5](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thursday-november-5)
 Action Network Staff
-3 hours ago
-[![McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+8 hours ago
+[![McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-6 hours ago
-[![Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 Ryan Minion
-3 hours ago
+2 hours ago
 [![Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Penn-vs-Ilinois-11_5_26.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-46 mins ago
+6 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -486,7 +497,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8e025068-07f9-4a98-8162-0879263c3a9c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b50c0b6f-2e4a-4ee4-86a5-39b87bc85758&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8e025068-07f9-4a98-8162-0879263c3a9c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b50c0b6f-2e4a-4ee4-86a5-39b87bc85758&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=84196953-7b5a-4514-a270-ef9d48454b00&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b50c0b6f-2e4a-4ee4-86a5-39b87bc85758&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7702&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=84196953-7b5a-4514-a270-ef9d48454b00&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b50c0b6f-2e4a-4ee4-86a5-39b87bc85758&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7702&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e7eb4131-16e0-4d38-ae3b-59152a6dcecc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5bf1c60d-a1dd-4c2f-93c6-3dac439b2e09&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e7eb4131-16e0-4d38-ae3b-59152a6dcecc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5bf1c60d-a1dd-4c2f-93c6-3dac439b2e09&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62676c7c-1f25-48d9-ac1f-2aac922fcf7f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5bf1c60d-a1dd-4c2f-93c6-3dac439b2e09&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7506&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62676c7c-1f25-48d9-ac1f-2aac922fcf7f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5bf1c60d-a1dd-4c2f-93c6-3dac439b2e09&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7506&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -495,48 +506,48 @@ Oct 29, 2026 EST
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5
+# Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday
 ![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
 [Ryan Minion](https://www.actionnetwork.com/article/author/rminion)
 Contributing Writer 
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 05, 2026, 08:06 AM EST
+Nov 05, 2026, 02:42 PM EST
 Updated:
-Nov 05, 2026, 08:06 AM EST
+Nov 05, 2026, 02:42 PM EST
 Credit:
 Rob Kinnan-Imagn Images. Pictured: Joaquim Boumtje Boumtje.
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The Coastal Carolina Chanticleers take on the Duke Blue Devils in Durham, NC. Tip-off is set for 8 p.m. ET on ACC Network.
-Duke is favored by -40.5 points on the spread, and the total is set at 148.5 points.
+Duke is favored by -41.5 points on the spread, and the total is set at 150.5 points.
 Here’s my **Coastal Carolina vs. Duke prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 5, 2026.
 * * *
 ## Coastal Carolina vs Duke Prediction
 **Pick:[Duke -40.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3169042831&context=playbook-slack-quickslip&sport=basketball) | Duke 1H ATS**
 My**Coastal Carolina vs Duke best bet** is on the Blue Devils to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Coastal Carolina vs Duke Odds
-[![Coastal Carolina Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cc.png)](https://www.actionnetwork.com/ncaab/odds/coastal-carolina-chanticleers)
+## Coastal Carolina vs Duke Odds, Spread
+[![Coastal Car Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cc.png)](https://www.actionnetwork.com/ncaab/odds/coastal-carolina-chanticleers)
 Thursday, Nov 5
 8 p.m. ET
 ACC Network
 [![Duke Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils)  
-| Coastal Carolina Odds |  
+| Coastal Car Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +40.5 -110  |  148.5 -110o / -110u  | OFF  |  
+|  +41.5 -115  |  150.5 -105o / -115u  | OFF  |  
 | Duke Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -40.5 -110  |  148.5 -110o / -110u  | OFF  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Coastal Carolina vs Duke spread:** Coastal Carolina +40.5 (-110), Duke -40.5 (-110)
-  * **Coastal Carolina vs Duke over/under:** 148.5 (-110o / -110u)
+|  -41.5 -105  |  150.5 -105o / -115u  | OFF  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Coastal Carolina vs Duke spread:** Coastal Carolina +41.5 (-115), Duke -41.5 (-105)
+  * **Coastal Carolina vs Duke over/under:** 150.5 (-105o / -115u)
 
 
 * * *
-## Coastal Carolina vs Duke College Basketball Preview
+## Coastal Carolina vs Duke NCAAB Preview
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cc.png)
 ### Coastal Carolina Basketball
 Following an impressive 2025-26 campaign that saw Coastal Carolina win 19 games, head coach Justin Gray was forced to significantly overhaul the team’s roster.
@@ -549,6 +560,22 @@ Despite building an early seven-point lead and heading into the locker room with
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
 Last 30d: 236-255-8 (-9.5u)
 Follow
+![ORL](https://assets.actionnetwork.com/738861_magic3.png)
+![PHX](https://assets.actionnetwork.com/875040_Suns.png)
+Magic @ Suns Picks
+Today
+/
+9:00 PM on WRDQ
+•
+13.9k bets
+M.Bridges o25.5 Pts+Rebs+Ast
+-125 (1.25u)
+Copy Bet
+https://discord.gg/UDnAAPvG9
+A.Black o23.5 Pts+Rebs+Ast
+-124 (1.24u)
+Copy Bet
+https://discord.gg/UDnAAPvG9
 ![UK](https://static.sprtactn.co/teamlogos/ncaaf/100/kend.png)
 ![TENN](https://assets.actionnetwork.com/660608_tennessee.png)
 Kentucky @ Tennessee Picks
@@ -556,27 +583,11 @@ Nov 7th
 /
 6:15 PM on ESPN
 •
-12.6k bets
+13.9k bets
 TENN -210
 -210 (2.1u)
 Copy Bet
 #ACTION ✍️✍️ https://discord.gg/UDnAAPvG9
-![DEN](https://static.sprtactn.co/teamlogos/nfl/100/den.png)
-![CAR](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
-Broncos @ Panthers Picks
-Nov 8th
-/
-1:00 PM on CBS
-•
-11.3k bets
-CAR +140
-+140 (1.5u)
-Copy Bet
-https://discord.gg/AHkB9phNe
-CAR +3
--110 (1.1u)
-Copy Bet
-https://discord.gg/UDnAAPvG9
 See All
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
 ### Duke Basketball
@@ -608,7 +619,7 @@ Tipoff Time:
 TV/Streaming:
 ACC Network
 Coastal Car vs Duke is scheduled for 8:00 PM EST live from Cameron Indoor Stadium on Thursday. The game will be broadcast on ACC Network.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=Coastal%20Carolina%20vs%20Duke%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%205&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)[](https://twitter.com/intent/tweet?text=Coastal%20Carolina%20vs%20Duke%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
 About the Author
 Ryan graduated from Providence College in 2016 with Bachelor Degrees in Business Economics &amp; Mathematics. It was at Providence where Ryan really first found his passion for sports betting. For a lifelong sports fan with a knack for statistical analysis, he was instantly drawn to the fundamentals of the industry, specifically how sports betting markets functioned and fluctuated. In what primarily started as a recreational hobby, Ryan began studying the ins-and-outs of sports betting markets on a daily basis. He took to Twitter (now X), where he amassed a following for writing a sports betting blog that provided statistical analysis behind his wagers. In spite of seeking employment opportunities elsewhere post graduation, Ryan continued to follow his passion for the statistical analysis of sports betting wagers, eventually deciding to pursue a career in the sports betting industry.
@@ -618,9 +629,9 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 Coastal Carolina vs Duke Prediction
 Right Arrow
-Coastal Carolina vs Duke Odds
+Coastal Carolina vs Duke Odds, Spread
 Right Arrow
-Coastal Carolina vs Duke College Basketball Preview
+Coastal Carolina vs Duke NCAAB Preview
 Right Arrow
 Coastal Carolina Basketball
 Right Arrow
@@ -634,27 +645,27 @@ How To Watch Coastal Car vs Duke
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thursday, November 5](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thursday-november-5)
 Action Network Staff
-3 hours ago
-[![McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+8 hours ago
+[![McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-6 hours ago
-[![Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-5 hours ago
+2 hours ago
 [![Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Penn-vs-Ilinois-11_5_26.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-46 mins ago
+6 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -662,7 +673,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=82a5c128-b0b4-4b54-990a-0735213e6f8e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=92163de9-a92a-4239-8f03-2421f2e20264&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=82a5c128-b0b4-4b54-990a-0735213e6f8e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=92163de9-a92a-4239-8f03-2421f2e20264&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4e701b34-0e95-4162-a8bb-513e1162e081&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=92163de9-a92a-4239-8f03-2421f2e20264&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7714&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4e701b34-0e95-4162-a8bb-513e1162e081&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=92163de9-a92a-4239-8f03-2421f2e20264&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7714&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b724d9c8-ed44-49ba-801d-91fd7cebd283&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dfab74fd-44d1-445e-8929-faa2536e1608&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b724d9c8-ed44-49ba-801d-91fd7cebd283&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dfab74fd-44d1-445e-8929-faa2536e1608&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=54e35935-a1b0-44ba-ac03-42e6ecc47215&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dfab74fd-44d1-445e-8929-faa2536e1608&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7490&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=54e35935-a1b0-44ba-ac03-42e6ecc47215&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=dfab74fd-44d1-445e-8929-faa2536e1608&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcoastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7490&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -743,7 +754,7 @@ Nov 7th
 /
 12:00 PM on FOX
 •
-9.0k bets
+10.2k bets
 MINN +6.5
 -110 (1.1u)
 Copy Bet
@@ -806,27 +817,27 @@ How To Watch Penn vs Illinois
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thursday, November 5](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thursday-november-5)
 Action Network Staff
-3 hours ago
-[![McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+8 hours ago
+[![McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-6 hours ago
-[![Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-5 hours ago
-[![Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 Ryan Minion
-3 hours ago
+2 hours ago
 [![Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Cal Poly vs Arizona Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/cal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-46 mins ago
+6 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -834,7 +845,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e453ae7f-39d3-494e-8e91-e921df3771ab&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1933e0af-d7e2-4e06-a3a7-e0e5534212d0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e453ae7f-39d3-494e-8e91-e921df3771ab&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1933e0af-d7e2-4e06-a3a7-e0e5534212d0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b402a3c1-cf81-4ed0-a624-2c0c87ab03d8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1933e0af-d7e2-4e06-a3a7-e0e5534212d0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b402a3c1-cf81-4ed0-a624-2c0c87ab03d8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1933e0af-d7e2-4e06-a3a7-e0e5534212d0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=733ef3b2-1bed-4271-81d7-e648f53fbb8b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=96c8dd95-bd26-4d62-96b0-ef6b660df992&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=733ef3b2-1bed-4271-81d7-e648f53fbb8b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=96c8dd95-bd26-4d62-96b0-ef6b660df992&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=828eedbd-a3a7-4f6a-825f-769cfa35e9ea&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=96c8dd95-bd26-4d62-96b0-ef6b660df992&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7598&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=828eedbd-a3a7-4f6a-825f-769cfa35e9ea&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=96c8dd95-bd26-4d62-96b0-ef6b660df992&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7598&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -900,6 +911,17 @@ However, doing business at a rampant pace comes at the cost of turnover. Cal Pol
 [Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
 Last 30d: 7-8-0 (-1.3u)
 Follow
+![WAKE](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)
+![VAN](https://static.sprtactn.co/teamlogos/ncaab/100/van.png)
+Wake Forest @ Vanderbilt Picks
+Today
+/
+6:00 PM on ESPN2
+•
+4.8k bets
+WAKE +18.5
+-115 (1u)
+Copy Bet
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)
 ### Arizona Basketball
 Arizona had a tough showing to open the year, losing outright as 5.5-point favorites against [UCLA](https://www.actionnetwork.com/ncaab/odds/ucla-bruins) on a neutral court. Expectations have grown so high under Tommy Lloyd that even the slightest slip-up causes panic. 
@@ -955,27 +977,27 @@ How To Watch Cal Poly vs Arizona
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thursday, November 5](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thursday-november-5)
 Action Network Staff
-3 hours ago
-[![McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+8 hours ago
+[![McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/mcneese-state-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5.jpg)](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[McNeese vs North Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
+[McNeese vs North Texas Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/mcneese-cowboys-vs-north-texas-mean-green-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-6 hours ago
-[![Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Vanderbilt-11.5.26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Wake Forest vs Vanderbilt Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
+[Wake Forest vs Vanderbilt Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-thursday-november-5)
 Sean Paul
-5 hours ago
-[![Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+2 hours ago
+[![Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/10/CoastalCarolina-Duke-NCAAB-11_4.jpg)](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
-[Coastal Carolina vs Duke Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
+[Coastal Carolina vs Duke Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/coastal-carolina-chanticleers-vs-duke-blue-devils-prediction-pick-odds-college-basketball-thursday-november-5)
 Ryan Minion
-3 hours ago
+2 hours ago
 [![Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://images.actionnetwork.com/blog/2026/11/Penn-vs-Ilinois-11_5_26.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 NCAAB
 [Penn vs Illinois Prediction, Pick, College Basketball Odds for Thursday, Nov. 5](https://www.actionnetwork.com/ncaab/penn-quakers-vs-illinois-fighting-illini-prediction-pick-odds-college-basketball-thursday-november-5)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -983,5 +1005,5 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4def288a-c93d-478a-9f44-54f64e2f7e38&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f7ac965-f7c9-4118-85b7-75794c071cff&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4def288a-c93d-478a-9f44-54f64e2f7e38&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f7ac965-f7c9-4118-85b7-75794c071cff&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4c9bf9f7-5919-4590-bd3d-a0977ca28728&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f7ac965-f7c9-4118-85b7-75794c071cff&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7760&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4c9bf9f7-5919-4590-bd3d-a0977ca28728&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f7ac965-f7c9-4118-85b7-75794c071cff&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7760&tw_iframe_status=0&tw_pid_src=2&tw_session_count=52&tw_session_id=1793894639101-133023179&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=77651311-e851-46a3-8a5b-1a017db0a5e8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3871192-399f-4e03-9471-9dc38a1e4f99&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=77651311-e851-46a3-8a5b-1a017db0a5e8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3871192-399f-4e03-9471-9dc38a1e4f99&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8087692f-63ef-4512-89bd-a6b1cfbfd588&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3871192-399f-4e03-9471-9dc38a1e4f99&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7554&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8087692f-63ef-4512-89bd-a6b1cfbfd588&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3871192-399f-4e03-9471-9dc38a1e4f99&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcal-poly-mustangs-vs-arizona-wildcats-prediction-pick-odds-college-basketball-thursday-november-5&tw_engaged_ms=7554&tw_iframe_status=0&tw_pid_src=2&tw_session_count=53&tw_session_id=1793916066361-144413276&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
