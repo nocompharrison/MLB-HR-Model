@@ -1,16 +1,24 @@
-# CBB transcripts | 2026-11-05 | updated 2026-11-05 15:05 ET
+# CBB transcripts | 2026-11-05 | updated 2026-11-05 15:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 17 files in CBB/transcripts/2026-11-05:
+# 26 files in CBB/transcripts/2026-11-05:
+CBB/transcripts/2026-11-05/-828CpOLuNw_SGPN_UMass_vs_Boston_College_Prediction_Picks_Best_Bets_College_Basketball.txt
 CBB/transcripts/2026-11-05/1QDQVBCbJI0_PickDawgz_College_Basketball_Picks_for_Today_11_5_26_Thursday_s_Best_College_Bas.txt
+CBB/transcripts/2026-11-05/A6xBurmOlbw_SGPN_Yale_vs_UCF_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt
+CBB/transcripts/2026-11-05/B3xmm31smKA_SGPN_Omaha_vs_BYU_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt
 CBB/transcripts/2026-11-05/HUxG7aw216k_SGPN_New_Mexico_State_vs_Gonzaga_Prediction_Picks_Best_Bets_College_Basketb.txt
 CBB/transcripts/2026-11-05/IxQe-8qD-DM_TCE_College_Basketball_Picks_For_November_5th_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-05/JIMGg1EyIfU_SGPN_Michigan_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_5_6.txt
 CBB/transcripts/2026-11-05/KnBeGDwmrGk_SGPN_College_Basketball_11_5_6_7_Locks_Dogs_Teasers_Best_Bets.txt
+CBB/transcripts/2026-11-05/LbrC1ex-ZxI_SGPN_Missouri_vs_Saint_Louis_Prediction_Picks_Best_Bets_College_Basketball.txt
 CBB/transcripts/2026-11-05/NH50msQ0mTE_WagerTalk_THREE_NCAAB_BEST_Bets_TODAY_McNeese_vs_North_Texas_South_Florida_vs_De.txt
 CBB/transcripts/2026-11-05/PH9p4TFZRYQ_SGPN_Colorado_vs_San_Diego_State_Prediction_Picks_Best_Bets_College_Basketb.txt
 CBB/transcripts/2026-11-05/T7ZQVpCcKZw_TCE_College_Basketball_PICKS_ONLY_Thursday_November_5th_TCE_Trims.txt
+CBB/transcripts/2026-11-05/Vkcl1CULIrI_SGPN_Oakland_vs_Stanford_Prediction_Picks_Best_Bets_College_Basketball_11_5.txt
 CBB/transcripts/2026-11-05/Z-du80qoWK0_WagerTalk_College_Basketball_Picks_TODAY_Coastal_Carolina_vs_Duke_Toledo_vs_Mich.txt
 CBB/transcripts/2026-11-05/axSmmOvi3-U_CBSCollegeBB_What_the_next_5_days_will_tell_us_about_CBB_according_to_Jon_Rothstein.txt
+CBB/transcripts/2026-11-05/dx5ooTMowJU_SGPN_Towson_vs_Utah_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt
 CBB/transcripts/2026-11-05/elwbNtHaI-M_CBSCollegeBB_Milan_Momcilovic_goes_wild_in_Kentucky_debut_Thursday_s_best_games_Wha.txt
+CBB/transcripts/2026-11-05/g8w7kNRqVQk_SGPN_VCU_vs_Memphis_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt
 CBB/transcripts/2026-11-05/g__b8-bGtL0_SGPN_Providence_vs_Nebraska_Prediction_Picks_Best_Bets_College_Basketball_1.txt
 CBB/transcripts/2026-11-05/kT6nNEjYlsY_LockedOnCBB_ILLINOIS_IMPACT_Jake_Davis_Out_Indefinitely_Illini_Must_OVERCOME_Early.txt
 CBB/transcripts/2026-11-05/mLFesDsEWSY_PickDawgz_JAX_STATE_VS_SOUTH_ALABAMA_11_5_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DAY_PI.txt
@@ -18,6 +26,8 @@ CBB/transcripts/2026-11-05/o3jtiQY5MS8_TCE_College_Basketball_Best_Bets_For_Nove
 CBB/transcripts/2026-11-05/pmNHviFboTs_SGPN_Washington_State_vs_High_Point_Prediction_Picks_Best_Bets_College_Bask.txt
 CBB/transcripts/2026-11-05/qMg-LzD_j1k_SGPN_Maryland_vs_Georgetown_Prediction_Picks_Best_Bets_College_Basketball_1.txt
 CBB/transcripts/2026-11-05/rPaHQNTnC6U_PickDawgz_College_Basketball_Picks_Predictions_Today_11_5_26_Ron_s_Bank_Shot_Bre.txt
+CBB/transcripts/2026-11-05/zDDKAJ2UUnA_SGPN_UNC_Wilmington_vs_East_Carolina_Prediction_Picks_Best_Bets_College_Bas.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-04
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
@@ -28,13 +38,20 @@ SKIPPED FieldOf68 22L2EvVSuiY MW INSIDER: Hawaii's Jaden Matingou on his Buzzer 
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-05/pmNHviFboTs_SGPN_Washington_State_vs_High_Point_Prediction_Picks_Best_Bets_College_Bask.txt  (592 words)
-NEW     CBB/transcripts/2026-11-05/KnBeGDwmrGk_SGPN_College_Basketball_11_5_6_7_Locks_Dogs_Teasers_Best_Bets.txt  (630 words)
-NEW     CBB/transcripts/2026-11-05/PH9p4TFZRYQ_SGPN_Colorado_vs_San_Diego_State_Prediction_Picks_Best_Bets_College_Basketb.txt  (1,301 words)
+NEW     CBB/transcripts/2026-11-05/g8w7kNRqVQk_SGPN_VCU_vs_Memphis_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt  (600 words)
+NEW     CBB/transcripts/2026-11-05/zDDKAJ2UUnA_SGPN_UNC_Wilmington_vs_East_Carolina_Prediction_Picks_Best_Bets_College_Bas.txt  (658 words)
+NEW     CBB/transcripts/2026-11-05/Vkcl1CULIrI_SGPN_Oakland_vs_Stanford_Prediction_Picks_Best_Bets_College_Basketball_11_5.txt  (581 words)
+NEW     CBB/transcripts/2026-11-05/B3xmm31smKA_SGPN_Omaha_vs_BYU_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt  (732 words)
+NEW     CBB/transcripts/2026-11-05/JIMGg1EyIfU_SGPN_Michigan_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_5_6.txt  (849 words)
+NEW     CBB/transcripts/2026-11-05/LbrC1ex-ZxI_SGPN_Missouri_vs_Saint_Louis_Prediction_Picks_Best_Bets_College_Basketball.txt  (1,191 words)
+NEW     CBB/transcripts/2026-11-05/A6xBurmOlbw_SGPN_Yale_vs_UCF_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt  (554 words)
+NEW     CBB/transcripts/2026-11-05/-828CpOLuNw_SGPN_UMass_vs_Boston_College_Prediction_Picks_Best_Bets_College_Basketball.txt  (684 words)
+NEW     CBB/transcripts/2026-11-05/dx5ooTMowJU_SGPN_Towson_vs_Utah_Prediction_Picks_Best_Bets_College_Basketball_11_5_6_7.txt  (813 words)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NOCAPS  WagerTalk tyyBd43mOEM College Basketball Picks Thursday: Duke, Michigan State & Be  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk k-Uv7EJrJd8 College Basketball Picks Thursday: Duke, Michigan State & Be  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-05/Z-du80qoWK0_WagerTalk_College_Basketball_Picks_TODAY_Coastal_Carolina_vs_Duke_Toledo_vs_Mich.txt  (1,711 words)
+NEW     CBB/transcripts/2026-11-04/yaBF85kDvoA_WagerTalk_College_Basketball_Picks_Today_Wednesday_CBB_Best_Bets_Odds_Full_Court.txt  (11,813 words)
+NEW     CBB/transcripts/2026-11-04/FwdNcYu8tQM_WagerTalk_College_Basketball_Picks_Today_Wednesday_CBB_Best_Bets_Odds_Full_Court.txt  (11,750 words)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
