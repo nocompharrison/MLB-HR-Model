@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-6-145566 | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-6-145566 | fetched: 2026-11-06 18:34 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 6
 Get the best NBA bets today, with three expert player prop picks on points and assists, plus odds from top sportsbooks for Friday’s Nov. 6 NBA slate.
@@ -28,17 +28,17 @@ Austin Reaves Over 21.5 Points-117
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.27](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151) over 6.5 assists at New Orleans Pelicans
 _DraftKings, 3:16 PM ET_
 **Alex Barutha** : Ball has averaged 5.9 assists in 26.7 minutes so far this season. Some of the hope here is he can stay out of foul trouble, as that's limited his workload. The underlying metrics are good, though. The Pelicans are allowing the sixth-most assists per game (27.6). They've also already given up high-assist games to other guards like Darius Acuff (14), Tyrese Haliburton (12) and Keyonte George on two occasions (10, 9).
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | MIN @ NOP
-LaMelo Ball Over 6.5 Assists-133
+LaMelo Ball Over 6.5 Assists-128
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $3.76](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $3.91](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Jamal Shead**](https://www.rotowire.com/basketball/player/jamal-shead-6296)**over 5.5 assists at Milwaukee Bucks (-119)**
 _DraftKings Sportsbook, Noon ET_
 **Nick Whalen:** Despite coming off the bench, Shead has hit this number in each of the last five games, and he now matches up against a Bucks team that ranks bottom-five in opponent assists allowed. Part of the reason I like his play is Toronto could be without [Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390) (groin) in a game they should feel good about winning without him.
@@ -115,6 +115,16 @@ New York Mets
 Stepping away from basketball
 NBA
 Golden State Warriors
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Upgraded to available
+NBA
+Dallas Mavericks
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)
+Available to play
+NBA
+Dallas Mavericks
   * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
 [Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)
 Ruled out Friday night
@@ -125,16 +135,6 @@ Washington Wizards
 Questionable versus Orlando
 NBA
 Golden State Warriors
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
-Ruled out for Friday
-NBA
-Atlanta Hawks
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
-Ruled out for Saturday
-NBA
-New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

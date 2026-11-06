@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-06 18:34 ET -->
 
 # NBA DFS Picks Today
 November 6, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, November 6 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Atlanta Hawks (WSH @ ATL) Boston Celtics (BOS @ CHA) Charlotte Hornets (BOS @ CHA) Cleveland Cavaliers (PHI @ CLE) Dallas Mavericks (UTA @ DAL) Los Angeles Lakers (POR @ LAL) Memphis Grizzlies (OKC @ MEM) Milwaukee Bucks (TOR @ MIL) Minnesota Timberwolves (MIN @ NOP) New Orleans Pelicans (MIN @ NOP) Oklahoma City Thunder (OKC @ MEM) Philadelphia 76ers (PHI @ CLE) Portland Trail Blazers (POR @ LAL) Sacramento Kings (SAN @ SAC) San Antonio Spurs (SAN @ SAC) Toronto Raptors (TOR @ MIL) Utah Jazz (UTA @ DAL) Washington Wizards (WSH @ ATL)
-Washington WizardsWSH @ ATL - 7:00 PM ET
-**[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)** _C_ OUT _Top_ 5:37 PM ET
-#### Ruled out Friday night
-Davis (ankle) is listed as out for Friday's game against the Hawks.
-Analysis
-Atlanta is shorthanded, but Washington will also be without one of its top players, with Davis missing his first game of the 2026-27 campaign due to an ankle injury that he picked up when these clubs met Wednesday. As a result, the Wizards may look to Will Riley and Khris Middleton to fill most of the void at the four spot.
-Atlanta HawksWSH @ ATL - 7:00 PM ET
-**[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)** _F_ OUT _Top_ 5:06 PM ET
-#### Ruled out for Friday
-Johnson (ankle) is out for Friday's game against the Wizards.
-Analysis
-This will be Johnson's third straight game on the sidelines, and for now, he should be considered questionable for Saturday's meeting with the Nets. Luguentz Dort should continue to start in his absence, while Nickeil Alexander-Walker and Onyeka Okongwu will see a larger role on offense.
-Sacramento KingsSAN @ SAC - 10:00 PM ET
-**[De'Andre Hunter](https://www.rotowire.com/basketball/player/deandre-hunter-4776)** _F_ Q _Top_ 4:07 PM ET
-#### Late addition to injury report
-Hunter is questionable for Friday against the Spurs due to an illness.
-Analysis
-Hunter is a late addition to the injury report. If he doesn't suit up Friday, Malik Monk and Leaky Black should soak up more playing time for the Kings.
-Los Angeles LakersPOR @ LAL - 10:00 PM ET
-**[Sandro Mamukelashvili](https://www.rotowire.com/basketball/player/sandro-mamukelashvili-5341)** _C_ 4:05 PM ET
-#### Will play Friday
-Mamukelashvili (illness) has been upgraded to available for Friday's game against Portland, NBA reporter Marc Stein reports.
-Analysis
-After entering the day as questionable, Mamukelashvili is now set to suit up Friday. Barring any setbacks, Mamukelashvili should handle his usual role as a frontcourt option off the bench.
 Dallas MavericksUTA @ DAL - 8:00 PM ET
-**[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)** _G_ P _Top_ 2:05 PM ET
-#### Added to injury report
-Irving (illness) is probable for Friday's game against Utah.
+**[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)** _G_ 6:18 PM ET
+#### Good to go Friday
+Christie (hip) is listed as available for Friday's game against Utah.
 Analysis
-Irving presumably woke up Friday morning under the weather. The issue isn't expected to prevent the star guard from playing, and Irving is likely to go through pregame warmups before Dallas confirms his status.
-Show 5 more (14 remaining)
+Christie exited Monday's meeting with the Kings due to a hip injury and was subsequently ruled out for Wednesday's game versus the Spurs. He will now avoid a second consecutive absence, though it's unknown if he will return to the starting lineup over Zaccharie Risacher.
+Cleveland CavaliersPHI @ CLE - 7:30 PM ET
+**[Tyrese Proctor](https://www.rotowire.com/basketball/player/tyrese-proctor-6569)** _G_ 6:15 PM ET
+#### Cleared to play Friday
+Proctor (ankle) is available for Friday's game against Philadelphia.
+Analysis
+Proctor was listed as questionable for this contest, though he will avoid his second absence of the 2026-27 campaign. He started in Wednesday's 124-116 loss to the Thunder, ending with a season-high 11 points. While Proctor may head back to the bench for the meeting with the 76ers if Peyton Watson (hamstring) is available, he should still get more minutes than most off the bench.
+Dallas MavericksUTA @ DAL - 8:00 PM ET
+**[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)** _G_ _Top_ 6:10 PM ET
+#### Upgraded to available
+Irving (illness) is available for Friday's game against Utah.
+Analysis
+The Mavericks previously added Irving to the injury report as probable with an illness, so there was little doubt regarding his status. The star guard should be able to handle his typical workload Friday, provided he faces no in-game setbacks with the ailment.
+Dallas MavericksUTA @ DAL - 8:00 PM ET
+**[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)** _F_ _Top_ 6:10 PM ET
+#### Available to play
+Aldama (knee) is available for Friday's game against the Jazz.
+Analysis
+Aldama missed all of the preseason and the first eight games of the regular season as he recovered from knee surgery, so he'll likely have some minutes restrictions in his regular-season debut. He could chip away at Naji Marshall and Caleb Martin's playing time once he's fully up to speed, though.
+Philadelphia 76ersPHI @ CLE - 7:30 PM ET
+**[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)** _C_ OUT6:10 PM ET
+#### Won't play Friday
+Bona (neck) is listed as out for Friday's game versus the Cavaliers.
+Analysis
+While Bona isn't starting Friday, his absence will open up minutes behind Joel Embiid. With Dominick Barlow (back) also sidelined against Cleveland, the 76ers should need more minutes out of Jabari Walker. Tacko Fall might also see action for the first time of the 2026-27 season.
+Show 5 more (19 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -68,24 +68,24 @@ WizardsExpectedAway
 _Implied_**109.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 30.8  |  
-| PF  | Bilal Coulibaly  | $4,000  | 31.1  |  
-| PG  | Trae Young  | $8,100  | 44.0  |  
-| SF  | AJ Dybantsa  | $6,200  | 32.1  |  
-| SG  | Kyshawn George  | $5,800  | 37.2  |  
+| C  | Alex Sarr  | -  | 31.4  |  
+| PF  | Bilal Coulibaly  | $4,000  | 27.5  |  
+| PG  | Trae Young  | $8,100  | 45.0  |  
+| SF  | AJ Dybantsa  | $6,200  | 32.7  |  
+| SG  | Kyshawn George  | $5,800  | 38.0  |  
 HawksExpectedHome
 _Implied_**118.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,700  | 42.3  |  
-| PF  | Luguentz Dort  | $5,000  | 25.5  |  
+| PF  | Luguentz Dort  | $5,000  | 25.6  |  
 | PG  | Kingston Flemings  | $4,700  | 33.4  |  
-| SF  | Dyson Daniels  | $6,600  | 38.7  |  
+| SF  | Dyson Daniels  | $6,600  | 38.8  |  
 | SG  | Nickeil Alexander-Walker  | $7,200  | 38.6  |  
 **BOS @ CHA**
-O/U 208.57:00 PM ET
+O/U 207.57:00 PM ET
 CelticsExpectedAway
-_Implied_**109.5** _Spread_**-10.5**  
+_Implied_**109.0** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $5,000  | 25.3  |  
@@ -94,7 +94,7 @@ _Implied_**109.5** _Spread_**-10.5**
 | SF  | Paul George  | $7,500  | 35.5  |  
 | SG  | Hugo Gonzalez  | $3,500  | 10.7  |  
 HornetsExpectedHome
-_Implied_**99.0** _Spread_**+10.5**  
+_Implied_**98.5** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ryan Kalkbrenner  | $3,900  | 22.0  |  
@@ -139,9 +139,9 @@ _Implied_**116.0** _Spread_**-6.5**
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $5,200  | 25.0  |  
 | PF  | P.J. Washington  | $6,400  | 33.4  |  
-| PG  | Kyrie IrvingP  | $7,400  | 40.0  |  
+| PG  | Kyrie Irving  | $7,400  | 40.0  |  
 | SF  | Cooper Flagg  | $9,900  | 43.0  |  
-| SG  | Max ChristieP  | $4,600  | 16.4  |  
+| SG  | Max Christie  | $4,600  | 16.4  |  
 **OKC @ MEM**
 O/U 223.58:00 PM ET
 ThunderExpectedAway
@@ -181,7 +181,7 @@ _Implied_**112.0** _Spread_**+4.5**
 | PF  | Kyle Kuzma  | $4,900  | 23.9  |  
 | PG  | Brayden Burries  | $4,400  | 21.9  |  
 | SF  | Jaime Jaquez  | $5,800  | 29.1  |  
-| SG  | Tyler Herro  | $6,900  | 33.9  |  
+| SG  | Tyler Herro  | $6,900  | 34.0  |  
 **MIN @ NOP**
 O/U 230.58:00 PM ET
 TimberwolvesExpectedAway
@@ -213,15 +213,15 @@ Main slatesMain - 7 games - 7:00 PMMain - 2 games - 10:00 PMMain - 4 games - 8:0
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Bilal CoulibalyWSH - SF  | @ ATL  | $4,000  | 33  | 31.1  | **7.78**  |  
-| 2  |  Kingston FlemingsATL - PG  | vs WSH  | $4,700  | 31  | 33.4  | **7.10**  |  
-| 3  |  Kyshawn GeorgeWSH - SG  | @ ATL  | $5,800  | 36  | 37.2  | **6.42**  |  
-| 4  |  Onyeka OkongwuATL - C  | vs WSH  | $6,700  | 34  | 42.3  | **6.31**  |  
+| 1  |  Kingston FlemingsATL - PG  | vs WSH  | $4,700  | 31  | 33.4  | **7.11**  |  
+| 2  |  Bilal CoulibalyWSH - SF  | @ ATL  | $4,000  | 33  | 27.5  | **6.89**  |  
+| 3  |  Kyshawn GeorgeWSH - SG  | @ ATL  | $5,800  | 36  | 38.0  | **6.55**  |  
+| 4  |  Onyeka OkongwuATL - C  | vs WSH  | $6,700  | 34  | 42.3  | **6.32**  |  
 | 5  |  Kenrich WilliamsOKC - SF  | @ MEM  | $4,400  | 30  | 27.1  | **6.17**  |  
 | 6  |  Rudy GobertMIN - C  | @ NOP  | $5,500  | 32  | 33.6  | **6.10**  |  
 | 7  |  Myles TurnerMIL - C  | vs TOR  | $4,900  | 30  | 29.4  | **5.99**  |  
 | 8  |  Ja'Kobe WalterTOR - SG  | @ MIL  | $5,000  | 31  | 29.9  | **5.99**  |  
-| 9  |  Dyson DanielsATL - PG  | vs WSH  | $6,600  | 35  | 38.7  | **5.86**  |  
+| 9  |  Dyson DanielsATL - PG  | vs WSH  | $6,600  | 35  | 38.8  | **5.87**  |  
 | 10  |  Jonathan KumingaMIN - PF  | @ NOP  | $6,300  | 32  | 35.7  | **5.67**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -240,27 +240,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K−20−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)CoulibalyOkongwuGeorgeJamesLylesDortWadeHarden
+$3K$4K$5K$6K$7K$8K$9K$10K−20−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GeorgeOkongwuJamesLylesDortWadeCoulibaly
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** WAS@ATL, BOS@CHA, PHI@CLE, UTA@DAL, OKC@MEM, TOR@MIL, MIN@NOP  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Bilal CoulibalyWAS · SF · WAS@ATL  | $4,000  | 10.3  | 31.1  | **58.2**  |   | +20.7  | +5  | 96  |  
-| 2  |  Onyeka OkongwuATL · C · WAS@ATL  | $6,700  | 17.1  | 42.3  | **74.3**  |   | +14.8  | +4  | 95  |  
-| 3  |  Kyshawn GeorgeWAS · SG · WAS@ATL  | $5,800  | 13.9  | 37.2  | **67.0**  |   | +14.8  | +4  | 94  |  
-| 4  |  Sion JamesCHA · SF/PF · BOS@CHA  | $4,200  | 5.2  | 21.6  | **44.1**  |   | +5.0  | +10  | 94  |  
-| 5  |  Trey LylesMIN · PF/C · MIN@NOP  | $3,400  | 4.7  | 18.6  | **39.3**  |   | +6.7  | +6  | 93  |  
-| 6  |  Luguentz DortATL · SF/PF · WAS@ATL  | $5,000  | 7.4  | 25.5  | **49.8**  |   | +4.1  | +5  | 88  |  
-| 7  |  Dean WadePHI · SF/PF · PHI@CLE  | $3,800  | 4.5  | 18.9  | **39.7**  |   | +3.9  | +8  | 88  |  
-| 8  |  James HardenCLE · PG · PHI@CLE  | $7,300  | 14.5  | 37.9  | **68.3**  |   | +3.9  | +4  | 85  |  
-| 9  |  Grayson AllenCHA · SG/SF · BOS@CHA  | $5,100  | 8.5  | 26.7  | **51.6**  |   | +5.2  | +3  | 85  |  
-| 10  |  Dejounte MurrayNOP · PG · MIN@NOP  | $7,700  | 15.0  | 39.2  | **70.3**  |   | +2.7  | +6  | 84  |  
-| 11  |  Bub CarringtonWAS · PG/SG · WAS@ATL  | $4,000  | 5.3  | 19.8  | **40.9**  |   | +3.4  | +4  | 83  |  
-| 12  |  Alex SarrWAS · C · WAS@ATL  | $5,100  | 11.0  | 30.8  | **57.6**  |   | +11.1  | +2  | 82  |  
+| 1  |  Kyshawn GeorgeWAS · SG · WAS@ATL  | $5,800  | 14.3  | 38.0  | **68.1**  |   | +15.9  | +4  | 96  |  
+| 2  |  Onyeka OkongwuATL · C · WAS@ATL  | $6,700  | 17.1  | 42.3  | **74.4**  |   | +14.9  | +4  | 95  |  
+| 3  |  Sion JamesCHA · SF/PF · BOS@CHA  | $4,200  | 5.2  | 21.6  | **44.1**  |   | +5.0  | +10  | 93  |  
+| 4  |  Trey LylesMIN · PF/C · MIN@NOP  | $3,400  | 4.7  | 18.6  | **39.3**  |   | +6.6  | +6  | 93  |  
+| 5  |  Luguentz DortATL · SF/PF · WAS@ATL  | $5,000  | 7.4  | 25.6  | **49.8**  |   | +4.2  | +5  | 88  |  
+| 6  |  Dean WadePHI · SF/PF · PHI@CLE  | $3,800  | 4.5  | 18.9  | **39.7**  |   | +3.8  | +8  | 88  |  
+| 7  |  Bub CarringtonWAS · PG/SG · WAS@ATL  | $4,000  | 5.5  | 20.3  | **41.7**  |   | +4.2  | +4  | 86  |  
+| 8  |  Grayson AllenCHA · SG/SF · BOS@CHA  | $5,100  | 8.5  | 26.7  | **51.6**  |   | +5.1  | +3  | 85  |  
+| 9  |  Bilal CoulibalyWAS · SF · WAS@ATL  | $4,000  | 8.8  | 27.5  | **52.4**  |   | +14.8  | +2  | 84  |  
+| 10  |  James HardenCLE · PG · PHI@CLE  | $7,300  | 14.5  | 37.9  | **68.3**  |   | +3.9  | +4  | 84  |  
+| 11  |  Dejounte MurrayNOP · PG · MIN@NOP  | $7,700  | 15.0  | 39.2  | **70.3**  |   | +2.7  | +6  | 84  |  
+| 12  |  Alex SarrWAS · C · WAS@ATL  | $5,100  | 11.2  | 31.4  | **58.4**  |   | +12.0  | +2  | 83  |  
 | 13  |  Brayden BurriesMIL · PG/SG · TOR@MIL  | $4,400  | 6.4  | 21.9  | **44.3**  |   | +3.5  | +3  | 81  |  
-| 14  |  P.J. WashingtonDAL · PF · UTA@DAL  | $6,400  | 11.8  | 33.4  | **61.2**  |   | +4.1  | +3  | 81  |  
-| 15  |  Myles TurnerMIL · C · TOR@MIL  | $4,900  | 10.1  | 29.4  | **55.3**  |   | +10.5  | +2  | 80  |  
+| 14  |  P.J. WashingtonDAL · PF · UTA@DAL  | $6,400  | 11.8  | 33.4  | **61.2**  |   | +4.1  | +3  | 80  |  
+| 15  |  Myles TurnerMIL · C · TOR@MIL  | $4,900  | 10.1  | 29.4  | **55.3**  |   | +10.5  | +1  | 80  |  
 Show all 125 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 7 games slate · 2026-11-06.
 ## **NBA Injury Report**

@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6 | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6 | fetched: 2026-11-06 18:34 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -261,22 +261,22 @@ Action Network Staff
 NBA
 [76ers vs Cavaliers Predictions, Odds, NBA Cup Picks: Fear The Beard](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-cleveland-cavaliers-prediction-pick-nba-odds-friday-november-6)
 Jim Turvey
-22 mins ago
+52 mins ago
 [![Celtics vs Hornets Prediction, Odds, NBA Cup Picks: Trust Brandon Miller Tonight](https://images.actionnetwork.com/blog/2026/11/Celtics-vs-Hornets-11_6_26.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
 NBA
 [Celtics vs Hornets Prediction, Odds, NBA Cup Picks: Trust Brandon Miller Tonight](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
 Matt Moore
-1 hour ago
+2 hours ago
 [![Hawks vs Wizards Predictions, Odds, NBA Cup Picks: Fade This Fraudulent Washington Team](https://images.actionnetwork.com/blog/2026/11/Hawks-vs-Wizards-11.6.26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
 NBA
 [Hawks vs Wizards Predictions, Odds, NBA Cup Picks: Fade This Fraudulent Washington Team](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
 Matt Moore
-46 mins ago
+1 hour ago
 [![Raptors vs Bucks Predictions, Odds, NBA Cup Picks: Don’t Fall for the Trap](https://images.actionnetwork.com/blog/2026/11/Raptors-vs-Bucks-11_6_25-1.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
 NBA
 [Raptors vs Bucks Predictions, Odds, NBA Cup Picks: Don’t Fall for the Trap](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
 Matt Moore
-11 mins ago
+41 mins ago
 [![NBA Prop Bet for Jaylen Brown on Friday, November 6](https://images.actionnetwork.com/blog/2026/11/NBA-PropBomb-Pick-11_6.jpg)](https://www.actionnetwork.com/nba/nba-prop-bet-for-jaylen-brown-on-friday-november-6)
 NBA
 [NBA Prop Bet for Jaylen Brown on Friday, November 6](https://www.actionnetwork.com/nba/nba-prop-bet-for-jaylen-brown-on-friday-november-6)
@@ -286,18 +286,18 @@ Prop Bomb
 NBA
 [Thunder vs Grizzlies Predictions, Odds, Picks: OKC Desperately Needs Secondary Scoring](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-memphis-grizzlies-prediction-pick-nba-odds-friday-november-6)
 Joe Dellera
-34 mins ago
+1 hour ago
 [![Trail Blazers vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Blazers-Lakers-1162026.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-los-angeles-lakers-prediction-pick-nba-odds-friday-november-6)
 NBA
 [Trail Blazers vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-los-angeles-lakers-prediction-pick-nba-odds-friday-november-6)
 Joe Dellera
-6 hours ago
+7 hours ago
 [![Timberwolves vs Pelicans Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Wolves-Pelicans-1162026.jpg)](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-new-orleans-pelicans-prediction-pick-nba-odds-friday-november-6)
 NBA
 [Timberwolves vs Pelicans Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-new-orleans-pelicans-prediction-pick-nba-odds-friday-november-6)
 Matt Moore
-8 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2487d2ce-80ac-4250-a651-4f6b78416caa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2487d2ce-80ac-4250-a651-4f6b78416caa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ff61c1b6-3d0a-4733-b065-4ac9b004632c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7404&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ff61c1b6-3d0a-4733-b065-4ac9b004632c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7404&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ec7860bd-f99b-40a3-a498-aebc4eb21e9b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=76dc9f14-f679-4807-a80f-4f103612fb10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ec7860bd-f99b-40a3-a498-aebc4eb21e9b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=76dc9f14-f679-4807-a80f-4f103612fb10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=04c01cf5-1ef9-44f1-b516-c0c695cf6daa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=76dc9f14-f679-4807-a80f-4f103612fb10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7484&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=04c01cf5-1ef9-44f1-b516-c0c695cf6daa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=76dc9f14-f679-4807-a80f-4f103612fb10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7484&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

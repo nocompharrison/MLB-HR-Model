@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-06 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,58 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)[Good to go Friday](https://www.rotowire.com/basketball/headlines/max-christie-news-good-to-go-friday-537874)
+**G** Dallas Mavericks
+November 6, 2026
+Christie (hip) is listed as [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_06_00PM.pdf) for Friday's game against Utah.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Tyrese Proctor](https://www.rotowire.com/basketball/player/tyrese-proctor-6569)[Cleared to play Friday](https://www.rotowire.com/basketball/headlines/tyrese-proctor-news-cleared-to-play-friday-537873)
+**G** Cleveland Cavaliers
+November 6, 2026
+Proctor (ankle) is [available](http://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_06_00PM.pdf) for Friday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Upgraded to available](https://www.rotowire.com/basketball/headlines/kyrie-irving-news-upgraded-to-available-537872)
+**G** Dallas Mavericks
+November 6, 2026
+Irving (illness) is [available](https://x.com/MavsPR/status/2118842212985528617?s=20) for Friday's game against Utah.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Santi Aldama](https://www.rotowire.com/basketball/player/santi-aldama-5428)[Available to play](https://www.rotowire.com/basketball/headlines/santi-aldama-news-available-to-play-537871)
+**F** Dallas Mavericks
+November 6, 2026
+Aldama (knee) is [available](https://x.com/MavsPR/status/2118842212985528617?s=20) for Friday's game against the Jazz.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)[Won't play Friday](https://www.rotowire.com/basketball/headlines/adem-bona-injury-wont-play-friday-537870)
+**C** Philadelphia 76ers
+Back
+November 6, 2026
+Bona (neck) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_06_00PM.pdf) for Friday's game versus the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-questionable-for-saturday-537869)
+**G** Indiana Pacers
+Hamstring
+November 6, 2026
+McConnell (hamstring) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_06_00PM.pdf) for Saturday's game against Denver.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)[Iffy for Saturday](https://www.rotowire.com/basketball/headlines/kelly-oubre-injury-iffy-for-saturday-537868)
+**F** Indiana Pacers
+Calf
+November 6, 2026
+Oubre (calf) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_06_00PM.pdf) for Saturday's game against Denver.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
 [DeMar DeRozan](https://www.rotowire.com/basketball/player/demar-derozan-3019)[Expected to play Saturday](https://www.rotowire.com/basketball/headlines/demar-derozan-injury-expected-to-play-saturday-537867)
 **F** Denver Nuggets
@@ -152,61 +204,6 @@ Nurkic (toe) has begun participating in on-court activities as he continues reco
 Thigh
 November 6, 2026
 Schroder (thigh) is [out](https://x.com/HornetsPR/status/2118763495907045852) for Friday's game versus Boston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Sitting out Friday](https://www.rotowire.com/basketball/headlines/terrence-shannon-injury-sitting-out-friday-537849)
-**F** Minnesota Timberwolves
-Hip
-November 6, 2026
-Shannon (hip) has been ruled out for Friday's game against New Orleans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870)[Probable for Friday](https://www.rotowire.com/basketball/headlines/jakob-poeltl-injury-probable-for-friday-537848)
-**C** Toronto Raptors
-Shoulder
-November 6, 2026
-Poeltl (shoulder) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_12_45PM.pdf) for Friday's game against Milwaukee.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Available Friday](https://www.rotowire.com/basketball/headlines/trey-murphy-news-available-friday-537847)
-**F** New Orleans Pelicans
-November 6, 2026
-Murphy (knees) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_12_45PM.pdf) for Friday's game against the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Immanuel Quickley](https://www.rotowire.com/basketball/player/immanuel-quickley-5201)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-downgraded-to-questionable-537846)
-**G** Toronto Raptors
-Hamstring
-November 6, 2026
-Quickley (hamstring) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_12_45PM.pdf) for Friday against the Bucks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708)[Ruled out for Friday](https://www.rotowire.com/basketball/headlines/moussa-diabate-injury-ruled-out-for-friday-537845)
-**C** Charlotte Hornets
-Quadriceps
-November 6, 2026
-Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)[Absent from shootaround](https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-absent-from-shootaround-537844)
-**F** Toronto Raptors
-Groin
-November 6, 2026
-Barnes (adductor) was not present at the morning shootaround, [Michael Grange of Sportsnet.ca](https://x.com/michaelgrange/status/2118759662246125993?s=20)reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Goes through shootaround](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-goes-through-shootaround-537843)
-**F** New Orleans Pelicans
-Knee
-November 6, 2026
-Murphy (knee) participated in shootaround and expects to play Friday against Minnesota, [Jim Eichenhofer of the Pelicans' official site](https://x.com/Jim_Eichenhofer/status/2118755920247480786?a=4vxBBl-APwDbon-zUFc&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

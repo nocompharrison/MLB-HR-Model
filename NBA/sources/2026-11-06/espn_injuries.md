@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-06 18:34 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -163,10 +163,10 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 7 | Out | Nov 6: Johnson (ankle) is out for Friday's game against the Wizards. |
 | [Keshon Gilbert](https://www.espn.com/nba/player/_/id/4585618/keshon-gilbert) | G | Nov 7 | Out | Nov 5: Gilbert is out for Friday's game against the Wizards due to left knee inflammation. |
 | [Asa Newell](https://www.espn.com/nba/player/_/id/4873201/asa-newell) | F | Nov 7 | Out | Nov 5: Newell (toe) is out for Friday's game against Washington. |
 | [Jock Landale](https://www.espn.com/nba/player/_/id/3146557/jock-landale) | C | Nov 7 | Out | Nov 5: Landale (hip) has been ruled out for Friday's game against the Wizards. |
-| [Jalen Johnson](https://www.espn.com/nba/player/_/id/4701230/jalen-johnson) | F | Nov 6 | Day-To-Day | Nov 5: Johnson is questionable to suit up for Friday's game against Washington. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
 
@@ -225,7 +225,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [DeMar DeRozan](https://www.espn.com/nba/player/_/id/3978/demar-derozan) | G | Nov 7 | Day-To-Day | Nov 5: DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms. |
+| [DeMar DeRozan](https://www.espn.com/nba/player/_/id/3978/demar-derozan) | G | Nov 7 | Day-To-Day | Nov 6: DeRozan (back) is probable for Saturday's game against the Pacers. |
 | [Spencer Jones](https://www.espn.com/nba/player/_/id/4592427/spencer-jones) | F | Nov 11 | Out | Nov 3: Jones (hamstring) is out for Wednesday's game against the Raptors. |
 | [Julian Strawther](https://www.espn.com/nba/player/_/id/4432181/julian-strawther) | G | Nov 29 | Out | Oct 16: Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports. |
 
@@ -240,6 +240,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Draymond Green](https://www.espn.com/nba/player/_/id/6589/draymond-green) | F | Nov 7 | Day-To-Day | Nov 6: Green (elbow) is listed as questionable ahead of Saturday's game against Orlando. |
+| [Gary Payton II](https://www.espn.com/nba/player/_/id/3134903/gary-payton-ii) | G | Nov 7 | Day-To-Day | Nov 6: Payton is questionable to play Saturday against the Magic due to right calf tightness. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Jan 2 | Out | Nov 6: Porzingis announced on his social media that he's stepping away from basketball. |
 | [Gui Santos](https://www.espn.com/nba/player/_/id/4997536/gui-santos) | F | Nov 7 | Day-To-Day | Nov 6: Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic. |
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
@@ -256,7 +258,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Kelly Oubre Jr.](https://www.espn.com/nba/player/_/id/3133603/kelly-oubre-jr) | G | Nov 7 | Day-To-Day | Nov 5: Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies. |
+| [Kelly Oubre Jr.](https://www.espn.com/nba/player/_/id/3133603/kelly-oubre-jr) | G | Nov 7 | Day-To-Day | Nov 6: Oubre (calf) is questionable for Saturday's game against Denver. |
 | [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Nov 9 | Out | Nov 2: McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week. |
 | [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Oct 30: Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Jan 2 | Out | Oct 28: Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports. |
@@ -329,7 +331,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 6 | Day-To-Day | Nov 5: Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports. |
+| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 8 | Out | Nov 6: Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 18 | Out | Nov 4: Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
@@ -388,7 +390,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Anthony Davis](https://www.espn.com/nba/player/_/id/6583/anthony-davis) | F | Nov 6 | Day-To-Day | Nov 5: Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports. |
+| [Anthony Davis](https://www.espn.com/nba/player/_/id/6583/anthony-davis) | F | Nov 7 | Out | Nov 6: Davis (ankle) is listed as out for Friday's game against the Hawks. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 9 | Out | Nov 1: Vukcevic (hip) is listed as out for Monday's game against Orlando. |
 | [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
@@ -398,19 +400,23 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://tracking.autoinsurance.com/)[Stop Overpaying. Do This Before Your Next Auto Renewal Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.autoinsurance.com/ "Stop Overpaying. Do This Before Your Next Auto Renewal")
-
-Undo
-
 [](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
 Undo
 
-[](https://www.telidesk.com/freebusinessphone)[It's Affordable and Actually Works www.telidesk.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.telidesk.com/freebusinessphone "It's Affordable and Actually Works")
+[](https://trend.consumergadgetsreviews.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 Consumer Gadgets Reviews | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trend.consumergadgetsreviews.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
 
 Undo
 
-[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
+[](https://ucyfx.com/a31b7ddc-6b88-43b0-bd22-c0ee0bc2103d)[Which State Pays the Most for Car Insurance? (Check Yours Here)Penguin Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a31b7ddc-6b88-43b0-bd22-c0ee0bc2103d "Which State Pays the Most for Car Insurance? (Check Yours Here)")
+
+Undo
+
+[](https://rhs.search.yahoo.com/rhs)[Search for 2026 midsize SUV drive away pricing retirees Research 2026 midsize SUV drive away pricing retirees on Yahoo. View top results now.Yahoo Search | 2026 midsize SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for 2026 midsize SUV drive away pricing retirees")
+
+Undo
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
 Undo
 
@@ -418,29 +424,25 @@ Undo
 
 Undo
 
-[](https://wellnesstodayonline.net/fructaid-enjoy-fruit)[One Cupcake Can Blow Your Gut’s Fructose Budget. Here’s Why Fructaid | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://wellnesstodayonline.net/fructaid-enjoy-fruit "One Cupcake Can Blow Your Gut’s Fructose Budget. Here’s Why")
+[](https://silentroomreview.com/)[Persistent tinnitus linked to a habit most people over 50 share Heart.Health | News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://silentroomreview.com/ "Persistent tinnitus linked to a habit most people over 50 share")
 
 Undo
 
-[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
 
 Undo
 
-[](https://www.leafhomelights.com/lp)[#1 Trending in North Charleston- Stunning outdoor lighting 16 million colors. Total smartphone control. Installed in as little as 1 day.Permanent Outdoor Lights | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.leafhomelights.com/lp "#1 Trending in North Charleston- Stunning outdoor lighting")
-
-Undo
-
-[](https://wellnesstodayonline.net/fructaid-symptom-discovery)[Bloated Hours After Eating Fruit? This May Be Why It shows up hours after you eat, so most people never link it to the food that caused it.Fructaid | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://wellnesstodayonline.net/fructaid-symptom-discovery "Bloated Hours After Eating Fruit? This May Be Why")
+[](https://www.bindright.com/pa)[South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)Bindright | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://www.bindright.com/pa "South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)")
 
 Undo
 
 ### NBA News
 
-[![Image 53: Warriors' Kristaps Porzingis to 'step away,' prioritize health](https://a.espncdn.com/combiner/i?img=/photo/2026/0928/r1722984_1296x729_16-9.jpg&w=220) ## Warriors' Kristaps Porzingis to 'step away,' prioritize health Kristaps Porzingis announced that he will "step away" from the NBA in order to prioritize his health. He has not played for the Warriors this season. * 18m * Anthony Slater](https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health)
+[![Image 53: Warriors' Kristaps Porzingis to 'step away,' prioritize health](https://a.espncdn.com/combiner/i?img=/photo/2026/0928/r1722984_1296x729_16-9.jpg&w=220) ## Warriors' Kristaps Porzingis to 'step away,' prioritize health Kristaps Porzingis has announced that he will "step away" from the NBA to prioritize his health. He has not played for the Warriors this season. * 33m * Anthony Slater](https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health)
 
-[![Image 54: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 11m * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
+[![Image 54: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
-[![Image 55: Ex-NBA player Ed Davis expected to change plea to guilty in sports betting case](https://a.espncdn.com/combiner/i?img=/photo/2026/1025/r1736092_1296x729_16-9.jpg&w=220) ## Ex-NBA player Ed Davis expected to change plea to guilty in sports betting case Former NBA player Ed Davis is expected to change his plea to guilty in his federal sport betting case, according a court docket entry filed on Friday. * 1h * Tom Schad](https://www.espn.com/nba/story/_/id/50401571/ex-nba-player-ed-davis-plead-guilty-sports-betting-case)
+[![Image 55: Ex-NBA player Ed Davis expected to change plea to guilty in sports betting case](https://a.espncdn.com/combiner/i?img=/photo/2026/1025/r1736092_1296x729_16-9.jpg&w=220) ## Ex-NBA player Ed Davis expected to change plea to guilty in sports betting case Former NBA player Ed Davis is expected to change his plea to guilty in his federal sport betting case, according a court docket entry filed on Friday. * 2h * Tom Schad](https://www.espn.com/nba/story/_/id/50401571/ex-nba-player-ed-davis-plead-guilty-sports-betting-case)
 
 [All NBA News](https://www.espn.com/nba/)
 
@@ -450,11 +452,11 @@ Sponsored Headlines
 
 Undo
 
-[](https://go.thesmarttechpost.com/99c28fe1-d662-4c56-bfd5-c48ea585df63)[It Looks Like a Plain Tumbler. Press the Button and It Becomes a Blender Add fruit, press a button, and drink it from the same cup. See how it works.Daily Trends | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://go.thesmarttechpost.com/99c28fe1-d662-4c56-bfd5-c48ea585df63 "It Looks Like a Plain Tumbler. Press the Button and It Becomes a Blender")
+[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
 
 Undo
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://www.homes.com/homes-for-sale/acreage)[View Homes for Sale with Acreage Homes.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.homes.com/homes-for-sale/acreage "View Homes for Sale with Acreage")
 
 Undo
 

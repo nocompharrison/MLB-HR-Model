@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6 | fetched: 2026-11-06 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6 | fetched: 2026-11-06 18:34 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # 76ers vs. Cavaliers Prediction: Picks and Prop Bets (Nov. 6)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![76ers vs. Cavaliers Prediction: Picks and Prop Bets \(Nov. 6\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F65d8504e5337b4cb0d257211c6568ff5b87bad4e-8640x5760.jpg%3Frect%3D0%2C416%2C7547%2C3734%26w%3D964%26h%3D477&w=1920&q=100)
 **76ers vs. Cavaliers Top Bets at a Glance**
@@ -29,7 +29,7 @@ _Please note lines are subject to change throughout the day after this article i
 ### [Cavaliers Moneyline (+120)](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Moneyline
 Cleveland Cavaliers
-+120
++118
 Nov 7 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Odds/lines subject to change
 The [Cleveland Cavaliers](https://sportsbook.fanduel.com/teams/nba/cleveland-cavaliers/roster) haven’t gotten off to the start they envisioned, but Friday’s home matchup against the [Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/roster) presents an opportunity to turn things around.
@@ -39,7 +39,7 @@ Philadelphia’s impressive start makes this a challenging matchup, but the Cava
 ### [Joel Embiid 10+ Rebounds (+102)](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 8+ Rebounds
 [Joel Embiid](https://sportsbook.fanduel.com/teams/nba/roster/joel-embiid-2251)
--225
+-260
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Odds/lines subject to change
@@ -73,17 +73,17 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [76ers vs. Cavaliers Prediction: Picks and Prop Bets (Nov. 6)](https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6)
-1h
+2h
 76ers vs. Cavs prediction and picks for today's matchup. 
 [](https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Props Today: 3 NBA Prop Bets for Friday, Nov. 6](https://www.fanduel.com/research/nba-props-today-friday-nov-6)
-5h
+6h
 NBA player props to target today. What are the best NBA prop bets for Friday?
 [](https://www.fanduel.com/research/nba-props-today-friday-nov-6)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA DFS Picks Today: Best FanDuel Plays for Friday, Nov. 6](https://www.fanduel.com/research/nba-dfs-picks-today-fanduel-friday-nov-6)
-6h
+7h
 NBA DFS picks and best plays for Friday's main slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-fanduel-friday-nov-6)
 [NBA](https://www.fanduel.com/research/nba)
