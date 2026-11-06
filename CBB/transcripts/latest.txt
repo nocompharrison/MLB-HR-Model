@@ -1,4 +1,4 @@
-# CBB transcripts | 2026-11-06 | updated 2026-11-06 11:21 ET
+# CBB transcripts | 2026-11-06 | updated 2026-11-06 17:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 12 files in CBB/transcripts/2026-11-06:
 CBB/transcripts/2026-11-06/0vH2a8_qsRU_FieldOf68_Duke_has_the_highest_ceiling_of_ANYONE_Justin_Jackson_is_ALL_IN_on_Du.txt
@@ -13,35 +13,34 @@ CBB/transcripts/2026-11-06/lO-zECutTrY_FieldOf68_TOP_DOGS_A_Michigan_UConn_previ
 CBB/transcripts/2026-11-06/n_LlWprbChM_PickDawgz_UConn_vs_Michigan_Predictions_Picks_11_6_26_NCAAB_Best_Bets_Prediction.txt
 CBB/transcripts/2026-11-06/uAJT3qhQDLQ_PickDawgz_College_Basketball_Picks_Predictions_Today_11_6_26_Ron_s_Bank_Shot_Bre.txt
 CBB/transcripts/2026-11-06/v3jPuyFw-oc_TCE_College_Basketball_PICKS_ONLY_Friday_November_6th_TCE_Trims.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-05
 
 # this run:
-NEW     CBB/transcripts/2026-11-06/AwjHL3-vfUI_LockedOnCBB_NATIONAL_TITLE_REMATCH_Michigan_UConn_Headlines_HUGE_College_Basketbal.txt  (7,284 words)
-NOCAPS  CBSCollegeBB xDYwl0BcpfU Duke & Florida race for best in the sport + Wknd Preview! UC  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+DEFER   CBSCollegeBB DP6Q9Na4-gc No. 4 UConn vs. No. 16 Michigan Preview & Prediction: A titl  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB jipnPpS4_Tc Saint Louis vs. Missouri Preview & Prediction: Robbie Avila   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB xDYwl0BcpfU Florida, Duke & Illinois are running the show; Wknd Preview!  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB foc3dQYeJWE No. 9 Virginia vs. No. 12 Arkansas Preview & Prediction: Ros  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   CBSCollegeBB QlcCrfpJ_rY Michigan vs UConn Game Preview | Week 1 Picks and Prediction  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB 1GFCqPH4wp4 Can anyone touch these three teams this season? | Duke, Flor  (YouTube rate limit hit earlier this run)
 DEFER   FieldOf68 7rCqKT-YdFc 'Vanderbilt is just scratching the surface of how good they   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 fXWn4i0bwpI PREVIEW: Why Michigan has 'NO CHANCE' to knock off UConn! |   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 IQmQoIvuHy0 PREVIEW: Robbie Avila is BACK for Saint Louis! Can they knoc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Illini's SUP  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-06/lO-zECutTrY_FieldOf68_TOP_DOGS_A_Michigan_UConn_preview_Is_this_UConn_s_best_EVER_defensive.txt  (7,797 words)
-NEW     CBB/transcripts/2026-11-06/BQLiRqdjk7Y_FieldOf68_The_Indiana_Hoosiers_CAN_be_a_dangerous_team_but_WILL_they_be_AFTER_D.txt  (1,668 words)
-NEW     CBB/transcripts/2026-11-06/0vH2a8_qsRU_FieldOf68_Duke_has_the_highest_ceiling_of_ANYONE_Justin_Jackson_is_ALL_IN_on_Du.txt  (1,944 words)
+DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 2ReQIBFX2AY UCONN AND MICHIGAN BATTLE IN BOSTON! Plus, Saint Louis-Misso  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 g4ZmOZpCFY0 WCC INSIDER: Ismaila Diagne on his journey to San Francisco   (YouTube rate limit hit earlier this run)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-06/QH1FQesKtpY_TCE_College_Basketball_Best_Bets_For_November_6th_Spread_Moneyline_Betting.txt  (682 words)
-NEW     CBB/transcripts/2026-11-06/v3jPuyFw-oc_TCE_College_Basketball_PICKS_ONLY_Friday_November_6th_TCE_Trims.txt  (14,652 words)
-NEW     CBB/transcripts/2026-11-06/AdD9nb_oAcE_TCE_College_Basketball_Picks_For_November_6th_NCAA_Basketball_Banter_Best.txt  (24,353 words)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NOCAPS  WagerTalk KjZOApq6Spg College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  WagerTalk RfO7WYTSG_A College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-06/Xyo7EgPfu-w_WagerTalk_CBB_Picks_TODAY_THREE_Friday_College_Basketball_Predictions_BEST_Bets.txt  (1,832 words)
-NEW     CBB/transcripts/2026-11-05/tyyBd43mOEM_WagerTalk_College_Basketball_Picks_Thursday_Duke_Michigan_State_Best_Bets_Full_C.txt  (11,922 words)
-NEW     CBB/transcripts/2026-11-05/k-Uv7EJrJd8_WagerTalk_College_Basketball_Picks_Thursday_Duke_Michigan_State_Best_Bets_Full_C.txt  (11,900 words)
+DEFER   WagerTalk isNWTAjYpGg CBB Picks TODAY! Michigan vs Uconn | Yale vs UCF Predictions  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk RfO7WYTSG_A College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk KjZOApq6Spg College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-06/9dPgDxnf1JU_PickDawgz_PORTLAND_VS_UT_ARLINGTON_11_6_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DAY_PICK.txt  (787 words)
-NEW     CBB/transcripts/2026-11-06/n_LlWprbChM_PickDawgz_UConn_vs_Michigan_Predictions_Picks_11_6_26_NCAAB_Best_Bets_Prediction.txt  (798 words)
-NEW     CBB/transcripts/2026-11-06/uAJT3qhQDLQ_PickDawgz_College_Basketball_Picks_Predictions_Today_11_6_26_Ron_s_Bank_Shot_Bre.txt  (2,231 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -49,5 +48,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
