@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-friday-11-6/ | fetched: 2026-11-06 16:05 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-friday-11-6/ | fetched: 2026-11-06 18:05 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Friday \(11/6\)](https://cdn.fantasypros.com/wp-content/images/myles_turner_bucks_3-1/716x316.jpg)
 For today’s [NBA DFS](https://www.fantasypros.com/daily-fantasy/nba/tools.php) picks, we have nine games available. We’ve got some great players to consider.
@@ -60,11 +60,11 @@ BoomBust
 [Colton Pool ](https://www.fantasypros.com/news/correspondents/colton-pool.php)
 Colton Pool is a featured writer at FantasyPros, providing unique insights and in-depth analysis.
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-friday-11-6/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ ROS Rankings ](https://www.fantasypros.com/nba/rankings/ros-overall.php)[ Dynasty Rankings ](https://www.fantasypros.com/nba/rankings/dynasty-overall.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a98969a989b98999c9b66uokewi0e0y6e64606e646g64666i6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

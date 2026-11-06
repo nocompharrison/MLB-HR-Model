@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-6-145566 | fetched: 2026-11-06 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-6-145566 | fetched: 2026-11-06 18:05 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 6
 Get the best NBA bets today, with three expert player prop picks on points and assists, plus odds from top sportsbooks for Friday’s Nov. 6 NBA slate.
@@ -24,21 +24,21 @@ _DraftKings, Sportsbook, Noon ET_
 **Nick Whalen:** While [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)'s incredibly hot start has been the story in LA, Reaves is quietly averaging an efficient 23.3 points per game on 53/43/88 shooting splits. Portland has been a top-10 defensive team thus far, but when these teams met last week, it turned into a 136-129 shootout with Reaves going for 29 points on 12 shots (11-13 FT). Getting to the line will be key for Reaves, but he should have plenty of opportunity with Portland focused primarily on slowing down Doncic.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | POR @ LAL
-Austin Reaves Over 21.5 Points-120
+Austin Reaves Over 21.5 Points-117
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.17](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.27](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151) over 6.5 assists at New Orleans Pelicans
 _DraftKings, 3:16 PM ET_
 **Alex Barutha** : Ball has averaged 5.9 assists in 26.7 minutes so far this season. Some of the hope here is he can stay out of foul trouble, as that's limited his workload. The underlying metrics are good, though. The Pelicans are allowing the sixth-most assists per game (27.6). They've also already given up high-assist games to other guards like Darius Acuff (14), Tyrese Haliburton (12) and Keyonte George on two occasions (10, 9).
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | MIN @ NOP
-LaMelo Ball Over 6.5 Assists-114
+LaMelo Ball Over 6.5 Assists-133
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.39](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $3.76](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Jamal Shead**](https://www.rotowire.com/basketball/player/jamal-shead-6296)**over 5.5 assists at Milwaukee Bucks (-119)**
 _DraftKings Sportsbook, Noon ET_
 **Nick Whalen:** Despite coming off the bench, Shead has hit this number in each of the last five games, and he now matches up against a Bucks team that ranks bottom-five in opponent assists allowed. Part of the reason I like his play is Toronto could be without [Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390) (groin) in a game they should feel good about winning without him.
@@ -54,34 +54,39 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Arizona Diamondbacks](https://assets.rotowire.com/images/teamlogo/baseball/100ARI.png?v=8)
+[Corbin Carroll](https://www.rotowire.com/baseball/player/corbin-carroll-16051)
+Undergoes elbow surgery
+MLB
+Arizona Diamondbacks
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Christian McCaffrey](https://www.rotowire.com/football/player/christian-mccaffrey-11690)
-Practicing Friday
+Set to play Sunday
 NFL
 San Francisco 49ers
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
-Not seen at Friday's practice
+Won't play Sunday
 NFL
 San Francisco 49ers
-  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
-[George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
-Questionable for Week 9
-NFL
-Dallas Cowboys
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Kristaps Porzingis](https://www.rotowire.com/basketball/player/kristaps-porzingis-3669)
+Stepping away from basketball
+NBA
+Golden State Warriors
   * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
 [Malik Nabers](https://www.rotowire.com/football/player/malik-nabers-17704)
-'Full go' for Week 9
+Ready for Sunday
 NFL
 New York Giants
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
-Won't play Sunday against Green Bay
-NFL
-New England Patriots
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![Arizona Diamondbacks](https://assets.rotowire.com/images/teamlogo/baseball/100ARI.png?v=8)
+[Corbin Carroll](https://www.rotowire.com/baseball/player/corbin-carroll-16051)
+Undergoes elbow surgery
+MLB
+Arizona Diamondbacks
   * ![Washington Nationals](https://assets.rotowire.com/images/teamlogo/baseball/100WSH.png?v=8)
 [Jacob Young](https://www.rotowire.com/baseball/player/jacob-young-18764)
 Inks contract extension with Nats
@@ -102,67 +107,62 @@ Detroit Tigers
 Re-signs with Mets on MLB deal
 MLB
 New York Mets
-  * ![Cleveland Guardians](https://assets.rotowire.com/images/teamlogo/baseball/100CLE.png?v=8)
-[Jose Tena](https://www.rotowire.com/baseball/player/jose-tena-16423)
-Back to Cleveland via waivers
-MLB
-Cleveland Guardians
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
   * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Gui Santos](https://www.rotowire.com/basketball/player/gui-santos-5738)
-Questionable for Saturday
+[Kristaps Porzingis](https://www.rotowire.com/basketball/player/kristaps-porzingis-3669)
+Stepping away from basketball
 NBA
 Golden State Warriors
-  * ![Los Angeles Clippers](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Brandon Ingram](https://www.rotowire.com/basketball/player/brandon-ingram-3861)
-Nearing return
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)
+Ruled out Friday night
 NBA
-Los Angeles Clippers
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Added to injury report
+Washington Wizards
+  * ![Golden State Warriors](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)
+Questionable versus Orlando
 NBA
-Dallas Mavericks
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
-Closing in on season debut
+Golden State Warriors
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
+Ruled out for Friday
 NBA
-Chicago Bulls
-  * ![Utah Jazz](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)
-Re-evaluated in two weeks
+Atlanta Hawks
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
+Ruled out for Saturday
 NBA
-Utah Jazz
+New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Christian McCaffrey](https://www.rotowire.com/football/player/christian-mccaffrey-11690)
-Practicing Friday
+Set to play Sunday
 NFL
 San Francisco 49ers
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
-Not seen at Friday's practice
+Won't play Sunday
 NFL
 San Francisco 49ers
-  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
-[George Pickens](https://www.rotowire.com/football/player/george-pickens-15853)
-Questionable for Week 9
-NFL
-Dallas Cowboys
   * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
 [Malik Nabers](https://www.rotowire.com/football/player/malik-nabers-17704)
-'Full go' for Week 9
+Ready for Sunday
 NFL
 New York Giants
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
-Won't play Sunday against Green Bay
+  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
+[Cam Skattebo](https://www.rotowire.com/football/player/cam-skattebo-18514)
+Doubtful for Week 9
 NFL
-New England Patriots
+New York Giants
+  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
+[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
+Listed questionable for Sunday
+NFL
+Detroit Lions
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

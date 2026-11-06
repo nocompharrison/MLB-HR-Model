@@ -1,27 +1,27 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6 | fetched: 2026-11-06 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6 | fetched: 2026-11-06 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
-# NBA Cup Predictions: Spreads, Totals & Prop Bets for Friday, November 6
+# NBA Cup Predictions for Hawks vs Wizards, Hornets vs Celtics, More (Friday, Nov. 6)
 ![Author Profile](https://images.actionnetwork.com/blog/2018/09/mattmoore-1-Matt-Moore-2-1-100x100.png)
 [Matt Moore](https://www.actionnetwork.com/article/author/matt-moore)
 Senior NBA Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 06, 2026, 03:47 PM EST
+Nov 06, 2026, 04:17 PM EST
 Updated:
-Nov 06, 2026, 03:47 PM EST
+Nov 06, 2026, 04:17 PM EST
 Credit:
 IMAGN IMAGES via Reuters Connect. Pictured: Jaylen Brown, Victor Wembanyama
 We have an excellent slate of NBA Cup games in front of us tonight, and I've been crunching the numbers to find the best spots on the board. From sides and totals to specific matchup angles, I've locked in my favorite plays for the evening.
 Let's get into my **NBA predictions** for Friday, November 6.
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com) and download the [Action Network app](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for more NBA picks and analysis!_
-## NBA Predictions for Friday, November 6
+## NBA Cup Predictions for Friday, November 6
 * * *  
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Wizards vs. Hawks
+## Wizards vs Hawks Total Prediction
 [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)](https://www.actionnetwork.com/nba/odds/washington-wizards)
 Friday, Nov. 6
 7 p.m. ET
@@ -44,7 +44,7 @@ _**If you want more picks for this game, read our full[Wizards vs Hawks betting 
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Celtics vs. Hornets
+## Celtics vs Hornets Player Prop Pick
 [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)](https://www.actionnetwork.com/nba/odds/boston-celtics)
 Friday, Nov. 6
 7 p.m. ET
@@ -61,7 +61,7 @@ _**If you want more picks for this game, read our full[Celtics vs Hornets bettin
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## 76ers vs. Cavaliers
+## 76ers vs Cavaliers Moneyline Bet
 [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)](https://www.actionnetwork.com/nba/odds/philadelphia-76ers)
 Friday, Nov. 6
 7:30 p.m. ET
@@ -104,20 +104,20 @@ Jun 5th
 8:30 PM on ABC
 •
 115.9k bets
-Josh Hart MORE assists than Stephon Castle
-+208 (1.1u)
-Copy Bet
-Jalen Brunson OR Julian Champagnie 6+ 3pm
-+660 (0.25u)
-Copy Bet
 OG Anunoby OR Julian Champagnie 5+ 3PM
 +330 (0.25u)
 Copy Bet
 OG Anunoby OR Julian Champagnie 4+ 3s
 +120 (0.55u)
 Copy Bet
+Jalen Brunson OR Julian Champagnie 6+ 3pm
++660 (0.25u)
+Copy Bet
+Josh Hart MORE assists than Stephon Castle
++208 (1.1u)
+Copy Bet
 See All
-## Raptors vs. Bucks
+## Raptors vs Bucks Over/Under Pick
 [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)](https://www.actionnetwork.com/nba/odds/toronto-raptors)
 Friday, Nov. 6
 8 p.m. ET
@@ -137,7 +137,7 @@ _**If you want more picks for this game, read our full[Raptors vs Bucks betting 
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Thunder vs. Grizzlies
+## Thunder vs Grizzlies Player Prop Bet
 [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)](https://www.actionnetwork.com/nba/odds/oklahoma-city-thunder)
 Friday, Nov. 6
 8 p.m. ET
@@ -156,7 +156,7 @@ _**If you want more picks for this game, read our full[Thunder vs Grizzlies bett
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Timberwolves vs. Pelicans
+## Timberwolves vs Pelicans Moneyline Prediction
 [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)](https://www.actionnetwork.com/nba/odds/minnesota-timberwolves)
 Friday, Nov. 6
 8 p.m. ET
@@ -176,7 +176,7 @@ _**If you want more picks for this game, read our full[Timberwolves vs Pelicans 
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Trail Blazers vs. Lakers
+## Trail Blazers vs Lakers ATS Pick
 [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)](https://www.actionnetwork.com/nba/odds/portland-trail-blazers)
 Friday, Nov. 6
 10 p.m. ET
@@ -197,7 +197,7 @@ _**If you want more picks for this game, read our full[Blazers vs Lakers betting
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-## Spurs vs. Kings
+Spurs vs Kings Spread Bet
 [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)](https://www.actionnetwork.com/nba/odds/san-antonio-spurs)
 Friday, Nov. 6
 10 p.m. ET
@@ -216,7 +216,7 @@ _**If you want more picks for this game, read our full[Spurs vs Kings betting pr
 | [![Washington Wizards Logo](https://static.sprtactn.co/teamlogos/nba/100/wsh.png)![Atlanta Hawks Logo](https://static.sprtactn.co/teamlogos/nba/100/atl.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#1)  | [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)![Charlotte Hornets Logo](https://images.actionnetwork.com/blog/2023/07/charlotte-hornets-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#2)  | [![Philadelphia 76ers Logo](https://images.actionnetwork.com/blog/2023/07/philadelphia-76ers-logo-updated-2023.png)![Cleveland Cavaliers Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-cleveland-cavaliers.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#3)  | [![Toronto Raptors Logo](https://static.sprtactn.co/teamlogos/nba/100/tor.png)![Milwaukee Bucks Logo](https://static.sprtactn.co/teamlogos/nba/100/mil.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#4)  | [![Oklahoma City Thunder Logo](https://static.sprtactn.co/teamlogos/nba/100/okc.png)![Memphis Grizzlies Logo](https://static.sprtactn.co/teamlogos/nba/100/mem.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#5)  | [![Minnesota Timberwolves Logo](https://images.actionnetwork.com/blog/2023/08/nba-updated-logo-minnesota-timberwolves.png)![New Orleans Pelicans Logo](https://images.actionnetwork.com/blog/2023/07/new-orleans-pelicans-logo-updated-2023.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#6)  | [![Portland Trail Blazers Logo](https://assets.actionnetwork.com/312105_Blazers.png)![Los Angeles Lakers Logo](https://static.sprtactn.co/teamlogos/nba/100/lal.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#7)  | [![San Antonio Spurs Logo](https://static.sprtactn.co/teamlogos/nba/100/sas.png)![Sacramento Kings Logo](https://assets.actionnetwork.com/348219_kings.png)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6#8)  |  
 | --- | --- | --- | --- | --- | --- | --- | --- |  
 * * *
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)[](https://twitter.com/intent/tweet?text=NBA%20Cup%20Predictions%3A%20Spreads%2C%20Totals%20%26%20Prop%20Bets%20for%20Friday%2C%20November%206&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)[](https://twitter.com/intent/tweet?text=NBA%20Cup%20Predictions%20for%20Hawks%20vs%20Wizards%2C%20Hornets%20vs%20Celtics%2C%20More%20\(Friday%2C%20Nov.%206\)&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6)
 ![Author Profile](https://images.actionnetwork.com/blog/2018/09/mattmoore-1-Matt-Moore-2-1-100x100.png)
 About the Author
 Matt Moore has been covering the NBA since 2007, working for AOL FanHouse, NBC Sports and CBS Sports before joining Action Network at its inception.
@@ -226,80 +226,78 @@ Last 30d:
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-NBA Predictions for Friday, November 6
+NBA Cup Predictions for Friday, November 6
 Right Arrow
-Wizards vs. Hawks
+Wizards vs Hawks Total Prediction
 Right Arrow
-Celtics vs. Hornets
+Celtics vs Hornets Player Prop Pick
 Right Arrow
-76ers vs. Cavaliers
+76ers vs Cavaliers Moneyline Bet
 Right Arrow
-Raptors vs. Bucks
+Raptors vs Bucks Over/Under Pick
 Right Arrow
-Thunder vs. Grizzlies
+Thunder vs Grizzlies Player Prop Bet
 Right Arrow
-Timberwolves vs. Pelicans
+Timberwolves vs Pelicans Moneyline Prediction
 Right Arrow
-Trail Blazers vs. Lakers
-Right Arrow
-Spurs vs. Kings
+Trail Blazers vs Lakers ATS Pick
 ### Top Stories
-[![NBA Best Bets for Cavaliers vs 76ers, Lakers vs Trail Blazers, More \(Friday, November 6\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets1162626.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-cavaliers-vs-76ers-lakers-vs-trail-blazers-more-friday-november-6)
+[![NBA Best Bets for Sixers vs Cavs, Blazers vs Lakers, More \(Friday, Nov. 6\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets1162626.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-cavaliers-vs-76ers-lakers-vs-trail-blazers-more-friday-november-6)
 NBA
-[NBA Best Bets for Cavaliers vs 76ers, Lakers vs Trail Blazers, More (Friday, November 6)](https://www.actionnetwork.com/nba/nba-best-bets-for-cavaliers-vs-76ers-lakers-vs-trail-blazers-more-friday-november-6)
+[NBA Best Bets for Sixers vs Cavs, Blazers vs Lakers, More (Friday, Nov. 6)](https://www.actionnetwork.com/nba/nba-best-bets-for-cavaliers-vs-76ers-lakers-vs-trail-blazers-more-friday-november-6)
 Action Network Staff
-5 hours ago
+2 hours ago
 [![NBA Prop Ladders, Escalator Picks for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/queen_sabonis_110626.jpg)](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-friday-november-6)
 NBA
 [NBA Prop Ladders, Escalator Picks for Friday, November 6](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-friday-november-6)
 Ameer Tyree
-1 hour ago
+3 hours ago
 [![NBA Cup Player Props for James Harden, Cooper Flagg on Friday, November 6](https://images.actionnetwork.com/blog/2026/11/NBAProps-1162026.jpg)](https://www.actionnetwork.com/nba/nba-cup-player-props-for-friday-november-6)
 NBA
 [NBA Cup Player Props for James Harden, Cooper Flagg on Friday, November 6](https://www.actionnetwork.com/nba/nba-cup-player-props-for-friday-november-6)
 Action Network Staff
-3 hours ago
-[![76ers vs Cavaliers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/76ers-Cavs-1162026.jpg)](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-cleveland-cavaliers-prediction-pick-nba-odds-friday-november-6)
+5 hours ago
+[![76ers vs Cavaliers Predictions, Odds, NBA Cup Picks: Fear The Beard](https://images.actionnetwork.com/blog/2026/11/76ers-Cavs-1162026.jpg)](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-cleveland-cavaliers-prediction-pick-nba-odds-friday-november-6)
 NBA
-[76ers vs Cavaliers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-cleveland-cavaliers-prediction-pick-nba-odds-friday-november-6)
+[76ers vs Cavaliers Predictions, Odds, NBA Cup Picks: Fear The Beard](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-cleveland-cavaliers-prediction-pick-nba-odds-friday-november-6)
 Jim Turvey
-6 hours ago
-[![Celtics vs Hornets Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Celtics-vs-Hornets-11_6_26.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
+22 mins ago
+[![Celtics vs Hornets Prediction, Odds, NBA Cup Picks: Trust Brandon Miller Tonight](https://images.actionnetwork.com/blog/2026/11/Celtics-vs-Hornets-11_6_26.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
 NBA
-[Celtics vs Hornets Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
+[Celtics vs Hornets Prediction, Odds, NBA Cup Picks: Trust Brandon Miller Tonight](https://www.actionnetwork.com/nba/boston-celtics-vs-charlotte-hornets-prediction-pick-odds-nba-cup-friday-november-6)
 Matt Moore
-6 hours ago
+1 hour ago
+[![Hawks vs Wizards Predictions, Odds, NBA Cup Picks: Fade This Fraudulent Washington Team](https://images.actionnetwork.com/blog/2026/11/Hawks-vs-Wizards-11.6.26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
+NBA
+[Hawks vs Wizards Predictions, Odds, NBA Cup Picks: Fade This Fraudulent Washington Team](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
+Matt Moore
+46 mins ago
+[![Raptors vs Bucks Predictions, Odds, NBA Cup Picks: Don’t Fall for the Trap](https://images.actionnetwork.com/blog/2026/11/Raptors-vs-Bucks-11_6_25-1.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
+NBA
+[Raptors vs Bucks Predictions, Odds, NBA Cup Picks: Don’t Fall for the Trap](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
+Matt Moore
+11 mins ago
 [![NBA Prop Bet for Jaylen Brown on Friday, November 6](https://images.actionnetwork.com/blog/2026/11/NBA-PropBomb-Pick-11_6.jpg)](https://www.actionnetwork.com/nba/nba-prop-bet-for-jaylen-brown-on-friday-november-6)
 NBA
 [NBA Prop Bet for Jaylen Brown on Friday, November 6](https://www.actionnetwork.com/nba/nba-prop-bet-for-jaylen-brown-on-friday-november-6)
 Prop Bomb
-10 mins ago
-[![Hawks vs Wizards Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Hawks-vs-Wizards-11.6.26.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
+2 hours ago
+[![Thunder vs Grizzlies Predictions, Odds, Picks: OKC Desperately Needs Secondary Scoring](https://images.actionnetwork.com/blog/2026/11/Thunder-Grizzlies-1162026.jpg)](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-memphis-grizzlies-prediction-pick-nba-odds-friday-november-6)
 NBA
-[Hawks vs Wizards Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/atlanta-hawks-vs-washington-wizards-prediction-pick-nba-cup-odds-friday-november-6)
-Matt Moore
-7 hours ago
-[![Raptors vs Bucks Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Raptors-vs-Bucks-11_6_25-1.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
-NBA
-[Raptors vs Bucks Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/toronto-raptors-vs-milwaukee-bucks-prediction-pick-odds-nba-cup-friday-november-6)
-Matt Moore
-6 hours ago
-[![Thunder vs Grizzlies Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Thunder-Grizzlies-1162026.jpg)](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-memphis-grizzlies-prediction-pick-nba-odds-friday-november-6)
-NBA
-[Thunder vs Grizzlies Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-memphis-grizzlies-prediction-pick-nba-odds-friday-november-6)
+[Thunder vs Grizzlies Predictions, Odds, Picks: OKC Desperately Needs Secondary Scoring](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-memphis-grizzlies-prediction-pick-nba-odds-friday-november-6)
 Joe Dellera
-7 hours ago
+34 mins ago
 [![Trail Blazers vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Blazers-Lakers-1162026.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-los-angeles-lakers-prediction-pick-nba-odds-friday-november-6)
 NBA
 [Trail Blazers vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-los-angeles-lakers-prediction-pick-nba-odds-friday-november-6)
 Joe Dellera
-4 hours ago
+6 hours ago
 [![Timberwolves vs Pelicans Prediction, Pick, NBA Cup Odds for Friday, November 6](https://images.actionnetwork.com/blog/2026/11/Wolves-Pelicans-1162026.jpg)](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-new-orleans-pelicans-prediction-pick-nba-odds-friday-november-6)
 NBA
 [Timberwolves vs Pelicans Prediction, Pick, NBA Cup Odds for Friday, November 6](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-new-orleans-pelicans-prediction-pick-nba-odds-friday-november-6)
 Matt Moore
-6 hours ago
+8 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d7088969-3fa3-43a8-9d07-3fb257195a90&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2fc9e112-a496-45d4-8e7a-389c3246f693&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=56&tw_session_id=1793998996504-914668345&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d7088969-3fa3-43a8-9d07-3fb257195a90&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2fc9e112-a496-45d4-8e7a-389c3246f693&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=56&tw_session_id=1793998996504-914668345&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3720cc47-3740-4468-be8c-46d19d4c9ad9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2fc9e112-a496-45d4-8e7a-389c3246f693&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7450&tw_iframe_status=0&tw_pid_src=2&tw_session_count=56&tw_session_id=1793998996504-914668345&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3720cc47-3740-4468-be8c-46d19d4c9ad9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2fc9e112-a496-45d4-8e7a-389c3246f693&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7450&tw_iframe_status=0&tw_pid_src=2&tw_session_count=56&tw_session_id=1793998996504-914668345&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2487d2ce-80ac-4250-a651-4f6b78416caa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2487d2ce-80ac-4250-a651-4f6b78416caa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ff61c1b6-3d0a-4733-b065-4ac9b004632c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7404&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ff61c1b6-3d0a-4733-b065-4ac9b004632c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=85b5ca27-0dbd-4b05-b590-aabe9198927d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-predictions-spreads-totals-prop-bets-for-friday-november-6&tw_engaged_ms=7404&tw_iframe_status=0&tw_pid_src=2&tw_session_count=58&tw_session_id=1794006189771-340632271&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

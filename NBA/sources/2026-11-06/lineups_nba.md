@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-06 16:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-06 18:05 ET -->
 
 
 ---
@@ -1579,7 +1579,7 @@ Brooklyn is allowing the fifth-most assists per game to point guards (10.8), alo
 
 ![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)P.J. Washington
 
-[![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)[O/U Points Scored (vs. UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)
+[![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)[O/U Points Scored (vs. UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)[13.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660591/underdog_sc)
 
 [![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660591/underdog_sc)[O/U Total Rebounds (vs. UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660591/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660591/underdog_sc)
 
@@ -2803,9 +2803,9 @@ Let’s dive into three player props that catch our eye for Saturday’s action-
 
 [![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660588/polymarket_sc)[O/U Points Scored (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_points/660588/polymarket_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660588/polymarket_sc)
 
-[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)[O/U Total Rebounds (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)[O/U Total Rebounds (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660588/polymarket_sc)
 
-[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/polymarket_sc)[O/U Total Assists (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/polymarket_sc)
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/underdog_sc)[O/U Total Assists (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/660588/underdog_sc)
 
 [![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/onyeka_okongwu/player_135190 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2821,7 +2821,7 @@ Okongwu now has an exponentially better scenario in front of him Saturday agains
 
 ![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Cedric Coward
 
-[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/polymarket_sc)[O/U Points Scored (vs. OKC)](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/polymarket_sc)
+[![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/underdog_sc)[O/U Points Scored (vs. OKC)](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/underdog_sc)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/660592/underdog_sc)
 
 [![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660592/kalshi_sc)[O/U Total Rebounds (vs. OKC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660592/kalshi_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/660592/kalshi_sc)
 
