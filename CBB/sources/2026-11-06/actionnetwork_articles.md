@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-06 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-06 17:03 ET -->
 
 
 ---
@@ -141,22 +141,22 @@ Nov 5, 2026 EST
 NCAAB
 [Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/Middle-Tennessee-vs-Kansas-11_6_26.jpg)](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/murray11626.jpg)](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 Sean Paul
-5 hours ago
+11 hours ago
 [![Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/crowe_jason_110526.jpg)](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 Ryan Minion
-4 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -164,7 +164,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7e145583-5bc4-4c86-a840-60323e8fa056&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=816e2f4b-56d6-4d80-9f76-4e5a7a896084&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7e145583-5bc4-4c86-a840-60323e8fa056&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=816e2f4b-56d6-4d80-9f76-4e5a7a896084&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f4624512-7701-457f-924b-9c093ef5c90a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=816e2f4b-56d6-4d80-9f76-4e5a7a896084&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=7664&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f4624512-7701-457f-924b-9c093ef5c90a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=816e2f4b-56d6-4d80-9f76-4e5a7a896084&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=7664&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=64f4a0be-e0bd-44e8-9a1c-ebc5ba6e35a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc6e519-8364-4fbc-895b-6736e6613041&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=64f4a0be-e0bd-44e8-9a1c-ebc5ba6e35a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc6e519-8364-4fbc-895b-6736e6613041&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=03bbb458-793c-4beb-98c0-cecdffe15986&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc6e519-8364-4fbc-895b-6736e6613041&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=7712&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=03bbb458-793c-4beb-98c0-cecdffe15986&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc6e519-8364-4fbc-895b-6736e6613041&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-6&tw_engaged_ms=7712&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -275,7 +275,7 @@ Today
 /
 8:00 PM on TNT
 •
-6.1k bets
+13.7k bets
 Under 146.5
 -109 (0.55u)
 ![Bally Bet NY](https://assets.actionnetwork.com/328278_White.png)
@@ -283,6 +283,25 @@ Bet Now
 Copy Bet
 ✍️ https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6?utm_source=action_app&utm_medium=app&utm_campaign=article_share https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6?utm_source=action_app&utm_medium=app&utm_campaign=article_share
 More
+2-way parlay
++947
+Copy Bet
+![Real Madrid Team Icon](https://assets.actionnetwork.com/100x100/20093-16.png)
+RMA -2.5
++180
+RMA @ VCF
+•
+Nov 7th
+/
+3:00 PM
+![Barcelona Team Icon](https://assets.actionnetwork.com/100x100/20076-13.png)
+BAR -1.5
++196
+BAR @ ATM
+•
+Nov 8th
+/
+3:00 PM
 [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)[](https://twitter.com/intent/tweet?text=How%20to%20Bet%20UConn%20vs%20Michigan%3A%20NCAAB%20Picks%20for%20Friday%E2%80%99s%20Marquee%20Matchup&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
 ![Author Profile](https://images.actionnetwork.com/blog/2019/11/check-100x100.png)
 About the Author
@@ -305,27 +324,27 @@ UConn vs Michigan: Over/Under Pick
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, November 6](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-6)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/BraylonMullins-1162026.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/Middle-Tennessee-vs-Kansas-11_6_26.jpg)](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/murray11626.jpg)](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 Sean Paul
-5 hours ago
+11 hours ago
 [![Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/crowe_jason_110526.jpg)](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 Ryan Minion
-4 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -333,7 +352,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1a1de113-4689-430c-872a-43472fde6ab0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53916aff-6a9c-4de0-ae35-d8eb78148edd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1a1de113-4689-430c-872a-43472fde6ab0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53916aff-6a9c-4de0-ae35-d8eb78148edd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6c07335a-a1bc-4afc-a022-fb4e559d40d7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53916aff-6a9c-4de0-ae35-d8eb78148edd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=7715&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6c07335a-a1bc-4afc-a022-fb4e559d40d7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=53916aff-6a9c-4de0-ae35-d8eb78148edd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=7715&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b71a6e0d-8784-43a5-9215-32f3faa3a623&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b889481e-5052-44b6-b02e-a01ded1fec80&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b71a6e0d-8784-43a5-9215-32f3faa3a623&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b889481e-5052-44b6-b02e-a01ded1fec80&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=72e75f05-8d85-44a2-8bee-a1bb2750b663&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b889481e-5052-44b6-b02e-a01ded1fec80&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=7853&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=72e75f05-8d85-44a2-8bee-a1bb2750b663&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b889481e-5052-44b6-b02e-a01ded1fec80&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6&tw_engaged_ms=7853&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -456,7 +475,7 @@ How To Watch Michigan vs UConn
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, November 6](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-6)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/Dan-Hurley-uconn.png)](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
 NCAAB
 [How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
@@ -466,17 +485,17 @@ Nov 5, 2026 EST
 NCAAB
 [Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/murray11626.jpg)](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 Sean Paul
-5 hours ago
+11 hours ago
 [![Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/crowe_jason_110526.jpg)](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 Ryan Minion
-4 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -484,7 +503,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2005b0d3-befd-486c-8a8a-c8f378bb5a14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cb4a529d-e35d-4f44-9f9b-178856b99ad9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2005b0d3-befd-486c-8a8a-c8f378bb5a14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cb4a529d-e35d-4f44-9f9b-178856b99ad9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d52e5205-7479-4a58-be1c-7edcfdf123b9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cb4a529d-e35d-4f44-9f9b-178856b99ad9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d52e5205-7479-4a58-be1c-7edcfdf123b9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cb4a529d-e35d-4f44-9f9b-178856b99ad9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0551873c-15c9-450b-bfea-5e31803c7d5d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1326f233-dbbf-42f7-9add-64c979105088&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0551873c-15c9-450b-bfea-5e31803c7d5d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1326f233-dbbf-42f7-9add-64c979105088&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=e2783b8e-560b-425a-b670-a86d04e2bd20&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1326f233-dbbf-42f7-9add-64c979105088&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7771&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=e2783b8e-560b-425a-b670-a86d04e2bd20&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1326f233-dbbf-42f7-9add-64c979105088&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7771&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -567,15 +586,15 @@ May 19th
 Dodgers Over 14.5 Total Bases 
 -110 (1.35u)
 Copy Bet
-![UCLA](https://static.sprtactn.co/teamlogos/ncaaf/100/ucla.png)
-![MINN](https://static.sprtactn.co/teamlogos/ncaaf/100/min.png)
-UCLA @ Minnesota Picks
-Nov 7th
+![TCU](https://static.sprtactn.co/teamlogos/ncaaf/100/tcud.png)
+![ARI](https://static.sprtactn.co/teamlogos/ncaaf/100/ari.png)
+TCU @ Arizona Picks
+Today
 /
-12:00 PM on FOX
+10:15 PM on ESPN
 •
-13.7k bets
-MINN +6.5
+19.5k bets
+TCU +9.5
 -110 (1.1u)
 Copy Bet
 See All
@@ -627,7 +646,7 @@ How To Watch Middle Tenn vs Kansas
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, November 6](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-6)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/Dan-Hurley-uconn.png)](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
 NCAAB
 [How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
@@ -637,17 +656,17 @@ Nov 5, 2026 EST
 NCAAB
 [Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/murray11626.jpg)](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 Sean Paul
-5 hours ago
+11 hours ago
 [![Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/crowe_jason_110526.jpg)](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 Ryan Minion
-4 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -655,7 +674,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2ae984c0-2519-4cad-9a28-4724ad41b70d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09495a0c-e48d-4c32-b18b-95f1fc8fce69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2ae984c0-2519-4cad-9a28-4724ad41b70d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09495a0c-e48d-4c32-b18b-95f1fc8fce69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3c643090-269a-48e7-aa5c-8dd66949f2ce&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09495a0c-e48d-4c32-b18b-95f1fc8fce69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3c643090-269a-48e7-aa5c-8dd66949f2ce&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09495a0c-e48d-4c32-b18b-95f1fc8fce69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e18ee831-403b-494d-875f-400ffdfd6e97&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bd42e411-8eb3-4796-a530-5fdcdde97ecc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e18ee831-403b-494d-875f-400ffdfd6e97&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bd42e411-8eb3-4796-a530-5fdcdde97ecc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dd4af9e8-4866-4a24-bb9f-221518c90388&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bd42e411-8eb3-4796-a530-5fdcdde97ecc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7712&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dd4af9e8-4866-4a24-bb9f-221518c90388&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bd42e411-8eb3-4796-a530-5fdcdde97ecc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmiddle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7712&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -775,7 +794,7 @@ How To Watch UMASS vs Boston Col
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, November 6](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-6)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/Dan-Hurley-uconn.png)](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
 NCAAB
 [How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
@@ -785,17 +804,17 @@ Nov 5, 2026 EST
 NCAAB
 [Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/Middle-Tennessee-vs-Kansas-11_6_26.jpg)](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/crowe_jason_110526.jpg)](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Missouri vs Saint Louis Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/missouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6)
 Ryan Minion
-4 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -803,7 +822,7 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d6c97488-e8b9-4055-ae5a-e00e9c23fb18&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93c083f5-c655-4af8-a447-9366155cdac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d6c97488-e8b9-4055-ae5a-e00e9c23fb18&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93c083f5-c655-4af8-a447-9366155cdac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0b23d0a3-d12e-43f5-9fcf-045b365d5877&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93c083f5-c655-4af8-a447-9366155cdac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7760&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0b23d0a3-d12e-43f5-9fcf-045b365d5877&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=93c083f5-c655-4af8-a447-9366155cdac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7760&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e5f0c836-5771-4727-880c-fbbb74fca19b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c6f2ceb4-1238-48eb-b0e5-75d42896562c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e5f0c836-5771-4727-880c-fbbb74fca19b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c6f2ceb4-1238-48eb-b0e5-75d42896562c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9f00d716-8e2a-4adb-9429-f27b3ef4a732&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c6f2ceb4-1238-48eb-b0e5-75d42896562c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7740&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9f00d716-8e2a-4adb-9429-f27b3ef4a732&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c6f2ceb4-1238-48eb-b0e5-75d42896562c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fumass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7740&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -872,6 +891,18 @@ The Tigers are absolutely loaded from top to bottom and are a fringe top-25 team
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
 Last 30d: 238-251-8 (+0.4u)
 Follow
+![MIA](https://static.sprtactn.co/teamlogos/ncaaf/100/mfl.png)
+![ND](https://static.sprtactn.co/teamlogos/ncaaf/100/nd.png)
+Miami (FL) @ Notre Dame Picks
+Nov 7th
+/
+7:30 PM on NBC/Peacock
+•
+33.0k bets
+C.Barkate o55.5 Rec Yds
+-117 (1.17u)
+Copy Bet
+https://discord.gg/SmZ2cDdBc
 ![UK](https://static.sprtactn.co/teamlogos/ncaaf/100/kend.png)
 ![TENN](https://assets.actionnetwork.com/660608_tennessee.png)
 Kentucky @ Tennessee Picks
@@ -879,23 +910,11 @@ Nov 7th
 /
 6:15 PM on ESPN
 •
-17.6k bets
+21.3k bets
 TENN -210
 -210 (2.1u)
 Copy Bet
 #ACTION ✍️✍️ https://discord.gg/UDnAAPvG9
-![BAMA](https://assets.actionnetwork.com/332311_bama.png)
-![LSU](https://static.sprtactn.co/teamlogos/ncaaf/100/lsu.png)
-Alabama @ LSU Picks
-Nov 7th
-/
-3:30 PM on ABC
-•
-17.4k bets
-BAMA +6
--115 (1.15u)
-Copy Bet
-https://discord.gg/UDnAAPvG9
 See All
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/slu.png)
 ### Saint Louis Basketball
@@ -952,7 +971,7 @@ How To Watch Missouri vs Saint Louis
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, November 6](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-6)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/Dan-Hurley-uconn.png)](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
 NCAAB
 [How to Bet UConn vs Michigan: NCAAB Picks for Friday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-uconn-vs-michigan-ncaab-picks-friday-november-6)
@@ -962,17 +981,17 @@ Nov 5, 2026 EST
 NCAAB
 [Michigan vs UConn Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-uconn-huskies-prediction-pick-odds-college-basketball-friday-november-6)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/Middle-Tennessee-vs-Kansas-11_6_26.jpg)](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [Middle Tennessee vs Kansas Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/middle-tennessee-blue-raiders-vs-kansas-jayhawks-prediction-pick-odds-college-basketball-friday-november-6)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://images.actionnetwork.com/blog/2026/11/murray11626.jpg)](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 NCAAB
 [UMass vs Boston College Prediction, Pick, College Basketball Odds for Friday, Nov. 6](https://www.actionnetwork.com/ncaab/umass-minutemen-vs-boston-college-eagles-prediction-pick-odds-college-basketball-friday-november-6)
 Sean Paul
-5 hours ago
+11 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -980,5 +999,5 @@ Action Network Staff
 Oct 29, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e4b6f9c8-63ad-4cf3-a377-c8101fb61151&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f20067c-bb7b-4ef9-82be-44ec74df2212&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e4b6f9c8-63ad-4cf3-a377-c8101fb61151&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f20067c-bb7b-4ef9-82be-44ec74df2212&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=88adffc1-db35-425b-833f-993b61c5d1c4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f20067c-bb7b-4ef9-82be-44ec74df2212&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7718&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=88adffc1-db35-425b-833f-993b61c5d1c4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f20067c-bb7b-4ef9-82be-44ec74df2212&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7718&tw_iframe_status=0&tw_pid_src=2&tw_session_count=55&tw_session_id=1793981029059-300342375&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c1966021-1b6a-4fee-af3d-4bf34a3ebf87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=977061b9-e123-401c-9825-f1982568012b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c1966021-1b6a-4fee-af3d-4bf34a3ebf87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=977061b9-e123-401c-9825-f1982568012b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2d38b74c-9a63-4b1d-a854-4b806208dbfd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=977061b9-e123-401c-9825-f1982568012b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7685&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2d38b74c-9a63-4b1d-a854-4b806208dbfd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=977061b9-e123-401c-9825-f1982568012b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmissouri-tigers-vs-saint-louis-billikens-prediction-pick-odds-college-basketball-friday-november-6&tw_engaged_ms=7685&tw_iframe_status=0&tw_pid_src=2&tw_session_count=57&tw_session_id=1794002457759-28586332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

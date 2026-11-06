@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-06 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-06 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,100 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Oregon](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon.png?v=16)
+[Tyrone Riley](https://www.rotowire.com/cbasketball/player/tyrone-riley-23761)
+Sidelined with hand injury
+**G** Oregon
+Hand
+November 6, 2026
+Riley suffered a hand injury in Monday's opener and will be reevaluated in four weeks, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118814800990048562) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Jamichael Stillwell](https://www.rotowire.com/cbasketball/player/jamichael-stillwell-24562)
+Will be eligible Tuesday
+**F** Texas Tech
+Foot
+November 6, 2026
+Stillwell has been granted a temporary restraining order and is eligible to play for Texas Tech against Illinois on Tuesday, [Red Raider Sports](https://x.com/RedRaiderSports/status/2118799959948435587) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Southern Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Southern-Illinois.png?v=16)
+[Damien Mayo](https://www.rotowire.com/cbasketball/player/damien-mayo-21191)
+Granted eligibility Friday
+**G** Southern Illinois
+November 6, 2026
+Mayo was granted temporary eligibility Friday and is available for Friday's game against UMKC, according to [Jason Scheer of 247Sports.com](https://x.com/jasonscheer/status/2118786755675762826).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Georgetown](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgetown.png?v=16)
+[Vyctorius Miller](https://www.rotowire.com/cbasketball/player/vyctorius-miller-23685)
+Not playing Saturday
+**G** Georgetown
+Hand
+November 6, 2026
+Miller (hand) will not play this Saturday against Maryland, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118777893534707976) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Cade Tyson](https://www.rotowire.com/cbasketball/player/cade-tyson-20936)
+Remains ineligible this season
+**F** Minnesota
+Not Injury Related
+November 6, 2026
+Tyson will remain ineligible to play this season after a federal Court of Appeals decision Friday, [Andy Greder of the Twin Cities Pioneer Press](https://x.com/andygreder/status/2118757370914635847) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=16)
+[Kanye Clary](https://www.rotowire.com/cbasketball/player/kanye-clary-20443)
+Game-time call for Friday
+**G** Oklahoma State
+Groin
+November 6, 2026
+Clary (groin) is a game-time call for Friday's game against Queens University, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118767018090316077) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Nebraska](https://assets.rotowire.com/images/teamlogo/cbasketball/Nebraska.png?v=16)
+[Sam Orme](https://www.rotowire.com/cbasketball/player/sam-orme-25231)
+Game-time call for Saturday
+**F** Nebraska
+Hamstring
+November 6, 2026
+Orme (hamstring) will be a game-time decision for Saturday's game against Providence at Mohegan Sun, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2118763079789940975) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DePaul](https://assets.rotowire.com/images/teamlogo/cbasketball/DePaul.png?v=16)
+[Kruz McClure](https://www.rotowire.com/cbasketball/player/kruz-mcclure-26310)
+Shines off bench Thursday
+**G** DePaul
+November 6, 2026
+McClure racked up 18 points (3-10 FG, 3-8 3Pt, 9-10 FT), two rebounds, one assist and one block across 29 minutes during Thursday's 82-80 victory over South Florida.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DePaul](https://assets.rotowire.com/images/teamlogo/cbasketball/DePaul.png?v=16)
+[Noah Meeusen](https://www.rotowire.com/cbasketball/player/noah-meeusen-26232)
+Productive in first start
+**G** DePaul
+November 6, 2026
+Meeusen finished Thursday's 82-80 win over South Florida with 13 points (4-9 FG, 3-7 3Pt, 2-3 FT), three rebounds, seven assists, one block and one steal in 36 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Creighton](https://assets.rotowire.com/images/teamlogo/cbasketball/Creighton.png?v=16)
+[Wes Enis](https://www.rotowire.com/cbasketball/player/wes-enis-25809)
+High volume continues Thursday
+**G** Creighton
+November 6, 2026
+Enis accumulated 16 points (6-19 FG, 3-14 3Pt, 1-1 FT), three rebounds, three assists and three steals over 24 minutes during Thursday's 83-55 win over Le Moyne.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Creighton](https://assets.rotowire.com/images/teamlogo/cbasketball/Creighton.png?v=16)
+[Jackson McAndrew](https://www.rotowire.com/cbasketball/player/jackson-mcandrew-23618)
+Scores 19 in win
+**F** Creighton
+November 6, 2026
+McAndrew finished Thursday's 83-55 win over Le Moyne with 19 points (7-10 FG, 5-8 3Pt) and five rebounds over 23 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![SMU](https://assets.rotowire.com/images/teamlogo/cbasketball/SMU.png?v=16)
 [Oziyah Sellers](https://www.rotowire.com/cbasketball/player/oziyah-sellers-20560)
 Scores 21 points Thursday
@@ -116,95 +210,6 @@ Leads Utes off bench
 **G** Utah
 November 6, 2026
 Chatman contributed 15 points (4-6 FG, 3-5 3Pt, 4-4 FT), one rebound and one steal over 22 minutes during Thursday's 67-57 win over Towson.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
-[Josiah Moseley](https://www.rotowire.com/cbasketball/player/josiah-moseley-23640)
-Just misses double double
-**F** Texas Tech
-November 6, 2026
-Moseley ended Thursday's 76-58 win over Bethune-Cookman with 12 points (5-8 FG, 0-1 3Pt, 2-2 FT), nine rebounds and one steal in 21 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
-[Dra Gibbs-Lawhorn](https://www.rotowire.com/cbasketball/player/dra-gibbs-lawhorn-22362)
-Leads Red Raiders with 25 points
-**G** Texas Tech
-November 6, 2026
-Gibbs-Lawhorn amassed 25 points (7-14 FG, 3-7 3Pt, 8-11 FT), three rebounds, two assists and one block over 32 minutes during Thursday's 76-58 win over Bethune-Cookman.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Pittsburgh](https://assets.rotowire.com/images/teamlogo/cbasketball/Pittsburgh.png?v=16)
-[Timofei Rudovskii](https://www.rotowire.com/cbasketball/player/timofei-rudovskii-26470)
-Available going forward
-**F** Pittsburgh
-November 6, 2026
-Rudovskii (undisclosed) was a healthy scratch Thursday but is available going forward, according to [Nathan Schivins of On3.com](https://www.on3.com/sites/pitt-sports-news/news/pitt-guard-out-vs-buffalo-injured-late-in-win-over-rider/).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![San Diego State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Diego-State.png?v=16)
-[Nick Anderson](https://www.rotowire.com/cbasketball/player/nick-anderson-24823)
-Will miss entire season
-**G** San Diego State
-Knee
-November 6, 2026
-Anderson is out for the entire 2026-27 season due to a knee injury, [Andy Patton of SI.com](https://www.si.com/college/arizona/basketball/how-to-watch-arizona-san-diego-state-exhibition-live-stream-tipoff-time) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
-[Isaiah Johnson](https://www.rotowire.com/cbasketball/player/isaiah-johnson-26216)
-Provides 15 points
-**G** Texas
-November 6, 2026
-Johnson supplied 15 points (4-7 FG, 2-4 3Pt, 5-5 FT) and two steals over 22 minutes during Thursday's 98-50 victory over Gardner-Webb.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
-[Marcus Spears Jr.](https://www.rotowire.com/cbasketball/player/marcus-spears-jr-28082)
-Puts in 13 points
-**F** Texas
-November 6, 2026
-Spears Jr. totaled 13 points (5-7 FG, 3-4 FT), four rebounds, one assist and two steals in 21 minutes during Thursday's 98-50 victory over Gardner-Webb.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Cincinnati](https://assets.rotowire.com/images/teamlogo/cbasketball/Cincinnati.png?v=16)
-[Amani Lyles](https://www.rotowire.com/cbasketball/player/amani-lyles-21760)
-Leads Bearcat Bench
-**F** Cincinnati
-November 5, 2026
-Lyles ended Thursday's 81-64 win over Green Bay with 14 points (7-10 FG, 0-1 3Pt), four rebounds, three assists, one block and one steal across 22 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Cincinnati](https://assets.rotowire.com/images/teamlogo/cbasketball/Cincinnati.png?v=16)
-[MJ Collins](https://www.rotowire.com/cbasketball/player/mj-collins-20509)
-Solid start to season
-**G** Cincinnati
-November 5, 2026
-Collins logged 14 points (4-8 FG, 3-6 3Pt, 3-4 FT), three rebounds, six assists and two steals over 34 minutes during Thursday's 81-64 victory over Green Bay.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Cincinnati](https://assets.rotowire.com/images/teamlogo/cbasketball/Cincinnati.png?v=16)
-[Myles Colvin](https://www.rotowire.com/cbasketball/player/myles-colvin-22485)
-Drains six triples in 28-point effort
-**G** Cincinnati
-November 5, 2026
-Colvin finished Thursday's 81-64 win over Green Bay with 28 points (9-16 FG, 6-11 3Pt, 4-5 FT), six rebounds, one assist, two blocks and one steal across 34 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-State.png?v=16)
-[Ronald Jessamy](https://www.rotowire.com/cbasketball/player/ronald-jessamy-27945)
-Has team-high 19 points in win
-**F** Texas State
-November 5, 2026
-Jessamy supplied 19 points (7-8 FG, 5-7 FT), eight rebounds and two steals across 15 minutes during Thursday's 135-66 win over Howard Payne.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
-[Alex Condon](https://www.rotowire.com/cbasketball/player/alex-condon-22218)
-Racks up double-double
-**F** Florida
-November 5, 2026
-Condon contributed 12 points (3-6 FG, 1-2 3Pt, 5-6 FT), 12 rebounds, eight assists and three blocks over 25 minutes during Thursday's 88-57 victory over Jacksonville.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
