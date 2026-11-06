@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-06 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-06 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,43 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-ruled-out-friday-537879)
+**F** Toronto Raptors
+Groin
+November 6, 2026
+Barnes (adductor) is listed as out for Friday's game against Milwaukee, [Michael Grange of Sportsnet.ca](https://x.com/michaelgrange/status/2118849768822825261?a=LjnzWjUgfqNpqQKJnn0&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Immanuel Quickley](https://www.rotowire.com/basketball/player/immanuel-quickley-5201)[Ruled out for Friday](https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-ruled-out-for-friday-537878)
+**G** Toronto Raptors
+Hamstring
+November 6, 2026
+Quickley (hamstring) won't play Friday in Milwaukee, [Michael Grange of Sportsnet.ca](https://x.com/michaelgrange/status/2118849768822825261?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454)[Starting versus Boston](https://www.rotowire.com/basketball/headlines/grayson-allen-news-starting-versus-boston-537877)
+**G** Charlotte Hornets
+November 6, 2026
+Allen will [start](https://x.com/hornets/status/2118848406873669920?a=C0QtsZHMKgJXnnnr8ko&s=20) in Friday's game against the Celtics
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Ryan Kalkbrenner](https://www.rotowire.com/basketball/player/ryan-kalkbrenner-6567)[Starting sans Diabate](https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-news-starting-sans-diabate-537876)
+**C** Charlotte Hornets
+November 6, 2026
+Kalkbrenner is [starting](https://x.com/hornets/status/2118848406873669920?a=7xd8ikueeWBx-TL0R3w&s=20) Friday's game against Boston.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)[Starting Friday](https://www.rotowire.com/basketball/headlines/deandre-ayton-news-starting-friday-537875)
+**C** Washington Wizards
+November 6, 2026
+Ayton will [start](https://x.com/WashWizards/status/2118848433909907470) Friday against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)[Good to go Friday](https://www.rotowire.com/basketball/headlines/max-christie-news-good-to-go-friday-537874)
 **G** Dallas Mavericks
@@ -164,46 +201,6 @@ Capela (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Repo
 Achilles
 November 6, 2026
 Ingram (Achilles) has progressed to full contact basketball activities, per [NBA writer Justin Russo](https://x.com/FlyByKnite/status/2118799549427060834).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Zach Collins](https://www.rotowire.com/basketball/player/zach-collins-4162)[Battling illness](https://www.rotowire.com/basketball/headlines/zach-collins-injury-battling-illness-537854)
-**C** Chicago Bulls
-Illness
-November 6, 2026
-Collins didn't practice Friday due to an illness, per [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2118769568113938738).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Added to injury report](https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-added-to-injury-report-537853)
-**G** Dallas Mavericks
-Illness
-November 6, 2026
-Irving (illness) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-06_02_00PM.pdf) for Friday's game against Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Closing in on season debut](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-closing-in-on-season-debut-537852)
-**C** Chicago Bulls
-Hamstring
-November 6, 2026
-Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per [Joel Lorenzi of The Athletic](https://x.com/JoelXLorenzi/status/2118768166021349543).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)[Re-evaluated in two weeks](https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-re-evaluated-in-two-weeks-537851)
-**C** Utah Jazz
-Foot
-November 6, 2026
-Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz [announced](https://x.com/utahjazz/status/2118769131290038708) Friday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/dennis-schroder-injury-ruled-out-friday-537850)
-**G** Charlotte Hornets
-Thigh
-November 6, 2026
-Schroder (thigh) is [out](https://x.com/HornetsPR/status/2118763495907045852) for Friday's game versus Boston.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6 | fetched: 2026-11-06 18:34 ET -->
+<!-- source: https://www.fanduel.com/research/76ers-vs-cavaliers-prediction-picks-prop-bets-nov-6 | fetched: 2026-11-06 18:50 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -29,7 +29,7 @@ _Please note lines are subject to change throughout the day after this article i
 ### [Cavaliers Moneyline (+120)](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Moneyline
 Cleveland Cavaliers
-+118
++134
 Nov 7 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Odds/lines subject to change
 The [Cleveland Cavaliers](https://sportsbook.fanduel.com/teams/nba/cleveland-cavaliers/roster) haven’t gotten off to the start they envisioned, but Friday’s home matchup against the [Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/roster) presents an opportunity to turn things around.
@@ -39,7 +39,7 @@ Philadelphia’s impressive start makes this a challenging matchup, but the Cava
 ### [Joel Embiid 10+ Rebounds (+102)](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 8+ Rebounds
 [Joel Embiid](https://sportsbook.fanduel.com/teams/nba/roster/joel-embiid-2251)
--260
+-265
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-cleveland-cavaliers-36279171)
 Odds/lines subject to change
@@ -88,7 +88,7 @@ NBA DFS picks and best plays for Friday's main slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-fanduel-friday-nov-6)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 6](https://www.fanduel.com/research/nba-props-today-prop-bets-friday-nov-6)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Friday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-friday-nov-6)
 
