@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-06 11:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-06 16:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -174,7 +174,6 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Payton Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard) | G | Nov 6 | Day-To-Day | Nov 5: Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports. |
 | [Devin Carter](https://www.espn.com/nba/player/_/id/4433188/devin-carter) | G | Nov 6 | Out | Nov 4: Carter (illness) practiced with the G League's Maine Celtics on Wednesday. |
 
 ![Image 27: Brooklyn Nets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&h=40&w=40)Brooklyn Nets
@@ -190,8 +189,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Nov 6 | Day-To-Day | Nov 5: Schroder (thigh) is questionable for Friday's game against the Celtics. |
-| [Moussa Diabate](https://www.espn.com/nba/player/_/id/4433249/moussa-diabate) | F | Nov 6 | Day-To-Day | Nov 5: Diabate (quadriceps) is questionable for Friday's game against the Celtics. |
+| [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Nov 9 | Out | Nov 6: Schroder (thigh) is out for Friday's game versus Boston. |
+| [Moussa Diabate](https://www.espn.com/nba/player/_/id/4433249/moussa-diabate) | F | Nov 9 | Out | Nov 6: Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Nov 9 | Out | Nov 5: Knueppel (hamstring) is out for Friday's game against the Celtics. |
 | [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 9 | Out | Nov 4: The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday. |
 
@@ -199,8 +198,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 8 | Out | Nov 5: Claxton (hamstring) was recalled from the G League's Windy City Bulls on Thursday. |
-| [Zach Collins](https://www.espn.com/nba/player/_/id/4066650/zach-collins) | F | Nov 8 | Day-To-Day | Nov 4: Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-105 loss to the Knicks, finishing with three points (1-4 FG, 0-2 3Pt, 1-1 FT), three assists, one rebound and one steal across 14 minutes. |
+| [Zach Collins](https://www.espn.com/nba/player/_/id/4066650/zach-collins) | F | Nov 8 | Day-To-Day | Nov 6: Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network. |
+| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 8 | Out | Nov 6: Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic. |
 | [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 8 | Day-To-Day | Nov 4: Smith (hand) won't return to Wednesday's game against the Knicks. |
 
 ![Image 30: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
@@ -216,6 +215,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Nov 6 | Day-To-Day | Nov 6: Irving (illness) is probable for Friday's game against Utah. |
 | [Sergio de Larrea](https://www.espn.com/nba/player/_/id/5279129/sergio-de-larrea) | F | Nov 12 | Out | Nov 5: De Larrea (knee) is out for Friday's game against Utah. |
 | [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Nov 6 | Out | Nov 5: Aldama (knee) is probable to suit up for Friday's game against the Jazz. |
 | [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Nov 6 | Day-To-Day | Nov 5: Christie (hip) is probable for Friday's game against the Jazz. |
@@ -295,7 +295,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Terrence Shannon Jr.](https://www.espn.com/nba/player/_/id/4432847/terrence-shannon-jr) | G | Nov 6 | Day-To-Day | Nov 5: Shannon (hip) is questionable for Friday's game against New Orleans. |
+| [Terrence Shannon Jr.](https://www.espn.com/nba/player/_/id/4432847/terrence-shannon-jr) | G | Nov 8 | Out | Nov 6: Shannon (hip) has been ruled out for Friday's game against New Orleans. |
 | [Anthony Edwards](https://www.espn.com/nba/player/_/id/4594268/anthony-edwards) | G | Dec 21 | Out | Oct 29: Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced. |
 | [Donte DiVincenzo](https://www.espn.com/nba/player/_/id/3934673/donte-divincenzo) | G | Apr 2 | Out | Oct 5: DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports. |
 
@@ -304,7 +304,6 @@ NBA TV
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 9 | Out | Nov 5: Missi (knee) is out for Friday's game against Minnesota. |
-| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 6 | Day-To-Day | Nov 5: Murphy (knee) is probable for Friday's game against Minnesota. |
 
 ![Image 43: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
 
@@ -376,7 +375,10 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 6 | Day-To-Day | Nov 5: Barnes (groin) is questionable to play Friday's game against the Bucks. |
+| [Jakob Poeltl](https://www.espn.com/nba/player/_/id/3134908/jakob-poeltl) | C | Nov 6 | Day-To-Day | Nov 6: Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee. |
+| [Immanuel Quickley](https://www.espn.com/nba/player/_/id/4395724/immanuel-quickley) | G | Nov 6 | Day-To-Day | Nov 6: Quickley (hamstring) is questionable for Friday against the Bucks. |
+| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 6 | Day-To-Day | Nov 6: Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports. |
+| [Kyle Anderson](https://www.espn.com/nba/player/_/id/2993874/kyle-anderson) | F | Nov 6 | Day-To-Day | Nov 6: Anderson is questionable for Friday against the Bucks due to illness. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 3: Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 9 | Out | Nov 2: Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return. |
 
@@ -384,7 +386,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 13 | Out | Nov 3: Nurkic (foot) is out for Wednesday's game against the Pelicans. |
+| [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
 | [Trey Alexander](https://www.espn.com/nba/player/_/id/4433268/trey-alexander) | G | Nov 6 | Out | Oct 24: Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. |
 
@@ -400,35 +402,45 @@ NBA TV
 
 Data Provided by Rotowire
 
-Sponsored Headlines
+You May Like
 
-[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Don’t Cook Thanksgiving On Pans That Could Poison Your Food Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Don’t Cook Thanksgiving On Pans That Could Poison Your Food")
+[](https://tracking.smartestlifestyletrends.com/6539da33-6ebb-41e6-856c-e327f641016d)[This Is the Advent Calendar Kids Will Be Asking For 24 days of adorable mystery dumplings and surprises they'll be excited to open.Claus' Keepsales | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.smartestlifestyletrends.com/6539da33-6ebb-41e6-856c-e327f641016d "This Is the Advent Calendar Kids Will Be Asking For")
 
-[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Quit Poisoning Your Family One Pan At A Time Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Quit Poisoning Your Family One Pan At A Time")
+[](https://tracking.smartestlifestyletrends.com/6539da33-6ebb-41e6-856c-e327f641016d)[Don't Let Your Kids Miss Out on This Advent Calendar 24 days of adorable mystery dumplings and surprises they'll be excited to open.Claus' Keepsales | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.smartestlifestyletrends.com/6539da33-6ebb-41e6-856c-e327f641016d "Don't Let Your Kids Miss Out on This Advent Calendar")
 
-[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
+[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/this-myth-about-ms-needs-to-be-debunked)[Misconceptions About Multiple Sclerosis GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/this-myth-about-ms-needs-to-be-debunked "Misconceptions About Multiple Sclerosis")
 
-[](https://try.takeprofittrader.com/5daycourse-t)[Learn the Rules of Day Trading Before You Start A free 5 day email course for beginners: how day trading works, one short lesson a day. No card needed. Test and PRO accounts are simulated.Take Profit Trader | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://try.takeprofittrader.com/5daycourse-t "Learn the Rules of Day Trading Before You Start")
+[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/living-well-with-multiple-sclerosis-5-healthy-lifestyle-tweaks)[Living Well With Multiple Sclerosis: 5 Tips GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/living-well-with-multiple-sclerosis-5-healthy-lifestyle-tweaks "Living Well With Multiple Sclerosis: 5 Tips")
 
-[](https://hello.reliancemedicareadvisors.com/)[Reliance Finds Medicare Plans.Reliance Medicare Advisors. Find Answers & Speak to a Licensed Sales Agent Today.Reliance Medicare Helpline | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://hello.reliancemedicareadvisors.com/ "Reliance Finds Medicare Plans.")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
+
+[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+
+[](https://go.thickerstrands.com/fdd5509b-f849-4a23-bad8-dec54ae90fa4)[Amazon Shoppers Say This Spray Has Hair Growing Like Weeds Consumer Times | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://go.thickerstrands.com/fdd5509b-f849-4a23-bad8-dec54ae90fa4 "Amazon Shoppers Say This Spray Has Hair Growing Like Weeds")
+
+[](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Click Here](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
+
+[](https://silentroomreview.com/)[Constant ear ringing tied to a common morning habit Heart.Health | News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://silentroomreview.com/ "Constant ear ringing tied to a common morning habit")
 
 ### NBA News
 
-[![Image 54: Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/ss_20261106_103611947_3727589643/ss_20261106_103611947_3727589643.jpg) ## Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach * 17m](https://www.espn.com/video/clip/_/id/50399783/stephen-reacts-doc-rivers-saying-giannis-not-easy-coach)
+[![Image 54: Fantasy adds, NBA bets to make for Friday: Cam Spencer, Saddiq Bey stand out](https://a.espncdn.com/combiner/i?img=/photo/2026/1106/r1742052_1296x729_16-9.jpg&w=220) ## Fantasy adds, NBA bets to make for Friday: Cam Spencer, Saddiq Bey stand out Andre Snellings breaks down Friday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 2h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50390776/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 55: LeBron James vs. Cleveland: Top performances against Cavaliers](https://a.espncdn.com/combiner/i?img=/photo/2024/1029/r1407704_608x342_16-9.jpg&w=220) ## LeBron James vs. Cleveland: Top performances against Cavaliers James holds a 9-4 record with averages of 29.6 points, 8.5 rebounds and 6.9 assists per game on 54% shooting in Cleveland as an opponent. * 1h * Anthony Gharib](https://www.espn.com/nba/story/_/id/42078248/lebron-james-notable-games-opponent-cleveland)
+[![Image 55: Miami Heat unveil 'A Night in Vice City' jerseys ahead of GTA VI release](https://a.espncdn.com/combiner/i?img=/photo/2026/1002/r1725012_608x342_16-9.jpg&w=220) ## Miami Heat unveil 'A Night in Vice City' jerseys ahead of GTA VI release With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before. * 3h * ESPN staff](https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game)
 
-[![Image 56: Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit](https://a.espncdn.com/combiner/i?img=/photo/2024/0906/r1382887_1296x729_16-9.jpg&w=220) ## Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit Former Bucks coach Doc Rivers said Giannis Antetokounmpo "didn't want to be the bad guy" when he was trying to seek a trade out of Milwaukee last season. * 6m](https://www.espn.com/nba/story/_/id/50399276/doc-rivers-giannis-antetokounmpo-bucks-exit-coaching-star)
+[![Image 56: Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/ss_20261106_103611947_3727589643/ss_20261106_103611947_3727589643.jpg) ## Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach * 4h](https://www.espn.com/video/clip/_/id/50399783/stephen-reacts-doc-rivers-saying-giannis-not-easy-coach)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://usapopularhealth.com/ml)[Memory Experts Recommend These Ingredients to Maintain Everyday Mental Clarity Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://usapopularhealth.com/ml "Memory Experts Recommend These Ingredients to Maintain Everyday Mental Clarity")
+[](https://usapopularhealth.com/ml)[This Popular Drink Is Now Linked to Better Mental Clarity for 9 Out Of 10 Seniors Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://usapopularhealth.com/ml "This Popular Drink Is Now Linked to Better Mental Clarity for 9 Out Of 10 Seniors")
 
-[](https://usapopularhealth.com/ml)[Memory Experts Have Now Tied This 1 Boxed Cereal to Mental Focus Routines Cognitive Wellness Journal | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://usapopularhealth.com/ml "Memory Experts Have Now Tied This 1 Boxed Cereal to Mental Focus Routines")
+[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
+
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
 ![Image 57: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
