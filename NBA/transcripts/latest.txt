@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-05 | updated 2026-11-05 18:53 ET
+# NBA transcripts | 2026-11-05 | updated 2026-11-05 20:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 14 files in NBA/transcripts/2026-11-05:
 NBA/transcripts/2026-11-05/-cwl7wx_ucM_PickDawgz_NBA_Picks_Thursday_11_5_26_Jay_s_NBA_Jam_Session.txt
@@ -17,7 +17,7 @@ NBA/transcripts/2026-11-05/zL55nJEOIX0_FantasyAlarm_NBA_DFS_DraftKings_Preview_T
 NBA/transcripts/2026-11-05/zb3sWiQ1opw_PickDawgz_Miami_Heat_vs_Golden_State_Warriors_Predictions_11_5_26_NBA_Best_Bets.txt
 
 # this run:
-UPCOMING ActionNetwork mGpthaCxruA Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 11/05/26 11:00PM)
+NOCAPS  ActionNetwork FO4rLsLwTKY Top NBA Sides, Totals & Player Props for Thursday! | Buckets  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
