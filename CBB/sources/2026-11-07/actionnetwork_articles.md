@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-07 15:16 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-07 17:02 ET -->
 
 
 ---
@@ -119,17 +119,17 @@ Providence vs. Nebraska
 NCAAB
 [San Diego State vs Colorado Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7)
 Sean Paul
-10 hours ago
+TODAY / 5:00 AM EST
 [![Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Providence-vs-Nebraska-11.7.26.jpg)](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 Ryan Minion
-8 hours ago
+10 hours ago
 [![Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Maryland-Georgetown-NCAAB-11_7.jpg)](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 Colby Marchio
-7 hours ago
+9 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -147,7 +147,7 @@ Charlie Disturco
 Oct 23, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=850156a0-aea9-46f4-94b5-a75ccfc3209e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5c5f4fcc-f0a6-459e-91a8-ac9318768d5a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=850156a0-aea9-46f4-94b5-a75ccfc3209e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5c5f4fcc-f0a6-459e-91a8-ac9318768d5a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4cc95a0d-6a08-47e8-b3fd-549e14333616&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5c5f4fcc-f0a6-459e-91a8-ac9318768d5a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-7&tw_engaged_ms=7668&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4cc95a0d-6a08-47e8-b3fd-549e14333616&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5c5f4fcc-f0a6-459e-91a8-ac9318768d5a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-7&tw_engaged_ms=7668&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -257,17 +257,17 @@ How To Watch Colorado vs San Diego State
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Saturday, November 7](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-7)
 Action Network Staff
-7 hours ago
+9 hours ago
 [![Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Providence-vs-Nebraska-11.7.26.jpg)](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 Ryan Minion
-8 hours ago
+10 hours ago
 [![Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Maryland-Georgetown-NCAAB-11_7.jpg)](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 Colby Marchio
-7 hours ago
+9 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -285,7 +285,7 @@ Charlie Disturco
 Oct 23, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=608e8f8c-1e84-4f1d-8697-882d1ccc0d98&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ad54d774-e9c2-43ec-aa96-195d0f0b6ed3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=608e8f8c-1e84-4f1d-8697-882d1ccc0d98&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ad54d774-e9c2-43ec-aa96-195d0f0b6ed3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62111f5a-6111-4d24-b562-487ce2f3dd2a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ad54d774-e9c2-43ec-aa96-195d0f0b6ed3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7714&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62111f5a-6111-4d24-b562-487ce2f3dd2a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ad54d774-e9c2-43ec-aa96-195d0f0b6ed3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7714&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c437f226-d18f-45f2-83bb-4aa0721fb44f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88f56f95-8425-4c59-89f7-ced17fde3da5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c437f226-d18f-45f2-83bb-4aa0721fb44f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88f56f95-8425-4c59-89f7-ced17fde3da5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=596cee3a-9930-4106-90de-9ede12b9ca98&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88f56f95-8425-4c59-89f7-ced17fde3da5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7742&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=596cee3a-9930-4106-90de-9ede12b9ca98&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88f56f95-8425-4c59-89f7-ced17fde3da5&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7742&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -354,7 +354,7 @@ In just seven minutes on the floor, Saunders scored eight points, including two 
 This squad boasts incredible depth and athleticism and will really be put to the test on Saturday night versus Fred Hoiberg’s [Cornhuskers](https://www.actionnetwork.com/ncaab/odds/nebraska-cornhuskers) following their Sweet 16 appearance in last year’s NCAA Tournament.
 ![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-Last 30d: 237-258-8 (-9.1u)
+Last 30d: 238-258-8 (-8.1u)
 Follow
 ![MIA](https://static.sprtactn.co/teamlogos/ncaaf/100/mfl.png)
 ![ND](https://static.sprtactn.co/teamlogos/ncaaf/100/nd.png)
@@ -363,15 +363,15 @@ Today
 /
 7:30 PM on NBC/Peacock
 •
-76.4k bets
-ND -6.5
--125 (1.25u)
-Copy Bet
-https://discord.gg/PcUQMC9uQ 
+82.9k bets
 C.Barkate o55.5 Rec Yds
 -117 (1.17u)
 Copy Bet
 https://discord.gg/SmZ2cDdBc
+ND -6.5
+-125 (1.25u)
+Copy Bet
+https://discord.gg/PcUQMC9uQ 
 ![BAMA](https://assets.actionnetwork.com/332311_bama.png)
 ![LSU](https://static.sprtactn.co/teamlogos/ncaaf/100/lsu.png)
 Alabama @ LSU Picks
@@ -379,19 +379,23 @@ Today
 /
 3:30 PM on ABC
 •
-74.7k bets
-R.Coleman-Williams o22.5 Longest Reception
--114 (1.14u)
-Copy Bet
-https://discord.gg/PcUQMC9uQ
+82.6k bets
 BAMA +200
 +200 (1u)
 Copy Bet
 https://discord.gg/E83JDF5uu #ROLLTIDE 🐘🐘
+R.Coleman-Williams o49.5 Rec Yds
+-112 (1.12u)
+Copy Bet
+https://discord.gg/UDnAAPvG9
 BAMA +6
 -115 (1.15u)
 Copy Bet
 https://discord.gg/UDnAAPvG9
+R.Coleman-Williams o22.5 Longest Reception
+-114 (1.14u)
+Copy Bet
+https://discord.gg/PcUQMC9uQ
 See All
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/neb.png)
 ### Nebraska Basketball
@@ -454,17 +458,17 @@ How To Watch Providence vs Nebraska
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Saturday, November 7](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-7)
 Action Network Staff
-7 hours ago
+9 hours ago
 [![San Diego State vs Colorado Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/SDSU-Colorado-NCAAB-11_7.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [San Diego State vs Colorado Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7)
 Sean Paul
-10 hours ago
+TODAY / 5:00 AM EST
 [![Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Maryland-Georgetown-NCAAB-11_7.jpg)](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Maryland vs Georgetown Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/maryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7)
 Colby Marchio
-7 hours ago
+9 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -482,7 +486,7 @@ Charlie Disturco
 Oct 23, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=580a2226-889b-403c-ab85-aaeb9d6f40b9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f46f506-87a8-496e-ba46-01466fc3e7af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=580a2226-889b-403c-ab85-aaeb9d6f40b9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f46f506-87a8-496e-ba46-01466fc3e7af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1ac8925c-0c6e-4e80-bdb3-307f7c34b2f5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f46f506-87a8-496e-ba46-01466fc3e7af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7659&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1ac8925c-0c6e-4e80-bdb3-307f7c34b2f5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5f46f506-87a8-496e-ba46-01466fc3e7af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7659&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f3ccb603-3880-4f78-a6bb-5722269d34a8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eff72708-46ea-4c1e-859a-f9c63f5f4f4d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f3ccb603-3880-4f78-a6bb-5722269d34a8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eff72708-46ea-4c1e-859a-f9c63f5f4f4d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d435cd29-b35d-49b0-aec5-695c0184d68c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eff72708-46ea-4c1e-859a-f9c63f5f4f4d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7692&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d435cd29-b35d-49b0-aec5-695c0184d68c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eff72708-46ea-4c1e-859a-f9c63f5f4f4d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fprovidence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7692&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -587,17 +591,17 @@ How To Watch Maryland vs Georgetown
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Saturday, November 7](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-7)
 Action Network Staff
-7 hours ago
+9 hours ago
 [![San Diego State vs Colorado Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/SDSU-Colorado-NCAAB-11_7.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [San Diego State vs Colorado Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-colorado-buffaloes-prediction-pick-odds-college-basketball-saturday-november-7)
 Sean Paul
-10 hours ago
+TODAY / 5:00 AM EST
 [![Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://images.actionnetwork.com/blog/2026/11/Providence-vs-Nebraska-11.7.26.jpg)](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 NCAAB
 [Providence vs Nebraska Prediction, Pick, College Basketball Odds for Saturday, Nov. 7](https://www.actionnetwork.com/ncaab/providence-friars-vs-nebraska-cornhuskers-prediction-pick-odds-college-basketball-saturday-november-7)
 Ryan Minion
-8 hours ago
+10 hours ago
 [![College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://images.actionnetwork.com/blog/2026/10/Underwood-James.png)](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
 NCAAB
 [College Basketball Futures: 2026-27 Title, Final Four & Conference Picks](https://www.actionnetwork.com/ncaab/college-basketball-futures-2026-27-title-final-four-conference-picks)
@@ -615,5 +619,5 @@ Charlie Disturco
 Oct 23, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bf6943db-cc60-47b2-aaea-3d18984e843f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ee2839e9-7389-46d6-9512-e7e6f8f5f80a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bf6943db-cc60-47b2-aaea-3d18984e843f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ee2839e9-7389-46d6-9512-e7e6f8f5f80a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8f8c11fe-90a5-4d01-b757-12d97da2e987&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ee2839e9-7389-46d6-9512-e7e6f8f5f80a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7740&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8f8c11fe-90a5-4d01-b757-12d97da2e987&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ee2839e9-7389-46d6-9512-e7e6f8f5f80a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7740&tw_iframe_status=0&tw_pid_src=2&tw_session_count=61&tw_session_id=1794082467078-76047016&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4d56b086-b36f-46b9-bf77-59258347725c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22a667e4-d545-45d6-8b88-c8a00ad9c26f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4d56b086-b36f-46b9-bf77-59258347725c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22a667e4-d545-45d6-8b88-c8a00ad9c26f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0945e641-6a91-4b75-a74d-512ea8172911&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22a667e4-d545-45d6-8b88-c8a00ad9c26f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7745&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0945e641-6a91-4b75-a74d-512ea8172911&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22a667e4-d545-45d6-8b88-c8a00ad9c26f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmaryland-terrapins-vs-georgetown-hoyas-prediction-pick-odds-college-basketball-saturday-november-7&tw_engaged_ms=7745&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

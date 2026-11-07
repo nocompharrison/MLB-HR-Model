@@ -1,10 +1,8 @@
-<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-07 15:16 ET -->
+<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-07 17:02 ET -->
 
 Title: COLLEGEBASKETBALL Injury Report and Status 2026-27
 
 URL Source: https://www.cbssports.com/college-basketball/injuries/
-
-Published Time: Mon, 10 Feb 2025 11:55:53 GMT
 
 Markdown Content:
 site: media | arena: collegebasketball | pageType: | section: | slug: | sport: collegebasketball | route: player_injuries_by_team | 6-keys: media/spln/collegebasketball/reg/free/injury 
@@ -665,9 +663,9 @@ Shows & Podcasts
     *   [![Image 204: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
     *   [![Image 205: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
 
-[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=476671)
+[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=342550)
 
-[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=476671&login=confirmed)
+[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=342550&login=confirmed)
 
 Fantasy & Games
 
