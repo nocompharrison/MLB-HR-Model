@@ -1,4 +1,4 @@
-# CFB transcripts | week 10 | updated 2026-11-07 08:30 ET
+# CFB transcripts | week 10 | updated 2026-11-07 08:34 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 24 files in CFB/transcripts/week-10:
 CFB/transcripts/week-10/039tKotpZfs_SportsLine_College_Football_PICKS_and_BETS_for_Wednesday.txt
