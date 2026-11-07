@@ -1,10 +1,10 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-07 11:17 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-07 15:16 ET -->
 
 
 ---
 ## SOURCE: https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026
 
-Title: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7 | FanDuel Research
+Title: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7
 
 URL Source: https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026
 
@@ -349,7 +349,7 @@ START YOUR OWN WINNING STREAK
 
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
 
-12h
+15h
 
 Subscribe to our newsletter
 
@@ -361,9 +361,9 @@ I confirm I am 21+ years of age
 
 ![Image 55: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdcaa8376b04f8d315bf2e93d15441d39e22e459b-3840x2160.jpg%3Frect%3D0%2C130%2C3840%2C1900%26w%3D964%26h%3D477&w=1920&q=100)
 
-The Louisville Cardinals (1-0) hit the court against the Morehead State Eagles (1-1) on November 7, 2026.
+The Morehead State Eagles (1-1) face the Louisville Cardinals (1-0) at KFC Yum! Center on November 7, 2026.
 
-Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 
 ## Louisville vs. Morehead State Game Info and Odds
 
@@ -373,27 +373,27 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
 *   **Location:** Louisville, Kentucky
 *   **Arena:** KFC Yum! Center
 
-Take a look at these betting insights and trends before you wager on Saturday's Louisville-Morehead State spread (Louisville -36.5) or total (151.5 points).
+Before you decide to wager on Louisville-Morehead State matchup (in which Louisville is a 38.5-point favorite and the total has been set at 151.5 points), below are some betting insights and trends for Saturday's game.
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
 ## Louisville vs. Morehead State: ATS Betting Stats and Trends
 
-*   Louisville went 17-18-0 ATS last season.
-*   Morehead State won 18 games against the spread last year, while failing to cover 12 times.
-*   The Cardinals owned a better record against the spread when playing at home (10-7-0) than they did in road games (3-8-0) last season.
-*   The Eagles' winning percentage against the spread at home last season was .700 (7-3-0). Away, it was .588 (10-7-0).
+*   Louisville covered 17 times in 35 matchups with a spread last season.
+*   Morehead State covered 18 times in 30 chances against the spread last season.
+*   The Cardinals owned a better record against the spread at home (10-7-0) than they did in away games (3-8-0) last season.
+*   Last year, the Eagles were 7-3-0 at home against the spread (.700 winning percentage). On the road, they were 10-7-0 ATS (.588).
 
 ## Louisville vs. Morehead State Head-to-Head Comparison
 
-*   Last season, Louisville was 18th-best in the nation offensively (84.3 points scored per game) and ranked 135th on defense (72.5 points conceded).
-*   Last season, Louisville was 25th-best in college basketball in rebounds (36 per game) and 133rd in rebounds conceded (30.5).
-*   Last season Louisville was 22nd-best in the country in assists with 17.1 per game.
-*   Last season, Louisville was 243rd in the nation in turnovers committed (11.5 per game) and 158th in turnovers forced (11.2).
-*   Morehead State posted 75.3 points per game (188th-ranked in college basketball) last season, while allowing 74.7 points per contest (207th-ranked).
-*   Last year Morehead State grabbed 33.3 rebounds per game (103rd-ranked in college basketball) and gave up 30.5 rebounds per contest (133rd-ranked).
-*   Morehead State dished out 13.4 dimes per game, which ranked them 211th in college basketball.
-*   Morehead State committed 11.3 turnovers per game (224th-ranked in college basketball). It forced 10.4 turnovers per contest (238th-ranked).
+*   On offense, Louisville was the 18th-best team in the country (84.3 points per game) last season. Defensively, it was 135th (72.5 points allowed per game).
+*   Louisville was the 25th-best squad in the country in rebounds per game (36) and ranked 133rd in rebounds conceded (30.5) last year.
+*   With 17.1 assists per game, Louisville was 22nd-best in the nation last year.
+*   In terms of turnovers, Louisville was 243rd in the country in committing them (11.5 per game) last year. It was 158th in forcing them (11.2 per game).
+*   Last year Morehead State averaged 75.3 points per game (188th-ranked in college basketball) and ceded 74.7 points per contest (207th-ranked).
+*   With 33.3 boards per game, Morehead State ranked 103rd in the nation. It ceded 30.5 rebounds per contest, which ranked 133rd in college basketball.
+*   Last season Morehead State ranked 211th in college basketball in assists, averaging 13.4 per game.
+*   Last year Morehead State committed 11.3 turnovers per game (224th-ranked in college basketball) and forced 10.4 turnovers per contest (238th-ranked).
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
@@ -415,41 +415,41 @@ I confirm I am 21+ years of age
 
 ### Recent Stories
 
+[Alabama vs. LSU Prediction: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/alabama-lsu-prediction-picks-props-best-bets-nov-7)
+
+1h
+
+![Image 58: Alabama vs. LSU Prediction: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc6181cd1e2cc6a8628e488bf57673a90fa3ea926-3188x2128.jpg%3Frect%3D0%2C200%2C3188%2C1728%26w%3D332%26h%3D180&w=330&q=100)
+
 [College Football Prop Bets Today: 4 Best Player Props for Saturday, Nov. 7](https://fanduel.com/research/college-football-props-today-saturday-nov-7)
 
-2h
+6h
 
-![Image 58: College Football Prop Bets Today: 4 Best Player Props for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2095718e07f3879364be9ca877c2381eafc9ee78-3391x2261.jpg%3Frect%3D0%2C15%2C2977%2C1614%26w%3D332%26h%3D180&w=330&q=100)
+![Image 59: College Football Prop Bets Today: 4 Best Player Props for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2095718e07f3879364be9ca877c2381eafc9ee78-3391x2261.jpg%3Frect%3D0%2C15%2C2977%2C1614%26w%3D332%26h%3D180&w=330&q=100)
 
 [FanDuel College Football Promo Today: Choose Your Reward (Nov. 7)](https://fanduel.com/research/fanduel-college-football-promo-today-choose-your-reward-nov-7)
 
-2h
+6h
 
-![Image 59: FanDuel College Football Promo Today: Choose Your Reward (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb35d370a2fa58dfbd257559e0cc7830ec5d28aaf-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
+![Image 60: FanDuel College Football Promo Today: Choose Your Reward (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb35d370a2fa58dfbd257559e0cc7830ec5d28aaf-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
 
 [College Football Picks Today: 3 Predictions and Best Bets for Saturday (Nov. 7)](https://fanduel.com/research/college-football-picks-today-3-predictions-best-bets-saturday-nov-7)
 
-2h
+6h
 
-![Image 60: College Football Picks Today: 3 Predictions and Best Bets for Saturday (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5cbbaf2f0206ea79dd047859c1f38a3e9d80e538-6782x4521.jpg%3Frect%3D0%2C240%2C6329%2C3431%26w%3D332%26h%3D180&w=330&q=100)
+![Image 61: College Football Picks Today: 3 Predictions and Best Bets for Saturday (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5cbbaf2f0206ea79dd047859c1f38a3e9d80e538-6782x4521.jpg%3Frect%3D0%2C240%2C6329%2C3431%26w%3D332%26h%3D180&w=330&q=100)
 
 [FanDuel NBA Promo: 50% Profit Boost for Today (Nov. 7)](https://fanduel.com/research/fanduel-nba-promo-50-profit-boost-for-today-nov-7)
 
-2h
+6h
 
-![Image 61: FanDuel NBA Promo: 50% Profit Boost for Today (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8e1843bbfe9df0839a33f816d4e3650f1361e8bc-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
+![Image 62: FanDuel NBA Promo: 50% Profit Boost for Today (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8e1843bbfe9df0839a33f816d4e3650f1361e8bc-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
 
 [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7)
 
-3h
+7h
 
-![Image 62: NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0644bec03982215dc199f7599547546ba1c63d01-3651x2434.jpg%3Frect%3D68%2C0%2C3578%2C1940%26w%3D332%26h%3D180&w=330&q=100)
-
-[BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/byu-vs-utah-prediction-today-picks-props-best-bets-nov-7)
-
-3h
-
-![Image 63: BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd21d09608d4b9e4a08ac8ed4f8151fe21a98826-4356x2904.jpg%3Frect%3D429%2C0%2C3897%2C2113%26w%3D332%26h%3D180&w=330&q=100)
+![Image 63: NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0644bec03982215dc199f7599547546ba1c63d01-3651x2434.jpg%3Frect%3D68%2C0%2C3578%2C1940%26w%3D332%26h%3D180&w=330&q=100)
 
 Show more news
 
@@ -457,21 +457,21 @@ Show more news
 
 [View All](https://sportsbook.fanduel.com/promotions)
 
-![Image 64: Bet $5, Get $50 for 4 days](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
+![Image 64: NFL Rewards Club Sunday Spectacular ](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F24%2F2026-09-24_16-27-36_600x300.jpg&w=1920&q=100)
 
-[More Info](https://md.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
+[More Info](https://ia.sportsbook.fanduel.com/promotions?promoCode=RCNFLLOYTST1106)[Learn More](https://www.fanduel.com/rewards-club/sunday-spectacular)
 
-![Image 65: Faceoff Daily Discounts Week](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F15%2F2026-09-15_16-00-25_600x300.jpg&w=1920&q=100)
+![Image 65: CFB Choose Your Own Reward](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F2%2F2026-11-02_19-52-32_600x300.jpg&w=1920&q=100)
 
-[More Info](https://nc.sportsbook.fanduel.com/promotions?promoCode=FODENTRYWEEK1102)[PLAY NOW](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
+[More Info](https://ks.sportsbook.fanduel.com/promotions?promoCode=LOCFBCYR110726)[Log in](https://sportsbook.fanduel.com/login)
 
-![Image 66: CFB Choose Your Own Reward](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F2%2F2026-11-02_19-52-32_600x300.jpg&w=1920&q=100)
+![Image 66: Faceoff Daily Discounts Week](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F15%2F2026-09-15_16-00-25_600x300.jpg&w=1920&q=100)
 
-[More Info](https://la.sportsbook.fanduel.com/promotions?promoCode=LOCFBCYR110726)[Log in](https://sportsbook.fanduel.com/login)
+[More Info](https://in.sportsbook.fanduel.com/promotions?promoCode=FODENTRYWEEK1102)[PLAY NOW](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
 
 ![Image 67: College Football Pick’em](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F1%2F2026-09-01_15-14-26_600x300.jpg&w=1920&q=100)
 
-[More Info](https://co.sportsbook.fanduel.com/promotions?promoCode=CFBPICKFTPST1104)[Play Free](https://account.sportsbook.fanduel.com/free/contest/collegefootballpickem)
+[More Info](https://il.sportsbook.fanduel.com/promotions?promoCode=CFBPICKFTPST1104)[Play Free](https://account.sportsbook.fanduel.com/free/contest/collegefootballpickem)
 
 *   ### ABOUT
 
@@ -651,10 +651,10 @@ START YOUR OWN WINNING STREAK
 # Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-12h
+15h
 Link
 ![Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fac5e303bae2b076b0922c46885fd976c9df71172-8640x5760.jpg%3Frect%3D0%2C743%2C8640%2C4275%26w%3D964%26h%3D477&w=1920&q=100)
-The Gonzaga Bulldogs (1-0) hit the court against the New Mexico State Aggies (1-0) on November 7, 2026.
+The New Mexico State Aggies (1-0) face the Gonzaga Bulldogs (1-0) at McCarthey Athletic Center on November 7, 2026.
 Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Gonzaga vs. New Mexico State Game Info and Odds
   * **Game day:** Saturday, November 7, 2026
@@ -664,47 +664,47 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
   * **Arena:** McCarthey Athletic Center
 
 
-Before you bet on Saturday's Gonzaga-New Mexico State spread (Gonzaga -27.5) or over/under (152.5 points), take a look at the betting insights and trends below.
+Here's a look at some betting trends and insights for Gonzaga (-29.5) versus New Mexico State on Saturday. The over/under is set at 152.5 points for this game.
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Gonzaga vs. New Mexico State: ATS Betting Stats and Trends
-  * Gonzaga put together a 19-16-0 record against the spread last season.
+  * Gonzaga compiled a 19-16-0 ATS record last year.
   * New Mexico State won 14 games against the spread last season, while failing to cover 15 times.
-  * The Bulldogs did a better job covering the spread on the road (6-4-0) than they did at home (7-7-0) last year.
-  * The Aggies performed better against the spread at home (6-6-0) than on the road (5-6-0) last season.
+  * Against the spread last season, the Bulldogs played worse when played at home, covering seven times in 14 home games, and six times in 10 road games.
+  * The Aggies were better against the spread at home (6-6-0) than away (5-6-0) last season.
 
 
 ## Gonzaga vs. New Mexico State: Moneyline Betting Stats
-  * Gonzaga won 26 of the 30 games it was listed as the moneyline favorite last season (86.7%).
-  * The Bulldogs played as a moneyline favorite of -33333 or shorter in only two games last season, and they won both.
-  * New Mexico State was underdogs in 13 games last season and won four (30.8%) of those contests.
+  * Gonzaga won 86.7% of the games last season in which it was the moneyline favorite (26-4).
+  * The Bulldogs played as a moneyline favorite of -33333 or shorter in just two games last season, and they won both.
+  * New Mexico State won four, or 30.8%, of the 13 games it played as underdogs last season.
   * The Aggies were not a bigger underdog last season than the +4000 moneyline set for this game.
-  * Based on this game's moneyline, Gonzaga has an implied win probability of 99.7%.
+  * The implied moneyline probability for this matchup gives Gonzaga a 99.7% chance to win.
 
 
 ## Gonzaga vs. New Mexico State Head-to-Head Comparison
-  * Gonzaga was the 18th-best squad in college basketball in points scored (84.3 per game) and 19th-best in points allowed (66.2) last year.
-  * Gonzaga was 27th in the nation in rebounds per game (35.9) and 40th in rebounds conceded (28.6) last year.
-  * Gonzaga was ninth-best in college basketball in assists (18.4 per game) last season.
-  * In terms of turnovers, Gonzaga was 40th in the country in committing them (9.4 per game) last year. It was 27th in forcing them (13.3 per game).
-  * Last year New Mexico State put up 75.1 points per game (196th-ranked in college basketball) and gave up 72 points per contest (122nd-ranked).
-  * Last season New Mexico State pulled down 34.5 boards per game (56th-ranked in college basketball) and ceded 31.7 rebounds per contest (226th-ranked).
-  * New Mexico State ranked 248th in the nation with 12.9 dimes per contest.
-  * New Mexico State was 84th in the nation with 10 turnovers per game last year. Meanwhile, it ranked 261st with 10.2 forced turnovers per game.
+  * Gonzaga was the 18th-best squad in college basketball in points scored (84.3 per game) and 19th-best in points conceded (66.2) last season.
+  * Gonzaga was 27th in the nation in rebounds per game (35.9) and 40th in rebounds allowed (28.6) last year.
+  * Last season Gonzaga was ninth-best in the country in assists with 18.4 per game.
+  * Last year, Gonzaga was 40th in college basketball in turnovers committed (9.4 per game) and 27th in turnovers forced (13.3).
+  * With 75.1 points per game on offense, New Mexico State was 196th in college basketball last year. On defense, it surrendered 72 points per contest, which ranked 122nd in college basketball.
+  * With 34.5 rebounds per game, New Mexico State was 56th in the nation. It ceded 31.7 rebounds per contest, which ranked 226th in college basketball.
+  * New Mexico State averaged 12.9 assists per game, which ranked them 248th in college basketball.
+  * With 10 turnovers per game, New Mexico State ranked 84th in the country. It forced 10.2 turnovers per contest, which ranked 261st in college basketball.
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
-## [Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-12h
-Find Louisville vs. Morehead State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
-[](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
 ## [Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-12h
+15h
 Find Gonzaga vs. New Mexico State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
 [](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
+## [Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
+15h
+Find Louisville vs. Morehead State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
+[](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [UConn vs. Michigan Prediction and Picks for Friday, Nov. 6](https://fanduel.com/research/uconn-vs-michigan-prediction-and-picks-for-friday-nov-6)
 1d

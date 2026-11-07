@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-07 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-07 15:16 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,41 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![UNLV](https://assets.rotowire.com/images/teamlogo/cbasketball/UNLV.png?v=16)
+[Issac Williamson](https://www.rotowire.com/cbasketball/player/issac-williamson-26334)
+Available Saturday
+**G** UNLV
+November 7, 2026
+Williamson (hamstring) will be available for Saturday's game against Samford, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2119158488559472986) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UNLV](https://assets.rotowire.com/images/teamlogo/cbasketball/UNLV.png?v=16)
+[Tyler Harris](https://www.rotowire.com/cbasketball/player/tyler-harris-22405)
+Inactive Saturday
+**G** UNLV
+Knee
+November 7, 2026
+Harris (knee) will not appear in Saturday's game against Samford, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2119158488559472986) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=16)
+[Rytis Petraitis](https://www.rotowire.com/cbasketball/player/rytis-petraitis-20771)
+Doubtful vs. Northern Arizona
+**F** New Mexico
+Ankle
+November 7, 2026
+Petraitis (ankle) is doubtful for Saturday's contest against Northern Arizona, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2119143940859343197).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![East Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/East-Carolina.png?v=16)
+[Kaden Cooper](https://www.rotowire.com/cbasketball/player/kaden-cooper-22291)
+Out with illness
+**G** East Carolina
+Illness
+November 7, 2026
+Cooper (illness) is out for Saturday's contest against UNC Wilmington, per [Stephen Igoe of 247Sports.com](https://x.com/StephenIgoe/status/2119137898259951997).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=16)
 [Latrell Allmond](https://www.rotowire.com/cbasketball/player/latrell-allmond-28192)
 Strong off bench
@@ -172,38 +207,6 @@ Solid start to season
 **G** Central Florida
 November 6, 2026
 Dean produced 10 points (3-10 FG, 0-2 3Pt, 4-5 FT), one rebound, five assists and one steal in 28 minutes during Friday's 87-75 victory over Yale.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TCU](https://assets.rotowire.com/images/teamlogo/cbasketball/TCU.png?v=16)
-[Gavin Sykes](https://www.rotowire.com/cbasketball/player/gavin-sykes-27826)
-Impresses off bench
-**G** TCU
-November 6, 2026
-Sykes (ankle) logged 11 points (2-7 FG, 2-5 3Pt, 5-5 FT), four assists, two steals, one rebound and one block during TCU's 106-54 win Friday against Southern.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[Neiko Mundey](https://www.rotowire.com/cbasketball/player/neiko-mundey-27747)
-Plays role off bench in win
-**G** Texas A&M
-November 6, 2026
-Mundey (undisclosed) registered four points (2-3 FG, 0-1 3Pt), one rebound and one steal over 10 minutes during Friday's 104-67 win over Northern Kentucky.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Central Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Central-Florida.png?v=16)
-[Elijah Hulsewe](https://www.rotowire.com/cbasketball/player/elijah-hulsewe-22022)
-Posts double double off bench
-**C** Central Florida
-November 6, 2026
-Hulsewe finished Friday's 87-75 win over Yale with 10 points (5-5 FG), 10 rebounds and one block over 20 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[Preston Murphy](https://www.rotowire.com/cbasketball/player/preston-murphy-21245)
-Plays one minute Friday night
-**G** Alabama
-November 6, 2026
-Murphy (upper body) played one minute in Alabama's 101-86 win over Arkansas State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
