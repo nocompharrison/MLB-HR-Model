@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 17:09 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 7
 Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Nov. 7 NBA slate.
@@ -21,12 +21,10 @@ His performance against the Raptors was particularly encouraging, as Jokic deliv
 Indiana presents an opportunity for Denver to continue involving Jokic heavily in the half-court offense. The Pacers rank 16th in the league in Defensive Rating entering Saturday's action (112.0), and they'd have to rely on [Ivica Zubac](https://www.rotowire.com/basketball/player/ivica-zubac-3888) stopping Jokic, which is a favorable matchup for the Serbian.
 Although Jokic has cleared this threshold in only three of seven games, his recent scoring form and substantial offensive involvement make another 26-point performance a reasonable target.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
-NBA Player Prop | DEN @ IND
-Nikola Jokic Over 25.5 Points-110
-**New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.55](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
-Estimate only. Odds can change and excludes fees.
-Odds as of 4:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+New user offer
+Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+$5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **San Antonio Spurs vs. Portland Trail Blazers:**[**Donovan Clingan**](https://www.rotowire.com/basketball/player/donovan-clingan-6254)**over 10.5 rebounds, -144 @ FanDuel**
 Clingan enters Saturday's matchup averaging 10.6 rebounds through eight appearances, but his recent performances suggest he's becoming a more consistent presence on the glass. The Portland center has collected at least 11 rebounds in three consecutive games, including a season-high 18 against the Nuggets on Nov. 2. 
 His workload has also been encouraging. Clingan played 32 minutes against the Nuggets before logging approximately 29 minutes against Phoenix and 28 against the Lakers, recording 11 rebounds in each of those latter two contests. He has averaged 13.3 rebounds across his last three appearances, comfortably exceeding Saturday's 10.5-rebound threshold.
@@ -37,7 +35,7 @@ Donovan Clingan Over 11.5 Rebounds+106
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $5.30](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 5:05 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **New York Knicks vs. Cleveland Cavaliers:**[**Jalen Brunson**](https://www.rotowire.com/basketball/player/jalen-brunson-4405)**over 2.5 three-pointers, -110 @ BetMGM**
 Brunson has emerged as one of the NBA's most productive perimeter scorers in recent games, making at least three three-pointers in four consecutive appearances. The Knicks guard has connected on 18 of 41 attempts from beyond the arc during that stretch (43.9 percent). His shooting volume is particularly noteworthy, as Brunson has attempted at least 10 threes in each of those four contests as well. 
 The results have been equally encouraging. Brunson made six triples against Chicago on October 28, followed by three against Philadelphia, four against Brooklyn and five in his latest appearance against the Bulls. The star floor general has also averaged 25.6 points through eight appearances, reinforcing his importance to New York's scoring attack. Given his recent shooting volume and consistency, three made three-pointers represent an attainable threshold at nearly even-money odds.
@@ -62,21 +60,21 @@ Indiana Pacers
 Undergoes elbow surgery
 MLB
 Arizona Diamondbacks
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Demarcus Robinson](https://www.rotowire.com/football/player/demarcus-robinson-11163)
+Off IR, clear for Sunday
+NFL
+San Francisco 49ers
+  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
+[Pat Bryant](https://www.rotowire.com/football/player/pat-bryant-18562)
+Activated from IR
+NFL
+Denver Broncos
   * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
 Downgraded to questionable
 NBA
 Chicago Bulls
-  * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
-[Jordyn Tyson](https://www.rotowire.com/football/player/jordyn-tyson-19233)
-Activated from injured reserve
-NFL
-New Orleans Saints
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Desmond Bane](https://www.rotowire.com/basketball/player/desmond-bane-5159)
-Ruled out Saturday
-NBA
-Orlando Magic
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -136,6 +134,16 @@ Cleveland Cavaliers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Demarcus Robinson](https://www.rotowire.com/football/player/demarcus-robinson-11163)
+Off IR, clear for Sunday
+NFL
+San Francisco 49ers
+  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
+[Pat Bryant](https://www.rotowire.com/football/player/pat-bryant-18562)
+Activated from IR
+NFL
+Denver Broncos
   * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
 [Jordyn Tyson](https://www.rotowire.com/football/player/jordyn-tyson-19233)
 Activated from injured reserve
@@ -151,19 +159,14 @@ Minnesota Vikings
 In clear for Week 9
 NFL
 Buffalo Bills
-  * ![Cleveland Browns](https://assets.rotowire.com/images/teamlogo/football/CLE.svg?v=12)
-[Deshaun Watson](https://www.rotowire.com/football/player/deshaun-watson-11712)
-Clears concussion protocol, still questionable
-NFL
-Cleveland Browns
-  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
-[Myles Garrett](https://www.rotowire.com/football/player/myles-garrett-11914)
-Activated from IR
-NFL
-Los Angeles Rams
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Seattle Kraken](https://assets.rotowire.com/images/teamlogo/hockey/100SEA.png?v=5)
+[Joey Daccord](https://www.rotowire.com/hockey/player/joey-daccord-4848)
+Slated to start Saturday
+NHL
+Seattle Kraken
   * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
 [Matt Tomkins](https://www.rotowire.com/hockey/player/matt-tomkins-6188)
 Returns to minors
@@ -184,11 +187,6 @@ Los Angeles Kings
 Expected starter Saturday
 NHL
 Pittsburgh Penguins
-  * ![Carolina Hurricanes](https://assets.rotowire.com/images/teamlogo/hockey/100CAR.png?v=5)
-[Pyotr Kochetkov](https://www.rotowire.com/hockey/player/pyotr-kochetkov-6006)
-Slated to face Chicago
-NHL
-Carolina Hurricanes
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

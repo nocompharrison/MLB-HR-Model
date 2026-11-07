@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7 | fetched: 2026-11-07 16:35 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7 | fetched: 2026-11-07 17:09 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -30,7 +30,7 @@ _Please note: lines and projections are subject to change throughout the day aft
 Nuggets at Pacers — 5:00 p.m. ET
 Nikola Jokic - Points
 Nikola Jokic Under
-U 25.5
+U 26.5
 -106
 Nov 7 10:10pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/denver-nuggets-@-indiana-pacers-36282776)
 Odds/lines subject to change
@@ -51,7 +51,7 @@ Spurs at Trail Blazers — 10:00 p.m. ET
 Jrue Holiday - Assists
 Jrue Holiday Over
 O 4.5
-+112
++116
 Nov 8 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/san-antonio-spurs-@-portland-trail-blazers-36282779)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220) has averaged 4.5 assists across eight games with the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds), including 4.8 per game over his last five appearances. His playmaking ceiling has been apparent recently, with 10 assists against Denver on Monday and seven against the Lakers on Friday. He logged at least 28 minutes in both games.

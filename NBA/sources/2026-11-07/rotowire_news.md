@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 17:09 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,30 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Won't return Sunday](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-wont-return-sunday-538029)
+**G** Detroit Pistons
+Hip
+November 7, 2026
+Joe (hip) has been [ruled ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_04_15PM.pdf)out for Sunday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-questionable-for-sunday-538025)
+**C** Chicago Bulls
+Knee
+November 7, 2026
+Awaka (knee) is questionable for Sundays' game against the 76ers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Upgraded to probable for Sunday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-upgraded-to-probable-for-sunday-538023)
+**C** Chicago Bulls
+Finger
+November 7, 2026
+Smith (finger) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_04_15PM.pdf) for Sunday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-downgraded-to-questionable-538021)
 **C** Chicago Bulls
@@ -178,28 +202,6 @@ Peterson delivered 21 points (6-12 FG, 3-7 3Pt, 6-6 FT), two rebounds, five assi
 **F** Utah Jazz
 November 7, 2026
 Markkanen posted 24 points (8-20 FG, 8-15 3Pt), eight rebounds and an assist across 34 minutes in Friday's 112-100 loss to the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)[Scores in double digits again](https://www.rotowire.com/basketball/headlines/sion-james-news-scores-in-double-digits-again-537966)
-**F** Charlotte Hornets
-November 7, 2026
-James delivered 11 points (4-8 FG, 3-5 3Pt) and three rebounds across 21 minutes in Friday's 119-80 loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Tidjane Salaun](https://www.rotowire.com/basketball/player/tidjane-salaun-6262)[Scores season-high 13 points](https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-scores-season-high-13-points-537965)
-**F** Charlotte Hornets
-November 7, 2026
-Salaun finished with 13 points (3-11 FG, 2-8 3Pt, 5-6 FT) and four rebounds across 23 minutes in Friday's 119-80 loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/noah-clowney-injury-questionable-for-saturday-537960)
-**F** Brooklyn Nets
-Illness
-November 7, 2026
-Clowney is [listed ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_10_00AM.pdf)as questionable for Saturday's game against the Hawks due to an illness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 17:09 ET -->
 
 # NBA DFS Picks Today
 November 7, 2026
@@ -78,14 +78,14 @@ _Implied_**116.5** _Spread_**-6.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,800  | 34.8  |  
-| PF  | Jalen JohnsonP  | $9,900  | 47.5  |  
+| PF  | Jalen JohnsonP  | $9,900  | 47.4  |  
 | PG  | Kingston Flemings  | $4,900  | 22.5  |  
 | SF  | Dyson Daniels  | $6,300  | 30.7  |  
-| SG  | Nickeil Alexander-Walker  | $7,200  | 33.0  |  
+| SG  | Nickeil Alexander-Walker  | $7,200  | 32.9  |  
 **NYK @ CLE**
-O/U 223.58:00 PM ET
+O/U 224.58:00 PM ET
 KnicksExpectedAway
-_Implied_**114.5** _Spread_**-5.5**  
+_Implied_**115.0** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $8,500  | 46.2  |  
@@ -94,7 +94,7 @@ _Implied_**114.5** _Spread_**-5.5**
 | SF  | Landry Shamet  | $4,200  | 19.9  |  
 | SG  | Mikal Bridges  | $4,800  | 20.3  |  
 CavaliersExpectedHome
-_Implied_**109.0** _Spread_**+5.5**  
+_Implied_**109.5** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Evan Mobley  | $7,800  | 39.4  |  
@@ -103,9 +103,9 @@ _Implied_**109.0** _Spread_**+5.5**
 | SF  | Meleek Thomas  | $4,200  | 18.7  |  
 | SG  | Donovan Mitchell  | $8,100  | 40.1  |  
 **WSH @ OKC**
-O/U 222.58:00 PM ET
+O/U 223.58:00 PM ET
 WizardsExpectedAway
-_Implied_**105.0** _Spread_**+12.5**  
+_Implied_**106.0** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 25.0  |  
@@ -114,7 +114,7 @@ _Implied_**105.0** _Spread_**+12.5**
 | SF  | AJ Dybantsa  | $6,300  | 26.8  |  
 | SG  | Kyshawn George  | $5,900  | 32.5  |  
 ThunderExpectedHome
-_Implied_**117.5** _Spread_**-12.5**  
+_Implied_**117.5** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $6,100  | 34.1  |  
@@ -148,17 +148,17 @@ RocketsExpectedAway
 _Implied_**115.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alperen Sengun  | $8,900  | 46.4  |  
-| PF  | Jabari Smith  | $6,700  | 28.8  |  
+| C  | Alperen Sengun  | $8,900  | 46.5  |  
+| PF  | Jabari Smith  | $6,700  | 28.9  |  
 | PG  | Fred VanVleet  | $6,000  | 27.2  |  
 | SF  | Kevin Durant  | $7,400  | 35.2  |  
-| SG  | Amen Thompson  | $6,900  | 33.3  |  
+| SG  | Amen Thompson  | $6,900  | 33.4  |  
 SunsExpectedHome
 _Implied_**109.0** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Oso Ighodaro  | $4,900  | 20.9  |  
-| PF  | Miles Bridges  | $7,100  | 34.5  |  
+| PF  | Miles Bridges  | $7,100  | 34.6  |  
 | PG  | Devin Booker  | $8,300  | 41.3  |  
 | SF  | Dillon Brooks  | $6,300  | 28.4  |  
 | SG  | Jalen Green  | $6,200  | 27.3  |  
@@ -180,9 +180,9 @@ AllGuardsForwardsCenters
 | 5  |  Wendell CarterORL - C  | @ GSW  | $6,500  | 34  | 35.4  | **5.45**  |  
 | 6  |  Karl-Anthony TownsNYK - PF  | @ CLE  | $8,500  | 32  | 46.2  | **5.44**  |  
 | 7  |  Mario HezonjaCLE - SF  | vs NYK  | $4,300  | 26  | 23.3  | **5.42**  |  
-| 8  |  Michael PorterBKN - SF  | @ ATL  | $7,300  | 35  | 38.7  | **5.31**  |  
-| 9  |  Franz WagnerORL - SF  | @ GSW  | $8,700  | 37  | 46.1  | **5.30**  |  
-| 10  |  James HardenCLE - PG  | vs NYK  | $7,100  | 34  | 37.1  | **5.22**  |  
+| 8  |  Franz WagnerORL - SF  | @ GSW  | $8,700  | 37  | 46.1  | **5.30**  |  
+| 9  |  Michael PorterBKN - SF  | @ ATL  | $7,300  | 35  | 38.7  | **5.30**  |  
+| 10  |  Alperen SengunHOU - PF  | @ PHX  | $8,900  | 35  | 46.5  | **5.22**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
