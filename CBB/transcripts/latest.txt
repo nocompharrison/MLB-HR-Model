@@ -1,46 +1,45 @@
-# CBB transcripts | 2026-11-06 | updated 2026-11-06 17:05 ET
+# CBB transcripts | 2026-11-07 | updated 2026-11-07 08:34 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 12 files in CBB/transcripts/2026-11-06:
-CBB/transcripts/2026-11-06/0vH2a8_qsRU_FieldOf68_Duke_has_the_highest_ceiling_of_ANYONE_Justin_Jackson_is_ALL_IN_on_Du.txt
-CBB/transcripts/2026-11-06/9dPgDxnf1JU_PickDawgz_PORTLAND_VS_UT_ARLINGTON_11_6_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DAY_PICK.txt
-CBB/transcripts/2026-11-06/AdD9nb_oAcE_TCE_College_Basketball_Picks_For_November_6th_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-06/AwjHL3-vfUI_LockedOnCBB_NATIONAL_TITLE_REMATCH_Michigan_UConn_Headlines_HUGE_College_Basketbal.txt
-CBB/transcripts/2026-11-06/BQLiRqdjk7Y_FieldOf68_The_Indiana_Hoosiers_CAN_be_a_dangerous_team_but_WILL_they_be_AFTER_D.txt
-CBB/transcripts/2026-11-06/QH1FQesKtpY_TCE_College_Basketball_Best_Bets_For_November_6th_Spread_Moneyline_Betting.txt
-CBB/transcripts/2026-11-06/Xyo7EgPfu-w_WagerTalk_CBB_Picks_TODAY_THREE_Friday_College_Basketball_Predictions_BEST_Bets.txt
-CBB/transcripts/2026-11-06/dpOjjwczMEc_SGPN_College_Basketball_Picks_Fri_Nov_6th_Sat_Nov_7th.txt
-CBB/transcripts/2026-11-06/lO-zECutTrY_FieldOf68_TOP_DOGS_A_Michigan_UConn_preview_Is_this_UConn_s_best_EVER_defensive.txt
-CBB/transcripts/2026-11-06/n_LlWprbChM_PickDawgz_UConn_vs_Michigan_Predictions_Picks_11_6_26_NCAAB_Best_Bets_Prediction.txt
-CBB/transcripts/2026-11-06/uAJT3qhQDLQ_PickDawgz_College_Basketball_Picks_Predictions_Today_11_6_26_Ron_s_Bank_Shot_Bre.txt
-CBB/transcripts/2026-11-06/v3jPuyFw-oc_TCE_College_Basketball_PICKS_ONLY_Friday_November_6th_TCE_Trims.txt
+# 0 files in CBB/transcripts/2026-11-07:
+
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
 DEFER   CBSCollegeBB DP6Q9Na4-gc No. 4 UConn vs. No. 16 Michigan Preview & Prediction: A titl  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB jipnPpS4_Tc Saint Louis vs. Missouri Preview & Prediction: Robbie Avila   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB xDYwl0BcpfU Florida, Duke & Illinois are running the show; Wknd Preview!  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB foc3dQYeJWE No. 9 Virginia vs. No. 12 Arkansas Preview & Prediction: Ros  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB foc3dQYeJWE No. 9 Virginia vs. No. 12 Arkansas Preview & Prediction: Joh  (YouTube rate limit - stopping transcript pulls this run)
 DEFER   CBSCollegeBB QlcCrfpJ_rY Michigan vs UConn Game Preview | Week 1 Picks and Prediction  (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB 1GFCqPH4wp4 Can anyone touch these three teams this season? | Duke, Flor  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 7rCqKT-YdFc 'Vanderbilt is just scratching the surface of how good they   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB 1GFCqPH4wp4 Florida, Duke & Illinois: Which one is the best of the best?  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 pVfJ0xxAYNo Bobby Hurley INTERVIEWS Dan Hurley!! | 'Well this is a SURPR  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 5mnGVpOo18M 'Michigan DOESN'T have a Final Four ceiling...' | UConn roll  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 ueELveUZPw0 UConn gets REVENGE on Michigan! | 'The most ELITE backcourt   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 2ReQIBFX2AY UConn gets REVENGE over Michigan! Saint Louis makes a STATEM  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 05Y5k1mP71E EXCLUSIVE: Josh Schertz on Saint Louis' STATEMENT win over M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 rLeRfFX3sS0 EXCLUSIVE: Valpo's Roger Powell, Rakim Chaney and Justus McN  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 fXWn4i0bwpI PREVIEW: Why Michigan has 'NO CHANCE' to knock off UConn! |   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 IQmQoIvuHy0 PREVIEW: Robbie Avila is BACK for Saint Louis! Can they knoc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Illini's SUP  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 2ReQIBFX2AY UCONN AND MICHIGAN BATTLE IN BOSTON! Plus, Saint Louis-Misso  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 _46-1zcZAu0 TOP DOGS: Natty Revenge! | REACTION to UConn's win over Mich  (YouTube rate limit hit earlier this run)
 DEFER   FieldOf68 g4ZmOZpCFY0 WCC INSIDER: Ismaila Diagne on his journey to San Francisco   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 Jn3PzpodL3A Kentucky SURVIVES James Madison! | 'Defense REMAINS the ques  (YouTube rate limit hit earlier this run)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+DEFER   TCE EqU6J5qgzPA College Basketball Best Bets For November 7th - Spread & Mon  (YouTube rate limit hit earlier this run)
+DEFER   TCE _QcnFJqhew0 College Basketball PICKS ONLY - Saturday, November 7th | TCE  (YouTube rate limit hit earlier this run)
+DEFER   TCE 8lrFa9Dcwus College Basketball Picks For November 7th - NCAA Basketball   (YouTube rate limit hit earlier this run)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-DEFER   WagerTalk isNWTAjYpGg CBB Picks TODAY! Michigan vs Uconn | Yale vs UCF Predictions  (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk RfO7WYTSG_A College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk KjZOApq6Spg College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk 8htnVorFTkY College Basketball Betting, Gambling in Vegas & Stu Ungar St  (YouTube rate limit hit earlier this run)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+DEFER   PickDawgz Ikfaccm6ZEQ College Basketball Picks for Today 11/7/26 - Saturday's Best  (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz urgpaKxUY-M College Basketball Picks & Predictions Today 11/7/26 | Ron's  (YouTube rate limit hit earlier this run)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
