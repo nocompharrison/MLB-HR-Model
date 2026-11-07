@@ -1,48 +1,61 @@
-# CFB transcripts | week 10 | updated 2026-11-07 08:34 ET
+# CFB transcripts | week 10 | updated 2026-11-07 08:46 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 24 files in CFB/transcripts/week-10:
+# 37 files in CFB/transcripts/week-10:
 CFB/transcripts/week-10/039tKotpZfs_SportsLine_College_Football_PICKS_and_BETS_for_Wednesday.txt
 CFB/transcripts/week-10/0LhKjWJofeg_BBOC_Texas_State_vs_Oregon_State_CFB_Week_10_Best_Bets.txt
 CFB/transcripts/week-10/2mCHN25L0rI_BBOC_WHO_DESERVES_1_Miami_vs_Notre_Dame_Betting_Picks.txt
 CFB/transcripts/week-10/2q2FWHg-dLg_Cover3_Texas_vs_Missouri_Who_Wins_WHY_Week_10_Preview_Predictions.txt
+CFB/transcripts/week-10/5Yf6HvLil4M_Cover3_The_Race_for_No_1_HEATS_UP_Texas_A_M_Oregon_Miami_Signing_Day_Predicti.txt
 CFB/transcripts/week-10/6RM4WZDHSWw_SportsLine_WEEK_10_College_Football_Picks_and_Predictions.txt
 CFB/transcripts/week-10/7Cz9IsEJVh4_Cover3_Week_10_Preview_Predictions_BYU_vs_Utah.txt
+CFB/transcripts/week-10/8U6YEQTX8Xs_WagerTalk_College_Football_Week_10_Picks_9_TOP_25_Games_Best_Bets_Steve_Merril.txt
 CFB/transcripts/week-10/AJwAMgk06ng_PickDawgz_UTSA_vs_Florida_Atlantic_Picks_Predictions_College_Football_Week_10_Pi.txt
 CFB/transcripts/week-10/FfsLEELSIhI_BBOC_Week_10_Wednesday_BEST_BET_Toledo_vs_Sacramento_State.txt
 CFB/transcripts/week-10/FsaJhn8-soM_TCE_Week_10_Preview_Picks_Best_Bets_for_College_Football.txt
+CFB/transcripts/week-10/JbkqsZ1vsIg_PickDawgz_OREGON_DUCKS_VS_OHIO_STATE_UNIVERSITY_BUCKEYES_FREE_NCAAF_PICK_PREDICT.txt
 CFB/transcripts/week-10/Jt9c2FDu8NQ_BBOC_Boise_State_vs_Colorado_State_CFB_Week_10_Best_Bets.txt
+CFB/transcripts/week-10/Kb4e9_5IAds_HitTheBooks_CFB_Week_10_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt
 CFB/transcripts/week-10/MmW4pMgQtsQ_TCE_CFB_Week_10_Weekday_Preview_Picks_Playoff_Rankings.txt
 CFB/transcripts/week-10/OXdKOnBV0HA_WagerTalk_College_Football_Picks_Fresno_State_vs_Utah_State_BEST_Bets_CFB_Week_1.txt
+CFB/transcripts/week-10/OzG7nwb31fc_CallingOurShot_College_Football_Week_10_Best_Picks_and_Predictions.txt
 CFB/transcripts/week-10/TKEE1dRIw-Q_WagerTalk_College_Football_Week_10_Betting_Trends_7_BEST_ATS_Over_Under_Angles_R.txt
+CFB/transcripts/week-10/Vpa-lsKq0pc_SportsLine_College_Football_BEST_BETS_for_12PM_ET_Games.txt
+CFB/transcripts/week-10/VvaRebi5Iac_PickDawgz_OREGON_ST_VS_TEXAS_ST_11_7_26_NCAAF_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_P.txt
 CFB/transcripts/week-10/X0-CJnZwB9I_Cover3_Week_10_Preview_Predictions_Alabama_vs_LSU.txt
+CFB/transcripts/week-10/YBmubu22rVE_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt
 CFB/transcripts/week-10/YIRCmJUqeXM_PickDawgz_James_Madison_vs_Southern_Miss_Picks_Predictions_College_Football_Week.txt
 CFB/transcripts/week-10/_3hm8_VeEC8_WagerTalk_CFB_Week_10_BEST_Bets_Miami_vs_Notre_Dame_Kentucky_vs_Tennessee_Saturd.txt
 CFB/transcripts/week-10/_7KptEmde0s_BettingPros_3_BEST_BETS_for_Tuesday_College_Football_Picks_NHL_Predictions_for_Tod.txt
+CFB/transcripts/week-10/a4EtgJcUs8s_SportsLine_College_Football_Bets_NFL_Picks_Soccer_Picks_Early_Edge.txt
+CFB/transcripts/week-10/dX-37gixrG0_BettingPros_3_BEST_BETS_for_Friday_College_Football_Week_10_Picks_Predictions_for.txt
 CFB/transcripts/week-10/dg9Y4T9nqbQ_VSiN_College_Football_Week_10_Expert_Picks_Best_Bets_COMPILATION.txt
 CFB/transcripts/week-10/gCDQfAl9ocE_SportsLine_College_Football_PICKS_Tuesday_Best_Bets.txt
 CFB/transcripts/week-10/hx9uaGyuHc0_Cover3_WEEK_10_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_M.txt
+CFB/transcripts/week-10/iIu43kdZ9KY_BBOC_College_Football_Week_10_Betting_Preview_Expert_Analysis_Best_Bets_Mor.txt
+CFB/transcripts/week-10/jJMOaeg2rHo_Cover3_College_Football_Week_10_Upset_Picks.txt
 CFB/transcripts/week-10/jo7KDpS68Rg_BBOC_College_Football_Week_10_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
+CFB/transcripts/week-10/kAuzi7qFpvo_TCE_FCS_Week_10_Preview_Picks_best_bets_on_60_games.txt
 CFB/transcripts/week-10/o37JMMPYsC4_WagerTalk_College_Football_Picks_Wyoming_vs_UNLV_BEST_Bets_CFB_Week_10_Predictio.txt
 CFB/transcripts/week-10/zLCRkgEG8TQ_Cover3_Week_10_Preview_Predictions_Georgia_vs_Ole_Miss.txt
 CFB/transcripts/week-10/zetWlbpR5LM_Cover3_Oregon_vs_Ohio_State_Who_Wins_WHY_Week_10_Preview_Predictions.txt
 
 # this run:
-DEFER   Cover3 jJMOaeg2rHo College Football Week 10 Upset Picks! 💰  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   Cover3 5Yf6HvLil4M The Race for No. 1 HEATS UP! Texas A&M, Oregon, Miami + Sign  (YouTube rate limit hit earlier this run)
-DEFER   BBOC iIu43kdZ9KY College Football Week 10 Betting Preview: Expert Analysis, B  (YouTube rate limit hit earlier this run)
-DEFER   HitTheBooks Kb4e9_5IAds CFB Week 10 Full Breakdown & Best Bets! | Presented By FanDu  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/jJMOaeg2rHo_Cover3_College_Football_Week_10_Upset_Picks.txt  (1,510 words)
+NEW     CFB/transcripts/week-10/5Yf6HvLil4M_Cover3_The_Race_for_No_1_HEATS_UP_Texas_A_M_Oregon_Miami_Signing_Day_Predicti.txt  (9,263 words)
+NEW     CFB/transcripts/week-10/iIu43kdZ9KY_BBOC_College_Football_Week_10_Betting_Preview_Expert_Analysis_Best_Bets_Mor.txt  (18,530 words)
+NEW     CFB/transcripts/week-10/Kb4e9_5IAds_HitTheBooks_CFB_Week_10_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt  (9,449 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-DEFER   TCE kAuzi7qFpvo FCS Week 10 Preview & Picks: best bets on 60 games  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk 8U6YEQTX8Xs College Football Week 10 Picks: 9 TOP 25 Games & Best Bets |  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/kAuzi7qFpvo_TCE_FCS_Week_10_Preview_Picks_best_bets_on_60_games.txt  (18,607 words)
+NEW     CFB/transcripts/week-10/8U6YEQTX8Xs_WagerTalk_College_Football_Week_10_Picks_9_TOP_25_Games_Best_Bets_Steve_Merril.txt  (4,411 words)
 NONE    channel SplitZoneDuo: nothing new in the date window (or everything already saved)
-DEFER   BettingPros dX-37gixrG0 3 BEST BETS for Friday: College Football Week 10 Picks & Pre  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/dX-37gixrG0_BettingPros_3_BEST_BETS_for_Friday_College_Football_Week_10_Picks_Predictions_for.txt  (1,822 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 DEFER   SportsLine 1wfV6zROlIw Monday Night Football Picks + College Basketball Picks + NBA  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   SportsLine 0Rd3yhj3Nhk First College Football Picks for Week 10! | The Early Edge  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   SportsLine DFlsQJk0ocU College Football BEST BETS for 12PM ET Games!  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   SportsLine Vpa-lsKq0pc College Football BEST BETS for 12PM ET Games!  (YouTube rate limit hit earlier this run)
-DEFER   SportsLine a4EtgJcUs8s College Football Bets + NFL Picks + Soccer Picks | Early Edg  (YouTube rate limit hit earlier this run)
-DEFER   SportsLine YBmubu22rVE College Football PICKS: Friday Best Bets  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/Vpa-lsKq0pc_SportsLine_College_Football_BEST_BETS_for_12PM_ET_Games.txt  (1,409 words)
+NEW     CFB/transcripts/week-10/a4EtgJcUs8s_SportsLine_College_Football_Bets_NFL_Picks_Soccer_Picks_Early_Edge.txt  (9,945 words)
+NEW     CFB/transcripts/week-10/YBmubu22rVE_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt  (548 words)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
@@ -58,8 +71,9 @@ DEFER   PickDawgz 36LAyX3g8sM NCAAF Picks and Predictions 11/6/26 : The Lowdown 
 DEFER   PickDawgz krIDzFRmjKA College Football Picks for Today 11/7/26 - Saturday Best Col  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
 DEFER   PickDawgz RJAsjzuFsJ4 Free CFB Betting Picks & Predictions Today 11/06/2026 | Bria  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
 DEFER   PickDawgz gR6xSOu0veU CFB, CBB & NHL Picks and Predictions 11/3/26 | The PickDawgz  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz JbkqsZ1vsIg OREGON DUCKS VS OHIO STATE UNIVERSITY BUCKEYES | FREE NCAAF   (YouTube rate limit hit earlier this run)
-DEFER   PickDawgz VvaRebi5Iac OREGON ST VS TEXAS ST 11/7/26 | NCAAF FREE VALUE PLAY OF THE  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/JbkqsZ1vsIg_PickDawgz_OREGON_DUCKS_VS_OHIO_STATE_UNIVERSITY_BUCKEYES_FREE_NCAAF_PICK_PREDICT.txt  (475 words)
+NEW     CFB/transcripts/week-10/VvaRebi5Iac_PickDawgz_OREGON_ST_VS_TEXAS_ST_11_7_26_NCAAF_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_P.txt  (494 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-DEFER   CallingOurShot OzG7nwb31fc College Football Week 10 Best Picks and Predictions!  (YouTube rate limit hit earlier this run)
+NEW     CFB/transcripts/week-10/OzG7nwb31fc_CallingOurShot_College_Football_Week_10_Best_Picks_and_Predictions.txt  (5,751 words)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
