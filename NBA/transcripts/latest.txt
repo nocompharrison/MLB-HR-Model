@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-07 | updated 2026-11-07 18:09 ET
+# NBA transcripts | 2026-11-07 | updated 2026-11-07 18:39 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 11 files in NBA/transcripts/2026-11-07:
 NBA/transcripts/2026-11-07/21Eo4JUaXtQ_LockedOnNBA_Can_Anything_STOP_The_Lakers_Luka_With_53_Cavs_CRUSH_Sixers.txt
@@ -18,8 +18,7 @@ NONE    channel ActionNetwork: nothing new in the date window (or everything alr
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-07/zxMI4ggozQ0_WagerTalk_BEST_NBA_Picks_TODAY_Magic_vs_Warriors_Rockets_vs_Suns_Saturday_NBA_Pr.txt  (2,020 words)
-NEW     NBA/transcripts/2026-11-07/ddNf2KLDbAc_WagerTalk_SATURDAY_NBA_BEST_Bets_Nuggets_vs_Pacers_Magic_vs_Warriors_NBA_Picks_T.txt  (1,661 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
