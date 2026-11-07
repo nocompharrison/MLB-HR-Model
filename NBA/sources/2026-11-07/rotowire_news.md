@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,59 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Riley Minix](https://www.rotowire.com/basketball/player/riley-minix-6314)[Inks two-way deal with Cavs](https://www.rotowire.com/basketball/headlines/riley-minix-news-inks-two-way-deal-with-cavs-538040)
+**F** Cleveland Cavaliers
+November 7, 2026
+Minix [signed](https://www.nba.com/players/transactions) a two-way contract with the Cavs on Saturday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Available versus Utah](https://www.rotowire.com/basketball/headlines/terrence-shannon-news-available-versus-utah-538039)
+**F** Minnesota Timberwolves
+November 7, 2026
+Shannon (hip) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_15PM.pdf) on the injury report ahead of Sunday's game against the Jazz.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)[Available Saturday](https://www.rotowire.com/basketball/headlines/noah-clowney-news-available-saturday-538038)
+**F** Brooklyn Nets
+November 7, 2026
+Clowney (illness) is [active](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_15PM.pdf) for Saturday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/lauri-markkanen-injury-questionable-for-sunday-538037)
+**F** Utah Jazz
+Wrist
+November 7, 2026
+Markkanen is [questionable ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_00PM.pdf)for Sunday's game against the Timberwolves due to a right wrist sprain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Probable for Sunday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-probable-for-sunday-538036)
+**C** Philadelphia 76ers
+Foot
+November 7, 2026
+Embiid (foot) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_00PM.pdf) for Sunday's game against the Bulls.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[Joan Beringer](https://www.rotowire.com/basketball/player/joan-beringer-6576)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/joan-beringer-injury-questionable-for-sunday-538035)
+**C** Minnesota Timberwolves
+Fracture
+November 7, 2026
+Beringer (nose) is questionable for Sunday's game against the Jazz.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/adem-bona-injury-wont-play-sunday-538034)
+**C** Philadelphia 76ers
+Back
+November 7, 2026
+Bona (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_00PM.pdf) for Sunday's game in Chicago.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Back in action Saturday](https://www.rotowire.com/basketball/headlines/jalen-johnson-news-back-in-action-saturday-538033)
 **F** Atlanta Hawks
@@ -151,58 +204,6 @@ Tyson (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Repor
 Hip
 November 7, 2026
 Landale (hip) has been ruled [out ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf)for Saturday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254)[Not playing Saturday](https://www.rotowire.com/basketball/headlines/sam-merrill-injury-not-playing-saturday-537991)
-**G** Cleveland Cavaliers
-Elbow
-November 7, 2026
-Merrill (elbow) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf) for Saturday's game against the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)[Out Saturday](https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-out-saturday-537989)
-**C** Cleveland Cavaliers
-Knee
-November 7, 2026
-Allen (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf) for Saturday's game against the Knicks
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Expected to play Saturday](https://www.rotowire.com/basketball/headlines/jalen-johnson-injury-expected-to-play-saturday-537988)
-**F** Atlanta Hawks
-Ankle
-November 7, 2026
-Johnson (ankle) is [probable ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf)for Saturday's game against Brooklyn.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)[Dominates glass in win Friday](https://www.rotowire.com/basketball/headlines/morez-johnson-news-dominates-glass-in-win-friday-537980)
-**F** Dallas Mavericks
-November 7, 2026
-Johnson notched 13 points (5-8 FG, 1-2 3Pt, 2-2 FT), 17 rebounds, two assists, a steal and a block across 24 minutes in Friday's 112-100 win over the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Struggles with shot Friday](https://www.rotowire.com/basketball/headlines/kyrie-irving-news-struggles-with-shot-friday-537979)
-**G** Dallas Mavericks
-November 7, 2026
-Irving finished with 14 points (7-20 FG, 0-4 3Pt), two rebounds, two assists and three steals across 28 minutes in Friday's 112-100 win over the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548)[Flirts with triple-double in victory](https://www.rotowire.com/basketball/headlines/cooper-flagg-news-flirts-with-triple-double-in-victory-537976)
-**F** Dallas Mavericks
-November 7, 2026
-Flagg registered 21 points (7-16 FG, 1-4 3Pt, 6-6 FT), 10 rebounds, seven assists, three steals and a block across 33 minutes in Friday's 112-100 win over the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899)[Hands out nine assists Friday](https://www.rotowire.com/basketball/headlines/keyonte-george-news-hands-out-nine-assists-friday-537973)
-**G** Utah Jazz
-November 7, 2026
-George tallied 16 points (6-13 FG, 1-4 3Pt, 3-4 FT), six rebounds, nine assists and a block across 32 minutes in Friday's 112-100 loss to the Mavericks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

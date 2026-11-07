@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 18:35 ET -->
 
 # NBA DFS Picks Today
 November 7, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, November 7 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (BKN @ ATL) Brooklyn Nets (BKN @ ATL) Cleveland Cavaliers (NYK @ CLE) Denver Nuggets (DEN @ IND) Golden State Warriors (ORL @ GSW) Houston Rockets (HOU @ PHX) Indiana Pacers (DEN @ IND) New York Knicks (NYK @ CLE) Oklahoma City Thunder (WSH @ OKC) Orlando Magic (ORL @ GSW) Phoenix Suns (HOU @ PHX) Portland Trail Blazers (SAN @ POR) San Antonio Spurs (SAN @ POR) Washington Wizards (WSH @ OKC)
+Cleveland CavaliersNYK @ CLE - 8:00 PM ET
+**[Riley Minix](https://www.rotowire.com/basketball/player/riley-minix-6314)** _F_ 6:27 PM ET
+#### Inks two-way deal with Cavs
+Minix signed a two-way contract with the Cavs on Saturday.
+Analysis
+Minix will return to the Cavs on a two-way deal after getting waived Thursday. He's made one appearance for Cleveland this season, finishing with three rebounds across six minutes.
+Brooklyn NetsBKN @ ATL - 7:30 PM ET
+**[Noah Clowney](https://www.rotowire.com/basketball/player/noah-clowney-5901)** _F_ 6:17 PM ET
+#### Available Saturday
+Clowney (illness) is active for Saturday's game against the Hawks.
+Analysis
+Clowney was questionable to suit up for the first leg of Brooklyn's back-to-back on Saturday due to an illness, but he's going to fight through it. The 22-year-old is averaging 5.6 points, 4.4 rebounds and 0.9 assists in 21.0 minutes across eight outings in 2026-27.
 Atlanta HawksBKN @ ATL - 7:30 PM ET
 **[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)** _F_ _Top_ 5:33 PM ET
 #### Back in action Saturday
@@ -41,19 +53,7 @@ Denver NuggetsDEN @ IND - 5:00 PM ET
 DeRozan (back) is active for Saturday's NBA Mexico City Game against the Pacers.
 Analysis
 DeRozan missed Wednesday's 128-109 win over Toronto due to lower-back spasms, but the 37-year-old forward will suit up for the NBA's Mexico City Game against the Nuggets. The veteran's presence will likely mean less playing time for Alpha Diallo, Bryce Hopkins and Trevon Brazile.
-Indiana PacersDEN @ IND - 5:00 PM ET
-**[Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)** _G_ OUT _Top_ 3:46 PM ET
-#### Still without timetable to return
-Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.
-Analysis
-Haliburton continues to recover from a left hamstring strain he picked up after Indiana's 110-102 loss to Milwaukee on Oct. 26. The Pacers star has missed the last five games, and his timetable to return is "uncertain", per head coach Rick Carlisle. Andrew Nembhard has been solid as the starting point guard with Haliburton sidelined, while Braden Smith and Quenton Jackson have provided extra depth in the backcourt. Indiana will get some reinforcements Saturday, however, as T.J. McConnell (hamstring) is expected to make his season debut in the NBA's Mexico City Game against the Nuggets.
-Indiana PacersDEN @ IND - 5:00 PM ET
-**[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)** _F_ 3:31 PM ET
-#### Available Saturday
-Oubre (calf) will be available for Saturday's game against the Nuggets, Dustin Dopirak of The Indianapolis Star reports.
-Analysis
-Oubre's string of absences will end after two games now that he's recovered from a left calf contusion. His return could spell decreased opportunities for Jarace Walker and Obi Toppin.
-Show 5 more (24 remaining)
+Show 5 more (26 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,9 +63,9 @@ DraftKings FanDuel
 Main Slate - 5 games - 7:30 PM Nov 8 - Main Slate - 5 games - 7:00 PM (lineups pending) Nov 8 - Main Slate - 2 games - 3:30 PM (lineups pending) Main Slate - 2 games - 9:00 PM Nov 8 - Main Slate - 2 games - 9:00 PM (lineups pending) Nov 8 - Main Slate - 2 games - 7:30 PM (lineups pending) Main Slate - 2 games - 8:00 PM Nov 8 - Showdown - MIA @ SAC - 10:00 PM (lineups pending) Showdown - SAS @ POR - 11:00 PM Showdown - BKN @ ATL - 7:30 PM Nov 8 - Showdown - BOS @ MIL - 8:00 PM (lineups pending) Showdown - DEN @ IND - 5:00 PM Nov 8 - Showdown - LAL @ DET - 6:00 PM (lineups pending) Nov 8 - Showdown - MIA @ SAC - 9:00 PM (lineups pending) Showdown - ORL @ GSW - 8:30 PM Nov 8 - Showdown - PHI @ CHI - 3:30 PM (lineups pending) Showdown - SAS @ POR - 10:00 PM Nov 8 - Showdown - UTA @ MIN - 7:00 PM (lineups pending) Main Slate - 5 games - 7:30 PM Nov 8 - Main Slate - 5 games - 7:00 PM (lineups pending) All games (5) BKN @ ATL - 7:30 PM ET NYK @ CLE - 8:00 PM ET WSH @ OKC - 8:00 PM ET ORL @ GSW - 8:30 PM ET HOU @ PHX - 9:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **BKN @ ATL**
-O/U 226.57:30 PM ET
+O/U 227.57:30 PM ET
 NetsExpectedAway
-_Implied_**110.0** _Spread_**+6.5**  
+_Implied_**110.5** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Day'Ron Sharpe  | $5,100  | 26.1  |  
@@ -74,7 +74,7 @@ _Implied_**110.0** _Spread_**+6.5**
 | SF  | Chaney Johnson  | $4,000  | 18.6  |  
 | SG  | Michael Porter  | $7,300  | 38.7  |  
 HawksExpectedHome
-_Implied_**116.5** _Spread_**-6.5**  
+_Implied_**117.0** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,800  | 34.8  |  
@@ -97,7 +97,7 @@ CavaliersExpectedHome
 _Implied_**109.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Evan Mobley  | $7,800  | 39.4  |  
+| C  | Evan Mobley  | $7,800  | 39.5  |  
 | PF  | Peyton Watson  | $5,700  | 26.8  |  
 | PG  | James Harden  | $7,100  | 37.1  |  
 | SF  | Meleek Thomas  | $4,200  | 18.7  |  
@@ -182,7 +182,7 @@ AllGuardsForwardsCenters
 | 7  |  Mario HezonjaCLE - SF  | vs NYK  | $4,300  | 26  | 23.3  | **5.42**  |  
 | 8  |  Franz WagnerORL - SF  | @ GSW  | $8,700  | 37  | 46.1  | **5.30**  |  
 | 9  |  Michael PorterBKN - SF  | @ ATL  | $7,300  | 35  | 38.7  | **5.30**  |  
-| 10  |  Alperen SengunHOU - PF  | @ PHX  | $8,900  | 35  | 46.5  | **5.22**  |  
+| 10  |  James HardenCLE - PG  | vs NYK  | $7,100  | 34  | 37.1  | **5.23**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
