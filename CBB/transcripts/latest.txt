@@ -1,7 +1,13 @@
-# CBB transcripts | 2026-11-07 | updated 2026-11-07 08:34 ET
+# CBB transcripts | 2026-11-07 | updated 2026-11-07 11:21 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 0 files in CBB/transcripts/2026-11-07:
-
+# 6 files in CBB/transcripts/2026-11-07:
+CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt
+CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt
+CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt
+CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt
+CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt
+CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predictions_Today_11_7_26_Ron_s_Bank_Shot_Bre.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-06
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
@@ -9,9 +15,9 @@ DEFER   CBSCollegeBB DP6Q9Na4-gc No. 4 UConn vs. No. 16 Michigan Preview & Predi
 DEFER   CBSCollegeBB jipnPpS4_Tc Saint Louis vs. Missouri Preview & Prediction: Robbie Avila   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB xDYwl0BcpfU Florida, Duke & Illinois are running the show; Wknd Preview!  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB foc3dQYeJWE No. 9 Virginia vs. No. 12 Arkansas Preview & Prediction: Joh  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   CBSCollegeBB QlcCrfpJ_rY Michigan vs UConn Game Preview | Week 1 Picks and Prediction  (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB 1GFCqPH4wp4 Florida, Duke & Illinois: Which one is the best of the best?  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-06/foc3dQYeJWE_CBSCollegeBB_No_9_Virginia_vs_No_12_Arkansas_Preview_Prediction_John_Calipari_and_R.txt  (1,021 words)
+NEW     CBB/transcripts/2026-11-06/QlcCrfpJ_rY_CBSCollegeBB_Michigan_vs_UConn_Game_Preview_Week_1_Picks_and_Predictions.txt  (1,427 words)
+NEW     CBB/transcripts/2026-11-06/1GFCqPH4wp4_CBSCollegeBB_Florida_Duke_Illinois_Which_one_is_the_best_of_the_best.txt  (2,788 words)
 DEFER   FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 pVfJ0xxAYNo Bobby Hurley INTERVIEWS Dan Hurley!! | 'Well this is a SURPR  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 5mnGVpOo18M 'Michigan DOESN'T have a Final Four ceiling...' | UConn roll  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
@@ -24,22 +30,23 @@ DEFER   FieldOf68 IQmQoIvuHy0 PREVIEW: Robbie Avila is BACK for Saint Louis! Can
 DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Illini's SUP  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 _46-1zcZAu0 TOP DOGS: Natty Revenge! | REACTION to UConn's win over Mich  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 g4ZmOZpCFY0 WCC INSIDER: Ismaila Diagne on his journey to San Francisco   (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 Jn3PzpodL3A Kentucky SURVIVES James Madison! | 'Defense REMAINS the ques  (YouTube rate limit hit earlier this run)
+NOCAPS  FieldOf68 _46-1zcZAu0 TOP DOGS: Natty Revenge! | REACTION to UConn's win over Mich  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt  (4,735 words)
+NEW     CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt  (1,111 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-DEFER   TCE EqU6J5qgzPA College Basketball Best Bets For November 7th - Spread & Mon  (YouTube rate limit hit earlier this run)
-DEFER   TCE _QcnFJqhew0 College Basketball PICKS ONLY - Saturday, November 7th | TCE  (YouTube rate limit hit earlier this run)
-DEFER   TCE 8lrFa9Dcwus College Basketball Picks For November 7th - NCAA Basketball   (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt  (907 words)
+NEW     CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt  (20,584 words)
+NOCAPS  TCE 8lrFa9Dcwus College Basketball Picks For November 7th - NCAA Basketball   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-DEFER   WagerTalk RfO7WYTSG_A College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk KjZOApq6Spg College Basketball Picks Today: FRIDAY BEST BETS & CBB Odds   (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk 8htnVorFTkY College Basketball Betting, Gambling in Vegas & Stu Ungar St  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-06/8htnVorFTkY_WagerTalk_College_Basketball_Betting_Gambling_in_Vegas_Stu_Ungar_Stories_Alan_Bo.txt  (9,955 words)
+NEW     CBB/transcripts/2026-11-06/RfO7WYTSG_A_WagerTalk_College_Basketball_Picks_Today_FRIDAY_BEST_BETS_CBB_Odds_Full_Court_Pr.txt  (11,739 words)
+NEW     CBB/transcripts/2026-11-06/KjZOApq6Spg_WagerTalk_College_Basketball_Picks_Today_FRIDAY_BEST_BETS_CBB_Odds_Full_Court_Pr.txt  (11,730 words)
+NEW     CBB/transcripts/2026-11-06/isNWTAjYpGg_WagerTalk_CBB_Picks_TODAY_Michigan_vs_Uconn_Yale_vs_UCF_Predictions_BEST_Bets.txt  (1,254 words)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz Ikfaccm6ZEQ College Basketball Picks for Today 11/7/26 - Saturday's Best  (YouTube rate limit hit earlier this run)
-DEFER   PickDawgz urgpaKxUY-M College Basketball Picks & Predictions Today 11/7/26 | Ron's  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt  (2,549 words)
+NEW     CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predictions_Today_11_7_26_Ron_s_Bank_Shot_Bre.txt  (1,770 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -47,4 +54,5 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
