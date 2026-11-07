@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 16:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,38 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-downgraded-to-questionable-538021)
+**C** Chicago Bulls
+Hamstring
+November 7, 2026
+Claxton (hamstring) has been [downgraded ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_04_15PM.pdf)to questionable for Sunday's game against the 76ers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Zach Collins](https://www.rotowire.com/basketball/player/zach-collins-4162)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/zach-collins-injury-ruled-out-for-sunday-538020)
+**C** Chicago Bulls
+Illness
+November 7, 2026
+Collins (illness) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_04_15PM.pdf) for Sunday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Robert Williams](https://www.rotowire.com/basketball/player/robert-williams-4382)[Resting versus Spurs](https://www.rotowire.com/basketball/headlines/robert-williams-injury-resting-versus-spurs-538018)
+**C** Portland Trail Blazers
+Rest
+November 7, 2026
+Williams (rest) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_04_00PM.pdf) in Saturday's game against the Spurs.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
+[DeMar DeRozan](https://www.rotowire.com/basketball/player/demar-derozan-3019)[Good to go Saturday](https://www.rotowire.com/basketball/headlines/demar-derozan-injury-good-to-go-saturday-538016)
+**F** Denver Nuggets
+Back
+November 7, 2026
+DeRozan (back) is [active](https://x.com/nuggets/status/2119173439189664153?s=20) for Saturday's NBA Mexico City Game against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)[Still without timetable to return](https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-still-without-timetable-to-return-538013)
 **G** Indiana Pacers
@@ -168,34 +200,6 @@ Salaun finished with 13 points (3-11 FG, 2-8 3Pt, 5-6 FT) and four rebounds acro
 Illness
 November 7, 2026
 Clowney is [listed ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_10_00AM.pdf)as questionable for Saturday's game against the Hawks due to an illness.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)[Struggles with shot Friday](https://www.rotowire.com/basketball/headlines/paul-george-news-struggles-with-shot-friday-537959)
-**F** Boston Celtics
-November 7, 2026
-George registered eight points (3-11 FG, 2-5 3Pt), five rebounds, an assist, a steal and two blocks across 22 minutes in Friday's 119-80 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Payton Pritchard](https://www.rotowire.com/basketball/player/payton-pritchard-5131)[Scores 12 points Friday](https://www.rotowire.com/basketball/headlines/payton-pritchard-news-scores-12-points-friday-537958)
-**G** Boston Celtics
-November 7, 2026
-Pritchard tallied 12 points (4-10 FG, 4-6 3Pt), six rebounds, five assists and a steal across 23 minutes in Friday's 119-80 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)[Hits four threes Friday](https://www.rotowire.com/basketball/headlines/derrick-white-news-hits-four-threes-friday-537957)
-**G** Boston Celtics
-November 7, 2026
-White posted 18 points (6-10 FG, 4-6 3Pt, 2-2 FT), four rebounds, five assists and a steal across 25 minutes in Friday's 119-80 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[AJ Green](https://www.rotowire.com/basketball/player/aj-green-5750)[Drains four treys in Friday's loss](https://www.rotowire.com/basketball/headlines/aj-green-news-drains-four-treys-in-fridays-loss-537956)
-**G** Milwaukee Bucks
-November 7, 2026
-Green closed with 12 points (4-9 FG, 4-8 3Pt), one rebound and one block over 24 minutes off the bench during Friday's 121-107 loss to the Raptors.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

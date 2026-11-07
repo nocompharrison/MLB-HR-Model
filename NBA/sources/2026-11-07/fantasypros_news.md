@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-07 16:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-07 16:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,90 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![RJ Barrett](https://images.fantasypros.com/images/players/nba/4470/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rj-barrett.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/rj-barrett.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/rj-barrett.php)  
+[» More News](https://www.fantasypros.com/nba/news/rj-barrett.php)
+[RJ Barrett leads offense in Friday's win over Bucks](https://www.fantasypros.com/nba/news/618384/rj-barrett-leads-offense-fridays-win-over-bucks.php)  
+
+Sat, Nov 7th 4:20pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+RJ Barrett led the Raptors offense Friday night, scoring 27 points (9-21 FG, 0-4 3PT, 9-11 FT) while also dishing out four assists and grabbing seven rebounds in a 121-107 win over the Bucks.
+**_Fantasy Impact:_** Barrett continues a modest stretch on both ends of the floor, dishing out three or more assists, grabbing three or more rebounds, and scoring nine or more points in each of his last five games. The 26-year-old remains one of the more impactful options as part of an injury-riddled Toronto starting five, averaging 21.6 points, 3.9 assists, and 6.1 rebounds per game while posting a usage rate of 25.4% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jeremiah Fears](https://images.fantasypros.com/images/players/nba/6313/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jeremiah-fears.php)
+G - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/jeremiah-fears.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jeremiah-fears.php)  
+[» More News](https://www.fantasypros.com/nba/news/jeremiah-fears.php)
+[Jeremiah Fears leads offense in Friday's loss to Timberwolves](https://www.fantasypros.com/nba/news/618383/jeremiah-fears-leads-offense-fridays-loss-to-timberwolves.php)  
+
+Sat, Nov 7th 4:15pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jeremiah Fears led the Pelicans offense Friday night, scoring 24 points (9-16 FG, 0-1 3PT, 6-7 FT) while also dishing out five assists, recording two steals, and grabbing five rebounds in a 115-109 loss to the Timberwolves.
+**_Fantasy Impact:_** Fears continues a steady stretch on both ends of the floor, dishing out two or more assists, grabbing four or more rebounds, and scoring 12 or more points in each of his last five contests. The guard continues to capitalize on more sizeable role out of the New Orleans backcourt early on, averaging 14.8 points, 4.6 rebounds, and 4.6 assists per game to go along with a usage rate of 24.6% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Zion Williamson](https://images.fantasypros.com/images/players/nba/4468/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zion-williamson.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/zion-williamson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/zion-williamson.php)  
+[» More News](https://www.fantasypros.com/nba/news/zion-williamson.php)
+[Zion Williamson fills stat sheet Friday against Timberwolves](https://www.fantasypros.com/nba/news/618382/zion-williamson-fills-stat-sheet-friday-against-timberwolves.php)  
+
+Sat, Nov 7th 4:11pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Zion Williamson filled the stat sheet for the Pelicans Friday night, dishing out four assists, recording two steals, grabbing eight rebounds, and chipping in 13 points (5-10 FG, 3-4 FT) in a 115-109 loss to the Timberwolves.
+**_Fantasy Impact:_** Williamson continues a steady stretch on both ends of the floor, finishing with two or more assists, four or more rebounds, and 13 or more points in each of his last five contests. The forward remains one of the more stable options with explosive potential in the New Orleans starting five, averaging 20.6 points, 2.4 steals, and 5.4 rebounds per game while carrying a usage rate of 21.3% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jonathan Kuminga](https://images.fantasypros.com/images/players/nba/5267/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)
+F - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jonathan-kuminga.php)  
+[» More News](https://www.fantasypros.com/nba/news/jonathan-kuminga.php)
+[Jonathan Kuminga fills stat sheet Friday against Pelicans](https://www.fantasypros.com/nba/news/618381/jonathan-kuminga-fills-stat-sheet-friday-against-pelicans.php)  
+
+Sat, Nov 7th 4:07pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jonathan Kuminga filled the stat sheet for the Timberwolves Friday night, dishing out four assists, recording one steal, grabbing eight rebounds, and chipping in 17 points (5-12 FG, 1-6 3PT, 6-12 FT) in a 115-109 win over the Pelicans.
+**_Fantasy Impact:_** Kuminga continues a modest stretch on both ends of the floor, finishing with three or more assists, six or more rebounds, and eight or more points in each of his last four contests. The forward has provided head coach with another stable option as part of a balanced Minnesota five without Anthony Edwards, averaging 13.1 points and 5.9 rebounds per game to go along with a 16.9% usage rate so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ayo Dosunmu](https://images.fantasypros.com/images/players/nba/5189/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)
+G - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/ayo-dosunmu.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ayo-dosunmu.php)  
+[» More News](https://www.fantasypros.com/nba/news/ayo-dosunmu.php)
+[Ayo Dosunmu leads offense in Friday's win over Pelicans](https://www.fantasypros.com/nba/news/618380/ayo-dosunmu-leads-offense-fridays-win-over-pelicans.php)  
+
+Sat, Nov 7th 4:03pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Ayo Dosunmu led the Timberwolves offense Friday night, scoring 26 points (8-14 FG, 4-6 3PT, 6-6 FT) while also grabbing two rebounds, blocking one shot, and dishing out four assists in a 115-109 win over the Pelicans.
+**_Fantasy Impact:_** Dosunmu continues a solid stretch on the offensive end of the floor, finishing with two or more assists and 15 or more points in each of his last five contests. The guard continues to take advantage of increased opportunities out of the backcourt in place of the injured Anthony Edwards, averaging 17.3 points, 4.3 assists, and 5.0 rebounds per game to go along with a usage rate of 19.8% so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jaden McDaniels](https://images.fantasypros.com/images/players/nba/5081/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php)
+F - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/jaden-mcdaniels.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jaden-mcdaniels.php)  
+[» More News](https://www.fantasypros.com/nba/news/jaden-mcdaniels.php)
+[Jaden McDaniels fills stat sheet in Friday's win over Pelicans](https://www.fantasypros.com/nba/news/618379/jaden-mcdaniels-fills-stat-sheet-fridays-win-over-pelicans.php)  
+
+Sat, Nov 7th 4:00pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jaden McDaniels filled the stat sheet for the Timberwolves Friday night, dishing out five assists, recording one steal, grabbing six rebounds, blocking two shots, and scoring 23 points (8-19 FG, 2-7 3PT, 5-5 FT) in a 115-109 win over the Pelicans.
+**_Fantasy Impact:_** McDaniels continues a steady stretch on both ends of the floor, dishing out three or more assists, grabbing three or more rebounds, and scoring 13 or more points in each of his last five contests. The forward has offered head coach Chris Finch one of the more versatile options in a Minnesota starting five missing Anthony Edwards, averaging 17.1 points, 3.7 assists, and 6.2 rebounds per game while posting a 19.4% usage rate so far this season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![LaMelo Ball](https://images.fantasypros.com/images/players/nba/5078/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lamelo-ball.php)
 G - MIN
 [» Rankings](https://www.fantasypros.com/nba/players/lamelo-ball.php)  
@@ -203,90 +287,6 @@ Victor Wembanyama posted a double-double for the Spurs Friday night, grabbing 14
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Stephon Castle](https://images.fantasypros.com/images/players/nba/6160/headshot/100x100.png)](https://www.fantasypros.com/nba/players/stephon-castle.php)
-G - SAS
-[» Rankings](https://www.fantasypros.com/nba/players/stephon-castle.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/stephon-castle.php)  
-[» More News](https://www.fantasypros.com/nba/news/stephon-castle.php)
-[Stephon Castle flirts with double-double Friday against Kings](https://www.fantasypros.com/nba/news/618363/stephon-castle-flirts-with-double-double-friday-against-kings.php)  
-
-Sat, Nov 7th 10:37am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Stephon Castle flirted with a double-double for the Spurs Friday night, dishing out seven assists and chipping in 19 points (7-13 FG, 1-3 3PT, 4-5 FT) while also grabbing three rebounds in a 124-109 win over the Kings.
-**_Fantasy Impact:_** Castle continues a steady stretch on both ends of the floor, finishing with three or more assists, three or more rebounds, and 14 or more points in four of his last five games. The 22-year-old remains one of many impactful options in a deep San Antonio lineup, averaging 15.4 points, 5.0 assists, and 5.8 rebounds per game while posting a usage rate of 24.2% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Deni Avdija](https://images.fantasypros.com/images/players/nba/5084/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deni-avdija.php)
-F - POR
-[» Rankings](https://www.fantasypros.com/nba/players/deni-avdija.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deni-avdija.php)  
-[» More News](https://www.fantasypros.com/nba/news/deni-avdija.php)
-[Deni Avdija flirts with triple-double in Friday's loss to Lakers](https://www.fantasypros.com/nba/news/618362/deni-avdija-flirts-with-triple-double-fridays-loss-to-lakers.php)  
-
-Sat, Nov 7th 10:33am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Deni Avdija flirted with a triple-double for the Trailblazers Friday night, dishing out 11 assists, grabbing nine rebounds, and scoring 22 points (6-12 FG, 1-4 3PT, 9-14 FT) while also recording two steals in a 124-118 loss to the Lakers.
-**_Fantasy Impact:_** Avdija continues a dynamic stretch on both ends of the floor, dishing out two or more assists, grabbing three or more rebounds, and scoring 21 or more points in each of his last five contests. The forward offers fantasy managers one of the more impactful options while leading the Portland starting five most nights, averaging 23.3 points, 6.8 rebounds, and 7.0 assists per game while carrying a usage rate of 28.0% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Donovan Clingan](https://images.fantasypros.com/images/players/nba/6159/headshot/100x100.png)](https://www.fantasypros.com/nba/players/donovan-clingan.php)
-C - POR
-[» Rankings](https://www.fantasypros.com/nba/players/donovan-clingan.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/donovan-clingan.php)  
-[» More News](https://www.fantasypros.com/nba/news/donovan-clingan.php)
-[Donovan Clingan posts double-double Friday against Lakers](https://www.fantasypros.com/nba/news/618361/donovan-clingan-posts-double-double-friday-against-lakers.php)  
-
-Sat, Nov 7th 10:29am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Donovan Clingan posted a double-double for the Trailblazers Friday night, grabbing 11 rebounds and chipping in 17 points (6-8 FG, 3-5 3PT, 2-3 FT) while also dishing out one assist, blocking two shots, and recording one steal in a 124-118 loss to the Lakers.
-**_Fantasy Impact:_** Clingan continues a modest stretch on both ends of the floor, finishing with eight or more rebounds and four or more points in each of his last five contests. The center has offered head coach Micah Nori one of the more stable options in the Portland starting five early on, averaging 12.6 points, 2.4 blocks, and 10.6 rebounds per game to go along with a usage rate of 17.5% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/luka-doncic.php)  
-[» More News](https://www.fantasypros.com/nba/news/luka-doncic.php)
-[Luka Doncic explodes again in Friday's win over Trailblazers](https://www.fantasypros.com/nba/news/618360/luka-doncic-explodes-again-fridays-win-over-trailblazers.php)  
-
-Sat, Nov 7th 10:22am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Luka Doncic led the Lakers offense Friday night, exploding for 53 points (17-33 FG, 5-15 3PT, 14-18 FT) while also dishing out five assists, recording one steal, and grabbing five rebounds in a 124-118 win over the Trailblazers.
-**_Fantasy Impact:_** Doncic continues an explosive stretch on the offensive end of the floor, scoring 40 points or more in each of his last four contests. The superstar has rewarded fantasy managers with elite results in multiple category formats while leading a revamped Los Angeles starting five, averaging 40.1 points, 1.7 steals, 7.7 assists, and 7.8 rebounds per game while carrying a usage rate of 39.8% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
-[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
-[Austin Reaves fills stat sheet Friday against Trailblazers](https://www.fantasypros.com/nba/news/618359/austin-reaves-fills-stat-sheet-friday-against-trailblazers.php)  
-
-Sat, Nov 7th 10:17am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Austin Reaves filled the stat sheet for the Lakers Friday night, grabbing three rebounds, dishing out two assists, recording four steals, and scoring 25 points (8-22 FG, 1-8 3PT, 8-8 FT) in a 124-118 win over the Trailblazers.
-**_Fantasy Impact:_** Reaves continues a solid stretch on both ends of the floor, dishing out two or more assists, grabbing two or more rebounds, and scoring 19 or more points in each of his last five contests. The guard remains one of the more impactful options as part of a Los Angeles starting five led by Luka Doncic, averaging 23.5 points and 4.7 assists per game while posting a usage rate of 25.2% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Walker Kessler](https://images.fantasypros.com/images/players/nba/5537/headshot/100x100.png)](https://www.fantasypros.com/nba/players/walker-kessler.php)
-C - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/walker-kessler.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/walker-kessler.php)  
-[» More News](https://www.fantasypros.com/nba/news/walker-kessler.php)
-[Walker Kessler posts double-double Friday against Trailblazers](https://www.fantasypros.com/nba/news/618358/walker-kessler-posts-double-double-friday-against-trailblazers.php)  
-
-Sat, Nov 7th 10:14am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Walker Kessler posted a double-double for the Lakers Friday night, grabbing 12 rebounds and chipping in 16 points (7-10 FG, 2-3 FT) while also dishing out two assists and recording one steal in a 124-118 win over the Trailblazers.
-**_Fantasy Impact:_** Kessler continues a steady stretch on both ends of the floor, grabbing eight or more rebounds and scoring 10 or more points in each of his last five games. The 25-year-old has offered head coach J.J. Redick an impactful interior option in the Los Angeles starting five early on, averaging 14.6 points, 2.4 blocks, and 10.4 rebounds per game while posting a 15.5% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=989_1794085238217&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

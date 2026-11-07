@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7 | fetched: 2026-11-07 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7 | fetched: 2026-11-07 16:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -86,7 +86,7 @@ Today
 /
 5:00 PM on NBA TV
 •
-9.4k bets
+10.2k bets
 O.Toppin o10.5 Pts
 -125 (1u)
 Copy Bet
@@ -145,17 +145,17 @@ Action Network Staff
 NBA
 [Nuggets vs Pacers Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/denver-nuggets-vs-indiana-pacers-prediction-pick-nba-odds-for-saturday-november-7)
 Bryan Fonseca
-9 hours ago
+10 hours ago
 [![Knicks vs Cavaliers Prediction, Pick, NBA Odds for Saturday, November 7](https://images.actionnetwork.com/blog/2026/11/Knicks-Cavaliers-1172026.jpg)](https://www.actionnetwork.com/nba/new-york-knicks-vs-cleveland-cavaliers-prediction-pick-nba-odds-for-saturday-november-7)
 NBA
 [Knicks vs Cavaliers Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/new-york-knicks-vs-cleveland-cavaliers-prediction-pick-nba-odds-for-saturday-november-7)
 Bryan Fonseca
-6 hours ago
+7 hours ago
 [![NBA Predictions: Spread & Total Picks for Saturday, November 7](https://images.actionnetwork.com/blog/2026/11/MooreCard11726.jpg)](https://www.actionnetwork.com/nba/nba-predictions-spread-total-picks-for-saturday-november-7)
 NBA
 [NBA Predictions: Spread & Total Picks for Saturday, November 7](https://www.actionnetwork.com/nba/nba-predictions-spread-total-picks-for-saturday-november-7)
 Matt Moore
-4 hours ago
+5 hours ago
 [![Nets vs Hawks Prediction, Pick, NBA Odds for Saturday, November 7](https://images.actionnetwork.com/blog/2026/11/Nets-Hawks-1172026.jpg)](https://www.actionnetwork.com/nba/brooklyn-nets-vs-atlanta-hawks-prediction-pick-nba-odds-for-saturday-november-7)
 NBA
 [Nets vs Hawks Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/brooklyn-nets-vs-atlanta-hawks-prediction-pick-nba-odds-for-saturday-november-7)
@@ -165,12 +165,12 @@ Michael Arinze
 NBA
 [Magic vs Warriors Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/orlando-magic-vs-golden-state-warriors-prediction-pick-nba-odds-for-saturday-november-7)
 Matt Moore
-6 hours ago
+7 hours ago
 [![Rockets vs Suns Prediction, Pick, NBA Odds for Saturday, November 7](https://images.actionnetwork.com/blog/2026/11/Rockets-Suns-1172026.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-phoenix-suns-prediction-pick-nba-odds-for-saturday-november-7)
 NBA
 [Rockets vs Suns Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/houston-rockets-vs-phoenix-suns-prediction-pick-nba-odds-for-saturday-november-7)
 Joe Dellera
-6 hours ago
+7 hours ago
 [![Spurs vs Trail Blazers Prediction, Pick, NBA Odds for Saturday, November 7](https://images.actionnetwork.com/blog/2026/11/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-nba-odds-for-saturday-november-7.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-nba-odds-for-saturday-november-7)
 NBA
 [Spurs vs Trail Blazers Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-nba-odds-for-saturday-november-7)
@@ -180,7 +180,7 @@ Matt Moore
 NBA
 [Wizards vs Thunder Prediction, Pick, NBA Odds for Saturday, November 7](https://www.actionnetwork.com/nba/washington-wizards-vs-oklahoma-city-thunder-prediction-pick-nba-odds-for-saturday-november-7)
 Action Network Staff
-6 hours ago
+7 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -193,5 +193,5 @@ Matt Moore
 Oct 19, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f4af2a38-a431-4f93-89d3-8bd0615f6313&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eb31c598-2b2f-476b-b12e-018e90c9899e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f4af2a38-a431-4f93-89d3-8bd0615f6313&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eb31c598-2b2f-476b-b12e-018e90c9899e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=338c8331-9ec5-4d5a-98ad-14d2ef855f3f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eb31c598-2b2f-476b-b12e-018e90c9899e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=7484&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=338c8331-9ec5-4d5a-98ad-14d2ef855f3f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=eb31c598-2b2f-476b-b12e-018e90c9899e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=7484&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=dfdccf00-d2fe-4d70-826b-c43f852b65bd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6495bb19-0dfd-4cc5-a880-ec1d0608775c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=dfdccf00-d2fe-4d70-826b-c43f852b65bd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6495bb19-0dfd-4cc5-a880-ec1d0608775c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9dcb3239-e599-4e83-85ff-0ae0c2f82883&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6495bb19-0dfd-4cc5-a880-ec1d0608775c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=7489&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9dcb3239-e599-4e83-85ff-0ae0c2f82883&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6495bb19-0dfd-4cc5-a880-ec1d0608775c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-scoot-henderson-kevin-durant-on-saturday-november-7&tw_engaged_ms=7489&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794085391740-953587303&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

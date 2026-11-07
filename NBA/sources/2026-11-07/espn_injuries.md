@@ -1,8 +1,10 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-07 16:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-07 16:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
+
+Published Time: Mon, 26 Oct 2026 16:48:38 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
@@ -126,7 +128,6 @@ NBA TV
 | [Noah Clowney](https://www.espn.com/nba/player/_/id/4712896/noah-clowney) | F | Nov 7 | Day-To-Day | Nov 7: Clowney is listed as questionable for Saturday's game against the Hawks due to an illness. |
 | [Day'Ron Sharpe](https://www.espn.com/nba/player/_/id/4432194/dayron-sharpe) | C | Nov 4 | Day-To-Day | Nov 4: Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers. |
 | [Egor Demin](https://www.espn.com/nba/player/_/id/5175643/egor-demin) | G | Nov 11 | Out | Oct 29: The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday. |
-| [Tyler Bilodeau](https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau) | F | Nov 7 | Out | Oct 25: Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. |
 
 ![Image 27: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
@@ -246,7 +247,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jaylin Williams](https://www.espn.com/nba/player/_/id/4432823/jaylin-williams) | F | Nov 10 | Day-To-Day | Nov 7: Williams (back) has been ruled out for Friday's game against the Grizzlies. |
+| [Jaylin Williams](https://www.espn.com/nba/player/_/id/4432823/jaylin-williams) | F | Nov 10 | Out | Nov 7: Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports. |
 | [Thomas Sorber](https://www.espn.com/nba/player/_/id/5061603/thomas-sorber) | C | Nov 13 | Out | Nov 3: Sorber (knee) is out for Wednesday's game against the Cavaliers. |
 | [Cason Wallace](https://www.espn.com/nba/player/_/id/4683692/cason-wallace) | G | Mar 2 | Out | Oct 30: Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports. |
 | [Chet Holmgren](https://www.espn.com/nba/player/_/id/4433255/chet-holmgren) | C | Jan 2 | Out | Oct 30: Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports. |
@@ -317,13 +318,12 @@ NBA TV
 | --- | --- | --- | --- | --- |
 | [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
-| [Trey Alexander](https://www.espn.com/nba/player/_/id/4433268/trey-alexander) | G | Nov 6 | Out | Oct 24: Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. |
 
 ![Image 50: Washington Wizards](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png&h=40&w=40)Washington Wizards
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Anthony Davis](https://www.espn.com/nba/player/_/id/6583/anthony-davis) | F | Nov 7 | Day-To-Day | Nov 7: Davis (ankle) is listed as out for Friday's game against the Hawks. |
+| [Anthony Davis](https://www.espn.com/nba/player/_/id/6583/anthony-davis) | F | Nov 7 | Day-To-Day | Nov 7: Davis (ankle) is questionable for Saturday's game against the Thunder. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 9 | Out | Nov 1: Vukcevic (hip) is listed as out for Monday's game against Orlando. |
 | [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
@@ -331,43 +331,15 @@ NBA TV
 
 Data Provided by Rotowire
 
-Sponsored Headlines
-
-[](https://related.trendingresults.net/topics/4331003/2353FEF)[New Small Suv For Elderly Leaves Others Behind - Take a Look!TrendingResults | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/2353FEF "New Small Suv For Elderly Leaves Others Behind - Take a Look!")
-
-[](https://www.goodrx.com/conditions/hypothyroidism/how-to-take-hypothyroidism-medications-tips)[8 Tips for Taking Medications for Hypothyroidism GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.goodrx.com/conditions/hypothyroidism/how-to-take-hypothyroidism-medications-tips "8 Tips for Taking Medications for Hypothyroidism")
-
-[](https://wellnesstodays.site/mmb)[The Odd 'Honey and Menthol' Habit Couples Over 60 Are Trying wellnesstodays | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wellnesstodays.site/mmb "The Odd 'Honey and Menthol' Habit Couples Over 60 Are Trying")
-
-[](https://qualifymycase.com/auto-calc)[Hurt In A Car Accident? A 45-Second Eligibility Check Were you injured in a motor vehicle accident in the last 12 months and it was not your fault? Check out your options.QualifyMyCase | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://qualifymycase.com/auto-calc "Hurt In A Car Accident? A 45-Second Eligibility Check")
-
-[](https://qualifymycase.com/auto-calc)[Hurt in a Car Accident? Find Out What Your Case May Be Worth A quick online calculator can help you explore your potential case value and next steps.QualifyMyCase | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://qualifymycase.com/auto-calc "Hurt in a Car Accident? Find Out What Your Case May Be Worth")
-
-[](https://wellnesstodayonline.net/fructaid-symptom-discovery)[Bloated After Sweets? Take This 20-Second Check Tick 6 quick boxes to see if your bloating follows a fructose pattern. Takes 20 seconds.Fructaid | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://wellnesstodayonline.net/fructaid-symptom-discovery "Bloated After Sweets? Take This 20-Second Check")
-
-[](https://rhs.search.yahoo.com/rhs)[Search for top senior phone plans Research top senior phone plans on Yahoo. View top results now.Yahoo Search | Senior phone plans | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for top senior phone plans")
-
-[](https://tracking.autoinsurance.com/)[Auto Insurance Tips To Potentially Save In South Carolina You Could Save $500 Per Year On Car Insurance. Compare & Get A Free Quote!Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tracking.autoinsurance.com/ "Auto Insurance Tips To Potentially Save In South Carolina")
-
-[](https://relaxe.co/pages/review-6-tb)[Americans Are Furious They Overpaid For Massage Chairs Relaxe | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://relaxe.co/pages/review-6-tb "Americans Are Furious They Overpaid For Massage Chairs")
-
 ### NBA News
 
-[![Image 51: Man arrested on stalking charges at LeBron James' home in Los Angeles](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735508_600x400_3-2.jpg&w=220) ## Man arrested on stalking charges at LeBron James' home in Los Angeles A man was arrested on Friday night at LeBron James' Brentwood, California, home, a Los Angeles Police Department spokesperson confirmed to ESPN on Saturday. * 25m * Dave McMenamin](https://www.espn.com/nba/story/_/id/50410292/man-arrested-stalking-charges-lebron-james-home-la)
+[![Image 51: Man arrested on stalking charges at LeBron James' home in Los Angeles](https://a.espncdn.com/combiner/i?img=/photo/2026/1024/r1735508_600x400_3-2.jpg&w=220) ## Man arrested on stalking charges at LeBron James' home in Los Angeles A man was arrested on Friday night at LeBron James' Brentwood, California, home, a Los Angeles Police Department spokesperson confirmed to ESPN on Saturday. * 1h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50410292/man-arrested-stalking-charges-lebron-james-home-la)
 
-[![Image 52: Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options](https://a.espncdn.com/combiner/i?img=/photo/2026/1107/r1742411_1296x729_16-9.jpg&w=220) ## Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and his favorite bets. * 4h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50392774/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 52: Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options](https://a.espncdn.com/combiner/i?img=/photo/2026/1107/r1742411_1296x729_16-9.jpg&w=220) ## Saturday's fantasy hoops adds, NBA bets to make: Traore, Eason among top options Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and his favorite bets. * 5h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50392774/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 53: Fantasy basketball: Four players whose upgraded skill sets look real](https://a.espncdn.com/combiner/i?img=/photo/2026/1105/r1741720_1296x729_16-9.jpg&w=220) ## Fantasy basketball: Four players whose upgraded skill sets look real Which players have added new dimensions to their game? Here are four who can sustain their newly-demonstrated skills. * 6h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50391882/fantasy-basketball-nba-trends-players-new-skills)
+[![Image 53: Fantasy basketball: Four players whose upgraded skill sets look real](https://a.espncdn.com/combiner/i?img=/photo/2026/1105/r1741720_1296x729_16-9.jpg&w=220) ## Fantasy basketball: Four players whose upgraded skill sets look real Which players have added new dimensions to their game? Here are four who can sustain their newly-demonstrated skills. * 7h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50391882/fantasy-basketball-nba-trends-players-new-skills)
 
 [All NBA News](https://www.espn.com/nba/)
-
-Sponsored Headlines
-
-[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
-
-[](https://wellnesstodays.site/mmb)[The Small Morning Change Many Couples Over 60 Swear By wellnesstodays | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://wellnesstodays.site/mmb "The Small Morning Change Many Couples Over 60 Swear By")
-
-[](https://www.goodrx.com/synthroid/what-is)[What is Synthroid (levothyroxine)?GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.goodrx.com/synthroid/what-is "What is Synthroid (levothyroxine)?")
 
 ![Image 54: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
