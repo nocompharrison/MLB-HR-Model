@@ -1,10 +1,12 @@
-# CBB transcripts | 2026-11-07 | updated 2026-11-07 15:19 ET
+# CBB transcripts | 2026-11-07 | updated 2026-11-07 17:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 8 files in CBB/transcripts/2026-11-07:
+# 10 files in CBB/transcripts/2026-11-07:
+CBB/transcripts/2026-11-07/5mnGVpOo18M_FieldOf68_Michigan_DOESN_T_have_a_Final_Four_ceiling_UConn_rolls_past_the_Wolve.txt
 CBB/transcripts/2026-11-07/8lrFa9Dcwus_TCE_College_Basketball_Picks_For_November_7th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt
 CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt
 CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt
+CBB/transcripts/2026-11-07/_46-1zcZAu0_FieldOf68_TOP_DOGS_Natty_Revenge_REACTION_to_UConn_s_win_over_Michigan.txt
 CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt
 CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt
 CBB/transcripts/2026-11-07/pVfJ0xxAYNo_FieldOf68_Bobby_Hurley_INTERVIEWS_Dan_Hurley_Well_this_is_a_SURPRISE_AFTER_DARK.txt
@@ -13,11 +15,7 @@ CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predic
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-06/DP6Q9Na4-gc_CBSCollegeBB_No_4_UConn_vs_No_16_Michigan_Preview_Prediction_A_title_game_REMATCH_i.txt  (1,585 words)
-NEW     CBB/transcripts/2026-11-06/jipnPpS4_Tc_CBSCollegeBB_Saint_Louis_vs_Missouri_Preview_Prediction_Robbie_Avila_is_BACK.txt  (1,669 words)
-NEW     CBB/transcripts/2026-11-06/xDYwl0BcpfU_CBSCollegeBB_Florida_Duke_Illinois_are_running_the_show_Wknd_Preview_UConn_Michigan.txt  (12,601 words)
-DEFER   FieldOf68 5mnGVpOo18M 'Michigan DOESN'T have a Final Four ceiling...' | UConn roll  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-06/JCkDvKg4jR0_CBSCollegeBB_Bryan_Hodgson_says_Nick_Saban_met_with_every_single_Alabama_basketball.txt  (4,070 words)
 DEFER   FieldOf68 ueELveUZPw0 UConn gets REVENGE on Michigan! | 'The most ELITE backcourt   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 2ReQIBFX2AY UConn gets REVENGE over Michigan! Saint Louis makes a STATEM  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 05Y5k1mP71E EXCLUSIVE: Josh Schertz on Saint Louis' STATEMENT win over M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
@@ -27,11 +25,11 @@ DEFER   FieldOf68 IQmQoIvuHy0 PREVIEW: Robbie Avila is BACK for Saint Louis! Can
 DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Illini's SUP  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NOCAPS  FieldOf68 _46-1zcZAu0 TOP DOGS: Natty Revenge! | REACTION to UConn's win over Mich  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-07/_46-1zcZAu0_FieldOf68_TOP_DOGS_Natty_Revenge_REACTION_to_UConn_s_win_over_Michigan.txt  (4,909 words)
 SKIPPED FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (age-restricted on YouTube - needs a signed-in cookie file to pull; no VPN rotation)
-NEW     CBB/transcripts/2026-11-07/pVfJ0xxAYNo_FieldOf68_Bobby_Hurley_INTERVIEWS_Dan_Hurley_Well_this_is_a_SURPRISE_AFTER_DARK.txt  (2,418 words)
+NEW     CBB/transcripts/2026-11-07/5mnGVpOo18M_FieldOf68_Michigan_DOESN_T_have_a_Final_Four_ceiling_UConn_rolls_past_the_Wolve.txt  (1,550 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-07/8lrFa9Dcwus_TCE_College_Basketball_Picks_For_November_7th_NCAA_Basketball_Banter_Best.txt  (22,867 words, via Groq)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
