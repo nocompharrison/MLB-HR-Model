@@ -1,25 +1,22 @@
-# CBB transcripts | 2026-11-07 | updated 2026-11-07 11:21 ET
+# CBB transcripts | 2026-11-07 | updated 2026-11-07 15:19 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 6 files in CBB/transcripts/2026-11-07:
+# 8 files in CBB/transcripts/2026-11-07:
+CBB/transcripts/2026-11-07/8lrFa9Dcwus_TCE_College_Basketball_Picks_For_November_7th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt
 CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt
 CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt
 CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt
 CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt
+CBB/transcripts/2026-11-07/pVfJ0xxAYNo_FieldOf68_Bobby_Hurley_INTERVIEWS_Dan_Hurley_Well_this_is_a_SURPRISE_AFTER_DARK.txt
 CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predictions_Today_11_7_26_Ron_s_Bank_Shot_Bre.txt
 # also filed this run under the slate their titles name: CBB/transcripts/2026-11-06
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-DEFER   CBSCollegeBB DP6Q9Na4-gc No. 4 UConn vs. No. 16 Michigan Preview & Prediction: A titl  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB jipnPpS4_Tc Saint Louis vs. Missouri Preview & Prediction: Robbie Avila   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB xDYwl0BcpfU Florida, Duke & Illinois are running the show; Wknd Preview!  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB JCkDvKg4jR0 Bryan Hodgson says Nick Saban met with every single Alabama   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-06/foc3dQYeJWE_CBSCollegeBB_No_9_Virginia_vs_No_12_Arkansas_Preview_Prediction_John_Calipari_and_R.txt  (1,021 words)
-NEW     CBB/transcripts/2026-11-06/QlcCrfpJ_rY_CBSCollegeBB_Michigan_vs_UConn_Game_Preview_Week_1_Picks_and_Predictions.txt  (1,427 words)
-NEW     CBB/transcripts/2026-11-06/1GFCqPH4wp4_CBSCollegeBB_Florida_Duke_Illinois_Which_one_is_the_best_of_the_best.txt  (2,788 words)
-DEFER   FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 pVfJ0xxAYNo Bobby Hurley INTERVIEWS Dan Hurley!! | 'Well this is a SURPR  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-06/DP6Q9Na4-gc_CBSCollegeBB_No_4_UConn_vs_No_16_Michigan_Preview_Prediction_A_title_game_REMATCH_i.txt  (1,585 words)
+NEW     CBB/transcripts/2026-11-06/jipnPpS4_Tc_CBSCollegeBB_Saint_Louis_vs_Missouri_Preview_Prediction_Robbie_Avila_is_BACK.txt  (1,669 words)
+NEW     CBB/transcripts/2026-11-06/xDYwl0BcpfU_CBSCollegeBB_Florida_Duke_Illinois_are_running_the_show_Wknd_Preview_UConn_Michigan.txt  (12,601 words)
 DEFER   FieldOf68 5mnGVpOo18M 'Michigan DOESN'T have a Final Four ceiling...' | UConn roll  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 ueELveUZPw0 UConn gets REVENGE on Michigan! | 'The most ELITE backcourt   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 2ReQIBFX2AY UConn gets REVENGE over Michigan! Saint Louis makes a STATEM  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
@@ -31,22 +28,16 @@ DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Il
 DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 NOCAPS  FieldOf68 _46-1zcZAu0 TOP DOGS: Natty Revenge! | REACTION to UConn's win over Mich  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt  (4,735 words)
-NEW     CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt  (1,111 words)
+SKIPPED FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (age-restricted on YouTube - needs a signed-in cookie file to pull; no VPN rotation)
+NEW     CBB/transcripts/2026-11-07/pVfJ0xxAYNo_FieldOf68_Bobby_Hurley_INTERVIEWS_Dan_Hurley_Well_this_is_a_SURPRISE_AFTER_DARK.txt  (2,418 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt  (907 words)
-NEW     CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt  (20,584 words)
-NOCAPS  TCE 8lrFa9Dcwus College Basketball Picks For November 7th - NCAA Basketball   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-07/8lrFa9Dcwus_TCE_College_Basketball_Picks_For_November_7th_NCAA_Basketball_Banter_Best.txt  (22,867 words, via Groq)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-06/8htnVorFTkY_WagerTalk_College_Basketball_Betting_Gambling_in_Vegas_Stu_Ungar_Stories_Alan_Bo.txt  (9,955 words)
-NEW     CBB/transcripts/2026-11-06/RfO7WYTSG_A_WagerTalk_College_Basketball_Picks_Today_FRIDAY_BEST_BETS_CBB_Odds_Full_Court_Pr.txt  (11,739 words)
-NEW     CBB/transcripts/2026-11-06/KjZOApq6Spg_WagerTalk_College_Basketball_Picks_Today_FRIDAY_BEST_BETS_CBB_Odds_Full_Court_Pr.txt  (11,730 words)
-NEW     CBB/transcripts/2026-11-06/isNWTAjYpGg_WagerTalk_CBB_Picks_TODAY_Michigan_vs_Uconn_Yale_vs_UCF_Predictions_BEST_Bets.txt  (1,254 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt  (2,549 words)
-NEW     CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predictions_Today_11_7_26_Ron_s_Bank_Shot_Bre.txt  (1,770 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -54,5 +45,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
