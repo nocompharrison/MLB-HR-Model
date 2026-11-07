@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-07 | updated 2026-11-07 16:07 ET
+# NBA transcripts | 2026-11-07 | updated 2026-11-07 16:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 9 files in NBA/transcripts/2026-11-07:
 NBA/transcripts/2026-11-07/21Eo4JUaXtQ_LockedOnNBA_Can_Anything_STOP_The_Lakers_Luka_With_53_Cavs_CRUSH_Sixers.txt
@@ -12,22 +12,22 @@ NBA/transcripts/2026-11-07/rlNW4UpvDjY_ShipItNation_NBA_DFS_Process_November_7_2
 NBA/transcripts/2026-11-07/xHnQr8GXt4c_FantasyAces_Best_NBA_Picks_Bets_for_Saturday_11_07.txt
 
 # this run:
-NEW     NBA/transcripts/2026-11-07/UBHoE7bIXm0_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Saturday_Buckets_Podcast.txt  (6,056 words)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-07/rlNW4UpvDjY_ShipItNation_NBA_DFS_Process_November_7_2026_DraftKings_FanDuel_Picks_Plays_Slate_B.txt  (1,668 words)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-07/21Eo4JUaXtQ_LockedOnNBA_Can_Anything_STOP_The_Lakers_Luka_With_53_Cavs_CRUSH_Sixers.txt  (6,936 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-07/c4LzHUgwki8_JayMoney_Saturday_NBA_Talk_With_Jay_Money_Is_Money_Free_NBA_Picks.txt  (4,044 words)
+NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -36,5 +36,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-07/fj9vb3JTwSA_PickDawgz_NBA_Alternate_Line_Prediction_11_07_26_The_Extendo_Clip.txt  (822 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
