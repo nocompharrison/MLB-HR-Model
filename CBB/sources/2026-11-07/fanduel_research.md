@@ -1,10 +1,10 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-07 08:33 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-07 11:17 ET -->
 
 
 ---
 ## SOURCE: https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026
 
-Title: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7
+Title: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7 | FanDuel Research
 
 URL Source: https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026
 
@@ -334,7 +334,7 @@ START YOUR OWN WINNING STREAK
 
 ![Image 52: SportsBookLogo](https://fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 
-[See Promos](https://sportsbook.fanduel.com/promotions)
+[](https://fanduel.com/research/[slug])
 
 ![Image 53: Chevrons Texture](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe0b0a425fa82026919c0e289dd2624c153536b20-485x66.png&w=1080&q=100)
 
@@ -349,7 +349,7 @@ START YOUR OWN WINNING STREAK
 
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
 
-9h
+12h
 
 Subscribe to our newsletter
 
@@ -415,41 +415,41 @@ I confirm I am 21+ years of age
 
 ### Recent Stories
 
-[BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/byu-vs-utah-prediction-today-picks-props-best-bets-nov-7)
-
-22m
-
-![Image 58: BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd21d09608d4b9e4a08ac8ed4f8151fe21a98826-4356x2904.jpg%3Frect%3D429%2C0%2C3897%2C2113%26w%3D332%26h%3D180&w=330&q=100)
-
-[Trail Blazers vs. Spurs Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/trail-blazers-vs-spurs-prediction-nba-odds-spread-best-bets-for-11-7-2026)
+[College Football Prop Bets Today: 4 Best Player Props for Saturday, Nov. 7](https://fanduel.com/research/college-football-props-today-saturday-nov-7)
 
 2h
 
-![Image 59: Trail Blazers vs. Spurs Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1db430b75291e094b73504b5ee0a7d8052b5b989-4500x3000.jpg%3Frect%3D0%2C280%2C4500%2C2440%26w%3D332%26h%3D180&w=330&q=100)
+![Image 58: College Football Prop Bets Today: 4 Best Player Props for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2095718e07f3879364be9ca877c2381eafc9ee78-3391x2261.jpg%3Frect%3D0%2C15%2C2977%2C1614%26w%3D332%26h%3D180&w=330&q=100)
 
-[Thunder vs. Wizards Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/thunder-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-7-2026)
+[FanDuel College Football Promo Today: Choose Your Reward (Nov. 7)](https://fanduel.com/research/fanduel-college-football-promo-today-choose-your-reward-nov-7)
 
-6h
+2h
 
-![Image 60: Thunder vs. Wizards Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F152d424d6d1d7f3c544c647892a0ce97b03fed65-3923x2615.jpg%3Frect%3D0%2C245%2C3923%2C2127%26w%3D332%26h%3D180&w=330&q=100)
+![Image 59: FanDuel College Football Promo Today: Choose Your Reward (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb35d370a2fa58dfbd257559e0cc7830ec5d28aaf-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
 
-[Cavaliers vs. Knicks Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-11-7-2026)
+[College Football Picks Today: 3 Predictions and Best Bets for Saturday (Nov. 7)](https://fanduel.com/research/college-football-picks-today-3-predictions-best-bets-saturday-nov-7)
 
-6h
+2h
 
-![Image 61: Cavaliers vs. Knicks Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc9e7df8d3774a2ab29f9a0f6bc15064182c361af-7884x5256.jpg%3Frect%3D0%2C491%2C7884%2C4274%26w%3D332%26h%3D180&w=330&q=100)
+![Image 60: College Football Picks Today: 3 Predictions and Best Bets for Saturday (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5cbbaf2f0206ea79dd047859c1f38a3e9d80e538-6782x4521.jpg%3Frect%3D0%2C240%2C6329%2C3431%26w%3D332%26h%3D180&w=330&q=100)
 
-[Hawks vs. Nets Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/hawks-vs-nets-prediction-nba-odds-spread-best-bets-for-11-7-2026)
+[FanDuel NBA Promo: 50% Profit Boost for Today (Nov. 7)](https://fanduel.com/research/fanduel-nba-promo-50-profit-boost-for-today-nov-7)
 
-6h
+2h
 
-![Image 62: Hawks vs. Nets Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7fa8cc5d9f6795b28ca6ba6b35583b3bd40d0d72-6000x4000.jpg%3Frect%3D0%2C374%2C6000%2C3253%26w%3D332%26h%3D180&w=330&q=100)
+![Image 61: FanDuel NBA Promo: 50% Profit Boost for Today (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8e1843bbfe9df0839a33f816d4e3650f1361e8bc-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
 
-[Kings vs Penguins NHL Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/kings-vs-penguins-prediction-nhl-odds-11-7-2026)
+[NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7)
 
-8h
+3h
 
-![Image 63: Kings vs Penguins NHL Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7d4a6ac536c45dc02813d6f2b79d8679133be997-3626x2419.jpg%3Frect%3D0%2C227%2C3626%2C1966%26w%3D332%26h%3D180&w=330&q=100)
+![Image 62: NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0644bec03982215dc199f7599547546ba1c63d01-3651x2434.jpg%3Frect%3D68%2C0%2C3578%2C1940%26w%3D332%26h%3D180&w=330&q=100)
+
+[BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/byu-vs-utah-prediction-today-picks-props-best-bets-nov-7)
+
+3h
+
+![Image 63: BYU vs. Utah Prediction Today: Picks, Props and Best Bets (Nov. 7)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd21d09608d4b9e4a08ac8ed4f8151fe21a98826-4356x2904.jpg%3Frect%3D429%2C0%2C3897%2C2113%26w%3D332%26h%3D180&w=330&q=100)
 
 Show more news
 
@@ -459,57 +459,19 @@ Show more news
 
 ![Image 64: Bet $5, Get $50 for 4 days](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
 
-[More Info](https://wv.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
+[More Info](https://md.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
 
-![Image 65: Real Community Picks](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F30%2F2026-10-30_19-13-12_600x300.jpg&w=1920&q=100)
+![Image 65: Faceoff Daily Discounts Week](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F15%2F2026-09-15_16-00-25_600x300.jpg&w=1920&q=100)
 
-[More Info](https://tn.sportsbook.fanduel.com/promotions?promoCode=REALCMPKST1106)[Bet the Picks Now](https://sportsbook.fanduel.com/addToBetslip?marketId[0]=42.619910863&selectionId[0]=484725&marketId[1]=42.619910641&selectionId[1]=1010531&marketId[2]=42.619910016&selectionId[2]=567122&marketId[3]=42.621251055&selectionId[3]=484727)
+[More Info](https://nc.sportsbook.fanduel.com/promotions?promoCode=FODENTRYWEEK1102)[PLAY NOW](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
 
-![Image 66: NBA Bet Protect+ Enhancements](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_21-43-55_600x300.jpg&w=1920&q=100)
+![Image 66: CFB Choose Your Own Reward](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F2%2F2026-11-02_19-52-32_600x300.jpg&w=1920&q=100)
 
-[More Info](https://wv.sportsbook.fanduel.com/promotions?promoCode=NBABPSTATIC1103)[Learn More](https://www.fanduel.com/betprotect)
+[More Info](https://la.sportsbook.fanduel.com/promotions?promoCode=LOCFBCYR110726)[Log in](https://sportsbook.fanduel.com/login)
 
-![Image 67: CFB Choose Your Own Reward](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F2%2F2026-11-02_19-52-32_600x300.jpg&w=1920&q=100)
+![Image 67: College Football Pick’em](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F1%2F2026-09-01_15-14-26_600x300.jpg&w=1920&q=100)
 
-[More Info](https://mo.sportsbook.fanduel.com/promotions?promoCode=LOCFBCYR110726)[Log in](https://sportsbook.fanduel.com/login)
-
-## More Articles You May Like
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-
-9h
-
-Find Louisville vs. Morehead State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
-
-[![Image 68: Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdcaa8376b04f8d315bf2e93d15441d39e22e459b-3840x2160.jpg%3Frect%3D0%2C130%2C3840%2C1900%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-
-9h
-
-Find Gonzaga vs. New Mexico State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
-
-[![Image 69: Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fac5e303bae2b076b0922c46885fd976c9df71172-8640x5760.jpg%3Frect%3D0%2C743%2C8640%2C4275%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [UConn vs. Michigan Prediction and Picks for Friday, Nov. 6](https://fanduel.com/research/uconn-vs-michigan-prediction-and-picks-for-friday-nov-6)
-
-23h
-
-UConn vs. Michigan betting picks and best bets for today.
-
-[![Image 70: UConn vs. Michigan Prediction and Picks for Friday, Nov. 6](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4249a2145a20dc0cc1f936ca5ef0ecf5b13647d6-5400x3600.jpg%3Frect%3D149%2C0%2C5103%2C2525%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/uconn-vs-michigan-prediction-and-picks-for-friday-nov-6)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [College Basketball Picks Today: 3 Predictions and Player Props for Friday, Nov. 6](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-friday-nov-6)
-
-24h
-
-College basketball best bets and picks for Friday's slate.
-
-[![Image 71: College Basketball Picks Today: 3 Predictions and Player Props for Friday, Nov. 6](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F56aeca677f3d6219a87635d2f994c03e4058abf1-4104x2736.jpg%3Frect%3D185%2C125%2C3919%2C1939%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-friday-nov-6)
+[More Info](https://co.sportsbook.fanduel.com/promotions?promoCode=CFBPICKFTPST1104)[Play Free](https://account.sportsbook.fanduel.com/free/contest/collegefootballpickem)
 
 *   ### ABOUT
 
@@ -645,31 +607,31 @@ College basketball best bets and picks for Friday's slate.
 
 © Betfair Interactive US LLC, 2026
 
-Gambling Problem? Call![Image 72: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 73: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 74: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 75: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 76: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 77: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
+Gambling Problem? Call![Image 68: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 69: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 70: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 71: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 72: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 73: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
 
 Persons under 21 are not permitted to engage in sports wagering. For customer support please[contact us](https://sportsbook.fanduel.com/support).
 
-![Image 78: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
+![Image 74: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
 
-![Image 79: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
+![Image 75: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
 
-![Image 80: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
+![Image 76: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
 
-![Image 81: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
+![Image 77: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
 
-![Image 82: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
+![Image 78: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
 
-![Image 83: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
+![Image 79: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
 
-![Image 84: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
+![Image 80: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
 
-![Image 85: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
+![Image 81: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
 
-![Image 86: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
+![Image 82: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
 
-![Image 87: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
+![Image 83: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
 
-![Image 88: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
+![Image 84: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
 
 [Back to top](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026#)
 
@@ -689,7 +651,7 @@ START YOUR OWN WINNING STREAK
 # Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-9h
+12h
 Link
 ![Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fac5e303bae2b076b0922c46885fd976c9df71172-8640x5760.jpg%3Frect%3D0%2C743%2C8640%2C4275%26w%3D964%26h%3D477&w=1920&q=100)
 The Gonzaga Bulldogs (1-0) hit the court against the New Mexico State Aggies (1-0) on November 7, 2026.
@@ -735,22 +697,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Louisville vs Morehead State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-9h
+12h
 Find Louisville vs. Morehead State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
 [](https://fanduel.com/research/louisville-vs-morehead-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Gonzaga vs New Mexico State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 7](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
-9h
+12h
 Find Gonzaga vs. New Mexico State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 college basketball matchup.
 [](https://fanduel.com/research/gonzaga-vs-new-mexico-state-college-basketball-predictions-odds-picks-best-bets-for-11-7-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [UConn vs. Michigan Prediction and Picks for Friday, Nov. 6](https://fanduel.com/research/uconn-vs-michigan-prediction-and-picks-for-friday-nov-6)
-23h
+1d
 UConn vs. Michigan betting picks and best bets for today.
 [](https://fanduel.com/research/uconn-vs-michigan-prediction-and-picks-for-friday-nov-6)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: 3 Predictions and Player Props for Friday, Nov. 6](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-friday-nov-6)
-24h
+1d
 College basketball best bets and picks for Friday's slate.
 [](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-friday-nov-6)
 
