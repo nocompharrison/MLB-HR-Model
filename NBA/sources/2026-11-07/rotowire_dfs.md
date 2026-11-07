@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 18:50 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 7
 Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Nov. 7 NBA slate.
@@ -35,7 +35,7 @@ Donovan Clingan Over 11.5 Rebounds-102
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.90](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:46 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **New York Knicks vs. Cleveland Cavaliers:**[**Jalen Brunson**](https://www.rotowire.com/basketball/player/jalen-brunson-4405)**over 2.5 three-pointers, -110 @ BetMGM**
 Brunson has emerged as one of the NBA's most productive perimeter scorers in recent games, making at least three three-pointers in four consecutive appearances. The Knicks guard has connected on 18 of 41 attempts from beyond the arc during that stretch (43.9 percent). His shooting volume is particularly noteworthy, as Brunson has attempted at least 10 threes in each of those four contests as well. 
 The results have been equally encouraging. Brunson made six triples against Chicago on October 28, followed by three against Philadelphia, four against Brooklyn and five in his latest appearance against the Bulls. The star floor general has also averaged 25.6 points through eight appearances, reinforcing his importance to New York's scoring attack. Given his recent shooting volume and consistency, three made three-pointers represent an attainable threshold at nearly even-money odds.

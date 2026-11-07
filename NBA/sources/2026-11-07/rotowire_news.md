@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,14 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/anthony-davis-injury-ruled-out-for-saturday-538041)
+**C** Washington Wizards
+Ankle
+November 7, 2026
+Davis (ankle) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_06_30PM.pdf) Saturday against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Riley Minix](https://www.rotowire.com/basketball/player/riley-minix-6314)[Inks two-way deal with Cavs](https://www.rotowire.com/basketball/headlines/riley-minix-news-inks-two-way-deal-with-cavs-538040)
 **F** Cleveland Cavaliers
@@ -196,14 +204,6 @@ Newell (toe) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report
 Ankle
 November 7, 2026
 Tyson (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf) for Saturday's game against the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Out again Saturday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-out-again-saturday-537992)
-**C** Atlanta Hawks
-Hip
-November 7, 2026
-Landale (hip) has been ruled [out ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_01_00PM.pdf)for Saturday's game against the Nets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

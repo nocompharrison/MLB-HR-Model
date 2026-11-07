@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 18:50 ET -->
 
 # NBA DFS Picks Today
 November 7, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, November 7 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (BKN @ ATL) Brooklyn Nets (BKN @ ATL) Cleveland Cavaliers (NYK @ CLE) Denver Nuggets (DEN @ IND) Golden State Warriors (ORL @ GSW) Houston Rockets (HOU @ PHX) Indiana Pacers (DEN @ IND) New York Knicks (NYK @ CLE) Oklahoma City Thunder (WSH @ OKC) Orlando Magic (ORL @ GSW) Phoenix Suns (HOU @ PHX) Portland Trail Blazers (SAN @ POR) San Antonio Spurs (SAN @ POR) Washington Wizards (WSH @ OKC)
+Washington WizardsWSH @ OKC - 8:00 PM ET
+**[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)** _C_ OUT _Top_ 6:33 PM ET
+#### Ruled out for Saturday
+Davis (ankle) won't play Saturday against the Thunder.
+Analysis
+This will be Davis' second straight game on the sidelines, which could result in another start for Deandre Ayton and extended minutes for Bilal Coulibaly. Davis' next chance to play will come Monday in Detroit.
 Cleveland CavaliersNYK @ CLE - 8:00 PM ET
 **[Riley Minix](https://www.rotowire.com/basketball/player/riley-minix-6314)** _F_ 6:27 PM ET
 #### Inks two-way deal with Cavs
@@ -47,13 +53,7 @@ Portland Trail BlazersSAN @ POR - 10:00 PM ET
 Williams (rest) won't play in Saturday's game against the Spurs.
 Analysis
 Williams logged 16 minutes in Friday's 124-118 loss to the Lakers, though he won't play Saturday versus San Antonio, the second game of a back-to-back for Portland. As a result, Branden Carlson and Yang Hansen should each receive more playing time behind Donovan Clingan.
-Denver NuggetsDEN @ IND - 5:00 PM ET
-**[DeMar DeRozan](https://www.rotowire.com/basketball/player/demar-derozan-3019)** _F_ 4:06 PM ET
-#### Good to go Saturday
-DeRozan (back) is active for Saturday's NBA Mexico City Game against the Pacers.
-Analysis
-DeRozan missed Wednesday's 128-109 win over Toronto due to lower-back spasms, but the 37-year-old forward will suit up for the NBA's Mexico City Game against the Nuggets. The veteran's presence will likely mean less playing time for Alpha Diallo, Bryce Hopkins and Trevon Brazile.
-Show 5 more (26 remaining)
+Show 5 more (27 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -105,23 +105,23 @@ _Implied_**109.5** _Spread_**+4.5**
 **WSH @ OKC**
 O/U 223.58:00 PM ET
 WizardsExpectedAway
-_Implied_**106.0** _Spread_**+11.5**  
+_Implied_**105.0** _Spread_**+13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 25.1  |  
-| PF  | Anthony DavisQ  | $8,600  | 41.0  |  
-| PG  | Trae Young  | $7,900  | 39.1  |  
-| SF  | AJ Dybantsa  | $6,300  | 26.9  |  
-| SG  | Kyshawn George  | $5,900  | 32.6  |  
+| C  | Deandre Ayton  | $3,200  | 23.4  |  
+| PF  | Alex Sarr  | -  | 28.0  |  
+| PG  | Trae Young  | $7,900  | 42.0  |  
+| SF  | AJ Dybantsa  | $6,300  | 29.8  |  
+| SG  | Kyshawn George  | $5,900  | 35.6  |  
 ThunderExpectedHome
-_Implied_**117.5** _Spread_**-11.5**  
+_Implied_**118.5** _Spread_**-13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $6,100  | 34.2  |  
 | PF  | Kenrich Williams  | $4,200  | 20.5  |  
 | PG  | Shai Gilgeous-Alexander  | $10,400  | 54.1  |  
 | SF  | Alex Caruso  | $4,600  | 23.6  |  
-| SG  | Ajay Mitchell  | $6,600  | 34.0  |  
+| SG  | Ajay Mitchell  | $6,600  | 33.9  |  
 **ORL @ GSW**
 O/U 219.58:30 PM ET
 MagicExpectedAway
@@ -151,7 +151,7 @@ _Implied_**115.5** _Spread_**-6.5**
 | C  | Alperen Sengun  | $8,900  | 46.5  |  
 | PF  | Jabari Smith  | $6,700  | 28.9  |  
 | PG  | Fred VanVleet  | $6,000  | 27.2  |  
-| SF  | Kevin Durant  | $7,400  | 35.2  |  
+| SF  | Kevin Durant  | $7,400  | 35.3  |  
 | SG  | Amen Thompson  | $6,900  | 33.4  |  
 SunsExpectedHome
 _Implied_**109.0** _Spread_**+6.5**  
@@ -159,9 +159,9 @@ _Implied_**109.0** _Spread_**+6.5**
 | --- | --- | --- | --- |  
 | C  | Oso Ighodaro  | $4,900  | 20.9  |  
 | PF  | Miles Bridges  | $7,100  | 34.6  |  
-| PG  | Devin Booker  | $8,300  | 41.3  |  
-| SF  | Dillon Brooks  | $6,300  | 28.4  |  
-| SG  | Jalen Green  | $6,200  | 27.3  |  
+| PG  | Devin Booker  | $8,300  | 41.4  |  
+| SF  | Dillon Brooks  | $6,300  | 28.5  |  
+| SG  | Jalen Green  | $6,200  | 27.4  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -173,16 +173,16 @@ Main slatesMain - 5 games - 7:30 PMMain - 2 games - 9:00 PMMain - 2 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Anthony BlackORL - PG  | @ GSW  | $6,400  | 34  | 36.6  | **5.72**  |  
-| 2  |  Jamal CainORL - SF  | @ GSW  | $3,800  | 25  | 21.5  | **5.65**  |  
-| 3  |  Isaiah HartensteinOKC - C  | vs WSH  | $6,100  | 26  | 34.2  | **5.60**  |  
-| 4  |  Kyshawn GeorgeWSH - SG  | @ OKC  | $5,900  | 34  | 32.6  | **5.52**  |  
-| 5  |  Wendell CarterORL - C  | @ GSW  | $6,500  | 34  | 35.4  | **5.45**  |  
-| 6  |  Karl-Anthony TownsNYK - PF  | @ CLE  | $8,500  | 32  | 46.2  | **5.44**  |  
-| 7  |  Mario HezonjaCLE - SF  | vs NYK  | $4,300  | 26  | 23.3  | **5.42**  |  
-| 8  |  Franz WagnerORL - SF  | @ GSW  | $8,700  | 37  | 46.1  | **5.30**  |  
-| 9  |  Michael PorterBKN - SF  | @ ATL  | $7,300  | 35  | 38.7  | **5.30**  |  
-| 10  |  James HardenCLE - PG  | vs NYK  | $7,100  | 34  | 37.1  | **5.23**  |  
+| 1  |  Deandre AytonWSH - C  | @ OKC  | $3,200  | 25  | 23.4  | **7.32**  |  
+| 2  |  Kyshawn GeorgeWSH - SG  | @ OKC  | $5,900  | 34  | 35.6  | **6.03**  |  
+| 3  |  Anthony BlackORL - PG  | @ GSW  | $6,400  | 34  | 36.6  | **5.72**  |  
+| 4  |  Jamal CainORL - SF  | @ GSW  | $3,800  | 25  | 21.5  | **5.65**  |  
+| 5  |  Isaiah HartensteinOKC - C  | vs WSH  | $6,100  | 26  | 34.2  | **5.60**  |  
+| 6  |  Wendell CarterORL - C  | @ GSW  | $6,500  | 34  | 35.4  | **5.45**  |  
+| 7  |  Karl-Anthony TownsNYK - PF  | @ CLE  | $8,500  | 32  | 46.2  | **5.44**  |  
+| 8  |  Tre JohnsonWSH - SG  | @ OKC  | $3,600  | 25  | 19.5  | **5.43**  |  
+| 9  |  Mario HezonjaCLE - SF  | vs NYK  | $4,300  | 26  | 23.3  | **5.42**  |  
+| 10  |  Bilal CoulibalyWSH - SF  | @ OKC  | $3,900  | 26  | 21.1  | **5.40**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -191,7 +191,7 @@ NBA Boom-or-Bust Board
 Players whose ceiling outruns their salary and whose outcomes swing wider than their peers, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Main · Today · 7:30 PM ET · 5 games — 113 players projected Turbo · Today · 8:00 PM ET · 2 games — 43 players projected Night · Today · 9:00 PM ET · 2 games — 45 players projected Early · Sun 11/8 · 3:30 PM ET · 2 games — projections not yet available Main · Sun 11/8 · 7:00 PM ET · 5 games — 12 players projected Turbo · Sun 11/8 · 7:30 PM ET · 2 games — 12 players projected Night · Sun 11/8 · 9:00 PM ET · 2 games — projections not yet available Today · 5:00 PM ET · DEN@IND single game — 26 players projected Today · 7:30 PM ET · BKN@ATL single game — 22 players projected Today · 8:30 PM ET · ORL@GSW single game — 22 players projected Today · 10:00 PM ET · SAS@POR single game — 23 players projected Sun 11/8 · 3:30 PM ET · PHI@CHI single game — projections not yet available Sun 11/8 · 6:00 PM ET · LAL@DET single game — projections not yet available Sun 11/8 · 7:00 PM ET · UTA@MIN single game — projections not yet available Sun 11/8 · 8:00 PM ET · BOS@MIL single game — projections not yet available Sun 11/8 · 9:00 PM ET · MIA@SAC single game — projections not yet available
+Slate Main · Today · 7:30 PM ET · 5 games — 112 players projected Turbo · Today · 8:00 PM ET · 2 games — 42 players projected Night · Today · 9:00 PM ET · 2 games — 45 players projected Early · Sun 11/8 · 3:30 PM ET · 2 games — projections not yet available Main · Sun 11/8 · 7:00 PM ET · 5 games — 12 players projected Turbo · Sun 11/8 · 7:30 PM ET · 2 games — 12 players projected Night · Sun 11/8 · 9:00 PM ET · 2 games — projections not yet available Today · 5:00 PM ET · DEN@IND single game — 26 players projected Today · 7:30 PM ET · BKN@ATL single game — 22 players projected Today · 8:30 PM ET · ORL@GSW single game — 22 players projected Today · 10:00 PM ET · SAS@POR single game — 23 players projected Sun 11/8 · 3:30 PM ET · PHI@CHI single game — projections not yet available Sun 11/8 · 6:00 PM ET · LAL@DET single game — projections not yet available Sun 11/8 · 7:00 PM ET · UTA@MIN single game — projections not yet available Sun 11/8 · 8:00 PM ET · BOS@MIL single game — projections not yet available Sun 11/8 · 9:00 PM ET · MIA@SAC single game — projections not yet available
 TeamAll ATL BKN CLE GSW HOU NYK OKC ORL PHX WAS
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -200,27 +200,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K−20−15−10−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GeorgeSarrRichardsonHezonjaAnunobyCoulibalyBlackOkongwu
+$3K$4K$5K$6K$7K$8K$9K$10K−20−100+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GeorgeSilvaRichardsonSarrHezonjaAnunobyOkongwuBlack
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BKN@ATL, NYK@CLE, ORL@GSW, HOU@PHX, WAS@OKC  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Kyshawn GeorgeWAS · SG · WAS@OKC  | $5,900  | 11.1  | 32.6  | **60.6**  |   | +8.5  | +5  | 96  |  
-| 2  |  Alex SarrWAS · C · WAS@OKC  | $4,800  | 7.6  | 25.1  | **49.2**  |   | +6.5  | +4  | 92  |  
-| 3  |  Tristan da SilvaORL · SF/PF · ORL@GSW  | $5,600  | 9.9  | 30.4  | **56.8**  |   | +7.2  | +3  | 89  |  
-| 4  |  Jase RichardsonORL · PG/SG · ORL@GSW  | $4,700  | 6.2  | 22.9  | **46.0**  |   | +4.1  | +6  | 88  |  
-| 5  |  Mario HezonjaCLE · SF/PF · NYK@CLE  | $4,300  | 6.9  | 23.3  | **46.3**  |   | +7.8  | +2  | 85  |  
-| 6  |  OG AnunobyNYK · PF · NYK@CLE  | $6,300  | 11.0  | 32.3  | **59.8**  |   | +4.3  | +4  | 85  |  
-| 7  |  Bilal CoulibalyWAS · SF · WAS@OKC  | $3,900  | 4.8  | 18.9  | **39.3**  |   | +4.1  | +4  | 84  |  
-| 8  |  Anthony BlackORL · PG/SG · ORL@GSW  | $6,400  | 14.0  | 36.6  | **65.8**  |   | +9.4  | +1  | 82  |  
-| 9  |  Onyeka OkongwuATL · C · BKN@ATL  | $6,800  | 12.7  | 34.8  | **63.7**  |   | +3.9  | +3  | 81  |  
-| 10  |  James HardenCLE · PG · NYK@CLE  | $7,100  | 14.2  | 37.1  | **66.9**  |   | +4.6  | +2  | 81  |  
-| 11  |  Bennett StirtzOKC · PG/SG · WAS@OKC  | $3,900  | 5.1  | 19.2  | **39.7**  |   | +4.6  | +2  | 81  |  
-| 12  |  Wendell CarterORL · C · ORL@GSW  | $6,500  | 13.1  | 35.4  | **63.9**  |   | +6.7  | +1  | 80  |  
-| 13  |  Peyton WatsonCLE · SF/PF · NYK@CLE  | $5,700  | 8.0  | 26.8  | **51.9**  |   | +1.5  | +5  | 79  |  
-| 14  |  Alex CarusoOKC · SF/PF · WAS@OKC  | $4,600  | 7.5  | 23.6  | **47.0**  |   | +5.9  | +1  | 79  |  
-| 15  |  Mohamed DiawaraNYK · PF · NYK@CLE  | $3,400  | 4.6  | 17.4  | **36.7**  |   | +5.8  | +1  | 78  |  
+| 1  |  Kyshawn GeorgeWAS · SG · WAS@OKC  | $5,900  | 12.9  | 35.6  | **64.9**  |   | +12.2  | +4  | 96  |  
+| 2  |  Tristan da SilvaORL · SF/PF · ORL@GSW  | $5,600  | 9.9  | 30.4  | **56.8**  |   | +6.5  | +3  | 88  |  
+| 3  |  Jase RichardsonORL · PG/SG · ORL@GSW  | $4,700  | 6.2  | 22.9  | **46.0**  |   | +3.4  | +6  | 87  |  
+| 4  |  Alex SarrWAS · C · WAS@OKC  | $4,800  | 9.4  | 28.0  | **53.7**  |   | +10.2  | +2  | 87  |  
+| 5  |  Mario HezonjaCLE · SF/PF · NYK@CLE  | $4,300  | 6.9  | 23.3  | **46.3**  |   | +7.0  | +2  | 85  |  
+| 6  |  OG AnunobyNYK · PF · NYK@CLE  | $6,300  | 11.0  | 32.3  | **59.8**  |   | +3.6  | +3  | 84  |  
+| 7  |  Bilal CoulibalyWAS · SF · WAS@OKC  | $3,900  | 5.9  | 21.1  | **42.6**  |   | +6.7  | +2  | 82  |  
+| 8  |  Onyeka OkongwuATL · C · BKN@ATL  | $6,800  | 12.7  | 34.8  | **63.7**  |   | +3.3  | +3  | 80  |  
+| 9  |  Anthony BlackORL · PG/SG · ORL@GSW  | $6,400  | 14.0  | 36.6  | **65.8**  |   | +8.8  | +1  | 80  |  
+| 10  |  James HardenCLE · PG · NYK@CLE  | $7,100  | 14.2  | 37.1  | **66.9**  |   | +4.0  | +2  | 80  |  
+| 11  |  Bennett StirtzOKC · PG/SG · WAS@OKC  | $3,900  | 5.1  | 19.2  | **39.7**  |   | +3.8  | +3  | 80  |  
+| 12  |  Bub CarringtonWAS · PG/SG · WAS@OKC  | $3,800  | 4.4  | 17.4  | **37.0**  |   | +2.0  | +4  | 79  |  
+| 13  |  Mohamed DiawaraNYK · PF · NYK@CLE  | $3,400  | 4.6  | 17.4  | **36.7**  |   | +5.0  | +1  | 78  |  
+| 14  |  Alex CarusoOKC · SF/PF · WAS@OKC  | $4,600  | 7.5  | 23.6  | **47.0**  |   | +5.2  | +1  | 78  |  
+| 15  |  Wendell CarterORL · C · ORL@GSW  | $6,500  | 13.1  | 35.4  | **63.9**  |   | +6.1  | +1  | 78  |  
 Show all 90 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:30 PM ET · 5 games slate · 2026-11-07.
 ## **NBA Injury Report**
