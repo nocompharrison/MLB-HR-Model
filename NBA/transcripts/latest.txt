@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-07 | updated 2026-11-07 16:35 ET
+# NBA transcripts | 2026-11-07 | updated 2026-11-07 17:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 9 files in NBA/transcripts/2026-11-07:
 NBA/transcripts/2026-11-07/21Eo4JUaXtQ_LockedOnNBA_Can_Anything_STOP_The_Lakers_Luka_With_53_Cavs_CRUSH_Sixers.txt
