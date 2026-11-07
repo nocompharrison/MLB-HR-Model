@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-07 17:09 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-07 18:05 ET -->
 
 
 ---
@@ -353,6 +353,18 @@ Let’s dive into a pair of player props that catch our eye for Thursday’s two
 
 ### **Wendell Carter Jr. (Magic at Suns) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10213.png)Wendell Carter Jr.
+
+[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/underdog_sc)[O/U Points Scored (@ GSW)](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/underdog_sc)[13.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/underdog_sc)
+
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)[O/U Total Rebounds (@ GSW)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/kalshi_sc)[O/U Total Assists (@ GSW)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/kalshi_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/kalshi_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/wendell_carter_jr./player_104945 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Carter has been busy early in the season while helping make up for the absence of Paolo Banchero (ankle), posting his best scoring (12.4 PPG) and rebounding (8.9) averages since the 2021-22 season. The big man is also shooting a career-best 61.2%, including a respectable 33.3% from three-point range. Carter has fallen short of this prop in each of the last two games in a pair of tough matchups against the Celtics and Wizards, but he averaged 23.4 points + rebounds across 31.6 minutes per contest over his first five games while 3-2 to the Over on this prop.
 
 Carter could be back to his productive ways Thursday, as the Suns present an appealing matchup. Phoenix went into Wednesday’s game against the Trail Blazers already ranked No. 26 in offensive efficiency rating allowed to centers, while allowing an NBA-high 16.8 rebounds per contest to the position. The Suns had also conceded 59.2% shooting to the position, including 42.9% from behind the arc, and they then proceeded to allow a 24-point, 11-rebound double-double to Donovan Clingan and another nine points and eight boards to Robert Williams off the bench Wednesday.
@@ -362,6 +374,18 @@ With Banchero still out and Carter catching the Suns on the back end of a back-t
 **Original Line Publish:** 20.5
 
 ### **Stephen Curry (Warriors vs. Heat) Over Points + Rebounds + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10199.png)Stephen Curry
+
+[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/polymarket_sc)[O/U Points Scored (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/polymarket_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661017/polymarket_sc)
+
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)[O/U Total Rebounds (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661017/polymarket_sc)
+
+[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/underdog_sc)[O/U Total Assists (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661017/underdog_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/stephen_curry/player_12904 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Six games into the new season, Curry is already in elite form, averaging 30.0 points (with the help of 42.9% three-point shooting), 4.5 assists, 4.2 rebounds and 1.3 steals per contest. Curry has been in even better form over the last three contests, a span in which he’s averaged 39.4 points + rebounds + assists across 31.3 minutes while shooting 43.2% from long range. The veteran sharpshooter is 3-0 to the Over on the 34.5 in that sample, and Thursday’s matchup could coax another one of his high-percentile performances from him.
 
@@ -399,27 +423,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 41: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 #### [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)[76ers-Cavaliers NBA Cup Picks, Predictions & Odds for Friday, November 6, 2026](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
-[![Image 32: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 42: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)[NHL Goal Picks Today: Zach Benson, Joel Eriksson Ek & Joel Farabee Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
-[![Image 33: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 43: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)[NBA Player Props Today: Daniel Gafford, RJ Barrett and Victor Wembanyama Best Bets](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
-[![Image 34: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 44: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)[UConn-Michigan Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
-[![Image 35: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 45: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 #### [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)[TCU-Arizona Picks, Predictions & Odds: College Football Week 10](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
@@ -430,7 +454,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 46: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 47: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -445,7 +469,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 48: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -455,7 +479,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 06, 2026
 
-[![Image 39: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 49: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -465,7 +489,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 06, 2026
 
-[![Image 40: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 50: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -475,7 +499,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 06, 2026
 
-[![Image 41: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 51: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -485,7 +509,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 42: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 52: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -495,7 +519,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
+[![Image 53: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -950,6 +974,18 @@ Let’s dive into three player props that catch our eye for Wednesday’s jumbo-
 
 ### **Julius Randle (Nets vs. Hornets) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10210.png)Julius Randle
+
+[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/polymarket_sc)[O/U Points Scored (@ ATL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/polymarket_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/polymarket_sc)
+
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/underdog_sc)[O/U Total Rebounds (@ ATL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/underdog_sc)
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)[O/U Total Assists (@ ATL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/julius_randle/player_12774 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Randle has been a seamless fit in Brooklyn since Opening Night, delivering 48 points + rebounds + assists over 38 minutes against the same Hornets squad he’ll face Wednesday right out of the gate on Opening Night. The veteran big man is averaging 20.9 points, 7.7 rebounds and 4.9 assists per contest while shooting an aytpically poor 41.5%, meaning there’s actually still plenty room for a boost in his offensive numbers.
 
 Randle now gets another crack at Charlotte on Wednesday, and although the Hornets have some solid defensive metrics in certain categories, their work against power forwards speaks to plenty of vulnerability. The Hornets have allowed an Eastern Conference-high 31.8 offensive efficiency rating to fours, along with 49.0% shooting, including 40.8% from three-point range, to the position.
@@ -960,6 +996,16 @@ Charlotte is also surrendering the fifth-most rebounds per game to PFs (11.5), a
 
 ### **Zion Williamson (Pelicans vs. Jazz) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10211.png)Zion Williamson
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/132834/kalshi_sc)
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/132834/kalshi_sc)
+
+[![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/zion_williamson/player_132834 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Williamson is the second of our three bigs who we like the outlook for Wednesday, and the 2019 first overall pick is off to a hot start in his own right with averages of 26.6 points + rebounds across 32.1 minutes per game. As customary, Zion is doing the overwhelming majority of his damage from in front of the arc, draining 63.6% of his shots on 12.6 field-goal attempts per game, with only 1.0 per contest coming from behind the arc.
 
 Zion has averaged 28.5 points + rebounds per contest against Utah over 15 games in his career, including a 28 points + rebounds tally versus the Jazz in the second game of the season this year. Then, the Jazz are allowing the eighth-most points per game to power forwards (26.6), and Utah is also facilitating the fourth-most free-throw attempts per contest to fours (7.9).
@@ -969,6 +1015,16 @@ Like Randle, Zion is just a point or rebound short of having cashed the Over in 
 **Original Line Publish**: 25.5
 
 ### **Walker Kessler (Lakers at Kings) Over Points + Rebounds**
+
+[](https://www.lineups.com/)
+
+![Image 40](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10203.png)Walker Kessler
+
+[![Image 41: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)[5¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/174656/kalshi_sc)
+
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)[To Win Most Improved Player](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)[3¢](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/174656/kalshi_sc)
+
+[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/walker_kessler/player_174656 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Kessler, like Randle, is a new frontcourt piece to his team that’s paid instant dividends. The 2022 first-round pick only played five games during his final season in Utah in 2025-26, but now that he’s back to full health, Kessler has been the force the Lakers were hoping for when they let the defensively challenged Deandre Ayton walk this offseason. Kessler is delivering a well-rounded 14.4 points, 10.5 rebounds, 1.3 assists, 2.5 blocks and 1.1 steals per contest while shooting 71.4%, his highest figure since his rookie season.
 
@@ -1004,27 +1060,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 44: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 #### [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)[76ers-Cavaliers NBA Cup Picks, Predictions & Odds for Friday, November 6, 2026](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
-[![Image 32: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 45: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)[NHL Goal Picks Today: Zach Benson, Joel Eriksson Ek & Joel Farabee Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
-[![Image 33: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 46: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)[NBA Player Props Today: Daniel Gafford, RJ Barrett and Victor Wembanyama Best Bets](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
-[![Image 34: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 47: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)[UConn-Michigan Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
-[![Image 35: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 48: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 #### [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)[TCU-Arizona Picks, Predictions & Odds: College Football Week 10](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
@@ -1035,7 +1091,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 49: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 50: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1050,7 +1106,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 51: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1060,7 +1116,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 06, 2026
 
-[![Image 39: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 52: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1070,7 +1126,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 06, 2026
 
-[![Image 40: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 53: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1080,7 +1136,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 06, 2026
 
-[![Image 41: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 54: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1090,7 +1146,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 42: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 55: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1100,7 +1156,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
+[![Image 56: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1555,6 +1611,18 @@ Let’s dive into three player props that catch our eye for Monday’s jumbo-siz
 
 ### **Jalen Brunson (Knicks vs. Nets) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Jalen Brunson
+
+[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661015/polymarket_sc)[O/U Points Scored (@ CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661015/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661015/polymarket_sc)
+
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661015/polymarket_sc)[O/U Total Rebounds (@ CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661015/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661015/polymarket_sc)
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661015/polymarket_sc)[O/U Total Assists (@ CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661015/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661015/polymarket_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jalen_brunson/player_104953 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Brunson’s not quite out of his season-opening shooting slump yet, but there’s seemingly some light at the end of the tunnel. After draining just 36.6% of his attempts over the first four games of the season, Brunson went 13-for-25 from the floor in a win over the Bulls on Wednesday. He regressed to an 8-for-22 tally in a tough matchup against the Sixers on Friday, and after having the weekend to clear his head, Brunson should be refreshed for a favorable matchup with the intracity-rival Nets.
 
 Brooklyn is allowing the fifth-most assists per game to point guards (10.8), along with 46.7% shooting overall. The Nets are also yielding the seventh-most assists per contest (28.2), and he’s come just two total points or assists short of going 4-0 to the Over on this prop in the last four games. Finally, it’s worth noting the Nets have yielded the eighth-most points + assists per game across all positions (144.2), giving further fuel to the Over.
@@ -1563,6 +1631,14 @@ Brooklyn is allowing the fifth-most assists per game to point guards (10.8), alo
 
 ### **P.J. Washington (Mavericks vs. Kings) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)P.J. Washington
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)[To Win 6th Man of the Year](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/132769/kalshi_sc)
+
+[![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/p.j._washington/player_132769 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 The Mavericks are nearly double-digit favorites Monday against Sacramento, and given the winless Kings have lost their games by an average of 19 points, it’s possible Dallas is ahead by a comfortable enough margin late that a front-line player like Cooper Flagg with elevated props doesn’t get quite enough playing time to hit them. That makes Washington an interesting pivot, considering his points + rebounds prop is very reasonable in this matchup and relative to the veteran forward’s body fo work thus far.
 
 Washington is averaging 22.0 points + rebounds across 33.5 minutes per game while going 3-2 to the Over on the 21.5 over the first five games of the season while falling short in tough matchups against the Rockets and Spurs. Washington then managed an outlier of a three-point effort in a rematch with Houston his most recent time on the floor, but he’ll have his most palatable matchup by far Monday. With Keegan Murray (ankle) sidelined, Sacramento is more vulnerable down low and is ranked No. 22 in offensive efficiency rating allowed to power forwards (29.5), while also surrendering the sixth-most points per game to the position (26.8). The Kings are also yielding the seventh-most rebounds per game overall (56.5), along with NBA-high 55.3% shooting on the road.
@@ -1570,6 +1646,18 @@ Washington is averaging 22.0 points + rebounds across 33.5 minutes per game whil
 **Original Line Publish**: 21.5
 
 ### **Victor Wembanyama (Spurs vs. Jazz) Over Steals and Blocks**
+
+[](https://www.lineups.com/)
+
+![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)Victor Wembanyama
+
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661019/kalshi_sc)[O/U Points Scored (@ POR)](https://lineups.go.metabet.io/bet/nba_game_player_points/661019/kalshi_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661019/kalshi_sc)
+
+[![Image 41: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661019/polymarket_sc)[O/U Total Rebounds (@ POR)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661019/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661019/polymarket_sc)
+
+[![Image 42: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661019/underdog_sc)[O/U Total Assists (@ POR)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661019/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661019/underdog_sc)
+
+[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/victor_wembanyama/player_188716 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Wemby has taken his already elite game to new heights over the last pair of contests, averaging 39.5 points, 10.5 rebounds, 4.5 assists and 6.0 steals + blocks across 36.5 minutes per contest. The majority of the 2023 first overall pick’s props are fairly elevated as a result, and that’s a bit of a concern considering the Spurs are 16.5-point favorites against the 1-5 Jazz and could therefore give some of their top players a bit of down time if the game plays out as oddsmakers expect.
 
@@ -1607,27 +1695,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 44: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 #### [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)[76ers-Cavaliers NBA Cup Picks, Predictions & Odds for Friday, November 6, 2026](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
-[![Image 32: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 45: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)[NHL Goal Picks Today: Zach Benson, Joel Eriksson Ek & Joel Farabee Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
-[![Image 33: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 46: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)[NBA Player Props Today: Daniel Gafford, RJ Barrett and Victor Wembanyama Best Bets](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
-[![Image 34: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 47: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)[UConn-Michigan Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
-[![Image 35: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 48: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 #### [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)[TCU-Arizona Picks, Predictions & Odds: College Football Week 10](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
@@ -1638,7 +1726,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 49: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 50: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1653,7 +1741,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 51: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1663,7 +1751,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 06, 2026
 
-[![Image 39: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 52: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1673,7 +1761,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 06, 2026
 
-[![Image 40: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 53: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1683,7 +1771,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 06, 2026
 
-[![Image 41: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 54: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1693,7 +1781,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 42: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 55: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1703,7 +1791,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
+[![Image 56: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2158,6 +2246,18 @@ Let’s dive into three player props that catch our eye for Sunday’s action-pa
 
 ### **Pascal Siakam (Pacers vs. Nets) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10201.png)Pascal Siakam
+
+[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661013/kalshi_sc)[O/U Points Scored (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661013/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661013/kalshi_sc)
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661013/kalshi_sc)[O/U Total Rebounds (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661013/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661013/kalshi_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661013/kalshi_sc)[O/U Total Assists (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661013/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661013/kalshi_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/pascal_siakam/player_56163 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Siakam let us down in a favorable matchup against the Heat on Friday night, but there are several reasons to go right back to the well with the star big man on Sunday. It begins with the fact the outing against Miami was a true outlier, as Siakam went just 5-for-17 from the field after entering the game having shot 55.3% over the first five contests of the season. Siakam’s rebounds were also down to five despite Ivica Zubac’s absence.
 
 Both Zubac (ankle) and Tyrese Haliburton (hamstring) will remain sidelined Sunday, and Siakam has a 30.2% usage rate and averages of a team-high 25.9 points along with 7.3 rebounds per 36 minutes with both teammates off the floor. Then, the Nets are allowing the seventh-highest offensive efficiency rating to power forwards (30.4), along with the fifth-most points per road contest (125.0). Brooklyn is also conceding 47.7% shooting on the road, and Siakam cashed the Over on this prop in three of the first five games before the dud against Miami.
@@ -2173,6 +2273,18 @@ A shooter as proven as Hachimura is going to bounce back sooner rather than late
 **Original Line Publish**: 13.5
 
 ### **Austin Reaves (Lakers vs. Raptors) Over Points**
+
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10203.png)Austin Reaves
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/58465/kalshi_sc)
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/58465/kalshi_sc)
+
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)[To Win Clutch Player of the Year](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)[50¢](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/58465/kalshi_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/austin_reaves/player_58465 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Reaves is off to an impressively efficient start as a scorer this season, averaging a career-high 23.8 points on career-best 54.8% shooting, including a career-best 42.4% from downtown. The talented two-guard has delivered at least 21 points in all but one game in the early going, and he’s averaging a robust 21.0 field-goal + free-throw attempts per contest as Luka Doncic’s literal and figurative wing man.
 
@@ -2210,27 +2322,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 41: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 #### [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)[76ers-Cavaliers NBA Cup Picks, Predictions & Odds for Friday, November 6, 2026](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
-[![Image 32: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 42: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)[NHL Goal Picks Today: Zach Benson, Joel Eriksson Ek & Joel Farabee Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
-[![Image 33: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 43: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)[NBA Player Props Today: Daniel Gafford, RJ Barrett and Victor Wembanyama Best Bets](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
-[![Image 34: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 44: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)[UConn-Michigan Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
-[![Image 35: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 45: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 #### [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)[TCU-Arizona Picks, Predictions & Odds: College Football Week 10](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
@@ -2241,7 +2353,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 46: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 47: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2256,7 +2368,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 48: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2266,7 +2378,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 06, 2026
 
-[![Image 39: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 49: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2276,7 +2388,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 06, 2026
 
-[![Image 40: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 50: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2286,7 +2398,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 06, 2026
 
-[![Image 41: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 51: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2296,7 +2408,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 42: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 52: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2306,7 +2418,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
+[![Image 53: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2761,6 +2873,18 @@ Let’s dive into three player props that catch our eye for Saturday’s action-
 
 ### **Onyeka Okongwu (Hawks vs. Pelicans) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10187.png)Onyeka Okongwu
+
+[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/underdog_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/underdog_sc)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661014/underdog_sc)
+
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/polymarket_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661014/polymarket_sc)
+
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661014/polymarket_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/onyeka_okongwu/player_135190 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Okongwu’s stat lines have been all over the map early this season, but the versatile veteran big man is certainly capable of eclipsing 20.5 points + rebounds in the right matchup and with enough playing time. In fact, Okongwu just blew past this number his last time on the floor in a tough on-paper matchup against the Cavaliers on Thursday, posting 41 points + rebounds across 33 minutes on an 11-for-17 tally from the floor, including a 4-for-6 showing from behind the arc.
 
 Okongwu now has an exponentially better scenario in front of him Saturday against the Pelicans, which have surrendered an NBA-high 39.8 offensive efficiency rating to centers, along with surrendering an NBA-high 27.0 points and third-most rebounds (16.4) per game to the position. The Pels are also giving up 57.5% shooting to fives, and although Okongwu spaces the floor with regularity, it’s still worth noting New Orleans has yielded the third-most points in the paint per game (55.6), while 57.1% of Okongwu’s scoring so far has come in that part of the floor.
@@ -2769,6 +2893,14 @@ Okongwu now has an exponentially better scenario in front of him Saturday agains
 
 ### **Cedric Coward (Grizzlies vs. Kings) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Cedric Coward
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/258753/kalshi_sc)[To Win Most Improved Player](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/258753/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/258753/kalshi_sc)
+
+[![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/cedric_coward/player_258753 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Coward has kicked off his second NBA season in fine form, averaging 14.3 points on 51.1% shooting, including an incandescently hot 68.8% from three-point range. Coward is supplementing the solid scoring average with 9.3 rebounds, 2.5 assists and 1.3 steals per contest, and Saturday, he’ll be in a highly appealing matchup while potentially operating without his high-usage backcourt mate, Ty Jerome, who’s questionable due to a lingering back issue.
 
 Coward has averaged 30.6 points + rebounds per 36 minutes when not sharing the floor with Jerome so far in the new season. Coward’s positional matchup against the Kings is also a premium one, as Sacramento is surrendering the fifth-highest offensive efficiency rating to two-guards (29.2) and 50.6% shooting to the position. The Kings are also yielding the eighth-most rebounds per game (56.4) and sixth-highest defensive rebounding rate (75.6%), while Coward is averaging a career-high 8.0 defensive rebounds per contest.
@@ -2776,6 +2908,18 @@ Coward has averaged 30.6 points + rebounds per 36 minutes when not sharing the f
 **Original Line Publish**: 22.5
 
 ### **Ajay Mitchell (Thunder vs. Rockets) Over**Points + Rebounds + Assists
+
+[](https://www.lineups.com/)
+
+![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/15673.png)Ajay Mitchell
+
+[![Image 40: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661016/underdog_sc)[O/U Points Scored (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_points/661016/underdog_sc)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661016/underdog_sc)
+
+[![Image 41: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661016/polymarket_sc)[O/U Total Rebounds (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661016/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661016/polymarket_sc)
+
+[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661016/polymarket_sc)[O/U Total Assists (vs. WAS)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661016/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661016/polymarket_sc)
+
+[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ajay_mitchell/player_207753 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Mitchell has been outstanding in the wake of the Thunder’s early-season injury plague, and with Chet Holmgren now being ruled out for multiple weeks due to a patellar tendon tear, there will be even more usage available for Mitchell to absorb. The 2024 second-round pick has worked as a starter over the last two games and thrived, averaging 36.5 points + rebounds + assists while shooting a blistering 61.1% overall. Mitchell has stayed aggressive as well, averaging 24.5 field-goal + free-throw attempts per game in that span.
 
@@ -2811,27 +2955,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 44: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-150x150.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 #### [](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)[76ers-Cavaliers NBA Cup Picks, Predictions & Odds for Friday, November 6, 2026](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
-[![Image 32: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 45: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)[NHL Goal Picks Today: Zach Benson, Joel Eriksson Ek & Joel Farabee Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
-[![Image 33: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 46: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)[NBA Player Props Today: Daniel Gafford, RJ Barrett and Victor Wembanyama Best Bets](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
-[![Image 34: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 47: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-150x150.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)[UConn-Michigan Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
-[![Image 35: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 48: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-150x150.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 #### [](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)[TCU-Arizona Picks, Predictions & Odds: College Football Week 10](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
@@ -2842,7 +2986,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 49: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 50: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2857,7 +3001,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
+[![Image 51: Donovan Mitchell](https://www.lineups.com/wp-content/uploads/2026/11/Donovan-Mitchell-390x230.jpg)](https://www.lineups.com/articles/76ers-cavaliers-nba-cup-picks-predictions-odds-for-friday-november-6-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2867,7 +3011,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 06, 2026
 
-[![Image 39: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
+[![Image 52: Joel Farabee](https://www.lineups.com/wp-content/uploads/2026/11/Joel-Farabee-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-zach-benson-joel-eriksson-ek-joel-farabee-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2877,7 +3021,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 06, 2026
 
-[![Image 40: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
+[![Image 53: RJ Barrett](https://www.lineups.com/wp-content/uploads/2026/11/RJ-Barrett-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-daniel-gafford-rj-barrett-and-victor-wembanyama-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2887,7 +3031,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 06, 2026
 
-[![Image 41: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
+[![Image 54: Braylon Mullins](https://www.lineups.com/wp-content/uploads/2026/11/Braylon-Mullins-390x230.jpg)](https://www.lineups.com/articles/uconn-michigan-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2897,7 +3041,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 42: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
+[![Image 55: Noah Fifita](https://www.lineups.com/wp-content/uploads/2026/11/Noah-Fifita-390x230.jpg)](https://www.lineups.com/articles/tcu-arizona-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2907,7 +3051,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 05, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
+[![Image 56: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-390x230.jpg)](https://www.lineups.com/articles/new-mexico-nevada-picks-predictions-odds-college-football-week-10/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 

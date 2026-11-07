@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-saturday-11-7/ | fetched: 2026-11-07 11:06 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/nba-dfs-picks-lineup-advice-saturday-11-7/ | fetched: 2026-11-07 18:05 ET -->
 
 ![NBA DFS Picks & Lineup Advice: Saturday \(11/7\)](https://cdn.fantasypros.com/wp-content/images/kingston_flemings_hawks_1-1/716x316.jpg)
 The NBA schedule can be infuriating. The first few days of the week were awful for NBA DFS because the schedules were either too big or too small, but things are back to normal this weekend. We had nine Emirates NBA Cup games yesterday and get a six-game schedule today.
@@ -97,5 +97,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ ROS Rankings ](https://www.fantasypros.com/nba/rankings/ros-overall.php)[ Dynasty Rankings ](https://www.fantasypros.com/nba/rankings/dynasty-overall.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

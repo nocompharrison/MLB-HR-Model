@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-07 17:09 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-07 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/luka-doncic.php)  
+[» More News](https://www.fantasypros.com/nba/news/luka-doncic.php)
+[Luka Doncic (back) questionable Sunday](https://www.fantasypros.com/nba/news/618408/luka-doncic-back-questionable-sunday.php)  
+
+Sat, Nov 7th 5:14pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Luka Doncic (back) is questionable for Sunday’s contest between the Los Angeles Lakers and Detroit Pistons according to Dave McMenamin. (Source: [Dave McMenamin on Twitter](https://x.com/mcten/status/2119189452966834438?a=ckY1jLTRyCrYsU5B1as&s=46))
+**_Fantasy Impact:_** Doncic is dealing with lower back tightness according the the Lakers official injury report and will need to pass through pregame checks to continue his explosive stretch for fantasy managers. Quentin Grimes would likely see increased minutes if Doncic is unable to suit up against the Pistons.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Isaiah Joe](https://images.fantasypros.com/images/players/nba/5210/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-joe.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/isaiah-joe.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/isaiah-joe.php)  
+[» More News](https://www.fantasypros.com/nba/news/isaiah-joe.php)
+[Isaiah Joe (hip) ruled out Sunday ](https://www.fantasypros.com/nba/news/618407/isaiah-joe-hip-ruled-out-sunday.php)  
+
+Sat, Nov 7th 5:00pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Isaiah Joe has been ruled out for Sunday's game against the Lakers. 
+**_Fantasy Impact:_** Joe will miss a sixth straight game. Kevin Huerter will continue to see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Sergio De Larrea](https://images.fantasypros.com/images/players/nba/6542/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sergio-delarrea.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/sergio-delarrea.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/sergio-delarrea.php)  
+[» More News](https://www.fantasypros.com/nba/news/sergio-delarrea.php)
+[Sergio De Larrea (knee) ruled out Sunday ](https://www.fantasypros.com/nba/news/618406/sergio-de-larrea-knee-ruled-out-sunday.php)  
+
+Sat, Nov 7th 4:59pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Sergio De Larrea has been ruled out for Sunday’s game against the Nets.
+**_Fantasy Impact:_** De Larrea remains off the fantasy radar when he is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Tarik Biberovic](https://images.fantasypros.com/images/players/nba/6010/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tarik-biberovic.php)
 F - DAL
 [» Rankings](https://www.fantasypros.com/nba/players/tarik-biberovic.php)  
@@ -245,48 +287,6 @@ Tyler Herro flirted with a triple-double for the Bucks Friday night, dishing out
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Collin Murray-Boyles](https://images.fantasypros.com/images/players/nba/6326/headshot/100x100.png)](https://www.fantasypros.com/nba/players/collin-murray-boyles.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/collin-murray-boyles.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/collin-murray-boyles.php)  
-[» More News](https://www.fantasypros.com/nba/news/collin-murray-boyles.php)
-[Collin Murray-Boyles fills stat sheet in Friday's win over Bucks](https://www.fantasypros.com/nba/news/618386/collin-murray-boyles-fills-stat-sheet-fridays-win-over-bucks.php)  
-
-Sat, Nov 7th 4:27pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Collin Murray-Boyles filled the stat sheet for the Raptors Friday night, grabbing seven rebounds, recording four steals, dishing out two assists, blocking one shot, and scoring 19 points (7-12 FG, 0-2 3PT, 5-5 FT) in a 121-107 win over the Bucks.
-**_Fantasy Impact:_** Murray-Boyles continues a modest stretch on both ends of the floor, finishing with three or more rebounds and four or more points in each of his last five contests. The 21-year-old has made the most of increased minutes in the Toronto lineup early on, averaging 10.7 points and 5.0 rebounds per game to go along with an 18.6% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jakob Poeltl](https://images.fantasypros.com/images/players/nba/3172/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jakob-poeltl.php)
-C - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/jakob-poeltl.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jakob-poeltl.php)  
-[» More News](https://www.fantasypros.com/nba/news/jakob-poeltl.php)
-[Jakob Poeltl posts double-double Friday against Bucks](https://www.fantasypros.com/nba/news/618385/jakob-poeltl-posts-double-double-friday-against-bucks.php)  
-
-Sat, Nov 7th 4:24pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Jakob Poeltl posted a double-double for the Raptors Friday night, grabbing 11 rebounds and chipping in 19 points (9-14 FG, 1-1 FT) while also dishing out two assists, blocking one shot, and recording three steals in a 121-107 win over the Bucks.
-**_Fantasy Impact:_** Poeltl continues a modest stretch on both ends of the floor of late, finishing with five or more rebounds and eight or more points in each of his last three contests. The center remains one of the more stable interior options in the Toronto lineup to this point, averaging 7.1 points and 6.4 rebounds per game to go along with a usage rate of 12.3% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![RJ Barrett](https://images.fantasypros.com/images/players/nba/4470/headshot/100x100.png)](https://www.fantasypros.com/nba/players/rj-barrett.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/rj-barrett.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/rj-barrett.php)  
-[» More News](https://www.fantasypros.com/nba/news/rj-barrett.php)
-[RJ Barrett leads offense in Friday's win over Bucks](https://www.fantasypros.com/nba/news/618384/rj-barrett-leads-offense-fridays-win-over-bucks.php)  
-
-Sat, Nov 7th 4:20pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-RJ Barrett led the Raptors offense Friday night, scoring 27 points (9-21 FG, 0-4 3PT, 9-11 FT) while also dishing out four assists and grabbing seven rebounds in a 121-107 win over the Bucks.
-**_Fantasy Impact:_** Barrett continues a modest stretch on both ends of the floor, dishing out three or more assists, grabbing three or more rebounds, and scoring nine or more points in each of his last five games. The 26-year-old remains one of the more impactful options as part of an injury-riddled Toronto starting five, averaging 21.6 points, 3.9 assists, and 6.1 rebounds per game while posting a usage rate of 25.4% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=842_1794089078564&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

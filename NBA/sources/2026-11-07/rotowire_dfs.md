@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 17:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-saturday-nov-7-145664 | fetched: 2026-11-07 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 7
 Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s seven-game Nov. 7 NBA slate.
@@ -31,11 +31,11 @@ His workload has also been encouraging. Clingan played 32 minutes against the Nu
 San Antonio presents a demanding matchup, particularly with [Victor Wembanyama](https://www.rotowire.com/basketball/player/victor-wembanyama-5809) anchoring its frontcourt. But Portland ranks among the NBA's better rebounding teams, averaging 46.1 boards per game. His recent rebounding consistency and increased playing time support another double-digit performance, with 11 rebounds enough to clear the line. 
 ![FanDuel](https://objects.kaxmedia.com/auto/o/148014/a68085dd6d.png)
 NBA Player Prop | SAS @ POR
-Donovan Clingan Over 11.5 Rebounds+106
+Donovan Clingan Over 11.5 Rebounds-104
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
-[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $5.30](https://bet.rotowire.com/fanduel/offer/12454)
+[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.81](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 5:05 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **New York Knicks vs. Cleveland Cavaliers:**[**Jalen Brunson**](https://www.rotowire.com/basketball/player/jalen-brunson-4405)**over 2.5 three-pointers, -110 @ BetMGM**
 Brunson has emerged as one of the NBA's most productive perimeter scorers in recent games, making at least three three-pointers in four consecutive appearances. The Knicks guard has connected on 18 of 41 attempts from beyond the arc during that stretch (43.9 percent). His shooting volume is particularly noteworthy, as Brunson has attempted at least 10 threes in each of those four contests as well. 
 The results have been equally encouraging. Brunson made six triples against Chicago on October 28, followed by three against Philadelphia, four against Brooklyn and five in his latest appearance against the Bulls. The star floor general has also averaged 25.6 points through eight appearances, reinforcing his importance to New York's scoring attack. Given his recent shooting volume and consistency, three made three-pointers represent an attainable threshold at nearly even-money odds.
@@ -50,6 +50,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Questionable for Sunday
+NBA
+Los Angeles Lakers
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)
 Still without timetable to return
@@ -60,21 +65,16 @@ Indiana Pacers
 Undergoes elbow surgery
 MLB
 Arizona Diamondbacks
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
+Back in action Saturday
+NBA
+Atlanta Hawks
   * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
 [Demarcus Robinson](https://www.rotowire.com/football/player/demarcus-robinson-11163)
 Off IR, clear for Sunday
 NFL
 San Francisco 49ers
-  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
-[Pat Bryant](https://www.rotowire.com/football/player/pat-bryant-18562)
-Activated from IR
-NFL
-Denver Broncos
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
-Downgraded to questionable
-NBA
-Chicago Bulls
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -106,11 +106,21 @@ Toronto Blue Jays
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Questionable for Sunday
+NBA
+Los Angeles Lakers
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)
 Still without timetable to return
 NBA
 Indiana Pacers
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)
+Back in action Saturday
+NBA
+Atlanta Hawks
   * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
 Downgraded to questionable
@@ -121,16 +131,6 @@ Chicago Bulls
 Ruled out Saturday
 NBA
 Orlando Magic
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)
-Questionable to play Saturday
-NBA
-Washington Wizards
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)
-Out Saturday
-NBA
-Cleveland Cavaliers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

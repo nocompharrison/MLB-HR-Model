@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 17:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-07 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,21 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)[Back in action Saturday](https://www.rotowire.com/basketball/headlines/jalen-johnson-news-back-in-action-saturday-538033)
+**F** Atlanta Hawks
+November 7, 2026
+Johnson (ankle) is [active](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_05_30PM.pdf) for Saturday's game against the Nets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/luka-doncic-injury-questionable-for-sunday-538031)
+**G** Los Angeles Lakers
+Back
+November 7, 2026
+Doncic (back) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-07_05_00PM.pdf) for Sunday's game against the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
 [Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Won't return Sunday](https://www.rotowire.com/basketball/headlines/isaiah-joe-injury-wont-return-sunday-538029)
 **G** Detroit Pistons
@@ -190,25 +205,11 @@ November 7, 2026
 George tallied 16 points (6-13 FG, 1-4 3Pt, 3-4 FT), six rebounds, nine assists and a block across 32 minutes in Friday's 112-100 loss to the Mavericks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Darryn Peterson](https://www.rotowire.com/basketball/player/darryn-peterson-6924)[Posts 21 points, fills stat sheet](https://www.rotowire.com/basketball/headlines/darryn-peterson-news-posts-21-points-fills-stat-sheet-537971)
-**G** Utah Jazz
-November 7, 2026
-Peterson delivered 21 points (6-12 FG, 3-7 3Pt, 6-6 FT), two rebounds, five assists, two steals and three blocks across 30 minutes in Friday's 112-100 loss to the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)[Drains eight triples in defeat](https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-drains-eight-triples-in-defeat-537969)
-**F** Utah Jazz
-November 7, 2026
-Markkanen posted 24 points (8-20 FG, 8-15 3Pt), eight rebounds and an assist across 34 minutes in Friday's 112-100 loss to the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
 [![MLB Draft Kit Logo](https://assets.rotowire.com/images/rebrand-assets/draft-kit/alt/mlb-draft-kit.jpg)](https://www.rotowire.com/baseball/draft-kit.php)
 #### [MLB Draft Kit](https://www.rotowire.com/baseball/draft-kit.php)
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)
 

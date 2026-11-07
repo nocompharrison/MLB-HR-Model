@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 17:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-07 18:05 ET -->
 
 # NBA DFS Picks Today
 November 7, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, November 7 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (BKN @ ATL) Brooklyn Nets (BKN @ ATL) Cleveland Cavaliers (NYK @ CLE) Denver Nuggets (DEN @ IND) Golden State Warriors (ORL @ GSW) Houston Rockets (HOU @ PHX) Indiana Pacers (DEN @ IND) New York Knicks (NYK @ CLE) Oklahoma City Thunder (WSH @ OKC) Orlando Magic (ORL @ GSW) Phoenix Suns (HOU @ PHX) Portland Trail Blazers (SAN @ POR) San Antonio Spurs (SAN @ POR) Washington Wizards (WSH @ OKC)
+Atlanta HawksBKN @ ATL - 7:30 PM ET
+**[Jalen Johnson](https://www.rotowire.com/basketball/player/jalen-johnson-5329)** _F_ _Top_ 5:33 PM ET
+#### Back in action Saturday
+Johnson (ankle) is active for Saturday's game against the Nets.
+Analysis
+Johnson has missed Atlanta's last three contests due to a sprained left ankle, but the 24-year-old is ready to roll at home versus Brooklyn. His return will likely push Luguentz Dort back to the bench, while Corey Kispert could see his minutes diminish slightly.
 Portland Trail BlazersSAN @ POR - 10:00 PM ET
 **[Robert Williams](https://www.rotowire.com/basketball/player/robert-williams-4382)** _C_ OUT4:12 PM ET
 #### Resting versus Spurs
@@ -47,13 +53,7 @@ Indiana PacersDEN @ IND - 5:00 PM ET
 Oubre (calf) will be available for Saturday's game against the Nuggets, Dustin Dopirak of The Indianapolis Star reports.
 Analysis
 Oubre's string of absences will end after two games now that he's recovered from a left calf contusion. His return could spell decreased opportunities for Jarace Walker and Obi Toppin.
-Indiana PacersDEN @ IND - 5:00 PM ET
-**[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)** _G_ 3:28 PM ET
-#### Will suit up Saturday
-McConnell (hamstring) is listed as available for Saturday's game against Denver.
-Analysis
-McConnell will make his 2026-27 debut after sitting out with a hamstring strain. He will likely see a limited workload in his first game of the season. However, McConnell's return will presumably result in fewer minutes for Quenton Jackson.
-Show 5 more (23 remaining)
+Show 5 more (24 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -78,14 +78,14 @@ _Implied_**116.5** _Spread_**-6.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,800  | 34.8  |  
-| PF  | Jalen JohnsonP  | $9,900  | 47.4  |  
+| PF  | Jalen Johnson  | $9,900  | 47.4  |  
 | PG  | Kingston Flemings  | $4,900  | 22.5  |  
 | SF  | Dyson Daniels  | $6,300  | 30.7  |  
 | SG  | Nickeil Alexander-Walker  | $7,200  | 32.9  |  
 **NYK @ CLE**
-O/U 224.58:00 PM ET
+O/U 223.58:00 PM ET
 KnicksExpectedAway
-_Implied_**115.0** _Spread_**-5.5**  
+_Implied_**114.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $8,500  | 46.2  |  
@@ -94,7 +94,7 @@ _Implied_**115.0** _Spread_**-5.5**
 | SF  | Landry Shamet  | $4,200  | 19.9  |  
 | SG  | Mikal Bridges  | $4,800  | 20.3  |  
 CavaliersExpectedHome
-_Implied_**109.5** _Spread_**+5.5**  
+_Implied_**109.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Evan Mobley  | $7,800  | 39.4  |  
@@ -108,20 +108,20 @@ WizardsExpectedAway
 _Implied_**106.0** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 25.0  |  
-| PF  | Anthony DavisQ  | $8,600  | 40.9  |  
-| PG  | Trae Young  | $7,900  | 39.0  |  
-| SF  | AJ Dybantsa  | $6,300  | 26.8  |  
-| SG  | Kyshawn George  | $5,900  | 32.5  |  
+| C  | Alex Sarr  | -  | 25.1  |  
+| PF  | Anthony DavisQ  | $8,600  | 41.0  |  
+| PG  | Trae Young  | $7,900  | 39.1  |  
+| SF  | AJ Dybantsa  | $6,300  | 26.9  |  
+| SG  | Kyshawn George  | $5,900  | 32.6  |  
 ThunderExpectedHome
 _Implied_**117.5** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Isaiah Hartenstein  | $6,100  | 34.1  |  
+| C  | Isaiah Hartenstein  | $6,100  | 34.2  |  
 | PF  | Kenrich Williams  | $4,200  | 20.5  |  
 | PG  | Shai Gilgeous-Alexander  | $10,400  | 54.1  |  
 | SF  | Alex Caruso  | $4,600  | 23.6  |  
-| SG  | Ajay Mitchell  | $6,600  | 33.9  |  
+| SG  | Ajay Mitchell  | $6,600  | 34.0  |  
 **ORL @ GSW**
 O/U 219.58:30 PM ET
 MagicExpectedAway
@@ -138,8 +138,8 @@ _Implied_**113.5** _Spread_**-7.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Draymond GreenQ  | $5,700  | 24.7  |  
-| PF  | Gui SantosQ  | $5,800  | 15.0  |  
-| PG  | Stephen Curry  | $8,400  | 37.7  |  
+| PF  | Gui SantosQ  | $5,800  | 15.1  |  
+| PG  | Stephen Curry  | $8,400  | 37.8  |  
 | SF  | Yaxel Lendeborg  | $8,000  | 35.3  |  
 | SG  | Brandin Podziemski  | $6,800  | 32.4  |  
 **HOU @ PHX**
@@ -175,8 +175,8 @@ AllGuardsForwardsCenters
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Anthony BlackORL - PG  | @ GSW  | $6,400  | 34  | 36.6  | **5.72**  |  
 | 2  |  Jamal CainORL - SF  | @ GSW  | $3,800  | 25  | 21.5  | **5.65**  |  
-| 3  |  Isaiah HartensteinOKC - C  | vs WSH  | $6,100  | 26  | 34.1  | **5.59**  |  
-| 4  |  Kyshawn GeorgeWSH - SG  | @ OKC  | $5,900  | 34  | 32.5  | **5.51**  |  
+| 3  |  Isaiah HartensteinOKC - C  | vs WSH  | $6,100  | 26  | 34.2  | **5.60**  |  
+| 4  |  Kyshawn GeorgeWSH - SG  | @ OKC  | $5,900  | 34  | 32.6  | **5.52**  |  
 | 5  |  Wendell CarterORL - C  | @ GSW  | $6,500  | 34  | 35.4  | **5.45**  |  
 | 6  |  Karl-Anthony TownsNYK - PF  | @ CLE  | $8,500  | 32  | 46.2  | **5.44**  |  
 | 7  |  Mario HezonjaCLE - SF  | vs NYK  | $4,300  | 26  | 23.3  | **5.42**  |  
@@ -206,20 +206,20 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** BKN@ATL, NYK@CLE, ORL@GSW, HOU@PHX, WAS@OKC  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Kyshawn GeorgeWAS · SG · WAS@OKC  | $5,900  | 11.1  | 32.5  | **60.4**  |   | +8.4  | +5  | 96  |  
-| 2  |  Alex SarrWAS · C · WAS@OKC  | $4,800  | 7.6  | 25.0  | **49.1**  |   | +6.4  | +4  | 92  |  
+| 1  |  Kyshawn GeorgeWAS · SG · WAS@OKC  | $5,900  | 11.1  | 32.6  | **60.6**  |   | +8.5  | +5  | 96  |  
+| 2  |  Alex SarrWAS · C · WAS@OKC  | $4,800  | 7.6  | 25.1  | **49.2**  |   | +6.5  | +4  | 92  |  
 | 3  |  Tristan da SilvaORL · SF/PF · ORL@GSW  | $5,600  | 9.9  | 30.4  | **56.8**  |   | +7.2  | +3  | 89  |  
-| 4  |  Jase RichardsonORL · PG/SG · ORL@GSW  | $4,700  | 6.2  | 22.9  | **46.0**  |   | +4.1  | +6  | 89  |  
-| 5  |  Mario HezonjaCLE · SF/PF · NYK@CLE  | $4,300  | 6.9  | 23.3  | **46.3**  |   | +7.7  | +2  | 85  |  
+| 4  |  Jase RichardsonORL · PG/SG · ORL@GSW  | $4,700  | 6.2  | 22.9  | **46.0**  |   | +4.1  | +6  | 88  |  
+| 5  |  Mario HezonjaCLE · SF/PF · NYK@CLE  | $4,300  | 6.9  | 23.3  | **46.3**  |   | +7.8  | +2  | 85  |  
 | 6  |  OG AnunobyNYK · PF · NYK@CLE  | $6,300  | 11.0  | 32.3  | **59.8**  |   | +4.3  | +4  | 85  |  
-| 7  |  Bilal CoulibalyWAS · SF · WAS@OKC  | $3,900  | 4.8  | 18.9  | **39.2**  |   | +4.1  | +4  | 83  |  
-| 8  |  Anthony BlackORL · PG/SG · ORL@GSW  | $6,400  | 14.0  | 36.6  | **65.8**  |   | +9.5  | +1  | 82  |  
+| 7  |  Bilal CoulibalyWAS · SF · WAS@OKC  | $3,900  | 4.8  | 18.9  | **39.3**  |   | +4.1  | +4  | 84  |  
+| 8  |  Anthony BlackORL · PG/SG · ORL@GSW  | $6,400  | 14.0  | 36.6  | **65.8**  |   | +9.4  | +1  | 82  |  
 | 9  |  Onyeka OkongwuATL · C · BKN@ATL  | $6,800  | 12.7  | 34.8  | **63.7**  |   | +3.9  | +3  | 81  |  
-| 10  |  James HardenCLE · PG · NYK@CLE  | $7,100  | 14.2  | 37.1  | **66.8**  |   | +4.6  | +2  | 81  |  
-| 11  |  Bennett StirtzOKC · PG/SG · WAS@OKC  | $3,900  | 5.1  | 19.2  | **39.7**  |   | +4.5  | +2  | 81  |  
-| 12  |  Wendell CarterORL · C · ORL@GSW  | $6,500  | 13.1  | 35.4  | **64.0**  |   | +6.8  | +1  | 80  |  
+| 10  |  James HardenCLE · PG · NYK@CLE  | $7,100  | 14.2  | 37.1  | **66.9**  |   | +4.6  | +2  | 81  |  
+| 11  |  Bennett StirtzOKC · PG/SG · WAS@OKC  | $3,900  | 5.1  | 19.2  | **39.7**  |   | +4.6  | +2  | 81  |  
+| 12  |  Wendell CarterORL · C · ORL@GSW  | $6,500  | 13.1  | 35.4  | **63.9**  |   | +6.7  | +1  | 80  |  
 | 13  |  Peyton WatsonCLE · SF/PF · NYK@CLE  | $5,700  | 8.0  | 26.8  | **51.9**  |   | +1.5  | +5  | 79  |  
-| 14  |  Alex CarusoOKC · SF/PF · WAS@OKC  | $4,600  | 7.5  | 23.6  | **46.9**  |   | +5.9  | +1  | 79  |  
+| 14  |  Alex CarusoOKC · SF/PF · WAS@OKC  | $4,600  | 7.5  | 23.6  | **47.0**  |   | +5.9  | +1  | 79  |  
 | 15  |  Mohamed DiawaraNYK · PF · NYK@CLE  | $3,400  | 4.6  | 17.4  | **36.7**  |   | +5.8  | +1  | 78  |  
 Show all 90 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:30 PM ET · 5 games slate · 2026-11-07.
@@ -246,5 +246,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979c99999f9b97979d9a66uokewi0e0y626i66666o6g62626k6e)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)
 
