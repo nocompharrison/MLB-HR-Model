@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7 | fetched: 2026-11-07 11:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7 | fetched: 2026-11-07 16:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+7h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0644bec03982215dc199f7599547546ba1c63d01-3651x2434.jpg%3Frect%3D64%2C83%2C3587%2C1775%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -30,8 +30,8 @@ _Please note: lines and projections are subject to change throughout the day aft
 Nuggets at Pacers — 5:00 p.m. ET
 Nikola Jokic - Points
 Nikola Jokic Under
-U 26.5
--128
+U 25.5
+-108
 Nov 7 10:10pm UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/denver-nuggets-@-indiana-pacers-36282776)
 Odds/lines subject to change
 [Nikola Jokic](https://sportsbook.fanduel.com/teams/nba/roster/nikola-joki-2388) has remained a major offensive engine for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/denver-nuggets/odds), but his scoring has been less consistent than his all-around production suggests. Through seven games, Jokic is averaging 23.4 points and has cleared 26.5 points only twice, with his latest outing being a 32-point performance against Toronto.
@@ -41,7 +41,7 @@ Rockets at Suns — 9:00 p.m. ET
 Devin Booker - Assists
 Devin Booker Over
 O 5.5
-+124
++126
 Nov 8 2:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-phoenix-suns-36282781)
 Odds/lines subject to change
 [Devin Booker](https://sportsbook.fanduel.com/teams/nba/roster/devin-booker-2338) enters Saturday averaging 5.1 assists in seven games for the [Phoenix Suns](https://sportsbook.fanduel.com/teams/nba/phoenix-suns/odds). He has reached six assists three times this season, including an eight-assist effort in Thursday's win over Orlando. Booker has played at least 34 minutes in each of his past six contests, giving him a consistent opportunity to create for teammates.
@@ -51,7 +51,7 @@ Spurs at Trail Blazers — 10:00 p.m. ET
 Jrue Holiday - Assists
 Jrue Holiday Over
 O 4.5
-+100
++112
 Nov 8 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/san-antonio-spurs-@-portland-trail-blazers-36282779)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220) has averaged 4.5 assists across eight games with the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds), including 4.8 per game over his last five appearances. His playmaking ceiling has been apparent recently, with 10 assists against Denver on Monday and seven against the Lakers on Friday. He logged at least 28 minutes in both games.
@@ -96,22 +96,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 7](https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7)
-2h
+7h
 What are the best NBA prop bets to target today? Three NBA props for Saturday's games.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-saturday-nov-7)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Trail Blazers vs. Spurs Prediction, Odds, Picks, Best Bets for Nov. 7](https://www.fanduel.com/research/trail-blazers-vs-spurs-prediction-nba-odds-spread-best-bets-for-11-7-2026)
-4h
+9h
 Find Trail Blazers vs. Spurs predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 NBA matchup.
 [](https://www.fanduel.com/research/trail-blazers-vs-spurs-prediction-nba-odds-spread-best-bets-for-11-7-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Thunder vs. Wizards Prediction, Odds, Picks, Best Bets for Nov. 7](https://www.fanduel.com/research/thunder-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-7-2026)
-8h
+13h
 Find Thunder vs. Wizards predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 NBA matchup.
 [](https://www.fanduel.com/research/thunder-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-7-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Cavaliers vs. Knicks Prediction, Odds, Picks, Best Bets for Nov. 7](https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-11-7-2026)
-8h
+13h
 Find Cavaliers vs. Knicks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 7 NBA matchup.
 [](https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-11-7-2026)
 
