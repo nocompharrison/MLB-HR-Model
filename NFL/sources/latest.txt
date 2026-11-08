@@ -1,15 +1,15 @@
-# NFL sources | season 2026 | week 9 | updated 2026-11-05 10:03 ET
+# NFL sources | season 2026 | week 9 | updated 2026-11-08 09:33 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-09/primer_p1.md                     53,094 chars                       https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/
-OK      NFL/sources/week-09/primer_p2.md                     51,631 chars                       https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-09/primer_p3.md                     46,023 chars                       https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-09/primer_p4.md                     36,391 chars                       https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/4/
-FAILED  NFL/sources/week-09/fantasypros_grades.md            HTTP 404                           https://www.fantasypros.com/2026/11/fantasy-football-week-9-player-grades-start-sit-advice-2026/
-SHORT   NFL/sources/week-09/fantasypoints_startsit.md        0 words of article text - not published, paywalled or blocked? https://www.fantasypoints.com/nfl/articles/2026/week-9-fantasy-football-start-em-sit-em-advice
-FAILED  NFL/sources/week-09/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-9-2026
+OK      NFL/sources/week-09/primer_p1.md                     UPDATED (changed since 2026-11-05 10:03) 54,657 chars https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/
+OK      NFL/sources/week-09/primer_p2.md                     UPDATED (changed since 2026-11-05 10:03) 51,983 chars https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-09/primer_p3.md                     UPDATED (changed since 2026-11-05 10:03) 46,938 chars https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-09/primer_p4.md                     UPDATED (changed since 2026-11-05 10:03) 38,650 chars https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/4/
+SHORT   NFL/sources/week-09/fantasypros_grades.md            292 words of article text - not published, paywalled or blocked? https://www.fantasypros.com/2026/11/fantasy-football-week-9-player-grades-start-sit-advice-2026/
+OK      NFL/sources/week-09/fantasypoints_startsit.md        UPDATED (changed since 2026-11-05 10:03) 85,348 chars https://www.fantasypoints.com/nfl/articles/2026/week-9-fantasy-football-start-em-sit-em-advice
+OK      NFL/sources/week-09/rotoballer_startsit.md           143,646 chars                      https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-9-2026
 FAILED  NFL/sources/week-09/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk9.html
-OK      NFL/sources/week-09/4for4_startsit.md                67,357 chars                       https://www.4for4.com/2026/w9/fantasy-football-week-9-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-09/fantasypros_news.md              24,769 chars                       https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-09/4for4_oline.md                   36,051 chars                       https://www.4for4.com/2026/w9/nfl-offensive-line-rankings-week-9-matchups-exploit
-OK      NFL/sources/week-09/rotoballer_betting.md            333,885 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
+OK      NFL/sources/week-09/4for4_startsit.md                UPDATED (changed since 2026-11-05 10:03) 67,959 chars https://www.4for4.com/2026/w9/fantasy-football-week-9-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-09/fantasypros_news.md              UPDATED (changed since 2026-11-05 10:03) 24,879 chars https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-09/4for4_oline.md                   UPDATED (changed since 2026-11-05 10:03) 35,878 chars https://www.4for4.com/2026/w9/nfl-offensive-line-rankings-week-9-matchups-exploit
+OK      NFL/sources/week-09/rotoballer_betting.md            UPDATED (changed since 2026-11-05 10:03) 326,236 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
