@@ -1,28 +1,27 @@
-# CBB transcripts | 2026-11-08 | updated 2026-11-08 11:18 ET
+# CBB transcripts | 2026-11-08 | updated 2026-11-08 17:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 5 files in CBB/transcripts/2026-11-08:
+# 7 files in CBB/transcripts/2026-11-08:
 CBB/transcripts/2026-11-08/-qBCD0xaRk4_TCE_College_Basketball_Best_Bets_For_November_8th_Spread_Moneyline_Betting.txt
+CBB/transcripts/2026-11-08/EMSdsQf5Kqo_TCE_College_Basketball_Picks_For_November_8th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-08/NcFVXNNf4SE_PickDawgz_College_Basketball_Picks_Predictions_Today_11_8_26_Ron_s_Bank_Shot_Bre.txt
 CBB/transcripts/2026-11-08/U6FH5hVoEtI_PickDawgz_CBB_Picks_and_Predictions_for_Today_11_8_2026_Dawg_of_the_Day.txt
+CBB/transcripts/2026-11-08/iEJFiM8H520_FieldOf68_EXCLUSIVE_Chance_Mallory_and_Thijs_De_Ridder_on_Virginia_s_HUGE_win_ov.txt
 CBB/transcripts/2026-11-08/rO2JhG4y1pk_PickDawgz_College_Basketball_Picks_for_Today_11_8_26_Sunday_s_Best_College_Baske.txt
 CBB/transcripts/2026-11-08/z3pdE489N48_TCE_College_Basketball_PICKS_ONLY_Sunday_November_8th_TCE_Trims.txt
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
-NONE    channel FieldOf68: nothing new in the date window (or everything already saved)
+NOCAPS  CBSCollegeBB P3mWtLPy36c Virginia smokes Arkansas; UConn has a title contender; Valpo  (no captions; Groq: still live - audio not final yet)
+NEW     CBB/transcripts/2026-11-08/iEJFiM8H520_FieldOf68_EXCLUSIVE_Chance_Mallory_and_Thijs_De_Ridder_on_Virginia_s_HUGE_win_ov.txt  (1,318 words)
+UPCOMING FieldOf68 vq03C-VYJNI Virginia DOMINATES Arkansas in DC! Plus, Week One progress r  (not aired yet - scheduled for 11/08/26 7:30PM)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-08/-qBCD0xaRk4_TCE_College_Basketball_Best_Bets_For_November_8th_Spread_Moneyline_Betting.txt  (1,424 words)
-NEW     CBB/transcripts/2026-11-08/z3pdE489N48_TCE_College_Basketball_PICKS_ONLY_Sunday_November_8th_TCE_Trims.txt  (17,144 words)
-NOCAPS  TCE EMSdsQf5Kqo College Basketball Picks For November 8th - NCAA Basketball   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-08/EMSdsQf5Kqo_TCE_College_Basketball_Picks_For_November_8th_NCAA_Basketball_Banter_Best.txt  (21,868 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-NONE    channel SGPN: nothing new in the date window (or everything already saved)
+UPCOMING SGPN QL9YB1GBbSY College Basketball Picks: Fri, Nov 13th & Sat, Nov 14th  (not aired yet - scheduled for 11/12/26 1:00PM)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-08/rO2JhG4y1pk_PickDawgz_College_Basketball_Picks_for_Today_11_8_26_Sunday_s_Best_College_Baske.txt  (2,503 words)
-NEW     CBB/transcripts/2026-11-08/NcFVXNNf4SE_PickDawgz_College_Basketball_Picks_Predictions_Today_11_8_26_Ron_s_Bank_Shot_Bre.txt  (1,731 words)
-NEW     CBB/transcripts/2026-11-08/U6FH5hVoEtI_PickDawgz_CBB_Picks_and_Predictions_for_Today_11_8_2026_Dawg_of_the_Day.txt  (707 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
