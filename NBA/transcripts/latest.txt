@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-08 | updated 2026-11-08 18:05 ET
+# NBA transcripts | 2026-11-08 | updated 2026-11-08 18:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-08:
 NBA/transcripts/2026-11-08/4bc8L1DJ4ik_PickDawgz_NBA_Picks_Sunday_11_8_26_Jay_s_NBA_Jam_Session.txt
@@ -7,12 +7,11 @@ NBA/transcripts/2026-11-08/Q0lUz07GrGc_CallingOurShot_Sunday_s_NBA_Best_Picks_an
 NBA/transcripts/2026-11-08/w7hcLOdRGPI_PickDawgz_NBA_Picks_Today_11_8_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
 
 # this run:
-UPCOMING ActionNetwork EGzFwcPTGpY Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/08/26 11:00PM)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk k3F5-r71pP8 NBA Picks Today: 8 Games, Best Bets & Betting Angles | Profi  (not aired yet - scheduled for 11/09/26 1:30PM)
-UPCOMING WagerTalk lCksWOVuo2E NBA Picks Today: 8 Games, Best Bets & Betting Angles | Profi  (not aired yet - scheduled for 11/09/26 1:30PM)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
@@ -21,12 +20,12 @@ NONE    channel Stokastic: nothing new in the date window (or everything already
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
 NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod sn_yrY3Bc_4 NBA Monday Picks - 11/9/26 | NBA Bets, Player Props and Pred  (not aired yet - scheduled for 11/08/26 9:00PM)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine DFlpOdBDLWk Monday Night Football Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 11/09/26 10:00AM)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
