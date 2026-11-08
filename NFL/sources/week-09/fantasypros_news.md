@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-08 09:33 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-08 11:47 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,146 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Colby Parkinson](https://images.fantasypros.com/images/players/nfl/19372/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/colby-parkinson.php)
+TE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/colby-parkinson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/colby-parkinson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/colby-parkinson.php)
+[Colby Parkinson (ribs) officially active for Week 9](https://www.fantasypros.com/nfl/news/618493/colby-parkinson-ribs-officially-active-week-9.php)  
+
+Sun, Nov 8th 11:43am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Rams TE Colby Parkinson (ribs) is officially active for a Week 9 matchup with Washington. 
+**_Fantasy Impact:_** Parkinson was considered questionable to play after logging just one limited practice session. He will likely see plenty of snaps, with Tyler Higbee and Davis Allen also figuring to factor into the rotation at tight end. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Cam Skattebo](https://images.fantasypros.com/images/players/nfl/27166/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/cam-skattebo.php)
+RB - NYG
+[» Rankings](https://www.fantasypros.com/nfl/players/cam-skattebo.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/cam-skattebo.php)  
+[» More News](https://www.fantasypros.com/nfl/news/cam-skattebo.php)
+[Cam Skattebo (hamstring) inactive against Philadelphia](https://www.fantasypros.com/nfl/news/618492/cam-skattebo-hamstring-inactive-against-philadelphia.php)  
+
+Sun, Nov 8th 11:43am EST  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Cam Skattebo (hamstring) is officially inactive against the Eagles on Sunday. (Source: [Adam Schefter on X](https://x.com/adamschefter/status/2119469314277331271?a=h43rs6TfGu2G6BZI7pk&s=46))
+**_Fantasy Impact:_** With Skattebo out and Tyrone Tracy on IR, Devin Singletary will lead the Giants backfield on Sunday. He should be viewed as an RB3 with RB2 upside.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordyn Tyson](https://images.fantasypros.com/images/players/nfl/26035/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jordyn-tyson.php)
+WR - NO
+[» Rankings](https://www.fantasypros.com/nfl/players/jordyn-tyson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jordyn-tyson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jordyn-tyson.php)
+[Jordyn Tyson (hamstring) officially active for Week 9](https://www.fantasypros.com/nfl/news/618491/jordyn-tyson-hamstring-officially-active-week-9.php)  
+
+Sun, Nov 8th 11:40am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Saints WR Jordyn Tyson (hamstring) is officially active for a Week 9 matchup with the Browns.
+**_Fantasy Impact:_** Tyson was listed as questionable after being a limited participant in practice this week. Tyson is set to make his debut Sunday, but fantasy managers should not expect to much as the Saints will likely slowly work him into the lineup. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Deshaun Watson](https://images.fantasypros.com/images/players/nfl/16398/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/deshaun-watson.php)
+QB - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/deshaun-watson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/deshaun-watson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/deshaun-watson.php)
+[Deshaun Watson (concussion) officially inactive for Week 9](https://www.fantasypros.com/nfl/news/618490/deshaun-watson-concussion-officially-inactive-week-9.php)  
+
+Sun, Nov 8th 11:36am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Browns QB Deshaun Watson (concussion) is officially inactive for a Week 9 matchup with the Saints.
+**_Fantasy Impact:_** Watson did not clear the concussion protocol in time to be active for Sunday's contest. Sheduer Sanders will draw the start, with Dillion Gabriel serving as the backup. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Sione Vaki](https://images.fantasypros.com/images/players/nfl/26309/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/sione-vaki.php)
+RB - DET
+[» Rankings](https://www.fantasypros.com/nfl/players/sione-vaki.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/sione-vaki.php)  
+[» More News](https://www.fantasypros.com/nfl/news/sione-vaki.php)
+[Sione Vaki (ankle) active for Week 9](https://www.fantasypros.com/nfl/news/618489/sione-vaki-ankle-active-week-9.php)  
+
+Sun, Nov 8th 11:36am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Sione Vaki (ankle) is active for Week 9 for the Detroit Lions. (Source: [Detroit Lions on Twitter ](https://x.com/lions/status/2119467521728184757?a=IJyj6DhPNZXNsPqu4sY&s=46))
+**_Fantasy Impact:_** Vaki is good to go after passing through pregame checks, as the running back will look to take advantage of a complementary role behind superstar No.1 running back Jahmyr Gibbs against the Dolphins Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jake Ferguson](https://images.fantasypros.com/images/players/nfl/22718/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jake-ferguson.php)
+TE - DAL
+[» Rankings](https://www.fantasypros.com/nfl/players/jake-ferguson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jake-ferguson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jake-ferguson.php)
+[Jake Ferguson (ankle) officially active for Week 9](https://www.fantasypros.com/nfl/news/618488/jake-ferguson-ankle-officially-active-week-9.php)  
+
+Sun, Nov 8th 11:35am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Cowboys TE Jake Ferguson (ankle) is officially active for a Week 9 matchup with the Colts. 
+**_Fantasy Impact:_** Ferguson was considered questionable after being limited in practice to close out the week. He should be in line for additional targets with George Pickens (hamstring) inactive for Week 9. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Luke Schoonmaker](https://images.fantasypros.com/images/players/nfl/25267/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php)
+TE - DAL
+[» Rankings](https://www.fantasypros.com/nfl/players/luke-schoonmaker.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/luke-schoonmaker.php)  
+[» More News](https://www.fantasypros.com/nfl/news/luke-schoonmaker.php)
+[Luke Schoonmaker (groin) officially inactive for Week 9](https://www.fantasypros.com/nfl/news/618487/luke-schoonmaker-groin-officially-inactive-week-9.php)  
+
+Sun, Nov 8th 11:33am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Cowboys TE Luke Schoonmaker (groin) is officially inactive for a Week 9 matchup with the Colts.
+**_Fantasy Impact:_** Schoonmaker was considered questionable to play against the Colts as he continues to deal with a groin issue. Jake Ferguson and Brevyn Spann-Ford will see the bulk of the playing time at tight end for Dallas. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Amon-Ra St. Brown](https://images.fantasypros.com/images/players/nfl/19799/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)
+WR - DET
+[» Rankings](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/amonra-stbrown.php)  
+[» More News](https://www.fantasypros.com/nfl/news/amonra-stbrown.php)
+[Amon-Ra St. Brown (ribs) active for Week 9](https://www.fantasypros.com/nfl/news/618486/amon-ra-st-brown-ribs-active-week-9.php)  
+
+Sun, Nov 8th 11:32am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Amon-Ra St. Brown (ribs) is active for Week 9 for the Detroit Lions. (Source: [Detroit Lions on Twitter](https://x.com/lions/status/2119467521728184757?a=IJyj6DhPNZXNsPqu4sY&s=46))
+**_Fantasy Impact:_**
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![George Pickens](https://images.fantasypros.com/images/players/nfl/22963/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/george-pickens.php)
+WR - DAL
+[» Rankings](https://www.fantasypros.com/nfl/players/george-pickens.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/george-pickens.php)  
+[» More News](https://www.fantasypros.com/nfl/news/george-pickens.php)
+[George Pickens (hamstring) officially inactive for Week 9](https://www.fantasypros.com/nfl/news/618485/george-pickens-hamstring-officially-inactive-week-9.php)  
+
+Sun, Nov 8th 11:31am EST  
+By [Jesse Garcia](https://www.fantasypros.com/news/correspondents/jesse-garcia.php)
+Cowboys WR George Pickens (hamstring) is officially inactive for a Week 9 matchup with the Colts.
+**_Fantasy Impact:_** Pickens was considered questionable to play this week. His absence will open up targets for Ryan Flournoy and Jake Ferguson against the Colts. 
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Christian McCaffrey](https://images.fantasypros.com/images/players/nfl/16393/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/christian-mccaffrey.php)
+RB - SF
+[» Rankings](https://www.fantasypros.com/nfl/players/christian-mccaffrey.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/christian-mccaffrey.php)  
+[» More News](https://www.fantasypros.com/nfl/news/christian-mccaffrey.php)
+[Christian McCaffrey (hamstring) expected to see full workload Sunday](https://www.fantasypros.com/nfl/news/618484/christian-mccaffrey-hamstring-expected-to-see-full-workload-sunday.php)  
+
+Sun, Nov 8th 10:37am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Christian McCaffrey (hamstring) is expected to see his full workload Sunday according to Mike Garafolo. (Source: [Mike Garafolo on Twitter ](https://x.com/mikegarafolo/status/2119424304651882924?a=xWXjPL_LZzQQ3D8J5Ck&s=46))
+**_Fantasy Impact:_** McCaffrey looks to not have any limitations entering Sunday’s Week 9 matchup against the Las Vegas Raiders, offering head coach Kyle Shanahan one of his more dynamic playmakers as part of a San Francisco offense ravaged by injuries entering Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Emeka Egbuka](https://images.fantasypros.com/images/players/nfl/23062/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/emeka-egbuka.php)
 WR - TB
 [» Rankings](https://www.fantasypros.com/nfl/players/emeka-egbuka.php)  
@@ -18,20 +158,6 @@ Sun, Nov 8th 8:06am EST
 By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
 Emeka Egbuka (foot) will play in Sunday’s matchup between night’s matchup between the Tampa Bay Buccaneers and Chicago Bears according to Ian Rapoport. (Source: [Ian Rapoport on Twitter ](https://x.com/rapsheet/status/2119401585440698623?a=bjc7R8VZ9XW5iiIoLHE&s=46))
 **_Fantasy Impact:_** Egbuka progressed enough throughout the week after being limited to entering it, as the wideout looks to provide quarterback Baker Mayfield with an impactful pass-catching option against the Chicago Bears Sunday night.
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Amon-Ra St. Brown](https://images.fantasypros.com/images/players/nfl/19799/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)
-WR - DET
-[» Rankings](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/amonra-stbrown.php)  
-[» More News](https://www.fantasypros.com/nfl/news/amonra-stbrown.php)
-[Amon-Ra St. Brown (ribs) expected to play Sunday](https://www.fantasypros.com/nfl/news/618479/amon-ra-st-brown-ribs-expected-to-play-sunday.php)  
-
-Sun, Nov 8th 8:02am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Amon-Ra St. Brown (ribs) is expected to play in Sunday’s matchup between the Detroit Lions and Miami Dolphins according to Ian Rapoport. (Source: [Ian Rapoport on Twitter](https://x.com/rapsheet/status/2119401410077114637?a=FMTXpIKo34E4iV5-Sbc&s=46))
-**_Fantasy Impact:_** St. Brown will work out pregame after being a limited participant throughout the week and barring any setbacks will take the field against the Dolphins for head coach Dan Campbell Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -159,132 +285,6 @@ By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 The Ravens released Austin Reed. 
 **_Fantasy Impact:_** Reed will seek another opportunity. 
 Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Dameon Pierce](https://images.fantasypros.com/images/players/nfl/22947/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/dameon-pierce.php)
-RB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/dameon-pierce.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/dameon-pierce.php)  
-[» More News](https://www.fantasypros.com/nfl/news/dameon-pierce.php)
-[Dameon Pierce released by Eagles ](https://www.fantasypros.com/nfl/news/618467/dameon-pierce-released-by-eagles.php)  
-
-Sun, Nov 8th 1:33am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Eagles released RB Dameon Pierce. 
-**_Fantasy Impact:_** Pierce was released with an injury settlement. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php), [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Taylor Rapp](https://images.fantasypros.com/images/players/nfl/18238/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/taylor-rapp.php)
-S - DEN
-[» Rankings](https://www.fantasypros.com/nfl/players/taylor-rapp.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/taylor-rapp.php)  
-[» More News](https://www.fantasypros.com/nfl/news/taylor-rapp.php)
-[Taylor Rapp released by Broncos ](https://www.fantasypros.com/nfl/news/618466/taylor-rapp-released-by-broncos.php)  
-
-Sun, Nov 8th 1:33am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Broncos released Taylor Rapp. 
-**_Fantasy Impact:_** Rapp will seek another opportunity. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Zion Childress](https://images.fantasypros.com/images/players/nfl/27644/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zion-childress.php)
-CB - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/zion-childress.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/zion-childress.php)  
-[» More News](https://www.fantasypros.com/nfl/news/zion-childress.php)
-[Zion Childress released by Panthers ](https://www.fantasypros.com/nfl/news/618465/zion-childress-released-by-panthers.php)  
-
-Sun, Nov 8th 1:32am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Panthers released Zion Childress. 
-**_Fantasy Impact:_** Childress will seek another opportunity. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Yasir Abdullah](https://images.fantasypros.com/images/players/nfl/25455/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/yasir-abdullah.php)
-LB - ATL
-[» Rankings](https://www.fantasypros.com/nfl/players/yasir-abdullah.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/yasir-abdullah.php)  
-[» More News](https://www.fantasypros.com/nfl/news/yasir-abdullah.php)
-[Yasir Abdullah activated from IR](https://www.fantasypros.com/nfl/news/618464/yasir-abdullah-activated-from-ir.php)  
-
-Sun, Nov 8th 1:29am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Falcons activated Yasir Abdullah from injured reserve
-**_Fantasy Impact:_** Abdullah will be ready to return for Sunday's game against the Bengals. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Beaux Collins](https://images.fantasypros.com/images/players/nfl/22925/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/beaux-collins.php)
-WR - ATL
-[» Rankings](https://www.fantasypros.com/nfl/players/beaux-collins.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/beaux-collins.php)  
-[» More News](https://www.fantasypros.com/nfl/news/beaux-collins.php)
-[Beaux Collins activated from IR](https://www.fantasypros.com/nfl/news/618463/beaux-collins-activated-from-ir.php)  
-
-Sun, Nov 8th 1:28am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Falcons activated Beaux Collins from injured reserve. 
-**_Fantasy Impact:_** Collins will be ready to return for Sunday's game against the Bengals. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Khalil Herbert](https://images.fantasypros.com/images/players/nfl/22763/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/khalil-herbert.php)
-RB - ATL
-[» Rankings](https://www.fantasypros.com/nfl/players/khalil-herbert.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/khalil-herbert.php)  
-[» More News](https://www.fantasypros.com/nfl/news/khalil-herbert.php)
-[Khalil Herbert signs with Falcons 53-man roster ](https://www.fantasypros.com/nfl/news/618462/khalil-herbert-signs-with-falcons-53-man-roster.php)  
-
-Sun, Nov 8th 1:27am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Falcons signed RB Khalil Herbert to their 53-man roster. 
-**_Fantasy Impact:_** Herbert will continue to backup Bijan Robinson with Brian Robinson placed on injured reserve. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Drake Jackson](https://images.fantasypros.com/images/players/nfl/24274/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/drake-jackson-edge.php)
-DE - ATL
-[» Rankings](https://www.fantasypros.com/nfl/players/drake-jackson-edge.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/drake-jackson-edge.php)  
-[» More News](https://www.fantasypros.com/nfl/news/drake-jackson-edge.php)
-[Drake Jackson elevated by Falcons ](https://www.fantasypros.com/nfl/news/618461/drake-jackson-elevated-by-falcons.php)  
-
-Sun, Nov 8th 1:26am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Falcons elevated Drake Jackson for Sunday's game against the Bengals. 
-**_Fantasy Impact:_** Jackson will add depth for Atlanta on Sunday. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![James Pearce Jr.](https://images.fantasypros.com/images/players/nfl/27018/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/james-pearce-jr.php)
-DE - ATL
-[» Rankings](https://www.fantasypros.com/nfl/players/james-pearce-jr.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/james-pearce-jr.php)  
-[» More News](https://www.fantasypros.com/nfl/news/james-pearce-jr.php)
-[James Pearce Jr. activated by Falcons ](https://www.fantasypros.com/nfl/news/618460/james-pearce-jr-activated-by-falcons.php)  
-
-Sun, Nov 8th 1:26am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Falcons activated James Pearce Jr.
-**_Fantasy Impact:_** Pearce served his eight-game suspension. He will make his season debut on Sunday against the Bengals. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Demarcus Robinson](https://images.fantasypros.com/images/players/nfl/15665/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/demarcus-robinson.php)
-WR - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/demarcus-robinson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/demarcus-robinson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/demarcus-robinson.php)
-[Demarcus Robinson (ankle) activated from IR](https://www.fantasypros.com/nfl/news/618459/demarcus-robinson-ankle-activated-from-ir.php)  
-
-Sun, Nov 8th 1:25am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The 49ers activated WR Demarcus Robinson from injured reserve. 
-**_Fantasy Impact:_** Robinson will be good to go for Sunday's game against the Raiders. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
   * [Next »](https://www.fantasypros.com/nfl/player-news.php?page=2)

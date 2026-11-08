@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/2/ | fetched: 2026-11-08 09:45 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/2/ | fetched: 2026-11-08 11:47 ET -->
 
 ![The Primer: Week 9 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_9_2026/716x316.jpg)
 [
@@ -130,7 +130,7 @@ Jordyn Tyson returned to practice this week. He managed only limited sessions al
 **Giants Players & Weekly Rankings**  
 | [J.J. McCarthy](https://www.fantasypros.com/nfl/players/jj-mccarthy.php)  | QB  | QB1/2  |  
 | --- | --- | --- |  
-| [Cam Skattebo](https://www.fantasypros.com/nfl/players/cam-skattebo.php)  | RB  | Doubtful  |  
+| [Cam Skattebo](https://www.fantasypros.com/nfl/players/cam-skattebo.php)  | RB  | Out  |  
 | [Devin Singletary](https://www.fantasypros.com/nfl/players/devin-singletary.php)  | RB  | RB2  |  
 | [Malik Nabers](https://www.fantasypros.com/nfl/players/malik-nabers.php)  | WR  | WR1  |  
 | [Malachi Fields](https://www.fantasypros.com/nfl/players/malachi-fields.php)  | WR  | WR5  |  
@@ -159,7 +159,7 @@ In his last two games of action for the Giants, [J.J. McCarthy](https://www.fant
 **[Saquon Barkley (RB)](https://www.fantasypros.com/nfl/players/saquon-barkley.php)**
 Last week, [Saquon Barkley](https://www.fantasypros.com/nfl/players/saquon-barkley.php) played only 32.4% of the snaps with a 44.8% rushing share and a 16.3% route share (2.9% target share). Last week, Barkley finished with 14 touches and 54 total yards (one touchdown). Barkley was the RB22 in weekly scoring. In the last two weeks, Barkley has had an 11.8% explosive run rate, 2.55 yards after contact per attempt, and a 20% missed tackle rate. These are all amazing numbers considering Barkley has been playing with one healthy leg and a balky back. Barkley can get it done this week on limited volume. Over the last five games, New York has allowed the seventh-highest explosive run rate, the ninth-most rushing yards over expectation per attempt, and the 15th-most yards after contact per attempt. Barkley opened the week with a DNP.
 **[Devin Singletary (RB)](https://www.fantasypros.com/nfl/players/devin-singletary.php)**
-Devin Singletary should operate as the Giants’ workhorse this week, with only Singletary and Greg Desrosiers healthy in the running back room. This season, in limited duty, Singletary has posted a solid 2.11 yards after contact per attempt and a 17% missed tackle rate. He should flirt with 15-18 touches this week with a nice matchup incoming. Singletary is an RB2 this week. Over the last five games, Philly’s run defense has been leaky, allowing the 11th-highest explosive run rate, the sixth-highest rushing success rate, the eighth-highest yards after contact per attempt, and the seventh-highest missed tackle rate.
+Devin Singletary will operate as the Giants’ workhorse this week, with only Singletary and Greg Desrosiers healthy in the running back room. This season, in limited duty, Singletary has posted a solid 2.11 yards after contact per attempt and a 17% missed tackle rate. He should flirt with 15-18 touches this week with a nice matchup incoming. Singletary is an RB2 this week. Over the last five games, Philly’s run defense has been leaky, allowing the 11th-highest explosive run rate, the sixth-highest rushing success rate, the eighth-highest yards after contact per attempt, and the seventh-highest missed tackle rate.
 **Fantasy Football Flex & Deep Plays to Consider**
 _Let’s fill out those flex spots._
 N/A
@@ -167,8 +167,6 @@ N/A
 _Players in consideration for lineups, but temper your expectations this week._
 **[Joe Milton (QB)](https://www.fantasypros.com/nfl/players/joe-milton.php)**
 [Tanner McKee](https://www.fantasypros.com/nfl/players/tanner-mckee.php) has been benched. [Joe Milton](https://www.fantasypros.com/nfl/players/joe-milton.php) will now be the starting quarterback for the Eagles. We’ll see if he can hold the job for the rest of the season. Since 2024, Milton has only had 57 regular-season dropbacks to work with as a sample size. With those dropbacks, Milton has had 8.1 yards per attempt, a 53.8% passing success rate, a 13.5% deep ball rate, an 80.9% catchable target rate, and a 5.8% hero throw rate. Those are all solid, if not STRONG, numbers. Again, this is an incredibly small sample, but it at least paints a picture of optimism, which I don’t think we can say existed for McKee after what we’ve seen this season. This week, he’ll have a tough matchup against the Giants, but he could still return serviceable QB2 production. Over their last five games, the Giants have allowed the second-fewest yards per attempt, the third-lowest passing success rate, the seventh-lowest CPOE, and the sixth-lowest EPA per dropback.
-**[Cam Skattebo (RB)](https://www.fantasypros.com/nfl/players/cam-skattebo.php)**
-Cam Skattebo didn’t practice until Friday of this week (hamstring). He only managed a limited session on Friday and has been listed as doubtful. I expect Skattebo to miss this week, which means Devin Singletary should operate as the Giants’ workhorse this week.
 **[Makai Lemon (WR)](https://www.fantasypros.com/nfl/players/makai-lemon.php)**
 Since Week 6, [Makai Lemon](https://www.fantasypros.com/nfl/players/makai-lemon.php) has been the WR31 in fantasy points per game. In the last three weeks, Lemon has had an 18.4% target share with 1.22 YPRR, one red zone target, one deep target, and a 22.7% first-read share. This isn’t the week to expect much from Lemon as a flex, though. Over the last five games, the Giants have shut down slot receivers, allowing the fifth-fewest yards per target and the fourth-fewest fantasy points per opportunity.
 **[Dallas Goedert (TE)](https://www.fantasypros.com/nfl/players/dallas-goedert.php)**
@@ -251,7 +249,7 @@ BoomBust
 [@dbro_ffb](https://x.com/dbro_ffb)
 Derek Brown is a senior fantasy football analyst at FantasyPros.
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/2/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)

@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/ | fetched: 2026-11-08 09:45 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/ | fetched: 2026-11-08 11:47 ET -->
 
 ![The Primer: Week 9 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_9_2026/716x316.jpg)
   * 1
@@ -135,7 +135,7 @@ N/A
 | [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php)  | RB  | RB1  |  
 | [Tyler Goodson](https://www.fantasypros.com/nfl/players/tyler-goodson.php)  | RB  | RB4  |  
 | [CeeDee Lamb](https://www.fantasypros.com/nfl/players/ceedee-lamb.php)  | WR  | WR1  |  
-| [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php)  | WR  | WR1/2  |  
+| [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php)  | WR  | Out  |  
 | [Ryan Flournoy](https://www.fantasypros.com/nfl/players/ryan-flournoy.php)  | WR  | WR3/4  |  
 | [Jake Ferguson](https://www.fantasypros.com/nfl/players/jake-ferguson.php)  | TE  | TE2/3  |  
 **Colts Players & Weekly Rankings**  
@@ -152,10 +152,8 @@ _These are no-brainer MUST starts._
   * [Dak Prescott](https://www.fantasypros.com/nfl/players/dak-prescott.php)
   * [Javonte Williams](https://www.fantasypros.com/nfl/players/javonte-williams.php)
   * [CeeDee Lamb](https://www.fantasypros.com/nfl/players/ceedee-lamb.php)
-  * [George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php)*
 
 
-_*[George Pickens](https://www.fantasypros.com/nfl/players/george-pickens.php) has been a limited practice participant all week. He has been listed as questionable for Week 9 (hamstring). *_
 **Strong Starts**
 _Here are players that should be in starting consideration for most fantasy teams._
 **[Jonathan Taylor (RB)](https://www.fantasypros.com/nfl/players/jonathan-taylor.php)**

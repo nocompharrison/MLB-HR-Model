@@ -1,6 +1,5 @@
-<!-- source: https://www.fantasypoints.com/nfl/articles/2026/week-9-fantasy-football-start-em-sit-em-advice | fetched: 2026-11-08 09:45 ET -->
+<!-- source: https://www.fantasypoints.com/nfl/articles/2026/week-9-fantasy-football-start-em-sit-em-advice | fetched: 2026-11-08 11:47 ET -->
 
-[](https://www.fantasypoints.com/cdn-cgi/content?id=XUsDvDc3NZFLkeRWBhvYYTa1rre_zeyOhtxTd95DT2M-1794149018.9489603-1.2.1.1-6M3SF0LlXHjUe66RVMhNJSm8JCwVC1uABBWC3NLtuAlvYyjpKQIfYN_Thqa8n0cC)
 REDRAFT
 63 MIN READ 
 # 2026 Week 9 Fantasy Football Start 'Em, Sit 'Em Advice
