@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-08 | updated 2026-11-08 18:38 ET
+# NBA transcripts | 2026-11-08 | updated 2026-11-08 18:52 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-08:
 NBA/transcripts/2026-11-08/4bc8L1DJ4ik_PickDawgz_NBA_Picks_Sunday_11_8_26_Jay_s_NBA_Jam_Session.txt
@@ -7,7 +7,7 @@ NBA/transcripts/2026-11-08/Q0lUz07GrGc_CallingOurShot_Sunday_s_NBA_Best_Picks_an
 NBA/transcripts/2026-11-08/w7hcLOdRGPI_PickDawgz_NBA_Picks_Today_11_8_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
 
 # this run:
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+UPCOMING ActionNetwork EGzFwcPTGpY Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/08/26 11:00PM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
