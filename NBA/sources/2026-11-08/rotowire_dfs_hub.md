@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 16:34 ET -->
 
 # NBA DFS Picks Today
 November 8, 2026
@@ -65,7 +65,7 @@ Implied total vs. the slate _Lowest_ _Highest_
 **UTA @ MIN**
 O/U 221.57:00 PM ET
 JazzExpectedAway
-_Implied_**105.0** _Spread_**+11.5**  
+_Implied_**104.5** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jaxson Hayes  | $5,500  | 23.4  |  
@@ -74,7 +74,7 @@ _Implied_**105.0** _Spread_**+11.5**
 | SF  | Ace Bailey  | $6,400  | 27.6  |  
 | SG  | Darryn Peterson  | $6,200  | 28.7  |  
 TimberwolvesExpectedHome
-_Implied_**116.5** _Spread_**-11.5**  
+_Implied_**117.0** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $5,600  | 31.0  |  
@@ -208,17 +208,17 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **55.0**  |   | +18.4  | +6  | 97  |  
 | 2  |  Dejounte MurrayNOP · PG · NOP@LAC  | $7,700  | 15.3  | 40.1  | **71.5**  |   | +7.2  | +7  | 92  |  
-| 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.6  | **45.3**  |   | +19.3  | +3  | 89  |  
-| 4  |  Day'Ron SharpeBKN · C · BKN@DAL  | $5,100  | 10.6  | 30.3  | **57.0**  |   | +13.9  | +3  | 88  |  
-| 5  |  Jaden McDanielsMIN · SF/PF · UTA@MIN  | $6,500  | 12.0  | 33.7  | **61.5**  |   | +7.1  | +3  | 85  |  
-| 6  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.6  | +4  | 84  |  
-| 7  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.7  | 15.9  | **34.6**  |   | +4.5  | +6  | 84  |  
+| 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.5  | **45.3**  |   | +19.3  | +3  | 89  |  
+| 4  |  Day'Ron SharpeBKN · C · BKN@DAL  | $5,100  | 10.6  | 30.3  | **56.9**  |   | +13.8  | +3  | 88  |  
+| 5  |  Jaden McDanielsMIN · SF/PF · UTA@MIN  | $6,500  | 12.0  | 33.7  | **61.6**  |   | +7.1  | +3  | 85  |  
+| 6  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.5  | +4  | 84  |  
+| 7  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.8  | 15.9  | **34.6**  |   | +4.5  | +6  | 84  |  
 | 8  |  Ryan ConwellMIA · PG/SG · MIA@SAC  | $3,600  | 5.5  | 19.6  | **40.4**  |   | +9.5  | +3  | 84  |  
 | 9  |  P.J. WashingtonDAL · PF · BKN@DAL  | $6,200  | 10.8  | 31.6  | **58.5**  |   | +6.4  | +3  | 82  |  
-| 10  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.2**  |   | +12.7  | +2  | 82  |  
+| 10  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.1**  |   | +12.7  | +2  | 82  |  
 | 11  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +4.2  | +5  | 81  |  
 | 12  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +3.2  | +5  | 80  |  
-| 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 43.9  | **76.4**  |   | +9.7  | +2  | 80  |  
+| 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 44.0  | **76.4**  |   | +9.7  | +2  | 80  |  
 | 14  |  Myles TurnerMIL · C · BOS@MIL  | $5,100  | 8.8  | 26.7  | **51.4**  |   | +8.3  | +2  | 78  |  
 | 15  |  Bam AdebayoMIA · C · MIA@SAC  | $8,100  | 17.5  | 42.0  | **73.4**  |   | +5.9  | +2  | 78  |  
 Show all 98 players

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 16:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,14 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Nate Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608)[Still out Monday](https://www.rotowire.com/basketball/headlines/nate-bittle-injury-still-out-monday-538181)
+**C** Toronto Raptors
+Foot
+November 8, 2026
+Bittle (foot) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_04_15PM.pdf) for Monday's game against Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
 [Dalen Terry](https://www.rotowire.com/basketball/player/dalen-terry-5724)[Let go Sunday](https://www.rotowire.com/basketball/headlines/dalen-terry-news-let-go-sunday-538180)
 **F** Free Agent
@@ -184,13 +192,6 @@ Randle closed with 19 points (8-14 FG, 1-2 3Pt, 2-2 FT), eight assists, six rebo
 **F** Brooklyn Nets
 November 8, 2026
 Porter supplied 25 points (8-17 FG, 3-11 3Pt, 6-8 FT), nine rebounds, one assist and one steal over 36 minutes during Saturday's 124-121 loss to Atlanta.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Dishes out eight dimes in loss](https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-dishes-out-eight-dimes-in-loss-538131)
-**G** Indiana Pacers
-November 8, 2026
-Nembhard provided nine points (3-9 FG, 3-6 3Pt, 0-1 FT), eight assists and one rebound across 31 minutes during Saturday's 114-102 loss to Denver.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

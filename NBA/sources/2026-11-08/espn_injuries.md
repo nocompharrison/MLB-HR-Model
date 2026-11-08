@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 16:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 16:34 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,50 +9,50 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
+[](https://www.espn.com/nba/game/_/gameId/401909945)
+
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909945)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909945)
+
+*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  66  
+*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHI  58  
+
+48.7 - 2nd
+
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909939/nets-hawks)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909939)
 
-[* ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bkn.png&w=32&h=32&scale=crop&cquality=40&location=origin)BKN 121 * ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ATL 124](https://www.espn.com/nba/game/_/gameId/401909939/nets-hawks)
+[* ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bkn.png&w=32&h=32&scale=crop&cquality=40&location=origin)BKN 121 * ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ATL 124](https://www.espn.com/nba/game/_/gameId/401909939/nets-hawks)
 
 Final
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909940/knicks-cavaliers)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909940)
 
-[* ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&w=32&h=32&scale=crop&cquality=40&location=origin)NY 109 * ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cle.png&w=32&h=32&scale=crop&cquality=40&location=origin)CLE 97](https://www.espn.com/nba/game/_/gameId/401909940/knicks-cavaliers)
+[* ![Image 6](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&w=32&h=32&scale=crop&cquality=40&location=origin)NY 109 * ![Image 7](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cle.png&w=32&h=32&scale=crop&cquality=40&location=origin)CLE 97](https://www.espn.com/nba/game/_/gameId/401909940/knicks-cavaliers)
 
 Final
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909941/wizards-thunder)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909941)
 
-[* ![Image 6](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&w=32&h=32&scale=crop&cquality=40&location=origin)WSH 75 * ![Image 7](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&w=32&h=32&scale=crop&cquality=40&location=origin)OKC 114](https://www.espn.com/nba/game/_/gameId/401909941/wizards-thunder)
+[* ![Image 8](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&w=32&h=32&scale=crop&cquality=40&location=origin)WSH 75 * ![Image 9](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&w=32&h=32&scale=crop&cquality=40&location=origin)OKC 114](https://www.espn.com/nba/game/_/gameId/401909941/wizards-thunder)
 
 Final
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909942/magic-warriors)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909942)
 
-[* ![Image 8](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ORL 119 * ![Image 9](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&w=32&h=32&scale=crop&cquality=40&location=origin)GS 126](https://www.espn.com/nba/game/_/gameId/401909942/magic-warriors)
+[* ![Image 10](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ORL 119 * ![Image 11](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&w=32&h=32&scale=crop&cquality=40&location=origin)GS 126](https://www.espn.com/nba/game/_/gameId/401909942/magic-warriors)
 
 Final/OT
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909943/rockets-suns)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909943)
 
-[* ![Image 10](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/hou.png&w=32&h=32&scale=crop&cquality=40&location=origin)HOU 99 * ![Image 11](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHX 102](https://www.espn.com/nba/game/_/gameId/401909943/rockets-suns)
+[* ![Image 12](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/hou.png&w=32&h=32&scale=crop&cquality=40&location=origin)HOU 99 * ![Image 13](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHX 102](https://www.espn.com/nba/game/_/gameId/401909943/rockets-suns)
 
 Final
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909944)
 
-[* ![Image 12](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=32&h=32&scale=crop&cquality=40&location=origin)SA 125 * ![Image 13](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=32&h=32&scale=crop&cquality=40&location=origin)POR 103](https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers)
+[* ![Image 14](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=32&h=32&scale=crop&cquality=40&location=origin)SA 125 * ![Image 15](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=32&h=32&scale=crop&cquality=40&location=origin)POR 103](https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers)
 
 Final
-
-[](https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls)
-
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls)[Tickets](https://www.vividseats.com/chicago-bulls-tickets-united-center-11-8-2026/production/7433068?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
-
-*   ![Image 14](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  8-2  
-*   ![Image 15](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHI  1-7  
-
-8:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909946/lakers-pistons)
 
@@ -109,7 +109,13 @@ NBA TV
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Nov 20 | Out | Oct 19: Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports. |
 | [Henri Veesaar](https://www.espn.com/nba/player/_/id/5105571/henri-veesaar) | C | Jul 1 | Out | Sep 21: Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday. |
 
-![Image 22: Brooklyn Nets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&h=40&w=40)Brooklyn Nets
+![Image 22: Boston Celtics](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&h=40&w=40)Boston Celtics
+
+| NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
+| --- | --- | --- | --- | --- |
+| [Mitchell Robinson](https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson) | C | Nov 8 | Day-To-Day | Nov 8: Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports. |
+
+![Image 23: Brooklyn Nets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&h=40&w=40)Brooklyn Nets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -117,7 +123,7 @@ NBA TV
 | [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 11 | Out | Nov 7: Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-121 loss to Atlanta, won't play in Sunday's game against Dallas, Erik Slater of ClutchPoints.com reports. |
 | [Egor Demin](https://www.espn.com/nba/player/_/id/5175643/egor-demin) | G | Nov 11 | Out | Oct 29: The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday. |
 
-![Image 23: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
+![Image 24: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -127,17 +133,14 @@ NBA TV
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Nov 9 | Out | Nov 5: Knueppel (hamstring) is out for Friday's game against the Celtics. |
 | [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 9 | Out | Nov 4: The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday. |
 
-![Image 24: Chicago Bulls](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&h=40&w=40)Chicago Bulls
+![Image 25: Chicago Bulls](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&h=40&w=40)Chicago Bulls
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 8 | Day-To-Day | Nov 8: Powell (shoulder) is listed as questionable for Sunday's game against the 76ers. |
-| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 8 | Day-To-Day | Nov 7: Awaka (knee) is questionable for Sundays' game against the 76ers. |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 8 | Day-To-Day | Nov 7: Smith (finger) is probable for Sunday's game against Philadelphia. |
-| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 8 | Out | Nov 7: Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers. |
+| [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 11 | Out | Nov 8: Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports. |
 | [Zach Collins](https://www.espn.com/nba/player/_/id/4066650/zach-collins) | F | Nov 11 | Out | Nov 7: Collins (illness) is out for Sunday's game against Philadelphia. |
 
-![Image 25: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
+![Image 26: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -145,7 +148,7 @@ NBA TV
 | [Jarrett Allen](https://www.espn.com/nba/player/_/id/4066328/jarrett-allen) | C | Nov 9 | Day-To-Day | Nov 8: Allen (knee) is out for Saturday's game against the Knicks |
 | [Jaylon Tyson](https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson) | G | Nov 9 | Out | Nov 7: Tyson (ankle) is out for Saturday's game against the Knicks. |
 
-![Image 26: Dallas Mavericks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&h=40&w=40)Dallas Mavericks
+![Image 27: Dallas Mavericks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&h=40&w=40)Dallas Mavericks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -153,20 +156,20 @@ NBA TV
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 12 | Out | Nov 1: Biberovic (heel) is listed as out for Monday's game against Sacramento. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 12 | Out | Nov 1: Lively (foot) is listed as out for Monday's game against the Kings. |
 
-![Image 27: Denver Nuggets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&h=40&w=40)Denver Nuggets
+![Image 28: Denver Nuggets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&h=40&w=40)Denver Nuggets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Julian Strawther](https://www.espn.com/nba/player/_/id/4432181/julian-strawther) | G | Nov 29 | Out | Oct 16: Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports. |
 
-![Image 28: Detroit Pistons](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png&h=40&w=40)Detroit Pistons
+![Image 29: Detroit Pistons](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png&h=40&w=40)Detroit Pistons
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 24 | Out | Nov 8: Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports. |
 | [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 9 | Out | Nov 7: Joe (hip) has been ruled out for Sunday's game against the Lakers. |
 
-![Image 29: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
+![Image 30: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -174,14 +177,14 @@ NBA TV
 | [Moses Moody](https://www.espn.com/nba/player/_/id/4432171/moses-moody) | G | Dec 1 | Out | Oct 16: Moody (knee) is progressing toward a potential return between December and January after rupturing his left patellar tendon in March, Anthony Slater of ESPN reports. |
 | [Jimmy Butler III](https://www.espn.com/nba/player/_/id/6430/jimmy-butler-iii) | F | Jan 2 | Out | Oct 16: Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports. |
 
-![Image 30: Houston Rockets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png&h=40&w=40)Houston Rockets
+![Image 31: Houston Rockets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png&h=40&w=40)Houston Rockets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Clint Capela](https://www.espn.com/nba/player/_/id/3102529/clint-capela) | C | Nov 9 | Out | Nov 6: Capela (ankle) is out for Saturday's game against the Suns. |
 | [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Nov 9 | Out | Nov 4: Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a "weekly basis," Varun Shankar of the Houston Chronicle reports. |
 
-![Image 31: Indiana Pacers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png&h=40&w=40)Indiana Pacers
+![Image 32: Indiana Pacers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png&h=40&w=40)Indiana Pacers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -189,7 +192,7 @@ NBA TV
 | [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Oct 30: Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Jan 2 | Out | Oct 28: Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports. |
 
-![Image 32: LA Clippers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&h=40&w=40)LA Clippers
+![Image 33: LA Clippers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&h=40&w=40)LA Clippers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -199,13 +202,13 @@ NBA TV
 | [Bradley Beal](https://www.espn.com/nba/player/_/id/6580/bradley-beal) | G | Nov 29 | Out | Oct 14: Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports. |
 | [Jordan Miller](https://www.espn.com/nba/player/_/id/4396818/jordan-miller) | G | Mar 2 | Out | Aug 26: Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic. |
 
-![Image 33: Los Angeles Lakers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&h=40&w=40)Los Angeles Lakers
+![Image 34: Los Angeles Lakers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&h=40&w=40)Los Angeles Lakers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 9 | Day-To-Day | Nov 7: Doncic (back) is questionable for Sunday's game against the Pistons. |
+| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 9 | Out | Nov 8: Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports. |
 
-![Image 34: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
+![Image 35: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -213,26 +216,32 @@ NBA TV
 | [Isaiah Stewart](https://www.espn.com/nba/player/_/id/4432810/isaiah-stewart) | C | Nov 9 | Out | Nov 5: Stewart (knee) has been ruled out for Friday's game against the Thunder. |
 | [Scotty Pippen Jr.](https://www.espn.com/nba/player/_/id/4431785/scotty-pippen-jr) | G | Nov 9 | Out | Nov 5: Pippen (back) has been ruled out for Friday's game against Oklahoma City. |
 
-![Image 35: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
+![Image 36: Milwaukee Bucks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&h=40&w=40)Milwaukee Bucks
+
+| NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
+| --- | --- | --- | --- | --- |
+| [Gary Trent Jr.](https://www.espn.com/nba/player/_/id/4277843/gary-trent-jr) | G | Nov 8 | Day-To-Day | Nov 8: Trent (illness) has been downgraded to questionable for Sunday's game against Boston. |
+
+![Image 37: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Anthony Edwards](https://www.espn.com/nba/player/_/id/4594268/anthony-edwards) | G | Dec 21 | Out | Oct 29: Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timberwolves announced. |
 | [Donte DiVincenzo](https://www.espn.com/nba/player/_/id/3934673/donte-divincenzo) | G | Apr 2 | Out | Oct 5: DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports. |
 
-![Image 36: New Orleans Pelicans](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png&h=40&w=40)New Orleans Pelicans
+![Image 38: New Orleans Pelicans](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png&h=40&w=40)New Orleans Pelicans
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 9 | Out | Nov 5: Missi (knee) is out for Friday's game against Minnesota. |
 
-![Image 37: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
+![Image 39: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 10 | Day-To-Day | Nov 8: Hart is out for Saturday's game against the Cavaliers due to right ankle soreness. |
 
-![Image 38: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
+![Image 40: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -242,7 +251,7 @@ NBA TV
 | [Chet Holmgren](https://www.espn.com/nba/player/_/id/4433255/chet-holmgren) | C | Jan 2 | Out | Oct 30: Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports. |
 | [Jalen Williams](https://www.espn.com/nba/player/_/id/4593803/jalen-williams) | G | Mar 2 | Out | Oct 28: Williams (leg) underwent successful surgery Wednesday to "address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation." He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports. |
 
-![Image 39: Orlando Magic](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png&h=40&w=40)Orlando Magic
+![Image 41: Orlando Magic](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png&h=40&w=40)Orlando Magic
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -253,23 +262,22 @@ NBA TV
 | [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 18 | Out | Oct 17: Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports. |
 | [Izaiyah Nelson](https://www.espn.com/nba/player/_/id/5107251/izaiyah-nelson) | F | Nov 18 | Out | Sep 28: Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com. |
 
-![Image 40: Philadelphia 76ers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40)Philadelphia 76ers
+![Image 42: Philadelphia 76ers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40)Philadelphia 76ers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 8 | Day-To-Day | Nov 7: Embiid (foot) is probable for Sunday's game against the Bulls. |
 | [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 10 | Out | Nov 7: Bona (back) is out for Sunday's game in Chicago. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 18 | Out | Nov 4: Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
-![Image 41: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
+![Image 43: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Jordan Goodwin](https://www.espn.com/nba/player/_/id/4278402/jordan-goodwin) | G | Nov 9 | Out | Nov 7: Goodwin (calf) is out for Saturday's game against the Rockets. |
 | [Mark Williams](https://www.espn.com/nba/player/_/id/4701232/mark-williams) | C | Feb 3 | Out | Sep 11: Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports. |
 
-![Image 42: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
+![Image 44: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -278,7 +286,7 @@ NBA TV
 | [Vit Krejci](https://www.espn.com/nba/player/_/id/4578893/vit-krejci) | G | Jan 2 | Out | Nov 5: Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports. |
 | [Shaedon Sharpe](https://www.espn.com/nba/player/_/id/4914336/shaedon-sharpe) | G | Mar 2 | Out | Aug 24: Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN. |
 
-![Image 43: Sacramento Kings](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png&h=40&w=40)Sacramento Kings
+![Image 45: Sacramento Kings](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png&h=40&w=40)Sacramento Kings
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -286,14 +294,14 @@ NBA TV
 | [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Nov 10 | Out | Oct 26: Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
 
-![Image 44: San Antonio Spurs](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&h=40&w=40)San Antonio Spurs
+![Image 46: San Antonio Spurs](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&h=40&w=40)San Antonio Spurs
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Nov 9 | Out | Oct 30: Harris (calf) is listed as out for Saturday's game against Minnesota. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
-![Image 45: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
+![Image 47: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -302,7 +310,7 @@ NBA TV
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 3: Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 9 | Out | Nov 2: Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return. |
 
-![Image 46: Utah Jazz](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png&h=40&w=40)Utah Jazz
+![Image 48: Utah Jazz](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png&h=40&w=40)Utah Jazz
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -311,7 +319,7 @@ NBA TV
 | [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
 
-![Image 47: Washington Wizards](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png&h=40&w=40)Washington Wizards
+![Image 49: Washington Wizards](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png&h=40&w=40)Washington Wizards
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
@@ -324,73 +332,17 @@ NBA TV
 
 Data Provided by Rotowire
 
-You May Like
-
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
-
-Undo
-
-[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[Your Dog's Back Legs Keep Slipping Out? Do This Immediately!Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "Your Dog's Back Legs Keep Slipping Out? Do This Immediately!")
-
-Undo
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
-
-Undo
-
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This Sunday Benefit Check Seniors are taking advantage of these benefits The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This Sunday Benefit Check")
-
-Undo
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "South Carolina: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)")
-
-Undo
-
-[](https://tick.storytelltv.com/d72e814f-5132-459c-ae53-75851ac0e4e1)[These 2026 Glasses Adjust Their Focus Automatically - Near or Far FlexFocus | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://tick.storytelltv.com/d72e814f-5132-459c-ae53-75851ac0e4e1 "These 2026 Glasses Adjust Their Focus Automatically - Near or Far")
-
-Undo
-
-[](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v2)[The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know He follows the 5 Hour Rule: an hour of learning a day. This is the list he recommends, and there's a faster way to absorb every idea on it without clearing your calendar.Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v2 "The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know")
-
-Undo
-
-[](https://content.consumerexperts.com/us/windows/2026-windows-program)[Houses Built Before 2004 Can Get New Windows Consumer Experts | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://content.consumerexperts.com/us/windows/2026-windows-program "Houses Built Before 2004 Can Get New Windows")
-
-Undo
-
-[](https://healthidentity101.com/ml/6aee2ec23cb33e2c73255dd1)[Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?Health Identity 101 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://healthidentity101.com/ml/6aee2ec23cb33e2c73255dd1 "Doctors Say Forgetfulness Begins When Seniors Can’t Pronounce These 3 Phrases. Can You?")
-
-Undo
-
-[](https://www.temu.com/ul/kuiper/un1.html)[Everything Must Go At Temu Now Limited stock means prices you will love. Grab your finds on Temu.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Everything Must Go At Temu Now")
-
-Undo
-
 ### NBA News
 
-[![Image 48: Thunder get Nique Clifford in trade with Kings, sources say](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743076_1296x729_16-9.jpg&w=220) ## Thunder get Nique Clifford in trade with Kings, sources say The Thunder have acquired 2025 first-round pick Nique Clifford in a trade with the Kings, sources told ESPN's Shams Charania. OKC is sending two picks in return. * 1h * Anthony Slater](https://www.espn.com/nba/story/_/id/50422647/thunder-get-nique-clifford-trade-kings-sources-say)
+[![Image 50: 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743179_608x342_16-9.jpg&w=220) ## 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings We're grading the biggest NBA trades of the season, including the deal that sent Nique Clifford to the Thunder. * 7m * Zach Kram](https://www.espn.com/nba/story/_/id/50423627/2026-27-nba-trade-grades-contracts-new-deals-rosters-teams)
 
-[![Image 49: Luka Doncic to sit out vs. Pistons due to lower back tightness](https://a.espncdn.com/combiner/i?img=/photo/2026/0825/r1706830_1296x729_16-9.jpg&w=220) ## Luka Doncic to sit out vs. Pistons due to lower back tightness Luka Doncic's historically great start to the season has been slowed for Sunday as he was ruled out against the Pistons due to lower back tightness. * 1h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50422499/luka-doncic-ruled-vs-pistons-back-tightness)
+[![Image 51: Thunder get Nique Clifford in trade with Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743076_1296x729_16-9.jpg&w=220) ## Thunder get Nique Clifford in trade with Kings The Thunder have acquired 2025 first-round pick Nique Clifford in a trade with the Kings. * 41m * Anthony Slater](https://www.espn.com/nba/story/_/id/50422647/thunder-get-nique-clifford-trade-kings-sources-say)
 
-[![Image 50: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
+[![Image 52: Luka Doncic to sit out vs. Pistons due to lower back tightness](https://a.espncdn.com/combiner/i?img=/photo/2026/0825/r1706830_1296x729_16-9.jpg&w=220) ## Luka Doncic to sit out vs. Pistons due to lower back tightness Luka Doncic's historically great start to the season has been slowed for Sunday as he was ruled out against the Pistons due to lower back tightness. * 3h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50422499/luka-doncic-ruled-vs-pistons-back-tightness)
 
 [All NBA News](https://www.espn.com/nba/)
 
-Sponsored Headlines
-
-[](https://www.temu.com/ul/kuiper/un1.html)[Everything Must Go on Temu Find quality items at prices you will love. Download the Temu app.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Everything Must Go on Temu")
-
-Undo
-
-[](https://silentroomreview.com/)[Persistent tinnitus linked to a habit most people over 50 share Heart.Health | News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://silentroomreview.com/ "Persistent tinnitus linked to a habit most people over 50 share")
-
-Undo
-
-[](https://related.elitesearches.net/topics/4331003/F90766A)[New Small SUV for Elderly Leaves Others Behind - Take a Look!EliteSearches | Small SUV | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.elitesearches.net/topics/4331003/F90766A "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
-
-Undo
-
-![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
+![Image 53: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
 *   [Terms of Use](https://disneytermsofuse.com/english/)
 *   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/)
@@ -408,7 +360,7 @@ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit 
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
 
-![Image 52: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+![Image 54: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
 
 ## Notice of Right to Opt Out of Sale/Sharing
 
@@ -446,5 +398,5 @@ Consent Leg.Interest
 
 Submit
 
-[![Image 53: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+[![Image 55: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
