@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-08 | updated 2026-11-08 16:06 ET
+# NBA transcripts | 2026-11-08 | updated 2026-11-08 16:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-08:
 NBA/transcripts/2026-11-08/4bc8L1DJ4ik_PickDawgz_NBA_Picks_Sunday_11_8_26_Jay_s_NBA_Jam_Session.txt
