@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-08 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-08 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,120 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Spencer Ahrens](https://www.rotowire.com/cbasketball/player/spencer-ahrens-26440)
+Scores 24, hit five threes
+**F** Boise State
+November 8, 2026
+Ahrens registered 24 points (9-18 FG, 5-11 3Pt, 1-4 FT), five rebounds, one assist and one steal in 29 minutes during Sunday's 100-81 victory over Butler.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Aginaldo Neto](https://www.rotowire.com/cbasketball/player/aginaldo-neto-26438)
+Hits four treys, scores 25
+**G** Boise State
+November 8, 2026
+Neto closed Sunday's 100-81 victory over Butler with 25 points (10-20 FG, 4-5 3Pt, 1-1 FT), six rebounds, five assists, one block and three steals in 39 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
+[Jordan Smith Jr.](https://www.rotowire.com/cbasketball/player/jordan-smith-jr-28075)
+Scores team-high 19 points
+**G** Arkansas
+November 8, 2026
+Smith Jr. produced 19 points (8-17 FG, 1-2 3Pt, 2-3 FT), two rebounds, three assists, one block and four steals in 31 minutes during Sunday's 91-72 loss to Virginia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=16)
+[Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
+Not expected to play Sunday
+**F** Houston
+Knee
+November 8, 2026
+McCarty (knee) is not expected to play in Sunday's contest against California, per [Chris Baldwin of PaperCity Magazine](https://x.com/ChrisYBaldwin/status/2119516800312393776).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
+[Billy Richmond](https://www.rotowire.com/cbasketball/player/billy-richmond-23642)
+Scores 11, grabs seven boards
+**F** Arkansas
+November 8, 2026
+Richmond amassed 11 points (4-6 FG, 0-2 3Pt, 3-4 FT), seven rebounds, four assists and three blocks in 31 minutes during Sunday's 91-72 loss to Virginia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
+[Kory Mincy](https://www.rotowire.com/cbasketball/player/kory-mincy-23123)
+Leads Gamecocks with 19 points
+**G** South Carolina
+November 8, 2026
+Mincy provided 19 points (6-11 FG, 2-3 3Pt, 5-6 FT), four rebounds, two assists, one block and three steals over 33 minutes during Sunday's 78-68 win over Southeast Missouri State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
+[Marcus Johnson](https://www.rotowire.com/cbasketball/player/marcus-johnson-28278)
+Scores 10 in season debut
+**G** South Carolina
+November 8, 2026
+Johnson (nose) recorded 10 points (4-8 FG, 0-1 3Pt, 2-5 FT), three rebounds, one assist and one steal in 24 minutes during Sunday's 78-68 victory over Southeast Missouri State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Nebraska](https://assets.rotowire.com/images/teamlogo/cbasketball/Nebraska.png?v=16)
+[Braden Frager](https://www.rotowire.com/cbasketball/player/braden-frager-23528)
+Inefficient night in loss
+**F** Nebraska
+November 8, 2026
+Frager amassed 12 points (3-13 FG, 1-8 3Pt, 5-7 FT), three rebounds, one assist and four steals over 33 minutes during Saturday's 67-58 victory over Providence.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Nebraska](https://assets.rotowire.com/images/teamlogo/cbasketball/Nebraska.png?v=16)
+[Trevan Leonhardt](https://www.rotowire.com/cbasketball/player/trevan-leonhardt-21864)
+Zero production in win
+**G** Nebraska
+November 8, 2026
+Leonhardt amassed zero points (0-1 FG, 0-1 3Pt) across 15 minutes during Saturday's 67-58 win over Providence.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
+[Kaden House](https://www.rotowire.com/cbasketball/player/kaden-house-28138)
+Another solid showing off the bench
+**G** Maryland
+November 8, 2026
+House produced 13 points (3-6 FG, 2-2 3Pt, 5-7 FT), two rebounds and two assists over 21 minutes during Saturday's 86-74 loss to Georgetown.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
+[Michael McNair](https://www.rotowire.com/cbasketball/player/michael-mcnair-25242)
+Nearly silent in loss
+**G** Maryland
+November 8, 2026
+McNair totaled zero points (0-2 FG, 0-1 3Pt) and two steals across 22 minutes during Saturday's 86-74 loss to Georgetown.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
+[Tomislav Buljan](https://www.rotowire.com/cbasketball/player/tomislav-buljan-26002)
+10 boards in loss
+**F** Maryland
+November 8, 2026
+Buljan logged four points (1-4 FG, 2-2 FT), 10 rebounds and one assist across 21 minutes during Saturday's 86-74 loss to Georgetown.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
+[D.J. Wagner](https://www.rotowire.com/cbasketball/player/dj-wagner-22191)
+Can't hit a three in loss
+**G** Maryland
+November 8, 2026
+Wagner registered 11 points (4-10 FG, 0-4 3Pt, 3-3 FT), four rebounds, three assists and one steal over 29 minutes during Saturday's 86-74 loss to Georgetown.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Richmond](https://assets.rotowire.com/images/teamlogo/cbasketball/Richmond.png?v=16)
+[Jack McCaffery](https://www.rotowire.com/cbasketball/player/jack-mccaffery-25743)
+Diagnosed with Hodgkin's lymphoma
+**F** Richmond
+Illness
+November 8, 2026
+McCaffery (illness) will take an indefinite medical leave from the Richmond basketball team after being diagnosed with Hodgkin's lymphoma, per [The Field of 68](https://x.com/TheFieldOf68/status/2119494681545646152).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=16)
 [Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
 Doubtful for Cal game
@@ -96,124 +210,6 @@ Ready to roll moving forward
 **F** New Mexico
 November 7, 2026
 Muriithi (undisclosed) should be good to go moving forward for the Lobos, per [Geoff Grammer of the Albuquerque Journal](https://x.com/GeoffGrammer/status/2119204313042149537).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=16)
-[Rytis Petraitis](https://www.rotowire.com/cbasketball/player/rytis-petraitis-20771)
-Sitting out for precautionary reasons
-**F** New Mexico
-Ankle
-November 7, 2026
-Petraitis (ankle) is being held out as a precautionary measure, per [Geoff Grammer of the Albuquerque Journal](https://x.com/GeoffGrammer/status/2119204313042149537).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida State](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida-State.png?v=16)
-[Shon Abaev](https://www.rotowire.com/cbasketball/player/shon-abaev-26211)
-Strong showing vs. Troy
-**F** Florida State
-November 7, 2026
-Abaev closed with 20 points (6-14 FG, 2-6 3Pt, 6-7 FT), seven rebounds and six assists across 31 minutes during Friday's 91-68 win over Troy.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Dayton](https://assets.rotowire.com/images/teamlogo/cbasketball/Dayton.png?v=16)
-[Zaide Lowery](https://www.rotowire.com/cbasketball/player/zaide-lowery-22529)
-Dealing with foot injury
-**G** Dayton
-Foot
-November 7, 2026
-Lowery (foot) is banged up for Dayton early in the 2026-27 season, per [David Jablonski of the Dayton Daily News](https://www.daytondailynews.com/sports/dayton-basketball-flyers-suffer-worst-non-conference-home-loss-in-five-years/article_126acf40-8c32-5e6c-b712-b1bfeb73f5e2.html).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Clemson](https://assets.rotowire.com/images/teamlogo/cbasketball/Clemson.png?v=16)
-[Ace Buckner](https://www.rotowire.com/cbasketball/player/ace-buckner-23566)
-Goes for 26 points in win
-**G** Clemson
-November 7, 2026
-Buckner racked up 26 points (9-14 FG, 5-8 3Pt, 3-5 FT), six assists and one steal across 36 minutes during Friday's 82-73 win over American University.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Virginia](https://assets.rotowire.com/images/teamlogo/cbasketball/Virginia.png?v=16)
-[Sam Lewis](https://www.rotowire.com/cbasketball/player/sam-lewis-22915)
-Puts up 20 points in win
-**G** Virginia
-November 7, 2026
-Lewis posted 20 points (5-11 FG, 2-7 3Pt, 8-8 FT), two rebounds, four assists and one steal over 30 minutes during Friday's 97-72 win over Northeastern.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Rhode Island](https://assets.rotowire.com/images/teamlogo/cbasketball/Rhode-Island.png?v=16)
-[Mouhamed Sow](https://www.rotowire.com/cbasketball/player/mouhamed-sow-20092)
-Plays Saturday
-**F** Rhode Island
-November 7, 2026
-Sow (lower body) posted zero points (0-1 FG) and one steal in four minutes during Saturday's 84-66 victory over Monmouth.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
-[Zak Smrekar](https://www.rotowire.com/cbasketball/player/zak-smrekar-27850)
-Scores 12 points Friday
-**F** Boston College
-November 7, 2026
-Smrekar ended with 12 points (3-8 FG, 1-5 3Pt, 5-6 FT), five rebounds and one steal in 36 minutes during Friday's 71-55 win over Massachusetts.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Sam Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Sam-Houston.png?v=16)
-[Nathan Nguyen](https://www.rotowire.com/cbasketball/player/nathan-nguyen-27344)
-Limited action in win
-**G** Sam Houston
-November 7, 2026
-Nguyen (undisclosed) ended with two points (1-1 FG), one rebound and one assist across seven minutes during Saturday's 102-59 win over Howard Payne.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia-Tech.png?v=16)
-[Cole Kirouac](https://www.rotowire.com/cbasketball/player/cole-kirouac-23571)
-Doesn't play Friday
-**C** Georgia Tech
-Undisclosed
-November 7, 2026
-Kirouac didn't play Friday against Georgia Southern due to an undisclosed injury, according to [Rod Mackenzie of 247Sports.com](https://247sports.com/article/guard-play-key-in-georgia-tech-win-over-georgia-southern-292281074/).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Fresno State](https://assets.rotowire.com/images/teamlogo/cbasketball/Fresno-State.png?v=16)
-[Nathan Zulemie](https://www.rotowire.com/cbasketball/player/nathan-zulemie-26733)
-Shut down for 2026-27
-**G** Fresno State
-Knee
-November 7, 2026
-Zulemie (knee) is out for the 2026-27 season with a torn ACL, per [Jackson Moore of 247Sports](https://x.com/JacksonMoore247/status/2107232101510861258).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Xavier](https://assets.rotowire.com/images/teamlogo/cbasketball/Xavier.png?v=16)
-[Braden Appelhans](https://www.rotowire.com/cbasketball/player/braden-appelhans-20660)
-Will miss several weeks
-**G** Xavier
-Undisclosed
-November 7, 2026
-Appelhans is expected to miss a few weeks due to an undisclosed injury, according to [Shelby Dermer of the Cincinnati Enquirer](https://x.com/EnquirerShelby/status/2118898927642583316).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Xavier](https://assets.rotowire.com/images/teamlogo/cbasketball/Xavier.png?v=16)
-[Asher Elson](https://www.rotowire.com/cbasketball/player/asher-elson-28235)
-Could return Tuesday
-**F** Xavier
-Foot
-November 7, 2026
-Elson (foot) has a chance to return Tuesday against Detroit, per [Shelby Dermer of the Cincinnati Enquirer](https://x.com/EnquirerShelby/status/2118898927642583316).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![High Point](https://assets.rotowire.com/images/teamlogo/cbasketball/High-Point.png?v=16)
-[CJ Brown](https://www.rotowire.com/cbasketball/player/cj-brown-23773)
-Leads Panthers scoring in win
-**G** High Point
-November 7, 2026
-Brown closed with 17 points (6-8 FG, 5-6 FT), one rebound and four assists across 23 minutes during Saturday's 83-71 win over Washington State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Duquesne](https://assets.rotowire.com/images/teamlogo/cbasketball/Duquesne.png?v=16)
-[Yoav Berman](https://www.rotowire.com/cbasketball/player/yoav-berman-24629)
-22 points, seven boards in win
-**G** Duquesne
-November 7, 2026
-Berman ended Saturday's 68-58 win over Central State with 22 points (7-10 FG, 4-7 3Pt, 4-4 FT), seven rebounds, four assists and two steals in 35 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
