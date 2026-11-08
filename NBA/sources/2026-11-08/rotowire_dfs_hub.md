@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 18:49 ET -->
 
 # NBA DFS Picks Today
 November 8, 2026
@@ -24,7 +24,13 @@ Sunday, November 8 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Boston Celtics (BOS @ MIL) Brooklyn Nets (BKN @ DAL) Chicago Bulls (PHI @ CHI) Dallas Mavericks (BKN @ DAL) Detroit Pistons (LAL @ DET) Los Angeles Clippers (NOP @ LAC) Los Angeles Lakers (LAL @ DET) Miami Heat (MIA @ SAC) Milwaukee Bucks (BOS @ MIL) Minnesota Timberwolves (UTA @ MIN) New Orleans Pelicans (NOP @ LAC) Philadelphia 76ers (PHI @ CHI) Sacramento Kings (MIA @ SAC) Utah Jazz (UTA @ MIN)
 Utah JazzUTA @ MIN - 7:00 PM ET
-**[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)** _F_ _Top_ 6:14 PM ET
+**[Josh Green](https://www.rotowire.com/basketball/player/josh-green-5192)** _F_ 6:41 PM ET
+#### Starting Sunday
+Green will start Sunday's game against the Timberwolves.
+Analysis
+Green will get the start due to Lauri Markkanen (wrist) being out. In his lone start this season, Green recorded two points, two rebounds, two assists, one steal and a block in 24 minutes.
+Utah JazzUTA @ MIN - 7:00 PM ET
+**[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)** _F_ OUT _Top_ 6:14 PM ET
 #### Out Sunday
 Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.
 Analysis
@@ -47,13 +53,7 @@ Los Angeles LakersLAL @ DET - 6:00 PM ET
 Grimes will start in Sunday's game against the Pistons.
 Analysis
 With Luka Doncic (back) sidelined for this contest, Grimes will enter the starting lineup for the second time this season. Grimes' only start came in the 103-87 win over the Clippers on Oct. 28, with the former 76er finishing with 23 points, three rebounds, five assists and four steals across 38 minutes.
-Sacramento KingsMIA @ SAC - 9:00 PM ET
-**[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)** _F_ _Top_ 3:35 PM ET
-#### Returning versus Miami
-Murray (ankle) is available for Sunday's game against the Heat.
-Analysis
-Murray last played in the 128-120 loss to Portland on Oct. 23. Since then, he's been on the shelf due to left ankle capsulitis. While Murray may come off the bench in his first game back, he will likely reclaim his spot in the starting lineup soon, resulting in Precious Achiuwa reverting to a reserve role.
-Show 5 more (17 remaining)
+Show 5 more (18 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -64,7 +64,7 @@ Nov 9 - Main Slate - 7 games - 7:00 PM (lineups pending) Main Slate - 5 games - 
 Implied total vs. the slate _Lowest_ _Highest_
 **UTA @ MIN**
 O/U 222.57:00 PM ET
-JazzExpectedAway
+JazzConfirmedAway
 _Implied_**105.0** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -73,7 +73,7 @@ _Implied_**105.0** _Spread_**+12.5**
 | PG  | Keyonte George  | $7,900  | 38.7  |  
 | SF  | Josh Green  | $3,600  | 17.5  |  
 | SG  | Darryn Peterson  | $6,200  | 31.0  |  
-TimberwolvesExpectedHome
+TimberwolvesConfirmedHome
 _Implied_**117.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -108,8 +108,8 @@ CelticsExpectedAway
 _Implied_**117.5** _Spread_**-13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Neemias Queta  | $4,900  | 24.6  |  
-| PF  | Paul George  | $7,300  | 34.6  |  
+| C  | Neemias Queta  | $4,900  | 24.7  |  
+| PF  | Paul George  | $7,300  | 34.7  |  
 | PG  | Derrick White  | $6,800  | 27.4  |  
 | SF  | Jayson Tatum  | $10,000  | 44.4  |  
 | SG  | Hugo Gonzalez  | $3,400  | 10.4  |  
@@ -206,7 +206,7 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** BKN@DAL, BOS@MIL, NOP@LAC, MIA@SAC, UTA@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **54.9**  |   | +17.9  | +6  | 97  |  
+| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **54.9**  |   | +17.8  | +6  | 97  |  
 | 2  |  Dejounte MurrayNOP · PG · NOP@LAC  | $7,700  | 15.3  | 40.1  | **71.5**  |   | +7.2  | +7  | 91  |  
 | 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.6  | **45.3**  |   | +18.7  | +3  | 90  |  
 | 4  |  Josh OkogieUTA · SF/PF · UTA@MIN  | $3,800  | 5.3  | 20.1  | **41.2**  |   | +8.1  | +4  | 89  |  
@@ -217,9 +217,9 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | 9  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.2**  |   | +12.3  | +2  | 82  |  
 | 10  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.8  | 15.9  | **34.6**  |   | +4.0  | +6  | 82  |  
 | 11  |  P.J. WashingtonDAL · PF · BKN@DAL  | $6,200  | 10.9  | 31.6  | **58.5**  |   | +6.3  | +3  | 81  |  
-| 12  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.3  | +4  | 81  |  
+| 12  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.4  | +4  | 81  |  
 | 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 44.0  | **76.4**  |   | +9.8  | +2  | 80  |  
-| 14  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +3.8  | +5  | 79  |  
+| 14  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +3.9  | +5  | 79  |  
 | 15  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +2.7  | +5  | 79  |  
 Show all 97 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 5 games slate · 2026-11-08.

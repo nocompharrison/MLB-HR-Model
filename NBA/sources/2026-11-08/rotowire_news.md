@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,13 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Josh Green](https://www.rotowire.com/basketball/player/josh-green-5192)[Starting Sunday](https://www.rotowire.com/basketball/headlines/josh-green-news-starting-sunday-538211)
+**F** Utah Jazz
+November 8, 2026
+Green will [start](https://www.nba.com/players/todays-lineups) Sunday's game against the Timberwolves.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-questionable-for-monday-538210)
 **G** Indiana Pacers
@@ -199,13 +206,6 @@ Allen (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Inju
 Hip
 November 8, 2026
 Landale (hip) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)[Off injury report](https://www.rotowire.com/basketball/headlines/deandre-ayton-news-off-injury-report-538184)
-**C** Washington Wizards
-November 8, 2026
-Ayton (leg) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) on the injury report ahead of Monday's game against the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/brooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8 | fetched: 2026-11-08 18:35 ET -->
+<!-- source: https://www.actionnetwork.com/nba/brooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8 | fetched: 2026-11-08 18:49 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -64,9 +64,9 @@ YES
 Nets vs Mavericks is scheduled for 7:30 PM EST live from American Airlines Center on Sunday. The game will be broadcast on YES.
 * * *
 **Nets vs Mavericks Betting Trends**
-  * 73% of bets and 49% of the money are on the Mavericks to cover the [spread](https://www.actionnetwork.com/education/point-spread)
-  * 94% of bets and 92% of the money on the [moneyline](https://www.actionnetwork.com/education/moneyline) are on the Mavericks to win outright
-  * 74% of bets and 77% of the money are on the over
+  * 74% of bets and 49% of the money are on the Mavericks to cover the [spread](https://www.actionnetwork.com/education/point-spread)
+  * 94% of bets and 90% of the money on the [moneyline](https://www.actionnetwork.com/education/moneyline) are on the Mavericks to win outright
+  * 75% of bets and 77% of the money are on the over
 
 
 Betting trends via our live, updating [NBA public betting & money percentages](https://www.actionnetwork.com/nba/public-betting) page.
@@ -142,7 +142,7 @@ Matt Moore
 NBA
 [Lakers vs Pistons Prediction, Pick, NBA Odds for Sunday, November 8](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-detroit-pistons-prediction-pick-nba-odds-for-sunday-november-8)
 Matt Moore
-10 hours ago
+11 hours ago
 [![NBA Finals Predictions, Picks, Best Bets for 2026-27 Season](https://images.actionnetwork.com/blog/2026/10/NBAFinalsFutures1017.jpg)](https://www.actionnetwork.com/nba/nba-finals-predictions-picks-best-bets-for-2026-27-season)
 NBA
 [NBA Finals Predictions, Picks, Best Bets for 2026-27 Season](https://www.actionnetwork.com/nba/nba-finals-predictions-picks-best-bets-for-2026-27-season)
@@ -155,5 +155,5 @@ Matt Moore
 Oct 19, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=36f13a60-554e-48ae-82dd-e0ca6bbe3d52&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=198be9de-89ba-428e-808e-d8cb96285643&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fbrooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=67&tw_session_id=1794180781016-86814456&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=36f13a60-554e-48ae-82dd-e0ca6bbe3d52&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=198be9de-89ba-428e-808e-d8cb96285643&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fbrooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=67&tw_session_id=1794180781016-86814456&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=68fb2997-aaac-40f6-80eb-8d4a14144b76&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=198be9de-89ba-428e-808e-d8cb96285643&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fbrooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=67&tw_session_id=1794180781016-86814456&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=68fb2997-aaac-40f6-80eb-8d4a14144b76&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=198be9de-89ba-428e-808e-d8cb96285643&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fbrooklyn-nets-vs-dallas-mavericks-prediction-pick-nba-odds-for-sunday-november-8&tw_engaged_ms=7493&tw_iframe_status=0&tw_pid_src=2&tw_session_count=67&tw_session_id=1794180781016-86814456&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
