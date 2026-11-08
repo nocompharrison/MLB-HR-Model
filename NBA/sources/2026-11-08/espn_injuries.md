@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 18:04 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -374,13 +374,23 @@ Undo
 
 [](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair No More: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair No More: This One Daily Vitamin Is Blowing Up Online")
 
+Undo
+
 [](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Getting My Bestfriend This Gift Before Black Friday Was Genius Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Getting My Bestfriend This Gift Before Black Friday Was Genius")
+
+Undo
 
 [](https://tick.topchicdeals.com/01a06746-aaad-44d7-a08e-e0450ce5d0ab)[The Electric Shaver Breaks All Sales Records in US Glosritystore | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tick.topchicdeals.com/01a06746-aaad-44d7-a08e-e0450ce5d0ab "The Electric Shaver Breaks All Sales Records in US")
 
+Undo
+
 [](https://seniorautoquotes.com/usa-tab-1)[South Carolina: Senior Drivers Did Not See This Coming Seniors Born Before 1972 Are Discovering This Auto Insurance Trick... Learn more Senior Auto Quotes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://seniorautoquotes.com/usa-tab-1 "South Carolina: Senior Drivers Did Not See This Coming")
 
+Undo
+
 [](https://tick.loganery.com/93fa6afa-42e7-4efa-9fbc-3c14920f42b9)[A New Little Westie Every Day? That's My Kind of Countdown One Westie runs your house. These 24 can have the shelf.Gifts & Ideas | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Read More](https://tick.loganery.com/93fa6afa-42e7-4efa-9fbc-3c14920f42b9 "A New Little Westie Every Day? That's My Kind of Countdown")
+
+Undo
 
 ### NBA News
 
@@ -403,6 +413,8 @@ Undo
 Undo
 
 [](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+
+Undo
 
 ![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

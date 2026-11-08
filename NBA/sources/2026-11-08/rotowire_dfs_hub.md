@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 18:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 18:35 ET -->
 
 # NBA DFS Picks Today
 November 8, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Sunday, November 8 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Boston Celtics (BOS @ MIL) Brooklyn Nets (BKN @ DAL) Chicago Bulls (PHI @ CHI) Dallas Mavericks (BKN @ DAL) Detroit Pistons (LAL @ DET) Los Angeles Clippers (NOP @ LAC) Los Angeles Lakers (LAL @ DET) Miami Heat (MIA @ SAC) Milwaukee Bucks (BOS @ MIL) Minnesota Timberwolves (UTA @ MIN) New Orleans Pelicans (NOP @ LAC) Philadelphia 76ers (PHI @ CHI) Sacramento Kings (MIA @ SAC) Utah Jazz (UTA @ MIN)
+Utah JazzUTA @ MIN - 7:00 PM ET
+**[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)** _F_ _Top_ 6:14 PM ET
+#### Out Sunday
+Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.
+Analysis
+Markkanen will miss Sunday's game due to a right wrist injury he sustained Oct. 26 against the Grizzlies. Josh Green, Josh Okogie and Brice Sensabaugh are candidates for increased roles with Markkanen sidelined.
+Utah JazzUTA @ MIN - 7:00 PM ET
+**[Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899)** _G_ _Top_ 6:09 PM ET
+#### Available Sunday
+George (illness) is available for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.
+Analysis
+George was listed as questionable ahead of Sunday's contest due to an illness, but he will officially be able to suit up. Over his last five appearances, he holds averages of 20.2 points, 5.0 assists, 4.4 rebounds and 1.0 steals in 32.8 minutes per game.
 Sacramento KingsMIA @ SAC - 9:00 PM ET
 **[Domantas Sabonis](https://www.rotowire.com/basketball/player/domantas-sabonis-3865)** _C_ Q _Top_ 5:53 PM ET
 #### Downgraded to questionable Sunday
@@ -41,19 +53,7 @@ Sacramento KingsMIA @ SAC - 9:00 PM ET
 Murray (ankle) is available for Sunday's game against the Heat.
 Analysis
 Murray last played in the 128-120 loss to Portland on Oct. 23. Since then, he's been on the shelf due to left ankle capsulitis. While Murray may come off the bench in his first game back, he will likely reclaim his spot in the starting lineup soon, resulting in Precious Achiuwa reverting to a reserve role.
-Philadelphia 76ersPHI @ CHI - 3:30 PM ET
-**[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)** _C_ _Top_ 3:01 PM ET
-#### Upgraded to available
-Embiid (foot) is available for Sunday's game against the Bulls.
-Analysis
-Embiid will avoid his third absence of the 2026-27 campaign. The 32-year-old hasn't played up to his usual standards in his eight regular-season appearances, averaging a career-low 17.9 points over 32.4 minutes per contest while shooting a miserable 10.7 percent from behind the arc.
-Chicago BullsPHI @ CHI - 3:30 PM ET
-**[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)** _C_ 2:35 PM ET
-#### Upgraded to available
-Awaka (knee) is available for Sunday's game against Philadelphia.
-Analysis
-Awaka was in danger of missing his fifth game of the 2026-27 campaign, though that won't be the case Sunday. The 22-year-old has averaged 2.0 points and 5.3 rebounds over 10.3 minutes per contest in four regular-season games. Awaka could have trouble improving his production now that Nic Claxton (hamstring) is cleared to suit up.
-Show 5 more (15 remaining)
+Show 5 more (17 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -65,22 +65,22 @@ Implied total vs. the slate _Lowest_ _Highest_
 **UTA @ MIN**
 O/U 222.57:00 PM ET
 JazzExpectedAway
-_Implied_**105.5** _Spread_**+11.5**  
+_Implied_**105.0** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jaxson Hayes  | $5,500  | 23.4  |  
-| PF  | Lauri MarkkanenQ  | $7,500  | 36.3  |  
-| PG  | Keyonte GeorgeQ  | $7,900  | 35.9  |  
-| SF  | Ace Bailey  | $6,400  | 27.6  |  
-| SG  | Darryn Peterson  | $6,200  | 28.7  |  
+| C  | Jaxson Hayes  | $5,500  | 25.1  |  
+| PF  | Ace Bailey  | $6,400  | 29.9  |  
+| PG  | Keyonte George  | $7,900  | 38.7  |  
+| SF  | Josh Green  | $3,600  | 17.5  |  
+| SG  | Darryn Peterson  | $6,200  | 31.0  |  
 TimberwolvesExpectedHome
-_Implied_**117.0** _Spread_**-11.5**  
+_Implied_**117.5** _Spread_**-12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $5,600  | 31.0  |  
-| PF  | Jaden McDaniels  | $6,500  | 33.7  |  
-| PG  | LaMelo Ball  | $8,000  | 43.9  |  
-| SF  | Jonathan Kuminga  | $6,000  | 35.7  |  
+| PF  | Jaden McDaniels  | $6,500  | 33.8  |  
+| PG  | LaMelo Ball  | $8,000  | 44.0  |  
+| SF  | Jonathan Kuminga  | $6,000  | 35.8  |  
 | SG  | Ayo Dosunmu  | $6,600  | 32.4  |  
 **BKN @ DAL**
 O/U 223.57:30 PM ET
@@ -92,7 +92,7 @@ _Implied_**108.0** _Spread_**+7.5**
 | PF  | Julius Randle  | $7,500  | 38.5  |  
 | PG  | Nolan Traore  | $4,900  | 28.6  |  
 | SF  | Danny Wolf  | $3,000  | 22.6  |  
-| SG  | Michael Porter  | $7,200  | 38.9  |  
+| SG  | Michael Porter  | $7,200  | 38.8  |  
 MavericksExpectedHome
 _Implied_**115.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
@@ -101,7 +101,7 @@ _Implied_**115.5** _Spread_**-7.5**
 | PF  | P.J. Washington  | $6,200  | 31.6  |  
 | PG  | Kyrie Irving  | $7,800  | 35.5  |  
 | SF  | Cooper Flagg  | $10,100  | 42.5  |  
-| SG  | Max Christie  | $4,600  | 13.9  |  
+| SG  | Max Christie  | $4,600  | 14.0  |  
 **BOS @ MIL**
 O/U 221.58:00 PM ET
 CelticsExpectedAway
@@ -149,7 +149,7 @@ _Implied_**124.0** _Spread_**-11.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Bam Adebayo  | $8,100  | 42.0  |  
-| PF  | Giannis Antetokounmpo  | $11,300  | 54.2  |  
+| PF  | Giannis Antetokounmpo  | $11,300  | 54.1  |  
 | PG  | Davion Mitchell  | $6,600  | 32.4  |  
 | SF  | Andrew Wiggins  | $5,200  | 21.1  |  
 | SG  | Klay Thompson  | $4,800  | 23.3  |  
@@ -157,11 +157,11 @@ KingsExpectedHome
 _Implied_**112.5** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Domantas SabonisQ  | $9,700  | 46.1  |  
+| C  | Domantas SabonisQ  | $9,700  | 46.0  |  
 | PF  | Keegan Murray  | $5,500  | 17.2  |  
-| PG  | Darius Acuff  | $8,400  | 37.8  |  
-| SF  | De'Andre Hunter  | $5,800  | 21.3  |  
-| SG  | Zach LaVine  | $6,600  | 31.5  |  
+| PG  | Darius Acuff  | $8,400  | 37.7  |  
+| SF  | De'Andre Hunter  | $5,800  | 21.2  |  
+| SG  | Zach LaVine  | $6,600  | 31.4  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -173,15 +173,15 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:30 PMMain - 2 games - 9:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.6  | **7.53**  |  
+| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.6  | **7.52**  |  
 | 2  |  Brook LopezLAC - C  | vs NOP  | $4,600  | 30  | 31.8  | **6.91**  |  
 | 3  |  Brayden BurriesMIL - PG  | vs BOS  | $4,300  | 30  | 28.7  | **6.67**  |  
-| 4  |  Jonathan KumingaMIN - PF  | vs UTA  | $6,000  | 32  | 35.7  | **5.96**  |  
+| 4  |  Jonathan KumingaMIN - PF  | vs UTA  | $6,000  | 32  | 35.8  | **5.96**  |  
 | 5  |  Day'Ron SharpeBKN - C  | @ DAL  | $5,100  | 27  | 30.3  | **5.94**  |  
 | 6  |  Nolan TraoreBKN - PG  | @ DAL  | $4,900  | 30  | 28.6  | **5.84**  |  
 | 7  |  Rui HachimuraLAC - PF  | vs NOP  | $6,000  | 31  | 33.4  | **5.56**  |  
 | 8  |  Rudy GobertMIN - C  | vs UTA  | $5,600  | 30  | 31.0  | **5.53**  |  
-| 9  |  LaMelo BallMIN - PG  | vs UTA  | $8,000  | 31  | 43.9  | **5.49**  |  
+| 9  |  LaMelo BallMIN - PG  | vs UTA  | $8,000  | 31  | 44.0  | **5.50**  |  
 | 10  |  Ryan ConwellMIA - PG  | @ SAC  | $3,600  | 20  | 19.6  | **5.44**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -191,7 +191,7 @@ NBA Boom-or-Bust Board
 Players whose ceiling outruns their salary and whose outcomes swing wider than their peers, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Early · Today · 3:30 PM ET · 2 games — 48 players projected Main · Today · 7:00 PM ET · 5 games — 129 players projected Turbo · Today · 7:30 PM ET · 2 games — 53 players projected Night · Today · 9:00 PM ET · 2 games — 52 players projected Main · Mon 11/9 · 7:00 PM ET · 7 games — 36 players projected Turbo · Mon 11/9 · 8:00 PM ET · 2 games — 12 players projected Night · Mon 11/9 · 9:00 PM ET · 2 games — 15 players projected Today · 3:30 PM ET · PHI@CHI single game — 24 players projected Today · 6:00 PM ET · LAL@DET single game — 24 players projected Today · 7:00 PM ET · UTA@MIN single game — 24 players projected Today · 8:00 PM ET · BOS@MIL single game — 30 players projected Today · 9:00 PM ET · MIA@SAC single game — 24 players projected Mon 11/9 · 7:00 PM ET · WAS@DET single game — 14 players projected Mon 11/9 · 7:30 PM ET · MEM@TOR single game — projections not yet available Mon 11/9 · 8:30 PM ET · DEN@HOU single game — projections not yet available Mon 11/9 · 10:00 PM ET · NOP@GSW single game — 15 players projected
+Slate Early · Today · 3:30 PM ET · 2 games — 48 players projected Main · Today · 7:00 PM ET · 5 games — 128 players projected Turbo · Today · 7:30 PM ET · 2 games — 53 players projected Night · Today · 9:00 PM ET · 2 games — 52 players projected Main · Mon 11/9 · 7:00 PM ET · 7 games — 36 players projected Turbo · Mon 11/9 · 8:00 PM ET · 2 games — 12 players projected Night · Mon 11/9 · 9:00 PM ET · 2 games — 15 players projected Today · 3:30 PM ET · PHI@CHI single game — 24 players projected Today · 6:00 PM ET · LAL@DET single game — 24 players projected Today · 7:00 PM ET · UTA@MIN single game — 23 players projected Today · 8:00 PM ET · BOS@MIL single game — 30 players projected Today · 9:00 PM ET · MIA@SAC single game — 24 players projected Mon 11/9 · 7:00 PM ET · WAS@DET single game — 14 players projected Mon 11/9 · 7:30 PM ET · MEM@TOR single game — projections not yet available Mon 11/9 · 8:30 PM ET · DEN@HOU single game — projections not yet available Mon 11/9 · 10:00 PM ET · NOP@GSW single game — 15 players projected
 TeamAll BKN BOS DAL LAC MIA MIL MIN NOP SAC UTA
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -200,28 +200,28 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K−10−50+5+10+15+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)BurriesMurrayWolfSharpeMcDanielsFearsLylesConwell
+$3K$4K$5K$6K$7K$8K$9K$10K$11K−10−50+5+10+15+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)BurriesMurrayWolfOkogieSharpeMcDanielsGreen
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BKN@DAL, BOS@MIL, NOP@LAC, MIA@SAC, UTA@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **54.9**  |   | +18.3  | +6  | 97  |  
-| 2  |  Dejounte MurrayNOP · PG · NOP@LAC  | $7,700  | 15.3  | 40.1  | **71.5**  |   | +7.2  | +7  | 92  |  
-| 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.6  | **45.3**  |   | +19.3  | +3  | 89  |  
-| 4  |  Day'Ron SharpeBKN · C · BKN@DAL  | $5,100  | 10.6  | 30.3  | **57.0**  |   | +13.9  | +3  | 88  |  
-| 5  |  Jaden McDanielsMIN · SF/PF · UTA@MIN  | $6,500  | 12.0  | 33.7  | **61.5**  |   | +7.1  | +3  | 84  |  
-| 6  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.5  | +4  | 84  |  
-| 7  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.7  | 15.9  | **34.6**  |   | +4.5  | +6  | 84  |  
-| 8  |  Ryan ConwellMIA · PG/SG · MIA@SAC  | $3,600  | 5.4  | 19.6  | **40.4**  |   | +9.5  | +3  | 83  |  
-| 9  |  P.J. WashingtonDAL · PF · BKN@DAL  | $6,200  | 10.9  | 31.6  | **58.5**  |   | +6.5  | +3  | 82  |  
-| 10  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.2**  |   | +12.7  | +2  | 82  |  
-| 11  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +4.2  | +5  | 81  |  
-| 12  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +3.2  | +5  | 80  |  
-| 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 43.9  | **76.4**  |   | +9.7  | +2  | 80  |  
-| 14  |  Myles TurnerMIL · C · BOS@MIL  | $5,100  | 8.8  | 26.7  | **51.4**  |   | +8.3  | +2  | 78  |  
-| 15  |  Bam AdebayoMIA · C · MIA@SAC  | $8,100  | 17.5  | 41.9  | **73.3**  |   | +5.8  | +2  | 78  |  
-Show all 98 players
+| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **54.9**  |   | +17.9  | +6  | 97  |  
+| 2  |  Dejounte MurrayNOP · PG · NOP@LAC  | $7,700  | 15.3  | 40.1  | **71.5**  |   | +7.2  | +7  | 91  |  
+| 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.6  | **45.3**  |   | +18.7  | +3  | 90  |  
+| 4  |  Josh OkogieUTA · SF/PF · UTA@MIN  | $3,800  | 5.3  | 20.1  | **41.2**  |   | +8.1  | +4  | 89  |  
+| 5  |  Day'Ron SharpeBKN · C · BKN@DAL  | $5,100  | 10.6  | 30.3  | **57.0**  |   | +13.5  | +3  | 88  |  
+| 6  |  Jaden McDanielsMIN · SF/PF · UTA@MIN  | $6,500  | 12.0  | 33.8  | **61.6**  |   | +6.9  | +3  | 84  |  
+| 7  |  Ryan ConwellMIA · PG/SG · MIA@SAC  | $3,600  | 5.5  | 19.6  | **40.4**  |   | +8.9  | +3  | 83  |  
+| 8  |  Josh GreenUTA · SG/SF · UTA@MIN  | $3,600  | 4.2  | 17.5  | **36.8**  |   | +5.3  | +4  | 82  |  
+| 9  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.2**  |   | +12.3  | +2  | 82  |  
+| 10  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.8  | 15.9  | **34.6**  |   | +4.0  | +6  | 82  |  
+| 11  |  P.J. WashingtonDAL · PF · BKN@DAL  | $6,200  | 10.9  | 31.6  | **58.5**  |   | +6.3  | +3  | 81  |  
+| 12  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.3  | +4  | 81  |  
+| 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 44.0  | **76.4**  |   | +9.8  | +2  | 80  |  
+| 14  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +3.8  | +5  | 79  |  
+| 15  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +2.7  | +5  | 79  |  
+Show all 97 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 5 games slate · 2026-11-08.
 ## **NBA Injury Report**
 Stay on top of who may be out on today's NBA slate, and who could be the next man up to earn extra minutes in a player's absence. For the full list of injured players and their estimated return dates, visit our [NBA injury report](https://www.rotowire.com/basketball/injury-report.php).

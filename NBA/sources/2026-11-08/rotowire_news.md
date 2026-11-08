@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 18:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,44 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-injury-questionable-for-monday-538210)
+**G** Indiana Pacers
+Hamstring
+November 8, 2026
+McConnell is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_06_15PM.pdf) for Monday's game against the Mavericks due to a right hamstring strain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Lauri Markkanen](https://www.rotowire.com/basketball/player/lauri-markkanen-4119)[Out Sunday](https://www.rotowire.com/basketball/headlines/lauri-markkanen-news-out-sunday-538209)
+**F** Utah Jazz
+November 8, 2026
+Markkanen (wrist) is out for Sunday's game against the Timberwolves, [Shreyas Laddha of The Salt Lake Tribune](https://twitter.com/shre98/status/2119567365033890248) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899)[Available Sunday](https://www.rotowire.com/basketball/headlines/keyonte-george-news-available-sunday-538208)
+**G** Utah Jazz
+November 8, 2026
+George (illness) is available for Sunday's game against the Timberwolves, [Shreyas Laddha of The Salt Lake Tribune](https://twitter.com/shre98/status/2119567365033890248) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[Still out Monday](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-still-out-monday-538207)
+**G** Memphis Grizzlies
+Back
+November 8, 2026
+Pippen (back) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_45PM.pdf) in Monday's game versus the Raptors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Ruled out for Monday](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-ruled-out-for-monday-538206)
+**C** Memphis Grizzlies
+Knee
+November 8, 2026
+Stewart (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_45PM.pdf) for Monday's game against Toronto.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
 [Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Remains out Monday](https://www.rotowire.com/basketball/headlines/clint-capela-injury-remains-out-monday-538205)
 **C** Houston Rockets
@@ -168,44 +206,6 @@ Landale (hip) is [listed as questionable](https://ak-static.cms.nba.com/referee/
 **C** Washington Wizards
 November 8, 2026
 Ayton (leg) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) on the injury report ahead of Monday's game against the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)[Questionable to suit up Monday](https://www.rotowire.com/basketball/headlines/anthony-davis-injury-questionable-to-suit-up-monday-538183)
-**C** Washington Wizards
-Ankle
-November 8, 2026
-Davis (ankle) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game in Detroit.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Out for Monday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-for-monday-538182)
-**F** Cleveland Cavaliers
-Ankle
-November 8, 2026
-Tyson (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Nate Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608)[Still out Monday](https://www.rotowire.com/basketball/headlines/nate-bittle-injury-still-out-monday-538181)
-**C** Toronto Raptors
-Foot
-November 8, 2026
-Bittle (foot) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_04_15PM.pdf) for Monday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
-[Dalen Terry](https://www.rotowire.com/basketball/player/dalen-terry-5724)[Let go Sunday](https://www.rotowire.com/basketball/headlines/dalen-terry-news-let-go-sunday-538180)
-**F** Free Agent
-November 8, 2026
-Terry was waived by the Thunder on Sunday, [Rylan Stiles of SI.com](https://x.com/Rylan_Stiles/status/2119532311452725687?a=eyFdle0uU7F_xojpYBM&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)[Returning versus Miami](https://www.rotowire.com/basketball/headlines/keegan-murray-news-returning-versus-miami-538177)
-**F** Sacramento Kings
-November 8, 2026
-Murray (ankle) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_03_30PM.pdf) for Sunday's game against the Heat.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
