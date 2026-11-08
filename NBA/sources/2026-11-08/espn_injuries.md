@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 17:09 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-08 18:04 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,14 +9,14 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
-[](https://www.espn.com/nba/game/_/gameId/401909945)
+[](https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls)
 
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909945)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909945)
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909945/76ers-bulls)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909945)
 
-*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  66  
-*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHI  58  
+*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  127  
+*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHI  121  
 
-48.7 - 2nd
+Final
 
 [](https://www.espn.com/nba/game/_/gameId/401909946/lakers-pistons)
 
@@ -309,7 +309,6 @@ Mon
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Keegan Murray](https://www.espn.com/nba/player/_/id/4594327/keegan-murray) | F | Nov 8 | Out | Nov 7: Murray (ankle) is questionable for Sunday's game against the Heat. |
 | [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Nov 10 | Out | Oct 26: Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
 
@@ -351,15 +350,59 @@ Mon
 
 Data Provided by Rotowire
 
+You May Like
+
+[](https://searchit4me.com/search)[Search For In Home Care Services Searchit4me | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://searchit4me.com/search "Search For In Home Care Services")
+
+Undo
+
+[](https://searchit4me.com/search)[Search For Termite Treatment Cost Searchit4me | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://searchit4me.com/search "Search For Termite Treatment Cost")
+
+Undo
+
+[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[You'll Never Guess What Stops Your Senior Dog's Limping (Not Glucosamine)Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "You'll Never Guess What Stops Your Senior Dog's Limping (Not Glucosamine)")
+
+Undo
+
+[](https://zekear.com/products/hotpu)[It Feels More Like A Pair Of Hands Than Another Ordinary Massager The clever 7-shaped handle makes reaching your shoulders and middle back much easier. Combined with human-like kneading nodes and cordless convenience, it's a practical addition to your daily relaxation routine.Zekear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Shop Now](https://zekear.com/products/hotpu "It Feels More Like A Pair Of Hands Than Another Ordinary Massager")
+
+Undo
+
+[](https://zekear.com/products/hotpu)[The Back Massager Designed To Reach Where Your Hands Can't The clever 7-shaped handle makes reaching your shoulders and middle back much easier. Combined with human-like kneading nodes and cordless convenience, it's a practical addition to your daily relaxation routine.Zekear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Shop Now](https://zekear.com/products/hotpu "The Back Massager Designed To Reach Where Your Hands Can't")
+
+Undo
+
+[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair No More: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair No More: This One Daily Vitamin Is Blowing Up Online")
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Getting My Bestfriend This Gift Before Black Friday Was Genius Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Getting My Bestfriend This Gift Before Black Friday Was Genius")
+
+[](https://tick.topchicdeals.com/01a06746-aaad-44d7-a08e-e0450ce5d0ab)[The Electric Shaver Breaks All Sales Records in US Glosritystore | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tick.topchicdeals.com/01a06746-aaad-44d7-a08e-e0450ce5d0ab "The Electric Shaver Breaks All Sales Records in US")
+
+[](https://seniorautoquotes.com/usa-tab-1)[South Carolina: Senior Drivers Did Not See This Coming Seniors Born Before 1972 Are Discovering This Auto Insurance Trick... Learn more Senior Auto Quotes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://seniorautoquotes.com/usa-tab-1 "South Carolina: Senior Drivers Did Not See This Coming")
+
+[](https://tick.loganery.com/93fa6afa-42e7-4efa-9fbc-3c14920f42b9)[A New Little Westie Every Day? That's My Kind of Countdown One Westie runs your house. These 24 can have the shelf.Gifts & Ideas | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Read More](https://tick.loganery.com/93fa6afa-42e7-4efa-9fbc-3c14920f42b9 "A New Little Westie Every Day? That's My Kind of Countdown")
+
 ### NBA News
 
-[![Image 48: 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743179_608x342_16-9.jpg&w=220) ## 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings We're grading the biggest NBA trades of the season, including the deal that sent Nique Clifford to the Thunder. * 7m * Zach Kram](https://www.espn.com/nba/story/_/id/50423627/2026-27-nba-trade-grades-contracts-new-deals-rosters-teams)
+[![Image 48: Hornets' Kon Knueppel out at least 4 weeks with latest hamstring strain](https://a.espncdn.com/combiner/i?img=/photo/2026/1105/r1741339_600x400_3-2.jpg&w=220) ## Hornets' Kon Knueppel out at least 4 weeks with latest hamstring strain Charlotte Hornets second-year guard Kon Knueppel has a left hamstring strain and will be out for at least four weeks before he is reevaluated. * 29m](https://www.espn.com/nba/story/_/id/50425681/kon-knueppel-least-four-weeks-hamstring-strain)
 
-[![Image 49: Thunder get Nique Clifford in trade with Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743076_1296x729_16-9.jpg&w=220) ## Thunder get Nique Clifford in trade with Kings The Thunder have acquired 2025 first-round pick Nique Clifford in a trade with the Kings. * 41m * Anthony Slater](https://www.espn.com/nba/story/_/id/50422647/thunder-get-nique-clifford-trade-kings-sources-say)
+[![Image 49: 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743179_608x342_16-9.jpg&w=220) ## 2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings We're grading the biggest NBA trades of the season, including the deal that sent Nique Clifford to the Thunder. * 2h * Zach Kram](https://www.espn.com/nba/story/_/id/50423627/2026-27-nba-trade-grades-contracts-new-deals-rosters-teams)
 
-[![Image 50: Luka Doncic to sit out vs. Pistons due to lower back tightness](https://a.espncdn.com/combiner/i?img=/photo/2026/0825/r1706830_1296x729_16-9.jpg&w=220) ## Luka Doncic to sit out vs. Pistons due to lower back tightness Luka Doncic's historically great start to the season has been slowed for Sunday as he was ruled out against the Pistons due to lower back tightness. * 3h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50422499/luka-doncic-ruled-vs-pistons-back-tightness)
+[![Image 50: Thunder get Nique Clifford in trade with Kings](https://a.espncdn.com/combiner/i?img=/photo/2026/1108/r1743076_1296x729_16-9.jpg&w=220) ## Thunder get Nique Clifford in trade with Kings The Thunder have acquired 2025 first-round pick Nique Clifford in a trade with the Kings. * 1h * Anthony Slater](https://www.espn.com/nba/story/_/id/50422647/thunder-get-nique-clifford-trade-kings-sources-say)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://onlinefinance.net/savings-account-fs2)[Opening a Savings Account? Compare Top Rates First Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://onlinefinance.net/savings-account-fs2 "Opening a Savings Account? Compare Top Rates First")
+
+Undo
+
+[](https://onlinefinance.net/savings-account-fs2)[Is Your Bank Still Paying You 0.57%? Read This Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "Is Your Bank Still Paying You 0.57%? Read This")
+
+Undo
+
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
 ![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

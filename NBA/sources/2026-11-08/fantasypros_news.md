@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-08 17:26 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-08 18:04 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Kon Knueppel](https://images.fantasypros.com/images/players/nba/6315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kon-knueppel.php)
+F - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/kon-knueppel.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kon-knueppel.php)  
+[» More News](https://www.fantasypros.com/nba/news/kon-knueppel.php)
+[Kon Knueppel (hamstring) to be re-evaluated in four weeks](https://www.fantasypros.com/nba/news/618577/kon-knueppel-hamstring-to-be-re-evaluated-four-weeks.php)  
+
+Sun, Nov 8th 5:42pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kon Knueppel will be re-evaluated in four weeks. (Source: [Charlotte Hornets PR on Twitter](https://x.com/HornetsPR/status/2119551984642502912))
+**_Fantasy Impact:_** Knueppel left in the first quarter of his season debut. He will miss the rest of November. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dennis Schroder](https://images.fantasypros.com/images/players/nba/2780/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dennis-schroder.php)
+G - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/dennis-schroder.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dennis-schroder.php)  
+[» More News](https://www.fantasypros.com/nba/news/dennis-schroder.php)
+[Dennis Schroder (hamstring) to be re-evaluated in two weeks](https://www.fantasypros.com/nba/news/618575/dennis-schroder-hamstring-to-be-re-evaluated-two-weeks.php)  
+
+Sun, Nov 8th 5:40pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dennis Schroder will be re-evaluated in two weeks. (Source: [Charlotte Hornets PR on Twitter](https://x.com/HornetsPR/status/2119551984642502912))
+**_Fantasy Impact:_** Schröder missed Friday’s loss to the Celtics and will now be sidelined longer. Christian Anderson will see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dalen Terry](https://images.fantasypros.com/images/players/nba/5467/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dalen-terry.php)
+G - FA
+[» Rankings](https://www.fantasypros.com/nba/players/dalen-terry.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dalen-terry.php)  
+[» More News](https://www.fantasypros.com/nba/news/dalen-terry.php)
+[Dalen Terry waived by Thunder ](https://www.fantasypros.com/nba/news/618574/dalen-terry-waived-by-thunder.php)  
+
+Sun, Nov 8th 5:37pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Thunder waived Dalen Terry.
+**_Fantasy Impact:_** Terry signed a two-year deal on Tuesday. He will seek another opportunity. 
+Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Keegan Murray](https://images.fantasypros.com/images/players/nba/5502/headshot/100x100.png)](https://www.fantasypros.com/nba/players/keegan-murray.php)
+F - SAC
+[» Rankings](https://www.fantasypros.com/nba/players/keegan-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/keegan-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/keegan-murray.php)
+[Keegan Murray (ankle) available Sunday ](https://www.fantasypros.com/nba/news/618573/keegan-murray-ankle-available-sunday.php)  
+
+Sun, Nov 8th 5:36pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Keegan Murray is available for Sunday’s game against the Heat.
+**_Fantasy Impact:_** Murray will make his return for the first time since October 23. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
 C - PHI
 [» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
@@ -231,62 +287,6 @@ Aaron Gordon scored 12 points (5-13 FG, 0-6 3P, 2-4 FT) with five rebounds in th
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Cameron Johnson](https://images.fantasypros.com/images/players/nba/4558/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)
-F - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cameron-johnson-g.php)  
-[» More News](https://www.fantasypros.com/nba/news/cameron-johnson-g.php)
-[Cameron Johnson racks up 18 points in win over Pacers](https://www.fantasypros.com/nba/news/618478/cameron-johnson-racks-up-18-points-win-over-pacers.php)  
-
-Sun, Nov 8th 8:01am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Cameron Johnson scored 18 points (8-12 FG, 2-5 3P) with four rebounds, an assist, and a steal in the Nuggets' 114-102 win over the Pacers on Saturday.
-**_Fantasy Impact:_** It was Johnson's best game of the season so far, eclipsing the 12 points he had against Toronto on Wednesday. He should continue to have performances like this as he ramps up and gets up to game speed.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamal Murray](https://images.fantasypros.com/images/players/nba/3171/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamal-murray.php)
-G - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/jamal-murray.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jamal-murray.php)  
-[» More News](https://www.fantasypros.com/nba/news/jamal-murray.php)
-[Jamal Murray drops 16 points in win over Pacers](https://www.fantasypros.com/nba/news/618476/jamal-murray-drops-16-points-win-over-pacers.php)  
-
-Sun, Nov 8th 7:57am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Jamal Murray scored 16 points (6-13 FG, 2-6 3P, 2-2 FT) with six rebounds and eight assists in the Nuggets' 114-102 win over the Pacers'
-**_Fantasy Impact:_** Murray came in third on the Nuggets in scoring in this contest, but tied for the team lead in assists with Nikola Jokic. After a five-game stretch with three 30+ point games (including a 42-point game), he has now cooled off over his last two games. Still, he's been great for fantasy and should be started when on the hardwood.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Deandre Ayton](https://images.fantasypros.com/images/players/nba/3464/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deandre-ayton.php)
-C - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/deandre-ayton.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deandre-ayton.php)  
-[» More News](https://www.fantasypros.com/nba/news/deandre-ayton.php)
-[Deandre Ayton suffers leg injury Saturday ](https://www.fantasypros.com/nba/news/618431/deandre-ayton-suffers-leg-injury-saturday.php)  
-
-Sat, Nov 7th 10:52pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Deandre Ayton left Saturday's game early with a leg injury. 
-**_Fantasy Impact:_** Ayton was seeing more run in place of Anthony Davis. If he misses time, Alex Sarr would see more run. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Egor Demin](https://images.fantasypros.com/images/players/nba/6308/headshot/100x100.png)](https://www.fantasypros.com/nba/players/egor-demin.php)
-G - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/egor-demin.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/egor-demin.php)  
-[» More News](https://www.fantasypros.com/nba/news/egor-demin.php)
-[Egor Demin (leg) to be re-evaluated next week](https://www.fantasypros.com/nba/news/618430/egor-demin-leg-to-be-re-evaluated-next-week.php)  
-
-Sat, Nov 7th 10:50pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nets head coach Jordi Fernandez said Saturday that Egor Dëmin is progressing in his recovery and will be re-evaluated next week.
-**_Fantasy Impact:_** Demin has missed the Nets’ last four games with a bruised right leg. There will be an update on his status next week. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659796989d96999996999a66uokewi0e0y6260646k60666660666e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

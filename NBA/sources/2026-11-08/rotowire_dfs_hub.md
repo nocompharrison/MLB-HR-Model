@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 17:26 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 18:04 ET -->
 
 # NBA DFS Picks Today
 November 8, 2026
@@ -24,6 +24,18 @@ Sunday, November 8 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Boston Celtics (BOS @ MIL) Brooklyn Nets (BKN @ DAL) Chicago Bulls (PHI @ CHI) Dallas Mavericks (BKN @ DAL) Detroit Pistons (LAL @ DET) Los Angeles Clippers (NOP @ LAC) Los Angeles Lakers (LAL @ DET) Miami Heat (MIA @ SAC) Milwaukee Bucks (BOS @ MIL) Minnesota Timberwolves (UTA @ MIN) New Orleans Pelicans (NOP @ LAC) Philadelphia 76ers (PHI @ CHI) Sacramento Kings (MIA @ SAC) Utah Jazz (UTA @ MIN)
 Sacramento KingsMIA @ SAC - 9:00 PM ET
+**[Domantas Sabonis](https://www.rotowire.com/basketball/player/domantas-sabonis-3865)** _C_ Q _Top_ 5:53 PM ET
+#### Downgraded to questionable Sunday
+Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.
+Analysis
+Sabonis was a late addition to the injury report and could miss his first game of the season. If the veteran center joins Maxime Raynaud (knee) on the inactive list, Dylan Cardwell and Precious Achiuwa would be candidates for increased playing time.
+Los Angeles LakersLAL @ DET - 6:00 PM ET
+**[Quentin Grimes](https://www.rotowire.com/basketball/player/quentin-grimes-5391)** _G_ _Top_ 5:40 PM ET
+#### Starting against Pistons
+Grimes will start in Sunday's game against the Pistons.
+Analysis
+With Luka Doncic (back) sidelined for this contest, Grimes will enter the starting lineup for the second time this season. Grimes' only start came in the 103-87 win over the Clippers on Oct. 28, with the former 76er finishing with 23 points, three rebounds, five assists and four steals across 38 minutes.
+Sacramento KingsMIA @ SAC - 9:00 PM ET
 **[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)** _F_ _Top_ 3:35 PM ET
 #### Returning versus Miami
 Murray (ankle) is available for Sunday's game against the Heat.
@@ -41,19 +53,7 @@ Chicago BullsPHI @ CHI - 3:30 PM ET
 Awaka (knee) is available for Sunday's game against Philadelphia.
 Analysis
 Awaka was in danger of missing his fifth game of the 2026-27 campaign, though that won't be the case Sunday. The 22-year-old has averaged 2.0 points and 5.3 rebounds over 10.3 minutes per contest in four regular-season games. Awaka could have trouble improving his production now that Nic Claxton (hamstring) is cleared to suit up.
-Chicago BullsPHI @ CHI - 3:30 PM ET
-**[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)** _C_ 2:31 PM ET
-#### Cleared to play Sunday
-Smith (finger) is available for Sunday's game versus Philadelphia.
-Analysis
-The finger injury isn't new, so barring a setback, Smith was expected to suit up all along. The 26-year-old has averaged 11.0 points, 7.8 rebounds and 1.8 assists over 22.5 minutes per contest in eight regular-season appearances in 2026-27. While Smith has had one of the best seasons of his career, the return of Nic Claxton (hamstring) will likely result in a decline in production moving ahead, especially once the latter is cleared for a full workload.
-Chicago BullsPHI @ CHI - 3:30 PM ET
-**[Isaac Okoro](https://www.rotowire.com/basketball/player/isaac-okoro-5264)** _F_ 2:01 PM ET
-#### Starting versus 76ers
-Okoro will start in Sunday's game against Philadelphia, Joel Lorenzi of The Athletic reports.
-Analysis
-With Norman Powell (shoulder) sidelined, Okoro will make his first start of the 2026-27 campaign Sunday. The 25-year-old started 62 regular-season games in 2025-26, averaging 9.2 points, 2.8 rebounds and 1.6 assists over 27.0 minutes per contest in those appearances.
-Show 5 more (13 remaining)
+Show 5 more (15 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -92,7 +92,7 @@ _Implied_**108.0** _Spread_**+7.5**
 | PF  | Julius Randle  | $7,500  | 38.5  |  
 | PG  | Nolan Traore  | $4,900  | 28.6  |  
 | SF  | Danny Wolf  | $3,000  | 22.6  |  
-| SG  | Michael Porter  | $7,200  | 38.8  |  
+| SG  | Michael Porter  | $7,200  | 38.9  |  
 MavericksExpectedHome
 _Implied_**115.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
@@ -101,7 +101,7 @@ _Implied_**115.5** _Spread_**-7.5**
 | PF  | P.J. Washington  | $6,200  | 31.6  |  
 | PG  | Kyrie Irving  | $7,800  | 35.5  |  
 | SF  | Cooper Flagg  | $10,100  | 42.5  |  
-| SG  | Max Christie  | $4,600  | 14.0  |  
+| SG  | Max Christie  | $4,600  | 13.9  |  
 **BOS @ MIL**
 O/U 221.58:00 PM ET
 CelticsExpectedAway
@@ -143,9 +143,9 @@ _Implied_**112.5** _Spread_**+1.5**
 | SF  | Derrick Jones  | $5,300  | 25.2  |  
 | SG  | Kris Dunn  | $5,600  | 26.5  |  
 **MIA @ SAC**
-O/U 237.59:00 PM ET
+O/U 236.59:00 PM ET
 HeatExpectedAway
-_Implied_**124.0** _Spread_**-10.5**  
+_Implied_**124.0** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Bam Adebayo  | $8,100  | 42.0  |  
@@ -154,10 +154,10 @@ _Implied_**124.0** _Spread_**-10.5**
 | SF  | Andrew Wiggins  | $5,200  | 21.1  |  
 | SG  | Klay Thompson  | $4,800  | 23.3  |  
 KingsExpectedHome
-_Implied_**113.5** _Spread_**+10.5**  
+_Implied_**112.5** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Domantas Sabonis  | $9,700  | 46.1  |  
+| C  | Domantas SabonisQ  | $9,700  | 46.1  |  
 | PF  | Keegan Murray  | $5,500  | 17.2  |  
 | PG  | Darius Acuff  | $8,400  | 37.8  |  
 | SF  | De'Andre Hunter  | $5,800  | 21.3  |  
@@ -173,7 +173,7 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:30 PMMain - 2 games - 9:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.6  | **7.52**  |  
+| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.6  | **7.53**  |  
 | 2  |  Brook LopezLAC - C  | vs NOP  | $4,600  | 30  | 31.8  | **6.91**  |  
 | 3  |  Brayden BurriesMIL - PG  | vs BOS  | $4,300  | 30  | 28.7  | **6.67**  |  
 | 4  |  Jonathan KumingaMIN - PF  | vs UTA  | $6,000  | 32  | 35.7  | **5.96**  |  
@@ -213,14 +213,14 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | 5  |  Jaden McDanielsMIN · SF/PF · UTA@MIN  | $6,500  | 12.0  | 33.7  | **61.5**  |   | +7.1  | +3  | 84  |  
 | 6  |  Jeremiah FearsNOP · PG/SG · NOP@LAC  | $6,400  | 11.2  | 31.9  | **59.2**  |   | +5.5  | +4  | 84  |  
 | 7  |  Trey LylesMIN · PF/C · UTA@MIN  | $3,500  | 3.7  | 15.9  | **34.6**  |   | +4.5  | +6  | 84  |  
-| 8  |  Ryan ConwellMIA · PG/SG · MIA@SAC  | $3,600  | 5.5  | 19.6  | **40.4**  |   | +9.5  | +3  | 84  |  
+| 8  |  Ryan ConwellMIA · PG/SG · MIA@SAC  | $3,600  | 5.4  | 19.6  | **40.4**  |   | +9.5  | +3  | 83  |  
 | 9  |  P.J. WashingtonDAL · PF · BKN@DAL  | $6,200  | 10.9  | 31.6  | **58.5**  |   | +6.5  | +3  | 82  |  
 | 10  |  Nolan TraoreBKN · PG/SG · BKN@DAL  | $4,900  | 9.7  | 28.6  | **54.2**  |   | +12.7  | +2  | 82  |  
-| 11  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +4.1  | +5  | 81  |  
-| 12  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +3.3  | +5  | 80  |  
+| 11  |  Kris DunnLAC · PG/SG · NOP@LAC  | $5,600  | 8.2  | 26.5  | **51.3**  |   | +4.2  | +5  | 81  |  
+| 12  |  Noah ClowneyBKN · SF/PF · BKN@DAL  | $3,800  | 3.9  | 16.7  | **35.8**  |   | +3.2  | +5  | 80  |  
 | 13  |  LaMelo BallMIN · PG · UTA@MIN  | $8,000  | 19.4  | 43.9  | **76.4**  |   | +9.7  | +2  | 80  |  
 | 14  |  Myles TurnerMIL · C · BOS@MIL  | $5,100  | 8.8  | 26.7  | **51.4**  |   | +8.3  | +2  | 78  |  
-| 15  |  Bam AdebayoMIA · C · MIA@SAC  | $8,100  | 17.5  | 42.0  | **73.4**  |   | +5.9  | +2  | 78  |  
+| 15  |  Bam AdebayoMIA · C · MIA@SAC  | $8,100  | 17.5  | 41.9  | **73.3**  |   | +5.8  | +2  | 78  |  
 Show all 98 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 5 games slate · 2026-11-08.
 ## **NBA Injury Report**
@@ -246,5 +246,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659a989e9f989d989e9a9a66uokewi0e0y6e646m6o646k646m6e6e)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659796989d96999996999a66uokewi0e0y6260646k60666660666e)
 
