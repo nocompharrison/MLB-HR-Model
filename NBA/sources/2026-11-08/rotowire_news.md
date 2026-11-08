@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-08 17:26 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,61 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Tristan Vukcevic](https://www.rotowire.com/basketball/player/tristan-vukcevic-6000)[Remains out indefinitely](https://www.rotowire.com/basketball/headlines/tristan-vukcevic-injury-remains-out-indefinitely-538189)
+**C** Washington Wizards
+Hip
+November 8, 2026
+Vukcevic (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against Detroit.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Asa Newell](https://www.rotowire.com/basketball/player/asa-newell-6561)[Won't play Monday](https://www.rotowire.com/basketball/headlines/asa-newell-injury-wont-play-monday-538188)
+**F** Atlanta Hawks
+Toe
+November 8, 2026
+Newell (toe) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)[Might return Monday](https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-might-return-monday-538187)
+**C** Cleveland Cavaliers
+Knee
+November 8, 2026
+Allen (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Iffy for Monday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-iffy-for-monday-538185)
+**C** Atlanta Hawks
+Hip
+November 8, 2026
+Landale (hip) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)[Off injury report](https://www.rotowire.com/basketball/headlines/deandre-ayton-news-off-injury-report-538184)
+**C** Washington Wizards
+November 8, 2026
+Ayton (leg) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) on the injury report ahead of Monday's game against the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)[Questionable to suit up Monday](https://www.rotowire.com/basketball/headlines/anthony-davis-injury-questionable-to-suit-up-monday-538183)
+**C** Washington Wizards
+Ankle
+November 8, 2026
+Davis (ankle) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game in Detroit.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Out for Monday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-out-for-monday-538182)
+**F** Cleveland Cavaliers
+Ankle
+November 8, 2026
+Tyson (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-08_05_00PM.pdf) for Monday's game against the Hornets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Nate Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608)[Still out Monday](https://www.rotowire.com/basketball/headlines/nate-bittle-injury-still-out-monday-538181)
 **C** Toronto Raptors
@@ -141,57 +196,6 @@ Bridges contributed nine points (4-13 FG, 1-7 3Pt), six rebounds, four assists a
 **G** Oklahoma City Thunder
 November 8, 2026
 Stirtz ended Saturday's 114-75 victory over the Wizards with 11 points (3-12 FG, 2-8 3Pt, 3-3 FT), five rebounds, two assists and one block over 29 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Trae Young](https://www.rotowire.com/basketball/player/trae-young-4369)[Shooting woes in blowout loss](https://www.rotowire.com/basketball/headlines/trae-young-news-shooting-woes-in-blowout-loss-538142)
-**G** Washington Wizards
-November 8, 2026
-Young finished with four points (1-6 FG, 0-1 3Pt, 2-3 FT), five rebounds, three assists and one steal in 28 minutes during Saturday's 114-75 loss to the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Joan Beringer](https://www.rotowire.com/basketball/player/joan-beringer-6576)[Will play Sunday](https://www.rotowire.com/basketball/headlines/joan-beringer-news-will-play-sunday-538140)
-**C** Minnesota Timberwolves
-November 8, 2026
-Beringer (nose) will play in Sunday's game against Utah, [Dane Moore of 'The Dane Moore NBA Podcast'](https://x.com/DaneMooreNBA/status/2119478541352157694?a=k-m3xFCzf-KRFgEBDds&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Immanuel Quickley](https://www.rotowire.com/basketball/player/immanuel-quickley-5201)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-questionable-for-monday-538138)
-**G** Toronto Raptors
-Hamstring
-November 8, 2026
-Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, [Michael Grange of Sportsnet.ca](https://x.com/michaelgrange/status/2119476114511061074?a=tjWDCiF-iy2VQ4XjvrY&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-questionable-for-monday-538137)
-**F** Toronto Raptors
-Groin
-November 8, 2026
-Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, [Michael Grange of Sportsnet.ca](https://x.com/michaelgrange/status/2119476114511061074?a=tjWDCiF-iy2VQ4XjvrY&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Aaron Wiggins](https://www.rotowire.com/basketball/player/aaron-wiggins-5412)[Drops 20 points in win](https://www.rotowire.com/basketball/headlines/aaron-wiggins-news-drops-20-points-in-win-538136)
-**F** Atlanta Hawks
-November 8, 2026
-Wiggins accumulated 20 points (7-19 FG, 5-13 3Pt, 1-2 FT), six assists, four rebounds and one steal over 26 minutes during Saturday's 124-121 victory over the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Julius Randle](https://www.rotowire.com/basketball/player/julius-randle-3574)[Well-rounded outing in loss](https://www.rotowire.com/basketball/headlines/julius-randle-news-well-rounded-outing-in-loss-538134)
-**F** Brooklyn Nets
-November 8, 2026
-Randle closed with 19 points (8-14 FG, 1-2 3Pt, 2-2 FT), eight assists, six rebounds and one steal over 34 minutes during Saturday's 124-121 loss to the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)[Nears double-double in defeat](https://www.rotowire.com/basketball/headlines/michael-porter-news-nears-double-double-in-defeat-538133)
-**F** Brooklyn Nets
-November 8, 2026
-Porter supplied 25 points (8-17 FG, 3-11 3Pt, 6-8 FT), nine rebounds, one assist and one steal over 36 minutes during Saturday's 124-121 loss to Atlanta.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
