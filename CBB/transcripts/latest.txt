@@ -1,41 +1,28 @@
-# CBB transcripts | 2026-11-07 | updated 2026-11-07 17:03 ET
+# CBB transcripts | 2026-11-08 | updated 2026-11-08 11:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 10 files in CBB/transcripts/2026-11-07:
-CBB/transcripts/2026-11-07/5mnGVpOo18M_FieldOf68_Michigan_DOESN_T_have_a_Final_Four_ceiling_UConn_rolls_past_the_Wolve.txt
-CBB/transcripts/2026-11-07/8lrFa9Dcwus_TCE_College_Basketball_Picks_For_November_7th_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-07/EqU6J5qgzPA_TCE_College_Basketball_Best_Bets_For_November_7th_Spread_Moneyline_Betting.txt
-CBB/transcripts/2026-11-07/Ikfaccm6ZEQ_PickDawgz_College_Basketball_Picks_for_Today_11_7_26_Saturday_s_Best_College_Bas.txt
-CBB/transcripts/2026-11-07/Jn3PzpodL3A_FieldOf68_Kentucky_SURVIVES_James_Madison_Defense_REMAINS_the_question_for_this.txt
-CBB/transcripts/2026-11-07/_46-1zcZAu0_FieldOf68_TOP_DOGS_Natty_Revenge_REACTION_to_UConn_s_win_over_Michigan.txt
-CBB/transcripts/2026-11-07/_QcnFJqhew0_TCE_College_Basketball_PICKS_ONLY_Saturday_November_7th_TCE_Trims.txt
-CBB/transcripts/2026-11-07/g4ZmOZpCFY0_FieldOf68_WCC_INSIDER_Ismaila_Diagne_on_his_journey_to_San_Francisco_and_his_ope.txt
-CBB/transcripts/2026-11-07/pVfJ0xxAYNo_FieldOf68_Bobby_Hurley_INTERVIEWS_Dan_Hurley_Well_this_is_a_SURPRISE_AFTER_DARK.txt
-CBB/transcripts/2026-11-07/urgpaKxUY-M_PickDawgz_College_Basketball_Picks_Predictions_Today_11_7_26_Ron_s_Bank_Shot_Bre.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-06
+# 5 files in CBB/transcripts/2026-11-08:
+CBB/transcripts/2026-11-08/-qBCD0xaRk4_TCE_College_Basketball_Best_Bets_For_November_8th_Spread_Moneyline_Betting.txt
+CBB/transcripts/2026-11-08/NcFVXNNf4SE_PickDawgz_College_Basketball_Picks_Predictions_Today_11_8_26_Ron_s_Bank_Shot_Bre.txt
+CBB/transcripts/2026-11-08/U6FH5hVoEtI_PickDawgz_CBB_Picks_and_Predictions_for_Today_11_8_2026_Dawg_of_the_Day.txt
+CBB/transcripts/2026-11-08/rO2JhG4y1pk_PickDawgz_College_Basketball_Picks_for_Today_11_8_26_Sunday_s_Best_College_Baske.txt
+CBB/transcripts/2026-11-08/z3pdE489N48_TCE_College_Basketball_PICKS_ONLY_Sunday_November_8th_TCE_Trims.txt
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-06/JCkDvKg4jR0_CBSCollegeBB_Bryan_Hodgson_says_Nick_Saban_met_with_every_single_Alabama_basketball.txt  (4,070 words)
-DEFER   FieldOf68 ueELveUZPw0 UConn gets REVENGE on Michigan! | 'The most ELITE backcourt   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 2ReQIBFX2AY UConn gets REVENGE over Michigan! Saint Louis makes a STATEM  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 05Y5k1mP71E EXCLUSIVE: Josh Schertz on Saint Louis' STATEMENT win over M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 rLeRfFX3sS0 EXCLUSIVE: Valpo's Roger Powell, Rakim Chaney and Justus McN  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 fXWn4i0bwpI PREVIEW: Why Michigan has 'NO CHANCE' to knock off UConn! |   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 IQmQoIvuHy0 PREVIEW: Robbie Avila is BACK for Saint Louis! Can they knoc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 7XANdsWiXAA 'Illinois is SCARY good...' | Breaking down the Illini's SUP  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 dvC5RaZBwek FIELD OF 68 AFTER DARK! Vandy handles Wake Forest, top teams  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 88ust_1UMnw The ACC Insider is BACK! SMU's Jakub Szumert discusses the M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-07/_46-1zcZAu0_FieldOf68_TOP_DOGS_Natty_Revenge_REACTION_to_UConn_s_win_over_Michigan.txt  (4,909 words)
-SKIPPED FieldOf68 SKmMEUZ8I2s Purdue STUNNED by Valpo! | 'Who's gonna step up for Matt Pai  (age-restricted on YouTube - needs a signed-in cookie file to pull; no VPN rotation)
-NEW     CBB/transcripts/2026-11-07/5mnGVpOo18M_FieldOf68_Michigan_DOESN_T_have_a_Final_Four_ceiling_UConn_rolls_past_the_Wolve.txt  (1,550 words)
+NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
+NONE    channel FieldOf68: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-08/-qBCD0xaRk4_TCE_College_Basketball_Best_Bets_For_November_8th_Spread_Moneyline_Betting.txt  (1,424 words)
+NEW     CBB/transcripts/2026-11-08/z3pdE489N48_TCE_College_Basketball_PICKS_ONLY_Sunday_November_8th_TCE_Trims.txt  (17,144 words)
+NOCAPS  TCE EMSdsQf5Kqo College Basketball Picks For November 8th - NCAA Basketball   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-08/rO2JhG4y1pk_PickDawgz_College_Basketball_Picks_for_Today_11_8_26_Sunday_s_Best_College_Baske.txt  (2,503 words)
+NEW     CBB/transcripts/2026-11-08/NcFVXNNf4SE_PickDawgz_College_Basketball_Picks_Predictions_Today_11_8_26_Ron_s_Bank_Shot_Bre.txt  (1,731 words)
+NEW     CBB/transcripts/2026-11-08/U6FH5hVoEtI_PickDawgz_CBB_Picks_and_Predictions_for_Today_11_8_2026_Dawg_of_the_Day.txt  (707 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -43,4 +30,3 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
