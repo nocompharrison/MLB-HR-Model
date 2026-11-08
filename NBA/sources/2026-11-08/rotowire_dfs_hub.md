@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-08 17:09 ET -->
 
 # NBA DFS Picks Today
 November 8, 2026
@@ -34,7 +34,7 @@ Philadelphia 76ersPHI @ CHI - 3:30 PM ET
 #### Upgraded to available
 Embiid (foot) is available for Sunday's game against the Bulls.
 Analysis
-Embiid will avoid his third absence of the 2026-27 campaign. The 32-year-old hasn't played well in his eight regular-season appearances, averaging a career-low 17.9 points over 32.4 minutes per contest. He has also shot a miserable 10.7 percent from behind the arc.
+Embiid will avoid his third absence of the 2026-27 campaign. The 32-year-old hasn't played up to his usual standards in his eight regular-season appearances, averaging a career-low 17.9 points over 32.4 minutes per contest while shooting a miserable 10.7 percent from behind the arc.
 Chicago BullsPHI @ CHI - 3:30 PM ET
 **[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)** _C_ 2:35 PM ET
 #### Upgraded to available
@@ -78,9 +78,9 @@ _Implied_**117.0** _Spread_**-12.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $5,600  | 31.0  |  
-| PF  | Jaden McDaniels  | $6,500  | 33.7  |  
-| PG  | LaMelo Ball  | $8,000  | 43.9  |  
-| SF  | Jonathan Kuminga  | $6,000  | 35.7  |  
+| PF  | Jaden McDaniels  | $6,500  | 33.8  |  
+| PG  | LaMelo Ball  | $8,000  | 44.0  |  
+| SF  | Jonathan Kuminga  | $6,000  | 35.8  |  
 | SG  | Ayo Dosunmu  | $6,600  | 32.4  |  
 **BKN @ DAL**
 O/U 222.57:30 PM ET
@@ -89,7 +89,7 @@ _Implied_**107.5** _Spread_**+7.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Day'Ron Sharpe  | $5,100  | 30.3  |  
-| PF  | Julius Randle  | $7,500  | 38.5  |  
+| PF  | Julius Randle  | $7,500  | 38.4  |  
 | PG  | Nolan Traore  | $4,900  | 28.6  |  
 | SF  | Danny Wolf  | $3,000  | 22.6  |  
 | SG  | Michael Porter  | $7,200  | 38.8  |  
@@ -105,16 +105,16 @@ _Implied_**115.0** _Spread_**-7.5**
 **BOS @ MIL**
 O/U 221.58:00 PM ET
 CelticsExpectedAway
-_Implied_**117.0** _Spread_**-12.5**  
+_Implied_**117.5** _Spread_**-13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Neemias Queta  | $4,900  | 24.7  |  
-| PF  | Paul George  | $7,300  | 34.7  |  
+| C  | Neemias Queta  | $4,900  | 24.6  |  
+| PF  | Paul George  | $7,300  | 34.6  |  
 | PG  | Derrick White  | $6,800  | 27.4  |  
-| SF  | Jayson Tatum  | $10,000  | 44.5  |  
+| SF  | Jayson Tatum  | $10,000  | 44.4  |  
 | SG  | Hugo Gonzalez  | $3,400  | 10.4  |  
 BucksExpectedHome
-_Implied_**104.5** _Spread_**+12.5**  
+_Implied_**104.0** _Spread_**+13.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Myles Turner  | $5,100  | 26.7  |  
@@ -173,15 +173,15 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:30 PMMain - 2 games - 9:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.6  | **7.52**  |  
+| 1  |  Danny WolfBKN - C  | @ DAL  | $3,000  | 22  | 22.5  | **7.52**  |  
 | 2  |  Brook LopezLAC - C  | vs NOP  | $4,600  | 30  | 31.8  | **6.91**  |  
-| 3  |  Brayden BurriesMIL - PG  | vs BOS  | $4,300  | 30  | 28.7  | **6.68**  |  
-| 4  |  Jonathan KumingaMIN - PF  | vs UTA  | $6,000  | 32  | 35.7  | **5.96**  |  
+| 3  |  Brayden BurriesMIL - PG  | vs BOS  | $4,300  | 30  | 28.7  | **6.67**  |  
+| 4  |  Jonathan KumingaMIN - PF  | vs UTA  | $6,000  | 32  | 35.8  | **5.96**  |  
 | 5  |  Day'Ron SharpeBKN - C  | @ DAL  | $5,100  | 27  | 30.3  | **5.93**  |  
 | 6  |  Nolan TraoreBKN - PG  | @ DAL  | $4,900  | 30  | 28.6  | **5.83**  |  
 | 7  |  Rui HachimuraLAC - PF  | vs NOP  | $6,000  | 31  | 33.4  | **5.56**  |  
 | 8  |  Rudy GobertMIN - C  | vs UTA  | $5,600  | 30  | 31.0  | **5.53**  |  
-| 9  |  LaMelo BallMIN - PG  | vs UTA  | $8,000  | 31  | 43.9  | **5.49**  |  
+| 9  |  LaMelo BallMIN - PG  | vs UTA  | $8,000  | 31  | 44.0  | **5.49**  |  
 | 10  |  Ryan ConwellMIA - PG  | @ SAC  | $3,600  | 20  | 19.6  | **5.44**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -206,7 +206,7 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** BKN@DAL, BOS@MIL, NOP@LAC, MIA@SAC, UTA@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **55.0**  |   | +18.4  | +6  | 97  |  
+| 1  |  Brayden BurriesMIL · PG/SG · BOS@MIL  | $4,300  | 9.1  | 28.7  | **54.9**  |   | +18.3  | +6  | 97  |  
 | 2  |  Dejounte MurrayNOP · PG · NOP@LAC  | $7,700  | 15.3  | 40.1  | **71.5**  |   | +7.2  | +7  | 92  |  
 | 3  |  Danny WolfBKN · C · BKN@DAL  | $3,000  | 6.8  | 22.5  | **45.3**  |   | +19.3  | +3  | 89  |  
 | 4  |  Day'Ron SharpeBKN · C · BKN@DAL  | $5,100  | 10.6  | 30.3  | **56.9**  |   | +13.8  | +3  | 88  |  
