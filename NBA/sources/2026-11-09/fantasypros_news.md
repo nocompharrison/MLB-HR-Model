@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-09 18:34 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,160 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
+[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
+[Giannis Antetokounmpo (wrist) listed probable Tuesday ](https://www.fantasypros.com/nba/news/618943/giannis-antetokounmpo-wrist-listed-probable-tuesday.php)  
+
+Mon, Nov 9th 6:19pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Giannis Antetokounmpo is listed as probable for Tuesday’s game against the Jazz. 
+**_Fantasy Impact:_** Antetokounmpo is on track to be good to go in his usual role for Miami. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Black](https://images.fantasypros.com/images/players/nba/5973/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-black.php)
+G - ORL
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-black.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-black.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-black.php)
+[Anthony Black (cramps) off injury report Tuesday ](https://www.fantasypros.com/nba/news/618942/anthony-black-cramps-off-injury-report-tuesday.php)  
+
+Mon, Nov 9th 6:18pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Anthony Black is off the injury report for Tuesday’s game against the Kings.
+**_Fantasy Impact:_** Black left Saturday’s loss to the Warriors in overtime due to cramping. He won't miss any time. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Morez Johnson Jr.](https://images.fantasypros.com/images/players/nba/6610/headshot/100x100.png)](https://www.fantasypros.com/nba/players/morez-johnson.php)
+F - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/morez-johnson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/morez-johnson.php)  
+[» More News](https://www.fantasypros.com/nba/news/morez-johnson.php)
+[Morez Johnson Jr. (shin) ruled out Monday ](https://www.fantasypros.com/nba/news/618941/morez-johnson-jr-shin-ruled-out-monday.php)  
+
+Mon, Nov 9th 6:17pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Morez Johnson Jr. has been ruled out for Monday’s game against the Pacers.
+**_Fantasy Impact:_** Johnson will be sidelined Monday with a shin contusion after being listed as questionable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jarrett Allen](https://images.fantasypros.com/images/players/nba/3323/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jarrett-allen.php)
+C - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jarrett-allen.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jarrett-allen.php)  
+[» More News](https://www.fantasypros.com/nba/news/jarrett-allen.php)
+[Jarrett Allen (knee) back in lineup Monday](https://www.fantasypros.com/nba/news/618940/jarrett-allen-knee-back-lineup-monday.php)  
+
+Mon, Nov 9th 6:16pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jarrett Allen (knee) is back in the lineup for Monday night’s matchup between the Cleveland Cavaliers and Charlotte Hornets according to Serena Winters. (Source: [Serena Winters on Twitter](https://x.com/serenawinters/status/2119930376227602912?a=_jQeTiGwLbWhz6G0-Qg&s=46))
+**_Fantasy Impact:_** Allen will take the floor after sitting out the last two games with the knee issue, providing head coach Kenny Atkinson with an imposing option near the rim on both ends of the floor against the Hornets Monday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Desmond Bane](https://images.fantasypros.com/images/players/nba/5269/headshot/100x100.png)](https://www.fantasypros.com/nba/players/desmond-bane.php)
+G - ORL
+[» Rankings](https://www.fantasypros.com/nba/players/desmond-bane.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/desmond-bane.php)  
+[» More News](https://www.fantasypros.com/nba/news/desmond-bane.php)
+[Desmond Bane (illness) off injury report Tuesday ](https://www.fantasypros.com/nba/news/618939/desmond-bane-illness-off-injury-report-tuesday.php)  
+
+Mon, Nov 9th 6:09pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Desmond Bane is off the injury report for Tuesday’s game against the Kings.
+**_Fantasy Impact:_** Bane did not play in Saturday’s overtime loss to the Warriors. Tristan da Silva should return to his reserve role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Bilal Coulibaly](https://images.fantasypros.com/images/players/nba/5988/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/bilal-coulibaly.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/bilal-coulibaly.php)  
+[» More News](https://www.fantasypros.com/nba/news/bilal-coulibaly.php)
+[Bilal Coulibaly (hand) ruled out Monday ](https://www.fantasypros.com/nba/news/618938/bilal-coulibaly-hand-ruled-out-monday.php)  
+
+Mon, Nov 9th 6:08pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Bilal Coulibaly has been ruled out for Monday’s game against the Pistons.
+**_Fantasy Impact:_** Coulibaly will be sidelined after being a late addition to the injury report. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Immanuel Quickley](https://images.fantasypros.com/images/players/nba/5141/headshot/100x100.png)](https://www.fantasypros.com/nba/players/immanuel-quickley.php)
+G - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/immanuel-quickley.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/immanuel-quickley.php)  
+[» More News](https://www.fantasypros.com/nba/news/immanuel-quickley.php)
+[Immanuel Quickley (hamstring) ruled out Monday ](https://www.fantasypros.com/nba/news/618937/immanuel-quickley-hamstring-ruled-out-monday.php)  
+
+Mon, Nov 9th 6:07pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Immanuel Quickley has been ruled out for Monday’s game against the Grizzlies. (Source: [Josh Lewenberg on Twitter](https://x.com/JLew1050/status/2119925013356888405))
+**_Fantasy Impact:_** Quickley will sit for a second straight game. He remains day-to-day after he got in a limited practice on Sunday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Davis](https://images.fantasypros.com/images/players/nba/2746/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-davis.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-davis.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-davis.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-davis.php)
+[Anthony Davis (ankle) returns to lineup Monday](https://www.fantasypros.com/nba/news/618936/anthony-davis-ankle-returns-to-lineup-monday.php)  
+
+Mon, Nov 9th 6:07pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Anthony Davis (ankle) is off of the injury report and back in the lineup for Monday night’s matchup between the Washington Wizards and Detroit Pistons according to Greg Feinberg. (Source: [Greg Finberg on Twitter ](https://x.com/gregfinberg/status/2119928403927466128?a=kJm1UIm-Ept6GkmZBGA&s=46))
+**_Fantasy Impact:_** Davis is good to go after working through pregame shootaround without any setbacks, looking to boost a Washington starting five that will look to take advantage of the paint with the Pistons still missing Jalen Duren.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
+[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
+[Scottie Barnes (adductor) ruled out Monday ](https://www.fantasypros.com/nba/news/618935/scottie-barnes-adductor-ruled-out-monday.php)  
+
+Mon, Nov 9th 6:07pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Scottie Barnes has been ruled out for Monday’s game against the Grizzlies. (Source: [Josh Lewenberg on Twitter](https://x.com/JLew1050/status/2119925013356888405))
+**_Fantasy Impact:_** Barnes will sit for a second straight game. He remains day-to-day after he got in a limited practice on Sunday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Collin Murray-Boyles](https://images.fantasypros.com/images/players/nba/6326/headshot/100x100.png)](https://www.fantasypros.com/nba/players/collin-murray-boyles.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/collin-murray-boyles.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/collin-murray-boyles.php)  
+[» More News](https://www.fantasypros.com/nba/news/collin-murray-boyles.php)
+[Collin Murray-Boyles (illness) ruled out Monday ](https://www.fantasypros.com/nba/news/618934/collin-murray-boyles-illness-ruled-out-monday.php)  
+
+Mon, Nov 9th 6:05pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Collin Murray-Boyles has been ruled out for Monday's game against the Grizzlies. (Source: [Josh Lewenberg on Twitter](https://x.com/JLew1050/status/2119925013356888405))
+**_Fantasy Impact:_** Murray-Boyles was a late addition to the injury report Monday afternoon. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
+[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
+[Austin Reaves (illness) ruled out Monday ](https://www.fantasypros.com/nba/news/618929/austin-reaves-illness-ruled-out-monday.php)  
+
+Mon, Nov 9th 5:59pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Austin Reaves (illness) has been ruled out for Monday night’s contest between the Los Angeles Lakers and Atlanta Hawks according to Jovan Buha. (Source: [Jovan Buha on Twitter ](https://x.com/jovanbuha/status/2119921151124365775?a=bbZ_V4r_1NUOCM7Hems&s=46))
+**_Fantasy Impact:_** Reaves will miss his first contest of the 2026-27 season after being added to the injury report earlier Monday, with Collin Sexton and Cameron Carr likely to see increased minutes against the Hawks Monday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Gary Trent Jr.](https://images.fantasypros.com/images/players/nba/3535/headshot/100x100.png)](https://www.fantasypros.com/nba/players/gary-trent-jr.php)
 G - MIL
 [» Rankings](https://www.fantasypros.com/nba/players/gary-trent-jr.php)  
@@ -133,160 +287,6 @@ Jock Landale is available for Monday's game against the Lakers.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
-G - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
-[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
-[Josh Hart (ankle) listed questionable Tuesday ](https://www.fantasypros.com/nba/news/618915/josh-hart-ankle-listed-questionable-tuesday.php)  
-
-Mon, Nov 9th 5:06pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Josh Hart is listed as questionable for Tuesday’s game against the Bucks. 
-**_Fantasy Impact:_** Hart is looking to avoid missing a third straight game. He is continuing to work his way back from an ankle injury. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Zion Williamson](https://images.fantasypros.com/images/players/nba/4468/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zion-williamson.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/zion-williamson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/zion-williamson.php)  
-[» More News](https://www.fantasypros.com/nba/news/zion-williamson.php)
-[Zion Williamson (rest) ruled out Monday ](https://www.fantasypros.com/nba/news/618914/zion-williamson-rest-ruled-out-monday.php)  
-
-Mon, Nov 9th 5:05pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Zion Williamson has been ruled out for Monday's game against the Warriors. 
-**_Fantasy Impact:_** Williamson played 31 minutes in Sunday's loss against the Clippers. He will sit the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trendon Watford](https://images.fantasypros.com/images/players/nba/5216/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trendon-watford.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trendon-watford.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trendon-watford.php)  
-[» More News](https://www.fantasypros.com/nba/news/trendon-watford.php)
-[Trendon Watford (ankle) ruled out Monday ](https://www.fantasypros.com/nba/news/618909/trendon-watford-ankle-ruled-out-monday.php)  
-
-Mon, Nov 9th 4:00pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trendon Watford has been ruled out for Monday's game against the Warriors. 
-**_Fantasy Impact:_** Watford played 17 minutes in Sunday's loss against the Clippers. He will sit the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Yves Missi](https://images.fantasypros.com/images/players/nba/6153/headshot/100x100.png)](https://www.fantasypros.com/nba/players/yves-missi.php)
-C - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/yves-missi.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/yves-missi.php)  
-[» More News](https://www.fantasypros.com/nba/news/yves-missi.php)
-[Yves Missi (knee) ruled out Monday ](https://www.fantasypros.com/nba/news/618908/yves-missi-knee-ruled-out-monday.php)  
-
-Mon, Nov 9th 3:58pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Yves Missi has been ruled out for Monday's game against the Warriors. 
-**_Fantasy Impact:_** Missi has been sidelined for the past couple of weeks. He'll remain on the sidelines on Monday. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
-[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
-[Trey Murphy III (knee) ruled out Monday ](https://www.fantasypros.com/nba/news/618907/trey-murphy-iii-knee-ruled-out-monday.php)  
-
-Mon, Nov 9th 3:56pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trey Murphy III has been ruled out for Monday's game against the Warriors. 
-**_Fantasy Impact:_** Murphy played 30 minutes in Sunday's loss against the Clippers. He will sit the second game of a back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Isaiah Joe](https://images.fantasypros.com/images/players/nba/5210/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-joe.php)
-G - DET
-[» Rankings](https://www.fantasypros.com/nba/players/isaiah-joe.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/isaiah-joe.php)  
-[» More News](https://www.fantasypros.com/nba/news/isaiah-joe.php)
-[Isaiah Joe (hip) won't play Monday](https://www.fantasypros.com/nba/news/618905/isaiah-joe-hip-wont-play-monday.php)  
-
-Mon, Nov 9th 2:53pm EST  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Isaiah Joe (hip) won't play in Monday's game against the Washington Wizards. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf))
-**_Fantasy Impact:_** Joe is going to miss another game on Monday due to the same hip issue that has been bothering him recently. Fantasy managers should expect Kevin Huerter to continue to see a lot of work for the foreseeable future.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Devin Vassell](https://images.fantasypros.com/images/players/nba/5135/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-vassell.php)
-G - SAS
-[» Rankings](https://www.fantasypros.com/nba/players/devin-vassell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/devin-vassell.php)  
-[» More News](https://www.fantasypros.com/nba/news/devin-vassell.php)
-[Devin Vassell (adductor) ruled out for Monday](https://www.fantasypros.com/nba/news/618904/devin-vassell-adductor-ruled-out-monday.php)  
-
-Mon, Nov 9th 2:51pm EST  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Devin Vassell (adductor) has been ruled out for Monday night's game against the Phoenix Suns. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf))
-**_Fantasy Impact:_** Vassell has been ruled out for Monday night's game due to an adductor injury that he's managing. It remains to be seen how much time he will miss because of it, and fantasy managers should expect Keldon Johnson and Jordan McLaughlin to see more work while he's out.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Christian Braun](https://images.fantasypros.com/images/players/nba/5464/headshot/100x100.png)](https://www.fantasypros.com/nba/players/christian-braun.php)
-G - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/christian-braun.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/christian-braun.php)  
-[» More News](https://www.fantasypros.com/nba/news/christian-braun.php)
-[Christian Braun (calf) now probable for Monday](https://www.fantasypros.com/nba/news/618903/christian-braun-calf-now-probable-monday.php)  
-
-Mon, Nov 9th 2:48pm EST  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Christian Braun (calf) is now probable for Monday night's game against the Houston Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf))
-**_Fantasy Impact:_** A calf issue left Braun considered questionable heading into the day, but he has since been upgraded and is now probable to play on Monday night. Fantasy managers should continue to expect good things from him moving forward.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Cameron Johnson](https://images.fantasypros.com/images/players/nba/4558/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)
-F - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/cameron-johnson-g.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cameron-johnson-g.php)  
-[» More News](https://www.fantasypros.com/nba/news/cameron-johnson-g.php)
-[Cameron Johnson (ankle) probable for Monday](https://www.fantasypros.com/nba/news/618902/cameron-johnson-ankle-probable-monday.php)  
-
-Mon, Nov 9th 2:46pm EST  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-Cameron Johnson (ankle) is probable for Monday's game against the Houston Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf))
-**_Fantasy Impact:_** Johnson is expected to be available to play on Monday, now carrying a probable tag after initially being listed questionable with an ankle issue. He should play and see his usual workload in this matchup against the Rockets.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Gary Payton II](https://images.fantasypros.com/images/players/nba/3299/headshot/100x100.png)](https://www.fantasypros.com/nba/players/gary-payton.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/gary-payton.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/gary-payton.php)  
-[» More News](https://www.fantasypros.com/nba/news/gary-payton.php)
-[Gary Payton II (knee) now questionable Monday ](https://www.fantasypros.com/nba/news/618901/gary-payton-ii-knee-now-questionable-monday.php)  
-
-Mon, Nov 9th 2:43pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Gary Payton II is now questionable for Monday's game against the Pelicans. 
-**_Fantasy Impact:_** Payton is a late addition to the injury report. He will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![DeMar DeRozan](https://images.fantasypros.com/images/players/nba/2449/headshot/100x100.png)](https://www.fantasypros.com/nba/players/demar-derozan.php)
-F - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/demar-derozan.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/demar-derozan.php)  
-[» More News](https://www.fantasypros.com/nba/news/demar-derozan.php)
-[DeMar DeRozan (back) probable to play Monday](https://www.fantasypros.com/nba/news/618900/demar-derozan-back-probable-to-play-monday.php)  
-
-Mon, Nov 9th 2:42pm EST  
-By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
-DeMar DeRozan (back) is probable to play in Monday night's game against the Houston Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf))
-**_Fantasy Impact:_** The veteran will almost certainly be available to play on Monday night. His back issue initially left him questionable to play, but the team expects him to suit up and has upgraded him to probable to play. He will continue to be a pretty good fantasy option if he ends up playing.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=79_1794265239523&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9d9796969d969f9e66uokewi0e0y646o6k6260606k606o6m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9d9796969d969f9e66uokewi0e0y646o6k6260606k606o6m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

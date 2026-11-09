@@ -1,4 +1,4 @@
-<!-- source: https://rotogrinders.com/lineups/nba | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://rotogrinders.com/lineups/nba | fetched: 2026-11-09 18:34 ET -->
 
 Admin 
   * [NFL](https://rotogrinders.com/lineups/nfl?site=draftkings)
@@ -22,10 +22,9 @@ Max Salary: 12000
 7:00 PM ET
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/CLE.png) Cleveland Cavaliers
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/CHA.png) Charlotte Hornets
-[112](https://rotogrinders.com/nba/odds) (-353)
+[112.5](https://rotogrinders.com/nba/odds) (-353)
 215.5 O/U
-[103.5](https://rotogrinders.com/nba/odds) (+282)
-lineup not released
+[103](https://rotogrinders.com/nba/odds) (+282)
 Starters
   * [James Harden](https://rotogrinders.com/players/james-harden-1037) PG $7.3K
   * [Donovan Mitchell](https://rotogrinders.com/players/donovan-mitchell-37875) SG $8.4K
@@ -57,17 +56,17 @@ Bench
   * [Tidjane Salaun](https://rotogrinders.com/players/tidjane-salaun-6412779) PF $3.6K
   * [Christian Anderson](https://rotogrinders.com/players/christian-anderson-12761299) PG $3.3K
   * [Liam McNeeley](https://rotogrinders.com/players/liam-mcneeley-8985520) SG/SF $3.2K
-  * [Michael Ajayi](https://rotogrinders.com/players/michael-ajayi-12793863) SF $3K
   * [PJ Hall](https://rotogrinders.com/players/pj-hall-6447979) C $3K
+  * [Michael Ajayi](https://rotogrinders.com/players/michael-ajayi-12793863) SF $3K
 
 
 Admin 
 7:00 PM ET
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/WAS.png) Washington Wizards
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/DET.png) Detroit Pistons
-[104.5](https://rotogrinders.com/nba/odds) (+394)
-219.5 O/U
-[115](https://rotogrinders.com/nba/odds) (-518)
+[104.5](https://rotogrinders.com/nba/odds) (+323)
+218.5 O/U
+[114](https://rotogrinders.com/nba/odds) (-411)
 lineup not released
 Starters
   * [Trae Young](https://rotogrinders.com/players/trae-young-409063) PG $7.8K
@@ -77,7 +76,6 @@ Starters
   * [Alexandre Sarr](https://rotogrinders.com/players/alexandre-sarr-6413302) C $5.8K
 
 Bench
-  * [Bilal Coulibaly](https://rotogrinders.com/players/bilal-coulibaly-4874612) SF $4.1K
   * [Tre Johnson](https://rotogrinders.com/players/tre-johnson-8986000) SG/SF $3.8K
   * [Deandre Ayton](https://rotogrinders.com/players/deandre-ayton-409301) C $3.9K
   * [Carlton Carrington](https://rotogrinders.com/players/carlton-carrington-6413304) PG/SG $4K
@@ -85,6 +83,7 @@ Bench
   * [Tre Mann](https://rotogrinders.com/players/tre-mann-3005499) PG $3.2K
   * [Khris Middleton](https://rotogrinders.com/players/khris-middleton-13990) PF $3K
   * [Anthony Gill](https://rotogrinders.com/players/anthony-gill-2442381) PF/C $3.1K
+  * [Felix Okpara](https://rotogrinders.com/players/felix-okpara-12767318) C $3K
 
 
 lineup not released
@@ -117,8 +116,8 @@ Admin
 lineup not released
 Starters
   * [Luka Doncic](https://rotogrinders.com/players/luka-doncic-408971) PG $12K
-  * [Matisse Thybulle](https://rotogrinders.com/players/matisse-thybulle-1115169) SF/PF $4.4K
   * [Ziaire Williams](https://rotogrinders.com/players/ziaire-williams-3005396) SG/SF $4.5K
+  * [Matisse Thybulle](https://rotogrinders.com/players/matisse-thybulle-1115169) SF/PF $4.4K
   * [Jake LaRavia](https://rotogrinders.com/players/jake-laravia-3587973) SF/PF $4.8K
   * [Walker Kessler](https://rotogrinders.com/players/walker-kessler-3588056) C $7.7K
 
@@ -127,11 +126,10 @@ Bench
   * [Collin Sexton](https://rotogrinders.com/players/collin-sexton-408896) PG/SG $4.1K
   * [Jaden Hardy](https://rotogrinders.com/players/jaden-hardy-3587932) SF $3K
   * [Jarred Vanderbilt](https://rotogrinders.com/players/jarred-vanderbilt-409024) PF/C $3K
-  * [Kevon Looney](https://rotogrinders.com/players/kevon-looney-18945) C $3K
   * [Cameron Carr](https://rotogrinders.com/players/cameron-carr-12761485) SG/SF $3K
+  * [Kevon Looney](https://rotogrinders.com/players/kevon-looney-18945) C $3K
   * [Lawson Lovering](https://rotogrinders.com/players/lawson-lovering-11643079) C $3K
   * [Adou Thiero](https://rotogrinders.com/players/adou-thiero-8998386) SF/PF $3.1K
-  * [Chris Manon](https://rotogrinders.com/players/chris-manon-9458388) SF $3K
 
 
 lineup not released
@@ -156,9 +154,9 @@ Admin
 7:30 PM ET
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/MEM.png) Memphis Grizzlies
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/TOR.png) Toronto Raptors
-[113](https://rotogrinders.com/nba/odds) (+114)
-228.5 O/U
-[115.5](https://rotogrinders.com/nba/odds) (-135)
+[113.5](https://rotogrinders.com/nba/odds) (-125)
+225.5 O/U
+[112](https://rotogrinders.com/nba/odds) (+105)
 lineup not released
 Starters
   * [Ty Jerome](https://rotogrinders.com/players/ty-jerome-1115624) PG/SG $8.3K
@@ -201,9 +199,9 @@ Admin
 8:00 PM ET
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/IND.png) Indiana Pacers
 ![](https://rical-images.s3.amazonaws.com/team-logos/nba/DAL.png) Dallas Mavericks
-[111](https://rotogrinders.com/nba/odds) (+143)
+[111](https://rotogrinders.com/nba/odds) (+150)
 226.5 O/U
-[115.5](https://rotogrinders.com/nba/odds) (-170)
+[115.5](https://rotogrinders.com/nba/odds) (-179)
 lineup not released
 Starters
   * [Braden Smith](https://rotogrinders.com/players/braden-smith-12766970) PG $3.3K
@@ -234,7 +232,6 @@ Starters
 Bench
   * [Naji Marshall](https://rotogrinders.com/players/naji-marshall-2484012) SF/PF $5.2K
   * [Walter Clayton](https://rotogrinders.com/players/walter-clayton-8985981) PG $3.3K
-  * [Morez Johnson](https://rotogrinders.com/players/morez-johnson-12761357) PF/C $3.9K
   * [Zaccharie Risacher](https://rotogrinders.com/players/zaccharie-risacher-6412725) SF $4.7K
   * [Santi Aldama](https://rotogrinders.com/players/santi-aldama-3005397) PF/C $4.6K
   * [Marcus Sasser](https://rotogrinders.com/players/marcus-sasser-4878314) PG/SG $3.1K
@@ -441,5 +438,5 @@ Actual Fantasy Points are listed in purple for all past games
   * (PLR) Projected Long Reliever listed below confirmed started
 
 
-![](https://t.co/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0d76953f-261c-4493-9641-01ae629e6ec6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0d76953f-261c-4493-9641-01ae629e6ec6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=814e23d3-bd39-42a9-87aa-0a069569f5a5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=814e23d3-bd39-42a9-87aa-0a069569f5a5&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=3&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=af3ca8c4-2f5e-4967-99d6-158cfe9f5a72&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=5&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&tw_session_count=62&tw_session_id=1794265258351-749120228&tw_session_start=1&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=3&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=af3ca8c4-2f5e-4967-99d6-158cfe9f5a72&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=5&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&tw_session_count=62&tw_session_id=1794265258351-749120228&tw_session_start=1&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Mon%2C%2009%20Nov%202026%2023%3A00%3A58%20GMT&n=5&b=NBA%20Starting%20Lineups%3A%20Today's%20Daily%20Lineups&.yp=10092656&f=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&enc=UTF-8&gpp=DBABLA~BVQqAAAAAAKA.QA&gpp_sid=7&yv=1.17.1&tagmgr=gtm)![](https://my.rtmark.net/img.gif?f=sync&partner=b8639fe8715744570833100e36388ff37b323eb7a8387a74003ddde2f849e30c&ttl=&rurl=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d8362a39-d9d3-4bfd-a4c8-440ea73f47ba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7735&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d8362a39-d9d3-4bfd-a4c8-440ea73f47ba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7735&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=83005a61-4b45-47a9-bb1a-af5b8a679970&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=83005a61-4b45-47a9-bb1a-af5b8a679970&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b9e69a98-c898-4439-9d7d-30fdccc39be0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7738&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b9e69a98-c898-4439-9d7d-30fdccc39be0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5a2a3c97-60c1-4dc2-bfce-296dc89a54af&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=7738&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)
+![dot image pixel](https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Mon%2C%2009%20Nov%202026%2023%3A30%3A57%20GMT&n=5&b=NBA%20Starting%20Lineups%3A%20Today's%20Daily%20Lineups&.yp=10092656&f=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&enc=UTF-8&gpp=DBABLA~BVQqAAAAAAKA.QA&gpp_sid=7&yv=1.17.1&tagmgr=gtm) ![](https://t.co/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=50bd2a01-de1d-4a47-9d0a-e2f178f8852e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=50bd2a01-de1d-4a47-9d0a-e2f178f8852e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ce63d0dd-5aed-4738-af97-08e53573dded&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=5&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ce63d0dd-5aed-4738-af97-08e53573dded&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=3&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0f981a42-982e-4ec2-82ae-b5bbc29ad0ff&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=0&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=3&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0f981a42-982e-4ec2-82ae-b5bbc29ad0ff&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=0&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=2&tw_sale_amount=0&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://my.rtmark.net/img.gif?f=sync&partner=b8639fe8715744570833100e36388ff37b323eb7a8387a74003ddde2f849e30c&ttl=&rurl=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c4405e18-9a3d-452c-9d8c-d604d057c216&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8071&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c4405e18-9a3d-452c-9d8c-d604d057c216&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8071&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o9guv&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=68dfbe76-de50-480e-811d-763fac5cecb0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8073&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=68dfbe76-de50-480e-811d-763fac5cecb0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8073&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d192b0cd-e1b6-4e06-bcb4-af7503ad7b29&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8074&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d192b0cd-e1b6-4e06-bcb4-af7503ad7b29&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d4ecec-1c08-4a22-b6f4-682c4a7b02eb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Frotogrinders.com%2Flineups%2Fnba&tw_engaged_ms=8074&tw_iframe_status=0&tw_pid_src=2&tw_session_count=62&tw_session_id=1794265258351-749120228&twpid=tw.1792524900696.62101952620132280&txn_id=ofdnx&type=javascript&version=2.4.12)
 

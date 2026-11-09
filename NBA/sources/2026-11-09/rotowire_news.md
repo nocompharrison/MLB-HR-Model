@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-09 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,74 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Not starting Monday](https://www.rotowire.com/basketball/headlines/meleek-thomas-news-not-starting-monday-538365)
+**G** Cleveland Cavaliers
+November 9, 2026
+Thomas won't start Monday's game against the Hornets, [Serena Winters of FanDuel Sports Network Ohio](https://x.com/SerenaWinters/status/2119930376227602912?a=J6qBQij2mcJQUtdsKn4&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)[Cleared to play](https://www.rotowire.com/basketball/headlines/jarrett-allen-news-cleared-to-play-538364)
+**C** Cleveland Cavaliers
+November 9, 2026
+Allen (knee) will play Monday night against the Hornets, [Serena Winters of FanDuel Sports Network Ohio](https://x.com/SerenaWinters/status/2119930376227602912?a=xMd5r8U2fCXHJq0mTKY&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Remains out for Tuesday](https://www.rotowire.com/basketball/headlines/jalen-suggs-injury-remains-out-for-tuesday-538363)
+**G** Orlando Magic
+Knee
+November 9, 2026
+Suggs (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) for Tuesday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jonathan Isaac](https://www.rotowire.com/basketball/player/jonathan-isaac-4103)[Remaining out vs. Kings](https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-remaining-out-vs-kings-538362)
+**F** Orlando Magic
+Knee
+November 9, 2026
+Isaac (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) for Tuesday's game against Sacramento.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)[Sitting out Monday](https://www.rotowire.com/basketball/headlines/morez-johnson-injury-sitting-out-monday-538361)
+**F** Dallas Mavericks
+Leg
+November 9, 2026
+Johnson (leg) has been [ruled out](https://x.com/MavsPR/status/2119929275537404160?a=HDwLXbh8eJiW13aC7eE&s=20) for Monday's game against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Desmond Bane](https://www.rotowire.com/basketball/player/desmond-bane-5159)[Cleared from injury report](https://www.rotowire.com/basketball/headlines/desmond-bane-news-cleared-from-injury-report-538360)
+**G** Orlando Magic
+November 9, 2026
+Bane (illness) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) for Tuesday's game against the Kings.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Tagged probable for Tuesday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-tagged-probable-for-tuesday-538359)
+**F** Miami Heat
+Wrist
+November 9, 2026
+Antetokounmpo is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) for Tuesday's game against the Jazz due to a right wrist sprain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Bilal Coulibaly](https://www.rotowire.com/basketball/player/bilal-coulibaly-5945)[Won't play Monday](https://www.rotowire.com/basketball/headlines/bilal-coulibaly-injury-wont-play-monday-538358)
+**F** Washington Wizards
+Hand
+November 9, 2026
+Coulibaly (hand) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) for Monday's game against the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297)[Available Monday](https://www.rotowire.com/basketball/headlines/anthony-davis-news-available-monday-538357)
+**C** Washington Wizards
+November 9, 2026
+Davis (ankle) [will play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_00PM.pdf) Monday against the Pistons.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Immanuel Quickley](https://www.rotowire.com/basketball/player/immanuel-quickley-5201)[Ruled out Monday](https://www.rotowire.com/basketball/headlines/immanuel-quickley-injury-ruled-out-monday-538356)
 **G** Toronto Raptors
@@ -47,9 +115,9 @@ Reaves (illness) has been ruled out for Monday's game against Atlanta, [Benjamin
 ![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
 [Tyler Herro](https://www.rotowire.com/basketball/player/tyler-herro-4780)[Iffy for Tuesday](https://www.rotowire.com/basketball/headlines/tyler-herro-injury-iffy-for-tuesday-538352)
 **G** Milwaukee Bucks
-Bruise
+Knee
 November 9, 2026
-Herro (contusion) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_05_15PM.pdf) for Tuesday's game against the Knicks.
+Herro (knee) is [listed as questionable](https://x.com/Bucks/status/2119932257309745276?s=20) for Tuesday's game against the Knicks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
@@ -133,74 +201,6 @@ Dieng accumulated 10 points (3-3 FG, 2-2 3Pt, 2-2 FT) and one rebound in 15 minu
 **G** Sacramento Kings
 November 9, 2026
 Monk totaled nine points (3-9 FG, 0-3 3Pt, 3-4 FT), two rebounds, three assists and one steal in 21 minutes during Sunday's 114-108 loss to Miami.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Kris Dunn](https://www.rotowire.com/basketball/player/kris-dunn-3854)[Strong start continues](https://www.rotowire.com/basketball/headlines/kris-dunn-news-strong-start-continues-538336)
-**G** Los Angeles Clippers
-November 9, 2026
-Dunn had 14 points (4-7 FG, 2-3 3Pt, 4-4 FT), five rebounds, four assists and one steal over 24 minutes during Sunday's 139-123 win over the Pelicans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Derrick Jones](https://www.rotowire.com/basketball/player/derrick-jones-4083)[Continues starting](https://www.rotowire.com/basketball/headlines/derrick-jones-news-continues-starting-538335)
-**F** Los Angeles Clippers
-November 9, 2026
-Jones closed Sunday's 139-123 win over the Pelicans with eight points (2-5 FG, 0-1 3Pt, 4-6 FT), four rebounds and three assists over 29 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Rui Hachimura](https://www.rotowire.com/basketball/player/rui-hachimura-4778)[Continues to start](https://www.rotowire.com/basketball/headlines/rui-hachimura-news-continues-to-start-538334)
-**F** Los Angeles Clippers
-November 9, 2026
-Hachimura logged 14 points (6-13 FG, 2-6 3Pt), three rebounds, two assists and one steal in 26 minutes during Sunday's 139-123 win over the Pelicans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Gradey Dick](https://www.rotowire.com/basketball/player/gradey-dick-5927)[Provides instant offense](https://www.rotowire.com/basketball/headlines/gradey-dick-news-provides-instant-offense-538332)
-**F** Los Angeles Clippers
-November 9, 2026
-Dick notched 15 points (6-7 FG, 2-2 3Pt, 1-2 FT), four rebounds and two steals in 17 minutes during Sunday's 139-123 victory over the Pelicans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Gary Payton](https://www.rotowire.com/basketball/player/gary-payton-3919)[Iffy for Monday](https://www.rotowire.com/basketball/headlines/gary-payton-injury-iffy-for-monday-538330)
-**G** Golden State Warriors
-Knee
-November 9, 2026
-Payton (left knee soreness) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf) for Monday's game against New Orleans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Cameron Johnson](https://www.rotowire.com/basketball/player/cameron-johnson-4916)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/cameron-johnson-injury-upgraded-to-probable-538329)
-**F** Denver Nuggets
-Lower Body
-November 9, 2026
-Johnson (ankle) has been upgraded to [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf) for Monday against Houston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Christian Braun](https://www.rotowire.com/basketball/player/christian-braun-5710)[Now expected to play](https://www.rotowire.com/basketball/headlines/christian-braun-injury-now-expected-to-play-538328)
-**G** Denver Nuggets
-Calf
-November 9, 2026
-Braun (left calf contusion/illness) has been upgraded to [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf) for Monday's matchup against the Rockets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Aaron Gordon](https://www.rotowire.com/basketball/player/aaron-gordon-3577)[Likely to play](https://www.rotowire.com/basketball/headlines/aaron-gordon-injury-likely-to-play-538326)
-**F** Denver Nuggets
-Lower Body
-November 9, 2026
-Gordon (left calf injury management) has been upgraded to [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf) for Monday's game against Houston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DEN](https://assets.rotowire.com/images/teamlogo/basketball/100DEN.png?v=10)
-[Nikola Jokic](https://www.rotowire.com/basketball/player/nikola-jokic-3612)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/nikola-jokic-injury-upgraded-to-probable-538325)
-**C** Denver Nuggets
-Elbow
-November 9, 2026
-Jokic (elbow) has been upgraded to [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_02_15PM.pdf) for Monday's game against the Rockets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

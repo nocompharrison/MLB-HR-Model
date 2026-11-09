@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-team-total-picks-monday-nov-9-145928 | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-team-total-picks-monday-nov-9-145928 | fetched: 2026-11-09 18:34 ET -->
 
 # Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 9
 Get the best NBA bets today, with expert picks on Trae Young’s made threes and a Hornets team total under, plus odds from top sportsbooks for Monday’s Nov. 9 NBA slate.
@@ -25,10 +25,11 @@ _FanDuel, 5 PM ET_
 **Alex Barutha:** Young continues to struggle from beyond the arc, making 1.8 threes this season on 28.6%. That will eventually improve, but I'm not banking on that happening tonight. The Pistons are an elite defensive team and are allowing the 7th-fewest made threes to opponents this season. 
 ![FanDuel](https://objects.kaxmedia.com/auto/o/148014/a68085dd6d.png)
 NBA Player Prop | WAS @ DET
-Trae Young Under 2.5 3-Pointers
+Trae Young Under 2.5 3-Pointers-210
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
-[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[](https://bet.rotowire.com/fanduel/offer/12454)
-$5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $2.38](https://bet.rotowire.com/fanduel/offer/12454)
+Estimate only. Odds can change and excludes fees.
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ### **Hornets team total U102.5 vs. Cavaliers (-110)**
 _DraftKings Sportsbook, 5:02 PM ET_
 **Nick Whalen:** This may be the ultimate low-hanging-fruit play tonight, but we're likely looking at a starting lineup of [Coby White](https://www.rotowire.com/basketball/player/coby-white-4801) (minutes limit), [Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454), [Sion James](https://www.rotowire.com/basketball/player/sion-james-6582), [Naz Reid](https://www.rotowire.com/basketball/player/naz-reid-4806) and [Ryan Kalkbrenner](https://www.rotowire.com/basketball/player/ryan-kalkbrenner-6567), as [Brandon Miller](https://www.rotowire.com/basketball/player/brandon-miller-5896), Ken Knueppel, [Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444) and [Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708) are sidelined. Thus far, Charlotte has the worst offense in the NBA by a full 3.0 points per 100, and they're playing at the second-slowest pace in the league. Cleveland has been about league-average defensively, but I'm simply not sure where the scoring comes from for Charlotte. Entering Monday, the Hornets have scored fewer than 90 points four times in 10 games, while the rest of the NBA has done that only three times combined.
@@ -48,31 +49,31 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Tagged probable for Tuesday
+NBA
+Miami Heat
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+Iffy for Wednesday's practice
+NFL
+San Francisco 49ers
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Gardner Minshew](https://www.rotowire.com/football/player/gardner-minshew-13741)
+Could face season-ending elbow surgery
+NFL
+Arizona Cardinals
+  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
+Out vs. Memphis
+NBA
+Toronto Raptors
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
 Won't play Monday
 NBA
 Los Angeles Lakers
-  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
-[Puka Nacua](https://www.rotowire.com/football/player/puka-nacua-16790)
-IR stint appears likely
-NFL
-Los Angeles Rams
-  * ![Dallas Cowboys](https://assets.rotowire.com/images/teamlogo/football/DAL.svg?v=12)
-[Jake Ferguson](https://www.rotowire.com/football/player/jake-ferguson-15947)
-In line to miss multiple weeks, per coach
-NFL
-Dallas Cowboys
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Gardner Minshew](https://www.rotowire.com/football/player/gardner-minshew-13741)
-Set to undergo testing on arm/elbow
-NFL
-Arizona Cardinals
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Michael Wilson](https://www.rotowire.com/football/player/michael-wilson-16957)
-Out for season with neck injury
-NFL
-Arizona Cardinals
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -103,6 +104,16 @@ Cleveland Guardians
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Tagged probable for Tuesday
+NBA
+Miami Heat
+  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
+Out vs. Memphis
+NBA
+Toronto Raptors
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
 Won't play Monday
@@ -118,19 +129,19 @@ Denver Nuggets
 Absent from injury report
 NBA
 Los Angeles Lakers
-  * ![Milwaukee Bucks](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Tyler Herro](https://www.rotowire.com/basketball/player/tyler-herro-4780)
-Iffy for Tuesday
-NBA
-Milwaukee Bucks
-  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708)
-Won't go Monday
-NBA
-Charlotte Hornets
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Mike Evans](https://www.rotowire.com/football/player/mike-evans-9253)
+Iffy for Wednesday's practice
+NFL
+San Francisco 49ers
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Gardner Minshew](https://www.rotowire.com/football/player/gardner-minshew-13741)
+Could face season-ending elbow surgery
+NFL
+Arizona Cardinals
   * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
 [Puka Nacua](https://www.rotowire.com/football/player/puka-nacua-16790)
 IR stint appears likely
@@ -142,23 +153,18 @@ In line to miss multiple weeks, per coach
 NFL
 Dallas Cowboys
   * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Gardner Minshew](https://www.rotowire.com/football/player/gardner-minshew-13741)
-Set to undergo testing on arm/elbow
-NFL
-Arizona Cardinals
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
 [Michael Wilson](https://www.rotowire.com/football/player/michael-wilson-16957)
 Out for season with neck injury
 NFL
 Arizona Cardinals
-  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
-[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
-Finger surgery on tap, IR a possibility
-NFL
-Green Bay Packers
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Ilya Sorokin](https://www.rotowire.com/hockey/player/ilya-sorokin-4478)
+Defending road crease Monday
+NHL
+New York Islanders
   * ![San Jose Sharks](https://assets.rotowire.com/images/teamlogo/hockey/100SJS.png?v=5)
 [Yaroslav Askarov](https://www.rotowire.com/hockey/player/yaroslav-askarov-6187)
 First goalie off Monday
@@ -179,11 +185,6 @@ Vancouver Canucks
 Starting against Edmonton
 NHL
 New York Rangers
-  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
-[Ryan Nugent-Hopkins](https://www.rotowire.com/hockey/player/ryan-nugent-hopkins-3743)
-Good to go Monday
-NHL
-Edmonton Oilers
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

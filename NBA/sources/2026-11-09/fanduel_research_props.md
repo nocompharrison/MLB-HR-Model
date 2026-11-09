@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-prop-bets-monday-nov-9 | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-prop-bets-monday-nov-9 | fetched: 2026-11-09 18:34 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 9
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-5h
+6h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 9](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F693ac69276c450231436dc8cbbe967b9f9b9f90a-5709x3211.jpg%3Frect%3D298%2C0%2C5115%2C2531%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ Wizards at Pistons — 7:00 p.m. ET
 Ausar Thompson - Rebounds
 Ausar Thompson Over
 O 7.5
-+100
+-104
 Nov 10 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-detroit-pistons-36290198)
 Odds/lines subject to change
 With Jalen Duren sidelined by a hamstring injury, [Ausar Thompson](https://sportsbook.fanduel.com/teams/nba/roster/ausar-thompson-3193) has an opportunity to contribute even more on the glass. Thompson is averaging 8.9 rebounds and 13.0 rebound chances per game across eight appearances, and he has reached at least eight boards in five of them. He also had 11 rebounds against the Lakers on Sunday.
@@ -42,7 +42,7 @@ Cavaliers at Hornets — 7:00 p.m. ET
 Donovan Mitchell - Made Threes
 Donovan Mitchell Over
 O 2.5
--115
+-111
 Nov 10 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/cleveland-cavaliers-@-charlotte-hornets-36290200)
 Odds/lines subject to change
 The shot volume supports a look at [Donovan Mitchell](https://sportsbook.fanduel.com/teams/nba/roster/donovan-mitchell-2524). He is attempting 7.5 three-pointers per game in 2026-27 and has taken at least nine attempts in four of his past six outings. Mitchell is shooting 38.7% from beyond the arc and has made four or more threes in three of his four November appearances.
@@ -52,7 +52,7 @@ Grizzlies at Raptors — 7:30 p.m. ET
 Cedric Coward - Rebounds
 Cedric Coward Over
 O 6.5
--111
+-106
 Nov 10 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-toronto-raptors-36290205)
 Odds/lines subject to change
 Through eight appearances in 2026-27, [Cedric Coward](https://sportsbook.fanduel.com/teams/nba/roster/cedric-coward-3435) has collected 8.8 rebounds per game while averaging 28.5 minutes. He has grabbed at least seven boards in all eight games, including nine in each of his past three contests. 
@@ -95,7 +95,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 9](https://www.fanduel.com/research/nba-props-today-3-prop-bets-monday-nov-9)
-5h
+6h
 NBA prop bets to target today. What are the top player props for tonight
 [](https://www.fanduel.com/research/nba-props-today-3-prop-bets-monday-nov-9)
 [NBA](https://www.fanduel.com/research/nba)
@@ -105,12 +105,12 @@ NBA picks and predictions for today. What are the best NBA bets for Monday night
 [](https://www.fanduel.com/research/nba-picks-today-3-nba-predictions-and-best-bets-for-monday-nov-9)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 9](https://www.fanduel.com/research/warriors-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-9-2026)
-11h
+12h
 Find Warriors vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 9 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-9-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [76ers vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 10](https://www.fanduel.com/research/76ers-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-10-2026)
-15h
+16h
 Find 76ers vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 NBA matchup.
 [](https://www.fanduel.com/research/76ers-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-10-2026)
 

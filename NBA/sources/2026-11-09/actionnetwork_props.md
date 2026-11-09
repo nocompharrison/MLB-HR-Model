@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-monday-november-9 | fetched: 2026-11-09 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-monday-november-9 | fetched: 2026-11-09 18:34 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -101,17 +101,17 @@ Alex Hinton
 NBA
 [NBA Player Props for Luka Doncic, Dylan Harper on Monday, November 9](https://www.actionnetwork.com/nba/nba-player-props-for-luka-doncic-dylan-harper-on-monday-november-9)
 Action Network Staff
-5 hours ago
+6 hours ago
 [![NBA Moneyline Parlay: 2 Predictions for Monday, November 9](https://images.actionnetwork.com/blog/2026/11/NBAMLParlay-1192026.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-9)
 NBA
 [NBA Moneyline Parlay: 2 Predictions for Monday, November 9](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-monday-november-9)
 Ryan Minion
-6 hours ago
+7 hours ago
 [![Lakers vs Hawks Predictions, Odds, Picks: Back Luka Doncic to Stay Hot Tonight](https://images.actionnetwork.com/blog/2026/11/Luka119.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-atlanta-hawks-prediction-pick-nba-odds-monday-november-9)
 NBA
 [Lakers vs Hawks Predictions, Odds, Picks: Back Luka Doncic to Stay Hot Tonight](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-atlanta-hawks-prediction-pick-nba-odds-monday-november-9)
 Joe Dellera
-52 mins ago
+1 hour ago
 [![Wizards vs Pistons Predictions, Odds, Picks: Anthony Davis Will Feast Tonight](https://images.actionnetwork.com/blog/2026/11/wizardspistons119.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-detroit-pistons-prediction-pick-nba-odds-monday-november-9)
 NBA
 [Wizards vs Pistons Predictions, Odds, Picks: Anthony Davis Will Feast Tonight](https://www.actionnetwork.com/nba/washington-wizards-vs-detroit-pistons-prediction-pick-nba-odds-monday-november-9)
@@ -121,28 +121,28 @@ Joe Dellera
 NBA
 [Grizzlies vs Raptors Predictions, Odds, Picks: Trust Scottie Barnes Tonight](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-toronto-raptors-prediction-pick-nba-odds-monday-november-9)
 Bryan Fonseca
-41 mins ago
+1 hour ago
 [![Nuggets vs Rockets Predictions, Odds, Picks: Beware The International Travel Spot](https://images.actionnetwork.com/blog/2026/11/Nuggets-Rockets-1192026.jpg)](https://www.actionnetwork.com/nba/denver-nuggets-vs-houston-rockets-prediction-pick-nba-odds-monday-november-9)
 NBA
 [Nuggets vs Rockets Predictions, Odds, Picks: Beware The International Travel Spot](https://www.actionnetwork.com/nba/denver-nuggets-vs-houston-rockets-prediction-pick-nba-odds-monday-november-9)
 Brandon Kravitz
-22 mins ago
+51 mins ago
 [![Pacers vs Mavericks Predictions, Odds, Picks: Not All Back-to-Back Sets Are Created Equal](https://images.actionnetwork.com/blog/2026/11/Pacers-vs-Mavericks-11_9_26.jpg)](https://www.actionnetwork.com/nba/indiana-pacers-vs-dallas-mavericks-prediction-pick-odds-nba-monday-november-9)
 NBA
 [Pacers vs Mavericks Predictions, Odds, Picks: Not All Back-to-Back Sets Are Created Equal](https://www.actionnetwork.com/nba/indiana-pacers-vs-dallas-mavericks-prediction-pick-odds-nba-monday-november-9)
 Brandon Kravitz
-31 mins ago
+1 hour ago
 [![Spurs vs Suns Prediction, Pick, NBA Odds for Monday, November 9](https://images.actionnetwork.com/blog/2026/11/Spurs-vs-Suns-11_9_26.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-phoenix-suns-prediction-pick-odds-nba-monday-november-9)
 NBA
 [Spurs vs Suns Prediction, Pick, NBA Odds for Monday, November 9](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-phoenix-suns-prediction-pick-odds-nba-monday-november-9)
 Michael Fiddle
-8 hours ago
+9 hours ago
 [![Cavaliers vs Hornets Prediction, Pick, NBA Odds for Monday, November 9](https://images.actionnetwork.com/blog/2026/11/Cavaliers-vs-Hornets-11_9_26.jpg)](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-charlotte-hornets-prediction-pick-odds-nba-monday-november-9)
 NBA
 [Cavaliers vs Hornets Prediction, Pick, NBA Odds for Monday, November 9](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-charlotte-hornets-prediction-pick-odds-nba-monday-november-9)
 Action Network Staff
-6 hours ago
+7 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=19f2598f-088c-4b75-b97a-026169eaba52&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0151a158-e69d-48d1-827a-67eb0b7be133&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=19f2598f-088c-4b75-b97a-026169eaba52&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0151a158-e69d-48d1-827a-67eb0b7be133&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0d32a93b-acd3-4b22-adbc-de8bc5e0af10&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0151a158-e69d-48d1-827a-67eb0b7be133&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=7455&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0d32a93b-acd3-4b22-adbc-de8bc5e0af10&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0151a158-e69d-48d1-827a-67eb0b7be133&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=7455&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=28194edd-3fba-4d4d-aa94-87cdf449d31b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88e003e9-d6c8-4061-97e2-e524c380d476&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=28194edd-3fba-4d4d-aa94-87cdf449d31b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88e003e9-d6c8-4061-97e2-e524c380d476&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dfa6de6b-73d4-4713-96c7-84545923ad4a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88e003e9-d6c8-4061-97e2-e524c380d476&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=7544&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dfa6de6b-73d4-4713-96c7-84545923ad4a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88e003e9-d6c8-4061-97e2-e524c380d476&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-monday-november-9&tw_engaged_ms=7544&tw_iframe_status=0&tw_pid_src=2&tw_session_count=71&tw_session_id=1794265415904-754497397&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
