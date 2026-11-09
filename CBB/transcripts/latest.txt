@@ -1,41 +1,39 @@
-# CBB transcripts | 2026-11-09 | updated 2026-11-09 11:21 ET
+# CBB transcripts | 2026-11-09 | updated 2026-11-09 12:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 6 files in CBB/transcripts/2026-11-09:
+# 10 files in CBB/transcripts/2026-11-09:
 CBB/transcripts/2026-11-09/7pKUiyqPjLA_TCE_College_Basketball_PICKS_ONLY_Monday_November_9th_TCE_Trims.txt
+CBB/transcripts/2026-11-09/9pbTKXdWB3M_WagerTalk_College_Basketball_Picks_Today_Monday_s_CBB_Odds_Best_Bets_Full_Court.txt
 CBB/transcripts/2026-11-09/NiNeXqp5jVI_TCE_College_Basketball_Picks_For_November_9th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-09/SA5sRm2iq7s_WagerTalk_College_Basketball_Picks_TODAY_Syracuse_vs_Indiana_Oakland_vs_Alabama.txt
+CBB/transcripts/2026-11-09/nHqs-QKvOlM_FieldOf68_North_Carolina_has_made_some_PROMISING_changes_Randolph_Childress_Terr.txt
 CBB/transcripts/2026-11-09/r1h9lLgD-lo_TCE_College_Basketball_Best_Bets_For_November_9th_Spread_Moneyline_Betting.txt
+CBB/transcripts/2026-11-09/vH6RlZHX7iI_FieldOf68_Memphis_has_had_the_BEST_start_of_ANY_team_in_college_basketball_this.txt
 CBB/transcripts/2026-11-09/wX4LKPLAqg4_PickDawgz_College_Basketball_Picks_for_Today_11_9_26_Monday_Best_College_Basketb.txt
 CBB/transcripts/2026-11-09/wcFOzqPAsN8_PickDawgz_College_Basketball_Picks_Predictions_Today_11_9_26_Ron_s_Bank_Shot_Bre.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-06, CBB/transcripts/2026-11-08
+CBB/transcripts/2026-11-09/ymbUWnPoCfA_FieldOf68_UConn_is_FAR_from_a_finished_product_Why_that_s_a_GOOD_thing_for_the_H.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-08
 
 # this run:
-NEW     CBB/transcripts/2026-11-08/s2FcT_Gj_BU_LockedOnCBB_PAYBACK_Silas_Demary_and_UConn_OUTDUEL_Michigan_in_championship_rematc.txt  (6,588 words)
-DEFER   CBSCollegeBB P3mWtLPy36c Virginia smokes Arkansas; UConn has a title contender; Valpo  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-06/D1OVmzdUR24_CBSCollegeBB_UConn_was_too_good_for_Michigan_on_Friday_night.txt  (2,464 words)
-NEW     CBB/transcripts/2026-11-08/zF_ZkQ48p4E_CBSCollegeBB_Virginia_looked_like_the_grown_up_basketball_team_against_Arkansas.txt  (2,891 words)
-NEW     CBB/transcripts/2026-11-08/yKuVxpNUoR0_CBSCollegeBB_College_Basketball_AP_Top_25_Preview_Will_UCLA_crack_the_Top_10.txt  (1,445 words)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-08/P3mWtLPy36c_CBSCollegeBB_Virginia_smokes_Arkansas_UConn_has_a_title_contender_Valpo_SHOCKS_Purd.txt  (14,795 words)
+DEFER   FieldOf68 J8m4zH3Z8QM FIRST WEEK OVERREACTIONS: Virginia rolls, UConn's back, Memp  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 IKP-CsfpmXA 'Nobody is happier about this than COACH CAL!' | Arkansas is  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 a3asBcEYCkc Virginia PROVED themselves an ACC title threat | Is this tea  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 opCVZbGhM6E Obinna Ekezie Jr is a BREAKOUT STAR!! | Louisville's ceiling  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 vq03C-VYJNI Virginia DOMINATES Arkansas in DC! Plus, Week One progress r  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 KLec68Wb2-E Memphis pulls out ANOTHER impressive win! | 'Penny has this   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 r61yv14UhY0 Arkansas gets EMBARRASSED by Virginia! | 'Cal has a LOT of t  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 GOzjeIrNRSE Virginia makes a STATEMENT in win over Arkansas! | 'This is   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NOCAPS  FieldOf68 J8m4zH3Z8QM FIRST WEEK OVERREACTIONS: Virginia rolls, UConn's back, Memp  (no captions; Groq: still live - audio not final yet)
-NEW     CBB/transcripts/2026-11-08/ywgH7ElLNNM_FieldOf68_Kentucky_trending_UP_Purdue_trending_DOWN_OPENING_WEEK_PROGRESS_REPOR.txt  (1,676 words)
-NEW     CBB/transcripts/2026-11-08/9pcQOm7cuUA_FieldOf68_Duke_and_Kansas_look_ELITE_OPENING_WEEK_PROGRESS_REPORT_AFTER_DARK.txt  (1,713 words)
+NEW     CBB/transcripts/2026-11-09/ymbUWnPoCfA_FieldOf68_UConn_is_FAR_from_a_finished_product_Why_that_s_a_GOOD_thing_for_the_H.txt  (2,495 words)
+NEW     CBB/transcripts/2026-11-09/vH6RlZHX7iI_FieldOf68_Memphis_has_had_the_BEST_start_of_ANY_team_in_college_basketball_this.txt  (1,386 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-09/r1h9lLgD-lo_TCE_College_Basketball_Best_Bets_For_November_9th_Spread_Moneyline_Betting.txt  (1,048 words)
-NEW     CBB/transcripts/2026-11-09/7pKUiyqPjLA_TCE_College_Basketball_PICKS_ONLY_Monday_November_9th_TCE_Trims.txt  (9,094 words)
-NEW     CBB/transcripts/2026-11-09/NiNeXqp5jVI_TCE_College_Basketball_Picks_For_November_9th_NCAA_Basketball_Banter_Best.txt  (13,355 words)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 UPCOMING SGPN QL9YB1GBbSY College Basketball Picks: Fri, Nov 13th & Sat, Nov 14th  (not aired yet - scheduled for 11/12/26 1:00PM)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-09/SA5sRm2iq7s_WagerTalk_College_Basketball_Picks_TODAY_Syracuse_vs_Indiana_Oakland_vs_Alabama.txt  (1,417 words)
-NOCAPS  WagerTalk 9pbTKXdWB3M College Basketball Picks Today: Monday's CBB Odds & Best Bet  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk C_GLFv80v0A College Basketball Picks Today: Monday's CBB Odds & Best Bet  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-09/wcFOzqPAsN8_PickDawgz_College_Basketball_Picks_Predictions_Today_11_9_26_Ron_s_Bank_Shot_Bre.txt  (1,866 words)
-NEW     CBB/transcripts/2026-11-09/wX4LKPLAqg4_PickDawgz_College_Basketball_Picks_for_Today_11_9_26_Monday_Best_College_Basketb.txt  (4,567 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -43,5 +41,7 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-09/nHqs-QKvOlM_FieldOf68_North_Carolina_has_made_some_PROMISING_changes_Randolph_Childress_Terr.txt  (1,695 words, via Groq)
+NEW     CBB/transcripts/2026-11-09/9pbTKXdWB3M_WagerTalk_College_Basketball_Picks_Today_Monday_s_CBB_Odds_Best_Bets_Full_Court.txt  (10,651 words, via Groq)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
