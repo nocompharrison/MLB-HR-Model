@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-09 11:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-09 16:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -149,17 +149,17 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 11 | Day-To-Day | Nov 9: Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-121 loss to Atlanta, won't play in Sunday's game against Dallas, Erik Slater of ClutchPoints.com reports. |
 | [Grant Nelson](https://www.espn.com/nba/player/_/id/4702670/grant-nelson) | F | Nov 10 | Day-To-Day | Nov 8: Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports. |
-| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 11 | Out | Nov 7: Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-121 loss to Atlanta, won't play in Sunday's game against Dallas, Erik Slater of ClutchPoints.com reports. |
 | [Egor Demin](https://www.espn.com/nba/player/_/id/5175643/egor-demin) | G | Nov 11 | Out | Oct 29: The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday. |
 
 ![Image 23: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Moussa Diabate](https://www.espn.com/nba/player/_/id/4433249/moussa-diabate) | F | Nov 9 | Day-To-Day | Nov 9: Diabate (quadriceps) is doubtful for Monday's game against the Cavaliers. |
 | [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 12 | Out | Nov 8: Williams (hamstring) is out for Monday's game against the Cavaliers. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Dec 12 | Out | Nov 8: Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks. |
-| [Moussa Diabate](https://www.espn.com/nba/player/_/id/4433249/moussa-diabate) | F | Nov 9 | Day-To-Day | Nov 8: Diabate (quadriceps) is questionable for Monday's game against the Cavaliers. |
 | [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Nov 25 | Out | Nov 8: Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports. |
 | [Brandon Miller](https://www.espn.com/nba/player/_/id/4433287/brandon-miller) | F | Nov 12 | Out | Nov 8: Miller (groin) is listed as out for Monday's game against Cleveland. |
 
@@ -167,8 +167,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 11 | Out | Nov 8: Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports. |
-| [Zach Collins](https://www.espn.com/nba/player/_/id/4066650/zach-collins) | F | Nov 11 | Out | Nov 7: Collins (illness) is out for Sunday's game against Philadelphia. |
+| [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 11 | Day-To-Day | Nov 9: Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports. |
+| [Zach Collins](https://www.espn.com/nba/player/_/id/4066650/zach-collins) | F | Nov 11 | Day-To-Day | Nov 9: Collins (illness) is out for Sunday's game against Philadelphia. |
 
 ![Image 25: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
@@ -182,6 +182,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Morez Johnson Jr.](https://www.espn.com/nba/player/_/id/4873153/morez-johnson-jr) | F | Nov 9 | Day-To-Day | Nov 9: Johnson (leg) is questionable for Monday's game against Indiana. |
 | [Sergio de Larrea](https://www.espn.com/nba/player/_/id/5279129/sergio-de-larrea) | F | Nov 12 | Out | Nov 5: De Larrea (knee) is out for Friday's game against Utah. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 12 | Out | Nov 1: Biberovic (heel) is listed as out for Monday's game against Sacramento. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 12 | Out | Nov 1: Lively (foot) is listed as out for Monday's game against the Kings. |
@@ -190,25 +191,26 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Nov 9 | Day-To-Day | Nov 8: Johnson (lower body) is questionable for Monday's game against Houston. |
-| [DeMar DeRozan](https://www.espn.com/nba/player/_/id/3978/demar-derozan) | G | Nov 9 | Day-To-Day | Nov 8: DeRozan is questionable for Monday's game against the Rockets due to lower back spasms. |
-| [Christian Braun](https://www.espn.com/nba/player/_/id/4431767/christian-braun) | G | Nov 9 | Day-To-Day | Nov 8: Braun (calf/illness) is listed as questionable for Monday's game against Houston. |
-| [Jamal Murray](https://www.espn.com/nba/player/_/id/3936299/jamal-murray) | G | Nov 9 | Day-To-Day | Nov 8: Murray is questionable for Monday's game against the Rockets due to a left shin contusion. |
-| [Aaron Gordon](https://www.espn.com/nba/player/_/id/3064290/aaron-gordon) | F | Nov 9 | Day-To-Day | Nov 8: Gordon (lower body injury management) is listed as questionable for Monday's game against the Rockets. |
-| [Nikola Jokic](https://www.espn.com/nba/player/_/id/3112335/nikola-jokic) | C | Nov 9 | Day-To-Day | Nov 8: Jokic (elbow) is listed as questionable for Monday's game in Houston. |
+| [Cameron Johnson](https://www.espn.com/nba/player/_/id/3138196/cameron-johnson) | F | Nov 9 | Day-To-Day | Nov 9: Johnson (ankle) is probable for Monday against Houston. |
+| [Christian Braun](https://www.espn.com/nba/player/_/id/4431767/christian-braun) | G | Nov 9 | Day-To-Day | Nov 9: Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets. |
+| [Aaron Gordon](https://www.espn.com/nba/player/_/id/3064290/aaron-gordon) | F | Nov 9 | Day-To-Day | Nov 9: Gordon (left calf injury management) is probable for Monday's game against Houston. |
+| [Nikola Jokic](https://www.espn.com/nba/player/_/id/3112335/nikola-jokic) | C | Nov 9 | Day-To-Day | Nov 9: Jokic (right elbow sprain) is probable for Monday's game against the Rockets. |
+| [DeMar DeRozan](https://www.espn.com/nba/player/_/id/3978/demar-derozan) | G | Nov 9 | Day-To-Day | Nov 9: DeRozan (back) is probable for Monday against Houston. |
+| [Jamal Murray](https://www.espn.com/nba/player/_/id/3936299/jamal-murray) | G | Nov 9 | Day-To-Day | Nov 9: Murray (leg) is probable for Monday against Houston. |
 | [Julian Strawther](https://www.espn.com/nba/player/_/id/4432181/julian-strawther) | G | Nov 29 | Out | Oct 16: Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports. |
 
 ![Image 28: Detroit Pistons](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png&h=40&w=40)Detroit Pistons
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 12 | Out | Nov 9: Joe (hip) is out for Monday against the Wizards. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 24 | Out | Nov 8: Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports. |
-| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 9 | Out | Nov 7: Joe (hip) has been ruled out for Sunday's game against the Lakers. |
 
 ![Image 29: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Gary Payton II](https://www.espn.com/nba/player/_/id/3134903/gary-payton-ii) | G | Nov 9 | Day-To-Day | Nov 9: Payton (left knee soreness) is listed as questionable for Monday's game against New Orleans. |
 | [Will Richard](https://www.espn.com/nba/player/_/id/4897262/will-richard) | G | Nov 11 | Out | Nov 8: Richard is out for Monday's game against the Pelicans due to a left thumb UCL tear. |
 | [Gui Santos](https://www.espn.com/nba/player/_/id/4997536/gui-santos) | F | Nov 9 | Day-To-Day | Nov 8: Santos (knee) is listed as probable for Monday's game against New Orleans. |
 | [Kristaps Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | C | Jan 2 | Out | Nov 6: Porzingis announced on his social media that he's stepping away from basketball. |
@@ -219,6 +221,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Oscar Tshiebwe](https://www.espn.com/nba/player/_/id/4432827/oscar-tshiebwe) | C | Nov 11 | Out | Nov 9: Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness. |
 | [Clint Capela](https://www.espn.com/nba/player/_/id/3102529/clint-capela) | C | Nov 11 | Out | Nov 8: Capela (ankle) is listed as out for Monday's game against Denver. |
 | [Steven Adams](https://www.espn.com/nba/player/_/id/2991235/steven-adams) | C | Nov 11 | Out | Nov 4: Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a "weekly basis," Varun Shankar of the Houston Chronicle reports. |
 
@@ -235,8 +238,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Isaiah Jackson](https://www.espn.com/nba/player/_/id/4432170/isaiah-jackson) | F | Nov 10 | Day-To-Day | Nov 9: Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports. |
 | [Brandon Ingram](https://www.espn.com/nba/player/_/id/3913176/brandon-ingram) | F | Nov 10 | Out | Nov 7: Ingram (Achilles) won't play in Sunday's game against New Orleans, Law Murray of The Athletic reports. |
-| [Isaiah Jackson](https://www.espn.com/nba/player/_/id/4432170/isaiah-jackson) | F | Nov 10 | Out | Nov 7: Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports. |
 | [Yanic Konan Niederhauser](https://www.espn.com/nba/player/_/id/5108024/yanic-konan-niederhauser) | C | Nov 10 | Out | Nov 2: The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday. |
 | [Bradley Beal](https://www.espn.com/nba/player/_/id/6580/bradley-beal) | G | Nov 29 | Out | Oct 14: Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports. |
 | [Jordan Miller](https://www.espn.com/nba/player/_/id/4396818/jordan-miller) | G | Mar 2 | Out | Aug 26: Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic. |
@@ -245,8 +248,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 9 | Day-To-Day | Nov 9: Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports. |
-| [Quentin Grimes](https://www.espn.com/nba/player/_/id/4397014/quentin-grimes) | G | Nov 9 | Day-To-Day | Nov 8: Grimes (finger) did not return to Sunday's game against the Pistons. |
+| [Quentin Grimes](https://www.espn.com/nba/player/_/id/4397014/quentin-grimes) | G | Nov 11 | Out | Nov 9: Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com. |
+| [Austin Reaves](https://www.espn.com/nba/player/_/id/4066457/austin-reaves) | G | Nov 9 | Day-To-Day | Nov 9: Reaves is questionable for Monday's game against the Hawks due to an illness, per Dave McMenamin of ESPN.com. |
 
 ![Image 34: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
 
@@ -260,7 +263,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Gary Trent Jr.](https://www.espn.com/nba/player/_/id/4277843/gary-trent-jr) | G | Nov 10 | Out | Nov 8: Trent (illness) won't play in Sunday's game versus the Celtics. |
+| [Gary Trent Jr.](https://www.espn.com/nba/player/_/id/4277843/gary-trent-jr) | G | Nov 10 | Day-To-Day | Nov 9: Trent (illness) won't play in Sunday's game versus the Celtics. |
 
 ![Image 36: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
@@ -273,7 +276,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 9 | Out | Nov 5: Missi (knee) is out for Friday's game against Minnesota. |
+| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 16 | Out | Nov 5: Missi (knee) is out for Friday's game against Minnesota. |
 
 ![Image 38: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
 
@@ -306,7 +309,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 10 | Out | Nov 7: Bona (back) is out for Sunday's game in Chicago. |
+| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 10 | Day-To-Day | Nov 9: Bona (back) is out for Sunday's game in Chicago. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 18 | Out | Nov 4: Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
@@ -330,7 +333,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Domantas Sabonis](https://www.espn.com/nba/player/_/id/3155942/domantas-sabonis) | F | Nov 10 | Out | Nov 8: Sabonis (knee) is out for Sunday's game against the Heat. |
+| [Domantas Sabonis](https://www.espn.com/nba/player/_/id/3155942/domantas-sabonis) | F | Nov 10 | Day-To-Day | Nov 9: Sabonis (knee) is out for Sunday's game against the Heat. |
 | [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Nov 10 | Out | Oct 26: Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks, Brenden Nunes of KHTK Sactown Sports 1140 reports. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
 
@@ -338,14 +341,15 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Devin Vassell](https://www.espn.com/nba/player/_/id/4395630/devin-vassell) | G | Nov 11 | Out | Nov 9: Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports. |
 | [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Nov 11 | Out | Nov 8: Harris (calf) is listed as out for Monday's game against Phoenix. |
-| [Devin Vassell](https://www.espn.com/nba/player/_/id/4395630/devin-vassell) | G | Nov 9 | Day-To-Day | Nov 8: Vassell is questionable for Monday's game against the Suns due to left adductor tightness. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
 ![Image 46: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Collin Murray-Boyles](https://www.espn.com/nba/player/_/id/5093267/collin-murray-boyles) | F | Nov 9 | Day-To-Day | Nov 9: Murray-Boyles (illness) is questionable for Monday's game versus Memphis, per Josh Lewenberg of TSN.ca. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 15 | Out | Nov 8: Bittle (foot) is listed as out for Monday's game against Memphis. |
 | [Immanuel Quickley](https://www.espn.com/nba/player/_/id/4395724/immanuel-quickley) | G | Nov 9 | Day-To-Day | Nov 8: Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports. |
 | [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 9 | Day-To-Day | Nov 8: Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports. |
@@ -355,8 +359,8 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Lauri Markkanen](https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen) | F | Nov 10 | Day-To-Day | Nov 9: Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports. |
 | [Keyonte George](https://www.espn.com/nba/player/_/id/4433627/keyonte-george) | G | Nov 10 | Day-To-Day | Nov 8: George will not return to Sunday's game against the Timberwolves due to a right ankle injury. |
-| [Lauri Markkanen](https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen) | F | Nov 10 | Out | Nov 8: Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports. |
 | [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
 
@@ -364,6 +368,7 @@ NBA TV
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Bilal Coulibaly](https://www.espn.com/nba/player/_/id/5104155/bilal-coulibaly) | G | Nov 9 | Day-To-Day | Nov 9: Coulibaly (hand) is listed as questionable for Monday's game against Detroit. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 16 | Out | Nov 8: Vukcevic (hip) has been ruled out for Monday's game against Detroit. |
 | [Anthony Davis](https://www.espn.com/nba/player/_/id/6583/anthony-davis) | F | Nov 9 | Day-To-Day | Nov 8: Davis (ankle) is listed as questionable for Monday's game in Detroit. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
@@ -372,47 +377,69 @@ NBA TV
 
 Data Provided by Rotowire
 
-You May Like
+Sponsored Headlines
 
-[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off This Holiday Season Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off This Holiday Season")
+[](https://sakura-knives.com/pages/story-8)[Hiroshi Closes His Knife Shop After 55 Years Sakura Knives | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://sakura-knives.com/pages/story-8 "Hiroshi Closes His Knife Shop After 55 Years")
 
-[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off the Gift of Online Protection Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off the Gift of Online Protection")
+Undo
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-[](https://sakura-knives.com/pages/story-8)[Hiroshi Closes His Knife Shop After 55 Years Sakura Knives | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://sakura-knives.com/pages/story-8 "Hiroshi Closes His Knife Shop After 55 Years")
+Undo
 
-[](https://tracking.smartestlifestyletrends.com/7f5a14ec-4d25-426b-96fa-d39ea7037d2d)[Drive Less Than 50 Miles Per Day? Switch To This Car Insurance Many driver don't know they already qualify for a lower auto insurance rate. See if you're eligible now.Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tracking.smartestlifestyletrends.com/7f5a14ec-4d25-426b-96fa-d39ea7037d2d "Drive Less Than 50 Miles Per Day? Switch To This Car Insurance")
+[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off the Gift of Online Protection Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off the Gift of Online Protection")
 
-[](https://beautyguide.blog/tbl/adv)[Crepey Skin? Most People Use Moisturizer. Koreans Do This Instead She stopped using her moisturizer and tried this instead. The results surprised everyone.Beauty Guide | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://beautyguide.blog/tbl/adv "Crepey Skin? Most People Use Moisturizer. Koreans Do This Instead")
+Undo
 
-[](https://l.ottoinsurance.com/n)[Expensive Car Insurance? Experts Urge Americans To Check Their Zip Code Most Expensive Zip Codes for Insurance in America - Is Yours On The List?OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Expensive Car Insurance? Experts Urge Americans To Check Their Zip Code")
+[](https://freshstartinfo.org/january-tax-relief-deadline)[Monday: IRS Forgives Millions In Tax Debt Before Deadline Thousands of Americans with back taxes are checking whether they qualify for the IRS Fresh Start Program. A short survey shows which options may apply to you.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Apply Now](https://freshstartinfo.org/january-tax-relief-deadline "Monday: IRS Forgives Millions In Tax Debt Before Deadline")
 
-[](https://l.ottoinsurance.com/n)[Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)Car Insurance Data Shows Which Zip Codes Save The Most OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://l.ottoinsurance.com/n "Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
+Undo
 
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)")
+[](https://apply.govplus.com/passport)[Your Passport May Be Expiring—Renew It Online Trusted by millions for fast, no-hassle passport renewals & application.GovPlus | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://apply.govplus.com/passport "Your Passport May Be Expiring—Renew It Online")
 
-[](https://tick.storytelltv.com/d72e814f-5132-459c-ae53-75851ac0e4e1)[These 2026 Glasses Adjust Their Focus Automatically - Near or Far FlexFocus | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://tick.storytelltv.com/d72e814f-5132-459c-ae53-75851ac0e4e1 "These 2026 Glasses Adjust Their Focus Automatically - Near or Far")
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Don’t Cook Thanksgiving On Pans That Could Poison Your Food Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Don’t Cook Thanksgiving On Pans That Could Poison Your Food")
+
+Undo
+
+[](https://www.noorh.co/hhf-dht-a-pt01-tb)[The Missing Nutrient Behind Thin Hair Beautiful Hair Again | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.noorh.co/hhf-dht-a-pt01-tb "The Missing Nutrient Behind Thin Hair")
+
+Undo
+
+[](https://track.roinattrack.com/768e5355-282b-4bca-9d60-e427ea0fad09)[Man Who Called Nvidia In 2008 Issues New Space Prediction Paradigm Press | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://track.roinattrack.com/768e5355-282b-4bca-9d60-e427ea0fad09 "Man Who Called Nvidia In 2008 Issues New Space Prediction")
+
+Undo
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Oregon: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Oregon: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)")
+
+Undo
 
 ### NBA News
 
-[![Image 49: Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness'](https://a.espncdn.com/combiner/i?img=/photo/2024/0225/r1295834_1296x729_16-9.jpg&w=220) ## Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness' Giannis Antetokounmpo said he was "speechless" over Doc Rivers' recent comments, adding that athletes should not be dismayed by "bitterness or pettiness." * 2h](https://www.espn.com/nba/story/_/id/50432359/giannis-antetokounmpo-speechless-doc-rivers-criticism)
+[![Image 49: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2026/0301/r1621468_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
-[![Image 50: Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming](https://a.espncdn.com/combiner/i?img=/photo/2026/1022/r1734384_1296x729_16-9.jpg&w=220) ## Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming With tax and apron penalties lurking everywhere, Bobby Marks examines 19 teams barreling toward core-altering decisions. * 10m * Bobby Marks](https://www.espn.com/nba/story/_/id/50427876/heat-lakers-knicks-76ers-roster-decisions)
+[![Image 50: Monday's fantasy hoops adds, NBA bets to make: Ty Jerome primed for a big game](https://a.espncdn.com/combiner/i?img=/photo/2026/1109/r1743633_1296x729_16-9.jpg&w=220) ## Monday's fantasy hoops adds, NBA bets to make: Ty Jerome primed for a big game Andre Snellings breaks down Monday's eight-game NBA slate, highlighting the fantasy streamers to add and bets to make. * 2h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50434186/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 51: What's fueling the rocky start for Giannis Antetokounmpo and the Miami Heat](https://a.espncdn.com/combiner/i?img=/photo/2026/1109/r1743497_576x324_16-9.jpg&w=220) ## What's fueling the rocky start for Giannis Antetokounmpo and the Miami Heat At 4-6, the Heat aren't pointing fingers -- yet. But with each loss, the pressure rises on this season and next -- with Giannis' free agency looming. * 3h * Ramona Shelburne](https://www.espn.com/nba/story/_/id/50425453/miami-heat-giannis-antetokounmpo-erik-spoelstra)
+## [Sources: NBA finalizing Miami as 2028 All-Star Weekend host The NBA is finalizing Miami as host of the 2028 All-Star Weekend, sources told ESPN's Shams Charania on Monday. * 1h](https://www.espn.com/nba/story/_/id/50434463/nba-finalizing-miami-2028-all-star-weekend-host)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3)[Oregon Drivers Holding A License for 20+ Years Did Not See This Coming Many driver don't know they already qualify for a lower auto insurance rate. See if you're eligible now.Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3 "Oregon Drivers Holding A License for 20+ Years Did Not See This Coming")
+[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off This Holiday Season Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off This Holiday Season")
 
-[](https://sakura-knives.com/pages/story-8)[Home Cooks Over 50 Are Ditching Their Knives For These Sakura Knives | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://sakura-knives.com/pages/story-8 "Home Cooks Over 50 Are Ditching Their Knives For These")
+Undo
 
-[](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98)[Senior Dog Can’t Climb Bed Anymore? Watch This Pupsreport | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tkp.pupsreport.com/6ac661988ad6ab03ce900f98 "Senior Dog Can’t Climb Bed Anymore? Watch This")
+[](https://freshstartinfo.org/january-tax-relief-deadline)[Monday: IRS Forgiving Millions Before November 15th Deadline Americans who owe the IRS $10,000 or more may qualify for the Fresh Start Program. Eligibility is determined during the qualification process.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Apply Now](https://freshstartinfo.org/january-tax-relief-deadline "Monday: IRS Forgiving Millions Before November 15th Deadline")
 
-![Image 52: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
+Undo
+
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+
+Undo
+
+![Image 51: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
 *   [Terms of Use](https://disneytermsofuse.com/english/)
 *   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/)
@@ -430,7 +457,7 @@ GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit 
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
 
-![Image 53: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+![Image 52: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
 
 ## Notice of Right to Opt Out of Sale/Sharing
 
@@ -468,5 +495,5 @@ Consent Leg.Interest
 
 Submit
 
-[![Image 54: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+[![Image 53: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
