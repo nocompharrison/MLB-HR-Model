@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-09 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-09 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,27 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Available Monday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-news-available-monday-538368)
+**G** Indiana Pacers
+November 9, 2026
+McConnell (hamstring) is available for Monday's game against Dallas, [Dustin Dopirak of The Indianapolis Star](https://x.com/DustinDopirak/status/2119937634944348301?a=f14AkY3_hYos4UH2eRM&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Ziaire Williams](https://www.rotowire.com/basketball/player/ziaire-williams-5400)[Starting sans Reaves](https://www.rotowire.com/basketball/headlines/ziaire-williams-news-starting-sans-reaves-538367)
+**F** Los Angeles Lakers
+November 9, 2026
+Williams [will start](https://x.com/Lakers/status/2119936242272129456?a=efzAGKx-mrFc45Xagzk&s=20) Monday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)[Joining starting five](https://www.rotowire.com/basketball/headlines/sion-james-news-joining-starting-five-538366)
+**F** Charlotte Hornets
+November 9, 2026
+James [will start](https://x.com/hornets/status/2119936668962898311?a=nhlQIVu5SlT1S70oI2M&s=20) Monday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Not starting Monday](https://www.rotowire.com/basketball/headlines/meleek-thomas-news-not-starting-monday-538365)
 **G** Cleveland Cavaliers
@@ -180,27 +201,6 @@ Watford (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Rep
 Knee
 November 9, 2026
 Murphy (knees) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_03_45PM.pdf) for Monday's game against Golden State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Brayden Burries](https://www.rotowire.com/basketball/player/brayden-burries-6967)[Holding down starting job](https://www.rotowire.com/basketball/headlines/brayden-burries-news-holding-down-starting-job-538340)
-**G** Milwaukee Bucks
-November 9, 2026
-Burries logged 13 points (5-11 FG, 1-4 3Pt, 2-2 FT), eight rebounds, four assists and one block in 29 minutes during Sunday's 117-97 loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)[Goes for season-high 10 points](https://www.rotowire.com/basketball/headlines/ousmane-dieng-news-goes-for-season-high-10-points-538339)
-**F** Milwaukee Bucks
-November 9, 2026
-Dieng accumulated 10 points (3-3 FG, 2-2 3Pt, 2-2 FT) and one rebound in 15 minutes during Sunday's 117-97 loss to the Celtics.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Malik Monk](https://www.rotowire.com/basketball/player/malik-monk-4117)[Chips in nine points](https://www.rotowire.com/basketball/headlines/malik-monk-news-chips-in-nine-points-538338)
-**G** Sacramento Kings
-November 9, 2026
-Monk totaled nine points (3-9 FG, 0-3 3Pt, 3-4 FT), two rebounds, three assists and one steal in 21 minutes during Sunday's 114-108 loss to Miami.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

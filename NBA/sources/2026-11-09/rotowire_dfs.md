@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-team-total-picks-monday-nov-9-145928 | fetched: 2026-11-09 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-team-total-picks-monday-nov-9-145928 | fetched: 2026-11-09 18:50 ET -->
 
 # Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 9
 Get the best NBA bets today, with expert picks on Trae Young’s made threes and a Hornets team total under, plus odds from top sportsbooks for Monday’s Nov. 9 NBA slate.
@@ -29,7 +29,7 @@ Trae Young Under 2.5 3-Pointers-210
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $2.38](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:46 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ### **Hornets team total U102.5 vs. Cavaliers (-110)**
 _DraftKings Sportsbook, 5:02 PM ET_
 **Nick Whalen:** This may be the ultimate low-hanging-fruit play tonight, but we're likely looking at a starting lineup of [Coby White](https://www.rotowire.com/basketball/player/coby-white-4801) (minutes limit), [Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454), [Sion James](https://www.rotowire.com/basketball/player/sion-james-6582), [Naz Reid](https://www.rotowire.com/basketball/player/naz-reid-4806) and [Ryan Kalkbrenner](https://www.rotowire.com/basketball/player/ryan-kalkbrenner-6567), as [Brandon Miller](https://www.rotowire.com/basketball/player/brandon-miller-5896), Ken Knueppel, [Dennis Schroder](https://www.rotowire.com/basketball/player/dennis-schroder-3444) and [Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708) are sidelined. Thus far, Charlotte has the worst offense in the NBA by a full 3.0 points per 100, and they're playing at the second-slowest pace in the league. Cleveland has been about league-average defensively, but I'm simply not sure where the scoring comes from for Charlotte. Entering Monday, the Hornets have scored fewer than 90 points four times in 10 games, while the rest of the NBA has done that only three times combined.
