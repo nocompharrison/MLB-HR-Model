@@ -1,4 +1,4 @@
-<!-- source: https://barttorvik.com/schedule.php?date=20261109 | fetched: 2026-11-09 11:18 ET -->
+<!-- source: https://barttorvik.com/schedule.php?date=20261109 | fetched: 2026-11-09 17:03 ET -->
 
 2027 2027; 2026; 2025; 2024; 2023; 2022; 2021; 2020; 2019; 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008;
 Click Here or Go Landscape for Full Site Layout
@@ -11,7 +11,7 @@ Conf.:  ALL NCAA-T Conf. Trny H.Maj. Mid Maj. A10 ACC AE ASun Amer B10 B12 BE BS
 |  06:30 PM  |  25 [Indiana](https://barttorvik.com/team.php?team=Indiana&year=2027)   
 vs 70 [Syracuse](https://barttorvik.com/team.php?team=Syracuse&year=2027) FS1  | [Indiana -5.1,  
 77-71 (69%)](https://barttorvik.com/trank.php?year=2027&t1l=Indiana&t2l=Syracuse&)  | 68  | [](https://barttorvik.com/box.php?muid=IndianaSyracuse11-9&year=2027)  |  
-|  09:30 PM  |  104 [Charlotte](https://barttorvik.com/team.php?team=Charlotte&year=2027)   
+|  09:00 PM  |  104 [Charlotte](https://barttorvik.com/team.php?team=Charlotte&year=2027)   
 vs 73 [Seton Hall](https://barttorvik.com/team.php?team=Seton+Hall&year=2027) ESPN+  | [Seton Hall -3.3,  
 72-68 (63%)](https://barttorvik.com/trank.php?year=2027&t1l=Charlotte&t2l=Seton+Hall&)  | 62  | [](https://barttorvik.com/box.php?muid=CharlotteSeton+Hall11-9&year=2027)  |  
 |  07:00 PM  |  74 [Minnesota](https://barttorvik.com/team.php?team=Minnesota&year=2027)   
@@ -23,7 +23,7 @@ at 42 [Purdue](https://barttorvik.com/team.php?team=Purdue&year=2027) FS1  | [Pu
 |  06:30 PM  |  164 [Howard](https://barttorvik.com/team.php?team=Howard&year=2027)   
 at 125 [Penn](https://barttorvik.com/team.php?team=Penn&year=2027) ESPN+  | [Penn -7.3,  
 82-75 (74%)](https://barttorvik.com/trank.php?year=2027&t1l=Howard&t2l=Penn&)  | 48  | [](https://barttorvik.com/box.php?muid=HowardPenn11-9&year=2027)  |  
-|  12:00 AM  |  182 [Portland](https://barttorvik.com/team.php?team=Portland&year=2027)   
+|  11:59 PM  |  182 [Portland](https://barttorvik.com/team.php?team=Portland&year=2027)   
 at 130 [Hawaii](https://barttorvik.com/team.php?team=Hawaii&year=2027) MW+  | [Hawaii -8.0,  
 81-73 (77%)](https://barttorvik.com/trank.php?year=2027&t1l=Portland&t2l=Hawaii&)  | 45  | [](https://barttorvik.com/box.php?muid=PortlandHawaii11-9&year=2027)  |  
 |  07:30 PM  |  224 [Oakland](https://barttorvik.com/team.php?team=Oakland&year=2027)   
@@ -114,7 +114,7 @@ at 81 [Washington](https://barttorvik.com/team.php?team=Washington&year=2027) BT
 at 84 [Akron](https://barttorvik.com/team.php?team=Akron&year=2027)  | [Akron (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Muskingum&t2l=Akron&)  | 3  | [](https://barttorvik.com/box.php?muid=MuskingumAkron11-9&year=2027)  |  
 |  07:30 PM  |  0 [Biblical Stud. (TX)](https://barttorvik.com/team.php?team=Biblical+Stud.+%28TX%29&year=2027)   
 at 80 [McNeese St.](https://barttorvik.com/team.php?team=McNeese+St.&year=2027)  | [McNeese St. (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Biblical+Stud.+%28TX%29&t2l=McNeese+St.&)  | 2  | [](https://barttorvik.com/box.php?muid=Biblical+Stud.+%28TX%29McNeese+St.11-9&year=2027)  |  
-|  07:00 PM  |  0 [Georgia Gwinnett](https://barttorvik.com/team.php?team=Georgia+Gwinnett&year=2027)   
+|  06:00 PM  |  0 [Georgia Gwinnett](https://barttorvik.com/team.php?team=Georgia+Gwinnett&year=2027)   
 at 260 [Alabama St.](https://barttorvik.com/team.php?team=Alabama+St.&year=2027)  | [Alabama St. (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Georgia+Gwinnett&t2l=Alabama+St.&)  | -2  | [](https://barttorvik.com/box.php?muid=Georgia+GwinnettAlabama+St.11-9&year=2027)  |  
 |  08:00 PM  |  0 [Fisk](https://barttorvik.com/team.php?team=Fisk&year=2027)   
 at 191 [Tennessee St.](https://barttorvik.com/team.php?team=Tennessee+St.&year=2027) ESPN+  | [Tennessee St. (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Fisk&t2l=Tennessee+St.&)  | -4  | [](https://barttorvik.com/box.php?muid=FiskTennessee+St.11-9&year=2027)  |  
@@ -137,7 +137,7 @@ at 344 [Loyola MD](https://barttorvik.com/team.php?team=Loyola+MD&year=2027)  | 
 |  07:00 PM  |  0 [Baptist U. (FL)](https://barttorvik.com/team.php?team=Baptist+U.+%28FL%29&year=2027)   
 at 361 [West Florida](https://barttorvik.com/team.php?team=West+Florida&year=2027)  | [West Florida (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Baptist+U.+%28FL%29&t2l=West+Florida&)  | -15  | [](https://barttorvik.com/box.php?muid=Baptist+U.+%28FL%29West+Florida11-9&year=2027)  |  
 |  11:00 AM  |  0 [Cheyney](https://barttorvik.com/team.php?team=Cheyney&year=2027)   
-at 359 [Coppin St.](https://barttorvik.com/team.php?team=Coppin+St.&year=2027)  | [Coppin St. (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Cheyney&t2l=Coppin+St.&)  | -15  | [](https://barttorvik.com/box.php?muid=CheyneyCoppin+St.11-9&year=2027)  |  
+at 359 [Coppin St.](https://barttorvik.com/team.php?team=Coppin+St.&year=2027)  | [Coppin St. (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Cheyney&t2l=Coppin+St.&)  | -15  | [Coppin St., 90-53](https://barttorvik.com/box.php?muid=CheyneyCoppin+St.11-9&year=2027)  |  
 |  06:00 PM  |  0 [Hiram](https://barttorvik.com/team.php?team=Hiram&year=2027)   
 at 352 [Canisius](https://barttorvik.com/team.php?team=Canisius&year=2027) ESPN+  | [Canisius (100%)](https://barttorvik.com/trank.php?year=2027&t1l=Hiram&t2l=Canisius&)  | -16  | [](https://barttorvik.com/box.php?muid=HiramCanisius11-9&year=2027)  |  
 |  07:00 PM  |  0 [Simpson](https://barttorvik.com/team.php?team=Simpson&year=2027)   

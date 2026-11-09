@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-09 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-09 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,49 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
+[Luke Northweather](https://www.rotowire.com/cbasketball/player/luke-northweather-20769)
+Good to go vs. SIU-Edwardsville
+**C** Missouri
+November 9, 2026
+Northweather (undisclosed) is available against SIU-Edwardsville on Monday night, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2119905394609008659?a=1KTZxmUHGMTphDcY-6Y&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
+Won't suit up vs. Indiana
+**G** Syracuse
+Hamstring
+November 9, 2026
+Tobiason (hamstring) is out against Indiana on Monday night, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2119901322799439992?a=2zxSqrq9hka5_kPpm3Q&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Kansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas.png?v=16)
+[Melvin Council Jr.](https://www.rotowire.com/cbasketball/player/melvin-council-jr-22939)
+Needs surgery on broken foot
+**G** Kansas
+Foot
+November 9, 2026
+Council broke his right foot and will undergo surgery, per [The Field of 68](https://x.com/TheFieldOf68/status/2119888643481625071?a=0ikjozIFB8FzI3lpxPA&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
+[Onyeka Joe Agu](https://www.rotowire.com/cbasketball/player/onyeka-joe-agu-28061)
+Sits out win
+**C** USC
+Groin
+November 9, 2026
+Agu (groin) didn't play in USC's 93-86 win over Wichita State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=16)
+[Joseph Tugler](https://www.rotowire.com/cbasketball/player/joseph-tugler-22307)
+Tallies 16, dominates defensively
+**F** Houston
+November 9, 2026
+Tugler accumulated 16 points (7-12 FG, 2-2 FT), three rebounds, one assist, four blocks and two steals across 27 minutes during Sunday's 86-68 win over California.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
 [Darius Ratliff](https://www.rotowire.com/cbasketball/player/darius-ratliff-28093)
 Solid showing in win
@@ -168,47 +211,6 @@ Scores 24, hit five threes
 **F** Boise State
 November 8, 2026
 Ahrens registered 24 points (9-18 FG, 5-11 3Pt, 1-4 FT), five rebounds, one assist and one steal in 29 minutes during Sunday's 100-81 victory over Butler.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
-[Aginaldo Neto](https://www.rotowire.com/cbasketball/player/aginaldo-neto-26438)
-Hits four treys, scores 25
-**G** Boise State
-November 8, 2026
-Neto closed Sunday's 100-81 victory over Butler with 25 points (10-20 FG, 4-5 3Pt, 1-1 FT), six rebounds, five assists, one block and three steals in 39 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
-[Jordan Smith Jr.](https://www.rotowire.com/cbasketball/player/jordan-smith-jr-28075)
-Scores team-high 19 points
-**G** Arkansas
-November 8, 2026
-Smith Jr. produced 19 points (8-17 FG, 1-2 3Pt, 2-3 FT), two rebounds, three assists, one block and four steals in 31 minutes during Sunday's 91-72 loss to Virginia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Houston](https://assets.rotowire.com/images/teamlogo/cbasketball/Houston.png?v=16)
-[Chase McCarty](https://www.rotowire.com/cbasketball/player/chase-mccarty-23488)
-Not expected to play Sunday
-**F** Houston
-Knee
-November 8, 2026
-McCarty (knee) is not expected to play in Sunday's contest against California, per [Chris Baldwin of PaperCity Magazine](https://x.com/ChrisYBaldwin/status/2119516800312393776).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
-[Billy Richmond](https://www.rotowire.com/cbasketball/player/billy-richmond-23642)
-Scores 11, grabs seven boards
-**F** Arkansas
-November 8, 2026
-Richmond amassed 11 points (4-6 FG, 0-2 3Pt, 3-4 FT), seven rebounds, four assists and three blocks in 31 minutes during Sunday's 91-72 loss to Virginia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
-[Kory Mincy](https://www.rotowire.com/cbasketball/player/kory-mincy-23123)
-Leads Gamecocks with 19 points
-**G** South Carolina
-November 8, 2026
-Mincy provided 19 points (6-11 FG, 2-3 3Pt, 5-6 FT), four rebounds, two assists, one block and three steals over 33 minutes during Sunday's 78-68 win over Southeast Missouri State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
