@@ -1,5 +1,5 @@
-,,,,,,Last Refresh:,2026-11-10 10:05,,RB Proj,DraftEdge,DFF Proj,B3 Proj,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,Ceiling,Avg Proj,Max,Total
-0,,,,,,History Date:,2026-10-20,,0.09,0.1,0.14,0,0.1,0.1,0.08,0.07,0.05,0.16,0.05,0,0.06,1
+,,,,,,Last Refresh:,2026-11-10 10:05,,RB Proj,DraftEdge,DFF Proj,Market,NumberFire,SportsLine,Sims,My Proj,Linueps,FantasyLabs,Ceiling,Avg Proj,Max,Total
+0,,,,,,History Date:,2026-10-20,,0.07,0.1,0.14,0.1,0.07,0.09,0.1,0.05,0.03,0.15,0.04,0,0.06,1.0000000000000002
 Optimal Lineup - Weighted,Pos,Salary,Projection,2025-02-02 14:53,Result,,,,,,,,,,,,,,,,,
 Cade Cunningham,PG,10200,52.55675174865288,,51.1,,Metric,Source,Value,Accuracy,,,,,,,,,,,,
 James Harden,PG,9200,46.89673475346196,,48.5,,Best Accuracy (Lowest Avg Error),Market,-2,1.0064453754431195,,,,,,,,,,,,
@@ -68302,3 +68302,15 @@ RJ Barrett,F/C,7300,44.1,,27.6,,,,,,,,,,,,,,,,,
 Brandin Podziemski,UTIL,6200,31.18,,39.4,,,,,,,,,,,,,,,,,
 Ja'Kobe Walter,UTIL,4900,26.43,,18.2,,,,,,,,,,,,,,,,,
 Total,,60000,303.16,,278.6,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Optimal Lineup - Sims,Pos,Salary,Projection,2026-11-09 18:55,Result,,,,,,,,,,,,,,,,,
+Luka Doncic,PG,12400,69.45,,71.6,,,,,,,,,,,,,,,,,
+Ty Jerome,SG,7800,43.2,,34.2,,,,,,,,,,,,,,,,,
+RJ Barrett,SF,7300,48.23,,27.6,,,,,,,,,,,,,,,,,
+Jarrett Allen,PF,5800,35.650000000000006,,23.9,,,,,,,,,,,,,,,,,
+Walker Kessler,C,7900,45.58,,41,,,,,,,,,,,,,,,,,
+Jamal Shead,G/F,5100,29.85,,43.1,,,,,,,,,,,,,,,,,
+Daniel Gafford,F/C,4800,27.710000000000004,,17.9,,,,,,,,,,,,,,,,,
+Ja'Kobe Walter,UTIL,4900,28.889999999999997,,18.2,,,,,,,,,,,,,,,,,
+Daniss Jenkins,UTIL,4000,24.73,,51.2,,,,,,,,,,,,,,,,,
+Total,,60000,353.29,,328.7,,,,,,,,,,,,,,,,,
