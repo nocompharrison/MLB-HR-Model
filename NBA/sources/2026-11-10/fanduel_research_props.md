@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10 | fetched: 2026-11-10 18:34 ET -->
+<!-- source: https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10 | fetched: 2026-11-10 18:50 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -72,7 +72,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Props Today: 3 NBA Player Prop Bets for Tuesday, Nov. 10](https://www.fanduel.com/research/nba-props-today-tuesday-nov-10)
-1h
+2h
 Tuesday's best NBA player props. Which NBA prop bets should be on your radar tonight?
 [](https://www.fanduel.com/research/nba-props-today-tuesday-nov-10)
 [NBA](https://www.fanduel.com/research/nba)
@@ -87,7 +87,7 @@ NBA player prop bets to target today. What are the best NBA props for Tuesday?
 [](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-tuesday-nov-10)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 3 NBA Predictions and Best Bets for Tuesday, Nov. 10](https://www.fanduel.com/research/nba-picks-today-3-nba-predictions-and-best-bets-for-tuesday-nov-10)
-8h
+9h
 NBA betting picks and predictions for Tuesday. What are today's best NBA bets?
 [](https://www.fanduel.com/research/nba-picks-today-3-nba-predictions-and-best-bets-for-tuesday-nov-10)
 

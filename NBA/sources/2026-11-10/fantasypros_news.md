@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-10 18:34 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-10 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Kel'el Ware](https://images.fantasypros.com/images/players/nba/6162/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kelel-ware.php)
+C - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/kelel-ware.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kelel-ware.php)  
+[» More News](https://www.fantasypros.com/nba/news/kelel-ware.php)
+[Kel'el Ware (ankle) available Tuesday ](https://www.fantasypros.com/nba/news/619110/kelel-ware-ankle-available-tuesday.php)  
+
+Tue, Nov 10th 6:39pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kel'el Ware is available for Tuesday’s game against the Knicks. 
+**_Fantasy Impact:_** Ware is good to go despite being a late add to the injury report. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tyler Herro](https://images.fantasypros.com/images/players/nba/4496/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tyler-herro.php)
+G - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/tyler-herro.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tyler-herro.php)  
+[» More News](https://www.fantasypros.com/nba/news/tyler-herro.php)
+[Tyler Herro (leg) ruled out Tuesday ](https://www.fantasypros.com/nba/news/619109/tyler-herro-leg-ruled-out-tuesday.php)  
+
+Tue, Nov 10th 6:38pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tyler Herro has been ruled out for Tuesday’s game against the Knicks. 
+**_Fantasy Impact:_** Herro will be sidelined after being listed as questionable. Ryan Rollins should see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
+[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
+[Josh Hart (illness) ruled out Tuesday ](https://www.fantasypros.com/nba/news/619108/josh-hart-illness-ruled-out-tuesday.php)  
+
+Tue, Nov 10th 6:37pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Josh Hart has been ruled out for Tuesday’s game against the Bucks. 
+**_Fantasy Impact:_** Hart will be sidelined as expected after being listed as doubtful. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
 G - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
@@ -242,48 +284,6 @@ Tue, Nov 10th 5:36pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Tobe Awaka is listed as questionable for Wednesday’s game against the Spurs. 
 **_Fantasy Impact:_** Awaka remains off the fantasy radar when he is healthy. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Immanuel Quickley](https://images.fantasypros.com/images/players/nba/5141/headshot/100x100.png)](https://www.fantasypros.com/nba/players/immanuel-quickley.php)
-G - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/immanuel-quickley.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/immanuel-quickley.php)  
-[» More News](https://www.fantasypros.com/nba/news/immanuel-quickley.php)
-[Immanuel Quickley (hamstring) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/619090/immanuel-quickley-hamstring-listed-questionable-wednesday.php)  
-
-Tue, Nov 10th 5:01pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Immanuel Quickley is listed as questionable for Wednesday’s game against the Celtics. 
-**_Fantasy Impact:_** Quickley is looking to avoid missing a third straight game. Jamal Shead has been starting in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
-[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
-[Scottie Barnes (groin) ruled out Wednesday ](https://www.fantasypros.com/nba/news/619089/scottie-barnes-groin-ruled-out-wednesday.php)  
-
-Tue, Nov 10th 5:00pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Scottie Barnes has been ruled out for Wednesday’s game against the Celtics. 
-**_Fantasy Impact:_** Barnes will remain sidelined. He will miss his third straight game for Toronto. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Brandon Williams](https://images.fantasypros.com/images/players/nba/5427/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandon-williams.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/brandon-williams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/brandon-williams.php)  
-[» More News](https://www.fantasypros.com/nba/news/brandon-williams.php)
-[Brandon Williams (hamstring) to miss at least one week](https://www.fantasypros.com/nba/news/619086/brandon-williams-hamstring-to-miss-least-one-week.php)  
-
-Tue, Nov 10th 4:26pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Brandon Williams has a mild left hamstring strain and will be re-evaluated next week. (Source: [Anthony Slater on Twitter](https://x.com/anthonyVslater/status/2120264698604245044))
-**_Fantasy Impact:_** Williams suffered the injury in Monday's win over the Pelicans. He had been playing a big role off the bench for Golden State. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

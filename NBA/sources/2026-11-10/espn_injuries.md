@@ -1,8 +1,10 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-10 18:34 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-10 18:50 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
+
+Published Time: Thu, 13 Mar 2025 04:28:00 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)

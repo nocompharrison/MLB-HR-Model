@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-10 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-10 18:50 ET -->
 
 # NBA DFS Picks Today
 November 10, 2026
@@ -73,19 +73,19 @@ Implied total vs. the slate _Lowest_ _Highest_
 **MIL @ NYK**
 O/U 221.57:30 PM ET
 BucksExpectedAway
-_Implied_**102.5** _Spread_**+16.5**  
+_Implied_**103.0** _Spread_**+15.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Myles Turner  | $5,000  | 28.1  |  
+| C  | Myles Turner  | $5,000  | 28.0  |  
 | PF  | Kyle Kuzma  | $4,600  | 28.5  |  
 | PG  | Ryan Rollins  | $5,500  | 25.8  |  
-| SF  | Jaime Jaquez  | $5,800  | 30.2  |  
-| SG  | Brayden Burries  | $4,800  | 31.7  |  
+| SF  | Jaime Jaquez  | $5,800  | 30.1  |  
+| SG  | Brayden Burries  | $4,800  | 31.6  |  
 KnicksExpectedHome
-_Implied_**119.0** _Spread_**-16.5**  
+_Implied_**118.5** _Spread_**-15.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karl-Anthony Towns  | $8,900  | 47.8  |  
+| C  | Karl-Anthony Towns  | $8,900  | 47.7  |  
 | PF  | OG Anunoby  | $6,500  | 33.7  |  
 | PG  | Jalen Brunson  | $8,500  | 43.6  |  
 | SF  | Landry Shamet  | $4,400  | 23.6  |  
@@ -183,14 +183,14 @@ AllGuardsForwardsCenters
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Isaiah CollierUTA - PG  | vs MIA  | $4,400  | 29  | 35.9  | **8.16**  |  
 | 2  |  Brice SensabaughUTA - SG  | vs MIA  | $3,500  | 23  | 24.6  | **7.04**  |  
-| 3  |  Brayden BurriesMIL - PG  | @ NYK  | $4,800  | 32  | 31.7  | **6.60**  |  
-| 4  |  Kyle KuzmaMIL - PF  | @ NYK  | $4,600  | 30  | 28.5  | **6.20**  |  
-| 5  |  Myles TurnerMIL - C  | @ NYK  | $5,000  | 29  | 28.1  | **5.61**  |  
+| 3  |  Brayden BurriesMIL - PG  | @ NYK  | $4,800  | 32  | 31.6  | **6.59**  |  
+| 4  |  Kyle KuzmaMIL - PF  | @ NYK  | $4,600  | 30  | 28.5  | **6.19**  |  
+| 5  |  Myles TurnerMIL - C  | @ NYK  | $5,000  | 29  | 28.0  | **5.60**  |  
 | 6  |  Mo BambaUTA - C  | vs MIA  | $3,600  | 18  | 19.7  | **5.48**  |  
 | 7  |  Jalen GreenPHX - SG  | vs LAC  | $6,000  | 34  | 32.6  | **5.43**  |  
 | 8  |  Rui HachimuraLAC - PF  | @ PHX  | $6,000  | 31  | 32.6  | **5.43**  |  
 | 9  |  Wendell CarterORL - C  | @ SAC  | $6,600  | 34  | 35.5  | **5.39**  |  
-| 10  |  Karl-Anthony TownsNYK - PF  | vs MIL  | $8,900  | 33  | 47.8  | **5.37**  |  
+| 10  |  Landry ShametNYK - PF  | vs MIL  | $4,400  | 30  | 23.6  | **5.36**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -214,15 +214,15 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** BOS@PHI, LAC@PHX, MIA@UTA, MIL@NYK, ORL@SAC  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Brayden BurriesMIL · PG/SG · MIL@NYK  | $4,800  | 10.7  | 31.7  | **59.2**  |   | +15.9  | +5  | 97  |  
-| 2  |  Mikal BridgesNYK · SF · MIL@NYK  | $5,000  | 7.6  | 26.3  | **51.1**  |   | +6.3  | +6  | 93  |  
+| 1  |  Brayden BurriesMIL · PG/SG · MIL@NYK  | $4,800  | 10.7  | 31.6  | **59.1**  |   | +15.9  | +5  | 97  |  
+| 2  |  Mikal BridgesNYK · SF · MIL@NYK  | $5,000  | 7.6  | 26.3  | **51.0**  |   | +6.3  | +6  | 93  |  
 | 3  |  OG AnunobyNYK · PF · MIL@NYK  | $6,500  | 11.8  | 33.7  | **61.8**  |   | +5.7  | +5  | 89  |  
 | 4  |  Wendell CarterORL · C · ORL@SAC  | $6,600  | 13.1  | 35.5  | **64.2**  |   | +7.3  | +3  | 87  |  
 | 5  |  Dean WadePHI · SF/PF · BOS@PHI  | $3,600  | 3.7  | 17.0  | **36.6**  |   | +2.4  | +9  | 85  |  
 | 6  |  Landry ShametNYK · PF · MIL@NYK  | $4,400  | 6.9  | 23.6  | **46.6**  |   | +6.4  | +3  | 84  |  
 | 7  |  Andrew WigginsMIA · SF · MIA@UTA  | $5,100  | 7.3  | 24.8  | **48.7**  |   | +3.2  | +5  | 83  |  
 | 8  |  Anthony BlackORL · PG/SG · ORL@SAC  | $6,900  | 12.7  | 34.4  | **62.9**  |   | +3.7  | +3  | 80  |  
-| 9  |  Myles TurnerMIL · C · MIL@NYK  | $5,000  | 9.6  | 28.1  | **53.4**  |   | +8.6  | +1  | 79  |  
+| 9  |  Myles TurnerMIL · C · MIL@NYK  | $5,000  | 9.5  | 28.0  | **53.3**  |   | +8.5  | +1  | 79  |  
 | 10  |  Josh GreenUTA · SG/SF · MIA@UTA  | $4,000  | 4.9  | 19.2  | **39.6**  |   | +2.5  | +3  | 77  |  
 | 11  |  Tristan da SilvaORL · SF/PF · ORL@SAC  | $5,700  | 8.4  | 27.1  | **52.1**  |   | +2.0  | +4  | 77  |  
 | 12  |  Jase RichardsonORL · PG/SG · ORL@SAC  | $4,700  | 5.4  | 20.9  | **42.8**  |   | +0.3  | +7  | 77  |  
