@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10 | fetched: 2026-11-10 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10 | fetched: 2026-11-10 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -74,7 +74,7 @@ Today
 /
 8:00 PM on NBC/Peacock
 •
-20.7k bets
+29.7k bets
 T.Maxey o29.5 Pts+Ast
 -105 (1u)
 ![DK NJ](https://assets.actionnetwork.com/603379_Primary.png)
@@ -82,17 +82,21 @@ Bet Now
 Copy Bet
 https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-celtics-knicks-vs-bucks-on-tuesday-november-10
 More
-![MIN](https://assets.actionnetwork.com/640928_Lynx.png)
-![NY](https://static.sprtactn.co/teamlogos/wnba/100/nyl.png)
-Lynx @ Liberty Picks
-Sep 29th
+![OKC](https://static.sprtactn.co/teamlogos/nba/100/okc.png)
+![POR](https://assets.actionnetwork.com/312105_Blazers.png)
+Thunder @ Trail Blazers Picks
+Today
 /
-8:30 PM on USA
+11:00 PM on NBC/Peacock
 •
-13.9k bets
-Fiebich Double Double
-+4800 (0.05u)
+15.7k bets
+A.Mitchell o18.5 Pts
+-115 (1u)
+![BetMGM NJ](https://assets.actionnetwork.com/582051_Primary.png)
+Bet Now
 Copy Bet
+The Thunder face off against the Portland trailblazers tonight, and what should be an exciting game between two Western conference standouts. The Blazers play at the eighth fastest pace in the league, and this presents a pace up opportunity for the Oklahoma City Thunder. Since Jdub, Chet, and Wallace went down. Mitchell has been fantastic for OKC. He’s averaging 22.1 points per game without them compared to just 11.3 with them. His Usage role in the office has expanded exponentially. The blazers remain weak against pick-and-roll ball handlers and Mitchell is excellent in that role alongside SGA. He also generates contact and should get to the line against this Blazers team who plays physically. 
+More
 See All
 ## Magic vs. Kings
 [![Orlando Magic Logo](https://static.sprtactn.co/teamlogos/nba/100/orl.png)](https://www.actionnetwork.com/nba/odds/orlando-magic)
@@ -161,56 +165,56 @@ Thunder vs. Trail Blazers
 Right Arrow
 Shai Gilgeous-Alexander Over 32.5 Points (-114)
 ### Top Stories
-[![NBA Best Bets for 76ers vs Celtics, Knicks vs Bucks on Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/NBABestBets1110262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-celtics-knicks-vs-bucks-on-tuesday-november-10)
+[![NBA Best Bets for Celtics vs 76ers, Bucks vs Knicks, More \(Tuesday, Nov. 10\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets1110262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-celtics-knicks-vs-bucks-on-tuesday-november-10)
 NBA
-[NBA Best Bets for 76ers vs Celtics, Knicks vs Bucks on Tuesday, November 10](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-celtics-knicks-vs-bucks-on-tuesday-november-10)
+[NBA Best Bets for Celtics vs 76ers, Bucks vs Knicks, More (Tuesday, Nov. 10)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-celtics-knicks-vs-bucks-on-tuesday-november-10)
 Action Network Staff
-4 hours ago
+1 hour ago
 [![NBA Parlay Picks: SGP Predictions for Sixers vs Celtics, Kings vs Magic \(Tuesday, November 10\)](https://images.actionnetwork.com/blog/2026/11/jayjaycuff.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-sixers-vs-celtics-kings-vs-magic-tuesday-november-10)
 NBA
 [NBA Parlay Picks: SGP Predictions for Sixers vs Celtics, Kings vs Magic (Tuesday, November 10)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-sixers-vs-celtics-kings-vs-magic-tuesday-november-10)
 Alex Hinton
-1 hour ago
+3 hours ago
 [![NBA King of the Court Picks, Predictions for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/NBAKOTC1110.jpg)](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-10)
 NBA
 [NBA King of the Court Picks, Predictions for Tuesday, November 10](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-10)
 Matt Moore
-1 hour ago
+3 hours ago
 [![Celtics vs 76ers Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Celtics-76ers-11102026.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-philadelphia-76ers-prediction-pick-nba-odds-tuesday-november-10)
 NBA
 [Celtics vs 76ers Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/boston-celtics-vs-philadelphia-76ers-prediction-pick-nba-odds-tuesday-november-10)
 Michael Fiddle
-6 hours ago
+8 hours ago
 [![Bucks vs Knicks Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Bucks-Knicks-NBA-11_10.jpg)](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-new-york-knicks-prediction-pick-nba-odds-tuesday-november-10)
 NBA
 [Bucks vs Knicks Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-new-york-knicks-prediction-pick-nba-odds-tuesday-november-10)
 Action Network Staff
-4 hours ago
-[![Clippers vs Suns Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Clippers-Suns-11102026.jpg)](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-phoenix-suns-prediction-pick-nba-odds-tuesday-november-10)
+6 hours ago
+[![Clippers vs Suns Predictions, Odds, Picks: Horrific Schedule Spot for Phoenix](https://images.actionnetwork.com/blog/2026/11/Clippers-Suns-11102026.jpg)](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-phoenix-suns-prediction-pick-nba-odds-tuesday-november-10)
 NBA
-[Clippers vs Suns Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-phoenix-suns-prediction-pick-nba-odds-tuesday-november-10)
+[Clippers vs Suns Predictions, Odds, Picks: Horrific Schedule Spot for Phoenix](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-phoenix-suns-prediction-pick-nba-odds-tuesday-november-10)
 Andrew O'Connor-Watts
-6 hours ago
-[![Heat vs Jazz Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Heat-Jazz-NBA-11_10.jpg)](https://www.actionnetwork.com/nba/miami-heat-vs-utah-jazz-prediction-pick-nba-odds-tuesday-november-10)
+58 mins ago
+[![Heat vs Jazz Predictions, Odds, Picks: Don’t Overreact to Utah’s Injury Report](https://images.actionnetwork.com/blog/2026/11/Heat-Jazz-NBA-11_10.jpg)](https://www.actionnetwork.com/nba/miami-heat-vs-utah-jazz-prediction-pick-nba-odds-tuesday-november-10)
 NBA
-[Heat vs Jazz Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/miami-heat-vs-utah-jazz-prediction-pick-nba-odds-tuesday-november-10)
+[Heat vs Jazz Predictions, Odds, Picks: Don’t Overreact to Utah’s Injury Report](https://www.actionnetwork.com/nba/miami-heat-vs-utah-jazz-prediction-pick-nba-odds-tuesday-november-10)
 Michael Fiddle
-6 hours ago
+44 mins ago
 [![Magic vs Kings Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Magic-Kings-NBA-11_10.jpg)](https://www.actionnetwork.com/nba/orlando-magic-vs-sacramento-kings-prediction-pick-nba-odds-tuesday-november-10)
 NBA
 [Magic vs Kings Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/orlando-magic-vs-sacramento-kings-prediction-pick-nba-odds-tuesday-november-10)
 Brandon Kravitz
-6 hours ago
+8 hours ago
 [![NBA Prop Bet for Shai Gilgeous-Alexander on Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/PropBomb1110.jpg)](https://www.actionnetwork.com/nba/nba-prop-bet-for-shai-gilgeous-alexander-on-tuesday-november-10)
 NBA
 [NBA Prop Bet for Shai Gilgeous-Alexander on Tuesday, November 10](https://www.actionnetwork.com/nba/nba-prop-bet-for-shai-gilgeous-alexander-on-tuesday-november-10)
 Prop Bomb
-2 hours ago
+4 hours ago
 [![Thunder vs Trail Blazers Prediction, Pick, NBA Odds for Tuesday, November 10](https://images.actionnetwork.com/blog/2026/11/Thunder-Blazers-NBA-11_10.jpg)](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-portland-trail-blazers-prediction-pick-nba-odds-tuesday-november-10)
 NBA
 [Thunder vs Trail Blazers Prediction, Pick, NBA Odds for Tuesday, November 10](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-portland-trail-blazers-prediction-pick-nba-odds-tuesday-november-10)
 Andrew O'Connor-Watts
-5 hours ago
+7 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -218,5 +222,5 @@ Evan Abrams
 Nov 9, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2e798e8a-dfc9-42f6-abc7-382984acbd68&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7e054f5d-d86d-48ac-ac11-ad309d83f946&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=73&tw_session_id=1794344591260-542113614&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2e798e8a-dfc9-42f6-abc7-382984acbd68&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7e054f5d-d86d-48ac-ac11-ad309d83f946&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=73&tw_session_id=1794344591260-542113614&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1508fa70-faa0-4a57-96d8-a3b1ae070224&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7e054f5d-d86d-48ac-ac11-ad309d83f946&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=7492&tw_iframe_status=0&tw_pid_src=2&tw_session_count=73&tw_session_id=1794344591260-542113614&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1508fa70-faa0-4a57-96d8-a3b1ae070224&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7e054f5d-d86d-48ac-ac11-ad309d83f946&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=7492&tw_iframe_status=0&tw_pid_src=2&tw_session_count=73&tw_session_id=1794344591260-542113614&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fc47f534-de22-4316-bff7-cefa97853a6b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=19edbb06-5d08-40f3-836b-f3120b9a070f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=75&tw_session_id=1794351796042-544995364&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fc47f534-de22-4316-bff7-cefa97853a6b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=19edbb06-5d08-40f3-836b-f3120b9a070f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=75&tw_session_id=1794351796042-544995364&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a7d8e0e6-43fe-4332-8f8e-7431f29836d7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=19edbb06-5d08-40f3-836b-f3120b9a070f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=7457&tw_iframe_status=0&tw_pid_src=2&tw_session_count=75&tw_session_id=1794351796042-544995364&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a7d8e0e6-43fe-4332-8f8e-7431f29836d7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=19edbb06-5d08-40f3-836b-f3120b9a070f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-kentavious-caldwell-pope-shai-gilgeous-alexander-on-tuesday-november-10&tw_engaged_ms=7457&tw_iframe_status=0&tw_pid_src=2&tw_session_count=75&tw_session_id=1794351796042-544995364&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
