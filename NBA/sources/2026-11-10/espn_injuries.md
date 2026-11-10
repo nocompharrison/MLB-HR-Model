@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-10 11:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-10 16:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -239,6 +239,7 @@ NBC
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Kel'el Ware](https://www.espn.com/nba/player/_/id/5105623/kelel-ware) | C | Nov 10 | Day-To-Day | Nov 10: Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain. |
 | [Tyler Herro](https://www.espn.com/nba/player/_/id/4395725/tyler-herro) | G | Nov 10 | Day-To-Day | Nov 9: Herro (contusion) is listed as questionable for Tuesday's game against the Knicks. |
 
 ![Image 33: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
@@ -252,16 +253,15 @@ NBC
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 11 | Day-To-Day | Nov 10: Watford (ankle) is out for Monday's game versus Utah. |
-| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 11 | Day-To-Day | Nov 10: Murphy (knees) has been ruled out for Monday's game against Golden State. |
-| [Zion Williamson](https://www.espn.com/nba/player/_/id/4395628/zion-williamson) | F | Nov 11 | Day-To-Day | Nov 10: Williamson (rest) is out for Monday's game against the Warriors. |
+| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 13 | Out | Nov 10: Watford (ankle) is out for Wednesday's game against the Nets. |
+| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 11 | Day-To-Day | Nov 10: Murphy (knee) is probable for Wednesday's game against the Nets. |
 | [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 16 | Out | Nov 5: Missi (knee) is out for Friday's game against Minnesota. |
 
 ![Image 35: New York Knicks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&h=40&w=40)New York Knicks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 10 | Day-To-Day | Nov 9: Hart is questionable for Tuesday's game against the Bucks due to right ankle soreness. |
+| [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 10 | Day-To-Day | Nov 10: Hart is doubtful for Tuesday's game against the Bucks due to an illness. |
 
 ![Image 36: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
@@ -277,6 +277,7 @@ NBC
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Tristan da Silva](https://www.espn.com/nba/player/_/id/4702382/tristan-da-silva) | F | Nov 10 | Day-To-Day | Nov 10: Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain. |
 | [Jalen Suggs](https://www.espn.com/nba/player/_/id/4432165/jalen-suggs) | G | Nov 16 | Out | Nov 9: Suggs (knee) has been ruled out for Tuesday's game against the Kings. |
 | [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Nov 16 | Out | Nov 9: Isaac (knee) is out for Tuesday's game against Sacramento. |
 | [Paolo Banchero](https://www.espn.com/nba/player/_/id/4432573/paolo-banchero) | F | Nov 22 | Out | Oct 24: Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports. |
@@ -295,7 +296,6 @@ NBC
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jordan Goodwin](https://www.espn.com/nba/player/_/id/4278402/jordan-goodwin) | G | Nov 10 | Out | Nov 9: Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports. |
 | [Mark Williams](https://www.espn.com/nba/player/_/id/4701232/mark-williams) | C | Feb 3 | Out | Sep 11: Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports. |
 
 ![Image 40: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
@@ -327,18 +327,18 @@ NBC
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 10: Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports. |
 | [Immanuel Quickley](https://www.espn.com/nba/player/_/id/4395724/immanuel-quickley) | G | Nov 11 | Day-To-Day | Nov 9: Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports. |
 | [Collin Murray-Boyles](https://www.espn.com/nba/player/_/id/5093267/collin-murray-boyles) | F | Nov 11 | Day-To-Day | Nov 9: Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports. |
 | [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 11 | Day-To-Day | Nov 9: Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 15 | Out | Nov 8: Bittle (foot) is listed as out for Monday's game against Memphis. |
-| [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 3: Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports. |
 
 ![Image 44: Utah Jazz](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png&h=40&w=40)Utah Jazz
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Lauri Markkanen](https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen) | F | Nov 11 | Out | Nov 10: Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain. |
 | [Keyonte George](https://www.espn.com/nba/player/_/id/4433627/keyonte-george) | G | Nov 11 | Out | Nov 9: George (ankle) has been ruled out for Tuesday's game against the Heat. |
-| [Lauri Markkanen](https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen) | F | Nov 10 | Day-To-Day | Nov 9: Markkanen (wrist) is questionable for Tuesday's game against Miami. |
 | [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
 
@@ -356,41 +356,65 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Iowa: Worst ZIP Codes For Car Insurance (Is Yours On The List?)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Iowa: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+[](https://www.webroot.com/campaigns/seasonal)[Up to 50% Off This Holiday Season Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Up to 50% Off This Holiday Season")
 
-[](https://www.grammarly.com/a)[Perfect Tone. Authentic Voice.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.grammarly.com/a "Perfect Tone. Authentic Voice.")
+Undo
 
-[](https://lucinn.com/pages/itchy-skin-after-shower)[What Happens When Skin Barrier Weakens [Learn More]Lucinn | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://lucinn.com/pages/itchy-skin-after-shower "What Happens When Skin Barrier Weakens [Learn More]")
+[](https://www.webroot.com/campaigns/seasonal)[Hackers Want You Unprotected - Do This Webroot | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Buy Now](https://www.webroot.com/campaigns/seasonal "Hackers Want You Unprotected - Do This")
 
-[](https://censeumsacquence.com/f911afae-3208-4d64-b2a9-1c0274dce48d)[Physical Therapists: Why Seniors Lose Leg Power & The Simple Fix!Don't Miss This Simple Daily Habit That Could Make a Difference!Creatine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://censeumsacquence.com/f911afae-3208-4d64-b2a9-1c0274dce48d "Physical Therapists: Why Seniors Lose Leg Power & The Simple Fix!")
+Undo
 
-[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in Iowa (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in Iowa (Is Yours On The List?)")
+[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
 
-[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+Undo
 
-[](https://www.allrecipes.com/creamy-double-cheddar-mac-and-cheese-12166904)[Campbell’s® Creamy Double Cheddar Mac & Cheese For creamy, cheesy Mac & Cheese that the whole family can agree on, there’s only Campbell’s®. Get the recipe for your holiday table.All Recipes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.allrecipes.com/creamy-double-cheddar-mac-and-cheese-12166904 "Campbell’s® Creamy Double Cheddar Mac & Cheese")
+[](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0)[Worst Car Insurance Rates in Oregon See how car insurance costs compare and find out where drivers may be paying more.EasyHome Auto | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0 "Worst Car Insurance Rates in Oregon")
 
-[](https://lp.nuviasmiles.com/denver-eval-native-2)[Council Bluffs: 24 Hour Dental Implants Take our 1-minute quiz to find out if you're eligible for our revolutionary 24-hour dental implants. Get a new smile in just 24 Hrs Nuvia Dental Implant Center | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://lp.nuviasmiles.com/denver-eval-native-2 "Council Bluffs: 24 Hour Dental Implants")
+Undo
 
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Who Charges The Most For Car Insurance In Iowa? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Who Charges The Most For Car Insurance In Iowa? (Check Your ZIP Code)")
+[](https://www.temu.com/ul/kuiper/un1.html)[Everything Must Go on Temu Find quality items at prices you will love. Download the Temu app.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Everything Must Go on Temu")
+
+Undo
+
+[](https://www.walkergrey.com/products/men-can%E2%80%99t-get-enough-of-this-cozy-cashmere-jacket-1)[The Cozy Cashmere Jacket Every Man Wants!The jacket that looks effortlessly cool and feels unbelievably soft — no wonder it’s becoming a favorite for everyday wear.Walkergrey | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Shop Now](https://www.walkergrey.com/products/men-can%E2%80%99t-get-enough-of-this-cozy-cashmere-jacket-1 "The Cozy Cashmere Jacket Every Man Wants!")
+
+Undo
+
+[](https://tracking.smartestlifestyletrends.com/37633f43-6660-4c7b-9020-732bf1902a10)[Oregon Drivers: Notice For Low Milage Vehicles Many driver don't know they already qualify for a lower auto insurance rate. See if you're eligible now.Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tracking.smartestlifestyletrends.com/37633f43-6660-4c7b-9020-732bf1902a10 "Oregon Drivers: Notice For Low Milage Vehicles")
+
+Undo
+
+[](https://go.crediblereviews.org/cf/r/6a31fe1dd596e50012d91282)[Seniors In Heavy Credit Card Debt Should Do This (Try It Today)Struggling with high debt? - Use this tool to get real help this month Credible Reviews | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://go.crediblereviews.org/cf/r/6a31fe1dd596e50012d91282 "Seniors In Heavy Credit Card Debt Should Do This (Try It Today)")
+
+Undo
+
+[](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0)[Car Insurance Costs Vary Across Oregon Your ZIP code can be one factor in your car insurance rate. See how costs compare across different areas.EasyHome Auto | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0 "Car Insurance Costs Vary Across Oregon")
+
+Undo
 
 ### NBA News
 
-[![Image 46: As Jaylen Brown faces the Celtics for the first time, familiar questions linger](https://a.espncdn.com/combiner/i?img=/photo/2026/1105/nba_jaylen-celtics_fc_16x9.jpg&w=220) ## As Jaylen Brown faces the Celtics for the first time, familiar questions linger Jaylen Brown and the Philadelphia 76ers host Jayson Tatum and the Boston Celtics on Tuesday night. * 1h * Kris Rhim](https://www.espn.com/nba/story/_/id/50401325/jaylen-brown-faces-boston-celtics-jayson-tatum-sixers)
+[![Image 46: Where to watch 'Portrait of an Artist: Stephen Curry' documentary](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_ESPN_Curry_artist/dm_261102_ESPN_Curry_artist.jpg) ## Where to watch 'Portrait of an Artist: Stephen Curry' documentary Here's what to know about the new documentary. * 1h * ESPN](https://www.espn.com/nba/story/_/id/50442265/watch-portrait-artist-stephen-curry-documentary)
 
-[![Image 47: The historic (and absurd) longevity of Steph Curry and Kevin Durant](https://a.espncdn.com/combiner/i?img=/photo/2026/0922/r1720560_1296x729_16-9.jpg&w=220) ## The historic (and absurd) longevity of Steph Curry and Kevin Durant More than 10 years after briefly joining forces, Steph and KD remain near the top of their games at 38. How long can each legend keep this up? * 4h * Ben Golliver](https://www.espn.com/nba/story/_/id/50434799/stephen-curry-kevin-durant-warriors-rockets)
+[![Image 47: Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch](https://a.espncdn.com/combiner/i?img=/photo/2026/1110/r1744074_1296x729_16-9.jpg&w=220) ## Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy. * 1h * Eric Karabell](https://www.espn.com/fantasy/basketball/story/_/id/50443924/fantasy-basketball-trends-nba-2026-2027)
 
-[![Image 48: Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight](https://a.espncdn.com/combiner/i?img=/photo/2026/1110/r1743888_600x400_3-2.jpg&w=220) ## Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight Victor Wembanyama finished with 40 points, 11 rebounds and nine blocks in just 25 minutes Monday night to lead the Spurs past the Suns 122-96 for their ninth straight win. * 7h](https://www.espn.com/nba/story/_/id/50440246/victor-wembanyama-scores-40-points-25-minutes-spurs-win-9th-straight)
+[![Image 48: Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling](https://a.espncdn.com/combiner/i?img=/photo/2026/1027/r1737030_1296x729_16-9.jpg&w=220) ## Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling Raptors star Kawhi Leonard will miss at least one more week as he continues to recover from a knee injury. * 2h](https://www.espn.com/nba/story/_/id/50444283/raptors-kawhi-leonard-least-1-more-week-due-knee)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://www.mnbasd77.com/aff_c)[Here's What Gutter Guards Should Cost You In 2026 HomeBuddy | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.mnbasd77.com/aff_c "Here's What Gutter Guards Should Cost You In 2026")
 
-[](https://www.grammarly.com/a)[Invest In Your Daily Productivity With Grammarly Pro Upgrade your daily workflow with intelligent writing support. Grammarly catches mistakes you might miss otherwise. Try it now.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.grammarly.com/a "Invest In Your Daily Productivity With Grammarly Pro")
+Undo
 
-[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+
+Undo
+
+[](https://www.forbes.com/advisor/l/native/pet-insurance-best-deal-breed)[Forbes Reveals Which Pet Insurance Is Worth It In 2026 Save $200+ on Pet Insurance - discover The Cost Of Forbes Top Pet Insurance Plans Forbes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.forbes.com/advisor/l/native/pet-insurance-best-deal-breed "Forbes Reveals Which Pet Insurance Is Worth It In 2026")
+
+Undo
 
 ![Image 49: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

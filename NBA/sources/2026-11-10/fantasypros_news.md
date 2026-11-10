@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-10 11:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-10 16:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,284 +7,284 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
-[![Will Richard](https://images.fantasypros.com/images/players/nba/6375/headshot/100x100.png)](https://www.fantasypros.com/nba/players/will-richard.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/will-richard.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/will-richard.php)  
-[» More News](https://www.fantasypros.com/nba/news/will-richard.php)
-[Will Richard (thumb) deciding on next steps](https://www.fantasypros.com/nba/news/618995/will-richard-thumb-deciding-on-next-steps.php)  
+[![Khaman Maluach](https://images.fantasypros.com/images/players/nba/6328/headshot/100x100.png)](https://www.fantasypros.com/nba/players/khaman-maluach.php)
+C - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/khaman-maluach.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/khaman-maluach.php)  
+[» More News](https://www.fantasypros.com/nba/news/khaman-maluach.php)
+[Khaman Maluach leads second unit in scoring Monday](https://www.fantasypros.com/nba/news/619060/khaman-maluach-leads-second-unit-scoring-monday.php)  
 
-Tue, Nov 10th 4:07am EST  
-By [Nicholas Rodriguez](https://www.fantasypros.com/news/correspondents/nicholas-rodriguez.php)
-Will Richard will take the next few days to decide whether to play through a torn UCL in his left thumb with the help of a splint or undergo surgery. (Source: [Luca Evans on X](https://x.com/bylucaevans/status/2119962787241939321?s=20))
-**_Fantasy Impact:_** Richard suffered the injury during Saturday's 126-119 win over the Orlando Magic and missed Monday's 138-87 victory over the New Orleans Pelicans as a result. He and the Golden State Warriors will wait for the swelling in his thumb to subside before making a decision on his next steps. However, fantasy managers should prepare for him to miss some time. While he's sidelined, De'Anthony Melton, Gary Payton II and Brandon Williams are candidates to see increased minutes.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Domantas Sabonis](https://images.fantasypros.com/images/players/nba/3176/headshot/100x100.png)](https://www.fantasypros.com/nba/players/domantas-sabonis.php)
-C - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/domantas-sabonis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/domantas-sabonis.php)  
-[» More News](https://www.fantasypros.com/nba/news/domantas-sabonis.php)
-[Domantas Sabonis (knee) questionable Tuesday](https://www.fantasypros.com/nba/news/618994/domantas-sabonis-knee-questionable-tuesday.php)  
-
-Tue, Nov 10th 3:56am EST  
-By [Nicholas Rodriguez](https://www.fantasypros.com/news/correspondents/nicholas-rodriguez.php)
-Domantas Sabonis is listed as questionable for Tuesday's game against the Sacramento Kings. (Source: [James Ham on X](https://x.com/James_HamNBA/status/2119973395660177796?a=TF1lLR23M9pK590DN14&s=20))
-**_Fantasy Impact:_** Sabonis missed Sunday's game against the Miami Heat due to left knee soreness and is in danger of missing his second straight contest. Fantasy managers will need to wait until morning shootaround for an update on his status. If he's unable to play, Dylan Cardwell could slide into the starting lineup again, while Precious Achiuwa should see a bump in minutes.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jonathan Isaac](https://images.fantasypros.com/images/players/nba/3317/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jonathan-isaac.php)
-F - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/jonathan-isaac.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jonathan-isaac.php)  
-[» More News](https://www.fantasypros.com/nba/news/jonathan-isaac.php)
-[Jonathan Isaac (knee) ruled out Tuesday](https://www.fantasypros.com/nba/news/618993/jonathan-isaac-knee-ruled-out-tuesday.php)  
-
-Tue, Nov 10th 3:49am EST  
-By [Nicholas Rodriguez](https://www.fantasypros.com/news/correspondents/nicholas-rodriguez.php)
-Jonathan Isaac has been ruled out for Tuesday's game against the Sacramento Kings. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_03_30AM.pdf))
-**_Fantasy Impact:_** Isaac has yet to make his season debut while continuing to manage a left knee injury. His next opportunity to make his season debut is Wednesday against the Utah Jazz.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kyrie Irving](https://images.fantasypros.com/images/players/nba/2074/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyrie-irving.php)
-G - DAL
-[» Rankings](https://www.fantasypros.com/nba/players/kyrie-irving.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyrie-irving.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyrie-irving.php)
-[Kyrie Irving pours in 35 points Monday ](https://www.fantasypros.com/nba/news/618986/kyrie-irving-pours-35-points-monday.php)  
-
-Tue, Nov 10th 12:56am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kyrie Irving scored 35 points (11-18 FG, 7-10 3PT, 6-7 FT) to go along with four assists in the Mavericks 125-122 win over the Pacers. 
-**_Fantasy Impact:_** It was a quiet stat line for Irving outside of the efficient 35 points he dropped. He combined for 78 points with Cooper Flagg in the tight win for Dallas. Irving continues an impressive start to the season. 
+Tue, Nov 10th 1:06pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Khaman Maluach scored 11 points (4-6 FG, 1-1 3PT, 2-2 FT) and grabbed five rebounds in Monday night's 122-96 blowout loss to the San Antonio Spurs.
+**_Fantasy Impact:_** The big man had a pretty solid showing on Monday night. He led the second unit in points and rebounds through 20 minutes of action as his workload continues to increase for the Suns. He could be a viable fantasy option sometime soon if he continues to earn more and more opportunities for himself in this rotation moving forward.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Cooper Flagg](https://images.fantasypros.com/images/players/nba/6306/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cooper-flagg.php)
-F - DAL
-[» Rankings](https://www.fantasypros.com/nba/players/cooper-flagg.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cooper-flagg.php)  
-[» More News](https://www.fantasypros.com/nba/news/cooper-flagg.php)
-[Cooper Flagg explodes for 43 points Monday ](https://www.fantasypros.com/nba/news/618985/cooper-flagg-explodes-43-points-monday.php)  
+[![Jalen Green](https://images.fantasypros.com/images/players/nba/5252/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-green.php)
+G - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-green.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-green.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-green.php)
+[Jalen Green held to six points in loss Monday](https://www.fantasypros.com/nba/news/619059/jalen-green-held-to-six-points-loss-monday.php)  
 
-Tue, Nov 10th 12:54am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Cooper Flagg scored 43 points (16-25 FG, 3-6 3PT, 8-8 FT) to go along with 10 rebounds, six assists, three steals and one block in the Mavericks 125-122 win over the Pacers. 
-**_Fantasy Impact:_** Flagg poured in 16 points in the final quarter alone to help Dallas hold Indiana off. He has continued to deliver elite production across the board for fantasy managers. 
+Tue, Nov 10th 1:04pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jalen Green scored just six points (2-8 FG, 0-1 3PT, 2-2 FT) to go with five rebounds and four assists in Monday night's 122-96 loss to the San Antonio Spurs.
+**_Fantasy Impact:_** Green wasn't able to get anything going on Monday night. He finished with just six points on poor shooting splits, although he was able to contribute decently in a couple other areas of the game. He has been disappointing so far this season but still has the potential to be a very good fantasy option if he can bounce back sometime soon.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Andrew Nembhard](https://images.fantasypros.com/images/players/nba/5454/headshot/100x100.png)](https://www.fantasypros.com/nba/players/andrew-nembhard.php)
-G - IND
-[» Rankings](https://www.fantasypros.com/nba/players/andrew-nembhard.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/andrew-nembhard.php)  
-[» More News](https://www.fantasypros.com/nba/news/andrew-nembhard.php)
-[Andrew Nembhard logs double-double Monday ](https://www.fantasypros.com/nba/news/618984/andrew-nembhard-logs-double-double-monday.php)  
+[![Dillon Brooks](https://images.fantasypros.com/images/players/nba/3352/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dillon-brooks.php)
+F - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/dillon-brooks.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dillon-brooks.php)  
+[» More News](https://www.fantasypros.com/nba/news/dillon-brooks.php)
+[Dillon Brooks struggles in blowout loss Monday](https://www.fantasypros.com/nba/news/619058/dillon-brooks-struggles-blowout-loss-monday.php)  
 
-Tue, Nov 10th 12:51am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Andrew Nembhard scored 12 points (5-10 FG, 1-2 3PT, 1-1 FT) to go along with three rebounds, 12 assists and one block in the Pacers 125-122 loss against the Mavericks. 
-**_Fantasy Impact:_** Nembhard recorded his second double-double on the season. He continues to start at point guard in place of Tyrese Haliburton. 
+Tue, Nov 10th 1:01pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Dillon Brooks scored seven points (3-14 FG, 1-2 3PT) and grabbed four rebounds in Monday night's 122-96 loss to the San Antonio Spurs.
+**_Fantasy Impact:_** Brooks saw 26 minutes of action on Monday night, but he wasn't able to do much in that time. He made just three of his 14 attempted shots from the field, and he wasn't able to contribute well in many other areas of the game. He should bounce back and return to being a viable fantasy asset soon, though he will continue to be prone to some flop games every so often.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Pascal Siakam](https://images.fantasypros.com/images/players/nba/3219/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pascal-siakam.php)
-F - IND
-[» Rankings](https://www.fantasypros.com/nba/players/pascal-siakam.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/pascal-siakam.php)  
-[» More News](https://www.fantasypros.com/nba/news/pascal-siakam.php)
-[Pascal Siakam drops 29 points Monday ](https://www.fantasypros.com/nba/news/618983/pascal-siakam-drops-29-points-monday.php)  
+[![Devin Booker](https://images.fantasypros.com/images/players/nba/3024/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-booker.php)
+G - PHO
+[» Rankings](https://www.fantasypros.com/nba/players/devin-booker.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/devin-booker.php)  
+[» More News](https://www.fantasypros.com/nba/news/devin-booker.php)
+[Devin Booker drops 32 points in loss Monday](https://www.fantasypros.com/nba/news/619057/devin-booker-drops-32-points-loss-monday.php)  
 
-Tue, Nov 10th 12:49am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Pascal Siakam scored 29 points (9-16 FG, 5-8 3PT, 6-8 FT) to go along with nine rebounds, eight assists and two steals in the Pacers 125-122 loss against the Mavericks. 
-**_Fantasy Impact:_** Siakam finished the night just one rebound and two assists shy of a triple-double. He has continued to deliver steady mid-range value for fantasy managers. 
+Tue, Nov 10th 12:59pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Devin Booker dropped 32 points (10-17 FG, 3-5 3PT, 9-10 FT) and dished out four assists in Monday night's 122-96 loss at the hands of the San Antonio Spurs.
+**_Fantasy Impact:_** Booker was arguably Phoenix's lone bright spot on Monday night. He dropped 32 points on great shooting splits, and nobody else on the team had more than 11 points over the course of the game. He will continue to be a great fantasy option moving forward, though Phoenix is expected to continue to be an underwhelming team overall.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Naz Reid](https://images.fantasypros.com/images/players/nba/4499/headshot/100x100.png)](https://www.fantasypros.com/nba/players/naz-reid.php)
-C - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/naz-reid.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/naz-reid.php)  
-[» More News](https://www.fantasypros.com/nba/news/naz-reid.php)
-[Naz Reid records double-double Monday ](https://www.fantasypros.com/nba/news/618982/naz-reid-records-double-double-monday.php)  
+[![Harrison Barnes](https://images.fantasypros.com/images/players/nba/2765/headshot/100x100.png)](https://www.fantasypros.com/nba/players/harrison-barnes.php)
+F - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/harrison-barnes.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/harrison-barnes.php)  
+[» More News](https://www.fantasypros.com/nba/news/harrison-barnes.php)
+[Harrison Barnes leads bench in scoring Monday](https://www.fantasypros.com/nba/news/619055/harrison-barnes-leads-bench-scoring-monday.php)  
 
-Tue, Nov 10th 12:46am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Naz Reid scored 25 points (10-26 FG, 4-9 3PT, 1-2 FT) to go along with 13 rebounds, four assists and two steals in the Hornets 124-112 win over the Cavaliers. 
-**_Fantasy Impact:_** Reid logged his fourth double-double of the season. It wasn't his most efficient shooting performance, but still a solid overall night for him. 
+Tue, Nov 10th 12:57pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Harrison Barnes scored 11 points (3-8 FG, 2-6 3PT, 3-3 FT) and graved two rebounds in Monday's 122-96 win over the Phoenix Suns.
+**_Fantasy Impact:_** The big man was able to lead the bench with 11 points scored on Monday night, but he didn't contribute much in other areas of the game. He will continue to be relegated to a limited depth role for the foreseeable future.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Grayson Allen](https://images.fantasypros.com/images/players/nba/3520/headshot/100x100.png)](https://www.fantasypros.com/nba/players/grayson-allen.php)
-G - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/grayson-allen.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/grayson-allen.php)  
-[» More News](https://www.fantasypros.com/nba/news/grayson-allen.php)
-[Grayson Allen drops 27 points Monday ](https://www.fantasypros.com/nba/news/618981/grayson-allen-drops-27-points-monday.php)  
+[![Stephon Castle](https://images.fantasypros.com/images/players/nba/6160/headshot/100x100.png)](https://www.fantasypros.com/nba/players/stephon-castle.php)
+G - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/stephon-castle.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/stephon-castle.php)  
+[» More News](https://www.fantasypros.com/nba/news/stephon-castle.php)
+[Stephon Castle inefficient in blowout win Monday](https://www.fantasypros.com/nba/news/619054/stephon-castle-inefficient-blowout-win-monday.php)  
 
-Tue, Nov 10th 12:45am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Grayson Allen scored 27 points (8-14 FG, 6-12 3PT, 5-6 FT) to go along with four rebounds, six assists and two steals in the Hornets 124-112 win over the Cavaliers. 
-**_Fantasy Impact:_** Allen led the way in scoring for Charlotte with Brandon Miller and Kon Knueppel both sidelined. He was able to tie his season-high in scoring. 
+Tue, Nov 10th 12:56pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Stephon Castle scored just four points (2-10 FG, 0-1 3PT, 0-2 FT) to go with eight rebounds and seven assists in Monday night's 122-96 win over the Phoenix Suns.
+**_Fantasy Impact:_** Castle struggled as a scorer on Monday night, finishing the game with just four points on poor shooting splits. He was able to contribute well as a rebounder and facilitator, however, which helped leave him with an okay fantasy total. His offense should bounce back sometime in the very near future.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Ryan Kalkbrenner](https://images.fantasypros.com/images/players/nba/6335/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ryan-kalkbrenner.php)
-C - CHA
-[» Rankings](https://www.fantasypros.com/nba/players/ryan-kalkbrenner.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ryan-kalkbrenner.php)  
-[» More News](https://www.fantasypros.com/nba/news/ryan-kalkbrenner.php)
-[Ryan Kalkbrenner grabs 15 rebounds Monday ](https://www.fantasypros.com/nba/news/618980/ryan-kalkbrenner-grabs-15-rebounds-monday.php)  
+[![Victor Wembanyama](https://images.fantasypros.com/images/players/nba/5971/headshot/100x100.png)](https://www.fantasypros.com/nba/players/victor-wembanyama.php)
+C - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/victor-wembanyama.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/victor-wembanyama.php)  
+[» More News](https://www.fantasypros.com/nba/news/victor-wembanyama.php)
+[Victor Wembanyama drops 40 points in win Monday](https://www.fantasypros.com/nba/news/619053/victor-wembanyama-drops-40-points-win-monday.php)  
 
-Tue, Nov 10th 12:43am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ryan Kalkbrenner scored eight points (4-7 FG) to go along with 15 rebounds, three assists, one steal and three blocks in the Hornets 124-112 win over the Cavaliers. 
-**_Fantasy Impact:_** Kalkbrenner continued to start for the injured Moussa Diabaté. He'll remain on the streaming radar while in the starting lineup. 
+Tue, Nov 10th 12:53pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Victor Wembanyama dropped 40 points (15-19 FG, 2-3 3PT, 8-10 FT) to go with 11 rebounds and nine blocks in Monday night's 122-96 win over the Phoenix Suns.
+**_Fantasy Impact:_** Wembanyama had yet another unreal game on Monday night. He dropped 40 points while missing just four shots from the field, and he was also able to record a team-high 11 rebounds and an astounding nine blocks over the course of the night. He has been absolutely dominant lately and should continue to be one of the best options in all of fantasy for the foreseeable future.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Meleek Thomas](https://images.fantasypros.com/images/players/nba/6619/headshot/100x100.png)](https://www.fantasypros.com/nba/players/meleek-thomas.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/meleek-thomas.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/meleek-thomas.php)  
-[» More News](https://www.fantasypros.com/nba/news/meleek-thomas.php)
-[Meleek Thomas pours in 18 points Monday ](https://www.fantasypros.com/nba/news/618979/meleek-thomas-pours-18-points-monday.php)  
+[![Ja'Kobe Walter](https://images.fantasypros.com/images/players/nba/6151/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jakobe-walter.php)
+G - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/jakobe-walter.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jakobe-walter.php)  
+[» More News](https://www.fantasypros.com/nba/news/jakobe-walter.php)
+[Ja'Kobe Walter inefficient in loss Monday](https://www.fantasypros.com/nba/news/619052/jakobe-walter-inefficient-loss-monday.php)  
 
-Tue, Nov 10th 12:41am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Meleek Thomas scored 18 points (7-12 FG, 4-6 3PT) to go along with three rebounds, three assists, two assists and two blocks in the Cavaliers 124-112 loss against the Hornets. 
-**_Fantasy Impact:_** Thomas was the lone bright spot in an otherwise ugly loss for Cleveland. He scored 12 of his points in the final quarter with the starters benched. 
+Tue, Nov 10th 12:51pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Ja'Kobe Walter scored 12 points (4-13 FG, 2-7 3PT, 2-2 FT) and grabbed six rebounds in Monday's 118-102 loss to the Memphis Grizzlies.
+**_Fantasy Impact:_** Walter saw more work than usual on Monday night with Toronto missing several key players due to injury. He scored 12 points, but he wasn't very efficient in the process, so his fantasy total wasn't great. He will see decreased work as Toronto's injured players make their return to the lineup over the next few games.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![CJ McCollum](https://images.fantasypros.com/images/players/nba/2814/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cj-mccollum.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/cj-mccollum.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/cj-mccollum.php)  
-[» More News](https://www.fantasypros.com/nba/news/cj-mccollum.php)
-[CJ McCollum scores 21 points Monday ](https://www.fantasypros.com/nba/news/618978/cj-mccollum-scores-21-points-monday.php)  
+[![Jamison Battle](https://images.fantasypros.com/images/players/nba/6264/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamison-battle.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/jamison-battle.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jamison-battle.php)  
+[» More News](https://www.fantasypros.com/nba/news/jamison-battle.php)
+[Jamison Battle leads second unit in scoring Monday](https://www.fantasypros.com/nba/news/619051/jamison-battle-leads-second-unit-scoring-monday.php)  
 
-Tue, Nov 10th 12:38am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-CJ McCollum scored 21 points (8-15 FG, 3-5 3PT, 2-2 FT) to go along with four assists and one block in the Hawks 124-114 loss against the Lakers. 
-**_Fantasy Impact:_** McCollum led Atlanta in scoring despite coming off the bench. He poured in a season-high in points, including his second game this season reaching the 20 point mark. 
+Tue, Nov 10th 12:48pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jamison Battle scored 18 points (6-12 FG, 5-11 3PT, 1-2 FT) and dished out two assists in Monday's 118-102 loss to the Memphis Grizzlies.
+**_Fantasy Impact:_** Battle saw more action than usual on Monday night with Scottie Barnes (adductor) and Immanuel Quickley (hamstring) sidelined for the Raptors. He did well with his increased opportunities, leading the second unit with 18 points throughout 29 minutes of action. He won't be a great fantasy option when all of Toronto's key players are back in the lineup, however.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Nickeil Alexander-Walker](https://images.fantasypros.com/images/players/nba/4492/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/nickeil-alexander-walker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nickeil-alexander-walker.php)  
-[» More News](https://www.fantasypros.com/nba/news/nickeil-alexander-walker.php)
-[Nickeil Alexander-Walker fills stat sheet Monday ](https://www.fantasypros.com/nba/news/618977/nickeil-alexander-walker-fills-stat-sheet-monday.php)  
+[![Jamal Shead](https://images.fantasypros.com/images/players/nba/6201/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamal-shead.php)
+G - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/jamal-shead.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jamal-shead.php)  
+[» More News](https://www.fantasypros.com/nba/news/jamal-shead.php)
+[Jamal Shead leads team in scoring Monday](https://www.fantasypros.com/nba/news/619050/jamal-shead-leads-team-scoring-monday.php)  
 
-Tue, Nov 10th 12:36am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nickeil Alexander-Walker scored 20 points (6-19 FG, 4-14 3PT, 4-4 FT) to go along with four rebounds, four assists, two steals and two blocks in the Hawks 124-114 loss against the Lakers. 
-**_Fantasy Impact:_** Alexander-Walker remains steady across the board game-to-game for fantasy managers. He didn't have his most efficient shooting performance on Monday, but he still chipped in his 20-plus points. 
+Tue, Nov 10th 12:46pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jamal Shead scored 20 points (6-17 FG, 4-10 3PT, 4-4 FT) to go with 11 assists and two steals in Monday night's 118-102 loss to the Memphis Grizzlies.
+**_Fantasy Impact:_** The Raptors were without multiple key players on Monday night, but Shead was able to step up in their absence. He led the team with a 20-point double-double on the night, although he left sometime to be desired with his efficiency. He will see less work when Immanuel Quickley (hamstring) and Scottie Barnes (adductor) make their return to the lineup for Toronto.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Sandro Mamukelashvili](https://images.fantasypros.com/images/players/nba/5185/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sandro-mamukelashvili.php)
-C - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/sandro-mamukelashvili.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/sandro-mamukelashvili.php)  
-[» More News](https://www.fantasypros.com/nba/news/sandro-mamukelashvili.php)
-[Sandro Mamukelashvili drops 23 points Monday ](https://www.fantasypros.com/nba/news/618976/sandro-mamukelashvili-drops-23-points-monday.php)  
+[![Cedric Coward](https://images.fantasypros.com/images/players/nba/6346/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cedric-coward.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/cedric-coward.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/cedric-coward.php)  
+[» More News](https://www.fantasypros.com/nba/news/cedric-coward.php)
+[Cedric Coward quiet in win Monday](https://www.fantasypros.com/nba/news/619049/cedric-coward-quiet-win-monday.php)  
 
-Tue, Nov 10th 12:33am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Sandro Mamukelashvili scored 23 points (7-13 FG, 5-8 3PT, 4-4 FT) to go along with eight rebounds, three assists, one steal and one block in the Lakers 124-114 win over the Hawks. 
-**_Fantasy Impact:_** Mamukelashvili played 32 minutes despite coming off the bench and took full advantage of the opportunity. He recorded season-highs in both points scored and minutes played. It is unclear if he'll see the same run when Austin Reaves is healthy. 
+Tue, Nov 10th 12:43pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Cedric Coward scored just three points (1-6 FG, 1-4 3PT) to go with six rebounds, four assists, and two steals in Monday's 118-102 win over the Toronto Raptors.
+**_Fantasy Impact:_** Coward took a back seat on Monday night, scoring just three points in the team's win over the Raptors. He was able to contribute well in other areas of the game, however, so his night wasn't a total loss. He should bounce back and see more involvement sometime in the near future.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/luka-doncic.php)  
-[» More News](https://www.fantasypros.com/nba/news/luka-doncic.php)
-[Luka Doncic dominates stat sheet Monday ](https://www.fantasypros.com/nba/news/618975/luka-doncic-dominates-stat-sheet-monday.php)  
+[![Jerami Grant](https://images.fantasypros.com/images/players/nba/2868/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jerami-grant.php)
+F - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/jerami-grant.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jerami-grant.php)  
+[» More News](https://www.fantasypros.com/nba/news/jerami-grant.php)
+[Jerami Grant leads bench in scoring Monday](https://www.fantasypros.com/nba/news/619047/jerami-grant-leads-bench-scoring-monday.php)  
 
-Tue, Nov 10th 12:31am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Luka Doncic scored 32 points (11-22 FG, 3-11 3PT, 7-7 FT) to go along with eight rebounds, 10 assists, five steals and two blocks in the Lakers 124-114 win over the Hawks. 
-**_Fantasy Impact:_** Doncic took a slight step back as a scorer compared to the numbers he has been putting up to start the season, but he made up for it with his overall stat line. He scored 18 points in the second half alone. He remains at the top of the MVP race to begin the season. 
+Tue, Nov 10th 12:40pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Jerami Grant scored 17 points (6-9 FG, 3-3 3PT, 2-2 FT) and grabbed three rebounds in Monday's 118-102 win over the Toronto Raptors.
+**_Fantasy Impact:_** Grant came off of the bench on Monday, but he was still able to contribute well for the Grizzlies. He led the second unit with 17 points, though he didn't do much in other areas of the game. Fantasy managers should continue to view him as a viable option moving forward.
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Maxime Raynaud](https://images.fantasypros.com/images/players/nba/6383/headshot/100x100.png)](https://www.fantasypros.com/nba/players/maxime-raynaud.php)
-C - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/maxime-raynaud.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/maxime-raynaud.php)  
-[» More News](https://www.fantasypros.com/nba/news/maxime-raynaud.php)
-[Maxime Raynaud (knee) ruled out Tuesday ](https://www.fantasypros.com/nba/news/618974/maxime-raynaud-knee-ruled-out-tuesday.php)  
+[![Cameron Boozer](https://images.fantasypros.com/images/players/nba/6504/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-boozer.php)
+F - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/cameron-boozer.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/cameron-boozer.php)  
+[» More News](https://www.fantasypros.com/nba/news/cameron-boozer.php)
+[Cameron Boozer flirts with triple-double Monday](https://www.fantasypros.com/nba/news/619046/cameron-boozer-flirts-with-triple-double-monday.php)  
 
-Tue, Nov 10th 12:25am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Maxime Raynaud has been ruled out for Tuesday’s game against the Magic.
-**_Fantasy Impact:_** Raynaud is continuing to work his way back from a right patellar subluxation suffered during the preseason. He is slated to be re-evaluated soon. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+Tue, Nov 10th 12:39pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Cameron Boozer scored 22 points (9-16 FG, 0-5 3PT, 4-5 FT) to go with eight assists and seven rebounds in Monday night's 118-102 win over the Toronto Raptors.
+**_Fantasy Impact:_** Boozer continues to show out for the Grizzlies. He scored 22 points on Monday night and fell just three rebounds and two assists shy of logging a triple-double in this win over the Raptors. He did commit six turnovers, however, which threw some cold water on his overall fantasy total.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Brandon Williams](https://images.fantasypros.com/images/players/nba/5427/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandon-williams.php)
-G - GSW
-[» Rankings](https://www.fantasypros.com/nba/players/brandon-williams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/brandon-williams.php)  
-[» More News](https://www.fantasypros.com/nba/news/brandon-williams.php)
-[Brandon Williams suffers hamstring injury Monday ](https://www.fantasypros.com/nba/news/618973/brandon-williams-suffers-hamstring-injury-monday.php)  
+[![Ty Jerome](https://images.fantasypros.com/images/players/nba/4513/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ty-jerome.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/ty-jerome.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ty-jerome.php)  
+[» More News](https://www.fantasypros.com/nba/news/ty-jerome.php)
+[Ty Jerome drops 27 points in win Monday](https://www.fantasypros.com/nba/news/619044/ty-jerome-drops-27-points-win-monday.php)  
 
-Tue, Nov 10th 12:24am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Brandon Williams left Monday's game early against the Pelicans with a hamstring injury. 
-**_Fantasy Impact:_** Williams suffered the injury in the first quarter. His absence wouldn't impact the Warriors rotation for fantasy managers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+Tue, Nov 10th 12:36pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Ty Jerome dropped 27 points (9-19 FG, 5-11 3PT, 4-4 FT) and grabbed six rebounds in Monday night's 118-102 win over the Toronto Raptors.
+**_Fantasy Impact:_** Jerome's breakout season continued on Monday night. He led the team with 27 points in a win over the Raptors, which now brings them up to a great record of 7-3 on the season. He has sustained success long enough that fantasy managers should expect him to continue to be an above-average option over the course of the season, assuming he can stay healthy.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Quinten Post](https://images.fantasypros.com/images/players/nba/6178/headshot/100x100.png)](https://www.fantasypros.com/nba/players/quinten-post.php)
-C - MEM
-[» Rankings](https://www.fantasypros.com/nba/players/quinten-post.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/quinten-post.php)  
-[» More News](https://www.fantasypros.com/nba/news/quinten-post.php)
-[Quinten Post suffers head injury Monday ](https://www.fantasypros.com/nba/news/618972/quinten-post-suffers-head-injury-monday.php)  
+[![Trae Young](https://images.fantasypros.com/images/players/nba/3473/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trae-young.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/trae-young.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trae-young.php)  
+[» More News](https://www.fantasypros.com/nba/news/trae-young.php)
+[Trae Young solid in loss Monday](https://www.fantasypros.com/nba/news/619041/trae-young-solid-loss-monday.php)  
 
-Tue, Nov 10th 12:23am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Quinten Post left Monday’s game against the Raptors with a head injury. 
-**_Fantasy Impact:_** Post will likely be evaluated for a concussion. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+Tue, Nov 10th 12:33pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Trae Young scored 20 points (6-17 FG, 3-10 3PT, 5-9 FT) and dished out seven assists in Monday's 122-111 loss to the Detroit Pistons.
+**_Fantasy Impact:_** Young looked pretty good on Monday with 20 points and seven assists, but he wasn't very efficient from the field, which didn't help his fantasy total at all. He should continue to be a good, but not great, fantasy option for the foreseeable future.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jaylin Williams](https://images.fantasypros.com/images/players/nba/5491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylin-williams.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/jaylin-williams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaylin-williams.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaylin-williams.php)
-[Jaylin Williams (back) ruled out Tuesday ](https://www.fantasypros.com/nba/news/618971/jaylin-williams-back-ruled-out-tuesday.php)  
+[![AJ Dybantsa](https://images.fantasypros.com/images/players/nba/6502/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aj-dybantsa.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/aj-dybantsa.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aj-dybantsa.php)  
+[» More News](https://www.fantasypros.com/nba/news/aj-dybantsa.php)
+[AJ Dybantsa puts up 21 points in loss Monday](https://www.fantasypros.com/nba/news/619039/aj-dybantsa-puts-up-21-points-loss-monday.php)  
 
-Tue, Nov 10th 12:22am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaylin Williams has been ruled out for Tuesday’s game against the Trail Blazers.
-**_Fantasy Impact:_** Williams will miss a fourth straight game due to back spasms. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+Tue, Nov 10th 12:31pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+AJ Dybantsa scored 21 points (8-17 FG, 1-4 3PT, 4-6 FT) to go with eight rebounds and two blocks in Monday's 122-111 loss to the Detroit Pistons.
+**_Fantasy Impact:_** Dybantsa scored 21 points and grabbed eight rebounds over the course of 37 minutes of action on Monday, which fantasy managers were happy with. However, he also struggled with efficiency and committed five turnovers on the night, which threw some cold water on his overall fantasy total.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Robert Williams III](https://images.fantasypros.com/images/players/nba/3546/headshot/100x100.png)](https://www.fantasypros.com/nba/players/robert-williams-c.php)
-C - POR
-[» Rankings](https://www.fantasypros.com/nba/players/robert-williams-c.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/robert-williams-c.php)  
-[» More News](https://www.fantasypros.com/nba/news/robert-williams-c.php)
-[Robert Williams III (rest) off injury report Tuesday ](https://www.fantasypros.com/nba/news/618970/robert-williams-iii-rest-off-injury-report-tuesday.php)  
+[![Anthony Davis](https://images.fantasypros.com/images/players/nba/2746/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-davis.php)
+F - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-davis.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-davis.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-davis.php)
+[Anthony Davis drops 44 points in loss Monday](https://www.fantasypros.com/nba/news/619037/anthony-davis-drops-44-points-loss-monday.php)  
 
-Tue, Nov 10th 12:21am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Robert Williams III is off the injury report for Tuesday’s game against the Thunder. 
-**_Fantasy Impact:_** Williams will be good to go after sitting out Saturday’s loss to the Spurs. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+Tue, Nov 10th 12:29pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Anthony Davis dropped 44 points (16-21 FG, 2-4 3PT, 10-11 FT) and grabbed 13 rebounds in Monday night's 122-111 loss to the Detroit Pistons.
+**_Fantasy Impact:_** The big man had a phenomenal game on Monday night. He dropped 44 points and paired that with 13 rebounds to complete the double-double, which left him with an outstanding fantasy total. That wasn't enough to propel the Wizards to a win, however, as they now fall to 4-7 on the season.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Daniss Jenkins](https://images.fantasypros.com/images/players/nba/6186/headshot/100x100.png)](https://www.fantasypros.com/nba/players/daniss-jenkins.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/daniss-jenkins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/daniss-jenkins.php)  
+[» More News](https://www.fantasypros.com/nba/news/daniss-jenkins.php)
+[Daniss Jenkins plays well in win Monday](https://www.fantasypros.com/nba/news/619036/daniss-jenkins-plays-well-win-monday.php)  
+
+Tue, Nov 10th 12:27pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Daniss Jenkins scored 22 points (7-16 FG, 2-6 3PT, 6-6 FT) to go with eight assists, six rebounds, and four steals in Monday night's 122-111 win over the Washington Wizards.
+**_Fantasy Impact:_** Jenkins had a great game on Monday night, scoring 22 points in a comfortable win over the Wizards. He was also able to lead the team in assists and steals on the night, so he ended up having a very good fantasy total on the night, much to the pleasure of fantasy managers.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kevin Huerter](https://images.fantasypros.com/images/players/nba/3502/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kevin-huerter.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/kevin-huerter.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kevin-huerter.php)  
+[» More News](https://www.fantasypros.com/nba/news/kevin-huerter.php)
+[Kevin Huerter leads second unit in scoring Monday](https://www.fantasypros.com/nba/news/619034/kevin-huerter-leads-second-unit-scoring-monday.php)  
+
+Tue, Nov 10th 12:24pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+Kevin Huerter scored 12 points (5-12 FG, 0-5 3PT, 2-3 FT) and dished out three assists in Monday's 122-111 win over the Washington Wizards.
+**_Fantasy Impact:_** Huerter contributed well on Monday night, leading the bench in scoring in a nice win over the Wizards. His efficiency was less than ideal, however, which ended up hurting his overall fantasy total.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![John Collins](https://images.fantasypros.com/images/players/nba/3330/headshot/100x100.png)](https://www.fantasypros.com/nba/players/john-collins.php)
+F - DET
+[» Rankings](https://www.fantasypros.com/nba/players/john-collins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/john-collins.php)  
+[» More News](https://www.fantasypros.com/nba/news/john-collins.php)
+[John Collins records double-double in win Monday](https://www.fantasypros.com/nba/news/619033/john-collins-records-double-double-win-monday.php)  
+
+Tue, Nov 10th 12:22pm EST  
+By [Leo Sells](https://www.fantasypros.com/news/correspondents/leo-sells.php)
+John Collins scored 24 points (9-13 FG, 2-3 3PT, 4-4 FT) to go with ten rebounds and two steals in Monday night's 122-111 win over the Washington Wizards.
+**_Fantasy Impact:_** Collins had a fantastic game on Monday night. He led the team with 24 points on great shooting splits and was able to pair that with ten rebounds to complete the double-double, all through just 28 minutes of action. He won't play this well on a game-to-game basis but should continue to be a good fantasy asset moving forward.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=899_1794326467783&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9d9796969d969f9e66uokewi0e0y646o6k6260606k606o6m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=600_1794344445898&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCoNaAJvXFrI%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989f9d9796969d969f9e66uokewi0e0y646o6k6260606k606o6m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
