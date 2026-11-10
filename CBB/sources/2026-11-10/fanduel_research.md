@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-10 11:18 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-10 17:03 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # College Basketball Picks Today: 3 Predictions and Player Props for Tuesday, Nov. 10
 ![FanDuel Staff](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://fanduel.com/research/author/fanduel-staff)
-1h
+7h
 Link
 ![College Basketball Picks Today: 3 Predictions and Player Props for Tuesday, Nov. 10](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2b5e317dbd05b9e1b421d3d9c43d8b24c496b10e-3120x2080.jpg%3Frect%3D0%2C116%2C3120%2C1544%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best College Basketball Bets in Summary**
@@ -34,7 +34,7 @@ _[College basketball odds](https://sportsbook.fanduel.com/navigation/ncaab) via 
 _Duke vs. Michigan State, 7 p.m. ET_
 Total Points
 Under
-U 145.5
+U 146.5
 -110
 Nov 11 12:00am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/duke-@-michigan-state-36300641)
 Odds/lines subject to change
@@ -51,7 +51,7 @@ _Illinois vs. Texas Tech, 8 p.m. ET_
 Spread
 Illinois
 -2.5
--110
+-106
 Nov 11 1:00am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/illinois-@-texas-tech-36301023)
 Odds/lines subject to change
 While the two State Farm Champions Classic games steal a lot of the headlines, this is my favorite game of the night — an on-campus battle between two strong teams.
@@ -94,25 +94,25 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
+## [Duke vs. Michigan State Prediction, Picks and Best Bets (Nov. 10)](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+6m
+College basketball picks for tonight's Kansas vs. Kentucky clash.
+[](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+[NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: 3 Predictions and Player Props for Tuesday, Nov. 10](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
-1h
+7h
 Best bets and picks for a busy night in college basketball.
 [](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Florida vs Florida State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find Florida vs. Florida State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [BYU vs Queens College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find BYU vs. Queens predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Vanderbilt vs Memphis College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
-Find Vanderbilt vs. Memphis predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
-[](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 
 
 
@@ -130,7 +130,7 @@ START YOUR OWN WINNING STREAK
 # Duke vs. Michigan State Prediction: College Basketball Picks and Best Bets (Nov. 10)
 ![FanDuel Staff](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://fanduel.com/research/author/fanduel-staff)
-14h
+20h
 Link
 ![Duke vs. Michigan State Prediction: College Basketball Picks and Best Bets \(Nov. 10\)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb9cda046ece056a9a27ce5edeedb956e4aaa5f3a-6760x4506.jpg%3Frect%3D0%2C257%2C6760%2C3345%26w%3D964%26h%3D477&w=1920&q=100)
 **Duke vs. Michigan State Picks at a Glance**
@@ -147,7 +147,7 @@ _[College basketball odds](https://sportsbook.fanduel.com/navigation/ncaab) via 
 ### [Under 147.5 Points (-110)](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/duke-@-michigan-state-36300641)
 Total Points
 Under
-U 145.5
+U 146.5
 -110
 Nov 11 12:00am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/duke-@-michigan-state-36300641)
 Odds/lines subject to change
@@ -178,25 +178,25 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
+## [Duke vs. Michigan State Prediction, Picks and Best Bets (Nov. 10)](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+7m
+College basketball picks for tonight's Kansas vs. Kentucky clash.
+[](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+[NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: 3 Predictions and Player Props for Tuesday, Nov. 10](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
-1h
+7h
 Best bets and picks for a busy night in college basketball.
 [](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Florida vs Florida State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find Florida vs. Florida State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [BYU vs Queens College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find BYU vs. Queens predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Vanderbilt vs Memphis College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
-Find Vanderbilt vs. Memphis predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
-[](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 
 
 
@@ -214,7 +214,7 @@ START YOUR OWN WINNING STREAK
 # Kansas vs. Kentucky College Basketball Prediction, Picks and Best Bets (Nov. 10)
 ![FanDuel Staff](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://fanduel.com/research/author/fanduel-staff)
-15h
+20h
 Link
 ![Kansas vs. Kentucky College Basketball Prediction, Picks and Best Bets \(Nov. 10\)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe2a6c4b34eaec309dc461ece15e20dc5ee63fd90-3839x2559.jpg%3Frect%3D0%2C282%2C2902%2C1436%26w%3D964%26h%3D477&w=1920&q=100)
 **Kansas vs. Kentucky Picks at a Glance**
@@ -259,23 +259,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
+## [Duke vs. Michigan State Prediction, Picks and Best Bets (Nov. 10)](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+7m
+College basketball picks for tonight's Kansas vs. Kentucky clash.
+[](https://fanduel.com/research/duke-vs-michigan-state-prediction-picks-and-best-bets-nov-10)
+[NCAAB](https://fanduel.com/research/ncaab)
 ## [College Basketball Picks Today: 3 Predictions and Player Props for Tuesday, Nov. 10](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
-1h
+7h
 Best bets and picks for a busy night in college basketball.
 [](https://fanduel.com/research/college-basketball-picks-today-3-predictions-and-player-props-for-tuesday-nov-10)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Florida vs Florida State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find Florida vs. Florida State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/florida-vs-florida-state-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [BYU vs Queens College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
+13h
 Find BYU vs. Queens predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
 [](https://fanduel.com/research/byu-vs-queens-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Vanderbilt vs Memphis College Basketball Prediction, Odds, Picks, Best Bets for Nov. 10](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
-8h
-Find Vanderbilt vs. Memphis predictions, betting odds, moneyline, spread, over/under and more for the Nov. 10 college basketball matchup.
-[](https://fanduel.com/research/vanderbilt-vs-memphis-college-basketball-predictions-odds-picks-best-bets-for-11-10-2026)
 

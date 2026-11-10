@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-10 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-10 17:03 ET -->
 
 
 ---
@@ -143,39 +143,39 @@ Kansas vs. Kentucky
 Right Arrow
 Kansas vs. Kentucky
 ### Top Stories
-[![Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[![Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-4 hours ago
+23 mins ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/Fresnooooo-bulldogs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 Action Network Staff
-3 hours ago
-[![Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+8 hours ago
+[![Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-5 hours ago
+4 hours ago
 [![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
 [Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 Charlie Disturco
-3 hours ago
-[![Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+9 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 Sean Paul
-4 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
+20 mins ago
+[![College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://images.actionnetwork.com/blog/2026/11/PNII.png)](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
 NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
+[College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+Alex Hinton
+5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1b0d8f8f-7bf3-4c0b-8114-d0792e967483&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f13d42c-436b-4a06-ab7f-abb0cb837304&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1b0d8f8f-7bf3-4c0b-8114-d0792e967483&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f13d42c-436b-4a06-ab7f-abb0cb837304&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cd5d555a-c7f5-4815-a3f6-ad8754d38883&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f13d42c-436b-4a06-ab7f-abb0cb837304&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=7452&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cd5d555a-c7f5-4815-a3f6-ad8754d38883&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7f13d42c-436b-4a06-ab7f-abb0cb837304&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=7452&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1e7aecb5-4727-4240-a132-93abaa68801f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34b72b56-14fa-484c-ae13-3f9c3ca06ff9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1e7aecb5-4727-4240-a132-93abaa68801f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34b72b56-14fa-484c-ae13-3f9c3ca06ff9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=40b1c07d-cdfb-4fea-a076-42878c0cfb47&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34b72b56-14fa-484c-ae13-3f9c3ca06ff9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=40b1c07d-cdfb-4fea-a076-42878c0cfb47&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=34b72b56-14fa-484c-ae13-3f9c3ca06ff9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fchampions-classic-best-bets-5-picks-tuesday-november-10&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -294,34 +294,163 @@ NCAAB
 [Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
 Action Network Staff
 Nov 9, 2026 EST
-[![Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[![Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+Colby Marchio
+24 mins ago
+[![Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+NCAAB
+[Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
 4 hours ago
-[![Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
-NCAAB
-[Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-5 hours ago
 [![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
 [Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 Charlie Disturco
-3 hours ago
-[![Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+9 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 Sean Paul
-4 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
+20 mins ago
+[![College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://images.actionnetwork.com/blog/2026/11/PNII.png)](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
 NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
+[College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+Alex Hinton
+5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8e5da12a-f1cd-4751-91bd-3c4e0dc81e44&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8914f8fb-fcf1-4052-9113-ac41ce62e63e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8e5da12a-f1cd-4751-91bd-3c4e0dc81e44&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8914f8fb-fcf1-4052-9113-ac41ce62e63e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=79e4dc53-f610-4040-9305-8e9af905fe12&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8914f8fb-fcf1-4052-9113-ac41ce62e63e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=7536&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=79e4dc53-f610-4040-9305-8e9af905fe12&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8914f8fb-fcf1-4052-9113-ac41ce62e63e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=7536&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4a9f9bd6-c17f-4c76-a652-00e805c5b217&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=44e83bbf-33ee-4b42-9085-e6aad5c2fbbd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4a9f9bd6-c17f-4c76-a652-00e805c5b217&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=44e83bbf-33ee-4b42-9085-e6aad5c2fbbd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=693c6c98-dff1-4a74-b6b1-fc8fa0f998ba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=44e83bbf-33ee-4b42-9085-e6aad5c2fbbd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=693c6c98-dff1-4a74-b6b1-fc8fa0f998ba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=44e83bbf-33ee-4b42-9085-e6aad5c2fbbd&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-10&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# College Basketball Player Props: 3 Champions Classic Picks — 11/10
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/ahinton-150x150.jpg)
+[Alex Hinton](https://www.actionnetwork.com/article/author/alex-hinton)
+Sports Betting Expert
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 10, 2026, 11:27 AM EST
+Updated:
+Nov 10, 2026, 11:27 AM EST
+Credit:
+IMAGN IMAGES via Reuters Connect. Pictured: Patrick Ngongba II (Duke)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+Four of the nation's powerhouse programs will meet in Chicago for the 16th annual Champions Classic. [Kansas](https://www.actionnetwork.com/ncaab/odds/kansas-jayhawks) and [Duke](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils) are both 9-6 in the event while Michigan State and Kentucky are 6-9.
+For this year's installment, three players I am looking at are John Blackwell, Patrick Ngongba II and Milan Momcilovic.
+Read on for my **college basketball player props** for the Champions Classic on Tuesday, Nov. 10.
+_Be sure to download the[Action Network app](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for more expert picks and analysis!_
+* * *
+## Champions Classic Player Props – Tuesday, Nov. 10
+  * **[John Blackwell 15+ Points](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188325901&context=playbook-slack-quickslip&sport=basketball) (-195)**
+  * **[Patrick Ngongba II 6+ Rebounds](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188326114&context=playbook-slack-quickslip&sport=basketball) (-310)**
+  * **[Milan Momcilovic Over 2.5 3-Pointers Made](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188487082&context=playbook-slack-quickslip&sport=basketball) (-145)**
+
+
+**Parlay Odds:[+222](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188325901&deeplinkId\[1\]=ML3188326114&deeplinkId\[2\]=ML3188487082&context=playbook-slack-quickslip&sport=basketball) ([DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings))**
+* * *
+[![Duke Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils)
+Tuesday, Nov 10
+7 p.m. ET
+ESPN
+[![Michigan St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)
+John Blackwell 15+ Points (-195)
+[![DraftKings Logo](https://assets.actionnetwork.com/128508_Primary1.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+Blackwell may be playing in just his third game as a Blue Devil, but he is very familiar with Tom Izzo and the Spartans.
+At [Wisconsin](https://www.actionnetwork.com/ncaab/odds/wisconsin-badgers), Blackwell faced the [Spartans](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans) five times over the last three years and three times as a starter. In the three starts, he scored 14 points in every game and 16 points in two of the three. He has 18.7 points per game over his last three games against the Spartans, including 24 last February.
+The thing is, he got there despite not shooting particularly well. In those three meetings, he shot 38.7% from the field and 23% from beyond the arc. Similarly, he has gotten off to a slow start in Durham, as he has scored 18 points in total and shot 40% from the field in his first two games this season.
+However, with two blowouts to start the season, the Blue Devils have not needed Blackwell for heavy minutes, and he did score 15 points in his last game.
+Additionally, he has averaged 17.4 points per game on 44/36/84 shooting splits over the last two seasons.
+If he hits that average on Tuesday, he will score 15 points.
+**Pick:[John Blackwell 15+ Points](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188325901&context=playbook-slack-quickslip&sport=basketball) (-195)**
+* * *
+[![Duke Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils)
+Tuesday, Nov 10
+7 p.m. ET
+ESPN
+[![Michigan St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)
+Patrick Ngongba II 6+ Rebounds (-310)
+[![DraftKings Logo](https://assets.actionnetwork.com/128508_Primary1.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+After playing sparingly as a freshman, Ngongba averaged 10 points and 5.8 rebounds in 21 minutes per game last season.
+This season, he is averaging 19 points and eight rebounds through his first two games. With seven rebounds against [Army](https://www.actionnetwork.com/ncaab/odds/army-black-knights) and nine rebounds against [Coastal Carolina](https://www.actionnetwork.com/ncaab/odds/coastal-carolina-chanticleers), he has cleared this line in each of his first two games.
+Ngongba also had six rebounds in 26 minutes against the Spartans last season. That is despite former teammates Cameron Boozer and Nik Khamenia combining for 24 of the Blue Devils' 44 rebounds.
+Duke's size advantage is not as massive this time around, as the Spartans added Anton Bonke in the transfer portal. However, Ngongba may still be in line to clear this line.
+The Blue Devils held the Spartans to 60 points last season and enter this matchup second in adjusted defensive efficiency. The Spartans' team total is just 70.5 on Tuesday, so several misses by them could be collected by Ngongba.
+**Pick:[Patrick Ngongba II 6+ Rebounds](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188326114&context=playbook-slack-quickslip&sport=basketball) (-310)**
+* * *
+[![Kansas Logo](https://static.sprtactn.co/teamlogos/ncaab/100/kan.png)](https://www.actionnetwork.com/ncaab/odds/kansas-jayhawks)
+Tuesday, Nov 10
+9:30 p.m. ET
+ESPN
+[![Kentucky Logo](https://static.sprtactn.co/teamlogos/ncaab/100/kend.png)](https://www.actionnetwork.com/ncaab/odds/kentucky-wildcats)
+Milan Momcilovic Over 2.5 Three Pointers Made (-145)
+[![DraftKings Logo](https://assets.actionnetwork.com/128508_Primary1.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+Like Blackwell, Momcilovic will face a familiar opponent when his Wildcats take on the Jayhawks in the nightcap.
+While at [Iowa State](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes), Momcilovic faced Kansas three times over the last three years and he knocked down nine 3-pointers. He knocked down at least three in two of the three meetings and four against them last season.
+The senior transferred to [Kentucky](https://www.actionnetwork.com/ncaab/odds/kentucky-wildcats) as arguably the country's best shooter. He has shot 42.8% from 3 for his career and led the nation at 48.7% from 3 last season.
+This season, he is already up to his usual tricks in Lexington. In his Kentucky debut, Momcilovic knocked down six triples on nine attempts and finished with 24 points. He added another against [James Madison](https://www.actionnetwork.com/ncaab/odds/james-madison-dukes), albeit in a rough shooting night.
+Still, he is shooting 41.2% from downtown on 8.5 attempts per game.
+If he gets up seven attempts on Tuesday, I feel good about his chances of clearing this line.
+**Pick:[Milan Momcilovic Over 2.5 3-Pointers Made](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188487082&context=playbook-slack-quickslip&sport=basketball) (-145)**
+* * *
+## Champions Classic Player Props – Tuesday, Nov. 10
+  * **[John Blackwell 15+ Points](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188325901&context=playbook-slack-quickslip&sport=basketball) (-195)**
+  * **[Patrick Ngongba II 6+ Rebounds](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188326114&context=playbook-slack-quickslip&sport=basketball) (-310)**
+  * **[Milan Momcilovic Over 2.5 3-Pointers Made](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188487082&context=playbook-slack-quickslip&sport=basketball) (-145)**
+
+
+**Parlay Odds:[+222](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188325901&deeplinkId\[1\]=ML3188326114&deeplinkId\[2\]=ML3188487082&context=playbook-slack-quickslip&sport=basketball) (DraftKings)**
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10)[](https://twitter.com/intent/tweet?text=College%20Basketball%20Player%20Props%3A%203%20Champions%20Classic%20Picks%20%E2%80%94%2011%2F10&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/ahinton-150x150.jpg)
+About the Author
+Alex Hinton began sports betting toward the end of 2018. He got his first job in the industry with Action Network in 2021. Hinton joined Action as a College Sports Contributor, but he now also covers the MLB and NBA. Before joining Action, Hinton covered Michigan Athletics for GoBlueWolverine. 
+[Follow @AlHinton23 on X](https://x.com/AlHinton23)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Champions Classic Player Props – Tuesday, Nov. 10
+Right Arrow
+Champions Classic Player Props – Tuesday, Nov. 10
+### Top Stories
+[![Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://images.actionnetwork.com/blog/2026/11/MM-UK.png)](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
+NCAAB
+[Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
+Action Network Staff
+Nov 9, 2026 EST
+[![Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+NCAAB
+[Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+Colby Marchio
+24 mins ago
+[![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/Fresnooooo-bulldogs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
+NCAAB
+[College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
+Action Network Staff
+8 hours ago
+[![Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+NCAAB
+[Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+Colby Marchio
+4 hours ago
+[![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
+NCAAB
+[Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
+Charlie Disturco
+9 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+NCAAB
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+Sean Paul
+20 mins ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ccfa8db7-83cb-4fea-ac12-76053bd9c83e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=41b4a954-cea2-4c49-87d7-80fc8f67709d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ccfa8db7-83cb-4fea-ac12-76053bd9c83e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=41b4a954-cea2-4c49-87d7-80fc8f67709d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=37bf7bf5-83cc-446e-aac0-6285a2506b41&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=41b4a954-cea2-4c49-87d7-80fc8f67709d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10&tw_engaged_ms=7763&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=37bf7bf5-83cc-446e-aac0-6285a2506b41&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=41b4a954-cea2-4c49-87d7-80fc8f67709d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-player-props-3-champions-classic-picks-tuesday-november-10&tw_engaged_ms=7763&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -330,56 +459,47 @@ Colby Marchio
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10
+# Michigan State vs Duke Predictions, Picks, Odds — 11/10
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 10, 2026, 07:06 AM EST
+Nov 10, 2026, 04:41 PM EST
 Updated:
-Nov 10, 2026, 07:06 AM EST
+Nov 10, 2026, 04:41 PM EST
 Credit:
 Rob Kinnan-Imagn Images. Pictured: Cayden Boozer.
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The Duke Blue Devils take on the Michigan State Spartans in Chicago, IL. Tip-off is set for 7 p.m. ET on ESPN.
-Duke is favored by -6.5 points on the spread with a moneyline of -270 The total is set at 149.5 points.
+Duke is favored by -7.5 points on the spread with a moneyline of -350 The total is set at 145.5 points.
 Here’s my **Duke vs. Michigan State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 10, 2026.
 * * *
-## Duke vs Michigan State Prediction
-**Pick:[Under 149.5 (Play to 148.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3176442876&context=action-articles)**
-My**Duke vs Michigan State best bet** is on the under. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Duke vs Michigan State Odds
+## Duke vs Michigan State Odds, Spread, Pick
 [![Duke Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils)
 Tuesday, Nov 10
 7 p.m. ET
 ESPN
-[![Michigan State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)  
+[![Michigan St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)  
 | Duke Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -6.5 -110  |  149.5 -110o / -110u  | -270  |  
-| Michigan State Odds |  
+|  -7.5 -115  |  145.5 -115o / -105u  | -350  |  
+| Michigan St Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +6.5 -110  |  149.5 -110o / -110u  | +220  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Duke vs Michigan State spread:** Duke -6.5 (-110), Michigan State +6.5 (-110)
-  * **Duke vs Michigan State over/under:** 149.5 (-110o / -110u)
-  * **Duke vs Michigan State moneyline:** Duke -270, Michigan State +220
-
-
+|  +7.5 -105  |  145.5 -115o / -105u  | +275  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+**Pick:[Under 149.5 (Play to 148.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3176442876&context=action-articles)**
+My**Duke vs Michigan State best bet** is on the under. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Duke vs Michigan State College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
-### Duke Basketball
+## Duke vs Michigan State NCAAB Preview
+**Duke Basketball**
 Duke had the socials buzzing before the season even started after dismantling [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers), 103-64. Its third exhibition game came against Kansas, where the Blue Devils picked up a 90-84 win inside Allen Fieldhouse.
 However, when I took them in their first regular season game against [Army](https://www.actionnetwork.com/ncaab/odds/army-black-knights), they fell short of covering the massive spread. The Blue Devils followed that up by putting 113 points on the board against [Coastal Carolina](https://www.actionnetwork.com/ncaab/odds/coastal-carolina-chanticleers), winning by 61.
 Jon Scheyer's boys are loaded and, much like Michigan State, have their eyes set on Detroit.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
-### Michigan State Basketball
+**Michigan State Basketball**
 Delivering the belt to their first two opponents of the college basketball season comes as no surprise, as the [Michigan State Spartans](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans) look to make yet another deep run under head coach Tom Izzo. With [Jeremy Fears Jr.](https://www.actionnetwork.com/ncaab/players/jeremy-fears-257832-g) leading the way, the ceiling is the roof, per Michael Jordan.
 Sparty has taken down both [Quinnipiac](https://www.actionnetwork.com/ncaab/odds/quinnipiac-bobcats) and [Toledo](https://www.actionnetwork.com/ncaab/odds/toledo-rockets) by 30-plus points in its first two games. Now, the Spartans face their first true test of the season against the [Duke Blue Devils](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils), the No. 1-rated team on Bart Torvik.
 Izzo's boys should be more than ready for this one, as they faced UConn and [Marquette](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles) in exhibition games before the season started, losing both. The Spartans followed those defeats with back-to-back blowout wins, and you can bet Izzo made sure they corrected those issues.
@@ -404,22 +524,16 @@ Tipoff Time:
 TV/Streaming:
 ESPN
 Duke vs Michigan St is scheduled for 7:00 PM EST live from United Center on Tuesday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Michigan%20State%20vs%20Duke%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2010&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Michigan%20State%20vs%20Duke%20Predictions%2C%20Picks%2C%20Odds%20%E2%80%94%2011%2F10&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Duke vs Michigan State Prediction
+Duke vs Michigan State Odds, Spread, Pick
 Right Arrow
-Duke vs Michigan State Odds
-Right Arrow
-Duke vs Michigan State College Basketball Preview
-Right Arrow
-Duke Basketball
-Right Arrow
-Michigan State Basketball
+Duke vs Michigan State NCAAB Preview
 Right Arrow
 Duke vs. Michigan State Pick, Betting Analysis
 Right Arrow
@@ -434,30 +548,30 @@ Nov 9, 2026 EST
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 Action Network Staff
-3 hours ago
-[![Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+8 hours ago
+[![Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-5 hours ago
+4 hours ago
 [![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
 [Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 Charlie Disturco
-3 hours ago
-[![Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+9 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 Sean Paul
-4 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
+21 mins ago
+[![College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://images.actionnetwork.com/blog/2026/11/PNII.png)](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
 NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
+[College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+Alex Hinton
+5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1b22412c-cbf7-4fc7-a2d9-d05b3d0b90e1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=673a0b3a-4bb8-4d06-be89-84c30caf5c34&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1b22412c-cbf7-4fc7-a2d9-d05b3d0b90e1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=673a0b3a-4bb8-4d06-be89-84c30caf5c34&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=276e95f3-082e-4c09-a51d-698c7bfb4ef1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=673a0b3a-4bb8-4d06-be89-84c30caf5c34&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7572&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=276e95f3-082e-4c09-a51d-698c7bfb4ef1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=673a0b3a-4bb8-4d06-be89-84c30caf5c34&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7572&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a16d7599-7e37-403b-bf24-ba10cd7a7555&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d678629c-dbfb-4b48-a27c-e615586097ce&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a16d7599-7e37-403b-bf24-ba10cd7a7555&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d678629c-dbfb-4b48-a27c-e615586097ce&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=29b6d70f-6601-4d2b-b6a7-bdb35cf9a139&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d678629c-dbfb-4b48-a27c-e615586097ce&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7784&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=29b6d70f-6601-4d2b-b6a7-bdb35cf9a139&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d678629c-dbfb-4b48-a27c-e615586097ce&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7784&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -466,49 +580,49 @@ Colby Marchio
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10
+# Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 10, 2026, 06:01 AM EST
+Nov 10, 2026, 12:29 PM EST
 Updated:
-Nov 10, 2026, 06:01 AM EST
+Nov 10, 2026, 12:29 PM EST
 Credit:
 USA TODAY Network via Reuters Connect. Pictured: Florida forward Thomas Haugh (10)
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The Florida Gators take on the Florida State Seminoles in Tallahassee, FL. Tip-off is set for 6 p.m. ET on ESPN2.
-Florida is favored by -9.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -575. The total is set at 165.5 points.
+Florida is favored by -9.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -490. The total is set at 166.5 points.
 Here’s my **Florida vs. Florida State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 10, 2026.
 * * *
 ## Florida vs Florida State Prediction
 **Pick:[ Florida -9.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188308483&context=action-articles)**
 My**Florida vs Florida State best bet** is on the Gators to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Florida vs Florida State Odds
+## Florida vs Florida State Odds, Spread
 [![Florida Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)](https://www.actionnetwork.com/ncaab/odds/florida-gators)
 Tuesday, Nov 10
 6 p.m. ET
 ESPN2
-[![Florida State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fsu.png)](https://www.actionnetwork.com/ncaab/odds/florida-state-seminoles)  
+[![Florida St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fsu.png)](https://www.actionnetwork.com/ncaab/odds/florida-state-seminoles)  
 | Florida Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -9.5 -110  |  165.5 -105o / -115u  | -575  |  
-| Florida State Odds |  
+|  -9.5 -110  |  166.5 -110o / -110u  | -490  |  
+| Florida St Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +9.5 -110  |  165.5 -105o / -115u  | +425  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+|  +9.5 -110  |  166.5 -110o / -110u  | +365  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
   * **Florida vs Florida State spread:** Florida -9.5 (-110), Florida State +9.5 (-110)
-  * **Florida vs Florida State over/under:** 165.5 (-105o / -115u)
-  * **Florida vs Florida State moneyline:** Florida -575, Florida State +425
+  * **Florida vs Florida State over/under:** 166.5 (-110o / -110u)
+  * **Florida vs Florida State moneyline:** Florida -490, Florida State +365
 
 
 * * *
-## Florida vs Florida State College Basketball Preview
+## Florida vs Florida State NCAAB Preview
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)
 ### Florida Basketball
 Do we expect the Gators to show any ounce of mercy in this ball game? They have nothing in front of them; after this matchup, Florida hosts [Merrimack](https://www.actionnetwork.com/ncaab/odds/merrimack-warriors).
@@ -539,7 +653,7 @@ Tipoff Time:
 TV/Streaming:
 ESPN2
 Florida vs Florida St is scheduled for 6:00 PM EST live from Donald L. Tucker Civic Center on Tuesday. The game will be broadcast on ESPN2.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Florida%20vs%20Florida%20State%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2010&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Florida%20vs%20Florida%20State%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Tuesday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
@@ -548,9 +662,9 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 Florida vs Florida State Prediction
 Right Arrow
-Florida vs Florida State Odds
+Florida vs Florida State Odds, Spread
 Right Arrow
-Florida vs Florida State College Basketball Preview
+Florida vs Florida State NCAAB Preview
 Right Arrow
 Florida Basketball
 Right Arrow
@@ -565,34 +679,34 @@ NCAAB
 [Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
 Action Network Staff
 Nov 9, 2026 EST
-[![Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[![Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-4 hours ago
+24 mins ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/Fresnooooo-bulldogs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
 [Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 Charlie Disturco
-3 hours ago
-[![Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+9 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 Sean Paul
-4 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
+21 mins ago
+[![College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://images.actionnetwork.com/blog/2026/11/PNII.png)](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
 NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
+[College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+Alex Hinton
+5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0d7e5f37-1630-4dd6-9cab-8adbcf1951c3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90c4531a-c41f-46b7-b800-a137ad79319b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0d7e5f37-1630-4dd6-9cab-8adbcf1951c3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90c4531a-c41f-46b7-b800-a137ad79319b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=264d7f46-6fa0-4be7-a2db-d51a8f87129a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90c4531a-c41f-46b7-b800-a137ad79319b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7550&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=264d7f46-6fa0-4be7-a2db-d51a8f87129a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90c4531a-c41f-46b7-b800-a137ad79319b&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7550&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d3126a08-ddb1-4ea2-8bfe-2e6a6686f837&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2ca088ce-0a96-4b58-b385-a030da9ace69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d3126a08-ddb1-4ea2-8bfe-2e6a6686f837&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2ca088ce-0a96-4b58-b385-a030da9ace69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=de2ae312-e7e4-434c-8267-24d3ca2f6868&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2ca088ce-0a96-4b58-b385-a030da9ace69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7739&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=de2ae312-e7e4-434c-8267-24d3ca2f6868&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2ca088ce-0a96-4b58-b385-a030da9ace69&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fflorida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7739&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -663,19 +777,6 @@ That approach has helped produce back-to-back wins by 40-plus points.
 [Charlie DiSturco](https://www.actionnetwork.com/picks/profile/charliedisturco)
 Last 30d: 122-259-2 (-9.1u)
 Follow
-![KU](https://static.sprtactn.co/teamlogos/ncaab/100/kan.png)
-![UK](https://static.sprtactn.co/teamlogos/ncaab/100/kend.png)
-Kansas @ Kentucky Picks
-Today
-/
-9:30 PM on ESPN
-•
-5.2k bets
-M.Momcilovic o2.5 3pt M
--120 (0.6u)
-Copy Bet
-✍️ https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10?utm_source=action_app&utm_medium=app&utm_campaign=article_share https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10?utm_source=action_app&utm_medium=app&utm_campaign=article_share
-More
 ![ILL](https://static.sprtactn.co/teamlogos/ncaab/100/ill.png)
 ![TTU](https://static.sprtactn.co/teamlogos/ncaab/100/tt.png)
 Illinois @ Texas Tech Picks
@@ -683,11 +784,24 @@ Today
 /
 8:00 PM on Peacock/NBCSN
 •
-4.9k bets
+12.1k bets
 TTU +1.5
 -108 (0.54u)
 Copy Bet
 ✍️ coming soon
+![KU](https://static.sprtactn.co/teamlogos/ncaab/100/kan.png)
+![UK](https://static.sprtactn.co/teamlogos/ncaab/100/kend.png)
+Kansas @ Kentucky Picks
+Today
+/
+9:30 PM on ESPN
+•
+12.0k bets
+M.Momcilovic o2.5 3pt M
+-120 (0.6u)
+Copy Bet
+✍️ https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10?utm_source=action_app&utm_medium=app&utm_campaign=article_share https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10?utm_source=action_app&utm_medium=app&utm_campaign=article_share
+More
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tt.png)
 ### Texas Tech Basketball
 Texas Tech boasts one of the most experienced rosters in college basketball, with National Championship aspirations firmly at the forefront for Grant McCasland and his staff.
@@ -722,7 +836,7 @@ Tipoff Time:
 TV/Streaming:
 Peacock/NBCSN
 Illinois vs Texas Tech is scheduled for 8:00 PM EST live from United Supermarkets Arena on Tuesday. The game will be broadcast on Peacock/NBCSN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10%3Futm_source%3Daction_app%26utm_medium%3Dapp%26utm_campaign%3Darticle_share)[](https://twitter.com/intent/tweet?text=Illinois%20vs%20Texas%20Tech%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2010&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10%3Futm_source%3Daction_app%26utm_medium%3Dapp%26utm_campaign%3Darticle_share)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Illinois%20vs%20Texas%20Tech%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2010&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
 ![Author Profile](https://images.actionnetwork.com/blog/2021/11/T7M9A9GT0-U024JC89U87-06ee385641d6-512-100x100.jpeg)
 About the Author
 Charlie Disturco • Analyst
@@ -749,178 +863,32 @@ NCAAB
 [Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
 Action Network Staff
 Nov 9, 2026 EST
-[![Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[![Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Michigan State vs Duke Predictions, Picks, Odds — 11/10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-4 hours ago
+24 mins ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/Fresnooooo-bulldogs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
 Action Network Staff
-3 hours ago
-[![Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+8 hours ago
+[![Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Florida vs Florida State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
 Colby Marchio
-5 hours ago
-[![Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+4 hours ago
+[![Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/hammond.jpg)](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 NCAAB
-[Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
+[Virginia Tech vs Iowa Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
 Sean Paul
-4 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
+21 mins ago
+[![College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://images.actionnetwork.com/blog/2026/11/PNII.png)](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
 NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4affc853-5b3f-4791-bc05-fd9a70dac2e9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=54431e22-be27-489b-a15e-fa14ccd42993&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4affc853-5b3f-4791-bc05-fd9a70dac2e9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=54431e22-be27-489b-a15e-fa14ccd42993&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=48db9c73-d30b-4c32-a2cf-a6f17c38c5f9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=54431e22-be27-489b-a15e-fa14ccd42993&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7563&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=48db9c73-d30b-4c32-a2cf-a6f17c38c5f9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=54431e22-be27-489b-a15e-fa14ccd42993&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7563&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/virginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Virginia Tech vs Iowa Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
-Staff Writer
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 10, 2026, 07:11 AM EST
-Updated:
-Nov 10, 2026, 07:11 AM EST
-Credit:
-Feb 28, 2026; Chapel Hill, North Carolina, USA; Virginia Tech Hokies guard Ben Hammond (3) with the ball as North Carolina Tar Heels guard Seth Trimble (7) defends in the first half at Dean E. Smith Center. Mandatory Credit: Bob Donnan-Imagn Images
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Virginia Tech](https://www.actionnetwork.com/ncaab/odds/virginia-tech-hokies) Hokies take on the [Iowa](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes) Hawkeyes in Sioux City, Iowa. Tip-off is set for 7 p.m. ET on Fox Sports 1.
-Iowa is favored by 4.5 points on the spread with a moneyline of -210. The total is set at 142.5 points.
-Here’s my **Virginia Tech vs. Iowa prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 10, 2026.
-* * *
-## Virginia Tech vs Iowa Prediction
-**Pick:[ Virginia Tech +4.5 (Play to +2)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188319878&context=action-articles&sport=basketball)**
-My**Virginia Tech vs Iowa best bet** is on the Hokies to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Virginia Tech vs Iowa Odds
-[![Virginia Tech Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vt.png)](https://www.actionnetwork.com/ncaab/odds/virginia-tech-hokies)
-Tuesday, Nov 10
-7 p.m. ET
-Fox Sports 1
-[![Iowa Logo](https://static.sprtactn.co/teamlogos/ncaab/100/iowd.png)](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes)  
-| Virginia Tech Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +4.5 -102  |  142.5 -110o / -110u  | +172  |  
-| Iowa Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -4.5 -120  |  142.5 -110o / -110u  | -210  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Virginia Tech vs Iowa spread:** Virginia Tech +4.5 (-102), Iowa -4.5 (-120)
-  * **Virginia Tech vs Iowa over/under:** 142.5 (-110o / -110u)
-  * **Virginia Tech vs Iowa moneyline:** Virginia Tech +172, Iowa -210
-
-
-* * *
-## Virginia Tech vs Iowa College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/iowd.png)
-### Iowa Basketball
-Fresh off an Elite Eight appearance in his first year, Ben McCollum has to figure out his team’s DNA without star guard Bennett Stirtz.
-So far, the Hawkeyes haven’t faced a tough test, beating Lipscomb and Eastern Illinois by lopsided margins.
-The Hawkeyes won’t have a “star” like Stirtz this season; they’re more about balanced scoring and depth. McCollum deploys a 10-man rotation and all 10 are averaging five-plus points per game in the first two games.
-The go-to guy seems to be speedy point guard Ty’Reek Coleman. He leads the team with 11.5 points while adding four rebounds and five assists per game.
-Two of the other top four scorers are freshmen — Jaidyn Coon and Peyton McCollum — the latter, who looks like one of the best shooters in the Big Ten and will play big minutes in the backcourt.
-The key to all of Iowa’s offensive hopes and dreams? Big man Trevin Jirak. The 6-foot-11, 250-pound center was a back end of the bench reserve last season, but he's something of a point forward this year, posting seven points, seven rebounds and six assists per game.
-In general, Iowa has to shoot the ball well. With McCollum wanting to drain the clock and find the best shot, the Hawkeyes have no choice but to make close to 40% of their 3s to win a game against a solid high-major foe.
-![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
-[Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
-Last 30d: 9-10-0 (-1.4u)
-Follow
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vt.png)
-### Virginia Tech Basketball
-Mike Young could be nearing his final days at Virginia Tech if this season doesn’t culminate in an NCAA Tournament appearance — whether he retires or gets fired.
-A tournament bid is very plausible for this group.
-At the controls is shifty lead guard Ben Hammond, who posted 18 points with six assists and six steals per game in his first two games. The sky is the limit for Hammond — he’s one of the quickest players in the country, is a strong shooter and is among the top steal-getters in the country.
-Young paired Hammond with Jaylen Curry, a veteran guard who spent last season at Oklahoma State. Those two can cause havoc on opposing guards on the defensive end, as both tally more than a steal per game.
-Hammond is Virginia Tech’s most important player, but Amani Hansberry might be its best. Hansberry was vital to the Hokies' success last year, leading the team with 14.3 points and 7.4 rebounds per game, while shooting 36% from 3.
-Despite having a small backcourt, Virginia Tech makes up for the lack of guard size by starting the 6-foot-8, 240-pound Hansberry and 6-foot-11 Miles Heide at the forward spots.
-I also like some of the wing options that Young has. He starts Isaiah Elohim, a very athletic wing who can shoot, but don’t sleep on Tyler Johnson, a starter from a season ago. Both of those two could be X-factors.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vt.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/iowd.png)
-## Virginia Tech vs. Iowa Pick, Betting Analysis
-I want Virginia Tech. At this point, I feel better about the pieces on the Hokies' roster and how they mesh.
-The coaching advantage is with McCollum, but the Hawkeyes could take time to figure out the scoring pecking order — and the roster isn’t super talented.
-The more talented roster is getting 4.5 points? Sure, I’m in.
-**Pick:[ Virginia Tech +4.5 (Play to +2)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3188319878&context=action-articles&sport=basketball)**
-* * *
-### How To Watch VA Tech vs Iowa
-Location:
-Tyson Events Center in Sioux City, IA
-Date:
-Tue, Nov 10
-Tipoff Time:
-7:00 PM EST
-TV/Streaming:
-Fox Sports 1
-VA Tech vs Iowa is scheduled for 7:00 PM EST live from Tyson Events Center on Tuesday. The game will be broadcast on Fox Sports 1.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://twitter.com/intent/tweet?text=Virginia%20Tech%20vs%20Iowa%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2010&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10)
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-About the Author
-Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
-[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Virginia Tech vs Iowa Prediction
-Right Arrow
-Virginia Tech vs Iowa Odds
-Right Arrow
-Virginia Tech vs Iowa College Basketball Preview
-Right Arrow
-Iowa Basketball
-Right Arrow
-Virginia Tech Basketball
-Right Arrow
-Virginia Tech vs. Iowa Pick, Betting Analysis
-Right Arrow
-How To Watch VA Tech vs Iowa
-### Top Stories
-[![Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://images.actionnetwork.com/blog/2026/11/MM-UK.png)](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
-NCAAB
-[Champions Classic Best Bets: 5 Picks for Tuesday’s Blue-Blood Games](https://www.actionnetwork.com/ncaab/champions-classic-best-bets-5-picks-tuesday-november-10)
-Action Network Staff
-Nov 9, 2026 EST
-[![Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/MichiganState-Duke-NCAAB-11_10.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
-NCAAB
-[Michigan State vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
-[![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/Fresnooooo-bulldogs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-10)
-Action Network Staff
-3 hours ago
-[![Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10.jpg)](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
-NCAAB
-[Florida vs Florida State Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/florida-gators-vs-florida-state-seminoles-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
+[College Basketball Player Props: 3 Champions Classic Picks — 11/10](https://www.actionnetwork.com/ncaab/college-basketball-player-props-3-champions-classic-picks-tuesday-november-10)
+Alex Hinton
 5 hours ago
-[![Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/moseley.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
-NCAAB
-[Illinois vs Texas Tech Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10)
-Charlie Disturco
-3 hours ago
-[![Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://images.actionnetwork.com/blog/2026/11/aceglass.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-NCAAB
-[Memphis vs Vanderbilt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 10](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-vanderbilt-commodores-prediction-pick-odds-college-basketball-tuesday-november-10)
-Colby Marchio
-4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5c61f5eb-555f-44c2-b655-7d1b92974e21&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5773d9d4-6644-4658-8831-82bba015e46d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5c61f5eb-555f-44c2-b655-7d1b92974e21&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5773d9d4-6644-4658-8831-82bba015e46d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d4d20b59-c02e-456e-b82e-066fe7e978dd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5773d9d4-6644-4658-8831-82bba015e46d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7550&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d4d20b59-c02e-456e-b82e-066fe7e978dd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5773d9d4-6644-4658-8831-82bba015e46d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvirginia-tech-hokies-vs-iowa-hawkeyes-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7550&tw_iframe_status=0&tw_pid_src=2&tw_session_count=72&tw_session_id=1794326612331-732566332&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=21dc8ac1-43f1-4e90-b0b8-d1ae180f20d7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c992e504-4669-4128-be34-f3d21152c0c7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=21dc8ac1-43f1-4e90-b0b8-d1ae180f20d7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c992e504-4669-4128-be34-f3d21152c0c7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5e26e1cf-e7d3-4444-84f3-17fe156e2cf8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c992e504-4669-4128-be34-f3d21152c0c7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7704&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5e26e1cf-e7d3-4444-84f3-17fe156e2cf8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c992e504-4669-4128-be34-f3d21152c0c7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-tuesday-november-10&tw_engaged_ms=7704&tw_iframe_status=0&tw_pid_src=2&tw_session_count=74&tw_session_id=1794348061587-933763956&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

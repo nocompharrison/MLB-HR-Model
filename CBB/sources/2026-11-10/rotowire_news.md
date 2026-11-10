@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-10 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-10 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,153 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Hawaii](https://assets.rotowire.com/images/teamlogo/cbasketball/Hawaii.png?v=16)
+[Jaden Matingou](https://www.rotowire.com/cbasketball/player/jaden-matingou-27828)
+Banged up for Rainbow Warriors
+**G** Hawaii
+Undisclosed
+November 10, 2026
+Matingou (undisclosed) is battling an injury, per [Stephan Tsai of the Honolulu Star-Advertiser](https://www.staradvertiser.com/2026/11/09/sports/sports-breaking/cold-shooting-rainbows-fall-to-portland-in-rainbow-classic/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Xavier](https://assets.rotowire.com/images/teamlogo/cbasketball/Xavier.png?v=16)
+[Asher Elson](https://www.rotowire.com/cbasketball/player/asher-elson-28235)
+Available vs. Detroit
+**F** Xavier
+November 10, 2026
+Elson (foot) is available Tuesday against Detroit, per [Xavier's public dress announcer Barrett Cohen](https://x.com/VoiceOfCintas/status/2119957026386096223).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[RJ Godfrey](https://www.rotowire.com/cbasketball/player/rj-godfrey-20473)
+Out at least another two games
+**F** Arizona
+Not Injury Related
+November 10, 2026
+Godfrey (not injury related) will miss Arizona's next two games against Northern Arizona and at Auburn, per [Bruce Pascoe of the Arizona Daily Star](https://x.com/BrucePascoe/status/2120227566753816612?a=pGGiI9w1xN5ARKhZ2lY&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=16)
+[Rytis Petraitis](https://www.rotowire.com/cbasketball/player/rytis-petraitis-20771)
+Doubtful for Tuesday night
+**F** New Mexico
+Ankle
+November 10, 2026
+Petraitis (ankle) is doubtful for Tuesday night against Arkansas-Little Rock, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2120203168734654771?a=FaKRu3mzpiX3aAQAY58&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington.png?v=16)
+[Parker Friedrichsen](https://www.rotowire.com/cbasketball/player/parker-friedrichsen-22522)
+Nails five triples off the bench
+**G** Washington
+November 10, 2026
+Friedrichsen closed Monday's 77-64 victory over Mississippi Valley State with 17 points (6-14 FG, 5-11 3Pt) and two rebounds over 21 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington.png?v=16)
+[Ryan Beasley](https://www.rotowire.com/cbasketball/player/ryan-beasley-22416)
+Double-double in win
+**G** Washington
+November 10, 2026
+Beasley finished with 16 points (6-11 FG, 4-9 3Pt), 10 rebounds, six assists and one steal over 34 minutes during Monday's 77-64 win over Mississippi Valley State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington.png?v=16)
+[Steele Venters](https://www.rotowire.com/cbasketball/player/steele-venters-17256)
+Cans five triples in win
+**G** Washington
+November 10, 2026
+Venters supplied 15 points (5-13 FG, 5-13 3Pt), two rebounds and one steal over 19 minutes during Monday's 77-64 victory over Mississippi Valley State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Purdue](https://assets.rotowire.com/images/teamlogo/cbasketball/Purdue.png?v=16)
+[Jack Benter](https://www.rotowire.com/cbasketball/player/jack-benter-23479)
+Efficient outing in win
+**G** Purdue
+November 10, 2026
+Benter racked up 14 points (4-6 FG, 2-3 3Pt, 4-4 FT), five rebounds, three assists and one steal across 28 minutes during Monday's 76-59 victory over Illinois State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Purdue](https://assets.rotowire.com/images/teamlogo/cbasketball/Purdue.png?v=16)
+[Antione West](https://www.rotowire.com/cbasketball/player/antione-west-26045)
+Shines in first start
+**G** Purdue
+November 10, 2026
+West registered 17 points (7-11 FG, 3-4 3Pt), two rebounds, two assists and one steal across 31 minutes during Monday's 76-59 victory over Illinois State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
+[Okku Federiko](https://www.rotowire.com/cbasketball/player/okku-federiko-23696)
+Remains very quiet
+**F** Northwestern
+November 10, 2026
+Federiko provided three points (1-4 FG, 0-1 3Pt, 1-2 FT), five rebounds, three assists, one block and one steal across 33 minutes during Monday's 72-55 win over Boston University.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
+[Jake West](https://www.rotowire.com/cbasketball/player/jake-west-26245)
+Another 20-point outing
+**G** Northwestern
+November 10, 2026
+West finished with 21 points (8-16 FG, 1-7 3Pt, 4-4 FT), one rebound, eight assists and three steals in 32 minutes during Monday's 72-55 win over Boston University.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
+[Angelo Ciaravino](https://www.rotowire.com/cbasketball/player/angelo-ciaravino-23542)
+Solid outing in game three
+**G** Northwestern
+November 10, 2026
+Ciaravino contributed 14 points (6-13 FG, 0-2 3Pt, 2-2 FT), six rebounds, two assists and one steal across 36 minutes during Monday's 72-55 win over Boston University.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Jaylen Crocker-Johnson](https://www.rotowire.com/cbasketball/player/jaylen-crocker-johnson-23087)
+Fouls out after struggling from deep
+**F** Minnesota
+November 10, 2026
+Crocker-Johnson totaled 11 points (4-9 FG, 1-5 3Pt, 2-2 FT), four rebounds and one assist over 25 minutes before fouling out of Monday's 63-61 win over Cincinnati.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Kyan Evans](https://www.rotowire.com/cbasketball/player/kyan-evans-22678)
+Erupts in huge road win
+**G** Minnesota
+November 10, 2026
+Evans finished Monday's 63-61 win over Cincinnati with 26 points (11-19 FG, 3-8 3Pt, 1-2 FT), 10 rebounds, five assists and one steal in 39 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Indiana](https://assets.rotowire.com/images/teamlogo/cbasketball/Indiana.png?v=16)
+[Samet Yigitoglu](https://www.rotowire.com/cbasketball/player/samet-yigitoglu-23474)
+Does work on the glass in win
+**C** Indiana
+November 10, 2026
+Yigitoglu had eight points (3-6 FG, 2-3 FT), 10 rebounds, three assists and one steal in 26 minutes during Monday's 83-80 win over Syracuse.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Indiana](https://assets.rotowire.com/images/teamlogo/cbasketball/Indiana.png?v=16)
+[Jaeden Mustaf](https://www.rotowire.com/cbasketball/player/jaeden-mustaf-23569)
+Lethally efficient in win
+**G** Indiana
+November 10, 2026
+Mustaf posted 18 points (7-11 FG, 2-3 3Pt, 2-3 FT), seven rebounds and one assist across 33 minutes during Monday's 83-80 victory over Syracuse.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Indiana](https://assets.rotowire.com/images/teamlogo/cbasketball/Indiana.png?v=16)
+[Darren Harris](https://www.rotowire.com/cbasketball/player/darren-harris-23546)
+Another 20-point outing
+**G** Indiana
+November 10, 2026
+Harris amassed 20 points (4-12 FG, 2-8 3Pt, 10-10 FT), three rebounds, three assists and one steal in 32 minutes during Monday's 83-80 win over Syracuse.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Ohio State](https://assets.rotowire.com/images/teamlogo/cbasketball/Ohio-State.png?v=16)
+[Justin Pippen](https://www.rotowire.com/cbasketball/player/justin-pippen-23522)
+Not very assertive in win
+**G** Ohio State
+November 10, 2026
+Pippen provided nine points (2-3 FG, 5-8 FT), three rebounds, two assists and one steal in 23 minutes during Monday's 84-74 victory over Marshall.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Ohio State](https://assets.rotowire.com/images/teamlogo/cbasketball/Ohio-State.png?v=16)
 [Andrija Jelavic](https://www.rotowire.com/cbasketball/player/andrija-jelavic-25759)
 Quieter outing in win
@@ -62,154 +209,6 @@ Goes for 19 points
 **G** Texas A&M
 November 10, 2026
 Pope supplied 19 points (6-11 FG, 1-6 3Pt, 6-6 FT), one rebound, three assists and two steals in 19 minutes during Monday's 108-67 win over ULM.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[Tyshawn Archie](https://www.rotowire.com/cbasketball/player/tyshawn-archie-25688)
-Nabs five steals
-**G** Texas A&M
-November 10, 2026
-Archie finished Monday's 108-67 victory over ULM with 12 points (5-8 FG, 1-3 3Pt, 1-1 FT), two rebounds, three assists and five steals in 16 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Duke Brennan](https://www.rotowire.com/cbasketball/player/duke-brennan-20458)
-Quiet start continues
-**C** Oklahoma
-November 10, 2026
-Brennan finished Monday's 81-72 victory over North Alabama with seven points (3-3 FG, 1-3 FT) and five rebounds in 18 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Pop Isaacs](https://www.rotowire.com/cbasketball/player/pop-isaacs-20401)
-Scores 13, grabs six boards
-**G** Oklahoma
-November 10, 2026
-Isaacs posted 13 points (4-10 FG, 4-10 3Pt, 1-2 FT), six rebounds, four assists, one block and two steals in 30 minutes during Monday's 81-72 victory over North Alabama.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
-[Jason Crowe Jr.](https://www.rotowire.com/cbasketball/player/jason-crowe-jr-28094)
-Goes off for 34 points
-**G** Missouri
-November 10, 2026
-Crowe Jr. contributed 34 points (11-16 FG, 4-8 3Pt, 8-9 FT), two rebounds, four assists and one steal in 32 minutes during Monday's 96-58 win over SIUE.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
-[Luke Northweather](https://www.rotowire.com/cbasketball/player/luke-northweather-20769)
-Makes season debut
-**C** Missouri
-November 10, 2026
-Northweather (undisclosed) amassed one rebound over two minutes during Monday's 96-58 win over SIUE.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
-[Toni Bryant](https://www.rotowire.com/cbasketball/player/toni-bryant-28095)
-Scores 18, grabs seven boards
-**F** Missouri
-November 10, 2026
-Bryant registered 18 points (6-8 FG, 2-2 3Pt, 4-4 FT), seven rebounds, three assists, one block and one steal in 34 minutes during Monday's 96-58 win over SIUE.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[Mouhamed Dioubate](https://www.rotowire.com/cbasketball/player/mouhamed-dioubate-22409)
-Provides 15 points, six boards
-**F** Louisiana State
-November 10, 2026
-Dioubate had 15 points (5-6 FG, 1-1 3Pt, 4-6 FT), six rebounds, three assists, one block and one steal across 22 minutes before fouling out of Monday's 90-50 victory over Louisiana Tech.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[Abdi Bashir](https://www.rotowire.com/cbasketball/player/abdi-bashir-23078)
-Puts in 16 points
-**G** Louisiana State
-November 10, 2026
-Bashir closed Monday's 90-50 win over Louisiana Tech with 16 points (5-12 FG, 4-11 3Pt, 2-2 FT), one rebound and two assists across 23 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oregon State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oregon-State.png?v=16)
-[Xavion Staton](https://www.rotowire.com/cbasketball/player/xavion-staton-26055)
-Provides double-double with five blocks
-**C** Oregon State
-November 10, 2026
-Staton totaled 11 points (2-4 FG, 1-1 3Pt, 6-8 FT), 13 rebounds and a season-high five blocks over 31 minutes during Monday's 94-84 win over Eastern Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DePaul](https://assets.rotowire.com/images/teamlogo/cbasketball/DePaul.png?v=16)
-[Noah Meeusen](https://www.rotowire.com/cbasketball/player/noah-meeusen-26232)
-Injury isn't long-term
-**G** DePaul
-Ankle
-November 9, 2026
-Meeusen (ankle) isn't dealing with a long-term injury, according to head coach Chris Holtmann per [WeAreDePaul.com](https://x.com/WeAreDePaul/status/2120010165944787010).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[Cade Phillips](https://www.rotowire.com/cbasketball/player/cade-phillips-22606)
-Suffers injury Monday
-**F** Texas A&M
-Knee
-November 9, 2026
-Phillips is dealing with an injury, and Texas A&M head coach Bucky McMillan said the team's medical staff will work to get the forward back as soon as possible once he's healthy, [Travis L. Brown of The Bryan-College Station Eagle](https://x.com/Travis_L_Brown/status/2120037286154994062) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[Jamarion Davis-Fleming](https://www.rotowire.com/cbasketball/player/jamarion-davis-fleming-26125)
-Likely to play Friday
-**F** Alabama
-Leg
-November 9, 2026
-Davis-Fleming (leg) is expected to be available for Friday's game against Seton Hall, according to head coach Nate Oats per [Nick Kelly of AL.com](https://x.com/_NickKelly/status/2119991315039433083). "I don't think it's going to be bad. ... I think he's highly likely to play Friday," Oats said.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UNC-Charlotte](https://assets.rotowire.com/images/teamlogo/cbasketball/UNC-Charlotte.png?v=16)
-[Chaze Harris](https://www.rotowire.com/cbasketball/player/chaze-harris-27385)
-Scores six points in return
-**G** UNC-Charlotte
-November 9, 2026
-Harris (undisclosed) had six points (2-5 FG, 0-1 3Pt, 2-4 FT), five rebounds, one assist and one steal in 17 minutes before fouling out of Monday's 68-62 loss to Seton Hall.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Cincinnati](https://assets.rotowire.com/images/teamlogo/cbasketball/Cincinnati.png?v=16)
-[Tyler Tejada](https://www.rotowire.com/cbasketball/player/tyler-tejada-22918)
-Reaches double figures in loss
-**F** Cincinnati
-November 9, 2026
-Tejada recorded 10 points (4-7 FG, 0-2 3Pt, 2-2 FT), three rebounds and three assists over 20 minutes during Monday's 63-61 loss to Minnesota.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Cincinnati](https://assets.rotowire.com/images/teamlogo/cbasketball/Cincinnati.png?v=16)
-[Tylen Riley](https://www.rotowire.com/cbasketball/player/tylen-riley-23075)
-Carries Bearcat offense in defeat
-**G** Cincinnati
-November 9, 2026
-Riley contributed 25 points (8-17 FG, 6-9 3Pt, 3-4 FT), five rebounds, three assists and one block over 33 minutes during Monday's 63-61 loss to Minnesota.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
-[Jack Karasinski](https://www.rotowire.com/cbasketball/player/jack-karasinski-21518)
-Could return Friday
-**F** Northwestern
-Concussion
-November 9, 2026
-Karasinski (concussion) could return Friday against Boston University, according to head coach Chris Collins per [Inside NU](https://x.com/insidenu/status/2119995395057291276). "I'm optimistic he has a chance to play Friday."
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[London Jemison](https://www.rotowire.com/cbasketball/player/london-jemison-25992)
-Perfect from the perimeter
-**F** Alabama
-November 9, 2026
-Jemison recorded 20 points (7-7 FG, 6-6 3Pt), three rebounds, three assists, one block and one steal in 17 minutes during Monday's 109-68 victory over Oakland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[Aden Holloway](https://www.rotowire.com/cbasketball/player/aden-holloway-22587)
-Returns with four 3-pointers
-**G** Alabama
-November 9, 2026
-Holloway posted 12 points (4-8 FG, 4-8 3Pt), two rebounds and two assists in 21 minutes during Monday's 109-68 victory over Oakland.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
