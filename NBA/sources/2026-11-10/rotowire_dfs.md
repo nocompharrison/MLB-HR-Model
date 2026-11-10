@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-player-props-spreads-and-picks-for-nov-10-146033 | fetched: 2026-11-10 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-today-player-props-spreads-and-picks-for-nov-10-146033 | fetched: 2026-11-10 18:34 ET -->
 
 # Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 10
 Get the best NBA bets today, with expert picks on Bam Adebayo, Ace Bailey, the New York Knicks, plus odds from top sportsbooks for the Tuesday, Nov. 10 NBA slate.
@@ -101,6 +101,11 @@ Boston Red Sox
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
+Set to return Wednesday
+NBA
+Los Angeles Lakers
   * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
 Ruled out for Tuesday
@@ -121,11 +126,6 @@ Brooklyn Nets
 Questionable against Chicago
 NBA
 San Antonio Spurs
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)
-Questionable for Wednesday
-NBA
-Chicago Bulls
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-10 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-10 18:34 ET -->
 
 # NBA DFS Picks Today
 November 10, 2026
@@ -31,6 +31,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Tuesday, November 10 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (12) All NBA news Boston Celtics (BOS @ PHI) Los Angeles Clippers (LAC @ PHX) Miami Heat (MIA @ UTA) Milwaukee Bucks (MIL @ NYK) New York Knicks (MIL @ NYK) Oklahoma City Thunder (OKC @ POR) Orlando Magic (ORL @ SAC) Philadelphia 76ers (BOS @ PHI) Phoenix Suns (LAC @ PHX) Portland Trail Blazers (OKC @ POR) Sacramento Kings (ORL @ SAC) Utah Jazz (MIA @ UTA)
+Milwaukee BucksMIL @ NYK - 7:30 PM ET
+**[Tyler Herro](https://www.rotowire.com/basketball/player/tyler-herro-4780)** _G_ OUT _Top_ 6:24 PM ET
+#### Sidelined versus Knicks
+Herro (knee) is listed as out for Tuesday's game against New York.
+Analysis
+Herro was listed as questionable ahead of this contest. However, he has been downgraded to out, meaning his next opportunity to suit up will come Wednesday versus the Lakers. With Herro sidelined, Ryan Rollins could enter the starting lineup for the first time since the 136-111 loss to Cleveland on Oct. 31.
+Milwaukee BucksMIL @ NYK - 7:30 PM ET
+**[Kel'el Ware](https://www.rotowire.com/basketball/player/kelel-ware-6275)** _C_ 6:22 PM ET
+#### Upgraded to available
+Ware (ankle) is available for Tuesday's game versus the Knicks.
+Analysis
+Ware was a late addition to the injury report with an ankle sprain, and he should be able to handle a normal workload if all goes well Tuesday. The third-year big man is struggling over his last four appearances, going for four points or fewer each time out during that span.
 New York KnicksMIL @ NYK - 7:30 PM ET
 **[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)** _F_ OUT _Top_ 5:58 PM ET
 #### Ruled out for Tuesday
@@ -49,19 +61,7 @@ Sacramento KingsORL @ SAC - 10:00 PM ET
 Sabonis (knee) is available for Tuesday's game against Orlando.
 Analysis
 Sabonis is returning from a one-game absence after being unavailable during Sunday's defeat to the Heat. With the star big man back in action, Dylan Cardwell is set to slide back to the bench Tuesday.
-Phoenix SunsLAC @ PHX - 9:00 PM ET
-**[Jordan Goodwin](https://www.rotowire.com/basketball/player/jordan-goodwin-5460)** _G_ 3:18 PM ET
-#### Removed from injury report
-Goodwin (calf) is off the injury report for Tuesday's game versus the Clippers.
-Analysis
-Goodwin is set to return Tuesday from a four-game absence with a right calf injury. Ryan Dunn's role had grown amid Goodwin's absence, so it remains to be seen how the Suns handle their wing minutes among their reserves going forward.
-New York KnicksMIL @ NYK - 7:30 PM ET
-**[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)** _F_ OUT _Top_ 2:20 PM ET
-#### Downgraded to doubtful
-Hart is doubtful for Tuesday's game against the Bucks due to an illness.
-Analysis
-Hart is in line to miss a third straight contest, but it appears he's moved past ankle soreness that previously bothered him. Until Hart is ready to return to the court, Landry Shamet will likely continue to start for the Knicks.
-Show 4 more (4 remaining)
+Show 5 more (6 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -73,16 +73,16 @@ Implied total vs. the slate _Lowest_ _Highest_
 **MIL @ NYK**
 O/U 221.57:30 PM ET
 BucksExpectedAway
-_Implied_**103.0** _Spread_**+15.5**  
+_Implied_**102.5** _Spread_**+16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Myles Turner  | $5,000  | 24.9  |  
-| PF  | Kyle Kuzma  | $4,600  | 25.0  |  
-| PG  | Brayden Burries  | $4,800  | 28.0  |  
-| SF  | Jaime Jaquez  | $5,800  | 26.4  |  
-| SG  | Tyler HerroQ  | $6,900  | 33.2  |  
+| C  | Myles Turner  | $5,000  | 28.1  |  
+| PF  | Kyle Kuzma  | $4,600  | 28.5  |  
+| PG  | Ryan Rollins  | $5,500  | 25.8  |  
+| SF  | Jaime Jaquez  | $5,800  | 30.2  |  
+| SG  | Brayden Burries  | $4,800  | 31.7  |  
 KnicksExpectedHome
-_Implied_**118.5** _Spread_**-15.5**  
+_Implied_**119.0** _Spread_**-16.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $8,900  | 47.8  |  
@@ -93,7 +93,7 @@ _Implied_**118.5** _Spread_**-15.5**
 **BOS @ PHI**
 O/U 217.58:00 PM ET
 CelticsExpectedAway
-_Implied_**109.5** _Spread_**-1.5**  
+_Implied_**110.0** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $4,900  | 24.8  |  
@@ -102,7 +102,7 @@ _Implied_**109.5** _Spread_**-1.5**
 | SF  | Jayson Tatum  | $10,100  | 43.3  |  
 | SG  | Derrick White  | $6,600  | 28.2  |  
 76ersExpectedHome
-_Implied_**108.0** _Spread_**+1.5**  
+_Implied_**107.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Joel Embiid  | $8,400  | 36.4  |  
@@ -183,14 +183,14 @@ AllGuardsForwardsCenters
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Isaiah CollierUTA - PG  | vs MIA  | $4,400  | 29  | 35.9  | **8.16**  |  
 | 2  |  Brice SensabaughUTA - SG  | vs MIA  | $3,500  | 23  | 24.6  | **7.04**  |  
-| 3  |  Brayden BurriesMIL - PG  | @ NYK  | $4,800  | 29  | 28.0  | **5.83**  |  
-| 4  |  Mo BambaUTA - C  | vs MIA  | $3,600  | 18  | 19.7  | **5.48**  |  
-| 5  |  Kyle KuzmaMIL - PF  | @ NYK  | $4,600  | 27  | 25.0  | **5.44**  |  
-| 6  |  Jalen GreenPHX - SG  | vs LAC  | $6,000  | 34  | 32.6  | **5.43**  |  
-| 7  |  Rui HachimuraLAC - PF  | @ PHX  | $6,000  | 31  | 32.6  | **5.43**  |  
-| 8  |  Wendell CarterORL - C  | @ SAC  | $6,600  | 34  | 35.5  | **5.39**  |  
-| 9  |  Karl-Anthony TownsNYK - PF  | vs MIL  | $8,900  | 33  | 47.8  | **5.37**  |  
-| 10  |  Landry ShametNYK - PF  | vs MIL  | $4,400  | 30  | 23.6  | **5.36**  |  
+| 3  |  Brayden BurriesMIL - PG  | @ NYK  | $4,800  | 32  | 31.7  | **6.60**  |  
+| 4  |  Kyle KuzmaMIL - PF  | @ NYK  | $4,600  | 30  | 28.5  | **6.20**  |  
+| 5  |  Myles TurnerMIL - C  | @ NYK  | $5,000  | 29  | 28.1  | **5.61**  |  
+| 6  |  Mo BambaUTA - C  | vs MIA  | $3,600  | 18  | 19.7  | **5.48**  |  
+| 7  |  Jalen GreenPHX - SG  | vs LAC  | $6,000  | 34  | 32.6  | **5.43**  |  
+| 8  |  Rui HachimuraLAC - PF  | @ PHX  | $6,000  | 31  | 32.6  | **5.43**  |  
+| 9  |  Wendell CarterORL - C  | @ SAC  | $6,600  | 34  | 35.5  | **5.39**  |  
+| 10  |  Karl-Anthony TownsNYK - PF  | vs MIL  | $8,900  | 33  | 47.8  | **5.37**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -199,7 +199,7 @@ NBA Boom-or-Bust Board
 Players whose ceiling outruns their salary and whose outcomes swing wider than their peers, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Main · Today · 7:30 PM ET · 5 games — 105 players projected Turbo · Today · 9:00 PM ET · 2 games — 41 players projected Night · Today · 10:00 PM ET · 2 games — 43 players projected Main · Wed 11/11 · 7:00 PM ET · 7 games — 34 players projected Turbo · Wed 11/11 · 8:00 PM ET · 4 games — 12 players projected Night · Wed 11/11 · 9:30 PM ET · 2 games — 22 players projected Today · 7:30 PM ET · MIL@NYK single game — 22 players projected Today · 8:00 PM ET · BOS@PHI single game — 21 players projected Today · 11:00 PM ET · OKC@POR single game — 22 players projected Wed 11/11 · 7:00 PM ET · CLE@NYK single game — 10 players projected Wed 11/11 · 8:00 PM ET · SAS@CHI single game — projections not yet available Wed 11/11 · 9:00 PM ET · ORL@UTA single game — 21 players projected Wed 11/11 · 9:30 PM ET · GSW@HOU single game — projections not yet available Wed 11/11 · 10:00 PM ET · OKC@POR single game — 22 players projected
+Slate Main · Today · 7:30 PM ET · 5 games — 104 players projected Turbo · Today · 9:00 PM ET · 2 games — 41 players projected Night · Today · 10:00 PM ET · 2 games — 43 players projected Main · Wed 11/11 · 7:00 PM ET · 7 games — 33 players projected Turbo · Wed 11/11 · 8:00 PM ET · 4 games — 11 players projected Night · Wed 11/11 · 9:30 PM ET · 2 games — 22 players projected Today · 7:30 PM ET · MIL@NYK single game — 21 players projected Today · 8:00 PM ET · BOS@PHI single game — 21 players projected Today · 11:00 PM ET · OKC@POR single game — 22 players projected Wed 11/11 · 7:00 PM ET · CLE@NYK single game — 10 players projected Wed 11/11 · 8:00 PM ET · SAS@CHI single game — projections not yet available Wed 11/11 · 9:00 PM ET · ORL@UTA single game — 21 players projected Wed 11/11 · 9:30 PM ET · GSW@HOU single game — projections not yet available Wed 11/11 · 10:00 PM ET · OKC@POR single game — 22 players projected
 TeamAll BOS LAC MIA MIL NYK ORL PHI PHX SAC UTA
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -208,27 +208,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)BurriesBridgesAnunobyWadeShametWigginsBlackGreen
+$3K$4K$5K$6K$7K$8K$9K$10K$11K−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)BurriesBridgesAnunobyWadeShametWigginsBlackTurner
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BOS@PHI, LAC@PHX, MIA@UTA, MIL@NYK, ORL@SAC  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Brayden BurriesMIL · PG/SG · MIL@NYK  | $4,800  | 8.9  | 28.0  | **53.8**  |   | +10.6  | +6  | 96  |  
-| 2  |  Mikal BridgesNYK · SF · MIL@NYK  | $5,000  | 7.6  | 26.3  | **51.1**  |   | +6.3  | +7  | 94  |  
-| 3  |  OG AnunobyNYK · PF · MIL@NYK  | $6,500  | 11.8  | 33.7  | **61.8**  |   | +5.8  | +5  | 89  |  
-| 4  |  Wendell CarterORL · C · ORL@SAC  | $6,600  | 13.1  | 35.5  | **64.2**  |   | +7.4  | +3  | 88  |  
+| 1  |  Brayden BurriesMIL · PG/SG · MIL@NYK  | $4,800  | 10.7  | 31.7  | **59.2**  |   | +15.9  | +5  | 97  |  
+| 2  |  Mikal BridgesNYK · SF · MIL@NYK  | $5,000  | 7.6  | 26.3  | **51.1**  |   | +6.3  | +6  | 93  |  
+| 3  |  OG AnunobyNYK · PF · MIL@NYK  | $6,500  | 11.8  | 33.7  | **61.8**  |   | +5.7  | +5  | 89  |  
+| 4  |  Wendell CarterORL · C · ORL@SAC  | $6,600  | 13.1  | 35.5  | **64.2**  |   | +7.3  | +3  | 87  |  
 | 5  |  Dean WadePHI · SF/PF · BOS@PHI  | $3,600  | 3.7  | 17.0  | **36.6**  |   | +2.4  | +9  | 85  |  
 | 6  |  Landry ShametNYK · PF · MIL@NYK  | $4,400  | 6.9  | 23.6  | **46.6**  |   | +6.4  | +3  | 84  |  
-| 7  |  Andrew WigginsMIA · SF · MIA@UTA  | $5,100  | 7.3  | 24.8  | **48.7**  |   | +3.2  | +5  | 84  |  
-| 8  |  Anthony BlackORL · PG/SG · ORL@SAC  | $6,900  | 12.7  | 34.4  | **62.9**  |   | +3.8  | +3  | 80  |  
-| 9  |  Jalen GreenPHX · SG · LAC@PHX  | $6,000  | 11.8  | 32.6  | **59.7**  |   | +7.4  | +1  | 79  |  
-| 10  |  Collin GillespiePHX · PG · LAC@PHX  | $5,200  | 8.2  | 25.4  | **49.8**  |   | +3.6  | +3  | 78  |  
-| 11  |  Tristan da SilvaORL · SF/PF · ORL@SAC  | $5,700  | 8.4  | 27.1  | **52.1**  |   | +2.0  | +4  | 78  |  
-| 12  |  Josh GreenUTA · SG/SF · MIA@UTA  | $4,000  | 4.9  | 19.2  | **39.6**  |   | +2.4  | +4  | 77  |  
-| 13  |  Josh OkogieUTA · SF/PF · MIA@UTA  | $3,800  | 5.2  | 19.5  | **40.1**  |   | +4.4  | +3  | 76  |  
-| 14  |  Jase RichardsonORL · PG/SG · ORL@SAC  | $4,700  | 5.4  | 20.9  | **42.8**  |   | +0.3  | +7  | 76  |  
-| 15  |  Kris DunnLAC · PG/SG · LAC@PHX  | $5,400  | 7.7  | 25.3  | **49.5**  |   | +1.7  | +4  | 75  |  
+| 7  |  Andrew WigginsMIA · SF · MIA@UTA  | $5,100  | 7.3  | 24.8  | **48.7**  |   | +3.2  | +5  | 83  |  
+| 8  |  Anthony BlackORL · PG/SG · ORL@SAC  | $6,900  | 12.7  | 34.4  | **62.9**  |   | +3.7  | +3  | 80  |  
+| 9  |  Myles TurnerMIL · C · MIL@NYK  | $5,000  | 9.6  | 28.1  | **53.4**  |   | +8.6  | +1  | 79  |  
+| 10  |  Josh GreenUTA · SG/SF · MIA@UTA  | $4,000  | 4.9  | 19.2  | **39.6**  |   | +2.5  | +3  | 77  |  
+| 11  |  Tristan da SilvaORL · SF/PF · ORL@SAC  | $5,700  | 8.4  | 27.1  | **52.1**  |   | +2.0  | +4  | 77  |  
+| 12  |  Jase RichardsonORL · PG/SG · ORL@SAC  | $4,700  | 5.4  | 20.9  | **42.8**  |   | +0.3  | +7  | 77  |  
+| 13  |  Collin GillespiePHX · PG · LAC@PHX  | $5,200  | 8.2  | 25.4  | **49.8**  |   | +3.5  | +3  | 77  |  
+| 14  |  Jalen GreenPHX · SG · LAC@PHX  | $6,000  | 11.8  | 32.6  | **59.7**  |   | +7.4  | +1  | 77  |  
+| 15  |  Josh OkogieUTA · SF/PF · MIA@UTA  | $3,800  | 5.2  | 19.5  | **40.1**  |   | +4.5  | +3  | 76  |  
 Show all 90 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:30 PM ET · 5 games slate · 2026-11-10.
 ## **NBA Injury Report**

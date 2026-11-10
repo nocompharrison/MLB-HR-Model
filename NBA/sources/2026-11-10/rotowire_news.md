@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-10 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-10 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,60 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Tyler Herro](https://www.rotowire.com/basketball/player/tyler-herro-4780)[Sidelined versus Knicks](https://www.rotowire.com/basketball/headlines/tyler-herro-injury-sidelined-versus-knicks-538514)
+**G** Milwaukee Bucks
+Knee
+November 10, 2026
+Herro (knee) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_06_15PM.pdf) for Tuesday's game against New York.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Kel'el Ware](https://www.rotowire.com/basketball/player/kelel-ware-6275)[Upgraded to available](https://www.rotowire.com/basketball/headlines/kelel-ware-news-upgraded-to-available-538513)
+**C** Milwaukee Bucks
+November 10, 2026
+Ware (ankle) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_06_15PM.pdf) for Tuesday's game versus the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Questionable against Denver](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-questionable-against-denver-538512)
+**C** Memphis Grizzlies
+Knee
+November 10, 2026
+Stewart (knee) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_06_00PM.pdf) for Wednesday's game versus the Nuggets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[Another absence coming](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-another-absence-coming-538511)
+**G** Memphis Grizzlies
+Back
+November 10, 2026
+Pippen (back) remains out for Wednesday's game against Denver, [Michael Wallace of the Grizzlies' official site](https://x.com/MyMikeCheck/status/2120291532502860186) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/quinten-post-injury-wont-play-wednesday-538510)
+**C** Memphis Grizzlies
+Head
+November 10, 2026
+Post (concussion) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_06_00PM.pdf) for Wednesday's game against the Nuggets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Quentin Grimes](https://www.rotowire.com/basketball/player/quentin-grimes-5391)[Could miss another game Wednesday](https://www.rotowire.com/basketball/headlines/quentin-grimes-injury-could-miss-another-game-wednesday-538509)
+**G** Los Angeles Lakers
+Finger
+November 10, 2026
+Grimes (finger) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_06_00PM.pdf) for Wednesday's game in Milwaukee.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)[Set to return Wednesday](https://www.rotowire.com/basketball/headlines/austin-reaves-news-set-to-return-wednesday-538508)
+**G** Los Angeles Lakers
+November 10, 2026
+Reaves (illness) is off the injury report for Wednesday's game against the Bucks, [Ryan Ward of SI.com](https://x.com/RyanWardLA/status/2120291321403605037) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)[Ruled out for Tuesday](https://www.rotowire.com/basketball/headlines/josh-hart-injury-ruled-out-for-tuesday-538507)
 **F** New York Knicks
@@ -151,58 +205,6 @@ Barnes (groin) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Repo
 Knee
 November 10, 2026
 Payton (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_04_30PM.pdf) for Wednesday's game against Houston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Will Richard](https://www.rotowire.com/basketball/player/will-richard-6625)[Questionable for Wednesday](https://www.rotowire.com/basketball/headlines/will-richard-injury-questionable-for-wednesday-538487)
-**G** Golden State Warriors
-Thumb
-November 10, 2026
-Richard (thumb) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_04_30PM.pdf) for Wednesday's game against Houston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Brandon Williams](https://www.rotowire.com/basketball/player/brandon-williams-5588)[Out with strained hamstring](https://www.rotowire.com/basketball/headlines/brandon-williams-injury-out-with-strained-hamstring-538486)
-**G** Golden State Warriors
-Hamstring
-November 10, 2026
-Williams (hamstring) will miss at least one week, per [Anthony Slater of ESPN.com](https://x.com/anthonyVslater/status/2120264698604245044?a=S6RaRIrjR5EnR0wAqaA&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)[Available Tuesday](https://www.rotowire.com/basketball/headlines/keegan-murray-news-available-tuesday-538484)
-**F** Sacramento Kings
-November 10, 2026
-Murray (wrist) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_03_45PM.pdf) for Tuesday's game against the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Domantas Sabonis](https://www.rotowire.com/basketball/player/domantas-sabonis-3865)[Upgraded to available](https://www.rotowire.com/basketball/headlines/domantas-sabonis-news-upgraded-to-available-538483)
-**C** Sacramento Kings
-November 10, 2026
-Sabonis (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_03_45PM.pdf) for Tuesday's game against Orlando.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Jordan Goodwin](https://www.rotowire.com/basketball/player/jordan-goodwin-5460)[Removed from injury report](https://www.rotowire.com/basketball/headlines/jordan-goodwin-news-removed-from-injury-report-538482)
-**G** Phoenix Suns
-November 10, 2026
-Goodwin (calf) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_03_15PM.pdf) for Tuesday's game versus the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trendon Watford](https://www.rotowire.com/basketball/player/trendon-watford-5358)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/trendon-watford-injury-ruled-out-for-wednesday-538481)
-**F** New Orleans Pelicans
-Ankle
-November 10, 2026
-Watford (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_02_15PM.pdf) for Wednesday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Zion Williamson](https://www.rotowire.com/basketball/player/zion-williamson-4777)[Absent from injury report](https://www.rotowire.com/basketball/headlines/zion-williamson-news-absent-from-injury-report-538480)
-**F** New Orleans Pelicans
-November 10, 2026
-Williamson (rest) is [off the injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_02_15PM.pdf) for Wednesday's game against the Nets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10 | fetched: 2026-11-10 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10 | fetched: 2026-11-10 18:34 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Celtics vs. 76ers Tonight: Prediction, Picks and Prop Bets (Nov. 10)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![Celtics vs. 76ers Tonight: Prediction, Picks and Prop Bets \(Nov. 10\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd3aaa16d257588d7f24eefc7cbcad431e0f8f19c-4189x2793.jpg%3Frect%3D673%2C0%2C3232%2C1599%26w%3D964%26h%3D477&w=1920&q=100)
 **Celtics vs. 76ers Top Bets at a Glance**
@@ -30,7 +30,7 @@ _Please note lines are subject to change throughout the day after this article i
 ### [Joel Embiid 10+ Rebounds (+134)](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-philadelphia-76ers-36295143)
 10+ Rebounds
 [Joel Embiid](https://sportsbook.fanduel.com/teams/nba/roster/joel-embiid-2251)
-+138
++140
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-philadelphia-76ers-36295143)
 Odds/lines subject to change
@@ -41,7 +41,7 @@ Embiid’s minutes have fluctuated, so this is a plus-money play with some playi
 ### [76ers Moneyline (-102)](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-philadelphia-76ers-36295143)
 Moneyline
 Philadelphia 76ers
-+100
++106
 Nov 11 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-philadelphia-76ers-36295143)
 Odds/lines subject to change
 The Sixers have won nine of their first 11 games, including a 127-121 road victory over Chicago on Sunday. Philly enters this matchup with a 107.6 defensive rating, fifth-best in the league, and a +2.7 net rating. Those figures make clear this team is winning with defense even though its overall efficiency margin trails that of the Celtics.
@@ -77,7 +77,7 @@ Tuesday's best NBA player props. Which NBA prop bets should be on your radar ton
 [](https://www.fanduel.com/research/nba-props-today-tuesday-nov-10)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Celtics vs. 76ers Tonight: Prediction, Picks and Prop Bets (Nov. 10)](https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10)
-1h
+2h
 Celtics vs 76ers picks and prop bets for tonight.
 [](https://www.fanduel.com/research/celtics-76ers-prediction-picks-and-prop-bets-nov-10)
 [NBA](https://www.fanduel.com/research/nba)
