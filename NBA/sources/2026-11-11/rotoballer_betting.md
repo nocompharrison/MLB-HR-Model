@@ -1,16 +1,16 @@
-<!-- source: https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231 | fetched: 2026-11-11 11:05 ET -->
+<!-- source: https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231 | fetched: 2026-11-11 16:05 ET -->
 
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
-[](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+[](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
 [Logout](https://www.rotoballer.com/wp-login.php?action=logout)[My Account](https://www.rotoballer.com/my-account)[Upgrade](https://www.rotoballer.com/upgrade-premium-account?pa=upgrade)
 
 
 [👉 TAP TO SAVE 50% WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
   * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-  * [FANTASY SPORTS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+  * [FANTASY SPORTS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
     * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [TOP SPORTS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+    * [TOP SPORTS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
       * [NFL](https://www.rotoballer.com/nfl "NFL ARTICLES – FANTASY FOOTBALL ANALYSIS")
       * [MLB](https://www.rotoballer.com/mlb)
@@ -21,7 +21,7 @@
       * [F1 (Formula 1)](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
       * [NCAAF (CFB)](https://www.rotoballer.com/category/ncaa-football "COLLEGE FOOTBALL \(NCAA\)")
       * [NCAAB (CBB)](https://www.rotoballer.com/category/nba-college-basketball-news "COLLEGE BASKETBALL \(NCAA\)")
-    * [MORE SPORTS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+    * [MORE SPORTS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
       * [MMA](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc "MMA \(UFC\) DFS")
       * [EPL](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy "ENGLISH PREMIER LEAGUE & SOCCER DFS")
@@ -150,7 +150,7 @@
       * [NFL All 32 Teams Lists](https://www.rotoballer.com/tag/nfl-all-32)
       * [NFL Report Cards](https://www.rotoballer.com/tag/nfl-report-cards)
       * [NFL Predictions](https://www.rotoballer.com/tag/nfl-predictions)
-    * [MORE](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+    * [MORE](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
       * [DFS](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DFS LINEUP PICKS – DAILY FANTASY SPORTS")
       * [Betting](https://www.rotoballer.com/category/sports-betting-picks "BETTING PICKS & ADVICE")
@@ -200,7 +200,7 @@
       * [Picks Finder Tool](https://www.rotoballer.com/novig-prediction-finder "NOVIG Picks Finder Tool")
       * [De-Vig Calculator Tool](https://www.rotoballer.com/novig-de-vig-calculator "NOVIG TOOL: DE-VIG CALCULATOR")
       * [Free Premium (Promo Offer)](https://www.rotoballer.com/no "GET 1 YEAR FREE ROTOBALLER PREMIUM")
-  * [FANTASY TOOLS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+  * [FANTASY TOOLS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
     * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
     * [PREMIUM TOOLS](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services)
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
@@ -304,7 +304,7 @@
       * [Draft Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
       * [Free Agent Finder](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
       * [Trade Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-    * [LINEUP OPTIMIZERS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231 "DFS LINEUP OPTIMIZERS – DAILY FANTASY SPORTS")
+    * [LINEUP OPTIMIZERS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231 "DFS LINEUP OPTIMIZERS – DAILY FANTASY SPORTS")
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
       * [NFL Optimizer](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "DFS LINEUP GENERATOR – FANTASY FOOTBALL")
       * [MLB Optimizer](https://www.rotoballer.com/mlb-dfs-lineup-generator-optimizer-daily-fantasy-baseball "MLB DFS LINEUP GENERATOR")
@@ -415,12 +415,12 @@
       * [Pitchers (In-Season)](https://www.rotoballer.com/tag/the-baller-ranks-weekly-starting-pitcher-rankings-for-fantasy-baseball "STARTING PITCHER RANKS – UPDATED WEEKLY")
       * [Closers (In-Season)](https://www.rotoballer.com/tag/fantasy-baseball-saves-holds-leagues-sv-hld "RELIEF PITCHER RANKS – UPDATED WEEKLY")
       * [Waiver Wire](https://www.rotoballer.com/tag/fantasy-baseball-waiver-wire-rankings "WAIVER WIRE RANKS – UPDATED WEEKLY")
-    * [MORE SPORTS RANKINGS](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+    * [MORE SPORTS RANKINGS](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
       * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
       * [CFB Rankings (NCAA)](https://www.rotoballer.com/college-fantasy-football-rankings-projections-cfb-ncaa "COLLEGE FANTASY FOOTBALL RANKINGS \(CFB\)")
       * [CFB Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-college-fantasy-football-cfb "WHO SHOULD I DRAFT? COLLEGE FANTASY FOOTBALL \(CFB\)")
       * [NBA Rankings](https://www.rotoballer.com/fantasy-basketball-rankings-projections-nba "FANTASY BASKETBALL RANKINGS")
-      * [PGA Rankings](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231 "GOLF POWER RANKINGS")
+      * [PGA Rankings](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231 "GOLF POWER RANKINGS")
       * [NHL Rankings](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl "FANTASY HOCKEY RANKINGS \(NHL\)")
       * [NASCAR RANKINGS](https://www.rotoballer.com/tag/nascar-dfs-draftkings-projections "Weekly NASCAR Driver Rankings")
   * [OPTIMIZER](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel?pa=grey26optimizernfl "FANTASY BASEBALL LINEUP OPTIMIZER – DFS PICKS")
@@ -447,7 +447,7 @@ Continue with Apple Continue with Google
 or
 [Lost password?](https://www.rotoballer.com/wp-login.php?action=lostpassword)
 Don't have an account?  
-[Gain Access Now](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+[Gain Access Now](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
 ![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
 Continue with Apple Continue with Google
 or
@@ -463,7 +463,7 @@ PGA
 ESPORTS
 BETTING
 Submit
-Already have an account? [Log In](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+Already have an account? [Log In](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
 ![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
 ## Forgot Password
 * * *
@@ -571,7 +571,7 @@ DEF
 [Kyren Williams](http://www.rotoballer.com/nfl/player/23212/Kyren+Williams) LAR
 14
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Novig-RotoBaller-small.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -624,155 +624,169 @@ RP
 27
 [View All Players](https://www.rotoballer.com/fantasy-baseball-rankings/440514)
 #### [REAL-TIME FANTASY NEWS](https://www.rotoballer.com/player-news)
-  * [NFL](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
-  * [MLB](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
-  * [NBA](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
-  * [PGA](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
-  * [NHL](https://www.rotoballer.com/nba-prop-bet-picks-for-wednesday-11-11-26/1990231)
+  * [NFL](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
+  * [MLB](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
+  * [NBA](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
+  * [PGA](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
+  * [NHL](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-11-26/1990231)
 
 
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA25 min ago   
-Haotong Li Could Be a Boom or Bust Option at Austin Championship](https://www.rotoballer.com/player-news/haotong-li-could-be-a-boom-or-bust-option-at-austin-championship/1990433)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles32 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Puka Nacua6 min ago   
+Out for Some Time but Not Placed on Injured Reserve](https://www.rotoballer.com/player-news/puka-nacua-out-for-some-time-but-not-placed-on-injured-reserve/1990790)
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Drew Lock23 min ago   
+Expected to Start Against Raiders](https://www.rotoballer.com/player-news/drew-lock-oblique-on-track-to-start-sunday-vs-raiders/1990754)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Brian Harman35 min ago   
+to Continue Solid Form at Austin Championship](https://www.rotoballer.com/player-news/brian-harman-to-continue-solid-form-at-austin-championship/1990766)
+[![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Paul George49 min ago   
+Sidelined on Wednesday](https://www.rotoballer.com/player-news/paul-george-sidelined-on-wednesday/1990741)
+[![](https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg) Myles Turner1 h ago   
+Out Wednesday](https://www.rotoballer.com/player-news/myles-turner-out-wednesday/1990734)
+[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) George Pickens1 h ago   
+Going Through Individual Drills on Wednesday](https://www.rotoballer.com/player-news/george-pickens-hamstring-shoulder-going-through-individual-drills-at-practice-wednesday/1990710)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown1 h ago   
+Traveling to Germany With Patriots](https://www.rotoballer.com/player-news/a-j-brown-going-to-germany-with-team/1990707)
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Quentin Grimes1 h ago   
+Downgraded to Unavailable](https://www.rotoballer.com/player-news/quentin-grimes-downgraded-to-unavailable/1990705)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Patrick Mahomes1 h ago   
+in a "Great Spot" After MRI, Will Need to Manage Pain](https://www.rotoballer.com/player-news/patrick-mahomes-in-a-great-spot-after-mri-will-need-to-manage-pain/1990686)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Caleb Wilson1 h ago   
+Considered Questionable for Wednesday](https://www.rotoballer.com/player-news/caleb-wilson-considered-questionable-for-wednesday/1990695)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nfl/nfl.png) NFL2 h ago   
+Rex Ryan Arrested Wednesday in Nashville](https://www.rotoballer.com/player-news/rex-ryan-arrested-in-nashville-wednesday/1990592)
+[![](https://upload.wikimedia.org/wikipedia/en/3/37/Miami_Dolphins_logo.svg) Malik Willis2 h ago   
+Hopes to Return in 2026](https://www.rotoballer.com/player-news/malik-willis-groin-core-hopes-to-return-this-season/1990608)
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Lauri Markkanen2 h ago   
+Sidelined at Least One Month](https://www.rotoballer.com/player-news/lauri-markkanen-sidelined-at-least-one-month/1990667)
+[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Egor Demin2 h ago   
+Available on Wednesday](https://www.rotoballer.com/player-news/egor-demin-available-on-wednesday/1990648)
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs2 h ago   
+Could Return in 2-3 Weeks](https://www.rotoballer.com/player-news/josh-jacobs-finger-could-return-in-2-3-weeks/1990622)
+[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson3 h ago   
+Aaron Glenn "Very Hopeful" That Garrett Wilson Will Play in Week 10](https://www.rotoballer.com/player-news/aaron-glenn-is-very-hopeful-garrett-wilson-will-play-this-weekend/1990550)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Max Homa4 h ago   
+Still Searching for Consistent Iron Play in Year's Penultimate Event](https://www.rotoballer.com/player-news/max-homa-still-searching-for-consistent-iron-play-in-years-penultimate-event/1990520)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA5 h ago   
+Haotong Li Could Be a Boom-or-Bust Option at Austin Championship](https://www.rotoballer.com/player-news/haotong-li-could-be-a-boom-or-bust-option-at-austin-championship/1990433)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles5 h ago   
 Looks to Stay Hot at Austin Championship](https://www.rotoballer.com/player-news/ben-kohles-looks-to-stay-hot-at-austin-championship/1990422)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger44 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger5 h ago   
 Looking to Keep Strong Fall Run Going](https://www.rotoballer.com/player-news/stephan-jaeger-looking-to-keep-strong-fall-run-going/1990398)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey53 min ago   
-Looking to Put Together Another Strong Week at Austin Championship](https://www.rotoballer.com/player-news/rico-hoey-looking-to-put-together-another-strong-week-at-austin-championship/1990379)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey5 h ago   
+Looking to Put Together Another Strong Week in Austin](https://www.rotoballer.com/player-news/rico-hoey-looking-to-put-together-another-strong-week-at-austin-championship/1990379)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody6 h ago   
 Looking to Carry Momentum Into Austin Championship](https://www.rotoballer.com/player-news/pierceson-coody-looking-to-carry-momentum-into-austin-championship/1990367)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) NHL1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) NHL6 h ago   
 Evander Kane Signs With KHL Team](https://www.rotoballer.com/player-news/evander-kane-signs-with-khl-team/1990363)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout6 h ago   
 Looking to Rebound at Austin Championship](https://www.rotoballer.com/player-news/christiaan-bezuidenhout-looking-to-rebound-at-austin-championship/1990354)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Colton Dach1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Colton Dach6 h ago   
 Available for Wednesday's Game](https://www.rotoballer.com/player-news/colton-dach-available-for-wednesdays-game/1990352)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Guenther1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Guenther6 h ago   
 Questionable Wednesday](https://www.rotoballer.com/player-news/dylan-guenther-questionable-wednesday/1990343)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Noah Hanifin1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Puka Nacua6 h ago   
+Rams Hope to Have Puka Nacua Back Around Week 14 or 15](https://www.rotoballer.com/player-news/rams-hope-to-have-puka-nacua-back-around-week-14-or-15/1990314)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Noah Hanifin6 h ago   
 Week-to-Week With Undisclosed Injury](https://www.rotoballer.com/player-news/noah-hanifin-week-to-week-with-undisclosed-injury/1990337)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Troy Terry1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Troy Terry6 h ago   
 Likely to Make Season Debut Wednesday](https://www.rotoballer.com/player-news/troy-terry-likely-to-make-season-debut-wednesday/1990328)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Brad Marchand1 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Brad Marchand6 h ago   
 Aleksander Barkov, Brad Marchand Could Return in Two Weeks](https://www.rotoballer.com/player-news/aleksander-barkov-brad-marchand-could-return-in-two-weeks/1990319)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nick Cousins1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Deshaun Watson6 h ago   
+Will Start in Week 10](https://www.rotoballer.com/player-news/deshaun-watson-starts-vs-texans-over-shedeur-sanders/1990281)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nick Cousins6 h ago   
 "Not Doing Great" After Leaving Loss With Injury](https://www.rotoballer.com/player-news/nick-cousins-not-doing-great-after-leaving-loss-with-injury/1990296)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Quentin Grimes2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Quentin Grimes7 h ago   
 Listed as Questionable for Wednesday](https://www.rotoballer.com/player-news/quentin-grimes-listed-as-questionable-for-wednesday/1990284)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart7 h ago   
 Questionable for Wednesday Against Denver](https://www.rotoballer.com/player-news/isaiah-stewart-knee-questionable-vs-denver/1989929)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Devin Vassell2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Devin Vassell7 h ago   
 Questionable Against Bulls](https://www.rotoballer.com/player-news/devin-vassell-questionable-against-bulls/1990277)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves7 h ago   
 Off the Injury Report for Wednesday](https://www.rotoballer.com/player-news/austin-reaves-off-the-injury-report-for-wednesday/1990271)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Norman Powell2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Norman Powell7 h ago   
 Iffy for Wednesday](https://www.rotoballer.com/player-news/norman-powell-iffy-for-wednesday/1990264)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa7 h ago   
 Exits with Lower-Leg Injury](https://www.rotoballer.com/player-news/precious-achiuwa-exits-with-lower-leg-injury/1990257)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Domantas Sabonis4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Domantas Sabonis9 h ago   
 (knee) Out; Keegan Murray Unavailable](https://www.rotoballer.com/player-news/domantas-sabonis-knee-out-keegan-murray-unavailable/1990223)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Zach LaVine5 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Zach LaVine10 h ago   
 Drops 31 Points, Turns Ankle in Second Half vs. the Magic](https://www.rotoballer.com/player-news/zach-lavine-drops-31-points-turns-ankle-in-second-half-vs-the-magic/1990210)
-[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré17 h ago   
 Nolan Traore Iffy for Wednesday](https://www.rotoballer.com/player-news/nolan-traore-iffy-for-wednesday/1990100)
-[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Egor Demin12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Egor Demin17 h ago   
 Probable for Wednesday Against Pelicans](https://www.rotoballer.com/player-news/egor-demin-r-leg-bone-bruise-probable-vs-new-orleans-nolan-traore-r-calf-soreness/1989920)
-[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Collin Murray-Boyles13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Collin Murray-Boyles18 h ago   
 Questionable Against Celtics](https://www.rotoballer.com/player-news/collin-murray-boyles-questionable-against-celtics/1990090)
-[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Immanuel Quickley13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Immanuel Quickley18 h ago   
 Iffy for Wednesday](https://www.rotoballer.com/player-news/immanuel-quickley-iffy-for-wednesday/1990083)
-[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Scottie Barnes13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Scottie Barnes18 h ago   
 Ruled Out for Third Straight Game](https://www.rotoballer.com/player-news/scottie-barnes-ruled-out-for-third-straight-game/1990079)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Riley Greene13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Riley Greene18 h ago   
 Mentioned as a Trade Candidate](https://www.rotoballer.com/player-news/riley-greene-mentioned-as-a-trade-candidate/1990077)
-[![](https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg) Brandon Williams13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg) Brandon Williams18 h ago   
 Sidelined at Least One Week](https://www.rotoballer.com/player-news/brandon-williams-sidelined-at-least-one-week/1990075)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg) Trendon Watford13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg) Trendon Watford18 h ago   
 Sidelined Again Wednesday](https://www.rotoballer.com/player-news/trendon-watford-sidelined-again-wednesday/1990069)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Emiliano Grillo13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Emiliano Grillo18 h ago   
 Needs A Strong Performance at Austin Championship](https://www.rotoballer.com/player-news/emiliano-grillo-needs-a-strong-performance-at-austin-championship/1990067)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Andrew Novak13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Andrew Novak18 h ago   
 Secures First Win of 2026 Season](https://www.rotoballer.com/player-news/andrew-novak-secures-first-win-of-2026-season/1990062)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Michael Kim13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Michael Kim18 h ago   
 Continues to Play Well Through Fall Swing](https://www.rotoballer.com/player-news/michael-kim-continues-play-well-through-fall-swing/1990060)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Billy Horschel13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Billy Horschel18 h ago   
 Sits Just Inside Top 100 in FedEx Cup Standings](https://www.rotoballer.com/player-news/billy-horschel-sits-just-inside-top-100-in-fedex-cup-standings/1990057)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Harry Hall13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Harry Hall18 h ago   
 Rattles Off Third Straight Top-25 Finish](https://www.rotoballer.com/player-news/harry-hall-rattles-off-third-straight-top-25-finish/1990051)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Luke Clanton13 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Luke Clanton18 h ago   
 Having Solid Fall Season Heading to Austin Championship](https://www.rotoballer.com/player-news/luke-clanton-having-solid-fall-season-heading-to-austin-championship/1990049)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Joel Embiid13 h ago   
-Limps to Locker Room After Fall](https://www.rotoballer.com/player-news/joel-embiid-limps-to-locker-room-after-fall/1990044)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg) Yves Missi13 h ago   
-Set to Miss 10th Straight Game](https://www.rotoballer.com/player-news/yves-missi-set-to-miss-10th-straight-game/1990040)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg) Trey Murphy III14 h ago   
-Probable for Wednesday Against Brooklyn](https://www.rotoballer.com/player-news/trey-murphy-iii-probable-for-wednesday-against-brooklyn/1990021)
-[![](https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg) Tristan da Silva14 h ago   
-Ruled Out Tuesday at Sacramento](https://www.rotoballer.com/player-news/tristan-da-silva-out-vs-kings-with-left-calf-strain/1990009)
-[![](https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg) Kawhi Leonard14 h ago   
-Ruled Out for at Least Another Week](https://www.rotoballer.com/player-news/kawhi-leonard-ruled-out-for-at-least-another-week/1990006)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Max Fried14 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Max Fried19 h ago   
 has Bone Spur Removed, Should be Ready for Spring Training](https://www.rotoballer.com/player-news/max-fried-has-bone-spur-removed-should-be-ready-for-spring-training/1990004)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo14 h ago   
-Set to Play Tuesday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-right-wrist-sprain-available-vs-jazz/1989986)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Sal Stewart14 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Sal Stewart19 h ago   
 Named NL Rookie of the Year](https://www.rotoballer.com/player-news/sal-stewart-named-nl-rookie-of-the-year/1989997)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Kevin McGonigle14 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Kevin McGonigle19 h ago   
 Named AL Rookie of the Year](https://www.rotoballer.com/player-news/kevin-mcgonigle-named-al-rookie-of-the-year/1989995)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/New_Orleans_Saints_logo.svg) Travis Etienne Jr.15 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/New_Orleans_Saints_logo.svg) Travis Etienne Jr.20 h ago   
 Saints Taking Wait-and-See Approach With Travis Etienne Jr.](https://www.rotoballer.com/player-news/saints-taking-wait-and-see-approach-with-travis-etienne-jr/1989983)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mats Zuccarello17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mats Zuccarello22 h ago   
 Rejoins Kings Lineup Tuesday](https://www.rotoballer.com/player-news/mats-zuccarello-rejoins-kings-lineup-tuesday/1989927)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael McCarron17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael McCarron22 h ago   
 Good to Go Against Canadiens](https://www.rotoballer.com/player-news/michael-mccarron-good-to-go-against-canadiens/1989918)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jared Spurgeon17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jared Spurgeon22 h ago   
 Returns From Five-Game Absence](https://www.rotoballer.com/player-news/jared-spurgeon-returns-from-five-game-absence/1989916)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Brandon Aiyuk17 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Brandon Aiyuk22 h ago   
 49ers Don't Release Brandon Aiyuk on Tuesday](https://www.rotoballer.com/player-news/49ers-did-not-release-brandon-aiyuk-tuesday/1989900)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Josh Morrissey17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Josh Morrissey22 h ago   
 Cleared to Face Devils](https://www.rotoballer.com/player-news/josh-morrissey-cleared-to-face-devils/1989912)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jack Roslovic17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jack Roslovic22 h ago   
 on Track to Return Tuesday](https://www.rotoballer.com/player-news/jack-roslovic-on-track-to-return-tuesday/1989910)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks17 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks22 h ago   
 Panthers Expect Jonathon Brooks Back From IR Soon](https://www.rotoballer.com/player-news/panthers-expecting-jonathon-brooks-back-from-ir-soon/1989876)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Morgan Rielly17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Morgan Rielly22 h ago   
 Remains Out Tuesday](https://www.rotoballer.com/player-news/morgan-rielly-remains-out-tuesday/1989904)
-[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Gardner Minshew II17 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Gardner Minshew II22 h ago   
 Placed on Injured Reserve](https://www.rotoballer.com/player-news/gardner-minshew-placed-on-injured-reserve/1989885)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar22 h ago   
 Available Tuesday](https://www.rotoballer.com/player-news/cale-makar-available-tuesday/1989893)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Matvei Michkov17 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Matvei Michkov22 h ago   
 Wants to Leave Philadelphia](https://www.rotoballer.com/player-news/matvei-michkov-wants-to-leave-philadelphia/1989890)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) Cam Skattebo18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/60/New_York_Giants_logo.svg) Cam Skattebo23 h ago   
 Logs Full Practice on Tuesday](https://www.rotoballer.com/player-news/cam-skattebo-logs-full-practice-on-tuesday/1989867)
-[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tony Pollard18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tony Pollard23 h ago   
 Titans Keeping Tony Pollard Despite Trade Interest](https://www.rotoballer.com/player-news/titans-keeping-tony-pollard-despite-trade-interest/1989791)
-[![](https://upload.wikimedia.org/wikipedia/en/3/37/Miami_Dolphins_logo.svg) Malik Willis18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/3/37/Miami_Dolphins_logo.svg) Malik Willis23 h ago   
 Expected to Land on Injured Reserve](https://www.rotoballer.com/player-news/malik-willis-placed-on-injured-reserve-with-core-muscle-injury/1989777)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Josh Downs19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Josh Downs1 d ago   
 Chiefs Acquire Josh Downs in Deadline Trade](https://www.rotoballer.com/player-news/josh-downs-traded-to-chiefs/1989766)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Jonathan Taylor19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Jonathan Taylor1 d ago   
 Expected to Stay With Colts at Trade Deadline](https://www.rotoballer.com/player-news/colts-reject-trade-offers-for-jonathan-taylor-keep-star-rb/1989726)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Fernando Mendoza20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Fernando Mendoza1 d ago   
 Takes Over as Raiders QB](https://www.rotoballer.com/player-news/fernando-mendoza-takes-over-as-raiders-qb-with-cousins-traded-to-minnesota/1989709)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Kirk Cousins20 h ago   
-Raiders Trade Kirk Cousins to Vikings for 2027 Third-Round Pick](https://www.rotoballer.com/player-news/raiders-trade-kirk-cousins-to-vikings-for-2027-third-round-pick/1989700)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Indianapolis_Colts_logo.svg) Keenan Allen21 h ago   
-Traded to 49ers](https://www.rotoballer.com/player-news/keenan-allen-traded-to-49ers-for-2027-sixth-round-pick/1989630)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nfl/nfl.png) Tyreek Hill21 h ago   
-Nearing Medical Clearance, Agent Working the Phones](https://www.rotoballer.com/player-news/tyreek-hill-is-expected-to-be-medically-cleared-in-a-few-weeks/1989586)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Jackson Koivun21 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Jackson Koivun1 d ago   
 Looks to Get Back Into Contention Mix in Austin](https://www.rotoballer.com/player-news/jackson-koivun-looks-to-get-back-into-contention-mix-at-austin-championship/1989589)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Brandon Aiyuk21 h ago   
-49ers Likely to Cut Brandon Aiyuk on Tuesday](https://www.rotoballer.com/player-news/49ers-likely-to-cut-brandon-aiyuk-by-4-p-m-et-tuesday/1989529)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Joe Highsmith22 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Joe Highsmith1 d ago   
 Continues to Backslide into Irrelevancy](https://www.rotoballer.com/player-news/joe-highsmith-continues-to-backslide-into-irrelevancy-as-the-fall-series-winds-down/1989559)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Blades Brown22 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Blades Brown1 d ago   
 Keeping The Ball Rolling This Week in Austin](https://www.rotoballer.com/player-news/blades-brown-keeping-the-ball-rolling-this-week-in-austin-following-historic-win/1989535)
-[![](https://upload.wikimedia.org/wikipedia/en/7/74/Jacksonville_Jaguars_logo.svg) Brian Thomas Jr.1 d ago   
-Jacksonville Plans to Hold Brian Thomas Jr. Through Trade Deadline](https://www.rotoballer.com/player-news/jaguars-will-hold-brian-thomas-jr-through-trade-deadline/1989394)
-[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Dak Prescott1 d ago   
-Jerry Jones Says Teams Haven't Called About Trading for Dak Prescott](https://www.rotoballer.com/player-news/jerry-jones-says-teams-have-not-called-about-trading-dak-prescott/1989360)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Christian Dvorak1 d ago   
 Sets Up Two Goals as Flyers Earn Rare Win](https://www.rotoballer.com/player-news/christian-dvorak-sets-up-two-goals-as-flyers-earn-rare-win/1989351)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Toffoli1 d ago   
@@ -785,14 +799,6 @@ Set for Season Debut Tuesday](https://www.rotoballer.com/player-news/logan-maill
 Nearing Season Debut](https://www.rotoballer.com/player-news/rasmus-sandin-nearing-season-debut/1989311)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson1 d ago   
 Deemed Day-to-Day](https://www.rotoballer.com/player-news/erik-gustafsson-deemed-day-to-day/1989306)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Justin Jefferson1 d ago   
-Disappoints Again Despite Huge Volume](https://www.rotoballer.com/player-news/justin-jefferson-disappoints-again-despite-huge-volume/1989150)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Josh Allen1 d ago   
-Weathers Vikings' Defense, Posts Season-Low Output](https://www.rotoballer.com/player-news/josh-allen-weathers-vikings-defense-posts-season-low-output/1989147)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) James Cook III1 d ago   
-Shines in MNF Win](https://www.rotoballer.com/player-news/james-cook-shines-in-mnf-win/1989144)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson1 d ago   
-Won't Require Surgery, Likely to Miss Time](https://www.rotoballer.com/player-news/rhamondre-stevenson-is-dealing-with-a-knee-tendon-issue-that-wont-require-surgery-but/1989058)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Matt McCarty1 d ago   
 Comes to Austin After a Month Off](https://www.rotoballer.com/player-news/matt-mccarty-comes-to-austin-after-a-month-off/1989043)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Chris Kirk1 d ago   
@@ -801,29 +807,23 @@ Riding a Fall Wave of Momentum Heading to Texas](https://www.rotoballer.com/play
 an All-or-Nothing Possibility at Austin Championship](https://www.rotoballer.com/player-news/mackenzie-hughes-all-or-nothing-possibility-at-austin-championship/1989021)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Tom Hoge1 d ago   
 Heads to Austin Championship After Another Missed Cut](https://www.rotoballer.com/player-news/tom-hoge-heads-to-austin-championship-after-another-missed-cut/1989012)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Eric Cole1 d ago   
-Must Watch Out for That One Bad Round in Austin](https://www.rotoballer.com/player-news/eric-cole-must-watch-out-for-that-one-bad-round-in-austin/1989004)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Daniel Berger1 d ago   
-Returns After Long Layoff in Austin](https://www.rotoballer.com/player-news/daniel-berger-returns-after-long-layoff-in-austin/1988997)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Mike Evans1 d ago   
-Unlikely to Practice on Wednesday](https://www.rotoballer.com/player-news/deebo-samuel-hopeful-to-practice-wednesday-mike-evans-remains-unlikely-to-participate/1988890)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal1 d ago   
 Mets Could be the Current Favorites to Land Tarik Skubal](https://www.rotoballer.com/player-news/mets-could-be-the-current-favorites-to-land-tarik-skubal/1988793)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ronald Acuña Jr.1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ronald Acuña Jr.2 d ago   
 Ronald Acuna Jr. "Highly Unlikely" to be Traded this Offseason](https://www.rotoballer.com/player-news/ronald-acuna-jr-highly-unlikely-to-be-traded-this-offseason/1988503)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
 Cubs Unlikely to Enter Bidding War for Tarik Skubal](https://www.rotoballer.com/player-news/cubs-unlikely-to-enter-bidding-war-for-tarik-skubal/1988396)
 [![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg) Corbin Carroll2 d ago   
 has Offseason Elbow Surgery](https://www.rotoballer.com/player-news/corbin-carroll-has-offseason-elbow-surgery/1988382)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Washington_Nationals_logo.svg) Jacob Young4 d ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Washington_Nationals_logo.svg) Jacob Young5 d ago   
 Nationals Agree to Four-Year Extension](https://www.rotoballer.com/player-news/jacob-young-nationals-agree-to-four-year-extension/1985414)
 [Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
 [View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
 #### [MORE RECENT ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
+[ Well-Known Players: Drop, Hold or Sell Low? ](https://www.rotoballer.com/well-known-fantasy-football-players-drop-hold-or-sell-low-for-week-10-2026/1989755)
+[ Smash Spots and Avoids: Start ‘Em, Sit ‘Em ](https://www.rotoballer.com/fantasy-football-matchups-we-love-start-em-sit-em-picks-for-week-10-2026/1984969)
+[ Running Back Committees With Upside (Week 10) ](https://www.rotoballer.com/top-running-back-committees-fantasy-football-breakout-candidates-for-week-10-2026/1989978)
 [ Video: Week 10 Defense (D/ST) Must Starts ](https://www.rotoballer.com/radio/video-week-10-defense-d-st-fantasy-football-must-starts-2026/1990286/)
-[ Updated Waiver Wire Rankings for Week 10 ](https://www.rotoballer.com/mid-week-waiver-wire-rankings-fantasy-football-week-10-2026/1990215)
-[ Fantasy Football Risers and Fallers: Week 10 ](https://www.rotoballer.com/fantasy-football-sleepers-busts-risers-and-fallers-for-week-10-2026/1988372)
-[ Top DST Streamers - Weeks 10, 11, 12, 13 ](https://www.rotoballer.com/fantasy-football-defense-d-st-rankings-streamers-for-weeks-10-11-12-13-2026/1989743)
 ##### friends of rotoballer
 [![](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule) ![](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png) ![](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png) [![](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize) ![](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png) ![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
   * [CONTACT US](https://www.rotoballer.com/contact-us)
@@ -840,7 +840,7 @@ Nationals Agree to Four-Year Extension](https://www.rotoballer.com/player-news/j
 
 [ ![](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png) ](https://twitter.com/rotoballer) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png) ](https://www.reddit.com/user/RotoBaller) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png) ](https://www.facebook.com/rotoballin)
 We Are Your Secret Weapon | Copyright © 2011 - 2026 | Win Big with RotoBaller
-![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fnba-prop-bet-picks-for-wednesday-11-11-26%2F1990231&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fnba-player-prop-bet-picks-for-today-11-11-26%2F1990231&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 Information from your device can be used to personalize your ad experience.   
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)

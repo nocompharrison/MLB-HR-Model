@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-11 11:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-11 16:05 ET -->
 
 
 ---
@@ -358,9 +358,9 @@ Let’s dive into a trio of player props that catch our eye for Tuesday’s six-
 
 ![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Karl-Anthony Towns
 
-[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)
+[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)
 
-[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[13.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)
 
 [![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)
 
@@ -380,9 +380,9 @@ Towns is putting up a solid 18.1 field-goal + free-throw attempts per game as we
 
 [![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[O/U Points Scored (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)
 
-[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/underdog_sc)[O/U Total Rebounds (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/underdog_sc)
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)[O/U Total Rebounds (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)
 
-[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[O/U Total Assists (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)
+[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[O/U Total Assists (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)
 
 [![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darryn_peterson/player_276494 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -400,9 +400,9 @@ Finally, it’s worth noting the Heat has allowed an Eastern Conference-high 29.
 
 ![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10213.png)Wendell Carter Jr.
 
-[![Image 42: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)
+[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)
 
-[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)
+[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[8.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)
 
 [![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/polymarket_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/polymarket_sc)
 
@@ -1043,7 +1043,7 @@ Finally, there should be plenty of opportunities for boards on the other side of
 
 [![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)
 
-[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/underdog_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/underdog_sc)
+[![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)
 
 [![Image 45](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/zion_williamson/player_132834 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2245,7 +2245,7 @@ Let’s dive into a trio of player props that catch our eye for Saturday’s sev
 
 [![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)[O/U Total Rebounds (@ MEM)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)
 
-[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)[O/U Total Assists (@ MEM)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/kalshi_sc)[O/U Total Assists (@ MEM)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/kalshi_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/kalshi_sc)
 
 [![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/nikola_jokic/player_13007 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2261,11 +2261,11 @@ The Pacers are allowing the fifth-highest offensive efficiency rating to centers
 
 ![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Jalen Brunson
 
-[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[29.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)
 
-[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)
 
-[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)
+[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)
 
 [![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jalen_brunson/player_104953 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2285,7 +2285,7 @@ Brunson averaged 33.3 points + assists across 39.5 minutes per contest in the fo
 
 [![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661049/polymarket_sc)[O/U Total Rebounds (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661049/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661049/polymarket_sc)
 
-[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/underdog_sc)[O/U Total Assists (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/underdog_sc)
+[![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/polymarket_sc)[O/U Total Assists (vs. GSW)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661049/polymarket_sc)
 
 [![Image 45](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/alperen_sengun/player_147578 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
