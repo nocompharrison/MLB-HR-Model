@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-11 | updated 2026-11-11 18:37 ET
+# NBA transcripts | 2026-11-11 | updated 2026-11-11 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 23 files in NBA/transcripts/2026-11-11:
 NBA/transcripts/2026-11-11/18PaKd8YgMA_PickDawgz_BOSTON_CELTICS_VS_TORONTO_RAPTORS_FREE_NBA_PICK_PREDICTION_The_Yang_An.txt
@@ -37,9 +37,9 @@ DEFER   WagerTalk yyXNgiyJYwg NBA Picks & Player Props TODAY! EVERY GAME ON THE 
 DEFER   WagerTalk v9RsHcLBWNQ BEST NBA Picks TODAY! Warriors vs Rockets + Thunder vs Trail  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   WagerTalk iGuj2AticvU THREE NBA Best Bets TODAY! Cavaliers vs Knicks + Warriors vs  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   WagerTalk ocRVXWNHx-U NBA Picks Today: 6 Games, Best Bets & Betting Angles | Profi  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NOCAPS  WagerTalk LQh6gqX7ygI NBA Picks Today: Wednesday's 10-Game Slate & Best Bets | Pro  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING WagerTalk bkNz0yz8k4E NBA Picks Today: Thursday Best Bets, Odds & Betting Preview   (not aired yet - scheduled for 11/12/26 1:30PM)
 UPCOMING WagerTalk nBflmI7ii8w NBA Picks Today: Thursday Best Bets, Odds & Betting Preview   (not aired yet - scheduled for 11/12/26 1:30PM)
+NOCAPS  WagerTalk LQh6gqX7ygI NBA Picks Today: Wednesday's 10-Game Slate & Best Bets | Pro  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING RotoGrinders Pk3E938mR_c NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/14/2  (not aired yet - scheduled for 11/14/26 5:45PM)
 UPCOMING RotoGrinders WGSbQ6TrWgE NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/12/2  (not aired yet - scheduled for 11/12/26 6:00PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
@@ -50,19 +50,16 @@ NONE    channel RotoWire: nothing new in the date window (or everything already 
 NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod kK0cZ1cYYyQ NBA Thursday Picks - 11/12/26 | NBA Bets, Player Props and P  (not aired yet - scheduled for 11/11/26 9:05PM)
-NEW     NBA/transcripts/2026-11-11/p3AeBZlkUiE_CallingOurShot_Washington_Commanders_vs_New_York_Giants_Best_Picks_Predictions.txt  (2,818 words)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 UPCOMING SportsLine -9AUokMSMkw Thursday Night Football Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 11/12/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz u2nDhn5uD2w NBA Picks & Predictions For Today Wednesday 11/11/26 | FREE   (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NBA/transcripts/2026-11-11/ZkhwkyNJIPw_PickDawgz_NBA_Picks_Today_11_11_26_Best_Wednesday_NBA_Bets_are_ON_DECK.txt  (3,884 words)
-NEW     NBA/transcripts/2026-11-11/18PaKd8YgMA_PickDawgz_BOSTON_CELTICS_VS_TORONTO_RAPTORS_FREE_NBA_PICK_PREDICTION_The_Yang_An.txt  (666 words)
+DEFER   PickDawgz u2nDhn5uD2w NBA Picks & Predictions For Today Wednesday 11/11/26 | FREE   (YouTube rate limit - stopping transcript pulls this run)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-11/huo77WF3kao_LandYourBets_Wednesday_NBA_Live_Show_Best_Bets_Today_November_11_Land_Your_Bets.txt  (6,907 words, via Groq)
-NEW     NBA/transcripts/2026-11-11/oAlA8hSRloM_FantasyAlarm_NBA_DFS_Picks_Today_11_11_DraftKings_Lineup_Strategy_Top_Values.txt  (8,914 words, via Groq)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
