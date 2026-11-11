@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-11 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-11 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,204 +6,206 @@ Conference
 News Display Mode
 Compact 
 Expanded 
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
-[Joel Foxwell](https://www.rotowire.com/cbasketball/player/joel-foxwell-26174)
-Offensive catalyst
-**G** Arizona State
+![Notre Dame](https://assets.rotowire.com/images/teamlogo/cbasketball/Notre-Dame.png?v=16)
+[Tommy Ahneman](https://www.rotowire.com/cbasketball/player/tommy-ahneman-26109)
+Sidelined six to eight weeks
+**C** Notre Dame
+Wrist
 November 11, 2026
-Foxwell closed with 16 points (5-9 FG, 3-5 3Pt, 3-4 FT), four rebounds, six assists and one block in 31 minutes during Tuesday's 85-63 win over Hofstra.
+Ahneman will be sidelined for six to eight weeks with a right arm injury, [Tom Noie of the South Bend Tribune](https://x.com/tnoieNDI/status/2120623528726933646).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
-[JRob Croy](https://www.rotowire.com/cbasketball/player/jrob-croy-28174)
-Catches fire in second half
-**G** Arizona State
+![Kansas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas-State.png?v=16)
+[Timo Malovec](https://www.rotowire.com/cbasketball/player/timo-malovec-25796)
+Sees first game action
+**F** Kansas State
 November 11, 2026
-Croy recorded 18 points (6-9 FG, 4-6 3Pt, 2-2 FT), four rebounds, one assist and one steal across 28 minutes during Tuesday's 85-63 victory over Hofstra.
+Malovec (undisclosed) registered four points (1-2 FG, 1-2 3Pt, 1-2 FT), one rebound and one assist in 14 minutes during Tuesday's 89-82 win over Creighton.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
-[Jamichael Stillwell](https://www.rotowire.com/cbasketball/player/jamichael-stillwell-24562)
-Posts double double in team debut
-**F** Texas Tech
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[Endurance Aiyamenkhue](https://www.rotowire.com/cbasketball/player/endurance-aiyamenkhue-27941)
+Gets in game, sees no action
+**C** Arizona
 November 11, 2026
-Stillwell closed Tuesday's 84-78 win over Illinois with 11 points (2-10 FG, 7-8 FT), 13 rebounds and one assist over 26 minutes.
+Aiyamenkhue (lower leg) contributed no counting stats over zero minutes during Tuesday's 90-59 victory over Northern Arizona.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
-[Cruz Davis](https://www.rotowire.com/cbasketball/player/cruz-davis-21053)
-Leads Red Raiders in top-five takedown
-**G** Texas Tech
+![East Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/East-Carolina.png?v=16)
+[Kaden Cooper](https://www.rotowire.com/cbasketball/player/kaden-cooper-22291)
+Starting for Pirates
+**G** East Carolina
 November 11, 2026
-Davis notched 20 points (7-16 FG, 3-6 3Pt, 3-4 FT), three rebounds, five assists and one steal in 38 minutes during Tuesday's 84-78 victory over Illinois.
+Cooper (illness) is [available](https://x.com/ecubasketball/status/2120618242033217874) for East Carolina Wednesday night against North Carolina A&T.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Iowa State](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa-State.png?v=16)
-[Dominykas Pleta](https://www.rotowire.com/cbasketball/player/dominykas-pleta-25195)
-Efficient start to season
-**F** Iowa State
+![TCU](https://assets.rotowire.com/images/teamlogo/cbasketball/TCU.png?v=16)
+[Luke Bamgboye](https://www.rotowire.com/cbasketball/player/luke-bamgboye-23463)
+Set to be out 'for awhile'
+**F** TCU
+Undisclosed
 November 11, 2026
-Pleta posted 14 points (7-8 FG), three rebounds, three assists and two steals across 19 minutes during Tuesday's 84-47 win over Southern University.
+Bangboye (undisclosed) is set to be out "for awhile" for TCU, per [Steven Johnson of the Fort Worth Star-Telegram](https://x.com/StevenMJohnson_/status/2120384652636795097).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Iowa State](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa-State.png?v=16)
-[Jamarion Batemon](https://www.rotowire.com/cbasketball/player/jamarion-batemon-26064)
-Stuffs stat sheet in win
-**G** Iowa State
+![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
+[Braeden Carrington](https://www.rotowire.com/cbasketball/player/braeden-carrington-20430)
+Another strong outing in win
+**G** Wisconsin
 November 11, 2026
-Batemon chipped in 15 points (4-13 FG, 3-12 3Pt, 4-4 FT), eight rebounds, six assists, one block and four steals over 26 minutes during Tuesday's 84-47 win over Southern University.
+Carrington supplied 14 points (4-8 FG, 3-7 3Pt, 3-3 FT), six rebounds, two assists and one steal in 21 minutes during Tuesday's 89-42 win over Fairfield.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Kentucky](https://assets.rotowire.com/images/teamlogo/cbasketball/Kentucky.png?v=16)
-[Malachi Moreno](https://www.rotowire.com/cbasketball/player/malachi-moreno-26015)
-Supplies double-double
-**C** Kentucky
+![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
+[Owen Foxwell](https://www.rotowire.com/cbasketball/player/owen-foxwell-27780)
+Another efficient day in win
+**G** Wisconsin
 November 11, 2026
-Moreno amassed 19 points (8-11 FG, 0-1 3Pt, 3-5 FT), 10 rebounds, five assists, one block and one steal across 27 minutes during Tuesday's 89-69 loss to Kansas.
+Foxwell ended with 14 points (4-7 FG, 2-2 3Pt, 4-7 FT), five rebounds and three assists across 22 minutes during Tuesday's 89-42 victory over Fairfield.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Kentucky](https://assets.rotowire.com/images/teamlogo/cbasketball/Kentucky.png?v=16)
-[Zoom Diallo](https://www.rotowire.com/cbasketball/player/zoom-diallo-24471)
-Provides 24 points
-**G** Kentucky
+![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
+[Victory Onuetu](https://www.rotowire.com/cbasketball/player/victory-onuetu-26789)
+Held scoreless in win
+**C** Wisconsin
 November 11, 2026
-Diallo had 24 points (10-15 FG, 3-6 3Pt, 1-4 FT), two rebounds and one block across 35 minutes during Tuesday's 89-69 loss to Kansas.
+Onuetu logged zero points (0-1 FG, 0-2 FT), eight rebounds, one assist and one block in 14 minutes during Tuesday's 89-42 win over Fairfield.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Mississippi](https://assets.rotowire.com/images/teamlogo/cbasketball/Mississippi.png?v=16)
-[Adam Clark](https://www.rotowire.com/cbasketball/player/adam-clark-25702)
-Fills it up with 23 points
-**G** Mississippi
+![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
+[Austin Rapp](https://www.rotowire.com/cbasketball/player/austin-rapp-23759)
+Leading scorer in blowout
+**F** Wisconsin
 November 11, 2026
-Clark supplied 23 points (10-13 FG, 1-3 3Pt, 2-4 FT), three rebounds, three assists and two steals in 25 minutes during Tuesday's 91-51 victory over Southeastern Louisiana.
+Rapp amassed 15 points (6-10 FG, 3-7 3Pt), six rebounds, one assist and one steal across 21 minutes during Tuesday's 89-42 victory over Fairfield.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Mississippi](https://assets.rotowire.com/images/teamlogo/cbasketball/Mississippi.png?v=16)
-[Ilias Kamardine](https://www.rotowire.com/cbasketball/player/ilias-kamardine-25898)
-Doles out seven assists
-**G** Mississippi
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Tomislav Ivisic](https://www.rotowire.com/cbasketball/player/tomislav-ivisic-23366)
+Best outing yet in loss
+**F** Illinois
 November 11, 2026
-Kamardine recorded 12 points (3-8 FG, 1-3 3Pt, 5-5 FT), seven assists and one steal across 26 minutes during Tuesday's 91-51 victory over Southeastern Louisiana.
+Ivisic racked up 14 points (6-12 FG, 1-5 3Pt, 1-3 FT), six rebounds, three assists and two steals across 30 minutes during Tuesday's 84-78 loss to Texas Tech.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Ace Glass](https://www.rotowire.com/cbasketball/player/ace-glass-27661)
-Goes off in second half
-**G** Vanderbilt
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Quentin Coleman](https://www.rotowire.com/cbasketball/player/quentin-coleman-28102)
+Strong start continues in narrow loss
+**G** Illinois
 November 11, 2026
-Glass chipped in 23 points (8-14 FG, 5-10 3Pt, 2-2 FT) and two rebounds over 23 minutes during Tuesday's 105-81 win over Memphis.
+Coleman ended Tuesday's 84-78 loss to Texas Tech with 19 points (7-9 FG, 5-6 3Pt, 0-2 FT), five rebounds, four assists and two steals across 28 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Berke Buyuktuncel](https://www.rotowire.com/cbasketball/player/berke-buyuktuncel-22434)
-Produces 16 points, eight boards
-**F** Vanderbilt
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Andrej Stojakovic](https://www.rotowire.com/cbasketball/player/andrej-stojakovic-22364)
+Another strong outing
+**G** Illinois
 November 11, 2026
-Buyuktuncel recorded 16 points (5-7 FG, 2-2 3Pt, 4-4 FT), eight rebounds, four assists and one block over 30 minutes during Tuesday's 105-81 victory over Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Dallin Hall](https://www.rotowire.com/cbasketball/player/dallin-hall-16858)
-Goes off for 35 points, seven dimes
-**G** Utah State
-November 11, 2026
-Hall ended with a career-high 35 points (12-16 FG, 7-9 3Pt, 4-5 FT), five rebounds, seven assists and one steal in 31 minutes during Tuesday's 118-86 win over Utah Tech.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Kingston Tosi](https://www.rotowire.com/cbasketball/player/kingston-tosi-27621)
-Scores 15, grabs eight boards
-**F** Utah State
-November 11, 2026
-Tosi totaled 15 points (6-10 FG, 1-1 3Pt, 2-2 FT), eight rebounds and three assists across 29 minutes during Tuesday's 118-86 win over Utah Tech.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Fresno State](https://assets.rotowire.com/images/teamlogo/cbasketball/Fresno-State.png?v=16)
-[Roger Fabrega Urpina](https://www.rotowire.com/cbasketball/player/roger-fabrega-urpina-28001)
-Doles out 12 assists
-**G** Fresno State
-November 11, 2026
-Urpina closed with 14 points (4-10 FG, 3-5 3Pt, 3-8 FT), three rebounds, 12 assists and one steal over 42 minutes during Tuesday's 95-92 OT victory over Georgia State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Fresno State](https://assets.rotowire.com/images/teamlogo/cbasketball/Fresno-State.png?v=16)
-[Brian Amuneke](https://www.rotowire.com/cbasketball/player/brian-amuneke-23651)
-Provides 27 points
-**G** Fresno State
-November 11, 2026
-Amuneke accumulated 27 points (8-13 FG, 4-8 3Pt, 7-11 FT), four rebounds, one assist and one steal across 40 minutes during Tuesday's 95-92 OT win over Georgia State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![New Mexico](https://assets.rotowire.com/images/teamlogo/cbasketball/New-Mexico.png?v=16)
-[Rytis Petraitis](https://www.rotowire.com/cbasketball/player/rytis-petraitis-20771)
-Surprising appearance Tuesday
-**F** New Mexico
-November 10, 2026
-Petraitis (ankle) closed with three points (1-3 FG, 1-2 FT) and two rebounds in nine minutes during Tuesday's 94-69 victory over Little Rock.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Baylor](https://assets.rotowire.com/images/teamlogo/cbasketball/Baylor.png?v=16)
-[Isaac Celiscar](https://www.rotowire.com/cbasketball/player/isaac-celiscar-24986)
-Solid against former team
-**F** Baylor
-November 10, 2026
-Celiscar posted 15 points (5-7 FG, 2-3 3Pt, 3-5 FT), six rebounds and four assists over 24 minutes during Tuesday's 90-61 win over Yale.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Central Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Central-Florida.png?v=16)
-[Carmelo Pacheco](https://www.rotowire.com/cbasketball/player/carmelo-pacheco-24872)
-Drills eight triples off bench
-**G** Central Florida
-November 10, 2026
-Pacheco ended Tuesday's 76-69 win over South Alabama with 24 points (8-12 FG, 8-12 3Pt) and one assist in 30 minutes.
+Stojakovic chipped in 18 points (6-11 FG, 1-4 3Pt, 5-6 FT), three rebounds, three assists, two blocks and one steal in 33 minutes during Tuesday's 84-78 loss to Texas Tech.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Iowa](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa.png?v=16)
-[Andrew McKeever](https://www.rotowire.com/cbasketball/player/andrew-mckeever-22419)
-Makes season debut
-**C** Iowa
-November 10, 2026
-McKeever (undisclosed) notched five points (2-3 FG, 1-5 FT), five rebounds and one assist in nine minutes during Tuesday's 93-88 loss to Virginia Tech.
+[Cooper Koch](https://www.rotowire.com/cbasketball/player/cooper-koch-23283)
+Lives at the foul line in loss
+**F** Iowa
+November 11, 2026
+Koch recorded 26 points (5-11 FG, 1-5 3Pt, 15-17 FT), seven rebounds and two assists over 45 minutes during Tuesday's 93-88 OT loss to Virginia Tech.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-State.png?v=16)
-[Dimp Pernell](https://www.rotowire.com/cbasketball/player/dimp-pernell-27529)
-Scores team-high 26 points
-**G** Texas State
-November 10, 2026
-Pernell registered 26 points (9-12 FG, 4-7 3Pt, 4-4 FT), one rebound, two assists and one steal across 25 minutes during Tuesday's 72-65 victory over UT Rio Grande Valley.
+![Iowa](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa.png?v=16)
+[Ty'Reek Coleman](https://www.rotowire.com/cbasketball/player/tyreek-coleman-26823)
+Drops 20 off the bench
+**G** Iowa
+November 11, 2026
+Coleman registered 20 points (7-10 FG, 0-1 3Pt, 6-9 FT), three rebounds and one steal in 31 minutes during Tuesday's 93-88 OT loss to Virginia Tech.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
-[Thomas Haugh](https://www.rotowire.com/cbasketball/player/thomas-haugh-22219)
-Scores season-high 21
-**F** Florida
-November 10, 2026
-Haugh notched 21 points (4-8 FG, 3-6 3Pt, 10-12 FT), 10 rebounds, one block and one steal over 34 minutes during Tuesday's 81-72 victory over Florida State.
+![Iowa](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa.png?v=16)
+[Isaia Howard](https://www.rotowire.com/cbasketball/player/isaia-howard-24328)
+Crashes glass in narrow loss
+**G** Iowa
+November 11, 2026
+Howard finished with 13 points (3-8 FG, 3-5 3Pt, 4-6 FT), 15 rebounds and three steals across 41 minutes during Tuesday's 93-88 OT loss to Virginia Tech.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
-[Boogie Fland](https://www.rotowire.com/cbasketball/player/boogie-fland-23411)
-Provides 14 points, four assists
-**G** Florida
-November 10, 2026
-Fland racked up 14 points (4-7 FG, 1-3 3Pt, 5-7 FT), five rebounds, four assists and one steal across 33 minutes during Tuesday's 81-72 win over Florida State.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Coen Carr](https://www.rotowire.com/cbasketball/player/coen-carr-22500)
+Relatively quiet vs Duke
+**F** Michigan State
+November 11, 2026
+Carr registered nine points (4-5 FG, 1-2 3Pt), two rebounds and two steals across 17 minutes during Tuesday's 79-73 win over Duke.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia-Tech.png?v=16)
-[Cole Kirouac](https://www.rotowire.com/cbasketball/player/cole-kirouac-23571)
-Pulls down seven rebounds
-**C** Georgia Tech
-November 10, 2026
-Kirouac (undisclosed) ended with two points (1-4 FG), seven rebounds, one block and two steals across 13 minutes during Tuesday's 85-71 win over Eastern Kentucky.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jasiah Jervis](https://www.rotowire.com/cbasketball/player/jasiah-jervis-28133)
+Another solid outing in huge win
+**G** Michigan State
+November 11, 2026
+Jervis closed Tuesday's 79-73 win over Duke with 10 points (4-7 FG, 2-4 3Pt), three rebounds and one assist across 30 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=16)
-[Jaylen Harrell](https://www.rotowire.com/cbasketball/player/jaylen-harrell-25755)
-Drop 19 points, five assists
-**G** Washington State
-November 10, 2026
-Harrell closed with 19 points (7-10 FG, 3-5 3Pt, 2-2 FT), four rebounds, five assists and one steal in 28 minutes during Tuesday's 72-71 loss to Duquesne.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jeremy Fears](https://www.rotowire.com/cbasketball/player/jeremy-fears-22205)
+Guides MSU to enormous win
+**G** Michigan State
+November 11, 2026
+Fears had 18 points (3-9 FG, 0-1 3Pt, 12-17 FT), seven rebounds, 11 assists, one block and one steal over 33 minutes during Tuesday's 79-73 victory over Duke.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rutgers](https://assets.rotowire.com/images/teamlogo/cbasketball/Rutgers.png?v=16)
+[Christian Gurdak](https://www.rotowire.com/cbasketball/player/christian-gurdak-26303)
+Another 12-point, four-rebound outing
+**C** Rutgers
+November 11, 2026
+Gurdak recorded 12 points (4-8 FG, 4-6 FT), four rebounds and two blocks in 18 minutes during Tuesday's 101-64 victory over NJIT.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rutgers](https://assets.rotowire.com/images/teamlogo/cbasketball/Rutgers.png?v=16)
+[Lino Mark](https://www.rotowire.com/cbasketball/player/lino-mark-26152)
+Highly active in win
+**G** Rutgers
+November 11, 2026
+Mark notched 17 points (5-9 FG, 0-2 3Pt, 7-9 FT), eight rebounds, four assists and one steal across 21 minutes during Tuesday's 101-64 victory over NJIT.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rutgers](https://assets.rotowire.com/images/teamlogo/cbasketball/Rutgers.png?v=16)
+[Tariq Francis](https://www.rotowire.com/cbasketball/player/tariq-francis-22882)
+Drops 17 in win
+**G** Rutgers
+November 11, 2026
+Francis amassed 17 points (5-8 FG, 3-4 3Pt, 4-4 FT), one rebound and six assists across 26 minutes during Tuesday's 101-64 win over NJIT.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Kansas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas-State.png?v=16)
+[Isaiah Abraham](https://www.rotowire.com/cbasketball/player/isaiah-abraham-23617)
+Just misses double double
+**F** Kansas State
+November 11, 2026
+Abraham racked up 12 points (3-7 FG, 1-3 3Pt, 5-6 FT), nine rebounds and one assist across 33 minutes during Tuesday's 89-82 win over Creighton.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Colorado](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado.png?v=16)
+[Josiah Sanders](https://www.rotowire.com/cbasketball/player/josiah-sanders-26213)
+Contributes off bench
+**G** Colorado
+November 11, 2026
+Sanders racked up 15 points (5-9 FG, 2-3 3Pt, 3-4 FT), five rebounds, four assists, one block and one steal in 30 minutes during Tuesday's 83-75 win over San Diego.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Colorado](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado.png?v=16)
+[Ian Inman](https://www.rotowire.com/cbasketball/player/ian-inman-26217)
+Drains eight from deep
+**F** Colorado
+November 11, 2026
+Inman ended Tuesday's 83-75 win over San Diego with 26 points (9-14 FG, 8-13 3Pt), five rebounds, one assist and one steal in 29 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
+[Nate Pickens](https://www.rotowire.com/cbasketball/player/nate-pickens-21779)
+Provides spark off bench
+**G** BYU
+November 11, 2026
+Pickens closed Tuesday's 98-82 win over Queens University with 15 points (4-6 FG, 3-5 3Pt, 4-5 FT), two rebounds, one assist and two steals over 19 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

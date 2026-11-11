@@ -1,10 +1,10 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-11 11:18 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-11 17:02 ET -->
 
 
 ---
 ## SOURCE: https://fanduel.com/research/ucla-vs-uapb-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026
 
-Title: UCLA vs UAPB College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11
+Title: UCLA vs UAPB College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11 | FanDuel Research
 
 URL Source: https://fanduel.com/research/ucla-vs-uapb-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026
 
@@ -334,7 +334,7 @@ START YOUR OWN WINNING STREAK
 
 ![Image 52: SportsBookLogo](https://fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 
-[See Promos](https://sportsbook.fanduel.com/promotions)
+[](https://fanduel.com/research/[slug])
 
 ![Image 53: Chevrons Texture](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe0b0a425fa82026919c0e289dd2624c153536b20-485x66.png&w=1080&q=100)
 
@@ -349,7 +349,7 @@ START YOUR OWN WINNING STREAK
 
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
 
-8h
+13h
 
 Subscribe to our newsletter
 
@@ -361,9 +361,9 @@ I confirm I am 21+ years of age
 
 ![Image 55: UCLA vs UAPB College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa44caed0c6f71549edcd7828415c06b1255e2e6d-4652x3101.jpg%3Frect%3D0%2C400%2C4652%2C2302%26w%3D964%26h%3D477&w=1920&q=100)
 
-The UCLA Bruins (2-0) hit the court against the Arkansas-Pine Bluff Golden Lions (0-2) on November 11, 2026.
+The Arkansas-Pine Bluff Golden Lions (0-2) go up against the UCLA Bruins (2-0) at Pauley Pavilion on November 11, 2026.
 
-Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 
 ## UCLA vs. UAPB Game Info and Odds
 
@@ -373,27 +373,27 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
 *   **Location:** Los Angeles, California
 *   **Arena:** Pauley Pavilion
 
-Before you bet on Wednesday's UCLA-UAPB spread (UCLA -44.5) or total (155.5 points), see the betting trends and insights below.
+Read these betting trends and insights before you wager on Wednesday's UCLA-UAPB spread (UCLA -46.5) or over/under (157.5 points).
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
 ## UCLA vs. UAPB: ATS Betting Stats and Trends
 
-*   UCLA covered 16 times in 36 chances against the spread last season.
-*   UAPB put together a 13-17-0 ATS record last year.
-*   Against the spread last season, the Bruins performed better when playing at home, covering 10 times in 18 home games, and three times in 10 road games.
-*   Last year, the Golden Lions were 3-6-0 at home against the spread (.333 winning percentage). Away, they were 9-11-0 ATS (.450).
+*   UCLA put together a 16-20-0 record against the spread last season.
+*   UAPB won 13 games against the spread last season, while failing to cover 17 times.
+*   At home last season, the Bruins owned a better record against the spread (10-8-0) compared to their ATS record in road games (3-7-0).
+*   Against the spread last year, the Golden Lions had better results on the road (9-11-0) than at home (3-6-0).
 
 ## UCLA vs. UAPB Head-to-Head Comparison
 
-*   Last year, UCLA was 144th in the country offensively (77.1 points scored per game) and 101st defensively (71.1 points conceded).
-*   At 29.3 rebounds per game and 30.4 rebounds allowed, UCLA was 309th and 130th in the nation, respectively, last year.
-*   Last season UCLA was ranked 51st in the nation in assists with 16.1 per game.
-*   UCLA was the fifth-best team in the nation in turnovers per game (8.3) and 119th in turnovers forced (11.7) last season.
-*   UAPB ranked 138th in college basketball with 77.3 points per game last season, but on defense it struggled, surrendering 81 points per game (20th-worst in college basketball).
-*   UAPB pulled down 30.2 boards per game (274th-ranked in college basketball). It ceded 33.1 rebounds per contest (302nd-ranked).
-*   Last season UAPB ranked 99th in college basketball in assists, averaging 15.2 per game.
-*   UAPB averaged 13.1 turnovers per game (19th-worst in college basketball), and forced 12 turnovers per game (92nd-ranked).
+*   UCLA scored 77.1 points per game and allowed 71.1 last season, making them 144th in college basketball offensively and 101st defensively.
+*   Last season, UCLA was 309th in college basketball in rebounds (29.3 per game) and 130th in rebounds conceded (30.4).
+*   UCLA was 51st in college basketball in assists (16.1 per game) last season.
+*   Last year, UCLA was fifth-best in college basketball in turnovers committed (8.3 per game) and ranked 119th in turnovers forced (11.7).
+*   UAPB ranked 138th in college basketball with 77.3 points per contest last season, but on defense it was less effective, surrendering 81 points per game (20th-worst in college basketball).
+*   UAPB pulled down 30.2 rebounds per game (274th-ranked in college basketball). It gave up 33.1 rebounds per contest (302nd-ranked).
+*   UAPB averaged 15.2 assists per game, which ranked them 99th in college basketball.
+*   UAPB committed 13.1 turnovers per game (19th-worst in college basketball), and forced 12 turnovers per game (92nd-ranked).
 
 _Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
 
@@ -415,41 +415,41 @@ I confirm I am 21+ years of age
 
 ### Recent Stories
 
-[NBA Props Today: 3 Best NBA Player Prop Bets for Wednesday, Nov. 11](https://fanduel.com/research/nba-props-today-wednesday-nov-11)
+[TCU vs Kansas State Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/tcu-vs-kansas-state-college-football-odds-picks-best-bets-for-11-14-2026)
 
 2h
 
-![Image 58: NBA Props Today: 3 Best NBA Player Prop Bets for Wednesday, Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ff9ad98abe7f3625192186d4962e69741a4ea286f-4995x2810.jpg%3Frect%3D279%2C0%2C4438%2C2406%26w%3D332%26h%3D180&w=330&q=100)
+![Image 58: TCU vs Kansas State Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7034a0f56e04278b14d9eb10a61b884299081d3c-5607x3154.jpg%3Frect%3D0%2C57%2C5607%2C3040%26w%3D332%26h%3D180&w=330&q=100)
 
-[FanDuel Sportsbook NBA Promo: 30% Profit Boost for Live Bets Today (Nov. 11)](https://fanduel.com/research/fanduel-sportsbook-nba-promo-profit-boost-for-live-bets-today-nov-11)
-
-2h
-
-![Image 59: FanDuel Sportsbook NBA Promo: 30% Profit Boost for Live Bets Today (Nov. 11)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe9d8bb07d19fec4915a9a9caa0e27965bcb3976e-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
-
-[FanDuel Sportsbook NBA Promo: 30% SGP Profit Boost for Today (Nov. 11)](https://fanduel.com/research/fanduel-sportsbook-nba-promo-30-sgp-profit-boost-for-today-nov-11)
+[Rice vs Tulane Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/rice-vs-tulane-college-football-odds-picks-best-bets-for-11-14-2026)
 
 2h
 
-![Image 60: FanDuel Sportsbook NBA Promo: 30% SGP Profit Boost for Today (Nov. 11)](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8954b0889dbaff9a7f482277fa007ed1d3f920c8-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
+![Image 59: Rice vs Tulane Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F04788b721e17ac5f69f64bf47337c54dfea6957b-3900x2600.jpg%3Frect%3D0%2C243%2C3900%2C2114%26w%3D332%26h%3D180&w=330&q=100)
 
-[FanDuel NFL Promo: 30% SGP Boost for Thursday Night Football Commanders vs. Giants](https://fanduel.com/research/fanduel-nfl-promo-sgp-boost-for-thursday-night-football-commanders-vs-giants)
+[Kennesaw State vs Sam Houston Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/kennesaw-state-vs-sam-houston-college-football-odds-picks-best-bets-for-11-14-2026)
 
 2h
 
-![Image 61: FanDuel NFL Promo: 30% SGP Boost for Thursday Night Football Commanders vs. Giants](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9506dc6ce43b4e6c6e6d7f5c78d64f168684737c-600x300.jpg%3Frect%3D24%2C0%2C553%2C300%26w%3D332%26h%3D180&w=330&q=100)
+![Image 60: Kennesaw State vs Sam Houston Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb8f52493827f5d7003e34836edda302037eca2bf-3900x2600.jpg%3Frect%3D0%2C243%2C3900%2C2114%26w%3D332%26h%3D180&w=330&q=100)
 
-[Fantasy Football Buy Low Wide Receivers: WR Breakout Candidates for Week 10](https://fanduel.com/research/fantasy-football-buy-low-wide-receivers-wr-breakout-candidates-for-week-10)
+[Nebraska vs Rutgers Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/nebraska-vs-rutgers-college-football-odds-picks-best-bets-for-11-14-2026)
 
-3h
+2h
 
-![Image 62: Fantasy Football Buy Low Wide Receivers: WR Breakout Candidates for Week 10](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F44292bf6438f8be6af845af20add478b3a30a40c-6024x4016.jpg%3Frect%3D528%2C0%2C4969%2C2694%26w%3D332%26h%3D180&w=330&q=100)
+![Image 61: Nebraska vs Rutgers Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5642e05eba7ec53111d66a5de5e72fba84d08d15-6099x3431.jpg%3Frect%3D0%2C63%2C6099%2C3307%26w%3D332%26h%3D180&w=330&q=100)
 
-[USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+[East Carolina vs Charlotte Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/east-carolina-vs-charlotte-college-football-odds-picks-best-bets-for-11-14-2026)
 
-3h
+2h
 
-![Image 63: USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa7e64736e9f4d4865f86260f0b35ea83380811d8-3936x2625.jpg%3Frect%3D0%2C246%2C3936%2C2134%26w%3D332%26h%3D180&w=330&q=100)
+![Image 62: East Carolina vs Charlotte Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F780f17f3476f1f516a675fea3917b17bb3d384ec-6069x3414.jpg%3Frect%3D0%2C62%2C6069%2C3290%26w%3D332%26h%3D180&w=330&q=100)
+
+[Iowa State vs Cincinnati Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/iowa-state-vs-cincinnati-college-football-odds-picks-best-bets-for-11-14-2026)
+
+2h
+
+![Image 63: Iowa State vs Cincinnati Prediction, Odds, Picks, Best Bets for Week 11 2026](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffb1a14d01823741a5c1b1c13586cd92dae276ee6-4739x3159.jpg%3Frect%3D0%2C296%2C4739%2C2569%26w%3D332%26h%3D180&w=330&q=100)
 
 Show more news
 
@@ -457,59 +457,21 @@ Show more news
 
 [View All](https://sportsbook.fanduel.com/promotions)
 
-![Image 64: Track Your Bets on Prime Video](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F23%2F2026-10-23_19-47-59_600x300.jpg&w=1920&q=100)
+![Image 64: Faceoff After Dark](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F5%2F2026-10-05_19-55-20_600x300.jpg&w=1920&q=100)
 
-[More Info](https://la.sportsbook.fanduel.com/promotions?promoCode=NBAPRIMEST26)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
+[More Info](https://ma.sportsbook.fanduel.com/promotions?promoCode=255FOADST111126)[PLAY NOW](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
 
-![Image 65: NFL SGP Profit Boost](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F9%2F2026-11-09_17-34-29_600x300.jpg&w=1920&q=100)
+![Image 65: Refer-A-Friend Get Bonus Bets](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F29%2F2026-09-29_18-54-00_600x300.jpg&w=1920&q=100)
 
-[More Info](https://co.sportsbook.fanduel.com/promotions?promoCode=LONFLPB1111)[Log in](https://sportsbook.fanduel.com/login)
+[More Info](https://in.sportsbook.fanduel.com/promotions?promoCode=RAF092126STAT)[Invite friends](https://sportsbook.fanduel.com/refer)
 
-![Image 66: Amazon Prime Video: Thursday Night Football](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F16%2F2026-09-16_17-31-11_600x300.jpg&w=1920&q=100)
+![Image 66: Bet $5, Get $50 for 4 days](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
 
-[More Info](https://pa.sportsbook.fanduel.com/promotions?promoCode=APVTNFSTATIC0917)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
+[More Info](https://mo.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
 
-![Image 67: Faceoff After Dark](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F5%2F2026-10-05_19-55-20_600x300.jpg&w=1920&q=100)
+![Image 67: NFL SGP Profit Boost](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F9%2F2026-11-09_17-34-29_600x300.jpg&w=1920&q=100)
 
-[More Info](https://ky.sportsbook.fanduel.com/promotions?promoCode=255FOADST111126)[PLAY NOW](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
-
-## More Articles You May Like
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-3h
-
-Find USC vs. Cal predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-
-[![Image 68: USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa7e64736e9f4d4865f86260f0b35ea83380811d8-3936x2625.jpg%3Frect%3D0%2C339%2C3936%2C1948%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-3h
-
-Find Nebraska vs. Lindenwood predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-
-[![Image 69: Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ff419ad346afc03d23e24dd62e9868e18b7ed558e-4461x2974.jpg%3Frect%3D0%2C384%2C4461%2C2207%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [St. John's vs Colgate College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-8h
-
-Find St. John's vs. Colgate predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-
-[![Image 70: St. John's vs Colgate College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2767e74f6f67a613c9880f673d52229a11c4c8d3-4702x3135.jpg%3Frect%3D0%2C405%2C4702%2C2327%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Arkansas vs Robert Morris College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-
-8h
-
-Find Arkansas vs. Robert Morris predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-
-[![Image 71: Arkansas vs Robert Morris College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6af82ec55b9a075d401d040224f9ddb592bfd274-4555x2563.jpg%3Frect%3D0%2C155%2C4555%2C2254%26w%3D964%26h%3D477&w=1920&q=100)](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+[More Info](https://az.sportsbook.fanduel.com/promotions?promoCode=LONFLPB1111)[Log in](https://sportsbook.fanduel.com/login)
 
 *   ### ABOUT
 
@@ -645,31 +607,31 @@ Find Arkansas vs. Robert Morris predictions, betting odds, moneyline, spread, ov
 
 © Betfair Interactive US LLC, 2026
 
-Gambling Problem? Call![Image 72: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 73: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 74: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 75: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 76: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 77: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
+Gambling Problem? Call![Image 68: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 69: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 70: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 71: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 72: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 73: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
 
 Persons under 21 are not permitted to engage in sports wagering. For customer support please[contact us](https://sportsbook.fanduel.com/support).
 
-![Image 78: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
+![Image 74: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
 
-![Image 79: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
+![Image 75: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
 
-![Image 80: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
+![Image 76: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
 
-![Image 81: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
+![Image 77: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
 
-![Image 82: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
+![Image 78: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
 
-![Image 83: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
+![Image 79: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
 
-![Image 84: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
+![Image 80: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
 
-![Image 85: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
+![Image 81: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
 
-![Image 86: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
+![Image 82: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
 
-![Image 87: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
+![Image 83: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
 
-![Image 88: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
+![Image 84: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
 
 [Back to top](https://fanduel.com/research/ucla-vs-uapb-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026#)
 
@@ -689,11 +651,11 @@ START YOUR OWN WINNING STREAK
 # Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-3h
+9h
 Link
 ![Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ff419ad346afc03d23e24dd62e9868e18b7ed558e-4461x2974.jpg%3Frect%3D0%2C384%2C4461%2C2207%26w%3D964%26h%3D477&w=1920&q=100)
-The Nebraska Cornhuskers (2-0) hit the court against the Lindenwood Lions (2-1) on November 11, 2026.
-Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+The Nebraska Cornhuskers (2-0) take on the Lindenwood Lions (2-1) on November 11, 2026. The matchup airs on FS1.
+Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Nebraska vs. Lindenwood Game Info and Odds
   * **Game day:** Wednesday, November 11, 2026
   * **Game time:** 9 p.m. ET
@@ -702,25 +664,25 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
   * **Arena:** Pinnacle Bank Arena
 
 
-Nebraska is a 34.5-point favorite against Lindenwood on Wednesday and the over/under is set at 151.5 points. Below are a few betting insights and trends before making an informed wager on the contest.
+Check out the betting trends and insights below before placing a bet on Wednesday's Nebraska-Lindenwood spread (Nebraska -34.5) or total (151.5 points).
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Nebraska vs. Lindenwood: ATS Betting Stats and Trends
-  * Nebraska put together a 19-16-0 record against the spread last season.
-  * Lindenwood put together a 14-16-0 ATS record last year.
+  * Nebraska went 19-16-0 ATS last season.
+  * Lindenwood covered 14 times in 30 matchups with a spread last year.
   * Neither Nebraska nor Lindenwood covered last season when the spread conditions of the game were equal to or greater than Wednesday's line (Cornhuskers as favorites by 34.5 or more and Lions as underdogs by 34.5 or more).
-  * At home last season, the Cornhuskers had a worse record against the spread (8-10-0) compared to their ATS record in road games (7-3-0).
-  * Last season, the Lions were 4-7-0 at home against the spread (.364 winning percentage). On the road, they were 7-9-0 ATS (.438).
+  * Against the spread last season, the Cornhuskers played worse when played at home, covering eight times in 18 home games, and seven times in 10 road games.
+  * The Lions were better against the spread on the road (7-9-0) than at home (4-7-0) last season.
 
 
 ## Nebraska vs. Lindenwood Head-to-Head Comparison
-  * On offense, Nebraska was the 147th-ranked team in college basketball (77 points per game) last year. Defensively, it was 16th-best (66.1 points allowed per game).
-  * On the boards, Nebraska was 144th in the nation in rebounds (32.4 per game) last season. It was 192nd in rebounds allowed (31.1 per game).
-  * Last season Nebraska was 12th-best in college basketball in assists with 18 per game.
-  * In terms of turnovers, Nebraska was 35th in the nation in committing them (9.3 per game) last year. It was 92nd in forcing them (12 per game).
-  * With 77.8 points per game on offense, Lindenwood ranked 125th in the nation last year. At the other end of the court, it allowed 72.7 points per contest, which ranked 140th in college basketball.
-  * With 35.3 rebounds per game, Lindenwood ranked 34th in college basketball. It gave up 32.4 rebounds per contest, which ranked 262nd in college basketball.
-  * Lindenwood put up 14.2 dimes per game, which ranked them 143rd in the country.
-  * While Lindenwood was in the bottom 25 in college basketball in turnovers per game with 13 (22nd-worst), it ranked 26th in college basketball with 13.4 forced turnovers per contest.
+  * Last year, Nebraska was 147th in college basketball on offense (77 points scored per game) and 16th-best on defense (66.1 points allowed).
+  * Last season, Nebraska was 144th in college basketball in rebounds (32.4 per game) and 192nd in rebounds allowed (31.1).
+  * Nebraska was 12th-best in the country in assists (18 per game) last year.
+  * Nebraska was 35th in the nation in turnovers per game (9.3) and 92nd in turnovers forced (12) last season.
+  * On offense, Lindenwood posted 77.8 points per game (125th-ranked in college basketball) last year. It allowed 72.7 points per contest at the other end (140th-ranked).
+  * Lindenwood pulled down 35.3 boards per game (34th-ranked in college basketball) last season, while allowing 32.4 rebounds per contest (262nd-ranked).
+  * Lindenwood put up 14.2 assists per game, which ranked them 143rd in the nation.
+  * While Lindenwood ranked in the bottom 25 in the nation in turnovers per game with 13 (22nd-worst), it ranked 26th in college basketball with 13.4 forced turnovers per contest.
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
@@ -728,24 +690,24 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-3h
+9h
 Find USC vs. Cal predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-3h
+9h
 Find Nebraska vs. Lindenwood predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [St. John's vs Colgate College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-8h
+13h
 Find St. John's vs. Colgate predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
-## [Arkansas vs Robert Morris College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-8h
-Find Arkansas vs. Robert Morris predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-[](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+## [Michigan vs Marquette College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/michigan-vs-marquette-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+13h
+Find Michigan vs. Marquette predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
+[](https://fanduel.com/research/michigan-vs-marquette-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 
 
 
@@ -763,11 +725,11 @@ START YOUR OWN WINNING STREAK
 # Michigan vs Marquette College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-7h
+13h
 Link
 ![Michigan vs Marquette College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc39c21707b8509176028d550600be38d3d3023fc-7074x4716.jpg%3Frect%3D0%2C608%2C7074%2C3500%26w%3D964%26h%3D477&w=1920&q=100)
-The Marquette Golden Eagles (2-0) face the Michigan Wolverines (1-1) at Crisler Center on November 11, 2026.
-Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+The Michigan Wolverines (1-1) go up against the Marquette Golden Eagles (2-0) on November 11, 2026. The matchup airs on FS1.
+Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Michigan vs. Marquette Game Info and Odds
   * **Game day:** Wednesday, November 11, 2026
   * **Game time:** 7 p.m. ET
@@ -776,33 +738,33 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
   * **Arena:** Crisler Center
 
 
-If you are planning on making a wager on Michigan-Marquette outing (in which Michigan is a 3.5-point favorite and the total is set at 156.5 points), below are a few betting trends and insights for Wednesday's game.
+Check out the betting trends and insights below before placing a wager on Wednesday's Michigan-Marquette spread (Michigan -3.5) or over/under (156.5 points).
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Michigan vs. Marquette: ATS Betting Stats and Trends
-  * Michigan won 19 games against the spread last season, while failing to cover 21 times.
-  * Marquette went 13-19-0 ATS last year.
-  * Michigan covered the spread when it was a 3.5-point favorite or more 41.2% of the time last season. That's less often than Marquette covered as an underdog of 3.5 or more (20.6%).
-  * The Wolverines had a better record against the spread at home (8-7-0) than they did on the road (4-7-0) last season.
-  * The Golden Eagles were better against the spread away (5-7-0) than at home (7-10-0) last year.
+  * Michigan compiled a 19-21-0 record against the spread last season.
+  * Marquette compiled a 13-19-0 record against the spread last season.
+  * As a 3.5-point underdog or more in 2025-26, Marquette was 7-5 against the spread compared to the 14-20 ATS record Michigan put up as a 3.5-point favorite.
+  * In home games last season, the Wolverines sported a better record against the spread (8-7-0) compared to their ATS record in away games (4-7-0).
+  * Last season, the Golden Eagles were 7-10-0 at home against the spread (.412 winning percentage). On the road, they were 5-7-0 ATS (.417).
 
 
 ## Michigan vs. Marquette: Moneyline Betting Stats
-  * Michigan won 34 of the 37 games it was the moneyline favorite last season (91.9%).
-  * The Wolverines had a 31-3 record last year (winning 91.2% of their games) when they played as a moneyline favorite of -166 or shorter.
-  * Marquette was an underdog 18 times last season and won four, or 22.2%, of those games.
-  * The Golden Eagles had a record of 2-10, a 16.7% win rate, when they were set as an underdog of +138 or more by sportsbooks last season.
-  * The implied moneyline probability in this matchup gives Michigan a 62.4% chance to win.
+  * Michigan finished 34-3 in games it was listed as the moneyline favorite last season (winning 91.9% of those games).
+  * The Wolverines went 31-3 last year (winning 91.2% of their games) when playing as a moneyline favorite of -164 or shorter.
+  * Last season, Marquette was the underdog 18 times and won four, or 22.2%, of those games.
+  * The Golden Eagles had a record of 2-10 in games where oddsmakers had them as underdogs of at least +136 on the moneyline.
+  * Michigan has a 62.1% chance to win this contest based on the moneyline's implied probability.
 
 
 ## Michigan vs. Marquette Head-to-Head Comparison
-  * On offense, Michigan was the ninth-best team in the country (87.3 points per game) last year. Defensively, it was 61st (69.5 points allowed per game).
-  * Last year, Michigan was 13th-best in college basketball in rebounds (36.9 per game) and 23rd-best in rebounds conceded (27.9).
-  * Michigan was fourth-best in college basketball in assists (18.6 per game) last year.
-  * Last year, Michigan was 234th in the country in turnovers committed (11.4 per game) and 251st in turnovers forced (10.3).
-  * Offensively, Marquette put up 75.2 points per game (191st-ranked in college basketball) last year. It surrendered 75.8 points per contest at the other end (234th-ranked).
-  * Marquette ranked 239th in the nation with 31 rebounds per contest, but it gave up 34.8 rebounds per game, which ranked 14th-worst in college basketball.
-  * Marquette ranked 78th in the nation with 15.5 dimes per game.
-  * Last season Marquette averaged 11.2 turnovers per game (212th-ranked in college basketball) and forced 12.5 turnovers per contest (65th-ranked).
+  * Last year, Michigan was ninth-best in the nation offensively (87.3 points scored per game) and ranked 61st defensively (69.5 points allowed).
+  * On the glass, Michigan was 13th-best in the nation in rebounds (36.9 per game) last year. It was 23rd-best in rebounds allowed (27.9 per game).
+  * At 18.6 assists per game, Michigan was fourth-best in the country last year.
+  * With 11.4 turnovers committed per game and 10.3 turnovers forced last year, Michigan was 234th and 251st in the nation, respectively.
+  * On offense, Marquette scored 75.2 points per game (191st-ranked in college basketball) last season. It ceded 75.8 points per contest at the other end (234th-ranked).
+  * Marquette, who ranked 239th in college basketball with 31 rebounds per game, allowed 34.8 rebounds per contest, which was 14th-worst in the country.
+  * Last season Marquette ranked 78th in college basketball in assists, delivering 15.5 per game.
+  * Last year Marquette committed 11.2 turnovers per game (212th-ranked in college basketball) and forced 12.5 turnovers per contest (65th-ranked).
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
@@ -810,22 +772,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [USC vs Cal College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-3h
+9h
 Find USC vs. Cal predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/usc-vs-cal-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Nebraska vs Lindenwood College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-3h
+9h
 Find Nebraska vs. Lindenwood predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/nebraska-vs-lindenwood-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [St. John's vs Colgate College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-8h
+13h
 Find St. John's vs. Colgate predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
 [](https://fanduel.com/research/st-john-s-vs-colgate-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
-## [Arkansas vs Robert Morris College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
-8h
-Find Arkansas vs. Robert Morris predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
-[](https://fanduel.com/research/arkansas-vs-robert-morris-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+## [Michigan vs Marquette College Basketball Prediction, Odds, Picks, Best Bets for Nov. 11](https://fanduel.com/research/michigan-vs-marquette-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
+13h
+Find Michigan vs. Marquette predictions, betting odds, moneyline, spread, over/under and more for the Nov. 11 college basketball matchup.
+[](https://fanduel.com/research/michigan-vs-marquette-college-basketball-predictions-odds-picks-best-bets-for-11-11-2026)
 

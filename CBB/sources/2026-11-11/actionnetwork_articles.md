@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-11 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-11 17:02 ET -->
 
 
 ---
@@ -115,456 +115,39 @@ Campbell vs. East Tennessee State
 Right Arrow
 Santa Clara vs. North Texas
 ### Top Stories
-[![Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/fdu-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-11 hours ago
-[![Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-5 hours ago
-[![Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-Jonathan Jorcin
-5 hours ago
 [![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
 NCAAB
 [Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
 Colby Marchio
-4 hours ago
-[![Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
+10 hours ago
+[![Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
 NCAAB
-[Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
+[Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
 Colby Marchio
-4 hours ago
+10 hours ago
+[![USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/Aliaj.png)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+NCAAB
+[USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+Sean Paul
+6 hours ago
 [![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 NCAAB
 [2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 Colby Marchio
 Oct 26, 2026 EST
+[![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+NCAAB
+[College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+Joshua Nunn
+Oct 28, 2026 EST
+[![College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://images.actionnetwork.com/blog/2026/10/Robert-Hinton.png)](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+NCAAB
+[College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+Sean Paul
+Oct 27, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=2f3ca553-5eaf-47f2-be89-a55fcca70dc4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=283ae2f3-ab3e-4a1d-88cd-9cc5ac8e6ca3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=2f3ca553-5eaf-47f2-be89-a55fcca70dc4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=283ae2f3-ab3e-4a1d-88cd-9cc5ac8e6ca3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=e4208e36-2c67-4a67-ba33-70d07ec6fdaa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=283ae2f3-ab3e-4a1d-88cd-9cc5ac8e6ca3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=7646&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=e4208e36-2c67-4a67-ba33-70d07ec6fdaa&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=283ae2f3-ab3e-4a1d-88cd-9cc5ac8e6ca3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=7646&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 11, 2026, 10:51 AM EST
-Updated:
-Nov 11, 2026, 10:51 AM EST
-Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Fairleigh Dickinson Knights guard David Jevtic (35)
-Starts in 13 minutes
-Odds Updated at Nov 11, 2026, 11:16 AM EST  
-| Matchup - 11/11 11:30am EST  | Spread  | Total  | Moneyline  |  
-| --- | --- | --- | --- |  
-| [![Fairleigh logo](https://assets.actionnetwork.com/957137_fdu.png) FDU 1-2 ](https://www.actionnetwork.com/ncaab/odds/fairleigh-dickinson-knights)  |  +11.5-114  |  o138.5-112  | +520  |  
-| [![E TA&M logo](https://assets.actionnetwork.com/519564_commerce.png) ETAM 2-0 ](https://www.actionnetwork.com/ncaab/odds/texas-am-commerce-lions)  |  -11.5-106  |  u138.5-107  | -750  |  
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Fairleigh Dickinson Knights take on the East Texas A&M Lions in Commerce, Texas. Tip-off is set for 11:30 a.m. ET on ESPN+.
-East Texas A&M is favored by -10.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -630. The total is set at 139.5 points.
-Here’s my **Fairleigh Dickinson vs. East Texas A &M prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 11, 2026.
-* * *
-## Fairleigh Dickinson vs East Texas A&M Prediction
-**Pick:[ Fairleigh Dickinson +10.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3192232167&context=action-articles)**
-My**Fairleigh Dickinson vs East Texas A &M best bet** is on Knights to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Fairleigh Dickinson vs East Texas A&M Odds, Spread, Total
-[![Fairleigh Logo](https://assets.actionnetwork.com/957137_fdu.png)](https://www.actionnetwork.com/ncaab/odds/fairleigh-dickinson-knights)
-Wednesday, Nov 11
-11:30 a.m. ET
-ESPN+
-[![E TA&M Logo](https://assets.actionnetwork.com/519564_commerce.png)](https://www.actionnetwork.com/ncaab/odds/texas-am-commerce-lions)  
-| Fairleigh Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +11.5 -110  |  138.5 -110o / -110u  | +500  |  
-| E TA&M Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -11.5 -110  |  138.5 -110o / -110u  | -720  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Fairleigh Dickinson vs East Texas A &M spread:** Fairleigh Dickinson +11.5 (-110), East Texas A&M -11.5 (-110)
-  * **Fairleigh Dickinson vs East Texas A &M over/under:** 138.5 (-110 / -110)
-  * **Fairleigh Dickinson vs East Texas A &M moneyline:** Fairleigh Dickinson +500, East Texas A&M -720
-
-
-* * *
-## Fairleigh Dickinson vs East Texas A&M Preview
-![Header First Logo](https://assets.actionnetwork.com/957137_fdu.png)
-### Fairleigh Dickinson Basketball
-The poor Knights.
-Their season started with the treadmill set to 10, as they opened the campaign on the road against [Illinois](https://www.actionnetwork.com/ncaab/odds/illinois-fighting-illini), losing 120-45, and [Butler](https://www.actionnetwork.com/ncaab/odds/butler-bulldogs), falling 99-65.
-At least they got a get-right game against non-Division I CCNY this past Saturday, winning 93-56.
-The question now is, how will they fare against one of the hottest mid-majors in the country?
-This team should be solid, returning the conference's Rookie of the Year in David Jevtic, a 6-foot-8 guard who put up 6.6 points and 3.45 rebounds per game a season ago.
-So far this season, he's posted 13-plus points and six-plus rebounds in two of the Knights' three games. He currently leads the team in both scoring and rebounds per game.
-The Knights will also be leaning on former [Pepperdine](https://www.actionnetwork.com/ncaab/odds/pepperdine-waves) forward Pavle Stosic, who leads the team in assists, averaging 3.3 per game.
-FDU has a solid crew this season and should make some noise in the NEC.
-![Header First Logo](https://assets.actionnetwork.com/519564_commerce.png)
-### East Texas A&M Basketball
-Has any team started their season with a bigger bang than East Texas A&M?
-The answer is no, because the Lions followed up their outright win over [Oklahoma](https://www.actionnetwork.com/ncaab/odds/oklahoma-sooners) as a 31.5-point underdog with another outright win over [Rice](https://www.actionnetwork.com/ncaab/odds/rice-owls).
-They now draw FDU, whom they beat and covered 70-65 last November.
-![Header First Logo](https://assets.actionnetwork.com/957137_fdu.png)
-![Header Second Logo](https://assets.actionnetwork.com/519564_commerce.png)
-## Fairleigh Dickinson vs. East Texas A&M Expert College Basketball Pick, Best Bet
-Fairleigh Dickinson kicking off the season against one of the best teams in the country, then following it up with Butler, has the Knights ranked in the top 15 in strength of schedule through just two games.
-Those back-to-back tests should have Fairleigh Dickinson battle-tested enough to keep this one close against a team playing well above expectations early on. The Lions are still projected to finish second-to-last in the Southland Conference.
-The Lions are also a completely new team that's gelling a little too well, in my opinion. I expect a letdown in their first game as the favorite.
-It will be extremely interesting to see if Fairleigh Dickinson looks to take down the team that beat Oklahoma before playing Oklahoma themselves on Friday.
-**Pick:[ Fairleigh Dickinson +10.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3192232167&context=action-articles)**
-* * *
-### How To Watch Fairleigh vs E TA&M
-Location:
--
-Date:
-Wed, Nov 11
-Tipoff Time:
-11:30 AM EST
-TV/Streaming:
-ESPN+
-Fairleigh vs E TA&M is scheduled for 11:30 AM EST on Wednesday. The game will be broadcast on ESPN+.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=Fairleigh%20Dickinson%20vs%20East%20Texas%20A%26M%20Prediction%2C%20Odds%3A%20Expert%20College%20Basketball%20Picks%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Colby Marchio • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Fairleigh Dickinson vs East Texas A&M Prediction
-Right Arrow
-Fairleigh Dickinson vs East Texas A&M Odds, Spread, Total
-Right Arrow
-Fairleigh Dickinson vs East Texas A&M Preview
-Right Arrow
-Fairleigh Dickinson Basketball
-Right Arrow
-East Texas A&M Basketball
-Right Arrow
-Fairleigh Dickinson vs. East Texas A&M Expert College Basketball Pick, Best Bet
-Right Arrow
-How To Watch Fairleigh vs E TA&M
-### Top Stories
-[![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-Action Network Staff
-3 hours ago
-[![Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-5 hours ago
-[![Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-Jonathan Jorcin
-5 hours ago
-[![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-NCAAB
-[2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-Colby Marchio
-Oct 26, 2026 EST
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=650acbe4-9939-4d17-943d-3c9c85b0d7ab&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fbfd2e59-aca1-4f09-a2e4-1816c3d774d8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=650acbe4-9939-4d17-943d-3c9c85b0d7ab&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fbfd2e59-aca1-4f09-a2e4-1816c3d774d8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=93473cff-45a6-4979-a6f7-26d35e98d827&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fbfd2e59-aca1-4f09-a2e4-1816c3d774d8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7658&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=93473cff-45a6-4979-a6f7-26d35e98d827&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fbfd2e59-aca1-4f09-a2e4-1816c3d774d8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ffairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7658&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 11, 2026, 05:56 AM EST
-Updated:
-Nov 11, 2026, 05:56 AM EST
-Credit:
-USA TODAY Sports via Reuters Connect. Pictured: Albany Great Danes head coach Dwayne Killings
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Dartmouth Big Green take on the Albany Great Danes in Albany, New York. Tip-off is set for 1 p.m. ET on ESPN+.
-Dartmouth is favored by -2.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -130. The total is set at 145.5 points.
-Here’s my **Dartmouth vs. Albany prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 11, 2026.
-* * *
-## Dartmouth vs Albany Prediction
-**Pick:[ Albany +2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3192232184&context=action-articles)**
-My**Dartmouth vs Albany best bet** is on the Great Danes to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Dartmouth vs Albany Odds
-[![Dartmouth Logo](https://static.sprtactn.co/teamlogos/ncaab/100/drt.png)](https://www.actionnetwork.com/ncaab/odds/dartmouth-big-green)
-Wednesday, November 11
-1 p.m. ET
-ESPN+
-[![Albany Logo](https://assets.actionnetwork.com/197927_albany1.png)](https://www.actionnetwork.com/ncaab/odds/albany-great-danes)  
-| Dartmouth Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -2.5 -102  |  145.5 -106o / -114u  | -132  |  
-| Albany Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +2.5 -120  |  145.5 -106o / -114u  | +110  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Dartmouth vs Albany spread:** Dartmouth -2.5 (-110), Albany +2.5 (-110)
-  * **Dartmouth vs Albany over/under:** 145.5 (-110 / -110)
-  * **Dartmouth vs Albany moneyline:** Dartmouth -130, Albany +112
-
-
-* * *
-## Dartmouth vs Albany College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/drt.png)
-### Dartmouth Basketball
-The Big Green should be entering this matchup 3-0, but an overtime loss to [Central Connecticut](https://www.actionnetwork.com/ncaab/odds/central-connecticut-state-blue-devils) in their previous game kept them from remaining perfect.
-Prior to that, Dartmouth took down [Marist](https://www.actionnetwork.com/ncaab/odds/marist-red-foxes) and non-Division I Framingham State.
-The team entered the season without any returning starters but brought back six reserves. They also added Landon Williams, Acen Jimenez, Jake Pollack and Ernas Valauskas.
-So far this season, the Big Green's standout player has been junior guard Cameron McNamee. Through three games, he leads the team in scoring at 16.0 points and adds 5.7 rebounds per game.
-Hopefully, head coach Brett MacConnell can get the most out of this group, as many projections have the Big Green finishing last in the Ivy League.
-![Header First Logo](https://assets.actionnetwork.com/197927_albany1.png)
-### Albany Basketball
-The Great Danes enter Wednesday with a 2-1 record, beating non-Division I Rhode Island College and [Manhattan](https://www.actionnetwork.com/ncaab/odds/manhattan-jaspers). Their lone loss came against [Merrimack](https://www.actionnetwork.com/ncaab/odds/merrimack-warriors).
-Albany returns just one starter from a year ago, junior guard Zacharie Matulu, who has nearly averaged a double-double to start the season (9.0 PPG, 8.3 RPG).
-Freshman Tyler Jones, out of [Memphis](https://www.actionnetwork.com/ncaab/odds/memphis-tigers), is looking like a star in the making, posting 17.3 points per game while shooting 31% from deep and 48.5% from the floor.
-You can't forget about their leading scorer, though, Ollie Engen, who's averaging 18.0 points, 5.7 assists and 3.7 rebounds through the first three games. Engen played in Canada last season, averaging 19.9 points, 4.2 rebounds and 4.0 assists per game for Queen's University.
-This team is filled with plenty of fun players who could keep things interesting in the America East, where the Great Danes are projected to finish toward the bottom of the conference.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/drt.png)
-![Header Second Logo](https://assets.actionnetwork.com/197927_albany1.png)
-## Dartmouth vs. Albany Pick, Betting Analysis
-Dartmouth shot very poorly in its overtime loss against Central Connecticut (38.5% from the floor and 21.9% from deep). The Big Green knocked down 14-of-20 free throws but allowed the Blue Devils to shoot 50% from the floor and nearly 41% from deep.
-They had no business keeping this game close. Even with 11 steals, the Big Green still committed more turnovers than the Blue Devils.
-Although the pace of play won't be urgent whatsoever, if the Big Green aren't going to defend the perimeter or shoot above 40% from the floor, Albany will make them pay.
-If Engen can continue his early-season dominance, averaging nearly 20 points per game while grabbing boards and dishing out assists, and Jones continues putting up nearly 20 points of his own, the Great Danes are sitting nice and pretty at home Wednesday afternoon.
-**Pick:[ Albany +2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3192232184&context=action-articles)**
-* * *
-### How To Watch Dartmouth vs Albany
-Location:
--
-Date:
-Wed, Nov 11
-Tipoff Time:
-1:00 PM EST
-TV/Streaming:
-ESPN+
-Dartmouth vs Albany is scheduled for 1:00 PM EST on Wednesday. The game will be broadcast on ESPN+.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=Dartmouth%20vs%20Albany%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Colby Marchio • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Dartmouth vs Albany Prediction
-Right Arrow
-Dartmouth vs Albany Odds
-Right Arrow
-Dartmouth vs Albany College Basketball Preview
-Right Arrow
-Dartmouth Basketball
-Right Arrow
-Albany Basketball
-Right Arrow
-Dartmouth vs. Albany Pick, Betting Analysis
-Right Arrow
-How To Watch Dartmouth vs Albany
-### Top Stories
-[![Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/fdu-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-11 hours ago
-[![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-Action Network Staff
-3 hours ago
-[![Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-Jonathan Jorcin
-5 hours ago
-[![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-NCAAB
-[2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-Colby Marchio
-Oct 26, 2026 EST
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=2826160e-c74b-40b3-a517-6d598f02bb2e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d0e98309-1fc0-493d-9ecd-a98bd994d1fa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=2826160e-c74b-40b3-a517-6d598f02bb2e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d0e98309-1fc0-493d-9ecd-a98bd994d1fa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=5d5125de-ceaf-4bdc-97c1-0b697c600d7d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d0e98309-1fc0-493d-9ecd-a98bd994d1fa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7661&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=5d5125de-ceaf-4bdc-97c1-0b697c600d7d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d0e98309-1fc0-493d-9ecd-a98bd994d1fa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7661&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Jonathan Jorcin](https://www.actionnetwork.com/article/author/jjorcin)
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 11, 2026, 06:06 AM EST
-Updated:
-Nov 11, 2026, 06:06 AM EST
-Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Saint Joseph’s Hawks guard Jaiden Glover-Toscano
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Saint Joe's Hawks take on the USF Bulls in Annapolis, MD. Tip-off is set for 3 p.m. ET on CBS Sports Network.
-USF is favored by -7.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -315. The total is set at 151.5 points.
-Here’s my **Saint Joe's vs. USF prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 11, 2026.
-* * *
-## Saint Joe's vs USF Prediction
-**Pick:[ Saint Joe's +7.5 (Play to +6)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3191935310&context=playbook-slack-quickslip&sport=basketball)**
-My**Saint Joe's vs USF best bet** is on the Hawks to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Saint Joe's vs USF Odds
-[![Saint Joe's Logo](https://static.sprtactn.co/teamlogos/ncaab/100/joes.png)](https://www.actionnetwork.com/ncaab/odds/saint-josephs-pa-hawks)
-Wednesday, Nov 11
-3 p.m. ET
-CBS Sports Network
-[![USF Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usfn.png)](https://www.actionnetwork.com/ncaab/odds/south-florida-bulls)  
-| Saint Joe's Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +7.5 -114  |  151.5 -115o / -105u  | +250  |  
-| USF Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -7.5 -106  |  151.5 -115o / -105u  | -315  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Saint Joe's vs USF spread:** Saint Joe's +7.5 (-114), USF -7.5 (-106)
-  * **Saint Joe's vs USF over/under:** 151.5 (-115o / -105u)
-  * **Saint Joe's vs USF moneyline:** Saint Joe's +250, USF -315
-
-
-* * *
-## Saint Joe's vs USF College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/joes.png)
-### Saint Joe's Basketball
-Saint Joseph’s has opened the season with back-to-back wins, including an overtime game in which the Hawks scored 67 points against [Lafayette](https://www.actionnetwork.com/ncaab/odds/lafayette-leopards). They’ll face a step up in class when they head to the Veterans Classic in Maryland to take on USF.
-Saint Joseph’s has a legitimate shot to contend for the Atlantic 10 Championship, with the likes of [George Mason](https://www.actionnetwork.com/ncaab/odds/george-mason-patriots), but most experts see the Hawks with a ceiling of the NIT.
-Jaiden Glover-Toscano is the clear star player, but he's also aided by Austin Williford's return. Williford was an All-Rookie A-10 his freshman year and sat out his second season with the Hawks.
-This team will excel with its guard play, but to be a consistent threat, it needs to find a 3-point marksman. To open the season, the Hawks are a combined 11-for-48 from beyond the arc.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usfn.png)
-### USF Basketball
-The Bulls are coming off what most consider a surprise year, and Bryan Hodgson has left for the coaching pastures of [Providence](https://www.actionnetwork.com/ncaab/odds/providence-friars). They have split their first two games under first-year coach Chris Mack. The loss to [DePaul](https://www.actionnetwork.com/ncaab/odds/depaul-blue-demons) doesn’t bode well for confidence as this season rolls on.
-But if there is a coach that can find success, it’s Mack. He has 300 career wins and nine tournament appearances. He also led College of [Charleston](https://www.actionnetwork.com/ncaab/odds/charleston-cougars) to two straight seasons of 20 wins.
-This Bulls' roster is primarily made up of portal transfers, and we might see some growing pains as a result. They have three transfers that are either seniors or grad transfers, which might help ease the process of this rebuild.
-The experience will surely play a factor as we move through the season, because the non-conference schedule for the Bulls is formidable. They have look-ahead games against George Mason, [Saint Louis](https://www.actionnetwork.com/ncaab/odds/saint-louis-billikens), [Dayton](https://www.actionnetwork.com/ncaab/odds/dayton-flyers) and [Alabama](https://www.actionnetwork.com/ncaab/odds/alabama-crimson-tide).
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/joes.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usfn.png)
-## Saint Joe's vs USF Pick, Betting Analysis
-This spread has come in at 7.5 in some of the earliest lines, but it's come down to 6.5.
-I think in most situations it would be hard to back Saint Joseph’s. But in a neutral-site game, with a clear proximity advantage for the underdogs, I like the points.
-We should get a close game early, and I expect Saint Joe’s to lean heavily on its guards to control things.
-**Pick:[ Saint Joseph's +7.5 (Play to +6)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3191935310&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Saint Joe's vs S. Florida
-Location:
-Navy Alumni Hall in Annapolis, MD
-Date:
-Wed, Nov 11
-Tipoff Time:
-3:00 PM EST
-TV/Streaming:
-CBS Sports Network
-Saint Joe's vs S. Florida is scheduled for 3:00 PM EST live from Navy Alumni Hall on Wednesday. The game will be broadcast on CBS Sports Network.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=Saint%20Joe%E2%80%99s%20vs%20USF%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Jonathan Jorcin • Verified Action Expert
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Saint Joe's vs USF Prediction
-Right Arrow
-Saint Joe's vs USF Odds
-Right Arrow
-Saint Joe's vs USF College Basketball Preview
-Right Arrow
-Saint Joe's Basketball
-Right Arrow
-USF Basketball
-Right Arrow
-Saint Joe's vs USF Pick, Betting Analysis
-Right Arrow
-How To Watch Saint Joe's vs S. Florida
-### Top Stories
-[![Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/fdu-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-11 hours ago
-[![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
-Action Network Staff
-3 hours ago
-[![Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-5 hours ago
-[![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
-[![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-NCAAB
-[2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
-Colby Marchio
-Oct 26, 2026 EST
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=21242f1b-d31b-486d-a53a-a138ccba0e99&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=630b8d4e-0f78-400c-86a6-bb8383283829&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=21242f1b-d31b-486d-a53a-a138ccba0e99&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=630b8d4e-0f78-400c-86a6-bb8383283829&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=851c0b60-6d6e-424d-b50f-d32eecb100ea&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=630b8d4e-0f78-400c-86a6-bb8383283829&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7687&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=851c0b60-6d6e-424d-b50f-d32eecb100ea&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=630b8d4e-0f78-400c-86a6-bb8383283829&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7687&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=6a11ea79-0a2d-473f-aa62-541fb1b4f35d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21a56ec5-cdfc-4d8b-a877-9771e99bc6c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=6a11ea79-0a2d-473f-aa62-541fb1b4f35d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21a56ec5-cdfc-4d8b-a877-9771e99bc6c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=37439ae3-4f14-450d-ad13-b4542087dfc3&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21a56ec5-cdfc-4d8b-a877-9771e99bc6c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=7643&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=37439ae3-4f14-450d-ad13-b4542087dfc3&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=21a56ec5-cdfc-4d8b-a877-9771e99bc6c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-wednesday-november-11&tw_engaged_ms=7643&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -670,39 +253,39 @@ Penn vs. Navy Pick, Betting Analysis
 Right Arrow
 How To Watch Penn vs Navy
 ### Top Stories
-[![Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/fdu-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-11 hours ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
 Action Network Staff
-3 hours ago
-[![Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
+8 hours ago
+[![Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
 NCAAB
-[Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
+[Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
 Colby Marchio
-5 hours ago
-[![Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
+10 hours ago
+[![USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/Aliaj.png)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
 NCAAB
-[Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-Jonathan Jorcin
-5 hours ago
-[![Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-4 hours ago
+[USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+Sean Paul
+6 hours ago
 [![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 NCAAB
 [2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 Colby Marchio
 Oct 26, 2026 EST
+[![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+NCAAB
+[College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+Joshua Nunn
+Oct 28, 2026 EST
+[![College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://images.actionnetwork.com/blog/2026/10/Robert-Hinton.png)](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+NCAAB
+[College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+Sean Paul
+Oct 27, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=6787b5af-5b37-4ac8-9937-9ea67818b5ce&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9df5eec-33ca-4434-9c53-b3b07f95d999&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=6787b5af-5b37-4ac8-9937-9ea67818b5ce&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9df5eec-33ca-4434-9c53-b3b07f95d999&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=29a66694-3015-4129-a309-40f0cd9a6151&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9df5eec-33ca-4434-9c53-b3b07f95d999&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7688&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=29a66694-3015-4129-a309-40f0cd9a6151&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9df5eec-33ca-4434-9c53-b3b07f95d999&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7688&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=635bafd2-6cdf-4f36-bae6-f35067cc3c5a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4b48b72b-fc06-4be1-9d9b-f9eb3d73a40a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=635bafd2-6cdf-4f36-bae6-f35067cc3c5a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4b48b72b-fc06-4be1-9d9b-f9eb3d73a40a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=48d3e55e-5371-4bef-a42e-f7326622e838&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4b48b72b-fc06-4be1-9d9b-f9eb3d73a40a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=48d3e55e-5371-4bef-a42e-f7326622e838&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4b48b72b-fc06-4be1-9d9b-f9eb3d73a40a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpenn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -711,27 +294,33 @@ Oct 26, 2026 EST
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Marquette vs Michigan Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11
+# Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 11, 2026, 07:06 AM EST
+Nov 11, 2026, 02:10 PM EST
 Updated:
-Nov 11, 2026, 07:06 AM EST
+Nov 11, 2026, 02:10 PM EST
 Credit:
 Nov 2, 2026; Ann Arbor, Michigan, USA; Michigan Wolverines forward Jalen Reed (19) high fives forward J.P. Estrella (13) during the second half against the Oakland Golden Grizzlies at Crisler Center. Mandatory Credit: Brian Bradshaw Sevald-Imagn Images
+Starts in 1 hours
+Odds Updated at Nov 11, 2026, 5:01 PM EST  
+| Matchup - 11/11 7:00pm EST  | Spread  | Total  | Moneyline  |  
+| --- | --- | --- | --- |  
+| [![Marquette logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png) MARQ 2-0 ](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles)  |  +3.5-115  |  o156.5-115  | +136  |  
+| [![Michigan logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png) MICH 1-1 ](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines)  |  -3.5-105  |  u156.5-108  | -164  |  
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The [Marquette](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles) Golden Eagles take on the [Michigan](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines) Wolverines in Ann Arbor, MI. Tip-off is set for 7 p.m. ET on Fox Sports 1.
-Michigan is favored by -4.5 points on the spread with a moneyline of -184. The total is set at 153.5 points.
+Michigan is favored by -3.5 points on the spread with a moneyline of -172. The total is set at 156.5 points.
 Here’s my **Marquette vs. Michigan prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 11, 2026.
 * * *
 ## Marquette vs Michigan Prediction
 **Pick:[ Michigan -4.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3191935352&context=action-articles&sport=basketball)**
 My**Marquette vs Michigan best bet** is on the Wolverines to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Marquette vs Michigan Odds
+## Marquette vs Michigan Odds, Spread, Total
 [![Marquette Logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles)
 Wednesday, Nov 11
 7 p.m. ET
@@ -740,20 +329,20 @@ Fox Sports 1
 | Marquette Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +4.5 -115  |  153.5 -115o / -105u  | +152  |  
+|  +3.5 -106  |  156.5 -110o / -110u  | +142  |  
 | Michigan Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -4.5 -105  |  153.5 -115o / -105u  | -184  |  
+|  -3.5 -114  |  156.5 -110o / -110u  | -172  |  
 Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Marquette vs Michigan spread:** Marquette +4.5 (-115), Michigan -4.5 (-105)
-  * **Marquette vs Michigan over/under:** 153.5 (-115o / -105u)
-  * **Marquette vs Michigan moneyline:** Marquette +152, Michigan -184
+  * **Marquette vs Michigan spread:** Marquette +3.5 (-110), Michigan -3.5 (-110)
+  * **Marquette vs Michigan over/under:** 156.5 (-110o / -110u)
+  * **Marquette vs Michigan moneyline:** Marquette +142, Michigan -172
 
 
 * * *
-## Marquette vs Michigan College Basketball Preview
+## Marquette vs Michigan Preview
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)
 ### Marquette Basketball
 This writer finds it adorable that Shaka Smart kicked off the season with a couple of cupcake opponents, both ranked outside the top 110. Sure, give him credit for beating Michigan State in an exhibition back in October. Fine.
@@ -763,7 +352,7 @@ The next two games will give us a glimpse into what to expect from the Eagles th
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
 ### Michigan Basketball
 Are we really going to hold that [UConn](https://www.actionnetwork.com/ncaab/odds/connecticut-huskies) loss against the Wolverines? Hold it against me for betting the under in that game, which turned into the most obvious demolition in human history.
-Out of the gate, Michigan has a few issues that can and should be fixed. For starters, the Wolverines have struggled with rebounding, fouling and 3-point shooting.
+Out of the gate, Michigan has a few issues that can and should be fixed. For starters, the Wolverines have struggled with rebounding, fouling, and 3-point shooting.
 Now, Michigan does shoot a high volume of 3s, ranking 99th in 3-point rate, so the percentage may never look sexy when taking that many shots from deep.
 However, that UConn game was a mess. Michigan committed 27 fouls in that game and followed it up with 24 against [Oakland](https://www.actionnetwork.com/ncaab/odds/oakland-golden-grizzlies). If the Wolverines can clean that up and keep teams off the free-throw line, that would be huge.
 As for rebounding, these guys need to be more aggressive. They should have the height advantage in this matchup against the Golden Eagles. If Moustapha Thiam and J.P. Estrella can get in the way of Joshua Clark and Fru, Michigan should be just fine winning the rebounding battle.
@@ -786,7 +375,7 @@ Tipoff Time:
 TV/Streaming:
 Fox Sports 1
 Marquette vs Michigan is scheduled for 7:00 PM EST live from Crisler Center on Wednesday. The game will be broadcast on Fox Sports 1.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=Marquette%20vs%20Michigan%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=Marquette%20vs%20Michigan%20Prediction%2C%20Start%20Time%2C%20Odds%3A%20College%20Basketball%20Picks%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
@@ -795,9 +384,9 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 Marquette vs Michigan Prediction
 Right Arrow
-Marquette vs Michigan Odds
+Marquette vs Michigan Odds, Spread, Total
 Right Arrow
-Marquette vs Michigan College Basketball Preview
+Marquette vs Michigan Preview
 Right Arrow
 Marquette Basketball
 Right Arrow
@@ -807,37 +396,208 @@ Marquette vs. Michigan Pick, Betting Analysis
 Right Arrow
 How To Watch Marquette vs Michigan
 ### Top Stories
-[![Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/fdu-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Fairleigh Dickinson vs East Texas A&M Prediction, Odds: Expert College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/fairleigh-dickinson-knights-vs-east-texas-am-lions-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-11 hours ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
 Action Network Staff
-3 hours ago
-[![Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Dartmouth vs Albany Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/dartmouth-big-green-vs-albany-great-danes-prediction-pick-odds-college-basketball-wednesday-november-11)
-Colby Marchio
-5 hours ago
-[![Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-NCAAB
-[Saint Joe’s vs USF Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/saint-joes-hawks-vs-usf-bulls-prediction-pick-odds-college-basketball-wednesday-november-11)
-Jonathan Jorcin
-5 hours ago
+8 hours ago
 [![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
 NCAAB
 [Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
 Colby Marchio
-4 hours ago
+10 hours ago
+[![USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/Aliaj.png)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+NCAAB
+[USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+Sean Paul
+6 hours ago
 [![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 NCAAB
 [2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
 Colby Marchio
 Oct 26, 2026 EST
+[![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+NCAAB
+[College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+Joshua Nunn
+Oct 28, 2026 EST
+[![College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://images.actionnetwork.com/blog/2026/10/Robert-Hinton.png)](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+NCAAB
+[College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+Sean Paul
+Oct 27, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=e51f40fd-9e14-462d-bab6-386e606fc6a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9a01b7fc-a2cc-45c1-a8b2-1b5e42d6c81f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=e51f40fd-9e14-462d-bab6-386e606fc6a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9a01b7fc-a2cc-45c1-a8b2-1b5e42d6c81f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=b74102c3-c66b-4b1a-8436-f6d5a6b6af52&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9a01b7fc-a2cc-45c1-a8b2-1b5e42d6c81f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7684&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=b74102c3-c66b-4b1a-8436-f6d5a6b6af52&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9a01b7fc-a2cc-45c1-a8b2-1b5e42d6c81f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7684&tw_iframe_status=0&tw_pid_src=2&tw_session_count=76&tw_session_id=1794413010054-529756754&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7e7b76fb-807c-4346-88f5-e2030e8c61f1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01105c80-0ab6-434d-81d7-ac5b4a47b74d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7e7b76fb-807c-4346-88f5-e2030e8c61f1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01105c80-0ab6-434d-81d7-ac5b4a47b74d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=c26a61b2-aae2-4c08-a2b4-86a3993907ef&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01105c80-0ab6-434d-81d7-ac5b4a47b74d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7720&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=c26a61b2-aae2-4c08-a2b4-86a3993907ef&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=01105c80-0ab6-434d-81d7-ac5b4a47b74d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7720&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/usc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# USC vs Cal Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
+[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
+Staff Writer
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 11, 2026, 11:06 AM EST
+Updated:
+Nov 11, 2026, 11:06 AM EST
+Credit:
+IMAGN IMAGES via Reuters Connect. Pictured: Alijah Arenas (USC)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The [USC](https://www.actionnetwork.com/ncaab/odds/usc-trojans) Trojans take on the Cal Golden Bears in Berkeley, CA. Tip-off is set for 11 p.m. ET on ESPN2.
+  * is favored by – points on the spread with a moneyline of -. The total is set at – points.
+
+
+Here’s my **USC vs. Cal prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 11, 2026.
+* * *
+## USC vs Cal Prediction
+**Pick:[ USC -8.5 (Play to -10)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3191934933&context=playbook-slack-quickslip&sport=basketball)**
+My**USC vs Cal best bet** is on the Trojans to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## USC vs Cal Odds
+[![USC Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)](https://www.actionnetwork.com/ncaab/odds/usc-trojans)
+Wednesday, Nov 11
+11 p.m. ET
+ESPN2
+[![Cal Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cald.png)](https://www.actionnetwork.com/ncaab/odds/california-bears)  
+| USC Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -8.5 -115  |  161.5 -115o / -105u  | -325  |  
+| Cal Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +8.5 -105  |  161.5 -115o / -105u  | +260  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **USC vs Cal spread:** USC -8.5 (-115), Cal +8.5 (-105)
+  * **USC vs Cal over/under:** 161.5 (115o / -105u)
+  * **USC vs Cal moneyline:** USC -325, Cal +260
+
+
+* * *
+## USC vs Cal College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+### USC Basketball
+USC heads into its first true road game with a 3-0 record after beating [Wichita State](https://www.actionnetwork.com/ncaab/odds/wichita-state-shockers) at Lake Tahoe on Sunday.
+It’s been a curious case of “is USC a good shooting team?” The Trojans went an impressive 12-for-22 from deep against [Milwaukee](https://www.actionnetwork.com/ncaab/odds/milwaukee-panthers) but regressed to 2-for-14 against Wichita State. It didn’t matter, as Rodney Rice and Alijah Arenas each scored 30 points, but its something to watch.
+I lean towards USC being a passable shooting team — at worst. Rice is close to 40% from deep in his career and Arenas is a good shooter but his shot selection is questionable. It comes down to if the Ratliff twins (Adonis and Darius) can shoot consistently enough.
+The Trojans are a low-volume shooting team regardless, attempting 3s on just 30% of their field goals. Their DNA appears to be getting to the foul line, as they rank 23rd in KenPom’s FTA/FGA metric
+The Trojans’ size is imposing and could be an issue for Cal, as it aims to keep them off the foul line. All five USC starters are 6-foot-4 or taller and the trio of the Ratliff’s and Jacob Cofie are each 6-foot-11 or taller.
+They’ve also done well at protecting the rim, holding teams to 45% shooting on 2s and are tough at defending on-ball, forcing turnovers 23% of the time.
+![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
+[Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
+Last 30d: 9-10-0 (-1.4u)
+Follow
+![MARQ](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)
+![MICH](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
+Marquette @ Michigan Picks
+Today
+/
+7:00 PM on Fox Sports 1
+•
+8.5k bets
+MARQ +3.5
+-109 (1u)
+Copy Bet
+![JOES](https://static.sprtactn.co/teamlogos/ncaab/100/joes.png)
+![USF](https://static.sprtactn.co/teamlogos/ncaab/100/usfn.png)
+Saint Joe's @ S. Florida Picks
+Today
+/
+3:00 PM on CBS Sports Network
+•
+6.0k bets
+USF -6.5
+-110 (1u)
+Copy Bet
+See All
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cald.png)
+### Cal Basketball
+Cal enters this matchup with a 2-1 record with wins over non-Division I Adams State and [Radford](https://www.actionnetwork.com/ncaab/odds/radford-highlanders). However, the Golden Bears lost by 18 to [Houston](https://www.actionnetwork.com/ncaab/odds/houston-cougars) on Sunday. They covered the 19.5-point spread but were clearly overmatched in the size and athleticism departments.
+The Golden Bears' frontcourt is shaky. Lee Dort is back this season, but he’s yet to play due to injury. That leaves Mark Madsen with Sammie Yeanay, who was a backend of the bench option last season, and Mantas Kocanas.
+Kocanas got in foul trouble quickly against Houston and played just 21 minutes. Yeanay scored nine points but went 2-for-9 shooting.
+We know Cal will struggle to keep USC off the glass and from scoring inside — it ranks 218th in defensive rebounding rate and 248th in 2-point field goal defense.
+That makes it imperative for the Golden Bears to shoot well from deep. They’ve taken 3s on 52% of their field goal attempts this season and are connecting at a strong 42% clip.
+Is that sustainable? I doubt it. Michael Cooper is probably their best shooter and he drilled five against Houston. The only other true shooter is Nojus Indrusaitis, who notched a pair of 20+ point scoring games before Houston shut him down.
+Plus, Cal is turning the ball over at a 21% clip. The only thing keeping the Golden Bears afloat is shooting. If that goes awry, this game could get pretty lopsided.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cald.png)
+## USC vs. Cal Pick, Betting Analysis
+All the margins favor the Trojans.
+The line is sitting at 7.5, and I still vote USC as a top-25 level squad.
+KenPom has the Trojans at 34, so I’ll look to back a potentially undervalued team against a Cal unit that lacks top-end talent.
+Play it to USC -10.
+**Pick:[ USC -8.5 (Play to -10)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3191934933&context=playbook-slack-quickslip&sport=basketball)**
+* * *
+### How To Watch USC vs California
+Location:
+Haas Pavilion in Berkeley, CA
+Date:
+Wed, Nov 11
+Tipoff Time:
+11:00 PM EST
+TV/Streaming:
+ESPN2
+USC vs California is scheduled for 11:00 PM EST live from Haas Pavilion on Wednesday. The game will be broadcast on ESPN2.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://twitter.com/intent/tweet?text=USC%20vs%20Cal%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2011&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
+About the Author
+Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
+[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+USC vs Cal Prediction
+Right Arrow
+USC vs Cal Odds
+Right Arrow
+USC vs Cal College Basketball Preview
+Right Arrow
+USC Basketball
+Right Arrow
+Cal Basketball
+Right Arrow
+USC vs. Cal Pick, Betting Analysis
+Right Arrow
+How To Watch USC vs California
+### Top Stories
+[![College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/D.-Robinson.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
+NCAAB
+[College Basketball Best Bets: 3 NCAAB Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-wednesday-november-11)
+Action Network Staff
+8 hours ago
+[![Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11.jpg)](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
+NCAAB
+[Penn vs Navy Prediction, Pick, College Basketball Odds for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/penn-quakers-vs-navy-midshipmen-prediction-pick-odds-college-basketball-wednesday-november-11)
+Colby Marchio
+10 hours ago
+[![Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://images.actionnetwork.com/blog/2026/11/jpjr.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
+NCAAB
+[Marquette vs Michigan Prediction, Start Time, Odds: College Basketball Picks for Wednesday, Nov. 11](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-michigan-wolverines-prediction-pick-odds-college-basketball-wednesday-november-11)
+Colby Marchio
+10 hours ago
+[![2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://images.actionnetwork.com/blog/2026/10/HOlt-Hoiberg.png)](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
+NCAAB
+[2026-27 College Basketball Betting: 3 Overrated & Underrated Teams](https://www.actionnetwork.com/ncaab/2026-27-college-basketball-betting-3-overrated-underrated-teams)
+Colby Marchio
+Oct 26, 2026 EST
+[![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+NCAAB
+[College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+Joshua Nunn
+Oct 28, 2026 EST
+[![College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://images.actionnetwork.com/blog/2026/10/Robert-Hinton.png)](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+NCAAB
+[College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+Sean Paul
+Oct 27, 2026 EST
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=1958e03e-4fab-4427-80a0-c3c8a193cb3f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c278b01-06a1-4dd1-8da7-d76b428ed140&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=1958e03e-4fab-4427-80a0-c3c8a193cb3f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c278b01-06a1-4dd1-8da7-d76b428ed140&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=8b8a0920-3af4-492f-ba32-e55f25d6ab6b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c278b01-06a1-4dd1-8da7-d76b428ed140&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7653&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=8b8a0920-3af4-492f-ba32-e55f25d6ab6b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4c278b01-06a1-4dd1-8da7-d76b428ed140&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-cal-golden-bears-prediction-pick-odds-college-basketball-wednesday-november-11&tw_engaged_ms=7653&tw_iframe_status=0&tw_pid_src=2&tw_session_count=78&tw_session_id=1794434466274-668571537&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
