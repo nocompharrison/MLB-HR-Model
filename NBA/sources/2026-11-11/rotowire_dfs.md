@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164 | fetched: 2026-11-11 18:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164 | fetched: 2026-11-11 18:34 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 11
 Get the best NBA bets today, with expert picks on Payton Pritchard, Anthony Davis, the San Antonio Spurs plus odds from top sportsbooks for the Wednesday, Nov. 11 NBA slate.
@@ -50,6 +50,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
+Deemed out for Sunday's game
+NFL
+New England Patriots
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
+Limited practice session Wednesday
+NFL
+New England Patriots
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Patrick Mahomes](https://www.rotowire.com/football/player/patrick-mahomes-11839)
 Practices fully Wednesday
@@ -60,21 +70,11 @@ Kansas City Chiefs
 Limited at Wednesday's practice
 NFL
 Dallas Cowboys
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Returns to practice
-NFL
-New England Patriots
   * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
 [Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
 Limited by rib injury
 NFL
 Detroit Lions
-  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
-[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
-Logs 'DNP' on Wednesday
-NFL
-Jacksonville Jaguars
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -133,6 +133,16 @@ New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
+Deemed out for Sunday's game
+NFL
+New England Patriots
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
+Limited practice session Wednesday
+NFL
+New England Patriots
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Patrick Mahomes](https://www.rotowire.com/football/player/patrick-mahomes-11839)
 Practices fully Wednesday
@@ -143,21 +153,11 @@ Kansas City Chiefs
 Limited at Wednesday's practice
 NFL
 Dallas Cowboys
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Returns to practice
-NFL
-New England Patriots
   * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
 [Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
 Limited by rib injury
 NFL
 Detroit Lions
-  * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
-[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
-Logs 'DNP' on Wednesday
-NFL
-Jacksonville Jaguars
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

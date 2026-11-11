@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-11 18:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-11 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,22 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/norman-powell-injury-ruled-out-wednesday-538653)
+**G** Chicago Bulls
+Shoulder
+November 11, 2026
+Powell (shoulder) won't play in Wednesday's game against the Spurs,[Joel Lorenzi of The Athletic](https://x.com/JoelXLorenzi/status/2120658037140508694?a=M_m5c3j_Uov15KaCH10&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Devin Vassell](https://www.rotowire.com/basketball/player/devin-vassell-5113)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/devin-vassell-injury-wont-play-wednesday-538652)
+**F** San Antonio Spurs
+Groin
+November 11, 2026
+Vassell (adductor) won't play in Wednesday's game against the Bulls, [Jeff Garcia of KENS 5 San Antonio](https://x.com/JeffGSpursZone/status/2120658488623878362?a=7FBm9yX8VHrubNOEAcU&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Cleared to play Wednesday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-news-cleared-to-play-wednesday-538650)
 **G** Indiana Pacers
@@ -187,22 +203,6 @@ Krejci underwent surgery on his fractured left ankle Wednesday and will be re-ev
 Shoulder
 November 11, 2026
 Cain is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_45PM.pdf) for Wednesday's game against the Jazz due to a left shoulder contusion.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Iffy to face Utah](https://www.rotowire.com/basketball/headlines/tristan-da-silva-injury-iffy-to-face-utah-538625)
-**F** Orlando Magic
-Calf
-November 11, 2026
-Da Silva (calf) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_45PM.pdf) for Wednesday's game at Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-ruled-out-wednesday-538621)
-**C** Chicago Bulls
-Back
-November 11, 2026
-Awaka (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_15PM.pdf) for Wednesday's game against the Spurs.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
