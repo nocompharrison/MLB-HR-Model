@@ -1,51 +1,57 @@
-# CBB transcripts | 2026-11-10 | updated 2026-11-10 17:05 ET
+# CBB transcripts | 2026-11-11 | updated 2026-11-11 11:22 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 15 files in CBB/transcripts/2026-11-10:
-CBB/transcripts/2026-11-10/0zAEaIQiIgo_CBSCollegeBB_Tom_Izzo_previews_Michigan_State_s_HEAVYWEIGHT_BOUT_against_Duke.txt
-CBB/transcripts/2026-11-10/BocE04kwNqk_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_10th_TCE_Trims.txt
-CBB/transcripts/2026-11-10/MFmyGjc0stw_PickDawgz_NCAAB_Picks_and_Predictions_11_10_26_The_Lowdown_With_Jeremy_Conn.txt
-CBB/transcripts/2026-11-10/MWokeR7pUhk_FieldOf68_PREVIEW_Why_Illinois_and_Texas_Tech_is_the_BEST_matchup_on_Tuesday_AFT.txt
-CBB/transcripts/2026-11-10/RBQlTldaFjg_CBSCollegeBB_Early_Signing_Period_2027_Recruiting_Intel_Beckham_Black_Cayden_Daught.txt
-CBB/transcripts/2026-11-10/UIZB0jlx6z8_WagerTalk_BIG_GAME_College_Basketball_Picks_TODAY_Duke_vs_Michigan_State_Kansas.txt
-CBB/transcripts/2026-11-10/W0_J9Fu9Z5c_PickDawgz_College_Basketball_Picks_for_Today_11_10_26_Tuesday_Best_College_Baske.txt
-CBB/transcripts/2026-11-10/W1bOMRMJySU_SportsLine_College_Basketball_Picks_NBA_Bets_College_Football_Early_Edge.txt
-CBB/transcripts/2026-11-10/dLoMw2GpaPY_TCE_College_Basketball_Best_Bets_For_November_10th_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-10/fioWhMrBUY8_WagerTalk_College_Basketball_Picks_Today_TUESDAY_Best_Bets_CBB_Odds_Full_Court_P.txt
-CBB/transcripts/2026-11-10/hlYJ20DrKJA_FieldOf68_WCC_INSIDER_San_Diego_s_Dusty_Stromer_on_his_buzzer_beater_to_force_OT.txt
-CBB/transcripts/2026-11-10/iOG6sheOXqw_FieldOf68_PREVIEW_Who_has_the_EDGE_between_Kentucky_and_Kansas_in_the_Champions.txt
-CBB/transcripts/2026-11-10/psTAtu6I1a0_TCE_College_Basketball_Picks_For_November_10th_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-10/toOQrfjolNE_FieldOf68_PREVIEW_What_does_Michigan_State_have_to_do_to_beat_Duke_in_the_Champi.txt
-CBB/transcripts/2026-11-10/uUJne3T3TOQ_LockedOnCBB_Champions_Classic_PREVIEW_The_FAVORITES_Will_Prevail_Duke_vs_Michigan.txt
+# 14 files in CBB/transcripts/2026-11-11:
+CBB/transcripts/2026-11-11/6UCTXKDf70E_WagerTalk_NCAAB_BEST_Bets_TODAY_Jacksonville_State_vs_Houston_Cal_vs_USC_Wednesd.txt
+CBB/transcripts/2026-11-11/B5Lh5gxboCY_PickDawgz_BOISE_ST_VS_OAKLAND_11_11_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PR.txt
+CBB/transcripts/2026-11-11/EGFfFfCma14_WagerTalk_College_Basketball_Picks_TODAY_Marquette_vs_Michigan_USC_vs_Cal_Wednes.txt
+CBB/transcripts/2026-11-11/K3nnXPz6vmY_ActionNetwork_Midweek_MACtion_College_Basketball_Best_Bets_Big_Bets_On_Campus_LIVE.txt
+CBB/transcripts/2026-11-11/NbTkIo5Tc68_TCE_College_Basketball_Best_Bets_For_November_11th_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-11/PLc68C6dFfY_TCE_College_Basketball_Picks_For_November_11th_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-11/UyaLC47gq8I_PickDawgz_College_Basketball_Picks_for_Today_11_11_26_Wednesday_Best_College_Bas.txt
+CBB/transcripts/2026-11-11/_dkvKIbhEBQ_LockedOnCBB_CONTENDER_Michigan_State_CRUSHES_Duke_in_Champions_Classic_Tom_Izzo_s.txt
+CBB/transcripts/2026-11-11/anf-IcxyTW0_CBSCollegeBB_Michigan_St_goes_WIRE_TO_WIRE_vs_Duke_Texas_Tech_does_it_to_Illinois_K.txt
+CBB/transcripts/2026-11-11/mswhjhpYi6c_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_11th_TCE_Trims.txt
+CBB/transcripts/2026-11-11/pfNQzmIf_go_FieldOf68_Should_we_ALREADY_be_PANICKING_with_Kentucky_This_could_be_Mark_Pope_s.txt
+CBB/transcripts/2026-11-11/rIeMWtav2T0_FieldOf68_Texas_Tech_knocks_off_Illinois_Why_these_are_BOTH_clear_top_10_teams_A.txt
+CBB/transcripts/2026-11-11/sgrAtX-NbuA_PickDawgz_College_Basketball_Picks_Predictions_Today_11_11_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-11/uivyQnd_29g_FieldOf68_Here_s_why_Duke_is_still_a_LOCK_Final_Four_team_Is_Kansas_a_close_sec.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-10
 
 # this run:
-NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-10/RBQlTldaFjg_CBSCollegeBB_Early_Signing_Period_2027_Recruiting_Intel_Beckham_Black_Cayden_Daught.txt  (8,414 words)
-DEFER   FieldOf68 pUnHis1v2Kg Are the California teams two of the Big Ten's BEST?? | 'USC   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-11/_dkvKIbhEBQ_LockedOnCBB_CONTENDER_Michigan_State_CRUSHES_Duke_in_Champions_Classic_Tom_Izzo_s.txt  (6,212 words)
+NEW     CBB/transcripts/2026-11-11/anf-IcxyTW0_CBSCollegeBB_Michigan_St_goes_WIRE_TO_WIRE_vs_Duke_Texas_Tech_does_it_to_Illinois_K.txt  (10,690 words, via Groq)
+DEFER   FieldOf68 AhRRnCBQt1Y WHAT JUST HAPPENED TO DUKE?? | 'This team is so TALENTED but  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 iCbM4ya4f2U Kansas DISMANTLES Kentucky | 'The Jayhawks are a REAL conten  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 smmEWz5Hsz4 EXCLUSIVE: Bill Self on Kansas' HUGE win over Kentucky: 'Thi  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 SMi3bT57Fxo Michigan State DOMINATES Duke! | 'Sparty just proved they're  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 IUM5ys-NWnw LIVE FROM CHAMPIONS CLASSIC! Kansas ROUTS Kentucky and Michi  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 n8fZeNaIy40 EXCLUSIVE: Jeremy Fears Jr and Jordan Scott on Michigan Stat  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 -FIyhpg8UXs EXCLUSIVE: Tom Izzo on Michigan State's HUGE win over Duke:   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 i4ItIxxJPS0 Purdue FINALLY gets their first win! | 'But is this a tourna  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 1lgLDC-6AUc Hoosiers SURVIVE Syracuse in Indy! | 'What is Indiana's CEIL  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 uZofKZkwL0o PREVIEW: Can Memphis keep it rolling with a BIG upset at Van  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 ES1fGWdrRLQ Indiana SURVIVES in Indy over Syracuse! Plus, OVERREACTION M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 E_CslRjWmWc EXCLUSIVE: Darian DeVries and Darren Harris on Indiana's win  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 a3asBcEYCkc Virginia PROVED themselves an ACC title threat | Is this tea  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 opCVZbGhM6E Obinna Ekezie Jr is a BREAKOUT STAR!! | Louisville's ceiling  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 KLec68Wb2-E Memphis pulls out ANOTHER impressive win! | 'Penny has this   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 r61yv14UhY0 Arkansas gets EMBARRASSED by Virginia! | 'Cal has a LOT of t  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 GOzjeIrNRSE Virginia makes a STATEMENT in win over Arkansas! | 'This is   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 vq03C-VYJNI Virginia DOMINATES Arkansas in DC! Plus, Week One progress r  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-10/hlYJ20DrKJA_FieldOf68_WCC_INSIDER_San_Diego_s_Dusty_Stromer_on_his_buzzer_beater_to_force_OT.txt  (4,040 words)
-UPCOMING FieldOf68 IUM5ys-NWnw LIVE FROM CHAMPIONS CLASSIC! Plus, Illinois-Texas Tech, Memp  (not aired yet - scheduled for 11/11/26 12:00AM)
-NEW     CBB/transcripts/2026-11-10/toOQrfjolNE_FieldOf68_PREVIEW_What_does_Michigan_State_have_to_do_to_beat_Duke_in_the_Champi.txt  (1,213 words)
+DEFER   FieldOf68 ES1fGWdrRLQ Indiana SURVIVES in Indy over Syracuse! Plus, OVERREACTION M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-11/rIeMWtav2T0_FieldOf68_Texas_Tech_knocks_off_Illinois_Why_these_are_BOTH_clear_top_10_teams_A.txt  (1,469 words)
+NEW     CBB/transcripts/2026-11-11/uivyQnd_29g_FieldOf68_Here_s_why_Duke_is_still_a_LOCK_Final_Four_team_Is_Kansas_a_close_sec.txt  (993 words)
+NEW     CBB/transcripts/2026-11-11/pfNQzmIf_go_FieldOf68_Should_we_ALREADY_be_PANICKING_with_Kentucky_This_could_be_Mark_Pope_s.txt  (1,537 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-11/NbTkIo5Tc68_TCE_College_Basketball_Best_Bets_For_November_11th_Spread_Moneyline_Bettin.txt  (573 words)
+NEW     CBB/transcripts/2026-11-11/mswhjhpYi6c_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_11th_TCE_Trims.txt  (8,708 words)
+NEW     CBB/transcripts/2026-11-11/PLc68C6dFfY_TCE_College_Basketball_Picks_For_November_11th_NCAA_Basketball_Banter_Best.txt  (13,160 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
-NOCAPS  ActionNetwork K3nnXPz6vmY Midweek MACtion & College Basketball Best Bets! | Big Bets O  (no captions; Groq: still live - audio not final yet)
-UPCOMING WagerTalk A1FTSgwq0qw College Basketball Picks Today: Tuesday's Best Bets & CBB Od  (not aired yet - scheduled for 11/11/26 10:00AM)
-UPCOMING WagerTalk vR5V0e09uF0 College Basketball Picks Today: Tuesday's Best Bets & CBB Od  (not aired yet - scheduled for 11/11/26 10:00AM)
-NEW     CBB/transcripts/2026-11-10/fioWhMrBUY8_WagerTalk_College_Basketball_Picks_Today_TUESDAY_Best_Bets_CBB_Odds_Full_Court_P.txt  (11,512 words)
-NOCAPS  WagerTalk 1JsbdqS4bzk College Basketball Picks Today: TUESDAY Best Bets & CBB Odds  (no captions; Groq: live stream still processing - audio not final yet)
-UPCOMING SportsLine tYQF2wxHvy0 NBA Bets + NHL Picks + College Basketball Bets | Early Edge  (not aired yet - scheduled for 11/11/26 10:00AM)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-11/K3nnXPz6vmY_ActionNetwork_Midweek_MACtion_College_Basketball_Best_Bets_Big_Bets_On_Campus_LIVE.txt  (9,506 words)
+NEW     CBB/transcripts/2026-11-11/6UCTXKDf70E_WagerTalk_NCAAB_BEST_Bets_TODAY_Jacksonville_State_vs_Houston_Cal_vs_USC_Wednesd.txt  (1,334 words)
+NEW     CBB/transcripts/2026-11-11/EGFfFfCma14_WagerTalk_College_Basketball_Picks_TODAY_Marquette_vs_Michigan_USC_vs_Cal_Wednes.txt  (1,622 words)
+NEW     CBB/transcripts/2026-11-10/1JsbdqS4bzk_WagerTalk_College_Basketball_Picks_Today_TUESDAY_Best_Bets_CBB_Odds_Full_Court_P.txt  (11,532 words)
+NOCAPS  WagerTalk A1FTSgwq0qw College Basketball Picks Today: Wednesday's Best Bets & CBB   (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  WagerTalk vR5V0e09uF0 College Basketball Picks Today: Tuesday's Best Bets & CBB Od  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  SportsLine tYQF2wxHvy0 NBA Bets + NHL Picks + College Basketball Bets | Early Edge  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-11/B5Lh5gxboCY_PickDawgz_BOISE_ST_VS_OAKLAND_11_11_26_NCAAB_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PR.txt  (683 words)
+NEW     CBB/transcripts/2026-11-11/UyaLC47gq8I_PickDawgz_College_Basketball_Picks_for_Today_11_11_26_Wednesday_Best_College_Bas.txt  (5,472 words)
+NEW     CBB/transcripts/2026-11-11/sgrAtX-NbuA_PickDawgz_College_Basketball_Picks_Predictions_Today_11_11_26_Ron_s_Bank_Shot_Br.txt  (1,858 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -53,5 +59,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
