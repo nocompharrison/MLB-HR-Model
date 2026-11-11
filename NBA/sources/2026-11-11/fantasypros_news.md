@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-11 18:34 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-11 18:49 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Devin Vassell](https://images.fantasypros.com/images/players/nba/5135/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-vassell.php)
+G - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/devin-vassell.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/devin-vassell.php)  
+[» More News](https://www.fantasypros.com/nba/news/devin-vassell.php)
+[Devin Vassell (groin) ruled out Wednesday ](https://www.fantasypros.com/nba/news/619365/devin-vassell-groin-ruled-out-wednesday.php)  
+
+Wed, Nov 11th 6:34pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Devin Vassell has been ruled out for Wednesday’s game against the Bulls. 
+**_Fantasy Impact:_** Vassell will be sidelined after being listed as questionable. Julian Champagnie should see another spot start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Norman Powell](https://images.fantasypros.com/images/players/nba/3073/headshot/100x100.png)](https://www.fantasypros.com/nba/players/norman-powell.php)
+G - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/norman-powell.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/norman-powell.php)  
+[» More News](https://www.fantasypros.com/nba/news/norman-powell.php)
+[Norman Powell (back) ruled out Wednesday ](https://www.fantasypros.com/nba/news/619364/norman-powell-back-ruled-out-wednesday.php)  
+
+Wed, Nov 11th 6:33pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Norman Powell has been ruled out for Wednesday’s game against the Spurs. 
+**_Fantasy Impact:_** Powell will be sidelined after being listed as questionable. Isaac Okoro should see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Kawhi Leonard](https://images.fantasypros.com/images/players/nba/2435/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kawhi-leonard.php)
 F - TOR
 [» Rankings](https://www.fantasypros.com/nba/players/kawhi-leonard.php)  
@@ -256,34 +284,6 @@ Wed, Nov 11th 4:49pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Chris Youngblood has been ruled out for Wednesday’s game against the Trail Blazers. 
 **_Fantasy Impact:_** Youngblood made an early exit from Tuesday’s game. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tristan da Silva](https://images.fantasypros.com/images/players/nba/6156/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tristan-da-silva.php)
-F - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/tristan-da-silva.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/tristan-da-silva.php)  
-[» More News](https://www.fantasypros.com/nba/news/tristan-da-silva.php)
-[Tristan da Silva (calf) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/619311/tristan-da-silva-calf-listed-questionable-wednesday.php)  
-
-Wed, Nov 11th 3:54pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Tristan da Silva is listed as questionable for Wednesday’s game against the Jazz. 
-**_Fantasy Impact:_** da Silva did not play in Tuesday’s game. His status remains up in the air for the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamal Cain](https://images.fantasypros.com/images/players/nba/5626/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamal-cain.php)
-F - ORL
-[» Rankings](https://www.fantasypros.com/nba/players/jamal-cain.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jamal-cain.php)  
-[» More News](https://www.fantasypros.com/nba/news/jamal-cain.php)
-[Jamal Cain (shoulder) listed questionable Wednesday ](https://www.fantasypros.com/nba/news/619310/jamal-cain-shoulder-listed-questionable-wednesday.php)  
-
-Wed, Nov 11th 3:53pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jamal Cain is listed as questionable for Wednesday’s game against the Jazz. 
-**_Fantasy Impact:_** Cain could be in line to see another spot start if he is cleared to play. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

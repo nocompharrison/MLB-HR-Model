@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164 | fetched: 2026-11-11 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164 | fetched: 2026-11-11 18:49 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 11
 Get the best NBA bets today, with expert picks on Payton Pritchard, Anthony Davis, the San Antonio Spurs plus odds from top sportsbooks for the Wednesday, Nov. 11 NBA slate.
@@ -110,26 +110,26 @@ MLB
 Will miss at least one month
 NBA
 Utah Jazz
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)
+Back in starting lineup
+NBA
+Indiana Pacers
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)
+Ruled out Wednesday
+NBA
+Chicago Bulls
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Devin Vassell](https://www.rotowire.com/basketball/player/devin-vassell-5113)
+Won't play Wednesday
+NBA
+San Antonio Spurs
   * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Kawhi Leonard](https://www.rotowire.com/basketball/player/kawhi-leonard-3195)
 Progresses to individual on-court work
 NBA
 Toronto Raptors
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
-Good to go Wednesday
-NBA
-New York Knicks
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)
-To miss at least 10 more days
-NBA
-Indiana Pacers
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
-Will play Wednesday
-NBA
-New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -166,6 +166,16 @@ Detroit Lions
 Returning to action Wednesday
 NHL
 Anaheim Ducks
+  * ![Buffalo Sabres](https://assets.rotowire.com/images/teamlogo/hockey/100BUF.png?v=5)
+[Ukko-Pekka Luukkonen](https://www.rotowire.com/hockey/player/ukko-pekka-luukkonen-5516)
+Tending twine versus Lightning
+NHL
+Buffalo Sabres
+  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
+[Andrei Vasilevskiy](https://www.rotowire.com/hockey/player/andrei-vasilevskiy-3989)
+In goal Wednesday
+NHL
+Tampa Bay Lightning
   * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
 [Drew Doughty](https://www.rotowire.com/hockey/player/drew-doughty-2991)
 Absent from practice Wednesday
@@ -176,16 +186,6 @@ Los Angeles Kings
 Off injured reserve
 NHL
 Philadelphia Flyers
-  * ![Pittsburgh Penguins](https://assets.rotowire.com/images/teamlogo/hockey/100PIT.png?v=5)
-[Sergei Murashov](https://www.rotowire.com/hockey/player/sergei-murashov-7267)
-Starting Wednesday's matchup
-NHL
-Pittsburgh Penguins
-  * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
-[Carter Hart](https://www.rotowire.com/hockey/player/carter-hart-5156)
-First goalie off Wednesday
-NHL
-Vegas Golden Knights
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

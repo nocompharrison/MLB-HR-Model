@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-11 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-11 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,48 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Baylor Scheierman](https://www.rotowire.com/basketball/player/baylor-scheierman-6280)[Starting sans George](https://www.rotowire.com/basketball/headlines/baylor-scheierman-news-starting-sans-george-538660)
+**F** Boston Celtics
+November 11, 2026
+Scheierman will start Wednesday's game against Toronto, [Sean Grande of NBC Sports Boston](https://x.com/SeanGrandePBP/status/2120661465657184288?a=6T8e2OMWESlaB2IqWSQ&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Luka Garza](https://www.rotowire.com/basketball/player/luka-garza-5423)[Starting versus Raptors](https://www.rotowire.com/basketball/headlines/luka-garza-news-starting-versus-raptors-538658)
+**C** Boston Celtics
+November 11, 2026
+Garza will start in Wednesday's game against Toronto, [Sean Grande of NBC Sports Boston](https://x.com/SeanGrandePBP/status/2120661465657184288?a=2S0rbZZv_LBVF-PXyNY&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Kyle Anderson](https://www.rotowire.com/basketball/player/kyle-anderson-3586)[Reverting to bench role](https://www.rotowire.com/basketball/headlines/kyle-anderson-news-reverting-to-bench-role-538657)
+**F** Toronto Raptors
+November 11, 2026
+Anderson won't start Wednesday's game versus Boston, [Sean Grande of NBC Sports Boston](https://x.com/SeanGrandePBP/status/2120661465657184288?a=6T8e2OMWESlaB2IqWSQ&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Kelly Oubre](https://www.rotowire.com/basketball/player/kelly-oubre-3721)[Back in starting lineup](https://www.rotowire.com/basketball/headlines/kelly-oubre-news-back-in-starting-lineup-538656)
+**F** Indiana Pacers
+November 11, 2026
+Oubre is in the starting lineup for Wednesday's game against the Wizards, [Dustin Dopirak of The Indianapolis Star](https://x.com/DustinDopirak/status/2120661828023800194?a=Zul0oHkAKNPwX4NS0ZI&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Jamal Shead](https://www.rotowire.com/basketball/player/jamal-shead-6296)[Not starting Wednesday](https://www.rotowire.com/basketball/headlines/jamal-shead-news-not-starting-wednesday-538655)
+**G** Toronto Raptors
+November 11, 2026
+Shead won't start Wednesday's game against Boston, [Sean Grande of NBC Sports Boston](https://x.com/SeanGrandePBP/status/2120661465657184288?a=6T8e2OMWESlaB2IqWSQ&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Available against New York](https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-available-against-new-york-538654)
+**F** Cleveland Cavaliers
+November 11, 2026
+Tyson (ankle) is listed as [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_06_30PM.pdf) for Wednesday's game versus the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/norman-powell-injury-ruled-out-wednesday-538653)
 **G** Chicago Bulls
@@ -155,54 +197,6 @@ James (back) is questionable for Thursday's game against the Raptors, [Kyle Neub
 Calf
 November 11, 2026
 Traore (calf) has been ruled out for Wednesday's game against the Pelicans, [Ian Begley of SportsNet New York](https://x.com/IanBegley/status/2120635856486912330?a=NZwwnqgE1NInNDqAt-I&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Remains out indefinitely](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-remains-out-indefinitely-538633)
-**C** Oklahoma City Thunder
-Back
-November 11, 2026
-Williams (back) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_04_15PM.pdf) for Wednesday's game against Portland and remains out indefinitely.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Ajay Mitchell](https://www.rotowire.com/basketball/player/ajay-mitchell-6289)[Dealing with left ankle sprain](https://www.rotowire.com/basketball/headlines/ajay-mitchell-injury-dealing-with-left-ankle-sprain-538632)
-**G** Oklahoma City Thunder
-Ankle
-November 11, 2026
-Mitchell has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_04_15PM.pdf) for Wednesday's game against the Trail Blazers due to a left ankle sprain.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Chris Youngblood](https://www.rotowire.com/basketball/player/chris-youngblood-6663)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-wont-play-wednesday-538631)
-**G** Portland Trail Blazers
-Foot
-November 11, 2026
-Youngblood has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_04_00PM.pdf) for Wednesday's game against the Thunder due to a right foot bruise.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899)[Questionable to play Wednesday](https://www.rotowire.com/basketball/headlines/keyonte-george-injury-questionable-to-play-wednesday-538630)
-**G** Utah Jazz
-Ankle
-November 11, 2026
-George (ankle) is [questionable](https://x.com/utahjazz/status/2120607281427742765?a=TkVv-t2MzZtQ2EMr1ag&s=20) for Wednesday's game against Orlando.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Vit Krejci](https://www.rotowire.com/basketball/player/vit-krejci-5233)[To be re-evaluated in eight weeks](https://www.rotowire.com/basketball/headlines/vit-krejci-injury-to-be-re-evaluated-in-eight-weeks-538628)
-**G** Portland Trail Blazers
-Ankle
-November 11, 2026
-Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2120604867618025874?a=2DmbeLY7oIO0u5KQ94M&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jamal Cain](https://www.rotowire.com/basketball/player/jamal-cain-5796)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/jamal-cain-injury-iffy-for-wednesday-538626)
-**F** Orlando Magic
-Shoulder
-November 11, 2026
-Cain is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_45PM.pdf) for Wednesday's game against the Jazz due to a left shoulder contusion.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
