@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-wednesday-november-11 | fetched: 2026-11-11 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-wednesday-november-11 | fetched: 2026-11-11 18:04 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -234,62 +234,62 @@ Thunder vs. Trail Blazers
 Right Arrow
 Toumani Camara Over 2.5 Three-Pointers Made
 ### Top Stories
-[![NBA Best Bets for Pacers vs Wizards, Knicks vs Cavaliers, More \(Wednesday, November 11\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111126.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-wizards-knicks-vs-cavaliers-more-wednesday-november-11)
+[![NBA Best Bets for Knicks vs Cavaliers, Pacers vs Wizards, More \(Wednesday, Nov. 11\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111126.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-wizards-knicks-vs-cavaliers-more-wednesday-november-11)
 NBA
-[NBA Best Bets for Pacers vs Wizards, Knicks vs Cavaliers, More (Wednesday, November 11)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-wizards-knicks-vs-cavaliers-more-wednesday-november-11)
+[NBA Best Bets for Knicks vs Cavaliers, Pacers vs Wizards, More (Wednesday, Nov. 11)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-wizards-knicks-vs-cavaliers-more-wednesday-november-11)
 Action Network Staff
-4 hours ago
+43 mins ago
 [![NBA Parlay Picks, SGP Predictions for Pelicans vs Nets, Rockets vs Warriors \(Wednesday, November 11\)](https://images.actionnetwork.com/blog/2026/11/nba-parlay-picks-sgp-predictions-for-wednesday-november-11.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-pelicans-vs-nets-rockets-vs-warriors-wednesday-november-11)
 NBA
 [NBA Parlay Picks, SGP Predictions for Pelicans vs Nets, Rockets vs Warriors (Wednesday, November 11)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-pelicans-vs-nets-rockets-vs-warriors-wednesday-november-11)
 Alex Hinton
+2 hours ago
+[![NBA Prop Ladders, Escalator Picks for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/NBA-Prop-Ladders-11.11.26.jpg)](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-wednesday-november-11)
+NBA
+[NBA Prop Ladders, Escalator Picks for Wednesday, November 11](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-wednesday-november-11)
+Ameer Tyree
 1 hour ago
 [![NBA Player Props for AJ Dybantsa, Jerami Grant on Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/ajdyb-1.jpg)](https://www.actionnetwork.com/nba/nba-player-props-jerami-grant-aj-dybantsa-more-wednesday-november-11)
 NBA
 [NBA Player Props for AJ Dybantsa, Jerami Grant on Wednesday, November 11](https://www.actionnetwork.com/nba/nba-player-props-jerami-grant-aj-dybantsa-more-wednesday-november-11)
 Action Network Staff
-2 hours ago
+4 hours ago
 [![NBA Moneyline Parlay: Our +320 Bet for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/NBAMLPicks-11112026.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-wednesday-november-11)
 NBA
 [NBA Moneyline Parlay: Our +320 Bet for Wednesday, November 11](https://www.actionnetwork.com/nba/nba-moneyline-parlay-2-predictions-for-wednesday-november-11)
 Ryan Minion
-4 hours ago
-[![Cavaliers vs Knicks Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/Cavaliers-Knicks-11112026.jpg)](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-odds-wednesday-november-11)
-NBA
-[Cavaliers vs Knicks Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-odds-wednesday-november-11)
-Bryan Fonseca
 6 hours ago
-[![Wizards vs Pacers Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/Wizards-Pacers-11112026.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-11)
+[![Cavaliers vs Knicks Predictions, Odds, Picks: New York Owns This Matchup](https://images.actionnetwork.com/blog/2026/11/Cavaliers-Knicks-11112026.jpg)](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-odds-wednesday-november-11)
 NBA
-[Wizards vs Pacers Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/washington-wizards-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-11)
+[Cavaliers vs Knicks Predictions, Odds, Picks: New York Owns This Matchup](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-odds-wednesday-november-11)
+Bryan Fonseca
+26 mins ago
+[![Wizards vs Pacers Predictions, Odds, Picks: Wrong Team Favored?](https://images.actionnetwork.com/blog/2026/11/Wizards-Pacers-11112026.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-11)
+NBA
+[Wizards vs Pacers Predictions, Odds, Picks: Wrong Team Favored?](https://www.actionnetwork.com/nba/washington-wizards-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-11)
 Matt Moore
-6 hours ago
-[![Nuggets vs Grizzlies Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/Nuggets-Grizzlies-11112026.jpg)](https://www.actionnetwork.com/nba/denver-nuggets-vs-memphis-grizzlies-prediction-pick-nba-odds-for-wednesday-november-11)
+17 mins ago
+[![Nuggets vs Grizzlies Predictions, Odds, Picks: Back Jamal Murray to Stay Hot Tonight](https://images.actionnetwork.com/blog/2026/11/Nuggets-Grizzlies-11112026.jpg)](https://www.actionnetwork.com/nba/denver-nuggets-vs-memphis-grizzlies-prediction-pick-nba-odds-for-wednesday-november-11)
 NBA
-[Nuggets vs Grizzlies Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/denver-nuggets-vs-memphis-grizzlies-prediction-pick-nba-odds-for-wednesday-november-11)
+[Nuggets vs Grizzlies Predictions, Odds, Picks: Back Jamal Murray to Stay Hot Tonight](https://www.actionnetwork.com/nba/denver-nuggets-vs-memphis-grizzlies-prediction-pick-nba-odds-for-wednesday-november-11)
 Bryan Fonseca
-6 hours ago
+37 mins ago
 [![Lakers vs Bucks Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/thybulle.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-milwaukee-bucks-prediction-pick-nba-odds-wednesday-november-11)
 NBA
 [Lakers vs Bucks Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-milwaukee-bucks-prediction-pick-nba-odds-wednesday-november-11)
 Matt Moore
-6 hours ago
+8 hours ago
 [![Warriors vs Rockets Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/Warriors-Rockets-11112026.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-houston-rockets-prediction-pick-nba-odds-for-wednesday-november-11)
 NBA
 [Warriors vs Rockets Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/golden-state-warriors-vs-houston-rockets-prediction-pick-nba-odds-for-wednesday-november-11)
 Matt Moore
-5 hours ago
-[![Spurs vs Bulls Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/wembanyama_victor_111126.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-chicago-bulls-prediction-pick-nba-odds-wednesday-november-11)
+7 hours ago
+[![Spurs vs Bulls Predictions, Odds, Picks: Chicago Has No Answer for Victor Wembanyama](https://images.actionnetwork.com/blog/2026/11/wembanyama_victor_111126.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-chicago-bulls-prediction-pick-nba-odds-wednesday-november-11)
 NBA
-[Spurs vs Bulls Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-chicago-bulls-prediction-pick-nba-odds-wednesday-november-11)
+[Spurs vs Bulls Predictions, Odds, Picks: Chicago Has No Answer for Victor Wembanyama](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-chicago-bulls-prediction-pick-nba-odds-wednesday-november-11)
 Joe Dellera
-6 hours ago
-[![Nets vs Pelicans Prediction, Pick, NBA Odds for Wednesday, November 11](https://images.actionnetwork.com/blog/2026/11/Nets-Pelicans-11112026.jpg)](https://www.actionnetwork.com/nba/brooklyn-nets-vs-new-orleans-pelicans-prediction-pick-nba-odds-for-wednesday-november-11)
-NBA
-[Nets vs Pelicans Prediction, Pick, NBA Odds for Wednesday, November 11](https://www.actionnetwork.com/nba/brooklyn-nets-vs-new-orleans-pelicans-prediction-pick-nba-odds-for-wednesday-november-11)
-Matt Moore
-5 hours ago
+1 hour ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=5ded4c38-92ed-4e8f-aa41-b6b4a7417c87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2fe0c50-7dcf-4819-b448-5795c88b9d85&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=77&tw_session_id=1794431005097-914709584&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=5ded4c38-92ed-4e8f-aa41-b6b4a7417c87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2fe0c50-7dcf-4819-b448-5795c88b9d85&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=77&tw_session_id=1794431005097-914709584&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=4af6add7-9c76-4fed-bf65-a0472d2bc707&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2fe0c50-7dcf-4819-b448-5795c88b9d85&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=7400&tw_iframe_status=0&tw_pid_src=2&tw_session_count=77&tw_session_id=1794431005097-914709584&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=4af6add7-9c76-4fed-bf65-a0472d2bc707&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2fe0c50-7dcf-4819-b448-5795c88b9d85&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=7400&tw_iframe_status=0&tw_pid_src=2&tw_session_count=77&tw_session_id=1794431005097-914709584&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=524ebbf8-5969-4f2d-a801-4b59c081687e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4062dd46-67ad-4328-8350-78f1f134d50f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=79&tw_session_id=1794438185825-344632258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=524ebbf8-5969-4f2d-a801-4b59c081687e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4062dd46-67ad-4328-8350-78f1f134d50f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=79&tw_session_id=1794438185825-344632258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=98e96497-facb-4130-baec-603d3f869821&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4062dd46-67ad-4328-8350-78f1f134d50f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=7466&tw_iframe_status=0&tw_pid_src=2&tw_session_count=79&tw_session_id=1794438185825-344632258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=98e96497-facb-4130-baec-603d3f869821&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4062dd46-67ad-4328-8350-78f1f134d50f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-wednesday-november-11&tw_engaged_ms=7466&tw_iframe_status=0&tw_pid_src=2&tw_session_count=79&tw_session_id=1794438185825-344632258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

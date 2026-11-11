@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-11 16:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-11 18:04 ET -->
 
 
 ---
@@ -358,11 +358,11 @@ Let’s dive into a trio of player props that catch our eye for Tuesday’s six-
 
 ![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Karl-Anthony Towns
 
-[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)
+[![Image 32: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)
 
-[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/underdog_sc)
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)
 
-[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)
 
 [![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/karl_anthony_towns/player_11748 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -378,9 +378,9 @@ Towns is putting up a solid 18.1 field-goal + free-throw attempts per game as we
 
 ![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10221.png)Darryn Peterson
 
-[![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[O/U Points Scored (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)
+[![Image 37: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[O/U Points Scored (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/underdog_sc)
 
-[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)[O/U Total Rebounds (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/kalshi_sc)
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[O/U Total Rebounds (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)
 
 [![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[O/U Total Assists (vs. ORL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661048/underdog_sc)
 
@@ -400,7 +400,7 @@ Finally, it’s worth noting the Heat has allowed an Eastern Conference-high 29.
 
 ![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10213.png)Wendell Carter Jr.
 
-[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/polymarket_sc)
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/kalshi_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/kalshi_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661048/kalshi_sc)
 
 [![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)[8.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661048/polymarket_sc)
 
@@ -993,18 +993,6 @@ Let’s dive into a trio of player props that catch our eye for Monday’s eight
 
 ### **Ty Jerome (Grizzlies vs. Raptors) Over Points + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Ty Jerome
-
-[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661045/polymarket_sc)[O/U Points Scored (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661045/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661045/polymarket_sc)
-
-[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)[O/U Total Rebounds (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661045/polymarket_sc)
-
-[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)[O/U Total Assists (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661045/polymarket_sc)
-
-[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ty_jerome/player_132853 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Jerome has spearheaded Memphis’ aforementioned surprisingly strong start, as the veteran point guard has been putting up career-best numbers across the board. Jerome is averaging 31.9 points + assists per contest, while also shooting a blistering 50.3% overall. Jerome has had a couple of modest performances, but he’s eclipsed 20 points in six of eight contests while putting up 24.8 field-goal + free-throw attempts per contest overall.
 
 Jerome is 4-4 to the Over on the 27.5 so far this season, but with two days of rest and a matchup that’s projected to yield a wire-to-wire (3.5-point spread) and relatively high-scoring (230.5-point projected total) outcome, the veteran could be in line for one of his higher-percentile performances. The matchup doesn’t necessarily hurt his chances of doing so, either, as the Raptors are ranked No. 18 in offensive efficiency rating surrendered to point guards (26.7), and Toronto has also conceded the fifth-most assists per game (29.7) overall in the last three contests.
@@ -1012,18 +1000,6 @@ Jerome is 4-4 to the Over on the 27.5 so far this season, but with two days of r
 **Original Line Publish:** 27.5
 
 ### **Victor Wembanyama (Spurs vs. Suns) Over Rebounds**
-
-[](https://www.lineups.com/)
-
-![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)Victor Wembanyama
-
-[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)[O/U Points Scored (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)[29.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)
-
-[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)[O/U Total Rebounds (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)
-
-[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)[O/U Total Assists (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)
-
-[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/victor_wembanyama/player_188716 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Wembanyama is already in the thick of another MVP-caliber season, averaging 29.1 points, 12.0 rebounds, 3.0 assists, 3.9 blocks and 1.2 steals per contest across 30.3 minutes per game. The 2023 first overall pick has at least 10 rebounds in seven of 10 games as well, and Wemby is helping prop up his production on the glass by averaging a career-high 2.9 offensive rebounds per contest.
 
@@ -1034,18 +1010,6 @@ Finally, there should be plenty of opportunities for boards on the other side of
 **Original Line Publish:**10.5
 
 ### **Zion Williamson (Pelicans vs. Warriors) Over Points + Rebounds**
-
-[](https://www.lineups.com/)
-
-![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10211.png)Zion Williamson
-
-[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661047/polymarket_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661047/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661047/polymarket_sc)
-
-[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661047/polymarket_sc)
-
-[![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661047/polymarket_sc)
-
-[![Image 45](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/zion_williamson/player_132834 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Zion came into training camp in fantastic shape by all accounts, and he’s parlayed that commitment into a strong start to his seventh NBA season. Williamson is averaging 26.0 points + rebounds per contest while shooting a typically efficient 59.8%, and he’s scored at least 22 points in six of nine games. The big man’s usage remains elevated as well, as he’s averaging 19.4 field-goal + free-throw attempts per contest.
 
@@ -1083,27 +1047,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 46: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-150x150.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
+[![Image 31: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-150x150.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
 [](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 #### [](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)[2026 Austin Championship: 4 Longshots & PGA Tour Sleepers, Including Luke Clanton](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
-[![Image 47: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 32: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 48: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-150x150.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 33: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-150x150.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 #### [](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)[Thunder-Trail Blazers NBA Picks, Predictions & Odds for Tuesday, November 10, 2026](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
-[![Image 49: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-150x150.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 34: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-150x150.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 #### [](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)[Celtics-76ers NBA Picks, Predictions & Odds for Tuesday, November 10, 2026](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
-[![Image 50: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
+[![Image 35: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)[NBA Player Props Today: Karl-Anthony Towns, Darryn Peterson and Wendell Carter Jr. Best Bets](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
@@ -1114,7 +1078,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 51: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 52: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1129,7 +1093,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 53: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-390x230.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
+[![Image 38: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-390x230.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1139,7 +1103,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 10, 2026
 
-[![Image 54: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-390x230.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 39: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-390x230.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1149,7 +1113,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 55: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-390x230.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 40: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-390x230.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1159,7 +1123,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 56: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
+[![Image 41: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1169,7 +1133,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 10, 2026
 
-[![Image 57: snuggerud](https://www.lineups.com/wp-content/uploads/2026/11/snuggerud-390x230.jpg)](https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 42: snuggerud](https://www.lineups.com/wp-content/uploads/2026/11/snuggerud-390x230.jpg)](https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -1179,7 +1143,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 58: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-eriksson-ek-timo-meier-lucas-raymond-best-bets/)
+[![Image 43: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-eriksson-ek-timo-meier-lucas-raymond-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2261,11 +2225,11 @@ The Pacers are allowing the fifth-highest offensive efficiency rating to centers
 
 ![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Jalen Brunson
 
-[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)[29.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/kalshi_sc)
+[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[O/U Points Scored (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)[27.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661042/polymarket_sc)
 
-[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/kalshi_sc)
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[O/U Total Rebounds (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661042/polymarket_sc)
 
-[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/underdog_sc)
+[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[O/U Total Assists (vs. CLE)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661042/polymarket_sc)
 
 [![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jalen_brunson/player_104953 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2874,6 +2838,18 @@ Let’s dive into a trio of player props that catch our eye for Friday’s nine-
 
 ### **Daniel Gafford (Mavericks vs. Jazz) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 31](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)Daniel Gafford
+
+[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661053/underdog_sc)[O/U Points Scored (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661053/underdog_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661053/underdog_sc)
+
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661053/underdog_sc)[O/U Total Rebounds (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661053/underdog_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661053/underdog_sc)
+
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_steals/661053/underdog_sc)[O/U Total Steals (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_steals/661053/underdog_sc)[0.5](https://lineups.go.metabet.io/bet/nba_game_player_steals/661053/underdog_sc)
+
+[![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/daniel_gafford/player_132774 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Gafford is off to a solid start as a key complementary option for the 4-4 Mavericks, averaging 15.7 points + rebounds per contest but going 5-1 to the Over on the 16.5 points + rebounds prop in the last six contests. Two of the big man’s three duds this season came in exponentially tougher matchups than the one he’ll face Friday, as those came against the Rockets and Spurs.
 
 However, Friday’s matchup pits Gafford against a Jazz team that’s allowed 50.8% shooting to centers, along with 36.4 points + rebounds per game to the position. Utah is also conceding the second-most points in the paint per road game (57.3), while Gafford is scoring 79.5% percent of his points in that part of the floor.
@@ -2882,6 +2858,18 @@ However, Friday’s matchup pits Gafford against a Jazz team that’s allowed 50
 
 ### **RJ Barrett (Raptors vs. Bucks) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 36](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)RJ Barrett
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661043/kalshi_sc)[O/U Points Scored (vs. BOS)](https://lineups.go.metabet.io/bet/nba_game_player_points/661043/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661043/kalshi_sc)
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661043/kalshi_sc)[O/U Total Rebounds (vs. BOS)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661043/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661043/kalshi_sc)
+
+[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661043/polymarket_sc)[O/U Total Assists (vs. BOS)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661043/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661043/polymarket_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/rj_barrett/player_132841 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Barrett has just one game of under 20 points this season, and he’s averaging an impressive 26.9 points + rebounds while shooting 48.1% overall. However, the versatile wing has been even more impressive over his last three games, when he’s put up 23.3 points (with 40.9% three-point shooting), 7.0 rebounds and 3.7 assists across 34.0 minutes per contest. Barrett is 2-1 to the Over on the 28.5 in that span and 4-4 overall on the season, and Friday’s matchup is one that could coax one of his higher-percentile performances from him.
 
 The opposing Bucks have essentially struggled defending all positions, and they’ve allowed the ninth-highest offensive efficiency rating to small forwards (23.0). Milwaukee is also yielding a robust 43.8% success rate from long distance to the position, while Barrett is putting up his highest number of three-point attempts per game (5.5) since the 2021-22 season.
@@ -2889,6 +2877,18 @@ The opposing Bucks have essentially struggled defending all positions, and they�
 **Original Line Publish**: 28.5
 
 ### Victor Wembanyama (Spurs vs. Kings) Over Steals + Blocks
+
+[](https://www.lineups.com/)
+
+![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)Victor Wembanyama
+
+[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)[O/U Points Scored (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)[29.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661044/polymarket_sc)
+
+[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)[O/U Total Rebounds (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661044/polymarket_sc)
+
+[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)[O/U Total Assists (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661044/underdog_sc)
+
+[![Image 45](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/victor_wembanyama/player_188716 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Wembanyama is coming off a massive 52-point, 24-rebound double-double that also included eight blocks over 34 minutes against the Mavericks on Wednesday, so his combo props are naturally sky high Friday. However, considering the matchup against the Kings is one the Spurs are massive 15.5-point favorites for, we want to tread carefully with numbers that big that may be out of the big man’s reach in a game where his minutes are curtailed.
 
@@ -2924,27 +2924,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 31: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-150x150.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
+[![Image 46: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-150x150.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
 [](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 #### [](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)[2026 Austin Championship: 4 Longshots & PGA Tour Sleepers, Including Luke Clanton](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
-[![Image 32: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 47: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 33: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-150x150.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 48: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-150x150.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 #### [](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)[Thunder-Trail Blazers NBA Picks, Predictions & Odds for Tuesday, November 10, 2026](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
-[![Image 34: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-150x150.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 49: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-150x150.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 #### [](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)[Celtics-76ers NBA Picks, Predictions & Odds for Tuesday, November 10, 2026](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
-[![Image 35: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
+[![Image 50: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)[NBA Player Props Today: Karl-Anthony Towns, Darryn Peterson and Wendell Carter Jr. Best Bets](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
@@ -2955,7 +2955,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 36: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 37: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 51: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 52: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2970,7 +2970,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 38: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-390x230.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
+[![Image 53: Luke Clanton](https://www.lineups.com/wp-content/uploads/2026/11/Luke-Clanton-390x230.jpg)](https://www.lineups.com/articles/2026-austin-championship-4-longshots-pga-tour-sleepers-including-luke-clanton/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2980,7 +2980,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 10, 2026
 
-[![Image 39: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-390x230.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 54: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-390x230.jpg)](https://www.lineups.com/articles/thunder-trail-blazers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -2990,7 +2990,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 40: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-390x230.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 55: Jaylen Brown](https://www.lineups.com/wp-content/uploads/2026/11/JaylenBrown-390x230.jpg)](https://www.lineups.com/articles/celtics-76ers-nba-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3000,7 +3000,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 41: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
+[![Image 56: KAT](https://www.lineups.com/wp-content/uploads/2026/11/Karl-Anthony-Towns-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-karl-anthony-towns-darryn-peterson-and-wendell-carter-jr-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3010,7 +3010,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 10, 2026
 
-[![Image 42: snuggerud](https://www.lineups.com/wp-content/uploads/2026/11/snuggerud-390x230.jpg)](https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/)
+[![Image 57: snuggerud](https://www.lineups.com/wp-content/uploads/2026/11/snuggerud-390x230.jpg)](https://www.lineups.com/articles/red-wings-blues-nhl-picks-predictions-odds-for-tuesday-november-10-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
@@ -3020,7 +3020,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 10, 2026
 
-[![Image 43: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-eriksson-ek-timo-meier-lucas-raymond-best-bets/)
+[![Image 58: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/LucasRaymond-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-eriksson-ek-timo-meier-lucas-raymond-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News](https://www.lineups.com/articles/)
 
