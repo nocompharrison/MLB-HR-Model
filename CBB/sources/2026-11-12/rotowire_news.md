@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-12 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-12 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,86 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![California](https://assets.rotowire.com/images/teamlogo/cbasketball/California.png?v=16)
+[Nojus Indrusaitis](https://www.rotowire.com/cbasketball/player/nojus-indrusaitis-23489)
+Goes for 13 points Wednesday
+**G** California
+November 12, 2026
+Indrusaitis provided 13 points (4-14 FG, 2-9 3Pt, 3-4 FT), six rebounds, three assists and one steal in 30 minutes during Wednesday's 77-65 loss to USC.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![California](https://assets.rotowire.com/images/teamlogo/cbasketball/California.png?v=16)
+[Sammie Yeanay](https://www.rotowire.com/cbasketball/player/sammie-yeanay-24796)
+Scores 14 points in loss
+**F** California
+November 12, 2026
+Yeanay racked up 14 points (6-12 FG, 1-5 3Pt, 1-2 FT), three rebounds and two steals across 17 minutes during Wednesday's 77-65 loss to USC.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Notre Dame](https://assets.rotowire.com/images/teamlogo/cbasketball/Notre-Dame.png?v=16)
+[Brady Koehler](https://www.rotowire.com/cbasketball/player/brady-koehler-26108)
+Stuffs stat sheet Wednesday
+**F** Notre Dame
+November 12, 2026
+Koehler logged 16 points (5-8 FG, 3-5 3Pt, 3-4 FT), seven rebounds, five assists, one block and one steal across 24 minutes during Wednesday's 99-59 win over South Carolina State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Notre Dame](https://assets.rotowire.com/images/teamlogo/cbasketball/Notre-Dame.png?v=16)
+[Ethan Roberts](https://www.rotowire.com/cbasketball/player/ethan-roberts-21527)
+Explodes for 36 points in win
+**F** Notre Dame
+November 12, 2026
+Roberts produced 36 points (13-17 FG, 10-13 3Pt), seven rebounds, two assists and one steal in 23 minutes during Wednesday's 99-59 victory over South Carolina State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![St. John's](https://assets.rotowire.com/images/teamlogo/cbasketball/St-John's.png?v=16)
+[Tounde Yessoufou](https://www.rotowire.com/cbasketball/player/tounde-yessoufou-26208)
+Scores 15 in Wednesday's win
+**G** St. John's
+November 12, 2026
+Yessoufou amassed 15 points (5-10 FG, 2-5 3Pt, 3-4 FT), four rebounds and three steals across 24 minutes during Wednesday's 90-59 victory over Colgate.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![St. John's](https://assets.rotowire.com/images/teamlogo/cbasketball/St-John's.png?v=16)
+[Ian Jackson](https://www.rotowire.com/cbasketball/player/ian-jackson-23550)
+Scores 17 in win
+**G** St. John's
+November 12, 2026
+Jackson closed with 17 points (6-10 FG, 3-5 3Pt, 2-2 FT), three rebounds, one assist and one steal across 20 minutes during Wednesday's 90-59 victory over Colgate.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Marquette](https://assets.rotowire.com/images/teamlogo/cbasketball/Marquette.png?v=16)
+[Colin Porter](https://www.rotowire.com/cbasketball/player/colin-porter-21121)
+Scores 21 off bench
+**G** Marquette
+November 12, 2026
+Porter had 21 points (7-11 FG, 5-9 3Pt, 2-2 FT), two rebounds and one assist across 20 minutes before fouling out of Wednesday's 84-70 loss to Michigan.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Marquette](https://assets.rotowire.com/images/teamlogo/cbasketball/Marquette.png?v=16)
+[Adrien Stevens](https://www.rotowire.com/cbasketball/player/adrien-stevens-25837)
+Scores 16 versus Michigan
+**G** Marquette
+November 12, 2026
+Stevens accumulated 16 points (6-10 FG, 4-6 3Pt), three rebounds, three assists and one block across 32 minutes during Wednesday's 84-70 loss to Michigan.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Creighton](https://assets.rotowire.com/images/teamlogo/cbasketball/Creighton.png?v=16)
+[BJ Davis](https://www.rotowire.com/cbasketball/player/bj-davis-22568)
+Scores 25 in loss
+**G** Creighton
+November 12, 2026
+Davis provided 25 points (9-20 FG, 6-14 3Pt, 1-1 FT), three rebounds, three assists and three steals across 34 minutes during Tuesday's 89-82 loss to Kansas State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Xavier](https://assets.rotowire.com/images/teamlogo/cbasketball/Xavier.png?v=16)
+[Tru Washington](https://www.rotowire.com/cbasketball/player/tru-washington-22580)
+Scores 14 in blowout win
+**G** Xavier
+November 12, 2026
+Washington racked up 14 points (5-13 FG, 1-5 3Pt, 3-3 FT), seven rebounds, three assists and three steals in 21 minutes during Tuesday's 100-55 victory over Detroit.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Xavier](https://assets.rotowire.com/images/teamlogo/cbasketball/Xavier.png?v=16)
 [Mike Nwoko](https://www.rotowire.com/cbasketball/player/mike-nwoko-22347)
 Scores 17 Tuesday
@@ -126,94 +206,6 @@ Scores seven points in season debut
 **G** Wichita State
 November 11, 2026
 Williams (ankle) contributed seven points (3-5 FG, 1-1 3Pt), seven rebounds and one assist in 12 minutes against Friends University
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
-[Onyeka Joe Agu](https://www.rotowire.com/cbasketball/player/onyeka-joe-agu-28061)
-Ruled out Wednesday
-**C** USC
-Groin
-November 11, 2026
-Agu (groin) is out for Wednesday's game against California, Jon Rothstein of CBS Sports reports. The USC center has yet to play this season.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
-[Christian Collins](https://www.rotowire.com/cbasketball/player/christian-collins-28091)
-Not playing Wednesday
-**F** USC
-Undisclosed
-November 11, 2026
-Collins (undisclosed) is out for Wednesday's game against Cal, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2120720743969268060) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
-[Camden Heide](https://www.rotowire.com/cbasketball/player/camden-heide-20447)
-Deemed day-to-day
-**F** South Carolina
-Wrist
-November 11, 2026
-Heide (wrist) is considered day-to-day, per [David Cloninger of The Charleston Post and Courier](https://x.com/DCPandC/status/2120706470563995917).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan.png?v=16)
-[Jalen Reed](https://www.rotowire.com/cbasketball/player/jalen-reed-20578)
-Sits with knee soreness
-**F** Michigan
-Knee
-November 11, 2026
-Reed didn't play Wednesday against Marquette due to knee soreness stemming from Tuesday's practice, [Anthony Broome of On3.com](https://x.com/anthonytbroome/status/2120707711751074179) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UCLA](https://assets.rotowire.com/images/teamlogo/cbasketball/UCLA.png?v=16)
-[Filip Jovic](https://www.rotowire.com/cbasketball/player/filip-jovic-26019)
-Ruled out Wednesdday
-**C** UCLA
-Ankle
-November 11, 2026
-Jovic (ankle) is out for Wednesday's game against Arkansas-Pine Bluff, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2120692852707729443) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UCLA](https://assets.rotowire.com/images/teamlogo/cbasketball/UCLA.png?v=16)
-[Xavier Booker](https://www.rotowire.com/cbasketball/player/xavier-booker-22499)
-Remains out Wednesday
-**C** UCLA
-Concussion
-November 11, 2026
-Booker (concussion) is unavailable for Wednesday's contest against Arkansas-Pine Bluff, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2120692852707729443).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![San Diego State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Diego-State.png?v=16)
-[Elzie Harrington](https://www.rotowire.com/cbasketball/player/elzie-harrington-25833)
-Scores 18, deals eight assists
-**G** San Diego State
-November 11, 2026
-Harrington finished with 18 points (7-11 FG, 2-2 3Pt, 2-3 FT), two rebounds and eight assists without a turnover over 33 minutes during Wednesday's 88-75 victory over Bethune-Cookman.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![San Diego State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Diego-State.png?v=16)
-[Latrell Davis](https://www.rotowire.com/cbasketball/player/latrell-davis-22984)
-Pours in 26 points
-**G** San Diego State
-November 11, 2026
-Davis closed Wednesday's 88-75 victory over Bethune-Cookman with 26 points (11-15 FG, 2-5 3Pt, 2-2 FT), three rebounds, three assists and one steal in 30 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
-[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
-Won't play Sunday
-**G** Syracuse
-Hamstring
-November 11, 2026
-Tobiason (hamstring) will not play against St. John's on Sunday, according to [Donna Ditota of Syracuse.com](https://www.syracuse.com/orangebasketball/2026/11/injury-updates-on-syracuse-basketball-players-mark-morano-and-aiden-tobiason.html).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Wichita State](https://assets.rotowire.com/images/teamlogo/cbasketball/Wichita-State.png?v=16)
-[TJ Williams](https://www.rotowire.com/cbasketball/player/tj-williams-23344)
-Warming up Wednesday
-**G** Wichita State
-Knee
-November 11, 2026
-Williams (ankle) is active in warmups ahead of Wednesday's game against Friends University (NAIA), per [Tejay Cleland of KWCH 12 News](https://x.com/KWCHTejay/status/2120669749713748393?s=20).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

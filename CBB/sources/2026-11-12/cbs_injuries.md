@@ -1,4 +1,4 @@
-<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-12 11:17 ET -->
+<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-12 17:02 ET -->
 
 Title: COLLEGEBASKETBALL Injury Report and Status 2026-27
 
@@ -603,10 +603,6 @@ Explore Fantasy
     *   [Must-Draft Players](https://www.cbssports.com/features/2026-fantasy-football-must-draft-players)
     *   [College Pick'Em](https://picks.cbssports.com/college-football/pickem)
 
-Games You May Like
-
-[Play Now](https://www.cbssports.com/fantasy/games/football/)
-
     *   [![Image 197: Football Pick'em](https://sportshub.cbsistatic.com/i/2024/07/24/18601814-a8fb-4e01-becf-20a84735af93/football-pickem-logo-2.jpg?crop=1:1&width=96&format=webp)](https://picks.cbssports.com/football/lobby)
     *   [![Image 198: Fantasy Football](https://sportshub.cbsistatic.com/i/2024/08/02/37d45d84-3e6c-4bef-ae3c-e3a7ec249748/ff-logo-200x200-2.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/fantasy/games/football/)
     *   [![Image 199: UFC Pickem](https://sportshub.cbsistatic.com/i/2026/06/08/e3e73af2-539b-4475-be15-3a182076d813/ufc-challenge-fantasy-navigation-1080x1080.png?crop=1:1&width=96&format=webp)](https://smart.link/hwnw5mkfxelz2)
@@ -663,9 +659,9 @@ Shows & Podcasts
     *   [![Image 204: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
     *   [![Image 205: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
 
-[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=763332)
+[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=926138)
 
-[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=763332&login=confirmed)
+[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=926138&login=confirmed)
 
 Fantasy & Games
 
@@ -712,4 +708,6 @@ Video Settings
 The content on this site is for entertainment purposes only and CBS Sports makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event. Odds and lines subject to change. There is no gambling offered on this site. This site contains commercial content and CBS Sports may be compensated for the links provided on this site.
 
 Images by Getty Images and Imagn
+
+Your Privacy Choices![Image 209](https://user-sync.fwmrm.net/ad/u?mode=auto-user-sync&_fw_gdpr=0&_fw_gdpr_consent=)![Image 210](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=875eb8c0-2eeb-46dc-b2e6-8ee955b33f6d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1e2d461-6320-4557-aa48-f8f6daadb71b&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794520860324-733528481&tw_session_start=1&twpid=tw.1794520860324.864029510237718212&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 211](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=875eb8c0-2eeb-46dc-b2e6-8ee955b33f6d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1e2d461-6320-4557-aa48-f8f6daadb71b&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=2&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794520860324-733528481&tw_session_start=1&twpid=tw.1794520860324.864029510237718212&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 212: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=270675768&iiqidtype=2&iiqpcid=6a89066e-50dc-d954-0a3b-809801745096&iiqpciddate=1794520864039&tsrnd=589_1794520864053&fbp=576729538&jsver=6.142&cz=0%3A1280%2C1%3A1280%2C2%3A1%2C3%3A1280%2C4%3A1280%2C5%3Aen-US&dw=1280&dh=1280&dpr=1&lan=en-US&testPercentage=-1&testGroup=U&uh=%7B%220%22%3A%22%5C%22Not-A.Brand%5C%22%3Bv%3D%5C%2299%5C%22%2C%20%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22157%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22157%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Not-A.Brand%5C%22%3Bv%3D%5C%2299.0.0.0%5C%22%2C%20%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22157.0.8103.38%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22157.0.8103.38%5C%22%22%7D&vrref=https%3A%2F%2Fwww.cbssports.com&gdpr_consent=undefined&us_privacy=1YNN&gpp=DBABLA~CVQqAAAAAABY.QA&gpc=undefined&gdpr=0)
 
