@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-12 | updated 2026-11-12 18:06 ET
+# NBA transcripts | 2026-11-12 | updated 2026-11-12 18:36 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 16 files in NBA/transcripts/2026-11-12:
 NBA/transcripts/2026-11-12/-9AUokMSMkw_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
@@ -26,8 +26,6 @@ NONE    channel VSiN: nothing new in the date window (or everything already save
 UPCOMING WagerTalk K43rOd3YD1k NBA Picks Today: Friday Best Bets, Odds & Betting Preview |   (not aired yet - scheduled for 11/13/26 1:30PM)
 UPCOMING WagerTalk rmh8iF_YrlQ NBA Picks Today: Friday Best Bets, Odds & Betting Preview |   (not aired yet - scheduled for 11/13/26 1:30PM)
 UPCOMING RotoGrinders TDnlZsR1aAw NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/13/2  (not aired yet - scheduled for 11/13/26 5:40PM)
-UPCOMING RotoGrinders Pk3E938mR_c NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/14/2  (not aired yet - scheduled for 11/14/26 5:45PM)
-NOCAPS  RotoGrinders WGSbQ6TrWgE NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/12/2  (no captions; Groq: still live - audio not final yet)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NOCAPS  DFSArmy 2WYgj0EliJs NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
