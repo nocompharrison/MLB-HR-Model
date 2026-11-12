@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 16:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 18:05 ET -->
 
 # NBA DFS Picks Today
 November 12, 2026
@@ -63,29 +63,29 @@ DraftKings FanDuel
 Nov 13 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 4 games - 7:00 PM Main Slate - 2 games - 8:00 PM Nov 13 - Main Slate - 3 games - 9:30 PM (lineups pending) Nov 13 - Main Slate - 3 games - 8:00 PM (lineups pending) Showdown - CHA @ PHX - 10:00 PM Nov 13 - Showdown - OKC @ LAC - 11:30 PM (lineups pending) Showdown - CHA @ PHX - 9:00 PM Showdown - DAL @ MIN - 8:00 PM Nov 13 - Showdown - GSW @ SAS - 9:30 PM (lineups pending) Nov 13 - Showdown - NYK @ IND - 7:00 PM (lineups pending) Nov 13 - Showdown - OKC @ LAC - 10:30 PM (lineups pending) Showdown - TOR @ PHI - 7:00 PM Nov 13 - Showdown - UTA @ HOU - 8:30 PM (lineups pending) Nov 13 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 4 games - 7:00 PM Nov 13 - Main Slate - 3 games - 9:30 PM (lineups pending) All games (4) DET @ WSH - 7:00 PM ET TOR @ PHI - 7:00 PM ET DAL @ MIN - 8:00 PM ET CHA @ PHX - 9:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **DET @ WSH**
-O/U 221.57:00 PM ET
+O/U 222.57:00 PM ET
 PistonsExpectedAway
-_Implied_**116.0** _Spread_**-10.5**  
+_Implied_**116.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | John Collins  | $5,200  | 27.4  |  
 | PF  | Ausar Thompson  | $6,500  | 30.8  |  
 | PG  | Cade Cunningham  | $9,600  | 47.3  |  
-| SF  | Duncan Robinson  | $5,400  | 27.1  |  
-| SG  | Daniss Jenkins  | $5,000  | 34.9  |  
+| SF  | Duncan Robinson  | $5,400  | 27.2  |  
+| SG  | Daniss Jenkins  | $5,000  | 35.0  |  
 WizardsExpectedHome
-_Implied_**105.5** _Spread_**+10.5**  
+_Implied_**106.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 25.7  |  
-| PF  | Anthony Davis  | $9,000  | 42.3  |  
-| PG  | Trae Young  | $7,700  | 38.8  |  
+| C  | Alex Sarr  | -  | 25.8  |  
+| PF  | Anthony Davis  | $9,000  | 42.4  |  
+| PG  | Trae Young  | $7,700  | 38.9  |  
 | SF  | AJ Dybantsa  | $6,600  | 28.5  |  
 | SG  | Kyshawn George  | $6,600  | 33.1  |  
 **TOR @ PHI**
-O/U 224.57:00 PM ET
+O/U 223.57:00 PM ET
 RaptorsExpectedAway
-_Implied_**108.5** _Spread_**+7.5**  
+_Implied_**108.0** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jakob Poeltl  | $5,500  | 31.4  |  
@@ -94,7 +94,7 @@ _Implied_**108.5** _Spread_**+7.5**
 | SF  | Ja'Kobe Walter  | $5,600  | 31.2  |  
 | SG  | RJ Barrett  | $8,300  | 40.1  |  
 76ersExpectedHome
-_Implied_**116.0** _Spread_**-7.5**  
+_Implied_**115.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Joel EmbiidQ  | $8,300  | 39.6  |  
@@ -154,7 +154,7 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Kevin HuerterDET - SG  | @ WSH  | $3,900  | 31  | 28.0  | **7.18**  |  
-| 2  |  Daniss JenkinsDET - PG  | @ WSH  | $5,000  | 32  | 34.9  | **6.99**  |  
+| 2  |  Daniss JenkinsDET - PG  | @ WSH  | $5,000  | 32  | 35.0  | **7.00**  |  
 | 3  |  Jabari WalkerPHI - SF  | vs TOR  | $3,300  | 20  | 21.6  | **6.56**  |  
 | 4  |  Dean WadePHI - SF  | vs TOR  | $3,900  | 30  | 23.9  | **6.13**  |  
 | 5  |  Jakob PoeltlTOR - C  | @ PHI  | $5,500  | 31  | 31.4  | **5.72**  |  
@@ -180,25 +180,25 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)WadeHuerterGeorgeDunnBattleJamesWalterLyles
+$3K$4K$5K$6K$7K$8K$9K$10K−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)WadeHuerterGeorgeDunnBattleJamesWalterMartin
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** CHA@PHX, DAL@MIN, DET@WAS, TOR@PHI  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Dean WadePHI · SF/PF · TOR@PHI  | $3,900  | 6.1  | 23.9  | **48.0**  |   | +12.0  | +11  | 99  |  
-| 2  |  Kevin HuerterDET · SG/SF · DET@WAS  | $3,900  | 8.9  | 28.0  | **53.5**  |   | +17.5  | +4  | 95  |  
-| 3  |  Kyshawn GeorgeWAS · SG · DET@WAS  | $6,600  | 11.4  | 33.1  | **61.4**  |   | +3.7  | +6  | 89  |  
+| 2  |  Kevin HuerterDET · SG/SF · DET@WAS  | $3,900  | 9.0  | 28.0  | **53.6**  |   | +17.6  | +4  | 95  |  
+| 3  |  Kyshawn GeorgeWAS · SG · DET@WAS  | $6,600  | 11.4  | 33.2  | **61.5**  |   | +3.8  | +6  | 89  |  
 | 4  |  Ryan DunnPHX · SF/PF · CHA@PHX  | $3,900  | 6.0  | 21.2  | **43.0**  |   | +7.1  | +4  | 88  |  
 | 5  |  VJ EdgecombePHI · PG/SG · TOR@PHI  | $6,100  | 9.8  | 30.2  | **56.6**  |   | +2.9  | +4  | 84  |  
-| 6  |  Jamison BattleTOR · SF · TOR@PHI  | $4,300  | 5.8  | 20.9  | **42.6**  |   | +3.4  | +4  | 83  |  
-| 7  |  Sion JamesCHA · SF/PF · CHA@PHX  | $4,900  | 6.0  | 22.7  | **45.8**  |   | +1.8  | +8  | 82  |  
+| 6  |  Jamison BattleTOR · SF · TOR@PHI  | $4,300  | 5.8  | 20.9  | **42.6**  |   | +3.4  | +4  | 82  |  
+| 7  |  Sion JamesCHA · SF/PF · CHA@PHX  | $4,900  | 6.0  | 22.7  | **45.8**  |   | +1.8  | +8  | 81  |  
 | 8  |  Ja'Kobe WalterTOR · SG/SF · TOR@PHI  | $5,600  | 11.1  | 31.2  | **57.9**  |   | +8.3  | +2  | 79  |  
-| 9  |  Trey LylesMIN · PF/C · DAL@MIN  | $3,700  | 4.0  | 16.6  | **35.8**  |   | +1.4  | +6  | 77  |  
-| 10  |  Caleb MartinDAL · SG/SF · DAL@MIN  | $3,500  | 3.8  | 16.0  | **34.6**  |   | +1.8  | +4  | 77  |  
+| 9  |  Caleb MartinDAL · SG/SF · DAL@MIN  | $3,500  | 3.8  | 16.0  | **34.6**  |   | +1.8  | +4  | 78  |  
+| 10  |  Trey LylesMIN · PF/C · DAL@MIN  | $3,700  | 4.0  | 16.6  | **35.8**  |   | +1.4  | +6  | 77  |  
 | 11  |  LaMelo BallMIN · PG · DAL@MIN  | $8,200  | 20.3  | 45.6  | **78.6**  |   | +8.1  | +2  | 77  |  
 | 12  |  Collin Murray-BoylesTOR · PF/C · TOR@PHI  | $5,700  | 10.8  | 30.6  | **57.1**  |   | +6.7  | +2  | 77  |  
-| 13  |  Daniss JenkinsDET · PG/SG · DET@WAS  | $5,000  | 13.6  | 34.9  | **63.1**  |   | +18.3  | 0  | 74  |  
+| 13  |  Daniss JenkinsDET · PG/SG · DET@WAS  | $5,000  | 13.7  | 35.0  | **63.2**  |   | +18.4  | 0  | 74  |  
 | 14  |  P.J. WashingtonDAL · PF · DAL@MIN  | $6,500  | 10.3  | 30.6  | **57.2**  |   | +0.3  | +4  | 69  |  
 | 15  |  Grayson AllenCHA · SG/SF · CHA@PHX  | $5,900  | 10.1  | 29.1  | **54.9**  |   | +2.9  | +1  | 68  |  
 Show all 73 players

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-12 16:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-12 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,131 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Marcus Smart](https://www.rotowire.com/basketball/player/marcus-smart-3575)[Hit with three-game suspension](https://www.rotowire.com/basketball/headlines/marcus-smart-injury-hit-with-three-game-suspension-538829)
+**G** Houston Rockets
+Suspension
+November 12, 2026
+Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2121010157022769537?a=WoqVbxAo7P1fv3IHkZ8&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Charles Bassey](https://www.rotowire.com/basketball/player/charles-bassey-4833)[Listed probable for Friday](https://www.rotowire.com/basketball/headlines/charles-bassey-injury-listed-probable-for-friday-538828)
+**C** Golden State Warriors
+Toe
+November 12, 2026
+Bassey is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_15PM.pdf) for Friday's game against the Spurs due to left toe soreness.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Gary Payton](https://www.rotowire.com/basketball/player/gary-payton-3919)[Omitted from injury report](https://www.rotowire.com/basketball/headlines/gary-payton-news-omitted-from-injury-report-538827)
+**G** Golden State Warriors
+November 12, 2026
+Payton (knee) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_15PM.pdf) for Friday's game against San Antonio.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ryan Rollins](https://www.rotowire.com/basketball/player/ryan-rollins-5668)[Fades injury report](https://www.rotowire.com/basketball/headlines/ryan-rollins-news-fades-injury-report-538826)
+**G** Milwaukee Bucks
+November 12, 2026
+Rollins (head) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) for Friday's game against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)[Cleared for Friday](https://www.rotowire.com/basketball/headlines/myles-turner-news-cleared-for-friday-538825)
+**C** Milwaukee Bucks
+November 12, 2026
+Turner (rest) [isn't listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) on the injury report ahead of Friday's game against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Evan Mobley](https://www.rotowire.com/basketball/player/evan-mobley-5355)[Won't play Friday](https://www.rotowire.com/basketball/headlines/evan-mobley-injury-wont-play-friday-538824)
+**F** Cleveland Cavaliers
+Toe
+November 12, 2026
+Mobley (toe) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) for Friday's game against the Heat.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Game-time call for Friday](https://www.rotowire.com/basketball/headlines/tristan-da-silva-injury-game-time-call-for-friday-538823)
+**F** Orlando Magic
+Calf
+November 12, 2026
+Da Silva (calf) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) for Friday's game against Milwaukee.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jamal Cain](https://www.rotowire.com/basketball/player/jamal-cain-5796)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/jamal-cain-injury-questionable-for-friday-538822)
+**F** Orlando Magic
+Shoulder
+November 12, 2026
+Cain (shoulder) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) for Friday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Upgraded to questionable for Friday](https://www.rotowire.com/basketball/headlines/jalen-suggs-injury-upgraded-to-questionable-for-friday-538821)
+**G** Orlando Magic
+Knee
+November 12, 2026
+Suggs (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_05_00PM.pdf) for Friday's game against Milwaukee.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Ruled out for Friday](https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-ruled-out-for-friday-538820)
+**C** Chicago Bulls
+Back
+November 12, 2026
+Awaka (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_30PM.pdf) for Friday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Dailyn Swain](https://www.rotowire.com/basketball/player/dailyn-swain-6986)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/dailyn-swain-injury-iffy-for-friday-538819)
+**F** Chicago Bulls
+Back
+November 12, 2026
+Swain (back) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_30PM.pdf) for Friday's game against Atlanta.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/norman-powell-injury-iffy-for-friday-538818)
+**G** Chicago Bulls
+Shoulder
+November 12, 2026
+Powell (shoulder) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_30PM.pdf) for Friday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Caleb Wilson](https://www.rotowire.com/basketball/player/caleb-wilson-6926)[To miss at least four weeks](https://www.rotowire.com/basketball/headlines/caleb-wilson-injury-to-miss-at-least-four-weeks-538817)
+**F** Chicago Bulls
+Hand
+November 12, 2026
+Wilson is undergoing surgery for a fractured right hand and will miss at least four to six weeks, [Shams Charania of ESPN](https://x.com/shamscharania/status/2120992547963113639?s=61&t=HoCXedcm9PjIHu9dvuVVBA) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/klay-thompson-injury-questionable-for-friday-538816)
+**F** Miami Heat
+Ankle
+November 12, 2026
+Thompson (ankle) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-expected-to-play-friday-538815)
+**F** Miami Heat
+Wrist
+November 12, 2026
+Antetokounmpo (wrist) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-iffy-for-friday-538814)
+**F** Miami Heat
+Illness
+November 12, 2026
+Larsson (illness) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
 [Brandon Ingram](https://www.rotowire.com/basketball/player/brandon-ingram-3861)[Not ready for season debut](https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-not-ready-for-season-debut-538813)
 **G** Los Angeles Clippers
@@ -57,7 +182,7 @@ Missi (knee) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injur
 **F** New Orleans Pelicans
 Knee
 November 12, 2026
-Murphy (knee) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_03_45PM.pdf) for Friday's game against the Grizzlies.
+Murphy (knees) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_03_45PM.pdf) for Friday's game against the Grizzlies.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
@@ -79,124 +204,6 @@ Williams (hamstring) is listed as [available](https://x.com/HornetsPR/status/212
 **C** Charlotte Hornets
 November 12, 2026
 Diabate (quadriceps) is listed as [available](https://x.com/HornetsPR/status/2120952166588596436?s=20) for Thursday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Cam Spencer](https://www.rotowire.com/basketball/player/cam-spencer-6297)[Solid results continue](https://www.rotowire.com/basketball/headlines/cam-spencer-news-solid-results-continue-538801)
-**G** Memphis Grizzlies
-November 12, 2026
-Spencer provided 15 points (5-7 FG, 3-4 3Pt, 2-2 FT), three rebounds, three assists and one block across 20 minutes during Wednesday's 123-118 loss to Denver.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Jrue Holiday](https://www.rotowire.com/basketball/player/jrue-holiday-3029)[Stays hot from downtown](https://www.rotowire.com/basketball/headlines/jrue-holiday-news-stays-hot-from-downtown-538800)
-**G** Portland Trail Blazers
-November 12, 2026
-Holiday posted 19 points (5-12 FG, 5-8 3Pt, 4-4 FT), three rebounds, five assists and two steals over 30 minutes during Wednesday's 118-108 win over the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Dealing with illness](https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-dealing-with-illness-538799)
-**F** Miami Heat
-Illness
-November 12, 2026
-Larsson sat out Thursday's practice due to an illness, per [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2120946714857386125?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)[Sits out practice](https://www.rotowire.com/basketball/headlines/klay-thompson-injury-sits-out-practice-538798)
-**F** Miami Heat
-Ankle
-November 12, 2026
-Thompson (ankle) didn't practice Thursday, per [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2120946714857386125).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Tari Eason](https://www.rotowire.com/basketball/player/tari-eason-5704)[Quiet stretch continues](https://www.rotowire.com/basketball/headlines/tari-eason-news-quiet-stretch-continues-538797)
-**F** Houston Rockets
-November 12, 2026
-Eason totaled six points (2-11 FG, 0-5 3Pt, 2-2 FT), three rebounds and one block in 22 minutes during Wednesday's 115-108 victory over the Warriors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jevon Carter](https://www.rotowire.com/basketball/player/jevon-carter-4456)[Season-best effort Wednesday](https://www.rotowire.com/basketball/headlines/jevon-carter-news-season-best-effort-wednesday-538796)
-**G** Orlando Magic
-November 12, 2026
-Carter ended Wednesday's 123-108 win over Utah with 11 points (4-12 FG, 3-10 3Pt), three rebounds, four assists and two steals across 28 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Trayce Jackson-Davis](https://www.rotowire.com/basketball/player/trayce-jackson-davis-5944)[Out sick Thursday](https://www.rotowire.com/basketball/headlines/trayce-jackson-davis-injury-out-sick-thursday-538795)
-**C** Toronto Raptors
-Illness
-November 12, 2026
-Jackson-Davis is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_01_00PM.pdf) for Thursday's game against the 76ers due to an illness.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Sitting out Thursday](https://www.rotowire.com/basketball/headlines/lebron-james-injury-sitting-out-thursday-538794)
-**F** Philadelphia 76ers
-Back
-November 12, 2026
-James (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_01_00PM.pdf) for Thursday's game against Toronto.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)[Ruled out Thursday](https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-ruled-out-thursday-538793)
-**F** Toronto Raptors
-Groin
-November 12, 2026
-Barnes (groin) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_01_00PM.pdf) for Thursday's game against Philadelphia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Plays 23 minutes in return](https://www.rotowire.com/basketball/headlines/jaylon-tyson-news-plays-23-minutes-in-return-538791)
-**F** Cleveland Cavaliers
-November 12, 2026
-Tyson finished Wednesday's 115-107 win over the Knicks with three points (1-5 FG, 1-5 3Pt), one assist and one block over 23 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Amen Thompson](https://www.rotowire.com/basketball/player/amen-thompson-5931)[Delivers 19 points in Wednesday's win](https://www.rotowire.com/basketball/headlines/amen-thompson-news-delivers-19-points-in-wednesdays-win-538789)
-**G** Houston Rockets
-November 12, 2026
-Thompson had 19 points (8-11 FG, 0-1 3Pt, 3-5 FT), seven rebounds, four assists, two blocks and one steal over 29 minutes during Wednesday's 115-108 win over the Warriors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Strong showing in win over Warriors](https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-strong-showing-in-win-over-warriors-538788)
-**G** Houston Rockets
-November 12, 2026
-VanVleet had 18 points (6-9 FG, 4-7 3Pt, 2-2 FT), two rebounds, six assists and three steals over 30 minutes during Wednesday's 115-108 victory over Golden State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Sidy Cissoko](https://www.rotowire.com/basketball/player/sidy-cissoko-5799)[Strong showing Wednesday](https://www.rotowire.com/basketball/headlines/sidy-cissoko-news-strong-showing-wednesday-538784)
-**F** Portland Trail Blazers
-November 12, 2026
-Cissoko notched 19 points (6-9 FG, 4-7 3Pt, 3-4 FT) and two rebounds across 29 minutes in Wednesday's 118-108 win over the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Kevin Durant](https://www.rotowire.com/basketball/player/kevin-durant-2811)[Pops for team-high 20 in win](https://www.rotowire.com/basketball/headlines/kevin-durant-news-pops-for-team-high-20-in-win-538783)
-**F** Houston Rockets
-November 12, 2026
-Durant posted 20 points (8-17 FG, 1-4 3Pt, 3-4 FT), four rebounds and five assists across 34 minutes during Wednesday's 115-108 win over the Warriors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Damian Lillard](https://www.rotowire.com/basketball/player/damian-lillard-3304)[Scores 18 points in win](https://www.rotowire.com/basketball/headlines/damian-lillard-news-scores-18-points-in-win-538782)
-**G** Portland Trail Blazers
-November 12, 2026
-Lillard finished with 18 points (5-14 FG, 2-10 3Pt, 6-6 FT), three rebounds, three assists and a steal across 32 minutes in Wednesday's 118-108 win over the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Stephen Curry](https://www.rotowire.com/basketball/player/stephen-curry-3014)[Diagnosed with abdominal tear](https://www.rotowire.com/basketball/headlines/stephen-curry-injury-diagnosed-with-abdominal-tear-538781)
-**G** Golden State Warriors
-Abdomen
-November 12, 2026
-Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2120923895184359440?a=hj4l8MMsnHPmsHOXNu4&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

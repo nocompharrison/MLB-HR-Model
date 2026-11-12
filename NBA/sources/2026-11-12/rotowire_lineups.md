@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-lineups.php | fetched: 2026-11-12 16:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-lineups.php | fetched: 2026-11-12 18:05 ET -->
 
 [ ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg) ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg)Win your week. Every start/sit, every waiver, every trade, plus NBA and NHL all winter. We make the call. Every start/sit, every waiver, every trade. We make the call. Win my league ](https://www.rotowire.com/subscribe/payment/?plan=fantasy&billing=12)
 Date
@@ -73,9 +73,9 @@ Show Display Settings Add Lineup Alerts
 
 
 **Referees:** [Ray Acosta](https://www.rotowire.com/basketball/ref.php?id=719470), [Marat Kogut](https://www.rotowire.com/basketball/ref.php?id=531094), [Tyler Ricks](https://www.rotowire.com/basketball/ref.php?id=1348262)
-**LINE** PHI -277 PHI -280 PHI -269 PHI -275 –
-**SPREAD** PHI -7.0 PHI -7.5 PHI -7.5 PHI -6.5 –
-**O/U** 224.5 Pts 223.5 Pts 224.5 Pts 224.5 Pts –
+**LINE** PHI -277 PHI -270 PHI -270 PHI -275 –
+**SPREAD** PHI -7.5 PHI -7.5 PHI -7.5 PHI -7.5 –
+**O/U** 224.0 Pts 223.5 Pts 223.5 Pts 224.5 Pts –
 [![](https://assets.rotowire.com/images/props/sleeper.svg)](https://www.rotowire.com/picks/sleeper/) [Make The Right Picks](https://www.rotowire.com/picks/sleeper/) [![](https://assets.rotowire.com/images/picks-promo-screen.png)](https://www.rotowire.com/picks/sleeper/)
 If you play on Sleeper, you should check out the RotoWire Picks tool. Get our best picks for today's NBA games.
 [ See Our Top Picks For Sleeper ](https://www.rotowire.com/picks/sleeper/)
@@ -129,10 +129,10 @@ If you play on Sleeper, you should check out the RotoWire Picks tool. Get our be
 
 
 **Referees:** [JB DeRosa](https://www.rotowire.com/basketball/ref.php?id=897257), , [Jenna Schroeder](https://www.rotowire.com/basketball/ref.php?id=1116812)
-**LINE** DET -471 DET -460 DET -438 DET -450 –
+**LINE** DET -471 DET -480 DET -438 DET -475 –
 **SPREAD** DET -10.5 DET -10.5 DET -10.5 DET -10.5 –
-**O/U** 221.5 Pts 220.5 Pts 221.5 Pts 221.5 Pts –
-[ ![Fanatics Sport](https://objects.kaxmedia.com/auto/o/259291/3a1a0aa74c.png) ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&pageview_id=9d8ab171-0cae-4957-a415-39dc09d40f23&cta_id=bac3c474-8cd6-4ca6-9e74-708c808f29dd&operator_item_id=85e4ed01-337d-4ae1-a404-8fa7e0be7d21)
+**O/U** 222.5 Pts 222.5 Pts 222.5 Pts 222.5 Pts –
+[ ![Fanatics Sport](https://objects.kaxmedia.com/auto/o/259291/3a1a0aa74c.png) ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&cta_id=d663c43e-51cb-4c49-8ab2-88d295073a62&operator_item_id=ef14a828-2a87-4c0b-9de9-23bc1162721c&pageview_id=10db00b8-a583-4ae1-83c3-ac4cadf43b24)
 Sign Up Bonus
 New Customers Get Up To $1,000 Matched In FanCash
 ![Checkmark Icon](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/green-tick.svg)
@@ -145,7 +145,7 @@ Accepted Payments:
 [ ![Rollcard](https://objects.kaxmedia.com/auto/o/286427/0735c4f332.png) Best Payment Method ](https://get.rollcard.com/4RQSJ/M2GJW/?sub1=Rotoctaicon&sub2={{tracker}}) ![Visa](https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg) ![MasterCard](https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg) ![PayPal](https://objects.kaxmedia.com/auto/o/140254/b9fb4d8d18.svg)
 ROTOWIRE
 Click to Copy Code
-[ Bet Now ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&pageview_id=9d8ab171-0cae-4957-a415-39dc09d40f23&cta_id=784b7f04-1cfc-48ef-8cf6-389211376dee&operator_item_id=85e4ed01-337d-4ae1-a404-8fa7e0be7d21)
+[ Bet Now ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&cta_id=4cb78a04-3fb8-49ff-b34f-de651d772fd6&operator_item_id=ef14a828-2a87-4c0b-9de9-23bc1162721c&pageview_id=10db00b8-a583-4ae1-83c3-ac4cadf43b24)
 * * *
 21+. New customers in AZ, CO, CT, DC, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, NC, NJ, NY, OH, PA, TN, VA, VT, WV, or WY (excludes NY). Apply promotion in bet slip and place a $1+ cash wager (min odds -200) daily for 10 consecutive days starting day of account creation. FanCash rewards will equal the qualifying wager amount (max $100 FanCash/day). FanCash issued under this promotion expires at 11:59 p.m. ET 7 days from issuance. Terms, incl. FanCash terms, apply—see Fanatics Sportsbook app. Gambling Problem? Call or Text 1-800-GAMBLER, 1-800-NEXT-STEP (AZ), 1-800-9-WITH-IT (IN), 1-888-532-3500 (VA), Call (877-8-HOPENY) or text HOPENY (467369).
 [ ProBets ](https://www.rotowire.com/smart-money/)
@@ -199,7 +199,7 @@ Click to Copy Code
 
 
 **Referees:** [James Capers](https://www.rotowire.com/basketball/ref.php?id=3560), [Sean Corbin](https://www.rotowire.com/basketball/ref.php?id=3563), [Brent Haskill](https://www.rotowire.com/basketball/ref.php?id=1349467)
-**LINE** MIN -223 MIN -225 MIN -223 MIN -220 –
+**LINE** MIN -222 MIN -215 MIN -223 MIN -220 –
 **SPREAD** MIN -6.0 MIN -5.5 MIN -5.5 MIN -5.5 –
 **O/U** 226.0 Pts 226.5 Pts 225.5 Pts 225.5 Pts –
 9:00 PM ET
@@ -248,7 +248,7 @@ Click to Copy Code
 
 
 **Referees:** [Scott Foster](https://www.rotowire.com/basketball/ref.php?id=3575), [Eric Dalen](https://www.rotowire.com/basketball/ref.php?id=349837), [Matt Myers](https://www.rotowire.com/basketball/ref.php?id=525826)
-**LINE** PHX -231 PHX -230 PHX -229 PHX -235 –
+**LINE** PHX -231 PHX -225 PHX -229 PHX -225 –
 **SPREAD** PHX -6.5 PHX -6.5 PHX -6.5 PHX -6.5 –
 **O/U** 214.5 Pts 214.5 Pts 214.5 Pts 214.5 Pts –
 You may also be interested in...

@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-12 16:12 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-12 18:05 ET -->
 
 
 ---
@@ -356,7 +356,7 @@ Let’s dive into three player props that catch our eye for Thursday’s four-ga
 
 ![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10214.png)Tyrese Maxey
 
-[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/kalshi_sc)[O/U Points Scored (vs. TOR)](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/kalshi_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/kalshi_sc)
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/underdog_sc)[O/U Points Scored (vs. TOR)](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/underdog_sc)[23.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661051/underdog_sc)
 
 [![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661051/polymarket_sc)[O/U Total Rebounds (vs. TOR)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661051/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661051/polymarket_sc)
 
@@ -372,7 +372,7 @@ The Raptors are also surrendering an NBA-high 8.5 rebounds per contest to ones a
 
 **Original Line Publish:**33.5
 
-### **Cooper Flagg (Mavericks vs. Timberwolves) Over Points + Rebounds + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)29.5 (83¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_rebounds_assists/661053/underdog_sc)
+### **Cooper Flagg (Mavericks vs. Timberwolves) Over Points + Rebounds + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)29.5 (81¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_rebounds_assists/661053/underdog_sc)
 
 [](https://www.lineups.com/)
 
@@ -398,7 +398,7 @@ The marquee matchup with the Timberwolves puts Flagg in a scenario where he shou
 
 ![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10190.png)Naz Reid
 
-[![Image 46: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/polymarket_sc)[O/U Points Scored (@ PHO)](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/polymarket_sc)
+[![Image 46: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/kalshi_sc)[O/U Points Scored (@ PHO)](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661054/kalshi_sc)
 
 [![Image 47: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661054/polymarket_sc)[O/U Total Rebounds (@ PHO)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661054/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661054/polymarket_sc)
 
