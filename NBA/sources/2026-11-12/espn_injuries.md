@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-12 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-12 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -334,15 +334,39 @@ Sponsored Headlines
 
 [](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds)[The 3 Coolest Garden Inventions Going Viral Right Now Wild Vine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds "The 3 Coolest Garden Inventions Going Viral Right Now")
 
+Undo
+
 [](https://app.plentyside.com/cf/r/6ae9e135b0a7bd44fee24c6e)[South Carolina Seniors Born 1941-1970 Receive Benefits This Month If They Ask PlentySide.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://app.plentyside.com/cf/r/6ae9e135b0a7bd44fee24c6e "South Carolina Seniors Born 1941-1970 Receive Benefits This Month If They Ask")
+
+Undo
 
 [](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
 
+Undo
+
 [](https://www.espn.com/nba/injuries)[Winter Weather Calls for Reliable Propane Put propane building heat, generators, and other farm equipment to work this winter and receive compensation for documenting their performance.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.espn.com/nba/injuries "Winter Weather Calls for Reliable Propane")
+
+Undo
 
 [](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
+Undo
+
 [](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+Undo
+
+[](https://articles.usautoinsurancenow.com/)[Your South Carolina Zip Code Could Qualify You for Lower Auto Insurance Rates Auto insurance rates can differ widely depending on your zip code. A quick check can show you which companies are offering attractive rates in your area right now. Spend a minute comparing options and see what’s available near you.US Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.usautoinsurancenow.com/ "Your South Carolina Zip Code Could Qualify You for Lower Auto Insurance Rates")
+
+Undo
+
+[](https://lp.nuviasmiles.com/denver-eval-native-2)[North Charleston: 24 Hour Dental Implants Take our 1-minute quiz to find out if you're eligible for our revolutionary 24-hour dental implants. Get a new smile in just 24 Hrs Nuvia Dental Implant Center | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://lp.nuviasmiles.com/denver-eval-native-2 "North Charleston: 24 Hour Dental Implants")
+
+Undo
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
+
+Undo
 
 ### NBA News
 
@@ -360,13 +384,27 @@ Sponsored Headlines
 
 Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
+Undo
+
 Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Undo
 
 How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
+Undo
+
 The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
+Undo
+
 [](https://www.espn.com/nba/injuries)[Energy Costs Are Changing the Climate Debate As diesel and electric costs rise, the Path to Zero podcast explores why affordability may be common ground for all sides of the climate conversation.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.espn.com/nba/injuries "Energy Costs Are Changing the Climate Debate")
+
+Undo
+
+[](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6a97ef679c0087024702c8d3 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+
+Undo
 
 ![Image 44: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

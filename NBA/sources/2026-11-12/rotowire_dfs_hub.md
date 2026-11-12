@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 18:35 ET -->
 
 # NBA DFS Picks Today
 November 12, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Thursday, November 12 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (8) All NBA news Charlotte Hornets (CHA @ PHX) Dallas Mavericks (DAL @ MIN) Detroit Pistons (DET @ WSH) Minnesota Timberwolves (DAL @ MIN) Philadelphia 76ers (TOR @ PHI) Phoenix Suns (CHA @ PHX) Toronto Raptors (TOR @ PHI) Washington Wizards (DET @ WSH)
+Dallas MavericksDAL @ MIN - 8:00 PM ET
+**[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)** _F_ 6:23 PM ET
+#### Will play Thursday
+Johnson (shin) will play in Thursday's game against Minnesota, Mike Curtis of The Dallas Morning News reports.
+Analysis
+As expected, the rookie forward is shedding a probable designation with a bruised left shin. Johnson is returning from a brief one-game absence, leaving fewer minutes on the table for Santi Aldama and Walter Clayton.
 Charlotte HornetsCHA @ PHX - 9:00 PM ET
 **[Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)** _F_ 1:56 PM ET
 #### Available to make season debut
@@ -47,13 +53,7 @@ Philadelphia 76ersTOR @ PHI - 7:00 PM ET
 James (back) is out for Thursday's game against Toronto.
 Analysis
 The future Hall of Famer is getting Thursday night off for maintenace purposes. Tyrese Maxey and Jaylen Brown should do the heavy lifting offensively, while Dean Wade and Kentavious Caldwell-Pope should soak up extra minutes for the 76ers.
-Toronto RaptorsTOR @ PHI - 7:00 PM ET
-**[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)** _F_ OUT _Top_ 1:05 PM ET
-#### Ruled out Thursday
-Barnes (groin) is out for Thursday's game against Philadelphia.
-Analysis
-The star forward is missing a fourth straight game with a groin strain. Ja'Kobe Walter should continue to take on additional playmaking responsibilites in Barnes' stead, while Collin Murray-Boyles should keep starting at power forward.
-Show 5 more (5 remaining)
+Show 5 more (6 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -69,8 +69,8 @@ _Implied_**116.5** _Spread_**-10.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | John Collins  | $5,200  | 27.4  |  
-| PF  | Ausar Thompson  | $6,500  | 30.8  |  
-| PG  | Cade Cunningham  | $9,600  | 47.3  |  
+| PF  | Ausar Thompson  | $6,500  | 30.9  |  
+| PG  | Cade Cunningham  | $9,600  | 47.4  |  
 | SF  | Duncan Robinson  | $5,400  | 27.2  |  
 | SG  | Daniss Jenkins  | $5,000  | 35.0  |  
 WizardsExpectedHome
@@ -81,15 +81,15 @@ _Implied_**106.0** _Spread_**+10.5**
 | PF  | Anthony Davis  | $9,000  | 42.4  |  
 | PG  | Trae Young  | $7,700  | 38.9  |  
 | SF  | AJ Dybantsa  | $6,600  | 28.5  |  
-| SG  | Kyshawn George  | $6,600  | 33.1  |  
+| SG  | Kyshawn George  | $6,600  | 33.2  |  
 **TOR @ PHI**
 O/U 223.57:00 PM ET
 RaptorsExpectedAway
 _Implied_**108.0** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jakob Poeltl  | $5,500  | 31.4  |  
-| PF  | Collin Murray-Boyles  | $5,700  | 30.6  |  
+| C  | Jakob Poeltl  | $5,500  | 31.5  |  
+| PF  | Collin Murray-Boyles  | $5,700  | 30.7  |  
 | PG  | Immanuel Quickley  | $6,800  | 34.1  |  
 | SF  | Ja'Kobe Walter  | $5,600  | 31.2  |  
 | SG  | RJ Barrett  | $8,300  | 40.1  |  
@@ -97,7 +97,7 @@ _Implied_**108.0** _Spread_**+7.5**
 _Implied_**115.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Joel EmbiidQ  | $8,300  | 39.6  |  
+| C  | Joel Embiid  | $8,300  | 39.7  |  
 | PF  | Dean Wade  | $3,900  | 23.9  |  
 | PG  | Tyrese Maxey  | $8,600  | 40.7  |  
 | SF  | Jaylen Brown  | $8,100  | 39.5  |  
@@ -153,15 +153,15 @@ Main slatesMain - 4 games - 7:00 PMMain - 2 games - 8:00 PMShowdownsShowdown - C
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Kevin HuerterDET - SG  | @ WSH  | $3,900  | 31  | 28.0  | **7.18**  |  
+| 1  |  Kevin HuerterDET - SG  | @ WSH  | $3,900  | 31  | 28.0  | **7.19**  |  
 | 2  |  Daniss JenkinsDET - PG  | @ WSH  | $5,000  | 32  | 35.0  | **7.00**  |  
-| 3  |  Jabari WalkerPHI - SF  | vs TOR  | $3,300  | 20  | 21.6  | **6.56**  |  
-| 4  |  Dean WadePHI - SF  | vs TOR  | $3,900  | 30  | 23.9  | **6.13**  |  
-| 5  |  Jakob PoeltlTOR - C  | @ PHI  | $5,500  | 31  | 31.4  | **5.72**  |  
+| 3  |  Jabari WalkerPHI - SF  | vs TOR  | $3,300  | 20  | 21.7  | **6.57**  |  
+| 4  |  Dean WadePHI - SF  | vs TOR  | $3,900  | 30  | 23.9  | **6.14**  |  
+| 5  |  Jakob PoeltlTOR - C  | @ PHI  | $5,500  | 31  | 31.5  | **5.72**  |  
 | 6  |  Rudy GobertMIN - C  | vs DAL  | $5,800  | 31  | 33.1  | **5.72**  |  
-| 7  |  Ja'Kobe WalterTOR - SG  | @ PHI  | $5,600  | 32  | 31.2  | **5.57**  |  
+| 7  |  Ja'Kobe WalterTOR - SG  | @ PHI  | $5,600  | 32  | 31.2  | **5.58**  |  
 | 8  |  LaMelo BallMIN - PG  | vs DAL  | $8,200  | 33  | 45.6  | **5.57**  |  
-| 9  |  Ryan DunnPHX - SF  | vs CHA  | $3,900  | 23  | 21.2  | **5.44**  |  
+| 9  |  Ryan DunnPHX - SF  | vs CHA  | $3,900  | 23  | 21.2  | **5.43**  |  
 | 10  |  Jonathan KumingaMIN - PF  | vs DAL  | $6,200  | 30  | 33.5  | **5.41**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -189,18 +189,18 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | 1  |  Dean WadePHI · SF/PF · TOR@PHI  | $3,900  | 6.1  | 23.9  | **48.0**  |   | +12.0  | +11  | 99  |  
 | 2  |  Kevin HuerterDET · SG/SF · DET@WAS  | $3,900  | 9.0  | 28.0  | **53.6**  |   | +17.6  | +4  | 95  |  
 | 3  |  Kyshawn GeorgeWAS · SG · DET@WAS  | $6,600  | 11.4  | 33.2  | **61.5**  |   | +3.8  | +6  | 89  |  
-| 4  |  Ryan DunnPHX · SF/PF · CHA@PHX  | $3,900  | 6.0  | 21.2  | **43.0**  |   | +7.1  | +4  | 88  |  
-| 5  |  VJ EdgecombePHI · PG/SG · TOR@PHI  | $6,100  | 9.8  | 30.2  | **56.6**  |   | +2.9  | +4  | 84  |  
-| 6  |  Jamison BattleTOR · SF · TOR@PHI  | $4,300  | 5.8  | 20.9  | **42.6**  |   | +3.4  | +4  | 82  |  
-| 7  |  Sion JamesCHA · SF/PF · CHA@PHX  | $4,900  | 6.0  | 22.7  | **45.8**  |   | +1.8  | +8  | 81  |  
-| 8  |  Ja'Kobe WalterTOR · SG/SF · TOR@PHI  | $5,600  | 11.1  | 31.2  | **57.9**  |   | +8.3  | +2  | 79  |  
+| 4  |  Ryan DunnPHX · SF/PF · CHA@PHX  | $3,900  | 6.0  | 21.2  | **43.0**  |   | +7.0  | +4  | 88  |  
+| 5  |  VJ EdgecombePHI · PG/SG · TOR@PHI  | $6,100  | 9.8  | 30.2  | **56.6**  |   | +3.0  | +4  | 84  |  
+| 6  |  Jamison BattleTOR · SF · TOR@PHI  | $4,300  | 5.8  | 20.9  | **42.7**  |   | +3.5  | +4  | 83  |  
+| 7  |  Sion JamesCHA · SF/PF · CHA@PHX  | $4,900  | 5.9  | 22.7  | **45.8**  |   | +1.8  | +8  | 81  |  
+| 8  |  Ja'Kobe WalterTOR · SG/SF · TOR@PHI  | $5,600  | 11.2  | 31.2  | **58.0**  |   | +8.4  | +2  | 80  |  
 | 9  |  Caleb MartinDAL · SG/SF · DAL@MIN  | $3,500  | 3.8  | 16.0  | **34.6**  |   | +1.8  | +4  | 78  |  
 | 10  |  Trey LylesMIN · PF/C · DAL@MIN  | $3,700  | 4.0  | 16.6  | **35.8**  |   | +1.4  | +6  | 77  |  
-| 11  |  LaMelo BallMIN · PG · DAL@MIN  | $8,200  | 20.3  | 45.6  | **78.6**  |   | +8.1  | +2  | 77  |  
-| 12  |  Collin Murray-BoylesTOR · PF/C · TOR@PHI  | $5,700  | 10.8  | 30.6  | **57.1**  |   | +6.7  | +2  | 77  |  
+| 11  |  LaMelo BallMIN · PG · DAL@MIN  | $8,200  | 20.3  | 45.6  | **78.6**  |   | +8.1  | +1  | 77  |  
+| 12  |  Collin Murray-BoylesTOR · PF/C · TOR@PHI  | $5,700  | 10.8  | 30.7  | **57.2**  |   | +6.7  | +2  | 77  |  
 | 13  |  Daniss JenkinsDET · PG/SG · DET@WAS  | $5,000  | 13.7  | 35.0  | **63.2**  |   | +18.4  | 0  | 74  |  
 | 14  |  P.J. WashingtonDAL · PF · DAL@MIN  | $6,500  | 10.3  | 30.6  | **57.2**  |   | +0.3  | +4  | 69  |  
-| 15  |  Grayson AllenCHA · SG/SF · CHA@PHX  | $5,900  | 10.1  | 29.1  | **54.9**  |   | +2.9  | +1  | 68  |  
+| 15  |  Grayson AllenCHA · SG/SF · CHA@PHX  | $5,900  | 10.1  | 29.1  | **54.9**  |   | +2.8  | +1  | 67  |  
 Show all 73 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 4 games slate · 2026-11-12.
 ## **NBA Injury Report**

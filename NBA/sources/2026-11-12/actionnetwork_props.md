@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12 | fetched: 2026-11-12 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12 | fetched: 2026-11-12 18:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -47,6 +47,19 @@ _**If you want more picks for this game, read our full[Hornets vs Suns betting p
 [Joe Dellera](https://www.actionnetwork.com/picks/profile/JoeDellera)
 Last 30d: 50-46-2 (+3.2u)
 Follow
+![CHA](https://static.sprtactn.co/teamlogos/nba/100/cha.png)
+![PHX](https://assets.actionnetwork.com/875040_Suns.png)
+Hornets @ Suns Picks
+Today
+/
+9:00 PM on WAXN
+•
+14.1k bets
+C.White o17.5 Pts+Ast
+-116 (1u)
+Copy Bet
+https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-raptors-wizards-vs-pistons-more-thursday-november-12
+More
 ![MIN](https://assets.actionnetwork.com/640928_Lynx.png)
 ![NY](https://static.sprtactn.co/teamlogos/wnba/100/nyl.png)
 Lynx @ Liberty Picks
@@ -58,19 +71,6 @@ Sep 29th
 Fiebich Double Double
 +4800 (0.05u)
 Copy Bet
-![CHA](https://static.sprtactn.co/teamlogos/nba/100/cha.png)
-![PHX](https://assets.actionnetwork.com/875040_Suns.png)
-Hornets @ Suns Picks
-Today
-/
-9:00 PM on WAXN
-•
-12.9k bets
-C.White o17.5 Pts+Ast
--116 (1u)
-Copy Bet
-https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-raptors-wizards-vs-pistons-more-thursday-november-12
-More
 See All
 * * *
 ## Mavericks vs. Timberwolves
@@ -136,7 +136,7 @@ John Collins Over 19.5 Points & Rebounds (-122)
 NBA
 [NBA Best Bets & Player Props for Raptors vs Sixers, Hornets vs Suns, More (Thursday, Nov. 12)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-raptors-wizards-vs-pistons-more-thursday-november-12)
 Action Network Staff
-2 hours ago
+3 hours ago
 [![NBA Predictions: Spreads, Totals & Prop Bets for Thursday, November 12](https://images.actionnetwork.com/blog/2026/11/MooreCard111226.jpg)](https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-thursday-november-12)
 NBA
 [NBA Predictions: Spreads, Totals & Prop Bets for Thursday, November 12](https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-thursday-november-12)
@@ -146,22 +146,22 @@ Matt Moore
 NBA
 [Raptors vs 76ers Predictions, Odds, Picks: It’s Not Always Sunny In Philadelphia](https://www.actionnetwork.com/nba/toronto-raptors-vs-philadelphia-76ers-prediction-pick-odds-nba-thursday-november-12)
 Michael Arinze
-45 mins ago
+1 hour ago
 [![Pistons vs Wizards Prediction, Pick, NBA Odds for Thursday, November 12](https://images.actionnetwork.com/blog/2026/11/Pistons-Wizards-11122026.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-washington-wizards-prediction-pick-odds-nba-thursday-november-12)
 NBA
 [Pistons vs Wizards Prediction, Pick, NBA Odds for Thursday, November 12](https://www.actionnetwork.com/nba/detroit-pistons-vs-washington-wizards-prediction-pick-odds-nba-thursday-november-12)
 Bryan Fonseca
-6 hours ago
+7 hours ago
 [![Mavericks vs Timberwolves Prediction, Pick, NBA Odds for Thursday, November 12](https://images.actionnetwork.com/blog/2026/11/Mavericks-Timberwolves-11122026.jpg)](https://www.actionnetwork.com/nba/dallas-mavericks-vs-minnesota-timberwolves-prediction-pick-odds-nba-thursday-november-12)
 NBA
 [Mavericks vs Timberwolves Prediction, Pick, NBA Odds for Thursday, November 12](https://www.actionnetwork.com/nba/dallas-mavericks-vs-minnesota-timberwolves-prediction-pick-odds-nba-thursday-november-12)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Hornets vs Suns Prediction, Pick, NBA Odds for Thursday, November 12](https://images.actionnetwork.com/blog/2026/11/Hornets-vs-Suns-11_12_26.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-phoenix-suns-prediction-pick-odds-nba-thursday-november-12)
 NBA
 [Hornets vs Suns Prediction, Pick, NBA Odds for Thursday, November 12](https://www.actionnetwork.com/nba/charlotte-hornets-vs-phoenix-suns-prediction-pick-odds-nba-thursday-november-12)
 Matt Moore
-8 hours ago
+9 hours ago
 [ PRO ![3 Sharp Over/Under Picks for NBA Thursday](https://images.actionnetwork.com/blog/2026/11/pistons-wizards-11-12-26.jpg) ](https://www.actionnetwork.com/nba/4-sharp-over-under-picks-for-nba-thursday)
 NBA
 [3 Sharp Over/Under Picks for NBA Thursday](https://www.actionnetwork.com/nba/4-sharp-over-under-picks-for-nba-thursday)
@@ -189,5 +189,5 @@ Jim Turvey
 Oct 19, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=19e84b09-5f6a-4594-b6dc-7265e815781e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09abd629-aaa9-4f9c-ae3e-2e9c80362925&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&tw_session_start=1&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=19e84b09-5f6a-4594-b6dc-7265e815781e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09abd629-aaa9-4f9c-ae3e-2e9c80362925&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&tw_session_start=1&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=780f2a81-7caf-4efc-b324-37ed1b52dbef&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09abd629-aaa9-4f9c-ae3e-2e9c80362925&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=7463&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=780f2a81-7caf-4efc-b324-37ed1b52dbef&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=09abd629-aaa9-4f9c-ae3e-2e9c80362925&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=7463&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=a077f856-0e14-4d68-9f4c-a598fc19ea74&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1feddcff-e3b1-4705-9624-c88301922599&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=a077f856-0e14-4d68-9f4c-a598fc19ea74&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1feddcff-e3b1-4705-9624-c88301922599&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=2c6a16b6-5eb9-40d1-8152-5055722575f0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1feddcff-e3b1-4705-9624-c88301922599&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=7492&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=2c6a16b6-5eb9-40d1-8152-5055722575f0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1feddcff-e3b1-4705-9624-c88301922599&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-lamelo-ball-coby-white-on-thursday-november-12&tw_engaged_ms=7492&tw_iframe_status=0&tw_pid_src=2&tw_session_count=83&tw_session_id=1794524603829-134061238&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287 | fetched: 2026-11-12 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287 | fetched: 2026-11-12 18:35 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 12
 Get the best NBA bets today, with expert picks on VJ Edgecombe and Tyrese Maxey, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate.
@@ -113,21 +113,21 @@ Miami Heat
 Diagnosed with abdominal tear
 NBA
 Golden State Warriors
-  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Marcus Smart](https://www.rotowire.com/basketball/player/marcus-smart-3575)
-Hit with three-game suspension
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Devin Vassell](https://www.rotowire.com/basketball/player/devin-vassell-5113)
+Questionable for Friday
 NBA
-Houston Rockets
-  * ![Milwaukee Bucks](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)
-Cleared for Friday
+San Antonio Spurs
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)
+Listed questionable for Friday
 NBA
-Milwaukee Bucks
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Evan Mobley](https://www.rotowire.com/basketball/player/evan-mobley-5355)
-Won't play Friday
+San Antonio Spurs
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
+Iffy for Friday
 NBA
-Cleveland Cavaliers
+Atlanta Hawks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -159,11 +159,6 @@ Detroit Lions
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
-  * ![Buffalo Sabres](https://assets.rotowire.com/images/teamlogo/hockey/100BUF.png?v=5)
-[Alex Lyon](https://www.rotowire.com/hockey/player/alex-lyon-5087)
-Ready to return
-NHL
-Buffalo Sabres
   * ![Utah Mammoth](https://assets.rotowire.com/images/teamlogo/hockey/100UTA.png?v=5)
 [Logan Cooley](https://www.rotowire.com/hockey/player/logan-cooley-6677)
 Won't play Thursday
@@ -174,16 +169,21 @@ Utah Mammoth
 Erupts for career-best five points in rout
 NHL
 Tampa Bay Lightning
-  * ![Chicago BlackHawks](https://assets.rotowire.com/images/teamlogo/hockey/100CHI.png?v=5)
-[Patrick Kane](https://www.rotowire.com/hockey/player/patrick-kane-2756)
-Off injured reserve
+  * ![Buffalo Sabres](https://assets.rotowire.com/images/teamlogo/hockey/100BUF.png?v=5)
+[Alex Lyon](https://www.rotowire.com/hockey/player/alex-lyon-5087)
+Guarding road goal
 NHL
-Chicago BlackHawks
-  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
-[Drew Doughty](https://www.rotowire.com/hockey/player/drew-doughty-2991)
-Set to play Thursday
+Buffalo Sabres
+  * ![Washington Capitals](https://assets.rotowire.com/images/teamlogo/hockey/100WSH.png?v=5)
+[Logan Thompson](https://www.rotowire.com/hockey/player/logan-thompson-6355)
+Set to start Thursday
 NHL
-Los Angeles Kings
+Washington Capitals
+  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
+[Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
+Not playing Thursday
+NHL
+Tampa Bay Lightning
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
