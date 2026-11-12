@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287 | fetched: 2026-11-12 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287 | fetched: 2026-11-12 18:50 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 12
 Get the best NBA bets today, with expert picks on VJ Edgecombe and Tyrese Maxey, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate.
@@ -47,6 +47,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
+Available Thursday
+NBA
+Philadelphia 76ers
   * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
 [Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
 Doesn't practice Thursday
@@ -67,11 +72,6 @@ Jacksonville Jaguars
 Expected to play Friday
 NBA
 Miami Heat
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[Rhamondre Stevenson](https://www.rotowire.com/football/player/rhamondre-stevenson-15372)
-Returns to practice Thursday
-NFL
-New England Patriots
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -103,6 +103,11 @@ Atlanta Braves
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
+Available Thursday
+NBA
+Philadelphia 76ers
   * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
 Expected to play Friday
@@ -113,21 +118,16 @@ Miami Heat
 Diagnosed with abdominal tear
 NBA
 Golden State Warriors
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
+Ruled out for Friday
+NBA
+Memphis Grizzlies
   * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
 [Devin Vassell](https://www.rotowire.com/basketball/player/devin-vassell-5113)
 Questionable for Friday
 NBA
 San Antonio Spurs
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)
-Listed questionable for Friday
-NBA
-San Antonio Spurs
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
-Iffy for Friday
-NBA
-Atlanta Hawks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

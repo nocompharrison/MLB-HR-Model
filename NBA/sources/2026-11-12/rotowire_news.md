@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-12 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-12 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,20 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Starting sans James](https://www.rotowire.com/basketball/headlines/dean-wade-news-starting-sans-james-538841)
+**F** Philadelphia 76ers
+November 12, 2026
+Wade [will start](https://x.com/sixers/status/2121023170081697796?a=zu8bbrEkHWqmPuER0E4&s=20) Thursday's game against the Raptors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Available Thursday](https://www.rotowire.com/basketball/headlines/joel-embiid-news-available-thursday-538840)
+**C** Philadelphia 76ers
+November 12, 2026
+Embiid (foot) will play Thursday against the Raptors, [Austin Krell of OnPattison.com](https://x.com/NBAKrell/status/2121022568207466519?a=jagMhZBZID4DZQx4lN4&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)[Will play Thursday](https://www.rotowire.com/basketball/headlines/morez-johnson-news-will-play-thursday-538839)
 **F** Dallas Mavericks
@@ -190,22 +204,6 @@ Wilson is undergoing surgery for a fractured right hand and will miss at least f
 Ankle
 November 12, 2026
 Thompson (ankle) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against the Cavaliers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-expected-to-play-friday-538815)
-**F** Miami Heat
-Wrist
-November 12, 2026
-Antetokounmpo (wrist) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against Cleveland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-iffy-for-friday-538814)
-**F** Miami Heat
-Illness
-November 12, 2026
-Larsson (illness) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_04_15PM.pdf) for Friday's game against Cleveland.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

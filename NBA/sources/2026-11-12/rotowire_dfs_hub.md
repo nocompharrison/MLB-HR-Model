@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-12 18:50 ET -->
 
 # NBA DFS Picks Today
 November 12, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Thursday, November 12 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (8) All NBA news Charlotte Hornets (CHA @ PHX) Dallas Mavericks (DAL @ MIN) Detroit Pistons (DET @ WSH) Minnesota Timberwolves (DAL @ MIN) Philadelphia 76ers (TOR @ PHI) Phoenix Suns (CHA @ PHX) Toronto Raptors (TOR @ PHI) Washington Wizards (DET @ WSH)
+Philadelphia 76ersTOR @ PHI - 7:00 PM ET
+**[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)** _F_ 6:34 PM ET
+#### Starting sans James
+Wade will start Thursday's game against the Raptors.
+Analysis
+With LeBron James (back) unavailable, Wade will return to the starting five. As a member of the first unit this season (four games), he's averaged 4.5 points, 3.5 rebounds, 3.0 assists and 3.3 combined steals-plus-blocks in 30.5 minutes per showing.
+Philadelphia 76ersTOR @ PHI - 7:00 PM ET
+**[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)** _C_ _Top_ 6:32 PM ET
+#### Available Thursday
+Embiid (foot) will play Thursday against the Raptors, Austin Krell of OnPattison.com reports.
+Analysis
+Embiid managed to make it through shootaround without issue, and he's been officially cleared to suit up after initially being added to the injury report as questionable. He's averaging 16.2 points, 9.2 rebounds and 2.4 assists in 28.6 minutes over his last five appearances.
 Dallas MavericksDAL @ MIN - 8:00 PM ET
 **[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)** _F_ 6:23 PM ET
 #### Will play Thursday
@@ -41,19 +53,7 @@ Charlotte HornetsCHA @ PHX - 9:00 PM ET
 Diabate (quadriceps) is listed as available for Thursday's game against the Suns.
 Analysis
 Diabate is returning from a two-game absence Thursday due to a quadriceps injury. Ryan Kalkbrenner is likely heading to the bench, which causes a major hit to his streaming value. Over nine games, Diabate has averaged 8.9 points, 9.1 rebounds, 2.0 assists, 1.6 steals and 0.9 blocks in 28.8 minutes per contest.
-Toronto RaptorsTOR @ PHI - 7:00 PM ET
-**[Trayce Jackson-Davis](https://www.rotowire.com/basketball/player/trayce-jackson-davis-5944)** _C_ OUT1:09 PM ET
-#### Out sick Thursday
-Jackson-Davis is out for Thursday's game against the 76ers due to an illness.
-Analysis
-Jackson-Davis is missing both ends of Toronto's back-to-back set with the ailment. Jamison Battle should handle a larger role in the frontcourt Thursday.
-Philadelphia 76ersTOR @ PHI - 7:00 PM ET
-**[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)** _F_ OUT _Top_ 1:07 PM ET
-#### Sitting out Thursday
-James (back) is out for Thursday's game against Toronto.
-Analysis
-The future Hall of Famer is getting Thursday night off for maintenace purposes. Tyrese Maxey and Jaylen Brown should do the heavy lifting offensively, while Dean Wade and Kentavious Caldwell-Pope should soak up extra minutes for the 76ers.
-Show 5 more (6 remaining)
+Show 5 more (8 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -64,7 +64,7 @@ Nov 13 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 4 games -
 Implied total vs. the slate _Lowest_ _Highest_
 **DET @ WSH**
 O/U 222.57:00 PM ET
-PistonsExpectedAway
+PistonsConfirmedAway
 _Implied_**116.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -73,7 +73,7 @@ _Implied_**116.5** _Spread_**-10.5**
 | PG  | Cade Cunningham  | $9,600  | 47.4  |  
 | SF  | Duncan Robinson  | $5,400  | 27.2  |  
 | SG  | Daniss Jenkins  | $5,000  | 35.0  |  
-WizardsExpectedHome
+WizardsConfirmedHome
 _Implied_**106.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -84,7 +84,7 @@ _Implied_**106.0** _Spread_**+10.5**
 | SG  | Kyshawn George  | $6,600  | 33.2  |  
 **TOR @ PHI**
 O/U 223.57:00 PM ET
-RaptorsExpectedAway
+RaptorsConfirmedAway
 _Implied_**108.0** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -93,7 +93,7 @@ _Implied_**108.0** _Spread_**+7.5**
 | PG  | Immanuel Quickley  | $6,800  | 34.1  |  
 | SF  | Ja'Kobe Walter  | $5,600  | 31.2  |  
 | SG  | RJ Barrett  | $8,300  | 40.1  |  
-76ersExpectedHome
+76ersConfirmedHome
 _Implied_**115.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
