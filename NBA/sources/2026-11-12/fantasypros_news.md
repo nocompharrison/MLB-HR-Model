@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-12 11:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-12 16:12 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,62 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Scottie Barnes](https://images.fantasypros.com/images/players/nba/5318/headshot/100x100.png)](https://www.fantasypros.com/nba/players/scottie-barnes.php)
+F - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/scottie-barnes.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/scottie-barnes.php)  
+[» More News](https://www.fantasypros.com/nba/news/scottie-barnes.php)
+[Scottie Barnes (groin) will not play Thursday ](https://www.fantasypros.com/nba/news/619560/scottie-barnes-groin-will-not-play-thursday.php)  
+
+Thu, Nov 12th 1:32pm EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Scottie Barnes (groin) will sit out Thursday's game in Philadelphia. (Source: [Josh Lewenberg on Twitter ](https://x.com/JLew1050/status/2120939735505944814?a=4T_cbwO5HXcTFUPV7Q8&s=19))
+**_Fantasy Impact:_** Barnes will miss a fourth straight game due to a groin injury, as the versatile All-Star has not played since November 4. Allen Graves and Jamison Battle have been playing more minutes with Barnes out.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lebron-james.php)  
+[» More News](https://www.fantasypros.com/nba/news/lebron-james.php)
+[LeBron James (back) won't play Thursday ](https://www.fantasypros.com/nba/news/619559/lebron-james-back-wont-play-thursday.php)  
+
+Thu, Nov 12th 1:26pm EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+LeBron James (back) is out for Thursday's game against the Raptors. (Source: [John Clark on Twitter ](https://x.com/JClarkNBCS/status/2120940138754973739?a=FAQzMrdKf5PZrtdQOhA&s=19))
+**_Fantasy Impact:_** James will not play Thursday due to continued management of a back issue. Dean Wade and Adem Bona could see a bit more run against the Raptors. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Stephen Curry](https://images.fantasypros.com/images/players/nba/2135/headshot/100x100.png)](https://www.fantasypros.com/nba/players/stephen-curry.php)
+G - GSW
+[» Rankings](https://www.fantasypros.com/nba/players/stephen-curry.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/stephen-curry.php)  
+[» More News](https://www.fantasypros.com/nba/news/stephen-curry.php)
+[Stephen Curry diagnosed with oblique abdominal tear ](https://www.fantasypros.com/nba/news/619539/stephen-curry-diagnosed-with-oblique-abdominal-tear.php)  
+
+Thu, Nov 12th 12:19pm EST  
+By [Nicholas Rodriguez](https://www.fantasypros.com/news/correspondents/nicholas-rodriguez.php)
+Stephen Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2120923895184359440?a=vTeMid2zc6hZoiBMMlw&s=20))
+**_Fantasy Impact:_** Curry was limited to six minutes in Wednesday's 115-108 loss to the Houston Rockets due to the injury and is expected to miss at least two weeks. His absence is a significant blow to the Golden State Warriors, as the 38-year-old is averaging 27.8 points, 3.7 rebounds and 3.9 assists per game this season. With Curry and Brandon Williams (hamstring) sidelined, Yaxel Lendeborg and Brandin Podziemski are expected to see an uptick in usage, while De'Anthony Melton, Will Richard and Gary Payton II (knee) are candidates for increased playing time.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![LJ Cryer](https://images.fantasypros.com/images/players/nba/6413/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lj-cryer.php)
+G - GSW
+[» Rankings](https://www.fantasypros.com/nba/players/lj-cryer.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lj-cryer.php)  
+[» More News](https://www.fantasypros.com/nba/news/lj-cryer.php)
+[LJ Cryer scores 13 points in loss to Houston ](https://www.fantasypros.com/nba/news/619534/lj-cryer-scores-13-points-loss-to-houston.php)  
+
+Thu, Nov 12th 11:43am EST  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+LJ Cryer scored 13 points (4-9 FG, 3-8 3P, 2-2 FT) with a rebound and an assist in the Warriors’ 115-108 loss to the Rockets.
+**_Fantasy Impact:_** Cryer now has back to back game with 10 or more points, and has seen his playing time rise dramatically. If the trend continues he could find himself usable as a low end start for fantasy. However, his floor is basement level, as he has often been held to just a couple minutes of play, so don’t go looking to add him yet.
+Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Brice Sensabaugh](https://images.fantasypros.com/images/players/nba/5974/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brice-sensabaugh.php)
 F - UTH
 [» Rankings](https://www.fantasypros.com/nba/players/brice-sensabaugh.php)  
@@ -231,62 +287,6 @@ Damian Lillard scored 18 points (5-14 FG, 2-10 3PT, 6-6 FT) to go along with thr
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Deni Avdija](https://images.fantasypros.com/images/players/nba/5084/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deni-avdija.php)
-F - POR
-[» Rankings](https://www.fantasypros.com/nba/players/deni-avdija.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deni-avdija.php)  
-[» More News](https://www.fantasypros.com/nba/news/deni-avdija.php)
-[Deni Avdija drops 28 points Wednesday ](https://www.fantasypros.com/nba/news/619445/deni-avdija-drops-28-points-wednesday.php)  
-
-Thu, Nov 12th 2:00am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Deni Avdija scored 28 points (9-20 FG, 4-13 3PT, 6-6 FT) to go along with three rebounds, six assists, four steals and two blocks in the Trail Blazers 118-108 win over the Thunder. 
-**_Fantasy Impact:_** Avdija posted back-to-back productive performances against Oklahoma City. He remains the consistent producer for fantasy managers in Portland. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Aday Mara](https://images.fantasypros.com/images/players/nba/6523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aday-mara.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/aday-mara.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/aday-mara.php)  
-[» More News](https://www.fantasypros.com/nba/news/aday-mara.php)
-[Aday Mara plays 32 minutes Wednesday ](https://www.fantasypros.com/nba/news/619444/aday-mara-plays-32-minutes-wednesday.php)  
-
-Thu, Nov 12th 1:57am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Aday Mara scored 11 points (4-8 FG, 3-4 FT) to go along with six rebounds, two assists and one block in the 118-108 loss for the Thunder against the Trail Blazers. 
-**_Fantasy Impact:_** Mara exceeded 30 minutes on the court for the first time in his career. It is a step in the right direction, but his production has remained limited. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Isaiah Hartenstein](https://images.fantasypros.com/images/players/nba/3333/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/isaiah-hartenstein.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/isaiah-hartenstein.php)  
-[» More News](https://www.fantasypros.com/nba/news/isaiah-hartenstein.php)
-[Isaiah Hartenstein logs double-double Wednesday ](https://www.fantasypros.com/nba/news/619443/isaiah-hartenstein-logs-double-double-wednesday.php)  
-
-Thu, Nov 12th 1:55am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Isaiah Hartenstein scored 20 points (10-14 FG) to go along with 11 rebounds, six assists and two steals in the 118-108 loss for the Thunder against the Trail Blazers. 
-**_Fantasy Impact:_** Hartenstein recorded his season-high in points and his first double-double in November. The lone knock on the night for him were the six turnovers he committed. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/luka-doncic.php)  
-[» More News](https://www.fantasypros.com/nba/news/luka-doncic.php)
-[Luka Doncic tweaks ankle Wednesday ](https://www.fantasypros.com/nba/news/619442/luka-doncic-tweaks-ankle-wednesday.php)  
-
-Wed, Nov 11th 11:02pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Luka Doncic tweaked his ankle in Wednesday's game against the Bucks. (Source: [Lakers Nation on Twitter](https://x.com/LakersNation/status/2120724896183677104))
-**_Fantasy Impact:_** Lakers coach JJ Redick said he believes Doncic will be fine. They don't play next till Sunday against the Suns. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=486_1794499245808&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszY0Mzo1oAomkZNQ%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6597969b9f98969b9e969f66uokewi0e0y62606g6o64606g6m606o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=469_1794517617217&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszY0Mzo1oAomkZNQ%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6597969b9f98969b9e969f66uokewi0e0y62606g6o64606g6m606o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
