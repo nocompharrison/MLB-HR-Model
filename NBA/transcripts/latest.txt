@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-12 | updated 2026-11-12 18:36 ET
+# NBA transcripts | 2026-11-12 | updated 2026-11-12 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 16 files in NBA/transcripts/2026-11-12:
 NBA/transcripts/2026-11-12/-9AUokMSMkw_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
