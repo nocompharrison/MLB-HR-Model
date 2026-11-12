@@ -1,54 +1,58 @@
-# NBA transcripts | 2026-11-12 | updated 2026-11-12 11:10 ET
+# NBA transcripts | 2026-11-12 | updated 2026-11-12 16:16 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 7 files in NBA/transcripts/2026-11-12:
+# 16 files in NBA/transcripts/2026-11-12:
+NBA/transcripts/2026-11-12/-9AUokMSMkw_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
 NBA/transcripts/2026-11-12/4sZAyX55V8Y_PickDawgz_NBA_Alternate_Line_Prediction_11_12_26_The_Extendo_Clip.txt
+NBA/transcripts/2026-11-12/CGfuI6o2XsA_Stokastic_NBA_DFS_Strategy_Thursday_11_12_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
+NBA/transcripts/2026-11-12/OgT330l1SNM_LockedOnNBA_These_NBA_Teams_NEED_to_Make_Changes.txt
 NBA/transcripts/2026-11-12/QwSx7eu65dM_PickDawgz_NBA_Picks_Today_11_12_26_Best_Thursday_NBA_Bets_are_ON_DECK.txt
+NBA/transcripts/2026-11-12/XhULqLY4NRA_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Thursday_Buckets_Podcast.txt
 NBA/transcripts/2026-11-12/YS3G4G_JIzo_CallingOurShot_Thursday_s_NBA_Best_Picks_and_Predictions_for_November_12th.txt
+NBA/transcripts/2026-11-12/aiBlaX7JNXs_WagerTalk_BEST_NBA_Picks_TODAY_Mavericks_vs_Timberwolves_Hornets_vs_Suns_Thursda.txt
+NBA/transcripts/2026-11-12/gbGqrzXl2_M_PickDawgz_NBA_Picks_Thursday_11_12_26_Jay_s_NBA_Jam_Session.txt
 NBA/transcripts/2026-11-12/iIfPqE5FmsE_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_12th.txt
 NBA/transcripts/2026-11-12/kK0cZ1cYYyQ_NBAGamblingPod_NBA_Thursday_Picks_11_12_26_NBA_Bets_Player_Props_and_Predictions.txt
+NBA/transcripts/2026-11-12/lolWfZdnXhY_WagerTalk_NBA_BEST_Bets_Player_Props_TODAY_THURSDAY_NBA_Betting_Preview.txt
+NBA/transcripts/2026-11-12/nBflmI7ii8w_WagerTalk_NBA_Picks_Today_Thursday_Best_Bets_Odds_Betting_Preview_Profit_Picks_1.txt
+NBA/transcripts/2026-11-12/na3jVPy31nE_SlopRules_3_Best_NBA_Plays_for_November_12_1977.txt
 NBA/transcripts/2026-11-12/toE9DrzDF9o_FantasyAces_5_0_Sweep_Best_NBA_Picks_Bets_for_Thursday_11_12.txt
 NBA/transcripts/2026-11-12/uwMNh9xzbHg_LockedOnNBA_How_the_Portland_Trail_Blazers_Proved_They_re_Real_James_Harden_Finall.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-11-10, NBA/transcripts/2026-11-11
 
 # this run:
-NOCAPS  ActionNetwork XhULqLY4NRA Top NBA Sides, Totals & Player Props for Thursday! | Buckets  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-11-12/XhULqLY4NRA_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Thursday_Buckets_Podcast.txt  (5,859 words, via Groq)
+UPCOMING ActionNetwork ezQN0HDoC-k Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 11/12/26 11:00PM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
+DEFER   WagerTalk cpQip2NRHJw NBA Picks TONIGHT! Raptors vs 76ers | Pistons vs Wizards | T  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   WagerTalk 4ehQWVhgnWQ NBA Picks Today: Wednesday's 10-Game Slate & Best Bets | Pro  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk 0TaKi5DdBEU WEDNESDAY NBA BEST Bets! Cavs vs Knicks | Wizards vs Pacers   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk 7psG0Fgcqjg BEST NBA Picks TODAY! Cavaliers vs Knicks + Warriors vs Rock  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk yyXNgiyJYwg NBA Picks & Player Props TODAY! EVERY GAME ON THE BOARD For   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk v9RsHcLBWNQ BEST NBA Picks TODAY! Warriors vs Rockets + Thunder vs Trail  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk iGuj2AticvU THREE NBA Best Bets TODAY! Cavaliers vs Knicks + Warriors vs  (still rate-limited after a new IP - will retry next run)
-NEW     NBA/transcripts/2026-11-10/ocRVXWNHx-U_WagerTalk_NBA_Picks_Today_6_Games_Best_Bets_Betting_Angles_Profit_Picks_11_10.txt  (4,879 words)
-NEW     NBA/transcripts/2026-11-11/LQh6gqX7ygI_WagerTalk_NBA_Picks_Today_Wednesday_s_10_Game_Slate_Best_Bets_Profit_Picks_11_11.txt  (7,077 words)
-NEW     NBA/transcripts/2026-11-11/Qu1wYumEAP8_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_11_11_26.txt  (15,936 words)
+DEFER   WagerTalk bkNz0yz8k4E NBA Picks Today: Thursday Best Bets, Odds & Betting Preview   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     NBA/transcripts/2026-11-12/nBflmI7ii8w_WagerTalk_NBA_Picks_Today_Thursday_Best_Bets_Odds_Betting_Preview_Profit_Picks_1.txt  (3,503 words, via Groq)
+NEW     NBA/transcripts/2026-11-12/aiBlaX7JNXs_WagerTalk_BEST_NBA_Picks_TODAY_Mavericks_vs_Timberwolves_Hornets_vs_Suns_Thursda.txt  (1,932 words)
+NEW     NBA/transcripts/2026-11-12/lolWfZdnXhY_WagerTalk_NBA_BEST_Bets_Player_Props_TODAY_THURSDAY_NBA_Betting_Preview.txt  (1,624 words)
+UPCOMING RotoGrinders TDnlZsR1aAw NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/13/2  (not aired yet - scheduled for 11/13/26 5:40PM)
 UPCOMING RotoGrinders Pk3E938mR_c NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/14/2  (not aired yet - scheduled for 11/14/26 5:45PM)
 UPCOMING RotoGrinders WGSbQ6TrWgE NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/12/2  (not aired yet - scheduled for 11/12/26 6:00PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-11/TlwmjmyMh2s_DFSArmy_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt  (8,674 words)
+NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-11/BB17AwdVwNA_Stokastic_NBA_DFS_Live_Before_Lock_Wednesday_11_11_26_DraftKings_FanDuel_NBA_Lin.txt  (8,640 words)
+NEW     NBA/transcripts/2026-11-12/CGfuI6o2XsA_Stokastic_NBA_DFS_Strategy_Thursday_11_12_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt  (4,386 words)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-12/uwMNh9xzbHg_LockedOnNBA_How_the_Portland_Trail_Blazers_Proved_They_re_Real_James_Harden_Finall.txt  (7,110 words)
+NEW     NBA/transcripts/2026-11-12/OgT330l1SNM_LockedOnNBA_These_NBA_Teams_NEED_to_Make_Changes.txt  (6,968 words)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod bD3Ft5NyRwU NBA Friday Picks - 11/13/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/12/26 9:05PM)
-NEW     NBA/transcripts/2026-11-12/YS3G4G_JIzo_CallingOurShot_Thursday_s_NBA_Best_Picks_and_Predictions_for_November_12th.txt  (2,836 words)
-UPCOMING JayMoney Gd1wfWirbO4 Thursday NBA Talk With Jay Money & The Shark 11/13/26 Free N  (not aired yet - scheduled for 11/12/26 1:00PM)
-NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NOCAPS  JayMoney Gd1wfWirbO4 Thursday NBA Talk With Jay Money & The Shark 11/13/26 Free N  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.7h ago))
+UPCOMING LandYourBets YvCqEDBSCbo Thursday NBA Live Show 🔴 Best Bets Today November 12 | Land   (not aired yet - scheduled for 11/12/26 5:30PM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NOCAPS  SportsLine -9AUokMSMkw Thursday Night Football Picks + NBA Bets | Early Edge  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING SportsLine 2BHLP783RAw College Football Bets + NBA Picks  Soccer | Early Edge  (not aired yet - scheduled for 11/13/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NONE    channel SlopRules: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-12/na3jVPy31nE_SlopRules_3_Best_NBA_Plays_for_November_12_1977.txt  (3,933 words)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 UPCOMING FantasyAlarm xWfhFwwhJFE NBA DFS Picks Today 11/12 | DraftKings Lineup Strategy & Top  (not aired yet - scheduled for 11/12/26 5:00PM)
-NEW     NBA/transcripts/2026-11-12/iIfPqE5FmsE_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_12th.txt  (4,297 words)
-NEW     NBA/transcripts/2026-11-12/toE9DrzDF9o_FantasyAces_5_0_Sweep_Best_NBA_Picks_Bets_for_Thursday_11_12.txt  (4,830 words)
-DEFER   PickDawgz EDxc3m5Lis8 MAVERICKS VS T WOLVES 11/12/26 FREE NBA PICK & PREDICTION |   (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NBA/transcripts/2026-11-12/4sZAyX55V8Y_PickDawgz_NBA_Alternate_Line_Prediction_11_12_26_The_Extendo_Clip.txt  (1,345 words)
-NEW     NBA/transcripts/2026-11-12/QwSx7eu65dM_PickDawgz_NBA_Picks_Today_11_12_26_Best_Thursday_NBA_Bets_are_ON_DECK.txt  (1,940 words)
+NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-12/gbGqrzXl2_M_PickDawgz_NBA_Picks_Thursday_11_12_26_Jay_s_NBA_Jam_Session.txt  (2,454 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-12/kK0cZ1cYYyQ_NBAGamblingPod_NBA_Thursday_Picks_11_12_26_NBA_Bets_Player_Props_and_Predictions.txt  (5,280 words, via Groq)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NEW     NBA/transcripts/2026-11-12/-9AUokMSMkw_SportsLine_Thursday_Night_Football_Picks_NBA_Bets_Early_Edge.txt  (8,109 words, via Groq)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
