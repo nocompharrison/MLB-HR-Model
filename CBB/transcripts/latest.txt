@@ -1,4 +1,4 @@
-# CBB transcripts | 2026-11-12 | updated 2026-11-12 11:21 ET
+# CBB transcripts | 2026-11-12 | updated 2026-11-12 17:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 8 files in CBB/transcripts/2026-11-12:
 CBB/transcripts/2026-11-12/1xQixKooNW0_PickDawgz_College_Basketball_Picks_for_Today_11_12_26_Thursday_Best_College_Bask.txt
@@ -9,36 +9,25 @@ CBB/transcripts/2026-11-12/_NDCfIdqtBw_FieldOf68_Florida_is_CLEARLY_the_No_1_tea
 CBB/transcripts/2026-11-12/_as15d3OWs4_FieldOf68_Here_s_why_I_m_NOT_worried_at_ALL_about_Illinois_David_Mirkovic_s_ret.txt
 CBB/transcripts/2026-11-12/ePzxBlfG9iM_FieldOf68_I_m_completely_BAFFLED_by_Kentucky_s_plan_on_BOTH_sides_of_the_ball_A.txt
 CBB/transcripts/2026-11-12/f2VVAQ-Am3c_TCE_College_Basketball_Best_Bets_For_November_12th_Spread_Moneyline_Bettin.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-11
 
 # this run:
 NOCAPS  LockedOnCBB K2xnOETaAjU Elliot Cadeau SHINES as Michigan Beats Marquette | Nigel Jam  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-11/5N3DXBcYewA_CBSCollegeBB_Navy_vs_Pennsylvania_College_Basketball_Highlights_Condensed_Game.txt  (1,896 words)
-NEW     CBB/transcripts/2026-11-11/XF1tzjcE54g_CBSCollegeBB_South_Florida_vs_Saint_Joseph_s_College_Basketball_Highlights_Condense.txt  (2,375 words)
+DEFER   CBSCollegeBB fLdp-nSVnUA TCU closes in on Robbie Avila, Michigan's best game of the s  (YouTube rate limit - stopping transcript pulls this run)
 DEFER   FieldOf68 6E-QHqO9kn8 The most ALARMING part of Duke's loss! | 'When they got punc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 yMif0xSxcTA 'What's happened to Nigel James Jr??' | Marquette falls at M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 wSWyADy0np4 EXCLUSIVE: JP Estrella joins the show after Michigan's BIG w  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 n8fZeNaIy40 EXCLUSIVE: Jeremy Fears Jr and Jordan Scott on Michigan Stat  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 -FIyhpg8UXs EXCLUSIVE: Tom Izzo on Michigan State's HUGE win over Duke:   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 vTkC3tx0z7I Michigan's BIG second half over Marquette! Plus, a look back  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-12/_NDCfIdqtBw_FieldOf68_Florida_is_CLEARLY_the_No_1_team_in_the_country_and_no_one_else_is_CL.txt  (1,230 words)
-NEW     CBB/transcripts/2026-11-12/_as15d3OWs4_FieldOf68_Here_s_why_I_m_NOT_worried_at_ALL_about_Illinois_David_Mirkovic_s_ret.txt  (1,234 words)
-NEW     CBB/transcripts/2026-11-12/ePzxBlfG9iM_FieldOf68_I_m_completely_BAFFLED_by_Kentucky_s_plan_on_BOTH_sides_of_the_ball_A.txt  (1,917 words)
+DEFER   FieldOf68 tktr8DQ2ebM A-10 INSIDER: Duquesne's Kerem Konan on his clutch finish vs  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 pltgbI_uD3E ACC INSIDER: VT's Ben Hammond on His 32-point OT Win Over Io  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 vTkC3tx0z7I Michigan's BIG second half over Marquette! Plus, a look back  (YouTube rate limit hit earlier this run)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-12/f2VVAQ-Am3c_TCE_College_Basketball_Best_Bets_For_November_12th_Spread_Moneyline_Bettin.txt  (1,282 words)
-NEW     CBB/transcripts/2026-11-12/Zg1HzgFTq4s_TCE_College_Basketball_PICKS_ONLY_Thursday_November_12th_TCE_Trims.txt  (2,257 words)
-NOCAPS  TCE LgbfuNWu4iw College Basketball Picks For November 12th - NCAA Basketball  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   TCE LgbfuNWu4iw College Basketball Picks For November 12th - NCAA Basketball  (YouTube rate limit hit earlier this run)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-12/OUfgxwbUAAQ_WagerTalk_College_Basketball_Picks_TODAY_Tenn_Tech_vs_Indiana_Montana_State_vs_B.txt  (1,481 words)
-NEW     CBB/transcripts/2026-11-11/vR5V0e09uF0_WagerTalk_College_Basketball_Picks_Today_Tuesday_s_Best_Bets_CBB_Odds_Full_Court.txt  (11,786 words)
-NEW     CBB/transcripts/2026-11-11/A1FTSgwq0qw_WagerTalk_College_Basketball_Picks_Today_Wednesday_s_Best_Bets_CBB_Odds_Full_Cou.txt  (11,771 words)
-NOCAPS  WagerTalk 3YIjcDLwFV4 College Basketball Picks Today: Thursday's CBB Best Bets | F  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  WagerTalk pudeKEMZyTs College Basketball Picks Today: Thursday's CBB Best Bets | F  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   WagerTalk 3YIjcDLwFV4 College Basketball Picks Today: Thursday's CBB Best Bets | F  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk J1yk04Nz1vU College Basketball Picks TODAY! Tenn Tech vs Indiana + Monta  (YouTube rate limit hit earlier this run)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-12/1xQixKooNW0_PickDawgz_College_Basketball_Picks_for_Today_11_12_26_Thursday_Best_College_Bask.txt  (3,152 words)
-NEW     CBB/transcripts/2026-11-12/Uawd1lWwIbs_PickDawgz_College_Basketball_Picks_Predictions_Today_11_12_26_Ron_s_Bank_Shot_Br.txt  (1,948 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -46,5 +35,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
