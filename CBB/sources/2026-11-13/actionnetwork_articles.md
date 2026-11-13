@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-13 11:17 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-13 17:03 ET -->
 
 
 ---
@@ -139,35 +139,35 @@ Xavier vs. Mississippi State
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 Kyle Hunter
-1 hour ago
-[![North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+7 hours ago
+[![North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
-[North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 Sean Paul
-6 hours ago
+51 mins ago
 [![Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/capel111326.jpg)](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 Action Network Staff
-1 hour ago
+6 hours ago
 [![Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Northern-Iowa-vs-Michigan-State-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+10 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=b3e1b6b5-cff2-40e6-a733-bd55c18a738a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b40bdfcb-8866-477a-8cab-31fe3da48058&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=b3e1b6b5-cff2-40e6-a733-bd55c18a738a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b40bdfcb-8866-477a-8cab-31fe3da48058&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=a31101bf-1db7-4002-87a4-6c6d8c8d655e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b40bdfcb-8866-477a-8cab-31fe3da48058&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=7724&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=a31101bf-1db7-4002-87a4-6c6d8c8d655e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b40bdfcb-8866-477a-8cab-31fe3da48058&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=7724&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b841ace3-32c9-40f6-89de-7054bb0d6af2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6f707e3f-345c-483a-82c3-3532996afbd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b841ace3-32c9-40f6-89de-7054bb0d6af2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6f707e3f-345c-483a-82c3-3532996afbd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ab7499a3-128a-4aff-bea9-981ece5b7352&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6f707e3f-345c-483a-82c3-3532996afbd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=7749&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ab7499a3-128a-4aff-bea9-981ece5b7352&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6f707e3f-345c-483a-82c3-3532996afbd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-friday-november-13&tw_engaged_ms=7749&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -260,35 +260,35 @@ Xavier vs Mississippi State
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-13)
 Action Network Staff
-3 hours ago
-[![North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+8 hours ago
+[![North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
-[North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 Sean Paul
-6 hours ago
+51 mins ago
 [![Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/capel111326.jpg)](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 Action Network Staff
-1 hour ago
+6 hours ago
 [![Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Northern-Iowa-vs-Michigan-State-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+10 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7cdfbb2d-71e6-4def-ac65-b65826422c8c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ac7a0349-4862-4640-8e53-7e5604ec5ae1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=7cdfbb2d-71e6-4def-ac65-b65826422c8c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ac7a0349-4862-4640-8e53-7e5604ec5ae1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=bf975175-f93b-4748-9d4c-8b52311de80c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ac7a0349-4862-4640-8e53-7e5604ec5ae1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=bf975175-f93b-4748-9d4c-8b52311de80c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ac7a0349-4862-4640-8e53-7e5604ec5ae1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5af6844a-25c4-4a87-bca4-5191ab52be4a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=984a7ffa-51eb-4ce6-b0c6-9092ad5a1ac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5af6844a-25c4-4a87-bca4-5191ab52be4a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=984a7ffa-51eb-4ce6-b0c6-9092ad5a1ac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d0689105-6b26-4560-8c02-44327d95bfd8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=984a7ffa-51eb-4ce6-b0c6-9092ad5a1ac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=7705&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d0689105-6b26-4560-8c02-44327d95bfd8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=984a7ffa-51eb-4ce6-b0c6-9092ad5a1ac0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-target-friday-november-13&tw_engaged_ms=7705&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -297,44 +297,44 @@ Jonathan Jorcin
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13
+# North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 [Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
 Staff Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 13, 2026, 05:01 AM EST
+Nov 13, 2026, 04:14 PM EST
 Updated:
-Nov 13, 2026, 05:01 AM EST
+Nov 13, 2026, 04:14 PM EST
 Credit:
 Mar 13, 2026; Charlotte, NC, USA; Miami Hurricanes forward Shelton Henderson (7) brings the ball up court against the Virginia Cavaliers during the second half at Spectrum Center. Mandatory Credit: Jim Dedmon-Imagn Images
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The [North Alabama](https://www.actionnetwork.com/ncaab/odds/north-alabama-lions) Lions take on the [Miami](https://www.actionnetwork.com/ncaab/odds/miami-fl-hurricanes) Hurricanes in Coral Gables, FL. Tip-off is set for 5 p.m. ET on ACC Network.
-Miami is favored by 33.5 points on the spread, and the total is set at 148.5 points.
+Miami is favored by 32.5 points on the spread, and the total is set at 152.5 points.
 Here’s my **North Alabama vs. Miami prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 13, 2026.
 * * *
 ## North Alabama vs Miami Prediction
 **Pick:[ Miami -33.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3196774214&context=playbook-slack-quickslip&sport=basketball)**
 My**North Alabama vs Miami best bet** is on the Hurricanes to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## North Alabama vs Miami Odds
+## North Alabama vs Miami Odds, Spread
 [![North Alabama Logo](https://assets.actionnetwork.com/918171_nalabama.png)](https://www.actionnetwork.com/ncaab/odds/north-alabama-lions)
 Friday, Nov 13
 5 p.m. ET
 ACC Network
-[![Miami Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mfl.png)](https://www.actionnetwork.com/ncaab/odds/miami-fl-hurricanes)  
+[![Miami \(FL\) Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mfl.png)](https://www.actionnetwork.com/ncaab/odds/miami-fl-hurricanes)  
 | North Alabama Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +33.5 -110  |  148.5 -108o / -112u  | OFF  |  
-| Miami Odds |  
+|  +32.5 -110  |  152.5 -105o / -115u  |   |  
+| Miami (FL) Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -33.5 -110  |  148.5 -108o / -112u  | OFF  |  
+|  -32.5 -110  |  152.5 -105o / -115u  |   |  
 Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **North Alabama vs Miami spread:** North Alabama +33.5 (-110), Miami -33.5 (-110)
-  * **North Alabama vs Miami over/under:** 148.5 (-108o / -112u)
+  * **North Alabama vs Miami spread:** North Alabama +32.5 (-110), Miami -32.5 (-110)
+  * **North Alabama vs Miami over/under:** 152.5 (-105o / -115u)
 
 
 * * *
@@ -359,7 +359,7 @@ Today
 /
 8:00 PM on Peacock/NBCSN
 •
-2.6k bets
+6.2k bets
 UVA -5.5
 -115 (1u)
 Copy Bet
@@ -370,7 +370,7 @@ Today
 /
 6:00 PM on ESPNU
 •
-2.4k bets
+5.5k bets
 GTWN +4.5
 -109 (1u)
 ![DK AZ](https://assets.actionnetwork.com/603379_Primary.png)
@@ -407,7 +407,7 @@ Tipoff Time:
 TV/Streaming:
 ACC Network
 North Alabama vs Miami (FL) is scheduled for 5:00 PM EST live from Watsco Center on Friday. The game will be broadcast on ACC Network.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)[](https://twitter.com/intent/tweet?text=North%20Alabama%20vs%20Miami%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Friday%2C%20Nov.%2013&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)[](https://twitter.com/intent/tweet?text=North%20Alabama%20vs%20Miami%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Friday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 About the Author
 Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
@@ -417,7 +417,7 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 North Alabama vs Miami Prediction
 Right Arrow
-North Alabama vs Miami Odds
+North Alabama vs Miami Odds, Spread
 Right Arrow
 North Alabama vs Miami College Basketball Preview
 Right Arrow
@@ -433,35 +433,35 @@ How To Watch North Alabama vs Miami (FL)
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-13)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://images.actionnetwork.com/blog/2026/11/uconn111326.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 Kyle Hunter
-1 hour ago
+7 hours ago
 [![Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/capel111326.jpg)](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 Action Network Staff
-1 hour ago
+6 hours ago
 [![Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Northern-Iowa-vs-Michigan-State-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+10 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=a90c5ad7-f25a-4e2f-8ec0-b180c7a53ecc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c7a9d57d-3580-4757-87a5-a580ddda1f78&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=a90c5ad7-f25a-4e2f-8ec0-b180c7a53ecc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c7a9d57d-3580-4757-87a5-a580ddda1f78&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=cd04cbfc-c8ba-48a8-b359-8f0713bfb7e5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c7a9d57d-3580-4757-87a5-a580ddda1f78&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7728&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=cd04cbfc-c8ba-48a8-b359-8f0713bfb7e5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c7a9d57d-3580-4757-87a5-a580ddda1f78&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7728&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=91e4551b-a114-4a64-b8e2-3d0567be0ad6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6075d6ec-a964-43c7-92f1-fdce94a78d50&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=91e4551b-a114-4a64-b8e2-3d0567be0ad6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6075d6ec-a964-43c7-92f1-fdce94a78d50&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4ae935c8-77cb-4b6a-b575-3093e4de87d2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6075d6ec-a964-43c7-92f1-fdce94a78d50&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7649&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4ae935c8-77cb-4b6a-b575-3093e4de87d2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6075d6ec-a964-43c7-92f1-fdce94a78d50&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorth-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7649&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -537,7 +537,7 @@ Today
 /
 9:00 PM on FOX
 •
-13.8k bets
+23.5k bets
 UCLA -6.5 (1H)
 -115 (1.15u)
 Copy Bet
@@ -549,7 +549,7 @@ Nov 14th
 /
 7:30 PM on ABC
 •
-12.2k bets
+15.3k bets
 LSU -3
 -110 (1.1u)
 Copy Bet
@@ -618,35 +618,35 @@ How To Watch Georgetown vs Clemson
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-13)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://images.actionnetwork.com/blog/2026/11/uconn111326.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 Kyle Hunter
-1 hour ago
-[![North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+7 hours ago
+[![North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
-[North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 Sean Paul
-6 hours ago
+51 mins ago
 [![Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/capel111326.jpg)](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 Action Network Staff
-1 hour ago
+6 hours ago
 [![Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Northern-Iowa-vs-Michigan-State-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+10 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=3501296c-ba5f-45d0-ad43-a9497764d460&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a8ef190a-c807-4e31-a577-c9a63afd8ab4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=3501296c-ba5f-45d0-ad43-a9497764d460&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a8ef190a-c807-4e31-a577-c9a63afd8ab4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=bb20ddc1-4a21-4fe2-986f-daa178318fb7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a8ef190a-c807-4e31-a577-c9a63afd8ab4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7730&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=bb20ddc1-4a21-4fe2-986f-daa178318fb7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a8ef190a-c807-4e31-a577-c9a63afd8ab4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7730&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8ad0695a-6ff5-4d82-bba8-cd0772bd5166&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1679d673-f90f-487f-896f-8a182331775f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8ad0695a-6ff5-4d82-bba8-cd0772bd5166&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1679d673-f90f-487f-896f-8a182331775f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=20dc578a-4014-4e5d-9580-1ac4b73cca8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1679d673-f90f-487f-896f-8a182331775f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7669&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=20dc578a-4014-4e5d-9580-1ac4b73cca8b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1679d673-f90f-487f-896f-8a182331775f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7669&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -762,35 +762,35 @@ How To Watch Pittsburgh vs Butler
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-13)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://images.actionnetwork.com/blog/2026/11/uconn111326.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 Kyle Hunter
-1 hour ago
-[![North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+7 hours ago
+[![North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
-[North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 Sean Paul
-6 hours ago
+52 mins ago
 [![Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Northern-Iowa-vs-Michigan-State-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Northern Iowa vs Michigan State Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/northern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+10 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=b6a920f0-946b-4b57-8f33-fe2c5c8156c4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3c71854-e14f-4b23-a4c6-5f24feb35c00&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=b6a920f0-946b-4b57-8f33-fe2c5c8156c4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3c71854-e14f-4b23-a4c6-5f24feb35c00&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=1ef16cbf-0106-4330-8f4a-96e2fedf80f6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3c71854-e14f-4b23-a4c6-5f24feb35c00&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7736&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=1ef16cbf-0106-4330-8f4a-96e2fedf80f6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c3c71854-e14f-4b23-a4c6-5f24feb35c00&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7736&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a9640e01-2d0e-4155-90bc-3315e1067de9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16020a49-48a7-408b-b904-c807f8403dd1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a9640e01-2d0e-4155-90bc-3315e1067de9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16020a49-48a7-408b-b904-c807f8403dd1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=7d20aaf5-59e0-440b-b5a6-82ef73da8404&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16020a49-48a7-408b-b904-c807f8403dd1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7677&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=7d20aaf5-59e0-440b-b5a6-82ef73da8404&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=16020a49-48a7-408b-b904-c807f8403dd1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fpitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7677&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -907,33 +907,33 @@ How To Watch N. Iowa vs Michigan St
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-friday-november-13)
 Action Network Staff
-3 hours ago
+8 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://images.actionnetwork.com/blog/2026/11/uconn111326.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Friday, November 13](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-target-friday-november-13)
 Kyle Hunter
-1 hour ago
-[![North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+7 hours ago
+[![North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://images.actionnetwork.com/blog/2026/11/sheltyh.jpg)](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
-[North Alabama vs Miami Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
+[North Alabama vs Miami Predictions, Start Time, Odds: NCAAB Picks for Friday](https://www.actionnetwork.com/ncaab/north-alabama-lions-vs-miami-hurricanes-prediction-pick-odds-college-basketball-friday-november-13)
 Sean Paul
-6 hours ago
+52 mins ago
 [![Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgetown vs Clemson Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-clemson-tigers-prediction-pick-odds-college-basketball-friday-november-13)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/capel111326.jpg)](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Pitt vs Butler Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/pitt-panthers-vs-butler-bulldogs-prediction-pick-odds-college-basketball-friday-november-13)
 Action Network Staff
-1 hour ago
+6 hours ago
 [![Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-UNC-11.13.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 NCAAB
 [Georgia vs UNC Prediction, Pick, College Basketball Odds for Friday, Nov. 13](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-unc-tar-heels-prediction-pick-odds-college-basketball-friday-november-13)
 Jonathan Jorcin
-4 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=864788b0-7341-4562-bb1f-a92bda0eadda&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b5956e4-cb47-4ef6-baf2-2c789ff57f8c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=3&event=%7B%7D&event_id=864788b0-7341-4562-bb1f-a92bda0eadda&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b5956e4-cb47-4ef6-baf2-2c789ff57f8c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=f8e46ce0-e172-47a5-b956-7d4bb42d41eb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b5956e4-cb47-4ef6-baf2-2c789ff57f8c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7749&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%2610%26na%261&eci=2&event_id=f8e46ce0-e172-47a5-b956-7d4bb42d41eb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b5956e4-cb47-4ef6-baf2-2c789ff57f8c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7749&tw_iframe_status=0&tw_pid_src=2&tw_session_count=84&tw_session_id=1794585811992-695801206&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a4936e0f-dac3-4fe0-b00f-c3c6c7691041&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e0305e5-c05e-4cb5-8c2c-87fc50626ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a4936e0f-dac3-4fe0-b00f-c3c6c7691041&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e0305e5-c05e-4cb5-8c2c-87fc50626ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f833b4a9-e90b-456b-b033-5a2c02f06a2f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e0305e5-c05e-4cb5-8c2c-87fc50626ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7741&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f833b4a9-e90b-456b-b033-5a2c02f06a2f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e0305e5-c05e-4cb5-8c2c-87fc50626ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnorthern-iowa-panthers-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-friday-november-13&tw_engaged_ms=7741&tw_iframe_status=0&tw_pid_src=2&tw_session_count=86&tw_session_id=1794607270711-554043876&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

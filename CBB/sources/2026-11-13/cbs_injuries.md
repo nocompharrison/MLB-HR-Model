@@ -1,4 +1,4 @@
-<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-13 11:17 ET -->
+<!-- source: https://www.cbssports.com/college-basketball/injuries/ | fetched: 2026-11-13 17:03 ET -->
 
 Title: COLLEGEBASKETBALL Injury Report and Status 2026-27
 
@@ -607,17 +607,13 @@ Games You May Like
 
 [Play Now](https://www.cbssports.com/fantasy/games/football/)
 
-    *   [![Image 197: Football Pick'em](https://sportshub.cbsistatic.com/i/2024/07/24/18601814-a8fb-4e01-becf-20a84735af93/football-pickem-logo-2.jpg?crop=1:1&width=96&format=webp)](https://picks.cbssports.com/football/lobby)
-    *   [![Image 198: Fantasy Football](https://sportshub.cbsistatic.com/i/2024/08/02/37d45d84-3e6c-4bef-ae3c-e3a7ec249748/ff-logo-200x200-2.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/fantasy/games/football/)
-    *   [![Image 199: UFC Pickem](https://sportshub.cbsistatic.com/i/2026/06/08/e3e73af2-539b-4475-be15-3a182076d813/ufc-challenge-fantasy-navigation-1080x1080.png?crop=1:1&width=96&format=webp)](https://smart.link/hwnw5mkfxelz2)
-
 Shows & Podcasts
 
 [See All](https://www.cbssports.com/podcasts/)
 
-    *   [![Image 200: Fantasy Baseball Today Podcast](https://sportshub.cbsistatic.com/i/2020/09/22/3bd5b9e1-a45d-41ca-ba79-16c04ba68cfa/new-fft-baseball-logo.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-baseball-today/)
-    *   [![Image 201: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
-    *   [![Image 202: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
+    *   [![Image 197: Fantasy Baseball Today Podcast](https://sportshub.cbsistatic.com/i/2020/09/22/3bd5b9e1-a45d-41ca-ba79-16c04ba68cfa/new-fft-baseball-logo.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-baseball-today/)
+    *   [![Image 198: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
+    *   [![Image 199: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
 
 *   [Betting](https://www.cbssports.com/betting/)
 
@@ -659,28 +655,28 @@ Shows & Podcasts
 
 [See All](https://www.cbssports.com/podcasts/)
 
-    *   [![Image 203: Fantasy Baseball Today Podcast](https://sportshub.cbsistatic.com/i/2020/09/22/3bd5b9e1-a45d-41ca-ba79-16c04ba68cfa/new-fft-baseball-logo.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-baseball-today/)
-    *   [![Image 204: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
-    *   [![Image 205: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
+    *   [![Image 200: Fantasy Baseball Today Podcast](https://sportshub.cbsistatic.com/i/2020/09/22/3bd5b9e1-a45d-41ca-ba79-16c04ba68cfa/new-fft-baseball-logo.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-baseball-today/)
+    *   [![Image 201: Fantasy Football Today Podcast](https://sportshub.cbsistatic.com/i/2024/02/05/c0130208-51e2-4f98-aae4-5014f04ccb33/fft-pod-logo-2021.png?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/fantasy-football-today-podcast/)
+    *   [![Image 202: The Early Edge](https://sportshub.cbsistatic.com/i/2020/12/03/d6a0aec4-d5ba-471c-a744-2a0f3ff295ba/uploads-2f1606961258019-8pucfqoezxl-e3c4d5a58f6cdf262f4112cefdf40963-2f201120-early-edge-logo-square.jpg?crop=1:1&width=96&format=webp)](https://www.cbssports.com/podcasts/the-early-edge-a-daily-sportsline-betting-podcast/)
 
-[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=106252)
+[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=550111)
 
-[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=106252&login=confirmed)
+[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=550111&login=confirmed)
 
 Fantasy & Games
 
 [See All](https://www.cbssports.com/fantasy/games/my-teams/)
 
-*   [![Image 206: #](https://www.cbssports.com/_next/static/media/1x1.fc90103f.png) # #](https://www.cbssports.com/college-basketball/injuries/#)
+*   [![Image 203: #](https://www.cbssports.com/_next/static/media/1x1.fc90103f.png) # #](https://www.cbssports.com/college-basketball/injuries/#)
 
-[![Image 207: Play Fantasy Games](https://sportshub.cbsistatic.com/i/2024/08/29/3a2964f3-2965-450f-b569-526782d318a8/dynamic-1.png?crop=1:1&width=100&format=webp) Build a franchise, control your destiny, play like the pros Play Now](https://www.cbssports.com/fantasy/games/)
+[![Image 204: Play Fantasy Games](https://sportshub.cbsistatic.com/i/2024/08/29/3a2964f3-2965-450f-b569-526782d318a8/dynamic-1.png?crop=1:1&width=100&format=webp) Build a franchise, control your destiny, play like the pros Play Now](https://www.cbssports.com/fantasy/games/)
 
 Video Settings
 
 *      More live games and exclusives  [Log Out](https://www.cbssports.com/watch/paramount/logout)[Connect](https://www.cbssports.com/watch/paramount/login) 
 *      TV Provider More live games & exclusives  Log Out  Connect   
 
-[![Image 208: college-basketball Subnav Logo](https://sports.cbsimg.net/fly/images/league-logos/55.svg)](https://www.cbssports.com/college-basketball/)
+[![Image 205: college-basketball Subnav Logo](https://sports.cbsimg.net/fly/images/league-logos/55.svg)](https://www.cbssports.com/college-basketball/)
 
 *   [News](https://www.cbssports.com/college-basketball/)
 *   [Scores](https://www.cbssports.com/college-basketball/scoreboard/)
@@ -713,5 +709,5 @@ The content on this site is for entertainment purposes only and CBS Sports makes
 
 Images by Getty Images and Imagn
 
-Your Privacy Choices![Image 209](https://user-sync.fwmrm.net/ad/u?mode=auto-user-sync&_fw_gdpr=0&_fw_gdpr_consent=)![Image 210](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=3e8651a3-29be-4e46-9d0f-e89c6804546d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99f79c3f-207e-43d3-a245-2660923ee9e6&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=3&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794586552886-682617897&tw_session_start=1&twpid=tw.1794586552886.763798211659943383&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 211](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=3e8651a3-29be-4e46-9d0f-e89c6804546d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=99f79c3f-207e-43d3-a245-2660923ee9e6&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=3&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794586552886-682617897&tw_session_start=1&twpid=tw.1794586552886.763798211659943383&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 212: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=270675768&iiqidtype=2&iiqpcid=5efc0846-9cd3-06da-29a7-4df241692f4d&iiqpciddate=1794586555633&tsrnd=547_1794586555668&fbp=572711301&jsver=6.142&cz=0%3A1280%2C1%3A1280%2C2%3A1%2C3%3A1280%2C4%3A1280%2C5%3Aen-US&dw=1280&dh=1280&dpr=1&lan=en-US&testPercentage=-1&testGroup=U&uh=%7B%220%22%3A%22%5C%22Not-A.Brand%5C%22%3Bv%3D%5C%2299%5C%22%2C%20%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22157%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22157%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Not-A.Brand%5C%22%3Bv%3D%5C%2299.0.0.0%5C%22%2C%20%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22157.0.8103.38%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22157.0.8103.38%5C%22%22%7D&vrref=https%3A%2F%2Fwww.cbssports.com&gdpr_consent=undefined&us_privacy=1YNN&gpp=DBABLA~CVQqAAAAAABY.QA&gpc=undefined&gdpr=0)
+Your Privacy Choices![Image 206](https://user-sync.fwmrm.net/ad/u?mode=auto-user-sync&_fw_gdpr=0&_fw_gdpr_consent=)![Image 207](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=2&event_id=22b332e0-1308-4992-9cf9-944cc21b678a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=59473dcc-860f-4d36-8d99-48fed543c35a&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=3&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794607267061-691559208&tw_session_start=1&twpid=tw.1794607267061.302039718158373327&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 208](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=2&event_id=22b332e0-1308-4992-9cf9-944cc21b678a&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=59473dcc-860f-4d36-8d99-48fed543c35a&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fcollege-basketball%2Finjuries%2F&tw_engaged_ms=3&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1794607267061-691559208&tw_session_start=1&twpid=tw.1794607267061.302039718158373327&txn_id=o0cq4&type=javascript&version=2.4.12)
 

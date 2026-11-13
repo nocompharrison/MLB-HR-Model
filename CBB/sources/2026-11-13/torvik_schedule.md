@@ -1,4 +1,4 @@
-<!-- source: https://barttorvik.com/schedule.php?date=20261113 | fetched: 2026-11-13 11:17 ET -->
+<!-- source: https://barttorvik.com/schedule.php?date=20261113 | fetched: 2026-11-13 17:03 ET -->
 
 2027 2027; 2026; 2025; 2024; 2023; 2022; 2021; 2020; 2019; 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008;
 Click Here or Go Landscape for Full Site Layout
@@ -176,7 +176,7 @@ at 258 [Cal Baptist](https://barttorvik.com/team.php?team=Cal+Baptist&year=2027)
 |  09:00 PM  |  0 [Corban](https://barttorvik.com/team.php?team=Corban&year=2027)   
 at 186 [Eastern Washington](https://barttorvik.com/team.php?team=Eastern+Washington&year=2027) ESPN+  | [Eastern Washington (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Corban&t2l=Eastern+Washington&)  | -5  | [](https://barttorvik.com/box.php?muid=CorbanEastern+Washington11-13&year=2027)  |  
 |  12:00 PM  |  0 [Viterbo](https://barttorvik.com/team.php?team=Viterbo&year=2027)   
-at 181 [Green Bay](https://barttorvik.com/team.php?team=Green+Bay&year=2027) ESPN+  | [Green Bay (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Viterbo&t2l=Green+Bay&)  | -6  | [](https://barttorvik.com/box.php?muid=ViterboGreen+Bay11-13&year=2027)  |  
+at 181 [Green Bay](https://barttorvik.com/team.php?team=Green+Bay&year=2027) ESPN+  | [Green Bay (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Viterbo&t2l=Green+Bay&)  | -6  | [Green Bay, 66-46](https://barttorvik.com/box.php?muid=ViterboGreen+Bay11-13&year=2027)  |  
 |  08:00 PM  |  0 [Biblical Stud. (TX)](https://barttorvik.com/team.php?team=Biblical+Stud.+%28TX%29&year=2027)   
 at 263 [Houston Christian](https://barttorvik.com/team.php?team=Houston+Christian&year=2027)  | [Houston Christian (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Biblical+Stud.+%28TX%29&t2l=Houston+Christian&)  | -10  | [](https://barttorvik.com/box.php?muid=Biblical+Stud.+%28TX%29Houston+Christian11-13&year=2027)  |  
 |  07:00 PM  |  0 [Kentucky St.](https://barttorvik.com/team.php?team=Kentucky+St.&year=2027)   

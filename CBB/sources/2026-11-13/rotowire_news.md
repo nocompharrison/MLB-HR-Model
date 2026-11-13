@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-13 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-13 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,15 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Kansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas.png?v=16)
+[Kohl Rosario](https://www.rotowire.com/cbasketball/player/kohl-rosario-26110)
+Unlikely to play Friday
+**G** Kansas
+Concussion
+November 13, 2026
+Rosario (concussion) did some non-contact work at practice Thursday, and Kansas coach Bill Self said he's unsure whether the guard will be available Friday, [Michael Swain of 247Sports.com](https://x.com/MSwain247/status/2121336937084572089) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
 [Cade Phillips](https://www.rotowire.com/cbasketball/player/cade-phillips-22606)
 Expected to miss several weeks
@@ -203,14 +212,11 @@ November 12, 2026
 Stevens accumulated 16 points (6-10 FG, 4-6 3Pt), three rebounds, three assists and one block across 32 minutes during Wednesday's 84-70 loss to Michigan.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Creighton](https://assets.rotowire.com/images/teamlogo/cbasketball/Creighton.png?v=16)
-[BJ Davis](https://www.rotowire.com/cbasketball/player/bj-davis-22568)
-Scores 25 in loss
-**G** Creighton
-November 12, 2026
-Davis provided 25 points (9-20 FG, 6-14 3Pt, 1-1 FT), three rebounds, three assists and three steals across 34 minutes during Tuesday's 89-82 loss to Kansas State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979e9d989d9f9f9c9d9d66uokewi0e0y626m6k646k6o6o6i6k6k)
+Powered By
+10 Sec
+10 BIGGEST Fantasy Football Takeaways from Week 7
+Next
+Stay
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598969b9797989a9d9a9f66uokewi0e0y64606g6262646e6k6e6o)
 
