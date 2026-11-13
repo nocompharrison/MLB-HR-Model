@@ -1,33 +1,45 @@
-# CBB transcripts | 2026-11-12 | updated 2026-11-12 17:03 ET
+# CBB transcripts | 2026-11-13 | updated 2026-11-13 11:19 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 8 files in CBB/transcripts/2026-11-12:
-CBB/transcripts/2026-11-12/1xQixKooNW0_PickDawgz_College_Basketball_Picks_for_Today_11_12_26_Thursday_Best_College_Bask.txt
-CBB/transcripts/2026-11-12/OUfgxwbUAAQ_WagerTalk_College_Basketball_Picks_TODAY_Tenn_Tech_vs_Indiana_Montana_State_vs_B.txt
-CBB/transcripts/2026-11-12/Uawd1lWwIbs_PickDawgz_College_Basketball_Picks_Predictions_Today_11_12_26_Ron_s_Bank_Shot_Br.txt
-CBB/transcripts/2026-11-12/Zg1HzgFTq4s_TCE_College_Basketball_PICKS_ONLY_Thursday_November_12th_TCE_Trims.txt
-CBB/transcripts/2026-11-12/_NDCfIdqtBw_FieldOf68_Florida_is_CLEARLY_the_No_1_team_in_the_country_and_no_one_else_is_CL.txt
-CBB/transcripts/2026-11-12/_as15d3OWs4_FieldOf68_Here_s_why_I_m_NOT_worried_at_ALL_about_Illinois_David_Mirkovic_s_ret.txt
-CBB/transcripts/2026-11-12/ePzxBlfG9iM_FieldOf68_I_m_completely_BAFFLED_by_Kentucky_s_plan_on_BOTH_sides_of_the_ball_A.txt
-CBB/transcripts/2026-11-12/f2VVAQ-Am3c_TCE_College_Basketball_Best_Bets_For_November_12th_Spread_Moneyline_Bettin.txt
+# 0 files in CBB/transcripts/2026-11-13:
+
 
 # this run:
-NOCAPS  LockedOnCBB K2xnOETaAjU Elliot Cadeau SHINES as Michigan Beats Marquette | Nigel Jam  (no captions; Groq: live stream still processing - audio not final yet)
-DEFER   CBSCollegeBB fLdp-nSVnUA TCU closes in on Robbie Avila, Michigan's best game of the s  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   FieldOf68 6E-QHqO9kn8 The most ALARMING part of Duke's loss! | 'When they got punc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 yMif0xSxcTA 'What's happened to Nigel James Jr??' | Marquette falls at M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 wSWyADy0np4 EXCLUSIVE: JP Estrella joins the show after Michigan's BIG w  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 tktr8DQ2ebM A-10 INSIDER: Duquesne's Kerem Konan on his clutch finish vs  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 pltgbI_uD3E ACC INSIDER: VT's Ben Hammond on His 32-point OT Win Over Io  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 vTkC3tx0z7I Michigan's BIG second half over Marquette! Plus, a look back  (YouTube rate limit hit earlier this run)
+DEFER   LockedOnCBB kfPcXQ_jzNg UPSET ALERT? Arizona at Auburn, Louisville at Memphis + MORE  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   LockedOnCBB K2xnOETaAjU Elliot Cadeau SHINES as Michigan Beats Marquette | Nigel Jam  (YouTube rate limit hit earlier this run)
+DEFER   LockedOnCBB 18xQvJPj16Y SHOCKER: Robbie Avila PIVOTS, now set to join TCU after elig  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB R054wfDxw4I Michigan just played its BEST game of the season I Jon Roths  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB fLdp-nSVnUA TCU closes in on Robbie Avila, Michigan's best game of the s  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB W6ZM57B7-LA Robbie Avila lands at TCU; Foot surgery for UConn's Nik Kham  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB GTDyeEghfH0 TCU set to land Robbie Avila: What he brings to the Horned F  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB ahFmNtKpuHw Jon Rothstein's BIGGEST takeaway from Kentucky, Arkansas' re  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 Xqnoa4VxfBc THE ALL-NEW GOODMAN & FRIENDS PODCAST! Grant McCasland and I  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 EclTjNBSCQw Grant McCasland updates JT Toppin's status: 'We're NOT two w  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 nyuuu3JotSY 'I just don't think this Kentucky roster is very good...' |   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 o1Nz2mSdTNY Goodman: 'Why Kansas might be BETTER without Melvin Council   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 QbvYnw0myk0 MW INSIDER: Air Force's Kam Sanders on Their Hot Start, Joe   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 tktr8DQ2ebM A-10 INSIDER: Duquesne's Kerem Konan on his clutch finish vs  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 pltgbI_uD3E ACC INSIDER: VT's Ben Hammond on His 32-point OT Win Over Io  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 vbsuLHykFJU TOP DOGS: UConn-Ohio State preview | REACTION to Nik Khameni  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 vTkC3tx0z7I Michigan's BIG second half over Marquette! Plus, a look back  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 Av8VK2KqiP8 PREVIEW: Here's how Auburn can UPSET Arizona tonight! | FIEL  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 q7hCjQL27gQ PREVIEW: Why Memphis can SHOCK Louisville in a BIG matchup t  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 48AMNTJQ00A PREVIEW: Who has the edge between Gonzaga and LSU? | 'It's g  (YouTube rate limit hit earlier this run)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
+DEFER   TCE DM2khGx90bY College Basketball PICKS ONLY - Friday, November 13th | TCE   (YouTube rate limit hit earlier this run)
+DEFER   TCE tSrMiCGc1xo College Basketball Picks For November 13th - NCAA Basketball  (YouTube rate limit hit earlier this run)
 DEFER   TCE LgbfuNWu4iw College Basketball Picks For November 12th - NCAA Basketball  (YouTube rate limit hit earlier this run)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-NONE    channel SGPN: nothing new in the date window (or everything already saved)
+DEFER   SGPN QL9YB1GBbSY College Basketball Picks: Fri, Nov 13th & Sat, Nov 14th  (YouTube rate limit hit earlier this run)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+DEFER   WagerTalk J1yk04Nz1vU College Basketball Picks TODAY! Tenn Tech vs Indiana + Monta  (per-channel cap of 6 reached - raise it in the channel list or it comes next run)
+DEFER   WagerTalk ed4iLEPPB0M CBB Picks TODAY! Ohio State vs UConn | Arizona vs Auburn | F  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk vRYzhSkBzA4 Alan Boston REVEALS His Top College Basketball Teams for 202  (YouTube rate limit hit earlier this run)
 DEFER   WagerTalk 3YIjcDLwFV4 College Basketball Picks Today: Thursday's CBB Best Bets | F  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk J1yk04Nz1vU College Basketball Picks TODAY! Tenn Tech vs Indiana + Monta  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk pudeKEMZyTs College Basketball Picks Today: Thursday's CBB Best Bets | F  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk ENISvlAOgXA College Basketball Picks Today: Friday CBB Best Bets & Odds   (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk fDsXAHZAyVY College Basketball Picks Today: Friday CBB Best Bets & Odds   (YouTube rate limit hit earlier this run)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+DEFER   PickDawgz lxtQrv_63WI College Basketball Picks for Today 11/13/26 - Friday Best Co  (YouTube rate limit hit earlier this run)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
