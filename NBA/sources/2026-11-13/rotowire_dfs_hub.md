@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-13 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-13 18:05 ET -->
 
 # NBA DFS Picks Today
 November 13, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, November 13 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Atlanta Hawks (ATL @ CHI) Chicago Bulls (ATL @ CHI) Cleveland Cavaliers (CLE @ MIA) Golden State Warriors (GSW @ SAN) Houston Rockets (UTA @ HOU) Indiana Pacers (NYK @ IND) Los Angeles Clippers (OKC @ LAC) Memphis Grizzlies (MEM @ NOP) Miami Heat (CLE @ MIA) Milwaukee Bucks (MIL @ ORL) New Orleans Pelicans (MEM @ NOP) New York Knicks (NYK @ IND) Oklahoma City Thunder (OKC @ LAC) Orlando Magic (MIL @ ORL) Portland Trail Blazers (POR @ SAC) Sacramento Kings (POR @ SAC) San Antonio Spurs (GSW @ SAN) Utah Jazz (UTA @ HOU)
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)** _G_ _Top_ 5:15 PM ET
+#### Available vs. Milwaukee
+Suggs (knee) is available for Friday's game against the Bucks, according to Philip Rossman-Reich of OrlandoMagicDaily.com.
+Analysis
+Suggs said he "will play" following Friday morning's shootaround, and the star guard has been cleared to do so, so he should move right back into the starting lineup in the backcourt. Suggs hasn't played since Oct. 25, and after an eight-game absence, he's likely to send Anthony Black or Alex Morales to the bench. Suggs is averaging 8.0 points, 5.0 rebounds and 5.7 assists per game in his first three appearances this season.
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Jamal Cain](https://www.rotowire.com/basketball/player/jamal-cain-5796)** _F_ 5:14 PM ET
+#### Available Friday
+Cain (shoulder) is available for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports.
+Analysis
+Cain went through Friday's morning shootaround and is ready to go for game action. Now that Jalen Suggs (knee) is back in the lineup for the Magic, Cain's playing time could take a slight hit going forward.
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)** _F_ _Top_ 5:14 PM ET
+#### Available Friday
+Da Silva (calf) is available for Friday's game against the Bucks, Philip Rossman-Reich of OrlandoMagicDaily.com reports.
+Analysis
+After drawing a questionable tag and participating in Friday's morning shootaround, da Silva has been cleared to return from a two-game absence. Over his last five appearances (one start), the third-year forward has averaged 15.6 points, 4.6 rebounds and 1.6 assists across 31.8 minutes per showing.
+Sacramento KingsPOR @ SAC - 10:00 PM ET
+**[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)** _F_ OUT _Top_ 4:20 PM ET
+#### Ruled out with sore ankle
+Achiuwa (ankle) is out for Friday's game against the Trail Blazers.
+Analysis
+Achiuwa is sitting out Friday for the first time this season due to left ankle soreness, and he can be deemed day-to-day going forward. His absence likely paves the way for Keegan Murray to re-enter the starting lineup after opening 2026-27 as the Kings' starting power forward.
 New Orleans PelicansMEM @ NOP - 8:00 PM ET
 **[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ OUT _Top_ 3:19 PM ET
 #### Officially ruled out Friday
 Murray (ankle) is out for Friday's game against Memphis.
 Analysis
 This was the expectation after Murray requested a trade from the Pelicans earlier Friday. Shams Charania of ESPN noted Friday that the star guard won't be available for New Orleans for the time being, so Murray can be considered out indefinitely while the team tries to find him another home.
-New Orleans PelicansMEM @ NOP - 8:00 PM ET
-**[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)** _G_ OUT _Top_ 2:57 PM ET
-#### Requests trade from Pelicans
-Murray (ankle) requested a trade from the Pelicans on Friday, per Shams Charania of ESPN.
-Analysis
-Charania also notes Murray's agent and team officials have begun working toward a resolution. Murray, who's listed as doubtful for Friday's game against Memphis with an ankle sprain, could miss more time beyond that while New Orleans looks to find him a new destination. Murray, a one-time All-Star, has been limited to 54 regular-season appearances in his Pelicans career, but he's averaged a strong 16.6 points, 6.6 assists, 5.9 rebounds and 1.9 steals per game across that three-year span.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)** _F_ _Top_ 1:24 PM ET
-#### Will play Friday
-Antetokounmpo (wrist) is available for Friday's game against Cleveland.
-Analysis
-The superstar forward is ready to suit up Friday despite dealing with a wrist sprain. Barring any setbacks, Antetokounmpo should be able to handle a normal workload and is looking to push his streak of double-doubles with at least 20 points and 10 rebounds up to nine games.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)** _F_ P1:22 PM ET
-#### Expected to play Friday
-Thompson (ankle) is listed as probable for Friday's game against the Cavaliers.
-Analysis
-The Heat are upgrading Thompson from questionable to probable, so all signs point toward the veteran sharpshooter playing. He's gone for at least 11 points with multiple three-pointers in six consecutive appearances.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)** _F_ D _Top_ 1:20 PM ET
-#### Downgraded to doubtful
-Larsson (illness) is listed as doubtful for Friday's game against Cleveland.
-Analysis
-Larsson is unlikely to suit up for the first half of this back-to-back set with an illness. The expectation is that Andrew Wiggins will rejoin the starting lineup after opening 2026-27 in the first unit.
-Show 5 more (9 remaining)
+Show 5 more (13 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -91,7 +91,7 @@ _Implied_**107.5** _Spread_**+9.5**
 | C  | Myles Turner  | $5,000  | 24.2  |  
 | PF  | Kyle Kuzma  | $5,100  | 25.4  |  
 | PG  | Brayden Burries  | $5,500  | 25.4  |  
-| SF  | Jaime Jaquez  | $5,900  | 27.7  |  
+| SF  | Jaime Jaquez  | $5,900  | 27.8  |  
 | SG  | Tyler Herro  | $7,000  | 34.6  |  
 MagicExpectedHome
 _Implied_**117.0** _Spread_**-9.5**  
@@ -99,7 +99,7 @@ _Implied_**117.0** _Spread_**-9.5**
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $6,800  | 32.9  |  
 | PF  | Franz Wagner  | $9,500  | 42.1  |  
-| PG  | Jalen SuggsQ  | $5,800  | 28.9  |  
+| PG  | Jalen Suggs  | $5,800  | 28.9  |  
 | SF  | Desmond Bane  | $7,400  | 36.5  |  
 | SG  | Anthony Black  | $7,200  | 31.0  |  
 **CLE @ MIA**
@@ -108,16 +108,16 @@ CavaliersExpectedAway
 _Implied_**117.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jarrett Allen  | $5,700  | 35.8  |  
+| C  | Jarrett Allen  | $5,700  | 35.9  |  
 | PF  | Jaylon Tyson  | $4,200  | 23.2  |  
-| PG  | James Harden  | $7,000  | 40.1  |  
-| SF  | Peyton Watson  | $5,600  | 28.7  |  
-| SG  | Donovan Mitchell  | $8,100  | 43.9  |  
+| PG  | James Harden  | $7,000  | 40.2  |  
+| SF  | Peyton Watson  | $5,600  | 28.8  |  
+| SG  | Donovan Mitchell  | $8,100  | 44.0  |  
 HeatExpectedHome
 _Implied_**119.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Bam Adebayo  | $8,300  | 41.7  |  
+| C  | Bam Adebayo  | $8,300  | 41.8  |  
 | PF  | Giannis Antetokounmpo  | $11,500  | 53.3  |  
 | PG  | Davion Mitchell  | $6,900  | 31.6  |  
 | SF  | Andrew Wiggins  | $4,800  | 24.8  |  
@@ -139,7 +139,7 @@ _Implied_**119.0** _Spread_**+7.5**
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,900  | 38.5  |  
 | PF  | Matas Buzelis  | $5,800  | 33.0  |  
-| PG  | Josh Giddey  | $7,900  | 37.9  |  
+| PG  | Josh Giddey  | $7,900  | 37.8  |  
 | SF  | Isaac Okoro  | $3,900  | 23.3  |  
 | SG  | Norman PowellQ  | $6,000  | 28.0  |  
 **MEM @ NOP**
@@ -196,10 +196,10 @@ AllGuardsForwardsCenters
 | 1  |  Isaiah StewartMEM - PF  | @ NOP  | $3,900  | 25  | 26.3  | **6.74**  |  
 | 2  |  Jordan PooleNOP - PG  | vs MEM  | $4,000  | 24  | 26.5  | **6.64**  |  
 | 3  |  Jalen SmithCHI - C  | vs ATL  | $5,900  | 30  | 38.5  | **6.52**  |  
-| 4  |  Jarrett AllenCLE - C  | @ MIA  | $5,700  | 30  | 35.8  | **6.29**  |  
+| 4  |  Jarrett AllenCLE - C  | @ MIA  | $5,700  | 30  | 35.9  | **6.29**  |  
 | 5  |  Ryan ConwellMIA - PG  | vs CLE  | $3,600  | 23  | 21.6  | **6.00**  |  
-| 6  |  Isaac OkoroCHI - SG  | vs ATL  | $3,900  | 26  | 23.3  | **5.97**  |  
-| 7  |  James HardenCLE - PG  | @ MIA  | $7,000  | 34  | 40.1  | **5.73**  |  
+| 6  |  Isaac OkoroCHI - SG  | vs ATL  | $3,900  | 26  | 23.3  | **5.96**  |  
+| 7  |  James HardenCLE - PG  | @ MIA  | $7,000  | 34  | 40.2  | **5.74**  |  
 | 8  |  Matas BuzelisCHI - SF  | vs ATL  | $5,800  | 30  | 33.0  | **5.69**  |  
 | 9  |  Jeremiah FearsNOP - PG  | vs MEM  | $6,800  | 34  | 38.4  | **5.65**  |  
 | 10  |  Onyeka OkongwuATL - C  | @ CHI  | $6,500  | 31  | 36.2  | **5.57**  |  
@@ -211,7 +211,7 @@ NBA Boom-or-Bust Board
 Players whose ceiling outruns their salary and whose outcomes swing wider than their peers, in DraftKings and FanDuel points.
 Site
 DraftKingsFanDuel
-Slate Main · Today · 7:00 PM ET · 6 games — 139 players projected Turbo · Today · 8:00 PM ET · 3 games — 67 players projected Night · Today · 9:30 PM ET · 3 games — 65 players projected Main · Sat 11/14 · 7:00 PM ET · 5 games — 57 players projected Night · Sat 11/14 · 8:00 PM ET · 3 games — 35 players projected Today · 7:00 PM ET · NYK@IND single game — 25 players projected Today · 8:30 PM ET · UTA@HOU single game — 23 players projected Today · 9:30 PM ET · GSW@SAS single game — 21 players projected Today · 10:30 PM ET · OKC@LAC single game — 24 players projected Sat 11/14 · 7:00 PM ET · DEN@NOP single game — 11 players projected Sat 11/14 · 7:30 PM ET · DAL@CLE single game — 11 players projected Sat 11/14 · 8:00 PM ET · DET@MIA single game — 11 players projected
+Slate Main · Today · 7:00 PM ET · 6 games — 139 players projected Turbo · Today · 8:00 PM ET · 3 games — 67 players projected Night · Today · 9:30 PM ET · 3 games — 64 players projected Main · Sat 11/14 · 7:00 PM ET · 5 games — 57 players projected Night · Sat 11/14 · 8:00 PM ET · 3 games — 35 players projected Today · 7:00 PM ET · NYK@IND single game — 25 players projected Today · 8:30 PM ET · UTA@HOU single game — 23 players projected Today · 9:30 PM ET · GSW@SAS single game — 21 players projected Today · 10:30 PM ET · OKC@LAC single game — 24 players projected Sat 11/14 · 7:00 PM ET · DEN@NOP single game — 11 players projected Sat 11/14 · 7:30 PM ET · DAL@CLE single game — 11 players projected Sat 11/14 · 8:00 PM ET · DET@MIA single game — 11 players projected
 TeamAll ATL CHI CLE HOU IND MEM MIA MIL NOP NYK ORL UTA
 Lineup slotUtility (1×) Captain (1.5× points and salary)
 PositionAll PG SG SF PF C
@@ -229,17 +229,17 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | 1  |  Isaac OkoroCHI · SG/SF · ATL@CHI  | $3,900  | 6.9  | 23.3  | **46.4**  |   | +11.1  | +4  | 94  |  
 | 2  |  Josh HartNYK · SG/SF · NYK@IND  | $5,800  | 10.8  | 31.6  | **59.3**  |   | +7.3  | +5  | 92  |  
 | 3  |  Ryan ConwellMIA · PG/SG · CLE@MIA  | $3,600  | 6.2  | 21.6  | **43.7**  |   | +11.1  | +3  | 92  |  
-| 4  |  Andrew WigginsMIA · SF · CLE@MIA  | $4,800  | 7.2  | 24.8  | **48.7**  |   | +5.6  | +5  | 90  |  
-| 5  |  Patrick WilliamsCHI · PF · ATL@CHI  | $4,000  | 6.3  | 22.0  | **44.3**  |   | +8.2  | +3  | 90  |  
+| 4  |  Andrew WigginsMIA · SF · CLE@MIA  | $4,800  | 7.2  | 24.8  | **48.7**  |   | +5.5  | +5  | 90  |  
+| 5  |  Patrick WilliamsCHI · PF · ATL@CHI  | $4,000  | 6.3  | 22.0  | **44.3**  |   | +8.1  | +3  | 90  |  
 | 6  |  Onyeka OkongwuATL · C · ATL@CHI  | $6,500  | 13.6  | 36.2  | **65.9**  |   | +7.7  | +4  | 90  |  
 | 7  |  Peyton WatsonCLE · SF/PF · CLE@MIA  | $5,600  | 9.1  | 28.8  | **54.9**  |   | +4.7  | +5  | 89  |  
 | 8  |  James HardenCLE · PG · CLE@MIA  | $7,000  | 16.1  | 40.2  | **71.3**  |   | +8.7  | +3  | 89  |  
 | 9  |  Matas BuzelisCHI · SF/PF · ATL@CHI  | $5,800  | 11.9  | 33.0  | **60.9**  |   | +8.9  | +2  | 87  |  
 | 10  |  Jeremiah FearsNOP · PG · MEM@NOP  | $6,800  | 15.0  | 38.4  | **68.6**  |   | +7.8  | +2  | 85  |  
 | 11  |  Jerami GrantMEM · SF/PF · MEM@NOP  | $4,100  | 5.2  | 19.6  | **40.5**  |   | +3.5  | +4  | 83  |  
-| 12  |  Jaylen WellsMEM · SF · MEM@NOP  | $4,400  | 6.8  | 23.4  | **46.2**  |   | +6.6  | +2  | 81  |  
+| 12  |  Jaylen WellsMEM · SF · MEM@NOP  | $4,400  | 6.8  | 23.4  | **46.2**  |   | +6.5  | +2  | 81  |  
 | 13  |  Tari EasonHOU · SF/PF · UTA@HOU  | $5,100  | 8.1  | 25.5  | **49.8**  |   | +3.9  | +3  | 81  |  
-| 14  |  Miles McBrideNYK · SG · NYK@IND  | $3,900  | 5.8  | 20.6  | **42.0**  |   | +6.8  | +2  | 81  |  
+| 14  |  Miles McBrideNYK · SG · NYK@IND  | $3,900  | 5.8  | 20.6  | **42.0**  |   | +6.7  | +2  | 81  |  
 | 15  |  Herbert JonesNOP · SF/PF · MEM@NOP  | $4,500  | 5.1  | 20.8  | **42.5**  |   | +2.0  | +7  | 81  |  
 Show all 104 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 6 games slate · 2026-11-13.
@@ -266,5 +266,5 @@ For the more advanced NBA DFS player, here are our favorite resources that can h
 New to the world of DFS? Watch this quick video to learn the key principles and catch up quickly with experienced players.
   
 
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979e9d989d9f9f9c9d9d66uokewi0e0y626m6k646k6o6o6i6k6k)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598969b9797989a9d9a9f66uokewi0e0y64606g6262646e6k6e6o)
 

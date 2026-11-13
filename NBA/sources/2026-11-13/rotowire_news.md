@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,75 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Available vs. Milwaukee](https://www.rotowire.com/basketball/headlines/jalen-suggs-news-available-vs-milwaukee-538940)
+**G** Orlando Magic
+November 13, 2026
+Suggs (knee) is available for Friday's game against the Bucks, according to [Philip Rossman-Reich of OrlandoMagicDaily.com](https://x.com/OMagicDaily/status/2121364892447891740?a=Us0LfHrGBe8SdS2zFE8&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jamal Cain](https://www.rotowire.com/basketball/player/jamal-cain-5796)[Available Friday](https://www.rotowire.com/basketball/headlines/jamal-cain-news-available-friday-538939)
+**F** Orlando Magic
+November 13, 2026
+Cain (shoulder) is available for Friday's game against the Bucks, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2121364882658583010?a=8Nj-BDx8Ob6-Ewx-U_I&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Available Friday](https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-available-friday-538938)
+**F** Orlando Magic
+November 13, 2026
+Da Silva (calf) is available for Friday's game against the Bucks, [Philip Rossman-Reich of OrlandoMagicDaily.com](https://x.com/OMagicDaily/status/2121364892447891740?a=Us0LfHrGBe8SdS2zFE8&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)[Iffy for Saturday](https://www.rotowire.com/basketball/headlines/mikel-brown-injury-iffy-for-saturday-538937)
+**G** Brooklyn Nets
+Illness
+November 13, 2026
+Brown (illness) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_05_00PM.pdf) for Saturday's game against Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)[Expected to play](https://www.rotowire.com/basketball/headlines/nolan-traore-injury-expected-to-play-538936)
+**G** Brooklyn Nets
+Calf
+November 13, 2026
+Traore (calf) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_05_00PM.pdf) for Saturday's game against Memphis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)[Questionable with ankle sprain](https://www.rotowire.com/basketball/headlines/max-christie-injury-questionable-with-ankle-sprain-538935)
+**G** Dallas Mavericks
+Ankle
+November 13, 2026
+Christie is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_05_00PM.pdf) for Saturday's game against the Cavaliers due to a sprained left ankle.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Morez Johnson](https://www.rotowire.com/basketball/player/morez-johnson-6971)[Probable for Saturday](https://www.rotowire.com/basketball/headlines/morez-johnson-injury-probable-for-saturday-538934)
+**F** Dallas Mavericks
+Lower Leg
+November 13, 2026
+Johnson (left shin contusion) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_05_00PM.pdf) for Saturday against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Quentin Grimes](https://www.rotowire.com/basketball/player/quentin-grimes-5391)[Expects to return Sunday](https://www.rotowire.com/basketball/headlines/quentin-grimes-injury-expects-to-return-sunday-538933)
+**G** Los Angeles Lakers
+Finger
+November 13, 2026
+Grimes (finger) said he expects to return to action Sunday against the Suns, according to [Ricardo Sandoval of Lakers on SI](https://x.com/_RicardoSand/status/2121349864453980547).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Ruled out with sore ankle](https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-ruled-out-with-sore-ankle-538932)
+**F** Sacramento Kings
+Ankle
+November 13, 2026
+Achiuwa (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_04_15PM.pdf) for Friday's game against the Trail Blazers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)[Listed as day-to-day](https://www.rotowire.com/basketball/headlines/austin-reaves-injury-listed-as-day-to-day-538931)
 **G** Los Angeles Lakers
@@ -132,73 +201,7 @@ Murray (ankle) is [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury
 **F** New Orleans Pelicans
 Knee
 November 13, 2026
-Murphy (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)[Sinks two triples in loss](https://www.rotowire.com/basketball/headlines/grant-williams-news-sinks-two-triples-in-loss-538910)
-**F** Charlotte Hornets
-November 13, 2026
-Williams (hamstring) amassed 11 points (3-5 FG, 2-4 3Pt, 3-3 FT), two rebounds, one assist and one block in 16 minutes during Thursday's 101-96 loss to the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
-[Doug McDermott](https://www.rotowire.com/basketball/player/doug-mcdermott-3579)[Announces retirement](https://www.rotowire.com/basketball/headlines/doug-mcdermott-news-announces-retirement-538905)
-**F** Free Agent
-November 13, 2026
-McDermott [announced](https://x.com/PrioritySports/status/2121272057958633890) his retirement Friday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jamal Cain](https://www.rotowire.com/basketball/player/jamal-cain-5796)[Goes through shootoarund](https://www.rotowire.com/basketball/headlines/jamal-cain-injury-goes-through-shootoarund-538903)
-**F** Orlando Magic
-Shoulder
-November 13, 2026
-Cain (shoulder) participated in the Magic's morning shootaround and remains questionable for Friday's game against the Bucks, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2121285327490806047) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Participates in shootaround](https://www.rotowire.com/basketball/headlines/tristan-da-silva-injury-participates-in-shootaround-538901)
-**F** Orlando Magic
-Calf
-November 13, 2026
-Da Silva (calf) participated in the Magic's morning shootaround and remains questionable for Friday's game against Milwaukee, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2121285327490806047) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Remains questionable, but says he'll play](https://www.rotowire.com/basketball/headlines/jalen-suggs-injury-remains-questionable-but-says-hell-play-538900)
-**G** Orlando Magic
-Knee
-November 13, 2026
-Suggs (knee) participated in the Magic's morning shootaround and remains questionable for Friday's game against the Bucks, [Jason Beede of the Orlando Sentinel](https://x.com/therealBeede/status/2121285327490806047) reports. However, the veteran guard said he's on track to play.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Jalen Green](https://www.rotowire.com/basketball/player/jalen-green-5230)[Limited to 12 points Thursday](https://www.rotowire.com/basketball/headlines/jalen-green-news-limited-to-12-points-thursday-538891)
-**G** Phoenix Suns
-November 13, 2026
-Green closed with 12 points (3-9 FG, 1-4 3Pt, 5-6 FT), four rebounds and one steal across 21 minutes during Thursday's 101-96 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Dillon Brooks](https://www.rotowire.com/basketball/player/dillon-brooks-4125)[Sinks three triples Thursday](https://www.rotowire.com/basketball/headlines/dillon-brooks-news-sinks-three-triples-thursday-538890)
-**F** Phoenix Suns
-November 13, 2026
-Brooks totaled 15 points (6-13 FG, 3-6 3Pt), three rebounds, one assist and one steal in 30 minutes during Thursday's 101-96 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Moussa Diabate](https://www.rotowire.com/basketball/player/moussa-diabate-5708)[Grabs 13 rebounds Thursday](https://www.rotowire.com/basketball/headlines/moussa-diabate-news-grabs-13-rebounds-thursday-538889)
-**C** Charlotte Hornets
-November 13, 2026
-Diabate provided seven points (3-7 FG, 1-2 FT), 13 rebounds, two assists and one block across 32 minutes during Thursday's 101-96 loss to the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454)[Drains four triples in loss](https://www.rotowire.com/basketball/headlines/grayson-allen-news-drains-four-triples-in-loss-538888)
-**G** Charlotte Hornets
-November 13, 2026
-Allen logged 14 points (5-11 FG, 4-8 3Pt), four rebounds, six assists and one steal over 34 minutes during Thursday's 101-96 loss to Phoenix.
+Murphy (knees) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against Memphis.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
@@ -207,5 +210,5 @@ Allen logged 14 points (5-11 FG, 4-8 3Pt), four rebounds, six assists and one st
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979e9d989d9f9f9c9d9d66uokewi0e0y626m6k646k6o6o6i6k6k)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598969b9797989a9d9a9f66uokewi0e0y64606g6262646e6k6e6o)
 

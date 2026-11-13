@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 18:05 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 13
 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate.
@@ -45,6 +45,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Kirk Cousins](https://www.rotowire.com/football/player/kirk-cousins-8057)
+Starting in Week 10
+NFL
+Minnesota Vikings
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Cleared to play Sunday
+NFL
+Houston Texans
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
 Coach downplays injury
@@ -60,16 +70,6 @@ Kansas City Chiefs
 Will play Friday
 NBA
 Miami Heat
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
-Inks four-year deal with Boston
-MLB
-Boston Red Sox
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[Rhamondre Stevenson](https://www.rotowire.com/football/player/rhamondre-stevenson-15372)
-Listed questionable for Sunday
-NFL
-New England Patriots
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -88,15 +88,15 @@ Chicago Cubs
 Named AL MVP
 MLB
 Houston Astros
+  * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
+[Tyler Heineman](https://www.rotowire.com/baseball/player/tyler-heineman-13152)
+Avoids arbitration
+MLB
+Los Angeles Angels
   * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
 [Kyle Nicolas](https://www.rotowire.com/baseball/player/kyle-nicolas-16720)
 Released by Nationals
 MLB
-  * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
-[Kala'i Rosario](https://www.rotowire.com/baseball/player/kalai-rosario-16749)
-Inks minor-league deal with Padres
-MLB
-San Diego Padres
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -110,24 +110,34 @@ Los Angeles Lakers
 Will play Friday
 NBA
 Miami Heat
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
-Listed as day-to-day
+  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)
+Available vs. Milwaukee
 NBA
-Los Angeles Lakers
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)
-Officially ruled out Friday
+Orlando Magic
+  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)
+Available Friday
 NBA
-New Orleans Pelicans
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)
-Downgraded to doubtful
+Orlando Magic
+  * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)
+Iffy for Saturday
 NBA
-Miami Heat
+Brooklyn Nets
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Kirk Cousins](https://www.rotowire.com/football/player/kirk-cousins-8057)
+Starting in Week 10
+NFL
+Minnesota Vikings
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Cleared to play Sunday
+NFL
+Houston Texans
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
 Deemed questionable for Sunday
@@ -143,16 +153,6 @@ New England Patriots
 Listed as questionable to face Detroit
 NFL
 New England Patriots
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Listed as questionable for Sunday
-NFL
-Detroit Lions
-  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
-[Carnell Tate](https://www.rotowire.com/football/player/carnell-tate-19268)
-Ruled out for Sunday's game
-NFL
-Tennessee Titans
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -161,6 +161,11 @@ Tennessee Titans
 Still sidelined Saturday
 NHL
 Dallas Stars
+  * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
+[Laurent Brossoit](https://www.rotowire.com/hockey/player/laurent-brossoit-4334)
+Heads to minors
+NHL
+Anaheim Ducks
   * ![Nashville Predators](https://assets.rotowire.com/images/teamlogo/hockey/100NSH.png?v=5)
 [Juuse Saros](https://www.rotowire.com/hockey/player/juuse-saros-4729)
 Expected to face Vegas
@@ -176,11 +181,6 @@ Vegas Golden Knights
 Slated starter for Saturday
 NHL
 Detroit Red Wings
-  * ![Florida Panthers](https://assets.rotowire.com/images/teamlogo/hockey/100FLA.png?v=5)
-[Carter Verhaeghe](https://www.rotowire.com/hockey/player/carter-verhaeghe-4230)
-Trio of assists in win
-NHL
-Florida Panthers
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
