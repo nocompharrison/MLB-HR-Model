@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13 | fetched: 2026-11-13 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13 | fetched: 2026-11-13 18:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -93,17 +93,17 @@ Giannis Antetokounmpo Rebounds Escalator
 NBA
 [NBA Best Bets for Knicks vs Pacers, Bucks vs Magic, More (Friday, Nov. 13)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-knicks-magic-vs-bucks-more-friday-november-13)
 Action Network Staff
-1 hour ago
+2 hours ago
 [![NBA Cup Predictions: Spreads, Totals & Prop Bets for Friday, November 13](https://images.actionnetwork.com/blog/2026/11/NBAMega1113.jpg)](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-13)
 NBA
 [NBA Cup Predictions: Spreads, Totals & Prop Bets for Friday, November 13](https://www.actionnetwork.com/nba/nba-cup-predictions-spreads-totals-prop-bets-for-friday-november-13)
 Matt Moore
-5 hours ago
+6 hours ago
 [![NBA Moneyline Parlay Picks: Our +535 Prediction for Friday, November 13](https://images.actionnetwork.com/blog/2026/11/brunson_acuff2.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-535-prediction-for-friday-november-13)
 NBA
 [NBA Moneyline Parlay Picks: Our +535 Prediction for Friday, November 13](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-535-prediction-for-friday-november-13)
 Ryan Minion
-5 hours ago
+6 hours ago
 [![NBA Player Prop Picks for Victor Wembanyama, Ty Jerome on Friday, November 13](https://images.actionnetwork.com/blog/2026/11/NBAPlayerProps1113.jpg)](https://www.actionnetwork.com/nba/nba-player-prop-picks-for-victor-wembanyama-ty-jerome-on-friday-november-13)
 NBA
 [NBA Player Prop Picks for Victor Wembanyama, Ty Jerome on Friday, November 13](https://www.actionnetwork.com/nba/nba-player-prop-picks-for-victor-wembanyama-ty-jerome-on-friday-november-13)
@@ -123,22 +123,22 @@ Jim Turvey
 NBA
 [Cavaliers vs Heat Predictions, Odds, NBA Cup Picks: Mobley’s Absence Changes Cleveland’s Defense](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-miami-heat-prediction-pick-nba-odds-friday-november-13)
 Matt Moore
-51 mins ago
+1 hour ago
 [![Bucks vs Magic Prediction, Pick, NBA Cup Odds for Friday, November 13](https://images.actionnetwork.com/blog/2026/11/Bucks-vs-Magic-11_13_26.jpg)](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-orlando-magic-prediction-pick-odds-nba-cup-friday-november-13)
 NBA
 [Bucks vs Magic Prediction, Pick, NBA Cup Odds for Friday, November 13](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-orlando-magic-prediction-pick-odds-nba-cup-friday-november-13)
 Matt Moore
-9 hours ago
+10 hours ago
 [![Grizzlies vs Pelicans Predictions, Odds, NBA Cup Picks: New Orleans is Kind of Cooking](https://images.actionnetwork.com/blog/2026/11/Grizzlies-vs-Pelicans-11_13_26.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-new-orleans-pelicans-prediction-pick-odds-nba-cup-friday-november-13)
 NBA
 [Grizzlies vs Pelicans Predictions, Odds, NBA Cup Picks: New Orleans is Kind of Cooking](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-new-orleans-pelicans-prediction-pick-odds-nba-cup-friday-november-13)
 Matt Moore
-37 mins ago
+1 hour ago
 [![Jazz vs Rockets Predictions, Odds, NBA Cup Picks: This Line Is Too Low](https://images.actionnetwork.com/blog/2026/11/Jazz-vs-Rockets-11.13.26.jpg)](https://www.actionnetwork.com/nba/utah-jazz-vs-houston-rockets-prediction-pick-nba-cup-odds-friday-november-13)
 NBA
 [Jazz vs Rockets Predictions, Odds, NBA Cup Picks: This Line Is Too Low](https://www.actionnetwork.com/nba/utah-jazz-vs-houston-rockets-prediction-pick-nba-cup-odds-friday-november-13)
 Matt Moore
-12 mins ago
+42 mins ago
 [![Warriors vs Spurs Prediction, Pick, NBA Cup Odds for Friday, November 13](https://images.actionnetwork.com/blog/2026/11/Warriors-vs-Spurs-11.13.26.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-san-antonio-spurs-prediction-pick-nba-cup-odds-friday-november-13)
 NBA
 [Warriors vs Spurs Prediction, Pick, NBA Cup Odds for Friday, November 13](https://www.actionnetwork.com/nba/golden-state-warriors-vs-san-antonio-spurs-prediction-pick-nba-cup-odds-friday-november-13)
@@ -146,5 +146,5 @@ Joe Dellera
 8 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bfa7047e-64e1-4a4e-a322-047aea7fd622&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f13486e-77f4-4276-b9de-de77da9b8fb8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bfa7047e-64e1-4a4e-a322-047aea7fd622&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f13486e-77f4-4276-b9de-de77da9b8fb8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=39985c61-b087-4519-b298-5a86cb747fb1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f13486e-77f4-4276-b9de-de77da9b8fb8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=7521&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=39985c61-b087-4519-b298-5a86cb747fb1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9f13486e-77f4-4276-b9de-de77da9b8fb8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=7521&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ea1c18bd-4828-46eb-b266-bec60ec247ad&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=10afe995-ccae-4b77-91d6-77717e422334&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ea1c18bd-4828-46eb-b266-bec60ec247ad&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=10afe995-ccae-4b77-91d6-77717e422334&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2d886dd0-2546-4898-9102-da8f95f24854&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=10afe995-ccae-4b77-91d6-77717e422334&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=7535&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2d886dd0-2546-4898-9102-da8f95f24854&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=10afe995-ccae-4b77-91d6-77717e422334&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-giannis-antetokounmpo-franz-wagner-friday-nov-13&tw_engaged_ms=7535&tw_iframe_status=0&tw_pid_src=2&tw_session_count=87&tw_session_id=1794611003351-28241117&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,58 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)[Available Friday](https://www.rotowire.com/basketball/headlines/kingston-flemings-news-available-friday-538947)
+**G** Atlanta Hawks
+November 13, 2026
+Flemings (back) is available for Friday's game against Chicago, [Brad Rowland of the Locked On Podcast Network](https://x.com/BTRowland/status/2121384017169686734?a=s_pRbslk9vHAKvaMPkA&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/klay-thompson-injury-ruled-out-friday-538946)
+**F** Miami Heat
+Ankle
+November 13, 2026
+Thompson (ankle) is [out](https://official.nba.com/nba-injury-report-2026-27-season/) for Friday's game against the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)[Available for Friday](https://www.rotowire.com/basketball/headlines/norman-powell-news-available-for-friday-538945)
+**G** Chicago Bulls
+November 13, 2026
+Powell (shoulder) is available for Friday's game against the Hawks and will not face a minutes restriction, [Joel Lorenzi of The Athletic](https://x.com/JoelXLorenzi/status/2121381524498956727?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/klay-thompson-injury-downgraded-to-questionable-538944)
+**F** Miami Heat
+Ankle
+November 13, 2026
+Thompson (ankle) has been downgraded to [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_06_00PM.pdf) for Friday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Downgraded to out](https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-downgraded-to-out-538943)
+**F** Miami Heat
+Illness
+November 13, 2026
+Larsson (illness) is [out](https://official.nba.com/nba-injury-report-2026-27-season/) for Friday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Gets green light to play](https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-gets-green-light-to-play-538942)
+**F** Indiana Pacers
+November 13, 2026
+Nesmith (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_06_00PM.pdf) for Friday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Good to go Friday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-news-good-to-go-friday-538941)
+**G** Indiana Pacers
+November 13, 2026
+McConnell (right hamstring strain) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_06_00PM.pdf) for Friday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
 [Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Available vs. Milwaukee](https://www.rotowire.com/basketball/headlines/jalen-suggs-news-available-vs-milwaukee-538940)
 **G** Orlando Magic
@@ -146,62 +198,6 @@ Ighodaro closed with two points (1-2 FG, 0-2 FT), three rebounds, seven assists 
 **F** Miami Heat
 November 13, 2026
 Antetokounmpo (wrist) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf) for Friday's game against Cleveland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)[Expected to play Friday](https://www.rotowire.com/basketball/headlines/klay-thompson-injury-expected-to-play-friday-538921)
-**F** Miami Heat
-Ankle
-November 13, 2026
-Thompson (ankle) is listed as [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf) for Friday's game against the Cavaliers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)[Downgraded to doubtful](https://www.rotowire.com/basketball/headlines/pelle-larsson-injury-downgraded-to-doubtful-538920)
-**F** Miami Heat
-Illness
-November 13, 2026
-Larsson (illness) is listed as [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf) for Friday's game against Cleveland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Bryce McGowens](https://www.rotowire.com/basketball/player/bryce-mcgowens-5719)[Downgraded to out](https://www.rotowire.com/basketball/headlines/bryce-mcgowens-injury-downgraded-to-out-538917)
-**G** New Orleans Pelicans
-Elbow
-November 13, 2026
-McGowens (elbow) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against the Grizzlies.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/yves-missi-injury-ruled-out-friday-538916)
-**C** New Orleans Pelicans
-Knee
-November 13, 2026
-Missi (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against the Grizzlies.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Bennedict Mathurin](https://www.rotowire.com/basketball/player/bennedict-mathurin-5698)[Upgraded to questionable](https://www.rotowire.com/basketball/headlines/bennedict-mathurin-injury-upgraded-to-questionable-538915)
-**F** New Orleans Pelicans
-Thumb
-November 13, 2026
-Mathurin (thumb) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Unlikely to play Friday](https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-unlikely-to-play-friday-538914)
-**G** New Orleans Pelicans
-Ankle
-November 13, 2026
-Murray (ankle) is [doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Won't play Friday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-wont-play-friday-538912)
-**F** New Orleans Pelicans
-Knee
-November 13, 2026
-Murphy (knees) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_00PM.pdf) for Friday's game against Memphis.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

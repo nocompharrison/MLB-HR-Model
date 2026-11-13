@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-13 18:05 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-13 18:35 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Fri, Nov 13, 2026, 6:01 PM ET
+_Updated At:_ Fri, Nov 13, 2026, 6:28 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 7 GAME SLATE:
 FRI 7:00PM ET · Main
@@ -30,16 +30,16 @@ Main · 7 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Bam Adebayo  C · $8100 FPTS 38.5 VALUE 4.8x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Bam Adebayo   |  $8.1k  | EXP.  | MIA  | CLE  | 21  |  38.5  | 4.75  |   | 43.2  | 40.2  | 39.9  | 236.5  | 119.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) K. Durant  SF · $7200 FPTS 38.5 VALUE 5.3x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Kevin Durant   |  $7.2k  | EXP.  | HOU  | UTA  | 27  |  38.5  | 5.34  |   | 34.5  | 35.5  | 36.1  | 221.5  | 118.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Ty Jerome  PG/SG · $7600 FPTS 37.7 VALUE 5.0x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Ty Jerome   |  $7.6k  | EXP.  | MEM  | NO  | 24  |  37.7  | 4.95  |   | 36.2  | 37.9  | 37.9  | 235.5  | 119.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) N. Alexander-Walker  PG · $7000 FPTS 35.9 VALUE 5.1x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Nickeil Alexander-Walker   |  $7.0k  | EXP.  | ATL  | CHI  | 27  |  35.9  | 5.13  |   | 37.4  | 32.2  | 32.9  | 245.5  | 126  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Zion Williamson  PF · $7400 FPTS 35.9 VALUE 4.8x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Zion Williamson   |  $7.4k  | EXP.  | NO  | MEM  | 18  |  35.9  | 4.85  |   | 37.0  | 37.8  | 37.6  | 235.5  | 116  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) N. Alexander-Walker  PG · $7000 FPTS 35.9 VALUE 5.1x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Nickeil Alexander-Walker   |  $7.0k  | EXP.  | ATL  | CHI  | 27  |  35.9  | 5.13  |   | 37.4  | 32.2  | 32.9  | 245.5  | 126  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey  PG · $6300 FPTS 35.8 VALUE 5.7x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey   |  $6.3k  | EXP.  | CHI  | ATL  | 2  |  35.8  | 5.69  |   | 28.0  | 27.4  | 27.4  | 245.5  | 119.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) P. Siakam  PF · $7800 FPTS 35.5 VALUE 4.5x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) Pascal Siakam   |  $7.8k  | EXP.  | IND  | NY  | 4  |  35.5  | 4.55  |   | 41.1  | 38.4  | 38.8  | 219.5  | 105.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) T. Herro  PG/PG · $7100 FPTS 34.9 VALUE 4.9x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Tyler Herro   |  $7.1k  | EXP.  | MIL  | ORL  | 19  |  34.9  | 4.92  |   | 34.9  | 34.4  | 34.8  | 223.5  | 107  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) J. Harden  PG · $7000 FPTS 34.6 VALUE 5.0x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) James Harden   |  $7.0k  | EXP.  | CLE  | MIA  | 29  |  34.6  | 4.95  |   | 31.4  | 32.1  | 31.6  | 236.5  | 117  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/UTA.svg) K. George  PG · $6500 FPTS 34.5 VALUE 5.3x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/UTA.svg) Keyonte George   |  $6.5k  | EXP.  | UTA  | HOU  | 12  |  34.5  | 5.31  |   | 36.8  | 35.2  | 35.1  | 221.5  | 103  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) D. Daniels  PG/SG · $7500 FPTS 34.3 VALUE 4.6x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Dyson Daniels   |  $7.5k  | EXP.  | ATL  | CHI  | 27  |  34.3  | 4.58  |   | 41.3  | 33.3  | 35.6  | 245.5  | 126  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Amen Thompson  PG/PG · $6900 FPTS 34.2 VALUE 5.0x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Amen Thompson   |  $6.9k  | EXP.  | HOU  | UTA  | 28  |  34.2  | 4.95  |   | 29.7  | 29.8  | 31.8  | 221.5  | 118.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) O. Okongwu  C · $6800 FPTS 34.2 VALUE 5.0x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ATL.svg) Onyeka Okongwu   |  $6.8k  | EXP.  | ATL  | CHI  | 17  |  34.2  | 5.04  |   | 37.9  | 34.1  | 31.6  | 245.5  | 126  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Amen Thompson  PG/PG · $6900 FPTS 34.2 VALUE 5.0x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Amen Thompson   |  $6.9k  | EXP.  | HOU  | UTA  | 28  |  34.2  | 4.95  |   | 29.7  | 29.8  | 31.8  | 221.5  | 118.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) J. Fears  PG · $6000 FPTS 34.1 VALUE 5.7x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Jeremiah Fears   |  $6.0k  | EXP.  | NO  | MEM  | 16  |  34.1  | 5.68  |   | 32.9  | 33.1  | 29.4  | 235.5  | 116  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) Desmond Bane  SG · $5800 FPTS 33.8 VALUE 5.8x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/ORL.svg) Desmond Bane   |  $5.8k  | EXP.  | ORL  | MIL  | 27  |  33.8  | 5.83  |   | 27.2  | 28.5  | 28.5  | 223.5  | 116.5  |  
 Log In or create a free account to see all players

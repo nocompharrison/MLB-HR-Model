@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/knicks-vs-pacers-prediction-picks-and-prop-bets-nov-13 | fetched: 2026-11-13 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/knicks-vs-pacers-prediction-picks-and-prop-bets-nov-13 | fetched: 2026-11-13 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Pacers Prediction, Picks and Prop Bets (Nov. 13)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![Knicks vs. Pacers Prediction, Picks and Prop Bets \(Nov. 13\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8655c1f5e4ef2ba8c66bd560b5334f454c620b0a-2631x1754.jpg%3Frect%3D0%2C19%2C2631%2C1302%26w%3D964%26h%3D477&w=1920&q=100)
 **Knicks at Pacers Top Bets at a Glance**
@@ -31,7 +31,7 @@ _Please note lines are subject to change throughout the day after this article i
 Spread
 Indiana Pacers
 +8.5
--110
+-120
 Nov 14 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-indiana-pacers-36307624)
 Odds/lines subject to change
 While the [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster) have been the better team through 11 games, but getting 8.5 points with the [Indiana Pacers](https://sportsbook.fanduel.com/teams/nba/indiana-pacers/odds) at home is an appealing number. 
@@ -75,12 +75,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Props Today: NBA Player Prop Bets for Friday, Nov. 13](https://www.fanduel.com/research/nba-props-today-friday-nov-13)
-23m
+1h
 NBA prop bets to target on Friday. What are today's best NBA props?
 [](https://www.fanduel.com/research/nba-props-today-friday-nov-13)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Picks and Prop Bets (Nov. 13)](https://www.fanduel.com/research/knicks-vs-pacers-prediction-picks-and-prop-bets-nov-13)
-1h
+2h
 Pacers vs Knicks picks and prediction for Friday night.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-picks-and-prop-bets-nov-13)
 [NBA](https://www.fanduel.com/research/nba)

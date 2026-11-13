@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 18:35 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 13
 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate.
@@ -110,21 +110,21 @@ Los Angeles Lakers
 Will play Friday
 NBA
 Miami Heat
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)
+Available for Friday
+NBA
+Chicago Bulls
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)
+Downgraded to out
+NBA
+Miami Heat
   * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
 [Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)
 Available vs. Milwaukee
 NBA
 Orlando Magic
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)
-Available Friday
-NBA
-Orlando Magic
-  * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)
-Iffy for Saturday
-NBA
-Brooklyn Nets
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -161,6 +161,11 @@ New England Patriots
 Still sidelined Saturday
 NHL
 Dallas Stars
+  * ![Utah Mammoth](https://assets.rotowire.com/images/teamlogo/hockey/100UTA.png?v=5)
+[Logan Cooley](https://www.rotowire.com/hockey/player/logan-cooley-6677)
+Ruled out for Saturday
+NHL
+Utah Mammoth
   * ![Anaheim Ducks](https://assets.rotowire.com/images/teamlogo/hockey/100ANA.png?v=5)
 [Laurent Brossoit](https://www.rotowire.com/hockey/player/laurent-brossoit-4334)
 Heads to minors
@@ -176,11 +181,6 @@ Nashville Predators
 First goalie off Friday
 NHL
 Vegas Golden Knights
-  * ![Detroit Red Wings](https://assets.rotowire.com/images/teamlogo/hockey/100DET.png?v=5)
-[Daniil Tarasov](https://www.rotowire.com/hockey/player/daniil-tarasov-5563)
-Slated starter for Saturday
-NHL
-Detroit Red Wings
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
