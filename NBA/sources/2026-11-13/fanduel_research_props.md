@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-for-friday-nov-13 | fetched: 2026-11-13 11:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-for-friday-nov-13 | fetched: 2026-11-13 16:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 13
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+7h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 13](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdf906f0a4019b2fe8aed73902ceebf04ddf475b3-8640x5760.jpg%3Frect%3D1607%2C317%2C7033%2C3480%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ Hawks at Bulls — 8:00 p.m. ET
 Jalen Johnson - Assists
 Jalen Johnson Under
 U 7.5
--152
+-125
 Nov 14 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/atlanta-hawks-@-chicago-bulls-36307623)
 Odds/lines subject to change
 [Jalen Johnson](https://sportsbook.fanduel.com/teams/nba/roster/jalen-johnson-2980) is one of the [Atlanta Hawks](https://sportsbook.fanduel.com/teams/nba/atlanta-hawks/roster)' most versatile offensive players, but his assist line is a touch ambitious given his recent distribution. 
@@ -42,7 +42,7 @@ Admittedly, the [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/chicago
 Cavaliers at Heat — 8:00 p.m. ET
 3+ Threes
 [James Harden](https://sportsbook.fanduel.com/teams/nba/roster/james-harden-78)
--113
+-120
 * * *
 [View more odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/cleveland-cavaliers-@-miami-heat-36307621)
 Odds/lines subject to change
@@ -55,7 +55,7 @@ Trail Blazers at Kings — 10:00 p.m. ET
 Jrue Holiday - Points
 Jrue Holiday Over
 O 12.5
--120
+-118
 Nov 14 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-sacramento-kings-36307626)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220/stats) is averaging 13.4 points per game for the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/roster), slightly above Friday's scoring line. Across his most recent 10 games, he has averaged 13.9 points, and he put up 19 in Wednesday's win over Oklahoma City.
@@ -103,22 +103,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 13](https://www.fanduel.com/research/nba-props-today-prop-bets-for-friday-nov-13)
-2h
+7h
 NBA prop bets to target on Friday. What are today's best NBA props?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-for-friday-nov-13)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Cup Predictions Today: 3 NBA Picks and Best Bets for Friday, Nov. 13](https://www.fanduel.com/research/nba-cup-predictions-today-3-nba-picks-and-best-bets-for-friday-nov-13)
-2h
+7h
 What are today's best NBA betting picks and predictions? Friday's three best NBA bets.
 [](https://www.fanduel.com/research/nba-cup-predictions-today-3-nba-picks-and-best-bets-for-friday-nov-13)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Spurs: NBA Prediction, Picks and Prop Bets (Nov. 13)](https://www.fanduel.com/research/warriors-vs-spurs-nba-prediction-picks-and-prop-bets-nov-13)
-2h
+7h
 Warriors vs Spurs picks and prediction for Friday night.
 [](https://www.fanduel.com/research/warriors-vs-spurs-nba-prediction-picks-and-prop-bets-nov-13)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers: NBA Prediction, Picks and Prop Bets (Nov. 13)](https://www.fanduel.com/research/knicks-vs-pacers-nba-prediction-picks-and-prop-bets-nov-13)
-3h
+8h
 Pacers vs Knicks picks and prediction for Friday night.
 [](https://www.fanduel.com/research/knicks-vs-pacers-nba-prediction-picks-and-prop-bets-nov-13)
 

@@ -1,10 +1,10 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-13 11:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-13 16:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
 
-Published Time: Mon, 26 Oct 2026 15:17:02 GMT
+Published Time: Fri, 13 Nov 2026 19:58:48 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
@@ -258,10 +258,10 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Austin Reaves](https://www.espn.com/nba/player/_/id/4066457/austin-reaves) | G | Nov 15 | Day-To-Day | Nov 13: Reaves (heel) won't undergo imaging and is considered day-to-day ahead of Sunday's game against the Suns, Jovan Buha of The Athletic reports. |
+| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 15 | Day-To-Day | Nov 13: Head coach JJ Redick said Friday that Doncic (ankle) is "fine," per Law Murray of The Athletic. |
 | [Quentin Grimes](https://www.espn.com/nba/player/_/id/4397014/quentin-grimes) | G | Nov 15 | Day-To-Day | Nov 12: Grimes (finger) has been ruled out for Wednesday's game against the Bucks. |
 | [Collin Sexton](https://www.espn.com/nba/player/_/id/4277811/collin-sexton) | G | Nov 15 | Day-To-Day | Nov 11: Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports. |
-| [Austin Reaves](https://www.espn.com/nba/player/_/id/4066457/austin-reaves) | G | Nov 15 | Day-To-Day | Nov 11: Head coach JJ Redick said that X-rays on Reaves' left heel came back negative, but they won't have another update until he undergoes further imaging back in Los Angeles on Thursday, Dave McMenamin of ESPN.com reports. |
-| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 15 | Day-To-Day | Nov 11: Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt, 7-10 FT), five rebounds, five assists and three steals across 32 minutes. He exited to the locker room late in the fourth quarter due to an apparent right ankle injury and did not return, Thuc Nhi Nguyen of the Los Angeles Times reports. |
 
 ![Image 37: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
 
@@ -276,9 +276,8 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Klay Thompson](https://www.espn.com/nba/player/_/id/6475/klay-thompson) | G | Nov 13 | Day-To-Day | Nov 12: Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers. |
-| [Giannis Antetokounmpo](https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo) | F | Nov 13 | Day-To-Day | Nov 12: Antetokounmpo (wrist) is probable for Friday's game against Cleveland. |
-| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 13 | Day-To-Day | Nov 12: Larsson (illness) is listed as questionable for Friday's game against Cleveland. |
+| [Klay Thompson](https://www.espn.com/nba/player/_/id/6475/klay-thompson) | G | Nov 13 | Day-To-Day | Nov 13: Thompson (ankle) is listed as probable for Friday's game against the Cavaliers. |
+| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 13 | Day-To-Day | Nov 13: Larsson (illness) is listed as doubtful for Friday's game against Cleveland. |
 
 ![Image 39: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
@@ -291,11 +290,12 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 13 | Day-To-Day | Nov 12: McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies. |
+| [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 20 | Out | Nov 13: Murray (ankle) is out for Friday's game against Memphis. |
+| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 14 | Out | Nov 13: McGowens (elbow) is listed as out for Friday's game against the Grizzlies. |
+| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 14 | Out | Nov 13: Missi (knee) is out for Friday's game against the Grizzlies. |
+| [Bennedict Mathurin](https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin) | G | Nov 13 | Day-To-Day | Nov 13: Mathurin (thumb) is listed as questionable for Friday's game against Memphis. |
+| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 14 | Out | Nov 13: Murphy (knee) is out for Friday's game against Memphis. |
 | [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 14 | Out | Nov 12: Watford (ankle) is listed as out for Friday's game against the Grizzlies. |
-| [Bennedict Mathurin](https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin) | G | Nov 13 | Day-To-Day | Nov 12: Mathurin (thumb) is listed as doubtful for Friday's game against Memphis. |
-| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 13 | Out | Nov 12: Missi (knee) is listed as doubtful for Friday's game against the Grizzlies. |
-| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 13 | Day-To-Day | Nov 12: Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies. |
 
 ![Image 41: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
@@ -312,9 +312,9 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Tristan da Silva](https://www.espn.com/nba/player/_/id/4702382/tristan-da-silva) | F | Nov 13 | Day-To-Day | Nov 12: Da Silva (calf) is questionable for Friday's game against Milwaukee. |
-| [Jamal Cain](https://www.espn.com/nba/player/_/id/4278572/jamal-cain) | F | Nov 13 | Day-To-Day | Nov 12: Cain (shoulder) is questionable for Friday's game against the Bucks. |
-| [Jalen Suggs](https://www.espn.com/nba/player/_/id/4432165/jalen-suggs) | G | Nov 13 | Out | Nov 12: Suggs (knee) is questionable for Friday's game against Milwaukee. |
+| [Jamal Cain](https://www.espn.com/nba/player/_/id/4278572/jamal-cain) | F | Nov 13 | Day-To-Day | Nov 13: Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports. |
+| [Tristan da Silva](https://www.espn.com/nba/player/_/id/4702382/tristan-da-silva) | F | Nov 13 | Day-To-Day | Nov 13: Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports. |
+| [Jalen Suggs](https://www.espn.com/nba/player/_/id/4432165/jalen-suggs) | G | Nov 13 | Out | Nov 13: Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports. |
 | [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Nov 16 | Out | Nov 9: Isaac (knee) is out for Tuesday's game against Sacramento. |
 | [Paolo Banchero](https://www.espn.com/nba/player/_/id/4432573/paolo-banchero) | F | Nov 22 | Out | Oct 24: Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports. |
 | [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 18 | Out | Oct 17: Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports. |
@@ -333,6 +333,7 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Drew Timme](https://www.espn.com/nba/player/_/id/4431695/drew-timme) | F | Nov 15 | Day-To-Day | Nov 13: The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com. |
 | [Mark Williams](https://www.espn.com/nba/player/_/id/4701232/mark-williams) | C | Feb 3 | Out | Sep 11: Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports. |
 
 ![Image 45: Portland Trail Blazers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&h=40&w=40)Portland Trail Blazers
@@ -365,6 +366,7 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Kevin McCullar Jr.](https://www.espn.com/nba/player/_/id/4411057/kevin-mccullar-jr) | G | Nov 14 | Day-To-Day | Nov 13: McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports. |
 | [Trayce Jackson-Davis](https://www.espn.com/nba/player/_/id/4431684/trayce-jackson-davis) | F | Nov 15 | Day-To-Day | Nov 12: Jackson-Davis is out for Thursday's game against the 76ers due to an illness. |
 | [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 15 | Out | Nov 12: Barnes (groin) is out for Thursday's game against Philadelphia. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 11: Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports. |
@@ -391,81 +393,15 @@ Sat
 
 Data Provided by Rotowire
 
-Sponsored Headlines
-
-[](https://l.ottoinsurance.com/n)[Oregon: Worst Car Zip Codes for Overcharging Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "Oregon: Worst Car Zip Codes for Overcharging Insurance (Is Yours On The List?)")
-
-Undo
-
-[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
-
-Undo
-
-[](https://l.ottoinsurance.com/n)[Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://l.ottoinsurance.com/n "Oregon: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
-
-Undo
-
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
-
-Undo
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)")
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for custom embroidered polos shipped within days Yahoo Search | Custom embroidered polos | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for custom embroidered polos shipped within days")
-
-Undo
-
-[](https://app.plentyside.com/cf/r/6ae9e135b0a7bd44fee24c6e)[Retirees on SS Are Due a Large Surprise This Friday PlentySide.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://app.plentyside.com/cf/r/6ae9e135b0a7bd44fee24c6e "Retirees on SS Are Due a Large Surprise This Friday")
-
-Undo
-
-[](https://searchit4me.com/search)[Search For Web Hosting Searchit4me | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://searchit4me.com/search "Search For Web Hosting")
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for unsold house for $500 Yahoo Search | Unsold house 500 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for unsold house for $500")
-
-Undo
-
 ### NBA News
 
-[![Image 51: Michael Jordan, Bugs Bunny and the lasting legacy of 'Space Jam' at 30](https://a.espncdn.com/combiner/i?img=/photo/2026/1112/r1745021_1296x729_16-9.jpg&w=220) ## Michael Jordan, Bugs Bunny and the lasting legacy of 'Space Jam' at 30 Three decades after its release, the basketball-meets-Looney Tunes adventure remains a pop culture staple. * 3h * David Dennis Jr.](https://www.espn.com/nba/story/_/id/50463999/space-jam-30-year-anniversary-influence)
+[![Image 51: Shams: Dejounte Murray has requested a trade from the Pelicans](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/ss_20261113_152101365_3739563/ss_20261113_152101365_3739563.jpg) ## Shams: Dejounte Murray has requested a trade from the Pelicans Shams: Dejounte Murray has requested a trade from the Pelicans * 23m](https://www.espn.com/video/clip/_/id/50473956/dejounte-murray-requested-trade-pelicans)
 
-[![Image 52: Donovan Mitchell's renewed faith in Cleveland fuels the Cavs' future](https://a.espncdn.com/combiner/i?img=/photo/2026/1112/r1744889_608x342_16-9.jpg&w=220) ## Donovan Mitchell's renewed faith in Cleveland fuels the Cavs' future Mitchell made two commitments this summer: his marriage and his extension with the Cavs. Now it's up to him to keep pushing Cleveland forward. * 32m * Jamal Collier](https://www.espn.com/nba/story/_/id/50463020/donovan-mitchell-cleveland-cavaliers-extension)
+[![Image 52: Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't](https://a.espncdn.com/combiner/i?img=/photo/2026/1113/r1745374_1296x729_16-9.jpg&w=220) ## Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't Andre explains why Mikal Bridges continues to hold fantasy value despite the poor start to his season. * 1h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50473517/fantasy-basketball-nba-analytics-consistency-bridges)
 
-[![Image 53: Cade drops 52 in Thursday's NBA Recap](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_Watchfolder_NBA_Recap_123/dm_261113_Watchfolder_NBA_Recap_123.jpg) ## Cade drops 52 in Thursday's NBA Recap Cade Cunningham scores a career-high 52 points, the Sixers rally past the Raptors and the Timberwolves cruise past the Mavericks. * 9h](https://www.espn.com/video/clip/_/id/50469006/cade-drops-52-thursday-nba-recap)
+[![Image 53: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2025/0121/r1441247_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
 [All NBA News](https://www.espn.com/nba/)
-
-Sponsored Headlines
-
-[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)
-
-Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
-
-Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
-
-How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
-
-The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for full coverage car insurance seniors over 65 Yahoo Search | Car insurance 65+ | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for full coverage car insurance seniors over 65")
-
-Undo
-
-[](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643)[Who Charges The Most For Car Insurance In Oregon? (Check Your ZIP Code)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643 "Who Charges The Most For Car Insurance In Oregon? (Check Your ZIP Code)")
-
-Undo
 
 ![Image 54: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
