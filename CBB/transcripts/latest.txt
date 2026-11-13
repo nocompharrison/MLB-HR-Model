@@ -1,45 +1,91 @@
-# CBB transcripts | 2026-11-13 | updated 2026-11-13 11:19 ET
+# CBB transcripts | 2026-11-13 | updated 2026-11-13 17:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 0 files in CBB/transcripts/2026-11-13:
-
+# 24 files in CBB/transcripts/2026-11-13:
+CBB/transcripts/2026-11-13/-lMzJkAgWZA_SGPN_Stanford_vs_UNLV_Prediction_Picks_Best_Bets_College_Basketball_11_13_1.txt
+CBB/transcripts/2026-11-13/3epUq1k4uNo_SGPN_New_Mexico_vs_Santa_Clara_Prediction_Picks_Best_Bets_College_Basketbal.txt
+CBB/transcripts/2026-11-13/6r6F0SqXwzA_CBSCollegeBB_LSU_vs_No_14_Gonzaga_Preview_Prediction_Will_Wade_s_first_big_test.txt
+CBB/transcripts/2026-11-13/9bgaMFuAWYY_CBSCollegeBB_Syracuse_No_13_St_John_s_Preview_Prediction_This_MSG_matchup_feels_rig.txt
+CBB/transcripts/2026-11-13/AKZf7X4KgIQ_SGPN_Ohio_vs_Purdue_Prediction_Picks_Best_Bets_College_Basketball_11_13_11.txt
+CBB/transcripts/2026-11-13/BvIlD5laUX4_SGPN_Georgia_vs_North_Carolina_Prediction_Picks_Best_Bets_College_Basketbal.txt
+CBB/transcripts/2026-11-13/DM2khGx90bY_TCE_College_Basketball_PICKS_ONLY_Friday_November_13th_TCE_Trims.txt
+CBB/transcripts/2026-11-13/DQ3qklYAV2g_SGPN_Seton_Hall_vs_Alabama_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-13/Fg7ghB11APg_FieldOf68_PREVIEW_Why_tonight_s_game_against_Georgia_is_a_BIG_one_for_North_Caro.txt
+CBB/transcripts/2026-11-13/O44FxBvgu3k_SGPN_Ohio_State_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_1.txt
+CBB/transcripts/2026-11-13/O8_wDSqoTBs_SGPN_LSU_vs_Gonzaga_Prediction_Picks_Best_Bets_College_Basketball_11_13_11.txt
+CBB/transcripts/2026-11-13/QL9YB1GBbSY_SGPN_College_Basketball_Picks_Fri_Nov_13th_Sat_Nov_14th.txt
+CBB/transcripts/2026-11-13/QrzPOWgZ09U_SGPN_Arizona_vs_Auburn_Prediction_Picks_Best_Bets_College_Basketball_11_13.txt
+CBB/transcripts/2026-11-13/VDAgO8GfTvU_SGPN_Georgetown_vs_Clemson_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-13/X3iPvNSRbGk_SGPN_Cincinnati_vs_Dayton_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-13/_K9nhjP12ig_CBSCollegeBB_No_12_Arizona_Auburn_LAST_MINUTE_Preview_Prediction_Why_this_is_a_big.txt
+CBB/transcripts/2026-11-13/_dohd_YwfZk_SGPN_Virginia_vs_Maryland_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-13/e_h6mdfaaVE_SGPN_DePaul_vs_Northwestern_Prediction_Picks_Best_Bets_College_Basketball_1.txt
+CBB/transcripts/2026-11-13/jP3Wj_uKdxQ_SGPN_Appalachian_State_vs_Charlotte_Prediction_Picks_Best_Bets_College_Bask.txt
+CBB/transcripts/2026-11-13/kfPcXQ_jzNg_LockedOnCBB_UPSET_ALERT_Arizona_at_Auburn_Louisville_at_Memphis_MORE.txt
+CBB/transcripts/2026-11-13/lxtQrv_63WI_PickDawgz_College_Basketball_Picks_for_Today_11_13_26_Friday_Best_College_Basket.txt
+CBB/transcripts/2026-11-13/pAYeptUk2Ck_FieldOf68_Why_Nik_Khamenia_is_a_HUGE_loss_for_UConn_The_LATEST_injury_timeline.txt
+CBB/transcripts/2026-11-13/qadz-czqvKk_SGPN_Pittsburgh_vs_Butler_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-13/tSrMiCGc1xo_TCE_College_Basketball_Picks_For_November_13th_NCAA_Basketball_Banter_Best.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-12
 
 # this run:
-DEFER   LockedOnCBB kfPcXQ_jzNg UPSET ALERT? Arizona at Auburn, Louisville at Memphis + MORE  (YouTube rate limit - stopping transcript pulls this run)
-DEFER   LockedOnCBB K2xnOETaAjU Elliot Cadeau SHINES as Michigan Beats Marquette | Nigel Jam  (YouTube rate limit hit earlier this run)
-DEFER   LockedOnCBB 18xQvJPj16Y SHOCKER: Robbie Avila PIVOTS, now set to join TCU after elig  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-13/kfPcXQ_jzNg_LockedOnCBB_UPSET_ALERT_Arizona_at_Auburn_Louisville_at_Memphis_MORE.txt  (6,880 words)
+NEW     CBB/transcripts/2026-11-12/K2xnOETaAjU_LockedOnCBB_Elliot_Cadeau_SHINES_as_Michigan_Beats_Marquette_Nigel_James_SHUT_DOWN.txt  (4,684 words)
+NEW     CBB/transcripts/2026-11-12/18xQvJPj16Y_LockedOnCBB_SHOCKER_Robbie_Avila_PIVOTS_now_set_to_join_TCU_after_eligibility_snaf.txt  (3,872 words)
+DEFER   CBSCollegeBB F66jp7VwWJ4 UConn's schedule is LOADED while Nik Khamenia is out  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB Tn-gVjQVz7o How Robbie Avila morphed from a Billiken to a Horned Frog  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB D2pm-gKyyY8 Kelvin Sampson says Houston wouldn’t play in the Players Era  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB W6ZM57B7-LA Robbie Avila lands at TCU; Foot surgery for UConn's Nik Kham  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB GTDyeEghfH0 TCU set to land Robbie Avila: What he brings to the Horned F  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB ahFmNtKpuHw Jon Rothstein's BIGGEST takeaway from Kentucky, Arkansas' re  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB R054wfDxw4I Michigan just played its BEST game of the season I Jon Roths  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB fLdp-nSVnUA TCU closes in on Robbie Avila, Michigan's best game of the s  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB W6ZM57B7-LA Robbie Avila lands at TCU; Foot surgery for UConn's Nik Kham  (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB GTDyeEghfH0 TCU set to land Robbie Avila: What he brings to the Horned F  (YouTube rate limit hit earlier this run)
-DEFER   CBSCollegeBB ahFmNtKpuHw Jon Rothstein's BIGGEST takeaway from Kentucky, Arkansas' re  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 Xqnoa4VxfBc THE ALL-NEW GOODMAN & FRIENDS PODCAST! Grant McCasland and I  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB 4Sob0QetMYo LIVE: 5-star CG Adan Diggs Announces College Commitment | No  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-13/9bgaMFuAWYY_CBSCollegeBB_Syracuse_No_13_St_John_s_Preview_Prediction_This_MSG_matchup_feels_rig.txt  (883 words)
+NEW     CBB/transcripts/2026-11-13/6r6F0SqXwzA_CBSCollegeBB_LSU_vs_No_14_Gonzaga_Preview_Prediction_Will_Wade_s_first_big_test.txt  (1,192 words)
+NEW     CBB/transcripts/2026-11-13/_K9nhjP12ig_CBSCollegeBB_No_12_Arizona_Auburn_LAST_MINUTE_Preview_Prediction_Why_this_is_a_big.txt  (769 words)
+DEFER   FieldOf68 Na0KPzkfoHY Breaking down our Mid-Major Rankings and the biggest storyli  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 Av8VK2KqiP8 PREVIEW: Here's how Auburn can UPSET Arizona tonight! | FIEL  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 q7hCjQL27gQ PREVIEW: Why Memphis can SHOCK Louisville in a BIG matchup t  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 48AMNTJQ00A PREVIEW: Who has the edge between Gonzaga and LSU? | 'It's g  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 EclTjNBSCQw Grant McCasland updates JT Toppin's status: 'We're NOT two w  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 nyuuu3JotSY 'I just don't think this Kentucky roster is very good...' |   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 o1Nz2mSdTNY Goodman: 'Why Kansas might be BETTER without Melvin Council   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 QbvYnw0myk0 MW INSIDER: Air Force's Kam Sanders on Their Hot Start, Joe   (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 tktr8DQ2ebM A-10 INSIDER: Duquesne's Kerem Konan on his clutch finish vs  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 pltgbI_uD3E ACC INSIDER: VT's Ben Hammond on His 32-point OT Win Over Io  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 vbsuLHykFJU TOP DOGS: UConn-Ohio State preview | REACTION to Nik Khameni  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 Xqnoa4VxfBc THE ALL-NEW GOODMAN & FRIENDS PODCAST! Grant McCasland and I  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 6E-QHqO9kn8 The most ALARMING part of Duke's loss! | 'When they got punc  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 yMif0xSxcTA 'What's happened to Nigel James Jr??' | Marquette falls at M  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   FieldOf68 wSWyADy0np4 EXCLUSIVE: JP Estrella joins the show after Michigan's BIG w  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 vTkC3tx0z7I Michigan's BIG second half over Marquette! Plus, a look back  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 Av8VK2KqiP8 PREVIEW: Here's how Auburn can UPSET Arizona tonight! | FIEL  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 q7hCjQL27gQ PREVIEW: Why Memphis can SHOCK Louisville in a BIG matchup t  (YouTube rate limit hit earlier this run)
-DEFER   FieldOf68 48AMNTJQ00A PREVIEW: Who has the edge between Gonzaga and LSU? | 'It's g  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 vbsuLHykFJU TOP DOGS: UConn-Ohio State preview | REACTION to Nik Khameni  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+UPCOMING FieldOf68 HXMBSpLBehM REACTION TO A LOADED FRIDAY SLATE! Ohio State-UConn, Arizona  (not aired yet - scheduled for 11/13/26 11:00PM)
+NEW     CBB/transcripts/2026-11-13/pAYeptUk2Ck_FieldOf68_Why_Nik_Khamenia_is_a_HUGE_loss_for_UConn_The_LATEST_injury_timeline.txt  (1,965 words)
+NEW     CBB/transcripts/2026-11-13/Fg7ghB11APg_FieldOf68_PREVIEW_Why_tonight_s_game_against_Georgia_is_a_BIG_one_for_North_Caro.txt  (2,086 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-DEFER   TCE DM2khGx90bY College Basketball PICKS ONLY - Friday, November 13th | TCE   (YouTube rate limit hit earlier this run)
-DEFER   TCE tSrMiCGc1xo College Basketball Picks For November 13th - NCAA Basketball  (YouTube rate limit hit earlier this run)
-DEFER   TCE LgbfuNWu4iw College Basketball Picks For November 12th - NCAA Basketball  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-13/DM2khGx90bY_TCE_College_Basketball_PICKS_ONLY_Friday_November_13th_TCE_Trims.txt  (19,322 words)
+NEW     CBB/transcripts/2026-11-13/tSrMiCGc1xo_TCE_College_Basketball_Picks_For_November_13th_NCAA_Basketball_Banter_Best.txt  (28,077 words)
+NEW     CBB/transcripts/2026-11-12/LgbfuNWu4iw_TCE_College_Basketball_Picks_For_November_12th_NCAA_Basketball_Banter_Best.txt  (19,425 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-DEFER   SGPN QL9YB1GBbSY College Basketball Picks: Fri, Nov 13th & Sat, Nov 14th  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-13/O44FxBvgu3k_SGPN_Ohio_State_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_1.txt  (433 words)
+NEW     CBB/transcripts/2026-11-13/AKZf7X4KgIQ_SGPN_Ohio_vs_Purdue_Prediction_Picks_Best_Bets_College_Basketball_11_13_11.txt  (411 words)
+NEW     CBB/transcripts/2026-11-13/3epUq1k4uNo_SGPN_New_Mexico_vs_Santa_Clara_Prediction_Picks_Best_Bets_College_Basketbal.txt  (593 words)
+NEW     CBB/transcripts/2026-11-13/X3iPvNSRbGk_SGPN_Cincinnati_vs_Dayton_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (390 words)
+NEW     CBB/transcripts/2026-11-13/O8_wDSqoTBs_SGPN_LSU_vs_Gonzaga_Prediction_Picks_Best_Bets_College_Basketball_11_13_11.txt  (537 words)
+NEW     CBB/transcripts/2026-11-13/-lMzJkAgWZA_SGPN_Stanford_vs_UNLV_Prediction_Picks_Best_Bets_College_Basketball_11_13_1.txt  (697 words)
+NEW     CBB/transcripts/2026-11-13/DQ3qklYAV2g_SGPN_Seton_Hall_vs_Alabama_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (565 words)
+NEW     CBB/transcripts/2026-11-13/e_h6mdfaaVE_SGPN_DePaul_vs_Northwestern_Prediction_Picks_Best_Bets_College_Basketball_1.txt  (967 words)
+NEW     CBB/transcripts/2026-11-13/QrzPOWgZ09U_SGPN_Arizona_vs_Auburn_Prediction_Picks_Best_Bets_College_Basketball_11_13.txt  (675 words)
+NEW     CBB/transcripts/2026-11-13/_dohd_YwfZk_SGPN_Virginia_vs_Maryland_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (630 words)
+NEW     CBB/transcripts/2026-11-13/jP3Wj_uKdxQ_SGPN_Appalachian_State_vs_Charlotte_Prediction_Picks_Best_Bets_College_Bask.txt  (649 words)
+NEW     CBB/transcripts/2026-11-13/BvIlD5laUX4_SGPN_Georgia_vs_North_Carolina_Prediction_Picks_Best_Bets_College_Basketbal.txt  (709 words)
+NEW     CBB/transcripts/2026-11-13/qadz-czqvKk_SGPN_Pittsburgh_vs_Butler_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (557 words)
+NEW     CBB/transcripts/2026-11-13/VDAgO8GfTvU_SGPN_Georgetown_vs_Clemson_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (1,470 words)
+NEW     CBB/transcripts/2026-11-13/QL9YB1GBbSY_SGPN_College_Basketball_Picks_Fri_Nov_13th_Sat_Nov_14th.txt  (15,463 words)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-DEFER   WagerTalk J1yk04Nz1vU College Basketball Picks TODAY! Tenn Tech vs Indiana + Monta  (per-channel cap of 6 reached - raise it in the channel list or it comes next run)
-DEFER   WagerTalk ed4iLEPPB0M CBB Picks TODAY! Ohio State vs UConn | Arizona vs Auburn | F  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk vRYzhSkBzA4 Alan Boston REVEALS His Top College Basketball Teams for 202  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk 3YIjcDLwFV4 College Basketball Picks Today: Thursday's CBB Best Bets | F  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk pudeKEMZyTs College Basketball Picks Today: Thursday's CBB Best Bets | F  (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk ENISvlAOgXA College Basketball Picks Today: Friday CBB Best Bets & Odds   (YouTube rate limit hit earlier this run)
-DEFER   WagerTalk fDsXAHZAyVY College Basketball Picks Today: Friday CBB Best Bets & Odds   (YouTube rate limit hit earlier this run)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz lxtQrv_63WI College Basketball Picks for Today 11/13/26 - Friday Best Co  (YouTube rate limit hit earlier this run)
+NEW     CBB/transcripts/2026-11-13/lxtQrv_63WI_PickDawgz_College_Basketball_Picks_for_Today_11_13_26_Friday_Best_College_Basket.txt  (6,095 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -47,4 +93,5 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
