@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-13 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,48 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Alex Morales](https://www.rotowire.com/basketball/player/alex-morales-5764)[Heading to bench](https://www.rotowire.com/basketball/headlines/alex-morales-news-heading-to-bench-538953)
+**G** Orlando Magic
+November 13, 2026
+Morales is not in the [starting lineup](https://x.com/Magic_PR/status/2121385629959479327?a=omdQGQ71Nl8YAY0zxU0&s=20) for Friday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Starting Friday](https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-starting-friday-538952)
+**F** Orlando Magic
+November 13, 2026
+Da Silva [will start](https://x.com/Magic_PR/status/2121385629959479327?a=YkAz1J1l8stxQxkgqpk&s=20) Friday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)[Coming off bench](https://www.rotowire.com/basketball/headlines/jalen-suggs-news-coming-off-bench-538951)
+**G** Orlando Magic
+November 13, 2026
+Suggs (knee) will come off the [bench](https://x.com/Magic_PR/status/2121385629959479327?s=20) Friday against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)[Promoted to starting position](https://www.rotowire.com/basketball/headlines/ousmane-dieng-news-promoted-to-starting-position-538950)
+**F** Milwaukee Bucks
+November 13, 2026
+Dieng is in the [starting lineup](https://x.com/Magic_PR/status/2121385629959479327?a=omdQGQ71Nl8YAY0zxU0&s=20) for Friday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Kel'el Ware](https://www.rotowire.com/basketball/player/kelel-ware-6275)[Moving to bench Friday](https://www.rotowire.com/basketball/headlines/kelel-ware-news-moving-to-bench-friday-538949)
+**C** Milwaukee Bucks
+November 13, 2026
+Ware [won't start](https://x.com/Magic_PR/status/2121385629959479327?a=YkAz1J1l8stxQxkgqpk&s=20) Friday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Nate Ament](https://www.rotowire.com/basketball/player/nate-ament-6965)[Shifts back to bench](https://www.rotowire.com/basketball/headlines/nate-ament-news-shifts-back-to-bench-538948)
+**F** Milwaukee Bucks
+November 13, 2026
+Ament will come off the [bench](https://x.com/Magic_PR/status/2121385629959479327?s=20) for Friday's game against the Magic, with [Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695) drawing the start.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)[Available Friday](https://www.rotowire.com/basketball/headlines/kingston-flemings-news-available-friday-538947)
 **G** Atlanta Hawks
@@ -155,49 +197,6 @@ Head coach JJ Redick said Friday that Doncic (ankle) is "fine," per [Law Murray 
 Ankle
 November 13, 2026
 Murray (ankle) is [out](https://x.com/PelicansNBA/status/2121336228121309498) for Friday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Dejounte Murray](https://www.rotowire.com/basketball/player/dejounte-murray-3856)[Requests trade from Pelicans](https://www.rotowire.com/basketball/headlines/dejounte-murray-injury-requests-trade-from-pelicans-538928)
-**G** New Orleans Pelicans
-Ankle
-November 13, 2026
-Murray (ankle) requested a trade from the Pelicans on Friday, per [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2121329790942601427).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Drops efficient 30 points](https://www.rotowire.com/basketball/headlines/alex-sarr-news-drops-efficient-30-points-538926)
-**C** Washington Wizards
-November 13, 2026
-Sarr provided 30 points (12-14 FG, 4-6 3Pt, 2-4 FT), nine rebounds, two assists, one block and two steals over 44 minutes during Thursday's 144-140 double-overtime loss to the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Jaylen Clark](https://www.rotowire.com/basketball/player/jaylen-clark-5972)[Seeing consistent burn](https://www.rotowire.com/basketball/headlines/jaylen-clark-news-seeing-consistent-burn-538925)
-**F** Minnesota Timberwolves
-November 13, 2026
-Clark had seven points (3-5 FG, 1-3 3Pt), six rebounds, two assists and one steal across 19 minutes during Thursday's 133-94 win over the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Naji Marshall](https://www.rotowire.com/basketball/player/naji-marshall-5204)[Solid start continues](https://www.rotowire.com/basketball/headlines/naji-marshall-news-solid-start-continues-538924)
-**F** Dallas Mavericks
-November 13, 2026
-Marshall notched 13 points (4-10 FG, 1-4 3Pt, 4-4 FT), one rebound, four assists and two steals across 23 minutes during Thursday's 133-94 loss to the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Oso Ighodaro](https://www.rotowire.com/basketball/player/oso-ighodaro-6293)[Holding onto starting role](https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-holding-onto-starting-role-538923)
-**C** Phoenix Suns
-November 13, 2026
-Ighodaro closed with two points (1-2 FG, 0-2 FT), three rebounds, seven assists and one block in 32 minutes during Thursday's 101-96 win over the Hornets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Will play Friday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-will-play-friday-538922)
-**F** Miami Heat
-November 13, 2026
-Antetokounmpo (wrist) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf) for Friday's game against Cleveland.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

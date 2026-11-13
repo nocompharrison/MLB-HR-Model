@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390 | fetched: 2026-11-13 18:49 ET -->
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 13
 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate.
@@ -110,21 +110,21 @@ Los Angeles Lakers
 Will play Friday
 NBA
 Miami Heat
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)
-Available for Friday
-NBA
-Chicago Bulls
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)
-Downgraded to out
-NBA
-Miami Heat
   * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
 [Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)
-Available vs. Milwaukee
+Coming off bench
 NBA
 Orlando Magic
+  * ![Milwaukee Bucks](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)
+Promoted to starting position
+NBA
+Milwaukee Bucks
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
+Available Friday
+NBA
+Atlanta Hawks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

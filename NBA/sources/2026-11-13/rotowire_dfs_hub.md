@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-13 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-13 18:49 ET -->
 
 # NBA DFS Picks Today
 November 13, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, November 13 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Atlanta Hawks (ATL @ CHI) Chicago Bulls (ATL @ CHI) Cleveland Cavaliers (CLE @ MIA) Golden State Warriors (GSW @ SAN) Houston Rockets (UTA @ HOU) Indiana Pacers (NYK @ IND) Los Angeles Clippers (OKC @ LAC) Memphis Grizzlies (MEM @ NOP) Miami Heat (CLE @ MIA) Milwaukee Bucks (MIL @ ORL) New Orleans Pelicans (MEM @ NOP) New York Knicks (NYK @ IND) Oklahoma City Thunder (OKC @ LAC) Orlando Magic (MIL @ ORL) Portland Trail Blazers (POR @ SAC) Sacramento Kings (POR @ SAC) San Antonio Spurs (GSW @ SAN) Utah Jazz (UTA @ HOU)
-Atlanta HawksATL @ CHI - 8:00 PM ET
-**[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)** _G_ _Top_ 6:29 PM ET
-#### Available Friday
-Flemings (back) is available for Friday's game against Chicago, Brad Rowland of the Locked On Podcast Network reports.
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Alex Morales](https://www.rotowire.com/basketball/player/alex-morales-5764)** _G_ 6:42 PM ET
+#### Heading to bench
+Morales is not in the starting lineup for Friday's game against the Bucks.
 Analysis
-Flemings will shed his questionable tag due to a back issue and suit up for a fifth consecutive contest. The rookie floor general has started each of his last four appearances, averaging 10.8 points, 3.8 assists and 2.3 rebounds across 24.8 minutes per tilt during that span.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)** _F_ OUT _Top_ 6:21 PM ET
-#### Ruled out Friday
-Thompson (ankle) is out for Friday's game against the Cavaliers.
+After making his first career start Wednesday in Utah, Morales is reverting back to his usual spot off the bench. He could struggle for playing time now that Jalen Suggs (knee) is back in the mix for the Magic.
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)** _F_ _Top_ 6:41 PM ET
+#### Starting Friday
+Da Silva will start Friday's game against the Bucks.
 Analysis
-The Heat sent mixed signals regarding the status of Thompson, first listing him as probable and later questionable before ruling him out altogether. With Andrew Wiggins already in line to fill in for Pelle Larsson (illness) on Friday, rookie second-rounder Ryan Conwell could be preparing for his first career start.
-Chicago BullsATL @ CHI - 8:00 PM ET
-**[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)** _G_ _Top_ 6:18 PM ET
-#### Available for Friday
-Powell (shoulder) is available for Friday's game against the Hawks and will not face a minutes restriction, Joel Lorenzi of The Athletic reports.
+Jalen Suggs (knee) will come off the bench in his return to action, opening the door for da Silva to join the first unit in his return from a two-game absence due to a calf strain. Over his last five appearances (one start), the 25-year-old forward has averaged 15.6 points, 4.6 rebounds and 1.6 assists in 31.8 minutes per showing.
+Orlando MagicMIL @ ORL - 7:00 PM ET
+**[Jalen Suggs](https://www.rotowire.com/basketball/player/jalen-suggs-5379)** _G_ _Top_ 6:40 PM ET
+#### Coming off bench
+Suggs (knee) will come off the bench Friday against the Bucks.
 Analysis
-Powell's clearance to play without restrictions is encouraging for his fantasy outlook, as he should be able to handle his usual workload. The veteran guard figures to provide Chicago with a significant scoring boost, particularly from beyond the arc, as he returns from a two-game absence.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)** _F_ OUT6:06 PM ET
-#### Downgraded to questionable
-Thompson (ankle) has been downgraded to questionable for Friday's game against Cleveland.
+Suggs hasn't played since Oct. 25, so the Magic will bring him along slowly for his first game back. That makes him a risky play outside of season-long formats. It's likely he's back in the starting lineup for the following game.
+Milwaukee BucksMIL @ ORL - 7:00 PM ET
+**[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)** _F_ _Top_ 6:38 PM ET
+#### Promoted to starting position
+Dieng is in the starting lineup for Friday's game against the Magic.
 Analysis
-Thompson initially drew a questionable tag before being upgraded to probable, though he's now trending in the wrong direction ahead of tipoff at 8:00 p.m. ET. If the veteran sharpshooter joins Pelle Larsson (illness) on the inactive list, Tim Hardaway, Ryan Conwell and Andrew Wiggins would be candidates for increased playing time.
-Miami HeatCLE @ MIA - 8:00 PM ET
-**[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)** _F_ OUT _Top_ 6:04 PM ET
-#### Downgraded to out
-Larsson (illness) is out for Friday's game against Cleveland.
+The Bucks continue to mix and match their options in the first unit, replacing Nate Ament with Dieng on Friday. Dieng made 20 starts for Milwaukee a year ago, averaging 12.5 points, 5.1 rebounds and 4.7 assists in 30.6 minutes per game during that stretch.
+Milwaukee BucksMIL @ ORL - 7:00 PM ET
+**[Kel'el Ware](https://www.rotowire.com/basketball/player/kelel-ware-6275)** _C_ 6:38 PM ET
+#### Moving to bench Friday
+Ware won't start Friday's game against the Magic.
 Analysis
-Larsson is sidelined for the first half of this back-to-back set with an illness. The expectation is that Andrew Wiggins will move back into the starting lineup after beginning the campaign as a member of the first unit.
-Show 5 more (20 remaining)
+With Myles Turner (rest) back in action, Ware will slide to the second unit. The 22-year-old center has averaged 3.2 points, 4.2 rebounds and 1.2 blocks across 14.4 minutes per game in his last five outings off the bench.
+Show 5 more (26 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -64,16 +64,16 @@ Main Slate - 6 games - 7:00 PM Nov 14 - Main Slate - 5 games - 7:00 PM (lineups 
 Implied total vs. the slate _Lowest_ _Highest_
 **NYK @ IND**
 O/U 219.57:00 PM ET
-KnicksExpectedAway
+KnicksConfirmedAway
 _Implied_**113.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $8,800  | 46.3  |  
 | PF  | OG Anunoby  | $6,400  | 31.8  |  
-| PG  | Jalen Brunson  | $8,500  | 41.4  |  
-| SF  | Josh Hart  | $5,800  | 31.6  |  
+| PG  | Jalen Brunson  | $8,500  | 41.3  |  
+| SF  | Josh Hart  | $5,800  | 31.5  |  
 | SG  | Mikal Bridges  | $4,500  | 19.1  |  
-PacersExpectedHome
+PacersConfirmedHome
 _Implied_**106.0** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -84,24 +84,24 @@ _Implied_**106.0** _Spread_**+7.5**
 | SG  | Kelly Oubre  | $4,200  | 20.6  |  
 **MIL @ ORL**
 O/U 224.57:00 PM ET
-BucksExpectedAway
+BucksConfirmedAway
 _Implied_**107.5** _Spread_**+9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Myles Turner  | $5,000  | 24.2  |  
-| PF  | Kyle Kuzma  | $5,100  | 25.4  |  
-| PG  | Brayden Burries  | $5,500  | 25.4  |  
-| SF  | Jaime Jaquez  | $5,900  | 27.8  |  
-| SG  | Tyler Herro  | $7,000  | 34.6  |  
-MagicExpectedHome
+| C  | Myles Turner  | $5,000  | 24.3  |  
+| PF  | Kyle Kuzma  | $5,100  | 22.6  |  
+| PG  | Brayden Burries  | $5,500  | 25.5  |  
+| SF  | Ousmane Dieng  | $4,000  | 16.5  |  
+| SG  | Tyler Herro  | $7,000  | 33.7  |  
+MagicConfirmedHome
 _Implied_**117.0** _Spread_**-9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $6,800  | 32.9  |  
 | PF  | Franz Wagner  | $9,500  | 42.1  |  
-| PG  | Jalen Suggs  | $5,800  | 28.9  |  
-| SF  | Desmond Bane  | $7,400  | 36.5  |  
-| SG  | Anthony Black  | $7,200  | 31.0  |  
+| PG  | Anthony Black  | $7,200  | 31.0  |  
+| SF  | Tristan da Silva  | -  | 21.3  |  
+| SG  | Desmond Bane  | $7,400  | 36.5  |  
 **CLE @ MIA**
 O/U 235.58:00 PM ET
 CavaliersExpectedAway
@@ -123,9 +123,9 @@ _Implied_**119.0** _Spread_**-2.5**
 | SF  | Andrew Wiggins  | $4,800  | 26.8  |  
 | SG  | Ryan Conwell  | $3,600  | 24.5  |  
 **ATL @ CHI**
-O/U 245.58:00 PM ET
+O/U 246.58:00 PM ET
 HawksExpectedAway
-_Implied_**126.0** _Spread_**-6.5**  
+_Implied_**126.5** _Spread_**-6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,500  | 36.2  |  
@@ -134,14 +134,14 @@ _Implied_**126.0** _Spread_**-6.5**
 | SF  | Dyson Daniels  | $6,600  | 33.4  |  
 | SG  | Nickeil Alexander-Walker  | $6,900  | 35.3  |  
 BullsConfirmedHome
-_Implied_**119.5** _Spread_**+6.5**  
+_Implied_**120.0** _Spread_**+6.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jalen Smith  | $5,900  | 38.5  |  
-| PF  | Matas Buzelis  | $5,800  | 33.0  |  
-| PG  | Josh Giddey  | $7,900  | 37.8  |  
-| SF  | Isaac Okoro  | $3,900  | 23.3  |  
-| SG  | Norman Powell  | $6,000  | 28.0  |  
+| C  | Jalen Smith  | $5,900  | 39.9  |  
+| PF  | Matas Buzelis  | $5,800  | 34.2  |  
+| PG  | Josh Giddey  | $7,900  | 39.1  |  
+| SF  | Isaac Okoro  | $3,900  | 24.2  |  
+| SG  | Norman Powell  | $6,000  | 29.2  |  
 **MEM @ NOP**
 O/U 235.58:00 PM ET
 GrizzliesExpectedAway
@@ -194,15 +194,15 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Ryan ConwellMIA - PG  | vs CLE  | $3,600  | 26  | 24.5  | **6.80**  |  
-| 2  |  Isaiah StewartMEM - PF  | @ NOP  | $3,900  | 25  | 26.3  | **6.74**  |  
-| 3  |  Jordan PooleNOP - PG  | vs MEM  | $4,000  | 24  | 26.5  | **6.64**  |  
-| 4  |  Jalen SmithCHI - C  | vs ATL  | $5,900  | 30  | 38.5  | **6.52**  |  
+| 2  |  Jalen SmithCHI - C  | vs ATL  | $5,900  | 31  | 39.9  | **6.77**  |  
+| 3  |  Isaiah StewartMEM - PF  | @ NOP  | $3,900  | 25  | 26.3  | **6.74**  |  
+| 4  |  Jordan PooleNOP - PG  | vs MEM  | $4,000  | 24  | 26.5  | **6.64**  |  
 | 5  |  Jarrett AllenCLE - C  | @ MIA  | $5,700  | 30  | 35.9  | **6.29**  |  
-| 6  |  Isaac OkoroCHI - SG  | vs ATL  | $3,900  | 26  | 23.3  | **5.96**  |  
-| 7  |  James HardenCLE - PG  | @ MIA  | $7,000  | 34  | 40.2  | **5.74**  |  
-| 8  |  Matas BuzelisCHI - SF  | vs ATL  | $5,800  | 30  | 33.0  | **5.69**  |  
-| 9  |  Jeremiah FearsNOP - PG  | vs MEM  | $6,800  | 34  | 38.4  | **5.65**  |  
-| 10  |  Onyeka OkongwuATL - C  | @ CHI  | $6,500  | 31  | 36.2  | **5.57**  |  
+| 6  |  Isaac OkoroCHI - SG  | vs ATL  | $3,900  | 27  | 24.2  | **6.20**  |  
+| 7  |  Matas BuzelisCHI - SF  | vs ATL  | $5,800  | 31  | 34.2  | **5.90**  |  
+| 8  |  Patrick WilliamsCHI - PF  | vs ATL  | $4,000  | 26  | 23.0  | **5.75**  |  
+| 9  |  James HardenCLE - PG  | @ MIA  | $7,000  | 34  | 40.2  | **5.74**  |  
+| 10  |  Jeremiah FearsNOP - PG  | vs MEM  | $6,800  | 34  | 38.4  | **5.65**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -220,27 +220,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K−20−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)WigginsConwellOkoroHartWatsonOkongwuWilliamsBuzelis
+$3K$4K$5K$6K$7K$8K$9K$10K$11K−100+10+20CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)OkoroConwellWigginsHartWatsonWilliamsOkongwuBuzelis
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** ATL@CHI, CLE@MIA, UTA@HOU, NYK@IND, MEM@NOP, MIL@ORL  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Andrew WigginsMIA · SF · CLE@MIA  | $4,800  | 8.1  | 26.7  | **51.6**  |   | +8.0  | +4  | 94  |  
-| 2  |  Ryan ConwellMIA · PG/SG · CLE@MIA  | $3,600  | 7.4  | 24.5  | **48.3**  |   | +15.0  | +3  | 94  |  
-| 3  |  Isaac OkoroCHI · SG/SF · ATL@CHI  | $3,900  | 7.2  | 24.2  | **47.8**  |   | +11.9  | +4  | 94  |  
-| 4  |  Josh HartNYK · SG/SF · NYK@IND  | $5,800  | 10.8  | 31.5  | **59.3**  |   | +7.0  | +5  | 92  |  
-| 5  |  Peyton WatsonCLE · SF/PF · CLE@MIA  | $5,600  | 9.1  | 28.8  | **54.9**  |   | +4.4  | +5  | 90  |  
-| 6  |  Onyeka OkongwuATL · C · ATL@CHI  | $6,500  | 13.6  | 36.2  | **65.9**  |   | +7.6  | +4  | 90  |  
-| 7  |  Patrick WilliamsCHI · PF · ATL@CHI  | $4,000  | 6.7  | 23.0  | **45.8**  |   | +9.1  | +3  | 90  |  
-| 8  |  James HardenCLE · PG · CLE@MIA  | $7,000  | 16.1  | 40.2  | **71.3**  |   | +8.7  | +3  | 89  |  
-| 9  |  Matas BuzelisCHI · SF/PF · ATL@CHI  | $5,800  | 12.5  | 34.2  | **62.6**  |   | +10.4  | +2  | 86  |  
+| 1  |  Isaac OkoroCHI · SG/SF · ATL@CHI  | $3,900  | 7.3  | 24.2  | **47.8**  |   | +12.5  | +4  | 94  |  
+| 2  |  Ryan ConwellMIA · PG/SG · CLE@MIA  | $3,600  | 7.4  | 24.5  | **48.3**  |   | +15.6  | +3  | 93  |  
+| 3  |  Andrew WigginsMIA · SF · CLE@MIA  | $4,800  | 8.1  | 26.7  | **51.6**  |   | +8.4  | +5  | 93  |  
+| 4  |  Josh HartNYK · SG/SF · NYK@IND  | $5,800  | 10.8  | 31.5  | **59.2**  |   | +7.2  | +5  | 92  |  
+| 5  |  Peyton WatsonCLE · SF/PF · CLE@MIA  | $5,600  | 9.1  | 28.8  | **54.9**  |   | +4.7  | +5  | 90  |  
+| 6  |  Patrick WilliamsCHI · PF · ATL@CHI  | $4,000  | 6.7  | 23.0  | **45.8**  |   | +9.7  | +3  | 90  |  
+| 7  |  Onyeka OkongwuATL · C · ATL@CHI  | $6,500  | 13.6  | 36.2  | **65.9**  |   | +7.7  | +4  | 89  |  
+| 8  |  James HardenCLE · PG · CLE@MIA  | $7,000  | 16.1  | 40.2  | **71.3**  |   | +8.7  | +3  | 88  |  
+| 9  |  Matas BuzelisCHI · SF/PF · ATL@CHI  | $5,800  | 12.5  | 34.2  | **62.6**  |   | +10.6  | +2  | 86  |  
 | 10  |  Jeremiah FearsNOP · PG · MEM@NOP  | $6,800  | 15.0  | 38.4  | **68.6**  |   | +7.8  | +2  | 85  |  
-| 11  |  Jerami GrantMEM · SF/PF · MEM@NOP  | $4,100  | 5.2  | 19.6  | **40.5**  |   | +2.9  | +4  | 81  |  
-| 12  |  Miles McBrideNYK · SG · NYK@IND  | $3,900  | 5.8  | 20.6  | **42.0**  |   | +6.1  | +2  | 80  |  
-| 13  |  Jaylen WellsMEM · SF · MEM@NOP  | $4,400  | 6.8  | 23.4  | **46.2**  |   | +6.1  | +2  | 80  |  
-| 14  |  Herbert JonesNOP · SF/PF · MEM@NOP  | $4,500  | 5.1  | 20.8  | **42.5**  |   | +1.5  | +7  | 79  |  
-| 15  |  Tari EasonHOU · SF/PF · UTA@HOU  | $5,100  | 8.1  | 25.5  | **49.8**  |   | +3.6  | +3  | 79  |  
+| 11  |  Jerami GrantMEM · SF/PF · MEM@NOP  | $4,100  | 5.2  | 19.6  | **40.5**  |   | +3.4  | +4  | 82  |  
+| 12  |  Herbert JonesNOP · SF/PF · MEM@NOP  | $4,500  | 5.1  | 20.8  | **42.5**  |   | +2.0  | +7  | 80  |  
+| 13  |  Tari EasonHOU · SF/PF · UTA@HOU  | $5,100  | 8.1  | 25.5  | **49.8**  |   | +3.9  | +3  | 80  |  
+| 14  |  Miles McBrideNYK · SG · NYK@IND  | $3,900  | 5.8  | 20.6  | **42.0**  |   | +6.7  | +2  | 80  |  
+| 15  |  Jaylen WellsMEM · SF · MEM@NOP  | $4,400  | 6.8  | 23.4  | **46.2**  |   | +6.5  | +2  | 80  |  
 Show all 106 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 6 games slate · 2026-11-13.
 ## **NBA Injury Report**
