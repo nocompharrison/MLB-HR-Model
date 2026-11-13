@@ -1,6 +1,6 @@
-# NBA transcripts | 2026-11-13 | updated 2026-11-13 18:40 ET
+# NBA transcripts | 2026-11-13 | updated 2026-11-13 18:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 25 files in NBA/transcripts/2026-11-13:
+# 26 files in NBA/transcripts/2026-11-13:
 NBA/transcripts/2026-11-13/-VjiOJNBjb0_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Friday_Buckets_Podcast.txt
 NBA/transcripts/2026-11-13/2BHLP783RAw_SportsLine_College_Football_Bets_NBA_Picks_NFL_Bets_Early_Edge.txt
 NBA/transcripts/2026-11-13/4bz70H31gNQ_PickDawgz_NBA_Picks_Today_11_13_26_Best_Friday_NBA_Bets_are_ON_DECK.txt
@@ -18,6 +18,7 @@ NBA/transcripts/2026-11-13/a38148q-x0M_FantasyAlarm_NBA_DFS_DraftKings_Preview_T
 NBA/transcripts/2026-11-13/bD3Ft5NyRwU_NBAGamblingPod_NBA_Friday_Picks_11_13_26_NBA_Bets_Player_Props_and_Predictions.txt
 NBA/transcripts/2026-11-13/cdiDz2ePdZw_KrisFDHelp_NBA_FanDuel_DFS_Top_Plays_11_13_26.txt
 NBA/transcripts/2026-11-13/dbGTZDaUT3w_SlopRules_3_Top_NBA_Plays_Parlays_for_November_13_2026.txt
+NBA/transcripts/2026-11-13/fVSAoC-YDQs_PickDawgz_NBA_Picks_Predictions_For_Today_Friday_11_13_26_FREE_NBA_Best_Bets_and.txt
 NBA/transcripts/2026-11-13/fxTwoU38OsI_PickDawgz_JAZZ_VS_ROCKETS_11_13_26_FREE_NBA_PICK_PREDICTION_ELITE_HANDICAPPER_BI.txt
 NBA/transcripts/2026-11-13/iWZK31R8qJM_JayMoney_NBA_Cup_Talk_With_Jay_Money_The_Shark_Friday_11_13_26_Free_NBA_Picks_N.txt
 NBA/transcripts/2026-11-13/owV5ITWzCmI_ShipItNation_NBA_DFS_Process_November_13_2026_DraftKings_FanDuel_Picks_Plays_Slate.txt
@@ -53,11 +54,9 @@ NONE    channel SportsLine: nothing new in the date window (or everything alread
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-13/ZbWehSPwDsU_FantasyAlarm_NBA_DFS_Picks_Today_11_13_DraftKings_Lineup_Strategy_Top_Values.txt  (11,064 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz fVSAoC-YDQs NBA Picks & Predictions For Today Friday 11/13/26 | FREE NBA  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NBA/transcripts/2026-11-13/4bz70H31gNQ_PickDawgz_NBA_Picks_Today_11_13_26_Best_Friday_NBA_Bets_are_ON_DECK.txt  (3,827 words)
-NEW     NBA/transcripts/2026-11-13/fxTwoU38OsI_PickDawgz_JAZZ_VS_ROCKETS_11_13_26_FREE_NBA_PICK_PREDICTION_ELITE_HANDICAPPER_BI.txt  (554 words)
+NEW     NBA/transcripts/2026-11-13/fVSAoC-YDQs_PickDawgz_NBA_Picks_Predictions_For_Today_Friday_11_13_26_FREE_NBA_Best_Bets_and.txt  (1,878 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
