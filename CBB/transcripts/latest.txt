@@ -1,4 +1,4 @@
-# CBB transcripts | 2026-11-14 | updated 2026-11-14 12:20 ET
+# CBB transcripts | 2026-11-14 | updated 2026-11-14 17:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 16 files in CBB/transcripts/2026-11-14:
 CBB/transcripts/2026-11-14/2dSetstm638_FieldOf68_TOP_DOGS_UConn_outlasts_Ohio_State_REACTION_This_Braylon_and_Silas_mak.txt
@@ -21,10 +21,14 @@ CBB/transcripts/2026-11-14/uiM2nt8pRIE_FieldOf68_Georgia_takes_down_North_Caroli
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-14/HXMBSpLBehM_FieldOf68_Kentucky_survives_a_MAJOR_scare_UConn_pulls_away_Georgia_takes_down_UN.txt  (17,203 words)
-NEW     CBB/transcripts/2026-11-13/Xqnoa4VxfBc_FieldOf68_THE_ALL_NEW_GOODMAN_FRIENDS_PODCAST_Grant_McCasland_and_Isaac_Trotter.txt  (14,793 words)
-NEW     CBB/transcripts/2026-11-13/O2hNDI-HUB0_FieldOf68_Did_Alex_Wilkins_just_SAVE_Kentucky_s_season_INSTANT_REACTION_AFTER_DA.txt  (3,187 words)
+NEW     CBB/transcripts/2026-11-13/GTDyeEghfH0_CBSCollegeBB_Jon_Rothstein_evaluates_the_IMPACT_Robbie_Avila_will_have_on_TCU.txt  (974 words)
+NEW     CBB/transcripts/2026-11-13/ahFmNtKpuHw_CBSCollegeBB_Jon_Rothstein_s_BIGGEST_takeaway_from_Kentucky_Arkansas_recent_matchup.txt  (1,084 words)
+NEW     CBB/transcripts/2026-11-13/R054wfDxw4I_CBSCollegeBB_Michigan_just_played_its_BEST_game_of_the_season_I_Jon_Rothstein.txt  (1,005 words)
+NEW     CBB/transcripts/2026-11-13/Av8VK2KqiP8_FieldOf68_PREVIEW_Here_s_how_Auburn_can_UPSET_Arizona_tonight_FIELD_OF_68.txt  (2,157 words)
+NEW     CBB/transcripts/2026-11-13/q7hCjQL27gQ_FieldOf68_PREVIEW_Why_Memphis_can_SHOCK_Louisville_in_a_BIG_matchup_this_weekend.txt  (1,915 words)
+NEW     CBB/transcripts/2026-11-13/48AMNTJQ00A_FieldOf68_PREVIEW_Who_has_the_edge_between_Gonzaga_and_LSU_It_s_gonna_be_a_BATTL.txt  (989 words)
+NEW     CBB/transcripts/2026-11-13/EclTjNBSCQw_FieldOf68_Grant_McCasland_updates_JT_Toppin_s_status_We_re_NOT_two_weeks_away_GO.txt  (796 words)
+NEW     CBB/transcripts/2026-11-13/QbvYnw0myk0_FieldOf68_MW_INSIDER_Air_Force_s_Kam_Sanders_on_Their_Hot_Start_Joe_Crispin_Play.txt  (5,390 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
