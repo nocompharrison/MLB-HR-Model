@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-14 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-14 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,91 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=16)
+[Sebastian Akins](https://www.rotowire.com/cbasketball/player/sebastian-akins-25882)
+Goes off for 27 points
+**G** Washington State
+November 14, 2026
+Akins amassed 27 points (8-12 FG, 3-7 3Pt, 8-8 FT), three rebounds, five assists and one steal over 24 minutes during Saturday's 123-87 win over Northwest University.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=16)
+[Fraser Roxburgh](https://www.rotowire.com/cbasketball/player/fraser-roxburgh-27838)
+Starts, grabs seven boards
+**F** Washington State
+November 14, 2026
+Roxburgh chipped in eight points (3-6 FG, 1-4 3Pt, 1-2 FT), seven rebounds and three assists across 16 minutes during Saturday's 123-87 victory over Northwest University.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Memphis](https://assets.rotowire.com/images/teamlogo/cbasketball/Memphis.png?v=16)
+[Luke Almodovar](https://www.rotowire.com/cbasketball/player/luke-almodovar-27369)
+GTD vs. Louisville
+**G** Memphis
+Head
+November 14, 2026
+Almodovar is considered a game-time decision with a head injury ahead of Saturday's game against Louisville, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2121672443748061411) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Memphis](https://assets.rotowire.com/images/teamlogo/cbasketball/Memphis.png?v=16)
+[Jayden Reid](https://www.rotowire.com/cbasketball/player/jayden-reid-22313)
+GTD for Sunday
+**G** Memphis
+Ankle
+November 14, 2026
+Reid (ankle) will be a game-time decision for Sunday's contest against Louisville, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2121672443748061411) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Jamichael Stillwell](https://www.rotowire.com/cbasketball/player/jamichael-stillwell-24562)
+Starting vs. Stonehill
+**F** Texas Tech
+November 14, 2026
+Stillwell is included in the starting rotation for Saturday's game against Stonehill, [Nathan Giese of The Lubbock-Avalanche Journal](https://x.com/NathanGiese/status/2121676293821608008) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Darrion Williams](https://www.rotowire.com/cbasketball/player/darrion-williams-20657)
+Sitting out Saturday
+**F** Texas Tech
+Undisclosed
+November 14, 2026
+Williams will not play Saturday for precautionary reasons, [Nathan Giese of the Lubbock Avalanche-Journal](https://x.com/NathanGiese/status/2121676293821) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Donovan Atwell](https://www.rotowire.com/cbasketball/player/donovan-atwell-25764)
+Ruled out Saturday
+**G** Texas Tech
+Undisclosed
+November 14, 2026
+Atwell (undisclosed) is out for Saturday's game versus Stonehill, [Nathan Giese of Lubbock Online](https://x.com/NathanGiese/status/2121676293821608008) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[Damarion Dennis](https://www.rotowire.com/cbasketball/player/damarion-dennis-24585)
+Starting Saturday
+**G** Texas Tech
+November 14, 2026
+Dennis is included in the [starting rotation](https://x.com/RedRaiderSports/status/2121677488321609820) for Saturday's game against Stonehill.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Gonzaga](https://assets.rotowire.com/images/teamlogo/cbasketball/Gonzaga.png?v=16)
+[Izan Almansa](https://www.rotowire.com/cbasketball/player/izan-almansa-27948)
+Cleared to play Saturday
+**F** Gonzaga
+November 14, 2026
+Almansa (lower leg) has been cleared to play in Saturday's game against Louisiana State, [Theo Lawson of The Spokane Spokesman-Review](https://x.com/TheoLawson_SR/status/2121675531393634372) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=16)
+[Ronnie Harrison](https://www.rotowire.com/cbasketball/player/ronnie-harrison-26184)
+Out Saturday
+**F** Washington State
+Undisclosed
+November 14, 2026
+Harrison will not play in Saturday's game against Northwest University, [Ibrahim Daniel of The Daily Evergreen](https://x.com/abe42557495/status/2121659066120609891) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
 [Camden Heide](https://www.rotowire.com/cbasketball/player/camden-heide-20447)
 Available to play Saturday
@@ -128,90 +213,6 @@ November 13, 2026
 Stewart (undisclosed) totaled seven points (2-4 FG, 1-3 3Pt, 2-2 FT), one rebound and one assist in eight minutes during Friday's 90-65 win over Ball State.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
-[Ugnius Jarusevicius](https://www.rotowire.com/cbasketball/player/ugnius-jarusevicius-20372)
-Doesn't play against Auburn
-**F** Arizona
-November 13, 2026
-Jarusevicius didn't play in Friday's 80-69 win over Auburn, [Brian Pedersen of SB Nation](https://www.azdesertswarm.com/basketball/85591/arizona-wildcats-mens-basketball-auburn-tigers-recap-final-score-stats-caleb-holt-home-nonconference-win-streak-sec-big12-2026) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
-[Bryce James](https://www.rotowire.com/cbasketball/player/bryce-james-25825)
-DNP Friday
-**G** Arizona
-Undisclosed
-November 13, 2026
-James (undisclosed) didn't play in Friday's 80-69 win against Auburn, [Brian Pedersen of SB Nation](https://www.azdesertswarm.com/basketball/85591/arizona-wildcats-mens-basketball-auburn-tigers-recap-final-score-stats-caleb-holt-home-nonconference-win-streak-sec-big12-2026) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Dayton Forsythe](https://www.rotowire.com/cbasketball/player/dayton-forsythe-23694)
-Sits out win
-**G** Oklahoma
-Undisclosed
-November 13, 2026
-Forsythe (undisclosed) didn't play in Friday's 74-58 win over Fairleigh Dickinson.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
-[Jonathan Griman](https://www.rotowire.com/cbasketball/player/jonathan-griman-23073)
-Doesn't play vs. Louisiana-Monroe
-**F** Arizona State
-Undisclosed
-November 13, 2026
-Griman (undisclosed) did not appear in Friday's 92-62 win over Louisiana-Monroe.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Derrion Reid](https://www.rotowire.com/cbasketball/player/derrion-reid-23318)
-Scores 14, grabs eight boards
-**F** Oklahoma
-November 13, 2026
-Reid ended Friday's 74-58 win over FDU with 14 points (4-8 FG, 2-4 3Pt, 4-4 FT), eight rebounds, two assists, one block and two steals in 27 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[B.J. Edwards](https://www.rotowire.com/cbasketball/player/bj-edwards-20601)
-Heats up for 16 points
-**G** Oklahoma
-November 13, 2026
-Edwards racked up 16 points (4-9 FG, 1-3 3Pt, 7-7 FT), two rebounds, two assists and one steal across 26 minutes during Friday's 74-58 victory over FDU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
-[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
-Likely avoids serious shoulder issue
-**G** Michigan State
-Shoulder
-November 13, 2026
-Scott's shoulder injury does not appear serious, as Michigan State coach Tom Izzo said Friday that the guard suffered a stinger and added that he does not expect it to be a major problem, [Jim Comparoni of Rivals.com](https://x.com/JimComparoni/status/2121437310063386965) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arkansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Arkansas.png?v=16)
-[Billy Richmond](https://www.rotowire.com/cbasketball/player/billy-richmond-23642)
-Scores season-high 21
-**F** Arkansas
-November 13, 2026
-Richmond ended Friday's 79-66 victory over Central Arkansas with 21 points (8-12 FG, 3-3 3Pt, 2-2 FT), nine rebounds, four assists and one steal in 36 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Chandler Bing](https://www.rotowire.com/cbasketball/player/chandler-bing-26137)
-Scores 15, deals four assists
-**G** Vanderbilt
-November 13, 2026
-Bing amassed 15 points (5-7 FG, 0-1 3Pt, 5-7 FT), four rebounds, four assists, one block and one steal in 22 minutes during Friday's 89-62 victory over Prairie View A&M.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Bangot Dak](https://www.rotowire.com/cbasketball/player/bangot-dak-22356)
-Hauls down 11 boards
-**F** Vanderbilt
-November 13, 2026
-Dak amassed four points (2-6 FG, 0-2 3Pt, 0-1 FT), 11 rebounds and one block across 20 minutes during Friday's 89-62 win over Prairie View A&M.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598969b9797989a9d9a9f66uokewi0e0y64606g6262646e6k6e6o)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)
 
