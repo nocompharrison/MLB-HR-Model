@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-11-14 08:36 ET -->
+<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-11-14 11:44 ET -->
 
 Title: RotoBaller Challenge Homepage
 
@@ -7,9 +7,9 @@ URL Source: https://www.rotoballer.com/rotoballer-challenge-homepage
 Published Time: 2018-01-01T14:42:51-05:00
 
 Markdown Content:
-![Image 3](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![Image 4](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
+![Image 1](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![Image 2](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 
-[![Image 5](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
+[![Image 3](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
 
 [](https://www.rotoballer.com/rotoballer-challenge-homepage#)
 
@@ -483,7 +483,7 @@ Markdown Content:
         *   [NFL Pickem Challenge](https://www.rotoballer.com/rotoballer-challenge-homepage "Football Pickem Challenge")
         *   [NCAA Pickem Challenge (CFB)](https://www.rotoballer.com/rotoballer-challenge-homepage "College Football Pickem Challenge")
 
-*   [![Image 6](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
+*   [![Image 4](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
 
 *   MY ACCOUNT
 *   [LOGIN](https://www.rotoballer.com/rotoballer-challenge-homepage#)
@@ -959,7 +959,7 @@ Markdown Content:
 
 [👋 **WELCOME VIP!** CLICK HERE TO ACCESS PREMIUM TOOLS OR CHANGE SUBSCRIPTION](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services?pa=top)[👉 CLICK TO SAVE 50 % OFF ANY PREMIUM PACKAGE WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
 
-![Image 7](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
+![Image 5](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
 Continue with Apple Continue with Google
 
@@ -970,7 +970,7 @@ or
 Don't have an account?  
 [Gain Access Now](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
-![Image 8](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
+![Image 6](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
 Continue with Apple Continue with Google
 
@@ -1002,13 +1002,13 @@ Submit
 
 Already have an account? [Log In](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
-![Image 9](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
+![Image 7](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
 ## Forgot Password
 
 * * *
 
-[![Image 10](https://www.rotoballer.com/wp-content/uploads/2023/09/RotoBaller-NFL-new-logo.png)](https://www.rotoballer.com/)
+[![Image 8](https://www.rotoballer.com/wp-content/uploads/2023/09/RotoBaller-NFL-new-logo.png)](https://www.rotoballer.com/)
 
 *   [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
 *   [FANTASY SPORTS](https://www.rotoballer.com/rotoballer-challenge-homepage#)
@@ -1435,7 +1435,7 @@ Already have an account? [Log In](https://www.rotoballer.com/rotoballer-challeng
         *   [NFL Pickem Challenge](https://www.rotoballer.com/rotoballer-challenge-homepage "Football Pickem Challenge")
         *   [NCAA Pickem Challenge (CFB)](https://www.rotoballer.com/rotoballer-challenge-homepage "College Football Pickem Challenge")
 
-*   [![Image 11](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
+*   [![Image 9](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
 
 # [RotoBaller Challenge Homepage](https://www.rotoballer.com/rotoballer-challenge-homepage "Permanent Link to RotoBaller Challenge Homepage")
 
@@ -1550,7 +1550,7 @@ For 2026, we are once again running three contests for the NFL season! Join any 
 
 ## League Constitutions - All Sports
 
-![Image 12](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
+![Image 10](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
 
 **Item****Description**
 **Registration and Entry**Registration forms will be posted a few months before the first game of the regular season.
@@ -1590,7 +1590,7 @@ Commissioner will use best discretion for managing the overall rules, settings, 
 
 ##### friends of rotoballer
 
-[![Image 13](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule)![Image 15](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![Image 17](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png)![Image 19](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![Image 21](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![Image 23](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png)[![Image 25](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize)![Image 27](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![Image 29](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![Image 31](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![Image 33](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png)![Image 35](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
+[![Image 11](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule)![Image 13](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![Image 15](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png)![Image 17](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![Image 19](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![Image 21](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png)[![Image 23](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize)![Image 25](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![Image 27](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![Image 29](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![Image 31](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png)![Image 33](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
 
 *   [CONTACT US](https://www.rotoballer.com/contact-us)
 *   [ADVERTISE](https://www.rotoballer.com/partners)
@@ -1603,13 +1603,13 @@ Commissioner will use best discretion for managing the overall rules, settings, 
 *   [PRIVACY POLICY](https://www.rotoballer.com/privacy-policy)
 *   [TERMS OF USE](https://www.rotoballer.com/terms-of-use)
 
-[![Image 37](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png)](https://twitter.com/rotoballer)[![Image 38](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png)](https://www.reddit.com/user/RotoBaller)[![Image 39](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png)](https://www.facebook.com/rotoballin)
+[![Image 35](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png)](https://twitter.com/rotoballer)[![Image 36](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png)](https://www.reddit.com/user/RotoBaller)[![Image 37](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png)](https://www.facebook.com/rotoballin)
 
 We Are Your Secret Weapon|Copyright © 2011 - 2026|Win Big with RotoBaller
 
 ✕
 
-![Image 40](https://www.rotoballer.com/wp-content/uploads/2017/09/nfl-logo-new-top-left-228-90-transparent.png)
+![Image 38](https://www.rotoballer.com/wp-content/uploads/2017/09/nfl-logo-new-top-left-228-90-transparent.png)
 ### Please Disabled Your AdBlocker
 
 Our goal is to put out the highest-quality content and tools. Ads help us pay RotobBaller's award-winning writers as much as possible they are vital to the site's operations and team.
@@ -1643,9 +1643,9 @@ Need help?
 
 [Contact support](https://www.rotoballer.com/rotoballer-challenge-homepage#)
 
-[![Image 41](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 42](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 43](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 44](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 45](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Waivers](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-10-2026/1993343?pa=sitefooter&utm_source=sitefooter&v=2)
+[![Image 39](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 40](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 41](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 42](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 43](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Waivers](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-10-2026/1993343?pa=sitefooter&utm_source=sitefooter&v=2)
 
-![Image 46](https://lantern.roeye.com/track.php?fingerprint=f4738ce8-2933-4c75-83d3-7ef51d985e1c&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F157.0.0.0%20Safari%2F537.36&site=128693)![Image 47](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+![Image 44](https://lantern.roeye.com/track.php?fingerprint=7ce48329-87de-46ea-9ff6-ac956356888b&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F157.0.0.0%20Safari%2F537.36&site=128693)![Image 45](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 
 ✕
 ## Do not sell or share my personal information.
@@ -1667,6 +1667,4 @@ Information from your device can be used to personalize your ad experience.
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
 
 A Raptive Partner Site
-
-![Image 48](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001794663388-4JK0M5YG-XYJL&halo_id=060ixfjju6a659999989f66666666666666uoowwi0e0y6666646o000000000000)![Image 49](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001794663388-4JK0M5YG-XYJL)![Image 50](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001794663388-4JK0M5YG-XYJL&adnxs_id=$UID&gdpr=0)![Image 51](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001794663388-4JK0M5YG-XYJL%26auid%3DAU1D-0100-001794663388-4JK0M5YG-XYJL&gdpr=0)![Image 52](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001794663388-4JK0M5YG-XYJL&gdpr=0)![Image 53](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001794663388-4JK0M5YG-XYJL&gdpr=0)![Image 54](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001794663388-4JK0M5YG-XYJL&gdpr=0)![Image 55](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001794663388-4JK0M5YG-XYJL&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001794663388-4JK0M5YG-XYJL%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 56](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NDY2MzM4OC00SkswTTVZRy1YWUpM&id=AU1D-0100-001794663388-4JK0M5YG-XYJL&gdpr=0)![Image 57](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001794663388-4JK0M5YG-XYJL)![Image 58](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001794663388-4JK0M5YG-XYJL&uid=[UID]&gdpr=0)![Image 59](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001794663388-4JK0M5YG-XYJL%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
