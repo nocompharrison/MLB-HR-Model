@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 17:12 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
+F - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/paul-george.php)  
+[» More News](https://www.fantasypros.com/nba/news/paul-george.php)
+[Paul George (illness) off injury report Sunday](https://www.fantasypros.com/nba/news/620068/paul-george-illness-off-injury-report-sunday.php)  
+
+Sat, Nov 14th 5:33pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Paul George (illness) is off of the injury report for Sunday’s contest between the Boston Celtics and Dallas Mavericks according to Jack Simone. (Source: [Jack Simone on Twitter ](https://x.com/jacksimonenba/status/2121725381820449139?a=otFQVdvlFYEx7LBQRls&s=46))
+**_Fantasy Impact:_** George returns to the lineup after missing Wednesday night’s contest with the illness, boosting a dynamic Boston starting five against the Mavericks for head coach Joe Mazzula Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
+C - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/joel-embiid.php)  
+[» More News](https://www.fantasypros.com/nba/news/joel-embiid.php)
+[Joel Embiid (foot) ruled out Sunday](https://www.fantasypros.com/nba/news/620064/joel-embiid-foot-ruled-out-sunday.php)  
+
+Sat, Nov 14th 5:28pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Joel Embiid (foot) has been ruled out for Sunday’s matchup between the Philadelphia 76ers and Indiana Pacers according to Adam Aaronson. (Source: [Adam Aaronson on Twitter ](https://x.com/sixersadam/status/2121724944459391102?a=VXUzqdBGN6Uia4bjbsM&s=46))
+**_Fantasy Impact:_** Embiid will sit out the first leg of a back-to-back due to foot injury management for head coach Nick Nurse, with the returning LeBron James (back) potentially absorbing more minutes at center against the Pacers Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/lebron-james.php)  
+[» More News](https://www.fantasypros.com/nba/news/lebron-james.php)
+[LeBron James (back) off injury report Sunday](https://www.fantasypros.com/nba/news/620060/lebron-james-back-off-injury-report-sunday.php)  
+
+Sat, Nov 14th 5:26pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+LeBron James (back) is off of the injury report for Sunday’s contest between the Philadelphia 76ers and Indiana Pacers according to Adam Aaronson. (Source: [Adam Aaronson on Twitter](https://x.com/sixersadam/status/2121724944459391102?a=VXUzqdBGN6Uia4bjbsM&s=46))
+**_Fantasy Impact:_** James returns to the lineup after sitting out Thursday night for head coach Nick Nurse, boosting a Philadelphia starting five that will be missing Joel Embiid (foot) against the Pacers. The veteran could see some minutes at center as well with Adem Bona also out Sunday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![T.J. McConnell](https://images.fantasypros.com/images/players/nba/3083/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tj-mcconnell.php)
 G - IND
 [» Rankings](https://www.fantasypros.com/nba/players/tj-mcconnell.php)  
@@ -245,48 +287,6 @@ Scottie Barnes is listed as questionable for Sunday’s game against the Knicks.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Mikel Brown Jr.](https://images.fantasypros.com/images/players/nba/6613/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mikel-brown.php)
-G - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/mikel-brown.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/mikel-brown.php)  
-[» More News](https://www.fantasypros.com/nba/news/mikel-brown.php)
-[Mikel Brown Jr. (illness) now probable Saturday ](https://www.fantasypros.com/nba/news/620029/mikel-brown-jr-illness-now-probable-saturday.php)  
-
-Sat, Nov 14th 2:54pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Mikel Brown Jr. is now probable for Saturday’s game against the Grizzlies.
-**_Fantasy Impact:_** Brown is likely to return for the Nets from a two-game absence. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
-[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
-[Trey Murphy III (knee) ruled out Saturday ](https://www.fantasypros.com/nba/news/620028/trey-murphy-iii-knee-ruled-out-saturday.php)  
-
-Sat, Nov 14th 2:53pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trey Murphy III has been ruled out for Saturday’s game against the Nuggets.
-**_Fantasy Impact:_** Murphy will be sidelined for the Pelicans for a fourth straight game. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Yves Missi](https://images.fantasypros.com/images/players/nba/6153/headshot/100x100.png)](https://www.fantasypros.com/nba/players/yves-missi.php)
-C - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/yves-missi.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/yves-missi.php)  
-[» More News](https://www.fantasypros.com/nba/news/yves-missi.php)
-[Yves Missi (knee) listed probable Saturday ](https://www.fantasypros.com/nba/news/620027/yves-missi-knee-listed-probable-saturday.php)  
-
-Sat, Nov 14th 2:52pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Yves Missi is listed as probable for Saturday’s game against the Nuggets.
-**_Fantasy Impact:_** Missi is likely to return after missing the past 11 games. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=760_1794694057820&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQwMLw1oAol8ZMw%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

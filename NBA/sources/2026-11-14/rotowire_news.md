@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 17:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,67 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)[Out Saturday](https://www.rotowire.com/basketball/headlines/peyton-watson-injury-out-saturday-539143)
+**F** Cleveland Cavaliers
+Hamstring
+November 14, 2026
+Watson (hamstring) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_45PM.pdf) for Saturday's game against the Mavericks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[James Harden](https://www.rotowire.com/basketball/player/james-harden-3018)[Ruled out Saturday](https://www.rotowire.com/basketball/headlines/james-harden-injury-ruled-out-saturday-539142)
+**G** Cleveland Cavaliers
+Calf
+November 14, 2026
+Harden (calf) has been ruled [out ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_45PM.pdf)for Saturday's game against Dallas.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Donovan Mitchell](https://www.rotowire.com/basketball/player/donovan-mitchell-4166)[Ruled out Saturday](https://www.rotowire.com/basketball/headlines/donovan-mitchell-injury-ruled-out-saturday-539141)
+**G** Cleveland Cavaliers
+Knee
+November 14, 2026
+Mitchell (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_45PM.pdf) for Saturday's game against the Mavericks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/jarrett-allen-injury-wont-play-saturday-539140)
+**C** Cleveland Cavaliers
+Knee
+November 14, 2026
+Allen (knee) has been ruled [out ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_45PM.pdf)for Saturday's game against the Mavericks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/ousmane-dieng-injury-ruled-out-for-sunday-539139)
+**F** Milwaukee Bucks
+Finger
+November 14, 2026
+Dieng (finger) has been [ruled out](https://x.com/Bucks/status/2121733849344549094?a=IWe4aVvbltrpkxNohjU&s=20) for Sunday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)[Officially active](https://www.rotowire.com/basketball/headlines/yves-missi-news-officially-active-539138)
+**C** New Orleans Pelicans
+November 14, 2026
+Missi (knee) will be available for Saturday's game against Denver, [Jim Eichenhofer of the Pelicans' official site](https://x.com/Jim_Eichenhofer/status/2121730711623180443?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)[Fades injury report](https://www.rotowire.com/basketball/headlines/paul-george-news-fades-injury-report-539137)
+**F** Boston Celtics
+November 14, 2026
+George (illness) isn't listed on the injury report for Sunday's game against Dallas, [Jack Simone of BostonSportsJournal.com](https://x.com/JackSimoneNBA/status/2121725381820449139?a=RRvP1d4E5233WfjwYFw&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Off injury report](https://www.rotowire.com/basketball/headlines/lebron-james-news-off-injury-report-539136)
+**F** Philadelphia 76ers
+November 14, 2026
+James (back) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_00PM.pdf) for Sunday's game against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-wont-play-sunday-539135)
 **C** Philadelphia 76ers
@@ -140,64 +201,6 @@ Bryant produced nine points (3-8 FG, 0-3 3Pt, 3-5 FT), one rebound, one assist a
 **F** Chicago Bulls
 November 14, 2026
 Williams ended with 13 points (4-7 FG, 4-6 3Pt, 1-2 FT), four rebounds, two assists and two steals in 24 minutes during Friday's 125-117 overtime victory over the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)[Set to play Sunday](https://www.rotowire.com/basketball/headlines/luka-doncic-news-set-to-play-sunday-539116)
-**G** Los Angeles Lakers
-November 14, 2026
-Doncic (ankle) won't be listed on the injury report for Sunday's game against the Suns, [Benjamin Royer of The Orange County Register](https://x.com/thebenroyer/status/2121702457634070989?a=idmhfecCG4aORhQIENo&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Buddy Hield](https://www.rotowire.com/basketball/player/buddy-hield-3884)[Chips in 12 points Friday](https://www.rotowire.com/basketball/headlines/buddy-hield-news-chips-in-12-points-friday-539115)
-**G** Chicago Bulls
-November 14, 2026
-Hield amassed 12 points (5-10 FG, 2-7 3Pt), three rebounds, three assists, two steals and one block over 25 minutes during Friday's 125-117 overtime win over the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Quenton Jackson](https://www.rotowire.com/basketball/player/quenton-jackson-5755)[Shooting woes in win](https://www.rotowire.com/basketball/headlines/quenton-jackson-news-shooting-woes-in-win-539114)
-**G** Indiana Pacers
-November 14, 2026
-Jackson provided three points (1-4 FG, 1-3 3Pt), five rebounds, four assists and one steal over 20 minutes during Friday's 106-104 win over the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)[Full participant in practice](https://www.rotowire.com/basketball/headlines/collin-sexton-injury-full-participant-in-practice-539113)
-**G** Los Angeles Lakers
-Head
-November 14, 2026
-Sexton (head) was a full participant in Saturday's practice, [Dave McMenamin of ESPN.com](https://x.com/mcten/status/2121699434803363916?a=juA1318vPohsZvI6DDo&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Tyler Kolek](https://www.rotowire.com/basketball/player/tyler-kolek-6273)[Grabs six boards in loss](https://www.rotowire.com/basketball/headlines/tyler-kolek-news-grabs-six-boards-in-loss-539112)
-**G** New York Knicks
-November 14, 2026
-Kolek closed Friday's 106-104 loss to Indiana with five points (2-4 FG, 1-2 3Pt), six rebounds and two assists in 18 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Desmond Bane](https://www.rotowire.com/basketball/player/desmond-bane-5159)[Scores 21 points Friday](https://www.rotowire.com/basketball/headlines/desmond-bane-news-scores-21-points-friday-539111)
-**G** Orlando Magic
-November 14, 2026
-Bane fouled out of Friday's 107-99 victory over Milwaukee after recording 21 points (7-13 FG, 6-10 3Pt, 1-1 FT), five rebounds, three assists and two steals across 35 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)[Doesn't practice Saturday](https://www.rotowire.com/basketball/headlines/austin-reaves-injury-doesnt-practice-saturday-539110)
-**G** Los Angeles Lakers
-Heel
-November 14, 2026
-Reaves (heel) didn't participate in Saturday's practice, [Dave McMenamin of ESPN.com](https://x.com/mcten/status/2121695974582354283?a=BsaYZncCWqqZoS_HDNY&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[AJ Green](https://www.rotowire.com/basketball/player/aj-green-5750)[Limited run continues](https://www.rotowire.com/basketball/headlines/aj-green-news-limited-run-continues-539109)
-**G** Milwaukee Bucks
-November 14, 2026
-Green racked up zero points (0-1 FG, 0-1 3Pt) and two assists in eight minutes during Friday's 107-99 loss to Orlando.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

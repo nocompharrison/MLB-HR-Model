@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 17:12 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 18:05 ET -->
 
 
 ---
@@ -104,21 +104,21 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
-  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)
-Ruled out for Sunday
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)
+Officially active
 NBA
-Houston Rockets
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)
-Questionable for Sunday
+New Orleans Pelicans
+  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)
+Fades injury report
 NBA
-Washington Wizards
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
-Questionable for Sunday
+Boston Celtics
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
+Off injury report
 NBA
-Indiana Pacers
+Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -322,21 +322,21 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
-  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)
-Ruled out for Sunday
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)
+Officially active
 NBA
-Houston Rockets
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)
-Questionable for Sunday
+New Orleans Pelicans
+  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)
+Fades injury report
 NBA
-Washington Wizards
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
-Questionable for Sunday
+Boston Celtics
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
+Off injury report
 NBA
-Indiana Pacers
+Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
