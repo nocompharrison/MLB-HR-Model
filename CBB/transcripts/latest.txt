@@ -1,32 +1,31 @@
-# CBB transcripts | 2026-11-14 | updated 2026-11-14 12:14 ET
+# CBB transcripts | 2026-11-14 | updated 2026-11-14 12:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 12 files in CBB/transcripts/2026-11-14:
+# 15 files in CBB/transcripts/2026-11-14:
 CBB/transcripts/2026-11-14/2dSetstm638_FieldOf68_TOP_DOGS_UConn_outlasts_Ohio_State_REACTION_This_Braylon_and_Silas_mak.txt
+CBB/transcripts/2026-11-14/4yg4o2qDrSk_FieldOf68_Arizona_s_IMPRESSIVE_win_at_Auburn_shows_they_re_STILL_a_top_10_team.txt
 CBB/transcripts/2026-11-14/9SihquV3GTM_FieldOf68_Hansbrough_Duke_lacks_a_true_LEADER_What_does_Jon_Scheyer_have_to_do_A.txt
 CBB/transcripts/2026-11-14/HZY1KzQy49k_FieldOf68_Is_Georgetown_finally_BACK_The_Hoyas_are_4_0_after_a_BIG_win_at_Clemso.txt
 CBB/transcripts/2026-11-14/K-CfSNRYhgw_PickDawgz_College_Basketball_Picks_for_Today_11_14_26_Saturday_s_Best_College_Ba.txt
 CBB/transcripts/2026-11-14/LAMRKlAyjTc_TCE_College_Basketball_PICKS_ONLY_Saturday_November_14th_TCE_Trims.txt
 CBB/transcripts/2026-11-14/Na0KPzkfoHY_FieldOf68_Breaking_down_our_Mid_Major_Rankings_and_the_biggest_storylines_in_CBB.txt
 CBB/transcripts/2026-11-14/SLm3D2fcym4_PickDawgz_TEXAS_VS_LSU_11_14_26_FREE_NCAAB_PICK_PREDICTION_ELITE_HANDICAPPER_BIG.txt
+CBB/transcripts/2026-11-14/Y-mZTq1YPNU_FieldOf68_Mark_Pope_hopes_everyone_had_FUN_at_Rupp_Kentucky_survives_MAJOR_scare.txt
 CBB/transcripts/2026-11-14/bS-SRg4_w8Q_TCE_College_Basketball_Best_Bets_For_November_14th_Spread_Moneyline_Bettin.txt
 CBB/transcripts/2026-11-14/hEzRjGfTTys_FieldOf68_Virginia_s_BIG_second_half_comeback_over_Maryland_This_team_is_Final_F.txt
 CBB/transcripts/2026-11-14/l-yAPqnjmgY_FieldOf68_UConn_SURGES_past_Ohio_State_This_is_the_BEST_backcourt_in_America_AFT.txt
 CBB/transcripts/2026-11-14/r-7p6gDu0uY_PickDawgz_College_Basketball_Picks_Predictions_Today_11_14_26_Ron_s_Bank_Shot_Br.txt
 CBB/transcripts/2026-11-14/sZPaX3tMIVg_TCE_College_Basketball_Picks_For_November_14th_NCAA_Basketball_Banter_Best.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-13
+CBB/transcripts/2026-11-14/uiM2nt8pRIE_FieldOf68_Georgia_takes_down_North_Carolina_Why_Hansbrough_and_Henson_AREN_T_wor.txt
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-13/D2pm-gKyyY8_CBSCollegeBB_Kelvin_Sampson_says_Houston_wouldn_t_play_in_the_Players_Era_8_if_not.txt  (5,387 words)
-DEFER   FieldOf68 4yg4o2qDrSk 'Arizona's IMPRESSIVE win at Auburn shows they're STILL a to  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 Y-mZTq1YPNU Mark Pope hopes everyone had FUN at Rupp?! | Kentucky surviv  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 uiM2nt8pRIE Georgia takes down North Carolina! | Why Hansbrough and Hens  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
 DEFER   FieldOf68 HXMBSpLBehM Kentucky survives a MAJOR scare! UConn pulls away, Georgia t  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 Xqnoa4VxfBc THE ALL-NEW GOODMAN & FRIENDS PODCAST! Grant McCasland and I  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   FieldOf68 O2hNDI-HUB0 Did Alex Wilkins just SAVE Kentucky's season?! | INSTANT REA  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-14/HZY1KzQy49k_FieldOf68_Is_Georgetown_finally_BACK_The_Hoyas_are_4_0_after_a_BIG_win_at_Clemso.txt  (1,013 words)
-NEW     CBB/transcripts/2026-11-14/hEzRjGfTTys_FieldOf68_Virginia_s_BIG_second_half_comeback_over_Maryland_This_team_is_Final_F.txt  (1,995 words)
-NEW     CBB/transcripts/2026-11-14/l-yAPqnjmgY_FieldOf68_UConn_SURGES_past_Ohio_State_This_is_the_BEST_backcourt_in_America_AFT.txt  (1,261 words)
+NEW     CBB/transcripts/2026-11-14/4yg4o2qDrSk_FieldOf68_Arizona_s_IMPRESSIVE_win_at_Auburn_shows_they_re_STILL_a_top_10_team.txt  (1,803 words)
+NEW     CBB/transcripts/2026-11-14/Y-mZTq1YPNU_FieldOf68_Mark_Pope_hopes_everyone_had_FUN_at_Rupp_Kentucky_survives_MAJOR_scare.txt  (2,533 words)
+NEW     CBB/transcripts/2026-11-14/uiM2nt8pRIE_FieldOf68_Georgia_takes_down_North_Carolina_Why_Hansbrough_and_Henson_AREN_T_wor.txt  (2,573 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
