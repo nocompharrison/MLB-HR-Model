@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 17:12 ET -->
 
 
 ---
@@ -71,6 +71,11 @@ Boston Red Sox
 Inks four-year deal with Boston
 MLB
 Boston Red Sox
+  * ![Washington Nationals](https://assets.rotowire.com/images/teamlogo/baseball/100WSH.png?v=8)
+[Connelly Early](https://www.rotowire.com/baseball/player/connelly-early-19049)
+Beginning offseason program
+MLB
+Washington Nationals
   * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
 [Tyler Heineman](https://www.rotowire.com/baseball/player/tyler-heineman-13152)
 Avoids arbitration
@@ -86,11 +91,6 @@ Sacramento Athletics
 Back with Halos
 MLB
 Los Angeles Angels
-  * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
-[Kala'i Rosario](https://www.rotowire.com/baseball/player/kalai-rosario-16749)
-Inks minor-league deal with Padres
-MLB
-San Diego Padres
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -104,21 +104,21 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
+  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)
+Ruled out for Sunday
+NBA
+Houston Rockets
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)
+Questionable for Sunday
+NBA
+Washington Wizards
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
 Questionable for Sunday
 NBA
 Indiana Pacers
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
-Full participant in practice
-NBA
-Los Angeles Lakers
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
-Doesn't practice Saturday
-NBA
-Los Angeles Lakers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -132,6 +132,11 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
+Questionable for Monday Night Football
+NFL
+Los Angeles Chargers
   * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
 [TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
 Placed on IR
@@ -142,11 +147,6 @@ New England Patriots
 Activated from injured reserve
 NFL
 New Orleans Saints
-  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
-[Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
-Targeting Week 12 return
-NFL
-Minnesota Vikings
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -289,6 +289,11 @@ Boston Red Sox
 Inks four-year deal with Boston
 MLB
 Boston Red Sox
+  * ![Washington Nationals](https://assets.rotowire.com/images/teamlogo/baseball/100WSH.png?v=8)
+[Connelly Early](https://www.rotowire.com/baseball/player/connelly-early-19049)
+Beginning offseason program
+MLB
+Washington Nationals
   * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
 [Tyler Heineman](https://www.rotowire.com/baseball/player/tyler-heineman-13152)
 Avoids arbitration
@@ -304,11 +309,6 @@ Sacramento Athletics
 Back with Halos
 MLB
 Los Angeles Angels
-  * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
-[Kala'i Rosario](https://www.rotowire.com/baseball/player/kalai-rosario-16749)
-Inks minor-league deal with Padres
-MLB
-San Diego Padres
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -322,21 +322,21 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
+  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)
+Ruled out for Sunday
+NBA
+Houston Rockets
+  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)
+Questionable for Sunday
+NBA
+Washington Wizards
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
 Questionable for Sunday
 NBA
 Indiana Pacers
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
-Full participant in practice
-NBA
-Los Angeles Lakers
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
-Doesn't practice Saturday
-NBA
-Los Angeles Lakers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -350,6 +350,11 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
+Questionable for Monday Night Football
+NFL
+Los Angeles Chargers
   * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
 [TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
 Placed on IR
@@ -360,11 +365,6 @@ New England Patriots
 Activated from injured reserve
 NFL
 New Orleans Saints
-  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
-[Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
-Targeting Week 12 return
-NFL
-Minnesota Vikings
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

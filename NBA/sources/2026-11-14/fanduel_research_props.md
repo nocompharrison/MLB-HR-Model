@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14 | fetched: 2026-11-14 16:35 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14 | fetched: 2026-11-14 17:12 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -32,7 +32,7 @@ Nuggets at Pelicans — 7:00 p.m. ET
 Jamal Murray - Made Threes
 Jamal Murray Over
 O 3.5
-+132
++130
 Nov 15 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/denver-nuggets-@-new-orleans-pelicans-36311557)
 Odds/lines subject to change
 The [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/denver-nuggets/roster) have gotten plenty of perimeter production from [Jamal Murray](https://sportsbook.fanduel.com/teams/nba/roster/jamal-murray-2421/player-props), who has made 4.0 three-pointers per game over his last 10 appearances. Murray has knocked down at least three triples in seven of those 10 games, including five against Memphis on November 11 and seven against Phoenix on October 30. 

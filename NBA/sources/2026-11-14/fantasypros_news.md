@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 16:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 17:12 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,132 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![T.J. McConnell](https://images.fantasypros.com/images/players/nba/3083/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tj-mcconnell.php)
+G - IND
+[» Rankings](https://www.fantasypros.com/nba/players/tj-mcconnell.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tj-mcconnell.php)  
+[» More News](https://www.fantasypros.com/nba/news/tj-mcconnell.php)
+[T.J. McConnell (hamstring) listed probable Sunday ](https://www.fantasypros.com/nba/news/620057/tj-mcconnell-hamstring-listed-probable-sunday.php)  
+
+Sat, Nov 14th 5:00pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+T.J. McConnell is listed as probable for Sunday's game against the 76ers. 
+**_Fantasy Impact:_** McConnell has still been playing limited minutes. He is on track to play in his usual reserve role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tre Johnson](https://images.fantasypros.com/images/players/nba/6316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tre-johnson.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/tre-johnson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tre-johnson.php)  
+[» More News](https://www.fantasypros.com/nba/news/tre-johnson.php)
+[Tre Johnson (back) listed questionable Sunday ](https://www.fantasypros.com/nba/news/620056/tre-johnson-back-listed-questionable-sunday.php)  
+
+Sat, Nov 14th 5:00pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Tre Johnson is listed as questionable for Sunday’s game against the Rockets. 
+**_Fantasy Impact:_** Johnson is on the injury report with a back issue. His status will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Bub Carrington](https://images.fantasypros.com/images/players/nba/6148/headshot/100x100.png)](https://www.fantasypros.com/nba/players/carlton-carrington.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/carlton-carrington.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/carlton-carrington.php)  
+[» More News](https://www.fantasypros.com/nba/news/carlton-carrington.php)
+[Bub Carrington (chest) listed questionable Sunday ](https://www.fantasypros.com/nba/news/620055/bub-carrington-chest-listed-questionable-sunday.php)  
+
+Sat, Nov 14th 4:59pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Bub Carrington is listed as questionable for Sunday’s game against the Rockets. 
+**_Fantasy Impact:_** Carrington left early from Thursday’s game. His status is up in the air for Sunday as a result. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Keegan Murray](https://images.fantasypros.com/images/players/nba/5502/headshot/100x100.png)](https://www.fantasypros.com/nba/players/keegan-murray.php)
+F - SAC
+[» Rankings](https://www.fantasypros.com/nba/players/keegan-murray.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/keegan-murray.php)  
+[» More News](https://www.fantasypros.com/nba/news/keegan-murray.php)
+[Keegan Murray (illness) misses practice Saturday ](https://www.fantasypros.com/nba/news/620054/keegan-murray-illness-misses-practice-saturday.php)  
+
+Sat, Nov 14th 4:58pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Keegan Murray did not practice on Saturday. (Source: [Brenden Nunes on Twitter](https://x.com/BrendenNunesNBA/status/2121718306977796133?a=9aE0rpv6KgWAZLoJB4E&s=20))
+**_Fantasy Impact:_** Murray is dealing with an illness. His status is uncertain for Sunday's game against the Thunder. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ty Jerome](https://images.fantasypros.com/images/players/nba/4513/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ty-jerome.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/ty-jerome.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ty-jerome.php)  
+[» More News](https://www.fantasypros.com/nba/news/ty-jerome.php)
+[Ty Jerome (hip) ruled out Saturday ](https://www.fantasypros.com/nba/news/620053/ty-jerome-hip-ruled-out-saturday.php)  
+
+Sat, Nov 14th 4:55pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ty Jerome has been ruled out for Saturday's game against the Nets. 
+**_Fantasy Impact:_** Cam Spencer could see a spot start in the absence of Jerome. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Zach Edey](https://images.fantasypros.com/images/players/nba/5540/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zach-edey.php)
+C - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/zach-edey.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/zach-edey.php)  
+[» More News](https://www.fantasypros.com/nba/news/zach-edey.php)
+[Zach Edey (ankle) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620052/zach-edey-ankle-listed-questionable-saturday.php)  
+
+Sat, Nov 14th 4:55pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Zach Edey is listed as questionable for Saturday’s game against the Nets.
+**_Fantasy Impact:_** If Edey remains sidelined, Isaiah Stewart would likely be in line for another spot start. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jerami Grant](https://images.fantasypros.com/images/players/nba/2868/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jerami-grant.php)
+F - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/jerami-grant.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jerami-grant.php)  
+[» More News](https://www.fantasypros.com/nba/news/jerami-grant.php)
+[Jerami Grant (head) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620051/jerami-grant-head-listed-questionable-saturday.php)  
+
+Sat, Nov 14th 4:54pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jerami Grant is listed as questionable for Saturday’s game against the Nets.
+**_Fantasy Impact:_** Grant played 26 minutes off the bench Friday against the Pelicans. His status is uncertain for the second game of the back-to-back. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Quinten Post](https://images.fantasypros.com/images/players/nba/6178/headshot/100x100.png)](https://www.fantasypros.com/nba/players/quinten-post.php)
+C - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/quinten-post.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/quinten-post.php)  
+[» More News](https://www.fantasypros.com/nba/news/quinten-post.php)
+[Quinten Post (concussion) ruled out Saturday ](https://www.fantasypros.com/nba/news/620050/quinten-post-concussion-ruled-out-saturday.php)  
+
+Sat, Nov 14th 4:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Quinten Post has been ruled out for Saturday’s game against the Nets.
+**_Fantasy Impact:_** Post remains in concussion protocol. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
+[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
+[Austin Reaves (heel) misses practice Saturday ](https://www.fantasypros.com/nba/news/620049/austin-reaves-heel-misses-practice-saturday.php)  
+
+Sat, Nov 14th 4:52pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Austin Reaves did not practice on Saturday. (Source: [Dave McMenamin on Twitter](https://x.com/mcten/status/2121695974582354283))
+**_Fantasy Impact:_** Reaves is dealing with a heel bruise. He remains day-to-day. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
 G - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
@@ -161,141 +287,15 @@ Yves Missi is listed as probable for Saturday’s game against the Nuggets.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Norman Powell](https://images.fantasypros.com/images/players/nba/3073/headshot/100x100.png)](https://www.fantasypros.com/nba/players/norman-powell.php)
-G - CHI
-[» Rankings](https://www.fantasypros.com/nba/players/norman-powell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/norman-powell.php)  
-[» More News](https://www.fantasypros.com/nba/news/norman-powell.php)
-[Norman Powell (back) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620026/norman-powell-back-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 2:51pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Norman Powell is listed as questionable for Saturday’s game against the Timberwolves. 
-**_Fantasy Impact:_** Powell is managing a lower back injury. His status will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nic Claxton](https://images.fantasypros.com/images/players/nba/4519/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nicolas-claxton.php)
-C - CHI
-[» Rankings](https://www.fantasypros.com/nba/players/nicolas-claxton.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nicolas-claxton.php)  
-[» More News](https://www.fantasypros.com/nba/news/nicolas-claxton.php)
-[Nic Claxton (hamstring) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620025/nic-claxton-hamstring-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 2:50pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Nic Claxton is listed as questionable for Saturday’s game against the Timberwolves. 
-**_Fantasy Impact:_** Jalen Smith is also listed as questionable. They will both need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
-F - CHI
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
-[Jalen Smith (finger) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620024/jalen-smith-finger-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 2:50pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jalen Smith is listed as questionable for Saturday’s game against the Timberwolves. 
-**_Fantasy Impact:_** Nic Claxton is also listed as questionable. They will both need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Max Christie](https://images.fantasypros.com/images/players/nba/5514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/max-christie.php)
-G - DAL
-[» Rankings](https://www.fantasypros.com/nba/players/max-christie.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/max-christie.php)  
-[» More News](https://www.fantasypros.com/nba/news/max-christie.php)
-[Max Christie (ankle) now doubtful Saturday ](https://www.fantasypros.com/nba/news/620023/max-christie-ankle-now-doubtful-saturday.php)  
-
-Sat, Nov 14th 2:48pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Max Christie is now doubtful for Saturday’s game against the Cavaliers.
-**_Fantasy Impact:_** Christie was originally listed as questionable. He will likely be sidelined. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Bryce McGowens](https://images.fantasypros.com/images/players/nba/5460/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bryce-mcgowens.php)
-G - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/bryce-mcgowens.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/bryce-mcgowens.php)  
-[» More News](https://www.fantasypros.com/nba/news/bryce-mcgowens.php)
-[Bryce McGowens (elbow) ruled out Saturday ](https://www.fantasypros.com/nba/news/620022/bryce-mcgowens-elbow-ruled-out-saturday.php)  
-
-Sat, Nov 14th 2:47pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Bryce McGowens has been ruled out for Saturday’s game against the Nuggets.
-**_Fantasy Impact:_** McGowens remains off the fantasy radar when he is healthy. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trendon Watford](https://images.fantasypros.com/images/players/nba/5216/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trendon-watford.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trendon-watford.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trendon-watford.php)  
-[» More News](https://www.fantasypros.com/nba/news/trendon-watford.php)
-[Trendon Watford (ankle) ruled out Saturday ](https://www.fantasypros.com/nba/news/620021/trendon-watford-ankle-ruled-out-saturday.php)  
-
-Sat, Nov 14th 2:47pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trendon Watford has been ruled for Saturday’s game against the Nuggets.
-**_Fantasy Impact:_** Watford remains off the fantasy radar when he is healthy. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
-F - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
-[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
-[Giannis Antetokounmpo (wrist) listed probable Saturday ](https://www.fantasypros.com/nba/news/620020/giannis-antetokounmpo-wrist-listed-probable-saturday.php)  
-
-Sat, Nov 14th 2:46pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Giannis Antetokounmpo is listed as probable for Saturday’s game against the Pistons.
-**_Fantasy Impact:_** Antetokounmpo is on track to be good to go in his usual role. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Pelle Larsson](https://images.fantasypros.com/images/players/nba/6182/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pelle-larsson.php)
-G - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/pelle-larsson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/pelle-larsson.php)  
-[» More News](https://www.fantasypros.com/nba/news/pelle-larsson.php)
-[Pelle Larsson (illness) listed doubtful Saturday ](https://www.fantasypros.com/nba/news/620019/pelle-larsson-illness-listed-doubtful-saturday.php)  
-
-Sat, Nov 14th 2:45pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Pelle Larsson is listed as doubtful for Saturday’s game against the Pistons.
-**_Fantasy Impact:_** Larsson is likely to miss a second straight game for the Heat. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Klay Thompson](https://images.fantasypros.com/images/players/nba/2142/headshot/100x100.png)](https://www.fantasypros.com/nba/players/klay-thompson.php)
-G - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/klay-thompson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/klay-thompson.php)  
-[» More News](https://www.fantasypros.com/nba/news/klay-thompson.php)
-[Klay Thompson (ankle) listed probable Saturday ](https://www.fantasypros.com/nba/news/620018/klay-thompson-ankle-listed-probable-saturday.php)  
-
-Sat, Nov 14th 2:44pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Klay Thompson is listed as probable for Saturday’s game against the Pistons.
-**_Fantasy Impact:_** Thompson is likely to return after he missed Friday’s game against the Cavaliers. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/nba/player-news.php)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=760_1794694057820&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQwMLw1oAol8ZMw%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 17:12 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,61 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-wont-play-sunday-539135)
+**C** Philadelphia 76ers
+Foot
+November 14, 2026
+Embiid (right foot injury management) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_00PM.pdf) for Sunday's game against the Pacers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Nate Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608)[Remaining out Sunday](https://www.rotowire.com/basketball/headlines/nate-bittle-injury-remaining-out-sunday-539134)
+**C** Toronto Raptors
+Foot
+November 14, 2026
+Bittle (foot) has been ruled out for Sunday's game against the Knicks, [Zulfi Sheikh of Sportsnet.ca](https://x.com/zulfi_sheikh/status/2121722874541056174?a=R3T49xum4Zsnn3EWPQA&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Trayce Jackson-Davis](https://www.rotowire.com/basketball/player/trayce-jackson-davis-5944)[Off injury report](https://www.rotowire.com/basketball/headlines/trayce-jackson-davis-news-off-injury-report-539133)
+**C** Toronto Raptors
+November 14, 2026
+Jackson-Davis (illness) isn't listed on the injury report for Sunday's game against New York, [Zulfi Sheikh of Sportsnet.ca](https://x.com/zulfi_sheikh/status/2121722874541056174?a=pENVfki8HLV9mf9dQC0&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Out for Sunday](https://www.rotowire.com/basketball/headlines/clint-capela-injury-out-for-sunday-539132)
+**C** Houston Rockets
+Ankle
+November 14, 2026
+Capela (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf) for Sunday's game at Washington.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Steven Adams](https://www.rotowire.com/basketball/player/steven-adams-3445)[Expected back Sunday](https://www.rotowire.com/basketball/headlines/steven-adams-injury-expected-back-sunday-539131)
+**C** Houston Rockets
+Calf
+November 14, 2026
+Adams (calf) has been upgraded to [probable ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf)for Sunday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-ruled-out-for-sunday-539130)
+**G** Houston Rockets
+Knee
+November 14, 2026
+VanVleet (right knee injury management) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf) for Sunday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)[Doesn't practice Saturday](https://www.rotowire.com/basketball/headlines/keegan-murray-injury-doesnt-practice-saturday-539128)
+**F** Sacramento Kings
+Illness
+November 14, 2026
+Murray (illness) didn't participate in Saturday's practice, [Brenden Nunes of KHTK Sactown Sports 1140](https://x.com/BrendenNunesNBA/status/2121718306977796133?a=0LwXqKRZ0Mj7fsSLbLM&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
 [Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/alex-sarr-injury-questionable-for-sunday-539127)
 **C** Washington Wizards
@@ -143,60 +198,6 @@ Reaves (heel) didn't participate in Saturday's practice, [Dave McMenamin of ESPN
 **G** Milwaukee Bucks
 November 14, 2026
 Green racked up zero points (0-1 FG, 0-1 3Pt) and two assists in eight minutes during Friday's 107-99 loss to Orlando.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)[Double-doubles Friday](https://www.rotowire.com/basketball/headlines/myles-turner-news-double-doubles-friday-539108)
-**C** Milwaukee Bucks
-November 14, 2026
-Turner recorded 14 points (5-9 FG, 4-7 3Pt), 11 rebounds, three assists and two steals across 31 minutes during Friday's 107-99 loss to the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Out against Nets](https://www.rotowire.com/basketball/headlines/quinten-post-injury-out-against-nets-539107)
-**C** Memphis Grizzlies
-Concussion
-November 14, 2026
-Post (concussion) has been ruled [out ](https://x.com/GrizzliesPR/status/2121688668771385433?a=YTOa6nsEMJ-2ITCC-1Y&s=20)for Saturday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Jerami Grant](https://www.rotowire.com/basketball/player/jerami-grant-3588)[Iffy to face Brooklyn](https://www.rotowire.com/basketball/headlines/jerami-grant-injury-iffy-to-face-brooklyn-539106)
-**F** Memphis Grizzlies
-Head
-November 14, 2026
-Grant (head) is [questionable](https://x.com/GrizzliesPR/status/2121688668771385433?a=HtUWbh2Q1huo_s25Zjg&s=20) for Saturday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)[Iffy for Saturday](https://www.rotowire.com/basketball/headlines/zach-edey-injury-iffy-for-saturday-539105)
-**C** Memphis Grizzlies
-Ankle
-November 14, 2026
-Edey (ankle) is listed as [questionable ](https://x.com/GrizzliesPR/status/2121688668771385433?a=YTOa6nsEMJ-2ITCC-1Y&s=20)for Saturday's game against Brooklyn.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Ruled out Saturday](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-ruled-out-saturday-539104)
-**G** Memphis Grizzlies
-Hip
-November 14, 2026
-Jerome (hip) has been [ruled out](https://x.com/GrizzliesPR/status/2121688668771385433?a=HtUWbh2Q1huo_s25Zjg&s=20) for Saturday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)[Deemed questionable](https://www.rotowire.com/basketball/headlines/peyton-watson-injury-deemed-questionable-539097)
-**F** Cleveland Cavaliers
-Hamstring
-November 14, 2026
-Watson (hamstring) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_01_15PM.pdf) for Saturday's game against the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Khalifa Diop](https://www.rotowire.com/basketball/player/khalifa-diop-5681)[Left off injury report](https://www.rotowire.com/basketball/headlines/khalifa-diop-news-left-off-injury-report-539096)
-**C** Cleveland Cavaliers
-November 14, 2026
-Diop (knee) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_01_15PM.pdf) for Saturday's game against the Mavericks.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
