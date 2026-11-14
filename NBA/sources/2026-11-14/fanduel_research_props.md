@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14 | fetched: 2026-11-14 16:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14 | fetched: 2026-11-14 16:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 14
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-4h
+5h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 14](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F41a12dda3985de1ffb52deae600c38f144723398-6719x4479.jpg%3Frect%3D510%2C0%2C5992%2C2965%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -44,7 +44,7 @@ Bulls at Timberwolves — 8:00 p.m. ET
 Rudy Gobert - Points
 Rudy Gobert Under
 U 10.5
--118
+-115
 Nov 15 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-@-minnesota-timberwolves-36311554)
 Odds/lines subject to change
 The scoring profile for [Rudy Gobert](https://sportsbook.fanduel.com/teams/nba/roster/rudy-gobert-2178/player-props) has been modest this season, making his points under worth considering even in a favorable matchup. 
@@ -56,7 +56,7 @@ Pistons at Heat — 8:00 p.m. ET
 Davion Mitchell - Points
 Davion Mitchell Over
 O 13.5
--112
+-113
 Nov 15 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-miami-heat-36311558)
 Odds/lines subject to change
 The [Miami Heat](https://sportsbook.fanduel.com/teams/nba/miami-heat/roster) have leaned on [Davion Mitchell](https://sportsbook.fanduel.com/teams/nba/miami-heat/roster) for substantial backcourt minutes, and he’s been playing really dang well despite Miami’s sluggish start.
@@ -103,22 +103,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 14](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14)
-4h
+5h
 What are the best NBA props to target on Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-14)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Cavaliers vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 14](https://www.fanduel.com/research/cavaliers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-14-2026)
-13h
+14h
 Find Cavaliers vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 14 NBA matchup.
 [](https://www.fanduel.com/research/cavaliers-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-14-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Timberwolves vs. Bulls Prediction, Odds, Picks, Best Bets for Nov. 14](https://www.fanduel.com/research/timberwolves-vs-bulls-prediction-nba-odds-spread-best-bets-for-11-14-2026)
-13h
+14h
 Find Timberwolves vs. Bulls predictions, betting odds, moneyline, spread, over/under and more for the Nov. 14 NBA matchup.
 [](https://www.fanduel.com/research/timberwolves-vs-bulls-prediction-nba-odds-spread-best-bets-for-11-14-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Grizzlies vs. Nets Prediction, Odds, Picks, Best Bets for Nov. 14](https://www.fanduel.com/research/grizzlies-vs-nets-prediction-nba-odds-spread-best-bets-for-11-14-2026)
-13h
+14h
 Find Grizzlies vs. Nets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 14 NBA matchup.
 [](https://www.fanduel.com/research/grizzlies-vs-nets-prediction-nba-odds-spread-best-bets-for-11-14-2026)
 

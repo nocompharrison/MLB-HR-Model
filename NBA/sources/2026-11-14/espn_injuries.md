@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 16:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 16:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -282,10 +282,9 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Collin Sexton](https://www.espn.com/nba/player/_/id/4277811/collin-sexton) | G | Nov 15 | Day-To-Day | Nov 14: Sexton (head) was a full participant in Saturday's practice, Dave McMenamin of ESPN.com reports. |
+| [Austin Reaves](https://www.espn.com/nba/player/_/id/4066457/austin-reaves) | G | Nov 15 | Day-To-Day | Nov 14: Reaves (heel) didn't participate in Saturday's practice, Dave McMenamin of ESPN.com reports. |
 | [Quentin Grimes](https://www.espn.com/nba/player/_/id/4397014/quentin-grimes) | G | Nov 15 | Day-To-Day | Nov 13: Grimes (finger) said he expects to return to action Sunday against the Suns, according to Ricardo Sandoval of Lakers on SI. |
-| [Austin Reaves](https://www.espn.com/nba/player/_/id/4066457/austin-reaves) | G | Nov 15 | Day-To-Day | Nov 13: Reaves (heel) won't undergo imaging and is considered day-to-day ahead of Sunday's game against the Suns, Jovan Buha of The Athletic reports. |
-| [Luka Doncic](https://www.espn.com/nba/player/_/id/3945274/luka-doncic) | G | Nov 15 | Day-To-Day | Nov 13: Head coach JJ Redick said Friday that Doncic (ankle) is "fine," per Law Murray of The Athletic. |
-| [Collin Sexton](https://www.espn.com/nba/player/_/id/4277811/collin-sexton) | G | Nov 15 | Day-To-Day | Nov 11: Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports. |
 
 ![Image 41: Memphis Grizzlies](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&h=40&w=40)Memphis Grizzlies
 
@@ -417,43 +416,31 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema)[PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema "PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel")
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season")
 
-Undo
+[](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Seniors: Do You Qualify For This $79 Hearing Aid? (answer this simple question)Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Seniors: Do You Qualify For This $79 Hearing Aid? (answer this simple question)")
 
-[](https://www.goodrx.com/symbravo)[Learn More: Migraine GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.goodrx.com/symbravo "Learn More: Migraine")
+[](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Why Do People Keep Talking About This $79 Hearing Aid?Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Why Do People Keep Talking About This $79 Hearing Aid?")
 
-Undo
+[](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation)[Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation "Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel")
 
-[](https://homeloansolution.com/self-employed-loan-programs)[Loan Officers Review Nontraditional Income Documents Homeloansolution | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Apply Now](https://homeloansolution.com/self-employed-loan-programs "Loan Officers Review Nontraditional Income Documents")
+[](https://related.advisorbooth.net/topics/4331003/EAA896F)[New Small SUV for Elderly Leaves Others Behind - Take a Look!AdvisorBooth | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.advisorbooth.net/topics/4331003/EAA896F "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
-Undo
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
 
-[](https://silkcutunderwear.com/collections/best-sellers)[Waistband Digging In? Meet Your Next Pair Give yourself room to breathe. Discover lightweight SilkCut boxer briefs with front support that feels comfortable.SilkCut Underwear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://silkcutunderwear.com/collections/best-sellers "Waistband Digging In? Meet Your Next Pair")
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Iowa (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Iowa (Is Yours On The List?)")
 
-Undo
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Toxic Cookware Is Being Banned - Here's The Safe Alternative A doctor threw out her non-stick pans, then spent six months failing to replace them. The answer came from a lab that can't risk contamination.Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Toxic Cookware Is Being Banned - Here's The Safe Alternative")
 
-[](https://silkcutunderwear.com/collections/best-sellers)[Thousands Have Already Made the Switch.Give yourself room to breathe. Discover lightweight SilkCut boxer briefs with front support that feels comfortable.SilkCut Underwear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://silkcutunderwear.com/collections/best-sellers "Thousands Have Already Made the Switch.")
-
-Undo
-
-[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist)[3 Most Common Types of Multiple Sclerosis GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist "3 Most Common Types of Multiple Sclerosis")
-
-Undo
-
-[](https://www.espn.com/nba/injuries)[CTU Degree Programs Can Personalize Learning Connect With Those Who Share Passion For Personal and Professional Growth While Working To Learn New Skills Colorado Technical University | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "CTU Degree Programs Can Personalize Learning")
-
-[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)")
-
-[](https://www.espn.com/nba/injuries)[CTU Online Degrees Built Around A Busy Schedule CTU Is An Online University With Applicable Technologies That Provide The Convenience You Need For Flexible Learning Colorado Technical University | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "CTU Online Degrees Built Around A Busy  Schedule")
+[](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema)[PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema "PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel")
 
 ### NBA News
 
-[![Image 55: Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday](https://a.espncdn.com/combiner/i?img=/photo/2026/1114/r1745701_1296x729_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 3h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50480388/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 55: Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday](https://a.espncdn.com/combiner/i?img=/photo/2026/1114/r1745701_1296x729_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 4h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50480388/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 56: Josh Hart searching for answers after zero-point outing in Knicks loss](https://a.espncdn.com/combiner/i?img=/photo/2026/0522/r1661789_1296x729_16-9.jpg&w=220) ## Josh Hart searching for answers after zero-point outing in Knicks loss Knicks wing Josh Hart said he is "not in a good headspace" after he was held scoreless and benched for the fourth quarter of Friday's 106-104 NBA Cup loss to the Pacers. * 3h](https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss)
+[![Image 56: Josh Hart searching for answers after zero-point outing in Knicks loss](https://a.espncdn.com/combiner/i?img=/photo/2026/0522/r1661789_1296x729_16-9.jpg&w=220) ## Josh Hart searching for answers after zero-point outing in Knicks loss Knicks wing Josh Hart said he is "not in a good headspace" after he was held scoreless and benched for the fourth quarter of Friday's 106-104 NBA Cup loss to the Pacers. * 4h](https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss)
 
-[![Image 57: The price of a pro hoop dream starts with a $200 G League tryout](https://a.espncdn.com/combiner/i?img=/photo/2026/1113/nba_g-league_16x9.jpg&w=220) ## The price of a pro hoop dream starts with a $200 G League tryout Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats. * 7h * Kalan Hooks](https://www.espn.com/nba/story/_/id/50463046/nba-g-league-delaware-blue-coats-200-dollar-tryout)
+[![Image 57: The price of a pro hoop dream starts with a $200 G League tryout](https://a.espncdn.com/combiner/i?img=/photo/2026/1113/nba_g-league_16x9.jpg&w=220) ## The price of a pro hoop dream starts with a $200 G League tryout Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats. * 8h * Kalan Hooks](https://www.espn.com/nba/story/_/id/50463046/nba-g-league-delaware-blue-coats-200-dollar-tryout)
 
 [All NBA News](https://www.espn.com/nba/)
 
@@ -463,25 +450,15 @@ Sponsored Headlines
 
 Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
-Undo
-
 Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
 
 How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
-Undo
-
 The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
-Undo
+[](https://wellnesstodayonline.net/fructaid-symptom-discovery)[Bloated Hours After Eating Fruit? This May Be Why It shows up hours after you eat, so most people never link it to the food that caused it.Fructaid | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://wellnesstodayonline.net/fructaid-symptom-discovery "Bloated Hours After Eating Fruit? This May Be Why")
 
-[](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation)[Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation "Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel")
-
-Undo
-
-[](https://related.advisorbooth.net/topics/4331003/EAA896F)[New Small SUV for Elderly Leaves Others Behind - Take a Look!AdvisorBooth | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.advisorbooth.net/topics/4331003/EAA896F "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Iowa: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Iowa: Worst Car Insurance Companies for Overcharging (Is Yours On The List?)")
 
 ![Image 58: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
@@ -500,44 +477,4 @@ Undo
 GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL.
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
-
-![Image 59: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Notice of Right to Opt Out of Sale/Sharing
-
-Some US states provide residents (or their [authorized agents](https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/b65ffa0c-9019-4d84-b1a8-1965ba7c989f)) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.
-
-### Manage Consent Preferences
-
-#### Selling, Sharing, Targeted Advertising
-
-- [x] Selling, Sharing, Targeted Advertising 
-
-If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.  
-  
-You can also submit this [opt-out form](https://usprivacy.disney.com/dnssmpi), which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms).   
-  
-You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.  
-  
-Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) for more information about your rights and how to exercise them.
-
-### Cookie List
-
-Clear
-
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Submit
-
-[![Image 60: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 

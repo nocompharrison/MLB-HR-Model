@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-14 16:06 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-14 16:35 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Sat, Nov 14, 2026, 3:59 PM ET
+_Updated At:_ Sat, Nov 14, 2026, 4:22 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 5 GAME SLATE:
 SAT 7:00PM ET · Main
@@ -23,8 +23,8 @@ Main · 5 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) C. Flagg  SF/PF · $10000 FPTS 47.7 VALUE 4.8x  | SF/PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) Cooper Flagg   |  $10.0k  | EXP.  | DAL  | CLE  | 2  |  47.7  | 4.77  |   | 47.8  | 48.2  | 48.3  | 230.5  | 117  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DEN.svg) J. Murray  PG · $8700 FPTS 41.1 VALUE 4.7x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DEN.svg) Jamal Murray   |  $8.7k  | EXP.  | DEN  | NO  | 24  |  41.1  | 4.73  |   | 44.4  | 44.2  | 44.2  | 235.5  | 124  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) C. Boozer  PF · $7500 FPTS 40.8 VALUE 5.4x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Cameron Boozer   |  $7.5k  | EXP.  | MEM  | BKN  | 26  |  40.8  | 5.44  |   | 31.4  | 35.3  | 35.8  | 228.5  | 115.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball  PG · $8000 FPTS 40.5 VALUE 5.1x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball   |  $8.0k  | EXP.  | MIN  | CHI  | 28  |  40.5  | 5.07  |   | 38.5  | 33.4  | 33.4  | 234.5  | 125  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) D. Mitchell  SG · $8100 FPTS 40.3 VALUE 5.0x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Donovan Mitchell   |  $8.1k  | EXP.  | CLE  | DAL  | 4  |  40.3  | 4.98  |   | 41.1  | 37.4  | 39.3  | 230.5  | 113.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball  PG · $8000 FPTS 40.1 VALUE 5.0x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball   |  $8.0k  | EXP.  | MIN  | CHI  | 28  |  40.1  | 5.01  |   | 38.5  | 33.4  | 33.4  | 234.5  | 125  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Bam Adebayo  C · $7900 FPTS 37.9 VALUE 4.8x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIA.svg) Bam Adebayo   |  $7.9k  | EXP.  | MIA  | DET  | 16  |  37.9  | 4.80  |   | 46.5  | 44.0  | 41.4  | 229.5  | 112.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) K. Irving  PG · $7200 FPTS 37.1 VALUE 5.2x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) Kyrie Irving   |  $7.2k  | EXP.  | DAL  | CLE  | 9  |  37.1  | 5.16  |   | 33.3  | 34.6  | 34.6  | 230.5  | 117  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BKN.svg) J. Randle  PF · $7000 FPTS 36.7 VALUE 5.3x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BKN.svg) Julius Randle   |  $7.0k  | EXP.  | BKN  | MEM  | 20  |  36.7  | 5.25  |   | 31.0  | 32.1  | 33.9  | 228.5  | 113  |  

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 16:35 ET -->
 
 
 ---
@@ -104,6 +104,11 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
+Questionable for Sunday
+NBA
+Indiana Pacers
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
 Full participant in practice
@@ -114,11 +119,6 @@ Los Angeles Lakers
 Doesn't practice Saturday
 NBA
 Los Angeles Lakers
-  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
-Iffy for Saturday
-NBA
-Memphis Grizzlies
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -132,21 +132,21 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
+Placed on IR
+NFL
+New England Patriots
+  * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
+[Travis Etienne](https://www.rotowire.com/football/player/travis-etienne-15385)
+Activated from injured reserve
+NFL
+New Orleans Saints
   * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
 [Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
 Targeting Week 12 return
 NFL
 Minnesota Vikings
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
-Will once again serve as RB1
-NFL
-Houston Texans
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[David Montgomery](https://www.rotowire.com/football/player/david-montgomery-13556)
-Won't play against Cleveland
-NFL
-Houston Texans
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -322,6 +322,11 @@ Los Angeles Lakers
 Probable Saturday
 NBA
 Miami Heat
+  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)
+Questionable for Sunday
+NBA
+Indiana Pacers
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
 Full participant in practice
@@ -332,11 +337,6 @@ Los Angeles Lakers
 Doesn't practice Saturday
 NBA
 Los Angeles Lakers
-  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
-Iffy for Saturday
-NBA
-Memphis Grizzlies
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -350,21 +350,21 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
+  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
+[TreVeyon Henderson](https://www.rotowire.com/football/player/treveyon-henderson-18517)
+Placed on IR
+NFL
+New England Patriots
+  * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
+[Travis Etienne](https://www.rotowire.com/football/player/travis-etienne-15385)
+Activated from injured reserve
+NFL
+New Orleans Saints
   * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
 [Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
 Targeting Week 12 return
 NFL
 Minnesota Vikings
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
-Will once again serve as RB1
-NFL
-Houston Texans
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[David Montgomery](https://www.rotowire.com/football/player/david-montgomery-13556)
-Won't play against Cleveland
-NFL
-Houston Texans
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
