@@ -1,9 +1,10 @@
-# CBB transcripts | 2026-11-14 | updated 2026-11-14 12:18 ET
+# CBB transcripts | 2026-11-14 | updated 2026-11-14 12:20 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 15 files in CBB/transcripts/2026-11-14:
+# 16 files in CBB/transcripts/2026-11-14:
 CBB/transcripts/2026-11-14/2dSetstm638_FieldOf68_TOP_DOGS_UConn_outlasts_Ohio_State_REACTION_This_Braylon_and_Silas_mak.txt
 CBB/transcripts/2026-11-14/4yg4o2qDrSk_FieldOf68_Arizona_s_IMPRESSIVE_win_at_Auburn_shows_they_re_STILL_a_top_10_team.txt
 CBB/transcripts/2026-11-14/9SihquV3GTM_FieldOf68_Hansbrough_Duke_lacks_a_true_LEADER_What_does_Jon_Scheyer_have_to_do_A.txt
+CBB/transcripts/2026-11-14/HXMBSpLBehM_FieldOf68_Kentucky_survives_a_MAJOR_scare_UConn_pulls_away_Georgia_takes_down_UN.txt
 CBB/transcripts/2026-11-14/HZY1KzQy49k_FieldOf68_Is_Georgetown_finally_BACK_The_Hoyas_are_4_0_after_a_BIG_win_at_Clemso.txt
 CBB/transcripts/2026-11-14/K-CfSNRYhgw_PickDawgz_College_Basketball_Picks_for_Today_11_14_26_Saturday_s_Best_College_Ba.txt
 CBB/transcripts/2026-11-14/LAMRKlAyjTc_TCE_College_Basketball_PICKS_ONLY_Saturday_November_14th_TCE_Trims.txt
@@ -16,16 +17,14 @@ CBB/transcripts/2026-11-14/l-yAPqnjmgY_FieldOf68_UConn_SURGES_past_Ohio_State_Th
 CBB/transcripts/2026-11-14/r-7p6gDu0uY_PickDawgz_College_Basketball_Picks_Predictions_Today_11_14_26_Ron_s_Bank_Shot_Br.txt
 CBB/transcripts/2026-11-14/sZPaX3tMIVg_TCE_College_Basketball_Picks_For_November_14th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-14/uiM2nt8pRIE_FieldOf68_Georgia_takes_down_North_Carolina_Why_Hansbrough_and_Henson_AREN_T_wor.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-13
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
 NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
-DEFER   FieldOf68 HXMBSpLBehM Kentucky survives a MAJOR scare! UConn pulls away, Georgia t  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 Xqnoa4VxfBc THE ALL-NEW GOODMAN & FRIENDS PODCAST! Grant McCasland and I  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   FieldOf68 O2hNDI-HUB0 Did Alex Wilkins just SAVE Kentucky's season?! | INSTANT REA  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-14/4yg4o2qDrSk_FieldOf68_Arizona_s_IMPRESSIVE_win_at_Auburn_shows_they_re_STILL_a_top_10_team.txt  (1,803 words)
-NEW     CBB/transcripts/2026-11-14/Y-mZTq1YPNU_FieldOf68_Mark_Pope_hopes_everyone_had_FUN_at_Rupp_Kentucky_survives_MAJOR_scare.txt  (2,533 words)
-NEW     CBB/transcripts/2026-11-14/uiM2nt8pRIE_FieldOf68_Georgia_takes_down_North_Carolina_Why_Hansbrough_and_Henson_AREN_T_wor.txt  (2,573 words)
+NEW     CBB/transcripts/2026-11-14/HXMBSpLBehM_FieldOf68_Kentucky_survives_a_MAJOR_scare_UConn_pulls_away_Georgia_takes_down_UN.txt  (17,203 words)
+NEW     CBB/transcripts/2026-11-13/Xqnoa4VxfBc_FieldOf68_THE_ALL_NEW_GOODMAN_FRIENDS_PODCAST_Grant_McCasland_and_Isaac_Trotter.txt  (14,793 words)
+NEW     CBB/transcripts/2026-11-13/O2hNDI-HUB0_FieldOf68_Did_Alex_Wilkins_just_SAVE_Kentucky_s_season_INSTANT_REACTION_AFTER_DA.txt  (3,187 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
@@ -42,4 +41,3 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
