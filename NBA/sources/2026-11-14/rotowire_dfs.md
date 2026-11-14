@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 18:50 ET -->
 
 
 ---
@@ -104,21 +104,21 @@ Miami Heat
 Set to play Sunday
 NBA
 Los Angeles Lakers
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
+Not playing Saturday
+NBA
+Chicago Bulls
   * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)
-Now listed as questionable
+[Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)
+Cleared to play
 NBA
 Brooklyn Nets
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
-Ruled out for Sunday
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)
+Out Saturday
 NBA
-Atlanta Hawks
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)
-Ruled out Saturday
-NBA
-Dallas Mavericks
+Miami Heat
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -170,11 +170,11 @@ Colorado Avalanche
 Activated from IR
 NHL
 Minnesota Wild
-  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
-[Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
-Won't play Saturday
+  * ![Montreal Canadiens](https://assets.rotowire.com/images/teamlogo/hockey/100MTL.png?v=5)
+[Mike Matheson](https://www.rotowire.com/hockey/player/mike-matheson-3995)
+Not playing Saturday
 NHL
-Tampa Bay Lightning
+Montreal Canadiens
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
@@ -322,21 +322,21 @@ Miami Heat
 Set to play Sunday
 NBA
 Los Angeles Lakers
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
+Not playing Saturday
+NBA
+Chicago Bulls
   * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)
-Now listed as questionable
+[Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)
+Cleared to play
 NBA
 Brooklyn Nets
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
-Ruled out for Sunday
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)
+Out Saturday
 NBA
-Atlanta Hawks
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)
-Ruled out Saturday
-NBA
-Dallas Mavericks
+Miami Heat
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -388,11 +388,11 @@ Colorado Avalanche
 Activated from IR
 NHL
 Minnesota Wild
-  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
-[Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
-Won't play Saturday
+  * ![Montreal Canadiens](https://assets.rotowire.com/images/teamlogo/hockey/100MTL.png?v=5)
+[Mike Matheson](https://www.rotowire.com/hockey/player/mike-matheson-3995)
+Not playing Saturday
 NHL
-Tampa Bay Lightning
+Montreal Canadiens
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

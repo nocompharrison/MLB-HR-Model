@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-14 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,29 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Norman Powell](https://www.rotowire.com/basketball/player/norman-powell-3726)[Will play Saturday](https://www.rotowire.com/basketball/headlines/norman-powell-news-will-play-saturday-539156)
+**G** Chicago Bulls
+November 14, 2026
+Powell (back) is available for Saturday's game against the Timberwolves, [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2121747837696536806?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Not playing Saturday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-not-playing-saturday-539155)
+**C** Chicago Bulls
+Finger
+November 14, 2026
+Smith (finger) has been ruled out for Saturday's game against Minnesota, [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2121747837696536806?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Not playing vs. Minnesota](https://www.rotowire.com/basketball/headlines/nic-claxton-injury-not-playing-vs-minnesota-539154)
+**C** Chicago Bulls
+Hamstring
+November 14, 2026
+Claxton (hamstring) is out for Saturday's game against the Timberwolves, [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2121747837696536806?a=XRmK5Vg0BpzkNHuChfI&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
 [Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)[Cleared to play](https://www.rotowire.com/basketball/headlines/nolan-traore-news-cleared-to-play-539153)
 **G** Brooklyn Nets
@@ -177,30 +200,6 @@ Jackson-Davis (illness) isn't listed on the injury report for Sunday's game agai
 Ankle
 November 14, 2026
 Capela (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf) for Sunday's game at Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Steven Adams](https://www.rotowire.com/basketball/player/steven-adams-3445)[Expected back Sunday](https://www.rotowire.com/basketball/headlines/steven-adams-injury-expected-back-sunday-539131)
-**C** Houston Rockets
-Calf
-November 14, 2026
-Adams (calf) has been upgraded to [probable ](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf)for Sunday's game against the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Ruled out for Sunday](https://www.rotowire.com/basketball/headlines/fred-vanvleet-injury-ruled-out-for-sunday-539130)
-**G** Houston Rockets
-Knee
-November 14, 2026
-VanVleet (right knee injury management) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_04_45PM.pdf) for Sunday's game against the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Keegan Murray](https://www.rotowire.com/basketball/player/keegan-murray-5699)[Doesn't practice Saturday](https://www.rotowire.com/basketball/headlines/keegan-murray-injury-doesnt-practice-saturday-539128)
-**F** Sacramento Kings
-Illness
-November 14, 2026
-Murray (illness) didn't participate in Saturday's practice, [Brenden Nunes of KHTK Sactown Sports 1140](https://x.com/BrendenNunesNBA/status/2121718306977796133?a=0LwXqKRZ0Mj7fsSLbLM&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
