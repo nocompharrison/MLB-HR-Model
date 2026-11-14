@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 18:35 ET -->
 
 
 ---
@@ -38,16 +38,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Available Saturday
+NBA
+Miami Heat
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
 Set to play Sunday
 NBA
 Los Angeles Lakers
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Probable Saturday
-NBA
-Miami Heat
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
 Won't play against Atlanta
@@ -58,19 +58,19 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
-Inks four-year deal with Boston
-MLB
-Boston Red Sox
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Mathew Barzal](https://www.rotowire.com/hockey/player/mathew-barzal-4778)
+Activated off IR-NR
+NHL
+New York Islanders
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
-Inks four-year deal with Boston
+  * ![Minnesota Twins](https://assets.rotowire.com/images/teamlogo/baseball/100MIN.png?v=8)
+[Trevor Larnach](https://www.rotowire.com/baseball/player/trevor-larnach-15417)
+Undergoes surgery
 MLB
-Boston Red Sox
+Minnesota Twins
   * ![Washington Nationals](https://assets.rotowire.com/images/teamlogo/baseball/100WSH.png?v=8)
 [Connelly Early](https://www.rotowire.com/baseball/player/connelly-early-19049)
 Beginning offseason program
@@ -94,31 +94,31 @@ Los Angeles Angels
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Available Saturday
+NBA
+Miami Heat
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
 Set to play Sunday
 NBA
 Los Angeles Lakers
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Probable Saturday
+  * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)
+Now listed as questionable
 NBA
-Miami Heat
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)
-Officially active
+Brooklyn Nets
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
+Ruled out for Sunday
 NBA
-New Orleans Pelicans
-  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)
-Fades injury report
+Atlanta Hawks
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)
+Ruled out Saturday
 NBA
-Boston Celtics
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
-Off injury report
-NBA
-Philadelphia 76ers
+Dallas Mavericks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -170,11 +170,11 @@ Colorado Avalanche
 Activated from IR
 NHL
 Minnesota Wild
-  * ![Philadelphia Flyers](https://assets.rotowire.com/images/teamlogo/hockey/100PHI.png?v=5)
-[Dan Vladar](https://www.rotowire.com/hockey/player/dan-vladar-4817)
-Poised to start Sunday
+  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
+[Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
+Won't play Saturday
 NHL
-Philadelphia Flyers
+Tampa Bay Lightning
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
@@ -256,16 +256,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Available Saturday
+NBA
+Miami Heat
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
 Set to play Sunday
 NBA
 Los Angeles Lakers
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Probable Saturday
-NBA
-Miami Heat
   * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
 [Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
 Won't play against Atlanta
@@ -276,19 +276,19 @@ Kansas City Chiefs
 Undergoes finger surgery
 NFL
 Green Bay Packers
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
-Inks four-year deal with Boston
-MLB
-Boston Red Sox
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Mathew Barzal](https://www.rotowire.com/hockey/player/mathew-barzal-4778)
+Activated off IR-NR
+NHL
+New York Islanders
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
-Inks four-year deal with Boston
+  * ![Minnesota Twins](https://assets.rotowire.com/images/teamlogo/baseball/100MIN.png?v=8)
+[Trevor Larnach](https://www.rotowire.com/baseball/player/trevor-larnach-15417)
+Undergoes surgery
 MLB
-Boston Red Sox
+Minnesota Twins
   * ![Washington Nationals](https://assets.rotowire.com/images/teamlogo/baseball/100WSH.png?v=8)
 [Connelly Early](https://www.rotowire.com/baseball/player/connelly-early-19049)
 Beginning offseason program
@@ -312,31 +312,31 @@ Los Angeles Angels
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Available Saturday
+NBA
+Miami Heat
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
 Set to play Sunday
 NBA
 Los Angeles Lakers
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Probable Saturday
+  * ![Brooklyn Nets](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
+[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)
+Now listed as questionable
 NBA
-Miami Heat
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)
-Officially active
+Brooklyn Nets
+  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
+Ruled out for Sunday
 NBA
-New Orleans Pelicans
-  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)
-Fades injury report
+Atlanta Hawks
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)
+Ruled out Saturday
 NBA
-Boston Celtics
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)
-Off injury report
-NBA
-Philadelphia 76ers
+Dallas Mavericks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -388,11 +388,11 @@ Colorado Avalanche
 Activated from IR
 NHL
 Minnesota Wild
-  * ![Philadelphia Flyers](https://assets.rotowire.com/images/teamlogo/hockey/100PHI.png?v=5)
-[Dan Vladar](https://www.rotowire.com/hockey/player/dan-vladar-4817)
-Poised to start Sunday
+  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
+[Anthony Cirelli](https://www.rotowire.com/hockey/player/anthony-cirelli-4973)
+Won't play Saturday
 NHL
-Philadelphia Flyers
+Tampa Bay Lightning
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

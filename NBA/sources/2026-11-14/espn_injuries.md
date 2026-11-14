@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -421,15 +421,39 @@ Sponsored Headlines
 
 [](https://rhs.search.yahoo.com/rhs)[Search for senior phone plans Yahoo Search | Senior phone plan | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for senior phone plans")
 
+Undo
+
 [](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)[Brock Purdy & Josh Hoover Bring a New Look to Game Day Ariat | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready "Brock Purdy & Josh Hoover Bring a New Look to Game Day")
+
+Undo
 
 [](https://rhs.search.yahoo.com/rhs)[Search for best phone plans seniors Yahoo Search | Phone plans seniors | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for best phone plans seniors")
 
+Undo
+
 [](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)[Brock Purdy’s Game Day Guide Starts at the Tailgate See how two quarterbacks get tailgate ready with Ariat boots and jeans.Ariat | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready "Brock Purdy’s Game Day Guide Starts at the Tailgate")
+
+Undo
 
 [](https://www.southernliving.com/featured/premium/distinct-by-design-volvo/touch)[Distinct by Design: The Feeling A closer look at the details that create the ultimate luxury experience.Southern Living | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.southernliving.com/featured/premium/distinct-by-design-volvo/touch "Distinct by Design: The Feeling")
 
+Undo
+
 [](https://www.espn.com/nba/injuries)[Propane Mowers Are a Cut Above Propane mowers reduce fuel costs, refueling downtime, and emissions. Put propane to work on your routes with a complimentary 10-day equipment trial.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.espn.com/nba/injuries "Propane Mowers Are a Cut Above")
+
+Undo
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)")
+
+Undo
+
+[](https://www.blinkist.com/magazine/posts/i-asked-chatgpt-what-separates-the-rich-from-everyone-else-tts-chatgpt)[I Asked ChatGPT What Rich People Do Differently. It Gave Me One Word.Not stocks. Not crypto. Not connections. The AI kept circling back to something far more ordinary — and far more powerful.Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.blinkist.com/magazine/posts/i-asked-chatgpt-what-separates-the-rich-from-everyone-else-tts-chatgpt "I Asked ChatGPT What Rich People Do Differently. It Gave Me One Word.")
+
+Undo
+
+[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist)[3 Most Common Types of Multiple Sclerosis GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist "3 Most Common Types of Multiple Sclerosis")
+
+Undo
 
 ### NBA News
 
@@ -445,7 +469,15 @@ Sponsored Headlines
 
 [](https://www.espn.com/nba/injuries)[Get nutrition insights tailored to you Get an easy-to-understand breakdown showing exactly how each meal affects your glucose.Stelo | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.espn.com/nba/injuries "Get nutrition insights tailored to you")
 
+Undo
+
 [](https://savingspro.org/savings-rates)[Your Savings Could Be Earning More With These Banks (See the List)Savingspro | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://savingspro.org/savings-rates "Your Savings Could Be Earning More With These Banks (See the List)")
+
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Toxic Cookware Is Being Banned - Here's The Safe Alternative What do surgical implants and this breakthrough frying pan have in common? Discover how a unique, coating-free material is changing the way we make breakfast, preventing sticking without hidden chemicals.Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Toxic Cookware Is Being Banned - Here's The Safe Alternative")
+
+Undo
 
 ![Image 58: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

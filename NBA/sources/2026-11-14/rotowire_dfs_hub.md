@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-14 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-14 18:35 ET -->
 
 # NBA DFS Picks Today
 November 14, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, November 14 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (10) All NBA news Brooklyn Nets (BKN @ MEM) Chicago Bulls (CHI @ MIN) Cleveland Cavaliers (DAL @ CLE) Dallas Mavericks (DAL @ CLE) Denver Nuggets (DEN @ NOP) Detroit Pistons (DET @ MIA) Memphis Grizzlies (BKN @ MEM) Miami Heat (DET @ MIA) Minnesota Timberwolves (CHI @ MIN) New Orleans Pelicans (DEN @ NOP)
-Cleveland CavaliersDAL @ CLE - 7:30 PM ET
-**[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)** _F_ OUT _Top_ 5:59 PM ET
+Brooklyn NetsBKN @ MEM - 8:00 PM ET
+**[Nolan Traore](https://www.rotowire.com/basketball/player/nolan-traore-6587)** _G_ _Top_ 6:28 PM ET
+#### Cleared to play
+Traore (calf) is available for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports.
+Analysis
+Traore was expected to play Saturday, and the second-year guard will suit up despite his calf discomfort. Traore is enjoying a solid start to the season, averaging 12.9 points, 2.0 rebounds, 2.6 assists and 1.4 steals per game in his 10 appearances (seven starts).
+Miami HeatDET @ MIA - 8:00 PM ET
+**[Klay Thompson](https://www.rotowire.com/basketball/player/klay-thompson-3197)** _F_ 6:28 PM ET
+#### Available versus Detroit
+Thompson (ankle) is available to play in Saturday's game against Detroit.
+Analysis
+Thompson didn't play in Friday's 133-121 loss to Cleveland, though he will return from the short stint on the shelf versus the Pistons. Thompson will likely be back in the starting lineup. However, with Pelle Larsson (illness) out again, Tim Hardaway or Myron Gardner has a chance to remain with the first five.
+Miami HeatDET @ MIA - 8:00 PM ET
+**[Pelle Larsson](https://www.rotowire.com/basketball/player/pelle-larsson-6013)** _F_ OUT _Top_ 6:26 PM ET
 #### Out Saturday
-Watson (hamstring) has been ruled out for Saturday's game against the Mavericks.
+Larsson (illness) has been ruled out for Saturday's game against the Pistons.
 Analysis
-Watson will join the rest of Cleveland's regular starters on the inactive list. The 24-year-old's next chance to play will come Monday against Chicago. With Watson sidelined, Jaylon Tyson and Mario Hezonja will likely see increased playing time.
-Cleveland CavaliersDAL @ CLE - 7:30 PM ET
-**[James Harden](https://www.rotowire.com/basketball/player/james-harden-3018)** _G_ OUT _Top_ 5:57 PM ET
-#### Ruled out Saturday
-Harden (calf) has been ruled out for Saturday's game against Dallas.
+Larsson was listed as doubtful to play earlier in the day, and he's now officially been ruled out due to an illness. He'll miss a second consecutive game after sitting out Friday's 133-121 win over Cleveland. Myron Gardner earned the start in Larsson's absence, while Andrew Wiggins and rookie Ryan Conwell each played 30-plus minutes off Miami's bench. Fantasy managers can expect a similar trend versus Detroit.
+Brooklyn NetsBKN @ MEM - 8:00 PM ET
+**[Mikel Brown](https://www.rotowire.com/basketball/player/mikel-brown-6929)** _G_ _Top_ 6:25 PM ET
+#### Available Saturday
+Brown (illness) is available for Saturday's game against the Grizzlies, Erik Slater of ClutchPoints.com reports.
 Analysis
-Harden will miss his first game of the season due to a calf issue he picked up sometime after Friday's loss to Miami. Fellow guard Donovan Mitchell (knee) will also be inactive Saturday, leaving Tyrese Proctor, Craig Porter and Meleek Thomas as Cleveland's top backcourt options.
-Cleveland CavaliersDAL @ CLE - 7:30 PM ET
-**[Donovan Mitchell](https://www.rotowire.com/basketball/player/donovan-mitchell-4166)** _G_ OUT _Top_ 5:56 PM ET
-#### Ruled out Saturday
-Mitchell (knee) has been ruled out for Saturday's game against the Mavericks.
+Brown will be available and should handle his regular workload in the backcourt. The rookie has averaged 15.2 points, 3.8 assists and 2.0 rebounds in 24.6 minutes per tilt over his last five outings.
+Miami HeatDET @ MIA - 8:00 PM ET
+**[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)** _F_ _Top_ 6:21 PM ET
+#### Available Saturday
+Antetokounmpo (wrist) is available to play in Saturday's game against the Pistons.
 Analysis
-Mitchell will miss his first game of the season due to a left knee contusion. The Cavaliers will be without all of their usual starters, meaning Tyrese Proctor, Meleek Thomas and Craig Porter should all see significant minutes in the backcourt.
-Cleveland CavaliersDAL @ CLE - 7:30 PM ET
-**[Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122)** _C_ OUT _Top_ 5:52 PM ET
-#### Won't play Saturday
-Allen (knee) has been ruled out for Saturday's game against the Mavericks.
-Analysis
-Allen will get a break to rest his injured right knee after playing in each of Cleveland's last three games. With Evan Mobley (toe) also out, Thomas Bryant can be expected to take on a larger role Saturday.
-New Orleans PelicansDEN @ NOP - 7:00 PM ET
-**[Yves Missi](https://www.rotowire.com/basketball/player/yves-missi-6268)** _C_ _Top_ 5:34 PM ET
-#### Officially active
-Missi (knee) will be available for Saturday's game against Denver, Jim Eichenhofer of the Pelicans' official site reports.
-Analysis
-After missing 11 straight games due to a bone bruise in his left knee, Missi will officially return to the court Saturday. The 22-year-old center will be making his return under a minutes restriction, per Rod Walker of the Times-Picayune, though Missi will likely take on a heavier workload once he's gotten a few more games under his belt.
-Show 5 more (46 remaining)
+Antetokounmpo has been dealing with a right wrist sprain recently, but it hasn't stopped him from suiting up, as he's yet to miss a game this season. Miami has won three consecutive contests, and Antetokounmpo will be looking to make it three straight outings with 30-plus points.
+Show 5 more (55 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -77,71 +77,71 @@ PelicansExpectedHome
 _Implied_**111.5** _Spread_**+12.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Yves Missi  | $6,000  | 19.8  |  
-| PF  | Zion Williamson  | $7,400  | 41.9  |  
-| PG  | Jeremiah Fears  | $7,000  | 37.8  |  
-| SF  | Saddiq Bey  | $6,100  | 30.4  |  
-| SG  | Herbert Jones  | $4,400  | 22.3  |  
+| C  | Yves Missi  | $6,000  | 19.9  |  
+| PF  | Zion Williamson  | $7,400  | 42.1  |  
+| PG  | Jeremiah Fears  | $7,000  | 37.9  |  
+| SF  | Saddiq Bey  | $6,100  | 30.5  |  
+| SG  | Herbert Jones  | $4,400  | 23.8  |  
 **DAL @ CLE**
-O/U 227.67:30 PM ET
+O/U 227.57:30 PM ET
 MavericksExpectedAway
 _Implied_**118.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $5,200  | 21.2  |  
-| PF  | P.J. Washington  | $6,300  | 31.4  |  
-| PG  | Kyrie Irving  | $7,800  | 38.7  |  
-| SF  | Cooper Flagg  | $10,200  | 43.0  |  
-| SG  | Caleb Martin  | $3,700  | 16.3  |  
+| PF  | P.J. Washington  | $6,300  | 31.5  |  
+| PG  | Kyrie Irving  | $7,800  | 38.8  |  
+| SF  | Cooper Flagg  | $10,200  | 43.1  |  
+| SG  | Caleb Martin  | $3,700  | 16.4  |  
 CavaliersExpectedHome
-_Implied_**109.6** _Spread_**+8.5**  
+_Implied_**109.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Thomas Bryant  | $4,000  | 19.2  |  
-| PF  | Mario Hezonja  | $4,200  | 13.2  |  
-| PG  | Craig Porter  | $3,300  | 11.5  |  
-| SF  | Jaylon Tyson  | $4,100  | 32.1  |  
-| SG  | Meleek Thomas  | $4,500  | 19.4  |  
+| C  | Thomas Bryant  | $4,000  | 32.1  |  
+| PF  | Mario Hezonja  | $4,200  | 29.4  |  
+| PG  | Craig Porter  | $3,300  | 27.6  |  
+| SF  | Jaylon Tyson  | $4,100  | 31.8  |  
+| SG  | Meleek Thomas  | $4,500  | 28.9  |  
 **DET @ MIA**
 O/U 228.58:00 PM ET
 PistonsExpectedAway
-_Implied_**116.0** _Spread_**-3.5**  
+_Implied_**116.5** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | John Collins  | $5,500  | 27.1  |  
 | PF  | Ausar Thompson  | $6,600  | 30.5  |  
 | PG  | Cade Cunningham  | $9,800  | 46.9  |  
-| SF  | Duncan Robinson  | $5,600  | 27.1  |  
+| SF  | Duncan Robinson  | $5,600  | 27.0  |  
 | SG  | Daniss Jenkins  | $5,700  | 34.7  |  
 HeatExpectedHome
-_Implied_**112.5** _Spread_**+3.5**  
+_Implied_**112.0** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Bam Adebayo  | $8,300  | 40.1  |  
-| PF  | Giannis AntetokounmpoP  | $11,500  | 51.6  |  
-| PG  | Davion Mitchell  | $7,000  | 30.2  |  
-| SF  | Myron Gardner  | $3,200  | 15.3  |  
-| SG  | Klay ThompsonP  | $5,400  | 24.8  |  
+| PF  | Giannis Antetokounmpo  | $11,500  | 51.5  |  
+| PG  | Davion Mitchell  | $7,000  | 30.1  |  
+| SF  | Myron Gardner  | $3,200  | 15.2  |  
+| SG  | Klay Thompson  | $5,400  | 24.7  |  
 **BKN @ MEM**
-O/U 227.58:00 PM ET
+O/U 224.58:00 PM ET
 NetsExpectedAway
-_Implied_**113.0** _Spread_**+1.5**  
+_Implied_**110.5** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Day'Ron Sharpe  | $5,600  | 35.5  |  
-| PF  | Julius Randle  | $7,900  | 39.9  |  
-| PG  | Nolan TraoreP  | $5,200  | 15.6  |  
-| SF  | Michael Porter  | $7,600  | 38.0  |  
+| C  | Day'Ron Sharpe  | $5,600  | 35.6  |  
+| PF  | Julius Randle  | $7,900  | 40.0  |  
+| PG  | Nolan Traore  | $5,200  | 15.6  |  
+| SF  | Michael PorterQ  | $7,600  | 38.0  |  
 | SG  | Egor Demin  | $4,900  | 28.1  |  
 GrizzliesExpectedHome
-_Implied_**114.5** _Spread_**-1.5**  
+_Implied_**114.0** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Zach EdeyQ  | $4,700  | 27.3  |  
-| PF  | Cameron Boozer  | $8,000  | 41.2  |  
-| PG  | Cam Spencer  | $4,600  | 25.0  |  
-| SF  | Jaylen Wells  | $4,500  | 26.8  |  
-| SG  | Cedric Coward  | $6,000  | 34.8  |  
+| C  | Zach EdeyQ  | $4,700  | 27.4  |  
+| PF  | Cameron Boozer  | $8,000  | 41.4  |  
+| PG  | Cam Spencer  | $4,600  | 25.1  |  
+| SF  | Jaylen Wells  | $4,500  | 26.9  |  
+| SG  | Cedric Coward  | $6,000  | 34.9  |  
 **CHI @ MIN**
 O/U 234.58:00 PM ET
 BullsExpectedAway
@@ -150,15 +150,15 @@ _Implied_**109.5** _Spread_**+15.5**
 | --- | --- | --- | --- |  
 | C  | Jalen SmithQ  | $5,800  | 33.4  |  
 | PF  | Matas Buzelis  | $5,900  | 30.3  |  
-| PG  | Josh Giddey  | $7,700  | 36.6  |  
-| SF  | Isaac Okoro  | $4,000  | 21.3  |  
+| PG  | Josh Giddey  | $7,700  | 36.5  |  
+| SF  | Isaac Okoro  | $4,000  | 21.2  |  
 | SG  | Norman PowellQ  | $6,000  | 27.8  |  
 TimberwolvesExpectedHome
 _Implied_**125.0** _Spread_**-15.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $6,100  | 33.6  |  
-| PF  | Jaden McDaniels  | $7,000  | 32.6  |  
+| PF  | Jaden McDaniels  | $7,000  | 32.5  |  
 | PG  | LaMelo Ball  | $8,400  | 47.3  |  
 | SF  | Jonathan Kuminga  | $6,100  | 34.3  |  
 | SG  | Ayo Dosunmu  | $7,200  | 31.9  |  
@@ -173,16 +173,16 @@ Main slatesMain - 5 games - 7:00 PMMain - 3 games - 8:00 PMShowdownsShowdown - D
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Jaylon TysonCLE - SG  | vs DAL  | $4,100  | 30  | 32.1  | **7.82**  |  
-| 2  |  Kevin HuerterDET - SG  | @ MIA  | $4,200  | 31  | 28.0  | **6.67**  |  
-| 3  |  Tyrese ProctorCLE - PG  | vs DAL  | $4,300  | 26  | 28.3  | **6.57**  |  
-| 4  |  James HardenOUTCLE - PG  | vs DAL  | $6,900  | 34  | 45.1  | **6.53**  |  
-| 5  |  Ryan ConwellMIA - PG  | vs DET  | $3,500  | 25  | 22.7  | **6.47**  |  
-| 6  |  Javon SmallMEM - PG  | vs BKN  | $3,900  | 23  | 25.0  | **6.42**  |  
-| 7  |  Day'Ron SharpeBKN - C  | @ MEM  | $5,600  | 30  | 35.5  | **6.34**  |  
-| 8  |  Keon EllisBKN - SG  | @ MEM  | $3,700  | 31  | 23.4  | **6.32**  |  
-| 9  |  Daniss JenkinsDET - PG  | @ MIA  | $5,700  | 32  | 34.7  | **6.09**  |  
-| 10  |  Donovan MitchellOUTCLE - SG  | vs DAL  | $8,100  | 33  | 48.5  | **5.98**  |  
+| 1  |  Craig PorterCLE - PG  | vs DAL  | $3,300  | 25  | 27.6  | **8.37**  |  
+| 2  |  Thomas BryantCLE - C  | vs DAL  | $4,000  | 29  | 32.1  | **8.03**  |  
+| 3  |  Tyrese ProctorCLE - PG  | vs DAL  | $4,300  | 33  | 34.5  | **8.02**  |  
+| 4  |  Jaylon TysonCLE - SG  | vs DAL  | $4,100  | 32  | 31.8  | **7.77**  |  
+| 5  |  Khalifa DiopCLE - C  | vs DAL  | $3,000  | 20  | 22.1  | **7.38**  |  
+| 6  |  Mario HezonjaCLE - SF  | vs DAL  | $4,200  | 28  | 29.4  | **6.99**  |  
+| 7  |  Jordan PooleNOP - PG  | vs DEN  | $4,100  | 26  | 28.4  | **6.93**  |  
+| 8  |  Kevin HuerterDET - SG  | @ MIA  | $4,200  | 31  | 28.0  | **6.67**  |  
+| 9  |  Riley MinixCLE - SF  | vs DAL  | $3,200  | 20  | 21.3  | **6.66**  |  
+| 10  |  Ryan ConwellMIA - PG  | vs DET  | $3,500  | 25  | 22.6  | **6.46**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -206,21 +206,21 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** BKN@MEM, CHI@MIN, DAL@CLE, DEN@NOP, DET@MIA  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Mario HezonjaCLE · SF/PF · DAL@CLE  | $4,200  | 10.1  | 29.5  | **55.9**  |   | +14.3  | +3  | 90  |  
+| 1  |  Mario HezonjaCLE · SF/PF · DAL@CLE  | $4,200  | 10.0  | 29.4  | **55.7**  |   | +14.1  | +3  | 90  |  
 | 2  |  Kevin HuerterDET · SG/SF · DET@MIA  | $4,200  | 9.0  | 28.0  | **53.5**  |   | +11.9  | +3  | 90  |  
-| 3  |  Ryan ConwellMIA · PG/SG · DET@MIA  | $3,500  | 6.5  | 22.7  | **45.4**  |   | +8.8  | +4  | 88  |  
-| 4  |  Thomas BryantCLE · C · DAL@CLE  | $4,000  | 11.6  | 32.2  | **59.8**  |   | +19.5  | +2  | 87  |  
-| 5  |  Khalifa DiopCLE · C · DAL@CLE  | $3,000  | 6.8  | 22.2  | **44.7**  |   | +11.6  | +2  | 84  |  
-| 6  |  Herbert JonesNOP · SF/PF · DEN@NOP  | $4,400  | 6.1  | 23.8  | **47.2**  |   | +4.1  | +8  | 84  |  
-| 7  |  Egor DeminBKN · PG/SG · BKN@MEM  | $4,900  | 9.3  | 28.1  | **53.8**  |   | +7.2  | +3  | 82  |  
-| 8  |  Day'Ron SharpeBKN · C · BKN@MEM  | $5,600  | 13.6  | 35.5  | **64.5**  |   | +12.9  | +1  | 82  |  
-| 9  |  Keon EllisBKN · SG/SF · BKN@MEM  | $3,700  | 6.8  | 23.4  | **46.0**  |   | +8.0  | +2  | 79  |  
-| 10  |  Isaac OkoroCHI · SG/SF · CHI@MIN  | $4,000  | 5.9  | 21.3  | **43.2**  |   | +3.0  | +4  | 78  |  
-| 11  |  Jaylon TysonCLE · SG/SF · DAL@CLE  | $4,100  | 11.4  | 32.0  | **58.9**  |   | +17.9  | 0  | 77  |  
-| 12  |  Christian BraunDEN · SG/SF · DEN@NOP  | $4,900  | 8.5  | 27.4  | **52.3**  |   | +5.6  | +3  | 76  |  
-| 13  |  Craig PorterCLE · PG · DAL@CLE  | $3,300  | 9.7  | 27.7  | **53.1**  |   | +17.8  | 0  | 76  |  
-| 14  |  Meleek ThomasCLE · SG/SF · DAL@CLE  | $4,500  | 9.7  | 29.0  | **54.5**  |   | +10.7  | +1  | 76  |  
-| 15  |  Matas BuzelisCHI · SF/PF · CHI@MIN  | $5,900  | 10.3  | 30.3  | **57.0**  |   | +3.2  | +3  | 75  |  
+| 3  |  Ryan ConwellMIA · PG/SG · DET@MIA  | $3,500  | 6.5  | 22.6  | **45.4**  |   | +8.7  | +4  | 88  |  
+| 4  |  Thomas BryantCLE · C · DAL@CLE  | $4,000  | 11.6  | 32.1  | **59.6**  |   | +19.4  | +2  | 86  |  
+| 5  |  Khalifa DiopCLE · C · DAL@CLE  | $3,000  | 6.7  | 22.1  | **44.6**  |   | +11.5  | +2  | 84  |  
+| 6  |  Herbert JonesNOP · SF/PF · DEN@NOP  | $4,400  | 6.1  | 23.8  | **47.2**  |   | +4.2  | +8  | 83  |  
+| 7  |  Egor DeminBKN · PG/SG · BKN@MEM  | $4,900  | 9.4  | 28.1  | **53.9**  |   | +7.3  | +3  | 82  |  
+| 8  |  Day'Ron SharpeBKN · C · BKN@MEM  | $5,600  | 13.6  | 35.6  | **64.5**  |   | +13.0  | +1  | 82  |  
+| 9  |  Keon EllisBKN · SG/SF · BKN@MEM  | $3,700  | 6.8  | 23.4  | **46.1**  |   | +8.0  | +2  | 79  |  
+| 10  |  Isaac OkoroCHI · SG/SF · CHI@MIN  | $4,000  | 5.9  | 21.2  | **43.2**  |   | +3.0  | +4  | 78  |  
+| 11  |  Jaylon TysonCLE · SG/SF · DAL@CLE  | $4,100  | 11.3  | 31.8  | **58.7**  |   | +17.8  | 0  | 77  |  
+| 12  |  Christian BraunDEN · SG/SF · DEN@NOP  | $4,900  | 8.5  | 27.4  | **52.3**  |   | +5.7  | +3  | 76  |  
+| 13  |  Craig PorterCLE · PG · DAL@CLE  | $3,300  | 9.7  | 27.6  | **52.9**  |   | +17.7  | 0  | 76  |  
+| 14  |  Meleek ThomasCLE · SG/SF · DAL@CLE  | $4,500  | 9.7  | 28.9  | **54.3**  |   | +10.6  | +1  | 76  |  
+| 15  |  Matas BuzelisCHI · SF/PF · CHI@MIN  | $5,900  | 10.3  | 30.3  | **57.0**  |   | +3.2  | +3  | 74  |  
 Show all 88 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 5 games slate · 2026-11-14.
 ## **NBA Injury Report**

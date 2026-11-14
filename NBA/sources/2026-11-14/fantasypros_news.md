@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 18:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-14 18:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Jarrett Allen](https://images.fantasypros.com/images/players/nba/3323/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jarrett-allen.php)
+C - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/jarrett-allen.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jarrett-allen.php)  
+[» More News](https://www.fantasypros.com/nba/news/jarrett-allen.php)
+[Jarrett Allen (knee) ruled out Saturday](https://www.fantasypros.com/nba/news/620088/jarrett-allen-knee-ruled-out-saturday.php)  
+
+Sat, Nov 14th 6:11pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jarrett Allen (knee) has been ruled out for Saturday’s matchup between the Cleveland Cavaliers and Dallas Mavericks according to Christian Clark. (Source: [Christian Clark on Twitter](https://x.com/christianpclark/status/2121738040376988010?a=y5Inncg4jpTchSCB9No&s=46))
+**_Fantasy Impact:_** Allen will sit out alongside the rest of the Cleveland starting five for the second leg of a back-to-back, with Thomas Bryant to receive as many minutes as he can handle against the Mavericks for head coach Kenny Atkinson Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![James Harden](https://images.fantasypros.com/images/players/nba/2332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/james-harden.php)
+G - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/james-harden.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/james-harden.php)  
+[» More News](https://www.fantasypros.com/nba/news/james-harden.php)
+[James Harden (calf) ruled out Saturday](https://www.fantasypros.com/nba/news/620087/james-harden-calf-ruled-out-saturday.php)  
+
+Sat, Nov 14th 6:08pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+James Harden (calf) has been ruled out for Saturday night’s contest between the Cleveland Cavaliers and Dallas Mavericks according to Christian Clark. (Source: [Christian Clark on Twitter](https://x.com/christianpclark/status/2121738040376988010?a=y5Inncg4jpTchSCB9No&s=46))
+**_Fantasy Impact:_** Harden joins fellow backcourt member Donovan Mitchell (knee) out of the lineup for the second leg in a back-to-back, with Meleek Thomas, Tyrese Proctor, and Craig Porter Jr. to see increased minutes against the Mavericks for head coach Kenny Atkinson Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Donovan Mitchell](https://images.fantasypros.com/images/players/nba/3326/headshot/100x100.png)](https://www.fantasypros.com/nba/players/donovan-mitchell.php)
+G - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/donovan-mitchell.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/donovan-mitchell.php)  
+[» More News](https://www.fantasypros.com/nba/news/donovan-mitchell.php)
+[Donovan Mitchell (knee) ruled out Saturday](https://www.fantasypros.com/nba/news/620086/donovan-mitchell-knee-ruled-out-saturday.php)  
+
+Sat, Nov 14th 6:05pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Donovan Mitchell (knee) has been ruled out for Saturday night’s matchup between the Cleveland Cavaliers and Dallas Mavericks according to Christian Clark. (Source: [Christian Clark on Twitter ](https://x.com/christianpclark/status/2121738040376988010?a=y5Inncg4jpTchSCB9No&s=46))
+**_Fantasy Impact:_** Mitchell will sit out for the first time this season on the second leg of a back-to-back, with Tyrese Proctor, Meleek Thomas, and Craig Porter Jr. set to handle the backcourt minutes for head coach Kenny Atkinson Saturday with James Harden (calf) also sidelined against the Mavericks.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Paul George](https://images.fantasypros.com/images/players/nba/2169/headshot/100x100.png)](https://www.fantasypros.com/nba/players/paul-george.php)
 F - BOS
 [» Rankings](https://www.fantasypros.com/nba/players/paul-george.php)  
@@ -189,34 +231,6 @@ Luka Doncic (ankle) is off of the injury report for Sunday’s matchup between t
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Donovan Mitchell](https://images.fantasypros.com/images/players/nba/3326/headshot/100x100.png)](https://www.fantasypros.com/nba/players/donovan-mitchell.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/donovan-mitchell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/donovan-mitchell.php)  
-[» More News](https://www.fantasypros.com/nba/news/donovan-mitchell.php)
-[Donovan Mitchell (knee) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620036/donovan-mitchell-knee-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 3:02pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Donovan Mitchell is listed as questionable for Saturday’s game against the Mavericks.
-**_Fantasy Impact:_** Mitchell played 33 minutes in the loss against the Heat on Friday. His status is up in the air for the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![James Harden](https://images.fantasypros.com/images/players/nba/2332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/james-harden.php)
-G - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/james-harden.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/james-harden.php)  
-[» More News](https://www.fantasypros.com/nba/news/james-harden.php)
-[James Harden (calf) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620035/james-harden-calf-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 3:01pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-James Harden is listed as questionable for Saturday’s game against the Mavericks.
-**_Fantasy Impact:_** Harden played 35 minutes in the loss against the Heat on Friday. His status is up in the air for the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Sam Merrill](https://images.fantasypros.com/images/players/nba/5271/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sam-merrill.php)
 G - CLE
 [» Rankings](https://www.fantasypros.com/nba/players/sam-merrill.php)  
@@ -242,20 +256,6 @@ Sat, Nov 14th 2:59pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Evan Mobley has been ruled out for Saturday’s game against the Mavericks.
 **_Fantasy Impact:_** Mobley will miss a second second straight game. Jarrett Allen (knee) is listed as questionable. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jarrett Allen](https://images.fantasypros.com/images/players/nba/3323/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jarrett-allen.php)
-C - CLE
-[» Rankings](https://www.fantasypros.com/nba/players/jarrett-allen.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jarrett-allen.php)  
-[» More News](https://www.fantasypros.com/nba/news/jarrett-allen.php)
-[Jarrett Allen (knee) listed questionable Saturday ](https://www.fantasypros.com/nba/news/620032/jarrett-allen-knee-listed-questionable-saturday.php)  
-
-Sat, Nov 14th 2:58pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jarrett Allen is listed as questionable for Saturday’s game against the Mavericks.
-**_Fantasy Impact:_** Allen is one of several players listed as questionable for Cleveland. Evan Mobley (toe) was ruled out, so Allen would be in line for a bigger role if he is cleared. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=387_1794699043067&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQwMLw1oAol8ZMw%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
