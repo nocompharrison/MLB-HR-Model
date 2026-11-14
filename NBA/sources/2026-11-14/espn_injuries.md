@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 11:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-14 16:06 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -186,7 +186,7 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 14 | Day-To-Day | Nov 13: Brown (illness) is listed as questionable for Saturday's game against Memphis. |
+| [Mikel Brown Jr.](https://www.espn.com/nba/player/_/id/5101761/mikel-brown-jr) | G | Nov 14 | Day-To-Day | Nov 14: Brown (illness) has been upgraded to probable for Saturday's game at Memphis. |
 | [Nolan Traore](https://www.espn.com/nba/player/_/id/5279130/nolan-traore) | G | Nov 14 | Day-To-Day | Nov 13: Traore (calf) is listed as probable for Saturday's game against Memphis. |
 
 ![Image 30: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
@@ -201,16 +201,21 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Dailyn Swain](https://www.espn.com/nba/player/_/id/4848625/dailyn-swain) | G | Nov 14 | Day-To-Day | Nov 14: Swain (back) is out for Friday's game against the Hawks. |
-| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 14 | Day-To-Day | Nov 14: Awaka (back) has been ruled out for Friday's game against the Hawks. |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 14 | Day-To-Day | Nov 13: Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes. |
+| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 16 | Out | Nov 14: Awaka has been ruled out for Saturday's game against the Timberwolves. |
+| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 14 | Day-To-Day | Nov 14: Claxton (hamstring) is listed as questionable for Saturday's game against the Timberwolves. |
+| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 14 | Day-To-Day | Nov 14: Smith (finger) is listed as questionable for Saturday's game at Minnesota. |
+| [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 14 | Day-To-Day | Nov 14: Powell (back) is listed as questionable for Saturday's game against Minnesota. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
 ![Image 32: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 14 | Day-To-Day | Nov 14: Mobley (toe) is out for Friday's game against the Heat. |
+| [Peyton Watson](https://www.espn.com/nba/player/_/id/4576087/peyton-watson) | G | Nov 14 | Day-To-Day | Nov 14: Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks. |
+| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 16 | Out | Nov 14: Mobley (toe) has been ruled out for Saturday's meeting with Dallas. |
+| [Jarrett Allen](https://www.espn.com/nba/player/_/id/4066328/jarrett-allen) | C | Nov 14 | Day-To-Day | Nov 14: Allen (knee) is listed as questionable for Saturday's game against Dallas. |
+| [Donovan Mitchell](https://www.espn.com/nba/player/_/id/3908809/donovan-mitchell) | G | Nov 14 | Day-To-Day | Nov 14: Mitchell (knee) is listed as questionable for Saturday's game against the Mavericks. |
+| [James Harden](https://www.espn.com/nba/player/_/id/3992/james-harden) | G | Nov 14 | Day-To-Day | Nov 14: Harden (left lower leg/calf tightness) is listed as questionable for Saturday's game against the Mavericks. |
 | [Sam Merrill](https://www.espn.com/nba/player/_/id/4066757/sam-merrill) | G | Nov 16 | Out | Nov 10: Merrill (elbow) is listed as out for Wednesday's game against the Knicks. |
 | [Nae'Qwan Tomlin](https://www.espn.com/nba/player/_/id/5106268/naeqwan-tomlin) | F | Nov 16 | Out | Oct 20: Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports. |
 
@@ -218,7 +223,7 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Nov 14 | Day-To-Day | Nov 13: Christie is questionable for Saturday's game against the Cavaliers due to a sprained left ankle. |
+| [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Nov 14 | Day-To-Day | Nov 14: Christie (ankle) has been downgraded to doubtful for Saturday's game against the Cavaliers |
 | [Morez Johnson Jr.](https://www.espn.com/nba/player/_/id/4873153/morez-johnson-jr) | F | Nov 14 | Day-To-Day | Nov 13: Johnson (left shin contusion) is listed as probable for Saturday against Cleveland. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 18 | Out | Nov 11: Lively (foot) is listed as out for Thursday's game in Minnesota. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 18 | Out | Nov 11: Biberovic (heel) is out for Thursday's game against Minnesota. |
@@ -286,8 +291,10 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Quinten Post](https://www.espn.com/nba/player/_/id/4593016/quinten-post) | C | Nov 14 | Day-To-Day | Nov 14: Post (concussion) has been ruled out for Friday's game against New Orleans. |
-| [Zach Edey](https://www.espn.com/nba/player/_/id/4600663/zach-edey) | C | Nov 14 | Day-To-Day | Nov 14: Edey won't play in Friday's game against the Pelicans due to left ankle injury management. |
+| [Quinten Post](https://www.espn.com/nba/player/_/id/4593016/quinten-post) | C | Nov 16 | Out | Nov 14: Post (concussion) has been ruled out for Saturday's game against the Nets. |
+| [Jerami Grant](https://www.espn.com/nba/player/_/id/2991070/jerami-grant) | F | Nov 14 | Day-To-Day | Nov 14: Grant (head) is questionable for Saturday's game against the Nets. |
+| [Zach Edey](https://www.espn.com/nba/player/_/id/4600663/zach-edey) | C | Nov 14 | Day-To-Day | Nov 14: Edey (ankle) is listed as questionable for Saturday's game against Brooklyn. |
+| [Ty Jerome](https://www.espn.com/nba/player/_/id/4065733/ty-jerome) | G | Nov 16 | Out | Nov 14: Jerome (hip) has been ruled out for Saturday's game against the Nets. |
 | [Scotty Pippen Jr.](https://www.espn.com/nba/player/_/id/4431785/scotty-pippen-jr) | G | Nov 21 | Out | Nov 10: Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports. |
 | [Richie Saunders](https://www.espn.com/nba/player/_/id/5105462/richie-saunders) | G | Dec 1 | Out | Nov 7: Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports. |
 
@@ -295,8 +302,9 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 14 | Day-To-Day | Nov 14: Larsson (illness) is out for Friday's game against Cleveland. |
-| [Klay Thompson](https://www.espn.com/nba/player/_/id/6475/klay-thompson) | G | Nov 14 | Day-To-Day | Nov 14: Thompson (ankle) is out for Friday's game against the Cavaliers. |
+| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 14 | Day-To-Day | Nov 14: Larsson (illness) is listed as doubtful for Saturday's game against Detroit. |
+| [Klay Thompson](https://www.espn.com/nba/player/_/id/6475/klay-thompson) | G | Nov 14 | Day-To-Day | Nov 14: Thompson (ankle) is listed as probable for Saturday's game against the Pistons. |
+| [Giannis Antetokounmpo](https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo) | F | Nov 14 | Day-To-Day | Nov 14: Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit. |
 
 ![Image 43: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
 
@@ -309,11 +317,11 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 14 | Day-To-Day | Nov 14: McGowens (elbow) is listed as out for Friday's game against the Grizzlies. |
+| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 14 | Out | Nov 14: Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets. |
+| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 16 | Out | Nov 14: Watford (ankle) has been ruled out for Saturday's game against Denver. |
+| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 16 | Out | Nov 14: McGowens (elbow) has been ruled out for Saturday's game against the Nuggets. |
+| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 16 | Out | Nov 14: Murphy (knees) has been ruled out for Saturday's game against the Nuggets. |
 | [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 20 | Out | Nov 13: Murray (ankle) is out for Friday's game against Memphis. |
-| [Yves Missi](https://www.espn.com/nba/player/_/id/5061589/yves-missi) | C | Nov 14 | Out | Nov 13: Missi (knee) is out for Friday's game against the Grizzlies. |
-| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 14 | Out | Nov 13: Murphy (knee) is out for Friday's game against Memphis. |
-| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 14 | Out | Nov 12: Watford (ankle) is listed as out for Friday's game against the Grizzlies. |
 
 ![Image 45: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
@@ -330,9 +338,9 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 22 | Out | Nov 14: Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports. |
 | [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Nov 16 | Out | Nov 9: Isaac (knee) is out for Tuesday's game against Sacramento. |
 | [Paolo Banchero](https://www.espn.com/nba/player/_/id/4432573/paolo-banchero) | F | Nov 22 | Out | Oct 24: Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports. |
-| [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 18 | Out | Oct 17: Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports. |
 | [Izaiyah Nelson](https://www.espn.com/nba/player/_/id/5107251/izaiyah-nelson) | F | Nov 18 | Out | Sep 28: Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com. |
 
 ![Image 47: Philadelphia 76ers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&h=40&w=40)Philadelphia 76ers
@@ -379,9 +387,9 @@ Sun
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 15 | Out | Nov 14: Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports. |
 | [Kevin McCullar Jr.](https://www.espn.com/nba/player/_/id/4411057/kevin-mccullar-jr) | G | Nov 14 | Day-To-Day | Nov 13: McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports. |
 | [Trayce Jackson-Davis](https://www.espn.com/nba/player/_/id/4431684/trayce-jackson-davis) | F | Nov 15 | Day-To-Day | Nov 12: Jackson-Davis is out for Thursday's game against the 76ers due to an illness. |
-| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 15 | Out | Nov 12: Barnes (groin) is out for Thursday's game against Philadelphia. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 11: Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 15 | Out | Nov 8: Bittle (foot) is listed as out for Monday's game against Memphis. |
 
@@ -407,59 +415,73 @@ Sun
 
 Data Provided by Rotowire
 
-You May Like
+Sponsored Headlines
 
-[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)[Get Tailgate Ready With Brock Purdy & Josh Hoover Brock Purdy and Josh Hoover team up for the perfect tailgate look.Ariat | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready "Get Tailgate Ready With Brock Purdy & Josh Hoover")
-
-Undo
-
-[](https://financefalcons.com/qs-best-credit-cards)[Business, travel, cash back or 0% APR? Compare Learn the pros and what to watch Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Business, travel, cash back or 0% APR? Compare")
+[](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema)[PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.thedoctorschannel.com/article/photon-intravitreal-aflibercept-8-mg-in-diabetic-macular-edema "PHOTON: Intravitreal Aflibercept 8 mg in Diabetic Macular Edema – The Doctor's Channel")
 
 Undo
 
-[](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Type that fits your habits Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
+[](https://www.goodrx.com/symbravo)[Learn More: Migraine GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.goodrx.com/symbravo "Learn More: Migraine")
 
 Undo
 
-[](https://withinmag.com/nv-pv-tb-letter-v1)[Men Over 60: If You Pee More Than Twice a Night, Read This Two things keep calling you back before morning. Most men only work on one.WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://withinmag.com/nv-pv-tb-letter-v1 "Men Over 60: If You Pee More Than Twice a Night, Read This")
+[](https://homeloansolution.com/self-employed-loan-programs)[Loan Officers Review Nontraditional Income Documents Homeloansolution | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Apply Now](https://homeloansolution.com/self-employed-loan-programs "Loan Officers Review Nontraditional Income Documents")
 
 Undo
 
-[](https://related.advisorbooth.net/topics/4331003/EAA896F)[New Small SUV for Elderly Leaves Others Behind - Take a Look!AdvisorBooth | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.advisorbooth.net/topics/4331003/EAA896F "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+[](https://silkcutunderwear.com/collections/best-sellers)[Waistband Digging In? Meet Your Next Pair Give yourself room to breathe. Discover lightweight SilkCut boxer briefs with front support that feels comfortable.SilkCut Underwear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://silkcutunderwear.com/collections/best-sellers "Waistband Digging In? Meet Your Next Pair")
 
 Undo
 
-[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair No More: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair No More: This One Daily Vitamin Is Blowing Up Online")
+[](https://silkcutunderwear.com/collections/best-sellers)[Thousands Have Already Made the Switch.Give yourself room to breathe. Discover lightweight SilkCut boxer briefs with front support that feels comfortable.SilkCut Underwear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://silkcutunderwear.com/collections/best-sellers "Thousands Have Already Made the Switch.")
 
-[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season")
+Undo
 
-[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Toxic Cookware Is Being Banned - Here's The Safe Alternative What do surgical implants and this breakthrough frying pan have in common? Discover how a unique, coating-free material is changing the way we make breakfast, preventing sticking without hidden chemicals.Plateful | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Toxic Cookware Is Being Banned - Here's The Safe Alternative")
+[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist)[3 Most Common Types of Multiple Sclerosis GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/the-4-types-of-multiple-sclerosis-defined-by-a-neurologist "3 Most Common Types of Multiple Sclerosis")
 
-[](https://rhs.search.yahoo.com/rhs)[Search for best mobile plans for seniors Research best mobile plans for seniors on Yahoo. View top results now.Yahoo Search | Mobile plans seniors | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://rhs.search.yahoo.com/rhs "Search for best mobile plans for seniors")
+Undo
 
-[](https://lp.nuviasmiles.com/denver-eval-native-2)[North Charleston: 24 Hour Dental Implants Take our 1-minute quiz to find out if you're eligible for our revolutionary 24-hour dental implants. Get a new smile in just 24 Hrs Nuvia Dental Implant Center | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://lp.nuviasmiles.com/denver-eval-native-2 "North Charleston: 24 Hour Dental Implants")
+[](https://www.espn.com/nba/injuries)[CTU Degree Programs Can Personalize Learning Connect With Those Who Share Passion For Personal and Professional Growth While Working To Learn New Skills Colorado Technical University | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "CTU Degree Programs Can Personalize Learning")
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In Oregon (Is Yours On The List?)")
+
+[](https://www.espn.com/nba/injuries)[CTU Online Degrees Built Around A Busy Schedule CTU Is An Online University With Applicable Technologies That Provide The Convenience You Need For Flexible Learning Colorado Technical University | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "CTU Online Degrees Built Around A Busy  Schedule")
 
 ### NBA News
 
-[![Image 55: The price of a pro hoop dream starts with a $200 G League tryout](https://a.espncdn.com/combiner/i?img=/photo/2026/1113/nba_g-league_16x9.jpg&w=220) ## The price of a pro hoop dream starts with a $200 G League tryout Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats. * 3h * Kalan Hooks](https://www.espn.com/nba/story/_/id/50463046/nba-g-league-delaware-blue-coats-200-dollar-tryout)
+[![Image 55: Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday](https://a.espncdn.com/combiner/i?img=/photo/2026/1114/r1745701_1296x729_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday Jim McCormick breaks down Saturday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 3h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50480388/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 56: Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909993.png?templateId=espn.all.awayhome.1x1.1) ## Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game Oklahoma City Thunder (8-5, eighth in the Western Conference) vs. Sacramento Kings (1-11, 14th in the Western Conference) * 8h](https://www.espn.com/nba/preview/_/gameId/401909993)
+[![Image 56: Josh Hart searching for answers after zero-point outing in Knicks loss](https://a.espncdn.com/combiner/i?img=/photo/2026/0522/r1661789_1296x729_16-9.jpg&w=220) ## Josh Hart searching for answers after zero-point outing in Knicks loss Knicks wing Josh Hart said he is "not in a good headspace" after he was held scoreless and benched for the fourth quarter of Friday's 106-104 NBA Cup loss to the Pacers. * 3h](https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss)
 
-[![Image 57: Minnesota takes on Chicago, aims for 5th straight home win](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909984.png?templateId=espn.all.awayhome.1x1.1) ## Minnesota takes on Chicago, aims for 5th straight home win Chicago Bulls (2-9, 14th in the Eastern Conference) vs. Minnesota Timberwolves (9-3, fifth in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909984)
+[![Image 57: The price of a pro hoop dream starts with a $200 G League tryout](https://a.espncdn.com/combiner/i?img=/photo/2026/1113/nba_g-league_16x9.jpg&w=220) ## The price of a pro hoop dream starts with a $200 G League tryout Former college players, content creators and even some Sixers fans chased the same opportunity to get noticed by the Delaware Blue Coats. * 7h * Kalan Hooks](https://www.espn.com/nba/story/_/id/50463046/nba-g-league-delaware-blue-coats-200-dollar-tryout)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)[Brock Purdy’s Game Day Guide Starts at the Tailgate See how two quarterbacks get tailgate ready with Ariat boots and jeans.Ariat | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready "Brock Purdy’s Game Day Guide Starts at the Tailgate")
+[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)
+
+Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Undo
 
-[](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/subtle-symptoms-of-ms-you-should-never-ignore)[Symptoms of MS You Should Never Ignore GoodRx is NOT insurance.GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Watch Now](https://www.goodrx.com/video-collection/multiple-sclerosis-resource-center/subtle-symptoms-of-ms-you-should-never-ignore "Symptoms of MS You Should Never Ignore")
+Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Undo
 
-[](https://rhs.search.yahoo.com/rhs)[Search for senior phone plans Research senior phone plans on Yahoo. View top results now.Yahoo Search | Senior phone plan | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for senior phone plans")
+How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Undo
+
+The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Undo
+
+[](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation)[Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation "Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel")
+
+Undo
+
+[](https://related.advisorbooth.net/topics/4331003/EAA896F)[New Small SUV for Elderly Leaves Others Behind - Take a Look!AdvisorBooth | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.advisorbooth.net/topics/4331003/EAA896F "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
 ![Image 58: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-14 11:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-14 16:06 ET -->
 
 
 ---
@@ -2155,18 +2155,6 @@ Let’s dive into a trio of player props that catch our eye for Monday’s eight
 
 ### **Ty Jerome (Grizzlies vs. Raptors) Over Points + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Ty Jerome
-
-[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661189/kalshi_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661189/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661189/kalshi_sc)
-
-[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661189/underdog_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661189/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661189/underdog_sc)
-
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661189/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661189/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661189/polymarket_sc)
-
-[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ty_jerome/player_132853 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Jerome has spearheaded Memphis’ aforementioned surprisingly strong start, as the veteran point guard has been putting up career-best numbers across the board. Jerome is averaging 31.9 points + assists per contest, while also shooting a blistering 50.3% overall. Jerome has had a couple of modest performances, but he’s eclipsed 20 points in six of eight contests while putting up 24.8 field-goal + free-throw attempts per contest overall.
 
 Jerome is 4-4 to the Over on the 27.5 so far this season, but with two days of rest and a matchup that’s projected to yield a wire-to-wire (3.5-point spread) and relatively high-scoring (230.5-point projected total) outcome, the veteran could be in line for one of his higher-percentile performances. The matchup doesn’t necessarily hurt his chances of doing so, either, as the Raptors are ranked No. 18 in offensive efficiency rating surrendered to point guards (26.7), and Toronto has also conceded the fifth-most assists per game (29.7) overall in the last three contests.
@@ -2174,18 +2162,6 @@ Jerome is 4-4 to the Over on the 27.5 so far this season, but with two days of r
 **Original Line Publish:** 27.5
 
 ### **Victor Wembanyama (Spurs vs. Suns) Over Rebounds**
-
-[](https://www.lineups.com/)
-
-![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)Victor Wembanyama
-
-[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)[42¢](https://lineups.go.metabet.io/bet/nba_mvp/188716/kalshi_sc)
-
-[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)[18¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/188716/kalshi_sc)
-
-[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)[32¢](https://lineups.go.metabet.io/bet/nba_mvp_west/188716/kalshi_sc)
-
-[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/victor_wembanyama/player_188716 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Wembanyama is already in the thick of another MVP-caliber season, averaging 29.1 points, 12.0 rebounds, 3.0 assists, 3.9 blocks and 1.2 steals per contest across 30.3 minutes per game. The 2023 first overall pick has at least 10 rebounds in seven of 10 games as well, and Wemby is helping prop up his production on the glass by averaging a career-high 2.9 offensive rebounds per contest.
 
@@ -2196,18 +2172,6 @@ Finally, there should be plenty of opportunities for boards on the other side of
 **Original Line Publish:**10.5
 
 ### **Zion Williamson (Pelicans vs. Warriors) Over Points + Rebounds**
-
-[](https://www.lineups.com/)
-
-![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10211.png)Zion Williamson
-
-[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661186/polymarket_sc)[O/U Points Scored (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661186/polymarket_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661186/polymarket_sc)
-
-[![Image 44: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661186/kalshi_sc)[O/U Total Rebounds (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661186/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661186/kalshi_sc)
-
-[![Image 45: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661186/polymarket_sc)[O/U Total Assists (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661186/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661186/polymarket_sc)
-
-[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/zion_williamson/player_132834 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Zion came into training camp in fantastic shape by all accounts, and he’s parlayed that commitment into a strong start to his seventh NBA season. Williamson is averaging 26.0 points + rebounds per contest while shooting a typically efficient 59.8%, and he’s scored at least 22 points in six of nine games. The big man’s usage remains elevated as well, as he’s averaging 19.4 field-goal + free-throw attempts per contest.
 
@@ -2245,27 +2209,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 47: Kirk Cousins](https://www.lineups.com/wp-content/uploads/2026/11/cousins-150x150.jpg)](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
+[![Image 32: Kirk Cousins](https://www.lineups.com/wp-content/uploads/2026/11/cousins-150x150.jpg)](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
 
 [](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
 #### [](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)[Kirk Cousins Expected to Play Sunday as Vikings Carry Four QBs](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
 
-[![Image 48: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/barnes-150x150.jpg)](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
+[![Image 33: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/barnes-150x150.jpg)](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
 
 [](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
 #### [](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)[Scottie Barnes Remains Day-to-Day as Egor Demin Returns for Nets](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
 
-[![Image 49: Harrison Mevis](https://www.lineups.com/wp-content/uploads/2026/11/harrison-mevis-150x150.jpg)](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
+[![Image 34: Harrison Mevis](https://www.lineups.com/wp-content/uploads/2026/11/harrison-mevis-150x150.jpg)](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
 
 [](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
 #### [](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)[Ravens Work Out Kickers Harrison Mevis, Riley Patterson After Jake Moody Leaves](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
 
-[![Image 50: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Cooper-Flagg-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
+[![Image 35: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Cooper-Flagg-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)[NBA Player Props Today: Tyrese Maxey, Cooper Flagg and Naz Reid Best Bets](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
 
-[![Image 51: Hintz](https://www.lineups.com/wp-content/uploads/2026/11/Hintz-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
+[![Image 36: Hintz](https://www.lineups.com/wp-content/uploads/2026/11/Hintz-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)[NHL Goal Picks Today: Jackson Blake, Viktor Arvidsson & Roope Hintz Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
@@ -2276,7 +2240,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 52: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 53: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2291,7 +2255,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 54: Kirk Cousins](https://www.lineups.com/wp-content/uploads/2026/11/cousins-390x230.jpg)](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
+[![Image 39: Kirk Cousins](https://www.lineups.com/wp-content/uploads/2026/11/cousins-390x230.jpg)](https://www.lineups.com/articles/kirk-cousins-expected-to-play-sunday-as-vikings-carry-four-qbs/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2301,7 +2265,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 12, 2026
 
-[![Image 55: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/barnes-390x230.jpg)](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
+[![Image 40: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/barnes-390x230.jpg)](https://www.lineups.com/articles/scottie-barnes-remains-day-to-day-as-egor-demin-returns-for-nets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2311,7 +2275,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 12, 2026
 
-[![Image 56: Harrison Mevis](https://www.lineups.com/wp-content/uploads/2026/11/harrison-mevis-390x230.jpg)](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
+[![Image 41: Harrison Mevis](https://www.lineups.com/wp-content/uploads/2026/11/harrison-mevis-390x230.jpg)](https://www.lineups.com/articles/ravens-work-out-kickers-harrison-mevis-riley-patterson-after-jake-moody-leaves/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2321,7 +2285,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Lineups Newsroom](https://www.lineups.com/author/lineups-staff/)November 12, 2026
 
-[![Image 57: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Cooper-Flagg-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
+[![Image 42: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Cooper-Flagg-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-cooper-flagg-and-naz-reid-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2331,7 +2295,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 12, 2026
 
-[![Image 58: Hintz](https://www.lineups.com/wp-content/uploads/2026/11/Hintz-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
+[![Image 43: Hintz](https://www.lineups.com/wp-content/uploads/2026/11/Hintz-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-jackson-blake-viktor-arvidsson-roope-hintz-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2341,7 +2305,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 12, 2026
 
-[![Image 59: CFB Playoff Trophy](https://www.lineups.com/wp-content/uploads/2026/11/CFBPlayoffTrophy-390x230.jpg)](https://www.lineups.com/articles/college-football-playoff-expansion-why-the-bcs-formula-would-be-fairer-now/)
+[![Image 44: CFB Playoff Trophy](https://www.lineups.com/wp-content/uploads/2026/11/CFBPlayoffTrophy-390x230.jpg)](https://www.lineups.com/articles/college-football-playoff-expansion-why-the-bcs-formula-would-be-fairer-now/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News, Expert Picks & Predictions](https://www.lineups.com/articles/)
 

@@ -1,4 +1,210 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164 | fetched: 2026-11-14 11:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/articles/ | fetched: 2026-11-14 16:06 ET -->
+
+
+---
+## SOURCE: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492
+
+# NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14
+Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s five-game Nov. 14 NBA slate.
+November 14, 2026
+Share
+[ Share to X ](https://www.twitter.com/share?text=NBA%20Best%20Bets%20and%20Predictions%20Today:%20Player%20Props%20&%20Picks%20for%20Saturday,%20Nov.%2014%20@RotoWire&url=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492) [ Share to Reddit ](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492&title=NBA%20Best%20Bets%20and%20Predictions%20Today:%20Player%20Props%20&%20Picks%20for%20Saturday,%20Nov.%2014) [ Share to Facebook ](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492) [ Share To BlueSky ](https://bsky.app/intent/compose?text=NBA+Best+Bets+and+Predictions+Today%3A+Player+Props+%26+Picks+for+Saturday%2C+Nov.+14%20@RotoWire%20https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Farticle%2Fnba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492)
+By:
+![Author Image](https://assets.rotowire.com/images/photos/jp-aravena.png)
+[Juan Pablo Aravena](https://www.rotowire.com/writer/juan-pablo-aravena-915)
+[ X logo @jparavenag](https://twitter.com/jparavenag)
+November 14, 2026
+[NBA Picks](https://www.rotowire.com/betting/nba/picks/)
+[ ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg) ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg)Win your week. Every start/sit, every waiver, every schedule edge. We make the call. Every start/sit, every waiver, every schedule edge. We make the call. Win my league ](https://www.rotowire.com/subscribe/payment/?plan=fantasy&billing=12)
+Looking for the best NBA bets today? Saturday's five-game NBA slate features three intriguing player-prop opportunities involving some of the league's most prominent offensive talents. [Nikola Jokic](https://www.rotowire.com/basketball/player/nikola-jokic-3612) faces a familiar New Orleans opponent, [Cooper Flagg](https://www.rotowire.com/basketball/player/cooper-flagg-6548) looks to bounce back from a difficult outing against Minnesota and [LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151) enters Chicago's visit to Minnesota enjoying an outstanding stretch from beyond the arc. Each pick is backed by recent performance, minutes, usage, matchup data and defensive ratings, along with current NBA odds and lines. Check back for the latest NBA predictions, injury report updates and sharp action before tipoff. 
+## NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14
+##  **Denver Nuggets vs New Orleans Pelicans:**[**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**over 27.5 points, -110 @ DraftKings**
+Jokic enters Saturday's matchup averaging 23.5 points over 10 appearances, but his previous meetings with New Orleans show he can produce when Denver needs him to carry the offense. The three-time MVP scored a season-high 35 points against the Pelicans on Oct. 24, converting 12 of 23 field-goal attempts in a 141-135 overtime victory. His second meeting with New Orleans was considerably different, as Jokic finished with 21 points on just 13 shots in a 104-91 win four days later. 
+Jokic has scored at least 25 points in four of his last five appearances, including 32 against Toronto and 27 against Memphis on Wednesday. He has also attempted at least 16 field goals in each of those contests, suggesting a more consistent scoring workload. The Pelicans have struggled defensively in recent games, conceding 145 points against Brooklyn on Nov. 11 and 142 against Memphis on Friday. Given those defensive woes and the favorable matchup, Jokic going over this line looks awfully attainable, especially since his numbers have been trending up lately.
+##  **Dallas Mavericks vs Cleveland Cavaliers:**[**Cooper Flagg**](https://www.rotowire.com/basketball/player/cooper-flagg-6548)**over 23.5 points, -132 @ FanDuel**
+Flagg has established himself as Dallas' primary offensive weapon early in the 2026-27 campaign, averaging 24.6 points through 11 appearances. The Duke product has exceeded this 23.5-point threshold in six games, including a remarkable 43-point performance against the Pacers on Nov. 9. Flagg has attempted at least 15 field goals in seven of his last nine games, and given that he's shooting 47.9 percent from the field in that span, he's getting enough shots to believe he'll remain Dallas' go-to scorer this Saturday.
+The second-year star is also looking to deliver a bounce-back performance, as he finished with just 12 points on 5-for-12 shooting during Thursday's 133-94 loss to Minnesota. Dallas' lopsided defeat limited him to 27 minutes, considerably fewer than his usual workload. He has reached 25 points in three of his last five games, so the upside is clearly there, both in terms of talent and in an established role to help him reach this line.
+##  **Chicago Bulls vs Minnesota Timberwolves:**[**LaMelo Ball**](https://www.rotowire.com/basketball/player/lamelo-ball-5151)**over 3.5 three-pointers, -110 @ Betr**
+Ball has been one of the NBA's hottest perimeter shooters in November, averaging 4.6 made three-pointers while converting an impressive 47.9 percent of his attempts across five appearances. The Timberwolves point guard has made at least four triples in four of those contests, including six against Milwaukee on Nov. 2 and another six against Dallas on Thursday.
+His shooting volume has been equally encouraging. Ball has attempted 48 three-pointers over his last five games, averaging 9.6 per contest. He has reached double-digit attempts three times during that stretch, showing not only the confidence to attack opposing defenses from beyond the arc consistently, but that he's not afraid to carry the offense in the absence of [Anthony Edwards](https://www.rotowire.com/basketball/player/anthony-edwards-5110) (knee). With the Bulls entering Saturday's game as part of a back-to-back and posting the league's worst Defensive Rating at 122.0, this is an excellent matchup for Ball to keep his sizzling streak alive.
+ABOUT THE AUTHOR
+![Author Image](https://assets.rotowire.com/images/photos/jp-aravena.png)
+[ Juan Pablo Aravena ](https://www.rotowire.com/writer/juan-pablo-aravena-915)
+Author [ X logo @jparavenag ](https://twitter.com/jparavenag)
+37-year-old sports analyst, betting writer and journalist. Fan of every single sport on this earth, but mainly NBA, MLB, NFL, NHL and soccer. Eternal optimistic who, for unknown reasons, chose to root for the Chicago Cubs and Jacksonville Jaguars. Born and raised in Chile.
+![RotoWire Logo](https://assets.rotowire.com/images/assets/logo_red.svg)
+### Continue the Conversation
+Join the RotoWire Discord group to hear from our experts and other NBA fans.
+[ Join Our Discord ](https://www.rotowire.com/users/discord.php)
+### Top News
+All MLB NBA NFL NHL
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Set to play Sunday
+NBA
+Los Angeles Lakers
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Probable Saturday
+NBA
+Miami Heat
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Won't play against Atlanta
+NFL
+Kansas City Chiefs
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
+Undergoes finger surgery
+NFL
+Green Bay Packers
+  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
+[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
+Inks four-year deal with Boston
+MLB
+Boston Red Sox
+
+
+[NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
+[Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
+Inks four-year deal with Boston
+MLB
+Boston Red Sox
+  * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
+[Tyler Heineman](https://www.rotowire.com/baseball/player/tyler-heineman-13152)
+Avoids arbitration
+MLB
+Los Angeles Angels
+  * ![Sacramento Athletics](https://assets.rotowire.com/images/teamlogo/baseball/100ATH.png?v=8)
+[Ben Bowden](https://www.rotowire.com/baseball/player/ben-bowden-14294)
+Back with A's
+MLB
+Sacramento Athletics
+  * ![Los Angeles Angels](https://assets.rotowire.com/images/teamlogo/baseball/100LAA.png?v=8)
+[Sammy Peralta](https://www.rotowire.com/baseball/player/sammy-peralta-18775)
+Back with Halos
+MLB
+Los Angeles Angels
+  * ![San Diego Padres](https://assets.rotowire.com/images/teamlogo/baseball/100SD.png?v=8)
+[Kala'i Rosario](https://www.rotowire.com/baseball/player/kalai-rosario-16749)
+Inks minor-league deal with Padres
+MLB
+San Diego Padres
+
+
+[More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Set to play Sunday
+NBA
+Los Angeles Lakers
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Probable Saturday
+NBA
+Miami Heat
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
+Full participant in practice
+NBA
+Los Angeles Lakers
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
+Doesn't practice Saturday
+NBA
+Los Angeles Lakers
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
+Iffy for Saturday
+NBA
+Memphis Grizzlies
+
+
+[More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Won't play against Atlanta
+NFL
+Kansas City Chiefs
+  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
+[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
+Undergoes finger surgery
+NFL
+Green Bay Packers
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
+Targeting Week 12 return
+NFL
+Minnesota Vikings
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Will once again serve as RB1
+NFL
+Houston Texans
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[David Montgomery](https://www.rotowire.com/football/player/david-montgomery-13556)
+Won't play against Cleveland
+NFL
+Houston Texans
+
+
+[More NFL News](https://www.rotowire.com/football/news.php)
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Mathew Barzal](https://www.rotowire.com/hockey/player/mathew-barzal-4778)
+Activated off IR-NR
+NHL
+New York Islanders
+  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
+[Cale Makar](https://www.rotowire.com/hockey/player/cale-makar-5417)
+Slated to miss two weeks
+NHL
+Colorado Avalanche
+  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
+[Nathan MacKinnon](https://www.rotowire.com/hockey/player/nathan-mackinnon-4075)
+Out for at least one month
+NHL
+Colorado Avalanche
+  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
+[Brock Faber](https://www.rotowire.com/hockey/player/brock-faber-6317)
+Activated from IR
+NHL
+Minnesota Wild
+  * ![Philadelphia Flyers](https://assets.rotowire.com/images/teamlogo/hockey/100PHI.png?v=5)
+[Dan Vladar](https://www.rotowire.com/hockey/player/dan-vladar-4817)
+Poised to start Sunday
+NHL
+Philadelphia Flyers
+
+
+[More NHL News](https://www.rotowire.com/hockey/news.php)
+## Related Stories
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 12](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/w9ssdusmm18om1n3evri.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 12 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 12, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287)
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 11](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/oohpjxybe5ccmikm4c4p.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 11 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 11, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164)
+  * [ ![Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/i4qoctc3lhlqh59vtlvz.jpg) General NBA Article Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-buy-low-sell-high-josh-hart-paul-reed-james-harden--146112)
+  * [ ![Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up?](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/hfxx4p668byfgoopwcws.jpg) General NBA Article Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up? ![Author Image](https://assets.rotowire.com/images/photos/dan-bruno-2026.png) Dan Bruno  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-players-on-the-rise-146111)
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 13](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/eulbhxepqifktkvwfnhf.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 13 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
+  * [ ![Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dqbfl7f94rvkpbpfxwcm.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues ![Author Image](https://assets.rotowire.com/images/photos/Adam-King.png) Adam King  Nov 13, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-waiver-wire-9-nba-sleepers-pickups-for-yahoo-leagues-146371)
+  * [ ![Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vwvwcu9amso3lcyoo2bk.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4 ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 13, 26 ](https://www.rotowire.com/basketball/news/fantasy-basketball-waiver-wire-top-pickups-and-adds-in-week-4-146364)
+  * [ ![NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/cblrz9frkcwkkmsflcwn.png) General NBA Article NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals ![Author Image](https://assets.rotowire.com/images/photos/thomas-leary-2.png) Thomas Leary  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-panic-index-worst-nba-teams-vs-their-win-totals-146349)
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 12](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/w9ssdusmm18om1n3evri.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 12 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 12, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287)
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 11](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/oohpjxybe5ccmikm4c4p.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 11 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 11, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164)
+  * [ ![Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/i4qoctc3lhlqh59vtlvz.jpg) General NBA Article Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-buy-low-sell-high-josh-hart-paul-reed-james-harden--146112)
+  * [ ![Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up?](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/hfxx4p668byfgoopwcws.jpg) General NBA Article Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up? ![Author Image](https://assets.rotowire.com/images/photos/dan-bruno-2026.png) Dan Bruno  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-players-on-the-rise-146111)
+  * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 13](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/eulbhxepqifktkvwfnhf.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 13 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
+  * [ ![Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dqbfl7f94rvkpbpfxwcm.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues ![Author Image](https://assets.rotowire.com/images/photos/Adam-King.png) Adam King  Nov 13, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-waiver-wire-9-nba-sleepers-pickups-for-yahoo-leagues-146371)
+  * [ ![Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vwvwcu9amso3lcyoo2bk.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4 ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 13, 26 ](https://www.rotowire.com/basketball/news/fantasy-basketball-waiver-wire-top-pickups-and-adds-in-week-4-146364)
+  * [ ![NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/cblrz9frkcwkkmsflcwn.png) General NBA Article NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals ![Author Image](https://assets.rotowire.com/images/photos/thomas-leary-2.png) Thomas Leary  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-panic-index-worst-nba-teams-vs-their-win-totals-146349)
+
+
+### Betting Latest
+* * *
+[ NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14 Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s five-game Nov. 14 NBA slate. Today ](https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492) [ NBA Picks: Player Props, Team Total and Picks for Nov. 13 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate. November 13th ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
+
+
+
+---
+## SOURCE: https://www.rotowire.com/basketball/article/nba-picks-player-props-spreads-and-picks-for-nov-11-146164
 
 # NBA Picks: Player Props, Team Total and Picks for Nov. 11
 Get the best NBA bets today, with expert picks on Payton Pritchard, Anthony Davis, the San Antonio Spurs plus odds from top sportsbooks for the Wednesday, Nov. 11 NBA slate.
@@ -50,31 +256,31 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Set to play Sunday
+NBA
+Los Angeles Lakers
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Probable Saturday
+NBA
+Miami Heat
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Won't play against Atlanta
+NFL
+Kansas City Chiefs
   * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
 [Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
 Undergoes finger surgery
 NFL
 Green Bay Packers
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Bam Adebayo](https://www.rotowire.com/basketball/player/bam-adebayo-4153)
-Bounces back in victory
-NBA
-Miami Heat
   * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
 [Jake Bauers](https://www.rotowire.com/baseball/player/jake-bauers-13094)
 Inks four-year deal with Boston
 MLB
 Boston Red Sox
-  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)
-Powers team in narrow loss
-NBA
-Oklahoma City Thunder
-  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Deni Avdija](https://www.rotowire.com/basketball/player/deni-avdija-5152)
-Scores team-high 34 points
-NBA
-Portland Trail Blazers
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -106,95 +312,96 @@ San Diego Padres
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Luka Doncic](https://www.rotowire.com/basketball/player/luka-doncic-4396)
+Set to play Sunday
+NBA
+Los Angeles Lakers
   * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Bam Adebayo](https://www.rotowire.com/basketball/player/bam-adebayo-4153)
-Bounces back in victory
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Probable Saturday
 NBA
 Miami Heat
-  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)
-Powers team in narrow loss
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Collin Sexton](https://www.rotowire.com/basketball/player/collin-sexton-4412)
+Full participant in practice
 NBA
-Oklahoma City Thunder
-  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Deni Avdija](https://www.rotowire.com/basketball/player/deni-avdija-5152)
-Scores team-high 34 points
+Los Angeles Lakers
+  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
+Doesn't practice Saturday
 NBA
-Portland Trail Blazers
-  * ![Sacramento Kings](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Domantas Sabonis](https://www.rotowire.com/basketball/player/domantas-sabonis-3865)
-Records double-double in loss
+Los Angeles Lakers
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
+Iffy for Saturday
 NBA
-Sacramento Kings
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Victor Wembanyama](https://www.rotowire.com/basketball/player/victor-wembanyama-5809)
-Limited minutes in blowout
-NBA
-San Antonio Spurs
+Memphis Grizzlies
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Won't play against Atlanta
+NFL
+Kansas City Chiefs
   * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
 [Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
 Undergoes finger surgery
 NFL
 Green Bay Packers
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[David Njoku](https://www.rotowire.com/football/player/david-njoku-11734)
-Logs another limited practice
+  * ![Minnesota Vikings](https://assets.rotowire.com/images/teamlogo/football/MIN.svg?v=12)
+[Kyler Murray](https://www.rotowire.com/football/player/kyler-murray-13613)
+Targeting Week 12 return
 NFL
-Los Angeles Chargers
-  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
-[Dominic Zvada](https://www.rotowire.com/football/player/dominic-zvada-18509)
-Misses another kick in Week 10 loss
+Minnesota Vikings
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Will once again serve as RB1
 NFL
-New York Giants
-  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
-[Theo Johnson](https://www.rotowire.com/football/player/theo-johnson-17021)
-Continues quiet campaign in Week 10 loss
+Houston Texans
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[David Montgomery](https://www.rotowire.com/football/player/david-montgomery-13556)
+Won't play against Cleveland
 NFL
-New York Giants
-  * ![New York Giants](https://assets.rotowire.com/images/teamlogo/football/NYG.svg?v=12)
-[Darnell Mooney](https://www.rotowire.com/football/player/darnell-mooney-14510)
-Hauls in just two of five targets Week 10
-NFL
-New York Giants
+Houston Texans
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
-  * ![Boston Bruins](https://assets.rotowire.com/images/teamlogo/hockey/100BOS.png?v=5)
-[Jeremy Swayman](https://www.rotowire.com/hockey/player/jeremy-swayman-5623)
-Facing Wild
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Mathew Barzal](https://www.rotowire.com/hockey/player/mathew-barzal-4778)
+Activated off IR-NR
 NHL
-Boston Bruins
-  * ![Nashville Predators](https://assets.rotowire.com/images/teamlogo/hockey/100NSH.png?v=5)
-[Ryan O'Reilly](https://www.rotowire.com/hockey/player/ryan-oreilly-3379)
-Lights lamp twice Friday
+New York Islanders
+  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
+[Cale Makar](https://www.rotowire.com/hockey/player/cale-makar-5417)
+Slated to miss two weeks
 NHL
-Nashville Predators
-  * ![Dallas Stars](https://assets.rotowire.com/images/teamlogo/hockey/100DAL.png?v=5)
-[Kyle Capobianco](https://www.rotowire.com/hockey/player/kyle-capobianco-4970)
-Lands on LTIR
+Colorado Avalanche
+  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
+[Nathan MacKinnon](https://www.rotowire.com/hockey/player/nathan-mackinnon-4075)
+Out for at least one month
 NHL
-Dallas Stars
-  * ![Dallas Stars](https://assets.rotowire.com/images/teamlogo/hockey/100DAL.png?v=5)
-[Lian Bichsel](https://www.rotowire.com/hockey/player/lian-bichsel-6689)
-Moves to IR
+Colorado Avalanche
+  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
+[Brock Faber](https://www.rotowire.com/hockey/player/brock-faber-6317)
+Activated from IR
 NHL
-Dallas Stars
-  * ![Seattle Kraken](https://assets.rotowire.com/images/teamlogo/hockey/100SEA.png?v=5)
-[Ryan Lindgren](https://www.rotowire.com/hockey/player/ryan-lindgren-5182)
-Removed from IR
+Minnesota Wild
+  * ![Philadelphia Flyers](https://assets.rotowire.com/images/teamlogo/hockey/100PHI.png?v=5)
+[Dan Vladar](https://www.rotowire.com/hockey/player/dan-vladar-4817)
+Poised to start Sunday
 NHL
-Seattle Kraken
+Philadelphia Flyers
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
 ## Related Stories
+  * [ ![NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/cblrz9frkcwkkmsflcwn.png) General NBA Article NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals ![Author Image](https://assets.rotowire.com/images/photos/thomas-leary-2.png) Thomas Leary  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-panic-index-worst-nba-teams-vs-their-win-totals-146349)
   * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 12](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/w9ssdusmm18om1n3evri.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 12 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 12, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287)
   * [ ![Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/i4qoctc3lhlqh59vtlvz.jpg) General NBA Article Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-buy-low-sell-high-josh-hart-paul-reed-james-harden--146112)
   * [ ![Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up?](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/hfxx4p668byfgoopwcws.jpg) General NBA Article Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up? ![Author Image](https://assets.rotowire.com/images/photos/dan-bruno-2026.png) Dan Bruno  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-players-on-the-rise-146111)
-  * [ ![Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 10](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vcfscfic13k0c9ygtvdc.jpg) NBA Picks Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 10 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 10, 26 ](https://www.rotowire.com/basketball/article/best-nba-bets-today-player-props-spreads-and-picks-for-nov-10-146033)
+  * [ ![NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dhw2ouprzxm8mnip8q2u.jpg) NBA Picks NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14 ![Author Image](https://assets.rotowire.com/images/photos/jp-aravena.png) Juan Pablo Aravena  Nov 14, 26 ](https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492)
   * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 13](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/eulbhxepqifktkvwfnhf.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 13 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
   * [ ![Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dqbfl7f94rvkpbpfxwcm.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues ![Author Image](https://assets.rotowire.com/images/photos/Adam-King.png) Adam King  Nov 13, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-waiver-wire-9-nba-sleepers-pickups-for-yahoo-leagues-146371)
   * [ ![Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vwvwcu9amso3lcyoo2bk.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4 ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 13, 26 ](https://www.rotowire.com/basketball/news/fantasy-basketball-waiver-wire-top-pickups-and-adds-in-week-4-146364)
@@ -202,14 +409,13 @@ Seattle Kraken
   * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 12](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/w9ssdusmm18om1n3evri.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 12 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 12, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287)
   * [ ![Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/i4qoctc3lhlqh59vtlvz.jpg) General NBA Article Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-buy-low-sell-high-josh-hart-paul-reed-james-harden--146112)
   * [ ![Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up?](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/hfxx4p668byfgoopwcws.jpg) General NBA Article Fantasy Basketball Rising Players: Will Daniels, Hachimura, Mitchell Keep It Up? ![Author Image](https://assets.rotowire.com/images/photos/dan-bruno-2026.png) Dan Bruno  Nov 11, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-players-on-the-rise-146111)
-  * [ ![Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 10](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vcfscfic13k0c9ygtvdc.jpg) NBA Picks Best NBA Bets Today: Player Props, Team Total and Picks for Nov. 10 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 10, 26 ](https://www.rotowire.com/basketball/article/best-nba-bets-today-player-props-spreads-and-picks-for-nov-10-146033)
+  * [ ![NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dhw2ouprzxm8mnip8q2u.jpg) NBA Picks NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14 ![Author Image](https://assets.rotowire.com/images/photos/jp-aravena.png) Juan Pablo Aravena  Nov 14, 26 ](https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492)
   * [ ![NBA Picks: Player Props, Team Total and Picks for Nov. 13](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/eulbhxepqifktkvwfnhf.jpg) NBA Picks NBA Picks: Player Props, Team Total and Picks for Nov. 13 ![Author Image](https://assets.rotowire.com/images/photos/Kirien-Sprecher.png) Kirien Sprecher  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
   * [ ![Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/dqbfl7f94rvkpbpfxwcm.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: 9 NBA Sleepers & Pickups for Yahoo Leagues ![Author Image](https://assets.rotowire.com/images/photos/Adam-King.png) Adam King  Nov 13, 26 ](https://www.rotowire.com/basketball/article/fantasy-basketball-waiver-wire-9-nba-sleepers-pickups-for-yahoo-leagues-146371)
   * [ ![Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/vwvwcu9amso3lcyoo2bk.jpg) NBA Waiver Wire Fantasy Basketball Waiver Wire: Top Pickups and Adds in Week 4 ![Author Image](https://assets.rotowire.com/images/photos/Barner-Mike.png) Mike Barner  Nov 13, 26 ](https://www.rotowire.com/basketball/news/fantasy-basketball-waiver-wire-top-pickups-and-adds-in-week-4-146364)
-  * [ ![NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals](https://res.cloudinary.com/rotowire/image/upload/ar_1:1,c_fill,dpr_1.0,f_auto,g_auto:custom_no_override,q_auto,w_1100/cblrz9frkcwkkmsflcwn.png) General NBA Article NBA Panic Index: Worst NBA Teams vs. Their 2026-27 Win Totals ![Author Image](https://assets.rotowire.com/images/photos/thomas-leary-2.png) Thomas Leary  Nov 13, 26 ](https://www.rotowire.com/basketball/article/nba-panic-index-worst-nba-teams-vs-their-win-totals-146349)
 
 
 ### Betting Latest
 * * *
-[ NBA Picks: Player Props, Team Total and Picks for Nov. 13 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate. November 13th ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390) [ NBA Picks: Player Props, Team Total and Picks for Nov. 12 Get the best NBA bets today, with expert picks on VJ Edgecombe and Tyrese Maxey, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate. November 12th ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-12-146287)
+[ NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 14 Get the best NBA bets today, with expert player prop picks on points, rebounds and three-pointers, plus odds from top sportsbooks for Saturday’s five-game Nov. 14 NBA slate. Today ](https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-14-146492) [ NBA Picks: Player Props, Team Total and Picks for Nov. 13 Get the best NBA bets today, with expert props for Desmond Bane, Matas Buzelis and Jalen Smith, plus odds from top sportsbooks for the Thursday, Nov. 12 NBA slate. November 13th ](https://www.rotowire.com/basketball/article/nba-picks-player-props-team-total-and-picks-for-nov-13-146390)
 
