@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 17:11 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 15
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Sunday’s nine-game Nov. 15 NBA slate.
@@ -37,31 +37,31 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
+[Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
+Productive with 24 touches
+NFL
+Miami Dolphins
   * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
 [Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
-Back in Sunday's game
+Won't return to action Sunday
 NFL
 Las Vegas Raiders
-  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
-Upgraded to probable Sunday
-NBA
-Toronto Raptors
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Won't play Sunday
-NBA
-Dallas Mavericks
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Geno Smith](https://www.rotowire.com/football/player/geno-smith-8743)
-Won't finish Sunday's game
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Emmett Johnson](https://www.rotowire.com/football/player/emmett-johnson-19240)
+Stellar showing in Week 10 win
 NFL
-New York Jets
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)
-Sitting out Sunday
+Kansas City Chiefs
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Rashee Rice](https://www.rotowire.com/football/player/rashee-rice-16963)
+Productive with five catches in win
+NFL
+Kansas City Chiefs
+  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[James Harden](https://www.rotowire.com/basketball/player/james-harden-3018)
+Expected to return Monday
 NBA
-San Antonio Spurs
+Cleveland Cavaliers
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -93,11 +93,16 @@ Washington Nationals
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
-  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
-Upgraded to probable Sunday
+  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[James Harden](https://www.rotowire.com/basketball/player/james-harden-3018)
+Expected to return Monday
 NBA
-Toronto Raptors
+Cleveland Cavaliers
+  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Donovan Mitchell](https://www.rotowire.com/basketball/player/donovan-mitchell-4166)
+Returning to lineup Monday
+NBA
+Cleveland Cavaliers
   * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
 Won't play Sunday
@@ -108,57 +113,57 @@ Dallas Mavericks
 Sitting out Sunday
 NBA
 San Antonio Spurs
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Julian Champagnie](https://www.rotowire.com/basketball/player/julian-champagnie-5728)
-Entering starting lineup Sunday
+  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)
+Won't play Monday
 NBA
-San Antonio Spurs
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254)
-Missing sixth straight game Monday
-NBA
-Cleveland Cavaliers
+New Orleans Pelicans
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
+[Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
+Productive with 24 touches
+NFL
+Miami Dolphins
   * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
 [Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
-Back in Sunday's game
+Won't return to action Sunday
 NFL
 Las Vegas Raiders
-  * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
-[Geno Smith](https://www.rotowire.com/football/player/geno-smith-8743)
-Won't finish Sunday's game
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Emmett Johnson](https://www.rotowire.com/football/player/emmett-johnson-19240)
+Stellar showing in Week 10 win
 NFL
-New York Jets
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
-Won't return to Sunday's game
+Kansas City Chiefs
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Rashee Rice](https://www.rotowire.com/football/player/rashee-rice-16963)
+Productive with five catches in win
 NFL
-Houston Texans
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
-Ruled out for Monday's game
+Kansas City Chiefs
+  * ![Indianapolis Colts](https://assets.rotowire.com/images/teamlogo/football/IND.svg?v=12)
+[Jonathan Taylor](https://www.rotowire.com/football/player/jonathan-taylor-14455)
+Clears century mark in scrimmage yards
 NFL
-Los Angeles Chargers
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Two trips to end zone in Week 10 win
-NFL
-Detroit Lions
+Indianapolis Colts
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Florida Panthers](https://assets.rotowire.com/images/teamlogo/hockey/100FLA.png?v=5)
+[Akira Schmid](https://www.rotowire.com/hockey/player/akira-schmid-6440)
+Tending twine Sunday
+NHL
+Florida Panthers
+  * ![Montreal Canadiens](https://assets.rotowire.com/images/teamlogo/hockey/100MTL.png?v=5)
+[Mike Matheson](https://www.rotowire.com/hockey/player/mike-matheson-3995)
+Out for about 2-3 weeks
+NHL
+Montreal Canadiens
   * ![Calgary Flames](https://assets.rotowire.com/images/teamlogo/hockey/100CGY.png?v=5)
 [Devin Cooley](https://www.rotowire.com/hockey/player/devin-cooley-6360)
 Facing Ducks Sunday
 NHL
 Calgary Flames
-  * ![Montreal Canadiens](https://assets.rotowire.com/images/teamlogo/hockey/100MTL.png?v=5)
-[Mike Matheson](https://www.rotowire.com/hockey/player/mike-matheson-3995)
-Won't travel with team
-NHL
-Montreal Canadiens
   * ![Nashville Predators](https://assets.rotowire.com/images/teamlogo/hockey/100NSH.png?v=5)
 [Juuse Saros](https://www.rotowire.com/hockey/player/juuse-saros-4729)
 Tending twine Sunday
@@ -169,11 +174,6 @@ Nashville Predators
 Considered day-to-day
 NHL
 St. Louis Blues
-  * ![Minnesota Wild](https://assets.rotowire.com/images/teamlogo/hockey/100MIN.png?v=5)
-[Danila Yurov](https://www.rotowire.com/hockey/player/danila-yurov-6684)
-Pots two tallies in Saturday's win
-NHL
-Minnesota Wild
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
