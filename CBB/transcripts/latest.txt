@@ -1,25 +1,26 @@
-# CBB transcripts | 2026-11-15 | updated 2026-11-15 11:19 ET
+# CBB transcripts | 2026-11-15 | updated 2026-11-15 17:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 3 files in CBB/transcripts/2026-11-15:
+# 5 files in CBB/transcripts/2026-11-15:
 CBB/transcripts/2026-11-15/LuKZmuyu8A4_PickDawgz_College_Basketball_Picks_for_Today_11_15_26_Sunday_s_Best_College_Bask.txt
 CBB/transcripts/2026-11-15/QKraKT5iaDg_TCE_College_Basketball_PICKS_ONLY_Sunday_November_15th_TCE_Trims.txt
 CBB/transcripts/2026-11-15/RwuJg7UybTI_TCE_College_Basketball_Best_Bets_For_November_15th_Spread_Moneyline_Bettin.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-14
+CBB/transcripts/2026-11-15/TCQTj15rZ_g_FieldOf68_EXCLUSIVE_Penny_Hardaway_on_Memphis_HUGE_comeback_win_over_Louisville.txt
+CBB/transcripts/2026-11-15/bEfGzrkNoLc_TCE_College_Basketball_Picks_For_November_15th_NCAA_Basketball_Banter_Best.txt
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-14/LJ1N1HZ9W8Y_FieldOf68_REACTION_Donovan_Dent_WINS_IT_for_LSU_to_STUN_Gonzaga_in_Spokane_FIELD.txt  (2,517 words)
+UPCOMING CBSCollegeBB CbaVH-SJBTk Memphis crushes Louisville; Kentucky avoids disaster + LSU-Z  (not aired yet - scheduled for 11/15/26 9:00PM)
+UPCOMING FieldOf68 CWgpXFyJxTg MEMPHIS MAKES AN INSANE COMEBACK! Plus, Baylor-Texas, Syracu  (not aired yet - scheduled for 11/15/26 10:00PM)
+NEW     CBB/transcripts/2026-11-15/TCQTj15rZ_g_FieldOf68_EXCLUSIVE_Penny_Hardaway_on_Memphis_HUGE_comeback_win_over_Louisville.txt  (1,962 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-15/RwuJg7UybTI_TCE_College_Basketball_Best_Bets_For_November_15th_Spread_Moneyline_Bettin.txt  (1,387 words)
-NEW     CBB/transcripts/2026-11-15/QKraKT5iaDg_TCE_College_Basketball_PICKS_ONLY_Sunday_November_15th_TCE_Trims.txt  (15,363 words)
-NOCAPS  TCE bEfGzrkNoLc College Basketball Picks For November 15th - NCAA Basketball  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-15/bEfGzrkNoLc_TCE_College_Basketball_Picks_For_November_15th_NCAA_Basketball_Banter_Best.txt  (23,976 words, via Groq)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+UPCOMING WagerTalk 3idwlrHDSkg College Basketball Picks Today: Monday CBB Best Bets & Odds   (not aired yet - scheduled for 11/16/26 10:00AM)
+UPCOMING WagerTalk c9FMpBwVKn4 College Basketball Picks Today: Monday CBB Best Bets & Odds   (not aired yet - scheduled for 11/16/26 10:00AM)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-15/LuKZmuyu8A4_PickDawgz_College_Basketball_Picks_for_Today_11_15_26_Sunday_s_Best_College_Bask.txt  (2,653 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
