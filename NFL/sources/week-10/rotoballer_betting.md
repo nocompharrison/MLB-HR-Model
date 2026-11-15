@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/category/sports-betting-picks | fetched: 2026-11-15 09:33 ET -->
+<!-- source: https://www.rotoballer.com/category/sports-betting-picks | fetched: 2026-11-15 11:48 ET -->
 
 
 ---
@@ -842,115 +842,145 @@ K
 DST
 Rookies
 vs
-Mike Gesicki
-CIN - TE
-Kenyon Sadiq
-NYJ - TE
-vs
-Wan'Dale Robinson
-TEN - WR
-Travis Hunter
-JAX - CB
-vs
-Reggie Virgil
-ARI - WR
-Travis Hunter
-JAX - CB
-vs
-Jordan Watkins
-SF - WR
-Mack Hollins
-NE - WR
-vs
-Kirk Cousins
-MIN - QB
-J.J. McCarthy
-NYG - QB
-vs
-Corey Kiner
-NE - RB
-Lan Larison
-NE - RB
-vs
-Wan'Dale Robinson
-TEN - WR
-Caleb Douglas
-MIA - WR
-vs
-Wan'Dale Robinson
-TEN - WR
+Konata Mumpfield
+LAR - WR
 Tutu Atwell
 LAR - WR
 vs
-Caleb Douglas
-MIA - WR
-Tutu Atwell
-LAR - WR
+Kaelon Black
+SF - RB
+Kaleb Johnson
+GB - RB
 vs
-Kirk Cousins
-MIN - QB
-J.J. McCarthy
-NYG - QB
-vs
-Corey Kiner
-NE - RB
-Lan Larison
-NE - RB
+Kaelon Black
+SF - RB
+Audric Estimé
+NO - RB
 vs
 Kaleb Johnson
 GB - RB
 Audric Estimé
 NO - RB
 vs
-Wan'Dale Robinson
-TEN - WR
-Travis Hunter
-JAX - CB
+Kirk Cousins
+MIN - QB
+Drew Lock
+SEA - QB
 vs
-Reggie Virgil
-ARI - WR
-Travis Hunter
-JAX - CB
-vs
-Jordan Watkins
-SF - WR
-Mack Hollins
-NE - WR
-vs
-Wan'Dale Robinson
-TEN - WR
-Caleb Douglas
-MIA - WR
-vs
-Wan'Dale Robinson
-TEN - WR
-Tutu Atwell
-LAR - WR
+Jacoby Brissett
+BAL - QB
+Drew Lock
+SEA - QB
 vs
 Caleb Douglas
 MIA - WR
 Tutu Atwell
 LAR - WR
 vs
-Tank Dell
+Caleb Douglas
+MIA - WR
+Kayshon Boutte
 HOU - WR
-Jordan Watkins
-SF - WR
 vs
-Khalil Shakir
-BUF - WR
-Anthony Gould
+Tutu Atwell
+LAR - WR
+Kayshon Boutte
+HOU - WR
+vs
+Kirk Cousins
+MIN - QB
+Drew Lock
+SEA - QB
+vs
+Jacoby Brissett
+BAL - QB
+Drew Lock
+SEA - QB
+vs
+Kirk Cousins
+MIN - QB
+Kyle McCord
+MIA - QB
+vs
+Kaelon Black
+SF - RB
+Kaleb Johnson
+GB - RB
+vs
+Kaelon Black
+SF - RB
+Audric Estimé
+NO - RB
+vs
+Kaleb Johnson
+GB - RB
+Audric Estimé
+NO - RB
+vs
+Sione Vaki
+DET - RB
+Lan Larison
+NE - RB
+vs
+Corey Kiner
+NE - RB
+Chris Rodriguez Jr.
+JAX - RB
+vs
+Corey Kiner
+NE - RB
+Bam Knight
+ARI - RB
+vs
+Chris Rodriguez Jr.
+JAX - RB
+Bam Knight
+ARI - RB
+vs
+Konata Mumpfield
+LAR - WR
+Tutu Atwell
+LAR - WR
+vs
+Caleb Douglas
+MIA - WR
+Tutu Atwell
+LAR - WR
+vs
+Caleb Douglas
+MIA - WR
+Kayshon Boutte
+HOU - WR
+vs
+Tutu Atwell
+LAR - WR
+Kayshon Boutte
+HOU - WR
+vs
+Wan'Dale Robinson
+TEN - WR
+Ashton Dulin
 IND - WR
 vs
-Khalil Shakir
-BUF - WR
-CJ Daniels
-LAR - WR
+Jordyn Tyson
+NO - WR
+Wan'Dale Robinson
+TEN - WR
 vs
-Mike Gesicki
-CIN - TE
-Kenyon Sadiq
-NYJ - TE
+Devaughn Vele
+NO - WR
+Demarcus Robinson
+SF - WR
+vs
+Jordyn Tyson
+NO - WR
+Ja'Kobi Lane
+BAL - WR
+vs
+Chig Okonkwo
+WAS - TE
+Tyler Higbee
+LAR - TE
 ![](https://www.rotoballer.com/wp-content/uploads/load_image.gif)
 ## Top Fantasy Football Waiver Wire Pickups for Winning Your League
 In fantasy football, each manager will draft a team consisting of NFL players. Typically, most rosters consist of one quarterback (QB), two running backs (RB), two wide receivers (WR), one tight end (TE), a kicker (K), a defense (DFST), and several bench spots.
@@ -1622,6 +1652,9 @@ This tool is designed to give you the best chance to win and stay on track by pr
   * **NFL Odds, Money Lines, and Game Totals:** Review the weekly NFL odds, money lines, and game totals to get a strong idea of who the sharps feel are the favorites, and by how much they expect the margin of victory to be. Generally speaking, the larger the point spread, the less chance of an upset occurring.
 
 
+[ ![Fall in Love with Raleigh County: Autumn Adventures in Southern West Virginia](https://ntvcld-a.akamaihd.net/image/upload/w_600,h_338,c_fill,g_auto:text,f_auto/assets/896BA1C6E2F84FFFB20E06F83C6B64A7.jpg) ](javascript:ntv.Stories._instances\['ntv1149895-693289-66856'\].open\(\))
+Sponsored Content ### [Fall in Love with Raleigh County: Autumn Adventures in Southern West Virginia ](javascript:ntv.Stories._instances\['ntv1149895-693289-66856'\].open\(\))
+By [West Virginia Tourism](javascript:ntv.Stories._instances\['ntv1149895-693289-66856'\].open\(\))
 ## NFL Survivor FAQs
   * **How do NFL survivor pools work?**
 
@@ -1660,6 +1693,979 @@ Questions? Contact info@rotoballer.com.
 [ ![](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png) ](https://twitter.com/rotoballer) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png) ](https://www.reddit.com/user/RotoBaller) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png) ](https://www.facebook.com/rotoballin)
 We Are Your Secret Weapon | Copyright © 2011 - 2026 | Win Big with RotoBaller
 ![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fnfl-survivor-grid-football-survivor-pool-picks-tool&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+Information from your device can be used to personalize your ad experience.   
+  
+[Do not sell or share my personal information.](https://www.rotoballer.com/)
+A Raptive Partner Site
+
+
+
+---
+## SOURCE: https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270
+
+![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
+[](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+[Logout](https://www.rotoballer.com/wp-login.php?action=logout)[My Account](https://www.rotoballer.com/my-account)[Upgrade](https://www.rotoballer.com/upgrade-premium-account?pa=upgrade)
+
+
+[👉 TAP TO SAVE 50% WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
+  * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+  * [FANTASY SPORTS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [TOP SPORTS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [NFL](https://www.rotoballer.com/nfl "NFL ARTICLES – FANTASY FOOTBALL ANALYSIS")
+      * [MLB](https://www.rotoballer.com/mlb)
+      * [NBA](https://www.rotoballer.com/nba)
+      * [NHL](https://www.rotoballer.com/category/hockey/nhl)
+      * [PGA](https://www.rotoballer.com/pga)
+      * [NASCAR](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
+      * [F1 (Formula 1)](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
+      * [NCAAF (CFB)](https://www.rotoballer.com/category/ncaa-football "COLLEGE FOOTBALL \(NCAA\)")
+      * [NCAAB (CBB)](https://www.rotoballer.com/category/nba-college-basketball-news "COLLEGE BASKETBALL \(NCAA\)")
+    * [MORE SPORTS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [MMA](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc "MMA \(UFC\) DFS")
+      * [EPL](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy "ENGLISH PREMIER LEAGUE & SOCCER DFS")
+      * [ESPORTS](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck "ESPORTS DFS \(LoL, CS:GO, RLCS, COD\)")
+      * [UFL](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
+      * [WNBA](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel "WOMEN’S BASKETBALL")
+      * [KBO](https://www.rotoballer.com/category/mlb/kbo-dfs-lineup-picks-draftkings-fanduel "KBO DFS \(KOREAN BASEBALL ORGANIZATION\)")
+  * [PLAYER NEWS](https://www.rotoballer.com/player-news)
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [ALL SPORTS NEWS](https://www.rotoballer.com/player-news)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Download Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
+      * [NFL Player News](https://www.rotoballer.com/player-news?sport=nfl "FANTASY FOOTBALL INJURY NEWS")
+      * [MLB Player News](https://www.rotoballer.com/player-news?sport=mlb "FANTASY BASEBALL INJURY NEWS")
+      * [CFB Player News](https://www.rotoballer.com/player-news?sport=cfb "FANTASY COLLEGE FOOTBALL \(CFB\) NEWS")
+      * [NBA Player News](https://www.rotoballer.com/player-news?sport=nba)
+      * [NHL Player News](https://www.rotoballer.com/player-news?sport=nhl "FANTASY HOCKEY INJURY NEWS")
+      * [PGA Player News](https://www.rotoballer.com/player-news?sport=pga "FANTASY GOLF – PGA NEWS")
+      * [MMA Player News](https://www.rotoballer.com/player-news?sport=mma "FANTASY MMA NEWS")
+      * [NASCAR Driver News](https://www.rotoballer.com/player-news?sport=nascar "FANTASY NASCAR NEWS")
+      * [Get Our News Feeds](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167 "PLAYER NEWS FEEDS \(XML, JSON, RSS\)")
+  * [ARTICLES](https://www.rotoballer.com/category/rotoballer-2)
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [ALL SPORTS](https://www.rotoballer.com/category/rotoballer-2 "ALL ARTICLES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Free Mobile App](https://www.rotoballer.com/app "ROTOBALLER’S FREE FANTASY FOOTBALL NEWS MOBILE APP")
+      * [All Articles](https://www.rotoballer.com/category/rotoballer-2 "FANTASY BASEBALL ANALYSIS")
+      * [NFL](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
+      * [MLB](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
+      * [NBA](https://www.rotoballer.com/category/nba-fantasy-basketball-advice)
+      * [PGA](https://www.rotoballer.com/category/dfs-golf-pga-draftkings-dfs)
+      * [NHL](https://www.rotoballer.com/category/nhl)
+      * [MMA](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc "MMA \(UFC\) DFS ARTICLES")
+      * [NASCAR](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
+      * [Formula 1 (F1)](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
+      * [ESPORTS](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck "ESPORTS DFS ARTICLES \(LoL, CS:GO, RLCS, COD\)")
+      * [NCAAB (CBB)](https://www.rotoballer.com/category/nba-college-basketball-news "NCAA COLLEGE BASKETBALL ARTICLES")
+      * [NCAAF (CFB)](https://www.rotoballer.com/category/ncaa-football "COLLEGE FOOTBALL ARTICLES \(NCAA\)")
+      * [EPL](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy "SOCCER ARTICLES – ENGLISH PREMIER LEAGUE")
+      * [KBO](https://www.rotoballer.com/category/mlb/kbo-dfs-lineup-picks-draftkings-fanduel "KBO DFS ARTICLES \(KOREAN BASEBALL ORGANIZATION\)")
+      * [WNBA](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel)
+      * [UFL](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
+    * [NFL IN-SEASON](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ANALYSIS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ANALYSIS")
+      * [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates "FANTASY FOOTBALL INJURY NEWS")
+      * [Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL WEEKLY RANKINGS")
+      * [Matchups](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/weekly-matchups "FANTASY FOOTBALL START/SIT AND GAME BREAKDOWNS")
+      * [Waiver Wire](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/waiver-wire-articles "FANTASY FOOTBALL WAIVER WIRE ARTICLES")
+      * [Streamers](https://www.rotoballer.com/tag/nfl-streamers "FANTASY FOOTBALL WAIVER WIRE STREAMERS")
+      * [Defense (D/ST)](https://www.rotoballer.com/tag/fantasy-football-dst-nfl-defense-articles)
+      * [Busts](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-busts "FANTASY FOOTBALL BUSTS, OVERVALUED")
+      * [Superflex](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/superflex-fantasy-football "FANTASY FOOTBALL SUPERFLEX \(TWO QB\) LEAGUES")
+      * [IDP Leagues](https://www.rotoballer.com/tag/idp-fantasy-football-rankings-sleepers-waiver-wire-individual-defensive-players "FANTASY FOOTBALL INDIVIDUAL DEFENSIVE PLAYERS")
+      * [Dynasty](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/dynasty-leagues-keepers "FANTASY FOOTBALL DYNASTY LEAGUES")
+      * [DFS Picks](https://www.rotoballer.com/tag/nfl-dfs-columns "FANTASY FOOTBALL DFS PICKS")
+      * [Betting Picks](https://www.rotoballer.com/tag/nfl-betting-picks-top-football-wagers)
+      * [Survivor Leagues](https://www.rotoballer.com/tag/survivor-pool "NFL SURVIVOR POOL PICKS")
+      * [Playoffs Leagues](https://www.rotoballer.com/tag/nfl-playoffs "FANTASY FOOTBALL CONTESTS FOR NFL PLAYOFFS")
+    * [NFL OFF-SEASON](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ARTICLES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
+      * [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates "NFL INJURY REPORT – FANTASY FOOTBALL INJURIES")
+      * [NFL Draft](https://www.rotoballer.com/category/nfl/nfl-draft-analysis "FANTASY FOOTBALL PROSPECTS")
+      * [Rookies](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-rookies "FANTASY FOOTBALL ROOKIES")
+      * [Best Ball](https://www.rotoballer.com/tag/fantasy-football-best-ball-rankings-and-analysis "FANTASY FOOTBALL BEST BALL LEAGUES")
+      * [Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL RANKINGS")
+      * [Sleepers](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-sleepers "FANTASY FOOTBALL DRAFT SLEEPERS")
+      * [Breakouts](https://www.rotoballer.com/tag/fantasy-football-breakouts-and-draft-sleepers "FANTASY FOOTBALL BREAKOUT CANDIDATES")
+      * [Sleepers List](https://www.rotoballer.com/nfl-fantasy-football-waiver-wire-pickups-list/232923)
+      * [Draft Strategy](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/strategy "FANTASY FOOTBALL DRAFT STRATEGIES")
+      * [Year In Review](https://www.rotoballer.com/tag/fantasy-football-year-in-review "FANTASY FOOTBALL BREAKOUTS, BUSTS, SURPRISES")
+    * [MLB IN-SEASON](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
+      * [Starts & Sits](https://www.rotoballer.com/tag/mlb-start-sit-series-for-fantasy-baseball "START/SIT WEEKLY PITCHER MATCHUPS")
+      * [Waiver Wire](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/waiver-wire "MLB WAIVER WIRE ARTICLES")
+      * [Injuries](https://www.rotoballer.com/mlb-injuries-report-fantasy-baseball-injury-updates "MLB INJURY REPORT – FANTASY BASEBALL INJURIES")
+      * [Streamers](https://www.rotoballer.com/tag/fantasy-baseball-streamers-waiver-wire-streaming-picks "HITTER AND PITCHER STREAMING PICKS")
+      * [Risers & Fallers](https://www.rotoballer.com/tag/fantasy-baseball-risers-fallers)
+      * [Sleepers List](https://www.rotoballer.com/mlb-fantasy-baseball-waiver-wire-pickups-list/226012 "MLB WAIVER PICKUPS LIST")
+      * [DFS Lineup Picks](https://www.rotoballer.com/tag/mlb-dfs-articles "DRAFTKINGS, FANDUEL")
+      * [Betting Picks](https://www.rotoballer.com/tag/mlb-betting-picks "TOP BETS")
+    * [MLB PRESEASON](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
+      * [Rankings](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings)
+      * [Prospects](https://www.rotoballer.com/category/mlb/prospects "MLB PROSPECTS, ROOKIES, CALL-UPS")
+      * [Sleepers](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/sleepers "FANTASY BASEBALL DRAFT SLEEPERS")
+      * [Busts](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/busts "FANTASY BASEBALL BUSTS, AVOIDS, OVERVALUED")
+      * [Breakouts](https://www.rotoballer.com/tag/fantasy-baseball-breakouts-and-draft-sleepers)
+      * [Bullpens](https://www.rotoballer.com/tag/mlb-holds-fantasy-baseball-relief-pitchers "CLOSERS, SAVES, HOLDS")
+      * [Closer Charts](https://www.rotoballer.com/mlb-saves-closers-depth-charts/226767 "CLOSER DEPTH CHARTS")
+      * [Points Leagues](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/points-leagues-fantasy-baseball "POINTS AND HEAD-TO-HEAD LEAGUES")
+      * [FYPD](https://www.rotoballer.com/tag/fypd-articles "FIRST YEAR PLAYER DRAFTS – FANTASY BASEBALL DYNASTY")
+      * [Draft Strategies](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/draft-strategy "FANTASY BASEBALL DRAFT STRATEGY, TIPS, ADVICE")
+      * [ADP Analysis](https://www.rotoballer.com/tag/2020-mlb-overvalued-undervalued-adp-comparison-series)
+      * [Sabermetrics](https://www.rotoballer.com/tag/mlb-sabermetrics-fantasy-baseball "SABERMETRICS FOR FANTASY BASEBALL")
+      * [Auction Leagues](https://www.rotoballer.com/tag/fantasy-baseball-auction-leagues-salary-cap-draft-budget "FANTASY BASEBALL AUCTION DRAFT STRATEGY")
+      * [NFBC Leagues](https://www.rotoballer.com/tag/nfbc-fantasy-baseball-sleepers-and-draft-targets "NFBC FANTASY BASEBALL ARTICLES")
+      * [NL-Only and AL-Only](https://www.rotoballer.com/tag/nl-only-and-al-only-waiver-wire-pickups-for-fantasy-baseball)
+      * [Off-Season Moves](https://www.rotoballer.com/tag/mlb-offseason-moves)
+    * [NBA ARTICLES](https://www.rotoballer.com/category/nba-fantasy-basketball-advice)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice)
+      * [NBA Draft](https://www.rotoballer.com/tag/nba-draft)
+      * [Rookies](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-rookies "NBA ROOKIES")
+      * [Dynasty Rankings](https://www.rotoballer.com/tag/dynasty-basketball)
+      * [Preseason](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice)
+      * [Preseason DFS](https://www.rotoballer.com/tag/nba-dfs-articles)
+      * [Rankings](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-rankings "DRAFT RANKINGS")
+      * [Sleepers](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-sleepers "DRAFT SLEEPERS")
+      * [Busts](https://www.rotoballer.com/tag/fantasy-basketball-busts "DRAFT BUSTS")
+      * [Strategy](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/draft-strategy-3 "DRAFT STRATEGIES")
+      * [DFS Picks](https://www.rotoballer.com/tag/nba-dfs-articles)
+      * [Injuries](https://www.rotoballer.com/nba-injuries-report-todays-nba-injury-updates-fantasy-basketball/986935)
+      * [Waiver Wire](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-waiver-wire "ALL BASKETBALL NBA ARTICLES")
+      * [In-Season Sleepers](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-sleepers)
+    * [NON-FANTASY](https://www.rotoballer.com/tag/non-fantasy)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [NFL Power Rankings](https://www.rotoballer.com/tag/power-rankings)
+      * [MLB Power Rankings](https://www.rotoballer.com/tag/mlb-power-rankings)
+      * [NBA Power Rankings](https://www.rotoballer.com/tag/nba-power-rankings)
+      * [CFB Power Rankings](https://www.rotoballer.com/tag/college-football-power-rankings)
+      * [CBB Power Rankings](https://www.rotoballer.com/tag/college-basketball-rankings-ncaa-cbb-power-rankings)
+      * [NFL All 32 Teams Lists](https://www.rotoballer.com/tag/nfl-all-32)
+      * [NFL Report Cards](https://www.rotoballer.com/tag/nfl-report-cards)
+      * [NFL Predictions](https://www.rotoballer.com/tag/nfl-predictions)
+    * [MORE](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [DFS](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DFS LINEUP PICKS – DAILY FANTASY SPORTS")
+      * [Betting](https://www.rotoballer.com/category/sports-betting-picks "BETTING PICKS & ADVICE")
+      * [Videos](https://www.rotoballer.com/category/fantasy-video "ORIGINAL ROTOBALLER VIDEOS")
+      * [Podcasts](https://www.rotoballer.com/podcasts "ORIGINAL ROTOBALLER PODCASTS")
+      * [NFL Quick Hits](https://www.rotoballer.com/tag/fantasy-football-quick-hits)
+      * [MLB Quick Hits](https://www.rotoballer.com/tag/fantasy-baseball-quick-hits)
+      * [NBA Quick Hits](https://www.rotoballer.com/tag/fantasy-basketball-quick-hits)
+      * [PGA Quick Hits](https://www.rotoballer.com/tag/pga-quick-hits)
+      * [NCAA Quick Hits](https://www.rotoballer.com/tag/college-football-quick-hits)
+      * [NASCAR Quick Hits](https://www.rotoballer.com/tag/fantasy-nascar-quick-hits)
+  * [DAILY FANTASY](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DFS – DAILY FANTASY SPORTS")
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [DFS PICKS ARTICLES](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DAILY LEAGUE \(DFS\) PICKS ARTICLES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [DFS Premium Tools](https://www.rotoballer.com/premium-dfs-tools-lineup-optimizers "DAILY FANTASY SPORTS")
+      * [All DFS Articles](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "ALL DAILY LEAGUE \(DFS\) PICKS ARTICLES")
+      * [NFL DFS Picks](https://www.rotoballer.com/tag/nfl-dfs-columns "DAILY FANTASY FOOTBALL \(DFS\) PICKS")
+      * [MLB DFS Picks](https://www.rotoballer.com/tag/mlb-dfs-articles)
+      * [NBA DFS Picks](https://www.rotoballer.com/tag/nba-dfs-articles "NBA DAILY LEAGUE \(DFS\) PICKS ARTICLES")
+      * [NHL DFS Picks](https://www.rotoballer.com/category/hockey/nhl)
+      * [PGA DFS Picks](https://www.rotoballer.com/category/dfs-golf-pga-draftkings-dfs)
+      * [MMA DFS Picks](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc)
+      * [EPL DFS Picks](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy)
+    * [MORE DFS ARTICLES](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [NASCAR DFS Picks](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
+      * [Formula 1 DFS Picks](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
+      * [eSports DFS Picks](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck)
+      * [NCAAF DFS Picks](https://www.rotoballer.com/category/ncaa-football)
+      * [NCAAB DFS Picks](https://www.rotoballer.com/category/nba-college-basketball-news)
+      * [UFL DFS Picks](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
+      * [WNBA DFS Picks](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel)
+      * [DFS Strategy](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs/strategy-draftkings-fanduel "DAILY LEAGUE STRATEGIES")
+    * [BETTING](https://www.rotoballer.com/sports-betting)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Premium Tools](https://www.rotoballer.com/expert-betting-picks)
+      * [Articles](https://www.rotoballer.com/category/sports-betting-picks "PICKS & ADVICE")
+      * [Prop Picks](https://www.rotoballer.com/tag/prop-bets-sports-betting "DFS PROPS")
+    * [PRIZEPICKS](https://www.rotoballer.com/prize)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [PrizePicks Articles](https://www.rotoballer.com/tag/prize-picks-dfs-props-articles)
+      * [PrizePicks Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
+    * [NOVIG](https://www.rotoballer.com/no)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Articles and Picks](https://www.rotoballer.com/tag/novig "NOVIG ARTICLES, PICKS")
+      * [Picks Finder Tool](https://www.rotoballer.com/novig-prediction-finder "NOVIG Picks Finder Tool")
+      * [De-Vig Calculator Tool](https://www.rotoballer.com/novig-de-vig-calculator "NOVIG TOOL: DE-VIG CALCULATOR")
+      * [Free Premium (Promo Offer)](https://www.rotoballer.com/no "GET 1 YEAR FREE ROTOBALLER PREMIUM")
+  * [FANTASY TOOLS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [PREMIUM TOOLS](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [How To Guides](https://www.rotoballer.com/tag/premium-guide-and-overview)
+      * [NFL Premium](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit "FANTASY FOOTBALL PREMIUM TOOLS")
+      * [MLB Premium](https://www.rotoballer.com/fantasy-baseball-cheat-sheet-draft-kit)
+      * [NBA Premium](https://www.rotoballer.com/nba-fantasy-basketball-cheat-sheet-draft-kit/346717)
+      * [NHL Premium](https://www.rotoballer.com/daily-fantasy-hockey-premium-nhl-dfs-for-draftkings-fanduel)
+      * [PGA Premium](https://www.rotoballer.com/fantasy-pga-premium-golf-dfs-for-draftkings-fanduel)
+      * [NCAAF Premium](https://www.rotoballer.com/daily-fantasy-college-football-cfb-dfs-premium-for-draftkings-fanduel "COLLEGE FOOTBALL DFS TOOLS")
+      * [NCAAB Premium](https://www.rotoballer.com/ncaab-college-basketball-betting-tools-props-dfs-prizepicks "NCAAB COLLEGE BASKETBALL TOOLS")
+      * [MMA Premium](https://www.rotoballer.com/daily-fantasy-mma-ufc-dfs-premium-for-draftkings-fanduel)
+      * [NASCAR Premium](https://www.rotoballer.com/daily-fantasy-nascar-premium-dfs-draftkings-fanduel)
+      * [eSPORTS Premium](https://www.rotoballer.com/daily-fantasy-esports-premium-dfs-draftkings-fanduel)
+      * [Betting Premium](https://www.rotoballer.com/expert-betting-picks)
+      * [Props Premium](https://www.rotoballer.com/props)
+      * [Team Sync](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+    * [NFL TOOLS](https://www.rotoballer.com/nfl "FANTASY FOOTBALL TOOLS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "IPHONE, ANDROID")
+      * [Premium Tools](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit "FANTASY FOOTBALL PREMIUM TOOLS")
+      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php "IMPORT YOUR TEAMS & LEAGUES")
+      * [Who Should I Start?](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups "WHO SHOULD I START? FANTASY FOOTBALL ADVICE")
+      * [NFL Stats Hub](https://www.rotoballer.com/nfl-fantasy-football-stats)
+      * [Injury Reports](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates)
+      * [Most Added/Dropped](https://www.rotoballer.com/fantasy-football-most-added-dropped-players-trends?view=add&src=yahoo&window=1&pos=ALL&scoring=ppr)
+      * [Matchup Ratings](https://www.rotoballer.com/fantasy-football-projections-matchup-ratings "FANTASY FOOTBALL MATCHUPS DATA")
+      * [Strength Of Schedule](https://www.rotoballer.com/nfl-fantasy-football-strength-of-schedule "FANTASY FOOTBALL STRENGTH OF SCHEDULE \(SOS\)")
+      * [Trade Analyzer](https://www.rotoballer.com/fantasy-football-trade-analyzer-who-to-trade "GET TRADE ADVICE – FANTASY FOOTBALL")
+      * [Who Should I Pickup?](https://www.rotoballer.com/who-should-i-pickup-fantasy-football-waiver-wire "WHO SHOULD I PICKUP? FANTASY FOOTBALL WAIVER WIRE")
+      * [Live Scoreboard](https://www.rotoballer.com/nfl-game-center-live-scores-fantasy-football-scoreboard "LIVE FANTASY STATS AND LEADERBOARD – FANTASY FOOTBALL")
+      * [Survivor Picks Tool](https://www.rotoballer.com/nfl-survivor-grid-football-survivor-pool-picks-tool "NFL SURVIVOR POOL PICKS TOOL")
+      * [Team Depth Charts](https://www.rotoballer.com/nfl-depth-charts-fantasy-football "NFL TEAM ROSTERS – FANTASY FOOTBALL")
+      * [NFL Draft Simulator](https://www.rotoballer.com/nfl-mock-draft-simulator "NFL DRAFT – MOCK DRAFT SIMULATOR TOOL")
+      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-football-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS – FANTASY FOOTBALL")
+      * [Live Draft Assistant](https://www.rotoballer.com/fantasy-football-mock-drafts-practice-tool "CUSTOMIZED RECOMMENDATIONS – FANTASY FOOTBALL")
+      * [Draft Cheat Sheet](https://www.rotoballer.com/free-fantasy-football-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
+      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-fantasy-football "WHO SHOULD I DRAFT? FANTASY FOOTBALL ADVICE")
+      * [ADP Reports](https://www.rotoballer.com/fantasy-football-adp-average-draft-position "FANTASY FOOTBALL ADP – AVERAGE DRAFT POSITION")
+      * [FFPC ADP Reports](https://www.rotoballer.com/ffpc-adp-fantasy-football-players-championship "FFPC LEAGUES – AVERAGE DRAFT POSITION ")
+      * [Dynasty Trade Calculator](https://www.rotoballer.com/fantasy-football-dynasty-trade-calculator)
+      * [Draft Grader](https://www.rotoballer.com/fantasy-football-draft-grader)
+    * [MLB TOOLS](https://www.rotoballer.com/mlb)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY BASEBALL NEWS – MOBILE APP")
+      * [Premium Tools](https://www.rotoballer.com/fantasy-baseball-cheat-sheet-draft-kit "FANTASY BASEBALL PREMIUM TOOLS")
+      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Who Should I Start?](https://www.rotoballer.com/who-should-i-start-fantasy-baseball "WHO SHOULD I START? FANTASY BASEBALL ADVICE")
+      * [Who Should I Pickup?](https://www.rotoballer.com/who-should-i-pickup-fantasy-baseball-waiver-wire "WHO SHOULD I PICKUP? FANTASY BASEBALL ADVICE")
+      * [Trade Analyzer](https://www.rotoballer.com/fantasy-baseball-trade-analyzer-tool "GET TRADE ADVICE")
+      * [Hitter Matchups (BvP)](https://www.rotoballer.com/mlb-bvp-batter-vs-pitcher-daily-matchups-stats "DAILY PROJECTIONS – MATCHUPS DATA")
+      * [Pitcher Matchups (PvB)](https://www.rotoballer.com/starting-pitcher-dfs-matchups-streamers-tool "DAILY PROJECTIONS – MATCHUPS DATA")
+      * [Next 10 Pitcher Starts](https://www.rotoballer.com/starting-pitcher-matchups-schedules-tool)
+      * [MLB Starting Lineups](https://www.rotoballer.com/fantasy-baseball-daily-projected-starting-mlb-lineups "MLB DAILY STARTING LINEUPS")
+      * [Live Scoreboard](https://www.rotoballer.com/mlb-game-center-live-scores-fantasy-baseball-scoreboard "LIVE FANTASY STATS AND LEADERBOARDS")
+      * [Torchy Tracker](https://www.rotoballer.com/torchy "TODAY’S WORST PITCHERS")
+      * [Rankings Portal](https://www.rotoballer.com/fantasy-baseball-rankings/440514/)
+      * [Closer Depth Charts](https://www.rotoballer.com/mlb-saves-closers-depth-charts/226767 "CLOSER & BULLPEN DEPTH CHARTS")
+      * [Injury Reports](https://www.rotoballer.com/mlb-injuries-report-fantasy-baseball-injury-updates)
+      * [PrizePicks DFS Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
+      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-fantasy-baseball "COMPARE UP TO 4 PLAYERS")
+      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-baseball-mock-draft-simulator)
+      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-baseball-draft-cheat-sheet)
+      * [ADP Comparisons](https://www.rotoballer.com/fantasy-baseball-adp-average-draft-position/836817 "COMPARE FANTASY BASEBALL ADPs")
+    * [NBA TOOLS](https://www.rotoballer.com/nba)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY BASKETBALL NEWS – MOBILE APP")
+      * [Premium Tools](https://www.rotoballer.com/nba-fantasy-basketball-cheat-sheet-draft-kit/346717 "FANTASY BASKETBALL PREMIUM TOOLS")
+      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Draft Rankings](https://www.rotoballer.com/fantasy-basketball-rankings-projections-nba "FANTASY BASKETBALL RANKINGS, TIERS \(NBA\)")
+      * [Draft Projections](https://www.rotoballer.com/fantasy-basketball-projections-nba "FANTASY BASKETBALL PROJECTIONS \(NBA\)")
+      * [Injury Reports](https://www.rotoballer.com/nba-injuries-report-todays-nba-injury-updates-fantasy-basketball/986935)
+      * [NBA Starting Lineups](https://www.rotoballer.com/todays-nba-starting-lineups-daily-basketball-starters "DAILY NBA STARTING LINEUPS – CONFIRMED, PROJECTED STARTERS")
+      * [NBA Props Tool](https://www.rotoballer.com/nba-props-tool)
+      * [PrizePicks DFS Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
+      * [Matchup Ratings](https://www.rotoballer.com/nba-dfs-lineups-projections-daily-fantasy-basketball-matchups-fanduel-draftkings/562583)
+      * [Trade Analyzer](https://www.rotoballer.com/fantasy-basketball-trade-analyzer-who-to-trade)
+      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-basketball-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS")
+      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-basketball-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
+      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-free-fantasy-basketball-tool "COMPARE ANY PLAYERS")
+    * [NHL TOOLS](https://www.rotoballer.com/category/hockey/nhl)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY HOCKEY NEWS – MOBILE APP")
+      * [Premium Tools](https://www.rotoballer.com/daily-fantasy-hockey-premium-nhl-dfs-for-draftkings-fanduel "FANTASY HOCKEY PREMIUM TOOLS")
+      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Injury Reports](https://www.rotoballer.com/nhl-injury-updates-fantasy-hockey-injuries-report-return-dates "NHL INJURY UPDATES – FANTASY HOCKEY INJURIES REPORT, RETURN DATES")
+      * [Starting Goalies](https://www.rotoballer.com/nhl-starting-goalies "DAILY NHL STARTING GOALIES – PROJECTED, CONFIRMED STARTERS")
+      * [Draft Rankings](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl "FANTASY HOCKEY RANKINGS, TIERS \(NHL\)")
+      * [Draft Projections](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl)
+      * [Trade Analyzer](https://www.rotoballer.com/fantasy-hockey-trade-analyzer-who-to-trade)
+      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-hockey-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS")
+      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-hockey-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
+      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-free-fantasy-hockey-tool "COMPARE ANY PLAYERS")
+    * [TEAM SYNC TOOLS](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Tutorials](https://www.rotoballer.com/team-sync-fantasy-baseball-platform-video-tutorials-and-user-guide/1338159)
+      * [Live Draft Assistant](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Mock Draft Simulator](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Draft Cheat Sheets](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Auction Calculator](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Draft Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Free Agent Finder](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+      * [Trade Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
+    * [LINEUP OPTIMIZERS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270 "DFS LINEUP OPTIMIZERS – DAILY FANTASY SPORTS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [NFL Optimizer](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "DFS LINEUP GENERATOR – FANTASY FOOTBALL")
+      * [MLB Optimizer](https://www.rotoballer.com/mlb-dfs-lineup-generator-optimizer-daily-fantasy-baseball "MLB DFS LINEUP GENERATOR")
+      * [NBA Optimizer](https://www.rotoballer.com/nba-dfs-lineup-generator-optimizer-daily-fantasy-draftkings-fanduel "NBA DFS LINEUP GENERATOR")
+      * [NHL Optimizer](https://www.rotoballer.com/nhl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "HOCKEY DFS LINEUP GENERATOR")
+      * [PGA Optimizer](https://www.rotoballer.com/pga-dfs-lineup-optimizer-daily-fantasy-golf-draftkings-fanduel "GOLF DFS LINEUP GENERATOR")
+      * [MMA Optimizer](https://www.rotoballer.com/mma-dfs-lineup-optimizer-daily-fantasy-ufc-draftkings-fanduel "MMA \(UFC\) DFS LINEUP GENERATOR")
+      * [CFB Optimizer](https://www.rotoballer.com/cfb-dfs-lineup-optimizer-daily-college-football-lineup-generator-draftkings-fanduel "NCAA COLLEGE FOOTBALL DFS LINEUP GENERATOR")
+      * [NASCAR Optimizer](https://www.rotoballer.com/nascar-dfs-lineup-optimizer-daily-fantasy-draftkings-fanduel "NASCAR DFS LINEUP GENERATOR")
+      * [Formula 1 Optimizer](https://www.rotoballer.com/nascar-dfs-lineup-optimizer-daily-fantasy-draftkings-fanduel)
+      * [eSPORTS Optimizer](https://www.rotoballer.com/esports-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "ESPORTS DFS LINEUP GENERATOR")
+      * [Prop Picks Optimizer](https://www.rotoballer.com/props-optimizer "PROP PICKS FINDER – OPTIMIZER TOOL")
+      * [PrizePicks DFS Optimizer](https://www.rotoballer.com/prizepicks-optimizer "PRIZEPICKS PROPS FINDER – OPTIMIZER TOOL")
+    * [CHAT ROOMS](https://www.rotoballer.com/chat?pa=slack "LIVE EXPERT Q&A CHAT")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Join Our Discord](https://www.rotoballer.com/rotoballers-discord-guide-nfl-mlb-nba-nhl-pga-nascar-and-more/1586688)
+      * [Premium VIP Chat](https://www.rotoballer.com/chat?pa=slack "PREMIUM Q&A DISCORD CHAT ROOMS")
+      * [NFL Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-football-advice "FANTASY FOOTBALL CHAT")
+      * [MLB Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-baseball-advice "FANTASY BASEBALL CHAT")
+      * [NBA Live Chat](https://www.rotoballer.com/rotoballer-nba-chat-live-fantasy-basketball-advice)
+      * [NHL Live Chat](https://www.rotoballer.com/rotoballer-nhl-chat-live-fantasy-hockey-advice)
+      * [PGA Live Chat](https://www.rotoballer.com/rotoballer-pga-chat-live-fantasy-golf-advice)
+      * [MMA Live Chat](https://www.rotoballer.com/rotoballer-mma-ufc-wwe-chat-live-fantasy-advice)
+      * [NASCAR Live Chat](https://www.rotoballer.com/rotoballer-nascar-chat-live-fantasy-nascar-advice)
+      * [eSPORTS Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-esports-advice "FANTASY ESPORTS CHAT")
+      * [Sunday Gameday Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-football-advice)
+  * [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY RANKINGS – TOP EXPERT ACCURACY")
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [NFL RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL RANKINGS PORTAL \(ALL FORMATS\)")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Weekly Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "WEEKLY FANTASY FOOTBALL RANKINGS")
+      * [Mariano's Ranks (Premium)](https://www.rotoballer.com/nick-marianos-premium-nfl-rankings "NICK MARIANO’S PREMIUM FANTASY FOOTBALL RANKINGS")
+      * [Calandro's Ranks (Premium)](https://www.rotoballer.com/jamie-calandros-premium-nfl-rankings "JAMIE CALANDRO’S PREMIUM RANKINGS – #3 ACCURACY IN 2025")
+      * [Engel's Ranks (Premium)](https://www.rotoballer.com/scott-engels-premium-nfl-rankings)
+      * [PPR Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ppr&league=Overall "1 POINT PER RECEPTION SCORING – FANTASY FOOTBALL")
+      * [Half-PPR Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=Overall "0.5 POINTS PER RECEPTION SCORING – FANTASY FOOTBALL")
+      * [Standard (Non-PPR)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=standard&league=Overall "NON-PPR SCORING RANKINGS – FANTASY FOOTBALL")
+      * [Best Ball Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "BEST-BALL RANKINGS – FANTASY FOOTBALL")
+      * [Superflex Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=superflex&league=Overall "SUPERFLEX \(2QB\) LEAGUES – FANTASY FOOTBALL")
+      * [IDP Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=idp&league=Overall "INDIVIDUAL DEFENSIVE PLAYERS \(IDP\) LEAGUES – FANTASY FOOTBALL")
+      * [TE Premium Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ffpc&league=Overall "TIGHT END PREMIUM SCORING \(1.5 PPR\) FOR FFPC LEAGUES")
+      * [Dynasty League Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=dynasty&league=Overall "DYNASTY LEAGUE RANKINGS – FANTASY FOOTBALL")
+      * [Waiver Wire Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=waiver-wire&league=Overall)
+      * [Rest-Of-Season (ROS)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=week-one&league=Overall "REST-OF-SEASON \(ROS\) RANKINGS – FANTASY FOOTBALL")
+      * [Playoff Leagues](https://www.rotoballer.com/fantasy-football-rankings-for-playoff-leagues-2026/1793658 "NFL PLAYOFF LEAGUE RANKINGS – FANTASY FOOTBALL")
+      * [Preseason Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=week-one&league=Overall "2026 FANTASY FOOTBALL RANKINGS")
+    * [NFL POSITIONS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "POSITIONAL RANKINGS FANTASY FOOTBALL")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Positions](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "OVERALL FANTASY FOOTBALL RANKINGS")
+      * [QB Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=QB "QUARTERBACK \(QB\) FANTASY FOOTBALL RANKINGS")
+      * [RB Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=RB "RUNNING BACK \(RB\) FANTASY FOOTBALL RANKINGS")
+      * [WR Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=WR "WIDE RECEIVER \(WR\) FANTASY FOOTBALL RANKINGS")
+      * [TE Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=TE "TIGHT END \(TE\) FANTASY FOOTBALL RANKINGS")
+      * [FLEX Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=FLEX "FLEX FANTASY FOOTBALL RANKINGS")
+      * [D/ST Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=DST "DEFENSE \(D/ST\) FANTASY FOOTBALL RANKINGS")
+      * [Kicker Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=K "KICKER FANTASY FOOTBALL RANKINGS")
+    * [NFL RANKS ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/rankings-tiered "FANTASY FOOTBALL RANKINGS ANALYSIS ARTICLES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/rankings-tiered "ALL FANTASY FOOTBALL RANKINGS ARTICLES")
+      * [Rest-Of-Season](https://www.rotoballer.com/tag/fantasy-football-rankings-rest-of-season "FANTASY FOOTBALL ROS RANKINGS – WEEKLY UPDATES")
+      * [Waiver Wire](https://www.rotoballer.com/tag/fantasy-football-waiver-wire-rankings "FANTASY FOOTBALL WAIVER WIRE RANKINGS")
+      * [Defense (D/ST)](https://www.rotoballer.com/tag/fantasy-football-defense-streamers-dst-rankings-series "DEFENSE \(D/ST\) FANTASY FOOTBALL RANKINGS ARTICLES")
+      * [IDP Rankings](https://www.rotoballer.com/tag/idp-fantasy-football-rankings-sleepers-waiver-wire-individual-defensive-players)
+      * [Superflex (2QB)](https://www.rotoballer.com/tag/fantasy-football-superflex-2qb-rankings "SUPERFLEX FANTASY FOOTBALL RANKINGS ARTICLES")
+      * [Best Ball](https://www.rotoballer.com/tag/fantasy-football-best-ball-rankings "BEST BALL FANTASY FOOTBALL RANKINGS ARTICLES")
+      * [NFL Rookies](https://www.rotoballer.com/tag/fantasy-football-rookie-rankings-nfl-prospects "FANTASY FOOTBALL ROOKIE RANKINGS")
+      * [College Football](https://www.rotoballer.com/tag/college-football-rankings-ncaa-cfb-power-rankings "NCAA COLLEGE FOOTBALL RANKINGS \(CFB\)")
+    * [NFL BEST BALL RANKS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "FANTASY FOOTBALL BEST BALL RANKINGS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Best Ball Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "FANTASY FOOTBALL BEST BALL STAFF RANKINGS \(ALL FORMATS\)")
+      * [Best Ball (Underdog)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=underdog&league=Overall "UNDERDOG \(UD\) BEST BALL FANTASY FOOTBALL RANKINGS")
+      * [Best Ball (DraftKings)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=draftkings&league=Overall "DRAFTKINGS \(DK\) BEST BALL FANTASY FOOTBALL RANKINGS")
+      * [NFL Playoffs (Underdog)](https://www.rotoballer.com/underdog-fantasy-football-playoffs-best-ball-league-rankings-2026/1793551 "UNDERDOG FANTASY FOOTBALL BEST BALL PLAYOFF LEAGUE RANKINGS")
+    * [MLB RANKINGS](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "FANTASY BASEBALL RANKINGS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Mariano's Ranks (Premium)](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings/rankings?spreadsheet=keeper-values&league=Overall&atc "NICK MARIANO’S FANTASY BASEBALL RANKINGS")
+      * [Rest-Of-Season Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "IN-SEASON RANKINGS \(UPDATED WEEKLY\)")
+      * [Waiver Wire Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/rankings?spreadsheet=waiver-wire&league=Overall)
+      * [Prospects (Redraft)](https://www.rotoballer.com/fantasy-baseball-prospects-rankings-redraft-leagues/ "FANTASY BASEBALL PROSPECT RANKINGS \(REDRAFT\)")
+      * [Prospects (Dynasty)](https://www.rotoballer.com/premium-mlb-ranks/rankings?spreadsheet=dynasty-prospect "FANTASY BASEBALL PROSPECT RANKINGS \(DYNASTY\)")
+      * [Saves+Holds Ranks](https://www.rotoballer.com/saves-holds-fantasy-baseball-rankings-sv-hld/ "SV+HLD LEAGUE RANKINGS \(SOLDS\)")
+      * [Dynasty Ranks](https://www.rotoballer.com/dynasty-fantasy-baseball-rankings-dynasty-leagues/ "FANTASY BASEBALL DYNASTY LEAGUE RANKINGS")
+      * [Roto Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "ROTO \(ROTISSERIE\) MIXED LEAGUES FANTASY BASEBALL RANKINGS")
+      * [AL-Only Ranks](https://www.rotoballer.com/al-only-fantasy-baseball-rankings-american-league/ "AMERICAN LEAGUE ONLY RANKINGS")
+      * [NL-Only Ranks](https://www.rotoballer.com/nl-only-fantasy-baseball-rankings-national-league/ "NATIONAL LEAGUE ONLY RANKINGS")
+      * [#1 ATC Rankings (Premium)](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings#!/rankings?spreadsheet=atc&league=Overall&atc "ARIEL COHEN’S #1 ACCURACY RANKINGS")
+      * [#1 ATC Projections](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings#!/rankings?spreadsheet=atc&league=Overall&atc "#1 ACCURACY FANTASY BASEBALL PROJECTIONS")
+      * [Points Ranks](https://www.rotoballer.com/points-fantasy-baseball-rankings-points-leagues#!/ "POINTS RANKINGS and HEAD-TO-HEAD POINTS")
+      * [FYPD Ranks](https://www.rotoballer.com/fypd-fantasy-baseball-rankings-first-year-player-drafts#!/ "FIRST YEAR PLAYER DRAFTS – FANTASY BASEBALL RANKINGS")
+      * [OBP Leagues](https://www.rotoballer.com/obp-fantasy-baseball-rankings-on-base-percentage#!/ "OBP FANTASY BASEBALL RANKINGS \(ON-BASE PERCENTAGE\)")
+      * [Best Ball (Underdog)](https://www.rotoballer.com/underdog-best-ball-fantasy-baseball-rankings#!/ "UNDERDOG BEST BALL RANKINGS – FANTASY BASEBALL")
+      * [Best Ball (NFBC)](https://www.rotoballer.com/nfbc-best-ball-fantasy-baseball-rankings#!/ "NFBC BEST BALL RANKINGS – FANTASY BASEBALL")
+    * [MLB POSITIONS](https://www.rotoballer.com/fantasy-baseball-rankings/440514/)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [C Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-catcher-c/ "CATCHER FANTASY BASEBALL RANKINGS")
+      * [1B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-first-base-1b/ "FIRST BASE \(1B\) FANTASY BASEBALL RANKINGS")
+      * [2B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-second-base-2b/ "SECOND BASE \(2B\) FANTASY BASEBALL RANKINGS")
+      * [3B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-third-base-3b/ "THIRD BASE \(3B\) FANTASY BASEBALL RANKINGS")
+      * [SS Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-shortstop-ss/ "SHORTSTOP \(SS\) FANTASY BASEBALL RANKINGS")
+      * [OF Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-outfield-of/ "OUTFIELD \(OF\) FANTASY BASEBALL RANKINGS")
+      * [SP Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-starting-pitcher-sp/ "STARTING PITCHER \(SP\) FANTASY BASEBALL RANKINGS")
+      * [RP Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-closers-relief-pitchers-rp/ "CLOSERS, RELIEF PITCHERS FANTASY BASEBALL RANKINGS")
+    * [MLB RANKS ARTICLES](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings "RANKINGS ANALYSIS ARTICLES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings)
+      * [Top 300 (In-Season)](https://www.rotoballer.com/tag/fantasy-baseball-rankings-in-season-mlb-updates)
+      * [Prospects (In-Season)](https://www.rotoballer.com/tag/mlb-prospects-rankings-for-fantasy-baseball "TOP FANTASY PROSPECTS – UPDATED WEEKLY")
+      * [Pitchers (In-Season)](https://www.rotoballer.com/tag/the-baller-ranks-weekly-starting-pitcher-rankings-for-fantasy-baseball "STARTING PITCHER RANKS – UPDATED WEEKLY")
+      * [Closers (In-Season)](https://www.rotoballer.com/tag/fantasy-baseball-saves-holds-leagues-sv-hld "RELIEF PITCHER RANKS – UPDATED WEEKLY")
+      * [Waiver Wire](https://www.rotoballer.com/tag/fantasy-baseball-waiver-wire-rankings "WAIVER WIRE RANKS – UPDATED WEEKLY")
+    * [MORE SPORTS RANKINGS](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [CFB Rankings (NCAA)](https://www.rotoballer.com/college-fantasy-football-rankings-projections-cfb-ncaa "COLLEGE FANTASY FOOTBALL RANKINGS \(CFB\)")
+      * [CFB Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-college-fantasy-football-cfb "WHO SHOULD I DRAFT? COLLEGE FANTASY FOOTBALL \(CFB\)")
+      * [NBA Rankings](https://www.rotoballer.com/fantasy-basketball-rankings-projections-nba "FANTASY BASKETBALL RANKINGS")
+      * [PGA Rankings](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270 "GOLF POWER RANKINGS")
+      * [NHL Rankings](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl "FANTASY HOCKEY RANKINGS \(NHL\)")
+      * [NASCAR RANKINGS](https://www.rotoballer.com/tag/nascar-dfs-draftkings-projections "Weekly NASCAR Driver Rankings")
+  * [OPTIMIZER](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel?pa=grey26optimizernfl "FANTASY BASEBALL LINEUP OPTIMIZER – DFS PICKS")
+  * [TEAM SYNC](https://www.rotoballer.com/api/rbapps/auth/redirect.php "SYNC YOUR FANTASY LEAGUES, TEAMS")
+  * [PROMOS](https://www.rotoballer.com/dfs-referral-portal)
+    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+    * [PROMO OFFERS](https://www.rotoballer.com/dfs-referral-portal "FREE PREMIUM – PARTNER PROMO OFFERS")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [Novig (Free Year)](https://www.rotoballer.com/dfs-referral-portal "SIGN UP FOR FREE ROTOBALLER PREMIUM")
+      * [PrizePicks (Free 6 Mo.)](https://www.rotoballer.com/dfs-referral-portal "SIGN UP FOR FREE ROTOBALLER PREMIUM")
+      * [ProphetX (Free 6 Mo.)](https://www.rotoballer.com/x "SIGN UP FOR FREE ROTOBALLER PREMIUM")
+      * [FFPC](https://www.rotoballer.com/dfs-referral-portal)
+      * [Fantasy Genius](https://www.rotoballer.com/genius)
+    * [FREE CONTESTS](https://www.rotoballer.com/rotoballer-challenge-homepage "FREE TO ENTER – WIN CASH PRIZES")
+      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
+      * [RotoBaller Challenge](https://www.rotoballer.com/free-fantasy-football-tournament-rotoballer-challenge-2026/1900460)
+      * [NFL Pickem Challenge](https://www.rotoballer.com/rotoballer-challenge-homepage "Football Pickem Challenge")
+      * [NCAA Pickem Challenge (CFB)](https://www.rotoballer.com/rotoballer-challenge-homepage "College Football Pickem Challenge")
+  * [![](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
+
+
+![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
+Continue with Apple Continue with Google
+or
+[Lost password?](https://www.rotoballer.com/wp-login.php?action=lostpassword)
+Don't have an account?  
+[Gain Access Now](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
+Continue with Apple Continue with Google
+or
+Receive free daily analysis
+NFL
+NBA
+NHL
+NASCAR
+CFB
+MLB
+MMA
+PGA
+ESPORTS
+BETTING
+Submit
+Already have an account? [Log In](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
+## Forgot Password
+* * *
+[![](https://www.rotoballer.com/wp-content/uploads/2023/09/RotoBaller-NFL-new-logo.png)](https://www.rotoballer.com)
+#  NFL Survivor Pool Picks: Week 10 Targets and Avoids 
+[ See RotoBaller at the top of Google ](https://google.com/preferences/source?q=rotoballer.com) by [Kipp Heisterman](https://www.rotoballer.com/author/kipp628 "Posts by Kipp Heisterman")
+Link copied to clipboard!
+Reddit Twitter Facebook Copy link
+[ @kipppsta ](https://twitter.com/kipppsta)
+![Trevor Lawrence - Fantasy Football Rankings, NFL Injury News, DFS Lineup Picks](https://www.rotoballer.com/wp-content/uploads/2022/12/trevor-lawrence-fantasy-football-rankings-quarterbacks-draft-sleepers-waiver-wire-pickups-icon-1220x768.jpeg) Nov 15, 2026, 8:55 AM ET
+The top NFL survivor pool picks for Week 10 of the 2026 NFL season. Kipp's weekly survivor league pool targets and avoids -- expert picks for survivor leagues.
+Welcome back to our **NFL Survivor Pool Picks for Week 10** of the 2026 NFL season! If you're not familiar, each week we share our recommended Survivor Pool picks to target and avoid for 2026 Survivor leagues.
+I'll do my best not to pick the same teams every week, since I know that is not always helpful. That being said, we will provide multiple teams to target each week, so that if you do not have one available, you will hopefully have another option to choose from.
+Our top pick last week was the Kansas City Chiefs, who got the job done against the New York Jets. Additionally, we wrote up the Detroit Lions against the Miami Dolphins and the San Francisco 49ers, who defeated the Las Vegas Raiders. We will look to go 3-0 once again this week.
+**_Bookmark our updated and revamped[fantasy football rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) portal for all league formats!_**   
+  
+[PPR rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ppr) | [Half-PPR rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr) | [Standard rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=standard) | [Rookie rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=rookie&league=Overall) | [Superflex rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=superflex&league=Overall) | [Dynasty rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=dynasty&league=Overall) | [Who To Start?](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups) | [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates) | [Matchup Ratings](https://www.rotoballer.com/fantasy-football-projections-matchup-ratings) | [Strength of Schedule](https://www.rotoballer.com/nfl-fantasy-football-strength-of-schedule)
+## Survivor Pool Tools and Resources
+Love Survivor pools as much as we do? Of course you do. Be sure to check these out:
+[**Survivor Picks Tool**](https://www.rotoballer.com/nfl-survivor-grid-football-survivor-pool-picks-tool)  
+Optimize your weekly picks and plan your future picks with our free new [Survivor Pool Picks Tool!](https://www.rotoballer.com/nfl-survivor-grid-football-survivor-pool-picks-tool)
+**[Survivor League Guide](https://www.rotoballer.com/nfl-survivor-pool-strategy-expert-tips-for-survivor-leagues/1519975)  
+**For detailed Survivor pool strategy and tips to help you win, check out our "[How To Win Your Survivor League](https://www.rotoballer.com/nfl-survivor-pool-strategy-expert-tips-for-survivor-leagues/1519975)" guide!
+## Win Probabilities For Week 10
+Before jumping into the picks for Week 10, it's helpful to get an overview of the slate with the Vegas data for each NFL matchup this week.
+![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)  
+| **TEAM**  | **ML ODDS**  | **Implied Prob**  | **De-Vig Prob**  |  
+| --- | --- | --- | --- |  
+| JAX  | -595  | 85.61%  | 81.89%  |  
+| BUF  | -449  | 81.79%  | 78.60%  |  
+| LAR  | -450  | 81.82%  | 78.41%  |  
+| BAL  | -234  | 70.06%  | 67.17%  |  
+| HOU  | -231  | 69.79%  | 67.01%  |  
+| GB  | -214  | 68.15%  | 65.37%  |  
+| SF  | -211  | 67.85%  | 65.27%  |  
+| CIN  | -193  | 65.87%  | 63.31%  |  
+| KC  | -184  | 64.79%  | 62.20%  |  
+| SEA  | -180  | 64.29%  | 61.74%  |  
+| DET  | -163  | 61.98%  | 59.19%  |  
+| IND  | -137  | 57.81%  | 55.18%  |  
+| NYG  | -130  | 56.52%  | 54.16%  |  
+| NO  | -119  | 54.34%  | 51.71%  |  
+| CAR  | -103  | 50.74%  | 48.29%  |  
+| WAS  | +109  | 47.85%  | 45.84%  |  
+| MIA  | +113  | 46.95%  | 44.82%  |  
+| NE  | +134  | 42.74%  | 40.81%  |  
+| LV  | +151  | 39.84%  | 38.26%  |  
+| ATL  | +154  | 39.37%  | 37.80%  |  
+|   |  
+| PIT  | +162  | 38.17%  | 36.69%  |  
+| DAL  | +177  | 36.10%  | 34.73%  |  
+| MIN  | +177  | 36.10%  | 34.63%  |  
+| CLE  | +191  | 34.36%  | 32.99%  |  
+| LAC  | +192  | 34.25%  | 32.83%  |  
+| ARI  | +344  | 22.52%  | 21.59%  |  
+| NYJ  | +349  | 22.27%  | 21.40%  |  
+| TEN  | +428  | 18.94%  | 18.11%  |  
+We can extrapolate the implied winning percentage from Vegas odds, and then remove the vig (or the upcharge that is built into the price by the books) to get a true implied win probability. You can de-vig any line using our new [No-Vig Calculator right here](https://www.rotoballer.com/novig-de-vig-calculator)! Check it out; it's super cool and useful.
+Now, let's look at the Survivor pool pick recommendations to target and avoid for Week 10.
+## Top Survivor Pool Picks to Target for Week 10
+#### **Jacksonville Jaguars at Tennessee Titans**
+We have a couple of road favorites in divisional matchups with our first two selections this week, and that is simply because we are limited on great options this week. That being said, these teams should be able to win on the road against their foes, and that starts with the Jacksonville Jaguars at Tennessee Titans.
+The Jaguars are surging at the moment and currently sit at 6-2, having won five of their previous six games. Meanwhile, Tennessee is sitting in the basement of the AFC South at 1-7 and has lost four of its previous five contests.
+The Jaguars are backed by a very strong run defense, allowing just under 90 yards per game and ranking fifth overall in the league. They also allow just 15 points per game, which ranks second-best in the league.
+Meanwhile, the Titans have struggled mightily on offense, scoring just 18 points per game and averaging just under 273 total yards of offense per game, both of which rank in the bottom five league-wide. This is a spot where the Jags should absolutely roll.
+#### **Buffalo Bills at New York Jets**
+This is likely where I will use my Survivor entry for Week 10. While I do not love that the Bills are coming off a Monday night game, they do not have to travel far for this matchup. Buffalo has handled the Jets well, having won each of the previous five meetings against them.
+The Bills should also be able to control the game here, as the Jets currently allow 128 rushing yards per game, which ranks 26th in the league. While the Bills have struggled on defense, the Jets average just over 20 points per game, which ranks 25th in the league.
+The spread for this game is currently sitting at eight points in favor of the Bills as well.
+#### **Kansas City Chiefs at Atlanta Falcons**
+We have an interconference matchup this week when the Chiefs travel to Atlanta to take on the Falcons. These are two teams that appear to be headed in different directions. The Chiefs currently sit at 6-2, while the Falcons are sitting at 3-6 and have lost four of their previous five games.
+The Falcons are fresh off a loss in Spain against the Cincinnati Bengals, and now they have to deal with international travel ahead of this matchup against a well-rounded Kansas City Chiefs team.
+Overall, Kansas City ranks 10th in the league in points scored by averaging over 25 points per game, and third in points allowed, allowing an average of just under 18 points per game. It is also strong on the ground, averaging over 137 rushing yards per game on offense.
+The Falcons have struggled offensively, scoring just 21 points per game and ranking 23rd in the league. They also allow nearly 120 rushing yards per game and just under 25 points per game.
+Kansas City should be able to handle the Falcons in this spot, especially when you consider the extra travel associated with playing in Spain just last week.
+#### **Also Consider Using:**
+  * Los Angeles Rams at Arizona Cardinals
+
+
+## **Top Survivor Pool Picks to Avoid for Week 10**
+#### Seattle Seahawks at Las Vegas Raiders
+This is a game that I think Seattle should win, but given the uncertainty surrounding its quarterback situation and how feisty this Raiders team has been thus far in 2026, I would rather avoid the Seahawks this week.
+The Raiders currently sit at 4-5, and while they have lost four of their previous five games, they currently rank eighth overall by scoring an average of over 26 points per game. They also rank fifth in terms of passing yards by averaging nearly 260 passing yards per game.
+The Seahawks defense should be able to stifle this Raiders passing attack, as Seattle currently ranks second in the league by allowing an average of just 155 passing yards per game. It also allows just 18 points per game, ranking fourth overall in the league.
+That being said, I am not sure what this Seattle offense will look like with the uncertainty at quarterback, and I do not exactly want to go to war against a team that can move the ball through the air the way the Raiders have this season.
+Seattle should win, but I think this game may be much closer than the current spread suggests, and therefore is a fade for me this week.
+#### **Houston Texans at Cleveland Browns**
+Houston has been an incredibly frustrating team this season. It currently sits at 3-5, but has won three of its previous four matchups after defeating the Los Angeles Chargers in Week 9. Houston's defense has not been as advertised, however, as it currently ranks 27th by allowing an average of over 235 passing yards per game.
+The Texans also allow 24 points per game, which ranks in the bottom half of the league. Cleveland should also have starting quarterback [Deshaun Watson](https://www.rotoballer.com/nfl/player/18857/Deshaun+Watson) back, who will likely have some added motivation against his former team.
+The Browns have been strong on defense, allowing just under 22 points per game and 201 passing yards per game, both of which rank in the top half of the league. Houston also has to travel to Cleveland for this matchup, which is another reason I do not love the spot for it.
+The spread currently favors the Texans by 4.5 points, but this game could be a lot closer than that and is an avoid for me.
+#### **Also Consider Fading:**
+  * Cincinnati Bengals vs. Pittsburgh Steelers
+
+
+### LIKE ROTOBALLER?
+[ See RotoBaller at the top of Google ](https://google.com/preferences/source?q=rotoballer.com) [ CLICK HERE, ENTER ROTOBALLER.COM, THEN CHECK THE BOX ](https://google.com/preferences/source?q=rotoballer.com)
+## More Fantasy Football Analysis
+[ Key Starters & Tough Calls: Week 10 ](https://www.rotoballer.com/key-fantasy-football-starts-and-sits-for-week-10-2026/1994000)
+[ Updated Waiver Wire Rankings for Week 10 ](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-10-2026/1993343)
+[ Week 10 Matchups: Start 'Em, Sit 'Em ](https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-10-2026/1991153)
+[ WR/CB Matchups to Target and Avoid ](https://www.rotoballer.com/wr-cb-matchups-for-fantasy-football-sleepers-targets-for-week-10-2026/1989112)
+  
+  
+**Download Our Free News & Alerts Mobile App**   
+  
+Like what you see? Download our updated fantasy football app for [iPhone](https://apps.apple.com/us/app/fantasy-football-by-rotoballer/id915394322) and [Android](https://play.google.com/store/apps/details?id=com.rotoballer.football&hl=en_US&gl=US) with 24x7 player news, injury alerts, rankings, starts/sits & more. All free!   
+  
+[![](data:image/svg+xml,<svg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%200%200"></svg>)](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
+  
+[![](https://www.rotoballer.com/wp-content/uploads/2024/09/NFL-team-sync-2024-in-season.png)](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel)   
+  
+
+####  [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) HALF-PPR STD PPR
+QB
+RB
+WR
+TE
+K
+DEF
+1
+![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg)
+[Jahmyr Gibbs](http://www.rotoballer.com/nfl/player/23200/Jahmyr+Gibbs) DET
+1
+2
+![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
+[Christian McCaffrey](http://www.rotoballer.com/nfl/player/18877/Christian+McCaffrey) SF
+2
+3
+![](https://upload.wikimedia.org/wikipedia/en/c/c5/Atlanta_Falcons_logo.svg)
+[Bijan Robinson](http://www.rotoballer.com/nfl/player/23189/Bijan+Robinson) ATL
+4
+4
+![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
+[James Cook III](http://www.rotoballer.com/nfl/player/23247/James+Cook+III) BUF
+5
+5
+![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg)
+[Chuba Hubbard](http://www.rotoballer.com/nfl/player/21691/Chuba+Hubbard) CAR
+7
+6
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg)
+[Javonte Williams](http://www.rotoballer.com/nfl/player/22558/Javonte+Williams) DAL
+8
+7
+![](https://upload.wikimedia.org/wikipedia/commons/d/de/Pittsburgh_Steelers_logo.svg)
+[Jaylen Warren](http://www.rotoballer.com/nfl/player/23479/Jaylen+Warren) PIT
+10
+8
+![](https://upload.wikimedia.org/wikipedia/en/1/16/Baltimore_Ravens_logo.svg)
+[Derrick Henry](http://www.rotoballer.com/nfl/player/17959/Derrick+Henry) BAL
+12
+9
+![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg)
+[Kyren Williams](http://www.rotoballer.com/nfl/player/23212/Kyren+Williams) LAR
+13
+10
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
+[Emmett Johnson](http://www.rotoballer.com/nfl/player/26835/Emmett+Johnson) KC
+15
+[View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
+[![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
+######  RANKINGS  Roto Points Dynasty
+C
+1B
+2B
+3B
+SS
+OF
+SP
+RP
+1
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg)
+[Pete Crow-Armstrong](https://www.rotoballer.com/mlb/player/691718/Pete+Crow-Armstrong) CHC
+1
+2
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
+[Fernando Tatis Jr.](https://www.rotoballer.com/mlb/player/665487/Fernando+Tatis%20Jr.) SD
+6
+3
+![](https://upload.wikimedia.org/wikipedia/en/7/7b/New_York_Mets.svg)
+[Juan Soto](https://www.rotoballer.com/mlb/player/665742/Juan+Soto) NYM
+8
+4
+![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg)
+[Aaron Judge](https://www.rotoballer.com/mlb/player/592450/Aaron+Judge) NYY
+9
+5
+![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg)
+[Jackson Chourio](https://www.rotoballer.com/mlb/player/694192/Jackson+Chourio) MIL
+12
+6
+![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Washington_Nationals_logo.svg)
+[James Wood](https://www.rotoballer.com/mlb/player/695578/James+Wood) WSH
+13
+7
+![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg)
+[Ronald Acuña Jr.](https://www.rotoballer.com/mlb/player/660670/Ronald+Acu%C3%B1a%20Jr.) ATL
+15
+8
+![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg)
+[Corbin Carroll](https://www.rotoballer.com/mlb/player/682998/Corbin+Carroll) ARI
+16
+9
+![](https://upload.wikimedia.org/wikipedia/en/6/6d/Seattle_Mariners_logo_%28low_res%29.svg)
+[Julio Rodríguez](https://www.rotoballer.com/mlb/player/677594/Julio+Rodr%C3%ADguez) SEA
+20
+10
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
+[Jackson Merrill](https://www.rotoballer.com/mlb/player/701538/Jackson+Merrill) SD
+27
+[View All Players](https://www.rotoballer.com/fantasy-baseball-rankings/440514)
+######  RANKINGS  Roto Points Dynasty
+C
+1B
+2B
+3B
+SS
+OF
+SP
+RP
+1
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg)
+[Pete Crow-Armstrong](https://www.rotoballer.com/mlb/player/691718/Pete+Crow-Armstrong) CHC
+1
+2
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
+[Fernando Tatis Jr.](https://www.rotoballer.com/mlb/player/665487/Fernando+Tatis%20Jr.) SD
+6
+3
+![](https://upload.wikimedia.org/wikipedia/en/7/7b/New_York_Mets.svg)
+[Juan Soto](https://www.rotoballer.com/mlb/player/665742/Juan+Soto) NYM
+8
+4
+![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg)
+[Aaron Judge](https://www.rotoballer.com/mlb/player/592450/Aaron+Judge) NYY
+9
+5
+![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg)
+[Jackson Chourio](https://www.rotoballer.com/mlb/player/694192/Jackson+Chourio) MIL
+12
+6
+![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Washington_Nationals_logo.svg)
+[James Wood](https://www.rotoballer.com/mlb/player/695578/James+Wood) WSH
+13
+7
+![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg)
+[Ronald Acuña Jr.](https://www.rotoballer.com/mlb/player/660670/Ronald+Acu%C3%B1a%20Jr.) ATL
+15
+8
+![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg)
+[Corbin Carroll](https://www.rotoballer.com/mlb/player/682998/Corbin+Carroll) ARI
+16
+9
+![](https://upload.wikimedia.org/wikipedia/en/6/6d/Seattle_Mariners_logo_%28low_res%29.svg)
+[Julio Rodríguez](https://www.rotoballer.com/mlb/player/677594/Julio+Rodr%C3%ADguez) SEA
+20
+10
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
+[Jackson Merrill](https://www.rotoballer.com/mlb/player/701538/Jackson+Merrill) SD
+27
+[View All Players](https://www.rotoballer.com/fantasy-baseball-rankings/440514)
+#### [REAL-TIME FANTASY NEWS](https://www.rotoballer.com/player-news)
+  * [NFL](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+  * [MLB](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+  * [NBA](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+  * [PGA](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+  * [NHL](https://www.rotoballer.com/nfl-survivor-pool-picks-week-10-targets-and-avoids-2026/1988270)
+
+
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston6 min ago   
+Active for Browns](https://www.rotoballer.com/player-news/denzel-boston-active-for-browns/1994447)
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Baker Mayfield36 min ago   
+Lower-Leg Injury Clouds Baker Mayfield's Week 11 Status](https://www.rotoballer.com/player-news/baker-mayfield-lower-leg-injury-status-unclear-vs-lions/1994432)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker50 min ago   
+Chiefs "Believe" Kenneth Walker Will Return in Week 11](https://www.rotoballer.com/player-news/chiefs-believe-kenneth-walker-will-return-in-week-11/1994419)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye1 h ago   
+Won't Return in Week 10 Against Detroit](https://www.rotoballer.com/player-news/drake-maye-ankle-ruled-out/1994383)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Patrick Williams1 h ago   
+Back in Rotation and Contributing](https://www.rotoballer.com/player-news/patrick-williams-back-in-rotation-and-contributing/1994380)
+[![](https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg) Kingston Flemings1 h ago   
+Out vs. Bucks on Sunday Night](https://www.rotoballer.com/player-news/kingston-flemings-lumbar-strain-out-vs-bucks-tonight/1994376)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Fernando Mendoza1 h ago   
+Raiders Planned to Start Fernando Mendoza Before Trade](https://www.rotoballer.com/player-news/raiders-planned-to-start-fernando-mendoza-within-weeks-before-trading-cousins/1994266)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye1 h ago   
+Limps to Locker Room, Questionable to Return with Ankle Injury](https://www.rotoballer.com/player-news/drake-maye-headed-to-locker-room/1994359)
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson1 h ago   
+Questionable to Return After Non-Contact Knee Injury](https://www.rotoballer.com/player-news/aidan-hutchinson-injured-celebrating-sack/1994352)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Devon Levi1 h ago   
+Records First Career Shutout Against Maple Leafs](https://www.rotoballer.com/player-news/devon-levi-records-first-career-shutout-against-maple-leafs/1994362)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Simon Holmstrom1 h ago   
+Nets First Career Hat Trick Saturday Night](https://www.rotoballer.com/player-news/simon-holmstrom-nets-first-career-hat-trick-saturday-night/1994356)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mark Scheifele2 h ago   
+Becomes Jets' All-Time Leading Scorer](https://www.rotoballer.com/player-news/mark-scheifele-becomes-jets-all-time-leading-scorer/1994350)
+[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Gardner Minshew II2 h ago   
+to Undergo Season-Ending Elbow Surgery](https://www.rotoballer.com/player-news/gardner-minshew-ucl-to-undergo-season-ending-surgery/1994263)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Bertuzzi2 h ago   
+Hurt Versus Jets After Scoring](https://www.rotoballer.com/player-news/tyler-bertuzzi-hurt-versus-jets-after-scoring/1994346)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg2 h ago   
+Makes Precautionary Exit Versus Panthers](https://www.rotoballer.com/player-news/philip-broberg-makes-precautionary-exit-versus-panthers/1994332)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kirk Cousins2 h ago   
+Vikings Have Discussed Keeping Kirk Cousins Beyond This Season](https://www.rotoballer.com/player-news/vikings-discussed-keeping-kirk-cousins-beyond-2026/1994242)
+[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) Daniel Gafford2 h ago   
+Exits Saturday with Stinger](https://www.rotoballer.com/player-news/daniel-gafford-exits-saturday-with-stinger/1994329)
+[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tyjae Spears2 h ago   
+Expected to Play vs. Jaguars in Week 10](https://www.rotoballer.com/player-news/tyjae-spears-knee-expected-to-play-vs-jaguars/1994226)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Stanley2 h ago   
+Sustains Lower-Body Injury Saturday](https://www.rotoballer.com/player-news/logan-stanley-sustains-lower-body-injury-saturday/1994326)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison2 h ago   
+a Game-Time Decision for Week 10](https://www.rotoballer.com/player-news/jordan-addison-thumb-will-be-a-game-time-decision-sunday/1994237)
+[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Joel Embiid2 h ago   
+Ruled Out Sunday Against Indiana](https://www.rotoballer.com/player-news/joel-embiid-ruled-out-sunday-against-indiana/1994323)
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston2 h ago   
+Expected to Play vs. Houston in Week 10](https://www.rotoballer.com/player-news/denzel-boston-toe-expected-to-play-vs-houston/1994231)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Bo Horvat2 h ago   
+Exits Early Versus Ducks](https://www.rotoballer.com/player-news/bo-horvat-exits-early-versus-ducks/1994320)
+[![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Ajay Mitchell2 h ago   
+Carries Questionable Tag for Sunday](https://www.rotoballer.com/player-news/ajay-mitchell-carries-questionable-tag-for-sunday/1994315)
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Andrew Nembhard2 h ago   
+Listed as Questionable Against the 76ers](https://www.rotoballer.com/player-news/andrew-nembhard-listed-as-questionable-against-the-76ers/1994298)
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa3 h ago   
+Iffy for Sunday](https://www.rotoballer.com/player-news/precious-achiuwa-iffy-for-sunday/1994294)
+[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson3 h ago   
+Clears Concussion Protocol, Will Play on Sunday](https://www.rotoballer.com/player-news/garrett-wilson-cleared-concussion-protocol-will-play-on-sunday/1994229)
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Keegan Murray3 h ago   
+Questionable Against Thunder](https://www.rotoballer.com/player-news/keegan-murray-misses-saturdays-practice-due-to-illness/1993983)
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Amon-Ra St. Brown3 h ago   
+Officially Active for Week 10 Against the Patriots](https://www.rotoballer.com/player-news/amon-ra-st-brown-ribs-questionable-expected-to-play-vs-new-england/1994235)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown3 h ago   
+Officially Active to Face the Lions in Germany](https://www.rotoballer.com/player-news/a-j-brown-rhamondre-stevenson-expected-to-play-in-munich/1994218)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson3 h ago   
+Active for Week 10 Against the Lions](https://www.rotoballer.com/player-news/rhamondre-stevenson-active-for-week-10-against-the-lions/1994279)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kyler Murray12 h ago   
+Vikings Targeting Week 12 for Kyler Murray's Return](https://www.rotoballer.com/player-news/vikings-targeting-week-12-for-kyler-murrays-return/1994197)
+[![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) Alexandre Sarr13 h ago   
+Listed as Questionable for Sunday](https://www.rotoballer.com/player-news/alex-sarr-questionable-for-sundays-game-vs-houston-with-an-illness/1993986)
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Duncan Robinson14 h ago   
+Questionable to Return Saturday vs. Heat](https://www.rotoballer.com/player-news/duncan-robinson-left-thigh-questionable-to-return-saturday-vs-heat/1994170)
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Tobias Harris14 h ago   
+Making Progress Toward Return](https://www.rotoballer.com/player-news/tobias-harris-making-progress-toward-return/1993970)
+[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Brandon Miller14 h ago   
+Off the Injury Report for Sunday](https://www.rotoballer.com/player-news/brandon-miller-off-the-injury-report-for-sunday/1994158)
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaylen Clark14 h ago   
+Exits with Hamstring Injury](https://www.rotoballer.com/player-news/jaylen-clark-right-hamstring-out-for-the-rest-of-saturdays-game-vs-bulls/1994135)
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson14 h ago   
+II Exits with Left-Foot Injury](https://www.rotoballer.com/player-news/gg-jackson-ii-left-foot-out-for-the-rest-of-saturdays-game-vs-nets/1994126)
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes14 h ago   
+Won't Face San Antonio on Sunday](https://www.rotoballer.com/player-news/jaxson-hayes-left-knee-out-sunday-vs-spurs/1994082)
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves15 h ago   
+Ruled Out Sunday Against Suns](https://www.rotoballer.com/player-news/austin-reaves-heel-and-cameron-carr-illness-ruled-out-sunday-vs-suns/1994085)
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Klay Thompson15 h ago   
+Upgraded to Available for Saturday](https://www.rotoballer.com/player-news/klay-thompson-upgraded-to-available-for-saturday/1994114)
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo15 h ago   
+Good to Go Saturday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-right-wrist-and-klay-thompson-left-ankle-available-vs-pistons-on/1994043)
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey15 h ago   
+Downgraded to Out for Saturday](https://www.rotoballer.com/player-news/zach-edey-ankle-out-saturday-vs-brooklyn/1994095)
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Ty Jerome15 h ago   
+Sidelined Against the Nets](https://www.rotoballer.com/player-news/ty-jerome-sidelined-against-the-nets/1994104)
+[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré16 h ago   
+Nolan Traore Available Saturday Against Grizzlies](https://www.rotoballer.com/player-news/nolan-traore-calf-available-saturday-for-nets-vs-grizzlies/1994053)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Conor Garland17 h ago   
+Out Week-to-Week With Upper-Body Injury](https://www.rotoballer.com/player-news/conor-garland-out-week-to-week-with-upper-body-injury/1994073)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Cirelli17 h ago   
+Misses Second Straight Game](https://www.rotoballer.com/player-news/anthony-cirelli-misses-second-straight-game/1994066)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mathew Barzal17 h ago   
+Set for Season Debut Saturday](https://www.rotoballer.com/player-news/mathew-barzal-set-for-season-debut-saturday/1994061)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Artemi Panarin17 h ago   
+Unavailable Against Flames](https://www.rotoballer.com/player-news/artemi-panarin-unavailable-against-flames/1994057)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Chris Kreider17 h ago   
+Ruled Out for 6-8 Weeks](https://www.rotoballer.com/player-news/chris-kreider-ruled-out-for-6-8-weeks/1994048)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar17 h ago   
+Unavailable for Two Weeks](https://www.rotoballer.com/player-news/cale-makar-unavailable-for-two-weeks/1994041)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nathan MacKinnon17 h ago   
+to Miss One Month](https://www.rotoballer.com/player-news/nathan-mackinnon-to-miss-one-month/1994039)
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Ladd McConkey18 h ago   
+Questionable for Monday Night Against Baltimore](https://www.rotoballer.com/player-news/ladd-mcconkey-and-david-njoku-questionable-for-week-10-at-baltimore-monday-night/1993961)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson19 h ago   
+Lands on Injured Reserve](https://www.rotoballer.com/player-news/treveyon-henderson-placed-on-injured-reserve/1993928)
+[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks21 h ago   
+Downgraded to Out vs. Saints](https://www.rotoballer.com/player-news/jonathon-brooks-downgraded-to-out-vs-saints/1993861)
+[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery22 h ago   
+Ruled Out vs. Cleveland](https://www.rotoballer.com/player-news/david-montgomery-groin-ruled-out-vs-cleveland/1993814)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) J.T. Miller1 d ago   
+Records Two Assists Against Canucks](https://www.rotoballer.com/player-news/j-t-miller-records-two-assists-against-canucks/1993543)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mitch Marner1 d ago   
+Extends Home Point Streak to 10 Games](https://www.rotoballer.com/player-news/mitch-marner-extends-home-point-streak-to-10-games/1993529)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Roman Josi1 d ago   
+Adds Another Assist to His Tally](https://www.rotoballer.com/player-news/roman-josi-adds-another-assist-to-his-tally/1993519)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan O'Reilly1 d ago   
+Scores Twice in Friday's Victory](https://www.rotoballer.com/player-news/ryan-oreilly-scores-twice-in-fridays-victory/1993511)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Johnathan Kovacevic1 d ago   
+Moved to Injured Reserve](https://www.rotoballer.com/player-news/johnathan-kovacevic-moved-to-injured-reserve/1993498)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Isak Rosen1 d ago   
+Out Saturday](https://www.rotoballer.com/player-news/isak-rosen-out-saturday/1993482)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Cooley1 d ago   
+Ruled Out for Saturday](https://www.rotoballer.com/player-news/logan-cooley-ruled-out-for-saturday/1993473)
+[![](https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg) Jake Bauers1 d ago   
+Red Sox Agree on Four-Year Contract](https://www.rotoballer.com/player-news/jake-bauers-red-sox-agree-on-four-year-contract/1992541)
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge2 d ago   
+Yankees May Give Aaron Judge More DH Days](https://www.rotoballer.com/player-news/yankees-may-give-aaron-judge-more-dh-days/1992382)
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg) Will Venable2 d ago   
+Named AL Manager of the Year](https://www.rotoballer.com/player-news/will-venable-named-al-manager-of-the-year/1992308)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Milwaukee Brewers2 d ago   
+Pat Murphy Wins Manager of the Year for Third Straight Season](https://www.rotoballer.com/player-news/pat-murphy-wins-manager-of-the-year-for-third-straight-season/1992296)
+[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Pete Crow-Armstrong2 d ago   
+Named NL Most Valuable Player](https://www.rotoballer.com/player-news/pete-crow-armstrong-named-nl-most-valuable-player/1992279)
+[![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg) Yordan Alvarez2 d ago   
+Named AL Most Valuable Player](https://www.rotoballer.com/player-news/yordan-alvarez-named-al-most-valuable-player/1992272)
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Evan Phillips2 d ago   
+Braves Agree on Three-Year Deal](https://www.rotoballer.com/player-news/evan-phillips-braves-agree-on-three-year-deal/1991645)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
+Mets Scheduled to Meet With Tarik Skubal Next Week](https://www.rotoballer.com/player-news/mets-scheduled-to-meet-with-tarik-skubal-next-week/1991520)
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Spencer Schwellenbach3 d ago   
+Unlikely to be Ready for Start of 2027 Season](https://www.rotoballer.com/player-news/spencer-schwellenbach-unlikely-to-be-ready-for-start-of-2027-season/1991088)
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge3 d ago   
+in a "Good Place" After Follow-Up Visit](https://www.rotoballer.com/player-news/aaron-judge-in-a-good-place-after-follow-up-visit/1991060)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Emilio Pagán3 d ago   
+Tigers Sign Emilio Pagan to One-Year Deal](https://www.rotoballer.com/player-news/tigers-sign-emilio-pagan-to-one-year-deal/1991032)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Jacob Misiorowski3 d ago   
+Wins NL Cy Young Award](https://www.rotoballer.com/player-news/jacob-misiorowski-wins-nl-cy-young-award/1991028)
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Cam Schlittler3 d ago   
+Wins AL Cy Young Award](https://www.rotoballer.com/player-news/cam-schlittler-wins-al-cy-young-award/1991022)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Brian Harman3 d ago   
+to Continue Solid Form at Austin Championship](https://www.rotoballer.com/player-news/brian-harman-to-continue-solid-form-at-austin-championship/1990766)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Max Homa3 d ago   
+Still Searching for Consistent Iron Play in Year's Penultimate Event](https://www.rotoballer.com/player-news/max-homa-still-searching-for-consistent-iron-play-in-years-penultimate-event/1990520)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA4 d ago   
+Haotong Li Could Be a Boom-or-Bust Option at Austin Championship](https://www.rotoballer.com/player-news/haotong-li-could-be-a-boom-or-bust-option-at-austin-championship/1990433)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles4 d ago   
+Looks to Stay Hot at Austin Championship](https://www.rotoballer.com/player-news/ben-kohles-looks-to-stay-hot-at-austin-championship/1990422)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger4 d ago   
+Looking to Keep Strong Fall Run Going](https://www.rotoballer.com/player-news/stephan-jaeger-looking-to-keep-strong-fall-run-going/1990398)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey4 d ago   
+Looking to Put Together Another Strong Week in Austin](https://www.rotoballer.com/player-news/rico-hoey-looking-to-put-together-another-strong-week-at-austin-championship/1990379)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody4 d ago   
+Looking to Carry Momentum Into Austin Championship](https://www.rotoballer.com/player-news/pierceson-coody-looking-to-carry-momentum-into-austin-championship/1990367)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout4 d ago   
+Looking to Rebound at Austin Championship](https://www.rotoballer.com/player-news/christiaan-bezuidenhout-looking-to-rebound-at-austin-championship/1990354)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Riley Greene4 d ago   
+Mentioned as a Trade Candidate](https://www.rotoballer.com/player-news/riley-greene-mentioned-as-a-trade-candidate/1990077)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Emiliano Grillo4 d ago   
+Needs A Strong Performance at Austin Championship](https://www.rotoballer.com/player-news/emiliano-grillo-needs-a-strong-performance-at-austin-championship/1990067)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Andrew Novak4 d ago   
+Secures First Win of 2026 Season](https://www.rotoballer.com/player-news/andrew-novak-secures-first-win-of-2026-season/1990062)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Michael Kim4 d ago   
+Continues to Play Well Through Fall Swing](https://www.rotoballer.com/player-news/michael-kim-continues-play-well-through-fall-swing/1990060)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Billy Horschel4 d ago   
+Sits Just Inside Top 100 in FedEx Cup Standings](https://www.rotoballer.com/player-news/billy-horschel-sits-just-inside-top-100-in-fedex-cup-standings/1990057)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Harry Hall4 d ago   
+Rattles Off Third Straight Top-25 Finish](https://www.rotoballer.com/player-news/harry-hall-rattles-off-third-straight-top-25-finish/1990051)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Luke Clanton4 d ago   
+Having Solid Fall Season Heading to Austin Championship](https://www.rotoballer.com/player-news/luke-clanton-having-solid-fall-season-heading-to-austin-championship/1990049)
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Max Fried4 d ago   
+has Bone Spur Removed, Should be Ready for Spring Training](https://www.rotoballer.com/player-news/max-fried-has-bone-spur-removed-should-be-ready-for-spring-training/1990004)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Sal Stewart4 d ago   
+Named NL Rookie of the Year](https://www.rotoballer.com/player-news/sal-stewart-named-nl-rookie-of-the-year/1989997)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Kevin McGonigle4 d ago   
+Named AL Rookie of the Year](https://www.rotoballer.com/player-news/kevin-mcgonigle-named-al-rookie-of-the-year/1989995)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Jackson Koivun4 d ago   
+Looks to Get Back Into Contention Mix in Austin](https://www.rotoballer.com/player-news/jackson-koivun-looks-to-get-back-into-contention-mix-at-austin-championship/1989589)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Joe Highsmith4 d ago   
+Continues to Backslide into Irrelevancy](https://www.rotoballer.com/player-news/joe-highsmith-continues-to-backslide-into-irrelevancy-as-the-fall-series-winds-down/1989559)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Blades Brown4 d ago   
+Keeping The Ball Rolling This Week in Austin](https://www.rotoballer.com/player-news/blades-brown-keeping-the-ball-rolling-this-week-in-austin-following-historic-win/1989535)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Matt McCarty5 d ago   
+Comes to Austin After a Month Off](https://www.rotoballer.com/player-news/matt-mccarty-comes-to-austin-after-a-month-off/1989043)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Chris Kirk5 d ago   
+Riding a Fall Wave of Momentum Heading to Texas](https://www.rotoballer.com/player-news/chris-kirk-riding-a-fall-wave-of-momentum-heading-to-texas/1989035)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Mackenzie Hughes5 d ago   
+an All-or-Nothing Possibility at Austin Championship](https://www.rotoballer.com/player-news/mackenzie-hughes-all-or-nothing-possibility-at-austin-championship/1989021)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Tom Hoge5 d ago   
+Heads to Austin Championship After Another Missed Cut](https://www.rotoballer.com/player-news/tom-hoge-heads-to-austin-championship-after-another-missed-cut/1989012)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal5 d ago   
+Mets Could be the Current Favorites to Land Tarik Skubal](https://www.rotoballer.com/player-news/mets-could-be-the-current-favorites-to-land-tarik-skubal/1988793)
+[Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
+[View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
+#### [MORE RECENT ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
+[ Key Starters & Tough Calls: Week 10 ](https://www.rotoballer.com/key-fantasy-football-starts-and-sits-for-week-10-2026/1994000)
+[ Week 10 Fantasy Football Rankings ](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
+[ Updated Waiver Wire Rankings for Week 10 ](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-10-2026/1993343)
+[ Week 10 Matchups: Start 'Em, Sit 'Em ](https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-10-2026/1991153)
+##### friends of rotoballer
+[![](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule) ![](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png) ![](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png) [![](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize) ![](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png) ![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
+  * [CONTACT US](https://www.rotoballer.com/contact-us)
+  * [ADVERTISE](https://www.rotoballer.com/partners)
+  * [TESTIMONIALS](https://www.rotoballer.com/testimonials)
+  * [NEWSLETTER](http://eepurl.com/gfwXen "FREE EMAIL NEWSLETTER")
+  * [SHIRTS & HATS](https://customtshirtsny.com/rotoballer/shop/home "ROTOBALLER CLOTHING STORE")
+  * [RB CHALLENGE](https://www.rotoballer.com/rotoballer-challenge-homepage "ROTOBALLER CHALLENGE LEAGUES HOMEPAGE")
+  * [ABOUT US](https://www.rotoballer.com/rotoballer-about-us)
+  * [AUTHORS](https://www.rotoballer.com/rotoballer-authors)
+  * [PRIVACY POLICY](https://www.rotoballer.com/privacy-policy)
+  * [TERMS OF USE](https://www.rotoballer.com/terms-of-use)
+
+
+[ ![](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png) ](https://twitter.com/rotoballer) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png) ](https://www.reddit.com/user/RotoBaller) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png) ](https://www.facebook.com/rotoballin)
+We Are Your Secret Weapon | Copyright © 2011 - 2026 | Win Big with RotoBaller
+![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fnfl-survivor-pool-picks-week-10-targets-and-avoids-2026%2F1988270&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 Information from your device can be used to personalize your ad experience.   
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
@@ -2214,143 +3220,143 @@ Like what you see? Download our updated fantasy football app for [iPhone](https:
   * [NHL](https://www.rotoballer.com/week-10-nfl-td-props-best-anytime-touchdown-scorer-bets-2026/1993531)
 
 
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Bertuzzijust now   
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston7 min ago   
+Active for Browns](https://www.rotoballer.com/player-news/denzel-boston-active-for-browns/1994447)
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Baker Mayfield36 min ago   
+Lower-Leg Injury Clouds Baker Mayfield's Week 11 Status](https://www.rotoballer.com/player-news/baker-mayfield-lower-leg-injury-status-unclear-vs-lions/1994432)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker50 min ago   
+Chiefs "Believe" Kenneth Walker Will Return in Week 11](https://www.rotoballer.com/player-news/chiefs-believe-kenneth-walker-will-return-in-week-11/1994419)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye1 h ago   
+Won't Return in Week 10 Against Detroit](https://www.rotoballer.com/player-news/drake-maye-ankle-ruled-out/1994383)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Patrick Williams1 h ago   
+Back in Rotation and Contributing](https://www.rotoballer.com/player-news/patrick-williams-back-in-rotation-and-contributing/1994380)
+[![](https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg) Kingston Flemings1 h ago   
+Out vs. Bucks on Sunday Night](https://www.rotoballer.com/player-news/kingston-flemings-lumbar-strain-out-vs-bucks-tonight/1994376)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Fernando Mendoza1 h ago   
+Raiders Planned to Start Fernando Mendoza Before Trade](https://www.rotoballer.com/player-news/raiders-planned-to-start-fernando-mendoza-within-weeks-before-trading-cousins/1994266)
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye1 h ago   
+Limps to Locker Room, Questionable to Return with Ankle Injury](https://www.rotoballer.com/player-news/drake-maye-headed-to-locker-room/1994359)
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson1 h ago   
+Questionable to Return After Non-Contact Knee Injury](https://www.rotoballer.com/player-news/aidan-hutchinson-injured-celebrating-sack/1994352)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Devon Levi1 h ago   
+Records First Career Shutout Against Maple Leafs](https://www.rotoballer.com/player-news/devon-levi-records-first-career-shutout-against-maple-leafs/1994362)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Simon Holmstrom1 h ago   
+Nets First Career Hat Trick Saturday Night](https://www.rotoballer.com/player-news/simon-holmstrom-nets-first-career-hat-trick-saturday-night/1994356)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mark Scheifele2 h ago   
+Becomes Jets' All-Time Leading Scorer](https://www.rotoballer.com/player-news/mark-scheifele-becomes-jets-all-time-leading-scorer/1994350)
+[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Gardner Minshew II2 h ago   
+to Undergo Season-Ending Elbow Surgery](https://www.rotoballer.com/player-news/gardner-minshew-ucl-to-undergo-season-ending-surgery/1994263)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Bertuzzi2 h ago   
 Hurt Versus Jets After Scoring](https://www.rotoballer.com/player-news/tyler-bertuzzi-hurt-versus-jets-after-scoring/1994346)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg12 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg2 h ago   
 Makes Precautionary Exit Versus Panthers](https://www.rotoballer.com/player-news/philip-broberg-makes-precautionary-exit-versus-panthers/1994332)
-[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) Daniel Gafford15 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kirk Cousins2 h ago   
+Vikings Have Discussed Keeping Kirk Cousins Beyond This Season](https://www.rotoballer.com/player-news/vikings-discussed-keeping-kirk-cousins-beyond-2026/1994242)
+[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) Daniel Gafford2 h ago   
 Exits Saturday with Stinger](https://www.rotoballer.com/player-news/daniel-gafford-exits-saturday-with-stinger/1994329)
-[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tyjae Spears19 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tyjae Spears2 h ago   
 Expected to Play vs. Jaguars in Week 10](https://www.rotoballer.com/player-news/tyjae-spears-knee-expected-to-play-vs-jaguars/1994226)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Stanley20 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Stanley2 h ago   
 Sustains Lower-Body Injury Saturday](https://www.rotoballer.com/player-news/logan-stanley-sustains-lower-body-injury-saturday/1994326)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison23 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison2 h ago   
 a Game-Time Decision for Week 10](https://www.rotoballer.com/player-news/jordan-addison-thumb-will-be-a-game-time-decision-sunday/1994237)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Joel Embiid26 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Joel Embiid2 h ago   
 Ruled Out Sunday Against Indiana](https://www.rotoballer.com/player-news/joel-embiid-ruled-out-sunday-against-indiana/1994323)
-[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston27 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston2 h ago   
 Expected to Play vs. Houston in Week 10](https://www.rotoballer.com/player-news/denzel-boston-toe-expected-to-play-vs-houston/1994231)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Bo Horvat28 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Bo Horvat2 h ago   
 Exits Early Versus Ducks](https://www.rotoballer.com/player-news/bo-horvat-exits-early-versus-ducks/1994320)
-[![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Ajay Mitchell33 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Ajay Mitchell2 h ago   
 Carries Questionable Tag for Sunday](https://www.rotoballer.com/player-news/ajay-mitchell-carries-questionable-tag-for-sunday/1994315)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Andrew Nembhard42 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Andrew Nembhard2 h ago   
 Listed as Questionable Against the 76ers](https://www.rotoballer.com/player-news/andrew-nembhard-listed-as-questionable-against-the-76ers/1994298)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa49 min ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa3 h ago   
 Iffy for Sunday](https://www.rotoballer.com/player-news/precious-achiuwa-iffy-for-sunday/1994294)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson58 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson3 h ago   
 Clears Concussion Protocol, Will Play on Sunday](https://www.rotoballer.com/player-news/garrett-wilson-cleared-concussion-protocol-will-play-on-sunday/1994229)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Keegan Murray1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Keegan Murray3 h ago   
 Questionable Against Thunder](https://www.rotoballer.com/player-news/keegan-murray-misses-saturdays-practice-due-to-illness/1993983)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Amon-Ra St. Brown1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Amon-Ra St. Brown3 h ago   
 Officially Active for Week 10 Against the Patriots](https://www.rotoballer.com/player-news/amon-ra-st-brown-ribs-questionable-expected-to-play-vs-new-england/1994235)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown3 h ago   
 Officially Active to Face the Lions in Germany](https://www.rotoballer.com/player-news/a-j-brown-rhamondre-stevenson-expected-to-play-in-munich/1994218)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson3 h ago   
 Active for Week 10 Against the Lions](https://www.rotoballer.com/player-news/rhamondre-stevenson-active-for-week-10-against-the-lions/1994279)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kyler Murray10 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kyler Murray12 h ago   
 Vikings Targeting Week 12 for Kyler Murray's Return](https://www.rotoballer.com/player-news/vikings-targeting-week-12-for-kyler-murrays-return/1994197)
-[![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) Alexandre Sarr11 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) Alexandre Sarr13 h ago   
 Listed as Questionable for Sunday](https://www.rotoballer.com/player-news/alex-sarr-questionable-for-sundays-game-vs-houston-with-an-illness/1993986)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Duncan Robinson11 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Duncan Robinson14 h ago   
 Questionable to Return Saturday vs. Heat](https://www.rotoballer.com/player-news/duncan-robinson-left-thigh-questionable-to-return-saturday-vs-heat/1994170)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Tobias Harris11 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Tobias Harris14 h ago   
 Making Progress Toward Return](https://www.rotoballer.com/player-news/tobias-harris-making-progress-toward-return/1993970)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Brandon Miller12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Brandon Miller14 h ago   
 Off the Injury Report for Sunday](https://www.rotoballer.com/player-news/brandon-miller-off-the-injury-report-for-sunday/1994158)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaylen Clark12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaylen Clark14 h ago   
 Exits with Hamstring Injury](https://www.rotoballer.com/player-news/jaylen-clark-right-hamstring-out-for-the-rest-of-saturdays-game-vs-bulls/1994135)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson14 h ago   
 II Exits with Left-Foot Injury](https://www.rotoballer.com/player-news/gg-jackson-ii-left-foot-out-for-the-rest-of-saturdays-game-vs-nets/1994126)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes14 h ago   
 Won't Face San Antonio on Sunday](https://www.rotoballer.com/player-news/jaxson-hayes-left-knee-out-sunday-vs-spurs/1994082)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves12 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves15 h ago   
 Ruled Out Sunday Against Suns](https://www.rotoballer.com/player-news/austin-reaves-heel-and-cameron-carr-illness-ruled-out-sunday-vs-suns/1994085)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Klay Thompson13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Klay Thompson15 h ago   
 Upgraded to Available for Saturday](https://www.rotoballer.com/player-news/klay-thompson-upgraded-to-available-for-saturday/1994114)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo15 h ago   
 Good to Go Saturday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-right-wrist-and-klay-thompson-left-ankle-available-vs-pistons-on/1994043)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey15 h ago   
 Downgraded to Out for Saturday](https://www.rotoballer.com/player-news/zach-edey-ankle-out-saturday-vs-brooklyn/1994095)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Ty Jerome13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Ty Jerome15 h ago   
 Sidelined Against the Nets](https://www.rotoballer.com/player-news/ty-jerome-sidelined-against-the-nets/1994104)
-[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré16 h ago   
 Nolan Traore Available Saturday Against Grizzlies](https://www.rotoballer.com/player-news/nolan-traore-calf-available-saturday-for-nets-vs-grizzlies/1994053)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Peyton Watson13 h ago   
-Sidelined Saturday Versus Mavericks](https://www.rotoballer.com/player-news/peyton-watson-sidelined-saturday-versus-mavericks/1994098)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Donovan Mitchell14 h ago   
-Out Saturday Against Dallas](https://www.rotoballer.com/player-news/donovan-mitchell-out-saturday-against-dallas/1994093)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Conor Garland14 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Conor Garland17 h ago   
 Out Week-to-Week With Upper-Body Injury](https://www.rotoballer.com/player-news/conor-garland-out-week-to-week-with-upper-body-injury/1994073)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Cirelli14 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Cirelli17 h ago   
 Misses Second Straight Game](https://www.rotoballer.com/player-news/anthony-cirelli-misses-second-straight-game/1994066)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mathew Barzal15 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mathew Barzal17 h ago   
 Set for Season Debut Saturday](https://www.rotoballer.com/player-news/mathew-barzal-set-for-season-debut-saturday/1994061)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Artemi Panarin15 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Artemi Panarin17 h ago   
 Unavailable Against Flames](https://www.rotoballer.com/player-news/artemi-panarin-unavailable-against-flames/1994057)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Chris Kreider15 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Chris Kreider17 h ago   
 Ruled Out for 6-8 Weeks](https://www.rotoballer.com/player-news/chris-kreider-ruled-out-for-6-8-weeks/1994048)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar15 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar17 h ago   
 Unavailable for Two Weeks](https://www.rotoballer.com/player-news/cale-makar-unavailable-for-two-weeks/1994041)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nathan MacKinnon15 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nathan MacKinnon17 h ago   
 to Miss One Month](https://www.rotoballer.com/player-news/nathan-mackinnon-to-miss-one-month/1994039)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Ladd McConkey16 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Ladd McConkey18 h ago   
 Questionable for Monday Night Against Baltimore](https://www.rotoballer.com/player-news/ladd-mcconkey-and-david-njoku-questionable-for-week-10-at-baltimore-monday-night/1993961)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson17 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson19 h ago   
 Lands on Injured Reserve](https://www.rotoballer.com/player-news/treveyon-henderson-placed-on-injured-reserve/1993928)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks21 h ago   
 Downgraded to Out vs. Saints](https://www.rotoballer.com/player-news/jonathon-brooks-downgraded-to-out-vs-saints/1993861)
-[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery22 h ago   
 Ruled Out vs. Cleveland](https://www.rotoballer.com/player-news/david-montgomery-groin-ruled-out-vs-cleveland/1993814)
-[![](https://upload.wikimedia.org/wikipedia/commons/d/de/Pittsburgh_Steelers_logo.svg) Pat Freiermuth20 h ago   
-Questionable vs. Cincinnati With Illness](https://www.rotoballer.com/player-news/pat-freiermuth-illness-questionable-vs-cincinnati/1993789)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker21 h ago   
-Ruled Out for Week 10 vs. Falcons](https://www.rotoballer.com/player-news/kenneth-walker-groin-out-vs-falcons/1993709)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/New_Orleans_Saints_logo.svg) Travis Etienne Jr.22 h ago   
-Activated From Injured Reserve, Expected to Play Sunday](https://www.rotoballer.com/player-news/travis-etienne-jr-activated-from-injured-reserve-in-line-to-play-sunday-vs-panthers/1993650)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker22 h ago   
-"Not a Ton of Optimism" for Kenneth Walker's Availability for Sunday](https://www.rotoballer.com/player-news/not-a-ton-of-optimism-for-kenneth-walker-iiis-availability-for-sunday/1993638)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson22 h ago   
-"Pushing to Try to Play" Versus Lions](https://www.rotoballer.com/player-news/rhamondre-stevenson-pushing-to-try-to-play-versus-lions/1993612)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown23 h ago   
-"Has a Chance" to Play Sunday vs. Lions in Germany](https://www.rotoballer.com/player-news/a-j-brown-has-a-chance-to-play-sunday/1993560)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) J.T. Miller23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) J.T. Miller1 d ago   
 Records Two Assists Against Canucks](https://www.rotoballer.com/player-news/j-t-miller-records-two-assists-against-canucks/1993543)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kaelon Black23 h ago   
-Remains a Top Waiver-Wire Stash Ahead of Week 10](https://www.rotoballer.com/player-news/kaelon-black-remains-a-top-waiver-wire-stash-ahead-of-week-10/1993540)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mitch Marner23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mitch Marner1 d ago   
 Extends Home Point Streak to 10 Games](https://www.rotoballer.com/player-news/mitch-marner-extends-home-point-streak-to-10-games/1993529)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Emmett Johnson23 h ago   
-a Priority Late-Week Waiver-Wire Add](https://www.rotoballer.com/player-news/emmett-johnson-a-priority-late-week-waiver-wire-add/1993523)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Roman Josi23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Roman Josi1 d ago   
 Adds Another Assist to His Tally](https://www.rotoballer.com/player-news/roman-josi-adds-another-assist-to-his-tally/1993519)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan O'Reilly23 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan O'Reilly1 d ago   
 Scores Twice in Friday's Victory](https://www.rotoballer.com/player-news/ryan-oreilly-scores-twice-in-fridays-victory/1993511)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs1 d ago   
-has Successful Surgery, Expected Back in the "Next Few Weeks"](https://www.rotoballer.com/player-news/josh-jacobs-finger-had-successful-surgery-expected-back-in-the-next-few-weeks/1993490)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Johnathan Kovacevic1 d ago   
 Moved to Injured Reserve](https://www.rotoballer.com/player-news/johnathan-kovacevic-moved-to-injured-reserve/1993498)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Isak Rosen1 d ago   
 Out Saturday](https://www.rotoballer.com/player-news/isak-rosen-out-saturday/1993482)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Cooley1 d ago   
 Ruled Out for Saturday](https://www.rotoballer.com/player-news/logan-cooley-ruled-out-for-saturday/1993473)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Alexander Wennberg1 d ago   
-a Game-Time Decision Saturday](https://www.rotoballer.com/player-news/alexander-wennberg-a-game-time-decision-saturday/1992978)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Miro Heiskanen1 d ago   
-Still Out Saturday](https://www.rotoballer.com/player-news/miro-heiskanen-still-out-saturday/1992951)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Lindgren1 d ago   
-a Game-Time Call Saturday](https://www.rotoballer.com/player-news/ryan-lindgren-a-game-time-call-saturday/1992934)
 [![](https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg) Jake Bauers1 d ago   
 Red Sox Agree on Four-Year Contract](https://www.rotoballer.com/player-news/jake-bauers-red-sox-agree-on-four-year-contract/1992541)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge2 d ago   
 Yankees May Give Aaron Judge More DH Days](https://www.rotoballer.com/player-news/yankees-may-give-aaron-judge-more-dh-days/1992382)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg) Will Venable1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg) Will Venable2 d ago   
 Named AL Manager of the Year](https://www.rotoballer.com/player-news/will-venable-named-al-manager-of-the-year/1992308)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Milwaukee Brewers1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Milwaukee Brewers2 d ago   
 Pat Murphy Wins Manager of the Year for Third Straight Season](https://www.rotoballer.com/player-news/pat-murphy-wins-manager-of-the-year-for-third-straight-season/1992296)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Pete Crow-Armstrong1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Pete Crow-Armstrong2 d ago   
 Named NL Most Valuable Player](https://www.rotoballer.com/player-news/pete-crow-armstrong-named-nl-most-valuable-player/1992279)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg) Yordan Alvarez1 d ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg) Yordan Alvarez2 d ago   
 Named AL Most Valuable Player](https://www.rotoballer.com/player-news/yordan-alvarez-named-al-most-valuable-player/1992272)
 [![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Evan Phillips2 d ago   
 Braves Agree on Three-Year Deal](https://www.rotoballer.com/player-news/evan-phillips-braves-agree-on-three-year-deal/1991645)
@@ -2370,17 +3376,17 @@ Wins AL Cy Young Award](https://www.rotoballer.com/player-news/cam-schlittler-wi
 to Continue Solid Form at Austin Championship](https://www.rotoballer.com/player-news/brian-harman-to-continue-solid-form-at-austin-championship/1990766)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Max Homa3 d ago   
 Still Searching for Consistent Iron Play in Year's Penultimate Event](https://www.rotoballer.com/player-news/max-homa-still-searching-for-consistent-iron-play-in-years-penultimate-event/1990520)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA4 d ago   
 Haotong Li Could Be a Boom-or-Bust Option at Austin Championship](https://www.rotoballer.com/player-news/haotong-li-could-be-a-boom-or-bust-option-at-austin-championship/1990433)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles4 d ago   
 Looks to Stay Hot at Austin Championship](https://www.rotoballer.com/player-news/ben-kohles-looks-to-stay-hot-at-austin-championship/1990422)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger4 d ago   
 Looking to Keep Strong Fall Run Going](https://www.rotoballer.com/player-news/stephan-jaeger-looking-to-keep-strong-fall-run-going/1990398)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey4 d ago   
 Looking to Put Together Another Strong Week in Austin](https://www.rotoballer.com/player-news/rico-hoey-looking-to-put-together-another-strong-week-at-austin-championship/1990379)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody4 d ago   
 Looking to Carry Momentum Into Austin Championship](https://www.rotoballer.com/player-news/pierceson-coody-looking-to-carry-momentum-into-austin-championship/1990367)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout3 d ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout4 d ago   
 Looking to Rebound at Austin Championship](https://www.rotoballer.com/player-news/christiaan-bezuidenhout-looking-to-rebound-at-austin-championship/1990354)
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Riley Greene4 d ago   
 Mentioned as a Trade Candidate](https://www.rotoballer.com/player-news/riley-greene-mentioned-as-a-trade-candidate/1990077)
@@ -2418,12 +3424,6 @@ an All-or-Nothing Possibility at Austin Championship](https://www.rotoballer.com
 Heads to Austin Championship After Another Missed Cut](https://www.rotoballer.com/player-news/tom-hoge-heads-to-austin-championship-after-another-missed-cut/1989012)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal5 d ago   
 Mets Could be the Current Favorites to Land Tarik Skubal](https://www.rotoballer.com/player-news/mets-could-be-the-current-favorites-to-land-tarik-skubal/1988793)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ronald Acuña Jr.5 d ago   
-Ronald Acuna Jr. "Highly Unlikely" to be Traded this Offseason](https://www.rotoballer.com/player-news/ronald-acuna-jr-highly-unlikely-to-be-traded-this-offseason/1988503)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal5 d ago   
-Cubs Unlikely to Enter Bidding War for Tarik Skubal](https://www.rotoballer.com/player-news/cubs-unlikely-to-enter-bidding-war-for-tarik-skubal/1988396)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg) Corbin Carroll5 d ago   
-has Offseason Elbow Surgery](https://www.rotoballer.com/player-news/corbin-carroll-has-offseason-elbow-surgery/1988382)
 [Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
 [View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
 [![](https://www.rotoballer.com/wp-content/uploads/2026/11/Novig-RotoBaller-2026-small-blue.png)](https://www.rotoballer.com/no)
@@ -2528,9 +3528,9 @@ RP
 [View All Players](https://www.rotoballer.com/fantasy-baseball-rankings/440514)
 #### [MORE RECENT ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
 [ Key Starters & Tough Calls: Week 10 ](https://www.rotoballer.com/key-fantasy-football-starts-and-sits-for-week-10-2026/1994000)
-[ Patriots vs. Lions: Munich Game Matchups ](https://www.rotoballer.com/fantasy-football-start-em-sit-em-munich-game-patriots-vs-lions-week-10-2026/1993956)
-[ Start/Sit Chart - All Week 10 MNF Matchups ](https://www.rotoballer.com/mnf-start-sit-chart-week-10-fantasy-football-matchups-for-monday-night-football-2026/1992010)
-[ RotoBaller Staff Bold Predictions ](https://www.rotoballer.com/9-fantasy-football-bold-predictions-for-week-10-rotoballer-staff-picks/1992009)
+[ Week 10 Fantasy Football Rankings ](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
+[ Updated Waiver Wire Rankings for Week 10 ](https://www.rotoballer.com/weekend-waiver-wire-rankings-fantasy-football-week-10-2026/1993343)
+[ Week 10 Matchups: Start 'Em, Sit 'Em ](https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-10-2026/1991153)
 ##### friends of rotoballer
 [![](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule) ![](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png) ![](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png) [![](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize) ![](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png) ![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
   * [CONTACT US](https://www.rotoballer.com/contact-us)
@@ -2548,863 +3548,6 @@ RP
 [ ![](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png) ](https://twitter.com/rotoballer) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png) ](https://www.reddit.com/user/RotoBaller) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png) ](https://www.facebook.com/rotoballin)
 We Are Your Secret Weapon | Copyright © 2011 - 2026 | Win Big with RotoBaller
 ![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fweek-10-nfl-td-props-best-anytime-touchdown-scorer-bets-2026%2F1993531&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
-Information from your device can be used to personalize your ad experience.   
-  
-[Do not sell or share my personal information.](https://www.rotoballer.com/)
-A Raptive Partner Site
-
-
-
----
-## SOURCE: https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262
-
-![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
-[](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-[Logout](https://www.rotoballer.com/wp-login.php?action=logout)[My Account](https://www.rotoballer.com/my-account)[Upgrade](https://www.rotoballer.com/upgrade-premium-account?pa=upgrade)
-
-
-[👉 TAP TO SAVE 50% WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
-  * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-  * [FANTASY SPORTS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [TOP SPORTS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [NFL](https://www.rotoballer.com/nfl "NFL ARTICLES – FANTASY FOOTBALL ANALYSIS")
-      * [MLB](https://www.rotoballer.com/mlb)
-      * [NBA](https://www.rotoballer.com/nba)
-      * [NHL](https://www.rotoballer.com/category/hockey/nhl)
-      * [PGA](https://www.rotoballer.com/pga)
-      * [NASCAR](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
-      * [F1 (Formula 1)](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
-      * [NCAAF (CFB)](https://www.rotoballer.com/category/ncaa-football "COLLEGE FOOTBALL \(NCAA\)")
-      * [NCAAB (CBB)](https://www.rotoballer.com/category/nba-college-basketball-news "COLLEGE BASKETBALL \(NCAA\)")
-    * [MORE SPORTS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [MMA](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc "MMA \(UFC\) DFS")
-      * [EPL](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy "ENGLISH PREMIER LEAGUE & SOCCER DFS")
-      * [ESPORTS](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck "ESPORTS DFS \(LoL, CS:GO, RLCS, COD\)")
-      * [UFL](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
-      * [WNBA](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel "WOMEN’S BASKETBALL")
-      * [KBO](https://www.rotoballer.com/category/mlb/kbo-dfs-lineup-picks-draftkings-fanduel "KBO DFS \(KOREAN BASEBALL ORGANIZATION\)")
-  * [PLAYER NEWS](https://www.rotoballer.com/player-news)
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [ALL SPORTS NEWS](https://www.rotoballer.com/player-news)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Download Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball)
-      * [NFL Player News](https://www.rotoballer.com/player-news?sport=nfl "FANTASY FOOTBALL INJURY NEWS")
-      * [MLB Player News](https://www.rotoballer.com/player-news?sport=mlb "FANTASY BASEBALL INJURY NEWS")
-      * [CFB Player News](https://www.rotoballer.com/player-news?sport=cfb "FANTASY COLLEGE FOOTBALL \(CFB\) NEWS")
-      * [NBA Player News](https://www.rotoballer.com/player-news?sport=nba)
-      * [NHL Player News](https://www.rotoballer.com/player-news?sport=nhl "FANTASY HOCKEY INJURY NEWS")
-      * [PGA Player News](https://www.rotoballer.com/player-news?sport=pga "FANTASY GOLF – PGA NEWS")
-      * [MMA Player News](https://www.rotoballer.com/player-news?sport=mma "FANTASY MMA NEWS")
-      * [NASCAR Driver News](https://www.rotoballer.com/player-news?sport=nascar "FANTASY NASCAR NEWS")
-      * [Get Our News Feeds](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167 "PLAYER NEWS FEEDS \(XML, JSON, RSS\)")
-  * [ARTICLES](https://www.rotoballer.com/category/rotoballer-2)
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [ALL SPORTS](https://www.rotoballer.com/category/rotoballer-2 "ALL ARTICLES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Free Mobile App](https://www.rotoballer.com/app "ROTOBALLER’S FREE FANTASY FOOTBALL NEWS MOBILE APP")
-      * [All Articles](https://www.rotoballer.com/category/rotoballer-2 "FANTASY BASEBALL ANALYSIS")
-      * [NFL](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
-      * [MLB](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
-      * [NBA](https://www.rotoballer.com/category/nba-fantasy-basketball-advice)
-      * [PGA](https://www.rotoballer.com/category/dfs-golf-pga-draftkings-dfs)
-      * [NHL](https://www.rotoballer.com/category/nhl)
-      * [MMA](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc "MMA \(UFC\) DFS ARTICLES")
-      * [NASCAR](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
-      * [Formula 1 (F1)](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
-      * [ESPORTS](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck "ESPORTS DFS ARTICLES \(LoL, CS:GO, RLCS, COD\)")
-      * [NCAAB (CBB)](https://www.rotoballer.com/category/nba-college-basketball-news "NCAA COLLEGE BASKETBALL ARTICLES")
-      * [NCAAF (CFB)](https://www.rotoballer.com/category/ncaa-football "COLLEGE FOOTBALL ARTICLES \(NCAA\)")
-      * [EPL](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy "SOCCER ARTICLES – ENGLISH PREMIER LEAGUE")
-      * [KBO](https://www.rotoballer.com/category/mlb/kbo-dfs-lineup-picks-draftkings-fanduel "KBO DFS ARTICLES \(KOREAN BASEBALL ORGANIZATION\)")
-      * [WNBA](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel)
-      * [UFL](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
-    * [NFL IN-SEASON](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ANALYSIS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ANALYSIS")
-      * [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates "FANTASY FOOTBALL INJURY NEWS")
-      * [Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL WEEKLY RANKINGS")
-      * [Matchups](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/weekly-matchups "FANTASY FOOTBALL START/SIT AND GAME BREAKDOWNS")
-      * [Waiver Wire](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/waiver-wire-articles "FANTASY FOOTBALL WAIVER WIRE ARTICLES")
-      * [Streamers](https://www.rotoballer.com/tag/nfl-streamers "FANTASY FOOTBALL WAIVER WIRE STREAMERS")
-      * [Defense (D/ST)](https://www.rotoballer.com/tag/fantasy-football-dst-nfl-defense-articles)
-      * [Busts](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-busts "FANTASY FOOTBALL BUSTS, OVERVALUED")
-      * [Superflex](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/superflex-fantasy-football "FANTASY FOOTBALL SUPERFLEX \(TWO QB\) LEAGUES")
-      * [IDP Leagues](https://www.rotoballer.com/tag/idp-fantasy-football-rankings-sleepers-waiver-wire-individual-defensive-players "FANTASY FOOTBALL INDIVIDUAL DEFENSIVE PLAYERS")
-      * [Dynasty](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/dynasty-leagues-keepers "FANTASY FOOTBALL DYNASTY LEAGUES")
-      * [DFS Picks](https://www.rotoballer.com/tag/nfl-dfs-columns "FANTASY FOOTBALL DFS PICKS")
-      * [Betting Picks](https://www.rotoballer.com/tag/nfl-betting-picks-top-football-wagers)
-      * [Survivor Leagues](https://www.rotoballer.com/tag/survivor-pool "NFL SURVIVOR POOL PICKS")
-      * [Playoffs Leagues](https://www.rotoballer.com/tag/nfl-playoffs "FANTASY FOOTBALL CONTESTS FOR NFL PLAYOFFS")
-    * [NFL OFF-SEASON](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis "FANTASY FOOTBALL ARTICLES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
-      * [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates "NFL INJURY REPORT – FANTASY FOOTBALL INJURIES")
-      * [NFL Draft](https://www.rotoballer.com/category/nfl/nfl-draft-analysis "FANTASY FOOTBALL PROSPECTS")
-      * [Rookies](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-rookies "FANTASY FOOTBALL ROOKIES")
-      * [Best Ball](https://www.rotoballer.com/tag/fantasy-football-best-ball-rankings-and-analysis "FANTASY FOOTBALL BEST BALL LEAGUES")
-      * [Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL RANKINGS")
-      * [Sleepers](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/nfl-sleepers "FANTASY FOOTBALL DRAFT SLEEPERS")
-      * [Breakouts](https://www.rotoballer.com/tag/fantasy-football-breakouts-and-draft-sleepers "FANTASY FOOTBALL BREAKOUT CANDIDATES")
-      * [Sleepers List](https://www.rotoballer.com/nfl-fantasy-football-waiver-wire-pickups-list/232923)
-      * [Draft Strategy](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/strategy "FANTASY FOOTBALL DRAFT STRATEGIES")
-      * [Year In Review](https://www.rotoballer.com/tag/fantasy-football-year-in-review "FANTASY FOOTBALL BREAKOUTS, BUSTS, SURPRISES")
-    * [MLB IN-SEASON](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
-      * [Starts & Sits](https://www.rotoballer.com/tag/mlb-start-sit-series-for-fantasy-baseball "START/SIT WEEKLY PITCHER MATCHUPS")
-      * [Waiver Wire](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/waiver-wire "MLB WAIVER WIRE ARTICLES")
-      * [Injuries](https://www.rotoballer.com/mlb-injuries-report-fantasy-baseball-injury-updates "MLB INJURY REPORT – FANTASY BASEBALL INJURIES")
-      * [Streamers](https://www.rotoballer.com/tag/fantasy-baseball-streamers-waiver-wire-streaming-picks "HITTER AND PITCHER STREAMING PICKS")
-      * [Risers & Fallers](https://www.rotoballer.com/tag/fantasy-baseball-risers-fallers)
-      * [Sleepers List](https://www.rotoballer.com/mlb-fantasy-baseball-waiver-wire-pickups-list/226012 "MLB WAIVER PICKUPS LIST")
-      * [DFS Lineup Picks](https://www.rotoballer.com/tag/mlb-dfs-articles "DRAFTKINGS, FANDUEL")
-      * [Betting Picks](https://www.rotoballer.com/tag/mlb-betting-picks "TOP BETS")
-    * [MLB PRESEASON](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis)
-      * [Rankings](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings)
-      * [Prospects](https://www.rotoballer.com/category/mlb/prospects "MLB PROSPECTS, ROOKIES, CALL-UPS")
-      * [Sleepers](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/sleepers "FANTASY BASEBALL DRAFT SLEEPERS")
-      * [Busts](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/busts "FANTASY BASEBALL BUSTS, AVOIDS, OVERVALUED")
-      * [Breakouts](https://www.rotoballer.com/tag/fantasy-baseball-breakouts-and-draft-sleepers)
-      * [Bullpens](https://www.rotoballer.com/tag/mlb-holds-fantasy-baseball-relief-pitchers "CLOSERS, SAVES, HOLDS")
-      * [Closer Charts](https://www.rotoballer.com/mlb-saves-closers-depth-charts/226767 "CLOSER DEPTH CHARTS")
-      * [Points Leagues](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/points-leagues-fantasy-baseball "POINTS AND HEAD-TO-HEAD LEAGUES")
-      * [FYPD](https://www.rotoballer.com/tag/fypd-articles "FIRST YEAR PLAYER DRAFTS – FANTASY BASEBALL DYNASTY")
-      * [Draft Strategies](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/draft-strategy "FANTASY BASEBALL DRAFT STRATEGY, TIPS, ADVICE")
-      * [ADP Analysis](https://www.rotoballer.com/tag/2020-mlb-overvalued-undervalued-adp-comparison-series)
-      * [Sabermetrics](https://www.rotoballer.com/tag/mlb-sabermetrics-fantasy-baseball "SABERMETRICS FOR FANTASY BASEBALL")
-      * [Auction Leagues](https://www.rotoballer.com/tag/fantasy-baseball-auction-leagues-salary-cap-draft-budget "FANTASY BASEBALL AUCTION DRAFT STRATEGY")
-      * [NFBC Leagues](https://www.rotoballer.com/tag/nfbc-fantasy-baseball-sleepers-and-draft-targets "NFBC FANTASY BASEBALL ARTICLES")
-      * [NL-Only and AL-Only](https://www.rotoballer.com/tag/nl-only-and-al-only-waiver-wire-pickups-for-fantasy-baseball)
-      * [Off-Season Moves](https://www.rotoballer.com/tag/mlb-offseason-moves)
-    * [NBA ARTICLES](https://www.rotoballer.com/category/nba-fantasy-basketball-advice)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice)
-      * [NBA Draft](https://www.rotoballer.com/tag/nba-draft)
-      * [Rookies](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-rookies "NBA ROOKIES")
-      * [Dynasty Rankings](https://www.rotoballer.com/tag/dynasty-basketball)
-      * [Preseason](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice)
-      * [Preseason DFS](https://www.rotoballer.com/tag/nba-dfs-articles)
-      * [Rankings](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-rankings "DRAFT RANKINGS")
-      * [Sleepers](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-sleepers "DRAFT SLEEPERS")
-      * [Busts](https://www.rotoballer.com/tag/fantasy-basketball-busts "DRAFT BUSTS")
-      * [Strategy](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/draft-strategy-3 "DRAFT STRATEGIES")
-      * [DFS Picks](https://www.rotoballer.com/tag/nba-dfs-articles)
-      * [Injuries](https://www.rotoballer.com/nba-injuries-report-todays-nba-injury-updates-fantasy-basketball/986935)
-      * [Waiver Wire](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-waiver-wire "ALL BASKETBALL NBA ARTICLES")
-      * [In-Season Sleepers](https://www.rotoballer.com/category/nba/nba-fantasy-basketball-advice/nba-sleepers)
-    * [NON-FANTASY](https://www.rotoballer.com/tag/non-fantasy)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [NFL Power Rankings](https://www.rotoballer.com/tag/power-rankings)
-      * [MLB Power Rankings](https://www.rotoballer.com/tag/mlb-power-rankings)
-      * [NBA Power Rankings](https://www.rotoballer.com/tag/nba-power-rankings)
-      * [CFB Power Rankings](https://www.rotoballer.com/tag/college-football-power-rankings)
-      * [CBB Power Rankings](https://www.rotoballer.com/tag/college-basketball-rankings-ncaa-cbb-power-rankings)
-      * [NFL All 32 Teams Lists](https://www.rotoballer.com/tag/nfl-all-32)
-      * [NFL Report Cards](https://www.rotoballer.com/tag/nfl-report-cards)
-      * [NFL Predictions](https://www.rotoballer.com/tag/nfl-predictions)
-    * [MORE](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [DFS](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DFS LINEUP PICKS – DAILY FANTASY SPORTS")
-      * [Betting](https://www.rotoballer.com/category/sports-betting-picks "BETTING PICKS & ADVICE")
-      * [Videos](https://www.rotoballer.com/category/fantasy-video "ORIGINAL ROTOBALLER VIDEOS")
-      * [Podcasts](https://www.rotoballer.com/podcasts "ORIGINAL ROTOBALLER PODCASTS")
-      * [NFL Quick Hits](https://www.rotoballer.com/tag/fantasy-football-quick-hits)
-      * [MLB Quick Hits](https://www.rotoballer.com/tag/fantasy-baseball-quick-hits)
-      * [NBA Quick Hits](https://www.rotoballer.com/tag/fantasy-basketball-quick-hits)
-      * [PGA Quick Hits](https://www.rotoballer.com/tag/pga-quick-hits)
-      * [NCAA Quick Hits](https://www.rotoballer.com/tag/college-football-quick-hits)
-      * [NASCAR Quick Hits](https://www.rotoballer.com/tag/fantasy-nascar-quick-hits)
-  * [DAILY FANTASY](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DFS – DAILY FANTASY SPORTS")
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [DFS PICKS ARTICLES](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "DAILY LEAGUE \(DFS\) PICKS ARTICLES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [DFS Premium Tools](https://www.rotoballer.com/premium-dfs-tools-lineup-optimizers "DAILY FANTASY SPORTS")
-      * [All DFS Articles](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs "ALL DAILY LEAGUE \(DFS\) PICKS ARTICLES")
-      * [NFL DFS Picks](https://www.rotoballer.com/tag/nfl-dfs-columns "DAILY FANTASY FOOTBALL \(DFS\) PICKS")
-      * [MLB DFS Picks](https://www.rotoballer.com/tag/mlb-dfs-articles)
-      * [NBA DFS Picks](https://www.rotoballer.com/tag/nba-dfs-articles "NBA DAILY LEAGUE \(DFS\) PICKS ARTICLES")
-      * [NHL DFS Picks](https://www.rotoballer.com/category/hockey/nhl)
-      * [PGA DFS Picks](https://www.rotoballer.com/category/dfs-golf-pga-draftkings-dfs)
-      * [MMA DFS Picks](https://www.rotoballer.com/category/mma-draftkings-dfs-daily-fantasy-ufc)
-      * [EPL DFS Picks](https://www.rotoballer.com/category/soccer-dfs-lineup-picks-draftkings-fanduel-daily-fantasy)
-    * [MORE DFS ARTICLES](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [NASCAR DFS Picks](https://www.rotoballer.com/category/fantasy-nascar-dfs-draftkings)
-      * [Formula 1 DFS Picks](https://www.rotoballer.com/category/f1-formula-1-dfs-lineup-picks-draftkings-fanduel)
-      * [eSports DFS Picks](https://www.rotoballer.com/category/esports-dfs-lineup-picks-draftkings-lol-lpl-lck)
-      * [NCAAF DFS Picks](https://www.rotoballer.com/category/ncaa-football)
-      * [NCAAB DFS Picks](https://www.rotoballer.com/category/nba-college-basketball-news)
-      * [UFL DFS Picks](https://www.rotoballer.com/category/ufl-fantasy-football-articles-rankings-dfs-picks)
-      * [WNBA DFS Picks](https://www.rotoballer.com/category/wnba-dfs-draftkings-fanduel)
-      * [DFS Strategy](https://www.rotoballer.com/category/daily-fantasy-leagues-dfs/strategy-draftkings-fanduel "DAILY LEAGUE STRATEGIES")
-    * [BETTING](https://www.rotoballer.com/sports-betting)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Premium Tools](https://www.rotoballer.com/expert-betting-picks)
-      * [Articles](https://www.rotoballer.com/category/sports-betting-picks "PICKS & ADVICE")
-      * [Prop Picks](https://www.rotoballer.com/tag/prop-bets-sports-betting "DFS PROPS")
-    * [PRIZEPICKS](https://www.rotoballer.com/prize)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [PrizePicks Articles](https://www.rotoballer.com/tag/prize-picks-dfs-props-articles)
-      * [PrizePicks Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
-    * [NOVIG](https://www.rotoballer.com/no)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Articles and Picks](https://www.rotoballer.com/tag/novig "NOVIG ARTICLES, PICKS")
-      * [Picks Finder Tool](https://www.rotoballer.com/novig-prediction-finder "NOVIG Picks Finder Tool")
-      * [De-Vig Calculator Tool](https://www.rotoballer.com/novig-de-vig-calculator "NOVIG TOOL: DE-VIG CALCULATOR")
-      * [Free Premium (Promo Offer)](https://www.rotoballer.com/no "GET 1 YEAR FREE ROTOBALLER PREMIUM")
-  * [FANTASY TOOLS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [PREMIUM TOOLS](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [How To Guides](https://www.rotoballer.com/tag/premium-guide-and-overview)
-      * [NFL Premium](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit "FANTASY FOOTBALL PREMIUM TOOLS")
-      * [MLB Premium](https://www.rotoballer.com/fantasy-baseball-cheat-sheet-draft-kit)
-      * [NBA Premium](https://www.rotoballer.com/nba-fantasy-basketball-cheat-sheet-draft-kit/346717)
-      * [NHL Premium](https://www.rotoballer.com/daily-fantasy-hockey-premium-nhl-dfs-for-draftkings-fanduel)
-      * [PGA Premium](https://www.rotoballer.com/fantasy-pga-premium-golf-dfs-for-draftkings-fanduel)
-      * [NCAAF Premium](https://www.rotoballer.com/daily-fantasy-college-football-cfb-dfs-premium-for-draftkings-fanduel "COLLEGE FOOTBALL DFS TOOLS")
-      * [NCAAB Premium](https://www.rotoballer.com/ncaab-college-basketball-betting-tools-props-dfs-prizepicks "NCAAB COLLEGE BASKETBALL TOOLS")
-      * [MMA Premium](https://www.rotoballer.com/daily-fantasy-mma-ufc-dfs-premium-for-draftkings-fanduel)
-      * [NASCAR Premium](https://www.rotoballer.com/daily-fantasy-nascar-premium-dfs-draftkings-fanduel)
-      * [eSPORTS Premium](https://www.rotoballer.com/daily-fantasy-esports-premium-dfs-draftkings-fanduel)
-      * [Betting Premium](https://www.rotoballer.com/expert-betting-picks)
-      * [Props Premium](https://www.rotoballer.com/props)
-      * [Team Sync](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-    * [NFL TOOLS](https://www.rotoballer.com/nfl "FANTASY FOOTBALL TOOLS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "IPHONE, ANDROID")
-      * [Premium Tools](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit "FANTASY FOOTBALL PREMIUM TOOLS")
-      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php "IMPORT YOUR TEAMS & LEAGUES")
-      * [Who Should I Start?](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups "WHO SHOULD I START? FANTASY FOOTBALL ADVICE")
-      * [NFL Stats Hub](https://www.rotoballer.com/nfl-fantasy-football-stats)
-      * [Injury Reports](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates)
-      * [Most Added/Dropped](https://www.rotoballer.com/fantasy-football-most-added-dropped-players-trends?view=add&src=yahoo&window=1&pos=ALL&scoring=ppr)
-      * [Matchup Ratings](https://www.rotoballer.com/fantasy-football-projections-matchup-ratings "FANTASY FOOTBALL MATCHUPS DATA")
-      * [Strength Of Schedule](https://www.rotoballer.com/nfl-fantasy-football-strength-of-schedule "FANTASY FOOTBALL STRENGTH OF SCHEDULE \(SOS\)")
-      * [Trade Analyzer](https://www.rotoballer.com/fantasy-football-trade-analyzer-who-to-trade "GET TRADE ADVICE – FANTASY FOOTBALL")
-      * [Who Should I Pickup?](https://www.rotoballer.com/who-should-i-pickup-fantasy-football-waiver-wire "WHO SHOULD I PICKUP? FANTASY FOOTBALL WAIVER WIRE")
-      * [Live Scoreboard](https://www.rotoballer.com/nfl-game-center-live-scores-fantasy-football-scoreboard "LIVE FANTASY STATS AND LEADERBOARD – FANTASY FOOTBALL")
-      * [Survivor Picks Tool](https://www.rotoballer.com/nfl-survivor-grid-football-survivor-pool-picks-tool "NFL SURVIVOR POOL PICKS TOOL")
-      * [Team Depth Charts](https://www.rotoballer.com/nfl-depth-charts-fantasy-football "NFL TEAM ROSTERS – FANTASY FOOTBALL")
-      * [NFL Draft Simulator](https://www.rotoballer.com/nfl-mock-draft-simulator "NFL DRAFT – MOCK DRAFT SIMULATOR TOOL")
-      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-football-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS – FANTASY FOOTBALL")
-      * [Live Draft Assistant](https://www.rotoballer.com/fantasy-football-mock-drafts-practice-tool "CUSTOMIZED RECOMMENDATIONS – FANTASY FOOTBALL")
-      * [Draft Cheat Sheet](https://www.rotoballer.com/free-fantasy-football-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
-      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-fantasy-football "WHO SHOULD I DRAFT? FANTASY FOOTBALL ADVICE")
-      * [ADP Reports](https://www.rotoballer.com/fantasy-football-adp-average-draft-position "FANTASY FOOTBALL ADP – AVERAGE DRAFT POSITION")
-      * [FFPC ADP Reports](https://www.rotoballer.com/ffpc-adp-fantasy-football-players-championship "FFPC LEAGUES – AVERAGE DRAFT POSITION ")
-      * [Dynasty Trade Calculator](https://www.rotoballer.com/fantasy-football-dynasty-trade-calculator)
-      * [Draft Grader](https://www.rotoballer.com/fantasy-football-draft-grader)
-    * [MLB TOOLS](https://www.rotoballer.com/mlb)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY BASEBALL NEWS – MOBILE APP")
-      * [Premium Tools](https://www.rotoballer.com/fantasy-baseball-cheat-sheet-draft-kit "FANTASY BASEBALL PREMIUM TOOLS")
-      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Who Should I Start?](https://www.rotoballer.com/who-should-i-start-fantasy-baseball "WHO SHOULD I START? FANTASY BASEBALL ADVICE")
-      * [Who Should I Pickup?](https://www.rotoballer.com/who-should-i-pickup-fantasy-baseball-waiver-wire "WHO SHOULD I PICKUP? FANTASY BASEBALL ADVICE")
-      * [Trade Analyzer](https://www.rotoballer.com/fantasy-baseball-trade-analyzer-tool "GET TRADE ADVICE")
-      * [Hitter Matchups (BvP)](https://www.rotoballer.com/mlb-bvp-batter-vs-pitcher-daily-matchups-stats "DAILY PROJECTIONS – MATCHUPS DATA")
-      * [Pitcher Matchups (PvB)](https://www.rotoballer.com/starting-pitcher-dfs-matchups-streamers-tool "DAILY PROJECTIONS – MATCHUPS DATA")
-      * [Next 10 Pitcher Starts](https://www.rotoballer.com/starting-pitcher-matchups-schedules-tool)
-      * [MLB Starting Lineups](https://www.rotoballer.com/fantasy-baseball-daily-projected-starting-mlb-lineups "MLB DAILY STARTING LINEUPS")
-      * [Live Scoreboard](https://www.rotoballer.com/mlb-game-center-live-scores-fantasy-baseball-scoreboard "LIVE FANTASY STATS AND LEADERBOARDS")
-      * [Torchy Tracker](https://www.rotoballer.com/torchy "TODAY’S WORST PITCHERS")
-      * [Rankings Portal](https://www.rotoballer.com/fantasy-baseball-rankings/440514/)
-      * [Closer Depth Charts](https://www.rotoballer.com/mlb-saves-closers-depth-charts/226767 "CLOSER & BULLPEN DEPTH CHARTS")
-      * [Injury Reports](https://www.rotoballer.com/mlb-injuries-report-fantasy-baseball-injury-updates)
-      * [PrizePicks DFS Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
-      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-fantasy-baseball "COMPARE UP TO 4 PLAYERS")
-      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-baseball-mock-draft-simulator)
-      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-baseball-draft-cheat-sheet)
-      * [ADP Comparisons](https://www.rotoballer.com/fantasy-baseball-adp-average-draft-position/836817 "COMPARE FANTASY BASEBALL ADPs")
-    * [NBA TOOLS](https://www.rotoballer.com/nba)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY BASKETBALL NEWS – MOBILE APP")
-      * [Premium Tools](https://www.rotoballer.com/nba-fantasy-basketball-cheat-sheet-draft-kit/346717 "FANTASY BASKETBALL PREMIUM TOOLS")
-      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Draft Rankings](https://www.rotoballer.com/fantasy-basketball-rankings-projections-nba "FANTASY BASKETBALL RANKINGS, TIERS \(NBA\)")
-      * [Draft Projections](https://www.rotoballer.com/fantasy-basketball-projections-nba "FANTASY BASKETBALL PROJECTIONS \(NBA\)")
-      * [Injury Reports](https://www.rotoballer.com/nba-injuries-report-todays-nba-injury-updates-fantasy-basketball/986935)
-      * [NBA Starting Lineups](https://www.rotoballer.com/todays-nba-starting-lineups-daily-basketball-starters "DAILY NBA STARTING LINEUPS – CONFIRMED, PROJECTED STARTERS")
-      * [NBA Props Tool](https://www.rotoballer.com/nba-props-tool)
-      * [PrizePicks DFS Tool](https://www.rotoballer.com/prizepicks-dfs-props-over-under-picks-tool)
-      * [Matchup Ratings](https://www.rotoballer.com/nba-dfs-lineups-projections-daily-fantasy-basketball-matchups-fanduel-draftkings/562583)
-      * [Trade Analyzer](https://www.rotoballer.com/fantasy-basketball-trade-analyzer-who-to-trade)
-      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-basketball-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS")
-      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-basketball-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
-      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-free-fantasy-basketball-tool "COMPARE ANY PLAYERS")
-    * [NHL TOOLS](https://www.rotoballer.com/category/hockey/nhl)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Free Mobile App](https://www.rotoballer.com/fantasy-sports-apps-iphone-android-fantasy-football-baseball "FANTASY HOCKEY NEWS – MOBILE APP")
-      * [Premium Tools](https://www.rotoballer.com/daily-fantasy-hockey-premium-nhl-dfs-for-draftkings-fanduel "FANTASY HOCKEY PREMIUM TOOLS")
-      * [Team Sync Tools](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Injury Reports](https://www.rotoballer.com/nhl-injury-updates-fantasy-hockey-injuries-report-return-dates "NHL INJURY UPDATES – FANTASY HOCKEY INJURIES REPORT, RETURN DATES")
-      * [Starting Goalies](https://www.rotoballer.com/nhl-starting-goalies "DAILY NHL STARTING GOALIES – PROJECTED, CONFIRMED STARTERS")
-      * [Draft Rankings](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl "FANTASY HOCKEY RANKINGS, TIERS \(NHL\)")
-      * [Draft Projections](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl)
-      * [Trade Analyzer](https://www.rotoballer.com/fantasy-hockey-trade-analyzer-who-to-trade)
-      * [Mock Draft Simulator](https://www.rotoballer.com/fantasy-hockey-mock-draft-simulator "FREE PRACTICE MOCK DRAFTS")
-      * [Draft Cheat Sheets](https://www.rotoballer.com/free-fantasy-hockey-draft-cheat-sheet "CUSTOMIZE LEAGUE SETTINGS & DOWNLOAD")
-      * [Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-free-fantasy-hockey-tool "COMPARE ANY PLAYERS")
-    * [TEAM SYNC TOOLS](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Tutorials](https://www.rotoballer.com/team-sync-fantasy-baseball-platform-video-tutorials-and-user-guide/1338159)
-      * [Live Draft Assistant](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Mock Draft Simulator](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Draft Cheat Sheets](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Auction Calculator](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Draft Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Free Agent Finder](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-      * [Trade Analyzer](https://www.rotoballer.com/api/rbapps/auth/redirect.php)
-    * [LINEUP OPTIMIZERS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262 "DFS LINEUP OPTIMIZERS – DAILY FANTASY SPORTS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [NFL Optimizer](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "DFS LINEUP GENERATOR – FANTASY FOOTBALL")
-      * [MLB Optimizer](https://www.rotoballer.com/mlb-dfs-lineup-generator-optimizer-daily-fantasy-baseball "MLB DFS LINEUP GENERATOR")
-      * [NBA Optimizer](https://www.rotoballer.com/nba-dfs-lineup-generator-optimizer-daily-fantasy-draftkings-fanduel "NBA DFS LINEUP GENERATOR")
-      * [NHL Optimizer](https://www.rotoballer.com/nhl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "HOCKEY DFS LINEUP GENERATOR")
-      * [PGA Optimizer](https://www.rotoballer.com/pga-dfs-lineup-optimizer-daily-fantasy-golf-draftkings-fanduel "GOLF DFS LINEUP GENERATOR")
-      * [MMA Optimizer](https://www.rotoballer.com/mma-dfs-lineup-optimizer-daily-fantasy-ufc-draftkings-fanduel "MMA \(UFC\) DFS LINEUP GENERATOR")
-      * [CFB Optimizer](https://www.rotoballer.com/cfb-dfs-lineup-optimizer-daily-college-football-lineup-generator-draftkings-fanduel "NCAA COLLEGE FOOTBALL DFS LINEUP GENERATOR")
-      * [NASCAR Optimizer](https://www.rotoballer.com/nascar-dfs-lineup-optimizer-daily-fantasy-draftkings-fanduel "NASCAR DFS LINEUP GENERATOR")
-      * [Formula 1 Optimizer](https://www.rotoballer.com/nascar-dfs-lineup-optimizer-daily-fantasy-draftkings-fanduel)
-      * [eSPORTS Optimizer](https://www.rotoballer.com/esports-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel "ESPORTS DFS LINEUP GENERATOR")
-      * [Prop Picks Optimizer](https://www.rotoballer.com/props-optimizer "PROP PICKS FINDER – OPTIMIZER TOOL")
-      * [PrizePicks DFS Optimizer](https://www.rotoballer.com/prizepicks-optimizer "PRIZEPICKS PROPS FINDER – OPTIMIZER TOOL")
-    * [CHAT ROOMS](https://www.rotoballer.com/chat?pa=slack "LIVE EXPERT Q&A CHAT")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Join Our Discord](https://www.rotoballer.com/rotoballers-discord-guide-nfl-mlb-nba-nhl-pga-nascar-and-more/1586688)
-      * [Premium VIP Chat](https://www.rotoballer.com/chat?pa=slack "PREMIUM Q&A DISCORD CHAT ROOMS")
-      * [NFL Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-football-advice "FANTASY FOOTBALL CHAT")
-      * [MLB Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-baseball-advice "FANTASY BASEBALL CHAT")
-      * [NBA Live Chat](https://www.rotoballer.com/rotoballer-nba-chat-live-fantasy-basketball-advice)
-      * [NHL Live Chat](https://www.rotoballer.com/rotoballer-nhl-chat-live-fantasy-hockey-advice)
-      * [PGA Live Chat](https://www.rotoballer.com/rotoballer-pga-chat-live-fantasy-golf-advice)
-      * [MMA Live Chat](https://www.rotoballer.com/rotoballer-mma-ufc-wwe-chat-live-fantasy-advice)
-      * [NASCAR Live Chat](https://www.rotoballer.com/rotoballer-nascar-chat-live-fantasy-nascar-advice)
-      * [eSPORTS Live Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-esports-advice "FANTASY ESPORTS CHAT")
-      * [Sunday Gameday Chat](https://www.rotoballer.com/rotoballer-chat-live-fantasy-football-advice)
-  * [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY RANKINGS – TOP EXPERT ACCURACY")
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [NFL RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "FANTASY FOOTBALL RANKINGS PORTAL \(ALL FORMATS\)")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Weekly Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "WEEKLY FANTASY FOOTBALL RANKINGS")
-      * [Mariano's Ranks (Premium)](https://www.rotoballer.com/nick-marianos-premium-nfl-rankings "NICK MARIANO’S PREMIUM FANTASY FOOTBALL RANKINGS")
-      * [Calandro's Ranks (Premium)](https://www.rotoballer.com/jamie-calandros-premium-nfl-rankings "JAMIE CALANDRO’S PREMIUM RANKINGS – #3 ACCURACY IN 2025")
-      * [Engel's Ranks (Premium)](https://www.rotoballer.com/scott-engels-premium-nfl-rankings)
-      * [PPR Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ppr&league=Overall "1 POINT PER RECEPTION SCORING – FANTASY FOOTBALL")
-      * [Half-PPR Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=Overall "0.5 POINTS PER RECEPTION SCORING – FANTASY FOOTBALL")
-      * [Standard (Non-PPR)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=standard&league=Overall "NON-PPR SCORING RANKINGS – FANTASY FOOTBALL")
-      * [Best Ball Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "BEST-BALL RANKINGS – FANTASY FOOTBALL")
-      * [Superflex Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=superflex&league=Overall "SUPERFLEX \(2QB\) LEAGUES – FANTASY FOOTBALL")
-      * [IDP Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=idp&league=Overall "INDIVIDUAL DEFENSIVE PLAYERS \(IDP\) LEAGUES – FANTASY FOOTBALL")
-      * [TE Premium Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ffpc&league=Overall "TIGHT END PREMIUM SCORING \(1.5 PPR\) FOR FFPC LEAGUES")
-      * [Dynasty League Ranks](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=dynasty&league=Overall "DYNASTY LEAGUE RANKINGS – FANTASY FOOTBALL")
-      * [Waiver Wire Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=waiver-wire&league=Overall)
-      * [Rest-Of-Season (ROS)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=week-one&league=Overall "REST-OF-SEASON \(ROS\) RANKINGS – FANTASY FOOTBALL")
-      * [Playoff Leagues](https://www.rotoballer.com/fantasy-football-rankings-for-playoff-leagues-2026/1793658 "NFL PLAYOFF LEAGUE RANKINGS – FANTASY FOOTBALL")
-      * [Preseason Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=week-one&league=Overall "2026 FANTASY FOOTBALL RANKINGS")
-    * [NFL POSITIONS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "POSITIONAL RANKINGS FANTASY FOOTBALL")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Positions](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860 "OVERALL FANTASY FOOTBALL RANKINGS")
-      * [QB Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=QB "QUARTERBACK \(QB\) FANTASY FOOTBALL RANKINGS")
-      * [RB Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=RB "RUNNING BACK \(RB\) FANTASY FOOTBALL RANKINGS")
-      * [WR Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=WR "WIDE RECEIVER \(WR\) FANTASY FOOTBALL RANKINGS")
-      * [TE Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=TE "TIGHT END \(TE\) FANTASY FOOTBALL RANKINGS")
-      * [FLEX Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=FLEX "FLEX FANTASY FOOTBALL RANKINGS")
-      * [D/ST Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=DST "DEFENSE \(D/ST\) FANTASY FOOTBALL RANKINGS")
-      * [Kicker Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr&league=K "KICKER FANTASY FOOTBALL RANKINGS")
-    * [NFL RANKS ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/rankings-tiered "FANTASY FOOTBALL RANKINGS ANALYSIS ARTICLES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis/rankings-tiered "ALL FANTASY FOOTBALL RANKINGS ARTICLES")
-      * [Rest-Of-Season](https://www.rotoballer.com/tag/fantasy-football-rankings-rest-of-season "FANTASY FOOTBALL ROS RANKINGS – WEEKLY UPDATES")
-      * [Waiver Wire](https://www.rotoballer.com/tag/fantasy-football-waiver-wire-rankings "FANTASY FOOTBALL WAIVER WIRE RANKINGS")
-      * [Defense (D/ST)](https://www.rotoballer.com/tag/fantasy-football-defense-streamers-dst-rankings-series "DEFENSE \(D/ST\) FANTASY FOOTBALL RANKINGS ARTICLES")
-      * [IDP Rankings](https://www.rotoballer.com/tag/idp-fantasy-football-rankings-sleepers-waiver-wire-individual-defensive-players)
-      * [Superflex (2QB)](https://www.rotoballer.com/tag/fantasy-football-superflex-2qb-rankings "SUPERFLEX FANTASY FOOTBALL RANKINGS ARTICLES")
-      * [Best Ball](https://www.rotoballer.com/tag/fantasy-football-best-ball-rankings "BEST BALL FANTASY FOOTBALL RANKINGS ARTICLES")
-      * [NFL Rookies](https://www.rotoballer.com/tag/fantasy-football-rookie-rankings-nfl-prospects "FANTASY FOOTBALL ROOKIE RANKINGS")
-      * [College Football](https://www.rotoballer.com/tag/college-football-rankings-ncaa-cfb-power-rankings "NCAA COLLEGE FOOTBALL RANKINGS \(CFB\)")
-    * [NFL BEST BALL RANKS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "FANTASY FOOTBALL BEST BALL RANKINGS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Best Ball Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=best-ball&league=Overall "FANTASY FOOTBALL BEST BALL STAFF RANKINGS \(ALL FORMATS\)")
-      * [Best Ball (Underdog)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=underdog&league=Overall "UNDERDOG \(UD\) BEST BALL FANTASY FOOTBALL RANKINGS")
-      * [Best Ball (DraftKings)](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=draftkings&league=Overall "DRAFTKINGS \(DK\) BEST BALL FANTASY FOOTBALL RANKINGS")
-      * [NFL Playoffs (Underdog)](https://www.rotoballer.com/underdog-fantasy-football-playoffs-best-ball-league-rankings-2026/1793551 "UNDERDOG FANTASY FOOTBALL BEST BALL PLAYOFF LEAGUE RANKINGS")
-    * [MLB RANKINGS](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "FANTASY BASEBALL RANKINGS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Mariano's Ranks (Premium)](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings/rankings?spreadsheet=keeper-values&league=Overall&atc "NICK MARIANO’S FANTASY BASEBALL RANKINGS")
-      * [Rest-Of-Season Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "IN-SEASON RANKINGS \(UPDATED WEEKLY\)")
-      * [Waiver Wire Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/rankings?spreadsheet=waiver-wire&league=Overall)
-      * [Prospects (Redraft)](https://www.rotoballer.com/fantasy-baseball-prospects-rankings-redraft-leagues/ "FANTASY BASEBALL PROSPECT RANKINGS \(REDRAFT\)")
-      * [Prospects (Dynasty)](https://www.rotoballer.com/premium-mlb-ranks/rankings?spreadsheet=dynasty-prospect "FANTASY BASEBALL PROSPECT RANKINGS \(DYNASTY\)")
-      * [Saves+Holds Ranks](https://www.rotoballer.com/saves-holds-fantasy-baseball-rankings-sv-hld/ "SV+HLD LEAGUE RANKINGS \(SOLDS\)")
-      * [Dynasty Ranks](https://www.rotoballer.com/dynasty-fantasy-baseball-rankings-dynasty-leagues/ "FANTASY BASEBALL DYNASTY LEAGUE RANKINGS")
-      * [Roto Ranks](https://www.rotoballer.com/fantasy-baseball-rankings/440514/ "ROTO \(ROTISSERIE\) MIXED LEAGUES FANTASY BASEBALL RANKINGS")
-      * [AL-Only Ranks](https://www.rotoballer.com/al-only-fantasy-baseball-rankings-american-league/ "AMERICAN LEAGUE ONLY RANKINGS")
-      * [NL-Only Ranks](https://www.rotoballer.com/nl-only-fantasy-baseball-rankings-national-league/ "NATIONAL LEAGUE ONLY RANKINGS")
-      * [#1 ATC Rankings (Premium)](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings#!/rankings?spreadsheet=atc&league=Overall&atc "ARIEL COHEN’S #1 ACCURACY RANKINGS")
-      * [#1 ATC Projections](https://www.rotoballer.com/nick-marianos-premium-mlb-rankings#!/rankings?spreadsheet=atc&league=Overall&atc "#1 ACCURACY FANTASY BASEBALL PROJECTIONS")
-      * [Points Ranks](https://www.rotoballer.com/points-fantasy-baseball-rankings-points-leagues#!/ "POINTS RANKINGS and HEAD-TO-HEAD POINTS")
-      * [FYPD Ranks](https://www.rotoballer.com/fypd-fantasy-baseball-rankings-first-year-player-drafts#!/ "FIRST YEAR PLAYER DRAFTS – FANTASY BASEBALL RANKINGS")
-      * [OBP Leagues](https://www.rotoballer.com/obp-fantasy-baseball-rankings-on-base-percentage#!/ "OBP FANTASY BASEBALL RANKINGS \(ON-BASE PERCENTAGE\)")
-      * [Best Ball (Underdog)](https://www.rotoballer.com/underdog-best-ball-fantasy-baseball-rankings#!/ "UNDERDOG BEST BALL RANKINGS – FANTASY BASEBALL")
-      * [Best Ball (NFBC)](https://www.rotoballer.com/nfbc-best-ball-fantasy-baseball-rankings#!/ "NFBC BEST BALL RANKINGS – FANTASY BASEBALL")
-    * [MLB POSITIONS](https://www.rotoballer.com/fantasy-baseball-rankings/440514/)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [C Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-catcher-c/ "CATCHER FANTASY BASEBALL RANKINGS")
-      * [1B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-first-base-1b/ "FIRST BASE \(1B\) FANTASY BASEBALL RANKINGS")
-      * [2B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-second-base-2b/ "SECOND BASE \(2B\) FANTASY BASEBALL RANKINGS")
-      * [3B Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-third-base-3b/ "THIRD BASE \(3B\) FANTASY BASEBALL RANKINGS")
-      * [SS Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-shortstop-ss/ "SHORTSTOP \(SS\) FANTASY BASEBALL RANKINGS")
-      * [OF Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-outfield-of/ "OUTFIELD \(OF\) FANTASY BASEBALL RANKINGS")
-      * [SP Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-starting-pitcher-sp/ "STARTING PITCHER \(SP\) FANTASY BASEBALL RANKINGS")
-      * [RP Rankings](https://www.rotoballer.com/fantasy-baseball-rankings-mlb-closers-relief-pitchers-rp/ "CLOSERS, RELIEF PITCHERS FANTASY BASEBALL RANKINGS")
-    * [MLB RANKS ARTICLES](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings "RANKINGS ANALYSIS ARTICLES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [All Articles](https://www.rotoballer.com/category/mlb/fantasy-baseball-advice-analysis/mlb-rankings)
-      * [Top 300 (In-Season)](https://www.rotoballer.com/tag/fantasy-baseball-rankings-in-season-mlb-updates)
-      * [Prospects (In-Season)](https://www.rotoballer.com/tag/mlb-prospects-rankings-for-fantasy-baseball "TOP FANTASY PROSPECTS – UPDATED WEEKLY")
-      * [Pitchers (In-Season)](https://www.rotoballer.com/tag/the-baller-ranks-weekly-starting-pitcher-rankings-for-fantasy-baseball "STARTING PITCHER RANKS – UPDATED WEEKLY")
-      * [Closers (In-Season)](https://www.rotoballer.com/tag/fantasy-baseball-saves-holds-leagues-sv-hld "RELIEF PITCHER RANKS – UPDATED WEEKLY")
-      * [Waiver Wire](https://www.rotoballer.com/tag/fantasy-baseball-waiver-wire-rankings "WAIVER WIRE RANKS – UPDATED WEEKLY")
-    * [MORE SPORTS RANKINGS](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [CFB Rankings (NCAA)](https://www.rotoballer.com/college-fantasy-football-rankings-projections-cfb-ncaa "COLLEGE FANTASY FOOTBALL RANKINGS \(CFB\)")
-      * [CFB Who Should I Draft?](https://www.rotoballer.com/who-should-i-draft-college-fantasy-football-cfb "WHO SHOULD I DRAFT? COLLEGE FANTASY FOOTBALL \(CFB\)")
-      * [NBA Rankings](https://www.rotoballer.com/fantasy-basketball-rankings-projections-nba "FANTASY BASKETBALL RANKINGS")
-      * [PGA Rankings](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262 "GOLF POWER RANKINGS")
-      * [NHL Rankings](https://www.rotoballer.com/fantasy-hockey-rankings-projections-nhl "FANTASY HOCKEY RANKINGS \(NHL\)")
-      * [NASCAR RANKINGS](https://www.rotoballer.com/tag/nascar-dfs-draftkings-projections "Weekly NASCAR Driver Rankings")
-  * [OPTIMIZER](https://www.rotoballer.com/nfl-dfs-lineup-optimizer-daily-lineup-generator-draftkings-fanduel?pa=grey26optimizernfl "FANTASY BASEBALL LINEUP OPTIMIZER – DFS PICKS")
-  * [TEAM SYNC](https://www.rotoballer.com/api/rbapps/auth/redirect.php "SYNC YOUR FANTASY LEAGUES, TEAMS")
-  * [PROMOS](https://www.rotoballer.com/dfs-referral-portal)
-    * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-    * [PROMO OFFERS](https://www.rotoballer.com/dfs-referral-portal "FREE PREMIUM – PARTNER PROMO OFFERS")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [Novig (Free Year)](https://www.rotoballer.com/dfs-referral-portal "SIGN UP FOR FREE ROTOBALLER PREMIUM")
-      * [PrizePicks (Free 6 Mo.)](https://www.rotoballer.com/dfs-referral-portal "SIGN UP FOR FREE ROTOBALLER PREMIUM")
-      * [ProphetX (Free 6 Mo.)](https://www.rotoballer.com/x "SIGN UP FOR FREE ROTOBALLER PREMIUM")
-      * [FFPC](https://www.rotoballer.com/dfs-referral-portal)
-      * [Fantasy Genius](https://www.rotoballer.com/genius)
-    * [FREE CONTESTS](https://www.rotoballer.com/rotoballer-challenge-homepage "FREE TO ENTER – WIN CASH PRIZES")
-      * [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
-      * [RotoBaller Challenge](https://www.rotoballer.com/free-fantasy-football-tournament-rotoballer-challenge-2026/1900460)
-      * [NFL Pickem Challenge](https://www.rotoballer.com/rotoballer-challenge-homepage "Football Pickem Challenge")
-      * [NCAA Pickem Challenge (CFB)](https://www.rotoballer.com/rotoballer-challenge-homepage "College Football Pickem Challenge")
-  * [![](https://cdn.rotoballer.com/2015/06/mic-24.png)RADIO](https://www.rotoballer.com/category/fantasy-radio-podcast-video)
-
-
-![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
-Continue with Apple Continue with Google
-or
-[Lost password?](https://www.rotoballer.com/wp-login.php?action=lostpassword)
-Don't have an account?  
-[Gain Access Now](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
-Continue with Apple Continue with Google
-or
-Receive free daily analysis
-NFL
-NBA
-NHL
-NASCAR
-CFB
-MLB
-MMA
-PGA
-ESPORTS
-BETTING
-Submit
-Already have an account? [Log In](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)
-## Forgot Password
-* * *
-[![](https://www.rotoballer.com/wp-content/uploads/2023/09/RotoBaller-NFL-new-logo.png)](https://www.rotoballer.com)
-#  NFL Player Props: Expert Prop Bet Picks For Week 10 (2026) 
-[ See RotoBaller at the top of Google ](https://google.com/preferences/source?q=rotoballer.com) by [Keith Eyster](https://www.rotoballer.com/author/eys819 "Posts by Keith Eyster")
-Link copied to clipboard!
-Reddit Twitter Facebook Copy link
-[ @eys819dfs ](https://twitter.com/eys819dfs)
-![Bryce Young - Fantasy Football Rankings, NFL Injury News, DFS Lineup Picks](https://www.rotoballer.com/wp-content/uploads/2024/12/Bryce-Young-Fantasy-Football-Rankings-NFL-Injury-News-DFS-Lineup-Picks-icon-rotoballer-1220x813-1220x813.jpg) Nov 14, 2026, 10:00 AM ET
-Keith's Week 10 NFL player props picks and anytime touchdown wagers. Get his best Week 10 NFL player prop bets with odds, expert analysis and predictions. Top weekly NFL prop bets and winning picks.
-We are back for the Week 10 NFL Props article! This week brings another opportunity to capitalize on emerging trends, identify favorable matchups, and find value before the betting market fully adjusts.
-The mission here is to uncover value on the top player props as the season unfolds. With three weeks in the books, we're starting to see how teams are using their players, along with early clues about offensive schemes, player roles, and matchups to target. Of course, it's still a small sample, so we'll need to balance those initial results with what we already know about these players and teams.
-Make sure you're following [RotoBaller on X](https://x.com/RotoBaller) and download the [RotoBaller app](https://www.rotoballer.com/app) for all your fantasy football and betting needs. Let’s dive into some of my favorite player props for Week 10 of the 2026 NFL season.
-**_Bookmark our updated and revamped[fantasy football rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) portal for all league formats!_**   
-  
-[PPR rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=ppr) | [Half-PPR rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=half-ppr) | [Standard rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=standard) | [Rookie rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=rookie&league=Overall) | [Superflex rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=superflex&league=Overall) | [Dynasty rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860/rankings?spreadsheet=dynasty&league=Overall) | [Who To Start?](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups) | [Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates) | [Matchup Ratings](https://www.rotoballer.com/fantasy-football-projections-matchup-ratings) | [Strength of Schedule](https://www.rotoballer.com/nfl-fantasy-football-strength-of-schedule)
-## Week 10 Passing Prop Bets
-**[Jared Goff](https://www.rotoballer.com/nfl/player/17922/Jared+Goff) OVER 268.5 Passing Yards (-114) FanDuel Sportsbook**
-Goff is averaging more than 266 passing yards per game. He has failed to reach 180 yards in each of his last two games, but he exceeded 268 passing yards in each of the five games before that.
-Detroit has one of the league's most explosive passing offenses, and Goff has multiple reliable options to attack New England's secondary.
-The Patriots are coming off a game in which they surrendered 45 points to Green Bay, allowing [Jordan Love](https://www.rotoballer.com/nfl/player/21841/Jordan+Love) to throw for 372 yards. They have allowed the seventh-most passing yards per game.
-If the Patriots keep the game competitive and force Detroit to keep throwing, Goff should have plenty of chances to reach 264 yards.
-_Compare at 52% on[Novig](https://novig.onelink.me/JHQQ/nfg364h9)._
-**[Bryce Young](https://www.rotoballer.com/nfl/player/23132/Bryce+Young) OVER 35.5 Passing Attempts (-114) FanDuel Sportsbook**
-Young has gone over this number in seven of his eight games this season, averaging 38.5 attempts per game. He has also attempted at least 39 passes in three of his last four outings, which would easily cash this prop.
-The Panthers' offense has been productive through the air, and if New Orleans can keep the game competitive or force Carolina to play from behind, Young should be asked to throw frequently.
-New Orleans has allowed the fifth-most passing yards per game. Both teams play at the league's fastest paces, ranking first and second in seconds per play, respectively. The elevated play volume should give Young plenty of chances to throw more than 35.5 times.
-_Compare at 53% on[Novig](https://novig.onelink.me/JHQQ/nfg364h9)._
-## Week 10 Rushing Prop Bets
-  
-**_[Gain full access](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=nflprops) to all of our NFL Premium content, tools, and picks, including Team Sync, the Lineup Optimizer, Cheat Sheet, Betting/DFS/Prop tools, and more..._**
-* * *
-Unlock RotoBaller Premium 
-This content requires **NFL Gold**
-Gain access today:
-[ 🏆 All Sports Bundle Best Value ](https://www.rotoballer.com/all-premium-access-nfl-mlb-nba-nhl?pa=nflprops#table)
-Or choose a sport
-[ 🏈 NFL ](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=nflprops) [ ⚾ MLB ](https://www.rotoballer.com/fantasy-baseball-cheat-sheet-draft-kit?pa=nflprops) [ 🏀 NBA ](https://www.rotoballer.com/nba-dfs-lineup-generator-optimizer-daily-fantasy-draftkings-fanduel?pa=nflprops) [ 🏒 NHL ](https://www.rotoballer.com/daily-fantasy-hockey-premium-nhl-dfs-for-draftkings-fanduel?pa=nflprops) [ ⛳ PGA ](https://www.rotoballer.com/fantasy-pga-premium-golf-dfs-for-draftkings-fanduel?pa=nflprops) [ 🏎️ NAS/F1 ](https://www.rotoballer.com/daily-fantasy-nascar-premium-dfs-draftkings-fanduel?pa=nflprops) [ 📊 Betting ](https://www.rotoballer.com/expert-betting-picks?pa=nflprops) [ 🎯 Props ](https://www.rotoballer.com/props?pa=nflprops) [ 🎓 CFB ](https://www.rotoballer.com/daily-fantasy-college-football-cfb-dfs-premium-for-draftkings-fanduel?pa=nflprops) [ 🥊 MMA ](https://www.rotoballer.com/daily-fantasy-mma-ufc-dfs-premium-for-draftkings-fanduel?pa=nflprops) [ 🎮 eSports ](https://www.rotoballer.com/daily-fantasy-esports-premium-dfs-draftkings-fanduel?pa=nflprops)
-Already a premium member? [Login here](https://www.rotoballer.com/wp-login.php?pa=nflprops)
-Think your access is wrong? Contact us here
-#### [REAL-TIME FANTASY NEWS](https://www.rotoballer.com/player-news)
-  * [NFL](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-  * [MLB](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-  * [NBA](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-  * [PGA](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-  * [NHL](https://www.rotoballer.com/week-10-nfl-props-best-player-prop-bets-2026/1993262)
-
-
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Bertuzzi1 min ago   
-Hurt Versus Jets After Scoring](https://www.rotoballer.com/player-news/tyler-bertuzzi-hurt-versus-jets-after-scoring/1994346)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg13 min ago   
-Makes Precautionary Exit Versus Panthers](https://www.rotoballer.com/player-news/philip-broberg-makes-precautionary-exit-versus-panthers/1994332)
-[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) Daniel Gafford16 min ago   
-Exits Saturday with Stinger](https://www.rotoballer.com/player-news/daniel-gafford-exits-saturday-with-stinger/1994329)
-[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tyjae Spears19 min ago   
-Expected to Play vs. Jaguars in Week 10](https://www.rotoballer.com/player-news/tyjae-spears-knee-expected-to-play-vs-jaguars/1994226)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Stanley21 min ago   
-Sustains Lower-Body Injury Saturday](https://www.rotoballer.com/player-news/logan-stanley-sustains-lower-body-injury-saturday/1994326)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison24 min ago   
-a Game-Time Decision for Week 10](https://www.rotoballer.com/player-news/jordan-addison-thumb-will-be-a-game-time-decision-sunday/1994237)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) Joel Embiid26 min ago   
-Ruled Out Sunday Against Indiana](https://www.rotoballer.com/player-news/joel-embiid-ruled-out-sunday-against-indiana/1994323)
-[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Denzel Boston28 min ago   
-Expected to Play vs. Houston in Week 10](https://www.rotoballer.com/player-news/denzel-boston-toe-expected-to-play-vs-houston/1994231)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Bo Horvat29 min ago   
-Exits Early Versus Ducks](https://www.rotoballer.com/player-news/bo-horvat-exits-early-versus-ducks/1994320)
-[![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Ajay Mitchell34 min ago   
-Carries Questionable Tag for Sunday](https://www.rotoballer.com/player-news/ajay-mitchell-carries-questionable-tag-for-sunday/1994315)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Andrew Nembhard43 min ago   
-Listed as Questionable Against the 76ers](https://www.rotoballer.com/player-news/andrew-nembhard-listed-as-questionable-against-the-76ers/1994298)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa49 min ago   
-Iffy for Sunday](https://www.rotoballer.com/player-news/precious-achiuwa-iffy-for-sunday/1994294)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Garrett Wilson59 min ago   
-Clears Concussion Protocol, Will Play on Sunday](https://www.rotoballer.com/player-news/garrett-wilson-cleared-concussion-protocol-will-play-on-sunday/1994229)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Keegan Murray1 h ago   
-Questionable Against Thunder](https://www.rotoballer.com/player-news/keegan-murray-misses-saturdays-practice-due-to-illness/1993983)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Amon-Ra St. Brown1 h ago   
-Officially Active for Week 10 Against the Patriots](https://www.rotoballer.com/player-news/amon-ra-st-brown-ribs-questionable-expected-to-play-vs-new-england/1994235)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown1 h ago   
-Officially Active to Face the Lions in Germany](https://www.rotoballer.com/player-news/a-j-brown-rhamondre-stevenson-expected-to-play-in-munich/1994218)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson1 h ago   
-Active for Week 10 Against the Lions](https://www.rotoballer.com/player-news/rhamondre-stevenson-active-for-week-10-against-the-lions/1994279)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Kyler Murray10 h ago   
-Vikings Targeting Week 12 for Kyler Murray's Return](https://www.rotoballer.com/player-news/vikings-targeting-week-12-for-kyler-murrays-return/1994197)
-[![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) Alexandre Sarr11 h ago   
-Listed as Questionable for Sunday](https://www.rotoballer.com/player-news/alex-sarr-questionable-for-sundays-game-vs-houston-with-an-illness/1993986)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Duncan Robinson11 h ago   
-Questionable to Return Saturday vs. Heat](https://www.rotoballer.com/player-news/duncan-robinson-left-thigh-questionable-to-return-saturday-vs-heat/1994170)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Tobias Harris11 h ago   
-Making Progress Toward Return](https://www.rotoballer.com/player-news/tobias-harris-making-progress-toward-return/1993970)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Brandon Miller12 h ago   
-Off the Injury Report for Sunday](https://www.rotoballer.com/player-news/brandon-miller-off-the-injury-report-for-sunday/1994158)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaylen Clark12 h ago   
-Exits with Hamstring Injury](https://www.rotoballer.com/player-news/jaylen-clark-right-hamstring-out-for-the-rest-of-saturdays-game-vs-bulls/1994135)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson12 h ago   
-II Exits with Left-Foot Injury](https://www.rotoballer.com/player-news/gg-jackson-ii-left-foot-out-for-the-rest-of-saturdays-game-vs-nets/1994126)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes12 h ago   
-Won't Face San Antonio on Sunday](https://www.rotoballer.com/player-news/jaxson-hayes-left-knee-out-sunday-vs-spurs/1994082)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves12 h ago   
-Ruled Out Sunday Against Suns](https://www.rotoballer.com/player-news/austin-reaves-heel-and-cameron-carr-illness-ruled-out-sunday-vs-suns/1994085)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Klay Thompson13 h ago   
-Upgraded to Available for Saturday](https://www.rotoballer.com/player-news/klay-thompson-upgraded-to-available-for-saturday/1994114)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo13 h ago   
-Good to Go Saturday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-right-wrist-and-klay-thompson-left-ankle-available-vs-pistons-on/1994043)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey13 h ago   
-Downgraded to Out for Saturday](https://www.rotoballer.com/player-news/zach-edey-ankle-out-saturday-vs-brooklyn/1994095)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Ty Jerome13 h ago   
-Sidelined Against the Nets](https://www.rotoballer.com/player-news/ty-jerome-sidelined-against-the-nets/1994104)
-[![](https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg) Nolan Traoré13 h ago   
-Nolan Traore Available Saturday Against Grizzlies](https://www.rotoballer.com/player-news/nolan-traore-calf-available-saturday-for-nets-vs-grizzlies/1994053)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Peyton Watson13 h ago   
-Sidelined Saturday Versus Mavericks](https://www.rotoballer.com/player-news/peyton-watson-sidelined-saturday-versus-mavericks/1994098)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Donovan Mitchell14 h ago   
-Out Saturday Against Dallas](https://www.rotoballer.com/player-news/donovan-mitchell-out-saturday-against-dallas/1994093)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Conor Garland14 h ago   
-Out Week-to-Week With Upper-Body Injury](https://www.rotoballer.com/player-news/conor-garland-out-week-to-week-with-upper-body-injury/1994073)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Anthony Cirelli14 h ago   
-Misses Second Straight Game](https://www.rotoballer.com/player-news/anthony-cirelli-misses-second-straight-game/1994066)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mathew Barzal15 h ago   
-Set for Season Debut Saturday](https://www.rotoballer.com/player-news/mathew-barzal-set-for-season-debut-saturday/1994061)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Artemi Panarin15 h ago   
-Unavailable Against Flames](https://www.rotoballer.com/player-news/artemi-panarin-unavailable-against-flames/1994057)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Chris Kreider15 h ago   
-Ruled Out for 6-8 Weeks](https://www.rotoballer.com/player-news/chris-kreider-ruled-out-for-6-8-weeks/1994048)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar15 h ago   
-Unavailable for Two Weeks](https://www.rotoballer.com/player-news/cale-makar-unavailable-for-two-weeks/1994041)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Nathan MacKinnon15 h ago   
-to Miss One Month](https://www.rotoballer.com/player-news/nathan-mackinnon-to-miss-one-month/1994039)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Ladd McConkey16 h ago   
-Questionable for Monday Night Against Baltimore](https://www.rotoballer.com/player-news/ladd-mcconkey-and-david-njoku-questionable-for-week-10-at-baltimore-monday-night/1993961)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) TreVeyon Henderson17 h ago   
-Lands on Injured Reserve](https://www.rotoballer.com/player-news/treveyon-henderson-placed-on-injured-reserve/1993928)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg) Jonathon Brooks19 h ago   
-Downgraded to Out vs. Saints](https://www.rotoballer.com/player-news/jonathon-brooks-downgraded-to-out-vs-saints/1993861)
-[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) David Montgomery20 h ago   
-Ruled Out vs. Cleveland](https://www.rotoballer.com/player-news/david-montgomery-groin-ruled-out-vs-cleveland/1993814)
-[![](https://upload.wikimedia.org/wikipedia/commons/d/de/Pittsburgh_Steelers_logo.svg) Pat Freiermuth20 h ago   
-Questionable vs. Cincinnati With Illness](https://www.rotoballer.com/player-news/pat-freiermuth-illness-questionable-vs-cincinnati/1993789)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker21 h ago   
-Ruled Out for Week 10 vs. Falcons](https://www.rotoballer.com/player-news/kenneth-walker-groin-out-vs-falcons/1993709)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/New_Orleans_Saints_logo.svg) Travis Etienne Jr.22 h ago   
-Activated From Injured Reserve, Expected to Play Sunday](https://www.rotoballer.com/player-news/travis-etienne-jr-activated-from-injured-reserve-in-line-to-play-sunday-vs-panthers/1993650)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker22 h ago   
-"Not a Ton of Optimism" for Kenneth Walker's Availability for Sunday](https://www.rotoballer.com/player-news/not-a-ton-of-optimism-for-kenneth-walker-iiis-availability-for-sunday/1993638)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Rhamondre Stevenson22 h ago   
-"Pushing to Try to Play" Versus Lions](https://www.rotoballer.com/player-news/rhamondre-stevenson-pushing-to-try-to-play-versus-lions/1993612)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) A.J. Brown23 h ago   
-"Has a Chance" to Play Sunday vs. Lions in Germany](https://www.rotoballer.com/player-news/a-j-brown-has-a-chance-to-play-sunday/1993560)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) J.T. Miller23 h ago   
-Records Two Assists Against Canucks](https://www.rotoballer.com/player-news/j-t-miller-records-two-assists-against-canucks/1993543)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kaelon Black23 h ago   
-Remains a Top Waiver-Wire Stash Ahead of Week 10](https://www.rotoballer.com/player-news/kaelon-black-remains-a-top-waiver-wire-stash-ahead-of-week-10/1993540)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mitch Marner23 h ago   
-Extends Home Point Streak to 10 Games](https://www.rotoballer.com/player-news/mitch-marner-extends-home-point-streak-to-10-games/1993529)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Emmett Johnson23 h ago   
-a Priority Late-Week Waiver-Wire Add](https://www.rotoballer.com/player-news/emmett-johnson-a-priority-late-week-waiver-wire-add/1993523)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Roman Josi23 h ago   
-Adds Another Assist to His Tally](https://www.rotoballer.com/player-news/roman-josi-adds-another-assist-to-his-tally/1993519)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan O'Reilly23 h ago   
-Scores Twice in Friday's Victory](https://www.rotoballer.com/player-news/ryan-oreilly-scores-twice-in-fridays-victory/1993511)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs1 d ago   
-has Successful Surgery, Expected Back in the "Next Few Weeks"](https://www.rotoballer.com/player-news/josh-jacobs-finger-had-successful-surgery-expected-back-in-the-next-few-weeks/1993490)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Johnathan Kovacevic1 d ago   
-Moved to Injured Reserve](https://www.rotoballer.com/player-news/johnathan-kovacevic-moved-to-injured-reserve/1993498)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Isak Rosen1 d ago   
-Out Saturday](https://www.rotoballer.com/player-news/isak-rosen-out-saturday/1993482)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Logan Cooley1 d ago   
-Ruled Out for Saturday](https://www.rotoballer.com/player-news/logan-cooley-ruled-out-for-saturday/1993473)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Alexander Wennberg1 d ago   
-a Game-Time Decision Saturday](https://www.rotoballer.com/player-news/alexander-wennberg-a-game-time-decision-saturday/1992978)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Miro Heiskanen1 d ago   
-Still Out Saturday](https://www.rotoballer.com/player-news/miro-heiskanen-still-out-saturday/1992951)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Lindgren1 d ago   
-a Game-Time Call Saturday](https://www.rotoballer.com/player-news/ryan-lindgren-a-game-time-call-saturday/1992934)
-[![](https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg) Jake Bauers1 d ago   
-Red Sox Agree on Four-Year Contract](https://www.rotoballer.com/player-news/jake-bauers-red-sox-agree-on-four-year-contract/1992541)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge1 d ago   
-Yankees May Give Aaron Judge More DH Days](https://www.rotoballer.com/player-news/yankees-may-give-aaron-judge-more-dh-days/1992382)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Chicago_White_Sox.svg) Will Venable1 d ago   
-Named AL Manager of the Year](https://www.rotoballer.com/player-news/will-venable-named-al-manager-of-the-year/1992308)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Milwaukee Brewers1 d ago   
-Pat Murphy Wins Manager of the Year for Third Straight Season](https://www.rotoballer.com/player-news/pat-murphy-wins-manager-of-the-year-for-third-straight-season/1992296)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Pete Crow-Armstrong1 d ago   
-Named NL Most Valuable Player](https://www.rotoballer.com/player-news/pete-crow-armstrong-named-nl-most-valuable-player/1992279)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Houston-Astros-Logo.svg) Yordan Alvarez1 d ago   
-Named AL Most Valuable Player](https://www.rotoballer.com/player-news/yordan-alvarez-named-al-most-valuable-player/1992272)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Evan Phillips2 d ago   
-Braves Agree on Three-Year Deal](https://www.rotoballer.com/player-news/evan-phillips-braves-agree-on-three-year-deal/1991645)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
-Mets Scheduled to Meet With Tarik Skubal Next Week](https://www.rotoballer.com/player-news/mets-scheduled-to-meet-with-tarik-skubal-next-week/1991520)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Spencer Schwellenbach3 d ago   
-Unlikely to be Ready for Start of 2027 Season](https://www.rotoballer.com/player-news/spencer-schwellenbach-unlikely-to-be-ready-for-start-of-2027-season/1991088)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Aaron Judge3 d ago   
-in a "Good Place" After Follow-Up Visit](https://www.rotoballer.com/player-news/aaron-judge-in-a-good-place-after-follow-up-visit/1991060)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Emilio Pagán3 d ago   
-Tigers Sign Emilio Pagan to One-Year Deal](https://www.rotoballer.com/player-news/tigers-sign-emilio-pagan-to-one-year-deal/1991032)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg) Jacob Misiorowski3 d ago   
-Wins NL Cy Young Award](https://www.rotoballer.com/player-news/jacob-misiorowski-wins-nl-cy-young-award/1991028)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Cam Schlittler3 d ago   
-Wins AL Cy Young Award](https://www.rotoballer.com/player-news/cam-schlittler-wins-al-cy-young-award/1991022)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Brian Harman3 d ago   
-to Continue Solid Form at Austin Championship](https://www.rotoballer.com/player-news/brian-harman-to-continue-solid-form-at-austin-championship/1990766)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Max Homa3 d ago   
-Still Searching for Consistent Iron Play in Year's Penultimate Event](https://www.rotoballer.com/player-news/max-homa-still-searching-for-consistent-iron-play-in-years-penultimate-event/1990520)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) PGA3 d ago   
-Haotong Li Could Be a Boom-or-Bust Option at Austin Championship](https://www.rotoballer.com/player-news/haotong-li-could-be-a-boom-or-bust-option-at-austin-championship/1990433)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Ben Kohles3 d ago   
-Looks to Stay Hot at Austin Championship](https://www.rotoballer.com/player-news/ben-kohles-looks-to-stay-hot-at-austin-championship/1990422)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Stephan Jaeger3 d ago   
-Looking to Keep Strong Fall Run Going](https://www.rotoballer.com/player-news/stephan-jaeger-looking-to-keep-strong-fall-run-going/1990398)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Rico Hoey3 d ago   
-Looking to Put Together Another Strong Week in Austin](https://www.rotoballer.com/player-news/rico-hoey-looking-to-put-together-another-strong-week-at-austin-championship/1990379)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Pierceson Coody3 d ago   
-Looking to Carry Momentum Into Austin Championship](https://www.rotoballer.com/player-news/pierceson-coody-looking-to-carry-momentum-into-austin-championship/1990367)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Christiaan Bezuidenhout3 d ago   
-Looking to Rebound at Austin Championship](https://www.rotoballer.com/player-news/christiaan-bezuidenhout-looking-to-rebound-at-austin-championship/1990354)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Riley Greene4 d ago   
-Mentioned as a Trade Candidate](https://www.rotoballer.com/player-news/riley-greene-mentioned-as-a-trade-candidate/1990077)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Emiliano Grillo4 d ago   
-Needs A Strong Performance at Austin Championship](https://www.rotoballer.com/player-news/emiliano-grillo-needs-a-strong-performance-at-austin-championship/1990067)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Andrew Novak4 d ago   
-Secures First Win of 2026 Season](https://www.rotoballer.com/player-news/andrew-novak-secures-first-win-of-2026-season/1990062)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Michael Kim4 d ago   
-Continues to Play Well Through Fall Swing](https://www.rotoballer.com/player-news/michael-kim-continues-play-well-through-fall-swing/1990060)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Billy Horschel4 d ago   
-Sits Just Inside Top 100 in FedEx Cup Standings](https://www.rotoballer.com/player-news/billy-horschel-sits-just-inside-top-100-in-fedex-cup-standings/1990057)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Harry Hall4 d ago   
-Rattles Off Third Straight Top-25 Finish](https://www.rotoballer.com/player-news/harry-hall-rattles-off-third-straight-top-25-finish/1990051)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Luke Clanton4 d ago   
-Having Solid Fall Season Heading to Austin Championship](https://www.rotoballer.com/player-news/luke-clanton-having-solid-fall-season-heading-to-austin-championship/1990049)
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg) Max Fried4 d ago   
-has Bone Spur Removed, Should be Ready for Spring Training](https://www.rotoballer.com/player-news/max-fried-has-bone-spur-removed-should-be-ready-for-spring-training/1990004)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/01/Cincinnati_Reds_Logo.svg) Sal Stewart4 d ago   
-Named NL Rookie of the Year](https://www.rotoballer.com/player-news/sal-stewart-named-nl-rookie-of-the-year/1989997)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Kevin McGonigle4 d ago   
-Named AL Rookie of the Year](https://www.rotoballer.com/player-news/kevin-mcgonigle-named-al-rookie-of-the-year/1989995)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Jackson Koivun4 d ago   
-Looks to Get Back Into Contention Mix in Austin](https://www.rotoballer.com/player-news/jackson-koivun-looks-to-get-back-into-contention-mix-at-austin-championship/1989589)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Joe Highsmith4 d ago   
-Continues to Backslide into Irrelevancy](https://www.rotoballer.com/player-news/joe-highsmith-continues-to-backslide-into-irrelevancy-as-the-fall-series-winds-down/1989559)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Blades Brown4 d ago   
-Keeping The Ball Rolling This Week in Austin](https://www.rotoballer.com/player-news/blades-brown-keeping-the-ball-rolling-this-week-in-austin-following-historic-win/1989535)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Matt McCarty5 d ago   
-Comes to Austin After a Month Off](https://www.rotoballer.com/player-news/matt-mccarty-comes-to-austin-after-a-month-off/1989043)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Chris Kirk5 d ago   
-Riding a Fall Wave of Momentum Heading to Texas](https://www.rotoballer.com/player-news/chris-kirk-riding-a-fall-wave-of-momentum-heading-to-texas/1989035)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Mackenzie Hughes5 d ago   
-an All-or-Nothing Possibility at Austin Championship](https://www.rotoballer.com/player-news/mackenzie-hughes-all-or-nothing-possibility-at-austin-championship/1989021)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/pga/pga.png) Tom Hoge5 d ago   
-Heads to Austin Championship After Another Missed Cut](https://www.rotoballer.com/player-news/tom-hoge-heads-to-austin-championship-after-another-missed-cut/1989012)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal5 d ago   
-Mets Could be the Current Favorites to Land Tarik Skubal](https://www.rotoballer.com/player-news/mets-could-be-the-current-favorites-to-land-tarik-skubal/1988793)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ronald Acuña Jr.5 d ago   
-Ronald Acuna Jr. "Highly Unlikely" to be Traded this Offseason](https://www.rotoballer.com/player-news/ronald-acuna-jr-highly-unlikely-to-be-traded-this-offseason/1988503)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal5 d ago   
-Cubs Unlikely to Enter Bidding War for Tarik Skubal](https://www.rotoballer.com/player-news/cubs-unlikely-to-enter-bidding-war-for-tarik-skubal/1988396)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg) Corbin Carroll5 d ago   
-has Offseason Elbow Surgery](https://www.rotoballer.com/player-news/corbin-carroll-has-offseason-elbow-surgery/1988382)
-[Power your platform with our news](https://www.rotoballer.com/free-fantasy-sports-news-widgets-and-apis/335167)
-[View all NFL News](https://www.rotoballer.com/player-news?sport=nfl)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
-####  [RANKINGS](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860) HALF-PPR STD PPR
-QB
-RB
-WR
-TE
-K
-DEF
-1
-![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg)
-[Jahmyr Gibbs](http://www.rotoballer.com/nfl/player/23200/Jahmyr+Gibbs) DET
-1
-2
-![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
-[Christian McCaffrey](http://www.rotoballer.com/nfl/player/18877/Christian+McCaffrey) SF
-2
-3
-![](https://upload.wikimedia.org/wikipedia/en/c/c5/Atlanta_Falcons_logo.svg)
-[Bijan Robinson](http://www.rotoballer.com/nfl/player/23189/Bijan+Robinson) ATL
-4
-4
-![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
-[James Cook III](http://www.rotoballer.com/nfl/player/23247/James+Cook+III) BUF
-5
-5
-![](https://upload.wikimedia.org/wikipedia/en/1/1c/Carolina_Panthers_logo.svg)
-[Chuba Hubbard](http://www.rotoballer.com/nfl/player/21691/Chuba+Hubbard) CAR
-7
-6
-![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg)
-[Javonte Williams](http://www.rotoballer.com/nfl/player/22558/Javonte+Williams) DAL
-8
-7
-![](https://upload.wikimedia.org/wikipedia/commons/d/de/Pittsburgh_Steelers_logo.svg)
-[Jaylen Warren](http://www.rotoballer.com/nfl/player/23479/Jaylen+Warren) PIT
-10
-8
-![](https://upload.wikimedia.org/wikipedia/en/1/16/Baltimore_Ravens_logo.svg)
-[Derrick Henry](http://www.rotoballer.com/nfl/player/17959/Derrick+Henry) BAL
-12
-9
-![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg)
-[Kyren Williams](http://www.rotoballer.com/nfl/player/23212/Kyren+Williams) LAR
-13
-10
-![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
-[Emmett Johnson](http://www.rotoballer.com/nfl/player/26835/Emmett+Johnson) KC
-15
-[View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
-######  RANKINGS  Roto Points Dynasty
-C
-1B
-2B
-3B
-SS
-OF
-SP
-RP
-1
-![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg)
-[Pete Crow-Armstrong](https://www.rotoballer.com/mlb/player/691718/Pete+Crow-Armstrong) CHC
-1
-2
-![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
-[Fernando Tatis Jr.](https://www.rotoballer.com/mlb/player/665487/Fernando+Tatis%20Jr.) SD
-6
-3
-![](https://upload.wikimedia.org/wikipedia/en/7/7b/New_York_Mets.svg)
-[Juan Soto](https://www.rotoballer.com/mlb/player/665742/Juan+Soto) NYM
-8
-4
-![](https://upload.wikimedia.org/wikipedia/commons/f/fe/New_York_Yankees_Primary_Logo.svg)
-[Aaron Judge](https://www.rotoballer.com/mlb/player/592450/Aaron+Judge) NYY
-9
-5
-![](https://upload.wikimedia.org/wikipedia/en/b/b8/Milwaukee_Brewers_logo.svg)
-[Jackson Chourio](https://www.rotoballer.com/mlb/player/694192/Jackson+Chourio) MIL
-12
-6
-![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Washington_Nationals_logo.svg)
-[James Wood](https://www.rotoballer.com/mlb/player/695578/James+Wood) WSH
-13
-7
-![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg)
-[Ronald Acuña Jr.](https://www.rotoballer.com/mlb/player/660670/Ronald+Acu%C3%B1a%20Jr.) ATL
-15
-8
-![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg)
-[Corbin Carroll](https://www.rotoballer.com/mlb/player/682998/Corbin+Carroll) ARI
-16
-9
-![](https://upload.wikimedia.org/wikipedia/en/6/6d/Seattle_Mariners_logo_%28low_res%29.svg)
-[Julio Rodríguez](https://www.rotoballer.com/mlb/player/677594/Julio+Rodr%C3%ADguez) SEA
-20
-10
-![](https://upload.wikimedia.org/wikipedia/commons/e/e2/SD_Logo_Brown.svg)
-[Jackson Merrill](https://www.rotoballer.com/mlb/player/701538/Jackson+Merrill) SD
-27
-[View All Players](https://www.rotoballer.com/fantasy-baseball-rankings/440514)
-#### [MORE RECENT ARTICLES](https://www.rotoballer.com/category/nfl/fantasy-football-advice-analysis)
-[ Patriots vs. Lions: Munich Game Matchups ](https://www.rotoballer.com/fantasy-football-start-em-sit-em-munich-game-patriots-vs-lions-week-10-2026/1993956)
-[ Start/Sit Chart - All Week 10 MNF Matchups ](https://www.rotoballer.com/mnf-start-sit-chart-week-10-fantasy-football-matchups-for-monday-night-football-2026/1992010)
-[ RotoBaller Staff Bold Predictions ](https://www.rotoballer.com/9-fantasy-football-bold-predictions-for-week-10-rotoballer-staff-picks/1992009)
-[ Frank Ammirante's Week 10 Start/Sits ](https://www.rotoballer.com/frank-ammirantes-fantasy-football-lineup-picks-week-10-sleepers-busts-2026/1993772)
-##### friends of rotoballer
-[![](https://cdn.rotoballer.com/2021/06/siriusxm-fantasy-sports-radio1.png)](https://www.siriusxm.com/fantasysportsradio/weeklyschedule) ![](https://cdn.rotoballer.com/2021/06/sportsdata.io-logo.png)![](https://www.rotoballer.com/wp-content/uploads/2026/03/Novig-black-logo.png) ![](https://cdn.rotoballer.com/2021/06/dfs-army-logo.png)![](https://cdn.rotoballer.com/2017/05/real-time-fantasy-sports-1.png)![](https://cdn.rotoballer.com/2021/06/fleaflicker-logo.png) [![](https://cdn.rotoballer.com/2021/04/prize-picks-logo.png)](https://www.rotoballer.com/prize) ![](https://www.rotoballer.com/wp-content/uploads/2023/09/ffpc-logo-small.png)![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-logo.png)![](https://cdn.rotoballer.com/2024/08/sharp-app-logo.png)![](https://cdn.rotoballer.com/2023/05/LineStar-DFS-App-Logo.png) ![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-logo.png)
-  * [CONTACT US](https://www.rotoballer.com/contact-us)
-  * [ADVERTISE](https://www.rotoballer.com/partners)
-  * [TESTIMONIALS](https://www.rotoballer.com/testimonials)
-  * [NEWSLETTER](http://eepurl.com/gfwXen "FREE EMAIL NEWSLETTER")
-  * [SHIRTS & HATS](https://customtshirtsny.com/rotoballer/shop/home "ROTOBALLER CLOTHING STORE")
-  * [RB CHALLENGE](https://www.rotoballer.com/rotoballer-challenge-homepage "ROTOBALLER CHALLENGE LEAGUES HOMEPAGE")
-  * [ABOUT US](https://www.rotoballer.com/rotoballer-about-us)
-  * [AUTHORS](https://www.rotoballer.com/rotoballer-authors)
-  * [PRIVACY POLICY](https://www.rotoballer.com/privacy-policy)
-  * [TERMS OF USE](https://www.rotoballer.com/terms-of-use)
-
-
-[ ![](https://www.rotoballer.com/wp-content/uploads/2024/11/twitter-logo-X-black-icon.png) ](https://twitter.com/rotoballer) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/reddit-round-icon.png) ](https://www.reddit.com/user/RotoBaller) [ ![](https://www.rotoballer.com/wp-content/uploads/2020/01/facebook-round-icon.png) ](https://www.facebook.com/rotoballin)
-We Are Your Secret Weapon | Copyright © 2011 - 2026 | Win Big with RotoBaller
-![](https://lantern.roeye.com/track.php?fingerprint=99d9127c-f4ec-494c-9260-8e6d6b3adb9d&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Fweek-10-nfl-props-best-player-prop-bets-2026%2F1993262&useragent=Mozilla%2F5.0%20\(X11%3B%20Linux%20x86_64\)%20AppleWebKit%2F537.36%20Chrome%2F116.0.0.0%20Safari%2F537.36&site=128693)![](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 Information from your device can be used to personalize your ad experience.   
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
