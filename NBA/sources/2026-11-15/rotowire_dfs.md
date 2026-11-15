@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 18:49 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 15
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Sunday’s nine-game Nov. 15 NBA slate.
@@ -150,6 +150,11 @@ Kansas City Chiefs
 
 [More NFL News](https://www.rotowire.com/football/news.php)
   * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
+[Ryan Nugent-Hopkins](https://www.rotowire.com/hockey/player/ryan-nugent-hopkins-3743)
+Not playing Sunday
+NHL
+Edmonton Oilers
+  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
 [Tristan Jarry](https://www.rotowire.com/hockey/player/tristan-jarry-4198)
 Starting against Philadelphia
 NHL
@@ -169,11 +174,6 @@ Montreal Canadiens
 Facing Ducks Sunday
 NHL
 Calgary Flames
-  * ![Nashville Predators](https://assets.rotowire.com/images/teamlogo/hockey/100NSH.png?v=5)
-[Juuse Saros](https://www.rotowire.com/hockey/player/juuse-saros-4729)
-Tending twine Sunday
-NHL
-Nashville Predators
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

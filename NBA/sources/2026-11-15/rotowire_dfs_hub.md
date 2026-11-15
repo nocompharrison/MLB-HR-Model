@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-15 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-15 18:49 ET -->
 
 # NBA DFS Picks Today
 November 15, 2026
@@ -100,20 +100,20 @@ RaptorsConfirmedHome
 | SG  | RJ Barrett  | $8,200  | 34.9  |  
 **HOU @ WSH**
 O/U 223.57:00 PM ET
-RocketsExpectedAway
-_Implied_**115.5** _Spread_**-7.5**  
+RocketsConfirmedAway
+_Implied_**116.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Steven Adams  | $4,300  | 12.9  |  
 | PF  | Alperen Sengun  | $9,400  | 44.4  |  
 | PG  | Amen Thompson  | $6,900  | 38.9  |  
-| SF  | Jabari Smith  | $6,500  | 29.3  |  
+| SF  | Jabari Smith  | $6,500  | 29.2  |  
 | SG  | Kevin Durant  | $7,500  | 39.2  |  
-WizardsExpectedHome
-_Implied_**108.0** _Spread_**+7.5**  
+WizardsConfirmedHome
+_Implied_**107.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 25.5  |  
+| C  | Alex Sarr  | -  | 25.6  |  
 | PF  | Anthony Davis  | $9,200  | 42.1  |  
 | PG  | Trae Young  | $7,600  | 38.3  |  
 | SF  | AJ Dybantsa  | $6,400  | 28.3  |  
@@ -141,23 +141,23 @@ _Implied_**112.5** _Spread_**+8.5**
 **OKC @ SAC**
 O/U 223.59:00 PM ET
 ThunderExpectedAway
-_Implied_**117.0** _Spread_**-10.5**  
+_Implied_**117.5** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $6,700  | 30.4  |  
 | PF  | Aday Mara  | $5,700  | 21.1  |  
-| PG  | Shai Gilgeous-Alexander  | $10,600  | 51.8  |  
-| SF  | Ajay MitchellQ  | $6,800  | 33.6  |  
-| SG  | Jared McCain  | $6,100  | 30.1  |  
+| PG  | Shai Gilgeous-Alexander  | $10,600  | 51.9  |  
+| SF  | Ajay MitchellQ  | $6,800  | 33.7  |  
+| SG  | Jared McCain  | $6,100  | 30.2  |  
 KingsExpectedHome
-_Implied_**106.5** _Spread_**+10.5**  
+_Implied_**106.0** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Domantas Sabonis  | $9,000  | 43.7  |  
-| PF  | Keegan Murray  | $5,400  | 23.1  |  
+| PF  | Keegan Murray  | $5,400  | 23.0  |  
 | PG  | Darius Acuff  | $8,900  | 35.5  |  
 | SF  | De'Andre Hunter  | $5,800  | 20.3  |  
-| SG  | Zach LaVine  | $6,900  | 27.2  |  
+| SG  | Zach LaVine  | $6,900  | 27.1  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -170,11 +170,11 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Marcus SasserDAL - PG  | @ BOS  | $3,000  | 25  | 20.8  | **6.94**  |  
-| 2  |  Reed SheppardHOU - SG  | @ WSH  | $4,500  | 30  | 29.7  | **6.61**  |  
+| 2  |  Reed SheppardHOU - SG  | @ WSH  | $4,500  | 30  | 29.7  | **6.60**  |  
 | 3  |  Kasparas JakucionisMIL - PG  | vs ATL  | $3,500  | 22  | 21.3  | **6.08**  |  
 | 4  |  Caleb MartinDAL - SG  | @ BOS  | $3,600  | 25  | 21.2  | **5.89**  |  
-| 5  |  Emanuel SharpSAC - PG  | vs OKC  | $3,100  | 20  | 17.9  | **5.78**  |  
-| 6  |  Myles TurnerMIL - C  | vs ATL  | $4,800  | 27  | 27.8  | **5.78**  |  
+| 5  |  Myles TurnerMIL - C  | vs ATL  | $4,800  | 27  | 27.8  | **5.78**  |  
+| 6  |  Emanuel SharpSAC - PG  | vs OKC  | $3,100  | 20  | 17.9  | **5.78**  |  
 | 7  |  CJ McCollumATL - PG  | @ MIL  | $5,500  | 29  | 31.5  | **5.73**  |  
 | 8  |  Josh HartNYK - SG  | @ TOR  | $5,700  | 32  | 32.2  | **5.65**  |  
 | 9  |  Amen ThompsonHOU - PG  | @ WSH  | $6,900  | 36  | 38.9  | **5.64**  |  
@@ -204,19 +204,19 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Josh HartNYK · SG/SF · NYK@TOR  | $5,700  | 10.7  | 32.2  | **60.4**  |   | +10.7  | +7  | 98  |  
 | 2  |  Bub CarringtonWAS · PG/SG · HOU@WAS  | $3,700  | 6.4  | 22.9  | **45.8**  |   | +10.6  | +5  | 95  |  
-| 3  |  Onyeka OkongwuATL · C · ATL@MIL  | $6,600  | 13.7  | 37.0  | **66.9**  |   | +10.7  | +5  | 93  |  
+| 3  |  Onyeka OkongwuATL · C · ATL@MIL  | $6,600  | 13.7  | 37.0  | **66.9**  |   | +10.6  | +5  | 93  |  
 | 4  |  Brayden BurriesMIL · PG/SG · ATL@MIL  | $5,300  | 9.3  | 28.6  | **54.8**  |   | +8.0  | +5  | 91  |  
 | 5  |  Caleb MartinDAL · SG/SF · DAL@BOS  | $3,600  | 5.8  | 21.2  | **43.2**  |   | +8.7  | +5  | 90  |  
-| 6  |  Mikal BridgesNYK · SF · NYK@TOR  | $4,700  | 7.0  | 25.2  | **49.3**  |   | +6.9  | +6  | 90  |  
+| 6  |  Mikal BridgesNYK · SF · NYK@TOR  | $4,700  | 7.0  | 25.2  | **49.3**  |   | +6.8  | +6  | 90  |  
 | 7  |  Reed SheppardHOU · SG · HOU@WAS  | $4,500  | 10.3  | 29.7  | **56.0**  |   | +15.0  | +2  | 85  |  
-| 8  |  Kasparas JakucionisMIL · PG/SF · ATL@MIL  | $3,500  | 6.3  | 21.3  | **43.3**  |   | +9.6  | +3  | 84  |  
-| 9  |  Tari EasonHOU · SF/PF · HOU@WAS  | $5,300  | 9.3  | 28.3  | **54.1**  |   | +7.3  | +3  | 84  |  
+| 8  |  Kasparas JakucionisMIL · PG/SF · ATL@MIL  | $3,500  | 6.3  | 21.3  | **43.3**  |   | +9.5  | +3  | 84  |  
+| 9  |  Tari EasonHOU · SF/PF · HOU@WAS  | $5,300  | 9.3  | 28.3  | **54.1**  |   | +7.2  | +3  | 84  |  
 | 10  |  Miles McBrideNYK · SG · NYK@TOR  | $3,800  | 5.9  | 20.9  | **42.5**  |   | +6.6  | +3  | 81  |  
 | 11  |  Kyshawn GeorgeWAS · SG · HOU@WAS  | $6,800  | 11.3  | 32.8  | **60.8**  |   | +3.1  | +5  | 80  |  
 | 12  |  Jalen JohnsonATL · PF · ATL@MIL  | $9,600  | 23.4  | 51.2  | **85.9**  |   | +7.9  | +2  | 79  |  
 | 13  |  Allen GravesTOR · SF/PF · NYK@TOR  | $4,000  | 4.8  | 19.1  | **39.8**  |   | +2.4  | +6  | 79  |  
-| 14  |  Emanuel SharpSAC · PG/SG · OKC@SAC  | $3,100  | 4.7  | 17.9  | **37.7**  |   | +6.8  | +3  | 79  |  
-| 15  |  Luguentz DortATL · SF/PF · ATL@MIL  | $4,500  | 6.0  | 22.0  | **44.2**  |   | +3.2  | +4  | 78  |  
+| 14  |  Emanuel SharpSAC · PG/SG · OKC@SAC  | $3,100  | 4.7  | 17.9  | **37.6**  |   | +6.7  | +3  | 79  |  
+| 15  |  Luguentz DortATL · SF/PF · ATL@MIL  | $4,500  | 6.0  | 22.0  | **44.2**  |   | +3.1  | +4  | 78  |  
 Show all 88 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 6:00 PM ET · 5 games slate · 2026-11-15.
 ## **NBA Injury Report**

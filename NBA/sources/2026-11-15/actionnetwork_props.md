@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-sunday-november-15 | fetched: 2026-11-15 18:35 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-sunday-november-15 | fetched: 2026-11-15 18:49 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -41,7 +41,7 @@ I project this at 228, and I disagree with the steam down. Phoenix might take mo
 * * *
 ![Matt Moore](https://s3.amazonaws.com/tan-user-assets/profile_images/114568/1661457155328-7708b71024af11edac721f7447fa9dba.png)
 [Matt Moore](https://www.actionnetwork.com/picks/profile/HPBasketball)
-Last 30d: 102-85-3 (+6.5u)
+Last 30d: 106-85-3 (+8.6u)
 Follow
 ![IND](https://static.sprtactn.co/teamlogos/nba/100/ind.png)
 ![OKC](https://static.sprtactn.co/teamlogos/nba/100/okc.png)
@@ -62,6 +62,9 @@ Jun 5th
 8:30 PM on ABC
 •
 115.9k bets
+Josh Hart MORE assists than Stephon Castle
++208 (1.1u)
+Copy Bet
 OG Anunoby OR Julian Champagnie 4+ 3s
 +120 (0.55u)
 Copy Bet
@@ -70,9 +73,6 @@ OG Anunoby OR Julian Champagnie 5+ 3PM
 Copy Bet
 Jalen Brunson OR Julian Champagnie 6+ 3pm
 +660 (0.25u)
-Copy Bet
-Josh Hart MORE assists than Stephon Castle
-+208 (1.1u)
 Copy Bet
 See All
 ## Rockets vs. Wizards
@@ -159,7 +159,7 @@ About the Author
 Matt Moore has been covering the NBA since 2007, working for AOL FanHouse, NBC Sports and CBS Sports before joining Action Network at its inception.
 Follow on Action App[Follow @MattMooreTAN on X](https://x.com/MattMooreTAN)
 Last 30d:
-102-85-3 (+6.5u), 7.03% ROI
+106-85-3 (+8.6u), 9.13% ROI
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
@@ -214,7 +214,7 @@ Ameer Tyree
 NBA
 [NBA Odds Sunday: Buy-Back Steam Alert for Lakers vs Suns](https://www.actionnetwork.com/nba/nba-odds-sunday-buy-back-steam-alert-for-lakers-vs-suns)
 Carlos Avilan
-6 hours ago
+7 hours ago
 [![Lakers vs Suns Prediction, Pick, NBA Odds for Sunday, November 15](https://images.actionnetwork.com/blog/2026/11/Lakers-vs-Suns-11.15.26.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-phoenix-suns-prediction-pick-nba-odds-sunday-november-15)
 NBA
 [Lakers vs Suns Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-phoenix-suns-prediction-pick-nba-odds-sunday-november-15)
@@ -232,5 +232,5 @@ Evan Abrams
 Nov 14, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4dd59579-41bd-4702-834b-fda1d87ca776&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=136428d9-f8c6-4c0e-9ccb-3424e6308628&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4dd59579-41bd-4702-834b-fda1d87ca776&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=136428d9-f8c6-4c0e-9ccb-3424e6308628&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b587b692-b437-4728-a30e-763c616c5417&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=136428d9-f8c6-4c0e-9ccb-3424e6308628&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7334&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b587b692-b437-4728-a30e-763c616c5417&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=136428d9-f8c6-4c0e-9ccb-3424e6308628&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7334&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8382abc9-1b35-4596-b367-9181929ff816&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=18b6fdfc-6021-4950-b7e4-3e124addd5a3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8382abc9-1b35-4596-b367-9181929ff816&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=18b6fdfc-6021-4950-b7e4-3e124addd5a3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fa93c5c3-29a6-4657-a8a3-fb89fc0ca768&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=18b6fdfc-6021-4950-b7e4-3e124addd5a3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7234&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fa93c5c3-29a6-4657-a8a3-fb89fc0ca768&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=18b6fdfc-6021-4950-b7e4-3e124addd5a3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7234&tw_iframe_status=0&tw_pid_src=2&tw_session_count=94&tw_session_id=1794783763384-226999111&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
