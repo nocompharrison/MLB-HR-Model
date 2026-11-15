@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 17:11 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 15
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Sunday’s nine-game Nov. 15 NBA slate.
@@ -37,6 +37,21 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
+[Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
+Back in Sunday's game
+NFL
+Las Vegas Raiders
+  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
+Upgraded to probable Sunday
+NBA
+Toronto Raptors
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Won't play Sunday
+NBA
+Dallas Mavericks
   * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
 [Geno Smith](https://www.rotowire.com/football/player/geno-smith-8743)
 Won't finish Sunday's game
@@ -47,21 +62,6 @@ New York Jets
 Sitting out Sunday
 NBA
 San Antonio Spurs
-  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
-[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
-Won't return to Sunday's game
-NFL
-Houston Texans
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
-Ruled out for Monday's game
-NFL
-Los Angeles Chargers
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
-Two trips to end zone in Week 10 win
-NFL
-Detroit Lions
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -93,34 +93,39 @@ Washington Nationals
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)
+Upgraded to probable Sunday
+NBA
+Toronto Raptors
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
+Won't play Sunday
+NBA
+Dallas Mavericks
   * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
 [De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)
 Sitting out Sunday
 NBA
 San Antonio Spurs
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Questionable for Sunday
+  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Julian Champagnie](https://www.rotowire.com/basketball/player/julian-champagnie-5728)
+Entering starting lineup Sunday
 NBA
-Dallas Mavericks
-  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454)
-Not starting Sunday
+San Antonio Spurs
+  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254)
+Missing sixth straight game Monday
 NBA
-Charlotte Hornets
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
-Erupts for season-high 31 points in win
-NBA
-Philadelphia 76ers
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Pascal Siakam](https://www.rotowire.com/basketball/player/pascal-siakam-3922)
-Scores season-high 31 points in loss
-NBA
-Indiana Pacers
+Cleveland Cavaliers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
+[Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
+Back in Sunday's game
+NFL
+Las Vegas Raiders
   * ![New York Jets](https://assets.rotowire.com/images/teamlogo/football/NYJ.svg?v=12)
 [Geno Smith](https://www.rotowire.com/football/player/geno-smith-8743)
 Won't finish Sunday's game
@@ -139,11 +144,6 @@ Los Angeles Chargers
   * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
 [Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
 Two trips to end zone in Week 10 win
-NFL
-Detroit Lions
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Jahmyr Gibbs](https://www.rotowire.com/football/player/jahmyr-gibbs-16808)
-Massive numbers in Week 10 romp
 NFL
 Detroit Lions
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-lineups.php | fetched: 2026-11-15 16:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-lineups.php | fetched: 2026-11-15 17:11 ET -->
 
 [ ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg) ![RotoWire](https://assets.rotowire.com/images/assets/logo_icon_red.svg)Win your week. Every start/sit, every waiver, every trade, plus NBA and NHL all winter. We make the call. Every start/sit, every waiver, every trade. We make the call. Win my league ](https://www.rotowire.com/subscribe/payment/?plan=fantasy&billing=12)
 Date
@@ -74,9 +74,9 @@ Show Display Settings Add Lineup Alerts
 **LINE** PHI -290 – – – –
 **SPREAD** PHI -9.5 PHI -9.5 PHI -9.5 PHI -9.5 –
 **O/U** 256.5 Pts 256.5 Pts 256.5 Pts 255.5 Pts –
-[![](https://assets.rotowire.com/images/props/underdog.svg)](https://www.rotowire.com/picks/underdog/) [Make The Right Picks](https://www.rotowire.com/picks/underdog/) [![](https://assets.rotowire.com/images/picks-promo-screen.png)](https://www.rotowire.com/picks/underdog/)
-If you play on Underdog, you should check out the RotoWire Picks tool. Get our best picks for today's NBA games.
-[ See Our Top Picks For Underdog ](https://www.rotowire.com/picks/underdog/)
+[![](https://assets.rotowire.com/images/props/sleeper.svg)](https://www.rotowire.com/picks/sleeper/) [Make The Right Picks](https://www.rotowire.com/picks/sleeper/) [![](https://assets.rotowire.com/images/picks-promo-screen.png)](https://www.rotowire.com/picks/sleeper/)
+If you play on Sleeper, you should check out the RotoWire Picks tool. Get our best picks for today's NBA games.
+[ See Our Top Picks For Sleeper ](https://www.rotowire.com/picks/sleeper/)
 4:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
 ![alert](https://assets.rotowire.com/images/email.svg) [Alerts](https://www.rotowire.com/basketball/nba-lineups.php)
@@ -121,10 +121,10 @@ If you play on Underdog, you should check out the RotoWire Picks tool. Get our b
 
 
 **Referees:** [James Williams](https://www.rotowire.com/basketball/ref.php?id=527087), [John Butler](https://www.rotowire.com/basketball/ref.php?id=861396), 
-**LINE** LAL -842 LAL -800 LAL -900 LAL -750 –
-**SPREAD** LAL -13.0 LAL -13.5 LAL -15.5 LAL -12.5 –
-**O/U** 230.0 Pts 231.5 Pts 231.5 Pts 230.5 Pts –
-[ ![Fanatics Sport](https://objects.kaxmedia.com/auto/o/259291/3a1a0aa74c.png) ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&cta_id=eb17c8da-7819-4927-b43c-c51b65f68921&operator_item_id=6d24370a-d13e-4651-b45a-0726149d1c55&pageview_id=500e76f3-2543-46d0-b5bb-08e0d80d58a0)
+**LINE** LAL -1021 LAL -1100 LAL -900 LAL -1100 –
+**SPREAD** LAL -13.0 LAL -13.5 LAL -13.5 LAL -12.5 –
+**O/U** 227.5 Pts 228.5 Pts 227.5 Pts 225.5 Pts –
+[ ![Fanatics Sport](https://objects.kaxmedia.com/auto/o/259291/3a1a0aa74c.png) ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&operator_item_id=4a8764bb-4d81-4469-9864-4449aa3a06ef&cta_id=d5d4a4cf-f3b5-48c0-8749-449a2dd958a9&pageview_id=8807f9ed-157f-4e6c-afea-4705ffd51ca0)
 Sign Up Bonus
 New Customers Get Up To $1,000 Matched In FanCash
 ![Checkmark Icon](https://objects2.kaxmedia.com/partnershipsites/rotowire/assets-93e600331a93f86e3b6b423588aacc19/img/green-tick.svg)
@@ -137,7 +137,7 @@ Accepted Payments:
 [ ![Rollcard](https://objects.kaxmedia.com/auto/o/286427/0735c4f332.png) Best Payment Method ](https://get.rollcard.com/4RQSJ/M2GJW/?sub1=Rotoctaicon&sub2={{tracker}}) ![Visa](https://objects.kaxmedia.com/auto/o/140269/b389c22a72.svg) ![MasterCard](https://objects.kaxmedia.com/auto/o/140245/f42a085bd0.svg) ![PayPal](https://objects.kaxmedia.com/auto/o/140254/b9fb4d8d18.svg)
 ROTOWIRE
 Click to Copy Code
-[ Bet Now ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&cta_id=68c29f53-8d4f-4eda-b77f-012f90f7b1b6&operator_item_id=6d24370a-d13e-4651-b45a-0726149d1c55&pageview_id=500e76f3-2543-46d0-b5bb-08e0d80d58a0)
+[ Bet Now ](https://bet.rotowire.com/fanatics/offer/81487#listid=23506&listtype=ranking-type-md&listlocation=_&listversion=20250918211136&list_position=1&ct=oplistclk&ctalocation=_&k_referrer=https%3A%2F%2Fwww.rotowire.com%2Fbasketball%2Fnba-lineups.php&operator_item_id=4a8764bb-4d81-4469-9864-4449aa3a06ef&cta_id=26a8aa37-f563-49a4-a1d4-f92fa2de4b20&pageview_id=8807f9ed-157f-4e6c-afea-4705ffd51ca0)
 * * *
 21+. New customers in AZ, CO, CT, DC, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, NC, NJ, NY, OH, PA, TN, VA, VT, WV, or WY (excludes NY). Apply promotion in bet slip and place a $1+ cash wager (min odds -200) daily for 10 consecutive days starting day of account creation. FanCash rewards will equal the qualifying wager amount (max $100 FanCash/day). FanCash issued under this promotion expires at 11:59 p.m. ET 7 days from issuance. Terms, incl. FanCash terms, apply—see Fanatics Sportsbook app. Gambling Problem? Call or Text 1-800-GAMBLER, 1-800-NEXT-STEP (AZ), 1-800-9-WITH-IT (IN), 1-888-532-3500 (VA), Call (877-8-HOPENY) or text HOPENY (467369).
 [ ProBets ](https://www.rotowire.com/smart-money/)
@@ -191,15 +191,15 @@ Click to Copy Code
 
 
 **Referees:** [Marc Davis](https://www.rotowire.com/basketball/ref.php?id=3566), [Andy Nagy](https://www.rotowire.com/basketball/ref.php?id=903099), [Biniam Maru](https://www.rotowire.com/basketball/ref.php?id=1486876)
-**LINE** -115 LAC -110 LAC -114 LAC -115 –
-**SPREAD** -1.5 LAC -1.5 LAC -1.5 LAC -1.5 –
-**O/U** 213.5 Pts 213.5 Pts 213.5 Pts 213.5 Pts –
+**LINE** LAC -145 LAC -154 LAC -145 LAC -140 –
+**SPREAD** LAC -2.5 LAC -1.5 LAC -2.5 LAC -2.5 –
+**O/U** 207.5 Pts 206.5 Pts 206.5 Pts 206.5 Pts –
 5:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
 ![alert](https://assets.rotowire.com/images/email.svg) [Alerts](https://www.rotowire.com/basketball/nba-lineups.php)
 [ ![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10) SAS ](https://www.rotowire.com/basketball/nba-depth-charts/spurs-depth-chart-sas) [ ![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10) UTA ](https://www.rotowire.com/basketball/nba-depth-charts/jazz-depth-chart-uta)
 [ Spurs (11-2) ](https://basketball/nba-depth-charts/spurs-depth-chart-sas) [ Jazz (1-12) ](https://basketball/nba-depth-charts/jazz-depth-chart-uta)
-  * Expected Lineup 
+  * Confirmed Lineup 
   * PG
 [S. Castle](https://www.rotowire.com/basketball/player/stephon-castle-6250 "Stephon Castle")
   * SG
@@ -221,13 +221,13 @@ Click to Copy Code
 [J. Quaintance](https://www.rotowire.com/basketball/player/jayden-quaintance-6985 "Jayden Quaintance") Out
 
 
-  * Expected Lineup 
+  * Confirmed Lineup 
   * PG
 [K. George](https://www.rotowire.com/basketball/player/keyonte-george-5899 "Keyonte George")
   * SG
 [D. Peterson](https://www.rotowire.com/basketball/player/darryn-peterson-6924 "Darryn Peterson")
   * SF
-[Josh Okogie](https://www.rotowire.com/basketball/player/josh-okogie-4436 "Josh Okogie")
+[Josh Green](https://www.rotowire.com/basketball/player/josh-green-5192 "Josh Green")
   * PF
 [Ace Bailey](https://www.rotowire.com/basketball/player/ace-bailey-6551 "Ace Bailey")
   * C
@@ -246,9 +246,9 @@ Click to Copy Code
 
 
 **Referees:** [Zach Zarba](https://www.rotowire.com/basketball/ref.php?id=240434), [Dedric Taylor](https://www.rotowire.com/basketball/ref.php?id=795085), 
-**LINE** SAS -1129 SAS -1150 SAS -1040 SAS -1100 –
+**LINE** SAS -1119 SAS -1100 SAS -1080 SAS -1100 –
 **SPREAD** SAS -14.5 SAS -14.5 SAS -14.5 SAS -14.5 –
-**O/U** 223.0 Pts 223.5 Pts 222.5 Pts 223.5 Pts –
+**O/U** 223.5 Pts 223.5 Pts 222.5 Pts 223.5 Pts –
 6:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
 ![alert](https://assets.rotowire.com/images/email.svg) [Alerts](https://www.rotowire.com/basketball/nba-lineups.php)
@@ -302,9 +302,9 @@ Click to Copy Code
 
 
 **Referees:** [JB DeRosa](https://www.rotowire.com/basketball/ref.php?id=897257), [Ray Acosta](https://www.rotowire.com/basketball/ref.php?id=719470), [Derrick Collins](https://www.rotowire.com/basketball/ref.php?id=3562)
-**LINE** BOS -1075 BOS -1200 BOS -980 BOS -1100 –
-**SPREAD** BOS -15.0 BOS -15.5 BOS -15.5 BOS -14.5 –
-**O/U** 219.0 Pts 218.5 Pts 218.5 Pts 218.5 Pts –
+**LINE** BOS -1057 BOS -1000 BOS -970 BOS -1000 –
+**SPREAD** BOS -15.0 BOS -14.5 BOS -14.5 BOS -14.5 –
+**O/U** 217.5 Pts 217.5 Pts 217.5 Pts 217.5 Pts –
 6:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
 ![alert](https://assets.rotowire.com/images/email.svg) [Alerts](https://www.rotowire.com/basketball/nba-lineups.php)
@@ -335,14 +335,14 @@ Click to Copy Code
   * SF
 [J. Walter](https://www.rotowire.com/basketball/player/jakobe-walter-6261 "Ja'Kobe Walter")
   * PF
-[S. Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390 "Scottie Barnes") Ques
+[S. Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390 "Scottie Barnes") Prob
   * C
 [Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870 "Jakob Poeltl")
   * Projected Minutes
   * On/Off Court Stats
   * MAY NOT PLAY
   * F
-[S. Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390 "Scottie Barnes") Ques
+[S. Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390 "Scottie Barnes") Prob
   * C
 [N. Bittle](https://www.rotowire.com/basketball/player/nate-bittle-6608 "Nate Bittle") Out
   * F
@@ -350,8 +350,8 @@ Click to Copy Code
 
 
 **Referees:** [Tony Brothers](https://www.rotowire.com/basketball/ref.php?id=3558), [Jason Goldenberg](https://www.rotowire.com/basketball/ref.php?id=896908), [Phenizee Ransom](https://www.rotowire.com/basketball/ref.php?id=957519)
-**LINE** NYK -183 NYK -176 NYK -184 NYK -190 –
-**SPREAD** NYK -4.5 NYK -3.5 NYK -4.5 NYK -4.5 –
+**LINE** NYK -181 NYK -176 NYK -184 NYK -185 –
+**SPREAD** NYK -4.0 NYK -3.5 NYK -4.5 NYK -4.5 –
 **O/U** 218.0 Pts 217.5 Pts 217.5 Pts 218.5 Pts –
 7:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
@@ -407,9 +407,9 @@ Click to Copy Code
 
 
 **Referees:** [Bill Kennedy](https://www.rotowire.com/basketball/ref.php?id=3584), [Jacyn Goble](https://www.rotowire.com/basketball/ref.php?id=719466), [Simone Jelks](https://www.rotowire.com/basketball/ref.php?id=1194480)
-**LINE** HOU -339 HOU -350 HOU -326 HOU -325 –
-**SPREAD** HOU -8.0 HOU -8.5 HOU -8.5 HOU -8.5 –
-**O/U** 224.0 Pts 223.5 Pts 223.5 Pts 224.5 Pts –
+**LINE** HOU -341 HOU -350 HOU -326 HOU -325 –
+**SPREAD** HOU -8.5 HOU -8.5 HOU -8.5 HOU -8.5 –
+**O/U** 223.5 Pts 223.5 Pts 223.5 Pts 223.5 Pts –
 8:00 PM ET
 [![](https://assets.rotowire.com/images/tv-icon.png?v=3)Watch Now](https://sling-tv.pxf.io/c/1348772/3368074/14334) [![](https://assets.rotowire.com/images/tickets-icon.png)Tickets](https://seatgeek.com/nba-tickets?aid=16244&pid=integration&rid=3&utm_medium=partnership&utm_source=rotowire&utm_campaign=integration)
 ![alert](https://assets.rotowire.com/images/email.svg) [Alerts](https://www.rotowire.com/basketball/nba-lineups.php)
@@ -464,7 +464,7 @@ Click to Copy Code
 
 
 **Referees:** [Ben Taylor](https://www.rotowire.com/basketball/ref.php?id=525497), [Kevin Cutler](https://www.rotowire.com/basketball/ref.php?id=413140), [Gina Catanzariti](https://www.rotowire.com/basketball/ref.php?id=1619060)
-**LINE** ATL -321 ATL -320 ATL -324 ATL -325 –
+**LINE** ATL -322 ATL -320 ATL -324 ATL -325 –
 **SPREAD** ATL -8.5 ATL -7.5 ATL -8.5 ATL -8.5 –
 **O/U** 233.5 Pts 233.5 Pts 233.5 Pts 233.5 Pts –
 9:00 PM ET

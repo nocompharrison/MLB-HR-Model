@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-15 16:35 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-15 17:11 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,32 +9,29 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
-[](https://www.espn.com/nba/game/_/gameId/401909985/pacers-76ers)
+[](https://www.espn.com/nba/game/_/gameId/401909986)
+
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909986)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909986)
+
+*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lal.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAL  61  
+*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHX  45  
+
+2:16 - 2nd
+
+[](https://www.espn.com/nba/game/_/gameId/401909987)
+
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909987)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909987)
+
+*   ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHA  21  
+*   ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAC  22  
+
+0.1 - 1st
 
 [Gamecast](https://www.espn.com/nba/game/_/gameId/401909985/pacers-76ers)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909985)
 
-*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&w=32&h=32&scale=crop&cquality=40&location=origin)IND  124  
-*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  131  
+[* ![Image 6](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&w=32&h=32&scale=crop&cquality=40&location=origin)IND 124 * ![Image 7](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI 131](https://www.espn.com/nba/game/_/gameId/401909985/pacers-76ers)
 
 Final
-
-[](https://www.espn.com/nba/game/_/gameId/401909986/lakers-suns)
-
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909986/lakers-suns)[Tickets](https://www.vividseats.com/phoenix-suns-tickets-mortgage-matchup-center-11-15-2026/production/7432979?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
-
-*   ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lal.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAL  11-2  
-*   ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHX  5-6  
-
-9:00 PM
-
-[](https://www.espn.com/nba/game/_/gameId/401909987/hornets-clippers)
-
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909987/hornets-clippers)[Tickets](https://www.vividseats.com/la-clippers-tickets-intuit-dome-11-15-2026/production/7432777?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
-
-*   ![Image 6](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&w=32&h=32&scale=crop&cquality=40&location=origin)CHA  4-8  
-*   ![Image 7](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAC  3-8  
-
-9:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909988/spurs-jazz)
 
@@ -158,30 +155,29 @@ Mon
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 16 | Day-To-Day | Nov 15: Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports. |
-| [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 16 | Day-To-Day | Nov 15: Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports. |
-| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 16 | Day-To-Day | Nov 15: Awaka has been ruled out for Saturday's game against the Timberwolves. |
+| [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 18 | Out | Nov 15: Awaka (back) has been ruled out for Monday's game against the Cavaliers. |
+| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 16 | Day-To-Day | Nov 15: Smith (finger) is listed as questionable for Monday's game against Cleveland. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
 ![Image 27: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 18 | Out | Nov 15: Mobley (toe) has been ruled out for Monday's game against Chicago. |
+| [Sam Merrill](https://www.espn.com/nba/player/_/id/4066757/sam-merrill) | G | Nov 18 | Out | Nov 15: Merrill (elbow) has been ruled out for Monday's game against the Bulls. |
 | [Jarrett Allen](https://www.espn.com/nba/player/_/id/4066328/jarrett-allen) | C | Nov 16 | Day-To-Day | Nov 15: Allen (knee) has been ruled out for Saturday's game against the Mavericks. |
 | [Peyton Watson](https://www.espn.com/nba/player/_/id/4576087/peyton-watson) | G | Nov 16 | Day-To-Day | Nov 15: Watson (hamstring) has been ruled out for Saturday's game against the Mavericks. |
-| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 16 | Day-To-Day | Nov 15: Mobley (toe) has been ruled out for Saturday's meeting with Dallas. |
 | [Donovan Mitchell](https://www.espn.com/nba/player/_/id/3908809/donovan-mitchell) | G | Nov 16 | Day-To-Day | Nov 15: Mitchell (knee) has been ruled out for Saturday's game against the Mavericks. |
 | [James Harden](https://www.espn.com/nba/player/_/id/3992/james-harden) | G | Nov 16 | Day-To-Day | Nov 15: Harden (calf) has been ruled out for Saturday's game against Dallas. |
-| [Sam Merrill](https://www.espn.com/nba/player/_/id/4066757/sam-merrill) | G | Nov 16 | Out | Nov 10: Merrill (elbow) is listed as out for Wednesday's game against the Knicks. |
 | [Nae'Qwan Tomlin](https://www.espn.com/nba/player/_/id/5106268/naeqwan-tomlin) | F | Nov 16 | Out | Oct 20: Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports. |
 
 ![Image 28: Dallas Mavericks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&h=40&w=40)Dallas Mavericks
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Nov 18 | Out | Nov 15: Christie (ankle) has been ruled out for Sunday's game against the Celtics. |
+| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Nov 18 | Out | Nov 15: Irving (knee) has been ruled out for Sunday's game against the Celtics. |
 | [Santi Aldama](https://www.espn.com/nba/player/_/id/4593125/santi-aldama) | F | Nov 15 | Day-To-Day | Nov 15: Aldama (ankle) is listed as questionable for Sunday's game in Boston. |
-| [Max Christie](https://www.espn.com/nba/player/_/id/4432582/max-christie) | G | Nov 15 | Day-To-Day | Nov 15: Christie (ankle) is doubtful to play Sunday's game against the Celtics. |
-| [Kyrie Irving](https://www.espn.com/nba/player/_/id/6442/kyrie-irving) | G | Nov 15 | Day-To-Day | Nov 15: Irving (knee) is questionable to play in Sunday's game against the Celtics. |
 | [Daniel Gafford](https://www.espn.com/nba/player/_/id/4278049/daniel-gafford) | F | Nov 15 | Day-To-Day | Nov 15: Gafford (shoulder) is probable to play in Sunday's game against the Celtics. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 18 | Out | Nov 11: Lively (foot) is listed as out for Thursday's game in Minnesota. |
 | [Tarik Biberovic](https://www.espn.com/nba/player/_/id/5148538/tarik-biberovic) | F | Nov 18 | Out | Nov 11: Biberovic (heel) is out for Thursday's game against Minnesota. |
@@ -223,7 +219,7 @@ Mon
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Nov 18 | Out | Nov 15: Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports. |
+| [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Nov 18 | Day-To-Day | Nov 15: Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports. |
 | [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 22 | Out | Nov 11: Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports. |
 | [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Oct 30: Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Jan 2 | Out | Oct 28: Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports. |
@@ -310,7 +306,7 @@ Mon
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 16 | Out | Nov 14: Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers. |
+| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 16 | Day-To-Day | Nov 15: Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers. |
 | [Dominick Barlow](https://www.espn.com/nba/player/_/id/4870562/dominick-barlow) | F | Nov 18 | Out | Nov 12: Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports. |
 | [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 18 | Out | Nov 12: Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
@@ -351,8 +347,8 @@ Mon
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 15 | Out | Nov 15: Barnes (groin) is listed as probable to play in Sunday's game against the Knicks. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 23 | Out | Nov 14: Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports. |
-| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 15 | Out | Nov 14: Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports. |
 | [Kevin McCullar Jr.](https://www.espn.com/nba/player/_/id/4411057/kevin-mccullar-jr) | G | Nov 16 | Day-To-Day | Nov 13: McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 23 | Out | Nov 11: Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports. |
 
@@ -380,79 +376,41 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://habitsofvitalitytoday.com/vitality-habits-journal)[How Older People Are Losing Weight (This Has Gone Viral)Wellness Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://habitsofvitalitytoday.com/vitality-habits-journal "How Older People Are Losing Weight (This Has Gone Viral)")
+[](https://withinmag.com/nv-hf-tb-letter-v2)[I Thought I'd Have to Live With Thin Hair at 58. Then This WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://withinmag.com/nv-hf-tb-letter-v2 "I Thought I'd Have to Live With Thin Hair at 58. Then This")
 
-Undo
+[](https://www.temu.com/ul/kuiper/un1.html)[Everything Must Go on Temu TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Everything Must Go on Temu")
 
 [](https://trending-report.com/ce7cl2k.php)[Physical Therapist Reveals Why Seniors Lose Leg Power—And The Simple Fix trending-report.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trending-report.com/ce7cl2k.php "Physical Therapist Reveals Why Seniors Lose Leg Power—And The Simple Fix")
 
-Undo
+[](https://www.espn.com/nba/injuries)[Fall Into Paradise With Up to 35% Off + Extra Perks Atlantis Paradise Island | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Book Now](https://www.espn.com/nba/injuries "Fall Into Paradise With Up to 35% Off + Extra Perks")
 
-[](https://lp.nuviasmiles.com/denver-eval-native-2)[North Charleston: 24 Hour Dental Implants Nuvia Dental Implant Center | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://lp.nuviasmiles.com/denver-eval-native-2 "North Charleston: 24 Hour Dental Implants")
+[](https://onlinefinance.net/savings-account-fs2)[$10K Earning $40 a Year? Online Banks Pay More Online Finance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Get Offer](https://onlinefinance.net/savings-account-fs2 "$10K Earning $40 a Year? Online Banks Pay More")
 
-Undo
-
-[](https://seniorautoquotes.com/usa-tab-1)[South Carolina: Senior Drivers Did Not See This Coming Seniors Born Before 1972 Are Discovering This Auto Insurance Trick... Learn more Senior Auto Quotes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://seniorautoquotes.com/usa-tab-1 "South Carolina: Senior Drivers Did Not See This Coming")
-
-Undo
-
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
-
-Undo
-
-[](https://zekear.com/products/%E2%8C%9A-2-in-1-smartwatch-with-built-in-tws-wireless-earbuds-%E2%80%93-bluetooth-calling-heart-rate-sleep-tracking)[A Smartwatch and Wireless Earbuds in One Clever Design!Bring two everyday essentials together with this innovative wearable. Enjoy Bluetooth calling, wireless audio, heart rate monitoring and sleep tracking without carrying a separate earbud case.Zekear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Shop Now](https://zekear.com/products/%E2%8C%9A-2-in-1-smartwatch-with-built-in-tws-wireless-earbuds-%E2%80%93-bluetooth-calling-heart-rate-sleep-tracking "A Smartwatch and Wireless Earbuds in One Clever Design!")
-
-Undo
-
-[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Residents In South Carolina With Credit Card Debt Could Be In For A Big Surprise There's a way to pay off credit card debt without getting a loan. See if you are eligible for the program.Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Residents In South Carolina With Credit Card Debt Could Be In For A Big Surprise")
-
-Undo
-
-[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Many people in credit card debt aren’t aware of this opportunity There's a way to pay off credit card debt without getting a loan. See if you are eligible for the program.Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Many people in credit card debt aren’t aware of this opportunity")
-
-Undo
-
-[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
-
-Undo
+[](https://secure.myinnerwell.com/discovery-report-tb)[Still Up at 3 AM to Pee? Urologists Say Do This Instead InnerWell | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://secure.myinnerwell.com/discovery-report-tb "Still Up at 3 AM to Pee? Urologists Say Do This Instead")
 
 ### NBA News
 
-[![Image 51: LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1746252_1296x729_16-9.jpg&w=220) ## LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks LeBron James moved past Hall of Fame point guard Jason Kidd for third on the NBA's career assists list with 12,092. * 9m * Kris Rhim](https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list)
+[![Image 51: LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1746252_1296x729_16-9.jpg&w=220) ## LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks LeBron James moved past Hall of Fame point guard Jason Kidd for third on the NBA's career assists list with 12,092. * 16m * Kris Rhim](https://www.espn.com/nba/story/_/id/50493152/lebron-james-passes-jason-kidd-nba-assists-list)
 
-[![Image 52: USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1745990_608x342_16-9.jpg&w=220) ## USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic "Dame Time" motion. * 4h * ESPN staff](https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration)
+[![Image 52: Indiana Pacers vs. Philadelphia 76ers: Game Highlights](https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1115/f2404072-73da-4886-a505-6515ba61634b/f2404072-73da-4886-a505-6515ba61634b.jpg) ## Indiana Pacers vs. Philadelphia 76ers: Game Highlights Indiana Pacers vs. Philadelphia 76ers: Game Highlights * 18m](https://www.espn.com/video/clip/_/id/50493088/game-highlights)
 
-[![Image 53: Sunday's fantasy basketball adds and bets to make in the NBA](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1746088_576x324_16-9.jpg&w=220) ## Sunday's fantasy basketball adds and bets to make in the NBA Jim McCormick breaks down Sunday's slate, highlighting the fantasy streamers to add and bets to make. * 5h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50489700/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 53: USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1745990_608x342_16-9.jpg&w=220) ## USMNT's Balogun does 'Dame Time' celebration after goal vs. Haiti After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic "Dame Time" motion. * 5h * ESPN staff](https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://www.espn.com/nba/injuries)[Propane Mowers Are a Cut Above Propane mowers reduce fuel costs, refueling downtime, and emissions. Put propane to work on your routes with a complimentary 10-day equipment trial.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.espn.com/nba/injuries "Propane Mowers Are a Cut Above")
-
-Undo
+[](https://withinmag.com/nv-fk-tb-letter-v2)[What a 76-Year-Old Librarian Taught Me About Staying Sharp WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://withinmag.com/nv-fk-tb-letter-v2 "What a 76-Year-Old Librarian Taught Me About Staying Sharp")
 
 [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)
 
 Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
-Undo
-
 Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
 
 How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
-Undo
-
 The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Undo
-
-[](https://zekear.com/products/2027-racing-desk-calendar-with-red-open-wheel-car-stand)[The Perfect Desk Upgrade for Motorsport Lovers This unique 2027 edition combines easy-to-read monthly pages with a striking red race car base for a desktop display that celebrates your love of motorsport.Zekear | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Shop Now](https://zekear.com/products/2027-racing-desk-calendar-with-red-open-wheel-car-stand "The Perfect Desk Upgrade for Motorsport Lovers")
-
-Undo
 
 ![Image 54: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

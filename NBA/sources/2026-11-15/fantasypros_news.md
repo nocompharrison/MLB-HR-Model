@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-15 16:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-15 17:11 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Kyrie Irving](https://images.fantasypros.com/images/players/nba/2074/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyrie-irving.php)
+G - DAL
+[» Rankings](https://www.fantasypros.com/nba/players/kyrie-irving.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyrie-irving.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyrie-irving.php)
+[Kyrie Irving (knee) ruled out Sunday](https://www.fantasypros.com/nba/news/620280/kyrie-irving-knee-ruled-out-sunday.php)  
+
+Sun, Nov 15th 4:28pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Kyrie Irving (knee) has been ruled out for Sunday’s matchup between the Dallas Mavericks and Boston Celtics according to Zack Cox. (Source: [Zack Cox on Twitter](https://x.com/zm_cox/status/2122078371655917639?a=v8E49Qv--Dd6jWFggdI&s=46))
+**_Fantasy Impact:_** Irving will receive the night off for knee injury management for head coach Dusty May, with Naji Marshall and Walter Clayton Jr. to receive increased minutes and Cooper Flagg to receive as much usage as possible against the Celtics Sunday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![De'Aaron Fox](https://images.fantasypros.com/images/players/nba/3315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deaaron-fox.php)
 G - SAS
 [» Rankings](https://www.fantasypros.com/nba/players/deaaron-fox.php)  
@@ -147,20 +161,6 @@ Daniel Gafford is listed as probable for Sunday’s game against the Celtics.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Kyrie Irving](https://images.fantasypros.com/images/players/nba/2074/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyrie-irving.php)
-G - DAL
-[» Rankings](https://www.fantasypros.com/nba/players/kyrie-irving.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyrie-irving.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyrie-irving.php)
-[Kyrie Irving (knee) listed questionable Sunday ](https://www.fantasypros.com/nba/news/620257/kyrie-irving-knee-listed-questionable-sunday.php)  
-
-Sun, Nov 15th 2:52pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Kyrie Irving is listed as questionable for Sunday’s game against the Celtics. 
-**_Fantasy Impact:_** Irving played 37 minutes in Saturday’s loss to the Cavaliers. His status is uncertain for the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Morez Johnson Jr.](https://images.fantasypros.com/images/players/nba/6610/headshot/100x100.png)](https://www.fantasypros.com/nba/players/morez-johnson.php)
 F - DAL
 [» Rankings](https://www.fantasypros.com/nba/players/morez-johnson.php)  
@@ -296,5 +296,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6598999e9a969b9c9b9a9b66uokewi0e0y64666m6e606g6i6g6e6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=257_1794780396179&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0sTk1oAon0ZOw%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6598999e9a969b9c9b9a9b66uokewi0e0y64666m6e606g6i6g6e6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
