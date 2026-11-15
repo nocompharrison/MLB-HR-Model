@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-15 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-15 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,54 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Won't go Sunday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-wont-go-sunday-539323)
+**C** Atlanta Hawks
+Hip
+November 15, 2026
+Landale (hip) is out for Sunday's game against Bucks, [Brad Rowland of the Locked On Podcast Network](https://x.com/BTRowland/status/2122106849831088442?a=dWxLJIqmOo0szr1QO8o&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ryan Rollins](https://www.rotowire.com/basketball/player/ryan-rollins-5668)[Out Sunday](https://www.rotowire.com/basketball/headlines/ryan-rollins-injury-out-sunday-539322)
+**G** Milwaukee Bucks
+Illness
+November 15, 2026
+Rollins (illness) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_06_15PM.pdf) for Sunday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Bryce McGowens](https://www.rotowire.com/basketball/player/bryce-mcgowens-5719)[Missing third straight game Monday](https://www.rotowire.com/basketball/headlines/bryce-mcgowens-injury-missing-third-straight-game-monday-539320)
+**G** New Orleans Pelicans
+Elbow
+November 15, 2026
+McGowens (elbow) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_30PM.pdf) for Monday's game against the Warriors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Bennedict Mathurin](https://www.rotowire.com/basketball/player/bennedict-mathurin-5698)[Out again vs. Warriors](https://www.rotowire.com/basketball/headlines/bennedict-mathurin-injury-out-again-vs-warriors-539319)
+**F** New Orleans Pelicans
+Foot
+November 15, 2026
+Mathurin (foot) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_30PM.pdf) for Monday's game against the Warriors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Gui Santos](https://www.rotowire.com/basketball/player/gui-santos-5738)[Tagged questionable for Monday](https://www.rotowire.com/basketball/headlines/gui-santos-injury-tagged-questionable-for-monday-539318)
+**F** Golden State Warriors
+Ankle
+November 15, 2026
+Santos is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_06_00PM.pdf) for Monday's game against New Orleans due to right ankle inflammation.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Chris Youngblood](https://www.rotowire.com/basketball/player/chris-youngblood-6663)[Won't play Monday](https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-wont-play-monday-539317)
+**G** Portland Trail Blazers
+Foot
+November 15, 2026
+Youngblood (foot) is [out](https://x.com/TrailBlazersPR/status/2122101978863948120?a=QRs22JgrFBS0ET766Ww&s=20) for Monday's game against the Timberwolves.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
 [Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Won't play Monday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-wont-play-monday-539316)
 **F** New Orleans Pelicans
@@ -150,53 +198,6 @@ November 15, 2026
 Foot
 November 15, 2026
 Jackson (foot) is [out](https://x.com/GrizzliesPR/status/2122087288100302980?a=9lVFzhG72lL97lIJwMM&s=20) for Monday's game against Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Dealing with illness](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-dealing-with-illness-539296)
-**C** Memphis Grizzlies
-Illness
-November 15, 2026
-Stewart is [questionable](https://x.com/GrizzliesPR/status/2122087288100302980?a=9lVFzhG72lL97lIJwMM&s=20) for Monday's game against the Wizards due to an illness.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Listed out for Monday](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-listed-out-for-monday-539295)
-**G** Memphis Grizzlies
-Hip
-November 15, 2026
-Jerome (hip) has been [ruled out](https://x.com/GrizzliesPR/status/2122087288100302980?a=9lVFzhG72lL97lIJwMM&s=20) for Monday's game against the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/quinten-post-injury-questionable-for-monday-539294)
-**C** Memphis Grizzlies
-Concussion
-November 15, 2026
-Post (concussion) is [questionable](https://x.com/GrizzliesPR/status/2122087288100302980?a=9lVFzhG72lL97lIJwMM&s=20) for Monday's game against the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/zach-edey-injury-questionable-for-monday-539293)
-**C** Memphis Grizzlies
-Ankle
-November 15, 2026
-Edey (ankle) is [questionable](https://x.com/GrizzliesPR/status/2122087288100302980?a=9lVFzhG72lL97lIJwMM&s=20) for Monday's game against Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-questionable-for-monday-539292)
-**F** Cleveland Cavaliers
-Ankle
-November 15, 2026
-Tyson (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_30PM.pdf) for Monday's game against the Bulls.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BKN](https://assets.rotowire.com/images/teamlogo/basketball/100BKN.png?v=10)
-[Michael Porter](https://www.rotowire.com/basketball/player/michael-porter-4375)[Available for Monday](https://www.rotowire.com/basketball/headlines/michael-porter-news-available-for-monday-539291)
-**F** Brooklyn Nets
-November 15, 2026
-Porter (personal) is [off the injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_05_00PM.pdf) ahead of Monday's game against the 76ers.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

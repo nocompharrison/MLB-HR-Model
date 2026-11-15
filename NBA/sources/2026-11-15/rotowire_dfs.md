@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 18:35 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 15
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Sunday’s nine-game Nov. 15 NBA slate.
@@ -37,6 +37,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Not likely to be cleared for Thursday's game
+NFL
+Houston Texans
   * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
 [Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
 Productive with 24 touches
@@ -57,11 +62,6 @@ Kansas City Chiefs
 Productive with five catches in win
 NFL
 Kansas City Chiefs
-  * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[James Harden](https://www.rotowire.com/basketball/player/james-harden-3018)
-Expected to return Monday
-NBA
-Cleveland Cavaliers
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -114,13 +114,18 @@ Sitting out Sunday
 NBA
 San Antonio Spurs
   * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)
-Won't play Monday
+[Bennedict Mathurin](https://www.rotowire.com/basketball/player/bennedict-mathurin-5698)
+Out again vs. Warriors
 NBA
 New Orleans Pelicans
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Not likely to be cleared for Thursday's game
+NFL
+Houston Texans
   * ![Miami Dolphins](https://assets.rotowire.com/images/teamlogo/football/MIA.svg?v=12)
 [Ollie Gordon](https://www.rotowire.com/football/player/ollie-gordon-18450)
 Productive with 24 touches
@@ -141,14 +146,14 @@ Kansas City Chiefs
 Productive with five catches in win
 NFL
 Kansas City Chiefs
-  * ![Indianapolis Colts](https://assets.rotowire.com/images/teamlogo/football/IND.svg?v=12)
-[Jonathan Taylor](https://www.rotowire.com/football/player/jonathan-taylor-14455)
-Clears century mark in scrimmage yards
-NFL
-Indianapolis Colts
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
+[Tristan Jarry](https://www.rotowire.com/hockey/player/tristan-jarry-4198)
+Starting against Philadelphia
+NHL
+Edmonton Oilers
   * ![Florida Panthers](https://assets.rotowire.com/images/teamlogo/hockey/100FLA.png?v=5)
 [Akira Schmid](https://www.rotowire.com/hockey/player/akira-schmid-6440)
 Tending twine Sunday
@@ -169,11 +174,6 @@ Calgary Flames
 Tending twine Sunday
 NHL
 Nashville Predators
-  * ![St. Louis Blues](https://assets.rotowire.com/images/teamlogo/hockey/100STL.png?v=5)
-[Philip Broberg](https://www.rotowire.com/hockey/player/philip-broberg-6010)
-Considered day-to-day
-NHL
-St. Louis Blues
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
