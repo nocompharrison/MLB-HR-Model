@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-15 | updated 2026-11-15 18:36 ET
+# NBA transcripts | 2026-11-15 | updated 2026-11-15 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 5 files in NBA/transcripts/2026-11-15:
 NBA/transcripts/2026-11-15/-L8_iX1oxIo_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_November_15th.txt
