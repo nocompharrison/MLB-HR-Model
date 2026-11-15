@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-sunday-nov-15-146602 | fetched: 2026-11-15 16:35 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 15
 Get the best NBA bets today, with expert player prop picks on points, PRA and three-pointers, plus odds from top sportsbooks for Sunday’s nine-game Nov. 15 NBA slate.
@@ -103,6 +103,11 @@ San Antonio Spurs
 Questionable for Sunday
 NBA
 Dallas Mavericks
+  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454)
+Not starting Sunday
+NBA
+Charlotte Hornets
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
 Erupts for season-high 31 points in win
@@ -113,11 +118,6 @@ Philadelphia 76ers
 Scores season-high 31 points in loss
 NBA
 Indiana Pacers
-  * ![Washington Wizards](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Bub Carrington](https://www.rotowire.com/basketball/player/bub-carrington-6270)
-Active Sunday
-NBA
-Washington Wizards
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

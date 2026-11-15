@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-sunday-november-15 | fetched: 2026-11-15 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-sunday-november-15 | fetched: 2026-11-15 16:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -179,17 +179,17 @@ Pacers vs. 76ers
 NBA
 [NBA Prop Ladders, Escalator Picks for Jalen Johnson, Isaiah Hartenstein (Sunday, Nov. 15)](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-jalen-johnson-isaiah-hartenstein-sunday-nov-15)
 Ameer Tyree
-3 hours ago
+4 hours ago
 [![NBA Best Bets for Pacers vs 76ers, Lakers vs Suns, Rockets vs Wizards, More \(Sunday, Nov. 15\)](https://images.actionnetwork.com/blog/2026/11/NBA-Best-Bets-11_15_26.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-76ers-lakers-vs-suns-rockets-vs-wizards-more-sunday-nov-15)
 NBA
 [NBA Best Bets for Pacers vs 76ers, Lakers vs Suns, Rockets vs Wizards, More (Sunday, Nov. 15)](https://www.actionnetwork.com/nba/nba-best-bets-for-pacers-vs-76ers-lakers-vs-suns-rockets-vs-wizards-more-sunday-nov-15)
 Action Network Staff
-5 hours ago
+6 hours ago
 [![Mavericks vs Celtics Prediction, Pick, NBA Odds for Sunday, November 15](https://images.actionnetwork.com/blog/2026/11/Mavericks-vs-Celtics-11.15.26.jpg)](https://www.actionnetwork.com/nba/dallas-mavericks-vs-boston-celtics-prediction-pick-nba-odds-sunday-november-15)
 NBA
 [Mavericks vs Celtics Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/dallas-mavericks-vs-boston-celtics-prediction-pick-nba-odds-sunday-november-15)
 Matt Moore
-1 hour ago
+2 hours ago
 [![Spurs vs Jazz Prediction, Pick, NBA Odds for Sunday, November 15](https://images.actionnetwork.com/blog/2026/11/Spurs-vs-Jazz-11_15_26.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-utah-jazz-prediction-pick-odds-nba-sunday-november-15)
 NBA
 [Spurs vs Jazz Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-utah-jazz-prediction-pick-odds-nba-sunday-november-15)
@@ -204,12 +204,12 @@ Matt Moore
 NBA
 [Knicks vs Raptors Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/new-york-knicks-vs-toronto-raptors-prediction-pick-nba-odds-sunday-november-15)
 Action Network Staff
-6 hours ago
+7 hours ago
 [![Thunder vs Kings Prediction, Pick, NBA Odds for Sunday, November 15](https://images.actionnetwork.com/blog/2026/11/Thunder-vs-Kings-11_15_26.jpg)](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-sacramento-kings-prediction-pick-odds-nba-sunday-november-15)
 NBA
 [Thunder vs Kings Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/oklahoma-city-thunder-vs-sacramento-kings-prediction-pick-odds-nba-sunday-november-15)
 Ameer Tyree
-2 hours ago
+3 hours ago
 [ PRO ![NBA Odds Sunday: Buy-Back Steam Alert for Lakers vs Suns](https://images.actionnetwork.com/blog/2026/11/PRO-Lakers-vs-Suns-Buy-Back-Steam-Alert-11_15_26.jpg) ](https://www.actionnetwork.com/nba/nba-odds-sunday-buy-back-steam-alert-for-lakers-vs-suns)
 NBA
 [NBA Odds Sunday: Buy-Back Steam Alert for Lakers vs Suns](https://www.actionnetwork.com/nba/nba-odds-sunday-buy-back-steam-alert-for-lakers-vs-suns)
@@ -219,12 +219,12 @@ Carlos Avilan
 NBA
 [Lakers vs Suns Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-phoenix-suns-prediction-pick-nba-odds-sunday-november-15)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Hornets vs Clippers Prediction, Pick, NBA Odds for Sunday, November 15](https://images.actionnetwork.com/blog/2026/11/Hornets-vs-Clippers-11.15.26.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-los-angeles-clippers-prediction-pick-nba-odds-sunday-november-15)
 NBA
 [Hornets vs Clippers Prediction, Pick, NBA Odds for Sunday, November 15](https://www.actionnetwork.com/nba/charlotte-hornets-vs-los-angeles-clippers-prediction-pick-nba-odds-sunday-november-15)
 Action Network Staff
-7 hours ago
+8 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -232,5 +232,5 @@ Evan Abrams
 Nov 14, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=cf673de0-ff1e-4e78-8cdb-24170ab3e1e9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e887c0e5-64f8-47b4-9752-bffe27cac012&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=cf673de0-ff1e-4e78-8cdb-24170ab3e1e9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e887c0e5-64f8-47b4-9752-bffe27cac012&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a6752a97-38c6-4caf-ae53-6fec6606e46c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e887c0e5-64f8-47b4-9752-bffe27cac012&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7433&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a6752a97-38c6-4caf-ae53-6fec6606e46c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e887c0e5-64f8-47b4-9752-bffe27cac012&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7433&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=017054ce-3a21-4d4c-97d0-5cb963217e8c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8790d65f-3518-4f1d-9204-ef0d6d38fdc4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=017054ce-3a21-4d4c-97d0-5cb963217e8c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8790d65f-3518-4f1d-9204-ef0d6d38fdc4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=885ba685-6406-48f9-b481-e792ae42224a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8790d65f-3518-4f1d-9204-ef0d6d38fdc4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7354&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=885ba685-6406-48f9-b481-e792ae42224a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8790d65f-3518-4f1d-9204-ef0d6d38fdc4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-predictions-spreads-totals-prop-bets-for-sunday-november-15&tw_engaged_ms=7354&tw_iframe_status=0&tw_pid_src=2&tw_session_count=93&tw_session_id=1794776592578-121670258&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

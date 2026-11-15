@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-15 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-15 16:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,45 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Tobe Awaka](https://www.rotowire.com/basketball/player/tobe-awaka-7008)[Set to miss fourth straight game](https://www.rotowire.com/basketball/headlines/tobe-awaka-injury-set-to-miss-fourth-straight-game-539281)
+**C** Chicago Bulls
+Back
+November 15, 2026
+Awaka (back) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf) for Monday's game against the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-questionable-for-monday-539280)
+**C** Chicago Bulls
+Finger
+November 15, 2026
+Smith (finger) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf) for Monday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Max Christie](https://www.rotowire.com/basketball/player/max-christie-5723)[Ruled out again Sunday](https://www.rotowire.com/basketball/headlines/max-christie-injury-ruled-out-again-sunday-539279)
+**G** Dallas Mavericks
+Ankle
+November 15, 2026
+Christie (ankle) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf) for Sunday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/kyrie-irving-injury-wont-play-sunday-539278)
+**G** Dallas Mavericks
+Knee
+November 15, 2026
+Irving (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf) for Sunday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Grayson Allen](https://www.rotowire.com/basketball/player/grayson-allen-4454)[Not starting Sunday](https://www.rotowire.com/basketball/headlines/grayson-allen-news-not-starting-sunday-539277)
+**G** Charlotte Hornets
+November 15, 2026
+Allen is not listed in the starting lineup for Sunday's game against the Clippers, [Tomer Azarly of ClutchPoints.com](https://x.com/TomerAzarly/status/2122072632602538046?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
 [Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Erupts for season-high 31 points in win](https://www.rotowire.com/basketball/headlines/jaylen-brown-news-erupts-for-season-high-31-points-in-win-539276)
 **F** Philadelphia 76ers
@@ -161,48 +200,11 @@ November 15, 2026
 Adams (calf) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_12_30PM.pdf) for Sunday's game against the Wizards.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Ryan Rollins](https://www.rotowire.com/basketball/player/ryan-rollins-5668)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/ryan-rollins-injury-questionable-for-sunday-539240)
-**G** Milwaukee Bucks
-Illness
-November 15, 2026
-Rollins (illness) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_12_15PM.pdf) to play in Sunday's game against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)[Cleared to play Sunday](https://www.rotowire.com/basketball/headlines/aaron-nesmith-news-cleared-to-play-sunday-539238)
-**F** Indiana Pacers
-November 15, 2026
-Nesmith (hand) is [available](https://x.com/Pacers/status/2122014534764319109?a=6p2VIYE-H6N2gUQcYS0&s=20) for Sunday's game against the 76ers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)[Available Sunday](https://www.rotowire.com/basketball/headlines/tj-mcconnell-news-available-sunday-539237)
-**G** Indiana Pacers
-November 15, 2026
-McConnell (hamstring) is [active](https://x.com/Pacers/status/2122014534764319109?s=20) for Sunday's game against the 76ers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/andrew-nembhard-injury-wont-play-sunday-539233)
-**G** Indiana Pacers
-Hip
-November 15, 2026
-Nembhard (hip) has been ruled out for Sunday's game against the 76ers, [Tony East of Forbes.com](https://x.com/TonyREast/status/2122006616698716450?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Starting versus Pacers](https://www.rotowire.com/basketball/headlines/jabari-walker-news-starting-versus-pacers-539231)
-**F** Philadelphia 76ers
-November 15, 2026
-Walker will start in Sunday's game against the Pacers, [Austin Krell of OnPattison.com](https://x.com/NBAKrell/status/2122001844381626645?a=42Ofd_Sml_mq87GeGAE&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
 [![MLB Draft Kit Logo](https://assets.rotowire.com/images/rebrand-assets/draft-kit/alt/mlb-draft-kit.jpg)](https://www.rotowire.com/baseball/draft-kit.php)
 #### [MLB Draft Kit](https://www.rotowire.com/baseball/draft-kit.php)
 Fantasy Tools
 Don’t miss a beat. Check out our 2026 MLB Fantasy Baseball rankings.
 ![RotoWire Logo](https://assets.rotowire.com/images/rotowire-site-logo-purple.svg)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598999e9a969b9c9b9a9b66uokewi0e0y64666m6e606g6i6g6e6g)
 
