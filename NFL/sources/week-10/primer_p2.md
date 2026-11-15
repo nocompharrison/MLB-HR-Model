@@ -1,6 +1,6 @@
-<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/ | fetched: 2026-11-12 10:03 ET -->
+<!-- source: https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/ | fetched: 2026-11-15 09:33 ET -->
 
-![The Primer: Week 10 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/josh_allen_qb/716x316.jpg)
+![The Primer: Week 10 Edition \(2026 Fantasy Football\)](https://cdn.fantasypros.com/wp-content/images/primer_week_10_2026/716x316.jpg)
 [
   * 1](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/1/)
   * 2
@@ -11,7 +11,7 @@
   
 
 ### **Minnesota Vikings vs. Green Bay Packers**
-  * GB -3, O/U 42.5
+  * GB -2.5, O/U 42.5
   * [Minnesota Vikings vs. Green Bay Packers Player Prop Bets via BettingPros](https://www.bettingpros.com/nfl/picks/prop-bets/minnesota-vikings-vs-green-bay-packers?distinct_id=%24device%3Aa2141214-0b55-4b2b-990a-e4e514a2d752&referred_by=https%3A%2F%2Fwww.fantasypros.com%2F2026%2F11%2Fthe-primer-week-10-edition-2026-fantasy-football%2F2%2F)
 
 
@@ -23,8 +23,8 @@
 | [Jordan Mason](https://www.fantasypros.com/nfl/players/jordan-mason.php)  | RB  | RB2/3  |  
 | [Justin Jefferson](https://www.fantasypros.com/nfl/players/justin-jefferson.php)  | WR  | WR1  |  
 | [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php)  | WR  | WR3  |  
-| [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php)  | WR  | WR6  |  
-| [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php)  | TE  | TE1/2  |  
+| [Jauan Jennings](https://www.fantasypros.com/nfl/players/jauan-jennings.php)  | WR  | Out  |  
+| [T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php)  | TE  | Out  |  
 #### **Packers Players & Weekly Rankings**  
 | Player  | Position  | Weekly Ranking  |  
 | --- | --- | --- |  
@@ -65,8 +65,6 @@ _Players in consideration for lineups, but temper your expectations this week._
 [Jordan Addison](https://www.fantasypros.com/nfl/players/jordan-addison.php) is the WR65 in fantasy points per game with only two games this season with double-digit PPR points, but with the arrival of [Kirk Cousins](https://www.fantasypros.com/nfl/players/kirk-cousins.php), hopefully, better days could be ahead. Addison has a 17.9% target share with 1.34 YPRR, one red zone target, nine deep targets, and a 25% first-read share. Across their last five games, Green Bay has allowed the ninth-fewest yards per target and the tenth-fewest fantasy points per opportunity to perimeter wide receivers. Sit Addison this week.
 **[Tucker Kraft (TE)](https://www.fantasypros.com/nfl/players/tucker-kraft.php)**
 Since Week 4, [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraft.php) has been the TE7 in fantasy points per game. He has had a 16.1% target share with 1.53 YPRR, eight red zone targets, four deep targets, and an 18.2% first-read share. Kraft will need a score to return TE1-level fantasy production this week. He has a horrible matchup. Over their last five games, Minnesota has allowed the fifth-fewest yards per target and the seventh-fewest fantasy points per opportunity to tight ends.
-**[T.J. Hockenson (TE)](https://www.fantasypros.com/nfl/players/tj-hockenson.php)**
-[T.J. Hockenson](https://www.fantasypros.com/nfl/players/tj-hockenson.php) is the TE11 in fantasy points per game. Hockenson has a 19.1% target share with 2.01 YPRR, seven red zone targets, one deep target, and a 20.3% first-read share. Hockenson will need a touchdown to return TE1 production this week with a tough matchup incoming. Over their last five games, Green Bay has ranked 15th in yards per target against tight ends while allowing the third-fewest fantasy points per opportunity.
 [WAS vs. NYG](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#was-nyg) | [NE vs. DET](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#ne-det) | [KC vs. ATL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#kc-atl) | [HOU vs. CLE](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#hou-cle) | [MIN vs. GB](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#min-gb) | [JAC vs. TEN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#jac-ten) | [MIA vs. IND](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#mia-ind) | [CAR vs. NO](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#car-no) | [BUF vs. NYJ](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/) | [SEA vs. LV](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sea-lv) | [LAR vs. ARI](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#lar-ari) | [SF vs. DAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sf-dal) | [PIT vs. CIN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/) | [LAC vs. BAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/#lac-bal)  
 
 ### **Jacksonville Jaguars vs. Tennessee Titans**
@@ -78,7 +76,7 @@ Since Week 4, [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraf
 | Player  | Position  | Weekly Ranking  |  
 | --- | --- | --- |  
 | [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php)  | QB  | QB1  |  
-| [Bhayshul Tuten](https://www.fantasypros.com/nfl/players/bhayshul-tuten.php)  | RB  | RB1*  |  
+| [Bhayshul Tuten](https://www.fantasypros.com/nfl/players/bhayshul-tuten.php)  | RB  | RB1  |  
 | [Chris Rodriguez](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php)  | RB  | RB3  |  
 | [Parker Washington](https://www.fantasypros.com/nfl/players/parker-washington.php)  | WR  | WR1/2  |  
 | [Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php)  | WR  | WR3  |  
@@ -90,17 +88,16 @@ Since Week 4, [Tucker Kraft](https://www.fantasypros.com/nfl/players/tucker-kraf
 | --- | --- | --- |  
 | [Cam Ward](https://www.fantasypros.com/nfl/players/cam-ward.php)  | QB  | QB2  |  
 | [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollard.php)  | RB  | RB2/3  |  
-| [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php)  | RB  | TBD  |  
-| [Carnell Tate](https://www.fantasypros.com/nfl/players/carnell-tate.php)  | WR  | TBD  |  
+| [Tyjae Spears](https://www.fantasypros.com/nfl/players/tyjae-spears.php)  | RB  | RB4  |  
+| [Carnell Tate](https://www.fantasypros.com/nfl/players/carnell-tate.php)  | WR  | Out  |  
 | [Wan’Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php)  | WR  | WR3/4  |  
 | [Calvin Ridley](https://www.fantasypros.com/nfl/players/calvin-ridley.php)  | WR  | WR6  |  
 | [Gunnar Helm](https://www.fantasypros.com/nfl/players/gunnar-helm.php)  | TE  | TE2/3  |  
 #### **Must-Start**
 _These are no-brainer MUST starts._
   * [Trevor Lawrence](https://www.fantasypros.com/nfl/players/trevor-lawrence.php)
-  * [Bhayshul Tuten](https://www.fantasypros.com/nfl/players/bhayshul-tuten.php)*
+  * [Bhayshul Tuten](https://www.fantasypros.com/nfl/players/bhayshul-tuten.php)
   * [Parker Washington](https://www.fantasypros.com/nfl/players/parker-washington.php)
-  * _[Bhayshul Tuten](https://www.fantasypros.com/nfl/players/bhayshul-tuten.php) opened this week with a DNP (ankle/foot). I’ll update his outlook on Friday, but if he is active this week, he should be in your lineups._
 
 
 #### **Strong Starts**
@@ -112,8 +109,8 @@ _Let’s fill out those flex spots._
 **[Chris Rodriguez (RB)](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php)**
 [Chris Rodriguez](https://www.fantasypros.com/nfl/players/chris-rodriguez-jr.php) is a viable flex option again this week. Rodriguez has 12 red zone carries this season while averaging 7.4 touches and 33 total yards. If he gets into the end zone this week, he could give you a comfy double-digit PPR points. Rodriguez has posted 2.20 yards after contact per attempt and an 18% missed tackle rate this season. The Titans’ run defense has been giving. Over their last five games, they have allowed the sixth-highest explosive run rate, the fifth-highest rushing success rate, and the fifth-most yards before contact per attempt.
 **[Jakobi Meyers (WR)](https://www.fantasypros.com/nfl/players/jakobi-meyers.php)**
-[Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) is the WR48 in fantasy points per game with four games of at least 10.5 PPR points. Meyers is in the flex conversation again this week. He has a 15.9% target share with 2.02 YPRR, eight red zone targets, three deep targets, and a 19% first-read share. Over their last five games, Tennessee has allowed the most receiving fantasy points per game and the eighth-most fantasy points per opportunity to perimeter wide receivers. Meyers opened this week with a DNP (ankle). I’ll update his outlook further on Friday.
-#### **Concerning Starts & Players to Fade**
+[Jakobi Meyers](https://www.fantasypros.com/nfl/players/jakobi-meyers.php) is the WR48 in fantasy points per game with four games of at least 10.5 PPR points. Meyers is in the flex conversation again this week. He has a 15.9% target share with 2.02 YPRR, eight red zone targets, three deep targets, and a 19% first-read share. Over their last five games, Tennessee has allowed the most receiving fantasy points per game and the eighth-most fantasy points per opportunity to perimeter wide receivers.
+**Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Cam Ward (QB)](https://www.fantasypros.com/nfl/players/cam-ward.php)**
 I know the last time we saw [Cam Ward](https://www.fantasypros.com/nfl/players/cam-ward.php), he had arguably the best game of his NFL career, but he’s still tough to trust in fantasy. Ward is still the QB29 in fantasy points per game, with only two games this season with more than 17 fantasy points. Among 31 qualifying passers, Ward is 29th in yards per attempt, 21st in passing success rate, 24th in highly accurate throw rate, and 30th in hero throw rate. He was efficient against Cincy, but it was smoke and mirrors to an extent. That week, Ward had the seventh-lowest aDOT (6.65) and time to throw. 15% of his passing plays were screens. I need to see Ward succeed consistently for a few games before I’m willing to trust him. Sit Ward this week. Over their last five games, the Jags have allowed the 14th-fewest yards per attempt, the ninth-lowest passing success rate, the eighth-lowest CPOE, and have ranked seventh in pressure rate.
@@ -123,8 +120,6 @@ Since Week 6, [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollar
 [Wan’Dale Robinson](https://www.fantasypros.com/nfl/players/wandale-robinson.php) is the WR43 in fantasy points per game with four games of at least 11 PPR points this season. He excelled in Week 8 with a soft matchup against Cincy as the WR15 for the week. Robinson has a 19.8% target share with 1.19 YPRR, ten red zone targets, four deep targets, and a 24.9% first-read share. Robinson is only a low-end PPR flex this week. Over their last five games, the Jags have allowed the eighth-fewest yards per target and the ninth-fewest receiving fantasy points per game to slot receivers.
 **[Brian Thomas Jr. (WR)](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php)**
 [Brian Thomas](https://www.fantasypros.com/nfl/players/brian-thomas-jr.php) remains off the fantasy radar. Since Week 5, he has had a 39.3% route share, a 5.7% target share, 0.23 YPRR, and a 7.6% first-read share. Unless his role changes this week, this will be the last time I worry about writing him up for the Primer.
-**[Carnell Tate (WR)](https://www.fantasypros.com/nfl/players/carnell-tate.php)**
-[Carnell Tate](https://www.fantasypros.com/nfl/players/carnell-tate.php) opened this week with a DNP (shoulder). I’ll update his outlook on Friday.
 [WAS vs. NYG](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#was-nyg) | [NE vs. DET](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#ne-det) | [KC vs. ATL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#kc-atl) | [HOU vs. CLE](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#hou-cle) | [MIN vs. GB](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#min-gb) | [JAC vs. TEN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#jac-ten) | [MIA vs. IND](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#mia-ind) | [CAR vs. NO](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#car-no) | [BUF vs. NYJ](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/) | [SEA vs. LV](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sea-lv) | [LAR vs. ARI](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#lar-ari) | [SF vs. DAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sf-dal) | [PIT vs. CIN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/) | [LAC vs. BAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/#lac-bal)
 [![FantasyPros Fantasy Football Start-Sit Assistant](https://cdn.fantasypros.com/wp-content/uploads/Stat-Category-Leader-4.jpg)](https://www.fantasypros.com/nfl/myplaybook/start-sit-assistant.php)  
 
@@ -141,7 +136,7 @@ Since Week 6, [Tony Pollard](https://www.fantasypros.com/nfl/players/tony-pollar
 | [Kaytron Allen](https://www.fantasypros.com/nfl/players/kaytron-allen.php)  | RB  | RB4  |  
 | [Caleb Douglas](https://www.fantasypros.com/nfl/players/caleb-douglas.php)  | WR  | WR3/4  |  
 | [Malik Washington](https://www.fantasypros.com/nfl/players/malik-washington.php)  | WR  | WR4/5  |  
-| [Chris Bell](https://www.fantasypros.com/nfl/players/chris-bell.php)  | WR  | WR5  |  
+| [Chris Bell](https://www.fantasypros.com/nfl/players/chris-bell.php)  | WR  | Doubtful  |  
 | [Kevin Coleman](https://www.fantasypros.com/nfl/players/kevin-coleman-jr.php)  | WR  | WR6  |  
 | [Greg Dulcich](https://www.fantasypros.com/nfl/players/greg-dulcich.php)  | TE  | TE2/3  |  
 #### **Colts Players & Weekly Rankings**  
@@ -189,23 +184,23 @@ _Players in consideration for lineups, but temper your expectations this week._
 | --- | --- | --- |  
 | [Bryce Young](https://www.fantasypros.com/nfl/players/bryce-young.php)  | QB  | QB1  |  
 | [Chuba Hubbard](https://www.fantasypros.com/nfl/players/chuba-hubbard.php)  | RB  | RB1  |  
-| [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php)  | RB  | TBD  |  
+| [Jonathon Brooks](https://www.fantasypros.com/nfl/players/jonathon-brooks.php)  | RB  | Doubtful  |  
 | [Tetairoa McMillan](https://www.fantasypros.com/nfl/players/tetairoa-mcmillan.php)  | WR  | WR2  |  
 | [Jalen Coker](https://www.fantasypros.com/nfl/players/jalen-coker.php)  | WR  | WR2  |  
-| [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php)  | WR  | TBD  |  
+| [Xavier Legette](https://www.fantasypros.com/nfl/players/xavier-legette.php)  | WR  | WR5/6  |  
 | [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php)  | TE  | TE1/2  |  
 | [Tommy Tremble](https://www.fantasypros.com/nfl/players/tommy-tremble.php)  | TE  | TE2  |  
 #### **Saints Players & Weekly Rankings**  
 | Player  | Position  | Weekly Ranking  |  
 | --- | --- | --- |  
 | [Tyler Shough](https://www.fantasypros.com/nfl/players/tyler-shough.php)  | QB  | QB1  |  
-| [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php)  | RB  | RB3/4  |  
-| [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php)  | RB  | RB3  |  
-| [Travis Etienne](https://www.fantasypros.com/nfl/players/travis-etienne.php)  | RB  | TBD*  |  
+| [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php)  | RB  | RB4  |  
+| [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php)  | RB  | RB4  |  
+| [Travis Etienne](https://www.fantasypros.com/nfl/players/travis-etienne.php)  | RB  | RB2/3  |  
 | [Chris Olave](https://www.fantasypros.com/nfl/players/chris-olave.php)  | WR  | WR1  |  
 | [Jordyn Tyson](https://www.fantasypros.com/nfl/players/jordyn-tyson.php)  | WR  | WR3/4  |  
 | [Devaughn Vele](https://www.fantasypros.com/nfl/players/devaughn-vele.php)  | WR  | WR4  |  
-| [Bryce Lance](https://www.fantasypros.com/nfl/players/bryce-lance.php)  | WR  | WR5  |  
+| [Bryce Lance](https://www.fantasypros.com/nfl/players/bryce-lance.php)  | WR  | WR6  |  
 | [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php)  | TE  | TE2  |  
 #### **Must-Start**
 _These are no-brainer MUST starts._
@@ -227,16 +222,16 @@ Overall, [Jalen Coker](https://www.fantasypros.com/nfl/players/jalen-coker.php) 
 Overall, [Darren Waller](https://www.fantasypros.com/nfl/players/darren-waller.php) is the TE16 in fantasy points per game with two TE1 finishes in weekly scoring (TE5, TE1). Waller has managed four games with double-digit PPR points. Last week, Waller saw a huge spike in his usage with a season-high 67.4% route share, 25.6% target share, and 28.6% first-read share. I don’t expect that usage to continue this week, but considering how good Waller was last week, it might be tough for Carolina to put that genie back in the bottle. Overall, Waller has a 54.3% route share, a 9.6% target share, 1.58 YPRR, four red zone targets, three deep targets, and a 10.6% first-read share. Over their last five games, New Orleans has allowed the sixth-most yards per target and the third-most fantasy points per opportunity to tight ends.
 #### **Fantasy Football Flex & Deep Plays to Consider**
 _Let’s fill out those flex spots._
-**[Audric Estime (RB)](https://www.fantasypros.com/nfl/players/audric-estime.php)**
-Last week, [Audric Estime](https://www.fantasypros.com/nfl/players/audric-estime.php) took over the “[Kendre Miller](https://www.fantasypros.com/nfl/players/kendre-miller.php) role” in the Saints offense as the primary early down thumper. Estime had a 48.6% snap rate, 46.9% of the rushing work, and a 28.9% route share (2.9% target share). Estime handled all three of the red zone rushing attempts as he scored a touchdown. Estime was the RB10 for the week as he finished with 16 touches and 77 total yards. Estime has 2.08 yards after contact per attempt and a 13% missed tackle rate. Estime is a solid flex again this week. Over their last five games, Carolina has allowed the 14th-highest rushing success rate, the eighth-highest yards before contact per attempt, and the fifth-highest missed tackle rate.
+**[Travis Etienne (RB)](https://www.fantasypros.com/nfl/players/travis-etienne.php)**
+Travis Etienne will be back in the huddle this week. In Weeks 1-3, he had a 50% snap rate, 37.5% of the rushing work, and a 32.7% route share (9.1% target share). Etienne averaged 13.7 touches and 59.7 total yards. He posted a 10.7% explosive run rate and a respectable 17% missed tackle rate. The Saints need a spark from this backfield, and Etienne could provide it. I expect him to lead the backfield in touches this week. Over their last five games, Carolina has allowed the 14th-highest rushing success rate, the eighth-highest yards before contact per attempt, and the fifth-highest missed tackle rate. Etienne is a solid flex play who could easily post RB2 numbers this week.
 **[Jordyn Tyson (WR)](https://www.fantasypros.com/nfl/players/jordyn-tyson.php)**
 Last week, [Jordyn Tyson](https://www.fantasypros.com/nfl/players/jordyn-tyson.php) was eased back in with his first regular-season action after being sidelined with hamstring issues. Tyson had a 23.6% snap rate, a 33.3% route share, a 27% TPRR (11.4% target share), 2.00 YPRR, one red zone target, and a 14.3% first-read share. I expect the Saints to slowly ramp up their talented rookie. I wouldn’t be surprised to see him log a 40% snap rate and 50-60% route share this week, but it’s an in-the-dark projection. I don’t want to start Tyson this week, but he does have a nice matchup. Over their last five games, Carolina has allowed the 12th-most yards per target and the third-most receiving fantasy points per game to perimeter wide receivers.
 #### **Concerning Starts & Players to Fade**
 _Players in consideration for lineups, but temper your expectations this week._
 **[Alvin Kamara (RB)](https://www.fantasypros.com/nfl/players/alvin-kamara.php)**
-Last week, [Alvin Kamara](https://www.fantasypros.com/nfl/players/alvin-kamara.php) didn’t see his role grow as he operated as the passing-down back almost exclusively. Kamara had a 48.6% snap rate with only 18.8% of the rushing work, a 57.8% route share, and an 11.4% target share. Kamara finished with nine touches and 49 total yards (zero touchdowns). Kamara is only a middling PPR flex this week. Over their last five games, Carolina has allowed the fifth-fewest yards per target and the 14th-fewest receiving fantasy points per game to backs.
-**[Travis Etienne (RB)](https://www.fantasypros.com/nfl/players/travis-etienne.php)**
-[Travis Etienne](https://www.fantasypros.com/nfl/players/travis-etienne.php) opened this week with a limited practice (hamstring). I don’t expect him to be back this week, but I’ll update his outlook on Friday.
+Last week, Alvin Kamara didn’t see his role grow as he operated as the passing-down back almost exclusively. Kamara had a 48.6% snap rate with only 18.8% of the rushing work, a 57.8% route share, and an 11.4% target share. Kamara finished with nine touches and 49 total yards (zero touchdowns). Kamara is only a middling PPR flex this week. I expect Travis Etienne to lead the backfield in touches in Week 10. Over their last five games, Carolina has allowed the fifth-fewest yards per target and the 14th-fewest receiving fantasy points per game to backs.
+**[Audric Estime (RB)](https://www.fantasypros.com/nfl/players/audric-estime.php)**
+With Travis Etienne back, I expect Audric Estime to operate as only a change-of-pace role on early downs this week. Could he fall into the end zone this week and save his fantasy day? It’s possible, but I don’t want to depend upon that when I’m concerned about his volume. Sit him this week. Over their last five games, Carolina has allowed the 14th-highest rushing success rate, the eighth-highest yards before contact per attempt, and the fifth-highest missed tackle rate.
 **[Juwan Johnson (TE)](https://www.fantasypros.com/nfl/players/juwan-johnson.php)**
 Last week, [Juwan Johnson](https://www.fantasypros.com/nfl/players/juwan-johnson.php) was the TE10 for the week. Johnson had a 52.8% snap rate and 64.4% route share. That was his highest route share since Week 5. Johnson still only had a 5.7% target share and 9.5% first-read share. His touchdown fueled his fantasy day. Since Week 6, his role in the passing attack has shriveled up with only a 4.9% target share, 0.59 YPRR, and a 7.8% first-read share. Johnson is a sit until his role changes. Over their last five games, Carolina has held tight ends to the 12th-lowest yards per target and the 14th-fewest receiving fantasy points per game.
 [WAS vs. NYG](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#was-nyg) | [NE vs. DET](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#ne-det) | [KC vs. ATL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#kc-atl) | [HOU vs. CLE](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/#hou-cle) | [MIN vs. GB](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#min-gb) | [JAC vs. TEN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#jac-ten) | [MIA vs. IND](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#mia-ind) | [CAR vs. NO](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/#car-no) | [BUF vs. NYJ](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/) | [SEA vs. LV](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sea-lv) | [LAR vs. ARI](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#lar-ari) | [SF vs. DAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/#sf-dal) | [PIT vs. CIN](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/) | [LAC vs. BAL](https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/#lac-bal)
@@ -254,7 +249,7 @@ Rate this article
 BoomBust
 [ ![](https://www.fantasypros.com/assets/images/google-icon-mono.svg) Add FantasyPros on Google ](https://www.google.com/preferences/source?q=fantasypros.com)
 ## More Articles
-[ ![6 Fantasy Football Lineup Landmines: Start/Sit Advice \(Week 10\)](https://cdn.fantasypros.com/wp-content/images/dj_moore_bills_5-1/265x117.jpg) 6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 10) ![fp-headshot](https://images.fantasypros.com/images/experts/mike-fanelli-20220210.jpg) by **Mike Fanelli** | 3 min read ](https://www.fantasypros.com/2026/11/6-fantasy-football-lineup-landmines-start-sit-advice-week-10-2026/) [ ![6 Fantasy Football Smash Starts: Week 10 \(2026\)](https://cdn.fantasypros.com/wp-content/images/audric_estime_saints_2/265x117.jpg) 6 Fantasy Football Smash Starts: Week 10 (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/mike-fanelli-20220210.jpg) by **Mike Fanelli** | 3 min read ](https://www.fantasypros.com/2026/11/6-fantasy-football-smash-starts-week-10-2026/) [ ![Fantasy Football Start/Sit Advice: Safe & Risky Picks \(Week 10\)](https://cdn.fantasypros.com/wp-content/images/jadarian_price_seahawks_4-1/265x117.jpg) Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 10) ![fp-headshot](https://images.fantasypros.com/images/experts/tom-strachan-20220428.jpg) by **Tom Strachan** | 3 min read ](https://www.fantasypros.com/2026/11/fantasy-football-start-sit-advice-safe-risky-picks-week-10-2026/) [ ![Fantasy Football Rankings: Most Accurate Experts \(Week 10\)](https://cdn.fantasypros.com/wp-content/images/BROCK_PURDY_49ERS_5-1/265x117.jpg) Fantasy Football Rankings: Most Accurate Experts (Week 10) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 3 min read ](https://www.fantasypros.com/2026/11/fantasy-football-rankings-most-accurate-experts-week-10-2026/)
+[ ![Fantasy Football Week 10 Player Grades & Start/Sit Advice \(2026\)](https://cdn.fantasypros.com/wp-content/images/tee_higgins_bengals_8-1/265x117.jpg) Fantasy Football Week 10 Player Grades & Start/Sit Advice (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 4 min read ](https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/) [ ![Fantasy Football: Last-Minute Advice for Week 10 \(2026\)](https://cdn.fantasypros.com/wp-content/images/bengals_jamarr_chase/265x117.jpg) Fantasy Football: Last-Minute Advice for Week 10 (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 2 min read ](https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-10-2026/) [ ![Fantasy Football Week 10 Rankings From the Most Accurate Experts \(2026\)](https://cdn.fantasypros.com/wp-content/images/Joe_Burrow_Bengals_15/265x117.jpg) Fantasy Football Week 10 Rankings From the Most Accurate Experts (2026) ![fp-headshot](https://images.fantasypros.com/images/experts/fantasypros-staff-20230724.jpg) by **FantasyPros Staff** | 3 min read ](https://www.fantasypros.com/2026/11/fantasy-football-week-10-rankings-from-the-most-accurate-experts-2026/) [ ![5 Fantasy Football Waiver Wire Stashes: Week 10 \(2026\)](https://cdn.fantasypros.com/wp-content/images/chimere_dike_titans_6-1/265x117.jpg) 5 Fantasy Football Waiver Wire Stashes: Week 10 (2026) ![fp-headshot](https://pbs.twimg.com/profile_images/1590203434426310661/sFkRSYrI.jpg) by **Frank Ammirante** | 1 min read ](https://www.fantasypros.com/2026/11/5-fantasy-football-waiver-wire-stashes-week-10-2026/)
 ## About Author
 ![fp-headshot](https://wordpress.fantasypros.com/wp-content/uploads/dbro_avatar.png)
 [Derek Brown ](https://www.fantasypros.com/news/correspondents/derek-brown.php)
@@ -268,5 +263,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ Week 10 Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-rb.php)[ Rest of Season Rankings ](https://www.fantasypros.com/nfl/rankings/ros-half-point-ppr-overall.php)[ Rest of Season Rankings ](https://www.fantasypros.com/nfl/rankings/ros-overall.php)[ Half-PPR Cheatsheet ](https://www.fantasypros.com/nfl/cheatsheets/half-ppr.php)[ Draft Half PPR RB Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-rb-cheatsheets.php)[ Half PPR Tight End Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-te-cheatsheets.php)[ Half PPR Wide Receiver Rankings ](https://www.fantasypros.com/nfl/rankings/half-point-ppr-wr-cheatsheets.php)[ Individual Defensive Player Cheat Sheet Rankings ](https://www.fantasypros.com/nfl/rankings/idp.php)[ Kicker Rankings Cheat Sheet ](https://www.fantasypros.com/nfl/rankings/k.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6597969b9f98969b9e969f66uokewi0e0y62606g6o64606g6m606o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a6597969b9f98969b9e969f66uokewi0e0y62606g6o64606g6m606o&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001791468024-LHL4GK29-5315&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001791468024-LHL4GK29-5315&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)
 

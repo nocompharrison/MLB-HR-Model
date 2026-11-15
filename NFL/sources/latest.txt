@@ -1,15 +1,15 @@
-# NFL sources | season 2026 | week 10 | updated 2026-11-12 10:03 ET
+# NFL sources | season 2026 | week 10 | updated 2026-11-15 09:33 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-10/primer_p1.md                     54,832 chars                       https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/
-OK      NFL/sources/week-10/primer_p2.md                     49,055 chars                       https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-10/primer_p3.md                     48,577 chars                       https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-10/primer_p4.md                     26,274 chars                       https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/
-FAILED  NFL/sources/week-10/fantasypros_grades.md            HTTP 404                           https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/
-SHORT   NFL/sources/week-10/fantasypoints_startsit.md        0 words of article text - not published, paywalled or blocked? https://www.fantasypoints.com/nfl/articles/2026/week-10-fantasy-football-start-em-sit-em-advice
-FAILED  NFL/sources/week-10/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-10-2026
+OK      NFL/sources/week-10/primer_p1.md                     UPDATED (changed since 2026-11-12 10:03) 56,696 chars https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/
+OK      NFL/sources/week-10/primer_p2.md                     UPDATED (changed since 2026-11-12 10:03) 48,143 chars https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-10/primer_p3.md                     UPDATED (changed since 2026-11-12 10:03) 51,146 chars https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-10/primer_p4.md                     UPDATED (changed since 2026-11-12 10:03) 26,788 chars https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/4/
+OK      NFL/sources/week-10/fantasypros_grades.md            22,361 chars (via Jina)            https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/
+OK      NFL/sources/week-10/fantasypoints_startsit.md        UPDATED (changed since 2026-11-12 10:03) 79,851 chars https://www.fantasypoints.com/nfl/articles/2026/week-10-fantasy-football-start-em-sit-em-advice
+OK      NFL/sources/week-10/rotoballer_startsit.md           144,720 chars                      https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-10-2026
 FAILED  NFL/sources/week-10/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk10.html
-OK      NFL/sources/week-10/4for4_startsit.md                62,478 chars                       https://www.4for4.com/2026/w10/fantasy-football-week-10-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-10/fantasypros_news.md              25,058 chars                       https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-10/4for4_oline.md                   30,774 chars                       https://www.4for4.com/2026/w10/nfl-offensive-line-rankings-week-10-matchups-exploit
-OK      NFL/sources/week-10/rotoballer_betting.md            344,689 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
+OK      NFL/sources/week-10/4for4_startsit.md                UPDATED (changed since 2026-11-12 10:03) 62,598 chars https://www.4for4.com/2026/w10/fantasy-football-week-10-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-10/fantasypros_news.md              UPDATED (changed since 2026-11-12 10:03) 25,799 chars https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-10/4for4_oline.md                   UPDATED (changed since 2026-11-12 10:03) 30,571 chars https://www.4for4.com/2026/w10/nfl-offensive-line-rankings-week-10-matchups-exploit
+OK      NFL/sources/week-10/rotoballer_betting.md            UPDATED (changed since 2026-11-12 10:03) 333,226 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks

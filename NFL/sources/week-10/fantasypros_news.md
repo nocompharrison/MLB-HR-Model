@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-12 10:03 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-15 09:33 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,283 +7,283 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
-[![Daiyan Henley](https://images.fantasypros.com/images/players/nfl/25436/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/daiyanhenley.php)
-LB - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/daiyanhenley.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/daiyanhenley.php)  
-[» More News](https://www.fantasypros.com/nfl/news/daiyanhenley.php)
-[Daiyan Henley will not be traded to Broncos](https://www.fantasypros.com/nfl/news/619466/daiyan-henley-will-not-be-traded-to-broncos.php)  
+[![Will Anderson Jr.](https://images.fantasypros.com/images/players/nfl/24717/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/will-anderson.php)
+DE - HOU
+[» Rankings](https://www.fantasypros.com/nfl/players/will-anderson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/will-anderson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/will-anderson.php)
+[Will Anderson Jr. (ankle) expected to play Sunday](https://www.fantasypros.com/nfl/news/620212/will-anderson-jr-ankle-expected-to-play-sunday.php)  
 
-Thu, Nov 12th 2:31am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Broncos deal for Dayian Henley is off and will not be finalized. (Source: [Parker Gabriel on Twitter](https://x.com/ParkerJGabriel/status/2120747617965748260))
-**_Fantasy Impact:_** The Broncos said Tuesday that it was pending a physical. It appears that may have been the issue. He will remain with the Chargers. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![David Montgomery](https://images.fantasypros.com/images/players/nfl/18239/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/david-montgomery.php)
-RB - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/david-montgomery.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/david-montgomery.php)  
-[» More News](https://www.fantasypros.com/nfl/news/david-montgomery.php)
-[David Montgomery (groin) misses practice Wednesday ](https://www.fantasypros.com/nfl/news/619465/david-montgomery-groin-misses-practice-wednesday.php)  
-
-Thu, Nov 12th 2:30am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-David Montgomery did not practice on Wednesday. 
-**_Fantasy Impact:_** Montgomery remains without a clear timetable to return. He'll need to be monitored in practice the rest of the week. 
+Sun, Nov 15th 8:52am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Will Anderson Jr. (ankle) is expected to play Sunday for the Houston Texans according to Ian Rapoport. (Source: [Ian Rapoport on Twitter ](https://x.com/rapsheet/status/2121936769021288546?a=8sV1a686kBdNFlBSkSo&s=46))
+**_Fantasy Impact:_** Anderson Jr. will test the injured ankle during pregame activities for head coach DeMeco Ryans, and barring any setbacks is poised to take the field and boost a Houston starting five that will look to disrupt an inconsistent Browns offense Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Brevin Jordan](https://images.fantasypros.com/images/players/nfl/20162/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brevin-jordan.php)
-TE - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/brevin-jordan.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/brevin-jordan.php)  
-[» More News](https://www.fantasypros.com/nfl/news/brevin-jordan.php)
-[Brevin Jordan (finger/foot) misses practice Wednesday ](https://www.fantasypros.com/nfl/news/619464/brevin-jordan-fingerfoot-misses-practice-wednesday.php)  
+[![Sione Vaki](https://images.fantasypros.com/images/players/nfl/26309/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/sione-vaki.php)
+RB - DET
+[» Rankings](https://www.fantasypros.com/nfl/players/sione-vaki.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/sione-vaki.php)  
+[» More News](https://www.fantasypros.com/nfl/news/sione-vaki.php)
+[Sione Vaki (ankle) active for Week 10](https://www.fantasypros.com/nfl/news/620204/sione-vaki-ankle-active-week-10.php)  
 
-Thu, Nov 12th 2:29am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Brevin Jordan did not practice on Wednesday. 
-**_Fantasy Impact:_** Jordan remains off the fantasy radar when he is healthy. 
+Sun, Nov 15th 8:14am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Sione Vaki (ankle) is active for Week 10 for the Detroit Lions. (Source: [Detroit Lions on Twitter ](https://x.com/lions/status/2121951552197873952?a=Fcwi48Iyk-QB8oVqYr0&s=46))
+**_Fantasy Impact:_** Vaki will suit up after not suffering any issues during pregame warmups, offering head coach Dan Campbell a stable complementary option behind superstar RB1 Jahmyr Gibbs against the Patriots Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Azeez Al-Shaair](https://images.fantasypros.com/images/players/nfl/18361/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/azeez-al-shaair.php)
-LB - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/azeez-al-shaair.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/azeez-al-shaair.php)  
-[» More News](https://www.fantasypros.com/nfl/news/azeez-al-shaair.php)
-[Azeez Al-Shaair (groin/personal) misses practice Wednesday ](https://www.fantasypros.com/nfl/news/619463/azeez-al-shaair-groinpersonal-misses-practice-wednesday.php)  
+[![A.J. Brown](https://images.fantasypros.com/images/players/nfl/18218/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/aj-brown.php)
+WR - NE
+[» Rankings](https://www.fantasypros.com/nfl/players/aj-brown.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/aj-brown.php)  
+[» More News](https://www.fantasypros.com/nfl/news/aj-brown.php)
+[A.J. Brown (knee/ankle) active for Week 10](https://www.fantasypros.com/nfl/news/620203/aj-brown-kneeankle-active-week-10.php)  
 
-Thu, Nov 12th 2:28am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Azeez Al-Shaair did not practice on Wednesday. 
-**_Fantasy Impact:_** Al-Shaair will need to be monitored in practice on Thursday and Friday. 
+Sun, Nov 15th 8:10am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+A.J. Brown (knee/ankle) is officially active for Week 10 for the New England Patriots against the Detroit Lions according to Adam Schefter. (Source: [Adam Schefter on Twitter ](https://x.com/adamschefter/status/2121951845430215005?a=R3K43HuBrW9zMtALucU&s=46))
+**_Fantasy Impact:_** Brown is good to go after carrying a questionable designation into the weekend, passing through pregame activities without any setbacks. The dynamic wideout will look to offer quarterback Drake Maye an impactful pass-catching option against an inconsistent Detroit secondary Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Keylan Rutledge](https://images.fantasypros.com/images/players/nfl/28199/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/keylan-rutledge.php)
-IOL - HOU
-[» Rankings](https://www.fantasypros.com/nfl/players/keylan-rutledge.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/keylan-rutledge.php)  
-[» More News](https://www.fantasypros.com/nfl/news/keylan-rutledge.php)
-[Keylan Rutledge (neck/shoulder) misses practice Wednesday ](https://www.fantasypros.com/nfl/news/619462/keylan-rutledge-neckshoulder-misses-practice-wednesday.php)  
+[![Rhamondre Stevenson](https://images.fantasypros.com/images/players/nfl/22726/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php)
+RB - NE
+[» Rankings](https://www.fantasypros.com/nfl/players/rhamondre-stevenson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/rhamondre-stevenson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/rhamondre-stevenson.php)
+[Rhamondre Stevenson (knee) active for Week 10](https://www.fantasypros.com/nfl/news/620202/rhamondre-stevenson-knee-active-week-10.php)  
 
-Thu, Nov 12th 2:27am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Keylan Rutledge did not practice on Wednesday. 
-**_Fantasy Impact:_** Rutledge is dealing with multiple injuries. He will need to be monitored in practice the rest of the week. 
+Sun, Nov 15th 8:07am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Rhamondre Stevenson (knee) is officially active for Week 10 for the New England Patriots against the Detroit Lions according to Adam Schefter. (Source: [Adam Schefter on Twitter](https://x.com/adamschefter/status/2121951845430215005?a=R3K43HuBrW9zMtALucU&s=46))
+**_Fantasy Impact:_** Stevenson will take the field after clearing through pregame tests on his knee, boosting a New England backfield missing TreVeyon Henderson (illness) and should receive the majority of backfield touches against the Lions Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jackson Meeks](https://images.fantasypros.com/images/players/nfl/27697/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jackson-meeks.php)
+[![Amon-Ra St. Brown](https://images.fantasypros.com/images/players/nfl/19799/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)
 WR - DET
-[» Rankings](https://www.fantasypros.com/nfl/players/jackson-meeks.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jackson-meeks.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jackson-meeks.php)
-[Jackson Meeks signs with Lions](https://www.fantasypros.com/nfl/news/619461/jackson-meeks-signs-with-lions.php)  
+[» Rankings](https://www.fantasypros.com/nfl/players/amonra-stbrown.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/amonra-stbrown.php)  
+[» More News](https://www.fantasypros.com/nfl/news/amonra-stbrown.php)
+[Amon-Ra St. Brown (rib) active for Week 10](https://www.fantasypros.com/nfl/news/620201/amon-ra-st-brown-rib-active-week-10.php)  
 
-Thu, Nov 12th 2:26am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Lions signed Jackson Meeks to their practice squad. 
-**_Fantasy Impact:_** Meeks returns to Detroit after he was waived by them and cleared waivers. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kyu Blu Kelly](https://images.fantasypros.com/images/players/nfl/25438/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/kyublu-kelly.php)
-CB - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/kyublu-kelly.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/kyublu-kelly.php)  
-[» More News](https://www.fantasypros.com/nfl/news/kyublu-kelly.php)
-[Kyu Blu Kelly signs with Chargers ](https://www.fantasypros.com/nfl/news/619460/kyu-blu-kelly-signs-with-chargers.php)  
-
-Thu, Nov 12th 2:25am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Chargers signed Kyu Blu Kelly. 
-**_Fantasy Impact:_** Kelly will add depth for the Chargers. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Zion Childress](https://images.fantasypros.com/images/players/nfl/27644/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zion-childress.php)
-CB - LAC
-[» Rankings](https://www.fantasypros.com/nfl/players/zion-childress.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/zion-childress.php)  
-[» More News](https://www.fantasypros.com/nfl/news/zion-childress.php)
-[Zion Childress signs with Chargers ](https://www.fantasypros.com/nfl/news/619459/zion-childress-signs-with-chargers.php)  
-
-Thu, Nov 12th 2:25am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Chargers signed Zion Childress. 
-**_Fantasy Impact:_** Childress was released by the Panthers last week. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Josh Ross](https://images.fantasypros.com/images/players/nfl/23758/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/josh-ross.php)
-LB - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/josh-ross.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/josh-ross.php)  
-[» More News](https://www.fantasypros.com/nfl/news/josh-ross.php)
-[Josh Ross signs with Vikings](https://www.fantasypros.com/nfl/news/619458/josh-ross-signs-with-vikings.php)  
-
-Thu, Nov 12th 2:24am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Vikings signed LB Josh Ross. (Source: [Minnesota Vikings on Twitter](https://x.com/Vikings/status/2120634048632815870))
-**_Fantasy Impact:_** Ross will add depth in the linebacker room for Minnesota. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Damon Bankston](https://images.fantasypros.com/images/players/nfl/28816/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/damon-bankston.php)
-RB - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/damon-bankston.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/damon-bankston.php)  
-[» More News](https://www.fantasypros.com/nfl/news/damon-bankston.php)
-[Damon Bankston signs with Vikings](https://www.fantasypros.com/nfl/news/619457/damon-bankston-signs-with-vikings.php)  
-
-Thu, Nov 12th 2:23am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Vikings signed RB Damon Bankston. (Source: [Minnesota Vikings on Twitter](https://x.com/Vikings/status/2120634048632815870))
-**_Fantasy Impact:_** Bankston will add depth in the backfield for Minnesota.
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Odell Beckham Jr.](https://images.fantasypros.com/images/players/nfl/12127/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/odell-beckham.php)
-WR - MIN
-[» Rankings](https://www.fantasypros.com/nfl/players/odell-beckham.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/odell-beckham.php)  
-[» More News](https://www.fantasypros.com/nfl/news/odell-beckham.php)
-[Odell Beckham Jr. signs with Vikings ](https://www.fantasypros.com/nfl/news/619456/odell-beckham-jr-signs-with-vikings.php)  
-
-Thu, Nov 12th 2:22am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Vikings signed WR Odell Beckham Jr. to their practice squad. (Source: [Jordan Schultz on Twitter](https://x.com/Schultz_Report/status/2120665463684518318))
-**_Fantasy Impact:_** Beckham will continue to add depth in the wide receiver room for Minnesota. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jack Pyburn](https://images.fantasypros.com/images/players/nfl/28254/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jack-pyburn.php)
-DE - FA
-[» Rankings](https://www.fantasypros.com/nfl/players/jack-pyburn.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jack-pyburn.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jack-pyburn.php)
-[Jack Pyburn signs with Chiefs ](https://www.fantasypros.com/nfl/news/619455/jack-pyburn-signs-with-chiefs.php)  
-
-Thu, Nov 12th 2:21am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Chiefs signed Jack Pyburn to their practice squad. (Source: [Greg Auman on Twitter](https://x.com/gregauman/status/2120662677727178984))
-**_Fantasy Impact:_** Pyburn was waived by Kansas City and cleared waivers. 
-Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Zach Carter](https://images.fantasypros.com/images/players/nfl/23919/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zachary-carter.php)
-DT - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/zachary-carter.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/zachary-carter.php)  
-[» More News](https://www.fantasypros.com/nfl/news/zachary-carter.php)
-[Zach Carter has practice window opened ](https://www.fantasypros.com/nfl/news/619454/zach-carter-has-practice-window-opened.php)  
-
-Thu, Nov 12th 2:20am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals opened the practice window of DL Zach Carter. (Source: [Arizona Cardinals on Twitter](https://x.com/AZCardinals/status/2120593578636554747))
-**_Fantasy Impact:_** Carter will have 21 days to officially be activated. 
+Sun, Nov 15th 8:04am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Amon-Ra St. Brown (rib) is officially active for Week 10 for the Detroit Lions against the New England Patriots. (Source: [Detroit Lions on Twitter ](https://x.com/lions/status/2121951552197873952?a=L9rq3CcGnM9RcFqjfWE&s=46))
+**_Fantasy Impact:_** St. Brown is good to go after entering the weekend carrying a questionable designation for head coach Dan Campbell, boosting an explosive Detroit offensive attack as a reliable WR1 option against the Patriots in Germany Sunday.
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Hunter Long](https://images.fantasypros.com/images/players/nfl/22783/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/hunter-long.php)
-TE - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/hunter-long.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/hunter-long.php)  
-[» More News](https://www.fantasypros.com/nfl/news/hunter-long.php)
-[Hunter Long has practice window opened ](https://www.fantasypros.com/nfl/news/619453/hunter-long-has-practice-window-opened.php)  
+[![Carter Runyon](https://images.fantasypros.com/images/players/nfl/27470/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/carter-runyon.php)
+TE - LV
+[» Rankings](https://www.fantasypros.com/nfl/players/carter-runyon.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/carter-runyon.php)  
+[» More News](https://www.fantasypros.com/nfl/news/carter-runyon.php)
+[Carter Runyon elevated by Raiders ](https://www.fantasypros.com/nfl/news/620180/carter-runyon-elevated-by-raiders.php)  
 
-Thu, Nov 12th 2:19am EST  
+Sun, Nov 15th 4:03am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals opened the practice window of TE Hunter Long. (Source: [Arizona Cardinals on Twitter](https://x.com/AZCardinals/status/2120593578636554747))
-**_Fantasy Impact:_** Long will have 21 days to officially be activated. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamaree Salyer](https://images.fantasypros.com/images/players/nfl/23490/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jamaree-salyer.php)
-OL - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/jamaree-salyer.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jamaree-salyer.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jamaree-salyer.php)
-[Jamaree Salyer signs with Cardinals ](https://www.fantasypros.com/nfl/news/619452/jamaree-salyer-signs-with-cardinals.php)  
-
-Thu, Nov 12th 2:18am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Cardinals signed OL Jamaree Salyer to their practice squad. (Source: [Arizona Cardinals on Twitter](https://x.com/AZCardinals/status/2120593578636554747))
-**_Fantasy Impact:_** Salyer will add depth on the offensive line for Arizona. 
+The Raiders elevated TE Carter Runyon for Sunday's game against the Seahawks. 
+**_Fantasy Impact:_** Runyon will add depth for Las Vegas. 
 Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jack Jones](https://images.fantasypros.com/images/players/nfl/22716/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jack-jones.php)
-CB - SF
-[» Rankings](https://www.fantasypros.com/nfl/players/jack-jones.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jack-jones.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jack-jones.php)
-[Jack Jones signs with 49ers ](https://www.fantasypros.com/nfl/news/619451/jack-jones-signs-with-49ers.php)  
+[![Jake McQuaide](https://images.fantasypros.com/images/players/nfl/15469/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jake-mcquaide.php)
+LB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/jake-mcquaide.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jake-mcquaide.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jake-mcquaide.php)
+[Jake McQuaide elevated by Rams](https://www.fantasypros.com/nfl/news/620179/jake-mcquaide-elevated-by-rams.php)  
 
-Thu, Nov 12th 2:16am EST  
+Sun, Nov 15th 4:02am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The 49ers signed CB Jack Jones to the team’s practice squad. (Source: [Vic Tafur on Twitter](https://x.com/VicTafur/status/2120576574668128705))
-**_Fantasy Impact:_** Jones will add depth to the corner back room for San Francisco. 
+The Rams elevated Jake McQuaide from their practice squad. 
+**_Fantasy Impact:_** McQuaide will add depth for the Rams in Sunday's game against the Cardinals. 
 Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![B.J. Green II](https://images.fantasypros.com/images/players/nfl/27679/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/bj-green-ii.php)
-DE - JAC
-[» Rankings](https://www.fantasypros.com/nfl/players/bj-green-ii.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/bj-green-ii.php)  
-[» More News](https://www.fantasypros.com/nfl/news/bj-green-ii.php)
-[B.J. Green II has practice window opened ](https://www.fantasypros.com/nfl/news/619450/bj-green-ii-has-practice-window-opened.php)  
+[![Damarion Williams](https://images.fantasypros.com/images/players/nfl/24292/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/damarion-williams.php)
+CB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/damarion-williams.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/damarion-williams.php)  
+[» More News](https://www.fantasypros.com/nfl/news/damarion-williams.php)
+[Damarion Williams elevated by Rams](https://www.fantasypros.com/nfl/news/620178/damarion-williams-elevated-by-rams.php)  
 
-Thu, Nov 12th 2:15am EST  
+Sun, Nov 15th 4:01am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Jaguars opened the practice window for DE B.J. Green II. (Source: [Jaguars PR on Twitter](https://x.com/JaguarsPR/status/2120558481904484419))
-**_Fantasy Impact:_** Green will have 21 days to officially be activated. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+The Rams elevated DB Damarion Williams for Sunday's game against the Raiders. 
+**_Fantasy Impact:_** Williams will add depth in the secondary for the Rams. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Michael Wilson](https://images.fantasypros.com/images/players/nfl/25333/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/michael-wilson.php)
-WR - ARI
-[» Rankings](https://www.fantasypros.com/nfl/players/michael-wilson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/michael-wilson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/michael-wilson.php)
-[Michael Wilson (neck) will not require surgery](https://www.fantasypros.com/nfl/news/619449/michael-wilson-neck-will-not-require-surgery.php)  
+[![Trevon Diggs](https://images.fantasypros.com/images/players/nfl/18287/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trevon-diggs.php)
+CB - SEA
+[» Rankings](https://www.fantasypros.com/nfl/players/trevon-diggs.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/trevon-diggs.php)  
+[» More News](https://www.fantasypros.com/nfl/news/trevon-diggs.php)
+[Trevon Diggs elevated by Seahawks ](https://www.fantasypros.com/nfl/news/620177/trevon-diggs-elevated-by-seahawks.php)  
 
-Thu, Nov 12th 2:15am EST  
+Sun, Nov 15th 4:00am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Cardinals WR Michael Wilson does not need surgery on his fractured neck. (Source: [John Gambadoro on Twitter](https://x.com/Gambo987/status/2120309321540231305))
-**_Fantasy Impact:_** Wilson will let the injury heal on its own. It is a good sign for his status heading into his next season. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+The Seahawks elevated CB Trevon Diggs for Sunday's game against the Raiders. (Source: [Mike Garafolo on Twitter](https://x.com/MikeGarafolo/status/2121714619022536893))
+**_Fantasy Impact:_** Diggs will add depth in the secondary for Seattle. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Jordan Whittington](https://images.fantasypros.com/images/players/nfl/23135/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jordan-whittington.php)
-WR - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/jordan-whittington.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jordan-whittington.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jordan-whittington.php)
-[Jordan Whittington (back) placed on IR](https://www.fantasypros.com/nfl/news/619448/jordan-whittington-back-placed-on-ir.php)  
+[![Bobby Hart](https://images.fantasypros.com/images/players/nfl/15299/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/bobby-hart.php)
+OL - SEA
+[» Rankings](https://www.fantasypros.com/nfl/players/bobby-hart.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/bobby-hart.php)  
+[» More News](https://www.fantasypros.com/nfl/news/bobby-hart.php)
+[Bobby Hart elevated by Seahawks ](https://www.fantasypros.com/nfl/news/620176/bobby-hart-elevated-by-seahawks.php)  
 
-Thu, Nov 12th 2:13am EST  
+Sun, Nov 15th 3:59am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-The Rams placed WR Jordan Whittington on injured reserve. (Source: [Sarah Barshop on Twitter](https://x.com/sarahbarshop/status/2120265572978196639))
-**_Fantasy Impact:_** Whittington will miss at least the next four games. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
+The Seahawks elevated OL Bobby Hart for Sunday's game against the Raiders. 
+**_Fantasy Impact:_** Hart will add depth on the offensive line for Seattle. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![CJ Donaldson](https://images.fantasypros.com/images/players/nfl/25396/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/cj-donaldson.php)
-RB - NO
-[» Rankings](https://www.fantasypros.com/nfl/players/cj-donaldson.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/cj-donaldson.php)  
-[» More News](https://www.fantasypros.com/nfl/news/cj-donaldson.php)
-[CJ Donaldson (shoulder) misses practice Wednesday ](https://www.fantasypros.com/nfl/news/619436/cj-donaldson-shoulder-misses-practice-wednesday.php)  
+[![Zane Gonzalez](https://images.fantasypros.com/images/players/nfl/16548/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/zane-gonzalez.php)
+K - MIA
+[» Rankings](https://www.fantasypros.com/nfl/players/zane-gonzalez.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/zane-gonzalez.php)  
+[» More News](https://www.fantasypros.com/nfl/news/zane-gonzalez.php)
+[Zane Gonzalez signs with Dolphins active roster](https://www.fantasypros.com/nfl/news/620175/zane-gonzalez-signs-with-dolphins-active-roster.php)  
 
-Wed, Nov 11th 10:44pm EST  
+Sun, Nov 15th 3:58am EST  
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-CJ Donaldson did not practice on Wednesday. 
-**_Fantasy Impact:_** Donaldson remains off the fantasy radar when he is healthy. 
+The Dolphins signed Zane Gonzalez to their active roster. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2121669345185349913))
+**_Fantasy Impact:_** Gonzalez will continue to kick for Miami. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Brady Cook](https://images.fantasypros.com/images/players/nfl/27161/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/brady-cook.php)
+QB - MIA
+[» Rankings](https://www.fantasypros.com/nfl/players/brady-cook.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/brady-cook.php)  
+[» More News](https://www.fantasypros.com/nfl/news/brady-cook.php)
+[Brady Cook elevated by Dolphins ](https://www.fantasypros.com/nfl/news/620174/brady-cook-elevated-by-dolphins.php)  
+
+Sun, Nov 15th 3:57am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Dolphins elevated Brady Cook for Sunday's game against the Colts. (Source: [Adam Schefter on Twitter](https://x.com/AdamSchefter/status/2121669345185349913))
+**_Fantasy Impact:_** Cook will serve as the backup behind Kyle McCord. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Reagor](https://images.fantasypros.com/images/players/nfl/19219/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jalen-reagor.php)
+WR - MIA
+[» Rankings](https://www.fantasypros.com/nfl/players/jalen-reagor.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jalen-reagor.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jalen-reagor.php)
+[Jalen Reagor elevated by Dolphins ](https://www.fantasypros.com/nfl/news/620173/jalen-reagor-elevated-by-dolphins.php)  
+
+Sun, Nov 15th 3:56am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Dolphins elevated Jalen Reagor for Sunday's game against the Colts. 
+**_Fantasy Impact:_** Reagor will add depth in the wide receiver room for Miami. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Owen Pappoe](https://images.fantasypros.com/images/players/nfl/25313/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/owen-pappoe.php)
+LB - DET
+[» Rankings](https://www.fantasypros.com/nfl/players/owen-pappoe.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/owen-pappoe.php)  
+[» More News](https://www.fantasypros.com/nfl/news/owen-pappoe.php)
+[Owen Pappoe elevated by Lions](https://www.fantasypros.com/nfl/news/620172/owen-pappoe-elevated-by-lions.php)  
+
+Sun, Nov 15th 3:55am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Lions elevated Owen Pappoe from their practice squad. 
+**_Fantasy Impact:_** Pappoe will be available for Sunday’s game against the Patriots. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mo Alie-Cox](https://images.fantasypros.com/images/players/nfl/16579/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/mo-alie-cox.php)
+TE - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/mo-alie-cox.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/mo-alie-cox.php)  
+[» More News](https://www.fantasypros.com/nfl/news/mo-alie-cox.php)
+[Mo Alie-Cox placed on IR](https://www.fantasypros.com/nfl/news/620171/mo-alie-cox-placed-on-ir.php)  
+
+Sun, Nov 15th 3:54am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Colts placed Mo Alie-Cox on injured reserve. 
+**_Fantasy Impact:_** Alie-Cox will miss at least the next four games. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Akeem Davis-Gaither](https://images.fantasypros.com/images/players/nfl/19261/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/akeem-davis-gaither.php)
+LB - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/akeem-davis-gaither.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/akeem-davis-gaither.php)  
+[» More News](https://www.fantasypros.com/nfl/news/akeem-davis-gaither.php)
+[Akeem Davis-Gaither placed on IR](https://www.fantasypros.com/nfl/news/620170/akeem-davis-gaither-placed-on-ir.php)  
+
+Sun, Nov 15th 3:54am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Colts placed Akeem Davis-Gaither on injured reserve. 
+**_Fantasy Impact:_** Davis-Gaither will miss at least the next four games. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jacob Bobenmoyer](https://images.fantasypros.com/images/players/nfl/18812/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jacob-bobenmoyer.php)
+LB - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/jacob-bobenmoyer.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/jacob-bobenmoyer.php)  
+[» More News](https://www.fantasypros.com/nfl/news/jacob-bobenmoyer.php)
+[Jacob Bobenmoyer elevated by Colts](https://www.fantasypros.com/nfl/news/620169/jacob-bobenmoyer-elevated-by-colts.php)  
+
+Sun, Nov 15th 3:53am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Colts elevated Jacob Bobenmoyer from their practice squad. 
+**_Fantasy Impact:_** Bobenmoyer will be available for Sunday’s game against the Dolphins. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Quez Watkins](https://images.fantasypros.com/images/players/nfl/19715/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/quez-watkins.php)
+WR - IND
+[» Rankings](https://www.fantasypros.com/nfl/players/quez-watkins.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/quez-watkins.php)  
+[» More News](https://www.fantasypros.com/nfl/news/quez-watkins.php)
+[Quez Watkins elevated by Colts ](https://www.fantasypros.com/nfl/news/620168/quez-watkins-elevated-by-colts.php)  
+
+Sun, Nov 15th 3:52am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Colts elevated Quez Watkins for Sunday's game against the Dolphins. 
+**_Fantasy Impact:_** Watkins will add depth in the wide receiver room for Indianapolis. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Carsen Ryan](https://images.fantasypros.com/images/players/nfl/28399/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/carsen-ryan.php)
+TE - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/carsen-ryan.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/carsen-ryan.php)  
+[» More News](https://www.fantasypros.com/nfl/news/carsen-ryan.php)
+[Carsen Ryan signs with Browns active roster](https://www.fantasypros.com/nfl/news/620167/carsen-ryan-signs-with-browns-active-roster.php)  
+
+Sun, Nov 15th 3:50am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Browns signed Carsen Ryan to their active roster. 
+**_Fantasy Impact:_** Ryan will add depth at tight end for Cleveland for Sunday's game against the Texans. 
+Category: [Transactions](https://www.fantasypros.com/nfl/transactions.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Michael Burton](https://images.fantasypros.com/images/players/nfl/14191/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/michael-burton.php)
+RB - CLE
+[» Rankings](https://www.fantasypros.com/nfl/players/michael-burton.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/michael-burton.php)  
+[» More News](https://www.fantasypros.com/nfl/news/michael-burton.php)
+[Michael Burton (calf) placed on IR](https://www.fantasypros.com/nfl/news/620166/michael-burton-calf-placed-on-ir.php)  
+
+Sun, Nov 15th 3:49am EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+The Browns placed Michael Burton on injured reserve. 
+**_Fantasy Impact:_** Burton will miss at least the next four games. 
 Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NFL Home Page ](https://www.fantasypros.com/nfl/)[ Who Should I Start? ](https://www.fantasypros.com/nfl/start/)[ NFL Draft Coverage ](https://www.fantasypros.com/nfl/draft-coverage.php)[ Boom Bust Player Report ](https://www.fantasypros.com/nfl/reports/boom-bust.php)[ Fantasy Football Leaders ](https://www.fantasypros.com/nfl/reports/leaders/)[ Quarterback Points Distribution Analysis ](https://www.fantasypros.com/nfl/reports/points-distribution/qb.php)[ Most Targeted Players ](https://www.fantasypros.com/nfl/reports/targets/)[ Fantasy Roster Management Tools ](https://www.fantasypros.com/nfl/roster-tools/)[ 20-Yard Shuttle Combine Results ](https://www.fantasypros.com/nfl/stats/combine/20-yard-shuttle.php)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6597969b9f98969b9e969f66uokewi0e0y62606g6o64606g6m606o)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
