@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-15 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-15 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,108 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Jacob Furphy](https://www.rotowire.com/cbasketball/player/jacob-furphy-26059)
+Scores 10 points in season debut
+**G** Boston College
+November 15, 2026
+Furphy (knee) ended Sunday's 67-55 victory over New Hampshire with 10 points (3-13 FG, 2-7 3Pt, 2-2 FT), three rebounds and one steal in 26 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Dovydas Butka](https://www.rotowire.com/cbasketball/player/dovydas-butka-26183)
+Scores 13, grabs seven boards
+**F** Boise State
+November 15, 2026
+Butka accumulated 13 points (6-11 FG, 1-1 FT), seven rebounds, one assist and one steal across 29 minutes during Sunday's 102-75 loss to Nebraska.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Julian Bowie](https://www.rotowire.com/cbasketball/player/julian-bowie-20742)
+Starts, scores 6
+**G** Boise State
+November 15, 2026
+Bowie recorded six points (2-7 FG, 2-4 3Pt), one rebound, one assist and one steal over 17 minutes during Sunday's 102-75 loss to Nebraska.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rhode Island](https://assets.rotowire.com/images/teamlogo/cbasketball/Rhode-Island.png?v=16)
+[Jaen Chatman](https://www.rotowire.com/cbasketball/player/jaen-chatman-28329)
+Will not return Sunday
+**G** Rhode Island
+Eye
+November 15, 2026
+Chatman (eye) will not return Sunday against Princeton, [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2122060908751151282) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Iowa](https://assets.rotowire.com/images/teamlogo/cbasketball/Iowa.png?v=16)
+[Cam Manyawu](https://www.rotowire.com/cbasketball/player/cam-manyawu-22265)
+Not starting vs. Creighton
+**F** Iowa
+November 15, 2026
+Manyawu is not in the starting lineup for Sunday's contest against Creighton, per [Tyler Tachman of Des Moines Register](https://x.com/Tyler_T15/status/2122054871356678284).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boise State](https://assets.rotowire.com/images/teamlogo/cbasketball/Boise-State.png?v=16)
+[Ty Rodgers](https://www.rotowire.com/cbasketball/player/ty-rodgers-20392)
+Could return in three-to-four weeks
+**F** Boise State
+Knee
+November 15, 2026
+Rodgers (knee) could return in three-to-four weeks, per [B.J. Rains of 247Sports](https://x.com/BJRains/status/2122040799634558987).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-Tech.png?v=16)
+[JT Toppin](https://www.rotowire.com/cbasketball/player/jt-toppin-22578)
+Targeting conference play for return
+**F** Texas Tech
+Knee
+November 15, 2026
+Head coach Grant McCasland noted that Toppin (knee) has not yet met the medical thresholds required to resume practicing and is likely eyeing the start of Big 12 play as a realistic target for his season debut, per [The Field of 68](https://x.com/TheFieldOf68/status/2121258031937941969).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Delaware](https://assets.rotowire.com/images/teamlogo/cbasketball/Delaware.png?v=16)
+[Mason Ellison](https://www.rotowire.com/cbasketball/player/mason-ellison-26634)
+Good to go Sunday
+**G** Delaware
+November 15, 2026
+Ellison (undisclosed) is [available](https://x.com/DelawareMBB/status/2122011761490493656) for Sunday's game versus Colgate.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Memphis](https://assets.rotowire.com/images/teamlogo/cbasketball/Memphis.png?v=16)
+[Jayden Reid](https://www.rotowire.com/cbasketball/player/jayden-reid-22313)
+Available against Louisville
+**G** Memphis
+November 15, 2026
+Reid (ankle) is [available and part of Memphis' starting lineup](https://x.com/Memphis_MBB/status/2122026318409658405) for Sunday's contest against Louisville.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
+[Mark Mitchell](https://www.rotowire.com/cbasketball/player/mark-mitchell-20347)
+To miss Marquette game with concussion
+**F** Missouri
+Concussion
+November 15, 2026
+Mitchell (concussion) is out for Sunday's game with Marquette, [Gabe Dearmond of 247Sports.com](https://247sports.com/college/missouri/article/mark-mitchell-to-miss-marquette-game-with-a-concussion-292797066/) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Memphis](https://assets.rotowire.com/images/teamlogo/cbasketball/Memphis.png?v=16)
+[Luke Almodovar](https://www.rotowire.com/cbasketball/player/luke-almodovar-27369)
+Unavailable against Louisville
+**G** Memphis
+Head
+November 15, 2026
+Almodovar (head) is out for Sunday's game against Louisville, according to [John Martin of The Daily Memphian](https://x.com/JohnMartin929/status/2122011235554070787).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Money Williams](https://www.rotowire.com/cbasketball/player/money-williams-25157)
+Out against UNH
+**G** Boston College
+Undisclosed
+November 15, 2026
+Williams (undisclosed) is out for Sunday's game against New Hampshire, according to [Jeff Borzello of ESPN](https://x.com/jeffborzello/status/2122002999274840538).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![St. John's](https://assets.rotowire.com/images/teamlogo/cbasketball/St-John's.png?v=16)
 [Theo Edema](https://www.rotowire.com/cbasketball/player/theo-edema-28231)
 Available at MSG
@@ -111,103 +213,6 @@ November 14, 2026
 Fields accumulated 14 points (6-11 FG, 1-4 3Pt, 1-4 FT), 14 rebounds, two assists, two blocks and one steal in 32 minutes during Saturday's 75-74 win over UNC Asheville.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SMU](https://assets.rotowire.com/images/teamlogo/cbasketball/SMU.png?v=16)
-[Jermaine O'Neal](https://www.rotowire.com/cbasketball/player/jermaine-oneal-26296)
-Strong all-around effort Friday
-**F** SMU
-November 14, 2026
-O'Neal closed Friday's 90-65 win over Ball State with 13 points (3-6 FG, 0-2 3Pt, 7-8 FT), five rebounds, one assist, one block and two steals in 26 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Stanford](https://assets.rotowire.com/images/teamlogo/cbasketball/Stanford.png?v=16)
-[Austin Maurer](https://www.rotowire.com/cbasketball/player/austin-maurer-23884)
-Explodes for 20 points Friday
-**C** Stanford
-November 14, 2026
-Maurer recorded 20 points (10-11 FG), nine rebounds and three steals over 33 minutes during Friday's 76-68 loss to UNLV.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Virginia](https://assets.rotowire.com/images/teamlogo/cbasketball/Virginia.png?v=16)
-[Sam Lewis](https://www.rotowire.com/cbasketball/player/sam-lewis-22915)
-Explodes for 28 points Friday
-**G** Virginia
-November 14, 2026
-Lewis registered 28 points (12-16 FG, 0-2 3Pt, 4-4 FT), seven rebounds, one assist, one block and one steal across 35 minutes during Friday's 87-83 win over Maryland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Duke](https://assets.rotowire.com/images/teamlogo/cbasketball/Duke.png?v=16)
-[Cayden Boozer](https://www.rotowire.com/cbasketball/player/cayden-boozer-26051)
-Records double-double Friday
-**G** Duke
-November 14, 2026
-Boozer provided 11 points (3-7 FG, 1-3 3Pt, 4-4 FT), 10 rebounds, four assists and one steal in 22 minutes during Friday's 90-47 win over SIUE.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Virginia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Virginia-Tech.png?v=16)
-[Amani Hansberry](https://www.rotowire.com/cbasketball/player/amani-hansberry-22361)
-Fills stat sheet in win
-**F** Virginia Tech
-November 14, 2026
-Hansberry chipped in 20 points (6-10 FG, 3-4 3Pt, 5-9 FT), four rebounds, five assists, one block and five steals across 34 minutes during Friday's 82-62 win over Mount St. Mary's.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![North Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina.png?v=16)
-[Terrence Brown](https://www.rotowire.com/cbasketball/player/terrence-brown-23040)
-Scores team-high 21 points
-**G** North Carolina
-November 14, 2026
-Brown finished with 21 points (7-15 FG, 4-8 3Pt, 3-4 FT), three rebounds, one assist, one block and four steals across 34 minutes during Friday's 78-70 loss to Georgia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![North Carolina State](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina-State.png?v=16)
-[Paul McNeil](https://www.rotowire.com/cbasketball/player/paul-mcneil-23556)
-Comes close to double-double
-**G** North Carolina State
-November 14, 2026
-McNeil supplied 16 points (5-10 FG, 4-8 3Pt, 2-2 FT), eight rebounds, one assist and one block in 31 minutes during Friday's 81-62 victory over Troy.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Pittsburgh](https://assets.rotowire.com/images/teamlogo/cbasketball/Pittsburgh.png?v=16)
-[Jonathan Powell](https://www.rotowire.com/cbasketball/player/jonathan-powell-23609)
-Scores 17 points Friday
-**F** Pittsburgh
-November 14, 2026
-Powell supplied 17 points (6-11 FG, 3-8 3Pt, 2-2 FT) and six rebounds in 38 minutes during Friday's 76-64 victory over Butler.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
-[Christian Collins](https://www.rotowire.com/cbasketball/player/christian-collins-28091)
-May play Sunday
-**F** USC
-Undisclosed
-November 14, 2026
-Collins (undisclosed) is a game-time decision for Sunday's game against Arkansas-Pine Bluff, Jon Rothstein of CBS Sports reports. The USC freshman forward has yet to play this season for the Trojans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Clemson](https://assets.rotowire.com/images/teamlogo/cbasketball/Clemson.png?v=16)
-[Cole Certa](https://www.rotowire.com/cbasketball/player/cole-certa-23573)
-Puts up 14 points in loss
-**G** Clemson
-November 14, 2026
-Certa notched 14 points (5-10 FG, 3-7 3Pt, 1-2 FT), five rebounds and two assists in 35 minutes during Friday's 85-78 loss to Georgetown.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Miami](https://assets.rotowire.com/images/teamlogo/cbasketball/Miami.png?v=16)
-[Brent Bland](https://www.rotowire.com/cbasketball/player/brent-bland-20087)
-Explodes for 26 points Friday
-**G** Miami
-November 14, 2026
-Bland had 26 points (9-14 FG, 8-13 3Pt), five rebounds and two steals in 20 minutes during Friday's 94-52 win over North Alabama.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida State](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida-State.png?v=16)
-[Kameron Taylor](https://www.rotowire.com/cbasketball/player/kameron-taylor-23911)
-Extends impressive start to season
-**G** Florida State
-November 14, 2026
-Taylor notched 14 points (5-8 FG, 1-3 3Pt, 3-3 FT), one rebound, one assist and two steals across 24 minutes during Friday's 84-60 win over Texas A&M-Corpus Christi.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65989e9c9c979898999f6666uokewi0e0y646m6i6i626464666o00)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a6598999e9a969b9c9b9a9b66uokewi0e0y64666m6e606g6i6g6e6g)
 
