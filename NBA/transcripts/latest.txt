@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-15 | updated 2026-11-15 16:07 ET
+# NBA transcripts | 2026-11-15 | updated 2026-11-15 16:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 5 files in NBA/transcripts/2026-11-15:
 NBA/transcripts/2026-11-15/-L8_iX1oxIo_CallingOurShot_Sunday_s_NBA_Best_Picks_and_Predictions_for_November_15th.txt
@@ -27,11 +27,11 @@ NONE    channel CallingOurShot: nothing new in the date window (or everything al
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine -QKNKWPKlgU Monday Night Football Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 11/16/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-15/XtEedNv9D4o_PickDawgz_NBA_Picks_Sunday_11_15_26_Jay_s_NBA_Jam_Session.txt  (1,684 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
