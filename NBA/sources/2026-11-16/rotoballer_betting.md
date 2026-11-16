@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/nba-player-prop-betting-picks-for-today-11-16-26/1995126 | fetched: 2026-11-16 16:05 ET -->
+<!-- source: https://www.rotoballer.com/nba-player-prop-betting-picks-for-today-11-16-26/1995126 | fetched: 2026-11-16 18:05 ET -->
 
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
@@ -573,7 +573,7 @@ DEF
 [Emmett Johnson](http://www.rotoballer.com/nfl/player/26835/Emmett+Johnson) KC
 15
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/11/Novig-RotoBaller-2026-small-blue.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -633,113 +633,115 @@ RP
   * [NHL](https://www.rotoballer.com/nba-player-prop-betting-picks-for-today-11-16-26/1995126)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Micah Parsons1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg) Tre Johnson6 min ago   
+(back) Available Tonight](https://www.rotoballer.com/player-news/tre-johnson-back-available-tonight/1995772)
+[![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Neemias Queta6 min ago   
+Out Tonight](https://www.rotoballer.com/player-news/neemias-queta-out-tonight/1995768)
+[![](https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg) Ryan Dunn6 min ago   
+Added to Suns Injury Report](https://www.rotoballer.com/player-news/ryan-dunn-added-to-suns-injury-report/1995765)
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Duncan Robinson7 min ago   
+(left quad strain) Out vs. Spurs](https://www.rotoballer.com/player-news/duncan-robinson-left-quad-strain-out-vs-spurs/1995761)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Jalen Smith7 min ago   
+Active Tonight](https://www.rotoballer.com/player-news/jalen-smith-active-tonight/1995758)
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Trey Alexander8 min ago   
+Jazz Waive Two-Way Guard Trey Alexander](https://www.rotoballer.com/player-news/jazz-waive-two-way-guard-trey-alexander/1995755)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Evan Mobley9 min ago   
+(toe) Return Timeline Unclear](https://www.rotoballer.com/player-news/evan-mobley-toe-return-timeline-unclear/1995752)
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Pelle Larsson9 min ago   
+Nikola Jovic Out with Illness; Klay Thompson Available](https://www.rotoballer.com/player-news/pelle-larsson-nikola-jovic-out-with-illness-klay-thompson-available/1995749)
+[![](https://upload.wikimedia.org/wikipedia/en/d/d9/Cleveland_Browns_logo.svg) Deshaun Watson33 min ago   
+Browns Haven't Discussed Deshaun Watson's Future](https://www.rotoballer.com/player-news/monken-berry-have-not-discussed-deshaun-watsons-future-with-browns/1995724)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal1 h ago   
+Blue Jays to Meet With Tarik Skubal's Representatives](https://www.rotoballer.com/player-news/blue-jays-to-meet-with-tarik-skubals-representatives/1995688)
+[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg) Fred VanVleet1 h ago   
+Off the Injury Report](https://www.rotoballer.com/player-news/fred-vanvleet-off-injury-report/1995684)
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Tobias Harris1 h ago   
+Likely to Remain Out of Action Until Early December](https://www.rotoballer.com/player-news/tobias-harris-likely-to-remain-out-of-action-until-early-december/1995669)
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Brock Bowers1 h ago   
+Considered Day-to-Day, but Still Battling "Significant" Injury](https://www.rotoballer.com/player-news/its-not-as-bad-as-we-thought-but-still-a-significant-injury-hc-kubiak-on-brock-bowers/1995656)
+[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg) Steven Adams1 h ago   
+Out Against Heat](https://www.rotoballer.com/player-news/steven-adams-out-against-heat/1995663)
+[![](https://upload.wikimedia.org/wikipedia/en/1/15/Chicago_Bears_logo_primary.svg) Luther Burden III2 h ago   
+Back at Practice After Concussion](https://www.rotoballer.com/player-news/luther-burden-iii-concussion-back-at-practice-monday/1995634)
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Micah Parsons3 h ago   
 Plans to Play vs. Rams on Thanksgiving Eve](https://www.rotoballer.com/player-news/micah-parsons-plans-to-play-vs-rams-on-thanksgiving-eve/1995581)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Minnesota_Vikings_logo.svg) Jordan Addison3 h ago   
 Likely a Short-Term IR Candidate](https://www.rotoballer.com/player-news/jordan-addison-thumb-likely-short-term-ir-candidate/1995535)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c5/Atlanta_Falcons_logo.svg) Drake London1 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c5/Atlanta_Falcons_logo.svg) Drake London3 h ago   
 Clears Concussion Protocol](https://www.rotoballer.com/player-news/drake-london-cleared-concussion-protocol-after-late-exit-sunday/1995518)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) LeBron James2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg) LeBron James4 h ago   
 Unavailable on Monday](https://www.rotoballer.com/player-news/lebron-james-unavailable-on-monday/1995556)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker4 h ago   
 Chiefs Believe Kenneth Walker Has Short-Term Injury](https://www.rotoballer.com/player-news/chiefs-believe-kenneth-walker-has-short-term-injury-adamschefter/1995515)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Tee Higgins2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Tee Higgins4 h ago   
 ' Knee Injury is Considered "Fine"](https://www.rotoballer.com/player-news/tee-higgins-knee-considered-fine/1995508)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart4 h ago   
 Sidelined on Monday](https://www.rotoballer.com/player-news/isaiah-stewart-sidelined-on-monday/1995540)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson4 h ago   
 Out for the Year with Torn ACL](https://www.rotoballer.com/player-news/aidan-hutchinson-torn-acl-out-for-the-year-adamschefter/1995505)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson4 h ago   
 to Undergo Foot Surgery](https://www.rotoballer.com/player-news/gg-jackson-to-undergo-foot-surgery/1995513)
-[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Sam Darnold3 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/8/8e/Seattle_Seahawks_logo.svg) Sam Darnold5 h ago   
 Expected to Start vs. 49ers After Bye Week](https://www.rotoballer.com/player-news/sam-darnold-expected-to-start-vs-49ers-after-bye-week/1995488)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dailyn Swain5 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dailyn Swain7 h ago   
 Recalled from G League](https://www.rotoballer.com/player-news/dailyn-swain-recalled-from-g-league/1995318)
-[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Ryan Flournoy5 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Ryan Flournoy7 h ago   
 Continues to Rise as Fantasy Asset After Week 10](https://www.rotoballer.com/player-news/ryan-flournoy-continues-to-rise-as-fantasy-asset-after-week-10/1995304)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kaelon Black5 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3a/San_Francisco_49ers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kaelon Black7 h ago   
 Gaining Value Heading Into Week 11](https://www.rotoballer.com/player-news/kaelon-black-gaining-value-heading-into-week-11/1995295)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Beckett Sennecke6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Beckett Sennecke8 h ago   
 Tallies Three Points in Sunday's Win](https://www.rotoballer.com/player-news/beckett-sennecke-tallies-three-points-in-sundays-win/1995292)
-[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Geno Smith6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/6/69/New_York_Jets_2024.svg) Geno Smith8 h ago   
 Will Remain Jets Starter if Healthy](https://www.rotoballer.com/player-news/geno-smith-to-remain-jets-starter-if-healthy/1995277)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jason Robertson6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jason Robertson8 h ago   
 Pushes Stars Past Panthers](https://www.rotoballer.com/player-news/jason-robertson-pushes-stars-past-panthers/1995286)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye8 h ago   
 Feared to Have Suffered an Ankle Fracture, Out Indefinitely](https://www.rotoballer.com/player-news/drake-maye-feared-to-have-suffered-an-ankle-fracture-out-indefinitely-and-potentially-for/1995272)
-[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Carnell Tate6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Carnell Tate8 h ago   
 Titans Hope to Have Carnell Tate Back in Week 11](https://www.rotoballer.com/player-news/titans-hope-to-have-carnell-tate-back-for-week-11/1995235)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor McDavid6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor McDavid8 h ago   
 Collects Three Points Against Flyers](https://www.rotoballer.com/player-news/connor-mcdavid-collects-three-points-against-flyers/1995280)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Will Smith6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Will Smith8 h ago   
 Leads Sharks to Victory Sunday](https://www.rotoballer.com/player-news/will-smith-leads-sharks-to-victory-sunday/1995263)
-[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Aidan Hutchinson8 h ago   
 Likely Suffered a Torn ACL While Celebrating a Sack](https://www.rotoballer.com/player-news/aidan-hutchinson-likely-suffered-a-torn-acl-while-celebrating-a-sack/1995185)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Myers6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Tyler Myers8 h ago   
 Exits With Upper-Body Injury Sunday](https://www.rotoballer.com/player-news/tyler-myers-exits-with-upper-body-injury-sunday/1995239)
-[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Brock Bowers6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/4/48/Las_Vegas_Raiders_logo.svg) Brock Bowers8 h ago   
 Avoids Major Ankle Injury, Considered Day-to-Day](https://www.rotoballer.com/player-news/brock-bowers-ankle-day-to-day-not-believed-to-have-suffered-a-major-ankle-injury/1995176)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kiefer Sherwood6 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kiefer Sherwood8 h ago   
 Suffers Apparent Arm Injury Sunday](https://www.rotoballer.com/player-news/kiefer-sherwood-suffers-apparent-arm-injury-sunday/1995226)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Baker Mayfield6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/Tampa_Bay_Buccaneers_logo.svg) Baker Mayfield8 h ago   
 Dealing With a Foot Sprain, Questionable in Week 11](https://www.rotoballer.com/player-news/baker-mayfield-dealing-with-a-foot-sprain-questionable-in-week-11-vs-detroit/1995102)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Pelle Larsson8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Pelle Larsson10 h ago   
 Listed as Questionable for Monday](https://www.rotoballer.com/player-news/pelle-larsson-listed-as-questionable-for-monday/1995170)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Isaiah Stewart10 h ago   
 Questionable for Monday with Illness](https://www.rotoballer.com/player-news/isaiah-stewart-questionable-for-monday-with-illness/1995165)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Quinten Post8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Quinten Post10 h ago   
 Questionable for Monday Against Wizards](https://www.rotoballer.com/player-news/quinten-post-questionable-for-monday-against-wizards/1995151)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) GG Jackson10 h ago   
 Ruled Out Monday](https://www.rotoballer.com/player-news/gg-jackson-ii-ruled-out-monday/1995146)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Zach Edey10 h ago   
 Carries Questionable Tag for Monday](https://www.rotoballer.com/player-news/zach-edey-carries-questionable-tag-for-monday/1995141)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Peyton Watson8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Peyton Watson10 h ago   
 Uncertain to Face Bulls on Monday](https://www.rotoballer.com/player-news/peyton-watson-uncertain-to-face-bulls-on-monday/1995120)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Jaylon Tyson8 h ago   
-Questionable Against Bulls on Monday](https://www.rotoballer.com/player-news/jaylon-tyson-questionable-against-bulls-on-monday/1995114)
-[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg) Drake Maye11 h ago   
 Suffers Signifcant Lower-Leg Injury, "Out an Extended Period"](https://www.rotoballer.com/player-news/drake-maye-suffers-significant-lower-leg-injury-out-for-an-extended-period-possibly-the/1995084)
-[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tony Pollard13 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/5/53/Tennessee_Titans_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Tony Pollard15 h ago   
 Keeps His Momentum with Another Strong Outing](https://www.rotoballer.com/player-news/tony-pollard-keeps-his-momentum-with-another-strong-outing/1995051)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Chase Brown14 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Chase Brown16 h ago   
 Plays an Enormous Role as a Receiver on Sunday](https://www.rotoballer.com/player-news/chase-brown-plays-an-enormous-role-as-a-receiver-on-sunday/1995030)
-[![](https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Texans_logo.svg) Nico Collins14 h ago   
-Back in the Spotlight After Busy Day Against Browns](https://www.rotoballer.com/player-news/nico-collins-back-in-the-spotlight-after-busy-day-against-browns/1995028)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase14 h ago   
-Delivers a Remarkable Performance on Sunday Night](https://www.rotoballer.com/player-news/jamarr-chase-delivers-a-remarkable-performance-on-sunday-night/1995025)
-[![](https://upload.wikimedia.org/wikipedia/en/7/72/Arizona_Cardinals_logo.svg) Trey McBride14 h ago   
-Flounders Amid QB Change](https://www.rotoballer.com/player-news/trey-mcbride-flounders-amid-qb-change/1995023)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg) Ty Jerome18 h ago   
-Ruled Out Again on Monday](https://www.rotoballer.com/player-news/ty-jerome-ruled-out-again-on-monday/1994937)
-[![](https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg) Trey Murphy III18 h ago   
-Out Again Monday Against Warriors](https://www.rotoballer.com/player-news/trey-murphy-iii-out-again-monday-against-warriors/1994930)
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Evan Mobley18 h ago   
-Ruled Out for Third Straight Game](https://www.rotoballer.com/player-news/evan-mobley-ruled-out-for-third-straight-game/1994915)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Patrick Williams18 h ago   
-Earns Steady Minutes Off the Bench](https://www.rotoballer.com/player-news/patrick-williams-back-in-rotation-and-contributing/1994380)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) De'Andre Hunter19 h ago   
-Downgraded to Out Against Thunder](https://www.rotoballer.com/player-news/deandre-hunter-hip-questionable-for-tonight/1994835)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Zach LaVine19 h ago   
-Unavailable as Kings Host Thunder](https://www.rotoballer.com/player-news/zach-lavine-unavailable-as-kings-host-thunder/1994881)
-[![](https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg) Ajay Mitchell19 h ago   
-Cleared to Play Against the Kings](https://www.rotoballer.com/player-news/ajay-mitchell-available-for-tonight-vs-kings/1994828)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Keegan Murray19 h ago   
-Suits Up Against Oklahoma City](https://www.rotoballer.com/player-news/keegan-murray-suits-up-against-oklahoma-city/1994846)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Precious Achiuwa19 h ago   
-Ruled Out Sunday Against Thunder](https://www.rotoballer.com/player-news/keegan-murray-available-precious-achiuwa-out-tonight/1994825)
-[![](https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg) Jericho Sims19 h ago   
-Starts for Bucks](https://www.rotoballer.com/player-news/jericho-sims-starts-for-bucks/1994837)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Denver Barkey20 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Denver Barkey22 h ago   
 Out Against Oilers](https://www.rotoballer.com/player-news/denver-barkey-out-against-oilers/1994802)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins20 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins22 h ago   
 Sits Out Sunday's Action](https://www.rotoballer.com/player-news/ryan-nugent-hopkins-sits-out-sundays-action/1994794)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Josh Anderson20 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Josh Anderson22 h ago   
 Ruled Out for 3-4 Weeks](https://www.rotoballer.com/player-news/josh-anderson-ruled-out-for-3-4-weeks/1994785)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mike Matheson21 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Mike Matheson23 h ago   
 to Miss 2-3 Weeks](https://www.rotoballer.com/player-news/mike-matheson-to-miss-2-3-weeks/1994774)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg21 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Philip Broberg23 h ago   
 Listed as Day-to-Day](https://www.rotoballer.com/player-news/philip-broberg-listed-as-day-to-day/1994767)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jake Neighbours21 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jake Neighbours23 h ago   
 Day-to-Day With Upper-Body Injury](https://www.rotoballer.com/player-news/jake-neighbours-day-to-day-with-upper-body-injury/1994752)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Devon Levi1 d ago   
 Records First Career Shutout Against Maple Leafs](https://www.rotoballer.com/player-news/devon-levi-records-first-career-shutout-against-maple-leafs/1994362)

@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-16 16:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-16 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -147,7 +147,7 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Neemias Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta) | C | Nov 16 | Day-To-Day | Nov 16: Queta (rest) is questionable for Monday's game against the Magic. |
+| [Neemias Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta) | C | Nov 18 | Out | Nov 16: Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports. |
 
 ![Image 23: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
@@ -161,16 +161,14 @@ Tues
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 18 | Out | Nov 15: Awaka (back) has been ruled out for Monday's game against the Cavaliers. |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 16 | Day-To-Day | Nov 15: Smith (finger) is listed as questionable for Monday's game against Cleveland. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
 ![Image 25: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jaylon Tyson](https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson) | G | Nov 16 | Day-To-Day | Nov 16: Tyson (ankle) has been downgraded to doubtful for Monday's game against the Bulls. |
-| [Peyton Watson](https://www.espn.com/nba/player/_/id/4576087/peyton-watson) | G | Nov 16 | Day-To-Day | Nov 15: Watson (abdominal soreness) is questionable to play in Monday's game against the Bulls. |
-| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 18 | Out | Nov 15: Mobley (toe) has been ruled out for Monday's game against Chicago. |
+| [Jaylon Tyson](https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson) | G | Nov 18 | Out | Nov 16: Tyson (ankle) has been ruled out for Monday's game against Chicago. |
+| [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 29 | Out | Nov 16: Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days. |
 | [Sam Merrill](https://www.espn.com/nba/player/_/id/4066757/sam-merrill) | G | Nov 18 | Out | Nov 15: Merrill (elbow) has been ruled out for Monday's game against the Bulls. |
 | [Nae'Qwan Tomlin](https://www.espn.com/nba/player/_/id/5106268/naeqwan-tomlin) | F | Nov 18 | Out | Oct 20: Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports. |
 
@@ -195,8 +193,8 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Duncan Robinson](https://www.espn.com/nba/player/_/id/3157465/duncan-robinson) | F | Nov 17 | Day-To-Day | Nov 15: Robinson (thigh) did not return to Saturday's 137-117 win over the Pistons. He finished with 10 points (3-8 FG, 2-6 3Pt, 2-2 FT), one rebound and one assist across 17 minutes. |
-| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 17 | Out | Nov 9: Joe (hip) is out for Monday against the Wizards. |
+| [Isaiah Joe](https://www.espn.com/nba/player/_/id/4395702/isaiah-joe) | G | Nov 17 | Out | Nov 16: Joe (hip) is doubtful to play in Tuesday's game against the Spurs. |
+| [Duncan Robinson](https://www.espn.com/nba/player/_/id/3157465/duncan-robinson) | F | Nov 18 | Out | Nov 16: Robinson (quadriceps) has been ruled out for Tuesday's game against the Spurs. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 24 | Out | Nov 8: Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports. |
 
 ![Image 29: Golden State Warriors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&h=40&w=40)Golden State Warriors
@@ -259,8 +257,8 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Nikola Jovic](https://www.espn.com/nba/player/_/id/4997528/nikola-jovic) | F | Nov 16 | Day-To-Day | Nov 16: Jovic (illness) has been downgraded to questionable for Monday's game against Houston. |
-| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 16 | Day-To-Day | Nov 16: Larsson (illness) has been downgraded to doubtful for Monday's game against Houston. |
+| [Pelle Larsson](https://www.espn.com/nba/player/_/id/4601025/pelle-larsson) | G | Nov 18 | Out | Nov 16: Larsson (illness) has been downgraded to doubtful for Monday's game against Houston. |
+| [Nikola Jovic](https://www.espn.com/nba/player/_/id/4997528/nikola-jovic) | F | Nov 18 | Out | Nov 16: Jovic (illness) has been downgraded to questionable for Monday's game against Houston. |
 
 ![Image 36: Milwaukee Bucks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&h=40&w=40)Milwaukee Bucks
 
@@ -347,7 +345,6 @@ Tues
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Tobias Harris](https://www.espn.com/nba/player/_/id/6440/tobias-harris) | F | Dec 3 | Out | Nov 16: Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio. |
-| [De'Aaron Fox](https://www.espn.com/nba/player/_/id/4066259/deaaron-fox) | G | Nov 17 | Day-To-Day | Nov 16: Fox (hip) has been ruled out for Sunday's game against the Jazz. |
 | [Jayden Quaintance](https://www.espn.com/nba/player/_/id/5101845/jayden-quaintance) | F | Dec 3 | Out | Oct 5: Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports. |
 
 ![Image 46: Toronto Raptors](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&h=40&w=40)Toronto Raptors
@@ -363,7 +360,6 @@ Tues
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Jaxson Hayes](https://www.espn.com/nba/player/_/id/4397077/jaxson-hayes) | C | Nov 17 | Day-To-Day | Nov 16: Hayes (knee) has been ruled out for Sunday's game against the Spurs. |
-| [Trey Alexander](https://www.espn.com/nba/player/_/id/4433268/trey-alexander) | G | Nov 16 | Out | Nov 12: Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. |
 | [Lauri Markkanen](https://www.espn.com/nba/player/_/id/4066336/lauri-markkanen) | F | Jan 4 | Out | Nov 11: Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports. |
 | [Jusuf Nurkic](https://www.espn.com/nba/player/_/id/3102530/jusuf-nurkic) | C | Nov 20 | Out | Nov 6: Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday. |
 | [Jaren Jackson Jr.](https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr) | F | Dec 14 | Out | Oct 27: Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN. |
@@ -372,7 +368,6 @@ Tues
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Tre Johnson](https://www.espn.com/nba/player/_/id/5238230/tre-johnson) | G | Nov 16 | Day-To-Day | Nov 16: Johnson (back) is listed as questionable for Monday's game against Memphis. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 24 | Out | Nov 16: Vukcevic (hip) has been ruled out for Monday's game against Memphis. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
 | [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
@@ -380,15 +375,59 @@ Tues
 
 Data Provided by Rotowire
 
+Sponsored Headlines
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+
+[](https://l.ottoinsurance.com/n)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Is Yours On The List?)")
+
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
+
+[](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2d297d3-6b0a-4b95-b231-2d3371d89643 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
+
+[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+
+[](https://giftst.trending-gadgets.org/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 Trending Gadgets | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://giftst.trending-gadgets.org/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+
+[](https://trkwizco.com/cf/r/6af7542fc89167074941933d)[South Carolina: Senior Drivers Did Not See This Coming Seniors Born Before 1972 Are Discovering This Auto Insurance Trick... Learn more Senior Auto Quote | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkwizco.com/cf/r/6af7542fc89167074941933d "South Carolina: Senior Drivers Did Not See This Coming")
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)Drivers Had No Idea They Could Do This Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Worst Car Insurance Companies for Overcharging In South Carolina (Is Yours On The List?)")
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before 2026 Holiday Season")
+
 ### NBA News
 
-[![Image 49: 76ers star LeBron James ruled out vs. Nets due to lower back management](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1746252_1296x729_16-9.jpg&w=220) ## 76ers star LeBron James ruled out vs. Nets due to lower back management LeBron James will miss Monday's game against the Nets as the 76ers continue to manage his lower back. * 2h * Kris Rhim](https://www.espn.com/nba/story/_/id/50503255/lebron-james-ruled-vs-nets-due-lower-back-management)
+[![Image 49: Cavaliers' Evan Mobley sidelined another 7-10 days with sprained toe](https://a.espncdn.com/combiner/i?img=/photo/2026/1116/r1746870_600x400_3-2.jpg&w=220) ## Cavaliers' Evan Mobley sidelined another 7-10 days with sprained toe Cavaliers forward Evan Mobley will miss at least another seven to 10 days while he recovers from a sprained right great toe. * 36m](https://www.espn.com/nba/story/_/id/50505177/evan-mobley-sidelined-another-7-10-days-sprained-toe)
 
-[![Image 50: Fantasy basketball adds and NBA bets: All eyes on Tyrese Maxey on Monday](https://a.espncdn.com/combiner/i?img=/photo/2026/1116/r1746730_1296x729_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: All eyes on Tyrese Maxey on Monday Andre Snellings breaks down Monday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 2h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50502778/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 50: 76ers star LeBron James ruled out vs. Nets due to lower back management](https://a.espncdn.com/combiner/i?img=/photo/2026/1115/r1746252_1296x729_16-9.jpg&w=220) ## 76ers star LeBron James ruled out vs. Nets due to lower back management LeBron James will miss Monday's game against the Nets as the 76ers continue to manage his lower back. * 4h * Kris Rhim](https://www.espn.com/nba/story/_/id/50503255/lebron-james-ruled-vs-nets-due-lower-back-management)
 
-[![Image 51: Bulls' Buzelis, Nets' Minott fined $25K each after making obscene gestures](https://a.espncdn.com/combiner/i?img=/photo/2026/1001/r1724627_1296x729_16-9.jpg&w=220) ## Bulls' Buzelis, Nets' Minott fined $25K each after making obscene gestures Bulls forward Matas Buzelis and Nets forward Josh Minott have each been fined $25,000 for making obscene gestures toward the stands during their games Saturday. * 3h](https://www.espn.com/nba/story/_/id/50502886/bulls-buzelis-nets-minott-fined-25k-obscene-gestures)
+[![Image 51: Fantasy basketball adds and NBA bets: All eyes on Tyrese Maxey on Monday](https://a.espncdn.com/combiner/i?img=/photo/2026/1116/r1746730_1296x729_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: All eyes on Tyrese Maxey on Monday Andre Snellings breaks down Monday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 4h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50502778/fantasy-basketball-tips-nba-betting-picks-today)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)
+
+Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
 
 ![Image 52: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
@@ -407,44 +446,4 @@ Data Provided by Rotowire
 GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL.
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
-
-![Image 53: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Notice of Right to Opt Out of Sale/Sharing
-
-Some US states provide residents (or their [authorized agents](https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/b65ffa0c-9019-4d84-b1a8-1965ba7c989f)) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.
-
-### Manage Consent Preferences
-
-#### Selling, Sharing, Targeted Advertising
-
-- [x] Selling, Sharing, Targeted Advertising 
-
-If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.  
-  
-You can also submit this [opt-out form](https://usprivacy.disney.com/dnssmpi), which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms).   
-  
-You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.  
-  
-Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) for more information about your rights and how to exercise them.
-
-### Cookie List
-
-Clear
-
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Submit
-
-[![Image 54: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 

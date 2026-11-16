@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-monday-november-16 | fetched: 2026-11-16 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-monday-november-16 | fetched: 2026-11-16 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -89,62 +89,62 @@ Ayo Dosunmu Points Escalator
 Right Arrow
 Ayo Dosunmu Points Escalator
 ### Top Stories
-[![NBA Best Bets for Celtics vs Magic, Cavaliers vs Bulls, More \(Monday, November 16\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111626.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-celtics-vs-magic-cavaliers-vs-bulls-more-monday-november-16)
+[![NBA Best Bets for Magic vs Celtics, Rockets vs Heat, More \(Monday, Nov. 16\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111626.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-celtics-vs-magic-cavaliers-vs-bulls-more-monday-november-16)
 NBA
-[NBA Best Bets for Celtics vs Magic, Cavaliers vs Bulls, More (Monday, November 16)](https://www.actionnetwork.com/nba/nba-best-bets-for-celtics-vs-magic-cavaliers-vs-bulls-more-monday-november-16)
+[NBA Best Bets for Magic vs Celtics, Rockets vs Heat, More (Monday, Nov. 16)](https://www.actionnetwork.com/nba/nba-best-bets-for-celtics-vs-magic-cavaliers-vs-bulls-more-monday-november-16)
 Action Network Staff
-4 hours ago
+1 hour ago
 [![NBA Parlay Picks: SGP Predictions for Heat vs Rockets, Wizards vs Grizzlies \(Monday, Nov. 16\)](https://images.actionnetwork.com/blog/2026/11/NBA-SGP-Playbook-11_16_26.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-heat-vs-rockets-wizards-vs-grizzlies-monday-nov-16)
 NBA
 [NBA Parlay Picks: SGP Predictions for Heat vs Rockets, Wizards vs Grizzlies (Monday, Nov. 16)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-heat-vs-rockets-wizards-vs-grizzlies-monday-nov-16)
 Alex Hinton
-1 hour ago
+3 hours ago
 [![NBA Moneyline Parlay Picks: Our +317 Prediction for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/NBA-Moneyline-11.16.26.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-317-prediction-for-monday-november-16)
 NBA
 [NBA Moneyline Parlay Picks: Our +317 Prediction for Monday, November 16](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-317-prediction-for-monday-november-16)
 Ryan Minion
-5 hours ago
+7 hours ago
 [![NBA Player Prop Picks for Pelicans vs Warriors, Nuggets vs Suns \(Monday, November 16\)](https://images.actionnetwork.com/blog/2026/11/NBAProps111626.jpg)](https://www.actionnetwork.com/nba/nba-player-prop-picks-for-pelicans-vs-warriors-nuggets-vs-suns-monday-november-16)
 NBA
 [NBA Player Prop Picks for Pelicans vs Warriors, Nuggets vs Suns (Monday, November 16)](https://www.actionnetwork.com/nba/nba-player-prop-picks-for-pelicans-vs-warriors-nuggets-vs-suns-monday-november-16)
 Action Network Staff
-3 hours ago
+5 hours ago
 [![NBA Predictions: Spread, Total & Moneyline Bets for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/MooreCard111626.jpg)](https://www.actionnetwork.com/nba/nba-predictions-spread-total-moneyline-bets-for-monday-november-16)
 NBA
 [NBA Predictions: Spread, Total & Moneyline Bets for Monday, November 16](https://www.actionnetwork.com/nba/nba-predictions-spread-total-moneyline-bets-for-monday-november-16)
 Matt Moore
-2 hours ago
-[![Magic vs Celtics Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Magic-vs-Celtics-11_16_26.jpg)](https://www.actionnetwork.com/nba/orlando-magic-vs-boston-celtics-prediction-pick-odds-nba-monday-november-16)
+4 hours ago
+[![Magic vs Celtics Predictions, Odds, Picks: Boston Thrives In Bad Spots Like This](https://images.actionnetwork.com/blog/2026/11/Magic-vs-Celtics-11_16_26.jpg)](https://www.actionnetwork.com/nba/orlando-magic-vs-boston-celtics-prediction-pick-odds-nba-monday-november-16)
 NBA
-[Magic vs Celtics Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/orlando-magic-vs-boston-celtics-prediction-pick-odds-nba-monday-november-16)
+[Magic vs Celtics Predictions, Odds, Picks: Boston Thrives In Bad Spots Like This](https://www.actionnetwork.com/nba/orlando-magic-vs-boston-celtics-prediction-pick-odds-nba-monday-november-16)
 Matt Moore
-6 hours ago
-[![Rockets vs Heat Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Rockets-Heat-NBA-11_16.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-miami-heat-prediction-pick-nba-odds-for-monday-november-16)
+1 hour ago
+[![Rockets vs Heat Predictions, Odds, Picks: Miami’s Recent Success Is a Mirage](https://images.actionnetwork.com/blog/2026/11/Rockets-Heat-NBA-11_16.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-miami-heat-prediction-pick-nba-odds-for-monday-november-16)
 NBA
-[Rockets vs Heat Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/houston-rockets-vs-miami-heat-prediction-pick-nba-odds-for-monday-november-16)
+[Rockets vs Heat Predictions, Odds, Picks: Miami’s Recent Success Is a Mirage](https://www.actionnetwork.com/nba/houston-rockets-vs-miami-heat-prediction-pick-nba-odds-for-monday-november-16)
 Michael Fiddle
-6 hours ago
+1 hour ago
 [![Bulls vs Cavaliers Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Bulls-vs-Cavaliers-11.16.26.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-cleveland-cavaliers-prediction-pick-nba-odds-for-monday-november-16)
 NBA
 [Bulls vs Cavaliers Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/chicago-bulls-vs-cleveland-cavaliers-prediction-pick-nba-odds-for-monday-november-16)
 Doug Kezirian
-7 hours ago
-[![Trail Blazers vs Timberwolves Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Trail-Blazers-vs-Timberwolves-11_16_26.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-16)
+9 hours ago
+[![Trail Blazers vs Timberwolves Predictions, Odds, Picks: Minnesota Is Built To Beat This Defensive Scheme](https://images.actionnetwork.com/blog/2026/11/Trail-Blazers-vs-Timberwolves-11_16_26.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-16)
 NBA
-[Trail Blazers vs Timberwolves Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-16)
+[Trail Blazers vs Timberwolves Predictions, Odds, Picks: Minnesota Is Built To Beat This Defensive Scheme](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-monday-november-16)
 Matt Moore
-6 hours ago
+44 mins ago
 [![Warriors vs Pelicans Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Warriors-vs-Pelicans-11_16_26.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-new-orleans-pelicans-prediction-pick-odds-nba-monday-november-16)
 NBA
 [Warriors vs Pelicans Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/golden-state-warriors-vs-new-orleans-pelicans-prediction-pick-odds-nba-monday-november-16)
 Doug Kezirian
-6 hours ago
-[![Grizzlies vs Wizards Prediction, Pick, NBA Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Grizzlies-vs-Wizards-11.16.26.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-washington-wizards-prediction-pick-nba-odds-for-monday-november-16)
+8 hours ago
+[![Grizzlies vs Wizards Predictions, Odds, Picks: Target This Mispriced Line Tonight](https://images.actionnetwork.com/blog/2026/11/Grizzlies-vs-Wizards-11.16.26.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-washington-wizards-prediction-pick-nba-odds-for-monday-november-16)
 NBA
-[Grizzlies vs Wizards Prediction, Pick, NBA Odds for Monday, November 16](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-washington-wizards-prediction-pick-nba-odds-for-monday-november-16)
+[Grizzlies vs Wizards Predictions, Odds, Picks: Target This Mispriced Line Tonight](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-washington-wizards-prediction-pick-nba-odds-for-monday-november-16)
 Michael Fiddle
-7 hours ago
+1 hour ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5c5788cf-7d7b-4158-b6c4-64eb2bab5d7b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4ee00fa3-cf16-48e1-95f6-59b45346dbc3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=96&tw_session_id=1794863011978-697898090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5c5788cf-7d7b-4158-b6c4-64eb2bab5d7b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4ee00fa3-cf16-48e1-95f6-59b45346dbc3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=96&tw_session_id=1794863011978-697898090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4004de18-c7fe-4589-b1a8-7bd7951d3eba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4ee00fa3-cf16-48e1-95f6-59b45346dbc3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=7583&tw_iframe_status=0&tw_pid_src=2&tw_session_count=96&tw_session_id=1794863011978-697898090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=4004de18-c7fe-4589-b1a8-7bd7951d3eba&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4ee00fa3-cf16-48e1-95f6-59b45346dbc3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=7583&tw_iframe_status=0&tw_pid_src=2&tw_session_count=96&tw_session_id=1794863011978-697898090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b74a8b39-5bfd-4d21-8c7d-27c8058d61a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7c39165d-7edc-4b9b-9278-d2e992dc9789&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=98&tw_session_id=1794870199898-247010632&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b74a8b39-5bfd-4d21-8c7d-27c8058d61a6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7c39165d-7edc-4b9b-9278-d2e992dc9789&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=98&tw_session_id=1794870199898-247010632&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=92297709-adc4-403b-ad80-aed18b1e4d61&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7c39165d-7edc-4b9b-9278-d2e992dc9789&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=7504&tw_iframe_status=0&tw_pid_src=2&tw_session_count=98&tw_session_id=1794870199898-247010632&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=92297709-adc4-403b-ad80-aed18b1e4d61&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7c39165d-7edc-4b9b-9278-d2e992dc9789&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-monday-november-16&tw_engaged_ms=7504&tw_iframe_status=0&tw_pid_src=2&tw_session_count=98&tw_session_id=1794870199898-247010632&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

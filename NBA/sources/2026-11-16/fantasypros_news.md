@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-16 16:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-16 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Tre Johnson](https://images.fantasypros.com/images/players/nba/6316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tre-johnson.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/tre-johnson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tre-johnson.php)  
+[» More News](https://www.fantasypros.com/nba/news/tre-johnson.php)
+[Tre Johnson (back) available Monday](https://www.fantasypros.com/nba/news/620605/tre-johnson-back-available-monday.php)  
+
+Mon, Nov 16th 5:49pm EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Tre Johnson (back) will play in Monday's game against the Grizzlies. (Source: [Josh Robbins on Twitter ](https://x.com/JoshuaBRobbins/status/2122454657289077209))
+**_Fantasy Impact:_** Johnson did not play Sunday, but he will be in the mix for the second game of a back-to-back for the Wizards. Tre Mann and Will Riley will likely lose minutes as a result. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Evan Mobley](https://images.fantasypros.com/images/players/nba/5316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/evan-mobley.php)
+F - CLE
+[» Rankings](https://www.fantasypros.com/nba/players/evan-mobley.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/evan-mobley.php)  
+[» More News](https://www.fantasypros.com/nba/news/evan-mobley.php)
+[Evan Mobley (toe) to be re-evaluated next week](https://www.fantasypros.com/nba/news/620604/evan-mobley-toe-to-be-re-evaluated-next-week.php)  
+
+Mon, Nov 16th 5:44pm EST  
+By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
+Evan Mobley (toe) will undergo treatment and be re-evaluated in 7-to-10 days. (Source: [Danny Cunningham on Twitter](https://x.com/RealDCunningham/status/2122452767763792050))
+**_Fantasy Impact:_** Mobley will miss at least the Cavs' next three games and likely a bit more due to a sprained toe. The All-Star forward has already missed two games due to the injury, opening up more minutes for Mario Hezonja and Thomas Bryant. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![De'Aaron Fox](https://images.fantasypros.com/images/players/nba/3315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deaaron-fox.php)
+G - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/deaaron-fox.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/deaaron-fox.php)  
+[» More News](https://www.fantasypros.com/nba/news/deaaron-fox.php)
+[De'Aaron Fox (hip) off injury report Tuesday ](https://www.fantasypros.com/nba/news/620603/deaaron-fox-hip-off-injury-report-tuesday.php)  
+
+Mon, Nov 16th 5:34pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+De'Aaron Fox is off the injury report for Tuesday’s game against the Pistons.
+**_Fantasy Impact:_** Fox did not play in Sunday’s win over the Jazz. Julian Champagnie will return to his reserve role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Ryan Dunn](https://images.fantasypros.com/images/players/nba/6152/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ryan-dunn.php)
 F - PHO
 [» Rankings](https://www.fantasypros.com/nba/players/ryan-dunn.php)  
@@ -133,20 +175,6 @@ Clint Capela has been ruled out for Monday's game against the Heat. (Source: [NB
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Tre Johnson](https://images.fantasypros.com/images/players/nba/6316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tre-johnson.php)
-G - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/tre-johnson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/tre-johnson.php)  
-[» More News](https://www.fantasypros.com/nba/news/tre-johnson.php)
-[Tre Johnson (back) listed questionable Monday ](https://www.fantasypros.com/nba/news/620568/tre-johnson-back-listed-questionable-monday.php)  
-
-Mon, Nov 16th 1:58pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Tre Johnson is listed as questionable for Monday's game against the Grizzlies. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_12_45PM.pdf))
-**_Fantasy Impact:_** Johnson was ruled out for Sunday’s game against the Grizzlies. His status will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Isaiah Stewart](https://images.fantasypros.com/images/players/nba/5144/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-stewart.php)
 C - MEM
 [» Rankings](https://www.fantasypros.com/nba/players/isaiah-stewart.php)  
@@ -259,34 +287,6 @@ Malik Monk finished with 14 points (6-13 FG, 1-7 3PT, 1-1 FT) and 10 assists in 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Domantas Sabonis](https://images.fantasypros.com/images/players/nba/3176/headshot/100x100.png)](https://www.fantasypros.com/nba/players/domantas-sabonis.php)
-C - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/domantas-sabonis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/domantas-sabonis.php)  
-[» More News](https://www.fantasypros.com/nba/news/domantas-sabonis.php)
-[Domantas Sabonis delivers double-double in Sunday's loss](https://www.fantasypros.com/nba/news/620521/domantas-sabonis-delivers-double-double-sundays-loss.php)  
-
-Mon, Nov 16th 9:25am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Domantas Sabonis scored 11 points (3-6 FG, 5-6 FT) and grabbed 13 rebounds in Sunday's 125-103 loss to the Thunder. 
-**_Fantasy Impact:_** Sabonis posted his second straight double-double and fourth in his last five games on Sunday night. The veteran big is having a strong season overall, and as long as he's healthy, Sabonis should remain a valuable fantasy asset. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Aday Mara](https://images.fantasypros.com/images/players/nba/6523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aday-mara.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/aday-mara.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/aday-mara.php)  
-[» More News](https://www.fantasypros.com/nba/news/aday-mara.php)
-[Aday Mara posts double-double in Sunday's win](https://www.fantasypros.com/nba/news/620520/aday-mara-posts-double-double-sundays-win.php)  
-
-Mon, Nov 16th 9:20am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Aday Mara scored 16 points (8-11 FG) and grabbed 13 rebounds in Sunday's 125-103 win over the Kings. 
-**_Fantasy Impact:_** The 12th overall pick in this year's draft, Mara has now scored double-digit points in five straight games. The towering rookie has averaged 13.0 points and 8.0 boards while shooting an impressive 68.2% during that span. He's also blocked eight shots. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=979_1794862842502&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszI0sLEyCzWMnK0NzSxMLExMLUuBYAUvsc5g%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6598999e9a969b9c9b9a9b66uokewi0e0y64666m6e606g6i6g6e6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=977_1794870051303&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszI0sLEyCzWMnK0NzSxMLExMLUuBYAUvsc5g%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65979e9c9a9b9e9a9f9b9866uokewi0e0y626m6i6e6g6m6e6o6g64)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
