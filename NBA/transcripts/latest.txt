@@ -1,11 +1,13 @@
-# NBA transcripts | 2026-11-16 | updated 2026-11-16 18:06 ET
+# NBA transcripts | 2026-11-16 | updated 2026-11-16 18:36 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 21 files in NBA/transcripts/2026-11-16:
+# 23 files in NBA/transcripts/2026-11-16:
+NBA/transcripts/2026-11-16/-MxjtK-YzXk_FantasyAlarm_NBA_DFS_Picks_Today_11_16_DraftKings_Lineup_Strategy_Top_Values.txt
 NBA/transcripts/2026-11-16/-QKNKWPKlgU_SportsLine_Monday_Night_Football_Picks_NBA_Bets_Early_Edge.txt
 NBA/transcripts/2026-11-16/7TvqpaawGhs_RotoGrinders_Happy_Hour_6_Salary_Savers_for_NBA_DFS_on_DraftKings_FanDuel.txt
 NBA/transcripts/2026-11-16/CPSNfetL58M_LockedOnNBA_WINNERS_Boston_Celtics_and_Jayson_Tatum_DEMOLISH_Opponents_Miami_Heat.txt
 NBA/transcripts/2026-11-16/D19T36dofwU_SlopRules_Top_3_NBA_Plays_for_Monday_November_16_2026.txt
 NBA/transcripts/2026-11-16/DXJIcBaSQJw_FantasyAces_15_1_Run_Best_NBA_Picks_Bets_for_Monday_11_16.txt
+NBA/transcripts/2026-11-16/G4GGw_kppkw_JayMoney_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt
 NBA/transcripts/2026-11-16/I8w6s_R9OmA_LandYourBets_3_NBA_Player_Prop_Best_Bets_for_Monday_Plus_4_Strong_Leans_November_16.txt
 NBA/transcripts/2026-11-16/ITNWkE_PTKw_Stokastic_NBA_DFS_Strategy_Monday_11_16_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
 NBA/transcripts/2026-11-16/MUJvvoevkxU_WagerTalk_MONDAY_NBA_BEST_Bets_Magic_vs_Celtics_Trail_Blazers_vs_Timberwolves_NB.txt
@@ -41,6 +43,7 @@ NONE    channel LockedOnNBA: nothing new in the date window (or everything alrea
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod -AeAxFU2qgg NBA Tuesday Picks - 11/17/26 | NBA Bets, Player Props and Pr  (not aired yet - scheduled for 11/16/26 9:05PM)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-16/G4GGw_kppkw_JayMoney_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt  (1,162 words, via Groq)
 UPCOMING JayMoney GvNNrNr2mHc Night Time NBA Talk With Jay Money  (not aired yet - scheduled for 11/17/26 12:10AM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
@@ -48,7 +51,7 @@ UPCOMING SportsLine BwA2jzzYNDU NBA Bets + College Basketball Picks + NHL | Earl
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm -MxjtK-YzXk NBA DFS Picks Today 11/16 | DraftKings Lineup Strategy & Top  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-11-16/-MxjtK-YzXk_FantasyAlarm_NBA_DFS_Picks_Today_11_16_DraftKings_Lineup_Strategy_Top_Values.txt  (9,369 words, via Groq)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
