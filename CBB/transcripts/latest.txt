@@ -1,26 +1,41 @@
-# CBB transcripts | 2026-11-15 | updated 2026-11-15 17:05 ET
+# CBB transcripts | 2026-11-16 | updated 2026-11-16 11:22 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 5 files in CBB/transcripts/2026-11-15:
-CBB/transcripts/2026-11-15/LuKZmuyu8A4_PickDawgz_College_Basketball_Picks_for_Today_11_15_26_Sunday_s_Best_College_Bask.txt
-CBB/transcripts/2026-11-15/QKraKT5iaDg_TCE_College_Basketball_PICKS_ONLY_Sunday_November_15th_TCE_Trims.txt
-CBB/transcripts/2026-11-15/RwuJg7UybTI_TCE_College_Basketball_Best_Bets_For_November_15th_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-15/TCQTj15rZ_g_FieldOf68_EXCLUSIVE_Penny_Hardaway_on_Memphis_HUGE_comeback_win_over_Louisville.txt
-CBB/transcripts/2026-11-15/bEfGzrkNoLc_TCE_College_Basketball_Picks_For_November_15th_NCAA_Basketball_Banter_Best.txt
+# 8 files in CBB/transcripts/2026-11-16:
+CBB/transcripts/2026-11-16/6YHdo39ldJQ_CBSCollegeBB_Kentucky_or_Louisville_Which_team_should_be_more_concerned.txt
+CBB/transcripts/2026-11-16/JYeYIpgCsk4_TCE_College_Basketball_Picks_For_November_16th_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-16/LxkomBAY_YE_WagerTalk_Monday_CBB_Picks_TODAY_Richmond_vs_Virginia_Tech_Long_Beach_State_vs_U.txt
+CBB/transcripts/2026-11-16/mX_v4MlJsos_PickDawgz_College_Basketball_Picks_Predictions_Today_11_16_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-16/mZR5ELZPC9U_LockedOnCBB_EXPOSED_Louisville_CRUSHED_by_Memphis_in_second_half_Trouble_for_Pat_K.txt
+CBB/transcripts/2026-11-16/mipOn_VHoNc_PickDawgz_Free_CBB_Betting_Picks_Predictions_Today_11_16_2026_Brian_s_Take_it_to.txt
+CBB/transcripts/2026-11-16/y8A1-gbwvvY_TCE_College_Basketball_PICKS_ONLY_Monday_November_16th_TCE_Trims.txt
+CBB/transcripts/2026-11-16/zDeufOrRI24_PickDawgz_College_Basketball_Picks_for_Today_11_16_26_Monday_s_Best_College_Bask.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-15
 
 # this run:
-NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-UPCOMING CBSCollegeBB CbaVH-SJBTk Memphis crushes Louisville; Kentucky avoids disaster + LSU-Z  (not aired yet - scheduled for 11/15/26 9:00PM)
-UPCOMING FieldOf68 CWgpXFyJxTg MEMPHIS MAKES AN INSANE COMEBACK! Plus, Baylor-Texas, Syracu  (not aired yet - scheduled for 11/15/26 10:00PM)
-NEW     CBB/transcripts/2026-11-15/TCQTj15rZ_g_FieldOf68_EXCLUSIVE_Penny_Hardaway_on_Memphis_HUGE_comeback_win_over_Louisville.txt  (1,962 words)
+NEW     CBB/transcripts/2026-11-16/mZR5ELZPC9U_LockedOnCBB_EXPOSED_Louisville_CRUSHED_by_Memphis_in_second_half_Trouble_for_Pat_K.txt  (6,381 words)
+DEFER   CBSCollegeBB CbaVH-SJBTk Memphis crushes Louisville; Kentucky avoids disaster + LSU-Z  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-16/6YHdo39ldJQ_CBSCollegeBB_Kentucky_or_Louisville_Which_team_should_be_more_concerned.txt  (2,481 words)
+NEW     CBB/transcripts/2026-11-15/bTt83YI3v1k_CBSCollegeBB_Memphis_DOMINATES_Louisville_in_the_second_half_How_good_is_Penny_Hard.txt  (2,288 words)
+NEW     CBB/transcripts/2026-11-15/mVnQV13_fDU_CBSCollegeBB_College_Basketball_AP_Top_25_Preview_Will_Memphis_be_ranked.txt  (1,397 words)
+NEW     CBB/transcripts/2026-11-15/CWgpXFyJxTg_FieldOf68_Memphis_s_INSANE_comeback_Plus_Baylor_Texas_Syracuse_St_John_s_and_MOR.txt  (14,738 words, via Groq)
+NEW     CBB/transcripts/2026-11-15/H8y4fkXFp4s_FieldOf68_St_John_s_STORMS_past_Syracuse_This_team_can_win_UGLY_or_PRETTY_AFTER.txt  (1,422 words)
+NEW     CBB/transcripts/2026-11-15/tg7Dxn87z_0_FieldOf68_Texas_is_a_LEGIT_national_title_threat_Longhorns_SURVIVE_Baylor_in_Sa.txt  (1,281 words)
+NEW     CBB/transcripts/2026-11-15/5TSdkvoOeb4_FieldOf68_Goodman_LSU_is_BACK_on_the_map_Donovan_Dent_UPSETS_Gonzaga_AFTER_DARK.txt  (1,606 words)
+NEW     CBB/transcripts/2026-11-15/Gs2ZBhn3P6A_FieldOf68_Louisville_looked_SOFT_Pat_Kelsey_s_team_COLLAPSES_against_Memphis_AF.txt  (1,883 words)
+NEW     CBB/transcripts/2026-11-15/wy2uDo0OhiE_FieldOf68_Memphis_is_FOR_REAL_An_INCREDIBLE_comeback_to_upset_Louisville_AFTER.txt  (2,269 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-15/bEfGzrkNoLc_TCE_College_Basketball_Picks_For_November_15th_NCAA_Basketball_Banter_Best.txt  (23,976 words, via Groq)
+NEW     CBB/transcripts/2026-11-16/y8A1-gbwvvY_TCE_College_Basketball_PICKS_ONLY_Monday_November_16th_TCE_Trims.txt  (9,184 words)
+NEW     CBB/transcripts/2026-11-16/JYeYIpgCsk4_TCE_College_Basketball_Picks_For_November_16th_NCAA_Basketball_Banter_Best.txt  (13,841 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-UPCOMING WagerTalk 3idwlrHDSkg College Basketball Picks Today: Monday CBB Best Bets & Odds   (not aired yet - scheduled for 11/16/26 10:00AM)
-UPCOMING WagerTalk c9FMpBwVKn4 College Basketball Picks Today: Monday CBB Best Bets & Odds   (not aired yet - scheduled for 11/16/26 10:00AM)
+NEW     CBB/transcripts/2026-11-16/LxkomBAY_YE_WagerTalk_Monday_CBB_Picks_TODAY_Richmond_vs_Virginia_Tech_Long_Beach_State_vs_U.txt  (1,513 words)
+NOCAPS  WagerTalk 3idwlrHDSkg College Basketball Picks Today: Monday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  WagerTalk c9FMpBwVKn4 College Basketball Picks Today: Monday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-16/zDeufOrRI24_PickDawgz_College_Basketball_Picks_for_Today_11_16_26_Monday_s_Best_College_Bask.txt  (1,728 words)
+NEW     CBB/transcripts/2026-11-16/mX_v4MlJsos_PickDawgz_College_Basketball_Picks_Predictions_Today_11_16_26_Ron_s_Bank_Shot_Br.txt  (1,552 words)
+NEW     CBB/transcripts/2026-11-16/mipOn_VHoNc_PickDawgz_Free_CBB_Betting_Picks_Predictions_Today_11_16_2026_Brian_s_Take_it_to.txt  (345 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -28,3 +43,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    deferred videos are picked up automatically on the next scheduled run
