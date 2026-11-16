@@ -1,6 +1,6 @@
-# NFL transcripts | week 10 | updated 2026-11-15 20:19 ET
+# NFL transcripts | week 10 | updated 2026-11-16 06:47 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 121 files in NFL/transcripts/week-10:
+# 128 files in NFL/transcripts/week-10:
 NFL/transcripts/week-10/-BTQNF0nJyA_Stokastic_Commanders_Giants_Showdown_Strategy_TNF_Week_10_DFS_Picks_NFL_DFS_Stra.txt
 NFL/transcripts/week-10/-XdXkQ5crb8_ActionNetwork_San_Francisco_49ers_vs_Dallas_Cowboys_NFL_Betting_Preview_Predictions.txt
 NFL/transcripts/week-10/-_DSqkusksQ_ActionNetwork_NFL_Trade_Deadline_REACTIONS_NFL_Futures_To_Bet_NOW.txt
@@ -13,6 +13,7 @@ NFL/transcripts/week-10/2BHLP783RAw_SportsLine_College_Football_Bets_NBA_Picks_N
 NFL/transcripts/week-10/2iS_gpO8Buk_SGPN_Panthers_vs_Saints_Prediction_Picks_Best_Bets_NFL_Week_10.txt
 NFL/transcripts/week-10/2w6aCI02FM0_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Commanders_Giants_TNF_Week_10_DFS_Pi.txt
 NFL/transcripts/week-10/3cnRlsqip7U_TheAudible_Was_the_Chiefs_trade_for_Josh_Downs_the_biggest_fantasy_football_splas.txt
+NFL/transcripts/week-10/3xjqfJvRCmM_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Steelers_Bengals_SNF_Week_10_DFS_Pic.txt
 NFL/transcripts/week-10/5DDfW-oGsL4_DFSArmy_NFL_Week_10_DFS_Pre_Lock_Show_DFS_Army.txt
 NFL/transcripts/week-10/5DFjFf_5P3c_TheAudible_NFL_Schedule_Secrets_that_Will_Help_You_Win_Your_Fantasy_Football_Leag.txt
 NFL/transcripts/week-10/5TuCbyIcxcQ_BettingPros_Top_NFL_Picks_for_Commanders_vs_Giants_Best_Bets_Props_for_Thursday_Ni.txt
@@ -75,8 +76,10 @@ NFL/transcripts/week-10/XgF73VqC-uA_FantasyAlarm_Commanders_vs_Giants_Fantasy_Fo
 NFL/transcripts/week-10/XlONRj-i_hg_RotoGrinders_LIVE_NFL_DFS_Picks_Strategy_for_DraftKings_FanDuel_Week_10.txt
 NFL/transcripts/week-10/Yrqhwn1Pa9g_FantasyAlarm_DraftKings_NFL_DFS_Week_10_Top_Picks_Values_Optimizer_Strategy.txt
 NFL/transcripts/week-10/Zlm1srKshYM_CallingOurShot_The_Best_NFL_Week_10_Parlays_to_Help_Us_ALL_Retire.txt
+NFL/transcripts/week-10/_yFwRfY0D-w_FantasyAlarm_Fantasy_Football_Week_10_Start_Sit_Best_Bets_DFS_Picks_NFL_Inactives.txt
 NFL/transcripts/week-10/aNIhyAngsms_TheAudible_NFL_DFS_Week_10_Best_DraftKings_Plays_Stacks_Sleepers_Fades_Main_Slate.txt
 NFL/transcripts/week-10/aWN2YhkDElE_LandYourBets_8_NFL_Player_Prop_Looks_For_Week_10_Free_NFL_Best_Bets_November_15.txt
+NFL/transcripts/week-10/adzGUwQHl88_ShipItNation_NFL_DFS_Week_10_Contrarian_Constructions_Main_Slate_DraftKings_FanDuel.txt
 NFL/transcripts/week-10/anp6c7olvYU_Footballers_Week_10_Waivers_Streamers_Breaking_News_Fantasy_Football_2026_Ep_2012.txt
 NFL/transcripts/week-10/bzuggm2Wpz8_DFSArmy_NFL_DFS_Week_10_The_Best_DraftKings_Stacks_Core_Plays.txt
 NFL/transcripts/week-10/c6UWYLJtOIc_CirclesOff_What_3_Million_of_NFL_Bets_Taught_Me_About_Timing_Presented_by_Prophet.txt
@@ -94,11 +97,13 @@ NFL/transcripts/week-10/h-eeKg1jS44_PlayerProfiler_Plays_of_the_Week_Fantasy_Foo
 NFL/transcripts/week-10/hLsMXqw469E_BettingPros_NFL_Sunday_Night_Football_Bets_Player_Props_Steelers_vs_Bengals_Picks.txt
 NFL/transcripts/week-10/hQ8K8aoGJpg_PickDawgz_NFL_Picks_Predictions_For_Today_Thursday_11_12_26_FREE_NFL_Best_Bets_a.txt
 NFL/transcripts/week-10/ig-CGKz0WF4_Stokastic_NFL_DFS_Sims_Tournament_Strategy_Week_10_NFL_DFS_Strategy.txt
+NFL/transcripts/week-10/j74wIGLUbVQ_PickDawgz_LA_CHARGERS_VS_BALTIMORE_RAVENS_FREE_NFL_PICK_PREDICTION_The_Yang_Angl.txt
 NFL/transcripts/week-10/jYZsCHpB9m4_TheAudible_Fantasy_Football_Week_10_Don_t_Chase_These_Week_9_Surprises.txt
 NFL/transcripts/week-10/ja4vhVH0lLk_FantasyAlarm_Week_10_Waiver_Wire_Adds_For_Fantasy_Football.txt
 NFL/transcripts/week-10/kFvliD_-9vI_SGPN_NFL_Week_10_Locks_Dogs_Teasers_Best_Bets.txt
 NFL/transcripts/week-10/kcy8BsOdR6I_SportsLine_NFL_Player_Props_Week_10_Picks_and_Bets.txt
 NFL/transcripts/week-10/keehj8tpWuI_FantasyAlarm_Week_10_NFL_DFS_Picks_Props_and_YOUR_Start_Sit_Questions.txt
+NFL/transcripts/week-10/lZH_cd0irx8_LandYourBets_Chargers_vs_Ravens_Week_10_MNF_NFL_Best_Bets_Player_Props_November_16.txt
 NFL/transcripts/week-10/n-IhpyA4RiU_TheAudible_Week_10_Waiver_Wire_Seth_McGowan_the_top_pickup_Emmett_Johnson_a_weekl.txt
 NFL/transcripts/week-10/nIO5K0aAtMg_BettingPros_10_BEST_BETS_for_NFL_Week_10_Top_Picks_Predictions_to_Make_NOW_2026.txt
 NFL/transcripts/week-10/npzrqZxtSdA_SportsLine_NFL_Picks_Today_Bets_for_EVERY_1PM_ET_Game.txt
@@ -106,6 +111,7 @@ NFL/transcripts/week-10/ol0yBhaGhUE_DFSArmy_10_Week_10_NFL_DFS_Plays_Under_10_Ow
 NFL/transcripts/week-10/pcApPX-a_S0_ShipItNation_NFL_DFS_Week_10_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_an.txt
 NFL/transcripts/week-10/r4aWi_iZRMg_DFSArmy_Bengals_vs_Steelers_Showdown_Breakdown_Sunday_Night_Football_DraftKing.txt
 NFL/transcripts/week-10/rHgGjbNsMII_PlayerProfiler_Week_10_Fantasy_Football_Rankings_Tiers_2026_QB_RB_WR_TE_Start_Sit_Adv.txt
+NFL/transcripts/week-10/rMeTx20EwNQ_PlayerProfiler_Week_10_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt
 NFL/transcripts/week-10/rs0xb1vjPjs_DFSArmy_NFL_Week_10_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_Tournament_T.txt
 NFL/transcripts/week-10/s1OgzEAGEkw_SGPN_Bills_vs_Jets_Prediction_Picks_Best_Bets_NFL_Week_10.txt
 NFL/transcripts/week-10/sXsdVB8Spqw_SGPN_Steelers_vs_Bengals_Prediction_Picks_Best_Bets_NFL_Week_10.txt
@@ -122,32 +128,38 @@ NFL/transcripts/week-10/zGAE96cd8jg_FantasyAlarm_Fantasy_Football_Week_10_Trade_
 NFL/transcripts/week-10/zI79DTfUf6s_SGPN_Texans_vs_Browns_Prediction_Picks_Best_Bets_NFL_Week_10.txt
 NFL/transcripts/week-10/zRy9HUxGxOA_ActionNetwork_Sunday_Night_Football_Picks_Steelers_vs_Bengals_Predictions_Best_Bets.txt
 NFL/transcripts/week-10/zUaAH-Qx2hQ_BettingPros_Top_4_Bets_for_Sunday_NFL_Week_10_Picks_Football_Betting_Analysis.txt
+NFL/transcripts/week-10/zjUqKl1Yrq8_PickDawgz_NFL_Picks_Predictions_For_Today_Monday_11_16_26_FREE_NFL_Best_Bets_and.txt
 
 # this run:
-NEW     NFL/transcripts/week-10/ejPd4ZhuzNI_Footballers_Mike_Wright_is_LIVE_Week_10_Fantasy_Football_Start_Sit_Advice_Injury_N.txt  (5,657 words)
+NONE    channel Footballers: nothing new in the date window (or everything already saved)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-10/LpSyFyo4SeI_RotoGrinders_Steelers_vs_Bengals_SNF_Showdown_NFL_DFS_Picks_Strategy.txt  (4,440 words, via Groq)
-NEW     NFL/transcripts/week-10/XlONRj-i_hg_RotoGrinders_LIVE_NFL_DFS_Picks_Strategy_for_DraftKings_FanDuel_Week_10.txt  (41,054 words)
+UPCOMING RotoGrinders fSSafZJ3_D0 Chargers vs. Ravens MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/16/26 7:30PM)
+NEW     NFL/transcripts/week-10/adzGUwQHl88_ShipItNation_NFL_DFS_Week_10_Contrarian_Constructions_Main_Slate_DraftKings_FanDuel.txt  (9,886 words)
 NOCAPS  ShipItNation ylje7fRXsKw Steelers vs Bengals NFL DFS Showdown | SNF Week 10 Sunday Sw  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  ShipItNation adzGUwQHl88 NFL DFS Week 10 Contrarian Constructions | Main Slate DraftK  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-10/DNaZbBpvj1I_SGPN_NFL_Week_10_Betting_Pregame_Show_NFL_Picks_Prop_Bets_DFS_Picks_and_Fan.txt  (10,168 words)
-NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
+UPCOMING ShipItNation TMUqW_cXVRY Chargers vs Ravens NFL DFS Showdown | MNF Week 10 Showdown S  (not aired yet - scheduled for 11/16/26 2:00PM)
+UPCOMING ShipItNation lI4OcVBYtss NFL DFS Week 10 Takedown Breakdown | Winning DraftKings Line  (not aired yet - scheduled for 11/16/26 12:00PM)
+NOCAPS  SGPN qKQ0k81udnw Monday Night Football Prop Bets + NFL Week 10 Recap  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING SGPNPropcast QYk4MtkqBPM NFL Week 10 Monday Night Football Player Props - 11/16/26  (not aired yet - scheduled for 11/16/26 11:15AM)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-10/5DDfW-oGsL4_DFSArmy_NFL_Week_10_DFS_Pre_Lock_Show_DFS_Army.txt  (12,356 words)
+NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible qAwkazwY7SY Week 10 early games RECAP; Which fantasy football players cr  (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  PlayerProfiler rMeTx20EwNQ Week 10 NFL Start/Sits with Chuck Bass and The Podfather  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-10/T7fLyHam-Wo_Stokastic_NFL_DFS_Live_Before_Lock_Week_10_NFL_DFS_Picks_for_DraftKings_FanDuel.txt  (40,987 words)
-NOCAPS  Stokastic 3xjqfJvRCmM NFL DFS Showdown Live Before Lock | Steelers-Bengals SNF Wee  (no captions; Groq: still live - audio not final yet)
-NEW     NFL/transcripts/week-10/yzGqVet_eSA_BettingPros_Sunday_NFL_Week_10_Best_Bets_Expert_Picks_Predictions_Player_Props_202.txt  (10,849 words)
-NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
+NOCAPS  TheAudible qAwkazwY7SY Week 10 early games RECAP; Which fantasy football players cr  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.9h ago))
+NEW     NFL/transcripts/week-10/rMeTx20EwNQ_PlayerProfiler_Week_10_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt  (17,112 words)
+NEW     NFL/transcripts/week-10/3xjqfJvRCmM_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Steelers_Bengals_SNF_Week_10_DFS_Pic.txt  (8,507 words)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-10/lZH_cd0irx8_LandYourBets_Chargers_vs_Ravens_Week_10_MNF_NFL_Best_Bets_Player_Props_November_16.txt  (3,267 words)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm _yFwRfY0D-w Fantasy Football Week 10 Start/Sit, Best Bets & DFS Picks &   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-10/_yFwRfY0D-w_FantasyAlarm_Fantasy_Football_Week_10_Start_Sit_Best_Bets_DFS_Picks_NFL_Inactives.txt  (10,998 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+DEFER   PickDawgz 4VZXwTEifWc Chargers vs Ravens Picks & Predictions 11/16/26 - Monday Nig  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
+DEFER   PickDawgz fqrA1aF5rLs NFL Picks and Predictions 11/16/26 : The Lowdown With Jeremy  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
+DEFER   PickDawgz 6b1U76XDmao NFL Picks and Predictions for Today 11/16/2026 | Dawg of the  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
+NEW     NFL/transcripts/week-10/j74wIGLUbVQ_PickDawgz_LA_CHARGERS_VS_BALTIMORE_RAVENS_FREE_NFL_PICK_PREDICTION_The_Yang_Angl.txt  (473 words)
+NEW     NFL/transcripts/week-10/zjUqKl1Yrq8_PickDawgz_NFL_Picks_Predictions_For_Today_Monday_11_16_26_FREE_NFL_Best_Bets_and.txt  (2,800 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
+NOTE    deferred videos are picked up automatically on the next scheduled run
