@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-16 | updated 2026-11-16 18:36 ET
+# NBA transcripts | 2026-11-16 | updated 2026-11-16 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 23 files in NBA/transcripts/2026-11-16:
 NBA/transcripts/2026-11-16/-MxjtK-YzXk_FantasyAlarm_NBA_DFS_Picks_Today_11_16_DraftKings_Lineup_Strategy_Top_Values.txt
@@ -43,7 +43,6 @@ NONE    channel LockedOnNBA: nothing new in the date window (or everything alrea
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod -AeAxFU2qgg NBA Tuesday Picks - 11/17/26 | NBA Bets, Player Props and Pr  (not aired yet - scheduled for 11/16/26 9:05PM)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-16/G4GGw_kppkw_JayMoney_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt  (1,162 words, via Groq)
 UPCOMING JayMoney GvNNrNr2mHc Night Time NBA Talk With Jay Money  (not aired yet - scheduled for 11/17/26 12:10AM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
@@ -51,7 +50,7 @@ UPCOMING SportsLine BwA2jzzYNDU NBA Bets + College Basketball Picks + NHL | Earl
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-16/-MxjtK-YzXk_FantasyAlarm_NBA_DFS_Picks_Today_11_16_DraftKings_Lineup_Strategy_Top_Values.txt  (9,369 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
