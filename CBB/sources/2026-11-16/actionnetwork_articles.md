@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-16 11:17 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-16 17:03 ET -->
 
 
 ---
@@ -122,12 +122,12 @@ Long Beach State vs. UCLA
 NCAAB
 [Iona vs UMBC Prediction, Pick, College Basketball Odds for Monday, Nov. 16](https://www.actionnetwork.com/ncaab/iona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16)
 Sean Paul
-5 hours ago
+11 hours ago
 [![Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LBSU-UCLA-NCAAB-11_16.jpg)](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
 NCAAB
 [Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
 Ryan Minion
-1 hour ago
+7 hours ago
 [![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
 NCAAB
 [College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
@@ -138,19 +138,19 @@ NCAAB
 [College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
 Sean Paul
 Oct 27, 2026 EST
+[ PRO ![College Basketball Spreads: Picks for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LIU-11-16-26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+NCAAB
+[College Basketball Spreads: Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+Charles White
+1 hour ago
 [![Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://images.actionnetwork.com/blog/2026/11/Syracuse-StJohns-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 NCAAB
 [Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 Sean Paul
 Nov 15, 2026 EST
-[![Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://images.actionnetwork.com/blog/2026/11/Baylor-Texas-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-NCAAB
-[Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-Ryan Minion
-Nov 15, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bebfae9e-51e8-4d66-aea5-9dc2dcb2ccce&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=aba1e2e4-ea50-46ee-baf1-f9c7a945e120&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bebfae9e-51e8-4d66-aea5-9dc2dcb2ccce&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=aba1e2e4-ea50-46ee-baf1-f9c7a945e120&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2729f664-490e-42a1-bc73-0010ca689ecc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=aba1e2e4-ea50-46ee-baf1-f9c7a945e120&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=7512&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2729f664-490e-42a1-bc73-0010ca689ecc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=aba1e2e4-ea50-46ee-baf1-f9c7a945e120&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=7512&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=05254bf4-842e-44c1-83e1-b1d4a214384e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1d798e7-e616-4a5e-b989-db8bba8cc142&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=05254bf4-842e-44c1-83e1-b1d4a214384e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1d798e7-e616-4a5e-b989-db8bba8cc142&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5b6c5f61-5671-4bb7-a98c-807aaf1fdafc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1d798e7-e616-4a5e-b989-db8bba8cc142&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5b6c5f61-5671-4bb7-a98c-807aaf1fdafc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c1d798e7-e616-4a5e-b989-db8bba8cc142&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-monday-november-16&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -269,12 +269,12 @@ How To Watch Iona vs UMBC
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-monday-november-16)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LBSU-UCLA-NCAAB-11_16.jpg)](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
 NCAAB
 [Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
 Ryan Minion
-1 hour ago
+7 hours ago
 [![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
 NCAAB
 [College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
@@ -285,19 +285,19 @@ NCAAB
 [College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
 Sean Paul
 Oct 27, 2026 EST
+[ PRO ![College Basketball Spreads: Picks for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LIU-11-16-26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+NCAAB
+[College Basketball Spreads: Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+Charles White
+1 hour ago
 [![Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://images.actionnetwork.com/blog/2026/11/Syracuse-StJohns-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 NCAAB
 [Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 Sean Paul
 Nov 15, 2026 EST
-[![Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://images.actionnetwork.com/blog/2026/11/Baylor-Texas-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-NCAAB
-[Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-Ryan Minion
-Nov 15, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2b5b7f8e-e543-4f64-bbbc-92178d8968dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22854048-3070-49c8-b2fc-302e2eae7136&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2b5b7f8e-e543-4f64-bbbc-92178d8968dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22854048-3070-49c8-b2fc-302e2eae7136&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=36b8a346-0c43-4c84-b2b9-9870724e114f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22854048-3070-49c8-b2fc-302e2eae7136&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7498&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=36b8a346-0c43-4c84-b2b9-9870724e114f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=22854048-3070-49c8-b2fc-302e2eae7136&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7498&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3532319b-2cbb-4eff-8622-bf1c4c29d294&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9b07e143-4d5c-4c3e-899d-52fca3c69acf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3532319b-2cbb-4eff-8622-bf1c4c29d294&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9b07e143-4d5c-4c3e-899d-52fca3c69acf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=764778d3-2b02-417b-8d0b-8f840f220ae9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9b07e143-4d5c-4c3e-899d-52fca3c69acf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=764778d3-2b02-417b-8d0b-8f840f220ae9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9b07e143-4d5c-4c3e-899d-52fca3c69acf&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -368,23 +368,23 @@ Today
 /
 8:15 PM on ESPN
 •
-30.5k bets
+61.0k bets
 LAC +4.5
 -110 (1.1u)
 Copy Bet
 https://discord.gg/hqQVQy8f7
-![LBSU](https://static.sprtactn.co/teamlogos/ncaab/100/lbsu.png)
-![UCLA](https://static.sprtactn.co/teamlogos/ncaab/100/ucla.png)
-LBSU @ UCLA Picks
+![ORL](https://assets.actionnetwork.com/738861_magic3.png)
+![BOS](https://static.sprtactn.co/teamlogos/nba/100/bos.png)
+Magic @ Celtics Picks
 Today
 /
-10:00 PM on BTN
+7:00 PM on Peacock/NBCSN
 •
-939 bets
-UCLA -18 (1H)
--110 (1.1u)
+9.9k bets
+A.Black o22.5 Pts+Rebs+Ast
+-120 (1.2u)
 Copy Bet
-#ACTION ✍️✍️ https://discord.gg/PdEQKJ4y4
+https://discord.gg/Vvr5dFAyv
 See All
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ucla.png)
 ### UCLA Basketball
@@ -440,12 +440,12 @@ How To Watch LBSU vs UCLA
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-monday-november-16)
 Greg Waddell
-3 hours ago
+9 hours ago
 [![Iona vs UMBC Prediction, Pick, College Basketball Odds for Monday, Nov. 16](https://images.actionnetwork.com/blog/2026/11/Iona-UMBC-NCAAB-11_16.jpg)](https://www.actionnetwork.com/ncaab/iona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16)
 NCAAB
 [Iona vs UMBC Prediction, Pick, College Basketball Odds for Monday, Nov. 16](https://www.actionnetwork.com/ncaab/iona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16)
 Sean Paul
-5 hours ago
+11 hours ago
 [![College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
 NCAAB
 [College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
@@ -456,17 +456,840 @@ NCAAB
 [College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
 Sean Paul
 Oct 27, 2026 EST
+[ PRO ![College Basketball Spreads: Picks for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LIU-11-16-26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+NCAAB
+[College Basketball Spreads: Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+Charles White
+1 hour ago
 [![Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://images.actionnetwork.com/blog/2026/11/Syracuse-StJohns-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 NCAAB
 [Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
 Sean Paul
 Nov 15, 2026 EST
-[![Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://images.actionnetwork.com/blog/2026/11/Baylor-Texas-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-NCAAB
-[Baylor vs Texas Prediction, Pick, College Basketball Odds for Sunday, Nov. 15](https://www.actionnetwork.com/ncaab/baylor-bears-vs-texas-longhorns-prediction-pick-odds-college-basketball-sunday-november-15)
-Ryan Minion
-Nov 15, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=26cf8dfe-714f-40d7-8415-12b9c2b4760d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e6a9385-4bfe-4e90-ac5c-9bfb2ec615ec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=26cf8dfe-714f-40d7-8415-12b9c2b4760d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e6a9385-4bfe-4e90-ac5c-9bfb2ec615ec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b88ed4d9-d4a2-4859-865e-91afb4c2d902&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e6a9385-4bfe-4e90-ac5c-9bfb2ec615ec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7584&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b88ed4d9-d4a2-4859-865e-91afb4c2d902&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6e6a9385-4bfe-4e90-ac5c-9bfb2ec615ec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7584&tw_iframe_status=0&tw_pid_src=2&tw_session_count=95&tw_session_id=1794845028093-731319611&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bb2dc4a0-5adc-4126-9a1d-b20a47c4ccd8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fd0a5650-1ae0-4ec9-8d94-49b24f1eef52&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bb2dc4a0-5adc-4126-9a1d-b20a47c4ccd8&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fd0a5650-1ae0-4ec9-8d94-49b24f1eef52&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=375c80c1-8ac8-4718-97f2-8b5d048fc40d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fd0a5650-1ae0-4ec9-8d94-49b24f1eef52&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7711&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=375c80c1-8ac8-4718-97f2-8b5d048fc40d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fd0a5650-1ae0-4ec9-8d94-49b24f1eef52&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Flong-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16&tw_engaged_ms=7711&tw_iframe_status=0&tw_pid_src=2&tw_session_count=97&tw_session_id=1794866461810-869839480&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16
+
+Title: College Basketball Spreads: Picks for Monday, November 16
+
+URL Source: https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16
+
+Published Time: 2026-11-16T20:27:00.000Z
+
+Markdown Content:
+[](https://www.actionnetwork.com/)
+
+Sports
+
+Odds
+
+Picks
+
+Tools
+
+PRO
+
+Prediction Markets
+
+Sports Betting
+
+Casinos
+
+Resources
+
+*       *   [NFL](https://www.actionnetwork.com/nfl)
+        [NFL Home](https://www.actionnetwork.com/nfl)
+        [Odds](https://www.actionnetwork.com/nfl/odds)
+        [Props](https://www.actionnetwork.com/nfl/props)
+        [Futures](https://www.actionnetwork.com/nfl/futures)
+        [Picks](https://www.actionnetwork.com/nfl/picks)
+        [Teams](https://www.actionnetwork.com/nfl/teams)
+        [ATS Standings](https://www.actionnetwork.com/nfl/against-the-spread-standings)
+        [Weather](https://www.actionnetwork.com/nfl/weather)
+        [Injuries](https://www.actionnetwork.com/nfl/injury-report)
+        [Officials](https://www.actionnetwork.com/nfl/referee-assignments)
+        [Signals](https://www.actionnetwork.com/nfl/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/nfl/public-betting)
+        [Prop Projections](https://www.actionnetwork.com/nfl/prop-projections)
+        [Game Projections](https://www.actionnetwork.com/nfl/projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [NBA](https://www.actionnetwork.com/nba)
+        [NBA Home](https://www.actionnetwork.com/nba)
+        [Odds](https://www.actionnetwork.com/nba/odds)
+        [Props](https://www.actionnetwork.com/nba/props)
+        [Futures](https://www.actionnetwork.com/nba/futures)
+        [Picks](https://www.actionnetwork.com/nba/picks)
+        [Teams](https://www.actionnetwork.com/nba/teams)
+        [ATS Standings](https://www.actionnetwork.com/nba/against-the-spread-standings)
+        [Injuries](https://www.actionnetwork.com/nba/injury-report)
+        [Officials](https://www.actionnetwork.com/nba/referee-assignments)
+        [Signals](https://www.actionnetwork.com/nba/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/nba/public-betting)
+        [Prop Projections](https://www.actionnetwork.com/nba/prop-projections)
+        [Game Projections](https://www.actionnetwork.com/nba/projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [MLB](https://www.actionnetwork.com/mlb)
+        [MLB Home](https://www.actionnetwork.com/mlb)
+        [Odds](https://www.actionnetwork.com/mlb/odds)
+        [Props](https://www.actionnetwork.com/mlb/props)
+        [Futures](https://www.actionnetwork.com/mlb/futures)
+        [Picks](https://www.actionnetwork.com/mlb/picks)
+        [Teams](https://www.actionnetwork.com/mlb/teams)
+        [ATS Standings](https://www.actionnetwork.com/mlb/against-the-spread-standings)
+        [Weather](https://www.actionnetwork.com/mlb/weather)
+        [Injuries](https://www.actionnetwork.com/mlb/injury-report)
+        [Officials](https://www.actionnetwork.com/mlb/referee-assignments)
+        [Signals](https://www.actionnetwork.com/mlb/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/mlb/public-betting)
+        [Prop Projections](https://www.actionnetwork.com/mlb/prop-projections)
+        [Game Projections](https://www.actionnetwork.com/mlb/projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [NHL](https://www.actionnetwork.com/nhl)
+        [NHL Home](https://www.actionnetwork.com/nhl)
+        [Odds](https://www.actionnetwork.com/nhl/odds)
+        [Props](https://www.actionnetwork.com/nhl/props)
+        [Futures](https://www.actionnetwork.com/nhl/futures)
+        [Picks](https://www.actionnetwork.com/nhl/picks)
+        [Teams](https://www.actionnetwork.com/nhl/teams)
+        [ATS Standings](https://www.actionnetwork.com/nhl/against-the-spread-standings)
+        [Injuries](https://www.actionnetwork.com/nhl/injury-report)
+        [Signals](https://www.actionnetwork.com/nhl/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/nhl/public-betting)
+        [Game Projections](https://www.actionnetwork.com/nhl/projections)
+        [Prop Projections](https://www.actionnetwork.com/nhl/prop-projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [SOCCER](https://www.actionnetwork.com/soccer)
+        [Soccer Home](https://www.actionnetwork.com/soccer)
+        [Odds](https://www.actionnetwork.com/soccer/odds)
+        [Picks](https://www.actionnetwork.com/soccer/picks)
+        [Public Betting](https://www.actionnetwork.com/soccer/public-betting)
+        [Game Projections](https://www.actionnetwork.com/soccer/projections)
+        [Prop Projections](https://www.actionnetwork.com/worldcup/prop-projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [GOLF](https://www.actionnetwork.com/golf)
+        [Golf Home](https://www.actionnetwork.com/golf)
+        [Odds](https://www.actionnetwork.com/pga/odds)
+
+    *   [NCAAB](https://www.actionnetwork.com/ncaab)
+        [NCAAB Home](https://www.actionnetwork.com/ncaab)
+        [Odds](https://www.actionnetwork.com/ncaab/odds)
+        [Props](https://www.actionnetwork.com/ncaab/props)
+        [Futures](https://www.actionnetwork.com/ncaab/futures)
+        [Picks](https://www.actionnetwork.com/ncaab/picks)
+        [Teams](https://www.actionnetwork.com/ncaab/teams)
+        [ATS Standings](https://www.actionnetwork.com/ncaab/against-the-spread-standings)
+        [Injuries](https://www.actionnetwork.com/ncaab/injury-report)
+        [Signals](https://www.actionnetwork.com/ncaab/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/ncaab/public-betting)
+        [Game Projections](https://www.actionnetwork.com/ncaab/projections)
+        [Prop Projections](https://www.actionnetwork.com/ncaab/prop-projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [NCAAF](https://www.actionnetwork.com/ncaaf)
+        [NCAAF Home](https://www.actionnetwork.com/ncaaf)
+        [Odds](https://www.actionnetwork.com/ncaaf/odds)
+        [Props](https://www.actionnetwork.com/ncaaf/props)
+        [Futures](https://www.actionnetwork.com/ncaaf/futures)
+        [Picks](https://www.actionnetwork.com/ncaaf/picks)
+        [Teams](https://www.actionnetwork.com/ncaaf/teams)
+        [ATS Standings](https://www.actionnetwork.com/ncaaf/against-the-spread-standings)
+        [Weather](https://www.actionnetwork.com/ncaaf/weather)
+        [Injuries](https://www.actionnetwork.com/ncaaf/injury-report)
+        [Signals](https://www.actionnetwork.com/ncaaf/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/ncaaf/public-betting)
+        [Prop Projections](https://www.actionnetwork.com/ncaaf/prop-projections)
+        [Game Projections](https://www.actionnetwork.com/ncaaf/projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [WNBA](https://www.actionnetwork.com/wnba)
+        [WNBA Home](https://www.actionnetwork.com/wnba)
+        [Odds](https://www.actionnetwork.com/wnba/odds)
+        [Props](https://www.actionnetwork.com/wnba/props)
+        [Futures](https://www.actionnetwork.com/wnba/futures)
+        [Picks](https://www.actionnetwork.com/wnba/picks)
+        [ATS Standings](https://www.actionnetwork.com/wnba/against-the-spread-standings)
+        [Injuries](https://www.actionnetwork.com/wnba/injury-report)
+        [Signals](https://www.actionnetwork.com/wnba/sharp-report)
+        [Public Betting](https://www.actionnetwork.com/wnba/public-betting)
+        [Prop Projections](https://www.actionnetwork.com/wnba/prop-projections)
+        [Game Projections](https://www.actionnetwork.com/wnba/projections)
+        [Systems](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [TENNIS](https://www.actionnetwork.com/tennis)
+        [Tennis Home](https://www.actionnetwork.com/tennis)
+        [Men's](https://www.actionnetwork.com/atp/odds)
+        [Women's](https://www.actionnetwork.com/wta/odds)
+
+    *   [NASCAR](https://www.actionnetwork.com/nascar)
+        [NASCAR Home](https://www.actionnetwork.com/nascar)
+        [Odds](https://www.actionnetwork.com/nascar/odds)
+
+    *   [UFC](https://www.actionnetwork.com/mma)
+        [UFC Home](https://www.actionnetwork.com/mma)
+        [Odds](https://www.actionnetwork.com/ufc/odds)
+
+    *   [NCAA BASEBALL](https://www.actionnetwork.com/ncaa-baseball)
+        [NCAA Baseball Home](https://www.actionnetwork.com/ncaa-baseball)
+
+*       *   [NFL](https://www.actionnetwork.com/nfl/odds)
+
+    *   [NBA](https://www.actionnetwork.com/nba/odds)
+
+    *   [MLB](https://www.actionnetwork.com/mlb/odds)
+
+    *   [NHL](https://www.actionnetwork.com/nhl/odds)
+
+    *   [SOCCER](https://www.actionnetwork.com/soccer/odds)
+
+    *   [GOLF](https://www.actionnetwork.com/pga/odds)
+
+    *   [NCAAB](https://www.actionnetwork.com/ncaab/odds)
+
+    *   [NCAAF](https://www.actionnetwork.com/ncaaf/odds)
+
+    *   [UFC](https://www.actionnetwork.com/ufc/odds)
+
+    *   [WNBA](https://www.actionnetwork.com/wnba/odds)
+
+    *   [NASCAR](https://www.actionnetwork.com/nascar/odds)
+
+    *   [TENNIS](https://www.actionnetwork.com/atp/odds)
+
+    *   [PROPS](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [NBA Props](https://www.actionnetwork.com/nba/props)
+        [NFL Props](https://www.actionnetwork.com/nfl/props)
+        [NCAAF Props](https://www.actionnetwork.com/ncaaf/props)
+        [NCAAB Props](https://www.actionnetwork.com/ncaab/props)
+        [NHL Props](https://www.actionnetwork.com/nhl/props)
+        [MLB Props](https://www.actionnetwork.com/mlb/props)
+        [WNBA Props](https://www.actionnetwork.com/wnba/props)
+
+    *   [FUTURES](https://www.actionnetwork.com/futures)
+        [NBA Futures](https://www.actionnetwork.com/nba/futures)
+        [NFL Futures](https://www.actionnetwork.com/nfl/futures)
+        [NCAAF Futures](https://www.actionnetwork.com/ncaaf/futures)
+        [NCAAB Futures](https://www.actionnetwork.com/ncaab/futures)
+        [NCAAW Futures](https://www.actionnetwork.com/ncaaw/futures)
+        [NHL Futures](https://www.actionnetwork.com/nhl/futures)
+        [MLB Futures](https://www.actionnetwork.com/mlb/futures)
+        [WNBA Futures](https://www.actionnetwork.com/wnba/futures)
+
+*       *   [ALL PICKS](https://www.actionnetwork.com/picks)
+
+    *   [PICKS BY GAME](https://www.actionnetwork.com/picks/game)
+
+    *   [NFL](https://www.actionnetwork.com/nfl/picks)
+
+    *   [NBA](https://www.actionnetwork.com/nba/picks)
+
+    *   [MLB](https://www.actionnetwork.com/mlb/picks)
+
+    *   [NHL](https://www.actionnetwork.com/nhl/picks)
+
+    *   [NCAAB](https://www.actionnetwork.com/ncaab/picks)
+
+    *   [NCAAF](https://www.actionnetwork.com/ncaaf/picks)
+
+    *   [WNBA](https://www.actionnetwork.com/wnba/picks)
+
+    *   [SOCCER](https://www.actionnetwork.com/soccer/picks)
+
+    *   [DISCOVER EXPERTS](https://www.actionnetwork.com/picks/top-experts)
+
+*       *   [SIGNALS](https://www.actionnetwork.com/sharp-report)
+
+    *   [PUBLIC BETTING](https://www.actionnetwork.com/public-betting)
+
+    *   [GAME PROJECTIONS](https://www.actionnetwork.com/projections)
+
+    *   [SYSTEMS](https://www.actionnetwork.com/pro-systems/discover)
+
+    *   [PROP PROJECTIONS](https://www.actionnetwork.com/nba/prop-projections)
+
+    *   [MY PRO DASHBOARD](https://www.actionnetwork.com/pro-dashboard)
+
+*       *   [Best Prediction Market Promo Codes](https://www.actionnetwork.com/prediction-markets/promo-codes)
+        [Polymarket Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/polymarket)
+        [Kalshi Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi)
+        [Novig Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/novig)
+        [ProphetX Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/prophetx)
+        [FanDuel Predicts Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/fanduel-predicts)
+        [DraftKings Predictions Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/draftkings-predictions)
+        [NFL Prediction Market Promos](https://www.actionnetwork.com/prediction-markets/promo-codes/nfl)
+        [College Football Prediction Market Promos](https://www.actionnetwork.com/prediction-markets/promo-codes/ncaaf)
+
+    *   [Prediction Market Reviews](https://www.actionnetwork.com/prediction-markets)
+        [Polymarket Review](https://www.actionnetwork.com/prediction-markets/polymarket)
+        [Kalshi Review](https://www.actionnetwork.com/prediction-markets/kalshi)
+        [Novig Review](https://www.actionnetwork.com/prediction-markets/novig)
+        [ProphetX Review](https://www.actionnetwork.com/prediction-markets/prophetx)
+        [Kalshi vs Polymarket Comparison](https://www.actionnetwork.com/prediction-markets/kalshi-vs-polymarket)
+        [Kalshi vs Novig Comparison](https://www.actionnetwork.com/prediction-markets/kalshi-vs-novig)
+
+    *   [Prediction Markets Info](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [Markets](https://www.actionnetwork.com/prediction-markets/markets)
+        [Leaderboard](https://www.actionnetwork.com/prediction-markets/leaderboard)
+        [Odds Converter](https://www.actionnetwork.com/prediction-markets/odds-converter)
+
+    *   [Politics](https://www.actionnetwork.com/politics)
+        [Political Prediction Market Apps](https://www.actionnetwork.com/prediction-markets/politics)
+        [Prediction Markets vs. Polling](https://www.actionnetwork.com/politics/2026-midterm-predictions-what-prediction-markets-say-vs-the-polls)
+        [How Accurate Are Prediction Markets?](https://www.actionnetwork.com/education/how-accurate-are-prediction-markets-what-9-markets-show)
+        [2028 Presidential Odds (Democrat)](https://www.actionnetwork.com/news/top-10-democratic-presidential-candidates-2028-odds-democratic-presidential-candidates-predictions-presidential-election-2028)
+
+    *   [Guides](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [Best Prediction Market Apps](https://www.actionnetwork.com/prediction-markets/apps)
+        [Best Prediction Markets for Crypto Trading](https://www.actionnetwork.com/prediction-markets/crypto)
+        [How We Rate Prediction Markets](https://www.actionnetwork.com/prediction-markets/how-we-rate)
+        [Liquidity vs. Accuracy](https://www.actionnetwork.com/education/liquidity-vs-accuracy-prediction-markets-guide-for-traders)
+        [Open Interest vs. Volume](https://www.actionnetwork.com/education/open-interest-vs-volume-prediction-markets-guide-for-traders)
+        [Prediction Markets vs. Sportsbooks for NFL](https://www.actionnetwork.com/nfl/prediction-market-vs-sportsbook)
+        [Prediction Markets Lawsuit Tracker](https://www.actionnetwork.com/education/tracking-prediction-market-lawsuits)
+        [Prediction Markets Regulations](https://www.actionnetwork.com/education/how-are-prediction-markets-regulated-the-cftcs-role-with-kalshi-and-other-operators)
+        [Responsible Trading Guide](https://www.actionnetwork.com/general/responsible-trading-for-prediction-markets-and-event-contracts)
+        [How to Bet on Polymarket](https://www.actionnetwork.com/prediction-markets/polymarket/how-to-bet)
+        [Polymarket Bitcoin 15-Minute Up/Down](https://www.actionnetwork.com/prediction-markets/polymarket/up-down)
+        [Polymarket Combos](https://www.actionnetwork.com/prediction-markets/polymarket/combos)
+        [Polymarket Legal in California?](https://www.actionnetwork.com/prediction-markets/polymarket/california)
+        [Polymarket Legal in Florida?](https://www.actionnetwork.com/prediction-markets/polymarket/florida)
+        [Polymarket Legal in Texas?](https://www.actionnetwork.com/prediction-markets/polymarket/texas)
+        [Polymarket Refer-a-Friend Guide](https://www.actionnetwork.com/prediction-markets/polymarket/refer-a-friend)
+        [Polymarket Squads](https://www.actionnetwork.com/prediction-markets/polymarket/squads)
+        [How Kalshi Works](https://www.actionnetwork.com/prediction-markets/kalshi/how-it-works)
+        [Kalshi Combos](https://www.actionnetwork.com/prediction-markets/kalshi/combos)
+        [Kalshi Incentive Program](https://www.actionnetwork.com/education/kalshis-incentive-programs-a-complete-guide-to-earning-rewards-based-on-liquidity-volume)
+        [Kalshi Legal in California?](https://www.actionnetwork.com/prediction-markets/kalshi/california)
+        [Kalshi Legal in Florida?](https://www.actionnetwork.com/prediction-markets/kalshi/florida)
+        [Kalshi Legal in Texas?](https://www.actionnetwork.com/prediction-markets/kalshi/texas)
+        [Kalshi Refer-a-Friend Guide](https://www.actionnetwork.com/prediction-markets/kalshi/refer-a-friend)
+
+*       *   [Online Sportsbooks & Bonuses](https://www.actionnetwork.com/online-sports-betting/reviews)
+        [Fanatics Sportsbook Promo](https://www.actionnetwork.com/online-sports-betting/reviews/fanatics-sportsbook)
+        [BetMGM Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/betmgm)
+        [bet365 Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/bet365)
+        [DraftKings Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+        [FanDuel Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+        [theScore Bet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/thescore-bet)
+        [betPARX Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/parx)
+        [Hard Rock Bet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/hard-rock-sportsbook)
+        [BetRivers Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/betrivers)
+        [Borgata Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/borgata)
+        [Caesars Sportsbook Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/caesars-sportsbook)
+
+    *   [DFS Apps & Bonuses](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [Dabble Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/dabble)
+        [Bleacher Nation Fantasy Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/bleacher-nation-fantasy)
+        [Betr Picks Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/betr-sportsbook)
+        [DraftKings Pick6 Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings-pick6)
+        [Boom Fantasy Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/boom-fantasy)
+        [Underdog Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/underdog-fantasy)
+        [PrizePicks Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/prizepicks)
+
+    *   [Social Sportsbooks & Bonuses](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [Onyx Odds Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/onyx-odds)
+        [Rebet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/rebet)
+        [Thrillzz Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/thrillzz-social-sportsbook)
+        [PlayBracco Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/bracco)
+
+    *   [U.S. Legal States Tracker](https://www.actionnetwork.com/online-sports-betting)
+        [Arizona Sports Betting](https://www.actionnetwork.com/online-sports-betting/arizona)
+        [Colorado Sports Betting](https://www.actionnetwork.com/online-sports-betting/colorado)
+        [Florida Sports Betting](https://www.actionnetwork.com/online-sports-betting/florida)
+        [Illinois Sports Betting](https://www.actionnetwork.com/online-sports-betting/illinois)
+        [Indiana Sports Betting](https://www.actionnetwork.com/online-sports-betting/indiana)
+        [Louisiana Sports Betting](https://www.actionnetwork.com/online-sports-betting/louisiana)
+        [Maryland Sports Betting](https://www.actionnetwork.com/online-sports-betting/maryland)
+        [Massachusetts Sports Betting](https://www.actionnetwork.com/online-sports-betting/massachusetts)
+        [Michigan Sports Betting](https://www.actionnetwork.com/online-sports-betting/michigan)
+        [New Jersey Sports Betting](https://www.actionnetwork.com/online-sports-betting/new-jersey)
+        [New York Sports Betting](https://www.actionnetwork.com/online-sports-betting/new-york)
+        [North Carolina Sports Betting](https://www.actionnetwork.com/online-sports-betting/north-carolina)
+        [Ohio Sports Betting](https://www.actionnetwork.com/online-sports-betting/ohio)
+        [Pennsylvania Sports Betting](https://www.actionnetwork.com/online-sports-betting/pennsylvania)
+        [Tennessee Sports Betting](https://www.actionnetwork.com/online-sports-betting/tennessee)
+        [Virginia Sports Betting](https://www.actionnetwork.com/online-sports-betting/virginia)
+        [Alabama Sports Betting](https://www.actionnetwork.com/online-sports-betting/alabama)
+        [Alaska Sports Betting](https://www.actionnetwork.com/online-sports-betting/alaska)
+        [California Sports Betting](https://www.actionnetwork.com/online-sports-betting/california)
+        [Georgia Sports Betting](https://www.actionnetwork.com/online-sports-betting/georgia)
+        [Hawaii Sports Betting](https://www.actionnetwork.com/online-sports-betting/hawaii)
+        [Idaho Sports Betting](https://www.actionnetwork.com/online-sports-betting/idaho)
+        [Minnesota Sports Betting](https://www.actionnetwork.com/online-sports-betting/minnesota)
+        [Mississippi Sports Betting](https://www.actionnetwork.com/online-sports-betting/mississippi)
+        [Nebraska Sports Betting](https://www.actionnetwork.com/online-sports-betting/nebraska)
+        [New Mexico Sports Betting](https://www.actionnetwork.com/online-sports-betting/new-mexico)
+        [Oklahoma Sports Betting](https://www.actionnetwork.com/online-sports-betting/oklahoma)
+        [South Carolina Sports Betting](https://www.actionnetwork.com/online-sports-betting/south-carolina)
+        [Texas Sports Betting](https://www.actionnetwork.com/online-sports-betting/texas)
+        [Utah Sports Betting](https://www.actionnetwork.com/online-sports-betting/utah)
+        [Washington Sports Betting](https://www.actionnetwork.com/online-sports-betting/washington)
+        [Wisconsin Sports Betting](https://www.actionnetwork.com/online-sports-betting/wisconsin)
+
+    *   [Card Ripping Apps & Bonuses](https://www.actionnetwork.com/cards)
+        [ClutchPacks Coupon Code](https://www.actionnetwork.com/cards/clutchpacks)
+
+*       *   [Online Casinos](https://www.actionnetwork.com/casino)
+        [Bally Bet](https://www.actionnetwork.com/casino/bally-online-casino)
+        [bet365](https://www.actionnetwork.com/casino/bet365)
+        [Betinia Casino](https://www.actionnetwork.com/casino/betinia-casino)
+        [BetMGM](https://www.actionnetwork.com/casino/betmgm)
+        [betOcean](https://www.actionnetwork.com/casino/ocean-casino)
+        [betPARX](https://www.actionnetwork.com/casino/parx)
+        [BetRivers](https://www.actionnetwork.com/casino/betrivers-casino)
+        [Borgata](https://www.actionnetwork.com/casino/borgata-casino)
+        [DraftKings](https://www.actionnetwork.com/casino/draftkings)
+        [Fanatics](https://www.actionnetwork.com/casino/fanatics-casino)
+        [FanDuel](https://www.actionnetwork.com/casino/fanduel)
+        [Golden Nugget](https://www.actionnetwork.com/casino/golden-nugget)
+        [Hard Rock Bet](https://www.actionnetwork.com/casino/hard-rock-casino)
+        [Hollywood](https://www.actionnetwork.com/casino/hollywood)
+        [PartyCasino](https://www.actionnetwork.com/casino/partycasino)
+        [Play Gun Lake](https://www.actionnetwork.com/casino/gun-lake-casino)
+        [PlayStar NJ](https://www.actionnetwork.com/casino/playstar)
+        [Wheel of Fortune](https://www.actionnetwork.com/casino/wheel-of-fortune)
+
+    *   [Sweepstakes Casinos](https://www.actionnetwork.com/sweepstakes-casinos)
+        [BankRolla](https://www.actionnetwork.com/sweepstakes-casinos/bankrolla)
+        [Chanced](https://www.actionnetwork.com/sweepstakes-casinos/chanced)
+        [Coinsback](https://www.actionnetwork.com/sweepstakes-casinos/coinsback)
+        [Crown Coins](https://www.actionnetwork.com/sweepstakes-casinos/crown-coins)
+        [Funrize](https://www.actionnetwork.com/sweepstakes-casinos/funrize)
+        [FunzCity](https://www.actionnetwork.com/sweepstakes-casinos/funzcity)
+        [Go Go Gold](https://www.actionnetwork.com/sweepstakes-casinos/go-go-gold)
+        [Hello Millions](https://www.actionnetwork.com/sweepstakes-casinos/hello-millions)
+        [Jackpota](https://www.actionnetwork.com/sweepstakes-casinos/jackpota)
+        [Lucky Bunny](https://www.actionnetwork.com/sweepstakes-casinos/luckybunny)
+        [McLuck](https://www.actionnetwork.com/sweepstakes-casinos/mcluck)
+        [Mega Bonanza](https://www.actionnetwork.com/sweepstakes-casinos/mega-bonanza)
+        [NoLimitCoins](https://www.actionnetwork.com/sweepstakes-casinos/nolimitcoins)
+        [PlayBracco](https://www.actionnetwork.com/sweepstakes-casinos/playbracco)
+        [Playtana](https://www.actionnetwork.com/sweepstakes-casinos/playtana)
+        [Pulsz](https://www.actionnetwork.com/sweepstakes-casinos/pulsz)
+        [Rebet Casino](https://www.actionnetwork.com/sweepstakes-casinos/rebet)
+        [Rich Sweeps](https://www.actionnetwork.com/sweepstakes-casinos/rich-sweeps)
+        [Shuffle.us](https://www.actionnetwork.com/sweepstakes-casinos/shuffle-us)
+        [Sixty6](https://www.actionnetwork.com/sweepstakes-casinos/sixty6)
+        [SpinBlitz](https://www.actionnetwork.com/sweepstakes-casinos/spinblitz)
+        [Spree](https://www.actionnetwork.com/sweepstakes-casinos/spree)
+        [Stake.us](https://www.actionnetwork.com/sweepstakes-casinos/stake-us)
+        [The Boss](https://www.actionnetwork.com/sweepstakes-casinos/the-boss-casino)
+        [WOW Vegas](https://www.actionnetwork.com/sweepstakes-casinos/wow-vegas)
+
+    *   [Social Casinos](https://www.actionnetwork.com/social-casinos)
+        [New Social Casinos](https://www.actionnetwork.com/social-casinos/new)
+        [Social Casino Apps](https://www.actionnetwork.com/social-casinos/apps)
+        [Social Casino Bonuses](https://www.actionnetwork.com/social-casinos/bonus)
+        [Social Casino Games](https://www.actionnetwork.com/social-casinos/games)
+        [Social Casino Payment Methods](https://www.actionnetwork.com/social-casinos/payments)
+        [Safety at Social Casinos](https://www.actionnetwork.com/social-casinos/safety)
+        [Signing Up at Social Casinos](https://www.actionnetwork.com/social-casinos/sign-up)
+
+    *   [More Casino Resources](https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16)
+        [Are Online Casinos Rigged or Legit?](https://www.actionnetwork.com/casino/are-online-casinos-rigged-or-legit)
+        [How We Rate Online Casinos (ActionTrust Score)](https://www.actionnetwork.com/casino/how-we-rate)
+        [Untrustworthy Casinos](https://www.actionnetwork.com/casino/untrustworthy-casinos)
+        [3-Card Poker](https://www.actionnetwork.com/casino/3-card-poker)
+        [Baccarat](https://www.actionnetwork.com/casino/baccarat)
+        [Blackjack](https://www.actionnetwork.com/casino/blackjack)
+        [Craps](https://www.actionnetwork.com/casino/craps)
+        [Keno](https://www.actionnetwork.com/casino/keno)
+        [Online Slots](https://www.actionnetwork.com/casino/online-slots)
+        [Pai Gow Poker](https://www.actionnetwork.com/casino/pai-gow-poker)
+        [Roulette](https://www.actionnetwork.com/casino/roulette)
+        [Video Poker](https://www.actionnetwork.com/casino/video-poker)
+        [Canada Online Casinos](https://www.actionnetwork.com/ca/casino)
+        [Stake Casino India](https://www.actionnetwork.com/sweepstakes-casinos/stake-casino-india)
+        [Connecticut](https://www.actionnetwork.com/casino/connecticut)
+        [Delaware](https://www.actionnetwork.com/casino/delaware)
+        [Maine](https://www.actionnetwork.com/casino/maine)
+        [Michigan](https://www.actionnetwork.com/casino/michigan)
+        [New Jersey](https://www.actionnetwork.com/casino/new-jersey)
+        [Pennsylvania](https://www.actionnetwork.com/casino/pennsylvania)
+        [Rhode Island](https://www.actionnetwork.com/casino/rhode-island)
+        [West Virginia](https://www.actionnetwork.com/casino/west-virginia)
+        [Maryland](https://www.actionnetwork.com/casino/maryland)
+        [New York](https://www.actionnetwork.com/casino/new-york)
+        [Virginia](https://www.actionnetwork.com/casino/virginia)
+        [Apple Pay Casinos](https://www.actionnetwork.com/casino/payment-methods/apple-pay)
+        [Bitcoin Casinos](https://www.actionnetwork.com/casino/payment-methods/bitcoin)
+        [Instant Withdrawal Casinos](https://www.actionnetwork.com/casino/instant-withdrawal)
+        [PayPal Casinos](https://www.actionnetwork.com/casino/payment-methods/paypal)
+        [Prepaid Card Casinos](https://www.actionnetwork.com/casino/payment-methods/prepaid-cards)
+
+*       *   [All Betting Calculators](https://www.actionnetwork.com/betting-calculators)
+    *   [Odds Calculator](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator)
+    *   [Parlay Calculator](https://www.actionnetwork.com/betting-calculators/parlay-calculator)
+    *   [Hedge Calculator](https://www.actionnetwork.com/betting-calculators/betting-hedging-calculator)
+
+    *   [How To Bet](https://www.actionnetwork.com/education/how-to-bet-on-sports-the-first-12-things-beginners-need-to-know)
+    *   [Glossary](https://www.actionnetwork.com/education/sports-betting-terms-glossary)
+    *   [How to Read American Odds](https://www.actionnetwork.com/education/american-odds)
+    *   [Difference Between Sportsbook Bonus Types](https://www.actionnetwork.com/education/what-does-each-sportsbook-bonus-mean)
+    *   [Responsible Gambling Resources & Tools](https://www.actionnetwork.com/general/responsible-gambling)
+    *   [Importance of Using Multiple Sportsbooks](https://www.actionnetwork.com/education/five-reasons-why-you-need-to-bet-at-multiple-sportsbooks)
+    *   [Sports Betting Mistakes to Avoid](https://www.actionnetwork.com/education/9-common-sports-betting-mistakes-to-avoid)
+
+    *   [Podcasts](https://www.actionnetwork.com/podcasts)
+    *   [Action Labs](https://labs.actionnetwork.com/home/?utm_source=anweb&utm_medium=menu&utm_campaign=an_bestbet_promo&utm=term=nfl&utm_content=Best%20Bets)
+    *   [FantasyLabs](https://www.fantasylabs.com/)
+    *   [Action App](https://www.actionnetwork.com/app)
+    *   [Action PRO](https://www.actionnetwork.com/upgrade)
+
+[Get App](https://action.onelink.me/qhpb/a141f9c4)Get App
+
+[Save Big on PRO!](https://www.actionnetwork.com/upgrade?intcmp=ArticleNavBarLoggedOut&intcid=604621292&etf=default)Sign In
+
+[NCAAB Home](https://www.actionnetwork.com/ncaab)
+
+Odds
+
+Tools
+
+PRO
+
+Picks
+
+[Teams](https://www.actionnetwork.com/ncaab/teams)
+
+[ATS Standings](https://www.actionnetwork.com/ncaab/against-the-spread-standings)
+
+[Injuries](https://www.actionnetwork.com/ncaab/injury-report)
+
+Table of Contents
+
+[Home](https://www.actionnetwork.com/)[NCAAB](https://www.actionnetwork.com/ncaab)
+
+# College Basketball Spreads: Picks for Monday, November 16
+
+![Image 1: Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+
+[Charles White](https://www.actionnetwork.com/article/author/cwhite)
+
+Editor
+
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+
+Updated:
+
+Nov 16, 2026, 03:31 PM EST
+
+Updated:
+
+Nov 16, 2026, 03:31 PM EST
+
+![Image 2: College Basketball Spreads: Picks for Monday, November 16 article feature image](https://images.actionnetwork.com/blog/2026/11/LIU-11-16-26.jpg)
+
+1 min read
+
+PRO
+
+Credit:
+Kirby Lee-Imagn Images; Pictured: LIU Sharks guard Tre’shawn Sheppard (4) shoots against Arizona Wildcats guard Dwayne Aristode (2)
+
+_If you want more Action Network content, be sure to [add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+
+With dozens of NCAA Men's Basketball games on tap today, Action PRO is here to let you know what's what.
+
+Action Network's PRO Game Projections compare our own model predictions to current betting lines across spreads, totals, and moneylines to find the best edges available. For Monday, PRO Report has isolated a couple of solid spread picks.
+
+Here are the games we're looking at today…
+
+*   [St. Thomas](https://www.actionnetwork.com/ncaab/odds/st-thomas-tommies) vs [Long Island](https://www.actionnetwork.com/ncaab/odds/long-island-university-sharks)
+*   [Iona](https://www.actionnetwork.com/ncaab/odds/iona-gaels) vs [UMBC](https://www.actionnetwork.com/ncaab/odds/umbc-retrievers)
+
+With a new week and new matchups here for the taking, let's get into Action PRO's NCAAB analysis for Monday.
+
+[_**Make sure to download the Action Network app for more picks and analysis!**_](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads)
+
+## College Basketball Spreads: Picks for Monday, November 16
+
+### St. Thomas vs Long Island: Top Pick of the Day
+
+We've got a 7 p.m. ET showdown between the St. Thomas Tommies and the Long Island University Sharks.
+
+The Tommies are 2-3, coming off a thrilling 79–77 loss to Army—a game that the Tommies controlled until the final 1:30. The Sharks, meanwhile, are 0-5 and dropped their last game 80-58 to Fordham.
+
+St. Thomas is a 1.5-point favorite on the spread with the over/under set at 146.5 points. Here's what Action PRO has uncovered:
+
+![Image 3: Paywall CTA Image](https://assets.actionnetwork.com/160549_Light.png)
+### Unlock Article With Action PRO
+
+[Get PRO Now](https://www.actionnetwork.com/upgrade?tan_deeplink=actionnetwork://proOnboarding&product=prod_SU9qgP97ZJJM6K&redirectUrl=https://www.actionnetwork.com/ncaab/college-basketball-spreads-picks-for-monday-november-16&intcmp=ArticlePaywall&intcid=604621292)
+
+![Image 4: Paywall Image](https://assets.actionnetwork.com/325073_415x258.png)
+
+### On This Page
+
+College Basketball Spreads: Picks for Monday, November 16
+
+St. Thomas vs Long Island: Top Pick of the Day
+
+### Top Stories
+
+[![Image 5: College Basketball Best Bets: 4 NCAAB Picks for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/Travis-D.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-monday-november-16)
+
+NCAAB
+
+[College Basketball Best Bets: 4 NCAAB Picks for Monday, November 16](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-monday-november-16)
+
+Greg Waddell
+
+9 hours ago
+
+[![Image 6: Iona vs UMBC Prediction, Pick, College Basketball Odds for Monday, Nov. 16](https://images.actionnetwork.com/blog/2026/11/Iona-UMBC-NCAAB-11_16.jpg)](https://www.actionnetwork.com/ncaab/iona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16)
+
+NCAAB
+
+[Iona vs UMBC Prediction, Pick, College Basketball Odds for Monday, Nov. 16](https://www.actionnetwork.com/ncaab/iona-gaels-vs-umbc-retrievers-prediction-pick-odds-college-basketball-monday-november-16)
+
+Sean Paul
+
+11 hours ago
+
+[![Image 7: Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://images.actionnetwork.com/blog/2026/11/LBSU-UCLA-NCAAB-11_16.jpg)](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
+
+NCAAB
+
+[Long Beach State vs UCLA Prediction, Pick, College Basketball Odds for Monday, November 16](https://www.actionnetwork.com/ncaab/long-beach-state-49ers-vs-ucla-bruins-prediction-pick-odds-college-basketball-monday-november-16)
+
+Ryan Minion
+
+7 hours ago
+
+[![Image 8: College Basketball Totals: 10 Pace Shifts to Exploit](https://images.actionnetwork.com/blog/2026/10/CC.png)](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+
+NCAAB
+
+[College Basketball Totals: 10 Pace Shifts to Exploit](https://www.actionnetwork.com/ncaab/college-basketball-totals-10-pace-shifts-to-exploit)
+
+Joshua Nunn
+
+Oct 28, 2026 UTC
+
+[![Image 9: College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://images.actionnetwork.com/blog/2026/10/Robert-Hinton.png)](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+
+NCAAB
+
+[College Basketball Betting: 5 Mid-Major Teams to Back or Fade in 2026-27](https://www.actionnetwork.com/ncaab/college-basketball-betting-5-mid-major-teams-2026-27)
+
+Sean Paul
+
+Oct 27, 2026 UTC
+
+[![Image 10: Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://images.actionnetwork.com/blog/2026/11/Syracuse-StJohns-NCAAB-11_15.jpg)](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
+
+NCAAB
+
+[Syracuse vs St. John’s Prediction, How to Watch, Picks: NCAAB Odds for 11/15](https://www.actionnetwork.com/ncaab/syracuse-orange-vs-st-johns-red-storm-prediction-pick-odds-college-basketball-sunday-november-15)
+
+Sean Paul
+
+Nov 15, 2026 UTC
+
+### Free Guide: 10 Tips to Hit Bigger Same Game Parlays More Often
+
+10 real, data-backed strategies for SGP bettors. Just enter your email and we'll send it.
+
+First Name
+
+ 
+
+Last Name
+
+ 
+
+Email
+
+ 
+
+Submit
+
+### Follow Us On Social
+
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+
+### [Sports Betting Odds](https://www.actionnetwork.com/odds)
+*   [NFL Odds & Betting Lines](https://www.actionnetwork.com/nfl/odds)
+*   [NBA Odds & Betting Lines](https://www.actionnetwork.com/nba/odds)
+*   [College Football Odds & Betting Lines](https://www.actionnetwork.com/ncaaf/odds)
+*   [Men's College Basketball Odds & Betting Lines](https://www.actionnetwork.com/ncaab/odds)
+*   [Women's College Basketball Odds & Betting Lines](https://www.actionnetwork.com/ncaaw/odds)
+*   [MLB Odds & Betting Lines](https://www.actionnetwork.com/mlb/odds)
+*   [NHL Odds & Betting Lines](https://www.actionnetwork.com/nhl/odds)
+
+### Expert Picks
+
+*   [NFL Picks & Analysis](https://www.actionnetwork.com/nfl/picks)
+*   [NBA Picks & Analysis](https://www.actionnetwork.com/nba/picks)
+*   [College Football Picks & Analysis](https://www.actionnetwork.com/ncaaf/picks)
+*   [College Basketball Picks & Analysis](https://www.actionnetwork.com/ncaab/picks)
+*   [MLB Picks & Analysis](https://www.actionnetwork.com/mlb/picks)
+*   [NHL Picks & Analysis](https://www.actionnetwork.com/nhl/picks)
+
+### [Online Sports Betting News & Offers](https://www.actionnetwork.com/online-sports-betting)
+*   [Legalization Tracker](https://www.actionnetwork.com/news/legal-sports-betting-united-states-projections)
+*   [New York](https://www.actionnetwork.com/online-sports-betting/new-york)
+*   [Louisiana](https://www.actionnetwork.com/online-sports-betting/louisiana)
+*   [Maryland](https://www.actionnetwork.com/online-sports-betting/maryland)
+*   [Arizona](https://www.actionnetwork.com/online-sports-betting/arizona)
+*   [Colorado](https://www.actionnetwork.com/online-sports-betting/colorado)
+*   [New Jersey](https://www.actionnetwork.com/online-sports-betting/new-jersey)
+*   [Pennsylvania](https://www.actionnetwork.com/online-sports-betting/pennsylvania)
+*   [Illinois](https://www.actionnetwork.com/online-sports-betting/illinois)
+*   [Michigan](https://www.actionnetwork.com/online-sports-betting/michigan)
+*   [Ohio](https://www.actionnetwork.com/online-sports-betting/ohio)
+*   [Massachusetts](https://www.actionnetwork.com/online-sports-betting/massachusetts)
+*   [Kansas](https://www.actionnetwork.com/online-sports-betting/kansas)
+*   [North Carolina](https://www.actionnetwork.com/online-sports-betting/north-carolina)
+*   [Missouri](https://www.actionnetwork.com/online-sports-betting/missouri)
+*   [Canada](https://www.actionnetwork.com/online-sports-betting/canada)
+
+### Best U.S. Sportsbook & Prediction Market Promos
+
+*   [Fanatics Sportsbook Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/fanatics-sportsbook)
+*   [BetMGM Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/betmgm)
+*   [bet365 Bonus Code](https://www.actionnetwork.com/online-sports-betting/reviews/bet365)
+*   [Polymarket Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/polymarket)
+*   [FanDuel Predicts Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/fanduel-predicts)
+*   [Kalshi Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/kalshi)
+*   [Novig Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/novig)
+*   [DraftKings Predictions Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/draftkings-predictions)
+*   [ProphetX Promo Code](https://www.actionnetwork.com/prediction-markets/promo-codes/prophetx)
+*   [DraftKings Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+*   [FanDuel Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+*   [theScore Bet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/thescore-bet)
+*   [betPARX Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/parx)
+*   [Hard Rock Bet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/hard-rock-sportsbook)
+*   [BetRivers Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/betrivers)
+*   [DraftKings Pick6 Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings-pick6)
+*   [Dabble Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/dabble)
+*   [Bleacher Nation Fantasy Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/bleacher-nation-fantasy)
+*   [Betr Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/betr-sportsbook)
+*   [Rebet Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/rebet)
+*   [PlayBracco Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/bracco)
+*   [Thrillzz Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/thrillzz-social-sportsbook)
+*   [PrizePicks Promo Code](https://www.actionnetwork.com/online-sports-betting/reviews/prizepicks)
+
+### The Action Network
+
+*   [About](https://www.actionnetwork.com/about)
+*   [Our Authors](https://www.actionnetwork.com/article/author)
+*   [Editorial Policy](https://www.actionnetwork.com/editorial-policy)
+*   [Careers](https://bettercollective.recruitee.com/northamerica)
+*   [Action Store](https://store.actionnetwork.com/)
+*   [Press](https://www.actionnetwork.com/press)
+*   [Support](https://actionnetworkhq.zendesk.com/hc/en-us)
+*   [Podcasts](https://linktr.ee/actionpodcasts)
+*   [Newsletter](https://www.actionnetwork.com/sub)
+*   [Contact Us](https://actionnetworkhq.zendesk.com/hc/en-us/requests/new)
+*   Your Privacy Choices 
+
+### Social
+
+*   [Follow on Twitter](https://twitter.com/ActionNetworkHQ)
+*   [Like on Facebook](https://facebook.com/ActionNetworkHQ)
+*   [Follow on Instagram](https://instagram.com/ActionNetworkHQ)
+*   [Subscribe on YouTube](https://www.youtube.com/TheActionNetwork)
+*   [Follow on Twitch](https://www.twitch.tv/actionnetworkhq)
+*   [Follow on Discord](https://discord.com/invite/actionnetwork)
+
+### Mobile Apps
+
+[](https://itunes.apple.com/app/apple-store/id1083677479?pt=118035255&ct=slashapp&mt=8)
+
+[](https://play.google.com/store/apps/details?id=com.sportsaction.action&utm_source=AN.com&utm_campaign=slashapp)
+
+Action Network is a part of the digital sports media group Better Collective  
+Better Collective owns and operates a group of leading digital sports media brands across the world  
+Better Collective is dual listed on Nasdaq Stockholm and Nasdaq Copenhagen
+
+Copyright 2026 © Action Network Inc, All Rights Reserved.[Privacy Policy](https://www.actionnetwork.com/privacy) | [Terms of Service](https://www.actionnetwork.com/terms) | [AdChoices](https://www.actionnetwork.com/privacy#adchoices) | [Responsible Gambling](https://www.actionnetwork.com/general/responsible-gambling)
+
+DISCLAIMER: This site is 100% for entertainment purposes only and does not involve real money betting.
+
+This site contains commercial content.[Disclosure](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure).
+
+Gambling Problem? Call [1-800-MY-RESET or 1-800-GAMBLER](https://www.ncpgambling.org/).
+
+[![Image 11](https://assets.bet-links.com/423159_logo-ncpg.png)](https://www.ncpgambling.org/)
+
+![Image 12](https://assets.bet-links.com/75737_twentyOnePlug.png)
+
+Gambling Problem? [Call 1-800-Gambler](https://www.ncpgambling.org/).
+
+[![Image 13: State Gambling Disclosure Logo](https://assets.actionnetwork.com/750619_general-responsible-gambling-logo.png)](https://www.ncpgambling.org/)![Image 14: Age Requirement Logo](https://assets.actionnetwork.com/257013_age-requirement-logo.png)
+
+![Image 15: Company Logo](https://cdn.cookielaw.org/logos/d677b408-9f50-4910-8d46-b4b404bfcbe8/0196fd06-d46d-73f0-bbfb-e4016a4b06d7/9630fc9b-f791-4e1c-a071-5c94d5484dc9/252389_action-logo-check.png)
+
+Opt-Out Request Honored
+
+Consent Management Platform - Your Privacy Choices
+
+When you visit our website, we store trackers on your browser to collect information. The information collected might relate to you, your preferences, or your device, and is used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of tracking technologies, which may impact your experience of the site and the services we are able to offer. Under US privacy laws, consumers have the right to opt-out of the processing of personal information for “targeted advertising” and activities that are classified as “sale” and/or “sharing,” which may include data collection by cookies categorized below as “targeting". To submit an opt-out request for "targeting" cookies, toggle that category below and click “Confirm My Choices,” which will have the effect of opting you out of “sale,” “sharing,” and “targeted advertising” on the browser or app you are currently using. Please note that this tool only has the capability of applying your opt-out to cookies. If you would like to submit an opt-out request with respect to your non-cookie personal information (e.g., your email address), visit our webform to opt-out of sale/sharing/targeting with respect to non-cookie personal information [here.](https://usoptout.bettercollective.com/)
+
+Allow All
+Manage Consent Preferences
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Cookies Details
+
+Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookies Details
+
+Performance Cookies
+
+- [x] Performance Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Cookies Details
+
+Functional Cookies
+
+- [x] Functional Cookies 
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Cookies Details
+
+Cookie List
+
+Clear
+*   - [x] checkbox label label 
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Reject All Confirm My Choices
+
+[![Image 16: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)
+
+![Image 17](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=56521149-c154-48d9-8c92-f5e34214c098&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c0e54dd2-1ba7-47e4-b1ef-feb9e15a9aaa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-spreads-picks-for-monday-november-16&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-spreads-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794866518654-813301241&tw_session_start=1&twpid=tw.1794866518654.509855376527097569&txn_id=o403j&type=javascript&version=2.4.12)![Image 18](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=56521149-c154-48d9-8c92-f5e34214c098&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c0e54dd2-1ba7-47e4-b1ef-feb9e15a9aaa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.38%2CChromium%2F157.0.8103.38&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-spreads-picks-for-monday-november-16&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-spreads-picks-for-monday-november-16&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794866518654-813301241&tw_session_start=1&twpid=tw.1794866518654.509855376527097569&txn_id=o403j&type=javascript&version=2.4.12)![Image 19](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
 
