@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-player-props-today-monday-nov-16 | fetched: 2026-11-16 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-player-props-today-monday-nov-16 | fetched: 2026-11-16 18:34 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Player Props Today: NBA Prop Bets for Monday, Nov. 16
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![Best NBA Player Props Today: NBA Prop Bets for Monday, Nov. 16](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F45ff3400267caec8b243835e24aea3d384b0431b-6692x4461.jpg%3Frect%3D4%2C0%2C4711%2C2331%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ Bulls at Cavaliers — 7:00 p.m. ET
 Donovan Mitchell - Made Threes
 Donovan Mitchell Over
 O 2.5
--128
+-125
 Nov 17 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-@-cleveland-cavaliers-36319064)
 Odds/lines subject to change
 The [Cleveland Cavaliers](https://sportsbook.fanduel.com/teams/nba/cleveland-cavaliers/odds) should have ample scoring opportunities against a [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/chicago-bulls/odds) defense that entered Monday allowing 121.6 points per 100 possessions. 
@@ -56,7 +56,7 @@ Trail Blazers at Timberwolves — 8:00 p.m. ET
 Deni Avdija - Assists
 Deni Avdija Over
 O 5.5
--140
+-136
 Nov 17 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-minnesota-timberwolves-36319066)
 Odds/lines subject to change
 The [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds) continue to use [Deni Avdija](https://sportsbook.fanduel.com/teams/nba/roster/deni-avdija-2873) as a major offensive initiator, and his passing role gives him a compelling path to six assists against the [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds). 
@@ -103,12 +103,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Monday, Nov. 16](https://www.fanduel.com/research/nba-player-props-today-monday-nov-16)
-1h
+2h
 NBA player props to target on Monday. What are the best NBA prop bets for today?
 [](https://www.fanduel.com/research/nba-player-props-today-monday-nov-16)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions Today: 3 NBA Picks and Best Bets for Tonight (Nov. 16)](https://www.fanduel.com/research/nba-predictions-today-picks-best-bets-tonight-nov-16)
-1h
+2h
 NBA best bets and picks for today's Monday slate.
 [](https://www.fanduel.com/research/nba-predictions-today-picks-best-bets-tonight-nov-16)
 [NBA](https://www.fanduel.com/research/nba)

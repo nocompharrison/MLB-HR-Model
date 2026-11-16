@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-16 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-16 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,48 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)[Sliding back to bench Monday](https://www.rotowire.com/basketball/headlines/mario-hezonja-news-sliding-back-to-bench-monday-539467)
+**F** Cleveland Cavaliers
+November 16, 2026
+Hezonja is not listed in the starting lineup for Monday's game against Chicago, [Serena Winters of FanDuel Sports Network Ohio](https://x.com/SerenaWinters/status/2122469435738833148?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Thomas Bryant](https://www.rotowire.com/basketball/player/thomas-bryant-4155)[Back to bench Monday](https://www.rotowire.com/basketball/headlines/thomas-bryant-news-back-to-bench-monday-539466)
+**C** Cleveland Cavaliers
+November 16, 2026
+Bryant is not in the starting lineup for Monday's game against the Bulls, [Serena Winters of FanDuel Sports Network Ohio](https://x.com/SerenaWinters/status/2122469435738833148?a=iurmsX8qcjildwcZt4I&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)[Rotating to bench](https://www.rotowire.com/basketball/headlines/meleek-thomas-news-rotating-to-bench-539465)
+**G** Cleveland Cavaliers
+November 16, 2026
+Thomas will come off the bench Monday against the Bulls, [Serena Winters of FanDuel Sports Network Ohio](https://x.com/SerenaWinters/status/2122469435738833148?a=-eitrr1mwSYarfWdyJY&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)[Available Monday](https://www.rotowire.com/basketball/headlines/quinten-post-news-available-monday-539464)
+**C** Memphis Grizzlies
+November 16, 2026
+Post (concussion) is [available](https://x.com/GrizzliesPR/status/2122467032146808956?a=IiQR_mObYM0qWIyhbKA&s=20) for Monday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)[Returning Monday](https://www.rotowire.com/basketball/headlines/zach-edey-news-returning-monday-539463)
+**C** Memphis Grizzlies
+November 16, 2026
+Edey (ankle) is [available](https://x.com/GrizzliesPR/status/2122467032146808956?s=20) for Monday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
+[Killian Hayes](https://www.rotowire.com/basketball/player/killian-hayes-5121)[Signs with FC Barcelona](https://www.rotowire.com/basketball/headlines/killian-hayes-news-signs-with-fc-barcelona-539462)
+**G** Free Agent
+November 16, 2026
+Hayes agreed to a contract with FC Barcelona on Monday, [Michael Scotto of HoopsHype.com](https://x.com/MikeAScotto/status/2122461890613813482?a=0izz7BJ2kSyqdKhF7q0&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
 [Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[Won't play Tuesday](https://www.rotowire.com/basketball/headlines/taurean-prince-injury-wont-play-tuesday-539461)
 **F** Detroit Pistons
@@ -157,54 +199,6 @@ VanVleet (knee) is off the [injury report](https://ak-static.cms.nba.com/referee
 Hip
 November 16, 2026
 Vukcevic (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Amen Thompson](https://www.rotowire.com/basketball/player/amen-thompson-5931)[Questionable to play Monday](https://www.rotowire.com/basketball/headlines/amen-thompson-injury-questionable-to-play-monday-539431)
-**G** Houston Rockets
-Knee
-November 16, 2026
-Thompson (knee) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)[May rest Monday](https://www.rotowire.com/basketball/headlines/neemias-queta-injury-may-rest-monday-539430)
-**C** Boston Celtics
-Rest
-November 16, 2026
-Queta (rest) is [questionable](https://x.com/celtics/status/2122389613633495106?a=78i5coF5fMvriumKDAM&s=20) for Monday's game against the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Ruled out Monday](https://www.rotowire.com/basketball/headlines/clint-capela-injury-ruled-out-monday-539429)
-**C** Houston Rockets
-Ankle
-November 16, 2026
-Capela (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)[Questionable Monday](https://www.rotowire.com/basketball/headlines/joel-embiid-injury-questionable-monday-539427)
-**C** Philadelphia 76ers
-Foot
-November 16, 2026
-Embiid (foot) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against the Nets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Steven Adams](https://www.rotowire.com/basketball/player/steven-adams-3445)[Sitting out Monday](https://www.rotowire.com/basketball/headlines/steven-adams-injury-sitting-out-monday-539426)
-**C** Houston Rockets
-Calf
-November 16, 2026
-Adams (calf) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[LeBron James](https://www.rotowire.com/basketball/player/lebron-james-2344)[Won't play Monday](https://www.rotowire.com/basketball/headlines/lebron-james-injury-wont-play-monday-539425)
-**F** Philadelphia 76ers
-Back
-November 16, 2026
-James (back) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against the Nets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
