@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-16 18:34 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-16 18:49 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Isaiah Joe](https://images.fantasypros.com/images/players/nba/5210/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-joe.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/isaiah-joe.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/isaiah-joe.php)  
+[» More News](https://www.fantasypros.com/nba/news/isaiah-joe.php)
+[Isaiah Joe (hip) listed doubtful Tuesday ](https://www.fantasypros.com/nba/news/620617/isaiah-joe-hip-listed-doubtful-tuesday.php)  
+
+Mon, Nov 16th 6:36pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Isaiah Joe is listed as doubtful for Tuesday’s game against the Spurs.
+**_Fantasy Impact:_** Joe is likely to remain sidelined for the Pistons. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Duncan Robinson](https://images.fantasypros.com/images/players/nba/3564/headshot/100x100.png)](https://www.fantasypros.com/nba/players/duncan-robinson.php)
+F - DET
+[» Rankings](https://www.fantasypros.com/nba/players/duncan-robinson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/duncan-robinson.php)  
+[» More News](https://www.fantasypros.com/nba/news/duncan-robinson.php)
+[Duncan Robinson (quad) ruled out Tuesday ](https://www.fantasypros.com/nba/news/620616/duncan-robinson-quad-ruled-out-tuesday.php)  
+
+Mon, Nov 16th 6:35pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Duncan Robinson has been ruled out for Tuesday’s game against the Spurs.
+**_Fantasy Impact:_** Robinson left Saturday’s game against the Heat. He remains day-to-day. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
 G - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
@@ -259,39 +287,11 @@ Joel Embiid is listed as questionable for Monday's game against the Nets.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Amen Thompson](https://images.fantasypros.com/images/players/nba/5980/headshot/100x100.png)](https://www.fantasypros.com/nba/players/amen-thompson.php)
-G - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/amen-thompson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/amen-thompson.php)  
-[» More News](https://www.fantasypros.com/nba/news/amen-thompson.php)
-[Amen Thompson (knee) listed questionable Monday ](https://www.fantasypros.com/nba/news/620571/amen-thompson-knee-listed-questionable-monday.php)  
-
-Mon, Nov 16th 2:01pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Amen Thompson is listed as questionable for Monday's game against the Heat. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_12_45PM.pdf))
-**_Fantasy Impact:_** Thompson scored 26 points in 29 minutes in Sunday's win over the Wizards. His status is uncertain for the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Steven Adams](https://images.fantasypros.com/images/players/nba/2812/headshot/100x100.png)](https://www.fantasypros.com/nba/players/steven-adams.php)
-C - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/steven-adams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/steven-adams.php)  
-[» More News](https://www.fantasypros.com/nba/news/steven-adams.php)
-[Steven Adams (calf) ruled out Monday ](https://www.fantasypros.com/nba/news/620570/steven-adams-calf-ruled-out-monday.php)  
-
-Mon, Nov 16th 2:00pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Steven Adams has been ruled out for Monday's game against the Heat. 
-**_Fantasy Impact:_** Adams started Sunday's win over the Wizards. He will sit the second game of the back-to-back. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/nba/player-news.php)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)

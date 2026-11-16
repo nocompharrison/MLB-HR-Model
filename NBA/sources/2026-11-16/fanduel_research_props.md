@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-player-props-today-monday-nov-16 | fetched: 2026-11-16 18:34 ET -->
+<!-- source: https://www.fanduel.com/research/nba-player-props-today-monday-nov-16 | fetched: 2026-11-16 18:49 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -31,7 +31,7 @@ Bulls at Cavaliers — 7:00 p.m. ET
 Donovan Mitchell - Made Threes
 Donovan Mitchell Over
 O 2.5
--125
+-128
 Nov 17 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/chicago-bulls-@-cleveland-cavaliers-36319064)
 Odds/lines subject to change
 The [Cleveland Cavaliers](https://sportsbook.fanduel.com/teams/nba/cleveland-cavaliers/odds) should have ample scoring opportunities against a [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/chicago-bulls/odds) defense that entered Monday allowing 121.6 points per 100 possessions. 
@@ -43,7 +43,7 @@ Rockets at Heat — 7:30 p.m. ET
 Alperen Sengun - Rebounds
 Alperen Sengun Over
 O 9.5
--113
+-130
 Nov 17 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-miami-heat-36319065)
 Odds/lines subject to change
 The [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/houston-rockets/odds) have leaned heavily on [Alperen Sengun](https://sportsbook.fanduel.com/teams/nba/roster/alperen-engn-2977) to control the glass, and his recent workload supports an upside case against the [Miami Heat](https://sportsbook.fanduel.com/teams/nba/miami-heat/odds). 
@@ -118,7 +118,7 @@ NBA DFS picks and best plays for Monday's FanDuel main slate.
 [](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-monday-nov-16)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Monday, Nov. 16](https://www.fanduel.com/research/nba-props-today-player-prop-bets-monday-nov-16)
-8h
+9h
 What are the best NBA player props to target today?
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-monday-nov-16)
 

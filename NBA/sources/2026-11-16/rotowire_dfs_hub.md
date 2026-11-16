@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-16 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-16 18:49 ET -->
 
 # NBA DFS Picks Today
 November 16, 2026
@@ -24,6 +24,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Monday, November 16 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (16) All NBA news Boston Celtics (ORL @ BOS) Brooklyn Nets (PHI @ BKN) Chicago Bulls (CHI @ CLE) Cleveland Cavaliers (CHI @ CLE) Denver Nuggets (PHX @ DEN) Golden State Warriors (GSW @ NOP) Houston Rockets (HOU @ MIA) Memphis Grizzlies (MEM @ WSH) Miami Heat (HOU @ MIA) Minnesota Timberwolves (POR @ MIN) New Orleans Pelicans (GSW @ NOP) Orlando Magic (ORL @ BOS) Philadelphia 76ers (PHI @ BKN) Phoenix Suns (PHX @ DEN) Portland Trail Blazers (POR @ MIN) Washington Wizards (MEM @ WSH)
+Boston CelticsORL @ BOS - 7:00 PM ET
+**[Luka Garza](https://www.rotowire.com/basketball/player/luka-garza-5423)** _C_ _Top_ 6:41 PM ET
+#### Starting against Orlando
+Garza is listed in the starting lineup for Monday's game against the Magic.
+Analysis
+Garza will earn his second start of the season Monday with Neemias Queta (rest) taking the night off. Garza is averaging 6.1 points, 3.2 rebounds, 1.5 assists and 1.1 three-pointers in 12.5 minutes across 13 appearances in 2026-27.
+Chicago BullsCHI @ CLE - 7:00 PM ET
+**[Zach Collins](https://www.rotowire.com/basketball/player/zach-collins-4162)** _C_ 6:40 PM ET
+#### Moving to bench
+Collins is not in the starting lineup for Monday's game against the Cavaliers.
+Analysis
+Jalen Smith is back in the lineup following a one-game absence with a sprained finger. Now that both Smith and Nic Claxton are available for the Bulls, Collins could have a hard time maintaining consistent playing time.
+Orlando MagicORL @ BOS - 7:00 PM ET
+**[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)** _F_ 6:38 PM ET
+#### Shifting to bench
+Da Silva isn't starting Monday's game against the Celtics.
+Analysis
+Da Silva started Friday's game against Milwaukee due to Jalen Suggs coming off the bench in his return from a knee injury, but Suggs will return to the first unit for Monday's clash. Da Silva is averaging 15.8 points, 3.8 rebounds and 1.4 assists in his last five appearances as a reserve.
 Cleveland CavaliersCHI @ CLE - 7:00 PM ET
 **[Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)** _F_ _Top_ 6:24 PM ET
 #### Sliding back to bench Monday
@@ -36,25 +54,7 @@ Cleveland CavaliersCHI @ CLE - 7:00 PM ET
 Bryant is not in the starting lineup for Monday's game against the Bulls, Serena Winters of FanDuel Sports Network Ohio reports.
 Analysis
 Jarrett Allen is reprising his role as Cleveland's top center after Bryant made a spot start Saturday against the Mavericks. With the Cavaliers' frontcourt still pretty banged up, Bryant should remain in the rotation as the backup center for the time being.
-Cleveland CavaliersCHI @ CLE - 7:00 PM ET
-**[Meleek Thomas](https://www.rotowire.com/basketball/player/meleek-thomas-6989)** _G_ 6:23 PM ET
-#### Rotating to bench
-Thomas will come off the bench Monday against the Bulls, Serena Winters of FanDuel Sports Network Ohio reports.
-Analysis
-Thomas drew a start Saturday against Dallas and took advantage of the chance, finishing with 20 points, three triples, four rebounds and two assists in 34 minutes. However, he'll return to a bench role now that Peyton Watson, Donovan Mitchell and James Harden are back in action.
-Memphis GrizzliesMEM @ WSH - 7:00 PM ET
-**[Quinten Post](https://www.rotowire.com/basketball/player/quinten-post-6299)** _C_ 6:17 PM ET
-#### Available Monday
-Post (concussion) is available for Monday's game against the Wizards.
-Analysis
-Post has passed each step of the league's concussion protocol ahead of Monday's action. The big man is slotting in as the clear backup center behind Zach Edey amid Isaiah Stewart's (illness) absence.
-Memphis GrizzliesMEM @ WSH - 7:00 PM ET
-**[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)** _C_ _Top_ 6:14 PM ET
-#### Returning Monday
-Edey (ankle) is available for Monday's game against the Wizards.
-Analysis
-Edey missed the previous two games due to a left ankle injury, but the Grizzlies' big man will return to the lineup versus Washington. Isaiah Stewart will likely head back to the bench after starting Saturday's 129-110 win over Brooklyn.
-Show 5 more (41 remaining)
+Show 5 more (44 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -65,27 +65,27 @@ Main Slate - 7 games - 7:00 PM Nov 17 - Main Slate - 5 games - 7:30 PM (lineups 
 Implied total vs. the slate _Lowest_ _Highest_
 **ORL @ BOS**
 O/U 214.57:00 PM ET
-MagicExpectedAway
+MagicConfirmedAway
 _Implied_**102.5** _Spread_**+9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Wendell Carter  | $6,700  | 28.6  |  
-| PF  | Franz Wagner  | $9,700  | 39.3  |  
+| C  | Wendell Carter  | $6,700  | 28.7  |  
+| PF  | Franz Wagner  | $9,700  | 39.4  |  
 | PG  | Jalen Suggs  | $5,500  | 26.6  |  
-| SF  | Desmond Bane  | $7,200  | 33.2  |  
-| SG  | Anthony Black  | $6,700  | 31.0  |  
-CelticsExpectedHome
+| SF  | Desmond Bane  | $7,200  | 33.3  |  
+| SG  | Anthony Black  | $6,700  | 31.1  |  
+CelticsConfirmedHome
 _Implied_**112.0** _Spread_**-9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Mitchell Robinson  | $3,900  | 26.0  |  
-| PF  | Paul George  | $7,500  | 34.4  |  
-| PG  | Derrick White  | $6,800  | 27.2  |  
-| SF  | Jayson Tatum  | $10,200  | 43.2  |  
-| SG  | Baylor Scheierman  | $4,500  | 13.6  |  
+| C  | Luka Garza  | $3,800  | 20.2  |  
+| PF  | Paul George  | $7,500  | 34.5  |  
+| PG  | Derrick White  | $6,800  | 27.3  |  
+| SF  | Jayson Tatum  | $10,200  | 43.3  |  
+| SG  | Jordan Walsh  | $3,300  | 14.4  |  
 **CHI @ CLE**
 O/U 241.57:00 PM ET
-BullsExpectedAway
+BullsConfirmedAway
 _Implied_**116.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -105,24 +105,24 @@ _Implied_**125.0** _Spread_**-8.5**
 | SG  | Donovan Mitchell  | $8,400  | 44.0  |  
 **MEM @ WSH**
 O/U 231.57:00 PM ET
-GrizzliesExpectedAway
-_Implied_**117.5** _Spread_**-3.5**  
+GrizzliesConfirmedAway
+_Implied_**118.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Zach Edey  | $4,700  | 29.2  |  
-| PF  | Cameron Boozer  | $8,100  | 44.0  |  
-| PG  | Cam Spencer  | $5,100  | 30.2  |  
+| C  | Zach Edey  | $4,700  | 29.1  |  
+| PF  | Cameron Boozer  | $8,100  | 43.9  |  
+| PG  | Cam Spencer  | $5,100  | 30.1  |  
 | SF  | Jaylen Wells  | $4,300  | 23.3  |  
-| SG  | Cedric Coward  | $6,500  | 32.5  |  
+| SG  | Cedric Coward  | $6,500  | 32.4  |  
 WizardsConfirmedHome
-_Implied_**114.0** _Spread_**+3.5**  
+_Implied_**113.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alex Sarr  | -  | 28.7  |  
-| PF  | Anthony Davis  | $9,000  | 44.0  |  
-| PG  | Trae Young  | $7,900  | 40.6  |  
-| SF  | AJ Dybantsa  | $6,300  | 30.5  |  
-| SG  | Kyshawn George  | $6,500  | 33.3  |  
+| C  | Alex Sarr  | -  | 28.6  |  
+| PF  | Anthony Davis  | $9,000  | 43.9  |  
+| PG  | Trae Young  | $7,900  | 40.5  |  
+| SF  | AJ Dybantsa  | $6,300  | 30.4  |  
+| SG  | Kyshawn George  | $6,500  | 33.2  |  
 **PHI @ BKN**
 O/U 226.57:30 PM ET
 76ersExpectedAway
@@ -149,18 +149,18 @@ RocketsExpectedAway
 _Implied_**117.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Alperen Sengun  | $9,500  | 47.2  |  
-| PF  | Jabari Smith  | $6,300  | 31.8  |  
-| PG  | Fred VanVleet  | $6,000  | 30.0  |  
-| SF  | Kevin Durant  | $7,500  | 37.5  |  
-| SG  | Amen ThompsonQ  | $7,000  | 36.5  |  
+| C  | Alperen Sengun  | $9,500  | 47.1  |  
+| PF  | Jabari Smith  | $6,300  | 31.7  |  
+| PG  | Fred VanVleet  | $6,000  | 29.9  |  
+| SF  | Kevin Durant  | $7,500  | 37.4  |  
+| SG  | Amen ThompsonQ  | $7,000  | 36.4  |  
 HeatExpectedHome
 _Implied_**115.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Bam Adebayo  | $8,200  | 42.5  |  
+| C  | Bam Adebayo  | $8,200  | 42.4  |  
 | PF  | Giannis Antetokounmpo  | $11,700  | 51.2  |  
-| PG  | Davion Mitchell  | $7,100  | 32.2  |  
+| PG  | Davion Mitchell  | $7,100  | 32.1  |  
 | SF  | Myron Gardner  | $3,500  | 18.0  |  
 | SG  | Klay Thompson  | $5,500  | 24.0  |  
 **POR @ MIN**
@@ -191,7 +191,7 @@ _Implied_**113.5** _Spread_**-3.5**
 | --- | --- | --- | --- |  
 | C  | Draymond Green  | $5,200  | 26.0  |  
 | PF  | Yaxel Lendeborg  | $7,700  | 40.9  |  
-| PG  | Brandin Podziemski  | $7,000  | 36.3  |  
+| PG  | Brandin Podziemski  | $7,000  | 36.2  |  
 | SF  | Will Richard  | $3,800  | 14.2  |  
 | SG  | De'Anthony Melton  | $5,700  | 25.4  |  
 PelicansExpectedHome
@@ -215,15 +215,15 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Jabari WalkerPHI - SF  | @ BKN  | $3,800  | 23  | 25.5  | **6.70**  |  
-| 2  |  Mitchell RobinsonBOS - C  | vs ORL  | $3,900  | 25  | 26.0  | **6.66**  |  
+| 2  |  Mitchell RobinsonBOS - C  | vs ORL  | $3,900  | 25  | 26.0  | **6.68**  |  
 | 3  |  Jarrett AllenCLE - C  | vs CHI  | $5,600  | 30  | 37.3  | **6.66**  |  
 | 4  |  Dean WadePHI - SF  | @ BKN  | $4,200  | 33  | 26.9  | **6.41**  |  
-| 5  |  Quinten PostMEM - C  | @ WSH  | $3,000  | 18  | 18.8  | **6.26**  |  
-| 6  |  Zach EdeyMEM - C  | @ WSH  | $4,700  | 24  | 29.2  | **6.20**  |  
-| 7  |  Ryan ConwellMIA - PG  | vs HOU  | $3,700  | 25  | 22.7  | **6.14**  |  
-| 8  |  Cam SpencerMEM - PG  | @ WSH  | $5,100  | 30  | 30.2  | **5.92**  |  
+| 5  |  Quinten PostMEM - C  | @ WSH  | $3,000  | 18  | 18.7  | **6.25**  |  
+| 6  |  Zach EdeyMEM - C  | @ WSH  | $4,700  | 24  | 29.1  | **6.19**  |  
+| 7  |  Ryan ConwellMIA - PG  | vs HOU  | $3,700  | 25  | 22.7  | **6.13**  |  
+| 8  |  Cam SpencerMEM - PG  | @ WSH  | $5,100  | 30  | 30.1  | **5.91**  |  
 | 9  |  Trey LylesMIN - PF  | vs POR  | $3,400  | 22  | 19.5  | **5.74**  |  
-| 10  |  Jordan PooleNOP - PG  | vs GSW  | $4,300  | 23  | 24.6  | **5.71**  |  
+| 10  |  Jordan PooleNOP - PG  | vs GSW  | $4,300  | 23  | 24.6  | **5.72**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -247,21 +247,21 @@ Swing Score (0–100) averages a player’s percentile rank for ceiling vs. sala
 **Slate games:** PHI@BKN, ORL@BOS, CHI@CLE, GSW@NOP, HOU@MIA, MEM@WAS, POR@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Dean WadePHI · SF/PF · PHI@BKN  | $4,200  | 7.3  | 26.9  | **52.6**  |   | +12.7  | +11  | 100  |  
+| 1  |  Dean WadePHI · SF/PF · PHI@BKN  | $4,200  | 7.3  | 26.9  | **52.6**  |   | +12.7  | +10  | 100  |  
 | 2  |  Trey LylesMIN · PF/C · POR@MIN  | $3,400  | 4.9  | 19.5  | **40.8**  |   | +6.9  | +8  | 95  |  
 | 3  |  Peyton WatsonCLE · SF/PF · CHI@CLE  | $5,500  | 9.7  | 29.6  | **56.1**  |   | +6.5  | +5  | 91  |  
-| 4  |  Ryan ConwellMIA · PG/SG · HOU@MIA  | $3,700  | 6.6  | 22.7  | **45.4**  |   | +9.3  | +3  | 90  |  
+| 4  |  Ryan ConwellMIA · PG/SG · HOU@MIA  | $3,700  | 6.6  | 22.7  | **45.4**  |   | +9.2  | +3  | 90  |  
 | 5  |  Kyshawn GeorgeWAS · SG · MEM@WAS  | $6,500  | 11.7  | 33.2  | **61.5**  |   | +4.5  | +5  | 87  |  
-| 6  |  James HardenCLE · PG · CHI@CLE  | $7,200  | 16.1  | 39.9  | **70.9**  |   | +8.5  | +3  | 86  |  
+| 6  |  James HardenCLE · PG · CHI@CLE  | $7,200  | 16.1  | 39.9  | **70.9**  |   | +8.6  | +3  | 86  |  
 | 7  |  Danny WolfBKN · C · PHI@BKN  | $5,000  | 8.0  | 25.6  | **50.2**  |   | +4.3  | +4  | 85  |  
-| 8  |  Draymond GreenGSW · PF/C · GSW@NOP  | $5,200  | 8.1  | 26.0  | **51.1**  |   | +3.8  | +6  | 85  |  
-| 9  |  Yaxel LendeborgGSW · SF/PF · GSW@NOP  | $7,700  | 16.5  | 40.9  | **72.2**  |   | +6.2  | +3  | 84  |  
+| 8  |  Draymond GreenGSW · PF/C · GSW@NOP  | $5,200  | 8.1  | 26.0  | **51.1**  |   | +3.7  | +6  | 85  |  
+| 9  |  Yaxel LendeborgGSW · SF/PF · GSW@NOP  | $7,700  | 16.5  | 40.9  | **72.2**  |   | +6.1  | +3  | 84  |  
 | 10  |  Matas BuzelisCHI · PF · CHI@CLE  | $6,000  | 11.4  | 32.2  | **59.8**  |   | +6.4  | +3  | 83  |  
 | 11  |  Isaac OkoroCHI · SG/SF · CHI@CLE  | $4,200  | 6.2  | 21.8  | **44.0**  |   | +4.1  | +3  | 82  |  
-| 12  |  Jeremiah FearsNOP · PG · GSW@NOP  | $6,500  | 13.3  | 35.4  | **64.3**  |   | +7.2  | +2  | 82  |  
-| 13  |  Myron GardnerMIA · SG/SF · HOU@MIA  | $3,500  | 4.7  | 18.0  | **38.0**  |   | +3.3  | +4  | 80  |  
+| 12  |  Jeremiah FearsNOP · PG · GSW@NOP  | $6,500  | 13.3  | 35.4  | **64.3**  |   | +7.2  | +2  | 81  |  
+| 13  |  Myron GardnerMIA · SG/SF · HOU@MIA  | $3,500  | 4.7  | 18.0  | **37.9**  |   | +3.3  | +4  | 80  |  
 | 14  |  Toumani CamaraPOR · SF · POR@MIN  | $5,500  | 7.5  | 26.4  | **51.4**  |   | +1.8  | +7  | 78  |  
-| 15  |  Tari EasonHOU · SF/PF · HOU@MIA  | $5,300  | 8.9  | 27.2  | **52.3**  |   | +4.2  | +3  | 77  |  
+| 15  |  Tari EasonHOU · SF/PF · HOU@MIA  | $5,300  | 8.9  | 27.2  | **52.3**  |   | +4.2  | +2  | 77  |  
 Show all 124 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 7 games slate · 2026-11-16.
 ## **NBA Injury Report**

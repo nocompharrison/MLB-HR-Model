@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-16 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-16 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,27 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Luka Garza](https://www.rotowire.com/basketball/player/luka-garza-5423)[Starting against Orlando](https://www.rotowire.com/basketball/headlines/luka-garza-news-starting-against-orlando-539470)
+**C** Boston Celtics
+November 16, 2026
+Garza is [listed](https://x.com/Magic_PR/status/2122473041091236036?s=20) in the starting lineup for Monday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Zach Collins](https://www.rotowire.com/basketball/player/zach-collins-4162)[Moving to bench](https://www.rotowire.com/basketball/headlines/zach-collins-news-moving-to-bench-539469)
+**C** Chicago Bulls
+November 16, 2026
+Collins is not in the [starting lineup](https://x.com/chicagobulls/status/2122473633134100522?a=OP15P-P_RknEi-8PdPM&s=20) for Monday's game against the Cavaliers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Tristan da Silva](https://www.rotowire.com/basketball/player/tristan-da-silva-6267)[Shifting to bench](https://www.rotowire.com/basketball/headlines/tristan-da-silva-news-shifting-to-bench-539468)
+**F** Orlando Magic
+November 16, 2026
+Da Silva [isn't starting](https://x.com/OrlandoMagic/status/2122472312691675252?a=KZrlIKRrj0Xnl5lh0zI&s=20) Monday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)[Sliding back to bench Monday](https://www.rotowire.com/basketball/headlines/mario-hezonja-news-sliding-back-to-bench-monday-539467)
 **F** Cleveland Cavaliers
@@ -176,29 +197,6 @@ Dunn (thumb) is [listed as questionable](https://ak-static.cms.nba.com/referee/i
 Calf
 November 16, 2026
 Harris (calf) is likely to be sidelined until early December, per [Jeff Garcia of KENS 5 San Antonio](https://x.com/JeffGSpursZone/status/2122405219300446659).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Tre Johnson](https://www.rotowire.com/basketball/player/tre-johnson-6543)[Questionable to face Memphis](https://www.rotowire.com/basketball/headlines/tre-johnson-injury-questionable-to-face-memphis-539435)
-**G** Washington Wizards
-Back
-November 16, 2026
-Johnson (back) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Removed from injury report](https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-removed-from-injury-report-539433)
-**G** Houston Rockets
-November 16, 2026
-VanVleet (knee) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against Miami.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Tristan Vukcevic](https://www.rotowire.com/basketball/player/tristan-vukcevic-6000)[Remains without timetable](https://www.rotowire.com/basketball/headlines/tristan-vukcevic-injury-remains-without-timetable-539432)
-**C** Washington Wizards
-Hip
-November 16, 2026
-Vukcevic (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_01_00PM.pdf) for Monday's game against Memphis.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
