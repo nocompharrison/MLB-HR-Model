@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-17 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-17 17:03 ET -->
 
 
 ---
@@ -117,35 +117,35 @@ Oral Roberts vs. SMU
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 Kyle Hunter
-9 hours ago
+TODAY / 1:26 AM EST
 [![How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/PNII-1.png)](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 NCAAB
 [How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 Action Network Staff
 Nov 16, 2026 EST
-[![Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[![Illinois vs Duke Odds, Picks, Predictions — 11/17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Illinois vs Duke Odds, Picks, Predictions — 11/17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 Colby Marchio
-4 hours ago
-[![Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/Hofstra-11172026.jpg)](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
+36 mins ago
+[![Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/perk.jpg)](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-41 mins ago
-[![Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://images.actionnetwork.com/blog/2026/11/Rutgers-vs-Houston-11.16.26.jpg)](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-37 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 Sean Paul
-5 hours ago
+9 hours ago
+[![Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/John-Calipari-Arkansas.png)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Carter Elliott
+3 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
+38 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=53da3bb0-4524-4448-a218-bf48919f5e60&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e672b536-7ae7-4fe3-bd07-268fffdb4db7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=53da3bb0-4524-4448-a218-bf48919f5e60&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e672b536-7ae7-4fe3-bd07-268fffdb4db7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c96f4535-7a7d-485c-81f3-16d1158dfc0f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e672b536-7ae7-4fe3-bd07-268fffdb4db7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=7706&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c96f4535-7a7d-485c-81f3-16d1158dfc0f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e672b536-7ae7-4fe3-bd07-268fffdb4db7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=7706&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fd7d368c-35c7-4bc0-b182-99c93fa4dd61&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=172a9ab3-7914-4a28-be73-9cc342c465f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fd7d368c-35c7-4bc0-b182-99c93fa4dd61&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=172a9ab3-7914-4a28-be73-9cc342c465f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=545b68f9-8cbc-408c-b147-b34597084631&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=172a9ab3-7914-4a28-be73-9cc342c465f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=7659&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=545b68f9-8cbc-408c-b147-b34597084631&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=172a9ab3-7914-4a28-be73-9cc342c465f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-tuesday-november-17&tw_engaged_ms=7659&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -240,35 +240,35 @@ Sam Houston vs. Wyoming
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 Action Network Staff
-3 hours ago
+9 hours ago
 [![How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/PNII-1.png)](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 NCAAB
 [How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 Action Network Staff
 Nov 16, 2026 EST
-[![Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[![Illinois vs Duke Odds, Picks, Predictions — 11/17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Illinois vs Duke Odds, Picks, Predictions — 11/17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 Colby Marchio
-4 hours ago
-[![Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/Hofstra-11172026.jpg)](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
+36 mins ago
+[![Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/perk.jpg)](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-41 mins ago
-[![Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://images.actionnetwork.com/blog/2026/11/Rutgers-vs-Houston-11.16.26.jpg)](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-37 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 Sean Paul
-5 hours ago
+9 hours ago
+[![Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/John-Calipari-Arkansas.png)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Carter Elliott
+3 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
+38 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c67b7f44-35e5-470a-aef8-9af7f43d859a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2f7cf41-45b2-4a53-aba2-4aa834c91666&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c67b7f44-35e5-470a-aef8-9af7f43d859a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2f7cf41-45b2-4a53-aba2-4aa834c91666&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b285f593-29a4-4695-ab7a-71dc59e511b4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2f7cf41-45b2-4a53-aba2-4aa834c91666&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=7753&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b285f593-29a4-4695-ab7a-71dc59e511b4&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f2f7cf41-45b2-4a53-aba2-4aa834c91666&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=7753&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=36649db9-f626-4ec0-8b62-824f3db4879b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fcafb97-f91e-4299-90bb-77f68169cdc2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=36649db9-f626-4ec0-8b62-824f3db4879b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fcafb97-f91e-4299-90bb-77f68169cdc2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2b0a9ddd-3279-4ebc-82ed-46a6594b1152&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fcafb97-f91e-4299-90bb-77f68169cdc2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=7718&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2b0a9ddd-3279-4ebc-82ed-46a6594b1152&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8fcafb97-f91e-4299-90bb-77f68169cdc2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-picks-3-market-misreads-tuesday-november-17&tw_engaged_ms=7718&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -359,35 +359,35 @@ Duke vs Illinois: Player Prop Pick
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 Action Network Staff
-3 hours ago
+9 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/Chris-Mudge.png)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 Kyle Hunter
-9 hours ago
-[![Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+TODAY / 1:26 AM EST
+[![Illinois vs Duke Odds, Picks, Predictions — 11/17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Illinois vs Duke Odds, Picks, Predictions — 11/17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 Colby Marchio
-4 hours ago
-[![Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/Hofstra-11172026.jpg)](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
+36 mins ago
+[![Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/perk.jpg)](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-41 mins ago
-[![Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://images.actionnetwork.com/blog/2026/11/Rutgers-vs-Houston-11.16.26.jpg)](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-38 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 Sean Paul
-5 hours ago
+9 hours ago
+[![Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/John-Calipari-Arkansas.png)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Carter Elliott
+3 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
+38 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=253c2f00-53aa-4b80-88ad-4c823513d304&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=401371ae-ee55-4677-93c7-c144b7d40ae7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=253c2f00-53aa-4b80-88ad-4c823513d304&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=401371ae-ee55-4677-93c7-c144b7d40ae7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5d51033b-c9c7-422d-99f2-410577562163&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=401371ae-ee55-4677-93c7-c144b7d40ae7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5d51033b-c9c7-422d-99f2-410577562163&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=401371ae-ee55-4677-93c7-c144b7d40ae7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=cc444200-d7a5-4e70-b14f-905fe6074ad7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=17ef213f-f8bf-4821-bcc5-c50a53c54dbc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=cc444200-d7a5-4e70-b14f-905fe6074ad7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=17ef213f-f8bf-4821-bcc5-c50a53c54dbc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f5f3f731-4817-4926-a53f-48241b4ec33b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=17ef213f-f8bf-4821-bcc5-c50a53c54dbc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=7723&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f5f3f731-4817-4926-a53f-48241b4ec33b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=17ef213f-f8bf-4821-bcc5-c50a53c54dbc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhow-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17&tw_engaged_ms=7723&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -396,27 +396,23 @@ Sean Paul
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17
+# Illinois vs Duke Odds, Picks, Predictions — 11/17
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 17, 2026, 07:06 AM EST
+Nov 17, 2026, 04:27 PM EST
 Updated:
-Nov 17, 2026, 07:06 AM EST
+Nov 17, 2026, 04:27 PM EST
 Credit:
 Pictured: Duke Blue Devils head coach Jon Scheyer talks to center Joaquim Boumtje Boumtje. (Credit: Rob Kinnan-Imagn Images)
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The Illinois Fighting Illini take on the Duke Blue Devils in Durham, NC. Tip-off is set for 7 p.m. ET on ESPN.
-Duke is favored by -7.5 points on the spread with a moneyline of -360. The total is set at 163.5 points.
+Duke is favored by -8.5 points on the spread with a moneyline of -360. The total is set at 166.5 points.
 Here’s my **Illinois vs. Duke prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 17, 2026.
 * * *
-## Illinois vs Duke Prediction
-**Pick:[Duke -7.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3210160724&context=playbook-slack-quickslip&sport=basketball)**
-My**Illinois vs Duke best bet** is on the Blue Devils to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Illinois vs Duke Odds
+## Illinois vs Duke Odds, Spread, Pick
 [![Illinois Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ill.png)](https://www.actionnetwork.com/ncaab/odds/illinois-fighting-illini)
 Tuesday, Nov 17
 7 p.m. ET
@@ -425,29 +421,26 @@ ESPN
 | Illinois Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +7.5 -118  |  163.5 -110o / -110u  | +285  |  
+|  +8.5 -118  |  166.5 -115o / -105u  | +285  |  
 | Duke Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -7.5 -102  |  163.5 -110o / -110u  | -360  |  
+|  -8.5 -102  |  166.5 -115o / -105u  | -360  |  
 Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Illinois vs Duke spread:** Illinois +7.5 (-118), Duke -7.5 (-102)
-  * **Illinois vs Duke over/under:** 163.5 (-110o / -110u)
-  * **Illinois vs Duke moneyline:** Illinois +285, Duke -360
+  * **Pick:[Duke -7.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3210160724&context=playbook-slack-quickslip&sport=basketball)**
 
 
+My**Illinois vs Duke best bet** is on the Blue Devils to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Illinois vs Duke College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ill.png)
-### Illinois Basketball
+## Illinois vs Duke NCAAB Preview
+**Illinois Fighting Illini Basketball**
 Nearly making a miraculous comeback in Lubbock last week against Texas Tech, the Illinois Fighting Illini turned the page from that 84-78 loss and took down Sam Houston, 108-86, this past Friday.
 With Jake Davis and David Mirkovic out for this matchup against Duke, this will be a far tougher task than heading into Lubbock. However, the Fighting Illini do have plenty of depth, despite having a young bench.
 The team is still led by leading scorer Andrej Stojakovic, freshman Quentin Coleman and Providence transfer Stefan Vaaks.
 As a bettor, I'm just worried about how this team will respond following its loss to Texas Tech. The Illini seemed to be coasting in their first two games against Fairleigh Dickinson and Penn, where they still managed to score 112+ points. However, it won't be nearly as easy against top-ranked teams.
 As someone holding a 15/1 ticket on this team to win it all, I hope Illinois is able to grow from that loss. But we'll see how head coach Brad Underwood gets his boys ready for Duke and the Cameron Crazies.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
-### Duke Basketball
+**Duke Blue Devils Basketball**
 [Michigan State](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans) taking down Duke early in the season is every Duke hater's dream. For this writer, Duke doesn't trigger any emotion other than one that might help me find a betting angle.
 However, following that loss to the Spartans, the Blue Devils went belt to bottom on [SIU Edwardsville](https://www.actionnetwork.com/ncaab/odds/siu-edwardsville-cougars), winning 90-47.
 With this game at home for Duke, Jon Scheyer & Co. should be more than ready to take down a banged-up Illinois squad.
@@ -477,22 +470,16 @@ Tail picks the sharps are betting
 Player prop projections & edges
 Money percentages, profitable systems & more
 [TRY PRO NOW](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604615799)
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Illinois%20vs%20Duke%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2017&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Illinois%20vs%20Duke%20Odds%2C%20Picks%2C%20Predictions%20%E2%80%94%2011%2F17&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Illinois vs Duke Prediction
+Illinois vs Duke Odds, Spread, Pick
 Right Arrow
-Illinois vs Duke Odds
-Right Arrow
-Illinois vs Duke College Basketball Preview
-Right Arrow
-Illinois Basketball
-Right Arrow
-Duke Basketball
+Illinois vs Duke NCAAB Preview
 Right Arrow
 Illinois vs. Duke Pick, Betting Analysis
 Right Arrow
@@ -502,353 +489,325 @@ How To Watch Illinois vs Duke
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 Action Network Staff
-3 hours ago
+9 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/Chris-Mudge.png)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 Kyle Hunter
-9 hours ago
+TODAY / 1:26 AM EST
 [![How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/PNII-1.png)](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 NCAAB
 [How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 Action Network Staff
 Nov 16, 2026 EST
-[![Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/Hofstra-11172026.jpg)](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
+[![Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/perk.jpg)](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-41 mins ago
-[![Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://images.actionnetwork.com/blog/2026/11/Rutgers-vs-Houston-11.16.26.jpg)](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-38 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 Sean Paul
-5 hours ago
+9 hours ago
+[![Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/John-Calipari-Arkansas.png)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Carter Elliott
+3 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
+38 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e5f362c0-f76f-49eb-b534-83b9acc9fd58&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=25123b69-86e2-4171-9d18-ae7c0108189f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e5f362c0-f76f-49eb-b534-83b9acc9fd58&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=25123b69-86e2-4171-9d18-ae7c0108189f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2512d4c6-1dec-4c23-b8ef-76963d5dc5f7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=25123b69-86e2-4171-9d18-ae7c0108189f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7717&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2512d4c6-1dec-4c23-b8ef-76963d5dc5f7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=25123b69-86e2-4171-9d18-ae7c0108189f&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7717&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c489ae96-a80e-4645-8a0f-86892d53d0b2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3755c6c9-a08c-4e18-9b78-d5f7ece48cf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c489ae96-a80e-4645-8a0f-86892d53d0b2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3755c6c9-a08c-4e18-9b78-d5f7ece48cf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f52dcb3c-a4c7-4ee2-b4a5-39d16cc05d3e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3755c6c9-a08c-4e18-9b78-d5f7ece48cf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7695&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f52dcb3c-a4c7-4ee2-b4a5-39d16cc05d3e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3755c6c9-a08c-4e18-9b78-d5f7ece48cf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fillinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7695&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17
+## SOURCE: https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
+# Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
+[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
+Staff Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 17, 2026, 10:38 AM EST
+Nov 17, 2026, 07:11 AM EST
 Updated:
-Nov 17, 2026, 10:38 AM EST
+Nov 17, 2026, 07:11 AM EST
 Credit:
-Pictured: Hofstra Pride guard Nick Jefferson. (Credit: USA TODAY Network via Reuters Connect)
+Feb 17, 2026; Cincinnati, Ohio, USA; Villanova Wildcats guard Tyler Perkins (4) reacts to the crowd during a stop in play against the Xavier Musketeers in the overtime period at the Cintas Center. Mandatory Credit: Aaron Doster-Imagn Images
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Hofstra](https://www.actionnetwork.com/ncaab/odds/hofstra-pride) Pride take on the [Murray State](https://www.actionnetwork.com/ncaab/odds/murray-state-racers) Racers in Southaven, MS. Tip-off is set for 12 p.m. ET on ESPN+.
-Murray State is favored by -11.5 points on the spread with a moneyline of -700. The total is set at 147.5 points.
-Here’s my **Hofstra vs. Murray State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 17, 2026.
+The [Villanova](https://www.actionnetwork.com/ncaab/odds/villanova-wildcats) Wildcats take on the [Pitt](https://www.actionnetwork.com/ncaab/odds/pittsburgh-panthers) Panthers in Pittsburgh, PA. Tip-off is set for 7 p.m. ET on ACC Network.
+Pitt is favored by 1.5 points on the spread with a moneyline of -110. The total is set at 148.5 points.
+Here’s my **Villanova vs. Pitt prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 17, 2026.
 * * *
-## Hofstra vs Murray State Prediction
-**Pick:[Hofstra +10.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210265874&context=playbook-slack-quickslip&sport=basketball)**
-My**Hofstra vs Murray State best bet** is on the Pride to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Villanova vs Pitt Prediction
+**Pick:[ Villanova ML -110](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210265980&context=action-articles&sport=basketball)**
+My**Villanova vs Pitt best bet** is on the Wildcats to win straight up. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Hofstra vs Murray State Odds, Spread
-[![Hofstra Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hof.png)](https://www.actionnetwork.com/ncaab/odds/hofstra-pride)
+## Villanova vs Pitt Odds
+[![Villanova Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)](https://www.actionnetwork.com/ncaab/odds/villanova-wildcats)
 Tuesday, Nov 17
-12 p.m. ET
-ESPN+
-[![Murray State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mur.png)](https://www.actionnetwork.com/ncaab/odds/murray-state-racers)  
-| Hofstra Odds |  
+7 p.m. ET
+ACC Network
+[![Pittsburgh Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pit.png)](https://www.actionnetwork.com/ncaab/odds/pittsburgh-panthers)  
+| Villanova Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +11.5 -115  |  147.5 -115o / -105u  | +500  |  
-| Murray State Odds |  
+|  +1.5 -122  |  148.5 -110o / -110u  | -110  |  
+| Pittsburgh Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -11.5 -105  |  147.5 -115o / -105u  | -700  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Hofstra vs Murray State spread:** Hofstra +11.5 (-115), Murray State -11.5 (-105)
-  * **Hofstra vs Murray State over/under:** 147.5 (-115o / -105u)
-  * **Hofstra vs Murray State moneyline:** Hofstra +500, Murray State -700
+|  -1.5 +100  |  148.5 -110o / -110u  | -110  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **Villanova vs Pitt spread:** Villanova +1.5 (-122), Pitt -1.5 (+100)
+  * **Villanova vs Pitt over/under:** 148.5 (-110o / -110u)
+  * **Villanova vs Pitt moneyline:** Villanova -110, Pittsburgh -110
 
 
 * * *
-## Hofstra vs Murray State College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hof.png)
-### Hofstra Basketball
-This poor Pride team has been through it early on. Sure, they started the season with a gimme win over a non-Division I team, then lost to [Princeton](https://www.actionnetwork.com/ncaab/odds/princeton-tigers) by two and followed that up with 22-point loss to [Arizona State](https://www.actionnetwork.com/ncaab/odds/arizona-state-sun-devils). But they finally recorded their first "real" win over [Iona](https://www.actionnetwork.com/ncaab/odds/iona-gaels) on Friday in overtime.
-Following Tuesday's matchup against Murray State, the Pride's schedule gets a lot easier, with [Colgate](https://www.actionnetwork.com/ncaab/odds/colgate-raiders) and [Merrimack](https://www.actionnetwork.com/ncaab/odds/merrimack-warriors) coming up.
-Hofstra head coach and former NBA guard Speedy Claxton and his team pride (ba-doom-tiss) themselves on playing hard-nosed, suffocating defense.
-Over the last three seasons, this program has ranked inside the top 100 defensively. They've already started this season playing very efficiently on that end of the floor. Yes, the loss to Arizona State was a tough one, but the Pride forced 13 turnovers and scored 10 points off those giveaways.
-Their offense has been the biggest issue. Hofstra currently ranks 61st in close 2-point percentage and 163rd in 3-point percentage, but the Pride are 309th in overall 2-point percentage.
-If the Pride can finish quality looks around the rim while remaining a relatively effective 3-point shooting team when needed, they can make any game interesting.
-![Colby Marchio](https://s3.amazonaws.com/tan-user-assets/profile_images/2076702/1709351202920-7bf81e80d84711eeb437ab1fd428ab2f.jpg)
-[Colby Marchio](https://www.actionnetwork.com/picks/profile/ColbyMBets)
-Last 30d: 38-30-0 (+35.3u)
+## Villanova vs Pitt College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
+### Villanova Basketball
+Villanova has flown under the radar since a season-opening loss to [Notre Dame](https://www.actionnetwork.com/ncaab/odds/notre-dame-fighting-irish). The Wildcats will look to exact revenge on another ACC foe in a road tilt against Pitt.
+The Wildcats rank 33rd in offensive efficiency. They have a clear DNA, as they're to shoot 3s (35% from 3) and crash the offensive glass (37% offensive rebound rate).
+I think that's just scratching the surface of Nova's shooting upside. Bringing in [Cornell](https://www.actionnetwork.com/ncaab/odds/cornell-big-red) transfer Jake Fiegen has been pivotal for their shooting, as he's drilling 53% from 3.
+I expect more from Tyler Perkins, one of last season's holdovers. He's down to 31% this season, which is down from 36% in 2025-26.
+The real key is 7-foot-3 Italian big man Luigi Suigo. Sure, he looked rough against Notre Dame, but he's averaging 14 points, 10 rebounds and 3.3 assists per game. He can hit a 3 if an opponent leaves him, too.
+He's just scratching the surface, and his ability to score inside allows him to flash his elite passing, finding Fiegen and Perkins behind the arc.
+Kevin Willard's leading scorer is Devin Royal, a transfer from Ohio State. The 6-foot-6, 230-pound forward checks in with 15.8 points and 7.5 rebounds per game. He's been ultra-aggressive since attempting just one shot against Notre Dame, and it's helped Nova's offense.
+The one question mark to me is the point guard play. Elijah Crawford has been a solid floor general, leading the team with 6.3 assists and just 2.0 turnovers per game. However, he's not a shooting threat, which limits his upside.
+Can Nova win in spite of Crawford's offensive shortcomings?
+![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
+[Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
+Last 30d: 13-15-0 (-2.7u)
 Follow
-![ARI](https://assets.actionnetwork.com/976480_dbacks.png)
-![LAD](https://static.sprtactn.co/teamlogos/mlb/100/ladd.png)
-Diamondbacks @ Dodgers Picks
-May 19th
-/
-10:10 PM on MLB Network
-•
-36.5k bets
-Dodgers Over 14.5 Total Bases 
--110 (1.35u)
-Copy Bet
-![ILL](https://static.sprtactn.co/teamlogos/ncaab/100/ill.png)
-![DUKE](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
-Illinois @ Duke Picks
-Today
-/
-7:00 PM on ESPN
-•
-4.7k bets
-DUKE -5.5
--115 (1.15u)
-Copy Bet
-See All
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mur.png)
-### Murray State Basketball
-Murray State looks fantastic out of the gate this season, sitting at a perfect 4-0 straight up and 2-2 ATS. The Racers have taken down [Tennessee State](https://www.actionnetwork.com/ncaab/odds/tennessee-state-tigers), [Northwestern State](https://www.actionnetwork.com/ncaab/odds/northwestern-state-demons), [Alcorn State](https://www.actionnetwork.com/ncaab/odds/alcorn-state-braves) and [Texas Southern](https://www.actionnetwork.com/ncaab/odds/texas-southern-tigers). Three of those four teams rank inside the bottom 70, according to Bart Torvik's ratings.
-The Racers haven't been battle-tested early on, which could become a looming issue with Hofstra — a team that boasts an elite-level defense — up next.
-Following Tuesday's matchup, they take on [NC State](https://www.actionnetwork.com/ncaab/odds/north-carolina-state-wolfpack) on Thursday.
-We'll soon find out how leading scorers Brayden Shorter (who's 6-foot-5 and not short at all) and Roman Domon, who are averaging a combined 41 points per game, fare against defenses ranked inside the top 95.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hof.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mur.png)
-## Hofstra vs. Murray State Pick, Betting Analysis
-With this being a neutral-site game, the Pride should have an easier time forcing the Racers to play their slow, methodical style of basketball.
-Early on, Hofstra ranks as the 28th-slowest team in the country, while Murray State is the 16th-fastest, per Haslametrics.
-On top of that, the Pride's top-95 defense should be a shock to the Racers' system, especially considering Murray State has played the 22nd-easiest schedule in the country to kick off its season.
-Meanwhile, Hofstra has maintained its elite defense while enduring the 125th-toughest schedule.
-Murray State may rank inside the top 100 offensively, but it's pretty easy to inflate those numbers when you've played three teams in the bottom 70.
-If Hofstra's offense worries you, take Murray State's team total under 80.5. The Racers have scored 93+ in every game this season against bottom-tier defenses. I doubt they get to 80 in this matinee matchup.
-**Pick:[Hofstra +10.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210265874&context=playbook-slack-quickslip&sport=basketball)**
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pit.png)
+### Pitt Basketball
+How about the Panthers? Can Jeff Capel save his job again? They're off to a 4-0 start with a pair of high-major wins against [Penn State](https://www.actionnetwork.com/ncaab/odds/penn-state-nittany-lions) and [Butler](https://www.actionnetwork.com/ncaab/odds/butler-bulldogs).
+We'll see if they can beat their best opponent to date, though.
+Defense is what's led the Panthers to this dazzling start, as they rank 33rd in efficiency on that end of the floor. They hold opponents to just 26% shooting from 3 (53rd) and 43% on 2s (50th).
+I'll pour some cold water on both of those figures, though. Some of the 2-point number is matchup-based, at least to me.
+Butler has no reliable scoring bigs and while Penn State had nearly the entire Pitt frontcourt in foul trouble, Ivan Juric missed a bunch of easy 2s. He did the hard work to get open (and draw fouls), but a better big, like Suigo or Royal, makes those shots.
+Offensively, the Panthers are 84th in efficiency. They're led by dynamic freshman forward Chase Foster, who pours in 16 points a night and shoots 37% from deep. He's a highly skilled face-up forward who can attack mismatches and drill shots from downtown.
+Fellow long-time ACCers, Baye Ndongo and Jonathan Powell, have been the second and third options for Capel. Ndongo is averaging 15 points with 10.8 rebounds and the streaky Powell is at 13.5 points on 39% from 3.
+Also, credit where it's due for A'lahn Sumler. The [Charleston Southern](https://www.actionnetwork.com/ncaab/odds/charleston-southern-buccaneers) transfer is clearly the best guard on the roster. The 6-foot-4 Sumler is putting up 13.3 points and 3.8 assists per game while shooting 41% from 3.
+He's the only guard I truly trust on this roster because the Naithan George rollercoaster is one I tend to avoid.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pit.png)
+## Villanova vs. Pitt Pick, Betting Analysis
+Consider me out on the Panthers. KenPom has them 53rd in his rankings right now, and that's even too rich for my blood.
+Even though they beat two bad high-majors, Villanova is a different animal.
+I expect Willard's squad to impose its physicality, and that'll be a struggle for the Panthers.
+Take the Wildcats.
+**Pick:[ Villanova ML -110](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210265980&context=action-articles&sport=basketball)**
 * * *
-### How To Watch Hofstra vs Murray State
+### How To Watch Villanova vs Pittsburgh
 Location:
-Landers Center in Southaven, MS
+Petersen Events Center in Pittsburgh, PA
 Date:
 Tue, Nov 17
 Tipoff Time:
-12:00 PM EST
+7:00 PM EST
 TV/Streaming:
-ESPN+
-Hofstra vs Murray State is scheduled for 12:00 PM EST live from Landers Center on Tuesday. The game will be broadcast on ESPN+.
-[![Action PRO Upsell Image](https://assets.actionnetwork.com/84501_EvergeenPRO-1500x844.png)](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604615436)
-Smart betting starts here
-Tail picks the sharps are betting
-Player prop projections & edges
-Money percentages, profitable systems & more
-[TRY PRO NOW](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604615436)
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Hofstra%20vs%20Murray%20State%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Tuesday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+ACC Network
+Villanova vs Pittsburgh is scheduled for 7:00 PM EST live from Petersen Events Center on Tuesday. The game will be broadcast on ACC Network.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Villanova%20vs%20Pitt%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Tuesday%2C%20Nov.%2017&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 About the Author
-Colby Marchio • Betting Analyst
+Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
+[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Hofstra vs Murray State Prediction
+Villanova vs Pitt Prediction
 Right Arrow
-Hofstra vs Murray State Odds, Spread
+Villanova vs Pitt Odds
 Right Arrow
-Hofstra vs Murray State College Basketball Preview
+Villanova vs Pitt College Basketball Preview
 Right Arrow
-Hofstra Basketball
+Villanova Basketball
 Right Arrow
-Murray State Basketball
+Pitt Basketball
 Right Arrow
-Hofstra vs. Murray State Pick, Betting Analysis
+Villanova vs. Pitt Pick, Betting Analysis
 Right Arrow
-How To Watch Hofstra vs Murray State
+How To Watch Villanova vs Pittsburgh
 ### Top Stories
 [![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/sdfsdfs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 Action Network Staff
-3 hours ago
+9 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/Chris-Mudge.png)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 Kyle Hunter
-9 hours ago
+TODAY / 1:26 AM EST
 [![How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/PNII-1.png)](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 NCAAB
 [How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 Action Network Staff
 Nov 16, 2026 EST
-[![Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[![Illinois vs Duke Odds, Picks, Predictions — 11/17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Illinois vs Duke Odds, Picks, Predictions — 11/17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 Colby Marchio
-4 hours ago
-[![Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://images.actionnetwork.com/blog/2026/11/Rutgers-vs-Houston-11.16.26.jpg)](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
+36 mins ago
+[![Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/John-Calipari-Arkansas.png)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8](https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
+[Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Carter Elliott
+3 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
 38 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-Sean Paul
-5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8d2aacda-08cc-43ab-8ae6-44a0d0ae26a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e3a7a1c8-ce36-465a-a6a5-e3a2f16cd3b7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8d2aacda-08cc-43ab-8ae6-44a0d0ae26a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e3a7a1c8-ce36-465a-a6a5-e3a2f16cd3b7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6b051baf-929d-4265-a2ef-8cb793a0ba4b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e3a7a1c8-ce36-465a-a6a5-e3a2f16cd3b7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7731&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6b051baf-929d-4265-a2ef-8cb793a0ba4b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e3a7a1c8-ce36-465a-a6a5-e3a2f16cd3b7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fhofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7731&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5fa3fb8a-a5ae-460e-aeb9-ebb4f530fa44&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=090dcf34-ecfc-467c-ae73-7e8a4395f51d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5fa3fb8a-a5ae-460e-aeb9-ebb4f530fa44&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=090dcf34-ecfc-467c-ae73-7e8a4395f51d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dbad790f-e29e-4cc0-8a23-1e20d0e0a414&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=090dcf34-ecfc-467c-ae73-7e8a4395f51d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7744&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=dbad790f-e29e-4cc0-8a23-1e20d0e0a414&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=090dcf34-ecfc-467c-ae73-7e8a4395f51d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvillanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7744&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/rutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17
+## SOURCE: https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Rutgers vs Houston Predictions, Start Time, Odds: NCAAB Picks for Players Era 8
+# Arkansas vs Indiana Predictions, Start Time, Odds: NCAAB Picks for Tuesday
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
+[Carter Elliott](https://www.actionnetwork.com/article/author/celliott)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 17, 2026, 10:40 AM EST
+Nov 17, 2026, 01:53 PM EST
 Updated:
-Nov 17, 2026, 10:40 AM EST
+Nov 17, 2026, 01:53 PM EST
 Credit:
-Photo Credit: Kamil Krzaczynski-Imagn Images  
-Pictured: Jamichael Davis brings the ball up court
+IMAGN IMAGES via Reuters Connect. Pictured: John Calipari (Arkansas)
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Rutgers Scarlet Knights take on the Houston Cougars in Paradise, NV in the Players Era 8. Tip-off is set for 2 p.m. ET on ESPN.
-Houston is favored by -17.5 points on the spread with a moneyline of -2800. The total is set at 142.5 points.
-Here’s my **Rutgers vs. Houston prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 17, 2026.
+The [Indiana](https://www.actionnetwork.com/ncaab/odds/indiana-hoosiers) Hoosiers take on the [Arkansas](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks) Razorbacks in New York, NY. Tip-off is set for 7:30 p.m. ET on Peacock/NBCSN.
+Arkansas is favored by -1.5 points on the spread with a moneyline of -125. The total is set at 153.5 points.
+Here’s my **Indiana vs. Arkansas prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 17, 2026.
 * * *
-## Rutgers vs Houston Prediction
-**Pick:[Rutgers Team Total Under 63.5 Points](https://playbookbot.com/books/fanatics/passthrough?deeplinkId%5B0%5D=ML3210208295&context=action-articles)**
-My**Rutgers vs Houston best bet** is on the Scarlet Knights to score under 63.5 points. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Indiana vs Arkansas Prediction
+**Pick:[ Arkansas -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210029386&context=playbook-slack-quickslip&sport=basketball)**
+My**Indiana vs Arkansas best bet** is on the Razorbacks to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Rutgers vs Houston Odds, Spread
-[![Rutgers Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)](https://www.actionnetwork.com/ncaab/odds/rutgers-scarlet-knights)
-Tuesday, Nov 17
-2 p.m. ET
-ESPN
-[![Houston Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hou.png)](https://www.actionnetwork.com/ncaab/odds/houston-cougars)  
-| Rutgers Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +17.5 -108  |  142.5 -105o / -115u  | +1300  |  
-| Houston Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -17.5 -112  |  142.5 -105o / -115u  | -2800  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Rutgers vs Houston spread:** Houston -17.5 (-112), Rutgers +15.5 (-108)
-  * **Rutgers vs Houston over/under:** 142.5 (-105o / -115u)
-  * **Rutgers vs Houston moneyline:** Rutgers +1300, Houston -2800
+## Indiana vs Arkansas Odds
+  * **Indiana vs Arkansas spread:** Indiana +1.5 (-110), Arkansas -1.5 (-110)
+  * **Indiana vs Arkansas over/under:** 153.5 (-110o / -110u)
+  * **Indiana vs Arkansas moneyline:** Indiana +105, Arkansas -125
 
 
 * * *
-## Rutgers vs Houston College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)
-### Rutgers Basketball
-How are we supposed to gauge the [Rutgers Scarlet Knights](https://www.actionnetwork.com/ncaab/odds/rutgers-scarlet-knights) when they've only faced three teams ranked in the 330s, all at home? Rutgers has won by 20+ points against bottom-35 teams in every game this season., something every top-80 team should be doing.
-This season, the Scarlet Knights returned senior guards [Darren Buchanan Jr.](https://www.actionnetwork.com/ncaab/players/darren-buchanan-219729-f) and [Jamichael Davis](https://www.actionnetwork.com/ncaab/players/jamichael-davis-256240-g), who should take massive steps forward in their final seasons. Davis is already averaging 5.5 more points per game than he did last season, while Buchanan is putting up 7.7 points, 4.3 rebounds and 2.0 assists early on.
-Through the Scarlet Knights' first few games, they're averaging over 84 points per game.
-It'll be interesting to see how this unproven offense performs against an elite Cougars defense.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hou.png)
-### Houston Basketball
-Dogging the Scarlet Knights' schedule is a must, while [Houston](https://www.actionnetwork.com/ncaab/odds/houston-cougars) has at least scheduled some respectable competition early on to prepare for the season.
-The Cougars have played [La Salle](https://www.actionnetwork.com/ncaab/odds/la-salle-explorers), currently ranked 172nd by Bart Torvik, [Cal](https://www.actionnetwork.com/ncaab/odds/california-bears), ranked 112th, whom they beat 86-68 on a neutral court, and [Jacksonville State](https://www.actionnetwork.com/ncaab/odds/jacksonville-state-gamecocks), ranked 216th.
-Kelvin Sampson's team looks as good, as it always does. His guys have suffocated the life out of every opponent they've faced, holding teams to 55, 68 and 46 points while winning by an average of 34 points.
-[Dedan Thomas Jr.](https://www.actionnetwork.com/ncaab/players/dedan-thomas-255940-g) and [Delrecco Gillespie](https://www.actionnetwork.com/ncaab/players/delrecco-gillespie-220013-f) have led the way early on, combining for 28.7 points per game. Thomas is dishing out nearly seven assists a night, while Gillespie is snagging 6.3 rebounds.
-The two senior transfers seem to have found a home and look poised to make a name for themselves in the Big 12 this season.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/hou.png)
-## Rutgers vs. Houston Pick, Betting Analysis
-There may be nothing scarier than backing the Cougars to cover double digits against anyone inside the top 100. However, there's still a fun way to back them without worrying about whether they get enough scoring opportunities.
-Take Rutgers' team total under.
-We know how Sampson wants his teams to operate: as a slow, methodical, suffocating, defensively-led unit. According to Bart Torvik, the Cougars rank 326th in tempo this season, while Rutgers sits at 203rd.
-The Scarlet Knights may prefer a slower style of play, but the Cougars will chew up the clock on every possession until they find their shot. This is a very patient and disciplined team.
-Rutgers has endured the second-easiest schedule up to this point, while Houston ranks 144 spots higher in strength of schedule, per Haslametrics data. The Scarlet Knights have faced [New Haven](https://www.actionnetwork.com/ncaab/odds/new-haven-chargers), [NJIT](https://www.actionnetwork.com/ncaab/odds/njit-highlanders) and [Bryant](https://www.actionnetwork.com/ncaab/odds/bryant-university-bulldogs), three teams ranked in the bottom 35, all sitting in the 330s.
-This offense now draws one of the best defensive programs in the country.
-Good luck scoring 60+ points.
-**Pick:[Rutgers Team Total Under 63.5 Points](https://playbookbot.com/books/fanatics/passthrough?deeplinkId%5B0%5D=ML3210208295&context=action-articles)**
+## Indiana vs Arkansas College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/iu.png)
+### Indiana Basketball
+Off to a 4-0 start in Year 2 of the Darian DeVries era — highlighted by a neutral-site win over [Syracuse](https://www.actionnetwork.com/ncaab/odds/syracuse-orange) — the Hoosiers now prepare for their toughest test yet against No. 20 Arkansas.
+Following a massive summer overhaul, the Indiana roster brought back just two returning players alongside five brand-new starters.
+Leading the attack is [Villanova](https://www.actionnetwork.com/ncaab/odds/villanova-wildcats) transfer Bryce Lindsay, who's providing a team-high 13.8 points per game off the bench. He's joined in double-digit scoring by three other guards: Markus Burton, Darren Harris and Jaeden Mustaf.
+Manning the 4 and 5 spots for Indiana are frontcourt transfers Aiden Sherrell and Samet Yigitoglu. Standing at 7-foot- and 7-foot-2 respectively, the duo gives the Hoosiers a rare level of frontcourt size that few college teams can match.
+Yigitoglu leads this team in rebounds with six a game while Sherrell leads this team in both blocks (1.0) and steals per game (1.2)
+While the Hoosiers' bench may not be their primary strength overall, they still receive valuable contributions beyond Lindsay. Freshman Trevor Manhertz stands out as an intriguing option who's earned DeVries' trust.
+A highly touted high school prospect with impressive size and length, Manhertz is currently connecting on 42% of his 3-point attempts this season. The unit is rounded out by Trent Sisley and Sam Alexis — the team's sole returning players — who together supply essential frontcourt depth.
+Facing Arkansas — which is currently ranked 20th in the AP Poll and 33rd on KenPom — presents a crucial early-season benchmark for Indiana.
+Prior to this matchup, the Hoosiers sole win against a top-200 KenPom opponent was an 78th-ranked Syracuse squad at Indianapolis' Gainbridge Fieldhouse, making this game a true measuring stick for where the team stands.
+![Carter Elliott](https://s3.amazonaws.com/tan-user-assets/profile_images/283091/1667833672810-f3a0aca05ead11ed9b2e8ff20452d41a.jpg)
+[Carter Elliott](https://www.actionnetwork.com/picks/profile/CarterElliott)
+Last 30d: 0-0-0 (+0.0u)
+Follow
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ark.png)
+### Arkansas Basketball
+After suffering a 91-72 defeat to [Virginia](https://www.actionnetwork.com/ncaab/odds/virginia-cavaliers) in their first major test of the year, the young Razorbacks (3-1) are eager to learn from their mistakes. They now aim to bounce back under the bright lights of Madison Square Garden as they take on an undefeated Indiana squad.
+As with so many of John Calipari's stellar rosters, this Razorbacks squad boasts talent top to bottom.
+[Georgia](https://www.actionnetwork.com/ncaab/odds/georgia-bulldogs) transfer Jeremiah Wilkinson leads the offense, putting up 14.5 points per game while sinking 46% of his attempts from deep. Beside him is projected top-10 NBA draft pick Jordan Smith Jr., whose downhill attack, elite athleticism and stellar defense have put him firmly in the conversation for the top overall pick.
+Smith Jr. adds 13.5 points per game and sets the defensive tone with a team-leading 2.5 steals per contest.
+Complementing Wilkinson and Smith on the wing is Billy Richmond III, a key returning player. As a versatile glue guy capable of defending multiple positions, Richmond has elevated his offensive production early this season, contributing 14.0 points, 5.5 rebounds and 3.5 assists per game.
+The Razorbacks also possess plenty of frontcourt talent, though they're still striving to pair that raw potential with steady, dependable production.
+Leading the frontcourt is five-star freshman Miikka Muurinen, whose massive frame and advanced skill set make his upside clear.
+At times, Muurinen delivers breathtaking plays that make you question why he isn't being discussed as the potential No. 1 overall pick in the NBA draft. But at other times, he makes raw mistakes that show precisely why he isn't there just yet.
+He's currently 32% from the field and 18% from 3. Against the two seven footers that the Hoosiers have, the Razorbacks will need more from Muurinen.
+The [Furman](https://www.actionnetwork.com/ncaab/odds/furman-paladins) transfer, Cooper Bowser, also faces a formidable challenge against Indiana's frontcourt. Though slender in frame, Bowser boasts impressive length and currently paces the Razorbacks in both rebounds (7.0) and blocks (1.8).
+The frontcourt faces a significant trial against Indiana's size.
+The Razorbacks boast no shortage of talent off the bench, though. Davion Thompson, Abdou Toure and JJ Andrews all entered the program as highly regarded five-star recruits.
+Among them, Thompson — who leads Arkansas with five assists per contest — has recently emerged as a strong candidate to secure a permanent starting role at point guard. Averaging just under eight points per game, Thompson is also knocking down 36% of his shots from beyond the arc.
+Meanwhile, Toure and Andrews offer long, athletic depth on the wing. Both are capable of delivering a major spark off the bench, and a breakout performance from either player would come as no surprise.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/iu.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ark.png)
+## Indiana vs. Arkansas Pick, Betting Analysis
+This game is a big spot for both teams. The Hoosiers have yet to play a marquee opponent and the Razorbacks will be looking to get a good early season win under their belt.
+Indiana has depended heavily on its backcourt so far this season, with the frontcourt contributing just enough to secure victories against weaker opponents.
+However, if this matchup comes down to backcourt dominance, Arkansas holds the edge. The Razorbacks' elite athleticism and knack for attacking downhill will put immense pressure on the Hoosiers' guard play.
+Madison Square Garden is where stars prove themselves, and I expect Arkansas to deliver a definitive statement under the bright lights.
+I expect the Razorbacks to take this game and cover the spread.
+**Pick:[ Arkansas -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3210029386&context=playbook-slack-quickslip&sport=basketball)**
 * * *
-### How To Watch Rutgers vs Houston
+### How To Watch Indiana vs Arkansas
 Location:
-Michelob ULTRA Arena in Paradise, NV
+Madison Square Garden in New York, NY
 Date:
 Tue, Nov 17
 Tipoff Time:
-2:00 PM EST
+7:30 PM EST
 TV/Streaming:
-ESPN
-Rutgers vs Houston is scheduled for 2:00 PM EST live from Michelob ULTRA Arena on Tuesday. The game will be broadcast on ESPN.
-[![Action PRO Upsell Image](https://assets.actionnetwork.com/84501_EvergeenPRO-1500x844.png)](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604615493)
-Smart betting starts here
-Tail picks the sharps are betting
-Player prop projections & edges
-Money percentages, profitable systems & more
-[TRY PRO NOW](https://www.actionnetwork.com/upgrade?intcmp=ArticleProCard&intcid=604615493)
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Rutgers%20vs%20Houston%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Players%20Era%208&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17)
+Peacock/NBCSN
+Indiana vs Arkansas is scheduled for 7:30 PM EST live from Madison Square Garden on Tuesday. The game will be broadcast on Peacock/NBCSN.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://twitter.com/intent/tweet?text=Arkansas%20vs%20Indiana%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Tuesday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
-Colby Marchio • Betting Analyst
+Carter Elliott • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Rutgers vs Houston Prediction
+Indiana vs Arkansas Prediction
 Right Arrow
-Rutgers vs Houston Odds, Spread
+Indiana vs Arkansas Odds
 Right Arrow
-Rutgers vs Houston College Basketball Preview
+Indiana vs Arkansas College Basketball Preview
 Right Arrow
-Rutgers Basketball
+Indiana Basketball
 Right Arrow
-Houston Basketball
+Arkansas Basketball
 Right Arrow
-Rutgers vs. Houston Pick, Betting Analysis
+Indiana vs. Arkansas Pick, Betting Analysis
 Right Arrow
-How To Watch Rutgers vs Houston
+How To Watch Indiana vs Arkansas
 ### Top Stories
 [![College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/sdfsdfs.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Tuesday, November 17](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-tuesday-november-17)
 Action Network Staff
-3 hours ago
+9 hours ago
 [![College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/Chris-Mudge.png)](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 NCAAB
 [College Basketball Predictions, Picks: 3 Market Misreads to Target on Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/college-basketball-predictions-picks-3-market-misreads-tuesday-november-17)
 Kyle Hunter
-9 hours ago
+TODAY / 1:26 AM EST
 [![How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://images.actionnetwork.com/blog/2026/11/PNII-1.png)](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 NCAAB
 [How to Bet Duke vs Illinois: NCAAB Picks for Tuesday’s Marquee Matchup](https://www.actionnetwork.com/ncaab/how-to-bet-duke-vs-illinois-ncaab-picks-tuesday-november-17)
 Action Network Staff
 Nov 16, 2026 EST
-[![Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[![Illinois vs Duke Odds, Picks, Predictions — 11/17](https://images.actionnetwork.com/blog/2026/11/JoaquimBoumtjeBoumtje-11162026.jpg)](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Illinois vs Duke Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Illinois vs Duke Odds, Picks, Predictions — 11/17](https://www.actionnetwork.com/ncaab/illinois-fighting-illini-vs-duke-blue-devils-prediction-pick-odds-college-basketball-tuesday-november-17)
 Colby Marchio
-4 hours ago
-[![Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/Hofstra-11172026.jpg)](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
+36 mins ago
+[![Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/perk.jpg)](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 NCAAB
-[Hofstra vs Murray State Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/hofstra-pride-vs-murray-state-racers-prediction-pick-odds-college-basketball-tuesday-november-17)
-Colby Marchio
-41 mins ago
-[![Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://images.actionnetwork.com/blog/2026/11/condo.jpg)](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
-NCAAB
-[Notre Dame vs Florida Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/notre-dame-fighting-irish-vs-florida-gators-prediction-pick-odds-college-basketball-tuesday-november-17)
+[Villanova vs Pitt Prediction, Pick, College Basketball Odds for Tuesday, Nov. 17](https://www.actionnetwork.com/ncaab/villanova-wildcats-vs-pitt-panthers-prediction-pick-odds-college-basketball-tuesday-november-17)
 Sean Paul
-5 hours ago
+9 hours ago
+[![Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://images.actionnetwork.com/blog/2026/11/TerrenceHillJr-11172026.jpg)](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+NCAAB
+[Michigan State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Tuesday](https://www.actionnetwork.com/ncaab/michigan-state-spartans-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-tuesday-november-17)
+Ryan Minion
+38 mins ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5dd8b863-dfea-4a0c-b274-4af705d96a0f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=77eba9dc-803d-44cf-a1a0-f875adaf4cd2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5dd8b863-dfea-4a0c-b274-4af705d96a0f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=77eba9dc-803d-44cf-a1a0-f875adaf4cd2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fd1381d7-3f68-41ea-b268-37782902b06d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=77eba9dc-803d-44cf-a1a0-f875adaf4cd2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fd1381d7-3f68-41ea-b268-37782902b06d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=77eba9dc-803d-44cf-a1a0-f875adaf4cd2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Frutgers-scarlet-knights-vs-houston-cougars-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=99&tw_session_id=1794931412610-53955603&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6cc69b15-7d8c-4c31-b2df-5f5e57da98a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=29a74703-fa13-4e1a-9de6-dd91e4431ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6cc69b15-7d8c-4c31-b2df-5f5e57da98a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=29a74703-fa13-4e1a-9de6-dd91e4431ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=13d426f9-0812-46e5-af68-64bc77ff61a7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=29a74703-fa13-4e1a-9de6-dd91e4431ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7695&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=13d426f9-0812-46e5-af68-64bc77ff61a7&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=29a74703-fa13-4e1a-9de6-dd91e4431ea1&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-indiana-hoosiers-prediction-pick-odds-college-basketball-tuesday-november-17&tw_engaged_ms=7695&tw_iframe_status=0&tw_pid_src=2&tw_session_count=101&tw_session_id=1794952861214-715126747&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

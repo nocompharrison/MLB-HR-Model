@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-17 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-17 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,67 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
+[RJ Luis](https://www.rotowire.com/cbasketball/player/rj-luis-20703)
+Officially added to LSU's roster
+**F** Louisiana State
+November 17, 2026
+Luis has been officially added to LSU's roster, per [On3](https://x.com/On3/status/2122807455918756082?a=ogZ2QBmHkdNW3wuZ3KU&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rhode Island](https://assets.rotowire.com/images/teamlogo/cbasketball/Rhode-Island.png?v=16)
+[Jaen Chatman](https://www.rotowire.com/cbasketball/player/jaen-chatman-28329)
+Expected back Friday
+**G** Rhode Island
+Eye
+November 17, 2026
+Chatman (eye) is expected to be available Friday after Rhode Island coach Archie Miller said his vision has cleared up and he could get back to light work Tuesday,[Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2122770133219426442).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Rutgers](https://assets.rotowire.com/images/teamlogo/cbasketball/Rutgers.png?v=16)
+[Tariq Francis](https://www.rotowire.com/cbasketball/player/tariq-francis-22882)
+Removed from starting five
+**G** Rutgers
+November 17, 2026
+Francis isn't starting against Houston at the Players Era 8 Tournament on Tuesday, per [Jerry Carino of the Asbury Park Press](https://x.com/NJHoopsHaven/status/2122765678348263534?a=2GrSqHFHAIM7aC8xTUY&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
+[Braeden Carrington](https://www.rotowire.com/cbasketball/player/braeden-carrington-20430)
+Seen at Tuesday's practice
+**G** Wisconsin
+Undisclosed
+November 17, 2026
+Carrington was present at Tuesday's practice, Evan Flood of [247Sports.com](https://247Sports.com) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
+[Boogie Fland](https://www.rotowire.com/cbasketball/player/boogie-fland-23411)
+Still expected to play vs. Irish
+**G** Florida
+Undisclosed
+November 17, 2026
+Fland (undisclosed) is still expected to play against Notre Dame on Tuesday night, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2122754680329539663).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[RJ Godfrey](https://www.rotowire.com/cbasketball/player/rj-godfrey-20473)
+Becomes eligible under NCAA bylaw
+**F** Arizona
+Not Injury Related
+November 17, 2026
+Godfrey has received a court order making him eligible under NCAA Bylaw 12.6, [Bruce Pascoe of the Arizona Daily Star](https://x.com/BrucePascoe/status/2122749362648588476) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UNLV](https://assets.rotowire.com/images/teamlogo/cbasketball/UNLV.png?v=16)
+[Tyler Harris](https://www.rotowire.com/cbasketball/player/tyler-harris-22405)
+Game-time call vs. Kansas
+**G** UNLV
+Knee
+November 17, 2026
+Jon Rothstein of CBS SportsHarris (knee) will be a game-time decision for UNLV's tilt with Kansas on Tuesday night, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2122746102118051859?a=1DNEzlTVyS99xt8Ie4U&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![North Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina.png?v=16)
 [Neo Avdalas](https://www.rotowire.com/cbasketball/player/neo-avdalas-26078)
 Set to miss extended time
@@ -155,66 +216,6 @@ November 16, 2026
 Servilus is out for Monday's game against Calumet College of St. Joseph, [Paul Oren of TheVictoryBell.com](https://x.com/TVBOren/status/2122495400946872556?a=LGud5FQnPBr8QqCWwys&s=20) reports, adding that more information is expected after the game.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=16)
-[Julius Halaifonua](https://www.rotowire.com/cbasketball/player/julius-halaifonua-23529)
-Not starting Monday
-**C** Oklahoma State
-November 16, 2026
-Halaifonua is [not in the starting lineup](https://x.com/OSUMBB/status/2122493890942939281?a=iHTtSXoIJibkpy17tf8&s=20) for Monday's game against Central Arkansas.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Northwestern](https://assets.rotowire.com/images/teamlogo/cbasketball/Northwestern.png?v=16)
-[Ryan Soulis](https://www.rotowire.com/cbasketball/player/ryan-soulis-22753)
-Out indefinitely with foot injury
-**F** Northwestern
-Foot
-November 16, 2026
-Soulis suffered a foot injury during Friday 67-47 loss to DePaul and is out indefinitely, per [Northwestern's X page](https://x.com/NUMensBball/status/2122479002942046460?a=l0HtggRMXYwE3lFlUNE&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Duke Brennan](https://www.rotowire.com/cbasketball/player/duke-brennan-20458)
-Breaks ankle during Sunday practice
-**C** Oklahoma
-Ankle
-November 16, 2026
-Brennan is expected to miss extended time after breaking his ankle a broken ankle in Sunday's practice, [Brody Lusk of 247Sports](https://x.com/BrodyLusk247/status/2122464211280543869?a=VLtCSb6sexQOR8nLHEg&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Maryland](https://assets.rotowire.com/images/teamlogo/cbasketball/Maryland.png?v=16)
-[Andre Mills](https://www.rotowire.com/cbasketball/player/andre-mills-25721)
-Not starting Monday
-**G** Maryland
-November 16, 2026
-Mills isn't in Maryland's [starting five](https://x.com/TerrapinHoops/status/2122460418065182754?a=keBY05iTvte8jgTXOyc&s=20) on Monday against Alcorn State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan.png?v=16)
-[Jalen Reed](https://www.rotowire.com/cbasketball/player/jalen-reed-20578)
-Returns vs. William & Mary
-**F** Michigan
-November 16, 2026
-Reed (knee) logged six points (3-3 FG), six rebounds and one block in nine minutes during Sunday's 123-79 victory over William & Mary.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Kentucky](https://assets.rotowire.com/images/teamlogo/cbasketball/Kentucky.png?v=16)
-[Jerone Morton](https://www.rotowire.com/cbasketball/player/jerone-morton-23208)
-Returns to shootaround Monday
-**G** Kentucky
-Knee
-November 16, 2026
-Morton (knee) went through the first part of Kentucky's pregame shootaround Monday, marking the first time he has done so this season, according to [Ben Roberts of Inside Kentucky Basketball](https://x.com/InsideKentucky/status/2122422361244991600).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[Jamarion Davis-Fleming](https://www.rotowire.com/cbasketball/player/jamarion-davis-fleming-26125)
-Remains week-to-week
-**F** Alabama
-Leg
-November 16, 2026
-Davis-Fleming (leg) remains week-to-week and is still not practicing, [Nick Kelly of AL.com reports](https://x.com/_NickKelly/status/2122399405588238610).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979e9c9a9b9e9a9f9b9866uokewi0e0y626m6i6e6g6m6e6o6g64)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a65979c9a9b9a9b9b98969866uokewi0e0y626i6e6g6e6g6g646064)
 
