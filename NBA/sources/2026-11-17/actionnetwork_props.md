@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17 | fetched: 2026-11-17 16:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17 | fetched: 2026-11-17 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -101,7 +101,7 @@ Today
 /
 8:00 PM on NBC/Peacock
 •
-12.5k bets
+17.7k bets
 K.Huerter o12.5 Pts
 -110 (0.5u)
 Copy Bet
@@ -181,51 +181,51 @@ Hornets vs. Lakers
 Right Arrow
 Luka Doncic Over 4.5 Three-Pointers-Made (-125)
 ### Top Stories
-[![NBA Best Bets for Raptors vs Knicks, Spurs vs Pistons on Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/NBABestBets1117262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-raptors-vs-knicks-spurs-vs-pistons-on-tuesday-november-17)
+[![NBA Best Bets for Knicks vs Raptors, Pistons vs Spurs \(Tuesday, Nov. 17\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets1117262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-raptors-vs-knicks-spurs-vs-pistons-on-tuesday-november-17)
 NBA
-[NBA Best Bets for Raptors vs Knicks, Spurs vs Pistons on Tuesday, November 17](https://www.actionnetwork.com/nba/nba-best-bets-for-raptors-vs-knicks-spurs-vs-pistons-on-tuesday-november-17)
+[NBA Best Bets for Knicks vs Raptors, Pistons vs Spurs (Tuesday, Nov. 17)](https://www.actionnetwork.com/nba/nba-best-bets-for-raptors-vs-knicks-spurs-vs-pistons-on-tuesday-november-17)
 Action Network Staff
-4 hours ago
+1 hour ago
 [![NBA Parlay Picks for Spurs vs Pistons, Clippers vs Jazz \(Tuesday, November 17\)](https://images.actionnetwork.com/blog/2026/11/NBASGPPlaybook1117.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-for-spurs-vs-pistons-clippers-vs-jazz-tuesday-november-17)
 NBA
 [NBA Parlay Picks for Spurs vs Pistons, Clippers vs Jazz (Tuesday, November 17)](https://www.actionnetwork.com/nba/nba-parlay-picks-for-spurs-vs-pistons-clippers-vs-jazz-tuesday-november-17)
 Alex Hinton
-13 mins ago
+2 hours ago
 [![NBA King of the Court Picks, Predictions for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/NBAKOTC111726.jpg)](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-17)
 NBA
 [NBA King of the Court Picks, Predictions for Tuesday, November 17](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-17)
 Action Network Staff
-3 hours ago
+5 hours ago
 [![Pistons vs Spurs Prediction, Pick, NBA Odds for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/Pistons-Spurs-11172026.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-san-antonio-spurs-prediction-pick-nba-odds-tuesday-november-17)
 NBA
 [Pistons vs Spurs Prediction, Pick, NBA Odds for Tuesday, November 17](https://www.actionnetwork.com/nba/detroit-pistons-vs-san-antonio-spurs-prediction-pick-nba-odds-tuesday-november-17)
 Brandon Kravitz
-6 hours ago
-[![Knicks vs Raptors Prediction, Pick, NBA Odds for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/Knicks-Raptors-11172026.jpg)](https://www.actionnetwork.com/nba/new-york-knicks-vs-toronto-raptors-prediction-pick-nba-odds-tuesday-november-17)
+8 hours ago
+[![Knicks vs Raptors Predictions, Odds, Picks: New York Seeks 15th Straight Win Over Toronto](https://images.actionnetwork.com/blog/2026/11/Knicks-Raptors-11172026.jpg)](https://www.actionnetwork.com/nba/new-york-knicks-vs-toronto-raptors-prediction-pick-nba-odds-tuesday-november-17)
 NBA
-[Knicks vs Raptors Prediction, Pick, NBA Odds for Tuesday, November 17](https://www.actionnetwork.com/nba/new-york-knicks-vs-toronto-raptors-prediction-pick-nba-odds-tuesday-november-17)
+[Knicks vs Raptors Predictions, Odds, Picks: New York Seeks 15th Straight Win Over Toronto](https://www.actionnetwork.com/nba/new-york-knicks-vs-toronto-raptors-prediction-pick-nba-odds-tuesday-november-17)
 Bryan Fonseca
-5 hours ago
+27 mins ago
 [![Hornets vs Lakers Prediction, Pick, NBA Odds for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/Hornets-Lakers-NBA-11_17.jpg)](https://www.actionnetwork.com/nba/charlotte-hornets-vs-los-angeles-lakers-prediction-pick-nba-odds-tuesday-november-17)
 NBA
 [Hornets vs Lakers Prediction, Pick, NBA Odds for Tuesday, November 17](https://www.actionnetwork.com/nba/charlotte-hornets-vs-los-angeles-lakers-prediction-pick-nba-odds-tuesday-november-17)
 Bryan Fonseca
-4 hours ago
+6 hours ago
 [![Trail Blazers vs Timberwolves Prediction, Pick, NBA Odds for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/Trail-Blazers-vs-Timberwolves-11_17_26.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-tuesday-november-17)
 NBA
 [Trail Blazers vs Timberwolves Prediction, Pick, NBA Odds for Tuesday, November 17](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-minnesota-timberwolves-prediction-pick-odds-nba-tuesday-november-17)
 Action Network Staff
-5 hours ago
+7 hours ago
 [![Jazz vs Clippers Prediction, Pick, NBA Odds for Tuesday, November 17](https://images.actionnetwork.com/blog/2026/11/Jazz-vs-Clippers-11.17.26.jpg)](https://www.actionnetwork.com/nba/utah-jazz-vs-los-angeles-clippers-prediction-pick-nba-odds-tuesday-november-17)
 NBA
 [Jazz vs Clippers Prediction, Pick, NBA Odds for Tuesday, November 17](https://www.actionnetwork.com/nba/utah-jazz-vs-los-angeles-clippers-prediction-pick-nba-odds-tuesday-november-17)
 Action Network Staff
-5 hours ago
+7 hours ago
 [ PRO ![NBA Odds Tuesday: 4 Data-Driven Picks for Knicks vs Raptors and Hornets vs Lakers](https://images.actionnetwork.com/blog/2026/11/PRO-4-Sharp-Picks-for-2-Games-Tuesday-11_17_26.jpg) ](https://www.actionnetwork.com/nba/nba-odds-tuesday-4-data-driven-picks-for-knicks-vs-raptors-and-hornets-vs-lakers)
 NBA
 [NBA Odds Tuesday: 4 Data-Driven Picks for Knicks vs Raptors and Hornets vs Lakers](https://www.actionnetwork.com/nba/nba-odds-tuesday-4-data-driven-picks-for-knicks-vs-raptors-and-hornets-vs-lakers)
 Carlos Avilan
-1 hour ago
+3 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -238,5 +238,5 @@ Matt Moore
 Oct 19, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3441510d-e15b-4e70-ac2a-340fa38a9add&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23029c27-f52a-4132-b5c9-2004d269537e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=100&tw_session_id=1794949390722-415993598&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3441510d-e15b-4e70-ac2a-340fa38a9add&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23029c27-f52a-4132-b5c9-2004d269537e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=100&tw_session_id=1794949390722-415993598&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6ed70a0f-aa79-4d99-b0a0-9116755a986d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23029c27-f52a-4132-b5c9-2004d269537e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=7466&tw_iframe_status=0&tw_pid_src=2&tw_session_count=100&tw_session_id=1794949390722-415993598&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6ed70a0f-aa79-4d99-b0a0-9116755a986d&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23029c27-f52a-4132-b5c9-2004d269537e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=7466&tw_iframe_status=0&tw_pid_src=2&tw_session_count=100&tw_session_id=1794949390722-415993598&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f27bd8fd-8d5f-41bc-bcf7-4f99686120dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2eed5d65-cac3-4a05-b28d-8c94c223e92e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=102&tw_session_id=1794956621668-757810055&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f27bd8fd-8d5f-41bc-bcf7-4f99686120dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2eed5d65-cac3-4a05-b28d-8c94c223e92e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=102&tw_session_id=1794956621668-757810055&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c0e0f8cf-487e-4e9e-badd-3dd3d9fe5808&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2eed5d65-cac3-4a05-b28d-8c94c223e92e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=7408&tw_iframe_status=0&tw_pid_src=2&tw_session_count=102&tw_session_id=1794956621668-757810055&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c0e0f8cf-487e-4e9e-badd-3dd3d9fe5808&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2eed5d65-cac3-4a05-b28d-8c94c223e92e&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-victor-wembanyama-luka-doncic-on-tuesday-november-17&tw_engaged_ms=7408&tw_iframe_status=0&tw_pid_src=2&tw_session_count=102&tw_session_id=1794956621668-757810055&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
