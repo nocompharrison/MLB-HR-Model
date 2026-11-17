@@ -1,4 +1,4 @@
-# NFL transcripts | week 10 | updated 2026-11-16 06:47 ET
+# NFL transcripts | week 10 | updated 2026-11-16 20:15 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 128 files in NFL/transcripts/week-10:
 NFL/transcripts/week-10/-BTQNF0nJyA_Stokastic_Commanders_Giants_Showdown_Strategy_TNF_Week_10_DFS_Picks_NFL_DFS_Stra.txt
@@ -131,35 +131,33 @@ NFL/transcripts/week-10/zUaAH-Qx2hQ_BettingPros_Top_4_Bets_for_Sunday_NFL_Week_1
 NFL/transcripts/week-10/zjUqKl1Yrq8_PickDawgz_NFL_Picks_Predictions_For_Today_Monday_11_16_26_FREE_NFL_Best_Bets_and.txt
 
 # this run:
-NONE    channel Footballers: nothing new in the date window (or everything already saved)
+DEFER   Footballers i4Zdng3Z6AM Week 10 Studs & Duds + Dark Thoughts | Fantasy Football 2026  (YouTube rate limit - stopping transcript pulls this run)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-UPCOMING RotoGrinders fSSafZJ3_D0 Chargers vs. Ravens MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/16/26 7:30PM)
-NEW     NFL/transcripts/week-10/adzGUwQHl88_ShipItNation_NFL_DFS_Week_10_Contrarian_Constructions_Main_Slate_DraftKings_FanDuel.txt  (9,886 words)
-NOCAPS  ShipItNation ylje7fRXsKw Steelers vs Bengals NFL DFS Showdown | SNF Week 10 Sunday Sw  (no captions; Groq: live stream still processing - audio not final yet)
-UPCOMING ShipItNation TMUqW_cXVRY Chargers vs Ravens NFL DFS Showdown | MNF Week 10 Showdown S  (not aired yet - scheduled for 11/16/26 2:00PM)
-UPCOMING ShipItNation lI4OcVBYtss NFL DFS Week 10 Takedown Breakdown | Winning DraftKings Line  (not aired yet - scheduled for 11/16/26 12:00PM)
-NOCAPS  SGPN qKQ0k81udnw Monday Night Football Prop Bets + NFL Week 10 Recap  (no captions; Groq: live stream still processing - audio not final yet)
-UPCOMING SGPNPropcast QYk4MtkqBPM NFL Week 10 Monday Night Football Player Props - 11/16/26  (not aired yet - scheduled for 11/16/26 11:15AM)
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
+DEFER   RotoGrinders fSSafZJ3_D0 Chargers vs. Ravens MNF Showdown! - NFL DFS Picks & Strategy  (YouTube rate limit hit earlier this run)
+DEFER   ShipItNation TMUqW_cXVRY Chargers vs Ravens NFL DFS Showdown | MNF Week 10 Showdown S  (YouTube rate limit hit earlier this run)
+DEFER   ShipItNation lI4OcVBYtss NFL DFS Week 10 Takedown Breakdown | Winning DraftKings Line  (YouTube rate limit hit earlier this run)
+DEFER   ShipItNation ylje7fRXsKw Steelers vs Bengals NFL DFS Showdown | SNF Week 10 Sunday Sw  (YouTube rate limit hit earlier this run)
+DEFER   SGPN qKQ0k81udnw Monday Night Football Prop Bets + NFL Week 10 Recap  (YouTube rate limit hit earlier this run)
+DEFER   SGPNPropcast QYk4MtkqBPM NFL Week 10 Monday Night Football Player Props - 11/16/26  (YouTube rate limit hit earlier this run)
+DEFER   ActionNetwork 0e1wDXU64Q0 NFL Week 10 Recap & Reactions PLUS Chargers vs. Ravens Picks  (YouTube rate limit hit earlier this run)
+DEFER   DFSArmy YlsTje2jPSY Chargers vs Ravens Showdown Breakdown | Monday Night Footbal  (YouTube rate limit hit earlier this run)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible qAwkazwY7SY Week 10 early games RECAP; Which fantasy football players cr  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.9h ago))
-NEW     NFL/transcripts/week-10/rMeTx20EwNQ_PlayerProfiler_Week_10_NFL_Start_Sits_with_Chuck_Bass_and_The_Podfather.txt  (17,112 words)
-NEW     NFL/transcripts/week-10/3xjqfJvRCmM_Stokastic_NFL_DFS_Showdown_Live_Before_Lock_Steelers_Bengals_SNF_Week_10_DFS_Pic.txt  (8,507 words)
+DEFER   TheAudible qAwkazwY7SY Week 10 early games RECAP; Which fantasy football players cr  (YouTube rate limit hit earlier this run)
+NONE    channel PlayerProfiler: nothing new in the date window (or everything already saved)
+DEFER   Stokastic FgBB2wJCbQo Chargers-Ravens Showdown Strategy MNF Week 10 DFS Picks | NF  (YouTube rate limit hit earlier this run)
+DEFER   Stokastic JNQcd2dMy7M NFL DFS Showdown Live Before Lock | Chargers-Ravens MNF Week  (YouTube rate limit hit earlier this run)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-10/lZH_cd0irx8_LandYourBets_Chargers_vs_Ravens_Week_10_MNF_NFL_Best_Bets_Player_Props_November_16.txt  (3,267 words)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-10/_yFwRfY0D-w_FantasyAlarm_Fantasy_Football_Week_10_Start_Sit_Best_Bets_DFS_Picks_NFL_Inactives.txt  (10,998 words)
+DEFER   FantasyAlarm Wmuu79u-6Fs NFL Week 10 MNF Best Bets & Picks, Spreads & Props (Nov 16)  (YouTube rate limit hit earlier this run)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz 4VZXwTEifWc Chargers vs Ravens Picks & Predictions 11/16/26 - Monday Nig  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz fqrA1aF5rLs NFL Picks and Predictions 11/16/26 : The Lowdown With Jeremy  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
 DEFER   PickDawgz 6b1U76XDmao NFL Picks and Predictions for Today 11/16/2026 | Dawg of the  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NFL/transcripts/week-10/j74wIGLUbVQ_PickDawgz_LA_CHARGERS_VS_BALTIMORE_RAVENS_FREE_NFL_PICK_PREDICTION_The_Yang_Angl.txt  (473 words)
-NEW     NFL/transcripts/week-10/zjUqKl1Yrq8_PickDawgz_NFL_Picks_Predictions_For_Today_Monday_11_16_26_FREE_NFL_Best_Bets_and.txt  (2,800 words)
+DEFER   PickDawgz 4VZXwTEifWc Chargers vs Ravens Picks & Predictions 11/16/26 - Monday Nig  (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz fqrA1aF5rLs NFL Picks and Predictions 11/16/26 : The Lowdown With Jeremy  (YouTube rate limit hit earlier this run)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NOTE    deferred videos are picked up automatically on the next scheduled run
