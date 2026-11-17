@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-17 | updated 2026-11-17 18:34 ET
+# NBA transcripts | 2026-11-17 | updated 2026-11-17 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 25 files in NBA/transcripts/2026-11-17:
 NBA/transcripts/2026-11-17/-AeAxFU2qgg_NBAGamblingPod_NBA_Tuesday_Picks_11_17_26_NBA_Bets_Player_Props_and_Predictions.txt
@@ -40,6 +40,7 @@ NOCAPS  DFSArmy AjjViPI_0I8 NBA Pre-Lock Show: Top DFS Picks and Strategy for Dr
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 DEFER   Stokastic kPNsia5wWxY NBA DFS Strategy Friday 11/20/26 | DraftKings & FanDuel NBA   (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
 DEFER   Stokastic 7RkDWzxiMUg NBA DFS Live Before Lock (Friday 11/20/26) | DraftKings & Fa  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
+DEFER   Stokastic P6kJ81A-piE NBA DFS Live Before Lock (Tuesday 11/17/26) | DraftKings & F  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
 DEFER   Stokastic 5MAe2rlm-9E NBA DFS Live Before Lock (Monday 11/16/26) | DraftKings & Fa  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
 UPCOMING Stokastic Sm4ZgjsxZ4Y NBA DFS Strategy Wednesday 11/18/26 | DraftKings & FanDuel N  (not aired yet - scheduled for 11/18/26 9:00AM)
 UPCOMING Stokastic utmtQ5vMKyw NBA DFS Live Before Lock (Wednesday 11/18/26) | DraftKings &  (not aired yet - scheduled for 11/18/26 6:00PM)
@@ -57,7 +58,7 @@ UPCOMING SportsLine g8LDvUNDSEg NBA Bets + College Basketball Picks + NHL | Earl
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-17/YJrVAJmhLWQ_FantasyAlarm_NBA_DFS_Picks_Today_11_17_DraftKings_Lineup_Strategy_Top_Values.txt  (10,672 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
