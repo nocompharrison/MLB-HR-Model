@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-17 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-17 18:32 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,45 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
+[Neemias Queta](https://www.rotowire.com/basketball/player/neemias-queta-5333)[Off injury report](https://www.rotowire.com/basketball/headlines/neemias-queta-news-off-injury-report-539655)
+**C** Boston Celtics
+November 17, 2026
+Queta (rest) is available for Wednesday's game against the Nuggets, [Jack Simone of BostonSportsJournal.com](https://x.com/JackSimoneNBA/status/2122828309155463394?a=xG1r-e3KD1pWidWjAI0&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[GG Jackson](https://www.rotowire.com/basketball/player/gg-jackson-5946)[Undergoes surgery Tuesday](https://www.rotowire.com/basketball/headlines/gg-jackson-injury-undergoes-surgery-tuesday-539654)
+**F** Memphis Grizzlies
+Foot
+November 17, 2026
+Jackson [underwent a procedure Wednesday](https://x.com/GrizzliesPR/status/2122828917837103400?a=7HBWm_AK9L4Hkvps1Hc&s=20) to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Questionable against Atlanta](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-questionable-against-atlanta-539653)
+**C** Oklahoma City Thunder
+Back
+November 17, 2026
+Williams (back) is listed as questionable for Wednesday's game against the Hawks, [Clemente Almanza of USA Today](https://x.com/CAlmanza1007/status/2122827250307420457?a=b8mPDO_AqCTQgGyF5Ys&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Out for Wednesday](https://www.rotowire.com/basketball/headlines/jock-landale-injury-out-for-wednesday-539652)
+**C** Atlanta Hawks
+Hip
+November 17, 2026
+Landale (hip) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_06_00PM.pdf) Wednesday in Oklahoma City.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/kingston-flemings-injury-wont-play-wednesday-539651)
+**G** Atlanta Hawks
+Back
+November 17, 2026
+Flemings (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_06_00PM.pdf) for Wednesday's game against the Thunder.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Scottie Barnes](https://www.rotowire.com/basketball/player/scottie-barnes-5390)[Will play Tuesday](https://www.rotowire.com/basketball/headlines/scottie-barnes-news-will-play-tuesday-539650)
 **F** Toronto Raptors
@@ -167,45 +206,6 @@ Stewart (illness) [won't play](https://ak-static.cms.nba.com/referee/injury/Inju
 **F** Philadelphia 76ers
 November 17, 2026
 James (back) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf) for Wednesday's game against Orlando.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Out with hamstring strain](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-out-with-hamstring-strain-539630)
-**F** Philadelphia 76ers
-Hamstring
-November 17, 2026
-Brown is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf) for Wednesday's game against the Magic with a left hamstring strain.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-wont-play-wednesday-539629)
-**G** Memphis Grizzlies
-Hip
-November 17, 2026
-Jerome (hip) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf) for Wednesday's game in Cleveland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Ryan Rollins](https://www.rotowire.com/basketball/player/ryan-rollins-5668)[Cleared from injury report](https://www.rotowire.com/basketball/headlines/ryan-rollins-news-cleared-from-injury-report-539628)
-**G** Milwaukee Bucks
-November 17, 2026
-Rollins (illness) is off the [injury report](https://x.com/Bucks/status/2122811838882570712?a=2TZ0i0ByBSEisa41X6U&s=20) for Wednesday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/myron-gardner-injury-iffy-for-wednesday-539627)
-**F** Miami Heat
-Hamstring
-November 17, 2026
-Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2122803931315089539?a=NXpkvWK2bxavwRbEuPw&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Nikola Jovic](https://www.rotowire.com/basketball/player/nikola-jovic-5640)[Probable for Wednesday](https://www.rotowire.com/basketball/headlines/nikola-jovic-injury-probable-for-wednesday-539626)
-**F** Miami Heat
-Illness
-November 17, 2026
-Jovic (illness) is listed as probable for Wednesday's game against Milwaukee, [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2122803931315089539?a=NXpkvWK2bxavwRbEuPw&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
