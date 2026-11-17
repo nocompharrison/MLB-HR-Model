@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17 | fetched: 2026-11-17 11:05 ET -->
+<!-- source: https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17 | fetched: 2026-11-17 16:05 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Pistons vs. Spurs Prediction, Picks and Prop Bets (Nov. 17)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+6h
 Link
 ![Pistons vs. Spurs Prediction, Picks and Prop Bets \(Nov. 17\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdf063bc01bddfc673e4a149d78c7c884ec4da220-3755x2501.jpg%3Frect%3D0%2C281%2C2849%2C1410%26w%3D964%26h%3D477&w=1920&q=100)
 **Spurs vs. Pistons Top Bets at a Glance**
@@ -31,7 +31,7 @@ _Please note lines are subject to change throughout the day after this article i
 Spread
 San Antonio Spurs
 -9.5
--108
+-112
 Nov 18 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-san-antonio-spurs-36323394)
 Odds/lines subject to change
 After losing on opening night, the [San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/roster) have fallen only once more, sitting at 12-2, and their dominance shows up in the underlying numbers. San Antonio ranks first in net rating (+12.6), pairing a 119.2 offensive rating with a 106.6 defensive rating.
@@ -41,8 +41,8 @@ The [Detroit Pistons](https://sportsbook.fanduel.com/teams/nba/detroit-pistons/r
 ### [Victor Wembanyama Over 27.5 Points (-128)](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-san-antonio-spurs-36323394)
 Victor Wembanyama - Points
 Victor Wembanyama Over
-O 27.5
--128
+O 28.5
+-112
 Nov 18 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/detroit-pistons-@-san-antonio-spurs-36323394)
 Odds/lines subject to change
 Wembanyama has been a force offensively for San Antonio, and I'm backing him to deliver another big scoring performance against Detroit. Wembanyama is averaging 28.6 points per game this season, and he's been even better recently, averaging 31.2 points across his last 10 outings. He's surpassed 27.5 points in seven of those 10 games, giving us a favorable recent trend heading into tonight's matchup.
@@ -74,22 +74,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pistons vs. Spurs Prediction, Picks and Prop Bets (Nov. 17)](https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17)
-1h
+6h
 Pistons vs. Spurs picks and prediction for tonight.
 [](https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Tuesday, Nov. 17](https://www.fanduel.com/research/nba-props-today-player-prop-bets-tuesday-nov-17)
-1h
+6h
 NBA player props to target on Tuesday. What are the best prop bets for today?
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-tuesday-nov-17)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 3 NBA Predictions and Best Bets for Tuesday, Nov. 17](https://www.fanduel.com/research/nba-picks-today-predictions-best-bets-tuesday-nov-17)
-2h
+7h
 What are the best NBA picks and predictions for Tuesday?
 [](https://www.fanduel.com/research/nba-picks-today-predictions-best-bets-tuesday-nov-17)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Timberwolves vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 17](https://www.fanduel.com/research/timberwolves-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-17-2026)
-8h
+13h
 Find Timberwolves vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 17 NBA matchup.
 [](https://www.fanduel.com/research/timberwolves-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-17-2026)
 
