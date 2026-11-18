@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-18 | updated 2026-11-18 18:37 ET
+# NBA transcripts | 2026-11-18 | updated 2026-11-18 18:51 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 24 files in NBA/transcripts/2026-11-18:
 NBA/transcripts/2026-11-18/2XW3Q6U6PnE_PickDawgz_NBA_Picks_Today_11_18_26_Best_Wednesday_NBA_Bets_are_ON_DECK.txt
@@ -31,12 +31,11 @@ UPCOMING ActionNetwork bhd3aLrQJPM Top NBA Sides, Totals & Player Props for Thur
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-18/hQfr9Xq_MSM_WagerTalk_NBA_Picks_TODAY_Hawks_vs_Thunder_Warriors_vs_Mavericks_Wednesday_NBA_P.txt  (1,704 words)
 NOCAPS  WagerTalk hcdnsMEf3uU NBA Picks Today: Celtics vs Nuggets, Warriors vs Mavericks &  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk gMRv40EyG9o NBA Picks Today: Celtics vs Nuggets, Warriors vs Mavericks &  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  RotoGrinders QpHtx0MjoQ0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/18/2  (no captions; Groq: still live - audio not final yet)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NOCAPS  DFSArmy I7jiF7BjNmg NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: still live - audio not final yet)
+NOCAPS  DFSArmy I7jiF7BjNmg NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
@@ -51,7 +50,7 @@ UPCOMING SportsLine WXuGSk28eJg Thursday Night Football Picks + NBA Bets | Early
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-18/EKLuPHpkoic_FantasyAlarm_NBA_DFS_Picks_Today_11_18_DraftKings_Lineup_Strategy_Top_Values.txt  (10,918 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
