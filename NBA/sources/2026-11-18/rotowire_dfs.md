@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-18-146990 | fetched: 2026-11-18 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-18-146990 | fetched: 2026-11-18 18:50 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Wednesday, Nov. 18
 Get the best NBA bets today, with expert player prop picks on points, assists and made threes, plus odds from top sportsbooks for Wednesday’s Nov. 18 NBA slate.
@@ -25,11 +25,11 @@ _FanDuel, 3:43 PM ET_
 **Alex Barutha** : Murray has been great this season, averaging 26.1 points on 51/47/86 shooting. But this is one of the toughest matchups in the NBA. The Celtics are allowing the fewest points per game overall (103.3), and the most any guard is averaging against them this season is 24.0 points.
 ![FanDuel](https://objects.kaxmedia.com/auto/o/148014/a68085dd6d.png)
 NBA Player Prop | BOS @ DEN
-Jamal Murray Under 21.5 Points-108
+Jamal Murray Under 21.5 Points-111
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
-[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.63](https://bet.rotowire.com/fanduel/offer/12454)
+[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.50](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:46 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Josh Giddey**](https://www.rotowire.com/basketball/player/josh-giddey-5366)**over 8.5 assists at Brooklyn Nets (-113)**
 _DraftKings Sportsbook, 3pm ET_
 **Nick Whalen:** Giddey is off to a disappointing start to the season, overall, but that's due in large part to the Bulls getting blown out at the highest rate in the NBA. He's 5-for-5 in posting double-digit assists when he sees at least 30 minutes, and this should be a spot where the Bulls can play a competitive game. Even with the Bulls shooting just 44% from the field and a ghastly 30% from three, Giddey is averaging 8.5 APG on the season. His assist rate (43.3%) leads the NBA and is actually up roughly three percentage points from last season.
@@ -39,17 +39,17 @@ Josh Giddey Over 8.5 Assists-107
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.67](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:46 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Aaron Wiggins**](https://www.rotowire.com/basketball/player/aaron-wiggins-5412)**over 2.5 made threes at Oklahoma City Thunder (+102)**
 _DraftKings Sportsbook, 3pm ET_
 **Nick Whalen:** Wiggins is in the midst of a mini shooting slump, going just 2-of-11 from deep over his last two games, but he's taking over seven three per game over his last 10 and should be set for a bump in minutes with both [CJ McCollum](https://www.rotowire.com/basketball/player/cj-mccollum-3437) and [Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927) sidelined Wednesday. While OKC is a top-5 defense on the season, the Thunder give up the most opponent three-point attempts in the NBA.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | ATL @ OKC
-Aaron Wiggins Over 2.5 3-Pointers+104
+Aaron Wiggins Over 2.5 3-Pointers+105
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5.20](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5.25](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:46 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -137,13 +137,13 @@ Questionable with knee soreness
 NBA
 Detroit Pistons
   * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)
-Won't play Wednesday
+[Tyrese Maxey](https://www.rotowire.com/basketball/player/tyrese-maxey-5158)
+Ruled out for Wednesday
 NBA
 Philadelphia 76ers
   * ![Cleveland Cavaliers](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
-[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)
-Downgraded to out
+[Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)
+Joining starting lineup
 NBA
 Cleveland Cavaliers
 

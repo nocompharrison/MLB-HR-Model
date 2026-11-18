@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-18 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-18 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Tyrese Maxey](https://images.fantasypros.com/images/players/nba/5146/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tyrese-maxey.php)
+G - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/tyrese-maxey.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/tyrese-maxey.php)  
+[» More News](https://www.fantasypros.com/nba/news/tyrese-maxey.php)
+[Tyrese Maxey (foot) ruled out Wednesday ](https://www.fantasypros.com/nba/news/621100/tyrese-maxey-foot-ruled-out-wednesday.php)  
+
+Wed, Nov 18th 6:34pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Tyrese Maxey (foot) has been ruled out for Wednesday night’s contest between the Philadelphia 76ers and Orlando Magic according to Kris Rhim. (Source: [Kris Rhim on Twitter ](https://x.com/krisrhim1/status/2123197194870112705?a=QUV_ysMQ_VH8uik0n4Q&s=46))
+**_Fantasy Impact:_** Maxey will sit out the second leg of a back-to-back with right foot soreness, with LeBron James, VJ Edgecombe, and Joel Embiid to see increased usage against the Magic Wednesday night for head coach Nick Nurse.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jaxson Hayes](https://images.fantasypros.com/images/players/nba/4481/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaxson-hayes.php)
 C - UTH
 [» Rankings](https://www.fantasypros.com/nba/players/jaxson-hayes.php)  
@@ -270,20 +284,6 @@ Wed, Nov 18th 2:31pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Ronald Holland II has been ruled out for Wednesday’s game against the Pelicans. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_02_00PM.pdf))
 **_Fantasy Impact:_** Holland remains day-to-day. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Taurean Prince](https://images.fantasypros.com/images/players/nba/3224/headshot/100x100.png)](https://www.fantasypros.com/nba/players/taurean-prince.php)
-F - DET
-[» Rankings](https://www.fantasypros.com/nba/players/taurean-prince.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/taurean-prince.php)  
-[» More News](https://www.fantasypros.com/nba/news/taurean-prince.php)
-[Taurean Prince (knee) ruled out Wednesday ](https://www.fantasypros.com/nba/news/621021/taurean-prince-knee-ruled-out-wednesday.php)  
-
-Wed, Nov 18th 2:31pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Taurean Prince has been ruled out for Wednesday’s game against the Pelicans. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_02_00PM.pdf))
-**_Fantasy Impact:_** Prince has still yet to play for Detroit. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

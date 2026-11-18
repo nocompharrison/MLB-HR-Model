@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-18 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-18 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,50 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Al Horford](https://www.rotowire.com/basketball/player/al-horford-2816)[Won't play Wednesday, available Thursday](https://www.rotowire.com/basketball/headlines/al-horford-injury-wont-play-wednesday-available-thursday-539833)
+**C** Golden State Warriors
+Back
+November 18, 2026
+Horford (back) is out for Wednesday's game against the Mavericks, but he will play Thursday against the Grizzlies, [Nick Friedell of The Athletic](https://x.com/NickFriedell/status/2123198107429064733?a=JDJNb4h2CQVnf_NkAUM&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Tari Eason](https://www.rotowire.com/basketball/player/tari-eason-5704)[Headed to bench](https://www.rotowire.com/basketball/headlines/tari-eason-news-headed-to-bench-539832)
+**F** Houston Rockets
+November 18, 2026
+Eason will come off the bench in Wednesday's game against the Pacers, [Varun Shankar of the Houston Chronicle](https://x.com/ByVarunShankar/status/2123197879728677106) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Anfernee Simons](https://www.rotowire.com/basketball/player/anfernee-simons-4373)[Starting versus Magic](https://www.rotowire.com/basketball/headlines/anfernee-simons-news-starting-versus-magic-539831)
+**G** Philadelphia 76ers
+November 18, 2026
+Simons will start in Wednesday's game against Orlando, [Ky Carlin of USA Today](https://x.com/Ky_Carlin/status/2123197213509566806?a=pTqa0olo4d5oWH2UmJQ&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)[Available Wednesday](https://www.rotowire.com/basketball/headlines/draymond-green-news-available-wednesday-539830)
+**C** Golden State Warriors
+November 18, 2026
+Green (elbow) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_06_30PM.pdf) for Wednesday's game against the Mavericks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Kentavious Caldwell-Pope](https://www.rotowire.com/basketball/player/kentavious-caldwell-pope-3450)[Entering starting lineup](https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-entering-starting-lineup-539829)
+**G** Philadelphia 76ers
+November 18, 2026
+Caldwell-Pope is starting Wednesday's game against Orlando, per [Ky Carlin of USA Today](https://x.com/Ky_Carlin/status/2123197213509566806).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Tyrese Maxey](https://www.rotowire.com/basketball/player/tyrese-maxey-5158)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/tyrese-maxey-injury-ruled-out-for-wednesday-539828)
+**G** Philadelphia 76ers
+Foot
+November 18, 2026
+Maxey (foot) is out for Wednesday's game in Orlando, [Ky Carlin of USA Today](https://x.com/Ky_Carlin/status/2123197213509566806) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
 [Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)[Joining starting lineup](https://www.rotowire.com/basketball/headlines/mario-hezonja-news-joining-starting-lineup-539827)
 **F** Cleveland Cavaliers
@@ -155,51 +199,6 @@ Brown (hamstring) will be re-evaluated at some point this weekend, per [Kris Rih
 **F** Sacramento Kings
 November 18, 2026
 Achiuwa (lower leg) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_04_15PM.pdf) for Wednesday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[De'Andre Hunter](https://www.rotowire.com/basketball/player/deandre-hunter-4776)[Available Wednesday](https://www.rotowire.com/basketball/headlines/deandre-hunter-news-available-wednesday-539807)
-**F** Sacramento Kings
-November 18, 2026
-Hunter (hip) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_04_15PM.pdf) for Wednesday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Walker Kessler](https://www.rotowire.com/basketball/player/walker-kessler-5644)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/walker-kessler-news-good-to-go-wednesday-539806)
-**C** Los Angeles Lakers
-November 18, 2026
-Kessler (leg) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_04_00PM.pdf) for Wednesday's game against Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Jaxson Hayes](https://www.rotowire.com/basketball/player/jaxson-hayes-4771)[Listed as questionable](https://www.rotowire.com/basketball/headlines/jaxson-hayes-injury-listed-as-questionable-539805)
-**C** Utah Jazz
-Knee
-November 18, 2026
-Hayes (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_04_00PM.pdf) for Wednesday's game against the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/austin-reaves-injury-wont-play-wednesday-539804)
-**G** Los Angeles Lakers
-Heel
-November 18, 2026
-Reaves (heel) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_04_00PM.pdf) for Wednesday's game against the Jazz.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![FA](https://assets.rotowire.com/images/teamlogo/basketball/100FA.png?v=10)
-[Riley Minix](https://www.rotowire.com/basketball/player/riley-minix-6314)[Waived by Cavaliers](https://www.rotowire.com/basketball/headlines/riley-minix-news-waived-by-cavaliers-539801)
-**F** Free Agent
-November 18, 2026
-Minix was waived by the Cavaliers on Wednesday, [Danny Cunningham of Sports Radio 92.3 The Fan Cleveland](https://x.com/RealDCunningham/status/2123080984958796121) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)[Questionable with knee soreness](https://www.rotowire.com/basketball/headlines/cade-cunningham-injury-questionable-with-knee-soreness-539800)
-**G** Detroit Pistons
-Knee
-November 18, 2026
-Cunningham is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_02_00PM.pdf) for Wednesday's game against the Pelicans due to right knee soreness.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

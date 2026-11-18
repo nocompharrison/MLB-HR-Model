@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-18 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-18 18:50 ET -->
 
 # NBA DFS Picks Today
 November 18, 2026
@@ -24,37 +24,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Wednesday, November 18 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (24) All NBA news Atlanta Hawks (ATL @ OKC) Boston Celtics (BOS @ DEN) Brooklyn Nets (CHI @ BKN) Chicago Bulls (CHI @ BKN) Cleveland Cavaliers (MEM @ CLE) Dallas Mavericks (GSW @ DAL) Denver Nuggets (BOS @ DEN) Detroit Pistons (DET @ NOP) Golden State Warriors (GSW @ DAL) Houston Rockets (HOU @ IND) Indiana Pacers (HOU @ IND) Los Angeles Lakers (UTA @ LAL) Memphis Grizzlies (MEM @ CLE) Miami Heat (MIL @ MIA) Milwaukee Bucks (MIL @ MIA) New Orleans Pelicans (DET @ NOP) Oklahoma City Thunder (ATL @ OKC) Orlando Magic (PHI @ ORL) Philadelphia 76ers (PHI @ ORL) Phoenix Suns (PHX @ SAC) Sacramento Kings (PHX @ SAC) Toronto Raptors (WSH @ TOR) Utah Jazz (UTA @ LAL) Washington Wizards (WSH @ TOR)
-Cleveland CavaliersMEM @ CLE - 7:00 PM ET
-**[Mario Hezonja](https://www.rotowire.com/basketball/player/mario-hezonja-3578)** _F_ _Top_ 6:28 PM ET
-#### Joining starting lineup
-Hezonja is in the starting lineup for Wednesday's game against the Grizzlies, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.
+Golden State WarriorsGSW @ DAL - 8:00 PM ET
+**[Al Horford](https://www.rotowire.com/basketball/player/al-horford-2816)** _C_ OUT6:38 PM ET
+#### Won't play Wednesday, available Thursday
+Horford (back) is out for Wednesday's game against the Mavericks, but he will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports.
 Analysis
-With Cleveland inserting him into the first unit Wednesday, Hezonja is in line for a larger role than he had against the Bulls on Monday, when he was not part of the starting five. His place alongside Donovan Mitchell, James Harden and Jarrett Allen should help him find plenty of open looks from three-point land.
+Horford will miss the first half of a back-to-back set Wednesday due to a back injury, but he will be available Thursday. Charles Bassey could see an expanded role in Horford's absence, while Horford could see a larger role than usual Thursday, as Draymond Green is set to rest.
+Houston RocketsHOU @ IND - 7:00 PM ET
+**[Tari Eason](https://www.rotowire.com/basketball/player/tari-eason-5704)** _F_ 6:37 PM ET
+#### Headed to bench
+Eason will come off the bench in Wednesday's game against the Pacers, Varun Shankar of the Houston Chronicle reports.
+Analysis
+Amen Thompson (knee) is back and starting after a one-game absence, so Eason will return to a reserve role. As a member of the second unit this season, Eason is averaging 11.2 points, 6.0 rebounds and 1.1 triples per game.
 Philadelphia 76ersPHI @ ORL - 7:00 PM ET
-**[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)** _F_ OUT _Top_ 6:19 PM ET
-#### Won't play Wednesday
-Wade (hamstring) is out for Wednesday's game in Orlando.
+**[Anfernee Simons](https://www.rotowire.com/basketball/player/anfernee-simons-4373)** _G_ 6:36 PM ET
+#### Starting versus Magic
+Simons will start in Wednesday's game against Orlando, Ky Carlin of USA Today reports.
 Analysis
-With both Wade and Jaylen Brown (hamstring) out for Wednesday's game, Kentavious Caldwell-Pope could draw a spot-start, and there will be more minutes available for Jabari Walker and Justin Edwards. Wade's next chance to play will come Saturday against the Bucks.
-Cleveland CavaliersMEM @ CLE - 7:00 PM ET
-**[Sam Merrill](https://www.rotowire.com/basketball/player/sam-merrill-5254)** _G_ 6:18 PM ET
-#### Returning against Memphis
-Merrill (elbow) is available for Wednesday's game against the Grizzlies, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports.
+With Jaylen Brown (hamstring), Dean Wade (hamstring) and Tyrese Maxey (foot) unavailable, Simons will start for the first time this season. The 27-year-old started five times during the 2025-26 campaign, averaging 17.4 points, 3.0 rebounds and 3.6 assists over 31.4 minutes per contest.
+Golden State WarriorsGSW @ DAL - 8:00 PM ET
+**[Draymond Green](https://www.rotowire.com/basketball/player/draymond-green-3299)** _C_ 6:36 PM ET
+#### Available Wednesday
+Green (elbow) is available for Wednesday's game against the Mavericks.
 Analysis
-Merrill has missed the Cavaliers' last six games due to an elbow injury. With Evan Mobley (toe), Jaylon Tyson (ankle) and Peyton Watson (back) unavailable, Merrill may enter the starting lineup for the second time this season. If not, he should still receive plenty of minutes off the bench.
-Cleveland CavaliersMEM @ CLE - 7:00 PM ET
-**[Peyton Watson](https://www.rotowire.com/basketball/player/peyton-watson-5722)** _F_ OUT _Top_ 6:17 PM ET
-#### Downgraded to out
-Watson (back) is out for Wednesday's game versus Memphis.
-Analysis
-Watson's next chance to play comes Friday against Indiana. With Jaylon Tyson (ankle) also ruled out, Tyrese Proctor, Mario Hezonja and Meleek Thomas should each play significant minutes for Cleveland on Wednesday.
+Green was deemed questionable ahead of Wednesday's bout due to a right elbow injury, but he will be able to play through it. Over his last five appearances, Green holds averages of 3.4 points, 6.8 assists, 5.0 rebounds and 1.0 steals in 24.6 minutes per contest.
 Philadelphia 76ersPHI @ ORL - 7:00 PM ET
-**[Tyrese Maxey](https://www.rotowire.com/basketball/player/tyrese-maxey-5158)** _G_ Q _Top_ 5:59 PM ET
-#### Questionable for Wednesday
-Maxey is questionable for Wednesday's game in Orlando due to right foot soreness, Gina Mizell of The Philadelphia Inquirer reports.
+**[Kentavious Caldwell-Pope](https://www.rotowire.com/basketball/player/kentavious-caldwell-pope-3450)** _G_ 6:34 PM ET
+#### Entering starting lineup
+Caldwell-Pope is starting Wednesday's game against Orlando, per Ky Carlin of USA Today.
 Analysis
-Maxey came out for his pregame routine and then quickly retreated to the locker room, where his injury status was updated, which is not a great sign. If Maxey misses Wednesday's game, VJ Edgecombe, LeBron James and Joel Embiid would see an uptick in usage, and there would be more minutes available for Anfernee Simons and Kentavious Caldwell-Pope.
-Show 5 more (60 remaining)
+The veteran wing is making his second start of the season for the 76ers on Wednesday. Caldwell-Pope makes for a decent streaming option for fantasy managers in a pinch.
+Show 5 more (66 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -64,9 +64,9 @@ DraftKings FanDuel
 Main Slate - 9 games - 7:00 PM Nov 19 - Main Slate - 4 games - 8:00 PM (lineups pending) Main Slate - 3 games - 9:30 PM Main Slate - 3 games - 8:00 PM Main Slate - 2 games - 7:30 PM Showdown - CHA @ LAL - 12:30 AM (lineups pending) Nov 19 - Showdown - NYK @ MIN - 9:00 PM (lineups pending) Showdown - UTA @ LAL - 11:00 PM Showdown - BOS @ DEN - 9:30 PM Showdown - MIL @ MIA - 7:00 PM Nov 19 - Showdown - NYK @ MIN - 8:00 PM (lineups pending) Showdown - UTA @ LAL - 10:00 PM Main Slate - 9 games - 7:00 PM Nov 19 - Main Slate - 4 games - 8:00 PM (lineups pending) Main Slate - 3 games - 9:30 PM All games (9) MEM @ CLE - 7:00 PM ET HOU @ IND - 7:00 PM ET MIL @ MIA - 7:00 PM ET PHI @ ORL - 7:00 PM ET CHI @ BKN - 7:30 PM ET WSH @ TOR - 7:30 PM ET GSW @ DAL - 8:00 PM ET DET @ NOP - 8:00 PM ET ATL @ OKC - 8:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **MEM @ CLE**
-O/U 238.57:00 PM ET
+O/U 239.57:00 PM ET
 GrizzliesExpectedAway
-_Implied_**117.0** _Spread_**+4.5**  
+_Implied_**117.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Zach Edey  | $4,700  | 27.8  |  
@@ -75,7 +75,7 @@ _Implied_**117.0** _Spread_**+4.5**
 | SF  | Jaylen Wells  | $4,300  | 25.1  |  
 | SG  | Cedric Coward  | $6,700  | 40.4  |  
 CavaliersConfirmedHome
-_Implied_**121.5** _Spread_**-4.5**  
+_Implied_**122.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,000  | 31.3  |  
@@ -84,9 +84,9 @@ _Implied_**121.5** _Spread_**-4.5**
 | SF  | Tyrese Proctor  | $6,100  | 29.8  |  
 | SG  | Donovan Mitchell  | $8,600  | 47.0  |  
 **HOU @ IND**
-O/U 224.57:00 PM ET
-RocketsExpectedAway
-_Implied_**116.5** _Spread_**-8.5**  
+O/U 225.57:00 PM ET
+RocketsConfirmedAway
+_Implied_**117.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alperen Sengun  | $9,500  | 47.3  |  
@@ -94,8 +94,8 @@ _Implied_**116.5** _Spread_**-8.5**
 | PG  | Fred VanVleet  | $5,900  | 26.6  |  
 | SF  | Kevin Durant  | $7,700  | 36.4  |  
 | SG  | Amen Thompson  | $7,000  | 35.5  |  
-PacersExpectedHome
-_Implied_**108.0** _Spread_**+8.5**  
+PacersConfirmedHome
+_Implied_**108.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ivica Zubac  | $6,200  | 27.2  |  
@@ -124,18 +124,18 @@ _Implied_**123.5** _Spread_**-11.5**
 | SF  | Pelle Larsson  | $5,300  | 20.5  |  
 | SG  | Klay Thompson  | $5,200  | 26.7  |  
 **PHI @ ORL**
-O/U 220.57:00 PM ET
+O/U 218.57:00 PM ET
 76ersExpectedAway
-_Implied_**109.0** _Spread_**+2.5**  
+_Implied_**107.5** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Joel Embiid  | $8,300  | 41.0  |  
 | PF  | LeBron James  | $7,800  | 41.2  |  
-| PG  | Tyrese MaxeyQ  | $8,800  | 41.6  |  
+| PG  | Anfernee Simons  | $4,100  | 21.1  |  
 | SF  | Kentavious Caldwell-Pope  | $4,200  | 17.2  |  
 | SG  | VJ Edgecombe  | $6,400  | 30.1  |  
 MagicExpectedHome
-_Implied_**111.5** _Spread_**-2.5**  
+_Implied_**111.0** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $6,400  | 24.9  |  
@@ -144,9 +144,9 @@ _Implied_**111.5** _Spread_**-2.5**
 | SF  | Desmond Bane  | $6,900  | 33.1  |  
 | SG  | Anthony Black  | $6,500  | 29.4  |  
 **CHI @ BKN**
-O/U 238.57:30 PM ET
+O/U 239.57:30 PM ET
 BullsExpectedAway
-_Implied_**118.5** _Spread_**+1.5**  
+_Implied_**119.0** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $5,900  | 25.0  |  
@@ -155,7 +155,7 @@ _Implied_**118.5** _Spread_**+1.5**
 | SF  | Isaac Okoro  | $4,200  | 18.9  |  
 | SG  | Norman Powell  | $6,200  | 31.9  |  
 NetsExpectedHome
-_Implied_**120.0** _Spread_**-1.5**  
+_Implied_**120.5** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Day'Ron Sharpe  | $5,900  | 32.8  |  
@@ -184,18 +184,18 @@ _Implied_**113.5** _Spread_**-3.5**
 | SF  | Ja'Kobe Walter  | $5,400  | 32.5  |  
 | SG  | Jamal Shead  | $5,600  | 28.4  |  
 **GSW @ DAL**
-O/U 225.58:00 PM ET
+O/U 224.58:00 PM ET
 WarriorsExpectedAway
-_Implied_**110.5** _Spread_**+4.5**  
+_Implied_**110.0** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Al HorfordQ  | $3,500  | 14.6  |  
-| PF  | Draymond GreenQ  | $5,000  | 25.4  |  
+| C  | Charles Bassey  | $4,000  | 14.0  |  
+| PF  | Draymond Green  | $5,000  | 25.4  |  
 | PG  | LJ Cryer  | $3,800  | 15.6  |  
 | SF  | Yaxel Lendeborg  | $8,300  | 42.4  |  
 | SG  | Brandin Podziemski  | $7,100  | 36.0  |  
 MavericksExpectedHome
-_Implied_**115.0** _Spread_**-4.5**  
+_Implied_**114.5** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $4,900  | 20.9  |  
@@ -204,9 +204,9 @@ _Implied_**115.0** _Spread_**-4.5**
 | SF  | Cooper Flagg  | $9,900  | 43.7  |  
 | SG  | Caleb Martin  | $4,200  | 17.9  |  
 **DET @ NOP**
-O/U 226.58:00 PM ET
+O/U 225.58:00 PM ET
 PistonsExpectedAway
-_Implied_**115.5** _Spread_**-4.5**  
+_Implied_**115.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | John Collins  | $5,200  | 29.0  |  
@@ -215,7 +215,7 @@ _Implied_**115.5** _Spread_**-4.5**
 | SF  | Kevin Huerter  | $4,900  | 30.9  |  
 | SG  | Daniss Jenkins  | $6,200  | 38.1  |  
 PelicansExpectedHome
-_Implied_**111.0** _Spread_**+4.5**  
+_Implied_**110.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Yves Missi  | $5,500  | 24.0  |  

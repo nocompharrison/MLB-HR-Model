@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-player-props-today-wednesday-nov-18-26 | fetched: 2026-11-18 18:35 ET -->
+<!-- source: https://www.fanduel.com/research/nba-player-props-today-wednesday-nov-18-26 | fetched: 2026-11-18 18:50 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Player Props Today: 3 Prop Bets for Wednesday, Nov. 18
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![Best NBA Player Props Today: 3 Prop Bets for Wednesday, Nov. 18](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F532bd4cb9748c57d575b98a10eb1afd30cef8cf9-3936x2632.jpg%3Frect%3D0%2C9%2C3936%2C1948%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -42,7 +42,7 @@ The matchup with the [Milwaukee Bucks](https://sportsbook.fanduel.com/teams/nba/
 VJ Edgecombe - Points
 VJ Edgecombe Over
 O 14.5
--106
+-130
 Nov 19 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/philadelphia-76ers-@-orlando-magic-36327270)
 Odds/lines subject to change
 [VJ Edgecombe](https://sportsbook.fanduel.com/teams/nba/roster/vj-edgecombe-3423) is averaging 12.9 points and roughly 34 minutes per game for the [Philadelphia 76ers](https://sportsbook.fanduel.com/teams/nba/philadelphia-76ers/odds), and his opportunities go beyond spot-up shooting. NBA tracking data credits him with 7.5 drives and 3.9 catch-and-shoot three-point attempts per game, giving him multiple routes to a scoring total. 
@@ -103,7 +103,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 Prop Bets for Wednesday, Nov. 18](https://www.fanduel.com/research/nba-player-props-today-wednesday-nov-18-26)
-1h
+2h
 What aronight's best NBA player prop bets to target?
 [](https://www.fanduel.com/research/nba-player-props-today-wednesday-nov-18-26)
 [NBA](https://www.fanduel.com/research/nba)
