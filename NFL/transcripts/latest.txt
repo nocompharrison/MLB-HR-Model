@@ -1,49 +1,51 @@
-# NFL transcripts | week 11 | updated 2026-11-17 20:18 ET
+# NFL transcripts | week 11 | updated 2026-11-18 06:46 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 13 files in NFL/transcripts/week-11:
+# 17 files in NFL/transcripts/week-11:
 NFL/transcripts/week-11/02hJOyMh_7g_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_11_Predictions_2026.txt
 NFL/transcripts/week-11/5cdAUgG35WU_FootballersDFS_Week_11_NFL_Preview_Cutting_Down_Trees_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-11/5dbWZ3toXd0_Stokastic_NFL_DFS_First_Look_Week_11_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-11/5o1T76JCwmA_Footballers_Week_11_Waivers_Streamers_BYE_pocalypse_Fantasy_Football_2026_Ep_2017.txt
+NFL/transcripts/week-11/789Ik3cxBvA_FantasyAlarm_Sirius_XM_Fantasy_Sports_Radio_The_Chargers_are_the_WORST_team_in_the.txt
+NFL/transcripts/week-11/IkEIpHGQljw_FantasyAlarm_Week_11_Waiver_Wire_Adds_For_Fantasy_Football.txt
 NFL/transcripts/week-11/S7OxoXVeydA_PlayerProfiler_Week_11_TOP_Kickers_Defenses_High_Upside_Streamers.txt
 NFL/transcripts/week-11/SKxJJ-nFhmk_BettingPros_NFL_Week_11_Early_Picks_Line_Movement_Predictions_2026.txt
 NFL/transcripts/week-11/WtqmbIq6z50_PlayerProfiler_Top_10_Takeaways_Buy_High_and_Sell_Low_Players_and_the_key_usage_trend.txt
+NFL/transcripts/week-11/YtV2HAB1_4s_TheAudible_Could_Kaelon_Black_win_your_fantasy_championship_Week_11_waiver_wire_t.txt
 NFL/transcripts/week-11/dE3-Hu4tF1o_ActionNetwork_Top_Week_11_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority.txt
 NFL/transcripts/week-11/k2ninqWzzho_CallingOurShot_NFL_Week_11_Best_Picks_Predictions.txt
 NFL/transcripts/week-11/mXq0ed7wJ6o_TheAudible_Is_it_time_to_put_Tyler_Warren_out_to_pasture_Sabotage_Drop_of_The_Wee.txt
 NFL/transcripts/week-11/sND1CcH2VuY_SportsLine_NFL_Week_11_Bets_to_Make_Before_Lines_Move.txt
+NFL/transcripts/week-11/sVLINw-77As_SGPN_Thursday_Night_Football_Week_11_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-11/xhx0JC2K8Yg_PlayerProfiler_Week_11_Waiver_Wire_Targets_2026_Top_Fantasy_Football_Pickups.txt
 NFL/transcripts/week-11/yKbocbljU_Q_ActionNetwork_NFL_Futures_Bets_Best_Midseason_Awards_Picks_in_Prediction_Markets.txt
 
 # this run:
-NEW     NFL/transcripts/week-11/5o1T76JCwmA_Footballers_Week_11_Waivers_Streamers_BYE_pocalypse_Fantasy_Football_2026_Ep_2017.txt  (10,695 words)
-NEW     NFL/transcripts/week-11/5cdAUgG35WU_FootballersDFS_Week_11_NFL_Preview_Cutting_Down_Trees_Fantasy_Football_DFS_Betting.txt  (11,048 words)
+NONE    channel Footballers: nothing new in the date window (or everything already saved)
+NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NOCAPS  SGPN sVLINw-77As Thursday Night Football Week 11 Prop Bets, Best Bets & Predi  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-11/sVLINw-77As_SGPN_Thursday_Night_Football_Week_11_Prop_Bets_Best_Bets_Predictions.txt  (9,184 words)
 UPCOMING SGPNPropcast pYdM6APMZqY NFL Week 11 Thursday Night Football Player Props - 11/18/26  (not aired yet - scheduled for 11/18/26 11:05AM)
-NEW     NFL/transcripts/week-11/yKbocbljU_Q_ActionNetwork_NFL_Futures_Bets_Best_Midseason_Awards_Picks_in_Prediction_Markets.txt  (12,939 words)
-NEW     NFL/transcripts/week-11/dE3-Hu4tF1o_ActionNetwork_Top_Week_11_Waiver_Wire_Targets_NFL_Fantasy_Football_RBs_WRs_Priority.txt  (10,374 words)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NOCAPS  TheAudible YtV2HAB1_4s Could Kaelon Black win your fantasy championship? Week 11 wa  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-11/mXq0ed7wJ6o_TheAudible_Is_it_time_to_put_Tyler_Warren_out_to_pasture_Sabotage_Drop_of_The_Wee.txt  (5,053 words)
-NEW     NFL/transcripts/week-11/WtqmbIq6z50_PlayerProfiler_Top_10_Takeaways_Buy_High_and_Sell_Low_Players_and_the_key_usage_trend.txt  (15,452 words)
-NEW     NFL/transcripts/week-11/5dbWZ3toXd0_Stokastic_NFL_DFS_First_Look_Week_11_Picks_NFL_DFS_Strategy.txt  (12,617 words)
+NEW     NFL/transcripts/week-11/YtV2HAB1_4s_TheAudible_Could_Kaelon_Black_win_your_fantasy_championship_Week_11_waiver_wire_t.txt  (4,792 words)
+NONE    channel PlayerProfiler: nothing new in the date window (or everything already saved)
 UPCOMING Stokastic Y0OxbpEhzYU Week 11 NFL DFS: Single Lineup Sim Building | NFL DFS Strate  (not aired yet - scheduled for 11/18/26 10:00AM)
 UPCOMING Stokastic 5_wtiQwIytM Colts-Texans Showdown Strategy TNF Week 11 DFS Picks | NFL D  (not aired yet - scheduled for 11/19/26 10:00AM)
 UPCOMING Stokastic 3QxL2KL39zU NFL DFS Showdown Live Before Lock | Colts-Texans TNF Week 11  (not aired yet - scheduled for 11/19/26 7:15PM)
 UPCOMING Stokastic UBEW1YdeKTU NFL DFS Sims Tournament Strategy Week 11 | NFL DFS Strategy  (not aired yet - scheduled for 11/20/26 10:00AM)
-NEW     NFL/transcripts/week-11/02hJOyMh_7g_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_11_Predictions_2026.txt  (4,936 words)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 UPCOMING SportsLine T6Jp25HAiuU NFL Picks: Bets for Every Week 11 Game!  (not aired yet - scheduled for 11/18/26 3:00PM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm IkEIpHGQljw Week 11 Waiver Wire Adds For Fantasy Football!  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-11/IkEIpHGQljw_FantasyAlarm_Week_11_Waiver_Wire_Adds_For_Fantasy_Football.txt  (11,760 words)
+NEW     NFL/transcripts/week-11/789Ik3cxBvA_FantasyAlarm_Sirius_XM_Fantasy_Sports_Radio_The_Chargers_are_the_WORST_team_in_the.txt  (323 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-11/k2ninqWzzho_CallingOurShot_NFL_Week_11_Best_Picks_Predictions.txt  (11,721 words)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
