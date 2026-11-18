@@ -1,4 +1,4 @@
-<!-- source: https://barttorvik.com/schedule.php?date=20261118 | fetched: 2026-11-18 11:18 ET -->
+<!-- source: https://barttorvik.com/schedule.php?date=20261118 | fetched: 2026-11-18 17:03 ET -->
 
 2027 2027; 2026; 2025; 2024; 2023; 2022; 2021; 2020; 2019; 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008;
 Click Here or Go Landscape for Full Site Layout
@@ -9,14 +9,14 @@ Conf.:  ALL NCAA-T Conf. Trny H.Maj. Mid Maj. A10 ACC AE ASun Amer B10 B12 BE BS
 | [Time](https://barttorvik.com/schedule.php?sort=time&date=20261118&conlimit=)  | Matchup  | [T-Rank Line](https://barttorvik.com/schedule.php?sort=close&date=20261118&conlimit=)  | [TTQ](https://barttorvik.com/schedule.php?date=20261118&conlimit=)  | Result  |  
 | --- | --- | --- | --- | --- |  
 |  04:30 PM  |  4 [Florida](https://barttorvik.com/team.php?team=Florida&year=2027)   
-vs 3 [Houston](https://barttorvik.com/team.php?team=Houston&year=2027) ESPN  | [Houston -0.3,  
+vs 3 [Houston](https://barttorvik.com/team.php?team=Houston&year=2027) ESPN  | [Houston -0.2,  
 73-72 (51%)](https://barttorvik.com/matchup.php?year=2027&t1l=Florida&t2l=Houston&)  | 97  | [](https://barttorvik.com/box.php?muid=FloridaHouston11-18&year=2027)  |  
 |  09:00 PM  |  7 [Connecticut](https://barttorvik.com/team.php?team=Connecticut&year=2027)   
 at 9 [Arizona](https://barttorvik.com/team.php?team=Arizona&year=2027) FS1  | [Arizona -3.4,  
 74-71 (63%)](https://barttorvik.com/matchup.php?year=2027&t1l=Connecticut&t2l=Arizona&)  | 87  | [](https://barttorvik.com/box.php?muid=ConnecticutArizona11-18&year=2027)  |  
-|  02:00 PM  |  71 [Notre Dame](https://barttorvik.com/team.php?team=Notre+Dame&year=2027)   
+|  02:00 PM  |  69 [Notre Dame](https://barttorvik.com/team.php?team=Notre+Dame&year=2027)   
 vs 79 [Rutgers](https://barttorvik.com/team.php?team=Rutgers&year=2027) ESPN  | [Notre Dame -1.4,  
-77-76 (55%)](https://barttorvik.com/matchup.php?year=2027&t1l=Notre+Dame&t2l=Rutgers&)  | 74  | [](https://barttorvik.com/box.php?muid=Notre+DameRutgers11-18&year=2027)  |  
+77-76 (55%)](https://barttorvik.com/matchup.php?year=2027&t1l=Notre+Dame&t2l=Rutgers&)  | 73  | [Notre Dame, 110-100 (OT)](https://barttorvik.com/box.php?muid=Notre+DameRutgers11-18&year=2027)  |  
 |  07:30 PM  |  1 [Kansas](https://barttorvik.com/team.php?team=Kansas&year=2027)   
 vs 38 [West Virginia](https://barttorvik.com/team.php?team=West+Virginia&year=2027) ESPN2  | [Kansas -8.6,  
 78-69 (80%)](https://barttorvik.com/matchup.php?year=2027&t1l=Kansas&t2l=West+Virginia&)  | 73  | [](https://barttorvik.com/box.php?muid=KansasWest+Virginia11-18&year=2027)  |  
@@ -28,12 +28,12 @@ vs 103 [UNLV](https://barttorvik.com/team.php?team=UNLV&year=2027) ESPN2  | [Aub
 84-76 (76%)](https://barttorvik.com/matchup.php?year=2027&t1l=Auburn&t2l=UNLV&)  | 61  | [](https://barttorvik.com/box.php?muid=AuburnUNLV11-18&year=2027)  |  
 |  08:00 PM  |  105 [Boston College](https://barttorvik.com/team.php?team=Boston+College&year=2027)   
 at 143 [Harvard](https://barttorvik.com/team.php?team=Harvard&year=2027) ESPN+  | [Harvard -0.3,  
-63-62 (51%)](https://barttorvik.com/matchup.php?year=2027&t1l=Boston+College&t2l=Harvard&)  | 58  | [](https://barttorvik.com/box.php?muid=Boston+CollegeHarvard11-18&year=2027)  |  
+64-63 (51%)](https://barttorvik.com/matchup.php?year=2027&t1l=Boston+College&t2l=Harvard&)  | 58  | [](https://barttorvik.com/box.php?muid=Boston+CollegeHarvard11-18&year=2027)  |  
 |  10:00 PM  |  133 [Hawaii](https://barttorvik.com/team.php?team=Hawaii&year=2027)   
 vs 162 [Washington St.](https://barttorvik.com/team.php?team=Washington+St.&year=2027)  | [Hawaii -2.1,  
 75-72 (58%)](https://barttorvik.com/matchup.php?year=2027&t1l=Hawaii&t2l=Washington+St.&)  | 55  | [](https://barttorvik.com/box.php?muid=HawaiiWashington+St.11-18&year=2027)  |  
 |  06:30 PM  |  208 [Tennessee Tech](https://barttorvik.com/team.php?team=Tennessee+Tech&year=2027)   
-at 274 [UNC Asheville](https://barttorvik.com/team.php?team=UNC+Asheville&year=2027) ESPN+  | [UNC Asheville -0.6,  
+at 273 [UNC Asheville](https://barttorvik.com/team.php?team=UNC+Asheville&year=2027) ESPN+  | [UNC Asheville -0.6,  
 79-78 (52%)](https://barttorvik.com/matchup.php?year=2027&t1l=Tennessee+Tech&t2l=UNC+Asheville&)  | 52  | [](https://barttorvik.com/box.php?muid=Tennessee+TechUNC+Asheville11-18&year=2027)  |  
 |  07:00 PM  |  140 [James Madison](https://barttorvik.com/team.php?team=James+Madison&year=2027)   
 at 148 [Towson](https://barttorvik.com/team.php?team=Towson&year=2027) FloSports  | [Towson -3.3,  
@@ -43,33 +43,33 @@ at 13 [St. John's](https://barttorvik.com/team.php?team=St.+John%27s&year=2027) 
 102-72 (97%)](https://barttorvik.com/matchup.php?year=2027&t1l=Siena&t2l=St.+John%27s&)  | 50  | [](https://barttorvik.com/box.php?muid=SienaSt.+John%27s11-18&year=2027)  |  
 |  09:00 PM  |  176 [Fresno St.](https://barttorvik.com/team.php?team=Fresno+St.&year=2027)   
 at 173 [San Jose St.](https://barttorvik.com/team.php?team=San+Jose+St.&year=2027) MW+  | [San Jose St. -4.1,  
-80-75 (65%)](https://barttorvik.com/matchup.php?year=2027&t1l=Fresno+St.&t2l=San+Jose+St.&)  | 49  | [](https://barttorvik.com/box.php?muid=Fresno+St.San+Jose+St.11-18&year=2027)  |  
+80-76 (65%)](https://barttorvik.com/matchup.php?year=2027&t1l=Fresno+St.&t2l=San+Jose+St.&)  | 49  | [](https://barttorvik.com/box.php?muid=Fresno+St.San+Jose+St.11-18&year=2027)  |  
 |  07:00 PM  |  151 [Howard](https://barttorvik.com/team.php?team=Howard&year=2027)   
 at 128 [Duquesne](https://barttorvik.com/team.php?team=Duquesne&year=2027) ESPN+  | [Duquesne -5.6,  
 76-70 (71%)](https://barttorvik.com/matchup.php?year=2027&t1l=Howard&t2l=Duquesne&)  | 48  | [](https://barttorvik.com/box.php?muid=HowardDuquesne11-18&year=2027)  |  
 |  06:30 PM  |  224 [Chattanooga](https://barttorvik.com/team.php?team=Chattanooga&year=2027)   
-at 257 [Winthrop](https://barttorvik.com/team.php?team=Winthrop&year=2027) ESPN+  | [Winthrop -2.7,  
-83-80 (59%)](https://barttorvik.com/matchup.php?year=2027&t1l=Chattanooga&t2l=Winthrop&)  | 47  | [](https://barttorvik.com/box.php?muid=ChattanoogaWinthrop11-18&year=2027)  |  
-|  07:00 PM  |  273 [Wofford](https://barttorvik.com/team.php?team=Wofford&year=2027)   
+at 257 [Winthrop](https://barttorvik.com/team.php?team=Winthrop&year=2027) ESPN+  | [Winthrop -2.6,  
+83-80 (59%)](https://barttorvik.com/matchup.php?year=2027&t1l=Chattanooga&t2l=Winthrop&)  | 48  | [](https://barttorvik.com/box.php?muid=ChattanoogaWinthrop11-18&year=2027)  |  
+|  07:00 PM  |  272 [Wofford](https://barttorvik.com/team.php?team=Wofford&year=2027)   
 at 314 [Charleston Southern](https://barttorvik.com/team.php?team=Charleston+Southern&year=2027) ESPN+  | [Charleston Southern -1.0,  
 79-78 (54%)](https://barttorvik.com/matchup.php?year=2027&t1l=Wofford&t2l=Charleston+Southern&)  | 46  | [](https://barttorvik.com/box.php?muid=WoffordCharleston+Southern11-18&year=2027)  |  
-|  07:00 PM  |  178 [Vermont](https://barttorvik.com/team.php?team=Vermont&year=2027)   
-at 184 [Yale](https://barttorvik.com/team.php?team=Yale&year=2027) ESPN+  | [Yale -3.2,  
-71-68 (63%)](https://barttorvik.com/matchup.php?year=2027&t1l=Vermont&t2l=Yale&)  | 44  | [](https://barttorvik.com/box.php?muid=VermontYale11-18&year=2027)  |  
 |  09:00 PM  |  165 [Portland](https://barttorvik.com/team.php?team=Portland&year=2027)   
 at 97 [Colorado](https://barttorvik.com/team.php?team=Colorado&year=2027) ESPN+  | [Colorado -11.0,  
 82-71 (83%)](https://barttorvik.com/matchup.php?year=2027&t1l=Portland&t2l=Colorado&)  | 44  | [](https://barttorvik.com/box.php?muid=PortlandColorado11-18&year=2027)  |  
+|  07:00 PM  |  177 [Vermont](https://barttorvik.com/team.php?team=Vermont&year=2027)   
+at 184 [Yale](https://barttorvik.com/team.php?team=Yale&year=2027) ESPN+  | [Yale -3.3,  
+71-68 (63%)](https://barttorvik.com/matchup.php?year=2027&t1l=Vermont&t2l=Yale&)  | 44  | [](https://barttorvik.com/box.php?muid=VermontYale11-18&year=2027)  |  
 |  07:00 PM  |  127 [Furman](https://barttorvik.com/team.php?team=Furman&year=2027)   
 at 287 [Radford](https://barttorvik.com/team.php?team=Radford&year=2027) ESPN+  | [Furman -5.6,  
 78-72 (70%)](https://barttorvik.com/matchup.php?year=2027&t1l=Furman&t2l=Radford&)  | 43  | [](https://barttorvik.com/box.php?muid=FurmanRadford11-18&year=2027)  |  
-|  09:00 PM  |  180 [Bethune Cookman](https://barttorvik.com/team.php?team=Bethune+Cookman&year=2027)   
+|  09:00 PM  |  179 [Bethune Cookman](https://barttorvik.com/team.php?team=Bethune+Cookman&year=2027)   
 at 50 [Creighton](https://barttorvik.com/team.php?team=Creighton&year=2027) truTV  | [Creighton -18.5,  
 87-68 (92%)](https://barttorvik.com/matchup.php?year=2027&t1l=Bethune+Cookman&t2l=Creighton&)  | 43  | [](https://barttorvik.com/box.php?muid=Bethune+CookmanCreighton11-18&year=2027)  |  
 |  10:30 PM  |  236 [Cal St. Fullerton](https://barttorvik.com/team.php?team=Cal+St.+Fullerton&year=2027)   
 at 14 [UCLA](https://barttorvik.com/team.php?team=UCLA&year=2027) BTN  | [UCLA -28.9,  
 93-64 (98%)](https://barttorvik.com/matchup.php?year=2027&t1l=Cal+St.+Fullerton&t2l=UCLA&)  | 42  | [](https://barttorvik.com/box.php?muid=Cal+St.+FullertonUCLA11-18&year=2027)  |  
 |  07:00 PM  |  102 [UNC Wilmington](https://barttorvik.com/team.php?team=UNC+Wilmington&year=2027)   
-at 277 [LIU](https://barttorvik.com/team.php?team=LIU&year=2027) NEC Front Row  | [UNC Wilmington -7.2,  
+at 276 [LIU](https://barttorvik.com/team.php?team=LIU&year=2027) NEC Front Row  | [UNC Wilmington -7.2,  
 77-70 (76%)](https://barttorvik.com/matchup.php?year=2027&t1l=UNC+Wilmington&t2l=LIU&)  | 42  | [](https://barttorvik.com/box.php?muid=UNC+WilmingtonLIU11-18&year=2027)  |  
 |  08:00 PM  |  306 [New Hampshire](https://barttorvik.com/team.php?team=New+Hampshire&year=2027)   
 at 343 [Stonehill](https://barttorvik.com/team.php?team=Stonehill&year=2027) NEC Front Row  | [Stonehill -0.1,  
@@ -86,12 +86,12 @@ at 23 [BYU](https://barttorvik.com/team.php?team=BYU&year=2027) ESPN+  | [BYU -2
 |  08:30 PM  |  305 [South Dakota](https://barttorvik.com/team.php?team=South+Dakota&year=2027)   
 at 11 [Nebraska](https://barttorvik.com/team.php?team=Nebraska&year=2027) BTN  | [Nebraska -35.5,  
 100-64 (99%)](https://barttorvik.com/matchup.php?year=2027&t1l=South+Dakota&t2l=Nebraska&)  | 39  | [](https://barttorvik.com/box.php?muid=South+DakotaNebraska11-18&year=2027)  |  
-|  12:00 PM  |  272 [Jackson St.](https://barttorvik.com/team.php?team=Jackson+St.&year=2027)   
-at 37 [Baylor](https://barttorvik.com/team.php?team=Baylor&year=2027) ESPN+  | [Baylor -26.9,  
-93-66 (97%)](https://barttorvik.com/matchup.php?year=2027&t1l=Jackson+St.&t2l=Baylor&)  | 38  | [](https://barttorvik.com/box.php?muid=Jackson+St.Baylor11-18&year=2027)  |  
 |  07:30 PM  |  261 [Youngstown St.](https://barttorvik.com/team.php?team=Youngstown+St.&year=2027)   
-at 34 [Cincinnati](https://barttorvik.com/team.php?team=Cincinnati&year=2027) ESPN+  | [Cincinnati -25.7,  
+at 35 [Cincinnati](https://barttorvik.com/team.php?team=Cincinnati&year=2027) ESPN+  | [Cincinnati -25.7,  
 88-63 (97%)](https://barttorvik.com/matchup.php?year=2027&t1l=Youngstown+St.&t2l=Cincinnati&)  | 37  | [](https://barttorvik.com/box.php?muid=Youngstown+St.Cincinnati11-18&year=2027)  |  
+|  12:00 PM  |  285 [Jackson St.](https://barttorvik.com/team.php?team=Jackson+St.&year=2027)   
+at 30 [Baylor](https://barttorvik.com/team.php?team=Baylor&year=2027) ESPN+  | [Baylor -26.9,  
+93-66 (97%)](https://barttorvik.com/matchup.php?year=2027&t1l=Jackson+St.&t2l=Baylor&)  | 37  | [Baylor, 104-55](https://barttorvik.com/box.php?muid=Jackson+St.Baylor11-18&year=2027)  |  
 |  07:00 PM  |  233 [Florida Gulf Coast](https://barttorvik.com/team.php?team=Florida+Gulf+Coast&year=2027)   
 at 137 [Florida Atlantic](https://barttorvik.com/team.php?team=Florida+Atlantic&year=2027) ESPN+  | [Florida Atlantic -9.6,  
 80-70 (80%)](https://barttorvik.com/matchup.php?year=2027&t1l=Florida+Gulf+Coast&t2l=Florida+Atlantic&)  | 37  | [](https://barttorvik.com/box.php?muid=Florida+Gulf+CoastFlorida+Atlantic11-18&year=2027)  |  
@@ -137,7 +137,7 @@ at 84 [South Carolina](https://barttorvik.com/team.php?team=South+Carolina&year=
 |  08:00 PM  |  229 [Campbell](https://barttorvik.com/team.php?team=Campbell&year=2027)   
 at 57 [Oklahoma](https://barttorvik.com/team.php?team=Oklahoma&year=2027) SECN+  | [Oklahoma -20.3,  
 83-63 (94%)](https://barttorvik.com/matchup.php?year=2027&t1l=Campbell&t2l=Oklahoma&)  | 34  | [](https://barttorvik.com/box.php?muid=CampbellOklahoma11-18&year=2027)  |  
-|  08:00 PM  |  275 [Purdue Fort Wayne](https://barttorvik.com/team.php?team=Purdue+Fort+Wayne&year=2027)   
+|  08:00 PM  |  274 [Purdue Fort Wayne](https://barttorvik.com/team.php?team=Purdue+Fort+Wayne&year=2027)   
 at 209 [Bradley](https://barttorvik.com/team.php?team=Bradley&year=2027) ESPN+  | [Bradley -6.7,  
 73-66 (75%)](https://barttorvik.com/matchup.php?year=2027&t1l=Purdue+Fort+Wayne&t2l=Bradley&)  | 34  | [](https://barttorvik.com/box.php?muid=Purdue+Fort+WayneBradley11-18&year=2027)  |  
 |  07:00 PM  |  264 [Brown](https://barttorvik.com/team.php?team=Brown&year=2027)   
@@ -149,7 +149,7 @@ at 92 [Penn St.](https://barttorvik.com/team.php?team=Penn+St.&year=2027) BTN  |
 |  07:00 PM  |  271 [Boston University](https://barttorvik.com/team.php?team=Boston+University&year=2027)   
 at 225 [Merrimack](https://barttorvik.com/team.php?team=Merrimack&year=2027) ESPN+  | [Merrimack -5.5,  
 70-64 (72%)](https://barttorvik.com/matchup.php?year=2027&t1l=Boston+University&t2l=Merrimack&)  | 32  | [](https://barttorvik.com/box.php?muid=Boston+UniversityMerrimack11-18&year=2027)  |  
-|  06:30 PM  |  280 [Detroit Mercy](https://barttorvik.com/team.php?team=Detroit+Mercy&year=2027)   
+|  06:30 PM  |  279 [Detroit Mercy](https://barttorvik.com/team.php?team=Detroit+Mercy&year=2027)   
 at 164 [Eastern Michigan](https://barttorvik.com/team.php?team=Eastern+Michigan&year=2027) ESPN+  | [Eastern Michigan -9.6,  
 78-68 (82%)](https://barttorvik.com/matchup.php?year=2027&t1l=Detroit+Mercy&t2l=Eastern+Michigan&)  | 31  | [](https://barttorvik.com/box.php?muid=Detroit+MercyEastern+Michigan11-18&year=2027)  |  
 |  07:00 PM  |  335 [NJIT](https://barttorvik.com/team.php?team=NJIT&year=2027)   
@@ -171,14 +171,14 @@ at 337 [Lafayette](https://barttorvik.com/team.php?team=Lafayette&year=2027) ESP
 at 187 [Ohio](https://barttorvik.com/team.php?team=Ohio&year=2027) ESPN+  | [Ohio -11.9,  
 82-70 (85%)](https://barttorvik.com/matchup.php?year=2027&t1l=Morehead+St.&t2l=Ohio&)  | 26  | [](https://barttorvik.com/box.php?muid=Morehead+St.Ohio11-18&year=2027)  |  
 |  07:00 PM  |  342 [Morgan St.](https://barttorvik.com/team.php?team=Morgan+St.&year=2027)   
-at 276 [North Carolina A&T](https://barttorvik.com/team.php?team=North+Carolina+A%26T&year=2027) FloSports  | [North Carolina A&T -9.5,  
+at 275 [North Carolina A&T](https://barttorvik.com/team.php?team=North+Carolina+A%26T&year=2027) FloSports  | [North Carolina A&T -9.5,  
 82-73 (80%)](https://barttorvik.com/matchup.php?year=2027&t1l=Morgan+St.&t2l=North+Carolina+A%26T&)  | 25  | [](https://barttorvik.com/box.php?muid=Morgan+St.North+Carolina+A%26T11-18&year=2027)  |  
 |  08:00 PM  |  354 [Florida A&M](https://barttorvik.com/team.php?team=Florida+A%26M&year=2027)   
 at 226 [UTSA](https://barttorvik.com/team.php?team=UTSA&year=2027) ESPN+  | [UTSA -12.9,  
 83-70 (87%)](https://barttorvik.com/matchup.php?year=2027&t1l=Florida+A%26M&t2l=UTSA&)  | 21  | [](https://barttorvik.com/box.php?muid=Florida+A%26MUTSA11-18&year=2027)  |  
 |  07:00 PM  |  347 [Chicago St.](https://barttorvik.com/team.php?team=Chicago+St.&year=2027)   
 at 113 [Illinois Chicago](https://barttorvik.com/team.php?team=Illinois+Chicago&year=2027) ESPN+  | [Illinois Chicago -22.0,  
-83-61 (96%)](https://barttorvik.com/matchup.php?year=2027&t1l=Chicago+St.&t2l=Illinois+Chicago&)  | 20  | [](https://barttorvik.com/box.php?muid=Chicago+St.Illinois+Chicago11-18&year=2027)  |  
+83-61 (96%)](https://barttorvik.com/matchup.php?year=2027&t1l=Chicago+St.&t2l=Illinois+Chicago&)  | 21  | [](https://barttorvik.com/box.php?muid=Chicago+St.Illinois+Chicago11-18&year=2027)  |  
 |  07:00 PM  |  345 [North Carolina Central](https://barttorvik.com/team.php?team=North+Carolina+Central&year=2027)   
 at 86 [George Mason](https://barttorvik.com/team.php?team=George+Mason&year=2027) ESPN+  | [George Mason -23.6,  
 79-56 (97%)](https://barttorvik.com/matchup.php?year=2027&t1l=North+Carolina+Central&t2l=George+Mason&)  | 20  | [](https://barttorvik.com/box.php?muid=North+Carolina+CentralGeorge+Mason11-18&year=2027)  |  
@@ -200,17 +200,19 @@ at 123 [Belmont](https://barttorvik.com/team.php?team=Belmont&year=2027)  | [Bel
 |  07:00 PM  |  0 [Utica](https://barttorvik.com/team.php?team=Utica&year=2027)   
 at 221 [Colgate](https://barttorvik.com/team.php?team=Colgate&year=2027) ESPN+  | [Colgate (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Utica&t2l=Colgate&)  | -8  | [](https://barttorvik.com/box.php?muid=UticaColgate11-18&year=2027)  |  
 |  07:00 PM  |  0 [St. Joseph's (Brkln)](https://barttorvik.com/team.php?team=St.+Joseph%27s+%28Brkln%29&year=2027)   
-at 278 [Fairfield](https://barttorvik.com/team.php?team=Fairfield&year=2027)  | [Fairfield (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=St.+Joseph%27s+%28Brkln%29&t2l=Fairfield&)  | -10  | [](https://barttorvik.com/box.php?muid=St.+Joseph%27s+%28Brkln%29Fairfield11-18&year=2027)  |  
+at 277 [Fairfield](https://barttorvik.com/team.php?team=Fairfield&year=2027)  | [Fairfield (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=St.+Joseph%27s+%28Brkln%29&t2l=Fairfield&)  | -10  | [](https://barttorvik.com/box.php?muid=St.+Joseph%27s+%28Brkln%29Fairfield11-18&year=2027)  |  
 |  09:00 PM  |  0 [McMurry](https://barttorvik.com/team.php?team=McMurry&year=2027)   
-at 282 [Abilene Christian](https://barttorvik.com/team.php?team=Abilene+Christian&year=2027) ESPN+  | [Abilene Christian (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=McMurry&t2l=Abilene+Christian&)  | -10  | [](https://barttorvik.com/box.php?muid=McMurryAbilene+Christian11-18&year=2027)  |  
+at 281 [Abilene Christian](https://barttorvik.com/team.php?team=Abilene+Christian&year=2027) ESPN+  | [Abilene Christian (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=McMurry&t2l=Abilene+Christian&)  | -10  | [](https://barttorvik.com/box.php?muid=McMurryAbilene+Christian11-18&year=2027)  |  
 |  07:00 PM  |  0 [Columbia (SC)](https://barttorvik.com/team.php?team=Columbia+%28SC%29&year=2027)   
-at 318 [West Georgia](https://barttorvik.com/team.php?team=West+Georgia&year=2027) ESPN+  | [West Georgia (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Columbia+%28SC%29&t2l=West+Georgia&)  | -11  | [](https://barttorvik.com/box.php?muid=Columbia+%28SC%29West+Georgia11-18&year=2027)  |  
+at 319 [West Georgia](https://barttorvik.com/team.php?team=West+Georgia&year=2027) ESPN+  | [West Georgia (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Columbia+%28SC%29&t2l=West+Georgia&)  | -11  | [](https://barttorvik.com/box.php?muid=Columbia+%28SC%29West+Georgia11-18&year=2027)  |  
 |  07:30 PM  |  0 [Biblical Stud. (TX)](https://barttorvik.com/team.php?team=Biblical+Stud.+%28TX%29&year=2027)   
 at 259 [UT Rio Grande Valley](https://barttorvik.com/team.php?team=UT+Rio+Grande+Valley&year=2027)  | [UT Rio Grande Valley (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Biblical+Stud.+%28TX%29&t2l=UT+Rio+Grande+Valley&)  | -12  | [](https://barttorvik.com/box.php?muid=Biblical+Stud.+%28TX%29UT+Rio+Grande+Valley11-18&year=2027)  |  
 |  08:00 PM  |  0 [Lindsey Wilson](https://barttorvik.com/team.php?team=Lindsey+Wilson&year=2027)   
 at 332 [Southern Indiana](https://barttorvik.com/team.php?team=Southern+Indiana&year=2027) ESPN+  | [Southern Indiana (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Lindsey+Wilson&t2l=Southern+Indiana&)  | -13  | [](https://barttorvik.com/box.php?muid=Lindsey+WilsonSouthern+Indiana11-18&year=2027)  |  
 |  07:00 PM  |  0 [MCLA](https://barttorvik.com/team.php?team=MCLA&year=2027)   
 at 340 [New Haven](https://barttorvik.com/team.php?team=New+Haven&year=2027)  | [New Haven (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=MCLA&t2l=New+Haven&)  | -17  | [](https://barttorvik.com/box.php?muid=MCLANew+Haven11-18&year=2027)  |  
+| MOV Mean absolute error: 15.35 | Totals MAE: 28.5 | Score bias: -28.5 |  
+Record of favorites: 2-0 (expected: 2-0)   |  
 Compiled by [Bart Torvik](https://twitter.com/totally_t_bomb) from sacred data and [ secret](https://barttorvik.com/schedule.php?sort=line&date=20261118) formulas.   
   
   
