@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-nov-18 | fetched: 2026-11-18 11:06 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-nov-18 | fetched: 2026-11-18 16:06 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Wednesday, Nov. 18
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+6h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Wednesday, Nov. 18](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1c017f10c8f0b17a5bbf50e2f1faadaf625b3fc9-5011x3340.jpg%3Frect%3D401%2C0%2C4189%2C2073%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -31,7 +31,7 @@ Bucks at Heat — 7:00 p.m. ET
 Bam Adebayo - Rebounds
 Bam Adebayo Under
 U 8.5
--140
+-136
 Nov 19 12:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/milwaukee-bucks-@-miami-heat-36327269)
 Odds/lines subject to change
 [Bam Adebayo](https://sportsbook.fanduel.com/teams/nba/roster/bam-adebayo-2525) is averaging 8.0 rebounds per game for the [Miami Heat](https://sportsbook.fanduel.com/teams/nba/miami-heat/odds) and has cleared 8.5 boards in just one of his past five outings. His 13.2 rebound chances per game give him a solid opportunity floor, but the conversion has not consistently translated into nine actual rebounds. 
@@ -53,7 +53,7 @@ Celtics at Nuggets — 9:30 p.m. ET
 Nikola Jokic - Assists
 Nikola Jokic Over
 O 9.5
-+118
++116
 Nov 19 2:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-denver-nuggets-36327273)
 Odds/lines subject to change
 [Nikola Jokic](https://sportsbook.fanduel.com/teams/nba/roster/nikola-joki-2388) is averaging 8.9 assists per game for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/denver-nuggets/odds), but his passing volume suggests he can still threaten double digits in a high-profile matchup.
@@ -101,23 +101,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA DFS Picks Today: Best FanDuel Plays for Wednesday, Nov. 18](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-wednesday-nov-18)
+2h
+FanDuel NBA DFS picks for Wednesday's slate.
+[](https://www.fanduel.com/research/nba-dfs-picks-today-best-fanduel-plays-for-wednesday-nov-18)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Wednesday, Nov. 18](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-nov-18)
-1h
+6h
 Three NBA props to have on your radar on Wednesday. Today's best NBA player prop bets.
 [](https://www.fanduel.com/research/nba-props-today-3-best-nba-player-prop-bets-for-wednesday-nov-18)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks Today: 3 NBA Predictions and Best Bets for Wednesday, Nov. 18](https://www.fanduel.com/research/nba-picks-today-3-nba-predictions-and-best-bets-for-wednesday-nov-18)
-2h
+7h
 NBA picks and predictions for today. What are the best NBA bets for Wednesday?
 [](https://www.fanduel.com/research/nba-picks-today-3-nba-predictions-and-best-bets-for-wednesday-nov-18)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Lakers vs. Jazz Prediction, Odds, Picks, Best Bets for Nov. 18](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-18-2026)
-4h
+9h
 Find Lakers vs. Jazz predictions, betting odds, moneyline, spread, over/under and more for the Nov. 18 NBA matchup.
 [](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-18-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Raptors vs. Wizards Prediction, Odds, Picks, Best Bets for Nov. 18](https://www.fanduel.com/research/raptors-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-18-2026)
-8h
-Find Raptors vs. Wizards predictions, betting odds, moneyline, spread, over/under and more for the Nov. 18 NBA matchup.
-[](https://www.fanduel.com/research/raptors-vs-wizards-prediction-nba-odds-spread-best-bets-for-11-18-2026)
 
