@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-wednesday-november-18 | fetched: 2026-11-18 16:06 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-wednesday-november-18 | fetched: 2026-11-18 18:06 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -89,62 +89,62 @@ Nickeil Alexander-Walker Points Escalator
 Right Arrow
 Nickeil Alexander-Walker Points Escalator
 ### Top Stories
-[![NBA Best Bets for Heat vs Bucks, Nuggets vs Celtics on Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/NBABestBets1118262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-heat-vs-bucks-nuggets-vs-celtics-on-wednesday-november-18)
+[![NBA Best Bets for Bucks vs Heat, 76ers vs Magic, More \(Wednesday, Nov. 18\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets1118262.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-heat-vs-bucks-nuggets-vs-celtics-on-wednesday-november-18)
 NBA
-[NBA Best Bets for Heat vs Bucks, Nuggets vs Celtics on Wednesday, November 18](https://www.actionnetwork.com/nba/nba-best-bets-for-heat-vs-bucks-nuggets-vs-celtics-on-wednesday-november-18)
+[NBA Best Bets for Bucks vs Heat, 76ers vs Magic, More (Wednesday, Nov. 18)](https://www.actionnetwork.com/nba/nba-best-bets-for-heat-vs-bucks-nuggets-vs-celtics-on-wednesday-november-18)
 Action Network Staff
-4 hours ago
+1 hour ago
 [![NBA Parlay Picks: SGP Predictions for Magic vs Sixers, Heat vs Bucks \(Wednesday, Nov. 18\)](https://images.actionnetwork.com/blog/2026/11/NBA-Hinton-Parlay-11_18.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-magic-vs-sixers-heat-vs-bucks-wednesday-nov-18)
 NBA
 [NBA Parlay Picks: SGP Predictions for Magic vs Sixers, Heat vs Bucks (Wednesday, Nov. 18)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-magic-vs-sixers-heat-vs-bucks-wednesday-nov-18)
 Alex Hinton
-53 mins ago
-[![NBA Player Props for Bam Adebayo, Paul George on Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/NBAProps111826.jpg)](https://www.actionnetwork.com/nba/nba-player-props-for-bam-adebayo-paul-george-on-wednesday-november-18)
-NBA
-[NBA Player Props for Bam Adebayo, Paul George on Wednesday, November 18](https://www.actionnetwork.com/nba/nba-player-props-for-bam-adebayo-paul-george-on-wednesday-november-18)
-Action Network Staff
-3 hours ago
-[![NBA Predictions: Expert Bets for Raptors vs Wizards, Nets vs Bulls, More \(Wednesday, Nov. 18\)](https://images.actionnetwork.com/blog/2026/11/NBAMega1118.jpg)](https://www.actionnetwork.com/nba/nba-predictions-expert-bets-for-raptors-vs-wizards-nets-vs-bulls-more-wednesday-nov-18)
-NBA
-[NBA Predictions: Expert Bets for Raptors vs Wizards, Nets vs Bulls, More (Wednesday, Nov. 18)](https://www.actionnetwork.com/nba/nba-predictions-expert-bets-for-raptors-vs-wizards-nets-vs-bulls-more-wednesday-nov-18)
-Matt Moore
 2 hours ago
+[![NBA Player Props: Our Staff’s 5 Picks for Wednesday, Nov. 18](https://images.actionnetwork.com/blog/2026/11/NBAProps111826.jpg)](https://www.actionnetwork.com/nba/nba-player-props-for-bam-adebayo-paul-george-on-wednesday-november-18)
+NBA
+[NBA Player Props: Our Staff’s 5 Picks for Wednesday, Nov. 18](https://www.actionnetwork.com/nba/nba-player-props-for-bam-adebayo-paul-george-on-wednesday-november-18)
+Action Network Staff
+50 mins ago
+[![NBA Predictions for Wizards vs Raptors, Bulls vs Nets, More \(Wednesday, Nov. 18\)](https://images.actionnetwork.com/blog/2026/11/NBAMega1118.jpg)](https://www.actionnetwork.com/nba/nba-predictions-expert-bets-for-raptors-vs-wizards-nets-vs-bulls-more-wednesday-nov-18)
+NBA
+[NBA Predictions for Wizards vs Raptors, Bulls vs Nets, More (Wednesday, Nov. 18)](https://www.actionnetwork.com/nba/nba-predictions-expert-bets-for-raptors-vs-wizards-nets-vs-bulls-more-wednesday-nov-18)
+Matt Moore
+54 mins ago
 [![Bucks vs Heat Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/Bucks-Heat-11182026.jpg)](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-miami-heat-prediction-pick-nba-odds-wednesday-november-18)
 NBA
 [Bucks vs Heat Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/milwaukee-bucks-vs-miami-heat-prediction-pick-nba-odds-wednesday-november-18)
 Bryan Fonseca
-7 hours ago
-[![76ers vs Magic Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/76ers-Magic-11182026.jpg)](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-orlando-magic-prediction-pick-nba-odds-wednesday-november-18)
+9 hours ago
+[![76ers vs Magic Predictions, Odds, Picks: Fade This Flawed Philly Defense](https://images.actionnetwork.com/blog/2026/11/76ers-Magic-11182026.jpg)](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-orlando-magic-prediction-pick-nba-odds-wednesday-november-18)
 NBA
-[76ers vs Magic Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-orlando-magic-prediction-pick-nba-odds-wednesday-november-18)
+[76ers vs Magic Predictions, Odds, Picks: Fade This Flawed Philly Defense](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-orlando-magic-prediction-pick-nba-odds-wednesday-november-18)
 Brandon Kravitz
-7 hours ago
-[![Grizzlies vs Cavaliers Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/Grizzlies-Cavs-NBA-11_18.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-november-18)
+40 mins ago
+[![Grizzlies vs Cavaliers Predictions, Odds, Picks: The Cakewalk is Over for Memphis](https://images.actionnetwork.com/blog/2026/11/Grizzlies-Cavs-NBA-11_18.jpg)](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-november-18)
 NBA
-[Grizzlies vs Cavaliers Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-november-18)
+[Grizzlies vs Cavaliers Predictions, Odds, Picks: The Cakewalk is Over for Memphis](https://www.actionnetwork.com/nba/memphis-grizzlies-vs-cleveland-cavaliers-prediction-pick-nba-odds-wednesday-november-18)
 Brandon Kravitz
-7 hours ago
+28 mins ago
+[![Bulls vs Nets Predictions, Odds, Picks: Bad Matchup, Bad Season, Bad Spot](https://images.actionnetwork.com/blog/2026/11/Bulls-Nets-11182026.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-brooklyn-nets-prediction-pick-nba-odds-wednesday-november-18)
+NBA
+[Bulls vs Nets Predictions, Odds, Picks: Bad Matchup, Bad Season, Bad Spot](https://www.actionnetwork.com/nba/chicago-bulls-vs-brooklyn-nets-prediction-pick-nba-odds-wednesday-november-18)
+Matt Moore
+15 mins ago
 [![Rockets vs Pacers Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/Rockets-Pacers-NBA-11_18.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-18)
 NBA
 [Rockets vs Pacers Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/houston-rockets-vs-indiana-pacers-prediction-pick-nba-odds-wednesday-november-18)
 Michael Arinze
-5 hours ago
+7 hours ago
 [![Celtics vs Nuggets Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/Celtics-Nuggets-NBA-11_18.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-denver-nuggets-prediction-pick-nba-odds-wednesday-november-18)
 NBA
 [Celtics vs Nuggets Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/boston-celtics-vs-denver-nuggets-prediction-pick-nba-odds-wednesday-november-18)
 Matt Moore
-6 hours ago
-[![Bulls vs Nets Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/Bulls-Nets-11182026.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-brooklyn-nets-prediction-pick-nba-odds-wednesday-november-18)
-NBA
-[Bulls vs Nets Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/chicago-bulls-vs-brooklyn-nets-prediction-pick-nba-odds-wednesday-november-18)
-Matt Moore
-6 hours ago
+8 hours ago
 [![Wizards vs Raptors Prediction, Pick, NBA Odds for Wednesday, November 18](https://images.actionnetwork.com/blog/2026/11/washington-wizards-vs-toronto-raptors-prediction-pick-nba-odds-wednesday-november-18.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-toronto-raptors-prediction-pick-nba-odds-wednesday-november-18)
 NBA
 [Wizards vs Raptors Prediction, Pick, NBA Odds for Wednesday, November 18](https://www.actionnetwork.com/nba/washington-wizards-vs-toronto-raptors-prediction-pick-nba-odds-wednesday-november-18)
 Matt Moore
-6 hours ago
+8 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a1b06485-9c14-4cbd-942f-530c4c08e002&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78680b08-e13e-4984-ab11-27c59652ef55&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=105&tw_session_id=1795035804422-20660689&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a1b06485-9c14-4cbd-942f-530c4c08e002&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78680b08-e13e-4984-ab11-27c59652ef55&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=105&tw_session_id=1795035804422-20660689&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=afbadd61-7324-409c-b0e5-cdad9f5d2cb6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78680b08-e13e-4984-ab11-27c59652ef55&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=7552&tw_iframe_status=0&tw_pid_src=2&tw_session_count=105&tw_session_id=1795035804422-20660689&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=afbadd61-7324-409c-b0e5-cdad9f5d2cb6&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78680b08-e13e-4984-ab11-27c59652ef55&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=7552&tw_iframe_status=0&tw_pid_src=2&tw_session_count=105&tw_session_id=1795035804422-20660689&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0b5207f3-9e42-418c-9d12-537aed15c739&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c265d208-9de9-4a51-87ea-d56811a9b167&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=107&tw_session_id=1795042999462-443390784&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0b5207f3-9e42-418c-9d12-537aed15c739&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c265d208-9de9-4a51-87ea-d56811a9b167&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=107&tw_session_id=1795042999462-443390784&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6a85cdc9-1db4-40d9-964a-b2a9bfc66fa9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c265d208-9de9-4a51-87ea-d56811a9b167&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=7566&tw_iframe_status=0&tw_pid_src=2&tw_session_count=107&tw_session_id=1795042999462-443390784&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=6a85cdc9-1db4-40d9-964a-b2a9bfc66fa9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c265d208-9de9-4a51-87ea-d56811a9b167&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-wednesday-november-18&tw_engaged_ms=7566&tw_iframe_status=0&tw_pid_src=2&tw_session_count=107&tw_session_id=1795042999462-443390784&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

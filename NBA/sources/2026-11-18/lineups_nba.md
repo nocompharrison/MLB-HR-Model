@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-18 16:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-18 18:06 ET -->
 
 
 ---
@@ -959,19 +959,7 @@ Let’s dive into three player props that catch our eye for Wednesday’s action
 *   Davion Mitchell Over 21.5 Points + Assists
 *   Domantas Sabonis Over 27.5 Points + Rebounds
 
-### **Tyler Herro (Bucks vs. Heat) Over 3-Pointers Made**[![Image 32: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)2.5 (52¢)](https://lineups.go.metabet.io/bet/nba_game_player_3_pointers_made/661082/polymarket_sc)
-
-[](https://www.lineups.com/)
-
-![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10208.png)Tyler Herro
-
-[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/kalshi_sc)[O/U Points Scored (@ MIA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/kalshi_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/kalshi_sc)
-
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/polymarket_sc)[O/U Total Rebounds (@ MIA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/polymarket_sc)
-
-[![Image 36: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)[O/U Total Assists (@ MIA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)
-
-[![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/tyler_herro/player_132817 "Powered by MetaBet")[](https://www.metabet.io/odds)
+### **Tyler Herro (Bucks vs. Heat) Over 3-Pointers Made**
 
 Herro makes his first return to South Florida since this offseason’s mega-trade between the Bucks and Heat, and he comes in putting up numbers early in his Milwaukee tenure that are comparable to his last few seasons in Miami. The veteran wing is averaging 20.3 points, 4.2 rebounds and 4.2 assists, and although he’s shooting just 42.1% overall, he’s draining respectable 36.1% of his 7.5 three-point attempts per contest.
 
@@ -981,19 +969,7 @@ Meanwhile, Herro has recorded at least a trio of threes in seven of 13 games, an
 
 **Original Line Publish:** 2.5
 
-### **Davion Mitchell (Heat vs. Bucks) Over Points + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (76¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661082/underdog_sc)
-
-[](https://www.lineups.com/)
-
-![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10207.png)Davion Mitchell
-
-[![Image 40: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/underdog_sc)[O/U Points Scored (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/underdog_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661082/underdog_sc)
-
-[![Image 41: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/underdog_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661082/underdog_sc)
-
-[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)[8.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661082/polymarket_sc)
-
-[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/davion_mitchell/player_81666 "Powered by MetaBet")[](https://www.metabet.io/odds)
+### **Davion Mitchell (Heat vs. Bucks) Over Points + Assists**
 
 Mitchell is putting together a career-best season that’s seeing him stuff the stat sheet on a near nightly basis thus far. The veteran point guard is supplying 25.9 points + assists per contest, posting career highs in both categories (16.7 PPG, 9.2 APG). Mitchell is also shooting a career-high 49.7% overall and 40.0% from three-point range, and he’s taking a career-high 12.4 field-goal attempts per contest while handling plenty of ball-handling duties in the Heat’s fast-paced attack.
 
@@ -1001,19 +977,7 @@ Mitchell has averaged 26.2 points + assists on 48.3% shooting over his seven hom
 
 **Original Line Publish**: 21.5
 
-### **Domantas Sabonis (Kings vs. Suns) Over Points + Rebounds**[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)26.5 (56¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_rebounds/661091/underdog_sc)
-
-[](https://www.lineups.com/)
-
-![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10217.png)Domantas Sabonis
-
-[![Image 46: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661091/underdog_sc)[O/U Points Scored (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_points/661091/underdog_sc)[13.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661091/underdog_sc)
-
-[![Image 47: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661091/polymarket_sc)[O/U Total Rebounds (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661091/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661091/polymarket_sc)
-
-[![Image 48: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661091/polymarket_sc)[O/U Total Assists (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661091/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661091/polymarket_sc)
-
-[![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/domantas_sabonis/player_56671 "Powered by MetaBet")[](https://www.metabet.io/odds)
+### **Domantas Sabonis (Kings vs. Suns) Over Points + Rebounds**
 
 The Kings are off to a miserable 1-12 start and Sabonis’ name is already coming up in some early trade-deadline rumors, but for the moment, the big man is handling his usual diverse role in Sacramento’s attack. Sabonis is delivering 14.2 points, 13.2 rebounds and 5.6 assists per contest, and he’s shooting a career-high 63.8% as well. Sabonis is doing slightly more facilitating and less scoring – his 8.8 field-goal attempts per game are his fewest since his 2016-17 rookie campaign in OKC – but he’s still contributed 15 or more points in half of his 12 games.
 
@@ -1049,27 +1013,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 50: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-150x150.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 32: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-150x150.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)[Avalanche-Mammoth NHL Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
-[![Image 51: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-150x150.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 33: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-150x150.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)[Bruins-Red Wings NHL Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
-[![Image 52: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
+[![Image 34: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)[NHL Goal Picks Today: Nico Hischier, Viktor Arvidsson & Nazem Kadri Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
-[![Image 53: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-150x150.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 35: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-150x150.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)[Celtics-Nuggets NBA Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 
-[![Image 54: Caleb Holt](https://www.lineups.com/wp-content/uploads/2026/11/Caleb-Holt-150x150.jpg)](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
+[![Image 36: Caleb Holt](https://www.lineups.com/wp-content/uploads/2026/11/Caleb-Holt-150x150.jpg)](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
 
 [](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
 #### [](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)[UConn-Arizona Picks, Predictions & Odds: College Basketball](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
@@ -1080,7 +1044,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 55: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 56: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1095,7 +1059,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 57: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-390x230.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 39: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-390x230.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1105,7 +1069,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 58: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-390x230.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 40: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-390x230.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1115,7 +1079,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 59: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
+[![Image 41: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1125,7 +1089,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 18, 2026
 
-[![Image 60: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-390x230.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 42: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-390x230.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1135,7 +1099,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 61: Caleb Holt](https://www.lineups.com/wp-content/uploads/2026/11/Caleb-Holt-390x230.jpg)](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
+[![Image 43: Caleb Holt](https://www.lineups.com/wp-content/uploads/2026/11/Caleb-Holt-390x230.jpg)](https://www.lineups.com/articles/uconn-arizona-picks-predictions-odds-college-basketball/)
 
 [College Basketball Articles](https://www.lineups.com/college-basketball-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1145,7 +1109,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 17, 2026
 
-[![Image 62: Duncan Robinson](https://www.lineups.com/wp-content/uploads/2026/11/duncanrobinson-390x230.jpg)](https://www.lineups.com/articles/pistons-duncan-robinson-out-at-least-one-week-with-left-quad-strain/)
+[![Image 44: Duncan Robinson](https://www.lineups.com/wp-content/uploads/2026/11/duncanrobinson-390x230.jpg)](https://www.lineups.com/articles/pistons-duncan-robinson-out-at-least-one-week-with-left-quad-strain/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2163,45 +2127,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 The weekday portion of the Week 4 slate tips off with an eight-game ledger Monday. There’s plenty of star power taking the floor, and we hone in on a couple of particularly big names for tonight’s best.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-james-harden-kevin-durant-and-ayo-dosunmu-best-bets/)
 
 Let’s dive into three player props that catch our eye for Monday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -2812,6 +2760,14 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ### **Darius Garland (Clippers vs. Hornets) Over Points**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10202.png)Darius Garland
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/132778/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/132778/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/132778/kalshi_sc)
+
+[![Image 34](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darius_garland/player_132778 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 As expected coming into the season, Garland has been the Clippers’ most reliable source of scoring with Brandon Ingram (Achilles) still sidelined. The veteran guard is averaging 20.7 points – his highest figure since the 2022-23 season – while taking a combined 20.0 field-goal + free-throw attempts per contest. Garland already has six games of 24 points or more in 11 contests overall, underscoring how aggressive he’s been.
 
 The Hornets come into Sunday’s matchup allowing the fifth-highest offensive efficiency rating to point guards (29.5), along with 47.1% shooting, including 41.9% from three-point range. Charlotte is also yielding an Eastern Conference-high 17.0 made three-pointers overall in the last three contests, and Garland is 3-1 to the Over on the 20.5 in the last four games while draining 42.3% of his 6.5 three-point tries in that span.
@@ -2820,6 +2776,18 @@ The Hornets come into Sunday’s matchup allowing the fifth-highest offensive ef
 
 ### **Onyeka Okongwu (Hawks vs. Bucks) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 35](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10187.png)Onyeka Okongwu
+
+[![Image 36: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/underdog_sc)[O/U Points Scored (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/underdog_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/underdog_sc)
+
+[![Image 37: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)[O/U Total Rebounds (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)
+
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)[O/U Total Assists (@ OKC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)
+
+[![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/onyeka_okongwu/player_135190 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Every Hawks starter essentially has a bright outlook Sunday given the opponent, as the Bucks are arguably the worst all-around team in the league. However, while Jalen Johnson’s props are understandably very elevated for this matchup, Okongwu has what could be termed a reasonable points + rebounds figure based on his recent body of work. The big man checks into Sunday averaging 26.0 points + rebounds across 31.6 minutes per contest over his last eight, a span where he’s connected on 52.6% of his attempts, including 38.1% from distance.
 
 The opposing Bucks have been very generous to centers, allowing the sixth-highest offensive efficiency rating to centers (35.7) as well as the fifth-most points (23.4) and the third-most rebounds (16.6) per contest to the position. Milwaukee is also ceding 53.7% shooting to fives, as well as the fifth-most points in the paint per home game (52.6); meanwhile, Okongwu is scoring 54.1% of his points in that part of the floor.
@@ -2827,6 +2795,18 @@ The opposing Bucks have been very generous to centers, allowing the sixth-highes
 **Original Line Publish:**20.5
 
 ### **Isaiah Hartenstein (Thunder vs. Kings) Over Points + Rebounds**
+
+[](https://www.lineups.com/)
+
+![Image 40](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/15673.png)Isaiah Hartenstein
+
+[![Image 41: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/polymarket_sc)[O/U Points Scored (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661087/polymarket_sc)
+
+[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)[O/U Total Rebounds (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661087/polymarket_sc)
+
+[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)[O/U Total Assists (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661087/polymarket_sc)
+
+[![Image 44](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/isaiah_hartenstein/player_69861 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Hartenstein is delivering his usual contributions early this season, as the big man averaging a well-balanced 9.0 points, 10.5 rebounds, 3.8 assists and 1.2 steals across 25.4 minutes over 13 games. With OKC managing multiple key injuries, Hartenstein has seen a boost in offensive involvement over last season, as he’s putting up 7.2 field-goal attempts per contest after clocking 6.3 in 2025-26 and is averaging 23.4 points + rebounds per 36 minutes with all of the sidelined Jalen Williams, Cason Wallace, Chet Holmgren and Jaylin Williams off the floor.
 
@@ -2862,27 +2842,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Andrew Novak](https://www.lineups.com/wp-content/uploads/2026/11/Andrew-Novak-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
+[![Image 45: Andrew Novak](https://www.lineups.com/wp-content/uploads/2026/11/Andrew-Novak-150x150.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
 
 [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
 #### [](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)[PGA Tour Golf Odds, Picks, Predictions: Final RSM Classic Betting Card](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
 
-[![Image 33: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-150x150.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 46: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-150x150.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)[Avalanche-Mammoth NHL Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
-[![Image 34: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-150x150.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 47: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-150x150.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)[Bruins-Red Wings NHL Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
-[![Image 35: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
+[![Image 48: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)[NHL Goal Picks Today: Nico Hischier, Viktor Arvidsson & Nazem Kadri Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
-[![Image 36: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-150x150.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 49: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-150x150.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 #### [](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)[Celtics-Nuggets NBA Picks, Predictions & Odds for Wednesday, November 18, 2026](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
@@ -2893,7 +2873,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 50: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 51: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2908,7 +2888,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Andrew Novak](https://www.lineups.com/wp-content/uploads/2026/11/Andrew-Novak-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
+[![Image 52: Andrew Novak](https://www.lineups.com/wp-content/uploads/2026/11/Andrew-Novak-390x230.jpg)](https://www.lineups.com/articles/pga-tour-golf-odds-picks-predictions-final-rsm-classic-betting-card/)
 
 [Golf Articles](https://www.lineups.com/golf-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2918,7 +2898,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [John Haslbauer](https://www.lineups.com/author/john-haslbauer/)November 18, 2026
 
-[![Image 40: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-390x230.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 53: Artturi Lehkonen](https://www.lineups.com/wp-content/uploads/2026/11/Artturi-Lehkonen-390x230.jpg)](https://www.lineups.com/articles/avalanche-mammoth-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2928,7 +2908,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 41: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-390x230.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 54: Lucas Raymond](https://www.lineups.com/wp-content/uploads/2026/11/Lucas-Raymond-390x230.jpg)](https://www.lineups.com/articles/bruins-red-wings-nhl-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2938,7 +2918,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 42: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
+[![Image 55: Nico Hischier](https://www.lineups.com/wp-content/uploads/2026/11/Nico-Hischier-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-nico-hischier-viktor-arvidsson-nazem-kadri-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2948,7 +2928,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 18, 2026
 
-[![Image 43: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-390x230.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
+[![Image 56: Jayson Tatum](https://www.lineups.com/wp-content/uploads/2026/11/Jayson-Tatum-390x230.jpg)](https://www.lineups.com/articles/celtics-nuggets-nba-picks-predictions-odds-for-wednesday-november-18-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2958,7 +2938,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 18, 2026
 
-[![Image 44: Domantas Sabonis](https://www.lineups.com/wp-content/uploads/2026/11/Domantas-Sabonis-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyler-herro-davion-mitchell-and-domantas-sabonis-best-bets/)
+[![Image 57: Domantas Sabonis](https://www.lineups.com/wp-content/uploads/2026/11/Domantas-Sabonis-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyler-herro-davion-mitchell-and-domantas-sabonis-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 

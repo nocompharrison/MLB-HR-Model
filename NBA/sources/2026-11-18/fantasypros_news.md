@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-18 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-18 18:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Walker Kessler](https://images.fantasypros.com/images/players/nba/5537/headshot/100x100.png)](https://www.fantasypros.com/nba/players/walker-kessler.php)
+C - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/walker-kessler.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/walker-kessler.php)  
+[» More News](https://www.fantasypros.com/nba/news/walker-kessler.php)
+[Walker Kessler (leg) off injury report Wednesday](https://www.fantasypros.com/nba/news/621048/walker-kessler-leg-off-injury-report-wednesday.php)  
+
+Wed, Nov 18th 4:15pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Walker Kessler (leg) is off of the injury report for Wednesday night’s contest between the Los Angeles Lakers and Utah Jazz according to Dave McMenamin. (Source: [Dave McMenamin on Twitter ](https://x.com/mcten/status/2123160194503102841?a=u2020YYnF7E5Ctw7RW4&s=46))
+**_Fantasy Impact:_** Kessler returns to the floor after sitting out the first leg of a back-to-back in Tuesday night’s win over the Charlotte Hornets, offering head coach J.J. Redick an impactful interior option on both ends of the floor against the Jazz Wednesday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
+[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
+[Austin Reaves (heel) ruled out Wednesday](https://www.fantasypros.com/nba/news/621047/austin-reaves-heel-ruled-out-wednesday.php)  
+
+Wed, Nov 18th 4:11pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Austin Reaves (heel) has been ruled out for Wednesday’s matchup between the Los Angeles Lakers and Utah Jazz according to Dave McMenamin. (Source: [Dave McMenamin on Twitter](https://x.com/mcten/status/2123160194503102841?a=u2020YYnF7E5Ctw7RW4&s=46))
+**_Fantasy Impact:_** Reaves will miss a third consecutive contest while dealing with the nagging issue, with the scorching-hot Quentin Grimes likely to remain in the starting five for head coach J.J. Redick until the impactful guard can take the floor again.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Dean Wade](https://images.fantasypros.com/images/players/nba/4651/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dean-wade.php)
 F - PHI
 [» Rankings](https://www.fantasypros.com/nba/players/dean-wade.php)  
@@ -259,34 +287,6 @@ Keyonte George finished with 30 points (10-17 FG, 4-8 3PT, 6-6 FT) and 11 assist
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Mo Bamba](https://images.fantasypros.com/images/players/nba/3468/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mohamed-bamba.php)
-C - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/mohamed-bamba.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/mohamed-bamba.php)  
-[» More News](https://www.fantasypros.com/nba/news/mohamed-bamba.php)
-[Mo Bamba records double-double in Tuesday's win](https://www.fantasypros.com/nba/news/620968/mo-bamba-records-double-double-tuesdays-win.php)  
-
-Wed, Nov 18th 8:53am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Mo Bamba scored 15 points (6-7 FG, 1-2 3PT, 2-2 FT) and grabbed 10 rebounds in Tuesday's 132-107 win over the Clippers. 
-**_Fantasy Impact:_** Tuesday night, Bamba fell far short of his season-high 26 points from Sunday's game. However, the veteran big did record his first double-double of the campaign. With the Jazz beat up a bit in the frontcourt, Bamba has been getting extra minutes, playing over 30 in each of the past two games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Darius Garland](https://images.fantasypros.com/images/players/nba/4478/headshot/100x100.png)](https://www.fantasypros.com/nba/players/darius-garland.php)
-G - LAC
-[» Rankings](https://www.fantasypros.com/nba/players/darius-garland.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/darius-garland.php)  
-[» More News](https://www.fantasypros.com/nba/news/darius-garland.php)
-[Darius Garland scores 20 points Tuesday night](https://www.fantasypros.com/nba/news/620967/darius-garland-scores-20-points-tuesday-night.php)  
-
-Wed, Nov 18th 8:50am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Darius Garland finished with 20 points (5-15 FG, 2-5 3PT, 8-8 FT), seven assists, and three rebounds in Tuesday's 132-107 loss to the Jazz. 
-**_Fantasy Impact:_** Garland got to 20 points for the fifth time in his last six games Tuesday. It wasn't enough for the Clippers to grab a third straight win, however. In that six-game span, Garland has averaged 22.3 points, 7.3 assists, and 2.7 treys (42.1%). 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=415_1795035635125&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0tToCElxUpWhuaWpgaG5uamhrUAUjwc1Q%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659d9a989f979f9c99976666uokewi0e0y6k6e646o626o6i666200)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=469_1795042853847&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0tToCElxUpWhuaWpgaG5uamhrUAUjwc1Q%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659d9a989f979f9c99976666uokewi0e0y6k6e646o626o6i666200)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
