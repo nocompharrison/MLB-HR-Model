@@ -1,52 +1,59 @@
-# CBB transcripts | 2026-11-19 | updated 2026-11-19 11:23 ET
+# CBB transcripts | 2026-11-19 | updated 2026-11-19 17:07 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 17 files in CBB/transcripts/2026-11-19:
+# 29 files in CBB/transcripts/2026-11-19:
+CBB/transcripts/2026-11-19/3BUiW0O2Ivk_FieldOf68_NO_ONE_has_flipped_their_reputation_like_Kelvin_Sampson_has_at_Housto.txt
 CBB/transcripts/2026-11-19/4dgW3vW77L0_FieldOf68_If_North_Carolina_wins_ONE_tourney_game_this_year_will_be_a_HUGE_succ.txt
+CBB/transcripts/2026-11-19/4ilbu-7LlGs_FieldOf68_GOODMAN_FRIENDS_Brad_Underwood_on_Illinois_rout_at_Duke_Adam_Finkelste.txt
+CBB/transcripts/2026-11-19/5u3ymsaLXYg_FieldOf68_Arizona_s_three_headed_MONSTER_is_as_good_as_ANYONE_s_in_the_country.txt
 CBB/transcripts/2026-11-19/6_fkHAvH4gU_LockedOnCBB_BIG_12_SUPREMACY_Arizona_and_Houston_pick_up_MASSIVE_wins_is_BIG_12_th.txt
 CBB/transcripts/2026-11-19/9oFJxKl_BpM_PickDawgz_College_Basketball_Picks_Predictions_Today_11_19_26_Ron_s_Bank_Shot_Br.txt
 CBB/transcripts/2026-11-19/AwzWnq1DJL0_PickDawgz_College_Basketball_Picks_for_Today_11_19_26_Thursday_s_Best_College_Ba.txt
 CBB/transcripts/2026-11-19/EzhklFGXyhk_FieldOf68_Houston_and_Kansas_SURVIVE_Players_Era_BANGERS_Plus_UConn_Arizona_RJ_L.txt
 CBB/transcripts/2026-11-19/HbNef7UoAns_FieldOf68_EXCLUSIVE_Mo_Krivas_on_Arizona_s_BIG_win_over_UConn_We_just_SURVIVED_A.txt
 CBB/transcripts/2026-11-19/JlN6ywAFR7k_FieldOf68_PREVIEW_Who_has_the_EDGE_between_Houston_and_Kansas_in_the_Players_Era.txt
+CBB/transcripts/2026-11-19/KglO8ZhzrWg_TCE_College_Basketball_PICKS_ONLY_Thursday_November_19th_TCE_Trims.txt
 CBB/transcripts/2026-11-19/QtIaYfpMIzM_FieldOf68_RJ_Luis_PLAYS_for_Will_Wade_and_LSU_Goodman_The_SEC_is_NOT_happy_AFTER.txt
+CBB/transcripts/2026-11-19/R-dj40xtn24_FieldOf68_Brad_Underwood_with_the_LATEST_updated_timeline_on_David_Mirkovic_s_re.txt
 CBB/transcripts/2026-11-19/RhbhT9yFJT8_WagerTalk_Thursday_CBB_Picks_TODAY_Texas_A_M_vs_TCU_Oregon_State_vs_Oregon.txt
+CBB/transcripts/2026-11-19/SomSOaiy0_4_FieldOf68_UConn_falls_AGAIN_to_Arizona_How_INJURED_is_Braylon_Mullins_right_now.txt
+CBB/transcripts/2026-11-19/SsxDYLkMM2w_CBSCollegeBB_Houston_Arizona_submit_statement_wins_RJ_Luis_debuts_for_LSU_UCLA_surv.txt
+CBB/transcripts/2026-11-19/TQpVYsH11v0_TCE_College_Basketball_Best_Bets_For_November_19th_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-19/XmEODcKLd5Q_PickDawgz_Kansas_vs_Houston_Predictions_Picks_11_19_26_NCAAB_Best_Bets_Predictio.txt
 CBB/transcripts/2026-11-19/aIDMnN6a-8k_FieldOf68_Houston_should_be_the_NEW_No_1_team_Coogs_take_down_Florida_in_Vegas.txt
 CBB/transcripts/2026-11-19/bzIwlTUpVD4_FieldOf68_Goodman_I_want_to_see_FIRE_from_Mark_Pope_NOT_hunky_dory_Kentucky_PANI.txt
+CBB/transcripts/2026-11-19/cDAt-egQOr8_CBSCollegeBB_Jon_Rothstein_REACTS_to_R_J_Luis_making_his_LSU_debut.txt
 CBB/transcripts/2026-11-19/cYiIhkUPJgU_TCE_College_Basketball_Picks_For_November_19th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-19/d8nmZD97Gpk_PickDawgz_NCAAB_Alternate_Line_Prediction_11_19_26_The_Extendo_Clip.txt
 CBB/transcripts/2026-11-19/dw7C5GSoQLk_FieldOf68_Arizona_takes_down_UConn_AGAIN_This_is_a_LEGIT_national_title_contende.txt
+CBB/transcripts/2026-11-19/k_cZ6c_UrMQ_FieldOf68_Brad_Underwood_REACTS_to_Andrej_Stojakovic_s_HISTORIC_night_at_Duke_GO.txt
 CBB/transcripts/2026-11-19/lwHXSP9b5-4_FieldOf68_ARIZONA_UCONN_REACTION_Slow_starts_lessons_learned_time_to_grow_up_TOP.txt
 CBB/transcripts/2026-11-19/o5Iho-x7jio_FieldOf68_I_don_t_even_RECOGNIZE_Duke_right_now_Why_our_PANIC_METER_is_HIGH_AFT.txt
+CBB/transcripts/2026-11-19/tVtKAzykRYQ_CBSCollegeBB_Houston_remains_a_JUGGERNAUT.txt
 CBB/transcripts/2026-11-19/vdN9mBEyxmc_FieldOf68_Kansas_SURVIVES_without_Tyran_Stokes_This_is_a_DEEP_and_ELITE_team_AFT.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-18
 
 # this run:
-NEW     CBB/transcripts/2026-11-19/6_fkHAvH4gU_LockedOnCBB_BIG_12_SUPREMACY_Arizona_and_Houston_pick_up_MASSIVE_wins_is_BIG_12_th.txt  (6,247 words)
-NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-19/lwHXSP9b5-4_FieldOf68_ARIZONA_UCONN_REACTION_Slow_starts_lessons_learned_time_to_grow_up_TOP.txt  (6,335 words)
-NEW     CBB/transcripts/2026-11-19/EzhklFGXyhk_FieldOf68_Houston_and_Kansas_SURVIVE_Players_Era_BANGERS_Plus_UConn_Arizona_RJ_L.txt  (19,173 words)
-NEW     CBB/transcripts/2026-11-19/4dgW3vW77L0_FieldOf68_If_North_Carolina_wins_ONE_tourney_game_this_year_will_be_a_HUGE_succ.txt  (949 words)
-NEW     CBB/transcripts/2026-11-19/bzIwlTUpVD4_FieldOf68_Goodman_I_want_to_see_FIRE_from_Mark_Pope_NOT_hunky_dory_Kentucky_PANI.txt  (1,783 words)
-NEW     CBB/transcripts/2026-11-19/o5Iho-x7jio_FieldOf68_I_don_t_even_RECOGNIZE_Duke_right_now_Why_our_PANIC_METER_is_HIGH_AFT.txt  (1,534 words)
-NEW     CBB/transcripts/2026-11-19/JlN6ywAFR7k_FieldOf68_PREVIEW_Who_has_the_EDGE_between_Houston_and_Kansas_in_the_Players_Era.txt  (1,439 words)
-NEW     CBB/transcripts/2026-11-19/HbNef7UoAns_FieldOf68_EXCLUSIVE_Mo_Krivas_on_Arizona_s_BIG_win_over_UConn_We_just_SURVIVED_A.txt  (1,354 words)
-NEW     CBB/transcripts/2026-11-19/dw7C5GSoQLk_FieldOf68_Arizona_takes_down_UConn_AGAIN_This_is_a_LEGIT_national_title_contende.txt  (1,597 words)
-NEW     CBB/transcripts/2026-11-19/vdN9mBEyxmc_FieldOf68_Kansas_SURVIVES_without_Tyran_Stokes_This_is_a_DEEP_and_ELITE_team_AFT.txt  (1,459 words)
-NEW     CBB/transcripts/2026-11-19/QtIaYfpMIzM_FieldOf68_RJ_Luis_PLAYS_for_Will_Wade_and_LSU_Goodman_The_SEC_is_NOT_happy_AFTER.txt  (2,147 words)
-NEW     CBB/transcripts/2026-11-19/aIDMnN6a-8k_FieldOf68_Houston_should_be_the_NEW_No_1_team_Coogs_take_down_Florida_in_Vegas.txt  (2,486 words)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+DEFER   CBSCollegeBB HvjHADE1ECk Kentucky vs Indiana Game Preview | Storylines and Prediction  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-19/cDAt-egQOr8_CBSCollegeBB_Jon_Rothstein_REACTS_to_R_J_Luis_making_his_LSU_debut.txt  (687 words)
+NEW     CBB/transcripts/2026-11-19/tVtKAzykRYQ_CBSCollegeBB_Houston_remains_a_JUGGERNAUT.txt  (1,538 words)
+NEW     CBB/transcripts/2026-11-19/SsxDYLkMM2w_CBSCollegeBB_Houston_Arizona_submit_statement_wins_RJ_Luis_debuts_for_LSU_UCLA_surv.txt  (6,219 words)
+UPCOMING FieldOf68 UJ8VPcNt0mg INSTANT REACTION TO HOUSTON-KANSAS! Plus, previewing Kentuck  (not aired yet - scheduled for 11/20/26 12:00AM)
+NEW     CBB/transcripts/2026-11-19/k_cZ6c_UrMQ_FieldOf68_Brad_Underwood_REACTS_to_Andrej_Stojakovic_s_HISTORIC_night_at_Duke_GO.txt  (1,749 words)
+NEW     CBB/transcripts/2026-11-19/R-dj40xtn24_FieldOf68_Brad_Underwood_with_the_LATEST_updated_timeline_on_David_Mirkovic_s_re.txt  (1,363 words)
+NEW     CBB/transcripts/2026-11-19/3BUiW0O2Ivk_FieldOf68_NO_ONE_has_flipped_their_reputation_like_Kelvin_Sampson_has_at_Housto.txt  (1,972 words)
+NEW     CBB/transcripts/2026-11-19/SomSOaiy0_4_FieldOf68_UConn_falls_AGAIN_to_Arizona_How_INJURED_is_Braylon_Mullins_right_now.txt  (1,389 words)
+NEW     CBB/transcripts/2026-11-19/5u3ymsaLXYg_FieldOf68_Arizona_s_three_headed_MONSTER_is_as_good_as_ANYONE_s_in_the_country.txt  (1,620 words)
+NOCAPS  FieldOf68 YVvaf-S2jiw Breaking down the BIGGEST storylines in Mid-Major hoops! | T  (no captions; Groq: still live - audio not final yet)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-19/cYiIhkUPJgU_TCE_College_Basketball_Picks_For_November_19th_NCAA_Basketball_Banter_Best.txt  (18,460 words)
+NEW     CBB/transcripts/2026-11-19/KglO8ZhzrWg_TCE_College_Basketball_PICKS_ONLY_Thursday_November_19th_TCE_Trims.txt  (10,678 words)
+NEW     CBB/transcripts/2026-11-19/TQpVYsH11v0_TCE_College_Basketball_Best_Bets_For_November_19th_Spread_Moneyline_Bettin.txt  (953 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-19/RhbhT9yFJT8_WagerTalk_Thursday_CBB_Picks_TODAY_Texas_A_M_vs_TCU_Oregon_State_vs_Oregon.txt  (1,401 words)
-NEW     CBB/transcripts/2026-11-18/EhPRsFbUllQ_WagerTalk_CBB_Picks_Today_Wednesday_s_Best_Bets_Spreads_Totals_Full_Court_Press.txt  (11,862 words)
 NOCAPS  WagerTalk 5k4TVexOsj8 College Basketball Picks Today: Thursday CBB Best Bets & Odd  (no captions; Groq: live stream still processing - audio not final yet)
 NOCAPS  WagerTalk OJakknAp-f8 College Basketball Picks Today: Thursday CBB Best Bets & Odd  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-19/d8nmZD97Gpk_PickDawgz_NCAAB_Alternate_Line_Prediction_11_19_26_The_Extendo_Clip.txt  (1,568 words)
-NEW     CBB/transcripts/2026-11-19/AwzWnq1DJL0_PickDawgz_College_Basketball_Picks_for_Today_11_19_26_Thursday_s_Best_College_Ba.txt  (3,529 words)
-NEW     CBB/transcripts/2026-11-19/9oFJxKl_BpM_PickDawgz_College_Basketball_Picks_Predictions_Today_11_19_26_Ron_s_Bank_Shot_Br.txt  (1,809 words)
+NEW     CBB/transcripts/2026-11-19/XmEODcKLd5Q_PickDawgz_Kansas_vs_Houston_Predictions_Picks_11_19_26_NCAAB_Best_Bets_Predictio.txt  (1,123 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -54,4 +61,6 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NEW     CBB/transcripts/2026-11-19/4ilbu-7LlGs_FieldOf68_GOODMAN_FRIENDS_Brad_Underwood_on_Illinois_rout_at_Duke_Adam_Finkelste.txt  (11,184 words, via Groq)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NOTE    deferred videos are picked up automatically on the next scheduled run
