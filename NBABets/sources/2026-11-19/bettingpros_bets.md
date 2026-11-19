@@ -1,4 +1,4 @@
-<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/ | fetched: 2026-11-19 12:10 ET -->
+<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/ | fetched: 2026-11-19 16:16 ET -->
 
 Title: NBA Picks & Predictions: Thursday (11/19)
 
@@ -684,10 +684,10 @@ Create a BettingPros account and sync your sportsbooks for free!
 ## Partner Offers
 
 *   [![Image 21: Logo for Novig](https://www.bettingpros.com/assets/images/books/novig-icon.svg)Novig Deposit $10, Get $50](https://btng.pro/ZL6ZMc)
-*   [![Image 22: Logo for FanDuel](https://www.bettingpros.com/assets/images/books/fanduel-logo-square.png)FanDuel$200 in Bonus Bets](https://btng.pro/Op5Moy)
-*   [![Image 23: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
-*   [![Image 24: Logo for DraftKings](https://www.bettingpros.com/assets/images/books/draftkings-logo-square.png)DraftKings Spend $5, Get $200 (Paid over 21 days) + NBA League Pass](https://btng.pro/FMwkO6)
-*   [![Image 25: Logo for bet365](https://www.bettingpros.com/assets/images/books/bet365-icon.webp)bet365 See Promo Details](https://btng.pro/fwEpw5)
+*   [![Image 22: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
+*   [![Image 23: Logo for Plus500](https://www.bettingpros.com/assets/images/books/plus500-icon.webp)Plus500 Trade $10, Get $20](https://btng.pro/MxFTo3)
+*   [![Image 24: Logo for DraftKings Pick6](https://www.bettingpros.com/assets/images/books/draftkings-pick6-icon.webp)DraftKings Pick6 Spend $5, Get $50](https://btng.pro/yBY6om)
+*   [![Image 25: Logo for Kalshi](https://www.bettingpros.com/assets/images/books/kalshi-icon.webp)Kalshi Trade $25, Get $25](https://btng.pro/fZlQbW)
 
 Click to view more sportsbook offers
 
@@ -729,37 +729,37 @@ Join
 
 [NFL Thursday Night Football Player Props & Bets: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 
-[4 hours ago](https://www.bettingpros.com/articles/author/steve-krebs/)
+[8 hours ago](https://www.bettingpros.com/articles/author/steve-krebs/)
 
 [![Image 29: Article image](https://www.bettingpros.com/img/tyler_warren_colts_5-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
 
 [NFL Thursday Night Football Betting Primer: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/andrew-erickson/)
+[9 hours ago](https://www.bettingpros.com/articles/author/andrew-erickson/)
 
 [![Image 30: Article image](https://www.bettingpros.com/img/Dalton_Schultz_Texans_1470x650-2-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
 
 [NFL Thursday Night Football Same Game Parlay: Texans vs. Colts](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
+[9 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
 
 [![Image 31: Article image](https://www.bettingpros.com/img/cj_Stroud_texans_7-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
 
 [Best NFL Player Props: Thursday Night Football (Colts vs. Texans)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/blaine/)
+[9 hours ago](https://www.bettingpros.com/articles/author/blaine/)
 
 [![Image 32: Article image](https://www.bettingpros.com/img/Jonathan_Taylor_colts_10-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
 
 [NFL Thursday Night Football TD Scorers Picks: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
+[9 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
 
 [![Image 33: Article image](https://www.bettingpros.com/assets/images/articles/default_fallback_thumbnail-120x120.webp)](https://www.bettingpros.com/articles/college-football-picks-predictions-rice-vs-temple-thursday/)
 
 [College Football Picks & Predictions: Rice vs. Temple (Thursday)](https://www.bettingpros.com/articles/college-football-picks-predictions-rice-vs-temple-thursday/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
+[9 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
 
 * * *
 
@@ -890,5 +890,5 @@ Allow All
 
 [![Image 37: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
-![Image 38](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795108193-FQBMZWP6-RXV1)![Image 39](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795108193-FQBMZWP6-RXV1&adnxs_id=$UID&gdpr=0)![Image 40](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795108193-FQBMZWP6-RXV1%26auid%3DAU1D-0100-001795108193-FQBMZWP6-RXV1&gdpr=0)![Image 41](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795108193-FQBMZWP6-RXV1&gdpr=0)![Image 42](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795108193-FQBMZWP6-RXV1&gdpr=0)![Image 43](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795108193-FQBMZWP6-RXV1&gdpr=0)![Image 44](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795108193-FQBMZWP6-RXV1&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795108193-FQBMZWP6-RXV1%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 45](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTEwODE5My1GUUJNWldQNi1SWFYx&id=AU1D-0100-001795108193-FQBMZWP6-RXV1&gdpr=0)![Image 46](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795108193-FQBMZWP6-RXV1)![Image 47](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795108193-FQBMZWP6-RXV1&uid=[UID]&gdpr=0)![Image 48](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795108193-FQBMZWP6-RXV1%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![Image 38](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795122995-VEVYY097-CD1J&halo_id=060ixfkju6a659b999d9c66666666666666uooywi0e0y6g666k6i000000000000)![Image 39](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795122995-VEVYY097-CD1J)![Image 40](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795122995-VEVYY097-CD1J&adnxs_id=$UID&gdpr=0)![Image 41](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J%26auid%3DAU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 42](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 43](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 44](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 45](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795122995-VEVYY097-CD1J&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795122995-VEVYY097-CD1J%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 46](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTEyMjk5NS1WRVZZWTA5Ny1DRDFK&id=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 47](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J)![Image 48](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795122995-VEVYY097-CD1J&uid=[UID]&gdpr=0)![Image 49](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795122995-VEVYY097-CD1J%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
