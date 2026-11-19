@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-19 18:39 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-19 18:53 ET -->
 
 
 ---
@@ -32,23 +32,10 @@ _Please note: lines and projections are subject to change throughout the day aft
 ## NBA Prop Bets for Today: Best NBA Props
 ### [Karl-Anthony Towns Over 12.5 Rebounds (-136)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Knicks at Timberwolves — 8:00 p.m. ET
-Moneyline
-Spread
-Total Points
-[New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds)
-@
-* * *
-[Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds)
--112
--1.5
--106
-O 215.5
--115
--104
-+1.5
--114
-U 215.5
--105
+Karl-Anthony Towns - Rebounds
+Karl-Anthony Towns Over
+O 12.5
+-138
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Odds/lines subject to change
 [Karl-Anthony Towns](https://sportsbook.fanduel.com/teams/nba/roster/karlanthony-towns-2326) is averaging 14.1 rebounds through 14 games for the [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster), comfortably above this 12.5-rebound line. He has secured at least 13 boards in seven of his last 10 appearances and has been particularly active recently, collecting 16, 17 and 15 rebounds in three of his past four games. 
@@ -57,23 +44,10 @@ The [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-
 KAT’s combination of opportunity and proven rebounding volume points toward another 13-plus-board performance.
 ### [De’Aaron Fox Under 6.5 Assists (-132)](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-san-antonio-spurs-36330630)
 Clippers at Spurs — 8:00 p.m. ET
-Moneyline
-Spread
-Total Points
-[LA Clippers](https://sportsbook.fanduel.com/teams/nba/los-angeles-clippers/odds)
-@
-* * *
-[San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/odds)
-+660
-+15.5
--114
-O 224.5
--110
--1000
--15.5
--106
-U 224.5
--110
+De'Aaron Fox - Assists
+De'Aaron Fox Under
+U 6.5
+-150
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-san-antonio-spurs-36330630)
 Odds/lines subject to change
 [De’Aaron Fox](https://sportsbook.fanduel.com/teams/nba/roster/deaaron-fox-2516) has averaged 5.5 assists this season with the [San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/roster), making a 6.5-assist line a challenging number to clear. 
@@ -81,23 +55,10 @@ Fox has recorded fewer than seven assists in eight of his last 10 games, and his
 With the [Los Angeles Clippers](https://sportsbook.fanduel.com/teams/nba/la-clippers/roster) entering as a sizable underdog (+15.5), a lopsided game could also limit Fox’s minutes. 
 ### [Jrue Holiday Under 17.5 Points + Assists (-108)](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-milwaukee-bucks-36330628)
 Trail Blazers at Bucks — 8:00 p.m. ET
-Moneyline
-Total Points
-Spread
-[Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds)
-@
-* * *
-[Milwaukee Bucks](https://sportsbook.fanduel.com/teams/nba/milwaukee-bucks/odds)
--550
-O 230.5
--105
--11.5
--106
-+410
-U 230.5
--115
-+11.5
--114
+Jrue Holiday - Pts + Ast
+Jrue Holiday Under
+U 18.5
+-122
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-milwaukee-bucks-36330628)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220) has contributed 13.3 points and 4.1 assists per game for the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/roster) this season, a combined average of 17.4 that sits narrowly beneath this line. He has finished with 17 or fewer PA in six of his last 10 outings, including totals of 13 and 11 in two of his past three. 
@@ -142,8 +103,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+6m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-18m
+32m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -151,16 +122,6 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
 
 
@@ -201,7 +162,7 @@ Warriors at Grizzlies — 8:00 p.m. ET
 Total Points
 Under
 U 224.5
--112
+-114
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/golden-state-warriors-@-memphis-grizzlies-36330627)
 Odds/lines subject to change
 Sans [Stephen Curry](https://sportsbook.fanduel.com/teams/nba/roster/stephen-curry-195), the [Warriors](https://sportsbook.fanduel.com/teams/nba/golden-state-warriors/odds) have hit an offensive wall, scoring just 94 points in each of their last two games, against New Orleans and Dallas. Their season-long offensive rating is 111.8 points per 100 possessions, well below the [Grizzlies](https://sportsbook.fanduel.com/teams/nba/memphis-grizzlies/odds)’ mark of 118.6. That gap is also the biggest risk to this under: Memphis has the firepower to carry a sizable share of the total on its own.
@@ -251,8 +212,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+6m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-18m
+32m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -260,16 +231,6 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
 
 
@@ -287,7 +248,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-7h
+8h
 Link
 ![Knicks vs. Timberwolves Prediction, Picks and Prop Bets \(Nov. 19\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8c02ec132878f5a664305d3856052230b0a522f5-4356x2905.jpg%3Frect%3D327%2C0%2C3644%2C1803%26w%3D964%26h%3D477&w=1920&q=100)
 **Knicks vs. Timberwolves Top Bets at a Glance**
@@ -346,8 +307,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+6m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-18m
+32m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -355,16 +326,6 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
 
 
@@ -455,8 +416,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+6m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-18m
+32m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -464,16 +435,6 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
 
 
@@ -491,7 +452,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Thursday, Nov. 19
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-8h
+9h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c5f72fdbf2006afc68bfe90c8637a086437c85d-4921x2768.jpg%3Frect%3D132%2C0%2C4658%2C2305%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -579,8 +540,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+6m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-19m
+33m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -588,16 +559,6 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
 
 
@@ -625,7 +586,7 @@ Link
   * **Coverage:** DAZN-MEM, NBCS-BA, and PCK-GSW
 
 
-The Memphis Grizzlies (11-4) are favored (-6.5) to extend a four-game winning streak when they host the Golden State Warriors (8-7) at 8 p.m. ET on Thursday, November 19, 2026 at FedExForum. The game airs on DAZN-MEM, NBCS-BA, and PCK-GSW. The matchup's point total is set at 224.5.
+The Golden State Warriors (8-7) will attempt to stop a four-game losing streak when they hit the road to play the Memphis Grizzlies (11-4) on Thursday, November 19, 2026 at FedExForum as 5.5-point underdogs. The contest airs at 8 p.m. ET on DAZN-MEM, NBCS-BA, and PCK-GSW. The matchup's point total is set at 224.5.
 ## Grizzlies vs. Warriors Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -635,30 +596,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Grizzlies win (51.3%)
 ## Grizzlies vs. Warriors Betting Trends
-  * The Grizzlies have gone 11-4-0 against the spread this season.
-  * The Warriors have played 15 games, with eight wins against the spread.
-  * This season, eight of the Grizzlies' games have gone over the point total.
-  * The Warriors have hit the over 46.7% of the time this year (seven of 15 games with a set point total).
-  * Against the spread, Memphis has played worse when playing at home, covering three times in seven home games, and eight times in eight road games.
-  * At home, the Grizzlies eclipse the over/under 71.4% of the time (five of seven games). They've hit the over in 37.5% of games on the road (three of eight contests).
-  * Golden State has performed better against the spread at home (5-2-0) than away (3-5-0) this season.
-  * In 2026-27 a lower percentage of the Warriors' games have finished above the over/under at home (42.9%, three of seven) than on the road (50%, four of eight).
+  * The Grizzlies are 11-4-0 against the spread this season.
+  * Against the spread, the Warriors are 8-7-0 this year.
+  * Games involving the Grizzlies have hit the over eight times this season.
+  * Warriors games this year have hit the over on seven of 15 set point totals (46.7%).
+  * Memphis has covered the spread in a lower percentage of its home games than away games. It has covered three times in seven games when playing at home, and it has covered eight times in eight games when playing on the road.
+  * The Grizzlies have gone over the over/under more often at home, hitting the over in five of seven home matchups (71.4%). In road games, they have hit the over in three of eight games (37.5%).
+  * Golden State has been better against the spread at home (5-2-0) than on the road (3-5-0) this year.
+  * In 2026-27 a lower percentage of the Warriors' games have finished above the over/under at home (42.9%, three of seven) compared to on the road (50%, four of eight).
 
 
 ## Grizzlies Leaders
-  * Cameron Boozer's numbers on the season are 16.6 points, 9.4 boards and 5.3 assists per contest, shooting 40% from the floor and 32.2% from downtown, with an average of 1.9 made treys.
-  * Cedric Coward averages 14.5 points, 8.4 rebounds and 3.4 assists.
-  * Ty Jerome is averaging 25.4 points, 3.4 boards and 5.3 assists. At the other end, he averages 0.7 steals and 0.2 blocked shots.
-  * Cam Spencer averages 11.4 points, 3.1 rebounds and 5.5 assists, shooting 56.7% from the field (eighth in league) and 58.2% from beyond the arc (second in NBA), with 2.1 made 3-pointers per game.
-  * Jaylen Wells is averaging 10.7 points, 1.5 assists and 3 boards.
+  * Cameron Boozer averages 16.6 points, 9.4 boards and 5.3 assists.
+  * Cedric Coward averages 14.5 points, 8.4 boards and 3.4 assists.
+  * Cam Spencer averages 11.4 points, 3.1 rebounds and 5.5 assists, shooting 56.7% from the floor (eighth in NBA) and 58.2% from downtown (second in league), with 2.1 made 3-pointers per game.
+  * Jaylen Wells averages 10.7 points, 3.0 rebounds and 1.5 assists, shooting 48.7% from the floor and 40.0% from beyond the arc, with 2.0 made 3-pointers per contest.
+  * Jerami Grant is averaging 11.1 points, 1.9 rebounds and 1.9 assists. At the other end, he averages 0.5 steals and 0.9 blocked shots.
 
 
 ## Warriors Leaders
-  * Yaxel Lendeborg's numbers on the season are 20.3 points, 7.3 rebounds and 3.5 assists per contest. He is also sinking 46.4% of his shots from the field and 37.8% from 3-point range, with an average of 2.1 triples.
-  * The Warriors are getting 15.8 points, 4.8 boards and 3.8 assists per game from Brandin Podziemski.
-  * The Warriors are getting 9.1 points, 3.9 rebounds and 2.3 assists per game from De'Anthony Melton.
-  * Per game, Charles Bassey gets the Warriors 7.8 points, 5.4 boards and 0.5 assists, plus 0.2 steals and 0.9 blocks.
-  * Georges Niang averages 7.5 points, 3 boards and 1.5 assists. He is making 42.6% of his shots from the floor and 32.2% from 3-point range, with 1.3 treys per contest.
+  * Yaxel Lendeborg is averaging 20.3 points, 7.3 rebounds and 3.5 assists for the Warriors.
+  * The Warriors receive 15.8 points per game from Brandin Podziemski, plus 4.8 boards and 3.8 assists.
+  * The Warriors are getting 9.1 points, 3.9 boards and 2.3 assists per game from De'Anthony Melton.
+  * The Warriors are receiving 7.8 points, 5.4 rebounds and 0.5 assists per game from Charles Bassey.
+  * Per game, Georges Niang provides the Warriors 7.5 points, 3.0 rebounds and 1.5 assists, plus 0.5 steals and 0.1 blocks.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -667,8 +628,18 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Cavaliers vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+7m
+Find Cavaliers vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/cavaliers-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Hornets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+8m
+Find Hawks vs. Hornets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-hornets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
-19m
+33m
 Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -676,14 +647,4 @@ Preview NBA games for Friday, November 20, with predictions, odds, betting lines
 1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-2h
-What are the NBA best bets and picks for Thursday night?
-[](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [Knicks vs. Timberwolves Prediction, Picks and Prop Bets (Nov. 19)](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-7h
-Knicks vs. Timberwolves picks and best bets for today.
-[](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
 
