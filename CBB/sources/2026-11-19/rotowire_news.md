@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-19 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-19 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,175 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![North Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina.png?v=16)
+[Cameron Fens](https://www.rotowire.com/cbasketball/player/cameron-fens-21404)
+Cleared to play this season
+**C** North Carolina
+Not Injury Related
+November 19, 2026
+Fens has been granted a waiver to play this season for North Carolina, [Andrew Jones of 247Sports](https://x.com/AJTarHeel247/status/2123532635314049394) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Lincoln Williams](https://www.rotowire.com/cbasketball/player/lincoln-williams-28105)
+Misses Thursday's practice
+**G** Illinois
+Undisclosed
+November 19, 2026
+Williams (undisclosed) did not practice Thursday, according to [Jeremy Werner of 247Sports](https://x.com/ktausk13/status/2123475899278573807?a=8k2gpnRDqunrvsvZOsw&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Quentin Coleman](https://www.rotowire.com/cbasketball/player/quentin-coleman-28102)
+Misses Thursday's practice
+**G** Illinois
+Undisclosed
+November 19, 2026
+Coleman did not practice Thursday, Illinois head coach Brad Underwood said, according to [Jeremy Werner of 247Sports](https://x.com/ktausk13/status/2123475899278573807?a=8k2gpnRDqunrvsvZOsw&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Zvonimir Ivisic](https://www.rotowire.com/cbasketball/player/zvonimir-ivisic-22481)
+Misses Thursday's practice
+**F** Illinois
+Undisclosed
+November 19, 2026
+Ivisic (undisclosed) did not practice Thursday, [Jeremy Werner of 247Sports.com](https://x.com/JWerner247/status/2123478786415239290).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Loyola-Chicago](https://assets.rotowire.com/images/teamlogo/cbasketball/Loyola-Chicago.png?v=16)
+[Donald Hand](https://www.rotowire.com/cbasketball/player/donald-hand-20469)
+Out for season with knee injury
+**G** Loyola-Chicago
+Knee
+November 19, 2026
+Hand is out for the season after sustaining a knee injury during Loyola-Chicago's game against Colorado State, [Zach Joachim of the Richmond Times-Dispatch reports](https://x.com/ZachJoachim/status/2123479214125183135) while relaying a report from Rambler Sports Network.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![USC](https://assets.rotowire.com/images/teamlogo/cbasketball/USC.png?v=16)
+[Onyeka Joe Agu](https://www.rotowire.com/cbasketball/player/onyeka-joe-agu-28061)
+Sidelined vs. Tarleton State
+**C** USC
+Groin
+November 19, 2026
+Agu (groin) won't play Thursday night against Tarleton State, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2123509120560992323?a=OQ1NszlTc9BHmYVQayI&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[Ivan Kharchenkov](https://www.rotowire.com/cbasketball/player/ivan-kharchenkov-26037)
+Continues impressive start to season
+**F** Arizona
+November 19, 2026
+Kharchenkov chipped in 20 points (7-12 FG, 2-4 3Pt, 4-4 FT), five rebounds, seven assists and two steals over 39 minutes during Wednesday's 85-79 win over UConn.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[David Mirkovic](https://www.rotowire.com/cbasketball/player/david-mirkovic-25731)
+Out of walking boot
+**F** Illinois
+Foot
+November 19, 2026
+Mirkovic (foot) is out of his walking boot and working through his recovery process, per [The Field of 68](https://x.com/TheFieldOf68/status/2123499047625617487?a=iR0OgortxPfJfcrRTO0&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
+[Urban Klavzar](https://www.rotowire.com/cbasketball/player/urban-klavzar-23644)
+Starting Thursday
+**G** Florida
+November 19, 2026
+Klavzar will start Thursday's mathcup against West Virginia, per [Kevin Brockway of The Gainesville Sun](https://x.com/KevinBrockwayG1/status/2123498108868870467?a=_DfV3V1aHXp7ozms83U&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
+[Boogie Fland](https://www.rotowire.com/cbasketball/player/boogie-fland-23411)
+Out vs. WVU
+**G** Florida
+Shoulder
+November 19, 2026
+Fland (shoulder) will not play during Thursday's matchup against West Virginia, per [Kevin Brockway of The Gainesville Sun](https://x.com/KevinBrockwayG1/status/2123498108868870467?a=_DfV3V1aHXp7ozms83U&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Garwey Dual](https://www.rotowire.com/cbasketball/player/garwey-dual-22546)
+Loaded stat line in win
+**G** Syracuse
+November 19, 2026
+Dual accumulated 20 points (8-9 FG, 2-2 3Pt, 2-2 FT), four rebounds, eight assists, one block and three steals over 32 minutes during Wednesday's 91-82 victory over Cornell.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Brandon Benjamin](https://www.rotowire.com/cbasketball/player/brandon-benjamin-27981)
+Posts double-double off bench
+**F** Boston College
+November 19, 2026
+Benjamin notched 19 points (8-9 FG, 3-4 FT), 13 rebounds and one steal in 23 minutes during Wednesday's 74-69 win over Harvard.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Notre Dame](https://assets.rotowire.com/images/teamlogo/cbasketball/Notre-Dame.png?v=16)
+[Braeden Smith](https://www.rotowire.com/cbasketball/player/braeden-smith-20971)
+Shines in win over Rutgers
+**G** Notre Dame
+November 19, 2026
+Smith posted 26 points (10-11 FG, 1-1 3Pt, 5-8 FT), six rebounds, six assists and two steals in 38 minutes during Wednesday's 110-100 OT win over Rutgers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
+[Jonathan Griman](https://www.rotowire.com/cbasketball/player/jonathan-griman-23073)
+Perfect from floor in debut
+**F** Arizona State
+November 19, 2026
+Griman (undisclosed) accumulated six points (3-3 FG, 0-1 FT), four rebounds, one assist and one block over 11 minutes during Wednesday's 68-65 win over Oakland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Creighton](https://assets.rotowire.com/images/teamlogo/cbasketball/Creighton.png?v=16)
+[Hudson Greer](https://www.rotowire.com/cbasketball/player/hudson-greer-25733)
+Scores 14 Wednesday
+**G** Creighton
+November 19, 2026
+Greer totaled 14 points (5-10 FG, 3-5 3Pt, 1-1 FT), five rebounds, one block and two steals across 23 minutes during Wednesday's 88-65 win over Bethune-Cookman.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Connecticut](https://assets.rotowire.com/images/teamlogo/cbasketball/Connecticut.png?v=16)
+[Silas Demary](https://www.rotowire.com/cbasketball/player/silas-demary-22243)
+Productive in close loss
+**G** Connecticut
+November 19, 2026
+Demary posted 15 points (3-14 FG, 0-3 3Pt, 9-10 FT), three rebounds, six assists and two steals across 38 minutes before fouling out of Wednesday's 85-79 loss to Arizona.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Connecticut](https://assets.rotowire.com/images/teamlogo/cbasketball/Connecticut.png?v=16)
+[Braylon Mullins](https://www.rotowire.com/cbasketball/player/braylon-mullins-26057)
+Drops 29 at Arizona
+**G** Connecticut
+November 19, 2026
+Mullins ended with 29 points (8-21 FG, 6-15 3Pt, 7-8 FT), five rebounds, one block and one steal across 36 minutes during Wednesday's 85-79 loss to Arizona.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Connecticut](https://assets.rotowire.com/images/teamlogo/cbasketball/Connecticut.png?v=16)
+[Colben Landrew](https://www.rotowire.com/cbasketball/player/colben-landrew-28217)
+Double-double in road loss
+**F** Connecticut
+November 19, 2026
+Landrew ended with 12 points (4-8 FG, 0-2 3Pt, 4-4 FT), 10 rebounds, two assists and two steals across 37 minutes during Wednesday's 85-79 loss to Arizona.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Marquette](https://assets.rotowire.com/images/teamlogo/cbasketball/Marquette.png?v=16)
+[Royce Parham](https://www.rotowire.com/cbasketball/player/royce-parham-23624)
+Scores 16 Wednesday
+**F** Marquette
+November 19, 2026
+Parham ended with 16 points (3-7 FG, 1-2 3Pt, 9-10 FT), two rebounds, five assists, one block and two steals across 29 minutes during Wednesday's 79-65 victory over Northern Illinois.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Colorado](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado.png?v=16)
+[Goc Malual](https://www.rotowire.com/cbasketball/player/goc-malual-27795)
+Dealing with injury
+**F** Colorado
+Undisclosed
+November 19, 2026
+Malual (undisclosed) was held out of Tuesday's matchup against Portland due to an injury, per [Pat Rooney of the Daily Camera](https://www.dailycamera.com/2026/11/18/colorado-buffaloes-basketball-portland-pilots-james-odonnell/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Marquette](https://assets.rotowire.com/images/teamlogo/cbasketball/Marquette.png?v=16)
 [Sananda Fru](https://www.rotowire.com/cbasketball/player/sananda-fru-25192)
 Excellent in Wednesday's win
@@ -46,167 +215,6 @@ November 19, 2026
 Hall posted 20 points (7-14 FG, 2-9 3Pt, 4-4 FT), five rebounds, five assists and one steal over 22 minutes during Wednesday's 119-72 win over Siena.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgetown](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgetown.png?v=16)
-[Kayvaun Mulready](https://www.rotowire.com/cbasketball/player/kayvaun-mulready-23307)
-Drops 17 Wednesday
-**G** Georgetown
-November 19, 2026
-Mulready amassed 17 points (6-12 FG, 4-10 3Pt, 1-1 FT), five rebounds, two assists, one block and one steal across 32 minutes during Wednesday's 84-53 victory over Navy.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgetown](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgetown.png?v=16)
-[Elmarko Jackson](https://www.rotowire.com/cbasketball/player/elmarko-jackson-22258)
-Double-double Wednesday
-**G** Georgetown
-November 19, 2026
-Jackson registered 14 points (6-9 FG, 2-4 3Pt), 10 rebounds, five assists and one steal over 34 minutes during Wednesday's 84-53 victory over Navy.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
-[Bruce Branch](https://www.rotowire.com/cbasketball/player/bruce-branch-28179)
-Impresses in different role
-**F** BYU
-November 19, 2026
-Branch accumulated 16 points (5-14 FG, 2-7 3Pt, 4-6 FT), three rebounds, six assists, one block and three steals across 25 minutes during Wednesday's 98-54 win over Northern Colorado.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
-[Robert Wright](https://www.rotowire.com/cbasketball/player/robert-wright-23485)
-Sits out against Northern Colorado
-**G** BYU
-Undisclosed
-November 19, 2026
-Wright (undisclosed) did not play in BYU's victory over Northern Colorado on Wednesday.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[Bukky Oboye](https://www.rotowire.com/cbasketball/player/bukky-oboye-22623)
-Scores 14, swats four
-**C** Auburn
-November 19, 2026
-Oboye ended Wednesday's 86-71 victory over UNLV with 14 points (7-8 FG), five rebounds and three blocks across 19 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[George Kimble](https://www.rotowire.com/cbasketball/player/george-kimble-26070)
-Starts, deals nine assists
-**G** Auburn
-November 19, 2026
-Kimble logged seven points (2-5 FG, 0-1 3Pt, 3-6 FT), two rebounds, nine assists and two steals across 28 minutes during Wednesday's 86-71 win over UNLV.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[Kevin Overton](https://www.rotowire.com/cbasketball/player/kevin-overton-22799)
-Scoreless in six minutes
-**G** Auburn
-November 19, 2026
-Overton produced zero points (0-2 FG, 0-2 3Pt) across six minutes during Wednesday's 86-71 victory over UNLV.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
-[Bryson Tiller](https://www.rotowire.com/cbasketball/player/bryson-tiller-25179)
-Snags first double-double
-**F** Missouri
-November 19, 2026
-Tiller closed Wednesday's 102-41 win over Alcorn State with 23 points (7-10 FG, 1-3 3Pt, 8-10 FT), 10 rebounds, one assist, four blocks and two steals across 24 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Missouri](https://assets.rotowire.com/images/teamlogo/cbasketball/Missouri.png?v=16)
-[Mark Mitchell](https://www.rotowire.com/cbasketball/player/mark-mitchell-20347)
-Springs for 16 points
-**F** Missouri
-November 19, 2026
-Mitchell (concussion) recorded 16 points (4-5 FG, 0-1 3Pt, 8-9 FT), five rebounds, three assists, one block and two steals over 23 minutes during Wednesday's 102-41 victory over Alcorn State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[Xzayvier Brown](https://www.rotowire.com/cbasketball/player/xzayvier-brown-22765)
-Goes off for 27 points, eight dimes
-**G** Oklahoma
-November 19, 2026
-Brown ended with 27 points (6-10 FG, 3-5 3Pt, 12-12 FT), four rebounds, eight assists and one block across 37 minutes during Wednesday's 87-78 victory over Campbell.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
-[B.J. Edwards](https://www.rotowire.com/cbasketball/player/bj-edwards-20601)
-Starts, scores 19
-**G** Oklahoma
-November 19, 2026
-Edwards ended Wednesday's 87-78 victory over Campbell with a season-high 19 points (7-10 FG, 2-3 3Pt, 3-3 FT), three rebounds, three assists and three steals in 37 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[Mouhamed Dioubate](https://www.rotowire.com/cbasketball/player/mouhamed-dioubate-22409)
-Tallies 16 points, eight boards
-**F** Louisiana State
-November 19, 2026
-Dioubate closed Wednesday's 79-67 victory over ULM with 16 points (7-8 FG, 2-3 FT), eight rebounds, one block and three steals over 21 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[Skyy Clark](https://www.rotowire.com/cbasketball/player/skyy-clark-20391)
-Scores 17 in win
-**G** Louisiana State
-November 19, 2026
-Clark amassed 17 points (5-12 FG, 3-9 3Pt, 4-4 FT), four rebounds and one steal across 34 minutes during Wednesday's 79-67 win over ULM.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[RJ Luis](https://www.rotowire.com/cbasketball/player/rj-luis-20703)
-Debuts with 11 points, nine boards
-**F** Louisiana State
-November 19, 2026
-Luis provided 11 points (3-9 FG, 1-4 3Pt, 4-5 FT), nine rebounds, one assist and one block in 15 minutes during Wednesday's 79-67 victory over ULM.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Washington State](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington-State.png?v=16)
-[Lazerek Houston](https://www.rotowire.com/cbasketball/player/lazerek-houston-27839)
-One dime shy of a triple-double
-**G** Washington State
-November 19, 2026
-Houston racked up 16 points (5-10 FG, 2-4 3Pt, 4-4 FT), 11 rebounds, nine assists and four steals in 35 minutes during Wednesday's 79-63 win over Hawaii.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![San Diego State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Diego-State.png?v=16)
-[Latrell Davis](https://www.rotowire.com/cbasketball/player/latrell-davis-22984)
-Provides 20 points
-**G** San Diego State
-November 19, 2026
-Davis produced 20 points (6-12 FG, 5-9 3Pt, 3-4 FT), two rebounds and three assists across 19 minutes during Wednesday's 97-51 win over Texas Southern.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Will Hornseth](https://www.rotowire.com/cbasketball/player/will-hornseth-24244)
-Records season-high 22 points
-**F** Utah State
-November 19, 2026
-Hornseth registered 22 points (11-13 FG, 0-1 3Pt, 0-2 FT), eight rebounds, two assists and one steal over 26 minutes during Wednesday's 101-71 win over Weber State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Collin Mulholland](https://www.rotowire.com/cbasketball/player/collin-mulholland-25284)
-Makes debut appearance
-**C** Utah State
-November 19, 2026
-Mulholland (ankle) finished with zero points (0-2 FG) across three minutes during Wednesday's 101-71 win over Weber State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Karson Templin](https://www.rotowire.com/cbasketball/player/karson-templin-22672)
-Scores season-high 18
-**F** Utah State
-November 19, 2026
-Templin ended with 18 points (8-13 FG, 2-4 3Pt, 0-2 FT), seven rebounds, one assist and one block across 24 minutes during Wednesday's 101-71 win over Weber State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Fresno State](https://assets.rotowire.com/images/teamlogo/cbasketball/Fresno-State.png?v=16)
-[Bradey Henige](https://www.rotowire.com/cbasketball/player/bradey-henige-24686)
-Provides 16 points, eight boards
-**F** Fresno State
-November 19, 2026
-Henige closed with 16 points (8-12 FG, 0-2 FT), eight rebounds, one assist and one steal over 31 minutes during Wednesday's 92-86 loss to San Jose State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
-![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659d9a989f979f9c99976666uokewi0e0y6k6e646o626o6i666200)
+![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792524870-TDHUFLEM-FU3N&halo_id=060ixdaju6a659a969d969f9899989b9e66uokewi0e0y6e606k606o6466646g6m)
 

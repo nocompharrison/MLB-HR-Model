@@ -1,4 +1,4 @@
-<!-- source: https://barttorvik.com/schedule.php?date=20261119 | fetched: 2026-11-19 11:18 ET -->
+<!-- source: https://barttorvik.com/schedule.php?date=20261119 | fetched: 2026-11-19 17:03 ET -->
 
 2027 2027; 2026; 2025; 2024; 2023; 2022; 2021; 2020; 2019; 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008;
 Click Here or Go Landscape for Full Site Layout
@@ -17,12 +17,12 @@ at 65 [TCU](https://barttorvik.com/team.php?team=TCU&year=2027) Peacock  | [Texa
 |  10:30 PM  |  59 [VCU](https://barttorvik.com/team.php?team=VCU&year=2027)   
 at 76 [Santa Clara](https://barttorvik.com/team.php?team=Santa+Clara&year=2027) ESPN2  | [Santa Clara -2.2,  
 81-79 (58%)](https://barttorvik.com/matchup.php?year=2027&t1l=VCU&t2l=Santa+Clara&)  | 77  | [](https://barttorvik.com/box.php?muid=VCUSanta+Clara11-19&year=2027)  |  
-|  02:30 PM  |  5 [Florida](https://barttorvik.com/team.php?team=Florida&year=2027)   
-vs 36 [West Virginia](https://barttorvik.com/team.php?team=West+Virginia&year=2027) ESPN  | [Florida -6.1,  
-76-70 (73%)](https://barttorvik.com/matchup.php?year=2027&t1l=Florida&t2l=West+Virginia&)  | 75  | [](https://barttorvik.com/box.php?muid=FloridaWest+Virginia11-19&year=2027)  |  
 |  05:00 PM  |  39 [Auburn](https://barttorvik.com/team.php?team=Auburn&year=2027)   
 vs 67 [Notre Dame](https://barttorvik.com/team.php?team=Notre+Dame&year=2027) ESPN  | [Auburn -2.8,  
 78-75 (60%)](https://barttorvik.com/matchup.php?year=2027&t1l=Auburn&t2l=Notre+Dame&)  | 75  | [](https://barttorvik.com/box.php?muid=AuburnNotre+Dame11-19&year=2027)  |  
+|  02:30 PM  |  4 [Florida](https://barttorvik.com/team.php?team=Florida&year=2027)   
+vs 37 [West Virginia](https://barttorvik.com/team.php?team=West+Virginia&year=2027) ESPN  | [Florida -6.1,  
+76-70 (73%)](https://barttorvik.com/matchup.php?year=2027&t1l=Florida&t2l=West+Virginia&)  | 74  | [Florida, 85-72](https://barttorvik.com/box.php?muid=FloridaWest+Virginia11-19&year=2027)  |  
 |  08:30 PM  |  74 [Seton Hall](https://barttorvik.com/team.php?team=Seton+Hall&year=2027)   
 vs 57 [Wisconsin](https://barttorvik.com/team.php?team=Wisconsin&year=2027) CBSSN  | [Wisconsin -1.9,  
 72-70 (58%)](https://barttorvik.com/matchup.php?year=2027&t1l=Seton+Hall&t2l=Wisconsin&)  | 73  | [](https://barttorvik.com/box.php?muid=Seton+HallWisconsin11-19&year=2027)  |  
@@ -50,7 +50,7 @@ at 60 [High Point](https://barttorvik.com/team.php?team=High+Point&year=2027) ES
 |  09:00 PM  |  150 [UTEP](https://barttorvik.com/team.php?team=UTEP&year=2027)   
 at 162 [New Mexico St.](https://barttorvik.com/team.php?team=New+Mexico+St.&year=2027) ESPN+  | [New Mexico St. -3.2,  
 71-68 (63%)](https://barttorvik.com/matchup.php?year=2027&t1l=UTEP&t2l=New+Mexico+St.&)  | 49  | [](https://barttorvik.com/box.php?muid=UTEPNew+Mexico+St.11-19&year=2027)  |  
-|  11:00 PM  |  154 [Tarleton St.](https://barttorvik.com/team.php?team=Tarleton+St.&year=2027)   
+|  11:00 PM  |  153 [Tarleton St.](https://barttorvik.com/team.php?team=Tarleton+St.&year=2027)   
 at 29 [USC](https://barttorvik.com/team.php?team=USC&year=2027) BTN  | [USC -20.0,  
 91-71 (93%)](https://barttorvik.com/matchup.php?year=2027&t1l=Tarleton+St.&t2l=USC&)  | 48  | [](https://barttorvik.com/box.php?muid=Tarleton+St.USC11-19&year=2027)  |  
 |  10:00 PM  |  166 [Sacramento St.](https://barttorvik.com/team.php?team=Sacramento+St.&year=2027)   
@@ -109,6 +109,8 @@ at 306 [North Dakota](https://barttorvik.com/team.php?team=North+Dakota&year=202
 at 288 [SIU Edwardsville](https://barttorvik.com/team.php?team=SIU+Edwardsville&year=2027) ESPN+  | [SIU Edwardsville (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=North+Park&t2l=SIU+Edwardsville&)  | -12  | [](https://barttorvik.com/box.php?muid=North+ParkSIU+Edwardsville11-19&year=2027)  |  
 |  07:30 PM  |  0 [Tusculum](https://barttorvik.com/team.php?team=Tusculum&year=2027)   
 at 309 [North Alabama](https://barttorvik.com/team.php?team=North+Alabama&year=2027) ESPN+  | [North Alabama (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Tusculum&t2l=North+Alabama&)  | -12  | [](https://barttorvik.com/box.php?muid=TusculumNorth+Alabama11-19&year=2027)  |  
+| MOV Mean absolute error: 6.85 | Totals MAE: 11.6 | Score bias: -11.6 |  
+Record of favorites: 1-0 (expected: 1-0)   |  
 Compiled by [Bart Torvik](https://twitter.com/totally_t_bomb) from sacred data and [ secret](https://barttorvik.com/schedule.php?sort=line&date=20261119) formulas.   
   
   

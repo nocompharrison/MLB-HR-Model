@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-19 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-19 17:03 ET -->
 
 
 ---
@@ -108,179 +108,39 @@ Southeast Missouri State vs. St. Thomas
 Right Arrow
 Texas A&M vs. TCU
 ### Top Stories
-[![West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Myles-Sadler.png)](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-5 hours ago
 [![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 Colby Marchio
-1 hour ago
+6 hours ago
 [![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 Jordan Mann
-3 hours ago
+9 hours ago
 [![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 Sean Paul
-2 hours ago
+7 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=41f8cdbd-619d-42aa-a698-f0b9f3b06b9e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e9bc5d78-c46e-4bb5-9c65-48ce038bd429&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=41f8cdbd-619d-42aa-a698-f0b9f3b06b9e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e9bc5d78-c46e-4bb5-9c65-48ce038bd429&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=942ee9cc-a6ca-443d-9d72-6ad949b83c71&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e9bc5d78-c46e-4bb5-9c65-48ce038bd429&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=7681&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=942ee9cc-a6ca-443d-9d72-6ad949b83c71&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e9bc5d78-c46e-4bb5-9c65-48ce038bd429&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=7681&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 19, 2026, 05:31 AM EST
-Updated:
-Nov 19, 2026, 05:31 AM EST
-Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Miles Sadler (West Virginia)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The West Virginia Mountaineers take on the Florida Gators in Paradise, NV for the Players Era 8 Third Place Game. Tip-off is set for 2:30 p.m. ET on ESPN.
-Florida is favored by -8.5 points on the spread with a moneyline of -375. The total is set at 148.5 points.
-Here’s my **West Virginia vs. Florida prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 19, 2026.
-* * *
-## West Virginia vs Florida Prediction
-**Pick:[ West Virginia +8.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3220397496&context=playbook-slack-quickslip&sport=basketball)**
-My**West Virginia vs Florida best bet** is on the Mountaineers to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## West Virginia vs Florida Odds
-[![West Virginia Logo](https://assets.actionnetwork.com/896106_wvu2.png)](https://www.actionnetwork.com/ncaab/odds/west-virginia-mountaineers)
-Thursday, November 19
-2:30 p.m. ET
-ESPN
-[![Florida Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)](https://www.actionnetwork.com/ncaab/odds/florida-gators)  
-| West Virginia Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +8.5 -110  |  148.5 -115o / -105u  | +290  |  
-| Florida Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -8.5 -110  |  148.5 -115o / -105u  | -375  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/880927_FanDuel1.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **West Virginia vs Florida spread:** Florida -8.5 (-110 ), West Virginia +8.5 (-110)
-  * **West Virginia vs Florida over/under:** 148.5 (-115o / -105u)
-  * **West Virginia vs Florida moneyline:** West Virginia +290, Florida -375
-
-
-* * *
-## West Virginia vs Florida College Basketball Preview
-![Header First Logo](https://assets.actionnetwork.com/896106_wvu2.png)
-### West Virginia Basketball
-If there's two words to describe West Virginia, they would be pure scrap.
-We're five games in and Ross Hodge has his Mountaineers well prepped and motivated to take on any task at hand. They led for over 23 minutes against Kansas on Wednesday, with their biggest lead getting up to 11.
-The Jayhawks looked like they were going to need overtime to pull off the win, before they snuck out to a four point lead at the end.
-However, the Mountaineers are a force to be reckoned with, currently holding the 29th-best defense in the country, per Bart Torvik.
-This unit will need to step it up once again, as they draw the No. 2-ranked offense, per Torvik.
-Regardless, this spread does seem a bit high.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)
-### Florida Basketball
-The Gators shot nearly 60% from deep — 15 total made 3-pointers — against Houston on Wednesday, and still fell short by 10 points.
-But the loss can be chalked up to 25 of Houston's 86 points coming via the free-throw line, while the Gators attempted just nine.
-Regardless, the Gators didn't look great against the Cougars. Despite their 11 returning players, which is giving them so much love and hype, they're flawed, and they showed they're beatable.
-Now, the Gators draw a similar opponent Thursday in Hodge and the Mountaineers.
-Will the Gators be motivated to take their frustrations out on the Mountaineers, or will they already be thinking about their Thanksgiving plans?
-![Header First Logo](https://assets.actionnetwork.com/896106_wvu2.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)
-## West Virginia vs. Florida Pick, Betting Analysis
-At the time of this write-up, the number just opened at 9.5. I'll be waiting to see if it gets to 10 or more, but I love the Mountaineers here.
-I was doubting them coming into this tournament due to their early schedule being very weak, but Hodge has done an incredible job getting his players to believe they can beat anyone.
-Florida has struggled defending the mid-range and forcing turnovers. Luckily, West Virginia is ranked 38th in turnover percentage while being fairly reliant on taking care of the basketball.
-The Mountaineers also take a lot more mid-range shots and 3-pointers than they do attack the glass, two areas where the Gators have struggled defensively.
-If the Mountaineers don't let the tough loss to Kansas get to them and can dictate the pace, this is another great spot to back them.
-**Pick:[ West Virginia +8.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3220397496&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch West Virginia vs Florida
-Location:
-Michelob ULTRA Arena in Paradise, NV
-Date:
-Thu, Nov 19
-Tipoff Time:
-2:30 PM EST
-TV/Streaming:
-ESPN
-West Virginia vs Florida is scheduled for 2:30 PM EST live from Michelob ULTRA Arena on Thursday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)[](https://twitter.com/intent/tweet?text=West%20Virginia%20vs%20Florida%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2019&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Colby Marchio • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-West Virginia vs Florida Prediction
-Right Arrow
-West Virginia vs Florida Odds
-Right Arrow
-West Virginia vs Florida College Basketball Preview
-Right Arrow
-West Virginia Basketball
-Right Arrow
-Florida Basketball
-Right Arrow
-West Virginia vs. Florida Pick, Betting Analysis
-Right Arrow
-How To Watch West Virginia vs Florida
-### Top Stories
-[![College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/JJ-Starling-action.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
-Action Network Staff
-3 hours ago
-[![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
-NCAAB
-[Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
-Colby Marchio
-1 hour ago
-[![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
-Ryan Minion
-5 hours ago
-[![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
-Jordan Mann
-3 hours ago
-[![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-2 hours ago
-[![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
-NCAAB
-[UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
-Sean Paul
-2 hours ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8249a37d-0999-4f34-b875-77a9bdc5b04c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ca1c8a30-27bb-4227-b830-34e7f7f6798a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=8249a37d-0999-4f34-b875-77a9bdc5b04c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ca1c8a30-27bb-4227-b830-34e7f7f6798a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c95a4974-95a1-4912-a5e7-ce213f74a5f1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ca1c8a30-27bb-4227-b830-34e7f7f6798a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c95a4974-95a1-4912-a5e7-ce213f74a5f1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ca1c8a30-27bb-4227-b830-34e7f7f6798a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwest-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fd3c4a3d-d8d5-4ed9-bc20-92370f372ff3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d303b9-48e9-46c3-93bf-2c79202b189a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=fd3c4a3d-d8d5-4ed9-bc20-92370f372ff3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d303b9-48e9-46c3-93bf-2c79202b189a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c03c3960-78b2-4b86-8036-1f09b30f1363&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d303b9-48e9-46c3-93bf-2c79202b189a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=7564&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c03c3960-78b2-4b86-8036-1f09b30f1363&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d7d303b9-48e9-46c3-93bf-2c79202b189a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19&tw_engaged_ms=7564&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -388,35 +248,35 @@ How To Watch Auburn vs Notre Dame
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
 Action Network Staff
-3 hours ago
-[![West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Myles-Sadler.png)](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-5 hours ago
+8 hours ago
 [![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 Jordan Mann
-3 hours ago
+9 hours ago
 [![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 Sean Paul
-2 hours ago
+7 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=18f64a2d-4122-44ed-838b-59ba2f33d9f6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0e156dbf-e201-4c9c-94d2-790510b6b56d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=18f64a2d-4122-44ed-838b-59ba2f33d9f6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0e156dbf-e201-4c9c-94d2-790510b6b56d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b0c50826-c552-4e1c-8902-20e543020122&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0e156dbf-e201-4c9c-94d2-790510b6b56d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7727&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b0c50826-c552-4e1c-8902-20e543020122&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0e156dbf-e201-4c9c-94d2-790510b6b56d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7727&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1c62622e-7f21-4e29-837d-3f4ec01f74fc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f39e755-1d30-467c-93d2-cdc867af4dd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=1c62622e-7f21-4e29-837d-3f4ec01f74fc&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f39e755-1d30-467c-93d2-cdc867af4dd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c64512be-a5c6-4f03-8abd-3bd2ccf581e1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f39e755-1d30-467c-93d2-cdc867af4dd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7558&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c64512be-a5c6-4f03-8abd-3bd2ccf581e1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f39e755-1d30-467c-93d2-cdc867af4dd7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fauburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7558&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -478,30 +338,40 @@ Miller brought in experienced, high-upside additions to his rotation, including 
 Although Murray State’s lineup is fairly top-heavy — with Shorter and Domon dominating statistically relative to the rest of the roster — the Racers have looked exceptional to start Miller’s second season.
 ![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-Last 30d: 268-300-8 (-25.5u)
+Last 30d: 269-300-8 (-24.5u)
 Follow
-![UCLA](https://static.sprtactn.co/teamlogos/ncaaf/100/ucla.png)
-![MICH](https://static.sprtactn.co/teamlogos/ncaaf/100/mich.png)
-UCLA @ Michigan Picks
-Nov 21st
+![IND](https://static.sprtactn.co/teamlogos/nfl/100/ind.png)
+![HOU](https://static.sprtactn.co/teamlogos/nfl/100/hou.png)
+Colts @ Texans Picks
+Today
 /
-3:30 PM on CBS
+8:15 PM on Amazon Prime Video
 •
-8.0k bets
-UCLA -3
+61.4k bets
+D.Montgomery Anytime TD Scorer Yes
 -125 (1.25u)
 Copy Bet
-![IU](https://static.sprtactn.co/teamlogos/ncaaf/100/iu.png)
-![WASH](https://static.sprtactn.co/teamlogos/ncaaf/100/was.png)
-Indiana @ Washington Picks
-Nov 21st
-/
-3:30 PM on Peacock
-•
-6.2k bets
-WASH +7.5
+#FREE #PLAY https://discord.gg/5qDvnxTgU
+T.Dell o38.5 Rec Yds
 -110 (1.1u)
 Copy Bet
+#FREE #PLAY https://discord.gg/5qDvnxTgU
+HOU -6.5 (1H)
+-135 (1.35u)
+Copy Bet
+#FREE #PLAY https://discord.gg/5qDvnxTgU
+![WVU](https://assets.actionnetwork.com/896106_wvu2.png)
+![FLA](https://static.sprtactn.co/teamlogos/ncaab/100/fla.png)
+West Virginia @ Florida Picks
+Today
+/
+2:30 PM on ESPN
+•
+15.4k bets
+FLA -4 (1H)
+-115 (1.15u)
+Copy Bet
+#FREE #PLAY 🐊 https://discord.gg/aEBD6qm8d
 See All
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ncst.png)
 ### NC State Basketball
@@ -566,35 +436,35 @@ How To Watch Murray State vs NC State
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
 Action Network Staff
-3 hours ago
-[![West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Myles-Sadler.png)](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-5 hours ago
+8 hours ago
 [![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 Colby Marchio
-1 hour ago
+6 hours ago
 [![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 Jordan Mann
-3 hours ago
+9 hours ago
 [![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 Sean Paul
-2 hours ago
+7 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5a371b5b-5e63-4972-99f7-a55759f33922&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=755da436-ab0a-4463-ae28-dd79f8302034&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5a371b5b-5e63-4972-99f7-a55759f33922&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=755da436-ab0a-4463-ae28-dd79f8302034&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a6cc30f2-61ce-45d7-b12b-dcb147be852c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=755da436-ab0a-4463-ae28-dd79f8302034&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7671&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a6cc30f2-61ce-45d7-b12b-dcb147be852c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=755da436-ab0a-4463-ae28-dd79f8302034&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7671&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=77fa7e03-f9f7-4bd2-96e5-345416e95e1c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c2790642-7bb7-4b17-b6e2-ff03bef9f440&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=77fa7e03-f9f7-4bd2-96e5-345416e95e1c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c2790642-7bb7-4b17-b6e2-ff03bef9f440&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=77547b91-6ad1-4f70-adf0-311f27a043ac&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c2790642-7bb7-4b17-b6e2-ff03bef9f440&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7513&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=77547b91-6ad1-4f70-adf0-311f27a043ac&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c2790642-7bb7-4b17-b6e2-ff03bef9f440&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fnc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7513&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -715,35 +585,35 @@ How To Watch Texas A&M vs TCU
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
 Action Network Staff
-3 hours ago
-[![West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Myles-Sadler.png)](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-5 hours ago
+8 hours ago
 [![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 Colby Marchio
-1 hour ago
+6 hours ago
 [![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
 Colby Marchio
-2 hours ago
+8 hours ago
 [![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 Sean Paul
-2 hours ago
+7 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6067299a-2cc5-4251-992e-e2114648404e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6113eb3b-9cb5-42b2-9ce4-1616104d3833&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6067299a-2cc5-4251-992e-e2114648404e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6113eb3b-9cb5-42b2-9ce4-1616104d3833&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=75e418c0-f076-43d2-9f96-676148b74aeb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6113eb3b-9cb5-42b2-9ce4-1616104d3833&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=75e418c0-f076-43d2-9f96-676148b74aeb&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6113eb3b-9cb5-42b2-9ce4-1616104d3833&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4fdddc1-b78a-4efa-851c-98b9a7ef7bc7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bccef1d6-cefb-47c7-aa97-9b4457ab3511&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4fdddc1-b78a-4efa-851c-98b9a7ef7bc7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bccef1d6-cefb-47c7-aa97-9b4457ab3511&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=26cc1215-ad71-456e-ba18-56ed57162578&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bccef1d6-cefb-47c7-aa97-9b4457ab3511&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7511&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=26cc1215-ad71-456e-ba18-56ed57162578&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bccef1d6-cefb-47c7-aa97-9b4457ab3511&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Ftexas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7511&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -863,33 +733,173 @@ How To Watch Seton Hall vs Wisconsin
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
 Action Network Staff
-3 hours ago
-[![West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Myles-Sadler.png)](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-NCAAB
-[West Virginia vs Florida Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/west-virginia-mountaineers-vs-florida-gators-prediction-pick-odds-college-basketball-thursday-november-19)
-Colby Marchio
-5 hours ago
+8 hours ago
 [![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
 Colby Marchio
-1 hour ago
+6 hours ago
 [![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
 Ryan Minion
-5 hours ago
+11 hours ago
 [![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 NCAAB
 [Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
 Jordan Mann
-3 hours ago
+9 hours ago
 [![UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/francis111926.jpg)](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 NCAAB
 [UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
 Sean Paul
-2 hours ago
+7 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e9a41ea0-68bb-4a76-8d08-95b793a21a1d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5066efa0-4ff0-42df-8d7e-252bb5fa5ec9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e9a41ea0-68bb-4a76-8d08-95b793a21a1d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5066efa0-4ff0-42df-8d7e-252bb5fa5ec9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c457b8c9-83c5-42b0-8e6e-ab3cf2b69d46&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5066efa0-4ff0-42df-8d7e-252bb5fa5ec9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7727&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c457b8c9-83c5-42b0-8e6e-ab3cf2b69d46&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5066efa0-4ff0-42df-8d7e-252bb5fa5ec9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7727&tw_iframe_status=0&tw_pid_src=2&tw_session_count=108&tw_session_id=1795104213151-957224026&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d222bca4-79ab-4d10-804c-e9f59b5b9e58&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51d1888a-c940-49a4-9e50-48a3d2a91ca0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d222bca4-79ab-4d10-804c-e9f59b5b9e58&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51d1888a-c940-49a4-9e50-48a3d2a91ca0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1c93cdbc-5882-4b2b-b3ac-3c150c73f820&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51d1888a-c940-49a4-9e50-48a3d2a91ca0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7557&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=1c93cdbc-5882-4b2b-b3ac-3c150c73f820&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=51d1888a-c940-49a4-9e50-48a3d2a91ca0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fseton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19&tw_engaged_ms=7557&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/unlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# UNLV vs Rutgers Prediction, Pick, College Basketball Odds for Thursday, Nov. 19
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
+[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
+Staff Writer
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 19, 2026, 09:11 AM EST
+Updated:
+Nov 19, 2026, 09:11 AM EST
+Credit:
+Candice Ward-Imagn Images
+Pictured: Tariq Francis
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The [UNLV](https://www.actionnetwork.com/ncaab/odds/unlv-rebels) Rebels take on the [Rutgers](https://www.actionnetwork.com/ncaab/odds/rutgers-scarlet-knights) Scarlet Knights in the Player's Era 8 Tournament in Paradise, Nev. Tip-off is set for 8:30 p.m. EST on ESPN2.
+Rutgers is favored by -2.5 points on the spread with a moneyline of -150. The total is set at 156.5 points.
+Here’s my **UNLV vs. Rutgers prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 19, 2026.
+* * *
+## UNLV vs Rutgers Prediction
+**Pick:[Rutgers -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3220591306&context=playbook-slack-quickslip&sport=basketball) (Play to -5)**
+My**UNLV vs Rutgers best bet** is on Rutgers to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## UNLV vs. Rutgers Odds
+[![UNLV Logo](https://static.sprtactn.co/teamlogos/ncaab/100/unlv.png)](https://www.actionnetwork.com/ncaab/odds/unlv-rebels)
+Thursday, Nov 19
+8:30 p.m. ET
+ESPN2
+[![Rutgers Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)](https://www.actionnetwork.com/ncaab/odds/rutgers-scarlet-knights)  
+| UNLV Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +2.5 -102  |  156.5 -110o / -110u  | +125  |  
+| Rutgers Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -2.5 -120  |  156.5 -110o / -110u  | -150  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **UNLV vs Rutgers spread:** Rutgers -2.5 (-115 ), UNLV +2.5 (-105)
+  * **UNLV vs Rutgers over/under:** 156.5 (-115o / -105u)
+  * **UNLV vs Rutgers moneyline:** UNLV +125, Rutgers -150
+
+
+* * *
+## UNLV vs Rutgers College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/unlv.png)
+### UNLV Basketball
+UNLV clearly looked a cut below its two high-major counterparts in the first two games of the Players Era, losing to [Kansas](https://www.actionnetwork.com/ncaab/odds/kansas-jayhawks) by 25 and [Auburn](https://www.actionnetwork.com/ncaab/odds/auburn-tigers) by double digits.
+The Runnin’ Rebels do plenty of “Runnin”, as they play the 44th fastest tempo in the country. It's not always the prettiest game, but the Rebels want to use their athleticism to get the ball to the hoop.
+One of my biggest reservations with this UNLV team is the roster construction. It just doesn’t have shooting. The Runnin’ Rebels largely have just one shooter – Cam Miles, who’s at 39% from 3 this year. Sebastian Mack, UNLV’s top scorer, is a terrifying downhill attacker, but he’s shooting 28% from 3 on over five attempts per game.
+The overall best player on UNLV’s roster is big man Tyrin Jones. The 6-10, 200-pound athletic forward scored 16 points with six rebounds against Auburn. He’s also an elite defender, but isn’t a threat from deep, either.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)
+### Rutgers Basketball
+Credit where it’s due to Rutgers — it lost the first two games of its Players Era Festival run, but covered against [Houston](https://www.actionnetwork.com/ncaab/odds/houston-cougars) and took [Notre Dame](https://www.actionnetwork.com/ncaab/odds/notre-dame-fighting-irish) to OT. These aren’t some pushovers. Interim head coach Brandin Knight is getting a formidable effort from his group.
+Offense is leading the way for Knight’s group. We’ll see just how sustainable it is, but Rutgers is 47th in offensive efficiency. Even when the Scarlet Knights made back-to-back tournaments in 2020 and 2021, their offense was pretty mediocre.
+They’ve improved their free-throw rate to 48%, while shooting 36% from deep and grabbing offensive boards at a 36% clip.
+What’s changed this year? Having a real big man. Rutgers brought in Christian Gurdak, who leads the team with 16 ppg and 7.3 rpg.
+They also have a trio of small, speedy guards who love to attack mismatches: Lino Mark, Tariq Francis, and Jamichael Davis. Francis and Mark both scored 25+ points in the narrow loss to Notre Dame.
+The issue is Rutgers takes 3s just 30% of the time (352nd). If Rutgers struggles to get to the foul line, the offense can easily take a dip since it lacks shooters.
+Defensively, the Scarlet Knights have taken a step back. They rank 129th in defensive efficiency. Rutgers' biggest issue is its 52.4% two-point field-goal defense. The Scarlet Knights don’t block many shots, nor do they force steals.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/unlv.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/rut.png)
+## UNLV vs. Rutgers Pick, Betting Analysis
+If UNLV wants a chance to leave this tournament with a win, it has to force turnovers and pressure the Rutgers backcourt. The Runnin’ Rebels force turnovers 18% of the time, which is solid but not great.
+On the flip side, UNLV’s 347th in two-point field goal defense. That could be a recipe for disaster against Gurdak and the speedy Rutgers guards.
+I’m not very high on UNLV and see real potential with Rutgers. So, take the Scarlet Knights up to -5.
+**Pick:[Rutgers -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3220591306&context=playbook-slack-quickslip&sport=basketball) (Play to -5)**
+* * *
+### How To Watch UNLV vs Rutgers
+Location:
+Michelob ULTRA Arena in Paradise, NV
+Date:
+Thu, Nov 19
+Tipoff Time:
+8:30 PM EST
+TV/Streaming:
+ESPN2
+UNLV vs Rutgers is scheduled for 8:30 PM EST live from Michelob ULTRA Arena on Thursday. The game will be broadcast on ESPN2.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)[](https://twitter.com/intent/tweet?text=UNLV%20vs%20Rutgers%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2019&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
+About the Author
+Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
+[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+UNLV vs Rutgers Prediction
+Right Arrow
+UNLV vs. Rutgers Odds
+Right Arrow
+UNLV vs Rutgers College Basketball Preview
+Right Arrow
+UNLV Basketball
+Right Arrow
+Rutgers Basketball
+Right Arrow
+UNLV vs. Rutgers Pick, Betting Analysis
+Right Arrow
+How To Watch UNLV vs Rutgers
+### Top Stories
+[![College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/JJ-Starling-action.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
+NCAAB
+[College Basketball Best Bets: 3 NCAAB Predictions, Picks for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-predictions-picks-thursday-november-19)
+Action Network Staff
+8 hours ago
+[![Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/auburn_tigers_111926.jpg)](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
+NCAAB
+[Auburn vs Notre Dame Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/auburn-tigers-vs-notre-dame-fighting-irish-prediction-pick-college-basketball-odds-thursday-nov-19)
+Colby Marchio
+6 hours ago
+[![NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/PaulMcNeilJr-11192026.jpg)](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[NC State vs Murray State Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/nc-state-wolfpack-vs-murray-state-racers-prediction-pick-odds-college-basketball-thursday-november-19)
+Ryan Minion
+11 hours ago
+[![Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Texas-AM-vs-TCU-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[Texas A&M vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/texas-am-aggies-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-19)
+Jordan Mann
+9 hours ago
+[![Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/Seton-Hall-vs-Wisconsin-11.19.26.jpg)](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[Seton Hall vs Wisconsin Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/seton-hall-pirates-vs-wisconsin-badgers-prediction-pick-odds-college-basketball-thursday-november-19)
+Colby Marchio
+8 hours ago
+[![VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://images.actionnetwork.com/blog/2026/11/mahi.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+NCAAB
+[VCU vs Santa Clara Prediction, Pick, College Basketball Odds for Thursday, Nov. 19](https://www.actionnetwork.com/ncaab/vcu-rams-vs-santa-clara-broncos-prediction-pick-odds-college-basketball-thursday-november-19)
+Jonathan Jorcin
+6 hours ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=90b38f8a-d92a-4c49-8937-17d66e34fc87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=67d70d8a-0e0a-4620-b654-0d65c4154306&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=90b38f8a-d92a-4c49-8937-17d66e34fc87&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=67d70d8a-0e0a-4620-b654-0d65c4154306&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0576f31c-c939-4724-96a7-a101606684cd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=67d70d8a-0e0a-4620-b654-0d65c4154306&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7553&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0576f31c-c939-4724-96a7-a101606684cd&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=67d70d8a-0e0a-4620-b654-0d65c4154306&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Funlv-rebels-vs-rutgers-scarlet-knights-prediction-pick-college-basketball-odds-thursday-nov-19&tw_engaged_ms=7553&tw_iframe_status=0&tw_pid_src=2&tw_session_count=110&tw_session_id=1795125658256-107686764&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
