@@ -1,23 +1,23 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 16:11 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 18:05 ET -->
 
 # NBA DFS Picks Today
-November 18, 2026
+November 19, 2026
 By:
 ![Author Image](https://assets.rotowire.com/images/photos/Joe-Mayo.png)
 [Joe Mayo](https://www.rotowire.com/writer/joe-mayo-1366)
 [ X logo @WiscoMayo](https://twitter.com/WiscoMayo)
-November 18, 2026
-**NBA DraftKings Picks for Wednesday, Nov. 18**
+November 19, 2026
+**NBA DraftKings Picks for Thursday, Nov. 19**
 All the tools you need for building winning NBA DFS lineups, starting with the top plays of the day.
 **Top NBA DFS Plays Today**  
   
-DraftKings is rolling out a loaded nine-game main slate that tips off at 7:00 p.m. ET. [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player.php?id=3456) headlines the night in his first game against the Bucks, though finding value elsewhere will also be key to cashing in. Below, I'll outline three players who could deliver strong returns thanks to favorable matchups and expanded opportunities. 
-[**Giannis Antetokounmpo**](https://www.rotowire.com/basketball/player.php?id=3456)**, Heat![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10) ($11,500) vs. Bucks **
-Antetokounmpo continues to stuff the stat sheet on a nightly basis and enters a favorable matchup against the Bucks, who have struggled against big men and rank 28th in the league in defensive rating. The two-time MVP has recorded between 51.3 and 72.0 DK points in five straight games, averaging 30.0 points, 12.2 rebounds, 4.6 assists and 2.6 combined steals-plus-blocks in 31.2 minutes per showing over that stretch. 
-[**Cam Spencer**](https://www.rotowire.com/basketball/player.php?id=6297)**, Grizzlies![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10) ($5,600) at Cavaliers **
-[Ty Jerome](https://www.rotowire.com/basketball/player.php?id=4774) (hip) is set to miss a third consecutive contest, meaning Spencer should draw a third straight start. The third-year sharpshooter has yet to finish with fewer than 33.0 DK points through three starts this season, averaging 13.0 points, 10.0 assists, 4.0 rebounds and 1.0 steals across 30.3 minutes per showing in the first unit. 
-[**Kasparas Jakucionis**](https://www.rotowire.com/basketball/player.php?id=6557)**, Bucks![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10) ($3,900) at Heat **
-Jakucionis is coming off a career-high 25-point performance in [Ryan Rollins](https://www.rotowire.com/basketball/player.php?id=5668)' (illness) absence during Sunday's loss to Atlanta. Rollins will remain sidelined Wednesday, opening the door for Jakucionis to continue seeing increased burn against the team that drafted him. He's posted at least 19.0 DK points in seven of the eight games in which he's logged 20-plus minutes this season, averaging 11.1 points, 4.3 assists, 3.1 rebounds and 1.0 steals across 23.4 minutes per game in those appearances.
+Thursday's four-game slate tips off at 8:00 p.m. ET, with all four matchups getting underway at the same time. [Cameron Boozer](https://www.rotowire.com/basketball/player.php?id=6923) and the [Ty Jerome](https://www.rotowire.com/basketball/player.php?id=4774)-less Grizzlies will face the [Stephen Curry](https://www.rotowire.com/basketball/player.php?id=3014)-less Warriors, [Victor Wembanyama](https://www.rotowire.com/basketball/player.php?id=5809) and the Spurs host the Clippers, [Karl-Anthony Towns](https://www.rotowire.com/basketball/player.php?id=3741) and the Knicks visit Minnesota and [Damian Lillard](https://www.rotowire.com/basketball/player.php?id=3304) returns to Milwaukee for the first time since being waived by the club. Below, I'll highlight three players who could deliver strong returns Thursday. 
+[**Stephon Castle**](https://www.rotowire.com/basketball/player.php?id=6250)**, Spurs![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10) ($7,200) vs. Clippers **
+With [Dylan Harper](https://www.rotowire.com/basketball/player.php?id=6549) (hip) set to miss multiple weeks, Castle will likely see increased usage. The third-year guard has contributed at least 45.5 DK points in two of his last three outings, averaging 20.7 points, 7.3 assists, 3.7 rebounds and 1.3 steals across 30.3 minutes per contest during that span. 
+[**Cam Spencer**](https://www.rotowire.com/basketball/player.php?id=6297)**, Grizzlies![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10) ($6,000) vs. Warriors**
+[Ty Jerome](https://www.rotowire.com/basketball/player.php?id=4774) (hip) will remain sidelined Thursday, opening the door for Spencer to draw another start. He's started three straight games, delivering 33.0-plus DK points in each of them. Over four starts this season, the sharpshooter has averaged 16.3 points, 9.3 assists, 3.3 rebounds and 0.8 steals in 30.0 minutes per showing. 
+[**Kel'el Ware**](https://www.rotowire.com/basketball/player.php?id=6275)**, Bucks![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10) ($5,000) vs. Trail Blazers **
+[Myles Turner](https://www.rotowire.com/basketball/player.php?id=3725) (shoulder) won't play in the second leg of this back-to-back set, and Ware is a top candidate to enter the first unit. The big man has supplied 23.3 or more DK points in three of his last four outings (one start), averaging 9.3 points, 6.3 rebounds, 1.8 blocks, 1.3 assists and 0.8 steals in 20.5 minutes per tilt over that stretch. 
 ## **Latest NBA News**
 Stay on top of the most important news impacting today's slate with our live news feed. For the full set of NBA player news, including all teams, news types & G-League players, visit our [NBA breaking news](https://www.rotowire.com/basketball/news.php) home.
 ### NBA News: Teams Playing Today
@@ -64,9 +64,9 @@ DraftKings FanDuel
 Nov 20 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 4 games - 8:00 PM Nov 20 - Main Slate - 2 games - 10:00 PM (lineups pending) Nov 20 - Main Slate - 3 games - 7:30 PM (lineups pending) Nov 20 - Main Slate - 2 games - 8:00 PM (lineups pending) Nov 20 - Showdown - HOU @ DEN - 11:00 PM (lineups pending) Showdown - NYK @ MIN - 9:00 PM Nov 20 - Showdown - CHA @ ATL - 7:00 PM (lineups pending) Nov 20 - Showdown - HOU @ DEN - 10:00 PM (lineups pending) Showdown - NYK @ MIN - 8:00 PM Nov 20 - Showdown - PHX @ UTA - 9:30 PM (lineups pending) Nov 20 - Showdown - TOR @ DET - 7:30 PM (lineups pending) Nov 20 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 4 games - 8:00 PM All games (4) GSW @ MEM - 8:00 PM ET POR @ MIL - 8:00 PM ET NYK @ MIN - 8:00 PM ET LAC @ SAS - 8:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **GSW @ MEM**
-O/U 224.58:00 PM ET
+O/U 225.58:00 PM ET
 WarriorsExpectedAway
-_Implied_**109.5** _Spread_**+5.5**  
+_Implied_**110.0** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Al Horford  | $3,500  | 16.2  |  
@@ -75,11 +75,11 @@ _Implied_**109.5** _Spread_**+5.5**
 | SF  | Yaxel Lendeborg  | $8,500  | 39.3  |  
 | SG  | Brandin Podziemski  | $7,300  | 32.9  |  
 GrizzliesExpectedHome
-_Implied_**115.0** _Spread_**-5.5**  
+_Implied_**115.5** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah StewartQ  | $4,500  | 20.6  |  
-| PF  | Cameron Boozer  | $8,400  | 43.9  |  
+| PF  | Cameron Boozer  | $8,400  | 44.0  |  
 | PG  | Cam Spencer  | $6,000  | 32.0  |  
 | SF  | Jaylen Wells  | $4,300  | 20.0  |  
 | SG  | Cedric Coward  | $6,800  | 37.8  |  
@@ -91,7 +91,7 @@ _Implied_**121.0** _Spread_**-11.5**
 | --- | --- | --- | --- |  
 | C  | Donovan Clingan  | $6,900  | 36.3  |  
 | PF  | Deni AvdijaQ  | $9,200  | 46.4  |  
-| PG  | Damian Lillard  | $7,600  | 39.1  |  
+| PG  | Damian Lillard  | $7,600  | 39.0  |  
 | SF  | Toumani CamaraQ  | $5,500  | 25.5  |  
 | SG  | Sidy Cissoko  | $4,200  | 18.9  |  
 BucksExpectedHome
@@ -113,14 +113,14 @@ _Implied_**109.0** _Spread_**-1.5**
 | PF  | OG Anunoby  | $6,700  | 30.2  |  
 | PG  | Jalen Brunson  | $8,900  | 40.8  |  
 | SF  | Josh Hart  | $5,400  | 24.9  |  
-| SG  | Mikal Bridges  | $4,700  | 20.6  |  
+| SG  | Mikal Bridges  | $4,700  | 20.5  |  
 TimberwolvesExpectedHome
 _Implied_**107.5** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Rudy Gobert  | $6,200  | 27.1  |  
 | PF  | Jaden McDaniels  | $7,400  | 32.0  |  
-| PG  | LaMelo Ball  | $8,600  | 37.8  |  
+| PG  | LaMelo Ball  | $8,600  | 37.7  |  
 | SF  | Jonathan KumingaQ  | $6,400  | 23.4  |  
 | SG  | Ayo Dosunmu  | $7,000  | 31.4  |  
 **LAC @ SAS**
@@ -131,7 +131,7 @@ _Implied_**104.5** _Spread_**+15.5**
 | --- | --- | --- | --- |  
 | C  | Brook Lopez  | $5,700  | 24.9  |  
 | PF  | Rui Hachimura  | $5,600  | 24.6  |  
-| PG  | Darius Garland  | $8,200  | 34.2  |  
+| PG  | Darius Garland  | $8,200  | 34.1  |  
 | SF  | Derrick Jones  | $5,300  | 20.2  |  
 | SG  | Kris Dunn  | $5,100  | 16.8  |  
 SpursExpectedHome
@@ -139,10 +139,10 @@ _Implied_**120.0** _Spread_**-15.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Victor Wembanyama  | $12,000  | 65.1  |  
-| PF  | Devin Vassell  | $5,600  | 27.9  |  
-| PG  | De'Aaron Fox  | $6,800  | 36.1  |  
+| PF  | Devin Vassell  | $5,600  | 27.8  |  
+| PG  | De'Aaron Fox  | $6,800  | 36.0  |  
 | SF  | Julian Champagnie  | $5,200  | 21.7  |  
-| SG  | Stephon Castle  | $7,200  | 41.2  |  
+| SG  | Stephon Castle  | $7,200  | 41.1  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
 Explore the top value play options by salary tier, plus use the data to build value stacks. Don't forget to take what you learn here to our [DraftKings NBA Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php) and put your top plays to the test. Data is powered by the RotoWire [NBA daily projections](https://www.rotowire.com/basketball/projections.php?type=today). 
@@ -154,15 +154,15 @@ Main slatesMain - 4 games - 8:00 PMShowdownsShowdown - NYK @ MIN - 9:00 PMShowdo
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Stephon CastleSAS - SG  | vs LAC  | $7,200  | 34  | 41.2  | **5.72**  |  
+| 1  |  Stephon CastleSAS - SG  | vs LAC  | $7,200  | 34  | 41.1  | **5.71**  |  
 | 2  |  Javon SmallMEM - PG  | vs GSW  | $4,800  | 25  | 27.3  | **5.70**  |  
-| 3  |  L.J. CryerQGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
-| 4  |  Cedric CowardMEM - SG  | vs GSW  | $6,800  | 32  | 37.8  | **5.56**  |  
+| 3  |  Cedric CowardMEM - SG  | vs GSW  | $6,800  | 32  | 37.8  | **5.56**  |  
+| 4  |  L.J. CryerQGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
 | 5  |  Taylor HendricksMEM - PF  | vs GSW  | $3,700  | 20  | 20.3  | **5.48**  |  
-| 6  |  Victor WembanyamaSAS - C  | vs LAC  | $12,000  | 34  | 65.1  | **5.43**  |  
+| 6  |  Victor WembanyamaSAS - C  | vs LAC  | $12,000  | 34  | 65.1  | **5.42**  |  
 | 7  |  Kel'el WareMIL - PF  | vs POR  | $5,000  | 22  | 26.9  | **5.37**  |  
 | 8  |  Cam SpencerMEM - SG  | vs GSW  | $6,000  | 29  | 32.0  | **5.33**  |  
-| 9  |  De'Aaron FoxSAS - PG  | vs LAC  | $6,800  | 34  | 36.1  | **5.31**  |  
+| 9  |  De'Aaron FoxSAS - PG  | vs LAC  | $6,800  | 34  | 36.1  | **5.30**  |  
 | 10  |  Donovan ClinganPOR - C  | @ MIL  | $6,900  | 27  | 36.3  | **5.27**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
@@ -181,27 +181,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)HendricksBridgesIkeWembanyamaCamaraHorfordFoxCissoko
+$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)HorfordCamaraBridgesIkePodziemskiBasseyWembanyamaStewart
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** GSW@MEM, LAC@SAS, POR@MIL, NYK@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Taylor HendricksMEM · PF/C · GSW@MEM  | $3,700  | 2.3  | 20.3  | **31.8**  |   | +8.4  | +13  | 97  |  
-| 2  |  Mikal BridgesNYK · SF · NYK@MIN  | $4,700  | 3.8  | 20.6  | **35.5**  |   | +5.1  | +23  | 93  |  
-| 3  |  Graham IkeGSW · C · GSW@MEM  | $3,200  | 0.0  | 13.2  | **23.5**  |   | +3.7  | +22  | 89  |  
-| 4  |  Victor WembanyamaSAS · C · LAC@SAS  | $12,000  | 33.4  | 65.1  | **85.9**  |   | +3.9  | +12  | 88  |  
-| 5  |  Charles BasseyGSW · C · GSW@MEM  | $4,100  | 5.0  | 21.3  | **34.0**  |   | +7.8  | +7  | 86  |  
-| 6  |  Toumani CamaraPOR · SF · POR@MIL  | $5,500  | 8.6  | 25.5  | **41.3**  |   | +5.2  | +9  | 86  |  
-| 7  |  Al HorfordGSW · C · GSW@MEM  | $3,500  | 0.8  | 16.2  | **25.8**  |   | +3.8  | +10  | 85  |  
-| 8  |  De'Aaron FoxSAS · PG · LAC@SAS  | $6,800  | 11.8  | 36.1  | **50.8**  |   | +5.5  | +7  | 84  |  
-| 9  |  Sidy CissokoPOR · SG/SF · POR@MIL  | $4,200  | 0.8  | 18.9  | **29.0**  |   | +2.1  | +13  | 82  |  
-| 10  |  Trey LylesMIN · PF/C · NYK@MIN  | $3,800  | 0.8  | 15.1  | **25.5**  |   | +1.4  | +16  | 82  |  
-| 11  |  Cedric CowardMEM · SG/SF · GSW@MEM  | $6,800  | 15.6  | 37.8  | **53.3**  |   | +8.0  | +2  | 78  |  
-| 12  |  Kobe SandersLAC · PF · LAC@SAS  | $3,800  | 0.5  | 15.1  | **25.0**  |   | +0.9  | +14  | 77  |  
-| 13  |  Stephon CastleSAS · SG · LAC@SAS  | $7,200  | 15.6  | 41.2  | **55.1**  |   | +7.0  | +3  | 77  |  
-| 14  |  Julian ChampagnieSAS · SG · LAC@SAS  | $5,200  | 5.6  | 21.7  | **35.3**  |   | +1.3  | +9  | 73  |  
-| 15  |  LJ CryerGSW · PG · GSW@MEM  | $4,000  | 5.0  | 22.2  | **33.3**  |   | +7.7  | 0  | 73  |  
+| 1  |  Al HorfordGSW · C · GSW@MEM  | $3,500  | 0.8  | 16.2  | **27.8**  |   | +5.2  | +23  | 95  |  
+| 2  |  Toumani CamaraPOR · SF · POR@MIL  | $5,500  | 5.8  | 25.5  | **41.3**  |   | +5.0  | +20  | 92  |  
+| 3  |  Mikal BridgesNYK · SF · NYK@MIN  | $4,700  | 3.8  | 20.5  | **35.5**  |   | +4.7  | +23  | 92  |  
+| 4  |  Graham IkeGSW · C · GSW@MEM  | $3,200  | 0.0  | 13.2  | **23.5**  |   | +3.1  | +23  | 88  |  
+| 5  |  Brandin PodziemskiGSW · PG/SG · GSW@MEM  | $7,300  | 13.2  | 32.9  | **53.2**  |   | +4.4  | +16  | 88  |  
+| 6  |  Charles BasseyGSW · C · GSW@MEM  | $4,100  | 5.0  | 21.3  | **34.0**  |   | +7.3  | +7  | 87  |  
+| 7  |  Taylor HendricksMEM · PF/C · GSW@MEM  | $3,700  | 2.3  | 20.3  | **30.8**  |   | +6.9  | +9  | 87  |  
+| 8  |  Victor WembanyamaSAS · C · LAC@SAS  | $12,000  | 34.0  | 65.1  | **86.0**  |   | +4.7  | +11  | 85  |  
+| 9  |  Isaiah StewartMEM · PF/C · GSW@MEM  | $4,500  | 2.3  | 20.6  | **32.3**  |   | +2.9  | +15  | 84  |  
+| 10  |  Trey LylesMIN · PF/C · NYK@MIN  | $3,800  | 0.8  | 15.1  | **26.8**  |   | +2.2  | +25  | 83  |  
+| 11  |  Josh HartNYK · SG/SF · NYK@MIN  | $5,400  | 5.2  | 24.8  | **38.2**  |   | +2.5  | +12  | 79  |  
+| 12  |  Cedric CowardMEM · SG/SF · GSW@MEM  | $6,800  | 15.6  | 37.8  | **53.3**  |   | +8.0  | +2  | 78  |  
+| 13  |  Stephon CastleSAS · SG · LAC@SAS  | $7,200  | 15.5  | 41.1  | **55.0**  |   | +7.0  | +2  | 78  |  
+| 14  |  Cameron BoozerMEM · PF · GSW@MEM  | $8,400  | 20.9  | 44.0  | **61.6**  |   | +5.3  | +3  | 77  |  
+| 15  |  LJ CryerGSW · PG · GSW@MEM  | $4,000  | 5.0  | 22.2  | **33.3**  |   | +7.3  | 0  | 75  |  
 Show all 74 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 8:00 PM ET · 4 games slate · 2026-11-19.
 ## **NBA Injury Report**

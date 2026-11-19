@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-19 16:11 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-19 18:05 ET -->
 
 
 ---
@@ -1600,7 +1600,7 @@ The Heat shapes up as an opponent conducive to another full stat line for Durant
 
 [![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661094/polymarket_sc)[O/U Total Rebounds (vs. NYK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661094/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661094/polymarket_sc)
 
-[![Image 45: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/polymarket_sc)[O/U Total Assists (vs. NYK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/polymarket_sc)
+[![Image 45: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/kalshi_sc)[O/U Total Assists (vs. NYK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661094/kalshi_sc)
 
 [![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ayo_dosunmu/player_106326 "Powered by MetaBet")[](https://www.metabet.io/odds)
 

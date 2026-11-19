@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-our-staffs-4-picks-for-thursday-november-19 | fetched: 2026-11-19 16:11 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-our-staffs-4-picks-for-thursday-november-19 | fetched: 2026-11-19 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -64,6 +64,21 @@ _**If you want more picks for this game, read our full[Knicks vs Timberwolves be
 [Joe Dellera](https://www.actionnetwork.com/picks/profile/JoeDellera)
 Last 30d: 55-59-2 (-4.8u)
 Follow
+![NYK](https://assets.actionnetwork.com/740173_58419cc8a6515b1e0ad75a67.png)
+![MIN](https://assets.actionnetwork.com/717650_min.png)
+Knicks @ Timberwolves Picks
+Today
+/
+8:00 PM on NBA TV
+•
+14.8k bets
+K.Towns o33.5 Pts+Rebs
+-114 (1u)
+![FanDuel NJ](https://assets.actionnetwork.com/392973_FanDuel.png)
+Bet Now
+Copy Bet
+https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19
+More
 ![MIN](https://assets.actionnetwork.com/640928_Lynx.png)
 ![NY](https://static.sprtactn.co/teamlogos/wnba/100/nyl.png)
 Lynx @ Liberty Picks
@@ -75,21 +90,6 @@ Sep 29th
 Fiebich Double Double
 +4800 (0.05u)
 Copy Bet
-![NYK](https://assets.actionnetwork.com/740173_58419cc8a6515b1e0ad75a67.png)
-![MIN](https://assets.actionnetwork.com/717650_min.png)
-Knicks @ Timberwolves Picks
-Today
-/
-8:00 PM on NBA TV
-•
-11.2k bets
-K.Towns o33.5 Pts+Rebs
--114 (1u)
-![FanDuel NJ](https://assets.actionnetwork.com/392973_FanDuel.png)
-Bet Now
-Copy Bet
-https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19
-More
 See All
 ## Warriors vs. Grizzlies
 [![Golden State Warriors Logo](https://assets.actionnetwork.com/759063_Warriors.png)](https://www.actionnetwork.com/nba/odds/golden-state-warriors)
@@ -152,36 +152,36 @@ Clippers vs. Spurs
 Right Arrow
 Stephon Castle Over 12.5 Rebounds & Assists (-104)
 ### Top Stories
-[![NBA Best Bets for Knicks vs T-Wolves, Warriors vs Grizzlies, More \(Thursday, November 19\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111926.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19)
+[![NBA Best Bets for Knicks vs Timberwolves, Spurs vs Clippers, More \(Thursday, Nov. 19\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets111926.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19)
 NBA
-[NBA Best Bets for Knicks vs T-Wolves, Warriors vs Grizzlies, More (Thursday, November 19)](https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19)
+[NBA Best Bets for Knicks vs Timberwolves, Spurs vs Clippers, More (Thursday, Nov. 19)](https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-t-wolves-warriors-vs-grizzlies-more-thursday-november-19)
 Action Network Staff
-5 hours ago
+1 hour ago
 [![Knicks vs Timberwolves Prediction, Pick, NBA Odds for Thursday, November 19](https://images.actionnetwork.com/blog/2026/11/Knicks-vs-Timberwolves-11.19.26.jpg)](https://www.actionnetwork.com/nba/new-york-knicks-vs-minnesota-timberwolves-prediction-pick-nba-odds-thursday-november-19)
 NBA
 [Knicks vs Timberwolves Prediction, Pick, NBA Odds for Thursday, November 19](https://www.actionnetwork.com/nba/new-york-knicks-vs-minnesota-timberwolves-prediction-pick-nba-odds-thursday-november-19)
 Bryan Fonseca
-6 hours ago
+8 hours ago
 [![Warriors vs Grizzlies Prediction, Pick, NBA Odds for Thursday, November 19](https://images.actionnetwork.com/blog/2026/11/Warriors-vs-Grizzlies-11.19.26.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-memphis-grizzlies-prediction-pick-nba-odds-thursday-november-19)
 NBA
 [Warriors vs Grizzlies Prediction, Pick, NBA Odds for Thursday, November 19](https://www.actionnetwork.com/nba/golden-state-warriors-vs-memphis-grizzlies-prediction-pick-nba-odds-thursday-november-19)
 Doug Kezirian
-6 hours ago
+8 hours ago
 [![Clippers vs Spurs Prediction, Pick, NBA Odds for Thursday, November 19](https://images.actionnetwork.com/blog/2026/11/Clippers-Spurs-NBA-11_19.jpg)](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-san-antonio-spurs-prediction-pick-nba-odds-thursday-november-19)
 NBA
 [Clippers vs Spurs Prediction, Pick, NBA Odds for Thursday, November 19](https://www.actionnetwork.com/nba/los-angeles-clippers-vs-san-antonio-spurs-prediction-pick-nba-odds-thursday-november-19)
 Doug Kezirian
-6 hours ago
+8 hours ago
 [![Trail Blazers vs Bucks Prediction, Pick, NBA Odds for Thursday, November 19](https://images.actionnetwork.com/blog/2026/11/Blazers-Bucks-11_19.jpg)](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-milwaukee-bucks-prediction-pick-nba-odds-thursday-november-19)
 NBA
 [Trail Blazers vs Bucks Prediction, Pick, NBA Odds for Thursday, November 19](https://www.actionnetwork.com/nba/portland-trail-blazers-vs-milwaukee-bucks-prediction-pick-nba-odds-thursday-november-19)
 Doug Kezirian
-6 hours ago
+8 hours ago
 [![NBA Prop Bet for Donovan Clingan on Thursday, November 19](https://images.actionnetwork.com/blog/2026/11/Prop-Bomb-NBA-11_19.jpg)](https://www.actionnetwork.com/nba/nba-prop-bet-for-donovan-clingan-on-thursday-november-19)
 NBA
 [NBA Prop Bet for Donovan Clingan on Thursday, November 19](https://www.actionnetwork.com/nba/nba-prop-bet-for-donovan-clingan-on-thursday-november-19)
 Prop Bomb
-4 hours ago
+6 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -209,5 +209,5 @@ Matt Moore
 Oct 8, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f8a30718-a967-4a0d-8be0-9598f79b8c28&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31d47bb3-5af8-46f3-8108-a3533a3fd854&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=109&tw_session_id=1795122517879-491775482&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f8a30718-a967-4a0d-8be0-9598f79b8c28&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31d47bb3-5af8-46f3-8108-a3533a3fd854&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=109&tw_session_id=1795122517879-491775482&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=639187ef-ba48-4f49-add8-4b36ff57282a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31d47bb3-5af8-46f3-8108-a3533a3fd854&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=7512&tw_iframe_status=0&tw_pid_src=2&tw_session_count=109&tw_session_id=1795122517879-491775482&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=639187ef-ba48-4f49-add8-4b36ff57282a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31d47bb3-5af8-46f3-8108-a3533a3fd854&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=7512&tw_iframe_status=0&tw_pid_src=2&tw_session_count=109&tw_session_id=1795122517879-491775482&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9fc14c25-bc8f-4c43-957d-27d3af0a1dd1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f8e7937b-74e6-4f27-a21d-c8f199597aa9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=111&tw_session_id=1795129402880-670775234&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9fc14c25-bc8f-4c43-957d-27d3af0a1dd1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f8e7937b-74e6-4f27-a21d-c8f199597aa9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=111&tw_session_id=1795129402880-670775234&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62f95e4b-ced9-4dfb-8e67-bf7299acb62e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f8e7937b-74e6-4f27-a21d-c8f199597aa9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=7505&tw_iframe_status=0&tw_pid_src=2&tw_session_count=111&tw_session_id=1795129402880-670775234&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=62f95e4b-ced9-4dfb-8e67-bf7299acb62e&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f8e7937b-74e6-4f27-a21d-c8f199597aa9&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-our-staffs-4-picks-for-thursday-november-19&tw_engaged_ms=7505&tw_iframe_status=0&tw_pid_src=2&tw_session_count=111&tw_session_id=1795129402880-670775234&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

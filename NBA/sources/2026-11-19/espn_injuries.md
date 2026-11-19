@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-19 16:11 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-19 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -93,8 +93,8 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jock Landale](https://www.espn.com/nba/player/_/id/3146557/jock-landale) | C | Nov 20 | Day-To-Day | Nov 19: Landale (hip) won't play Wednesday in Oklahoma City. |
-| [Kingston Flemings](https://www.espn.com/nba/player/_/id/5149077/kingston-flemings) | G | Nov 20 | Day-To-Day | Nov 19: Flemings (back) is out for Wednesday's game against the Thunder. |
+| [Jock Landale](https://www.espn.com/nba/player/_/id/3146557/jock-landale) | C | Nov 22 | Out | Nov 19: Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports. |
+| [Kingston Flemings](https://www.espn.com/nba/player/_/id/5149077/kingston-flemings) | G | Nov 20 | Day-To-Day | Nov 19: Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports. |
 | [Asa Newell](https://www.espn.com/nba/player/_/id/4873201/asa-newell) | F | Mar 17 | Out | Nov 17: Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports. |
 | [CJ McCollum](https://www.espn.com/nba/player/_/id/2490149/cj-mccollum) | G | Dec 19 | Out | Nov 17: McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network. |
 | [Mouhamed Gueye](https://www.espn.com/nba/player/_/id/4712863/mouhamed-gueye) | F | Dec 12 | Out | Nov 12: Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports. |
@@ -104,13 +104,14 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Grant Nelson](https://www.espn.com/nba/player/_/id/4702670/grant-nelson) | F | Nov 24 | Day-To-Day | Nov 19: Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports. |
+| [Grant Nelson](https://www.espn.com/nba/player/_/id/4702670/grant-nelson) | F | Nov 23 | Out | Nov 19: Nelson (ankle) has been ruled out for Friday's game against Orlando. |
 
 ![Image 15: Charlotte Hornets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&h=40&w=40)Charlotte Hornets
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 20 | Day-To-Day | Nov 18: Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers. |
+| [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 23 | Out | Nov 19: Williams (hamstring) is listed as out for Friday's game versus the Hawks. |
+| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 23 | Out | Nov 19: Allen (concussion) has been ruled out for Friday's game against Atlanta. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Dec 12 | Out | Nov 8: Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks. |
 | [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Nov 25 | Out | Nov 8: Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports. |
 
@@ -118,6 +119,7 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Noa Essengue](https://www.espn.com/nba/player/_/id/5242496/noa-essengue) | F | Nov 20 | Day-To-Day | Nov 19: Essengue is listed as probable for Friday's game against Washington due to bilateral wrist soreness. |
 | [Tobe Awaka](https://www.espn.com/nba/player/_/id/5105555/tobe-awaka) | F | Nov 25 | Out | Nov 17: Awaka (back) has been ruled out for Wednesday's game against the Nets. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
@@ -125,8 +127,8 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jaylon Tyson](https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson) | G | Nov 20 | Day-To-Day | Nov 19: Tyson (ankle) has been ruled out for Wednesday's game against Memphis. |
-| [Peyton Watson](https://www.espn.com/nba/player/_/id/4576087/peyton-watson) | G | Nov 20 | Day-To-Day | Nov 19: Watson (back) is out for Wednesday's game versus Memphis. |
+| [Jaylon Tyson](https://www.espn.com/nba/player/_/id/4683747/jaylon-tyson) | G | Nov 23 | Out | Nov 19: Tyson (ankle) has been ruled out for Friday's game against Indiana. |
+| [Peyton Watson](https://www.espn.com/nba/player/_/id/4576087/peyton-watson) | G | Nov 20 | Day-To-Day | Nov 19: Watson (back) is questionable for Friday's game against the Pacers. |
 | [Nae'Qwan Tomlin](https://www.espn.com/nba/player/_/id/5106268/naeqwan-tomlin) | F | Nov 29 | Out | Nov 17: Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies. |
 | [Evan Mobley](https://www.espn.com/nba/player/_/id/4432158/evan-mobley) | C | Nov 29 | Out | Nov 16: Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days. |
 
@@ -149,10 +151,11 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Taurean Prince](https://www.espn.com/nba/player/_/id/2990962/taurean-prince) | F | Dec 13 | Out | Nov 19: Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors. |
+| [Ebuka Okorie](https://www.espn.com/nba/player/_/id/5258459/ebuka-okorie) | G | Nov 22 | Out | Nov 19: Okorie (oblique) has been ruled out for Friday's game against Toronto. |
+| [Ronald Holland II](https://www.espn.com/nba/player/_/id/4683771/ronald-holland-ii) | F | Nov 22 | Out | Nov 19: Holland (knee) won't play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports. |
+| [Cade Cunningham](https://www.espn.com/nba/player/_/id/4432166/cade-cunningham) | G | Nov 20 | Day-To-Day | Nov 19: Cunningham (knee) is expected to play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports. |
 | [Ugonna Onyenso](https://www.espn.com/nba/player/_/id/5037878/ugonna-onyenso) | C | Nov 21 | Day-To-Day | Nov 19: Onyenso agreed to a two-way contract with the Pistons on Thursday. |
-| [Taurean Prince](https://www.espn.com/nba/player/_/id/2990962/taurean-prince) | F | Nov 20 | Day-To-Day | Nov 19: Prince (knee) is out for Wednesday's game against the Pelicans. |
-| [Ronald Holland II](https://www.espn.com/nba/player/_/id/4683771/ronald-holland-ii) | F | Nov 20 | Day-To-Day | Nov 19: Holland (knee) is out for Wednesday's game against the Pelicans. |
-| [Cade Cunningham](https://www.espn.com/nba/player/_/id/4432166/cade-cunningham) | G | Nov 20 | Day-To-Day | Nov 19: Cunningham (knee) won't play in Wednesday's game against New Orleans. |
 | [Duncan Robinson](https://www.espn.com/nba/player/_/id/3157465/duncan-robinson) | F | Nov 27 | Out | Nov 17: Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 24 | Out | Nov 8: Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports. |
 
@@ -179,8 +182,9 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Nov 20 | Day-To-Day | Nov 19: Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports. |
-| [Braden Smith](https://www.espn.com/nba/player/_/id/5105854/braden-smith) | G | Nov 20 | Day-To-Day | Nov 18: Smith suffered a right ankle sprain during Wednesday's game against the Wizards, Tony East of Forbes.com reports. |
+| [T.J. McConnell](https://www.espn.com/nba/player/_/id/2530530/tj-mcconnell) | G | Nov 20 | Day-To-Day | Nov 19: McConnell (hamstring) is listed as probable for Friday's game in Cleveland. |
+| [Andrew Nembhard](https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard) | G | Nov 20 | Day-To-Day | Nov 19: Nembhard (hip) is questionable for Friday's game in Cleveland. |
+| [Braden Smith](https://www.espn.com/nba/player/_/id/5105854/braden-smith) | G | Nov 20 | Day-To-Day | Nov 19: Smith (ankle) is listed as questionable for Friday's game against Cleveland. |
 | [Tyrese Haliburton](https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton) | G | Nov 28 | Out | Nov 17: Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is "getting there," but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports. |
 | [Johnny Furphy](https://www.espn.com/nba/player/_/id/5157066/johnny-furphy) | G | Jan 2 | Out | Oct 30: Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com. |
 | [Ben Sheppard](https://www.espn.com/nba/player/_/id/4433076/ben-sheppard) | G | Jan 2 | Out | Oct 28: Head coach Rick Carlise confirmed Sheppard will miss "months" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports. |
@@ -237,10 +241,10 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Bennedict Mathurin](https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin) | G | Nov 20 | Out | Nov 17: Mathurin (foot) has been ruled out for Wednesday's game against Detroit. |
-| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 20 | Out | Nov 17: McGowens (elbow) has been ruled out for Wednesday's game against Detroit. |
-| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 20 | Out | Nov 17: Watford (ankle) has been ruled out for Wednesday's game against Detroit. |
-| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 20 | Out | Nov 17: Murphy (knee) has been ruled out for Wednesday's game against Detroit. |
+| [Bryce McGowens](https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens) | G | Nov 27 | Out | Nov 19: McGowens (elbow) has been ruled out for Friday's game against the Thunder. |
+| [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 27 | Out | Nov 19: Watford (ankle) has been ruled out for Friday's game against Oklahoma City. |
+| [Bennedict Mathurin](https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin) | G | Nov 27 | Out | Nov 19: Mathurin (foot) has been ruled out for Friday's game against the Thunder. |
+| [Trey Murphy III](https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii) | F | Nov 20 | Out | Nov 19: Murphy (knee) is questionable for Friday's game against the Thunder. |
 | [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 27 | Out | Nov 13: Murray (ankle) is out for Friday's game against Memphis. |
 
 ![Image 31: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
@@ -310,9 +314,8 @@ Fri
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [RJ Barrett](https://www.espn.com/nba/player/_/id/4395625/rj-barrett) | F | Nov 20 | Day-To-Day | Nov 19: Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports. |
-| [Scottie Barnes](https://www.espn.com/nba/player/_/id/4433134/scottie-barnes) | F | Nov 20 | Day-To-Day | Nov 19: Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esfandiar Baraheni of The Athletic reports. |
-| [Collin Murray-Boyles](https://www.espn.com/nba/player/_/id/5093267/collin-murray-boyles) | F | Nov 20 | Day-To-Day | Nov 18: Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports. |
+| [Collin Murray-Boyles](https://www.espn.com/nba/player/_/id/5093267/collin-murray-boyles) | F | Nov 23 | Out | Nov 19: Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons. |
+| [RJ Barrett](https://www.espn.com/nba/player/_/id/4395625/rj-barrett) | F | Dec 13 | Out | Nov 19: Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports. |
 | [Kawhi Leonard](https://www.espn.com/nba/player/_/id/6450/kawhi-leonard) | F | Nov 27 | Out | Nov 17: Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports. |
 | [Nate Bittle](https://www.espn.com/nba/player/_/id/4432586/nate-bittle) | C | Nov 23 | Out | Nov 14: Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports. |
 
@@ -340,31 +343,63 @@ Sponsored Headlines
 
 [](https://financefalcons.com/qs-best-credit-cards)[Business, travel, cash back or 0% APR? Compare Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Business, travel, cash back or 0% APR? Compare")
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Get Social Security, Don't Skip This November Benefit Check The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Get Social Security, Don't Skip This November Benefit Check")
+Undo
 
-[](https://wellnesstodayonline.net/germanys-no.-1-lactase-brand-just-arrived-in-the-us)[Why Your Lactase Pill May Not Be Enough for Pizza Night Lactrase | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wellnesstodayonline.net/germanys-no.-1-lactase-brand-just-arrived-in-the-us "Why Your Lactase Pill May Not Be Enough for Pizza Night")
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
 
-[](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509)[If You Receive Less Than $2,784 a Month in Social Security, You May Qualify for These 20 Discounts The Savings Mentor | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://mecondstutiolin.com/2afe14ef-0c81-44e8-8132-67f74dbcb509 "If You Receive Less Than $2,784 a Month in Social Security, You May Qualify for These 20 Discounts")
+Undo
 
-[](https://quiz.glowdrop.co/skin-routine-quiz)[Over 45? Find Your Tan Shade in 60 Seconds Skin & Body Toning After 50 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Try Now](https://quiz.glowdrop.co/skin-routine-quiz "Over 45? Find Your Tan Shade in 60 Seconds")
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)")
 
-[](https://savingspro.org/savings-rates)[Your Savings Could Be Earning More With These Banks (See the List)Savingspro | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://savingspro.org/savings-rates "Your Savings Could Be Earning More With These Banks (See the List)")
+Undo
+
+[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+
+Undo
+
+[](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Type that fits your habits Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
+
+Undo
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+
+Undo
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
+
+Undo
+
+[](https://www.espn.com/nba/injuries)[Where Energy, Climate and Cost Collide The Path to Zero podcast explores data centers, grid reliability, and why saving money may move the climate conversation forward.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "Where Energy, Climate and Cost Collide")
+
+Undo
+
+[](https://freshstartinfo.org/january-tax-relief-deadline)[Thursday: IRS Forgiving Millions Before November 30th Deadline Americans who owe the IRS $10,000 or more may qualify for the Fresh Start Program. Eligibility is determined during the qualification process.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Apply Now](https://freshstartinfo.org/january-tax-relief-deadline "Thursday: IRS Forgiving Millions Before November 30th Deadline")
+
+Undo
 
 ### NBA News
 
-[![Image 41: Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain](https://a.espncdn.com/combiner/i?img=/photo/2026/1118/r1747823_3_600x400_3-2.jpg&w=220) ## Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain Spurs guard Dylan Harper has been diagnosed with a left hip rotator strain, avoiding any major injury, sources told ESPN's Shams Charania on Thursday. * 30m * ESPN](https://www.espn.com/nba/story/_/id/50533303/sources-spurs-dylan-harper-1-3-weeks-hip-strain)
+[![Image 41: Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain](https://a.espncdn.com/combiner/i?img=/photo/2026/1118/r1747823_3_600x400_3-2.jpg&w=220) ## Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain Spurs guard Dylan Harper has been diagnosed with a left hip rotator strain, avoiding any major injury, sources told ESPN's Shams Charania on Thursday. * 2h * ESPN](https://www.espn.com/nba/story/_/id/50533303/sources-spurs-dylan-harper-1-3-weeks-hip-strain)
 
-[![Image 42: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2025/0121/r1441247_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 32m * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
+[![Image 42: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2025/0121/r1441247_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 2h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
-[![Image 43: Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else](https://a.espncdn.com/combiner/i?img=/photo/2025/0506/r1488856_1296x729_16-9.jpg&w=220) ## Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else The latest entry in the Grand Theft Auto series is tied with "The Legend of Zelda: Ocarina of Time" with a 99 rating on Metacritic. * 1h * ESPN](https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes)
+[![Image 43: Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else](https://a.espncdn.com/combiner/i?img=/photo/2025/0506/r1488856_1296x729_16-9.jpg&w=220) ## Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else The latest entry in the Grand Theft Auto series is tied with "The Legend of Zelda: Ocarina of Time" with a 99 rating on Metacritic. * 3h * ESPN](https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Type that fits your habits Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
+[](https://quelancepitylus.com/99b90b7b-75eb-48f7-975f-2418058f5a84)[South Carolina: The Most Expensive Zip Codes For Home Insurance Insure Home | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://quelancepitylus.com/99b90b7b-75eb-48f7-975f-2418058f5a84 "South Carolina: The Most Expensive Zip Codes For Home Insurance")
 
-[](https://related.advisorbooth.net/topics/423/E93AB46)[New Luxury Sedan Models To Explore (Search Now)Want A New Luxury Sedan? Compare The Latest Models (Discover Now)AdvisorBooth | Luxury Sedans | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.advisorbooth.net/topics/423/E93AB46 "New Luxury Sedan Models To Explore (Search Now)")
+Undo
+
+[](https://financebuzz.com/senior-money-tips-yaez)[Living On Less Than $2000 A Month? These 16 Things Could Help FinanceBuzz | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Read More](https://financebuzz.com/senior-money-tips-yaez "Living On Less Than $2000 A Month? These 16 Things Could Help")
+
+Undo
+
+[](https://financebuzz.com/shopper-hacks-amazon-yaez-1)[16 Weird Things to Try if You Pay for Amazon Prime FinanceBuzz | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://financebuzz.com/shopper-hacks-amazon-yaez-1 "16 Weird Things to Try if You Pay for Amazon Prime")
+
+Undo
 
 ![Image 44: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
