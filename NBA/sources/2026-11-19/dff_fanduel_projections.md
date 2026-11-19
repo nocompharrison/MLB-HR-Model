@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-19 18:35 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-19 18:49 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Thu, Nov 19, 2026, 6:10 PM ET
+_Updated At:_ Thu, Nov 19, 2026, 6:25 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 4 GAME SLATE:
 THU 8:00PM ET · Main
@@ -41,7 +41,7 @@ Main · 4 Game Slate · 8:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) B. Burries  PG/PG · $5500 FPTS 26.7 VALUE 4.9x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Brayden Burries   |  $5.5k  | EXP.  | MIL  | POR  | 21  |  26.7  | 4.86  |   | 21.7  | 24.6  | 21.5  | 230.5  | 109.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Kel'el Ware  PF · $4700 FPTS 26.3 VALUE 5.6x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Kel'el Ware   |  $4.7k  |   | MIL  | POR  | 3  |  26.3  | 5.60  |   | 24.0  | 20.3  | 21.5  | 230.5  | 109.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) J. Jaquez  SF · $5400 FPTS 25.9 VALUE 4.8x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Jaime Jaquez   |  $5.4k  | EXP.  | MIL  | POR  | 8  |  25.9  | 4.80  |   | 27.2  | 25.2  | 26.6  | 230.5  | 109.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) J. Kuminga  Q SF · $5600 FPTS 25.2 VALUE 4.5x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) Jonathan Kuminga  Q  |  $5.6k  | EXP.  | MIN  | NY  | 10  |  25.2  | 4.50  |   | 22.8  | 26.4  | 27.2  | 216.5  | 107.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) D. Melton  PG/SG · $5100 FPTS 25.1 VALUE 4.9x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/GSW.svg) De'Anthony Melton   |  $5.1k  |   | GSW  | MEM  | 9  |  25.1  | 4.93  |   | 18.5  | 21.2  | 20.9  | 224.5  | 109.5  |  
 Log In or create a free account to see all players
 [ LOG IN TO SEE ALL ](https://www.dailyfantasyfuel.com/auth)
 ## Industry Leading NBA DFS Projections 

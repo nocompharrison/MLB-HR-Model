@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 18:49 ET -->
 
 # NBA DFS Picks Today
 November 19, 2026
@@ -71,7 +71,7 @@ _Implied_**110.0** _Spread_**+5.5**
 | --- | --- | --- | --- |  
 | C  | Al Horford  | $3,500  | 16.2  |  
 | PF  | Gui Santos  | $4,300  | 16.6  |  
-| PG  | LJ CryerQ  | $4,000  | 22.2  |  
+| PG  | LJ Cryer  | $4,000  | 22.2  |  
 | SF  | Yaxel Lendeborg  | $8,500  | 39.3  |  
 | SG  | Brandin Podziemski  | $7,300  | 32.9  |  
 GrizzliesExpectedHome
@@ -156,7 +156,7 @@ AllGuardsForwardsCenters
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Stephon CastleSAS - SG  | vs LAC  | $7,200  | 34  | 41.1  | **5.71**  |  
 | 2  |  Javon SmallMEM - PG  | vs GSW  | $4,800  | 25  | 27.4  | **5.70**  |  
-| 3  |  L.J. CryerQGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
+| 3  |  L.J. CryerGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
 | 4  |  Cedric CowardMEM - SG  | vs GSW  | $6,800  | 32  | 37.8  | **5.56**  |  
 | 5  |  Taylor HendricksMEM - PF  | vs GSW  | $3,700  | 20  | 20.3  | **5.48**  |  
 | 6  |  Victor WembanyamaSAS - C  | vs LAC  | $12,000  | 34  | 65.1  | **5.42**  |  

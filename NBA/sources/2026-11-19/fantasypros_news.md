@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-19 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-19 18:49 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Alperen Sengun](https://images.fantasypros.com/images/players/nba/5384/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)
+C - HOU
+[» Rankings](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alperen-sengun-c.php)  
+[» More News](https://www.fantasypros.com/nba/news/alperen-sengun-c.php)
+[Alperen Sengun (eye) listed questionable Friday ](https://www.fantasypros.com/nba/news/621292/alperen-sengun-eye-listed-questionable-friday.php)  
+
+Thu, Nov 19th 6:25pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alperen Sengun is listed as questionable for Friday’s game against the Nuggets.
+**_Fantasy Impact:_** Sengun is dealing with a left eye issue. He'll need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Nikola Jokic](https://images.fantasypros.com/images/players/nba/2918/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nikola-jokic.php)
 C - DEN
 [» Rankings](https://www.fantasypros.com/nba/players/nikola-jokic.php)  
@@ -270,20 +284,6 @@ Thu, Nov 19th 3:58pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Al Horford is not on the injury report for Thursday’s game against the Grizzlies.
 **_Fantasy Impact:_** Horford will be good to go for the second game of the back-to-back for the Warriors. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Zyon Pullin](https://images.fantasypros.com/images/players/nba/6212/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zyon-pullin.php)
-G - MIN
-[» Rankings](https://www.fantasypros.com/nba/players/zyon-pullin.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/zyon-pullin.php)  
-[» More News](https://www.fantasypros.com/nba/news/zyon-pullin.php)
-[Zyon Pullin (quad) available Thursday ](https://www.fantasypros.com/nba/news/621210/zyon-pullin-quad-available-thursday.php)  
-
-Thu, Nov 19th 3:57pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Zyon Pullin is available for Thursday’s game against the Knicks.
-**_Fantasy Impact:_** Pullin remains off the fantasy radar. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
