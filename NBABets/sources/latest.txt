@@ -1,8 +1,8 @@
-# NBA betting sources | Thu 11/19/2026 | updated 2026-11-19 16:16 ET
+# NBA betting sources | Thu 11/19/2026 | updated 2026-11-19 18:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-19/covers_top_picks.md       23,085 chars                       https://www.covers.com/nba/top-picks-nov-19-2026
-OK      NBABets/sources/2026-11-19/covers_ats_picks.md       UPDATED (changed since 2026-11-19 12:10) 21,876 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-19-2026
-FAILED  NBABets/sources/2026-11-19/rotowire_bets.md          no article dated today yet (browser saw 139 links, Jina 479) https://www.rotowire.com/betting/nba/picks/
-OK      NBABets/sources/2026-11-19/fanduel_research_bets.md  UPDATED (changed since 2026-11-19 12:10) 59,782 chars [6 of 6 articles combined] https://www.fanduel.com/research/nba
-OK      NBABets/sources/2026-11-19/bettingpros_bets.md       UPDATED (changed since 2026-11-19 12:10) 62,045 chars (via Jina) [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/
+OK      NBABets/sources/2026-11-19/covers_top_picks.md       UPDATED (changed since 2026-11-19 16:16) 23,130 chars https://www.covers.com/nba/top-picks-nov-19-2026
+OK      NBABets/sources/2026-11-19/covers_ats_picks.md       UPDATED (changed since 2026-11-19 16:16) 22,004 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-19-2026
+OK      NBABets/sources/2026-11-19/rotowire_bets.md          23,800 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-thursday-nov-19-147175
+OK      NBABets/sources/2026-11-19/fanduel_research_bets.md  UPDATED (changed since 2026-11-19 16:16) 70,644 chars [6 of 6 articles combined] https://www.fanduel.com/research/nba
+OK      NBABets/sources/2026-11-19/bettingpros_bets.md       UPDATED (changed since 2026-11-19 16:16) 61,898 chars (via Jina) [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/

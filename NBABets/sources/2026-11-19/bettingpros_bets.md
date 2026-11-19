@@ -1,4 +1,4 @@
-<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/ | fetched: 2026-11-19 16:16 ET -->
+<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/ | fetched: 2026-11-19 18:09 ET -->
 
 Title: NBA Picks & Predictions: Thursday (11/19)
 
@@ -655,12 +655,12 @@ I’m on the under because this could be a potential blowout, as the Blazers are
 
 ## Related articles
 
+*   [NFL Week 11 Picks, Predictions and Parlays](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
 *   [NFL Thursday Night Football Player Props & Bets: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 *   [NFL Thursday Night Football Betting Primer: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
 *   [NFL Thursday Night Football Same Game Parlay: Texans vs. Colts](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
 *   [Best NFL Player Props: Thursday Night Football (Colts vs. Texans)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
 *   [NFL Thursday Night Football TD Scorers Picks: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
-*   [College Football Picks & Predictions: Rice vs. Temple (Thursday)](https://www.bettingpros.com/articles/college-football-picks-predictions-rice-vs-temple-thursday/)
 
 [Bet Feed](https://www.bettingpros.com/articles/sports/bet-feed/)[Featured](https://www.bettingpros.com/articles/sports/featured/)[NBA](https://www.bettingpros.com/articles/sports/nba/)[Picks](https://www.bettingpros.com/articles/sports/picks-nba/)
 
@@ -668,7 +668,7 @@ I’m on the under because this could be a potential blowout, as the Blazers are
 
 Current Article|2 min read
 
-![Image 18: Player image for next featured article](https://www.bettingpros.com/img/nico_collins_texans_10-1-65x65.jpg/65x65.webp)Next Up: NFL Thursday Night Football Player Props & Bets: Colts vs. Texans[Next Article](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
+![Image 18: Player image for next featured article](https://www.bettingpros.com/img/mahernflweek11-65x65.jpg/65x65.webp)Next Up: NFL Week 11 Picks, Predictions and Parlays[Next Article](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
 
 Start here!
 ## New to BettingPros?
@@ -725,41 +725,41 @@ Join
 
 ## Recent Articles
 
-[![Image 28: Article image](https://www.bettingpros.com/img/nico_collins_texans_10-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
+[![Image 28: Article image](https://www.bettingpros.com/img/mahernflweek11-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
+
+[NFL Week 11 Picks, Predictions and Parlays](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
+
+[1 hour ago](https://www.bettingpros.com/articles/author/mike-maher/)
+
+[![Image 29: Article image](https://www.bettingpros.com/img/nico_collins_texans_10-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 
 [NFL Thursday Night Football Player Props & Bets: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 
-[8 hours ago](https://www.bettingpros.com/articles/author/steve-krebs/)
+[10 hours ago](https://www.bettingpros.com/articles/author/steve-krebs/)
 
-[![Image 29: Article image](https://www.bettingpros.com/img/tyler_warren_colts_5-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
+[![Image 30: Article image](https://www.bettingpros.com/img/tyler_warren_colts_5-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
 
 [NFL Thursday Night Football Betting Primer: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-betting-primer-colts-vs-texans-2026-week-11/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/andrew-erickson/)
+[11 hours ago](https://www.bettingpros.com/articles/author/andrew-erickson/)
 
-[![Image 30: Article image](https://www.bettingpros.com/img/Dalton_Schultz_Texans_1470x650-2-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
+[![Image 31: Article image](https://www.bettingpros.com/img/Dalton_Schultz_Texans_1470x650-2-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
 
 [NFL Thursday Night Football Same Game Parlay: Texans vs. Colts](https://www.bettingpros.com/articles/nfl-thursday-night-football-same-game-parlay-texans-vs-colts-2026-week-11/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
+[11 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
 
-[![Image 31: Article image](https://www.bettingpros.com/img/cj_Stroud_texans_7-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
+[![Image 32: Article image](https://www.bettingpros.com/img/cj_Stroud_texans_7-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
 
 [Best NFL Player Props: Thursday Night Football (Colts vs. Texans)](https://www.bettingpros.com/articles/best-nfl-player-props-thursday-night-football-colts-vs-texans-week-11-2026/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/blaine/)
+[11 hours ago](https://www.bettingpros.com/articles/author/blaine/)
 
-[![Image 32: Article image](https://www.bettingpros.com/img/Jonathan_Taylor_colts_10-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
+[![Image 33: Article image](https://www.bettingpros.com/img/Jonathan_Taylor_colts_10-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
 
 [NFL Thursday Night Football TD Scorers Picks: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-td-scorers-picks-colts-vs-texans/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
-
-[![Image 33: Article image](https://www.bettingpros.com/assets/images/articles/default_fallback_thumbnail-120x120.webp)](https://www.bettingpros.com/articles/college-football-picks-predictions-rice-vs-temple-thursday/)
-
-[College Football Picks & Predictions: Rice vs. Temple (Thursday)](https://www.bettingpros.com/articles/college-football-picks-predictions-rice-vs-temple-thursday/)
-
-[9 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
+[11 hours ago](https://www.bettingpros.com/articles/author/mike-spector/)
 
 * * *
 
@@ -769,7 +769,7 @@ Join
 *   [Betting 101 When to Place Your NFL Bets](https://www.bettingpros.com/articles/sports-betting-when-should-you-place-your-nfl-bets/)
 *   [Betting 101 10 Tips to Become a Sharp Bettor](https://www.bettingpros.com/articles/10-tips-to-become-a-sharper-sports-bettor/)
 *   [Betting 101 Win Totals Strategy](https://www.bettingpros.com/articles/win-totals-strategy-for-sports-betting/)
-*   [Betting 101 Learn to Win at Sports Betting](https://www.bettingpros.com/articles/how-to-win-at-sports-betting/)
+*   [Betting 101 How to Predict Line Movements](https://www.bettingpros.com/articles/how-to-predict-line-movements-in-sports-betting/)
 
 [View More](https://www.bettingpros.com/sports-betting-strategy-advice-tips/)
 
@@ -890,5 +890,5 @@ Allow All
 
 [![Image 37: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
-![Image 38](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795122995-VEVYY097-CD1J&halo_id=060ixfkju6a659b999d9c66666666666666uooywi0e0y6g666k6i000000000000)![Image 39](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795122995-VEVYY097-CD1J)![Image 40](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795122995-VEVYY097-CD1J&adnxs_id=$UID&gdpr=0)![Image 41](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J%26auid%3DAU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 42](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 43](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 44](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 45](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795122995-VEVYY097-CD1J&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795122995-VEVYY097-CD1J%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 46](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTEyMjk5NS1WRVZZWTA5Ny1DRDFK&id=AU1D-0100-001795122995-VEVYY097-CD1J&gdpr=0)![Image 47](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795122995-VEVYY097-CD1J)![Image 48](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795122995-VEVYY097-CD1J&uid=[UID]&gdpr=0)![Image 49](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795122995-VEVYY097-CD1J%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![Image 38](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795129776-HO7UETW5-H2GV&halo_id=060ixfkju6a659d9c9f6666666666666666uooywi0e0y6k6i6o00000000000000)![Image 39](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795129776-HO7UETW5-H2GV)![Image 40](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795129776-HO7UETW5-H2GV&adnxs_id=$UID&gdpr=0)![Image 41](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795129776-HO7UETW5-H2GV%26auid%3DAU1D-0100-001795129776-HO7UETW5-H2GV&gdpr=0)![Image 42](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795129776-HO7UETW5-H2GV&gdpr=0)![Image 43](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795129776-HO7UETW5-H2GV&gdpr=0)![Image 44](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795129776-HO7UETW5-H2GV&gdpr=0)![Image 45](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795129776-HO7UETW5-H2GV&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795129776-HO7UETW5-H2GV%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 46](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTEyOTc3Ni1ITzdVRVRXNS1IMkdW&id=AU1D-0100-001795129776-HO7UETW5-H2GV&gdpr=0)![Image 47](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795129776-HO7UETW5-H2GV)![Image 48](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795129776-HO7UETW5-H2GV&uid=[UID]&gdpr=0)![Image 49](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795129776-HO7UETW5-H2GV%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
