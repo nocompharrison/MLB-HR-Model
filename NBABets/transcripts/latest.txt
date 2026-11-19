@@ -1,15 +1,13 @@
-# NBABets transcripts | 2026-11-19 | updated 2026-11-19 12:11 ET
+# NBABets transcripts | 2026-11-19 | updated 2026-11-19 16:17 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 1 files in NBABets/transcripts/2026-11-19:
 NBABets/transcripts/2026-11-19/d06A0TCEgUk_ChrisBets_Nov_19th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
-# also filed this run under the slate their titles name: NBABets/transcripts/2026-11-18
 
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
-NEW     NBABets/transcripts/2026-11-19/d06A0TCEgUk_ChrisBets_Nov_19th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt  (3,505 words)
-NEW     NBABets/transcripts/2026-11-18/ojXSN1xUW6k_ChrisBets_Nov_18th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt  (4,325 words)
+NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod oO3UtiiJsWc NBA Friday Picks - 11/20/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/19/26 9:00PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
@@ -18,6 +16,5 @@ NONE    channel CemirGamble: nothing new in the date window (or everything alrea
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
 UPCOMING ActionNetwork WHpwHuP20fk Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 11/19/26 11:00PM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NOCAPS  SportsLine WXuGSk28eJg Thursday Night Football Picks + NBA Bets | Early Edge  (no captions; Groq: live stream still processing - audio not final yet)
+UPCOMING SportsLine f0o5fJ_QlNg NFL Picks + College Football Bets + NBA Picks | Early Edge  (not aired yet - scheduled for 11/20/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
