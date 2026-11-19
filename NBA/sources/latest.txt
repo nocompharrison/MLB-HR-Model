@@ -1,18 +1,18 @@
-# NBA sources | Thu 11/19/2026 | updated 2026-11-19 11:06 ET
+# NBA sources | Thu 11/19/2026 | updated 2026-11-19 16:11 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBA/sources/2026-11-19/rotowire_news.md              19,902 chars                       https://www.rotowire.com/basketball/news.php
-OK      NBA/sources/2026-11-19/fantasypros_news.md           29,640 chars                       https://www.fantasypros.com/nba/player-news.php
-OK      NBA/sources/2026-11-19/rotowire_lineups.md           19,143 chars                       https://www.rotowire.com/basketball/nba-lineups.php
-OK      NBA/sources/2026-11-19/rotogrinders_lineups.md       28,211 chars                       https://rotogrinders.com/lineups/nba
-OK      NBA/sources/2026-11-19/espn_injuries.md              44,443 chars (via Jina)            https://www.espn.com/nba/injuries
-OK      NBA/sources/2026-11-19/cbs_injuries.md               89,645 chars (via Jina)            https://www.cbssports.com/nba/injuries/
-OK      NBA/sources/2026-11-19/dff_fanduel_projections.md    12,064 chars                       https://www.dailyfantasyfuel.com/nba/projections/fanduel
-OK      NBA/sources/2026-11-19/rotowire_dfs_hub.md           20,581 chars                       https://www.rotowire.com/basketball/nba-dfs-picks-today.php
-FAILED  NBA/sources/2026-11-19/rotowire_dfs.md               no article dated today yet (browser saw 346 links, Jina 492) https://www.rotowire.com/basketball/articles/
+OK      NBA/sources/2026-11-19/rotowire_news.md              UPDATED (changed since 2026-11-19 11:06) 18,186 chars https://www.rotowire.com/basketball/news.php
+OK      NBA/sources/2026-11-19/fantasypros_news.md           UPDATED (changed since 2026-11-19 11:06) 30,054 chars https://www.fantasypros.com/nba/player-news.php
+OK      NBA/sources/2026-11-19/rotowire_lineups.md           UPDATED (changed since 2026-11-19 11:06) 19,240 chars https://www.rotowire.com/basketball/nba-lineups.php
+OK      NBA/sources/2026-11-19/rotogrinders_lineups.md       UPDATED (changed since 2026-11-19 11:06) 28,377 chars https://rotogrinders.com/lineups/nba
+OK      NBA/sources/2026-11-19/espn_injuries.md              UPDATED (changed since 2026-11-19 11:06) 44,678 chars (via Jina) https://www.espn.com/nba/injuries
+OK      NBA/sources/2026-11-19/cbs_injuries.md               UPDATED (changed since 2026-11-19 11:06) 86,862 chars (via Jina) https://www.cbssports.com/nba/injuries/
+OK      NBA/sources/2026-11-19/dff_fanduel_projections.md    UPDATED (changed since 2026-11-19 11:06) 12,063 chars https://www.dailyfantasyfuel.com/nba/projections/fanduel
+OK      NBA/sources/2026-11-19/rotowire_dfs_hub.md           UPDATED (changed since 2026-11-19 11:06) 20,628 chars https://www.rotowire.com/basketball/nba-dfs-picks-today.php
+FAILED  NBA/sources/2026-11-19/rotowire_dfs.md               no article dated today yet (browser saw 346 links, Jina 507) https://www.rotowire.com/basketball/articles/
 FAILED  NBA/sources/2026-11-19/fantasypros_dfs.md            no article dated today yet (browser saw 137 links, Jina 125) https://www.fantasypros.com/content/nba/nba-dfs/
-FAILED  NBA/sources/2026-11-19/rotoballer_dfs.md             no article dated today yet (browser saw 1171 links, Jina 1631) https://www.rotoballer.com/tag/nba-dfs-articles
-OK      NBA/sources/2026-11-19/fanduel_research_props.md     13,512 chars [today's article]     https://www.fanduel.com/research/nba-props-today-prop-bets-for-thursday-nov-19
-FAILED  NBA/sources/2026-11-19/actionnetwork_props.md        no article dated today yet (browser saw 215 links, Jina 581) https://www.actionnetwork.com/nba
-OK      NBA/sources/2026-11-19/rotoballer_betting.md         342,559 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
-OK      NBA/sources/2026-11-19/lineups_nba.md                200,524 chars [5 of 5 articles combined] https://www.lineups.com/nba-articles/
+FAILED  NBA/sources/2026-11-19/rotoballer_dfs.md             no article dated today yet (browser saw 1167 links, Jina 1629) https://www.rotoballer.com/tag/nba-dfs-articles
+OK      NBA/sources/2026-11-19/fanduel_research_props.md     UPDATED (changed since 2026-11-19 11:06) 10,664 chars [today's article] https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19
+OK      NBA/sources/2026-11-19/actionnetwork_props.md        23,457 chars [today's article]     https://www.actionnetwork.com/nba/nba-player-props-our-staffs-4-picks-for-thursday-november-19
+OK      NBA/sources/2026-11-19/rotoballer_betting.md         UPDATED (changed since 2026-11-19 11:06) 342,213 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
+OK      NBA/sources/2026-11-19/lineups_nba.md                UPDATED (changed since 2026-11-19 11:06) 197,267 chars [5 of 5 articles combined] https://www.lineups.com/nba-articles/

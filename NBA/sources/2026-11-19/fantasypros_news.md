@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-19 11:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-19 16:11 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,118 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Zach Edey](https://images.fantasypros.com/images/players/nba/5540/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zach-edey.php)
+C - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/zach-edey.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/zach-edey.php)  
+[» More News](https://www.fantasypros.com/nba/news/zach-edey.php)
+[Zach Edey (ankle) ruled out Thursday ](https://www.fantasypros.com/nba/news/621209/zach-edey-ankle-ruled-out-thursday.php)  
+
+Thu, Nov 19th 3:56pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Zach Edey has been ruled out for Thursday’s game against the Warriors. 
+**_Fantasy Impact:_** Edey will sit the second game of a back-to-back. Isaiah Stewart (illness) could start if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ty Jerome](https://images.fantasypros.com/images/players/nba/4513/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ty-jerome.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/ty-jerome.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ty-jerome.php)  
+[» More News](https://www.fantasypros.com/nba/news/ty-jerome.php)
+[Ty Jerome (hip) ruled out Thursday ](https://www.fantasypros.com/nba/news/621208/ty-jerome-hip-ruled-out-thursday.php)  
+
+Thu, Nov 19th 3:55pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ty Jerome has been ruled out for Thursday’s game against the Warriors.
+**_Fantasy Impact:_** Jerome will miss a fourth straight game. Cam Spencer will continue to start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Isaiah Stewart](https://images.fantasypros.com/images/players/nba/5144/headshot/100x100.png)](https://www.fantasypros.com/nba/players/isaiah-stewart.php)
+C - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/isaiah-stewart.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/isaiah-stewart.php)  
+[» More News](https://www.fantasypros.com/nba/news/isaiah-stewart.php)
+[Isaiah Stewart (illness) listed questionable Thursday ](https://www.fantasypros.com/nba/news/621207/isaiah-stewart-illness-listed-questionable-thursday.php)  
+
+Thu, Nov 19th 3:54pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Isaiah Stewart is listed as questionable for Thursday’s game against the Warriors.
+**_Fantasy Impact:_** Stewart is looking to avoid missing a third straight game. He could start if he is cleared. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ryan Rollins](https://images.fantasypros.com/images/players/nba/5525/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ryan-rollins.php)
+G - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/ryan-rollins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ryan-rollins.php)  
+[» More News](https://www.fantasypros.com/nba/news/ryan-rollins.php)
+[Ryan Rollins (illness) off injury report Thursday ](https://www.fantasypros.com/nba/news/621206/ryan-rollins-illness-off-injury-report-thursday.php)  
+
+Thu, Nov 19th 3:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ryan Rollins is off the injury report for Thursday’s game against the Trail Blazers.
+**_Fantasy Impact:_** Rollins will return after sitting out Wednesday’s loss to the Heat. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Myles Turner](https://images.fantasypros.com/images/players/nba/3020/headshot/100x100.png)](https://www.fantasypros.com/nba/players/myles-turner.php)
+C - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/myles-turner.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/myles-turner.php)  
+[» More News](https://www.fantasypros.com/nba/news/myles-turner.php)
+[Myles Turner (shoulder) ruled out Thursday ](https://www.fantasypros.com/nba/news/621205/myles-turner-shoulder-ruled-out-thursday.php)  
+
+Thu, Nov 19th 3:52pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Myles Turner has been ruled out for Thursday’s game against the Trail Blazers.
+**_Fantasy Impact:_** Turner played 21 minutes in Wednesday’s loss to the Heat. He will sit the second game of the back-to-back. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyle Kuzma](https://images.fantasypros.com/images/players/nba/3358/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyle-kuzma.php)
+F - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/kyle-kuzma.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyle-kuzma.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyle-kuzma.php)
+[Kyle Kuzma (shoulder) ruled out Thursday ](https://www.fantasypros.com/nba/news/621204/kyle-kuzma-shoulder-ruled-out-thursday.php)  
+
+Thu, Nov 19th 3:51pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kyle Kuzma has been ruled out for Thursday’s game against the Trail Blazers.
+**_Fantasy Impact:_** Kuzma will sit the second game of the back-to-back after playing 30 minutes in Wednesday’s loss to the Heat. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Anthony Edwards](https://images.fantasypros.com/images/players/nba/5089/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-edwards.php)
+G - MIN
+[» Rankings](https://www.fantasypros.com/nba/players/anthony-edwards.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/anthony-edwards.php)  
+[» More News](https://www.fantasypros.com/nba/news/anthony-edwards.php)
+[Anthony Edwards (knee) without timetable to return](https://www.fantasypros.com/nba/news/621203/anthony-edwards-knee-without-timetable-to-return.php)  
+
+Thu, Nov 19th 3:50pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Anthony Edwards said he has “no clue” when asked about a potential return timeline.
+**_Fantasy Impact:_** Edwards underwent an arthroscopic procedure on his right knee in October and was expected to miss up to two months. Ayo Dosunmu will continue to start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Dylan Harper](https://images.fantasypros.com/images/players/nba/6307/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dylan-harper.php)
+G - SAS
+[» Rankings](https://www.fantasypros.com/nba/players/dylan-harper.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dylan-harper.php)  
+[» More News](https://www.fantasypros.com/nba/news/dylan-harper.php)
+[Dylan Harper (hip) out one to three weeks with hip rotator strain](https://www.fantasypros.com/nba/news/621197/dylan-harper-hip-out-one-to-three-weeks-with-hip-rotator-strain.php)  
+
+Thu, Nov 19th 3:11pm EST  
+By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
+Dylan Harper (hip) has been diagnosed with a hip rotator strain. The good news is he avoided major injury, the bad news is he will be out between 1-3 weeks depending on how his rehab goes. (Source: [Shams Charania on X](https://x.com/shamscharania/status/2123507384232579322?a=ejj30XTYYUhf80f-gj4&s=46))
+**_Fantasy Impact:_** With Harper out, expect to see Keldon Johnson and Julian Champagnie to get additional minutes. Both should be viable for fantasy in Harper’s stead. While it’s unfortunate Harper has to miss time, at least the bright side is he avoided missing a major part of the season.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Shai Gilgeous-Alexander](https://images.fantasypros.com/images/players/nba/3485/headshot/100x100.png)](https://www.fantasypros.com/nba/players/shai-gilgeous-alexander.php)
 G - OKC
 [» Rankings](https://www.fantasypros.com/nba/players/shai-gilgeous-alexander.php)  
@@ -175,118 +287,6 @@ Brayden Burries scored 20 points (6-9 FG, 3-5 3P, 5-6 FT) with 7 rebounds, an as
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Kyle Kuzma](https://images.fantasypros.com/images/players/nba/3358/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyle-kuzma.php)
-F - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/kyle-kuzma.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyle-kuzma.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyle-kuzma.php)
-[Kyle Kuzma racks up 26 points in losd](https://www.fantasypros.com/nba/news/621152/kyle-kuzma-racks-up-26-points-losd.php)  
-
-Thu, Nov 19th 9:07am EST  
-By [Garrett Ball](https://www.fantasypros.com/news/correspondents/garrett-ball.php)
-Kyle Kuzma scored 26 points (9-16 FG, 2-5 3P, 6-10 FT) with five rebounds, an assist, two steals, and a block in the Bucks’ 137-130 loss to the Miami Heat.
-**_Fantasy Impact:_** Kuz now has point totals of 14, 14, and 26 in his last three games. He’s working his way up to starting territory for fantasy vs. someone you’re a bit afraid to start. On a Bucks squad that is lacking in options at times, Kuzma could put up some nice games.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Walker Kessler](https://images.fantasypros.com/images/players/nba/5537/headshot/100x100.png)](https://www.fantasypros.com/nba/players/walker-kessler.php)
-C - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/walker-kessler.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/walker-kessler.php)  
-[» More News](https://www.fantasypros.com/nba/news/walker-kessler.php)
-[Walker Kessler records double-double Wednesday ](https://www.fantasypros.com/nba/news/621146/walker-kessler-records-double-double-wednesday.php)  
-
-Thu, Nov 19th 4:19am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Walker Kessler scored 10 points (3-7 FG, 4-10 FT) to go along with 11 rebounds and one assist in the Lakers 109-97 loss against the Jazz. 
-**_Fantasy Impact:_** Kessler was facing his former team. He struggled at the free throw line, but he's still been steady for fantasy managers. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Luka Doncic](https://images.fantasypros.com/images/players/nba/3469/headshot/100x100.png)](https://www.fantasypros.com/nba/players/luka-doncic.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/luka-doncic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/luka-doncic.php)  
-[» More News](https://www.fantasypros.com/nba/news/luka-doncic.php)
-[Luka Doncic struggles to take care of ball Wednesday ](https://www.fantasypros.com/nba/news/621144/luka-doncic-struggles-to-take-care-ball-wednesday.php)  
-
-Thu, Nov 19th 4:16am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Luka Doncic scored 29 points (10-28 FG, 2-12 3PT, 7-7 FT) to go along with five rebounds, seven assists and two steals in the Lakers 109-97 loss against the Jazz. 
-**_Fantasy Impact:_** Doncic came close to a double-double, but not one you want as he committed nine turnovers. It was an off night for his standards to start the season and he still finished just shy of 30 points. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Keyonte George](https://images.fantasypros.com/images/players/nba/5986/headshot/100x100.png)](https://www.fantasypros.com/nba/players/keyonte-george.php)
-G - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/keyonte-george.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/keyonte-george.php)  
-[» More News](https://www.fantasypros.com/nba/news/keyonte-george.php)
-[Keyonte George records double-double Wednesday ](https://www.fantasypros.com/nba/news/621142/keyonte-george-records-double-double-wednesday.php)  
-
-Thu, Nov 19th 4:13am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Keyonte George scored 30 points (9-17 FG, 5-10 3PT, 7-9 FT) to go along with one rebound, 10 assists and one steal in the 109-97 win for the Jazz over the Lakers. 
-**_Fantasy Impact:_** George dropped 30 points exactly for the second straight game. He was able to help lead Utah to a big win for the second straight day. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ace Bailey](https://images.fantasypros.com/images/players/nba/6309/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ace-bailey.php)
-F - UTH
-[» Rankings](https://www.fantasypros.com/nba/players/ace-bailey.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ace-bailey.php)  
-[» More News](https://www.fantasypros.com/nba/news/ace-bailey.php)
-[Ace Bailey scores 19 points Wednesday ](https://www.fantasypros.com/nba/news/621141/ace-bailey-scores-19-points-wednesday.php)  
-
-Thu, Nov 19th 4:11am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ace Bailey scored 19 points (7-19 FG, 2-7 3PT, 3-3 FT) to go along with eight rebounds, three assists and one steal in the 109-97 win for the Jazz over the Lakers. 
-**_Fantasy Impact:_** Bailey was able to get back on track after back-to-back games scoring in single figures. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jamison Battle](https://images.fantasypros.com/images/players/nba/6264/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jamison-battle.php)
-F - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/jamison-battle.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jamison-battle.php)  
-[» More News](https://www.fantasypros.com/nba/news/jamison-battle.php)
-[Jamison Battle chips in 19 points Wednesday ](https://www.fantasypros.com/nba/news/621140/jamison-battle-chips-19-points-wednesday.php)  
-
-Thu, Nov 19th 4:07am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jamison Battle scored 19 points (7-15 FG, 5-10 3PT) to go along with five rebounds and one steal in the Raptors 103-99 loss against the Wizards. 
-**_Fantasy Impact:_** Battle saw the spot start with RJ Barrett sidelined. He remains on the streaming radar when in the starting lineup for Toronto. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Immanuel Quickley](https://images.fantasypros.com/images/players/nba/5141/headshot/100x100.png)](https://www.fantasypros.com/nba/players/immanuel-quickley.php)
-G - TOR
-[» Rankings](https://www.fantasypros.com/nba/players/immanuel-quickley.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/immanuel-quickley.php)  
-[» More News](https://www.fantasypros.com/nba/news/immanuel-quickley.php)
-[Immanuel Quickley drops 24 points Wednesday ](https://www.fantasypros.com/nba/news/621139/immanuel-quickley-drops-24-points-wednesday.php)  
-
-Thu, Nov 19th 4:04am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Immanuel Quickley scored 24 points (9-21 FG, 4-9 3PT, 2-6 FT) to go along with three rebounds, five assists and one steal in the Raptors 103-99 loss against the Wizards. 
-**_Fantasy Impact:_** Quickley led the way in scoring for Toronto with Scottie Barnes and RJ Barrett sidelined. He had a rare off night at the free throw line. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Anthony Davis](https://images.fantasypros.com/images/players/nba/2746/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-davis.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/anthony-davis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/anthony-davis.php)  
-[» More News](https://www.fantasypros.com/nba/news/anthony-davis.php)
-[Anthony Davis fills stat sheet Wednesday ](https://www.fantasypros.com/nba/news/621137/anthony-davis-fills-stat-sheet-wednesday.php)  
-
-Thu, Nov 19th 4:01am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Anthony Davis scored 25 points (9-16 FG, 2-3 3PT, 5-7 FT) to go along with 14 rebounds, two assists, one steal and two blocks in the Wizards 103-99 win over the Raptors. 
-**_Fantasy Impact:_** Davis recorded his eighth double-double of the season to help Washington break an eight-game losing streak. He remains consistent when he has been on the court. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659d9a989f979f9c99976666uokewi0e0y6k6e646o626o6i666200)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=678_1795122352121&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0tToCElxUpWhuaWpgaG5uamhrUAUjwc1Q%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659a969d969f9899989b9e66uokewi0e0y6e606k606o6466646g6m)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
