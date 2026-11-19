@@ -1,7 +1,8 @@
-# NBA transcripts | 2026-11-19 | updated 2026-11-19 18:37 ET
+# NBA transcripts | 2026-11-19 | updated 2026-11-19 18:51 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 16 files in NBA/transcripts/2026-11-19:
+# 17 files in NBA/transcripts/2026-11-19:
 NBA/transcripts/2026-11-19/0zXMmDewNvs_WagerTalk_NBA_Picks_Tonight_Warriors_vs_Grizzlies_Knicks_vs_Timberwolves_Steve_M.txt
+NBA/transcripts/2026-11-19/23h21jOt0Q8_DFSArmy_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt
 NBA/transcripts/2026-11-19/2NBPpnkEsmk_LockedOnNBA_INSIDER_How_Philadelphia_76ers_WIN_EVERY_Tight_Game_Joel_Embiid_and_V.txt
 NBA/transcripts/2026-11-19/4eOympTobqg_FantasyAlarm_NBA_DFS_Picks_Today_11_19_DraftKings_Lineup_Strategy_Top_Values.txt
 NBA/transcripts/2026-11-19/8geNM5MvRW4_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_19th.txt
@@ -28,7 +29,7 @@ UPCOMING WagerTalk hktTrksea04 NBA Picks Today: 9-Game Friday Slate, Best Bets &
 UPCOMING RotoGrinders CHlhIocxRVY NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/21/2  (not aired yet - scheduled for 11/21/26 6:15PM)
 UPCOMING RotoGrinders TcpwdK2NiQ0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/20/2  (not aired yet - scheduled for 11/20/26 5:40PM)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NOCAPS  DFSArmy 23h21jOt0Q8 NBA Pre-Lock Show: Top DFS Picks and Strategy for DraftKings  (no captions; Groq: still live - audio not final yet)
+NEW     NBA/transcripts/2026-11-19/23h21jOt0Q8_DFSArmy_NBA_Pre_Lock_Show_Top_DFS_Picks_and_Strategy_for_DraftKings_and_FanDue.txt  (6,736 words, via Groq)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
@@ -43,7 +44,7 @@ UPCOMING SportsLine f0o5fJ_QlNg NFL Picks + College Football Bets + NBA Picks | 
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-19/4eOympTobqg_FantasyAlarm_NBA_DFS_Picks_Today_11_19_DraftKings_Lineup_Strategy_Top_Values.txt  (9,590 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
