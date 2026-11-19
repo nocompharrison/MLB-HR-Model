@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-19 18:35 ET -->
 
 # NBA DFS Picks Today
 November 19, 2026
@@ -89,10 +89,10 @@ Trail BlazersExpectedAway
 _Implied_**121.0** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Donovan Clingan  | $6,900  | 36.3  |  
-| PF  | Deni AvdijaQ  | $9,200  | 46.4  |  
-| PG  | Damian Lillard  | $7,600  | 39.0  |  
-| SF  | Toumani CamaraQ  | $5,500  | 25.5  |  
+| C  | Donovan Clingan  | $6,900  | 36.4  |  
+| PF  | Deni AvdijaQ  | $9,200  | 46.5  |  
+| PG  | Damian Lillard  | $7,600  | 39.1  |  
+| SF  | Toumani CamaraQ  | $5,500  | 25.6  |  
 | SG  | Sidy Cissoko  | $4,200  | 18.9  |  
 BucksExpectedHome
 _Implied_**109.5** _Spread_**+11.5**  
@@ -110,9 +110,9 @@ _Implied_**109.0** _Spread_**-1.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $9,600  | 47.6  |  
-| PF  | OG Anunoby  | $6,700  | 30.2  |  
+| PF  | OG Anunoby  | $6,700  | 30.1  |  
 | PG  | Jalen Brunson  | $8,900  | 40.8  |  
-| SF  | Josh Hart  | $5,400  | 24.9  |  
+| SF  | Josh Hart  | $5,400  | 24.8  |  
 | SG  | Mikal Bridges  | $4,700  | 20.5  |  
 TimberwolvesExpectedHome
 _Implied_**107.5** _Spread_**+1.5**  
@@ -122,7 +122,7 @@ _Implied_**107.5** _Spread_**+1.5**
 | PF  | Jaden McDaniels  | $7,400  | 32.0  |  
 | PG  | LaMelo Ball  | $8,600  | 37.7  |  
 | SF  | Jonathan KumingaQ  | $6,400  | 23.4  |  
-| SG  | Ayo Dosunmu  | $7,000  | 31.4  |  
+| SG  | Ayo Dosunmu  | $7,000  | 31.3  |  
 **LAC @ SAS**
 O/U 224.58:00 PM ET
 ClippersExpectedAway
@@ -155,15 +155,15 @@ AllGuardsForwardsCenters
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
 | 1  |  Stephon CastleSAS - SG  | vs LAC  | $7,200  | 34  | 41.1  | **5.71**  |  
-| 2  |  Javon SmallMEM - PG  | vs GSW  | $4,800  | 25  | 27.3  | **5.70**  |  
-| 3  |  Cedric CowardMEM - SG  | vs GSW  | $6,800  | 32  | 37.8  | **5.56**  |  
-| 4  |  L.J. CryerQGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
+| 2  |  Javon SmallMEM - PG  | vs GSW  | $4,800  | 25  | 27.4  | **5.70**  |  
+| 3  |  L.J. CryerQGSW - PG  | @ MEM  | $4,000  | 22  | 22.2  | **5.56**  |  
+| 4  |  Cedric CowardMEM - SG  | vs GSW  | $6,800  | 32  | 37.8  | **5.56**  |  
 | 5  |  Taylor HendricksMEM - PF  | vs GSW  | $3,700  | 20  | 20.3  | **5.48**  |  
 | 6  |  Victor WembanyamaSAS - C  | vs LAC  | $12,000  | 34  | 65.1  | **5.42**  |  
-| 7  |  Kel'el WareMIL - PF  | vs POR  | $5,000  | 22  | 26.9  | **5.37**  |  
+| 7  |  Kel'el WareMIL - PF  | vs POR  | $5,000  | 22  | 26.8  | **5.37**  |  
 | 8  |  Cam SpencerMEM - SG  | vs GSW  | $6,000  | 29  | 32.0  | **5.33**  |  
-| 9  |  De'Aaron FoxSAS - PG  | vs LAC  | $6,800  | 34  | 36.1  | **5.30**  |  
-| 10  |  Donovan ClinganPOR - C  | @ MIL  | $6,900  | 27  | 36.3  | **5.27**  |  
+| 9  |  De'Aaron FoxSAS - PG  | vs LAC  | $6,800  | 34  | 36.0  | **5.30**  |  
+| 10  |  Donovan ClinganPOR - C  | @ MIL  | $6,900  | 27  | 36.4  | **5.27**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
 ## Today's Boom-or-Bust Board
 Get a snapshot of today's highest upside plays. Or get the raw data that powers this tool from our [NBA ceiling projections](https://www.rotowire.com/basketball/projections-ceil-floor.php) or [NBA floor projections](https://www.rotowire.com/basketball/projections-ceil-floor.php?ceilFloor=F), which are also included for subscribers in our [NBA DFS Lineup Optimizer](https://www.rotowire.com/daily/nba/optimizer.php). 
@@ -181,27 +181,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)HorfordCamaraBridgesIkePodziemskiBasseyWembanyamaStewart
+$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)HorfordCamaraBridgesPodziemskiBasseyIkeWembanyamaFox
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** GSW@MEM, LAC@SAS, POR@MIL, NYK@MIN  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Al HorfordGSW · C · GSW@MEM  | $3,500  | 0.8  | 16.2  | **27.8**  |   | +5.2  | +23  | 95  |  
-| 2  |  Toumani CamaraPOR · SF · POR@MIL  | $5,500  | 5.8  | 25.5  | **41.3**  |   | +5.0  | +20  | 92  |  
+| 1  |  Al HorfordGSW · C · GSW@MEM  | $3,500  | 0.8  | 16.2  | **27.8**  |   | +5.2  | +22  | 95  |  
+| 2  |  Toumani CamaraPOR · SF · POR@MIL  | $5,500  | 5.8  | 25.6  | **41.3**  |   | +5.0  | +19  | 92  |  
 | 3  |  Mikal BridgesNYK · SF · NYK@MIN  | $4,700  | 3.8  | 20.5  | **35.5**  |   | +4.7  | +23  | 92  |  
-| 4  |  Graham IkeGSW · C · GSW@MEM  | $3,200  | 0.0  | 13.2  | **23.5**  |   | +3.1  | +23  | 88  |  
-| 5  |  Brandin PodziemskiGSW · PG/SG · GSW@MEM  | $7,300  | 13.2  | 32.9  | **53.2**  |   | +4.4  | +16  | 88  |  
-| 6  |  Charles BasseyGSW · C · GSW@MEM  | $4,100  | 5.0  | 21.3  | **34.0**  |   | +7.3  | +7  | 87  |  
-| 7  |  Taylor HendricksMEM · PF/C · GSW@MEM  | $3,700  | 2.3  | 20.3  | **30.8**  |   | +6.9  | +9  | 87  |  
-| 8  |  Victor WembanyamaSAS · C · LAC@SAS  | $12,000  | 34.0  | 65.1  | **86.0**  |   | +4.7  | +11  | 85  |  
-| 9  |  Isaiah StewartMEM · PF/C · GSW@MEM  | $4,500  | 2.3  | 20.6  | **32.3**  |   | +2.9  | +15  | 84  |  
-| 10  |  Trey LylesMIN · PF/C · NYK@MIN  | $3,800  | 0.8  | 15.1  | **26.8**  |   | +2.2  | +25  | 83  |  
-| 11  |  Josh HartNYK · SG/SF · NYK@MIN  | $5,400  | 5.2  | 24.8  | **38.2**  |   | +2.5  | +12  | 79  |  
-| 12  |  Cedric CowardMEM · SG/SF · GSW@MEM  | $6,800  | 15.6  | 37.8  | **53.3**  |   | +8.0  | +2  | 78  |  
-| 13  |  Stephon CastleSAS · SG · LAC@SAS  | $7,200  | 15.5  | 41.1  | **55.0**  |   | +7.0  | +2  | 78  |  
-| 14  |  Cameron BoozerMEM · PF · GSW@MEM  | $8,400  | 20.9  | 44.0  | **61.6**  |   | +5.3  | +3  | 77  |  
-| 15  |  LJ CryerGSW · PG · GSW@MEM  | $4,000  | 5.0  | 22.2  | **33.3**  |   | +7.3  | 0  | 75  |  
+| 4  |  Brandin PodziemskiGSW · PG/SG · GSW@MEM  | $7,300  | 13.2  | 32.9  | **53.2**  |   | +4.5  | +16  | 89  |  
+| 5  |  Charles BasseyGSW · C · GSW@MEM  | $4,100  | 5.0  | 21.3  | **34.0**  |   | +7.3  | +7  | 88  |  
+| 6  |  Taylor HendricksMEM · PF/C · GSW@MEM  | $3,700  | 2.3  | 20.3  | **30.8**  |   | +6.9  | +8  | 88  |  
+| 7  |  Graham IkeGSW · C · GSW@MEM  | $3,200  | 0.0  | 13.2  | **23.5**  |   | +3.1  | +22  | 88  |  
+| 8  |  Victor WembanyamaSAS · C · LAC@SAS  | $12,000  | 33.4  | 65.1  | **85.9**  |   | +4.9  | +12  | 88  |  
+| 9  |  De'Aaron FoxSAS · PG · LAC@SAS  | $6,800  | 11.8  | 36.0  | **50.8**  |   | +5.6  | +7  | 86  |  
+| 10  |  Cedric CowardMEM · SG/SF · GSW@MEM  | $6,800  | 15.6  | 37.8  | **53.3**  |   | +8.0  | +2  | 81  |  
+| 11  |  Sidy CissokoPOR · SG/SF · POR@MIL  | $4,200  | 0.8  | 18.9  | **29.0**  |   | +1.7  | +13  | 77  |  
+| 12  |  Trey LylesMIN · PF/C · NYK@MIN  | $3,800  | 0.8  | 15.1  | **25.5**  |   | +0.9  | +16  | 75  |  
+| 13  |  Jerami GrantMEM · SF/PF · GSW@MEM  | $4,400  | 2.0  | 19.8  | **30.3**  |   | +1.5  | +9  | 74  |  
+| 14  |  Kobe SandersLAC · PF · LAC@SAS  | $3,800  | 0.5  | 15.1  | **25.0**  |   | +0.4  | +13  | 73  |  
+| 15  |  LJ CryerGSW · PG · GSW@MEM  | $4,000  | 5.0  | 22.2  | **33.3**  |   | +7.3  | 0  | 73  |  
 Show all 74 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 8:00 PM ET · 4 games slate · 2026-11-19.
 ## **NBA Injury Report**

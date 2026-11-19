@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19 | fetched: 2026-11-19 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19 | fetched: 2026-11-19 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -30,7 +30,7 @@ _Please note lines are subject to change throughout the day after this article i
 ### [Timberwolves Moneyline (-102)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Moneyline
 Minnesota Timberwolves
--106
+-104
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Odds/lines subject to change
 The [Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds) enter at 11-4 with one of the NBA’s best efficiency profiles: a +10.3 net rating and a 101.8 defensive rating per 100 possessions. Those marks compare favorably with the [Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds), who are 8-6 with a +6.5 net rating and a 109.2 defensive rating.
@@ -70,13 +70,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+13m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-31m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -84,9 +89,4 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 

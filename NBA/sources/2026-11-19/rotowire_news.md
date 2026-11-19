@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-19 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-19 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,38 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Steven Adams](https://www.rotowire.com/basketball/player/steven-adams-3445)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/steven-adams-injury-iffy-for-friday-540066)
+**C** Houston Rockets
+Quadriceps
+November 19, 2026
+Adams (quadriceps) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-19_06_15PM.pdf) for Friday's game against Denver.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Iffy for Friday](https://www.rotowire.com/basketball/headlines/alex-caruso-injury-iffy-for-friday-540065)
+**F** Oklahoma City Thunder
+Hip
+November 19, 2026
+Caruso is questionable for Friday's game against the Pelicans due to right hip soreness, [Justin Martinez of The Oklahoman](https://x.com/Justintohoops/status/2123556148028887209?a=T-qNW4q7WFYVM6ekc5Q&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Listed out for Friday](https://www.rotowire.com/basketball/headlines/clint-capela-injury-listed-out-for-friday-540064)
+**C** Houston Rockets
+Ankle
+November 19, 2026
+Capela (ankle) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-19_06_15PM.pdf) for Friday's game against Denver.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)[Tagged questionable for Friday](https://www.rotowire.com/basketball/headlines/alperen-sengun-injury-tagged-questionable-for-friday-540063)
+**C** Houston Rockets
+Eye
+November 19, 2026
+Sengun (eye) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-19_06_15PM.pdf) for Friday's game against the Nuggets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
 [Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)[Won't play against Atlanta](https://www.rotowire.com/basketball/headlines/grant-williams-injury-wont-play-against-atlanta-540061)
 **F** Charlotte Hornets
@@ -177,34 +209,6 @@ Murphy (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Inj
 Hip
 November 19, 2026
 Harper (hip) is expected to miss two to three weeks, [Brett Siegel of ClutchPoints.com](https://x.com/BrettSiegelNBA/status/2123507390649684429) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Saddiq Bey](https://www.rotowire.com/basketball/player/saddiq-bey-5182)[Heavy workload yields mixed results](https://www.rotowire.com/basketball/headlines/saddiq-bey-news-heavy-workload-yields-mixed-results-540036)
-**F** New Orleans Pelicans
-November 19, 2026
-Bey logged 10 points (3-13 FG, 2-7 3Pt, 2-2 FT), eight rebounds, six assists and one steal across 42 minutes during Wednesday's 122-109 loss to the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Herbert Jones](https://www.rotowire.com/basketball/player/herbert-jones-5414)[Three triples mask limited impact](https://www.rotowire.com/basketball/headlines/herbert-jones-news-three-triples-mask-limited-impact-540035)
-**F** New Orleans Pelicans
-November 19, 2026
-Jones had nine points (3-7 FG, 3-5 3Pt), one rebound, three assists and one block in 32 minutes during Wednesday's 122-109 loss to the Pistons.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Kevin Huerter](https://www.rotowire.com/basketball/player/kevin-huerter-4449)[Seven assists offset poor shooting](https://www.rotowire.com/basketball/headlines/kevin-huerter-news-seven-assists-offset-poor-shooting-540034)
-**G** Detroit Pistons
-November 19, 2026
-Huerter had 11 points (2-9 FG, 1-4 3Pt, 6-7 FT), one rebound, seven assists, one block and one steal across 36 minutes during Wednesday's 122-109 victory over New Orleans.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Buddy Hield](https://www.rotowire.com/basketball/player/buddy-hield-3884)[Perimeter production remains steady](https://www.rotowire.com/basketball/headlines/buddy-hield-news-perimeter-production-remains-steady-540033)
-**G** Chicago Bulls
-November 19, 2026
-Hield recorded 11 points (4-8 FG, 3-6 3Pt), one rebound, two assists and one steal over 19 minutes during Wednesday's 137-107 win over Brooklyn.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
