@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-19 | updated 2026-11-19 16:17 ET
+# NBABets transcripts | 2026-11-19 | updated 2026-11-19 18:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 1 files in NBABets/transcripts/2026-11-19:
 NBABets/transcripts/2026-11-19/d06A0TCEgUk_ChrisBets_Nov_19th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
@@ -6,7 +6,7 @@ NBABets/transcripts/2026-11-19/d06A0TCEgUk_ChrisBets_Nov_19th_NBA_Betting_Angles
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-NONE    channel JayMoney: nothing new in the date window (or everything already saved)
+UPCOMING JayMoney KuVyzpFOk00 Friday NBA Cup Talk With Jay Money & The Shark 11/20/26 Free  (not aired yet - scheduled for 11/20/26 1:00PM)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod oO3UtiiJsWc NBA Friday Picks - 11/20/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/19/26 9:00PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
