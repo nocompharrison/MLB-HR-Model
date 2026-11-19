@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-19 18:09 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-19 18:39 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-36m
+1h
 Link
 ![Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bc4c194a1997aa3dafb7b0b5e08b282a9342f81-8640x5760.jpg%3Frect%3D0%2C743%2C8640%2C4275%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -32,10 +32,23 @@ _Please note: lines and projections are subject to change throughout the day aft
 ## NBA Prop Bets for Today: Best NBA Props
 ### [Karl-Anthony Towns Over 12.5 Rebounds (-136)](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Knicks at Timberwolves — 8:00 p.m. ET
-Karl-Anthony Towns - Rebounds
-Karl-Anthony Towns Over
-O 12.5
--138
+Moneyline
+Spread
+Total Points
+[New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds)
+@
+* * *
+[Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/odds)
+-112
+-1.5
+-106
+O 215.5
+-115
+-104
++1.5
+-114
+U 215.5
+-105
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/new-york-knicks-@-minnesota-timberwolves-36330629)
 Odds/lines subject to change
 [Karl-Anthony Towns](https://sportsbook.fanduel.com/teams/nba/roster/karlanthony-towns-2326) is averaging 14.1 rebounds through 14 games for the [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster), comfortably above this 12.5-rebound line. He has secured at least 13 boards in seven of his last 10 appearances and has been particularly active recently, collecting 16, 17 and 15 rebounds in three of his past four games. 
@@ -44,10 +57,23 @@ The [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-
 KAT’s combination of opportunity and proven rebounding volume points toward another 13-plus-board performance.
 ### [De’Aaron Fox Under 6.5 Assists (-132)](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-san-antonio-spurs-36330630)
 Clippers at Spurs — 8:00 p.m. ET
-De'Aaron Fox - Assists
-De'Aaron Fox Under
-U 6.5
--150
+Moneyline
+Spread
+Total Points
+[LA Clippers](https://sportsbook.fanduel.com/teams/nba/los-angeles-clippers/odds)
+@
+* * *
+[San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/odds)
++660
++15.5
+-114
+O 224.5
+-110
+-1000
+-15.5
+-106
+U 224.5
+-110
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/los-angeles-clippers-@-san-antonio-spurs-36330630)
 Odds/lines subject to change
 [De’Aaron Fox](https://sportsbook.fanduel.com/teams/nba/roster/deaaron-fox-2516) has averaged 5.5 assists this season with the [San Antonio Spurs](https://sportsbook.fanduel.com/teams/nba/san-antonio-spurs/roster), making a 6.5-assist line a challenging number to clear. 
@@ -55,10 +81,23 @@ Fox has recorded fewer than seven assists in eight of his last 10 games, and his
 With the [Los Angeles Clippers](https://sportsbook.fanduel.com/teams/nba/la-clippers/roster) entering as a sizable underdog (+15.5), a lopsided game could also limit Fox’s minutes. 
 ### [Jrue Holiday Under 17.5 Points + Assists (-108)](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-milwaukee-bucks-36330628)
 Trail Blazers at Bucks — 8:00 p.m. ET
-Jrue Holiday - Pts + Ast
-Jrue Holiday Under
-U 18.5
--128
+Moneyline
+Total Points
+Spread
+[Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds)
+@
+* * *
+[Milwaukee Bucks](https://sportsbook.fanduel.com/teams/nba/milwaukee-bucks/odds)
+-550
+O 230.5
+-105
+-11.5
+-106
++410
+U 230.5
+-115
++11.5
+-114
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-milwaukee-bucks-36330628)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220) has contributed 13.3 points and 4.1 assists per game for the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/roster) this season, a combined average of 17.4 that sits narrowly beneath this line. He has finished with 17 or fewer PA in six of his last 10 outings, including totals of 13 and 11 in two of his past three. 
@@ -103,13 +142,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+18m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-36m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -117,11 +161,6 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 
 
 
@@ -139,7 +178,7 @@ START YOUR OWN WINNING STREAK
 # NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+2h
 Link
 ![NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F87c7be1edf6fc20f225866dd90bf8b6c52812fc7-4363x2909.jpg%3Frect%3D403%2C0%2C3559%2C1761%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -212,13 +251,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+18m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-36m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -226,11 +270,6 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 
 
 
@@ -307,13 +346,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+18m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-37m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -321,11 +365,6 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 
 
 
@@ -343,7 +382,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-7h
+8h
 Link
 ![NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F58b8c2e9afc5df566eed1b1806089216a59c2e04-6841x4561.jpg%3Frect%3D0%2C103%2C5747%2C2844%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -416,13 +455,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+18m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-37m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -430,11 +474,6 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 
 
 
@@ -495,7 +534,7 @@ Trail Blazers at Bucks — 8:00 p.m. ET
 Jrue Holiday - Pts + Ast
 Jrue Holiday Under
 U 18.5
--128
+-122
 Nov 20 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-milwaukee-bucks-36330628)
 Odds/lines subject to change
 [Jrue Holiday](https://sportsbook.fanduel.com/teams/nba/roster/jrue-holiday-220) has contributed 13.3 points and 4.1 assists per game for the [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/roster) this season, a combined average of 17.4 that sits narrowly beneath this line. He has finished with 17 or fewer PA in six of his last 10 outings, including totals of 13 and 11 in two of his past three. 
@@ -540,13 +579,18 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+19m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-37m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -554,11 +598,6 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 
 
 
@@ -576,7 +615,7 @@ START YOUR OWN WINNING STREAK
 # Grizzlies vs. Warriors Prediction, Odds, Picks, Best Bets for Nov. 19
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-15h
+16h
 Link
 ![Grizzlies vs. Warriors Prediction, Odds, Picks, Best Bets for Nov. 19](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F65798d66447dc5a91215e052e0f0af72fd015e3b-3101x2067.jpg%3Frect%3D0%2C267%2C3101%2C1534%26w%3D964%26h%3D477&w=1920&q=100)
 ## Grizzlies vs. Warriors Game Info
@@ -628,13 +667,18 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+19m
+Preview NBA games for Friday, November 20, with predictions, odds, betting lines and stats.
+[](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: 3 NBA Prop Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
-37m
+1h
 What are the best NBA prop bets to target tonight? Three NBA props for Thursday.
 [](https://www.fanduel.com/research/nba-props-today-thursday-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Picks for Tonight: Predictions and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
-1h
+2h
 What are the NBA best bets and picks for Thursday night?
 [](https://www.fanduel.com/research/nba-picks-tonight-predictions-best-bets-nov-19)
 [NBA](https://www.fanduel.com/research/nba)
@@ -642,9 +686,4 @@ What are the NBA best bets and picks for Thursday night?
 7h
 Knicks vs. Timberwolves picks and best bets for today.
 [](https://www.fanduel.com/research/knicks-timberwolves-prediction-picks-prop-bets-nov-19)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Predictions for Today: 3 NBA Picks and Best Bets for Thursday, Nov. 19](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
-7h
-NBA picks and predictions for Thursday. What are today's best NBA bets?
-[](https://www.fanduel.com/research/nba-predictions-today-thursday-nov-19)
 

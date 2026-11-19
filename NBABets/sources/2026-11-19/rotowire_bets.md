@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-thursday-nov-19-147175 | fetched: 2026-11-19 18:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-thursday-nov-19-147175 | fetched: 2026-11-19 18:39 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Thursday, Nov. 19
 Get the best NBA bets today, with expert player prop picks on PRA and made threes, plus odds from top sportsbooks and betting apps for Thursday’s Nov. 19 NBA slate.
@@ -29,7 +29,7 @@ Donovan Clingan Over 27.5 Pts+Reb+Ast-120
 **New user offer** Get up to $1,000 Back in Bonus Bets Over your first 10 Days
 **ROTOBG1K** _Click to copy code_[Claim Offer](https://bet.rotowire.com/betmgm/offer/12198)[Bet $10 to win $8.33](https://bet.rotowire.com/betmgm/offer/12198)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:06 PM EST. $10 deposit minimum. One no sweat token per day for ten days, each returning up to $100 in bonus bets. Offers vary by state. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:38 PM EST. $10 deposit minimum. One no sweat token per day for ten days, each returning up to $100 in bonus bets. Offers vary by state. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Devin Vassell**](https://www.rotowire.com/basketball/player/devin-vassell-5113)**O1.5 made threes vs. LA Clippers (-133)**
 _DraftKings, 4:19 PM ET_
 **Nick Whalen** : While Vassell has been mired in a shooting slump to begin the year, he's still hit this number in three of his last five games. The Spurs are also down [Dylan Harper](https://www.rotowire.com/basketball/player/dylan-harper-6549), which should free up more opportunity for Vassell. Vassell's workload is almost identical to last season, but he's taking 2.0 fewer threes per game thus far. With Harper out of the picture, this could set up as a higher-volume spot.
@@ -39,7 +39,7 @@ Devin Vassell Over 1.5 3-Pointers-131
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $3.82](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:06 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:38 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -55,6 +55,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
+Remains limited at Thursday's practice
+NFL
+Los Angeles Chargers
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [DeVonta Smith](https://www.rotowire.com/football/player/devonta-smith-15406)
 Logs full practice Thursday
@@ -65,11 +70,6 @@ Philadelphia Eagles
 Returns to limited practice Thursday
 NFL
 Las Vegas Raiders
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
-In non-contact jersey Thursday
-NFL
-Los Angeles Chargers
   * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
 [Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
 Full practice Thursday
@@ -110,6 +110,11 @@ Kansas City Royals
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Houston Rockets](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)
+Tagged questionable for Friday
+NBA
+Houston Rockets
   * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
 [Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)
 Could miss another game Friday
@@ -130,14 +135,14 @@ Charlotte Hornets
 Iffy for Friday
 NBA
 Cleveland Cavaliers
-  * ![Toronto Raptors](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Collin Murray-Boyles](https://www.rotowire.com/basketball/player/collin-murray-boyles-6585)
-Lands in concussion protocol
-NBA
-Toronto Raptors
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
+Remains limited at Thursday's practice
+NFL
+Los Angeles Chargers
   * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
 [DeVonta Smith](https://www.rotowire.com/football/player/devonta-smith-15406)
 Logs full practice Thursday
@@ -148,11 +153,6 @@ Philadelphia Eagles
 Returns to limited practice Thursday
 NFL
 Las Vegas Raiders
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
-In non-contact jersey Thursday
-NFL
-Los Angeles Chargers
   * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
 [Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
 Full practice Thursday
