@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-20 11:21 ET -->
+<!-- source: https://fanduel.com/research/ncaab | fetched: 2026-11-20 17:03 ET -->
 
 
 ---
@@ -15,11 +15,11 @@ START YOUR OWN WINNING STREAK
 # Illinois vs Eastern Illinois College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-8h
+13h
 Link
 ![Illinois vs Eastern Illinois College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F503088c8451b02f9c879393908480b8bb7fb75c5-7845x5233.jpg%3Frect%3D0%2C676%2C7845%2C3882%26w%3D964%26h%3D477&w=1920&q=100)
-The Illinois Fighting Illini (4-1) will attempt to continue a three-game home winning streak when they square off against the Eastern Illinois Panthers (1-5) on November 20, 2026 at State Farm Center.
-Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
+The Eastern Illinois Panthers (1-5) aim to stop a four-game road losing streak when they visit the Illinois Fighting Illini (4-1) on November 20, 2026.
+Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Illinois vs. Eastern Illinois Game Info and Odds
   * **Game day:** Friday, November 20, 2026
   * **Game time:** 9 p.m. ET
@@ -28,24 +28,24 @@ Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA
   * **Arena:** State Farm Center
 
 
-Illinois is a 50.5-point favorite against Eastern Illinois on Friday and the over/under has been set at 164.5 points. Keep reading for some betting insights and trends if you plan to place a wager on the outing.
+Illinois is a 48.5-point favorite over Eastern Illinois on Friday and the total is set at 165.5 points. Below are a few betting trends and insights if you plan to place a wager on the contest.
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Illinois vs. Eastern Illinois: ATS Betting Stats and Trends
   * Illinois has won three games against the spread this season, while failing to cover twice.
-  * Eastern Illinois has a record of 2-3-0 against the spread this season.
-  * When playing at home last season, the Fighting Illini sported a worse record against the spread (10-7-0) compared to their ATS record in away games (6-4-0).
-  * The Panthers were better against the spread on the road (9-7-0) than at home (5-7-0) last year.
+  * Eastern Illinois has a record of 2-3-0 against the spread this year.
+  * The Fighting Illini did a better job covering the spread in road games (6-4-0) than they did in home games (10-7-0) last year.
+  * Last year, the Panthers were 5-7-0 at home against the spread (.417 winning percentage). On the road, they were 9-7-0 ATS (.562).
 
 
 ## Illinois vs. Eastern Illinois Head-to-Head Comparison
-  * Offensively, Illinois was the 28th-ranked squad in the nation (83.2 points per game) last year. Defensively, it was 51st (68.8 points conceded per game).
-  * Illinois was the sixth-best team in college basketball in rebounds per game (37.8) and 17th-best in rebounds allowed (27.6) last year.
-  * Last season Illinois was ranked 143rd in college basketball in assists with 14.2 per game.
-  * In terms of turnovers, Illinois was seventh-best in college basketball in committing them (8.5 per game) last season. However, it was -6-worst in forcing them (7.2 per game).
-  * While Eastern Illinois ranked in the bottom 25 in the country in points per game last year with 67.1 (17th-worst), it ranked 74th in college basketball with 70.3 points allowed per contest.
-  * With 29.5 boards per game, Eastern Illinois was 306th in the country. It gave up 32.4 rebounds per contest, which ranked 262nd in college basketball.
-  * Last year Eastern Illinois ranked 296th in college basketball in assists, dishing out 12.2 per game.
-  * Eastern Illinois ranked 212th in college basketball with 11.2 turnovers per game last season. Meanwhile, it ranked 52nd with 12.7 forced turnovers per game.
+  * Illinois was 28th in the country in points scored (83.2 per game) and 51st in points conceded (68.8) last year.
+  * Last year, Illinois was sixth-best in the nation in rebounds (37.8 per game) and 17th-best in rebounds allowed (27.6).
+  * Illinois was 143rd in college basketball in assists (14.2 per game) last season.
+  * In terms of turnovers, Illinois was seventh-best in the nation in committing them (8.5 per game) last season. However, it was -6-worst in forcing them (7.2 per game).
+  * While Eastern Illinois ranked in the bottom 25 in the nation in points per game last season with 67.1 (17th-worst), it ranked 74th in college basketball with 70.3 points allowed per contest.
+  * Eastern Illinois ranked 306th in the country with 29.5 boards per game. Meanwhile, it ranked 262nd with 32.4 rebounds allowed per game.
+  * Last season Eastern Illinois ranked 296th in college basketball in assists, delivering 12.2 per game.
+  * With 11.2 turnovers per game, Eastern Illinois ranked 212th in the nation. It forced 12.7 turnovers per contest, which ranked 52nd in college basketball.
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
@@ -53,22 +53,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Arkansas vs Mississippi Valley State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-4h
+9h
 Find Arkansas vs. Mississippi Valley State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Tennessee vs Coastal Carolina College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Tennessee vs. Coastal Carolina predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Illinois vs Eastern Illinois College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Illinois vs. Eastern Illinois predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Virginia vs Loyola (MD) College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Virginia vs. Loyola (MD) predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 
@@ -88,10 +88,10 @@ START YOUR OWN WINNING STREAK
 # Tennessee vs Coastal Carolina College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-8h
+13h
 Link
 ![Tennessee vs Coastal Carolina College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffb374c23218590ef6036642058cade5eea4dc3bb-7968x5312.jpg%3Frect%3D0%2C685%2C7968%2C3943%26w%3D964%26h%3D477&w=1920&q=100)
-The Tennessee Volunteers (4-0) will look to build on a four-game win streak when they host the Coastal Carolina Chanticleers (2-3) on November 20, 2026 at Thompson-Boling Arena.
+The Tennessee Volunteers (4-0) hope to build on a four-game home win streak when they host the Coastal Carolina Chanticleers (2-3) on November 20, 2026.
 Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Tennessee vs. Coastal Carolina Game Info and Odds
   * **Game day:** Friday, November 20, 2026
@@ -101,32 +101,32 @@ Before you place your bet on this game at FanDuel Sportsbook, here are the [NCAA
   * **Arena:** Thompson-Boling Arena
 
 
-Tennessee is a 29.5-point favorite over Coastal Carolina on Friday and the over/under is set at 145.5 points. Below are some betting insights and trends before making an informed wager on the outing.
+Before you wager on Friday's Tennessee-Coastal Carolina spread (Tennessee -26.5) or total (146.5 points), see the betting trends and insights below.
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Tennessee vs. Coastal Carolina: ATS Betting Stats and Trends
-  * Tennessee covered 18 times in 37 games with a spread last season.
-  * Coastal Carolina went 18-13-0 ATS last year.
-  * The Volunteers had a better record against the spread when playing at home (8-9-0) than they did on the road (4-6-0) last season.
-  * In 2025-26 against the spread, the Chanticleers had a lower winning percentage at home (.583, 7-5-0 record) than away (.588, 10-7-0).
+  * Tennessee won 18 games against the spread last season, while failing to cover 19 times.
+  * Coastal Carolina covered 18 times in 31 matchups with a spread last year.
+  * Against the spread last season, the Volunteers played better at home, covering eight times in 17 home games, and four times in 10 road games.
+  * Against the spread last season, the Chanticleers had better results on the road (10-7-0) than at home (7-5-0).
 
 
 ## Tennessee vs. Coastal Carolina: Moneyline Betting Stats
-  * Tennessee put together a 17-8 record in games it was favored on the moneyline last season (winning 68% of those games).
-  * The Volunteers never played a game last season with moneyline odds of -50000 or shorter.
-  * Coastal Carolina was an underdog 19 times last season and won 10, or 52.6%, of those games.
+  * Tennessee was favored on the moneyline 25 total times last season. It went 17-8 in those games.
+  * The Volunteers won all three games they played as a moneyline favorite with odds of -20000 or shorter.
+  * Coastal Carolina was underdogs in 19 games last season and won 10 (52.6%) of those contests.
   * The Chanticleers were not a bigger underdog last season than the +3500 moneyline set for this game.
-  * Tennessee has an implied moneyline win probability of 99.8% in this game.
+  * Based on this game's moneyline, Tennessee has an implied win probability of 99.5%.
 
 
 ## Tennessee vs. Coastal Carolina Head-to-Head Comparison
-  * Tennessee was 101st in the country in points scored (78.8 per game) and 64th in points conceded (69.6) last season.
-  * Last season, Tennessee was third-best in the country in rebounds (39.2 per game) and third-best in rebounds allowed (26.2).
-  * Tennessee was 25th-best in college basketball in assists (17 per game) last season.
-  * In terms of turnovers, Tennessee was 212th in the nation in committing them (11.2 per game) last season. It was 238th in forcing them (10.4 per game).
-  * Last season Coastal Carolina put up 73.3 points per game (245th-ranked in college basketball) and ceded 72.6 points per contest (138th-ranked).
-  * Coastal Carolina ranked 12th-best in the country with 37 rebounds per game. On the other hand, it ranked 10th-worst in college basketball with 35.2 rebounds allowed per contest.
-  * Looking at assists, Coastal Carolina averaged just 10.3 per game (second-worst in college basketball).
-  * Coastal Carolina, who was 84th in college basketball with 10 turnovers per game, forced 8.3 turnovers per contest, which was -1-worst in the country.
+  * At 78.8 points scored per game and 69.6 points allowed last year, Tennessee was 101st in college basketball offensively and 64th defensively.
+  * Tennessee was the third-best team in the country in rebounds per game (39.2) and third-best in rebounds conceded (26.2) last season.
+  * With 17 assists per game, Tennessee was 25th-best in the nation last season.
+  * Tennessee committed 11.2 turnovers per game last year and forced 10.4 per game, ranking 212th and 238th, respectively, in the country.
+  * Coastal Carolina was 245th in the country last year with 73.3 points per game. At the other end, it ranked 138th with 72.6 points allowed per contest.
+  * Coastal Carolina ranked 12th-best in the nation with 37 rebounds per game. Conversely, it ranked 10th-worst in college basketball with 35.2 rebounds allowed per contest.
+  * Looking at assists, Coastal Carolina dished out only 10.3 per contest (second-worst in college basketball).
+  * Coastal Carolina ranked -1-worst in college basketball with 8.3 forced turnovers per contest. Meanwhile, it committed 10 turnovers per game (84th-ranked in college basketball).
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
@@ -134,22 +134,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Arkansas vs Mississippi Valley State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-4h
+9h
 Find Arkansas vs. Mississippi Valley State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Tennessee vs Coastal Carolina College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Tennessee vs. Coastal Carolina predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Illinois vs Eastern Illinois College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Illinois vs. Eastern Illinois predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Virginia vs Loyola (MD) College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Virginia vs. Loyola (MD) predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 
@@ -169,10 +169,10 @@ START YOUR OWN WINNING STREAK
 # Vanderbilt vs UCF College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20
 ![Data Skrive](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://fanduel.com/research/author/data-skrive)
-8h
+13h
 Link
 ![Vanderbilt vs UCF College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fb98a597c35c4af1e4ced803a81656d3abf020e30-4627x3084.jpg%3Frect%3D0%2C397%2C4627%2C2290%26w%3D964%26h%3D477&w=1920&q=100)
-The Vanderbilt Commodores (5-0) aim to extend a five-game winning streak when they host the UCF Knights (4-1) on November 20, 2026 at Memorial Gymnasium.
+The Vanderbilt Commodores (5-0) will try to continue a five-game winning streak when they host the UCF Knights (4-1) on November 20, 2026 at Memorial Gymnasium.
 Before you place your bet on this matchup at FanDuel Sportsbook, here are the [NCAA basketball odds and spreads](https://sportsbook.fanduel.com/navigation/ncaab) you need to know.
 ## Vanderbilt vs. UCF Game Info and Odds
   * **Game day:** Friday, November 20, 2026
@@ -182,34 +182,32 @@ Before you place your bet on this matchup at FanDuel Sportsbook, here are the [N
   * **Arena:** Memorial Gymnasium
 
 
-Here's a look at some betting trends and insights for Vanderbilt (-17.5) versus UCF on Friday. The total has been set at 156.5 points for this game.
+Before you wager on Friday's Vanderbilt-UCF spread (Vanderbilt -16.5) or total (156.5 points), read the betting insights and trends below.
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
 ## Vanderbilt vs. UCF: ATS Betting Stats and Trends
   * Vanderbilt has covered four times in five matchups with a spread this season.
-  * UCF has won just one game against the spread this season.
-  * The Commodores had an identical winning percentage against the spread in home games (.500) as they did in away games last year.
-  * In 2025-26 against the spread, the Knights had a lower winning percentage at home (.444, 8-10-0 record) than on the road (.500, 5-5-0).
+  * UCF has a record of just 1-4-0 against the spread this season.
+  * The Commodores owned an identical winning percentage against the spread in home games (.500) as they did in away games last season.
+  * Against the spread last year, the Knights had better results away (5-5-0) than at home (8-10-0).
 
 
 ## Vanderbilt vs. UCF: Moneyline Betting Stats
-  * Vanderbilt has been listed as the moneyline favorite three times this season and has come away with a win in all of those games.
-  * The Commodores have been listed as a favorite of -3030 or more on two occasions this season and won both games.
-  * UCF is playing as the moneyline underdog in its first game this season.
-  * The Knights have yet to play as a moneyline underdog of +1280 or longer.
-  * Vanderbilt has an implied victory probability of 96.8% according to the moneyline set by oddsmakers for this matchup.
+  * Vanderbilt has been named as the moneyline favorite three times this year and has yet to lose any of those games.
+  * The Commodores have been listed as a favorite of -2500 or more on two occasions this season and won both games.
+  * UCF has not been the moneyline underdog yet this season.
+  * The Knights have not yet played as a moneyline underdog of +1100 or longer.
+  * Oddsmakers have implied with the moneyline set for this matchup that Vanderbilt has a 96.2% chance of pulling out a win.
 
 
 ## Vanderbilt vs. UCF Head-to-Head Comparison
-  * Vanderbilt averages 91.4 points per game (33rd in college basketball) while giving up 58.2 per contest (12th in college basketball). It has a +166 scoring differential overall and outscores opponents by 33.2 points per game.
-  * Tyler ranks 125th in the country with a team-high 17.8 points per game.
-  * UCF has a +31 scoring differential, topping opponents by 6.2 points per game. It is putting up 85.2 points per game, 85th in college basketball, and is allowing 79.0 per contest to rank 292nd in college basketball.
-  * Dior Johnson is first in the country with a team-leading 28.8 points per game.
-  * The Commodores rank 53rd in the country at 38.6 rebounds per game. That's 16.6 more than the 22.0 their opponents average.
-  * Berke Buyuktuncel paces the Commodores with 5.8 rebounds per game (405th in college basketball action).
-  * The Knights record 29.0 rebounds per game (314th in college basketball) while conceding 32.4 per contest to opponents. They are outrebounded by 3.4 boards per game.
-  * John Bol is 510th in college basketball with 5.4 rebounds per game, leading the Knights.
-  * Vanderbilt's 119.3 points per 100 possessions on offense rank third in college basketball, and the 76.0 points it allows per 100 possessions rank 26th in college basketball.
-  * The Knights rank 52nd in college basketball averaging 108.2 points per 100 possessions on offense, and defensively are 318th, allowing 100.4 points per 100 possessions.
+  * Offensively, Vanderbilt was the 14th-best team in the nation (85.7 points per game) last season. On defense, it was 216th (75 points allowed per game).
+  * Vanderbilt grabbed 32.3 rebounds per game and conceded 31.1 boards last year, ranking 152nd and 192nd, respectively, in the nation.
+  * Vanderbilt was 46th in the nation in assists (16.3 per game) last year.
+  * In terms of turnovers, Vanderbilt was 21st-best in the nation in committing them (8.9 per game) last year. It was 101st in forcing them (11.9 per game).
+  * UCF averaged 80.7 points per game (69th-ranked in college basketball) last year, while allowing 78.4 points per contest (305th-ranked).
+  * UCF grabbed 34 boards per game (76th-ranked in college basketball). It gave up 30.5 rebounds per contest (133rd-ranked).
+  * Last season UCF ranked 72nd in college basketball in assists, dishing out 15.7 per game.
+  * UCF ranked 199th in college basketball with 11 turnovers per game last year. Meanwhile, it ranked 229th with 10.5 forced turnovers per game.
 
 
 _Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
@@ -217,22 +215,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Arkansas vs Mississippi Valley State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-4h
+9h
 Find Arkansas vs. Mississippi Valley State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/arkansas-vs-mississippi-valley-state-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Tennessee vs Coastal Carolina College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Tennessee vs. Coastal Carolina predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/tennessee-vs-coastal-carolina-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Illinois vs Eastern Illinois College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Illinois vs. Eastern Illinois predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/illinois-vs-eastern-illinois-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Virginia vs Loyola (MD) College Basketball Prediction, Odds, Picks, Best Bets for Nov. 20](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
-8h
+13h
 Find Virginia vs. Loyola (MD) predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 college basketball matchup.
 [](https://fanduel.com/research/virginia-vs-loyola-md-college-basketball-predictions-odds-picks-best-bets-for-11-20-2026)
 

@@ -1,4 +1,4 @@
-<!-- source: https://barttorvik.com/schedule.php?date=20261120 | fetched: 2026-11-20 11:21 ET -->
+<!-- source: https://barttorvik.com/schedule.php?date=20261120 | fetched: 2026-11-20 17:03 ET -->
 
 2027 2027; 2026; 2025; 2024; 2023; 2022; 2021; 2020; 2019; 2018; 2017; 2016; 2015; 2014; 2013; 2012; 2011; 2010; 2009; 2008;
 Click Here or Go Landscape for Full Site Layout
@@ -164,7 +164,7 @@ at 356 [Holy Cross](https://barttorvik.com/team.php?team=Holy+Cross&year=2027) E
 |  06:00 PM  |  0 [West Va. Tech](https://barttorvik.com/team.php?team=West+Va.+Tech&year=2027)   
 at 103 [Akron](https://barttorvik.com/team.php?team=Akron&year=2027)  | [Akron (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=West+Va.+Tech&t2l=Akron&)  | -1  | [](https://barttorvik.com/box.php?muid=West+Va.+TechAkron11-20&year=2027)  |  
 |  11:00 AM  |  0 [Averett](https://barttorvik.com/team.php?team=Averett&year=2027)   
-at 168 [William & Mary](https://barttorvik.com/team.php?team=William+%26+Mary&year=2027) FloSports  | [William & Mary (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Averett&t2l=William+%26+Mary&)  | -2  | [](https://barttorvik.com/box.php?muid=AverettWilliam+%26+Mary11-20&year=2027)  |  
+at 168 [William & Mary](https://barttorvik.com/team.php?team=William+%26+Mary&year=2027) FloSports  | [William & Mary (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=Averett&t2l=William+%26+Mary&)  | -2  | [William & Mary, 85-39](https://barttorvik.com/box.php?muid=AverettWilliam+%26+Mary11-20&year=2027)  |  
 |  08:00 PM  |  0 [West Coast Baptist](https://barttorvik.com/team.php?team=West+Coast+Baptist&year=2027)   
 at 163 [Pepperdine](https://barttorvik.com/team.php?team=Pepperdine&year=2027)  | [Pepperdine (100%)](https://barttorvik.com/matchup.php?year=2027&t1l=West+Coast+Baptist&t2l=Pepperdine&)  | -4  | [](https://barttorvik.com/box.php?muid=West+Coast+BaptistPepperdine11-20&year=2027)  |  
 |  08:00 PM  |  0 [Neumann](https://barttorvik.com/team.php?team=Neumann&year=2027)   

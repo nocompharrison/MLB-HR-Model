@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-20 11:21 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-20 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,110 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![California](https://assets.rotowire.com/images/teamlogo/cbasketball/California.png?v=16)
+[Lee Dort](https://www.rotowire.com/cbasketball/player/lee-dort-20611)
+Listed as day-to-day
+**F** California
+Undisclosed
+November 20, 2026
+Dort (undisclosed) is listed as day-to-day and could be close to making his 2026-27 season debut, head coach Mark Madsen told [Cory Pappas of On3.com](https://x.com/cory_pappas1/status/2123668102693183682?a=URgBaAUiAqaBRIvTS50&s=19). "If the trainers tell me it's day-to-day, it's day-to-day.....He's extremely close," Madsen said.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![UNLV](https://assets.rotowire.com/images/teamlogo/cbasketball/UNLV.png?v=16)
+[Tyler Harris](https://www.rotowire.com/cbasketball/player/tyler-harris-22405)
+Not ready to play yet
+**G** UNLV
+Personal
+November 20, 2026
+Harris (knee) is "medically cleared, but not mentally ready" to play, according to [Freelance writer Jeff Waddilove](https://x.com/JeffWaddilove/status/2123855480967856385).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TCU](https://assets.rotowire.com/images/teamlogo/cbasketball/TCU.png?v=16)
+[Robbie Avila](https://www.rotowire.com/cbasketball/player/robbie-avila-21059)
+Scores 10 points in TCU debut
+**C** TCU
+November 20, 2026
+Avila finished Thursday's 97-92 OT loss to Texas A&M with 10 points (3-8 FG, 0-4 3Pt, 4-6 FT), four rebounds and two assists in 34 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=16)
+[Joseph Pinion](https://www.rotowire.com/cbasketball/player/joseph-pinion-20354)
+Not cleared to play yet
+**G** Providence
+Not Injury Related
+November 20, 2026
+Pinion remains ineligible to play for Providence this season after his motion for a preliminary injunction was denied in U.S. District Court, [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2123851377847754947) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=16)
+[Derek Simpson](https://www.rotowire.com/cbasketball/player/derek-simpson-20395)
+Remains ineligible this season
+**G** Providence
+Not Injury Related
+November 20, 2026
+Simpson remains ineligible to play for Providence this men's basketball season after his motion for a preliminary injunction was denied in Rhode Island branch of U.S. District Court, [Bill Koch of The Providence Journal](https://x.com/BillKoch25/status/2123851377847754947) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![North Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Texas.png?v=16)
+[Amar Amkou](https://www.rotowire.com/cbasketball/player/amar-amkou-23707)
+Dealing with shoulder injury
+**F** North Texas
+Shoulder
+November 20, 2026
+Amkou is uncertain for Friday's game against Appalachian State due to a shoulder injury, [Brett Vito of the Denton Record-Chronicle](https://x.com/brettvito/status/2123842224353849589) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![North Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Texas.png?v=16)
+[Cole Franklin](https://www.rotowire.com/cbasketball/player/cole-franklin-24476)
+Expected to be available
+**G** North Texas
+Mouth
+November 20, 2026
+Franklin is dealing with a sore throat but is expected to be available for Friday's game against Appalachian State, [Brett Vito of the Denton Record-Chronicle](https://x.com/brettvito/status/2123842478533214470) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![](https://assets.rotowire.com/images/teamlogo/cbasketball/fa.png?v=16)
+[RJ Luis](https://www.rotowire.com/cbasketball/player/rj-luis-20703)
+No longer on roster
+**F** Free Agent
+Not Injury Related
+November 20, 2026
+Luis (not injury related) is no longer on the LSU roster, [Toyloy Brown III of The Advocate](https://x.com/TJ3rd_/status/2123843117480575204) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Minnesota](https://assets.rotowire.com/images/teamlogo/cbasketball/Minnesota.png?v=16)
+[Kai Shinholster](https://www.rotowire.com/cbasketball/player/kai-shinholster-26142)
+Available Friday
+**G** Minnesota
+November 20, 2026
+Shinholster (calf) is available for Friday's game against Oklahoma State, according to [Ryan James of 247Sports](https://x.com/RyanJamesMN/status/2123828227785580994).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Washington](https://assets.rotowire.com/images/teamlogo/cbasketball/Washington.png?v=16)
+[Mady Traore](https://www.rotowire.com/cbasketball/player/mady-traore-22248)
+Healthy moving forward
+**F** Washington
+November 20, 2026
+Traore (knee) is available moving forward, according to head coach Danny Sprinkle said per [Chris Fetters of 247Sports](https://247sports.com/college/washington/article/washington-huskies-uw-mens-basketball-head-coach-danny-sprinkle-mississippi-valley-state-delta-devils-parker-friedrichsen-steele-venters-ryan-beasley-292478525/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Florida State](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida-State.png?v=16)
+[Anthony Robinson](https://www.rotowire.com/cbasketball/player/anthony-robinson-22600)
+Cleared to play Friday
+**G** Florida State
+November 20, 2026
+Robinson (undisclosed) is [playing](https://x.com/FSUHoops/status/2123820353567019088) vs. Wisconsin-Green Bay on Friday.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
+[Jamarion Davis-Fleming](https://www.rotowire.com/cbasketball/player/jamarion-davis-fleming-26125)
+Could return in Vegas
+**F** Alabama
+Leg
+November 20, 2026
+Davis-Fleming (leg) has resumed practicing, and Alabama coach Nate Oats said Friday that his "guess" is the forward would be able to play in Las Vegas, [Nick Kelly of AL.com](https://x.com/_NickKelly/status/2123811678747832561) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Butler](https://assets.rotowire.com/images/teamlogo/cbasketball/Butler.png?v=16)
 [Treyson Anderson](https://www.rotowire.com/cbasketball/player/treyson-anderson-27823)
 Provides spark off bench Thursday
@@ -109,105 +213,6 @@ Goes off for 29 points
 **G** Texas A&M
 November 20, 2026
 Haggerty produced a season-high 29 points (12-19 FG, 2-3 3Pt, 3-7 FT), seven rebounds, seven assists and three steals in 38 minutes during Thursday's 97-92 OT victory over TCU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas A&M](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas-A&M.png?v=16)
-[Zach Clemence](https://www.rotowire.com/cbasketball/player/zach-clemence-18705)
-Scores 14, grabs seven rebounds
-**F** Texas A&M
-November 20, 2026
-Clemence contributed 14 points (5-9 FG, 3-7 3Pt, 1-2 FT), seven rebounds, four assists, one block and one steal over 31 minutes before fouling out of Thursday's 97-92 OT victory over TCU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
-[Matas Vokietaitis](https://www.rotowire.com/cbasketball/player/matas-vokietaitis-25726)
-Grabs second double-double
-**F** Texas
-November 19, 2026
-Vokietaitis supplied 26 points (9-13 FG, 8-9 FT), 11 rebounds and one block over 31 minutes during Thursday's 92-68 win over Southern Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
-[David Punch](https://www.rotowire.com/cbasketball/player/david-punch-23590)
-Scores season-high 22 points
-**F** Texas
-November 19, 2026
-Punch logged 22 points (8-9 FG, 1-1 3Pt, 5-5 FT), three rebounds, three assists, three blocks and two steals across 30 minutes during Thursday's 92-68 victory over Southern Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
-[Elyjah Freeman](https://www.rotowire.com/cbasketball/player/elyjah-freeman-25838)
-Scores 10, grabs seven boards
-**G** Texas
-November 19, 2026
-Freeman recorded 10 points (4-8 FG, 1-3 3Pt, 1-2 FT), seven rebounds, three assists and three steals in 27 minutes during Thursday's 92-68 victory over Southern Utah.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[Owen Freeman](https://www.rotowire.com/cbasketball/player/owen-freeman-22476)
-Scores 13, grabs nine boards
-**F** Auburn
-November 19, 2026
-Freeman closed with 13 points (5-8 FG, 3-8 FT), nine rebounds, one assist, three blocks and one steal in 22 minutes during Thursday's 78-73 loss to Notre Dame.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[Narcisse Ngoy](https://www.rotowire.com/cbasketball/player/narcisse-ngoy-27801)
-Pulled after just two minutes
-**C** Auburn
-November 19, 2026
-Ngoy had no counting stats across two minutes during Thursday's 78-73 loss to Notre Dame. He had two turnovers and a foul.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisville](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisville.png?v=16)
-[Isaac Ellis](https://www.rotowire.com/cbasketball/player/isaac-ellis-28099)
-Helped off floor
-**G** Louisville
-Ankle
-November 19, 2026
-Ellis was carried off the floor after appearing to suffer a left ankle injury in the second half of Thursday's win over Stetson, [Matt McGavic of SI.com](https://x.com/Matt_McGavic/status/2123609760083607799) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
-[Rueben Chinyelu](https://www.rotowire.com/cbasketball/player/rueben-chinyelu-22388)
-Fouls out with just four boards
-**F** Florida
-November 19, 2026
-Chinyelu contributed two points (2-2 FT), four rebounds and two assists across 12 minutes before fouling out of Thursday's 85-72 victory over West Virginia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Florida](https://assets.rotowire.com/images/teamlogo/cbasketball/Florida.png?v=16)
-[Urban Klavzar](https://www.rotowire.com/cbasketball/player/urban-klavzar-23644)
-Starts, scores 17
-**G** Florida
-November 19, 2026
-Klavzar amassed 17 points (6-11 FG, 3-6 3Pt, 2-2 FT), two rebounds, two assists and two steals over 34 minutes during Thursday's 85-72 victory over West Virginia.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Kansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas.png?v=16)
-[Tyran Stokes](https://www.rotowire.com/cbasketball/player/tyran-stokes-28068)
-Will play Thursday
-**G** Kansas
-November 19, 2026
-Stokes (lower leg) will play in Thursday's Championship game against Houston, [Jeff Borzello of ESPN.com](https://x.com/jeffborzello/status/2123613294040899661) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
-[Coen Carr](https://www.rotowire.com/cbasketball/player/coen-carr-22500)
-Injury isn't serious, status still unclear
-**F** Michigan State
-Knee
-November 19, 2026
-Carr (knee) is not dealing with a serious injury but his status for Saturday's game versus Detroit is still up in the air, [Stephon Brooks of 247Sports.com](https://247sports.com/college/michigan-state/article/michigan-state-basketball-jordan-scott-coen-carr-injuries-292992951/) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
-[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
-Status unclear for Saturday
-**G** Michigan State
-Shoulder
-November 19, 2026
-Scott (shoulder) is not dealing with a serious injury but his status for Saturday's game versus Detroit is up in the air, [Stephon Brooks of 247Sports.com](https://247sports.com/college/michigan-state/article/michigan-state-basketball-jordan-scott-coen-carr-injuries-292992951/) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
