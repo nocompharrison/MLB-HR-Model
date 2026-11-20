@@ -1,11 +1,16 @@
-# CBB transcripts | 2026-11-20 | updated 2026-11-20 11:27 ET
+# CBB transcripts | 2026-11-20 | updated 2026-11-20 17:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 15 files in CBB/transcripts/2026-11-20:
+# 22 files in CBB/transcripts/2026-11-20:
+CBB/transcripts/2026-11-20/-_4ISkWrxeI_LockedOnCBB_UNDERRATED_Are_Houston_Cougars_BEST_team_in_college_basketball_after_P.txt
 CBB/transcripts/2026-11-20/-iaKuJZlsTA_FieldOf68_PREVIEW_Is_Kentucky_s_SEASON_on_the_line_against_the_Hoosiers_in_Indy.txt
+CBB/transcripts/2026-11-20/9hlUQ9pplCg_CBSCollegeBB_Kentucky_vs_Indiana_Preview_Prediction_HUGE_game_for_Mark_Pope.txt
 CBB/transcripts/2026-11-20/AbV-oQ4CXl8_TCE_College_Basketball_Picks_For_November_20th_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-20/E13DrZLF0VE_FieldOf68_EXCLUSIVE_Niko_Medved_on_Minnesota_s_win_over_Oklahoma_State_and_their.txt
 CBB/transcripts/2026-11-20/GlsYUy4PwGU_TCE_College_Basketball_Best_Bets_For_November_20th_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-20/JatfXj29Ufo_WagerTalk_Alan_Boston_UNFILTERED_Stu_Ungar_Stories_College_Basketball_Bets_UT_Ma.txt
 CBB/transcripts/2026-11-20/PiRv2cKQpv0_TCE_College_Basketball_PICKS_ONLY_Friday_November_20th_TCE_Trims.txt
 CBB/transcripts/2026-11-20/T1C2IShVSSM_FieldOf68_Henson_Tyran_Stokes_is_a_NO_DOUBT_No_1_pick_and_future_pro_STAR_AFTER.txt
+CBB/transcripts/2026-11-20/UJ8VPcNt0mg_FieldOf68_HOUSTON_WINS_PLAYERS_ERA_8_Plus_Florida_bounces_back_and_MUCH_more_AFT.txt
 CBB/transcripts/2026-11-20/UceA5NWAYC8_FieldOf68_BUY_HOLD_SELL_UConn_Florida_and_Michigan_State_Here_s_why_I_m_SELLING.txt
 CBB/transcripts/2026-11-20/W9Wiu5LYH-w_CBSCollegeBB_Mark_Pope_discusses_dealing_with_PRESSURE_at_UK.txt
 CBB/transcripts/2026-11-20/YVvaf-S2jiw_FieldOf68_Breaking_down_the_BIGGEST_storylines_in_Mid_Major_hoops_THE_MID_MAJOR.txt
@@ -14,40 +19,30 @@ CBB/transcripts/2026-11-20/Zye3sYSNPnM_FieldOf68_Florida_RESPONDS_against_West_V
 CBB/transcripts/2026-11-20/c0T82ctyw9Y_PickDawgz_College_Basketball_Picks_for_Today_11_20_26_Friday_Best_College_Basket.txt
 CBB/transcripts/2026-11-20/jQikQ0HW3sI_WagerTalk_Friday_CBB_Picks_TODAY_Kentucky_vs_Indiana_UCF_vs_Vanderbilt.txt
 CBB/transcripts/2026-11-20/nygx2RLPV1A_FieldOf68_BUY_HOLD_SELL_Illinois_Kansas_Houston_I_m_ALL_IN_on_buying_Illinois_AF.txt
+CBB/transcripts/2026-11-20/p7JEUPsiR9Y_CBSCollegeBB_It_s_OVER_RJ_Luis_will_NOT_play_for_LSU.txt
 CBB/transcripts/2026-11-20/uGcq-Y0QuAY_FieldOf68_Houston_WINS_the_Players_Era_title_This_is_the_NO_DOUBT_BEST_team_in_t.txt
 CBB/transcripts/2026-11-20/uXDIQcCuXoU_FieldOf68_BUY_HOLD_SELL_Tennessee_Texas_Tech_Virginia_I_m_ALL_IN_on_Virginia_AFT.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-19
+CBB/transcripts/2026-11-20/uzxF1jG56Sc_CBSCollegeBB_George_Washington_vs_UAB_College_Basketball_Highlights_Condensed_Game.txt
 
 # this run:
-NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-20/-_4ISkWrxeI_LockedOnCBB_UNDERRATED_Are_Houston_Cougars_BEST_team_in_college_basketball_after_P.txt  (6,451 words)
+DEFER   CBSCollegeBB 02wWJ8rWPkA We were all TOO LOW on Kelvin Sampson & Houston | Cougars wi  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB so5gkU4rNFk Houston wins Players Era 8; Temp check: Florida, UConn & Ari  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB jqikmjwg7qw North Carolina State vs. Murray State College Basketball Hig  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NOCAPS  CBSCollegeBB so5gkU4rNFk Houston wins Players Era 8; Temp check: Florida, UConn & Ari  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-20/W9Wiu5LYH-w_CBSCollegeBB_Mark_Pope_discusses_dealing_with_PRESSURE_at_UK.txt  (2,533 words)
-NEW     CBB/transcripts/2026-11-19/5_w8_ub8e8g_CBSCollegeBB_Seton_Hall_vs_Wisconsin_College_Basketball_Highlights_Condensed_Game.txt  (2,097 words)
-NEW     CBB/transcripts/2026-11-20/YVvaf-S2jiw_FieldOf68_Breaking_down_the_BIGGEST_storylines_in_Mid_Major_hoops_THE_MID_MAJOR.txt  (12,986 words)
-NEW     CBB/transcripts/2026-11-20/T1C2IShVSSM_FieldOf68_Henson_Tyran_Stokes_is_a_NO_DOUBT_No_1_pick_and_future_pro_STAR_AFTER.txt  (969 words)
-NEW     CBB/transcripts/2026-11-20/uGcq-Y0QuAY_FieldOf68_Houston_WINS_the_Players_Era_title_This_is_the_NO_DOUBT_BEST_team_in_t.txt  (1,109 words)
-NOCAPS  FieldOf68 UJ8VPcNt0mg HOUSTON WINS PLAYERS ERA 8! Plus, Florida bounces back and M  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-20/-iaKuJZlsTA_FieldOf68_PREVIEW_Is_Kentucky_s_SEASON_on_the_line_against_the_Hoosiers_in_Indy.txt  (1,854 words)
-NEW     CBB/transcripts/2026-11-20/Ynxyx24JhKM_FieldOf68_BUY_HOLD_SELL_Duke_Kentucky_North_Carolina_I_m_selling_ALL_Kentucky_st.txt  (1,261 words)
-NEW     CBB/transcripts/2026-11-20/uXDIQcCuXoU_FieldOf68_BUY_HOLD_SELL_Tennessee_Texas_Tech_Virginia_I_m_ALL_IN_on_Virginia_AFT.txt  (1,349 words)
-NEW     CBB/transcripts/2026-11-20/nygx2RLPV1A_FieldOf68_BUY_HOLD_SELL_Illinois_Kansas_Houston_I_m_ALL_IN_on_buying_Illinois_AF.txt  (886 words)
-NEW     CBB/transcripts/2026-11-20/UceA5NWAYC8_FieldOf68_BUY_HOLD_SELL_UConn_Florida_and_Michigan_State_Here_s_why_I_m_SELLING.txt  (1,207 words)
-NEW     CBB/transcripts/2026-11-20/Zye3sYSNPnM_FieldOf68_Florida_RESPONDS_against_West_Virginia_This_is_STILL_the_best_team_in.txt  (1,846 words)
+NEW     CBB/transcripts/2026-11-20/uzxF1jG56Sc_CBSCollegeBB_George_Washington_vs_UAB_College_Basketball_Highlights_Condensed_Game.txt  (2,103 words)
+NEW     CBB/transcripts/2026-11-20/9hlUQ9pplCg_CBSCollegeBB_Kentucky_vs_Indiana_Preview_Prediction_HUGE_game_for_Mark_Pope.txt  (1,145 words)
+NEW     CBB/transcripts/2026-11-20/p7JEUPsiR9Y_CBSCollegeBB_It_s_OVER_RJ_Luis_will_NOT_play_for_LSU.txt  (1,717 words)
+NEW     CBB/transcripts/2026-11-20/E13DrZLF0VE_FieldOf68_EXCLUSIVE_Niko_Medved_on_Minnesota_s_win_over_Oklahoma_State_and_their.txt  (1,098 words)
+UPCOMING FieldOf68 8N5AY6QP34M INSTANT REACTION TO KENTUCKY-INDIANA! Plus, what teams are w  (not aired yet - scheduled for 11/20/26 10:30PM)
+NEW     CBB/transcripts/2026-11-20/UJ8VPcNt0mg_FieldOf68_HOUSTON_WINS_PLAYERS_ERA_8_Plus_Florida_bounces_back_and_MUCH_more_AFT.txt  (20,145 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/GlsYUy4PwGU_TCE_College_Basketball_Best_Bets_For_November_20th_Spread_Moneyline_Bettin.txt  (1,537 words)
-NEW     CBB/transcripts/2026-11-20/PiRv2cKQpv0_TCE_College_Basketball_PICKS_ONLY_Friday_November_20th_TCE_Trims.txt  (12,189 words)
-NEW     CBB/transcripts/2026-11-20/AbV-oQ4CXl8_TCE_College_Basketball_Picks_For_November_20th_NCAA_Basketball_Banter_Best.txt  (15,961 words, via Groq)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/jQikQ0HW3sI_WagerTalk_Friday_CBB_Picks_TODAY_Kentucky_vs_Indiana_UCF_vs_Vanderbilt.txt  (1,991 words)
-NEW     CBB/transcripts/2026-11-19/5k4TVexOsj8_WagerTalk_College_Basketball_Picks_Today_Thursday_CBB_Best_Bets_Odds_Full_Court.txt  (11,491 words)
-NEW     CBB/transcripts/2026-11-19/OJakknAp-f8_WagerTalk_College_Basketball_Picks_Today_Thursday_CBB_Best_Bets_Odds_Full_Court.txt  (11,508 words)
-NOCAPS  WagerTalk PB4Trfm4svQ College Basketball Picks Today: Friday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  WagerTalk ntyCZpb0uQk College Basketball Picks Today: Friday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-20/JatfXj29Ufo_WagerTalk_Alan_Boston_UNFILTERED_Stu_Ungar_Stories_College_Basketball_Bets_UT_Ma.txt  (11,852 words)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/c0T82ctyw9Y_PickDawgz_College_Basketball_Picks_for_Today_11_20_26_Friday_Best_College_Basket.txt  (4,638 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
