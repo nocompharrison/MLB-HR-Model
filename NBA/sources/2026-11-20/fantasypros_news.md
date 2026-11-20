@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-20 11:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-20 16:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
+[Jalen Smith (illness) now questionable Friday ](https://www.fantasypros.com/nba/news/621430/jalen-smith-illness-now-questionable-friday.php)  
+
+Fri, Nov 20th 3:42pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Smith is now questionable for Friday's game against the Wizards. 
+**_Fantasy Impact:_** Smith is a late addition to the injury report. He will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Ronald Holland II](https://images.fantasypros.com/images/players/nba/6112/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ron-holland.php)
+F - DET
+[» Rankings](https://www.fantasypros.com/nba/players/ron-holland.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/ron-holland.php)  
+[» More News](https://www.fantasypros.com/nba/news/ron-holland.php)
+[Ronald Holland II (knee) now doubtful Friday ](https://www.fantasypros.com/nba/news/621429/ronald-holland-ii-knee-now-doubtful-friday.php)  
+
+Fri, Nov 20th 3:40pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Ronald Holland II is now doubtful for Friday’s game against the Raptors.
+**_Fantasy Impact:_** Holland is likely to remain sidelined due to a left knee contusion. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Brandon Ingram](https://images.fantasypros.com/images/players/nba/3167/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandon-ingram.php)
+F - LAC
+[» Rankings](https://www.fantasypros.com/nba/players/brandon-ingram.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/brandon-ingram.php)  
+[» More News](https://www.fantasypros.com/nba/news/brandon-ingram.php)
+[Brandon Ingram (Achilles) expected to make season debut Monday ](https://www.fantasypros.com/nba/news/621427/brandon-ingram-achilles-expected-to-make-season-debut-monday.php)  
+
+Fri, Nov 20th 3:39pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Brandon Ingram is expected to make his season debut against the Rockets on Monday. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2123872780944855163))
+**_Fantasy Impact:_** Ingram is making his return from a partially torn Achilles. He will likely be on a minutes restriction early on. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jonathan Kuminga](https://images.fantasypros.com/images/players/nba/5267/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)
 F - MIN
 [» Rankings](https://www.fantasypros.com/nba/players/jonathan-kuminga.php)  
@@ -245,48 +287,6 @@ Bryce McGowens has been ruled out for Friday’s game against the Thunder.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Trendon Watford](https://images.fantasypros.com/images/players/nba/5216/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trendon-watford.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trendon-watford.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trendon-watford.php)  
-[» More News](https://www.fantasypros.com/nba/news/trendon-watford.php)
-[Trendon Watford (ankle) ruled out Friday ](https://www.fantasypros.com/nba/news/621251/trendon-watford-ankle-ruled-out-friday.php)  
-
-Thu, Nov 19th 4:57pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trendon Watford has been ruled out for Friday’s game against the Thunder.
-**_Fantasy Impact:_** Watford will miss a seventh straight game due to an ankle sprain. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Grant Nelson](https://images.fantasypros.com/images/players/nba/6444/headshot/100x100.png)](https://www.fantasypros.com/nba/players/grant-nelson.php)
-F - BKN
-[» Rankings](https://www.fantasypros.com/nba/players/grant-nelson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/grant-nelson.php)  
-[» More News](https://www.fantasypros.com/nba/news/grant-nelson.php)
-[Grant Nelson (ankle) ruled out Friday ](https://www.fantasypros.com/nba/news/621249/grant-nelson-ankle-ruled-out-friday.php)  
-
-Thu, Nov 19th 4:56pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Grant Nelson has been ruled out for Friday’s game against the Magic.
-**_Fantasy Impact:_** Nelson remains off the fantasy radar. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ronald Holland II](https://images.fantasypros.com/images/players/nba/6112/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ron-holland.php)
-F - DET
-[» Rankings](https://www.fantasypros.com/nba/players/ron-holland.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ron-holland.php)  
-[» More News](https://www.fantasypros.com/nba/news/ron-holland.php)
-[Ronald Holland II (knee) ruled out Friday ](https://www.fantasypros.com/nba/news/621248/ronald-holland-ii-knee-ruled-out-friday.php)  
-
-Thu, Nov 19th 4:55pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ronald Holland II has been ruled out for Friday’s game against the Raptors.
-**_Fantasy Impact:_** Holland will miss a third straight game. Isaiah Joe should see more run in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=499_1795190454772&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0sTELNYycrQ3NLU0MjI2NSwFgBR%2BxzM&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999c9e9d9d96999d9b9a66uokewi0e0y666i6m6k6k60666k6g6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)![](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001791468024-LHL4GK29-5315&adnxs_id=$UID&gdpr=0)![](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001791468024-LHL4GK29-5315%26auid%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001791468024-LHL4GK29-5315&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MTQ2ODAyNC1MSEw0R0syOS01MzE1&id=AU1D-0100-001791468024-LHL4GK29-5315&gdpr=0)![](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!{TURN_UUID}%26id%3DAU1D-0100-001791468024-LHL4GK29-5315)![](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001791468024-LHL4GK29-5315&uid=\[UID\]&gdpr=0)![](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001791468024-LHL4GK29-5315%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=384_1795208438207&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0sTELNYycrQ3NLU0MjI2NSwFgBR%2BxzM&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999c9e9d9d96999d9b9a66uokewi0e0y666i6m6k6k60666k6g6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
