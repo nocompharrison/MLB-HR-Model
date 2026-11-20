@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,60 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Sidelined against Pelicans](https://www.rotowire.com/basketball/headlines/alex-caruso-injury-sidelined-against-pelicans-540215)
+**F** Oklahoma City Thunder
+Hip
+November 20, 2026
+Caruso (hip) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_06_15PM.pdf) for Friday's game against the Pelicans.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Out sick Friday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-out-sick-friday-540214)
+**C** Chicago Bulls
+Illness
+November 20, 2026
+Smith (illness) is out for Friday's game against the Wizards, [Joel Lorenzi of The Athletic](https://x.com/JoelXLorenzi/status/2123918176693989430) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)[Cleared to play Saturday](https://www.rotowire.com/basketball/headlines/zach-edey-news-cleared-to-play-saturday-540213)
+**C** Memphis Grizzlies
+November 20, 2026
+Edey (hip) is [not listed](https://x.com/GrizzliesPR/status/2123914734164738289?a=cGDj04-nmJGdpe3LWwA&s=20) on the injury report ahead of Saturday's game versus Minnesota.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Cameron Boozer](https://www.rotowire.com/basketball/player/cameron-boozer-6923)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/cameron-boozer-injury-ruled-out-for-saturday-540210)
+**F** Memphis Grizzlies
+Ankle
+November 20, 2026
+Boozer is [out](https://x.com/GrizzliesPR/status/2123914734164738289) for Saturday's game against Minnesota due to a right ankle sprain.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Probable for Saturday](https://www.rotowire.com/basketball/headlines/ty-jerome-injury-probable-for-saturday-540209)
+**G** Memphis Grizzlies
+Hip
+November 20, 2026
+Jerome (hip) is [probable](https://x.com/GrizzliesPR/status/2123914734164738289) for Saturday's game in Minnesota.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
+[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)[Available versus Cleveland](https://www.rotowire.com/basketball/headlines/andrew-nembhard-news-available-versus-cleveland-540208)
+**G** Indiana Pacers
+November 20, 2026
+Nembhard (hip) is available for Friday's game against the Cavaliers, [Tony East of Forbes.com](https://x.com/TonyREast/status/2123915436756758957?a=pBMvEvKDRBA04iQ355k&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[Has no return timeline](https://www.rotowire.com/basketball/headlines/taurean-prince-injury-has-no-return-timeline-540207)
+**F** Detroit Pistons
+Knee
+November 20, 2026
+Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, [Hunter Patterson of The Athletic](https://x.com/HunterPatterson/status/2123912933407416440) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
 [Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)[Will be re-evaluated in one week](https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-will-be-re-evaluated-in-one-week-540206)
 **C** Utah Jazz
@@ -151,56 +205,6 @@ Haliburton (hamstring) is expected to miss at least two more weeks, [Shams Chara
 Achilles
 November 20, 2026
 Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2123872780944855163?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Trey Lyles](https://www.rotowire.com/basketball/player/trey-lyles-3738)[Keeps perimeter touch despite fewer minutes](https://www.rotowire.com/basketball/headlines/trey-lyles-news-keeps-perimeter-touch-despite-fewer-minutes-540186)
-**F** Minnesota Timberwolves
-November 20, 2026
-Lyles finished Thursday's 102-99 loss to the Knicks with eight points (3-5 FG, 2-4 3Pt), five rebounds and one assist in 16 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Dereck Lively](https://www.rotowire.com/basketball/player/dereck-lively-5904)[Progressing in recovery](https://www.rotowire.com/basketball/headlines/dereck-lively-injury-progressing-in-recovery-540185)
-**C** Dallas Mavericks
-Foot
-November 20, 2026
-Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's "close" to returning, [Mike Curtis of The Dallas Morning News](https://x.com/MikeACurtis2/status/2123855222258753844?a=k3TyKn4J2hTJ3dC_pEg&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Rudy Gobert](https://www.rotowire.com/basketball/player/rudy-gobert-3440)[Rebounding struggles linger in loss](https://www.rotowire.com/basketball/headlines/rudy-gobert-news-rebounding-struggles-linger-in-loss-540183)
-**C** Minnesota Timberwolves
-November 20, 2026
-Gobert posted nine points (4-6 FG, 1-2 FT), seven rebounds and two steals over 35 minutes during Thursday's 102-99 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Ayo Dosunmu](https://www.rotowire.com/basketball/player/ayo-dosunmu-5337)[Cold shooting halts scoring momentum](https://www.rotowire.com/basketball/headlines/ayo-dosunmu-news-cold-shooting-halts-scoring-momentum-540182)
-**G** Minnesota Timberwolves
-November 20, 2026
-Dosunmu contributed six points (2-9 FG, 2-5 3Pt), four rebounds, four assists and one steal in 32 minutes during Thursday's 102-99 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Mikal Bridges](https://www.rotowire.com/basketball/player/mikal-bridges-4386)[Defensive hustle masks scoring dip](https://www.rotowire.com/basketball/headlines/mikal-bridges-news-defensive-hustle-masks-scoring-dip-540181)
-**F** New York Knicks
-November 20, 2026
-Bridges totaled eight points (3-7 FG, 2-4 3Pt), three rebounds, three assists, one block and two steals across 31 minutes during Thursday's 102-99 victory over the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Harrison Barnes](https://www.rotowire.com/basketball/player/harrison-barnes-3305)[Modest scoring lift in limited role](https://www.rotowire.com/basketball/headlines/harrison-barnes-news-modest-scoring-lift-in-limited-role-540180)
-**F** San Antonio Spurs
-November 20, 2026
-Barnes contributed nine points (4-7 FG, 1-3 3Pt), two rebounds and one assist in 16 minutes during Thursday's 124-112 win over the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Keaton Wagler](https://www.rotowire.com/basketball/player/keaton-wagler-6928)[Struggles to find rhythm in defeat](https://www.rotowire.com/basketball/headlines/keaton-wagler-news-struggles-to-find-rhythm-in-defeat-540178)
-**G** Los Angeles Clippers
-November 20, 2026
-Wagler totaled seven points (3-10 FG, 1-4 3Pt), five rebounds, two assists and one steal in 17 minutes during Thursday's 124-112 loss to the Spurs.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-20 18:05 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-20 18:35 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Fri, Nov 20, 2026, 6:01 PM ET
+_Updated At:_ Fri, Nov 20, 2026, 6:31 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 7 GAME SLATE:
 FRI 7:00PM ET · Main
@@ -26,8 +26,8 @@ Main · 7 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) D. Mitchell  SG · $8500 FPTS 42.7 VALUE 5.0x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) Donovan Mitchell   |  $8.5k  | EXP.  | CLE  | IND  | 16  |  42.7  | 5.02  |   | 40.8  | 40.4  | 40.7  | 234.5  | 120  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/UTA.svg) K. George  PG · $7400 FPTS 39.9 VALUE 5.4x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/UTA.svg) Keyonte George   |  $7.4k  | EXP.  | UTA  | PHO  | 25  |  39.9  | 5.40  |   | 39.0  | 36.8  | 36.9  | 225.5  | 110.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) D. Booker  PG · $7900 FPTS 38.8 VALUE 4.9x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) Devin Booker   |  $7.9k  | EXP.  | PHO  | UTA  | 27  |  38.8  | 4.92  |   | 38.1  | 39.2  | 38.3  | 225.5  | 115  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey  PG · $6700 FPTS 38.0 VALUE 5.7x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey   |  $6.7k  | EXP.  | CHI  | WAS  | 17  |  38.0  | 5.68  |   | 32.0  | 32.2  | 29.9  | 238.5  | 120.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) P. Siakam  PF · $7700 FPTS 38.0 VALUE 4.9x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/IND.svg) Pascal Siakam   |  $7.7k  | EXP.  | IND  | CLE  | 27  |  38.0  | 4.94  |   | 41.8  | 38.2  | 38.0  | 234.5  | 114.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey  PG · $6700 FPTS 37.1 VALUE 5.5x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey   |  $6.7k  | EXP.  | CHI  | WAS  | 17  |  37.1  | 5.53  |   | 32.0  | 32.2  | 29.9  | 238.5  | 120.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Naz Reid  PF/C · $7100 FPTS 37.0 VALUE 5.2x  | PF/C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Naz Reid   |  $7.1k  | EXP.  | CHA  | ATL  | 30  |  37.0  | 5.22  |   | 38.3  | 32.7  | 33.2  | 219.5  | 106  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) Trae Young  PG · $7200 FPTS 36.6 VALUE 5.1x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/WAS.svg) Trae Young   |  $7.2k  | EXP.  | WAS  | CHI  | 28  |  36.6  | 5.09  |   | 32.4  | 31.4  | 35.0  | 238.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) J. Harden  PG · $7300 FPTS 35.9 VALUE 4.9x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CLE.svg) James Harden   |  $7.3k  | EXP.  | CLE  | IND  | 10  |  35.9  | 4.91  |   | 35.8  | 33.2  | 32.9  | 234.5  | 120  |  

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-20-147313 | fetched: 2026-11-20 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-20-147313 | fetched: 2026-11-20 18:35 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 20
 Get the best NBA bets today, with expert player prop picks on points and made threes, plus odds from top sportsbooks and betting apps for Friday’s Nov. 20 NBA slate.
@@ -25,21 +25,20 @@ _DraftKings, 4:32 PM ET_
 **Alex Barutha** : The Pelicans are allowing the second-most points in the NBA (122.8). They've also already given up some massive performances to opposing guards -- namely four 30-point games already to the likes of [Jamal Murray](https://www.rotowire.com/basketball/player/jamal-murray-3882), [Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774), [Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899) and [Darius Acuff](https://www.rotowire.com/basketball/player/darius-acuff-6931). SGA himself has scored 30+ in four straight games.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | NOP @ OKC
-Shai Gilgeous-Alexander Over 32.5 Points-106
+Shai Gilgeous-Alexander Over 32.5 Points
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.72](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
-Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+$5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Ja'Kobe Walter**](https://www.rotowire.com/basketball/player/jakobe-walter-6261)**O2.5 made threes at Detroit Pistons (-118)**
 _DraftKings, 4:51 PM ET_
 **Nick Whalen:** Walter has now started 13 straight games and should continue to see increased minutes with both [Kawhi Leonard](https://www.rotowire.com/basketball/player/kawhi-leonard-3195) and now [RJ Barrett](https://www.rotowire.com/basketball/player/rj-barrett-4767) sidelined. During that 13-game run, Walter is averaging 32.5 minutes per game and getting up 7.2 three-point attempts per contest. He's gone over this number in eight of those games. With Barrett out Wednesday against Washington, Walter played a season-high 38 minutes.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | TOR @ DET
-Ja'Kobe Walter Over 2.5 3-Pointers+100
+Ja'Kobe Walter Over 2.5 3-Pointers+106
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5.30](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -115,26 +114,26 @@ San Diego Padres
 Expected to miss at least two more weeks
 NBA
 Indiana Pacers
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Javon Small](https://www.rotowire.com/basketball/player/javon-small-6581)
+Ruled out for Saturday
+NBA
+Memphis Grizzlies
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Cameron Boozer](https://www.rotowire.com/basketball/player/cameron-boozer-6923)
+Ruled out for Saturday
+NBA
+Memphis Grizzlies
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)
+Probable for Saturday
+NBA
+Memphis Grizzlies
   * ![Utah Jazz](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
 [Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)
 Will be re-evaluated in one week
 NBA
 Utah Jazz
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)
-Questionable for Saturday
-NBA
-Dallas Mavericks
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
-Ruled out for Friday
-NBA
-Atlanta Hawks
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)
-Ruled out for Saturday
-NBA
-Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

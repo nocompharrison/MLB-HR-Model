@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20 | fetched: 2026-11-20 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20 | fetched: 2026-11-20 18:35 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -198,22 +198,22 @@ Action Network Staff
 NBA
 [NBA Cup Predictions for Wizards vs Bulls, Lakers vs Kings, More (Friday, Nov. 20)](https://www.actionnetwork.com/nba/nba-cup-predictions-for-bulls-vs-wizards-thunder-vs-pelicans-more-friday-november-20)
 Matt Moore
-42 mins ago
+1 hour ago
 [![NBA Prop Ladders, Escalator Picks for Franz Wagner, Darius Acuff \(Friday, November 20\)](https://images.actionnetwork.com/blog/2026/11/Wagner-and-Acuff-NBA-Escalators-11_20_26.jpg)](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-franz-wagner-darius-acuff-friday-november-20)
 NBA
 [NBA Prop Ladders, Escalator Picks for Franz Wagner, Darius Acuff (Friday, November 20)](https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-franz-wagner-darius-acuff-friday-november-20)
 Ameer Tyree
-4 hours ago
+5 hours ago
 [![NBA Moneyline Parlay Picks: Our +320 Prediction for Friday, November 20](https://images.actionnetwork.com/blog/2026/11/nba-moneyline-parlay-picks-two-predictions-for-friday-november-20.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-320-prediction-for-friday-november-20)
 NBA
 [NBA Moneyline Parlay Picks: Our +320 Prediction for Friday, November 20](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-320-prediction-for-friday-november-20)
 Ryan Minion
-6 hours ago
+7 hours ago
 [![Raptors vs Pistons Prediction, Pick, NBA Cup Odds for Friday, November 20](https://images.actionnetwork.com/blog/2026/11/Raptors-vs-Pistons-11_20_26.jpg)](https://www.actionnetwork.com/nba/toronto-raptors-vs-detroit-pistons-prediction-pick-odds-nba-cup-friday-november-20)
 NBA
 [Raptors vs Pistons Prediction, Pick, NBA Cup Odds for Friday, November 20](https://www.actionnetwork.com/nba/toronto-raptors-vs-detroit-pistons-prediction-pick-odds-nba-cup-friday-november-20)
 Joe Dellera
-8 hours ago
+9 hours ago
 [![Rockets vs Nuggets Prediction, Pick, NBA Cup Odds for Friday, November 20](https://images.actionnetwork.com/blog/2026/11/durant_kevin_112026.jpg)](https://www.actionnetwork.com/nba/houston-rockets-vs-denver-nuggets-prediction-pick-nba-odds-for-friday-november-20)
 NBA
 [Rockets vs Nuggets Prediction, Pick, NBA Cup Odds for Friday, November 20](https://www.actionnetwork.com/nba/houston-rockets-vs-denver-nuggets-prediction-pick-nba-odds-for-friday-november-20)
@@ -228,12 +228,12 @@ Matt Moore
 NBA
 [Magic vs Nets Predictions, Odds, NBA Cup Picks: Orlando Is Motivated To Win By Margin](https://www.actionnetwork.com/nba/orlando-magic-vs-brooklyn-nets-prediction-pick-odds-nba-cup-friday-november-20)
 Joe Dellera
-30 mins ago
+1 hour ago
 [![Wizards vs Bulls Prediction, Pick, NBA Cup Odds for Friday, November 20](https://images.actionnetwork.com/blog/2026/11/Wizards-vs-Bulls-11.20.26.jpg)](https://www.actionnetwork.com/nba/washington-wizards-vs-chicago-bulls-prediction-pick-nba-cup-odds-friday-november-20)
 NBA
 [Wizards vs Bulls Prediction, Pick, NBA Cup Odds for Friday, November 20](https://www.actionnetwork.com/nba/washington-wizards-vs-chicago-bulls-prediction-pick-nba-cup-odds-friday-november-20)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Kings vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 20](https://images.actionnetwork.com/blog/2026/11/Kings-vs-Lakers-11.20.26.jpg)](https://www.actionnetwork.com/nba/sacramento-kings-vs-los-angeles-lakers-prediction-pick-nba-cup-odds-friday-november-20)
 NBA
 [Kings vs Lakers Prediction, Pick, NBA Cup Odds for Friday, November 20](https://www.actionnetwork.com/nba/sacramento-kings-vs-los-angeles-lakers-prediction-pick-nba-cup-odds-friday-november-20)
@@ -243,8 +243,8 @@ Matt Moore
 NBA
 [Pelicans vs Thunder Prediction, Pick, NBA Cup Odds for Friday, November 20](https://www.actionnetwork.com/nba/new-orleans-pelicans-vs-oklahoma-city-thunder-prediction-pick-odds-nba-cup-friday-november-20)
 Matt Moore
-8 hours ago
+9 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=146e6772-dcf9-48c0-b1da-1f1cec6207fb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ab941641-594d-4156-af47-93a737f7d930&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=115&tw_session_id=1795215779728-968156138&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=146e6772-dcf9-48c0-b1da-1f1cec6207fb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ab941641-594d-4156-af47-93a737f7d930&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=115&tw_session_id=1795215779728-968156138&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=372cb84a-d34f-4a16-82c8-efbcbee1f564&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ab941641-594d-4156-af47-93a737f7d930&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=7488&tw_iframe_status=0&tw_pid_src=2&tw_session_count=115&tw_session_id=1795215779728-968156138&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=372cb84a-d34f-4a16-82c8-efbcbee1f564&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=ab941641-594d-4156-af47-93a737f7d930&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=7488&tw_iframe_status=0&tw_pid_src=2&tw_session_count=115&tw_session_id=1795215779728-968156138&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f11d46ad-005e-40bc-bafe-a6ec60a003ea&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2f4b077-623a-4005-8ccb-698429709680&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=116&tw_session_id=1795217602975-212379228&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f11d46ad-005e-40bc-bafe-a6ec60a003ea&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2f4b077-623a-4005-8ccb-698429709680&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=116&tw_session_id=1795217602975-212379228&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=00ed0842-beab-48e5-8fa5-bf1bc73fb879&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2f4b077-623a-4005-8ccb-698429709680&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=7396&tw_iframe_status=0&tw_pid_src=2&tw_session_count=116&tw_session_id=1795217602975-212379228&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=00ed0842-beab-48e5-8fa5-bf1bc73fb879&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2f4b077-623a-4005-8ccb-698429709680&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-player-props-for-nuggets-vs-rockets-nets-vs-magic-more-friday-november-20&tw_engaged_ms=7396&tw_iframe_status=0&tw_pid_src=2&tw_session_count=116&tw_session_id=1795217602975-212379228&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

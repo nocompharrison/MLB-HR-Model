@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-player-props-today-friday-nov-20 | fetched: 2026-11-20 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/nba-player-props-today-friday-nov-20 | fetched: 2026-11-20 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -45,7 +45,7 @@ Kings at Lakers — 10:00 p.m. ET
 Darius Acuff Jr. - Assists
 Darius Acuff Jr. Over
 O 6.5
-+110
++102
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/sacramento-kings-@-los-angeles-lakers-36334577)
 Odds/lines subject to change
 [Darius Acuff](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520/player-props) has quickly become a focal point of the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/odds) offense, averaging 7.1 assists per game in his rookie campaign. He has recorded at least seven assists in nine of his last 10 outings, which makes this prop especially attractive at plus money. 
@@ -56,7 +56,7 @@ Rockets at Nuggets — 10:00 p.m. ET
 Aaron Gordon - Rebounds
 Aaron Gordon Over
 O 4.5
--136
+-132
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-denver-nuggets-36334581)
 Odds/lines subject to change
 [Aaron Gordon](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) is averaging 5.0 rebounds per game for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) and has secured at least five in six of his last 10 outings. This modest threshold does not require an unusually active rebounding night, and Gordon grabbed five boards against the [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/teams) earlier this month despite scoring only three points. 
@@ -101,23 +101,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
+31m
+NBA picks and predictions for Friday. What are today's top NBA bets?
+[](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
+[NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 2h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-9h
-What are the top NBA player props to target today? Friday's best NBA prop bets.
-[](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 
