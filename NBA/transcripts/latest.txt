@@ -1,9 +1,10 @@
-# NBA transcripts | 2026-11-20 | updated 2026-11-20 18:06 ET
+# NBA transcripts | 2026-11-20 | updated 2026-11-20 18:37 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 19 files in NBA/transcripts/2026-11-20:
+# 21 files in NBA/transcripts/2026-11-20:
 NBA/transcripts/2026-11-20/1aiFiSp9jtU_SlopRules_NBA_Parlay_PLUS_a_710_Banger_for_Friday_November_20_2026.txt
 NBA/transcripts/2026-11-20/1fJ8DgQzZEA_FantasyAces_Best_NBA_Picks_Bets_for_Friday_11_20.txt
 NBA/transcripts/2026-11-20/62gbzbOt8pE_SportsLine_NBA_Picks_Today_Bets_for_EVERY_Friday_Game.txt
+NBA/transcripts/2026-11-20/AbyecirDUGQ_FantasyAlarm_NBA_DFS_Picks_Today_11_20_DraftKings_Lineup_Strategy_Top_Values.txt
 NBA/transcripts/2026-11-20/B9jwCO36X9U_LandYourBets_3_NBA_Player_Prop_Best_Bets_NBA_Cup_Friday_Slate_Deep_Dive_November_20.txt
 NBA/transcripts/2026-11-20/FVRmPC6RtZg_PickDawgz_NBA_Picks_Today_11_20_26_Best_Friday_NBA_Bets_are_ON_DECK.txt
 NBA/transcripts/2026-11-20/K9wx1sQkXiY_PickDawgz_NBA_Picks_Friday_11_10_26_Jay_s_NBA_Jam_Session.txt
@@ -15,6 +16,7 @@ NBA/transcripts/2026-11-20/X5BUq1_INFI_WagerTalk_NBA_Picks_TODAY_Hornets_vs_Hawk
 NBA/transcripts/2026-11-20/_bt06xHJr2c_LockedOnNBA_RUMORS_Should_Wizards_TRADE_Anthony_Davis_or_Keep_Him_Warriors_Among_P.txt
 NBA/transcripts/2026-11-20/f0o5fJ_QlNg_SportsLine_NFL_Picks_College_Football_Bets_NBA_Picks_Early_Edge.txt
 NBA/transcripts/2026-11-20/fdS6N_ycsOI_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_20th.txt
+NBA/transcripts/2026-11-20/gCNrGatuAB0_JayMoney_Real_Talk_Parlay_Talk_With_Jay_Money_Is_Money.txt
 NBA/transcripts/2026-11-20/ka9OTSwH_cs_PickDawgz_TORONTO_RAPTORS_VS_DETROIT_PISTONS_FREE_NBA_PICK_PREDICTION_The_Yang_A.txt
 NBA/transcripts/2026-11-20/oALloDLDdTk_LockedOnNBA_GAME_NIGHT_Knicks_Top_Timberwolves_Spurs_Roll_Clippers_Blazers_Past_Bu.txt
 NBA/transcripts/2026-11-20/oO3UtiiJsWc_NBAGamblingPod_NBA_Friday_Picks_11_20_26_NBA_Bets_Player_Props_and_Predictions.txt
@@ -30,7 +32,7 @@ NOCAPS  WagerTalk hktTrksea04 NBA Picks Today: 9-Game Friday Slate, Best Bets & 
 NOCAPS  WagerTalk EXaZsW5FbUo NBA Picks Today: 9-Game Friday Slate, Best Bets & Odds | Pro  (no captions; Groq: live stream still processing - audio not final yet)
 UPCOMING RotoGrinders CHlhIocxRVY NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/21/2  (not aired yet - scheduled for 11/21/26 6:15PM)
 NOCAPS  RotoGrinders TcpwdK2NiQ0 NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/20/2  (no captions; Groq: still live - audio not final yet)
-NEW     NBA/transcripts/2026-11-20/RBS-ZyiglgM_ShipItNation_NBA_DFS_Process_November_20_2026_DraftKings_FanDuel_Picks_Plays_Slate.txt  (5,528 words)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
@@ -39,15 +41,14 @@ NONE    channel LockedOnNBA: nothing new in the date window (or everything alrea
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOCAPS  JayMoney gCNrGatuAB0 Real Talk/Parlay Talk With Jay Money Is Money  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NBA/transcripts/2026-11-20/gCNrGatuAB0_JayMoney_Real_Talk_Parlay_Talk_With_Jay_Money_Is_Money.txt  (6,488 words, via Groq)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm AbyecirDUGQ NBA DFS Picks Today 11/20 | DraftKings Lineup Strategy & Top  (no captions; Groq: still live - audio not final yet)
+NEW     NBA/transcripts/2026-11-20/AbyecirDUGQ_FantasyAlarm_NBA_DFS_Picks_Today_11_20_DraftKings_Lineup_Strategy_Top_Values.txt  (10,921 words, via Groq)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
