@@ -1,11 +1,11 @@
-# CBB sources | Thu 11/19/2026 | updated 2026-11-19 17:03 ET
+# CBB sources | Fri 11/20/2026 | updated 2026-11-20 11:21 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      CBB/sources/2026-11-19/torvik_schedule.md            UPDATED (changed since 2026-11-19 11:18) 15,037 chars https://barttorvik.com/schedule.php?date=20261119
-OK      CBB/sources/2026-11-19/covers_predictions.md         UPDATED (changed since 2026-11-19 11:18) 86,845 chars https://www.covers.com/picks/ncaab
-OK      CBB/sources/2026-11-19/rotowire_news.md              UPDATED (changed since 2026-11-19 11:18) 14,119 chars https://www.rotowire.com/cbasketball/news.php
-OK      CBB/sources/2026-11-19/cbs_injuries.md               UPDATED (changed since 2026-11-19 11:18) 59,965 chars (via Jina) https://www.cbssports.com/college-basketball/injuries/
-OK      CBB/sources/2026-11-19/actionnetwork_picks.md        UPDATED (changed since 2026-11-19 11:18) 13,089 chars https://www.actionnetwork.com/ncaab/picks
-OK      CBB/sources/2026-11-19/actionnetwork_articles.md     UPDATED (changed since 2026-11-19 11:18) 100,894 chars [6 of 6 articles combined] https://www.actionnetwork.com/ncaab
-OK      CBB/sources/2026-11-19/fanduel_research.md           UPDATED (changed since 2026-11-19 11:18) 66,520 chars [3 of 3 articles combined] https://fanduel.com/research/ncaab
-OK      CBB/sources/2026-11-19/rotoballer_betting.md         97,304 chars [today's 1 article(s)] https://www.rotoballer.com/nfl-best-bets-for-novig-week-11/1997301
+OK      CBB/sources/2026-11-20/torvik_schedule.md            24,106 chars                       https://barttorvik.com/schedule.php?date=20261120
+OK      CBB/sources/2026-11-20/covers_predictions.md         141,786 chars                      https://www.covers.com/picks/ncaab
+OK      CBB/sources/2026-11-20/rotowire_news.md              14,030 chars                       https://www.rotowire.com/cbasketball/news.php
+OK      CBB/sources/2026-11-20/cbs_injuries.md               61,495 chars (via Jina)            https://www.cbssports.com/college-basketball/injuries/
+OK      CBB/sources/2026-11-20/actionnetwork_picks.md        10,912 chars                       https://www.actionnetwork.com/ncaab/picks
+OK      CBB/sources/2026-11-20/actionnetwork_articles.md     103,671 chars [6 of 6 articles combined] https://www.actionnetwork.com/ncaab
+OK      CBB/sources/2026-11-20/fanduel_research.md           24,063 chars [3 of 3 articles combined] https://fanduel.com/research/ncaab
+FAILED  CBB/sources/2026-11-20/rotoballer_betting.md         no article dated today yet (browser saw 1150 links, Jina 1610) https://www.rotoballer.com/tag/cbb-betting-picks-ncaa-college-basketball
