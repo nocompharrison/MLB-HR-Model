@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 18:40 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 18:53 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-37m
+1h
 Link
 ![NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F37788aef96c628ae8fdb3c5785b580af8e064a86-5981x3364.jpg%3Frect%3D0%2C23%2C5981%2C2959%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -93,12 +93,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-37m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -128,7 +128,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+3h
 Link
 ![Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F3ad3c0f2947d64caba4228af2c7b54226ec2bf1c-6000x4000.jpg%3Frect%3D7%2C0%2C5986%2C2962%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -219,12 +219,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-37m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -332,12 +332,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-37m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -367,7 +367,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-9h
+10h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F77cabe5140b54007335e47d1317664ab4c7d02c5-4500x3000.jpg%3Frect%3D0%2C8%2C4500%2C2227%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -458,12 +458,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-37m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -558,12 +558,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-37m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
