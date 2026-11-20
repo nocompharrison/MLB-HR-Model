@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-20-147313 | fetched: 2026-11-20 18:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-20-147313 | fetched: 2026-11-20 18:40 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 20
 Get the best NBA bets today, with expert player prop picks on points and made threes, plus odds from top sportsbooks and betting apps for Friday’s Nov. 20 NBA slate.
@@ -25,11 +25,11 @@ _DraftKings, 4:32 PM ET_
 **Alex Barutha** : The Pelicans are allowing the second-most points in the NBA (122.8). They've also already given up some massive performances to opposing guards -- namely four 30-point games already to the likes of [Jamal Murray](https://www.rotowire.com/basketball/player/jamal-murray-3882), [Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774), [Keyonte George](https://www.rotowire.com/basketball/player/keyonte-george-5899) and [Darius Acuff](https://www.rotowire.com/basketball/player/darius-acuff-6931). SGA himself has scored 30+ in four straight games.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | NOP @ OKC
-Shai Gilgeous-Alexander Over 32.5 Points-106
+Shai Gilgeous-Alexander Over 33.5 Points-104
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.72](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.81](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:06 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:36 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Ja'Kobe Walter**](https://www.rotowire.com/basketball/player/jakobe-walter-6261)**O2.5 made threes at Detroit Pistons (-118)**
 _DraftKings, 4:51 PM ET_
 **Nick Whalen:** Walter has now started 13 straight games and should continue to see increased minutes with both [Kawhi Leonard](https://www.rotowire.com/basketball/player/kawhi-leonard-3195) and now [RJ Barrett](https://www.rotowire.com/basketball/player/rj-barrett-4767) sidelined. During that 13-game run, Walter is averaging 32.5 minutes per game and getting up 7.2 three-point attempts per contest. He's gone over this number in eight of those games. With Barrett out Wednesday against Washington, Walter played a season-high 38 minutes.
@@ -39,7 +39,7 @@ Ja'Kobe Walter Over 2.5 3-Pointers+106
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $5.30](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:06 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:36 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -55,6 +55,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Davante Adams](https://www.rotowire.com/football/player/davante-adams-9455)
+Not in line to be ready following bye
+NFL
+Los Angeles Rams
   * ![Los Angeles Dodgers](https://assets.rotowire.com/images/teamlogo/baseball/100LAD.png?v=8)
 [Royce Lewis](https://www.rotowire.com/baseball/player/royce-lewis-14767)
 Shipped to Dodgers
@@ -75,11 +80,6 @@ Philadelphia Eagles
 Listed questionable for Week 11
 NFL
 Los Angeles Chargers
-  * ![Detroit Tigers](https://assets.rotowire.com/images/teamlogo/baseball/100DET.png?v=8)
-[Troy Melton](https://www.rotowire.com/baseball/player/troy-melton-17420)
-Nets $46.5 million contract extension
-MLB
-Detroit Tigers
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -115,29 +115,34 @@ San Diego Padres
 Expected to miss at least two more weeks
 NBA
 Indiana Pacers
-  * ![Utah Jazz](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)
-Will be re-evaluated in one week
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
+Starting versus Wizards
 NBA
-Utah Jazz
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)
-Questionable for Saturday
+Chicago Bulls
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
+Out sick Friday
 NBA
-Dallas Mavericks
-  * ![Atlanta Hawks](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
-[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)
-Ruled out for Friday
+Chicago Bulls
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)
+Cleared to play Saturday
 NBA
-Atlanta Hawks
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)
+Memphis Grizzlies
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Javon Small](https://www.rotowire.com/basketball/player/javon-small-6581)
 Ruled out for Saturday
 NBA
-Philadelphia 76ers
+Memphis Grizzlies
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Davante Adams](https://www.rotowire.com/football/player/davante-adams-9455)
+Not in line to be ready following bye
+NFL
+Los Angeles Rams
   * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
 [Jaylen Waddle](https://www.rotowire.com/football/player/jaylen-waddle-15404)
 Good to go for Sunday's game
@@ -158,11 +163,6 @@ Los Angeles Chargers
 Cleared for Sunday's game
 NFL
 Jacksonville Jaguars
-  * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
-[Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
-Faces uncertain status Sunday
-NFL
-Las Vegas Raiders
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

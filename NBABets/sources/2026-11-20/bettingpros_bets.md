@@ -1,4 +1,4 @@
-<!-- source: https://www.bettingpros.com/articles/sports/nba/ | fetched: 2026-11-20 18:09 ET -->
+<!-- source: https://www.bettingpros.com/articles/sports/nba/ | fetched: 2026-11-20 18:40 ET -->
 
 
 ---
@@ -603,15 +603,17 @@ Click to expand picks panel
 
 Click to open Sharp AI
 
-# NBA Picks & Predictions: Friday (11/20)
+[![Image 2: freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=display&utm_source=bettingpros.com&utm_content=bp_ad_728x90)
 
-![Image 2: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 20, 2026
+# NBA Picks & Predictions: Friday (11/20)
 
 ![Image 3: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 20, 2026
 
-[![Image 4: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 5: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 6: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 7: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 8: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
+![Image 4: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 20, 2026
 
-![Image 9: NBA Picks & Predictions: Friday (11/20)](https://www.bettingpros.com/img/quentin_grimes_lakers_1-1.jpg/1470x650.webp)[![Image 10: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 11: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 12: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 13: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 14: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
+[![Image 5: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 6: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 7: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 8: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 9: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
+
+![Image 10: NBA Picks & Predictions: Friday (11/20)](https://www.bettingpros.com/img/quentin_grimes_lakers_1-1.jpg/1470x650.webp)[![Image 11: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 12: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 13: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 14: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 15: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
 
 We have nine Emirates NBA Cup games scheduled this evening, so betting options are limited. Here are my two best [NBA picks](https://www.bettingpros.com/articles/sports/picks-nba/) for Friday, November 20th.
 
@@ -623,7 +625,7 @@ We have nine Emirates NBA Cup games scheduled this evening, so betting options a
 
 **[Get instant alerts when a line reaches your target via the BettingPros App >>](https://www.bettingpros.com/sports-betting-apps/#download?tag=bp-articles)**
 
-[![Image 15: NBA +EV](https://www.bettingpros.com/img/NBA-EV-1-1.png/0x0.webp)](https://www.bettingpros.com/market-ev/nba/)
+[![Image 16: NBA +EV](https://www.bettingpros.com/img/NBA-EV-1-1.png/0x0.webp)](https://www.bettingpros.com/market-ev/nba/)
 
 ## **Friday’s****Best NBA Picks & Predictions**
 
@@ -653,7 +655,7 @@ In an NBA Cup game, the Lakers have every incentive to run up the score to impro
 
 * * *
 
-[![Image 16: BettingPros App 3.0](https://www.bettingpros.com/img/bettingpros_app_launch_1470650.png/0x0.webp)](https://www.bettingpros.com/appDownload/?tag=bp-articles)
+[![Image 17: BettingPros App 3.0](https://www.bettingpros.com/img/bettingpros_app_launch_1470650.png/0x0.webp)](https://www.bettingpros.com/appDownload/?tag=bp-articles)
 
 ## Related articles
 
@@ -670,14 +672,14 @@ In an NBA Cup game, the Lakers have every incentive to run up the score to impro
 
 Current Article|2 min read
 
-![Image 17: Player image for next featured article](https://www.bettingpros.com/img/Dylan_Raiola_Oregon_1-65x65.jpg/65x65.webp)Next Up: College Football Picks & Predictions: Week 12 (Friday)[Next Article](https://www.bettingpros.com/articles/college-football-picks-predictions-week-12-friday-2026/)
+![Image 18: Player image for next featured article](https://www.bettingpros.com/img/Dylan_Raiola_Oregon_1-65x65.jpg/65x65.webp)Next Up: College Football Picks & Predictions: Week 12 (Friday)[Next Article](https://www.bettingpros.com/articles/college-football-picks-predictions-week-12-friday-2026/)
 
 Start here!
 ## New to BettingPros?
 
 Create a BettingPros account and sync your sportsbooks for free!
 
-[![Image 18: Google Logo](https://www.bettingpros.com/assets/images/logos/google-g.webp) Continue with Google](https://secure.bettingpros.com/accounts/google/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-friday-11-20%252F&action=signed_in)[![Image 19: Apple Logo](https://www.bettingpros.com/assets/images/logos/apple-black.svg) Continue with Apple](https://secure.bettingpros.com/accounts/apple/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-friday-11-20%252F&action=signed_in)
+[![Image 19: Google Logo](https://www.bettingpros.com/assets/images/logos/google-g.webp) Continue with Google](https://secure.bettingpros.com/accounts/google/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-friday-11-20%252F&action=signed_in)[![Image 20: Apple Logo](https://www.bettingpros.com/assets/images/logos/apple-black.svg) Continue with Apple](https://secure.bettingpros.com/accounts/apple/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-friday-11-20%252F&action=signed_in)
 
 [Create an Account](https://www.bettingpros.com/accounts/signup/?next=https%3A%2F%2Fwww.bettingpros.com%2Farticles%2Fnba-picks-predictions-friday-11-20%2F) By registering or logging in, you agree to our [Terms of Use](https://www.bettingpros.com/terms/) and [Privacy Policy](https://www.bettingpros.com/privacy-policy/). 
 
@@ -685,17 +687,17 @@ Create a BettingPros account and sync your sportsbooks for free!
 
 ## Partner Offers
 
-*   [![Image 20: Logo for Novig](https://www.bettingpros.com/assets/images/books/novig-icon.svg)Novig Deposit $10, Get $50](https://btng.pro/ZL6ZMc)
-*   [![Image 21: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
-*   [![Image 22: Logo for Plus500](https://www.bettingpros.com/assets/images/books/plus500-icon.webp)Plus500 Trade $10, Get $20](https://btng.pro/MxFTo3)
-*   [![Image 23: Logo for DraftKings Pick6](https://www.bettingpros.com/assets/images/books/draftkings-pick6-icon.webp)DraftKings Pick6 Spend $5, Get $50](https://btng.pro/yBY6om)
-*   [![Image 24: Logo for Kalshi](https://www.bettingpros.com/assets/images/books/kalshi-icon.webp)Kalshi Trade $25, Get $25](https://btng.pro/fZlQbW)
+*   [![Image 21: Logo for Novig](https://www.bettingpros.com/assets/images/books/novig-icon.svg)Novig Deposit $10, Get $50](https://btng.pro/ZL6ZMc)
+*   [![Image 22: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
+*   [![Image 23: Logo for Plus500](https://www.bettingpros.com/assets/images/books/plus500-icon.webp)Plus500 Trade $10, Get $20](https://btng.pro/MxFTo3)
+*   [![Image 24: Logo for DraftKings Pick6](https://www.bettingpros.com/assets/images/books/draftkings-pick6-icon.webp)DraftKings Pick6 Spend $5, Get $50](https://btng.pro/yBY6om)
+*   [![Image 25: Logo for Kalshi](https://www.bettingpros.com/assets/images/books/kalshi-icon.webp)Kalshi Trade $25, Get $25](https://btng.pro/fZlQbW)
 
 Click to view more sportsbook offers
 
 * * *
 
-![Image 25: User groups icon](https://www.bettingpros.com/assets/icons/user-groups-icon.svg)
+![Image 26: User groups icon](https://www.bettingpros.com/assets/icons/user-groups-icon.svg)
 
 Top Groups
 
@@ -721,41 +723,43 @@ Join
 
 * * *
 
+[![Image 27: freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=display&utm_source=bettingpros.com&utm_content=bp_ad_300x250_1)
+
 * * *
 
 ## Recent Articles
 
-[![Image 26: Article image](https://www.bettingpros.com/img/Dylan_Raiola_Oregon_1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/college-football-picks-predictions-week-12-friday-2026/)
+[![Image 28: Article image](https://www.bettingpros.com/img/Dylan_Raiola_Oregon_1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/college-football-picks-predictions-week-12-friday-2026/)
 
 [College Football Picks & Predictions: Week 12 (Friday)](https://www.bettingpros.com/articles/college-football-picks-predictions-week-12-friday-2026/)
 
 [11 hours ago](https://www.bettingpros.com/articles/author/travis-pulver/)
 
-[![Image 27: Article image](https://www.bettingpros.com/img/kevin_durant_rockets-2-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-rockets-vs-nuggets-nba-props-picks-friday-november-20-2026/)
+[![Image 29: Article image](https://www.bettingpros.com/img/kevin_durant_rockets-2-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-rockets-vs-nuggets-nba-props-picks-friday-november-20-2026/)
 
 [Best Rockets vs. Nuggets NBA Props & Picks (Friday)](https://www.bettingpros.com/articles/best-rockets-vs-nuggets-nba-props-picks-friday-november-20-2026/)
 
 [14 hours ago](https://www.bettingpros.com/articles/author/blaine/)
 
-[![Image 28: Article image](https://www.bettingpros.com/img/cade_cunningham_pistons-1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-raptors-vs-pistons-nba-props-picks-friday-november-20-2026/)
+[![Image 30: Article image](https://www.bettingpros.com/img/cade_cunningham_pistons-1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-raptors-vs-pistons-nba-props-picks-friday-november-20-2026/)
 
 [Best Raptors vs. Pistons NBA Props & Picks (Friday)](https://www.bettingpros.com/articles/best-raptors-vs-pistons-nba-props-picks-friday-november-20-2026/)
 
 [14 hours ago](https://www.bettingpros.com/articles/author/blaine/)
 
-[![Image 29: Article image](https://www.bettingpros.com/img/mahernflweek11-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
+[![Image 31: Article image](https://www.bettingpros.com/img/mahernflweek11-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
 
 [NFL Week 11 Picks, Predictions and Parlays](https://www.bettingpros.com/articles/nfl-week-11-picks-predictions-and-parlays/)
 
 [1 day ago](https://www.bettingpros.com/articles/author/mike-maher/)
 
-[![Image 30: Article image](https://www.bettingpros.com/img/cameron_boozer_grizzlies_4-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/)
+[![Image 32: Article image](https://www.bettingpros.com/img/cameron_boozer_grizzlies_4-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/)
 
 [NBA Picks & Predictions: Thursday (11/19)](https://www.bettingpros.com/articles/nba-picks-predictions-thursday-11-19/)
 
 [1 day ago](https://www.bettingpros.com/articles/author/frank-ammirante/)
 
-[![Image 31: Article image](https://www.bettingpros.com/img/nico_collins_texans_10-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
+[![Image 33: Article image](https://www.bettingpros.com/img/nico_collins_texans_10-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 
 [NFL Thursday Night Football Player Props & Bets: Colts vs. Texans](https://www.bettingpros.com/articles/nfl-thursday-night-football-player-props-bets-colts-vs-texans/)
 
@@ -775,9 +779,9 @@ Join
 
 * * *
 
-BettingPros App Betting Systems![Image 32: Line alert example image](https://www.bettingpros.com/assets/images/betting-systems-promo.webp)Download the App and access 20,000+ systems across various sports at your fingertips![Get the App](https://www.bettingpros.com/sports-betting-apps/)
+BettingPros App Betting Systems![Image 34: Line alert example image](https://www.bettingpros.com/assets/images/betting-systems-promo.webp)Download the App and access 20,000+ systems across various sports at your fingertips![Get the App](https://www.bettingpros.com/sports-betting-apps/)
 
-[![Image 33: BettingPros Logo](https://www.bettingpros.com/assets/images/logos/bettingpros/full/secondary.svg)Click to go to homepage](https://www.bettingpros.com/)
+[![Image 35: BettingPros Logo](https://www.bettingpros.com/assets/images/logos/bettingpros/full/secondary.svg)Click to go to homepage](https://www.bettingpros.com/)
 *   [NFL Home](https://www.bettingpros.com/nfl/)
 *   [Odds](https://www.bettingpros.com/nfl/odds/spread/)
 *   [Picks](https://www.bettingpros.com/nfl/picks/prop-bets/)
@@ -831,7 +835,7 @@ This website uses cookies to provide basic functionality, enhance user experienc
 
 Do Not Sell My Personal Information Accept Cookies
 
-![Image 34: Company Logo](https://cdn.cookielaw.org/logos/42fd97d3-dd28-403b-945b-ebd369451aee/6fbf7f8d-67e5-4e31-b3a8-b196f6bf5169/bb712602-76b4-466f-926d-4b11182865e0/bp-wordmark.png)
+![Image 36: Company Logo](https://cdn.cookielaw.org/logos/42fd97d3-dd28-403b-945b-ebd369451aee/6fbf7f8d-67e5-4e31-b3a8-b196f6bf5169/bb712602-76b4-466f-926d-4b11182865e0/bp-wordmark.png)
 
 ## Do Not Sell My Personal Information
 
@@ -888,9 +892,9 @@ Confirm My Choices
 
 Allow All
 
-[![Image 35: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+[![Image 37: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
-![Image 36](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&halo_id=060ixfkju6a6597989e9766666666666666uooywi0e0y62646m62000000000000)![Image 37](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP)![Image 38](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&adnxs_id=$UID&gdpr=0)![Image 39](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26auid%3DAU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 40](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 41](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 42](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 43](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795216142-S7WCXFPI-GREP&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 44](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTIxNjE0Mi1TN1dDWEZQSS1HUkVQ&id=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 45](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP)![Image 46](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&uid=[UID]&gdpr=0)![Image 47](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
+![Image 38](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&halo_id=060ixfkju6a6597989e9766666666666666uooywi0e0y62646m62000000000000)![Image 39](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP)![Image 40](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&adnxs_id=$UID&gdpr=0)![Image 41](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26auid%3DAU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 42](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 43](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 44](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 45](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795216142-S7WCXFPI-GREP&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 46](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTIxNjE0Mi1TN1dDWEZQSS1HUkVQ&id=AU1D-0100-001795216142-S7WCXFPI-GREP&gdpr=0)![Image 47](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795216142-S7WCXFPI-GREP)![Image 48](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795216142-S7WCXFPI-GREP&uid=[UID]&gdpr=0)![Image 49](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795216142-S7WCXFPI-GREP%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
 
 

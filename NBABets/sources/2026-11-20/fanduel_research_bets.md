@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 18:09 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 18:40 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-6m
+37m
 Link
 ![NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F37788aef96c628ae8fdb3c5785b580af8e064a86-5981x3364.jpg%3Frect%3D0%2C23%2C5981%2C2959%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -38,8 +38,8 @@ FanDuel and Prime Video are bringing betting and streaming together in one place
 Raptors at Pistons — 7:30 p.m. ET
 Spread
 Toronto Raptors
-+7.5
--115
++6.5
+-105
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 The [Raptors](https://sportsbook.fanduel.com/teams/nba/toronto-raptors/odds) are underdogs for good reason, but the gap between these teams is not quite as wide as their records suggest. 
@@ -93,7 +93,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-6m
+37m
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -103,12 +103,12 @@ Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 
@@ -152,7 +152,7 @@ Wizards at Bulls — 8:00 p.m. ET
 Alex Sarr - Rebounds
 Alex Sarr Over
 O 6.5
--130
+-128
 Nov 21 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-chicago-bulls-36334582)
 Odds/lines subject to change
 [Alex Sarr](https://sportsbook.fanduel.com/teams/nba/roster/alex-sarr-3289) averages 6.9 rebounds per game for the [Washington Wizards](https://sportsbook.fanduel.com/teams/nba/washington-wizards/roster) and has cleared 6.5 rebounds in eight of his last 10 games. The clash with the [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/teams) carries one of Friday’s highest game totals (239.5), potentially supplying plenty of opportunities for rebounds. 
@@ -162,7 +162,7 @@ Kings at Lakers — 10:00 p.m. ET
 Darius Acuff Jr. - Assists
 Darius Acuff Jr. Over
 O 6.5
-+108
++102
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/sacramento-kings-@-los-angeles-lakers-36334577)
 Odds/lines subject to change
 [Darius Acuff](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520/player-props) has quickly become a focal point of the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/odds) offense, averaging 7.1 assists per game in his rookie campaign. He has recorded at least seven assists in nine of his last 10 outings, which makes this prop especially attractive at plus money. 
@@ -173,7 +173,7 @@ Rockets at Nuggets — 10:00 p.m. ET
 Aaron Gordon - Rebounds
 Aaron Gordon Over
 O 4.5
--136
+-132
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-denver-nuggets-36334581)
 Odds/lines subject to change
 [Aaron Gordon](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) is averaging 5.0 rebounds per game for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) and has secured at least five in six of his last 10 outings. This modest threshold does not require an unusually active rebounding night, and Gordon grabbed five boards against the [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/teams) earlier this month despite scoring only three points. 
@@ -219,7 +219,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-6m
+37m
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -229,12 +229,12 @@ Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 
@@ -254,7 +254,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-8h
+9h
 Link
 ![Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1d967605b689e1aa33b7806b22778dba3041376d-4930x3286.jpg%3Frect%3D115%2C0%2C4701%2C2326%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -277,8 +277,8 @@ FanDuel and Prime Video are bringing betting and streaming together in one place
 Raptors at Pistons — 7:30 p.m. ET
 Spread
 Toronto Raptors
-+7.5
--115
++6.5
+-105
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 The [Raptors](https://sportsbook.fanduel.com/teams/nba/toronto-raptors/odds) are underdogs for good reason, but the gap between these teams is not quite as wide as their records suggest. 
@@ -332,7 +332,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-6m
+37m
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -342,12 +342,12 @@ Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 
@@ -391,7 +391,7 @@ Wizards at Bulls — 8:00 p.m. ET
 Alex Sarr - Rebounds
 Alex Sarr Over
 O 6.5
--130
+-128
 Nov 21 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-chicago-bulls-36334582)
 Odds/lines subject to change
 [Alex Sarr](https://sportsbook.fanduel.com/teams/nba/roster/alex-sarr-3289) averages 6.9 rebounds per game for the [Washington Wizards](https://sportsbook.fanduel.com/teams/nba/washington-wizards/roster) and has cleared 6.5 rebounds in eight of his last 10 games. The clash with the [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/teams) carries one of Friday’s highest game totals (239.5), potentially supplying plenty of opportunities for rebounds. 
@@ -401,7 +401,7 @@ Kings at Lakers — 10:00 p.m. ET
 Darius Acuff Jr. - Assists
 Darius Acuff Jr. Over
 O 6.5
-+108
++102
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/sacramento-kings-@-los-angeles-lakers-36334577)
 Odds/lines subject to change
 [Darius Acuff](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520/player-props) has quickly become a focal point of the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/odds) offense, averaging 7.1 assists per game in his rookie campaign. He has recorded at least seven assists in nine of his last 10 outings, which makes this prop especially attractive at plus money. 
@@ -412,7 +412,7 @@ Rockets at Nuggets — 10:00 p.m. ET
 Aaron Gordon - Rebounds
 Aaron Gordon Over
 O 4.5
--136
+-132
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-denver-nuggets-36334581)
 Odds/lines subject to change
 [Aaron Gordon](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) is averaging 5.0 rebounds per game for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) and has secured at least five in six of his last 10 outings. This modest threshold does not require an unusually active rebounding night, and Gordon grabbed five boards against the [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/teams) earlier this month despite scoring only three points. 
@@ -458,7 +458,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-6m
+37m
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -468,12 +468,12 @@ Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 
@@ -493,7 +493,7 @@ START YOUR OWN WINNING STREAK
 # Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-8h
+9h
 Link
 ![Raptors vs. Pistons Prediction, Picks and Prop Bets \(Nov. 20\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c7ba9ad5d3a5c72c3f8527869ae5a1a0d406748-2048x1365.jpg%3Frect%3D0%2C205%2C1920%2C950%26w%3D964%26h%3D477&w=1920&q=100)
 **Raptors vs. Pistons Top Bets at a Glance**
@@ -514,8 +514,8 @@ FanDuel and Prime Video are bringing betting and streaming together in one place
 ### [Raptors +7.5 (-110)](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Spread
 Toronto Raptors
-+7.5
--115
++6.5
+-105
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 The [Raptors](https://sportsbook.fanduel.com/teams/nba/toronto-raptors/odds) are underdogs for good reason, but the gap between these teams is not quite as wide as their records suggest. 
@@ -526,7 +526,7 @@ With RJ Barrett listed out, the Raptors will need additional creation from Scott
 Ausar Thompson - Reb + Ast
 Ausar Thompson Over
 O 12.5
-+102
++104
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 [Ausar Thompson](https://sportsbook.fanduel.com/teams/nba/roster/ausar-thompson-3193) has emerged as a more versatile contributor for the Pistons, and his increased production on the glass and as a facilitator makes this an appealing prop. 
@@ -558,7 +558,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-6m
+37m
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
@@ -568,12 +568,12 @@ Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-8h
+9h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-8h
+9h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 
@@ -906,7 +906,7 @@ START YOUR OWN WINNING STREAK
 
 ![Image 51: SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 
-[](https://www.fanduel.com/research/[slug])
+[See Promos](https://sportsbook.fanduel.com/promotions)
 
 ![Image 52: Chevrons Texture](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe0b0a425fa82026919c0e289dd2624c153536b20-485x66.png&w=1080&q=100)
 
@@ -1120,6 +1120,44 @@ Show more news
 
 [More Info](https://co.sportsbook.fanduel.com/promotions?promoCode=APVTNFSTATIC0917)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
 
+## More Articles You May Like
+
+[NBA](https://www.fanduel.com/research/nba)
+## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
+
+6m
+
+NBA picks and predictions for Friday. What are today's top NBA bets?
+
+[![Image 67: NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F37788aef96c628ae8fdb3c5785b580af8e064a86-5981x3364.jpg%3Frect%3D0%2C23%2C5981%2C2959%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
+
+[NBA](https://www.fanduel.com/research/nba)
+## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
+
+2h
+
+Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
+
+[![Image 68: Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F3ad3c0f2947d64caba4228af2c7b54226ec2bf1c-6000x4000.jpg%3Frect%3D7%2C0%2C5986%2C2962%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
+
+[NBA](https://www.fanduel.com/research/nba)
+## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
+
+8h
+
+Raptors vs Pistons picks and prop bets for today.
+
+[![Image 69: Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c7ba9ad5d3a5c72c3f8527869ae5a1a0d406748-2048x1365.jpg%3Frect%3D0%2C205%2C1920%2C950%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
+
+[NBA](https://www.fanduel.com/research/nba)
+## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
+
+8h
+
+What are the best NBA bets for Friday's slate?
+
+[![Image 70: Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1d967605b689e1aa33b7806b22778dba3041376d-4930x3286.jpg%3Frect%3D115%2C0%2C4701%2C2326%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
+
 *   ### ABOUT
 
 *   [Support](https://support.fanduel.com/)
@@ -1254,31 +1292,31 @@ Show more news
 
 © Betfair Interactive US LLC, 2026
 
-Gambling Problem? Call![Image 67: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 68: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 69: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 70: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 71: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 72: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
+Gambling Problem? Call![Image 71: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 72: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 73: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 74: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 75: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 76: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
 
 Persons under 21 are not permitted to engage in sports wagering. For customer support please[contact us](https://sportsbook.fanduel.com/support).
 
-![Image 73: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
+![Image 77: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
 
-![Image 74: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
+![Image 78: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
 
-![Image 75: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
+![Image 79: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
 
-![Image 76: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
+![Image 80: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
 
-![Image 77: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
+![Image 81: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
 
-![Image 78: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
+![Image 82: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
 
-![Image 79: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
+![Image 83: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
 
-![Image 80: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
+![Image 84: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
 
-![Image 81: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
+![Image 85: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
 
-![Image 82: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
+![Image 86: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
 
-![Image 83: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
+![Image 87: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
 
 [Back to top](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026#)
 
