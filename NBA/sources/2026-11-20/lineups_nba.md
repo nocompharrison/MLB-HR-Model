@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-20 16:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-20 18:05 ET -->
 
 
 ---
@@ -955,6 +955,14 @@ Let’s dive into three player props that catch our eye for Wednesday’s action
 
 ### **Tyler Herro (Bucks vs. Heat) Over 3-Pointers Made**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10208.png)Tyler Herro
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/132817/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/132817/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/132817/kalshi_sc)
+
+[![Image 34](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/tyler_herro/player_132817 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Herro makes his first return to South Florida since this offseason’s mega-trade between the Bucks and Heat, and he comes in putting up numbers early in his Milwaukee tenure that are comparable to his last few seasons in Miami. The veteran wing is averaging 20.3 points, 4.2 rebounds and 4.2 assists, and although he’s shooting just 42.1% overall, he’s draining respectable 36.1% of his 7.5 three-point attempts per contest.
 
 Herro should naturally have some extra incentive Wednesday, especially after there was some offseason tension between him and Bam Adebayo. The fact the Heat is averaging the fourth-most possessions per game (105.9) helps his cause, as does the fact Miami is allowing the third-most made three-pointers per contest (15.6). Then, the Heat is also surrendering an Eastern Conference-high 27.8 offensive efficiency rating to shooting guards, along with 4.4 made threes on 38.8% shooting from behind the arc.
@@ -965,6 +973,16 @@ Meanwhile, Herro has recorded at least a trio of threes in seven of 13 games, an
 
 ### **Davion Mitchell (Heat vs. Bucks) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 35](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10207.png)Davion Mitchell
+
+[![Image 36: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/81666/kalshi_sc)[To Win 6th Man of the Year](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/81666/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_6th_man_of_the_year/81666/kalshi_sc)
+
+[![Image 37: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/81666/kalshi_sc)[To Win Most Improved Player](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/81666/kalshi_sc)[20¢](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/81666/kalshi_sc)
+
+[![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/davion_mitchell/player_81666 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Mitchell is putting together a career-best season that’s seeing him stuff the stat sheet on a near nightly basis thus far. The veteran point guard is supplying 25.9 points + assists per contest, posting career highs in both categories (16.7 PPG, 9.2 APG). Mitchell is also shooting a career-high 49.7% overall and 40.0% from three-point range, and he’s taking a career-high 12.4 field-goal attempts per contest while handling plenty of ball-handling duties in the Heat’s fast-paced attack.
 
 Mitchell has averaged 26.2 points + assists on 48.3% shooting over his seven home contests, and he’s now drawing a matchup against a Bucks squad that’s allowing 35.6 points + assists per contest to point guards. Milwaukee is also surrendering the sixth-most made three-pointers per road game (14.8), while Mitchell is averaging a career-high 5.7 three-point attempts per contest. Finally, it’s worth noting Miami has a robust 124.5-point implied team total for Wednesday’s clash, furthering Mitchell’s case.
@@ -972,6 +990,18 @@ Mitchell has averaged 26.2 points + assists on 48.3% shooting over his seven hom
 **Original Line Publish**: 21.5
 
 ### **Domantas Sabonis (Kings vs. Suns) Over Points + Rebounds**
+
+[](https://www.lineups.com/)
+
+![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10217.png)Domantas Sabonis
+
+[![Image 40: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661104/underdog_sc)[O/U Points Scored (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661104/underdog_sc)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661104/underdog_sc)
+
+[![Image 41: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661104/polymarket_sc)[O/U Total Rebounds (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661104/polymarket_sc)[11.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661104/polymarket_sc)
+
+[![Image 42: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661104/polymarket_sc)[O/U Total Assists (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661104/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661104/polymarket_sc)
+
+[![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/domantas_sabonis/player_56671 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 The Kings are off to a miserable 1-12 start and Sabonis’ name is already coming up in some early trade-deadline rumors, but for the moment, the big man is handling his usual diverse role in Sacramento’s attack. Sabonis is delivering 14.2 points, 13.2 rebounds and 5.6 assists per contest, and he’s shooting a career-high 63.8% as well. Sabonis is doing slightly more facilitating and less scoring – his 8.8 field-goal attempts per game are his fewest since his 2016-17 rookie campaign in OKC – but he’s still contributed 15 or more points in half of his 12 games.
 
@@ -1007,27 +1037,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Walker III](https://www.lineups.com/wp-content/uploads/2026/11/WalkerIII-150x150.jpg)](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
+[![Image 44: Walker III](https://www.lineups.com/wp-content/uploads/2026/11/WalkerIII-150x150.jpg)](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
 
 [](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
 #### [](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)[NFL Week 11 Injury Report: Kenneth Walker III Doubtful for Chiefs, Bhayshul Tuten Probable for Jaguars](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
 
-[![Image 33: Nikola Jokic](https://www.lineups.com/wp-content/uploads/2026/11/Nikola-Jokic-150x150.jpg)](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
+[![Image 45: Nikola Jokic](https://www.lineups.com/wp-content/uploads/2026/11/Nikola-Jokic-150x150.jpg)](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
 [](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 #### [](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)[Rockets-Nuggets NBA Cup Picks, Predictions & Odds for Friday, November 20, 2026](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
-[![Image 34: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-150x150.jpg)](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
+[![Image 46: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-150x150.jpg)](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
 [](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 #### [](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)[Raptors-Pistons NBA Cup Picks, Predictions & Odds for Friday, November 20, 2026](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
-[![Image 35: Dybantsa](https://www.lineups.com/wp-content/uploads/2026/11/Dybantsa-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
+[![Image 47: Dybantsa](https://www.lineups.com/wp-content/uploads/2026/11/Dybantsa-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)[NBA Player Props Today: Jarrett Allen, AJ Dybantsa and Kevin Durant Best Bets](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
 
-[![Image 36: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-1-150x150.jpg)](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
+[![Image 48: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-1-150x150.jpg)](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
 
 [](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
 #### [](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)[New Mexico-Wyoming Picks, Predictions & Odds: College Football Week 12](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
@@ -1038,7 +1068,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 49: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 50: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1053,7 +1083,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Walker III](https://www.lineups.com/wp-content/uploads/2026/11/WalkerIII-390x230.jpg)](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
+[![Image 51: Walker III](https://www.lineups.com/wp-content/uploads/2026/11/WalkerIII-390x230.jpg)](https://www.lineups.com/articles/nfl-week-11-injury-report-kenneth-walker-iii-doubtful-for-chiefs-bhayshul-tuten-probable-for-jaguars/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1063,7 +1093,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)November 20, 2026
 
-[![Image 40: Nikola Jokic](https://www.lineups.com/wp-content/uploads/2026/11/Nikola-Jokic-390x230.jpg)](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
+[![Image 52: Nikola Jokic](https://www.lineups.com/wp-content/uploads/2026/11/Nikola-Jokic-390x230.jpg)](https://www.lineups.com/articles/rockets-nuggets-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1073,7 +1103,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 20, 2026
 
-[![Image 41: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-390x230.jpg)](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
+[![Image 53: Cunningham](https://www.lineups.com/wp-content/uploads/2026/11/Cunningham-390x230.jpg)](https://www.lineups.com/articles/raptors-pistons-nba-cup-picks-predictions-odds-for-friday-november-20-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1083,7 +1113,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 20, 2026
 
-[![Image 42: Dybantsa](https://www.lineups.com/wp-content/uploads/2026/11/Dybantsa-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
+[![Image 54: Dybantsa](https://www.lineups.com/wp-content/uploads/2026/11/Dybantsa-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1093,7 +1123,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 20, 2026
 
-[![Image 43: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-1-390x230.jpg)](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
+[![Image 55: Scottre Humphrey](https://www.lineups.com/wp-content/uploads/2026/11/Scottre-Humphrey-1-390x230.jpg)](https://www.lineups.com/articles/new-mexico-wyoming-picks-predictions-odds-college-football-week-12/)
 
 [Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1103,7 +1133,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 19, 2026
 
-[![Image 44: Dakorien Moore](https://www.lineups.com/wp-content/uploads/2026/11/Dakorien-Moore-390x230.jpg)](https://www.lineups.com/articles/oregon-michigan-state-picks-predictions-odds-college-football-week-12/)
+[![Image 56: Dakorien Moore](https://www.lineups.com/wp-content/uploads/2026/11/Dakorien-Moore-390x230.jpg)](https://www.lineups.com/articles/oregon-michigan-state-picks-predictions-odds-college-football-week-12/)
 
 [College Football Articles](https://www.lineups.com/college-football-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 

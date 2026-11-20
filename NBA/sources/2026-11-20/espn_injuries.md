@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-20 16:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-20 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -293,8 +293,6 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Myles Turner](https://www.espn.com/nba/player/_/id/3133628/myles-turner) | C | Nov 21 | Day-To-Day | Nov 19: Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion, |
-| [Kyle Kuzma](https://www.espn.com/nba/player/_/id/3134907/kyle-kuzma) | F | Nov 21 | Day-To-Day | Nov 19: Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion. |
 | [Ousmane Dieng](https://www.espn.com/nba/player/_/id/4997526/ousmane-dieng) | F | Dec 14 | Out | Nov 15: Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports. |
 
 ![Image 41: Minnesota Timberwolves](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&h=40&w=40)Minnesota Timberwolves
@@ -366,7 +364,7 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Precious Achiuwa](https://www.espn.com/nba/player/_/id/4431679/precious-achiuwa) | F | Nov 20 | Day-To-Day | Nov 19: Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise. |
+| [Precious Achiuwa](https://www.espn.com/nba/player/_/id/4431679/precious-achiuwa) | F | Nov 21 | Out | Nov 20: Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers. |
 | [De'Andre Hunter](https://www.espn.com/nba/player/_/id/4065732/deandre-hunter) | F | Nov 20 | Day-To-Day | Nov 19: Hunter (hip) is listed as questionable for Friday's game against the Lakers. |
 | [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Nov 25 | Out | Nov 18: Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
@@ -408,15 +406,89 @@ Sat
 
 Data Provided by Rotowire
 
+Sponsored Headlines
+
+[](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
+
+Undo
+
+[](https://get.blazepod.com/https-get-blazepod-com-taboola)[It’s Finally Here: BlazePod Black Friday – Up to 30% Off!BlazePod - Up To 30% OFF | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Shop Now](https://get.blazepod.com/https-get-blazepod-com-taboola "It’s Finally Here: BlazePod Black Friday – Up to 30% Off!")
+
+Undo
+
+[](https://secure.lanural.com/tb-new-research-3)[Women Over 60 Who Rarely Get Constipated All Do This Every Morning Lanural | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://secure.lanural.com/tb-new-research-3 "Women Over 60 Who Rarely Get Constipated All Do This Every Morning")
+
+Undo
+
+[](https://secure.lanural.com/tb-new-research-3)[Constipated? Most People Take Fiber. Here's What Gut Doctors Are Doing Lanural | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://secure.lanural.com/tb-new-research-3 "Constipated? Most People Take Fiber. Here's What Gut Doctors Are Doing")
+
+Undo
+
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in Oregon (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in Oregon (Is Yours On The List?)")
+
+Undo
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Oregon: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+
+Undo
+
+[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+
+Undo
+
+[](https://go.crediblereviews.org/cf/r/6a31fe1dd596e50012d91282)[Seniors In Heavy Credit Card Debt Should Do This (Try It Today)Struggling with high debt? - Use this tool to get real help this month Credible Reviews | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://go.crediblereviews.org/cf/r/6a31fe1dd596e50012d91282 "Seniors In Heavy Credit Card Debt Should Do This (Try It Today)")
+
+Undo
+
+[](https://beautyguide.blog/tbl/advv)[Crepey Skin? Most People Use Moisturizer. Koreans Do This Instead She stopped using her moisturizer and tried this instead. The results surprised everyone.Beauty Guide | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://beautyguide.blog/tbl/advv "Crepey Skin? Most People Use Moisturizer. Koreans Do This Instead")
+
+Undo
+
 ### NBA News
 
-[![Image 53: Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_154907835_3751400/ss_20261120_154907835_3751400.jpg) ## Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets * 7m](https://www.espn.com/video/clip/_/id/50543371/fred-vanvleet-brings-sense-calm-rockets)
+[![Image 53: NBA buzz: Latest on trades, news, roster moves and intel](https://a.espncdn.com/combiner/i?img=/photo/2025/0121/r1441247_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
-[![Image 54: Shams: Brandon Ingram will make Clippers debut Monday](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_154334744_3751382947/ss_20261120_154334744_3751382947.jpg) ## Shams: Brandon Ingram will make Clippers debut Monday Shams: Brandon Ingram will make Clippers debut Monday * 11m](https://www.espn.com/video/clip/_/id/50543306/brandon-ingram-make-clippers-debut-monday)
+[![Image 54: Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_154907835_3751400/ss_20261120_154907835_3751400.jpg) ## Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets Michael C. Wright: Fred VanVleet brings 'sense of calm' to Rockets * 1h](https://www.espn.com/video/clip/_/id/50543371/fred-vanvleet-brings-sense-calm-rockets)
 
-[![Image 55: Sources: Brandon Ingram (Achilles) expected to Clippers debut vs. Rockets](https://a.espncdn.com/combiner/i?img=/photo/2026/1120/r1748650_1296x729_16-9.jpg&w=220) ## Sources: Brandon Ingram (Achilles) expected to Clippers debut vs. Rockets After recovering from Achilles surgery, Brandon Ingram is set to make his Clippers debut Monday against the Rockets, sources told ESPN's Shams Charania. * 10m](https://www.espn.com/nba/story/_/id/50542985/sources-clippers-brandon-ingram-make-season-team-debut)
+[![Image 55: Shams: Brandon Ingram will make Clippers debut Monday](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/ss_20261120_154334744_3751382947/ss_20261120_154334744_3751382947.jpg) ## Shams: Brandon Ingram will make Clippers debut Monday Shams: Brandon Ingram will make Clippers debut Monday * 1h](https://www.espn.com/video/clip/_/id/50543306/brandon-ingram-make-clippers-debut-monday)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)
+
+Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Undo
+
+Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Undo
+
+How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Undo
+
+The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Undo
+
+[](https://financefalcons.com/qs-best-credit-cards)[Business, travel, cash back or 0% APR? Compare Learn the pros and what to watch Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Compare](https://financefalcons.com/qs-best-credit-cards "Business, travel, cash back or 0% APR? Compare")
+
+Undo
+
+[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair No More: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair No More: This One Daily Vitamin Is Blowing Up Online")
+
+Undo
 
 ![Image 56: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

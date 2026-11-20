@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-20 16:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-20 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Kyle Kuzma](https://images.fantasypros.com/images/players/nba/3358/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyle-kuzma.php)
+F - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/kyle-kuzma.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/kyle-kuzma.php)  
+[» More News](https://www.fantasypros.com/nba/news/kyle-kuzma.php)
+[Kyle Kuzma (shoulder) off injury report Saturday ](https://www.fantasypros.com/nba/news/621471/kyle-kuzma-shoulder-off-injury-report-saturday.php)  
+
+Fri, Nov 20th 4:54pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Kyle Kuzma is off the injury report for Saturday’s game against the 76ers.
+**_Fantasy Impact:_** Kuzma will return after sitting out the second game of a back-to-back on Thursday for the Bucks. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Myles Turner](https://images.fantasypros.com/images/players/nba/3020/headshot/100x100.png)](https://www.fantasypros.com/nba/players/myles-turner.php)
+C - MIL
+[» Rankings](https://www.fantasypros.com/nba/players/myles-turner.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/myles-turner.php)  
+[» More News](https://www.fantasypros.com/nba/news/myles-turner.php)
+[Myles Turner (shoulder) off injury report Saturday ](https://www.fantasypros.com/nba/news/621470/myles-turner-shoulder-off-injury-report-saturday.php)  
+
+Fri, Nov 20th 4:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Myles Turner is off the injury report for Saturday’s game against the 76ers.
+**_Fantasy Impact:_** Turner will return after sitting out the second game of a back-to-back on Thursday. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Precious Achiuwa](https://images.fantasypros.com/images/players/nba/5096/headshot/100x100.png)](https://www.fantasypros.com/nba/players/precious-achiuwa.php)
+F - SAC
+[» Rankings](https://www.fantasypros.com/nba/players/precious-achiuwa.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/precious-achiuwa.php)  
+[» More News](https://www.fantasypros.com/nba/news/precious-achiuwa.php)
+[Precious Achiuwa (leg) ruled out Friday ](https://www.fantasypros.com/nba/news/621469/precious-achiuwa-leg-ruled-out-friday.php)  
+
+Fri, Nov 20th 4:52pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Precious Achiuwa has been ruled out for Friday’s game against the Lakers.
+**_Fantasy Impact:_** Keegan Murray could see more run in place of Achiuwa. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
 F - CHI
 [» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
@@ -245,48 +287,6 @@ Jayson Tatum filled the stat sheet for the Celtics Wednesday night, dishing out 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Bennedict Mathurin](https://images.fantasypros.com/images/players/nba/5458/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bennedict-mathurin.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/bennedict-mathurin.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/bennedict-mathurin.php)  
-[» More News](https://www.fantasypros.com/nba/news/bennedict-mathurin.php)
-[Bennedict Mathurin (foot) ruled out Thursday ](https://www.fantasypros.com/nba/news/621255/bennedict-mathurin-foot-ruled-out-thursday.php)  
-
-Thu, Nov 19th 5:00pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Bennedict Mathurin has been ruled out for Friday’s game against the Thunder. 
-**_Fantasy Impact:_** Mathurin remains off the fantasy radar. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Murphy III](https://images.fantasypros.com/images/players/nba/5372/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trey-murphy.php)
-F - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/trey-murphy.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/trey-murphy.php)  
-[» More News](https://www.fantasypros.com/nba/news/trey-murphy.php)
-[Trey Murphy III (knee) listed questionable Friday ](https://www.fantasypros.com/nba/news/621253/trey-murphy-iii-knee-listed-questionable-friday.php)  
-
-Thu, Nov 19th 4:59pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Trey Murphy III is listed as questionable for Friday’s game against the Thunder.
-**_Fantasy Impact:_** Murphy has missed the last six games with a knee injury. Saddiq Bey has been starting in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Bryce McGowens](https://images.fantasypros.com/images/players/nba/5460/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bryce-mcgowens.php)
-G - NOR
-[» Rankings](https://www.fantasypros.com/nba/players/bryce-mcgowens.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/bryce-mcgowens.php)  
-[» More News](https://www.fantasypros.com/nba/news/bryce-mcgowens.php)
-[Bryce McGowens (elbow) ruled out Friday ](https://www.fantasypros.com/nba/news/621252/bryce-mcgowens-elbow-ruled-out-friday.php)  
-
-Thu, Nov 19th 4:58pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Bryce McGowens has been ruled out for Friday’s game against the Thunder.
-**_Fantasy Impact:_** McGowens remains without a clear timetable to return. Jordan Poole has seen more run in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +297,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=384_1795208438207&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0sTELNYycrQ3NLU0MjI2NSwFgBR%2BxzM&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999c9e9d9d96999d9b9a66uokewi0e0y666i6m6k6k60666k6g6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=746_1795215634025&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQ0sTELNYycrQ3NLU0MjI2NSwFgBR%2BxzM&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a65999c9e9d9d96999d9b9a66uokewi0e0y666i6m6k6k60666k6g6e)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

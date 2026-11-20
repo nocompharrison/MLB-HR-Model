@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 18:05 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,123 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
+[Jusuf Nurkic](https://www.rotowire.com/basketball/player/jusuf-nurkic-3580)[Will be re-evaluated in one week](https://www.rotowire.com/basketball/headlines/jusuf-nurkic-injury-will-be-re-evaluated-in-one-week-540206)
+**C** Utah Jazz
+Foot
+November 20, 2026
+Nurkic (foot) has been [cleared](https://x.com/utahjazz/status/2123906754023170239) for on-court work and will be re-evaluated in one week.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/pj-washington-injury-questionable-for-saturday-540205)
+**F** Dallas Mavericks
+Shoulder
+November 20, 2026
+Washington (shoulder) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_30PM.pdf) for Saturday's game versus the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Walter Clayton](https://www.rotowire.com/basketball/player/walter-clayton-6575)[Iffy for Saturdday](https://www.rotowire.com/basketball/headlines/walter-clayton-injury-iffy-for-saturdday-540204)
+**G** Dallas Mavericks
+Knee
+November 20, 2026
+Clayton (knee) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_30PM.pdf) for Saturday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Jordan Clarkson](https://www.rotowire.com/basketball/player/jordan-clarkson-3614)[Ruled out Saturday](https://www.rotowire.com/basketball/headlines/jordan-clarkson-injury-ruled-out-saturday-540203)
+**G** New York Knicks
+Foot
+November 20, 2026
+Clarkson (foot) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) in Saturday's game against Portland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Chris Youngblood](https://www.rotowire.com/basketball/player/chris-youngblood-6663)[Still sidelined](https://www.rotowire.com/basketball/headlines/chris-youngblood-injury-still-sidelined-540202)
+**G** Portland Trail Blazers
+Heel
+November 20, 2026
+Youngblood (heel) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_15PM.pdf) for Saturday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Kingston Flemings](https://www.rotowire.com/basketball/player/kingston-flemings-6927)[Ruled out for Friday](https://www.rotowire.com/basketball/headlines/kingston-flemings-injury-ruled-out-for-friday-540201)
+**G** Atlanta Hawks
+Back
+November 20, 2026
+Flemings (back) is out for Friday's game against the Hornets, [Brad Rowland of the Locked On Podcast Network](https://x.com/BTRowland/status/2123902056498950432) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Robert Williams](https://www.rotowire.com/basketball/player/robert-williams-4382)[Off injury report for Saturday](https://www.rotowire.com/basketball/headlines/robert-williams-news-off-injury-report-for-saturday-540200)
+**C** Portland Trail Blazers
+November 20, 2026
+Williams (rest) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) on the injury report ahead of Saturday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dominick Barlow](https://www.rotowire.com/basketball/player/dominick-barlow-5670)[Probable for Saturday](https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-probable-for-saturday-540199)
+**C** Philadelphia 76ers
+Back
+November 20, 2026
+Barlow (back) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) for Saturday's game versus the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Ruled out for Saturday](https://www.rotowire.com/basketball/headlines/dean-wade-injury-ruled-out-for-saturday-540198)
+**F** Philadelphia 76ers
+Hamstring
+November 20, 2026
+Wade (hamstring) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) Saturday against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-questionable-for-saturday-540197)
+**F** New York Knicks
+Calf
+November 20, 2026
+Anunoby (calf) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) for Saturday's game against Portland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![POR](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
+[Deni Avdija](https://www.rotowire.com/basketball/player/deni-avdija-5152)[Iffy for Saturday](https://www.rotowire.com/basketball/headlines/deni-avdija-injury-iffy-for-saturday-540196)
+**F** Portland Trail Blazers
+Foot
+November 20, 2026
+Avdija (foot) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf) for Saturday's game against the Knicks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Tyrese Maxey](https://www.rotowire.com/basketball/player/tyrese-maxey-5158)[Questionable for Saturday](https://www.rotowire.com/basketball/headlines/tyrese-maxey-injury-questionable-for-saturday-540195)
+**G** Philadelphia 76ers
+Foot
+November 20, 2026
+Maxey (foot) is questionable for Saturday's game against the Bucks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-ruled-out-friday-540192)
+**F** Sacramento Kings
+Lower Leg
+November 20, 2026
+Achiuwa (lower leg) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_04_15PM.pdf) for Friday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Kyle Kuzma](https://www.rotowire.com/basketball/player/kyle-kuzma-4167)[Cleared from injury report](https://www.rotowire.com/basketball/headlines/kyle-kuzma-news-cleared-from-injury-report-540191)
+**F** Milwaukee Bucks
+November 20, 2026
+Kuzma (shoulder) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_04_15PM.pdf) for Saturday's game against the 76ers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Myles Turner](https://www.rotowire.com/basketball/player/myles-turner-3725)[Absent from injury report](https://www.rotowire.com/basketball/headlines/myles-turner-news-absent-from-injury-report-540190)
+**C** Milwaukee Bucks
+November 20, 2026
+Turner (shoulder) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_04_15PM.pdf) for Saturday's game against the 76ers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
 [Kawhi Leonard](https://www.rotowire.com/basketball/player/kawhi-leonard-3195)[Still weeks away from returning](https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-still-weeks-away-from-returning-540189)
 **F** Toronto Raptors
@@ -84,118 +201,6 @@ Barnes contributed nine points (4-7 FG, 1-3 3Pt), two rebounds and one assist in
 **G** Los Angeles Clippers
 November 20, 2026
 Wagler totaled seven points (3-10 FG, 1-4 3Pt), five rebounds, two assists and one steal in 17 minutes during Thursday's 124-112 loss to the Spurs.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Keldon Johnson](https://www.rotowire.com/basketball/player/keldon-johnson-4782)[Two steals bolster efficient outing](https://www.rotowire.com/basketball/headlines/keldon-johnson-news-two-steals-bolster-efficient-outing-540177)
-**F** San Antonio Spurs
-November 20, 2026
-Johnson registered 10 points (4-7 FG, 0-1 3Pt, 2-2 FT), five rebounds, three assists and two steals across 27 minutes during Thursday's 124-112 victory over the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Derrick Jones](https://www.rotowire.com/basketball/player/derrick-jones-4083)[Limited touches cap impact in loss](https://www.rotowire.com/basketball/headlines/derrick-jones-news-limited-touches-cap-impact-in-loss-540176)
-**F** Los Angeles Clippers
-November 20, 2026
-Jones closed with eight points (2-3 FG, 0-1 3Pt, 4-5 FT), two rebounds, one assist and two steals over 27 minutes during Thursday's 124-112 loss to the Spurs.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Quiet return yields little fantasy value](https://www.rotowire.com/basketball/headlines/isaiah-stewart-news-quiet-return-yields-little-fantasy-value-540175)
-**C** Memphis Grizzlies
-November 20, 2026
-Stewart accumulated eight points (4-9 FG, 0-2 3Pt), four rebounds and one assist across 18 minutes during Thursday's 126-98 victory over the Warriors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Ronald Holland](https://www.rotowire.com/basketball/player/ronald-holland-5939)[Upgraded to doubtful](https://www.rotowire.com/basketball/headlines/ronald-holland-injury-upgraded-to-doubtful-540174)
-**F** Detroit Pistons
-Knee
-November 20, 2026
-Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, [Hunter Patterson of The Athletic](https://x.com/HunterPatterson/status/2123832576309973312?a=ujQ_PyO4MiJfL3Cz_Xs&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Now questionable Friday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-now-questionable-friday-540173)
-**C** Chicago Bulls
-Illness
-November 20, 2026
-Smith (illness) has been [downgraded to questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_12_30PM.pdf) for Friday's game against the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)[Participates in Friday's practice](https://www.rotowire.com/basketball/headlines/adem-bona-injury-participates-in-fridays-practice-540172)
-**C** Philadelphia 76ers
-Back
-November 20, 2026
-Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, [Adam Aaronson of PhillyVoice.com](https://x.com/SixersAdam/status/2123828782100590775?a=ZiogiVW5QigNx-OedEU&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Practices fully ahead of Saturday](https://www.rotowire.com/basketball/headlines/dean-wade-injury-practices-fully-ahead-of-saturday-540171)
-**F** Philadelphia 76ers
-Hamstring
-November 20, 2026
-Wade (hamstring) participated in Friday morning's practice without restrictions, an encouraging sign for his availability for Saturday's game against the Bucks, per [Tony Jones of The Athletic](https://x.com/Tjonesonthenba/status/2123829283743220212?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Tyrese Maxey](https://www.rotowire.com/basketball/player/tyrese-maxey-5158)[Practices Friday](https://www.rotowire.com/basketball/headlines/tyrese-maxey-injury-practices-friday-540170)
-**G** Philadelphia 76ers
-Foot
-November 20, 2026
-Maxey (foot) was a full participant in Friday's practice, [Tony Jones of The Athletic](https://x.com/Tjonesonthenba/status/2123829283743220212?a=uzDyQQJ14QQC5fE3O-s&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Participates in individual work](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-participates-in-individual-work-540169)
-**F** Philadelphia 76ers
-Hamstring
-November 20, 2026
-Brown (hamstring) went through individual work during Friday's practice, [Tony Jones of The Athletic](https://x.com/Tjonesonthenba/status/2123829283743220212?a=uzDyQQJ14QQC5fE3O-s&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Dominick Barlow](https://www.rotowire.com/basketball/player/dominick-barlow-5670)[Trending in right direction](https://www.rotowire.com/basketball/headlines/dominick-barlow-injury-trending-in-right-direction-540167)
-**C** Philadelphia 76ers
-Back
-November 20, 2026
-Barlow (back) is trending toward making his season debut in Saturday's game against the Bucks, [Tony Jones of The Athletic](https://x.com/Tjonesonthenba/status/2123826792968417444?a=SCAewJNwNv5Uo1j0yn8&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Cedric Coward](https://www.rotowire.com/basketball/player/cedric-coward-6592)[Five triples extend hot shooting streak](https://www.rotowire.com/basketball/headlines/cedric-coward-news-five-triples-extend-hot-shooting-streak-540166)
-**G** Memphis Grizzlies
-November 20, 2026
-Coward logged 19 points (7-14 FG, 5-9 3Pt), four rebounds, four assists, one block and one steal across 25 minutes during Thursday's 126-98 victory over the Warriors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[Terrence Shannon](https://www.rotowire.com/basketball/player/terrence-shannon-6278)[Offers spark in loss](https://www.rotowire.com/basketball/headlines/terrence-shannon-news-offers-spark-in-loss-540165)
-**F** Minnesota Timberwolves
-November 20, 2026
-Shannon had 10 points (4-9 FG, 2-2 FT), four rebounds, three assists and one steal across 21 minutes during Thursday's 102-99 loss to the Knicks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Tyler Kolek](https://www.rotowire.com/basketball/player/tyler-kolek-6273)[Dishes out five dimes Thursday](https://www.rotowire.com/basketball/headlines/tyler-kolek-news-dishes-out-five-dimes-thursday-540164)
-**G** New York Knicks
-November 20, 2026
-Kolek recorded six points (1-4 FG, 1-3 3Pt, 3-3 FT), five assists and three rebounds across 12 minutes during Thursday's 102-99 victory over the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Landry Shamet](https://www.rotowire.com/basketball/player/landry-shamet-4414)[Adds 10 points in win](https://www.rotowire.com/basketball/headlines/landry-shamet-news-adds-10-points-in-win-540162)
-**G** New York Knicks
-November 20, 2026
-Shamet totaled 10 points (3-4 FG, 2-3 3Pt, 2-2 FT), two assists, one rebound and one steal in 30 minutes during Thursday's 102-99 victory over the Timberwolves.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Cam Spencer](https://www.rotowire.com/basketball/player/cam-spencer-6297)[Career-high 11 assists fuel rout](https://www.rotowire.com/basketball/headlines/cam-spencer-news-career-high-11-assists-fuel-rout-540161)
-**G** Memphis Grizzlies
-November 20, 2026
-Spencer posted nine points (3-8 FG, 1-4 3Pt, 2-2 FT), two rebounds, 11 assists and one steal over 27 minutes during Thursday's 126-98 win over the Warriors.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
