@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 11:16 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-20 16:12 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+6h
 Link
 ![Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1d967605b689e1aa33b7806b22778dba3041376d-4930x3286.jpg%3Frect%3D115%2C0%2C4701%2C2326%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Picks at a Glance**
@@ -38,8 +38,8 @@ FanDuel and Prime Video are bringing betting and streaming together in one place
 Raptors at Pistons — 7:30 p.m. ET
 Spread
 Toronto Raptors
-+6.5
--106
++7.5
+-112
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 The [Raptors](https://sportsbook.fanduel.com/teams/nba/toronto-raptors/odds) are underdogs for good reason, but the gap between these teams is not quite as wide as their records suggest. 
@@ -50,7 +50,7 @@ With RJ Barrett listed out, the Raptors will need additional creation from Scott
 Suns at Jazz — 9:30 p.m. ET
 Moneyline
 Utah Jazz
-+152
++156
 Nov 21 2:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/phoenix-suns-@-utah-jazz-36334578)
 Odds/lines subject to change
 I think the [Jazz](https://sportsbook.fanduel.com/teams/nba/utah-jazz/stats) ML is worth a look with Utah at home. 
@@ -93,22 +93,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-1h
+6h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-2h
+6h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-2h
+7h
 What are the top NBA player props to target today? Friday's best NBA prop bets.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-12h
+17h
 Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
 
@@ -128,7 +128,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+7h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F77cabe5140b54007335e47d1317664ab4c7d02c5-4500x3000.jpg%3Frect%3D0%2C8%2C4500%2C2227%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -152,7 +152,7 @@ Wizards at Bulls — 8:00 p.m. ET
 Alex Sarr - Rebounds
 Alex Sarr Over
 O 6.5
--136
+-130
 Nov 21 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-chicago-bulls-36334582)
 Odds/lines subject to change
 [Alex Sarr](https://sportsbook.fanduel.com/teams/nba/roster/alex-sarr-3289) averages 6.9 rebounds per game for the [Washington Wizards](https://sportsbook.fanduel.com/teams/nba/washington-wizards/roster) and has cleared 6.5 rebounds in eight of his last 10 games. The clash with the [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/teams) carries one of Friday’s highest game totals (239.5), potentially supplying plenty of opportunities for rebounds. 
@@ -173,7 +173,7 @@ Rockets at Nuggets — 10:00 p.m. ET
 Aaron Gordon - Rebounds
 Aaron Gordon Over
 O 4.5
--114
+-120
 Nov 21 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/houston-rockets-@-denver-nuggets-36334581)
 Odds/lines subject to change
 [Aaron Gordon](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) is averaging 5.0 rebounds per game for the [Denver Nuggets](https://sportsbook.fanduel.com/teams/nba/roster/aaron-gordon-2252) and has secured at least five in six of his last 10 outings. This modest threshold does not require an unusually active rebounding night, and Gordon grabbed five boards against the [Houston Rockets](https://sportsbook.fanduel.com/teams/nba/teams) earlier this month despite scoring only three points. 
@@ -219,22 +219,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-1h
+6h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-2h
+6h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-2h
+7h
 What are the top NBA player props to target today? Friday's best NBA prop bets.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-12h
+17h
 Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
 
@@ -254,7 +254,7 @@ START YOUR OWN WINNING STREAK
 # Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-1h
+6h
 Link
 ![Raptors vs. Pistons Prediction, Picks and Prop Bets \(Nov. 20\)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c7ba9ad5d3a5c72c3f8527869ae5a1a0d406748-2048x1365.jpg%3Frect%3D0%2C205%2C1920%2C950%26w%3D964%26h%3D477&w=1920&q=100)
 **Raptors vs. Pistons Top Bets at a Glance**
@@ -275,8 +275,8 @@ FanDuel and Prime Video are bringing betting and streaming together in one place
 ### [Raptors +7.5 (-110)](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Spread
 Toronto Raptors
-+6.5
--106
++7.5
+-112
 Nov 21 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/toronto-raptors-@-detroit-pistons-36334574)
 Odds/lines subject to change
 The [Raptors](https://sportsbook.fanduel.com/teams/nba/toronto-raptors/odds) are underdogs for good reason, but the gap between these teams is not quite as wide as their records suggest. 
@@ -319,22 +319,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-1h
+6h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-2h
+6h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-2h
+7h
 What are the top NBA player props to target today? Friday's best NBA prop bets.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-12h
+17h
 Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
 
@@ -343,7 +343,7 @@ Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/unde
 ---
 ## SOURCE: https://www.fanduel.com/research/nba-predictions-odds-11-20-2026
 
-Title: NBA Predictions, Odds and Betting Lines - November 20
+Title: NBA Predictions, Odds and Betting Lines - November 20 | FanDuel Research
 
 URL Source: https://www.fanduel.com/research/nba-predictions-odds-11-20-2026
 
@@ -667,7 +667,7 @@ START YOUR OWN WINNING STREAK
 
 ![Image 51: SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 
-[See Promos](https://sportsbook.fanduel.com/promotions)
+[](https://www.fanduel.com/research/[slug])
 
 ![Image 52: Chevrons Texture](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe0b0a425fa82026919c0e289dd2624c153536b20-485x66.png&w=1080&q=100)
 
@@ -682,7 +682,7 @@ START YOUR OWN WINNING STREAK
 
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
 
-17h
+22h
 
 Subscribe to our newsletter
 
@@ -694,16 +694,16 @@ I confirm I am 21+ years of age
 
 ![Image 54: NBA Predictions, Odds and Betting Lines - November 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F13f27adc66989eaf508d7469fe6473d7938a3932-4464x2976.jpg%3Frect%3D0%2C384%2C4464%2C2209%26w%3D964%26h%3D477&w=1920&q=100)
 
-In one of the many compelling matchups on the NBA slate today, the Houston Rockets and the Denver Nuggets take the floor at Ball Arena.
+The matchups in a Friday NBA slate that shouldn't be missed include the Houston Rockets taking on the Denver Nuggets at Ball Arena.
 
-Ready to explore the betting info for today's NBA action? Let's analyze them together.
+Don't miss out on all of the NBA action today. We've got the inside scoop on the betting info you need to get an edge.
 
 ### Atlanta Hawks vs. Charlotte Hornets
 
 *   **Projected Favorite:** Hawks (56.19% win probability)
 *   **Spread:** Hawks (-6.5)
 *   **Total:** 219.5
-*   **Moneyline:** Hawks -245, Hornets +200
+*   **Moneyline:** Hawks -255, Hornets +210
 *   **Time:** 7:00 PM ET
 *   **TV Channel:** WANF, Peachtree Sports Network, WAXN, DAZN-CHA, Prime-ATL
 
@@ -712,9 +712,9 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 ### Brooklyn Nets vs. Orlando Magic
 
 *   **Projected Favorite:** Magic (66.30% win probability)
-*   **Spread:** Magic (-5.5)
-*   **Total:** 223.5
-*   **Moneyline:** Magic -230, Nets +190
+*   **Spread:** Magic (-6.5)
+*   **Total:** 222.5
+*   **Moneyline:** Magic -250, Nets +205
 *   **Time:** 7:30 PM ET
 *   **TV Channel:** YES, DAZN-YES, WRDQ, DAZN-ORL
 
@@ -724,8 +724,8 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 
 *   **Projected Favorite:** Pistons (74.13% win probability)
 *   **Spread:** Pistons (-7.5)
-*   **Total:** 217.5
-*   **Moneyline:** Pistons -295, Raptors +240
+*   **Total:** 216.5
+*   **Moneyline:** Pistons -270, Raptors +220
 *   **Time:** 7:30 PM ET
 *   **TV Channel:** Amazon Prime Video
 
@@ -734,9 +734,9 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 ### Cleveland Cavaliers vs. Indiana Pacers
 
 *   **Projected Favorite:** Cavaliers (83.24% win probability)
-*   **Spread:** Cavaliers (-7.5)
-*   **Total:** 233.5
-*   **Moneyline:** Cavaliers -270, Pacers +220
+*   **Spread:** Cavaliers (-5.5)
+*   **Total:** 234.5
+*   **Moneyline:** Cavaliers -220, Pacers +184
 *   **Time:** 7:30 PM ET
 *   **TV Channel:** DAZN-CLE, WTTV, DAZN-IND
 
@@ -746,8 +746,8 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 
 *   **Projected Favorite:** Bulls (63.26% win probability)
 *   **Spread:** Bulls (-2.5)
-*   **Total:** 239.5
-*   **Moneyline:** Bulls -146, Wizards +124
+*   **Total:** 238.5
+*   **Moneyline:** Bulls -130, Wizards +110
 *   **Time:** 8:00 PM ET
 *   **TV Channel:** CHSN, CHSN App, MNMT, Monumental+
 
@@ -757,8 +757,8 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 
 *   **Projected Favorite:** Thunder (86.40% win probability)
 *   **Spread:** Thunder (-11.5)
-*   **Total:** 229.5
-*   **Moneyline:** Thunder -592, Pelicans +440
+*   **Total:** 228.5
+*   **Moneyline:** Thunder -621, Pelicans +460
 *   **Time:** 8:00 PM ET
 *   **TV Channel:** KSBI, Thunder+, Gulf Coast Sports, Pelicans+
 
@@ -769,7 +769,7 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 *   **Projected Favorite:** Suns (66.37% win probability)
 *   **Spread:** Suns (-4.5)
 *   **Total:** 225.5
-*   **Moneyline:** Suns -180, Jazz +152
+*   **Moneyline:** Suns -186, Jazz +156
 *   **Time:** 9:30 PM ET
 *   **TV Channel:** KJZZ, Jazz+, AZFamily, Suns+
 
@@ -780,7 +780,7 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 *   **Projected Favorite:** Lakers (85.82% win probability)
 *   **Spread:** Lakers (-14.5)
 *   **Total:** 229.5
-*   **Moneyline:** Lakers -901, Kings +610
+*   **Moneyline:** Lakers -952, Kings +640
 *   **Time:** 10:00 PM ET
 *   **TV Channel:** Spectrum SportsNet, Spectrum SportsNet+, NBCS-CA, PCK-SAC
 
@@ -790,8 +790,8 @@ Ready to explore the betting info for today's NBA action? Let's analyze them tog
 
 *   **Projected Favorite:** Nuggets (56.55% win probability)
 *   **Spread:** Nuggets (-1.5)
-*   **Total:** 225.5
-*   **Moneyline:** Nuggets -120, Rockets +102
+*   **Total:** 226.5
+*   **Moneyline:** Nuggets -122, Rockets +104
 *   **Time:** 10:00 PM ET
 *   **TV Channel:** Amazon Prime Video
 
@@ -823,41 +823,41 @@ I confirm I am 21+ years of age
 
 ### Recent Stories
 
-[3 Best NFL Player Props to Target This Week (Week 11)](https://www.fanduel.com/research/3-best-nfl-player-props-to-target-for-week-11)
-
-40m
-
-![Image 57: 3 Best NFL Player Props to Target This Week (Week 11)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F961e876d2fcf1bcde40ec76c840cf5cb27b3281a-5341x3560.jpg%3Frect%3D387%2C0%2C4405%2C2388%26w%3D332%26h%3D180&w=330&q=100)
-
-[College Football Picks Today: 3 Predictions and Best Bets for Friday, Nov. 20](https://www.fanduel.com/research/college-football-picks-today-predictions-best-bets-friday-nov-20)
-
-1h
-
-![Image 58: College Football Picks Today: 3 Predictions and Best Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F688eac1210b7e15b37521a614b59af99b8a75637-3840x2160.jpg%3Frect%3D254%2C103%2C3552%2C1926%26w%3D332%26h%3D180&w=330&q=100)
-
-[Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-
-1h
-
-![Image 59: Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c7ba9ad5d3a5c72c3f8527869ae5a1a0d406748-2048x1365.jpg%3Frect%3D0%2C160%2C1920%2C1041%26w%3D332%26h%3D180&w=330&q=100)
-
-[Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
+[College Football Picks and Predictions for Today: Friday, Nov. 20](https://www.fanduel.com/research/college-football-picks-predictions-today-friday-nov-20)
 
 2h
 
-![Image 60: Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1d967605b689e1aa33b7806b22778dba3041376d-4930x3286.jpg%3Frect%3D320%2C0%2C4290%2C2326%26w%3D332%26h%3D180&w=330&q=100)
+![Image 57: College Football Picks and Predictions for Today: Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd8b9001864f71fd6daa1bef76c8edd3c4c53829e-3317x2212.jpg%3Frect%3D135%2C0%2C3049%2C1653%26w%3D332%26h%3D180&w=330&q=100)
 
-[NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-
-2h
-
-![Image 61: NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F77cabe5140b54007335e47d1317664ab4c7d02c5-4500x3000.jpg%3Frect%3D184%2C0%2C4133%2C2241%26w%3D332%26h%3D180&w=330&q=100)
-
-[NFL Touchdown Bets: 3 Best NFL TD Picks for This Week (Week 11)](https://www.fanduel.com/research/nfl-touchdown-bets-picks-week-11)
+[College Football Props: 3 Best Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/college-football-props-player-prop-bets-saturday-nov-21)
 
 2h
 
-![Image 62: NFL Touchdown Bets: 3 Best NFL TD Picks for This Week (Week 11)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe51fc3ac15157ed102f83d1929d7b3b2f14ca666-3489x2326.jpg%3Frect%3D92%2C0%2C3383%2C1834%26w%3D332%26h%3D180&w=330&q=100)
+![Image 58: College Football Props: 3 Best Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F642ad58dc2aa91d505fd0a6d17c00b94b04d5ac0-3893x2595.jpg%3Frect%3D253%2C0%2C3388%2C1837%26w%3D332%26h%3D180&w=330&q=100)
+
+[NFL DFS Picks for Week 11: Best FanDuel Plays for This Week](https://www.fanduel.com/research/nfl-dfs-picks-week-11-fanduel-this-week)
+
+2h
+
+![Image 59: NFL DFS Picks for Week 11: Best FanDuel Plays for This Week](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F97689e1f6dd8e6d5993461aa9b567abccf007575-4061x2716.jpg%3Frect%3D0%2C314%2C3534%2C1916%26w%3D332%26h%3D180&w=330&q=100)
+
+[Bowling Green vs Toledo Prediction, College Football Picks, Odds and Best Bets Tonight](https://www.fanduel.com/research/bowling-green-vs-toledo-prediction-college-football-picks-odds-and-best-bets-tonight)
+
+2h
+
+![Image 60: Bowling Green vs Toledo Prediction, College Football Picks, Odds and Best Bets Tonight](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe76bc947bd9edea77e66876e904c0aabf7450ac8-4679x3120.jpg%3Frect%3D0%2C292%2C4679%2C2537%26w%3D332%26h%3D180&w=330&q=100)
+
+[Clemson vs Duke Prediction, Picks, College Football Odds, Player Props & Best Bets Tonight](https://www.fanduel.com/research/clemson-vs-duke-prediction-picks-college-football-odds-player-props-and-best-bets-tonight)
+
+3h
+
+![Image 61: Clemson vs Duke Prediction, Picks, College Football Odds, Player Props & Best Bets Tonight](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F51d53c3ad39e1965e197da472b3d1510f3119d43-3840x2160.jpg%3Frect%3D0%2C39%2C3840%2C2082%26w%3D332%26h%3D180&w=330&q=100)
+
+[Iowa State vs UCF Prediction, College Football Picks, Player Props, Odds & Best Bets Today](https://www.fanduel.com/research/iowa-state-vs-ucf-prediction-college-football-picks-player-props-odds-and-best-bets-today)
+
+4h
+
+![Image 62: Iowa State vs UCF Prediction, College Football Picks, Player Props, Odds & Best Bets Today](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F71c49cd413f3575c7b315f798537054dad626a8d-5307x3538.jpg%3Frect%3D0%2C331%2C5307%2C2877%26w%3D332%26h%3D180&w=330&q=100)
 
 Show more news
 
@@ -865,59 +865,21 @@ Show more news
 
 [View All](https://sportsbook.fanduel.com/promotions)
 
-![Image 63: Check Your Stats With My Spend](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F5%2F27%2F2026-05-27_14-29-33_600x300.jpg&w=1920&q=100)
+![Image 63: College Football Pick’em](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F1%2F2026-09-01_15-14-26_600x300.jpg&w=1920&q=100)
 
-[More Info](https://va.sportsbook.fanduel.com/promotions?promoCode=VASBKRGMSCCSTAT)[Check My Stats](https://account.va.sportsbook.fanduel.com/my-spend)
+[More Info](https://ny.sportsbook.fanduel.com/promotions?promoCode=CFBPICKFTPST1118)[Play Free](https://account.sportsbook.fanduel.com/free/contest/collegefootballpickem)
 
-![Image 64: Refer-A-Friend Get Bonus Bets](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F29%2F2026-09-29_18-54-00_600x300.jpg&w=1920&q=100)
+![Image 64: Bet $5, Get $50 for 4 days](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
 
-[More Info](https://nc.sportsbook.fanduel.com/promotions?promoCode=RAF092126STAT)[Invite friends](https://sportsbook.fanduel.com/refer)
+[More Info](https://mi.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
 
-![Image 65: Faceoff Daily Reward Locker](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F4%2F16%2F2026-04-16_13-59-14_600x300.jpg&w=1920&q=100)
+![Image 65: CFB Pick'em Week 11 - Partner Picks](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F9%2F4%2F2026-09-04_15-48-18_600x300.jpg&w=1920&q=100)
 
-[More Info](https://il.sportsbook.fanduel.com/promotions?promoCode=FODLYRWDLKR1116)[Open Your Locker](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
+[More Info](https://md.sportsbook.fanduel.com/promotions?promoCode=STCFBPICKEM1120)[See Picks](https://www.fanduel.com/beat-the-boys)
 
-![Image 66: Bet $5, Get $50 for 4 days](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F29%2F2026-10-29_13-32-17_600x300.jpg&w=1920&q=100)
+![Image 66: NBA Amazon Reward Escalator](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F3%2F2026-11-03_14-41-47_600x300.jpg&w=1920&q=100)
 
-[More Info](https://nj.sportsbook.fanduel.com/promotions?promoCode=ACQB5G200BB1102)[Join Now](https://va.sportsbook.fanduel.com/login?external-referrer-next=promotions%3FpromoCode%3DACQB5G200BB1102)
-
-## More Articles You May Like
-
-[NBA](https://www.fanduel.com/research/nba)
-## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-
-1h
-
-Raptors vs Pistons picks and prop bets for today.
-
-[![Image 67: Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7c7ba9ad5d3a5c72c3f8527869ae5a1a0d406748-2048x1365.jpg%3Frect%3D0%2C205%2C1920%2C950%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-
-[NBA](https://www.fanduel.com/research/nba)
-## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-
-2h
-
-What are the best NBA bets for Friday's slate?
-
-[![Image 68: Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1d967605b689e1aa33b7806b22778dba3041376d-4930x3286.jpg%3Frect%3D115%2C0%2C4701%2C2326%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-
-[NBA](https://www.fanduel.com/research/nba)
-## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-
-2h
-
-What are the top NBA player props to target today? Friday's best NBA prop bets.
-
-[![Image 69: NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F77cabe5140b54007335e47d1317664ab4c7d02c5-4500x3000.jpg%3Frect%3D0%2C8%2C4500%2C2227%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-
-[NBA](https://www.fanduel.com/research/nba)
-## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-
-12h
-
-Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
-
-[![Image 70: Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc127ab30141098d50171a49d9221de0e28c95836-6844x4563.jpg%3Frect%3D0%2C589%2C6844%2C3387%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
+[More Info](https://la.sportsbook.fanduel.com/promotions?promoCode=LONBAPBTRE1120)[Log In](https://sportsbook.fanduel.com/login)
 
 *   ### ABOUT
 
@@ -1053,31 +1015,31 @@ Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/unde
 
 © Betfair Interactive US LLC, 2026
 
-Gambling Problem? Call![Image 71: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 72: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 73: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 74: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 75: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 76: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
+Gambling Problem? Call![Image 67: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 68: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 69: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 70: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 71: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 72: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
 
 Persons under 21 are not permitted to engage in sports wagering. For customer support please[contact us](https://sportsbook.fanduel.com/support).
 
-![Image 77: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
+![Image 73: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
 
-![Image 78: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
+![Image 74: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
 
-![Image 79: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
+![Image 75: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
 
-![Image 80: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
+![Image 76: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
 
-![Image 81: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
+![Image 77: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
 
-![Image 82: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
+![Image 78: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
 
-![Image 83: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
+![Image 79: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
 
-![Image 84: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
+![Image 80: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
 
-![Image 85: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
+![Image 81: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
 
-![Image 86: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
+![Image 82: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
 
-![Image 87: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
+![Image 83: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
 
 [Back to top](https://www.fanduel.com/research/nba-predictions-odds-11-20-2026#)
 
@@ -1097,7 +1059,7 @@ START YOUR OWN WINNING STREAK
 # Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-12h
+17h
 Link
 ![Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc127ab30141098d50171a49d9221de0e28c95836-6844x4563.jpg%3Frect%3D0%2C589%2C6844%2C3387%26w%3D964%26h%3D477&w=1920&q=100)
 ## Nuggets vs. Rockets Game Info
@@ -1107,7 +1069,7 @@ Link
   * **Coverage:** Amazon Prime Video
 
 
-The Denver Nuggets (8-5) are favored by 1.5 points against the Houston Rockets (12-4) on Friday, November 20, 2026 at 10 p.m. ET. The matchup airs on Amazon Prime Video. The matchup has an over/under of 225.5 points.
+The Houston Rockets (12-4) are just 1.5-point underdogs against the Denver Nuggets (8-5) at Ball Arena on Friday, November 20, 2026. The game starts at 10 p.m. ET on Amazon Prime Video. The matchup's point total is 226.5.
 ## Nuggets vs. Rockets Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -1117,30 +1079,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Nuggets win (56.6%)
 ## Nuggets vs. Rockets Betting Trends
-  * The Nuggets are 6-7-0 against the spread this season.
-  * Against the spread, the Rockets are 11-5-0 this season.
-  * Games involving the Nuggets have hit the over five times out of 16 chances this season.
-  * Rockets games this year have hit the over 62.5% of the time (10 out of 16 games with a set point total).
-  * Denver sports a worse record against the spread at home (2-4-0) than it does in away games (4-3-0).
+  * The Nuggets have registered a 6-7-0 record against the spread this season.
+  * The Rockets have played 16 games, with 11 wins against the spread.
+  * Nuggets games have finished with a final combined score above the over/under five times out of 16 chances this season.
+  * Rockets games this season have gone over the point total 62.5% of the time (10 out of 16 games with a set point total).
+  * Denver owns a worse record against the spread in home games (2-4-0) than it does on the road (4-3-0).
   * The Nuggets have eclipsed the total in three of six home games (50%), compared to two of seven road games (28.6%).
-  * Against the spread, Houston has been better at home (6-2-0) than on the road (5-3-0).
-  * Both at home (five of eight) and away (five of eight), the Rockets' games have finished over (in terms of the over/under) 62.5% of the time.
+  * In 2026-27 against the spread, Houston has a better winning percentage at home (.750, 6-2-0 record) than on the road (.625, 5-3-0).
+  * Rockets games have finished above the over/under 62.5% of the time both at home (five of eight) and on the road (five of eight) this season.
 
 
 ## Nuggets Leaders
-  * Nikola Jokic averages 24.1 points, 10.7 rebounds and 8.9 assists.
-  * Jamal Murray averages 25.7 points, 5.2 boards and 5.7 assists, shooting 50.7% from the field and 46.2% from downtown (10th in NBA), with 3.3 made 3-pointers per game (10th in NBA).
-  * Christian Braun averages 12.8 points, 4.3 boards and 2.4 assists, shooting 47.1% from the field and 31.7% from downtown, with 1.5 made treys per contest.
-  * Aaron Gordon is averaging 11.2 points, 1.9 assists and 4.9 rebounds.
-  * DeMar DeRozan is averaging 9.9 points, 2.7 assists and 2.0 rebounds.
+  * Nikola Jokic is averaging 24.1 points, 8.9 assists and 10.7 rebounds.
+  * Jamal Murray averages 25.7 points, 5.2 boards and 5.7 assists.
+  * Christian Braun averages 12.8 points, 4.3 boards and 2.4 assists.
+  * Aaron Gordon is averaging 11.2 points, 4.9 rebounds and 1.9 assists. At the other end, he averages 0.9 steals and 0.5 blocked shots.
+  * DeMar DeRozan is averaging 9.9 points, 2 boards and 2.7 assists.
 
 
 ## Rockets Leaders
-  * Per game, Alperen Sengun gives the Rockets 21.6 points, 9.1 rebounds and 6.8 assists. He also averages 1.1 steals and 0.9 blocks.
-  * The Rockets receive 21.3 points per game from Kevin Durant, plus 5.3 boards and 3.8 assists.
-  * The Rockets get 15.7 points per game from Amen Thompson, plus 7.1 rebounds and 3.3 assists.
-  * Per game, Jabari Smith Jr. provides the Rockets 15.3 points, 6.4 rebounds and 2.1 assists, plus 0.7 steals and 1.0 block.
-  * Tari Eason averages 10.6 points, 6.1 boards and 1.5 assists. He is making 42.8% of his shots from the field and 26.7% from 3-point range, with 1.0 triples per game.
+  * Per game, Alperen Sengun provides the Rockets 21.6 points, 9.1 rebounds and 6.8 assists. He also averages 1.1 steals and 0.9 blocks.
+  * Kevin Durant's numbers on the season are 21.3 points, 5.3 rebounds and 3.8 assists per contest. He is draining 49.8% of his shots from the field and 40.6% from 3-point range, with an average of 1.6 treys.
+  * Amen Thompson's numbers on the season are 15.7 points, 7.1 boards and 3.3 assists per contest. He is making 53.6% of his shots from the floor.
+  * Jabari Smith Jr.'s numbers on the season are 15.3 points, 6.4 boards and 2.1 assists per contest. He is draining 45.5% of his shots from the floor and 38.8% from beyond the arc, with an average of 2.4 treys.
+  * Tari Eason's numbers on the season are 10.6 points, 6.1 boards and 1.5 assists per contest. He is sinking 42.8% of his shots from the floor and 26.7% from 3-point range, with an average of 1 triples.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -1150,22 +1112,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-1h
+6h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-2h
+6h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-2h
+7h
 What are the top NBA player props to target today? Friday's best NBA prop bets.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-12h
+17h
 Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
 
@@ -1185,7 +1147,7 @@ START YOUR OWN WINNING STREAK
 # Thunder vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 20
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-13h
+17h
 Link
 ![Thunder vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F626c8146a065422d1f07d355f8512438b882f621-2837x1892.jpg%3Frect%3D0%2C244%2C2837%2C1404%26w%3D964%26h%3D477&w=1920&q=100)
 ## Thunder vs. Pelicans Game Info
@@ -1195,7 +1157,7 @@ Link
   * **Coverage:** KSBI, Thunder+, Gulf Coast Sports, and Pelicans+
 
 
-The Oklahoma City Thunder (9-6) are double-digit, 11.5-point favorites against the New Orleans Pelicans (5-11) on Friday, November 20, 2026 at 8 p.m. ET. The matchup airs on KSBI, Thunder+, Gulf Coast Sports, and Pelicans+. The over/under is set at 229.5 for the matchup.
+The Oklahoma City Thunder (9-6) square off against the New Orleans Pelicans (5-11) as heavy, 11.5-point favorites on Friday, November 20, 2026 at 8 p.m. ET on KSBI, Thunder+, Gulf Coast Sports, and Pelicans+. The matchup has an over/under set at 228.5 points.
 ## Thunder vs. Pelicans Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -1205,30 +1167,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Thunder win (86.4%)
 ## Thunder vs. Pelicans Betting Trends
-  * The Thunder have put together a record of 8-7-0 against the spread this season.
-  * The Pelicans are 8-8-0 against the spread this year.
-  * Games involving the Thunder have hit the over seven times out of 16 chances this season.
-  * Pelicans games this year have eclipsed the over/under 56.2% of the time (nine out of 16 games with a set point total).
-  * When playing at home, Oklahoma City owns a better record against the spread (4-2-0) compared to its ATS record on the road (4-5-0).
-  * The Thunder have exceeded the total in a higher percentage of home games (50%) than games on the road (44.4%).
-  * New Orleans' winning percentage against the spread at home is .455 (5-6-0). On the road, it is .600 (3-2-0).
-  * In terms of the over/under, Pelicans games have gone over less often at home (six of 11, 54.5%) than away (three of five, 60%).
+  * The Thunder have covered the spread in a game eight times this season (8-7-0).
+  * The Pelicans have played 16 games, with eight wins against the spread.
+  * This season, seven of the Thunder's games have gone over the point total out of 16 chances.
+  * Pelicans games this season have gone over the point total 56.2% of the time (nine out of 16 games with a set point total).
+  * At home, Oklahoma City owns a better record against the spread (4-2-0) compared to its ATS record in away games (4-5-0).
+  * The Thunder have gone over the over/under more consistently when playing at home, hitting the over in three of six home matchups (50%). On the road, they have hit the over in four of nine games (44.4%).
+  * New Orleans' winning percentage against the spread at home is .455 (5-6-0). Away, it is .600 (3-2-0).
+  * Pelicans games have gone above the over/under less often at home (six times out of 11) than away (three of five) this year.
 
 
 ## Thunder Leaders
-  * Shai Gilgeous-Alexander averages 31.1 points, 4.1 rebounds and 4.3 assists, shooting 47.6% from the floor and 35.8% from beyond the arc, with 2.3 made 3-pointers per contest.
-  * Isaiah Hartenstein averages 8.4 points, 11.0 rebounds and 3.9 assists.
-  * Ajay Mitchell is averaging 17.7 points, 3.8 rebounds and 3.6 assists. Defensively, he averages 1.2 steals and 0.5 blocked shots.
-  * Aday Mara's numbers on the season are 9.2 points, 6.5 boards and 1.9 assists per game, shooting 63.5% from the field (second in league).
-  * Jared McCain is averaging 13.7 points, 1.8 assists and 3.4 boards.
+  * Shai Gilgeous-Alexander is averaging 31.1 points, 4.3 assists and 4.1 boards.
+  * Isaiah Hartenstein is averaging 8.4 points, 11 rebounds and 3.9 assists. Defensively, he averages 1 steal and 0.3 blocked shots.
+  * Ajay Mitchell averages 17.7 points, 3.8 boards and 3.6 assists.
+  * Aday Mara is averaging 9.2 points, 6.5 boards and 1.9 assists.
+  * Jared McCain is averaging 13.7 points, 3.4 boards and 1.8 assists. Defensively, he averages 0.9 steals and 0.2 blocked shots.
 
 
 ## Pelicans Leaders
-  * Zion Williamson averages 21.7 points, 5.4 boards and 2.5 assists. He is also sinking 59.6% of his shots from the floor (sixth in league).
-  * Per game, Jeremiah Fears gets the Pelicans 15.6 points, 4.9 rebounds and 5.4 assists. He also averages 1.0 steal and 0.5 blocks.
-  * Saddiq Bey's numbers on the season are 16.5 points, 4.4 rebounds and 2.6 assists per game. He is sinking 44.4% of his shots from the field and 39.4% from beyond the arc, with an average of 2.3 triples.
-  * Derik Queen's numbers on the season are 12.0 points, 6.4 rebounds and 2.1 assists per contest. He is draining 49.6% of his shots from the floor.
-  * The Pelicans are receiving 15.6 points, 4.8 boards and 3.6 assists per game from Trey Murphy III.
+  * Zion Williamson averages 21.7 points for the Pelicans, plus 5.4 boards and 2.5 assists.
+  * The Pelicans are getting 15.6 points, 4.9 rebounds and 5.4 assists per game from Jeremiah Fears.
+  * Saddiq Bey averages 16.5 points, 4.4 boards and 2.6 assists. He is making 44.4% of his shots from the field and 39.4% from 3-point range, with 2.3 treys per game.
+  * Derik Queen averages 12 points, 6.4 rebounds and 2.1 assists. He is making 49.6% of his shots from the field.
+  * The Pelicans are receiving 15.6 points, 4.8 rebounds and 3.6 assists per game from Trey Murphy III.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -1238,22 +1200,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Pistons Prediction, Picks and Prop Bets (Nov. 20)](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
-1h
+6h
 Raptors vs Pistons picks and prop bets for today.
 [](https://www.fanduel.com/research/raptors-vs-pistons-prediction-picks-and-prop-bets-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Picks Today: 3 NBA Predictions for Friday, Nov. 20](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
-2h
+6h
 What are the best NBA bets for Friday's slate?
 [](https://www.fanduel.com/research/best-nba-picks-today-predictions-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
-2h
+7h
 What are the top NBA player props to target today? Friday's best NBA prop bets.
 [](https://www.fanduel.com/research/nba-props-today-player-prop-bets-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Nuggets vs. Rockets Prediction, Odds, Picks, Best Bets for Nov. 20](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
-13h
+17h
 Find Nuggets vs. Rockets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 20 NBA matchup.
 [](https://www.fanduel.com/research/nuggets-vs-rockets-prediction-nba-odds-spread-best-bets-for-11-20-2026)
 
