@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-20 18:35 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-20 18:49 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -418,15 +418,39 @@ Sponsored Headlines
 
 [](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
 
+Undo
+
 [](https://www.esquire.com/lifestyle/health/a74084374/how-i-took-control-of-my-weight-loss-journey)[How I Took Control of My Weight Loss Journey | Paid Partnership with Novo Nordisk |Esquire | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.esquire.com/lifestyle/health/a74084374/how-i-took-control-of-my-weight-loss-journey "How I Took Control of My Weight Loss Journey | Paid Partnership with Novo Nordisk |")
+
+Undo
 
 [](https://rhs.search.yahoo.com/rhs)[Search for phone answering service for law firm Yahoo Search | Law Firm Answering Service | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://rhs.search.yahoo.com/rhs "Search for phone answering service for law firm")
 
+Undo
+
 [](https://rhs.search.yahoo.com/rhs)[Search for the best reverse mortgages Yahoo Search | Reverse Mortgage | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for the best reverse mortgages")
+
+Undo
 
 [](https://rhs.search.yahoo.com/rhs)[Search for should 75 year olds select Medicare Supplement plan G Yahoo Search | Medicare plan G | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://rhs.search.yahoo.com/rhs "Search for should 75 year olds select Medicare Supplement plan G")
 
+Undo
+
 [](https://secure.lanural.com/tb-new-research-3)[Constipated? Most People Take Fiber. Gut Doctors Do This Instead Lanural | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://secure.lanural.com/tb-new-research-3 "Constipated? Most People Take Fiber. Gut Doctors Do This Instead")
+
+Undo
+
+[](https://rhs.search.yahoo.com/rhs)[Search for brand protecion demo request Yahoo Search | Brand protection | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for brand protecion demo request")
+
+Undo
+
+[](https://rhs.search.yahoo.com/rhs)[Search for EOR remote Yahoo Search | EOR remote | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for EOR remote")
+
+Undo
+
+[](https://rhs.search.yahoo.com/rhs)[Search for best SOC2 type 2 compliance Yahoo Search | SOC2 type 2 | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for best SOC2 type 2 compliance")
+
+Undo
 
 ### NBA News
 
@@ -442,23 +466,37 @@ Sponsored Headlines
 
 [](https://financefalcons.com/qs-best-credit-cards)[Business, travel, cash back or 0% APR? Compare Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Compare](https://financefalcons.com/qs-best-credit-cards "Business, travel, cash back or 0% APR? Compare")
 
+Undo
+
 [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)
 
 Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Read More
 
+Undo
+
 Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Read More
+
+Undo
 
 How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Read More
 
+Undo
+
 The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
 
 Read More
+
+Undo
+
+[](https://rhs.search.yahoo.com/rhs)[Search for eHealth Yahoo Search | eHealth | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for eHealth")
+
+Undo
 
 ![Image 57: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

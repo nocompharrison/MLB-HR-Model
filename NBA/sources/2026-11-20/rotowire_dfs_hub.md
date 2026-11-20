@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-20 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-20 18:49 ET -->
 
 # NBA DFS Picks Today
 November 20, 2026
@@ -24,6 +24,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, November 20 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Atlanta Hawks (CHA @ ATL) Brooklyn Nets (ORL @ BKN) Charlotte Hornets (CHA @ ATL) Chicago Bulls (WSH @ CHI) Cleveland Cavaliers (IND @ CLE) Denver Nuggets (HOU @ DEN) Detroit Pistons (TOR @ DET) Houston Rockets (HOU @ DEN) Indiana Pacers (IND @ CLE) Los Angeles Lakers (SAC @ LAL) New Orleans Pelicans (NOP @ OKC) Oklahoma City Thunder (NOP @ OKC) Orlando Magic (ORL @ BKN) Phoenix Suns (PHX @ UTA) Sacramento Kings (SAC @ LAL) Toronto Raptors (TOR @ DET) Utah Jazz (PHX @ UTA) Washington Wizards (WSH @ CHI)
+New Orleans PelicansNOP @ OKC - 8:00 PM ET
+**[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)** _F_ _Top_ 6:38 PM ET
+#### Upgraded to available
+Murphy (knee) is available for Friday's game against Oklahoma City but will be under a minutes restriction, Clemente Almanza of USA Today reports.
+Analysis
+Murphy will be back on the court after missing the last six games due to a knee injury. It's unclear what his role will be. However, Murphy's return, even in a limited capacity, will presumably mean less work for Herbert Jones and Saddiq Bey.
+Charlotte HornetsCHA @ ATL - 7:00 PM ET
+**[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)** _F_ 6:38 PM ET
+#### Rejoining starting lineup
+James is in the starting lineup for Friday's game against the Hawks.
+Analysis
+Friday is set to be the 12th start of the season for James. He typically works as a defensive stopper on the wing for the Hornets, so the return to the first unit may not yield a significant bump in fantasy production.
+Chicago BullsWSH @ CHI - 8:00 PM ET
+**[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)** _C_ _Top_ 6:31 PM ET
+#### Starting versus Wizards
+Claxton will start in Friday's game against Washington, K.C. Johnson of Chicago Sports Network reports.
+Analysis
+With Jalen Smith (illness) sidelined, Claxton will make his first start with the Bulls. The 27-year-old started 68 of his 69 regular-season appearances with the Nets in 2025-26, averaging 11.8 points, 6.9 rebounds, 3.7 assists and 1.1 blocks over 27.9 minutes per contest.
 Oklahoma City ThunderNOP @ OKC - 8:00 PM ET
 **[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)** _F_ OUT6:24 PM ET
 #### Sidelined against Pelicans
@@ -36,25 +54,7 @@ Chicago BullsWSH @ CHI - 8:00 PM ET
 Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.
 Analysis
 With Smith unavailable after being downgraded to questionable earlier Friday, Chicago will need to cover his center minutes elsewhere. His absence opens up added frontcourt work most prominently for Zach Collins and Nic Claxton, the latter of whom is the likelier candidate to start at center.
-Indiana PacersIND @ CLE - 7:30 PM ET
-**[Braden Smith](https://www.rotowire.com/basketball/player/braden-smith-6997)** _G_ 6:14 PM ET
-#### Available Friday
-Smith (ankle) will be available for Friday's game against Cleveland, Tony East of Forbes.com reports.
-Analysis
-After being listed as questionable for Friday's game following a right ankle sprain Wednesday, Smith is set to suit up for Indiana. His availability gives the Pacers another backcourt option and likely leaves fewer minutes for Quenton Jackson in the backcourt.
-Indiana PacersIND @ CLE - 7:30 PM ET
-**[Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679)** _G_ 6:10 PM ET
-#### Available versus Cleveland
-Nembhard (hip) is available for Friday's game against the Cavaliers, Tony East of Forbes.com reports.
-Analysis
-Nembhard missed the last two games while dealing with a hip issue. After initially carrying a questionable designation, he is good to go for Friday's meeting with the Cavs. As a result, Quenton Jackson is expected to head back to the bench.
-Detroit PistonsTOR @ DET - 7:30 PM ET
-**[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)** _F_ OUT6:02 PM ET
-#### Has no return timeline
-Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.
-Analysis
-With Detroit still without a return timetable for Prince after right knee surgery, he appears set for an extended absence well beyond Friday's tilt against Toronto. Prince hasn't been a significant part of the Pistons' rotation this season, so his continued absence is unlikely to create a major fantasy ripple effect.
-Show 5 more (8 remaining)
+Show 5 more (11 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -65,7 +65,7 @@ Main Slate - 6 games - 7:00 PM Nov 21 - Main Slate - 4 games - 7:30 PM (lineups 
 Implied total vs. the slate _Lowest_ _Highest_
 **CHA @ ATL**
 O/U 218.57:00 PM ET
-HornetsExpectedAway
+HornetsConfirmedAway
 _Implied_**105.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -74,7 +74,7 @@ _Implied_**105.5** _Spread_**+7.5**
 | PG  | Coby White  | $5,500  | 29.8  |  
 | SF  | Sion James  | $4,400  | 21.4  |  
 | SG  | Brandon Miller  | $7,400  | 37.5  |  
-HawksExpectedHome
+HawksConfirmedHome
 _Implied_**113.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -164,18 +164,18 @@ _Implied_**120.0** _Spread_**-1.5**
 | SF  | Isaac Okoro  | $4,400  | 23.5  |  
 | SG  | Norman Powell  | $6,500  | 33.1  |  
 **NOP @ OKC**
-O/U 227.58:00 PM ET
+O/U 229.58:00 PM ET
 PelicansExpectedAway
-_Implied_**108.0** _Spread_**+11.5**  
+_Implied_**109.0** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Yves Missi  | $5,300  | 21.1  |  
 | PF  | Zion Williamson  | $7,200  | 36.5  |  
 | PG  | Jeremiah Fears  | $7,100  | 34.5  |  
 | SF  | Saddiq Bey  | $6,700  | 31.1  |  
-| SG  | Trey MurphyQ  | $6,900  | 25.8  |  
+| SG  | Trey Murphy  | $6,900  | 25.8  |  
 ThunderExpectedHome
-_Implied_**119.5** _Spread_**-11.5**  
+_Implied_**120.5** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $6,700  | 34.0  |  

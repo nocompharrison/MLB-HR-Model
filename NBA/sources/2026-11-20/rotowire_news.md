@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-20 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,27 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Upgraded to available](https://www.rotowire.com/basketball/headlines/trey-murphy-news-upgraded-to-available-540218)
+**F** New Orleans Pelicans
+November 20, 2026
+Murphy (knee) is available for Friday's game against Oklahoma City but will be under a minutes restriction, [Clemente Almanza of USA Today](https://x.com/CAlmanza1007/status/2123922119683952732?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)[Rejoining starting lineup](https://www.rotowire.com/basketball/headlines/sion-james-news-rejoining-starting-lineup-540217)
+**F** Charlotte Hornets
+November 20, 2026
+James is in the [starting lineup](https://x.com/hornets/status/2123922582189859316?a=Q0PQ-ZcJNzZnSoAhD4M&s=46) for Friday's game against the Hawks.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Starting versus Wizards](https://www.rotowire.com/basketball/headlines/nic-claxton-news-starting-versus-wizards-540216)
+**C** Chicago Bulls
+November 20, 2026
+Claxton will start in Friday's game against Washington, [K.C. Johnson of Chicago Sports Network](https://x.com/KCJHoop/status/2123919119036895255?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Sidelined against Pelicans](https://www.rotowire.com/basketball/headlines/alex-caruso-injury-sidelined-against-pelicans-540215)
 **F** Oklahoma City Thunder
@@ -181,30 +202,6 @@ Kuzma (shoulder) is off the [injury report](https://ak-static.cms.nba.com/refere
 **C** Milwaukee Bucks
 November 20, 2026
 Turner (shoulder) is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_04_15PM.pdf) for Saturday's game against the 76ers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Kawhi Leonard](https://www.rotowire.com/basketball/player/kawhi-leonard-3195)[Still weeks away from returning](https://www.rotowire.com/basketball/headlines/kawhi-leonard-injury-still-weeks-away-from-returning-540189)
-**F** Toronto Raptors
-Knee
-November 20, 2026
-Leonard (knee) could return in the next few weeks, per [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2123876447538274772?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)[Expected to miss at least two more weeks](https://www.rotowire.com/basketball/headlines/tyrese-haliburton-injury-expected-to-miss-at-least-two-more-weeks-540188)
-**G** Indiana Pacers
-Hamstring
-November 20, 2026
-Haliburton (hamstring) is expected to miss at least two more weeks, [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2123876447538274772?a=e7u84r803rTLnnwdFJ8&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Brandon Ingram](https://www.rotowire.com/basketball/player/brandon-ingram-3861)[Set for season debut Monday](https://www.rotowire.com/basketball/headlines/brandon-ingram-injury-set-for-season-debut-monday-540187)
-**G** Los Angeles Clippers
-Achilles
-November 20, 2026
-Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per [Shams Charania of ESPN](https://x.com/ShamsCharania/status/2123872780944855163?s=20).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

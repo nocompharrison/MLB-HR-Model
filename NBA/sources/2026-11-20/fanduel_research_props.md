@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-player-props-today-friday-nov-20 | fetched: 2026-11-20 18:35 ET -->
+<!-- source: https://www.fanduel.com/research/nba-player-props-today-friday-nov-20 | fetched: 2026-11-20 18:49 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-2h
+3h
 Link
 ![Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F3ad3c0f2947d64caba4228af2c7b54226ec2bf1c-6000x4000.jpg%3Frect%3D7%2C0%2C5986%2C2962%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -35,7 +35,7 @@ Wizards at Bulls — 8:00 p.m. ET
 Alex Sarr - Rebounds
 Alex Sarr Over
 O 6.5
--130
+-128
 Nov 21 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-chicago-bulls-36334582)
 Odds/lines subject to change
 [Alex Sarr](https://sportsbook.fanduel.com/teams/nba/roster/alex-sarr-3289) averages 6.9 rebounds per game for the [Washington Wizards](https://sportsbook.fanduel.com/teams/nba/washington-wizards/roster) and has cleared 6.5 rebounds in eight of his last 10 games. The clash with the [Chicago Bulls](https://sportsbook.fanduel.com/teams/nba/teams) carries one of Friday’s highest game totals (239.5), potentially supplying plenty of opportunities for rebounds. 
@@ -102,12 +102,12 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions for Today: 3 Best NBA Picks for Friday, Nov. 20](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
-31m
+1h
 NBA picks and predictions for Friday. What are today's top NBA bets?
 [](https://www.fanduel.com/research/nba-predictions-today-picks-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Best NBA Player Props Today: NBA Prop Bets for Friday, Nov. 20](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
-2h
+3h
 Three NBA prop bets to target at FanDuel Sportsbook on Friday, November 20.
 [](https://www.fanduel.com/research/nba-player-props-today-friday-nov-20)
 [NBA](https://www.fanduel.com/research/nba)
