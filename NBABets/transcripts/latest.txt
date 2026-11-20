@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-20 | updated 2026-11-20 18:10 ET
+# NBABets transcripts | 2026-11-20 | updated 2026-11-20 18:40 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 1 files in NBABets/transcripts/2026-11-20:
 NBABets/transcripts/2026-11-20/kd_w62aE5dU_ChrisBets_Nov_20th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
@@ -6,7 +6,7 @@ NBABets/transcripts/2026-11-20/kd_w62aE5dU_ChrisBets_Nov_20th_NBA_Betting_Angles
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-NOCAPS  JayMoney gCNrGatuAB0 Real Talk/Parlay Talk With Jay Money Is Money  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
