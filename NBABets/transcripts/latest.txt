@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-21 | updated 2026-11-21 11:12 ET
+# NBABets transcripts | 2026-11-21 | updated 2026-11-21 16:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 1 files in NBABets/transcripts/2026-11-21:
 NBABets/transcripts/2026-11-21/NmhKIxshSJo_ChrisBets_Nov_21st_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
@@ -6,8 +6,8 @@ NBABets/transcripts/2026-11-21/NmhKIxshSJo_ChrisBets_Nov_21st_NBA_Betting_Angles
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-UPCOMING JayMoney C4jpnU07JSo Saturday NBA Talk With Jay Money & The Shark 11/21/26 Member  (not aired yet - scheduled for 11/21/26 12:00PM)
-NEW     NBABets/transcripts/2026-11-21/NmhKIxshSJo_ChrisBets_Nov_21st_NBA_Betting_Angles_ChrisBeCappinn_Show.txt  (3,200 words)
+UPCOMING JayMoney RqzWUgLXqds Sunday NBA Talk With Jay Money 11/22/26 Members Show  (not aired yet - scheduled for 11/22/26 1:00PM)
+NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
@@ -18,4 +18,3 @@ NONE    channel ActionNetwork: nothing new in the date window (or everything alr
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
