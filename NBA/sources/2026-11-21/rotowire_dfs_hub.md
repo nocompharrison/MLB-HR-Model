@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-21 17:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-21 18:05 ET -->
 
 # NBA DFS Picks Today
 November 21, 2026
@@ -24,6 +24,18 @@ Saturday, November 21 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (12) All NBA news Boston Celtics (BOS @ SAC) Dallas Mavericks (LAC @ DAL) Los Angeles Clippers (LAC @ DAL) Memphis Grizzlies (MEM @ MIN) Milwaukee Bucks (MIL @ PHI) Minnesota Timberwolves (MEM @ MIN) New Orleans Pelicans (NOP @ SAN) New York Knicks (POR @ NYK) Philadelphia 76ers (MIL @ PHI) Portland Trail Blazers (POR @ NYK) Sacramento Kings (BOS @ SAC) San Antonio Spurs (NOP @ SAN)
 New York KnicksPOR @ NYK - 7:30 PM ET
+**[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)** _C_ OUT _Top_ 5:51 PM ET
+#### Sidelined against Portland
+Towns (illness) won't play in Saturday's game versus the Trail Blazers.
+Analysis
+Towns was initially listed as questionable. However, he has since been ruled out, marking his first absence of the 2026-27 campaign. Towns' next opportunity to play will come Sunday against Indiana. In the meantime, Andre Drummond is in line to start.
+Portland Trail BlazersPOR @ NYK - 7:30 PM ET
+**[Deni Avdija](https://www.rotowire.com/basketball/player/deni-avdija-5152)** _F_ _Top_ 5:23 PM ET
+#### Returning Saturday
+Avdija (foot) is listed as available for Saturday's game versus the Knicks.
+Analysis
+Avdija missed a couple of games due to a foot injury, but he will be back on the floor Saturday against New York. As a result, Jayson Kent will presumably return to the bench after starting the last two contests.
+New York KnicksPOR @ NYK - 7:30 PM ET
 **[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)** _F_ OUT _Top_ 4:49 PM ET
 #### Won't play Saturday
 Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.
@@ -41,19 +53,7 @@ Boston CelticsBOS @ SAC - 10:00 PM ET
 Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith of Spotrac.com reports.
 Analysis
 Robinson is under the weather and will not play in the front end of Boston's back-to-back set, but he could be available for Sunday night's game against the Warriors. With Robinson sidelined, Luka Garza and Chris Cenac should both see a bump in minutes behind starting center Neemias Queta.
-Boston CelticsBOS @ SAC - 10:00 PM ET
-**[Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)** _G_ OUT _Top_ 3:53 PM ET
-#### Ruled out Saturday
-White (shoulder) has been ruled out for Saturday's game against Sacramento.
-Analysis
-White drew the questionable tag for Saturday's game due to left AC joint sprain in his shoulder. The veteran guard will be in street clothes for the first leg of the Celtics' back-to-back set, but he could make his return Sunday against the Warriors. With Jayson Tatum (rest) also out, Payton Pritchard and Paul George will carry the workload for the Celtics, and there will be more opportunities for the likes of Sam Hauser, Hugo Gonzalez, Baylor Scheierman and Jordan Walsh.
-Boston CelticsBOS @ SAC - 10:00 PM ET
-**[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)** _F_ OUT _Top_ 3:51 PM ET
-#### Won't play Saturday
-Tatum (rest) has been ruled out for Saturday's game against the Kings.
-Analysis
-Tatum will be rested for the first leg of the Celtics' back-to-back set, so he should be back on the floor for Sunday's game against the Warriors. With both Tatum and Derrick White (shoulder) sidelined, the Celtics will rely more heavily on Paul George, Payton Pritchard, Baylor Scheierman, Hugo Gonzalez and Sam Hauser to carry the scoring load against Sacramento.
-Show 5 more (28 remaining)
+Show 5 more (30 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,25 +63,25 @@ DraftKings FanDuel
 Nov 22 - Main Slate - 5 games - 7:00 PM (lineups pending) Main Slate - 4 games - 7:30 PM Nov 22 - Main Slate - 2 games - 3:30 PM (lineups pending) Nov 22 - Main Slate - 2 games - 8:00 PM (lineups pending) Main Slate - 4 games - 8:00 PM Nov 22 - Showdown - BOS @ GSW - 9:30 PM (lineups pending) Showdown - BOS @ SAC - 11:00 PM Nov 22 - Showdown - BOS @ GSW - 8:30 PM (lineups pending) Showdown - BOS @ SAC - 10:00 PM Nov 22 - Showdown - DEN @ CHI - 7:00 PM (lineups pending) Nov 22 - Showdown - DET @ ATL - 3:30 PM (lineups pending) Showdown - MIL @ PHI - 1:00 PM Nov 22 - Showdown - OKC @ MIA - 6:00 PM (lineups pending) Showdown - POR @ NYK - 7:30 PM Nov 22 - Main Slate - 5 games - 7:00 PM (lineups pending) Main Slate - 4 games - 7:30 PM All games (4) POR @ NYK - 7:30 PM ET LAC @ DAL - 8:00 PM ET MEM @ MIN - 8:00 PM ET NOP @ SAS - 8:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **POR @ NYK**
-O/U 215.57:30 PM ET
+O/U 213.57:30 PM ET
 Trail BlazersExpectedAway
-_Implied_**106.0** _Spread_**+3.5**  
+_Implied_**107.5** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Donovan Clingan  | $7,200  | 31.6  |  
-| PF  | Deni AvdijaQ  | $9,200  | 41.3  |  
+| PF  | Deni Avdija  | $9,200  | 41.3  |  
 | PG  | Damian Lillard  | $8,000  | 34.9  |  
 | SF  | Toumani Camara  | $5,800  | 23.1  |  
 | SG  | Sidy Cissoko  | $4,500  | 17.6  |  
 KnicksExpectedHome
-_Implied_**109.5** _Spread_**-3.5**  
+_Implied_**106.0** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Karl-Anthony TownsQ  | $9,900  | 48.6  |  
-| PF  | Josh Hart  | $5,200  | 24.7  |  
+| C  | Andre Drummond  | $3,800  | 15.8  |  
+| PF  | Mikal Bridges  | $4,800  | 21.7  |  
 | PG  | Jalen Brunson  | $9,100  | 41.8  |  
-| SF  | Landry Shamet  | $3,900  | 18.7  |  
-| SG  | Mikal Bridges  | $4,800  | 21.7  |  
+| SF  | Josh Hart  | $5,200  | 24.7  |  
+| SG  | Landry Shamet  | $3,900  | 18.7  |  
 **LAC @ DAL**
 O/U 230.58:00 PM ET
 ClippersExpectedAway
@@ -105,7 +105,7 @@ _Implied_**117.5** _Spread_**-4.5**
 **MEM @ MIN**
 O/U 228.58:00 PM ET
 GrizzliesExpectedAway
-_Implied_**111.0** _Spread_**+6.5**  
+_Implied_**111.5** _Spread_**+5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Zach Edey  | $4,900  | 27.2  |  
@@ -114,14 +114,14 @@ _Implied_**111.0** _Spread_**+6.5**
 | SF  | Jaylen Wells  | $4,200  | 22.6  |  
 | SG  | Cedric Coward  | $7,000  | 36.5  |  
 TimberwolvesExpectedHome
-_Implied_**117.5** _Spread_**-6.5**  
+_Implied_**117.0** _Spread_**-5.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Rudy Gobert  | $6,000  | 28.3  |  
+| C  | Rudy Gobert  | $6,000  | 28.2  |  
 | PF  | Jaden McDaniels  | $7,400  | 33.8  |  
-| PG  | LaMelo Ball  | $8,500  | 39.9  |  
+| PG  | LaMelo Ball  | $8,500  | 39.8  |  
 | SF  | Jonathan Kuminga  | $6,300  | 25.1  |  
-| SG  | Ayo Dosunmu  | $7,100  | 32.9  |  
+| SG  | Ayo Dosunmu  | $7,100  | 32.8  |  
 **NOP @ SAS**
 O/U 228.58:00 PM ET
 PelicansExpectedAway
@@ -158,8 +158,8 @@ AllGuardsForwardsCenters
 | 3  |  Derik QueenNOP - PF  | @ SAS  | $5,000  | 25  | 29.4  | **5.88**  |  
 | 4  |  Stephon CastleSAS - SG  | vs NOP  | $7,700  | 34  | 44.0  | **5.72**  |  
 | 5  |  Naji MarshallDAL - SF  | vs LAC  | $5,100  | 30  | 28.6  | **5.62**  |  
-| 6  |  Zach EdeyMEM - C  | @ MIN  | $4,900  | 24  | 27.2  | **5.55**  |  
-| 7  |  Taylor HendricksMEM - PF  | @ MIN  | $4,400  | 24  | 24.3  | **5.51**  |  
+| 6  |  Zach EdeyMEM - C  | @ MIN  | $4,900  | 24  | 27.2  | **5.54**  |  
+| 7  |  Taylor HendricksMEM - PF  | @ MIN  | $4,400  | 24  | 24.3  | **5.52**  |  
 | 8  |  Santi AldamaDAL - PF  | vs LAC  | $3,800  | 20  | 20.6  | **5.43**  |  
 | 9  |  Jaylen WellsMEM - SF  | @ MIN  | $4,200  | 30  | 22.6  | **5.38**  |  
 | 10  |  Zion WilliamsonNOP - PF  | @ SAS  | $7,100  | 33  | 37.5  | **5.28**  |  
@@ -180,27 +180,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−15−10−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)MartinEdeyGonzalezJonesWembanyamaGarza
+$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−15−10−50+5+10+15CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)WembanyamaAldamaEdeyPooleGonzalezJonesFox
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BOS@SAC, LAC@DAL, MEM@MIN, NOP@SAS  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Caleb MartinDAL · SG/SF · LAC@DAL  | $4,000  | 5.3  | 19.5  | **33.6**  |   | +6.2  | +14  | 90  |  
-| 2  |  Zach EdeyMEM · C · MEM@MIN  | $4,900  | 8.9  | 27.2  | **42.7**  |   | +9.5  | +9  | 89  |  
-| 3  |  Hugo GonzalezBOS · SG · BOS@SAC  | $3,100  | 3.6  | 18.0  | **29.8**  |   | +8.3  | +11  | 88  |  
-| 4  |  Herbert JonesNOP · SF/PF · NOP@SAS  | $4,000  | 2.3  | 18.9  | **32.0**  |   | +4.6  | +25  | 86  |  
-| 5  |  Victor WembanyamaSAS · C · NOP@SAS  | $12,200  | 35.8  | 63.5  | **89.0**  |   | +8.7  | +9  | 86  |  
-| 6  |  Trey LylesMIN · PF/C · MEM@MIN  | $3,600  | 0.8  | 16.1  | **28.8**  |   | +4.0  | +34  | 86  |  
-| 7  |  Santi AldamaDAL · PF/C · LAC@DAL  | $3,800  | 3.6  | 20.6  | **32.4**  |   | +6.3  | +11  | 85  |  
-| 8  |  Luka GarzaBOS · C · BOS@SAC  | $3,700  | 6.2  | 25.2  | **37.7**  |   | +12.2  | +6  | 85  |  
-| 9  |  Naji MarshallDAL · SF/PF · LAC@DAL  | $5,100  | 9.2  | 28.6  | **43.6**  |   | +9.2  | +8  | 84  |  
-| 10  |  Derik QueenNOP · PF/C · NOP@SAS  | $5,000  | 8.6  | 29.4  | **42.9**  |   | +9.0  | +5  | 80  |  
-| 11  |  Taylor HendricksMEM · PF/C · MEM@MIN  | $4,400  | 4.6  | 24.3  | **35.9**  |   | +5.9  | +8  | 79  |  
-| 12  |  Paul GeorgeBOS · PF · BOS@SAC  | $7,500  | 21.0  | 41.3  | **61.3**  |   | +11.3  | +2  | 79  |  
-| 13  |  Zaccharie RisacherDAL · SF · LAC@DAL  | $4,200  | 2.3  | 19.7  | **30.6**  |   | +1.9  | +13  | 77  |  
-| 14  |  Derrick JonesLAC · SF · LAC@DAL  | $5,000  | 5.8  | 20.7  | **35.0**  |   | +1.2  | +13  | 75  |  
-| 15  |  Jordan PooleNOP · PG · NOP@SAS  | $4,100  | 9.1  | 26.0  | **39.6**  |   | +11.5  | 0  | 75  |  
+| 1  |  Victor WembanyamaSAS · C · NOP@SAS  | $12,200  | 36.3  | 63.5  | **90.5**  |   | +13.0  | +15  | 97  |  
+| 2  |  Santi AldamaDAL · PF/C · LAC@DAL  | $3,800  | 3.6  | 20.6  | **33.6**  |   | +7.0  | +15  | 93  |  
+| 3  |  Zach EdeyMEM · C · MEM@MIN  | $4,900  | 8.9  | 27.2  | **42.7**  |   | +9.4  | +8  | 89  |  
+| 4  |  Jordan PooleNOP · PG · NOP@SAS  | $4,100  | 9.1  | 26.0  | **41.6**  |   | +13.1  | +7  | 89  |  
+| 5  |  Hugo GonzalezBOS · SG · BOS@SAC  | $3,100  | 3.6  | 17.9  | **29.8**  |   | +7.4  | +9  | 88  |  
+| 6  |  Herbert JonesNOP · SF/PF · NOP@SAS  | $4,000  | 2.3  | 18.9  | **32.0**  |   | +4.2  | +22  | 85  |  
+| 7  |  Trey LylesMIN · PF/C · MEM@MIN  | $3,600  | 0.8  | 16.0  | **28.8**  |   | +3.4  | +31  | 85  |  
+| 8  |  De'Aaron FoxSAS · PG · NOP@SAS  | $6,900  | 12.8  | 33.1  | **50.8**  |   | +5.4  | +9  | 83  |  
+| 9  |  Naji MarshallDAL · SF/PF · LAC@DAL  | $5,100  | 9.2  | 28.6  | **43.4**  |   | +8.9  | +7  | 82  |  
+| 10  |  Luka GarzaBOS · C · BOS@SAC  | $3,700  | 6.2  | 25.1  | **37.7**  |   | +11.6  | +5  | 82  |  
+| 11  |  Paul GeorgeBOS · PF · BOS@SAC  | $7,500  | 21.0  | 41.0  | **61.3**  |   | +12.2  | +4  | 81  |  
+| 12  |  Derik QueenNOP · PF/C · NOP@SAS  | $5,000  | 8.6  | 29.4  | **42.9**  |   | +9.0  | +5  | 79  |  
+| 13  |  Taylor HendricksMEM · PF/C · MEM@MIN  | $4,400  | 4.6  | 24.3  | **35.9**  |   | +5.6  | +7  | 79  |  
+| 14  |  Derrick JonesLAC · SF · LAC@DAL  | $5,000  | 5.8  | 20.7  | **35.0**  |   | +1.1  | +11  | 74  |  
+| 15  |  Brook LopezLAC · C · LAC@DAL  | $5,700  | 9.1  | 26.3  | **41.9**  |   | +3.7  | +7  | 74  |  
 Show all 76 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Night · Today · 8:00 PM ET · 4 games slate · 2026-11-21.
 ## **NBA Injury Report**

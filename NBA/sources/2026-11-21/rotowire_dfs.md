@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 17:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 18:05 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 21
 RotoWire's JP Aravena highlights his favorite picks and predictions for Saturday's slate of NBA action.
@@ -162,11 +162,11 @@ Anaheim Ducks
 Nearing return to lineup
 NHL
 Florida Panthers
-  * ![Carolina Hurricanes](https://assets.rotowire.com/images/teamlogo/hockey/100CAR.png?v=5)
-[Nikolaj Ehlers](https://www.rotowire.com/hockey/player/nikolaj-ehlers-4389)
-Won't play Sunday
+  * ![St. Louis Blues](https://assets.rotowire.com/images/teamlogo/hockey/100STL.png?v=5)
+[Jordan Binnington](https://www.rotowire.com/hockey/player/jordan-binnington-3851)
+Slated to face New Jersey
 NHL
-Carolina Hurricanes
+St. Louis Blues
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

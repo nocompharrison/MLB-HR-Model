@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-21 17:09 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-21 18:05 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
+C - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
+[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
+[Karl-Anthony Towns (illness) ruled out Saturday](https://www.fantasypros.com/nba/news/621742/karl-anthony-towns-illness-ruled-out-saturday.php)  
+
+Sat, Nov 21st 5:43pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Karl-Anthony Towns (illness) has been ruled out for Saturday’s contest between night’s matchup between the New York Knicks and Portland Trail Blazers according to Steve Popper. (Source: [Steve Popper on Twitter ](https://x.com/stevepopper/status/2124267008556736751?a=CyPNqu7BqOiWVFaunLE&s=46))
+**_Fantasy Impact:_** Towns will sit out after being added to the injury report earlier Saturday after coming down with an illness, with Andre Drummond sliding into the starting five for the Knicks against the Portland Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Deni Avdija](https://images.fantasypros.com/images/players/nba/5084/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deni-avdija.php)
+F - POR
+[» Rankings](https://www.fantasypros.com/nba/players/deni-avdija.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/deni-avdija.php)  
+[» More News](https://www.fantasypros.com/nba/news/deni-avdija.php)
+[Deni Avdija (foot) back in lineup Saturday](https://www.fantasypros.com/nba/news/621735/deni-avdija-foot-back-lineup-saturday.php)  
+
+Sat, Nov 21st 5:37pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Deni Avdija (foot) is back in the lineup for Saturday night’s matchup between the Portland Trail Blazers and New York Knicks. (Source: [Portland Trailblazers PR on Twitter](https://x.com/trailblazerspr/status/2124265772159504504?a=BZsmSw7RS-k_dtd1xAQ&s=46))
+**_Fantasy Impact:_** Avdija returns after missing the last two contests while dealing with foot soreness, relegating Jayson Kent back to the bench against the Knicks Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Precious Achiuwa](https://images.fantasypros.com/images/players/nba/5096/headshot/100x100.png)](https://www.fantasypros.com/nba/players/precious-achiuwa.php)
 F - SAC
 [» Rankings](https://www.fantasypros.com/nba/players/precious-achiuwa.php)  
@@ -230,20 +258,6 @@ Tyrese Maxey (foot) returns to the lineup for Saturday’s matchup between the P
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
-C - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
-[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
-[Karl-Anthony Towns (illness) now questionable Saturday ](https://www.fantasypros.com/nba/news/621676/karl-anthony-towns-illness-now-questionable-saturday.php)  
-
-Sat, Nov 21st 11:54am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Karl-Anthony Towns is now questionable for Saturday's game against the Trail Blazers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_00AM.pdf))
-**_Fantasy Impact:_** Towns is a late addition to the injury report. His status is all of a sudden up in the air. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
 [![Walker Kessler](https://images.fantasypros.com/images/players/nba/5537/headshot/100x100.png)](https://www.fantasypros.com/nba/players/walker-kessler.php)
 C - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/walker-kessler.php)  
@@ -272,20 +286,6 @@ Luka Doncic filled the stat sheet for the Lakers Friday night, dishing out eight
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Darius Acuff Jr.](https://images.fantasypros.com/images/players/nba/6614/headshot/100x100.png)](https://www.fantasypros.com/nba/players/darius-acuff.php)
-G - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/darius-acuff.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/darius-acuff.php)  
-[» More News](https://www.fantasypros.com/nba/news/darius-acuff.php)
-[Darius Acuff Jr. records double-double in Friday's loss to Lakers](https://www.fantasypros.com/nba/news/621668/darius-acuff-jr-records-double-double-fridays-loss-to-lakers.php)  
-
-Sat, Nov 21st 10:36am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Darius Acuff Jr. recorded a double-double for the Kings Friday night, dishing out 12 assists and scoring 18 points (8-23 FG, 2-11 3PT) while also recording one steal and grabbing one rebound in a 106-104 loss to the Lakers.
-**_Fantasy Impact:_** Acuff Jr. continues a solid stretch on the offensive end of the floor, dishing out six or more assists and scoring 17 or more points in each of his last five games. The rookie has rewarded fantasy managers as one of the more explosive options in the Sacramento starting five to this point, averaging 25.7 points and 7.3 assists per game while carrying a usage rate of 32.5% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -296,5 +296,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=988_1795298679442&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQyMzcyCzWMnK0NzS1MjQ1MzYuBYAUi0c1A%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 
