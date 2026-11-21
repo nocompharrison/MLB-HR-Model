@@ -1,43 +1,29 @@
-# CBB transcripts | 2026-11-21 | updated 2026-11-21 11:23 ET
+# CBB transcripts | 2026-11-21 | updated 2026-11-21 17:04 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 7 files in CBB/transcripts/2026-11-21:
+# 8 files in CBB/transcripts/2026-11-21:
 CBB/transcripts/2026-11-21/-7cRwfKvsb4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_21_26_Ron_s_Bank_Shot_Br.txt
 CBB/transcripts/2026-11-21/8N5AY6QP34M_FieldOf68_INSTANT_REACTION_TO_KENTUCKY_INDIANA_Plus_what_teams_are_we_most_CONFI.txt
 CBB/transcripts/2026-11-21/FT93qnOmSjI_CBSCollegeBB_North_Carolina_State_vs_Seton_Hall_College_Basketball_Highlights_Conde.txt
 CBB/transcripts/2026-11-21/TFhrbVcSWP4_TCE_College_Basketball_Picks_For_November_21st_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-21/djZDm7Gctak_TCE_College_Basketball_PICKS_ONLY_Saturday_November_21st_TCE_Trims.txt
 CBB/transcripts/2026-11-21/mPmU0z9xWq8_TCE_College_Basketball_Best_Bets_For_November_21st_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-21/uNARbZK6N38_FieldOf68_Why_Cayden_Daughtry_was_ABSOLUTELY_WORTH_the_4_million_from_Calipari_G.txt
 CBB/transcripts/2026-11-21/wz7KQ4qzmUA_PickDawgz_College_Basketball_Picks_for_Today_11_21_26_Saturday_Best_College_Bask.txt
 # also filed this run under the slate their titles name: CBB/transcripts/2026-11-20
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-DEFER   CBSCollegeBB YXXsFRTz5P0 Murray State vs. Wisconsin College Basketball Highlights | C  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB VdHPT0PCdMI Rhode Island vs. Liberty College Basketball Highlights | Con  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-21/FT93qnOmSjI_CBSCollegeBB_North_Carolina_State_vs_Seton_Hall_College_Basketball_Highlights_Conde.txt  (1,754 words)
-NEW     CBB/transcripts/2026-11-20/xWN3cOfpNK4_CBSCollegeBB_Indiana_takes_down_Kentucky_to_remain_undefeated_What_s_wrong_with_the.txt  (1,205 words)
-NEW     CBB/transcripts/2026-11-20/siScX9YZfQE_CBSCollegeBB_Kentucky_vs_Indiana_College_Basketball_Highlights_Condensed_Game.txt  (1,701 words)
-NEW     CBB/transcripts/2026-11-20/rKYPFnXZ8UA_FieldOf68_CONFIDENCE_METER_North_Carolina_or_Kentucky_who_will_have_a_BETTER_sea.txt  (2,191 words)
-NEW     CBB/transcripts/2026-11-20/XwvKiYgEEGE_FieldOf68_CONFIDENCE_METER_Will_Duke_bounce_back_with_their_LOADED_upcoming_sche.txt  (1,754 words)
-NEW     CBB/transcripts/2026-11-20/Uukm6wxd9x8_FieldOf68_CONFIDENCE_METER_How_good_will_LSU_be_WITHOUT_RJ_Luis_AFTER_DARK.txt  (1,242 words)
-NEW     CBB/transcripts/2026-11-20/I3u0o64xG00_FieldOf68_CONFIDENCE_METER_How_likely_is_it_that_Houston_makes_the_FINAL_FOUR_AF.txt  (1,296 words)
-NEW     CBB/transcripts/2026-11-20/iqJeuajHkWM_FieldOf68_Kentucky_is_just_NOT_a_good_basketball_team_Wildcats_fall_to_Indiana.txt  (2,029 words)
-NEW     CBB/transcripts/2026-11-20/g9i-FTiDSmA_FieldOf68_Indiana_is_FOR_REAL_Hoosiers_are_a_LEGIT_Big_Ten_contender_after_beati.txt  (2,624 words)
-NEW     CBB/transcripts/2026-11-20/3oKZpabewRQ_FieldOf68_EXCLUSIVE_Markus_Burton_on_Indiana_s_BIG_win_over_Kentucky_AFTER_DARK.txt  (1,169 words)
+NEW     CBB/transcripts/2026-11-20/YXXsFRTz5P0_CBSCollegeBB_Murray_State_vs_Wisconsin_College_Basketball_Highlights_Condensed_Game.txt  (1,600 words)
+NEW     CBB/transcripts/2026-11-20/VdHPT0PCdMI_CBSCollegeBB_Rhode_Island_vs_Liberty_College_Basketball_Highlights_Condensed_Game.txt  (1,920 words)
+NEW     CBB/transcripts/2026-11-21/uNARbZK6N38_FieldOf68_Why_Cayden_Daughtry_was_ABSOLUTELY_WORTH_the_4_million_from_Calipari_G.txt  (1,586 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-21/mPmU0z9xWq8_TCE_College_Basketball_Best_Bets_For_November_21st_Spread_Moneyline_Bettin.txt  (871 words)
-NEW     CBB/transcripts/2026-11-21/djZDm7Gctak_TCE_College_Basketball_PICKS_ONLY_Saturday_November_21st_TCE_Trims.txt  (15,647 words)
-NEW     CBB/transcripts/2026-11-21/TFhrbVcSWP4_TCE_College_Basketball_Picks_For_November_21st_NCAA_Basketball_Banter_Best.txt  (23,088 words)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/ntyCZpb0uQk_WagerTalk_College_Basketball_Picks_Today_Friday_CBB_Best_Bets_Odds_Full_Court_Pr.txt  (11,965 words)
-NEW     CBB/transcripts/2026-11-20/PB4Trfm4svQ_WagerTalk_College_Basketball_Picks_Today_Friday_CBB_Best_Bets_Odds_Full_Court_Pr.txt  (11,965 words)
-NEW     CBB/transcripts/2026-11-20/Yh3whoP7avo_WagerTalk_Kentucky_vs_Indiana_College_Basketball_BEST_Bets_TODAY_College_Basketb.txt  (1,555 words)
-NEW     CBB/transcripts/2026-11-20/8Ey3oun1XQo_WagerTalk_College_Basketball_Picks_TODAY_Dayton_vs_Utah_Saint_Louis_vs_Saint_Mar.txt  (1,665 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-21/wz7KQ4qzmUA_PickDawgz_College_Basketball_Picks_for_Today_11_21_26_Saturday_Best_College_Bask.txt  (1,991 words)
-NEW     CBB/transcripts/2026-11-21/-7cRwfKvsb4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_21_26_Ron_s_Bank_Shot_Br.txt  (1,862 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -45,6 +31,3 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-21/8N5AY6QP34M_FieldOf68_INSTANT_REACTION_TO_KENTUCKY_INDIANA_Plus_what_teams_are_we_most_CONFI.txt  (14,215 words, via Groq)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
