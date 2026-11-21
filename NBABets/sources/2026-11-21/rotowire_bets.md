@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 16:37 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 17:12 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 21
 RotoWire's JP Aravena highlights his favorite picks and predictions for Saturday's slate of NBA action.
@@ -34,6 +34,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Kyren Williams](https://www.rotowire.com/football/player/kyren-williams-15807)
+Dealing with sore toe
+NFL
+Los Angeles Rams
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Joe Burrow](https://www.rotowire.com/football/player/joe-burrow-14442)
+Officially cleared for Monday Night Football
+NFL
+Cincinnati Bengals
   * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
 [Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)
 Won't play Saturday
@@ -49,16 +59,6 @@ Philadelphia 76ers
 Career-high 50 points in Saturday's loss
 NBA
 Milwaukee Bucks
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Dealing with groin injury
-NBA
-Miami Heat
-  * ![New York Mets](https://assets.rotowire.com/images/teamlogo/baseball/100NYM.png?v=8)
-[A.J. Ewing](https://www.rotowire.com/baseball/player/aj-ewing-19046)
-Lands eight-year extension with Mets
-MLB
-New York Mets
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -114,31 +114,31 @@ Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Kyren Williams](https://www.rotowire.com/football/player/kyren-williams-15807)
+Dealing with sore toe
+NFL
+Los Angeles Rams
+  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
+[Joe Burrow](https://www.rotowire.com/football/player/joe-burrow-14442)
+Officially cleared for Monday Night Football
+NFL
+Cincinnati Bengals
   * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
 [Carnell Tate](https://www.rotowire.com/football/player/carnell-tate-19268)
 Expected to play Sunday
 NFL
 Tennessee Titans
   * ![Washington Commanders](https://assets.rotowire.com/images/teamlogo/football/WAS.svg?v=12)
+[Rachaad White](https://www.rotowire.com/football/player/rachaad-white-15802)
+Questionable for Monday
+NFL
+Washington Commanders
+  * ![Washington Commanders](https://assets.rotowire.com/images/teamlogo/football/WAS.svg?v=12)
 [Jacory Croskey-Merritt](https://www.rotowire.com/football/player/jacory-croskey-merritt-18811)
 Questionable for Week 11
 NFL
 Washington Commanders
-  * ![Carolina Panthers](https://assets.rotowire.com/images/teamlogo/football/CAR.svg?v=12)
-[Jonathon Brooks](https://www.rotowire.com/football/player/jonathon-brooks-17747)
-Staying on IR for Week 11
-NFL
-Carolina Panthers
-  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
-[Dontayvion Wicks](https://www.rotowire.com/football/player/dontayvion-wicks-16658)
-Placed on injured reserve
-NFL
-Philadelphia Eagles
-  * ![Pittsburgh Steelers](https://assets.rotowire.com/images/teamlogo/football/PIT.svg?v=12)
-[Michael Pittman](https://www.rotowire.com/football/player/michael-pittman-14378)
-Will not return this week
-NFL
-Pittsburgh Steelers
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -162,11 +162,11 @@ Anaheim Ducks
 Nearing return to lineup
 NHL
 Florida Panthers
-  * ![Pittsburgh Penguins](https://assets.rotowire.com/images/teamlogo/hockey/100PIT.png?v=5)
-[Sergei Murashov](https://www.rotowire.com/hockey/player/sergei-murashov-7267)
-Expected to face Nashville
+  * ![Carolina Hurricanes](https://assets.rotowire.com/images/teamlogo/hockey/100CAR.png?v=5)
+[Nikolaj Ehlers](https://www.rotowire.com/hockey/player/nikolaj-ehlers-4389)
+Won't play Sunday
 NHL
-Pittsburgh Penguins
+Carolina Hurricanes
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

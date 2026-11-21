@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 16:37 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 17:12 ET -->
 
 
 ---
@@ -35,7 +35,7 @@ Trail Blazers at Knicks — 7:30 p.m. ET
 Karl-Anthony Towns - Assists
 Karl-Anthony Towns Over
 O 3.5
--104
++100
 Nov 22 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-new-york-knicks-36337806)
 Odds/lines subject to change
 The [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster) are getting steady creation from [Karl-Anthony Towns](https://sportsbook.fanduel.com/teams/nba/roster/karlanthony-towns-2326), who is averaging 3.9 assists across 15 games this season and 4.3 per game over his last 10. He has been even more involved recently, averaging 5.6 assists in his last five outings, and he handed out four against Minnesota in his most recent contest. 
@@ -45,7 +45,7 @@ Grizzlies at Timberwolves — 8:00 p.m. ET
 Jaden McDaniels - Assists
 Jaden McDaniels Over
 O 3.5
-+126
++124
 Nov 22 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-minnesota-timberwolves-36337803)
 Odds/lines subject to change
 The [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/roster) have gotten more playmaking from [Jaden McDaniels](https://sportsbook.fanduel.com/teams/nba/roster/jaden-mcdaniels-2892) this season. He is averaging 3.6 assists through 16 games, already above tonight’s 2.5-assist line, and has recorded at least three in nine of his last 10 appearances. 
@@ -56,7 +56,7 @@ Celtics at Kings — 10:00 p.m. ET
 Darius Acuff Jr. - Pts + Ast
 Darius Acuff Jr. Over
 O 28.5
--125
+-128
 Nov 22 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-sacramento-kings-36337805)
 Odds/lines subject to change
 Rookie guard [Darius Acuff Jr.](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520) has had to carry an enormous offensive workload for the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/roster). Through 15 games, he is averaging 25.7 points and 7.3 assists while playing 36.7 minutes per night. 
@@ -139,7 +139,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions, Odds and Betting Lines - November 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-19h
+20h
 Link
 ![NBA Predictions, Odds and Betting Lines - November 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F293f434e06d7e18d276ed3e7a3750866c0249d46-7309x4873.jpg%3Frect%3D0%2C629%2C7309%2C3617%26w%3D964%26h%3D477&w=1920&q=100)
 Today's NBA slate includes top teams in play. Among the contests is the Portland Trail Blazers playing the New York Knicks.
