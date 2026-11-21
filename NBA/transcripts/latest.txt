@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-21 | updated 2026-11-21 16:07 ET
+# NBA transcripts | 2026-11-21 | updated 2026-11-21 16:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 8 files in NBA/transcripts/2026-11-21:
 NBA/transcripts/2026-11-21/2PVe7ittYGs_ShipItNation_NBA_DFS_Process_November_21_2026_DraftKings_FanDuel_Picks_Plays_Slate.txt
@@ -11,13 +11,13 @@ NBA/transcripts/2026-11-21/g8RpvlCE45A_LockedOnNBA_Scottie_Barnes_DELIVERS_Thril
 NBA/transcripts/2026-11-21/icMC_OlKDeI_PickDawgz_NBA_Picks_Saturday_11_21_26_Jay_s_NBA_Jam_Session.txt
 
 # this run:
-NEW     NBA/transcripts/2026-11-21/D26cQoVIknk_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Saturday_Buckets_Podcast.txt  (7,010 words)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-21/3A7h4_ti1aA_WagerTalk_Saturday_DAILY_DOUBLE_NBA_BEST_Bets_Knicks_vs_Blazers_and_Grizzlies_vs.txt  (2,310 words)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-21/2PVe7ittYGs_ShipItNation_NBA_DFS_Process_November_21_2026_DraftKings_FanDuel_Picks_Plays_Slate.txt  (1,725 words)
+NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
 NONE    channel Stokastic: nothing new in the date window (or everything already saved)
@@ -35,5 +35,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-21/85l8W4euKh4_PickDawgz_NBA_Picks_Today_11_21_26_Best_Saturday_NBA_Bets_are_ON_DECK.txt  (2,623 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
