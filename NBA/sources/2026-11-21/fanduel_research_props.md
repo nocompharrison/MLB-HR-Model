@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21 | fetched: 2026-11-21 16:34 ET -->
+<!-- source: https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21 | fetched: 2026-11-21 17:09 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -31,7 +31,7 @@ Trail Blazers at Knicks — 7:30 p.m. ET
 Karl-Anthony Towns - Assists
 Karl-Anthony Towns Over
 O 3.5
--104
++100
 Nov 22 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-new-york-knicks-36337806)
 Odds/lines subject to change
 The [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster) are getting steady creation from [Karl-Anthony Towns](https://sportsbook.fanduel.com/teams/nba/roster/karlanthony-towns-2326), who is averaging 3.9 assists across 15 games this season and 4.3 per game over his last 10. He has been even more involved recently, averaging 5.6 assists in his last five outings, and he handed out four against Minnesota in his most recent contest. 
@@ -52,7 +52,7 @@ Celtics at Kings — 10:00 p.m. ET
 Darius Acuff Jr. - Pts + Ast
 Darius Acuff Jr. Over
 O 28.5
--125
+-128
 Nov 22 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-sacramento-kings-36337805)
 Odds/lines subject to change
 Rookie guard [Darius Acuff Jr.](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520) has had to carry an enormous offensive workload for the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/roster). Through 15 games, he is averaging 25.7 points and 7.3 assists while playing 36.7 minutes per night. 

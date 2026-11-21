@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 17:09 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,14 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-wont-play-saturday-540373)
+**F** New York Knicks
+Calf
+November 21, 2026
+Anunoby (calf) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_45PM.pdf) for Saturday's game against the Trail Blazers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
 [Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Could return Saturday](https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-could-return-saturday-540372)
 **F** Sacramento Kings
@@ -191,13 +199,6 @@ Anunoby (calf) has been [downgraded to doubtful](https://ak-static.cms.nba.com/r
 Illness
 November 21, 2026
 Towns is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_00AM.pdf) for Saturday's game against the Trail Blazers due to an illness.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Sniffs double-double](https://www.rotowire.com/basketball/headlines/nic-claxton-news-sniffs-double-double-540323)
-**C** Chicago Bulls
-November 21, 2026
-Claxton ended with 11 points (4-8 FG, 3-3 FT), seven rebounds, one assist and two blocks across 29 minutes during Friday's 98-94 loss to Washington.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

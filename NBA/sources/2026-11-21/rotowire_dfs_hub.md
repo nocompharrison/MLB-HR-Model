@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-21 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-21 17:09 ET -->
 
 # NBA DFS Picks Today
 November 21, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Saturday, November 21 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (12) All NBA news Boston Celtics (BOS @ SAC) Dallas Mavericks (LAC @ DAL) Los Angeles Clippers (LAC @ DAL) Memphis Grizzlies (MEM @ MIN) Milwaukee Bucks (MIL @ PHI) Minnesota Timberwolves (MEM @ MIN) New Orleans Pelicans (NOP @ SAN) New York Knicks (POR @ NYK) Philadelphia 76ers (MIL @ PHI) Portland Trail Blazers (POR @ NYK) Sacramento Kings (BOS @ SAC) San Antonio Spurs (NOP @ SAN)
+New York KnicksPOR @ NYK - 7:30 PM ET
+**[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)** _F_ OUT _Top_ 4:49 PM ET
+#### Won't play Saturday
+Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.
+Analysis
+Anunoby will miss his first game of the 2026-27 regular season due to left calf tightness, although he could be back on the floor for the second leg of the Knicks' back-to-back set against the Pacers on Sunday. Landry Shamet and Miles McBride are both in line for elevated roles in Anunoby's absence.
 Sacramento KingsBOS @ SAC - 10:00 PM ET
 **[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)** _F_ Q4:19 PM ET
 #### Could return Saturday
@@ -47,13 +53,7 @@ Boston CelticsBOS @ SAC - 10:00 PM ET
 Tatum (rest) has been ruled out for Saturday's game against the Kings.
 Analysis
 Tatum will be rested for the first leg of the Celtics' back-to-back set, so he should be back on the floor for Sunday's game against the Warriors. With both Tatum and Derrick White (shoulder) sidelined, the Celtics will rely more heavily on Paul George, Payton Pritchard, Baylor Scheierman, Hugo Gonzalez and Sam Hauser to carry the scoring load against Sacramento.
-Philadelphia 76ersMIL @ PHI - 1:00 PM ET
-**[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)** _C_ _Top_ 3:42 PM ET
-#### Comes close to trple-double
-Embiid notched 26 points (7-17 FG, 0-1 3Pt, 12-14 FT), 17 rebounds, nine assists and a block across 34 minutes in Saturday's 132-29 win over the Bucks.
-Analysis
-Embiid carried the 76ers offensively, and while his shooting wasn't particularly efficient, a strong showing from the charity stripe boosted his scoring tally. The star center finished just one assist away from a triple-double and seems to be finding his form, racking up 63 points, 11 rebounds, eight assists, three steals and five blocks over his last two games. This was also his third double-double over his last eight appearances.
-Show 5 more (27 remaining)
+Show 5 more (28 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -65,7 +65,7 @@ Implied total vs. the slate _Lowest_ _Highest_
 **POR @ NYK**
 O/U 215.57:30 PM ET
 Trail BlazersExpectedAway
-_Implied_**106.5** _Spread_**+2.5**  
+_Implied_**106.0** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Donovan Clingan  | $7,200  | 31.6  |  
@@ -74,7 +74,7 @@ _Implied_**106.5** _Spread_**+2.5**
 | SF  | Toumani Camara  | $5,800  | 23.1  |  
 | SG  | Sidy Cissoko  | $4,500  | 17.6  |  
 KnicksExpectedHome
-_Implied_**109.0** _Spread_**-2.5**  
+_Implied_**109.5** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony TownsQ  | $9,900  | 48.6  |  
