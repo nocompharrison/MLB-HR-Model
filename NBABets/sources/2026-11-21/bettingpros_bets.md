@@ -1,4 +1,4 @@
-<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-saturday-11-21/ | fetched: 2026-11-21 11:11 ET -->
+<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-saturday-11-21/ | fetched: 2026-11-21 16:09 ET -->
 
 [![freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=display&utm_source=bettingpros.com&utm_content=bp_ad_728x90)
 # NBA Picks & Predictions: Saturday (11/21)
@@ -37,5 +37,5 @@ While I'd feel more confident in this play if both Jerome and Boozer were on the
 * * *
 [![BettingPros App 3.0](https://www.bettingpros.com/img/bettingpros_app_launch_1470650.png/0x0.webp)](https://www.bettingpros.com/appDownload/?tag=bp-articles)
 _Phil Wood is a featured writer at BettingPros. For more from Phil, check out his_[ _archive_](https://www.bettingpros.com/articles/author/philip-wood/) _and follow him_[ _@Phil_Wood_Jr_](https://twitter.com/phil_wood_jr) _._
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795108161-4LBAS5XA-X9W4&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795108161-4LBAS5XA-X9W4)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001795108161-4LBAS5XA-X9W4%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001795108161-4LBAS5XA-X9W4&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001795108161-4LBAS5XA-X9W4%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001795108161-4LBAS5XA-X9W4&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001795108161-4LBAS5XA-X9W4&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001795108161-4LBAS5XA-X9W4&gdpr=0)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795108161-4LBAS5XA-X9W4&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795108161-4LBAS5XA-X9W4)
 
