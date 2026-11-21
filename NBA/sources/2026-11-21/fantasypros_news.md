@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-21 16:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-21 16:34 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,75 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Mitchell Robinson](https://images.fantasypros.com/images/players/nba/3524/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mitchell-robinson.php)
+C - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/mitchell-robinson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mitchell-robinson.php)  
+[» More News](https://www.fantasypros.com/nba/news/mitchell-robinson.php)
+[Mitchell Robinson (illness) ruled out Saturday ](https://www.fantasypros.com/nba/news/621720/mitchell-robinson-illness-ruled-out-saturday.php)  
+
+Sat, Nov 21st 4:18pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mitchell Robinson has been ruled out for Saturday's game against the Kings. 
+**_Fantasy Impact:_** Robinson was a late addition to the injury report due to an illness. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Myron Gardner](https://images.fantasypros.com/images/players/nba/6403/headshot/100x100.png)](https://www.fantasypros.com/nba/players/myron-gardner.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/myron-gardner.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/myron-gardner.php)  
+[» More News](https://www.fantasypros.com/nba/news/myron-gardner.php)
+[Myron Gardner (hamstring) listed probable Sunday ](https://www.fantasypros.com/nba/news/621719/myron-gardner-hamstring-listed-probable-sunday.php)  
+
+Sat, Nov 21st 4:18pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Myron Gardner is listed as probable for Sunday’s game against the Thunder.
+**_Fantasy Impact:_** Gardner is on track to be good to go for Miami. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
+[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
+[Giannis Antetokounmpo (groin) listed questionable Sunday ](https://www.fantasypros.com/nba/news/621718/giannis-antetokounmpo-groin-listed-questionable-sunday.php)  
+
+Sat, Nov 21st 4:17pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Giannis Antetokounmpo is listed as questionable for Sunday’s game against the Thunder.
+**_Fantasy Impact:_** Antetokounmpo will need to be monitored closer to tip-off. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Derrick White](https://images.fantasypros.com/images/players/nba/3357/headshot/100x100.png)](https://www.fantasypros.com/nba/players/derrick-white.php)
+G - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/derrick-white.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/derrick-white.php)  
+[» More News](https://www.fantasypros.com/nba/news/derrick-white.php)
+[Derrick White (shoulder) ruled out Saturday](https://www.fantasypros.com/nba/news/621717/derrick-white-shoulder-ruled-out-saturday.php)  
+
+Sat, Nov 21st 4:16pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Derrick White (shoulder) has been ruled out for Saturday’s contest between the Boston Celtics and Sacramento Kings. (Source: [Boston Celtics on Twitter ](https://x.com/celtics/status/2124242705354293686?a=qVMbA47DwC_NSv9TJjs&s=46))
+**_Fantasy Impact:_** White will receive the night off for the first leg of a back-to-back, with Payton Pritchard likely sliding into the Boston starting five against the Kings Saturday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jayson Tatum](https://images.fantasypros.com/images/players/nba/3316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jayson-tatum.php)
+F - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/jayson-tatum.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jayson-tatum.php)  
+[» More News](https://www.fantasypros.com/nba/news/jayson-tatum.php)
+[Jayson Tatum (rest) ruled out Saturday](https://www.fantasypros.com/nba/news/621716/jayson-tatum-rest-ruled-out-saturday.php)  
+
+Sat, Nov 21st 4:11pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jayson Tatum (rest) has been ruled out for Saturday’s matchup between the Boston Celtics and Sacramento Kings. (Source: [Boston Celtics on Twitter ](https://x.com/celtics/status/2124242705354293686?a=qVMbA47DwC_NSv9TJjs&s=46))
+**_Fantasy Impact:_** Tatum will receive the night off in the first leg of a back-to-back, with Paul George to see increased usage in the Boston starting five while Sam Hauser and Baylor Scheierman to receive increased minutes against the Kings Saturday night.
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![P.J. Washington Jr.](https://images.fantasypros.com/images/players/nba/4480/headshot/100x100.png)](https://www.fantasypros.com/nba/players/pj-washington.php)
 F - DAL
 [» Rankings](https://www.fantasypros.com/nba/players/pj-washington.php)  
@@ -217,76 +286,6 @@ De'Andre hunter led the Kings offense Friday night, scoring 30 points (12-16 FG,
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Zach LaVine](https://images.fantasypros.com/images/players/nba/2912/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zach-lavine.php)
-G - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/zach-lavine.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/zach-lavine.php)  
-[» More News](https://www.fantasypros.com/nba/news/zach-lavine.php)
-[Zach LaVine fills stat sheet Friday against Lakers](https://www.fantasypros.com/nba/news/621666/zach-lavine-fills-stat-sheet-friday-against-lakers.php)  
-
-Sat, Nov 21st 10:29am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Zach LaVine filled the stat sheet for the Kings Friday night, dishing out four assists, recording two steals, grabbing seven rebounds, blocking one shot, and scoring 19 points (7-17 FG, 2-5 3PT, 3-4 FT) in a 106-104 loss to the Lakers.
-**_Fantasy Impact:_** LaVine continues a solid stretch on both ends of the floor, finishing with two or more assists, three or more rebounds, and 12 or more points in each of his last five contests. The guard remains one of the more stable options in the Sacramento starting five to this point, averaging 21.0 points, 2.9 assists, and 3.6 rebounds per game to go along with a 23.5% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Domantas Sabonis](https://images.fantasypros.com/images/players/nba/3176/headshot/100x100.png)](https://www.fantasypros.com/nba/players/domantas-sabonis.php)
-C - SAC
-[» Rankings](https://www.fantasypros.com/nba/players/domantas-sabonis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/domantas-sabonis.php)  
-[» More News](https://www.fantasypros.com/nba/news/domantas-sabonis.php)
-[Domantas Sabonis posts double-double in Friday's loss to Lakers](https://www.fantasypros.com/nba/news/621665/domantas-sabonis-posts-double-double-fridays-loss-to-lakers.php)  
-
-Sat, Nov 21st 10:26am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Domantas Sabonis posted a double-double for the Kings Friday night, grabbing 16 rebounds and chipping in 19 points (8-13 FG, 1-1 3PT, 2-3 FT) while also dishing out one assist in a 106-104 loss to the Lakers.
-**_Fantasy Impact:_** Sabonis continues a modest stretch on both ends of the floor, scoring eight or more points and grabbing 12 or more rebounds in each of his last four games. The 30-year-old remains one of the more stable options in the Sacramento lineup to this point, averaging 14.1 points, 5.4 assists, and 13.4 rebounds per game while posting a usage rate of 16.4% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Dyson Daniels](https://images.fantasypros.com/images/players/nba/5444/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dyson-daniels.php)
-G - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/dyson-daniels.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/dyson-daniels.php)  
-[» More News](https://www.fantasypros.com/nba/news/dyson-daniels.php)
-[Dyson Daniels just misses triple-double in Friday's win](https://www.fantasypros.com/nba/news/621664/dyson-daniels-just-misses-triple-double-fridays-win.php)  
-
-Sat, Nov 21st 10:25am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Dyson Daniels scored 11 points (5-10 FG, 1-3 3PT) to go with 10 assists, eight rebounds, and four steals in Friday's 111-97 win over the Hornets. 
-**_Fantasy Impact:_** Daniels stuffed the stat sheet Friday night, showing off his jack-of-all-trades skill set once again. Daniels recorded double-digit assists for the second time this season, and he finished just two boards shy of his first triple-double of the campaign. The 23-year-old has also come up with double-digit steals in seven straight games, averaging 9.7 points, 8.9 rebounds, 7.1 assists, and 3.1 steals in that span. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Nikola Jokic](https://images.fantasypros.com/images/players/nba/2918/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nikola-jokic.php)
-C - DEN
-[» Rankings](https://www.fantasypros.com/nba/players/nikola-jokic.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/nikola-jokic.php)  
-[» More News](https://www.fantasypros.com/nba/news/nikola-jokic.php)
-[Nikola Jokic posts near triple-double in Friday's win over Rockets](https://www.fantasypros.com/nba/news/621663/nikola-jokic-posts-near-triple-double-fridays-win-over-rockets.php)  
-
-Sat, Nov 21st 10:20am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Nikola Jokic posted a near triple-double for the Nuggets Friday night, dishing out 11 assists, grabbing seven rebounds, and scoring 26 points (10-15 FG, 2-3 3PT, 4-4 FT) in a 133-124 win over the Rockets.
-**_Fantasy Impact:_** Jokic continues an impactful stretch on both ends of the floor, grabbing seven or more rebounds, dishing out seven or more assists, and scoring 24 or more points in each of his last five games. The superstar center remains a dynamic option in all formats while leading a talented Denver lineup on a nightly basis, averaging 24.2 points, 9.1 assists, and 10.4 rebounds per game while carrying a 26.5% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Johnson](https://images.fantasypros.com/images/players/nba/5353/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)
-F - ATL
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-johnson-f-f.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-johnson-f-f.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-johnson-f-f.php)
-[Jalen Johnson pours in 26 points Friday night](https://www.fantasypros.com/nba/news/621662/jalen-johnson-pours-26-points-friday-night.php)  
-
-Sat, Nov 21st 10:18am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Jalen Johnson finished with 26 points (10-15 FG, 3-4 3PT, 3-4 FT), six rebounds, six assists, and four steals in Friday's 111-97 win over the Hornets. 
-**_Fantasy Impact:_** This is the type of performance that makes Johnson an elite-level fantasy asset. The All-Star forward had been struggling a bit with his shot recently, but he found it Friday night. Johnson missed a brief stretch at the beginning of this month, but in six games since, he has averaged 21.3 points, 9.0 rebounds, 7.0 assists, and 1.3 steals. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -297,5 +296,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=665_1795294837688&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQyMzcyCzWMnK0NzS1MjQ1MzYuBYAUi0c1A%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a659e9c989e969b9e98666666uokewi0e0y6m6i646m606g6m640000)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

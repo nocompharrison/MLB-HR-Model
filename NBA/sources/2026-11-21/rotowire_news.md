@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 16:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,22 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Precious Achiuwa](https://www.rotowire.com/basketball/player/precious-achiuwa-5249)[Could return Saturday](https://www.rotowire.com/basketball/headlines/precious-achiuwa-injury-could-return-saturday-540372)
+**F** Sacramento Kings
+Lower Leg
+November 21, 2026
+Achiuwa (lower leg) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf) for Saturday's game against the Celtics.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ORL](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Jonathan Isaac](https://www.rotowire.com/basketball/player/jonathan-isaac-4103)[Remains out](https://www.rotowire.com/basketball/headlines/jonathan-isaac-injury-remains-out-540371)
+**F** Orlando Magic
+Knee
+November 21, 2026
+Isaac (knee) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_00PM.pdf) for Sunday's game against the Wizards.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
 [Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)[Under the weather, won't play Saturday](https://www.rotowire.com/basketball/headlines/mitchell-robinson-injury-under-the-weather-wont-play-saturday-540370)
 **C** Boston Celtics
@@ -182,20 +198,6 @@ Towns is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Repo
 **C** Chicago Bulls
 November 21, 2026
 Claxton ended with 11 points (4-8 FG, 3-3 FT), seven rebounds, one assist and two blocks across 29 minutes during Friday's 98-94 loss to Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Buddy Hield](https://www.rotowire.com/basketball/player/buddy-hield-3884)[Drains four triples off bench](https://www.rotowire.com/basketball/headlines/buddy-hield-news-drains-four-triples-off-bench-540322)
-**G** Chicago Bulls
-November 21, 2026
-Hield accumulated 15 points (5-10 FG, 4-9 3Pt, 1-1 FT) and four rebounds across 23 minutes during Friday's 98-94 loss to the Wizards.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Matas Buzelis](https://www.rotowire.com/basketball/player/matas-buzelis-5938)[Limited to nine points in loss](https://www.rotowire.com/basketball/headlines/matas-buzelis-news-limited-to-nine-points-in-loss-540321)
-**F** Chicago Bulls
-November 21, 2026
-Buzelis notched nine points (4-10 FG, 1-5 3Pt), five rebounds, one assist and one steal across 25 minutes during Friday's 98-94 loss to the Wizards.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
