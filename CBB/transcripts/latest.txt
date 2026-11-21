@@ -1,48 +1,43 @@
-# CBB transcripts | 2026-11-20 | updated 2026-11-20 17:05 ET
+# CBB transcripts | 2026-11-21 | updated 2026-11-21 11:23 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 22 files in CBB/transcripts/2026-11-20:
-CBB/transcripts/2026-11-20/-_4ISkWrxeI_LockedOnCBB_UNDERRATED_Are_Houston_Cougars_BEST_team_in_college_basketball_after_P.txt
-CBB/transcripts/2026-11-20/-iaKuJZlsTA_FieldOf68_PREVIEW_Is_Kentucky_s_SEASON_on_the_line_against_the_Hoosiers_in_Indy.txt
-CBB/transcripts/2026-11-20/9hlUQ9pplCg_CBSCollegeBB_Kentucky_vs_Indiana_Preview_Prediction_HUGE_game_for_Mark_Pope.txt
-CBB/transcripts/2026-11-20/AbV-oQ4CXl8_TCE_College_Basketball_Picks_For_November_20th_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-20/E13DrZLF0VE_FieldOf68_EXCLUSIVE_Niko_Medved_on_Minnesota_s_win_over_Oklahoma_State_and_their.txt
-CBB/transcripts/2026-11-20/GlsYUy4PwGU_TCE_College_Basketball_Best_Bets_For_November_20th_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-20/JatfXj29Ufo_WagerTalk_Alan_Boston_UNFILTERED_Stu_Ungar_Stories_College_Basketball_Bets_UT_Ma.txt
-CBB/transcripts/2026-11-20/PiRv2cKQpv0_TCE_College_Basketball_PICKS_ONLY_Friday_November_20th_TCE_Trims.txt
-CBB/transcripts/2026-11-20/T1C2IShVSSM_FieldOf68_Henson_Tyran_Stokes_is_a_NO_DOUBT_No_1_pick_and_future_pro_STAR_AFTER.txt
-CBB/transcripts/2026-11-20/UJ8VPcNt0mg_FieldOf68_HOUSTON_WINS_PLAYERS_ERA_8_Plus_Florida_bounces_back_and_MUCH_more_AFT.txt
-CBB/transcripts/2026-11-20/UceA5NWAYC8_FieldOf68_BUY_HOLD_SELL_UConn_Florida_and_Michigan_State_Here_s_why_I_m_SELLING.txt
-CBB/transcripts/2026-11-20/W9Wiu5LYH-w_CBSCollegeBB_Mark_Pope_discusses_dealing_with_PRESSURE_at_UK.txt
-CBB/transcripts/2026-11-20/YVvaf-S2jiw_FieldOf68_Breaking_down_the_BIGGEST_storylines_in_Mid_Major_hoops_THE_MID_MAJOR.txt
-CBB/transcripts/2026-11-20/Ynxyx24JhKM_FieldOf68_BUY_HOLD_SELL_Duke_Kentucky_North_Carolina_I_m_selling_ALL_Kentucky_st.txt
-CBB/transcripts/2026-11-20/Zye3sYSNPnM_FieldOf68_Florida_RESPONDS_against_West_Virginia_This_is_STILL_the_best_team_in.txt
-CBB/transcripts/2026-11-20/c0T82ctyw9Y_PickDawgz_College_Basketball_Picks_for_Today_11_20_26_Friday_Best_College_Basket.txt
-CBB/transcripts/2026-11-20/jQikQ0HW3sI_WagerTalk_Friday_CBB_Picks_TODAY_Kentucky_vs_Indiana_UCF_vs_Vanderbilt.txt
-CBB/transcripts/2026-11-20/nygx2RLPV1A_FieldOf68_BUY_HOLD_SELL_Illinois_Kansas_Houston_I_m_ALL_IN_on_buying_Illinois_AF.txt
-CBB/transcripts/2026-11-20/p7JEUPsiR9Y_CBSCollegeBB_It_s_OVER_RJ_Luis_will_NOT_play_for_LSU.txt
-CBB/transcripts/2026-11-20/uGcq-Y0QuAY_FieldOf68_Houston_WINS_the_Players_Era_title_This_is_the_NO_DOUBT_BEST_team_in_t.txt
-CBB/transcripts/2026-11-20/uXDIQcCuXoU_FieldOf68_BUY_HOLD_SELL_Tennessee_Texas_Tech_Virginia_I_m_ALL_IN_on_Virginia_AFT.txt
-CBB/transcripts/2026-11-20/uzxF1jG56Sc_CBSCollegeBB_George_Washington_vs_UAB_College_Basketball_Highlights_Condensed_Game.txt
+# 7 files in CBB/transcripts/2026-11-21:
+CBB/transcripts/2026-11-21/-7cRwfKvsb4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_21_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-21/8N5AY6QP34M_FieldOf68_INSTANT_REACTION_TO_KENTUCKY_INDIANA_Plus_what_teams_are_we_most_CONFI.txt
+CBB/transcripts/2026-11-21/FT93qnOmSjI_CBSCollegeBB_North_Carolina_State_vs_Seton_Hall_College_Basketball_Highlights_Conde.txt
+CBB/transcripts/2026-11-21/TFhrbVcSWP4_TCE_College_Basketball_Picks_For_November_21st_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-21/djZDm7Gctak_TCE_College_Basketball_PICKS_ONLY_Saturday_November_21st_TCE_Trims.txt
+CBB/transcripts/2026-11-21/mPmU0z9xWq8_TCE_College_Basketball_Best_Bets_For_November_21st_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-21/wz7KQ4qzmUA_PickDawgz_College_Basketball_Picks_for_Today_11_21_26_Saturday_Best_College_Bask.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-20
 
 # this run:
-NEW     CBB/transcripts/2026-11-20/-_4ISkWrxeI_LockedOnCBB_UNDERRATED_Are_Houston_Cougars_BEST_team_in_college_basketball_after_P.txt  (6,451 words)
-DEFER   CBSCollegeBB 02wWJ8rWPkA We were all TOO LOW on Kelvin Sampson & Houston | Cougars wi  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB so5gkU4rNFk Houston wins Players Era 8; Temp check: Florida, UConn & Ari  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB jqikmjwg7qw North Carolina State vs. Murray State College Basketball Hig  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-20/uzxF1jG56Sc_CBSCollegeBB_George_Washington_vs_UAB_College_Basketball_Highlights_Condensed_Game.txt  (2,103 words)
-NEW     CBB/transcripts/2026-11-20/9hlUQ9pplCg_CBSCollegeBB_Kentucky_vs_Indiana_Preview_Prediction_HUGE_game_for_Mark_Pope.txt  (1,145 words)
-NEW     CBB/transcripts/2026-11-20/p7JEUPsiR9Y_CBSCollegeBB_It_s_OVER_RJ_Luis_will_NOT_play_for_LSU.txt  (1,717 words)
-NEW     CBB/transcripts/2026-11-20/E13DrZLF0VE_FieldOf68_EXCLUSIVE_Niko_Medved_on_Minnesota_s_win_over_Oklahoma_State_and_their.txt  (1,098 words)
-UPCOMING FieldOf68 8N5AY6QP34M INSTANT REACTION TO KENTUCKY-INDIANA! Plus, what teams are w  (not aired yet - scheduled for 11/20/26 10:30PM)
-NEW     CBB/transcripts/2026-11-20/UJ8VPcNt0mg_FieldOf68_HOUSTON_WINS_PLAYERS_ERA_8_Plus_Florida_bounces_back_and_MUCH_more_AFT.txt  (20,145 words)
+NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
+DEFER   CBSCollegeBB YXXsFRTz5P0 Murray State vs. Wisconsin College Basketball Highlights | C  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB VdHPT0PCdMI Rhode Island vs. Liberty College Basketball Highlights | Con  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-21/FT93qnOmSjI_CBSCollegeBB_North_Carolina_State_vs_Seton_Hall_College_Basketball_Highlights_Conde.txt  (1,754 words)
+NEW     CBB/transcripts/2026-11-20/xWN3cOfpNK4_CBSCollegeBB_Indiana_takes_down_Kentucky_to_remain_undefeated_What_s_wrong_with_the.txt  (1,205 words)
+NEW     CBB/transcripts/2026-11-20/siScX9YZfQE_CBSCollegeBB_Kentucky_vs_Indiana_College_Basketball_Highlights_Condensed_Game.txt  (1,701 words)
+NEW     CBB/transcripts/2026-11-20/rKYPFnXZ8UA_FieldOf68_CONFIDENCE_METER_North_Carolina_or_Kentucky_who_will_have_a_BETTER_sea.txt  (2,191 words)
+NEW     CBB/transcripts/2026-11-20/XwvKiYgEEGE_FieldOf68_CONFIDENCE_METER_Will_Duke_bounce_back_with_their_LOADED_upcoming_sche.txt  (1,754 words)
+NEW     CBB/transcripts/2026-11-20/Uukm6wxd9x8_FieldOf68_CONFIDENCE_METER_How_good_will_LSU_be_WITHOUT_RJ_Luis_AFTER_DARK.txt  (1,242 words)
+NEW     CBB/transcripts/2026-11-20/I3u0o64xG00_FieldOf68_CONFIDENCE_METER_How_likely_is_it_that_Houston_makes_the_FINAL_FOUR_AF.txt  (1,296 words)
+NEW     CBB/transcripts/2026-11-20/iqJeuajHkWM_FieldOf68_Kentucky_is_just_NOT_a_good_basketball_team_Wildcats_fall_to_Indiana.txt  (2,029 words)
+NEW     CBB/transcripts/2026-11-20/g9i-FTiDSmA_FieldOf68_Indiana_is_FOR_REAL_Hoosiers_are_a_LEGIT_Big_Ten_contender_after_beati.txt  (2,624 words)
+NEW     CBB/transcripts/2026-11-20/3oKZpabewRQ_FieldOf68_EXCLUSIVE_Markus_Burton_on_Indiana_s_BIG_win_over_Kentucky_AFTER_DARK.txt  (1,169 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-21/mPmU0z9xWq8_TCE_College_Basketball_Best_Bets_For_November_21st_Spread_Moneyline_Bettin.txt  (871 words)
+NEW     CBB/transcripts/2026-11-21/djZDm7Gctak_TCE_College_Basketball_PICKS_ONLY_Saturday_November_21st_TCE_Trims.txt  (15,647 words)
+NEW     CBB/transcripts/2026-11-21/TFhrbVcSWP4_TCE_College_Basketball_Picks_For_November_21st_NCAA_Basketball_Banter_Best.txt  (23,088 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/JatfXj29Ufo_WagerTalk_Alan_Boston_UNFILTERED_Stu_Ungar_Stories_College_Basketball_Bets_UT_Ma.txt  (11,852 words)
+NEW     CBB/transcripts/2026-11-20/ntyCZpb0uQk_WagerTalk_College_Basketball_Picks_Today_Friday_CBB_Best_Bets_Odds_Full_Court_Pr.txt  (11,965 words)
+NEW     CBB/transcripts/2026-11-20/PB4Trfm4svQ_WagerTalk_College_Basketball_Picks_Today_Friday_CBB_Best_Bets_Odds_Full_Court_Pr.txt  (11,965 words)
+NEW     CBB/transcripts/2026-11-20/Yh3whoP7avo_WagerTalk_Kentucky_vs_Indiana_College_Basketball_BEST_Bets_TODAY_College_Basketb.txt  (1,555 words)
+NEW     CBB/transcripts/2026-11-20/8Ey3oun1XQo_WagerTalk_College_Basketball_Picks_TODAY_Dayton_vs_Utah_Saint_Louis_vs_Saint_Mar.txt  (1,665 words)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-21/wz7KQ4qzmUA_PickDawgz_College_Basketball_Picks_for_Today_11_21_26_Saturday_Best_College_Bask.txt  (1,991 words)
+NEW     CBB/transcripts/2026-11-21/-7cRwfKvsb4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_21_26_Ron_s_Bank_Shot_Br.txt  (1,862 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -50,5 +45,6 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NEW     CBB/transcripts/2026-11-21/8N5AY6QP34M_FieldOf68_INSTANT_REACTION_TO_KENTUCKY_INDIANA_Plus_what_teams_are_we_most_CONFI.txt  (14,215 words, via Groq)
+NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
