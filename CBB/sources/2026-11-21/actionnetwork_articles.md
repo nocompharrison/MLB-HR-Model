@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-21 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-21 17:03 ET -->
 
 
 ---
@@ -112,310 +112,184 @@ Air Force vs. UTSA
 Right Arrow
 Washington State vs. Duke
 ### Top Stories
-[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+[![Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
-[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-Colby Marchio
-11 hours ago
-[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-Carter Elliott
-11 hours ago
+[Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+Greg Waddell
+10 hours ago
 [![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
 [Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
 Sean Paul
-15 mins ago
+6 hours ago
 [ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 NCAAB
 [4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 Alex Kolodziej
-3 hours ago
+8 hours ago
 [ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 NCAAF
 [+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 Alex Kolodziej
-3 hours ago
-[![Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+9 hours ago
+[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
-[Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-Greg Waddell
-4 hours ago
+[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
+Carter Elliott
+TODAY / 12:15 AM EST
+[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+Colby Marchio
+Nov 20, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bcf0b7b8-b688-4f34-bfcb-9f618876ab9d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2d03717d-5af7-4328-8c38-379c32bddd51&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bcf0b7b8-b688-4f34-bfcb-9f618876ab9d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2d03717d-5af7-4328-8c38-379c32bddd51&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0b5d8e1c-eb0a-4717-b44b-e1bd9e3ddcc3&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2d03717d-5af7-4328-8c38-379c32bddd51&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=7668&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0b5d8e1c-eb0a-4717-b44b-e1bd9e3ddcc3&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2d03717d-5af7-4328-8c38-379c32bddd51&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=7668&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d83ab99c-e62f-4b51-89df-61fc1fdee632&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=94c02581-ce9f-476b-9668-4a633e4e8032&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d83ab99c-e62f-4b51-89df-61fc1fdee632&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=94c02581-ce9f-476b-9668-4a633e4e8032&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=832217d4-c56e-4093-8d88-4dff597c96dc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=94c02581-ce9f-476b-9668-4a633e4e8032&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=7680&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=832217d4-c56e-4093-8d88-4dff597c96dc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=94c02581-ce9f-476b-9668-4a633e4e8032&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-3-ncaab-picks-saturday-november-21&tw_engaged_ms=7680&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21
+## SOURCE: https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
+# Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+[Greg Waddell](https://www.actionnetwork.com/article/author/greg-waddell)
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 20, 2026, 11:36 PM EST
+Nov 21, 2026, 03:56 PM EST
 Updated:
-Nov 20, 2026, 11:36 PM EST
+Nov 21, 2026, 03:56 PM EST
 Credit:
-Nov 18, 2026; Queens, New York, USA; Siena Saints head coach Nevada Smith yells out instructions in the first half against the St. John’s Red Storm at Carnesecca Arena. Mandatory Credit: Wendell Cruz-Imagn Images
+Rick Osentoski-Imagn Images. Pictured: Moustapha Thiam.
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Siena](https://www.actionnetwork.com/ncaab/odds/siena-saints) Saints take on the [Bucknell](https://www.actionnetwork.com/ncaab/odds/bucknell-bison) Bison in Lewisburg, PA. Tip-off is set for 11 a.m. ET on ESPN+.
-Siena is favored by -6.5 points on the spread with a moneyline of -265. The total is set at 153.5 points.
-Here’s my **Siena vs. Bucknell prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
+The Michigan Wolverines take on the Villanova Wildcats in Philadelphia, PA. Tip-off is set for 7 p.m. ET on FOX.
+Michigan is favored by 3.5 points on the spread with a moneyline of -172. The total is set at 159.5 points.
+Here’s my **Michigan vs. Villanova prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
 * * *
-## Siena vs Bucknell Prediction
-**Pick:[ Siena -6.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224925309&context=action-articles&sport=basketball)**
-My**Siena vs Bucknell best bet** is on Saints to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Michigan vs Villanova Prediction
+**Pick:[ Michigan -3.5 (Play to -5.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224895080&context=playbook-slack-quickslip&sport=basketball)**
+My**Michigan vs Villanova best bet** is on the Wolverines to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Siena vs Bucknell Odds
-[![Siena Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)](https://www.actionnetwork.com/ncaab/odds/siena-saints)
+## Michigan vs Villanova Odds, Spread, Total
+[![Michigan Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines)
 Saturday, Nov 21
-11 a.m. ET
-ESPN+
-[![Bucknell Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)](https://www.actionnetwork.com/ncaab/odds/bucknell-bison)  
-| Siena Odds |  
+7 p.m. ET
+FOX
+[![Villanova Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)](https://www.actionnetwork.com/ncaab/odds/villanova-wildcats)  
+| Michigan Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -6.5 -105  |  153.5 -110o / -110u  | -265  |  
-| Bucknell Odds |  
+|  -3.5 -114  |  159.5 -110o / -110u  | -172  |  
+| Villanova Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +6.5 -115  |  153.5 -110o / -110u  | +215  |  
+|  +3.5 -106  |  159.5 -110o / -110u  | +142  |  
 Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Siena vs Bucknell spread:** Siena -6.5 (-105), Bucknell +4.5 (-115)
-  * **Siena vs Bucknell over/under:** 153.5 (-110o / -110u)
-  * **Siena vs Bucknell moneyline:** Siena -265, Bucknell +215
+  * **Michigan vs Villanova spread:** Michigan -3.5 (-102), Villanova +3.5 (-120)
+  * **Michigan vs Villanova over/under:** 159.5 (-115o / -105u)
+  * **Michigan vs Villanova moneyline:** Michigan -152, Villanova +128
 
 
 * * *
-## Siena vs Bucknell College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)
-### Siena Basketball
-Reading about this Siena team in the preseason would get any mid-major sicko fired up. Lindy's Sports Magazines stated that the Saints acquired "champions." Sure, they're coming from the Division II level, but those guys always bring a ton of pride and heart to the Division I level.
-Early on, the Saints have only lost their opener on the road against Bryant and this past Wednesday's matchup at St. John's. They've beaten Princeton by 14, Dayton by 10 and Brown by five.
-A few areas where first-year head coach Nevada Smith (I mean, come on, I wish I had that name) has these boys excelling include limiting fouls. Siena ranks ninth in the country in free-throw rate defense while sitting in the top 160 nationally in defending both the rim and perimeter.
-Keeping Bucknell off the line is going to be huge because the Bison already rank 314th out of 365 teams in free-throw rate offense. Not to mention, they're 283rd in free throw percentage.
-This should be a very gettable road trip for Siena.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)
-### Bucknell Basketball
-Not many teams are coming off more impressive wins than the Bison, who took down top-105 [Akron](https://www.actionnetwork.com/ncaab/odds/akron-zips) on Tuesday, 53-49, as 15.5-point home underdogs. The Bison's largest lead reached 20 points, as they went into halftime up 33-18.
-Things evened out in the second half, with the Zips outscoring Bucknell 31-20, but the Bison still came out on top.
-Outside of that victory, they have been getting destroyed by just about everyone they've played, losing by an average of 25 points per game.
-Coming off that wild win, a letdown could spell trouble for this bottom-feeding squad.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)
-## Siena vs. Bucknell Pick, Betting Analysis
-Coming off an outright win as a 15.5-point underdog has Letdown City, USA, written all over it.
-In a game where the Bison held the Zips to 5-for-30 shooting from beyond the arc and 18-for-58 from the floor, Bucknell didn't really lead in any major statistical category aside from assists, where it doubled Akron's total. The Bison also committed more fouls.
-Plus, if it weren't for their explosive first half, the Zips likely would have still won that game. It's an extremely impressive victory nonetheless, but Siena should bring them back down to earth, especially with the Saints coming off a major loss to St. John's.
-Siena should be able to clean up its turnover fiesta from earlier in the week and get back on track against a bottom-30 opponent coming off a major win.
-**Pick:[ Siena -6.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224925309&context=action-articles&sport=basketball)**
+## Michigan vs Villanova Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
+### Michigan Basketball
+Since winning the National Championship, it has been a year of surprising twists for Michigan.
+The latest surprise? A Mike Boynton offense broke the school record for most points in a game in his fourth matchup as the head coach.
+The Wolverines showed shades of last season's high-powered, extreme tempo monster against William & Mary, scoring 123 points in a frantic 91-possession game that finished with eight different Wolverines players accounting for 10 or more points.
+It won't be that easy again for Michigan, but it is worth noting that William & Mary isn't a total cupcake — that wasn't the 360th best team in the sport, it was the 185th-best team, according to KenPom.
+The biggest revelation for Michigan by far has been J.P. Estrella. The Tennessee transfer looks like he's next in line in Michigan's Danny Wolf/Vlad Golden to Morez Johnson Jr./Aday Mara success story pipeline.
+Estrella is averaging 16.8 points and 9.0 rebounds per game, dominating the boards and owning the paint for Michigan through four games.
+Quinn Costello has solved some of Michigan's bench issues. The freshman sharpshooter has forced his way into starter minutes, and has two games already with 10+ 3-point attempts. He is a perfect weapon for Elliott Cadeau, and his spacing opens so much for Trey McKenney.
+McKenney leads Michigan in scoring, but he has been slumping to start the season. He is making just 39% of his shots from the floor, and in theory, some positive shooting regression would bode well for a Michigan team that looks impressive even without its star at his best yet.
+After starting the season outside of the preseason KenPom top 25, Michigan has risen six spots up to 22nd nationally, which feels about right for what the Wolverines have shown so far.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
+### Villanova Basketball
+On the flip side, Villanova is trending in the opposite direction. Down from preseason 33rd at KenPom, Villanova is now ranked 51st and has struggled in two games against high-major competition.
+The biggest reason for the swing thus far has been the play of Luigi Suigo. Suigo is a 7-foot-3, 289-pound Italian prospect who shows flashes of NBA readiness mixed with more moments of frustration.
+Suigo was the best player in two of Villanova's wins over cupcake opponents, averaging 17.5 points, 13.5 rebounds and three blocks in those games.
+Against better competition, Suigo has been awful, averaging 6.5 points, five rebounds and 0.5 blocks against Notre Dame and Pittsburgh.
+Michigan's frontcourt duo of Estrella and Moustapha Thiam will be the most talented pair Suigo has seen yet, and his track record doesn't bode well for this spot.
+Villanova's leading scorer Devin Royal will be the one who has to deal with Estrella. Royal and Michigan will be familiar with each other, as he transferred from Ohio State. He is 1-5 in his career against the Wolverines.
+Villanova struggles on the boards, ranking outside the top 100 in both offensive and defensive rebounding. That means Michigan's bigs should feast.
+The best way to get to Michigan is to get the Wolverines in foul trouble. They are thin at the guard spots behind Cadeau and McKenney, and they are a totally different team in the paint without Thiam's rim-protecting presence.
+Unfortunately for Villanova, that's not what the Wildcats do. They rank just 312th as a team in free-throw rate, and it is unlikely that they will take advantage there.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
+## Michigan vs. Villanova College Basketball Picks, Best Bet
+While classified as a true home game, this duel won't take place on campus; instead, it will be in the Xfinity Mobile Arena, where the 76ers play.
+A more neutral-court feel is a significant boost for the Wolverines, who have a talent advantage across the board.
+It would take an unseen performance from Suigo to side with the Wildcats, and the track record isn't good enough to back that yet.
+**Pick:[ Michigan -3.5 (Play to -5.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224895080&context=playbook-slack-quickslip&sport=basketball)**
 * * *
-### How To Watch Siena vs Bucknell
+### How To Watch Michigan vs Villanova
 Location:
-Sojka Pavilion in Lewisburg, PA
+Xfinity Mobile Arena in Philadelphia, PA
 Date:
 Sat, Nov 21
 Tipoff Time:
-11:00 AM EST
+7:00 PM EST
 TV/Streaming:
-ESPN+
-Siena vs Bucknell is scheduled for 11:00 AM EST live from Sojka Pavilion on Saturday. The game will be broadcast on ESPN+.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Siena%20vs%20Bucknell%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+FOX
+Michigan vs Villanova is scheduled for 7:00 PM EST live from Xfinity Mobile Arena on Saturday. The game will be broadcast on FOX.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Michigan%20vs%20Villanova%20Prediction%2C%20Odds%2C%20Start%20Time%3A%20College%20Basketball%20Picks%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
 About the Author
-Colby Marchio • Betting Analyst
+Greg Waddell writes college basketball previews for The Action Network and is a featured guest on the BBOC podcast. He has been betting on sports for 10 years and has worked in sports betting since 2022.
+[Follow @gwizzy12 on X](https://x.com/gwizzy12)
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Siena vs Bucknell Prediction
+Michigan vs Villanova Prediction
 Right Arrow
-Siena vs Bucknell Odds
+Michigan vs Villanova Odds, Spread, Total
 Right Arrow
-Siena vs Bucknell College Basketball Preview
+Michigan vs Villanova Preview
 Right Arrow
-Siena Basketball
+Michigan Basketball
 Right Arrow
-Bucknell Basketball
+Villanova Basketball
 Right Arrow
-Siena vs. Bucknell Pick, Betting Analysis
+Michigan vs. Villanova College Basketball Picks, Best Bet
 Right Arrow
-How To Watch Siena vs Bucknell
+How To Watch Michigan vs Villanova
 ### Top Stories
+[![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
+Sean Paul
+6 hours ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
 Action Network Staff
-11 hours ago
+Nov 20, 2026 EST
+[ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
+NCAAB
+[4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
+Alex Kolodziej
+8 hours ago
+[ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
+NCAAF
+[+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
+Alex Kolodziej
+9 hours ago
 [![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
 [Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 Carter Elliott
-11 hours ago
-[![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
-Sean Paul
-15 mins ago
-[ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
-NCAAB
-[4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
-Alex Kolodziej
-3 hours ago
-[ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
-NCAAF
-[+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
-Alex Kolodziej
-3 hours ago
-[![Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-Greg Waddell
-4 hours ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5eda8d07-f717-47b4-8f7e-5a6dd5052082&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=75d567f1-ded6-48f4-b019-30fab93ca6f3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5eda8d07-f717-47b4-8f7e-5a6dd5052082&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=75d567f1-ded6-48f4-b019-30fab93ca6f3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=00f0ae64-c901-4f6a-951f-47e258806362&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=75d567f1-ded6-48f4-b019-30fab93ca6f3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7638&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=00f0ae64-c901-4f6a-951f-47e258806362&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=75d567f1-ded6-48f4-b019-30fab93ca6f3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7638&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Carter Elliott](https://www.actionnetwork.com/article/author/celliott)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 21, 2026, 12:16 AM EST
-Updated:
-Nov 21, 2026, 12:16 AM EST
-Credit:
-Photo Credit: Nick King/Lansing State Journal / USA TODAY NETWORK via Imagn Images  
-Pictured: Jordan Scott shoots
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Detroit Mercy Titans take on the Michigan State Spartans in East Lansing, Michigan. Tip-off is set for 12 p.m. ET on BTN.
-Michigan State is favored by 41.5 points on the spread, and the total is set at 150.5 points.
-Here’s my **Detroit vs. Michigan State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
-* * *
-## Detroit vs Michigan State Prediction
-**Pick:[ Detroit +41.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3224833730&context=playbook-slack-quickslip&sport=basketball)**
-My**Detroit vs Michigan State best bet** is on the Titans to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Detroit vs Michigan State Odds
-[![Detroit Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)](https://www.actionnetwork.com/ncaab/odds/detroit-titans)
-Saturday, Nov 21
-12 p.m. ET
-BTN
-[![Michigan State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)  
-| Detroit Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +41.5 -105  |  150.5 -115o / -105u  | OFF  |  
-| Michigan State Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -41.5 -115  |  150.5 -115o / -105u  | OFF  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Detroit vs Michigan State spread:** Detroit +41.5 (-105), Michigan State -41.5 (-115)
-  * **Detroit vs Michigan State over/under:** 150.5 (-115o / -105u)
-
-
-* * *
-## Detroit vs Michigan State College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)
-### Detroit Basketball
-It has been a difficult start to the season for the winless [Titans](https://www.actionnetwork.com/ncaab/odds/detroit-titans), who have lost every game by double digits. This matchup serves as a homecoming for head coach Mark Montgomery, who both played and coached at [Michigan State](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans).
-Struggling on both ends of the floor, Detroit Mercy is led by junior guard [Tyler Spratt](https://www.actionnetwork.com/ncaab/players/tyler-spratt-283601-g), its sole double-digit scorer at 11 points per game. While he remains the team's primary offensive option, efficiency has been a challenge, with Spratt shooting just 28% from the field and 16% from beyond the arc.
-Although KenPom projects losses for the remainder of its schedule, pointing to a long season ahead, the roster features numerous local Michigan players who should bring extra motivation to this game.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
-### Michigan State Basketball
-Following a tough road loss to [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers) in which they managed only nine field goals and 46 points in a 15-point defeat, the Spartans will be aiming for a major rebound.
-Michigan State is in a strong position to recover as it hosts Detroit, a team ranked near the bottom nationally at 341st on KenPom. Facing the nation's 362nd-ranked defense provides the Spartans with an ideal opportunity to break out of their offensive funk and generate quality looks.
-However, roster health remains a central concern. Sophomore wing [Jordan Scott](https://www.actionnetwork.com/ncaab/players/jordan-scott-320092-f) reaggravated a shoulder injury last game, and given his strong 3-and-D play — along with next week's matchup against [Arkansas](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks) — keeping him on the bench seems plausible.
-Additionally, senior [Coen Carr](https://www.actionnetwork.com/ncaab/players/coen-carr-257836-f) continues to manage tendinitis, while sophomore [Jesse McCulloch](https://www.actionnetwork.com/ncaab/players/jesse-mcculloch-294829-f) is recovering from an ankle sprain, making it reasonable for Tom Izzo to rest them as well.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
-## Detroit vs. Michigan State Pick, Betting Analysis
-While Michigan State is much superior talent-wise, this is a lookahead spot for the Spartans, as they face Arkansas on Thanksgiving Day.
-In addition, as mentioned above, the Spartans are dealing with injury issues, specifically Scott, Carr and McCulloch.
-If this number was closer to 35, I would feel comfortable backing Izzo and Co. However, frankly, this current spread is just too large, especially considering the in-state motivation factor for Detroit.
-**Pick:[ Detroit +41.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3224833730&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Detroit vs Michigan St
-Location:
-Jack Breslin Students Events Center in East Lansing, MI
-Date:
-Sat, Nov 21
-Tipoff Time:
-12:00 PM EST
-TV/Streaming:
-BTN
-Detroit vs Michigan St is scheduled for 12:00 PM EST live from Jack Breslin Students Events Center on Saturday. The game will be broadcast on BTN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Detroit%20vs%20Michigan%20State%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Carter Elliott • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Detroit vs Michigan State Prediction
-Right Arrow
-Detroit vs Michigan State Odds
-Right Arrow
-Detroit vs Michigan State College Basketball Preview
-Right Arrow
-Detroit Basketball
-Right Arrow
-Michigan State Basketball
-Right Arrow
-Detroit vs. Michigan State Pick, Betting Analysis
-Right Arrow
-How To Watch Detroit vs Michigan St
-### Top Stories
-[![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
-NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
-Action Network Staff
-11 hours ago
+TODAY / 12:15 AM EST
 [![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
 [Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
 Colby Marchio
-11 hours ago
-[![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
-Sean Paul
-16 mins ago
-[ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
-NCAAB
-[4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
-Alex Kolodziej
-3 hours ago
-[ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
-NCAAF
-[+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
-Alex Kolodziej
-3 hours ago
-[![Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-Greg Waddell
-4 hours ago
+Nov 20, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=01969eee-cd03-4ffe-a5d7-7cef25557893&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=95a00a50-fff5-4299-8cd8-c3f68342d6f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=01969eee-cd03-4ffe-a5d7-7cef25557893&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=95a00a50-fff5-4299-8cd8-c3f68342d6f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cb4ab56d-d04f-4838-a1b2-08114979f8c0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=95a00a50-fff5-4299-8cd8-c3f68342d6f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7634&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cb4ab56d-d04f-4838-a1b2-08114979f8c0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=95a00a50-fff5-4299-8cd8-c3f68342d6f0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7634&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e26d5b43-fa15-4ba3-af66-f59a1334b2a1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=185c2291-3b65-4f8e-95d2-5cbe6dc0b2b0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=e26d5b43-fa15-4ba3-af66-f59a1334b2a1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=185c2291-3b65-4f8e-95d2-5cbe6dc0b2b0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c230a2f0-ddd0-488b-9f6e-1abb4ce157da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=185c2291-3b65-4f8e-95d2-5cbe6dc0b2b0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c230a2f0-ddd0-488b-9f6e-1abb4ce157da&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=185c2291-3b65-4f8e-95d2-5cbe6dc0b2b0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7697&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -535,39 +409,39 @@ Washington State vs. Duke Pick, Betting Analysis
 Right Arrow
 How To Watch Washington St vs Duke
 ### Top Stories
+[![Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+Greg Waddell
+10 hours ago
 [![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
 NCAAB
 [College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
 Action Network Staff
-11 hours ago
-[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-Colby Marchio
-11 hours ago
-[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-Carter Elliott
-11 hours ago
+Nov 20, 2026 EST
 [ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 NCAAB
 [4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 Alex Kolodziej
-3 hours ago
+8 hours ago
 [ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 NCAAF
 [+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 Alex Kolodziej
-3 hours ago
-[![Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+9 hours ago
+[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
-[Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-Greg Waddell
-4 hours ago
+[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
+Carter Elliott
+TODAY / 12:15 AM EST
+[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+Colby Marchio
+Nov 20, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9ce8a899-035c-4bfc-918f-4d07b31cfea2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=948e5f29-6913-4e2e-a2f8-219e711278db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9ce8a899-035c-4bfc-918f-4d07b31cfea2&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=948e5f29-6913-4e2e-a2f8-219e711278db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=326168a3-fe2d-4a23-82dd-a31f07e4db71&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=948e5f29-6913-4e2e-a2f8-219e711278db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7636&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=326168a3-fe2d-4a23-82dd-a31f07e4db71&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=948e5f29-6913-4e2e-a2f8-219e711278db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7636&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bffca73f-d493-4494-9eb3-26d2803e5125&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2ec2b83-5481-4498-a7f6-01d147d54fe0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bffca73f-d493-4494-9eb3-26d2803e5125&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2ec2b83-5481-4498-a7f6-01d147d54fe0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a968df54-11fc-4d52-8ad5-ae4dfdd97538&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2ec2b83-5481-4498-a7f6-01d147d54fe0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7682&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a968df54-11fc-4d52-8ad5-ae4dfdd97538&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a2ec2b83-5481-4498-a7f6-01d147d54fe0&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7682&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -1066,11 +940,11 @@ Senior News Editor
 
 Updated:
 
-Nov 21, 2026, 08:09 AM EST
+Nov 21, 2026, 03:25 PM EST
 
 Updated:
 
-Nov 21, 2026, 08:09 AM EST
+Nov 21, 2026, 03:25 PM EST
 
 ![Image 2: 4 College Basketball Picks Saturday: Random Games, Platinum Edges article feature image](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg)
 
@@ -1102,7 +976,11 @@ All picks are spreads and totals.
 
 ### USC Upstate vs. UNC Greensboro Prediction
 
-In the morning clash, PRO likes
+In the morning clash, PRO likes UNC Greensboro to cover. The market line sits around UNC-G -7.5, but Tanner McGrath’s projection makes it UNC Greensboro -10.67. That’s a meaningful gap and a strong indicator that the home team may be underrated here.
+
+### Mercyhurst vs. WIU Prediction
+
+This is an A+ totals play. The market has the over/under at 129.5, while PRO projects
 
 ![Image 3: Paywall CTA Image](https://assets.actionnetwork.com/160549_Light.png)
 ### Unlock Article With Action PRO
@@ -1117,39 +995,21 @@ In the morning clash, PRO likes
 
 USC Upstate vs. UNC Greensboro Prediction
 
+Mercyhurst vs. WIU Prediction
+
 ### Top Stories
 
-[![Image 5: College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+[![Image 5: Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
 
 NCAAB
 
-[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+[Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
 
-Action Network Staff
+Greg Waddell
 
-11 hours ago
+10 hours ago
 
-[![Image 6: Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-
-NCAAB
-
-[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-
-Colby Marchio
-
-11 hours ago
-
-[![Image 7: Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-
-NCAAB
-
-[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-
-Carter Elliott
-
-11 hours ago
-
-[![Image 8: Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
+[![Image 6: Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
 
 NCAAB
 
@@ -1157,9 +1017,19 @@ NCAAB
 
 Sean Paul
 
-16 mins ago
+6 hours ago
 
-[PRO ![Image 9: +2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
+[![Image 7: College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+
+NCAAB
+
+[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+
+Action Network Staff
+
+TODAY / 4:45 AM UTC
+
+[PRO ![Image 8: +2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 
 NCAAF
 
@@ -1167,17 +1037,27 @@ NCAAF
 
 Alex Kolodziej
 
-3 hours ago
+9 hours ago
 
-[![Image 10: Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+[![Image 9: Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 
 NCAAB
 
-[Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
 
-Greg Waddell
+Carter Elliott
 
-4 hours ago
+TODAY / 5:15 AM UTC
+
+[![Image 10: Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+
+NCAAB
+
+[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+
+Colby Marchio
+
+TODAY / 4:30 AM UTC
 
 ### Free Guide: 10 Tips to Hit Bigger Same Game Parlays More Often
 
@@ -1374,150 +1254,276 @@ Reject All Confirm My Choices
 
 [![Image 16: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)
 
-![Image 17](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=c9a7bd9c-6034-4254-91a5-98baaed8ee3c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=05789502-a0cf-4529-8933-4a13e1b6421f&tw_ch_fvl=Chromium%2F158.0.8127.36%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.36&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795277822120-269506656&tw_session_start=1&twpid=tw.1795277822119.718362735666873463&txn_id=o403j&type=javascript&version=2.4.12)![Image 18](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=c9a7bd9c-6034-4254-91a5-98baaed8ee3c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=05789502-a0cf-4529-8933-4a13e1b6421f&tw_ch_fvl=Chromium%2F158.0.8127.36%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.36&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795277822120-269506656&tw_session_start=1&twpid=tw.1795277822119.718362735666873463&txn_id=o403j&type=javascript&version=2.4.12)![Image 19](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
+![Image 17](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=cefde87e-70b5-45ad-a2b3-d397a84afa28&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3926f894-f1f9-4e18-86e5-75676ccb79c3&tw_ch_fvl=Chromium%2F158.0.8127.36%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.36&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_engaged_ms=5&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795298512593-563301488&tw_session_start=1&twpid=tw.1795298512593.21642767966059675&txn_id=o403j&type=javascript&version=2.4.12)![Image 18](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=cefde87e-70b5-45ad-a2b3-d397a84afa28&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3926f894-f1f9-4e18-86e5-75676ccb79c3&tw_ch_fvl=Chromium%2F158.0.8127.36%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.36&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-picks-saturday-11-21-2026&tw_engaged_ms=5&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795298512593-563301488&tw_session_start=1&twpid=tw.1795298512593.21642767966059675&txn_id=o403j&type=javascript&version=2.4.12)![Image 19](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21
+## SOURCE: https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Michigan vs Villanova Prediction, Pick, College Basketball Odds for Saturday, Nov. 21
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
-[Greg Waddell](https://www.actionnetwork.com/article/author/greg-waddell)
+# Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+[Carter Elliott](https://www.actionnetwork.com/article/author/celliott)
+Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 21, 2026, 07:06 AM EST
+Nov 21, 2026, 12:16 AM EST
 Updated:
-Nov 21, 2026, 07:06 AM EST
+Nov 21, 2026, 12:16 AM EST
 Credit:
-Rick Osentoski-Imagn Images. Pictured: Moustapha Thiam.
+Photo Credit: Nick King/Lansing State Journal / USA TODAY NETWORK via Imagn Images  
+Pictured: Jordan Scott shoots
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Michigan Wolverines take on the Villanova Wildcats in Philadelphia, PA. Tip-off is set for 7 p.m. ET on FOX.
-Michigan is favored by 3.5 points on the spread with a moneyline of -152. The total is set at 159.5 points.
-Here’s my **Michigan vs. Villanova prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
+The Detroit Mercy Titans take on the Michigan State Spartans in East Lansing, Michigan. Tip-off is set for 12 p.m. ET on BTN.
+Michigan State is favored by 41.5 points on the spread, and the total is set at 150.5 points.
+Here’s my **Detroit vs. Michigan State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
 * * *
-## Michigan vs Villanova Prediction
-**Pick:[ Michigan -3.5 (Play to -5.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224895080&context=playbook-slack-quickslip&sport=basketball)**
-My**Michigan vs Villanova best bet** is on the Wolverines to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Detroit vs Michigan State Prediction
+**Pick:[ Detroit +41.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3224833730&context=playbook-slack-quickslip&sport=basketball)**
+My**Detroit vs Michigan State best bet** is on the Titans to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Michigan vs Villanova Odds
-[![Michigan Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines)
+## Detroit vs Michigan State Odds
+[![Detroit Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)](https://www.actionnetwork.com/ncaab/odds/detroit-titans)
 Saturday, Nov 21
-7 p.m. ET
-FOX
-[![Villanova Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)](https://www.actionnetwork.com/ncaab/odds/villanova-wildcats)  
-| Michigan Odds |  
+12 p.m. ET
+BTN
+[![Michigan State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)  
+| Detroit Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -3.5 -102  |  159.5 -115o / -105u  | -152  |  
-| Villanova Odds |  
+|  +41.5 -105  |  150.5 -115o / -105u  | OFF  |  
+| Michigan State Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +3.5 -120  |  159.5 -115o / -105u  | +128  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Michigan vs Villanova spread:** Michigan -3.5 (-102), Villanova +3.5 (-120)
-  * **Michigan vs Villanova over/under:** 159.5 (-115o / -105u)
-  * **Michigan vs Villanova moneyline:** Michigan -152, Villanova +128
+|  -41.5 -115  |  150.5 -115o / -105u  | OFF  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Detroit vs Michigan State spread:** Detroit +41.5 (-105), Michigan State -41.5 (-115)
+  * **Detroit vs Michigan State over/under:** 150.5 (-115o / -105u)
 
 
 * * *
-## Michigan vs Villanova College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
-### Michigan Basketball
-Since winning the National Championship, it has been a year of surprising twists for Michigan.
-The latest surprise? A Mike Boynton offense broke the school record for most points in a game in his fourth matchup as the head coach.
-The Wolverines showed shades of last season's high-powered, extreme tempo monster against William & Mary, scoring 123 points in a frantic 91-possession game that finished with eight different Wolverines players accounting for 10 or more points.
-It won't be that easy again for Michigan, but it is worth noting that William & Mary isn't a total cupcake — that wasn't the 360th best team in the sport, it was the 185th-best team, according to KenPom.
-The biggest revelation for Michigan by far has been J.P. Estrella. The Tennessee transfer looks like he's next in line in Michigan's Danny Wolf/Vlad Golden to Morez Johnson Jr./Aday Mara success story pipeline.
-Estrella is averaging 16.8 points and 9.0 rebounds per game, dominating the boards and owning the paint for Michigan through four games.
-Quinn Costello has solved some of Michigan's bench issues. The freshman sharpshooter has forced his way into starter minutes, and has two games already with 10+ 3-point attempts. He is a perfect weapon for Elliott Cadeau, and his spacing opens so much for Trey McKenney.
-McKenney leads Michigan in scoring, but he has been slumping to start the season. He is making just 39% of his shots from the floor, and in theory, some positive shooting regression would bode well for a Michigan team that looks impressive even without its star at his best yet.
-After starting the season outside of the preseason KenPom top 25, Michigan has risen six spots up to 22nd nationally, which feels about right for what the Wolverines have shown so far.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
-### Villanova Basketball
-On the flip side, Villanova is trending in the opposite direction. Down from preseason 33rd at KenPom, Villanova is now ranked 51st and has struggled in two games against high-major competition.
-The biggest reason for the swing thus far has been the play of Luigi Suigo. Suigo is a 7-foot-3, 289-pound Italian prospect who shows flashes of NBA readiness mixed with more moments of frustration.
-Suigo was the best player in two of Villanova's wins over cupcake opponents, averaging 17.5 points, 13.5 rebounds and three blocks in those games.
-Against better competition, Suigo has been awful, averaging 6.5 points, five rebounds and 0.5 blocks against Notre Dame and Pittsburgh.
-Michigan's frontcourt duo of Estrella and Moustapha Thiam will be the most talented pair Suigo has seen yet, and his track record doesn't bode well for this spot.
-Villanova's leading scorer Devin Royal will be the one who has to deal with Estrella. Royal and Michigan will be familiar with each other, as he transferred from Ohio State. He is 1-5 in his career against the Wolverines.
-Villanova struggles on the boards, ranking outside the top 100 in both offensive and defensive rebounding. That means Michigan's bigs should feast.
-The best way to get to Michigan is to get the Wolverines in foul trouble. They are thin at the guard spots behind Cadeau and McKenney, and they are a totally different team in the paint without Thiam's rim-protecting presence.
-Unfortunately for Villanova, that's not what the Wildcats do. They rank just 312th as a team in free-throw rate, and it is unlikely that they will take advantage there.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/vil.png)
-## Michigan vs. Villanova Pick, Betting Analysis
-While classified as a true home game, this duel won't take place on campus; instead, it will be in the Xfinity Mobile Arena, where the 76ers play.
-A more neutral-court feel is a significant boost for the Wolverines, who have a talent advantage across the board.
-It would take an unseen performance from Suigo to side with the Wildcats, and the track record isn't good enough to back that yet.
-**Pick:[ Michigan -3.5 (Play to -5.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224895080&context=playbook-slack-quickslip&sport=basketball)**
+## Detroit vs Michigan State College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)
+### Detroit Basketball
+It has been a difficult start to the season for the winless [Titans](https://www.actionnetwork.com/ncaab/odds/detroit-titans), who have lost every game by double digits. This matchup serves as a homecoming for head coach Mark Montgomery, who both played and coached at [Michigan State](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans).
+Struggling on both ends of the floor, Detroit Mercy is led by junior guard [Tyler Spratt](https://www.actionnetwork.com/ncaab/players/tyler-spratt-283601-g), its sole double-digit scorer at 11 points per game. While he remains the team's primary offensive option, efficiency has been a challenge, with Spratt shooting just 28% from the field and 16% from beyond the arc.
+Although KenPom projects losses for the remainder of its schedule, pointing to a long season ahead, the roster features numerous local Michigan players who should bring extra motivation to this game.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
+### Michigan State Basketball
+Following a tough road loss to [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers) in which they managed only nine field goals and 46 points in a 15-point defeat, the Spartans will be aiming for a major rebound.
+Michigan State is in a strong position to recover as it hosts Detroit, a team ranked near the bottom nationally at 341st on KenPom. Facing the nation's 362nd-ranked defense provides the Spartans with an ideal opportunity to break out of their offensive funk and generate quality looks.
+However, roster health remains a central concern. Sophomore wing [Jordan Scott](https://www.actionnetwork.com/ncaab/players/jordan-scott-320092-f) reaggravated a shoulder injury last game, and given his strong 3-and-D play — along with next week's matchup against [Arkansas](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks) — keeping him on the bench seems plausible.
+Additionally, senior [Coen Carr](https://www.actionnetwork.com/ncaab/players/coen-carr-257836-f) continues to manage tendinitis, while sophomore [Jesse McCulloch](https://www.actionnetwork.com/ncaab/players/jesse-mcculloch-294829-f) is recovering from an ankle sprain, making it reasonable for Tom Izzo to rest them as well.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/det.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
+## Detroit vs. Michigan State Pick, Betting Analysis
+While Michigan State is much superior talent-wise, this is a lookahead spot for the Spartans, as they face Arkansas on Thanksgiving Day.
+In addition, as mentioned above, the Spartans are dealing with injury issues, specifically Scott, Carr and McCulloch.
+If this number was closer to 35, I would feel comfortable backing Izzo and Co. However, frankly, this current spread is just too large, especially considering the in-state motivation factor for Detroit.
+**Pick:[ Detroit +41.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3224833730&context=playbook-slack-quickslip&sport=basketball)**
 * * *
-### How To Watch Michigan vs Villanova
+### How To Watch Detroit vs Michigan St
 Location:
-Xfinity Mobile Arena in Philadelphia, PA
+Jack Breslin Students Events Center in East Lansing, MI
 Date:
 Sat, Nov 21
 Tipoff Time:
-7:00 PM EST
+12:00 PM EST
 TV/Streaming:
-FOX
-Michigan vs Villanova is scheduled for 7:00 PM EST live from Xfinity Mobile Arena on Saturday. The game will be broadcast on FOX.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Michigan%20vs%20Villanova%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+BTN
+Detroit vs Michigan St is scheduled for 12:00 PM EST live from Jack Breslin Students Events Center on Saturday. The game will be broadcast on BTN.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Detroit%20vs%20Michigan%20State%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
-Greg Waddell writes college basketball previews for The Action Network and is a featured guest on the BBOC podcast. He has been betting on sports for 10 years and has worked in sports betting since 2022.
-[Follow @gwizzy12 on X](https://x.com/gwizzy12)
+Carter Elliott • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Michigan vs Villanova Prediction
+Detroit vs Michigan State Prediction
 Right Arrow
-Michigan vs Villanova Odds
+Detroit vs Michigan State Odds
 Right Arrow
-Michigan vs Villanova College Basketball Preview
+Detroit vs Michigan State College Basketball Preview
 Right Arrow
-Michigan Basketball
+Detroit Basketball
 Right Arrow
-Villanova Basketball
+Michigan State Basketball
 Right Arrow
-Michigan vs. Villanova Pick, Betting Analysis
+Detroit vs. Michigan State Pick, Betting Analysis
 Right Arrow
-How To Watch Michigan vs Villanova
+How To Watch Detroit vs Michigan St
 ### Top Stories
-[![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+[![Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
-[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
-Action Network Staff
-11 hours ago
-[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
-Colby Marchio
-11 hours ago
-[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-NCAAB
-[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
-Carter Elliott
-11 hours ago
+[Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+Greg Waddell
+10 hours ago
 [![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
 NCAAB
 [Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
 Sean Paul
-16 mins ago
+6 hours ago
+[![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+NCAAB
+[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+Action Network Staff
+Nov 20, 2026 EST
 [ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 NCAAB
 [4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
 Alex Kolodziej
-3 hours ago
+8 hours ago
 [ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 NCAAF
 [+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
 Alex Kolodziej
-3 hours ago
+9 hours ago
+[![Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/sienanevada.jpg)](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+Colby Marchio
+Nov 20, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=327f3884-f546-44a0-99fd-1ec21dd3bcbb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=50034d5b-15cf-4fb1-adee-13e90b5afc1a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=327f3884-f546-44a0-99fd-1ec21dd3bcbb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=50034d5b-15cf-4fb1-adee-13e90b5afc1a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=e627d220-454d-4040-b50b-e773a12e5f96&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=50034d5b-15cf-4fb1-adee-13e90b5afc1a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7642&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=e627d220-454d-4040-b50b-e773a12e5f96&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=50034d5b-15cf-4fb1-adee-13e90b5afc1a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmichigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7642&tw_iframe_status=0&tw_pid_src=2&tw_session_count=117&tw_session_id=1795277755799-493370733&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0f9a7726-7404-422f-a67c-12a28d0af948&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31f4ba68-d91c-4a06-aed3-3e631bf621c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0f9a7726-7404-422f-a67c-12a28d0af948&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31f4ba68-d91c-4a06-aed3-3e631bf621c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5eaa24b3-a3db-4bb3-a860-bb22ff7db317&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31f4ba68-d91c-4a06-aed3-3e631bf621c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5eaa24b3-a3db-4bb3-a860-bb22ff7db317&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31f4ba68-d91c-4a06-aed3-3e631bf621c2&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fdetroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7699&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/siena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Siena vs Bucknell Prediction, Pick, College Basketball Odds for Saturday, Nov. 21
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
+Betting Analyst
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 20, 2026, 11:36 PM EST
+Updated:
+Nov 20, 2026, 11:36 PM EST
+Credit:
+Nov 18, 2026; Queens, New York, USA; Siena Saints head coach Nevada Smith yells out instructions in the first half against the St. John’s Red Storm at Carnesecca Arena. Mandatory Credit: Wendell Cruz-Imagn Images
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The [Siena](https://www.actionnetwork.com/ncaab/odds/siena-saints) Saints take on the [Bucknell](https://www.actionnetwork.com/ncaab/odds/bucknell-bison) Bison in Lewisburg, PA. Tip-off is set for 11 a.m. ET on ESPN+.
+Siena is favored by -6.5 points on the spread with a moneyline of -265. The total is set at 153.5 points.
+Here’s my **Siena vs. Bucknell prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 21, 2026.
+* * *
+## Siena vs Bucknell Prediction
+**Pick:[ Siena -6.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224925309&context=action-articles&sport=basketball)**
+My**Siena vs Bucknell best bet** is on Saints to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Siena vs Bucknell Odds
+[![Siena Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)](https://www.actionnetwork.com/ncaab/odds/siena-saints)
+Saturday, Nov 21
+11 a.m. ET
+ESPN+
+[![Bucknell Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)](https://www.actionnetwork.com/ncaab/odds/bucknell-bison)  
+| Siena Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -6.5 -105  |  153.5 -110o / -110u  | -265  |  
+| Bucknell Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +6.5 -115  |  153.5 -110o / -110u  | +215  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **Siena vs Bucknell spread:** Siena -6.5 (-105), Bucknell +4.5 (-115)
+  * **Siena vs Bucknell over/under:** 153.5 (-110o / -110u)
+  * **Siena vs Bucknell moneyline:** Siena -265, Bucknell +215
+
+
+* * *
+## Siena vs Bucknell College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)
+### Siena Basketball
+Reading about this Siena team in the preseason would get any mid-major sicko fired up. Lindy's Sports Magazines stated that the Saints acquired "champions." Sure, they're coming from the Division II level, but those guys always bring a ton of pride and heart to the Division I level.
+Early on, the Saints have only lost their opener on the road against Bryant and this past Wednesday's matchup at St. John's. They've beaten Princeton by 14, Dayton by 10 and Brown by five.
+A few areas where first-year head coach Nevada Smith (I mean, come on, I wish I had that name) has these boys excelling include limiting fouls. Siena ranks ninth in the country in free-throw rate defense while sitting in the top 160 nationally in defending both the rim and perimeter.
+Keeping Bucknell off the line is going to be huge because the Bison already rank 314th out of 365 teams in free-throw rate offense. Not to mention, they're 283rd in free throw percentage.
+This should be a very gettable road trip for Siena.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)
+### Bucknell Basketball
+Not many teams are coming off more impressive wins than the Bison, who took down top-105 [Akron](https://www.actionnetwork.com/ncaab/odds/akron-zips) on Tuesday, 53-49, as 15.5-point home underdogs. The Bison's largest lead reached 20 points, as they went into halftime up 33-18.
+Things evened out in the second half, with the Zips outscoring Bucknell 31-20, but the Bison still came out on top.
+Outside of that victory, they have been getting destroyed by just about everyone they've played, losing by an average of 25 points per game.
+Coming off that wild win, a letdown could spell trouble for this bottom-feeding squad.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/siena.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/buc.png)
+## Siena vs. Bucknell Pick, Betting Analysis
+Coming off an outright win as a 15.5-point underdog has Letdown City, USA, written all over it.
+In a game where the Bison held the Zips to 5-for-30 shooting from beyond the arc and 18-for-58 from the floor, Bucknell didn't really lead in any major statistical category aside from assists, where it doubled Akron's total. The Bison also committed more fouls.
+Plus, if it weren't for their explosive first half, the Zips likely would have still won that game. It's an extremely impressive victory nonetheless, but Siena should bring them back down to earth, especially with the Saints coming off a major loss to St. John's.
+Siena should be able to clean up its turnover fiesta from earlier in the week and get back on track against a bottom-30 opponent coming off a major win.
+**Pick:[ Siena -6.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3224925309&context=action-articles&sport=basketball)**
+* * *
+### How To Watch Siena vs Bucknell
+Location:
+Sojka Pavilion in Lewisburg, PA
+Date:
+Sat, Nov 21
+Tipoff Time:
+11:00 AM EST
+TV/Streaming:
+ESPN+
+Siena vs Bucknell is scheduled for 11:00 AM EST live from Sojka Pavilion on Saturday. The game will be broadcast on ESPN+.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)[](https://twitter.com/intent/tweet?text=Siena%20vs%20Bucknell%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Saturday%2C%20Nov.%2021&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21)
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+About the Author
+Colby Marchio • Betting Analyst
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Siena vs Bucknell Prediction
+Right Arrow
+Siena vs Bucknell Odds
+Right Arrow
+Siena vs Bucknell College Basketball Preview
+Right Arrow
+Siena Basketball
+Right Arrow
+Bucknell Basketball
+Right Arrow
+Siena vs. Bucknell Pick, Betting Analysis
+Right Arrow
+How To Watch Siena vs Bucknell
+### Top Stories
+[![Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Michigan-Villanova-NCAAB-11_21.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Michigan vs Villanova Prediction, Odds, Start Time: College Basketball Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-villanova-wildcats-prediction-pick-odds-college-basketball-saturday-november-21)
+Greg Waddell
+10 hours ago
+[![Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/dukie.jpg)](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Washington State vs Duke Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/washington-state-cougars-vs-duke-blue-devils-prediction-pick-odds-college-basketball-saturday-november-21)
+Sean Paul
+6 hours ago
+[![College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/jbb-dujke.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+NCAAB
+[College Basketball Best Bets: 3 NCAAB Picks for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-3-ncaab-picks-saturday-november-21)
+Action Network Staff
+Nov 20, 2026 EST
+[ PRO ![4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://images.actionnetwork.com/blog/2026/11/boro-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
+NCAAB
+[4 College Basketball Picks Saturday: Random Games, Platinum Edges](https://www.actionnetwork.com/ncaab/college-basketball-picks-saturday-11-21-2026)
+Alex Kolodziej
+8 hours ago
+[ PRO ![+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions \(11/21\)](https://images.actionnetwork.com/blog/2026/11/waveeee.jpg) ](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
+NCAAF
+[+2648 Saturday Parlay: 5 Data-Driven NCAAF & NCAAB Predictions (11/21)](https://www.actionnetwork.com/ncaaf/parlay-odds-saturday-picks-ncaaf-ncaab-predictions-novemebr-21-2026)
+Alex Kolodziej
+9 hours ago
+[![Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://images.actionnetwork.com/blog/2026/11/Detroit-vs-Michigan-State-11.21.26.jpg)](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
+NCAAB
+[Detroit vs Michigan State Prediction, Pick, College Basketball Odds for Saturday, Nov. 21](https://www.actionnetwork.com/ncaab/detroit-mercy-titans-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-saturday-november-21)
+Carter Elliott
+TODAY / 12:15 AM EST
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9b8d389f-e3de-41dc-ad23-40d89df55f04&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6461cb2a-833a-4391-8e22-ffff5955549d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=9b8d389f-e3de-41dc-ad23-40d89df55f04&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6461cb2a-833a-4391-8e22-ffff5955549d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5477c833-5f2d-40a8-900d-908c4282072f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6461cb2a-833a-4391-8e22-ffff5955549d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5477c833-5f2d-40a8-900d-908c4282072f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6461cb2a-833a-4391-8e22-ffff5955549d&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsiena-saints-vs-bucknell-bison-prediction-pick-odds-college-basketball-saturday-november-21&tw_engaged_ms=7690&tw_iframe_status=0&tw_pid_src=2&tw_session_count=118&tw_session_id=1795294990125-280072702&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

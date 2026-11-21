@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-21 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-21 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,58 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![James Madison](https://assets.rotowire.com/images/teamlogo/cbasketball/James-Madison.png?v=16)
+[Emarquis Jones](https://www.rotowire.com/cbasketball/player/emarquis-jones-27976)
+Logs eight rebounds off bench
+**G** James Madison
+November 21, 2026
+Jones (undisclosed) supplied four points (2-2 FG), eight rebounds, seven assists and one steal in 12 minutes during Saturday's 136-45 win over Virginia-Lynchburg.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
+Sits out once again
+**G** Syracuse
+Hamstring
+November 21, 2026
+Tobiason (hamstring) didn't play in Syracuse's narrow 84-81 win over Lafayette.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Garwey Dual](https://www.rotowire.com/cbasketball/player/garwey-dual-22546)
+Not returning Saturday
+**G** Syracuse
+Ankle
+November 21, 2026
+Dual will not return to Saturday's game against Lafayette due to an ankle sprain, [Mike Waters of The Syracuse Post-Standard](https://x.com/MikeWatersSYR/status/2124241251276878206) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jesse McCulloch](https://www.rotowire.com/cbasketball/player/jesse-mcculloch-23525)
+Not starting Saturday
+**F** Michigan State
+November 21, 2026
+McCulloch will[ not start ](https://x.com/MSU_Basketball/status/2124183713894293645)Saturday against Detroit Mercy.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
+Slated to sit out Saturday
+**G** Michigan State
+Shoulder
+November 21, 2026
+Score (shoulder) is not expected to play in Saturday's game against Detroit, [Jcob Cotsonika of SI.com](https://x.com/jacobcotsonika/status/2124168119677755861) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Coen Carr](https://www.rotowire.com/cbasketball/player/coen-carr-22500)
+Not expected to play Saturday
+**F** Michigan State
+Knee
+November 21, 2026
+Carr (knee) is not expected to play in Saturday's game against Detroit, [Jacob Costonika of SI.com](https://x.com/jacobcotsonika/status/2124167602507489422) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Georgetown](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgetown.png?v=16)
 [Vyctorius Miller](https://www.rotowire.com/cbasketball/player/vyctorius-miller-23685)
 Out against Coppin
@@ -158,55 +210,6 @@ Expected to be ready for Players Era
 Knee
 November 20, 2026
 Haralson (knee) is expected to be ready for the Players Era Festival in Las Vegas that tips off Tuesday, per [Mike Wilson of On3](https://www.on3.com/teams/tennessee-volunteers/news/jalen-haralson-update-rick-barnes-tennessee-basketball-injury/).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
-[Jack Janicki](https://www.rotowire.com/cbasketball/player/jack-janicki-22381)
-Foot injury appears serious
-**G** Wisconsin
-Foot
-November 20, 2026
-Janicki was taken to the hospital after suffering a foot injury against Murray State on Friday night, per [Evan Flood of On3](https://x.com/Evan_Flood/status/2123971887302934776?a=DIaYbIXPfV0Vor9Hgqw&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Tennessee](https://assets.rotowire.com/images/teamlogo/cbasketball/Tennessee.png?v=16)
-[DeWayne Brown](https://www.rotowire.com/cbasketball/player/dewayne-brown-25781)
-Scores 20, grabs 11 boards
-**F** Tennessee
-November 20, 2026
-Brown totaled a season-high 20 points (8-9 FG, 4-6 FT), 11 rebounds, one assist, one block and one steal across 29 minutes during Friday's 78-51 victory over Coastal Carolina.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![North Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Texas.png?v=16)
-[Cole Franklin](https://www.rotowire.com/cbasketball/player/cole-franklin-24476)
-Productive off the bench in loss
-**G** North Texas
-November 20, 2026
-Franklin (mouth) produced eight points (4-6 FG, 0-1 FT), seven rebounds, one assist and one steal in 23 minutes during Friday's 81-75 loss to App State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Tennessee](https://assets.rotowire.com/images/teamlogo/cbasketball/Tennessee.png?v=16)
-[Tyler Lundblade](https://www.rotowire.com/cbasketball/player/tyler-lundblade-18985)
-Starts, scores seven
-**G** Tennessee
-November 20, 2026
-Lundblade racked up seven points (2-5 FG, 1-4 3Pt, 2-2 FT), two rebounds, two assists, one block and one steal over 23 minutes during Friday's 78-51 win over Coastal Carolina.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah.png?v=16)
-[TJ Burch](https://www.rotowire.com/cbasketball/player/tj-burch-24412)
-Swipes four
-**G** Utah
-November 20, 2026
-Burch closed with two points (1-5 FG, 0-2 3Pt), five rebounds, two assists and four steals across 24 minutes during Friday's 63-46 loss to Dayton.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=16)
-[Kanye Clary](https://www.rotowire.com/cbasketball/player/kanye-clary-20443)
-Ramping up
-**G** Oklahoma State
-November 20, 2026
-Clary racked up 10 points (3-8 FG, 1-4 3Pt, 3-6 FT), one rebound and two assists over 28 minutes during Friday's 85-70 loss to Minnesota.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
