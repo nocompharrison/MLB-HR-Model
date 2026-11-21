@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-21 | updated 2026-11-21 16:35 ET
+# NBA transcripts | 2026-11-21 | updated 2026-11-21 17:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 8 files in NBA/transcripts/2026-11-21:
 NBA/transcripts/2026-11-21/2PVe7ittYGs_ShipItNation_NBA_DFS_Process_November_21_2026_DraftKings_FanDuel_Picks_Plays_Slate.txt
