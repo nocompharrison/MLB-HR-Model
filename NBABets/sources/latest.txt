@@ -1,8 +1,8 @@
-# NBA betting sources | Sat 11/21/2026 | updated 2026-11-21 17:12 ET
+# NBA betting sources | Sat 11/21/2026 | updated 2026-11-21 18:07 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
 OK      NBABets/sources/2026-11-21/covers_top_picks.md       no changes since 2026-11-21 16:09  https://www.covers.com/nba/top-picks-nov-21-2026
 OK      NBABets/sources/2026-11-21/covers_ats_picks.md       no changes since 2026-11-21 16:09  https://www.covers.com/nba/against-the-spread-predictions-picks-nov-21-2026
-OK      NBABets/sources/2026-11-21/rotowire_bets.md          UPDATED (changed since 2026-11-21 16:37) 21,693 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417
-OK      NBABets/sources/2026-11-21/fanduel_research_bets.md  UPDATED (changed since 2026-11-21 16:37) 61,795 chars [7 of 7 articles combined] https://www.fanduel.com/research/nba
+OK      NBABets/sources/2026-11-21/rotowire_bets.md          UPDATED (changed since 2026-11-21 17:12) 21,699 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417
+OK      NBABets/sources/2026-11-21/fanduel_research_bets.md  UPDATED (changed since 2026-11-21 17:12) 105,343 chars [7 of 7 articles combined] https://www.fanduel.com/research/nba
 OK      NBABets/sources/2026-11-21/bettingpros_bets.md       no changes since 2026-11-21 16:09  https://www.bettingpros.com/articles/nba-picks-predictions-saturday-11-21/
