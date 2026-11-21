@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 18:38 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 18:52 ET -->
 
 
 ---
@@ -33,22 +33,22 @@ _Please note: lines and projections are subject to change throughout the day aft
 ### [Karl-Anthony Towns Over 3.5 Assists (-120)](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-new-york-knicks-36337806)
 Trail Blazers at Knicks — 7:30 p.m. ET
 Moneyline
-Spread
 Total Points
+Spread
 [Portland Trail Blazers](https://sportsbook.fanduel.com/teams/nba/portland-trail-blazers/odds)
 @
 * * *
 [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/odds)
--116
--1.5
--106
+-112
 O 213.5
 -110
+-1.5
+-106
 -104
-+1.5
--114
 U 213.5
 -110
++1.5
+-114
 Nov 22 12:40am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/portland-trail-blazers-@-new-york-knicks-36337806)
 Odds/lines subject to change
 The [New York Knicks](https://sportsbook.fanduel.com/teams/nba/new-york-knicks/roster) are getting steady creation from [Karl-Anthony Towns](https://sportsbook.fanduel.com/teams/nba/roster/karlanthony-towns-2326), who is averaging 3.9 assists across 15 games this season and 4.3 per game over his last 10. He has been even more involved recently, averaging 5.6 assists in his last five outings, and he handed out four against Minnesota in his most recent contest. 
@@ -58,7 +58,7 @@ Grizzlies at Timberwolves — 8:00 p.m. ET
 Jaden McDaniels - Assists
 Jaden McDaniels Over
 O 3.5
-+126
++122
 Nov 22 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-minnesota-timberwolves-36337803)
 Odds/lines subject to change
 The [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/roster) have gotten more playmaking from [Jaden McDaniels](https://sportsbook.fanduel.com/teams/nba/roster/jaden-mcdaniels-2892) this season. He is averaging 3.6 assists through 16 games, already above tonight’s 2.5-assist line, and has recorded at least three in nine of his last 10 appearances. 
@@ -68,8 +68,8 @@ Against the [Memphis Grizzlies](https://sportsbook.fanduel.com/teams/nba/memphis
 Celtics at Kings — 10:00 p.m. ET
 Darius Acuff Jr. - Pts + Ast
 Darius Acuff Jr. Over
-O 28.5
--125
+O 29.5
+-104
 Nov 22 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-sacramento-kings-36337805)
 Odds/lines subject to change
 Rookie guard [Darius Acuff Jr.](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520) has had to carry an enormous offensive workload for the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/roster). Through 15 games, he is averaging 25.7 points and 7.3 assists while playing 36.7 minutes per night. 
@@ -116,8 +116,13 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+2m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-17m
+31m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -130,11 +135,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -152,7 +152,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions, Odds and Betting Lines - November 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-21h
+22h
 Link
 ![NBA Predictions, Odds and Betting Lines - November 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F293f434e06d7e18d276ed3e7a3750866c0249d46-7309x4873.jpg%3Frect%3D0%2C629%2C7309%2C3617%26w%3D964%26h%3D477&w=1920&q=100)
 There are several strong matchups on today's NBA schedule, including the Portland Trail Blazers squaring off against the New York Knicks.
@@ -224,8 +224,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+2m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-17m
+31m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -238,11 +243,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -270,7 +270,7 @@ Link
   * **Coverage:**
 
 
-The New York Knicks (9-6) are favored (-3.5) to continue a three-game win streak when they host the Portland Trail Blazers (10-5) at 7:30 p.m. ET on Saturday, November 21, 2026 at Madison Square Garden. The game airs on Portland Trail Blazers. The matchup has an over/under of 215.5 points.
+The New York Knicks (9-6) are 1.5-point underdogs as they attempt to build on a three-game win streak when they host the Portland Trail Blazers (10-5) on Saturday, November 21, 2026 at Madison Square Garden. The contest airs at 7:30 p.m. ET on Portland Trail Blazers. The matchup has an over/under of 215.5.
 ## Knicks vs. Trail Blazers Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -280,30 +280,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Knicks win (71%)
 ## Knicks vs. Trail Blazers Betting Trends
-  * The Knicks are 7-8-0 against the spread this season.
-  * The Trail Blazers are 10-5-0 against the spread this season.
-  * This season, Knicks games have hit the over four times.
-  * Trail Blazers games this season have hit the over 40% of the time (six out of 15 games with a set point total).
-  * Against the spread, New York has performed worse when playing at home, covering three times in seven home games, and four times in eight road games.
-  * The Knicks have exceeded the over/under in two of seven home games (28.6%), compared to two of eight road games (25%).
-  * Portland has performed better against the spread on the road (7-3-0) than at home (3-2-0) this year.
-  * Looking at the over/under, Trail Blazers games have finished over less frequently at home (one of five, 20%) than on the road (five of 10, 50%).
-
-
-## Knicks Leaders
-  * Karl-Anthony Towns averages 21.3 points, 13.9 boards and 3.9 assists.
-  * Jalen Brunson is averaging 26.6 points, 5.9 assists and 2.9 rebounds.
-  * OG Anunoby is averaging 16.3 points, 2 assists and 5.4 rebounds.
-  * Josh Hart is averaging 6.8 points, 6.3 boards and 3.3 assists. Defensively, he averages 1.5 steals and 0.3 blocked shots.
-  * Mikal Bridges is averaging 7.5 points, 3.5 rebounds and 2.2 assists. Defensively, he averages 1.1 steals and 0.5 blocked shots.
+  * The Trail Blazers have covered the spread 10 times this season (10-5-0).
+  * Against the spread, the Knicks are 7-8-0 this season.
+  * Games involving the Trail Blazers have hit the over six times this season.
+  * The Knicks have eclipsed the over/under 26.7% of the time this year (four of 15 games with a set point total).
+  * Portland has covered the spread in a lower percentage of its home games than road games. It has covered three times in five games when playing at home, and it has covered seven times in 10 games on the road.
+  * The Trail Blazers have gone over the over/under in a lower percentage of games at home (20%) than road games (50%).
+  * Against the spread, New York has had better results on the road (4-4-0) than at home (3-4-0).
+  * In terms of the over/under, Knicks games have finished over two of seven times at home (28.6%), and two of eight on the road (25%).
 
 
 ## Trail Blazers Leaders
-  * Deni Avdija is averaging 24.2 points, 6.2 rebounds and 6.1 assists for the Trail Blazers.
-  * The Trail Blazers receive 10.7 points per game from Donovan Clingan, plus 10.7 boards and 1.8 assists.
-  * The Trail Blazers receive 20.9 points per game from Damian Lillard, plus 3.2 boards and 4.1 assists.
-  * The Trail Blazers are receiving 13.9 points, 3.5 rebounds and 4.3 assists per game from Jrue Holiday.
-  * Toumani Camara averages 12.6 points, 3.6 rebounds and 1.5 assists. He is draining 45.8% of his shots from the floor and 39.6% from beyond the arc, with 2.7 triples per contest.
+  * Deni Avdija's numbers on the season are 24.2 points, 6.2 rebounds and 6.1 assists per contest, shooting 50.7% from the field and 38.6% from downtown, with an average of 2.1 made treys.
+  * Donovan Clingan averages 10.7 points, 10.7 boards and 1.8 assists, shooting 55.5% from the field (10th in league).
+  * Damian Lillard is averaging 20.9 points, 3.2 boards and 4.1 assists. Defensively, he averages 0.7 steals and 0.1 blocked shots.
+  * Jrue Holiday is averaging 13.9 points, 3.5 boards and 4.3 assists.
+  * Toumani Camara's numbers on the season are 12.6 points, 3.6 boards and 1.5 assists per game, shooting 45.8% from the floor and 39.6% from beyond the arc, with an average of 2.7 made treys.
+
+
+## Knicks Leaders
+  * Karl-Anthony Towns is averaging 21.3 points, 13.9 boards and 3.9 assists for the Knicks.
+  * Jalen Brunson's numbers on the season are 26.6 points, 2.9 rebounds and 5.9 assists per game. He is sinking 43.3% of his shots from the floor and 40.0% from beyond the arc, with an average of 2.9 treys.
+  * OG Anunoby averages 16.3 points, 5.4 rebounds and 2.0 assists. He is making 40.1% of his shots from the floor and 32.3% from 3-point range, with 2.0 treys per game.
+  * Per game, Josh Hart provides the Knicks 6.8 points, 6.3 boards and 3.3 assists, plus 1.5 steals and 0.3 blocks.
+  * Per game, Mikal Bridges gets the Knicks 7.5 points, 3.5 boards and 2.2 assists, plus 1.1 steals and 0.5 blocks.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -312,8 +312,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+3m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-17m
+31m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -326,11 +331,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -400,8 +400,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+3m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-17m
+31m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -414,11 +419,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -488,8 +488,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+3m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-17m
+32m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -502,11 +507,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -534,7 +534,7 @@ Link
   * **Coverage:** DAZN-SAS, Gulf Coast Sports, and Pelicans+
 
 
-The New Orleans Pelicans (5-12) are heavy underdogs (by 18.5 points) to stop a three-game road losing streak when they visit the San Antonio Spurs (13-3) on Saturday, November 21, 2026 at 8 p.m. ET. The point total is set at 228.5 in the matchup.
+The New Orleans Pelicans (5-12) visit the San Antonio Spurs (13-3) after losing three straight road games. The Spurs are heavy favorites by 18.5 points in the matchup, which starts at 8 p.m. ET on Saturday, November 21, 2026. The point total is 228.5 for the matchup.
 ## Spurs vs. Pelicans Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -544,30 +544,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Spurs win (89.2%)
 ## Spurs vs. Pelicans Betting Trends
-  * The Spurs have compiled a 6-10-0 record against the spread this season.
-  * In the Pelicans' 17 games this season, they have nine wins against the spread.
+  * The Spurs have covered the spread six times this season (6-10-0).
+  * Against the spread, the Pelicans are 9-8-0 this year.
   * Spurs games have finished with a final combined score above the over/under five times out of 17 chances this season.
-  * Pelicans games this season have hit the over 58.8% of the time (10 out of 17 games with a set point total).
-  * San Antonio has done a better job covering the spread on the road (3-4-0) than it has at home (3-6-0).
-  * The Spurs have exceeded the over/under more consistently at home, hitting the over in three of nine home matchups (33.3%). In road games, they have hit the over in two of seven games (28.6%).
-  * In 2026-27 against the spread, New Orleans has a lower winning percentage at home (.455, 5-6-0 record) than on the road (.667, 4-2-0).
-  * Looking at the over/under, Pelicans games have finished over less frequently at home (six of 11, 54.5%) than away (four of six, 66.7%).
+  * Pelicans games this year have gone over the total in 10 of 17 opportunities (58.8%).
+  * San Antonio has covered the spread in a lower percentage of its home games than road games. It has covered three times in nine games when playing at home, and it has covered three times in seven games on the road.
+  * The Spurs have eclipsed the over/under more often at home, hitting the over in three of nine home matchups (33.3%). In away games, they have hit the over in two of seven games (28.6%).
+  * In 2026-27 against the spread, New Orleans has a lower winning percentage at home (.455, 5-6-0 record) than away (.667, 4-2-0).
+  * Pelicans games have finished above the over/under less frequently at home (six times out of 11) than on the road (four of six) this year.
 
 
 ## Spurs Leaders
-  * Victor Wembanyama averages 28.6 points, 11.9 rebounds and 3.3 assists, shooting 52.8% from the floor and 30% from downtown, with 1.9 made 3-pointers per game.
-  * Stephon Castle is averaging 15.7 points, 5.9 assists and 5.3 boards.
-  * De'Aaron Fox averages 12.9 points, 4.1 boards and 5.5 assists, shooting 47.7% from the floor.
-  * Devin Vassell's numbers on the season are 11.4 points, 3.9 rebounds and 3 assists per contest, shooting 40.7% from the field and 31.1% from downtown, with an average of 1.4 made 3-pointers.
-  * Julian Champagnie is averaging 10.5 points, 4.2 rebounds and 1.4 assists. Defensively, he averages 0.8 steals and 0.6 blocked shots.
+  * Victor Wembanyama averages 28.6 points, 11.9 boards and 3.3 assists, shooting 52.8% from the floor and 30.0% from beyond the arc, with 1.9 made 3-pointers per game.
+  * Stephon Castle's numbers on the season are 15.7 points, 5.3 boards and 5.9 assists per contest, shooting 42.9% from the floor and 34.8% from beyond the arc, with an average of 2.0 made treys.
+  * De'Aaron Fox averages 12.9 points, 4.1 boards and 5.5 assists.
+  * Devin Vassell averages 11.4 points, 3.9 rebounds and 3.0 assists, shooting 40.7% from the floor and 31.1% from downtown, with 1.4 made 3-pointers per contest.
+  * Julian Champagnie is averaging 10.5 points, 1.4 assists and 4.2 rebounds.
 
 
 ## Pelicans Leaders
-  * Zion Williamson averages 21.7 points for the Pelicans, plus 5.4 boards and 2.8 assists.
-  * Jeremiah Fears' numbers on the season are 15.9 points, 4.9 boards and 5.4 assists per contest. He is making 44.7% of his shots from the floor and 29.6% from 3-point range, with an average of 1.2 treys.
-  * The Pelicans receive 16.8 points per game from Saddiq Bey, plus 4.5 boards and 2.6 assists.
-  * Derik Queen's numbers on the season are 11.9 points, 6.4 rebounds and 2.2 assists per contest. He is draining 48.9% of his shots from the floor.
-  * Trey Murphy III's numbers on the season are 15.7 points, 4.7 rebounds and 3.3 assists per contest. He is draining 46.8% of his shots from the field and 37.7% from 3-point range, with an average of 2.3 triples.
+  * Zion Williamson is averaging 21.7 points, 5.4 rebounds and 2.8 assists for the Pelicans.
+  * The Pelicans are getting 15.9 points, 4.9 rebounds and 5.4 assists per game from Jeremiah Fears.
+  * Per game, Saddiq Bey gives the Pelicans 16.8 points, 4.5 boards and 2.6 assists, plus 0.8 steals and 0.3 blocks.
+  * Per game, Derik Queen provides the Pelicans 11.9 points, 6.4 rebounds and 2.2 assists, plus 0.9 steals and 0.8 blocks.
+  * Per game, Herbert Jones gives the Pelicans 6.9 points, 2.6 rebounds and 1.5 assists, plus 0.9 steals and 0.4 blocks.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -576,8 +576,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+3m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-18m
+32m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -590,11 +595,6 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
 
 
@@ -622,7 +622,7 @@ Link
   * **Coverage:** DAZN-MIN and DAZN-MEM
 
 
-The Memphis Grizzlies (12-4) will try to build on a five-game win streak when they hit the road to take on the Minnesota Timberwolves (11-5) on Saturday, November 21, 2026 at Target Center as 5.5-point underdogs. The matchup airs at 8 p.m. ET on DAZN-MIN and DAZN-MEM. The point total for the matchup is set at 229.5.
+The Memphis Grizzlies (12-4) are 5.5-point underdogs as they look to build on a five-game win streak when they visit the Minnesota Timberwolves (11-5) on Saturday, November 21, 2026 at Target Center. The matchup airs at 8 p.m. ET on DAZN-MIN and DAZN-MEM. The point total for the matchup is set at 229.5.
 ## Timberwolves vs. Grizzlies Odds & Spread
 All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navigation/nba) are from FanDuel Sportsbook.  
  |  
@@ -632,30 +632,30 @@ All [NBA betting lines, odds and prop bets](https://sportsbook.fanduel.com/navig
 _All NBA win probability predictions and picks are according to numberFire._  
 **Prediction:** Timberwolves win (78.5%)
 ## Timberwolves vs. Grizzlies Betting Trends
-  * The Timberwolves have registered a 12-4-0 record against the spread this season.
-  * In the Grizzlies' 16 games this season, they have 12 wins against the spread.
+  * The Timberwolves have covered the spread 12 times this season (12-4-0).
+  * The Grizzlies are 12-4-0 against the spread this season.
   * Games involving the Timberwolves have hit the over six times this season.
-  * Grizzlies games this season have hit the over eight times in 16 opportunities (50%).
-  * Minnesota sports a worse record against the spread when playing at home (6-4-0) than it does in road games (6-0-0).
-  * The Timberwolves have eclipsed the total less often when playing at home, hitting the over in three of 10 home matchups (30%). On the road, they have hit the over in three of six games (50%).
-  * This year, Memphis is 4-4-0 at home against the spread (.500 winning percentage). Away, it is 8-0-0 ATS (1.000).
-  * In terms of the over/under, Grizzlies games have gone over five of eight times at home (62.5%), and three of eight away (37.5%).
+  * Grizzlies games this year have gone over the total in eight of 16 opportunities (50%).
+  * Minnesota has done a better job covering the spread in road games (6-0-0) than it has in home games (6-4-0).
+  * The Timberwolves have gone over the total less consistently when playing at home, hitting the over in three of 10 home matchups (30%). On the road, they have hit the over in three of six games (50%).
+  * In 2026-27 against the spread, Memphis has a lower winning percentage at home (.500, 4-4-0 record) than away (1.000, 8-0-0).
+  * Looking at the over/under, Grizzlies games have gone over more often at home (five of eight, 62.5%) than away (three of eight, 37.5%).
 
 
 ## Timberwolves Leaders
-  * Jaden McDaniels is averaging 17.1 points, 3.6 assists and 6.1 rebounds.
-  * LaMelo Ball is averaging 17.6 points, 5.7 assists and 4.3 rebounds.
-  * Ayo Dosunmu is averaging 17.8 points, 4.6 rebounds and 3.5 assists. Defensively, he averages 1.3 steals and 0.4 blocked shots.
-  * Jonathan Kuminga is averaging 13.1 points, 5.5 rebounds and 2.8 assists.
+  * Jaden McDaniels averages 17.1 points, 6.1 rebounds and 3.6 assists, shooting 53.3% from the field and 35.3% from downtown, with 1.5 made treys per contest.
+  * LaMelo Ball's numbers on the season are 17.6 points, 4.3 rebounds and 5.7 assists per contest, shooting 40.7% from the floor and 36.2% from beyond the arc, with an average of 3.4 made treys (sixth in NBA).
+  * Ayo Dosunmu's numbers on the season are 17.8 points, 4.6 boards and 3.5 assists per game, shooting 50.9% from the field and 45.9% from beyond the arc, with an average of 2.1 made treys.
+  * Jonathan Kuminga is averaging 13.1 points, 5.5 boards and 2.8 assists.
   * Rudy Gobert is averaging 7.7 points, 10.9 boards and 1.6 assists. At the other end, he averages 0.4 steals and 0.9 blocked shots.
 
 
 ## Grizzlies Leaders
-  * Cedric Coward averages 14.8 points, 8.1 rebounds and 3.5 assists. He is also draining 47.9% of his shots from the floor and 46.3% from 3-point range (10th in league), with 2.5 triples per game.
-  * Ty Jerome averages 25.4 points, 3.4 rebounds and 5.3 assists. He is also draining 48.5% of his shots from the floor and 35.9% from 3-point range, with 2.5 triples per game.
-  * The Grizzlies are getting 11.3 points, 3 rebounds and 5.8 assists per game from Cam Spencer.
-  * The Grizzlies receive 11.4 points per game from Jaylen Wells, plus 3.3 rebounds and 1.4 assists.
-  * Per game, Zach Edey provides the Grizzlies 9.2 points, 7.4 boards and 0.9 assists, plus 0.3 steals and 1.2 blocks.
+  * Cedric Coward averages 14.8 points, 8.1 rebounds and 3.5 assists. He is also draining 47.9% of his shots from the floor and 46.3% from beyond the arc (10th in NBA), with 2.5 triples per game.
+  * The Grizzlies are receiving 25.4 points, 3.4 boards and 5.3 assists per game from Ty Jerome.
+  * The Grizzlies are getting 11.3 points, 3.0 boards and 5.8 assists per game from Cam Spencer.
+  * Per game, Jaylen Wells gives the Grizzlies 11.4 points, 3.3 boards and 1.4 assists, plus 0.8 steals and 0.1 blocks.
+  * The Grizzlies get 9.2 points per game from Zach Edey, plus 7.4 rebounds and 0.9 assists.
 
 
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
@@ -664,8 +664,13 @@ Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, De
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
+## [Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+3m
+Find Hawks vs. Pistons predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
+[](https://www.fanduel.com/research/hawks-vs-pistons-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+[NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
-18m
+32m
 Preview NBA games for Sunday, November 22, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
@@ -678,9 +683,4 @@ NBA player props to target today. What are the best NBA prop bets for Saturday?
 12h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-[NBA](https://www.fanduel.com/research/nba)
-## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-16h
-Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
-[](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 

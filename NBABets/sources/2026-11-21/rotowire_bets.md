@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 18:07 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 18:52 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 21
 RotoWire's JP Aravena highlights his favorite picks and predictions for Saturday's slate of NBA action.
@@ -130,13 +130,13 @@ Expected to play Sunday
 NFL
 Tennessee Titans
   * ![Washington Commanders](https://assets.rotowire.com/images/teamlogo/football/WAS.svg?v=12)
-[Rachaad White](https://www.rotowire.com/football/player/rachaad-white-15802)
-Questionable for Monday
+[Jacory Croskey-Merritt](https://www.rotowire.com/football/player/jacory-croskey-merritt-18811)
+Expected to return for MNF
 NFL
 Washington Commanders
   * ![Washington Commanders](https://assets.rotowire.com/images/teamlogo/football/WAS.svg?v=12)
-[Jacory Croskey-Merritt](https://www.rotowire.com/football/player/jacory-croskey-merritt-18811)
-Questionable for Week 11
+[Rachaad White](https://www.rotowire.com/football/player/rachaad-white-15802)
+Questionable for Monday
 NFL
 Washington Commanders
 
@@ -162,11 +162,11 @@ Anaheim Ducks
 Nearing return to lineup
 NHL
 Florida Panthers
-  * ![St. Louis Blues](https://assets.rotowire.com/images/teamlogo/hockey/100STL.png?v=5)
-[Jordan Binnington](https://www.rotowire.com/hockey/player/jordan-binnington-3851)
-Slated to face New Jersey
+  * ![New York Islanders](https://assets.rotowire.com/images/teamlogo/hockey/100NYI.png?v=5)
+[Ilya Sorokin](https://www.rotowire.com/hockey/player/ilya-sorokin-4478)
+Tending twine Saturday
 NHL
-St. Louis Blues
+New York Islanders
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
