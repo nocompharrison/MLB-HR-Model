@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-21 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,29 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[Walter Clayton](https://www.rotowire.com/basketball/player/walter-clayton-6575)[Available Saturday](https://www.rotowire.com/basketball/headlines/walter-clayton-news-available-saturday-540389)
+**G** Dallas Mavericks
+November 21, 2026
+Clayton (knee) is [available](https://x.com/MavsPR/status/2124278105984639024) for Saturday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)[Downgraded to out](https://www.rotowire.com/basketball/headlines/pj-washington-injury-downgraded-to-out-540388)
+**F** Dallas Mavericks
+Illness
+November 21, 2026
+Washington (illness/shoulder) is listed as [out](https://x.com/MavsPR/status/2124278105984639024?a=GTwJfXiEAIP9HcRrsfk&s=20) for Saturday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Ronald Holland](https://www.rotowire.com/basketball/player/ronald-holland-5939)[Might return Sunday](https://www.rotowire.com/basketball/headlines/ronald-holland-injury-might-return-sunday-540386)
+**F** Detroit Pistons
+Knee
+November 21, 2026
+Holland (knee) is listed as [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_05_15PM.pdf) for Sunday's game against Atlanta.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Sidelined against Portland](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-sidelined-against-portland-540385)
 **C** New York Knicks
@@ -183,29 +206,6 @@ Gardner (hamstring) is [probable](https://ak-static.cms.nba.com/referee/injury/I
 Groin
 November 21, 2026
 Antetokounmpo (groin) is listed as questionable for Sunday's game against Oklahoma City, [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2124238697650585801) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)[Unlikely to play Saturday](https://www.rotowire.com/basketball/headlines/pj-washington-injury-unlikely-to-play-saturday-540358)
-**F** Dallas Mavericks
-Illness
-November 21, 2026
-Washington (illness/shoulder) has been [downgraded from questionable to doubtful](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_02_15PM.pdf) ahead of Saturday's game against the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Ty Jerome](https://www.rotowire.com/basketball/player/ty-jerome-4774)[Cleared to play Saturday](https://www.rotowire.com/basketball/headlines/ty-jerome-news-cleared-to-play-saturday-540355)
-**G** Memphis Grizzlies
-November 21, 2026
-Jerome (hip) is [available](https://x.com/GrizzliesPR/status/2124215383070839084) for Saturday's game against Minnesota.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Won't play Saturday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-wont-play-saturday-540349)
-**F** New Orleans Pelicans
-Knee
-November 21, 2026
-Murphy (knee) has been [ruled out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_01_15PM.pdf) for Saturday's game against the Spurs.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

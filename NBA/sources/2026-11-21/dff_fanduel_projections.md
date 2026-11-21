@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-21 18:05 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-21 18:35 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Sat, Nov 21, 2026, 5:58 PM ET
+_Updated At:_ Sat, Nov 21, 2026, 6:31 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 5 GAME SLATE:
 SAT 7:30PM ET · Main
@@ -24,15 +24,14 @@ Main · 5 Game Slate · 7:30PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball  PG · $7500 FPTS 39.7 VALUE 5.3x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball   |  $7.5k  | EXP.  | MIN  | MEM  | 8  |  39.7  | 5.29  |   | 34.4  | 35.3  | 33.2  | 229.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/POR.svg) Deni Avdija  PG/SF · $8800 FPTS 38.9 VALUE 4.4x  | PG/SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/POR.svg) Deni Avdija   |  $8.8k  | EXP.  | POR  | NY  | 7  |  38.9  | 4.42  |   | 41.8  | 41.9  | 41.8  | 215.5  | 107  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) K. Irving  PG · $7300 FPTS 38.7 VALUE 5.3x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/DAL.svg) Kyrie Irving   |  $7.3k  | EXP.  | DAL  | LAC  | 18  |  38.7  | 5.30  |   | 37.5  | 38.7  | 36.9  | 230.5  | 117.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/LAC.svg) D. Garland  PG · $7300 FPTS 37.7 VALUE 5.2x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/LAC.svg) Darius Garland   |  $7.3k  | EXP.  | LAC  | DAL  | 19  |  37.7  | 5.16  |   | 36.5  | 33.8  | 32.6  | 230.5  | 113  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SA.svg) S. Castle  SG/PG · $7000 FPTS 37.3 VALUE 5.3x  | SG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SA.svg) Stephon Castle   |  $7.0k  | EXP.  | SA  | NO  | 16  |  37.3  | 5.33  |   | 37.6  | 33.9  | 32.8  | 228.5  | 124  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/LAC.svg) D. Garland  PG · $7300 FPTS 37.3 VALUE 5.1x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/LAC.svg) Darius Garland   |  $7.3k  | EXP.  | LAC  | DAL  | 19  |  37.3  | 5.11  |   | 36.5  | 33.8  | 32.6  | 230.5  | 113  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) D. Acuff  PG · $8200 FPTS 36.7 VALUE 4.5x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) Darius Acuff   |  $8.2k  | EXP.  | SAC  | BOS  | 2  |  36.7  | 4.47  |   | 38.3  | 41.6  | 40.1  | 216.5  | 102  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) D. Acuff  PG · $8200 FPTS 37.3 VALUE 4.5x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) Darius Acuff   |  $8.2k  | EXP.  | SAC  | BOS  | 2  |  37.3  | 4.55  |   | 38.3  | 41.6  | 40.1  | 216.5  | 102  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Ty Jerome  Q PG/SG · $6900 FPTS 36.1 VALUE 5.2x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Ty Jerome  Q  |  $6.9k  | EXP.  | MEM  | MIN  | 14  |  36.1  | 5.23  |   | 31.6  | 34.8  | 37.5  | 229.5  | 111.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) P. Pritchard  PG/SG · $4900 FPTS 35.9 VALUE 7.3x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Payton Pritchard   |  $4.9k  | EXP.  | BOS  | SAC  | 20  |  35.9  | 7.33  |   | 24.0  | 23.3  | 24.1  | 216.5  | 114.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) D. Sabonis  C · $7600 FPTS 35.2 VALUE 4.6x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/SAC.svg) Domantas Sabonis   |  $7.6k  | EXP.  | SAC  | BOS  | 2  |  35.2  | 4.64  |   | 30.8  | 33.1  | 37.5  | 216.5  | 102  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) P. Pritchard  PG/SG · $4900 FPTS 34.3 VALUE 7.0x  | PG/SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Payton Pritchard   |  $4.9k  | EXP.  | BOS  | SAC  | 20  |  34.3  | 7.01  |   | 24.0  | 23.3  | 24.1  | 216.5  | 114.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) C. Coward  SG/SF · $7100 FPTS 34.1 VALUE 4.8x  | SG/SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MEM.svg) Cedric Coward   |  $7.1k  | EXP.  | MEM  | MIN  | 9  |  34.1  | 4.81  |   | 39.7  | 35.4  | 33.8  | 229.5  | 111.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) J. McDaniels  SF · $6600 FPTS 33.0 VALUE 5.0x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) Jaden McDaniels   |  $6.6k  | EXP.  | MIN  | MEM  | 17  |  33.0  | 5.00  |   | 36.3  | 34.3  | 34.1  | 229.5  | 118  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) A. Drummond  C · $3900 FPTS 32.6 VALUE 8.4x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) Andre Drummond   |  $3.9k  |   | NY  | POR  | 29  |  32.6  | 8.36  |   | 10.5  | 13.6  | 15.7  | 215.5  | 108.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Zion Williamson  PF · $7200 FPTS 32.2 VALUE 4.5x  | PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Zion Williamson   |  $7.2k  | EXP.  | NO  | SA  | 5  |  32.2  | 4.47  |   | 38.0  | 37.5  | 37.7  | 228.5  | 104.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/POR.svg) D. Lillard  PG/PG · $7200 FPTS 31.8 VALUE 4.4x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/POR.svg) Damian Lillard   |  $7.2k  | EXP.  | POR  | NY  | 7  |  31.8  | 4.42  |   | 31.0  | 31.0  | 30.9  | 215.5  | 107  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) Ayo Dosunmu  PG/PG · $6400 FPTS 31.5 VALUE 4.9x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) Ayo Dosunmu   |  $6.4k  | EXP.  | MIN  | MEM  | 8  |  31.5  | 4.93  |   | 27.4  | 33.9  | 31.2  | 229.5  | 118  |  
@@ -42,6 +41,7 @@ Main · 5 Game Slate · 7:30PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) Josh Hart  SG/PF · $4200 FPTS 30.5 VALUE 7.3x  | SG/PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) Josh Hart   |  $4.2k  | EXP.  | NY  | POR  | 5  |  30.5  | 7.26  |   | 15.9  | 20.6  | 23.2  | 215.5  | 108.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) N. Queta  C · $5100 FPTS 30.4 VALUE 6.0x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/BOS.svg) Neemias Queta   |  $5.1k  | EXP.  | BOS  | SAC  | 18  |  30.4  | 5.96  |   | 28.1  | 25.8  | 24.3  | 216.5  | 114.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Saddiq Bey  SF · $6300 FPTS 30.2 VALUE 4.8x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NO.svg) Saddiq Bey   |  $6.3k  | EXP.  | NO  | SA  | 3  |  30.2  | 4.79  |   | 36.6  | 30.6  | 28.4  | 228.5  | 104.5  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) A. Drummond  C · $3900 FPTS 29.7 VALUE 7.6x  | C  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/NY.svg) Andre Drummond   |  $3.9k  | EXP.  | NY  | POR  | 29  |  29.7  | 7.61  |   | 10.5  | 13.6  | 15.7  | 215.5  | 108.5  |  
 Log In or create a free account to see all players
 [ LOG IN TO SEE ALL ](https://www.dailyfantasyfuel.com/auth)
 ## Industry Leading NBA DFS Projections 

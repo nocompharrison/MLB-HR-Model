@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-21 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-21 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -369,15 +369,33 @@ Sponsored Headlines
 
 [](https://withinmag.com/nv-gp-tb-letter-v1)[The Real Reason Dinner Stopped Filling You Up After 55 WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://withinmag.com/nv-gp-tb-letter-v1 "The Real Reason Dinner Stopped Filling You Up After 55")
 
+Undo
+
 [](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
+
+Undo
 
 [](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
+Undo
+
 [](https://lucinn.com/pages/itchy-skin-after-shower)[What Happens When Skin Barrier Weakens [Learn More]Lucinn | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://lucinn.com/pages/itchy-skin-after-shower "What Happens When Skin Barrier Weakens [Learn More]")
+
+Undo
 
 [](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)")
 
+Undo
+
 [](https://financefalcons.com/qs-best-credit-cards)[Which type of credit card fits how you spend?Type that fits your habits Finance Falcons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Compare](https://financefalcons.com/qs-best-credit-cards "Which type of credit card fits how you spend?")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Make Sure Your Loved Ones Are Protected Get term life insurance 100% online in as little as 10 min. No medical exam. Just answer health questions online.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Make Sure Your Loved Ones Are Protected")
+
+[](https://www.temu.com/ul/kuiper/un1.html)[Black Friday Deals Are Here on Temu Unwrap incredible Black Friday deals. Shop smarter on Temu.TEMU | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Shop Now](https://www.temu.com/ul/kuiper/un1.html "Black Friday Deals Are Here on Temu")
+
+[](https://www.grammarly.com/a)[Invest In Your Daily Productivity With Grammarly Pro Upgrade your daily workflow with intelligent writing support. Grammarly catches mistakes you might miss otherwise. Try it now.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.grammarly.com/a "Invest In Your Daily Productivity With Grammarly Pro")
 
 ### NBA News
 
@@ -393,7 +411,29 @@ Sponsored Headlines
 
 [](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
 
+Undo
+
 [](https://withinmag.com/nv-gp-tb-letter-v1)[Always Hungry Since Menopause? 2 Ingredients Stand Out She ate a full dinner. An hour later she was back at the fridge.WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://withinmag.com/nv-gp-tb-letter-v1 "Always Hungry Since Menopause? 2 Ingredients Stand Out")
+
+Undo
+
+[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)
+
+Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
+
+The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
+
+Read More
 
 ![Image 58: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
