@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 16:09 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/nba-best-bets-and-predictions-today-player-props-picks-for-saturday-nov-21-147417 | fetched: 2026-11-21 16:37 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Saturday, Nov. 21
 RotoWire's JP Aravena highlights his favorite picks and predictions for Saturday's slate of NBA action.
@@ -119,26 +119,26 @@ Philadelphia 76ers
 Expected to play Sunday
 NFL
 Tennessee Titans
+  * ![Washington Commanders](https://assets.rotowire.com/images/teamlogo/football/WAS.svg?v=12)
+[Jacory Croskey-Merritt](https://www.rotowire.com/football/player/jacory-croskey-merritt-18811)
+Questionable for Week 11
+NFL
+Washington Commanders
+  * ![Carolina Panthers](https://assets.rotowire.com/images/teamlogo/football/CAR.svg?v=12)
+[Jonathon Brooks](https://www.rotowire.com/football/player/jonathon-brooks-17747)
+Staying on IR for Week 11
+NFL
+Carolina Panthers
+  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
+[Dontayvion Wicks](https://www.rotowire.com/football/player/dontayvion-wicks-16658)
+Placed on injured reserve
+NFL
+Philadelphia Eagles
   * ![Pittsburgh Steelers](https://assets.rotowire.com/images/teamlogo/football/PIT.svg?v=12)
 [Michael Pittman](https://www.rotowire.com/football/player/michael-pittman-14378)
 Will not return this week
 NFL
 Pittsburgh Steelers
-  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
-[Carson Beck](https://www.rotowire.com/football/player/carson-beck-19287)
-Officially ruled out
-NFL
-Arizona Cardinals
-  * ![Tennessee Titans](https://assets.rotowire.com/images/teamlogo/football/TEN.svg?v=12)
-[Tyjae Spears](https://www.rotowire.com/football/player/tyjae-spears-16941)
-Lands on injured reserve
-NFL
-Tennessee Titans
-  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
-[Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
-Practicing Saturday
-NFL
-Green Bay Packers
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -162,11 +162,11 @@ Anaheim Ducks
 Nearing return to lineup
 NHL
 Florida Panthers
-  * ![Edmonton Oilers](https://assets.rotowire.com/images/teamlogo/hockey/100EDM.png?v=5)
-[Zach Hyman](https://www.rotowire.com/hockey/player/zach-hyman-4964)
-Exits Saturday's game
+  * ![Pittsburgh Penguins](https://assets.rotowire.com/images/teamlogo/hockey/100PIT.png?v=5)
+[Sergei Murashov](https://www.rotowire.com/hockey/player/sergei-murashov-7267)
+Expected to face Nashville
 NHL
-Edmonton Oilers
+Pittsburgh Penguins
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

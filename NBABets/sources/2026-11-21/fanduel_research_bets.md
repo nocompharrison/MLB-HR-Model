@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 16:09 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-21 16:37 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21
 ![FanDuel Staff](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [FanDuel Staff](https://www.fanduel.com/research/author/fanduel-staff)
-7h
+8h
 Link
 ![NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2566a0de727311f02cc0dc9f1790e955c100befc-5001x3334.jpg%3Frect%3D476%2C0%2C4167%2C2062%26w%3D964%26h%3D477&w=1920&q=100)
 **Today’s Best NBA Prop Bets at a Glance**
@@ -45,7 +45,7 @@ Grizzlies at Timberwolves — 8:00 p.m. ET
 Jaden McDaniels - Assists
 Jaden McDaniels Over
 O 3.5
-+142
++126
 Nov 22 1:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-minnesota-timberwolves-36337803)
 Odds/lines subject to change
 The [Minnesota Timberwolves](https://sportsbook.fanduel.com/teams/nba/minnesota-timberwolves/roster) have gotten more playmaking from [Jaden McDaniels](https://sportsbook.fanduel.com/teams/nba/roster/jaden-mcdaniels-2892) this season. He is averaging 3.6 assists through 16 games, already above tonight’s 2.5-assist line, and has recorded at least three in nine of his last 10 appearances. 
@@ -55,8 +55,8 @@ Against the [Memphis Grizzlies](https://sportsbook.fanduel.com/teams/nba/memphis
 Celtics at Kings — 10:00 p.m. ET
 Darius Acuff Jr. - Pts + Ast
 Darius Acuff Jr. Over
-O 29.5
--106
+O 28.5
+-125
 Nov 22 3:10am UTC[More odds in Sportsbook](https://sportsbook.fanduel.com/basketball/nba/boston-celtics-@-sacramento-kings-36337805)
 Odds/lines subject to change
 Rookie guard [Darius Acuff Jr.](https://sportsbook.fanduel.com/teams/nba/roster/darius-acuff-3520) has had to carry an enormous offensive workload for the [Sacramento Kings](https://sportsbook.fanduel.com/teams/nba/sacramento-kings/roster). Through 15 games, he is averaging 25.7 points and 7.3 assists while playing 36.7 minutes per night. 
@@ -104,22 +104,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -212,22 +212,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -247,7 +247,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-13h
+14h
 Link
 ![Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9fa77d3fda9e5c866f45b33124f62f29ced9de74-6354x4236.jpg%3Frect%3D0%2C546%2C6354%2C3144%26w%3D964%26h%3D477&w=1920&q=100)
 ## Knicks vs. Trail Blazers Game Info
@@ -300,22 +300,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -335,7 +335,7 @@ START YOUR OWN WINNING STREAK
 # Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-9h
+10h
 Link
 ![Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F3ea04781520dde0c76977df8b8837ede9e4bb21f-4633x3089.jpg%3Frect%3D0%2C399%2C4633%2C2292%26w%3D964%26h%3D477&w=1920&q=100)
 ## Kings vs. Celtics Game Info
@@ -388,22 +388,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -423,7 +423,7 @@ START YOUR OWN WINNING STREAK
 # 76ers vs. Bucks Prediction, Odds, Picks, Best Bets for Nov. 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-17h
+18h
 Link
 ![76ers vs. Bucks Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F869d102fb281129ca51e82afdbed7eb59431a0e2-4259x2839.jpg%3Frect%3D0%2C367%2C4259%2C2107%26w%3D964%26h%3D477&w=1920&q=100)
 ## 76ers vs. Bucks Game Info
@@ -476,22 +476,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -511,7 +511,7 @@ START YOUR OWN WINNING STREAK
 # Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-13h
+14h
 Link
 ![Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fff801f3c2c96b82fb2ca8341a7fd1ae90d8fb07a-3491x2327.jpg%3Frect%3D0%2C301%2C3491%2C1727%26w%3D964%26h%3D477&w=1920&q=100)
 ## Spurs vs. Pelicans Game Info
@@ -564,22 +564,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
@@ -599,7 +599,7 @@ START YOUR OWN WINNING STREAK
 # Timberwolves vs. Grizzlies Prediction, Odds, Picks, Best Bets for Nov. 21
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-17h
+18h
 Link
 ![Timberwolves vs. Grizzlies Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6719de94755fda9896c8b97a702d6c45883105e3-5431x3621.jpg%3Frect%3D0%2C468%2C5431%2C2687%26w%3D964%26h%3D477&w=1920&q=100)
 ## Timberwolves vs. Grizzlies Game Info
@@ -652,22 +652,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Props Today: 3 Best NBA Player Prop Bets for Saturday, Nov. 21](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
-7h
+8h
 NBA player props to target today. What are the best NBA prop bets for Saturday?
 [](https://www.fanduel.com/research/nba-props-today-prop-bets-saturday-nov-21)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Kings vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-9h
+10h
 Find Kings vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/kings-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Spurs vs. Pelicans Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Spurs vs. Pelicans predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/spurs-vs-pelicans-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Trail Blazers Prediction, Odds, Picks, Best Bets for Nov. 21](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
-13h
+14h
 Find Knicks vs. Trail Blazers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 21 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-trail-blazers-prediction-nba-odds-spread-best-bets-for-11-21-2026)
 
