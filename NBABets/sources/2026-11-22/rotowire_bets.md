@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 18:38 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 18:53 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 22
 Get the best NBA bets today, with expert player prop picks on points, rebounds and PRA, plus odds from top sportsbooks for Sunday's seven-game Nov. 22 NBA slate.
@@ -31,7 +31,7 @@ Wendell Carter Jr. Under 8.5 Rebounds-128
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $3.91](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:36 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:51 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **Denver Nuggets vs. Chicago Bulls:**[**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**over 47.5 points + rebounds + assists, -119 @ Betr**
 Jokic continues to deliver outstanding all-around production for Denver, averaging 24.2 points, 10.4 rebounds and 9.1 assists per game. Those numbers translate to 43.7 combined points, rebounds and assists, and while that's below the proposed PRA mark for this game, the favorable matchup should work in his favor. The Nuggets will take on a Bulls team that ranks fifth-worst in Defensive Rating (118.2) and dead last in points allowed per game (122.8) entering Sunday's action.
 Furthermore, the three-time MVP has shown he can exceed that 47.5 P+R+A mark through different statistical combinations. Jokic finished with 50 PRA against Phoenix on Nov. 16, but that's the only time he's hit this mark in his last five appearances. While it would be easy to discard Jokic at first glance, his impact is evident, and he should have enough touches to make a difference. Jokic has played at least 37 minutes in each of his last five appearances, averaging 26.2 points, 9.8 rebounds and 9.0 assists during that stretch. His combined average of 45.0 PRA remains below the proposed line, but it also demonstrates that a modest improvement in any category could be enough to clear it.
@@ -46,6 +46,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Kyren Williams](https://www.rotowire.com/football/player/kyren-williams-15807)
+Limited at practice
+NFL
+Los Angeles Rams
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Trey McBride](https://www.rotowire.com/football/player/trey-mcbride-15902)
+Big volume in loss to KC
+NFL
+Arizona Cardinals
   * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
 [Chris Olave](https://www.rotowire.com/football/player/chris-olave-15895)
 Tops century mark in Week 11 loss
@@ -59,16 +69,6 @@ Tampa Bay Buccaneers
   * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
 [Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
 Scores TD on five catches
-NFL
-Detroit Lions
-  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
-[Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
-Dealing with apparent arm injury
-NFL
-Philadelphia Eagles
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Jahmyr Gibbs](https://www.rotowire.com/football/player/jahmyr-gibbs-16808)
-Over 100 total yards in win
 NFL
 Detroit Lions
 
@@ -120,14 +120,24 @@ New York Knicks
 Questionable for Sunday
 NBA
 New York Knicks
-  * ![Los Angeles Clippers](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
-[Brandon Ingram](https://www.rotowire.com/basketball/player/brandon-ingram-3861)
-Removed from injury report
+  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)
+Delivers well-rounded effort Sunday
 NBA
-Los Angeles Clippers
+Detroit Pistons
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Los Angeles Rams](https://assets.rotowire.com/images/teamlogo/football/LAR.svg?v=12)
+[Kyren Williams](https://www.rotowire.com/football/player/kyren-williams-15807)
+Limited at practice
+NFL
+Los Angeles Rams
+  * ![Arizona Cardinals](https://assets.rotowire.com/images/teamlogo/football/ARI.svg?v=12)
+[Trey McBride](https://www.rotowire.com/football/player/trey-mcbride-15902)
+Big volume in loss to KC
+NFL
+Arizona Cardinals
   * ![New Orleans Saints](https://assets.rotowire.com/images/teamlogo/football/NO.svg?v=12)
 [Chris Olave](https://www.rotowire.com/football/player/chris-olave-15895)
 Tops century mark in Week 11 loss
@@ -141,16 +151,6 @@ Tampa Bay Buccaneers
   * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
 [Amon-Ra St. Brown](https://www.rotowire.com/football/player/amon-ra-st-brown-15332)
 Scores TD on five catches
-NFL
-Detroit Lions
-  * ![Philadelphia Eagles](https://assets.rotowire.com/images/teamlogo/football/PHI.svg?v=12)
-[Saquon Barkley](https://www.rotowire.com/football/player/saquon-barkley-12507)
-Dealing with apparent arm injury
-NFL
-Philadelphia Eagles
-  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
-[Jahmyr Gibbs](https://www.rotowire.com/football/player/jahmyr-gibbs-16808)
-Over 100 total yards in win
 NFL
 Detroit Lions
 
