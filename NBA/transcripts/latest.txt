@@ -1,9 +1,10 @@
-# NBA transcripts | 2026-11-22 | updated 2026-11-22 11:07 ET
+# NBA transcripts | 2026-11-22 | updated 2026-11-22 16:07 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 2 files in NBA/transcripts/2026-11-22:
+# 4 files in NBA/transcripts/2026-11-22:
 NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
+NBA/transcripts/2026-11-22/dPp5_PK59CI_JayMoney_Sunday_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt
 NBA/transcripts/2026-11-22/lh4MN5XKCU8_LockedOnNBA_UNBELIEVABLE_Knicks_And_Kings_ESCAPE_At_The_Buzzer_Victor_Wembanyama_a.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-11-21
+NBA/transcripts/2026-11-22/sAlngvh9Ld0_PickDawgz_NBA_Picks_Sunday_11_22_26_Jay_s_NBA_Jam_Session.txt
 
 # this run:
 UPCOMING ActionNetwork RfcPXZZYYYc Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/23/26 12:00AM)
@@ -11,17 +12,18 @@ NONE    channel SGPN: nothing new in the date window (or everything already save
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-21/CHlhIocxRVY_RotoGrinders_NBA_DFS_Picks_Strategy_for_DraftKings_FanDuel_11_21_26.txt  (13,643 words)
+NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-21/PnS_tQAI1S8_Stokastic_NBA_DFS_Live_Before_Lock_Saturday_11_21_26_DraftKings_FanDuel_NBA_Line.txt  (8,505 words)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-22/lh4MN5XKCU8_LockedOnNBA_UNBELIEVABLE_Knicks_And_Kings_ESCAPE_At_The_Buzzer_Victor_Wembanyama_a.txt  (7,222 words)
+NONE    channel LockedOnNBA: nothing new in the date window (or everything already saved)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
-NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
+UPCOMING NBAGamblingPod PvXWcGlbiQs NBA Monday Picks - 11/23/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/22/26 9:05PM)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NONE    channel JayMoney: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-22/dPp5_PK59CI_JayMoney_Sunday_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt  (5,020 words, via Groq)
+UPCOMING JayMoney IlqVNglCTK0 Monday NBA Talk With Jay Money & The Shark 11/23/26 Free NBA  (not aired yet - scheduled for 11/23/26 1:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
@@ -30,5 +32,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt  (3,048 words)
+NEW     NBA/transcripts/2026-11-22/sAlngvh9Ld0_PickDawgz_NBA_Picks_Sunday_11_22_26_Jay_s_NBA_Jam_Session.txt  (1,761 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
