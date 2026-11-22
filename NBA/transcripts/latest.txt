@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-22 | updated 2026-11-22 17:09 ET
+# NBA transcripts | 2026-11-22 | updated 2026-11-22 18:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-22:
 NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
@@ -11,7 +11,8 @@ UPCOMING ActionNetwork RfcPXZZYYYc Top NBA Sides, Totals & Player Props for Mond
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+UPCOMING WagerTalk HStZUwNgTHs NBA Picks Today: Monday Best Bets, Spreads & Totals | Profit  (not aired yet - scheduled for 11/23/26 1:30PM)
+UPCOMING WagerTalk iCILaQQDc80 NBA Picks Today: Monday Best Bets, Spreads & Totals | Profit  (not aired yet - scheduled for 11/23/26 1:30PM)
 NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
 NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
