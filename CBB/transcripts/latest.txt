@@ -1,7 +1,8 @@
-# CBB transcripts | 2026-11-22 | updated 2026-11-22 11:18 ET
+# CBB transcripts | 2026-11-22 | updated 2026-11-22 17:02 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 5 files in CBB/transcripts/2026-11-22:
+# 6 files in CBB/transcripts/2026-11-22:
 CBB/transcripts/2026-11-22/6lTqI1el0V0_PickDawgz_College_Basketball_Picks_Predictions_Today_11_22_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-22/G9FtoIGaTAI_FieldOf68_Is_Tyran_Stokes_a_LOCK_to_go_No_1_in_the_Draft_Adam_Finkelstein_breakd.txt
 CBB/transcripts/2026-11-22/OMoplP7e7_g_TCE_College_Basketball_Picks_For_November_22nd_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-22/aT7kn8yRLag_PickDawgz_NCAAB_Alternate_Line_Prediction_11_22_26_The_Extendo_Clip.txt
 CBB/transcripts/2026-11-22/dR-DpJHKWxc_TCE_College_Basketball_PICKS_ONLY_Sunday_November_22nd_TCE_Trims.txt
@@ -9,19 +10,17 @@ CBB/transcripts/2026-11-22/w1fl6DKlUS8_TCE_College_Basketball_Best_Bets_For_Nove
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-UPCOMING CBSCollegeBB wEpM3ElwL90 5 biggest storylines for Players Era 16; Indiana handles Ken  (not aired yet - scheduled for 11/22/26 7:00PM)
-NONE    channel FieldOf68: nothing new in the date window (or everything already saved)
+UPCOMING CBSCollegeBB wEpM3ElwL90 5 Players Era 16 Storylines: Best matchups, this year's Mich  (not aired yet - scheduled for 11/22/26 6:00PM)
+UPCOMING FieldOf68 Xp6wn7u2y4I Should Duke fans panic? Villanova beats Michigan, Players Er  (not aired yet - scheduled for 11/22/26 7:30PM)
+NEW     CBB/transcripts/2026-11-22/G9FtoIGaTAI_FieldOf68_Is_Tyran_Stokes_a_LOCK_to_go_No_1_in_the_Draft_Adam_Finkelstein_breakd.txt  (953 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-22/w1fl6DKlUS8_TCE_College_Basketball_Best_Bets_For_November_22nd_Spread_Moneyline_Bettin.txt  (789 words)
-NEW     CBB/transcripts/2026-11-22/dR-DpJHKWxc_TCE_College_Basketball_PICKS_ONLY_Sunday_November_22nd_TCE_Trims.txt  (11,583 words)
-NEW     CBB/transcripts/2026-11-22/OMoplP7e7_g_TCE_College_Basketball_Picks_For_November_22nd_NCAA_Basketball_Banter_Best.txt  (19,561 words)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-22/aT7kn8yRLag_PickDawgz_NCAAB_Alternate_Line_Prediction_11_22_26_The_Extendo_Clip.txt  (1,438 words)
-NEW     CBB/transcripts/2026-11-22/6lTqI1el0V0_PickDawgz_College_Basketball_Picks_Predictions_Today_11_22_26_Ron_s_Bank_Shot_Br.txt  (1,130 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
