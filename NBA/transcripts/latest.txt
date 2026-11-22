@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-22 | updated 2026-11-22 18:36 ET
+# NBA transcripts | 2026-11-22 | updated 2026-11-22 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-22:
 NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
