@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-22 | updated 2026-11-22 18:39 ET
+# NBABets transcripts | 2026-11-22 | updated 2026-11-22 18:53 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 0 files in NBABets/transcripts/2026-11-22:
 
