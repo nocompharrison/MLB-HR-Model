@@ -1,6 +1,6 @@
-# NFL transcripts | week 11 | updated 2026-11-22 06:47 ET
+# NFL transcripts | week 11 | updated 2026-11-22 12:00 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 97 files in NFL/transcripts/week-11:
+# 104 files in NFL/transcripts/week-11:
 NFL/transcripts/week-11/-RGUttjKhQI_TheAudible_Is_Ashton_Jeanty_a_bust_in_real_AND_fantasy_football_On_the_Couch.txt
 NFL/transcripts/week-11/02hJOyMh_7g_BettingPros_Early_NFL_BEST_BETS_Survivor_Pool_Picks_Week_11_Predictions_2026.txt
 NFL/transcripts/week-11/0nbNITNj_OQ_Footballers_Week_11_Matchups_Wheel_of_Shame_Duck_Huntin_Fantasy_Football_2026_Ep_2.txt
@@ -12,15 +12,19 @@ NFL/transcripts/week-11/4aPQrGXhVkY_RotoGrinders_Colts_vs_Texans_TNF_Showdown_NF
 NFL/transcripts/week-11/5_wtiQwIytM_Stokastic_Colts_Texans_Showdown_Strategy_TNF_Week_11_DFS_Picks_NFL_DFS_Strategy.txt
 NFL/transcripts/week-11/5cdAUgG35WU_FootballersDFS_Week_11_NFL_Preview_Cutting_Down_Trees_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-11/5dbWZ3toXd0_Stokastic_NFL_DFS_First_Look_Week_11_Picks_NFL_DFS_Strategy.txt
+NFL/transcripts/week-11/5lIT1gVHA5Y_FantasyAces_6_0_Sweep_Best_NFL_Picks_Bets_for_Sunday_11_22.txt
 NFL/transcripts/week-11/5o1T76JCwmA_Footballers_Week_11_Waivers_Streamers_BYE_pocalypse_Fantasy_Football_2026_Ep_2017.txt
 NFL/transcripts/week-11/6TjuwSCZGcM_FantasyAlarm_DraftKings_NFL_DFS_Week_11_Top_Picks_Values_Lineup_Optimizer_Strategy.txt
 NFL/transcripts/week-11/6jkl37eXZf8_ActionNetwork_NFL_Week_11_FULL_Betting_Preview_The_Favorites.txt
 NFL/transcripts/week-11/789Ik3cxBvA_FantasyAlarm_Sirius_XM_Fantasy_Sports_Radio_The_Chargers_are_the_WORST_team_in_the.txt
 NFL/transcripts/week-11/8X5PQHF4UZ8_TheAudible_Week_11_Ask_Me_Anything_Livestream_with_Bob_Harris.txt
+NFL/transcripts/week-11/A77E0v_ZQ2Y_PickDawgz_TITANS_VS_COWBOYS_11_22_26_FREE_NFL_PICK_PREDICTION_ELITE_HANDICAPPER.txt
 NFL/transcripts/week-11/ANZJh3IAG1Q_ActionNetwork_Lions_vs_Buccaneers_Prediction_Best_Bets_NFL_Week_11.txt
 NFL/transcripts/week-11/B41xnzMi5pM_SGPN_Saints_vs_Bears_Prediction_Picks_Best_Bets_NFL_Week_11.txt
 NFL/transcripts/week-11/BUuYMDce6Kw_SGPN_Vikings_vs_49ers_Prediction_Picks_Best_Bets_NFL_Week_11.txt
+NFL/transcripts/week-11/D0qsH9xn98g_MattyChucks_Sunday_Week_11_NFL_Best_Bets_November_22nd.txt
 NFL/transcripts/week-11/EN61s1ecwDM_Footballers_Starts_of_the_Week_Week_11_Games_Nasty_Boys_Fantasy_Football_2026_Ep_2.txt
+NFL/transcripts/week-11/EROLCoYy1mM_ShipItNation_NFL_DFS_Week_11_Sunday_Shippers_Main_Slate_DraftKings_FanDuel_Picks_Pl.txt
 NFL/transcripts/week-11/FRSuO42Meg8_DFSArmy_Colts_vs_Texans_Showdown_Breakdown_Thursday_Night_Football_DraftKings.txt
 NFL/transcripts/week-11/G6XvSfmqFIo_SportsLine_NFL_Predictions_Bets_for_EVERY_1PM_ET_Game.txt
 NFL/transcripts/week-11/HEoJqqAgLKM_PlayerProfiler_Week_11_Fantasy_Football_Rankings_Tiers_2026_QB_RB_WR_TE_Start_Sit_Adv.txt
@@ -30,6 +34,7 @@ NFL/transcripts/week-11/JlHCGTVwmIY_BettingPros_10_BEST_BETS_for_NFL_Week_11_Top
 NFL/transcripts/week-11/K-DQnVgUD9s_TheAudible_Is_C_J_Stroud_running_out_of_time_Week_11_matchups_Josh_Downs_fantasy.txt
 NFL/transcripts/week-11/KAGunzFPiAM_ActionNetwork_NFL_Week_11_Best_Bets_Player_Props_SGPs_Longshots_Brandon_s_Playground.txt
 NFL/transcripts/week-11/KnMFyy6Mn-g_RotoGrinders_NFL_DFS_Tournament_Strategy_for_Week_11_on_DraftKings_FanDuel.txt
+NFL/transcripts/week-11/LIzgLW5J3MY_ActionNetwork_NFL_Betting_Picks_LIVE_Best_Bets_Player_Props_Parlays_for_Week_11.txt
 NFL/transcripts/week-11/LQfjndAnlD8_ShipItNation_NFL_DFS_Week_11_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_an.txt
 NFL/transcripts/week-11/MIseenL1Eg0_DFSArmy_NFL_DFS_Week_11_The_Best_DraftKings_Stacks_Core_Plays.txt
 NFL/transcripts/week-11/NR0BdmUkZm4_DFSArmy_NFL_DFS_Week_11_Strategy_for_DraftKings_2026.txt
@@ -53,6 +58,7 @@ NFL/transcripts/week-11/UEErYdqdp4U_FantasyAlarm_Week_11_NFL_DFS_Picks_Props_and
 NFL/transcripts/week-11/UgZ0TaSKOyU_PickDawgz_TENNESSEE_TITANS_VS_DALLAS_COWBOYS_FREE_NFL_PICK_PREDICTION_The_Yang_A.txt
 NFL/transcripts/week-11/VxWHmEY7084_SGPN_Steelers_vs_Eagles_Prediction_Picks_Best_Bets_NFL_Week_11.txt
 NFL/transcripts/week-11/W-JFWjTjECY_SGPNPropcast_NFL_Week_11_Player_Props_11_20_26.txt
+NFL/transcripts/week-11/WSufjtX53nU_PickDawgz_NFL_Picks_Predictions_For_Today_Sunday_11_22_26_FREE_NFL_Best_Bets_and.txt
 NFL/transcripts/week-11/WtqmbIq6z50_PlayerProfiler_Top_10_Takeaways_Buy_High_and_Sell_Low_Players_and_the_key_usage_trend.txt
 NFL/transcripts/week-11/XNDau626GwE_SGPN_Jaguars_vs_Giants_Prediction_Picks_Best_Bets_NFL_Week_11.txt
 NFL/transcripts/week-11/Y0OxbpEhzYU_Stokastic_Week_11_NFL_DFS_Single_Lineup_Sim_Building_NFL_DFS_Strategy.txt
@@ -98,42 +104,36 @@ NFL/transcripts/week-11/xIS24J6HCc8_ActionNetwork_NFL_Expert_Bettors_Build_A_Sam
 NFL/transcripts/week-11/xhx0JC2K8Yg_PlayerProfiler_Week_11_Waiver_Wire_Targets_2026_Top_Fantasy_Football_Pickups.txt
 NFL/transcripts/week-11/yKbocbljU_Q_ActionNetwork_NFL_Futures_Bets_Best_Midseason_Awards_Picks_in_Prediction_Markets.txt
 NFL/transcripts/week-11/zp4rcCLUSVE_LandYourBets_3_Best_Bets_For_Texans_vs_Colts_Week_11_MNF_Player_Props_November_18.txt
+NFL/transcripts/week-11/zrEnzC8NDq4_BettingPros_3_BEST_BETS_for_Sunday_NFL_Week_11_Picks_Predictions_for_Today_s_Games.txt
 
 # this run:
 NONE    channel Footballers: nothing new in the date window (or everything already saved)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-UPCOMING RotoGrinders HfKIh44cfFM LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 11/22/26 9:30AM)
+NOCAPS  RotoGrinders HfKIh44cfFM LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (no captions; Groq: still live - audio not final yet)
 UPCOMING RotoGrinders caKyGJa9WQY Bengals vs. Commanders MNF Showdown! - NFL DFS Picks & Strat  (not aired yet - scheduled for 11/23/26 7:30PM)
 UPCOMING RotoGrinders iDT_OUrnesw Vikings vs. 49ers SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/22/26 7:30PM)
+NOCAPS  ShipItNation A-Iwg4N9IIc NFL DFS Week 11 Contrarian Constructions | Main Slate DraftK  (no captions; Groq: still live - audio not final yet)
+NEW     NFL/transcripts/week-11/EROLCoYy1mM_ShipItNation_NFL_DFS_Week_11_Sunday_Shippers_Main_Slate_DraftKings_FanDuel_Picks_Pl.txt  (22,947 words, via Groq)
 UPCOMING ShipItNation F33qwfnMmf4 Vikings vs 49ers NFL DFS Showdown | SNF Week 11 Sunday Sweat  (not aired yet - scheduled for 11/22/26 6:00PM)
-UPCOMING ShipItNation A-Iwg4N9IIc NFL DFS Week 11 Contrarian Constructions | Main Slate DraftK  (not aired yet - scheduled for 11/22/26 11:30AM)
-UPCOMING ShipItNation EROLCoYy1mM NFL DFS Week 11 Sunday Shippers | Main Slate DraftKings & Fa  (not aired yet - scheduled for 11/22/26 9:00AM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
-UPCOMING ActionNetwork LIzgLW5J3MY NFL Betting Picks LIVE: Best Bets, Player Props & Parlays fo  (not aired yet - scheduled for 11/22/26 11:00AM)
-UPCOMING DFSArmy nxFM4HNKaMs NFL Week 11  | DFS Pre-Lock Show | DFS Army  (not aired yet - scheduled for 11/22/26 11:00AM)
+NEW     NFL/transcripts/week-11/LIzgLW5J3MY_ActionNetwork_NFL_Betting_Picks_LIVE_Best_Bets_Player_Props_Parlays_for_Week_11.txt  (8,994 words, via Groq)
+NOCAPS  DFSArmy nxFM4HNKaMs NFL Week 11  | DFS Pre-Lock Show | DFS Army  (no captions; Groq: still live - audio not final yet)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-11/8X5PQHF4UZ8_TheAudible_Week_11_Ask_Me_Anything_Livestream_with_Bob_Harris.txt  (10,823 words)
-UPCOMING PlayerProfiler BPXgJgDS0Ms Week 11 Start/Sits with Chuck Bass and The Podfather  (not aired yet - scheduled for 11/22/26 9:00AM)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NONE    channel TheAudible: nothing new in the date window (or everything already saved)
+NOCAPS  PlayerProfiler BPXgJgDS0Ms Week 11 Start/Sits with Chuck Bass and The Podfather  (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  Stokastic D-AKWz8PMrw NFL DFS Live Before Lock | Week 11 NFL DFS Picks for DraftKi  (no captions; Groq: still live - audio not final yet)
+NEW     NFL/transcripts/week-11/zrEnzC8NDq4_BettingPros_3_BEST_BETS_for_Sunday_NFL_Week_11_Picks_Predictions_for_Today_s_Games.txt  (2,466 words, via Groq)
 UPCOMING BettingPros tqnXj6dfln0 Sunday NFL Week 11 Best Bets | Expert Picks, Predictions & P  (not aired yet - scheduled for 11/22/26 12:00PM)
-NEW     NFL/transcripts/week-11/s780ahE8JgI_LandYourBets_8_NFL_Player_Prop_Bets_For_Week_11_Free_NFL_Best_Bets_November_22.txt  (4,262 words)
+NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
-NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
-NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz WSufjtX53nU NFL Picks & Predictions For Today Sunday 11/22/26 | FREE NFL  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz A77E0v_ZQ2Y TITANS VS COWBOYS 11/22/26 | FREE NFL PICK & PREDICTION | EL  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz oPZuyLFfXW0 NFL Picks and Predictions 11/22/26 : The Lowdown With Jeremy  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz oa1OXsGlwXY NFL Week 11 Picks Today 11/22/26 - Best Sunday NFL Bets are   (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz LZ2PFp9HaeM Free NFL Betting Picks & Predictions Today 11/22/2026 | Bria  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz 4nPBf_dUx2w NFL Picks and Predictions for Today 11/22/2026 | Dawg of the  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz fBDageRW1Vw NFL Week 11 Picks & Predictions NFL Best Bets | Every NFL Su  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NFL/transcripts/week-11/UgZ0TaSKOyU_PickDawgz_TENNESSEE_TITANS_VS_DALLAS_COWBOYS_FREE_NFL_PICK_PREDICTION_The_Yang_A.txt  (594 words)
-NEW     NFL/transcripts/week-11/2nVSd9PSVfU_PickDawgz_BILLS_VS_DOLPHINS_11_22_26_NFL_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PREDIC.txt  (403 words)
+NEW     NFL/transcripts/week-11/D0qsH9xn98g_MattyChucks_Sunday_Week_11_NFL_Best_Bets_November_22nd.txt  (1,226 words)
+NOCAPS  FantasyAlarm GY49MM228_E Fantasy Football Week 11 Start/Sit, Best Bets & DFS Picks &   (no captions; Groq: still live - audio not final yet)
+NEW     NFL/transcripts/week-11/5lIT1gVHA5Y_FantasyAces_6_0_Sweep_Best_NFL_Picks_Bets_for_Sunday_11_22.txt  (5,104 words)
+NEW     NFL/transcripts/week-11/WSufjtX53nU_PickDawgz_NFL_Picks_Predictions_For_Today_Sunday_11_22_26_FREE_NFL_Best_Bets_and.txt  (2,356 words)
+NEW     NFL/transcripts/week-11/A77E0v_ZQ2Y_PickDawgz_TITANS_VS_COWBOYS_11_22_26_FREE_NFL_PICK_PREDICTION_ELITE_HANDICAPPER.txt  (516 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
