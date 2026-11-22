@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-22 | updated 2026-11-22 11:11 ET
+# NBABets transcripts | 2026-11-22 | updated 2026-11-22 16:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 0 files in NBABets/transcripts/2026-11-22:
 
@@ -6,9 +6,9 @@
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-NONE    channel JayMoney: nothing new in the date window (or everything already saved)
+UPCOMING JayMoney IlqVNglCTK0 Monday NBA Talk With Jay Money & The Shark 11/23/26 Free NBA  (not aired yet - scheduled for 11/23/26 1:00PM)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
-NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
+UPCOMING NBAGamblingPod PvXWcGlbiQs NBA Monday Picks - 11/23/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/22/26 9:05PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
 NONE    channel PickemNBA: nothing new in the date window (or everything already saved)
