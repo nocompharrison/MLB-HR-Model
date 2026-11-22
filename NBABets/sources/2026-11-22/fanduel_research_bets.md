@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 16:10 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 16:37 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # Heat vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-17h
+18h
 Link
 ![Heat vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7264591fab328d13d45bb6827f1c6532473bbd75-3857x2170.jpg%3Frect%3D0%2C131%2C3857%2C1908%26w%3D964%26h%3D477&w=1920&q=100)
 ## Heat vs. Thunder Game Info
@@ -68,22 +68,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -103,7 +103,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-13h
+14h
 Link
 ![Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9fa77d3fda9e5c866f45b33124f62f29ced9de74-6354x4236.jpg%3Frect%3D0%2C546%2C6354%2C3144%26w%3D964%26h%3D477&w=1920&q=100)
 ## Knicks vs. Pacers Game Info
@@ -156,22 +156,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -274,22 +274,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -309,7 +309,7 @@ START YOUR OWN WINNING STREAK
 # Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-9h
+10h
 Link
 ![Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe8abefcb4d1b7e6a5c191d9e9926ba5b4048e2d6-6000x4000.jpg%3Frect%3D0%2C516%2C6000%2C2969%26w%3D964%26h%3D477&w=1920&q=100)
 ## Warriors vs. Celtics Game Info
@@ -362,22 +362,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -397,7 +397,7 @@ START YOUR OWN WINNING STREAK
 # Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-17h
+18h
 Link
 ![Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc178106af1256ad78214da5eb65e27ed0c30c332-4319x2880.jpg%3Frect%3D0%2C372%2C4319%2C2137%26w%3D964%26h%3D477&w=1920&q=100)
 ## Bulls vs. Nuggets Game Info
@@ -450,22 +450,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -485,7 +485,7 @@ START YOUR OWN WINNING STREAK
 # Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-21h
+22h
 Link
 ![Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F697da2aeaacfcce116a23125750fdb7bbbe0a4b1-5183x3452.jpg%3Frect%3D0%2C444%2C5183%2C2565%26w%3D964%26h%3D477&w=1920&q=100)
 ## Hawks vs. Pistons Game Info
@@ -538,22 +538,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -573,7 +573,7 @@ START YOUR OWN WINNING STREAK
 # Wizards vs. Magic Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-17h
+18h
 Link
 ![Wizards vs. Magic Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4b9a2c7a16849bd9509bc1b1235bec20c9fef87b-4882x3255.jpg%3Frect%3D0%2C420%2C4882%2C2416%26w%3D964%26h%3D477&w=1920&q=100)
 ## Wizards vs. Magic Game Info
@@ -626,22 +626,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-9h
+10h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-13h
+14h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-17h
+18h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
