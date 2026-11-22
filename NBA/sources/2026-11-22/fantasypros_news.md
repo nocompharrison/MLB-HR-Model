@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-22 18:04 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-22 18:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,76 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Javon Small](https://images.fantasypros.com/images/players/nba/6382/headshot/100x100.png)](https://www.fantasypros.com/nba/players/javon-small.php)
+G - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/javon-small.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/javon-small.php)  
+[» More News](https://www.fantasypros.com/nba/news/javon-small.php)
+[Javon Small (personal) off injury report Monday ](https://www.fantasypros.com/nba/news/621972/javon-small-personal-off-injury-report-monday.php)  
+
+Sun, Nov 22nd 6:28pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Javon Small is off the injury report for Monday’s game against the Hornets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf))
+**_Fantasy Impact:_** Small remains off the fantasy radar. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Deandre Ayton](https://images.fantasypros.com/images/players/nba/3464/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deandre-ayton.php)
+C - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/deandre-ayton.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/deandre-ayton.php)  
+[» More News](https://www.fantasypros.com/nba/news/deandre-ayton.php)
+[Deandre Ayton (illness) available Sunday ](https://www.fantasypros.com/nba/news/621970/deandre-ayton-illness-available-sunday.php)  
+
+Sun, Nov 22nd 6:26pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Deandre Ayton is available for Sunday’s game against the Magic. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf))
+**_Fantasy Impact:_** Ayton is good to go despite being a late addition to the injury report Sunday afternoon. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Bub Carrington](https://images.fantasypros.com/images/players/nba/6148/headshot/100x100.png)](https://www.fantasypros.com/nba/players/carlton-carrington.php)
+G - WAS
+[» Rankings](https://www.fantasypros.com/nba/players/carlton-carrington.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/carlton-carrington.php)  
+[» More News](https://www.fantasypros.com/nba/news/carlton-carrington.php)
+[Bub Carrington (illness) available Sunday ](https://www.fantasypros.com/nba/news/621969/bub-carrington-illness-available-sunday.php)  
+
+Sun, Nov 22nd 6:24pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Bub Carrington is available for Sunday’s game against the Magic. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf))
+**_Fantasy Impact:_** Carrington is good to go despite being a late addition to the injury report Sunday afternoon. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Brandon Ingram](https://images.fantasypros.com/images/players/nba/3167/headshot/100x100.png)](https://www.fantasypros.com/nba/players/brandon-ingram.php)
+F - LAC
+[» Rankings](https://www.fantasypros.com/nba/players/brandon-ingram.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/brandon-ingram.php)  
+[» More News](https://www.fantasypros.com/nba/news/brandon-ingram.php)
+[Brandon Ingram (Achilles) off injury report Monday ](https://www.fantasypros.com/nba/news/621967/brandon-ingram-achilles-off-injury-report-monday.php)  
+
+Sun, Nov 22nd 6:23pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Brandon Ingram is off the injury report for Monday’s game against the Rockets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf))
+**_Fantasy Impact:_** Ingram is officially set to make his season debut. He will likely be limited early on. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Aday Mara](https://images.fantasypros.com/images/players/nba/6523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aday-mara.php)
+C - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/aday-mara.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aday-mara.php)  
+[» More News](https://www.fantasypros.com/nba/news/aday-mara.php)
+[Aday Mara (shin) ruled out Sunday](https://www.fantasypros.com/nba/news/621966/aday-mara-shin-ruled-out-sunday.php)  
+
+Sun, Nov 22nd 6:09pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Aday Mara (shin) has been ruled out for Sunday’s matchup between the Oklahoma City Thunder and Miami Heat according to Brandon Rahbar. (Source: [Branson Rahbar on Twitter](https://x.com/brandonrahbar/status/2124631965324513505?a=ysHXZkZCMTwD2q4q-lc&s=46))
+**_Fantasy Impact:_** Mara will not suit up while dealing with a shin contusion Sunday night, with Micah Peavy sliding into the Oklahoma City starting five for head coach Mark Daigneault against the Heat.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
 F - MIA
 [» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
@@ -215,76 +285,6 @@ Jayson Tatum (rest) is back in the lineup for Sunday’s matchup between the Bos
 **_Fantasy Impact:_** Tatum returns after sitting out the first leg of a back-to-back Saturday night, boosting a Boston starting five that will be without Paul George (rest) against the Warriors Sunday.
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[![Mitchell Robinson](https://images.fantasypros.com/images/players/nba/3524/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mitchell-robinson.php)
-C - BOS
-[» Rankings](https://www.fantasypros.com/nba/players/mitchell-robinson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/mitchell-robinson.php)  
-[» More News](https://www.fantasypros.com/nba/news/mitchell-robinson.php)
-[Mitchell Robinson (illness) ruled out Sunday ](https://www.fantasypros.com/nba/news/621892/mitchell-robinson-illness-ruled-out-sunday.php)  
-
-Sun, Nov 22nd 4:08pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Mitchell Robinson has been ruled out for Sunday's game against the Warriors. 
-**_Fantasy Impact:_** Robinson will miss a second straight game due to this illness. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
-F - CHI
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
-[Jalen Smith (illness) now probable Sunday ](https://www.fantasypros.com/nba/news/621890/jalen-smith-illness-now-probable-sunday.php)  
-
-Sun, Nov 22nd 3:35pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jalen Smith is now probable for Sunday's game against the Nuggets. 
-**_Fantasy Impact:_** Smith is on track to be good to go for the Bulls. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Deandre Ayton](https://images.fantasypros.com/images/players/nba/3464/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deandre-ayton.php)
-C - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/deandre-ayton.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deandre-ayton.php)  
-[» More News](https://www.fantasypros.com/nba/news/deandre-ayton.php)
-[Deandre Ayton (illness) listed questionable Sunday ](https://www.fantasypros.com/nba/news/621889/deandre-ayton-illness-listed-questionable-sunday.php)  
-
-Sun, Nov 22nd 3:34pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Deandre Ayton is listed as questionable for Sunday’s game against the Magic. 
-**_Fantasy Impact:_** Ayton is a late addition to the injury report due to an illness. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jordan Clarkson](https://images.fantasypros.com/images/players/nba/2837/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-clarkson.php)
-G - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/jordan-clarkson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jordan-clarkson.php)  
-[» More News](https://www.fantasypros.com/nba/news/jordan-clarkson.php)
-[Jordan Clarkson (foot) ruled out Sunday ](https://www.fantasypros.com/nba/news/621887/jordan-clarkson-foot-ruled-out-sunday.php)  
-
-Sun, Nov 22nd 3:33pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jordan Clarkson has been ruled out for Sunday's game against the Pacers. 
-**_Fantasy Impact:_** Clarkson will miss a second straight game. He remains off the fantasy radar. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Bub Carrington](https://images.fantasypros.com/images/players/nba/6148/headshot/100x100.png)](https://www.fantasypros.com/nba/players/carlton-carrington.php)
-G - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/carlton-carrington.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/carlton-carrington.php)  
-[» More News](https://www.fantasypros.com/nba/news/carlton-carrington.php)
-[Bub Carrington (illness) listed questionable Sunday ](https://www.fantasypros.com/nba/news/621886/bub-carrington-illness-listed-questionable-sunday.php)  
-
-Sun, Nov 22nd 3:32pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Bub Carrington is listed as questionable for Sunday’s game against the Magic. 
-**_Fantasy Impact:_** Carrington is a late addition to the injury report due to an illness. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nba/player-news.php?page=2)
 
 
@@ -295,5 +295,5 @@ By registering or logging in, you agree to our [Terms of Use](https://www.fantas
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
 ## Featured Links
 [ NBA Home Page ](https://www.fantasypros.com/nba)[ NBA Player Rater ](https://www.fantasypros.com/nba/player-rater.php)[ Recaps ](https://www.fantasypros.com/nba/articles/recaps.php)[ DFS Games ](https://www.fantasypros.com/nba/dfs-games/)[ Draft Wizard Cheat Sheet Creator ](http://draftwizard.fantasypros.com/editor/?sport=nba)[ Live Draft Platform ](http://open.playdraft.com/fantasyprosmbg?draft_campaign=nba)[ Draft Wizard ](https://draftwizard.fantasypros.com/basketball/)[ FantasyDraft Portal ](https://page.fantasydraft.com/nba/?m=fantasypros_pxvhhybg&r=fantasypros&utm_source=fantasypros&utm_m)[ DraftKings Platform ](https://www.draftkings.com/gateway?s=459044022)
-![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6599979e979b999e9c9c9b66uokewi0e0y66626m626g666m6i6i6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
+![iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1434517136&pid=WcNItrh8r0&dbsaved=true&iiqidtype=2&iiqpcid=3bb087e2-1916-47ce-46dd-d8bc3fe476db&iiqpciddate=1791468022242&tsrnd=990_1795390233371&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22HeadlessChrome%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%2C%20%5C%22Not_A%20Brand%5C%22%3Bv%3D%5C%228.0.0.0%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22153.0.8010.12%5C%22%22%7D&spd=eJyrVqrITFGy0jXUUaoog7Gy8hOVrNISc4pTdZTSS8qDUpJL4Pyi1ELPAiUrJXMjPQtjPWNLPSNjJR2l4mKgCgMdpZJkJSszQxNDUyCzWMnK0NzS1NjCwtTIqBYAUgkc1w%3D%3D&vrref=fantasypros.com&gdpr_consent=undefined&gpp=DBABLA~BVQqAAAAAAJY.QA&gpc=undefined&gdpr=0)![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001791468024-LHL4GK29-5315&halo_id=060ixdaju6a6599979e979b999e9c9c9b66uokewi0e0y66626m626g666m6i6i6g)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001791468024-LHL4GK29-5315)
 

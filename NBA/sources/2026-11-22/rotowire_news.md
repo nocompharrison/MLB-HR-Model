@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 18:04 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,49 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)[Delivers well-rounded effort Sunday](https://www.rotowire.com/basketball/headlines/ausar-thompson-news-delivers-well-rounded-effort-sunday-540557)
+**F** Detroit Pistons
+November 22, 2026
+Thompson finished with 18 points (7-10 FG, 4-4 FT), 11 rebounds, five assists, one steal and two blocks over 38 minutes in Sunday's 107-97 loss to Atlanta.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
+[Ryan Dunn](https://www.rotowire.com/basketball/player/ryan-dunn-6276)[Questionable Monday](https://www.rotowire.com/basketball/headlines/ryan-dunn-injury-questionable-monday-540556)
+**F** Phoenix Suns
+Quadriceps
+November 22, 2026
+Dunn (quadriceps) is [listed as questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_15PM.pdf) for Monday's game against the Pelicans.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAC](https://assets.rotowire.com/images/teamlogo/basketball/100LAC.png?v=10)
+[Brandon Ingram](https://www.rotowire.com/basketball/player/brandon-ingram-3861)[Removed from injury report](https://www.rotowire.com/basketball/headlines/brandon-ingram-news-removed-from-injury-report-540555)
+**G** Los Angeles Clippers
+November 22, 2026
+Ingram (Achilles) is [not listed](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf) on the injury report ahead of Monday's game against the Rockets.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Bub Carrington](https://www.rotowire.com/basketball/player/bub-carrington-6270)[Available Sunday](https://www.rotowire.com/basketball/headlines/bub-carrington-news-available-sunday-540554)
+**G** Washington Wizards
+November 22, 2026
+Carrington (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf) for Sunday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
+[Deandre Ayton](https://www.rotowire.com/basketball/player/deandre-ayton-4372)[Will play Sunday](https://www.rotowire.com/basketball/headlines/deandre-ayton-news-will-play-sunday-540553)
+**C** Washington Wizards
+November 22, 2026
+Ayton (illness) is [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_05_00PM.pdf) for Sunday's game against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
+[Dyson Daniels](https://www.rotowire.com/basketball/player/dyson-daniels-5385)[Stuffs stat sheet in win](https://www.rotowire.com/basketball/headlines/dyson-daniels-news-stuffs-stat-sheet-in-win-540552)
+**G** Atlanta Hawks
+November 22, 2026
+Daniels finished Sunday's 107-97 win over the Pistons with five points (2-9 FG, 0-3 3Pt, 1-2 FT), 14 rebounds, eight assists, five steals and two blocks in 39 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Micah Peavy](https://www.rotowire.com/basketball/player/micah-peavy-6607)[Starting Sunday](https://www.rotowire.com/basketball/headlines/micah-peavy-news-starting-sunday-540551)
 **F** Oklahoma City Thunder
@@ -156,51 +199,6 @@ Tyson (ankle) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-
 Finger
 November 22, 2026
 Dieng (finger) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_30PM.pdf) for Monday's game against the Raptors.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)[Ruled out Sunday](https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-injury-ruled-out-sunday-540527)
-**G** Oklahoma City Thunder
-Back
-November 22, 2026
-Gilgeous-Alexander (back/neck) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_30PM.pdf) for Sunday's game against the Heat.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)[Available to play Sunday](https://www.rotowire.com/basketball/headlines/myron-gardner-news-available-to-play-sunday-540526)
-**F** Miami Heat
-November 22, 2026
-Gardner (hamstring) is available for Sunday's game against Oklahoma City, [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2124612995687043297?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Off injury report](https://www.rotowire.com/basketball/headlines/clint-capela-news-off-injury-report-540525)
-**C** Houston Rockets
-November 22, 2026
-Capela (ankle) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_15PM.pdf) for Monday's game against the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
-[Collin Murray-Boyles](https://www.rotowire.com/basketball/player/collin-murray-boyles-6585)[Expected to play Monday](https://www.rotowire.com/basketball/headlines/collin-murray-boyles-injury-expected-to-play-monday-540524)
-**F** Toronto Raptors
-Concussion
-November 22, 2026
-Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, [Blake Murphy of Sportsnet.ca](https://x.com/BlakeMurphyODC/status/2124610926833738234?a=Khvo0wqh6VOp0y76VvE&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Probable for Monday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-probable-for-monday-540522)
-**F** New Orleans Pelicans
-Knee
-November 22, 2026
-Murphy (knees) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_45PM.pdf) for Monday's game against the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)[Off injury report Sunday](https://www.rotowire.com/basketball/headlines/derrick-white-news-off-injury-report-sunday-540521)
-**G** Boston Celtics
-November 22, 2026
-White (shoulder) is not listed on the injury report for Sunday's game against Golden State, [Justin Turpin of WEEI.com](https://x.com/JustinmTurpin/status/2124605624415822233?s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-22 17:08 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-22 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,23 +9,20 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
-[](https://www.espn.com/nba/game/_/gameId/401910029)
+[](https://www.espn.com/nba/game/_/gameId/401910030)
 
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401910029)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401910029)
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401910030)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401910030)
 
-*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&w=32&h=32&scale=crop&cquality=40&location=origin)DET  65  
-*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ATL  63  
+*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&w=32&h=32&scale=crop&cquality=40&location=origin)OKC  19  
+*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIA  27  
 
-7:15 - 3rd
+2:42 - 1st
 
-[](https://www.espn.com/nba/game/_/gameId/401910030/thunder-heat)
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401910029/pistons-hawks)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401910029)
 
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401910030/thunder-heat)[Tickets](https://www.vividseats.com/miami-heat-tickets-kaseya-center-11-22-2026/production/7433128?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
+[* ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&w=32&h=32&scale=crop&cquality=40&location=origin)DET 97 * ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ATL 107](https://www.espn.com/nba/game/_/gameId/401910029/pistons-hawks)
 
-*   ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&w=32&h=32&scale=crop&cquality=40&location=origin)OKC  10-6  
-*   ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIA  9-6  
-
-11:00 PM
+Final
 
 [Full Scoreboard »](https://www.espn.com/nba/scoreboard)
 
@@ -89,8 +86,9 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 23 | Day-To-Day | Nov 21: Williams (hamstring) is listed as out for Friday's game versus the Hawks. |
-| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 23 | Day-To-Day | Nov 21: Allen (concussion) has been ruled out for Friday's game against Atlanta. |
+| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 25 | Out | Nov 22: Allen (concussion) has been ruled out for Monday's game against the Grizzlies. |
+| [Brandon Miller](https://www.espn.com/nba/player/_/id/4433287/brandon-miller) | F | Nov 23 | Day-To-Day | Nov 22: Miller is probable for Monday's game against the Grizzlies due to a right knee contusion. |
+| [Grant Williams](https://www.espn.com/nba/player/_/id/4066218/grant-williams) | F | Nov 25 | Out | Nov 22: Williams (hamstring) won't play Monday's game against the Grizzlies. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Dec 12 | Out | Nov 8: Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks. |
 | [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Nov 25 | Out | Nov 8: Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports. |
 
@@ -99,9 +97,7 @@ Skip to main content Skip to navigation
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
 | [Nic Claxton](https://www.espn.com/nba/player/_/id/4278067/nic-claxton) | C | Nov 23 | Out | Nov 22: Claxton (illness) won't play in Sunday's game against the Nuggets. |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 22 | Day-To-Day | Nov 22: Smith (illness) has been upgraded to probable for Sunday's game against the Nuggets. |
 | [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 28 | Out | Nov 22: Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week. |
-| [Patrick Williams](https://www.espn.com/nba/player/_/id/4431687/patrick-williams) | F | Nov 22 | Day-To-Day | Nov 22: Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
 ![Image 14: Cleveland Cavaliers](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&h=40&w=40)Cleveland Cavaliers
@@ -116,8 +112,7 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [P.J. Washington](https://www.espn.com/nba/player/_/id/4278078/pj-washington) | F | Nov 22 | Day-To-Day | Nov 22: Washington (illness) is doubtful to play Sunday's game against the Jazz. |
-| [Walter Clayton Jr.](https://www.espn.com/nba/player/_/id/4896372/walter-clayton-jr) | G | Nov 22 | Day-To-Day | Nov 22: Clayton (knee) is listed as questionable for Sunday's game against the Jazz. |
+| [P.J. Washington](https://www.espn.com/nba/player/_/id/4278078/pj-washington) | F | Nov 24 | Out | Nov 22: Washington (illness) has been ruled out for Sunday's game against the Jazz. |
 | [Tobi Lawal](https://www.espn.com/nba/player/_/id/5106040/tobi-lawal) | F | Nov 24 | Out | Nov 22: Lawal (groin) has been ruled out for Sunday's game against the Jazz. |
 | [Dereck Lively II](https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii) | C | Nov 27 | Out | Nov 20: Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's "close" to returning, Mike Curtis of The Dallas Morning News reports. |
 | [Sergio de Larrea](https://www.espn.com/nba/player/_/id/5279129/sergio-de-larrea) | F | Nov 27 | Out | Nov 17: De Larrea (knee) is listed as out for Wednesday's game against the Warriors. |
@@ -133,7 +128,7 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Ebuka Okorie](https://www.espn.com/nba/player/_/id/5258459/ebuka-okorie) | G | Nov 24 | Out | Nov 21: Okorie (oblique) is out for Sunday's game in Atlanta. |
+| [Ebuka Okorie](https://www.espn.com/nba/player/_/id/5258459/ebuka-okorie) | G | Nov 24 | Day-To-Day | Nov 22: Okorie (oblique) is out for Sunday's game in Atlanta. |
 | [Taurean Prince](https://www.espn.com/nba/player/_/id/2990962/taurean-prince) | F | Dec 13 | Out | Nov 20: Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports. |
 | [Duncan Robinson](https://www.espn.com/nba/player/_/id/3157465/duncan-robinson) | F | Nov 27 | Out | Nov 17: Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports. |
 | [Jalen Duren](https://www.espn.com/nba/player/_/id/4433621/jalen-duren) | C | Nov 24 | Out | Nov 8: Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports. |
@@ -162,7 +157,6 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Brandon Ingram](https://www.espn.com/nba/player/_/id/3913176/brandon-ingram) | F | Nov 23 | Out | Nov 20: Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per Shams Charania of ESPN. |
 | [Bradley Beal](https://www.espn.com/nba/player/_/id/6580/bradley-beal) | G | Nov 29 | Out | Oct 14: Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports. |
 | [Jordan Miller](https://www.espn.com/nba/player/_/id/4396818/jordan-miller) | G | Mar 2 | Out | Aug 26: Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic. |
 
@@ -176,9 +170,8 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Javon Small](https://www.espn.com/nba/player/_/id/4781746/javon-small) | G | Nov 23 | Day-To-Day | Nov 22: Small won't play Saturday against the Timberwolves due to personal reasons. |
-| [Cameron Boozer](https://www.espn.com/nba/player/_/id/5041935/cameron-boozer) | F | Nov 23 | Day-To-Day | Nov 22: Boozer is out for Saturday's game against Minnesota due to a right ankle sprain. |
-| [Jerami Grant](https://www.espn.com/nba/player/_/id/2991070/jerami-grant) | F | Nov 23 | Day-To-Day | Nov 22: Grant (calf) is out for Saturday's game against the Timberwolves. |
+| [Jerami Grant](https://www.espn.com/nba/player/_/id/2991070/jerami-grant) | F | Nov 23 | Day-To-Day | Nov 22: Grant (calf) has been ruled out for Monday's game against the Hornets. |
+| [Cameron Boozer](https://www.espn.com/nba/player/_/id/5041935/cameron-boozer) | F | Nov 25 | Out | Nov 22: Boozer (ankle) won't play Monday's game against the Hornets. |
 | [GG Jackson](https://www.espn.com/nba/player/_/id/5105550/gg-jackson) | F | Jan 18 | Out | Nov 17: Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months. |
 | [Scotty Pippen Jr.](https://www.espn.com/nba/player/_/id/4431785/scotty-pippen-jr) | G | Nov 25 | Out | Nov 16: Pippen (back) is progressing in his recovery but is still considered week-to-week. |
 | [Richie Saunders](https://www.espn.com/nba/player/_/id/5105462/richie-saunders) | G | Dec 1 | Out | Nov 7: Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports. |
@@ -187,7 +180,7 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Giannis Antetokounmpo](https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo) | F | Nov 22 | Day-To-Day | Nov 21: Antetokounmpo (groin) is listed as questionable for Sunday's game against Oklahoma City, Ira Winderman of the South Florida Sun Sentinel reports. |
+| [Giannis Antetokounmpo](https://www.espn.com/nba/player/_/id/3032977/giannis-antetokounmpo) | F | Nov 25 | Out | Nov 22: Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports. |
 
 ![Image 24: Milwaukee Bucks](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&h=40&w=40)Milwaukee Bucks
 
@@ -226,6 +219,7 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Aday Mara](https://www.espn.com/nba/player/_/id/5174983/aday-mara) | C | Nov 23 | Out | Nov 22: Mara (shin) is listed as out for Sunday's game versus Miami. |
 | [Shai Gilgeous-Alexander](https://www.espn.com/nba/player/_/id/4278073/shai-gilgeous-alexander) | G | Nov 23 | Out | Nov 22: Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat. |
 | [Nikola Topic](https://www.espn.com/nba/player/_/id/5159925/nikola-topic) | G | Nov 23 | Out | Nov 21: Topic (hip) is listed as out for Sunday's game versus the Heat. |
 | [Jaylin Williams](https://www.espn.com/nba/player/_/id/4432823/jaylin-williams) | F | Nov 23 | Out | Nov 21: Williams (back) is listed as out for Sunday's game against Miami. |
@@ -248,9 +242,9 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Dean Wade](https://www.espn.com/nba/player/_/id/3912848/dean-wade) | F | Nov 23 | Day-To-Day | Nov 22: Wade (hamstring) won't play Saturday against the Bucks. |
-| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Nov 23 | Day-To-Day | Nov 22: Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports. |
-| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 23 | Out | Nov 20: Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, Adam Aaronson of PhillyVoice.com reports. |
+| [Adem Bona](https://www.espn.com/nba/player/_/id/5105637/adem-bona) | C | Nov 23 | Out | Nov 22: Bona (back) is listed as probable for Monday's game against the Trail Blazers. |
+| [Jaylen Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown) | G | Nov 23 | Day-To-Day | Nov 22: Brown (hamstring) is listed as probable for Monday's game versus Portland. |
+| [Dean Wade](https://www.espn.com/nba/player/_/id/3912848/dean-wade) | F | Nov 23 | Day-To-Day | Nov 22: Wade (hamstring) is listed as probable for Monday's game against Portland. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
 ![Image 31: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
@@ -305,8 +299,6 @@ Skip to main content Skip to navigation
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Bub Carrington](https://www.espn.com/nba/player/_/id/4845374/bub-carrington) | G | Nov 22 | Day-To-Day | Nov 22: Carrington (illness) has been downgraded to questionable for Sunday's game against the Magic. |
-| [Deandre Ayton](https://www.espn.com/nba/player/_/id/4278129/deandre-ayton) | C | Nov 22 | Day-To-Day | Nov 22: Ayton (illness) is questionable to play in Sunday's game against Orlando. |
 | [Tristan Vukcevic](https://www.espn.com/nba/player/_/id/4997537/tristan-vukcevic) | F | Nov 24 | Out | Nov 16: Vukcevic (hip) has been ruled out for Monday's game against Memphis. |
 | [Reece Beekman](https://www.espn.com/nba/player/_/id/4432187/reece-beekman) | G | Dec 3 | Out | Nov 2: The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks. |
 | [Justin Champagnie](https://www.espn.com/nba/player/_/id/4432907/justin-champagnie) | F | Feb 25 | Out | Oct 28: Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. |
@@ -316,57 +308,33 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[3 Materials Oregon Officials Are Banning From Kitchens Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "3 Materials Oregon Officials Are Banning From Kitchens")
+[](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Born Between 1945 and 1965? Check This Hearing Device Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Born Between 1945 and 1965? Check This Hearing Device")
 
-Undo
+[](https://withinmag.com/nv-gp-tb-letter-v1)[Over 55 and Hungry Again by 10 PM? Read This WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://withinmag.com/nv-gp-tb-letter-v1 "Over 55 and Hungry Again by 10 PM? Read This")
 
-[](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v2)[The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v2 "The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know")
+[](https://lp.customwatersolutionsusa.com/cws-whole-home-costs)[Here's What a Whole Home Water Filtration System Costs Custom Water Solutions USA | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Rates](https://lp.customwatersolutionsusa.com/cws-whole-home-costs "Here's What a Whole Home Water Filtration System Costs")
 
-Undo
+[](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
-[](https://latest.topgadgetgifts.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 Top Gadget Gifts | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://latest.topgadgetgifts.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+[](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl)[Podiatrist Marta Riniker Reveals a Walking-Shoe Detail HF Stride | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl "Podiatrist Marta Riniker Reveals a Walking-Shoe Detail")
 
-Undo
-
-[](https://unfaility.com/youd-never-guess-how-tall-these-famous-women-really-are)[Milana Vayntrub Embraces Her Shape in Stunning New Photos unfaility.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://unfaility.com/youd-never-guess-how-tall-these-famous-women-really-are "Milana Vayntrub Embraces Her Shape in Stunning New Photos")
-
-Undo
-
-[](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl)[What She Discovered About Her Everyday Walking Shoes HF Stride | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl "What She Discovered About Her Everyday Walking Shoes")
-
-Undo
-
-[](https://seniorperks.org/G5H13BqD)[Retirees on SS Are Due a Large Surprise This Sunday Senior Perks | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://seniorperks.org/G5H13BqD "Retirees on SS Are Due a Large Surprise This Sunday")
-
-Undo
-
-[](https://blavity.com/navy-uss-mason-commander-fired-heres-what-to-know)[USS Mason Commander Relieved Of Duty. Here's What Happened Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://blavity.com/navy-uss-mason-commander-fired-heres-what-to-know "USS Mason Commander Relieved Of Duty. Here's What Happened")
-
-[](https://seniordealtoday.com/XdBX8YQR)[Retirees On SS Are Due a Large Surprise This Sunday Senior Discount Club | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://seniordealtoday.com/XdBX8YQR "Retirees On SS Are Due a Large Surprise This Sunday")
-
-[](https://ontimedirectmax.com/1tg7ygxoc6gj7qoewzpr)[Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)DirectMax | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://ontimedirectmax.com/1tg7ygxoc6gj7qoewzpr "Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)")
+[](https://www.grammarly.com/a)[Invest In Your Daily Productivity With Grammarly Pro Upgrade your daily workflow with intelligent writing support. Grammarly catches mistakes you might miss otherwise. Try it now.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.grammarly.com/a "Invest In Your Daily Productivity With Grammarly Pro")
 
 ### NBA News
 
-[![Image 38: Sources: Free agent Gabe Vincent, Kings finalizing deal](https://a.espncdn.com/combiner/i?img=/photo/2024/0401/r1312689_600x600_1-1.jpg&w=220) ## Sources: Free agent Gabe Vincent, Kings finalizing deal Gabe Vincent is finalizing a deal with the Kings to fill their 15th roster spot, league sources told ESPN's Shams Charania. * 1h * Anthony Slater](https://www.espn.com/nba/story/_/id/50564924/sources-free-agent-gabe-vincent-kings-finalizing-deal)
+[![Image 38: Detroit Pistons vs. Atlanta Hawks: Game Highlights](https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/d3c5c9f3-58db-46ec-b88e-88ea435ecc5f/d3c5c9f3-58db-46ec-b88e-88ea435ecc5f.jpg) ## Alexander-Walker has 27 points as Hawks roll to 107-97 win over Pistons in off game for Cunningham — Nickeil Alexander-Walker scored 27 points, Atlanta opened the fourth quarter with an 18-0 run, and the Hawks beat the Detroit Pistons 107-97 on Sunday as Cade Cunningham was held to a season-low five points. * 19m](https://www.espn.com/nba/recap/_/gameId/401910029)
 
-[![Image 39: Bulls G Norman Powell sidelined by mild hamstring injury](https://a.espncdn.com/combiner/i?img=/photo/2026/1122/r1749738_1296x729_16-9.jpg&w=220) ## Bulls G Norman Powell sidelined by mild hamstring injury Bulls guard Norman Powell has been ruled out against the Nuggets and will be reevaluated later in the week because of a mild right hamstring strain. * 2h](https://www.espn.com/nba/story/_/id/50564049/bulls-g-norman-powell-sidelined-mild-hamstring-injury)
+[![Image 39: Detroit Pistons vs. Atlanta Hawks: Game Highlights](https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1122/d3c5c9f3-58db-46ec-b88e-88ea435ecc5f/d3c5c9f3-58db-46ec-b88e-88ea435ecc5f.jpg) ## Detroit Pistons vs. Atlanta Hawks: Game Highlights Detroit Pistons vs. Atlanta Hawks: Game Highlights * 12m](https://www.espn.com/video/clip/_/id/50566482/game-highlights)
 
-[![Image 40: Fantasy basketball adds and NBA bets: Expect Bulls, Nuggets to score](https://a.espncdn.com/combiner/i?img=/photo/2026/1122/r1749631_576x324_16-9.jpg&w=220) ## Fantasy basketball adds and NBA bets: Expect Bulls, Nuggets to score Jim McCormick breaks down Sunday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 6h * Jim McCormick](https://www.espn.com/fantasy/basketball/story/_/id/50560887/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 40: Sources: Free agent Gabe Vincent, Kings finalizing deal](https://a.espncdn.com/combiner/i?img=/photo/2024/0401/r1312689_600x600_1-1.jpg&w=220) ## Sources: Free agent Gabe Vincent, Kings finalizing deal Gabe Vincent is finalizing a deal with the Kings to fill their 15th roster spot, league sources told ESPN's Shams Charania. * 2h * Anthony Slater](https://www.espn.com/nba/story/_/id/50564924/sources-free-agent-gabe-vincent-kings-finalizing-deal)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://blavity.com/new-york-student-sentenced-to-year-in-dubai-prison)[New York Student Sentenced To Year In Dubai Prison After Touching Airport Security Guard During Layover Blavity.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://blavity.com/new-york-student-sentenced-to-year-in-dubai-prison "New York Student Sentenced To Year In Dubai Prison After Touching Airport Security Guard During Layover")
+[](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Born 1945-1965? This Is What Hearing Aids Cost Now A small, affordable hearing device is doing something many people didn't expect. It isn't just helping them hear more clearly. It's helping them feel sharper too.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Born 1945-1965? This Is What Hearing Aids Cost Now")
 
-Undo
-
-[](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl)[She Was Gripping the Counter. Then She Asked Why.HF Stride | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl "She Was Gripping the Counter. Then She Asked Why.")
-
-Undo
-
-[](https://www.homes.com/news/hulk-hogans-clearwater-beach-homes-sell-for-half-asking-price/561089687)[Hulk Hogan's Clearwater Beach homes sell for half asking price Homes.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.homes.com/news/hulk-hogans-clearwater-beach-homes-sell-for-half-asking-price/561089687 "Hulk Hogan's Clearwater Beach homes sell for half asking price")
+[](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng)[My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s Koriderm | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng "My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s")
 
 ![Image 41: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
@@ -385,44 +353,4 @@ Undo
 GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL.
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
-
-![Image 42: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Notice of Right to Opt Out of Sale/Sharing
-
-Some US states provide residents (or their [authorized agents](https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/b65ffa0c-9019-4d84-b1a8-1965ba7c989f)) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.
-
-### Manage Consent Preferences
-
-#### Selling, Sharing, Targeted Advertising
-
-- [x] Selling, Sharing, Targeted Advertising 
-
-If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.  
-  
-You can also submit this [opt-out form](https://usprivacy.disney.com/dnssmpi), which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms).   
-  
-You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.  
-  
-Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) for more information about your rights and how to exercise them.
-
-### Cookie List
-
-Clear
-
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Submit
-
-[![Image 43: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 
