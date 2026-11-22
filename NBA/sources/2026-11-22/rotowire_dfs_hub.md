@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 17:08 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 18:04 ET -->
 
 # NBA DFS Picks Today
 November 22, 2026
@@ -24,36 +24,36 @@ Sunday, November 22 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (DET @ ATL) Boston Celtics (BOS @ GSW) Chicago Bulls (DEN @ CHI) Dallas Mavericks (DAL @ UTA) Denver Nuggets (DEN @ CHI) Detroit Pistons (DET @ ATL) Golden State Warriors (BOS @ GSW) Indiana Pacers (IND @ NYK) Miami Heat (OKC @ MIA) New York Knicks (IND @ NYK) Oklahoma City Thunder (OKC @ MIA) Orlando Magic (ORL @ WSH) Utah Jazz (DAL @ UTA) Washington Wizards (ORL @ WSH)
 Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
-**[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)** _G_ OUT _Top_ 4:35 PM ET
-#### Ruled out Sunday
-Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.
+**[Micah Peavy](https://www.rotowire.com/basketball/player/micah-peavy-6607)** _F_ 5:40 PM ET
+#### Starting Sunday
+Peavy will start Sunday's game against the Heat, Clemente Almanza of USA Today reports.
 Analysis
-Gilgeous-Alexander will miss his first game of the 2026-27 campaign. His next opportunity to suit up will come Monday against the Pacers. Nikola Topic (hip), Alex Caruso (hip) and Cason Wallace (shoulder) are also unavailable, so Bennett Stirtz, Kenrich Williams and Nique Clifford are candidates for more minutes, with one of those players potentially moving into the starting lineup.
+Peavy will get his first start as a member of the Thunder and fifth of his career Sunday due to numerous rotation players being sidelined. He should be in line for a heavy workload.
+Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
+**[Kenrich Williams](https://www.rotowire.com/basketball/player/kenrich-williams-4462)** _F_ 5:40 PM ET
+#### Starting versus Heat
+Williams will start in Sunday's game against the Heat, Clemente Almanza of USA Today reports.
+Analysis
+The Thunder have a lengthy injury report for Sunday's meeting with Miami, so Williams will enter the starting lineup. In 10 starts during the 2026-27 campaign, the 31-year-old is averaging 8.0 points, 4.5 rebounds and 1.7 assists over 23.7 minutes per contest. However, with Shai Gilgeous-Alexander (back/neck) sidelined, there is room for Williams to be more involved offensively.
 Miami HeatOKC @ MIA - 6:00 PM ET
-**[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)** _F_ 4:26 PM ET
-#### Available to play Sunday
-Gardner (hamstring) is available for Sunday's game against Oklahoma City, Ira Winderman of the South Florida Sun Sentinel reports.
+**[Bobby Portis](https://www.rotowire.com/basketball/player/bobby-portis-3705)** _F_ 5:36 PM ET
+#### Starting sans Antetokounmpo
+Portis will start Sunday's game against the Thunder.
 Analysis
-Gardner was in danger of missing his second consecutive game, though that won't be the case. The 25-year-old has averaged 3.0 points, 2.3 rebounds and 1.1 assists over 10.0 minutes per contest in nine regular-season appearances during the 2026-27 campaign.
-Boston CelticsBOS @ GSW - 8:30 PM ET
-**[Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)** _G_ _Top_ 3:59 PM ET
-#### Off injury report Sunday
-White (shoulder) is not listed on the injury report for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.
+With Giannis Antetokounmpo (groin) sidelined, Portis will draw his first start of the season. Over his last five outings, the veteran big man has averaged 8.4 points and 3.4 rebounds in 18.0 minutes per contest.
+Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
+**[Aday Mara](https://www.rotowire.com/basketball/player/aday-mara-6932)** _C_ OUT5:35 PM ET
+#### Ruled out Sunday night
+Mara (shin) is listed as out for Sunday's game versus Miami.
 Analysis
-White will return from a one-game absence due to a left AC joint sprain in his shoulder. Payton Pritchard and Hugo Gonzalez will return to the bench with White back in action.
-Boston CelticsBOS @ GSW - 8:30 PM ET
-**[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)** _C_ OUT3:58 PM ET
-#### Out Sunday
-Robinson (illness) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.
+Mara is the latest Thunder player to be added to the injury report. With Jaylin Williams (back), Jalen Williams (leg) and Chet Holmgren (knee) also sidelined, more minutes should be available for Kenrich Williams and Micah Peavy.
+Dallas MavericksDAL @ UTA - 7:00 PM ET
+**[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)** _F_ OUT _Top_ 5:24 PM ET
+#### Ruled out Sunday
+Washington (illness) has been ruled out for Sunday's game against the Jazz.
 Analysis
-Robinson will miss both halves of this back-to-back set due to an illness. The big man's next opportunity to play will come Tuesday at Washington. Luka Garza will likely see increased minutes in Robinson's stead.
-Boston CelticsBOS @ GSW - 8:30 PM ET
-**[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)** _F_ OUT _Top_ 3:56 PM ET
-#### Resting Sunday
-George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.
-Analysis
-George will sit out the second leg of this back-to-back set. With the veteran forward sidelined, Baylor Scheierman, Hugo Gonzalez and Sam Hauser could all see increased burn. George will likely return for Tuesday's game at Washington.
-Show 5 more (26 remaining)
+Washington is under the weather and will remain on the inactive list for a second consecutive contest. His next chance to play will come Tuesday at Denver. Zaccharie Risacher, Morez Johnson and Naji Marshall are candidates for increased burn in Washington's absence.
+Show 5 more (35 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -68,33 +68,33 @@ NuggetsExpectedAway
 _Implied_**123.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Nikola Jokic  | $12,200  | 61.2  |  
-| PF  | Aaron Gordon  | $5,500  | 27.6  |  
-| PG  | Jamal Murray  | $8,900  | 44.7  |  
+| C  | Nikola Jokic  | $12,200  | 61.3  |  
+| PF  | Aaron Gordon  | $5,500  | 27.7  |  
+| PG  | Jamal Murray  | $8,900  | 44.8  |  
 | SF  | Cameron Johnson  | $5,200  | 25.8  |  
 | SG  | Christian Braun  | $6,000  | 27.6  |  
 BullsExpectedHome
 _Implied_**113.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Jalen SmithP  | $6,100  | 35.5  |  
-| PF  | Noa Essengue  | $3,100  | 13.8  |  
+| C  | Jalen Smith  | $6,100  | 35.6  |  
+| PF  | Matas Buzelis  | $6,400  | 32.5  |  
 | PG  | Josh Giddey  | $7,800  | 37.0  |  
-| SF  | Matas Buzelis  | $6,400  | 32.5  |  
-| SG  | Isaac Okoro  | $4,500  | 24.1  |  
+| SF  | Isaac Okoro  | $4,500  | 24.1  |  
+| SG  | Buddy Hield  | $3,800  | 22.2  |  
 **ORL @ WSH**
-O/U 220.57:00 PM ET
+O/U 219.57:00 PM ET
 MagicExpectedAway
-_Implied_**112.5** _Spread_**-4.5**  
+_Implied_**112.0** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $6,200  | 26.0  |  
 | PF  | Franz Wagner  | $9,700  | 46.9  |  
 | PG  | Jalen Suggs  | $5,700  | 28.9  |  
 | SF  | Desmond Bane  | $6,700  | 34.1  |  
-| SG  | Anthony Black  | $6,600  | 35.4  |  
+| SG  | Anthony Black  | $6,600  | 35.5  |  
 WizardsExpectedHome
-_Implied_**108.0** _Spread_**+4.5**  
+_Implied_**107.5** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 23.3  |  
@@ -109,23 +109,23 @@ _Implied_**114.0** _Spread_**-2.5**
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Daniel Gafford  | $4,800  | 23.7  |  
-| PF  | Zaccharie Risacher  | $4,600  | 19.4  |  
-| PG  | Kyrie Irving  | $7,900  | 37.2  |  
-| SF  | Cooper Flagg  | $9,800  | 45.5  |  
+| PF  | Zaccharie Risacher  | $4,600  | 19.3  |  
+| PG  | Kyrie Irving  | $7,900  | 37.1  |  
+| SF  | Cooper Flagg  | $9,800  | 45.4  |  
 | SG  | Caleb Martin  | $4,300  | 18.4  |  
 JazzExpectedHome
 _Implied_**111.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jaxson Hayes  | $5,100  | 23.9  |  
-| PF  | Ace Bailey  | $6,700  | 26.6  |  
-| PG  | Keyonte George  | $8,300  | 41.0  |  
+| PF  | Ace Bailey  | $6,700  | 26.5  |  
+| PG  | Keyonte George  | $8,300  | 40.9  |  
 | SF  | Josh Green  | $3,600  | 11.2  |  
-| SG  | Darryn Peterson  | $7,700  | 31.3  |  
+| SG  | Darryn Peterson  | $7,700  | 31.1  |  
 **IND @ NYK**
-O/U 213.58:00 PM ET
+O/U 212.58:00 PM ET
 PacersExpectedAway
-_Implied_**103.0** _Spread_**+7.5**  
+_Implied_**102.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ivica Zubac  | $5,700  | 26.7  |  
@@ -134,7 +134,7 @@ _Implied_**103.0** _Spread_**+7.5**
 | SF  | Aaron Nesmith  | $4,800  | 22.3  |  
 | SG  | Kelly Oubre  | $4,600  | 19.8  |  
 KnicksExpectedHome
-_Implied_**110.5** _Spread_**-7.5**  
+_Implied_**110.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony TownsQ  | $9,600  | 48.8  |  
@@ -148,19 +148,19 @@ CelticsExpectedAway
 _Implied_**109.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Neemias Queta  | $5,200  | 30.9  |  
-| PF  | Sam Hauser  | $4,300  | 21.0  |  
+| C  | Neemias Queta  | $5,200  | 31.0  |  
+| PF  | Sam Hauser  | $4,300  | 21.1  |  
 | PG  | Derrick White  | $7,200  | 29.4  |  
-| SF  | Jayson Tatum  | $10,100  | 49.8  |  
+| SF  | Jayson Tatum  | $10,100  | 49.9  |  
 | SG  | Jordan Walsh  | $3,600  | 17.6  |  
 WarriorsExpectedHome
 _Implied_**101.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
-| C  | Charles Bassey  | $4,700  | 16.5  |  
-| PF  | Draymond Green  | $5,100  | 22.6  |  
+| C  | Charles Bassey  | $4,700  | 16.6  |  
+| PF  | Draymond Green  | $5,100  | 22.7  |  
 | PG  | De'Anthony Melton  | $5,600  | 27.4  |  
-| SF  | Yaxel Lendeborg  | $8,800  | 36.8  |  
+| SF  | Yaxel Lendeborg  | $8,800  | 36.9  |  
 | SG  | Brandin Podziemski  | $7,100  | 28.8  |  
 Starters from RotoWire. A green Confirmed tag means the team's lineup has been announced; Expected means it is RotoWire's projected lineup and can still change before tip-off. Proj = projected fantasy points under each site's NBA scoring. A dash means the player is not on that site's slate. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Implied = team scoring total from the sportsbook line (DraftKings or FanDuel, matching the tab); O/U = game total. Implied and O/U are color coded against the rest of the slate, from red (lowest) through orange and yellow to green (highest).Projections: RotoWire
 ## **NBA DFS Top Value Plays**
@@ -173,14 +173,14 @@ Main slatesMain - 5 games - 7:00 PMMain - 2 games - 3:30 PMMain - 2 games - 8:00
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Tre JonesCHI - PG  | vs DEN  | $4,600  | 27  | 30.5  | **6.63**  |  
-| 2  |  Neemias QuetaBOS - C  | @ GSW  | $5,200  | 29  | 30.9  | **5.95**  |  
+| 1  |  Tre JonesCHI - PG  | vs DEN  | $4,600  | 27  | 30.5  | **6.64**  |  
+| 2  |  Neemias QuetaBOS - C  | @ GSW  | $5,200  | 29  | 31.0  | **5.96**  |  
 | 3  |  Buddy HieldCHI - SG  | vs DEN  | $3,800  | 23  | 22.2  | **5.83**  |  
-| 4  |  Jalen SmithPCHI - C  | vs DEN  | $6,100  | 28  | 35.6  | **5.83**  |  
-| 5  |  Hugo GonzalezBOS - SG  | @ GSW  | $3,100  | 23  | 17.5  | **5.66**  |  
-| 6  |  Anthony BlackORL - PG  | @ WSH  | $6,600  | 34  | 35.4  | **5.37**  |  
+| 4  |  Jalen SmithCHI - C  | vs DEN  | $6,100  | 28  | 35.6  | **5.83**  |  
+| 5  |  Hugo GonzalezBOS - SG  | @ GSW  | $3,100  | 23  | 17.6  | **5.67**  |  
+| 6  |  Anthony BlackORL - PG  | @ WSH  | $6,600  | 34  | 35.5  | **5.37**  |  
 | 7  |  Isaac OkoroCHI - SG  | vs DEN  | $4,500  | 32  | 24.1  | **5.36**  |  
-| 8  |  Luka GarzaBOS - C  | @ GSW  | $3,700  | 19  | 19.6  | **5.30**  |  
+| 8  |  Luka GarzaBOS - C  | @ GSW  | $3,700  | 19  | 19.6  | **5.31**  |  
 | 9  |  Desmond BaneORL - SG  | @ WSH  | $6,700  | 35  | 34.1  | **5.09**  |  
 | 10  |  Karl-Anthony TownsQNYK - PF  | vs IND  | $9,600  | 34  | 48.8  | **5.08**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
@@ -200,27 +200,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5+10+15CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GarzaMeltonBridgesWalshBaneQuetaOkoro
+$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−10−50+5+10+15CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GarzaMeltonBridgesWalshOkoroGordonQueta
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BOS@GSW, DEN@CHI, DAL@UTA, IND@NYK, ORL@WAS  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Luka GarzaBOS · C · BOS@GSW  | $3,700  | 2.8  | 19.6  | **32.1**  |   | +8.4  | +16  | 96  |  
-| 2  |  De'Anthony MeltonGSW · PG/SG · BOS@GSW  | $5,600  | 7.8  | 27.4  | **44.1**  |   | +7.9  | +17  | 95  |  
-| 3  |  Hugo GonzalezBOS · SG · BOS@GSW  | $3,100  | 1.6  | 17.5  | **27.8**  |   | +8.1  | +11  | 93  |  
-| 4  |  Mikal BridgesNYK · SF · IND@NYK  | $4,700  | 3.8  | 21.6  | **35.5**  |   | +5.3  | +19  | 92  |  
-| 5  |  Jordan WalshBOS · SG/SF · BOS@GSW  | $3,600  | 1.6  | 17.6  | **27.8**  |   | +4.8  | +11  | 88  |  
-| 6  |  Desmond BaneORL · SG/SF · ORL@WAS  | $6,700  | 12.6  | 34.1  | **50.6**  |   | +7.2  | +7  | 87  |  
-| 7  |  Bilal CoulibalyWAS · SF · ORL@WAS  | $3,900  | 2.8  | 16.5  | **28.8**  |   | +3.8  | +16  | 87  |  
-| 8  |  Neemias QuetaBOS · C · BOS@GSW  | $5,200  | 12.5  | 30.9  | **47.5**  |   | +13.9  | +4  | 85  |  
-| 9  |  Isaac OkoroCHI · SG/SF · DEN@CHI  | $4,500  | 6.3  | 24.1  | **37.1**  |   | +8.1  | +6  | 84  |  
-| 10  |  Trevon BrazileDEN · PF/C · DEN@CHI  | $3,600  | 0.8  | 12.6  | **24.8**  |   | +1.8  | +34  | 82  |  
-| 11  |  Aaron GordonDEN · PF/C · DEN@CHI  | $5,500  | 8.2  | 27.6  | **41.2**  |   | +5.7  | +4  | 81  |  
-| 12  |  Patrick WilliamsCHI · SF/PF · DEN@CHI  | $3,300  | 0.3  | 14.9  | **23.5**  |   | +2.4  | +9  | 80  |  
-| 13  |  Alex SarrWAS · C · ORL@WAS  | $5,700  | 3.7  | 23.3  | **37.7**  |   | +0.9  | +22  | 78  |  
-| 14  |  Josh GiddeyCHI · PG · DEN@CHI  | $7,800  | 16.1  | 37.0  | **54.6**  |   | +4.0  | +4  | 77  |  
-| 15  |  Tristan da SilvaORL · SF/PF · ORL@WAS  | $5,000  | 5.8  | 22.1  | **35.0**  |   | +2.8  | +6  | 76  |  
+| 1  |  Luka GarzaBOS · C · BOS@GSW  | $3,700  | 2.8  | 19.6  | **32.3**  |   | +8.1  | +19  | 97  |  
+| 2  |  De'Anthony MeltonGSW · PG/SG · BOS@GSW  | $5,600  | 7.8  | 27.4  | **44.1**  |   | +7.5  | +18  | 95  |  
+| 3  |  Hugo GonzalezBOS · SG · BOS@GSW  | $3,100  | 1.6  | 17.6  | **27.8**  |   | +7.4  | +12  | 92  |  
+| 4  |  Mikal BridgesNYK · SF · IND@NYK  | $4,700  | 3.8  | 21.6  | **35.6**  |   | +4.8  | +20  | 92  |  
+| 5  |  Jordan WalshBOS · SG/SF · BOS@GSW  | $3,600  | 1.6  | 17.6  | **27.8**  |   | +4.2  | +12  | 87  |  
+| 6  |  Bilal CoulibalyWAS · SF · ORL@WAS  | $3,900  | 2.8  | 16.5  | **28.8**  |   | +3.2  | +17  | 87  |  
+| 7  |  Isaac OkoroCHI · SG/SF · DEN@CHI  | $4,500  | 6.3  | 24.1  | **37.1**  |   | +7.6  | +6  | 87  |  
+| 8  |  Aaron GordonDEN · PF/C · DEN@CHI  | $5,500  | 8.2  | 27.7  | **41.2**  |   | +5.3  | +5  | 84  |  
+| 9  |  Neemias QuetaBOS · C · BOS@GSW  | $5,200  | 13.0  | 31.0  | **47.5**  |   | +13.5  | +3  | 83  |  
+| 10  |  Patrick WilliamsCHI · SF/PF · DEN@CHI  | $3,300  | 0.3  | 14.9  | **23.5**  |   | +1.8  | +10  | 79  |  
+| 11  |  Tristan da SilvaORL · SF/PF · ORL@WAS  | $5,000  | 5.8  | 22.1  | **35.0**  |   | +2.4  | +7  | 78  |  
+| 12  |  Alex SarrWAS · C · ORL@WAS  | $5,700  | 3.7  | 23.3  | **37.7**  |   | +0.5  | +23  | 77  |  
+| 13  |  Jalen SmithCHI · C · DEN@CHI  | $6,100  | 14.8  | 35.6  | **51.1**  |   | +11.3  | +1  | 75  |  
+| 14  |  Al HorfordGSW · C · BOS@GSW  | $3,600  | 0.8  | 15.9  | **25.0**  |   | +1.4  | +10  | 75  |  
+| 15  |  Trevon BrazileDEN · PF/C · DEN@CHI  | $3,600  | 0.8  | 12.7  | **23.6**  |   | −0.1  | +26  | 75  |  
 Show all 92 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 5 games slate · 2026-11-22.
 ## **NBA Injury Report**
