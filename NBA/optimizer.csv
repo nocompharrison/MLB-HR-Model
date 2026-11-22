@@ -1,34 +1,34 @@
 0,PLAYER,SALARY,PROJ,POS,PG,SG,SF,PF,PG/SG,SG/SF,SF/PF,PF/C,C,Team,,,,,Total,,Max,Min,,All (Exclude?),Count,,Locks?,Skip Google Sheet,Today's Schedule
-1,Nikola Jokic,11900,59,C,,46165,,,,,,,1,DEN,,Salary,Score,Players,PG,1,2,2,,ATL,0,,,,Detroit Pistons vs Atlanta Hawks 3:30p
-0,Jayson Tatum,9700,0,PF/SF,,,,,,,0,,,BOS,,59900,334.33000000000004,24442,SG,46166,2,2,,BKN,0,,,,Oklahoma City Thunder vs Miami Heat 6:00p
-0,Cooper Flagg,9900,47.53,SF/PF,,,,,,,0,,,DAL,,,,,SF,1,2,2,,BOS,0,4,,,Denver Nuggets vs Chicago Bulls 7:00p
-1,Franz Wagner,9900,47.04,SF/PF,,,,,,,1,,,ORL,,60000,,9,PF,0,2,2,,CHA,0,3,,,Dallas Mavericks vs Utah Jazz 7:00p
-0,Bam Adebayo,8100,42.12,C,,,,,,,,,0,MIA,,,,,C,2,1,1,,CHI,0,46169,,,Orlando Magic vs Washington Wizards 7:00p
-1,Karl-Anthony Towns,9300,0,C,,,,,,,,,1,NY,,,,,PG/SG,2,4,2,,CLE,0,46168,,,Indiana Pacers vs New York Knicks 8:00p
-0,Anthony Davis,10000,44,PF/C,,,,,,,,0,,WAS,,,,,SG/SF,46167,4,1,,DAL,1,2,,,Boston Celtics vs Golden State Warriors 8:30p
-1,Desmond Bane,6200,34.72,SG,,1,,,,,,,,ORL,,,,,SF/PF,3,4,1,,DEN,1,2,,,
-0,Keyonte George,7700,40.88,PG,0,,,,,,,,,UTA,,,,,PF/C,2,3,1,,DET,0,46168,,,
-0,Davion Mitchell,7200,36.04,PG,0,,,,,,,,,MIA,,,,,Total,46174,46168,,,GSW,0,2,,,
-0,Jalen Brunson,8200,41.82,PG,0,,,,,,,,,NY,Optimal Lineup - RotoBaller,Pos,Salary,Projection,11/21/26 6:39 PM,,,,,HOU,0,,,,
-0,Yaxel Lendeborg,8600,37.65,PF/SF,,,,,,,0,,,GSW,Jalen Brunson,PG,8100,42.12,,,,,,IND,0,,,,
-0,Josh Giddey,6900,36.39,PG,0,,,,,,,,,CHI,Ty Jerome,SG,6900,42.09,,,,,,LAC,0,,,,
-1,Ajay Mitchell,6100,39.92,SG/PG,,,,,1,,,,,OKC,Josh Hart,SF,4200,28.98,,,,,,LAL,0,,,,
-0,Pascal Siakam,7600,0,PF,,,,0,,,,,,IND,Zion Williamson,PF,7200,39.6,,,,,,MEM,0,,,,
-0,Anthony Black,7100,32.76,PG/SG,,,,,0,,,,,ORL,Victor Wembanyama,C,12700,59.41,,,,,,MIA,0,,,,
-1,Trae Young,7000,34.3,PG,1,,,,,,,,,WAS,LaMelo Ball,G/F,7500,40.5,,,,,,MIL,0,,,,
-0,Jamal Murray,8500,43.35,PG,0,,,,,,,,,DEN,Neemias Queta,F/C,5100,30.39,,,,,,MIN,0,,,,
-0,Kyrie Irving,7400,37.74,PG,0,,,,,,,,,DAL,Keldon Johnson,UTIL,4200,26.04,,,,,,NO,0,,,,
-0,Neemias Queta,5200,27.39,C,,,,,,,,,0,BOS,Daniel Gafford,UTIL,4000,25.2,,,,,,NY,2,,,,
-0,Aday Mara,6000,0,C,,,,,,,,,0,OKC,Total,,59900,334.33000000000004,,,,,,OKC,2,,,,
-0,Darryn Peterson,6700,32.4,SG,,0,,,,,,,,UTA,,,,,,,,,,ORL,2,,,,
+1,Nikola Jokic,11900,59,C,,46165,,,,,,,1,DEN,,Salary,Score,Players,PG,3,2,2,,ATL,0,,,,Detroit Pistons vs Atlanta Hawks 3:30p
+0,Jayson Tatum,9700,0,PF/SF,,,,,,,0,,,BOS,,60000,341.58000000000004,24442,SG,46165,2,2,,BKN,0,,,,Oklahoma City Thunder vs Miami Heat 6:00p
+0,Cooper Flagg,9900,47.53,SF/PF,,,,,,,0,,,DAL,,,,,SF,0,2,2,,BOS,0,2,,,Denver Nuggets vs Chicago Bulls 7:00p
+0,Franz Wagner,9900,47.04,SF/PF,,,,,,,0,,,ORL,,60000,,9,PF,1,2,2,,CHA,0,2,,,Dallas Mavericks vs Utah Jazz 7:00p
+0,Bam Adebayo,8100,42.12,C,,,,,,,,,0,MIA,,,,,C,1,1,1,,CHI,1,46171,,,Orlando Magic vs Washington Wizards 7:00p
+0,Karl-Anthony Towns,9300,0,C,,,,,,,,,0,NY,,,,,PG/SG,5,4,2,,CLE,0,46168,,,Indiana Pacers vs New York Knicks 8:00p
+0,Anthony Davis,10000,44,PF/C,,,,,,,,0,,WAS,,,,,SG/SF,46166,4,1,,DAL,1,1,,,Boston Celtics vs Golden State Warriors 8:30p
+0,Desmond Bane,6200,34.72,SG,,0,,,,,,,,ORL,,,,,SF/PF,2,4,1,,DEN,3,2,,,
+1,Keyonte George,7700,40.88,PG,1,,,,,,,,,UTA,,,,,PF/C,1,3,1,,DET,0,46168,,,
+0,Davion Mitchell,7200,36.04,PG,0,,,,,,,,,MIA,,,,,Total,46174,46170,,,GSW,0,2,,,
+0,Jalen Brunson,8200,41.82,PG,0,,,,,,,,,NY,Optimal Lineup - RotoBaller,Pos,Salary,Projection,11/22/26 5:41 PM,,,,,HOU,0,,,,
+0,Yaxel Lendeborg,8600,37.65,PF/SF,,,,,,,0,,,GSW,Jamal Murray,PG,8500,43.35,,,,,,IND,0,,,,
+0,Josh Giddey,6900,36.39,PG,0,,,,,,,,,CHI,Ajay Mitchell,SG,6100,39.92,,,,,,LAC,0,,,,
+1,Ajay Mitchell,6100,39.92,SG/PG,,,,,1,,,,,OKC,Jared McCain,SF,4700,31.61,,,,,,LAL,0,,,,
+0,Pascal Siakam,7600,0,PF,,,,0,,,,,,IND,Aaron Gordon,PF,4900,29.4,,,,,,MEM,0,,,,
+0,Anthony Black,7100,32.76,PG/SG,,,,,0,,,,,ORL,Nikola Jokic,C,11900,59,,,,,,MIA,0,,,,
+0,Trae Young,7000,34.3,PG,0,,,,,,,,,WAS,Keyonte George,G/F,7700,40.88,,,,,,MIL,0,,,,
+1,Jamal Murray,8500,43.35,PG,1,,,,,,,,,DEN,Josh Hart,F/C,4600,29.44,,,,,,MIN,0,,,,
+1,Kyrie Irving,7400,37.74,PG,1,,,,,,,,,DAL,Kyrie Irving,UTIL,7400,37.74,,,,,,NO,0,,,,
+0,Neemias Queta,5200,27.39,C,,,,,,,,,0,BOS,Tre Jones,UTIL,4200,30.24,,,,,,NY,1,,,,
+0,Aday Mara,6000,0,C,,,,,,,,,0,OKC,Total,,60000,341.58000000000004,,,,,,OKC,2,,,,
+0,Darryn Peterson,6700,32.4,SG,,0,,,,,,,,UTA,,,,,,,,,,ORL,0,,,,
 0,Isaiah Hartenstein,6400,32,C/PF,,,,,,,,0,,OKC,,,,,,,,,,PHI,0,,,,
 0,AJ Dybantsa,7200,33.42,SF/PF,,,,,,,0,,,WAS,,,,,,,,,,PHO,0,,,,
 1,Jared McCain,4700,31.61,SG/SF,,,,,,1,,,,OKC,,,,,,,,,,POR,0,,,,
 0,Payton Pritchard,5100,27.03,PG/SG,,,,,0,,,,,BOS,,,,,,,,,,SAC,0,,,,
 0,Andrew Nembhard,6100,29.21,SG/PG,,,,,0,,,,,IND,,,,,,,,,,SA,0,,,,
 0,Matas Buzelis,6000,29.51,SF/PF,,,,,,,0,,,CHI,,,,,,,,,,TOR,0,,,,
-0,Jalen Smith,5800,27.84,C,,,,,,,,,0,CHI,,,,,,,,,,UTA,0,,,,
-0,Brandin Podziemski,6300,27.65,SG/PG,,,,,0,,,,,GSW,,,,,,,,,,WAS,1,,,,
+0,Jalen Smith,5800,27.84,C,,,,,,,,,0,CHI,,,,,,,,,,UTA,1,,,,
+0,Brandin Podziemski,6300,27.65,SG/PG,,,,,0,,,,,GSW,,,,,,,,,,WAS,0,,,,
 0,Jalen Suggs,5600,28.3,PG,0,,,,,,,,,ORL,,,,,,,,,,,9,,,,
 0,Derrick White,5700,0,PG/SG,,,,,0,,,,,BOS,,,,,,,,,,,,,,,
 0,Wendell Carter,5500,27.06,C,,,,,,,,,0,ORL,,,,,,,,,,,,,,,
@@ -39,13 +39,13 @@
 0,Ace Bailey,5100,26.75,SF/SG,,,,,,0,,,,UTA,,,,,,,,,,,,,,,
 0,Bobby Portis,4100,24.53,C/PF,,,,,,,,0,,MIA,,,,,,,,,,,,,,,
 0,Kyshawn George,6500,31.11,SG/SF,,,,,,0,,,,WAS,Last Data Scrape: 11/22/2026 5:37:21 PM,,,,,,,,,,,,,,
-0,Aaron Gordon,4900,29.4,PF,,,,0,,,,,,DEN,,,,,,,,,,,,,,,
-0,Tre Jones,4200,30.24,PG/SG,,,,,0,,,,,CHI,,,,,,,,,,,,,,,
+1,Aaron Gordon,4900,29.4,PF,,,,1,,,,,,DEN,,,,,,,,,,,,,,,
+1,Tre Jones,4200,30.24,PG/SG,,,,,1,,,,,CHI,,,,,,,,,,,,,,,
 0,Klay Thompson,4300,22.79,SG,,0,,,,,,,,MIA,,,,,,,,,,,,,,,
 0,Andrew Wiggins,4200,23.1,SF,,,0,,,,,,,MIA,,,,,,,,,,,,,,,
 0,Daniel Gafford,4300,26.23,C,,,,,,,,,0,DAL,,,,,,,,,,,,,,,
 1,Josh Hart,4600,29.44,SF/PF,,,,,,,1,,,NY,,,,,,,,,,,,,,,
-1,Naji Marshall,4700,22.09,SF,,,1,,,,,,,DAL,,,,,,,,,,,,,,,
+0,Naji Marshall,4700,22.09,SF,,,0,,,,,,,DAL,,,,,,,,,,,,,,,
 0,Kenrich Williams,4000,22.8,SF/PF,,,,,,,0,,,OKC,,,,,,,,,,,,,,,
 0,Mo Bamba,4700,28.2,C,,,,,,,,,0,UTA,,,,,,,,,,,,,,,
 0,Alex Sarr,5800,23.89,C/PF,,,,,,,,0,,WAS,,,,,,,,,,,,,,,
