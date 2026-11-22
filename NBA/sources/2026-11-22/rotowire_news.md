@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 16:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,36 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)[Available to play Sunday](https://www.rotowire.com/basketball/headlines/myron-gardner-news-available-to-play-sunday-540526)
+**F** Miami Heat
+November 22, 2026
+Gardner (hamstring) is available for Sunday's game against Oklahoma City, [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2124612995687043297?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
+[Clint Capela](https://www.rotowire.com/basketball/player/clint-capela-3587)[Off injury report](https://www.rotowire.com/basketball/headlines/clint-capela-news-off-injury-report-540525)
+**C** Houston Rockets
+November 22, 2026
+Capela (ankle) isn't listed on the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_15PM.pdf) for Monday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![TOR](https://assets.rotowire.com/images/teamlogo/basketball/100TOR.png?v=10)
+[Collin Murray-Boyles](https://www.rotowire.com/basketball/player/collin-murray-boyles-6585)[Expected to play Monday](https://www.rotowire.com/basketball/headlines/collin-murray-boyles-injury-expected-to-play-monday-540524)
+**F** Toronto Raptors
+Concussion
+November 22, 2026
+Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, [Blake Murphy of Sportsnet.ca](https://x.com/BlakeMurphyODC/status/2124610926833738234?a=Khvo0wqh6VOp0y76VvE&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
+[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)[Probable for Monday](https://www.rotowire.com/basketball/headlines/trey-murphy-injury-probable-for-monday-540522)
+**F** New Orleans Pelicans
+Knee
+November 22, 2026
+Murphy (knees) is [listed as probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_03_45PM.pdf) for Monday's game against the Suns.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![BOS](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
 [Derrick White](https://www.rotowire.com/basketball/player/derrick-white-4195)[Off injury report Sunday](https://www.rotowire.com/basketball/headlines/derrick-white-news-off-injury-report-sunday-540521)
 **G** Boston Celtics
@@ -170,36 +200,6 @@ Carrington (illness) has been downgraded to [questionable](https://ak-static.cms
 Calf
 November 22, 2026
 Anunoby (calf) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_01_00PM.pdf) Sunday against the Pacers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Questionable for Sunday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-questionable-for-sunday-540482)
-**C** New York Knicks
-Illness
-November 22, 2026
-Towns (illness) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_01_00PM.pdf) to play in Sunday's game against the Pacers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jordan Clarkson](https://www.rotowire.com/basketball/player/jordan-clarkson-3614)[Won't play Sunday](https://www.rotowire.com/basketball/headlines/jordan-clarkson-injury-wont-play-sunday-540480)
-**G** New York Knicks
-Foot
-November 22, 2026
-Clarkson (foot) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_01_00PM.pdf) for Sunday's game against Indiana.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Pacome Dadiet](https://www.rotowire.com/basketball/player/pacome-dadiet-6281)[Plays season-high 11 minutes Saturday](https://www.rotowire.com/basketball/headlines/pacome-dadiet-news-plays-season-high-11-minutes-saturday-540478)
-**F** New York Knicks
-November 22, 2026
-Dadiet supplied five points (2-3 FG, 1-1 3Pt), two assists and one steal across 11 minutes during Saturday's 97-96 victory over the Trail Blazers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[James Wiseman](https://www.rotowire.com/basketball/player/james-wiseman-5100)[Productive off bench Saturday](https://www.rotowire.com/basketball/headlines/james-wiseman-news-productive-off-bench-saturday-540476)
-**C** New York Knicks
-November 22, 2026
-Wiseman amassed five points (2-3 FG, 1-2 FT), six rebounds, two assists and three blocks across 25 minutes during Saturday's 97-96 win over the Trail Blazers.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
