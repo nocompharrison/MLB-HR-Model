@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 17:12 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 18:07 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # Heat vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-18h
+19h
 Link
 ![Heat vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7264591fab328d13d45bb6827f1c6532473bbd75-3857x2170.jpg%3Frect%3D0%2C131%2C3857%2C1908%26w%3D964%26h%3D477&w=1920&q=100)
 ## Heat vs. Thunder Game Info
@@ -68,22 +68,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -103,7 +103,7 @@ START YOUR OWN WINNING STREAK
 # Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-14h
+15h
 Link
 ![Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9fa77d3fda9e5c866f45b33124f62f29ced9de74-6354x4236.jpg%3Frect%3D0%2C546%2C6354%2C3144%26w%3D964%26h%3D477&w=1920&q=100)
 ## Knicks vs. Pacers Game Info
@@ -156,22 +156,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -180,118 +180,721 @@ Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under 
 ---
 ## SOURCE: https://www.fanduel.com/research/nba-predictions-odds-11-22-2026
 
-![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
-[Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
+Title: NBA Predictions, Odds and Betting Lines - November 22
+
+URL Source: https://www.fanduel.com/research/nba-predictions-odds-11-22-2026
+
+Published Time: 2026-11-21T23:20:22Z
+
+Markdown Content:
+[FanDuel Research](https://www.fanduel.com/research)[Sportsbook](https://sportsbook.fanduel.com/)[Fantasy](https://www.fanduel.com/contests)[Casino](https://casino.fanduel.com/)[Racing](https://racing.fanduel.com/)[Free2Play](https://www.fanduel.com/free/hub)
+
+[![Image 1: Logo](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc8e986e90721bd1b9f283a76ac2c19d25ce745b3-105x30.svg&w=256&q=100)](https://www.fanduel.com/research/)
+
+[![Image 2: NFL icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa069bfa0ecd0625b6a556d1ba26df853987ebc40-16x16.svg&w=100&q=100)NFL](https://www.fanduel.com/research/nfl)
+
+Explore NFL
+
+*   [Home](https://www.fanduel.com/research/nfl)
+*   [News](https://www.fanduel.com/research/nfl/news)
+*   [Odds](https://sportsbook.fanduel.com/navigation/nfl)
+*   [Fantasy Football](https://www.fanduel.com/research/nfl/fantasy-football)
+*   [Fantasy Football Projections](https://www.fanduel.com/research/nfl/fantasy/dfs-projections)
+*   [Player News](https://www.fanduel.com/research/nfl/player-news)
+*   [NFL Picks](https://www.fanduel.com/research/nfl/picks)
+*   [Player Prop Bets](https://www.fanduel.com/research/nfl/best-prop-bets-today)
+*   [Scores/Schedule](https://www.fanduel.com/research/nfl/scores)
+*   [Daily Fantasy](https://www.fanduel.com/contests/nfl)
+*   [Teams](https://sportsbook.fanduel.com/teams/nfl/teams)
+*   [Rankings](https://www.fanduel.com/fantasy/nfl/rankings)
+*   [Game Updates](https://www.fanduel.com/research/nfl/player-news/game-updates)
+*   [Injuries](https://www.fanduel.com/research/nfl/player-news/injuries)
+*   [Transactions](https://www.fanduel.com/research/nfl/player-news/transactions)
+*   [Lineups](https://www.fanduel.com/research/nfl/player-news/lineups)
+*   [DFS Picks](https://www.fanduel.com/research/nfl/dfs-picks)
+*   [Fantasy Football Predictions](https://www.fanduel.com/research/nfl/fantasy-football-projections)
+*   [NFL Predictions](https://www.fanduel.com/research/nfl/predictions)
+*   [NFL Draft](https://www.fanduel.com/research/nfl/nfl-draft)
+*   [How to Bet on the NFL](https://www.fanduel.com/sports-betting-guide/how-to-bet-on-nfl)
+
+[![Image 3: NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA](https://www.fanduel.com/research/nba)
+
+Explore NBA
+
+*   [Home](https://www.fanduel.com/research/nba)
+*   [News](https://www.fanduel.com/research/nba/news)
+*   [Teams](https://sportsbook.fanduel.com/teams/nba/teams)
+*   [Odds](https://sportsbook.fanduel.com/navigation/nba)
+*   [Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)
+*   [NBA DFS](https://www.fanduel.com/contests/nba)
+*   [![Image 4: Projections icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd37cbf9686e5bcafc9d2592bf7db20e4ddd7432-800x800.svg&w=100&q=100)Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)
+*   [Player News](https://www.fanduel.com/research/nba/player-news)
+*   [Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)
+*   [Injuries](https://www.fanduel.com/research/nba/player-news/injuries)
+*   [Lineups](https://www.fanduel.com/research/nba/player-news/lineups)
+*   [Transactions](https://www.fanduel.com/research/nba/player-news/transactions)
+*   [NBA Predictions](https://www.fanduel.com/research/nba/predictions)
+*   [Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions)
+
+[![Image 5: NCAAF icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fcc02f7f279882dc06f1fd902dd3a77a344e20f64-16x16.svg&w=100&q=100)NCAAF](https://fanduel.com/research/ncaaf)
+
+Explore NCAAF
+
+*   [Home](https://fanduel.com/research/ncaaf)
+*   [News](https://fanduel.com/research/ncaaf/news)
+*   [Odds](https://sportsbook.fanduel.com/navigation/ncaaf)
+*   [College Football Picks](https://fanduel.com/research/ncaaf/news)
+*   [College Football Predictions](https://www.fanduel.com/research/ncaaf/predictions)
+*   [National Championship Odds](https://sportsbook.fanduel.com/navigation/ncaaf?tab=national-championship)
+*   [Heisman Odds](https://sportsbook.fanduel.com/navigation/ncaaf?tab=heisman)
+*   [Fantasy College Football](https://www.fanduel.com/contests/cfb)
+*   [How to Bet on CFB](https://www.fanduel.com/sports-betting-guide/how-to-bet-on-college-football)
+
+[![Image 6: NHL icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4566ff77ec9db49428f58a78f5b78320df5b2fd2-16x16.svg&w=100&q=100)NHL](https://www.fanduel.com/research/nhl)
+
+Explore NHL
+
+*   [Home](https://www.fanduel.com/research/nhl)
+*   [News](https://www.fanduel.com/research/nhl/news)
+*   [Odds](https://sportsbook.fanduel.com/navigation/nhl)
+*   [Fantasy](https://www.fanduel.com/contests/nhl)
+*   [Projections](https://www.fanduel.com/research/nhl/fantasy/dfs-projections)
+*   [NHL Predictions](https://www.fanduel.com/research/nhl/predictions)
+*   [Player Prop Bets](https://www.fanduel.com/research/nhl/best-prop-bets-today)
+*   [Player News](https://www.fanduel.com/research/nhl/player-news)
+*   [Game Updates](https://www.fanduel.com/research/nhl/player-news/game-updates)
+*   [Injuries](https://www.fanduel.com/research/nhl/player-news/injuries)
+*   [Lineups](https://www.fanduel.com/research/nhl/player-news/lineups)
+*   [Transactions](https://www.fanduel.com/research/nhl/player-news/transactions)
+
+[![Image 7: MLB icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0a08a27ef1fd102c0ebad9e8857a610c47b1320f-16x17.svg&w=100&q=100)MLB](https://www.fanduel.com/research/mlb)
+
+Explore MLB
+
+*   [Home](https://www.fanduel.com/research/mlb)
+*   [MLB Betting Advice](https://www.fanduel.com/research/mlb/news)
+*   [Player Prop Bets](https://www.fanduel.com/research/mlb/best-prop-bets-today)
+*   [MLB Predictions](https://www.fanduel.com/research/mlb/predictions)
+*   [MLB Odds](https://sportsbook.fanduel.com/navigation/mlb)
+*   [Player News](https://www.fanduel.com/research/mlb/player-news)
+*   [DFS Projections](https://www.fanduel.com/research/mlb/fantasy/dfs-projections/batters)
+*   [Daily Fantasy](https://www.fanduel.com/contests/mlb)
+*   [Teams](https://sportsbook.fanduel.com/teams/mlb/teams)
+*   [Game Updates](https://www.fanduel.com/research/mlb/player-news/game-updates)
+*   [Injuries](https://www.fanduel.com/research/mlb/player-news/injuries)
+*   [Lineups](https://www.fanduel.com/research/mlb/player-news/lineups)
+*   [Transactions](https://www.fanduel.com/research/mlb/player-news/transactions)
+*   [World Series](https://www.fanduel.com/research/mlb/world-series-odds-picks-predictions)
+
+[![Image 8: FanDuel Promos icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F688006ab926bd037ed68e90b283fbc751779f6d3-20x20.svg&w=100&q=100)FanDuel Promos](https://www.fanduel.com/research/fanduel-sportsbook-promo-codes)
+
+Explore FanDuel Promos
+
+*   [FanDuel Sportsbook Promos](https://sportsbook.fanduel.com/promotions)
+*   [FanDuel Sportsbook Welcome Offer](https://sportsbook.fanduel.com/promotions)
+
+[![Image 9: Email Sign-Up icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbb432338dc019a5b340dcd4e6b32304461204979-18x17.svg&w=100&q=100)Email Sign-Up](https://www.fanduel.com/research/newsletter-signup)
+
+Explore Email Sign-Up
+
+*   [![Image 10: Sign up for the FanDuel Research daily email newsletter! icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7033eb2883d22c04b94a355c8bbbfefdb9e2afad-272x94.png&w=100&q=100)Sign up for the FanDuel Research daily email newsletter!](https://www.fanduel.com/research/newsletter-signup)
+
+More
+
+More
+
+*   [![Image 11: Horse Racing icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc147e7f3b7b4fedf0818f8bcd88f4e1be013670e-16x16.svg&w=100&q=100)Horse Racing](https://www.fanduel.com/research/horse-racing)
+*   [![Image 12: NCAAB icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB](https://fanduel.com/research/ncaab)
+*   [![Image 13: Soccer icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7dd539f495a7e02df1d876060b973d8a08ebf2ca-16x16.svg&w=100&q=100)Soccer](https://www.fanduel.com/research/soccer)
+*   [![Image 14: WNBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F833939938473d0fad0e0e0a06779dbfc986f8fde-25x24.svg&w=100&q=100)WNBA](https://www.fanduel.com/research/wnba)
+*   [![Image 15: F1 icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F06dc95bb1e2f6c29d9c9f8be7418325edd448dec-16x15.svg&w=100&q=100)NASCAR](https://www.fanduel.com/research/nascar)
+*   [![Image 16: MMA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdc4e26e254ceaf47e7cbcf9126b2edbcf717f512-16x16.svg&w=100&q=100)UFC](https://www.fanduel.com/research/ufc)
+*   [![Image 17: Golf icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F88f6a22891a4f2cd5ad1cbf673da2dcda3732ffc-16x17.svg&w=100&q=100)Golf](https://www.fanduel.com/research/pga)
+*   [![Image 18: Tennis icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd859eb3ff31df350a48b8cfb91c2ebcffc789701-17x17.svg&w=100&q=100)Tennis](https://www.fanduel.com/research/tennis)
+*   [![Image 19: MMA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdc4e26e254ceaf47e7cbcf9126b2edbcf717f512-16x16.svg&w=100&q=100)MMA](https://www.fanduel.com/research/mma)
+*   [![Image 20: F1 icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F06dc95bb1e2f6c29d9c9f8be7418325edd448dec-16x15.svg&w=100&q=100)F1](https://www.fanduel.com/research/f1)
+*   [![Image 21: Boxing icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbf2a41cd360cab07861295459b78adf9d2cc2772-14x16.svg&w=100&q=100)Boxing](https://www.fanduel.com/research/boxing)
+*   [![Image 22: Casino icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd16b5afbebb4d2a620e3be364d885330956912f-17x17.svg&w=100&q=100)Casino](https://www.fanduel.com/research/casino)
+*   [![Image 23: Canada icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffa6c559f40eec39c15081965a05f4f3a73d3523a-400x400.jpg&w=100&q=100)Canada](https://www.fanduel.com/research/canada)
+*   [![Image 24: Sports Betting 101 icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0e128bf71a553d180c9d3a9f6c75aa2f083eae58-835x835.svg&w=100&q=100)Sports Betting 101](https://www.fanduel.com/research/sports-betting-101)
+*   [![Image 25: TV & Podcasts icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe86b766c156a94680f0da91ae6709a5be281ed58-16x16.svg&w=100&q=100)TV & Podcasts](https://www.fanduel.com/research/tv-and-podcast)
+
+[![Image 26: Logo](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc8e986e90721bd1b9f283a76ac2c19d25ce745b3-105x30.svg&w=256&q=100)](https://www.fanduel.com/research/)
+
+*   ![Image 27: NFL icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fa069bfa0ecd0625b6a556d1ba26df853987ebc40-16x16.svg&w=100&q=100)NFL  
+    *   [Home](https://www.fanduel.com/research/nfl)
+    *   [News](https://www.fanduel.com/research/nfl/news)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/nfl)
+    *   [Fantasy Football](https://www.fanduel.com/research/nfl/fantasy-football)
+    *   [Fantasy Football Projections](https://www.fanduel.com/research/nfl/fantasy/dfs-projections)
+    *   [Player News](https://www.fanduel.com/research/nfl/player-news)
+    *   [Player Prop Bets](https://www.fanduel.com/research/nfl/best-prop-bets-today)
+    *   [NFL Picks](https://www.fanduel.com/research/nfl/picks)
+    *   [Scores/Schedule](https://www.fanduel.com/research/nfl/scores)
+    *   [Daily Fantasy](https://www.fanduel.com/contests/nfl)
+    *   [Teams](https://sportsbook.fanduel.com/teams/nfl/teams)
+    *   [Rankings](https://fanduel.com/fantasy/nfl/rankings)
+    *   [Game Updates](https://www.fanduel.com/research/nfl/player-news/game-updates)
+    *   [Injuries](https://www.fanduel.com/research/nfl/player-news/injuries)
+    *   [Transactions](https://www.fanduel.com/research/nfl/player-news/transactions)
+    *   [Lineups](https://www.fanduel.com/research/nfl/player-news/lineups)
+    *   [Fantasy Football Predictions](https://www.fanduel.com/research/nfl/fantasy-football-projections)
+    *   [DFS Picks](https://www.fanduel.com/research/nfl/dfs-picks)
+    *   [NFL Predictions](https://www.fanduel.com/research/nfl/predictions)
+    *   [Super Bowl](https://www.fanduel.com/research/nfl/super-bowl-2026-predictions-odds)
+    *   [NFL Draft](https://www.fanduel.com/research/nfl/nfl-draft)
+    *   [How to Bet on NFL](https://www.fanduel.com/sports-betting-guide/how-to-bet-on-nfl)
+
+*   ![Image 28: NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA  
+    *   [Home](https://www.fanduel.com/research/nba)
+    *   [News](https://www.fanduel.com/research/nba/news)
+    *   [Teams](https://sportsbook.fanduel.com/teams/nba/teams)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/nba)
+    *   [Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)
+    *   [NBA DFS](https://www.fanduel.com/contests/nba)
+    *   [Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)
+    *   [Player News](https://www.fanduel.com/research/nba/player-news)
+    *   [Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)
+    *   [Injuries](https://www.fanduel.com/research/nba/player-news/injuries)
+    *   [Lineups](https://www.fanduel.com/research/nba/player-news/lineups)
+    *   [Transactions](https://www.fanduel.com/research/nba/player-news/transactions)
+    *   [Predictions](http://www.fanduel.com/research/nba/predictions)
+    *   [Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions)
+
+*   ![Image 29: NCAAF icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4159595107263658b591fe45d40e716a68cec367-16x16.svg&w=100&q=100)NCAAF  
+    *   [Home](https://www.fanduel.com/research/ncaaf)
+    *   [News](https://fanduel.com/research/ncaaf/news)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/ncaaf)
+    *   [College Football Picks](https://www.fanduel.com/research/ncaaf/college-football-picks)
+    *   [College Football Predictions](https://www.fanduel.com/research/ncaaf/predictions)
+    *   [National Championship Odds](https://sportsbook.fanduel.com/navigation/ncaaf?tab=national-championship)
+    *   [Heisman Odds](https://sportsbook.fanduel.com/navigation/ncaaf?tab=heisman)
+    *   [Fantasy College Football](https://www.fanduel.com/contests/cfb)
+    *   [How to Bet on CFB](https://www.fanduel.com/sports-betting-guide/how-to-bet-on-college-football)
+
+*   ![Image 30: NHL icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4566ff77ec9db49428f58a78f5b78320df5b2fd2-16x16.svg&w=100&q=100)NHL  
+    *   [Home](https://www.fanduel.com/research/nhl)
+    *   [News](https://www.fanduel.com/research/nhl/news)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/nhl)
+    *   [Fantasy](https://www.fanduel.com/contests/nhl)
+    *   [Projections](https://fanduel.com/research/nhl/fantasy/dfs-projections)
+    *   [NHL Predictions](https://www.fanduel.com/research/nhl/predictions)
+    *   [Player Prop Bets](https://www.fanduel.com/research/nhl/best-prop-bets-today)
+    *   [Player News](https://www.fanduel.com/research/nhl/player-news)
+    *   [Game Updates](https://www.fanduel.com/research/nhl/player-news/game-updates)
+    *   [Injuries](https://www.fanduel.com/research/nhl/player-news/injuries)
+    *   [Lineups](https://www.fanduel.com/research/nhl/player-news/lineups)
+    *   [Transactions](https://www.fanduel.com/research/nhl/player-news/transactions)
+
+*   ![Image 31: NCAAB icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB  
+    *   [Home](https://www.fanduel.com/research/ncaab)
+    *   [March Madness](https://www.fanduel.com/research/ncaab/march-madness-odds-picks-predictions)
+    *   [News](https://www.fanduel.com/research/ncaab/news)
+    *   [Teams](https://www.numberfire.com/ncaab/teams)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/ncaab)
+    *   [Fantasy](https://www.fanduel.com/contests/ncaab)
+    *   [NCAAB Predictions](https://www.fanduel.com/research/ncaab/predictions)
+
+*   ![Image 32: MLB icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0a08a27ef1fd102c0ebad9e8857a610c47b1320f-16x17.svg&w=100&q=100)MLB  
+    *   [Home](https://www.fanduel.com/research/mlb)
+    *   [MLB Betting Advice](https://www.fanduel.com/research/mlb/news)
+    *   [Player Prop Bets](https://www.fanduel.com/research/mlb/best-prop-bets-today)
+    *   [MLB Predictions](https://www.fanduel.com/research/mlb/predictions)
+    *   [MLB Odds](https://sportsbook.fanduel.com/navigation/mlb)
+    *   [Player News](https://www.fanduel.com/research/mlb/player-news)
+    *   [Daily Fantasy](https://www.fanduel.com/contests/mlb)
+    *   [DFS Projections](https://www.fanduel.com/research/mlb/fantasy/dfs-projections/batters)
+    *   [Teams](https://sportsbook.fanduel.com/teams/mlb/teams)
+    *   [Game Updates](https://www.fanduel.com/research/mlb/player-news/game-updates)
+    *   [Injuries](https://www.fanduel.com/research/mlb/player-news/injuries)
+    *   [Lineups](https://www.fanduel.com/research/mlb/player-news/lineups)
+    *   [Transactions](https://www.fanduel.com/research/mlb/player-news/transactions)
+    *   [World Series](https://www.fanduel.com/research/mlb/world-series-odds-picks-predictions)
+
+*   ![Image 33: Horse Racing icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F938f6db7d4ba79902192d304056a5e8dab97e778-16x16.svg&w=100&q=100)Horse Racing  
+    *   [Home](https://www.fanduel.com/research/horse-racing)
+    *   [News](https://www.fanduel.com/research/horse-racing/news)
+    *   [Odds](https://racing.fanduel.com/)
+    *   [Upcoming Races](https://www.fanduel.com/research/horse-racing/picks)
+    *   [Track List](https://www.fanduel.com/research/horse-racing/tracks)
+    *   [Consensus Picks](https://www.fanduel.com/research/horse-racing/consensus-picks-tool)
+    *   [Belmont Stakes Odds](https://www.fanduel.com/belmont-stakes-odds)
+    *   [Belmont Stakes Betting](https://www.fanduel.com/belmont-stakes-betting)
+    *   [Breeders' Cup Betting](https://www.fanduel.com/breeders-cup-betting)
+    *   [Breeders' Cup Odds](https://www.fanduel.com/breeders-cup-odds)
+
+*   ![Image 34: Soccer icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7dd539f495a7e02df1d876060b973d8a08ebf2ca-16x16.svg&w=100&q=100)Soccer  
+    *   [Home](https://www.fanduel.com/research/soccer)
+    *   [News](https://www.fanduel.com/research/soccer/news)
+    *   [Odds](https://sportsbook.fanduel.com/soccer)
+    *   [Fantasy](https://www.fanduel.com/contests/soccer)
+    *   [Premier League Odds](https://sportsbook.fanduel.com/soccer/english-premier-league)
+    *   [World Cup Picks & Predictions](https://www.fanduel.com/research/soccer/world-cup)
+
+*   ![Image 35: NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)WNBA  
+    *   [Home](https://www.fanduel.com/research/wnba)
+    *   [News](https://www.fanduel.com/research/wnba/news)
+    *   [Odds](https://sportsbook.fanduel.com/navigation/wnba)
+    *   [WNBA Predictions](https://www.fanduel.com/research/wnba/predictions)
+
+*   ![Image 36: Golf icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F88f6a22891a4f2cd5ad1cbf673da2dcda3732ffc-16x17.svg&w=100&q=100)Golf  
+    *   [Home](https://www.fanduel.com/research/pga)
+    *   [News](https://www.fanduel.com/research/pga/news)
+    *   [Golfers](https://www.numberfire.com/golf/players)
+    *   [Odds](https://sportsbook.fanduel.com/golf)
+    *   [Fantasy](https://www.fanduel.com/contests/pga/)
+    *   [Projections](https://www.fanduel.com/research/pga/fantasy/daily-golf-projections)
+
+*   ![Image 37: Tennis icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd859eb3ff31df350a48b8cfb91c2ebcffc789701-17x17.svg&w=100&q=100)Tennis  
+    *   [Home](https://www.fanduel.com/research/tennis)
+    *   [News](https://www.fanduel.com/research/tennis/news)
+    *   [Odds](https://sportsbook.fanduel.com/tennis)
+    *   [Australian Open](https://sportsbook.fanduel.com/navigation/australian-open)
+
+*   ![Image 38: F1 icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F06dc95bb1e2f6c29d9c9f8be7418325edd448dec-16x15.svg&w=100&q=100)NASCAR  
+    *   [Home](https://www.fanduel.com/research/nascar)
+    *   [News](https://www.fanduel.com/research/nascar/news)
+    *   [Odds](https://sportsbook.fanduel.com/motorsport)
+
+*   ![Image 39: MMA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdc4e26e254ceaf47e7cbcf9126b2edbcf717f512-16x16.svg&w=100&q=100)UFC  
+    *   [Home](https://www.fanduel.com/research/ufc)
+    *   [News](https://www.fanduel.com/research/ufc/news)
+    *   [Odds](https://sportsbook.fanduel.com/mma)
+
+*   ![Image 40: Boxing icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbf2a41cd360cab07861295459b78adf9d2cc2772-14x16.svg&w=100&q=100)Boxing  
+    *   [News](https://www.fanduel.com/research/boxing/news)
+    *   [Odds](https://sportsbook.fanduel.com/boxing)
+    *   [Home](https://www.fanduel.com/research/boxing)
+
+*   ![Image 41: F1 icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F06dc95bb1e2f6c29d9c9f8be7418325edd448dec-16x15.svg&w=100&q=100)F1  
+    *   [Home](https://www.fanduel.com/research/f1)
+    *   [News](https://www.fanduel.com/research/f1/news)
+    *   [Odds](https://sportsbook.fanduel.com/motorsport?tab=formula-1)
+
+*   ![Image 42: Casino icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbd16b5afbebb4d2a620e3be364d885330956912f-17x17.svg&w=100&q=100)Casino  
+    *   [Home](https://www.fanduel.com/research/casino)
+    *   [News](https://www.fanduel.com/research/casino/news)
+    *   [Casino Games](https://casino.fanduel.com/)
+    *   [How To Play](https://www.fanduel.com/casino/how-to-play-online-casino-games)
+
+*   ![Image 43: MMA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fdc4e26e254ceaf47e7cbcf9126b2edbcf717f512-16x16.svg&w=100&q=100)MMA  
+    *   [Home](https://www.fanduel.com/research/mma)
+    *   [News](https://www.fanduel.com/research/mma/news)
+    *   [Odds](https://sportsbook.fanduel.com/mma)
+
+*   ![Image 44: Sports Betting 101 icon](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2Fimages%2FfallbackImage.png&w=100&q=100)Canada  
+    *   [FanDuel Canada](https://www.fanduel.com/research/canada)
+
+*   ![Image 45: FanDuel Sportsbook Promos  icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1da192d6f350f345079c56ce58365b1f6f14ebe4-16x16.svg&w=100&q=100)FanDuel Sportsbook Promos   
+    *   [Codes](https://www.fanduel.com/research/fanduel-sportsbook-promo-codes)
+
+*   ![Image 46: TV & Podcasts icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe86b766c156a94680f0da91ae6709a5be281ed58-16x16.svg&w=100&q=100)TV & Podcasts  
+    *   [TV & Podcasts](https://www.fanduel.com/research/tv-and-podcast)
+
+*   ![Image 47: Sports Betting 101 icon](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2Fimages%2FfallbackImage.png&w=100&q=100)Sports Betting 101  
+
+*   ![Image 48: Email Sign-Up icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F0437eb3ec427dd2fb8634859b5f086ec151519c1-18x17.svg&w=100&q=100)Email Sign-Up  
+
+![Image 49: NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA News
+[Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams)[Odds](https://sportsbook.fanduel.com/navigation/nba)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions)
 
 START YOUR OWN WINNING STREAK
-![Player Image](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9ea2cf5a2cf74c2d84114cfa340079163402773b-4006x2048.png%3Fw%3D200&w=330&q=100)
-![SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
-[ See Promos ChevronRight ](https://sportsbook.fanduel.com/promotions)
+
+![Image 50: Player Image](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9ea2cf5a2cf74c2d84114cfa340079163402773b-4006x2048.png%3Fw%3D200&w=330&q=100)
+
+![Image 51: SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
+
+[See Promos](https://sportsbook.fanduel.com/promotions)
+
+![Image 52: Chevrons Texture](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe0b0a425fa82026919c0e289dd2624c153536b20-485x66.png&w=1080&q=100)
+
+1.   [FanDuel Research](https://www.fanduel.com/research/)>
+2.   [NBA](https://www.fanduel.com/research/nba)>
+3.   NBA Predictions, Odds and Betting Lines - November 22
+
 [NBA](https://www.fanduel.com/research/nba)
 # NBA Predictions, Odds and Betting Lines - November 22
-![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
-[Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-23h
-Link
-![NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6f348ed531d6f5a14815f5862c2b7c789bf7dde3-6197x4132.jpg%3Frect%3D0%2C533%2C6197%2C3066%26w%3D964%26h%3D477&w=1920&q=100)
-The Detroit Pistons versus the Atlanta Hawks is one of many solid options on today's NBA slate.
-Ready to explore the betting info for today's NBA action? Let's analyze them together.
-### Atlanta Hawks vs. Detroit Pistons
-  * **Projected Favorite:** Pistons (54.67% win probability)
-  * **Spread:** Pistons (-1.5)
-  * **Total:** 223.5
-  * **Moneyline:** Pistons -126, Hawks +108
-  * **Time:** 3:30 PM ET
-  * **TV Channel:** WANF, Peachtree Sports Network, WMYD, DAZN-DET, Prime-ATL
 
+![Image 53: Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
+
+[Data Skrive](https://www.fanduel.com/research/author/data-skrive)
+
+23h
+
+Subscribe to our newsletter
+
+Subscribe
+
+- [x] 
+
+I confirm I am 21+ years of age 
+
+![Image 54: NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6f348ed531d6f5a14815f5862c2b7c789bf7dde3-6197x4132.jpg%3Frect%3D0%2C533%2C6197%2C3066%26w%3D964%26h%3D477&w=1920&q=100)
+
+The Detroit Pistons versus the Atlanta Hawks is one of many solid options on today's NBA slate.
+
+Ready to explore the betting info for today's NBA action? Let's analyze them together.
+
+### Atlanta Hawks vs. Detroit Pistons
+
+*   **Projected Favorite:** Pistons (54.67% win probability)
+*   **Spread:** Pistons (-1.5)
+*   **Total:** 223.5
+*   **Moneyline:** Pistons -126, Hawks +108
+*   **Time:** 3:30 PM ET
+*   **TV Channel:** WANF, Peachtree Sports Network, WMYD, DAZN-DET, Prime-ATL
 
 [Bet on Atlanta Hawks vs. Detroit Pistons with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### Miami Heat vs. Oklahoma City Thunder
-  * **Projected Favorite:** Thunder (55.39% win probability)
-  * **Spread:** Heat (-3.5)
-  * **Total:** 231.5
-  * **Moneyline:** Heat -172, Thunder +142
-  * **Time:** 6:00 PM ET
-  * **TV Channel:** WPLG, Local10+, KSBI, Thunder+
 
+### Miami Heat vs. Oklahoma City Thunder
+
+*   **Projected Favorite:** Thunder (55.39% win probability)
+*   **Spread:** Heat (-3.5)
+*   **Total:** 231.5
+*   **Moneyline:** Heat -172, Thunder +142
+*   **Time:** 6:00 PM ET
+*   **TV Channel:** WPLG, Local10+, KSBI, Thunder+
 
 [Bet on Miami Heat vs. Oklahoma City Thunder with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### Chicago Bulls vs. Denver Nuggets
-  * **Projected Favorite:** Nuggets (70.99% win probability)
-  * **Spread:** Nuggets (-10.5)
-  * **Total:** 236.5
-  * **Moneyline:** Nuggets -461, Bulls +360
-  * **Time:** 7:00 PM ET
-  * **TV Channel:** CHSN, CHSN App, ALT, ALT+
 
+### Chicago Bulls vs. Denver Nuggets
+
+*   **Projected Favorite:** Nuggets (70.99% win probability)
+*   **Spread:** Nuggets (-10.5)
+*   **Total:** 236.5
+*   **Moneyline:** Nuggets -461, Bulls +360
+*   **Time:** 7:00 PM ET
+*   **TV Channel:** CHSN, CHSN App, ALT, ALT+
 
 [Bet on Chicago Bulls vs. Denver Nuggets with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### Utah Jazz vs. Dallas Mavericks
-  * **Projected Favorite:** Jazz (60.58% win probability)
-  * **Spread:** Mavericks (-1.5)
-  * **Total:** 225.5
-  * **Moneyline:** Mavericks -134, Jazz +114
-  * **Time:** 7:00 PM ET
-  * **TV Channel:** KJZZ, Jazz+, KFAA, MavsTV
 
+### Utah Jazz vs. Dallas Mavericks
+
+*   **Projected Favorite:** Jazz (60.58% win probability)
+*   **Spread:** Mavericks (-1.5)
+*   **Total:** 225.5
+*   **Moneyline:** Mavericks -134, Jazz +114
+*   **Time:** 7:00 PM ET
+*   **TV Channel:** KJZZ, Jazz+, KFAA, MavsTV
 
 [Bet on Utah Jazz vs. Dallas Mavericks with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### Washington Wizards vs. Orlando Magic
-  * **Projected Favorite:** Magic (68.91% win probability)
-  * **Spread:** Magic (-4.5)
-  * **Total:** 219.5
-  * **Moneyline:** Magic -198, Wizards +166
-  * **Time:** 7:00 PM ET
-  * **TV Channel:** MNMT, Monumental+, WRDQ, DAZN-ORL
 
+### Washington Wizards vs. Orlando Magic
+
+*   **Projected Favorite:** Magic (68.91% win probability)
+*   **Spread:** Magic (-4.5)
+*   **Total:** 219.5
+*   **Moneyline:** Magic -198, Wizards +166
+*   **Time:** 7:00 PM ET
+*   **TV Channel:** MNMT, Monumental+, WRDQ, DAZN-ORL
 
 [Bet on Washington Wizards vs. Orlando Magic with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### New York Knicks vs. Indiana Pacers
-  * **Projected Favorite:** Knicks (82.41% win probability)
-  * **Spread:** Knicks (-7.5)
-  * **Total:** 213.5
-  * **Moneyline:** Knicks -290, Pacers +235
-  * **Time:** 8:00 PM ET
-  * **TV Channel:** MSG, DAZN-MSG, DAZN-IND
 
+### New York Knicks vs. Indiana Pacers
+
+*   **Projected Favorite:** Knicks (82.41% win probability)
+*   **Spread:** Knicks (-7.5)
+*   **Total:** 213.5
+*   **Moneyline:** Knicks -290, Pacers +235
+*   **Time:** 8:00 PM ET
+*   **TV Channel:** MSG, DAZN-MSG, DAZN-IND
 
 [Bet on New York Knicks vs. Indiana Pacers with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
-### Golden State Warriors vs. Boston Celtics
-  * **Projected Favorite:** Celtics (58.81% win probability)
-  * **Spread:** Celtics (-8.5)
-  * **Total:** 210.5
-  * **Moneyline:** Celtics -360, Warriors +290
-  * **Time:** 8:30 PM ET
-  * **TV Channel:** NBCS-BA, PCK-GSW, NBCS-BOS, PCK-BOS
 
+### Golden State Warriors vs. Boston Celtics
+
+*   **Projected Favorite:** Celtics (58.81% win probability)
+*   **Spread:** Celtics (-8.5)
+*   **Total:** 210.5
+*   **Moneyline:** Celtics -360, Warriors +290
+*   **Time:** 8:30 PM ET
+*   **TV Channel:** NBCS-BA, PCK-GSW, NBCS-BOS, PCK-BOS
 
 [Bet on Golden State Warriors vs. Boston Celtics with FanDuel Sportsbook.](https://sportsbook.fanduel.com/navigation/nba)
+
 _All NBA win probability predictions and picks are according to numberFire._
+
 For more NBA betting insights, check out [FanDuel Research's NBA home page](https://fanduel.com/research/nba).
-_Sign up for[FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr_consent=$%7BGDPR_CONSENT_78%7D&us_privacy=$%7BUS_PRIVACY%7D&force_transparent=true&url=https://www.fanduel.com/contests) today!_
+
+_Sign up for [FanDuel Sportsbook](https://servedby.flashtalking.com/click/8/307307;11218157;369307;211;0/?ft\_width=1&ft\_height=1&gdpr=${GDPR}&gdpr\_consent=${GDPR\_CONSENT\_78}&us\_privacy=${US\_PRIVACY}&url=46072759) and [FanDuel Daily Fantasy](https://servedby.flashtalking.com/click/8/270261;9559798;369307;211;0/?gdpr=$%7BGDPR%7D&gdpr\_consent=$%7BGDPR\_CONSENT\_78%7D&us\_privacy=$%7BUS\_PRIVACY%7D&force\_transparent=true&url=https://www.fanduel.com/contests) today!_
+
 Watch FanDuel TV's NBA show "Run It Back" with Lou Williams, Michelle Beadle, DeMarcus "Boogie" Cousins and Chandler Parsons weekdays at 10am ET on [FanDuel TV](https://www.fanduel.com/watch), the [Run It Back YouTube page](https://www.youtube.com/@RunItBackFDTV), or download the podcast here: [fanduel.com/research/tv-and-podcast](https://fanduel.com/research/tv-and-podcast).
-Link
+
+### Subscribe to our newsletter
+
+Want more stories like this?
+
+Sign up to our newsletter to receive the latest news.
+
+Subscribe
+
+- [x] 
+
+I confirm I am 21+ years of age 
+
+![Image 55: Newsletter Signup](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd34479175d292388a6afc16815185708ec0cc379-211x239.png&w=500&q=100)
+
+![Image 56: Newsletter Signup](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F81be23f1213fe1f1abcd32df8617b44c52ac80cd-281x239.png&w=640&q=100)
+
+### Recent Stories
+
+[NFL Predictions Today: 3 Best NFL Late Slate Props, Picks](https://www.fanduel.com/research/nfl-predictions-today-3-best-nfl-late-slate-props-picks-11-20-2026)
+
+4h
+
+![Image 57: NFL Predictions Today: 3 Best NFL Late Slate Props, Picks](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F1e70e515e091d3b12dfa87a7d680a331e26d008e-5268x2963.jpg%3Frect%3D252%2C0%2C4764%2C2583%26w%3D332%26h%3D180&w=330&q=100)
+
+[Jaguars vs Giants Prediction, Best NFL Player Props, Bets, Picks, & NFL Odds Today](https://www.fanduel.com/research/jaguars-vs-giants-prediction-best-nfl-player-props-bets-picks-and-nfl-odds-today)
+
+5h
+
+![Image 58: Jaguars vs Giants Prediction, Best NFL Player Props, Bets, Picks, & NFL Odds Today](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F84f81467e311d399b98a34a411387038718add6e-4434x2954.jpg%3Frect%3D0%2C69%2C4434%2C2404%26w%3D332%26h%3D180&w=330&q=100)
+
+[Raiders vs Broncos Prediction, NFL Player Props, Odds and 4 Best NFL Bets Today Nov 22](https://www.fanduel.com/research/raiders-vs-broncos-prediction-nfl-player-props-odds-and-4-best-nfl-bets-today-nov-22)
+
+5h
+
+![Image 59: Raiders vs Broncos Prediction, NFL Player Props, Odds and 4 Best NFL Bets Today Nov 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Ffd65b63f779e6d763ea36a84fddf09e8e9e1ec32-5796x3864.jpg%3Frect%3D0%2C361%2C5796%2C3142%26w%3D332%26h%3D180&w=330&q=100)
+
+[Jets vs Chargers Prediction, NFL Picks, 4 Best NFL Bets, Odds & Player Props Today](https://www.fanduel.com/research/jets-vs-chargers-prediction-nfl-picks-4-best-nfl-bets-odds-and-player-props-today)
+
+5h
+
+![Image 60: Jets vs Chargers Prediction, NFL Picks, 4 Best NFL Bets, Odds & Player Props Today](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F961e876d2fcf1bcde40ec76c840cf5cb27b3281a-5341x3560.jpg%3Frect%3D53%2C0%2C5236%2C2839%26w%3D332%26h%3D180&w=330&q=100)
+
+[Steelers vs Eagles Prediction, 4 Best NFL Bets, Picks, NFL Player Props & Odds Today](https://www.fanduel.com/research/steelers-vs-eagles-prediction-4-best-nfl-bets-picks-nfl-player-props-and-odds-today)
+
+5h
+
+![Image 61: Steelers vs Eagles Prediction, 4 Best NFL Bets, Picks, NFL Player Props & Odds Today](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F2db0e74884d9168bf0d8b435cdcf4714d5bde252-7544x5032.jpg%3Frect%3D221%2C0%2C7103%2C3851%26w%3D332%26h%3D180&w=330&q=100)
+
+[Buccaneers vs Lions Prediction, 4 Best NFL Bets, NFL Odds and Player Props Today Nov 22](https://www.fanduel.com/research/buccaneers-vs-lions-prediction-4-best-nfl-bets-nfl-odds-and-player-props-today-nov-22)
+
+5h
+
+![Image 62: Buccaneers vs Lions Prediction, 4 Best NFL Bets, NFL Odds and Player Props Today Nov 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F75c2db08a8111f086d1b041e5859f07a927b3338-3711x2474.jpg%3Frect%3D0%2C231%2C3711%2C2012%26w%3D332%26h%3D180&w=330&q=100)
+
+Show more news
+
+## Featured Promos
+
+[View All](https://sportsbook.fanduel.com/promotions)
+
+![Image 63: Faceoff Daily Reward Locker](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F4%2F16%2F2026-04-16_13-59-14_600x300.jpg&w=1920&q=100)
+
+[More Info](https://oh.sportsbook.fanduel.com/promotions?promoCode=FODLYRWDLKR1116)[Open Your Locker](https://fdfaceoff.onelink.me/Z1Od/npmg5bwt)
+
+![Image 64: NBA Parlay/SGP Profit Boost](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F11%2F4%2F2026-11-04_18-24-37_600x300.jpg&w=1920&q=100)
+
+[More Info](https://nc.sportsbook.fanduel.com/promotions?promoCode=LONBAPARPBT1122)[Log In](https://sportsbook.fanduel.com/login)
+
+![Image 65: Track Your Bets on Prime Video](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F10%2F23%2F2026-10-23_19-47-59_600x300.jpg&w=1920&q=100)
+
+[More Info](https://nj.sportsbook.fanduel.com/promotions?promoCode=NBAPRIMEST26)[Learn More](https://watch.amazon.com/settings?page=bettracking&ref_=fanduelingress)
+
+![Image 66: Check Your Stats With My Spend](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fd1m565i184w2i9.cloudfront.net%2Fcpp%2Ffd%2F2026%2F5%2F27%2F2026-05-27_14-29-33_600x300.jpg&w=1920&q=100)
+
+[More Info](https://va.sportsbook.fanduel.com/promotions?promoCode=VASBKRGMSCCSTAT)[Check My Stats](https://account.va.sportsbook.fanduel.com/my-spend)
+
 ## More Articles You May Like
+
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 10h
+
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
-[](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
+[![Image 67: Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe8abefcb4d1b7e6a5c191d9e9926ba5b4048e2d6-6000x4000.jpg%3Frect%3D0%2C516%2C6000%2C2969%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 14h
+
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
-[](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
+[![Image 68: Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F9fa77d3fda9e5c866f45b33124f62f29ced9de74-6354x4236.jpg%3Frect%3D0%2C546%2C6354%2C3144%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 14h
+
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
-[](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
+[![Image 69: Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F037f52f7c09d402142e1196d61fb3dd3264f6ad7-3500x2377.jpg%3Frect%3D0%2C323%2C3500%2C1732%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
 18h
+
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
-[](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
+[![Image 70: Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc178106af1256ad78214da5eb65e27ed0c30c332-4319x2880.jpg%3Frect%3D0%2C372%2C4319%2C2137%26w%3D964%26h%3D477&w=1920&q=100)](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
+
+*   ### ABOUT
+
+*   [Support](https://support.fanduel.com/)
+*   [About FanDuel](https://www.fanduel.com/about)
+*   [What's New on Sportsbook](https://www.fanduel.com/whats-new-nfl)
+*   [Betting Guides](https://www.fanduel.com/sports-betting-guide)
+*   [How It Works](https://www.fanduel.com/daily-fantasy-sports)
+*   [Rules & Scoring](https://www.fanduel.com/rules)
+*   [Responsible Play](https://www.fanduel.com/responsible-play)
+*   [Modern Slavery Statement](https://www.flutter.com/operating-responsibly/modern-slavery-statement)
+*   [Legal Sports Betting Map](https://www.fanduel.com/legal-sports-betting-us-map)
+*   [Affiliates](https://www.fanduel.com/)
+*   [Sitemap](https://www.fanduel.com/research/sitemap)
+
+*   ### SPORTSBOOK ODDS
+
+*   [NFL Odds](https://sportsbook.fanduel.com/navigation/nfl)
+*   [Super Bowl Odds](https://sportsbook.fanduel.com/navigation/nfl?tab=super-bowl)
+*   [NBA Odds](https://sportsbook.fanduel.com/navigation/nba)
+*   [MLB Odds](https://sportsbook.fanduel.com/navigation/mlb)
+*   [College Football Odds](https://sportsbook.fanduel.com/navigation/ncaaf)
+*   [College Basketball Odds](https://sportsbook.fanduel.com/navigation/ncaab)
+*   [March Madness Odds](https://sportsbook.fanduel.com/navigation/ncaab?tab=march-madness)
+*   [NHL Odds](https://sportsbook.fanduel.com/navigation/nhl)
+*   [Golf Odds](https://sportsbook.fanduel.com/golf)
+*   [The Masters Odds](https://sportsbook.fanduel.com/navigation/pga?tab=the-masters)
+*   [UFC Odds](https://sportsbook.fanduel.com/mma)
+*   [Soccer Odds](https://sportsbook.fanduel.com/soccer)
+*   [NASCAR Odds](https://sportsbook.fanduel.com/motorsport)
+*   [World Series Odds](https://sportsbook.fanduel.com/navigation/mlb?tab=world-series)
+*   [CFB Playoff National Championship Odds](https://sportsbook.fanduel.com/navigation/ncaaf?tab=national-championship)
+
+*   ### FANDUEL SPORTS BETTING STATES
+
+*   [FanDuel Sportsbook AR](https://www.fanduel.com/sportsbook-ar-oaklawn)
+*   [FanDuel Sportsbook AZ](https://www.fanduel.com/sportsbook-az)
+*   [FanDuel Sportsbook CA](https://www.fanduel.com/sportsbook-ca)
+*   [FanDuel Sportsbook CO](https://www.fanduel.com/sportsbook-co)
+*   [FanDuel Sportsbook CT](https://www.fanduel.com/sportsbook-ct)
+*   [FanDuel Sportsbook DC](https://www.fanduel.com/sportsbook-dc)
+*   [FanDuel Sportsbook IA](https://www.fanduel.com/sportsbook-ia)
+*   [FanDuel Sportsbook IL](https://www.fanduel.com/sportsbook-il)
+*   [FanDuel Sportsbook IN](https://www.fanduel.com/sportsbook-in)
+*   [FanDuel Sportsbook LA](https://www.fanduel.com/sportsbook-la)
+*   [FanDuel Sportsbook MA](https://www.fanduel.com/sportsbook-ma)
+*   [FanDuel Sportsbook MI](https://www.fanduel.com/sportsbook-mi)
+*   [FanDuel Sportsbook NC](https://www.fanduel.com/sportsbook-nc)
+*   [FanDuel Sportsbook NJ](https://sportsbook.fanduel.com/)
+*   [FanDuel Sportsbook NY](https://www.fanduel.com/sportsbook-ny)
+*   [FanDuel Sportsbook OH](https://www.fanduel.com/sportsbook-oh)
+*   [FanDuel Sportsbook PA](https://www.fanduel.com/sportsbook-pa)
+*   [FanDuel Sportsbook TN](https://www.fanduel.com/sportsbook-tn)
+*   [FanDuel Sportsbook VA](https://www.fanduel.com/sportsbook-va)
+*   [FanDuel Sportsbook VT](https://www.fanduel.com/sportsbook-vt)
+*   [FanDuel Sportsbook WV](https://www.fanduel.com/sportsbook-wv)
+
+*   ### FANDUEL NEWS
+
+*   [NFL](https://www.fanduel.com/research/nfl)
+*   [NBA](https://www.fanduel.com/research/nba)
+*   [College Basketball](https://www.fanduel.com/research/ncaab)
+*   [NHL](https://www.fanduel.com/research/nhl)
+*   [UFC](https://www.fanduel.com/research/ufc)
+*   [Soccer](https://www.fanduel.com/research/soccer)
+*   [Casino](https://www.fanduel.com/research/casino)
+
+*   ### FANDUEL GROUP PRODUCTS
+
+*   [FanDuel Sportsbook](https://sportsbook.fanduel.com/)
+*   [TVG](https://www.tvg.com/)
+*   [FanDuel Casino](https://casino.fanduel.com/)
+*   [FanDuel Racing](https://racing.fanduel.com/)
+*   [FanDuel Faceoff](https://www.fanduel.com/faceoff)
+*   [FanDuel Predicts](https://www.fanduel.com/predicts)
+
+*   ### FANTASY SPORTS
+
+*   [NFL](https://www.fanduel.com/fantasy-football)
+*   [NHL](https://www.fanduel.com/fantasy-hockey)
+*   [MLB](https://www.fanduel.com/fantasy-baseball)
+*   [Soccer](https://www.fanduel.com/soccer)
+*   [CFB](https://www.fanduel.com/college-football-training-guide)
+*   [Golf](https://www.fanduel.com/fantasy-golf)
+*   [Tennis](https://www.fanduel.com/tennis-guide)
+*   [NASCAR](https://www.fanduel.com/fantasy-nascar)
+*   [WNBA](https://www.fanduel.com/fantasy-wnba)
+*   [CBB](https://www.fanduel.com/college-basketball-training-guide)
+
+*   ### FANDUEL APPS
+
+*   [Fantasy (iOS)](https://itunes.apple.com/us/app/fanduel-fantasy-football/id599664106?mt=8)
+*   [Sportsbook & Fantasy (Android)](https://www.fanduel.com/android)
+*   [Sportsbook (iOS)](https://itunes.apple.com/us/app/fanduel-sportsbook/id1413721906?mt=8)
+*   [Sportsbook (Android)](https://www.fanduel.com/android)
+
+*   ### NFL SPORTSBOOK BETTING
+
+*   [2026 Best FanDuel Sportsbook Promos](https://www.fanduel.com/best-promo-code)
+*   [NFL Betting](https://sportsbook.fanduel.com/navigation/nfl)
+*   [NFL Picks](https://www.fanduel.com/research/nfl/picks)
+*   [2025 NFL Team Power Rankings](https://www.fanduel.com/sbk/nfl-power-rankings)
+*   [NFL Team Schedules & Odds](https://sportsbook.fanduel.com/teams/nfl/teams)
+
+*   ### FANDUEL CASINO
+
+*   [Online Slots](https://casino.fanduel.com/c/slots)
+*   [New Casino Games](https://casino.fanduel.com/c/new)
+*   [Blackjack Online](https://casino.fanduel.com/c/blackjack)
+*   [Live Dealer Casino](https://casino.fanduel.com/c/livecasino)
+*   [Online Roulette](https://casino.fanduel.com/c/roulette)
+*   [Online Table Games](https://casino.fanduel.com/c/table)
+*   [FanDuel Casino Promo Codes](https://casino.fanduel.com/promotions)
+
+*   ### FOLLOW FANDUEL
+
+*   [Facebook](https://facebook.com/fanduel)
+*   [Twitter](https://twitter.com/FanDuel)
+*   [Instagram](https://www.instagram.com/FanDuel/)
+*   [YouTube](https://www.youtube.com/channel/UCbPP6F-3ASqkBkT9Obro-TQ)
+*   [Snapchat](https://www.snapchat.com/add/fanduel)
+
+*   [Careers](https://www.fanduel.careers/)
+*   [Governance](https://www.fanduel.com/legal)
+*   [Trust & Safety](https://www.fanduel.com/trust)
+*   [Bill of Rights](https://www.fanduel.com/bill-of-rights)
+*   [Privacy Policy](https://www.fanduel.com/privacy)
+*   [California Privacy Rights](https://www.fanduel.com/privacy#privacy_section_9)
+*   [Terms of Use](https://www.fanduel.com/termsofuse)
+*   [Your Privacy Choices](https://privacy.fanduel.com/dont_sell)
+*   [Modern Slavery Statement](https://www.flutter.com/operating-responsibly/modern-slavery-statement)
+*   [Press & Media](https://www.fanduel.com/about/news)
+
+© Betfair Interactive US LLC, 2026
+
+Gambling Problem? Call![Image 71: One Eight Hundred G A M B L E R](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/06b870aaf8c5e6b4ea9b3db90527d34e9144ad34-87x10.png?fit=max&w=600&h=600)or![Image 72: One Eight Hundred My Reset](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/c09e98cd9ff32c26d08d935739e6339aef50a4a9-87x8.png). Call![Image 73: Eight Eight Eight Seven Eight Nine Seven Seven Seven Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/a60b10d5292d0694bca33412097898ceb46beaa2-81x10.png?fit=max&w=600&h=600)or visit[ccpg.org/chat](https://ccpg.org/chat)(CT). Hope is here.[GamblingHelpLineMA.org](https://gamblinghelplinema.org/)or call![Image 74: Eight Hundred Three Two Seven Five Zero Five Zero](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/b339733068af2b92ac9fc0a7fc726d0e207b686f-83x12.png?fit=max&w=600&h=600)for 24/7 support (MA). Visit[www.mdgamblinghelp.org](https://www.mdgamblinghelp.org/)(MD). Call![Image 75: Eight Seven Seven Eight H O P E N Y](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/f4f96326463e6e46e182b387887c45136c88111b-89x10.png?fit=max&w=1200&h=1200)or text HOPENY (467369) (NY). 21+ (18+ D.C., WY) and present in select states (for KS, in affiliation with Kansas Star Casino). Call![Image 76: One Eight Seven Seven Seven Seven Zero Seven Eight Six Seven](https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/3569e988fe6c9c6016f2025af80305ad425a0afd-81x8.png)(LA).
+
+Persons under 21 are not permitted to engage in sports wagering. For customer support please[contact us](https://sportsbook.fanduel.com/support).
+
+![Image 77: 21+](https://cdn.sanity.io/images/pbwem9y5/ch_production/2c809da4a713e60852d48e93967fbe9ffebafa23-48x48.svg)
+
+![Image 78: ACH](https://cdn.sanity.io/images/pbwem9y5/ch_production/90f92c6e9715404acd947b770e6c685300a89246-80x48.svg)
+
+![Image 79: ADG](https://cdn.sanity.io/images/pbwem9y5/ch_production/b371429b167187b22deaa5f6d92a13e588369645-352x46.svg)
+
+![Image 80: GameOn](https://cdn.sanity.io/images/pbwem9y5/ch_production/4af5da9d6f3dc7ed2f2b3983f543fe8d773cba3a-162x40.svg)
+
+![Image 81: Mastercard](https://cdn.sanity.io/images/pbwem9y5/ch_production/27c49e62deda03c3231c39df036d26f24b454279-80x48.svg)
+
+![Image 82: pay-near-me](https://cdn.sanity.io/images/pbwem9y5/ch_production/4b31d5b5788fa070dc45f41aa722da1065c36728-84x46.svg)
+
+![Image 83: Responsible_Gaming](https://cdn.sanity.io/images/pbwem9y5/ch_production/1f916614c98ab832b1843a0853bace4a1403c0cd-46x46.svg)
+
+![Image 84: Paypal](https://cdn.sanity.io/images/pbwem9y5/ch_production/d365026dc4b3329b90ae14b43a97661f3d8fb6b7-80x48.svg)
+
+![Image 85: sightline](https://cdn.sanity.io/images/pbwem9y5/ch_production/3733c1f0bf99e25c1978e8149c5c992d8eb358c0-156x46.svg)
+
+![Image 86: Venmo](https://cdn.sanity.io/images/pbwem9y5/ch_production/8d0691e76cac389a74ecc8fd9a455428ff91e07c-80x48.svg)
+
+![Image 87: Visa](https://cdn.sanity.io/images/pbwem9y5/ch_production/83e726365ab2a5dd51ef826824feeec24081abd7-74x44.svg)
+
+[Back to top](https://www.fanduel.com/research/nba-predictions-odds-11-22-2026#)
 
 
 
@@ -309,7 +912,7 @@ START YOUR OWN WINNING STREAK
 # Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-10h
+11h
 Link
 ![Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fe8abefcb4d1b7e6a5c191d9e9926ba5b4048e2d6-6000x4000.jpg%3Frect%3D0%2C516%2C6000%2C2969%26w%3D964%26h%3D477&w=1920&q=100)
 ## Warriors vs. Celtics Game Info
@@ -362,22 +965,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -397,7 +1000,7 @@ START YOUR OWN WINNING STREAK
 # Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-18h
+19h
 Link
 ![Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fc178106af1256ad78214da5eb65e27ed0c30c332-4319x2880.jpg%3Frect%3D0%2C372%2C4319%2C2137%26w%3D964%26h%3D477&w=1920&q=100)
 ## Bulls vs. Nuggets Game Info
@@ -450,22 +1053,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -485,7 +1088,7 @@ START YOUR OWN WINNING STREAK
 # Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-22h
+23h
 Link
 ![Hawks vs. Pistons Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F697da2aeaacfcce116a23125750fdb7bbbe0a4b1-5183x3452.jpg%3Frect%3D0%2C444%2C5183%2C2565%26w%3D964%26h%3D477&w=1920&q=100)
 ## Hawks vs. Pistons Game Info
@@ -538,22 +1141,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 
@@ -573,7 +1176,7 @@ START YOUR OWN WINNING STREAK
 # Wizards vs. Magic Prediction, Odds, Picks, Best Bets for Nov. 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-18h
+19h
 Link
 ![Wizards vs. Magic Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F4b9a2c7a16849bd9509bc1b1235bec20c9fef87b-4882x3255.jpg%3Frect%3D0%2C420%2C4882%2C2416%26w%3D964%26h%3D477&w=1920&q=100)
 ## Wizards vs. Magic Game Info
@@ -626,22 +1229,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [Warriors vs. Celtics Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-10h
+11h
 Find Warriors vs. Celtics predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/warriors-vs-celtics-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Knicks vs. Pacers Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Knicks vs. Pacers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/knicks-vs-pacers-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Jazz vs. Mavericks Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-14h
+15h
 Find Jazz vs. Mavericks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/jazz-vs-mavericks-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Nuggets Prediction, Odds, Picks, Best Bets for Nov. 22](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
-18h
+19h
 Find Bulls vs. Nuggets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 22 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-nuggets-prediction-nba-odds-spread-best-bets-for-11-22-2026)
 

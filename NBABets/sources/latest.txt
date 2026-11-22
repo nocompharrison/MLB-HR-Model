@@ -1,8 +1,8 @@
-# NBA betting sources | Sun 11/22/2026 | updated 2026-11-22 17:12 ET
+# NBA betting sources | Sun 11/22/2026 | updated 2026-11-22 18:07 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-22/covers_top_picks.md       no changes since 2026-11-22 16:10  https://www.covers.com/nba/top-picks-nov-22-2026
-OK      NBABets/sources/2026-11-22/covers_ats_picks.md       no changes since 2026-11-22 16:10  https://www.covers.com/nba/against-the-spread-predictions-picks-nov-22-2026
-OK      NBABets/sources/2026-11-22/rotowire_bets.md          UPDATED (changed since 2026-11-22 16:37) 23,932 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652
-OK      NBABets/sources/2026-11-22/fanduel_research_bets.md  UPDATED (changed since 2026-11-22 16:37) 57,390 chars [7 of 7 articles combined] https://www.fanduel.com/research/nba
-OK      NBABets/sources/2026-11-22/bettingpros_bets.md       UPDATED (changed since 2026-11-22 16:10) 62,370 chars (via Jina) [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-sunday-11-22/
+OK      NBABets/sources/2026-11-22/covers_top_picks.md       UPDATED (changed since 2026-11-22 16:10) 22,149 chars https://www.covers.com/nba/top-picks-nov-22-2026
+OK      NBABets/sources/2026-11-22/covers_ats_picks.md       UPDATED (changed since 2026-11-22 16:10) 23,889 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-22-2026
+OK      NBABets/sources/2026-11-22/rotowire_bets.md          UPDATED (changed since 2026-11-22 17:12) 23,934 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652
+OK      NBABets/sources/2026-11-22/fanduel_research_bets.md  UPDATED (changed since 2026-11-22 17:12) 100,676 chars [7 of 7 articles combined] https://www.fanduel.com/research/nba
+OK      NBABets/sources/2026-11-22/bettingpros_bets.md       no changes since 2026-11-22 17:12  https://www.bettingpros.com/articles/nba-picks-predictions-sunday-11-22/
