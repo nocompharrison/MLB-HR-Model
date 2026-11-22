@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-22 | updated 2026-11-22 16:10 ET
+# NBABets transcripts | 2026-11-22 | updated 2026-11-22 16:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 0 files in NBABets/transcripts/2026-11-22:
 
@@ -16,5 +16,5 @@ NONE    channel CemirGamble: nothing new in the date window (or everything alrea
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
 UPCOMING ActionNetwork RfcPXZZYYYc Top NBA Sides, Totals & Player Props for Monday! | Buckets P  (not aired yet - scheduled for 11/23/26 12:00AM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine bvV_fDGNRM0 Monday Night Football Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 11/23/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
