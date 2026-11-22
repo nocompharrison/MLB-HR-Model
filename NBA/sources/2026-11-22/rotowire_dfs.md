@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 17:08 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 22
 Get the best NBA bets today, with expert player prop picks on points, rebounds and PRA, plus odds from top sportsbooks for Sunday's seven-game Nov. 22 NBA slate.
@@ -27,11 +27,11 @@ Carter has been Orlando's leading rebounder this season, averaging 8.7 boards pe
 Washington enters the matchup with a 6-11 record, and while Carter's responsibilities around the basket should create opportunities to capitalize on missed shots, this is a Wizards team trending in the right direction after back-to-back wins and boasting a massive frontcourt pairing in [Alex Sarr](https://www.rotowire.com/basketball/player/alex-sarr-6240) and [Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297). The difficult matchup and the recent trends are enough to believe Carter will fail to reach this threshold for a sixth consecutive contest.
 ![FanDuel](https://objects.kaxmedia.com/auto/o/148014/a68085dd6d.png)
 NBA Player Prop | ORL @ WAS
-Wendell Carter Jr. Under 8.5 Rebounds-130
+Wendell Carter Jr. Under 8.5 Rebounds-136
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
-[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $3.85](https://bet.rotowire.com/fanduel/offer/12454)
+[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $3.68](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 5:04 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **Denver Nuggets vs. Chicago Bulls:**[**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**over 47.5 points + rebounds + assists, -119 @ Betr**
 Jokic continues to deliver outstanding all-around production for Denver, averaging 24.2 points, 10.4 rebounds and 9.1 assists per game. Those numbers translate to 43.7 combined points, rebounds and assists, and while that's below the proposed PRA mark for this game, the favorable matchup should work in his favor. The Nuggets will take on a Bulls team that ranks fifth-worst in Defensive Rating (118.2) and dead last in points allowed per game (122.8) entering Sunday's action.
 Furthermore, the three-time MVP has shown he can exceed that 47.5 P+R+A mark through different statistical combinations. Jokic finished with 50 PRA against Phoenix on Nov. 16, but that's the only time he's hit this mark in his last five appearances. While it would be easy to discard Jokic at first glance, his impact is evident, and he should have enough touches to make a difference. Jokic has played at least 37 minutes in each of his last five appearances, averaging 26.2 points, 9.8 rebounds and 9.0 assists during that stretch. His combined average of 45.0 PRA remains below the proposed line, but it also demonstrates that a modest improvement in any category could be enough to clear it.
@@ -46,6 +46,11 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Emmett Johnson](https://www.rotowire.com/football/player/emmett-johnson-19240)
+Eclipses century mark in win
+NFL
+Kansas City Chiefs
   * ![Buffalo Bills](https://assets.rotowire.com/images/teamlogo/football/BUF.svg?v=12)
 [James Cook](https://www.rotowire.com/football/player/james-cook-15876)
 Extends TD streak to nine games
@@ -66,11 +71,6 @@ Baltimore Ravens
 Off injury report Sunday
 NBA
 Boston Celtics
-  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)
-Good to go Sunday
-NBA
-Detroit Pistons
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -119,14 +119,19 @@ New York Knicks
 Questionable for Sunday
 NBA
 New York Knicks
-  * ![New Orleans Pelicans](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Trey Murphy](https://www.rotowire.com/basketball/player/trey-murphy-5401)
-Probable for Monday
+  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)
+Ruled out Sunday
 NBA
-New Orleans Pelicans
+Oklahoma City Thunder
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Emmett Johnson](https://www.rotowire.com/football/player/emmett-johnson-19240)
+Eclipses century mark in win
+NFL
+Kansas City Chiefs
   * ![Buffalo Bills](https://assets.rotowire.com/images/teamlogo/football/BUF.svg?v=12)
 [James Cook](https://www.rotowire.com/football/player/james-cook-15876)
 Extends TD streak to nine games
@@ -147,11 +152,6 @@ Baltimore Ravens
 Inactive Sunday
 NFL
 Las Vegas Raiders
-  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
-[Ladd McConkey](https://www.rotowire.com/football/player/ladd-mcconkey-17724)
-Active versus Jets
-NFL
-Los Angeles Chargers
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
@@ -165,6 +165,11 @@ Anaheim Ducks
 Shifts to IR
 NHL
 Chicago BlackHawks
+  * ![Buffalo Sabres](https://assets.rotowire.com/images/teamlogo/hockey/100BUF.png?v=5)
+[Ukko-Pekka Luukkonen](https://www.rotowire.com/hockey/player/ukko-pekka-luukkonen-5516)
+Guarding goal Sunday
+NHL
+Buffalo Sabres
   * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
 [Dennis Hildeby](https://www.rotowire.com/hockey/player/dennis-hildeby-6813)
 Starting against Sabres
@@ -175,11 +180,6 @@ Tampa Bay Lightning
 Facing Blues
 NHL
 Edmonton Oilers
-  * ![St. Louis Blues](https://assets.rotowire.com/images/teamlogo/hockey/100STL.png?v=5)
-[Logan Mailloux](https://www.rotowire.com/hockey/player/logan-mailloux-6498)
-Logs three points Saturday
-NHL
-St. Louis Blues
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)

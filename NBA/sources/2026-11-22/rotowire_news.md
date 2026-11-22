@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 17:08 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,30 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CLE](https://assets.rotowire.com/images/teamlogo/basketball/100CLE.png?v=10)
+[Jaylon Tyson](https://www.rotowire.com/basketball/player/jaylon-tyson-6277)[Upgraded to probable Monday](https://www.rotowire.com/basketball/headlines/jaylon-tyson-injury-upgraded-to-probable-monday-540529)
+**F** Cleveland Cavaliers
+Ankle
+November 22, 2026
+Tyson (ankle) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_45PM.pdf) for Monday's game against the Bulls.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
+[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/ousmane-dieng-injury-questionable-for-monday-540528)
+**F** Milwaukee Bucks
+Finger
+November 22, 2026
+Dieng (finger) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_30PM.pdf) for Monday's game against the Raptors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)[Ruled out Sunday](https://www.rotowire.com/basketball/headlines/shai-gilgeous-alexander-injury-ruled-out-sunday-540527)
+**G** Oklahoma City Thunder
+Back
+November 22, 2026
+Gilgeous-Alexander (back/neck) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_30PM.pdf) for Sunday's game against the Heat.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)[Available to play Sunday](https://www.rotowire.com/basketball/headlines/myron-gardner-news-available-to-play-sunday-540526)
 **F** Miami Heat
@@ -176,30 +200,6 @@ Holland (knee) is [available](https://ak-static.cms.nba.com/referee/injury/Injur
 **G** Atlanta Hawks
 November 22, 2026
 Flemings (back) is available to play Sunday's game against the Pistons, [Kevin Chouinard of the Hawks' official site](https://x.com/KLChouinard/status/2124574013741838840?s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Ryan Dunn](https://www.rotowire.com/basketball/player/ryan-dunn-6276)[Practices Sunday](https://www.rotowire.com/basketball/headlines/ryan-dunn-injury-practices-sunday-540487)
-**F** Phoenix Suns
-Quadriceps
-November 22, 2026
-Dunn (quadriceps) was a full participant in Sunday's practice, [Duane Rankin of The Arizona Republic](https://x.com/DuaneRankin/status/2124571130522407343?a=s-N3CQuff6Pom_S5rls&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![WAS](https://assets.rotowire.com/images/teamlogo/basketball/100WAS.png?v=10)
-[Bub Carrington](https://www.rotowire.com/basketball/player/bub-carrington-6270)[Now questionable Sunday](https://www.rotowire.com/basketball/headlines/bub-carrington-injury-now-questionable-sunday-540485)
-**G** Washington Wizards
-Illness
-November 22, 2026
-Carrington (illness) has been downgraded to [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_01_15PM.pdf) for Sunday's game against the Magic.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Ruled out Sunday](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-ruled-out-sunday-540483)
-**F** New York Knicks
-Calf
-November 22, 2026
-Anunoby (calf) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_01_00PM.pdf) Sunday against the Pacers.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

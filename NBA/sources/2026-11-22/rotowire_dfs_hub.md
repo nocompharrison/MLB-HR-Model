@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 16:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 17:08 ET -->
 
 # NBA DFS Picks Today
 November 22, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Sunday, November 22 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (DET @ ATL) Boston Celtics (BOS @ GSW) Chicago Bulls (DEN @ CHI) Dallas Mavericks (DAL @ UTA) Denver Nuggets (DEN @ CHI) Detroit Pistons (DET @ ATL) Golden State Warriors (BOS @ GSW) Indiana Pacers (IND @ NYK) Miami Heat (OKC @ MIA) New York Knicks (IND @ NYK) Oklahoma City Thunder (OKC @ MIA) Orlando Magic (ORL @ WSH) Utah Jazz (DAL @ UTA) Washington Wizards (ORL @ WSH)
+Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
+**[Shai Gilgeous-Alexander](https://www.rotowire.com/basketball/player/shai-gilgeous-alexander-4387)** _G_ OUT _Top_ 4:35 PM ET
+#### Ruled out Sunday
+Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat.
+Analysis
+Gilgeous-Alexander will miss his first game of the 2026-27 campaign. His next opportunity to suit up will come Monday against the Pacers. Nikola Topic (hip), Alex Caruso (hip) and Cason Wallace (shoulder) are also unavailable, so Bennett Stirtz, Kenrich Williams and Nique Clifford are candidates for more minutes, with one of those players potentially moving into the starting lineup.
 Miami HeatOKC @ MIA - 6:00 PM ET
 **[Myron Gardner](https://www.rotowire.com/basketball/player/myron-gardner-6067)** _F_ 4:26 PM ET
 #### Available to play Sunday
@@ -47,13 +53,7 @@ Boston CelticsBOS @ GSW - 8:30 PM ET
 George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports.
 Analysis
 George will sit out the second leg of this back-to-back set. With the veteran forward sidelined, Baylor Scheierman, Hugo Gonzalez and Sam Hauser could all see increased burn. George will likely return for Tuesday's game at Washington.
-Boston CelticsBOS @ GSW - 8:30 PM ET
-**[Jayson Tatum](https://www.rotowire.com/basketball/player/jayson-tatum-4108)** _F_ _Top_ 3:56 PM ET
-#### Off injury report Sunday
-Tatum (rest) is not listed on the injury report for Sunday's game against the Warriors, Justin Turpin of WEEI.com reports.
-Analysis
-Tatum got the night off to rest during Saturday's 97-96 loss to the Kings. However, the superstar will return for the second leg of Boston's back-to-back set in Golden State.
-Show 5 more (25 remaining)
+Show 5 more (26 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,9 +63,9 @@ DraftKings FanDuel
 Nov 23 - Main Slate - 8 games - 7:00 PM (lineups pending) Main Slate - 5 games - 7:00 PM Main Slate - 2 games - 3:30 PM Main Slate - 2 games - 8:00 PM Nov 23 - Main Slate - 2 games - 10:00 PM (lineups pending) Nov 23 - Main Slate - 3 games - 7:30 PM (lineups pending) Nov 23 - Main Slate - 2 games - 8:00 PM (lineups pending) Showdown - BOS @ GSW - 9:30 PM Nov 23 - Showdown - UTA @ LAL - 11:00 PM (lineups pending) Showdown - BOS @ GSW - 8:30 PM Showdown - DEN @ CHI - 7:00 PM Showdown - DET @ ATL - 3:30 PM Nov 23 - Showdown - LAC @ HOU - 8:30 PM (lineups pending) Showdown - OKC @ MIA - 6:00 PM Nov 23 - Showdown - POR @ PHI - 7:00 PM (lineups pending) Nov 23 - Showdown - UTA @ LAL - 10:00 PM (lineups pending) Nov 23 - Main Slate - 8 games - 7:00 PM (lineups pending) Main Slate - 5 games - 7:00 PM All games (5) DEN @ CHI - 7:00 PM ET ORL @ WSH - 7:00 PM ET DAL @ UTA - 7:00 PM ET IND @ NYK - 8:00 PM ET BOS @ GSW - 8:30 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **DEN @ CHI**
-O/U 235.57:00 PM ET
+O/U 236.57:00 PM ET
 NuggetsExpectedAway
-_Implied_**122.5** _Spread_**-9.5**  
+_Implied_**123.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Nikola Jokic  | $12,200  | 61.2  |  
@@ -74,7 +74,7 @@ _Implied_**122.5** _Spread_**-9.5**
 | SF  | Cameron Johnson  | $5,200  | 25.8  |  
 | SG  | Christian Braun  | $6,000  | 27.6  |  
 BullsExpectedHome
-_Implied_**113.0** _Spread_**+9.5**  
+_Implied_**113.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen SmithP  | $6,100  | 35.5  |  
@@ -143,9 +143,9 @@ _Implied_**110.5** _Spread_**-7.5**
 | SF  | Mikal Bridges  | $4,700  | 21.6  |  
 | SG  | Landry Shamet  | $4,600  | 22.0  |  
 **BOS @ GSW**
-O/U 209.58:30 PM ET
+O/U 210.58:30 PM ET
 CelticsExpectedAway
-_Implied_**108.5** _Spread_**-7.5**  
+_Implied_**109.0** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $5,200  | 30.9  |  
@@ -154,7 +154,7 @@ _Implied_**108.5** _Spread_**-7.5**
 | SF  | Jayson Tatum  | $10,100  | 49.8  |  
 | SG  | Jordan Walsh  | $3,600  | 17.6  |  
 WarriorsExpectedHome
-_Implied_**101.0** _Spread_**+7.5**  
+_Implied_**101.5** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Charles Bassey  | $4,700  | 16.5  |  
