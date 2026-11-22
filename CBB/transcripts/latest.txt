@@ -1,29 +1,27 @@
-# CBB transcripts | 2026-11-21 | updated 2026-11-21 17:04 ET
+# CBB transcripts | 2026-11-22 | updated 2026-11-22 11:18 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 8 files in CBB/transcripts/2026-11-21:
-CBB/transcripts/2026-11-21/-7cRwfKvsb4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_21_26_Ron_s_Bank_Shot_Br.txt
-CBB/transcripts/2026-11-21/8N5AY6QP34M_FieldOf68_INSTANT_REACTION_TO_KENTUCKY_INDIANA_Plus_what_teams_are_we_most_CONFI.txt
-CBB/transcripts/2026-11-21/FT93qnOmSjI_CBSCollegeBB_North_Carolina_State_vs_Seton_Hall_College_Basketball_Highlights_Conde.txt
-CBB/transcripts/2026-11-21/TFhrbVcSWP4_TCE_College_Basketball_Picks_For_November_21st_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-21/djZDm7Gctak_TCE_College_Basketball_PICKS_ONLY_Saturday_November_21st_TCE_Trims.txt
-CBB/transcripts/2026-11-21/mPmU0z9xWq8_TCE_College_Basketball_Best_Bets_For_November_21st_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-21/uNARbZK6N38_FieldOf68_Why_Cayden_Daughtry_was_ABSOLUTELY_WORTH_the_4_million_from_Calipari_G.txt
-CBB/transcripts/2026-11-21/wz7KQ4qzmUA_PickDawgz_College_Basketball_Picks_for_Today_11_21_26_Saturday_Best_College_Bask.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-20
+# 5 files in CBB/transcripts/2026-11-22:
+CBB/transcripts/2026-11-22/6lTqI1el0V0_PickDawgz_College_Basketball_Picks_Predictions_Today_11_22_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-22/OMoplP7e7_g_TCE_College_Basketball_Picks_For_November_22nd_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-22/aT7kn8yRLag_PickDawgz_NCAAB_Alternate_Line_Prediction_11_22_26_The_Extendo_Clip.txt
+CBB/transcripts/2026-11-22/dR-DpJHKWxc_TCE_College_Basketball_PICKS_ONLY_Sunday_November_22nd_TCE_Trims.txt
+CBB/transcripts/2026-11-22/w1fl6DKlUS8_TCE_College_Basketball_Best_Bets_For_November_22nd_Spread_Moneyline_Bettin.txt
 
 # this run:
 NONE    channel LockedOnCBB: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-20/YXXsFRTz5P0_CBSCollegeBB_Murray_State_vs_Wisconsin_College_Basketball_Highlights_Condensed_Game.txt  (1,600 words)
-NEW     CBB/transcripts/2026-11-20/VdHPT0PCdMI_CBSCollegeBB_Rhode_Island_vs_Liberty_College_Basketball_Highlights_Condensed_Game.txt  (1,920 words)
-NEW     CBB/transcripts/2026-11-21/uNARbZK6N38_FieldOf68_Why_Cayden_Daughtry_was_ABSOLUTELY_WORTH_the_4_million_from_Calipari_G.txt  (1,586 words)
+UPCOMING CBSCollegeBB wEpM3ElwL90 5 biggest storylines for Players Era 16; Indiana handles Ken  (not aired yet - scheduled for 11/22/26 7:00PM)
+NONE    channel FieldOf68: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-22/w1fl6DKlUS8_TCE_College_Basketball_Best_Bets_For_November_22nd_Spread_Moneyline_Bettin.txt  (789 words)
+NEW     CBB/transcripts/2026-11-22/dR-DpJHKWxc_TCE_College_Basketball_PICKS_ONLY_Sunday_November_22nd_TCE_Trims.txt  (11,583 words)
+NEW     CBB/transcripts/2026-11-22/OMoplP7e7_g_TCE_College_Basketball_Picks_For_November_22nd_NCAA_Basketball_Banter_Best.txt  (19,561 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-22/aT7kn8yRLag_PickDawgz_NCAAB_Alternate_Line_Prediction_11_22_26_The_Extendo_Clip.txt  (1,438 words)
+NEW     CBB/transcripts/2026-11-22/6lTqI1el0V0_PickDawgz_College_Basketball_Picks_Predictions_Today_11_22_26_Ron_s_Bank_Shot_Br.txt  (1,130 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
