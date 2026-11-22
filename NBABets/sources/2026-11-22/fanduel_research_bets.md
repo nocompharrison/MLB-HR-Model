@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 16:37 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-22 17:12 ET -->
 
 
 ---
@@ -191,7 +191,7 @@ START YOUR OWN WINNING STREAK
 # NBA Predictions, Odds and Betting Lines - November 22
 ![Data Skrive](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F5bf66359537e46d3f0bcc0cc0296fab977a47316-800x800.png%3Fw%3D42%26h%3D42&w=100&q=100)
 [Data Skrive](https://www.fanduel.com/research/author/data-skrive)
-22h
+23h
 Link
 ![NBA Predictions, Odds and Betting Lines - November 22](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F6f348ed531d6f5a14815f5862c2b7c789bf7dde3-6197x4132.jpg%3Frect%3D0%2C533%2C6197%2C3066%26w%3D964%26h%3D477&w=1920&q=100)
 The Detroit Pistons versus the Atlanta Hawks is one of many solid options on today's NBA slate.
