@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-22 18:35 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-22 18:49 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Sun, Nov 22, 2026, 6:30 PM ET
+_Updated At:_ Sun, Nov 22, 2026, 6:25 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 3 GAME SLATE:
 SUN 7:00PM ET · Express

@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-sunday-nov-22-147652 | fetched: 2026-11-22 18:49 ET -->
 
 # NBA Best Bets and Predictions Today: Player Props & Picks for Sunday, Nov. 22
 Get the best NBA bets today, with expert player prop picks on points, rebounds and PRA, plus odds from top sportsbooks for Sunday's seven-game Nov. 22 NBA slate.
@@ -31,7 +31,7 @@ Wendell Carter Jr. Under 8.5 Rebounds-128
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $3.91](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:31 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:45 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ##  **Denver Nuggets vs. Chicago Bulls:**[**Nikola Jokic**](https://www.rotowire.com/basketball/player/nikola-jokic-3612)**over 47.5 points + rebounds + assists, -119 @ Betr**
 Jokic continues to deliver outstanding all-around production for Denver, averaging 24.2 points, 10.4 rebounds and 9.1 assists per game. Those numbers translate to 43.7 combined points, rebounds and assists, and while that's below the proposed PRA mark for this game, the favorable matchup should work in his favor. The Nuggets will take on a Bulls team that ranks fifth-worst in Defensive Rating (118.2) and dead last in points allowed per game (122.8) entering Sunday's action.
 Furthermore, the three-time MVP has shown he can exceed that 47.5 P+R+A mark through different statistical combinations. Jokic finished with 50 PRA against Phoenix on Nov. 16, but that's the only time he's hit this mark in his last five appearances. While it would be easy to discard Jokic at first glance, his impact is evident, and he should have enough touches to make a difference. Jokic has played at least 37 minutes in each of his last five appearances, averaging 26.2 points, 9.8 rebounds and 9.0 assists during that stretch. His combined average of 45.0 PRA remains below the proposed line, but it also demonstrates that a modest improvement in any category could be enough to clear it.

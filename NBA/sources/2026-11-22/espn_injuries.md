@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-22 18:35 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-22 18:49 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -310,15 +310,39 @@ Sponsored Headlines
 
 [](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Born Between 1945 and 1965? Check This Hearing Device Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Born Between 1945 and 1965? Check This Hearing Device")
 
+Undo
+
 [](https://withinmag.com/nv-gp-tb-letter-v1)[Over 55 and Hungry Again by 10 PM? Read This WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://withinmag.com/nv-gp-tb-letter-v1 "Over 55 and Hungry Again by 10 PM? Read This")
+
+Undo
 
 [](https://lp.customwatersolutionsusa.com/cws-whole-home-costs)[Here's What a Whole Home Water Filtration System Costs Custom Water Solutions USA | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Rates](https://lp.customwatersolutionsusa.com/cws-whole-home-costs "Here's What a Whole Home Water Filtration System Costs")
 
+Undo
+
 [](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+
+Undo
 
 [](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl)[Podiatrist Marta Riniker Reveals a Walking-Shoe Detail HF Stride | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://pay.hike-footwear.com/p2-s1-adv-bal-v1-tbl "Podiatrist Marta Riniker Reveals a Walking-Shoe Detail")
 
+Undo
+
 [](https://www.grammarly.com/a)[Invest In Your Daily Productivity With Grammarly Pro Upgrade your daily workflow with intelligent writing support. Grammarly catches mistakes you might miss otherwise. Try it now.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.grammarly.com/a "Invest In Your Daily Productivity With Grammarly Pro")
+
+Undo
+
+[](https://www.grammarly.com/a)[Perfect Tone. Authentic Voice.Make every message sound exactly how you intend. Easily adapt your style for different audiences and situations. See how.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.grammarly.com/a "Perfect Tone. Authentic Voice.")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
+[](https://ontimedirectmax.com/1tg7ygxoc6gj7qoewzpr)[Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)DirectMax | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://ontimedirectmax.com/1tg7ygxoc6gj7qoewzpr "Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)")
+
+Undo
 
 ### NBA News
 
@@ -334,7 +358,15 @@ Sponsored Headlines
 
 [](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13)[Born 1945-1965? This Is What Hearing Aids Cost Now A small, affordable hearing device is doing something many people didn't expect. It isn't just helping them hear more clearly. It's helping them feel sharper too.Hearing Loss Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://insisdomwitered.com/6122d377-ec59-4f7a-8f6f-95ccdb616e13 "Born 1945-1965? This Is What Hearing Aids Cost Now")
 
+Undo
+
 [](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng)[My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s Koriderm | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng "My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s")
+
+Undo
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Isn't Healing (It’s Not Just Age)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Isn't Healing (It’s Not Just Age)")
+
+Undo
 
 ![Image 41: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

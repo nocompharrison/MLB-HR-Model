@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-22 18:49 ET -->
 
 # NBA DFS Picks Today
 November 22, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Sunday, November 22 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (14) All NBA news Atlanta Hawks (DET @ ATL) Boston Celtics (BOS @ GSW) Chicago Bulls (DEN @ CHI) Dallas Mavericks (DAL @ UTA) Denver Nuggets (DEN @ CHI) Detroit Pistons (DET @ ATL) Golden State Warriors (BOS @ GSW) Indiana Pacers (IND @ NYK) Miami Heat (OKC @ MIA) New York Knicks (IND @ NYK) Oklahoma City Thunder (OKC @ MIA) Orlando Magic (ORL @ WSH) Utah Jazz (DAL @ UTA) Washington Wizards (ORL @ WSH)
+Chicago BullsDEN @ CHI - 7:00 PM ET
+**[Buddy Hield](https://www.rotowire.com/basketball/player/buddy-hield-3884)** _G_ 6:39 PM ET
+#### Starting versus Nuggets
+Hield will start in Sunday's game against Denver.
+Analysis
+Norman Powell (hamstring) is sidelined, so Hield will make his first start of the 2026-27 campaign. The 2016 No. 6 overall pick started three games for the Warriors in 2025-26, averaging 9.3 points, 5.3 rebounds and 2.0 assists while shooting 40.0 percent from deep in 22.7 minutes per outing.
+Detroit PistonsDET @ ATL - 3:30 PM ET
+**[Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)** _F_ _Top_ 6:29 PM ET
+#### Delivers well-rounded effort Sunday
+Thompson finished with 18 points (7-10 FG, 4-4 FT), 11 rebounds, five assists, one steal and two blocks over 38 minutes in Sunday's 107-97 loss to Atlanta.
+Analysis
+After recording a triple-double in the 144-140 overtime win over the Wizards on Nov. 12, Thompson had another well-rounded performance, ending with his fifth double-double of the 2026-27 campaign. However, his efforts weren't enough to help his club avoid a second consecutive loss. The 23-year-old is now averaging 11.1 points, 8.5 rebounds and 5.3 assists, all career highs, along with 1.7 steals across 29.3 minutes per outing in 15 regular-season games.
 Washington WizardsORL @ WSH - 7:00 PM ET
 **[Bub Carrington](https://www.rotowire.com/basketball/player/bub-carrington-6270)** _G_ 6:05 PM ET
 #### Available Sunday
@@ -41,19 +53,7 @@ Atlanta HawksDET @ ATL - 3:30 PM ET
 Daniels finished Sunday's 107-97 win over the Pistons with five points (2-9 FG, 0-3 3Pt, 1-2 FT), 14 rebounds, eight assists, five steals and two blocks in 39 minutes.
 Analysis
 Daniels struggled with efficiency and scored single-digit points for the third time in the last five games. However, the 23-year-old stuffed the stat sheet outside the scoring column, leading all players in rebounds and steals while adding team highs in blocks and assists. He set a season-high mark in blocks while supplying multiple steals for an eighth straight game.
-Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
-**[Micah Peavy](https://www.rotowire.com/basketball/player/micah-peavy-6607)** _F_ 5:40 PM ET
-#### Starting Sunday
-Peavy will start Sunday's game against the Heat, Clemente Almanza of USA Today reports.
-Analysis
-Peavy will get his first start as a member of the Thunder and fifth of his career Sunday due to numerous rotation players being sidelined. He should be in line for a heavy workload.
-Oklahoma City ThunderOKC @ MIA - 6:00 PM ET
-**[Kenrich Williams](https://www.rotowire.com/basketball/player/kenrich-williams-4462)** _F_ 5:40 PM ET
-#### Starting versus Heat
-Williams will start in Sunday's game against the Heat, Clemente Almanza of USA Today reports.
-Analysis
-The Thunder have a lengthy injury report for Sunday's meeting with Miami, so Williams will enter the starting lineup. In 10 starts during the 2026-27 campaign, the 31-year-old is averaging 8.0 points, 4.5 rebounds and 1.7 assists over 23.7 minutes per contest. However, with Shai Gilgeous-Alexander (back/neck) sidelined, there is room for Williams to be more involved offensively.
-Show 5 more (38 remaining)
+Show 5 more (40 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,9 +63,9 @@ DraftKings FanDuel
 Nov 23 - Main Slate - 8 games - 7:00 PM (lineups pending) Main Slate - 5 games - 7:00 PM Main Slate - 2 games - 3:30 PM Main Slate - 2 games - 8:00 PM Nov 23 - Main Slate - 2 games - 10:00 PM (lineups pending) Nov 23 - Main Slate - 3 games - 7:30 PM (lineups pending) Nov 23 - Main Slate - 2 games - 8:00 PM (lineups pending) Showdown - BOS @ GSW - 9:30 PM Nov 23 - Showdown - UTA @ LAL - 11:00 PM (lineups pending) Showdown - BOS @ GSW - 8:30 PM Showdown - DEN @ CHI - 7:00 PM Showdown - DET @ ATL - 3:30 PM Nov 23 - Showdown - LAC @ HOU - 8:30 PM (lineups pending) Showdown - OKC @ MIA - 6:00 PM Nov 23 - Showdown - POR @ PHI - 7:00 PM (lineups pending) Nov 23 - Showdown - UTA @ LAL - 10:00 PM (lineups pending) Nov 23 - Main Slate - 8 games - 7:00 PM (lineups pending) Main Slate - 5 games - 7:00 PM All games (5) DEN @ CHI - 7:00 PM ET ORL @ WSH - 7:00 PM ET DAL @ UTA - 7:00 PM ET IND @ NYK - 8:00 PM ET BOS @ GSW - 8:30 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **DEN @ CHI**
-O/U 236.57:00 PM ET
-NuggetsExpectedAway
-_Implied_**123.5** _Spread_**-10.5**  
+O/U 237.57:00 PM ET
+NuggetsConfirmedAway
+_Implied_**123.5** _Spread_**-9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Nikola Jokic  | $12,200  | 61.3  |  
@@ -73,8 +73,8 @@ _Implied_**123.5** _Spread_**-10.5**
 | PG  | Jamal Murray  | $8,900  | 44.8  |  
 | SF  | Cameron Johnson  | $5,200  | 25.8  |  
 | SG  | Christian Braun  | $6,000  | 27.6  |  
-BullsExpectedHome
-_Implied_**113.0** _Spread_**+10.5**  
+BullsConfirmedHome
+_Implied_**114.0** _Spread_**+9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $6,100  | 35.5  |  
@@ -104,7 +104,7 @@ _Implied_**107.5** _Spread_**+4.5**
 | SG  | Kyshawn George  | $6,700  | 32.4  |  
 **DAL @ UTA**
 O/U 225.57:00 PM ET
-MavericksExpectedAway
+MavericksConfirmedAway
 _Implied_**114.0** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -113,7 +113,7 @@ _Implied_**114.0** _Spread_**-2.5**
 | PG  | Kyrie Irving  | $7,900  | 37.1  |  
 | SF  | Cooper Flagg  | $9,800  | 45.5  |  
 | SG  | Caleb Martin  | $4,300  | 18.4  |  
-JazzExpectedHome
+JazzConfirmedHome
 _Implied_**111.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -123,9 +123,9 @@ _Implied_**111.5** _Spread_**+2.5**
 | SF  | Josh Green  | $3,600  | 11.2  |  
 | SG  | Darryn Peterson  | $7,700  | 31.2  |  
 **IND @ NYK**
-O/U 212.58:00 PM ET
+O/U 213.58:00 PM ET
 PacersExpectedAway
-_Implied_**102.5** _Spread_**+7.5**  
+_Implied_**103.0** _Spread_**+7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ivica Zubac  | $5,700  | 26.7  |  
@@ -134,7 +134,7 @@ _Implied_**102.5** _Spread_**+7.5**
 | SF  | Aaron Nesmith  | $4,800  | 22.3  |  
 | SG  | Kelly Oubre  | $4,600  | 19.7  |  
 KnicksExpectedHome
-_Implied_**110.0** _Spread_**-7.5**  
+_Implied_**110.5** _Spread_**-7.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony TownsQ  | $9,600  | 48.8  |  

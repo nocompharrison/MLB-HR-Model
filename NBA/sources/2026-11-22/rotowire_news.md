@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-22 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,13 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Buddy Hield](https://www.rotowire.com/basketball/player/buddy-hield-3884)[Starting versus Nuggets](https://www.rotowire.com/basketball/headlines/buddy-hield-news-starting-versus-nuggets-540558)
+**G** Chicago Bulls
+November 22, 2026
+Hield will [start](https://www.nba.com/players/todays-lineups) in Sunday's game against Denver.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
 [Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932)[Delivers well-rounded effort Sunday](https://www.rotowire.com/basketball/headlines/ausar-thompson-news-delivers-well-rounded-effort-sunday-540557)
 **F** Detroit Pistons
@@ -191,14 +198,6 @@ Williams (hamstring) [won't play](https://x.com/HornetsPR/status/212462353812464
 Ankle
 November 22, 2026
 Tyson (ankle) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_45PM.pdf) for Monday's game against the Bulls.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Ousmane Dieng](https://www.rotowire.com/basketball/player/ousmane-dieng-5695)[Questionable for Monday](https://www.rotowire.com/basketball/headlines/ousmane-dieng-injury-questionable-for-monday-540528)
-**F** Milwaukee Bucks
-Finger
-November 22, 2026
-Dieng (finger) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_30PM.pdf) for Monday's game against the Raptors.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
