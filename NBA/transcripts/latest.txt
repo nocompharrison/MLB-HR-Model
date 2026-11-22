@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-22 | updated 2026-11-22 16:07 ET
+# NBA transcripts | 2026-11-22 | updated 2026-11-22 16:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-22:
 NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
@@ -22,7 +22,6 @@ NONE    channel LockedOnNBA: nothing new in the date window (or everything alrea
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod PvXWcGlbiQs NBA Monday Picks - 11/23/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/22/26 9:05PM)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-22/dPp5_PK59CI_JayMoney_Sunday_NBA_Talk_With_Jay_Money_with_Free_NBA_Picks_and_Predictions.txt  (5,020 words, via Groq)
 UPCOMING JayMoney IlqVNglCTK0 Monday NBA Talk With Jay Money & The Shark 11/23/26 Free NBA  (not aired yet - scheduled for 11/23/26 1:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
@@ -32,5 +31,5 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-22/sAlngvh9Ld0_PickDawgz_NBA_Picks_Sunday_11_22_26_Jay_s_NBA_Jam_Session.txt  (1,761 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
