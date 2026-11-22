@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-22 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-22 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,69 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
+[Isaiah Johnson](https://www.rotowire.com/cbasketball/player/isaiah-johnson-26216)
+Dealing with glute strain
+**G** Texas
+Lower Body
+November 22, 2026
+Johnson is dealing with a glute strain and is considered doubtful to return for the second half of Sunday's game against Southern Indiana, [Eric Henry of 247Sports.com](https://x.com/EricCHenry_/status/2124608309441474801) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
+Should return in Thanksgiving
+**G** Michigan State
+Shoulder
+November 22, 2026
+Scott (shoulder) is expected to play Thursday against Arkansas, according to [Chris Solari of The Detroit Free Press](https://www.freep.com/story/sports/college/michigan-state/spartans/2026/11/22/jordan-scott-coen-carr-injuries-michigan-state-spartans-basketball-detroit-titans-tom-izzo/92903313007/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Coen Carr](https://www.rotowire.com/cbasketball/player/coen-carr-22500)
+Expected to play Thursday
+**F** Michigan State
+Knee
+November 22, 2026
+Carr (knee) is expected to play Thursday against Arkansas, according to [Chris Solari of The Detroit Free Press](https://www.freep.com/story/sports/college/michigan-state/spartans/2026/11/22/jordan-scott-coen-carr-injuries-michigan-state-spartans-basketball-detroit-titans-tom-izzo/92903313007/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Money Williams](https://www.rotowire.com/cbasketball/player/money-williams-25157)
+Not playing Sunday
+**G** Boston College
+Undisclosed
+November 22, 2026
+Williams (undisclosed) is out for Sunday's game against NJIT, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2124591243883929818) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Memphis](https://assets.rotowire.com/images/teamlogo/cbasketball/Memphis.png?v=16)
+[Luke Almodovar](https://www.rotowire.com/cbasketball/player/luke-almodovar-27369)
+Warming up Sunday
+**G** Memphis
+Head
+November 22, 2026
+Almodovar (head) was seen in warmups and is expected to play Sunday against Evansville, [Jason Munz of The Memphis Commercial Appeal](https://x.com/munzly/status/2124554405576089888) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Dayton](https://assets.rotowire.com/images/teamlogo/cbasketball/Dayton.png?v=16)
+[Malcolm Thomas](https://www.rotowire.com/cbasketball/player/malcolm-thomas-25811)
+Seen in warmups
+**F** Dayton
+Ankle
+November 22, 2026
+Thomas (ankle) was seen in uniform during warmups ahead of Sunday's game at Northwestern, [David Jablonski of the Dayton Daily News](https://x.com/DavidPJablonski/status/2124547042609345023) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Dayton](https://assets.rotowire.com/images/teamlogo/cbasketball/Dayton.png?v=16)
+[Landen Joseph](https://www.rotowire.com/cbasketball/player/landen-joseph-26997)
+Not in uniform Sunday
+**G** Dayton
+Undisclosed
+November 22, 2026
+Joseph (undisclosed) wasn't spotted in uniform Sunday and won't play against Northwestern, [David Jablonski of the Dayton Daily News](https://x.com/DavidPJablonski/status/2124547042609345023) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Duke](https://assets.rotowire.com/images/teamlogo/cbasketball/Duke.png?v=16)
 [Patrick Ngongba](https://www.rotowire.com/cbasketball/player/patrick-ngongba-23549)
 Strong stat line Saturday
@@ -149,66 +212,6 @@ Scores 20, doles out 10 assists
 **G** Louisiana State
 November 21, 2026
 Dent posted 20 points (6-12 FG, 1-2 3Pt, 7-9 FT), two rebounds, 10 assists and a season-high six steals across 32 minutes during Saturday's 106-75 win over Queens University.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Louisiana State](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisiana-State.png?v=16)
-[Brice Dessert](https://www.rotowire.com/cbasketball/player/brice-dessert-27978)
-Perfect from the field
-**C** Louisiana State
-November 21, 2026
-Dessert posted a season-high 19 points (8-8 FG, 3-5 FT), three rebounds, one assist and one steal in 20 minutes during Saturday's 106-75 win over Queens University.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Villanova](https://assets.rotowire.com/images/teamlogo/cbasketball/Villanova.png?v=16)
-[Darryl Simmons](https://www.rotowire.com/cbasketball/player/darryl-simmons-25343)
-Out again vs. Michigan
-**G** Villanova
-Ankle
-November 21, 2026
-Simmons (ankle) is out against Michigan on Saturday night, [Villanova](https://x.com/NovaMBB/status/2124283079334236479?a=UiKyNxnc14nsPll-UfE&s=20) announced.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![James Madison](https://assets.rotowire.com/images/teamlogo/cbasketball/James-Madison.png?v=16)
-[Emarquis Jones](https://www.rotowire.com/cbasketball/player/emarquis-jones-27976)
-Logs eight rebounds off bench
-**G** James Madison
-November 21, 2026
-Jones (undisclosed) supplied four points (2-2 FG), eight rebounds, seven assists and one steal in 12 minutes during Saturday's 136-45 win over Virginia-Lynchburg.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
-[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
-Inching closer to testing hamstring
-**G** Syracuse
-Hamstring
-November 21, 2026
-Tobiason is inching closer to fully testing his injured hamstring in practices, [Donna Ditota of Syracuse.com](https://www.syracuse.com/orangebasketball/2026/11/update-on-aiden-tobiason-and-his-healing-hamstring-were-inching-back.html) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
-[Garwey Dual](https://www.rotowire.com/cbasketball/player/garwey-dual-22546)
-Not returning Saturday
-**G** Syracuse
-Ankle
-November 21, 2026
-Dual will not return to Saturday's game against Lafayette due to an ankle sprain, [Mike Waters of The Syracuse Post-Standard](https://x.com/MikeWatersSYR/status/2124241251276878206) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
-[Jesse McCulloch](https://www.rotowire.com/cbasketball/player/jesse-mcculloch-23525)
-Not starting Saturday
-**F** Michigan State
-November 21, 2026
-McCulloch will[ not start ](https://x.com/MSU_Basketball/status/2124183713894293645)Saturday against Detroit Mercy.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
-[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
-Slated to sit out Saturday
-**G** Michigan State
-Shoulder
-November 21, 2026
-Score (shoulder) is not expected to play in Saturday's game against Detroit, [Jcob Cotsonika of SI.com](https://x.com/jacobcotsonika/status/2124168119677755861) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
