@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-22 | updated 2026-11-22 16:35 ET
+# NBA transcripts | 2026-11-22 | updated 2026-11-22 17:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 4 files in NBA/transcripts/2026-11-22:
 NBA/transcripts/2026-11-22/TWFn4Y-gt9Q_PickDawgz_NBA_Picks_Today_11_22_26_Best_Sunday_NBA_Bets_are_ON_DECK.txt
@@ -25,7 +25,7 @@ NONE    channel CallingOurShot: nothing new in the date window (or everything al
 UPCOMING JayMoney IlqVNglCTK0 Monday NBA Talk With Jay Money & The Shark 11/23/26 Free NBA  (not aired yet - scheduled for 11/23/26 1:00PM)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine bvV_fDGNRM0 Monday Night Football Picks + NBA Bets | Early Edge  (not aired yet - scheduled for 11/23/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
