@@ -1,42 +1,48 @@
-# CBB transcripts | 2026-11-23 | updated 2026-11-23 11:22 ET
+# CBB transcripts | 2026-11-23 | updated 2026-11-23 17:06 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 8 files in CBB/transcripts/2026-11-23:
+# 18 files in CBB/transcripts/2026-11-23:
+CBB/transcripts/2026-11-23/1BEsCu29OHo_CBSCollegeBB_Jon_Rothstein_Previews_FEAST_WEEK_Duke_vs_UConn_Tricky_Spots_for_Kentu.txt
+CBB/transcripts/2026-11-23/1UVUSbWxrbE_FieldOf68_THIS_is_how_to_fix_Duke_There_s_one_change_that_Jon_Scheyer_can_make.txt
+CBB/transcripts/2026-11-23/47SSDQxHtl8_FieldOf68_These_are_the_MOST_DISAPPOINTING_teams_in_college_basketball_this_seas.txt
 CBB/transcripts/2026-11-23/60K2C81pXNE_ActionNetwork_COLLEGE_BASKETBALL_FEAST_WEEK_Best_Bets_for_Every_Major_Tournament.txt
+CBB/transcripts/2026-11-23/6xVTy2OrX8c_FieldOf68_These_are_the_MOST_SURPRISING_teams_in_college_basketball_this_season.txt
+CBB/transcripts/2026-11-23/EbxwVYoWq0o_FieldOf68_WEEK_THREE_REACTIONS_Who_is_the_REAL_best_team_in_college_hoops_Who_ca.txt
+CBB/transcripts/2026-11-23/FfeWK0_OSxs_FieldOf68_These_are_the_ONLY_college_basketball_teams_that_can_win_the_national.txt
+CBB/transcripts/2026-11-23/FlM0dIqnL70_CBSCollegeBB_We_ll_talk_about_this_team_DIFFERENTLY_after_this_week_Players_Era_16.txt
+CBB/transcripts/2026-11-23/N-o-F_SE8CQ_TCE_College_Basketball_Best_Bets_For_November_23rd_Spread_Moneyline_Bettin.txt
 CBB/transcripts/2026-11-23/TseIBkXdaXA_PickDawgz_Free_CBB_Betting_Picks_Predictions_Today_11_23_2026_Brian_s_Take_it_to.txt
+CBB/transcripts/2026-11-23/WwkNvLO-9OI_FieldOf68_Who_is_ACTUALLY_college_basketball_s_best_team_Illinois_vs_Virginia_vs.txt
 CBB/transcripts/2026-11-23/XQl664iQMwQ_TCE_College_Basketball_PICKS_ONLY_Monday_November_23rd_TCE_Trims.txt
 CBB/transcripts/2026-11-23/fD863FTFAzs_WagerTalk_MONDAY_CBB_Picks_TODAY_Washington_vs_BYU_VCU_vs_Providence.txt
 CBB/transcripts/2026-11-23/fdGoNN3IlX4_TCE_Maui_Invitational_Futures_and_Best_Bets_College_Basketball_Picks_Today.txt
 CBB/transcripts/2026-11-23/flQL0mJr1HA_PickDawgz_College_Basketball_Picks_for_Today_11_123_26_Monday_s_Best_College_Bas.txt
 CBB/transcripts/2026-11-23/nDmCF2c2XaY_BBOC_College_Basketball_FEAST_WEEK_PICKS_Best_Bets_Tournament_Predictions.txt
+CBB/transcripts/2026-11-23/wIjuHp-3TeE_CBSCollegeBB_Jon_Rothstein_previews_the_Duke_UConn_SHOWDOWN_in_Las_Vegas_Feast_Week.txt
 CBB/transcripts/2026-11-23/xTzcfal6TRE_TCE_College_Basketball_Picks_For_November_23rd_NCAA_Basketball_Banter_Best.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-22
 
 # this run:
-UPCOMING LockedOnCBB 4yVVNHxInRE FEAST WEEK: Does Arizona have enough depth to win Maui Invit  (not aired yet - scheduled for 11/23/26 11:30AM)
+NOCAPS  LockedOnCBB 4yVVNHxInRE FEAST WEEK: Does Arizona have enough depth to win Maui Invit  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   CBSCollegeBB VWebwqar0UE LIVE: 4-star CG Jalen Davis Announces College Commitment | N  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB wEpM3ElwL90 Players Era 16 Preview: Best matchups, this year's Michigan?  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-UPCOMING CBSCollegeBB VWebwqar0UE LIVE: 4-star CG Jalen Davis Announces College Commitment | N  (not aired yet - scheduled for 11/24/26 5:30PM)
-NEW     CBB/transcripts/2026-11-22/GLQsc5Q1uuU_CBSCollegeBB_Kentucky_is_spiraling_out_of_Mark_Pope_s_control_Wildcats_handled_by_I.txt  (3,041 words)
-NEW     CBB/transcripts/2026-11-22/WfBwd4WAAm0_CBSCollegeBB_College_Basketball_AP_Top_25_Preview_Who_is_the_NEW_No_1.txt  (1,230 words)
-NEW     CBB/transcripts/2026-11-22/CxLGeYIZM1Q_FieldOf68_LaTulip_Here_s_why_Indiana_is_VERY_for_real_A_TOP_FIVE_Big_Ten_team_AF.txt  (1,616 words)
-NEW     CBB/transcripts/2026-11-22/qrU9MZz-Ub8_FieldOf68_Duke_ESCAPES_Washington_State_This_is_team_is_still_EXPERIMENTING_AFTE.txt  (3,392 words)
-NEW     CBB/transcripts/2026-11-22/oAdXvrvTRgw_FieldOf68_Michigan_has_some_MAJOR_flaws_Early_red_flags_for_the_Wolverines_AFTE.txt  (1,322 words)
-NEW     CBB/transcripts/2026-11-22/TvsJVbwJMd4_FieldOf68_PREVIEW_Players_Era_16_FULL_breakdown_Biggest_storylines_sleepers_and.txt  (3,702 words)
-NEW     CBB/transcripts/2026-11-22/4BAKnpBFMaE_FieldOf68_REACTION_to_Villanova_s_BIG_win_over_Michigan_This_is_STILL_a_top_3_Bi.txt  (1,142 words)
-NEW     CBB/transcripts/2026-11-22/Xp6wn7u2y4I_FieldOf68_Should_Duke_fans_panic_Villanova_beats_Michigan_Players_Era_16_preview.txt  (17,022 words)
+NEW     CBB/transcripts/2026-11-23/wIjuHp-3TeE_CBSCollegeBB_Jon_Rothstein_previews_the_Duke_UConn_SHOWDOWN_in_Las_Vegas_Feast_Week.txt  (1,752 words)
+NEW     CBB/transcripts/2026-11-23/FlM0dIqnL70_CBSCollegeBB_We_ll_talk_about_this_team_DIFFERENTLY_after_this_week_Players_Era_16.txt  (1,565 words)
+NEW     CBB/transcripts/2026-11-23/1BEsCu29OHo_CBSCollegeBB_Jon_Rothstein_Previews_FEAST_WEEK_Duke_vs_UConn_Tricky_Spots_for_Kentu.txt  (6,700 words)
+NOCAPS  FieldOf68 W7PNftH1JMM MW INSIDER: Sundance Wicks on Wyoming's HOT Start, Changing   (no captions; Groq: still live - audio not final yet)
+UPCOMING FieldOf68 4DTvZCpwppY OVERREACTION MONDAY! Plus, action underway in Maui and a FUL  (not aired yet - scheduled for 11/23/26 11:00PM)
+NOCAPS  FieldOf68 SAx4zakg1tE A-10 INSIDER: Rhode Island's Archie Miller on the 6-1 start,  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-23/6xVTy2OrX8c_FieldOf68_These_are_the_MOST_SURPRISING_teams_in_college_basketball_this_season.txt  (3,011 words)
+NEW     CBB/transcripts/2026-11-23/47SSDQxHtl8_FieldOf68_These_are_the_MOST_DISAPPOINTING_teams_in_college_basketball_this_seas.txt  (1,816 words)
+NEW     CBB/transcripts/2026-11-23/1UVUSbWxrbE_FieldOf68_THIS_is_how_to_fix_Duke_There_s_one_change_that_Jon_Scheyer_can_make.txt  (2,471 words)
+NEW     CBB/transcripts/2026-11-23/FfeWK0_OSxs_FieldOf68_These_are_the_ONLY_college_basketball_teams_that_can_win_the_national.txt  (1,123 words)
+NEW     CBB/transcripts/2026-11-23/WwkNvLO-9OI_FieldOf68_Who_is_ACTUALLY_college_basketball_s_best_team_Illinois_vs_Virginia_vs.txt  (3,334 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-23/XQl664iQMwQ_TCE_College_Basketball_PICKS_ONLY_Monday_November_23rd_TCE_Trims.txt  (10,925 words)
-NEW     CBB/transcripts/2026-11-23/fdGoNN3IlX4_TCE_Maui_Invitational_Futures_and_Best_Bets_College_Basketball_Picks_Today.txt  (3,448 words)
-NEW     CBB/transcripts/2026-11-23/xTzcfal6TRE_TCE_College_Basketball_Picks_For_November_23rd_NCAA_Basketball_Banter_Best.txt  (19,117 words)
-NEW     CBB/transcripts/2026-11-23/nDmCF2c2XaY_BBOC_College_Basketball_FEAST_WEEK_PICKS_Best_Bets_Tournament_Predictions.txt  (11,742 words)
-UPCOMING SGPN E808tlxAOBc College Basketball Picks: Tue, Nov 24th, Wed, Nov 25th & Thu  (not aired yet - scheduled for 11/23/26 1:00PM)
-NEW     CBB/transcripts/2026-11-23/60K2C81pXNE_ActionNetwork_COLLEGE_BASKETBALL_FEAST_WEEK_Best_Bets_for_Every_Major_Tournament.txt  (11,208 words, via Groq)
-NOCAPS  WagerTalk lms2cdCIkJ4 College Basketball Picks TODAY! Winthrop vs Illinois + Color  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.1h ago))
-NEW     CBB/transcripts/2026-11-23/fD863FTFAzs_WagerTalk_MONDAY_CBB_Picks_TODAY_Washington_vs_BYU_VCU_vs_Providence.txt  (1,681 words)
-NOCAPS  WagerTalk v8ExpIdFaes College Basketball Picks Today: Monday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
-NOCAPS  WagerTalk YGt0qxDUtGU College Basketball Picks Today: Monday CBB Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-23/TseIBkXdaXA_PickDawgz_Free_CBB_Betting_Picks_Predictions_Today_11_23_2026_Brian_s_Take_it_to.txt  (286 words)
-NEW     CBB/transcripts/2026-11-23/flQL0mJr1HA_PickDawgz_College_Basketball_Picks_for_Today_11_123_26_Monday_s_Best_College_Bas.txt  (3,784 words)
+NEW     CBB/transcripts/2026-11-23/N-o-F_SE8CQ_TCE_College_Basketball_Best_Bets_For_November_23rd_Spread_Moneyline_Bettin.txt  (971 words)
+NONE    channel BBOC: nothing new in the date window (or everything already saved)
+NOCAPS  SGPN E808tlxAOBc College Basketball Picks: Tue, Nov 24th, Wed, Nov 25th & Thu  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+UPCOMING SportsLine 19fDrsvrMNM College Basketball Bets + NBA Pick + Champions League Picks   (not aired yet - scheduled for 11/24/26 10:00AM)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -44,5 +50,6 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NEW     CBB/transcripts/2026-11-23/EbxwVYoWq0o_FieldOf68_WEEK_THREE_REACTIONS_Who_is_the_REAL_best_team_in_college_hoops_Who_ca.txt  (11,197 words, via Groq)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
