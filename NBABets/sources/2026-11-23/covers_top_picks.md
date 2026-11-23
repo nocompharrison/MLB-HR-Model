@@ -1,4 +1,4 @@
-<!-- source: https://www.covers.com/nba/top-picks-nov-23-2026 | fetched: 2026-11-23 16:11 ET -->
+<!-- source: https://www.covers.com/nba/top-picks-nov-23-2026 | fetched: 2026-11-23 18:08 ET -->
 
 [ ![Polymarket Logo](https://img.covers.com/betting/sportsbooks/403/polymarket_wt.svg) ](https://www.covers.com/betting/sportsbookredirect?slug=polymarket&sportsbookId=403&lang=en&vertical=dfs&location=sponsored-banner)
 Deposit $10, Get $25 Bonus 
@@ -9,10 +9,10 @@ CODE:  COVERS
 # NBA Best Bets Today: Top Picks From Every Game Preview
 ![](https://img.covers.com/covers/icons/global-icons/covers-c-new.svg)
 [Sean Tomlinson](https://www.covers.com/writers/sean-tomlinson) • Betting Analyst 16+ years betting experience
-Updated: Nov 23, 2026 , 02:29 PM ET • 4 min read
+Updated: Nov 23, 2026 , 05:22 PM ET • 4 min read
 Find out our NBA experts' top plays for Nov. 23.
 Jump to section:
-[MEM CHA](https://www.covers.com/nba/top-picks-nov-23-2026#MEM_CHA) [POR PHI](https://www.covers.com/nba/top-picks-nov-23-2026#POR_PHI) [MIL TOR](https://www.covers.com/nba/top-picks-nov-23-2026#MIL_TOR) [CLE CHI](https://www.covers.com/nba/top-picks-nov-23-2026#CLE_CHI) [PHX NOP](https://www.covers.com/nba/top-picks-nov-23-2026#PHX_NOP) [LAC HOU](https://www.covers.com/nba/top-picks-nov-23-2026#LAC_HOU) [SAS SAC](https://www.covers.com/nba/top-picks-nov-23-2026#SAS_SAC)
+[MEM CHA](https://www.covers.com/nba/top-picks-nov-23-2026#MEM_CHA) [POR PHI](https://www.covers.com/nba/top-picks-nov-23-2026#POR_PHI) [MIL TOR](https://www.covers.com/nba/top-picks-nov-23-2026#MIL_TOR) [OKC IND](https://www.covers.com/nba/top-picks-nov-23-2026#OKC_IND) [CLE CHI](https://www.covers.com/nba/top-picks-nov-23-2026#CLE_CHI) [PHX NOP](https://www.covers.com/nba/top-picks-nov-23-2026#PHX_NOP) [LAC HOU](https://www.covers.com/nba/top-picks-nov-23-2026#LAC_HOU) [SAS SAC](https://www.covers.com/nba/top-picks-nov-23-2026#SAS_SAC)
 ![NBA Best Bets Today. Joel Embiid, Miles Bridges, and Victor Wembanyama.](https://img.covers.com/cms/covers/68f827fd-cd7b-49d0-9e96-293abfb414ae.webp?w=64&h=64&ar=1:1&fit=crop)
 Photo By - Reuters Connect. Custom image of Joel Embiid, Miles Bridges, and Victor Wembanyama.
 We've assembled our **NBA predictions for Monday, Nov. 23** , with expert picks covering tonight's action. Our leading plays include spreads, a player prop, and a game total, with analysis from our Covers experts.
@@ -29,6 +29,9 @@ Quinn Allen  |
 |  **Bucks vs. Raptors**  
 7:30 p.m. ET  |  [Bucks +10.5](https://www.covers.com/betting/sportsbookredirect?sportsbookId=403&slug=polymarket&location=editorial)  
 Chris Walder  |  
+|  **Thunder vs. Pacers**  
+7:30 p.m. ET  |  [Thunder -6.5](https://www.covers.com/betting/sportsbookredirect?sportsbookId=403&slug=polymarket&location=editorial)  
+Zak Hanshew  |  
 |  **Cavaliers vs. Bulls**  
 8 p.m. ET  |  [Over 240.5](https://www.covers.com/betting/sportsbookredirect?sportsbookId=403&slug=polymarket&location=editorial)  
 Ed Scimia  |  
@@ -74,6 +77,15 @@ Philadelphia has the defensive profile to slow Portland down, while its recent s
 **Top pick:[Bucks +10.5](https://www.covers.com/betting/sportsbookredirect?sportsbookId=403&slug=polymarket&location=editorial)**
 Chris Walder believes the [Milwaukee Bucks](https://www.covers.com/sport/basketball/nba/teams/main/milwaukee-bucks) can keep this game closer than the double-digit spread suggests against the [Toronto Raptors](https://www.covers.com/sport/basketball/nba/teams/main/toronto-raptors). Milwaukee has covered in five of its last six games against a difficult run of opponents with a combined 66-33 record. The Bucks lost those six games by an average of just 7.6 points.
 Milwaukee also has a significant perimeter advantage, ranking fifth in 3-pointers made and third in attempts. Toronto has allowed opponents to shoot 37.2% from deep over its last five games, leaving the door open for the Bucks to stay within the number. Walder likes Milwaukee +10.5, playable down to +8.5, in his [Bucks vs. Raptors prediction](https://www.covers.com/nba/bucks-vs-raptors-prediction-picks-nov-23-2026).
+## Thunder vs. Pacers pick: Thunder -6.5
+  * Time: 7:30 p.m. ET
+  * TV: KSBI, DAZN IND, Thunder App
+  * Analyst: [Zak Hanshew](https://www.covers.com/writers/zak-hanshew)
+
+
+**Top pick:[Thunder -6.5](https://www.covers.com/betting/sportsbookredirect?sportsbookId=403&slug=polymarket&location=editorial)**
+Zak Hanshew is backing the [Oklahoma City Thunder](https://www.covers.com/sport/basketball/nba/teams/main/oklahoma-city-thunder/odds) to cover against the [Indiana Pacers](https://www.covers.com/sport/basketball/nba/teams/main/indiana-pacers), despite both teams dealing with significant absences. Oklahoma City has been missing much of its frontcourt rotation and key wing defenders, while Indiana is without [Tyrese Haliburton](https://www.covers.com/sport/basketball/nba/players/127634/tyrese-haliburton) and could also be missing [Pascal Siakam](https://www.covers.com/sport/basketball/nba/players/1764/pascal-siakam).
+The teams have been similarly ineffective lately, ranking 19th and 20th in net rating over their last seven games, respectively. Hanshew sees the difference in the presence of [Shai Gilgeous-Alexander](https://www.covers.com/sport/basketball/nba/players/5018/shai-gilgeous-alexander), who has the ability to take over a game and give the Thunder an edge. He likes Oklahoma City at -6.5 and would trade the spread at that number up to 52% in his [Thunder vs. Pacers prediction](https://www.covers.com/nba/thunder-vs-pacers-prediction-picks-nov-23-2026).
 ## Cavaliers vs. Bulls pick: Over 240.5
   * Time: 8 p.m. ET
   * TV: NBA League Pass, DIRECTV
@@ -146,14 +158,14 @@ Read More
 ![Colorado State vs. Arizona predictions. Custom image of Carey Booth and Ivan Kharchenkov.](https://img.covers.com/cms/covers/4b08804e-7be6-4a3f-b41a-a2f29c916e09.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Colorado State vs Arizona Prediction, Picks & Odds for Tonight's College Basketball Game ](https://www.covers.com/ncaab/colorado-state-vs-arizona-prediction-picks-nov-23-2026)
 ![Wild vs Sharks Predictions, Kirill Kaprizov, Macklin Celebrini, NHL](https://img.covers.com/cms/covers/e44b48a3-074e-44d0-9c9f-95b389ec4117.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Wild vs Sharks Prediction, Picks & Odds for Tonight’s NHL Game ](https://www.covers.com/nhl/wild-vs-sharks-prediction-picks-nov-23-2026)
 ![Ducks vs Kraken Predictions, Cutter Gauthier, Kaapo Kakko, NHL](https://img.covers.com/cms/covers/a8ba225f-34b4-401c-86fe-22abbf704b94.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Ducks vs Kraken Prediction, Picks & Odds for Tonight’s NHL Game ](https://www.covers.com/nhl/ducks-vs-kraken-prediction-picks-nov-23-2026)
-![VCU vs Providence Predictions](https://img.covers.com/cms/covers/a616686b-e255-422a-8d70-81b3bd41442d.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ VCU vs Providence Prediction, Picks & Odds for Tonight's College Basketball Game ](https://www.covers.com/ncaab/vcu-vs-providence-prediction-picks-nov-23-2026)
+![VCU vs Providence Predictions](https://img.covers.com/cms/covers/a616686b-e255-422a-8d70-81b3bd41442d.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ VCU vs Providence Prediction, Top Picks & Odds for Tonight's College Basketball Game ](https://www.covers.com/ncaab/vcu-vs-providence-prediction-picks-nov-23-2026)
 ###  Popular Content
+![Best NBA Player Props Today. Zion Williamson, Deni Avdija, and Brayden Burries.](https://img.covers.com/cms/covers/8ee6cda1-01f8-4146-b01b-2a74826bff2a.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Best NBA Player Props Today: Picks & Predictions for Monday, Nov. 23 ](https://www.covers.com/nba/player-props-nov-23-2026)
 ![Best NBA Combos Today](https://img.covers.com/cms/covers/71b7bad8-45d2-42ba-8227-304709eee231.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Best NBA Parlays Today: Top Same-Game Parlays & Combos for Monday, Nov. 23 ](https://www.covers.com/nba/top-parlays-combos-nov-23-2026)
+![Thunder vs. Pacers predictions](https://img.covers.com/cms/covers/6bd27fad-3b7e-4bf8-8b82-d552f0f57bfb.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Thunder vs Pacers Prediction, Picks & Best Bet for Tonight's NBA Game ](https://www.covers.com/nba/thunder-vs-pacers-prediction-picks-nov-23-2026)
 ![NBA Moneyline Picks, Phoenix Suns, Chicago Bulls and Philadelphia 76ers.](https://img.covers.com/cms/covers/dd65430a-a936-43f0-bc51-24fd0d008f9e.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ NBA Predictions and Moneyline Picks: Monday, Nov. 23 ](https://www.covers.com/nba/moneyline-predictions-picks-nov-23-2026)
 ![Jazz vs Lakers prediction. Keyonte George, Quentin Grimes, NBA. ](https://img.covers.com/cms/covers/4dbbe48b-4301-469d-9d99-a988d3a2b01d.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Jazz vs Lakers Prediction, Picks & Best Bet for Tonight's NBA Game ](https://www.covers.com/nba/jazz-vs-lakers-prediction-picks-nov-23-2026)
-![Best NBA Player Props Today. Zion Williamson, Deni Avdija, and Brayden Burries.](https://img.covers.com/cms/covers/8ee6cda1-01f8-4146-b01b-2a74826bff2a.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Best NBA Player Props Today: Picks & Predictions for Monday, Nov. 23 ](https://www.covers.com/nba/player-props-nov-23-2026)
 ![Cavaliers vs Bulls prediction. James Harden \(Cavs\) & Jalen Smith \(Bulls\)](https://img.covers.com/cms/covers/865213ec-ccd9-4921-a883-23e6dfc1ec7d.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Cavaliers vs Bulls Prediction, Picks & Best Bet for Tonight's NBA Game ](https://www.covers.com/nba/cavaliers-vs-bulls-prediction-picks-nov-23-2026)
-![Thunder vs Pacers Computer Picks. Isaiah Hartenstein, Oklahoma City Thunder, Ivica Zubac, Indiana Pacers, NBA](https://img.covers.com/cms/covers/44c8e25d-f1d2-4586-863b-2c5384926f43.webp?w=58&ar=58:58&?fp-x=0.5&fp-y=0.5&fp-z=2&fit=crop&auto=compress) [ Thunder vs Pacers Computer Picks: Our Best NBA Player Prop Projections ](https://www.covers.com/nba/thunder-vs-pacers-player-props-computer-projections-nov-23-2026)
 ### Prediction Apps
 [Prediction Market Apps](https://www.covers.com/betting/prediction-sites) [Prediction Market Promos](https://www.covers.com/betting/best-prediction-market-promos) [Kalshi Promo Code](https://www.covers.com/betting/bonuses/kalshi-promo-code) [Kalshi Referral Code](https://www.covers.com/betting/bonuses/kalshi-referral-code) [Polymarket Promo Code](https://www.covers.com/betting/bonuses/polymarket-promo-code) [Polymarket Referral Code](https://www.covers.com/betting/bonuses/polymarket-referral-code) [Novig Promo Code](https://www.covers.com/betting/bonuses/novig-promo-code) [ProphetX Promo Code](https://www.covers.com/betting/bonuses/prophetx-promo-code) [Underdog Promo Code](https://www.covers.com/betting/bonuses/underdog-fantasy-promo-code) [Betr Promo Code](https://www.covers.com/betting/bonuses/betr-promo-code) [OG Promo Code](https://www.covers.com/betting/bonuses/og-promo-code) [Plus500 Promo Code](https://www.covers.com/betting/bonuses/plus500-promo-code) [Gemini Predictions Promo Code](https://www.covers.com/betting/bonuses/gemini-predictions-promo-code) [DraftKings Predictions Promo Code](https://www.covers.com/betting/bonuses/draftkings-predictions-promo-code)
 [About Us](https://www.covers.com/about)

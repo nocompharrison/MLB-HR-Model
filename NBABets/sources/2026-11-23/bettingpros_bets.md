@@ -1,4 +1,4 @@
-<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-23/ | fetched: 2026-11-23 16:11 ET -->
+<!-- source: https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-23/ | fetched: 2026-11-23 18:08 ET -->
 
 Title: NBA Picks & Predictions: Monday (11/23)
 
@@ -599,17 +599,15 @@ Click to expand picks panel
 
 Click to open Sharp AI
 
-[![Image 2: freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=display&utm_source=bettingpros.com&utm_content=bp_ad_728x90)
-
 # NBA Picks & Predictions: Monday (11/23)
+
+![Image 2: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 23, 2026
 
 ![Image 3: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 23, 2026
 
-![Image 4: Author image](https://secure.gravatar.com/avatar/13db04aa5dbda8edc4cd2023a024fda171f8519d0a58a091fba8100baf186a3d?s=24&d=https%3A%2F%2Fwww.bettingpros.com%2Fwp%2Fwp-content%2Fuploads%2Fbp-avatar.jpg&r=g)by [Frank Ammirante](https://www.bettingpros.com/articles/author/frank-ammirante/)|Nov 23, 2026
+[![Image 4: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 5: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 6: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 7: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 8: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
 
-[![Image 5: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 6: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 7: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 8: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 9: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
-
-![Image 10: NBA Picks & Predictions: Monday (11/23)](https://www.bettingpros.com/img/luka_doncic_lakers_11-1.jpg/1470x650.webp)[![Image 11: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 12: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 13: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 14: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 15: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
+![Image 9: NBA Picks & Predictions: Monday (11/23)](https://www.bettingpros.com/img/luka_doncic_lakers_11-1.jpg/1470x650.webp)[![Image 10: Twitter](https://www.bettingpros.com/assets/images/logos/social/twitter-x.svg)](https://twitter.com/BettingPros)[![Image 11: Instagram](https://www.bettingpros.com/assets/images/logos/social/instagram.svg)](https://www.instagram.com/bettingprosnfl)[![Image 12: TikTok](https://www.bettingpros.com/assets/images/logos/social/tiktok.svg)](https://www.tiktok.com/@bettingpros)[![Image 13: YouTube](https://www.bettingpros.com/assets/images/logos/social/youtube.svg)](https://www.youtube.com/bettingpros)[![Image 14: Discord](https://www.bettingpros.com/assets/images/logos/social/discord.svg)](https://discord.gg/YaVeB7J9hK)
 
 We have 10 NBA games scheduled today, so several betting options are available. Here are my two best [NBA picks](https://www.bettingpros.com/articles/sports/picks-nba/) for Monday, November 23rd.
 
@@ -621,7 +619,7 @@ We have 10 NBA games scheduled today, so several betting options are available. 
 
 **[Get instant alerts when a line reaches your target via the BettingPros App >>](https://www.bettingpros.com/sports-betting-apps/#download?tag=bp-articles)**
 
-[![Image 16: NBA +EV](https://www.bettingpros.com/img/NBA-EV-1-1.png/0x0.webp)](https://www.bettingpros.com/market-ev/nba/)
+[![Image 15: NBA +EV](https://www.bettingpros.com/img/NBA-EV-1-1.png/0x0.webp)](https://www.bettingpros.com/market-ev/nba/)
 
 ## **Monday’s****Best NBA Picks & Predictions**
 
@@ -651,7 +649,7 @@ I know 13.5 points is a big spread, but this feels like a potential blowout. The
 
 * * *
 
-[![Image 17: BettingPros App 3.0](https://www.bettingpros.com/img/bettingpros_app_launch_1470650.png/0x0.webp)](https://www.bettingpros.com/appDownload/?tag=bp-articles)
+[![Image 16: BettingPros App 3.0](https://www.bettingpros.com/img/bettingpros_app_launch_1470650.png/0x0.webp)](https://www.bettingpros.com/appDownload/?tag=bp-articles)
 
 ## Related articles
 
@@ -668,14 +666,14 @@ I know 13.5 points is a big spread, but this feels like a potential blowout. The
 
 Current Article|2 min read
 
-![Image 18: Player image for next featured article](https://www.bettingpros.com/img/jayden_daniels_commanders_12-1-65x65.jpg/65x65.webp)Next Up: NFL Monday Night Football Same Game Parlay: Bengals vs. Commanders[Next Article](https://www.bettingpros.com/articles/nfl-monday-night-football-same-game-parlay-bengals-vs-commanders/)
+![Image 17: Player image for next featured article](https://www.bettingpros.com/img/jayden_daniels_commanders_12-1-65x65.jpg/65x65.webp)Next Up: NFL Monday Night Football Same Game Parlay: Bengals vs. Commanders[Next Article](https://www.bettingpros.com/articles/nfl-monday-night-football-same-game-parlay-bengals-vs-commanders/)
 
 Start here!
 ## New to BettingPros?
 
 Create a BettingPros account and sync your sportsbooks for free!
 
-[![Image 19: Google Logo](https://www.bettingpros.com/assets/images/logos/google-g.webp) Continue with Google](https://secure.bettingpros.com/accounts/google/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-monday-11-23%252F&action=signed_in)[![Image 20: Apple Logo](https://www.bettingpros.com/assets/images/logos/apple-black.svg) Continue with Apple](https://secure.bettingpros.com/accounts/apple/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-monday-11-23%252F&action=signed_in)
+[![Image 18: Google Logo](https://www.bettingpros.com/assets/images/logos/google-g.webp) Continue with Google](https://secure.bettingpros.com/accounts/google/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-monday-11-23%252F&action=signed_in)[![Image 19: Apple Logo](https://www.bettingpros.com/assets/images/logos/apple-black.svg) Continue with Apple](https://secure.bettingpros.com/accounts/apple/login/?next=https%3A%2F%2Fwww.bettingpros.com%2Faccounts%2Fredirect%2F%3Fthen%3Dhttps%253A%252F%252Fwww.bettingpros.com%252Farticles%252Fnba-picks-predictions-monday-11-23%252F&action=signed_in)
 
 [Create an Account](https://www.bettingpros.com/accounts/signup/?next=https%3A%2F%2Fwww.bettingpros.com%2Farticles%2Fnba-picks-predictions-monday-11-23%2F) By registering or logging in, you agree to our [Terms of Use](https://www.bettingpros.com/terms/) and [Privacy Policy](https://www.bettingpros.com/privacy-policy/). 
 
@@ -683,17 +681,17 @@ Create a BettingPros account and sync your sportsbooks for free!
 
 ## Partner Offers
 
-*   [![Image 21: Logo for Novig](https://www.bettingpros.com/assets/images/books/novig-icon.svg)Novig Deposit $10, Get $50](https://btng.pro/ZL6ZMc)
-*   [![Image 22: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
-*   [![Image 23: Logo for Plus500](https://www.bettingpros.com/assets/images/books/plus500-icon.webp)Plus500 Trade $10, Get $20](https://btng.pro/MxFTo3)
-*   [![Image 24: Logo for DraftKings Pick6](https://www.bettingpros.com/assets/images/books/draftkings-pick6-icon.webp)DraftKings Pick6 Spend $5, Get $25](https://btng.pro/yBY6om)
-*   [![Image 25: Logo for Kalshi](https://www.bettingpros.com/assets/images/books/kalshi-icon.webp)Kalshi Trade $25, Get $25](https://btng.pro/fZlQbW)
+*   [![Image 20: Logo for Novig](https://www.bettingpros.com/assets/images/books/novig-icon.svg)Novig Deposit $10, Get $50](https://btng.pro/ZL6ZMc)
+*   [![Image 21: Logo for Polymarket US](https://www.bettingpros.com/assets/images/books/polymarket-usa-icon.webp)Polymarket US Deposit $10, Get $25](https://btng.pro/D1wLDQ)
+*   [![Image 22: Logo for Plus500](https://www.bettingpros.com/assets/images/books/plus500-icon.webp)Plus500 Trade $10, Get $20](https://btng.pro/MxFTo3)
+*   [![Image 23: Logo for DraftKings Pick6](https://www.bettingpros.com/assets/images/books/draftkings-pick6-icon.webp)DraftKings Pick6 Spend $5, Get $25](https://btng.pro/yBY6om)
+*   [![Image 24: Logo for Kalshi](https://www.bettingpros.com/assets/images/books/kalshi-icon.webp)Kalshi Trade $25, Get $25](https://btng.pro/fZlQbW)
 
 Click to view more sportsbook offers
 
 * * *
 
-![Image 26: User groups icon](https://www.bettingpros.com/assets/icons/user-groups-icon.svg)
+![Image 25: User groups icon](https://www.bettingpros.com/assets/icons/user-groups-icon.svg)
 
 Top Groups
 
@@ -719,43 +717,41 @@ Join
 
 * * *
 
-[![Image 27: freestar](https://a.pub.network/core/imgs/fslogo-green.svg)](https://ads.freestar.com/?utm_campaign=branding&utm_medium=display&utm_source=bettingpros.com&utm_content=bp_ad_300x250_1)
-
 * * *
 
 ## Recent Articles
 
-[![Image 28: Article image](https://www.bettingpros.com/img/jayden_daniels_commanders_12-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-same-game-parlay-bengals-vs-commanders/)
+[![Image 26: Article image](https://www.bettingpros.com/img/jayden_daniels_commanders_12-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-same-game-parlay-bengals-vs-commanders/)
 
 [NFL Monday Night Football Same Game Parlay: Bengals vs. Commanders](https://www.bettingpros.com/articles/nfl-monday-night-football-same-game-parlay-bengals-vs-commanders/)
 
-[4 hours ago](https://www.bettingpros.com/articles/author/dan-servodidio/)
+[6 hours ago](https://www.bettingpros.com/articles/author/dan-servodidio/)
 
-[![Image 29: Article image](https://www.bettingpros.com/img/Jayden_Daniels_Commanders-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-player-props-picks-bengals-vs-commanders-2026-week-11/)
+[![Image 27: Article image](https://www.bettingpros.com/img/Jayden_Daniels_Commanders-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-player-props-picks-bengals-vs-commanders-2026-week-11/)
 
 [NFL Monday Night Football Player Props & Picks: Bengals vs. Commanders](https://www.bettingpros.com/articles/nfl-monday-night-football-player-props-picks-bengals-vs-commanders-2026-week-11/)
 
-[5 hours ago](https://www.bettingpros.com/articles/author/matthew-mackay/)
+[7 hours ago](https://www.bettingpros.com/articles/author/matthew-mackay/)
 
-[![Image 30: Article image](https://www.bettingpros.com/img/chase_brown_bengals_4-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-anytime-first-td-scorers-bengals-vs-commanders-week-11-2026/)
+[![Image 28: Article image](https://www.bettingpros.com/img/chase_brown_bengals_4-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-anytime-first-td-scorers-bengals-vs-commanders-week-11-2026/)
 
 [NFL Monday Night Football Anytime & First TD Scorers: Bengals vs. Commanders](https://www.bettingpros.com/articles/nfl-monday-night-football-anytime-first-td-scorers-bengals-vs-commanders-week-11-2026/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/mike-fanelli/)
+[11 hours ago](https://www.bettingpros.com/articles/author/mike-fanelli/)
 
-[![Image 31: Article image](https://www.bettingpros.com/img/chig_okonkwo_commanders_1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-picks-predictions-bengals-vs-commanders-week-11-2026/)
+[![Image 29: Article image](https://www.bettingpros.com/img/chig_okonkwo_commanders_1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nfl-monday-night-football-picks-predictions-bengals-vs-commanders-week-11-2026/)
 
 [NFL Monday Night Football Picks & Predictions: Bengals vs. Commanders](https://www.bettingpros.com/articles/nfl-monday-night-football-picks-predictions-bengals-vs-commanders-week-11-2026/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
+[11 hours ago](https://www.bettingpros.com/articles/author/richard-janvrin/)
 
-[![Image 32: Article image](https://www.bettingpros.com/img/Joe_Burrow_1470x650-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-nfl-player-props-monday-night-football-bengals-vs-commanders-week-11-2026/)
+[![Image 30: Article image](https://www.bettingpros.com/img/Joe_Burrow_1470x650-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/best-nfl-player-props-monday-night-football-bengals-vs-commanders-week-11-2026/)
 
 [Best NFL Player Props: Monday Night Football (Bengals vs. Commanders)](https://www.bettingpros.com/articles/best-nfl-player-props-monday-night-football-bengals-vs-commanders-week-11-2026/)
 
-[9 hours ago](https://www.bettingpros.com/articles/author/blaine/)
+[11 hours ago](https://www.bettingpros.com/articles/author/blaine/)
 
-[![Image 33: Article image](https://www.bettingpros.com/img/hugo_gonzalez_celtics_1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nba-picks-predictions-sunday-11-22/)
+[![Image 31: Article image](https://www.bettingpros.com/img/hugo_gonzalez_celtics_1-1-120x120.jpg/120x120.webp)](https://www.bettingpros.com/articles/nba-picks-predictions-sunday-11-22/)
 
 [NBA Picks & Predictions: Sunday (11/22)](https://www.bettingpros.com/articles/nba-picks-predictions-sunday-11-22/)
 
@@ -769,15 +765,15 @@ Join
 *   [Betting 101 When to Place Your NFL Bets](https://www.bettingpros.com/articles/sports-betting-when-should-you-place-your-nfl-bets/)
 *   [Betting 101 10 Tips to Become a Sharp Bettor](https://www.bettingpros.com/articles/10-tips-to-become-a-sharper-sports-bettor/)
 *   [Betting 101 Win Totals Strategy](https://www.bettingpros.com/articles/win-totals-strategy-for-sports-betting/)
-*   [Betting 101 Learn to Win at Sports Betting](https://www.bettingpros.com/articles/how-to-win-at-sports-betting/)
+*   [Betting 101 Fading the Public](https://www.bettingpros.com/articles/fading-the-public-in-sports-betting/)
 
 [View More](https://www.bettingpros.com/sports-betting-strategy-advice-tips/)
 
 * * *
 
-BettingPros App Betting Systems![Image 34: Line alert example image](https://www.bettingpros.com/assets/images/betting-systems-promo.webp)Download the App and access 20,000+ systems across various sports at your fingertips![Get the App](https://www.bettingpros.com/sports-betting-apps/)
+BettingPros App Betting Systems![Image 32: Line alert example image](https://www.bettingpros.com/assets/images/betting-systems-promo.webp)Download the App and access 20,000+ systems across various sports at your fingertips![Get the App](https://www.bettingpros.com/sports-betting-apps/)
 
-[![Image 35: BettingPros Logo](https://www.bettingpros.com/assets/images/logos/bettingpros/full/secondary.svg)Click to go to homepage](https://www.bettingpros.com/)
+[![Image 33: BettingPros Logo](https://www.bettingpros.com/assets/images/logos/bettingpros/full/secondary.svg)Click to go to homepage](https://www.bettingpros.com/)
 *   [NFL Home](https://www.bettingpros.com/nfl/)
 *   [Odds](https://www.bettingpros.com/nfl/odds/spread/)
 *   [Picks](https://www.bettingpros.com/nfl/picks/prop-bets/)
@@ -826,6 +822,4 @@ BettingPros App Betting Systems![Image 34: Line alert example image](https://www
 
  Do Not Sell My Personal Information The content of this website is intended to be used for entertainment purposes only.   
 Please be aware of and respect the laws regarding sports betting for your jurisdiction.We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NFL, MLB, NBA, NHL, PGA, UFC, WNBA, or any other league or team. Any names, logos, or images are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.[Do you or someone you know have a gambling problem?](https://www.bettingpros.com/responsible-gaming/ "Responsible Gaming")
-
-![Image 36](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001795468282-IOPRK7FB-DFDP&halo_id=060ixfkju6a659d9c9f6666666666666666uooywi0e0y6k6i6o00000000000000)![Image 37](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001795468282-IOPRK7FB-DFDP)![Image 38](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001795468282-IOPRK7FB-DFDP&adnxs_id=$UID&gdpr=0)![Image 39](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001795468282-IOPRK7FB-DFDP%26auid%3DAU1D-0100-001795468282-IOPRK7FB-DFDP&gdpr=0)![Image 40](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001795468282-IOPRK7FB-DFDP&gdpr=0)![Image 41](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001795468282-IOPRK7FB-DFDP&gdpr=0)![Image 42](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001795468282-IOPRK7FB-DFDP&gdpr=0)![Image 43](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001795468282-IOPRK7FB-DFDP&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001795468282-IOPRK7FB-DFDP%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 44](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5NTQ2ODI4Mi1JT1BSSzdGQi1ERkRQ&id=AU1D-0100-001795468282-IOPRK7FB-DFDP&gdpr=0)![Image 45](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001795468282-IOPRK7FB-DFDP)![Image 46](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001795468282-IOPRK7FB-DFDP&uid=[UID]&gdpr=0)![Image 47](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001795468282-IOPRK7FB-DFDP%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)
 
