@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829 | fetched: 2026-11-23 18:38 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829 | fetched: 2026-11-23 18:53 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Monday, Nov. 23
 Get the best NBA bets today, with expert player prop picks on points + rebounds and points + assists, plus odds from top sportsbooks for Monday's Nov. 23 NBA slate.
@@ -83,6 +83,11 @@ Detroit Pistons
 Agrees to deal with Mets
 MLB
 New York Mets
+  * ![Kansas City Royals](https://assets.rotowire.com/images/teamlogo/baseball/100KC.png?v=8)
+[Caleb Thielbar](https://www.rotowire.com/baseball/player/caleb-thielbar-12766)
+Lands one-year deal with Royals
+MLB
+Kansas City Royals
   * ![New York Yankees](https://assets.rotowire.com/images/teamlogo/baseball/100NYY.png?v=8)
 [Brent Suter](https://www.rotowire.com/baseball/player/brent-suter-13302)
 Lands in the Bronx
@@ -98,10 +103,6 @@ Washington Nationals
 Headed to Cleveland as NRI
 MLB
 Cleveland Guardians
-  * ![](https://assets.rotowire.com/images/teamlogo/baseball/100fa.png?v=8)
-[Kyle Isbel](https://www.rotowire.com/baseball/player/kyle-isbel-15466)
-Becomes free agent
-MLB
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
@@ -115,6 +116,11 @@ Detroit Pistons
 Off injury report
 NBA
 Oklahoma City Thunder
+  * ![Memphis Grizzlies](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Kris Murray](https://www.rotowire.com/basketball/player/kris-murray-5943)
+Starting Monday
+NBA
+Memphis Grizzlies
   * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
 [Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
 Good to go Monday
@@ -125,11 +131,6 @@ Chicago Bulls
 Iffy for Tuesday
 NBA
 Dallas Mavericks
-  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
-[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
-Available to play
-NBA
-Chicago Bulls
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

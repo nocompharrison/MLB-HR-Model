@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-23 18:38 ET -->
+<!-- source: https://www.fanduel.com/research/nba | fetched: 2026-11-23 18:53 ET -->
 
 
 ---
@@ -15,7 +15,7 @@ START YOUR OWN WINNING STREAK
 # 8 Best NBA Bets and NBA Player Props Tonight for Monday, November 23
 ![Chris Beck](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://www.fanduel.com/research/author/chris-beck)
-2h
+3h
 Link
 ![8 Best NBA Bets and NBA Player Props Tonight for Monday, November 23](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fbc3603b24273e21b175f80c1ba98c54ee5564ec7-3180x2120.jpg%3Frect%3D0%2C273%2C3180%2C1574%26w%3D964%26h%3D477&w=1920&q=100)
 **8 Best NBA Bets and Player Props for Monday, November 23**
@@ -99,7 +99,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [8 Best NBA Bets and NBA Player Props Tonight for Monday, November 23](https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23)
-2h
+3h
 Thunder -5.5, Bucks +10.5, Jazz +13.5, and Suns -2.5 headline our best NBA bets for Monday, with Joel Embiid, Cedric Coward, Michael Porter Jr., and Scottie Barnes leading the player props.
 [](https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23)
 [NBA](https://www.fanduel.com/research/nba)
@@ -209,7 +209,7 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [8 Best NBA Bets and NBA Player Props Tonight for Monday, November 23](https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23)
-2h
+3h
 Thunder -5.5, Bucks +10.5, Jazz +13.5, and Suns -2.5 headline our best NBA bets for Monday, with Joel Embiid, Cedric Coward, Michael Porter Jr., and Scottie Barnes leading the player props.
 [](https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23)
 [NBA](https://www.fanduel.com/research/nba)
