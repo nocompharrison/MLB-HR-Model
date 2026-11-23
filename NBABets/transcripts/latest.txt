@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-23 | updated 2026-11-23 18:38 ET
+# NBABets transcripts | 2026-11-23 | updated 2026-11-23 18:54 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 2 files in NBABets/transcripts/2026-11-23:
 NBABets/transcripts/2026-11-23/BqnDyLnhIoE_ChrisBets_Nov_23rd_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
