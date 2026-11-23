@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-23 11:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-23 16:05 ET -->
 
 
 ---
@@ -318,45 +318,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 The weekday portion of the Association’s rather unique Thanksgiving week slate kicks off with a massive 10-game ledger Monday that features a Trail Blazers-76ers interconference showdown.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 Let’s dive into three player props that catch our eye for Monday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -366,17 +350,17 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 *   James Harden Over 25.5 Points + Assists
 *   Fred VanVleet Over 14.5 Points + Assists
 
-### **Scottie Barnes (Raptors vs. Bucks) Over Points**[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (75¢)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_ia)
+### **Scottie Barnes (Raptors vs. Bucks) Over Points**[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (75¢)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)
 
 [](https://www.lineups.com/)
 
 ![Image 33](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)Scottie Barnes
 
-[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_ia)[O/U Points Scored (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_ia)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_ia)
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)[O/U Points Scored (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)
 
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_ia)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_ia)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_ia)
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)
 
-[![Image 36: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/polymarket_ia)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/polymarket_ia)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/polymarket_ia)
+[![Image 36: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)
 
 [![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/scottie_barnes/player_147548 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -388,17 +372,17 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 
 **Original Line Publish:** 19.5
 
-### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**[![Image 38: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)25.5 (-114)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661123/fanduel_ia)
+### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)25.5 (55¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661123/underdog_sc)
 
 [](https://www.lineups.com/)
 
 ![Image 39](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)James Harden
 
-[![Image 40: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/fanduel_ia)[O/U Points Scored (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/fanduel_ia)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/fanduel_ia)
+[![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/polymarket_sc)[O/U Points Scored (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/polymarket_sc)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/polymarket_sc)
 
-[![Image 41: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/fanduel_ia)[O/U Total Rebounds (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/fanduel_ia)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/fanduel_ia)
+[![Image 41: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/polymarket_sc)[O/U Total Rebounds (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/polymarket_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/polymarket_sc)
 
-[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_ia)[O/U Total Assists (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_ia)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_ia)
+[![Image 42: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_sc)[O/U Total Assists (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/kalshi_sc)
 
 [![Image 43](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/james_harden/player_11801 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -410,17 +394,17 @@ Finally, it’s worth noting Cleveland’s slate-high 124.5-point implied team t
 
 **Original Line Publish**: 25.5
 
-### **Fred VanVleet (Rockets vs. Clippers) Over Points + Assists**[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)14.5 (75¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661125/underdog_ia)
+### **Fred VanVleet (Rockets vs. Clippers) Over Points + Assists**[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (53¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661125/underdog_sc)
 
 [](https://www.lineups.com/)
 
 ![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10200.png)Fred VanVleet
 
-[![Image 46: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/mgm_ia)[O/U Points Scored (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/mgm_ia)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/mgm_ia)
+[![Image 46: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/underdog_sc)[O/U Points Scored (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/underdog_sc)[13.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/underdog_sc)
 
-[![Image 47: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)[O/U Total Rebounds (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)
+[![Image 47: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)[O/U Total Rebounds (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)
 
-[![Image 48: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/draftkings_ia)[O/U Total Assists (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/draftkings_ia)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/draftkings_ia)
+[![Image 48: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)[O/U Total Assists (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)
 
 [![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/fred_vanvleet/player_56167 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -975,45 +959,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 Sunday brings us a seven-day slate that opens with a Pistons-Hawks mid-afternoon showdown and wraps with a Celtics-Warriors clash at 8:30 p.m. ET.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-jamal-murray-desmond-bane-and-darryn-peterson-best-bets/)
 
 Let’s dive into three player props that catch our eye for Sunday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -1029,11 +997,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 33: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)[+75000](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)
 
-[![Image 34: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)[+7500](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)
 
-[![Image 35: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)[+17500](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)
+[![Image 35: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)[To Win Clutch Player of the Year](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)[7¢](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)
 
 [![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -1041,11 +1009,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 38: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)[+75000](https://lineups.go.metabet.io/bet/nba_mvp/56172/mgm_ia)
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/56172/kalshi_sc)
 
-[![Image 39: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)[+7500](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/56172/draftkings_ia)
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/56172/kalshi_sc)
 
-[![Image 40: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)[+17500](https://lineups.go.metabet.io/bet/nba_mvp_west/56172/fanduel_ia)
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)[To Win Clutch Player of the Year](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)[7¢](https://lineups.go.metabet.io/bet/nba_clutch_player_of_the_year/56172/kalshi_sc)
 
 [![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -1061,13 +1029,9 @@ The matchup Sunday gives Murray a good chance of delivering one of his higher-pe
 
 ![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10213.png)Desmond Bane
 
-[![Image 43: Bet365](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/bet_365.svg)](https://lineups.go.metabet.io/bet/nba_mvp/58143/bet_365_ia)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/58143/bet_365_ia)[+100000](https://lineups.go.metabet.io/bet/nba_mvp/58143/bet_365_ia)
+[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/58143/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/58143/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/58143/kalshi_sc)
 
-[![Image 44: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/58143/mgm_ia)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/58143/mgm_ia)[+10000](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/58143/mgm_ia)
-
-[![Image 45: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_east/58143/draftkings_ia)[To Win Eastern Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_east/58143/draftkings_ia)[+12000](https://lineups.go.metabet.io/bet/nba_mvp_east/58143/draftkings_ia)
-
-[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/desmond_bane/player_58143 "Powered by MetaBet")[](https://www.metabet.io/odds)
+[![Image 44](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/desmond_bane/player_58143 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Bane hasn’t been quite as productive so far this season as he was during his 2025-26 Magic debut campaign, but the veteran wing is still providing a solid 18.6 points, 4.1 rebounds, 2.7 assists and 1.2 steals per contest. Bane has shot just 42.5% overall, which is easily a career-low figure, but his 42.9% success rate from deep is his best figure since the 2021-22 season.
 
@@ -1079,15 +1043,15 @@ Bane has been markedly more productive and efficient in recent games, however, s
 
 [](https://www.lineups.com/)
 
-![Image 47](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10221.png)Darryn Peterson
+![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10221.png)Darryn Peterson
 
-[![Image 48: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/draftkings_ia)[O/U Points Scored (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/draftkings_ia)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/draftkings_ia)
+[![Image 46: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)[O/U Points Scored (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)
 
-[![Image 49: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/draftkings_ia)[O/U Total Rebounds (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/draftkings_ia)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/draftkings_ia)
+[![Image 47: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)[O/U Total Rebounds (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)
 
-[![Image 50: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/draftkings_ia)[O/U Total Assists (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/draftkings_ia)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/draftkings_ia)
+[![Image 48: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)[O/U Total Assists (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)
 
-[![Image 51](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darryn_peterson/player_276494 "Powered by MetaBet")[](https://www.metabet.io/odds)
+[![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darryn_peterson/player_276494 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Peterson is starting to hit his stride at the NBA level after a lackluster first seven games of his debut season. The rookie second overall pick has gone off for averages of 20.3 points, 4.9 rebounds, 4.1 assists and 1.2 steals per contest in his next nine contests, and he just contributed his first career double-double Friday against the Suns. He’s also boosted his offensive usage over the latter span, putting up 16.2 field-goal attempts per contest after averaging 13.1 in the first seven contests.
 
@@ -1123,27 +1087,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 52: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 50: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)[NFL Monday Medical Report Recap: Herbert Enters Concussion Protocol, Henry Leaves Game for Possible Concussion](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
-[![Image 53: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 51: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 54: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 52: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)[NHL Goal Picks Today: Timo Meier, Adrian Kempe & Mathew Barzal Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
-[![Image 55: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 53: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)[NBA Player Props Today: Scottie Barnes, James Harden and Fred VanVleet Best Bets](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
-[![Image 56: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
+[![Image 54: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 #### [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)[Bengals-Commanders Picks, Predictions & Odds: NFL Week 11](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
@@ -1154,7 +1118,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 57: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 58: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 55: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 56: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1169,7 +1133,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 59: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 57: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1179,7 +1143,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)November 23, 2026
 
-[![Image 60: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 58: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1189,7 +1153,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 23, 2026
 
-[![Image 61: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 59: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1199,7 +1163,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 23, 2026
 
-[![Image 62: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
+[![Image 60: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1209,7 +1173,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 22, 2026
 
-[![Image 63: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
+[![Image 61: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1219,7 +1183,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 22, 2026
 
-[![Image 64: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
+[![Image 62: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1638,45 +1602,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 We have a six-game slate on tap Saturday that includes a 1 p.m. ET start, but we’re focusing on the evening portion of the ledger and some big-name players.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-kyrie-irving-karl-anthony-towns-and-cedric-coward-best-bets/)
 
 Let’s dive into three player props that catch our eye for Saturday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -1688,18 +1636,6 @@ Let’s dive into three player props that catch our eye for Saturday’s action.
 
 ### **Kyrie Irving (Mavericks vs. Clippers) Over Points + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)Kyrie Irving
-
-[![Image 33: Bet365](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/bet_365.svg)](https://lineups.go.metabet.io/bet/nba_mvp/12742/bet_365_ia)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/12742/bet_365_ia)[+100000](https://lineups.go.metabet.io/bet/nba_mvp/12742/bet_365_ia)
-
-[![Image 34: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/12742/mgm_ia)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/12742/mgm_ia)[+30000](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/12742/mgm_ia)
-
-[![Image 35: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_west/12742/draftkings_ia)[To Win Western Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_west/12742/draftkings_ia)[+30000](https://lineups.go.metabet.io/bet/nba_mvp_west/12742/draftkings_ia)
-
-[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/kyrie_irving/player_12742 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Irving has frequently looked like his old self this season, averaging 22.3 points (on 47.3% shooting), 4.4 assists, 3.7 rebounds and 1.3 steals per contest. The veteran guard has been given the second night of a couple of back-to-back sets off, but there’s no such scenario at play Saturday. In fact, Kyrie is coming off two full days of rest, so he should have some extra spring in his step for this conference clash.
 
 Irving is averaging exactly 27.5 points + assists per home game this season while shooting 51.5%, including 41.9% from three-point range. The Clippers could very well coax one of his higher-percentile performances from him, as Los Angeles is allowing the fourth-highest offensive efficiency rating to point guards (30.9), along with league-high 43.0% three-point shooting on the road.
@@ -1710,18 +1646,6 @@ The Clippers are also conceding the third-most points per game to ones (31.1) an
 
 ### **Karl-Anthony Towns (Knicks vs. Trail Blazers) Over Points + Rebounds + Assists**
 
-[](https://www.lineups.com/)
-
-![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10212.png)Karl-Anthony Towns
-
-[![Image 38: FanDuel](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/fanduel.svg)](https://lineups.go.metabet.io/bet/nba_mvp/11748/fanduel_ia)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/11748/fanduel_ia)[+75000](https://lineups.go.metabet.io/bet/nba_mvp/11748/fanduel_ia)
-
-[![Image 39: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11748/draftkings_ia)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11748/draftkings_ia)[+25000](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11748/draftkings_ia)
-
-[![Image 40: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_east/11748/draftkings_ia)[To Win Eastern Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_east/11748/draftkings_ia)[+2500](https://lineups.go.metabet.io/bet/nba_mvp_east/11748/draftkings_ia)
-
-[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/karl_anthony_towns/player_11748 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Towns has been a double-double machine all season long, accomplishing the feat in each of his first 15 games of the season on his way to an average of 39.1 points + rebounds + assists per contest. The big man is averaging 1.2 PRA per minute on the floor, underscoring how productive he’s consistently been despite some up-and-down play by the Knicks. Towns’ 53.7% success rate from the field is also his highest figure since back in the 2017-18 season in Minnesota, and his 10.7 defensive boards per contest are comfortably a career-high figure.
 
 Saturday, the prolific big man faces a Trail Blazers team that’s ranked No. 19 in offensive efficiency rating to centers (32.3) and that’s allowing 56.5% shooting to the position, including the third-highest three-point shooting percentage (45.9%). Towns is draining 38.5% of his 5.2 three-point attempts per game, and he comes into Saturday having gone 6-1 to the Over on the 37.5 PRA in his last seven contests.
@@ -1729,18 +1653,6 @@ Saturday, the prolific big man faces a Trail Blazers team that’s ranked No. 19
 **Original Line Publish**: 37.5
 
 ### **Cedric Coward (Grizzlies vs. Timberwolves) Over Rebounds + Assists**
-
-[](https://www.lineups.com/)
-
-![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Cedric Coward
-
-[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661118/kalshi_ia)[O/U Points Scored (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661118/kalshi_ia)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661118/kalshi_ia)
-
-[![Image 44: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661118/kalshi_ia)[O/U Total Rebounds (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661118/kalshi_ia)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661118/kalshi_ia)
-
-[![Image 45: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661118/kalshi_ia)[O/U Total Assists (@ CHA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661118/kalshi_ia)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661118/kalshi_ia)
-
-[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/cedric_coward/player_258753 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 The Grizzlies head into Minnesota on Saturday without a very key component, as star rookie Cameron Boozer will miss the game due to an ankle injury. That will naturally open up plenty of usage for the rest of Memphis’ starting five, and Coward looks poised to benefit from additional rebounding and assist opportunities. Coward could very well also see at least a slight boost in his average of 11.0 field-goal attempts per contest, but given Minnesota is surrendering minuscule 38.5% shooting overall to two-guards, we’re staying away from offensive props.
 
@@ -1776,27 +1688,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 47: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 32: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)[NFL Monday Medical Report Recap: Herbert Enters Concussion Protocol, Henry Leaves Game for Possible Concussion](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
-[![Image 48: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 33: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 49: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 34: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)[NHL Goal Picks Today: Timo Meier, Adrian Kempe & Mathew Barzal Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
-[![Image 50: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 35: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)[NBA Player Props Today: Scottie Barnes, James Harden and Fred VanVleet Best Bets](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
-[![Image 51: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
+[![Image 36: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 #### [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)[Bengals-Commanders Picks, Predictions & Odds: NFL Week 11](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
@@ -1807,7 +1719,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 52: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 53: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1822,7 +1734,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 54: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 39: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1832,7 +1744,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)November 23, 2026
 
-[![Image 55: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 40: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1842,7 +1754,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 23, 2026
 
-[![Image 56: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 41: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1852,7 +1764,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 23, 2026
 
-[![Image 57: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
+[![Image 42: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1862,7 +1774,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 22, 2026
 
-[![Image 58: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
+[![Image 43: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1872,7 +1784,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 22, 2026
 
-[![Image 59: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
+[![Image 44: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2291,45 +2203,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 We have a nine-game slate on tap Friday night that features a multitude of big names, including several in the marquee matchup of the ledger, a Rockets-Nuggets clash in Denver.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-jarrett-allen-aj-dybantsa-and-kevin-durant-best-bets/)
 
 Let’s dive into three player props that catch our eye for Friday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -2341,18 +2237,6 @@ Let’s dive into three player props that catch our eye for Friday’s action. B
 
 ### **Jarrett Allen (Cavaliers vs. Pacers) Over Points + Rebounds**
 
-[](https://www.lineups.com/)
-
-![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)Jarrett Allen
-
-[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/kalshi_ia)[O/U Points Scored (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/kalshi_ia)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661123/kalshi_ia)
-
-[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/kalshi_ia)[O/U Total Rebounds (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/kalshi_ia)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661123/kalshi_ia)
-
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/polymarket_ia)[O/U Total Assists (@ CHI)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/polymarket_ia)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661123/polymarket_ia)
-
-[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jarrett_allen/player_69891 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Evan Mobley will remain out with his toe injury Friday, leaving Allen to handle more responsibility in the frontcourt for the fifth straight game. The big man is averaging 24.3 points + rebounds in the first four absences Mobley has logged with his current injury, posting points + rebounds tallies of 25, 27 and 28 in three of those games. Allen has been at his most productive at home as well, where he’s averaging 23.9 points + rebounds while shooting 56.4%.
 
 Friday, Allen gets a crack at a Pacers squad that’s ranked in the bottom half of the league (No. 18) in offensive efficiency rating allowed to centers (32.3), along with 50.9% shooting to the position. Indiana is also conceding the ninth-most rebounds per game to fives (15.2), and the Pacers are giving up over 13 more points per game in the paint on the road (50.5) than at home (37.1). In turn, Allen is scoring 69.4% of his points in that part of the floor this season.
@@ -2361,18 +2245,6 @@ Friday, Allen gets a crack at a Pacers squad that’s ranked in the bottom half 
 
 ### **AJ Dybantsa (Wizards vs. Bulls) Over Points + Rebounds**
 
-[](https://www.lineups.com/)
-
-![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10223.png)AJ Dybantsa
-
-[![Image 38: DraftKings](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg)](https://lineups.go.metabet.io/bet/nba_mvp_east/276463/draftkings_ia)[To Win Eastern Conference Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_east/276463/draftkings_ia)[+50000](https://lineups.go.metabet.io/bet/nba_mvp_east/276463/draftkings_ia)
-
-[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/276463/kalshi_ia)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/276463/kalshi_ia)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/276463/kalshi_ia)
-
-[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276463/kalshi_ia)[To Win Rookie of the Year](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276463/kalshi_ia)[8¢](https://lineups.go.metabet.io/bet/nba_rookie_of_the_year/276463/kalshi_ia)
-
-[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/aj_dybantsa/player_276463 "Powered by MetaBet")[](https://www.metabet.io/odds)
-
 Dybantsa is starting to hit his stride and catching up to the pace of the pro game after missing the first four games of the season with an ankle injury. The rookie first overall pick has had a couple of single-digit-scoring outliers, but he’s coming into Friday’s favorable matchup off the first consecutive 20-plus-point tallies of his career. Dybantsa has averaged 30.5 points + rebounds over that pair of contests against the Grizzlies and Raptors, shooting 48.5% in the process.
 
 Dybantsa now will try his luck against the league’s fastest-paced team in the Bulls, who are also allowing an NBA-high 124.6 points per game. Chicago is surrendering the fifth-highest offensive efficiency rating to small forwards as well (25.8), along with NBA-high 48.9% shooting to the position. Dybantsa has seen a nice boost in usage of late as well with 23.0 field-goal + free-throw attempts per contest in the last three, a trend that should pay big dividends Friday if it persists considering the extra possessions that might be available against Chicago.
@@ -2380,18 +2252,6 @@ Dybantsa now will try his luck against the league’s fastest-paced team in the 
 **Original Line Publish**: 25.5
 
 ### **Kevin Durant (Rockets vs. Nuggets) Over Points**
-
-[](https://www.lineups.com/)
-
-![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10200.png)Kevin Durant
-
-[![Image 43: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/kalshi_ia)[O/U Points Scored (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/kalshi_ia)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661125/kalshi_ia)
-
-[![Image 44: BetMGM](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/mgm.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)[O/U Total Rebounds (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/mgm_ia)
-
-[![Image 45: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_ia)[O/U Total Assists (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_ia)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_ia)
-
-[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/kevin_durant/player_11767 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 KD has been as steady as ever over the first month of the season, even as he’s been a bit less involved offensively than in previous seasons. Durant is averaging 13.3 field-goal attempts per contest – the lowest figure of his career – but he’s still delivering 21.3 points on 49.8% shooting, including 40.6% from three-point range. The future Hall of Famer also checks into Friday’s marquee showdown with an eight-game streak of at least 20 points, and seven of those tallies were of 21 or greater.
 
@@ -2427,30 +2287,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 47: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+#### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[![Image 33: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)[NFL Monday Medical Report Recap: Herbert Enters Concussion Protocol, Henry Leaves Game for Possible Concussion](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
-[![Image 48: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 34: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 49: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 35: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)[NHL Goal Picks Today: Timo Meier, Adrian Kempe & Mathew Barzal Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
-[![Image 50: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 36: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)[NBA Player Props Today: Scottie Barnes, James Harden and Fred VanVleet Best Bets](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
-
-[![Image 51: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-
-[](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-#### [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)[Bengals-Commanders Picks, Predictions & Odds: NFL Week 11](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 About the Author
 
@@ -2458,7 +2318,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 52: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 53: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -2473,7 +2333,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 54: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 39: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-390x230.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2483,7 +2343,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)November 23, 2026
 
-[![Image 55: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 40: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2493,7 +2353,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Kody Malstrom](https://www.lineups.com/author/kodymalstrom/)November 23, 2026
 
-[![Image 56: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 41: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2503,7 +2363,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 23, 2026
 
-[![Image 57: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
+[![Image 42: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2513,7 +2373,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 22, 2026
 
-[![Image 58: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
+[![Image 43: Joe Burrow](https://www.lineups.com/wp-content/uploads/2026/11/Joe-Burrow-390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-dfs-picks-best-value-plays-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2523,7 +2383,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 22, 2026
 
-[![Image 59: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
+[![Image 44: Mike Gesicki](https://www.lineups.com/wp-content/uploads/2026/11/Mike-Gesicki--390x230.jpg)](https://www.lineups.com/articles/bengals-commanders-touchdown-picks-mike-gesicki-chig-okonkwo-anytime-td-bets-nfl-week-11/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2942,45 +2802,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 We’re set for a compact four-game slate Thursday that features intriguing Warriors-Grizzlies and Knicks-Timberwolves clashes.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-yaxel-lendeborg-donovan-clingan-and-stephon-castle-best-bets/)
 
 Let’s dive into three player props that catch our eye for Thursday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -3046,30 +2890,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+#### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[![Image 33: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)[NFL Monday Medical Report Recap: Herbert Enters Concussion Protocol, Henry Leaves Game for Possible Concussion](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
-[![Image 33: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 34: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 34: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 35: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)[NHL Goal Picks Today: Timo Meier, Adrian Kempe & Mathew Barzal Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
-[![Image 35: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 36: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)[NBA Player Props Today: Scottie Barnes, James Harden and Fred VanVleet Best Bets](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
-
-[![Image 36: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-
-[](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-#### [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)[Bengals-Commanders Picks, Predictions & Odds: NFL Week 11](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 About the Author
 
@@ -3561,45 +3405,29 @@ Already a member?[Login](https://www.lineups.com/articles/nba-player-props-today
 
 We have a typically large Wednesday night slate in the Association, as there are 12 games on tap and plenty of high-upside players in action.
 
-[![Image 31: Fanduel Sportsbook - Horizontal Light Logo](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/fccf4bbd-3b56-41cb-33a0-0c4fa9836900/public)](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=operator-column-logo&aid=fanduel-sportsbook&geo=US-IA)
+[![Image 31: Fliff](https://imagedelivery.net/BhONMcWBO8JQKrSzhcxW2A/bf9e97ba-6a51-4a6a-3a32-1ff8c5c89300/public)](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=operator-column-logo&aid=fliff&geo=US-SC)
 
-**Get $200** in Bonus Bets 
+4.6/5 Rating
 
-**Get $200** in Bonus Bets 
+**Up to $250** In Free Play 
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
+**Up to $250** In Free Play 
 
-T&Cs Apply. View Here.
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-- [x] 
+*   More Ways to Play, Earn & Win!
 
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
+*   Compete in Challenges & Climb the Leaderboards
 
- 
+[Fliff Social Sportsbook Review](https://www.lineups.com/dfs-sites/fliff-promo-code/)
 
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
+4.6/5 Rating
 
-*   Available on Desktop, Android & iOS
+*   More Ways to Play, Earn & Win!
 
-*   Easy Deposits, Fast Withdrawals
+*   Compete in Challenges & Climb the Leaderboards
 
-[FanDuel Sportsbook Review](https://www.lineups.com/sports-betting/fanduel-promo-code/)
-
-T&Cs Apply. View Here.
-
-- [x] 
-
- 21+ and present in IA. Gambling Problem? Call 1-800-BETS-OFF. 
-
- 
-
-*   Get $200 in Bonus Bets When You Wager $5 for 4 Days ($50 Bonus Bets Per Day)
-
-*   Available on Desktop, Android & iOS
-
-*   Easy Deposits, Fast Withdrawals
-
-[Play Now](https://www.lineups.com/claim/fanduel-sportsbook/?cid=fanduel-sportsbook&tag=action-column-link&aid=fanduel-sportsbook&geo=US-IA)
+[Play Now](https://www.lineups.com/claim/fliff-swsc/?cid=fliff-dfs&tag=action-column-link&aid=fliff&geo=US-SC)[Copy promo code LINEUPS](https://www.lineups.com/articles/nba-player-props-today-tyler-herro-davion-mitchell-and-domantas-sabonis-best-bets/)
 
 Let’s dive into three player props that catch our eye for Wednesday’s action. Be sure to[check out the NBA betting trends page](https://www.lineups.com/nba/odds/betting-trends/)for odds, data and insights on every game.
 
@@ -3663,30 +3491,30 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
+[![Image 32: Thanksgiving NFL](https://www.lineups.com/wp-content/uploads/2026/11/Thanksgiving-NFL-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+#### [](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)[NFL Thanksgiving 2026: Live Blog & Tracker](https://www.lineups.com/articles/nfl-thanksgiving-2026-live-blog-tracker/)
+
+[![Image 33: justin herbert](https://www.lineups.com/wp-content/uploads/2026/11/justinherbert-150x150.jpg)](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
 [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 #### [](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)[NFL Monday Medical Report Recap: Herbert Enters Concussion Protocol, Henry Leaves Game for Possible Concussion](https://www.lineups.com/articles/nfl-monday-medical-report-recap-herbert-enters-concussion-protocol-henry-leaves-game-for-possible-concussion/)
 
-[![Image 33: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 34: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
-[![Image 34: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
+[![Image 35: Barzal](https://www.lineups.com/wp-content/uploads/2026/11/Barzal-150x150.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
 [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 #### [](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)[NHL Goal Picks Today: Timo Meier, Adrian Kempe & Mathew Barzal Best Bets](https://www.lineups.com/articles/nhl-goal-picks-today-timo-meier-adrian-kempe-mathew-barzal-best-bets/)
 
-[![Image 35: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
+[![Image 36: Scottie Barnes](https://www.lineups.com/wp-content/uploads/2026/11/Scottie-Barnes--150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)[NBA Player Props Today: Scottie Barnes, James Harden and Fred VanVleet Best Bets](https://www.lineups.com/articles/nba-player-props-today-scottie-barnes-james-harden-and-fred-vanvleet-best-bets/)
-
-[![Image 36: Jayden Daniels](https://www.lineups.com/wp-content/uploads/2026/11/Jayden-Daniels-150x150.jpg)](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-
-[](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
-#### [](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)[Bengals-Commanders Picks, Predictions & Odds: NFL Week 11](https://www.lineups.com/articles/bengals-commanders-picks-predictions-odds-nfl-week-11/)
 
 About the Author
 
