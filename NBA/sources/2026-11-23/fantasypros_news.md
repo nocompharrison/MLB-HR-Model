@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-23 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-23 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,89 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Dean Wade](https://images.fantasypros.com/images/players/nba/4651/headshot/100x100.png)](https://www.fantasypros.com/nba/players/dean-wade.php)
+F - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/dean-wade.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/dean-wade.php)  
+[» More News](https://www.fantasypros.com/nba/news/dean-wade.php)
+[Dean Wade (hamstring) available Monday ](https://www.fantasypros.com/nba/news/622251/dean-wade-hamstring-available-monday.php)  
+
+Mon, Nov 23rd 6:33pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Dean Wade is available for Monday’s game against the Trail Blazers.
+**_Fantasy Impact:_** Wade is good to go as expected after being listed as probable. He will return from a two-game absence. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Nic Claxton](https://images.fantasypros.com/images/players/nba/4519/headshot/100x100.png)](https://www.fantasypros.com/nba/players/nicolas-claxton.php)
+C - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/nicolas-claxton.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/nicolas-claxton.php)  
+[» More News](https://www.fantasypros.com/nba/news/nicolas-claxton.php)
+[Nic Claxton (illness) available Monday ](https://www.fantasypros.com/nba/news/622250/nic-claxton-illness-available-monday.php)  
+
+Mon, Nov 23rd 6:33pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Nic Claxton is available for Monday's game against the Cavaliers. 
+**_Fantasy Impact:_** Claxton is good to go after being listed as questionable. He should return to his reserve role. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
+[Jalen Smith (illness) available Monday ](https://www.fantasypros.com/nba/news/622249/jalen-smith-illness-available-monday.php)  
+
+Mon, Nov 23rd 6:32pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Smith is available for Monday's game against the Cavaliers. 
+**_Fantasy Impact:_** Smith is good to go as expected after being listed as probable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Adem Bona](https://images.fantasypros.com/images/players/nba/6203/headshot/100x100.png)](https://www.fantasypros.com/nba/players/adem-bona.php)
+C - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/adem-bona.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/adem-bona.php)  
+[» More News](https://www.fantasypros.com/nba/news/adem-bona.php)
+[Adem Bona (spine) available Monday ](https://www.fantasypros.com/nba/news/622248/adem-bona-spine-available-monday.php)  
+
+Mon, Nov 23rd 6:31pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Adem Bona is available for Monday’s game against the Trail Blazers.
+**_Fantasy Impact:_** Bona is good to go as expected after being listed as probable. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mikel Brown Jr.](https://images.fantasypros.com/images/players/nba/6613/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mikel-brown.php)
+G - BKN
+[» Rankings](https://www.fantasypros.com/nba/players/mikel-brown.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mikel-brown.php)  
+[» More News](https://www.fantasypros.com/nba/news/mikel-brown.php)
+[Mikel Brown Jr. to start Monday for Nets ](https://www.fantasypros.com/nba/news/622247/mikel-brown-jr-to-start-monday-nets.php)  
+
+Mon, Nov 23rd 6:30pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mikel Brown Jr. will make his first career start on Monday against the Timberwolves. (Source: [Brian Lewis on Twitter](https://x.com/NYPost_Lewis/status/2125002749649604977))
+**_Fantasy Impact:_** Brown will no longer be on a minutes restriction as he enters the starting lineup. 
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Cameron Boozer](https://images.fantasypros.com/images/players/nba/6504/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cameron-boozer.php)
+F - MEM
+[» Rankings](https://www.fantasypros.com/nba/players/cameron-boozer.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/cameron-boozer.php)  
+[» More News](https://www.fantasypros.com/nba/news/cameron-boozer.php)
+[Cameron Boozer (ankle) to be re-evaluated in four weeks](https://www.fantasypros.com/nba/news/622246/cameron-boozer-ankle-to-be-re-evaluated-four-weeks.php)  
+
+Mon, Nov 23rd 6:29pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Cameron Boozer will be re-evaluated in four weeks due to a right ankle injury. (Source: [Shams Charania on Twitter](https://x.com/ShamsCharania/status/2125001999569785041))
+**_Fantasy Impact:_** Boozer will be sidelined for at least the next month. Isaiah Stewart should be among the players to see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jaylen Brown](https://images.fantasypros.com/images/players/nba/3170/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylen-brown.php)
 G - PHI
 [» Rankings](https://www.fantasypros.com/nba/players/jaylen-brown.php)  
@@ -199,90 +282,6 @@ Mon, Nov 23rd 4:13pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Jordan McLaughlin participated in shootaround on Monday. (Source: [Jeff McDonald on Twitter](https://x.com/JMcDonald_SAEN/status/2124960874783994193))
 **_Fantasy Impact:_** McLaughlin remains listed as questionable and a game-time decision for Monday's game against the Kings. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![De'Aaron Fox](https://images.fantasypros.com/images/players/nba/3315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/deaaron-fox.php)
-G - SAS
-[» Rankings](https://www.fantasypros.com/nba/players/deaaron-fox.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/deaaron-fox.php)  
-[» More News](https://www.fantasypros.com/nba/news/deaaron-fox.php)
-[De'Aaron Fox (shin) at shootaround Monday ](https://www.fantasypros.com/nba/news/622209/deaaron-fox-shin-shootaround-monday.php)  
-
-Mon, Nov 23rd 4:12pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-De'Aaron Fox participated in shootaround on Monday. (Source: [Jeff McDonald on Twitter](https://x.com/JMcDonald_SAEN/status/2124960874783994193))
-**_Fantasy Impact:_** Fox remains listed as questionable and a game-time decision for Monday's game against the Kings. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Victor Wembanyama](https://images.fantasypros.com/images/players/nba/5971/headshot/100x100.png)](https://www.fantasypros.com/nba/players/victor-wembanyama.php)
-C - SAS
-[» Rankings](https://www.fantasypros.com/nba/players/victor-wembanyama.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/victor-wembanyama.php)  
-[» More News](https://www.fantasypros.com/nba/news/victor-wembanyama.php)
-[Victor Wembanyama (back) participates in shootaround Monday](https://www.fantasypros.com/nba/news/622208/victor-wembanyama-back-participates-shootaround-monday.php)  
-
-Mon, Nov 23rd 4:11pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Victor Wembanyama participated in shootaround on Monday. (Source: [Jeff McDonald on Twitter](https://x.com/JMcDonald_SAEN/status/2124960874783994193))
-**_Fantasy Impact:_** Wembanyama remains listed as questionable and a game-time decision for Monday's game against the Kings. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Ousmane Dieng](https://images.fantasypros.com/images/players/nba/5566/headshot/100x100.png)](https://www.fantasypros.com/nba/players/ousmane-dieng-f.php)
-F - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/ousmane-dieng-f.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/ousmane-dieng-f.php)  
-[» More News](https://www.fantasypros.com/nba/news/ousmane-dieng-f.php)
-[Ousmane Dieng (finger) available Monday ](https://www.fantasypros.com/nba/news/622200/ousmane-dieng-finger-available-monday.php)  
-
-Mon, Nov 23rd 3:12pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Ousmane Dieng is available for Monday's game against the Raptors. 
-**_Fantasy Impact:_** Dieng is good to go for the Bucks after being listed as questionable. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alex Caruso](https://images.fantasypros.com/images/players/nba/3389/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alex-caruso.php)
-G - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/alex-caruso.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/alex-caruso.php)  
-[» More News](https://www.fantasypros.com/nba/news/alex-caruso.php)
-[Alex Caruso (hip) ruled out Monday ](https://www.fantasypros.com/nba/news/622198/alex-caruso-hip-ruled-out-monday.php)  
-
-Mon, Nov 23rd 3:11pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Alex Caruso has been ruled out for Monday's game against the Pacers. 
-**_Fantasy Impact:_** Caruso will be sidelined for a third straight game due to a hip injury. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Aday Mara](https://images.fantasypros.com/images/players/nba/6523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aday-mara.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/aday-mara.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/aday-mara.php)  
-[» More News](https://www.fantasypros.com/nba/news/aday-mara.php)
-[Aday Mara (shin) ruled out Monday ](https://www.fantasypros.com/nba/news/622197/aday-mara-shin-ruled-out-monday.php)  
-
-Mon, Nov 23rd 3:10pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Aday Mara has been ruled out for Monday's game against the Pacers. 
-**_Fantasy Impact:_** Mara will miss another game for the Thunder as he continues to battle a shin injury. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaylin Williams](https://images.fantasypros.com/images/players/nba/5491/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaylin-williams.php)
-C - OKC
-[» Rankings](https://www.fantasypros.com/nba/players/jaylin-williams.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaylin-williams.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaylin-williams.php)
-[Jaylin Williams (back) ruled out Monday ](https://www.fantasypros.com/nba/news/622195/jaylin-williams-back-ruled-out-monday.php)  
-
-Mon, Nov 23rd 3:09pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaylin Williams has been ruled out for Monday's game against the Pacers. 
-**_Fantasy Impact:_** Williams will sit the second game of the back-to-back for the Thunder. 
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

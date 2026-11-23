@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-23 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-23 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,27 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Kris Murray](https://www.rotowire.com/basketball/player/kris-murray-5943)[Starting Monday](https://www.rotowire.com/basketball/headlines/kris-murray-news-starting-monday-540710)
+**F** Memphis Grizzlies
+November 23, 2026
+Murray will start Monday against the Hornets, [Hornets reporter Rod Boone](https://x.com/rodboone/status/2125011325416058952?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Kentavious Caldwell-Pope](https://www.rotowire.com/basketball/player/kentavious-caldwell-pope-3450)[Headed to bench](https://www.rotowire.com/basketball/headlines/kentavious-caldwell-pope-news-headed-to-bench-540708)
+**G** Philadelphia 76ers
+November 23, 2026
+Caldwell-Pope will come off the bench in Monday's matchup with the Trail Blazers, [Ky Carlin of USA Today](https://x.com/Ky_Carlin/status/2125009129093706187?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)[Starting sans Embiid](https://www.rotowire.com/basketball/headlines/jabari-walker-news-starting-sans-embiid-540707)
+**F** Philadelphia 76ers
+November 23, 2026
+Walker is in the starting lineup for Monday's game against Portland, [Austin Krell of OnPattison.com](https://x.com/NBAKrell/status/2125009185515663649?a=arYfKsuQ1eneuPqsXe8&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![DAL](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
 [Tobi Lawal](https://www.rotowire.com/basketball/player/tobi-lawal-6981)[Ruled out for Tuesday](https://www.rotowire.com/basketball/headlines/tobi-lawal-injury-ruled-out-for-tuesday-540706)
 **F** Dallas Mavericks
@@ -174,28 +195,6 @@ Robinson (illness) is out for Tuesday's game against Washington, [Taylor Snow of
 Knee
 November 23, 2026
 Hayes (knee) has been ruled [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_04_00PM.pdf) for Monday's game against the Lakers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Brandon Williams](https://www.rotowire.com/basketball/player/brandon-williams-5588)[Trending toward returning Wednesday](https://www.rotowire.com/basketball/headlines/brandon-williams-injury-trending-toward-returning-wednesday-540684)
-**G** Golden State Warriors
-Hamstring
-November 23, 2026
-Head coach Steve Kerr said Monday that Williams (hamstring) is on track to return Wednesday against the Kings, [Kenzo Fukuda of ClutchPoints.com](https://x.com/kenzofuku/status/2124967826884895056?a=pPfn7O35MLbSrncmLn4&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Isaiah Collier](https://www.rotowire.com/basketball/player/isaiah-collier-6260)[Sparks late rally against Dallas](https://www.rotowire.com/basketball/headlines/isaiah-collier-news-sparks-late-rally-against-dallas-540683)
-**G** Utah Jazz
-November 23, 2026
-Collier registered 10 points (4-5 FG, 1-1 3Pt, 1-2 FT), two rebounds, seven assists, one block and one steal in 13 minutes during Sunday's 116-114 loss to the Mavericks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![UTA](https://assets.rotowire.com/images/teamlogo/basketball/100UTA.png?v=10)
-[Mo Bamba](https://www.rotowire.com/basketball/player/mo-bamba-4371)[Grabs 10 boards in narrow loss](https://www.rotowire.com/basketball/headlines/mo-bamba-news-grabs-10-boards-in-narrow-loss-540682)
-**C** Utah Jazz
-November 23, 2026
-Bamba recorded six points (3-6 FG, 0-1 3Pt, 0-1 FT), 10 rebounds, one assist and one block in 23 minutes before fouling out of Sunday's 116-114 loss to Dallas.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-23 18:35 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-23 18:50 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -393,6 +393,38 @@ Tues
 
 Data Provided by Rotowire
 
+Sponsored Headlines
+
+[](https://libernovo.com/pages/libernovo-omni-dynamic-ergonomic-chair)[Meet LiberNovo: Dynamic Support for Long Workdays LiberNovo | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://libernovo.com/pages/libernovo-omni-dynamic-ergonomic-chair "Meet LiberNovo: Dynamic Support for Long Workdays")
+
+Undo
+
+[](https://libernovo.com/pages/libernovo-omni-dynamic-ergonomic-chair)[A Better Ergonomic Chair for Work and Recline LiberNovo | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://libernovo.com/pages/libernovo-omni-dynamic-ergonomic-chair "A Better Ergonomic Chair for Work and Recline")
+
+Undo
+
+[](https://ucyfx.com/a33dbc64-495b-407d-a0a2-b641e2052ff1)[South Carolina: These New Bathrooms For Retirees Are Cheap (See Prices)The Giraffe Home Remodels | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://ucyfx.com/a33dbc64-495b-407d-a0a2-b641e2052ff1 "South Carolina: These New Bathrooms For Retirees Are Cheap (See Prices)")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
+[](https://ucyfx.com/a33dbc64-495b-407d-a0a2-b641e2052ff1)[Planning a Bathroom Remodel in South Carolina ? Start Here Adults Over 55 Are Getting New Bathrooms At A Fraction Of The Price, Thanks To This The Giraffe Home Remodels | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://ucyfx.com/a33dbc64-495b-407d-a0a2-b641e2052ff1 "Planning a Bathroom Remodel in South Carolina ? Start Here")
+
+Undo
+
+[](https://nowhealthdaily.com/)[MDs Studied the Sharpest Minds Over 85. They All Share This 1 Thing Times Today 60+ | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://nowhealthdaily.com/ "MDs Studied the Sharpest Minds Over 85. They All Share This 1 Thing")
+
+Undo
+
+[](https://articles.comparisons.org/go/68b46378b66cb05625044493)[Drivers in North Charleston: Check If Your Zip Code Qualifies for a Lower Rate Enter your ZIP code and compare quotes in about 2 minutes.Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Get Quote](https://articles.comparisons.org/go/68b46378b66cb05625044493 "Drivers in North Charleston: Check If Your Zip Code Qualifies for a Lower Rate")
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
+
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
+
 ### NBA News
 
 [![Image 53: 76ers rule out Joel Embiid (illness) for game vs. Trail Blazers](https://a.espncdn.com/combiner/i?img=/photo/2026/1123/r1750407_600x400_3-2.jpg&w=220) ## 76ers rule out Joel Embiid (illness) for game vs. Trail Blazers The 76ers said Joel Embiid will miss Monday's game against the Trail Blazers because of an illness. * 5m * Kris Rhim](https://www.espn.com/nba/story/_/id/50577428/76ers-rule-joel-embiid-vs-trail-blazers-illness)
@@ -402,6 +434,18 @@ Data Provided by Rotowire
 [![Image 55: 2026 NBA Cup: Schedule, format, groups, updates and more](https://a.espncdn.com/combiner/i?img=/photo/2026/1121/r1748853_608x342_16-9.jpg&w=220) ## 2026 NBA Cup: Schedule, format, groups, updates and more Here's everything you need to know about the fourth annual in-season tournament, including the recent win by the Nuggets. * 4h * ESPN](https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+Undo
+
+[](https://freshstartinfo.org/january-tax-relief-deadline)[Monday: IRS Forgiving Millions Before November 30th Deadline Americans who owe the IRS $10,000 or more may qualify for the Fresh Start Program. Eligibility is determined during the qualification process.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Apply Now](https://freshstartinfo.org/january-tax-relief-deadline "Monday: IRS Forgiving Millions Before November 30th Deadline")
+
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[3 Materials South Carolina Officials Are Banning From Kitchens A doctor threw out her non-stick pans, then spent six months failing to replace them. The answer came from a lab that can't risk contamination.Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "3 Materials South Carolina Officials Are Banning From Kitchens")
 
 ![Image 56: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

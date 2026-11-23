@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-23 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-23 18:50 ET -->
 
 # NBA DFS Picks Today
 November 23, 2026
@@ -27,6 +27,24 @@ Stay on top of the most important news impacting today's slate with our live new
 Monday, November 23 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (20) All NBA news Brooklyn Nets (BKN @ MIN) Charlotte Hornets (MEM @ CHA) Chicago Bulls (CLE @ CHI) Cleveland Cavaliers (CLE @ CHI) Houston Rockets (LAC @ HOU) Indiana Pacers (OKC @ IND) Los Angeles Clippers (LAC @ HOU) Los Angeles Lakers (UTA @ LAL) Memphis Grizzlies (MEM @ CHA) Milwaukee Bucks (MIL @ TOR) Minnesota Timberwolves (BKN @ MIN) New Orleans Pelicans (PHX @ NOP) Oklahoma City Thunder (OKC @ IND) Philadelphia 76ers (POR @ PHI) Phoenix Suns (PHX @ NOP) Portland Trail Blazers (POR @ PHI) Sacramento Kings (SAN @ SAC) San Antonio Spurs (SAN @ SAC) Toronto Raptors (MIL @ TOR) Utah Jazz (UTA @ LAL)
+Memphis GrizzliesMEM @ CHA - 7:00 PM ET
+**[Jahmai Mashack](https://www.rotowire.com/basketball/player/jahmai-mashack-6647)** _G_ 6:43 PM ET
+#### Returning to bench role
+Mashack will come off the bench Monday against Charlotte.
+Analysis
+Mashack drew a spot start Saturday against Minnesota, but he failed to capitalize on the opportunity, finishing with zero points, two rebounds, one assist, one block and one steal in 22 minutes. Cameron Boozer (ankle) remains out for at least the next four weeks with an ankle sprain, so the Grizzlies will roll with Kris Murray in his place Monday, bumping Mashack back to a bench role.
+Philadelphia 76ersPOR @ PHI - 7:00 PM ET
+**[Kentavious Caldwell-Pope](https://www.rotowire.com/basketball/player/kentavious-caldwell-pope-3450)** _G_ 6:35 PM ET
+#### Headed to bench
+Caldwell-Pope will come off the bench in Monday's matchup with the Trail Blazers, Ky Carlin of USA Today reports.
+Analysis
+Jaylen Brown (hamstring) is back and starting, so Caldwell-Pope will shift back to a reserve role. As a member of the second unit this season, Caldwell-Pope is averaging 5.4 points, 2.6 rebounds, 1.6 assists and 1.4 triples per contest.
+Philadelphia 76ersPOR @ PHI - 7:00 PM ET
+**[Jabari Walker](https://www.rotowire.com/basketball/player/jabari-walker-5675)** _F_ 6:34 PM ET
+#### Starting sans Embiid
+Walker is in the starting lineup for Monday's game against Portland, Austin Krell of OnPattison.com reports.
+Analysis
+Walker is making his second start of the season for the 76ers on Monday. With Joel Embiid ailing, Walker is working in a timeshare with Dominick Barlow and Adem Bona at center.
 Philadelphia 76ersPOR @ PHI - 7:00 PM ET
 **[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)** _F_ 6:25 PM ET
 #### Available Monday
@@ -39,25 +57,7 @@ Chicago BullsCLE @ CHI - 8:00 PM ET
 Smith (illness) will play Monday against the Cavaliers, K.C. Johnson of Chicago Sports Network reports.
 Analysis
 Smith isn't feeling 100 percent healthy ahead of Monday's matchup, but he's been cleared to suit up. Coach Tiago Splitter stated in his pre-game presser that he expects to be cautious with Smith's playing time, especially after logging 34 minutes Sunday against Denver.
-Chicago BullsCLE @ CHI - 8:00 PM ET
-**[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)** _C_ _Top_ 6:20 PM ET
-#### Available to play
-Claxton (illness) is available for Monday's matchup with the Cavs, Bulls' reporter Will Gottlieb reports.
-Analysis
-Claxton will be back in action following a one-game stint on the sidelines, which may result in fewer minutes for Jalen Smith. Claxton is averaging 9.3 points, 4.8 rebounds and 1.0 blocks per game this season.
-Philadelphia 76ersPOR @ PHI - 7:00 PM ET
-**[Adem Bona](https://www.rotowire.com/basketball/player/adem-bona-6287)** _C_ 6:16 PM ET
-#### Will play Monday
-Bona (back) is available for Monday's game against the Trail Blazers, Ky Carlin of USA Today reports.
-Analysis
-As anticipated, Bona will be available for the first time since suffering a back sprain Nov. 4 against Detroit. He's averaging 2.1 points, 3.9 rebounds and 1.0 blocks over nine appearances this season and could be in line for more opportunities Monday with Joel Embiid (illness) ruled out, though the Sixers may elect to ease him back into game action considering he's coming off an eight-game absence.
-Philadelphia 76ersPOR @ PHI - 7:00 PM ET
-**[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)** _F_ _Top_ 6:14 PM ET
-#### Will play Monday
-Brown (hamstring) will play Monday against the Trail Blazers, Ky Carlin of USA Today reports.
-Analysis
-Brown is set to return from a two-game absence, which should result in Kentavious Caldwell-Pope heading back to the second unit. Brown is averaging 22.6 points, 6.6 rebounds, 3.6 assists, 1.9 triples and 1.3 steals per game this season.
-Show 5 more (45 remaining)
+Show 5 more (48 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -68,16 +68,16 @@ Main Slate - 8 games - 7:00 PM Nov 24 - Main Slate - 3 games - 7:00 PM (lineups 
 Implied total vs. the slate _Lowest_ _Highest_
 **MEM @ CHA**
 O/U 213.57:00 PM ET
-GrizzliesExpectedAway
+GrizzliesConfirmedAway
 _Implied_**108.0** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Zach Edey  | $4,600  | 23.9  |  
-| PF  | Jaylen Wells  | $4,400  | 20.9  |  
+| PF  | Kris Murray  | $3,200  | 5.2  |  
 | PG  | Ty Jerome  | $8,200  | 39.5  |  
-| SF  | Cedric Coward  | $7,200  | 35.0  |  
-| SG  | Jahmai Mashack  | $3,200  | 11.4  |  
-HornetsExpectedHome
+| SF  | Jaylen Wells  | $4,400  | 20.9  |  
+| SG  | Cedric Coward  | $7,200  | 35.0  |  
+HornetsConfirmedHome
 _Implied_**105.5** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
@@ -88,8 +88,8 @@ _Implied_**105.5** _Spread_**+2.5**
 | SG  | Brandon Miller  | $7,200  | 28.5  |  
 **POR @ PHI**
 O/U 231.57:00 PM ET
-Trail BlazersExpectedAway
-_Implied_**115.0** _Spread_**+1.5**  
+Trail BlazersConfirmedAway
+_Implied_**116.5** _Spread_**-1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Donovan Clingan  | $7,300  | 34.5  |  
@@ -98,7 +98,7 @@ _Implied_**115.0** _Spread_**+1.5**
 | SF  | Toumani Camara  | $5,600  | 24.2  |  
 | SG  | Sidy Cissoko  | $4,300  | 18.9  |  
 76ersConfirmedHome
-_Implied_**116.5** _Spread_**-1.5**  
+_Implied_**115.0** _Spread_**+1.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jabari Walker  | $3,800  | 19.4  |  
@@ -107,9 +107,9 @@ _Implied_**116.5** _Spread_**-1.5**
 | SF  | Jaylen Brown  | $8,100  | 32.8  |  
 | SG  | VJ Edgecombe  | $6,600  | 30.1  |  
 **OKC @ IND**
-O/U 225.57:30 PM ET
+O/U 226.57:30 PM ET
 ThunderExpectedAway
-_Implied_**115.0** _Spread_**-4.5**  
+_Implied_**115.5** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Isaiah Hartenstein  | $7,000  | 33.3  |  
@@ -118,7 +118,7 @@ _Implied_**115.0** _Spread_**-4.5**
 | SF  | Ajay Mitchell  | $6,900  | 34.5  |  
 | SG  | Jared McCain  | $6,700  | 27.9  |  
 PacersExpectedHome
-_Implied_**110.5** _Spread_**+4.5**  
+_Implied_**111.0** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Ivica Zubac  | $6,100  | 27.1  |  
@@ -167,9 +167,9 @@ _Implied_**116.5** _Spread_**-10.5**
 | SF  | Allen Graves  | $4,500  | 19.8  |  
 | SG  | Ja'Kobe Walter  | $5,500  | 29.3  |  
 **CLE @ CHI**
-O/U 242.58:00 PM ET
+O/U 241.58:00 PM ET
 CavaliersExpectedAway
-_Implied_**125.5** _Spread_**-8.5**  
+_Implied_**125.0** _Spread_**-8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,400  | 32.5  |  
@@ -178,7 +178,7 @@ _Implied_**125.5** _Spread_**-8.5**
 | SF  | Jaylon TysonP  | $4,600  | 26.0  |  
 | SG  | Donovan Mitchell  | $8,800  | 45.9  |  
 BullsExpectedHome
-_Implied_**117.0** _Spread_**+8.5**  
+_Implied_**116.5** _Spread_**+8.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jalen Smith  | $6,000  | 38.5  |  
