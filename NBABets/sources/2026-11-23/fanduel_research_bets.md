@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/7-best-nba-player-prop-bets-today-for-monday-november-23-with-odds | fetched: 2026-11-23 11:11 ET -->
+<!-- source: https://www.fanduel.com/research/7-best-nba-player-prop-bets-today-for-monday-november-23-with-odds | fetched: 2026-11-23 16:11 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # 7 Best NBA Player Prop Bets Today for Monday, November 23 With Odds
 ![Chris Beck](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://www.fanduel.com/research/author/chris-beck)
-44m
+6h
 Link
 ![7 Best NBA Player Prop Bets Today for Monday, November 23 With Odds](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F15c8e65196fc257f916c28d7cde4733d0e81e8a3-5041x2835.jpg%3Frect%3D0%2C171%2C5041%2C2494%26w%3D964%26h%3D477&w=1920&q=100)
 **7 Best NBA Player Prop Bets for Monday, November 23**
@@ -86,22 +86,22 @@ Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
 ## [7 Best NBA Player Prop Bets Today for Monday, November 23 With Odds](https://www.fanduel.com/research/7-best-nba-player-prop-bets-today-for-monday-november-23-with-odds)
-1h
+6h
 Tyrese Maxey, Devin Booker, Kevin Durant, Donovan Mitchell, Victor Wembanyama, Stephon Castle, and Alperen Sengun headline the best NBA player prop bets for Monday's slate.
 [](https://www.fanduel.com/research/7-best-nba-player-prop-bets-today-for-monday-november-23-with-odds)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Lakers vs. Jazz Prediction, Odds, Picks, Best Bets for Nov. 23](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-23-2026)
-8h
+13h
 Find Lakers vs. Jazz predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 NBA matchup.
 [](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pacers vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 23](https://www.fanduel.com/research/pacers-vs-thunder-prediction-nba-odds-spread-best-bets-for-11-23-2026)
-8h
+13h
 Find Pacers vs. Thunder predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 NBA matchup.
 [](https://www.fanduel.com/research/pacers-vs-thunder-prediction-nba-odds-spread-best-bets-for-11-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Bulls vs. Cavaliers Prediction, Odds, Picks, Best Bets for Nov. 23](https://www.fanduel.com/research/bulls-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-11-23-2026)
-8h
+13h
 Find Bulls vs. Cavaliers predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 NBA matchup.
 [](https://www.fanduel.com/research/bulls-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-11-23-2026)
 
