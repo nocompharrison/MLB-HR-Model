@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23 | fetched: 2026-11-23 18:05 ET -->
+<!-- source: https://www.fanduel.com/research/8-best-nba-bets-and-nba-player-props-tonight-for-monday-november-23 | fetched: 2026-11-23 18:35 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -105,12 +105,12 @@ Tyrese Maxey, Devin Booker, Kevin Durant, Donovan Mitchell, Victor Wembanyama, S
 [](https://www.fanduel.com/research/7-best-nba-player-prop-bets-today-for-monday-november-23-with-odds)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Lakers vs. Jazz Prediction, Odds, Picks, Best Bets for Nov. 23](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-23-2026)
-15h
+16h
 Find Lakers vs. Jazz predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 NBA matchup.
 [](https://www.fanduel.com/research/lakers-vs-jazz-prediction-nba-odds-spread-best-bets-for-11-23-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pacers vs. Thunder Prediction, Odds, Picks, Best Bets for Nov. 23](https://www.fanduel.com/research/pacers-vs-thunder-prediction-nba-odds-spread-best-bets-for-11-23-2026)
-15h
+16h
 Find Pacers vs. Thunder predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 NBA matchup.
 [](https://www.fanduel.com/research/pacers-vs-thunder-prediction-nba-odds-spread-best-bets-for-11-23-2026)
 
