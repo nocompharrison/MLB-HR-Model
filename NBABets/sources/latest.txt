@@ -1,8 +1,8 @@
-# NBA betting sources | Mon 11/23/2026 | updated 2026-11-23 18:08 ET
+# NBA betting sources | Mon 11/23/2026 | updated 2026-11-23 18:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-23/covers_top_picks.md       UPDATED (changed since 2026-11-23 16:11) 29,137 chars https://www.covers.com/nba/top-picks-nov-23-2026
-OK      NBABets/sources/2026-11-23/covers_ats_picks.md       UPDATED (changed since 2026-11-23 16:11) 29,094 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-23-2026
-OK      NBABets/sources/2026-11-23/rotowire_bets.md          23,042 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829
-OK      NBABets/sources/2026-11-23/fanduel_research_bets.md  UPDATED (changed since 2026-11-23 16:11) 21,630 chars [2 of 2 articles combined] https://www.fanduel.com/research/nba
-OK      NBABets/sources/2026-11-23/bettingpros_bets.md       UPDATED (changed since 2026-11-23 16:11) 55,287 chars (via Jina) [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-23/
+OK      NBABets/sources/2026-11-23/covers_top_picks.md       UPDATED (changed since 2026-11-23 18:08) 29,137 chars https://www.covers.com/nba/top-picks-nov-23-2026
+OK      NBABets/sources/2026-11-23/covers_ats_picks.md       UPDATED (changed since 2026-11-23 18:08) 29,094 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-23-2026
+OK      NBABets/sources/2026-11-23/rotowire_bets.md          UPDATED (changed since 2026-11-23 18:08) 23,016 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829
+OK      NBABets/sources/2026-11-23/fanduel_research_bets.md  UPDATED (changed since 2026-11-23 18:08) 21,630 chars [2 of 2 articles combined] https://www.fanduel.com/research/nba
+OK      NBABets/sources/2026-11-23/bettingpros_bets.md       UPDATED (changed since 2026-11-23 18:08) 55,680 chars (via Jina) [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-23/

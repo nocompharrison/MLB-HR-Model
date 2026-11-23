@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829 | fetched: 2026-11-23 18:08 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829 | fetched: 2026-11-23 18:38 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Monday, Nov. 23
 Get the best NBA bets today, with expert player prop picks on points + rebounds and points + assists, plus odds from top sportsbooks for Monday's Nov. 23 NBA slate.
@@ -115,21 +115,21 @@ Detroit Pistons
 Off injury report
 NBA
 Oklahoma City Thunder
-  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Brandon Miller](https://www.rotowire.com/basketball/player/brandon-miller-5896)
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)
 Good to go Monday
 NBA
-Charlotte Hornets
-  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Jalen Duren](https://www.rotowire.com/basketball/player/jalen-duren-5703)
-Remaining out for Tuesday
+Chicago Bulls
+  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
+[P.J. Washington](https://www.rotowire.com/basketball/player/pj-washington-4781)
+Iffy for Tuesday
 NBA
-Detroit Pistons
-  * ![Boston Celtics](https://assets.rotowire.com/images/teamlogo/basketball/100BOS.png?v=10)
-[Paul George](https://www.rotowire.com/basketball/player/paul-george-3114)
-Omitted from injury report
+Dallas Mavericks
+  * ![Chicago Bulls](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)
+Available to play
 NBA
-Boston Celtics
+Chicago Bulls
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
