@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/10-best-college-basketball-bets-for-monday-november-23-with-odds-picks-spreads-and-ml | fetched: 2026-11-23 11:17 ET -->
+<!-- source: https://fanduel.com/research/10-best-college-basketball-bets-for-monday-november-23-with-odds-picks-spreads-and-ml | fetched: 2026-11-23 17:03 ET -->
 
 ![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
 [Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # 10 Best College Basketball Bets for Monday, November 23 With Odds, Picks, Spreads, & ML
 ![Chris Beck](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://fanduel.com/research/author/chris-beck)
-35m
+6h
 Link
 ![10 Best College Basketball Bets for Monday, November 23 With Odds, Picks, Spreads, & ML](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8505eae14e18258514e57e45a20ac0a4f0a28aa5-4056x2704.jpg%3Frect%3D0%2C349%2C4056%2C2007%26w%3D964%26h%3D477&w=1920&q=100)
 **10 Best College Basketball Bets for Monday, November 23**
@@ -110,22 +110,22 @@ Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [10 Best College Basketball Bets for Monday, November 23 With Odds, Picks, Spreads, & ML](https://fanduel.com/research/10-best-college-basketball-bets-for-monday-november-23-with-odds-picks-spreads-and-ml)
-41m
+6h
 St. Bonaventure, Northern Iowa, Indiana State, Akron, Charlotte, Ole Miss, Tulane, Nevada, Central Arkansas, and Eastern Washington headline the best college basketball bets for Monday's slate.
 [](https://fanduel.com/research/10-best-college-basketball-bets-for-monday-november-23-with-odds-picks-spreads-and-ml)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Arizona vs Colorado State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 23](https://fanduel.com/research/arizona-vs-colorado-state-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
-3h
+9h
 Find Arizona vs. Colorado State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 college basketball matchup.
 [](https://fanduel.com/research/arizona-vs-colorado-state-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Kansas vs Denver College Basketball Prediction, Odds, Picks, Best Bets for Nov. 23](https://fanduel.com/research/kansas-vs-denver-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
-8h
+13h
 Find Kansas vs. Denver predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 college basketball matchup.
 [](https://fanduel.com/research/kansas-vs-denver-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Illinois vs Winthrop College Basketball Prediction, Odds, Picks, Best Bets for Nov. 23](https://fanduel.com/research/illinois-vs-winthrop-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
-8h
+13h
 Find Illinois vs. Winthrop predictions, betting odds, moneyline, spread, over/under and more for the Nov. 23 college basketball matchup.
 [](https://fanduel.com/research/illinois-vs-winthrop-college-basketball-predictions-odds-picks-best-bets-for-11-23-2026)
 

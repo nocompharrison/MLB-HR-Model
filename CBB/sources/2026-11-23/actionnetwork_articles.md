@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-23 11:17 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-23 17:03 ET -->
 
 
 ---
@@ -113,349 +113,103 @@ Illinois State vs. Santa Clara
 Right Arrow
 VCU vs. Providence
 ### Top Stories
-[![Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Dustin-Ford-MAC.png)](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
+[![Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
-[Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-Action Network Staff
-6 hours ago
-[![Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/acebuck-1.jpg)](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-Sean Paul
-6 hours ago
-[![Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+[Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 Colby Marchio
-5 hours ago
+11 hours ago
 [![VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
 [VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 Ryan Minion
+8 hours ago
+[![Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Ali-CsU.png)](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+NCAAB
+[Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+Jonathan Jorcin
+5 hours ago
+[![NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://images.actionnetwork.com/blog/2026/11/hallhendoera16.jpg)](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+NCAAB
+[NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+Mike Calabrese
 2 hours ago
-[ PRO ![College Basketball Monday Odds, Picks, +257 Parlay \(Early Slate\)](https://images.actionnetwork.com/blog/2026/11/dunk.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[ PRO ![VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://images.actionnetwork.com/blog/2026/11/providence-friars-11-23-26.jpg) ](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
 NCAAB
-[College Basketball Monday Odds, Picks, +257 Parlay (Early Slate)](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+Charles White
+4 hours ago
+[ PRO ![College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://images.actionnetwork.com/blog/2026/11/tigers1-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
+NCAAB
+[College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
 Alex Kolodziej
-1 hour ago
-[ PRO ![College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://images.actionnetwork.com/blog/2026/11/PRO-Ole-Miss-vs-Clemson-Sharp-Pick-11_23_26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-NCAAB
-[College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-Carlos Avilan
-1 hour ago
+4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2cecbafb-c057-4000-ab69-0776a5bfa169&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=791e46b6-94c4-4388-a542-6bdcd8bab353&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2cecbafb-c057-4000-ab69-0776a5bfa169&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=791e46b6-94c4-4388-a542-6bdcd8bab353&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bebdb70e-a962-419b-9b0a-5b32b77a3a8a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=791e46b6-94c4-4388-a542-6bdcd8bab353&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=7433&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bebdb70e-a962-419b-9b0a-5b32b77a3a8a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=791e46b6-94c4-4388-a542-6bdcd8bab353&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=7433&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=895c5157-7a7b-44a1-8281-e915b7aaafc0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b5afd522-aa76-477d-a73a-941b2f8b3cfa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=895c5157-7a7b-44a1-8281-e915b7aaafc0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b5afd522-aa76-477d-a73a-941b2f8b3cfa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=aee86327-74e0-4829-89c3-24d4e8242e90&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b5afd522-aa76-477d-a73a-941b2f8b3cfa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=7630&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=aee86327-74e0-4829-89c3-24d4e8242e90&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b5afd522-aa76-477d-a73a-941b2f8b3cfa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23&tw_engaged_ms=7630&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23
+## SOURCE: https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23
-![Author Profile](https://images.actionnetwork.com/blog/2019/11/check-100x100.png)
-[Action Network Staff](https://www.actionnetwork.com/article/author/action-network)
+# College Basketball Predictions: Today’s Sharpest Afternoon Best Bets
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/801146_Alex-Kolodziej-headshot-150x150.png)
+[Alex Kolodziej](https://www.actionnetwork.com/article/author/alex-kolodziej)
+Senior News Editor
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 23, 2026, 05:06 AM EST
+Nov 23, 2026, 02:14 PM EST
 Updated:
-Nov 23, 2026, 05:06 AM EST
+Nov 23, 2026, 02:14 PM EST
 Credit:
-USA TODAY Network via Reuters Connect. Pictured: Dustin Ford (Akron)
+Clemson Tigers mascot. Credit: Ken Ruinard-USA TODAY Sports
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Akron](https://www.actionnetwork.com/ncaab/odds/akron-zips) Zips take on the [Wright State](https://www.actionnetwork.com/ncaab/odds/wright-state-raiders) Raiders in Kissimmee, FL, for the ESPN Events Invitational. Tip-off is set for 1:30 p.m. ET on ESPNU.
-Wright State is favored by -1.5 points on the spread with a moneyline of -120. The total is set at 147.5 points.
-Here’s my **Akron vs. Wright State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 23, 2026.
-* * *
-## Akron vs Wright State Prediction
-**Pick:[ Under 147.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3236110379&context=playbook-slack-quickslip&sport=basketball)**
-My**Akron vs Wright State best bet** is on the under. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Akron vs Wright State Odds
-[![Akron Logo](https://static.sprtactn.co/teamlogos/ncaab/100/akr.png)](https://www.actionnetwork.com/ncaab/odds/akron-zips)
-Monday, November 23
-1:30 p.m. ET
-ESPNU
-[![Wright State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wrst.png)](https://www.actionnetwork.com/ncaab/odds/wright-state-raiders)  
-| Akron Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +1.5 -110  |  147.5 -110o / -110u  | +101  |  
-| Wright State Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -1.5 -110  |  147.5 -110o / -110u  | -120  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/880927_FanDuel1.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Akron vs Wright State spread:** Wright State -1.5 (-110 ), Akron +1.5 (-110)
-  * **Akron vs Wright State over/under:** 147.5 (-110o / -110u)
-  * **Akron vs Wright State moneyline:** Akron +101, Wright State -120
-
-
-* * *
-## Akron vs Wright State Pick, College Basketball Betting Analysis
-Wright State looks to keep its undefeated record alive when it faces 4-1 Akron in the second game of the ESPN Events Invitational (Adventure Bracket) on Monday.
-But instead of targeting a side, my [Bet Labs Sports Insights](https://www.sportsinsights.com/get-bet-labs/) system called "Rebound Unders" likes the under 147.5 number currently on the market (at the time of writing).
-This system has a 5% return on investment (ROI) with a 55% win rate since its inception, and this season alone, it has a 6% ROI with a 22-18 overall record.
-![NCAAB Icon](https://assets.actionnetwork.com/689493_NBA@3x.png)
-Evan Abrams – Rebound Unders
-betting on the Under
-the game is a Non-Conference game
-the game is played during the Regular or Postseason season
-the closing total is between 145 and 1000
-the Visiting Team's rebounds per game is between 35 and 100
-the spread for the home team is between -4 and 100
-$5,427
-WON
-573-473-5
-RECORD
-55%
-WIN%
-[View System](https://www.actionnetwork.com/pro-systems/system/1571919)
-The theory for this system is as follows:
-> This system titled "Rebound Unders" is built on the idea that strong rebounding teams in non-conference settings can quietly suppress scoring more than the market anticipates.
-> By targeting the under in games with elevated closing totals where the visiting team posts solid rebounding numbers and the home side is not an overwhelming underdog, the model isolates matchups likely to feature physical half-court possessions.
-> In non-conference play styles often clash and coaches emphasize discipline and control rather than pace, especially when preparing for unfamiliar opponents.
-> A road team that rebounds well limits second-chance points while also extending its own possessions, reducing overall transition opportunities and compressing total trips up and down the floor.
-> In college basketball, where shot selection fluctuates and neutral scouting can slow tempo, backing the under in these rebound driven road spots seeks to capitalize on games that grind into efficiency battles rather than evolving into high scoring exchanges despite lofty posted totals.
-With Akron sitting at 15th nationally in rebounds this season, this matchup qualifies for a system play.
-**Pick:[ Under 147.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3236110379&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Akron vs Wright State
-Location:
-State Farm Field House in Kissimmee, FL
-Date:
-Mon, Nov 23
-Tipoff Time:
-1:30 PM EST
-TV/Streaming:
-ESPNU
-Akron vs Wright State is scheduled for 1:30 PM EST live from State Farm Field House on Monday. The game will be broadcast on ESPNU.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)[](https://twitter.com/intent/tweet?text=Akron%20vs%20Wright%20State%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Monday%2C%20Nov.%2023&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-![Author Profile](https://images.actionnetwork.com/blog/2019/11/check-100x100.png)
-About the Author
-Action Network is a team of seasoned sports betting experts specializing in a broad range of sports, from the NFL and NBA to less mainstream options like cricket and darts. Their staff includes well-known analysts like Sean Koerner and Stuckey, recognized for their accurate predictions and deep sports knowledge. The team is dedicated to delivering expert analysis and daily best bets, ensuring bettors are well-informed across all major sports.
-[Follow @ActionNetworkHQ on X](https://x.com/ActionNetworkHQ)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+Monday's PRO college hoops cheat sheet is already out for the [day games](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early), now we shift gears to the afternoon slate for top picks.
+If you're tailing Action PRO best bets in the app or through [PRO Report](https://www.actionnetwork.com/ncaab/sharp-report), you're picking Ole Miss vs. Clemson (2 p.m. ET) and IUIN vs. William & Mary (3:30 p.m. ET).
+These are one-sided, clear-cut value predictions. Key signals are aligned on the same side in every matchup, ensuring smart, confident decisions.
+Because PRO Report sorts by strongest edge, these are the best plays for Monday afternoon, lined up and ready to go.
+### College Basketball Predictions: Today's Sharpest Afternoon Best Bets
+[Projections](https://www.actionnetwork.com/ncaab/projections) love the Clemson vs. Ole Miss total, while sharps and systems both align on a pick for IUIN vs. William & Mary.
+First up, take the 
 ### On This Page
 Right Arrow
-Akron vs Wright State Prediction
-Right Arrow
-Akron vs Wright State Odds
-Right Arrow
-Akron vs Wright State Pick, College Basketball Betting Analysis
-Right Arrow
-How To Watch Akron vs Wright State
+College Basketball Predictions: Today's Sharpest Afternoon Best Bets
 ### Top Stories
 [![College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://images.actionnetwork.com/blog/2026/11/PC-vs-vcu.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
 NCAAB
 [College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
 Carter Elliott
-10 hours ago
-[![Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/acebuck-1.jpg)](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
+TODAY / 1:04 AM EST
+[![Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
-[Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-Sean Paul
-6 hours ago
-[![Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+[Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 Colby Marchio
-5 hours ago
+11 hours ago
 [![VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
 [VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 Ryan Minion
-2 hours ago
-[ PRO ![College Basketball Monday Odds, Picks, +257 Parlay \(Early Slate\)](https://images.actionnetwork.com/blog/2026/11/dunk.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+8 hours ago
+[![Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Ali-CsU.png)](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
-[College Basketball Monday Odds, Picks, +257 Parlay (Early Slate)](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
-Alex Kolodziej
-1 hour ago
-[ PRO ![College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://images.actionnetwork.com/blog/2026/11/PRO-Ole-Miss-vs-Clemson-Sharp-Pick-11_23_26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-NCAAB
-[College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-Carlos Avilan
-1 hour ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=93ef3ea0-7fc3-4bd8-bac3-de31720ac4d7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f034dfe4-4ea1-468b-b44a-449a088923f4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=93ef3ea0-7fc3-4bd8-bac3-de31720ac4d7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f034dfe4-4ea1-468b-b44a-449a088923f4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=97336f66-930c-4665-b49c-3ff346a868cc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f034dfe4-4ea1-468b-b44a-449a088923f4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7375&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=97336f66-930c-4665-b49c-3ff346a868cc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=f034dfe4-4ea1-468b-b44a-449a088923f4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fakron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7375&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
-Staff Writer
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 23, 2026, 05:16 AM EST
-Updated:
-Nov 23, 2026, 05:16 AM EST
-Credit:
-Mar 3, 2026; Chapel Hill, North Carolina, USA; Clemson Tigers guard Ace Buckner (21) brings the ball up court against the North Carolina Tar Heels during the first half at Dean E. Smith Center. Mandatory Credit: Scott Kinser-Imagn Images
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Ole Miss](https://www.actionnetwork.com/ncaab/odds/ole-miss-rebels) Rebels take on the [Clemson](https://www.actionnetwork.com/ncaab/odds/clemson-tigers) Tigers in Lahaina, Hawaii for the Maui Invitational. Tip-off is set for 2:30 p.m. ET on ESPN2.
-Ole Miss is favored by 6.5 points on the spread with a moneyline of -205. The total is set at 148.5 points.
-Here’s my **Ole Miss vs. Clemson prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 23, 2026.
-* * *
-## Ole Miss vs Clemson Prediction
-**Pick:[ Clemson +6.5 (Play to +3.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3235867900&context=action-articles&sport=basketball)**
-My**Ole Miss vs Clemson best bet** is on the Tigers to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Ole Miss vs Clemson Odds
-[![Ole Miss Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)](https://www.actionnetwork.com/ncaab/odds/ole-miss-rebels)
-Monday, Nov 23
-2:30 p.m. ET
-ESPN2
-[![Clemson Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cle.png)](https://www.actionnetwork.com/ncaab/odds/clemson-tigers)  
-| Ole Miss Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -6.5 -102  |  148.5 -115o / -105u  | -250  |  
-| Clemson Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +6.5 -120  |  148.5 -115o / -105u  | +205  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Ole Miss vs Clemson spread:** Ole Miss -6.5 (-102), Clemson +6.5 (-120)
-  * **Ole Miss vs Clemson over/under:** 148.5 (-115o / -105u)
-  * **Ole Miss vs Clemson moneyline:** Ole Miss -250, Clemson +205
-
-
-* * *
-## Ole Miss vs Clemson College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)
-### Ole Miss Basketball
-Ole Miss went with a cupcake schedule before the Maui Invitational, playing just one team better than 296th in KenPom.
-To the Rebels' credit, they won all four of their games by 30+ points.
-This is a classic Chris Beard team with Mark Adams calling the defensive shots. The Rebels boast the 10th-most efficient defense in the country. They generate turnovers 30% of the time (best in the sport) and hold teams to 40% on 2s (14%).
-It may be an easy schedule so far, but those numbers point towards this defense being sustainable.
-I’m less sold on Ole Miss scoring in the half-court. The Rebels will look to score on the interior and in the mid-range with the shifty Adam “Budd” Clark at the controls. The 5-foot-10 guard from Philly leads the team with 15.5 points and 4.8 assists per game, while shooting 53% from the field.
-They rank 67th in offensive efficiency thanks to shooting 57% on 2s (64th) and turning the ball over just 12% of the time (11th).
-If Clemson forces the Rebels to shoot 3s and pack the paint, it’ll be tough for Ole Miss to respond. The Rebels attempts 3s on just 30% of their field goal attempts and hit 32% of them.
-The only player shooting well is Patton Pinkins, who’s 9-for-12 (75%) from 3. Nobody else with more than five attempts is in the 30% or better range.
-![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
-[Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
-Last 30d: 14-18-0 (-4.8u)
-Follow
-![SBON](https://static.sprtactn.co/teamlogos/ncaab/100/bon.png)
-![APP](https://static.sprtactn.co/teamlogos/ncaab/100/app.png)
-St. Bonaventure @ App State Picks
-Today
-/
-11:00 AM on ESPN2
-•
-7.3k bets
-Under 138.5
--109 (1u)
-Copy Bet
-Little too high for a game I expect to be in the 60s
-![MISS](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)
-![CLEM](https://static.sprtactn.co/teamlogos/ncaab/100/cle.png)
-Ole Miss @ Clemson Picks
-Today
-/
-2:30 PM on ESPN2
-•
-3.6k bets
-CLEM +5.5
--114 (1u)
-Copy Bet
-Article going up
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cle.png)
-### Clemson Basketball
-Clemson enters its biggest game of the season with a 4-1 record, but its resume has no substance thus far. The Tigers' biggest game was a lopsided loss to [Georgetown](https://www.actionnetwork.com/ncaab/odds/georgetown-hoyas) — and all four of its wins are against non-top-150 KenPom opponents.
-Brad Brownell is quite consistent. You never have to worry about Clemson being a top-10 team, but it’s usually a top-50 team on KenPom. However, the Tigers are No. 75 in KenPom entering the Maui Invitational, and I expect that to improve as time goes on.
-Most Brownell-era Clemson teams thrive on the defensive end, but the Tigers rank a woeful 140th in defensive efficiency this season. I’d be surprised if the Tigers' defense remains this bad; opponents are drilling a wholly unsustainable 38% of shots from deep against them.
-Their interior defense isn’t great either, ranking 161st in 2-point field goal percentage.
-Still, Clemson is well-schooled, as it ranks 21st in defensive free-throw rate and grabs offensive boards just 26% of the time.
-On the other side of the court, Clemson has looked impressive. The Tigers rank 38th in offensive efficiency, fueled by shooting an elite 41% from 3.
-The backcourt trio of Ace Buckner (40%), Cole Certa (34.5%) and Liutauras Lelevicius (61%) are each shooting well from deep. Certa is the best pure shooter of the bunch, but he can be a bit streaky.
-Brownell has more skilled bigs than usual. Starting center Dylan Faulkner averages 12.2 points, 7.6 rebounds and 3.6 assists per game.
-The Tigers also have a freshman in Chase Thompson, who shoots 35% from deep.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cle.png)
-## Ole Miss vs. Clemson Pick, Betting Analysis
-The line is too large.
-Ole Miss has cleaned up on weak opponents and now faces a formidable Clemson team.
-The Tigers have the right stylistic matchup, as they seldom turn the ball over.
-If Ole Miss can’t get a few runout chances, Clemson will condense the game to the half-court, which should allow it to stay close enough.
-**Pick:[ Clemson +6.5 (Play to +3.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3235867900&context=action-articles&sport=basketball)**
-* * *
-### How To Watch Ole Miss vs Clemson
-Location:
-Lahaina Civic Center in Lahaina, HI
-Date:
-Mon, Nov 23
-Tipoff Time:
-2:30 PM EST
-TV/Streaming:
-ESPN2
-Ole Miss vs Clemson is scheduled for 2:30 PM EST live from Lahaina Civic Center on Monday. The game will be broadcast on ESPN2.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)[](https://twitter.com/intent/tweet?text=Ole%20Miss%20vs%20Clemson%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Monday%2C%20Nov.%2023&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-About the Author
-Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
-[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Ole Miss vs Clemson Prediction
-Right Arrow
-Ole Miss vs Clemson Odds
-Right Arrow
-Ole Miss vs Clemson College Basketball Preview
-Right Arrow
-Ole Miss Basketball
-Right Arrow
-Clemson Basketball
-Right Arrow
-Ole Miss vs. Clemson Pick, Betting Analysis
-Right Arrow
-How To Watch Ole Miss vs Clemson
-### Top Stories
-[![College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://images.actionnetwork.com/blog/2026/11/PC-vs-vcu.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
-NCAAB
-[College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
-Carter Elliott
-10 hours ago
-[![Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Dustin-Ford-MAC.png)](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-Action Network Staff
-6 hours ago
-[![Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
-Colby Marchio
+[Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+Jonathan Jorcin
 5 hours ago
-[![VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
+[![NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://images.actionnetwork.com/blog/2026/11/hallhendoera16.jpg)](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
 NCAAB
-[VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
-Ryan Minion
+[NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+Mike Calabrese
 2 hours ago
-[ PRO ![College Basketball Monday Odds, Picks, +257 Parlay \(Early Slate\)](https://images.actionnetwork.com/blog/2026/11/dunk.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[ PRO ![VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://images.actionnetwork.com/blog/2026/11/providence-friars-11-23-26.jpg) ](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
 NCAAB
-[College Basketball Monday Odds, Picks, +257 Parlay (Early Slate)](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
-Alex Kolodziej
-1 hour ago
-[ PRO ![College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://images.actionnetwork.com/blog/2026/11/PRO-Ole-Miss-vs-Clemson-Sharp-Pick-11_23_26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-NCAAB
-[College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-Carlos Avilan
-1 hour ago
+[VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+Charles White
+4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c8f5a722-7fae-439c-aa5f-c7688b06f134&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8c7b0190-6179-45c7-b733-8cd61b6069aa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c8f5a722-7fae-439c-aa5f-c7688b06f134&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8c7b0190-6179-45c7-b733-8cd61b6069aa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=31388065-b634-4ac6-9f05-99acaf8cd922&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8c7b0190-6179-45c7-b733-8cd61b6069aa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7455&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=31388065-b634-4ac6-9f05-99acaf8cd922&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=8c7b0190-6179-45c7-b733-8cd61b6069aa&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7455&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d382fcdd-b37d-4831-a611-7bec4405e2e6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bfe6dcc0-db56-444f-a898-6198812bba58&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-today-afternoon-best-bets-11-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d382fcdd-b37d-4831-a611-7bec4405e2e6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bfe6dcc0-db56-444f-a898-6198812bba58&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-today-afternoon-best-bets-11-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5e1e3abe-db42-4654-878a-27e18d1d41df&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bfe6dcc0-db56-444f-a898-6198812bba58&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-today-afternoon-best-bets-11-23&tw_engaged_ms=7705&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5e1e3abe-db42-4654-878a-27e18d1d41df&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=bfe6dcc0-db56-444f-a898-6198812bba58&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-predictions-today-afternoon-best-bets-11-23&tw_engaged_ms=7705&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -464,27 +218,27 @@ Carlos Avilan
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23
+# Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 23, 2026, 05:36 AM EST
+Nov 23, 2026, 03:07 PM EST
 Updated:
-Nov 23, 2026, 05:36 AM EST
+Nov 23, 2026, 03:07 PM EST
 Credit:
 Nov 2, 2026; Salt Lake City, Utah, USA; Brigham Young Cougars guard Robert Wright III (1) brings the ball up the court against the Ohio State Buckeyes during the first half at Delta Center. Mandatory Credit: Rob Gray-Imagn Images
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
 The [Washington](https://www.actionnetwork.com/ncaab/odds/washington-huskies) Huskies take on the [BYU](https://www.actionnetwork.com/ncaab/odds/byu-cougars) Cougars in Lahaina, Hawaii. Tip-off is set for 5 p.m. ET on ESPN2.
-BYU is favored by -11.5 points on the spread with a moneyline of -750. The total is set at 165.5 points.
+BYU is favored by -11.5 points on the spread with a moneyline of -750. The total is set at 163.5 points.
 Here’s my **Washington vs. BYU prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 23, 2026.
 * * *
 ## Washington vs BYU Prediction
 **Pick:[BYU -11.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3235586696&context=action-articles&sport=basketball)**
 My**Washington vs BYU best bet** is on the Cougars to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Washington vs BYU Odds
+## Washington vs BYU Odds, Spread, Total
 [![Washington Logo](https://static.sprtactn.co/teamlogos/ncaab/100/was.png)](https://www.actionnetwork.com/ncaab/odds/washington-huskies)
 Monday, Nov 23
 5 p.m. ET
@@ -493,20 +247,20 @@ ESPN2
 | Washington Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +11.5 -110  |  165.5 -110o / -110u  | +525  |  
+|  +11.5 -115  |  163.5 -115o / -105u  | +525  |  
 | BYU Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -11.5 -110  |  165.5 -110o / -110u  | -750  |  
+|  -11.5 -105  |  163.5 -115o / -105u  | -750  |  
 Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
   * **Washington vs BYU spread:** Washington +11.5 (-110), BYU -11.5 (-110)
-  * **Washington vs BYU over/under:** 165.5 (-110o / -110u)
+  * **Washington vs BYU over/under:** 163.5 (-110o / -110u)
   * **Washington vs BYU moneyline:** Washington +525, BYU -750
 
 
 * * *
-## Washington vs BYU College Basketball Preview
+## Washington vs BYU Preview
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/was.png)
 ### Washington Basketball
 There was not a lot of love coming into the season for Washington, as many believed this team will finish in the middle of the Big Ten.
@@ -524,7 +278,7 @@ There are a few concerns, though. The Cougars have struggled to defend the inter
 However, they don't foul often and block shots at a high rate, all while Bart Torvik ranks them 42nd in adjusted defensive efficiency.
 ![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/was.png)
 ![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/byu.png)
-## Washington vs. BYU Pick, Betting Analysis
+## Washington vs. BYU College Basketball Picks, Best Bet
 It is hard to want to back the 'dog on a neutral-site court in lovely Hawaii when said 'dog has yet to leave its home this season.
 Meanwhile, the heavy favorite kicked off its season on the road, taking down [Ohio State](https://www.actionnetwork.com/ncaab/odds/ohio-state-buckeyes) by 11.
 BYU should be able to manage the less battle-tested Huskies, as the 'dogs have only faced teams ranked outside the top 145 this season.
@@ -546,7 +300,7 @@ Tipoff Time:
 TV/Streaming:
 ESPN2
 Washington vs BYU is scheduled for 5:00 PM EST live from Lahaina Civic Center on Monday. The game will be broadcast on ESPN2.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)[](https://twitter.com/intent/tweet?text=Washington%20vs%20BYU%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Monday%2C%20Nov.%2023&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)[](https://twitter.com/intent/tweet?text=Washington%20vs%20BYU%20Prediction%2C%20Odds%2C%20Start%20Time%3A%20College%20Basketball%20Picks%20for%20Monday%2C%20Nov.%2023&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
@@ -555,15 +309,15 @@ This site [contains commercial content](https://www.actionnetwork.com/legal-onli
 Right Arrow
 Washington vs BYU Prediction
 Right Arrow
-Washington vs BYU Odds
+Washington vs BYU Odds, Spread, Total
 Right Arrow
-Washington vs BYU College Basketball Preview
+Washington vs BYU Preview
 Right Arrow
 Washington Basketball
 Right Arrow
 BYU Basketball
 Right Arrow
-Washington vs. BYU Pick, Betting Analysis
+Washington vs. BYU College Basketball Picks, Best Bet
 Right Arrow
 How To Watch Washington vs BYU
 ### Top Stories
@@ -571,35 +325,35 @@ How To Watch Washington vs BYU
 NCAAB
 [College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
 Carter Elliott
-10 hours ago
-[![Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Dustin-Ford-MAC.png)](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-Action Network Staff
-6 hours ago
-[![Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/acebuck-1.jpg)](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-Sean Paul
-6 hours ago
+TODAY / 1:04 AM EST
 [![VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
 [VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
 Ryan Minion
+8 hours ago
+[![Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Ali-CsU.png)](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+NCAAB
+[Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+Jonathan Jorcin
+5 hours ago
+[![NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://images.actionnetwork.com/blog/2026/11/hallhendoera16.jpg)](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+NCAAB
+[NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+Mike Calabrese
 2 hours ago
-[ PRO ![College Basketball Monday Odds, Picks, +257 Parlay \(Early Slate\)](https://images.actionnetwork.com/blog/2026/11/dunk.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[ PRO ![VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://images.actionnetwork.com/blog/2026/11/providence-friars-11-23-26.jpg) ](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
 NCAAB
-[College Basketball Monday Odds, Picks, +257 Parlay (Early Slate)](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+Charles White
+4 hours ago
+[ PRO ![College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://images.actionnetwork.com/blog/2026/11/tigers1-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
+NCAAB
+[College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
 Alex Kolodziej
-1 hour ago
-[ PRO ![College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://images.actionnetwork.com/blog/2026/11/PRO-Ole-Miss-vs-Clemson-Sharp-Pick-11_23_26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-NCAAB
-[College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-Carlos Avilan
-1 hour ago
+4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a662814c-6336-4fed-80c8-8aefb2ee1c9e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=226d73c3-e5ab-49d6-a963-0de767c48ef7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a662814c-6336-4fed-80c8-8aefb2ee1c9e&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=226d73c3-e5ab-49d6-a963-0de767c48ef7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=65a990ad-4103-48d9-9220-f468c3df33ad&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=226d73c3-e5ab-49d6-a963-0de767c48ef7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7524&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=65a990ad-4103-48d9-9220-f468c3df33ad&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=226d73c3-e5ab-49d6-a963-0de767c48ef7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7524&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3e71df87-7bbd-4c7d-b88e-e8941cea9329&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78bd48c5-3f03-49e6-8803-3d31fc638ce3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3e71df87-7bbd-4c7d-b88e-e8941cea9329&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78bd48c5-3f03-49e6-8803-3d31fc638ce3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=99ed318c-1a64-4540-b67a-f88711755e02&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78bd48c5-3f03-49e6-8803-3d31fc638ce3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7640&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=99ed318c-1a64-4540-b67a-f88711755e02&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=78bd48c5-3f03-49e6-8803-3d31fc638ce3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwashington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7640&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -665,7 +419,7 @@ Though wins over [Little Rock](https://www.actionnetwork.com/ncaab/odds/arkansas
 Martelli’s coaching style emphasizes relentless full-court defensive pressure, high-tempo transition offense and physicality in the paint.
 ![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)
 [Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-Last 30d: 302-298-8 (+10.5u)
+Last 30d: 302-301-8 (+9.2u)
 Follow
 ![CIN](https://static.sprtactn.co/teamlogos/nfl/100/cin.png)
 ![WAS](https://assets.actionnetwork.com/698864_Commanders.png)
@@ -674,7 +428,7 @@ Today
 /
 8:15 PM on ESPN
 •
-48.0k bets
+83.1k bets
 WAS +6
 -110 (1.1u)
 Copy Bet
@@ -686,7 +440,7 @@ Today
 /
 9:00 PM on ESPNU
 •
-2.5k bets
+6.4k bets
 PROV -120
 -120 (1.2u)
 Copy Bet
@@ -753,33 +507,178 @@ How To Watch VCU vs Providence
 NCAAB
 [College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
 Carter Elliott
-10 hours ago
-[![Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Dustin-Ford-MAC.png)](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
+TODAY / 1:04 AM EST
+[![Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 NCAAB
-[Akron vs Wright State Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/akron-zips-vs-wright-state-raiders-prediction-pick-odds-college-basketball-monday-november-23)
-Action Network Staff
-6 hours ago
-[![Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/acebuck-1.jpg)](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Ole Miss vs Clemson Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/ole-miss-rebels-vs-clemson-tigers-prediction-pick-odds-college-basketball-monday-november-23)
-Sean Paul
-6 hours ago
-[![Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
-NCAAB
-[Washington vs BYU Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+[Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
 Colby Marchio
+11 hours ago
+[![Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/Ali-CsU.png)](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+NCAAB
+[Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+Jonathan Jorcin
 5 hours ago
-[ PRO ![College Basketball Monday Odds, Picks, +257 Parlay \(Early Slate\)](https://images.actionnetwork.com/blog/2026/11/dunk.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[![NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://images.actionnetwork.com/blog/2026/11/hallhendoera16.jpg)](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
 NCAAB
-[College Basketball Monday Odds, Picks, +257 Parlay (Early Slate)](https://www.actionnetwork.com/ncaab/college-basketball-monday-odds-picks-predictions-parlay-early)
+[NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+Mike Calabrese
+2 hours ago
+[ PRO ![VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://images.actionnetwork.com/blog/2026/11/providence-friars-11-23-26.jpg) ](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+NCAAB
+[VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+Charles White
+4 hours ago
+[ PRO ![College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://images.actionnetwork.com/blog/2026/11/tigers1-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
+NCAAB
+[College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
 Alex Kolodziej
-1 hour ago
-[ PRO ![College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://images.actionnetwork.com/blog/2026/11/PRO-Ole-Miss-vs-Clemson-Sharp-Pick-11_23_26.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-NCAAB
-[College Basketball Odds: Signals Aligned for Ole Miss vs Clemson](https://www.actionnetwork.com/ncaab/college-basketball-odds-signals-aligned-for-ole-miss-vs-clemson)
-Carlos Avilan
-1 hour ago
+4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f903df19-cac6-4022-9a47-8e88461e11ec&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c340dc43-9897-4130-818a-8131ba7d1035&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f903df19-cac6-4022-9a47-8e88461e11ec&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c340dc43-9897-4130-818a-8131ba7d1035&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bc58d70f-1ef1-4a55-9793-74e32a90d1a2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c340dc43-9897-4130-818a-8131ba7d1035&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7427&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=bc58d70f-1ef1-4a55-9793-74e32a90d1a2&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c340dc43-9897-4130-818a-8131ba7d1035&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7427&tw_iframe_status=0&tw_pid_src=2&tw_session_count=124&tw_session_id=1795449808128-272661557&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=086651a3-0a13-4823-bcd6-69edbc49b131&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5cde6bb5-5b11-4ec3-a1e5-7ad32983f5f7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=086651a3-0a13-4823-bcd6-69edbc49b131&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5cde6bb5-5b11-4ec3-a1e5-7ad32983f5f7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9f70bce6-51b5-4b5b-bef6-886e778e83d9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5cde6bb5-5b11-4ec3-a1e5-7ad32983f5f7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7640&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9f70bce6-51b5-4b5b-bef6-886e778e83d9&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5cde6bb5-5b11-4ec3-a1e5-7ad32983f5f7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fvcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7640&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/colorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Colorado State vs Arizona Prediction, Pick, College Basketball Odds for Monday, Nov. 23
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+[Jonathan Jorcin](https://www.actionnetwork.com/article/author/jjorcin)
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 23, 2026, 11:36 AM EST
+Updated:
+Nov 23, 2026, 11:36 AM EST
+Credit:
+USA TODAY Network via Reuters Connect. Pictured: Ali Farokhmanesh (Colorado State)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The [Colorado State](https://www.actionnetwork.com/ncaab/odds/colorado-state-rams) Rams take on the [Arizona](https://www.actionnetwork.com/ncaab/odds/arizona-wildcats) Wildcats in Lahaina, Hawaii, for the Maui Invitational. Tip-off is set for 11:30 p.m. ET on ESPN2.
+Arizona is favored by -16.5 points on the spread with a moneyline of -2500. The total is set at 158.5 points.
+Here’s my **Colorado State vs. Arizona prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 23, 2026.
+* * *
+## Colorado State vs Arizona Prediction
+**Pick:[ Colorado State +16.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3236205148&context=playbook-slack-quickslip&sport=basketball)**
+My**Colorado State vs Arizona best bet** is on the Rams to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Colorado State vs Arizona Odds
+[![Colorado State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/csu.png)](https://www.actionnetwork.com/ncaab/odds/colorado-state-rams)
+Monday, Nov 23
+11:30 p.m. ET
+ESPN2
+[![Arizona Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)](https://www.actionnetwork.com/ncaab/odds/arizona-wildcats)  
+| Colorado State Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +16.5 -102  |  158.5 -110o / -110u  | +1100  |  
+| Arizona Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -16.5 -120  |  158.5 -110o / -110u  | -2500  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **Colorado State vs Arizona spread:** Colorado State +16.5 (-102), Arizona -16.5 (-120)
+  * **Colorado State vs Arizona over/under:** 158.5 (-110o / -110u)
+  * **Colorado State vs Arizona moneyline:** Colorado State +1100, Arizona -2500
+
+
+* * *
+## Colorado State vs Arizona College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/csu.png)
+### Colorado State Basketball
+Unless Arizona experiences a collapse, the Wildcats are almost a lock for a top-four seed in the NCAA Tournament.
+But Colorado State has a different ceiling as the Rams enter their first year in the new-look Pac-12. They can use this holiday tournament to build their resume, and playing tough against the 12th-ranked Wildcats will go a long way toward building confidence for the Rams.
+March Madness legend Ali Farokhmanesh leads the Rams in his second season after a 21-13 NIT Tournament in Year 1.
+The transition from Niko Medved was flawless, as Farokhmanesh was a longtime assistant with the program.
+The continuity led to Carey Booth, Kyle Jorgensen, Jase Butler and Josh Pascarelli all being holdovers from Medved, and they are all averaging double digits in scoring en route to the Rams' 4-1 record.
+The Rams rank 54th in terms of Division I experience, much higher than the Wildcats, who are ranked 229th in that category.
+That experience goes a long way in an early-season tournament format.
+![Jonathan Jorcin](https://s3.amazonaws.com/tan-user-assets/profile_images/64173/1685081139715-57027c40fb8b11eda18dc342d78c27a8.jpg)
+[Jonathan Jorcin](https://www.actionnetwork.com/picks/profile/JonathanReno)
+Last 30d: 8-4-0 (+3.7u)
+Follow
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)
+### Arizona Basketball
+Arizona opened the season with a nine-point loss to [UCLA](https://www.actionnetwork.com/ncaab/odds/ucla-bruins). The Wildcats have since reeled off four straight wins, including a statement against Dan Hurley and the Huskies.
+The Wildcats were fifth in the AP Preseason Poll and dropped seven spots after the loss to UCLA, which was probably too steep of a drop-off in my opinion.
+This team went through a major roster overhaul, bringing back only 27% of its production from a season ago.
+The Wildcats had to find replacements for Koa Peat, Brayden Burries and Jaden Bradley, all of whom have joined the professional ranks. Ivan Kharchenkov, Motiejus Krivas and Caleb Holt have filled the void, as they're all averaging at least 17.6 points and seven rebounds per game.
+The Wildcats have plenty of key contributors to fill the needed roles, but they lack bench production. They rank 357th in the nation in minutes played by bench players. While that may not be a big issue now, they will need that depth in the NCAA tournament.
+For now, they will focus on the Maui Invitational, a staple of Feast Week. Arizona is the clear favorite in this tournament, which features [BYU](https://www.actionnetwork.com/ncaab/odds/byu-cougars), [Clemson](https://www.actionnetwork.com/ncaab/odds/clemson-tigers), [Ole Miss](https://www.actionnetwork.com/ncaab/odds/ole-miss-rebels), [VCU](https://www.actionnetwork.com/ncaab/odds/virginia-commonwealth-rams) and [Washington](https://www.actionnetwork.com/ncaab/odds/washington-huskies), among others.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/csu.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)
+## Colorado State vs. Arizona Pick, Betting Analysis
+This is a pretty large spread, and the Maui Invitational first-round games have typically been close.
+The highest margin of victory since 2022 in opening-round games that did not include Chaminade University has been 16 points.
+No other first-round margin of victory has been more than 13 points.
+I concede the talent differential between these two teams, but the Rams have enough to compete.
+The Rams have plenty of scoring ability, and if they avoid falling in love with contested 3-pointers, this game will be within single digits as time dwindles.
+**Pick:[ Colorado State +16.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3236205148&context=playbook-slack-quickslip&sport=basketball)**
+* * *
+### How To Watch Colorado St vs Arizona
+Location:
+Lahaina Civic Center in Lahaina, HI
+Date:
+Mon, Nov 23
+Tipoff Time:
+11:30 PM EST
+TV/Streaming:
+ESPN2
+Colorado St vs Arizona is scheduled for 11:30 PM EST live from Lahaina Civic Center on Monday. The game will be broadcast on ESPN2.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)[](https://twitter.com/intent/tweet?text=Colorado%20State%20vs%20Arizona%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Monday%2C%20Nov.%2023&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23)
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+About the Author
+Jonathan Jorcin • Verified Action Expert
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Colorado State vs Arizona Prediction
+Right Arrow
+Colorado State vs Arizona Odds
+Right Arrow
+Colorado State vs Arizona College Basketball Preview
+Right Arrow
+Colorado State Basketball
+Right Arrow
+Arizona Basketball
+Right Arrow
+Colorado State vs. Arizona Pick, Betting Analysis
+Right Arrow
+How To Watch Colorado St vs Arizona
+### Top Stories
+[![College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://images.actionnetwork.com/blog/2026/11/PC-vs-vcu.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
+NCAAB
+[College Basketball Best Bets: 4 Feast Week Picks for Monday, November 23](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-ncaab-monday-november-23)
+Carter Elliott
+TODAY / 1:04 AM EST
+[![Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/rwiii.jpg)](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+NCAAB
+[Washington vs BYU Prediction, Odds, Start Time: College Basketball Picks for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/washington-huskies-vs-byu-cougars-prediction-pick-odds-college-basketball-monday-november-23)
+Colby Marchio
+11 hours ago
+[![VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://images.actionnetwork.com/blog/2026/11/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23.jpg)](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
+NCAAB
+[VCU vs Providence Prediction, Pick, College Basketball Odds for Monday, Nov. 23](https://www.actionnetwork.com/ncaab/vcu-rams-vs-providence-friars-prediction-pick-odds-college-basketball-monday-november-23)
+Ryan Minion
+8 hours ago
+[![NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://images.actionnetwork.com/blog/2026/11/hallhendoera16.jpg)](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+NCAAB
+[NCAAB Futures: Players Era 16 Preview, Tournament Odds, College Basketball Picks](https://www.actionnetwork.com/ncaab/ncaab-futures-players-era-16-preview-tournament-odds-college-basketball-picks)
+Mike Calabrese
+2 hours ago
+[ PRO ![VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://images.actionnetwork.com/blog/2026/11/providence-friars-11-23-26.jpg) ](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+NCAAB
+[VCU vs Providence Odds: Sharp O/U Move for Monday Night](https://www.actionnetwork.com/ncaab/vcu-vs-providence-odds-sharp-o-u-move-for-monday-night)
+Charles White
+4 hours ago
+[ PRO ![College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://images.actionnetwork.com/blog/2026/11/tigers1-1-1.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
+NCAAB
+[College Basketball Predictions: Today’s Sharpest Afternoon Best Bets](https://www.actionnetwork.com/ncaab/college-basketball-predictions-today-afternoon-best-bets-11-23)
+Alex Kolodziej
+4 hours ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5bc4dc50-0cca-4bd9-9c4b-e98d39c9d67d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=65c634d5-2dcc-41cc-ac4d-bf88f912c130&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5bc4dc50-0cca-4bd9-9c4b-e98d39c9d67d&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=65c634d5-2dcc-41cc-ac4d-bf88f912c130&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d89810aa-471f-4dfb-bfca-3b6216b20321&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=65c634d5-2dcc-41cc-ac4d-bf88f912c130&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7693&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d89810aa-471f-4dfb-bfca-3b6216b20321&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=65c634d5-2dcc-41cc-ac4d-bf88f912c130&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcolorado-state-rams-vs-arizona-wildcats-prediction-pick-odds-college-basketball-monday-november-23&tw_engaged_ms=7693&tw_iframe_status=0&tw_pid_src=2&tw_session_count=126&tw_session_id=1795471262015-305612090&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
