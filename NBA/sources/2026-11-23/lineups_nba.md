@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-23 16:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-23 18:05 ET -->
 
 
 ---
@@ -350,7 +350,7 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 *   James Harden Over 25.5 Points + Assists
 *   Fred VanVleet Over 14.5 Points + Assists
 
-### **Scottie Barnes (Raptors vs. Bucks) Over Points**[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (75¢)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)
+### **Scottie Barnes (Raptors vs. Bucks) Over Points**[![Image 32: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)19.5 (72¢)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)
 
 [](https://www.lineups.com/)
 
@@ -358,7 +358,7 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 
 [![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)[O/U Points Scored (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661121/underdog_sc)
 
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[7.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[O/U Total Rebounds (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661121/polymarket_sc)
 
 [![Image 36: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)[O/U Total Assists (vs. MIL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661121/kalshi_sc)
 
@@ -372,7 +372,7 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 
 **Original Line Publish:** 19.5
 
-### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)25.5 (55¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661123/underdog_sc)
+### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)25.5 (58¢)](https://lineups.go.metabet.io/bet/nba_game_player_points_assists/661123/underdog_sc)
 
 [](https://www.lineups.com/)
 
@@ -404,7 +404,7 @@ Finally, it’s worth noting Cleveland’s slate-high 124.5-point implied team t
 
 [![Image 47: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)[O/U Total Rebounds (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661125/underdog_sc)
 
-[![Image 48: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)[O/U Total Assists (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/polymarket_sc)
+[![Image 48: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_sc)[O/U Total Assists (vs. LAC)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661125/kalshi_sc)
 
 [![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/fred_vanvleet/player_56167 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -1045,11 +1045,11 @@ Bane has been markedly more productive and efficient in recent games, however, s
 
 ![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10221.png)Darryn Peterson
 
-[![Image 46: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)[O/U Points Scored (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)[18.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/underdog_sc)
+[![Image 46: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/kalshi_sc)[O/U Points Scored (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/kalshi_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661126/kalshi_sc)
 
 [![Image 47: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)[O/U Total Rebounds (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661126/kalshi_sc)
 
-[![Image 48: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)[O/U Total Assists (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/kalshi_sc)
+[![Image 48: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/underdog_sc)[O/U Total Assists (@ LAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661126/underdog_sc)
 
 [![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darryn_peterson/player_276494 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
