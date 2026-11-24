@@ -1,48 +1,90 @@
-# CBB transcripts | 2026-11-23 | updated 2026-11-23 17:06 ET
+# CBB transcripts | 2026-11-24 | updated 2026-11-24 11:27 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 18 files in CBB/transcripts/2026-11-23:
-CBB/transcripts/2026-11-23/1BEsCu29OHo_CBSCollegeBB_Jon_Rothstein_Previews_FEAST_WEEK_Duke_vs_UConn_Tricky_Spots_for_Kentu.txt
-CBB/transcripts/2026-11-23/1UVUSbWxrbE_FieldOf68_THIS_is_how_to_fix_Duke_There_s_one_change_that_Jon_Scheyer_can_make.txt
-CBB/transcripts/2026-11-23/47SSDQxHtl8_FieldOf68_These_are_the_MOST_DISAPPOINTING_teams_in_college_basketball_this_seas.txt
-CBB/transcripts/2026-11-23/60K2C81pXNE_ActionNetwork_COLLEGE_BASKETBALL_FEAST_WEEK_Best_Bets_for_Every_Major_Tournament.txt
-CBB/transcripts/2026-11-23/6xVTy2OrX8c_FieldOf68_These_are_the_MOST_SURPRISING_teams_in_college_basketball_this_season.txt
-CBB/transcripts/2026-11-23/EbxwVYoWq0o_FieldOf68_WEEK_THREE_REACTIONS_Who_is_the_REAL_best_team_in_college_hoops_Who_ca.txt
-CBB/transcripts/2026-11-23/FfeWK0_OSxs_FieldOf68_These_are_the_ONLY_college_basketball_teams_that_can_win_the_national.txt
-CBB/transcripts/2026-11-23/FlM0dIqnL70_CBSCollegeBB_We_ll_talk_about_this_team_DIFFERENTLY_after_this_week_Players_Era_16.txt
-CBB/transcripts/2026-11-23/N-o-F_SE8CQ_TCE_College_Basketball_Best_Bets_For_November_23rd_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-23/TseIBkXdaXA_PickDawgz_Free_CBB_Betting_Picks_Predictions_Today_11_23_2026_Brian_s_Take_it_to.txt
-CBB/transcripts/2026-11-23/WwkNvLO-9OI_FieldOf68_Who_is_ACTUALLY_college_basketball_s_best_team_Illinois_vs_Virginia_vs.txt
-CBB/transcripts/2026-11-23/XQl664iQMwQ_TCE_College_Basketball_PICKS_ONLY_Monday_November_23rd_TCE_Trims.txt
-CBB/transcripts/2026-11-23/fD863FTFAzs_WagerTalk_MONDAY_CBB_Picks_TODAY_Washington_vs_BYU_VCU_vs_Providence.txt
-CBB/transcripts/2026-11-23/fdGoNN3IlX4_TCE_Maui_Invitational_Futures_and_Best_Bets_College_Basketball_Picks_Today.txt
-CBB/transcripts/2026-11-23/flQL0mJr1HA_PickDawgz_College_Basketball_Picks_for_Today_11_123_26_Monday_s_Best_College_Bas.txt
-CBB/transcripts/2026-11-23/nDmCF2c2XaY_BBOC_College_Basketball_FEAST_WEEK_PICKS_Best_Bets_Tournament_Predictions.txt
-CBB/transcripts/2026-11-23/wIjuHp-3TeE_CBSCollegeBB_Jon_Rothstein_previews_the_Duke_UConn_SHOWDOWN_in_Las_Vegas_Feast_Week.txt
-CBB/transcripts/2026-11-23/xTzcfal6TRE_TCE_College_Basketball_Picks_For_November_23rd_NCAA_Basketball_Banter_Best.txt
+# 33 files in CBB/transcripts/2026-11-24:
+CBB/transcripts/2026-11-24/4yVVNHxInRE_LockedOnCBB_FEAST_WEEK_Does_Arizona_have_enough_depth_to_win_Maui_Invitational_WIT.txt
+CBB/transcripts/2026-11-24/A8MSG2UnM7w_SGPN_Saint_Mary_s_vs_UCLA_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-24/AsS1l61XbaE_WagerTalk_LATE_NIGHT_CBB_Picks_Stanford_vs_Colorado_Gonzaga_vs_Kansas_State.txt
+CBB/transcripts/2026-11-24/BvXsCmm8SIg_WagerTalk_College_Basketball_Picks_TODAY_Creighton_vs_Michigan_Vanderbilt_vs_Ohi.txt
+CBB/transcripts/2026-11-24/C_x27Oe95Kk_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_24th_TCE_Trims.txt
+CBB/transcripts/2026-11-24/E808tlxAOBc_SGPN_College_Basketball_Picks_Tue_Nov_24th_Wed_Nov_25th_Thu_Nov_26th.txt
+CBB/transcripts/2026-11-24/EnoHOeK4YYI_SGPN_Arkansas_vs_Michigan_State_Prediction_Picks_Best_Bets_College_Basketba.txt
+CBB/transcripts/2026-11-24/HL9UJo_9DJc_PickDawgz_College_Basketball_Picks_for_Today_11_24_26_Tuesday_s_Best_College_Bas.txt
+CBB/transcripts/2026-11-24/H_fIzIJJbBc_SGPN_Army_vs_Air_Force_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt
+CBB/transcripts/2026-11-24/IjO2HmRepKw_PickDawgz_College_Basketball_Picks_Predictions_Today_11_24_26_Ron_s_Bank_Shot_Br.txt
+CBB/transcripts/2026-11-24/MQJ7VTtzI-U_FieldOf68_Cameron_Fens_is_a_HUGE_addition_to_North_Carolina_and_here_s_why_AFTE.txt
+CBB/transcripts/2026-11-24/MxnufRBAC9E_FieldOf68_Illinois_drops_133_POINTS_and_sets_a_Big_Ten_RECORD_This_is_a_title_fa.txt
+CBB/transcripts/2026-11-24/N4nk4oVhE14_TCE_College_Basketball_Picks_For_November_24th_NCAA_Basketball_Banter_Best.txt
+CBB/transcripts/2026-11-24/NIjkBP3ry54_FieldOf68_PREVIEW_Why_Texas_Tech_Louisville_is_the_BEST_matchup_at_Players_Era_A.txt
+CBB/transcripts/2026-11-24/OrLGXM4wxSg_SGPN_Marquette_vs_Virginia_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-24/SAx4zakg1tE_FieldOf68_A_10_INSIDER_Rhode_Island_s_Archie_Miller_on_the_6_1_start_win_over_UA.txt
+CBB/transcripts/2026-11-24/W7PNftH1JMM_FieldOf68_MW_INSIDER_Sundance_Wicks_on_Wyoming_s_HOT_Start_Changing_the_Culture.txt
+CBB/transcripts/2026-11-24/ZZ82gmviVvg_FieldOf68_Goodman_The_SEC_might_legitimately_vote_to_KICK_LSU_OUT_Will_Wade_in_T.txt
+CBB/transcripts/2026-11-24/Zx76bknw9nw_SGPN_Georgetown_vs_Texas_Prediction_Picks_Best_Bets_College_Basketball_11_2.txt
+CBB/transcripts/2026-11-24/cqBKkynGHC8_FieldOf68_PREVIEW_Why_UConn_is_RELISHING_this_matchup_against_Duke_in_Vegas_AFTE.txt
+CBB/transcripts/2026-11-24/fCQdrSrhe2k_TCE_Players_Era_Futures_and_Best_Bets_College_Basketball_Picks_Today_TCE_T.txt
+CBB/transcripts/2026-11-24/fGhk8hMxlv0_PickDawgz_College_Basketball_Picks_Predictions_For_Today_Tuesday_11_24_26_CBB_Be.txt
+CBB/transcripts/2026-11-24/gF_u4E_0ptA_SGPN_Alabama_vs_Baylor_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt
+CBB/transcripts/2026-11-24/hiK5_mFmFMY_SGPN_Louisville_vs_Texas_Tech_Prediction_Picks_Best_Bets_College_Basketball.txt
+CBB/transcripts/2026-11-24/i3_0wYigbJ0_FieldOf68_EXCLUSIVE_Nate_Oats_previews_Alabama_s_matchup_against_Baylor_at_Playe.txt
+CBB/transcripts/2026-11-24/jIgy5mc9MTE_FieldOf68_Providence_gets_a_BIG_win_in_Maui_in_OT_This_is_a_HUGE_one_for_their_t.txt
+CBB/transcripts/2026-11-24/l5Z9t7mz1Ds_LockedOnCBB_Players_Era_16_Preview_Who_WINS_Louisville_Gonzaga_Texas_Tech_MORE.txt
+CBB/transcripts/2026-11-24/lx5OXlfQH5k_SGPN_Georgia_vs_Cincinnati_Prediction_Picks_Best_Bets_College_Basketball_11.txt
+CBB/transcripts/2026-11-24/obl-uCYQoHA_WagerTalk_TUESDAY_CBB_Picks_TODAY_Oregon_vs_St_John_s_Baylor_vs_Alabama.txt
+CBB/transcripts/2026-11-24/r3Ezz0EXhRc_TCE_College_Basketball_Best_Bets_For_November_24th_Spread_Moneyline_Bettin.txt
+CBB/transcripts/2026-11-24/uV05d-IhiLI_SGPN_Utah_State_vs_USC_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt
+CBB/transcripts/2026-11-24/yL9_5FpcPwU_SGPN_SMU_vs_LSU_Prediction_Picks_Best_Bets_College_Basketball_11_24_11_26.txt
+CBB/transcripts/2026-11-24/zLIBue4qrvs_SGPN_Duke_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_24_11_2.txt
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-20, CBB/transcripts/2026-11-23
 
 # this run:
-NOCAPS  LockedOnCBB 4yVVNHxInRE FEAST WEEK: Does Arizona have enough depth to win Maui Invit  (no captions; Groq: live stream still processing - audio not final yet)
-DEFER   CBSCollegeBB VWebwqar0UE LIVE: 4-star CG Jalen Davis Announces College Commitment | N  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB wEpM3ElwL90 Players Era 16 Preview: Best matchups, this year's Michigan?  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-23/wIjuHp-3TeE_CBSCollegeBB_Jon_Rothstein_previews_the_Duke_UConn_SHOWDOWN_in_Las_Vegas_Feast_Week.txt  (1,752 words)
-NEW     CBB/transcripts/2026-11-23/FlM0dIqnL70_CBSCollegeBB_We_ll_talk_about_this_team_DIFFERENTLY_after_this_week_Players_Era_16.txt  (1,565 words)
-NEW     CBB/transcripts/2026-11-23/1BEsCu29OHo_CBSCollegeBB_Jon_Rothstein_Previews_FEAST_WEEK_Duke_vs_UConn_Tricky_Spots_for_Kentu.txt  (6,700 words)
-NOCAPS  FieldOf68 W7PNftH1JMM MW INSIDER: Sundance Wicks on Wyoming's HOT Start, Changing   (no captions; Groq: still live - audio not final yet)
-UPCOMING FieldOf68 4DTvZCpwppY OVERREACTION MONDAY! Plus, action underway in Maui and a FUL  (not aired yet - scheduled for 11/23/26 11:00PM)
-NOCAPS  FieldOf68 SAx4zakg1tE A-10 INSIDER: Rhode Island's Archie Miller on the 6-1 start,  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     CBB/transcripts/2026-11-23/6xVTy2OrX8c_FieldOf68_These_are_the_MOST_SURPRISING_teams_in_college_basketball_this_season.txt  (3,011 words)
-NEW     CBB/transcripts/2026-11-23/47SSDQxHtl8_FieldOf68_These_are_the_MOST_DISAPPOINTING_teams_in_college_basketball_this_seas.txt  (1,816 words)
-NEW     CBB/transcripts/2026-11-23/1UVUSbWxrbE_FieldOf68_THIS_is_how_to_fix_Duke_There_s_one_change_that_Jon_Scheyer_can_make.txt  (2,471 words)
-NEW     CBB/transcripts/2026-11-23/FfeWK0_OSxs_FieldOf68_These_are_the_ONLY_college_basketball_teams_that_can_win_the_national.txt  (1,123 words)
-NEW     CBB/transcripts/2026-11-23/WwkNvLO-9OI_FieldOf68_Who_is_ACTUALLY_college_basketball_s_best_team_Illinois_vs_Virginia_vs.txt  (3,334 words)
+NEW     CBB/transcripts/2026-11-24/l5Z9t7mz1Ds_LockedOnCBB_Players_Era_16_Preview_Who_WINS_Louisville_Gonzaga_Texas_Tech_MORE.txt  (7,293 words)
+NEW     CBB/transcripts/2026-11-24/4yVVNHxInRE_LockedOnCBB_FEAST_WEEK_Does_Arizona_have_enough_depth_to_win_Maui_Invitational_WIT.txt  (7,088 words)
+NONE    channel CBSCollegeBB: nothing new in the date window (or everything already saved)
+NOCAPS  FieldOf68 _cZvw1VlcAA THE REMATCH: Duke-UConn preview with Jordan Mann | Can Duke   (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  FieldOf68 sighH9hNe6A ACC INSIDER: Brady Koehler on His Breakout Season and Why No  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-24/W7PNftH1JMM_FieldOf68_MW_INSIDER_Sundance_Wicks_on_Wyoming_s_HOT_Start_Changing_the_Culture.txt  (6,277 words)
+NEW     CBB/transcripts/2026-11-24/SAx4zakg1tE_FieldOf68_A_10_INSIDER_Rhode_Island_s_Archie_Miller_on_the_6_1_start_win_over_UA.txt  (5,207 words)
+NEW     CBB/transcripts/2026-11-24/cqBKkynGHC8_FieldOf68_PREVIEW_Why_UConn_is_RELISHING_this_matchup_against_Duke_in_Vegas_AFTE.txt  (1,658 words)
+NEW     CBB/transcripts/2026-11-24/NIjkBP3ry54_FieldOf68_PREVIEW_Why_Texas_Tech_Louisville_is_the_BEST_matchup_at_Players_Era_A.txt  (1,250 words)
+NEW     CBB/transcripts/2026-11-24/ZZ82gmviVvg_FieldOf68_Goodman_The_SEC_might_legitimately_vote_to_KICK_LSU_OUT_Will_Wade_in_T.txt  (2,820 words)
+NEW     CBB/transcripts/2026-11-24/jIgy5mc9MTE_FieldOf68_Providence_gets_a_BIG_win_in_Maui_in_OT_This_is_a_HUGE_one_for_their_t.txt  (1,333 words)
+NEW     CBB/transcripts/2026-11-24/MxnufRBAC9E_FieldOf68_Illinois_drops_133_POINTS_and_sets_a_Big_Ten_RECORD_This_is_a_title_fa.txt  (877 words)
+NEW     CBB/transcripts/2026-11-24/MQJ7VTtzI-U_FieldOf68_Cameron_Fens_is_a_HUGE_addition_to_North_Carolina_and_here_s_why_AFTE.txt  (613 words)
+NEW     CBB/transcripts/2026-11-24/i3_0wYigbJ0_FieldOf68_EXCLUSIVE_Nate_Oats_previews_Alabama_s_matchup_against_Baylor_at_Playe.txt  (2,532 words)
+NEW     CBB/transcripts/2026-11-23/4DTvZCpwppY_FieldOf68_OVERREACTION_MONDAY_Plus_action_underway_in_Maui_and_a_FULL_preview_of.txt  (16,902 words)
+NEW     CBB/transcripts/2026-11-23/xadpLT5sBZY_FieldOf68_REACTION_LSU_could_be_BOOTED_from_the_SEC_Jeff_Goodman_UNPLUGGED_on_Wi.txt  (1,230 words)
+NEW     CBB/transcripts/2026-11-23/S76Zi97gUvU_FieldOf68_BREAKING_5_Star_CJ_Rosser_COMMITS_to_UNC_Tar_Heels_Get_No_1_and_No_2_R.txt  (2,518 words)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-23/N-o-F_SE8CQ_TCE_College_Basketball_Best_Bets_For_November_23rd_Spread_Moneyline_Bettin.txt  (971 words)
+NEW     CBB/transcripts/2026-11-24/r3Ezz0EXhRc_TCE_College_Basketball_Best_Bets_For_November_24th_Spread_Moneyline_Bettin.txt  (1,130 words)
+NEW     CBB/transcripts/2026-11-24/C_x27Oe95Kk_TCE_College_Basketball_PICKS_ONLY_Tuesday_November_24th_TCE_Trims.txt  (18,767 words)
+NEW     CBB/transcripts/2026-11-24/fCQdrSrhe2k_TCE_Players_Era_Futures_and_Best_Bets_College_Basketball_Picks_Today_TCE_T.txt  (5,758 words)
+NEW     CBB/transcripts/2026-11-24/N4nk4oVhE14_TCE_College_Basketball_Picks_For_November_24th_NCAA_Basketball_Banter_Best.txt  (26,320 words)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
-NOCAPS  SGPN E808tlxAOBc College Basketball Picks: Tue, Nov 24th, Wed, Nov 25th & Thu  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-24/E808tlxAOBc_SGPN_College_Basketball_Picks_Tue_Nov_24th_Wed_Nov_25th_Thu_Nov_26th.txt  (19,398 words)
+NEW     CBB/transcripts/2026-11-24/yL9_5FpcPwU_SGPN_SMU_vs_LSU_Prediction_Picks_Best_Bets_College_Basketball_11_24_11_26.txt  (794 words)
+NEW     CBB/transcripts/2026-11-24/A8MSG2UnM7w_SGPN_Saint_Mary_s_vs_UCLA_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (499 words)
+NEW     CBB/transcripts/2026-11-24/uV05d-IhiLI_SGPN_Utah_State_vs_USC_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt  (594 words)
+NEW     CBB/transcripts/2026-11-24/EnoHOeK4YYI_SGPN_Arkansas_vs_Michigan_State_Prediction_Picks_Best_Bets_College_Basketba.txt  (671 words)
+NEW     CBB/transcripts/2026-11-24/Zx76bknw9nw_SGPN_Georgetown_vs_Texas_Prediction_Picks_Best_Bets_College_Basketball_11_2.txt  (518 words)
+NEW     CBB/transcripts/2026-11-24/lx5OXlfQH5k_SGPN_Georgia_vs_Cincinnati_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (1,317 words)
+NEW     CBB/transcripts/2026-11-24/zLIBue4qrvs_SGPN_Duke_vs_UConn_Prediction_Picks_Best_Bets_College_Basketball_11_24_11_2.txt  (742 words)
+NEW     CBB/transcripts/2026-11-24/OrLGXM4wxSg_SGPN_Marquette_vs_Virginia_Prediction_Picks_Best_Bets_College_Basketball_11.txt  (1,502 words)
+NEW     CBB/transcripts/2026-11-24/gF_u4E_0ptA_SGPN_Alabama_vs_Baylor_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt  (832 words)
+NEW     CBB/transcripts/2026-11-24/hiK5_mFmFMY_SGPN_Louisville_vs_Texas_Tech_Prediction_Picks_Best_Bets_College_Basketball.txt  (832 words)
+NEW     CBB/transcripts/2026-11-24/H_fIzIJJbBc_SGPN_Army_vs_Air_Force_Prediction_Picks_Best_Bets_College_Basketball_11_24.txt  (812 words)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine 19fDrsvrMNM College Basketball Bets + NBA Pick + Champions League Picks   (not aired yet - scheduled for 11/24/26 10:00AM)
-NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
+DEFER   WagerTalk v8ExpIdFaes College Basketball Picks Today: Monday CBB Best Bets & Odds   (per-channel cap of 6 reached - raise it in the channel list or it comes next run)
+DEFER   WagerTalk YGt0qxDUtGU College Basketball Picks Today: Monday CBB Best Bets & Odds   (per-channel cap of 6 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-24/AsS1l61XbaE_WagerTalk_LATE_NIGHT_CBB_Picks_Stanford_vs_Colorado_Gonzaga_vs_Kansas_State.txt  (1,521 words)
+NEW     CBB/transcripts/2026-11-24/obl-uCYQoHA_WagerTalk_TUESDAY_CBB_Picks_TODAY_Oregon_vs_St_John_s_Baylor_vs_Alabama.txt  (1,602 words)
+NOCAPS  WagerTalk X9Fs9dGP3J8 College Basketball Picks Today: Feast Week Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
+NOCAPS  WagerTalk K7hsUOpGer0 College Basketball Picks Today: Feast Week Best Bets & Odds   (no captions; Groq: live stream still processing - audio not final yet)
+NEW     CBB/transcripts/2026-11-20/lms2cdCIkJ4_WagerTalk_College_Basketball_Picks_TODAY_Winthrop_vs_Illinois_Colorado_State_vs.txt  (1,663 words)
+NOCAPS  SportsLine 19fDrsvrMNM College Basketball Bets + NBA Picks + Champions League Picks  (no captions; Groq: live stream still processing - audio not final yet)
+DEFER   PickDawgz LhduY2gSRE4 Free CBB Betting Picks & Predictions Today 11/24/2026 | Bria  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+NEW     CBB/transcripts/2026-11-24/HL9UJo_9DJc_PickDawgz_College_Basketball_Picks_for_Today_11_24_26_Tuesday_s_Best_College_Bas.txt  (7,044 words)
+NEW     CBB/transcripts/2026-11-24/fGhk8hMxlv0_PickDawgz_College_Basketball_Picks_Predictions_For_Today_Tuesday_11_24_26_CBB_Be.txt  (2,963 words)
+NEW     CBB/transcripts/2026-11-24/IjO2HmRepKw_PickDawgz_College_Basketball_Picks_Predictions_Today_11_24_26_Ron_s_Bank_Shot_Br.txt  (2,131 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -50,6 +92,6 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-23/EbxwVYoWq0o_FieldOf68_WEEK_THREE_REACTIONS_Who_is_the_REAL_best_team_in_college_hoops_Who_ca.txt  (11,197 words, via Groq)
-NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
+NEW     CBB/transcripts/2026-11-24/BvXsCmm8SIg_WagerTalk_College_Basketball_Picks_TODAY_Creighton_vs_Michigan_Vanderbilt_vs_Ohi.txt  (1,601 words, via Groq)
+NOTE    changed VPN IP 3 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
