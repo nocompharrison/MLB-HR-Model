@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-24 11:17 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-24 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,99 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
+[Xzayvier Brown](https://www.rotowire.com/cbasketball/player/xzayvier-brown-22765)
+Scores 23 in loss
+**G** Oklahoma
+November 24, 2026
+Brown notched 23 points (7-16 FG, 3-9 3Pt, 6-8 FT), five rebounds, five assists and one steal in 35 minutes during Tuesday's 79-68 loss to Pittsburgh.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
+[Khani Rooths](https://www.rotowire.com/cbasketball/player/khani-rooths-23582)
+Scores 10 off bench
+**F** Oklahoma
+November 24, 2026
+Rooths totaled 10 points (5-7 FG, 0-1 3Pt), four rebounds and one assist in 27 minutes during Tuesday's 79-68 loss to Pittsburgh.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
+[Dayton Forsythe](https://www.rotowire.com/cbasketball/player/dayton-forsythe-23694)
+Meager output in return
+**G** Oklahoma
+November 24, 2026
+Forsythe (undisclosed) supplied six points (2-2 FG, 2-2 3Pt) and one rebound over nine minutes during Tuesday's 79-68 loss to Pittsburgh.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Miami](https://assets.rotowire.com/images/teamlogo/cbasketball/Miami.png?v=16)
+[Malik Reneau](https://www.rotowire.com/cbasketball/player/malik-reneau-19113)
+Good to go for 'Canes
+**F** Miami
+November 24, 2026
+Reneau (shoulder) is available for Miami's tilt with TCU in the Players Era Tournament, per [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125312556063506508?a=zdodo_heFfWPG7wyNQE&s=20).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Tennessee](https://assets.rotowire.com/images/teamlogo/cbasketball/Tennessee.png?v=16)
+[Jalen Haralson](https://www.rotowire.com/cbasketball/player/jalen-haralson-26106)
+Ruled out vs. Terps
+**G** Tennessee
+Knee
+November 24, 2026
+Haralson (knee) won't play Tuesday against Maryland, per [Ben McKee of 247Sports](https://x.com/benmckee14/status/2125304370694852626).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
+[Dawson Baker](https://www.rotowire.com/cbasketball/player/dawson-baker-17545)
+Sidelined Tuesday
+**G** BYU
+Undisclosed
+November 24, 2026
+Baker (knee) is out Tuesday against Ole Miss, per [Greg Wrubell of BYU Athletics](https://x.com/gregwrubell/status/2125295946699616682).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
+[Robert Wright](https://www.rotowire.com/cbasketball/player/robert-wright-23485)
+Out vs. Ole Miss
+**G** BYU
+Undisclosed
+November 24, 2026
+Wright (undisclosed) is out against Ole Miss on Tuesday, per [Greg Wrubell of BYU Athletics](https://x.com/gregwrubell/status/2125295946699616682).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Louisville](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisville.png?v=16)
+[Gabe Dynes](https://www.rotowire.com/cbasketball/player/gabe-dynes-25664)
+Out for the season
+**C** Louisville
+Shoulder
+November 24, 2026
+Dynes (shoulder) is out for Louisville's 2026-27 season, per [Jacob Polacheck of 247Sports](https://247sports.com/college/louisville/article/pat-kelsey-expects-seth-trimble-to-play-at-players-era-isaac-ellis-to-miss-the-week-293202925/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Louisville](https://assets.rotowire.com/images/teamlogo/cbasketball/Louisville.png?v=16)
+[Isaac Ellis](https://www.rotowire.com/cbasketball/player/isaac-ellis-28099)
+Not expected to play in Players Era
+**G** Louisville
+Lower Body
+November 24, 2026
+Ellis (lower body) isn't expected to play in the Players Era tournament this week, per [Michael McCammon of 247Sports.com](https://247sports.com/college/louisville/article/watch-pat-kelsey-previews-louisville-vs-texas-tech-at-players-era-16-293202639/).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[JJ Mandaquit](https://www.rotowire.com/cbasketball/player/jj-mandaquit-26219)
+Drains four from deep
+**G** Arizona
+November 24, 2026
+Mandaquit recorded 15 points (5-7 FG, 4-6 3Pt, 1-1 FT), one rebound, three assists and one steal in 35 minutes during Monday's 96-83 win over Colorado State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
+[Caleb Holt](https://www.rotowire.com/cbasketball/player/caleb-holt-28080)
+Just misses double double
+**G** Arizona
+November 24, 2026
+Holt supplied 20 points (8-14 FG, 2-3 3Pt, 2-3 FT), nine rebounds, four assists and one steal in 31 minutes during Monday's 96-83 win over Colorado State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Miami](https://assets.rotowire.com/images/teamlogo/cbasketball/Miami.png?v=16)
 [Malik Reneau](https://www.rotowire.com/cbasketball/player/malik-reneau-19113)
 Game-time call vs. TCU
@@ -119,96 +212,6 @@ Consistently producing
 **F** BYU
 November 23, 2026
 Kohler accumulated 15 points (6-10 FG, 1-4 3Pt, 2-2 FT), five rebounds, one assist and one steal over 18 minutes during Monday's 83-77 win over Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
-[Collin Chandler](https://www.rotowire.com/cbasketball/player/collin-chandler-23369)
-Leads Cougars with 24 points
-**G** BYU
-November 23, 2026
-Chandler ended with 24 points (6-12 FG, 3-6 3Pt, 9-10 FT), five rebounds, two assists and one block in 30 minutes during Monday's 83-77 win over Washington.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![North Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina.png?v=16)
-[Alex Samodurov](https://www.rotowire.com/cbasketball/player/alex-samodurov-27984)
-Impressive two-way impact
-**F** North Carolina
-November 23, 2026
-Samodurov registered 10 points (4-6 FG, 2-3 3Pt), 11 rebounds, three assists and two blocks across 24 minutes during Monday's 85-45 win over Monmouth.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![North Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/North-Carolina.png?v=16)
-[Terrence Brown](https://www.rotowire.com/cbasketball/player/terrence-brown-23040)
-Leads way with 20-point performance
-**G** North Carolina
-November 23, 2026
-Brown racked up 20 points (8-14 FG, 0-1 3Pt, 4-5 FT), four rebounds, three assists and two steals across 23 minutes during Monday's 85-45 win over Monmouth.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Clemson](https://assets.rotowire.com/images/teamlogo/cbasketball/Clemson.png?v=16)
-[Ace Buckner](https://www.rotowire.com/cbasketball/player/ace-buckner-23566)
-Leads team with 14 points
-**G** Clemson
-November 23, 2026
-Buckner contributed 14 points (6-13 FG, 2-6 3Pt, 0-1 FT), two rebounds, one assist and three steals in 32 minutes during Monday's 82-62 loss to Ole Miss.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
-[Andrej Stojakovic](https://www.rotowire.com/cbasketball/player/andrej-stojakovic-22364)
-Scores 29 points Monday
-**G** Illinois
-November 23, 2026
-Stojakovic provided 29 points (10-16 FG, 1-3 3Pt, 8-9 FT), three rebounds, three assists and one steal in 26 minutes during Monday's 133-83 win over Winthrop.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
-[Quentin Coleman](https://www.rotowire.com/cbasketball/player/quentin-coleman-28102)
-Explodes for 35 points Monday
-**G** Illinois
-November 23, 2026
-Coleman registered 35 points (12-18 FG, 2-6 3Pt, 9-11 FT), seven rebounds, six assists and four steals in 30 minutes during Monday's 133-83 victory over Winthrop.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
-[Ethan Brown](https://www.rotowire.com/cbasketball/player/ethan-brown-28106)
-Suffers broken nose
-**G** Illinois
-Nose
-November 23, 2026
-Brown suffered a broken nose, Illinois coach Brad Underwood said Monday, according to [Scott Richey of The Champaign News-Gazette](https://x.com/srrichey/status/2125070264119546283).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Providence](https://assets.rotowire.com/images/teamlogo/cbasketball/Providence.png?v=16)
-[Devin Vanterpool](https://www.rotowire.com/cbasketball/player/devin-vanterpool-22428)
-Missing third straight
-**G** Providence
-Shoulder
-November 23, 2026
-Vanterpool (shoulder) is out for Monday's game against VCU, [Kevin McNamara of KevinMcSports.com](https://x.com/KevinMcNamara33/status/2125032980041314529) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
-[Lincoln Williams](https://www.rotowire.com/cbasketball/player/lincoln-williams-28105)
-Returning against Winthrop
-**G** Illinois
-November 23, 2026
-Williams (illness) is in the starting lineup for Monday's game against Wintrhop, [On3.com](https://x.com/IllinoisRivals/status/2125029967910330595) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
-[Quentin Coleman](https://www.rotowire.com/cbasketball/player/quentin-coleman-28102)
-Starting against Winthrop
-**G** Illinois
-November 23, 2026
-Coleman (illness) is in the Fighting Illini's starting lineup for their game Monday against Winthrop, [On3](https://x.com/IllinoisRivals/status/2125029967910330595) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgia State](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia-State.png?v=16)
-[AJ Smith](https://www.rotowire.com/cbasketball/player/aj-smith-25916)
-Scores five points in debut
-**G** Georgia State
-November 23, 2026
-Smith (shoulder) supplied five points (2-3 FG, 1-1 FT) and three rebounds over 11 minutes during Monday's 73-63 victory over Tulane.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/8-best-college-basketball-bets-today-tuesday-november-24-with-odds-spreads-and-moneylines | fetched: 2026-11-24 11:17 ET -->
+<!-- source: https://fanduel.com/research/8-best-college-basketball-bets-today-tuesday-november-24-with-odds-spreads-and-moneylines | fetched: 2026-11-24 17:02 ET -->
 
 ![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
 [Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # 8 Best College Basketball Bets Today Tuesday, November 24 With Odds, Spreads & Moneylines
 ![Chris Beck](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://fanduel.com/research/author/chris-beck)
-18m
+6h
 Link
 ![8 Best College Basketball Bets Today Tuesday, November 24 With Odds, Spreads & Moneylines](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fd2a8a570c9c0150c55c50b058d7af914b45dc14f-2997x1998.jpg%3Frect%3D0%2C258%2C2997%2C1483%26w%3D964%26h%3D477&w=1920&q=100)
 **8 Best College Basketball Bets for Tuesday, November 24**
@@ -93,23 +93,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
+## [Gonzaga vs Kansas State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 25](https://fanduel.com/research/gonzaga-vs-kansas-state-college-basketball-predictions-odds-picks-best-bets-for-11-25-2026)
+5h
+Find Gonzaga vs. Kansas State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 25 college basketball matchup.
+[](https://fanduel.com/research/gonzaga-vs-kansas-state-college-basketball-predictions-odds-picks-best-bets-for-11-25-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
 ## [8 Best College Basketball Bets Today Tuesday, November 24 With Odds, Spreads & Moneylines](https://fanduel.com/research/8-best-college-basketball-bets-today-tuesday-november-24-with-odds-spreads-and-moneylines)
-27m
+6h
 Oregon State -9.5, Creighton +5.5, Iowa State -9.5, Mercer +6.5, Providence +7.5, Ole Miss -1.5, TCU +4.5, and Maryland +3.5 headline our best college basketball bets for Tuesday's slate.
 [](https://fanduel.com/research/8-best-college-basketball-bets-today-tuesday-november-24-with-odds-spreads-and-moneylines)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Alabama vs Baylor College Basketball Prediction, Odds, Picks, Best Bets for Nov. 24](https://fanduel.com/research/alabama-vs-baylor-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
-4h
+9h
 Find Alabama vs. Baylor predictions, betting odds, moneyline, spread, over/under and more for the Nov. 24 college basketball matchup.
 [](https://fanduel.com/research/alabama-vs-baylor-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [St. John's vs Oregon College Basketball Prediction, Odds, Picks, Best Bets for Nov. 24](https://fanduel.com/research/st-john-s-vs-oregon-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
-4h
+9h
 Find St. John's vs. Oregon predictions, betting odds, moneyline, spread, over/under and more for the Nov. 24 college basketball matchup.
 [](https://fanduel.com/research/st-john-s-vs-oregon-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Arizona vs Providence College Basketball Prediction, Odds, Picks, Best Bets for Nov. 24](https://fanduel.com/research/arizona-vs-providence-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
-4h
-Find Arizona vs. Providence predictions, betting odds, moneyline, spread, over/under and more for the Nov. 24 college basketball matchup.
-[](https://fanduel.com/research/arizona-vs-providence-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026)
 
