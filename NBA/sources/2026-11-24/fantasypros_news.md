@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-24 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-24 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Cade Cunningham](https://images.fantasypros.com/images/players/nba/5315/headshot/100x100.png)](https://www.fantasypros.com/nba/players/cade-cunningham.php)
+G - DET
+[» Rankings](https://www.fantasypros.com/nba/players/cade-cunningham.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/cade-cunningham.php)  
+[» More News](https://www.fantasypros.com/nba/news/cade-cunningham.php)
+[Cade Cunningham (knee) ruled out Tuesday](https://www.fantasypros.com/nba/news/622391/cade-cunningham-knee-ruled-out-tuesday.php)  
+
+Tue, Nov 24th 6:35pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Cade Cunningham (knee) has been ruled out for Tuesday night’s matchup between the Detroit Pistons and Orlando Magic according to Hunter Patterson. (Source: [Hunter Patterson on Twitter ](https://x.com/hunterpatterson/status/2125371640943112536?a=12gohp2tNFb72Aeqx-A&s=46))
+**_Fantasy Impact:_** Cunningham will receive the night off for head coach J.B. Bickerstaff who said the superstar guard is “battling through a lot” as the catalyst in the Pistons lineup on a nightly basis. Daniss Jenkins will likely operate as the No. 1 option in the starting five Tuesday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
 C - PHI
 [» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
@@ -270,20 +284,6 @@ Tue, Nov 24th 10:54am EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Jalen Green scored 25 points (9-17 FG, 3-9 3PT, 4-4 FT) to go along with three rebounds and two steals in the Suns 123-119 win over the Pelicans. 
 **_Fantasy Impact:_** Green recorded one of his best overall games in what has been a down season for him up to this point. He'll look to use Monday's performance to help him get going. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Devin Booker](https://images.fantasypros.com/images/players/nba/3024/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-booker.php)
-G - PHO
-[» Rankings](https://www.fantasypros.com/nba/players/devin-booker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/devin-booker.php)  
-[» More News](https://www.fantasypros.com/nba/news/devin-booker.php)
-[Devin Booker scores 22 points Monday ](https://www.fantasypros.com/nba/news/622358/devin-booker-scores-22-points-monday.php)  
-
-Tue, Nov 24th 10:52am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Devin Booker scored 22 points (8-20 FG, 2-6 3PT, 4-5 FT) to go along with five rebounds, eight assists, three steals and one block in the Suns 123-119 win over the Pelicans. 
-**_Fantasy Impact:_** Booker filled the stat sheet with four stocks on the defensive end. He has scored at least 20 points four straight games. 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

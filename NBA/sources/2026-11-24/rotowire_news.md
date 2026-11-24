@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-24 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-24 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,21 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)[Starting versus Orlando](https://www.rotowire.com/basketball/headlines/isaiah-joe-news-starting-versus-orlando-540877)
+**G** Detroit Pistons
+November 24, 2026
+Joe will [start](https://x.com/Pistons_PR/status/2125372759379427480?a=r2wl1q5xzrO0gq90NKs&s=20) in Tuesday's game against the Magic.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)[Ruled out Tuesday](https://www.rotowire.com/basketball/headlines/cade-cunningham-injury-ruled-out-tuesday-540876)
+**G** Detroit Pistons
+Knee
+November 24, 2026
+Cunningham (knee) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_30PM.pdf) for Tuesday's game against Orlando.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Nikola Topic](https://www.rotowire.com/basketball/player/nikola-topic-6256)[Unavailable versus Timberwolves](https://www.rotowire.com/basketball/headlines/nikola-topic-injury-unavailable-versus-timberwolves-540875)
 **G** Oklahoma City Thunder
@@ -191,20 +206,6 @@ Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tues
 **G** New Orleans Pelicans
 November 24, 2026
 McGowens (elbow) ended Monday's 123-119 overtime loss to the Suns with two points (2-2 FT), one rebound and one assist over six minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Ronald Holland](https://www.rotowire.com/basketball/player/ronald-holland-5939)[Shooting woes in loss](https://www.rotowire.com/basketball/headlines/ronald-holland-news-shooting-woes-in-loss-540851)
-**F** Detroit Pistons
-November 24, 2026
-Holland (knee) recorded two points (1-6 FG), four rebounds and one block in 10 minutes during Sunday's 107-97 loss to the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Tarris Reed](https://www.rotowire.com/basketball/player/tarris-reed-6993)[Brings energy off bench in win](https://www.rotowire.com/basketball/headlines/tarris-reed-news-brings-energy-off-bench-in-win-540850)
-**C** San Antonio Spurs
-November 24, 2026
-Reed amassed seven points (1-1 FG, 5-6 FT), seven rebounds, one assist and two blocks across 15 minutes during Monday's 123-107 win over the Kings.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

@@ -1,8 +1,10 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-24 18:35 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-24 18:50 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
+
+Published Time: Fri, 25 Mar 2022 16:06:02 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
@@ -324,6 +326,44 @@ ESPN
 
 Data Provided by Rotowire
 
+Sponsored Headlines
+
+[](https://lp.customwatersolutionsusa.com/cws-whole-home-costs)[Here's What a Whole Home Water Filtration System Costs Custom Water Solutions USA | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Rates](https://lp.customwatersolutionsusa.com/cws-whole-home-costs "Here's What a Whole Home Water Filtration System Costs")
+
+Undo
+
+[](https://articles.usautoinsurancenow.com/)[Your South Carolina Zip Code Could Qualify You for Lower Auto Insurance Rates US Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://articles.usautoinsurancenow.com/ "Your South Carolina Zip Code Could Qualify You for Lower Auto Insurance Rates")
+
+Undo
+
+[](https://web.profind.com/bathtub-remodeling-usa)[Shocking: The Average Price Of 1-Day Shower Installation In North Charleston ProFind | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://web.profind.com/bathtub-remodeling-usa "Shocking: The Average Price Of 1-Day Shower Installation In North Charleston")
+
+Undo
+
+[](https://freshstartinfo.org/april-15th-tax-relief-deadline)[Another IRS Penalty Month Starts On The 16th. Americans Who Owe $10,000+ Are Checking Eligibility Americans who owe the IRS $10,000 or more may qualify for the Fresh Start Program. Eligibility is determined during the qualification process.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Apply Now](https://freshstartinfo.org/april-15th-tax-relief-deadline "Another IRS Penalty Month Starts On The 16th. Americans Who Owe $10,000+ Are Checking Eligibility")
+
+Undo
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)")
+
+Undo
+
+[](https://web.profind.com/bathtub-remodeling-usa)[The Average Price Of 1-Day Shower Installation In North Charleston Homeowners 55+: see what a walk-in shower costs in your ZIP code. Installation can take as little as 1 day. Affordable options available.ProFind | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://web.profind.com/bathtub-remodeling-usa "The Average Price Of 1-Day Shower Installation In North Charleston")
+
+Undo
+
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina$: Who Charges The Most For Car Insurance? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina$: Who Charges The Most For Car Insurance? (Check Your ZIP Code)")
+
+Undo
+
+[](https://start.nationaldebtrelief.com/eligibility-check-1)[South Carolina Has a Debt Relief Program for You Make 2026 the year you take control of your debt Debt Relief | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Apply Now](https://start.nationaldebtrelief.com/eligibility-check-1 "South Carolina Has a Debt Relief Program for You")
+
+Undo
+
+[](https://freshstartinfo.org/january-tax-relief-deadline)[Tuesday: IRS Forgives Millions In Tax Debt Before Deadline Thousands of Americans with back taxes are checking whether they qualify for the IRS Fresh Start Program. A short survey shows which options may apply to you.Fresh Start Information | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Apply Now](https://freshstartinfo.org/january-tax-relief-deadline "Tuesday: IRS Forgives Millions In Tax Debt Before Deadline")
+
+Undo
+
 ### NBA News
 
 [![Image 40: Tracy Morgan reveals how he kept Knicks' title celebration ticking](https://a.espncdn.com/combiner/i?img=/photo/2026/1124/r1750781_608x342_16-9.jpg&w=220) ## Tracy Morgan reveals how he kept Knicks' title celebration ticking Morgan also discussed in an appearance on "Live with Kelly and Mark" his experience traveling to Knicks road playoff games -- seven private jets and all. * 35m * J.J. Post](https://www.espn.com/nba/story/_/id/50585929/tracy-morgan-new-york-knicks-rolexes)
@@ -333,6 +373,20 @@ Data Provided by Rotowire
 [![Image 42: Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more](https://a.espncdn.com/combiner/i?img=/photo/2026/1124/r1750690_1296x729_16-9.jpg&w=220) ## Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more Eric Karabell empties out the notebook with all that he's noticing around the NBA and what it means for fantasy. * 5h * Eric Karabell](https://www.espn.com/fantasy/basketball/story/_/id/50584319/fantasy-basketball-trends-nba-2026-2027)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
+[](https://start.nationaldebtrelief.com/eligibility-check-1)[South Carolina has a debt relief program for you No Loans or bankruptcy Required.Get a Fast & Free Quote Today!Debt Relief | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://start.nationaldebtrelief.com/eligibility-check-1 "South Carolina has a debt relief program for you")
+
+Undo
+
+[](https://www.grammarly.com/a/paraphraser)[Fine-tune your work so it fits the moment Easily shift your tone to resonate with your audience with the Paraphraser AI agent.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.grammarly.com/a/paraphraser "Fine-tune your work so it fits the moment")
+
+Undo
 
 ![Image 43: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

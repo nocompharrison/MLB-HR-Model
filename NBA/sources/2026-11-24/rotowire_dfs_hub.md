@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-24 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-24 18:50 ET -->
 
 # NBA DFS Picks Today
 November 24, 2026
@@ -24,6 +24,18 @@ Tuesday, November 24 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (6) All NBA news Boston Celtics (BOS @ WSH) Dallas Mavericks (DAL @ DEN) Denver Nuggets (DAL @ DEN) Detroit Pistons (DET @ ORL) Orlando Magic (DET @ ORL) Washington Wizards (BOS @ WSH)
 Detroit PistonsDET @ ORL - 7:00 PM ET
+**[Isaiah Joe](https://www.rotowire.com/basketball/player/isaiah-joe-5291)** _G_ 6:40 PM ET
+#### Starting versus Orlando
+Joe will start in Tuesday's game against the Magic.
+Analysis
+With Cade Cunningham (knee) ruled out, Joe will make his first start of the year. In nine starts with the Thunder during the 2025-26 campaign, the 27-year-old averaged 13.7 points, 3.0 rebounds, 1.9 assists and 1.1 steals over 30.0 minutes per contest.
+Detroit PistonsDET @ ORL - 7:00 PM ET
+**[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)** _G_ OUT _Top_ 6:36 PM ET
+#### Ruled out Tuesday
+Cunningham (knee) is listed as out for Tuesday's game against Orlando.
+Analysis
+Cunningham was listed as probable, so his absence for Tuesday's meeting with the Magic is concerning. Head coach J.B. Bickerstaff indicated that the knee has been giving the two-time All-Star some trouble of late, and while he's mostly played through it, he will now miss his second game of the 2026-27 campaign. Without Cunningham, Isaiah Joe will enter the starting lineup.
+Detroit PistonsDET @ ORL - 7:00 PM ET
 **[Ronald Holland](https://www.rotowire.com/basketball/player/ronald-holland-5939)** _F_ 2:31 PM ET
 #### Shooting woes in loss
 Holland (knee) recorded two points (1-6 FG), four rebounds and one block in 10 minutes during Sunday's 107-97 loss to the Hawks.
@@ -41,19 +53,7 @@ Detroit PistonsDET @ ORL - 7:00 PM ET
 Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.
 Analysis
 Prince last appeared in a game for Detroit on Nov. 14 and is now set to miss an extended period as he recovers from knee surgery. However, the veteran forward's absence shouldn't significantly impact Detroit's rotation.
-Detroit PistonsDET @ ORL - 7:00 PM ET
-**[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)** _F_ OUT _Top_ 1:30 PM ET
-#### Considered day-to-day
-Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.
-Analysis
-Robinson will miss a fifth consecutive contest Tuesday due to a left quadriceps strain, though he can be considered questionable for Friday's game against Milwaukee until the Pistons provide an update on his status. Kevin Huerter will likely continue seeing increased playing time for as long as Robinson is sidelined.
-Detroit PistonsDET @ ORL - 7:00 PM ET
-**[Jalen Duren](https://www.rotowire.com/basketball/player/jalen-duren-5703)** _C_ OUT _Top_ 1:27 PM ET
-#### Practicing in G League
-Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a potential return, Eric Vincent of ClutchPoints.com reports.
-Analysis
-With Duren still out for Detroit but now progressing to a G League practice assignment, this marks a tangible step forward in his recovery from the right hamstring strain that has kept him sidelined since Oct. 23. The Pistons haven't provided a return timeline, but his return appears to be drawing closer as he increases his activity.
-Show 1 more (1 remaining)
+Show 3 more (3 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,18 +63,18 @@ DraftKings FanDuel
 Nov 25 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 3 games - 7:00 PM Main Slate - 2 games - 8:00 PM Nov 25 - Main Slate - 2 games - 10:00 PM (lineups pending) Nov 25 - Main Slate - 2 games - 8:00 PM (lineups pending) Nov 25 - Main Slate - 2 games - 7:30 PM (lineups pending) Showdown - DAL @ DEN - 11:00 PM Nov 25 - Showdown - SAS @ POR - 11:00 PM (lineups pending) Showdown - BOS @ WSH - 8:00 PM Nov 25 - Showdown - CHI @ CHA - 7:00 PM (lineups pending) Showdown - DAL @ DEN - 10:00 PM Showdown - DET @ ORL - 7:00 PM Nov 25 - Showdown - MIA @ PHI - 5:00 PM (lineups pending) Nov 25 - Showdown - MIN @ OKC - 7:30 PM (lineups pending) Nov 25 - Showdown - PHX @ HOU - 8:30 PM (lineups pending) Nov 25 - Showdown - SAS @ POR - 10:00 PM (lineups pending) Nov 25 - Main Slate - 6 games - 7:00 PM (lineups pending) Main Slate - 3 games - 7:00 PM All games (3) DET @ ORL - 7:00 PM ET BOS @ WSH - 8:00 PM ET DAL @ DEN - 10:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **DET @ ORL**
-O/U 212.57:00 PM ET
-PistonsExpectedAway
-_Implied_**107.5** _Spread_**-2.5**  
+O/U 210.57:00 PM ET
+PistonsConfirmedAway
+_Implied_**104.0** _Spread_**+2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | John Collins  | $4,700  | 22.5  |  
 | PF  | Ausar Thompson  | $6,800  | 34.6  |  
-| PG  | Cade CunninghamP  | $9,400  | 48.1  |  
+| PG  | Daniss Jenkins  | $6,100  | 31.9  |  
 | SF  | Kevin Huerter  | $5,400  | 21.7  |  
-| SG  | Daniss Jenkins  | $6,100  | 31.9  |  
-MagicExpectedHome
-_Implied_**105.0** _Spread_**+2.5**  
+| SG  | Isaiah Joe  | $3,800  | 15.0  |  
+MagicConfirmedHome
+_Implied_**106.5** _Spread_**-2.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Wendell Carter  | $5,900  | 24.8  |  
@@ -85,7 +85,7 @@ _Implied_**105.0** _Spread_**+2.5**
 **BOS @ WSH**
 O/U 218.58:00 PM ET
 CelticsExpectedAway
-_Implied_**115.0** _Spread_**-11.5**  
+_Implied_**114.5** _Spread_**-10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $5,100  | 30.6  |  
@@ -94,7 +94,7 @@ _Implied_**115.0** _Spread_**-11.5**
 | SF  | Jayson Tatum  | $9,700  | 45.9  |  
 | SG  | Jordan Walsh  | $3,400  | 7.5  |  
 WizardsExpectedHome
-_Implied_**103.5** _Spread_**+11.5**  
+_Implied_**104.0** _Spread_**+10.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 22.3  |  
@@ -137,7 +137,7 @@ AllGuardsForwardsCenters
 | 2  |  Aaron GordonDEN - PF  | vs DAL  | $5,200  | 30  | 27.3  | **5.25**  |  
 | 3  |  Daniss JenkinsDET - PG  | @ ORL  | $6,100  | 34  | 31.9  | **5.24**  |  
 | 4  |  Luka GarzaBOS - C  | @ WSH  | $3,500  | 18  | 17.9  | **5.13**  |  
-| 5  |  Cade CunninghamPDET - PG  | @ ORL  | $9,400  | 36  | 48.1  | **5.12**  |  
+| 5  |  Cade CunninghamOUTDET - PG  | @ ORL  | $9,400  | 36  | 48.1  | **5.12**  |  
 | 6  |  Paul ReedDET - C  | @ ORL  | $5,700  | 27  | 29.1  | **5.11**  |  
 | 7  |  Ausar ThompsonDET - SF  | @ ORL  | $6,800  | 32  | 34.6  | **5.09**  |  
 | 8  |  Nikola JokicDEN - C  | vs DAL  | $11,700  | 35  | 59.4  | **5.07**  |  
