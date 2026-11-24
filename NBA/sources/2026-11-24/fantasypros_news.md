@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-24 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-24 18:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,20 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Joel Embiid](https://images.fantasypros.com/images/players/nba/2905/headshot/100x100.png)](https://www.fantasypros.com/nba/players/joel-embiid.php)
+C - PHI
+[» Rankings](https://www.fantasypros.com/nba/players/joel-embiid.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/joel-embiid.php)  
+[» More News](https://www.fantasypros.com/nba/news/joel-embiid.php)
+[Joel Embiid (illness) doubtful Wednesday](https://www.fantasypros.com/nba/news/622386/joel-embiid-illness-doubtful-wednesday.php)  
+
+Tue, Nov 24th 5:58pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Joel Embiid (illness) is doubtful for Wednesday’s contest between the Philadelphia 76ers and Miami Heat according to Adam Aaronson. (Source: [Adam Aaronson on Twitter ](https://x.com/sixersadam/status/2125348800608813242?a=XucVM1T3gxmB-pXFXGY&s=46))
+**_Fantasy Impact:_** Embiid is in danger of missing a second consecutive contest due to the illness, pushing Jabari Walker, Adem Bona, and Dominick Barlow into potential increased minutes for head coach Nick Nurse against the Heat Wednesday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Jake LaRavia](https://images.fantasypros.com/images/players/nba/5486/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jake-laravia.php)
 F - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/jake-laravia.php)  
@@ -270,20 +284,6 @@ Tue, Nov 24th 10:52am EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Devin Booker scored 22 points (8-20 FG, 2-6 3PT, 4-5 FT) to go along with five rebounds, eight assists, three steals and one block in the Suns 123-119 win over the Pelicans. 
 **_Fantasy Impact:_** Booker filled the stat sheet with four stocks on the defensive end. He has scored at least 20 points four straight games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Slawson](https://images.fantasypros.com/images/players/nba/6019/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-slawson.php)
-F - IND
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-slawson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-slawson.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-slawson.php)
-[Jalen Slawson records double-double Monday ](https://www.fantasypros.com/nba/news/622357/jalen-slawson-records-double-double-monday.php)  
-
-Tue, Nov 24th 10:47am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jalen Slawson scored 16 points (5-9 FG, 3-3 3PT, 3-4 FT) to go along with 10 rebounds, two assists, one steal and four blocks in the Pacers 125-120 win over the Thunder. 
-**_Fantasy Impact:_** Slawson set season-highs in points, rebounds and blocks. He remains off the fantasy radar in his current role. 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

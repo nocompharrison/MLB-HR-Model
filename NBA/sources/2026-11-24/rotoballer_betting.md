@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/category/sports-betting-picks | fetched: 2026-11-24 18:05 ET -->
+<!-- source: https://www.rotoballer.com/category/sports-betting-picks | fetched: 2026-11-24 18:35 ET -->
 
 
 ---
@@ -1075,7 +1075,7 @@ DEF
 [Chuba Hubbard](http://www.rotoballer.com/nfl/player/21691/Chuba+Hubbard) CAR
 17
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/11/Novig-RotoBaller-2026-small-blue.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/Fantasy-Genius-RotoBaller-small.png)](https://www.rotoballer.com/genius)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -1135,35 +1135,41 @@ RP
   * [NHL](https://www.rotoballer.com/nba-prop-bet-picks-draftkings-king-of-the-court-11-17-26/1995742)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk13 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Pulock2 min ago   
+to Miss 1-2 Weeks With Shoulder Injury](https://www.rotoballer.com/player-news/ryan-pulock-to-miss-1-2-weeks-with-shoulder-injury/2003189)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar5 min ago   
+Logs Full Practice Tuesday](https://www.rotoballer.com/player-news/cale-makar-logs-full-practice-tuesday/2003184)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins8 min ago   
+Officially Available Tuesday](https://www.rotoballer.com/player-news/ryan-nugent-hopkins-officially-available-tuesday/2003182)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk43 min ago   
 Scheduled to Visit Commanders on Wednesday](https://www.rotoballer.com/player-news/brandon-aiyuk-scheduled-to-visit-commanders-on-wednesday/2003147)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid31 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid1 h ago   
 Says he's "Most Likely Playing" on Thursday](https://www.rotoballer.com/player-news/ill-be-there-thursday-im-most-likely-playing-dalton-kincaid-on-his-status-for-week-12/2003090)
 [![](https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg) J.K. Dobbins1 h ago   
 Suspended for Conduct Detrimental to the Team](https://www.rotoballer.com/player-news/broncos-have-suspended-rb-j-k-dobbins-for-fridays-game-for-conduct-detrimental-to-the-team/2003047)
 [![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Jalen Duren2 h ago   
 Practices With G-League Team](https://www.rotoballer.com/player-news/jalen-duren-practices-with-g-league-team/2002977)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo3 h ago   
 Participates in Practice on Tuesday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-participates-in-practice-on-tuesday/2002957)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim3 h ago   
 Tigers Agree on One-Year Deal](https://www.rotoballer.com/player-news/ha-seong-kim-tigers-agree-on-one-year-deal/2002941)
-[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays3 h ago   
 Kaima Taira Signs Five-Year Deal With Blue Jays](https://www.rotoballer.com/player-news/kaima-taira-signs-five-year-deal-with-blue-jays/2002923)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo3 h ago   
 Cleared for Team Basketball Activities](https://www.rotoballer.com/player-news/donte-divincenzo-cleared-for-basketball-activities-targeting-january-return/2002799)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Tyrese Haliburton3 h ago   
 Sent to G League on Tuesday](https://www.rotoballer.com/player-news/tyrese-haliburton-sent-to-g-league-on-tuesday/2002896)
-[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams3 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams4 h ago   
 Off the Injury Report vs. Packers](https://www.rotoballer.com/player-news/kyren-williams-off-the-injury-report-vs-packers/2002858)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs5 h ago   
 Questionable for Thanksgiving Eve](https://www.rotoballer.com/player-news/josh-jacobs-listed-as-questionable-vs-rams/2002820)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker5 h ago   
 Will Practice in Some Capacity on Tuesday](https://www.rotoballer.com/player-news/kenneth-walker-will-practice-in-some-capacity-on-tuesday/2002809)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic7 h ago   
 Guardians Agree on One-Year Deal](https://www.rotoballer.com/player-news/kris-bubic-guardians-agree-on-one-year-deal/2002759)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta7 h ago   
 Agrees With Orioles on Five-Year Deal](https://www.rotoballer.com/player-news/freddy-peralta-agrees-with-orioles-on-five-year-deal/2002747)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs7 h ago   
 Teruaki Sato, Cubs Agree to Six-Year Deal](https://www.rotoballer.com/player-news/teruaki-sato-cubs-agree-to-six-year-deal/2002732)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Joe Burrow8 h ago   
 Throws Two Touchdowns in Bengals' Loss](https://www.rotoballer.com/player-news/joe-burrow-throws-two-touchdowns-in-bengals-loss/2002652)
@@ -1177,39 +1183,39 @@ Sustains Lower-Body Injury Monday](https://www.rotoballer.com/player-news/kyle-p
 Suffers Upper-Body Injury in Monday's Loss](https://www.rotoballer.com/player-news/morgan-frost-suffers-upper-body-injury-in-mondays-loss/2002632)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase8 h ago   
 has Disappointing Night in Washington](https://www.rotoballer.com/player-news/jamarr-chase-posts-disappointing-night-in-washington/2002626)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone9 h ago   
 Unavailable for 3-4 Months](https://www.rotoballer.com/player-news/michael-carcone-unavailable-for-3-4-months/2002624)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams9 h ago   
 Converts Critical Catches on Career Night](https://www.rotoballer.com/player-news/antonio-williams-converts-critical-catches-on-career-night/2002621)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson9 h ago   
 Ruled Out for 2-4 Weeks](https://www.rotoballer.com/player-news/erik-gustafsson-ruled-out-for-2-4-weeks/2002617)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard9 h ago   
 to Miss Approximately Four Months](https://www.rotoballer.com/player-news/connor-bedard-to-miss-approximately-four-months/2002615)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels9 h ago   
 Leads Commanders to a Win Despite Wrist Issue](https://www.rotoballer.com/player-news/jayden-daniels-left-wrist-wrapped-after-game/2002482)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaden McDaniels9 h ago   
 Drops Career-High 34 Points](https://www.rotoballer.com/player-news/jaden-mcdaniels-drops-career-high-34-points/2002607)
 [![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Mitchell Robinson9 h ago   
 Ruled Out Again Tuesday](https://www.rotoballer.com/player-news/mitchell-robinson-ruled-out-again-tuesday/2002589)
-[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther10 h ago   
 Off the Injury Report for Tuesday](https://www.rotoballer.com/player-news/julian-strawther-off-the-injury-report-for-tuesday/2002581)
-[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington10 h ago   
 Questionable for Tuesday in Denver](https://www.rotoballer.com/player-news/p-j-washington-questionable-for-tuesday-in-denver/2002571)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham10 h ago   
 Probable for Tuesday Against Orlando](https://www.rotoballer.com/player-news/cade-cunningham-right-knee-soreness-probable-vs-magic-tuesday/2002157)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers19 h ago   
 Cubs Agree on Five-Year Deal on Monday](https://www.rotoballer.com/player-news/trevor-rogers-cubs-agree-on-five-year-deal-on-monday/2002414)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton20 h ago   
 Chargers Regret Not Featuring Omarion Hampton Sooner](https://www.rotoballer.com/player-news/in-hindsight-we-should-have-done-that-sooner-harbaugh-when-asked-about-using-omarion/2002380)
 [![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Sam LaPorta20 h ago   
 is Limited During Monday's Walkthrough](https://www.rotoballer.com/player-news/sam-laporta-is-limited-during-mondays-walkthrough/2002374)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner21 h ago   
 Exits with Hip Injury](https://www.rotoballer.com/player-news/ryan-kalkbrenner-exits-with-hip-injury/2002353)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves21 h ago   
 Trending Toward Friday Return](https://www.rotoballer.com/player-news/austin-reaves-trending-toward-friday-return/2002342)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.21 h ago   
 Exits with Ankle Injury](https://www.rotoballer.com/player-news/larry-nance-jr-exits-with-ankle-injury/2002332)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin21 h ago   
 Cleared to Play Monday Against Kings](https://www.rotoballer.com/player-news/jordan-mclaughlin-cleared-to-play-monday-against-kings/2002329)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Gabe Vincent21 h ago   
 Cleared to Suit Up for Sacramento](https://www.rotoballer.com/player-news/gabe-vincent-cleared-to-suit-up-for-sacramento/2002323)
@@ -1219,7 +1225,7 @@ Patriots Sticking With Tommy DeVito as Starting QB](https://www.rotoballer.com/p
 Downgraded to Out Against Kings](https://www.rotoballer.com/player-news/deaaron-fox-downgraded-to-out-against-kings/2002315)
 [![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Victor Wembanyama21 h ago   
 Ruled Out Monday Versus Kings](https://www.rotoballer.com/player-news/victor-wembanyama-ruled-out-monday-versus-kings/2002311)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes21 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes22 h ago   
 Out Against the Lakers on Monday](https://www.rotoballer.com/player-news/jaxson-hayes-out-against-the-lakers-on-monday/2002308)
 [![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Jaylon Tyson22 h ago   
 Cleared to Play Against Bulls](https://www.rotoballer.com/player-news/jaylon-tyson-cleared-to-play-against-bulls/2002287)
@@ -1231,7 +1237,7 @@ Good to Go Against Suns](https://www.rotoballer.com/player-news/zion-williamson-
 Available for Monday's Game Against Cavaliers](https://www.rotoballer.com/player-news/nic-claxton-available-for-mondays-game-against-cavaliers/2002281)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Jalen Smith22 h ago   
 Suits Up Against Cleveland on Monday](https://www.rotoballer.com/player-news/jalen-smith-active-vs-cleveland-monday/2002233)
-[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson23 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson1 d ago   
 Does Not Practice on Monday](https://www.rotoballer.com/player-news/jake-ferguson-does-not-practice-on-monday/2002230)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jordan Kyrou1 d ago   
 Out at Least One Week](https://www.rotoballer.com/player-news/jordan-kyrou-out-at-least-one-week/2002208)
@@ -1269,12 +1275,6 @@ Nets First NHL Hat Trick](https://www.rotoballer.com/player-news/roman-kantserov
 Canadiens Send Samuel Montembeault to Detroit](https://www.rotoballer.com/player-news/canadiens-send-samuel-montembeault-to-detroit/2001601)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kirby Dach1 d ago   
 Moves to Detroit](https://www.rotoballer.com/player-news/kirby-dach-moves-to-detroit/2001587)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Larkin1 d ago   
-Lands in Montreal](https://www.rotoballer.com/player-news/dylan-larkin-lands-in-montreal/2001574)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jack Roslovic2 d ago   
-Considered Day-to-Day](https://www.rotoballer.com/player-news/jack-roslovic-considered-day-to-day/2001100)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Hyman2 d ago   
-Out Sunday](https://www.rotoballer.com/player-news/zach-hyman-out-sunday/2001086)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
 Agrees to Nine-Year, $450 Million Contract with the Mets](https://www.rotoballer.com/player-news/tarik-skubal-agrees-to-nine-year-450-million-contract-with-the-new-york-mets/2001048)
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Troy Melton3 d ago   
@@ -1961,35 +1961,41 @@ RP
   * [NHL](https://www.rotoballer.com/nba-player-prop-betting-picks-for-today-11-16-26/1995126)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk13 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Pulock2 min ago   
+to Miss 1-2 Weeks With Shoulder Injury](https://www.rotoballer.com/player-news/ryan-pulock-to-miss-1-2-weeks-with-shoulder-injury/2003189)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar5 min ago   
+Logs Full Practice Tuesday](https://www.rotoballer.com/player-news/cale-makar-logs-full-practice-tuesday/2003184)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins8 min ago   
+Officially Available Tuesday](https://www.rotoballer.com/player-news/ryan-nugent-hopkins-officially-available-tuesday/2003182)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk43 min ago   
 Scheduled to Visit Commanders on Wednesday](https://www.rotoballer.com/player-news/brandon-aiyuk-scheduled-to-visit-commanders-on-wednesday/2003147)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid31 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid1 h ago   
 Says he's "Most Likely Playing" on Thursday](https://www.rotoballer.com/player-news/ill-be-there-thursday-im-most-likely-playing-dalton-kincaid-on-his-status-for-week-12/2003090)
 [![](https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg) J.K. Dobbins1 h ago   
 Suspended for Conduct Detrimental to the Team](https://www.rotoballer.com/player-news/broncos-have-suspended-rb-j-k-dobbins-for-fridays-game-for-conduct-detrimental-to-the-team/2003047)
 [![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Jalen Duren2 h ago   
 Practices With G-League Team](https://www.rotoballer.com/player-news/jalen-duren-practices-with-g-league-team/2002977)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo3 h ago   
 Participates in Practice on Tuesday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-participates-in-practice-on-tuesday/2002957)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim3 h ago   
 Tigers Agree on One-Year Deal](https://www.rotoballer.com/player-news/ha-seong-kim-tigers-agree-on-one-year-deal/2002941)
-[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays3 h ago   
 Kaima Taira Signs Five-Year Deal With Blue Jays](https://www.rotoballer.com/player-news/kaima-taira-signs-five-year-deal-with-blue-jays/2002923)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo3 h ago   
 Cleared for Team Basketball Activities](https://www.rotoballer.com/player-news/donte-divincenzo-cleared-for-basketball-activities-targeting-january-return/2002799)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Tyrese Haliburton3 h ago   
 Sent to G League on Tuesday](https://www.rotoballer.com/player-news/tyrese-haliburton-sent-to-g-league-on-tuesday/2002896)
-[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams3 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams4 h ago   
 Off the Injury Report vs. Packers](https://www.rotoballer.com/player-news/kyren-williams-off-the-injury-report-vs-packers/2002858)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs5 h ago   
 Questionable for Thanksgiving Eve](https://www.rotoballer.com/player-news/josh-jacobs-listed-as-questionable-vs-rams/2002820)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker5 h ago   
 Will Practice in Some Capacity on Tuesday](https://www.rotoballer.com/player-news/kenneth-walker-will-practice-in-some-capacity-on-tuesday/2002809)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic7 h ago   
 Guardians Agree on One-Year Deal](https://www.rotoballer.com/player-news/kris-bubic-guardians-agree-on-one-year-deal/2002759)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta7 h ago   
 Agrees With Orioles on Five-Year Deal](https://www.rotoballer.com/player-news/freddy-peralta-agrees-with-orioles-on-five-year-deal/2002747)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs7 h ago   
 Teruaki Sato, Cubs Agree to Six-Year Deal](https://www.rotoballer.com/player-news/teruaki-sato-cubs-agree-to-six-year-deal/2002732)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Joe Burrow8 h ago   
 Throws Two Touchdowns in Bengals' Loss](https://www.rotoballer.com/player-news/joe-burrow-throws-two-touchdowns-in-bengals-loss/2002652)
@@ -2003,39 +2009,39 @@ Sustains Lower-Body Injury Monday](https://www.rotoballer.com/player-news/kyle-p
 Suffers Upper-Body Injury in Monday's Loss](https://www.rotoballer.com/player-news/morgan-frost-suffers-upper-body-injury-in-mondays-loss/2002632)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase8 h ago   
 has Disappointing Night in Washington](https://www.rotoballer.com/player-news/jamarr-chase-posts-disappointing-night-in-washington/2002626)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone9 h ago   
 Unavailable for 3-4 Months](https://www.rotoballer.com/player-news/michael-carcone-unavailable-for-3-4-months/2002624)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams9 h ago   
 Converts Critical Catches on Career Night](https://www.rotoballer.com/player-news/antonio-williams-converts-critical-catches-on-career-night/2002621)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson9 h ago   
 Ruled Out for 2-4 Weeks](https://www.rotoballer.com/player-news/erik-gustafsson-ruled-out-for-2-4-weeks/2002617)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard9 h ago   
 to Miss Approximately Four Months](https://www.rotoballer.com/player-news/connor-bedard-to-miss-approximately-four-months/2002615)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels9 h ago   
 Leads Commanders to a Win Despite Wrist Issue](https://www.rotoballer.com/player-news/jayden-daniels-left-wrist-wrapped-after-game/2002482)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaden McDaniels9 h ago   
 Drops Career-High 34 Points](https://www.rotoballer.com/player-news/jaden-mcdaniels-drops-career-high-34-points/2002607)
 [![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Mitchell Robinson9 h ago   
 Ruled Out Again Tuesday](https://www.rotoballer.com/player-news/mitchell-robinson-ruled-out-again-tuesday/2002589)
-[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther10 h ago   
 Off the Injury Report for Tuesday](https://www.rotoballer.com/player-news/julian-strawther-off-the-injury-report-for-tuesday/2002581)
-[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington10 h ago   
 Questionable for Tuesday in Denver](https://www.rotoballer.com/player-news/p-j-washington-questionable-for-tuesday-in-denver/2002571)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham10 h ago   
 Probable for Tuesday Against Orlando](https://www.rotoballer.com/player-news/cade-cunningham-right-knee-soreness-probable-vs-magic-tuesday/2002157)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers19 h ago   
 Cubs Agree on Five-Year Deal on Monday](https://www.rotoballer.com/player-news/trevor-rogers-cubs-agree-on-five-year-deal-on-monday/2002414)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton20 h ago   
 Chargers Regret Not Featuring Omarion Hampton Sooner](https://www.rotoballer.com/player-news/in-hindsight-we-should-have-done-that-sooner-harbaugh-when-asked-about-using-omarion/2002380)
 [![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Sam LaPorta20 h ago   
 is Limited During Monday's Walkthrough](https://www.rotoballer.com/player-news/sam-laporta-is-limited-during-mondays-walkthrough/2002374)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner21 h ago   
 Exits with Hip Injury](https://www.rotoballer.com/player-news/ryan-kalkbrenner-exits-with-hip-injury/2002353)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves21 h ago   
 Trending Toward Friday Return](https://www.rotoballer.com/player-news/austin-reaves-trending-toward-friday-return/2002342)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.21 h ago   
 Exits with Ankle Injury](https://www.rotoballer.com/player-news/larry-nance-jr-exits-with-ankle-injury/2002332)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin21 h ago   
 Cleared to Play Monday Against Kings](https://www.rotoballer.com/player-news/jordan-mclaughlin-cleared-to-play-monday-against-kings/2002329)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Gabe Vincent21 h ago   
 Cleared to Suit Up for Sacramento](https://www.rotoballer.com/player-news/gabe-vincent-cleared-to-suit-up-for-sacramento/2002323)
@@ -2045,7 +2051,7 @@ Patriots Sticking With Tommy DeVito as Starting QB](https://www.rotoballer.com/p
 Downgraded to Out Against Kings](https://www.rotoballer.com/player-news/deaaron-fox-downgraded-to-out-against-kings/2002315)
 [![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Victor Wembanyama21 h ago   
 Ruled Out Monday Versus Kings](https://www.rotoballer.com/player-news/victor-wembanyama-ruled-out-monday-versus-kings/2002311)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes21 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes22 h ago   
 Out Against the Lakers on Monday](https://www.rotoballer.com/player-news/jaxson-hayes-out-against-the-lakers-on-monday/2002308)
 [![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Jaylon Tyson22 h ago   
 Cleared to Play Against Bulls](https://www.rotoballer.com/player-news/jaylon-tyson-cleared-to-play-against-bulls/2002287)
@@ -2057,7 +2063,7 @@ Good to Go Against Suns](https://www.rotoballer.com/player-news/zion-williamson-
 Available for Monday's Game Against Cavaliers](https://www.rotoballer.com/player-news/nic-claxton-available-for-mondays-game-against-cavaliers/2002281)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Jalen Smith22 h ago   
 Suits Up Against Cleveland on Monday](https://www.rotoballer.com/player-news/jalen-smith-active-vs-cleveland-monday/2002233)
-[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson23 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson1 d ago   
 Does Not Practice on Monday](https://www.rotoballer.com/player-news/jake-ferguson-does-not-practice-on-monday/2002230)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jordan Kyrou1 d ago   
 Out at Least One Week](https://www.rotoballer.com/player-news/jordan-kyrou-out-at-least-one-week/2002208)
@@ -2095,12 +2101,6 @@ Nets First NHL Hat Trick](https://www.rotoballer.com/player-news/roman-kantserov
 Canadiens Send Samuel Montembeault to Detroit](https://www.rotoballer.com/player-news/canadiens-send-samuel-montembeault-to-detroit/2001601)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kirby Dach1 d ago   
 Moves to Detroit](https://www.rotoballer.com/player-news/kirby-dach-moves-to-detroit/2001587)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Larkin1 d ago   
-Lands in Montreal](https://www.rotoballer.com/player-news/dylan-larkin-lands-in-montreal/2001574)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jack Roslovic2 d ago   
-Considered Day-to-Day](https://www.rotoballer.com/player-news/jack-roslovic-considered-day-to-day/2001100)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Hyman2 d ago   
-Out Sunday](https://www.rotoballer.com/player-news/zach-hyman-out-sunday/2001086)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
 Agrees to Nine-Year, $450 Million Contract with the Mets](https://www.rotoballer.com/player-news/tarik-skubal-agrees-to-nine-year-450-million-contract-with-the-new-york-mets/2001048)
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Troy Melton3 d ago   
@@ -2151,6 +2151,7 @@ A Raptive Partner Site
 ---
 ## SOURCE: https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-13-26/1992344
 
+![](https://cs.media.net/cksync?cs=3&gdpr=0&gdpr_consent=&gpp_sid=6%2C7&gpp_string=DBABzw~1YNY~BVQqAAAAAgA&ovsid=8e98fd0e-cc18-49d6-a765-39007e5c0653&redirect=https%3A%2F%2Fids.api.gcprivacy.id%2Fv1%2Frt%2Fsync%2Fmedianet%3Fgcid%3D8e98fd0e-cc18-49d6-a765-39007e5c0653%26id%3D%24%7Bssp_id%7D&type=gc&us_privacy=1YNY)
 ![](https://www.rotoballer.com/wp-content/uploads/mobilenav.svg)![](https://www.rotoballer.com/wp-content/uploads/2019/08/cancel-white-x.svg)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)](https://www.rotoballer.com/)
 [](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-13-26/1992344)
@@ -2726,7 +2727,7 @@ DEF
 [Chuba Hubbard](http://www.rotoballer.com/nfl/player/21691/Chuba+Hubbard) CAR
 17
 [View All Players](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)
-[![](https://www.rotoballer.com/wp-content/uploads/2026/11/Novig-RotoBaller-2026-small-blue.png)](https://www.rotoballer.com/no)
+[![](https://www.rotoballer.com/wp-content/uploads/2026/09/ProphetX-RotoBaller-small.png)](https://www.rotoballer.com/x)
 [![](https://cdn.rotoballer.com/2024/08/RotoBaller-fantasy-football-rankings-accuracy-mariano-top-five-small.jpg)](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit)
 ######  RANKINGS  Roto Points Dynasty
 C
@@ -2786,35 +2787,41 @@ RP
   * [NHL](https://www.rotoballer.com/nba-player-prop-bet-picks-for-today-11-13-26/1992344)
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk13 min ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Pulock2 min ago   
+to Miss 1-2 Weeks With Shoulder Injury](https://www.rotoballer.com/player-news/ryan-pulock-to-miss-1-2-weeks-with-shoulder-injury/2003189)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Cale Makar5 min ago   
+Logs Full Practice Tuesday](https://www.rotoballer.com/player-news/cale-makar-logs-full-practice-tuesday/2003184)
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Ryan Nugent-Hopkins8 min ago   
+Officially Available Tuesday](https://www.rotoballer.com/player-news/ryan-nugent-hopkins-officially-available-tuesday/2003182)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Brandon Aiyuk43 min ago   
 Scheduled to Visit Commanders on Wednesday](https://www.rotoballer.com/player-news/brandon-aiyuk-scheduled-to-visit-commanders-on-wednesday/2003147)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid31 min ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Buffalo_Bills_logo_1974-present.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Dalton Kincaid1 h ago   
 Says he's "Most Likely Playing" on Thursday](https://www.rotoballer.com/player-news/ill-be-there-thursday-im-most-likely-playing-dalton-kincaid-on-his-status-for-week-12/2003090)
 [![](https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg) J.K. Dobbins1 h ago   
 Suspended for Conduct Detrimental to the Team](https://www.rotoballer.com/player-news/broncos-have-suspended-rb-j-k-dobbins-for-fridays-game-for-conduct-detrimental-to-the-team/2003047)
 [![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Jalen Duren2 h ago   
 Practices With G-League Team](https://www.rotoballer.com/player-news/jalen-duren-practices-with-g-league-team/2002977)
-[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg) Giannis Antetokounmpo3 h ago   
 Participates in Practice on Tuesday](https://www.rotoballer.com/player-news/giannis-antetokounmpo-participates-in-practice-on-tuesday/2002957)
-[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/f/f2/Atlanta_Braves.svg) Ha-Seong Kim3 h ago   
 Tigers Agree on One-Year Deal](https://www.rotoballer.com/player-news/ha-seong-kim-tigers-agree-on-one-year-deal/2002941)
-[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/cc/Toronto_Blue_Jay_Primary_Logo.svg) Toronto Blue Jays3 h ago   
 Kaima Taira Signs Five-Year Deal With Blue Jays](https://www.rotoballer.com/player-news/kaima-taira-signs-five-year-deal-with-blue-jays/2002923)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo2 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Donte DiVincenzo3 h ago   
 Cleared for Team Basketball Activities](https://www.rotoballer.com/player-news/donte-divincenzo-cleared-for-basketball-activities-targeting-january-return/2002799)
 [![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Tyrese Haliburton3 h ago   
 Sent to G League on Tuesday](https://www.rotoballer.com/player-news/tyrese-haliburton-sent-to-g-league-on-tuesday/2002896)
-[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams3 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/14/LA_Rams_logo.svg) Kyren Williams4 h ago   
 Off the Injury Report vs. Packers](https://www.rotoballer.com/player-news/kyren-williams-off-the-injury-report-vs-packers/2002858)
-[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/5/50/Green_Bay_Packers_logo.svg) Josh Jacobs5 h ago   
 Questionable for Thanksgiving Eve](https://www.rotoballer.com/player-news/josh-jacobs-listed-as-questionable-vs-rams/2002820)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker4 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kansas_City_Chiefs_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Kenneth Walker5 h ago   
 Will Practice in Some Capacity on Tuesday](https://www.rotoballer.com/player-news/kenneth-walker-will-practice-in-some-capacity-on-tuesday/2002809)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a9/Guardians_winged_%22G%22.svg) Kris Bubic7 h ago   
 Guardians Agree on One-Year Deal](https://www.rotoballer.com/player-news/kris-bubic-guardians-agree-on-one-year-deal/2002759)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Freddy Peralta7 h ago   
 Agrees With Orioles on Five-Year Deal](https://www.rotoballer.com/player-news/freddy-peralta-agrees-with-orioles-on-five-year-deal/2002747)
-[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs6 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg) Chicago Cubs7 h ago   
 Teruaki Sato, Cubs Agree to Six-Year Deal](https://www.rotoballer.com/player-news/teruaki-sato-cubs-agree-to-six-year-deal/2002732)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Joe Burrow8 h ago   
 Throws Two Touchdowns in Bengals' Loss](https://www.rotoballer.com/player-news/joe-burrow-throws-two-touchdowns-in-bengals-loss/2002652)
@@ -2828,39 +2835,39 @@ Sustains Lower-Body Injury Monday](https://www.rotoballer.com/player-news/kyle-p
 Suffers Upper-Body Injury in Monday's Loss](https://www.rotoballer.com/player-news/morgan-frost-suffers-upper-body-injury-in-mondays-loss/2002632)
 [![](https://upload.wikimedia.org/wikipedia/commons/8/81/Cincinnati_Bengals_logo.svg) Ja'Marr Chase8 h ago   
 has Disappointing Night in Washington](https://www.rotoballer.com/player-news/jamarr-chase-posts-disappointing-night-in-washington/2002626)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Michael Carcone9 h ago   
 Unavailable for 3-4 Months](https://www.rotoballer.com/player-news/michael-carcone-unavailable-for-3-4-months/2002624)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Antonio Williams9 h ago   
 Converts Critical Catches on Career Night](https://www.rotoballer.com/player-news/antonio-williams-converts-critical-catches-on-career-night/2002621)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Erik Gustafsson9 h ago   
 Ruled Out for 2-4 Weeks](https://www.rotoballer.com/player-news/erik-gustafsson-ruled-out-for-2-4-weeks/2002617)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard8 h ago   
+[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Connor Bedard9 h ago   
 to Miss Approximately Four Months](https://www.rotoballer.com/player-news/connor-bedard-to-miss-approximately-four-months/2002615)
-[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels8 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Washington_Commanders_logo.svg) Jayden Daniels9 h ago   
 Leads Commanders to a Win Despite Wrist Issue](https://www.rotoballer.com/player-news/jayden-daniels-left-wrist-wrapped-after-game/2002482)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg) Jaden McDaniels9 h ago   
 Drops Career-High 34 Points](https://www.rotoballer.com/player-news/jaden-mcdaniels-drops-career-high-34-points/2002607)
 [![](https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg) Mitchell Robinson9 h ago   
 Ruled Out Again Tuesday](https://www.rotoballer.com/player-news/mitchell-robinson-ruled-out-again-tuesday/2002589)
-[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg) Julian Strawther10 h ago   
 Off the Injury Report for Tuesday](https://www.rotoballer.com/player-news/julian-strawther-off-the-injury-report-for-tuesday/2002581)
-[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg) P.J. Washington10 h ago   
 Questionable for Tuesday in Denver](https://www.rotoballer.com/player-news/p-j-washington-questionable-for-tuesday-in-denver/2002571)
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham9 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg) Cade Cunningham10 h ago   
 Probable for Tuesday Against Orlando](https://www.rotoballer.com/player-news/cade-cunningham-right-knee-soreness-probable-vs-magic-tuesday/2002157)
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers18 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Baltimore_Orioles_Script.svg) Trevor Rogers19 h ago   
 Cubs Agree on Five-Year Deal on Monday](https://www.rotoballer.com/player-news/trevor-rogers-cubs-agree-on-five-year-deal-on-monday/2002414)
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton19 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Los_Angeles_Chargers_logo.svg) Omarion Hampton20 h ago   
 Chargers Regret Not Featuring Omarion Hampton Sooner](https://www.rotoballer.com/player-news/in-hindsight-we-should-have-done-that-sooner-harbaugh-when-asked-about-using-omarion/2002380)
 [![](https://upload.wikimedia.org/wikipedia/en/7/71/Detroit_Lions_logo.svg) Sam LaPorta20 h ago   
 is Limited During Monday's Walkthrough](https://www.rotoballer.com/player-news/sam-laporta-is-limited-during-mondays-walkthrough/2002374)
-[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg) Ryan Kalkbrenner21 h ago   
 Exits with Hip Injury](https://www.rotoballer.com/player-news/ryan-kalkbrenner-exits-with-hip-injury/2002353)
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Austin Reaves21 h ago   
 Trending Toward Friday Return](https://www.rotoballer.com/player-news/austin-reaves-trending-toward-friday-return/2002342)
-[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg) Larry Nance Jr.21 h ago   
 Exits with Ankle Injury](https://www.rotoballer.com/player-news/larry-nance-jr-exits-with-ankle-injury/2002332)
-[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin20 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Jordan McLaughlin21 h ago   
 Cleared to Play Monday Against Kings](https://www.rotoballer.com/player-news/jordan-mclaughlin-cleared-to-play-monday-against-kings/2002329)
 [![](https://upload.wikimedia.org/wikipedia/en/c/c7/SacramentoKings.svg) Gabe Vincent21 h ago   
 Cleared to Suit Up for Sacramento](https://www.rotoballer.com/player-news/gabe-vincent-cleared-to-suit-up-for-sacramento/2002323)
@@ -2870,7 +2877,7 @@ Patriots Sticking With Tommy DeVito as Starting QB](https://www.rotoballer.com/p
 Downgraded to Out Against Kings](https://www.rotoballer.com/player-news/deaaron-fox-downgraded-to-out-against-kings/2002315)
 [![](https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg) Victor Wembanyama21 h ago   
 Ruled Out Monday Versus Kings](https://www.rotoballer.com/player-news/victor-wembanyama-ruled-out-monday-versus-kings/2002311)
-[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes21 h ago   
+[![](https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg) Jaxson Hayes22 h ago   
 Out Against the Lakers on Monday](https://www.rotoballer.com/player-news/jaxson-hayes-out-against-the-lakers-on-monday/2002308)
 [![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg) Jaylon Tyson22 h ago   
 Cleared to Play Against Bulls](https://www.rotoballer.com/player-news/jaylon-tyson-cleared-to-play-against-bulls/2002287)
@@ -2882,7 +2889,7 @@ Good to Go Against Suns](https://www.rotoballer.com/player-news/zion-williamson-
 Available for Monday's Game Against Cavaliers](https://www.rotoballer.com/player-news/nic-claxton-available-for-mondays-game-against-cavaliers/2002281)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_of_Chicago_Bulls.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original) Jalen Smith22 h ago   
 Suits Up Against Cleveland on Monday](https://www.rotoballer.com/player-news/jalen-smith-active-vs-cleveland-monday/2002233)
-[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson23 h ago   
+[![](https://upload.wikimedia.org/wikipedia/commons/1/15/Dallas_Cowboys.svg) Jake Ferguson1 d ago   
 Does Not Practice on Monday](https://www.rotoballer.com/player-news/jake-ferguson-does-not-practice-on-monday/2002230)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jordan Kyrou1 d ago   
 Out at Least One Week](https://www.rotoballer.com/player-news/jordan-kyrou-out-at-least-one-week/2002208)
@@ -2920,12 +2927,6 @@ Nets First NHL Hat Trick](https://www.rotoballer.com/player-news/roman-kantserov
 Canadiens Send Samuel Montembeault to Detroit](https://www.rotoballer.com/player-news/canadiens-send-samuel-montembeault-to-detroit/2001601)
 [![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Kirby Dach1 d ago   
 Moves to Detroit](https://www.rotoballer.com/player-news/kirby-dach-moves-to-detroit/2001587)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Dylan Larkin1 d ago   
-Lands in Montreal](https://www.rotoballer.com/player-news/dylan-larkin-lands-in-montreal/2001574)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Jack Roslovic2 d ago   
-Considered Day-to-Day](https://www.rotoballer.com/player-news/jack-roslovic-considered-day-to-day/2001100)
-[![](https://www.rotoballer.com/wp-content/uploads/teamlogos/nhl/nhl.png) Zach Hyman2 d ago   
-Out Sunday](https://www.rotoballer.com/player-news/zach-hyman-out-sunday/2001086)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg) Tarik Skubal2 d ago   
 Agrees to Nine-Year, $450 Million Contract with the Mets](https://www.rotoballer.com/player-news/tarik-skubal-agrees-to-nine-year-450-million-contract-with-the-new-york-mets/2001048)
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e3/Detroit_Tigers_logo.svg) Troy Melton3 d ago   
@@ -2970,4 +2971,5 @@ Information from your device can be used to personalize your ad experience.
   
 [Do not sell or share my personal information.](https://www.rotoballer.com/)
 A Raptive Partner Site
+![](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&halo_id=060ixdaju6a65989c9d9f9d9f9c979a9c66uokewi0e0y646i6k6o6k6o6i626e6i)![](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792616917-O3VPLPPH-T5SZ)![](https://sync.smartadserver.com/getuid?url=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fsmart_match%3Fid%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ%26sas_uid%3D%5bsas_uid%5d&gdpr=0)![](https://bh.contextweb.com/bh/rtset?pid=562316&ev=1&rurl=https://ids.ad.gt/api/v1/ppnt_match?uid=%%VGUID%%&id=AU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://sync.1rx.io/usersync/audigent/0?dspret=1&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Funruly%3Fid%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ%26unruly_id%3D%5BRX_UUID%5D&gdpr=0)![](https://ssum-sec.casalemedia.com/ium?sourceid=15&uid=060ixdaju6a65989c9d9f9d9f9c979a9c66uokewi0e0y646i6k6o6k6o6i626e6i&gdpr=0)![](https://onetag-sys.com/match/?int_id=180&uid=AU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)![](https://dpm.demdex.net/ibs:dpid=348447&dpuuid=AU1D-0100-001792616917-O3VPLPPH-T5SZ&redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fadb_match%3Fadb%3D%24%7BDD_UUID%7D%26id%3DAU1D-0100-001792616917-O3VPLPPH-T5SZ&gdpr=0)
 

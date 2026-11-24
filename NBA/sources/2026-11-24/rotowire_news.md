@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-24 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-24 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,53 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Nikola Topic](https://www.rotowire.com/basketball/player/nikola-topic-6256)[Unavailable versus Timberwolves](https://www.rotowire.com/basketball/headlines/nikola-topic-injury-unavailable-versus-timberwolves-540875)
+**G** Oklahoma City Thunder
+Hip
+November 24, 2026
+Topic (hip) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_15PM.pdf) for Wednesday's game versus Minnesota.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Jaylin Williams](https://www.rotowire.com/basketball/player/jaylin-williams-5690)[Still out Wednesday](https://www.rotowire.com/basketball/headlines/jaylin-williams-injury-still-out-wednesday-540874)
+**C** Oklahoma City Thunder
+Back
+November 24, 2026
+Williams (back) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_15PM.pdf) for Wednesday's game against Minnesota.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)[Cleared from injury report](https://www.rotowire.com/basketball/headlines/alex-caruso-news-cleared-from-injury-report-540873)
+**F** Oklahoma City Thunder
+November 24, 2026
+Caruso is off the [injury report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_15PM.pdf) for Wednesday's game against the Timberwolves.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
+[Yaxel Lendeborg](https://www.rotowire.com/basketball/player/yaxel-lendeborg-6562)[Iffy for Wednesday](https://www.rotowire.com/basketball/headlines/yaxel-lendeborg-injury-iffy-for-wednesday-540872)
+**F** Golden State Warriors
+Illness
+November 24, 2026
+Lendeborg is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_15PM.pdf) for Wednesday's game against the Kings with an illness.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![OKC](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Aday Mara](https://www.rotowire.com/basketball/player/aday-mara-6932)[Ruled out for Wednesday](https://www.rotowire.com/basketball/headlines/aday-mara-injury-ruled-out-for-wednesday-540871)
+**C** Oklahoma City Thunder
+Lower Leg
+November 24, 2026
+Mara (leg) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_15PM.pdf) for Wednesday's game versus the Timberwolves.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Scotty Pippen](https://www.rotowire.com/basketball/player/scotty-pippen-5685)[Still sidelined](https://www.rotowire.com/basketball/headlines/scotty-pippen-injury-still-sidelined-540870)
+**G** Memphis Grizzlies
+Back
+November 24, 2026
+Pippen (back) is [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_06_00PM.pdf) for Wednesday's game against the Clippers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
 [Grant Williams](https://www.rotowire.com/basketball/player/grant-williams-4814)[Absent from injury report](https://www.rotowire.com/basketball/headlines/grant-williams-news-absent-from-injury-report-540869)
 **F** Charlotte Hornets
@@ -158,54 +205,6 @@ Holland (knee) recorded two points (1-6 FG), four rebounds and one block in 10 m
 **C** San Antonio Spurs
 November 24, 2026
 Reed amassed seven points (1-1 FG, 5-6 FT), seven rebounds, one assist and two blocks across 15 minutes during Monday's 123-107 win over the Kings.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Practices Tuesday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-injury-practices-tuesday-540849)
-**F** Miami Heat
-Groin
-November 24, 2026
-Antetokounmpo (groin) participated in most of Tuesday's practice, [Zachary Weinberger of ClutchPoints.com](https://x.com/ZachWeinberger/status/2125301654828335323?a=7dLWOA1JLLaOuhQIM-Q&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jordan Clarkson](https://www.rotowire.com/basketball/player/jordan-clarkson-3614)[Sits out Tuesday's practice](https://www.rotowire.com/basketball/headlines/jordan-clarkson-injury-sits-out-tuesdays-practice-540848)
-**G** New York Knicks
-Foot
-November 24, 2026
-Clarkson (foot) didn't participate in Tuesday's practice, [Jared Schwartz of the New York Post](https://x.com/jschwartz115/status/2125297641785577942?a=fFsXF3lyYUE9iGBmjB0&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Doesn't practice Tuesday](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-doesnt-practice-tuesday-540847)
-**F** New York Knicks
-Calf
-November 24, 2026
-Anunoby (calf) did not participate in Tuesday's practice, [Jared Schwartz of the New York Post](https://x.com/jschwartz115/status/2125297641785577942?a=fFsXF3lyYUE9iGBmjB0&s=20) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Miles McBride](https://www.rotowire.com/basketball/player/miles-mcbride-5402)[Participates in practice](https://www.rotowire.com/basketball/headlines/miles-mcbride-injury-participates-in-practice-540846)
-**G** New York Knicks
-Abdomen
-November 24, 2026
-McBride (groin) practiced Tuesday, per [Jared Schwartz of the New York Post](https://x.com/jschwartz115/status/2125297641785577942?s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Ebuka Okorie](https://www.rotowire.com/basketball/player/ebuka-okorie-6990)[To miss at least two weeks](https://www.rotowire.com/basketball/headlines/ebuka-okorie-injury-to-miss-at-least-two-weeks-540845)
-**G** Detroit Pistons
-Oblique
-November 24, 2026
-The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per [Eric Vincent of ClutchPoints.com](https://x.com/IAmEricVincent/status/2125293189758132564?a=P59F1wdc5Db2ouecYG8&s=20).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![DET](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Taurean Prince](https://www.rotowire.com/basketball/player/taurean-prince-3858)[To be re-evaluated in four weeks](https://www.rotowire.com/basketball/headlines/taurean-prince-injury-to-be-re-evaluated-in-four-weeks-540844)
-**F** Detroit Pistons
-Knee
-November 24, 2026
-Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, [Eric Vincent of ClutchPoints.com](https://x.com/IAmEricVincent/status/2125293189758132564?a=P59F1wdc5Db2ouecYG8&s=20) reports.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

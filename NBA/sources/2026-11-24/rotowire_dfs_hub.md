@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-24 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-24 18:35 ET -->
 
 # NBA DFS Picks Today
 November 24, 2026
@@ -85,23 +85,23 @@ _Implied_**105.0** _Spread_**+2.5**
 **BOS @ WSH**
 O/U 218.58:00 PM ET
 CelticsExpectedAway
-_Implied_**114.5** _Spread_**-10.5**  
+_Implied_**115.0** _Spread_**-11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $5,100  | 30.6  |  
 | PF  | Paul George  | $7,800  | 38.3  |  
 | PG  | Derrick White  | $6,700  | 27.9  |  
-| SF  | Jayson Tatum  | $9,700  | 45.8  |  
-| SG  | Jordan Walsh  | $3,400  | 7.4  |  
+| SF  | Jayson Tatum  | $9,700  | 45.9  |  
+| SG  | Jordan Walsh  | $3,400  | 7.5  |  
 WizardsExpectedHome
-_Implied_**104.0** _Spread_**+10.5**  
+_Implied_**103.5** _Spread_**+11.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Alex Sarr  | -  | 22.3  |  
-| PF  | Anthony Davis  | $9,000  | 41.2  |  
-| PG  | Trae Young  | $7,200  | 34.5  |  
-| SF  | AJ Dybantsa  | $6,600  | 28.3  |  
-| SG  | Kyshawn George  | $6,400  | 30.9  |  
+| PF  | Anthony Davis  | $9,000  | 41.1  |  
+| PG  | Trae Young  | $7,200  | 34.4  |  
+| SF  | AJ Dybantsa  | $6,600  | 28.2  |  
+| SG  | Kyshawn George  | $6,400  | 30.8  |  
 **DAL @ DEN**
 O/U 234.510:00 PM ET
 MavericksExpectedAway
@@ -133,14 +133,14 @@ Main slatesMain - 3 games - 7:00 PMMain - 2 games - 8:00 PMShowdownsShowdown - D
 AllGuardsForwardsCenters  
 | #  | Player  | Opp  | Salary  | Min  | Proj  | Pts / $1K  |  
 | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Neemias QuetaBOS - C  | @ WSH  | $5,100  | 30  | 30.6  | **6.00**  |  
+| 1  |  Neemias QuetaBOS - C  | @ WSH  | $5,100  | 30  | 30.6  | **6.01**  |  
 | 2  |  Aaron GordonDEN - PF  | vs DAL  | $5,200  | 30  | 27.3  | **5.25**  |  
-| 3  |  Daniss JenkinsDET - PG  | @ ORL  | $6,100  | 34  | 31.9  | **5.23**  |  
-| 4  |  Luka GarzaBOS - C  | @ WSH  | $3,500  | 18  | 17.9  | **5.12**  |  
+| 3  |  Daniss JenkinsDET - PG  | @ ORL  | $6,100  | 34  | 31.9  | **5.24**  |  
+| 4  |  Luka GarzaBOS - C  | @ WSH  | $3,500  | 18  | 17.9  | **5.13**  |  
 | 5  |  Cade CunninghamPDET - PG  | @ ORL  | $9,400  | 36  | 48.1  | **5.12**  |  
 | 6  |  Paul ReedDET - C  | @ ORL  | $5,700  | 27  | 29.1  | **5.11**  |  
 | 7  |  Ausar ThompsonDET - SF  | @ ORL  | $6,800  | 32  | 34.6  | **5.09**  |  
-| 8  |  Nikola JokicDEN - C  | vs DAL  | $11,700  | 35  | 59.3  | **5.07**  |  
+| 8  |  Nikola JokicDEN - C  | vs DAL  | $11,700  | 35  | 59.4  | **5.07**  |  
 | 9  |  Cameron JohnsonDEN - SG  | vs DAL  | $4,900  | 30  | 24.8  | **5.06**  |  
 | 10  |  Desmond BaneORL - SG  | vs DET  | $6,300  | 35  | 31.7  | **5.03**  |  
 Value = projected points / (salary / 1,000). Min. 15 projected points to qualify. Scored with each site's NBA rules. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details).Projections: RotoWire
@@ -160,27 +160,27 @@ Rank bySwing Score Ceiling Ceiling vs. salary Volatility vs. peers
 ### Where the upside lives
 Each dot is a player. Left to right is salary; the line is how much ceiling that salary typically buys on this slate. Dots above it are ceiling bargains, and dark dots are also in the top third for volatility compared with players of a similar projection. Hover or tap a dot for details.
 Ceiling bargain + top-third volatilityCeiling bargain, less volatileAt or below the line
-$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GordonHollandSilvaJohnsonSarrHuerterSuggsRisacher
+$3K$4K$5K$6K$7K$8K$9K$10K$11K$12K−50+5+10CEILING BARGAINSPRICEY FOR THE CEILINGSalaryCeiling vs. typical for salary (pts)GordonHollandSuggsSilvaJohnsonSarrHuerterBlack
 ### The board — DraftKings points
 Swing Score (0–100) averages a player’s percentile rank for ceiling vs. salary and for volatility vs. peers among the players shown. Bar = floor to ceiling; red tick = projection.
 **Slate games:** BOS@WAS, DAL@DEN, DET@ORL  
 | #  | Player  | Salary  | Floor  | Proj  | Ceiling  | Floor → Ceiling  | Ceil vs sal  | Vol vs peers  | Swing  |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  
-| 1  |  Aaron GordonDEN · PF/C · DAL@DEN  | $5,200  | 8.2  | 27.3  | **41.2**  |   | +8.0  | +6  | 89  |  
-| 2  |  Ronald HollandDET · PF · DET@ORL  | $3,400  | 0.8  | 14.9  | **24.8**  |   | +3.9  | +16  | 88  |  
-| 3  |  Tristan da SilvaORL · SF/PF · DET@ORL  | $4,500  | 5.8  | 20.7  | **33.5**  |   | +5.2  | +5  | 83  |  
-| 4  |  Bilal CoulibalyWAS · SF · BOS@WAS  | $3,700  | 2.8  | 15.7  | **26.8**  |   | +3.9  | +10  | 83  |  
-| 5  |  Cameron JohnsonDEN · SG/SF · DAL@DEN  | $4,900  | 7.3  | 24.8  | **37.8**  |   | +6.7  | +3  | 83  |  
-| 6  |  Alex SarrWAS · C · BOS@WAS  | $5,300  | 3.7  | 22.3  | **35.7**  |   | +1.8  | +18  | 82  |  
-| 7  |  Kevin HuerterDET · SG/SF · DET@ORL  | $5,400  | 3.8  | 21.7  | **35.3**  |   | +0.7  | +19  | 79  |  
-| 8  |  Jalen SuggsORL · PG · DET@ORL  | $5,500  | 5.6  | 26.6  | **38.1**  |   | +2.9  | +6  | 78  |  
-| 9  |  Zaccharie RisacherDAL · SF · DAL@DEN  | $4,300  | 2.8  | 16.9  | **28.5**  |   | +1.5  | +13  | 77  |  
-| 10  |  Isaiah JoeDET · SG/SF · DET@ORL  | $3,800  | 0.0  | 15.0  | **24.0**  |   | +0.4  | +15  | 75  |  
-| 11  |  Kyrie IrvingDAL · PG/SG · DAL@DEN  | $7,900  | 17.4  | 37.6  | **55.7**  |   | +4.0  | +3  | 74  |  
-| 12  |  Daniel GaffordDAL · C · DAL@DEN  | $4,600  | 5.6  | 22.3  | **33.9**  |   | +4.8  | +2  | 73  |  
-| 13  |  Desmond BaneORL · SG/SF · DET@ORL  | $6,300  | 11.3  | 31.7  | **45.8**  |   | +5.1  | +2  | 72  |  
-| 14  |  Daniss JenkinsDET · PG/SG · DET@ORL  | $6,100  | 11.4  | 31.9  | **44.7**  |   | +5.3  | −3  | 69  |  
-| 15  |  Paul ReedDET · C · DET@ORL  | $5,700  | 12.4  | 29.1  | **43.1**  |   | +6.5  | −6  | 66  |  
+| 1  |  Aaron GordonDEN · PF/C · DAL@DEN  | $5,200  | 8.1  | 27.3  | **41.1**  |   | +8.1  | +9  | 90  |  
+| 2  |  Ronald HollandDET · PF · DET@ORL  | $3,400  | 0.8  | 14.9  | **24.8**  |   | +4.3  | +19  | 87  |  
+| 3  |  Jalen SuggsORL · PG · DET@ORL  | $5,500  | 6.6  | 26.6  | **40.1**  |   | +5.1  | +12  | 87  |  
+| 4  |  Tristan da SilvaORL · SF/PF · DET@ORL  | $4,500  | 5.8  | 20.7  | **33.5**  |   | +5.4  | +8  | 86  |  
+| 5  |  Cameron JohnsonDEN · SG/SF · DAL@DEN  | $4,900  | 7.3  | 24.8  | **37.8**  |   | +6.9  | +6  | 85  |  
+| 6  |  Bilal CoulibalyWAS · SF · BOS@WAS  | $3,700  | 2.8  | 15.7  | **26.8**  |   | +4.2  | +14  | 84  |  
+| 7  |  Alex SarrWAS · C · BOS@WAS  | $5,300  | 3.7  | 22.3  | **35.7**  |   | +2.0  | +21  | 80  |  
+| 8  |  Kevin HuerterDET · SG/SF · DET@ORL  | $5,400  | 3.8  | 21.7  | **35.3**  |   | +0.9  | +22  | 78  |  
+| 9  |  Anthony BlackORL · PG/SG · DET@ORL  | $6,500  | 7.4  | 32.5  | **44.4**  |   | +2.4  | +10  | 76  |  
+| 10  |  Desmond BaneORL · SG/SF · DET@ORL  | $6,300  | 11.3  | 31.7  | **45.8**  |   | +5.2  | +4  | 75  |  
+| 11  |  Daniel GaffordDAL · C · DAL@DEN  | $4,600  | 5.6  | 22.3  | **33.9**  |   | +5.1  | +5  | 74  |  
+| 12  |  Paul ReedDET · C · DET@ORL  | $5,700  | 10.9  | 29.1  | **43.1**  |   | +6.7  | +2  | 73  |  
+| 13  |  Kyrie IrvingDAL · PG/SG · DAL@DEN  | $7,900  | 17.4  | 37.6  | **55.7**  |   | +4.0  | +5  | 72  |  
+| 14  |  Daniss JenkinsDET · PG/SG · DET@ORL  | $6,100  | 11.4  | 31.9  | **44.7**  |   | +5.4  | 0  | 69  |  
+| 15  |  DeMar DeRozanDEN · SG/SF · DAL@DEN  | $4,200  | 3.5  | 17.4  | **28.0**  |   | +2.0  | +6  | 68  |  
 Show all 53 players
 **How it works:** RotoWire’s projected, floor and ceiling stat lines are converted to DraftKings points with the site’s official scoring (1 pt, 0.5 per 3PM, 1.25 reb, 1.5 ast, 2 stl, 2 blk, −0.5 TO, plus double/triple-double bonuses at their projected probability). **Ceiling vs. salary** = a player’s ceiling minus the ceiling typical at his salary on this slate (the slate’s trend line). **Volatility vs. peers** = his (ceiling − floor) ÷ projection minus the typical figure for players with a similar projection, in percentage points; dark dots are the top third of the slate on that measure. Both trend lines ignore the most extreme 10% of players so outliers do not tilt them. Raw volatility is mostly a function of projection size (small projections have proportionally wider ranges), so this isolates who is wider than comparable players. Salaries from the Main · Today · 7:00 PM ET · 3 games slate · 2026-11-24.
 ## **NBA Injury Report**
