@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-24 | updated 2026-11-24 11:14 ET
+# NBABets transcripts | 2026-11-24 | updated 2026-11-24 16:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 0 files in NBABets/transcripts/2026-11-24:
 
@@ -6,7 +6,7 @@
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-UPCOMING JayMoney M3Nv6Dbuo6Q Tuesday NBA CUP Picks with Jay Money & The Shark  (not aired yet - scheduled for 11/24/26 1:00PM)
+UPCOMING JayMoney OWq7igW3c2E Free NBA Cup Picks with Jay Money & The Shark Wednesday  (not aired yet - scheduled for 11/25/26 1:00PM)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
 UPCOMING NBAGamblingPod cFHyzUiKpPc NBA Wednesday Picks - 11/25/26 | NBA Bets, Player Props and   (not aired yet - scheduled for 11/24/26 9:05PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
@@ -16,5 +16,5 @@ NONE    channel CemirGamble: nothing new in the date window (or everything alrea
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
 UPCOMING ActionNetwork EaZv19GFC2Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (not aired yet - scheduled for 11/24/26 11:00PM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-NOCAPS  SportsLine 19fDrsvrMNM College Basketball Bets + NBA Picks + Champions League Picks  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
