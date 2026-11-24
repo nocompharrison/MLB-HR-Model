@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-tuesday-nov-24-147940 | fetched: 2026-11-24 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-tuesday-nov-24-147940 | fetched: 2026-11-24 18:05 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Tuesday, Nov. 24
 Get the best NBA bets today, with expert player prop picks on assists and points, plus odds from top sportsbooks and betting apps for Tuesday's Nov. 24 NBA slate.
@@ -25,11 +25,11 @@ _FanDuel, 11:46 AM ET_
 **Alex Barutha:** White's assists have fluctuated game-to-game this season pretty significantly, but he's still averaging 5.0 dimes on the year. This is the right matchup to target a pop game. Washington is allowing the second-most assists per 48 minutes (28.5). They've also given up 10+ assists to six different players already -- [Dyson Daniels](https://www.rotowire.com/basketball/player/dyson-daniels-5385), [Javon Small](https://www.rotowire.com/basketball/player/javon-small-6581), [Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336), [Ausar Thompson](https://www.rotowire.com/basketball/player/ausar-thompson-5932), [Josh Giddey](https://www.rotowire.com/basketball/player/josh-giddey-5366) and [Andrew Nembhard](https://www.rotowire.com/basketball/player/andrew-nembhard-5679).
 ![FanDuel](https://objects.kaxmedia.com/auto/o/148014/a68085dd6d.png)
 NBA Player Prop | BOS @ WAS
-Derrick White Over 4.5 Assists-110
+Derrick White Over 4.5 Assists-113
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
-[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.55](https://bet.rotowire.com/fanduel/offer/12454)
+[Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.42](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Desmond Bane**](https://www.rotowire.com/basketball/player/desmond-bane-5159)**under 17.5 points vs. Detroit Pistons (-117)**
 _DraftKings Sportsbook, 1:17 PM ET_
 **Nick Whalen:** As the number implies, Bane tends to hang around this range on most nights, but he's become incredibly reliant on the three ball this season, taking 9.9 attempts per game — up from 5.2 a year ago. While it's working — he's shooting 42.6% from deep — Bane's free throw rate has declined, and he's taking only 4.4 two-pointers per game. Matchup-wise, Detroit is a top-five defense on the season, while both teams play at a slow pace. Beyond that, Detroit ranks top-10 in opponent three-point attempts allowed (36.5) and opponent three-point percentage (32.5%).
@@ -39,7 +39,7 @@ Desmond Bane Under 17.5 Points-123
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.07](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 4:02 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -55,26 +55,26 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
+[J.K. Dobbins](https://www.rotowire.com/football/player/jk-dobbins-14418)
+Handed team-imposed one-game ban
+NFL
+Denver Broncos
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Turns in limited practice Tuesday
+NFL
+Kansas City Chiefs
   * ![Toronto Blue Jays](https://assets.rotowire.com/images/teamlogo/baseball/100TOR.png?v=8)
 [Kaima Taira](https://www.rotowire.com/baseball/player/kaima-taira-19195)
 Inks $80 million deal with Toronto
 MLB
 Toronto Blue Jays
-  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
-[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Practices Tuesday
-NBA
-Miami Heat
   * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
 [Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
 Officially questionable for Wednesday
 NFL
 Green Bay Packers
-  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
-[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
-Returning to practice Tuesday
-NFL
-Kansas City Chiefs
   * ![Baltimore Orioles](https://assets.rotowire.com/images/teamlogo/baseball/100BAL.png?v=8)
 [Freddy Peralta](https://www.rotowire.com/baseball/player/freddy-peralta-14194)
 Nets $125 million from Orioles
@@ -111,59 +111,58 @@ Cleveland Guardians
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Charlotte Hornets](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Ryan Kalkbrenner](https://www.rotowire.com/basketball/player/ryan-kalkbrenner-6567)
+Doubtful for Wednesday
+NBA
+Charlotte Hornets
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
+Not expected to play Wednesday
+NBA
+Philadelphia 76ers
   * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
-Practices Tuesday
+Questionable for Wednesday
 NBA
 Miami Heat
-  * ![Indiana Pacers](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Tyrese Haliburton](https://www.rotowire.com/basketball/player/tyrese-haliburton-5114)
-Recalled from G League
-NBA
-Indiana Pacers
   * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)
-Doesn't practice Tuesday
+[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
+Iffy for Wednesday
 NBA
 New York Knicks
-  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)
-Considered day-to-day
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)
+Ruled out for Wednesday
 NBA
-Detroit Pistons
-  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
-[Jalen Duren](https://www.rotowire.com/basketball/player/jalen-duren-5703)
-Practicing in G League
-NBA
-Detroit Pistons
+New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
+  * ![Denver Broncos](https://assets.rotowire.com/images/teamlogo/football/DEN.svg?v=12)
+[J.K. Dobbins](https://www.rotowire.com/football/player/jk-dobbins-14418)
+Handed team-imposed one-game ban
+NFL
+Denver Broncos
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
+Turns in limited practice Tuesday
+NFL
+Kansas City Chiefs
   * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
 [Josh Jacobs](https://www.rotowire.com/football/player/josh-jacobs-13582)
 Officially questionable for Wednesday
 NFL
 Green Bay Packers
-  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
-[Kenneth Walker](https://www.rotowire.com/football/player/kenneth-walker-15909)
-Returning to practice Tuesday
+  * ![](https://assets.rotowire.com/images/teamlogo/football/fa.svg?v=12)
+[Brandon Aiyuk](https://www.rotowire.com/football/player/brandon-aiyuk-14386)
+Set to visit Commanders
 NFL
-Kansas City Chiefs
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Remains absent from practice
+  * ![Detroit Lions](https://assets.rotowire.com/images/teamlogo/football/DET.svg?v=12)
+[Sam LaPorta](https://www.rotowire.com/football/player/sam-laporta-17033)
+Ready for Thanksgiving Day
 NFL
-New England Patriots
-  * ![Green Bay Packers](https://assets.rotowire.com/images/teamlogo/football/GB.svg?v=12)
-[Micah Parsons](https://www.rotowire.com/football/player/micah-parsons-15182)
-Brought back from PUP list
-NFL
-Green Bay Packers
-  * ![Cleveland Browns](https://assets.rotowire.com/images/teamlogo/football/CLE.svg?v=12)
-[Denzel Boston](https://www.rotowire.com/football/player/denzel-boston-19298)
-Spectator for practice Tuesday
-NFL
-Cleveland Browns
+Detroit Lions
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)

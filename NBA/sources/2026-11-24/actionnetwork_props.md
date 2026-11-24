@@ -1,22 +1,22 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24 | fetched: 2026-11-24 16:06 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24 | fetched: 2026-11-24 18:05 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
-# NBA Cup Player Props: Our Staff’s 4 Picks for Tuesday, November 24
+# NBA Player Props: Our Staff’s 4 Picks for Tuesday, Nov. 24
 ![Author Profile](https://images.actionnetwork.com/blog/2019/11/check-100x100.png)
 [Action Network Staff](https://www.actionnetwork.com/article/author/action-network)
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 24, 2026, 01:46 PM EST
+Nov 24, 2026, 04:50 PM EST
 Updated:
-Nov 24, 2026, 01:46 PM EST
+Nov 24, 2026, 04:50 PM EST
 Credit:
 IMAGN IMAGES via Reuters Connect. Pictured: Neemias Queta
 We have another excellent slate on tap in the NBA today, and the prop market is full of value waiting to be exploited.
 Our Action Network staff has combed through the matchups, rotations, and defensive schemes to find the best angles on the board.
 Continue below for our **NBA player props** for Tuesday, November 24.
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com) and download the [Action Network app](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for more NBA picks and analysis!_
-## NBA Cup Player Props for Tuesday, November 24  
+## NBA Player Props for Tuesday, November 24  
 | Time (ET)  | Player Prop  |  
 | --- | --- |  
 | 7 p.m.  | [![Detroit Pistons Logo](https://assets.actionnetwork.com/343538_pistons.png)Cade Cunningham](https://www.actionnetwork.com/nba/nba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24#1)  |  
@@ -25,7 +25,7 @@ _If you want more Action Network content, be sure to[add us as a preferred sourc
 | 7 p.m.  | [![Detroit Pistons Logo](https://assets.actionnetwork.com/343538_pistons.png)Javonte Green](https://www.actionnetwork.com/nba/nba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24#4)  |  
 | _Specific betting recommendations come from the sportsbook offering preferred odds as of writing. Always shop for the best price using our[NBA Odds page](https://www.actionnetwork.com/nba/odds), which automatically surfaces the best lines for every game._ |  
 * * *
-## Pistons vs. Magic
+## Pistons vs Magic Player Prop Prediction
 [![Detroit Pistons Logo](https://assets.actionnetwork.com/343538_pistons.png)](https://www.actionnetwork.com/nba/odds/detroit-pistons)
 Tuesday, Nov. 24
 7 p.m. ET
@@ -45,7 +45,7 @@ This projects to be a low-scoring, physical game against Orlando, and with Cade 
 #### **Pick:[Cade Cunningham Under 39.5 Points, Rebounds & Assists](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3242541814&context=playbook-slack-quickslip&sport=basketball) (-120) **
 _**If you want more picks for this game, read our full[Pistons vs Magic betting preview](https://www.actionnetwork.com/nba/detroit-pistons-vs-orlando-magic-prediction-pick-nba-odds-for-tuesday-november-24)!**_
 * * *
-## Celtics vs. Wizards
+## Celtics vs Wizards Player Prop Pick
 [![Boston Celtics Logo](https://images.actionnetwork.com/blog/2023/07/boston-celtics-logo-updated-2023.png)](https://www.actionnetwork.com/nba/odds/boston-celtics)
 Tuesday, Nov. 24
 8 p.m. ET
@@ -100,7 +100,7 @@ OG Anunoby OR Julian Champagnie 4+ 3s
 +120 (0.55u)
 Copy Bet
 See All
-## Mavericks vs. Nuggets
+## Mavericks vs Nuggets Player Prop Bet
 [![Dallas Mavericks Logo](https://static.sprtactn.co/teamlogos/nba/100/dal.png)](https://www.actionnetwork.com/nba/odds/dallas-mavericks)
 Tuesday, Nov. 24
 10 p.m. ET
@@ -120,7 +120,7 @@ This has maintained its efficiency for two straight years. So, I'll back PJ Wash
 #### **Pick:[P.J. Washington Over 1.5 Three-Pointers Made](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3243742929&context=playbook-slack-quickslip&sport=basketball) (-150)**
 _**If you want more picks for this game, read our full[Mavericks vs Nuggets betting preview](https://www.actionnetwork.com/nba/dallas-mavericks-vs-denver-nuggets-prediction-pick-odds-nba-tuesday-november-24)!**_
 * * *
-## Pistons vs. Magic
+## Pistons vs Magic Player Prop Pick
 [![Detroit Pistons Logo](https://assets.actionnetwork.com/343538_pistons.png)](https://www.actionnetwork.com/nba/odds/detroit-pistons)
 Tuesday, Nov. 24
 7 p.m. ET
@@ -141,7 +141,7 @@ Green has scored over 5.5 points in four straight games and finished with five p
 I’m riding with Green here.
 #### **Pick:[Javonte Green Over 5.5 Points](https://playbookbot.com/books/bet365/passthrough?deeplinkId%5B0%5D=ML3242798559&context=playbook-slack-quickslip&sport=basketball) (-110)**
 * * *
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)[](https://twitter.com/intent/tweet?text=NBA%20Cup%20Player%20Props%3A%20Our%20Staff%E2%80%99s%204%20Picks%20for%20Tuesday%2C%20November%2024&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)[](https://twitter.com/intent/tweet?text=NBA%20Player%20Props%3A%20Our%20Staff%E2%80%99s%204%20Picks%20for%20Tuesday%2C%20Nov.%2024&url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24)
 ![Author Profile](https://images.actionnetwork.com/blog/2019/11/check-100x100.png)
 About the Author
 Action Network is a team of seasoned sports betting experts specializing in a broad range of sports, from the NFL and NBA to less mainstream options like cricket and darts. Their staff includes well-known analysts like Sean Koerner and Stuckey, recognized for their accurate predictions and deep sports knowledge. The team is dedicated to delivering expert analysis and daily best bets, ensuring bettors are well-informed across all major sports.
@@ -149,21 +149,21 @@ Action Network is a team of seasoned sports betting experts specializing in a br
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-NBA Cup Player Props for Tuesday, November 24
+NBA Player Props for Tuesday, November 24
 Right Arrow
-Pistons vs. Magic
+Pistons vs Magic Player Prop Prediction
 Right Arrow
 Cade Cunningham Under 39.5 Points, Rebounds & Assists (-120)
 Right Arrow
-Celtics vs. Wizards
+Celtics vs Wizards Player Prop Pick
 Right Arrow
 Neemias Queta Over 1.5 Assists (-135)
 Right Arrow
-Mavericks vs. Nuggets
+Mavericks vs Nuggets Player Prop Bet
 Right Arrow
 P.J. Washington Over 1.5 Three-Pointers Made (-150)
 Right Arrow
-Pistons vs. Magic
+Pistons vs Magic Player Prop Pick
 Right Arrow
 Javonte Green Over 5.5 Points (-110)
 ### Top Stories
@@ -171,32 +171,32 @@ Javonte Green Over 5.5 Points (-110)
 NBA
 [NBA Cup Best Bets for Pistons vs Magic, Celtics vs Wizards, More (Tuesday, Nov. 24)](https://www.actionnetwork.com/nba/nba-best-bets-for-magic-vs-pistons-wizards-vs-celtics-more-tuesday-november-24)
 Action Network Staff
-59 mins ago
+2 hours ago
 [![NBA Cup Predictions for Mavericks vs Nuggets, Celtics vs Wizards \(Tuesday, Nov. 24\)](https://images.actionnetwork.com/blog/2026/11/NBACupPredictions112426.jpg)](https://www.actionnetwork.com/nba/nba-cup-predictions-for-wizards-vs-celtics-nuggets-vs-mavericks-tuesday-november-24)
 NBA
 [NBA Cup Predictions for Mavericks vs Nuggets, Celtics vs Wizards (Tuesday, Nov. 24)](https://www.actionnetwork.com/nba/nba-cup-predictions-for-wizards-vs-celtics-nuggets-vs-mavericks-tuesday-november-24)
 Matt Moore
-22 mins ago
+2 hours ago
 [![NBA King of the Court Picks, Predictions for Tuesday, November 24](https://images.actionnetwork.com/blog/2026/11/NBAKOTC112426.jpg)](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-24)
 NBA
 [NBA King of the Court Picks, Predictions for Tuesday, November 24](https://www.actionnetwork.com/nba/nba-king-of-the-court-picks-predictions-for-tuesday-november-24)
 Joe Dellera
-2 hours ago
-[![Pistons vs Magic Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://images.actionnetwork.com/blog/2026/11/Magic-Pistons-11242026.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-orlando-magic-prediction-pick-nba-odds-for-tuesday-november-24)
-NBA
-[Pistons vs Magic Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://www.actionnetwork.com/nba/detroit-pistons-vs-orlando-magic-prediction-pick-nba-odds-for-tuesday-november-24)
-Bryan Fonseca
-5 hours ago
-[![Celtics vs Wizards Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://images.actionnetwork.com/blog/2026/11/trae.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-washington-wizards-prediction-pick-nba-odds-for-tuesday-november-24)
-NBA
-[Celtics vs Wizards Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://www.actionnetwork.com/nba/boston-celtics-vs-washington-wizards-prediction-pick-nba-odds-for-tuesday-november-24)
-Michael Arinze
 4 hours ago
+[![Pistons vs Magic Predictions, Odds, NBA Cup Picks: Can We Actually Trust Orlando Now?](https://images.actionnetwork.com/blog/2026/11/Magic-Pistons-11242026.jpg)](https://www.actionnetwork.com/nba/detroit-pistons-vs-orlando-magic-prediction-pick-nba-odds-for-tuesday-november-24)
+NBA
+[Pistons vs Magic Predictions, Odds, NBA Cup Picks: Can We Actually Trust Orlando Now?](https://www.actionnetwork.com/nba/detroit-pistons-vs-orlando-magic-prediction-pick-nba-odds-for-tuesday-november-24)
+Bryan Fonseca
+43 mins ago
+[![Celtics vs Wizards Predictions, Odds, NBA Cup Picks: Boston Fans Should Be Worried](https://images.actionnetwork.com/blog/2026/11/trae.jpg)](https://www.actionnetwork.com/nba/boston-celtics-vs-washington-wizards-prediction-pick-nba-odds-for-tuesday-november-24)
+NBA
+[Celtics vs Wizards Predictions, Odds, NBA Cup Picks: Boston Fans Should Be Worried](https://www.actionnetwork.com/nba/boston-celtics-vs-washington-wizards-prediction-pick-nba-odds-for-tuesday-november-24)
+Michael Arinze
+21 mins ago
 [![Mavericks vs Nuggets Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://images.actionnetwork.com/blog/2026/11/Mavericks-vs-Nuggets-11_24_26.jpg)](https://www.actionnetwork.com/nba/dallas-mavericks-vs-denver-nuggets-prediction-pick-odds-nba-tuesday-november-24)
 NBA
 [Mavericks vs Nuggets Prediction, Pick, NBA Cup Odds for Tuesday, November 24](https://www.actionnetwork.com/nba/dallas-mavericks-vs-denver-nuggets-prediction-pick-odds-nba-tuesday-november-24)
 Bryan Fonseca
-5 hours ago
+7 hours ago
 [![NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://images.actionnetwork.com/blog/2026/10/NBA_Spot_Tracker_Hero_-_Radar_Grid.png)](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
 NBA
 [NBA Spot Tracker: Daily Betting Trends, Prop Angles, Public Action & More](https://www.actionnetwork.com/nba/nba-spot-tracker-daily-betting-trends-prop-angles-public-action-more)
@@ -224,5 +224,5 @@ Matt Moore
 Oct 8, 2026 EST
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3b07034d-38a5-4c8c-a97b-ce8e92b6992a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2aca9680-9c2d-4c12-836a-515f180cbf89&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=2&tw_session_count=129&tw_session_id=1795554225184-336644716&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=3b07034d-38a5-4c8c-a97b-ce8e92b6992a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2aca9680-9c2d-4c12-836a-515f180cbf89&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=3&tw_iframe_status=0&tw_pid_src=2&tw_session_count=129&tw_session_id=1795554225184-336644716&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5477e741-c22b-4ba9-bb0a-7a5dc8555807&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2aca9680-9c2d-4c12-836a-515f180cbf89&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=7385&tw_iframe_status=0&tw_pid_src=2&tw_session_count=129&tw_session_id=1795554225184-336644716&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=5477e741-c22b-4ba9-bb0a-7a5dc8555807&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2aca9680-9c2d-4c12-836a-515f180cbf89&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=7385&tw_iframe_status=0&tw_pid_src=2&tw_session_count=129&tw_session_id=1795554225184-336644716&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=10786919-3ef5-4658-be07-5178ee1ac02c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90aa8da2-1c84-4563-a0f7-da9dd4378b47&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=131&tw_session_id=1795561384605-348900522&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=10786919-3ef5-4658-be07-5178ee1ac02c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90aa8da2-1c84-4563-a0f7-da9dd4378b47&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=131&tw_session_id=1795561384605-348900522&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0c109598-8f9a-4d6e-ad9e-2c7c20804b55&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90aa8da2-1c84-4563-a0f7-da9dd4378b47&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=7363&tw_iframe_status=0&tw_pid_src=2&tw_session_count=131&tw_session_id=1795561384605-348900522&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0c109598-8f9a-4d6e-ad9e-2c7c20804b55&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=90aa8da2-1c84-4563-a0f7-da9dd4378b47&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-cup-player-props-our-staffs-4-picks-for-tuesday-november-24&tw_engaged_ms=7363&tw_iframe_status=0&tw_pid_src=2&tw_session_count=131&tw_session_id=1795561384605-348900522&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
