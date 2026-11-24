@@ -1,8 +1,8 @@
-# NBA betting sources | Mon 11/23/2026 | updated 2026-11-23 18:53 ET
+# NBA betting sources | Tue 11/24/2026 | updated 2026-11-24 11:13 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-23/covers_top_picks.md       UPDATED (changed since 2026-11-23 18:38) 29,213 chars https://www.covers.com/nba/top-picks-nov-23-2026
-OK      NBABets/sources/2026-11-23/covers_ats_picks.md       UPDATED (changed since 2026-11-23 18:38) 29,170 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-23-2026
-OK      NBABets/sources/2026-11-23/rotowire_bets.md          UPDATED (changed since 2026-11-23 18:38) 23,080 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-monday-nov-23-147829
-OK      NBABets/sources/2026-11-23/fanduel_research_bets.md  UPDATED (changed since 2026-11-23 18:38) 21,630 chars [2 of 2 articles combined] https://www.fanduel.com/research/nba
-OK      NBABets/sources/2026-11-23/bettingpros_bets.md       no changes since 2026-11-23 18:38  https://www.bettingpros.com/articles/nba-picks-predictions-monday-11-23/
+FAILED  NBABets/sources/2026-11-24/covers_top_picks.md       HTTP 404                           https://www.covers.com/nba/top-picks-nov-24-2026
+FAILED  NBABets/sources/2026-11-24/covers_ats_picks.md       HTTP 404                           https://www.covers.com/nba/against-the-spread-predictions-picks-nov-24-2026
+FAILED  NBABets/sources/2026-11-24/rotowire_bets.md          no article dated today yet (browser saw 138 links, Jina 481) https://www.rotowire.com/betting/nba/picks/
+OK      NBABets/sources/2026-11-24/fanduel_research_bets.md  14,507 chars [today's 1 article(s)] https://www.fanduel.com/research/6-best-nba-bets-and-nba-player-props-today-tuesday-november-24-2026
+OK      NBABets/sources/2026-11-24/bettingpros_bets.md       7,843 chars [today's 1 article(s)] https://www.bettingpros.com/articles/nba-picks-predictions-tuesday-11-24-2026/
