@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-24 11:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-24 16:06 ET -->
 
 
 ---
@@ -352,6 +352,18 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 
 ### **Scottie Barnes (Raptors vs. Bucks) Over Points**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)Scottie Barnes
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)
+
+[![Image 35: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)[5¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/scottie_barnes/player_147548 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Barnes is putting together a career-best season that includes a career-best average of 24.3 points, a figure over four points a game better than his prior high-water mark of 19.9 points in the 2023-24 season. The highly versatile forward is shooting a crisp 49.5% as well, and Barnes boasts a massive, team-high 34.1% usage rate and average of 30.8 points per 36 minutes with RJ Barrett (hamstring), who’ll remain sidelined Monday, off the floor.
 
 Barnes has recorded at least 20 points in nine of 10 games this season, a sample where he’s shot 52.8%. The opposing Bucks have been highly targetable all season for Overs, and they’re surrendering an Eastern Conference-high 30.9 offensive efficiency rating to power forwards. Milwaukee is also conceding 51.4% shooting in the last three games, and the eighth-most made three-pointers per road game (15.0) on the season.
@@ -362,6 +374,18 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 
 ### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)James Harden
+
+[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/underdog_sc)[O/U Points Scored (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/underdog_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/underdog_sc)
+
+[![Image 39: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/underdog_sc)[O/U Total Rebounds (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/underdog_sc)
+
+[![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)[O/U Total Assists (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/james_harden/player_11801 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Harden has admittedly been a tough player to figure out this season, with the most recent evidence of such coming with his vintage 51-point outburst over 40 minutes against the Pacers on Friday. Harden does have 20- and 32-point tallies in two other November games as well, however, and despite a forgettable 3-for-10 showing from the field in his first meeting with the Bulls three games ago, he still mustered 19 points + assists.
 
 Given Chicago’s pace of play and defensive struggles this season, not to mention some of Harden’s recent performances, banking on a slight improvement in the rematch isn’t the most outlandish bet to make. The Bulls are averaging an NBA-high 108.1 possessions per game and surrendering the third-highest offensive efficiency rating to point guards (32.4), along with 48.0% shooting, including 42.3% from three-point range. Chicago is also allowing a league-high 29.1 assists per game, and Harden is supplying 32.6 points + assists across the last four games.
@@ -371,6 +395,18 @@ Finally, it’s worth noting Cleveland’s slate-high 124.5-point implied team t
 **Original Line Publish**: 25.5
 
 ### **Fred VanVleet (Rockets vs. Clippers) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10200.png)Fred VanVleet
+
+[![Image 43: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/underdog_sc)[O/U Points Scored (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/underdog_sc)[12.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/underdog_sc)
+
+[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)[O/U Total Rebounds (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)
+
+[![Image 45: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/underdog_sc)[O/U Total Assists (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/underdog_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/underdog_sc)
+
+[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/fred_vanvleet/player_56167 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 VanVleet has been productive in his first 14 games back from a lost 2025-26 season due to an ACL tear, as the veteran guard is averaging 14.4 points, 5.7 assists, 2.9 rebounds and 1.1 steals per contest. VanVleet is also draining his 7.3 three-point attempts per game at a 39.2% clip, the second-highest figure of his career in that category. VanVleet is averaging 17.6 points + assists per home game, where he’s been even better from long range with a 40.0% success rate.
 
@@ -408,27 +444,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Parsons](https://www.lineups.com/wp-content/uploads/2026/11/Parsons-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
+[![Image 47: Parsons](https://www.lineups.com/wp-content/uploads/2026/11/Parsons-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)[NFL Thanksgiving Injury Report: Micah Parsons Probable, Josh Jacobs Doubtful for Packers](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
 
-[![Image 33: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Flagg-150x150.jpg)](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 48: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Flagg-150x150.jpg)](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 #### [](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)[Mavericks-Nuggets NBA Cup Picks, Predictions & Odds for Tuesday, November 24, 2026](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
-[![Image 34: Anthony Davis](https://www.lineups.com/wp-content/uploads/2026/11/AnthonyDavis-150x150.jpg)](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 49: Anthony Davis](https://www.lineups.com/wp-content/uploads/2026/11/AnthonyDavis-150x150.jpg)](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 #### [](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)[Celtics-Wizards NBA Cup Picks, Predictions & Odds for Tuesday, November 24, 2026](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
-[![Image 35: Paul George](https://www.lineups.com/wp-content/uploads/2026/11/Paul-George-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
+[![Image 50: Paul George](https://www.lineups.com/wp-content/uploads/2026/11/Paul-George-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)[NBA Player Props Today: Paul George and Kyrie Irving Best Bets](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
 
-[![Image 36: Marner, Eichel](https://www.lineups.com/wp-content/uploads/2026/11/Marner-Eichel-150x150.jpg)](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 51: Marner, Eichel](https://www.lineups.com/wp-content/uploads/2026/11/Marner-Eichel-150x150.jpg)](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
 #### [](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)[Golden Knights-Oilers NHL Picks, Predictions & Odds for Tuesday, November 24, 2026](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
@@ -439,7 +475,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 52: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 53: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -454,7 +490,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Parsons](https://www.lineups.com/wp-content/uploads/2026/11/Parsons-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
+[![Image 54: Parsons](https://www.lineups.com/wp-content/uploads/2026/11/Parsons-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-injury-report-micah-parsons-probable-josh-jacobs-doubtful-for-packers/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -464,7 +500,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thomas Valentine](https://www.lineups.com/author/thomasvalentine/)November 24, 2026
 
-[![Image 40: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Flagg-390x230.jpg)](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 55: Cooper Flagg](https://www.lineups.com/wp-content/uploads/2026/11/Flagg-390x230.jpg)](https://www.lineups.com/articles/mavericks-nuggets-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -474,7 +510,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 24, 2026
 
-[![Image 41: Anthony Davis](https://www.lineups.com/wp-content/uploads/2026/11/AnthonyDavis-390x230.jpg)](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 56: Anthony Davis](https://www.lineups.com/wp-content/uploads/2026/11/AnthonyDavis-390x230.jpg)](https://www.lineups.com/articles/celtics-wizards-nba-cup-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -484,7 +520,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 24, 2026
 
-[![Image 42: Paul George](https://www.lineups.com/wp-content/uploads/2026/11/Paul-George-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
+[![Image 57: Paul George](https://www.lineups.com/wp-content/uploads/2026/11/Paul-George-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-paul-george-and-kyrie-irving-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -494,7 +530,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 24, 2026
 
-[![Image 43: Marner, Eichel](https://www.lineups.com/wp-content/uploads/2026/11/Marner-Eichel-390x230.jpg)](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
+[![Image 58: Marner, Eichel](https://www.lineups.com/wp-content/uploads/2026/11/Marner-Eichel-390x230.jpg)](https://www.lineups.com/articles/golden-knights-oilers-nhl-picks-predictions-odds-for-tuesday-november-24-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -504,7 +540,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 24, 2026
 
-[![Image 44: Bouchard](https://www.lineups.com/wp-content/uploads/2026/11/Bouchard-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-evan-bouchard-victor-olofsson-best-bets/)
+[![Image 59: Bouchard](https://www.lineups.com/wp-content/uploads/2026/11/Bouchard-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-evan-bouchard-victor-olofsson-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -961,11 +997,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[O/U Points Scored (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[O/U Points Scored (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)
 
 [![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)[O/U Total Rebounds (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)
 
-[![Image 35: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)[O/U Total Assists (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)[O/U Total Assists (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)
 
 [![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -973,11 +1009,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[O/U Points Scored (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)
+[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[O/U Points Scored (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661130/underdog_sc)
 
 [![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)[O/U Total Rebounds (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661130/polymarket_sc)
 
-[![Image 40: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)[O/U Total Assists (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/underdog_sc)
+[![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)[O/U Total Assists (vs. DAL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661130/polymarket_sc)
 
 [![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -993,11 +1029,11 @@ The matchup Sunday gives Murray a good chance of delivering one of his higher-pe
 
 ![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10213.png)Desmond Bane
 
-[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/polymarket_sc)[O/U Points Scored (vs. DET)](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/polymarket_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/polymarket_sc)
+[![Image 43: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/underdog_sc)[O/U Points Scored (vs. DET)](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/underdog_sc)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661128/underdog_sc)
 
 [![Image 44: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661128/polymarket_sc)[O/U Total Rebounds (vs. DET)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661128/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661128/polymarket_sc)
 
-[![Image 45: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/underdog_sc)[O/U Total Assists (vs. DET)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/underdog_sc)
+[![Image 45: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/polymarket_sc)[O/U Total Assists (vs. DET)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/polymarket_sc)[1.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661128/polymarket_sc)
 
 [![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/desmond_bane/player_58143 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
