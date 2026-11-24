@@ -1,24 +1,20 @@
-# NBABets transcripts | 2026-11-23 | updated 2026-11-23 18:54 ET
+# NBABets transcripts | 2026-11-24 | updated 2026-11-24 11:14 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 2 files in NBABets/transcripts/2026-11-23:
-NBABets/transcripts/2026-11-23/BqnDyLnhIoE_ChrisBets_Nov_23rd_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
-NBABets/transcripts/2026-11-23/rw1a66s7LFY_whatslaps_The_NBA_s_Biggest_REJECTS_are_winning.txt
+# 0 files in NBABets/transcripts/2026-11-24:
+
 
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-DEFER   JayMoney IlqVNglCTK0 Monday NBA Talk With Jay Money & The Shark 11/23/26 Free NBA  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
 UPCOMING JayMoney M3Nv6Dbuo6Q Tuesday NBA CUP Picks with Jay Money & The Shark  (not aired yet - scheduled for 11/24/26 1:00PM)
-UPCOMING JayMoney rBRfcJgGGq0 Night Time NBA Talk With Jay Money Is Money  (not aired yet - scheduled for 11/24/26 12:20AM)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod uolpuipGnTg NBA Tuesday Picks - 11/24/26 | NBA Bets, Player Props and Pr  (not aired yet - scheduled for 11/23/26 9:05PM)
+UPCOMING NBAGamblingPod cFHyzUiKpPc NBA Wednesday Picks - 11/25/26 | NBA Bets, Player Props and   (not aired yet - scheduled for 11/24/26 9:05PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
 NONE    channel PickemNBA: nothing new in the date window (or everything already saved)
 NONE    channel CemirGamble: nothing new in the date window (or everything already saved)
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
-UPCOMING ActionNetwork 4LvN6sm8elY Top NBA Sides, Totals & Player Props for Tuesday! | Buckets   (not aired yet - scheduled for 11/23/26 11:00PM)
+UPCOMING ActionNetwork EaZv19GFC2Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (not aired yet - scheduled for 11/24/26 11:00PM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine 19fDrsvrMNM College Basketball Bets + NBA Pick + Champions League Picks   (not aired yet - scheduled for 11/24/26 10:00AM)
+NOCAPS  SportsLine 19fDrsvrMNM College Basketball Bets + NBA Picks + Champions League Picks  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
-NOTE    deferred videos are picked up automatically on the next scheduled run
