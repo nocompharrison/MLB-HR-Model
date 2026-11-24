@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/6-best-nba-bets-and-nba-player-props-today-tuesday-november-24-2026 | fetched: 2026-11-24 18:39 ET -->
+<!-- source: https://www.fanduel.com/research/6-best-nba-bets-and-nba-player-props-today-tuesday-november-24-2026 | fetched: 2026-11-24 18:53 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -133,7 +133,7 @@ Magic +2.5, the under 212.5, Wizards +10.5, the over 217.5, Nuggets -8.5, and th
 [](https://www.fanduel.com/research/6-best-nba-bets-and-nba-player-props-today-tuesday-november-24-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [NBA Predictions, Odds and Betting Lines - November 25](https://www.fanduel.com/research/nba-predictions-odds-11-25-2026)
-15h
+16h
 Preview NBA games for Wednesday, November 25, with predictions, odds, betting lines and stats.
 [](https://www.fanduel.com/research/nba-predictions-odds-11-25-2026)
 [NBA](https://www.fanduel.com/research/nba)

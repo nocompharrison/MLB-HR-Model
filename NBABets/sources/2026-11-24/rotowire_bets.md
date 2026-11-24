@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-tuesday-nov-24-147940 | fetched: 2026-11-24 18:39 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-tuesday-nov-24-147940 | fetched: 2026-11-24 18:53 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Tuesday, Nov. 24
 Get the best NBA bets today, with expert player prop picks on assists and points, plus odds from top sportsbooks and betting apps for Tuesday's Nov. 24 NBA slate.
@@ -29,7 +29,7 @@ Derrick White Over 4.5 Assists-111
 **New user offer** Get $350 in Bonus Bets when you wager $5 for 7 days ($50 Bonus Bets per day).
 [Claim Offer](https://bet.rotowire.com/fanduel/offer/12454)[Bet $5 to win $4.50](https://bet.rotowire.com/fanduel/offer/12454)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:37 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:52 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Place a $5 wager daily for seven days to unlock $50 per day. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [**Desmond Bane**](https://www.rotowire.com/basketball/player/desmond-bane-5159)**under 17.5 points vs. Detroit Pistons (-117)**
 _DraftKings Sportsbook, 1:17 PM ET_
 **Nick Whalen:** As the number implies, Bane tends to hang around this range on most nights, but he's become incredibly reliant on the three ball this season, taking 9.9 attempts per game — up from 5.2 a year ago. While it's working — he's shooting 42.6% from deep — Bane's free throw rate has declined, and he's taking only 4.4 two-pointers per game. Matchup-wise, Detroit is a top-five defense on the season, while both teams play at a slow pace. Beyond that, Detroit ranks top-10 in opponent three-point attempts allowed (36.5) and opponent three-point percentage (32.5%).
@@ -39,7 +39,7 @@ Desmond Bane Under 17.5 Points-118
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.24](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:37 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:52 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ABOUT THE AUTHORS
 ![Author Image](https://assets.rotowire.com/images/photos/Barutha-Alex.png)
 [ Alex Barutha ](https://www.rotowire.com/writer/alex-barutha-961)
@@ -111,6 +111,11 @@ Cleveland Guardians
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Detroit Pistons](https://assets.rotowire.com/images/teamlogo/basketball/100DET.png?v=10)
+[Cade Cunningham](https://www.rotowire.com/basketball/player/cade-cunningham-5336)
+Ruled out Tuesday
+NBA
+Detroit Pistons
   * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
 [Alex Caruso](https://www.rotowire.com/basketball/player/alex-caruso-3952)
 Cleared from injury report
@@ -131,11 +136,6 @@ Oklahoma City Thunder
 Doubtful for Wednesday
 NBA
 Charlotte Hornets
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
-Not expected to play Wednesday
-NBA
-Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
