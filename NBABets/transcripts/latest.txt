@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-25 | updated 2026-11-25 16:12 ET
+# NBABets transcripts | 2026-11-25 | updated 2026-11-25 18:10 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 1 files in NBABets/transcripts/2026-11-25:
 NBABets/transcripts/2026-11-25/qyeNwTv5v_g_ChrisBets_Nov_25th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
@@ -14,7 +14,7 @@ FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no vid
 NONE    channel PickemNBA: nothing new in the date window (or everything already saved)
 NONE    channel CemirGamble: nothing new in the date window (or everything already saved)
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
-NOCAPS  ActionNetwork EaZv19GFC2Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (no captions; Groq: not enough Groq allowance left today (11 min left))
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 UPCOMING SportsLine SuRajuQJWE4 Broncos vs Steelers Picks: Black Friday NFL Bets + NBA  + Co  (not aired yet - scheduled for 11/27/26 10:00AM)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
