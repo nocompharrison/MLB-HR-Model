@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25 | fetched: 2026-11-25 16:06 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25 | fetched: 2026-11-25 18:06 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -84,62 +84,62 @@ Victor Wembanyama Rebounds Ladder
 Right Arrow
 Victor Wembanyama Rebounds Escalator
 ### Top Stories
-[![NBA Best Bets for 76ers vs Heat, Knicks vs Cavaliers, More \(Wednesday, November 25\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets112526.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-heat-knicks-vs-cavaliers-more-wednesday-november-25)
+[![NBA Best Bets for Knicks vs Cavaliers, Warriors vs Kings, More \(Wednesday, Nov. 25\)](https://images.actionnetwork.com/blog/2026/11/NBABestBets112526.jpg)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-heat-knicks-vs-cavaliers-more-wednesday-november-25)
 NBA
-[NBA Best Bets for 76ers vs Heat, Knicks vs Cavaliers, More (Wednesday, November 25)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-heat-knicks-vs-cavaliers-more-wednesday-november-25)
+[NBA Best Bets for Knicks vs Cavaliers, Warriors vs Kings, More (Wednesday, Nov. 25)](https://www.actionnetwork.com/nba/nba-best-bets-for-76ers-vs-heat-knicks-vs-cavaliers-more-wednesday-november-25)
 Action Network Staff
-5 hours ago
+50 mins ago
 [![NBA Parlay Picks, SGP Predictions for Knicks vs Cavs, Spurs vs Blazers \(Wednesday, Nov. 25\)](https://images.actionnetwork.com/blog/2026/11/NBA-SGPPlaybook-11252026.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-wednesday-november-25)
 NBA
 [NBA Parlay Picks, SGP Predictions for Knicks vs Cavs, Spurs vs Blazers (Wednesday, Nov. 25)](https://www.actionnetwork.com/nba/nba-parlay-picks-sgp-predictions-for-wednesday-november-25)
 Alex Hinton
-2 hours ago
-[![Heat vs 76ers Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Heat-76ers-NBA-11_25.jpg)](https://www.actionnetwork.com/nba/miami-heat-vs-philadelphia-76ers-prediction-pick-nba-cup-odds-for-wednesday-november-25)
-NBA
-[Heat vs 76ers Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/miami-heat-vs-philadelphia-76ers-prediction-pick-nba-cup-odds-for-wednesday-november-25)
-Bryan Fonseca
-7 hours ago
+4 hours ago
 [![Cavaliers vs Knicks Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Cavs-Knicks-11252026.jpg)](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Cavaliers vs Knicks Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/cleveland-cavaliers-vs-new-york-knicks-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Bryan Fonseca
-7 hours ago
+9 hours ago
 [![NBA Player Props: Our Staff’s 4 Bets for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/NBAProps112526.jpg)](https://www.actionnetwork.com/nba/nba-player-props-our-staffs-4-bets-for-wednesday-november-25)
 NBA
 [NBA Player Props: Our Staff’s 4 Bets for Wednesday, November 25](https://www.actionnetwork.com/nba/nba-player-props-our-staffs-4-bets-for-wednesday-november-25)
 Action Network Staff
-4 hours ago
+6 hours ago
 [![Bulls vs Hornets Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Bulls-Hornets-11252026.jpg)](https://www.actionnetwork.com/nba/chicago-bulls-vs-charlotte-hornets-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Bulls vs Hornets Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/chicago-bulls-vs-charlotte-hornets-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Doug Kezirian
-7 hours ago
+9 hours ago
 [![NBA Moneyline Parlay Picks: Our +299 Prediction for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/NBA-Moneyline-Parlay-11_25.jpg)](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-299-prediction-for-wednesday-november-25)
 NBA
 [NBA Moneyline Parlay Picks: Our +299 Prediction for Wednesday, November 25](https://www.actionnetwork.com/nba/nba-moneyline-parlay-picks-our-299-prediction-for-wednesday-november-25)
 Ryan Minion
-5 hours ago
+7 hours ago
 [![Timberwolves vs Thunder Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/ayjay.jpg)](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-oklahoma-city-thunder-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Timberwolves vs Thunder Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/minnesota-timberwolves-vs-oklahoma-city-thunder-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Michael Arinze
-5 hours ago
+7 hours ago
 [![Nets vs Bucks Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Nets-Bucks-11252026.jpg)](https://www.actionnetwork.com/nba/brooklyn-nets-vs-milwaukee-bucks-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Nets vs Bucks Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/brooklyn-nets-vs-milwaukee-bucks-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Doug Kezirian
-6 hours ago
+8 hours ago
 [![Spurs vs Trail Blazers Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Spurs-Blazers-NBA-11_25.jpg)](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Spurs vs Trail Blazers Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/san-antonio-spurs-vs-portland-trail-blazers-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Bryan Fonseca
-6 hours ago
+8 hours ago
 [![Kings vs Warriors Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Kings-Warriors-11252026.jpg)](https://www.actionnetwork.com/nba/sacramento-kings-vs-golden-state-warriors-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 NBA
 [Kings vs Warriors Prediction, Pick, NBA Cup Odds for Wednesday, November 25](https://www.actionnetwork.com/nba/sacramento-kings-vs-golden-state-warriors-prediction-pick-nba-cup-odds-for-wednesday-november-25)
 Doug Kezirian
-6 hours ago
+8 hours ago
+[![NBA Prop Bet for Miles Bridges on Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/NBA-Prop-Ladder-11_25.jpg)](https://www.actionnetwork.com/nba/nba-prop-bet-for-miles-bridges-on-wednesday-november-25)
+NBA
+[NBA Prop Bet for Miles Bridges on Wednesday, November 25](https://www.actionnetwork.com/nba/nba-prop-bet-for-miles-bridges-on-wednesday-november-25)
+Prop Bomb
+4 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=836151bf-35cf-4604-9b58-968af19d83dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d6b71967-4d20-47d4-90d2-b408a1a25acc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=133&tw_session_id=1795640600499-604330369&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=836151bf-35cf-4604-9b58-968af19d83dd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d6b71967-4d20-47d4-90d2-b408a1a25acc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=133&tw_session_id=1795640600499-604330369&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f83c5dc3-e859-478a-ab2d-1bf58cd8f9e1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d6b71967-4d20-47d4-90d2-b408a1a25acc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=7490&tw_iframe_status=0&tw_pid_src=2&tw_session_count=133&tw_session_id=1795640600499-604330369&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f83c5dc3-e859-478a-ab2d-1bf58cd8f9e1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=d6b71967-4d20-47d4-90d2-b408a1a25acc&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=7490&tw_iframe_status=0&tw_pid_src=2&tw_session_count=133&tw_session_id=1795640600499-604330369&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=aeb84969-ffb8-4bdb-b4fc-b50e2d22c951&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b09a188-3ec4-4ed4-a4bd-b2db71013166&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=135&tw_session_id=1795647793571-623067493&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=aeb84969-ffb8-4bdb-b4fc-b50e2d22c951&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b09a188-3ec4-4ed4-a4bd-b2db71013166&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=135&tw_session_id=1795647793571-623067493&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c51c83b7-390e-4e20-a8cf-d552017a361c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b09a188-3ec4-4ed4-a4bd-b2db71013166&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=7396&tw_iframe_status=0&tw_pid_src=2&tw_session_count=135&tw_session_id=1795647793571-623067493&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=c51c83b7-390e-4e20-a8cf-d552017a361c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7b09a188-3ec4-4ed4-a4bd-b2db71013166&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-victor-wembanyama-mikel-brown-jr-wednesday-nov-25&tw_engaged_ms=7396&tw_iframe_status=0&tw_pid_src=2&tw_session_count=135&tw_session_id=1795647793571-623067493&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

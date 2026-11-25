@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 16:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 18:06 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,66 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)[Available to play Wednesday](https://www.rotowire.com/basketball/headlines/jalen-brunson-news-available-to-play-wednesday-540987)
+**G** New York Knicks
+November 25, 2026
+Brunson (illness) is available for Wednesday's game against the Cavaliers, [Ian Begley of SportsNet New York](https://x.com/IanBegley/status/2125724537480187931?a=If27IJ96BR-vVUu00Ig&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Zach LaVine](https://www.rotowire.com/basketball/player/zach-lavine-3597)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/zach-lavine-injury-ruled-out-wednesday-540986)
+**F** Sacramento Kings
+Knee
+November 25, 2026
+LaVine (knee) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_05_30PM.pdf) for Wednesday's game versus the Warriors.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
+[Sion James](https://www.rotowire.com/basketball/player/sion-james-6582)[Upgraded to available](https://www.rotowire.com/basketball/headlines/sion-james-news-upgraded-to-available-540985)
+**F** Charlotte Hornets
+November 25, 2026
+James (general soreness) is listed as [available](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_05_15PM.pdf) for Wednesday's game against Chicago.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Jalen Smith](https://www.rotowire.com/basketball/player/jalen-smith-5169)[Ruled out Wednesday](https://www.rotowire.com/basketball/headlines/jalen-smith-injury-ruled-out-wednesday-540984)
+**C** Chicago Bulls
+Illness
+November 25, 2026
+Smith (illness) is listed as [out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_05_00PM.pdf) for Wednesday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
+[Maxime Raynaud](https://www.rotowire.com/basketball/player/maxime-raynaud-6552)[Recalled to NBA](https://www.rotowire.com/basketball/headlines/maxime-raynaud-injury-recalled-to-nba-540983)
+**C** Sacramento Kings
+Knee
+November 25, 2026
+Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, [Marc J. Spears of ESPN.com](https://x.com/MarcJSpears/status/2125704566658494493?a=Nexbk89le_djq7_70Aw&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)[Expected to play Wednesday](https://www.rotowire.com/basketball/headlines/jalen-brunson-injury-expected-to-play-wednesday-540982)
+**G** New York Knicks
+Illness
+November 25, 2026
+Brunson (illness) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_04_30PM.pdf) for Wednesday's game against Cleveland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Bobby Portis](https://www.rotowire.com/basketball/player/bobby-portis-3705)[Reverting to bench role](https://www.rotowire.com/basketball/headlines/bobby-portis-news-reverting-to-bench-role-540981)
+**F** Miami Heat
+November 25, 2026
+Portis [won't start](https://x.com/MiamiHEAT/status/2125703741466878401?a=6yVsbxgvBFswgTbVaEE&s=20) Wednesday's game against Philadelphia.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIA](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/giannis-antetokounmpo-news-good-to-go-wednesday-540980)
+**F** Miami Heat
+November 25, 2026
+Antetokounmpo (groin) will play in Wednesday's game against the 76ers, [Ira Winderman of the South Florida Sun Sentinel](https://x.com/IraHeatBeat/status/2125696742729617752?a=Y5i487jBCyW5F_vZdLA&s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
 [Zach LaVine](https://www.rotowire.com/basketball/player/zach-lavine-3597)[Downgraded to questionable](https://www.rotowire.com/basketball/headlines/zach-lavine-injury-downgraded-to-questionable-540978)
 **F** Sacramento Kings
@@ -133,67 +193,6 @@ Jackson amassed nine points (4-9 FG, 1-4 3Pt) and three rebounds across 20 minut
 **C** New Orleans Pelicans
 November 25, 2026
 Matkovic notched five points (2-3 FG, 1-2 3Pt), four rebounds, one assist and one steal in 13 minutes during Monday's 123-119 overtime loss to the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SAC](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
-[Leaky Black](https://www.rotowire.com/basketball/player/leaky-black-5953)[Modest contributions in loss](https://www.rotowire.com/basketball/headlines/leaky-black-news-modest-contributions-in-loss-540960)
-**F** Sacramento Kings
-November 25, 2026
-Black contributed three points (1-3 FG, 1-3 3Pt), three rebounds, three assists and one steal over 13 minutes during Monday's 123-107 loss to the Spurs.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![GSW](https://assets.rotowire.com/images/teamlogo/basketball/100GSW.png?v=10)
-[Al Horford](https://www.rotowire.com/basketball/player/al-horford-2816)[Modest production against former team](https://www.rotowire.com/basketball/headlines/al-horford-news-modest-production-against-former-team-540959)
-**C** Golden State Warriors
-November 25, 2026
-Horford posted seven points (3-9 FG, 1-4 3Pt), three rebounds, two assists and one block over 18 minutes during Sunday's 88-87 win over Boston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)[Upgraded to probable](https://www.rotowire.com/basketball/headlines/josh-hart-injury-upgraded-to-probable-540957)
-**F** New York Knicks
-Shoulder
-November 25, 2026
-Hart (shoulder) has been [upgraded to probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_45PM.pdf) for Wednesday's game against the Cavaliers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Miles McBride](https://www.rotowire.com/basketball/player/miles-mcbride-5402)[Downgraded to out Wednesday](https://www.rotowire.com/basketball/headlines/miles-mcbride-injury-downgraded-to-out-wednesday-540956)
-**G** New York Knicks
-Groin
-November 25, 2026
-McBride (adductor) has been ruled[ out](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_45PM.pdf) for Wednesday's game against the Cavaliers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Upgraded to probable Wednesday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-injury-upgraded-to-probable-wednesday-540954)
-**C** New York Knicks
-Knee
-November 25, 2026
-Towns (knee) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_45PM.pdf) for Wednesday's game against Cleveland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)[Now questionable for Wednesday](https://www.rotowire.com/basketball/headlines/jalen-brunson-injury-now-questionable-for-wednesday-540953)
-**G** New York Knicks
-Illness
-November 25, 2026
-Brunson (illness) has been [downgraded to questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_12_45PM.pdf) for Wednesday's game against the Cavaliers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Fred VanVleet](https://www.rotowire.com/basketball/player/fred-vanvleet-3935)[Quiet scoring night in victory](https://www.rotowire.com/basketball/headlines/fred-vanvleet-news-quiet-scoring-night-in-victory-540951)
-**G** Houston Rockets
-November 25, 2026
-VanVleet logged six points (2-6 FG, 2-6 3Pt), two rebounds, four assists, one block and one steal in 31 minutes during Monday's 116-104 win over the Clippers.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Ryan Kalkbrenner](https://www.rotowire.com/basketball/player/ryan-kalkbrenner-6567)[Won't play Wednesday](https://www.rotowire.com/basketball/headlines/ryan-kalkbrenner-injury-wont-play-wednesday-540950)
-**C** Charlotte Hornets
-Hip
-November 25, 2026
-Kalkbrenner (hip) has been [ruled out](https://x.com/HornetsPR/status/2125643936559403503?a=KROA-B6liQQfOsj0vJg&s=20) for Wednesday's matchup with Chicago.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

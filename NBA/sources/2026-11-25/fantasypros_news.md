@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 16:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 18:06 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
+G - LAL
+[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
+[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
+[Austin Reaves (heel) logs full practice Wednesday](https://www.fantasypros.com/nba/news/622591/austin-reaves-heel-logs-full-practice-wednesday.php)  
+
+Wed, Nov 25th 5:09pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Austin Reaves (heel) logged a full practice for the Los Angeles Lakers Wednesday according to Dave McMenamin. (Source: [Dave McMenamin on Twitter](https://x.com/mcten/status/2125710903664603274?a=MyDQUQwgp4AkgN1vXos&s=46))
+**_Fantasy Impact:_** Reaves continues to work back towards a potential return to the Lakers backcourt against the San Antonio Spurs Friday, with his game status still to be determined. The dynamic guard would offer head coach JJ Redick another explosive offensive option if healthy against a deep Spurs lineup Friday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
+[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
+[Giannis Antetokounmpo (groin) back in lineup Wednesday ](https://www.fantasypros.com/nba/news/622568/giannis-antetokounmpo-groin-back-lineup-wednesday.php)  
+
+Wed, Nov 25th 4:15pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Giannis Antetokounmpo (groin) is back in the lineup for Wednesday’s matchup between the Miami Heat and Philadelphia 76ers according to Ira Winderman. (Source: [Ira Winderman on Twitter ](https://x.com/iraheatbeat/status/2125696742729617752?a=dhPczcmymOQvLt21WEw&s=46))
+**_Fantasy Impact:_** Antetokounmpo returns after a one-game absence for head coach Erik Spoelstra, boosting the Miami starting five while pushing Bobby Portis Jr. back to a reserve role against the 76ers Wednesday.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Grayson Allen](https://images.fantasypros.com/images/players/nba/3520/headshot/100x100.png)](https://www.fantasypros.com/nba/players/grayson-allen.php)
 G - CHA
 [» Rankings](https://www.fantasypros.com/nba/players/grayson-allen.php)  
@@ -102,20 +130,6 @@ Wed, Nov 25th 3:37pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Miles McBride has been ruled out for Wednesday’s game against the Cavaliers.
 **_Fantasy Impact:_** McBride will be sidelined after being listed as questionable. Jose Alvarado will see some more run in his place. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
-F - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
-[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
-[Giannis Antetokounmpo (groin) probable Wednesday](https://www.fantasypros.com/nba/news/622553/giannis-antetokounmpo-groin-probable-wednesday.php)  
-
-Wed, Nov 25th 3:34pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Giannis Antetokounmpo (groin) has been upgraded to probable for Wednesday’s contest between the Miami Heat and Philadelphia 76ers according to Ira Winderman. (Source: [Ira Winderman on Twitter](https://x.com/iraheatbeat/status/2125687065471828227?a=QS2oIxGggLwFJVnflJE&s=46))
-**_Fantasy Impact:_** Antetokounmpo looks poised to return from a one-game absence due to groin soreness, boosting a Miami starting five while pushing Bobby Portis Jr. back to the second unit against the 76ers Wednesday.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
@@ -270,20 +284,6 @@ Wed, Nov 25th 9:44am EST
 By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
 Kyshawn George put up 24 points (9-20 FG, 4-12 3PT, 2-2 FT) and pulled down nine rebounds in Tuesday's 131-116 loss to the Celtics. 
 **_Fantasy Impact:_** George has scored 24 points in back-to-back games and 20 in three of his last four games. The third-year pro has knocked down 15 threes at a 37.5% clip during that stretch, averaging 19.8 points overall. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Anthony Davis](https://images.fantasypros.com/images/players/nba/2746/headshot/100x100.png)](https://www.fantasypros.com/nba/players/anthony-davis.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/anthony-davis.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/anthony-davis.php)  
-[» More News](https://www.fantasypros.com/nba/news/anthony-davis.php)
-[Anthony Davis puts up big double-double in Tuesday's loss](https://www.fantasypros.com/nba/news/622500/anthony-davis-puts-up-big-double-double-tuesdays-loss.php)  
-
-Wed, Nov 25th 9:38am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Anthony Davis finished with 33 points (12-21 FG, 1-3 3PT, 8-10 FT), 13 rebounds, two steals, and one block in Tuesday's 131-116 loss to the Celtics. 
-**_Fantasy Impact:_** Davis has now registered three double-doubles in three of his last four games, clearing 30 points in two of them. In that span, the future Hall of Famer has averaged 29.0 points and 11.3 rebounds while shooting 59.2% from the field. 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
