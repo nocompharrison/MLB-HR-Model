@@ -1,4 +1,4 @@
-# CBB transcripts | 2026-11-25 | updated 2026-11-25 11:28 ET
+# CBB transcripts | 2026-11-25 | updated 2026-11-25 17:04 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 22 files in CBB/transcripts/2026-11-25:
 CBB/transcripts/2026-11-25/-421oY6tE_M_FieldOf68_EXCLUSIVE_Wes_Enis_on_Creighton_s_BIG_win_over_Michigan_All_aboard_the.txt
@@ -23,44 +23,23 @@ CBB/transcripts/2026-11-25/sTxcpnlrG7s_CBSCollegeBB_Louisville_vs_St_John_s_on_T
 CBB/transcripts/2026-11-25/tbDrkpZOrqA_TCE_College_Basketball_Picks_For_November_25th_NCAA_Basketball_Banter_Best.txt
 CBB/transcripts/2026-11-25/vzeHCsxb4ik_WagerTalk_WEDNESDAY_CBB_Picks_TODAY_UConn_vs_Duke_Wake_Forest_vs_Mississippi_Sta.txt
 CBB/transcripts/2026-11-25/z1DcdL5SGOA_FieldOf68_Is_DEPAUL_for_real_Is_PURDUE_cooked_Feast_Week_CHAOS_rolls_on_AFTER_DA.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-24
+# also filed this run under the slate their titles name: CBB/transcripts/2026-11-24, CBB/transcripts/2026-11-26
 
 # this run:
 NOCAPS  LockedOnCBB BQKm7bKtUSo WHAT HAPPENED?! Michigan Goes From Players Era DOMINANCE to   (no captions; Groq: live stream still processing - audio not final yet)
-DEFER   CBSCollegeBB kDmIcKc9Z0U Nevada vs. Santa Clara College Basketball Highlights | Conde  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB npJrNUrj60I Tulsa vs. Illinois State College Basketball Highlights | Con  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-DEFER   CBSCollegeBB qcmG2anI-C0 Oregon State vs. San Francisco College Basketball Highlights  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
 DEFER   CBSCollegeBB VWebwqar0UE WATCH: 4-star CG Jalen Davis commits to Gonzaga | No. 13 Ove  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-25/sTxcpnlrG7s_CBSCollegeBB_Louisville_vs_St_John_s_on_Thanksgiving_Underdogs_go_WILD_Duke_UConn_A.txt  (9,420 words, via Groq)
-NEW     CBB/transcripts/2026-11-25/Jna7cLPXXTk_CBSCollegeBB_Colorado_vs_Stanford_College_Basketball_Highlights_Condensed_Game.txt  (1,555 words)
-NEW     CBB/transcripts/2026-11-25/4P2JX1N0sVw_CBSCollegeBB_Grand_Canyon_vs_Saint_Louis_College_Basketball_Highlights_Condensed_Ga.txt  (2,029 words)
-NEW     CBB/transcripts/2026-11-25/HDRaWJXiek8_FieldOf68_WCC_INSIDER_Pacific_s_Damarion_Vann_Kelly_and_Adriel_Nyorha_on_the_Tig.txt  (4,402 words)
-NEW     CBB/transcripts/2026-11-25/Dag5ISLfjSY_FieldOf68_FEAST_WEEK_REACTION_Louisville_responds_BIG_upsets_Maui_title_preview.txt  (19,984 words)
-NEW     CBB/transcripts/2026-11-25/z1DcdL5SGOA_FieldOf68_Is_DEPAUL_for_real_Is_PURDUE_cooked_Feast_Week_CHAOS_rolls_on_AFTER_DA.txt  (1,347 words)
-NEW     CBB/transcripts/2026-11-25/KDaR0lRojn0_FieldOf68_Creighton_and_TCU_get_HUGE_wins_at_Players_Era_These_are_two_TOURNEY_t.txt  (1,996 words)
-NEW     CBB/transcripts/2026-11-25/jqlfxxOzJ4w_FieldOf68_PREVIEW_How_Ole_Miss_can_SHOCK_Arizona_in_the_Maui_title_game_AFTER_DA.txt  (2,096 words)
-NEW     CBB/transcripts/2026-11-25/XeTJtdCAiHs_FieldOf68_Michigan_s_tape_against_Creighton_was_UNACCEPTABLE_How_good_is_this_t.txt  (2,234 words)
-NEW     CBB/transcripts/2026-11-25/MRKa5eH8dJA_FieldOf68_REACTION_to_Baylor_s_BIG_win_over_Alabama_This_is_a_CLASSIC_Scott_Drew.txt  (2,121 words)
-NEW     CBB/transcripts/2026-11-25/ggZnkUnY_u4_FieldOf68_Louisville_RESPONDS_in_a_BIG_way_over_Texas_Tech_They_out_TOUGHED_Tech.txt  (2,417 words)
-NEW     CBB/transcripts/2026-11-25/Izh-kzghYNM_FieldOf68_Here_s_why_Texas_Tech_will_be_JUST_FINE_Awaiting_JT_Toppin_s_return_A.txt  (958 words)
-NEW     CBB/transcripts/2026-11-25/dzAReJdXrjM_FieldOf68_EXCLUSIVE_Pat_Kelsey_on_Louisville_s_STATEMENT_win_over_Texas_Tech_AFT.txt  (1,064 words)
-NEW     CBB/transcripts/2026-11-25/-421oY6tE_M_FieldOf68_EXCLUSIVE_Wes_Enis_on_Creighton_s_BIG_win_over_Michigan_All_aboard_the.txt  (1,230 words)
-NEW     CBB/transcripts/2026-11-24/_cZvw1VlcAA_FieldOf68_THE_REMATCH_Duke_UConn_preview_with_Jordan_Mann_Can_Duke_get_revenge.txt  (6,253 words)
-NEW     CBB/transcripts/2026-11-24/sighH9hNe6A_FieldOf68_ACC_INSIDER_Brady_Koehler_on_His_Breakout_Season_and_Why_Notre_Dame_Is.txt  (5,048 words)
-NEW     CBB/transcripts/2026-11-24/4-sHNfV7KWo_FieldOf68_EXCLUSIVE_Chris_Beard_on_Ole_Miss_win_over_BYU_and_trip_to_the_Maui_ti.txt  (1,351 words)
+NEW     CBB/transcripts/2026-11-24/kDmIcKc9Z0U_CBSCollegeBB_Nevada_vs_Santa_Clara_College_Basketball_Highlights_Condensed_Game.txt  (1,873 words)
+NEW     CBB/transcripts/2026-11-24/npJrNUrj60I_CBSCollegeBB_Tulsa_vs_Illinois_State_College_Basketball_Highlights_Condensed_Game.txt  (1,355 words)
+NEW     CBB/transcripts/2026-11-24/qcmG2anI-C0_CBSCollegeBB_Oregon_State_vs_San_Francisco_College_Basketball_Highlights_Condensed.txt  (1,726 words)
+UPCOMING FieldOf68 x0oUUVUDA_A INSTANT REACTION TO UCONN-DUKE! Plus, the Maui Invitational   (not aired yet - scheduled for 11/25/26 9:15PM)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-25/_umDjs3OgaM_TCE_College_Basketball_Best_Bets_For_November_25th_Spread_Moneyline_Bettin.txt  (1,127 words)
-NEW     CBB/transcripts/2026-11-25/-l4ARJ67Ml8_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_25th_TCE_Trims.txt  (16,767 words)
+NONE    channel TCE: nothing new in the date window (or everything already saved)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-25/vzeHCsxb4ik_WagerTalk_WEDNESDAY_CBB_Picks_TODAY_UConn_vs_Duke_Wake_Forest_vs_Mississippi_Sta.txt  (2,019 words)
-NEW     CBB/transcripts/2026-11-24/X9Fs9dGP3J8_WagerTalk_College_Basketball_Picks_Today_Feast_Week_Best_Bets_Odds_Full_Court_Pr.txt  (12,194 words)
-NEW     CBB/transcripts/2026-11-24/K7hsUOpGer0_WagerTalk_College_Basketball_Picks_Today_Feast_Week_Best_Bets_Odds_Full_Court_Pr.txt  (12,188 words)
-NOCAPS  WagerTalk H2TB_ZeknPM College Basketball Picks Today: Thanksgiving Eve Best Bets &  (no captions; Groq: live stream still processing - audio not final yet)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NOCAPS  PickDawgz RTeV5880zZU NCAAB Alternate Line Prediction 11/26/26 | The Extendo Clip  (captions not posted yet - often appear a few hours after upload; Groq fallback after 2h (posted 0.1h ago))
-NEW     CBB/transcripts/2026-11-25/2ISkqx2i_rQ_PickDawgz_College_Basketball_Picks_for_Today_11_25_26_Wednesday_Best_College_Bas.txt  (4,759 words)
-NEW     CBB/transcripts/2026-11-25/CAq28MX76B4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_25_26_Ron_s_Bank_Shot_Br.txt  (2,351 words)
+NEW     CBB/transcripts/2026-11-26/RTeV5880zZU_PickDawgz_NCAAB_Alternate_Line_Prediction_11_26_26_The_Extendo_Clip.txt  (1,191 words)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
@@ -68,8 +47,4 @@ NONE    channel CirclesOff: nothing new in the date window (or everything alread
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-25/tbDrkpZOrqA_TCE_College_Basketball_Picks_For_November_25th_NCAA_Basketball_Banter_Best.txt  (23,696 words, via Groq)
-NEW     CBB/transcripts/2026-11-25/U0knX7w-zXc_ActionNetwork_Midweek_MACtion_College_Basketball_BEST_BETS_Big_Bets_On_Campus_LIVE.txt  (10,285 words, via Groq)
-NEW     CBB/transcripts/2026-11-25/PWWsLssdr4E_WagerTalk_College_Basketball_Picks_Today_Thanksgiving_Eve_Best_Bets_Feast_Week_F.txt  (10,711 words, via Groq)
-NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
 NOTE    deferred videos are picked up automatically on the next scheduled run
