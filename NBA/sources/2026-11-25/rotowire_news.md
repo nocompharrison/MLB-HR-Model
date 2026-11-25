@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 18:35 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,28 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Doing on-court work for first time](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-doing-on-court-work-for-first-time-540990)
+**F** New York Knicks
+Calf
+November 25, 2026
+Anunoby (calf) participated in on-court work for the first time since sustaining the injury, [Ian Begley of SportsNet New York](https://x.com/IanBegley/status/2125725176205906207?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)[Will play Wednesday](https://www.rotowire.com/basketball/headlines/josh-hart-news-will-play-wednesday-540989)
+**F** New York Knicks
+November 25, 2026
+Hart (shoulder) is available for Wednesday's game against the Cavaliers, [Steve Popper of Newsday](https://x.com/StevePopper/status/2125725046756790334?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Good to go Wednesday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-good-to-go-wednesday-540988)
+**C** New York Knicks
+November 25, 2026
+Towns (knee) is available for Wednesday's game against the Cavaliers, [Steve Popper of Newsday](https://x.com/StevePopper/status/2125725046756790334?s=20) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)[Available to play Wednesday](https://www.rotowire.com/basketball/headlines/jalen-brunson-news-available-to-play-wednesday-540987)
 **G** New York Knicks
@@ -172,27 +194,6 @@ Salaun produced zero points (0-2 FG, 0-1 3Pt), five rebounds, one assist, one bl
 **F** Memphis Grizzlies
 November 25, 2026
 Hendricks closed Monday's 117-111 win over the Hornets with three points (1-5 FG, 1-4 3Pt), four rebounds and one assist across 24 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Jaylen Wells](https://www.rotowire.com/basketball/player/jaylen-wells-6305)[Limited offensive involvement in win](https://www.rotowire.com/basketball/headlines/jaylen-wells-news-limited-offensive-involvement-in-win-540964)
-**F** Memphis Grizzlies
-November 25, 2026
-Wells chipped in eight points (3-5 FG, 2-3 3Pt), two rebounds and one block across 20 minutes during Monday's 117-111 win over Charlotte.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![IND](https://assets.rotowire.com/images/teamlogo/basketball/100IND.png?v=10)
-[Quenton Jackson](https://www.rotowire.com/basketball/player/quenton-jackson-5755)[Scores nine points off bench](https://www.rotowire.com/basketball/headlines/quenton-jackson-news-scores-nine-points-off-bench-540962)
-**G** Indiana Pacers
-November 25, 2026
-Jackson amassed nine points (4-9 FG, 1-4 3Pt) and three rebounds across 20 minutes during Monday's 125-120 victory over the Thunder.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![NOP](https://assets.rotowire.com/images/teamlogo/basketball/100NOP.png?v=10)
-[Karlo Matkovic](https://www.rotowire.com/basketball/player/karlo-matkovic-5737)[Efficient in limited minutes](https://www.rotowire.com/basketball/headlines/karlo-matkovic-news-efficient-in-limited-minutes-540961)
-**C** New Orleans Pelicans
-November 25, 2026
-Matkovic notched five points (2-3 FG, 1-2 3Pt), four rebounds, one assist and one steal in 13 minutes during Monday's 123-119 overtime loss to the Suns.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

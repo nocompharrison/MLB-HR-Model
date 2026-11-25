@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-25 18:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-25 18:35 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -9,14 +9,11 @@ Markdown Content:
 
 Skip to main content Skip to navigation
 
-[](https://www.espn.com/nba/game/_/gameId/401909317/heat-76ers)
+[Gamecast](https://www.espn.com/nba/game/_/gameId/401909317)[Box Score](https://www.espn.com/nba/boxscore/_/gameId/401909317)
 
-[Gamecast](https://www.espn.com/nba/game/_/gameId/401909317/heat-76ers)[Tickets](https://www.vividseats.com/philadelphia-76ers-tickets-xfinity-mobile-arena-10-31-2026--sports-nba-basketball/production/7419677?wsUser=717&wsVar=us~NBA~scoreboard,NBA,en)
+[* ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIA 53 * ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI 62](https://www.espn.com/nba/game/_/gameId/401909317)
 
-*   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIA  10-6  
-*   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  14-4  
-
-10:00 PM
+12:00 - 3rd
 
 ESPN
 
@@ -175,14 +172,13 @@ ESPN
 | [Ryan Kalkbrenner](https://www.espn.com/nba/player/_/id/4576060/ryan-kalkbrenner) | C | Nov 28 | Out | Nov 25: Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago. |
 | [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 28 | Out | Nov 25: Allen (concussion) has been ruled out for Wednesday's game against Chicago. |
 | [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Dec 12 | Out | Nov 24: Schroder (hamstring) is out for Wednesday's game the Bulls. |
-| [Sion James](https://www.espn.com/nba/player/_/id/4602025/sion-james) | G | Nov 25 | Day-To-Day | Nov 24: James is probable for Wednesday's game against the Bulls due to general soreness. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Dec 12 | Out | Nov 8: Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks. |
 
 ![Image 27: Chicago Bulls](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&h=40&w=40)Chicago Bulls
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 25 | Day-To-Day | Nov 24: Smith (illness) is listed as questionable for Wednesday's game against the Hornets. |
+| [Jalen Smith](https://www.espn.com/nba/player/_/id/4397189/jalen-smith) | F | Nov 28 | Out | Nov 25: Smith (illness) is listed as out for Wednesday's game against Charlotte. |
 | [Norman Powell](https://www.espn.com/nba/player/_/id/2595516/norman-powell) | G | Nov 28 | Out | Nov 22: Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week. |
 | [Caleb Wilson](https://www.espn.com/nba/player/_/id/5095151/caleb-wilson) | F | Dec 13 | Out | Nov 12: Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. |
 
@@ -277,10 +273,8 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Jalen Brunson](https://www.espn.com/nba/player/_/id/3934672/jalen-brunson) | G | Nov 25 | Day-To-Day | Nov 25: Brunson (illness) is probable for Wednesday's game against Cleveland. |
 | [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 25 | Day-To-Day | Nov 25: Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers. |
 | [Miles McBride](https://www.espn.com/nba/player/_/id/4431823/miles-mcbride) | G | Nov 27 | Out | Nov 25: McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers. |
-| [Karl-Anthony Towns](https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns) | C | Nov 25 | Day-To-Day | Nov 25: Towns (knee) is probable for Wednesday's game against Cleveland. |
 | [Jordan Clarkson](https://www.espn.com/nba/player/_/id/2528426/jordan-clarkson) | G | Nov 27 | Out | Nov 24: Clarkson (foot) is out for Wednesday's game against Cleveland. |
 | [OG Anunoby](https://www.espn.com/nba/player/_/id/3934719/og-anunoby) | F | Nov 27 | Out | Nov 24: Anunoby (calf) is out for Wednesday's game against Cleveland. |
 
@@ -331,8 +325,8 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Zach LaVine](https://www.espn.com/nba/player/_/id/3064440/zach-lavine) | G | Nov 29 | Out | Nov 25: LaVine (knee) is listed as out for Wednesday's game versus the Warriors. |
 | [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Dec 2 | Out | Nov 25: Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports. |
-| [Zach LaVine](https://www.espn.com/nba/player/_/id/3064440/zach-lavine) | G | Nov 25 | Day-To-Day | Nov 25: LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
 
 ![Image 45: San Antonio Spurs](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&h=40&w=40)San Antonio Spurs
@@ -375,63 +369,63 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
-[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[Don't Get a Heloc, Do This Instead Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "Don't Get a Heloc, Do This Instead")
+[](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3)[South Carolina Drivers Holding A License for 20+ Years Did Not See This Coming Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3 "South Carolina Drivers Holding A License for 20+ Years Did Not See This Coming")
 
 Undo
 
-[](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0)[Worst ZIP Codes for Car Insurance in Oregon EasyHome Auto | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0 "Worst ZIP Codes for Car Insurance in Oregon")
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
 
 Undo
 
-[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in Oregon (Is Yours On The List?)OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in Oregon (Is Yours On The List?)")
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Getting My Bestfriend This Gift Before Black Friday Was Genius Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Getting My Bestfriend This Gift Before Black Friday Was Genius")
 
 Undo
 
-[](https://searchit4me.com/search)[Search For Teaching Degree Online Searchit4me | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://searchit4me.com/search "Search For Teaching Degree Online")
+[](https://www.grammarly.com/a/paraphraser)[Fine-tune your work so it fits the moment Easily shift your tone to resonate with your audience with the Paraphraser AI agent.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.grammarly.com/a/paraphraser "Fine-tune your work so it fits the moment")
 
 Undo
 
-[](https://healthylife-mag.com/nv-pv-tb-letter-v3)[Up at Night to Urinate? It's Not the Water, It's This Two things keep calling you back before morning. Most men only work on one.WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://healthylife-mag.com/nv-pv-tb-letter-v3 "Up at Night to Urinate? It's Not the Water, It's This")
+[](https://go.pureliago.com/01c30c48-c5b7-4890-87d1-81316fd3264c)[FYI: Before Another Diet, Read This Part Twice official purelia | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://go.pureliago.com/01c30c48-c5b7-4890-87d1-81316fd3264c "FYI: Before Another Diet, Read This Part Twice")
 
 Undo
 
-[](https://my.practicalhealthadvice.com/83976211-b530-4547-9e81-2b8c78f00d70)[Fighting Nеuropathy? This New Device Is Leaving Doctors Amazed!RejuvaKnee | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://my.practicalhealthadvice.com/83976211-b530-4547-9e81-2b8c78f00d70 "Fighting Nеuropathy? This New Device Is Leaving Doctors Amazed!")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
 Undo
 
-[](https://rhs.search.yahoo.com/rhs)[Search for brand protecion demo request Research brand protecion demo request on Yahoo. View top results now.Yahoo Search | Brand protection | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for brand protecion demo request")
+[](https://www.ethos.com/life/easy-term-life)[Make Sure Your Loved Ones Are Protected Get term life insurance 100% online in as little as 10 min. No medical exam. Just answer health questions online.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Make Sure Your Loved Ones Are Protected")
 
 Undo
 
-[](https://rmn.lgnrd22.com/r/2D7643E)[Find Results For Medicare Supplement Plan N Copay And Premium Comparison (Read More)Explore Medicare Supplement Plan N Copays And Premiums (Search Now)Yahoo Search | Medicare Supplement Plan N | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rmn.lgnrd22.com/r/2D7643E "Find Results For Medicare Supplement Plan N Copay And Premium Comparison (Read More)")
+[](https://ucyfx.com/a33db95b-dc01-4858-8b18-0a0746705c93)[South Carolina: Worst Zip Codes for Overcharging Car Insurance (Check ZIP Code)These Zip Codes Could Be Overcharging You for Insurance Penguin Auto Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a33db95b-dc01-4858-8b18-0a0746705c93 "South Carolina: Worst Zip Codes for Overcharging Car Insurance (Check ZIP Code)")
 
 Undo
 
-[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+[](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Comparisons.org | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://articles.comparisons.org/go/6ae328c3707cf10a5d0e3263 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
 Undo
 
 ### NBA News
 
-[![Image 49: Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs](https://a.espncdn.com/combiner/i?img=/photo/2026/0509/r1655741_600x600_1-1.jpg&w=220) ## Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs Austin Reaves returned to his first full practice since suffering a left heel bruise, although his status for Friday's game vs. the Spurs is uncertain. * 11m * Dave McMenamin](https://www.espn.com/nba/story/_/id/50597465/austin-reaves-rejoins-lakers-full-practice-tbd-face-spurs)
+[![Image 49: 2026 NBA Cup: Schedule, format, groups, updates and more](https://a.espncdn.com/combiner/i?img=/photo/2026/1125/r1750968_608x342_16-9.jpg&w=220) ## 2026 NBA Cup: Schedule, format, groups, updates and more Here's everything you need to know about the fourth annual in-season tournament, including the recent wins by the Celtics and Mavericks. * 1h * ESPN](https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates)
 
-[![Image 50: The Spurs look to stay undefeated on the road as they take on the Trail Blazers](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_162642712_3761156/ss_20261125_162642712_3761156.jpg) ## The Spurs look to stay undefeated on the road as they take on the Trail Blazers The Spurs look to stay undefeated on the road as they take on the Trail Blazers * 19m](https://www.espn.com/video/clip/_/id/50597175/the-spurs-look-stay-undefeated-road-take-trail-blazers)
+[![Image 50: Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs](https://a.espncdn.com/combiner/i?img=/photo/2026/0509/r1655741_600x600_1-1.jpg&w=220) ## Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs Austin Reaves returned to his first full practice since suffering a left heel bruise, although his status for Friday's game vs. the Spurs is uncertain. * 1h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50597465/austin-reaves-rejoins-lakers-full-practice-tbd-face-spurs)
 
-[![Image 51: The Thunder look to get back in the win column as they take on the Timberwolves](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_161427993_3761137/ss_20261125_161427993_3761137.jpg) ## The Thunder look to get back in the win column as they take on the Timberwolves The Thunder look to get back in the win column as they take on the Timberwolves * 20m](https://www.espn.com/video/clip/_/id/50597092/the-thunder-look-get-back-win-column-take-timberwolves)
+[![Image 51: The Spurs look to stay undefeated on the road as they take on the Trail Blazers](https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_162642712_3761156/ss_20261125_162642712_3761156.jpg) ## The Spurs look to stay undefeated on the road as they take on the Trail Blazers The Spurs look to stay undefeated on the road as they take on the Trail Blazers * 2h](https://www.espn.com/video/clip/_/id/50597175/the-spurs-look-stay-undefeated-road-take-trail-blazers)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Tap Into Your Equity (Won't Affect Your Mortgage Rate)Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift For A DIY Lover Before Black Friday (You Won't Find It In Walmart)")
 
 Undo
 
-[](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0)[Car Insurance Costs Vary Across Oregon Your ZIP code can be one factor in your car insurance rate. See how costs compare across different areas.EasyHome Auto | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://trustedsupporthub.com/cf/r/6a99b113e73dda001288adb0 "Car Insurance Costs Vary Across Oregon")
+[](https://www.grammarly.com/a)[The Secret To Perfect Professional Writing Make every message sound exactly how you intend. Easily adapt your style for different audiences and situations. See how.Grammarly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.grammarly.com/a "The Secret To Perfect Professional Writing")
 
 Undo
 
-[](https://rmn.lgnrd22.com/r/2D7643E)[Research High Deductible Plan G Vs Standard Plan G Annual Cost (Top Results)High Deductible Or Standard Plan G? Compare Annual Costs (Explore Now)Yahoo Search | Medicare Plan G | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rmn.lgnrd22.com/r/2D7643E "Research High Deductible Plan G Vs Standard Plan G Annual Cost (Top Results)")
+[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[Don't Get a Heloc, Do This Instead Tap Into Your Equity (Won't Affect Your Mortgage Rate)Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "Don't Get a Heloc, Do This Instead")
 
 Undo
 
@@ -452,44 +446,4 @@ Undo
 GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL.
 
 Copyright: © 2026 ESPN Enterprises, LLC. All rights reserved.
-
-![Image 53: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
-
-## Notice of Right to Opt Out of Sale/Sharing
-
-Some US states provide residents (or their [authorized agents](https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/b65ffa0c-9019-4d84-b1a8-1965ba7c989f)) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information, as defined by applicable laws. You can move the toggle to the left and click “Submit” to opt out of such activities occurring through this digital property. If you are logged in, we may be able to associate your choice with your account and apply it to data sharing occurring through this digital property (across your browsers and devices) as well as other digital properties of The Walt Disney Family of Companies. You can confirm the status of your choice or opt out or in by clicking “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each property.
-
-### Manage Consent Preferences
-
-#### Selling, Sharing, Targeted Advertising
-
-- [x] Selling, Sharing, Targeted Advertising 
-
-If you are not logged in, your opt-out will be specific to this property and device or browser. For our other digital properties, to opt out, select “Do Not Sell or Share My Personal Information” or “Your Privacy Choices” on each. If you clear your tracking history or use another browser or device, you’ll need to opt out again.  
-  
-You can also submit this [opt-out form](https://usprivacy.disney.com/dnssmpi), which may enable us to apply your opt-out more broadly, for example, to stop data sharing in connection with advertising intended to reach you on platforms not operated by Disney (e.g., social media platforms).   
-  
-You may enable online, where available, a universal tool that automatically communicates your opt-out, such as Global Privacy Control (“GPC”), which we’ll process as if you had opted out through the toggle.  
-  
-Even if you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. Please visit [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) for more information about your rights and how to exercise them.
-
-### Cookie List
-
-Clear
-
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Submit
-
-[![Image 54: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
 

@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-25 18:06 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-25 18:35 ET -->
 
 
 ---
@@ -1068,6 +1068,48 @@ The data is screaming at the Under for this one, so we’ll abide and dig into t
 
 ## Spurs-Trail Blazers Odds (Spread, Moneyline, Over/Under)
 
+[](https://www.lineups.com/)3:00a
+
+![Image 33: SAN](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10218.png)
+
+SAN
+
+Spurs
+
+![Image 34: POR](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10216.png)
+
+POR
+
+Trail Blazers
+
+Spread
+
+ 
+
+[-3.5 _(48¢)_ _(SAN)_![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661139/kalshi_sc)
+
+[+3.5 _(50¢)_ _(SAN)_![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661139/polymarket_sc)
+
+Money
+
+Line
+
+ 
+
+[60¢_(SAN)_![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661139/kalshi_sc)
+
+[40¢_(POR)_![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661139/kalshi_sc)
+
+Over
+
+Under
+
+ 
+
+[> 224.5 _(51¢)_ _(O/U)_![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661139/kalshi_sc)[< 225.5 _(50¢)_ _(O/U)_![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661139/polymarket_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=661139 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 ## Deciding Factor: San Antonio’s League-Best Net Rating vs. Portland’s Backcourt Stripped Down to Deni Avdija
 
 San Antonio brings the NBA’s best record (15-3, first in the West) into Moda Center on Wednesday, and the margin behind that mark is just as telling as the record itself: a plus-9.4 scoring differential (112.8 points scored, 103.4 allowed), an 8-0 mark on the road, and only one loss in their last 16 games. What makes it scarier for Portland is that the Spurs just proved their depth can cover for their stars — Victor Wembanyama (lower back tightness) and De’Aaron Fox (right shin contusion) both sat out Monday’s win at Sacramento, San Antonio’s first missed game of the season for Wembanyama, and the team won anyway behind Stephon Castle’s 28 points and 11 assists, Julian Champagnie’s 22 points and Luke Kornet’s 18-and-11. Castle is averaging 16.6 points and 6.2 assists on the season but 9.0 assists over his last five games, evidence the offense keeps humming even without its two headline stars, and San Antonio’s 118.6 offensive rating and 106.3 defensive rating both outpace Portland’s marks (116.8 and 110.4) by a wide margin. If Wembanyama (29.9 points, 12.3 rebounds, 54.1% shooting when healthy) and Fox are both able to suit up Wednesday on top of that depth, San Antonio is positioned to extend its perfect road record to 9-0.
@@ -1124,27 +1166,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 33: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 42: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)[NBA DFS Picks: Best Value Plays for Wednesday, November 25, 2026](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
-[![Image 34: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 43: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Timberwolves-Thunder NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 35: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 44: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Heat-76ers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 36: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 45: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)[NBA Player Props Today: Tyrese Maxey, Coby White and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
-[![Image 37: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-150x150.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 46: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-150x150.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)[Hurricanes-Lightning NHL Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
@@ -1155,7 +1197,7 @@ About the Author
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)
 
-[![Image 38: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 39: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 40: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
+[![Image 47: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 48: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 49: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
 
 Thom Cunningham is the Lineups.com News Editor. He has worked in sports media for almost two decades as a content producer, including roles at Spectrum, VegasInsider.com, Oddschecker and VSiN. Over the last decade he has focused on the [sports betting](https://www.lineups.com/sports-betting/) and gaming space, tracking insights and data analytics and covering markets from the NFL to the Oscars. His MLB picks are also graded by [DailyOverlay](https://dailyoverlay.com/expert-grading/mlb-expert-grading/), which ranks industry experts.
 
@@ -1170,7 +1212,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
  Related Stories 
 
-[![Image 41: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 50: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1180,7 +1222,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 42: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 51: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1190,7 +1232,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 43: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 52: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1200,7 +1242,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 44: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 53: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1210,7 +1252,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 25, 2026
 
-[![Image 45: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 54: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1220,7 +1262,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 46: JT Miller](https://www.lineups.com/wp-content/uploads/2026/11/JTMiller-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-farabee-trevor-zegras-j-t-miller-best-bets/)
+[![Image 55: JT Miller](https://www.lineups.com/wp-content/uploads/2026/11/JTMiller-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-farabee-trevor-zegras-j-t-miller-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1670,6 +1712,48 @@ It’s hard not to take Minnesota here for many reason, but the elephant in the 
 
 ## Timberwolves-Thunder Odds (Spread, Moneyline, Over/Under)
 
+[](https://www.lineups.com/)12:30a
+
+![Image 33: MIN](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10209.png)
+
+MIN
+
+Timberwolves
+
+![Image 34: OKC](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/15673.png)
+
+OKC
+
+Thunder
+
+Spread
+
+ 
+
+[+2.5 _(50¢)_ _(MIN)_![Image 35](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661134/polymarket_sc)
+
+[-2.5 _(49¢)_ _(MIN)_![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661134/kalshi_sc)
+
+Money
+
+Line
+
+ 
+
+[45¢_(MIN)_![Image 37](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661134/polymarket_sc)
+
+[56¢_(OKC)_![Image 38](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661134/polymarket_sc)
+
+Over
+
+Under
+
+ 
+
+[> 222.5 _(50¢)_ _(O/U)_![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/661134/polymarket_sc)[< 222.5 _(48¢)_ _(O/U)_![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/661134/kalshi_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=661134 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 ## Deciding Factor: Minnesota’s No-Excuses Depth Without Edwards vs. Oklahoma City’s Rotation Decimated by Injury
 
 Minnesota arrives in Oklahoma City on Wednesday at 13-5 and third in the West despite having played almost the entire season without its best player — Anthony Edwards, who had knee surgery and has appeared in just four games, is now looking at a January return rather than the original six-to-eight-week recovery window, with The Athletic’s Jon Krawczynski reporting Edwards is “off of the crutches now” but still “very much in the beginning stages of getting back out there.” The Wolves haven’t needed him to roll: they’ve won two straight, including a 142-116 blow-up of Brooklyn on Monday in which Jaden McDaniels dropped 34 points, 10 rebounds and 6 assists, and they’re carrying that balance into Oklahoma City at 6-0 against the spread on the road this season. Four different Timberwolves are averaging in double figures with real complementary skill sets — McDaniels at 18.4 a game, Ayo Dosunmu at 18.2, LaMelo Ball at 17.2 points with 5.6 assists and 3.2 made threes (10th in the NBA), and Jonathan Kuminga chipping in 13.4 points and 5.4 rebounds since joining the rotation — with Rudy Gobert still anchoring the glass at 10.6 boards a night. That kind of four-man scoring floor is exactly the sort of attack that travels well against a shorthanded opponent, which is precisely what Minnesota is walking into Wednesday.
@@ -1726,27 +1810,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 33: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 42: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)[NBA DFS Picks: Best Value Plays for Wednesday, November 25, 2026](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
-[![Image 34: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 43: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Spurs-Trail Blazers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 35: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 44: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Heat-76ers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 36: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 45: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)[NBA Player Props Today: Tyrese Maxey, Coby White and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
-[![Image 37: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-150x150.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 46: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-150x150.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)[Hurricanes-Lightning NHL Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
@@ -1757,7 +1841,7 @@ About the Author
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)
 
-[![Image 38: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 39: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 40: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
+[![Image 47: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/_TJKC_)[![Image 48: linkedin icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/linkedin.svg)](https://www.linkedin.com/in/thom-cunningham-b2160063)[![Image 49: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:thomas.cunningham@catenamedia.com)
 
 Thom Cunningham is the Lineups.com News Editor. He has worked in sports media for almost two decades as a content producer, including roles at Spectrum, VegasInsider.com, Oddschecker and VSiN. Over the last decade he has focused on the [sports betting](https://www.lineups.com/sports-betting/) and gaming space, tracking insights and data analytics and covering markets from the NFL to the Oscars. His MLB picks are also graded by [DailyOverlay](https://dailyoverlay.com/expert-grading/mlb-expert-grading/), which ranks industry experts.
 
@@ -1772,7 +1856,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
  Related Stories 
 
-[![Image 41: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 50: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1782,7 +1866,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 42: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 51: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1792,7 +1876,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 43: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 52: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1802,7 +1886,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 44: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 53: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1812,7 +1896,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 25, 2026
 
-[![Image 45: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 54: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1822,7 +1906,7 @@ Thom Cunningham is the Lineups.com News Editor. He has worked in sports media fo
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 46: JT Miller](https://www.lineups.com/wp-content/uploads/2026/11/JTMiller-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-farabee-trevor-zegras-j-t-miller-best-bets/)
+[![Image 55: JT Miller](https://www.lineups.com/wp-content/uploads/2026/11/JTMiller-390x230.jpg)](https://www.lineups.com/articles/nhl-goal-picks-today-joel-farabee-trevor-zegras-j-t-miller-best-bets/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3539,6 +3623,18 @@ Let’s dive into three player props that catch our eye for Tuesday’s action. 
 
 ### **Paul George (Celtics vs. Wizards) Over Points + Rebounds**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10189.png)Paul George
+
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661949/underdog_sc)[O/U Points Scored (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_points/661949/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661949/underdog_sc)
+
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661949/underdog_sc)[O/U Total Rebounds (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661949/underdog_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661949/underdog_sc)
+
+[![Image 35: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661949/underdog_sc)[O/U Total Assists (vs. ATL)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661949/underdog_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661949/underdog_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/paul_george/player_12681 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 George is off the injury report for Tuesday’s game after getting Sunday’s loss to the Warriors off for rest. The veteran forward has quickly proven a good fit in Boston, where he’s averaging 19.9 points (on 40.7% three-point shooting), 5.6 rebounds, 3.8 assists and 2.2 steals per contest over 30.1 minutes per game. George is averaging 18.9 field-goal + free-throw attempts per game as well, so his usage remains very encouraging despite sharing the floor with Jayson Tatum.
 
 The Wizards are solid targets for the veteran forward, as Washington is allowing the sixth-most points per home game (118.8) and the third-most points + rebounds per game in that split as well (175.0). George has also been at his best on the road, where he’s putting up 27.2 points + rebounds on 46.2% shooting, including 40.6% three-point shooting, across 29.1 minutes per contest. He’s 7-5 to the Over on the 23.5 over his last 12 as well, and he finished on the hook with 23 in one other instance.
@@ -3546,6 +3642,14 @@ The Wizards are solid targets for the veteran forward, as Washington is allowing
 **Original Line Publish:** 23.5
 
 ### **Kyrie Irving (Mavericks vs. Nuggets) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10194.png)Kyrie Irving
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/12742/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/12742/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/12742/kalshi_sc)
+
+[![Image 39](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/kyrie_irving/player_12742 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Irving has looked good in his first 14 games back from his 2024-25 ACL tear, averaging 22.0 points, 4.6 assists, 3.6 rebounds and 1.2 steals per contest over 30.7 minutes per game. As the latter figure reflects, Irving is being handled with some caution, but he’s proven an effective complement to Cooper Flagg and is averaging a solid 20.5 field-goal + free-throw attempts per contest. The talented point guard now faces a Nuggets team that’s been more vulnerable defensively than in recent years and should ensure a competitive matchup where Irving should see plenty of minutes.
 
@@ -3581,27 +3685,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 40: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)[NBA DFS Picks: Best Value Plays for Wednesday, November 25, 2026](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
-[![Image 33: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 41: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Spurs-Trail Blazers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 34: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 42: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Timberwolves-Thunder NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 35: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 43: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Heat-76ers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 36: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 44: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)[NBA Player Props Today: Tyrese Maxey, Coby White and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
@@ -3612,7 +3716,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 45: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 46: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -3627,7 +3731,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 47: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3637,7 +3741,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 40: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 48: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3647,7 +3751,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 41: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 49: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3657,7 +3761,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 42: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 50: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3667,7 +3771,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 43: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 51: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -3677,7 +3781,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 25, 2026
 
-[![Image 44: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 52: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4123,6 +4227,18 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 
 ### **Scottie Barnes (Raptors vs. Bucks) Over Points**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)Scottie Barnes
+
+[![Image 33: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/147548/kalshi_sc)
+
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/147548/kalshi_sc)
+
+[![Image 35: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)[To Win Defensive Player of the Year](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)[5¢](https://lineups.go.metabet.io/bet/nba_defensive_player_of_the_year/147548/kalshi_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/scottie_barnes/player_147548 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Barnes is putting together a career-best season that includes a career-best average of 24.3 points, a figure over four points a game better than his prior high-water mark of 19.9 points in the 2023-24 season. The highly versatile forward is shooting a crisp 49.5% as well, and Barnes boasts a massive, team-high 34.1% usage rate and average of 30.8 points per 36 minutes with RJ Barrett (hamstring), who’ll remain sidelined Monday, off the floor.
 
 Barnes has recorded at least 20 points in nine of 10 games this season, a sample where he’s shot 52.8%. The opposing Bucks have been highly targetable all season for Overs, and they’re surrendering an Eastern Conference-high 30.9 offensive efficiency rating to power forwards. Milwaukee is also conceding 51.4% shooting in the last three games, and the eighth-most made three-pointers per road game (15.0) on the season.
@@ -4133,6 +4249,18 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 
 ### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)James Harden
+
+[![Image 38: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/polymarket_sc)[O/U Points Scored (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/polymarket_sc)[17.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661133/polymarket_sc)
+
+[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/polymarket_sc)[O/U Total Rebounds (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/polymarket_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661133/polymarket_sc)
+
+[![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)[O/U Total Assists (@ NYK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661133/polymarket_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/james_harden/player_11801 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Harden has admittedly been a tough player to figure out this season, with the most recent evidence of such coming with his vintage 51-point outburst over 40 minutes against the Pacers on Friday. Harden does have 20- and 32-point tallies in two other November games as well, however, and despite a forgettable 3-for-10 showing from the field in his first meeting with the Bulls three games ago, he still mustered 19 points + assists.
 
 Given Chicago’s pace of play and defensive struggles this season, not to mention some of Harden’s recent performances, banking on a slight improvement in the rematch isn’t the most outlandish bet to make. The Bulls are averaging an NBA-high 108.1 possessions per game and surrendering the third-highest offensive efficiency rating to point guards (32.4), along with 48.0% shooting, including 42.3% from three-point range. Chicago is also allowing a league-high 29.1 assists per game, and Harden is supplying 32.6 points + assists across the last four games.
@@ -4142,6 +4270,18 @@ Finally, it’s worth noting Cleveland’s slate-high 124.5-point implied team t
 **Original Line Publish**: 25.5
 
 ### **Fred VanVleet (Rockets vs. Clippers) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 42](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10200.png)Fred VanVleet
+
+[![Image 43: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/polymarket_sc)[O/U Points Scored (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/polymarket_sc)[9.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661137/polymarket_sc)
+
+[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)[O/U Total Rebounds (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)[2.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661137/underdog_sc)
+
+[![Image 45: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/polymarket_sc)[O/U Total Assists (vs. PHO)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661137/polymarket_sc)
+
+[![Image 46](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/fred_vanvleet/player_56167 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 VanVleet has been productive in his first 14 games back from a lost 2025-26 season due to an ACL tear, as the veteran guard is averaging 14.4 points, 5.7 assists, 2.9 rebounds and 1.1 steals per contest. VanVleet is also draining his 7.3 three-point attempts per game at a 39.2% clip, the second-highest figure of his career in that category. VanVleet is averaging 17.6 points + assists per home game, where he’s been even better from long range with a 40.0% success rate.
 
@@ -4179,27 +4319,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 47: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-150x150.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)[NBA DFS Picks: Best Value Plays for Wednesday, November 25, 2026](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
-[![Image 33: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 48: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-150x150.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Spurs-Trail Blazers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 34: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 49: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-150x150.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Timberwolves-Thunder NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 35: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 50: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-150x150.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 #### [](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)[Heat-76ers NBA Cup Picks, Predictions & Odds for Wednesday, November 25, 2026](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
-[![Image 36: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 51: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-150x150.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 #### [](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)[NBA Player Props Today: Tyrese Maxey, Coby White and Ty Jerome Best Bets](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
@@ -4210,7 +4350,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 52: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 53: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -4225,7 +4365,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
+[![Image 54: Brayden Burries](https://www.lineups.com/wp-content/uploads/2026/11/Brayden-Burries-390x230.jpg)](https://www.lineups.com/articles/nba-dfs-picks-best-value-plays-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4235,7 +4375,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 40: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 55: Deni Avdija](https://www.lineups.com/wp-content/uploads/2026/11/Deni-Avdija-390x230.jpg)](https://www.lineups.com/articles/spurs-trail-blazers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4245,7 +4385,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 41: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 56: Shai Gilgeous-Alexander](https://www.lineups.com/wp-content/uploads/2026/11/Shai-Gilgeous-Alexander-2-390x230.jpg)](https://www.lineups.com/articles/timberwolves-thunder-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4255,7 +4395,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 42: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 57: Giannis Antetokounmpo](https://www.lineups.com/wp-content/uploads/2026/11/Giannis-Antetokounmpo-390x230.jpg)](https://www.lineups.com/articles/heat-76ers-nba-cup-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4265,7 +4405,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 43: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
+[![Image 58: Tyrese maxey](https://www.lineups.com/wp-content/uploads/2026/11/Tyrese-maxey-390x230.jpg)](https://www.lineups.com/articles/nba-player-props-today-tyrese-maxey-coby-white-and-ty-jerome-best-bets/)
 
 [NBA Articles](https://www.lineups.com/nba-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -4275,7 +4415,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 25, 2026
 
-[![Image 44: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
+[![Image 59: Canes](https://www.lineups.com/wp-content/uploads/2026/11/CanesCelebrate-390x230.jpg)](https://www.lineups.com/articles/hurricanes-lightning-nhl-picks-predictions-odds-for-wednesday-november-25-2026/)
 
 [NHL Articles](https://www.lineups.com/nhl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 

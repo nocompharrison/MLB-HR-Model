@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-25-148156 | fetched: 2026-11-25 18:06 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-25-148156 | fetched: 2026-11-25 18:35 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Wednesday, Nov. 25
 Get the best NBA bets today, with expert player prop picks on points, PRA and steals, plus odds from top sportsbooks and betting apps for Wednesday's Nov. 25 NBA slate.
@@ -29,17 +29,17 @@ Brandon Miller Over 21.5 Points-120
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
 [Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.17](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [Day'Ron Sharpe](https://www.rotowire.com/basketball/player/dayron-sharpe-5418) over 22.5 points + rebounds + assists (-107)
 _DraftKings, 1:34 PM ET_
 **Alex Barutha:** The Bucks have been terrible against opposing centers this season. They've already allowed nine double-doubles to the position and have given up some monster games -- notably 34/12/4 to [Anthony Davis](https://www.rotowire.com/basketball/player/anthony-davis-3297), 26/17/9 to [Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572), 25/11/4 to [Jarrett Allen](https://www.rotowire.com/basketball/player/jarrett-allen-4122) and 19/11/2 to [Jakob Poeltl](https://www.rotowire.com/basketball/player/jakob-poeltl-3870). I expect Sharpe to be next. Since securing his first double-double of the season Nov. 1, he's averaging 10/8/5 in 25 MPG and hasn't seen fewer than 22 minutes in any of the past five games.
 ![DraftKings](https://objects.kaxmedia.com/auto/o/110477/251023ed06.png)
 NBA Player Prop | BKN @ MIL
-Day'Ron Sharpe Over 21.5 Pts+Reb+Ast-123
+Day'Ron Sharpe Over 21.5 Pts+Reb+Ast-110
 **New user offer** Spend $5+ Get $200 in Bonus Bets (Paid Over 21 Days) + 3 Months NBA League Pass On Us!
-[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.07](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
+[Claim Offer](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)[Bet $5 to win $4.55](https://dkdfs.sng.link/Avkw3/aea2?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D759119888%26wpcid%3D215072%26wpcn%3DBet5Get200%26wpsrc%3DKax%2520Media%2520%26wpcrid%3D%26wpscn%3D&pcid=215072&pcn=Rotowire)
 Estimate only. Odds can change and excludes fees.
-Odds as of 6:01 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
+Odds as of 6:30 PM EST. $5 deposit minimum. Bonus bets expire after 7 days. Log in and claim credits on days 7 and 14. 21+ (18+ in DC, KY, NH and WY) and present in a state where this sportsbook is licensed. New customers only. Terms and conditions apply. Lines and odds subject to change. Gambling problem? Call 1-800-GAMBLER.
 ###  [Brayden Burries](https://www.rotowire.com/basketball/player/brayden-burries-6967) 2+ steals vs. Brooklyn Nets (+190)
 _DraftKings Sportsbook, Noon ET_
 Nick Whalen: I'm mostly drawn to this play because of the price. As it implies, it's a relative longshot, but Burries has hit this number in four of the last five games and faces a Nets team with the second-highest turnover rate in the NBA. Over the last 12 games, Burries is averaging close to 27 minutes per game and just posted 14 points, 10 boards, four assists, three steals and a block in Monday's win over the Raptors (29 minutes off bench).
@@ -58,11 +58,6 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)
-Expected to play Wednesday
-NBA
-New York Knicks
   * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
 [Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
 Remains limited, but expected back Sunday
@@ -83,6 +78,11 @@ Los Angeles Chargers
 In protocol, but should play Sunday
 NFL
 Baltimore Ravens
+  * ![Kansas City Chiefs](https://assets.rotowire.com/images/teamlogo/football/KC.svg?v=12)
+[Emmett Johnson](https://www.rotowire.com/football/player/emmett-johnson-19240)
+On track to lead backfield again Thursday
+NFL
+Kansas City Chiefs
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -101,22 +101,32 @@ Milwaukee Brewers
 Signs on with Kansas City
 MLB
 Kansas City Royals
+  * ![Miami Marlins](https://assets.rotowire.com/images/teamlogo/baseball/100MIA.png?v=8)
+[Gary Sanchez](https://www.rotowire.com/baseball/player/gary-sanchez-11159)
+Signs with Marlins
+MLB
+Miami Marlins
   * ![Milwaukee Brewers](https://assets.rotowire.com/images/teamlogo/baseball/100MIL.png?v=8)
 [Tyler Black](https://www.rotowire.com/baseball/player/tyler-black-17345)
 DFA'd by Brewers
 MLB
 Milwaukee Brewers
-  * ![Seattle Mariners](https://assets.rotowire.com/images/teamlogo/baseball/100SEA.png?v=8)
-[Carlos Santana](https://www.rotowire.com/baseball/player/carlos-santana-10322)
-Lands minors deal with M's
-MLB
-Seattle Mariners
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
   * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
+Will play Wednesday
+NBA
+New York Knicks
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
+Good to go Wednesday
+NBA
+New York Knicks
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)
-Expected to play Wednesday
+Available to play Wednesday
 NBA
 New York Knicks
   * ![Sacramento Kings](https://assets.rotowire.com/images/teamlogo/basketball/100SAC.png?v=10)
@@ -129,16 +139,6 @@ Sacramento Kings
 Practices Wednesday
 NBA
 Los Angeles Lakers
-  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
-[Joel Embiid](https://www.rotowire.com/basketball/player/joel-embiid-3572)
-Out sick again Wednesday
-NBA
-Philadelphia 76ers
-  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
-[Josh Hart](https://www.rotowire.com/basketball/player/josh-hart-4136)
-Upgraded to probable
-NBA
-New York Knicks
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)

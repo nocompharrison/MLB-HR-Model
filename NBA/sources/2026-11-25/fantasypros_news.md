@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 18:06 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 18:35 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,47 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
+[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
+[Josh Hart (shoulder) available Wednesday](https://www.fantasypros.com/nba/news/622598/josh-hart-shoulder-available-wednesday.php)  
+
+Wed, Nov 25th 6:08pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Josh Hart (shoulder) is available for Wednesday night’s matchup between the New York Knicks and Cleveland Cavaliers according to Steve Popper. (Source: [Steve Popper on Twitter ](https://x.com/stevepopper/status/2125725046756790334?a=8rBZuhGieaV66xyyBqU&s=46))
+**_Fantasy Impact:_** Hart joins Jalen Brunson (illness) and Karl-Anthony Towns (knee) in clearing through pregame shootaround without any setbacks to boost the Knicks starting five for head coach Mike Brown against the Cavaliers Wednesday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
+C - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
+[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
+[Karl-Anthony Towns (knee) available Wednesday](https://www.fantasypros.com/nba/news/622597/karl-anthony-towns-knee-available-wednesday.php)  
+
+Wed, Nov 25th 6:05pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Karl-Anthony Towns (knee) is available for Wednesday’s contest between the New York Knicks and Cleveland Cavaliers according to Steve Popper. (Source: [Steve Popper on Twitter ](https://x.com/stevepopper/status/2125725046756790334?a=8rBZuhGieaV66xyyBqU&s=46))
+**_Fantasy Impact:_** Towns will take the floor after passing through pregame shootaround without any issues, offering head coach Mike Brown an impactful interior option against the Cavaliers Wednesday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Brunson](https://images.fantasypros.com/images/players/nba/3514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-brunson.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-brunson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-brunson.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-brunson.php)
+[Jalen Brunson (illness) in starting lineup Wednesday](https://www.fantasypros.com/nba/news/622596/jalen-brunson-illness-starting-lineup-wednesday.php)  
+
+Wed, Nov 25th 6:02pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Jalen Brunson (illness) is in the starting lineup Wednesday night’s matchup between the New York Knicks and Cleveland Cavaliers. (Source: [Ian Begley on Twitter ](https://x.com/ianbegley/status/2125724537480187931?a=2AP3d-kiSDCW9tuihUg&s=46))
+**_Fantasy Impact:_** Brunson was added to the injury report with an apparent illness Tuesday, but the superstar guard progressed enough to remain locked in as the catalyst in the starting five for head coach Mike Brown against the Cavaliers Wednesday night.
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
 G - LAL
 [» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
@@ -75,48 +116,6 @@ By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Markelle Fultz is joining the Raptors’ G League affiliate. (Source: [Michael Scotto on Twitter](https://x.com/MikeAScotto/status/2125626065343410383))
 **_Fantasy Impact:_** Fultz remains off the fantasy radar. 
 Category: [Transactions](https://www.fantasypros.com/nba/transactions.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jalen Brunson](https://images.fantasypros.com/images/players/nba/3514/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-brunson.php)
-G - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/jalen-brunson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jalen-brunson.php)  
-[» More News](https://www.fantasypros.com/nba/news/jalen-brunson.php)
-[Jalen Brunson (illness) now questionable Wednesday ](https://www.fantasypros.com/nba/news/622557/jalen-brunson-illness-now-questionable-wednesday.php)  
-
-Wed, Nov 25th 3:39pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jalen Brunson is now questionable for Wednesday’s game against the Cavaliers.
-**_Fantasy Impact:_** Brunson is a late addition to the injury report due to an illness. He will need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
-C - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
-[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
-[Karl-Anthony Towns (knee) now probable Wednesday ](https://www.fantasypros.com/nba/news/622556/karl-anthony-towns-knee-now-probable-wednesday.php)  
-
-Wed, Nov 25th 3:39pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Karl-Anthony Towns is now probable for Wednesday’s game against the Cavaliers.
-**_Fantasy Impact:_** Towns was upgraded after being listed as questionable. He is on track to be good to go. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
-G - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/josh-hart.php)  
-[» More News](https://www.fantasypros.com/nba/news/josh-hart.php)
-[Josh Hart (shoulder) now probable Wednesday ](https://www.fantasypros.com/nba/news/622555/josh-hart-shoulder-now-probable-wednesday.php)  
-
-Wed, Nov 25th 3:38pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Josh Hart is now probable for Wednesday’s game against the Cavaliers.
-**_Fantasy Impact:_** Hart was upgraded after being listed as questionable. He is on track to remain in his usual role. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
 [![Miles McBride](https://images.fantasypros.com/images/players/nba/5351/headshot/100x100.png)](https://www.fantasypros.com/nba/players/miles-mcbride.php)
