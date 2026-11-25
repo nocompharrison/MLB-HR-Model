@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-25 11:06 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-25 16:06 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -98,10 +98,10 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Ryan Kalkbrenner](https://www.espn.com/nba/player/_/id/4576060/ryan-kalkbrenner) | C | Nov 25 | Day-To-Day | Nov 24: Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls. |
+| [Ryan Kalkbrenner](https://www.espn.com/nba/player/_/id/4576060/ryan-kalkbrenner) | C | Nov 28 | Out | Nov 25: Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago. |
+| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 28 | Out | Nov 25: Allen (concussion) has been ruled out for Wednesday's game against Chicago. |
 | [Dennis Schroder](https://www.espn.com/nba/player/_/id/3032979/dennis-schroder) | G | Dec 12 | Out | Nov 24: Schroder (hamstring) is out for Wednesday's game the Bulls. |
 | [Sion James](https://www.espn.com/nba/player/_/id/4602025/sion-james) | G | Nov 25 | Day-To-Day | Nov 24: James is probable for Wednesday's game against the Bulls due to general soreness. |
-| [Grayson Allen](https://www.espn.com/nba/player/_/id/3135045/grayson-allen) | G | Nov 25 | Out | Nov 24: Allen (concussion) is listed as questionable for Wednesday's game versus Chicago. |
 | [Kon Knueppel](https://www.espn.com/nba/player/_/id/5061575/kon-knueppel) | G | Dec 12 | Out | Nov 8: Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks. |
 
 ![Image 17: Chicago Bulls](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&h=40&w=40)Chicago Bulls
@@ -132,7 +132,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Cade Cunningham](https://www.espn.com/nba/player/_/id/4432166/cade-cunningham) | G | Nov 27 | Out | Nov 24: Cunningham (knee) is listed as out for Tuesday's game against Orlando. |
+| [Cade Cunningham](https://www.espn.com/nba/player/_/id/4432166/cade-cunningham) | G | Nov 27 | Day-To-Day | Nov 25: Cunningham (knee) is listed as out for Tuesday's game against Orlando. |
 | [Ebuka Okorie](https://www.espn.com/nba/player/_/id/5258459/ebuka-okorie) | G | Dec 13 | Out | Nov 24: The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com. |
 | [Taurean Prince](https://www.espn.com/nba/player/_/id/2990962/taurean-prince) | F | Dec 26 | Out | Nov 24: Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports. |
 | [Duncan Robinson](https://www.espn.com/nba/player/_/id/3157465/duncan-robinson) | F | Nov 27 | Out | Nov 24: Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports. |
@@ -200,6 +200,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Julian Reese](https://www.espn.com/nba/player/_/id/4683742/julian-reese) | F | Nov 25 | Day-To-Day | Nov 25: The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday. |
 | [Trendon Watford](https://www.espn.com/nba/player/_/id/4431675/trendon-watford) | F | Nov 27 | Out | Nov 21: Watford (ankle) is out for Saturday's game against the Spurs. |
 | [Bennedict Mathurin](https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin) | G | Nov 27 | Out | Nov 19: Mathurin (foot) has been ruled out for Friday's game against the Thunder. |
 | [Dejounte Murray](https://www.espn.com/nba/player/_/id/3907497/dejounte-murray) | G | Nov 27 | Out | Nov 13: Murray (ankle) is out for Friday's game against Memphis. |
@@ -208,11 +209,12 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Miles McBride](https://www.espn.com/nba/player/_/id/4431823/miles-mcbride) | G | Nov 25 | Day-To-Day | Nov 24: McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland. |
+| [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 25 | Day-To-Day | Nov 25: Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers. |
+| [Miles McBride](https://www.espn.com/nba/player/_/id/4431823/miles-mcbride) | G | Nov 27 | Out | Nov 25: McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers. |
+| [Karl-Anthony Towns](https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns) | C | Nov 25 | Day-To-Day | Nov 25: Towns (knee) is probable for Wednesday's game against Cleveland. |
+| [Jalen Brunson](https://www.espn.com/nba/player/_/id/3934672/jalen-brunson) | G | Nov 25 | Day-To-Day | Nov 25: Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers. |
 | [Jordan Clarkson](https://www.espn.com/nba/player/_/id/2528426/jordan-clarkson) | G | Nov 27 | Out | Nov 24: Clarkson (foot) is out for Wednesday's game against Cleveland. |
-| [Josh Hart](https://www.espn.com/nba/player/_/id/3062679/josh-hart) | G | Nov 25 | Day-To-Day | Nov 24: Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland. |
 | [OG Anunoby](https://www.espn.com/nba/player/_/id/3934719/og-anunoby) | F | Nov 27 | Out | Nov 24: Anunoby (calf) is out for Wednesday's game against Cleveland. |
-| [Karl-Anthony Towns](https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns) | C | Nov 25 | Day-To-Day | Nov 24: Towns (knee) is questionable for Wednesday's game against Cleveland. |
 
 ![Image 30: Oklahoma City Thunder](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&h=40&w=40)Oklahoma City Thunder
 
@@ -239,7 +241,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 27 | Day-To-Day | Nov 24: Embiid (illness) is listed as doubtful for Wednesday's game versus Miami. |
+| [Joel Embiid](https://www.espn.com/nba/player/_/id/3059318/joel-embiid) | C | Nov 27 | Out | Nov 25: Embiid (illness) is listed as doubtful for Wednesday's game versus Miami. |
 | [Ariel Hukporti](https://www.espn.com/nba/player/_/id/4871141/ariel-hukporti) | C | Oct 1 | Out | Oct 6: Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN. |
 
 ![Image 33: Phoenix Suns](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&h=40&w=40)Phoenix Suns
@@ -261,7 +263,7 @@ ESPN
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Dec 2 | Out | Nov 24: Raynaud (knee) is out for Wednesday's game against the Warriors. |
+| [Maxime Raynaud](https://www.espn.com/nba/player/_/id/4898371/maxime-raynaud) | C | Dec 2 | Out | Nov 25: Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports. |
 | [Ben Simmons](https://www.espn.com/nba/player/_/id/3907387/ben-simmons) | G | Oct 1 | Out | Oct 21: Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports. |
 
 ![Image 36: San Antonio Spurs](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&h=40&w=40)San Antonio Spurs
@@ -302,91 +304,65 @@ ESPN
 
 Data Provided by Rotowire
 
-You May Like
+Sponsored Headlines
 
-[](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds)[Senior Gardeners in [state] Adding 3 Irreplaceable Tools Hint: They Do 94% Of The Hard Work Wild Vine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds "Senior Gardeners in [state] Adding 3 Irreplaceable Tools")
-
-Undo
-
-[](https://try.dowjanes.com/taboola)[The Money Lessons Nobody Taught Us in School In our FREE masterclass, we’ll show you how to build a money plan that aligns with your goals and helps you grow your financial literacy. The path to building wealth begins here. Click to register.Dow Janes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://try.dowjanes.com/taboola "The Money Lessons Nobody Taught Us in School")
+[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
 
 Undo
 
-[](https://try.dowjanes.com/taboola)[She Gave Her Paycheck a Plan. Here's What Changed.In our FREE masterclass, we’ll show you how to build a money plan that aligns with your goals and helps you grow your financial literacy. The path to building wealth begins here. Click to register.Dow Janes | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://try.dowjanes.com/taboola "She Gave Her Paycheck a Plan. Here's What Changed.")
+[](https://lp.customwatersolutionsusa.com/cws-whole-home-costs)[Here's What a Whole Home Water Filtration System Costs Custom Water Solutions USA | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Get Rates](https://lp.customwatersolutionsusa.com/cws-whole-home-costs "Here's What a Whole Home Water Filtration System Costs")
 
 Undo
 
-[](https://www.thedoctorschannel.com/article/monoclonal-b-cell-lymphocytosis)[Incidental Lymphocytosis? Your Next Steps for MBL Periodic CBCs, vaccines, skin checks and clear referral triggers. A practical plan after that first flow panel.The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/article/monoclonal-b-cell-lymphocytosis "Incidental Lymphocytosis? Your Next Steps for MBL")
+[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
 Undo
 
-[](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation)[Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.thedoctorschannel.com/view/wet-age-related-macular-degeneration-amd-acute-presentation "Wet Age-related Macular Degeneration (AMD) – Acute Presentation – The Doctor's Channel")
+[](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5)[Residents In South Carolina With Credit Card Debt Could Be In For A Big Surprise There's a way to pay off credit card debt without getting a loan. See if you are eligible for the program.Weekly Financial Solutions | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.weeklyfinancialsolutions.com/a/open-program-fdr-5 "Residents In South Carolina With Credit Card Debt Could Be In For A Big Surprise")
 
 Undo
 
-[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
 
 Undo
 
-[](https://tracking.smartestlifestyletrends.com/68a3d7dc-59d3-427d-a978-417d6f0cf7ce)[Iowa Drivers: Notice For Low Milage Vehicles Many driver don't know they already qualify for a lower auto insurance rate. See if you're eligible now.Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tracking.smartestlifestyletrends.com/68a3d7dc-59d3-427d-a978-417d6f0cf7ce "Iowa Drivers: Notice For Low Milage Vehicles")
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
 
 Undo
 
-[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Cook Thanksgiving 2026 Without The Toxins Iowa Officials Are Targeting A doctor threw out her non-stick pans, then spent six months failing to replace them. The answer came from a lab that can't risk contamination.Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Cook Thanksgiving 2026 Without The Toxins Iowa Officials Are Targeting")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "South Carolina: Worst ZIP Codes For Car Insurance (Is Yours On The List?)")
 
 Undo
 
-[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
+[](https://start.nationaldebtrelief.com/eligibility-check-1)[South Carolina has a debt relief program for you No Loans or bankruptcy Required.Get a Fast & Free Quote Today!Debt Relief | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://start.nationaldebtrelief.com/eligibility-check-1 "South Carolina has a debt relief program for you")
 
 Undo
 
-[](https://tracking.smartestlifestyletrends.com/68a3d7dc-59d3-427d-a978-417d6f0cf7ce)[Worst Zip Codes For Car Insurance In Iowa (Is Yours On The List?)Many driver don't know they already qualify for a lower auto insurance rate. See if you're eligible now.Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://tracking.smartestlifestyletrends.com/68a3d7dc-59d3-427d-a978-417d6f0cf7ce "Worst Zip Codes For Car Insurance In Iowa (Is Yours On The List?)")
+[](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18)[Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)Check rates now—many drivers are paying more than they need to.The Penguin Insurnce | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://ucyfx.com/a2bf24a0-5ac6-4918-9283-4579ae7bcb18 "Who Charges The Most For Car Insurance In South Carolina? (Check Your ZIP Code)")
 
 Undo
 
 ### NBA News
 
-[![Image 40: NBA buzz: Latest on trades, news, roster moves and intel for the 2026-27 season](https://a.espncdn.com/combiner/i?img=/photo/2026/1124/r1750646_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel for the 2026-27 season The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 1h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
+[![Image 40: Ex-Bucks guard Kevin Porter Jr. finalizing 2-year deal to join Magic, agent says](https://a.espncdn.com/combiner/i?img=/photo/2025/1023/r1564926_1296x729_16-9.jpg&w=220) ## Ex-Bucks guard Kevin Porter Jr. finalizing 2-year deal to join Magic, agent says Free agent guard Kevin Porter Jr. is finalizing a two-year contract with the Magic, his agent told ESPN. * 1h * Shams Charania](https://www.espn.com/nba/story/_/id/50595534/agent-kevin-porter-jr-finalizing-2-year-deal-magic)
 
-[![Image 41: NBA reveals $11B arena initiative to boost efforts for Europe league](https://a.espncdn.com/combiner/i?img=/photo/2026/1025/r1736092_1296x729_16-9.jpg&w=220) ## NBA reveals $11B arena initiative to boost efforts for Europe league The long-planned NBA-backed league in Europe took another step toward becoming reality with the unveiling of a plan that targets nearly $11 billion in funding for the development and renovation of arenas around the continent. * 1h](https://www.espn.com/nba/story/_/id/50592672/nba-reveals-11b-initiative-arena-development-europe)
+[![Image 41: Fantasy adds, NBA bets to make for Wednesday: Scoring chances for Kuminga, Maxey](https://a.espncdn.com/combiner/i?img=/photo/2026/1125/r1751159_1296x729_16-9.jpg&w=220) ## Fantasy adds, NBA bets to make for Wednesday: Scoring chances for Kuminga, Maxey Andre Snellings breaks down Wednesday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 2h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50593697/fantasy-basketball-tips-nba-betting-picks-today)
 
-[![Image 42: Inside LeBron's first game in Philly -- more than two decades ago](https://a.espncdn.com/combiner/i?img=/photo/2026/1105/nba_james3_16x9.jpg&w=220) ## Inside LeBron's first game in Philly -- more than two decades ago Nearly 25 years ago, LeBron won over Philly for the first time -- inside one of the most iconic basketball arenas in the world. * 3h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50389727/lebron-james-palestra-maureece-rice-philadelphia)
+[![Image 42: NBA buzz: Latest on trades, news, roster moves and intel for the 2026-27 season](https://a.espncdn.com/combiner/i?img=/photo/2026/1124/r1750646_608x342_16-9.jpg&w=220) ## NBA buzz: Latest on trades, news, roster moves and intel for the 2026-27 season The NBA is back. The buzz never left. Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders. * 5h * ESPN staff](https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals)
 
 [All NBA News](https://www.espn.com/nba/)
 
 Sponsored Headlines
 
-[](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds)[3 Genius Gadgets Every Iowa Gardener Wants Turn Boring Yards Into An Endless Harvest Wild Vine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://wildvineco.com/pages/v-wildvine-list-2-3-small-backyard-finds "3 Genius Gadgets Every Iowa Gardener Wants")
+[](https://healthylife-mag.com/nv-pv-tb-letter-v3)[Up at Night to Urinate? It's Not the Water, It's This Two things keep calling you back before morning. Most men only work on one.WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://healthylife-mag.com/nv-pv-tb-letter-v3 "Up at Night to Urinate? It's Not the Water, It's This")
 
 Undo
 
-[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)
-
-Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
+[](https://track.joinative.com/258375c9-7a58-41ad-948c-ad451f811357)[North Charleston Clinic Is Giving Away Free Hearing Tests (See If You Qualify)HearingLife | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://track.joinative.com/258375c9-7a58-41ad-948c-ad451f811357 "North Charleston Clinic Is Giving Away Free Hearing Tests (See If You Qualify)")
 
 Undo
 
-Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+[](https://l.ottoinsurance.com/n)[Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)Car insurance prices vary by ZIP more than most drivers realize OTTO Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Click Here](https://l.ottoinsurance.com/n "Most Expensive Zip Codes for Insurance in South Carolina (Is Yours On The List?)")
 
 Undo
 
