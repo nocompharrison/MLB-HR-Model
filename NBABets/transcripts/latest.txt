@@ -1,20 +1,23 @@
-# NBABets transcripts | 2026-11-24 | updated 2026-11-24 18:54 ET
+# NBABets transcripts | 2026-11-25 | updated 2026-11-25 11:15 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 0 files in NBABets/transcripts/2026-11-24:
-
+# 1 files in NBABets/transcripts/2026-11-25:
+NBABets/transcripts/2026-11-25/qyeNwTv5v_g_ChrisBets_Nov_25th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
+# also filed this run under the slate their titles name: NBABets/transcripts/2026-11-24
 
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
 UPCOMING JayMoney OWq7igW3c2E Free NBA Cup Picks with Jay Money & The Shark Wednesday  (not aired yet - scheduled for 11/25/26 1:00PM)
-NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod cFHyzUiKpPc NBA Wednesday Picks - 11/25/26 | NBA Bets, Player Props and   (not aired yet - scheduled for 11/24/26 9:05PM)
+NEW     NBABets/transcripts/2026-11-25/qyeNwTv5v_g_ChrisBets_Nov_25th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt  (4,359 words)
+NEW     NBABets/transcripts/2026-11-24/xfaTnjxvzIM_ChrisBets_Nov_24th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt  (2,503 words)
+UPCOMING NBAGamblingPod uce6LaVr4J4 NBA Friday Picks - 11/27/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/26/26 9:05PM)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
 NONE    channel PickemNBA: nothing new in the date window (or everything already saved)
 NONE    channel CemirGamble: nothing new in the date window (or everything already saved)
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
-UPCOMING ActionNetwork EaZv19GFC2Y Top NBA Sides, Totals & Player Props for Wednesday! | Bucket  (not aired yet - scheduled for 11/24/26 11:00PM)
+NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine 6TQmvOprsJo Packers-Rams Bets + NBA Picks + NHL | Early Edge  (not aired yet - scheduled for 11/25/26 10:00AM)
+NOCAPS  SportsLine 6TQmvOprsJo Packers-Rams Bets + NBA Picks + NHL | Early Edge  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
