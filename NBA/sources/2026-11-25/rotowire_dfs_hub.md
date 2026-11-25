@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-25 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-25 18:50 ET -->
 
 # NBA DFS Picks Today
 November 25, 2026
@@ -23,6 +23,18 @@ Stay on top of the most important news impacting today's slate with our live new
 Wednesday, November 25 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (18) All NBA news Brooklyn Nets (BKN @ MIL) Charlotte Hornets (CHI @ CHA) Chicago Bulls (CHI @ CHA) Cleveland Cavaliers (CLE @ NYK) Golden State Warriors (SAC @ GSW) Houston Rockets (PHX @ HOU) Los Angeles Clippers (LAC @ MEM) Memphis Grizzlies (LAC @ MEM) Miami Heat (MIA @ PHI) Milwaukee Bucks (BKN @ MIL) Minnesota Timberwolves (MIN @ OKC) New York Knicks (CLE @ NYK) Oklahoma City Thunder (MIN @ OKC) Philadelphia 76ers (MIA @ PHI) Phoenix Suns (PHX @ HOU) Portland Trail Blazers (SAN @ POR) Sacramento Kings (SAC @ GSW) San Antonio Spurs (SAN @ POR)
+Chicago BullsCHI @ CHA - 7:00 PM ET
+**[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)** _C_ _Top_ 6:39 PM ET
+#### Starting Wednesday sans Smith
+Claxton will start in Wednesday's game against Charlotte.
+Analysis
+With Jalen Smith (illness) ruled out, Claxton will enter the starting lineup for the meeting with the Hornets. The 27-year-old's only start of the 2026-27 campaign was in the 98-94 loss to Washington on Nov. 20, and he finished that contest with 11 points, seven rebounds and one assist over 29 minutes.
+Philadelphia 76ersMIA @ PHI - 5:00 PM ET
+**[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)** _F_ OUT _Top_ 6:30 PM ET
+#### Won't return Wednesday
+Brown (hamstring) won't return to Wednesday's game against Miami, Kyle Neubeck of AllPHLY.com reports. He finished with six points (2-8 FG, 0-1 3Pt, 2-2 FT), one rebound and one assist over 17 minutes.
+Analysis
+Brown appeared to grab his left hamstring toward the end of the second quarter and checked out nearly immediately. Considering he recently missed two games because of the ailment, it wouldn't be surprising if he didn't suit up Friday in Indiana. In the meantime, Dean Wade will start the second half, with Kentavious Caldwell-Pope and Anfernee Simons in line for more minutes.
 New York KnicksCLE @ NYK - 7:30 PM ET
 **[OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)** _F_ OUT _Top_ 6:19 PM ET
 #### Doing on-court work for first time
@@ -41,19 +53,7 @@ New York KnicksCLE @ NYK - 7:30 PM ET
 Towns (knee) is available for Wednesday's game against the Cavaliers, Steve Popper of Newsday reports.
 Analysis
 As expected, Towns will suit up versus Cleveland after he was upgraded to probable earlier Wednesday. Towns is enjoying a productive start to the 2026-27 campaign, averaging 21.8 points, 13.9 rebounds, 4.0 assists, 1.0 steals, 0.7 blocks and 2.1 three-pointers in 32.6 minutes across 16 regular-season outings.
-New York KnicksCLE @ NYK - 7:30 PM ET
-**[Jalen Brunson](https://www.rotowire.com/basketball/player/jalen-brunson-4405)** _G_ _Top_ 5:56 PM ET
-#### Available to play Wednesday
-Brunson (illness) is available for Wednesday's game against the Cavaliers, Ian Begley of SportsNet New York reports.
-Analysis
-Brunson popped on the injury report due to an illness but will avoid his first absence of the 2026-27 campaign. In two meetings with Cleveland this season, the 30-year-old is averaging 29.0 points, 4.5 rebounds and 7.0 assists while shooting 40.0 percent from deep over 34.5 minutes per contest.
-Sacramento KingsSAC @ GSW - 10:00 PM ET
-**[Zach LaVine](https://www.rotowire.com/basketball/player/zach-lavine-3597)** _F_ OUT _Top_ 5:40 PM ET
-#### Ruled out Wednesday
-LaVine (knee) is listed as out for Wednesday's game versus the Warriors.
-Analysis
-LaVine will miss his second game of the 2026-27 campaign. His next opportunity to play will come Sunday against the Timberwolves. In the meantime, Leaky Black, Emanuel Sharp and Malik Monk are candidates for more minutes, with one of those players expected to move into the starting lineup.
-Show 5 more (29 remaining)
+Show 5 more (31 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,9 +63,9 @@ DraftKings FanDuel
 Nov 27 - Main Slate - 7 games - 7:00 PM (lineups pending) Main Slate - 6 games - 7:00 PM Nov 27 - Main Slate - 4 games - 9:30 PM (lineups pending) Main Slate - 2 games - 10:00 PM Nov 27 - Main Slate - 2 games - 8:00 PM (lineups pending) Nov 27 - Main Slate - 3 games - 7:30 PM (lineups pending) Main Slate - 2 games - 8:00 PM Main Slate - 2 games - 7:30 PM Nov 27 - Showdown - LAL @ SAS - 10:30 PM (lineups pending) Showdown - SAS @ POR - 11:00 PM Showdown - CHI @ CHA - 7:00 PM Nov 27 - Showdown - DAL @ PHX - 9:00 PM (lineups pending) Nov 27 - Showdown - LAL @ SAS - 9:30 PM (lineups pending) Nov 27 - Showdown - MIA @ NYK - 7:00 PM (lineups pending) Showdown - MIA @ PHI - 5:00 PM Showdown - MIN @ OKC - 7:30 PM Showdown - PHX @ HOU - 8:30 PM Showdown - SAS @ POR - 10:00 PM Nov 27 - Main Slate - 7 games - 7:00 PM (lineups pending) Main Slate - 6 games - 7:00 PM All games (6) CHI @ CHA - 7:00 PM ET CLE @ NYK - 7:30 PM ET MIN @ OKC - 7:30 PM ET LAC @ MEM - 8:00 PM ET BKN @ MIL - 8:00 PM ET PHX @ HOU - 8:30 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **CHI @ CHA**
-O/U 217.57:00 PM ET
-BullsExpectedAway
-_Implied_**106.5** _Spread_**+4.5**  
+O/U 218.57:00 PM ET
+BullsConfirmedAway
+_Implied_**107.5** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Nic Claxton  | -  | 27.4  |  
@@ -73,8 +73,8 @@ _Implied_**106.5** _Spread_**+4.5**
 | PG  | Josh Giddey  | $7,800  | 39.0  |  
 | SF  | Isaac Okoro  | $4,400  | 20.5  |  
 | SG  | Buddy Hield  | $5,000  | 24.2  |  
-HornetsExpectedHome
-_Implied_**111.0** _Spread_**-4.5**  
+HornetsConfirmedHome
+_Implied_**111.0** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Moussa Diabate  | $6,000  | 28.8  |  
@@ -83,9 +83,9 @@ _Implied_**111.0** _Spread_**-4.5**
 | SF  | Sion James  | $4,100  | 18.4  |  
 | SG  | Brandon Miller  | $7,400  | 38.2  |  
 **CLE @ NYK**
-O/U 219.57:30 PM ET
+O/U 220.57:30 PM ET
 CavaliersExpectedAway
-_Implied_**107.5** _Spread_**+4.5**  
+_Implied_**108.0** _Spread_**+4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Jarrett Allen  | $6,800  | 30.8  |  
@@ -94,7 +94,7 @@ _Implied_**107.5** _Spread_**+4.5**
 | SF  | Sam Merrill  | $3,900  | 17.2  |  
 | SG  | Donovan Mitchell  | $8,900  | 38.9  |  
 KnicksExpectedHome
-_Implied_**112.0** _Spread_**-4.5**  
+_Implied_**112.5** _Spread_**-4.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $9,700  | 49.9  |  

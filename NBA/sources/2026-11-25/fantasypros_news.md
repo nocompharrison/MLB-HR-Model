@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 18:35 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-25 18:50 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,48 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Zach LaVine](https://images.fantasypros.com/images/players/nba/2912/headshot/100x100.png)](https://www.fantasypros.com/nba/players/zach-lavine.php)
+G - SAC
+[» Rankings](https://www.fantasypros.com/nba/players/zach-lavine.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/zach-lavine.php)  
+[» More News](https://www.fantasypros.com/nba/news/zach-lavine.php)
+[Zach LaVine (knee) ruled out Wednesday ](https://www.fantasypros.com/nba/news/622601/zach-lavine-knee-ruled-out-wednesday.php)  
+
+Wed, Nov 25th 6:28pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Zach LaVine has been ruled out for Wednesday’s game against the Warriors. 
+**_Fantasy Impact:_** LaVine had been a late addition to the injury report. Malik Monk should see more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Sion James](https://images.fantasypros.com/images/players/nba/6385/headshot/100x100.png)](https://www.fantasypros.com/nba/players/sion-james.php)
+G - CHA
+[» Rankings](https://www.fantasypros.com/nba/players/sion-james.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/sion-james.php)  
+[» More News](https://www.fantasypros.com/nba/news/sion-james.php)
+[Sion James (thigh) available Wednesday ](https://www.fantasypros.com/nba/news/622600/sion-james-thigh-available-wednesday.php)  
+
+Wed, Nov 25th 6:27pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Sion James is available for Wednesday’s game against the Bulls.
+**_Fantasy Impact:_** James should continue to start in place of Grayson Allen. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jalen Smith](https://images.fantasypros.com/images/players/nba/5126/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jalen-smith.php)
+F - CHI
+[» Rankings](https://www.fantasypros.com/nba/players/jalen-smith.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jalen-smith.php)  
+[» More News](https://www.fantasypros.com/nba/news/jalen-smith.php)
+[Jalen Smith (illness) ruled out Wednesday ](https://www.fantasypros.com/nba/news/622599/jalen-smith-illness-ruled-out-wednesday.php)  
+
+Wed, Nov 25th 6:26pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jalen Smith has been ruled out for Wednesday’s game against the Hornets. 
+**_Fantasy Impact:_** Smith will be sidelined after being listed as questionable. Nic Claxton should start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Josh Hart](https://images.fantasypros.com/images/players/nba/3345/headshot/100x100.png)](https://www.fantasypros.com/nba/players/josh-hart.php)
 G - NYK
 [» Rankings](https://www.fantasypros.com/nba/players/josh-hart.php)  
@@ -241,48 +283,6 @@ Wed, Nov 25th 10:04am EST
 By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
 Neemias Queta scored 21 points (9-11 FG, 3-3 FT) to go with five rebounds and two blocks in Tuesday's 131-116 win over the Wizards. 
 **_Fantasy Impact:_** Queta reached 20 points for the first time this season on Tuesday night with impressive efficiency. Over his last six game, the veteran 7-footer has recorded double-digit points four times and double-digit boards three times. In that span, Queta has averaged 13.0 points, 8.5 rebounds, and 1.3 blocks per contest. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jayson Tatum](https://images.fantasypros.com/images/players/nba/3316/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jayson-tatum.php)
-F - BOS
-[» Rankings](https://www.fantasypros.com/nba/players/jayson-tatum.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jayson-tatum.php)  
-[» More News](https://www.fantasypros.com/nba/news/jayson-tatum.php)
-[Jayson Tatum erupts for 41 points Tuesday night](https://www.fantasypros.com/nba/news/622503/jayson-tatum-erupts-41-points-tuesday-night.php)  
-
-Wed, Nov 25th 9:56am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Jayson Tatum finished with 41 points (13-25 FG, 6-15 3PT, 9-14 FT), eight assists, six rebounds, and two blocks in Tuesday's 131-116 win over the Wizards. 
-**_Fantasy Impact:_** Tatum continues to play at an MVP level of late. Over his last five games, the six-time All-Star has averaged 29.6 points, 8.4 rebounds, and 5.4 assists. In the same span, Tatum has knocked down 4.2 threes per contest at a 40.4% clip. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![AJ Dybantsa](https://images.fantasypros.com/images/players/nba/6502/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aj-dybantsa.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/aj-dybantsa.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/aj-dybantsa.php)  
-[» More News](https://www.fantasypros.com/nba/news/aj-dybantsa.php)
-[AJ Dybantsa approaches triple-double in Tuesday's loss](https://www.fantasypros.com/nba/news/622502/aj-dybantsa-approaches-triple-double-tuesdays-loss.php)  
-
-Wed, Nov 25th 9:47am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-AJ Dybantsa finished with 20 points (7-18 FG, 2-6 3PT, 4-5 FT), 11 rebounds, and seven assists in Tuesday's 131-116 loss to the Celtics. 
-**_Fantasy Impact:_** Dybantsa put up his fourth 20-plus-point performance in his last five games Tuesday night. The rookie has recorded three double-doubles in that span, averaging 20.0 points, 9.2 rebounds, and 4.8 assists per game. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Kyshawn George](https://images.fantasypros.com/images/players/nba/6146/headshot/100x100.png)](https://www.fantasypros.com/nba/players/kyshawn-george.php)
-F - WAS
-[» Rankings](https://www.fantasypros.com/nba/players/kyshawn-george.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/kyshawn-george.php)  
-[» More News](https://www.fantasypros.com/nba/news/kyshawn-george.php)
-[Kyshawn George scores 24 points in Tuesday's loss](https://www.fantasypros.com/nba/news/622501/kyshawn-george-scores-24-points-tuesdays-loss.php)  
-
-Wed, Nov 25th 9:44am EST  
-By [Nate Miller](https://www.fantasypros.com/news/correspondents/nate-miller.php)
-Kyshawn George put up 24 points (9-20 FG, 4-12 3PT, 2-2 FT) and pulled down nine rebounds in Tuesday's 131-116 loss to the Celtics. 
-**_Fantasy Impact:_** George has scored 24 points in back-to-back games and 20 in three of his last four games. The third-year pro has knocked down 15 threes at a 37.5% clip during that stretch, averaging 19.8 points overall. 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

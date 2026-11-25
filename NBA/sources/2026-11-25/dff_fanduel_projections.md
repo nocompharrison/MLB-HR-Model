@@ -1,7 +1,7 @@
-<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-25 18:35 ET -->
+<!-- source: https://www.dailyfantasyfuel.com/nba/projections/fanduel | fetched: 2026-11-25 18:50 ET -->
 
 #  FANDUEL  NBA PROJECTIONS
-_Updated At:_ Wed, Nov 25, 2026, 6:21 PM ET
+_Updated At:_ Wed, Nov 25, 2026, 6:44 PM ET
 [DraftKings](https://www.dailyfantasyfuel.com/nba/projections/draftkings) [FanDuel](https://www.dailyfantasyfuel.com/nba/projections/fanduel)
 6 GAME SLATE:
 WED 7:00PM ET · Main
@@ -28,7 +28,7 @@ Main · 6 Game Slate · 7:00PM ET
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) T. Herro  PG/PG · $7100 FPTS 36.8 VALUE 5.2x  | PG/PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIL.svg) Tyler Herro   |  $7.1k  | EXP.  | MIL  | BKN  | 4  |  36.8  | 5.18  |   | 37.8  | 35.4  | 35.4  | 234.5  | 118  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) B. Miller  SG · $7200 FPTS 36.6 VALUE 5.1x  | SG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHA.svg) Brandon Miller   |  $7.2k  | EXP.  | CHA  | CHI  | 30  |  36.6  | 5.09  |   | 26.6  | 30.1  | 32.0  | 218.5  | 111.5  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) D. Booker  PG · $8000 FPTS 36.2 VALUE 4.5x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/PHO.svg) Devin Booker   |  $8.0k  | EXP.  | PHO  | HOU  | 13  |  36.2  | 4.53  |   | 37.9  | 39.7  | 38.2  | 222.5  | 106.5  |  
-|  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey  PG · $7000 FPTS 36.2 VALUE 5.2x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey   |  $7.0k  | EXP.  | CHI  | CHA  | 24  |  36.2  | 5.17  |   | 35.9  | 34.0  | 31.4  | 218.5  | 107  |  
+|  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey  PG · $7000 FPTS 36.2 VALUE 5.2x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/CHI.svg) Josh Giddey   |  $7.0k  | YES  | CHI  | CHA  | 24  |  36.2  | 5.17  |   | 35.9  | 34.0  | 31.4  | 218.5  | 107  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball  PG · $7300 FPTS 35.7 VALUE 4.9x  | PG  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/MIN.svg) LaMelo Ball   |  $7.3k  | EXP.  | MIN  | OKC  | 12  |  35.7  | 4.89  |   | 28.6  | 33.8  | 32.9  | 222.5  | 110  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) K. Durant  SF · $7100 FPTS 35.6 VALUE 5.0x  | SF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/HOU.svg) Kevin Durant   |  $7.1k  | EXP.  | HOU  | PHO  | 18  |  35.6  | 5.01  |   | 33.7  | 34.9  | 35.2  | 222.5  | 116  |  
 |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) I. Hartenstein  C/PF · $6500 FPTS 34.6 VALUE 5.3x  | C/PF  |  ![](https://dff-images.s3.amazonaws.com/logos/nba/OKC.svg) Isaiah Hartenstein   |  $6.5k  | EXP.  | OKC  | MIN  | 12  |  34.6  | 5.32  |   | 27.0  | 31.2  | 29.2  | 222.5  | 112.5  |  

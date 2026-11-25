@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 18:35 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-25 18:50 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,21 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![CHI](https://assets.rotowire.com/images/teamlogo/basketball/100CHI.png?v=10)
+[Nic Claxton](https://www.rotowire.com/basketball/player/nic-claxton-4827)[Starting Wednesday sans Smith](https://www.rotowire.com/basketball/headlines/nic-claxton-news-starting-wednesday-sans-smith-540992)
+**C** Chicago Bulls
+November 25, 2026
+Claxton will [start](https://x.com/chicagobulls/status/2125735305483555204?s=20) in Wednesday's game against Charlotte.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)[Won't return Wednesday](https://www.rotowire.com/basketball/headlines/jaylen-brown-injury-wont-return-wednesday-540991)
+**F** Philadelphia 76ers
+Hamstring
+November 25, 2026
+Brown (hamstring) won't return to Wednesday's game against Miami, [Kyle Neubeck of AllPHLY.com](https://x.com/KyleNeubeck/status/2125732419286577190?a=bR46Ta8N7OjKRWUdg_4&s=20) reports. He finished with six points (2-8 FG, 0-1 3Pt, 2-2 FT), one rebound and one assist over 17 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [OG Anunoby](https://www.rotowire.com/basketball/player/og-anunoby-4121)[Doing on-court work for first time](https://www.rotowire.com/basketball/headlines/og-anunoby-injury-doing-on-court-work-for-first-time-540990)
 **F** New York Knicks
@@ -180,20 +195,6 @@ Williams chipped in six points (2-2 FG, 2-2 FT), six rebounds, one assist and tw
 **G** Philadelphia 76ers
 November 25, 2026
 Simons recorded three points (1-3 FG, 0-1 3Pt, 1-2 FT) in 18 minutes during Monday's 128-111 loss to Portland.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![CHA](https://assets.rotowire.com/images/teamlogo/basketball/100CHA.png?v=10)
-[Tidjane Salaun](https://www.rotowire.com/basketball/player/tidjane-salaun-6262)[Defensive contributions in loss](https://www.rotowire.com/basketball/headlines/tidjane-salaun-news-defensive-contributions-in-loss-540966)
-**F** Charlotte Hornets
-November 25, 2026
-Salaun produced zero points (0-2 FG, 0-1 3Pt), five rebounds, one assist, one block and two steals over 17 minutes during Monday's 117-111 loss to Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
-[Taylor Hendricks](https://www.rotowire.com/basketball/player/taylor-hendricks-5903)[Struggles with shot in victory](https://www.rotowire.com/basketball/headlines/taylor-hendricks-news-struggles-with-shot-in-victory-540965)
-**F** Memphis Grizzlies
-November 25, 2026
-Hendricks closed Monday's 117-111 win over the Hornets with three points (1-5 FG, 1-4 3Pt), four rebounds and one assist across 24 minutes.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
