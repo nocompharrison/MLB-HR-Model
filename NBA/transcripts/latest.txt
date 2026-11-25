@@ -1,6 +1,6 @@
-# NBA transcripts | 2026-11-25 | updated 2026-11-25 18:36 ET
+# NBA transcripts | 2026-11-25 | updated 2026-11-25 18:51 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 19 files in NBA/transcripts/2026-11-25:
+# 20 files in NBA/transcripts/2026-11-25:
 NBA/transcripts/2026-11-25/6TQmvOprsJo_SportsLine_Packers_vs_Rams_Picks_Thanksgiving_Eve_NFL_Bets_NBA_NHL_Early_Edge.txt
 NBA/transcripts/2026-11-25/EaZv19GFC2Y_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Wednesday_Buckets_Podcast.txt
 NBA/transcripts/2026-11-25/FOpf_8aIeKA_FantasyAces_7_0_Sweep_Best_NBA_Picks_Bets_for_Wednesday_11_25.txt
@@ -18,6 +18,7 @@ NBA/transcripts/2026-11-25/cFHyzUiKpPc_NBAGamblingPod_NBA_Wednesday_Picks_11_25_
 NBA/transcripts/2026-11-25/hs0MmM3jkJc_PickDawgz_NBA_Picks_Wednesday_11_25_26_Jay_s_NBA_Jam_Session.txt
 NBA/transcripts/2026-11-25/iC_36O3xgRg_LandYourBets_My_Top_2_NBA_Player_Prop_Best_Bets_NBA_Cup_Wednesday_Slate_Deep_Dive_N.txt
 NBA/transcripts/2026-11-25/iFwa1tp7kS8_PickDawgz_NBA_Picks_Today_11_25_26_Best_Wednesday_NBA_Bets_are_ON_DECK.txt
+NBA/transcripts/2026-11-25/wdvd4HCKj6c_FantasyAlarm_NBA_DFS_Picks_Today_11_25_DraftKings_Lineup_Strategy_Top_Values.txt
 NBA/transcripts/2026-11-25/xL1Bz3e_JNQ_WagerTalk_NBA_Picks_TODAY_Timberwolves_vs_Thunder_Spurs_vs_Timberwolves_Wednesda.txt
 NBA/transcripts/2026-11-25/zIwIg1X_DPc_Stokastic_NBA_DFS_Strategy_Wednesday_11_25_26_DraftKings_FanDuel_NBA_Lineup_Pick.txt
 
@@ -44,7 +45,7 @@ UPCOMING SportsLine SuRajuQJWE4 Broncos vs Steelers Picks: Black Friday NFL Bets
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NOCAPS  FantasyAlarm wdvd4HCKj6c NBA DFS Picks Today 11/25 | DraftKings Lineup Strategy & Top  (no captions; Groq skipped this run (not enough Groq allowance left today (11 min left)))
+NEW     NBA/transcripts/2026-11-25/wdvd4HCKj6c_FantasyAlarm_NBA_DFS_Picks_Today_11_25_DraftKings_Lineup_Strategy_Top_Values.txt  (9,270 words)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NOCAPS  KrisFDHelp geHI-jZoMX4 NBA FanDuel Top Plays LIVE! 11/25/26  (no captions; Groq skipped this run (not enough Groq allowance left today (11 min left)))
