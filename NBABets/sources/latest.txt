@@ -1,8 +1,8 @@
-# NBA betting sources | Tue 11/24/2026 | updated 2026-11-24 18:53 ET
+# NBA betting sources | Wed 11/25/2026 | updated 2026-11-25 11:14 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-24/covers_top_picks.md       no changes since 2026-11-24 18:09  https://www.covers.com/nba/top-picks-nov-24-2026
-OK      NBABets/sources/2026-11-24/covers_ats_picks.md       no changes since 2026-11-24 18:09  https://www.covers.com/nba/against-the-spread-predictions-picks-nov-24-2026
-OK      NBABets/sources/2026-11-24/rotowire_bets.md          UPDATED (changed since 2026-11-24 18:39) 24,128 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-tuesday-nov-24-147940
-OK      NBABets/sources/2026-11-24/fanduel_research_bets.md  UPDATED (changed since 2026-11-24 18:39) 14,508 chars [today's 1 article(s)] https://www.fanduel.com/research/6-best-nba-bets-and-nba-player-props-today-tuesday-november-24-2026
-OK      NBABets/sources/2026-11-24/bettingpros_bets.md       no changes since 2026-11-24 18:09  https://www.bettingpros.com/articles/sports/nba/
+FAILED  NBABets/sources/2026-11-25/covers_top_picks.md       HTTP 404                           https://www.covers.com/nba/top-picks-nov-25-2026
+FAILED  NBABets/sources/2026-11-25/covers_ats_picks.md       HTTP 404                           https://www.covers.com/nba/against-the-spread-predictions-picks-nov-25-2026
+FAILED  NBABets/sources/2026-11-25/rotowire_bets.md          no article dated today yet (browser saw 138 links, Jina 482) https://www.rotowire.com/betting/nba/picks/
+FAILED  NBABets/sources/2026-11-25/fanduel_research_bets.md  no article dated today yet (browser saw 261 links, Jina 487) https://www.fanduel.com/research/nba
+OK      NBABets/sources/2026-11-25/bettingpros_bets.md       196,747 chars [4 of 4 articles combined] https://www.bettingpros.com/articles/sports/nba/
