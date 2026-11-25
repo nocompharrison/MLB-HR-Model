@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-25 11:18 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-25 17:03 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,67 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
+[Robert Wright](https://www.rotowire.com/cbasketball/player/robert-wright-23485)
+Remains out Wednesday
+**G** BYU
+Undisclosed
+November 25, 2026
+Wright (undisclosed) is out for Wednesday's Maui Invitational game against Providence, [Greg Wrubell of BYU Athletics](https://x.com/gregwrubell/status/2125708003836141731) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
+[Dawson Baker](https://www.rotowire.com/cbasketball/player/dawson-baker-17545)
+Available Wednesday
+**G** BYU
+November 25, 2026
+Baker (undisclosed) is available for Wednesday's Maui Invitational game against Providence after taking a scheduled rest day Tuesday, per [Greg Wrubell of BYU Athletics](https://x.com/gregwrubell/status/2125708003836141731).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Colorado](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado.png?v=16)
+[Justin Neely](https://www.rotowire.com/cbasketball/player/justin-neely-19888)
+Big production off bench
+**F** Colorado
+November 25, 2026
+Neely finished Wednesday's 70-65 win over Stanford with 16 points (5-8 FG, 2-2 3Pt, 4-5 FT), seven rebounds, two assists, one block and one steal over 23 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Kentucky](https://assets.rotowire.com/images/teamlogo/cbasketball/Kentucky.png?v=16)
+[Malachi Moreno](https://www.rotowire.com/cbasketball/player/malachi-moreno-26015)
+Not expected to play Friday
+**C** Kentucky
+Concussion
+November 25, 2026
+Moreno (concussion) is day-to-day but is not expected to play Friday against Wichita State, according to [Jeff Drummond of Rivals.com](https://x.com/JDrumUK/status/2125679995586576891).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Aiden Tobiason](https://www.rotowire.com/cbasketball/player/aiden-tobiason-23776)
+Remains questionable Wednesday
+**G** Syracuse
+Hamstring
+November 25, 2026
+Tobiason (hamstring) is questionable for Wednesday's game against Albany, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125647085852877219) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Syracuse](https://assets.rotowire.com/images/teamlogo/cbasketball/Syracuse.png?v=16)
+[Garwey Dual](https://www.rotowire.com/cbasketball/player/garwey-dual-22546)
+Remains GTD for Wednesday
+**G** Syracuse
+Ankle
+November 25, 2026
+Dual (ankle) is a game-time decision for Wednesday's game against Albany, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125647085852877219) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Illinois](https://assets.rotowire.com/images/teamlogo/cbasketball/Illinois.png?v=16)
+[Ethan Brown](https://www.rotowire.com/cbasketball/player/ethan-brown-28106)
+Undergoes surgery, game status TBD
+**G** Illinois
+Nose
+November 25, 2026
+Brown (nose) underwent surgery Wednesday, and whether he will be available or out for Illinois' upcoming game Friday against Western Kentucky is unknown, according to [Scott Richey of The Champaign News-Gazette](https://x.com/srrichey/status/2125639864297423199).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Kansas State](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas-State.png?v=16)
 [Dez Lindsay](https://www.rotowire.com/cbasketball/player/dez-lindsay-23792)
 Tallies 16 off bench
@@ -149,63 +210,6 @@ Active versus VCU
 **F** Colorado State
 November 24, 2026
 Jorgensen (face) is [playing](https://x.com/CSUMBasketball/status/2125435802591359326) in Tuesday's Maui Invitational game against VCU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[George Kimble](https://www.rotowire.com/cbasketball/player/george-kimble-26070)
-Nabs six steals from bench role
-**G** Auburn
-November 24, 2026
-Kimble racked up four points (2-5 FG, 0-2 3Pt), three rebounds, four assists, one block and six steals in 17 minutes during Tuesday's 101-66 victory over Lipscomb.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Auburn](https://assets.rotowire.com/images/teamlogo/cbasketball/Auburn.png?v=16)
-[Kevin Overton](https://www.rotowire.com/cbasketball/player/kevin-overton-22799)
-Starts, scores 15
-**G** Auburn
-November 24, 2026
-Overton logged a season-high 15 points (5-10 FG, 1-3 3Pt, 4-4 FT), five rebounds, four assists and one steal across 21 minutes during Tuesday's 101-66 victory over Lipscomb.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Tyler Tanner](https://www.rotowire.com/cbasketball/player/tyler-tanner-23697)
-Scores 20, keeps boarding
-**G** Vanderbilt
-November 24, 2026
-Tanner ended Tuesday's 72-66 win over Ohio State with 20 points (6-16 FG, 2-6 3Pt, 6-7 FT), seven rebounds, four assists and four steals across 37 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Vanderbilt](https://assets.rotowire.com/images/teamlogo/cbasketball/Vanderbilt.png?v=16)
-[Ace Glass](https://www.rotowire.com/cbasketball/player/ace-glass-27661)
-Struggles, then hits key free throws
-**G** Vanderbilt
-November 24, 2026
-Glass accumulated 11 points (3-10 FG, 1-6 3Pt, 4-4 FT), four rebounds, two assists and one steal across 21 minutes during Tuesday's 72-66 win over Ohio State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[London Jemison](https://www.rotowire.com/cbasketball/player/london-jemison-25992)
-Out of starting five
-**F** Alabama
-November 24, 2026
-Jemison isn't starting in Tuesday's Player Era 16 game against Baylor, per [Charlie Potter of 247Sports.com](https://x.com/Charlie_Potter/status/2125423346322133102).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Alabama](https://assets.rotowire.com/images/teamlogo/cbasketball/Alabama.png?v=16)
-[Jamarion Davis-Fleming](https://www.rotowire.com/cbasketball/player/jamarion-davis-fleming-26125)
-Available Tuesday
-**F** Alabama
-November 24, 2026
-Davis-Fleming (leg) is available for Tuesday's Players Era 16 contest against Baylor, per [Blake Byler of On3](https://x.com/blakebyler45/status/2125418284069597555).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Seton Hall](https://assets.rotowire.com/images/teamlogo/cbasketball/Seton-Hall.png?v=16)
-[Devin Williams](https://www.rotowire.com/cbasketball/player/devin-williams-22368)
-Listed as day-to-day
-**F** Seton Hall
-Quadriceps
-November 24, 2026
-Williams (quadriceps) is day-to-day and should be considered questionable for Saturday's game against Siena, according to [Jerry Carino of the Asbury Park Press](https://x.com/NJHoopsHaven/status/2125415503837774022).
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

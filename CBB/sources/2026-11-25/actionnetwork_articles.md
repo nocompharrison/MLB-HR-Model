@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-25 11:18 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-25 17:03 ET -->
 
 
 ---
@@ -115,175 +115,955 @@ Duke vs. UConn
 Right Arrow
 Wake Forest vs. Mississippi State
 ### Top Stories
-[![Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
+[![Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Hurley.png)](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
 NCAAB
-[Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
+[Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Jonathan Jorcin
+9 hours ago
+[![USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/USC-Gamecocks-25112026.jpg)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+11 hours ago
+[![Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-college-basketball-odds-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
 Colby Marchio
-10 hours ago
+11 hours ago
+[![Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Mississippi-State-11_25_26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+9 hours ago
 [ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
 NCAAB
 [College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
 Alex Kolodziej
-3 hours ago
-[![Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/DonovanDent-LSU-11252026.jpg)](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
+1 hour ago
+[![Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
 NCAAB
-[Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Ryan Minion
-6 hours ago
-[![Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
 Greg Waddell
-5 hours ago
-[![Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/arizona-vs-ole-miss-prediction-pick-college-basketball-odds-for-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-Sean Paul
-5 hours ago
-[![College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-NCAAB
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-Ryan Minion
 1 hour ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c8c3ab37-35f7-4675-ac13-28d6b9dfa619&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=472a14c6-c6d0-4ab7-bd79-899c3aeb243a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c8c3ab37-35f7-4675-ac13-28d6b9dfa619&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=472a14c6-c6d0-4ab7-bd79-899c3aeb243a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=21bcfb7d-2753-471f-85ac-f8db25deedfc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=472a14c6-c6d0-4ab7-bd79-899c3aeb243a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=7694&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=21bcfb7d-2753-471f-85ac-f8db25deedfc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=472a14c6-c6d0-4ab7-bd79-899c3aeb243a&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=7694&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ae665509-efa1-47ea-bdc0-923bd388f9d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b973e89c-fcf2-4f38-aa58-b8feb7e1cfd4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ae665509-efa1-47ea-bdc0-923bd388f9d0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b973e89c-fcf2-4f38-aa58-b8feb7e1cfd4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=04d40184-b75a-496f-89b5-2733d209c3ec&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b973e89c-fcf2-4f38-aa58-b8feb7e1cfd4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=7660&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=04d40184-b75a-496f-89b5-2733d209c3ec&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=b973e89c-fcf2-4f38-aa58-b8feb7e1cfd4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-feast-week-picks-wednesday-november-25&tw_engaged_ms=7660&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25
+## SOURCE: https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25
+# Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+[Jonathan Jorcin](https://www.actionnetwork.com/article/author/jjorcin)
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 25, 2026, 02:26 PM EST
+Updated:
+Nov 25, 2026, 02:26 PM EST
+Credit:
+IMAGN IMAGES via Reuters Connect. Pictured: Dan Hurley (UConn)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The Duke Blue Devils take on the UConn Huskies in Las Vegas, Nevada. Tip-off is set for 7 p.m. ET on Amazon Prime Video.
+UConn is favored by -1.5 points on the spread with a moneyline of -120. The total is set at 145.5 points.
+Here’s my **Duke vs. UConn prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
+* * *
+## Duke vs UConn Prediction
+**Pick:[ Under 150.5 (Play to 149.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247265813&context=playbook-slack-quickslip&sport=basketball)**
+My**Duke vs UConn best bet** is on the under. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Duke vs UConn Odds, Spread, Total
+[![Duke Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)](https://www.actionnetwork.com/ncaab/odds/duke-blue-devils)
+Wednesday, Nov 25
+7 p.m. ET
+Amazon Prime Video
+[![UConn Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uconn.png)](https://www.actionnetwork.com/ncaab/odds/connecticut-huskies)  
+| Duke Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +1.5 -112  |  145.5 -110o / -110u  | +100  |  
+| UConn Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -1.5 -108  |  145.5 -110o / -110u  | -120  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Duke vs UConn spread:** Duke +1.5 (-112), UConn -1.5 (-108)
+  * **Duke vs UConn over/under:** 145.5 (-110o / -110u)
+  * **Duke vs UConn moneyline:** Duke +100, UConn -120
+
+
+* * *
+## Duke vs UConn Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
+### Duke Basketball
+This Duke team is battle-tested, but the Blue Devils haven’t been on the right side of their most important games.
+They beat Army by 34, Coastal Carolina by 61, SIUE by 33 and barely held off Washington State by four. Meanwhile, their losses were a wire-to-wire defeat to Michigan State and a 21-point thumping by Illinois. The Illinois loss was also a true home game.
+The Blue Devils don't have time to lick their wounds either. They have this meeting against UConn preceding games against Florida, Georgia and Texas Tech.
+They play at a high tempo, ranking 45th in adjusted tempo and 10th in average possession length before a shot attempt.
+But watching them play, they haven't been able to hit enough transition 3-pointers. They rank just inside the top 300 in 3-point percentage, but rely on the triple for 44.9% of their points.
+Taking on a UConn team ranked ninth in defensive efficiency may be a tall order for a team trying to find its offensive identity.
+![Jonathan Jorcin](https://s3.amazonaws.com/tan-user-assets/profile_images/64173/1685081139715-57027c40fb8b11eda18dc342d78c27a8.jpg)
+[Jonathan Jorcin](https://www.actionnetwork.com/picks/profile/JonathanReno)
+Last 30d: 10-5-0 (+4.6u)
+Follow
+![DUKE](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
+![CONN](https://static.sprtactn.co/teamlogos/ncaab/100/uconn.png)
+Duke @ UConn Picks
+Today
+/
+7:00 PM on Amazon Prime Video
+•
+15.5k bets
+Under 150.5
+-110 (1.1u)
+Copy Bet
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uconn.png)
+### UConn Basketball
+UConn will look to bounce back from its first defeat of the season, a six-point loss in Arizona. The Huskies opened the season with four wins, all of which they controlled from tip to finish.
+Sophomore Braylon Mullins, projected as a first-rounder in the NBA draft, returned to school and is having a strong second season. He is averaging 20.8 points, three rebounds and 1.6 assists per game. Silas Demary Jr. also returned to Storrs, CT, for his second season in a Huskies uniform.
+Dan Hurley has always had a talented roster since joining UConn as head man, but this season might consist of the most depth he's had. He has five players averaging double digits, all of whom also average at least three rebounds per game.
+UConn is currently ranked 12th and ninth in offensive and defensive efficiencies, respectively, but it has done it at a bit faster pace than usual. The Huskies are 281st in adjusted tempo after not ranking higher than 322nd in three straight seasons.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uconn.png)
+## Duke vs. UConn College Basketball Picks, Best Bet
+Both teams have scored plenty of points, and they have also seen their defense give up too many at times.
+But this game will be played at two different paces.
+UConn has had a better grasp this season, and if the Huskies can control the tempo, I expect this game to be in the high 60s.
+As the game wears on, possessions will get longer, so I like the under 151.5.
+We mentioned the ninth-ranked UConn defense, but Duke is sixth in that department. The Blue Devils also rank 13th in effective field goal percentage allowed defensively.
+Expect tough shots all around and for this one to go under.
+**Pick:[ Under 150.5 (Play to 149.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247265813&context=playbook-slack-quickslip&sport=basketball)**
+* * *
+### How To Watch Duke vs UConn
+Location:
+T-Mobile Arena in Las Vegas, NV
+Date:
+Wed, Nov 25
+Tipoff Time:
+7:00 PM EST
+TV/Streaming:
+Amazon Prime Video
+Duke vs UConn is scheduled for 7:00 PM EST live from T-Mobile Arena on Wednesday. The game will be broadcast on Amazon Prime Video.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Duke%20vs%20UConn%20Prediction%2C%20Odds%2C%20Start%20Time%3A%20College%20Basketball%20Picks%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+About the Author
+Jonathan Jorcin • Verified Action Expert
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Duke vs UConn Prediction
+Right Arrow
+Duke vs UConn Odds, Spread, Total
+Right Arrow
+Duke vs UConn Preview
+Right Arrow
+Duke Basketball
+Right Arrow
+UConn Basketball
+Right Arrow
+Duke vs. UConn College Basketball Picks, Best Bet
+Right Arrow
+How To Watch Duke vs UConn
+### Top Stories
+[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+NCAAB
+[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+Greg Waddell
+TODAY / 12:13 AM EST
+[![USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/USC-Gamecocks-25112026.jpg)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+11 hours ago
+[![Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-college-basketball-odds-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+Colby Marchio
+11 hours ago
+[![Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Mississippi-State-11_25_26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+9 hours ago
+[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+NCAAB
+[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+Alex Kolodziej
+1 hour ago
+[![Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+1 hour ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b873a60e-b590-40e8-915b-2029c74ec2b4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9550f07-68a0-49e2-a346-00e17a954173&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b873a60e-b590-40e8-915b-2029c74ec2b4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9550f07-68a0-49e2-a346-00e17a954173&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ee9e3af5-73cd-439e-b8c1-850ae10fa2fc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9550f07-68a0-49e2-a346-00e17a954173&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7701&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ee9e3af5-73cd-439e-b8c1-850ae10fa2fc&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c9550f07-68a0-49e2-a346-00e17a954173&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fduke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7701&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+[Greg Waddell](https://www.actionnetwork.com/article/author/greg-waddell)
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 25, 2026, 05:51 AM EST
+Updated:
+Nov 25, 2026, 05:51 AM EST
+Credit:
+Pictured: South Carolina Gamecocks head coach Lamont Paris. (Credit: Jeff Blake-Imagn Images)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The USC Trojans take on the South Carolina Gamecocks in Thousand Palms, CA, in the Acrisure Series. Tip-off is set for 4:30 p.m. ET on CBS Sports Network.
+USC is favored by 10.5 points on the spread with a moneyline of -550. The total is set at 151.5 points.
+Here’s my **USC vs. South Carolina prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
+* * *
+## USC vs **South** Carolina Prediction
+**Pick:[ South Carolina +10.5 (Play to +9.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3247259049&context=playbook-slack-quickslip&sport=basketball)**
+My**USC vs South Carolina best bet** is on the Gamecocks to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## USC vs **South** Carolina Odds
+[![USC Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)](https://www.actionnetwork.com/ncaab/odds/usc-trojans)
+Wednesday, Nov 25
+4:30 p.m. ET
+CBS Sports Network
+[![South Carolina Logo](https://static.sprtactn.co/teamlogos/ncaaf/100/sc.png)](https://www.actionnetwork.com/ncaab/odds/south-carolina-gamecocks)  
+| USC Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -10.5 -102  |  151.5 -110o / -110u  | -550  |  
+| South Carolina Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +10.5 -120  |  151.5 -110o / -110u  | +420  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **USC vs South Carolina spread:** USC -10.5 (-102), South Carolina +10.5 (-120)
+  * **USC vs South Carolina over/under:** 151.5 (-110o / -110u)
+  * **USC vs South Carolina moneyline:** USC -550, South Carolina +420
+
+
+* * *
+## USC vs **South** Carolina College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+### USC Basketball
+Don't look now, but Eric Musselman has a really fun basketball team. Unfortunately for Trojans fans, every time we say that out loud, that's usually when something starts to go wrong.
+Through three weeks, USC looks like one of the most explosive offensive teams in all of college hoops. The talent is real here — Rodney Rice is overqualified for college basketball as a sport at this point, and Alijah Arenas is living up to his family name.
+Both are scoring over 20 points per game, and shots are going in at an insane rate across the board.
+More on that insane rate: As a team, USC is making 42.2% of its triples, good for 11th-best in college basketball. All five of the Trojans' top five scorers are individually making 43% of their 3s or better through the first three weeks.
+The good thing? That's incredible. The bad thing? That's wildly unsustainable.
+No team in the entire sport has had better 3-point shooting splits so far than USC. Not only are the Trojans making everything at an unsustainable rate, but opposing teams are shooting just 25.6% from 3 against them, too.
+There won't be a 17% gap in shooting splits forever for this team, and South Carolina will test them there in this game.
+![Greg Waddell](https://s3.amazonaws.com/tan-user-assets/profile_images/260262/1755956453634-b3efbd7290eb4375a500d0e50e260e2b.jpg)
+[Greg Waddell](https://www.actionnetwork.com/picks/profile/gwizzy12)
+Last 30d: 1-9-1 (-32.6u)
+Follow
+7-way parlay
++14137
+Copy Bet
+![Las Vegas Raiders Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/oak.png)
+LV -145
+-145
+LV @ JAC
+•
+Nov 6th
+/
+1:00 PM
+![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
+KC -610
+-610
+TEN @ KC
+•
+Nov 6th
+/
+8:20 PM
+![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
+LAR +125
++125
+LA @ TB
+•
+Nov 6th
+/
+4:25 PM
+![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
+SEA +110
++110
+SEA @ ARI
+•
+Nov 6th
+/
+4:05 PM
+![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
+CAR +260
++260
+CAR @ CIN
+•
+Nov 6th
+/
+1:00 PM
+![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
+DET +165
++165
+GB @ DET
+•
+Nov 6th
+/
+1:00 PM
+![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
+MIN -165
+-165
+MIN @ WAS
+•
+Nov 6th
+/
+1:00 PM
+11-way parlay
++1929
+Copy Bet
+![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
+CAR +17.5
+-410
+CAR @ CIN
+•
+Nov 6th
+/
+1:00 PM
+![Los Angeles Chargers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sd.png)
+LAC +10.5
+-670
+LAC @ ATL
+•
+Nov 6th
+/
+1:00 PM
+![New England Patriots Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/ne.png)
+NE +7.5
+-620
+IND @ NE
+•
+Nov 6th
+/
+1:00 PM
+![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
+KC -610
+-610
+TEN @ KC
+•
+Nov 6th
+/
+8:20 PM
+![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
+DET +17.5
+-780
+GB @ DET
+•
+Nov 6th
+/
+1:00 PM
+![Jacksonville Jaguars Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/jac.png)
+JAX +14.5
+-630
+LV @ JAC
+•
+Nov 6th
+/
+1:00 PM
+![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
+SEA +110
++110
+SEA @ ARI
+•
+Nov 6th
+/
+4:05 PM
+![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
+LAR +10.5
+-333
+LA @ TB
+•
+Nov 6th
+/
+4:25 PM
+![Miami Dolphins Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/mia.png)
+MIA -190
+-190
+MIA @ CHI
+•
+Nov 6th
+/
+1:00 PM
+![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
+MIN -165
+-165
+MIN @ WAS
+•
+Nov 6th
+/
+1:00 PM
+![Buffalo Bills Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/buf.png)
+BUF -500
+-500
+BUF @ NYJ
+•
+Nov 6th
+/
+1:00 PM
+See All
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaaf/100/sc.png)
+### South Carolina Basketball
+Let's start with the Gamecocks' ability to defend the triple, since that will be important in this affair. It has been impressive during their five-game winning streak, as South Carolina ranks 31st nationally in limiting 3-point attempts.
+Teams shoot just one-third of their shots from outside against the Gamecocks, and when they do generate attempts, they usually miss them. South Carolina has held teams to 29.1% from outside.
+I hesitate to say that's much of a fluke. Even though last season's South Carolina team was just 13-19 overall, the one thing it did well under Lamont Paris was defend the 3-point line, ranking top-70 in both 3-point volume and percentage defense.
+But that's not the only area that South Carolina projects to frustrate USC a bit in this matchup.
+The Gamecocks' best offensive ability is getting to the free-throw line, which bodes well against an undisciplined Trojans defense. South Carolina is eighth nationally in free-throw rate, and USC is 227th in defensive free-throw rate allowed.
+Lastly, South Carolina is a good rebounding team with good size in the frontcourt. In the event that USC goes a bit cold from downtown, its athletes will crash aggressively.
+However, South Carolina should be ready. The Gamecocks are the 25th-best defensive rebounding team in the country through five games.
+Add it all up, and South Carolina has the formula to hang in this matchup and make things interesting.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaaf/100/sc.png)
+## USC vs. South Carolina Pick, Betting Analysis
+One added note that should be mentioned: South Carolina will try and drag this game into the mud.
+USC likes to play fast, and if South Carolina can force its will tempo-wise and play to its average pace (305th nationally), it could frustrate the Trojans even more.
+South Carolina is less talented across the board, but it excels in key areas needed to force USC to come back down to earth from nuclear shooting splits.
+Take the Gamecocks.
+**Pick:[ South Carolina +10.5 (Play to +9.5)](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3247259049&context=playbook-slack-quickslip&sport=basketball)**
+* * *
+### How To Watch USC vs S. Carolina
+Location:
+Acrisure Arena in Thousand Palms, CA
+Date:
+Wed, Nov 25
+Tipoff Time:
+4:30 PM EST
+TV/Streaming:
+CBS Sports Network
+USC vs S. Carolina is scheduled for 4:30 PM EST live from Acrisure Arena on Wednesday. The game will be broadcast on CBS Sports Network.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=USC%20vs%20South%20Carolina%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+About the Author
+Greg Waddell writes college basketball previews for The Action Network and is a featured guest on the BBOC podcast. He has been betting on sports for 10 years and has worked in sports betting since 2022.
+[Follow @gwizzy12 on X](https://x.com/gwizzy12)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+USC vs South Carolina Prediction
+Right Arrow
+USC vs South Carolina Odds
+Right Arrow
+USC vs South Carolina College Basketball Preview
+Right Arrow
+USC Basketball
+Right Arrow
+South Carolina Basketball
+Right Arrow
+USC vs. South Carolina Pick, Betting Analysis
+Right Arrow
+How To Watch USC vs S. Carolina
+### Top Stories
+[![Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Hurley.png)](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Jonathan Jorcin
+9 hours ago
+[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+NCAAB
+[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+Greg Waddell
+TODAY / 12:13 AM EST
+[![Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-college-basketball-odds-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+Colby Marchio
+11 hours ago
+[![Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Mississippi-State-11_25_26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+9 hours ago
+[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+NCAAB
+[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+Alex Kolodziej
+1 hour ago
+[![Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+1 hour ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7798ba35-c687-4c43-947f-79034f9d7a6f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc61b7f-2067-41ee-8045-d198d2abccf8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7798ba35-c687-4c43-947f-79034f9d7a6f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc61b7f-2067-41ee-8045-d198d2abccf8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3387a9aa-1dbf-45be-819d-83b8783c6ab5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc61b7f-2067-41ee-8045-d198d2abccf8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7662&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3387a9aa-1dbf-45be-819d-83b8783c6ab5&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fdc61b7f-2067-41ee-8045-d198d2abccf8&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fusc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7662&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 25, 2026, 10:31 AM EST
+Nov 25, 2026, 10:24 AM EST
 Updated:
-Nov 25, 2026, 10:31 AM EST
+Nov 25, 2026, 10:24 AM EST
 Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Virginia Cavaliers forward Thijs de Ridder (28) celebrates with Cavaliers guard Jurian Dixon (4) and Cavaliers guard Chance Mallory (1)
+IMAGN IMAGES via Reuters Connect. Pictured: Memphis Tigers guard Jayden Reid
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Marquette Golden Eagles take on the Virginia Cavaliers in Nassau, Bahamas, in the Battle 4 Atlantis. Tip-off is set for 12 p.m. ET on ESPN.
-Virginia is favored by -5.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -250. The total is set at 152.5 points.
-Here’s my **Marquette vs. Virginia prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
+The Memphis Tigers take on the Penn State Nittany Lions in Nassau, Bahamas, in the Battle 4 Atlantis. Tip-off is set for 5 p.m. ET on ESPNU.
+Memphis is favored by -4.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -225. The total is set at 165.5 points.
+Here’s my **Memphis vs. Penn State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
 * * *
-## Marquette vs Virginia Prediction
-**Pick:[ Virginia -5.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247286283&context=action-articles)**
-My**Marquette vs Virginia best bet** is on the Cavaliers to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Memphis vs Penn State Prediction
+**Pick:[ Over 165.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247280327&context=action-articles)**
+My**Memphis vs Penn State best bet** is on the over. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Marquette vs Virginia Odds, Spread, Total
-[![Marquette Logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles)
+## Memphis vs Penn State Odds
+[![Memphis Logo](https://assets.actionnetwork.com/26320_memphis.png)](https://www.actionnetwork.com/ncaab/odds/memphis-tigers)
 Wednesday, Nov 25
-12 p.m. ET
-ESPN
-[![Virginia Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uva.png)](https://www.actionnetwork.com/ncaab/odds/virginia-cavaliers)  
-| Marquette Odds |  
+5 p.m. ET
+ESPNU
+[![Penn State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/psu.png)](https://www.actionnetwork.com/ncaab/odds/penn-state-nittany-lions)  
+| Memphis Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +5.5 -115  |  152.5 -108o / -112u  | +205  |  
-| Virginia Odds |  
+|  -4.5 -110  |  165.5 -110o / -110u  | -225  |  
+| Penn State Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -5.5 -105  |  152.5 -108o / -112u  | -250  |  
+|  +4.5 -110  |  165.5 -110o / -110u  | +185  |  
 Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
 [![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Marquette vs Virginia spread:** Marquette +5.5 (-110), Virginia -5.5 (-110)
-  * **Marquette vs Virginia over/under:** 152.5 (-105o / -115u)
-  * **Marquette vs Virginia moneyline:** Marquette +205, Virginia -250
+  * **Memphis vs Penn State spread:** Memphis -4.5 (-110), Penn State +4.5 (-110)
+  * **Memphis vs Penn State over/under:** 165.5 (-110o / -110u)
+  * **Memphis vs Penn State moneyline:** Memphis -225, Penn State +185
 
 
 * * *
-## Marquette vs Virginia Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)
-### Marquette Basketball
-Shaka Smart finally getting involved in the transfer portal should help get this program back to where it was before the college sports landscape changed.
-Smart did retain much of the quality talent, including three former starters who have stepped up tremendously this season.
-Despite the two losses to [Michigan](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines) and [Missouri](https://www.actionnetwork.com/ncaab/odds/missouri-tigers), the [Golden Eagles](https://www.actionnetwork.com/ncaab/odds/marquette-golden-eagles) have dominated the teams they should be taking care of.
-This will be a great opportunity for Marquette to add another quality win to its early-season resume.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uva.png)
-### Virginia Basketball
-[Virginia](https://www.actionnetwork.com/ncaab/odds/virginia-cavaliers) die-hards were shaking in their boots when former Cavaliers head coach Tony Bennett stepped down, fearing the program would fall apart. However, Ryan Odom hasn't missed a beat.
-After last season's 30-6 campaign, another campaign with a similar record looks attainable, as the Cavaliers are already off to a perfect 6-0 start, with notable road wins over [Maryland](https://www.actionnetwork.com/ncaab/odds/maryland-terrapins) and [Arkansas](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks).
-This team has been decently tested early on, and this week's matchup against Marquette should give us an even better look at what to expect from Year 2 of the Odom experience.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/marq.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uva.png)
-## Marquette vs. Virginia College Basketball Picks, Best Bet
-I would hope my DePaul bias isn't getting in the way here, but Virginia should easily take care of business against Marquette.
-Smart and his boys have been underwhelming against top-30 teams this season, losing to Michigan by 14 and Missouri by five. Meanwhile, Virginia has already picked up a 19-point win over Arkansas and a four-point road win over Maryland against top-50 competition.
-The Cavaliers have been elite on both sides of the ball, currently ranking fourth in adjusted offensive efficiency and 19th in adjusted defensive efficiency. Virginia has also been exceptional on the glass, ranking 11th in offensive rebound percentage.
-That could spell trouble for the Golden Eagles, who have struggled to limit second-chance opportunities and rank 281st in defensive rebounding.
-If the Cavaliers can own the rebounding battle, this should be a game where they get out to an early lead and don't look back.
-**Pick:[ Virginia -5.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247286283&context=action-articles)**
+## Memphis vs Penn State College Basketball Preview
+![Header First Logo](https://assets.actionnetwork.com/26320_memphis.png)
+### Memphis Basketball
+Some may think he's crazy, but this writer has a soft spot for psychotic coaches. Penny Hardaway putting his boys through the 15th-toughest schedule in the country during the first few weeks of the season is not only diabolical, but also intriguing.
+As a die-hard strength-of-schedule fan, I believe playing better teams only makes a team stronger by forcing it to adapt. The whole point is to beat the best, so why not attack some of the nation's best right out of the gate and get your toes wet?
+Following four matchups against top-65 opponents — three of which ranked inside the top 25 in Bart Torvik's rankings — the Tigers came out alive, winning three of those four games.
+The lone loss came against [Vanderbilt](https://www.actionnetwork.com/ncaab/odds/vanderbilt-commodores), where they were beaten by 24 points on the road in Nashville.
+However, the Tigers picked themselves back up and took down [Louisville](https://www.actionnetwork.com/ncaab/odds/louisville-cardinals) in their next home game.
+If these boys can keep gelling, they're going to be brutal to take down.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/psu.png)
+### Penn State Basketball
+This is a crucial week for the [Nittany Lions](https://www.actionnetwork.com/ncaab/odds/penn-state-nittany-lions) to build on an otherwise very weak early-season resume, especially after their Nov. 8 loss to Pitt.
+Outside of the Panthers, Penn State has played your little brother's AAU travel ball team, and it owns the 19th-easiest strength of schedule in the country.
+However, the Nittany Lions have handled their opponents well. Both the offense and defense appear strong, but can we actually trust them?
+This week should give us a much better idea of who the 2026-27 Nittany Lions really are.
+![Colby Marchio](https://s3.amazonaws.com/tan-user-assets/profile_images/2076702/1709351202920-7bf81e80d84711eeb437ab1fd428ab2f.jpg)
+[Colby Marchio](https://www.actionnetwork.com/picks/profile/ColbyMBets)
+Last 30d: 60-49-0 (+36.0u)
+Follow
+![ARI](https://assets.actionnetwork.com/976480_dbacks.png)
+![LAD](https://static.sprtactn.co/teamlogos/mlb/100/ladd.png)
+Diamondbacks @ Dodgers Picks
+May 19th
+/
+10:10 PM on MLB Network
+•
+36.5k bets
+Dodgers Over 14.5 Total Bases 
+-110 (1.35u)
+Copy Bet
+![DUKE](https://static.sprtactn.co/teamlogos/ncaab/100/dukd.png)
+![CONN](https://static.sprtactn.co/teamlogos/ncaab/100/uconn.png)
+Duke @ UConn Picks
+Today
+/
+7:00 PM on Amazon Prime Video
+•
+15.5k bets
+CONN -122
+-122 (1.22u)
+Copy Bet
+See All
+![Header First Logo](https://assets.actionnetwork.com/26320_memphis.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/psu.png)
+## Memphis vs. Penn State Pick, Betting Analysis
+This game will be set to _Spaceballs_ speed because these teams will be running ludicrously.
+Bart Torvik has both teams ranked inside the top 80 in adjusted tempo. The number of possessions this matchup should produce gives us a great chance of seeing some paydirt.
+This is a high number, so if you need a lean from me on a side, give me Memphis. It's hard to ignore the gauntlet Hardaway puts his boys through early every season, and constant tests only help a team progress.
+I digress.
+The Tigers have a very talented offense, ranking among the best teams in the country at getting to the line, protecting the basketball and shooting efficiently from outside the paint. All three categories rank inside the top 35.
+Defensively, however, Memphis has struggled, ranking in the bottom 100 in effective field goal percentage defense, free-throw rate defense, interior defense and 3-point percentage defense.
+Even a team like Penn State — which has endured an easy schedule to start the season — will be licking its chops at the opportunity to attack the rim against the revolving door Memphis calls its defense.
+The Nittany Lions rank No. 1 in the country in drawing fouls and getting to the charity stripe, while shooting 77.9% from the free-throw line.
+Penn State also ranks inside the top 75 in 2-point percentage and close 2-point percentage, excelling in the very areas where Memphis struggles.
+It's a concern that this is Penn State's first true test, but given Memphis' defensive struggles, the Nittany Lions' offense should be able to keep this one interesting.
+**Pick:[ Over 165.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247280327&context=action-articles)**
 * * *
-### How To Watch Marquette vs Virginia
+### How To Watch Memphis vs Penn State
 Location:
 Imperial Arena in Nassau, Bahamas
 Date:
 Wed, Nov 25
 Tipoff Time:
-12:00 PM EST
+5:00 PM EST
 TV/Streaming:
-ESPN
-Marquette vs Virginia is scheduled for 12:00 PM EST live from Imperial Arena on Wednesday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Marquette%20vs%20Virginia%20Prediction%2C%20Odds%2C%20Start%20Time%3A%20College%20Basketball%20Picks%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
+ESPNU
+Memphis vs Penn State is scheduled for 5:00 PM EST live from Imperial Arena on Wednesday. The game will be broadcast on ESPNU.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Memphis%20vs%20Penn%20State%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Marquette vs Virginia Prediction
+Memphis vs Penn State Prediction
 Right Arrow
-Marquette vs Virginia Odds, Spread, Total
+Memphis vs Penn State Odds
 Right Arrow
-Marquette vs Virginia Preview
+Memphis vs Penn State College Basketball Preview
 Right Arrow
-Marquette Basketball
+Memphis Basketball
 Right Arrow
-Virginia Basketball
+Penn State Basketball
 Right Arrow
-Marquette vs. Virginia College Basketball Picks, Best Bet
+Memphis vs. Penn State Pick, Betting Analysis
 Right Arrow
-How To Watch Marquette vs Virginia
+How To Watch Memphis vs Penn State
 ### Top Stories
+[![Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Hurley.png)](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Jonathan Jorcin
+9 hours ago
 [![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
 NCAAB
 [College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
 Greg Waddell
+TODAY / 12:13 AM EST
+[![USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/USC-Gamecocks-25112026.jpg)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+11 hours ago
+[![Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Mississippi-State-11_25_26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+9 hours ago
+[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+NCAAB
+[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
+Alex Kolodziej
+1 hour ago
+[![Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+1 hour ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=16d7a720-0b55-4571-b37b-6012d0011d30&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6911f2ad-507b-40f3-81e1-40693fb80618&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=16d7a720-0b55-4571-b37b-6012d0011d30&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6911f2ad-507b-40f3-81e1-40693fb80618&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=49d9f5a2-c2b5-41ff-80b5-6ba6b654594b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6911f2ad-507b-40f3-81e1-40693fb80618&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=49d9f5a2-c2b5-41ff-80b5-6ba6b654594b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=6911f2ad-507b-40f3-81e1-40693fb80618&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmemphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+[Greg Waddell](https://www.actionnetwork.com/article/author/greg-waddell)
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 25, 2026, 04:28 PM EST
+Updated:
+Nov 25, 2026, 04:28 PM EST
+Credit:
+Steve Roberts-Imagn Images. Pictured: Mississippi State Bulldogs guard Josh Hubbard
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The Wake Forest Demon Deacons take on the Mississippi State Bulldogs in Nassau, Bahamas, in the Battle 4 Atlantis. Tip-off is set for 7:30 p.m. ET on ESPN2.
+Mississippi State is favored by 3.5 points on the spread with a moneyline of -175. The total is set at 148.5 points.
+Here’s my **Wake Forest vs. Mississippi State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
+* * *
+## Wake Forest vs Mississippi State Prediction
+**Pick:[ Mississippi State -4.5 (Play to -5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247275761&context=playbook-slack-quickslip&sport=basketball)**
+My**Wake Forest vs Mississippi State best bet** is on the Bulldogs to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Wake Forest vs Mississippi State Odds, Spread, Total
+[![Wake Forest Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)](https://www.actionnetwork.com/ncaab/odds/wake-forest-demon-deacons)
+Wednesday, Nov 25
+7:30 p.m. ET
+ESPN2
+[![Mississippi St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msst.png)](https://www.actionnetwork.com/ncaab/odds/mississippi-state-bulldogs)  
+| Wake Forest Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +3.5 -108  |  148.5 -115o / -105u  | +145  |  
+| Mississippi St Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -3.5 -112  |  148.5 -115o / -105u  | -175  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+* * *
+## Wake Forest vs Mississippi State Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)
+### Wake Forest Basketball
+Wake Forest opens the Battle 4 Atlantis with plenty to prove. The [Demon Deacons](https://www.actionnetwork.com/ncaab/odds/wake-forest-demon-deacons) are 5-1, but they are still chasing their first win over a KenPom top-200 opponent.
+They have shown they can take care of business against teams with less talent and size, but Mississippi State will be another test.
+The Deacs were overwhelmed in their one game against an SEC team: a blowout loss at [Vanderbilt](https://www.actionnetwork.com/ncaab/odds/vanderbilt-commodores) during the opening week.
+Everything that could go wrong did go wrong for Wake Forest in that game, as it faltered to 0.77 points per possession while giving up 17 offensive rebounds.
+Things could be different for head coach Steve Forbes — who, by all accounts, is one of the most likable men in college basketball — but the fact that I'm leading with that probably says something about the trajectory of his program.
+Forbes has yet to make the NCAA Tournament in six full seasons at Wake, and it's only getting harder to sustain good rosters in the NIL era.
+Forbes found superstar freshman Quentin Coleman before everyone else, and even earned a verbal commitment from him before he backed out and took his talents to [Illinois](https://www.actionnetwork.com/ncaab/odds/illinois-fighting-illini). Star scorer Juke Harris left a featured role at Wake to start the season coming off the bench at [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers).
+It has left Forbes with a roster that is low on experience and continuity. Wake has one senior in the playing rotation, and leans heavily on the freshman sibling duo of [Gavin](https://www.actionnetwork.com/ncaab/players/gavin-placide-348265-f) and [Gallagher Placide](https://www.actionnetwork.com/ncaab/players/gallagher-placide-348264-f) to hold things down in the frontcourt.
+The Deacs will be tested against Mississippi State in many of the same ways they were tested by Vanderbilt.
+![Greg Waddell](https://s3.amazonaws.com/tan-user-assets/profile_images/260262/1755956453634-b3efbd7290eb4375a500d0e50e260e2b.jpg)
+[Greg Waddell](https://www.actionnetwork.com/picks/profile/gwizzy12)
+Last 30d: 1-9-1 (-32.6u)
+Follow
+7-way parlay
++14137
+Copy Bet
+![Las Vegas Raiders Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/oak.png)
+LV -145
+-145
+LV @ JAC
+•
+Nov 6th
+/
+1:00 PM
+![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
+KC -610
+-610
+TEN @ KC
+•
+Nov 6th
+/
+8:20 PM
+![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
+LAR +125
++125
+LA @ TB
+•
+Nov 6th
+/
+4:25 PM
+![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
+SEA +110
++110
+SEA @ ARI
+•
+Nov 6th
+/
+4:05 PM
+![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
+CAR +260
++260
+CAR @ CIN
+•
+Nov 6th
+/
+1:00 PM
+![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
+DET +165
++165
+GB @ DET
+•
+Nov 6th
+/
+1:00 PM
+![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
+MIN -165
+-165
+MIN @ WAS
+•
+Nov 6th
+/
+1:00 PM
+11-way parlay
++1929
+Copy Bet
+![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
+CAR +17.5
+-410
+CAR @ CIN
+•
+Nov 6th
+/
+1:00 PM
+![Los Angeles Chargers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sd.png)
+LAC +10.5
+-670
+LAC @ ATL
+•
+Nov 6th
+/
+1:00 PM
+![New England Patriots Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/ne.png)
+NE +7.5
+-620
+IND @ NE
+•
+Nov 6th
+/
+1:00 PM
+![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
+KC -610
+-610
+TEN @ KC
+•
+Nov 6th
+/
+8:20 PM
+![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
+DET +17.5
+-780
+GB @ DET
+•
+Nov 6th
+/
+1:00 PM
+![Jacksonville Jaguars Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/jac.png)
+JAX +14.5
+-630
+LV @ JAC
+•
+Nov 6th
+/
+1:00 PM
+![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
+SEA +110
++110
+SEA @ ARI
+•
+Nov 6th
+/
+4:05 PM
+![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
+LAR +10.5
+-333
+LA @ TB
+•
+Nov 6th
+/
+4:25 PM
+![Miami Dolphins Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/mia.png)
+MIA -190
+-190
+MIA @ CHI
+•
+Nov 6th
+/
+1:00 PM
+![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
+MIN -165
+-165
+MIN @ WAS
+•
+Nov 6th
+/
+1:00 PM
+![Buffalo Bills Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/buf.png)
+BUF -500
+-500
+BUF @ NYJ
+•
+Nov 6th
+/
+1:00 PM
+See All
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msst.png)
+### Mississippi State Basketball
+Like Forbes, [Bulldogs](https://www.actionnetwork.com/ncaab/odds/mississippi-state-bulldogs) head coach Chris Jans needs a good season badly. Jans is coming off a disastrous campaign that began with the 26th-ranked roster in college basketball and ended with a 13-19 record and the No. 102 ranking on KenPom.
+Jans' team is off to a better start to 2026-27, with three wins over KenPom top-150 opponents already, including a true road win over No. 78 [UCF](https://www.actionnetwork.com/ncaab/odds/ucf-knights) that will age very well as the season progresses.
+Mississippi State has been monstrous on the boards to open the season. It was the Bulldogs' formula against UCF (they out-rebounded the Knights by 20), and it's a great formula for success against Wake Forest.
+The Bulldogs rank 10th nationally in offensive rebounding and will like their matchups here. Freshman [Tristan Reed](https://www.actionnetwork.com/ncaab/players/tristan-reed-349641-c) (younger brother of [UConn](https://www.actionnetwork.com/ncaab/odds/connecticut-huskies)'s Tarris Reed Jr.) has already had four games with four or more offensive boards.
+Mississippi State is old and deep, two things that help you a lot during Feast Week. The Bulldogs rank 54th nationally in bench minutes and 28th overall in Division I experience.
+When things break down, they still have volume scorer [Josh Hubbard](https://www.actionnetwork.com/ncaab/players/josh-hubbard-256365-g), who can take over a game at a moment's notice.
+Add it all up, and Mississippi State has a clear formula against Wake Forest.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/wf.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msst.png)
+## Wake Forest vs. Mississippi Expert College Basketball Picks, Best Bet
+Mississippi State should dominate the boards in this game.
+Also, the Bulldogs have the best player (Hubbard) and the deeper, more experienced roster.
+Expect them to hold serve and take care of business in their Battle 4 Atlantis opener.
+**Pick:[ Mississippi State -4.5 (Play to -5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247275761&context=playbook-slack-quickslip&sport=basketball)**
+* * *
+### How To Watch Wake Forest vs Mississippi St
+Location:
+Imperial Arena in Nassau, Bahamas
+Date:
+Wed, Nov 25
+Tipoff Time:
+7:30 PM EST
+TV/Streaming:
+ESPN2
+Wake Forest vs Mississippi St is scheduled for 7:30 PM EST live from Imperial Arena on Wednesday. The game will be broadcast on ESPN2.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Wake%20Forest%20vs%20Mississippi%20State%20Prediction%2C%20Odds%2C%20Start%20Time%3A%20Expert%20College%20Basketball%20Picks%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
+About the Author
+Greg Waddell writes college basketball previews for The Action Network and is a featured guest on the BBOC podcast. He has been betting on sports for 10 years and has worked in sports betting since 2022.
+[Follow @gwizzy12 on X](https://x.com/gwizzy12)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Wake Forest vs Mississippi State Prediction
+Right Arrow
+Wake Forest vs Mississippi State Odds, Spread, Total
+Right Arrow
+Wake Forest vs Mississippi State Preview
+Right Arrow
+Wake Forest Basketball
+Right Arrow
+Mississippi State Basketball
+Right Arrow
+Wake Forest vs. Mississippi Expert College Basketball Picks, Best Bet
+Right Arrow
+How To Watch Wake Forest vs Mississippi St
+### Top Stories
+[![Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Hurley.png)](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+Jonathan Jorcin
+9 hours ago
+[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+NCAAB
+[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+Greg Waddell
+TODAY / 12:13 AM EST
+[![USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/USC-Gamecocks-25112026.jpg)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
+Greg Waddell
+11 hours ago
+[![Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-college-basketball-odds-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+NCAAB
+[Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
+Colby Marchio
 11 hours ago
 [ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
 NCAAB
 [College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
 Alex Kolodziej
-3 hours ago
-[![Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/DonovanDent-LSU-11252026.jpg)](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
+1 hour ago
+[![Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
 NCAAB
-[Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Ryan Minion
-6 hours ago
-[![Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
 Greg Waddell
-5 hours ago
-[![Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/arizona-vs-ole-miss-prediction-pick-college-basketball-odds-for-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-Sean Paul
-5 hours ago
-[![College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-NCAAB
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-Ryan Minion
 1 hour ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c0e33f90-4325-4f9d-9965-4b37fb48c0d4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0c11b367-26e7-46c5-9def-1ed82ff5ec08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=c0e33f90-4325-4f9d-9965-4b37fb48c0d4&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0c11b367-26e7-46c5-9def-1ed82ff5ec08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a03577ad-d4ca-42b3-8733-22268234692f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0c11b367-26e7-46c5-9def-1ed82ff5ec08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7681&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a03577ad-d4ca-42b3-8733-22268234692f&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0c11b367-26e7-46c5-9def-1ed82ff5ec08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fmarquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7681&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4fb3bb8f-0332-4a9c-92b1-b4d3638fbe8b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=43a2a6a0-9046-41e2-a000-cbc4674c4f9c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=4fb3bb8f-0332-4a9c-92b1-b4d3638fbe8b&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=43a2a6a0-9046-41e2-a000-cbc4674c4f9c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=46d33475-c6d8-4621-8552-d258045d4108&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=43a2a6a0-9046-41e2-a000-cbc4674c4f9c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7708&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=46d33475-c6d8-4621-8552-d258045d4108&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=43a2a6a0-9046-41e2-a000-cbc4674c4f9c&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fwake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7708&tw_iframe_status=0&tw_pid_src=2&tw_session_count=134&tw_session_id=1795644059822-57198205&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
@@ -294,7 +1074,7 @@ Title: College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay
 
 URL Source: https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026
 
-Published Time: 2026-11-25T13:09:18.000Z
+Published Time: 2026-11-25T20:40:18.000Z
 
 Markdown Content:
 [](https://www.actionnetwork.com/)
@@ -785,11 +1565,11 @@ Senior News Editor
 
 Updated:
 
-Nov 25, 2026, 08:10 AM EST
+Nov 25, 2026, 04:43 PM EST
 
 Updated:
 
-Nov 25, 2026, 08:10 AM EST
+Nov 25, 2026, 04:43 PM EST
 
 ![Image 2: College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay article feature image](https://images.actionnetwork.com/blog/2026/11/parl.jpg)
 
@@ -826,7 +1606,11 @@ Tanner McGrath’s model projections function on adjusted efficiency and pace me
 
 We tip things off with a grade-A selection on the total.
 
-Wednesday's Yale vs. Wright State over/under is set at 138.5, but PRO expects a
+Wednesday's Yale vs. Wright State over/under is set at 138.5, but PRO expects a bit of a track meet, predicting well over 140 points in this matchup (144.4).
+
+### Arkansas State vs. FIU Prediction
+
+Here's your top spread mismatch for the day.
 
 ![Image 3: Paywall CTA Image](https://assets.actionnetwork.com/160549_Light.png)
 ### Unlock this article with PRO: Now 30% Off!
@@ -841,9 +1625,21 @@ College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay
 
 Yale vs. Wright State Prediction
 
+Arkansas State vs. FIU Prediction
+
 ### Top Stories
 
-[![Image 5: College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
+[![Image 5: Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Hurley.png)](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+NCAAB
+
+[Duke vs UConn Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/duke-blue-devils-vs-uconn-huskies-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+Jonathan Jorcin
+
+9 hours ago
+
+[![Image 6: College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
 
 NCAAB
 
@@ -851,55 +1647,45 @@ NCAAB
 
 Greg Waddell
 
-11 hours ago
+TODAY / 5:13 AM UTC
 
-[![Image 6: Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-NCAAB
-
-[Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-Colby Marchio
-
-10 hours ago
-
-[![Image 7: Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/DonovanDent-LSU-11252026.jpg)](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
+[![Image 7: USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/USC-Gamecocks-25112026.jpg)](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
 
 NCAAB
 
-[Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-Ryan Minion
-
-6 hours ago
-
-[![Image 8: Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-NCAAB
-
-[Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+[USC vs South Carolina Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/usc-trojans-vs-south-carolina-gamecocks-prediction-pick-odds-college-basketball-wednesday-november-25)
 
 Greg Waddell
 
-5 hours ago
+11 hours ago
 
-[![Image 9: Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/arizona-vs-ole-miss-prediction-pick-college-basketball-odds-for-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-NCAAB
-
-[Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-
-Sean Paul
-
-5 hours ago
-
-[![Image 10: College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
+[![Image 8: Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-college-basketball-odds-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
 
 NCAAB
 
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
+[Memphis vs Penn State Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/memphis-tigers-vs-penn-state-nittany-lions-prediction-pick-odds-college-basketball-wednesday-november-25)
 
-Ryan Minion
+Colby Marchio
+
+11 hours ago
+
+[![Image 9: Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/Wake-Forest-vs-Mississippi-State-11_25_26.jpg)](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+NCAAB
+
+[Wake Forest vs Mississippi State Prediction, Odds, Start Time: Expert College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/wake-forest-demon-deacons-vs-mississippi-state-bulldogs-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+Greg Waddell
+
+9 hours ago
+
+[![Image 10: Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+NCAAB
+
+[Xavier vs Texas A&M Predictions, Start Time, Odds: NCAAB Picks for Wednesday](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
+
+Greg Waddell
 
 1 hour ago
 
@@ -1036,712 +1822,5 @@ Gambling Problem? [Call 1-800-Gambler](https://www.ncpgambling.org/).
 
 [![Image 13: State Gambling Disclosure Logo](https://assets.actionnetwork.com/750619_general-responsible-gambling-logo.png)](https://www.ncpgambling.org/)![Image 14: Age Requirement Logo](https://assets.actionnetwork.com/257013_age-requirement-logo.png)
 
-![Image 15: Company Logo](https://cdn.cookielaw.org/logos/d677b408-9f50-4910-8d46-b4b404bfcbe8/0196fd06-d46d-73f0-bbfb-e4016a4b06d7/9630fc9b-f791-4e1c-a071-5c94d5484dc9/252389_action-logo-check.png)
-
-Opt-Out Request Honored
-
-Consent Management Platform - Your Privacy Choices
-
-When you visit our website, we store trackers on your browser to collect information. The information collected might relate to you, your preferences, or your device, and is used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of tracking technologies, which may impact your experience of the site and the services we are able to offer. Under US privacy laws, consumers have the right to opt-out of the processing of personal information for “targeted advertising” and activities that are classified as “sale” and/or “sharing,” which may include data collection by cookies categorized below as “targeting". To submit an opt-out request for "targeting" cookies, toggle that category below and click “Confirm My Choices,” which will have the effect of opting you out of “sale,” “sharing,” and “targeted advertising” on the browser or app you are currently using. Please note that this tool only has the capability of applying your opt-out to cookies. If you would like to submit an opt-out request with respect to your non-cookie personal information (e.g., your email address), visit our webform to opt-out of sale/sharing/targeting with respect to non-cookie personal information [here.](https://usoptout.bettercollective.com/)
-
-Allow All
-Manage Consent Preferences
-
-Strictly Necessary Cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
-Cookies Details
-
-Targeting Cookies
-
-- [x] Targeting Cookies 
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-Cookies Details
-
-Performance Cookies
-
-- [x] Performance Cookies 
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-Cookies Details
-
-Functional Cookies
-
-- [x] Functional Cookies 
-
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
-
-Cookies Details
-
-Cookie List
-
-Clear
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Reject All Confirm My Choices
-
-[![Image 16: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)
-
-![Image 17](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![Image 18](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=57f47990-b3a8-48a9-82c9-7fd6aaadf599&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2513bcf8-0363-423d-bd9c-c52469ddcedf&tw_ch_fvl=Chromium%2F158.0.8127.88%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.88&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-odds-pick-parlay-wednesday-11-25-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-odds-pick-parlay-wednesday-11-25-2026&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795623468587-97797542&tw_session_start=1&twpid=tw.1795623468587.559064305663312022&txn_id=o403j&type=javascript&version=2.4.12)![Image 19](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%265%2624%261280%261280%260%26na%261&eci=3&event=%7B%7D&event_id=57f47990-b3a8-48a9-82c9-7fd6aaadf599&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2513bcf8-0363-423d-bd9c-c52469ddcedf&tw_ch_fvl=Chromium%2F158.0.8127.88%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.88&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-odds-pick-parlay-wednesday-11-25-2026&tw_document_referrer=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-odds-pick-parlay-wednesday-11-25-2026&tw_engaged_ms=4&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1795623468587-97797542&tw_session_start=1&twpid=tw.1795623468587.559064305663312022&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25
-![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
-[Ryan Minion](https://www.actionnetwork.com/article/author/rminion)
-Contributing Writer 
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 25, 2026, 05:21 AM EST
-Updated:
-Nov 25, 2026, 05:21 AM EST
-Credit:
-Pictured: Donovan Dent. (Credit: USA TODAY Network via Reuters Connect)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Arizona State Sun Devils take on the LSU Tigers in Thousand Palms, CA, in the Acrisure Series. Tip-off is set for 2 p.m. ET on CBS Sports Network.
-LSU is favored by 4.5 points on the spread with a moneyline of -218. The total is set at 148.5 points.
-Here’s my **Arizona State vs. LSU prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
-* * *
-## Arizona State vs LSU Prediction
-**Pick:[ LSU -4.5 (Play to -5.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247297547&context=playbook-slack-quickslip&sport=basketball)**
-My**Arizona State vs LSU best bet** is on the Tigers to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Arizona State vs LSU Odds
-[![Arizona State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/asu.png)](https://www.actionnetwork.com/ncaab/odds/arizona-state-sun-devils)
-Wednesday, Nov 25
-2 p.m. ET
-CBS Sports Network
-[![LSU Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lsu.png)](https://www.actionnetwork.com/ncaab/odds/lsu-tigers)  
-| Arizona State Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +4.5 -112  |  148.5 -110o / -110u  | +180  |  
-| LSU Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -4.5 -108  |  148.5 -110o / -110u  | -218  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Arizona State vs LSU spread:** Arizona State +4.5 (-112), LSU -4.5 (-108)
-  * **Arizona State vs LSU over/under:** 148.5 (-110o / -110u)
-  * **Arizona State vs LSU moneyline:** Arizona State +180, LSU -218
-
-
-* * *
-## Arizona State vs LSU College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/asu.png)
-### Arizona State Basketball
-Arizona State enters a brand-new era under first-year head coach Randy Bennett, as it declined to renew Bobby Hurley’s contract after 11 seasons at the helm.
-Bennett was brought into Tempe after coaching Saint Mary’s for a whopping 25 years, and he posted an extremely impressive .722 win-rate over that span in Moraga.
-In his first decision as Arizona State head man, Bennett prioritized securing 6-foot-8 Lithuanian senior Paulius Murauskas, the Gaels’ leading scorer from last season.
-The senior is off to an incredible start this season, ranking second nationally with 26 points per game while also adding 9.2 rebounds.
-After losing its entire rotation to graduation and the transfer portal, Bennett rebuilt Arizona State’s roster around WCC familiarity and international size, which resulted in the Sun Devils boasting the top-ranked portal class in the Big 12.
-In addition to Murauskas, Bennett also brought 6-foot-7 sophomore guard Dillan Shaw along with him from Saint Marys.
-The former Gael boasts impressive versatility at both ends of the floor, and is averaging nearly a double-double in his first five games.
-Bennett also landed WCC-product in 6-foot-1 former [Portland](https://www.actionnetwork.com/ncaab/odds/portland-pilots) guard Joel Foxwell, who ranks second on the team in scoring.
-Though Arizona State appears to have drastically improved its frontcourt on paper — acquiring the likes of [Boston University](https://www.actionnetwork.com/ncaab/odds/boston-university-terriers)’s 7-foot junior center Ben Defty and 7-foot-3 Serbian freshman Filip Malesevic among a couple others — the forwards have yet to make a real impact.
-While Bennett’s bunch prevailed in its first five games by an impressive 18.4 point margin, LSU will be far and away its most difficult challenge to date.
-![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)
-[Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
-Last 30d: 281-285-7 (+2.8u)
-Follow
-![GB](https://static.sprtactn.co/teamlogos/nfl/100/gb.png)
-![LA](https://assets.actionnetwork.com/619259_rams4.webp)
-Packers @ Rams Picks
-Today
-/
-8:00 PM on Netflix
-•
-41.6k bets
-GB +120
-+120 (1u)
-Copy Bet
-https://discord.gg/VG3WjA2Rs
-K.Mumpfield o37.5 Rec Yds
--113 (1.13u)
-Copy Bet
-https://discord.gg/uKZpwueN9
-C.Watson Anytime TD Scorer Yes
-+170 (1u)
-Copy Bet
-https://discord.gg/uKZpwueN9
-![CHI](https://assets.actionnetwork.com/598430_bears1.png)
-![DET](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
-Bears @ Lions Picks
-Nov 26th
-/
-1:00 PM on CBS/Paramount+
-•
-21.9k bets
-J.Gibbs o131.5 Rush + Rec Yds
--114 (1.14u)
-Copy Bet
-https://discord.gg/uKZpwueN9 #GibbsSZN 🦁🦁
-Over 55
--110 (1.1u)
-Copy Bet
-https://discord.gg/wA7wc4GA3
-J.Gibbs First Touchdown Scorer Yes
-+360 (1u)
-Copy Bet
-https://discord.gg/uKZpwueN9 #GibbsSZN 🦁🦁
-L.Burden o60.5 Rec Yds
--115 (1.15u)
-Copy Bet
-https://discord.gg/uKZpwueN9
-See All
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lsu.png)
-### LSU Basketball
-The 20th-ranked Tigers have been the focal point in college hoops media over the last week, with Will Wade’s bunch potentially in hot water after former St. John’s guard RJ Luis Jr. was granted an additional year of eligibility to play at LSU.
-After posting 11 points and nine rebounds in just 15 minutes versus UL Monroe, Wade was instructed not to play Luis amid intense media backlash.
-Despite the saga, LSU has looked extremely impressive over its first six games of the season, winning its first six matchups by a 28-point margin on average.
-In one of the biggest transfer portal additions in the entire offseason, Wade landed former [UCLA](https://www.actionnetwork.com/ncaab/odds/ucla-bruins) guard Donovan Dent to run the point for the Tigers this season.
-The 6-foot-2 senior has been exceptional, scoring over 15 points per game, while also ranking second nationally with 9.2 assists per game.
-Dent drained one of the biggest shots of the season thus far, burying a 3-pointer with one second remaining in a comeback victory over [Gonzaga](https://www.actionnetwork.com/ncaab/odds/gonzaga-bulldogs).
-The LSU senior leads a Tiger offense scoring over 91 points per game prior to Wednesday, and is just one of several key portal additions Wade made in the offseason.
-Facing an empty roster with zero returning players, Wade overhauled the entire Tiger rotation, adding 14 new players.
-Wade used a very aggressive approach blending high-major transfers, fifth-year seniors and an influx of international talent, resulting in a Tiger lineup that is loaded from top to bottom.
-LSU added former UCLA guard Skyy Clark, securing both of Mick Cronin’s guards from last season's team, which made for a smooth transition to a very new-look roster.
-Former [Kansas State](https://www.actionnetwork.com/ncaab/odds/kansas-state-wildcats) 6-foot-5 senior guard Abdi Bashir Jr. was another great addition via the portal, as he ranks second on the team in scoring this season.
-The Tigers also acquired 7-foot Croatian center Michael Ruzic to bolster its frontcourt with size, and he is off to a stellar start with 13.7 points and 8.2 rebounds per game with a 75% field-goal percentage (fifth in nation).
-Alongside Ruzic, former [Kentucky](https://www.actionnetwork.com/ncaab/odds/kentucky-wildcats) forward Mo Dioubate rounds out an elite LSU frontcourt.
-LSU’s defense has played quite well, too, with its opponents averaging just over 63 points.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/asu.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lsu.png)
-## Arizona State vs. LSU Pick, Betting Analysis
-We are in for a phenomenal matchup on Wednesday afternoon as the Tigers and Sun Devils put their respective undefeated records on the line.
-Though Arizona State has looked quite impressive in its first five games under Bennett, the Sun Devil defense has yet to play an offense remotely close to that of LSU.
-Wade has built a deep, unselfish roster averaging over 20 assists per game, with six players having just posted double-figure scoring efforts in a Tigers' beatdown over Queens University.
-Despite how well-coached the Sun Devils are, I expect LSU to have a massive edge athletically, and we have already seen LSU prove itself against a difficult opponent in Gonzaga.
-While Arizona State should definitely hang around early in Wednesday's matchup, I ultimately favor backing the Tigers -5.5 in what should be another huge win for Wade.
-**Pick:[ LSU -4.5 (Play to -5.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247297547&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Arizona St vs LSU
-Location:
-Acrisure Arena in Thousand Palms, CA
-Date:
-Wed, Nov 25
-Tipoff Time:
-2:00 PM EST
-TV/Streaming:
-CBS Sports Network
-Arizona St vs LSU is scheduled for 2:00 PM EST live from Acrisure Arena on Wednesday. The game will be broadcast on CBS Sports Network.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Arizona%20State%20vs%20LSU%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
-About the Author
-Ryan graduated from Providence College in 2016 with Bachelor Degrees in Business Economics &amp; Mathematics. It was at Providence where Ryan really first found his passion for sports betting. For a lifelong sports fan with a knack for statistical analysis, he was instantly drawn to the fundamentals of the industry, specifically how sports betting markets functioned and fluctuated. In what primarily started as a recreational hobby, Ryan began studying the ins-and-outs of sports betting markets on a daily basis. He took to Twitter (now X), where he amassed a following for writing a sports betting blog that provided statistical analysis behind his wagers. In spite of seeking employment opportunities elsewhere post graduation, Ryan continued to follow his passion for the statistical analysis of sports betting wagers, eventually deciding to pursue a career in the sports betting industry.
-[Follow @vegasminion on X](https://x.com/vegasminion)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Arizona State vs LSU Prediction
-Right Arrow
-Arizona State vs LSU Odds
-Right Arrow
-Arizona State vs LSU College Basketball Preview
-Right Arrow
-Arizona State Basketball
-Right Arrow
-LSU Basketball
-Right Arrow
-Arizona State vs. LSU Pick, Betting Analysis
-Right Arrow
-How To Watch Arizona St vs LSU
-### Top Stories
-[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-NCAAB
-[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-Greg Waddell
-11 hours ago
-[![Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Colby Marchio
-10 hours ago
-[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-NCAAB
-[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-Alex Kolodziej
-3 hours ago
-[![Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-Greg Waddell
-5 hours ago
-[![Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/arizona-vs-ole-miss-prediction-pick-college-basketball-odds-for-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-Sean Paul
-5 hours ago
-[![College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-NCAAB
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-Ryan Minion
-1 hour ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a5599d7f-fb46-4990-b01c-f26ae1555c48&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=45524d37-d247-4b6a-9d4c-178d35733b53&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a5599d7f-fb46-4990-b01c-f26ae1555c48&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=45524d37-d247-4b6a-9d4c-178d35733b53&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8501d568-c258-4916-bf98-999371fb0481&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=45524d37-d247-4b6a-9d4c-178d35733b53&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7666&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=8501d568-c258-4916-bf98-999371fb0481&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=45524d37-d247-4b6a-9d4c-178d35733b53&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7666&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
-[Greg Waddell](https://www.actionnetwork.com/article/author/greg-waddell)
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 25, 2026, 05:36 AM EST
-Updated:
-Nov 25, 2026, 05:36 AM EST
-Credit:
-Pictured: Texas A&M Aggies head coach Bucky McMillan speaks with guard Jordan Pope. (Credit: Maria Lysaker-Imagn Images)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Xavier Musketeers take on the Texas A&M Aggies in Nassau, Bahamas, in the Battle 4 Atlantis. Tip-off is set for 2:30 p.m. ET on ESPN2.
-Texas A&M is favored by 5.5 points on the spread with a moneyline of -238. The total is set at 169.5 points.
-Here’s my **Xavier vs. Texas A &M prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
-* * *
-## Xavier vs Texas A&M Prediction
-**Pick:[ Texas A&M -5.5 (Play to -8.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247273249&context=playbook-slack-quickslip&sport=basketball)**
-My**Xavier vs Texas A &M best bet** is on the Aggies to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Xavier vs Texas A&M Odds
-[![Xavier Logo](https://static.sprtactn.co/teamlogos/ncaab/100/xav.png)](https://www.actionnetwork.com/ncaab/odds/xavier-musketeers)
-Wednesday, Nov 25
-2:30 p.m. ET
-ESPN2
-[![Texas A&M Logo](https://static.sprtactn.co/teamlogos/ncaab/100/txam.png)](https://www.actionnetwork.com/ncaab/odds/texas-am-aggies)  
-| Xavier Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +5.5 -118  |  169.5 -110o / -110u  | +195  |  
-| Texas A&M Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -5.5 -102  |  169.5 -110o / -110u  | -238  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Xavier vs Texas A &M spread:** Xavier +5.5 (-118), Texas A&M -5.5 (-102)
-  * **Xavier vs Texas A &M over/under:** 169.5 (-110o / -110u)
-  * **Xavier vs Texas A &M moneyline:** Xavier +195, Texas A&M -238
-
-
-* * *
-## Xavier vs Texas A&M College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/xav.png)
-### Xavier Basketball
-Following an impressive 5-0 start to the season, [Xavier](https://www.actionnetwork.com/ncaab/odds/xavier-musketeers) suffered a major crash back down to earth in its most recent game, an 83-65 loss to an [Iowa](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes) team that is pictured in the college hoops dictionary next to "replacement level."
-After peaking at 27th nationally a week ago, the Musketeers' last two performances have been so ugly that they have fallen all the way down to 55th overall at KenPom, and that backs the eye test for a team that is sliding.
-One of their biggest issues has been streaky shooting. In an ugly eight-point win over [Cleveland State](https://www.actionnetwork.com/ncaab/odds/cleveland-state-vikings), the Musketeers made just seven of their 30 3-point attempts.
-On the season, as a team, they are shooting 30.9% from deep. You would expect that to improve marginally, but personnel-wise Xavier starts four players who are shooting 32% or worse from 3 over the course of their careers.
-In this Battle 4 Atlantis opener against Texas A&M, Xavier's preferred style of play may play right into Texas A&M's hands.
-Richard Pitino teams are at their best when they play with a frantic pace and frustrate teams with less talent, but A&M wants to play even more up-tempo and will be comfortable. There won't be many games where Xavier's 22nd-ranked tempo is actually the slower team in a matchup, but it applies here.
-The Musketeers will need to get hot from 3, but that's easier said than done.
-![Greg Waddell](https://s3.amazonaws.com/tan-user-assets/profile_images/260262/1755956453634-b3efbd7290eb4375a500d0e50e260e2b.jpg)
-[Greg Waddell](https://www.actionnetwork.com/picks/profile/gwizzy12)
-Last 30d: 1-9-1 (-32.6u)
-Follow
-7-way parlay
-+14137
-Copy Bet
-![Las Vegas Raiders Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/oak.png)
-LV -145
--145
-LV @ JAC
-•
-Nov 6th
-/
-1:00 PM
-![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
-KC -610
--610
-TEN @ KC
-•
-Nov 6th
-/
-8:20 PM
-![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
-LAR +125
-+125
-LA @ TB
-•
-Nov 6th
-/
-4:25 PM
-![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
-SEA +110
-+110
-SEA @ ARI
-•
-Nov 6th
-/
-4:05 PM
-![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
-CAR +260
-+260
-CAR @ CIN
-•
-Nov 6th
-/
-1:00 PM
-![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
-DET +165
-+165
-GB @ DET
-•
-Nov 6th
-/
-1:00 PM
-![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
-MIN -165
--165
-MIN @ WAS
-•
-Nov 6th
-/
-1:00 PM
-11-way parlay
-+1929
-Copy Bet
-![Carolina Panthers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/car.png)
-CAR +17.5
--410
-CAR @ CIN
-•
-Nov 6th
-/
-1:00 PM
-![Los Angeles Chargers Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sd.png)
-LAC +10.5
--670
-LAC @ ATL
-•
-Nov 6th
-/
-1:00 PM
-![New England Patriots Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/ne.png)
-NE +7.5
--620
-IND @ NE
-•
-Nov 6th
-/
-1:00 PM
-![Kansas City Chiefs Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/kc.png)
-KC -610
--610
-TEN @ KC
-•
-Nov 6th
-/
-8:20 PM
-![Detroit Lions Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
-DET +17.5
--780
-GB @ DET
-•
-Nov 6th
-/
-1:00 PM
-![Jacksonville Jaguars Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/jac.png)
-JAX +14.5
--630
-LV @ JAC
-•
-Nov 6th
-/
-1:00 PM
-![Seattle Seahawks Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/sea.png)
-SEA +110
-+110
-SEA @ ARI
-•
-Nov 6th
-/
-4:05 PM
-![Los Angeles Rams Team Icon](https://assets.actionnetwork.com/619259_rams4.webp)
-LAR +10.5
--333
-LA @ TB
-•
-Nov 6th
-/
-4:25 PM
-![Miami Dolphins Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/mia.png)
-MIA -190
--190
-MIA @ CHI
-•
-Nov 6th
-/
-1:00 PM
-![Minnesota Vikings Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/min.png)
-MIN -165
--165
-MIN @ WAS
-•
-Nov 6th
-/
-1:00 PM
-![Buffalo Bills Team Icon](https://static.sprtactn.co/teamlogos/nfl/100/buf.png)
-BUF -500
--500
-BUF @ NYJ
-•
-Nov 6th
-/
-1:00 PM
-See All
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/txam.png)
-### Texas A&M Basketball
-Across from them, Texas A&M looks ready for a breakout season under Bucky McMillan. His roster is essentially the "Island of Misfit Transfers," but it seems to be working.
-PJ Haggerty, Mackenzie Mgbako, Jordan Pope and Rylan Griffen all qualify as players who have been given up on by multiple staffs before landing in Aggieland. But Bucky's frantic pace and 3-point volume system seems to be re-energizing all of them.
-A&M has a few baked-in traits that are appealing in a Feast Week tournament like the Battle 4 Atlantis. They're old — six of the Aggies' top seven leading scorers are listed as seniors.
-Summed together, this roster is the second-most experienced team in college basketball. But the Aggies are also deep — they rank 21st nationally in Bench Minutes, which bodes well for the multiple games in a row in a hotel ballroom.
-Specifically against Xavier, A&M should like its chances based on shot profiles. Texas A&M makes things difficult on teams inside.
-The Aggies rank ninth nationally in 2-point percentage defense, and because of their rim protection as a group, teams are shooting 46% of their shots from outside.
-A&M would love to turn this into a run-and-gun game, and as the better shooting team, it bodes well for it stylistically to force its will here.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/xav.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/txam.png)
-## Xavier vs. Texas A&M Pick, Betting Analysis
-Texas A&M has been one of the most pleasant surprises of the season so far.
-At 6-0, the Aggies have risen from 30th preseason to 15th on KenPom, and they have the makings of a serious contender in the SEC.
-They are deeper, older and more skilled from outside than Xavier, and the Musketeers' pace is the Aggies' preferred brand of basketball.
-It plays right into McMillan's hands.
-**Pick:[ Texas A&M -5.5 (Play to -8.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247273249&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Xavier vs Texas A&M
-Location:
-Imperial Arena in Nassau, Bahamas
-Date:
-Wed, Nov 25
-Tipoff Time:
-2:30 PM EST
-TV/Streaming:
-ESPN2
-Xavier vs Texas A&M is scheduled for 2:30 PM EST live from Imperial Arena on Wednesday. The game will be broadcast on ESPN2.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Xavier%20vs%20Texas%20A%26M%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/gwaddell-150x150.jpg)
-About the Author
-Greg Waddell writes college basketball previews for The Action Network and is a featured guest on the BBOC podcast. He has been betting on sports for 10 years and has worked in sports betting since 2022.
-[Follow @gwizzy12 on X](https://x.com/gwizzy12)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Xavier vs Texas A&M Prediction
-Right Arrow
-Xavier vs Texas A&M Odds
-Right Arrow
-Xavier vs Texas A&M College Basketball Preview
-Right Arrow
-Xavier Basketball
-Right Arrow
-Texas A&M Basketball
-Right Arrow
-Xavier vs. Texas A&M Pick, Betting Analysis
-Right Arrow
-How To Watch Xavier vs Texas A&M
-### Top Stories
-[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-NCAAB
-[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-Greg Waddell
-11 hours ago
-[![Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Colby Marchio
-10 hours ago
-[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-NCAAB
-[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-Alex Kolodziej
-3 hours ago
-[![Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/DonovanDent-LSU-11252026.jpg)](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Ryan Minion
-6 hours ago
-[![Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/arizona-vs-ole-miss-prediction-pick-college-basketball-odds-for-wednesday-nov-25.jpg)](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-Sean Paul
-5 hours ago
-[![College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-NCAAB
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-Ryan Minion
-1 hour ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0b797151-217f-4d80-9353-54a6e783bb9f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f59b8b7-97c0-4d95-8bba-f240d9a6af86&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=0b797151-217f-4d80-9353-54a6e783bb9f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f59b8b7-97c0-4d95-8bba-f240d9a6af86&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2abf66e3-224d-49ab-acad-a11767b24edf&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f59b8b7-97c0-4d95-8bba-f240d9a6af86&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7645&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=2abf66e3-224d-49ab-acad-a11767b24edf&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=2f59b8b7-97c0-4d95-8bba-f240d9a6af86&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fxavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7645&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/arizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Arizona vs Ole Miss Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-[Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
-Staff Writer
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 25, 2026, 05:41 AM EST
-Updated:
-Nov 25, 2026, 05:41 AM EST
-Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Arizona Wildcats guard Caleb Holt (3, white shirt)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Arizona Wildcats take on the Ole Miss Rebels in Lahaina, Hawaii, in the Maui Invitational title game. Tip-off is set for 2:30 p.m. ET on ESPN.
-Arizona is favored by 5.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -220. The total is set at 156.5 points.
-Here’s my **Arizona vs. Ole Miss prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 25, 2026.
-* * *
-## Arizona vs Ole Miss Prediction
-**Pick:[ Arizona -5.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3247810839&context=action-articles)**
-My**Arizona vs Ole Miss best bet** is on the Wildcats to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Arizona vs Ole Miss Odds
-[![Arizona Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)](https://www.actionnetwork.com/ncaab/odds/arizona-wildcats)
-Wednesday, Nov 25
-2:30 p.m. ET
-ESPN
-[![Ole Miss Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)](https://www.actionnetwork.com/ncaab/odds/ole-miss-rebels)  
-| Arizona Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -5.5 -106  |  156.5 -110o / -110u  | -220  |  
-| Ole Miss Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +5.5 -114  |  156.5 -110o / -110u  | +184  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Arizona vs Ole Miss spread:** Arizona -5.5 (-106), Ole Miss +4.5 (-114)
-  * **Arizona vs Ole Miss over/under:** 156.5 (-110o / -110u)
-  * **Arizona vs Ole Miss moneyline:** Arizona -220, Ole Miss +184
-
-
-* * *
-## Arizona vs Ole Miss College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)
-### Arizona Basketball
-[Arizona](https://www.actionnetwork.com/ncaab/odds/arizona-wildcats) had a stress-free run to the Maui Invitational title game, beating [Colorado State](https://www.actionnetwork.com/ncaab/odds/colorado-state-rams) by 13 and [Providence](https://www.actionnetwork.com/ncaab/odds/providence-friars) by 18.
-The biggest takeaway from those two games is no better trio exists in the country than Mo Krivas, Ivan Kharchenkov and Caleb Holt.
-Krivas was stifling at the rim in both games. Kharchenkov displayed his versatility, scoring 15+ points with six-plus assists and rebounds. Meanwhile, Holt showed he can be an alpha scorer, averaging 20+ points efficiently.
-When you think of Arizona, you think of elite defense under Tommy Lloyd. It's been good, not great, this season, as the Wildcats are 20th in defensive efficiency. That feels like the Wildcats' floor, as Arizona holds opponents to 44% on 2-point field goals (30th).
-The issue is that opponents are shooting 34% from 3-point range against them, a rate that will likely regress.
-The Wildcats' offense is strong, ranking sixth in efficiency on that end of the floor. Not only can the Wildcats push it in transition, but they can also play a slower-paced, half-court game if needed.
-In the offseason, Arizona's biggest question was shooting. Holt has addressed that concern by making 42% from 3-point range. Kharchenkov is up to an improved 35% from deep, and JJ Mandaquit is hitting 52% from downtown thus far. Even Krivas is 3-for-6 from 3.
-The Wildcats' offense has no glaring weakness.
-![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
-[Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
-Last 30d: 17-21-0 (-4.9u)
-Follow
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)
-### Ole Miss Basketball
-[Ole Miss](https://www.actionnetwork.com/ncaab/odds/ole-miss-rebels) looked destined for the third-place game in Maui. The Rebels gave up 40 first-half points to [BYU](https://www.actionnetwork.com/ncaab/odds/byu-cougars) and trailed by 14 at the half, but they tied the game five minutes into the second half. The Cougars shot just 4-for-23 from deep and turned the ball over 23 times, playing right into the Rebels' hands.
-That performance vaulted Ole Miss to No. 1 in KenPom's defensive efficiency. The Rebels also lead the country with a 30% turnover rate and limit teams to 47% shooting on 2s.
-I'm not as sold on what happens to Ole Miss if it can't force turnovers and get in transition. The Rebels rank 74th in offensive efficiency and shoot just 33% from deep. The two best shooters on the roster are Ilias Kamardine and Patton Pinkins, who are both over 40% this season.
-Often, Ole Miss's best half-court offense is Adam "Budd" Clark with the ball making something happen. He's fast and loves to operate in the mid-range and in. He can dump the ball to the athletic bigs or pull up from the mid-range.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ari.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mis.png)
-## Arizona vs. Ole Miss Pick, Betting Analysis
-All in all, I think Arizona is a cut above Ole Miss.
-We know the Wildcats can win in multiple ways — slow-paced or fast-paced.
-Plus, all the Arizona ball-handlers won't struggle against Ole Miss' ball pressure the way BYU did.
-Lay the points with the Cats as they win the Maui title.
-**Pick:[ Arizona -5.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3247810839&context=action-articles)**
-* * *
-### How To Watch Arizona vs Ole Miss
-Location:
-Lahaina Civic Center in Lahaina, HI
-Date:
-Wed, Nov 25
-Tipoff Time:
-2:30 PM EST
-TV/Streaming:
-ESPN
-Arizona vs Ole Miss is scheduled for 2:30 PM EST live from Lahaina Civic Center on Wednesday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://twitter.com/intent/tweet?text=Arizona%20vs%20Ole%20Miss%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Wednesday%2C%20Nov.%2025&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25)
-![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
-About the Author
-Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
-[Follow @seanpaulcbb on X](https://x.com/seanpaulcbb)
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Arizona vs Ole Miss Prediction
-Right Arrow
-Arizona vs Ole Miss Odds
-Right Arrow
-Arizona vs Ole Miss College Basketball Preview
-Right Arrow
-Arizona Basketball
-Right Arrow
-Ole Miss Basketball
-Right Arrow
-Arizona vs. Ole Miss Pick, Betting Analysis
-Right Arrow
-How To Watch Arizona vs Ole Miss
-### Top Stories
-[![College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://images.actionnetwork.com/blog/2026/11/Silas.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-NCAAB
-[College Basketball Best Bets: 4 Feast Week Picks for Wednesday, November 25](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-feast-week-picks-wednesday-november-25)
-Greg Waddell
-11 hours ago
-[![Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25.jpg)](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Marquette vs Virginia Prediction, Odds, Start Time: College Basketball Picks for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/marquette-golden-eagles-vs-virginia-cavaliers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Colby Marchio
-10 hours ago
-[ PRO ![College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://images.actionnetwork.com/blog/2026/11/parl.jpg) ](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-NCAAB
-[College Basketball Wednesday Predictions: 3 Picks & Boosted Parlay](https://www.actionnetwork.com/ncaab/college-basketball-odds-pick-parlay-wednesday-11-25-2026)
-Alex Kolodziej
-3 hours ago
-[![Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/DonovanDent-LSU-11252026.jpg)](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Arizona State vs LSU Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/arizona-state-sun-devils-vs-lsu-tigers-prediction-pick-odds-college-basketball-wednesday-november-25)
-Ryan Minion
-6 hours ago
-[![Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://images.actionnetwork.com/blog/2026/11/TexasAM-11252026.jpg)](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-NCAAB
-[Xavier vs Texas A&M Prediction, Pick, College Basketball Odds for Wednesday, Nov. 25](https://www.actionnetwork.com/ncaab/xavier-musketeers-vs-texas-am-aggies-prediction-pick-odds-college-basketball-wednesday-november-25)
-Greg Waddell
-5 hours ago
-[![College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://images.actionnetwork.com/blog/2026/11/krivas112526.jpg)](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-NCAAB
-[College Basketball Ladder Challenge: Wednesday’s Feast Week Pick](https://www.actionnetwork.com/ncaab/college-basketball-ladder-challenge-feast-week-picks)
-Ryan Minion
-1 hour ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=78ad8092-c0ad-4e1c-a3c3-bdd5bde31e4c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=792b5538-1cda-4340-acb7-d33d9b706c08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=78ad8092-c0ad-4e1c-a3c3-bdd5bde31e4c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=792b5538-1cda-4340-acb7-d33d9b706c08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9b5c04e5-319c-4051-9b64-47262945704b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=792b5538-1cda-4340-acb7-d33d9b706c08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7693&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=9b5c04e5-319c-4051-9b64-47262945704b&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=792b5538-1cda-4340-acb7-d33d9b706c08&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farizona-wildcats-vs-ole-miss-rebels-prediction-pick-odds-college-basketball-wednesday-november-25&tw_engaged_ms=7693&tw_iframe_status=0&tw_pid_src=2&tw_session_count=132&tw_session_id=1795622610416-625601905&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![Image 15](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)
 
