@@ -1,8 +1,8 @@
-# NBA betting sources | Wed 11/25/2026 | updated 2026-11-25 18:10 ET
+# NBA betting sources | Wed 11/25/2026 | updated 2026-11-25 18:38 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NBABets/sources/2026-11-25/covers_top_picks.md       UPDATED (changed since 2026-11-25 16:12) 29,188 chars https://www.covers.com/nba/top-picks-nov-25-2026
-OK      NBABets/sources/2026-11-25/covers_ats_picks.md       UPDATED (changed since 2026-11-25 16:12) 26,648 chars https://www.covers.com/nba/against-the-spread-predictions-picks-nov-25-2026
-OK      NBABets/sources/2026-11-25/rotowire_bets.md          UPDATED (changed since 2026-11-25 16:12) 24,751 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-25-148156
-OK      NBABets/sources/2026-11-25/fanduel_research_bets.md  UPDATED (changed since 2026-11-25 16:12) 14,839 chars [today's 1 article(s)] https://www.fanduel.com/research/8-best-nba-bets-and-4-nba-player-props-for-wednesday-november-25-2026
-OK      NBABets/sources/2026-11-25/bettingpros_bets.md       UPDATED (changed since 2026-11-25 16:12) 183,723 chars [4 of 4 articles combined] https://www.bettingpros.com/articles/sports/nba/
+OK      NBABets/sources/2026-11-25/covers_top_picks.md       no changes since 2026-11-25 18:10  https://www.covers.com/nba/top-picks-nov-25-2026
+OK      NBABets/sources/2026-11-25/covers_ats_picks.md       no changes since 2026-11-25 18:10  https://www.covers.com/nba/against-the-spread-predictions-picks-nov-25-2026
+OK      NBABets/sources/2026-11-25/rotowire_bets.md          UPDATED (changed since 2026-11-25 18:10) 24,702 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-wednesday-nov-25-148156
+OK      NBABets/sources/2026-11-25/fanduel_research_bets.md  UPDATED (changed since 2026-11-25 18:10) 14,839 chars [today's 1 article(s)] https://www.fanduel.com/research/8-best-nba-bets-and-4-nba-player-props-for-wednesday-november-25-2026
+OK      NBABets/sources/2026-11-25/bettingpros_bets.md       UPDATED (changed since 2026-11-25 18:10) 186,792 chars [4 of 4 articles combined] https://www.bettingpros.com/articles/sports/nba/
